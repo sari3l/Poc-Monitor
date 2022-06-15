@@ -10,6 +10,7 @@ import (
 	nUrl "net/url"
 	"os"
 	"path/filepath"
+	"reflect"
 	"regexp"
 	"time"
 )
@@ -22,13 +23,13 @@ const cveQuery = "CVE-20"
 // 通知函数
 var barkToken = os.Getenv("barkToken")
 
-func Notice(updateItems *[]Item) {
+func Notice(updateItems *[]*Item) {
 	for _, item := range *updateItems {
 		webhook := fmt.Sprintf("https://api.day.app/%s/%s/%s", barkToken, nUrl.QueryEscape(item.Name), nUrl.QueryEscape(item.Description))
 		option := bark.Option{Webhook: webhook}
 		option.Url = item.HtmlUrl
 		option.ToNotifier().Send(nil)
-		fmt.Printf("[>] 更新 %s\n", webhook)
+		fmt.Printf("[>] 新增 %s\n", webhook)
 	}
 }
 
@@ -36,6 +37,7 @@ func Notice(updateItems *[]Item) {
 
 var EmptyError = errors.New("-1")
 var UpdateJsonFilePath = fmt.Sprintf("%s/update.json", GetCurrentDirectory())
+var NewJsonFilePath = fmt.Sprintf("%s/new.json", GetCurrentDirectory())
 
 type Item struct {
 	Id       int    `json:"id"`
@@ -78,13 +80,14 @@ type Item struct {
 var cveExp, _ = regexp.Compile(`CVE-(\d+)-\d+`)
 
 func main() {
-	updateItems := new([]Item)
 	url := fmt.Sprintf("https://api.github.com/search/repositories?q=%s&sort=updated", cveQuery)
 	resp := requests.Get(url)
 	if resp == nil {
 		fmt.Println(fmt.Errorf("[!] 无法访问 %s", url))
 	}
 	items := resp.Json().Get("items").Array()
+	var addItems = make([]*Item, 0)
+	var updateItems = make([]*Item, 0)
 	for _, data := range items {
 		item := new(Item)
 		err := json.Unmarshal([]byte(data.Raw), item)
@@ -105,28 +108,34 @@ func main() {
 			}
 		}
 		// 检查cve信息
-		var itemsContent = new([]Item)
+		var historyItems = make([]*Item, 0)
 		if CheckFileExists(cveFilePath) {
 			// 读取历史cve信息
-			err, itemsContent = ReadJsonFile(cveFilePath)
+			err, historyItems = ReadJsonFile(cveFilePath)
 			if err != nil && err != EmptyError {
 				fmt.Println(fmt.Errorf("[!] 读取 %s 失败, %s", cveFilePath, err))
 			}
 		}
-		needUpdate := true
-		for _, historyItem := range *itemsContent {
+		needAdd := true
+		for index, historyItem := range historyItems {
 			if item.Id == historyItem.Id {
-				needUpdate = false
+				// diff
+				if !reflect.DeepEqual(*item, *historyItem) {
+					itemsContentValues := historyItems
+					itemsContentValues[index] = item
+					updateItems = append(updateItems, item)
+					fmt.Printf("[>] 更新 %s %d\n", cveId, item.Id)
+				}
+				needAdd = false
 				break
 			}
 		}
-		if !needUpdate {
-			continue
+		if needAdd {
+			historyItems = append(historyItems, item)
+			addItems = append(addItems, item)
 		}
-		*itemsContent = append(*itemsContent, *item)
-		*updateItems = append(*updateItems, *item)
 		// 更新cve信息
-		byteValue, err := json.Marshal(*itemsContent)
+		byteValue, err := json.Marshal(historyItems)
 		if err != nil {
 			fmt.Println(fmt.Errorf("[!] 转换 %s 内容失败, %s", cveId, err))
 		}
@@ -134,17 +143,26 @@ func main() {
 			fmt.Println(fmt.Errorf("[!] 写入 %s 内容失败, %s", cveFilePath, err))
 		}
 	}
-	// 退出前更新当次内容
-	if len(*updateItems) != 0 {
-		byteValue, err := json.Marshal(*updateItems)
+	// 退出前更新new/update内容
+	if len(updateItems) != 0 {
+		byteValue, err := json.Marshal(updateItems)
 		if err != nil {
 			fmt.Println(fmt.Errorf("[!] 转换更新内容失败, %s", err))
 		}
 		if err = WriteJsonFile(UpdateJsonFilePath, byteValue); err != nil {
 			fmt.Println(fmt.Errorf("[!] 写入更新内容失败, %s", err))
 		}
-		// 更新后通知
-		Notice(updateItems)
+	}
+	if len(addItems) != 0 {
+		byteValue, err := json.Marshal(addItems)
+		if err != nil {
+			fmt.Println(fmt.Errorf("[!] 转换新增内容失败, %s", err))
+		}
+		if err = WriteJsonFile(NewJsonFilePath, byteValue); err != nil {
+			fmt.Println(fmt.Errorf("[!] 写入新增内容失败, %s", err))
+		}
+		// 新增后通知
+		Notice(&addItems)
 	}
 }
 
@@ -172,8 +190,8 @@ func CreateDir(dirPath string) error {
 	return nil
 }
 
-func ReadJsonFile(filepath string) (error, *[]Item) {
-	items := new([]Item)
+func ReadJsonFile(filepath string) (error, []*Item) {
+	items := make([]*Item, 0)
 	file, err := os.OpenFile(filepath, os.O_RDONLY, os.ModeAppend)
 	if err != nil {
 		return err, items
