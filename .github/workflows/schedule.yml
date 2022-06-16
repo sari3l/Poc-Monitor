@@ -31,5 +31,5 @@ jobs:
           go build search.go
           ./search
           git add .
-          git commit -m "update by github action"
+          git commit -m "Auto Update `date --rfc-3339=seconds`"
           git push -f

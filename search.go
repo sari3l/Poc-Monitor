@@ -23,11 +23,14 @@ const cveQuery = "CVE-20"
 // 通知函数
 var barkToken = os.Getenv("barkToken")
 
+const barkGroup = "Poc-Monitor"
+
 func Notice(updateItems *[]*Item) {
 	for _, item := range *updateItems {
 		webhook := fmt.Sprintf("https://api.day.app/%s/%s/%s", barkToken, nUrl.QueryEscape(item.Name), nUrl.QueryEscape(item.Description))
 		option := bark.Option{Webhook: webhook}
 		option.Url = item.HtmlUrl
+		option.Group = barkGroup
 		option.ToNotifier().Send(nil)
 		fmt.Printf("[>] 新增 %s\n", webhook)
 	}
@@ -38,6 +41,7 @@ func Notice(updateItems *[]*Item) {
 var EmptyError = errors.New("-1")
 var UpdateJsonFilePath = fmt.Sprintf("%s/update.json", GetCurrentDirectory())
 var NewJsonFilePath = fmt.Sprintf("%s/new.json", GetCurrentDirectory())
+var LogFilePath = "dateLog"
 
 type Item struct {
 	Id       int    `json:"id"`
@@ -77,7 +81,12 @@ type Item struct {
 	Score           float64   `json:"score"`
 }
 
-var cveExp, _ = regexp.Compile(`CVE-(\d+)-\d+`)
+type DateLog struct {
+	New    []*Item `json:"new"`
+	Update []*Item `json:"update"`
+}
+
+var cveExp, _ = regexp.Compile(`(?i)CVE-(\d+)-\d+`)
 
 func main() {
 	url := fmt.Sprintf("https://api.github.com/search/repositories?q=%s&sort=updated", cveQuery)
@@ -97,6 +106,9 @@ func main() {
 		// 提取CVE信息
 		cveInfo := cveExp.FindStringSubmatch(item.Name)
 		// 查询本地信息
+		if cveInfo == nil {
+			continue
+		}
 		cveId, cveYear := cveInfo[0], cveInfo[1]
 		cveYearPath := fmt.Sprintf("%s/%s", GetCurrentDirectory(), cveYear)
 		cveFilePath := fmt.Sprintf("%s/%s/%s.json", GetCurrentDirectory(), cveYear, cveId)
@@ -111,7 +123,7 @@ func main() {
 		var historyItems = make([]*Item, 0)
 		if CheckFileExists(cveFilePath) {
 			// 读取历史cve信息
-			err, historyItems = ReadJsonFile(cveFilePath)
+			err = ReadJsonFile(cveFilePath, &historyItems)
 			if err != nil && err != EmptyError {
 				fmt.Println(fmt.Errorf("[!] 读取 %s 失败, %s", cveFilePath, err))
 			}
@@ -143,26 +155,63 @@ func main() {
 			fmt.Println(fmt.Errorf("[!] 写入 %s 内容失败, %s", cveFilePath, err))
 		}
 	}
-	// 退出前更新new/update内容
-	if len(updateItems) != 0 {
-		byteValue, err := json.Marshal(updateItems)
+
+	if len(addItems) != 0 || len(updateItems) != 0 {
+		// 更新dateLog
+		logPath := fmt.Sprintf("%s/%s", GetCurrentDirectory(), LogFilePath)
+		if !CheckFileExists(logPath) {
+			_ = CreateDir(logPath)
+		}
+		dateLogFilePath := fmt.Sprintf("%s/%s.json", logPath, time.Now().Format("2006-01-02"))
+		dateLogItems := DateLog{}
+		if CheckFileExists(dateLogFilePath) {
+			// 读取历史cve信息
+			err := ReadJsonFile(dateLogFilePath, &dateLogItems)
+			if err != nil && err != EmptyError {
+				fmt.Println(fmt.Errorf("[!] 读取 %s 失败, %s", dateLogFilePath, err))
+			}
+		}
+		dateLogItems.New = append(dateLogItems.New, addItems...)
+		for _, item := range updateItems {
+			for logIndex, logItem := range dateLogItems.Update {
+				if item.Id == logItem.Id {
+					if !reflect.DeepEqual(*item, *logItem) {
+						dateLogItems.Update[logIndex] = item
+					}
+					break
+				}
+			}
+			dateLogItems.Update = append(dateLogItems.Update, item)
+		}
+		byteValue, err := json.Marshal(dateLogItems)
 		if err != nil {
-			fmt.Println(fmt.Errorf("[!] 转换更新内容失败, %s", err))
+			fmt.Println(fmt.Errorf("[!] 转换日志内容失败, %s", err))
 		}
-		if err = WriteJsonFile(UpdateJsonFilePath, byteValue); err != nil {
-			fmt.Println(fmt.Errorf("[!] 写入更新内容失败, %s", err))
+		if err = WriteJsonFile(dateLogFilePath, byteValue); err != nil {
+			fmt.Println(fmt.Errorf("[!] 写入日志内容失败, %s", err))
 		}
-	}
-	if len(addItems) != 0 {
-		byteValue, err := json.Marshal(addItems)
-		if err != nil {
-			fmt.Println(fmt.Errorf("[!] 转换新增内容失败, %s", err))
+
+		// 更新new/update内容
+		if len(updateItems) != 0 {
+			byteValue, err = json.Marshal(updateItems)
+			if err != nil {
+				fmt.Println(fmt.Errorf("[!] 转换更新内容失败, %s", err))
+			}
+			if err = WriteJsonFile(UpdateJsonFilePath, byteValue); err != nil {
+				fmt.Println(fmt.Errorf("[!] 写入更新内容失败, %s", err))
+			}
 		}
-		if err = WriteJsonFile(NewJsonFilePath, byteValue); err != nil {
-			fmt.Println(fmt.Errorf("[!] 写入新增内容失败, %s", err))
+		if len(addItems) != 0 {
+			byteValue, err = json.Marshal(addItems)
+			if err != nil {
+				fmt.Println(fmt.Errorf("[!] 转换新增内容失败, %s", err))
+			}
+			if err = WriteJsonFile(NewJsonFilePath, byteValue); err != nil {
+				fmt.Println(fmt.Errorf("[!] 写入新增内容失败, %s", err))
+			}
+			// 新增后通知
+			Notice(&addItems)
 		}
-		// 新增后通知
-		Notice(&addItems)
 	}
 }
 
@@ -190,20 +239,19 @@ func CreateDir(dirPath string) error {
 	return nil
 }
 
-func ReadJsonFile(filepath string) (error, []*Item) {
-	items := make([]*Item, 0)
+func ReadJsonFile(filepath string, obj any) error {
 	file, err := os.OpenFile(filepath, os.O_RDONLY, os.ModeAppend)
 	if err != nil {
-		return err, items
+		return err
 	}
 	byteValue, _ := ioutil.ReadAll(file)
 	if len(byteValue) == 0 {
-		return EmptyError, items
+		return EmptyError
 	}
-	if err = json.Unmarshal(byteValue, &items); err != nil {
-		return err, items
+	if err = json.Unmarshal(byteValue, obj); err != nil {
+		return err
 	}
-	return nil, items
+	return nil
 }
 
 func WriteJsonFile(filepath string, content []byte) error {
