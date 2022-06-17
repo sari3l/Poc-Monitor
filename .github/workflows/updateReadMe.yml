@@ -1,0 +1,38 @@
+name: updateReadMe
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out code into the Go module directory
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Set up Go 1.18
+        uses: actions/setup-go@v3
+        with:
+          go-version: 1.18
+        id: go
+      
+      - name: Run update
+        env: 
+          barkToken: ${{secrets.BARK_TOKEN}}
+        run: |
+          git config --local user.email "bot@github.com"
+          git config --local user.name "bot"
+          git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git pull --rebase
+          go build update.go utils.go
+          ./update
+          rm update
+          git add .
+          git commit -m "Auto Update `date --rfc-3339=seconds`"
+          git push -f

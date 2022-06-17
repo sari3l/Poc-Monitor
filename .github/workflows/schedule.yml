@@ -28,8 +28,9 @@ jobs:
           git config --local user.name "bot"
           git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git pull --rebase
-          go build search.go
+          go build search.go utils.go
           ./search
+          rm search
           git add .
           git commit -m "Auto Update `date --rfc-3339=seconds`"
           git push -f
