@@ -110,6 +110,11 @@
 - [ahmetsabrimert/Apache-CouchDB-CVE-2022-24706-RCE-Exploits-Blog-post-](https://github.com/ahmetsabrimert/Apache-CouchDB-CVE-2022-24706-RCE-Exploits-Blog-post-)
 
 ---
+## CVE-2022-23342 ()
+> 
+- [InitRoot/CVE-2022-23342](https://github.com/InitRoot/CVE-2022-23342)
+
+---
 ## CVE-2022-22972 (2022-05-20T21:15:00)
 > VMware Workspace ONE Access, Identity Manager and vRealize Automation contain an authentication bypass vulnerability affecting local domain users. A malicious actor with network access to the UI may be able to obtain administrative access without the need to authenticate.
 - [bengisugun/CVE-2022-22972](https://github.com/bengisugun/CVE-2022-22972)
