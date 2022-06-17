@@ -1,14 +1,15 @@
 name: updateReadMe
 
 on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+  workflow_run:
+    workflows: [schedule]
+    types:
+      - completed
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
 
     steps:
       - name: Check out code into the Go module directory
