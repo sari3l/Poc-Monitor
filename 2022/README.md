@@ -89,6 +89,11 @@
 - [scoobydoobi/CVE-2022-26809-POC-RCE](https://github.com/scoobydoobi/CVE-2022-26809-POC-RCE)
 
 ---
+## CVE-2022-26269 (2022-03-29T01:15:00)
+> Suzuki Connect v1.0.15 allows attackers to tamper with displayed messages via spoofed CAN messages.
+- [nsbogam/CVE-2022-26269](https://github.com/nsbogam/CVE-2022-26269)
+
+---
 ## CVE-2022-26134 (2022-06-03T22:15:00)
 > In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are from 1.3.0 before 7.4.17, from 7.13.0 before 7.13.7, from 7.14.0 before 7.14.3, from 7.15.0 before 7.15.2, from 7.16.0 before 7.16.4, from 7.17.0 before 7.17.4, and from 7.18.0 before 7.18.1.
 - [Chocapikk/CVE-2022-26134](https://github.com/Chocapikk/CVE-2022-26134)
