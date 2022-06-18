@@ -24,3 +24,8 @@
 ## CVE-2021-40649 (2022-06-14T10:15:00)
 > In Connx Version 6.2.0.1269 (20210623), a cookie can be issued by the application and not have the HttpOnly flag set.
 - [l00neyhacker/CVE-2021-40649](https://github.com/l00neyhacker/CVE-2021-40649)
+
+---
+## CVE-2021-3560 (2022-02-16T19:15:00)
+> It was found that polkit could be tricked into bypassing the credential checks for D-Bus requests, elevating the privileges of the requestor to the root user. This flaw could be used by an unprivileged local attacker to, for example, create a new local administrator. The highest threat from this vulnerability is to data confidentiality and integrity as well as system availability.
+- [UNICORDev/exploit-CVE-2021-3560](https://github.com/UNICORDev/exploit-CVE-2021-3560)
