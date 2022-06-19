@@ -16,6 +16,11 @@
 - [pwn3z/CVE-2021-41773-Apache-RCE](https://github.com/pwn3z/CVE-2021-41773-Apache-RCE)
 
 ---
+## CVE-2021-40903 (2022-06-17T14:15:00)
+> A vulnerability in Antminer Monitor 0.50.0 exists because of backdoor or misconfiguration inside a settings file in flask server. Settings file has a predefined secret string, which would be randomly generated, however it is static.
+- [vulnz/CVE-2021-40903](https://github.com/vulnz/CVE-2021-40903)
+
+---
 ## CVE-2021-40650 (2022-06-14T10:15:00)
 > In Connx Version 6.2.0.1269 (20210623), a cookie can be issued by the application and not have the secure flag set.
 - [l00neyhacker/CVE-2021-40650](https://github.com/l00neyhacker/CVE-2021-40650)
