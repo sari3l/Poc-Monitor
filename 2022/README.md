@@ -108,6 +108,7 @@
 - [Chocapikk/CVE-2022-26134](https://github.com/Chocapikk/CVE-2022-26134)
 - [murataydemir/CVE-2022-26134](https://github.com/murataydemir/CVE-2022-26134)
 - [SNCKER/CVE-2022-26134](https://github.com/SNCKER/CVE-2022-26134)
+- [AmoloHT/CVE-2022-26134](https://github.com/AmoloHT/CVE-2022-26134)
 
 ---
 ## CVE-2022-24706 (2022-04-26T10:15:00)
