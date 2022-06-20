@@ -86,6 +86,16 @@
 - [FlaviuPopescu/CVE-2022-28986](https://github.com/FlaviuPopescu/CVE-2022-28986)
 
 ---
+## CVE-2022-28944 (2022-05-23T18:16:00)
+> Certain EMCO Software products are affected by: CWE-494: Download of Code Without Integrity Check. This affects MSI Package Builder for Windows 9.1.4 and Remote Installer for Windows 6.0.13 and Ping Monitor for Windows 8.0.18 and Remote Shutdown for Windows 7.2.2 and WakeOnLan 2.0.8 and Network Inventory for Windows 5.8.22 and Network Software Scanner for Windows 2.0.8 and UnLock IT for Windows 6.1.1. The impact is: execute arbitrary code (remote). The component is: Updater. The attack vector is: To exploit this vulnerability, a user must trigger an update of an affected installation of EMCO Software. ¶¶ Multiple products from EMCO Software are affected by a remote code execution vulnerability during the update process.
+- [gerr-re/cve-2022-28944](https://github.com/gerr-re/cve-2022-28944)
+
+---
+## CVE-2022-27438 (2022-06-06T23:15:00)
+> Caphyon Ltd Advanced Installer 19.3 and earlier and many products that use the updater from Advanced Installer (Advanced Updater) are affected by a remote code execution vulnerability via the CustomDetection parameter in the update check function. To exploit this vulnerability, a user must start an affected installation to trigger the update check.
+- [gerr-re/cve-2022-27438](https://github.com/gerr-re/cve-2022-27438)
+
+---
 ## CVE-2022-26937 (2022-05-10T21:15:00)
 > Windows Network File System Remote Code Execution Vulnerability.
 - [omair2084/CVE-2022-26937](https://github.com/omair2084/CVE-2022-26937)
