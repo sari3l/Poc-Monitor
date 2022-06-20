@@ -152,6 +152,11 @@
 - [Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004)
 
 ---
+## CVE-2022-1388 (2022-05-05T17:15:00)
+> On F5 BIG-IP 16.1.x versions prior to 16.1.2.2, 15.1.x versions prior to 15.1.5.1, 14.1.x versions prior to 14.1.4.6, 13.1.x versions prior to 13.1.5, and all 12.1.x and 11.6.x versions, undisclosed requests may bypass iControl REST authentication. Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated
+- [Chocapikk/CVE-2022-1388](https://github.com/Chocapikk/CVE-2022-1388)
+
+---
 ## CVE-2022-0847 (2022-03-10T17:44:00)
 > A flaw was found in the way the "flags" member of the new pipe buffer structure was lacking proper initialization in copy_page_to_iter_pipe and push_pipe functions in the Linux kernel and could thus contain stale values. An unprivileged local user could use this flaw to write to pages in the page cache backed by read only files and as such escalate their privileges on the system.
 - [greenhandatsjtu/CVE-2022-0847-Container-Escape](https://github.com/greenhandatsjtu/CVE-2022-0847-Container-Escape)
