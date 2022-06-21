@@ -11,6 +11,11 @@
 - [ahaShiyu/CVE-2019-3560](https://github.com/ahaShiyu/CVE-2019-3560)
 
 ---
+## CVE-2019-19945 (2020-03-16T18:15:00)
+> uhttpd in OpenWrt through 18.06.5 and 19.x through 19.07.0-rc2 has an integer signedness error. This leads to out-of-bounds access to a heap buffer and a subsequent crash. It can be triggered with an HTTP POST request to a CGI script, specifying both "Transfer-Encoding: chunked" and a large negative Content-Length value.
+- [delicateByte/CVE-2019-19945_Test](https://github.com/delicateByte/CVE-2019-19945_Test)
+
+---
 ## CVE-2019-17662 (2019-10-16T18:15:00)
 > ThinVNC 1.0b1 is vulnerable to arbitrary file read, which leads to a compromise of the VNC server. The vulnerability exists even when authentication is turned on during the deployment of the VNC server. The password for authentication is stored in cleartext in a file that can be read via a ../../ThinVnc.ini directory traversal attack vector.
 - [Tamagaft/CVE-2019-17662](https://github.com/Tamagaft/CVE-2019-17662)
