@@ -130,8 +130,8 @@
 - [ahmetsabrimert/Apache-CouchDB-CVE-2022-24706-RCE-Exploits-Blog-post-](https://github.com/ahmetsabrimert/Apache-CouchDB-CVE-2022-24706-RCE-Exploits-Blog-post-)
 
 ---
-## CVE-2022-23342 ()
-> 
+## CVE-2022-23342 (2022-06-21T14:15:00)
+> The Hyland Onbase Application Server releases prior to 20.3.58.1000 and OnBase releases 21.1.1.1000 through 21.1.15.1000 are vulnerable to a username enumeration vulnerability. An attacker can obtain valid users based on the response returned for invalid and valid users by sending a POST login request to the /mobilebroker/ServiceToBroker.svc/Json/Connect endpoint. This can lead to user enumeration against the underlying Active Directory integrated systems.
 - [InitRoot/CVE-2022-23342](https://github.com/InitRoot/CVE-2022-23342)
 
 ---
