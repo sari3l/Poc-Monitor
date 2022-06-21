@@ -39,3 +39,8 @@
 ## CVE-2021-3560 (2022-02-16T19:15:00)
 > It was found that polkit could be tricked into bypassing the credential checks for D-Bus requests, elevating the privileges of the requestor to the root user. This flaw could be used by an unprivileged local attacker to, for example, create a new local administrator. The highest threat from this vulnerability is to data confidentiality and integrity as well as system availability.
 - [UNICORDev/exploit-CVE-2021-3560](https://github.com/UNICORDev/exploit-CVE-2021-3560)
+
+---
+## CVE-2021-22005 (2021-09-23T12:15:00)
+> The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.
+- [InventorMAO/cve-2021-22005](https://github.com/InventorMAO/cve-2021-22005)
