@@ -36,6 +36,11 @@
 - [l00neyhacker/CVE-2021-40649](https://github.com/l00neyhacker/CVE-2021-40649)
 
 ---
+## CVE-2021-40444 (2021-09-15T12:15:00)
+> Microsoft MSHTML Remote Code Execution Vulnerability
+- [klezVirus/CVE-2021-40444](https://github.com/klezVirus/CVE-2021-40444)
+
+---
 ## CVE-2021-3560 (2022-02-16T19:15:00)
 > It was found that polkit could be tricked into bypassing the credential checks for D-Bus requests, elevating the privileges of the requestor to the root user. This flaw could be used by an unprivileged local attacker to, for example, create a new local administrator. The highest threat from this vulnerability is to data confidentiality and integrity as well as system availability.
 - [UNICORDev/exploit-CVE-2021-3560](https://github.com/UNICORDev/exploit-CVE-2021-3560)
