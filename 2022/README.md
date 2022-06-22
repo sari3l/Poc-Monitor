@@ -138,6 +138,7 @@
 ## CVE-2022-22980 ()
 > 
 - [trganda/CVE-2022-22980](https://github.com/trganda/CVE-2022-22980)
+- [jweny/CVE-2022-22980-web-env](https://github.com/jweny/CVE-2022-22980-web-env)
 
 ---
 ## CVE-2022-22972 (2022-05-20T21:15:00)
