@@ -1,6 +1,11 @@
 # 2022 List
 
 ---
+## CVE-2022-9673 ()
+> 
+- [CVE-2099-2222/CVE-2022-9673](https://github.com/CVE-2099-2222/CVE-2022-9673)
+
+---
 ## CVE-2022-31301 (2022-06-16T18:15:00)
 > Haraj v3.7 was discovered to contain a stored cross-site scripting (XSS) vulnerability in the Post Ads component.
 - [bigzooooz/CVE-2022-31301](https://github.com/bigzooooz/CVE-2022-31301)
