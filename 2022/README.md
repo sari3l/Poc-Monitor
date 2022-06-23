@@ -146,8 +146,8 @@
 - [PenteraIO/CVE-2022-23222-POC](https://github.com/PenteraIO/CVE-2022-23222-POC)
 
 ---
-## CVE-2022-22980 ()
-> 
+## CVE-2022-22980 (2022-06-23T17:15:00)
+> A Spring Data MongoDB application is vulnerable to SpEL Injection when using @Query or @Aggregation-annotated query methods with SpEL expressions that contain query parameter placeholders for value binding if the input is not sanitized.
 - [trganda/CVE-2022-22980](https://github.com/trganda/CVE-2022-22980)
 - [jweny/cve-2022-22980-exp](https://github.com/jweny/cve-2022-22980-exp)
 
