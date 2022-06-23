@@ -31,6 +31,11 @@
 - [trhacknon/CVE-2020-17519](https://github.com/trhacknon/CVE-2020-17519)
 
 ---
+## CVE-2020-1472 (2020-08-17T19:15:00)
+> An elevation of privilege vulnerability exists when an attacker establishes a vulnerable Netlogon secure channel connection to a domain controller, using the Netlogon Remote Protocol (MS-NRPC), aka 'Netlogon Elevation of Privilege Vulnerability'.
+- [lele8/CVE-2020-1472](https://github.com/lele8/CVE-2020-1472)
+
+---
 ## CVE-2020-1034 (2020-09-11T17:15:00)
 > An elevation of privilege vulnerability exists in the way that the Windows Kernel handles objects in memory, aka 'Windows Kernel Elevation of Privilege Vulnerability'.
 - [GeorgyFirsov/CVE-2020-1034](https://github.com/GeorgyFirsov/CVE-2020-1034)
