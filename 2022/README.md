@@ -141,6 +141,11 @@
 - [InitRoot/CVE-2022-23342](https://github.com/InitRoot/CVE-2022-23342)
 
 ---
+## CVE-2022-23222 (2022-01-14T08:15:00)
+> kernel/bpf/verifier.c in the Linux kernel through 5.15.14 allows local users to gain privileges because of the availability of pointer arithmetic via certain *_OR_NULL pointer types.
+- [PenteraIO/CVE-2022-23222-POC](https://github.com/PenteraIO/CVE-2022-23222-POC)
+
+---
 ## CVE-2022-22980 ()
 > 
 - [trganda/CVE-2022-22980](https://github.com/trganda/CVE-2022-22980)
