@@ -16,6 +16,11 @@
 - [ahaShiyu/CVE-2018-18839](https://github.com/ahaShiyu/CVE-2018-18839)
 
 ---
+## CVE-2018-16509 (2018-09-05T06:29:00)
+> An issue was discovered in Artifex Ghostscript before 9.24. Incorrect "restoration of privilege" checking during handling of /invalidaccess exceptions could be used by attackers able to supply crafted PostScript to execute code using the "pipe" instruction.
+- [rhpco/CVE-2018-16509](https://github.com/rhpco/CVE-2018-16509)
+
+---
 ## CVE-2018-15856 (2018-08-25T21:29:00)
 > An infinite loop when reaching EOL unexpectedly in compose/parser.c (aka the keymap parser) in xkbcommon before 0.8.1 could be used by local attackers to cause a denial of service during parsing of crafted keymap files.
 - [ahaShiyu/CVE-2018-15856](https://github.com/ahaShiyu/CVE-2018-15856)
