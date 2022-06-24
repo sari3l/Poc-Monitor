@@ -57,6 +57,11 @@
 - [UNICORDev/exploit-CVE-2021-3560](https://github.com/UNICORDev/exploit-CVE-2021-3560)
 
 ---
+## CVE-2021-34527 (2021-07-02T22:15:00)
+> Windows Print Spooler Remote Code Execution Vulnerability
+- [cyb3rpeace/CVE-2021-34527](https://github.com/cyb3rpeace/CVE-2021-34527)
+
+---
 ## CVE-2021-3156 (2021-01-26T21:15:00)
 > Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via "sudoedit -s" and a command-line argument that ends with a single backslash character.
 - [arvindshima/CVE-2021-3156](https://github.com/arvindshima/CVE-2021-3156)
