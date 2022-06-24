@@ -42,13 +42,13 @@
 - [klezVirus/CVE-2021-40444](https://github.com/klezVirus/CVE-2021-40444)
 
 ---
-## CVE-2021-39409 ()
-> 
+## CVE-2021-39409 (2022-06-24T17:15:00)
+> A vulnerability exists in Online Student Rate System v1.0 that allows any user to register as an administrator without needing to be authenticated.
 - [StefanDorresteijn/CVE-2021-39409](https://github.com/StefanDorresteijn/CVE-2021-39409)
 
 ---
-## CVE-2021-39408 ()
-> 
+## CVE-2021-39408 (2022-06-24T17:15:00)
+> Cross Site Scripting (XSS) vulnerability exists in Online Student Rate System 1.0 via the page parameter on the index.php file
 - [StefanDorresteijn/CVE-2021-39408](https://github.com/StefanDorresteijn/CVE-2021-39408)
 
 ---
