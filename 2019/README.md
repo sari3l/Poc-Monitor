@@ -21,6 +21,11 @@
 - [Tamagaft/CVE-2019-17662](https://github.com/Tamagaft/CVE-2019-17662)
 
 ---
+## CVE-2019-16278 (2019-10-14T17:15:00)
+> Directory Traversal in the function http_verify in nostromo nhttpd through 1.9.6 allows an attacker to achieve remote code execution via a crafted HTTP request.
+- [keshiba/cve-2019-16278](https://github.com/keshiba/cve-2019-16278)
+
+---
 ## CVE-2019-15107 (2019-08-16T03:15:00)
 > An issue was discovered in Webmin <=1.920. The parameter old in password_change.cgi contains a command injection vulnerability.
 - [psw01/CVE-2019-15107_webminRCE](https://github.com/psw01/CVE-2019-15107_webminRCE)
