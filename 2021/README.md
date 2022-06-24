@@ -57,6 +57,11 @@
 - [UNICORDev/exploit-CVE-2021-3560](https://github.com/UNICORDev/exploit-CVE-2021-3560)
 
 ---
+## CVE-2021-3156 (2021-01-26T21:15:00)
+> Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via "sudoedit -s" and a command-line argument that ends with a single backslash character.
+- [arvindshima/CVE-2021-3156](https://github.com/arvindshima/CVE-2021-3156)
+
+---
 ## CVE-2021-22005 (2021-09-23T12:15:00)
 > The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.
 - [InventorMAO/cve-2021-22005](https://github.com/InventorMAO/cve-2021-22005)
