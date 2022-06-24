@@ -129,6 +129,7 @@
 - [trhacknon/CVE-2022-26134](https://github.com/trhacknon/CVE-2022-26134)
 - [hou5/CVE-2022-26134](https://github.com/hou5/CVE-2022-26134)
 - [kh4sh3i/CVE-2022-26134](https://github.com/kh4sh3i/CVE-2022-26134)
+- [ColdFusionX/CVE-2022-26134](https://github.com/ColdFusionX/CVE-2022-26134)
 
 ---
 ## CVE-2022-24706 (2022-04-26T10:15:00)
