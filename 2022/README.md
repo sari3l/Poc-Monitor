@@ -6,6 +6,11 @@
 - [CVE-2099-2222/CVE-2022-9673](https://github.com/CVE-2099-2222/CVE-2022-9673)
 
 ---
+## CVE-2022-34305 (2022-06-23T11:15:00)
+> In Apache Tomcat 10.1.0-M1 to 10.1.0-M16, 10.0.0-M1 to 10.0.22, 9.0.30 to 9.0.64 and 8.5.50 to 8.5.81 the Form authentication example in the examples web application displayed user provided data without filtering, exposing a XSS vulnerability.
+- [zeroc00I/CVE-2022-34305](https://github.com/zeroc00I/CVE-2022-34305)
+
+---
 ## CVE-2022-31301 (2022-06-16T18:15:00)
 > Haraj v3.7 was discovered to contain a stored cross-site scripting (XSS) vulnerability in the Post Ads component.
 - [bigzooooz/CVE-2022-31301](https://github.com/bigzooooz/CVE-2022-31301)
