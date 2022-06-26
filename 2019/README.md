@@ -41,6 +41,11 @@
 - [razordeveloper/CVE-2019-1205](https://github.com/razordeveloper/CVE-2019-1205)
 
 ---
+## CVE-2019-10742 (2019-05-07T19:29:00)
+> Axios up to and including 0.18.0 allows attackers to cause a denial of service (application crash) by continuing to accepting content after maxContentLength is exceeded.
+- [Viniciuspxf/CVE-2019-10742](https://github.com/Viniciuspxf/CVE-2019-10742)
+
+---
 ## CVE-2019-1010319 (2019-07-11T20:15:00)
 > WavPack 5.1.0 and earlier is affected by: CWE-457: Use of Uninitialized Variable. The impact is: Unexpected control flow, crashes, and segfaults. The component is: ParseWave64HeaderConfig (wave64.c:211). The attack vector is: Maliciously crafted .wav file. The fixed version is: After commit https://github.com/dbry/WavPack/commit/33a0025d1d63ccd05d9dbaa6923d52b1446a62fe.
 - [ahaShiyu/CVE-2019-1010319](https://github.com/ahaShiyu/CVE-2019-1010319)
