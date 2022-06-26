@@ -120,6 +120,7 @@
 - [scoobydoobi/CVE-2022-26809-POC-RCE](https://github.com/scoobydoobi/CVE-2022-26809-POC-RCE)
 - [Ziggy78/CVE-2022-26809-POC](https://github.com/Ziggy78/CVE-2022-26809-POC)
 - [s1ckb017/PoC-CVE-2022-26809](https://github.com/s1ckb017/PoC-CVE-2022-26809)
+- [Calvitz/CVE-2022-26809](https://github.com/Calvitz/CVE-2022-26809)
 
 ---
 ## CVE-2022-26269 (2022-03-29T01:15:00)
