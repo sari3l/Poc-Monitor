@@ -68,6 +68,11 @@
 - [arvindshima/CVE-2021-3156](https://github.com/arvindshima/CVE-2021-3156)
 
 ---
+## CVE-2021-25003 ()
+> 
+- [biulove0x/CVE-2021-25003](https://github.com/biulove0x/CVE-2021-25003)
+
+---
 ## CVE-2021-22005 (2021-09-23T12:15:00)
 > The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.
 - [InventorMAO/cve-2021-22005](https://github.com/InventorMAO/cve-2021-22005)

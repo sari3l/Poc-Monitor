@@ -211,3 +211,8 @@
 ## CVE-2022-0847 (2022-03-10T17:44:00)
 > A flaw was found in the way the "flags" member of the new pipe buffer structure was lacking proper initialization in copy_page_to_iter_pipe and push_pipe functions in the Linux kernel and could thus contain stale values. An unprivileged local user could use this flaw to write to pages in the page cache backed by read only files and as such escalate their privileges on the system.
 - [greenhandatsjtu/CVE-2022-0847-Container-Escape](https://github.com/greenhandatsjtu/CVE-2022-0847-Container-Escape)
+
+---
+## CVE-2022-0441 (2022-03-07T09:15:00)
+> The MasterStudy LMS WordPress plugin before 2.7.6 does to validate some parameters given when registering a new account, allowing unauthenticated users to register as an admin
+- [biulove0x/CVE-2022-0441](https://github.com/biulove0x/CVE-2022-0441)
