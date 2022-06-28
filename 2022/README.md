@@ -11,6 +11,11 @@
 - [huihuo123/CVE-2022-5555](https://github.com/huihuo123/CVE-2022-5555)
 
 ---
+## CVE-2022-5541 ()
+> 
+- [Kvi74/CVE-2022-5541](https://github.com/Kvi74/CVE-2022-5541)
+
+---
 ## CVE-2022-34305 (2022-06-23T11:15:00)
 > In Apache Tomcat 10.1.0-M1 to 10.1.0-M16, 10.0.0-M1 to 10.0.22, 9.0.30 to 9.0.64 and 8.5.50 to 8.5.81 the Form authentication example in the examples web application displayed user provided data without filtering, exposing a XSS vulnerability.
 - [zeroc00I/CVE-2022-34305](https://github.com/zeroc00I/CVE-2022-34305)
@@ -223,6 +228,11 @@
 ## CVE-2022-20004 (2022-05-10T20:15:00)
 > In checkSlicePermission of SliceManagerService.java, it is possible to access any slice URI due to improper input validation. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12LAndroid ID: A-179699767
 - [Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004)
+
+---
+## CVE-2022-1903 (2022-06-27T09:15:00)
+> The ARMember WordPress plugin before 3.4.8 is vulnerable to account takeover (even the administrator) due to missing nonce and authorization checks in an AJAX action available to unauthenticated users, allowing them to change the password of arbitrary users by knowing their username
+- [biulove0x/CVE-2022-1903](https://github.com/biulove0x/CVE-2022-1903)
 
 ---
 ## CVE-2022-1388 (2022-05-05T17:15:00)
