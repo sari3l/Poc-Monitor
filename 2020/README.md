@@ -11,6 +11,12 @@
 - [DimitriNL/CTX-CVE-2020-7473](https://github.com/DimitriNL/CTX-CVE-2020-7473)		<img src="https://user-images.githubusercontent.com/45752995/176187524-029a1a42-1c31-4d23-823a-989c40ca8460.svg" alt="fork"/>5 <img src="https://user-images.githubusercontent.com/45752995/176188923-7eb4772f-794e-48da-962b-5f8f69ca184f.svg" alt="star"/>5
 
 ---
+## CVE-2020-6468 (2020-05-21T04:15:00)
+> Type confusion in V8 in Google Chrome prior to 83.0.4103.61 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [kiks7/CVE-2020-6468-Chrome-Exploit](https://github.com/kiks7/CVE-2020-6468-Chrome-Exploit)		<img src="https://user-images.githubusercontent.com/45752995/176187524-029a1a42-1c31-4d23-823a-989c40ca8460.svg" alt="fork"/>0 <img src="https://user-images.githubusercontent.com/45752995/176188923-7eb4772f-794e-48da-962b-5f8f69ca184f.svg" alt="star"/>0
+- [Goyotan/CVE-2020-6468-PoC](https://github.com/Goyotan/CVE-2020-6468-PoC)		<img src="https://user-images.githubusercontent.com/45752995/176187524-029a1a42-1c31-4d23-823a-989c40ca8460.svg" alt="fork"/>6 <img src="https://user-images.githubusercontent.com/45752995/176188923-7eb4772f-794e-48da-962b-5f8f69ca184f.svg" alt="star"/>10
+
+---
 ## CVE-2020-5844 (2020-03-16T18:15:00)
 > index.php?sec=godmode/extensions&sec2=extensions/files_repo in Pandora FMS v7.0 NG allows authenticated administrators to upload malicious PHP scripts, and execute them via base64 decoding of the file location. This affects v7.0NG.742_FIX_PERL2020.
 - [UNICORDev/exploit-CVE-2020-5844](https://github.com/UNICORDev/exploit-CVE-2020-5844)		<img src="https://user-images.githubusercontent.com/45752995/176187524-029a1a42-1c31-4d23-823a-989c40ca8460.svg" alt="fork"/>0 <img src="https://user-images.githubusercontent.com/45752995/176188923-7eb4772f-794e-48da-962b-5f8f69ca184f.svg" alt="star"/>2
