@@ -6,6 +6,16 @@
 - [CVE-2099-2222/CVE-2022-9673](https://github.com/CVE-2099-2222/CVE-2022-9673)
 
 ---
+## CVE-2022-8475 ()
+> 
+- [Kvi74/CVE-2022-8475](https://github.com/Kvi74/CVE-2022-8475)
+
+---
+## CVE-2022-5561 ()
+> 
+- [Kvi74/CVE-2022-5561](https://github.com/Kvi74/CVE-2022-5561)
+
+---
 ## CVE-2022-5555 ()
 > 
 - [huihuo123/CVE-2022-5555](https://github.com/huihuo123/CVE-2022-5555)
