@@ -65,7 +65,7 @@ func main() {
 			unit += fmt.Sprintf("> %s\n", summary)
 			ReadJsonFile(fmt.Sprintf("%s/%s/%s", GetCurrentDirectory(), dir.Name(), cveFile.Name()), &items)
 			for _, item := range items {
-				unit += fmt.Sprintf("- [%s](%s)\n", item.FullName, item.HtmlUrl)
+				unit += fmt.Sprintf("- [%s](%s)		<img src=\"https://user-images.githubusercontent.com/45752995/176187524-029a1a42-1c31-4d23-823a-989c40ca8460.svg\" alt=\"fork\"/>%d <img src=\"https://user-images.githubusercontent.com/45752995/176188923-7eb4772f-794e-48da-962b-5f8f69ca184f.svg\" alt=\"star\"/>%d\n", item.FullName, item.HtmlUrl, item.ForksCount, item.StargazersCount)
 			}
 			markdown = fmt.Sprintf("\n---\n%s", unit) + markdown
 		}
