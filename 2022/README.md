@@ -6,6 +6,11 @@
 - [CVE-2099-2222/CVE-2022-9673](https://github.com/CVE-2099-2222/CVE-2022-9673)
 
 ---
+## CVE-2022-5555 ()
+> 
+- [huihuo123/CVE-2022-5555](https://github.com/huihuo123/CVE-2022-5555)
+
+---
 ## CVE-2022-34305 (2022-06-23T11:15:00)
 > In Apache Tomcat 10.1.0-M1 to 10.1.0-M16, 10.0.0-M1 to 10.0.22, 9.0.30 to 9.0.64 and 8.5.50 to 8.5.81 the Form authentication example in the examples web application displayed user provided data without filtering, exposing a XSS vulnerability.
 - [zeroc00I/CVE-2022-34305](https://github.com/zeroc00I/CVE-2022-34305)
@@ -144,6 +149,28 @@
 - [hou5/CVE-2022-26134](https://github.com/hou5/CVE-2022-26134)
 - [kh4sh3i/CVE-2022-26134](https://github.com/kh4sh3i/CVE-2022-26134)
 - [ColdFusionX/CVE-2022-26134](https://github.com/ColdFusionX/CVE-2022-26134)
+- [li8u99/CVE-2022-26134](https://github.com/li8u99/CVE-2022-26134)
+- [W01fh4cker/Serein](https://github.com/W01fh4cker/Serein)
+- [tr0uble-mAker/POC-bomber](https://github.com/tr0uble-mAker/POC-bomber)
+- [Anonymous-ghost/AttackWebFrameworkTools-5.0](https://github.com/Anonymous-ghost/AttackWebFrameworkTools-5.0)
+- [trhacknon/CVE-2022-26134-bis](https://github.com/trhacknon/CVE-2022-26134-bis)
+- [KeepWannabe/BotCon](https://github.com/KeepWannabe/BotCon)
+- [sunny-kathuria/exploit_CVE-2022-26134](https://github.com/sunny-kathuria/exploit_CVE-2022-26134)
+- [archanchoudhury/Confluence-CVE-2022-26134](https://github.com/archanchoudhury/Confluence-CVE-2022-26134)
+- [cai-niao98/CVE-2022-26134](https://github.com/cai-niao98/CVE-2022-26134)
+- [abhishekmorla/CVE-2022-26134](https://github.com/abhishekmorla/CVE-2022-26134)
+- [redhuntlabs/ConfluentPwn](https://github.com/redhuntlabs/ConfluentPwn)
+- [hab1b0x/CVE-2022-26134](https://github.com/hab1b0x/CVE-2022-26134)
+- [PyterSmithDarkGhost/0DAYEXPLOITAtlassianConfluenceCVE-2022-26134](https://github.com/PyterSmithDarkGhost/0DAYEXPLOITAtlassianConfluenceCVE-2022-26134)
+- [whokilleddb/CVE-2022-26134-Confluence-RCE](https://github.com/whokilleddb/CVE-2022-26134-Confluence-RCE)
+- [Y000o/Confluence-CVE-2022-26134](https://github.com/Y000o/Confluence-CVE-2022-26134)
+- [alcaparra/CVE-2022-26134](https://github.com/alcaparra/CVE-2022-26134)
+- [BeichenDream/CVE-2022-26134-Godzilla-MEMSHELL](https://github.com/BeichenDream/CVE-2022-26134-Godzilla-MEMSHELL)
+- [reubensammut/cve-2022-26134](https://github.com/reubensammut/cve-2022-26134)
+- [SIFalcon/confluencePot](https://github.com/SIFalcon/confluencePot)
+- [vesperp/CVE-2022-26134-Confluence](https://github.com/vesperp/CVE-2022-26134-Confluence)
+- [Nwqda/CVE-2022-26134](https://github.com/Nwqda/CVE-2022-26134)
+- [PsykoDev/CVE-2022-26134](https://github.com/PsykoDev/CVE-2022-26134)
 
 ---
 ## CVE-2022-24706 (2022-04-26T10:15:00)
