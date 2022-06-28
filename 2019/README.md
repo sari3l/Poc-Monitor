@@ -44,6 +44,7 @@
 ## CVE-2019-10742 (2019-05-07T19:29:00)
 > Axios up to and including 0.18.0 allows attackers to cause a denial of service (application crash) by continuing to accepting content after maxContentLength is exceeded.
 - [Viniciuspxf/CVE-2019-10742](https://github.com/Viniciuspxf/CVE-2019-10742)
+- [ossf-cve-benchmark/CVE-2019-10742](https://github.com/ossf-cve-benchmark/CVE-2019-10742)
 
 ---
 ## CVE-2019-1010319 (2019-07-11T20:15:00)
