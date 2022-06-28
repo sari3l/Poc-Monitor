@@ -9,6 +9,7 @@ import (
 	"os"
 	"reflect"
 	"regexp"
+	"strconv"
 	"strings"
 	"time"
 )
@@ -42,6 +43,7 @@ var NewJsonFilePath = fmt.Sprintf("%s/new.json", GetCurrentDirectory())
 var cveExp, _ = regexp.Compile(`(?i)CVE-(\d+)-\d+`)
 
 func main() {
+	currentYear := time.Now().Year()
 	url := fmt.Sprintf("https://api.github.com/search/repositories?q=%s&sort=updated", cveQuery)
 	resp := requests.Get(url)
 	if resp == nil {
@@ -63,6 +65,10 @@ func main() {
 			continue
 		}
 		cveId, cveYear := strings.ToUpper(cveInfo[0]), cveInfo[1]
+		if year, _ := strconv.Atoi(cveYear); year > currentYear {
+			fmt.Println(fmt.Errorf("[!] 错误年限，%s", cveId))
+			continue
+		}
 		cveYearPath := fmt.Sprintf("%s/%s", GetCurrentDirectory(), cveYear)
 		cveFilePath := fmt.Sprintf("%s/%s/%s.json", GetCurrentDirectory(), cveYear, cveId)
 		// 检查年限
