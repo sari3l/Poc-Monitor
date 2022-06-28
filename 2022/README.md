@@ -11,6 +11,11 @@
 - [FedericoHeichou/CVE-2022-32988](https://github.com/FedericoHeichou/CVE-2022-32988)		<img src="https://user-images.githubusercontent.com/45752995/176187524-029a1a42-1c31-4d23-823a-989c40ca8460.svg" alt="fork"/>0 <img src="https://user-images.githubusercontent.com/45752995/176188923-7eb4772f-794e-48da-962b-5f8f69ca184f.svg" alt="star"/>0
 
 ---
+## CVE-2022-32532 ()
+> 
+- [4ra1n/CVE-2022-32532](https://github.com/4ra1n/CVE-2022-32532)		<img src="https://user-images.githubusercontent.com/45752995/176187524-029a1a42-1c31-4d23-823a-989c40ca8460.svg" alt="fork"/>0 <img src="https://user-images.githubusercontent.com/45752995/176188923-7eb4772f-794e-48da-962b-5f8f69ca184f.svg" alt="star"/>0
+
+---
 ## CVE-2022-31301 (2022-06-16T18:15:00)
 > Haraj v3.7 was discovered to contain a stored cross-site scripting (XSS) vulnerability in the Post Ads component.
 - [bigzooooz/CVE-2022-31301](https://github.com/bigzooooz/CVE-2022-31301)		<img src="https://user-images.githubusercontent.com/45752995/176187524-029a1a42-1c31-4d23-823a-989c40ca8460.svg" alt="fork"/>0 <img src="https://user-images.githubusercontent.com/45752995/176188923-7eb4772f-794e-48da-962b-5f8f69ca184f.svg" alt="star"/>1
