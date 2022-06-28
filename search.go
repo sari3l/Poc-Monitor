@@ -21,16 +21,18 @@ const cveQuery = "CVE-20"
 
 // 通知函数
 var barkToken = os.Getenv("barkToken")
-
-const barkGroup = "Poc-Monitor"
+var barkGroup = "Poc-Monitor"
 
 func Notice(updateItems *[]*Item) {
 	for _, item := range *updateItems {
 		webhook := fmt.Sprintf("https://api.day.app/%s/%s/%s", barkToken, nUrl.QueryEscape(item.Name), nUrl.QueryEscape(item.Description))
 		option := bark.Option{Webhook: webhook}
-		option.Url = item.HtmlUrl
-		option.Group = barkGroup
-		option.ToNotifier().Send(nil)
+		option.Url = &item.HtmlUrl
+		option.Group = &barkGroup
+		err := option.ToNotifier().Send(nil)
+		if err != nil {
+			fmt.Printf("发送失败 %s\n", err)
+		}
 		fmt.Printf("[>] 新增 %s\n", webhook)
 	}
 }
@@ -43,15 +45,24 @@ var NewJsonFilePath = fmt.Sprintf("%s/new.json", GetCurrentDirectory())
 var cveExp, _ = regexp.Compile(`(?i)CVE-(\d+)-\d+`)
 
 func main() {
+	var addItems = make([]*Item, 0)
+	var updateItems = make([]*Item, 0)
+	cveList := checkLastUpdate(cveQuery, false, &addItems, &updateItems)
+	for _, cveId := range *cveList {
+		_ = checkLastUpdate(cveId, true, &addItems, &updateItems)
+	}
+	saveItems(&addItems, &updateItems)
+}
+
+func checkLastUpdate(queryStr string, isCVE bool, addItems *[]*Item, updateItems *[]*Item) *[]string {
 	currentYear := time.Now().Year()
-	url := fmt.Sprintf("https://api.github.com/search/repositories?q=%s&sort=updated", cveQuery)
+	url := fmt.Sprintf("https://api.github.com/search/repositories?q=%s&sort=updated", queryStr)
 	resp := requests.Get(url)
 	if resp == nil {
 		fmt.Println(fmt.Errorf("[!] 无法访问 %s", url))
 	}
 	items := resp.Json().Get("items").Array()
-	var addItems = make([]*Item, 0)
-	var updateItems = make([]*Item, 0)
+	var cveList = make([]string, 0)
 	for _, data := range items {
 		item := new(Item)
 		err := json.Unmarshal([]byte(data.Raw), item)
@@ -59,16 +70,24 @@ func main() {
 			continue
 		}
 		// 提取CVE信息
-		cveInfo := cveExp.FindStringSubmatch(item.Name)
-		// 查询本地信息
-		if cveInfo == nil {
-			continue
+		var cveInfo []string
+		if isCVE {
+			cveInfo = cveExp.FindStringSubmatch(queryStr)
+		} else {
+			cveInfo = cveExp.FindStringSubmatch(item.Name)
+			if cveInfo == nil {
+				if cveInfo = cveExp.FindStringSubmatch(item.Name); cveInfo == nil {
+					continue
+				}
+			}
 		}
 		cveId, cveYear := strings.ToUpper(cveInfo[0]), cveInfo[1]
 		if year, _ := strconv.Atoi(cveYear); year > currentYear {
 			fmt.Println(fmt.Errorf("[!] 错误年限，%s", cveId))
 			continue
 		}
+		cveList = append(cveList, cveId)
+		// 查询本地信息
 		cveYearPath := fmt.Sprintf("%s/%s", GetCurrentDirectory(), cveYear)
 		cveFilePath := fmt.Sprintf("%s/%s/%s.json", GetCurrentDirectory(), cveYear, cveId)
 		// 检查年限
@@ -94,7 +113,7 @@ func main() {
 				if !reflect.DeepEqual(*item, *historyItem) {
 					itemsContentValues := historyItems
 					itemsContentValues[index] = item
-					updateItems = append(updateItems, item)
+					*updateItems = append(*updateItems, item)
 					fmt.Printf("[>] 更新 %s %d\n", cveId, item.Id)
 				}
 				needAdd = false
@@ -103,7 +122,7 @@ func main() {
 		}
 		if needAdd {
 			historyItems = append(historyItems, item)
-			addItems = append(addItems, item)
+			*addItems = append(*addItems, item)
 		}
 		// 更新cve信息
 		byteValue, err := json.Marshal(historyItems)
@@ -114,8 +133,11 @@ func main() {
 			fmt.Println(fmt.Errorf("[!] 写入 %s 内容失败, %s", cveFilePath, err))
 		}
 	}
+	return &cveList
+}
 
-	if len(addItems) != 0 || len(updateItems) != 0 {
+func saveItems(addItems *[]*Item, updateItems *[]*Item) {
+	if len(*addItems) != 0 || len(*updateItems) != 0 {
 		// 更新dateLog
 		logPath := fmt.Sprintf("%s/%s", GetCurrentDirectory(), LogFilePath)
 		if !CheckFileExists(logPath) {
@@ -130,8 +152,8 @@ func main() {
 				fmt.Println(fmt.Errorf("[!] 读取 %s 失败, %s", dateLogFilePath, err))
 			}
 		}
-		dateLogItems.New = append(dateLogItems.New, addItems...)
-		for _, item := range updateItems {
+		dateLogItems.New = append(dateLogItems.New, *addItems...)
+		for _, item := range *updateItems {
 			for logIndex, logItem := range dateLogItems.Update {
 				if item.Id == logItem.Id {
 					if !reflect.DeepEqual(*item, *logItem) {
@@ -151,7 +173,7 @@ func main() {
 		}
 
 		// 更新new/update内容
-		if len(updateItems) != 0 {
+		if len(*updateItems) != 0 {
 			byteValue, err = json.Marshal(updateItems)
 			if err != nil {
 				fmt.Println(fmt.Errorf("[!] 转换更新内容失败, %s", err))
@@ -160,7 +182,7 @@ func main() {
 				fmt.Println(fmt.Errorf("[!] 写入更新内容失败, %s", err))
 			}
 		}
-		if len(addItems) != 0 {
+		if len(*addItems) != 0 {
 			byteValue, err = json.Marshal(addItems)
 			if err != nil {
 				fmt.Println(fmt.Errorf("[!] 转换新增内容失败, %s", err))
@@ -169,7 +191,7 @@ func main() {
 				fmt.Println(fmt.Errorf("[!] 写入新增内容失败, %s", err))
 			}
 			// 新增后通知
-			Notice(&addItems)
+			Notice(addItems)
 		}
 	}
 }

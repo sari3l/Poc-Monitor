@@ -3,7 +3,7 @@ module github.com/sari3l/cve-monitor
 go 1.18
 
 require (
-	github.com/sari3l/notify v0.0.0-20220615042729-468bf6c9b823
+	github.com/sari3l/notify v0.0.0-20220624024010-344a54a0f80c
 	github.com/sari3l/requests v1.1.3
 )
 
