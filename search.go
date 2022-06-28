@@ -31,7 +31,7 @@ func Notice(updateItems *[]*Item) {
 		option.Group = &barkGroup
 		err := option.ToNotifier().Send(nil)
 		if err != nil {
-			fmt.Printf("发送失败 %s\n", err)
+			fmt.Printf("[!] 发送失败 %s\n", err)
 		}
 		fmt.Printf("[>] 新增 %s\n", webhook)
 	}
@@ -39,14 +39,19 @@ func Notice(updateItems *[]*Item) {
 
 // 以下勿动
 
+const (
+	blackListFile = "blacklist.yaml"
+)
+
 var UpdateJsonFilePath = fmt.Sprintf("%s/update.json", GetCurrentDirectory())
 var NewJsonFilePath = fmt.Sprintf("%s/new.json", GetCurrentDirectory())
-
 var cveExp, _ = regexp.Compile(`(?i)CVE-(\d+)-\d+`)
+var blackUserMap map[int64]string
 
 func main() {
 	var addItems = make([]*Item, 0)
 	var updateItems = make([]*Item, 0)
+	_ = ReadYamlFile(blackListFile, &blackUserMap)
 	cveList := checkLastUpdate(cveQuery, false, &addItems, &updateItems)
 	for _, cveId := range *cveList {
 		_ = checkLastUpdate(cveId, true, &addItems, &updateItems)
@@ -67,6 +72,11 @@ func checkLastUpdate(queryStr string, isCVE bool, addItems *[]*Item, updateItems
 		item := new(Item)
 		err := json.Unmarshal([]byte(data.Raw), item)
 		if err != nil {
+			continue
+		}
+		// 黑名单判断
+		if blackUserMap[item.Owner.Id] != "" {
+			//fmt.Printf("[!] 检测到黑名单 %s %d\n", item.Owner.Login, item.Owner.Id)
 			continue
 		}
 		// 提取CVE信息

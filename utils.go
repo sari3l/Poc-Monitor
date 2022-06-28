@@ -3,6 +3,7 @@ package main
 import (
 	"encoding/json"
 	"errors"
+	"gopkg.in/yaml.v2"
 	"io/ioutil"
 	"os"
 	"path/filepath"
@@ -20,7 +21,7 @@ type Item struct {
 	Private  bool   `json:"private"`
 	Owner    struct {
 		Login     string `json:"login"`
-		Id        int    `json:"id"`
+		Id        int64  `json:"id"`
 		NodeId    string `json:"node_id"`
 		AvatarUrl string `json:"avatar_url"`
 		Url       string `json:"url"`
@@ -74,6 +75,18 @@ func CreateFile(filePath string) error {
 
 func CreateDir(dirPath string) error {
 	if err := os.Mkdir(dirPath, os.ModePerm); err != nil {
+		return err
+	}
+	return nil
+}
+
+func ReadYamlFile(path string, obj any) error {
+	content, err := ioutil.ReadFile(path)
+	if err != nil {
+		return err
+	}
+	err = yaml.Unmarshal(content, obj)
+	if err != nil {
 		return err
 	}
 	return nil
