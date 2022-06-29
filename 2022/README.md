@@ -197,6 +197,7 @@
 - [vesperp/CVE-2022-26134-Confluence](https://github.com/vesperp/CVE-2022-26134-Confluence)	<img alt="forks" src="https://img.shields.io/github/forks/vesperp/CVE-2022-26134-Confluence">	<img alt="stars" src="https://img.shields.io/github/stars/vesperp/CVE-2022-26134-Confluence">
 - [Nwqda/CVE-2022-26134](https://github.com/Nwqda/CVE-2022-26134)	<img alt="forks" src="https://img.shields.io/github/forks/Nwqda/CVE-2022-26134">	<img alt="stars" src="https://img.shields.io/github/stars/Nwqda/CVE-2022-26134">
 - [PsykoDev/CVE-2022-26134](https://github.com/PsykoDev/CVE-2022-26134)	<img alt="forks" src="https://img.shields.io/github/forks/PsykoDev/CVE-2022-26134">	<img alt="stars" src="https://img.shields.io/github/stars/PsykoDev/CVE-2022-26134">
+- [Luchoane/CVE-2022-26134_conFLU](https://github.com/Luchoane/CVE-2022-26134_conFLU)	<img alt="forks" src="https://img.shields.io/github/forks/Luchoane/CVE-2022-26134_conFLU">	<img alt="stars" src="https://img.shields.io/github/stars/Luchoane/CVE-2022-26134_conFLU">
 
 ---
 ## CVE-2022-24706 (2022-04-26T10:15:00)
