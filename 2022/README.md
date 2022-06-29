@@ -212,6 +212,10 @@
 > A Spring Data MongoDB application is vulnerable to SpEL Injection when using @Query or @Aggregation-annotated query methods with SpEL expressions that contain query parameter placeholders for value binding if the input is not sanitized.
 - [trganda/CVE-2022-22980](https://github.com/trganda/CVE-2022-22980)	<img alt="forks" src="https://img.shields.io/github/forks/trganda/CVE-2022-22980">	<img alt="stars" src="https://img.shields.io/github/stars/trganda/CVE-2022-22980">
 - [jweny/cve-2022-22980-exp](https://github.com/jweny/cve-2022-22980-exp)	<img alt="forks" src="https://img.shields.io/github/forks/jweny/cve-2022-22980-exp">	<img alt="stars" src="https://img.shields.io/github/stars/jweny/cve-2022-22980-exp">
+- [murataydemir/CVE-2022-22980](https://github.com/murataydemir/CVE-2022-22980)	<img alt="forks" src="https://img.shields.io/github/forks/murataydemir/CVE-2022-22980">	<img alt="stars" src="https://img.shields.io/github/stars/murataydemir/CVE-2022-22980">
+- [W01fh4cker/Serein](https://github.com/W01fh4cker/Serein)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/Serein">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/Serein">
+- [li8u99/Spring-Data-Mongodb-Demo](https://github.com/li8u99/Spring-Data-Mongodb-Demo)	<img alt="forks" src="https://img.shields.io/github/forks/li8u99/Spring-Data-Mongodb-Demo">	<img alt="stars" src="https://img.shields.io/github/stars/li8u99/Spring-Data-Mongodb-Demo">
+- [kuron3k0/Spring-Data-Mongodb-Example](https://github.com/kuron3k0/Spring-Data-Mongodb-Example)	<img alt="forks" src="https://img.shields.io/github/forks/kuron3k0/Spring-Data-Mongodb-Example">	<img alt="stars" src="https://img.shields.io/github/stars/kuron3k0/Spring-Data-Mongodb-Example">
 
 ---
 ## CVE-2022-22972 (2022-05-20T21:15:00)
