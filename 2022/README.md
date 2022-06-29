@@ -99,6 +99,7 @@
 - [derco0n/mitigate-folina](https://github.com/derco0n/mitigate-folina)	<img alt="forks" src="https://img.shields.io/github/forks/derco0n/mitigate-folina">	<img alt="stars" src="https://img.shields.io/github/stars/derco0n/mitigate-folina">
 - [abhirules27/Follina](https://github.com/abhirules27/Follina)	<img alt="forks" src="https://img.shields.io/github/forks/abhirules27/Follina">	<img alt="stars" src="https://img.shields.io/github/stars/abhirules27/Follina">
 - [joshuavanderpoll/CVE-2022-30190](https://github.com/joshuavanderpoll/CVE-2022-30190)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/CVE-2022-30190">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/CVE-2022-30190">
+- [Gra3s/CVE-2022-30190-PowerPoint](https://github.com/Gra3s/CVE-2022-30190-PowerPoint)	<img alt="forks" src="https://img.shields.io/github/forks/Gra3s/CVE-2022-30190-PowerPoint">	<img alt="stars" src="https://img.shields.io/github/stars/Gra3s/CVE-2022-30190-PowerPoint">
 
 ---
 ## CVE-2022-30136 (2022-06-15T22:15:00)
