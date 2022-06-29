@@ -303,6 +303,9 @@
 - [githublihaha/DirtyPIPE-CVE-2022-0847](https://github.com/githublihaha/DirtyPIPE-CVE-2022-0847)	<img alt="forks" src="https://img.shields.io/github/forks/githublihaha/DirtyPIPE-CVE-2022-0847">	<img alt="stars" src="https://img.shields.io/github/stars/githublihaha/DirtyPIPE-CVE-2022-0847">
 - [AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits](https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits)	<img alt="forks" src="https://img.shields.io/github/forks/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits">	<img alt="stars" src="https://img.shields.io/github/stars/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits">
 - [Shotokhan/cve_2022_0847_shellcode](https://github.com/Shotokhan/cve_2022_0847_shellcode)	<img alt="forks" src="https://img.shields.io/github/forks/Shotokhan/cve_2022_0847_shellcode">	<img alt="stars" src="https://img.shields.io/github/stars/Shotokhan/cve_2022_0847_shellcode">
+- [breachnix/dirty-pipe-poc](https://github.com/breachnix/dirty-pipe-poc)	<img alt="forks" src="https://img.shields.io/github/forks/breachnix/dirty-pipe-poc">	<img alt="stars" src="https://img.shields.io/github/stars/breachnix/dirty-pipe-poc">
+- [arttnba3/CVE-2022-0847](https://github.com/arttnba3/CVE-2022-0847)	<img alt="forks" src="https://img.shields.io/github/forks/arttnba3/CVE-2022-0847">	<img alt="stars" src="https://img.shields.io/github/stars/arttnba3/CVE-2022-0847">
+- [realbatuhan/dirtypipetester](https://github.com/realbatuhan/dirtypipetester)	<img alt="forks" src="https://img.shields.io/github/forks/realbatuhan/dirtypipetester">	<img alt="stars" src="https://img.shields.io/github/stars/realbatuhan/dirtypipetester">
 
 ---
 ## CVE-2022-0441 (2022-03-07T09:15:00)
