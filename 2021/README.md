@@ -118,6 +118,12 @@
 - [trhacknon/CVE-2021-25003](https://github.com/trhacknon/CVE-2021-25003)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2021-25003">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2021-25003">
 
 ---
+## CVE-2021-23017 (2021-06-01T13:15:00)
+> A security issue in nginx resolver was identified, which might allow an attacker who is able to forge UDP packets from the DNS server to cause 1-byte memory overwrite, resulting in worker process crash or potential other impact.
+- [M507/CVE-2021-23017-PoC](https://github.com/M507/CVE-2021-23017-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/M507/CVE-2021-23017-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/M507/CVE-2021-23017-PoC">
+- [niandy/nginx-patch](https://github.com/niandy/nginx-patch)	<img alt="forks" src="https://img.shields.io/github/forks/niandy/nginx-patch">	<img alt="stars" src="https://img.shields.io/github/stars/niandy/nginx-patch">
+
+---
 ## CVE-2021-22204 (2021-04-23T18:15:00)
 > Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image
 - [GatoGamer1155/CVE-2021-22204](https://github.com/GatoGamer1155/CVE-2021-22204)	<img alt="forks" src="https://img.shields.io/github/forks/GatoGamer1155/CVE-2021-22204">	<img alt="stars" src="https://img.shields.io/github/stars/GatoGamer1155/CVE-2021-22204">
