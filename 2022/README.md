@@ -346,6 +346,7 @@
 - [breachnix/dirty-pipe-poc](https://github.com/breachnix/dirty-pipe-poc)	<img alt="forks" src="https://img.shields.io/github/forks/breachnix/dirty-pipe-poc">	<img alt="stars" src="https://img.shields.io/github/stars/breachnix/dirty-pipe-poc">
 - [arttnba3/CVE-2022-0847](https://github.com/arttnba3/CVE-2022-0847)	<img alt="forks" src="https://img.shields.io/github/forks/arttnba3/CVE-2022-0847">	<img alt="stars" src="https://img.shields.io/github/stars/arttnba3/CVE-2022-0847">
 - [realbatuhan/dirtypipetester](https://github.com/realbatuhan/dirtypipetester)	<img alt="forks" src="https://img.shields.io/github/forks/realbatuhan/dirtypipetester">	<img alt="stars" src="https://img.shields.io/github/stars/realbatuhan/dirtypipetester">
+- [Asbatel/CBDS_CVE-2022-0847_POC](https://github.com/Asbatel/CBDS_CVE-2022-0847_POC)	<img alt="forks" src="https://img.shields.io/github/forks/Asbatel/CBDS_CVE-2022-0847_POC">	<img alt="stars" src="https://img.shields.io/github/stars/Asbatel/CBDS_CVE-2022-0847_POC">
 
 ---
 ## CVE-2022-0441 (2022-03-07T09:15:00)
