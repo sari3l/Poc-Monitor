@@ -55,6 +55,24 @@
 - [ahaShiyu/CVE-2018-18839](https://github.com/ahaShiyu/CVE-2018-18839)	<img alt="forks" src="https://img.shields.io/github/forks/ahaShiyu/CVE-2018-18839">	<img alt="stars" src="https://img.shields.io/github/stars/ahaShiyu/CVE-2018-18839">
 
 ---
+## CVE-2018-16763 (2018-09-09T21:29:00)
+> FUEL CMS 1.4.1 allows PHP Code Evaluation via the pages/select/ filter parameter or the preview/ data parameter. This can lead to Pre-Auth Remote Code Execution.
+- [NeKroFR/CVE-2018-16763](https://github.com/NeKroFR/CVE-2018-16763)	<img alt="forks" src="https://img.shields.io/github/forks/NeKroFR/CVE-2018-16763">	<img alt="stars" src="https://img.shields.io/github/stars/NeKroFR/CVE-2018-16763">
+- [p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE](https://github.com/p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE">
+- [k4u5h41/CVE-2018-16763](https://github.com/k4u5h41/CVE-2018-16763)	<img alt="forks" src="https://img.shields.io/github/forks/k4u5h41/CVE-2018-16763">	<img alt="stars" src="https://img.shields.io/github/stars/k4u5h41/CVE-2018-16763">
+- [NaturalT314/CVE-2018-16763](https://github.com/NaturalT314/CVE-2018-16763)	<img alt="forks" src="https://img.shields.io/github/forks/NaturalT314/CVE-2018-16763">	<img alt="stars" src="https://img.shields.io/github/stars/NaturalT314/CVE-2018-16763">
+- [BrunoPincho/cve-2018-16763-rust](https://github.com/BrunoPincho/cve-2018-16763-rust)	<img alt="forks" src="https://img.shields.io/github/forks/BrunoPincho/cve-2018-16763-rust">	<img alt="stars" src="https://img.shields.io/github/stars/BrunoPincho/cve-2018-16763-rust">
+- [SlizBinksman/THM-Vulnerability_Capstone-CVE-2018-16763](https://github.com/SlizBinksman/THM-Vulnerability_Capstone-CVE-2018-16763)	<img alt="forks" src="https://img.shields.io/github/forks/SlizBinksman/THM-Vulnerability_Capstone-CVE-2018-16763">	<img alt="stars" src="https://img.shields.io/github/stars/SlizBinksman/THM-Vulnerability_Capstone-CVE-2018-16763">
+- [noraj/fuelcms-rce](https://github.com/noraj/fuelcms-rce)	<img alt="forks" src="https://img.shields.io/github/forks/noraj/fuelcms-rce">	<img alt="stars" src="https://img.shields.io/github/stars/noraj/fuelcms-rce">
+- [padsalatushal/CVE-2018-16763](https://github.com/padsalatushal/CVE-2018-16763)	<img alt="forks" src="https://img.shields.io/github/forks/padsalatushal/CVE-2018-16763">	<img alt="stars" src="https://img.shields.io/github/stars/padsalatushal/CVE-2018-16763">
+- [n3m1dotsys/CVE-2018-16763-Exploit-Python3](https://github.com/n3m1dotsys/CVE-2018-16763-Exploit-Python3)	<img alt="forks" src="https://img.shields.io/github/forks/n3m1dotsys/CVE-2018-16763-Exploit-Python3">	<img alt="stars" src="https://img.shields.io/github/stars/n3m1dotsys/CVE-2018-16763-Exploit-Python3">
+- [shoamshilo/Fuel-CMS-Remote-Code-Execution-1.4--RCE--](https://github.com/shoamshilo/Fuel-CMS-Remote-Code-Execution-1.4--RCE--)	<img alt="forks" src="https://img.shields.io/github/forks/shoamshilo/Fuel-CMS-Remote-Code-Execution-1.4--RCE--">	<img alt="stars" src="https://img.shields.io/github/stars/shoamshilo/Fuel-CMS-Remote-Code-Execution-1.4--RCE--">
+- [uwueviee/Fu3l-F1lt3r](https://github.com/uwueviee/Fu3l-F1lt3r)	<img alt="forks" src="https://img.shields.io/github/forks/uwueviee/Fu3l-F1lt3r">	<img alt="stars" src="https://img.shields.io/github/stars/uwueviee/Fu3l-F1lt3r">
+- [ecebotarosh/CVE-2018-16763-exploit](https://github.com/ecebotarosh/CVE-2018-16763-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ecebotarosh/CVE-2018-16763-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ecebotarosh/CVE-2018-16763-exploit">
+- [SalimAlk/CVE-2018-16763-](https://github.com/SalimAlk/CVE-2018-16763-)	<img alt="forks" src="https://img.shields.io/github/forks/SalimAlk/CVE-2018-16763-">	<img alt="stars" src="https://img.shields.io/github/stars/SalimAlk/CVE-2018-16763-">
+- [dinhbaouit/CVE-2018-16763](https://github.com/dinhbaouit/CVE-2018-16763)	<img alt="forks" src="https://img.shields.io/github/forks/dinhbaouit/CVE-2018-16763">	<img alt="stars" src="https://img.shields.io/github/stars/dinhbaouit/CVE-2018-16763">
+
+---
 ## CVE-2018-16509 (2018-09-05T06:29:00)
 > An issue was discovered in Artifex Ghostscript before 9.24. Incorrect "restoration of privilege" checking during handling of /invalidaccess exceptions could be used by attackers able to supply crafted PostScript to execute code using the "pipe" instruction.
 - [rhpco/CVE-2018-16509](https://github.com/rhpco/CVE-2018-16509)	<img alt="forks" src="https://img.shields.io/github/forks/rhpco/CVE-2018-16509">	<img alt="stars" src="https://img.shields.io/github/stars/rhpco/CVE-2018-16509">
