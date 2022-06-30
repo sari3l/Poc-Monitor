@@ -22,6 +22,12 @@
 - [cxosmo/CVE-2021-42697](https://github.com/cxosmo/CVE-2021-42697)	<img alt="forks" src="https://img.shields.io/github/forks/cxosmo/CVE-2021-42697">	<img alt="stars" src="https://img.shields.io/github/stars/cxosmo/CVE-2021-42697">
 
 ---
+## CVE-2021-42237 (2021-11-05T10:15:00)
+> Sitecore XP 7.5 Initial Release to Sitecore XP 8.2 Update-7 is vulnerable to an insecure deserialization attack where it is possible to achieve remote command execution on the machine. No authentication or special configuration is required to exploit this vulnerability.
+- [vesperp/CVE-2021-42237-SiteCore-XP](https://github.com/vesperp/CVE-2021-42237-SiteCore-XP)	<img alt="forks" src="https://img.shields.io/github/forks/vesperp/CVE-2021-42237-SiteCore-XP">	<img alt="stars" src="https://img.shields.io/github/stars/vesperp/CVE-2021-42237-SiteCore-XP">
+- [ItsIgnacioPortal/CVE-2021-42237](https://github.com/ItsIgnacioPortal/CVE-2021-42237)	<img alt="forks" src="https://img.shields.io/github/forks/ItsIgnacioPortal/CVE-2021-42237">	<img alt="stars" src="https://img.shields.io/github/stars/ItsIgnacioPortal/CVE-2021-42237">
+
+---
 ## CVE-2021-41773 (2021-10-05T09:15:00)
 > A flaw was found in a change made to path normalization in Apache HTTP Server 2.4.49. An attacker could use a path traversal attack to map URLs to files outside the directories configured by Alias-like directives. If files outside of these directories are not protected by the usual default configuration "require all denied", these requests can succeed. If CGI scripts are also enabled for these aliased pathes, this could allow for remote code execution. This issue is known to be exploited in the wild. This issue only affects Apache 2.4.49 and not earlier versions. The fix in Apache HTTP Server 2.4.50 was found to be incomplete, see CVE-2021-42013.
 - [pwn3z/CVE-2021-41773-Apache-RCE](https://github.com/pwn3z/CVE-2021-41773-Apache-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/pwn3z/CVE-2021-41773-Apache-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/pwn3z/CVE-2021-41773-Apache-RCE">
