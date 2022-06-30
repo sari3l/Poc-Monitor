@@ -4,6 +4,14 @@
 ## CVE-2017-9841 (2017-06-27T17:29:00)
 > Util/PHP/eval-stdin.php in PHPUnit before 4.8.28 and 5.x before 5.6.3 allows remote attackers to execute arbitrary PHP code via HTTP POST data beginning with a "<?php " substring, as demonstrated by an attack on a site with an exposed /vendor folder, i.e., external access to the /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php URI.
 - [Invertebr4do/cve-2017-9841](https://github.com/Invertebr4do/cve-2017-9841)	<img alt="forks" src="https://img.shields.io/github/forks/Invertebr4do/cve-2017-9841">	<img alt="stars" src="https://img.shields.io/github/stars/Invertebr4do/cve-2017-9841">
+- [p1ckzi/CVE-2017-9841](https://github.com/p1ckzi/CVE-2017-9841)	<img alt="forks" src="https://img.shields.io/github/forks/p1ckzi/CVE-2017-9841">	<img alt="stars" src="https://img.shields.io/github/stars/p1ckzi/CVE-2017-9841">
+- [jax7sec/CVE-2017-9841](https://github.com/jax7sec/CVE-2017-9841)	<img alt="forks" src="https://img.shields.io/github/forks/jax7sec/CVE-2017-9841">	<img alt="stars" src="https://img.shields.io/github/stars/jax7sec/CVE-2017-9841">
+- [akr3ch/CVE-2017-9841](https://github.com/akr3ch/CVE-2017-9841)	<img alt="forks" src="https://img.shields.io/github/forks/akr3ch/CVE-2017-9841">	<img alt="stars" src="https://img.shields.io/github/stars/akr3ch/CVE-2017-9841">
+- [RandomRobbieBF/phpunit-brute](https://github.com/RandomRobbieBF/phpunit-brute)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/phpunit-brute">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/phpunit-brute">
+- [rodnt/laravel-phpunit-rce-masscaner](https://github.com/rodnt/laravel-phpunit-rce-masscaner)	<img alt="forks" src="https://img.shields.io/github/forks/rodnt/laravel-phpunit-rce-masscaner">	<img alt="stars" src="https://img.shields.io/github/stars/rodnt/laravel-phpunit-rce-masscaner">
+- [ludy-dev/PHPUnit_eval-stdin_RCE](https://github.com/ludy-dev/PHPUnit_eval-stdin_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/ludy-dev/PHPUnit_eval-stdin_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/ludy-dev/PHPUnit_eval-stdin_RCE">
+- [cyberharsh/Php-unit-CVE-2017-9841](https://github.com/cyberharsh/Php-unit-CVE-2017-9841)	<img alt="forks" src="https://img.shields.io/github/forks/cyberharsh/Php-unit-CVE-2017-9841">	<img alt="stars" src="https://img.shields.io/github/stars/cyberharsh/Php-unit-CVE-2017-9841">
+- [mbrasile/CVE-2017-9841](https://github.com/mbrasile/CVE-2017-9841)	<img alt="forks" src="https://img.shields.io/github/forks/mbrasile/CVE-2017-9841">	<img alt="stars" src="https://img.shields.io/github/stars/mbrasile/CVE-2017-9841">
 
 ---
 ## CVE-2017-7921 (2017-05-06T00:29:00)
