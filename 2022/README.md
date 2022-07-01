@@ -123,6 +123,7 @@
 ## CVE-2022-29885 (2022-05-12T08:15:00)
 > The documentation of Apache Tomcat 10.1.0-M1 to 10.1.0-M14, 10.0.0-M1 to 10.0.20, 9.0.13 to 9.0.62 and 8.5.38 to 8.5.78 for the EncryptInterceptor incorrectly stated it enabled Tomcat clustering to run over an untrusted network. This was not correct. While the EncryptInterceptor does provide confidentiality and integrity protection, it does not protect against all risks associated with running over any untrusted network, particularly DoS risks.
 - [4ra1n/CVE-2022-29885](https://github.com/4ra1n/CVE-2022-29885)	<img alt="forks" src="https://img.shields.io/github/forks/4ra1n/CVE-2022-29885">	<img alt="stars" src="https://img.shields.io/github/stars/4ra1n/CVE-2022-29885">
+- [iveresk/CVE-2022-29885](https://github.com/iveresk/CVE-2022-29885)	<img alt="forks" src="https://img.shields.io/github/forks/iveresk/CVE-2022-29885">	<img alt="stars" src="https://img.shields.io/github/stars/iveresk/CVE-2022-29885">
 
 ---
 ## CVE-2022-29548 (2022-04-21T02:15:00)
