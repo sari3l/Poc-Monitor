@@ -33,6 +33,7 @@
 - [OLAOLAOLA789/CVE-2018-6574](https://github.com/OLAOLAOLA789/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/OLAOLAOLA789/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/OLAOLAOLA789/CVE-2018-6574">
 - [Yealid/CVE-2018-6574](https://github.com/Yealid/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/Yealid/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/Yealid/CVE-2018-6574">
 - [MohamedTarekq/test-CVE-2018-6574-](https://github.com/MohamedTarekq/test-CVE-2018-6574-)	<img alt="forks" src="https://img.shields.io/github/forks/MohamedTarekq/test-CVE-2018-6574-">	<img alt="stars" src="https://img.shields.io/github/stars/MohamedTarekq/test-CVE-2018-6574-">
+- [Logan-Elliott/CVE-2018-6574-go-get-RCE](https://github.com/Logan-Elliott/CVE-2018-6574-go-get-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Logan-Elliott/CVE-2018-6574-go-get-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Logan-Elliott/CVE-2018-6574-go-get-RCE">
 
 ---
 ## CVE-2018-3990 (2019-02-05T23:29:00)
