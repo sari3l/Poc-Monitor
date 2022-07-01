@@ -12,6 +12,11 @@
 - [intel-xeon/CVE-2021-44228---detection-with-PowerShell](https://github.com/intel-xeon/CVE-2021-44228---detection-with-PowerShell)	<img alt="forks" src="https://img.shields.io/github/forks/intel-xeon/CVE-2021-44228---detection-with-PowerShell">	<img alt="stars" src="https://img.shields.io/github/stars/intel-xeon/CVE-2021-44228---detection-with-PowerShell">
 
 ---
+## CVE-2021-44158 (2022-01-03T10:15:00)
+> ASUS RT-AX56U Wi-Fi Router is vulnerable to stack-based buffer overflow due to improper validation for httpd parameter length. An authenticated local area network attacker can launch arbitrary code execution to control the system or disrupt service.
+- [Expl0desploit/CVE-2021-44158](https://github.com/Expl0desploit/CVE-2021-44158)	<img alt="forks" src="https://img.shields.io/github/forks/Expl0desploit/CVE-2021-44158">	<img alt="stars" src="https://img.shields.io/github/stars/Expl0desploit/CVE-2021-44158">
+
+---
 ## CVE-2021-43229 (2021-12-15T15:15:00)
 > Windows NTFS Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-43230, CVE-2021-43231.
 - [Citizen13X/CVE-2021-43229](https://github.com/Citizen13X/CVE-2021-43229)	<img alt="forks" src="https://img.shields.io/github/forks/Citizen13X/CVE-2021-43229">	<img alt="stars" src="https://img.shields.io/github/stars/Citizen13X/CVE-2021-43229">
