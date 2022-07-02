@@ -6,6 +6,22 @@
 - [VinuKalana/CVE-2019-6447-Android-Vulnerability-in-ES-File-Explorer](https://github.com/VinuKalana/CVE-2019-6447-Android-Vulnerability-in-ES-File-Explorer)	<img alt="forks" src="https://img.shields.io/github/forks/VinuKalana/CVE-2019-6447-Android-Vulnerability-in-ES-File-Explorer">	<img alt="stars" src="https://img.shields.io/github/stars/VinuKalana/CVE-2019-6447-Android-Vulnerability-in-ES-File-Explorer">
 
 ---
+## CVE-2019-5420 (2019-03-27T14:29:00)
+> A remote code execution vulnerability in development mode Rails <5.2.2.1, <6.0.0.beta3 can allow an attacker to guess the automatically generated development mode secret token. This secret token can be used in combination with other Rails internals to escalate to a remote code execution exploit.
+- [laffray/ruby-RCE-CVE-2019-5420-](https://github.com/laffray/ruby-RCE-CVE-2019-5420-)	<img alt="forks" src="https://img.shields.io/github/forks/laffray/ruby-RCE-CVE-2019-5420-">	<img alt="stars" src="https://img.shields.io/github/stars/laffray/ruby-RCE-CVE-2019-5420-">
+- [PenTestical/CVE-2019-5420](https://github.com/PenTestical/CVE-2019-5420)	<img alt="forks" src="https://img.shields.io/github/forks/PenTestical/CVE-2019-5420">	<img alt="stars" src="https://img.shields.io/github/stars/PenTestical/CVE-2019-5420">
+- [mpgn/Rails-doubletap-RCE](https://github.com/mpgn/Rails-doubletap-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mpgn/Rails-doubletap-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mpgn/Rails-doubletap-RCE">
+- [trickstersec/CVE-2019-5420](https://github.com/trickstersec/CVE-2019-5420)	<img alt="forks" src="https://img.shields.io/github/forks/trickstersec/CVE-2019-5420">	<img alt="stars" src="https://img.shields.io/github/stars/trickstersec/CVE-2019-5420">
+- [cved-sources/cve-2019-5420](https://github.com/cved-sources/cve-2019-5420)	<img alt="forks" src="https://img.shields.io/github/forks/cved-sources/cve-2019-5420">	<img alt="stars" src="https://img.shields.io/github/stars/cved-sources/cve-2019-5420">
+- [CyberSecurityUP/CVE-2019-5420-POC](https://github.com/CyberSecurityUP/CVE-2019-5420-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CyberSecurityUP/CVE-2019-5420-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CyberSecurityUP/CVE-2019-5420-POC">
+- [scumdestroy/CVE-2019-5420.rb](https://github.com/scumdestroy/CVE-2019-5420.rb)	<img alt="forks" src="https://img.shields.io/github/forks/scumdestroy/CVE-2019-5420.rb">	<img alt="stars" src="https://img.shields.io/github/stars/scumdestroy/CVE-2019-5420.rb">
+- [mmeza-developer/CVE-2019-5420-RCE](https://github.com/mmeza-developer/CVE-2019-5420-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mmeza-developer/CVE-2019-5420-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mmeza-developer/CVE-2019-5420-RCE">
+- [j4k0m/CVE-2019-5420](https://github.com/j4k0m/CVE-2019-5420)	<img alt="forks" src="https://img.shields.io/github/forks/j4k0m/CVE-2019-5420">	<img alt="stars" src="https://img.shields.io/github/stars/j4k0m/CVE-2019-5420">
+- [Eremiel/CVE-2019-5420](https://github.com/Eremiel/CVE-2019-5420)	<img alt="forks" src="https://img.shields.io/github/forks/Eremiel/CVE-2019-5420">	<img alt="stars" src="https://img.shields.io/github/stars/Eremiel/CVE-2019-5420">
+- [AnasTaoutaou/CVE-2019-5420](https://github.com/AnasTaoutaou/CVE-2019-5420)	<img alt="forks" src="https://img.shields.io/github/forks/AnasTaoutaou/CVE-2019-5420">	<img alt="stars" src="https://img.shields.io/github/stars/AnasTaoutaou/CVE-2019-5420">
+- [knqyf263/CVE-2019-5420](https://github.com/knqyf263/CVE-2019-5420)	<img alt="forks" src="https://img.shields.io/github/forks/knqyf263/CVE-2019-5420">	<img alt="stars" src="https://img.shields.io/github/stars/knqyf263/CVE-2019-5420">
+
+---
 ## CVE-2019-3560 (2019-04-29T16:29:00)
 > An improperly performed length calculation on a buffer in PlaintextRecordLayer could lead to an infinite loop and denial-of-service based on user input. This issue affected versions of fizz prior to v2019.03.04.00.
 - [ahaShiyu/CVE-2019-3560](https://github.com/ahaShiyu/CVE-2019-3560)	<img alt="forks" src="https://img.shields.io/github/forks/ahaShiyu/CVE-2019-3560">	<img alt="stars" src="https://img.shields.io/github/stars/ahaShiyu/CVE-2019-3560">
