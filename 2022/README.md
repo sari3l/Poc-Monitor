@@ -126,6 +126,11 @@
 - [iveresk/CVE-2022-29885](https://github.com/iveresk/CVE-2022-29885)	<img alt="forks" src="https://img.shields.io/github/forks/iveresk/CVE-2022-29885">	<img alt="stars" src="https://img.shields.io/github/stars/iveresk/CVE-2022-29885">
 
 ---
+## CVE-2022-29552 ()
+> 
+- [ComparedArray/printix-CVE-2022-29552](https://github.com/ComparedArray/printix-CVE-2022-29552)	<img alt="forks" src="https://img.shields.io/github/forks/ComparedArray/printix-CVE-2022-29552">	<img alt="stars" src="https://img.shields.io/github/stars/ComparedArray/printix-CVE-2022-29552">
+
+---
 ## CVE-2022-29551 ()
 > 
 - [ComparedArray/printix-CVE-2022-29551](https://github.com/ComparedArray/printix-CVE-2022-29551)	<img alt="forks" src="https://img.shields.io/github/forks/ComparedArray/printix-CVE-2022-29551">	<img alt="stars" src="https://img.shields.io/github/stars/ComparedArray/printix-CVE-2022-29551">
