@@ -126,6 +126,11 @@
 - [iveresk/CVE-2022-29885](https://github.com/iveresk/CVE-2022-29885)	<img alt="forks" src="https://img.shields.io/github/forks/iveresk/CVE-2022-29885">	<img alt="stars" src="https://img.shields.io/github/stars/iveresk/CVE-2022-29885">
 
 ---
+## CVE-2022-29551 ()
+> 
+- [ComparedArray/printix-CVE-2022-29551](https://github.com/ComparedArray/printix-CVE-2022-29551)	<img alt="forks" src="https://img.shields.io/github/forks/ComparedArray/printix-CVE-2022-29551">	<img alt="stars" src="https://img.shields.io/github/stars/ComparedArray/printix-CVE-2022-29551">
+
+---
 ## CVE-2022-29548 (2022-04-21T02:15:00)
 > A reflected XSS issue exists in the Management Console of several WSO2 products. This affects API Manager 2.2.0, 2.5.0, 2.6.0, 3.0.0, 3.1.0, 3.2.0, and 4.0.0; API Manager Analytics 2.2.0, 2.5.0, and 2.6.0; API Microgateway 2.2.0; Data Analytics Server 3.2.0; Enterprise Integrator 6.2.0, 6.3.0, 6.4.0, 6.5.0, and 6.6.0; IS as Key Manager 5.5.0, 5.6.0, 5.7.0, 5.9.0, and 5.10.0; Identity Server 5.5.0, 5.6.0, 5.7.0, 5.9.0, 5.10.0, and 5.11.0; Identity Server Analytics 5.5.0 and 5.6.0; and WSO2 Micro Integrator 1.0.0.
 - [cxosmo/CVE-2022-29548](https://github.com/cxosmo/CVE-2022-29548)	<img alt="forks" src="https://img.shields.io/github/forks/cxosmo/CVE-2022-29548">	<img alt="stars" src="https://img.shields.io/github/stars/cxosmo/CVE-2022-29548">
