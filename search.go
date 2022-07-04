@@ -16,6 +16,9 @@ import (
 
 // 修改部分
 
+// CVE关联项目查询
+const enableRelatedQuery = true
+
 // 查询关键字
 const cveQuery = "CVE-20"
 
@@ -53,8 +56,10 @@ func main() {
 	var updateItems = make([]*Item, 0)
 	_ = ReadYamlFile(blackListFile, &blackUserMap)
 	cveList := checkLastUpdate(cveQuery, false, &addItems, &updateItems)
-	for _, cveId := range *cveList {
-		_ = checkLastUpdate(cveId, true, &addItems, &updateItems)
+	if enableRelatedQuery {
+		for _, cveId := range *cveList {
+			_ = checkLastUpdate(cveId, true, &addItems, &updateItems)
+		}
 	}
 	saveItems(&addItems, &updateItems)
 }

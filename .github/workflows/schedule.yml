@@ -24,8 +24,8 @@ jobs:
         env: 
           barkToken: ${{secrets.BARK_TOKEN}}
         run: |
-          git config --local user.email "bot@github.com"
-          git config --local user.name "bot"
+          git config --local user.email "action@github.com"
+          git config --local user.name "Github Action"
           git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git pull --rebase
           go build search.go utils.go
