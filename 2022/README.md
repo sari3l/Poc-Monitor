@@ -46,6 +46,11 @@
 - [bigzooooz/CVE-2022-31297](https://github.com/bigzooooz/CVE-2022-31297)	<img alt="forks" src="https://img.shields.io/github/forks/bigzooooz/CVE-2022-31297">	<img alt="stars" src="https://img.shields.io/github/stars/bigzooooz/CVE-2022-31297">
 
 ---
+## CVE-2022-30929 ()
+> 
+- [AgainstTheLight/CVE-2022-30929](https://github.com/AgainstTheLight/CVE-2022-30929)	<img alt="forks" src="https://img.shields.io/github/forks/AgainstTheLight/CVE-2022-30929">	<img alt="stars" src="https://img.shields.io/github/stars/AgainstTheLight/CVE-2022-30929">
+
+---
 ## CVE-2022-30910 (2022-06-08T14:15:00)
 > H3C Magic R100 R100V100R005 was discovered to contain a stack overflow vulnerability via the GO parameter at /goform/aspForm.
 - [arozx/CVE-2022-30910](https://github.com/arozx/CVE-2022-30910)	<img alt="forks" src="https://img.shields.io/github/forks/arozx/CVE-2022-30910">	<img alt="stars" src="https://img.shields.io/github/stars/arozx/CVE-2022-30910">
