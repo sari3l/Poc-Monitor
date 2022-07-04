@@ -110,6 +110,7 @@
 - [abhirules27/Follina](https://github.com/abhirules27/Follina)	<img alt="forks" src="https://img.shields.io/github/forks/abhirules27/Follina">	<img alt="stars" src="https://img.shields.io/github/stars/abhirules27/Follina">
 - [joshuavanderpoll/CVE-2022-30190](https://github.com/joshuavanderpoll/CVE-2022-30190)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/CVE-2022-30190">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/CVE-2022-30190">
 - [Gra3s/CVE-2022-30190-Follina-PowerPoint-Version](https://github.com/Gra3s/CVE-2022-30190-Follina-PowerPoint-Version)	<img alt="forks" src="https://img.shields.io/github/forks/Gra3s/CVE-2022-30190-Follina-PowerPoint-Version">	<img alt="stars" src="https://img.shields.io/github/stars/Gra3s/CVE-2022-30190-Follina-PowerPoint-Version">
+- [ItsNee/Follina-CVE-2022-30190-POC](https://github.com/ItsNee/Follina-CVE-2022-30190-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ItsNee/Follina-CVE-2022-30190-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ItsNee/Follina-CVE-2022-30190-POC">
 
 ---
 ## CVE-2022-30136 (2022-06-15T22:15:00)
