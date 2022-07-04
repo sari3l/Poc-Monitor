@@ -56,6 +56,11 @@
 - [arozx/CVE-2022-30910](https://github.com/arozx/CVE-2022-30910)	<img alt="forks" src="https://img.shields.io/github/forks/arozx/CVE-2022-30910">	<img alt="stars" src="https://img.shields.io/github/stars/arozx/CVE-2022-30910">
 
 ---
+## CVE-2022-30887 (2022-05-20T13:15:00)
+> Pharmacy Management System v1.0 was discovered to contain a remote code execution (RCE) vulnerability via the component /php_action/editProductImage.php. This vulnerability allows attackers to execute arbitrary code via a crafted image file.
+- [MuallimNaci/CVE-2022-30887](https://github.com/MuallimNaci/CVE-2022-30887)	<img alt="forks" src="https://img.shields.io/github/forks/MuallimNaci/CVE-2022-30887">	<img alt="stars" src="https://img.shields.io/github/stars/MuallimNaci/CVE-2022-30887">
+
+---
 ## CVE-2022-30780 (2022-06-11T15:15:00)
 > Lighttpd 1.4.56 through 1.4.58 allows a remote attacker to cause a denial of service (CPU consumption from stuck connections) because connection_read_header_more in connections.c has a typo that disrupts use of multiple read operations on large headers.
 - [p0dalirius/CVE-2022-30780-lighttpd-denial-of-service](https://github.com/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service)	<img alt="forks" src="https://img.shields.io/github/forks/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service">	<img alt="stars" src="https://img.shields.io/github/stars/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service">
