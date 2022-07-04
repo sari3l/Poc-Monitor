@@ -149,7 +149,7 @@
 - [DCScoder/Exchange_IOC_Hunter](https://github.com/DCScoder/Exchange_IOC_Hunter)	<img alt="forks" src="https://img.shields.io/github/forks/DCScoder/Exchange_IOC_Hunter">	<img alt="stars" src="https://img.shields.io/github/stars/DCScoder/Exchange_IOC_Hunter">
 - [TaroballzChen/ProxyLogon-CVE-2021-26855-metasploit](https://github.com/TaroballzChen/ProxyLogon-CVE-2021-26855-metasploit)	<img alt="forks" src="https://img.shields.io/github/forks/TaroballzChen/ProxyLogon-CVE-2021-26855-metasploit">	<img alt="stars" src="https://img.shields.io/github/stars/TaroballzChen/ProxyLogon-CVE-2021-26855-metasploit">
 - [p0wershe11/ProxyLogon](https://github.com/p0wershe11/ProxyLogon)	<img alt="forks" src="https://img.shields.io/github/forks/p0wershe11/ProxyLogon">	<img alt="stars" src="https://img.shields.io/github/stars/p0wershe11/ProxyLogon">
-- [SotirisKar/CVE-2021-26855](https://github.com/SotirisKar/CVE-2021-26855)	<img alt="forks" src="https://img.shields.io/github/forks/SotirisKar/CVE-2021-26855">	<img alt="stars" src="https://img.shields.io/github/stars/SotirisKar/CVE-2021-26855">
+- [sotiriskar/CVE-2021-26855](https://github.com/sotiriskar/CVE-2021-26855)	<img alt="forks" src="https://img.shields.io/github/forks/sotiriskar/CVE-2021-26855">	<img alt="stars" src="https://img.shields.io/github/stars/sotiriskar/CVE-2021-26855">
 
 ---
 ## CVE-2021-25003 ()
