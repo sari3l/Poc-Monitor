@@ -224,6 +224,9 @@
 ## CVE-2022-24706 (2022-04-26T10:15:00)
 > In Apache CouchDB prior to 3.2.2, an attacker can access an improperly secured default installation without authenticating and gain admin privileges. The CouchDB documentation has always made recommendations for properly securing an installation, including recommending using a firewall in front of all CouchDB installations.
 - [ahmetsabrimert/Apache-CouchDB-CVE-2022-24706-RCE-Exploits-Blog-post-](https://github.com/ahmetsabrimert/Apache-CouchDB-CVE-2022-24706-RCE-Exploits-Blog-post-)	<img alt="forks" src="https://img.shields.io/github/forks/ahmetsabrimert/Apache-CouchDB-CVE-2022-24706-RCE-Exploits-Blog-post-">	<img alt="stars" src="https://img.shields.io/github/stars/ahmetsabrimert/Apache-CouchDB-CVE-2022-24706-RCE-Exploits-Blog-post-">
+- [superzerosec/CVE-2022-24706](https://github.com/superzerosec/CVE-2022-24706)	<img alt="forks" src="https://img.shields.io/github/forks/superzerosec/CVE-2022-24706">	<img alt="stars" src="https://img.shields.io/github/stars/superzerosec/CVE-2022-24706">
+- [XmasSnowISBACK/CVE-2022-24706](https://github.com/XmasSnowISBACK/CVE-2022-24706)	<img alt="forks" src="https://img.shields.io/github/forks/XmasSnowISBACK/CVE-2022-24706">	<img alt="stars" src="https://img.shields.io/github/stars/XmasSnowISBACK/CVE-2022-24706">
+- [sadshade/CVE-2022-24706-CouchDB-Exploit](https://github.com/sadshade/CVE-2022-24706-CouchDB-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sadshade/CVE-2022-24706-CouchDB-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sadshade/CVE-2022-24706-CouchDB-Exploit">
 
 ---
 ## CVE-2022-24342 (2022-02-25T15:15:00)
