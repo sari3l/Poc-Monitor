@@ -387,6 +387,7 @@
 - [marschall/psychic-signatures](https://github.com/marschall/psychic-signatures)	<img alt="forks" src="https://img.shields.io/github/forks/marschall/psychic-signatures">	<img alt="stars" src="https://img.shields.io/github/stars/marschall/psychic-signatures">
 - [khalednassar/CVE-2022-21449-TLS-PoC](https://github.com/khalednassar/CVE-2022-21449-TLS-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/khalednassar/CVE-2022-21449-TLS-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/khalednassar/CVE-2022-21449-TLS-PoC">
 - [jmiettinen/CVE-2022-21449-vuln-test](https://github.com/jmiettinen/CVE-2022-21449-vuln-test)	<img alt="forks" src="https://img.shields.io/github/forks/jmiettinen/CVE-2022-21449-vuln-test">	<img alt="stars" src="https://img.shields.io/github/stars/jmiettinen/CVE-2022-21449-vuln-test">
+- [PyterSmithDarkGhost/CVE-2022-21449-I2P-TLS-POC](https://github.com/PyterSmithDarkGhost/CVE-2022-21449-I2P-TLS-POC)	<img alt="forks" src="https://img.shields.io/github/forks/PyterSmithDarkGhost/CVE-2022-21449-I2P-TLS-POC">	<img alt="stars" src="https://img.shields.io/github/stars/PyterSmithDarkGhost/CVE-2022-21449-I2P-TLS-POC">
 
 ---
 ## CVE-2022-20142 (2022-06-15T14:15:00)
