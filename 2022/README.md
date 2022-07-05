@@ -372,6 +372,11 @@
 - [Satheesh575555/frameworks_base_AOSP10_r33_CVE-2022-20142](https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2022-20142)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2022-20142">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2022-20142">
 
 ---
+## CVE-2022-20135 (2022-06-15T13:15:00)
+> In writeToParcel of GateKeeperResponse.java, there is a possible parcel format mismatch. This could lead to local escalation of privilege with User execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12LAndroid ID: A-220303465
+- [nidhi7598/frameworks_base_AOSP10_r33_CVE-2022-20135-](https://github.com/nidhi7598/frameworks_base_AOSP10_r33_CVE-2022-20135-)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_base_AOSP10_r33_CVE-2022-20135-">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_base_AOSP10_r33_CVE-2022-20135-">
+
+---
 ## CVE-2022-20130 (2022-06-15T13:15:00)
 > In transportDec_OutOfBandConfig of tpdec_lib.cpp, there is a possible out of bounds write due to a heap buffer overflow. This could lead to remote code execution with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12LAndroid ID: A-224314979
 - [Satheesh575555/external_aac_AOSP10_r33_CVE-2022-20130](https://github.com/Satheesh575555/external_aac_AOSP10_r33_CVE-2022-20130)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/external_aac_AOSP10_r33_CVE-2022-20130">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/external_aac_AOSP10_r33_CVE-2022-20130">
