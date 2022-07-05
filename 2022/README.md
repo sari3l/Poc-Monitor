@@ -273,6 +273,11 @@
 - [W01fh4cker/Serein_Linux](https://github.com/W01fh4cker/Serein_Linux)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/Serein_Linux">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/Serein_Linux">
 
 ---
+## CVE-2022-25262 (2022-02-25T20:15:00)
+> In JetBrains Hub before 2022.1.14434, SAML request takeover was possible.
+- [yuriisanin/CVE-2022-25262](https://github.com/yuriisanin/CVE-2022-25262)	<img alt="forks" src="https://img.shields.io/github/forks/yuriisanin/CVE-2022-25262">	<img alt="stars" src="https://img.shields.io/github/stars/yuriisanin/CVE-2022-25262">
+
+---
 ## CVE-2022-24706 (2022-04-26T10:15:00)
 > In Apache CouchDB prior to 3.2.2, an attacker can access an improperly secured default installation without authenticating and gain admin privileges. The CouchDB documentation has always made recommendations for properly securing an installation, including recommending using a firewall in front of all CouchDB installations.
 - [ahmetsabrimert/Apache-CouchDB-CVE-2022-24706-RCE-Exploits-Blog-post-](https://github.com/ahmetsabrimert/Apache-CouchDB-CVE-2022-24706-RCE-Exploits-Blog-post-)	<img alt="forks" src="https://img.shields.io/github/forks/ahmetsabrimert/Apache-CouchDB-CVE-2022-24706-RCE-Exploits-Blog-post-">	<img alt="stars" src="https://img.shields.io/github/stars/ahmetsabrimert/Apache-CouchDB-CVE-2022-24706-RCE-Exploits-Blog-post-">
