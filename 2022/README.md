@@ -82,6 +82,11 @@
 - [ProngedFork/CVE-2022-30525](https://github.com/ProngedFork/CVE-2022-30525)	<img alt="forks" src="https://img.shields.io/github/forks/ProngedFork/CVE-2022-30525">	<img alt="stars" src="https://img.shields.io/github/stars/ProngedFork/CVE-2022-30525">
 
 ---
+## CVE-2022-30333 (2022-05-09T08:15:00)
+> RARLAB UnRAR before 6.12 on Linux and UNIX allows directory traversal to write to files during an extract (aka unpack) operation, as demonstrated by creating a ~/.ssh/authorized_keys file. NOTE: WinRAR and Android RAR are unaffected.
+- [TheL1ghtVn/CVE-2022-30333-PoC](https://github.com/TheL1ghtVn/CVE-2022-30333-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TheL1ghtVn/CVE-2022-30333-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TheL1ghtVn/CVE-2022-30333-PoC">
+
+---
 ## CVE-2022-30190 (2022-06-01T20:15:00)
 > Microsoft Windows Support Diagnostic Tool (MSDT) Remote Code Execution Vulnerability.
 - [notherealhazard/follina-CVE-2022-30190](https://github.com/notherealhazard/follina-CVE-2022-30190)	<img alt="forks" src="https://img.shields.io/github/forks/notherealhazard/follina-CVE-2022-30190">	<img alt="stars" src="https://img.shields.io/github/stars/notherealhazard/follina-CVE-2022-30190">
@@ -331,6 +336,7 @@
 - [t3amj3ff/Spring4ShellPoC](https://github.com/t3amj3ff/Spring4ShellPoC)	<img alt="forks" src="https://img.shields.io/github/forks/t3amj3ff/Spring4ShellPoC">	<img alt="stars" src="https://img.shields.io/github/stars/t3amj3ff/Spring4ShellPoC">
 - [nu0l/CVE-2022-22965](https://github.com/nu0l/CVE-2022-22965)	<img alt="forks" src="https://img.shields.io/github/forks/nu0l/CVE-2022-22965">	<img alt="stars" src="https://img.shields.io/github/stars/nu0l/CVE-2022-22965">
 - [alt3kx/CVE-2022-22965](https://github.com/alt3kx/CVE-2022-22965)	<img alt="forks" src="https://img.shields.io/github/forks/alt3kx/CVE-2022-22965">	<img alt="stars" src="https://img.shields.io/github/stars/alt3kx/CVE-2022-22965">
+- [trhacknon/CVE-2022-22965](https://github.com/trhacknon/CVE-2022-22965)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-22965">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-22965">
 
 ---
 ## CVE-2022-22947 (2022-03-03T22:15:00)
