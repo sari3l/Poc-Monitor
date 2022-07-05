@@ -264,6 +264,7 @@
 - [Luchoane/CVE-2022-26134_conFLU](https://github.com/Luchoane/CVE-2022-26134_conFLU)	<img alt="forks" src="https://img.shields.io/github/forks/Luchoane/CVE-2022-26134_conFLU">	<img alt="stars" src="https://img.shields.io/github/stars/Luchoane/CVE-2022-26134_conFLU">
 - [r1skkam/TryHackMe-Atlassian-CVE-2022-26134](https://github.com/r1skkam/TryHackMe-Atlassian-CVE-2022-26134)	<img alt="forks" src="https://img.shields.io/github/forks/r1skkam/TryHackMe-Atlassian-CVE-2022-26134">	<img alt="stars" src="https://img.shields.io/github/stars/r1skkam/TryHackMe-Atlassian-CVE-2022-26134">
 - [nxtexploit/CVE-2022-26134](https://github.com/nxtexploit/CVE-2022-26134)	<img alt="forks" src="https://img.shields.io/github/forks/nxtexploit/CVE-2022-26134">	<img alt="stars" src="https://img.shields.io/github/stars/nxtexploit/CVE-2022-26134">
+- [Debajyoti0-0/CVE-2022-26134](https://github.com/Debajyoti0-0/CVE-2022-26134)	<img alt="forks" src="https://img.shields.io/github/forks/Debajyoti0-0/CVE-2022-26134">	<img alt="stars" src="https://img.shields.io/github/stars/Debajyoti0-0/CVE-2022-26134">
 
 ---
 ## CVE-2022-24706 (2022-04-26T10:15:00)
