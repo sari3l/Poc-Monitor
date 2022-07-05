@@ -270,6 +270,7 @@
 - [r1skkam/TryHackMe-Atlassian-CVE-2022-26134](https://github.com/r1skkam/TryHackMe-Atlassian-CVE-2022-26134)	<img alt="forks" src="https://img.shields.io/github/forks/r1skkam/TryHackMe-Atlassian-CVE-2022-26134">	<img alt="stars" src="https://img.shields.io/github/stars/r1skkam/TryHackMe-Atlassian-CVE-2022-26134">
 - [nxtexploit/CVE-2022-26134](https://github.com/nxtexploit/CVE-2022-26134)	<img alt="forks" src="https://img.shields.io/github/forks/nxtexploit/CVE-2022-26134">	<img alt="stars" src="https://img.shields.io/github/stars/nxtexploit/CVE-2022-26134">
 - [Debajyoti0-0/CVE-2022-26134](https://github.com/Debajyoti0-0/CVE-2022-26134)	<img alt="forks" src="https://img.shields.io/github/forks/Debajyoti0-0/CVE-2022-26134">	<img alt="stars" src="https://img.shields.io/github/stars/Debajyoti0-0/CVE-2022-26134">
+- [W01fh4cker/Serein_Linux](https://github.com/W01fh4cker/Serein_Linux)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/Serein_Linux">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/Serein_Linux">
 
 ---
 ## CVE-2022-24706 (2022-04-26T10:15:00)
