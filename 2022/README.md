@@ -183,6 +183,12 @@
 - [gerr-re/cve-2022-28944](https://github.com/gerr-re/cve-2022-28944)	<img alt="forks" src="https://img.shields.io/github/forks/gerr-re/cve-2022-28944">	<img alt="stars" src="https://img.shields.io/github/stars/gerr-re/cve-2022-28944">
 
 ---
+## CVE-2022-28219 (2022-04-05T19:15:00)
+> Cewolf in Zoho ManageEngine ADAudit Plus before 7060 is vulnerable to an unauthenticated XXE attack that leads to Remote Code Execution.
+- [rbowes-r7/manageengine-auditad-cve-2022-28219](https://github.com/rbowes-r7/manageengine-auditad-cve-2022-28219)	<img alt="forks" src="https://img.shields.io/github/forks/rbowes-r7/manageengine-auditad-cve-2022-28219">	<img alt="stars" src="https://img.shields.io/github/stars/rbowes-r7/manageengine-auditad-cve-2022-28219">
+- [horizon3ai/CVE-2022-28219](https://github.com/horizon3ai/CVE-2022-28219)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2022-28219">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2022-28219">
+
+---
 ## CVE-2022-28117 (2022-04-28T15:15:00)
 > A Server-Side Request Forgery (SSRF) in feed_parser class of Navigate CMS v2.9.4 allows remote attackers to force the application to make arbitrary requests via injection of arbitrary URLs into the feed parameter.
 - [cheshireca7/CVE-2022-28117](https://github.com/cheshireca7/CVE-2022-28117)	<img alt="forks" src="https://img.shields.io/github/forks/cheshireca7/CVE-2022-28117">	<img alt="stars" src="https://img.shields.io/github/stars/cheshireca7/CVE-2022-28117">
