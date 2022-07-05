@@ -33,6 +33,21 @@
 - [kiks7/CVE-2020-27786-Kernel-Exploit](https://github.com/kiks7/CVE-2020-27786-Kernel-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/kiks7/CVE-2020-27786-Kernel-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/kiks7/CVE-2020-27786-Kernel-Exploit">
 
 ---
+## CVE-2020-27368 (2021-01-14T16:15:00)
+> Directory Indexing in Login Portal of Login Portal of TOTOLINK-A702R-V1.0.0-B20161227.1023 allows attacker to access /icons/ directories via GET Parameter.
+- [swzhouu/CVE-2020-27368](https://github.com/swzhouu/CVE-2020-27368)	<img alt="forks" src="https://img.shields.io/github/forks/swzhouu/CVE-2020-27368">	<img alt="stars" src="https://img.shields.io/github/stars/swzhouu/CVE-2020-27368">
+
+---
+## CVE-2020-26733 (2021-01-14T16:15:00)
+> Cross Site Scripting (XSS) in Configuration page in SKYWORTH GN542VF Hardware Version 2.0 and Software Version 2.0.0.16 allows authenticated attacker to inject their own script into the page via DDNS Configuration Section.
+- [swzhouu/CVE-2020-26733](https://github.com/swzhouu/CVE-2020-26733)	<img alt="forks" src="https://img.shields.io/github/forks/swzhouu/CVE-2020-26733">	<img alt="stars" src="https://img.shields.io/github/stars/swzhouu/CVE-2020-26733">
+
+---
+## CVE-2020-26732 (2021-01-14T16:15:00)
+> Skyworth GN542VF Boa version 0.94.13 does not set the Secure flag for the session cookie in an HTTPS session, which makes it easier for remote attackers to capture this cookie by intercepting its transmission within an HTTP session.
+- [swzhouu/CVE-2020-26732](https://github.com/swzhouu/CVE-2020-26732)	<img alt="forks" src="https://img.shields.io/github/forks/swzhouu/CVE-2020-26732">	<img alt="stars" src="https://img.shields.io/github/stars/swzhouu/CVE-2020-26732">
+
+---
 ## CVE-2020-26413 (2020-12-11T04:15:00)
 > An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.4 before 13.6.2. Information disclosure via GraphQL results in user email being unexpectedly visible.
 - [Kento-Sec/GitLab-Graphql-CVE-2020-26413](https://github.com/Kento-Sec/GitLab-Graphql-CVE-2020-26413)	<img alt="forks" src="https://img.shields.io/github/forks/Kento-Sec/GitLab-Graphql-CVE-2020-26413">	<img alt="stars" src="https://img.shields.io/github/stars/Kento-Sec/GitLab-Graphql-CVE-2020-26413">
