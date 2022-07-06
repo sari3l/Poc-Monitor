@@ -57,8 +57,8 @@
 - [bigzooooz/CVE-2022-31297](https://github.com/bigzooooz/CVE-2022-31297)	<img alt="forks" src="https://img.shields.io/github/forks/bigzooooz/CVE-2022-31297">	<img alt="stars" src="https://img.shields.io/github/stars/bigzooooz/CVE-2022-31297">
 
 ---
-## CVE-2022-30929 ()
-> 
+## CVE-2022-30929 (2022-07-06T15:15:00)
+> Mini-Tmall v1.0 is vulnerable to Insecure Permissions via tomcat-embed-jasper.
 - [AgainstTheLight/CVE-2022-30929](https://github.com/AgainstTheLight/CVE-2022-30929)	<img alt="forks" src="https://img.shields.io/github/forks/AgainstTheLight/CVE-2022-30929">	<img alt="stars" src="https://img.shields.io/github/stars/AgainstTheLight/CVE-2022-30929">
 
 ---
@@ -208,6 +208,11 @@
 ## CVE-2022-27438 (2022-06-06T23:15:00)
 > Caphyon Ltd Advanced Installer 19.3 and earlier and many products that use the updater from Advanced Installer (Advanced Updater) are affected by a remote code execution vulnerability via the CustomDetection parameter in the update check function. To exploit this vulnerability, a user must start an affected installation to trigger the update check.
 - [gerr-re/cve-2022-27438](https://github.com/gerr-re/cve-2022-27438)	<img alt="forks" src="https://img.shields.io/github/forks/gerr-re/cve-2022-27438">	<img alt="stars" src="https://img.shields.io/github/stars/gerr-re/cve-2022-27438">
+
+---
+## CVE-2022-27255 ()
+> 
+- [infobyte/cve-2022-27255](https://github.com/infobyte/cve-2022-27255)	<img alt="forks" src="https://img.shields.io/github/forks/infobyte/cve-2022-27255">	<img alt="stars" src="https://img.shields.io/github/stars/infobyte/cve-2022-27255">
 
 ---
 ## CVE-2022-26937 (2022-05-10T21:15:00)
