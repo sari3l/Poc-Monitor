@@ -459,6 +459,7 @@
 - [justakazh/CVE-2022-1388](https://github.com/justakazh/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/justakazh/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/justakazh/CVE-2022-1388">
 - [SecTheBit/CVE-2022-1388](https://github.com/SecTheBit/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/SecTheBit/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/SecTheBit/CVE-2022-1388">
 - [jbharucha05/CVE-2022-1388](https://github.com/jbharucha05/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/jbharucha05/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/jbharucha05/CVE-2022-1388">
+- [EvilLizard666/CVE-2022-1388](https://github.com/EvilLizard666/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/EvilLizard666/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/EvilLizard666/CVE-2022-1388">
 
 ---
 ## CVE-2022-111111 ()
