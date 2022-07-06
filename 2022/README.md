@@ -21,6 +21,12 @@
 - [4ra1n/CVE-2022-32532](https://github.com/4ra1n/CVE-2022-32532)	<img alt="forks" src="https://img.shields.io/github/forks/4ra1n/CVE-2022-32532">	<img alt="stars" src="https://img.shields.io/github/stars/4ra1n/CVE-2022-32532">
 
 ---
+## CVE-2022-31749 ()
+> 
+- [iveresk/cve-2022-31749](https://github.com/iveresk/cve-2022-31749)	<img alt="forks" src="https://img.shields.io/github/forks/iveresk/cve-2022-31749">	<img alt="stars" src="https://img.shields.io/github/stars/iveresk/cve-2022-31749">
+- [jbaines-r7/hook](https://github.com/jbaines-r7/hook)	<img alt="forks" src="https://img.shields.io/github/forks/jbaines-r7/hook">	<img alt="stars" src="https://img.shields.io/github/stars/jbaines-r7/hook">
+
+---
 ## CVE-2022-31301 (2022-06-16T18:15:00)
 > Haraj v3.7 was discovered to contain a stored cross-site scripting (XSS) vulnerability in the Post Ads component.
 - [bigzooooz/CVE-2022-31301](https://github.com/bigzooooz/CVE-2022-31301)	<img alt="forks" src="https://img.shields.io/github/forks/bigzooooz/CVE-2022-31301">	<img alt="stars" src="https://img.shields.io/github/stars/bigzooooz/CVE-2022-31301">
