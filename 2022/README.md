@@ -506,6 +506,12 @@
 - [Asbatel/CBDS_CVE-2022-0847_POC](https://github.com/Asbatel/CBDS_CVE-2022-0847_POC)	<img alt="forks" src="https://img.shields.io/github/forks/Asbatel/CBDS_CVE-2022-0847_POC">	<img alt="stars" src="https://img.shields.io/github/stars/Asbatel/CBDS_CVE-2022-0847_POC">
 
 ---
+## CVE-2022-0543 (2022-02-18T20:15:00)
+> It was discovered, that redis, a persistent key-value database, due to a packaging issue, is prone to a (Debian-specific) Lua sandbox escape, which could result in remote code execution.
+- [z92g/CVE-2022-0543](https://github.com/z92g/CVE-2022-0543)	<img alt="forks" src="https://img.shields.io/github/forks/z92g/CVE-2022-0543">	<img alt="stars" src="https://img.shields.io/github/stars/z92g/CVE-2022-0543">
+- [aodsec/CVE-2022-0543](https://github.com/aodsec/CVE-2022-0543)	<img alt="forks" src="https://img.shields.io/github/forks/aodsec/CVE-2022-0543">	<img alt="stars" src="https://img.shields.io/github/stars/aodsec/CVE-2022-0543">
+
+---
 ## CVE-2022-0441 (2022-03-07T09:15:00)
 > The MasterStudy LMS WordPress plugin before 2.7.6 does to validate some parameters given when registering a new account, allowing unauthenticated users to register as an admin
 - [biulove0x/CVE-2022-0441](https://github.com/biulove0x/CVE-2022-0441)	<img alt="forks" src="https://img.shields.io/github/forks/biulove0x/CVE-2022-0441">	<img alt="stars" src="https://img.shields.io/github/stars/biulove0x/CVE-2022-0441">
