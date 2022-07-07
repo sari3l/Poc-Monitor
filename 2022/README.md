@@ -31,6 +31,11 @@
 - [0dayCTF/CVE-2022-32250_PoC](https://github.com/0dayCTF/CVE-2022-32250_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0dayCTF/CVE-2022-32250_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0dayCTF/CVE-2022-32250_PoC">
 
 ---
+## CVE-2022-31854 (2022-07-07T13:15:00)
+> Codoforum v5.1 was discovered to contain an arbitrary file upload vulnerability via the logo change option in the admin panel.
+- [Vikaran101/CVE-2022-31854](https://github.com/Vikaran101/CVE-2022-31854)	<img alt="forks" src="https://img.shields.io/github/forks/Vikaran101/CVE-2022-31854">	<img alt="stars" src="https://img.shields.io/github/stars/Vikaran101/CVE-2022-31854">
+
+---
 ## CVE-2022-31749 ()
 > 
 - [iveresk/cve-2022-31749](https://github.com/iveresk/cve-2022-31749)	<img alt="forks" src="https://img.shields.io/github/forks/iveresk/cve-2022-31749">	<img alt="stars" src="https://img.shields.io/github/stars/iveresk/cve-2022-31749">
