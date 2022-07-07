@@ -8,10 +8,11 @@
 - [jax7sec/CVE-2017-9841](https://github.com/jax7sec/CVE-2017-9841)	<img alt="forks" src="https://img.shields.io/github/forks/jax7sec/CVE-2017-9841">	<img alt="stars" src="https://img.shields.io/github/stars/jax7sec/CVE-2017-9841">
 - [akr3ch/CVE-2017-9841](https://github.com/akr3ch/CVE-2017-9841)	<img alt="forks" src="https://img.shields.io/github/forks/akr3ch/CVE-2017-9841">	<img alt="stars" src="https://img.shields.io/github/stars/akr3ch/CVE-2017-9841">
 - [RandomRobbieBF/phpunit-brute](https://github.com/RandomRobbieBF/phpunit-brute)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/phpunit-brute">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/phpunit-brute">
-- [rodnt/laravel-phpunit-rce-masscaner](https://github.com/rodnt/laravel-phpunit-rce-masscaner)	<img alt="forks" src="https://img.shields.io/github/forks/rodnt/laravel-phpunit-rce-masscaner">	<img alt="stars" src="https://img.shields.io/github/stars/rodnt/laravel-phpunit-rce-masscaner">
+- [incogbyte/laravel-phpunit-rce-masscaner](https://github.com/incogbyte/laravel-phpunit-rce-masscaner)	<img alt="forks" src="https://img.shields.io/github/forks/incogbyte/laravel-phpunit-rce-masscaner">	<img alt="stars" src="https://img.shields.io/github/stars/incogbyte/laravel-phpunit-rce-masscaner">
 - [ludy-dev/PHPUnit_eval-stdin_RCE](https://github.com/ludy-dev/PHPUnit_eval-stdin_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/ludy-dev/PHPUnit_eval-stdin_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/ludy-dev/PHPUnit_eval-stdin_RCE">
 - [cyberharsh/Php-unit-CVE-2017-9841](https://github.com/cyberharsh/Php-unit-CVE-2017-9841)	<img alt="forks" src="https://img.shields.io/github/forks/cyberharsh/Php-unit-CVE-2017-9841">	<img alt="stars" src="https://img.shields.io/github/stars/cyberharsh/Php-unit-CVE-2017-9841">
 - [mbrasile/CVE-2017-9841](https://github.com/mbrasile/CVE-2017-9841)	<img alt="forks" src="https://img.shields.io/github/forks/mbrasile/CVE-2017-9841">	<img alt="stars" src="https://img.shields.io/github/stars/mbrasile/CVE-2017-9841">
+- [yoloskr/CVE-2017-9841-Scan](https://github.com/yoloskr/CVE-2017-9841-Scan)	<img alt="forks" src="https://img.shields.io/github/forks/yoloskr/CVE-2017-9841-Scan">	<img alt="stars" src="https://img.shields.io/github/stars/yoloskr/CVE-2017-9841-Scan">
 
 ---
 ## CVE-2017-7921 (2017-05-06T00:29:00)
