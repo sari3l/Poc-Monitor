@@ -556,6 +556,9 @@
 - [arttnba3/CVE-2022-0847](https://github.com/arttnba3/CVE-2022-0847)	<img alt="forks" src="https://img.shields.io/github/forks/arttnba3/CVE-2022-0847">	<img alt="stars" src="https://img.shields.io/github/stars/arttnba3/CVE-2022-0847">
 - [realbatuhan/dirtypipetester](https://github.com/realbatuhan/dirtypipetester)	<img alt="forks" src="https://img.shields.io/github/forks/realbatuhan/dirtypipetester">	<img alt="stars" src="https://img.shields.io/github/stars/realbatuhan/dirtypipetester">
 - [Asbatel/CBDS_CVE-2022-0847_POC](https://github.com/Asbatel/CBDS_CVE-2022-0847_POC)	<img alt="forks" src="https://img.shields.io/github/forks/Asbatel/CBDS_CVE-2022-0847_POC">	<img alt="stars" src="https://img.shields.io/github/stars/Asbatel/CBDS_CVE-2022-0847_POC">
+- [notl0cal/dpipe](https://github.com/notl0cal/dpipe)	<img alt="forks" src="https://img.shields.io/github/forks/notl0cal/dpipe">	<img alt="stars" src="https://img.shields.io/github/stars/notl0cal/dpipe">
+- [edr1412/Dirty-Pipe](https://github.com/edr1412/Dirty-Pipe)	<img alt="forks" src="https://img.shields.io/github/forks/edr1412/Dirty-Pipe">	<img alt="stars" src="https://img.shields.io/github/stars/edr1412/Dirty-Pipe">
+- [airbus-cert/dirtypipe-ebpf_detection](https://github.com/airbus-cert/dirtypipe-ebpf_detection)	<img alt="forks" src="https://img.shields.io/github/forks/airbus-cert/dirtypipe-ebpf_detection">	<img alt="stars" src="https://img.shields.io/github/stars/airbus-cert/dirtypipe-ebpf_detection">
 
 ---
 ## CVE-2022-0543 (2022-02-18T20:15:00)
