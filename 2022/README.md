@@ -6,6 +6,16 @@
 - [Vbedtt54e5/interesting-release-of-CVE-2022-63432](https://github.com/Vbedtt54e5/interesting-release-of-CVE-2022-63432)	<img alt="forks" src="https://img.shields.io/github/forks/Vbedtt54e5/interesting-release-of-CVE-2022-63432">	<img alt="stars" src="https://img.shields.io/github/stars/Vbedtt54e5/interesting-release-of-CVE-2022-63432">
 
 ---
+## CVE-2022-34962 ()
+> 
+- [bypazs/CVE-2022-34962](https://github.com/bypazs/CVE-2022-34962)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/CVE-2022-34962">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/CVE-2022-34962">
+
+---
+## CVE-2022-34961 ()
+> 
+- [bypazs/CVE-2022-34961](https://github.com/bypazs/CVE-2022-34961)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/CVE-2022-34961">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/CVE-2022-34961">
+
+---
 ## CVE-2022-34305 (2022-06-23T11:15:00)
 > In Apache Tomcat 10.1.0-M1 to 10.1.0-M16, 10.0.0-M1 to 10.0.22, 9.0.30 to 9.0.64 and 8.5.50 to 8.5.81 the Form authentication example in the examples web application displayed user provided data without filtering, exposing a XSS vulnerability.
 - [zeroc00I/CVE-2022-34305](https://github.com/zeroc00I/CVE-2022-34305)	<img alt="forks" src="https://img.shields.io/github/forks/zeroc00I/CVE-2022-34305">	<img alt="stars" src="https://img.shields.io/github/stars/zeroc00I/CVE-2022-34305">
