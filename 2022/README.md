@@ -6,6 +6,11 @@
 - [Vbedtt54e5/interesting-release-of-CVE-2022-63432](https://github.com/Vbedtt54e5/interesting-release-of-CVE-2022-63432)	<img alt="forks" src="https://img.shields.io/github/forks/Vbedtt54e5/interesting-release-of-CVE-2022-63432">	<img alt="stars" src="https://img.shields.io/github/stars/Vbedtt54e5/interesting-release-of-CVE-2022-63432">
 
 ---
+## CVE-2022-34963 ()
+> 
+- [bypazs/CVE-2022-34963](https://github.com/bypazs/CVE-2022-34963)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/CVE-2022-34963">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/CVE-2022-34963">
+
+---
 ## CVE-2022-34962 ()
 > 
 - [bypazs/CVE-2022-34962](https://github.com/bypazs/CVE-2022-34962)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/CVE-2022-34962">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/CVE-2022-34962">
