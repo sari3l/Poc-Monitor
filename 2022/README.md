@@ -182,6 +182,11 @@
 - [Haniwa0x01/CVE-2022-30023](https://github.com/Haniwa0x01/CVE-2022-30023)	<img alt="forks" src="https://img.shields.io/github/forks/Haniwa0x01/CVE-2022-30023">	<img alt="stars" src="https://img.shields.io/github/stars/Haniwa0x01/CVE-2022-30023">
 
 ---
+## CVE-2022-30006 ()
+> 
+- [ComparedArray/printix-CVE-2022-30006](https://github.com/ComparedArray/printix-CVE-2022-30006)	<img alt="forks" src="https://img.shields.io/github/forks/ComparedArray/printix-CVE-2022-30006">	<img alt="stars" src="https://img.shields.io/github/stars/ComparedArray/printix-CVE-2022-30006">
+
+---
 ## CVE-2022-29885 (2022-05-12T08:15:00)
 > The documentation of Apache Tomcat 10.1.0-M1 to 10.1.0-M14, 10.0.0-M1 to 10.0.20, 9.0.13 to 9.0.62 and 8.5.38 to 8.5.78 for the EncryptInterceptor incorrectly stated it enabled Tomcat clustering to run over an untrusted network. This was not correct. While the EncryptInterceptor does provide confidentiality and integrity protection, it does not protect against all risks associated with running over any untrusted network, particularly DoS risks.
 - [4ra1n/CVE-2022-29885](https://github.com/4ra1n/CVE-2022-29885)	<img alt="forks" src="https://img.shields.io/github/forks/4ra1n/CVE-2022-29885">	<img alt="stars" src="https://img.shields.io/github/stars/4ra1n/CVE-2022-29885">
@@ -191,6 +196,16 @@
 ## CVE-2022-29593 ()
 > 
 - [9lyph/CVE-2022-29593](https://github.com/9lyph/CVE-2022-29593)	<img alt="forks" src="https://img.shields.io/github/forks/9lyph/CVE-2022-29593">	<img alt="stars" src="https://img.shields.io/github/stars/9lyph/CVE-2022-29593">
+
+---
+## CVE-2022-29554 ()
+> 
+- [ComparedArray/printix-CVE-2022-29554](https://github.com/ComparedArray/printix-CVE-2022-29554)	<img alt="forks" src="https://img.shields.io/github/forks/ComparedArray/printix-CVE-2022-29554">	<img alt="stars" src="https://img.shields.io/github/stars/ComparedArray/printix-CVE-2022-29554">
+
+---
+## CVE-2022-29553 ()
+> 
+- [ComparedArray/printix-CVE-2022-29553](https://github.com/ComparedArray/printix-CVE-2022-29553)	<img alt="forks" src="https://img.shields.io/github/forks/ComparedArray/printix-CVE-2022-29553">	<img alt="stars" src="https://img.shields.io/github/stars/ComparedArray/printix-CVE-2022-29553">
 
 ---
 ## CVE-2022-29552 ()
