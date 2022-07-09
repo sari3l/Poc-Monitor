@@ -354,6 +354,11 @@
 - [coskper-papa/CVE-2022-26134](https://github.com/coskper-papa/CVE-2022-26134)	<img alt="forks" src="https://img.shields.io/github/forks/coskper-papa/CVE-2022-26134">	<img alt="stars" src="https://img.shields.io/github/stars/coskper-papa/CVE-2022-26134">
 
 ---
+## CVE-2022-25845 (2022-06-10T20:15:00)
+> The package com.alibaba:fastjson before 1.2.83 are vulnerable to Deserialization of Untrusted Data by bypassing the default autoType shutdown restrictions, which is possible under certain conditions. Exploiting this vulnerability allows attacking remote servers. Workaround: If upgrading is not possible, you can enable [safeMode](https://github.com/alibaba/fastjson/wiki/fastjson_safemode).
+- [Expl0desploit/CVE-2022-25845](https://github.com/Expl0desploit/CVE-2022-25845)	<img alt="forks" src="https://img.shields.io/github/forks/Expl0desploit/CVE-2022-25845">	<img alt="stars" src="https://img.shields.io/github/stars/Expl0desploit/CVE-2022-25845">
+
+---
 ## CVE-2022-25262 (2022-02-25T20:15:00)
 > In JetBrains Hub before 2022.1.14434, SAML request takeover was possible.
 - [yuriisanin/CVE-2022-25262](https://github.com/yuriisanin/CVE-2022-25262)	<img alt="forks" src="https://img.shields.io/github/forks/yuriisanin/CVE-2022-25262">	<img alt="stars" src="https://img.shields.io/github/stars/yuriisanin/CVE-2022-25262">
