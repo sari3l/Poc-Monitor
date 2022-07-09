@@ -211,6 +211,7 @@
 ## CVE-2022-29552 ()
 > 
 - [ComparedArray/printix-CVE-2022-29552](https://github.com/ComparedArray/printix-CVE-2022-29552)	<img alt="forks" src="https://img.shields.io/github/forks/ComparedArray/printix-CVE-2022-29552">	<img alt="stars" src="https://img.shields.io/github/stars/ComparedArray/printix-CVE-2022-29552">
+- [ComparedArray/printix-CVE-2022-29554](https://github.com/ComparedArray/printix-CVE-2022-29554)	<img alt="forks" src="https://img.shields.io/github/forks/ComparedArray/printix-CVE-2022-29554">	<img alt="stars" src="https://img.shields.io/github/stars/ComparedArray/printix-CVE-2022-29554">
 
 ---
 ## CVE-2022-29551 ()
