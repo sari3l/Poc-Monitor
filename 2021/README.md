@@ -38,6 +38,7 @@
 - [Qerim-iseni09/ByeLog4Shell](https://github.com/Qerim-iseni09/ByeLog4Shell)	<img alt="forks" src="https://img.shields.io/github/forks/Qerim-iseni09/ByeLog4Shell">	<img alt="stars" src="https://img.shields.io/github/stars/Qerim-iseni09/ByeLog4Shell">
 - [thomaspatzke/Log4Pot](https://github.com/thomaspatzke/Log4Pot)	<img alt="forks" src="https://img.shields.io/github/forks/thomaspatzke/Log4Pot">	<img alt="stars" src="https://img.shields.io/github/stars/thomaspatzke/Log4Pot">
 - [0xInfection/LogMePwn](https://github.com/0xInfection/LogMePwn)	<img alt="forks" src="https://img.shields.io/github/forks/0xInfection/LogMePwn">	<img alt="stars" src="https://img.shields.io/github/stars/0xInfection/LogMePwn">
+- [alexpena5635/CVE-2021-44228_scanner-main-Modified-](https://github.com/alexpena5635/CVE-2021-44228_scanner-main-Modified-)	<img alt="forks" src="https://img.shields.io/github/forks/alexpena5635/CVE-2021-44228_scanner-main-Modified-">	<img alt="stars" src="https://img.shields.io/github/stars/alexpena5635/CVE-2021-44228_scanner-main-Modified-">
 
 ---
 ## CVE-2021-44158 (2022-01-03T10:15:00)
