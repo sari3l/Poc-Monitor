@@ -111,6 +111,17 @@
 - [cyb3rpeace/CVE-2021-34527](https://github.com/cyb3rpeace/CVE-2021-34527)	<img alt="forks" src="https://img.shields.io/github/forks/cyb3rpeace/CVE-2021-34527">	<img alt="stars" src="https://img.shields.io/github/stars/cyb3rpeace/CVE-2021-34527">
 
 ---
+## CVE-2021-31805 (2022-04-12T16:15:00)
+> The fix issued for CVE-2020-17530 was incomplete. So from Apache Struts 2.0.0 to 2.5.29, still some of the tag’s attributes could perform a double evaluation if a developer applied forced OGNL evaluation by using the %{...} syntax. Using forced OGNL evaluation on untrusted user input can lead to a Remote Code Execution and security degradation.
+- [z92g/CVE-2021-31805](https://github.com/z92g/CVE-2021-31805)	<img alt="forks" src="https://img.shields.io/github/forks/z92g/CVE-2021-31805">	<img alt="stars" src="https://img.shields.io/github/stars/z92g/CVE-2021-31805">
+- [aeyesec/CVE-2021-31805](https://github.com/aeyesec/CVE-2021-31805)	<img alt="forks" src="https://img.shields.io/github/forks/aeyesec/CVE-2021-31805">	<img alt="stars" src="https://img.shields.io/github/stars/aeyesec/CVE-2021-31805">
+- [Axx8/Struts2_S2-062_CVE-2021-31805](https://github.com/Axx8/Struts2_S2-062_CVE-2021-31805)	<img alt="forks" src="https://img.shields.io/github/forks/Axx8/Struts2_S2-062_CVE-2021-31805">	<img alt="stars" src="https://img.shields.io/github/stars/Axx8/Struts2_S2-062_CVE-2021-31805">
+- [3SsFuck/CVE-2021-31805-POC](https://github.com/3SsFuck/CVE-2021-31805-POC)	<img alt="forks" src="https://img.shields.io/github/forks/3SsFuck/CVE-2021-31805-POC">	<img alt="stars" src="https://img.shields.io/github/stars/3SsFuck/CVE-2021-31805-POC">
+- [YanMu2020/s2-062](https://github.com/YanMu2020/s2-062)	<img alt="forks" src="https://img.shields.io/github/forks/YanMu2020/s2-062">	<img alt="stars" src="https://img.shields.io/github/stars/YanMu2020/s2-062">
+- [jax7sec/S2-062](https://github.com/jax7sec/S2-062)	<img alt="forks" src="https://img.shields.io/github/forks/jax7sec/S2-062">	<img alt="stars" src="https://img.shields.io/github/stars/jax7sec/S2-062">
+- [Wrin9/CVE-2021-31805](https://github.com/Wrin9/CVE-2021-31805)	<img alt="forks" src="https://img.shields.io/github/forks/Wrin9/CVE-2021-31805">	<img alt="stars" src="https://img.shields.io/github/stars/Wrin9/CVE-2021-31805">
+
+---
 ## CVE-2021-3156 (2021-01-26T21:15:00)
 > Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via "sudoedit -s" and a command-line argument that ends with a single backslash character.
 - [arvindshima/CVE-2021-3156](https://github.com/arvindshima/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/arvindshima/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/arvindshima/CVE-2021-3156">
