@@ -43,6 +43,13 @@
 - [delicateByte/CVE-2019-19945_Test](https://github.com/delicateByte/CVE-2019-19945_Test)	<img alt="forks" src="https://img.shields.io/github/forks/delicateByte/CVE-2019-19945_Test">	<img alt="stars" src="https://img.shields.io/github/stars/delicateByte/CVE-2019-19945_Test">
 
 ---
+## CVE-2019-18845 (2019-11-09T18:15:00)
+> The MsIo64.sys and MsIo32.sys drivers in Patriot Viper RGB before 1.1 allow local users (including low integrity processes) to read and write to arbitrary memory locations, and consequently gain NT AUTHORITY\SYSTEM privileges, by mapping \Device\PhysicalMemory into the calling process via ZwOpenSection and ZwMapViewOfSection.
+- [Exploitables/CVE-2019-18845](https://github.com/Exploitables/CVE-2019-18845)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2019-18845">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2019-18845">
+- [hfiref0x/KDU](https://github.com/hfiref0x/KDU)	<img alt="forks" src="https://img.shields.io/github/forks/hfiref0x/KDU">	<img alt="stars" src="https://img.shields.io/github/stars/hfiref0x/KDU">
+- [kkent030315/MsIoExploit](https://github.com/kkent030315/MsIoExploit)	<img alt="forks" src="https://img.shields.io/github/forks/kkent030315/MsIoExploit">	<img alt="stars" src="https://img.shields.io/github/stars/kkent030315/MsIoExploit">
+
+---
 ## CVE-2019-17662 (2019-10-16T18:15:00)
 > ThinVNC 1.0b1 is vulnerable to arbitrary file read, which leads to a compromise of the VNC server. The vulnerability exists even when authentication is turned on during the deployment of the VNC server. The password for authentication is stored in cleartext in a file that can be read via a ../../ThinVnc.ini directory traversal attack vector.
 - [Tamagaft/CVE-2019-17662](https://github.com/Tamagaft/CVE-2019-17662)	<img alt="forks" src="https://img.shields.io/github/forks/Tamagaft/CVE-2019-17662">	<img alt="stars" src="https://img.shields.io/github/stars/Tamagaft/CVE-2019-17662">
