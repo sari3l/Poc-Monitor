@@ -29,6 +29,7 @@
 ## CVE-2022-34265 (2022-07-04T16:15:00)
 > An issue was discovered in Django 3.2 before 3.2.14 and 4.0 before 4.0.6. The Trunc() and Extract() database functions are subject to SQL injection if untrusted data is used as a kind/lookup_name value. Applications that constrain the lookup name and kind choice to a known safe list are unaffected.
 - [aeyesec/CVE-2022-34265](https://github.com/aeyesec/CVE-2022-34265)	<img alt="forks" src="https://img.shields.io/github/forks/aeyesec/CVE-2022-34265">	<img alt="stars" src="https://img.shields.io/github/stars/aeyesec/CVE-2022-34265">
+- [NopFault/CVE-2022-34265](https://github.com/NopFault/CVE-2022-34265)	<img alt="forks" src="https://img.shields.io/github/forks/NopFault/CVE-2022-34265">	<img alt="stars" src="https://img.shields.io/github/stars/NopFault/CVE-2022-34265">
 
 ---
 ## CVE-2022-33980 (2022-07-06T13:15:00)
