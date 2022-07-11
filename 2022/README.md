@@ -56,6 +56,7 @@
 > 
 - [CDACesec/CVE-2022-31901](https://github.com/CDACesec/CVE-2022-31901)	<img alt="forks" src="https://img.shields.io/github/forks/CDACesec/CVE-2022-31901">	<img alt="stars" src="https://img.shields.io/github/stars/CDACesec/CVE-2022-31901">
 - [CDACesec/CVE-2022-31901](https://github.com/CDACesec/CVE-2022-31901)	<img alt="forks" src="https://img.shields.io/github/forks/CDACesec/CVE-2022-31901">	<img alt="stars" src="https://img.shields.io/github/stars/CDACesec/CVE-2022-31901">
+- [CDACesec/CVE-2022-31901](https://github.com/CDACesec/CVE-2022-31901)	<img alt="forks" src="https://img.shields.io/github/forks/CDACesec/CVE-2022-31901">	<img alt="stars" src="https://img.shields.io/github/stars/CDACesec/CVE-2022-31901">
 
 ---
 ## CVE-2022-31854 (2022-07-07T13:15:00)
