@@ -96,8 +96,8 @@
 - [bigzooooz/CVE-2022-31297](https://github.com/bigzooooz/CVE-2022-31297)	<img alt="forks" src="https://img.shields.io/github/forks/bigzooooz/CVE-2022-31297">	<img alt="stars" src="https://img.shields.io/github/stars/bigzooooz/CVE-2022-31297">
 
 ---
-## CVE-2022-31138 ()
-> 
+## CVE-2022-31138 (2022-07-11T14:15:00)
+> mailcow is a mailserver suite. Prior to mailcow-dockerized version 2022-06a, an extended privilege vulnerability can be exploited by manipulating the custom parameters regexmess, skipmess, regexflag, delete2foldersonly, delete2foldersbutnot, regextrans2, pipemess, or maxlinelengthcmd to execute arbitrary code. Users should update their mailcow instances with the `update.sh` script in the mailcow root directory to 2022-06a or newer to receive a patch for this issue. As a temporary workaround, the Syncjob ACL can be removed from all mailbox users, preventing changes to those settings.
 - [ly1g3/Mailcow-CVE-2022-31138](https://github.com/ly1g3/Mailcow-CVE-2022-31138)	<img alt="forks" src="https://img.shields.io/github/forks/ly1g3/Mailcow-CVE-2022-31138">	<img alt="stars" src="https://img.shields.io/github/stars/ly1g3/Mailcow-CVE-2022-31138">
 
 ---
