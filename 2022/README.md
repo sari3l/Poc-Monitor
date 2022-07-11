@@ -88,6 +88,11 @@
 - [bigzooooz/CVE-2022-31297](https://github.com/bigzooooz/CVE-2022-31297)	<img alt="forks" src="https://img.shields.io/github/forks/bigzooooz/CVE-2022-31297">	<img alt="stars" src="https://img.shields.io/github/stars/bigzooooz/CVE-2022-31297">
 
 ---
+## CVE-2022-31138 ()
+> 
+- [ly1g3/Mailcow-CVE-2022-31138](https://github.com/ly1g3/Mailcow-CVE-2022-31138)	<img alt="forks" src="https://img.shields.io/github/forks/ly1g3/Mailcow-CVE-2022-31138">	<img alt="stars" src="https://img.shields.io/github/stars/ly1g3/Mailcow-CVE-2022-31138">
+
+---
 ## CVE-2022-30929 (2022-07-06T15:15:00)
 > Mini-Tmall v1.0 is vulnerable to Insecure Permissions via tomcat-embed-jasper.
 - [AgainstTheLight/CVE-2022-30929](https://github.com/AgainstTheLight/CVE-2022-30929)	<img alt="forks" src="https://img.shields.io/github/forks/AgainstTheLight/CVE-2022-30929">	<img alt="stars" src="https://img.shields.io/github/stars/AgainstTheLight/CVE-2022-30929">
