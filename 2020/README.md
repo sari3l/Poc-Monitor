@@ -145,6 +145,11 @@
 - [VoidSec/CVE-2020-1472](https://github.com/VoidSec/CVE-2020-1472)	<img alt="forks" src="https://img.shields.io/github/forks/VoidSec/CVE-2020-1472">	<img alt="stars" src="https://img.shields.io/github/stars/VoidSec/CVE-2020-1472">
 
 ---
+## CVE-2020-10770 (2020-12-15T20:15:00)
+> A flaw was found in Keycloak before 13.0.0, where it is possible to force the server to call out an unverified URL using the OIDC parameter request_uri. This flaw allows an attacker to use this parameter to execute a Server-side request forgery (SSRF) attack.
+- [ColdFusionX/Keycloak-12.0.1-CVE-2020-10770](https://github.com/ColdFusionX/Keycloak-12.0.1-CVE-2020-10770)	<img alt="forks" src="https://img.shields.io/github/forks/ColdFusionX/Keycloak-12.0.1-CVE-2020-10770">	<img alt="stars" src="https://img.shields.io/github/stars/ColdFusionX/Keycloak-12.0.1-CVE-2020-10770">
+
+---
 ## CVE-2020-1034 (2020-09-11T17:15:00)
 > An elevation of privilege vulnerability exists in the way that the Windows Kernel handles objects in memory, aka 'Windows Kernel Elevation of Privilege Vulnerability'.
 - [GeorgyFirsov/CVE-2020-1034](https://github.com/GeorgyFirsov/CVE-2020-1034)	<img alt="forks" src="https://img.shields.io/github/forks/GeorgyFirsov/CVE-2020-1034">	<img alt="stars" src="https://img.shields.io/github/stars/GeorgyFirsov/CVE-2020-1034">
