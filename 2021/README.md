@@ -89,7 +89,7 @@
 ---
 ## CVE-2021-4034 (2022-01-28T20:15:00)
 > A local privilege escalation vulnerability was found on polkit's pkexec utility. The pkexec application is a setuid tool designed to allow unprivileged users to run commands as privileged users according predefined policies. The current version of pkexec doesn't handle the calling parameters count correctly and ends trying to execute environment variables as commands. An attacker can leverage this by crafting environment variables in such a way it'll induce pkexec to execute arbitrary code. When successfully executed the attack can cause a local privilege escalation given unprivileged users administrative rights on the target machine.
-- [1izardd/CVE-2021-4034](https://github.com/1izardd/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/1izardd/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/1izardd/CVE-2021-4034">
+- [42lizard/CVE-2021-4034](https://github.com/42lizard/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/42lizard/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/42lizard/CVE-2021-4034">
 - [Bin4xin/bin4xin.github.io](https://github.com/Bin4xin/bin4xin.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/Bin4xin/bin4xin.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/Bin4xin/bin4xin.github.io">
 - [ly4k/PwnKit](https://github.com/ly4k/PwnKit)	<img alt="forks" src="https://img.shields.io/github/forks/ly4k/PwnKit">	<img alt="stars" src="https://img.shields.io/github/stars/ly4k/PwnKit">
 - [sentryCyberSec/sentryCyberSec.github.io](https://github.com/sentryCyberSec/sentryCyberSec.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/sentryCyberSec/sentryCyberSec.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/sentryCyberSec/sentryCyberSec.github.io">
@@ -190,6 +190,9 @@
 - [TheFlash2k/CVE-2021-3156](https://github.com/TheFlash2k/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/TheFlash2k/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/TheFlash2k/CVE-2021-3156">
 - [donghyunlee00/CVE-2021-3156](https://github.com/donghyunlee00/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/donghyunlee00/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/donghyunlee00/CVE-2021-3156">
 - [Jauler/cve2021-3156-sudo-heap-overflow](https://github.com/Jauler/cve2021-3156-sudo-heap-overflow)	<img alt="forks" src="https://img.shields.io/github/forks/Jauler/cve2021-3156-sudo-heap-overflow">	<img alt="stars" src="https://img.shields.io/github/stars/Jauler/cve2021-3156-sudo-heap-overflow">
+- [ajtech-hue/CVE-2021-3156-Mitigation-ShellScript-Build](https://github.com/ajtech-hue/CVE-2021-3156-Mitigation-ShellScript-Build)	<img alt="forks" src="https://img.shields.io/github/forks/ajtech-hue/CVE-2021-3156-Mitigation-ShellScript-Build">	<img alt="stars" src="https://img.shields.io/github/stars/ajtech-hue/CVE-2021-3156-Mitigation-ShellScript-Build">
+- [capturingcats/CVE-2021-3156](https://github.com/capturingcats/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/capturingcats/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/capturingcats/CVE-2021-3156">
+- [password520/CVE-2021-3156](https://github.com/password520/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/password520/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/password520/CVE-2021-3156">
 
 ---
 ## CVE-2021-27965 (2021-03-05T02:15:00)
