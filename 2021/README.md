@@ -56,6 +56,11 @@
 - [cxosmo/CVE-2021-42697](https://github.com/cxosmo/CVE-2021-42697)	<img alt="forks" src="https://img.shields.io/github/forks/cxosmo/CVE-2021-42697">	<img alt="stars" src="https://img.shields.io/github/stars/cxosmo/CVE-2021-42697">
 
 ---
+## CVE-2021-42669 (2021-11-05T13:15:00)
+> A file upload vulnerability exists in Sourcecodester Engineers Online Portal in PHP via dashboard_teacher.php, which allows changing the avatar through teacher_avatar.php. Once an avatar gets uploaded it is getting uploaded to the /admin/uploads/ directory, and is accessible by all users. By uploading a php webshell containing "<?php system($_GET["cmd"]); ?>" the attacker can execute commands on the web server with - /admin/uploads/php-webshell?cmd=id.
+- [0xDeku/CVE-2021-42669](https://github.com/0xDeku/CVE-2021-42669)	<img alt="forks" src="https://img.shields.io/github/forks/0xDeku/CVE-2021-42669">	<img alt="stars" src="https://img.shields.io/github/stars/0xDeku/CVE-2021-42669">
+
+---
 ## CVE-2021-42237 (2021-11-05T10:15:00)
 > Sitecore XP 7.5 Initial Release to Sitecore XP 8.2 Update-7 is vulnerable to an insecure deserialization attack where it is possible to achieve remote command execution on the machine. No authentication or special configuration is required to exploit this vulnerability.
 - [vesperp/CVE-2021-42237-SiteCore-XP](https://github.com/vesperp/CVE-2021-42237-SiteCore-XP)	<img alt="forks" src="https://img.shields.io/github/forks/vesperp/CVE-2021-42237-SiteCore-XP">	<img alt="stars" src="https://img.shields.io/github/stars/vesperp/CVE-2021-42237-SiteCore-XP">
