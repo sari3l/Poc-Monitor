@@ -571,6 +571,11 @@
 - [biulove0x/CVE-2022-1903](https://github.com/biulove0x/CVE-2022-1903)	<img alt="forks" src="https://img.shields.io/github/forks/biulove0x/CVE-2022-1903">	<img alt="stars" src="https://img.shields.io/github/stars/biulove0x/CVE-2022-1903">
 
 ---
+## CVE-2022-1421 (2022-06-08T10:15:00)
+> The Discy WordPress theme before 5.2 lacks CSRF checks in some AJAX actions, allowing an attacker to make a logged in admin change arbitrary 's settings including payment methods via a CSRF attack
+- [nb1b3k/CVE-2022-1421](https://github.com/nb1b3k/CVE-2022-1421)	<img alt="forks" src="https://img.shields.io/github/forks/nb1b3k/CVE-2022-1421">	<img alt="stars" src="https://img.shields.io/github/stars/nb1b3k/CVE-2022-1421">
+
+---
 ## CVE-2022-1388 (2022-05-05T17:15:00)
 > On F5 BIG-IP 16.1.x versions prior to 16.1.2.2, 15.1.x versions prior to 15.1.5.1, 14.1.x versions prior to 14.1.4.6, 13.1.x versions prior to 13.1.5, and all 12.1.x and 11.6.x versions, undisclosed requests may bypass iControl REST authentication. Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated
 - [Chocapikk/CVE-2022-1388](https://github.com/Chocapikk/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2022-1388">
