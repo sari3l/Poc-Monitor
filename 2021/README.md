@@ -119,6 +119,9 @@
 - [hohn/codeql-sample-polkit](https://github.com/hohn/codeql-sample-polkit)	<img alt="forks" src="https://img.shields.io/github/forks/hohn/codeql-sample-polkit">	<img alt="stars" src="https://img.shields.io/github/stars/hohn/codeql-sample-polkit">
 - [TomSgn/CVE-2021-4034](https://github.com/TomSgn/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/TomSgn/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/TomSgn/CVE-2021-4034">
 - [nel0x/pwnkit-vulnerability](https://github.com/nel0x/pwnkit-vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/nel0x/pwnkit-vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/nel0x/pwnkit-vulnerability">
+- [Kashiki078/CVE-2021-4034](https://github.com/Kashiki078/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/Kashiki078/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/Kashiki078/CVE-2021-4034">
+- [edsonjt81/CVE-2021-4034-Linux](https://github.com/edsonjt81/CVE-2021-4034-Linux)	<img alt="forks" src="https://img.shields.io/github/forks/edsonjt81/CVE-2021-4034-Linux">	<img alt="stars" src="https://img.shields.io/github/stars/edsonjt81/CVE-2021-4034-Linux">
+- [ITMarcin2211/Polkit-s-Pkexec-CVE-2021-4034](https://github.com/ITMarcin2211/Polkit-s-Pkexec-CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/ITMarcin2211/Polkit-s-Pkexec-CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/ITMarcin2211/Polkit-s-Pkexec-CVE-2021-4034">
 
 ---
 ## CVE-2021-39409 (2022-06-24T17:15:00)
