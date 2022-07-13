@@ -417,6 +417,7 @@
 - [W01fh4cker/Serein](https://github.com/W01fh4cker/Serein)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/Serein">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/Serein">
 - [li8u99/Spring-Data-Mongodb-Demo](https://github.com/li8u99/Spring-Data-Mongodb-Demo)	<img alt="forks" src="https://img.shields.io/github/forks/li8u99/Spring-Data-Mongodb-Demo">	<img alt="stars" src="https://img.shields.io/github/stars/li8u99/Spring-Data-Mongodb-Demo">
 - [kuron3k0/Spring-Data-Mongodb-Example](https://github.com/kuron3k0/Spring-Data-Mongodb-Example)	<img alt="forks" src="https://img.shields.io/github/forks/kuron3k0/Spring-Data-Mongodb-Example">	<img alt="stars" src="https://img.shields.io/github/stars/kuron3k0/Spring-Data-Mongodb-Example">
+- [Vulnmachines/Spring_cve-2022-22980](https://github.com/Vulnmachines/Spring_cve-2022-22980)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/Spring_cve-2022-22980">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/Spring_cve-2022-22980">
 
 ---
 ## CVE-2022-22978 (2022-05-19T15:15:00)
