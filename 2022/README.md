@@ -372,6 +372,9 @@
 - [W01fh4cker/Serein_Linux](https://github.com/W01fh4cker/Serein_Linux)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/Serein_Linux">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/Serein_Linux">
 - [f4yd4-s3c/cve-2022-26134](https://github.com/f4yd4-s3c/cve-2022-26134)	<img alt="forks" src="https://img.shields.io/github/forks/f4yd4-s3c/cve-2022-26134">	<img alt="stars" src="https://img.shields.io/github/stars/f4yd4-s3c/cve-2022-26134">
 - [coskper-papa/CVE-2022-26134](https://github.com/coskper-papa/CVE-2022-26134)	<img alt="forks" src="https://img.shields.io/github/forks/coskper-papa/CVE-2022-26134">	<img alt="stars" src="https://img.shields.io/github/stars/coskper-papa/CVE-2022-26134">
+- [Vulnmachines/Confluence-CVE-2022-26134](https://github.com/Vulnmachines/Confluence-CVE-2022-26134)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/Confluence-CVE-2022-26134">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/Confluence-CVE-2022-26134">
+- [2212970396/CVE_2022_26134](https://github.com/2212970396/CVE_2022_26134)	<img alt="forks" src="https://img.shields.io/github/forks/2212970396/CVE_2022_26134">	<img alt="stars" src="https://img.shields.io/github/stars/2212970396/CVE_2022_26134">
+- [p4b3l1t0/confusploit](https://github.com/p4b3l1t0/confusploit)	<img alt="forks" src="https://img.shields.io/github/forks/p4b3l1t0/confusploit">	<img alt="stars" src="https://img.shields.io/github/stars/p4b3l1t0/confusploit">
 
 ---
 ## CVE-2022-25845 (2022-06-10T20:15:00)
