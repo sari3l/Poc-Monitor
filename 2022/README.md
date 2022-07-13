@@ -418,6 +418,13 @@
 - [kuron3k0/Spring-Data-Mongodb-Example](https://github.com/kuron3k0/Spring-Data-Mongodb-Example)	<img alt="forks" src="https://img.shields.io/github/forks/kuron3k0/Spring-Data-Mongodb-Example">	<img alt="stars" src="https://img.shields.io/github/stars/kuron3k0/Spring-Data-Mongodb-Example">
 
 ---
+## CVE-2022-22978 (2022-05-19T15:15:00)
+> In Spring Security versions 5.5.6 and 5.6.3 and older unsupported versions, RegexRequestMatcher can easily be misconfigured to be bypassed on some servlet containers. Applications using RegexRequestMatcher with `.` in the regular expression are possibly vulnerable to an authorization bypass
+- [aeifkz/CVE-2022-22978](https://github.com/aeifkz/CVE-2022-22978)	<img alt="forks" src="https://img.shields.io/github/forks/aeifkz/CVE-2022-22978">	<img alt="stars" src="https://img.shields.io/github/stars/aeifkz/CVE-2022-22978">
+- [ducluongtran9121/CVE-2022-22978-PoC](https://github.com/ducluongtran9121/CVE-2022-22978-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ducluongtran9121/CVE-2022-22978-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ducluongtran9121/CVE-2022-22978-PoC">
+- [DeEpinGh0st/CVE-2022-22978](https://github.com/DeEpinGh0st/CVE-2022-22978)	<img alt="forks" src="https://img.shields.io/github/forks/DeEpinGh0st/CVE-2022-22978">	<img alt="stars" src="https://img.shields.io/github/stars/DeEpinGh0st/CVE-2022-22978">
+
+---
 ## CVE-2022-22972 (2022-05-20T21:15:00)
 > VMware Workspace ONE Access, Identity Manager and vRealize Automation contain an authentication bypass vulnerability affecting local domain users. A malicious actor with network access to the UI may be able to obtain administrative access without the need to authenticate.
 - [bengisugun/CVE-2022-22972](https://github.com/bengisugun/CVE-2022-22972)	<img alt="forks" src="https://img.shields.io/github/forks/bengisugun/CVE-2022-22972">	<img alt="stars" src="https://img.shields.io/github/stars/bengisugun/CVE-2022-22972">
