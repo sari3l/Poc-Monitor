@@ -163,6 +163,11 @@
 - [UNICORDev/exploit-CVE-2021-3560](https://github.com/UNICORDev/exploit-CVE-2021-3560)	<img alt="forks" src="https://img.shields.io/github/forks/UNICORDev/exploit-CVE-2021-3560">	<img alt="stars" src="https://img.shields.io/github/stars/UNICORDev/exploit-CVE-2021-3560">
 
 ---
+## CVE-2021-35296 (2021-10-04T17:15:00)
+> An issue in the administrator authentication panel of PTCL HG150-Ub v3.0 allows attackers to bypass authentication via modification of the cookie value and Response Path.
+- [afaq1337/CVE-2021-35296](https://github.com/afaq1337/CVE-2021-35296)	<img alt="forks" src="https://img.shields.io/github/forks/afaq1337/CVE-2021-35296">	<img alt="stars" src="https://img.shields.io/github/stars/afaq1337/CVE-2021-35296">
+
+---
 ## CVE-2021-34527 (2021-07-02T22:15:00)
 > Windows Print Spooler Remote Code Execution Vulnerability
 - [cyb3rpeace/CVE-2021-34527](https://github.com/cyb3rpeace/CVE-2021-34527)	<img alt="forks" src="https://img.shields.io/github/forks/cyb3rpeace/CVE-2021-34527">	<img alt="stars" src="https://img.shields.io/github/stars/cyb3rpeace/CVE-2021-34527">
