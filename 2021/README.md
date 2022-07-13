@@ -142,6 +142,10 @@
 ## CVE-2021-38314 (2021-09-02T17:15:00)
 > The Gutenberg Template Library & Redux Framework plugin <= 4.2.11 for WordPress registered several AJAX actions available to unauthenticated users in the `includes` function in `redux-core/class-redux-core.php` that were unique to a given site but deterministic and predictable given that they were based on an md5 hash of the site URL with a known salt value of '-redux' and an md5 hash of the previous hash with a known salt value of '-support'. These AJAX actions could be used to retrieve a list of active plugins and their versions, the site's PHP version, and an unsalted md5 hash of site’s `AUTH_KEY` concatenated with the `SECURE_AUTH_KEY`.
 - [c0ff33b34n/CVE-2021-38314](https://github.com/c0ff33b34n/CVE-2021-38314)	<img alt="forks" src="https://img.shields.io/github/forks/c0ff33b34n/CVE-2021-38314">	<img alt="stars" src="https://img.shields.io/github/stars/c0ff33b34n/CVE-2021-38314">
+- [twseptian/cve-2021-38314](https://github.com/twseptian/cve-2021-38314)	<img alt="forks" src="https://img.shields.io/github/forks/twseptian/cve-2021-38314">	<img alt="stars" src="https://img.shields.io/github/stars/twseptian/cve-2021-38314">
+- [shubhayu-64/CVE-2021-38314](https://github.com/shubhayu-64/CVE-2021-38314)	<img alt="forks" src="https://img.shields.io/github/forks/shubhayu-64/CVE-2021-38314">	<img alt="stars" src="https://img.shields.io/github/stars/shubhayu-64/CVE-2021-38314">
+- [phrantom/cve-2021-38314](https://github.com/phrantom/cve-2021-38314)	<img alt="forks" src="https://img.shields.io/github/forks/phrantom/cve-2021-38314">	<img alt="stars" src="https://img.shields.io/github/stars/phrantom/cve-2021-38314">
+- [orangmuda/CVE-2021-38314](https://github.com/orangmuda/CVE-2021-38314)	<img alt="forks" src="https://img.shields.io/github/forks/orangmuda/CVE-2021-38314">	<img alt="stars" src="https://img.shields.io/github/stars/orangmuda/CVE-2021-38314">
 
 ---
 ## CVE-2021-3560 (2022-02-16T19:15:00)
