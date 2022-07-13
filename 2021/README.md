@@ -67,6 +67,11 @@
 - [ItsIgnacioPortal/CVE-2021-42237](https://github.com/ItsIgnacioPortal/CVE-2021-42237)	<img alt="forks" src="https://img.shields.io/github/forks/ItsIgnacioPortal/CVE-2021-42237">	<img alt="stars" src="https://img.shields.io/github/stars/ItsIgnacioPortal/CVE-2021-42237">
 
 ---
+## CVE-2021-41946 (2022-05-18T11:15:00)
+> In FiberHome VDSL2 Modem HG150-Ub_V3.0, a stored cross-site scripting (XSS) vulnerability in Parental Control --> Access Time Restriction --> Username field, a user cannot delete the rule due to the XSS.
+- [afaq1337/CVE-2021-41946](https://github.com/afaq1337/CVE-2021-41946)	<img alt="forks" src="https://img.shields.io/github/forks/afaq1337/CVE-2021-41946">	<img alt="stars" src="https://img.shields.io/github/stars/afaq1337/CVE-2021-41946">
+
+---
 ## CVE-2021-41773 (2021-10-05T09:15:00)
 > A flaw was found in a change made to path normalization in Apache HTTP Server 2.4.49. An attacker could use a path traversal attack to map URLs to files outside the directories configured by Alias-like directives. If files outside of these directories are not protected by the usual default configuration "require all denied", these requests can succeed. If CGI scripts are also enabled for these aliased pathes, this could allow for remote code execution. This issue is known to be exploited in the wild. This issue only affects Apache 2.4.49 and not earlier versions. The fix in Apache HTTP Server 2.4.50 was found to be incomplete, see CVE-2021-42013.
 - [pwn3z/CVE-2021-41773-Apache-RCE](https://github.com/pwn3z/CVE-2021-41773-Apache-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/pwn3z/CVE-2021-41773-Apache-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/pwn3z/CVE-2021-41773-Apache-RCE">
@@ -137,6 +142,11 @@
 ## CVE-2021-39408 (2022-06-24T17:15:00)
 > Cross Site Scripting (XSS) vulnerability exists in Online Student Rate System 1.0 via the page parameter on the index.php file
 - [StefanDorresteijn/CVE-2021-39408](https://github.com/StefanDorresteijn/CVE-2021-39408)	<img alt="forks" src="https://img.shields.io/github/forks/StefanDorresteijn/CVE-2021-39408">	<img alt="stars" src="https://img.shields.io/github/stars/StefanDorresteijn/CVE-2021-39408">
+
+---
+## CVE-2021-39165 (2021-08-26T21:15:00)
+> Cachet is an open source status page. With Cachet prior to and including 2.3.18, there is a SQL injection which is in the `SearchableTrait#scopeSearch()`. Attackers without authentication can utilize this vulnerability to exfiltrate sensitive data from the database such as administrator's password and session. The original repository of Cachet <https://github.com/CachetHQ/Cachet> is not active, the stable version 2.3.18 and it's developing 2.4 branch is affected.
+- [W0rty/CVE-2021-39165](https://github.com/W0rty/CVE-2021-39165)	<img alt="forks" src="https://img.shields.io/github/forks/W0rty/CVE-2021-39165">	<img alt="stars" src="https://img.shields.io/github/stars/W0rty/CVE-2021-39165">
 
 ---
 ## CVE-2021-38314 (2021-09-02T17:15:00)
