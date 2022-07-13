@@ -423,6 +423,7 @@
 - [aeifkz/CVE-2022-22978](https://github.com/aeifkz/CVE-2022-22978)	<img alt="forks" src="https://img.shields.io/github/forks/aeifkz/CVE-2022-22978">	<img alt="stars" src="https://img.shields.io/github/stars/aeifkz/CVE-2022-22978">
 - [ducluongtran9121/CVE-2022-22978-PoC](https://github.com/ducluongtran9121/CVE-2022-22978-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ducluongtran9121/CVE-2022-22978-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ducluongtran9121/CVE-2022-22978-PoC">
 - [DeEpinGh0st/CVE-2022-22978](https://github.com/DeEpinGh0st/CVE-2022-22978)	<img alt="forks" src="https://img.shields.io/github/forks/DeEpinGh0st/CVE-2022-22978">	<img alt="stars" src="https://img.shields.io/github/stars/DeEpinGh0st/CVE-2022-22978">
+- [aeifkz/CVE-2022-22978](https://github.com/aeifkz/CVE-2022-22978)	<img alt="forks" src="https://img.shields.io/github/forks/aeifkz/CVE-2022-22978">	<img alt="stars" src="https://img.shields.io/github/stars/aeifkz/CVE-2022-22978">
 
 ---
 ## CVE-2022-22972 (2022-05-20T21:15:00)
