@@ -79,6 +79,11 @@
 - [pwn3z/CVE-2021-41773-Apache-RCE](https://github.com/pwn3z/CVE-2021-41773-Apache-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/pwn3z/CVE-2021-41773-Apache-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/pwn3z/CVE-2021-41773-Apache-RCE">
 
 ---
+## CVE-2021-41652 (2022-03-01T23:15:00)
+> Insecure permissions in the file database.sdb of BatFlat CMS v1.3.6 allows attackers to dump the entire database.
+- [deathflash1411/CVE-2021-41652](https://github.com/deathflash1411/CVE-2021-41652)	<img alt="forks" src="https://img.shields.io/github/forks/deathflash1411/CVE-2021-41652">	<img alt="stars" src="https://img.shields.io/github/stars/deathflash1411/CVE-2021-41652">
+
+---
 ## CVE-2021-40903 (2022-06-17T14:15:00)
 > A vulnerability in Antminer Monitor 0.50.0 exists because of backdoor or misconfiguration inside a settings file in flask server. Settings file has a predefined secret string, which would be randomly generated, however it is static.
 - [vulnz/CVE-2021-40903](https://github.com/vulnz/CVE-2021-40903)	<img alt="forks" src="https://img.shields.io/github/forks/vulnz/CVE-2021-40903">	<img alt="stars" src="https://img.shields.io/github/stars/vulnz/CVE-2021-40903">
@@ -163,6 +168,11 @@
 ## CVE-2021-3560 (2022-02-16T19:15:00)
 > It was found that polkit could be tricked into bypassing the credential checks for D-Bus requests, elevating the privileges of the requestor to the root user. This flaw could be used by an unprivileged local attacker to, for example, create a new local administrator. The highest threat from this vulnerability is to data confidentiality and integrity as well as system availability.
 - [UNICORDev/exploit-CVE-2021-3560](https://github.com/UNICORDev/exploit-CVE-2021-3560)	<img alt="forks" src="https://img.shields.io/github/forks/UNICORDev/exploit-CVE-2021-3560">	<img alt="stars" src="https://img.shields.io/github/stars/UNICORDev/exploit-CVE-2021-3560">
+
+---
+## CVE-2021-35448 (2021-06-24T20:15:00)
+> Emote Interactive Remote Mouse 3.008 on Windows allows attackers to execute arbitrary programs as Administrator by using the Image Transfer Folder feature to navigate to cmd.exe. It binds to local ports to listen for incoming connections.
+- [deathflash1411/CVE-2021-35448](https://github.com/deathflash1411/CVE-2021-35448)	<img alt="forks" src="https://img.shields.io/github/forks/deathflash1411/CVE-2021-35448">	<img alt="stars" src="https://img.shields.io/github/stars/deathflash1411/CVE-2021-35448">
 
 ---
 ## CVE-2021-35296 (2021-10-04T17:15:00)
