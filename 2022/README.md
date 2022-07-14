@@ -214,8 +214,8 @@
 - [iveresk/CVE-2022-29885](https://github.com/iveresk/CVE-2022-29885)	<img alt="forks" src="https://img.shields.io/github/forks/iveresk/CVE-2022-29885">	<img alt="stars" src="https://img.shields.io/github/stars/iveresk/CVE-2022-29885">
 
 ---
-## CVE-2022-29593 ()
-> 
+## CVE-2022-29593 (2022-07-14T15:15:00)
+> relay_cgi.cgi on Dingtian DT-R002 2CH relay devices with firmware 3.1.276A allows an attacker to replay HTTP post requests without the need for authentication or a valid signed/authorized request.
 - [9lyph/CVE-2022-29593](https://github.com/9lyph/CVE-2022-29593)	<img alt="forks" src="https://img.shields.io/github/forks/9lyph/CVE-2022-29593">	<img alt="stars" src="https://img.shields.io/github/stars/9lyph/CVE-2022-29593">
 
 ---
