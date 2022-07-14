@@ -4,6 +4,8 @@
 ## CVE-2021-46422 (2022-04-27T13:15:00)
 > Telesquare SDT-CW3B1 1.1.0 is affected by an OS command injection vulnerability that allows a remote attacker to execute OS commands without any authentication.
 - [Chocapikk/CVE-2021-46422](https://github.com/Chocapikk/CVE-2021-46422)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2021-46422">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2021-46422">
+- [twoning/CVE-2021-46422_PoC](https://github.com/twoning/CVE-2021-46422_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/twoning/CVE-2021-46422_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/twoning/CVE-2021-46422_PoC">
+- [nobodyatall648/CVE-2021-46422](https://github.com/nobodyatall648/CVE-2021-46422)	<img alt="forks" src="https://img.shields.io/github/forks/nobodyatall648/CVE-2021-46422">	<img alt="stars" src="https://img.shields.io/github/stars/nobodyatall648/CVE-2021-46422">
 
 ---
 ## CVE-2021-44228 (2021-12-10T10:15:00)
