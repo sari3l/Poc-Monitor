@@ -139,6 +139,8 @@
 - [Kashiki078/CVE-2021-4034](https://github.com/Kashiki078/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/Kashiki078/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/Kashiki078/CVE-2021-4034">
 - [edsonjt81/CVE-2021-4034-Linux](https://github.com/edsonjt81/CVE-2021-4034-Linux)	<img alt="forks" src="https://img.shields.io/github/forks/edsonjt81/CVE-2021-4034-Linux">	<img alt="stars" src="https://img.shields.io/github/stars/edsonjt81/CVE-2021-4034-Linux">
 - [ITMarcin2211/Polkit-s-Pkexec-CVE-2021-4034](https://github.com/ITMarcin2211/Polkit-s-Pkexec-CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/ITMarcin2211/Polkit-s-Pkexec-CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/ITMarcin2211/Polkit-s-Pkexec-CVE-2021-4034">
+- [rvizx/CVE-2021-4034](https://github.com/rvizx/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2021-4034">
+- [jm33-m0/go-lpe](https://github.com/jm33-m0/go-lpe)	<img alt="forks" src="https://img.shields.io/github/forks/jm33-m0/go-lpe">	<img alt="stars" src="https://img.shields.io/github/stars/jm33-m0/go-lpe">
 
 ---
 ## CVE-2021-39409 (2022-06-24T17:15:00)
