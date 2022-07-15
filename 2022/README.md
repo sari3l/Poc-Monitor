@@ -59,6 +59,16 @@
 - [0dayCTF/CVE-2022-32250_PoC](https://github.com/0dayCTF/CVE-2022-32250_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0dayCTF/CVE-2022-32250_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0dayCTF/CVE-2022-32250_PoC">
 
 ---
+## CVE-2022-32119 ()
+> 
+- [JC175/CVE-2022-32119](https://github.com/JC175/CVE-2022-32119)	<img alt="forks" src="https://img.shields.io/github/forks/JC175/CVE-2022-32119">	<img alt="stars" src="https://img.shields.io/github/stars/JC175/CVE-2022-32119">
+
+---
+## CVE-2022-32118 ()
+> 
+- [JC175/CVE-2022-32118](https://github.com/JC175/CVE-2022-32118)	<img alt="forks" src="https://img.shields.io/github/forks/JC175/CVE-2022-32118">	<img alt="stars" src="https://img.shields.io/github/stars/JC175/CVE-2022-32118">
+
+---
 ## CVE-2022-31901 ()
 > 
 - [CDACesec/CVE-2022-31901](https://github.com/CDACesec/CVE-2022-31901)	<img alt="forks" src="https://img.shields.io/github/forks/CDACesec/CVE-2022-31901">	<img alt="stars" src="https://img.shields.io/github/stars/CDACesec/CVE-2022-31901">
