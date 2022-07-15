@@ -193,6 +193,8 @@
 - [Gra3s/CVE-2022-30190-Follina-PowerPoint-Version](https://github.com/Gra3s/CVE-2022-30190-Follina-PowerPoint-Version)	<img alt="forks" src="https://img.shields.io/github/forks/Gra3s/CVE-2022-30190-Follina-PowerPoint-Version">	<img alt="stars" src="https://img.shields.io/github/stars/Gra3s/CVE-2022-30190-Follina-PowerPoint-Version">
 - [ItsNee/Follina-CVE-2022-30190-POC](https://github.com/ItsNee/Follina-CVE-2022-30190-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ItsNee/Follina-CVE-2022-30190-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ItsNee/Follina-CVE-2022-30190-POC">
 - [maxgestic/Follina-Generator](https://github.com/maxgestic/Follina-Generator)	<img alt="forks" src="https://img.shields.io/github/forks/maxgestic/Follina-Generator">	<img alt="stars" src="https://img.shields.io/github/stars/maxgestic/Follina-Generator">
+- [drgreenthumb93/CVE-2022-30190-follina](https://github.com/drgreenthumb93/CVE-2022-30190-follina)	<img alt="forks" src="https://img.shields.io/github/forks/drgreenthumb93/CVE-2022-30190-follina">	<img alt="stars" src="https://img.shields.io/github/stars/drgreenthumb93/CVE-2022-30190-follina">
+- [hscorpion/CVE-2022-30190](https://github.com/hscorpion/CVE-2022-30190)	<img alt="forks" src="https://img.shields.io/github/forks/hscorpion/CVE-2022-30190">	<img alt="stars" src="https://img.shields.io/github/stars/hscorpion/CVE-2022-30190">
 
 ---
 ## CVE-2022-30136 (2022-06-15T22:15:00)
