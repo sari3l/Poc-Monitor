@@ -645,6 +645,12 @@
 - [thelostworldFree/CVE-2022-111111](https://github.com/thelostworldFree/CVE-2022-111111)	<img alt="forks" src="https://img.shields.io/github/forks/thelostworldFree/CVE-2022-111111">	<img alt="stars" src="https://img.shields.io/github/stars/thelostworldFree/CVE-2022-111111">
 
 ---
+## CVE-2022-0848 (2022-03-04T09:15:00)
+> OS Command Injection in GitHub repository part-db/part-db prior to 0.5.11.
+- [logm1lo/CVE-2022-0848-RCE](https://github.com/logm1lo/CVE-2022-0848-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/logm1lo/CVE-2022-0848-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/logm1lo/CVE-2022-0848-RCE">
+- [dskmehra/CVE-2022-0848](https://github.com/dskmehra/CVE-2022-0848)	<img alt="forks" src="https://img.shields.io/github/forks/dskmehra/CVE-2022-0848">	<img alt="stars" src="https://img.shields.io/github/stars/dskmehra/CVE-2022-0848">
+
+---
 ## CVE-2022-0847 (2022-03-10T17:44:00)
 > A flaw was found in the way the "flags" member of the new pipe buffer structure was lacking proper initialization in copy_page_to_iter_pipe and push_pipe functions in the Linux kernel and could thus contain stale values. An unprivileged local user could use this flaw to write to pages in the page cache backed by read only files and as such escalate their privileges on the system.
 - [greenhandatsjtu/CVE-2022-0847-Container-Escape](https://github.com/greenhandatsjtu/CVE-2022-0847-Container-Escape)	<img alt="forks" src="https://img.shields.io/github/forks/greenhandatsjtu/CVE-2022-0847-Container-Escape">	<img alt="stars" src="https://img.shields.io/github/stars/greenhandatsjtu/CVE-2022-0847-Container-Escape">
