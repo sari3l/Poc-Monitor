@@ -390,6 +390,7 @@
 - [p4b3l1t0/confusploit](https://github.com/p4b3l1t0/confusploit)	<img alt="forks" src="https://img.shields.io/github/forks/p4b3l1t0/confusploit">	<img alt="stars" src="https://img.shields.io/github/stars/p4b3l1t0/confusploit">
 - [twoning/CVE-2022-26134-PoC](https://github.com/twoning/CVE-2022-26134-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/twoning/CVE-2022-26134-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/twoning/CVE-2022-26134-PoC">
 - [twoning/CVE-2022-26134-PoC](https://github.com/twoning/CVE-2022-26134-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/twoning/CVE-2022-26134-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/twoning/CVE-2022-26134-PoC">
+- [iveresk/cve-2022-26134](https://github.com/iveresk/cve-2022-26134)	<img alt="forks" src="https://img.shields.io/github/forks/iveresk/cve-2022-26134">	<img alt="stars" src="https://img.shields.io/github/stars/iveresk/cve-2022-26134">
 
 ---
 ## CVE-2022-25845 (2022-06-10T20:15:00)
