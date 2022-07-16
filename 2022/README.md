@@ -163,6 +163,11 @@
 - [ProngedFork/CVE-2022-30525](https://github.com/ProngedFork/CVE-2022-30525)	<img alt="forks" src="https://img.shields.io/github/forks/ProngedFork/CVE-2022-30525">	<img alt="stars" src="https://img.shields.io/github/stars/ProngedFork/CVE-2022-30525">
 
 ---
+## CVE-2022-30507 ()
+> 
+- [yosef0x01/CVE-2022-30507](https://github.com/yosef0x01/CVE-2022-30507)	<img alt="forks" src="https://img.shields.io/github/forks/yosef0x01/CVE-2022-30507">	<img alt="stars" src="https://img.shields.io/github/stars/yosef0x01/CVE-2022-30507">
+
+---
 ## CVE-2022-30333 (2022-05-09T08:15:00)
 > RARLAB UnRAR before 6.12 on Linux and UNIX allows directory traversal to write to files during an extract (aka unpack) operation, as demonstrated by creating a ~/.ssh/authorized_keys file. NOTE: WinRAR and Android RAR are unaffected.
 - [TheL1ghtVn/CVE-2022-30333-PoC](https://github.com/TheL1ghtVn/CVE-2022-30333-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TheL1ghtVn/CVE-2022-30333-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TheL1ghtVn/CVE-2022-30333-PoC">
