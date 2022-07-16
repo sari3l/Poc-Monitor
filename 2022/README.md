@@ -266,6 +266,7 @@
 ## CVE-2022-29455 (2022-06-13T17:15:00)
 > DOM-based Reflected Cross-Site Scripting (XSS) vulnerability in Elementor's Elementor Website Builder plugin <= 3.5.5 versions.
 - [GULL2100/Wordpress_xss-CVE-2022-29455](https://github.com/GULL2100/Wordpress_xss-CVE-2022-29455)	<img alt="forks" src="https://img.shields.io/github/forks/GULL2100/Wordpress_xss-CVE-2022-29455">	<img alt="stars" src="https://img.shields.io/github/stars/GULL2100/Wordpress_xss-CVE-2022-29455">
+- [alyrezo/cve-2022-29455](https://github.com/alyrezo/cve-2022-29455)	<img alt="forks" src="https://img.shields.io/github/forks/alyrezo/cve-2022-29455">	<img alt="stars" src="https://img.shields.io/github/stars/alyrezo/cve-2022-29455">
 
 ---
 ## CVE-2022-28986 (2022-05-10T19:15:00)
