@@ -81,6 +81,11 @@
 - [CDACesec/CVE-2022-31901](https://github.com/CDACesec/CVE-2022-31901)	<img alt="forks" src="https://img.shields.io/github/forks/CDACesec/CVE-2022-31901">	<img alt="stars" src="https://img.shields.io/github/stars/CDACesec/CVE-2022-31901">
 
 ---
+## CVE-2022-31897 (2022-06-29T01:15:00)
+> SourceCodester Zoo Management System 1.0 is vulnerable to Cross Site Scripting (XSS) via public_html/register_visitor?msg=.
+- [AngeloPioAmirante/CVE-2022-31897](https://github.com/AngeloPioAmirante/CVE-2022-31897)	<img alt="forks" src="https://img.shields.io/github/forks/AngeloPioAmirante/CVE-2022-31897">	<img alt="stars" src="https://img.shields.io/github/stars/AngeloPioAmirante/CVE-2022-31897">
+
+---
 ## CVE-2022-31854 (2022-07-07T13:15:00)
 > Codoforum v5.1 was discovered to contain an arbitrary file upload vulnerability via the logo change option in the admin panel.
 - [Vikaran101/CVE-2022-31854](https://github.com/Vikaran101/CVE-2022-31854)	<img alt="forks" src="https://img.shields.io/github/forks/Vikaran101/CVE-2022-31854">	<img alt="stars" src="https://img.shields.io/github/stars/Vikaran101/CVE-2022-31854">
