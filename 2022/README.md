@@ -427,6 +427,11 @@
 - [sadshade/CVE-2022-24706-CouchDB-Exploit](https://github.com/sadshade/CVE-2022-24706-CouchDB-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sadshade/CVE-2022-24706-CouchDB-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sadshade/CVE-2022-24706-CouchDB-Exploit">
 
 ---
+## CVE-2022-24500 (2022-04-15T19:15:00)
+> Windows SMB Remote Code Execution Vulnerability.
+- [Daro1967/CVE-2022-24500-RCE](https://github.com/Daro1967/CVE-2022-24500-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Daro1967/CVE-2022-24500-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Daro1967/CVE-2022-24500-RCE">
+
+---
 ## CVE-2022-24342 (2022-02-25T15:15:00)
 > In JetBrains TeamCity before 2021.2.1, URL injection leading to CSRF was possible.
 - [yuriisanin/CVE-2022-24342](https://github.com/yuriisanin/CVE-2022-24342)	<img alt="forks" src="https://img.shields.io/github/forks/yuriisanin/CVE-2022-24342">	<img alt="stars" src="https://img.shields.io/github/stars/yuriisanin/CVE-2022-24342">
