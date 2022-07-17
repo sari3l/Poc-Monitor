@@ -72,6 +72,7 @@
 ## CVE-2022-32119 (2022-07-15T12:15:00)
 > Arox School ERP Pro v1.0 was discovered to contain multiple arbitrary file upload vulnerabilities via the Add Photo function at photogalleries.inc.php and the import staff excel function at 1finance_master.inc.php.
 - [JC175/CVE-2022-32119](https://github.com/JC175/CVE-2022-32119)	<img alt="forks" src="https://img.shields.io/github/forks/JC175/CVE-2022-32119">	<img alt="stars" src="https://img.shields.io/github/stars/JC175/CVE-2022-32119">
+- [trhacknon/CVE-2022-32119](https://github.com/trhacknon/CVE-2022-32119)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-32119">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-32119">
 
 ---
 ## CVE-2022-32118 (2022-07-15T12:15:00)
