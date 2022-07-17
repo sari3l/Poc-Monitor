@@ -252,6 +252,11 @@
 - [dorkerdevil/CVE-2021-27850_POC](https://github.com/dorkerdevil/CVE-2021-27850_POC)	<img alt="forks" src="https://img.shields.io/github/forks/dorkerdevil/CVE-2021-27850_POC">	<img alt="stars" src="https://img.shields.io/github/stars/dorkerdevil/CVE-2021-27850_POC">
 
 ---
+## CVE-2021-27239 (2021-03-29T21:15:00)
+> This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of NETGEAR R6400 and R6700 firmware version 1.0.4.98 routers. Authentication is not required to exploit this vulnerability. The specific flaw exists within the upnpd service, which listens on UDP port 1900 by default. A crafted MX header field in an SSDP message can trigger an overflow of a fixed-length stack-based buffer. An attacker can leverage this vulnerability to execute code in the context of root. Was ZDI-CAN-11851.
+- [WizardsOfTheInternet/CVE-2021-27239](https://github.com/WizardsOfTheInternet/CVE-2021-27239)	<img alt="forks" src="https://img.shields.io/github/forks/WizardsOfTheInternet/CVE-2021-27239">	<img alt="stars" src="https://img.shields.io/github/stars/WizardsOfTheInternet/CVE-2021-27239">
+
+---
 ## CVE-2021-26855 (2021-03-03T00:15:00)
 > Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.
 - [raheel0x01/CVE-2021-26855](https://github.com/raheel0x01/CVE-2021-26855)	<img alt="forks" src="https://img.shields.io/github/forks/raheel0x01/CVE-2021-26855">	<img alt="stars" src="https://img.shields.io/github/stars/raheel0x01/CVE-2021-26855">
