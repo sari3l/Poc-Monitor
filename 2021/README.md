@@ -286,6 +286,11 @@
 - [sotiriskar/CVE-2021-26855](https://github.com/sotiriskar/CVE-2021-26855)	<img alt="forks" src="https://img.shields.io/github/forks/sotiriskar/CVE-2021-26855">	<img alt="stars" src="https://img.shields.io/github/stars/sotiriskar/CVE-2021-26855">
 
 ---
+## CVE-2021-26294 (2021-03-07T04:15:00)
+> An issue was discovered in AfterLogic Aurora through 7.7.9 and WebMail Pro through 7.7.9. They allow directory traversal to read files (such as a data/settings/settings.xml file containing admin panel credentials), as demonstrated by dav/server.php/files/personal/%2e%2e when using the caldav_public_user account (with caldav_public_user as its password).
+- [dorkerdevil/CVE-2021-26294](https://github.com/dorkerdevil/CVE-2021-26294)	<img alt="forks" src="https://img.shields.io/github/forks/dorkerdevil/CVE-2021-26294">	<img alt="stars" src="https://img.shields.io/github/stars/dorkerdevil/CVE-2021-26294">
+
+---
 ## CVE-2021-25094 (2022-04-25T16:16:00)
 > The Tatsu WordPress plugin before 3.3.12 add_custom_font action can be used without prior authentication to upload a rogue zip file which is uncompressed under the WordPress's upload directory. By adding a PHP shell with a filename starting with a dot ".", this can bypass extension control implemented in the plugin. Moreover, there is a race condition in the zip extraction process which makes the shell file live long enough on the filesystem to be callable by an attacker.
 - [xdx57/CVE-2021-25094](https://github.com/xdx57/CVE-2021-25094)	<img alt="forks" src="https://img.shields.io/github/forks/xdx57/CVE-2021-25094">	<img alt="stars" src="https://img.shields.io/github/stars/xdx57/CVE-2021-25094">
