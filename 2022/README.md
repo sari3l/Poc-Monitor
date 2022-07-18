@@ -44,6 +44,12 @@
 - [trhacknon/CVE-2022-33980-Apache-Commons-Configuration-RCE](https://github.com/trhacknon/CVE-2022-33980-Apache-Commons-Configuration-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-33980-Apache-Commons-Configuration-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-33980-Apache-Commons-Configuration-RCE">
 
 ---
+## CVE-2022-33891 (2022-07-18T07:15:00)
+> The Apache Spark UI offers the possibility to enable ACLs via the configuration option spark.acls.enable. With an authentication filter, this checks whether a user has access permissions to view or modify the application. If ACLs are enabled, a code path in HttpSecurityFilter can allow someone to perform impersonation by providing an arbitrary user name. A malicious user might then be able to reach a permission check function that will ultimately build a Unix shell command based on their input, and execute it. This will result in arbitrary shell command execution as the user Spark is currently running as. This affects Apache Spark versions 3.0.3 and earlier, versions 3.1.1 to 3.1.2, and versions 3.2.0 to 3.2.1.
+- [W01fh4cker/cve-2022-33891](https://github.com/W01fh4cker/cve-2022-33891)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/cve-2022-33891">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/cve-2022-33891">
+- [W01fh4cker/Serein](https://github.com/W01fh4cker/Serein)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/Serein">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/Serein">
+
+---
 ## CVE-2022-33075 (2022-07-05T18:15:00)
 > A stored cross-site scripting (XSS) vulnerability in the Add Classification function of Zoo Management System v1.0 allows attackers to execute arbitrary web scripts or HTML via unspecified vectors.
 - [AngeloPioAmirante/CVE-2022-33075](https://github.com/AngeloPioAmirante/CVE-2022-33075)	<img alt="forks" src="https://img.shields.io/github/forks/AngeloPioAmirante/CVE-2022-33075">	<img alt="stars" src="https://img.shields.io/github/stars/AngeloPioAmirante/CVE-2022-33075">
@@ -177,6 +183,7 @@
 ## CVE-2022-30333 (2022-05-09T08:15:00)
 > RARLAB UnRAR before 6.12 on Linux and UNIX allows directory traversal to write to files during an extract (aka unpack) operation, as demonstrated by creating a ~/.ssh/authorized_keys file. NOTE: WinRAR and Android RAR are unaffected.
 - [TheL1ghtVn/CVE-2022-30333-PoC](https://github.com/TheL1ghtVn/CVE-2022-30333-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TheL1ghtVn/CVE-2022-30333-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TheL1ghtVn/CVE-2022-30333-PoC">
+- [rbowes-r7/unrar-cve-2022-30333-poc](https://github.com/rbowes-r7/unrar-cve-2022-30333-poc)	<img alt="forks" src="https://img.shields.io/github/forks/rbowes-r7/unrar-cve-2022-30333-poc">	<img alt="stars" src="https://img.shields.io/github/stars/rbowes-r7/unrar-cve-2022-30333-poc">
 
 ---
 ## CVE-2022-30190 (2022-06-01T20:15:00)
