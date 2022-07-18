@@ -401,3 +401,8 @@
 - [Maskhe/CVE-2021-21300](https://github.com/Maskhe/CVE-2021-21300)	<img alt="forks" src="https://img.shields.io/github/forks/Maskhe/CVE-2021-21300">	<img alt="stars" src="https://img.shields.io/github/stars/Maskhe/CVE-2021-21300">
 - [erranfenech/CVE-2021-21300](https://github.com/erranfenech/CVE-2021-21300)	<img alt="forks" src="https://img.shields.io/github/forks/erranfenech/CVE-2021-21300">	<img alt="stars" src="https://img.shields.io/github/stars/erranfenech/CVE-2021-21300">
 - [AlkenePan/CVE-2021-21300](https://github.com/AlkenePan/CVE-2021-21300)	<img alt="forks" src="https://img.shields.io/github/forks/AlkenePan/CVE-2021-21300">	<img alt="stars" src="https://img.shields.io/github/stars/AlkenePan/CVE-2021-21300">
+
+---
+## CVE-2021-20138 (2021-12-09T16:15:00)
+> An unauthenticated command injection vulnerability exists in multiple parameters in the Gryphon Tower router’s web interface at /cgi-bin/luci/rc. An unauthenticated remote attacker on the same network can execute commands as root on the device by sending a specially crafted malicious packet to the web interface.
+- [ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-20138](https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-20138)	<img alt="forks" src="https://img.shields.io/github/forks/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-20138">	<img alt="stars" src="https://img.shields.io/github/stars/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-20138">
