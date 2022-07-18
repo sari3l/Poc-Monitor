@@ -450,6 +450,16 @@
 - [yuriisanin/CVE-2022-24342](https://github.com/yuriisanin/CVE-2022-24342)	<img alt="forks" src="https://img.shields.io/github/forks/yuriisanin/CVE-2022-24342">	<img alt="stars" src="https://img.shields.io/github/stars/yuriisanin/CVE-2022-24342">
 
 ---
+## CVE-2022-24086 (2022-02-16T17:15:00)
+> Adobe Commerce versions 2.4.3-p1 (and earlier) and 2.3.7-p2 (and earlier) are affected by an improper input validation vulnerability during the checkout process. Exploitation of this issue does not require user interaction and could result in arbitrary code execution.
+- [Cory65/CVE-2022-24086-POC](https://github.com/Cory65/CVE-2022-24086-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Cory65/CVE-2022-24086-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Cory65/CVE-2022-24086-POC">
+- [seymanurmutlu/CVE-2022-24086-CVE-2022-24087](https://github.com/seymanurmutlu/CVE-2022-24086-CVE-2022-24087)	<img alt="forks" src="https://img.shields.io/github/forks/seymanurmutlu/CVE-2022-24086-CVE-2022-24087">	<img alt="stars" src="https://img.shields.io/github/stars/seymanurmutlu/CVE-2022-24086-CVE-2022-24087">
+- [oK0mo/CVE-2022-24086-RCE-PoC](https://github.com/oK0mo/CVE-2022-24086-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/oK0mo/CVE-2022-24086-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/oK0mo/CVE-2022-24086-RCE-PoC">
+- [NHPT/CVE-2022-24086-RCE](https://github.com/NHPT/CVE-2022-24086-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/NHPT/CVE-2022-24086-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/NHPT/CVE-2022-24086-RCE">
+- [Mr-xn/CVE-2022-24086](https://github.com/Mr-xn/CVE-2022-24086)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2022-24086">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2022-24086">
+- [nanaao/CVE-2022-24086-RCE](https://github.com/nanaao/CVE-2022-24086-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/nanaao/CVE-2022-24086-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/nanaao/CVE-2022-24086-RCE">
+
+---
 ## CVE-2022-23614 (2022-02-04T23:15:00)
 > Twig is an open source template language for PHP. When in a sandbox mode, the `arrow` parameter of the `sort` filter must be a closure to avoid attackers being able to run arbitrary PHP functions. In affected versions this constraint was not properly enforced and could lead to code injection of arbitrary PHP code. Patched versions now disallow calling non Closure in the `sort` filter as is the case for some other filters. Users are advised to upgrade.
 - [davwwwx/CVE-2022-23614](https://github.com/davwwwx/CVE-2022-23614)	<img alt="forks" src="https://img.shields.io/github/forks/davwwwx/CVE-2022-23614">	<img alt="stars" src="https://img.shields.io/github/stars/davwwwx/CVE-2022-23614">
