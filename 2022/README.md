@@ -561,6 +561,11 @@
 - [PyterSmithDarkGhost/0DAYIPHONE13IOS15.2CVE-2022-22588](https://github.com/PyterSmithDarkGhost/0DAYIPHONE13IOS15.2CVE-2022-22588)	<img alt="forks" src="https://img.shields.io/github/forks/PyterSmithDarkGhost/0DAYIPHONE13IOS15.2CVE-2022-22588">	<img alt="stars" src="https://img.shields.io/github/stars/PyterSmithDarkGhost/0DAYIPHONE13IOS15.2CVE-2022-22588">
 
 ---
+## CVE-2022-22029 (2022-07-12T23:15:00)
+> Windows Network File System Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-22039.
+- [mchoudhary15/CVE-2022-22029-NFS-Server-](https://github.com/mchoudhary15/CVE-2022-22029-NFS-Server-)	<img alt="forks" src="https://img.shields.io/github/forks/mchoudhary15/CVE-2022-22029-NFS-Server-">	<img alt="stars" src="https://img.shields.io/github/stars/mchoudhary15/CVE-2022-22029-NFS-Server-">
+
+---
 ## CVE-2022-2185 (2022-07-01T16:15:00)
 > A critical issue has been discovered in GitLab affecting all versions starting from 14.0 prior to 14.10.5, 15.0 prior to 15.0.4, and 15.1 prior to 15.1.1 where it was possible for an unauthorised user to execute arbitrary code on the server using the project import feature.
 - [safe3s/CVE-2022-2185-poc](https://github.com/safe3s/CVE-2022-2185-poc)	<img alt="forks" src="https://img.shields.io/github/forks/safe3s/CVE-2022-2185-poc">	<img alt="stars" src="https://img.shields.io/github/stars/safe3s/CVE-2022-2185-poc">
