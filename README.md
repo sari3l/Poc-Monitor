@@ -21,8 +21,11 @@
 4. 可从年限目录内`README.md`获取当年完整信息
 5. 可从`dateLog`目录获取当天新增、更新cve内容
 
-## 配置
+## 通知
 
 1. `enableRelatedQuery`关闭下只关注最近更新的项目，开启下会关注同CVE下其他项目
 2. 只有`新增`才会触发通知，具体逻辑可自行修改 
 3. 修改`search.go`中通知函数更换通知渠道，具体可看[sari3l/notify](https://github.com/sari3l/notify)项目
+
+## 效果
+<img src="https://user-images.githubusercontent.com/45752995/179657618-4b42753b-4344-4cdd-a068-79bd33d2b33f.jpeg" width=20%>
