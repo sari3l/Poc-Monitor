@@ -367,6 +367,7 @@
 - [auduongxuan/CVE-2022-26809](https://github.com/auduongxuan/CVE-2022-26809)	<img alt="forks" src="https://img.shields.io/github/forks/auduongxuan/CVE-2022-26809">	<img alt="stars" src="https://img.shields.io/github/stars/auduongxuan/CVE-2022-26809">
 - [mr-r3b00t/cve-2022-26809](https://github.com/mr-r3b00t/cve-2022-26809)	<img alt="forks" src="https://img.shields.io/github/forks/mr-r3b00t/cve-2022-26809">	<img alt="stars" src="https://img.shields.io/github/stars/mr-r3b00t/cve-2022-26809">
 - [f8al/CVE-2022-26809](https://github.com/f8al/CVE-2022-26809)	<img alt="forks" src="https://img.shields.io/github/forks/f8al/CVE-2022-26809">	<img alt="stars" src="https://img.shields.io/github/stars/f8al/CVE-2022-26809">
+- [cybersecurityresearcher/CVE-2022-26809-RCE-POC](https://github.com/cybersecurityresearcher/CVE-2022-26809-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/cybersecurityresearcher/CVE-2022-26809-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/cybersecurityresearcher/CVE-2022-26809-RCE-POC">
 
 ---
 ## CVE-2022-26269 (2022-03-29T01:15:00)
