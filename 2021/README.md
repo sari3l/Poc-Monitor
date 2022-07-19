@@ -44,6 +44,7 @@
 - [tharindudh/Log4j-Vulnerability-in-Ghidra-tool-CVE-2021-44228](https://github.com/tharindudh/Log4j-Vulnerability-in-Ghidra-tool-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/tharindudh/Log4j-Vulnerability-in-Ghidra-tool-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/tharindudh/Log4j-Vulnerability-in-Ghidra-tool-CVE-2021-44228">
 - [bughuntar/log4j-scan](https://github.com/bughuntar/log4j-scan)	<img alt="forks" src="https://img.shields.io/github/forks/bughuntar/log4j-scan">	<img alt="stars" src="https://img.shields.io/github/stars/bughuntar/log4j-scan">
 - [cybersecurityresearcher/CVE-2021-44228-Mass-RCE-Log4j](https://github.com/cybersecurityresearcher/CVE-2021-44228-Mass-RCE-Log4j)	<img alt="forks" src="https://img.shields.io/github/forks/cybersecurityresearcher/CVE-2021-44228-Mass-RCE-Log4j">	<img alt="stars" src="https://img.shields.io/github/stars/cybersecurityresearcher/CVE-2021-44228-Mass-RCE-Log4j">
+- [vidrez/Ethical-Hacking-Report-Log4j](https://github.com/vidrez/Ethical-Hacking-Report-Log4j)	<img alt="forks" src="https://img.shields.io/github/forks/vidrez/Ethical-Hacking-Report-Log4j">	<img alt="stars" src="https://img.shields.io/github/stars/vidrez/Ethical-Hacking-Report-Log4j">
 
 ---
 ## CVE-2021-44158 (2022-01-03T10:15:00)
