@@ -306,6 +306,11 @@
 - [alirezasalehizadeh/cve-2022-29455](https://github.com/alirezasalehizadeh/cve-2022-29455)	<img alt="forks" src="https://img.shields.io/github/forks/alirezasalehizadeh/cve-2022-29455">	<img alt="stars" src="https://img.shields.io/github/stars/alirezasalehizadeh/cve-2022-29455">
 
 ---
+## CVE-2022-29078 (2022-04-25T15:15:00)
+> The ejs (aka Embedded JavaScript templates) package 3.1.6 for Node.js allows server-side template injection in settings[view options][outputFunctionName]. This is parsed as an internal option, and overwrites the outputFunctionName option with an arbitrary OS command (which is executed upon template compilation).
+- [miko550/CVE-2022-29078](https://github.com/miko550/CVE-2022-29078)	<img alt="forks" src="https://img.shields.io/github/forks/miko550/CVE-2022-29078">	<img alt="stars" src="https://img.shields.io/github/stars/miko550/CVE-2022-29078">
+
+---
 ## CVE-2022-28986 (2022-05-10T19:15:00)
 > LMS Doctor Simple 2 Factor Authentication Plugin For Moodle Affected: 2021072900 has an Insecure direct object references (IDOR) vulnerability, which allows remote attackers to update sensitive records such as email, password and phone number of other user accounts.
 - [FlaviuPopescu/CVE-2022-28986](https://github.com/FlaviuPopescu/CVE-2022-28986)	<img alt="forks" src="https://img.shields.io/github/forks/FlaviuPopescu/CVE-2022-28986">	<img alt="stars" src="https://img.shields.io/github/stars/FlaviuPopescu/CVE-2022-28986">
