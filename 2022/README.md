@@ -718,6 +718,14 @@
 - [EvilLizard666/CVE-2022-1388](https://github.com/EvilLizard666/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/EvilLizard666/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/EvilLizard666/CVE-2022-1388">
 
 ---
+## CVE-2022-1292 (2022-05-03T16:15:00)
+> The c_rehash script does not properly sanitise shell metacharacters to prevent command injection. This script is distributed by some operating systems in a manner where it is automatically executed. On such operating systems, an attacker could execute arbitrary commands with the privileges of the script. Use of the c_rehash script is considered obsolete and should be replaced by the OpenSSL rehash command line tool. Fixed in OpenSSL 3.0.3 (Affected 3.0.0,3.0.1,3.0.2). Fixed in OpenSSL 1.1.1o (Affected 1.1.1-1.1.1n). Fixed in OpenSSL 1.0.2ze (Affected 1.0.2-1.0.2zd).
+- [alcaparra/CVE-2022-1292](https://github.com/alcaparra/CVE-2022-1292)	<img alt="forks" src="https://img.shields.io/github/forks/alcaparra/CVE-2022-1292">	<img alt="stars" src="https://img.shields.io/github/stars/alcaparra/CVE-2022-1292">
+- [rama291041610/CVE-2022-1292](https://github.com/rama291041610/CVE-2022-1292)	<img alt="forks" src="https://img.shields.io/github/forks/rama291041610/CVE-2022-1292">	<img alt="stars" src="https://img.shields.io/github/stars/rama291041610/CVE-2022-1292">
+- [trhacknon/CVE-2022-1292](https://github.com/trhacknon/CVE-2022-1292)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-1292">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-1292">
+- [li8u99/CVE-2022-1292](https://github.com/li8u99/CVE-2022-1292)	<img alt="forks" src="https://img.shields.io/github/forks/li8u99/CVE-2022-1292">	<img alt="stars" src="https://img.shields.io/github/stars/li8u99/CVE-2022-1292">
+
+---
 ## CVE-2022-111111 ()
 > 
 - [thelostworldFree/CVE-2022-111111](https://github.com/thelostworldFree/CVE-2022-111111)	<img alt="forks" src="https://img.shields.io/github/forks/thelostworldFree/CVE-2022-111111">	<img alt="stars" src="https://img.shields.io/github/stars/thelostworldFree/CVE-2022-111111">
