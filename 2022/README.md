@@ -31,6 +31,11 @@
 - [bypazs/CVE-2022-34961](https://github.com/bypazs/CVE-2022-34961)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/CVE-2022-34961">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/CVE-2022-34961">
 
 ---
+## CVE-2022-34918 (2022-07-04T21:15:00)
+> An issue was discovered in the Linux kernel through 5.18.9. A type confusion bug in nft_set_elem_init (leading to a buffer overflow) could be used by a local attacker to escalate privileges, a different vulnerability than CVE-2022-32250. (The attacker can obtain root access, but must start with an unprivileged user namespace to obtain CAP_NET_ADMIN access.) This can be fixed in nft_setelem_parse_data in net/netfilter/nf_tables_api.c.
+- [randorisec/CVE-2022-34918-LPE-PoC](https://github.com/randorisec/CVE-2022-34918-LPE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/randorisec/CVE-2022-34918-LPE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/randorisec/CVE-2022-34918-LPE-PoC">
+
+---
 ## CVE-2022-34305 (2022-06-23T11:15:00)
 > In Apache Tomcat 10.1.0-M1 to 10.1.0-M16, 10.0.0-M1 to 10.0.22, 9.0.30 to 9.0.64 and 8.5.50 to 8.5.81 the Form authentication example in the examples web application displayed user provided data without filtering, exposing a XSS vulnerability.
 - [zeroc00I/CVE-2022-34305](https://github.com/zeroc00I/CVE-2022-34305)	<img alt="forks" src="https://img.shields.io/github/forks/zeroc00I/CVE-2022-34305">	<img alt="stars" src="https://img.shields.io/github/stars/zeroc00I/CVE-2022-34305">
