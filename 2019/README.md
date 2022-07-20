@@ -60,6 +60,12 @@
 - [Tamagaft/CVE-2019-17662](https://github.com/Tamagaft/CVE-2019-17662)	<img alt="forks" src="https://img.shields.io/github/forks/Tamagaft/CVE-2019-17662">	<img alt="stars" src="https://img.shields.io/github/stars/Tamagaft/CVE-2019-17662">
 
 ---
+## CVE-2019-17621 (2019-12-30T17:15:00)
+> The UPnP endpoint URL /gena.cgi in the D-Link DIR-859 Wi-Fi router 1.05 and 1.06B01 Beta01 allows an Unauthenticated remote attacker to execute system commands as root, by sending a specially crafted HTTP SUBSCRIBE request to the UPnP service when connecting to the local network.
+- [Ler2sq/CVE-2019-17621](https://github.com/Ler2sq/CVE-2019-17621)	<img alt="forks" src="https://img.shields.io/github/forks/Ler2sq/CVE-2019-17621">	<img alt="stars" src="https://img.shields.io/github/stars/Ler2sq/CVE-2019-17621">
+- [s1kr10s/D-Link-DIR-859-RCE](https://github.com/s1kr10s/D-Link-DIR-859-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/s1kr10s/D-Link-DIR-859-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/s1kr10s/D-Link-DIR-859-RCE">
+
+---
 ## CVE-2019-16278 (2019-10-14T17:15:00)
 > Directory Traversal in the function http_verify in nostromo nhttpd through 1.9.6 allows an attacker to achieve remote code execution via a crafted HTTP request.
 - [keshiba/cve-2019-16278](https://github.com/keshiba/cve-2019-16278)	<img alt="forks" src="https://img.shields.io/github/forks/keshiba/cve-2019-16278">	<img alt="stars" src="https://img.shields.io/github/stars/keshiba/cve-2019-16278">
