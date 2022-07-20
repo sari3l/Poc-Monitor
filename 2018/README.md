@@ -80,6 +80,11 @@
 - [ahaShiyu/CVE-2018-19854](https://github.com/ahaShiyu/CVE-2018-19854)	<img alt="forks" src="https://img.shields.io/github/forks/ahaShiyu/CVE-2018-19854">	<img alt="stars" src="https://img.shields.io/github/stars/ahaShiyu/CVE-2018-19854">
 
 ---
+## CVE-2018-19246 (2018-11-13T09:29:00)
+> PHP-Proxy 5.1.0 allows remote attackers to read local files if the default "pre-installed version" (intended for users who lack shell access to their web server) is used. This occurs because the aeb067ca0aa9a3193dce3a7264c90187 app_key value from the default config.php is in place, and this value can be easily used to calculate the authorization data needed for local file inclusion.
+- [NeoWans/CVE-2018-19246](https://github.com/NeoWans/CVE-2018-19246)	<img alt="forks" src="https://img.shields.io/github/forks/NeoWans/CVE-2018-19246">	<img alt="stars" src="https://img.shields.io/github/stars/NeoWans/CVE-2018-19246">
+
+---
 ## CVE-2018-19052 (2018-11-07T05:29:00)
 > An issue was discovered in mod_alias_physical_handler in mod_alias.c in lighttpd before 1.4.50. There is potential ../ path traversal of a single directory above an alias target, with a specific mod_alias configuration where the matched alias lacks a trailing '/' character, but the alias target filesystem path does have a trailing '/' character.
 - [iveresk/cve-2018-19052](https://github.com/iveresk/cve-2018-19052)	<img alt="forks" src="https://img.shields.io/github/forks/iveresk/cve-2018-19052">	<img alt="stars" src="https://img.shields.io/github/stars/iveresk/cve-2018-19052">
