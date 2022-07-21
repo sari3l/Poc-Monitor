@@ -238,6 +238,7 @@
 - [maxgestic/Follina-Generator](https://github.com/maxgestic/Follina-Generator)	<img alt="forks" src="https://img.shields.io/github/forks/maxgestic/Follina-Generator">	<img alt="stars" src="https://img.shields.io/github/stars/maxgestic/Follina-Generator">
 - [drgreenthumb93/CVE-2022-30190-follina](https://github.com/drgreenthumb93/CVE-2022-30190-follina)	<img alt="forks" src="https://img.shields.io/github/forks/drgreenthumb93/CVE-2022-30190-follina">	<img alt="stars" src="https://img.shields.io/github/stars/drgreenthumb93/CVE-2022-30190-follina">
 - [hscorpion/CVE-2022-30190](https://github.com/hscorpion/CVE-2022-30190)	<img alt="forks" src="https://img.shields.io/github/forks/hscorpion/CVE-2022-30190">	<img alt="stars" src="https://img.shields.io/github/stars/hscorpion/CVE-2022-30190">
+- [EkamSinghWalia/Follina-MSDT-Vulnerability-CVE-2022-30190-](https://github.com/EkamSinghWalia/Follina-MSDT-Vulnerability-CVE-2022-30190-)	<img alt="forks" src="https://img.shields.io/github/forks/EkamSinghWalia/Follina-MSDT-Vulnerability-CVE-2022-30190-">	<img alt="stars" src="https://img.shields.io/github/stars/EkamSinghWalia/Follina-MSDT-Vulnerability-CVE-2022-30190-">
 
 ---
 ## CVE-2022-30136 (2022-06-15T22:15:00)
