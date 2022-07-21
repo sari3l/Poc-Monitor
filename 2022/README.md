@@ -392,6 +392,11 @@
 - [nsbogam/CVE-2022-26269](https://github.com/nsbogam/CVE-2022-26269)	<img alt="forks" src="https://img.shields.io/github/forks/nsbogam/CVE-2022-26269">	<img alt="stars" src="https://img.shields.io/github/stars/nsbogam/CVE-2022-26269">
 
 ---
+## CVE-2022-26138 (2022-07-20T18:15:00)
+> The Atlassian Questions For Confluence app for Confluence Server and Data Center creates a Confluence user account in the confluence-users group with the username disabledsystemuser and a hardcoded password. A remote, unauthenticated attacker with knowledge of the hardcoded password could exploit this to log into Confluence and access all content accessible to users in the confluence-users group. This user account is created when installing versions 2.7.34, 2.7.35, and 3.0.2 of the app.
+- [alcaparra/CVE-2022-26138](https://github.com/alcaparra/CVE-2022-26138)	<img alt="forks" src="https://img.shields.io/github/forks/alcaparra/CVE-2022-26138">	<img alt="stars" src="https://img.shields.io/github/stars/alcaparra/CVE-2022-26138">
+
+---
 ## CVE-2022-26135 (2022-06-30T06:15:00)
 > A vulnerability in Mobile Plugin for Jira Data Center and Server allows a remote, authenticated user (including a user who joined via the sign-up feature) to perform a full read server-side request forgery via a batch endpoint. This affects Atlassian Jira Server and Data Center from version 8.0.0 before version 8.13.22, from version 8.14.0 before 8.20.10, from version 8.21.0 before 8.22.4. This also affects Jira Management Server and Data Center versions from version 4.0.0 before 4.13.22, from version 4.14.0 before 4.20.10 and from version 4.21.0 before 4.22.4.
 - [safe3s/CVE-2022-26135](https://github.com/safe3s/CVE-2022-26135)	<img alt="forks" src="https://img.shields.io/github/forks/safe3s/CVE-2022-26135">	<img alt="stars" src="https://img.shields.io/github/stars/safe3s/CVE-2022-26135">
