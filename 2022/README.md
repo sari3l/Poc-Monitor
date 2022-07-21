@@ -34,6 +34,7 @@
 ## CVE-2022-34918 (2022-07-04T21:15:00)
 > An issue was discovered in the Linux kernel through 5.18.9. A type confusion bug in nft_set_elem_init (leading to a buffer overflow) could be used by a local attacker to escalate privileges, a different vulnerability than CVE-2022-32250. (The attacker can obtain root access, but must start with an unprivileged user namespace to obtain CAP_NET_ADMIN access.) This can be fixed in nft_setelem_parse_data in net/netfilter/nf_tables_api.c.
 - [randorisec/CVE-2022-34918-LPE-PoC](https://github.com/randorisec/CVE-2022-34918-LPE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/randorisec/CVE-2022-34918-LPE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/randorisec/CVE-2022-34918-LPE-PoC">
+- [trhacknon/CVE-2022-34918-LPE-PoC](https://github.com/trhacknon/CVE-2022-34918-LPE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-34918-LPE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-34918-LPE-PoC">
 
 ---
 ## CVE-2022-34305 (2022-06-23T11:15:00)
