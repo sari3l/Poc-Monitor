@@ -169,6 +169,12 @@
 - [Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2020-0188](https://github.com/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2020-0188)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2020-0188">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2020-0188">
 
 ---
+## CVE-2020-0137 (2020-06-11T15:15:00)
+> In setIPv6AddrGenMode of NetworkManagementService.java, there is a possible bypass of networking permissions due to a missing permission check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10Android ID: A-141920289
+- [ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137](https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137)	<img alt="forks" src="https://img.shields.io/github/forks/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137">	<img alt="stars" src="https://img.shields.io/github/stars/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137">
+- [nanopathi/framework_base_AOSP10_r33_CVE-2020-0137](https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2020-0137)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/framework_base_AOSP10_r33_CVE-2020-0137">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/framework_base_AOSP10_r33_CVE-2020-0137">
+
+---
 ## CVE-2020-0136 (2020-06-11T15:15:00)
 > In multiple locations of Parcel.cpp, there is a possible out-of-bounds write due to an integer overflow. This could lead to local escalation of privilege in the system server with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10Android ID: A-120078455
 - [Satheesh575555/libhwbinder_AOSP10_r33_CVE-2020-0136](https://github.com/Satheesh575555/libhwbinder_AOSP10_r33_CVE-2020-0136)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/libhwbinder_AOSP10_r33_CVE-2020-0136">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/libhwbinder_AOSP10_r33_CVE-2020-0136">
