@@ -403,6 +403,7 @@
 ## CVE-2022-26138 (2022-07-20T18:15:00)
 > The Atlassian Questions For Confluence app for Confluence Server and Data Center creates a Confluence user account in the confluence-users group with the username disabledsystemuser and a hardcoded password. A remote, unauthenticated attacker with knowledge of the hardcoded password could exploit this to log into Confluence and access all content accessible to users in the confluence-users group. This user account is created when installing versions 2.7.34, 2.7.35, and 3.0.2 of the app.
 - [alcaparra/CVE-2022-26138](https://github.com/alcaparra/CVE-2022-26138)	<img alt="forks" src="https://img.shields.io/github/forks/alcaparra/CVE-2022-26138">	<img alt="stars" src="https://img.shields.io/github/stars/alcaparra/CVE-2022-26138">
+- [1mxml/CVE-2022-26138](https://github.com/1mxml/CVE-2022-26138)	<img alt="forks" src="https://img.shields.io/github/forks/1mxml/CVE-2022-26138">	<img alt="stars" src="https://img.shields.io/github/stars/1mxml/CVE-2022-26138">
 
 ---
 ## CVE-2022-26135 (2022-06-30T06:15:00)
@@ -511,6 +512,25 @@
 - [PenteraIO/CVE-2022-23222-POC](https://github.com/PenteraIO/CVE-2022-23222-POC)	<img alt="forks" src="https://img.shields.io/github/forks/PenteraIO/CVE-2022-23222-POC">	<img alt="stars" src="https://img.shields.io/github/stars/PenteraIO/CVE-2022-23222-POC">
 - [FridayOrtiz/CVE-2022-23222](https://github.com/FridayOrtiz/CVE-2022-23222)	<img alt="forks" src="https://img.shields.io/github/forks/FridayOrtiz/CVE-2022-23222">	<img alt="stars" src="https://img.shields.io/github/stars/FridayOrtiz/CVE-2022-23222">
 - [tr3ee/CVE-2022-23222](https://github.com/tr3ee/CVE-2022-23222)	<img alt="forks" src="https://img.shields.io/github/forks/tr3ee/CVE-2022-23222">	<img alt="stars" src="https://img.shields.io/github/stars/tr3ee/CVE-2022-23222">
+
+---
+## CVE-2022-23131 (2022-01-13T16:15:00)
+> In the case of instances where the SAML SSO authentication is enabled (non-default), session data can be modified by a malicious actor, because a user login stored in the session was not verified. Malicious unauthenticated actor may exploit this issue to escalate privileges and gain admin access to Zabbix Frontend. To perform the attack, SAML authentication is required to be enabled and the actor has to know the username of Zabbix user (or use the guest account, which is disabled by default).
+- [1324132494/CVE-2022-23131poc-exp-zabbix-](https://github.com/1324132494/CVE-2022-23131poc-exp-zabbix-)	<img alt="forks" src="https://img.shields.io/github/forks/1324132494/CVE-2022-23131poc-exp-zabbix-">	<img alt="stars" src="https://img.shields.io/github/stars/1324132494/CVE-2022-23131poc-exp-zabbix-">
+- [Anonymous-ghost/AttackWebFrameworkTools-5.0](https://github.com/Anonymous-ghost/AttackWebFrameworkTools-5.0)	<img alt="forks" src="https://img.shields.io/github/forks/Anonymous-ghost/AttackWebFrameworkTools-5.0">	<img alt="stars" src="https://img.shields.io/github/stars/Anonymous-ghost/AttackWebFrameworkTools-5.0">
+- [trhacknon/CVE-2022-23131](https://github.com/trhacknon/CVE-2022-23131)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-23131">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-23131">
+- [Kazaf6s/CVE-2022-23131](https://github.com/Kazaf6s/CVE-2022-23131)	<img alt="forks" src="https://img.shields.io/github/forks/Kazaf6s/CVE-2022-23131">	<img alt="stars" src="https://img.shields.io/github/stars/Kazaf6s/CVE-2022-23131">
+- [kh4sh3i/CVE-2022-23131](https://github.com/kh4sh3i/CVE-2022-23131)	<img alt="forks" src="https://img.shields.io/github/forks/kh4sh3i/CVE-2022-23131">	<img alt="stars" src="https://img.shields.io/github/stars/kh4sh3i/CVE-2022-23131">
+- [Fa1c0n35/zabbix-cve-2022-23131](https://github.com/Fa1c0n35/zabbix-cve-2022-23131)	<img alt="forks" src="https://img.shields.io/github/forks/Fa1c0n35/zabbix-cve-2022-23131">	<img alt="stars" src="https://img.shields.io/github/stars/Fa1c0n35/zabbix-cve-2022-23131">
+- [Mr-xn/cve-2022-23131](https://github.com/Mr-xn/cve-2022-23131)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/cve-2022-23131">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/cve-2022-23131">
+- [pykiller/CVE-2022-23131](https://github.com/pykiller/CVE-2022-23131)	<img alt="forks" src="https://img.shields.io/github/forks/pykiller/CVE-2022-23131">	<img alt="stars" src="https://img.shields.io/github/stars/pykiller/CVE-2022-23131">
+- [trganda/CVE-2022-23131](https://github.com/trganda/CVE-2022-23131)	<img alt="forks" src="https://img.shields.io/github/forks/trganda/CVE-2022-23131">	<img alt="stars" src="https://img.shields.io/github/stars/trganda/CVE-2022-23131">
+- [L0ading-x/cve-2022-23131](https://github.com/L0ading-x/cve-2022-23131)	<img alt="forks" src="https://img.shields.io/github/forks/L0ading-x/cve-2022-23131">	<img alt="stars" src="https://img.shields.io/github/stars/L0ading-x/cve-2022-23131">
+- [0tt7/CVE-2022-23131](https://github.com/0tt7/CVE-2022-23131)	<img alt="forks" src="https://img.shields.io/github/forks/0tt7/CVE-2022-23131">	<img alt="stars" src="https://img.shields.io/github/stars/0tt7/CVE-2022-23131">
+- [zwjjustdoit/cve-2022-23131](https://github.com/zwjjustdoit/cve-2022-23131)	<img alt="forks" src="https://img.shields.io/github/forks/zwjjustdoit/cve-2022-23131">	<img alt="stars" src="https://img.shields.io/github/stars/zwjjustdoit/cve-2022-23131">
+- [jweny/zabbix-saml-bypass-exp](https://github.com/jweny/zabbix-saml-bypass-exp)	<img alt="forks" src="https://img.shields.io/github/forks/jweny/zabbix-saml-bypass-exp">	<img alt="stars" src="https://img.shields.io/github/stars/jweny/zabbix-saml-bypass-exp">
+- [1mxml/CVE-2022-23131](https://github.com/1mxml/CVE-2022-23131)	<img alt="forks" src="https://img.shields.io/github/forks/1mxml/CVE-2022-23131">	<img alt="stars" src="https://img.shields.io/github/stars/1mxml/CVE-2022-23131">
+- [qq1549176285/CVE-2022-23131](https://github.com/qq1549176285/CVE-2022-23131)	<img alt="forks" src="https://img.shields.io/github/forks/qq1549176285/CVE-2022-23131">	<img alt="stars" src="https://img.shields.io/github/stars/qq1549176285/CVE-2022-23131">
 
 ---
 ## CVE-2022-22980 (2022-06-23T17:15:00)
