@@ -814,6 +814,11 @@
 - [airbus-cert/dirtypipe-ebpf_detection](https://github.com/airbus-cert/dirtypipe-ebpf_detection)	<img alt="forks" src="https://img.shields.io/github/forks/airbus-cert/dirtypipe-ebpf_detection">	<img alt="stars" src="https://img.shields.io/github/stars/airbus-cert/dirtypipe-ebpf_detection">
 
 ---
+## CVE-2022-0666 (2022-02-18T15:15:00)
+> CRLF Injection leads to Stack Trace Exposure due to lack of filtering at https://demo.microweber.org/ in Packagist microweber/microweber prior to 1.2.11.
+- [d4rkduck/CVE-2022-0666](https://github.com/d4rkduck/CVE-2022-0666)	<img alt="forks" src="https://img.shields.io/github/forks/d4rkduck/CVE-2022-0666">	<img alt="stars" src="https://img.shields.io/github/stars/d4rkduck/CVE-2022-0666">
+
+---
 ## CVE-2022-0543 (2022-02-18T20:15:00)
 > It was discovered, that redis, a persistent key-value database, due to a packaging issue, is prone to a (Debian-specific) Lua sandbox escape, which could result in remote code execution.
 - [z92g/CVE-2022-0543](https://github.com/z92g/CVE-2022-0543)	<img alt="forks" src="https://img.shields.io/github/forks/z92g/CVE-2022-0543">	<img alt="stars" src="https://img.shields.io/github/stars/z92g/CVE-2022-0543">
