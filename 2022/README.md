@@ -78,6 +78,7 @@
 ## CVE-2022-32832 ()
 > 
 - [Muirey03/CVE-2022-32832](https://github.com/Muirey03/CVE-2022-32832)	<img alt="forks" src="https://img.shields.io/github/forks/Muirey03/CVE-2022-32832">	<img alt="stars" src="https://img.shields.io/github/stars/Muirey03/CVE-2022-32832">
+- [AkbarTrilaksana/CVE-2022-32832](https://github.com/AkbarTrilaksana/CVE-2022-32832)	<img alt="forks" src="https://img.shields.io/github/forks/AkbarTrilaksana/CVE-2022-32832">	<img alt="stars" src="https://img.shields.io/github/stars/AkbarTrilaksana/CVE-2022-32832">
 
 ---
 ## CVE-2022-32532 (2022-06-29T00:15:00)
@@ -393,6 +394,7 @@
 - [f8al/CVE-2022-26809](https://github.com/f8al/CVE-2022-26809)	<img alt="forks" src="https://img.shields.io/github/forks/f8al/CVE-2022-26809">	<img alt="stars" src="https://img.shields.io/github/stars/f8al/CVE-2022-26809">
 - [cybersecurityresearcher/CVE-2022-26809-RCE-POC](https://github.com/cybersecurityresearcher/CVE-2022-26809-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/cybersecurityresearcher/CVE-2022-26809-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/cybersecurityresearcher/CVE-2022-26809-RCE-POC">
 - [ToomArni65/CVE-2022-26809-POC](https://github.com/ToomArni65/CVE-2022-26809-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ToomArni65/CVE-2022-26809-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ToomArni65/CVE-2022-26809-POC">
+- [ToomArni65/CVE-2022-26809-FINAL-POC](https://github.com/ToomArni65/CVE-2022-26809-FINAL-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ToomArni65/CVE-2022-26809-FINAL-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ToomArni65/CVE-2022-26809-FINAL-POC">
 
 ---
 ## CVE-2022-26269 (2022-03-29T01:15:00)
