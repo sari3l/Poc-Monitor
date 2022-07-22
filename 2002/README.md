@@ -1,8 +1,8 @@
 # 2002 List
 
 ---
-## CVE-2002-2420 ()
-> 
+## CVE-2002-2420 (2002-12-31T05:00:00)
+> site_searcher.cgi in Super Site Searcher allows remote attackers to execute arbitrary commands via shell metacharacters in the page parameter.
 - [krdsploit/CVE-2002-2420](https://github.com/krdsploit/CVE-2002-2420)	<img alt="forks" src="https://img.shields.io/github/forks/krdsploit/CVE-2002-2420">	<img alt="stars" src="https://img.shields.io/github/stars/krdsploit/CVE-2002-2420">
 
 ---
