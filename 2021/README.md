@@ -235,6 +235,11 @@
 - [orangmuda/CVE-2021-38314](https://github.com/orangmuda/CVE-2021-38314)	<img alt="forks" src="https://img.shields.io/github/forks/orangmuda/CVE-2021-38314">	<img alt="stars" src="https://img.shields.io/github/stars/orangmuda/CVE-2021-38314">
 
 ---
+## CVE-2021-37740 (2022-04-20T20:15:00)
+> A denial of service vulnerability exists in MDT's firmware for the KNXnet/IP Secure router SCN-IP100.03 and KNX IP interface SCN-IP000.03 before v3.0.4, that allows a remote attacker to turn the device unresponsive to all requests on the KNXnet/IP Secure layer, until the device is rebooted, via a SESSION_REQUEST frame with a modified total length field.
+- [robertguetzkow/CVE-2021-37740](https://github.com/robertguetzkow/CVE-2021-37740)	<img alt="forks" src="https://img.shields.io/github/forks/robertguetzkow/CVE-2021-37740">	<img alt="stars" src="https://img.shields.io/github/stars/robertguetzkow/CVE-2021-37740">
+
+---
 ## CVE-2021-36955 (2021-09-15T12:15:00)
 > Windows Common Log File System Driver Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-36963, CVE-2021-38633.
 - [JiaJinRong12138/CVE-2021-36955-EXP](https://github.com/JiaJinRong12138/CVE-2021-36955-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/JiaJinRong12138/CVE-2021-36955-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/JiaJinRong12138/CVE-2021-36955-EXP">
