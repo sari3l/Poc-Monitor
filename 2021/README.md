@@ -250,6 +250,11 @@
 - [UNICORDev/exploit-CVE-2021-3560](https://github.com/UNICORDev/exploit-CVE-2021-3560)	<img alt="forks" src="https://img.shields.io/github/forks/UNICORDev/exploit-CVE-2021-3560">	<img alt="stars" src="https://img.shields.io/github/stars/UNICORDev/exploit-CVE-2021-3560">
 
 ---
+## CVE-2021-35475 (2021-06-25T11:15:00)
+> SAS Environment Manager 2.5 allows XSS through the Name field when creating/editing a server. The XSS will prompt when editing the Configuration Properties.
+- [saitamang/CVE-2021-35475](https://github.com/saitamang/CVE-2021-35475)	<img alt="forks" src="https://img.shields.io/github/forks/saitamang/CVE-2021-35475">	<img alt="stars" src="https://img.shields.io/github/stars/saitamang/CVE-2021-35475">
+
+---
 ## CVE-2021-35448 (2021-06-24T20:15:00)
 > Emote Interactive Remote Mouse 3.008 on Windows allows attackers to execute arbitrary programs as Administrator by using the Image Transfer Folder feature to navigate to cmd.exe. It binds to local ports to listen for incoming connections.
 - [deathflash1411/CVE-2021-35448](https://github.com/deathflash1411/CVE-2021-35448)	<img alt="forks" src="https://img.shields.io/github/forks/deathflash1411/CVE-2021-35448">	<img alt="stars" src="https://img.shields.io/github/stars/deathflash1411/CVE-2021-35448">
