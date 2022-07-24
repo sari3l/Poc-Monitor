@@ -107,6 +107,11 @@
 - [JC175/CVE-2022-32118](https://github.com/JC175/CVE-2022-32118)	<img alt="forks" src="https://img.shields.io/github/forks/JC175/CVE-2022-32118">	<img alt="stars" src="https://img.shields.io/github/stars/JC175/CVE-2022-32118">
 
 ---
+## CVE-2022-32114 (2022-07-13T21:15:00)
+> An unrestricted file upload vulnerability in the Add New Assets function of Strapi v4.1.12 allows attackers to execute arbitrary code via a crafted file.
+- [bypazs/CVE-2022-32114](https://github.com/bypazs/CVE-2022-32114)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/CVE-2022-32114">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/CVE-2022-32114">
+
+---
 ## CVE-2022-31901 ()
 > 
 - [CDACesec/CVE-2022-31901](https://github.com/CDACesec/CVE-2022-31901)	<img alt="forks" src="https://img.shields.io/github/forks/CDACesec/CVE-2022-31901">	<img alt="stars" src="https://img.shields.io/github/stars/CDACesec/CVE-2022-31901">
