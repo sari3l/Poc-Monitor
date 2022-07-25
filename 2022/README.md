@@ -16,6 +16,11 @@
 - [safe3s/CVE-2022-35416](https://github.com/safe3s/CVE-2022-35416)	<img alt="forks" src="https://img.shields.io/github/forks/safe3s/CVE-2022-35416">	<img alt="stars" src="https://img.shields.io/github/stars/safe3s/CVE-2022-35416">
 
 ---
+## CVE-2022-35131 ()
+> 
+- [ly1g3/Joplin-CVE-2022-35131](https://github.com/ly1g3/Joplin-CVE-2022-35131)	<img alt="forks" src="https://img.shields.io/github/forks/ly1g3/Joplin-CVE-2022-35131">	<img alt="stars" src="https://img.shields.io/github/stars/ly1g3/Joplin-CVE-2022-35131">
+
+---
 ## CVE-2022-34963 ()
 > 
 - [bypazs/CVE-2022-34963](https://github.com/bypazs/CVE-2022-34963)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/CVE-2022-34963">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/CVE-2022-34963">
