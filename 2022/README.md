@@ -37,6 +37,7 @@
 - [trhacknon/CVE-2022-34918-LPE-PoC](https://github.com/trhacknon/CVE-2022-34918-LPE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-34918-LPE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-34918-LPE-PoC">
 - [merlinepedra/CVE-2022-34918-LPE-PoC](https://github.com/merlinepedra/CVE-2022-34918-LPE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/merlinepedra/CVE-2022-34918-LPE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/merlinepedra/CVE-2022-34918-LPE-PoC">
 - [merlinepedra25/CVE-2022-34918-LPE-PoC](https://github.com/merlinepedra25/CVE-2022-34918-LPE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/merlinepedra25/CVE-2022-34918-LPE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/merlinepedra25/CVE-2022-34918-LPE-PoC">
+- [linulinu/CVE-2022-34918](https://github.com/linulinu/CVE-2022-34918)	<img alt="forks" src="https://img.shields.io/github/forks/linulinu/CVE-2022-34918">	<img alt="stars" src="https://img.shields.io/github/stars/linulinu/CVE-2022-34918">
 
 ---
 ## CVE-2022-34305 (2022-06-23T11:15:00)
@@ -161,6 +162,11 @@
 ## CVE-2022-31297 ()
 > 
 - [bigzooooz/CVE-2022-31297](https://github.com/bigzooooz/CVE-2022-31297)	<img alt="forks" src="https://img.shields.io/github/forks/bigzooooz/CVE-2022-31297">	<img alt="stars" src="https://img.shields.io/github/stars/bigzooooz/CVE-2022-31297">
+
+---
+## CVE-2022-31245 (2022-05-20T15:15:00)
+> mailcow before 2022-05d allows a remote authenticated user to inject OS commands and escalate privileges to domain admin via the --debug option in conjunction with the ---PIPEMESS option in Sync Jobs.
+- [ly1g3/Mailcow-CVE-2022-31245](https://github.com/ly1g3/Mailcow-CVE-2022-31245)	<img alt="forks" src="https://img.shields.io/github/forks/ly1g3/Mailcow-CVE-2022-31245">	<img alt="stars" src="https://img.shields.io/github/stars/ly1g3/Mailcow-CVE-2022-31245">
 
 ---
 ## CVE-2022-31138 (2022-07-11T14:15:00)
