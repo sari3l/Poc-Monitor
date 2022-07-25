@@ -402,6 +402,14 @@
 - [niandy/nginx-patch](https://github.com/niandy/nginx-patch)	<img alt="forks" src="https://img.shields.io/github/forks/niandy/nginx-patch">	<img alt="stars" src="https://img.shields.io/github/stars/niandy/nginx-patch">
 
 ---
+## CVE-2021-22911 (2021-05-27T12:15:00)
+> A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.
+- [Walker-00/CVE-2021-22911](https://github.com/Walker-00/CVE-2021-22911)	<img alt="forks" src="https://img.shields.io/github/forks/Walker-00/CVE-2021-22911">	<img alt="stars" src="https://img.shields.io/github/stars/Walker-00/CVE-2021-22911">
+- [CsEnox/CVE-2021-22911](https://github.com/CsEnox/CVE-2021-22911)	<img alt="forks" src="https://img.shields.io/github/forks/CsEnox/CVE-2021-22911">	<img alt="stars" src="https://img.shields.io/github/stars/CsEnox/CVE-2021-22911">
+- [jayngng/CVE-2021-22911](https://github.com/jayngng/CVE-2021-22911)	<img alt="forks" src="https://img.shields.io/github/forks/jayngng/CVE-2021-22911">	<img alt="stars" src="https://img.shields.io/github/stars/jayngng/CVE-2021-22911">
+- [optionalCTF/Rocket.Chat-Automated-Account-Takeover-RCE-CVE-2021-22911](https://github.com/optionalCTF/Rocket.Chat-Automated-Account-Takeover-RCE-CVE-2021-22911)	<img alt="forks" src="https://img.shields.io/github/forks/optionalCTF/Rocket.Chat-Automated-Account-Takeover-RCE-CVE-2021-22911">	<img alt="stars" src="https://img.shields.io/github/stars/optionalCTF/Rocket.Chat-Automated-Account-Takeover-RCE-CVE-2021-22911">
+
+---
 ## CVE-2021-22205 (2021-04-23T18:15:00)
 > An issue has been discovered in GitLab CE/EE affecting all versions starting from 11.9. GitLab was not properly validating image files that were passed to a file parser which resulted in a remote command execution.
 - [c0okB/CVE-2021-22205](https://github.com/c0okB/CVE-2021-22205)	<img alt="forks" src="https://img.shields.io/github/forks/c0okB/CVE-2021-22205">	<img alt="stars" src="https://img.shields.io/github/stars/c0okB/CVE-2021-22205">
@@ -489,3 +497,10 @@
 ## CVE-2021-20138 (2021-12-09T16:15:00)
 > An unauthenticated command injection vulnerability exists in multiple parameters in the Gryphon Tower router’s web interface at /cgi-bin/luci/rc. An unauthenticated remote attacker on the same network can execute commands as root on the device by sending a specially crafted malicious packet to the web interface.
 - [ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-20138](https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-20138)	<img alt="forks" src="https://img.shields.io/github/forks/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-20138">	<img alt="stars" src="https://img.shields.io/github/stars/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-20138">
+
+---
+## CVE-2021-0520 (2021-06-21T17:15:00)
+> In several functions of MemoryFileSystem.cpp and related files, there is a possible use after free due to a race condition. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-11 Android-10Android ID: A-176237595
+- [nidhi7598/frameworks_av_AOSP_10_r33_CVE-2021-0520](https://github.com/nidhi7598/frameworks_av_AOSP_10_r33_CVE-2021-0520)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_av_AOSP_10_r33_CVE-2021-0520">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_av_AOSP_10_r33_CVE-2021-0520">
+- [ShaikUsaf/frameworks_av_AOSP10_r33_CVE-2021-0520](https://github.com/ShaikUsaf/frameworks_av_AOSP10_r33_CVE-2021-0520)	<img alt="forks" src="https://img.shields.io/github/forks/ShaikUsaf/frameworks_av_AOSP10_r33_CVE-2021-0520">	<img alt="stars" src="https://img.shields.io/github/stars/ShaikUsaf/frameworks_av_AOSP10_r33_CVE-2021-0520">
+- [nanopathi/frameworks_av_AOSP10_r33_CVE-2021-0520](https://github.com/nanopathi/frameworks_av_AOSP10_r33_CVE-2021-0520)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/frameworks_av_AOSP10_r33_CVE-2021-0520">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/frameworks_av_AOSP10_r33_CVE-2021-0520">
