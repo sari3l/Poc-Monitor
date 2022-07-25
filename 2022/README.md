@@ -21,18 +21,18 @@
 - [ly1g3/Joplin-CVE-2022-35131](https://github.com/ly1g3/Joplin-CVE-2022-35131)	<img alt="forks" src="https://img.shields.io/github/forks/ly1g3/Joplin-CVE-2022-35131">	<img alt="stars" src="https://img.shields.io/github/stars/ly1g3/Joplin-CVE-2022-35131">
 
 ---
-## CVE-2022-34963 ()
-> 
+## CVE-2022-34963 (2022-07-25T15:15:00)
+> OpenTeknik LLC OSSN OPEN SOURCE SOCIAL NETWORK v6.3 LTS was discovered to contain a stored cross-site scripting (XSS) vulnerability via the News Feed module.
 - [bypazs/CVE-2022-34963](https://github.com/bypazs/CVE-2022-34963)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/CVE-2022-34963">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/CVE-2022-34963">
 
 ---
-## CVE-2022-34962 ()
-> 
+## CVE-2022-34962 (2022-07-25T18:23:00)
+> OpenTeknik LLC OSSN OPEN SOURCE SOCIAL NETWORK v6.3 LTS was discovered to contain a stored cross-site scripting (XSS) vulnerability via the Group Timeline module.
 - [bypazs/CVE-2022-34962](https://github.com/bypazs/CVE-2022-34962)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/CVE-2022-34962">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/CVE-2022-34962">
 
 ---
-## CVE-2022-34961 ()
-> 
+## CVE-2022-34961 (2022-07-25T15:15:00)
+> OpenTeknik LLC OSSN OPEN SOURCE SOCIAL NETWORK v6.3 LTS was discovered to contain a stored cross-site scripting (XSS) vulnerability via the Users Timeline module.
 - [bypazs/CVE-2022-34961](https://github.com/bypazs/CVE-2022-34961)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/CVE-2022-34961">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/CVE-2022-34961">
 
 ---
@@ -617,6 +617,7 @@
 - [trhacknon/CVE-2022-22965](https://github.com/trhacknon/CVE-2022-22965)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-22965">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-22965">
 - [D1mang/Spring4Shell-CVE-2022-22965](https://github.com/D1mang/Spring4Shell-CVE-2022-22965)	<img alt="forks" src="https://img.shields.io/github/forks/D1mang/Spring4Shell-CVE-2022-22965">	<img alt="stars" src="https://img.shields.io/github/stars/D1mang/Spring4Shell-CVE-2022-22965">
 - [west-wind/Spring4Shell-Detection](https://github.com/west-wind/Spring4Shell-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/west-wind/Spring4Shell-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/west-wind/Spring4Shell-Detection">
+- [sunnyvale-it/CVE-2022-22965-PoC](https://github.com/sunnyvale-it/CVE-2022-22965-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sunnyvale-it/CVE-2022-22965-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sunnyvale-it/CVE-2022-22965-PoC">
 
 ---
 ## CVE-2022-22947 (2022-03-03T22:15:00)
