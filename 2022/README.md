@@ -426,6 +426,7 @@
 > The Atlassian Questions For Confluence app for Confluence Server and Data Center creates a Confluence user account in the confluence-users group with the username disabledsystemuser and a hardcoded password. A remote, unauthenticated attacker with knowledge of the hardcoded password could exploit this to log into Confluence and access all content accessible to users in the confluence-users group. This user account is created when installing versions 2.7.34, 2.7.35, and 3.0.2 of the app.
 - [alcaparra/CVE-2022-26138](https://github.com/alcaparra/CVE-2022-26138)	<img alt="forks" src="https://img.shields.io/github/forks/alcaparra/CVE-2022-26138">	<img alt="stars" src="https://img.shields.io/github/stars/alcaparra/CVE-2022-26138">
 - [1mxml/CVE-2022-26138](https://github.com/1mxml/CVE-2022-26138)	<img alt="forks" src="https://img.shields.io/github/forks/1mxml/CVE-2022-26138">	<img alt="stars" src="https://img.shields.io/github/stars/1mxml/CVE-2022-26138">
+- [Daro1967/CVE-2022-26138-RCE](https://github.com/Daro1967/CVE-2022-26138-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Daro1967/CVE-2022-26138-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Daro1967/CVE-2022-26138-RCE">
 
 ---
 ## CVE-2022-26135 (2022-06-30T06:15:00)
