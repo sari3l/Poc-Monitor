@@ -501,6 +501,11 @@
 - [sadshade/CVE-2022-24706-CouchDB-Exploit](https://github.com/sadshade/CVE-2022-24706-CouchDB-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sadshade/CVE-2022-24706-CouchDB-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sadshade/CVE-2022-24706-CouchDB-Exploit">
 
 ---
+## CVE-2022-2466 ()
+> 
+- [yuxblank/CVE-2022-2466---Request-Context-not-terminated-with-GraphQL](https://github.com/yuxblank/CVE-2022-2466---Request-Context-not-terminated-with-GraphQL)	<img alt="forks" src="https://img.shields.io/github/forks/yuxblank/CVE-2022-2466---Request-Context-not-terminated-with-GraphQL">	<img alt="stars" src="https://img.shields.io/github/stars/yuxblank/CVE-2022-2466---Request-Context-not-terminated-with-GraphQL">
+
+---
 ## CVE-2022-24500 (2022-04-15T19:15:00)
 > Windows SMB Remote Code Execution Vulnerability.
 - [Daro1967/CVE-2022-24500-RCE](https://github.com/Daro1967/CVE-2022-24500-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Daro1967/CVE-2022-24500-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Daro1967/CVE-2022-24500-RCE">
