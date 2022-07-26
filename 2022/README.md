@@ -792,6 +792,7 @@
 - [rama291041610/CVE-2022-1292](https://github.com/rama291041610/CVE-2022-1292)	<img alt="forks" src="https://img.shields.io/github/forks/rama291041610/CVE-2022-1292">	<img alt="stars" src="https://img.shields.io/github/stars/rama291041610/CVE-2022-1292">
 - [trhacknon/CVE-2022-1292](https://github.com/trhacknon/CVE-2022-1292)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-1292">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-1292">
 - [li8u99/CVE-2022-1292](https://github.com/li8u99/CVE-2022-1292)	<img alt="forks" src="https://img.shields.io/github/forks/li8u99/CVE-2022-1292">	<img alt="stars" src="https://img.shields.io/github/stars/li8u99/CVE-2022-1292">
+- [nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292](https://github.com/nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292">
 
 ---
 ## CVE-2022-111111 ()
