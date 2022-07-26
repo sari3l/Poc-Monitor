@@ -226,6 +226,7 @@
 - [rbowes-r7/unrar-cve-2022-30333-poc](https://github.com/rbowes-r7/unrar-cve-2022-30333-poc)	<img alt="forks" src="https://img.shields.io/github/forks/rbowes-r7/unrar-cve-2022-30333-poc">	<img alt="stars" src="https://img.shields.io/github/stars/rbowes-r7/unrar-cve-2022-30333-poc">
 - [2ntt/CVE-2022-30333](https://github.com/2ntt/CVE-2022-30333)	<img alt="forks" src="https://img.shields.io/github/forks/2ntt/CVE-2022-30333">	<img alt="stars" src="https://img.shields.io/github/stars/2ntt/CVE-2022-30333">
 - [J0hnbX/CVE-2022-30333](https://github.com/J0hnbX/CVE-2022-30333)	<img alt="forks" src="https://img.shields.io/github/forks/J0hnbX/CVE-2022-30333">	<img alt="stars" src="https://img.shields.io/github/stars/J0hnbX/CVE-2022-30333">
+- [aslitsecurity/Zimbra-CVE-2022-30333](https://github.com/aslitsecurity/Zimbra-CVE-2022-30333)	<img alt="forks" src="https://img.shields.io/github/forks/aslitsecurity/Zimbra-CVE-2022-30333">	<img alt="stars" src="https://img.shields.io/github/stars/aslitsecurity/Zimbra-CVE-2022-30333">
 
 ---
 ## CVE-2022-30190 (2022-06-01T20:15:00)
