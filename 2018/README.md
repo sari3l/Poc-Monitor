@@ -121,3 +121,8 @@
 ## CVE-2018-15856 (2018-08-25T21:29:00)
 > An infinite loop when reaching EOL unexpectedly in compose/parser.c (aka the keymap parser) in xkbcommon before 0.8.1 could be used by local attackers to cause a denial of service during parsing of crafted keymap files.
 - [ahaShiyu/CVE-2018-15856](https://github.com/ahaShiyu/CVE-2018-15856)	<img alt="forks" src="https://img.shields.io/github/forks/ahaShiyu/CVE-2018-15856">	<img alt="stars" src="https://img.shields.io/github/stars/ahaShiyu/CVE-2018-15856">
+
+---
+## CVE-2018-11321 (2018-05-22T15:29:00)
+> An issue was discovered in com_fields in Joomla! Core before 3.8.8. Inadequate filtering allows users authorised to create custom fields to manipulate the filtering options and inject an unvalidated option.
+- [ExploitCN/CVE-2018-11321](https://github.com/ExploitCN/CVE-2018-11321)	<img alt="forks" src="https://img.shields.io/github/forks/ExploitCN/CVE-2018-11321">	<img alt="stars" src="https://img.shields.io/github/stars/ExploitCN/CVE-2018-11321">
