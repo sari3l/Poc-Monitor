@@ -45,6 +45,7 @@
 - [bughuntar/log4j-scan](https://github.com/bughuntar/log4j-scan)	<img alt="forks" src="https://img.shields.io/github/forks/bughuntar/log4j-scan">	<img alt="stars" src="https://img.shields.io/github/stars/bughuntar/log4j-scan">
 - [cybersecurityresearcher/CVE-2021-44228-Mass-RCE-Log4j](https://github.com/cybersecurityresearcher/CVE-2021-44228-Mass-RCE-Log4j)	<img alt="forks" src="https://img.shields.io/github/forks/cybersecurityresearcher/CVE-2021-44228-Mass-RCE-Log4j">	<img alt="stars" src="https://img.shields.io/github/stars/cybersecurityresearcher/CVE-2021-44228-Mass-RCE-Log4j">
 - [vidrez/Ethical-Hacking-Report-Log4j](https://github.com/vidrez/Ethical-Hacking-Report-Log4j)	<img alt="forks" src="https://img.shields.io/github/forks/vidrez/Ethical-Hacking-Report-Log4j">	<img alt="stars" src="https://img.shields.io/github/stars/vidrez/Ethical-Hacking-Report-Log4j">
+- [Vulnmachines/log4jshell_CVE-2021-44228](https://github.com/Vulnmachines/log4jshell_CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/log4jshell_CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/log4jshell_CVE-2021-44228">
 
 ---
 ## CVE-2021-44158 (2022-01-03T10:15:00)
@@ -151,6 +152,22 @@
 - [deathflash1411/CVE-2021-41652](https://github.com/deathflash1411/CVE-2021-41652)	<img alt="forks" src="https://img.shields.io/github/forks/deathflash1411/CVE-2021-41652">	<img alt="stars" src="https://img.shields.io/github/stars/deathflash1411/CVE-2021-41652">
 
 ---
+## CVE-2021-41277 (2021-11-17T20:15:00)
+> Metabase is an open source data analytics platform. In affected versions a security issue has been discovered with the custom GeoJSON map (`admin->settings->maps->custom maps->add a map`) support and potential local file inclusion (including environment variables). URLs were not validated prior to being loaded. This issue is fixed in a new maintenance release (0.40.5 and 1.40.5), and any subsequent release after that. If youâ€™re unable to upgrade immediately, you can mitigate this by including rules in your reverse proxy or load balancer or WAF to provide a validation filter before the application.
+- [Vulnmachines/Metabase_CVE-2021-41277](https://github.com/Vulnmachines/Metabase_CVE-2021-41277)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/Metabase_CVE-2021-41277">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/Metabase_CVE-2021-41277">
+- [Chen-ling-afk/CVE-2021-41277](https://github.com/Chen-ling-afk/CVE-2021-41277)	<img alt="forks" src="https://img.shields.io/github/forks/Chen-ling-afk/CVE-2021-41277">	<img alt="stars" src="https://img.shields.io/github/stars/Chen-ling-afk/CVE-2021-41277">
+- [frknktlca/Metabase_Nmap_Script](https://github.com/frknktlca/Metabase_Nmap_Script)	<img alt="forks" src="https://img.shields.io/github/forks/frknktlca/Metabase_Nmap_Script">	<img alt="stars" src="https://img.shields.io/github/stars/frknktlca/Metabase_Nmap_Script">
+- [sasukeourad/CVE-2021-41277_SSRF](https://github.com/sasukeourad/CVE-2021-41277_SSRF)	<img alt="forks" src="https://img.shields.io/github/forks/sasukeourad/CVE-2021-41277_SSRF">	<img alt="stars" src="https://img.shields.io/github/stars/sasukeourad/CVE-2021-41277_SSRF">
+- [zer0yu/CVE-2021-41277](https://github.com/zer0yu/CVE-2021-41277)	<img alt="forks" src="https://img.shields.io/github/forks/zer0yu/CVE-2021-41277">	<img alt="stars" src="https://img.shields.io/github/stars/zer0yu/CVE-2021-41277">
+- [tahtaciburak/CVE-2021-41277](https://github.com/tahtaciburak/CVE-2021-41277)	<img alt="forks" src="https://img.shields.io/github/forks/tahtaciburak/CVE-2021-41277">	<img alt="stars" src="https://img.shields.io/github/stars/tahtaciburak/CVE-2021-41277">
+- [kaizensecurity/CVE-2021-41277](https://github.com/kaizensecurity/CVE-2021-41277)	<img alt="forks" src="https://img.shields.io/github/forks/kaizensecurity/CVE-2021-41277">	<img alt="stars" src="https://img.shields.io/github/stars/kaizensecurity/CVE-2021-41277">
+- [TheLastVvV/CVE-2021-41277](https://github.com/TheLastVvV/CVE-2021-41277)	<img alt="forks" src="https://img.shields.io/github/forks/TheLastVvV/CVE-2021-41277">	<img alt="stars" src="https://img.shields.io/github/stars/TheLastVvV/CVE-2021-41277">
+- [z3n70/CVE-2021-41277](https://github.com/z3n70/CVE-2021-41277)	<img alt="forks" src="https://img.shields.io/github/forks/z3n70/CVE-2021-41277">	<img alt="stars" src="https://img.shields.io/github/stars/z3n70/CVE-2021-41277">
+- [kap1ush0n/CVE-2021-41277](https://github.com/kap1ush0n/CVE-2021-41277)	<img alt="forks" src="https://img.shields.io/github/forks/kap1ush0n/CVE-2021-41277">	<img alt="stars" src="https://img.shields.io/github/stars/kap1ush0n/CVE-2021-41277">
+- [Seals6/CVE-2021-41277](https://github.com/Seals6/CVE-2021-41277)	<img alt="forks" src="https://img.shields.io/github/forks/Seals6/CVE-2021-41277">	<img alt="stars" src="https://img.shields.io/github/stars/Seals6/CVE-2021-41277">
+- [Henry4E36/Metabase-cve-2021-41277](https://github.com/Henry4E36/Metabase-cve-2021-41277)	<img alt="forks" src="https://img.shields.io/github/forks/Henry4E36/Metabase-cve-2021-41277">	<img alt="stars" src="https://img.shields.io/github/stars/Henry4E36/Metabase-cve-2021-41277">
+
+---
 ## CVE-2021-40903 (2022-06-17T14:15:00)
 > A vulnerability in Antminer Monitor 0.50.0 exists because of backdoor or misconfiguration inside a settings file in flask server. Settings file has a predefined secret string, which would be randomly generated, however it is static.
 - [vulnz/CVE-2021-40903](https://github.com/vulnz/CVE-2021-40903)	<img alt="forks" src="https://img.shields.io/github/forks/vulnz/CVE-2021-40903">	<img alt="stars" src="https://img.shields.io/github/stars/vulnz/CVE-2021-40903">
@@ -169,6 +186,15 @@
 ## CVE-2021-40444 (2021-09-15T12:15:00)
 > Microsoft MSHTML Remote Code Execution Vulnerability
 - [klezVirus/CVE-2021-40444](https://github.com/klezVirus/CVE-2021-40444)	<img alt="forks" src="https://img.shields.io/github/forks/klezVirus/CVE-2021-40444">	<img alt="stars" src="https://img.shields.io/github/stars/klezVirus/CVE-2021-40444">
+
+---
+## CVE-2021-40346 (2021-09-08T17:15:00)
+> An integer overflow exists in HAProxy 2.0 through 2.5 in htx_add_header that can be exploited to perform an HTTP request smuggling attack, allowing an attacker to bypass all configured http-request HAProxy ACLs and possibly other ACLs.
+- [Vulnmachines/HAProxy_CVE-2021-40346](https://github.com/Vulnmachines/HAProxy_CVE-2021-40346)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/HAProxy_CVE-2021-40346">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/HAProxy_CVE-2021-40346">
+- [alexOarga/CVE-2021-40346](https://github.com/alexOarga/CVE-2021-40346)	<img alt="forks" src="https://img.shields.io/github/forks/alexOarga/CVE-2021-40346">	<img alt="stars" src="https://img.shields.io/github/stars/alexOarga/CVE-2021-40346">
+- [donky16/CVE-2021-40346-POC](https://github.com/donky16/CVE-2021-40346-POC)	<img alt="forks" src="https://img.shields.io/github/forks/donky16/CVE-2021-40346-POC">	<img alt="stars" src="https://img.shields.io/github/stars/donky16/CVE-2021-40346-POC">
+- [alikarimi999/CVE-2021-40346](https://github.com/alikarimi999/CVE-2021-40346)	<img alt="forks" src="https://img.shields.io/github/forks/alikarimi999/CVE-2021-40346">	<img alt="stars" src="https://img.shields.io/github/stars/alikarimi999/CVE-2021-40346">
+- [knqyf263/CVE-2021-40346](https://github.com/knqyf263/CVE-2021-40346)	<img alt="forks" src="https://img.shields.io/github/forks/knqyf263/CVE-2021-40346">	<img alt="stars" src="https://img.shields.io/github/stars/knqyf263/CVE-2021-40346">
 
 ---
 ## CVE-2021-4034 (2022-01-28T20:15:00)
@@ -224,6 +250,22 @@
 ## CVE-2021-39165 (2021-08-26T21:15:00)
 > Cachet is an open source status page. With Cachet prior to and including 2.3.18, there is a SQL injection which is in the `SearchableTrait#scopeSearch()`. Attackers without authentication can utilize this vulnerability to exfiltrate sensitive data from the database such as administrator's password and session. The original repository of Cachet <https://github.com/CachetHQ/Cachet> is not active, the stable version 2.3.18 and it's developing 2.4 branch is affected.
 - [W0rty/CVE-2021-39165](https://github.com/W0rty/CVE-2021-39165)	<img alt="forks" src="https://img.shields.io/github/forks/W0rty/CVE-2021-39165">	<img alt="stars" src="https://img.shields.io/github/stars/W0rty/CVE-2021-39165">
+
+---
+## CVE-2021-38647 (2021-09-15T12:15:00)
+> Open Management Infrastructure Remote Code Execution Vulnerability
+- [Vulnmachines/OMIGOD_cve-2021-38647](https://github.com/Vulnmachines/OMIGOD_cve-2021-38647)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/OMIGOD_cve-2021-38647">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/OMIGOD_cve-2021-38647">
+- [corelight/CVE-2021-38647](https://github.com/corelight/CVE-2021-38647)	<img alt="forks" src="https://img.shields.io/github/forks/corelight/CVE-2021-38647">	<img alt="stars" src="https://img.shields.io/github/stars/corelight/CVE-2021-38647">
+- [craig-m-unsw/omigod-lab](https://github.com/craig-m-unsw/omigod-lab)	<img alt="forks" src="https://img.shields.io/github/forks/craig-m-unsw/omigod-lab">	<img alt="stars" src="https://img.shields.io/github/stars/craig-m-unsw/omigod-lab">
+- [goofsec/omigod](https://github.com/goofsec/omigod)	<img alt="forks" src="https://img.shields.io/github/forks/goofsec/omigod">	<img alt="stars" src="https://img.shields.io/github/stars/goofsec/omigod">
+- [AlteredSecurity/CVE-2021-38647](https://github.com/AlteredSecurity/CVE-2021-38647)	<img alt="forks" src="https://img.shields.io/github/forks/AlteredSecurity/CVE-2021-38647">	<img alt="stars" src="https://img.shields.io/github/stars/AlteredSecurity/CVE-2021-38647">
+- [m1thryn/CVE-2021-38647](https://github.com/m1thryn/CVE-2021-38647)	<img alt="forks" src="https://img.shields.io/github/forks/m1thryn/CVE-2021-38647">	<img alt="stars" src="https://img.shields.io/github/stars/m1thryn/CVE-2021-38647">
+- [abousteif/cve-2021-38647](https://github.com/abousteif/cve-2021-38647)	<img alt="forks" src="https://img.shields.io/github/forks/abousteif/cve-2021-38647">	<img alt="stars" src="https://img.shields.io/github/stars/abousteif/cve-2021-38647">
+- [marcosimioni/omigood](https://github.com/marcosimioni/omigood)	<img alt="forks" src="https://img.shields.io/github/forks/marcosimioni/omigood">	<img alt="stars" src="https://img.shields.io/github/stars/marcosimioni/omigood">
+- [SimenBai/CVE-2021-38647-POC-and-Demo-environment](https://github.com/SimenBai/CVE-2021-38647-POC-and-Demo-environment)	<img alt="forks" src="https://img.shields.io/github/forks/SimenBai/CVE-2021-38647-POC-and-Demo-environment">	<img alt="stars" src="https://img.shields.io/github/stars/SimenBai/CVE-2021-38647-POC-and-Demo-environment">
+- [Immersive-Labs-Sec/cve-2021-38647](https://github.com/Immersive-Labs-Sec/cve-2021-38647)	<img alt="forks" src="https://img.shields.io/github/forks/Immersive-Labs-Sec/cve-2021-38647">	<img alt="stars" src="https://img.shields.io/github/stars/Immersive-Labs-Sec/cve-2021-38647">
+- [horizon3ai/CVE-2021-38647](https://github.com/horizon3ai/CVE-2021-38647)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2021-38647">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2021-38647">
+- [midoxnet/CVE-2021-38647](https://github.com/midoxnet/CVE-2021-38647)	<img alt="forks" src="https://img.shields.io/github/forks/midoxnet/CVE-2021-38647">	<img alt="stars" src="https://img.shields.io/github/stars/midoxnet/CVE-2021-38647">
 
 ---
 ## CVE-2021-38314 (2021-09-02T17:15:00)
@@ -319,6 +361,16 @@
 - [password520/CVE-2021-3156](https://github.com/password520/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/password520/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/password520/CVE-2021-3156">
 
 ---
+## CVE-2021-30461 (2021-05-29T14:15:00)
+> A remote code execution issue was discovered in the web UI of VoIPmonitor before 24.61. When the recheck option is used, the user-supplied SPOOLDIR value (which might contain PHP code) is injected into config/configuration.php.
+- [Vulnmachines/CVE-2021-30461](https://github.com/Vulnmachines/CVE-2021-30461)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/CVE-2021-30461">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/CVE-2021-30461">
+- [W01fh4cker/Serein](https://github.com/W01fh4cker/Serein)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/Serein">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/Serein">
+- [Anonymous-ghost/AttackWebFrameworkTools-5.0](https://github.com/Anonymous-ghost/AttackWebFrameworkTools-5.0)	<img alt="forks" src="https://img.shields.io/github/forks/Anonymous-ghost/AttackWebFrameworkTools-5.0">	<img alt="stars" src="https://img.shields.io/github/stars/Anonymous-ghost/AttackWebFrameworkTools-5.0">
+- [puckiestyle/CVE-2021-30461](https://github.com/puckiestyle/CVE-2021-30461)	<img alt="forks" src="https://img.shields.io/github/forks/puckiestyle/CVE-2021-30461">	<img alt="stars" src="https://img.shields.io/github/stars/puckiestyle/CVE-2021-30461">
+- [Al1ex/CVE-2021-30461](https://github.com/Al1ex/CVE-2021-30461)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/CVE-2021-30461">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/CVE-2021-30461">
+- [daedalus/CVE-2021-30461](https://github.com/daedalus/CVE-2021-30461)	<img alt="forks" src="https://img.shields.io/github/forks/daedalus/CVE-2021-30461">	<img alt="stars" src="https://img.shields.io/github/stars/daedalus/CVE-2021-30461">
+
+---
 ## CVE-2021-27965 (2021-03-05T02:15:00)
 > The MsIo64.sys driver before 1.1.19.1016 in MSI Dragon Center before 2.0.98.0 has a buffer overflow that allows privilege escalation via a crafted 0x80102040, 0x80102044, 0x80102050, or 0x80102054 IOCTL request.
 - [Exploitables/CVE-2021-27965](https://github.com/Exploitables/CVE-2021-27965)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2021-27965">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2021-27965">
@@ -410,6 +462,14 @@
 - [optionalCTF/Rocket.Chat-Automated-Account-Takeover-RCE-CVE-2021-22911](https://github.com/optionalCTF/Rocket.Chat-Automated-Account-Takeover-RCE-CVE-2021-22911)	<img alt="forks" src="https://img.shields.io/github/forks/optionalCTF/Rocket.Chat-Automated-Account-Takeover-RCE-CVE-2021-22911">	<img alt="stars" src="https://img.shields.io/github/stars/optionalCTF/Rocket.Chat-Automated-Account-Takeover-RCE-CVE-2021-22911">
 
 ---
+## CVE-2021-22214 (2021-06-08T15:15:00)
+> When requests to the internal network for webhooks are enabled, a server-side request forgery vulnerability in GitLab CE/EE affecting all versions starting from 10.5 was possible to exploit for an unauthenticated attacker even on a GitLab instance where registration is limited
+- [Vulnmachines/gitlab-cve-2021-22214](https://github.com/Vulnmachines/gitlab-cve-2021-22214)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/gitlab-cve-2021-22214">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/gitlab-cve-2021-22214">
+- [kh4sh3i/GitLab-SSRF-CVE-2021-22214](https://github.com/kh4sh3i/GitLab-SSRF-CVE-2021-22214)	<img alt="forks" src="https://img.shields.io/github/forks/kh4sh3i/GitLab-SSRF-CVE-2021-22214">	<img alt="stars" src="https://img.shields.io/github/stars/kh4sh3i/GitLab-SSRF-CVE-2021-22214">
+- [antx-code/CVE-2021-22214](https://github.com/antx-code/CVE-2021-22214)	<img alt="forks" src="https://img.shields.io/github/forks/antx-code/CVE-2021-22214">	<img alt="stars" src="https://img.shields.io/github/stars/antx-code/CVE-2021-22214">
+- [r0ckysec/CVE-2021-22214](https://github.com/r0ckysec/CVE-2021-22214)	<img alt="forks" src="https://img.shields.io/github/forks/r0ckysec/CVE-2021-22214">	<img alt="stars" src="https://img.shields.io/github/stars/r0ckysec/CVE-2021-22214">
+
+---
 ## CVE-2021-22205 (2021-04-23T18:15:00)
 > An issue has been discovered in GitLab CE/EE affecting all versions starting from 11.9. GitLab was not properly validating image files that were passed to a file parser which resulted in a remote command execution.
 - [c0okB/CVE-2021-22205](https://github.com/c0okB/CVE-2021-22205)	<img alt="forks" src="https://img.shields.io/github/forks/c0okB/CVE-2021-22205">	<img alt="stars" src="https://img.shields.io/github/stars/c0okB/CVE-2021-22205">
@@ -456,6 +516,12 @@
 - [bilkoh/POC-CVE-2021-22204](https://github.com/bilkoh/POC-CVE-2021-22204)	<img alt="forks" src="https://img.shields.io/github/forks/bilkoh/POC-CVE-2021-22204">	<img alt="stars" src="https://img.shields.io/github/stars/bilkoh/POC-CVE-2021-22204">
 - [convisolabs/CVE-2021-22204-exiftool](https://github.com/convisolabs/CVE-2021-22204-exiftool)	<img alt="forks" src="https://img.shields.io/github/forks/convisolabs/CVE-2021-22204-exiftool">	<img alt="stars" src="https://img.shields.io/github/stars/convisolabs/CVE-2021-22204-exiftool">
 - [se162xg/CVE-2021-22204](https://github.com/se162xg/CVE-2021-22204)	<img alt="forks" src="https://img.shields.io/github/forks/se162xg/CVE-2021-22204">	<img alt="stars" src="https://img.shields.io/github/stars/se162xg/CVE-2021-22204">
+
+---
+## CVE-2021-22053 (2021-11-19T16:15:00)
+> Applications using both `spring-cloud-netflix-hystrix-dashboard` and `spring-boot-starter-thymeleaf` expose a way to execute code submitted within the request URI path during the resolution of view templates. When a request is made at `/hystrix/monitor;[user-provided data]`, the path elements following `hystrix/monitor` are being evaluated as SpringEL expressions, which can lead to code execution.
+- [Vulnmachines/CVE-2021-22053](https://github.com/Vulnmachines/CVE-2021-22053)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/CVE-2021-22053">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/CVE-2021-22053">
+- [SecCoder-Security-Lab/spring-cloud-netflix-hystrix-dashboard-cve-2021-22053](https://github.com/SecCoder-Security-Lab/spring-cloud-netflix-hystrix-dashboard-cve-2021-22053)	<img alt="forks" src="https://img.shields.io/github/forks/SecCoder-Security-Lab/spring-cloud-netflix-hystrix-dashboard-cve-2021-22053">	<img alt="stars" src="https://img.shields.io/github/stars/SecCoder-Security-Lab/spring-cloud-netflix-hystrix-dashboard-cve-2021-22053">
 
 ---
 ## CVE-2021-22005 (2021-09-23T12:15:00)

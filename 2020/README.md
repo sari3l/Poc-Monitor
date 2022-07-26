@@ -6,6 +6,14 @@
 - [trhacknon/CVE-2020-8512](https://github.com/trhacknon/CVE-2020-8512)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2020-8512">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2020-8512">
 
 ---
+## CVE-2020-8417 (2020-01-28T21:15:00)
+> The Code Snippets plugin before 2.14.0 for WordPress allows CSRF because of the lack of a Referer check on the import menu.
+- [Vulnmachines/WordPress_CVE-2020-8417](https://github.com/Vulnmachines/WordPress_CVE-2020-8417)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/WordPress_CVE-2020-8417">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/WordPress_CVE-2020-8417">
+- [Rapidsafeguard/codesnippets_CVE-2020-8417](https://github.com/Rapidsafeguard/codesnippets_CVE-2020-8417)	<img alt="forks" src="https://img.shields.io/github/forks/Rapidsafeguard/codesnippets_CVE-2020-8417">	<img alt="stars" src="https://img.shields.io/github/stars/Rapidsafeguard/codesnippets_CVE-2020-8417">
+- [waleweewe12/CVE-2020-8417](https://github.com/waleweewe12/CVE-2020-8417)	<img alt="forks" src="https://img.shields.io/github/forks/waleweewe12/CVE-2020-8417">	<img alt="stars" src="https://img.shields.io/github/stars/waleweewe12/CVE-2020-8417">
+- [vulncrate/wp-codesnippets-cve-2020-8417](https://github.com/vulncrate/wp-codesnippets-cve-2020-8417)	<img alt="forks" src="https://img.shields.io/github/forks/vulncrate/wp-codesnippets-cve-2020-8417">	<img alt="stars" src="https://img.shields.io/github/stars/vulncrate/wp-codesnippets-cve-2020-8417">
+
+---
 ## CVE-2020-8163 (2020-07-02T19:15:00)
 > The is a code injection vulnerability in versions of Rails prior to 5.0.1 that wouldallow an attacker who controlled the `locals` argument of a `render` call to perform a RCE.
 - [lucasallan/CVE-2020-8163](https://github.com/lucasallan/CVE-2020-8163)	<img alt="forks" src="https://img.shields.io/github/forks/lucasallan/CVE-2020-8163">	<img alt="stars" src="https://img.shields.io/github/stars/lucasallan/CVE-2020-8163">
