@@ -236,6 +236,8 @@
 - [rvizx/CVE-2021-4034](https://github.com/rvizx/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2021-4034">
 - [jm33-m0/go-lpe](https://github.com/jm33-m0/go-lpe)	<img alt="forks" src="https://img.shields.io/github/forks/jm33-m0/go-lpe">	<img alt="stars" src="https://img.shields.io/github/stars/jm33-m0/go-lpe">
 - [n0v4mx/cve-2021-4034](https://github.com/n0v4mx/cve-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/n0v4mx/cve-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/n0v4mx/cve-2021-4034">
+- [carloscast1llo/CVE-2021-4034](https://github.com/carloscast1llo/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/carloscast1llo/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/carloscast1llo/CVE-2021-4034">
+- [Vulnmachines/HAProxy_CVE-2021-40346](https://github.com/Vulnmachines/HAProxy_CVE-2021-40346)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/HAProxy_CVE-2021-40346">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/HAProxy_CVE-2021-40346">
 
 ---
 ## CVE-2021-39409 (2022-06-24T17:15:00)
