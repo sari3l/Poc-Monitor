@@ -65,6 +65,7 @@
 - [qiong-qi/CVE-2020-5902-POC](https://github.com/qiong-qi/CVE-2020-5902-POC)	<img alt="forks" src="https://img.shields.io/github/forks/qiong-qi/CVE-2020-5902-POC">	<img alt="stars" src="https://img.shields.io/github/stars/qiong-qi/CVE-2020-5902-POC">
 - [lijiaxing1997/CVE-2020-5902-POC-EXP](https://github.com/lijiaxing1997/CVE-2020-5902-POC-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/lijiaxing1997/CVE-2020-5902-POC-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/lijiaxing1997/CVE-2020-5902-POC-EXP">
 - [5l1v3r1/CVE-2020-5902-Mass](https://github.com/5l1v3r1/CVE-2020-5902-Mass)	<img alt="forks" src="https://img.shields.io/github/forks/5l1v3r1/CVE-2020-5902-Mass">	<img alt="stars" src="https://img.shields.io/github/stars/5l1v3r1/CVE-2020-5902-Mass">
+- [Shu1L/CVE-2020-5902-fofa-scan](https://github.com/Shu1L/CVE-2020-5902-fofa-scan)	<img alt="forks" src="https://img.shields.io/github/forks/Shu1L/CVE-2020-5902-fofa-scan">	<img alt="stars" src="https://img.shields.io/github/stars/Shu1L/CVE-2020-5902-fofa-scan">
 
 ---
 ## CVE-2020-5844 (2020-03-16T18:15:00)
