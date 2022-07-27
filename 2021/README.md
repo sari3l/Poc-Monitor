@@ -46,6 +46,7 @@
 - [cybersecurityresearcher/CVE-2021-44228-Mass-RCE-Log4j](https://github.com/cybersecurityresearcher/CVE-2021-44228-Mass-RCE-Log4j)	<img alt="forks" src="https://img.shields.io/github/forks/cybersecurityresearcher/CVE-2021-44228-Mass-RCE-Log4j">	<img alt="stars" src="https://img.shields.io/github/stars/cybersecurityresearcher/CVE-2021-44228-Mass-RCE-Log4j">
 - [vidrez/Ethical-Hacking-Report-Log4j](https://github.com/vidrez/Ethical-Hacking-Report-Log4j)	<img alt="forks" src="https://img.shields.io/github/forks/vidrez/Ethical-Hacking-Report-Log4j">	<img alt="stars" src="https://img.shields.io/github/stars/vidrez/Ethical-Hacking-Report-Log4j">
 - [Vulnmachines/log4jshell_CVE-2021-44228](https://github.com/Vulnmachines/log4jshell_CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/log4jshell_CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/log4jshell_CVE-2021-44228">
+- [tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce](https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce)	<img alt="forks" src="https://img.shields.io/github/forks/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce">	<img alt="stars" src="https://img.shields.io/github/stars/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce">
 
 ---
 ## CVE-2021-44158 (2022-01-03T10:15:00)

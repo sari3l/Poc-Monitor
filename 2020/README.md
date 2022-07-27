@@ -64,6 +64,7 @@
 - [MrCl0wnLab/checker-CVE-2020-5902](https://github.com/MrCl0wnLab/checker-CVE-2020-5902)	<img alt="forks" src="https://img.shields.io/github/forks/MrCl0wnLab/checker-CVE-2020-5902">	<img alt="stars" src="https://img.shields.io/github/stars/MrCl0wnLab/checker-CVE-2020-5902">
 - [qiong-qi/CVE-2020-5902-POC](https://github.com/qiong-qi/CVE-2020-5902-POC)	<img alt="forks" src="https://img.shields.io/github/forks/qiong-qi/CVE-2020-5902-POC">	<img alt="stars" src="https://img.shields.io/github/stars/qiong-qi/CVE-2020-5902-POC">
 - [lijiaxing1997/CVE-2020-5902-POC-EXP](https://github.com/lijiaxing1997/CVE-2020-5902-POC-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/lijiaxing1997/CVE-2020-5902-POC-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/lijiaxing1997/CVE-2020-5902-POC-EXP">
+- [5l1v3r1/CVE-2020-5902-Mass](https://github.com/5l1v3r1/CVE-2020-5902-Mass)	<img alt="forks" src="https://img.shields.io/github/forks/5l1v3r1/CVE-2020-5902-Mass">	<img alt="stars" src="https://img.shields.io/github/stars/5l1v3r1/CVE-2020-5902-Mass">
 
 ---
 ## CVE-2020-5844 (2020-03-16T18:15:00)
