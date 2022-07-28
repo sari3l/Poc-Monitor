@@ -107,6 +107,7 @@
 - [theLSA/apache-httpd-path-traversal-checker](https://github.com/theLSA/apache-httpd-path-traversal-checker)	<img alt="forks" src="https://img.shields.io/github/forks/theLSA/apache-httpd-path-traversal-checker">	<img alt="stars" src="https://img.shields.io/github/stars/theLSA/apache-httpd-path-traversal-checker">
 - [MrCl0wnLab/SimplesApachePathTraversal](https://github.com/MrCl0wnLab/SimplesApachePathTraversal)	<img alt="forks" src="https://img.shields.io/github/forks/MrCl0wnLab/SimplesApachePathTraversal">	<img alt="stars" src="https://img.shields.io/github/stars/MrCl0wnLab/SimplesApachePathTraversal">
 - [ksanchezcld/httpd-2.4.49](https://github.com/ksanchezcld/httpd-2.4.49)	<img alt="forks" src="https://img.shields.io/github/forks/ksanchezcld/httpd-2.4.49">	<img alt="stars" src="https://img.shields.io/github/stars/ksanchezcld/httpd-2.4.49">
+- [khidhir-ibrahim/CVE-2021-42013](https://github.com/khidhir-ibrahim/CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/khidhir-ibrahim/CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/khidhir-ibrahim/CVE-2021-42013">
 
 ---
 ## CVE-2021-41946 (2022-05-18T11:15:00)
