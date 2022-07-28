@@ -14,3 +14,12 @@
 ## CVE-2012-2661 (2012-06-22T14:55:00)
 > The Active Record component in Ruby on Rails 3.0.x before 3.0.13, 3.1.x before 3.1.5, and 3.2.x before 3.2.4 does not properly implement the passing of request data to a where method in an ActiveRecord class, which allows remote attackers to conduct certain SQL injection attacks via nested query parameters that leverage unintended recursion, a related issue to CVE-2012-2695.
 - [Blackyguy/-CVE-2012-2661-ActiveRecord-SQL-injection-](https://github.com/Blackyguy/-CVE-2012-2661-ActiveRecord-SQL-injection-)	<img alt="forks" src="https://img.shields.io/github/forks/Blackyguy/-CVE-2012-2661-ActiveRecord-SQL-injection-">	<img alt="stars" src="https://img.shields.io/github/stars/Blackyguy/-CVE-2012-2661-ActiveRecord-SQL-injection-">
+
+---
+## CVE-2012-1823 (2012-05-11T10:15:00)
+> sapi/cgi/cgi_main.c in PHP before 5.3.12 and 5.4.x before 5.4.2, when configured as a CGI script (aka php-cgi), does not properly handle query strings that lack an = (equals sign) character, which allows remote attackers to execute arbitrary code by placing command-line options in the query string, related to lack of skipping a certain php_getopt for the 'd' case.
+- [theykillmeslowly/CVE-2012-1823](https://github.com/theykillmeslowly/CVE-2012-1823)	<img alt="forks" src="https://img.shields.io/github/forks/theykillmeslowly/CVE-2012-1823">	<img alt="stars" src="https://img.shields.io/github/stars/theykillmeslowly/CVE-2012-1823">
+- [cyberharsh/PHP_CVE-2012-1823](https://github.com/cyberharsh/PHP_CVE-2012-1823)	<img alt="forks" src="https://img.shields.io/github/forks/cyberharsh/PHP_CVE-2012-1823">	<img alt="stars" src="https://img.shields.io/github/stars/cyberharsh/PHP_CVE-2012-1823">
+- [Unix13/metasploitable2](https://github.com/Unix13/metasploitable2)	<img alt="forks" src="https://img.shields.io/github/forks/Unix13/metasploitable2">	<img alt="stars" src="https://img.shields.io/github/stars/Unix13/metasploitable2">
+- [tardummy01/oscp_scripts-1](https://github.com/tardummy01/oscp_scripts-1)	<img alt="forks" src="https://img.shields.io/github/forks/tardummy01/oscp_scripts-1">	<img alt="stars" src="https://img.shields.io/github/stars/tardummy01/oscp_scripts-1">
+- [drone789/CVE-2012-1823](https://github.com/drone789/CVE-2012-1823)	<img alt="forks" src="https://img.shields.io/github/forks/drone789/CVE-2012-1823">	<img alt="stars" src="https://img.shields.io/github/stars/drone789/CVE-2012-1823">
