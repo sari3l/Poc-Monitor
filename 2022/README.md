@@ -691,6 +691,10 @@
 ## CVE-2022-21661 (2022-01-06T23:15:00)
 > WordPress is a free and open-source content management system written in PHP and paired with a MariaDB database. Due to improper sanitization in WP_Query, there can be cases where SQL injection is possible through plugins or themes that use it in a certain way. This has been patched in WordPress version 5.8.3. Older affected versions are also fixed via security release, that go back till 3.7.37. We strongly recommend that you keep auto-updates enabled. There are no known workarounds for this vulnerability.
 - [PyterSmithDarkGhost/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection-main](https://github.com/PyterSmithDarkGhost/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection-main)	<img alt="forks" src="https://img.shields.io/github/forks/PyterSmithDarkGhost/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection-main">	<img alt="stars" src="https://img.shields.io/github/stars/PyterSmithDarkGhost/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection-main">
+- [z92g/CVE-2022-21661](https://github.com/z92g/CVE-2022-21661)	<img alt="forks" src="https://img.shields.io/github/forks/z92g/CVE-2022-21661">	<img alt="stars" src="https://img.shields.io/github/stars/z92g/CVE-2022-21661">
+- [0x4E0x650x6F/Wordpress-cve-CVE-2022-21661](https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661)	<img alt="forks" src="https://img.shields.io/github/forks/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661">	<img alt="stars" src="https://img.shields.io/github/stars/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661">
+- [purple-WL/wordpress-CVE-2022-21661](https://github.com/purple-WL/wordpress-CVE-2022-21661)	<img alt="forks" src="https://img.shields.io/github/forks/purple-WL/wordpress-CVE-2022-21661">	<img alt="stars" src="https://img.shields.io/github/stars/purple-WL/wordpress-CVE-2022-21661">
+- [TAPESH-TEAM/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection](https://github.com/TAPESH-TEAM/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/TAPESH-TEAM/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/TAPESH-TEAM/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection">
 
 ---
 ## CVE-2022-21449 (2022-04-19T21:15:00)
@@ -805,6 +809,12 @@
 ---
 ## CVE-2022-111111 ()
 > 
+- [thelostworldFree/CVE-2022-111111](https://github.com/thelostworldFree/CVE-2022-111111)	<img alt="forks" src="https://img.shields.io/github/forks/thelostworldFree/CVE-2022-111111">	<img alt="stars" src="https://img.shields.io/github/stars/thelostworldFree/CVE-2022-111111">
+
+---
+## CVE-2022-11111 ()
+> 
+- [cvegithub/CVE-2022-11111](https://github.com/cvegithub/CVE-2022-11111)	<img alt="forks" src="https://img.shields.io/github/forks/cvegithub/CVE-2022-11111">	<img alt="stars" src="https://img.shields.io/github/stars/cvegithub/CVE-2022-11111">
 - [thelostworldFree/CVE-2022-111111](https://github.com/thelostworldFree/CVE-2022-111111)	<img alt="forks" src="https://img.shields.io/github/forks/thelostworldFree/CVE-2022-111111">	<img alt="stars" src="https://img.shields.io/github/stars/thelostworldFree/CVE-2022-111111">
 
 ---
