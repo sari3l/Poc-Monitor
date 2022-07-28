@@ -429,6 +429,7 @@
 - [alcaparra/CVE-2022-26138](https://github.com/alcaparra/CVE-2022-26138)	<img alt="forks" src="https://img.shields.io/github/forks/alcaparra/CVE-2022-26138">	<img alt="stars" src="https://img.shields.io/github/stars/alcaparra/CVE-2022-26138">
 - [1mxml/CVE-2022-26138](https://github.com/1mxml/CVE-2022-26138)	<img alt="forks" src="https://img.shields.io/github/forks/1mxml/CVE-2022-26138">	<img alt="stars" src="https://img.shields.io/github/stars/1mxml/CVE-2022-26138">
 - [Daro1967/CVE-2022-26138-RCE](https://github.com/Daro1967/CVE-2022-26138-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Daro1967/CVE-2022-26138-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Daro1967/CVE-2022-26138-RCE">
+- [Vulnmachines/Confluence-Question-CVE-2022-26138-](https://github.com/Vulnmachines/Confluence-Question-CVE-2022-26138-)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/Confluence-Question-CVE-2022-26138-">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/Confluence-Question-CVE-2022-26138-">
 
 ---
 ## CVE-2022-26135 (2022-06-30T06:15:00)
