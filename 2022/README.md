@@ -686,6 +686,7 @@
 > A critical issue has been discovered in GitLab affecting all versions starting from 14.0 prior to 14.10.5, 15.0 prior to 15.0.4, and 15.1 prior to 15.1.1 where it was possible for an unauthorised user to execute arbitrary code on the server using the project import feature.
 - [safe3s/CVE-2022-2185-poc](https://github.com/safe3s/CVE-2022-2185-poc)	<img alt="forks" src="https://img.shields.io/github/forks/safe3s/CVE-2022-2185-poc">	<img alt="stars" src="https://img.shields.io/github/stars/safe3s/CVE-2022-2185-poc">
 - [west-wind/Threat-Hunting-With-Splunk](https://github.com/west-wind/Threat-Hunting-With-Splunk)	<img alt="forks" src="https://img.shields.io/github/forks/west-wind/Threat-Hunting-With-Splunk">	<img alt="stars" src="https://img.shields.io/github/stars/west-wind/Threat-Hunting-With-Splunk">
+- [ESUAdmin/CVE-2022-2185](https://github.com/ESUAdmin/CVE-2022-2185)	<img alt="forks" src="https://img.shields.io/github/forks/ESUAdmin/CVE-2022-2185">	<img alt="stars" src="https://img.shields.io/github/stars/ESUAdmin/CVE-2022-2185">
 
 ---
 ## CVE-2022-21661 (2022-01-06T23:15:00)
