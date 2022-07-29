@@ -466,6 +466,8 @@
 - [30579096/Confluence-CVE-2021-26084](https://github.com/30579096/Confluence-CVE-2021-26084)	<img alt="forks" src="https://img.shields.io/github/forks/30579096/Confluence-CVE-2021-26084">	<img alt="stars" src="https://img.shields.io/github/stars/30579096/Confluence-CVE-2021-26084">
 - [BeRserKerSec/CVE-2021-26084-Nuclei-template](https://github.com/BeRserKerSec/CVE-2021-26084-Nuclei-template)	<img alt="forks" src="https://img.shields.io/github/forks/BeRserKerSec/CVE-2021-26084-Nuclei-template">	<img alt="stars" src="https://img.shields.io/github/stars/BeRserKerSec/CVE-2021-26084-Nuclei-template">
 - [maskerTUI/CVE-2021-26084](https://github.com/maskerTUI/CVE-2021-26084)	<img alt="forks" src="https://img.shields.io/github/forks/maskerTUI/CVE-2021-26084">	<img alt="stars" src="https://img.shields.io/github/stars/maskerTUI/CVE-2021-26084">
+- [smallpiggy/cve-2021-26084-confluence](https://github.com/smallpiggy/cve-2021-26084-confluence)	<img alt="forks" src="https://img.shields.io/github/forks/smallpiggy/cve-2021-26084-confluence">	<img alt="stars" src="https://img.shields.io/github/stars/smallpiggy/cve-2021-26084-confluence">
+- [crowsec-edtech/CVE-2021-26084](https://github.com/crowsec-edtech/CVE-2021-26084)	<img alt="forks" src="https://img.shields.io/github/forks/crowsec-edtech/CVE-2021-26084">	<img alt="stars" src="https://img.shields.io/github/stars/crowsec-edtech/CVE-2021-26084">
 
 ---
 ## CVE-2021-25461 (2021-09-09T19:15:00)
