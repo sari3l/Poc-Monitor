@@ -154,6 +154,12 @@
 - [deathflash1411/CVE-2021-41652](https://github.com/deathflash1411/CVE-2021-41652)	<img alt="forks" src="https://img.shields.io/github/forks/deathflash1411/CVE-2021-41652">	<img alt="stars" src="https://img.shields.io/github/stars/deathflash1411/CVE-2021-41652">
 
 ---
+## CVE-2021-41349 (2021-11-10T01:19:00)
+> Microsoft Exchange Server Spoofing Vulnerability This CVE ID is unique from CVE-2021-42305.
+- [0xrobiul/CVE-2021-41349-Exploit](https://github.com/0xrobiul/CVE-2021-41349-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xrobiul/CVE-2021-41349-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xrobiul/CVE-2021-41349-Exploit">
+- [exploit-io/CVE-2021-41349](https://github.com/exploit-io/CVE-2021-41349)	<img alt="forks" src="https://img.shields.io/github/forks/exploit-io/CVE-2021-41349">	<img alt="stars" src="https://img.shields.io/github/stars/exploit-io/CVE-2021-41349">
+
+---
 ## CVE-2021-41277 (2021-11-17T20:15:00)
 > Metabase is an open source data analytics platform. In affected versions a security issue has been discovered with the custom GeoJSON map (`admin->settings->maps->custom maps->add a map`) support and potential local file inclusion (including environment variables). URLs were not validated prior to being loaded. This issue is fixed in a new maintenance release (0.40.5 and 1.40.5), and any subsequent release after that. If youâ€™re unable to upgrade immediately, you can mitigate this by including rules in your reverse proxy or load balancer or WAF to provide a validation filter before the application.
 - [Vulnmachines/Metabase_CVE-2021-41277](https://github.com/Vulnmachines/Metabase_CVE-2021-41277)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/Metabase_CVE-2021-41277">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/Metabase_CVE-2021-41277">
