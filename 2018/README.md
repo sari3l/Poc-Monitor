@@ -227,3 +227,4 @@
 ## CVE-2018-1042 ()
 > 
 - [UDPsycho/Moodle-CVE-2018-1042](https://github.com/UDPsycho/Moodle-CVE-2018-1042)	<img alt="forks" src="https://img.shields.io/github/forks/UDPsycho/Moodle-CVE-2018-1042">	<img alt="stars" src="https://img.shields.io/github/stars/UDPsycho/Moodle-CVE-2018-1042">
+- [UDPsycho/Moodle-CVE-2018-1042](https://github.com/UDPsycho/Moodle-CVE-2018-1042)	<img alt="forks" src="https://img.shields.io/github/forks/UDPsycho/Moodle-CVE-2018-1042">	<img alt="stars" src="https://img.shields.io/github/stars/UDPsycho/Moodle-CVE-2018-1042">
