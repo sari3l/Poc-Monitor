@@ -222,3 +222,8 @@
 - [jas502n/CVE-2018-10933](https://github.com/jas502n/CVE-2018-10933)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2018-10933">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2018-10933">
 - [marco-lancini/hunt-for-cve-2018-10933](https://github.com/marco-lancini/hunt-for-cve-2018-10933)	<img alt="forks" src="https://img.shields.io/github/forks/marco-lancini/hunt-for-cve-2018-10933">	<img alt="stars" src="https://img.shields.io/github/stars/marco-lancini/hunt-for-cve-2018-10933">
 - [likescam/CVE-2018-10933-libSSH-Authentication-Bypass](https://github.com/likescam/CVE-2018-10933-libSSH-Authentication-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/likescam/CVE-2018-10933-libSSH-Authentication-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/likescam/CVE-2018-10933-libSSH-Authentication-Bypass">
+
+---
+## CVE-2018-1042 ()
+> 
+- [UDPsycho/Moodle-CVE-2018-1042](https://github.com/UDPsycho/Moodle-CVE-2018-1042)	<img alt="forks" src="https://img.shields.io/github/forks/UDPsycho/Moodle-CVE-2018-1042">	<img alt="stars" src="https://img.shields.io/github/stars/UDPsycho/Moodle-CVE-2018-1042">
