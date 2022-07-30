@@ -156,7 +156,7 @@
 ---
 ## CVE-2021-41349 (2021-11-10T01:19:00)
 > Microsoft Exchange Server Spoofing Vulnerability This CVE ID is unique from CVE-2021-42305.
-- [0xrobiul/CVE-2021-41349-Exploit](https://github.com/0xrobiul/CVE-2021-41349-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xrobiul/CVE-2021-41349-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xrobiul/CVE-2021-41349-Exploit">
+- [0xrobiul/CVE-2021-41349](https://github.com/0xrobiul/CVE-2021-41349)	<img alt="forks" src="https://img.shields.io/github/forks/0xrobiul/CVE-2021-41349">	<img alt="stars" src="https://img.shields.io/github/stars/0xrobiul/CVE-2021-41349">
 - [exploit-io/CVE-2021-41349](https://github.com/exploit-io/CVE-2021-41349)	<img alt="forks" src="https://img.shields.io/github/forks/exploit-io/CVE-2021-41349">	<img alt="stars" src="https://img.shields.io/github/stars/exploit-io/CVE-2021-41349">
 
 ---
