@@ -86,3 +86,13 @@
 ## CVE-2017-16744 (2018-08-20T21:29:00)
 > A path traversal vulnerability in Tridium Niagara AX Versions 3.8 and prior and Niagara 4 systems Versions 4.4 and prior installed on Microsoft Windows Systems can be exploited by leveraging valid platform (administrator) credentials.
 - [GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara](https://github.com/GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara)	<img alt="forks" src="https://img.shields.io/github/forks/GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara">	<img alt="stars" src="https://img.shields.io/github/stars/GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara">
+
+---
+## CVE-2017-1000251 (2017-09-12T17:29:00)
+> The native Bluetooth stack in the Linux Kernel (BlueZ), starting at the Linux kernel version 2.6.32 and up to and including 4.13.1, are vulnerable to a stack overflow vulnerability in the processing of L2CAP configuration responses resulting in Remote code execution in kernel space.
+- [istanescu/CVE-2017-1000251_Exploit](https://github.com/istanescu/CVE-2017-1000251_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/istanescu/CVE-2017-1000251_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/istanescu/CVE-2017-1000251_Exploit">
+- [CrackSoft900/Blue-Borne](https://github.com/CrackSoft900/Blue-Borne)	<img alt="forks" src="https://img.shields.io/github/forks/CrackSoft900/Blue-Borne">	<img alt="stars" src="https://img.shields.io/github/stars/CrackSoft900/Blue-Borne">
+- [marcinguy/blueborne-CVE-2017-1000251](https://github.com/marcinguy/blueborne-CVE-2017-1000251)	<img alt="forks" src="https://img.shields.io/github/forks/marcinguy/blueborne-CVE-2017-1000251">	<img alt="stars" src="https://img.shields.io/github/stars/marcinguy/blueborne-CVE-2017-1000251">
+- [hayzamjs/Blueborne-CVE-2017-1000251](https://github.com/hayzamjs/Blueborne-CVE-2017-1000251)	<img alt="forks" src="https://img.shields.io/github/forks/hayzamjs/Blueborne-CVE-2017-1000251">	<img alt="stars" src="https://img.shields.io/github/stars/hayzamjs/Blueborne-CVE-2017-1000251">
+- [own2pwn/blueborne-CVE-2017-1000251-POC](https://github.com/own2pwn/blueborne-CVE-2017-1000251-POC)	<img alt="forks" src="https://img.shields.io/github/forks/own2pwn/blueborne-CVE-2017-1000251-POC">	<img alt="stars" src="https://img.shields.io/github/stars/own2pwn/blueborne-CVE-2017-1000251-POC">
+- [tlatkdgus1/blueborne-CVE-2017-1000251](https://github.com/tlatkdgus1/blueborne-CVE-2017-1000251)	<img alt="forks" src="https://img.shields.io/github/forks/tlatkdgus1/blueborne-CVE-2017-1000251">	<img alt="stars" src="https://img.shields.io/github/stars/tlatkdgus1/blueborne-CVE-2017-1000251">
