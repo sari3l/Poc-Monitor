@@ -633,6 +633,7 @@
 - [D1mang/Spring4Shell-CVE-2022-22965](https://github.com/D1mang/Spring4Shell-CVE-2022-22965)	<img alt="forks" src="https://img.shields.io/github/forks/D1mang/Spring4Shell-CVE-2022-22965">	<img alt="stars" src="https://img.shields.io/github/stars/D1mang/Spring4Shell-CVE-2022-22965">
 - [west-wind/Spring4Shell-Detection](https://github.com/west-wind/Spring4Shell-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/west-wind/Spring4Shell-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/west-wind/Spring4Shell-Detection">
 - [sunnyvale-it/CVE-2022-22965-PoC](https://github.com/sunnyvale-it/CVE-2022-22965-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sunnyvale-it/CVE-2022-22965-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sunnyvale-it/CVE-2022-22965-PoC">
+- [iyamrotrix/CVE-2022-22965](https://github.com/iyamrotrix/CVE-2022-22965)	<img alt="forks" src="https://img.shields.io/github/forks/iyamrotrix/CVE-2022-22965">	<img alt="stars" src="https://img.shields.io/github/stars/iyamrotrix/CVE-2022-22965">
 
 ---
 ## CVE-2022-22947 (2022-03-03T22:15:00)
