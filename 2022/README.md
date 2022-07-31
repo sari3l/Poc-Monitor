@@ -699,6 +699,7 @@
 - [0x4E0x650x6F/Wordpress-cve-CVE-2022-21661](https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661)	<img alt="forks" src="https://img.shields.io/github/forks/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661">	<img alt="stars" src="https://img.shields.io/github/stars/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661">
 - [purple-WL/wordpress-CVE-2022-21661](https://github.com/purple-WL/wordpress-CVE-2022-21661)	<img alt="forks" src="https://img.shields.io/github/forks/purple-WL/wordpress-CVE-2022-21661">	<img alt="stars" src="https://img.shields.io/github/stars/purple-WL/wordpress-CVE-2022-21661">
 - [TAPESH-TEAM/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection](https://github.com/TAPESH-TEAM/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/TAPESH-TEAM/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/TAPESH-TEAM/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection">
+- [QWERTYisme/CVE-2022-21661](https://github.com/QWERTYisme/CVE-2022-21661)	<img alt="forks" src="https://img.shields.io/github/forks/QWERTYisme/CVE-2022-21661">	<img alt="stars" src="https://img.shields.io/github/stars/QWERTYisme/CVE-2022-21661">
 
 ---
 ## CVE-2022-21449 (2022-04-19T21:15:00)
