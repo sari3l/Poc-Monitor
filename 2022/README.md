@@ -895,6 +895,7 @@
 - [notl0cal/dpipe](https://github.com/notl0cal/dpipe)	<img alt="forks" src="https://img.shields.io/github/forks/notl0cal/dpipe">	<img alt="stars" src="https://img.shields.io/github/stars/notl0cal/dpipe">
 - [edr1412/Dirty-Pipe](https://github.com/edr1412/Dirty-Pipe)	<img alt="forks" src="https://img.shields.io/github/forks/edr1412/Dirty-Pipe">	<img alt="stars" src="https://img.shields.io/github/stars/edr1412/Dirty-Pipe">
 - [airbus-cert/dirtypipe-ebpf_detection](https://github.com/airbus-cert/dirtypipe-ebpf_detection)	<img alt="forks" src="https://img.shields.io/github/forks/airbus-cert/dirtypipe-ebpf_detection">	<img alt="stars" src="https://img.shields.io/github/stars/airbus-cert/dirtypipe-ebpf_detection">
+- [eduquintanilha/CVE-2022-0847-DirtyPipe-Exploits](https://github.com/eduquintanilha/CVE-2022-0847-DirtyPipe-Exploits)	<img alt="forks" src="https://img.shields.io/github/forks/eduquintanilha/CVE-2022-0847-DirtyPipe-Exploits">	<img alt="stars" src="https://img.shields.io/github/stars/eduquintanilha/CVE-2022-0847-DirtyPipe-Exploits">
 
 ---
 ## CVE-2022-0666 (2022-02-18T15:15:00)
