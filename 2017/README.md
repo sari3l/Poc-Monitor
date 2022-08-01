@@ -73,6 +73,16 @@
 - [gunsan92/CVE2017-7494_quicktest](https://github.com/gunsan92/CVE2017-7494_quicktest)	<img alt="forks" src="https://img.shields.io/github/forks/gunsan92/CVE2017-7494_quicktest">	<img alt="stars" src="https://img.shields.io/github/stars/gunsan92/CVE2017-7494_quicktest">
 
 ---
+## CVE-2017-5487 (2017-01-15T02:59:00)
+> wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php in the REST API implementation in WordPress 4.7 before 4.7.1 does not properly restrict listings of post authors, which allows remote attackers to obtain sensitive information via a wp-json/wp/v2/users request.
+- [kr4dd/CVE-2017-5487](https://github.com/kr4dd/CVE-2017-5487)	<img alt="forks" src="https://img.shields.io/github/forks/kr4dd/CVE-2017-5487">	<img alt="stars" src="https://img.shields.io/github/stars/kr4dd/CVE-2017-5487">
+- [zkhalidul/GrabberWP-CVE-2017-5487](https://github.com/zkhalidul/GrabberWP-CVE-2017-5487)	<img alt="forks" src="https://img.shields.io/github/forks/zkhalidul/GrabberWP-CVE-2017-5487">	<img alt="stars" src="https://img.shields.io/github/stars/zkhalidul/GrabberWP-CVE-2017-5487">
+- [patilkr/wp-CVE-2017-5487-exploit](https://github.com/patilkr/wp-CVE-2017-5487-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/patilkr/wp-CVE-2017-5487-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/patilkr/wp-CVE-2017-5487-exploit">
+- [GeunSam2/CVE-2017-5487](https://github.com/GeunSam2/CVE-2017-5487)	<img alt="forks" src="https://img.shields.io/github/forks/GeunSam2/CVE-2017-5487">	<img alt="stars" src="https://img.shields.io/github/stars/GeunSam2/CVE-2017-5487">
+- [R3K1NG/wpUsersScan](https://github.com/R3K1NG/wpUsersScan)	<img alt="forks" src="https://img.shields.io/github/forks/R3K1NG/wpUsersScan">	<img alt="stars" src="https://img.shields.io/github/stars/R3K1NG/wpUsersScan">
+- [teambugsbunny/wpUsersScan](https://github.com/teambugsbunny/wpUsersScan)	<img alt="forks" src="https://img.shields.io/github/forks/teambugsbunny/wpUsersScan">	<img alt="stars" src="https://img.shields.io/github/stars/teambugsbunny/wpUsersScan">
+
+---
 ## CVE-2017-2606 (2018-05-08T20:29:00)
 > Jenkins before versions 2.44, 2.32.2 is vulnerable to an information exposure in the internal API that allows access to item names that should not be visible (SECURITY-380). This only affects anonymous users (other users legitimately have access) that were able to get a list of items via an UnprotectedRootAction.
 - [Davi-afk/jenkins-cve-CVE-2017-2606](https://github.com/Davi-afk/jenkins-cve-CVE-2017-2606)	<img alt="forks" src="https://img.shields.io/github/forks/Davi-afk/jenkins-cve-CVE-2017-2606">	<img alt="stars" src="https://img.shields.io/github/stars/Davi-afk/jenkins-cve-CVE-2017-2606">
