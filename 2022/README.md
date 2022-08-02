@@ -388,6 +388,7 @@
 > Cewolf in Zoho ManageEngine ADAudit Plus before 7060 is vulnerable to an unauthenticated XXE attack that leads to Remote Code Execution.
 - [rbowes-r7/manageengine-auditad-cve-2022-28219](https://github.com/rbowes-r7/manageengine-auditad-cve-2022-28219)	<img alt="forks" src="https://img.shields.io/github/forks/rbowes-r7/manageengine-auditad-cve-2022-28219">	<img alt="stars" src="https://img.shields.io/github/stars/rbowes-r7/manageengine-auditad-cve-2022-28219">
 - [horizon3ai/CVE-2022-28219](https://github.com/horizon3ai/CVE-2022-28219)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2022-28219">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2022-28219">
+- [aeifkz/CVE-2022-28219-Like](https://github.com/aeifkz/CVE-2022-28219-Like)	<img alt="forks" src="https://img.shields.io/github/forks/aeifkz/CVE-2022-28219-Like">	<img alt="stars" src="https://img.shields.io/github/stars/aeifkz/CVE-2022-28219-Like">
 
 ---
 ## CVE-2022-28117 (2022-04-28T15:15:00)
