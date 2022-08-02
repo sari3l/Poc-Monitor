@@ -48,6 +48,7 @@
 - [merlinepedra/CVE-2022-34918-LPE-PoC](https://github.com/merlinepedra/CVE-2022-34918-LPE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/merlinepedra/CVE-2022-34918-LPE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/merlinepedra/CVE-2022-34918-LPE-PoC">
 - [merlinepedra25/CVE-2022-34918-LPE-PoC](https://github.com/merlinepedra25/CVE-2022-34918-LPE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/merlinepedra25/CVE-2022-34918-LPE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/merlinepedra25/CVE-2022-34918-LPE-PoC">
 - [linulinu/CVE-2022-34918](https://github.com/linulinu/CVE-2022-34918)	<img alt="forks" src="https://img.shields.io/github/forks/linulinu/CVE-2022-34918">	<img alt="stars" src="https://img.shields.io/github/stars/linulinu/CVE-2022-34918">
+- [veritas501/CVE-2022-34918](https://github.com/veritas501/CVE-2022-34918)	<img alt="forks" src="https://img.shields.io/github/forks/veritas501/CVE-2022-34918">	<img alt="stars" src="https://img.shields.io/github/stars/veritas501/CVE-2022-34918">
 
 ---
 ## CVE-2022-34305 (2022-06-23T11:15:00)
