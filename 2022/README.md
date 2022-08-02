@@ -9,6 +9,7 @@
 ## CVE-2022-36946 (2022-07-27T20:15:00)
 > nfqnl_mangle in net/netfilter/nfnetlink_queue.c in the Linux kernel through 5.18.14 allows remote attackers to cause a denial of service (panic) because, in the case of an nf_queue verdict with a one-byte nfta_payload attribute, an skb_pull can encounter a negative skb->len.
 - [Pwnzer0tt1/CVE-2022-36946](https://github.com/Pwnzer0tt1/CVE-2022-36946)	<img alt="forks" src="https://img.shields.io/github/forks/Pwnzer0tt1/CVE-2022-36946">	<img alt="stars" src="https://img.shields.io/github/stars/Pwnzer0tt1/CVE-2022-36946">
+- [XmasSnowISBACK/CVE-2022-36946](https://github.com/XmasSnowISBACK/CVE-2022-36946)	<img alt="forks" src="https://img.shields.io/github/forks/XmasSnowISBACK/CVE-2022-36946">	<img alt="stars" src="https://img.shields.io/github/stars/XmasSnowISBACK/CVE-2022-36946">
 
 ---
 ## CVE-2022-35899 (2022-07-21T17:15:00)
@@ -900,6 +901,7 @@
 - [edr1412/Dirty-Pipe](https://github.com/edr1412/Dirty-Pipe)	<img alt="forks" src="https://img.shields.io/github/forks/edr1412/Dirty-Pipe">	<img alt="stars" src="https://img.shields.io/github/stars/edr1412/Dirty-Pipe">
 - [airbus-cert/dirtypipe-ebpf_detection](https://github.com/airbus-cert/dirtypipe-ebpf_detection)	<img alt="forks" src="https://img.shields.io/github/forks/airbus-cert/dirtypipe-ebpf_detection">	<img alt="stars" src="https://img.shields.io/github/stars/airbus-cert/dirtypipe-ebpf_detection">
 - [eduquintanilha/CVE-2022-0847-DirtyPipe-Exploits](https://github.com/eduquintanilha/CVE-2022-0847-DirtyPipe-Exploits)	<img alt="forks" src="https://img.shields.io/github/forks/eduquintanilha/CVE-2022-0847-DirtyPipe-Exploits">	<img alt="stars" src="https://img.shields.io/github/stars/eduquintanilha/CVE-2022-0847-DirtyPipe-Exploits">
+- [XmasSnowISBACK/CVE-2022-0847-DirtyPipe-Exploits](https://github.com/XmasSnowISBACK/CVE-2022-0847-DirtyPipe-Exploits)	<img alt="forks" src="https://img.shields.io/github/forks/XmasSnowISBACK/CVE-2022-0847-DirtyPipe-Exploits">	<img alt="stars" src="https://img.shields.io/github/stars/XmasSnowISBACK/CVE-2022-0847-DirtyPipe-Exploits">
 
 ---
 ## CVE-2022-0666 (2022-02-18T15:15:00)
