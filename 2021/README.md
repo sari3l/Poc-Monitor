@@ -47,6 +47,11 @@
 - [vidrez/Ethical-Hacking-Report-Log4j](https://github.com/vidrez/Ethical-Hacking-Report-Log4j)	<img alt="forks" src="https://img.shields.io/github/forks/vidrez/Ethical-Hacking-Report-Log4j">	<img alt="stars" src="https://img.shields.io/github/stars/vidrez/Ethical-Hacking-Report-Log4j">
 - [Vulnmachines/log4jshell_CVE-2021-44228](https://github.com/Vulnmachines/log4jshell_CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/log4jshell_CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/log4jshell_CVE-2021-44228">
 - [tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce](https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce)	<img alt="forks" src="https://img.shields.io/github/forks/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce">	<img alt="stars" src="https://img.shields.io/github/stars/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce">
+- [vino-theva/CVE-2021-44228](https://github.com/vino-theva/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/vino-theva/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/vino-theva/CVE-2021-44228">
+- [hillu/local-log4j-vuln-scanner](https://github.com/hillu/local-log4j-vuln-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/hillu/local-log4j-vuln-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/hillu/local-log4j-vuln-scanner">
+- [adilsoybali/Log4j-RCE-Scanner](https://github.com/adilsoybali/Log4j-RCE-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/adilsoybali/Log4j-RCE-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/adilsoybali/Log4j-RCE-Scanner">
+- [christophetd/log4shell-vulnerable-app](https://github.com/christophetd/log4shell-vulnerable-app)	<img alt="forks" src="https://img.shields.io/github/forks/christophetd/log4shell-vulnerable-app">	<img alt="stars" src="https://img.shields.io/github/stars/christophetd/log4shell-vulnerable-app">
+- [aajuvonen/log4j-hackrf-waveforms](https://github.com/aajuvonen/log4j-hackrf-waveforms)	<img alt="forks" src="https://img.shields.io/github/forks/aajuvonen/log4j-hackrf-waveforms">	<img alt="stars" src="https://img.shields.io/github/stars/aajuvonen/log4j-hackrf-waveforms">
 
 ---
 ## CVE-2021-44158 (2022-01-03T10:15:00)
