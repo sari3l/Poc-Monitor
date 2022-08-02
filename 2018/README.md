@@ -93,6 +93,8 @@
 - [MohamedTarekq/test-CVE-2018-6574-](https://github.com/MohamedTarekq/test-CVE-2018-6574-)	<img alt="forks" src="https://img.shields.io/github/forks/MohamedTarekq/test-CVE-2018-6574-">	<img alt="stars" src="https://img.shields.io/github/stars/MohamedTarekq/test-CVE-2018-6574-">
 - [Logan-Elliott/CVE-2018-6574-go-get-RCE](https://github.com/Logan-Elliott/CVE-2018-6574-go-get-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Logan-Elliott/CVE-2018-6574-go-get-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Logan-Elliott/CVE-2018-6574-go-get-RCE">
 - [mmeza-developer/go--CVE-2018-6574](https://github.com/mmeza-developer/go--CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/mmeza-developer/go--CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/mmeza-developer/go--CVE-2018-6574">
+- [guialvesf/CVE-2018-6574](https://github.com/guialvesf/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/guialvesf/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/guialvesf/CVE-2018-6574">
+- [theJuan1112/pentesterlab-cve-2018-6574](https://github.com/theJuan1112/pentesterlab-cve-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/theJuan1112/pentesterlab-cve-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/theJuan1112/pentesterlab-cve-2018-6574">
 
 ---
 ## CVE-2018-3990 (2019-02-05T23:29:00)
