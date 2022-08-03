@@ -59,6 +59,12 @@
 - [Expl0desploit/CVE-2021-44158](https://github.com/Expl0desploit/CVE-2021-44158)	<img alt="forks" src="https://img.shields.io/github/forks/Expl0desploit/CVE-2021-44158">	<img alt="stars" src="https://img.shields.io/github/stars/Expl0desploit/CVE-2021-44158">
 
 ---
+## CVE-2021-43617 (2021-11-14T16:15:00)
+> Laravel Framework through 8.70.2 does not sufficiently block the upload of executable PHP content because Illuminate/Validation/Concerns/ValidatesAttributes.php lacks a check for .phar files, which are handled as application/x-httpd-php on systems based on Debian. NOTE: this CVE Record is for Laravel Framework, and is unrelated to any reports concerning incorrectly written user applications for image upload.
+- [aweiiy/CVE-2021-43617](https://github.com/aweiiy/CVE-2021-43617)	<img alt="forks" src="https://img.shields.io/github/forks/aweiiy/CVE-2021-43617">	<img alt="stars" src="https://img.shields.io/github/stars/aweiiy/CVE-2021-43617">
+- [kombat1/CVE-2021-43617](https://github.com/kombat1/CVE-2021-43617)	<img alt="forks" src="https://img.shields.io/github/forks/kombat1/CVE-2021-43617">	<img alt="stars" src="https://img.shields.io/github/stars/kombat1/CVE-2021-43617">
+
+---
 ## CVE-2021-43229 (2021-12-15T15:15:00)
 > Windows NTFS Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-43230, CVE-2021-43231.
 - [Citizen13X/CVE-2021-43229](https://github.com/Citizen13X/CVE-2021-43229)	<img alt="forks" src="https://img.shields.io/github/forks/Citizen13X/CVE-2021-43229">	<img alt="stars" src="https://img.shields.io/github/stars/Citizen13X/CVE-2021-43229">
