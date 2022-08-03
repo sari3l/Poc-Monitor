@@ -308,6 +308,16 @@
 - [JiaJinRong12138/CVE-2021-36955-EXP](https://github.com/JiaJinRong12138/CVE-2021-36955-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/JiaJinRong12138/CVE-2021-36955-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/JiaJinRong12138/CVE-2021-36955-EXP">
 
 ---
+## CVE-2021-36260 (2021-09-22T13:15:00)
+> A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input validation, attacker can exploit the vulnerability to launch a command injection attack by sending some messages with malicious commands.
+- [Cuerz/CVE-2021-36260](https://github.com/Cuerz/CVE-2021-36260)	<img alt="forks" src="https://img.shields.io/github/forks/Cuerz/CVE-2021-36260">	<img alt="stars" src="https://img.shields.io/github/stars/Cuerz/CVE-2021-36260">
+- [jorhelp/Ingram](https://github.com/jorhelp/Ingram)	<img alt="forks" src="https://img.shields.io/github/forks/jorhelp/Ingram">	<img alt="stars" src="https://img.shields.io/github/stars/jorhelp/Ingram">
+- [tuntin9x/CheckHKRCE](https://github.com/tuntin9x/CheckHKRCE)	<img alt="forks" src="https://img.shields.io/github/forks/tuntin9x/CheckHKRCE">	<img alt="stars" src="https://img.shields.io/github/stars/tuntin9x/CheckHKRCE">
+- [rabbitsafe/CVE-2021-36260](https://github.com/rabbitsafe/CVE-2021-36260)	<img alt="forks" src="https://img.shields.io/github/forks/rabbitsafe/CVE-2021-36260">	<img alt="stars" src="https://img.shields.io/github/stars/rabbitsafe/CVE-2021-36260">
+- [TaroballzChen/CVE-2021-36260-metasploit](https://github.com/TaroballzChen/CVE-2021-36260-metasploit)	<img alt="forks" src="https://img.shields.io/github/forks/TaroballzChen/CVE-2021-36260-metasploit">	<img alt="stars" src="https://img.shields.io/github/stars/TaroballzChen/CVE-2021-36260-metasploit">
+- [Aiminsun/CVE-2021-36260](https://github.com/Aiminsun/CVE-2021-36260)	<img alt="forks" src="https://img.shields.io/github/forks/Aiminsun/CVE-2021-36260">	<img alt="stars" src="https://img.shields.io/github/stars/Aiminsun/CVE-2021-36260">
+
+---
 ## CVE-2021-3560 (2022-02-16T19:15:00)
 > It was found that polkit could be tricked into bypassing the credential checks for D-Bus requests, elevating the privileges of the requestor to the root user. This flaw could be used by an unprivileged local attacker to, for example, create a new local administrator. The highest threat from this vulnerability is to data confidentiality and integrity as well as system availability.
 - [UNICORDev/exploit-CVE-2021-3560](https://github.com/UNICORDev/exploit-CVE-2021-3560)	<img alt="forks" src="https://img.shields.io/github/forks/UNICORDev/exploit-CVE-2021-3560">	<img alt="stars" src="https://img.shields.io/github/stars/UNICORDev/exploit-CVE-2021-3560">
@@ -380,6 +390,11 @@
 - [ajtech-hue/CVE-2021-3156-Mitigation-ShellScript-Build](https://github.com/ajtech-hue/CVE-2021-3156-Mitigation-ShellScript-Build)	<img alt="forks" src="https://img.shields.io/github/forks/ajtech-hue/CVE-2021-3156-Mitigation-ShellScript-Build">	<img alt="stars" src="https://img.shields.io/github/stars/ajtech-hue/CVE-2021-3156-Mitigation-ShellScript-Build">
 - [capturingcats/CVE-2021-3156](https://github.com/capturingcats/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/capturingcats/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/capturingcats/CVE-2021-3156">
 - [password520/CVE-2021-3156](https://github.com/password520/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/password520/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/password520/CVE-2021-3156">
+
+---
+## CVE-2021-3060 (2021-11-10T17:15:00)
+> An OS command injection vulnerability in the Simple Certificate Enrollment Protocol (SCEP) feature of PAN-OS software allows an unauthenticated network-based attacker with specific knowledge of the firewall configuration to execute arbitrary code with root user privileges. The attacker must have network access to the GlobalProtect interfaces to exploit this issue. This issue impacts: PAN-OS 8.1 versions earlier than PAN-OS 8.1.20-h1; PAN-OS 9.0 versions earlier than PAN-OS 9.0.14-h3; PAN-OS 9.1 versions earlier than PAN-OS 9.1.11-h2; PAN-OS 10.0 versions earlier than PAN-OS 10.0.8; PAN-OS 10.1 versions earlier than PAN-OS 10.1.3. Prisma Access customers with Prisma Access 2.1 Preferred and Prisma Access 2.1 Innovation firewalls are impacted by this issue.
+- [timb-machine-mirrors/cve-2021-3060.py](https://github.com/timb-machine-mirrors/cve-2021-3060.py)	<img alt="forks" src="https://img.shields.io/github/forks/timb-machine-mirrors/cve-2021-3060.py">	<img alt="stars" src="https://img.shields.io/github/stars/timb-machine-mirrors/cve-2021-3060.py">
 
 ---
 ## CVE-2021-30461 (2021-05-29T14:15:00)

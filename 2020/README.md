@@ -119,6 +119,11 @@
 - [mansoorr123/wp-file-manager-CVE-2020-25213](https://github.com/mansoorr123/wp-file-manager-CVE-2020-25213)	<img alt="forks" src="https://img.shields.io/github/forks/mansoorr123/wp-file-manager-CVE-2020-25213">	<img alt="stars" src="https://img.shields.io/github/stars/mansoorr123/wp-file-manager-CVE-2020-25213">
 
 ---
+## CVE-2020-2038 (2020-09-09T17:15:00)
+> An OS Command Injection vulnerability in the PAN-OS management interface that allows authenticated administrators to execute arbitrary OS commands with root privileges. This issue impacts: PAN-OS 9.0 versions earlier than 9.0.10; PAN-OS 9.1 versions earlier than 9.1.4; PAN-OS 10.0 versions earlier than 10.0.1.
+- [und3sc0n0c1d0/CVE-2020-2038](https://github.com/und3sc0n0c1d0/CVE-2020-2038)	<img alt="forks" src="https://img.shields.io/github/forks/und3sc0n0c1d0/CVE-2020-2038">	<img alt="stars" src="https://img.shields.io/github/stars/und3sc0n0c1d0/CVE-2020-2038">
+
+---
 ## CVE-2020-17519 (2021-01-05T12:15:00)
 > A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.
 - [trhacknon/CVE-2020-17519](https://github.com/trhacknon/CVE-2020-17519)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2020-17519">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2020-17519">
