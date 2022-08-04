@@ -312,6 +312,11 @@
 - [9lyph/CVE-2022-29593](https://github.com/9lyph/CVE-2022-29593)	<img alt="forks" src="https://img.shields.io/github/forks/9lyph/CVE-2022-29593">	<img alt="stars" src="https://img.shields.io/github/stars/9lyph/CVE-2022-29593">
 
 ---
+## CVE-2022-29582 (2022-04-22T16:15:00)
+> In the Linux kernel before 5.17.3, fs/io_uring.c has a use-after-free due to a race condition in io_uring timeouts. This can be triggered by a local user who has no access to any user namespace; however, the race condition perhaps can only be exploited infrequently.
+- [Ruia-ruia/CVE-2022-29582-Exploit](https://github.com/Ruia-ruia/CVE-2022-29582-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Ruia-ruia/CVE-2022-29582-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Ruia-ruia/CVE-2022-29582-Exploit">
+
+---
 ## CVE-2022-29554 ()
 > 
 - [ComparedArray/printix-CVE-2022-29554](https://github.com/ComparedArray/printix-CVE-2022-29554)	<img alt="forks" src="https://img.shields.io/github/forks/ComparedArray/printix-CVE-2022-29554">	<img alt="stars" src="https://img.shields.io/github/stars/ComparedArray/printix-CVE-2022-29554">
