@@ -27,6 +27,11 @@
 - [ly1g3/Joplin-CVE-2022-35131](https://github.com/ly1g3/Joplin-CVE-2022-35131)	<img alt="forks" src="https://img.shields.io/github/forks/ly1g3/Joplin-CVE-2022-35131">	<img alt="stars" src="https://img.shields.io/github/stars/ly1g3/Joplin-CVE-2022-35131">
 
 ---
+## CVE-2022-34970 (2022-08-04T19:15:00)
+> Crow before v1.0+4 was discovered to contain a buffer overflow via the function qs_parse at query_string.h. This vulnerability allows attackers to cause a Denial of Service (DoS) via a crafted input.
+- [0xhebi/CVE-2022-34970](https://github.com/0xhebi/CVE-2022-34970)	<img alt="forks" src="https://img.shields.io/github/forks/0xhebi/CVE-2022-34970">	<img alt="stars" src="https://img.shields.io/github/stars/0xhebi/CVE-2022-34970">
+
+---
 ## CVE-2022-34963 (2022-07-25T15:15:00)
 > OpenTeknik LLC OSSN OPEN SOURCE SOCIAL NETWORK v6.3 LTS was discovered to contain a stored cross-site scripting (XSS) vulnerability via the News Feed module.
 - [bypazs/CVE-2022-34963](https://github.com/bypazs/CVE-2022-34963)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/CVE-2022-34963">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/CVE-2022-34963">
