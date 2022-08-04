@@ -158,6 +158,7 @@
 - [asaotomo/CVE-2021-42013-Apache-RCE-Poc-Exp](https://github.com/asaotomo/CVE-2021-42013-Apache-RCE-Poc-Exp)	<img alt="forks" src="https://img.shields.io/github/forks/asaotomo/CVE-2021-42013-Apache-RCE-Poc-Exp">	<img alt="stars" src="https://img.shields.io/github/stars/asaotomo/CVE-2021-42013-Apache-RCE-Poc-Exp">
 - [Ls4ss/CVE-2021-41773_CVE-2021-42013](https://github.com/Ls4ss/CVE-2021-41773_CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/Ls4ss/CVE-2021-41773_CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/Ls4ss/CVE-2021-41773_CVE-2021-42013">
 - [i6c/MASS_CVE-2021-41773](https://github.com/i6c/MASS_CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/i6c/MASS_CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/i6c/MASS_CVE-2021-41773">
+- [Plunder283/CVE-2021-41773](https://github.com/Plunder283/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/Plunder283/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/Plunder283/CVE-2021-41773">
 
 ---
 ## CVE-2021-41652 (2022-03-01T23:15:00)
