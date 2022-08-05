@@ -521,6 +521,11 @@
 - [trhacknon/CVE-2021-25003](https://github.com/trhacknon/CVE-2021-25003)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2021-25003">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2021-25003">
 
 ---
+## CVE-2021-23841 (2021-02-16T17:15:00)
+> The OpenSSL public API function X509_issuer_and_serial_hash() attempts to create a unique hash value based on the issuer and serial number data contained within an X509 certificate. However it fails to correctly handle any errors that may occur while parsing the issuer field (which might occur if the issuer field is maliciously constructed). This may subsequently result in a NULL pointer deref and a crash leading to a potential denial of service attack. The function X509_issuer_and_serial_hash() is never directly called by OpenSSL itself so applications are only vulnerable if they use this function directly and they use it on certificates that may have been obtained from untrusted sources. OpenSSL versions 1.1.1i and below are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1j. OpenSSL versions 1.0.2x and below are affected by this issue. However OpenSSL 1.0.2 is out of support and no longer receiving public updates. Premium support customers of OpenSSL 1.0.2 should upgrade to 1.0.2y. Other users should upgrade to 1.1.1j. Fixed in OpenSSL 1.1.1j (Affected 1.1.1-1.1.1i). Fixed in OpenSSL 1.0.2y (Affected 1.0.2-1.0.2x).
+- [Satheesh575555/Openssl_1_1_0_CVE-2021-23841](https://github.com/Satheesh575555/Openssl_1_1_0_CVE-2021-23841)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/Openssl_1_1_0_CVE-2021-23841">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/Openssl_1_1_0_CVE-2021-23841">
+
+---
 ## CVE-2021-23017 (2021-06-01T13:15:00)
 > A security issue in nginx resolver was identified, which might allow an attacker who is able to forge UDP packets from the DNS server to cause 1-byte memory overwrite, resulting in worker process crash or potential other impact.
 - [M507/CVE-2021-23017-PoC](https://github.com/M507/CVE-2021-23017-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/M507/CVE-2021-23017-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/M507/CVE-2021-23017-PoC">
