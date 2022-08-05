@@ -6,6 +6,24 @@
 - [rvizx/CVE-2016-10924](https://github.com/rvizx/CVE-2016-10924)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2016-10924">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2016-10924">
 
 ---
+## CVE-2016-10033 (2016-12-30T19:59:00)
+> The mailSend function in the isMail transport in PHPMailer before 5.2.18 might allow remote attackers to pass extra parameters to the mail command and consequently execute arbitrary code via a \" (backslash double quote) in a crafted Sender property.
+- [zeeshanbhattined/exploit-CVE-2016-10033](https://github.com/zeeshanbhattined/exploit-CVE-2016-10033)	<img alt="forks" src="https://img.shields.io/github/forks/zeeshanbhattined/exploit-CVE-2016-10033">	<img alt="stars" src="https://img.shields.io/github/stars/zeeshanbhattined/exploit-CVE-2016-10033">
+- [j4k0m/CVE-2016-10033](https://github.com/j4k0m/CVE-2016-10033)	<img alt="forks" src="https://img.shields.io/github/forks/j4k0m/CVE-2016-10033">	<img alt="stars" src="https://img.shields.io/github/stars/j4k0m/CVE-2016-10033">
+- [cved-sources/cve-2016-10033](https://github.com/cved-sources/cve-2016-10033)	<img alt="forks" src="https://img.shields.io/github/forks/cved-sources/cve-2016-10033">	<img alt="stars" src="https://img.shields.io/github/stars/cved-sources/cve-2016-10033">
+- [opsxcq/exploit-CVE-2016-10033](https://github.com/opsxcq/exploit-CVE-2016-10033)	<img alt="forks" src="https://img.shields.io/github/forks/opsxcq/exploit-CVE-2016-10033">	<img alt="stars" src="https://img.shields.io/github/stars/opsxcq/exploit-CVE-2016-10033">
+- [0x00-0x00/CVE-2016-10033](https://github.com/0x00-0x00/CVE-2016-10033)	<img alt="forks" src="https://img.shields.io/github/forks/0x00-0x00/CVE-2016-10033">	<img alt="stars" src="https://img.shields.io/github/stars/0x00-0x00/CVE-2016-10033">
+- [awidardi/opsxcq-cve-2016-10033](https://github.com/awidardi/opsxcq-cve-2016-10033)	<img alt="forks" src="https://img.shields.io/github/forks/awidardi/opsxcq-cve-2016-10033">	<img alt="stars" src="https://img.shields.io/github/stars/awidardi/opsxcq-cve-2016-10033">
+- [pedro823/cve-2016-10033-45](https://github.com/pedro823/cve-2016-10033-45)	<img alt="forks" src="https://img.shields.io/github/forks/pedro823/cve-2016-10033-45">	<img alt="stars" src="https://img.shields.io/github/stars/pedro823/cve-2016-10033-45">
+- [liusec/WP-CVE-2016-10033](https://github.com/liusec/WP-CVE-2016-10033)	<img alt="forks" src="https://img.shields.io/github/forks/liusec/WP-CVE-2016-10033">	<img alt="stars" src="https://img.shields.io/github/stars/liusec/WP-CVE-2016-10033">
+- [qwertyuiop12138/CVE-2016-10033](https://github.com/qwertyuiop12138/CVE-2016-10033)	<img alt="forks" src="https://img.shields.io/github/forks/qwertyuiop12138/CVE-2016-10033">	<img alt="stars" src="https://img.shields.io/github/stars/qwertyuiop12138/CVE-2016-10033">
+- [chipironcin/CVE-2016-10033](https://github.com/chipironcin/CVE-2016-10033)	<img alt="forks" src="https://img.shields.io/github/forks/chipironcin/CVE-2016-10033">	<img alt="stars" src="https://img.shields.io/github/stars/chipironcin/CVE-2016-10033">
+- [Bajunan/CVE-2016-10033](https://github.com/Bajunan/CVE-2016-10033)	<img alt="forks" src="https://img.shields.io/github/forks/Bajunan/CVE-2016-10033">	<img alt="stars" src="https://img.shields.io/github/stars/Bajunan/CVE-2016-10033">
+- [GeneralTesler/CVE-2016-10033](https://github.com/GeneralTesler/CVE-2016-10033)	<img alt="forks" src="https://img.shields.io/github/forks/GeneralTesler/CVE-2016-10033">	<img alt="stars" src="https://img.shields.io/github/stars/GeneralTesler/CVE-2016-10033">
+- [paralelo14/CVE_2016-10033](https://github.com/paralelo14/CVE_2016-10033)	<img alt="forks" src="https://img.shields.io/github/forks/paralelo14/CVE_2016-10033">	<img alt="stars" src="https://img.shields.io/github/stars/paralelo14/CVE_2016-10033">
+- [Zenexer/safeshell](https://github.com/Zenexer/safeshell)	<img alt="forks" src="https://img.shields.io/github/forks/Zenexer/safeshell">	<img alt="stars" src="https://img.shields.io/github/stars/Zenexer/safeshell">
+
+---
 ## CVE-2016-0728 (2016-02-08T03:59:00)
 > The join_session_keyring function in security/keys/process_keys.c in the Linux kernel before 4.4.1 mishandles object references in a certain error case, which allows local users to gain privileges or cause a denial of service (integer overflow and use-after-free) via crafted keyctl commands. <a href="http://cwe.mitre.org/data/definitions/190.html">CWE-190: Integer Overflow or Wraparound</a> <br />
 
