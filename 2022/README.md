@@ -193,6 +193,11 @@
 - [ly1g3/Mailcow-CVE-2022-31138](https://github.com/ly1g3/Mailcow-CVE-2022-31138)	<img alt="forks" src="https://img.shields.io/github/forks/ly1g3/Mailcow-CVE-2022-31138">	<img alt="stars" src="https://img.shields.io/github/stars/ly1g3/Mailcow-CVE-2022-31138">
 
 ---
+## CVE-2022-31061 (2022-06-28T18:15:00)
+> GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing. In affected versions there is a SQL injection vulnerability which is possible on login page. No user credentials are required to exploit this vulnerability. Users are advised to upgrade as soon as possible. There are no known workarounds for this issue.
+- [Vu0r1/CVE-2022-31061](https://github.com/Vu0r1/CVE-2022-31061)	<img alt="forks" src="https://img.shields.io/github/forks/Vu0r1/CVE-2022-31061">	<img alt="stars" src="https://img.shields.io/github/stars/Vu0r1/CVE-2022-31061">
+
+---
 ## CVE-2022-30929 (2022-07-06T15:15:00)
 > Mini-Tmall v1.0 is vulnerable to Insecure Permissions via tomcat-embed-jasper.
 - [AgainstTheLight/CVE-2022-30929](https://github.com/AgainstTheLight/CVE-2022-30929)	<img alt="forks" src="https://img.shields.io/github/forks/AgainstTheLight/CVE-2022-30929">	<img alt="stars" src="https://img.shields.io/github/stars/AgainstTheLight/CVE-2022-30929">
