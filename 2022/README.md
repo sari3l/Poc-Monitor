@@ -714,6 +714,7 @@
 ## CVE-2022-22620 (2022-03-18T18:15:00)
 > A use after free issue was addressed with improved memory management. This issue is fixed in macOS Monterey 12.2.1, iOS 15.3.1 and iPadOS 15.3.1, Safari 15.3 (v. 16612.4.9.1.8 and 15612.4.9.1.8). Processing maliciously crafted web content may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited..
 - [kmeps4/CVE-2022-22620](https://github.com/kmeps4/CVE-2022-22620)	<img alt="forks" src="https://img.shields.io/github/forks/kmeps4/CVE-2022-22620">	<img alt="stars" src="https://img.shields.io/github/stars/kmeps4/CVE-2022-22620">
+- [springsec/CVE-2022-22620](https://github.com/springsec/CVE-2022-22620)	<img alt="forks" src="https://img.shields.io/github/forks/springsec/CVE-2022-22620">	<img alt="stars" src="https://img.shields.io/github/stars/springsec/CVE-2022-22620">
 
 ---
 ## CVE-2022-22588 (2022-03-18T18:15:00)
