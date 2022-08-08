@@ -644,6 +644,13 @@
 - [ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-20138](https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-20138)	<img alt="forks" src="https://img.shields.io/github/forks/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-20138">	<img alt="stars" src="https://img.shields.io/github/stars/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-20138">
 
 ---
+## CVE-2021-20038 (2021-12-08T10:15:00)
+> A Stack-based buffer overflow vulnerability in SMA100 Apache httpd server's mod_cgi module environment variables allows a remote unauthenticated attacker to potentially execute code as a 'nobody' user in the appliance. This vulnerability affected SMA 200, 210, 400, 410 and 500v appliances firmware 10.2.0.8-37sv, 10.2.1.1-19sv, 10.2.1.2-24sv and earlier versions.
+- [vesperp/CVE-2021-20038-SonicWall-RCE](https://github.com/vesperp/CVE-2021-20038-SonicWall-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/vesperp/CVE-2021-20038-SonicWall-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/vesperp/CVE-2021-20038-SonicWall-RCE">
+- [S3ntinelX/nmap-scripts](https://github.com/S3ntinelX/nmap-scripts)	<img alt="forks" src="https://img.shields.io/github/forks/S3ntinelX/nmap-scripts">	<img alt="stars" src="https://img.shields.io/github/stars/S3ntinelX/nmap-scripts">
+- [jbaines-r7/badblood](https://github.com/jbaines-r7/badblood)	<img alt="forks" src="https://img.shields.io/github/forks/jbaines-r7/badblood">	<img alt="stars" src="https://img.shields.io/github/stars/jbaines-r7/badblood">
+
+---
 ## CVE-2021-0520 (2021-06-21T17:15:00)
 > In several functions of MemoryFileSystem.cpp and related files, there is a possible use after free due to a race condition. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-11 Android-10Android ID: A-176237595
 - [nidhi7598/frameworks_av_AOSP_10_r33_CVE-2021-0520](https://github.com/nidhi7598/frameworks_av_AOSP_10_r33_CVE-2021-0520)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_av_AOSP_10_r33_CVE-2021-0520">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_av_AOSP_10_r33_CVE-2021-0520">
