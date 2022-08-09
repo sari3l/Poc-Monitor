@@ -193,6 +193,12 @@
 - [ly1g3/Mailcow-CVE-2022-31138](https://github.com/ly1g3/Mailcow-CVE-2022-31138)	<img alt="forks" src="https://img.shields.io/github/forks/ly1g3/Mailcow-CVE-2022-31138">	<img alt="stars" src="https://img.shields.io/github/stars/ly1g3/Mailcow-CVE-2022-31138">
 
 ---
+## CVE-2022-31101 (2022-06-27T23:15:00)
+> prestashop/blockwishlist is a prestashop extension which adds a block containing the customer's wishlists. In affected versions an authenticated customer can perform SQL injection. This issue is fixed in version 2.1.1. Users are advised to upgrade. There are no known workarounds for this issue.
+- [karthikuj/CVE-2022-31101](https://github.com/karthikuj/CVE-2022-31101)	<img alt="forks" src="https://img.shields.io/github/forks/karthikuj/CVE-2022-31101">	<img alt="stars" src="https://img.shields.io/github/stars/karthikuj/CVE-2022-31101">
+- [MathiasReker/blmvuln](https://github.com/MathiasReker/blmvuln)	<img alt="forks" src="https://img.shields.io/github/forks/MathiasReker/blmvuln">	<img alt="stars" src="https://img.shields.io/github/stars/MathiasReker/blmvuln">
+
+---
 ## CVE-2022-31061 (2022-06-28T18:15:00)
 > GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing. In affected versions there is a SQL injection vulnerability which is possible on login page. No user credentials are required to exploit this vulnerability. Users are advised to upgrade as soon as possible. There are no known workarounds for this issue.
 - [Vu0r1-sec/CVE-2022-31061](https://github.com/Vu0r1-sec/CVE-2022-31061)	<img alt="forks" src="https://img.shields.io/github/forks/Vu0r1-sec/CVE-2022-31061">	<img alt="stars" src="https://img.shields.io/github/stars/Vu0r1-sec/CVE-2022-31061">
