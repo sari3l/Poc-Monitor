@@ -317,6 +317,11 @@
 - [ComparedArray/printix-CVE-2022-30006](https://github.com/ComparedArray/printix-CVE-2022-30006)	<img alt="forks" src="https://img.shields.io/github/forks/ComparedArray/printix-CVE-2022-30006">	<img alt="stars" src="https://img.shields.io/github/stars/ComparedArray/printix-CVE-2022-30006">
 
 ---
+## CVE-2022-29968 (2022-05-02T04:15:00)
+> An issue was discovered in the Linux kernel through 5.17.5. io_rw_init_file in fs/io_uring.c lacks initialization of kiocb->private.
+- [jprx/CVE-2022-29968](https://github.com/jprx/CVE-2022-29968)	<img alt="forks" src="https://img.shields.io/github/forks/jprx/CVE-2022-29968">	<img alt="stars" src="https://img.shields.io/github/stars/jprx/CVE-2022-29968">
+
+---
 ## CVE-2022-29885 (2022-05-12T08:15:00)
 > The documentation of Apache Tomcat 10.1.0-M1 to 10.1.0-M14, 10.0.0-M1 to 10.0.20, 9.0.13 to 9.0.62 and 8.5.38 to 8.5.78 for the EncryptInterceptor incorrectly stated it enabled Tomcat clustering to run over an untrusted network. This was not correct. While the EncryptInterceptor does provide confidentiality and integrity protection, it does not protect against all risks associated with running over any untrusted network, particularly DoS risks.
 - [4ra1n/CVE-2022-29885](https://github.com/4ra1n/CVE-2022-29885)	<img alt="forks" src="https://img.shields.io/github/forks/4ra1n/CVE-2022-29885">	<img alt="stars" src="https://img.shields.io/github/stars/4ra1n/CVE-2022-29885">
