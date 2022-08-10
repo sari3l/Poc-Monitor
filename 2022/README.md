@@ -739,6 +739,11 @@
 - [mchoudhary15/CVE-2022-22029-NFS-Server-](https://github.com/mchoudhary15/CVE-2022-22029-NFS-Server-)	<img alt="forks" src="https://img.shields.io/github/forks/mchoudhary15/CVE-2022-22029-NFS-Server-">	<img alt="stars" src="https://img.shields.io/github/stars/mchoudhary15/CVE-2022-22029-NFS-Server-">
 
 ---
+## CVE-2022-21894 (2022-01-11T21:15:00)
+> Secure Boot Security Feature Bypass Vulnerability.
+- [Wack0/CVE-2022-21894](https://github.com/Wack0/CVE-2022-21894)	<img alt="forks" src="https://img.shields.io/github/forks/Wack0/CVE-2022-21894">	<img alt="stars" src="https://img.shields.io/github/stars/Wack0/CVE-2022-21894">
+
+---
 ## CVE-2022-21881 (2022-01-11T21:15:00)
 > Windows Kernel Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-21879.
 - [theabysslabs/CVE-2022-21881](https://github.com/theabysslabs/CVE-2022-21881)	<img alt="forks" src="https://img.shields.io/github/forks/theabysslabs/CVE-2022-21881">	<img alt="stars" src="https://img.shields.io/github/stars/theabysslabs/CVE-2022-21881">
@@ -773,6 +778,11 @@
 - [jmiettinen/CVE-2022-21449-vuln-test](https://github.com/jmiettinen/CVE-2022-21449-vuln-test)	<img alt="forks" src="https://img.shields.io/github/forks/jmiettinen/CVE-2022-21449-vuln-test">	<img alt="stars" src="https://img.shields.io/github/stars/jmiettinen/CVE-2022-21449-vuln-test">
 - [PyterSmithDarkGhost/CVE-2022-21449-I2P-TLS-POC](https://github.com/PyterSmithDarkGhost/CVE-2022-21449-I2P-TLS-POC)	<img alt="forks" src="https://img.shields.io/github/forks/PyterSmithDarkGhost/CVE-2022-21449-I2P-TLS-POC">	<img alt="stars" src="https://img.shields.io/github/stars/PyterSmithDarkGhost/CVE-2022-21449-I2P-TLS-POC">
 - [Skipper7718/CVE-2022-21449-showcase](https://github.com/Skipper7718/CVE-2022-21449-showcase)	<img alt="forks" src="https://img.shields.io/github/forks/Skipper7718/CVE-2022-21449-showcase">	<img alt="stars" src="https://img.shields.io/github/stars/Skipper7718/CVE-2022-21449-showcase">
+
+---
+## CVE-2022-20866 ()
+> 
+- [CiscoPSIRT/CVE-2022-20866](https://github.com/CiscoPSIRT/CVE-2022-20866)	<img alt="forks" src="https://img.shields.io/github/forks/CiscoPSIRT/CVE-2022-20866">	<img alt="stars" src="https://img.shields.io/github/stars/CiscoPSIRT/CVE-2022-20866">
 
 ---
 ## CVE-2022-202133 ()
