@@ -890,6 +890,13 @@
 - [thelostworldFree/CVE-2022-111111](https://github.com/thelostworldFree/CVE-2022-111111)	<img alt="forks" src="https://img.shields.io/github/forks/thelostworldFree/CVE-2022-111111">	<img alt="stars" src="https://img.shields.io/github/stars/thelostworldFree/CVE-2022-111111">
 
 ---
+## CVE-2022-1040 (2022-03-25T12:15:00)
+> An authentication bypass vulnerability in the User Portal and Webadmin allows a remote attacker to execute code in Sophos Firewall version v18.5 MR3 and older.
+- [APTIRAN/CVE-2022-1040](https://github.com/APTIRAN/CVE-2022-1040)	<img alt="forks" src="https://img.shields.io/github/forks/APTIRAN/CVE-2022-1040">	<img alt="stars" src="https://img.shields.io/github/stars/APTIRAN/CVE-2022-1040">
+- [XmasSnowISBACK/CVE-2022-1040](https://github.com/XmasSnowISBACK/CVE-2022-1040)	<img alt="forks" src="https://img.shields.io/github/forks/XmasSnowISBACK/CVE-2022-1040">	<img alt="stars" src="https://img.shields.io/github/stars/XmasSnowISBACK/CVE-2022-1040">
+- [killvxk/CVE-2022-1040](https://github.com/killvxk/CVE-2022-1040)	<img alt="forks" src="https://img.shields.io/github/forks/killvxk/CVE-2022-1040">	<img alt="stars" src="https://img.shields.io/github/stars/killvxk/CVE-2022-1040">
+
+---
 ## CVE-2022-0848 (2022-03-04T09:15:00)
 > OS Command Injection in GitHub repository part-db/part-db prior to 0.5.11.
 - [logm1lo/CVE-2022-0848-RCE](https://github.com/logm1lo/CVE-2022-0848-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/logm1lo/CVE-2022-0848-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/logm1lo/CVE-2022-0848-RCE">
