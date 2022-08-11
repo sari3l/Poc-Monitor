@@ -70,6 +70,11 @@
 - [kombat1/CVE-2021-43617](https://github.com/kombat1/CVE-2021-43617)	<img alt="forks" src="https://img.shields.io/github/forks/kombat1/CVE-2021-43617">	<img alt="stars" src="https://img.shields.io/github/stars/kombat1/CVE-2021-43617">
 
 ---
+## CVE-2021-43530 (2021-12-08T22:15:00)
+> A Universal XSS vulnerability was present in Firefox for Android resulting from improper sanitization when processing a URL scanned from a QR code. *This bug only affects Firefox for Android. Other operating systems are unaffected.*. This vulnerability affects Firefox < 94.
+- [hfh86/CVE-2021-43530-UXSS-On-QRcode-Reader-](https://github.com/hfh86/CVE-2021-43530-UXSS-On-QRcode-Reader-)	<img alt="forks" src="https://img.shields.io/github/forks/hfh86/CVE-2021-43530-UXSS-On-QRcode-Reader-">	<img alt="stars" src="https://img.shields.io/github/stars/hfh86/CVE-2021-43530-UXSS-On-QRcode-Reader-">
+
+---
 ## CVE-2021-43229 (2021-12-15T15:15:00)
 > Windows NTFS Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-43230, CVE-2021-43231.
 - [Citizen13X/CVE-2021-43229](https://github.com/Citizen13X/CVE-2021-43229)	<img alt="forks" src="https://img.shields.io/github/forks/Citizen13X/CVE-2021-43229">	<img alt="stars" src="https://img.shields.io/github/stars/Citizen13X/CVE-2021-43229">
