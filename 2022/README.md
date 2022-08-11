@@ -189,6 +189,11 @@
 - [bigzooooz/CVE-2022-31297](https://github.com/bigzooooz/CVE-2022-31297)	<img alt="forks" src="https://img.shields.io/github/forks/bigzooooz/CVE-2022-31297">	<img alt="stars" src="https://img.shields.io/github/stars/bigzooooz/CVE-2022-31297">
 
 ---
+## CVE-2022-31262 ()
+> 
+- [secure-77/CVE-2022-31262](https://github.com/secure-77/CVE-2022-31262)	<img alt="forks" src="https://img.shields.io/github/forks/secure-77/CVE-2022-31262">	<img alt="stars" src="https://img.shields.io/github/stars/secure-77/CVE-2022-31262">
+
+---
 ## CVE-2022-31245 (2022-05-20T15:15:00)
 > mailcow before 2022-05d allows a remote authenticated user to inject OS commands and escalate privileges to domain admin via the --debug option in conjunction with the ---PIPEMESS option in Sync Jobs.
 - [ly1g3/Mailcow-CVE-2022-31245](https://github.com/ly1g3/Mailcow-CVE-2022-31245)	<img alt="forks" src="https://img.shields.io/github/forks/ly1g3/Mailcow-CVE-2022-31245">	<img alt="stars" src="https://img.shields.io/github/stars/ly1g3/Mailcow-CVE-2022-31245">
