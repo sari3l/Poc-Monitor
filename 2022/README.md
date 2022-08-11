@@ -544,6 +544,11 @@
 - [keven1z/CVE-2022-26134](https://github.com/keven1z/CVE-2022-26134)	<img alt="forks" src="https://img.shields.io/github/forks/keven1z/CVE-2022-26134">	<img alt="stars" src="https://img.shields.io/github/stars/keven1z/CVE-2022-26134">
 
 ---
+## CVE-2022-2588 ()
+> 
+- [Markakd/CVE-2022-2588](https://github.com/Markakd/CVE-2022-2588)	<img alt="forks" src="https://img.shields.io/github/forks/Markakd/CVE-2022-2588">	<img alt="stars" src="https://img.shields.io/github/stars/Markakd/CVE-2022-2588">
+
+---
 ## CVE-2022-25845 (2022-06-10T20:15:00)
 > The package com.alibaba:fastjson before 1.2.83 are vulnerable to Deserialization of Untrusted Data by bypassing the default autoType shutdown restrictions, which is possible under certain conditions. Exploiting this vulnerability allows attacking remote servers. Workaround: If upgrading is not possible, you can enable [safeMode](https://github.com/alibaba/fastjson/wiki/fastjson_safemode).
 - [Expl0desploit/CVE-2022-25845](https://github.com/Expl0desploit/CVE-2022-25845)	<img alt="forks" src="https://img.shields.io/github/forks/Expl0desploit/CVE-2022-25845">	<img alt="stars" src="https://img.shields.io/github/stars/Expl0desploit/CVE-2022-25845">
