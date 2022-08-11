@@ -171,6 +171,11 @@
 - [deathflash1411/CVE-2021-41652](https://github.com/deathflash1411/CVE-2021-41652)	<img alt="forks" src="https://img.shields.io/github/forks/deathflash1411/CVE-2021-41652">	<img alt="stars" src="https://img.shields.io/github/stars/deathflash1411/CVE-2021-41652">
 
 ---
+## CVE-2021-4154 (2022-02-04T23:15:00)
+> A use-after-free flaw was found in cgroup1_parse_param in kernel/cgroup/cgroup-v1.c in the Linux kernel's cgroup v1 parser. A local attacker with a user privilege could cause a privilege escalation by exploiting the fsconfig syscall parameter leading to a container breakout and a denial of service on the system.
+- [Markakd/CVE-2021-4154](https://github.com/Markakd/CVE-2021-4154)	<img alt="forks" src="https://img.shields.io/github/forks/Markakd/CVE-2021-4154">	<img alt="stars" src="https://img.shields.io/github/stars/Markakd/CVE-2021-4154">
+
+---
 ## CVE-2021-41349 (2021-11-10T01:19:00)
 > Microsoft Exchange Server Spoofing Vulnerability This CVE ID is unique from CVE-2021-42305.
 - [0xrobiul/CVE-2021-41349](https://github.com/0xrobiul/CVE-2021-41349)	<img alt="forks" src="https://img.shields.io/github/forks/0xrobiul/CVE-2021-41349">	<img alt="stars" src="https://img.shields.io/github/stars/0xrobiul/CVE-2021-41349">
