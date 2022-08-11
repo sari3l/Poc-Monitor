@@ -12,6 +12,11 @@
 - [XmasSnowISBACK/CVE-2022-36946](https://github.com/XmasSnowISBACK/CVE-2022-36946)	<img alt="forks" src="https://img.shields.io/github/forks/XmasSnowISBACK/CVE-2022-36946">	<img alt="stars" src="https://img.shields.io/github/stars/XmasSnowISBACK/CVE-2022-36946">
 
 ---
+## CVE-2022-36446 (2022-07-25T06:15:00)
+> software/apt-lib.pl in Webmin before 1.997 lacks HTML escaping for a UI command.
+- [p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE](https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE">
+
+---
 ## CVE-2022-35899 (2022-07-21T17:15:00)
 > There is an unquoted service path in ASUSTeK Aura Ready Game SDK service (GameSDK.exe) 1.0.0.4. This might allow a local user to escalate privileges by creating a %PROGRAMFILES(X86)%\ASUS\GameSDK.exe file.
 - [AngeloPioAmirante/CVE-2022-35899](https://github.com/AngeloPioAmirante/CVE-2022-35899)	<img alt="forks" src="https://img.shields.io/github/forks/AngeloPioAmirante/CVE-2022-35899">	<img alt="stars" src="https://img.shields.io/github/stars/AngeloPioAmirante/CVE-2022-35899">
