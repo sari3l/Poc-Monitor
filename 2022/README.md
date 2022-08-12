@@ -440,6 +440,11 @@
 - [cheshireca7/CVE-2022-28117](https://github.com/cheshireca7/CVE-2022-28117)	<img alt="forks" src="https://img.shields.io/github/forks/cheshireca7/CVE-2022-28117">	<img alt="stars" src="https://img.shields.io/github/stars/cheshireca7/CVE-2022-28117">
 
 ---
+## CVE-2022-27925 (2022-04-21T00:15:00)
+> Zimbra Collaboration (aka ZCS) 8.8.15 and 9.0 has mboximport functionality that receives a ZIP archive and extracts files from it. An authenticated user with administrator rights has the ability to upload arbitrary files to the system, leading to directory traversal.
+- [vnhacker1337/CVE-2022-27925-PoC](https://github.com/vnhacker1337/CVE-2022-27925-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/vnhacker1337/CVE-2022-27925-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/vnhacker1337/CVE-2022-27925-PoC">
+
+---
 ## CVE-2022-27438 (2022-06-06T23:15:00)
 > Caphyon Ltd Advanced Installer 19.3 and earlier and many products that use the updater from Advanced Installer (Advanced Updater) are affected by a remote code execution vulnerability via the CustomDetection parameter in the update check function. To exploit this vulnerability, a user must start an affected installation to trigger the update check.
 - [gerr-re/cve-2022-27438](https://github.com/gerr-re/cve-2022-27438)	<img alt="forks" src="https://img.shields.io/github/forks/gerr-re/cve-2022-27438">	<img alt="stars" src="https://img.shields.io/github/stars/gerr-re/cve-2022-27438">
