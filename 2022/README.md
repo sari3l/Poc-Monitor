@@ -569,6 +569,11 @@
 - [yuriisanin/CVE-2022-25262](https://github.com/yuriisanin/CVE-2022-25262)	<img alt="forks" src="https://img.shields.io/github/forks/yuriisanin/CVE-2022-25262">	<img alt="stars" src="https://img.shields.io/github/stars/yuriisanin/CVE-2022-25262">
 
 ---
+## CVE-2022-24853 (2022-04-14T22:15:00)
+> Metabase is an open source business intelligence and analytics application. Metabase has a proxy to load arbitrary URLs for JSON maps as part of our GeoJSON support. While we do validation to not return contents of arbitrary URLs, there is a case where a particularly crafted request could result in file access on windows, which allows enabling an `NTLM relay attack`, potentially allowing an attacker to receive the system password hash. If you use Windows and are on this version of Metabase, please upgrade immediately. The following patches (or greater versions) are available: 0.42.4 and 1.42.4, 0.41.7 and 1.41.7, 0.40.8 and 1.40.8.
+- [secure-77/CVE-2022-24853](https://github.com/secure-77/CVE-2022-24853)	<img alt="forks" src="https://img.shields.io/github/forks/secure-77/CVE-2022-24853">	<img alt="stars" src="https://img.shields.io/github/stars/secure-77/CVE-2022-24853">
+
+---
 ## CVE-2022-24706 (2022-04-26T10:15:00)
 > In Apache CouchDB prior to 3.2.2, an attacker can access an improperly secured default installation without authenticating and gain admin privileges. The CouchDB documentation has always made recommendations for properly securing an installation, including recommending using a firewall in front of all CouchDB installations.
 - [ahmetsabrimert/Apache-CouchDB-CVE-2022-24706-RCE-Exploits-Blog-post-](https://github.com/ahmetsabrimert/Apache-CouchDB-CVE-2022-24706-RCE-Exploits-Blog-post-)	<img alt="forks" src="https://img.shields.io/github/forks/ahmetsabrimert/Apache-CouchDB-CVE-2022-24706-RCE-Exploits-Blog-post-">	<img alt="stars" src="https://img.shields.io/github/stars/ahmetsabrimert/Apache-CouchDB-CVE-2022-24706-RCE-Exploits-Blog-post-">
