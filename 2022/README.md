@@ -97,6 +97,7 @@
 - [llraudseppll/cve-2022-33891](https://github.com/llraudseppll/cve-2022-33891)	<img alt="forks" src="https://img.shields.io/github/forks/llraudseppll/cve-2022-33891">	<img alt="stars" src="https://img.shields.io/github/stars/llraudseppll/cve-2022-33891">
 - [AmoloHT/CVE-2022-33891](https://github.com/AmoloHT/CVE-2022-33891)	<img alt="forks" src="https://img.shields.io/github/forks/AmoloHT/CVE-2022-33891">	<img alt="stars" src="https://img.shields.io/github/stars/AmoloHT/CVE-2022-33891">
 - [XmasSnowISBACK/CVE-2022-33891](https://github.com/XmasSnowISBACK/CVE-2022-33891)	<img alt="forks" src="https://img.shields.io/github/forks/XmasSnowISBACK/CVE-2022-33891">	<img alt="stars" src="https://img.shields.io/github/stars/XmasSnowISBACK/CVE-2022-33891">
+- [DrLinuxOfficial/CVE-2022-33891](https://github.com/DrLinuxOfficial/CVE-2022-33891)	<img alt="forks" src="https://img.shields.io/github/forks/DrLinuxOfficial/CVE-2022-33891">	<img alt="stars" src="https://img.shields.io/github/stars/DrLinuxOfficial/CVE-2022-33891">
 
 ---
 ## CVE-2022-33075 (2022-07-05T18:15:00)
