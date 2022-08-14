@@ -195,6 +195,11 @@
 - [bigzooooz/CVE-2022-31297](https://github.com/bigzooooz/CVE-2022-31297)	<img alt="forks" src="https://img.shields.io/github/forks/bigzooooz/CVE-2022-31297">	<img alt="stars" src="https://img.shields.io/github/stars/bigzooooz/CVE-2022-31297">
 
 ---
+## CVE-2022-31269 ()
+> 
+- [Henry4E36/CVE-2022-31269](https://github.com/Henry4E36/CVE-2022-31269)	<img alt="forks" src="https://img.shields.io/github/forks/Henry4E36/CVE-2022-31269">	<img alt="stars" src="https://img.shields.io/github/stars/Henry4E36/CVE-2022-31269">
+
+---
 ## CVE-2022-31262 ()
 > 
 - [secure-77/CVE-2022-31262](https://github.com/secure-77/CVE-2022-31262)	<img alt="forks" src="https://img.shields.io/github/forks/secure-77/CVE-2022-31262">	<img alt="stars" src="https://img.shields.io/github/stars/secure-77/CVE-2022-31262">
