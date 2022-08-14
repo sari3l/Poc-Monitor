@@ -450,6 +450,7 @@
 > Zimbra Collaboration (aka ZCS) 8.8.15 and 9.0 has mboximport functionality that receives a ZIP archive and extracts files from it. An authenticated user with administrator rights has the ability to upload arbitrary files to the system, leading to directory traversal.
 - [vnhacker1337/CVE-2022-27925-PoC](https://github.com/vnhacker1337/CVE-2022-27925-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/vnhacker1337/CVE-2022-27925-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/vnhacker1337/CVE-2022-27925-PoC">
 - [MeDx64/CVE-2022-27925](https://github.com/MeDx64/CVE-2022-27925)	<img alt="forks" src="https://img.shields.io/github/forks/MeDx64/CVE-2022-27925">	<img alt="stars" src="https://img.shields.io/github/stars/MeDx64/CVE-2022-27925">
+- [MeDx64/CVE-2022-27925](https://github.com/MeDx64/CVE-2022-27925)	<img alt="forks" src="https://img.shields.io/github/forks/MeDx64/CVE-2022-27925">	<img alt="stars" src="https://img.shields.io/github/stars/MeDx64/CVE-2022-27925">
 
 ---
 ## CVE-2022-27438 (2022-06-06T23:15:00)
