@@ -1,6 +1,18 @@
 # 2020 List
 
 ---
+## CVE-2020-9496 (2020-07-15T16:15:00)
+> XML-RPC request are vulnerable to unsafe deserialization and Cross-Site Scripting issues in Apache OFBiz 17.12.03
+- [Ly0nt4r/CVE-2020-9496](https://github.com/Ly0nt4r/CVE-2020-9496)	<img alt="forks" src="https://img.shields.io/github/forks/Ly0nt4r/CVE-2020-9496">	<img alt="stars" src="https://img.shields.io/github/stars/Ly0nt4r/CVE-2020-9496">
+- [s4dbrd/CVE-2020-9496](https://github.com/s4dbrd/CVE-2020-9496)	<img alt="forks" src="https://img.shields.io/github/forks/s4dbrd/CVE-2020-9496">	<img alt="stars" src="https://img.shields.io/github/stars/s4dbrd/CVE-2020-9496">
+- [Vulnmachines/apache-ofbiz-CVE-2020-9496](https://github.com/Vulnmachines/apache-ofbiz-CVE-2020-9496)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/apache-ofbiz-CVE-2020-9496">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/apache-ofbiz-CVE-2020-9496">
+- [ambalabanov/CVE-2020-9496](https://github.com/ambalabanov/CVE-2020-9496)	<img alt="forks" src="https://img.shields.io/github/forks/ambalabanov/CVE-2020-9496">	<img alt="stars" src="https://img.shields.io/github/stars/ambalabanov/CVE-2020-9496">
+- [yuaneuro/ofbiz-poc](https://github.com/yuaneuro/ofbiz-poc)	<img alt="forks" src="https://img.shields.io/github/forks/yuaneuro/ofbiz-poc">	<img alt="stars" src="https://img.shields.io/github/stars/yuaneuro/ofbiz-poc">
+- [cyber-niz/CVE-2020-9496](https://github.com/cyber-niz/CVE-2020-9496)	<img alt="forks" src="https://img.shields.io/github/forks/cyber-niz/CVE-2020-9496">	<img alt="stars" src="https://img.shields.io/github/stars/cyber-niz/CVE-2020-9496">
+- [g33xter/CVE-2020-9496](https://github.com/g33xter/CVE-2020-9496)	<img alt="forks" src="https://img.shields.io/github/forks/g33xter/CVE-2020-9496">	<img alt="stars" src="https://img.shields.io/github/stars/g33xter/CVE-2020-9496">
+- [dwisiswant0/CVE-2020-9496](https://github.com/dwisiswant0/CVE-2020-9496)	<img alt="forks" src="https://img.shields.io/github/forks/dwisiswant0/CVE-2020-9496">	<img alt="stars" src="https://img.shields.io/github/stars/dwisiswant0/CVE-2020-9496">
+
+---
 ## CVE-2020-8512 (2020-02-01T00:15:00)
 > In IceWarp Webmail Server through 11.4.4.1, there is XSS in the /webmail/ color parameter.
 - [trhacknon/CVE-2020-8512](https://github.com/trhacknon/CVE-2020-8512)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2020-8512">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2020-8512">
