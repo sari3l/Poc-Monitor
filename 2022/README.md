@@ -613,6 +613,7 @@
 ## CVE-2022-24500 (2022-04-15T19:15:00)
 > Windows SMB Remote Code Execution Vulnerability.
 - [Daro1967/CVE-2022-24500-RCE](https://github.com/Daro1967/CVE-2022-24500-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Daro1967/CVE-2022-24500-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Daro1967/CVE-2022-24500-RCE">
+- [Daro1967/CVE-2022-24500-MASS-RCE](https://github.com/Daro1967/CVE-2022-24500-MASS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Daro1967/CVE-2022-24500-MASS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Daro1967/CVE-2022-24500-MASS-RCE">
 
 ---
 ## CVE-2022-24342 (2022-02-25T15:15:00)
