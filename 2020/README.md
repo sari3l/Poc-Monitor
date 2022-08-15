@@ -73,6 +73,12 @@
 - [UNICORDev/exploit-CVE-2020-5844](https://github.com/UNICORDev/exploit-CVE-2020-5844)	<img alt="forks" src="https://img.shields.io/github/forks/UNICORDev/exploit-CVE-2020-5844">	<img alt="stars" src="https://img.shields.io/github/stars/UNICORDev/exploit-CVE-2020-5844">
 
 ---
+## CVE-2020-4464 (2020-07-17T14:15:00)
+> IBM WebSphere Application Server 7.0, 8.0, 8.5, and 9.0 traditional could allow a remote attacker to execute arbitrary code on a system with a specially-crafted sequence of serialized objects over the SOAP connector. IBM X-Force ID: 181489.
+- [yonggui-li/CVE-2020-4464-and-CVE-2020-4450](https://github.com/yonggui-li/CVE-2020-4464-and-CVE-2020-4450)	<img alt="forks" src="https://img.shields.io/github/forks/yonggui-li/CVE-2020-4464-and-CVE-2020-4450">	<img alt="stars" src="https://img.shields.io/github/stars/yonggui-li/CVE-2020-4464-and-CVE-2020-4450">
+- [silentsignal/WebSphere-WSIF-gadget](https://github.com/silentsignal/WebSphere-WSIF-gadget)	<img alt="forks" src="https://img.shields.io/github/forks/silentsignal/WebSphere-WSIF-gadget">	<img alt="stars" src="https://img.shields.io/github/stars/silentsignal/WebSphere-WSIF-gadget">
+
+---
 ## CVE-2020-3580 (2020-10-21T19:15:00)
 > Multiple vulnerabilities in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct cross-site scripting (XSS) attacks against a user of the web services interface of an affected device. The vulnerabilities are due to insufficient validation of user-supplied input by the web services interface of an affected device. An attacker could exploit these vulnerabilities by persuading a user of the interface to click a crafted link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface or allow the attacker to access sensitive, browser-based information. Note: These vulnerabilities affect only specific AnyConnect and WebVPN configurations. For more information, see the Vulnerable Products section.
 - [nxtexploit/CVE-2020-3580](https://github.com/nxtexploit/CVE-2020-3580)	<img alt="forks" src="https://img.shields.io/github/forks/nxtexploit/CVE-2020-3580">	<img alt="stars" src="https://img.shields.io/github/stars/nxtexploit/CVE-2020-3580">
