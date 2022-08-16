@@ -861,6 +861,13 @@
 - [mhaskar/CVE-2019-20224](https://github.com/mhaskar/CVE-2019-20224)	<img alt="forks" src="https://img.shields.io/github/forks/mhaskar/CVE-2019-20224">	<img alt="stars" src="https://img.shields.io/github/stars/mhaskar/CVE-2019-20224">
 
 ---
+## CVE-2022-20223 (2022-07-13T19:15:00)
+> In assertSafeToStartCustomActivity of AppRestrictionsFragment.java, there is a possible way to start a phone call without permissions due to a confused deputy. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12LAndroid ID: A-223578534
+- [nidhi7598/packages_apps_Settings_AOSP_10_r33_CVE-2022-20223](https://github.com/nidhi7598/packages_apps_Settings_AOSP_10_r33_CVE-2022-20223)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/packages_apps_Settings_AOSP_10_r33_CVE-2022-20223">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/packages_apps_Settings_AOSP_10_r33_CVE-2022-20223">
+- [Kyleifpossible/CVE202230190test1](https://github.com/Kyleifpossible/CVE202230190test1)	<img alt="forks" src="https://img.shields.io/github/forks/Kyleifpossible/CVE202230190test1">	<img alt="stars" src="https://img.shields.io/github/stars/Kyleifpossible/CVE202230190test1">
+- [Kyleifpossible/CVE202230190test0](https://github.com/Kyleifpossible/CVE202230190test0)	<img alt="forks" src="https://img.shields.io/github/forks/Kyleifpossible/CVE202230190test0">	<img alt="stars" src="https://img.shields.io/github/stars/Kyleifpossible/CVE202230190test0">
+
+---
 ## CVE-2022-202133 ()
 > 
 - [nidhi7598/packages_apps_Bluetooth_AOSP_10_r33_CVE-2022-202133](https://github.com/nidhi7598/packages_apps_Bluetooth_AOSP_10_r33_CVE-2022-202133)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/packages_apps_Bluetooth_AOSP_10_r33_CVE-2022-202133">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/packages_apps_Bluetooth_AOSP_10_r33_CVE-2022-202133">
