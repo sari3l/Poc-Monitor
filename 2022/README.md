@@ -816,6 +816,11 @@
 - [ESUAdmin/CVE-2022-2185](https://github.com/ESUAdmin/CVE-2022-2185)	<img alt="forks" src="https://img.shields.io/github/forks/ESUAdmin/CVE-2022-2185">	<img alt="stars" src="https://img.shields.io/github/stars/ESUAdmin/CVE-2022-2185">
 
 ---
+## CVE-2022-21789 (2022-08-01T14:15:00)
+> In audio ipi, there is a possible memory corruption due to a race condition. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS06478101; Issue ID: ALPS06478101.
+- [docfate111/CVE-2022-21789](https://github.com/docfate111/CVE-2022-21789)	<img alt="forks" src="https://img.shields.io/github/forks/docfate111/CVE-2022-21789">	<img alt="stars" src="https://img.shields.io/github/stars/docfate111/CVE-2022-21789">
+
+---
 ## CVE-2022-21661 (2022-01-06T23:15:00)
 > WordPress is a free and open-source content management system written in PHP and paired with a MariaDB database. Due to improper sanitization in WP_Query, there can be cases where SQL injection is possible through plugins or themes that use it in a certain way. This has been patched in WordPress version 5.8.3. Older affected versions are also fixed via security release, that go back till 3.7.37. We strongly recommend that you keep auto-updates enabled. There are no known workarounds for this vulnerability.
 - [PyterSmithDarkGhost/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection-main](https://github.com/PyterSmithDarkGhost/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection-main)	<img alt="forks" src="https://img.shields.io/github/forks/PyterSmithDarkGhost/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection-main">	<img alt="stars" src="https://img.shields.io/github/stars/PyterSmithDarkGhost/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection-main">
