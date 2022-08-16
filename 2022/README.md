@@ -434,6 +434,11 @@
 - [alirezasalehizadeh/cve-2022-29455](https://github.com/alirezasalehizadeh/cve-2022-29455)	<img alt="forks" src="https://img.shields.io/github/forks/alirezasalehizadeh/cve-2022-29455">	<img alt="stars" src="https://img.shields.io/github/stars/alirezasalehizadeh/cve-2022-29455">
 
 ---
+## CVE-2022-29247 (2022-06-13T21:15:00)
+> Electron is a framework for writing cross-platform desktop applications using JavaScript (JS), HTML, and CSS. A vulnerability in versions prior to 18.0.0-beta.6, 17.2.0, 16.2.6, and 15.5.5 allows a renderer with JS execution to obtain access to a new renderer process with `nodeIntegrationInSubFrames` enabled which in turn allows effective access to `ipcRenderer`. The `nodeIntegrationInSubFrames` option does not implicitly grant Node.js access. Rather, it depends on the existing sandbox setting. If an application is sandboxed, then `nodeIntegrationInSubFrames` just gives access to the sandboxed renderer APIs, which include `ipcRenderer`. If the application then additionally exposes IPC messages without IPC `senderFrame` validation that perform privileged actions or return confidential data this access to `ipcRenderer` can in turn compromise your application / user even with the sandbox enabled. Electron versions 18.0.0-beta.6, 17.2.0, 16.2.6, and 15.5.5 contain a fix for this issue. As a workaround, ensure that all IPC message handlers appropriately validate `senderFrame`.
+- [a1ise/CVE-2022-29247](https://github.com/a1ise/CVE-2022-29247)	<img alt="forks" src="https://img.shields.io/github/forks/a1ise/CVE-2022-29247">	<img alt="stars" src="https://img.shields.io/github/stars/a1ise/CVE-2022-29247">
+
+---
 ## CVE-2022-29078 (2022-04-25T15:15:00)
 > The ejs (aka Embedded JavaScript templates) package 3.1.6 for Node.js allows server-side template injection in settings[view options][outputFunctionName]. This is parsed as an internal option, and overwrites the outputFunctionName option with an arbitrary OS command (which is executed upon template compilation).
 - [miko550/CVE-2022-29078](https://github.com/miko550/CVE-2022-29078)	<img alt="forks" src="https://img.shields.io/github/forks/miko550/CVE-2022-29078">	<img alt="stars" src="https://img.shields.io/github/stars/miko550/CVE-2022-29078">
