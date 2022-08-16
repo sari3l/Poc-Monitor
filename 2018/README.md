@@ -135,6 +135,11 @@
 - [afine-com/CVE-2018-25031](https://github.com/afine-com/CVE-2018-25031)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2018-25031">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2018-25031">
 
 ---
+## CVE-2018-20580 (2019-05-03T20:29:00)
+> The WSDL import functionality in SmartBear ReadyAPI 2.5.0 and 2.6.0 allows remote attackers to execute arbitrary Java code via a crafted request parameter in a WSDL file.
+- [gscamelo/CVE-2018-20580](https://github.com/gscamelo/CVE-2018-20580)	<img alt="forks" src="https://img.shields.io/github/forks/gscamelo/CVE-2018-20580">	<img alt="stars" src="https://img.shields.io/github/stars/gscamelo/CVE-2018-20580">
+
+---
 ## CVE-2018-20175 (2019-03-15T18:29:00)
 > rdesktop versions up to and including v1.8.3 contains several Integer Signedness errors that lead to Out-Of-Bounds Reads in the file mcs.c and result in a Denial of Service (segfault).
 - [ahaShiyu/CVE-2018-20175](https://github.com/ahaShiyu/CVE-2018-20175)	<img alt="forks" src="https://img.shields.io/github/forks/ahaShiyu/CVE-2018-20175">	<img alt="stars" src="https://img.shields.io/github/stars/ahaShiyu/CVE-2018-20175">
