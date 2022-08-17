@@ -225,8 +225,8 @@
 - [Henry4E36/CVE-2022-31269](https://github.com/Henry4E36/CVE-2022-31269)	<img alt="forks" src="https://img.shields.io/github/forks/Henry4E36/CVE-2022-31269">	<img alt="stars" src="https://img.shields.io/github/stars/Henry4E36/CVE-2022-31269">
 
 ---
-## CVE-2022-31262 ()
-> 
+## CVE-2022-31262 (2022-08-17T15:15:00)
+> An exploitable local privilege escalation vulnerability exists in GOG Galaxy 2.0.46. Due to insufficient folder permissions, an attacker can hijack the %ProgramData%\GOG.com folder structure and change the GalaxyCommunication service executable to a malicious file, resulting in code execution as SYSTEM.
 - [secure-77/CVE-2022-31262](https://github.com/secure-77/CVE-2022-31262)	<img alt="forks" src="https://img.shields.io/github/forks/secure-77/CVE-2022-31262">	<img alt="stars" src="https://img.shields.io/github/stars/secure-77/CVE-2022-31262">
 
 ---
