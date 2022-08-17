@@ -44,6 +44,11 @@
 - [Goyotan/CVE-2020-6468-PoC](https://github.com/Goyotan/CVE-2020-6468-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Goyotan/CVE-2020-6468-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Goyotan/CVE-2020-6468-PoC">
 
 ---
+## CVE-2020-6364 (2020-10-15T02:15:00)
+> SAP Solution Manager and SAP Focused Run (update provided in WILY_INTRO_ENTERPRISE 9.7, 10.1, 10.5, 10.7), allows an attacker to modify a cookie in a way that OS commands can be executed and potentially gain control over the host running the CA Introscope Enterprise Manager,leading to Code Injection. With this, the attacker is able to read and modify all system files and also impact system availability.
+- [gquere/CVE-2020-6364](https://github.com/gquere/CVE-2020-6364)	<img alt="forks" src="https://img.shields.io/github/forks/gquere/CVE-2020-6364">	<img alt="stars" src="https://img.shields.io/github/stars/gquere/CVE-2020-6364">
+
+---
 ## CVE-2020-5902 (2020-07-01T15:15:00)
 > In BIG-IP versions 15.0.0-15.1.0.3, 14.1.0-14.1.2.5, 13.1.0-13.1.3.3, 12.1.0-12.1.5.1, and 11.6.1-11.6.5.1, the Traffic Management User Interface (TMUI), also referred to as the Configuration utility, has a Remote Code Execution (RCE) vulnerability in undisclosed pages.
 - [z3n70/CVE-2020-5902](https://github.com/z3n70/CVE-2020-5902)	<img alt="forks" src="https://img.shields.io/github/forks/z3n70/CVE-2020-5902">	<img alt="stars" src="https://img.shields.io/github/stars/z3n70/CVE-2020-5902">
