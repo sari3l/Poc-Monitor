@@ -499,6 +499,13 @@
 - [i6c/CVE-2022-26937](https://github.com/i6c/CVE-2022-26937)	<img alt="forks" src="https://img.shields.io/github/forks/i6c/CVE-2022-26937">	<img alt="stars" src="https://img.shields.io/github/stars/i6c/CVE-2022-26937">
 
 ---
+## CVE-2022-26923 (2022-05-10T21:15:00)
+> Active Directory Domain Services Elevation of Privilege Vulnerability.
+- [lsecqt/CVE-2022-26923-Powershell-POC](https://github.com/lsecqt/CVE-2022-26923-Powershell-POC)	<img alt="forks" src="https://img.shields.io/github/forks/lsecqt/CVE-2022-26923-Powershell-POC">	<img alt="stars" src="https://img.shields.io/github/stars/lsecqt/CVE-2022-26923-Powershell-POC">
+- [LudovicPatho/CVE-2022-26923_AD-Certificate-Services](https://github.com/LudovicPatho/CVE-2022-26923_AD-Certificate-Services)	<img alt="forks" src="https://img.shields.io/github/forks/LudovicPatho/CVE-2022-26923_AD-Certificate-Services">	<img alt="stars" src="https://img.shields.io/github/stars/LudovicPatho/CVE-2022-26923_AD-Certificate-Services">
+- [r1skkam/TryHackMe-CVE-2022-26923](https://github.com/r1skkam/TryHackMe-CVE-2022-26923)	<img alt="forks" src="https://img.shields.io/github/forks/r1skkam/TryHackMe-CVE-2022-26923">	<img alt="stars" src="https://img.shields.io/github/stars/r1skkam/TryHackMe-CVE-2022-26923">
+
+---
 ## CVE-2022-26809 (2022-04-15T19:15:00)
 > Remote Procedure Call Runtime Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-24492, CVE-2022-24528.
 - [scoobydoobi/CVE-2022-26809-POC-RCE](https://github.com/scoobydoobi/CVE-2022-26809-POC-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/scoobydoobi/CVE-2022-26809-POC-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/scoobydoobi/CVE-2022-26809-POC-RCE">
