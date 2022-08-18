@@ -57,6 +57,11 @@
 - [adilsoybali/Log4j-RCE-Scanner](https://github.com/adilsoybali/Log4j-RCE-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/adilsoybali/Log4j-RCE-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/adilsoybali/Log4j-RCE-Scanner">
 - [christophetd/log4shell-vulnerable-app](https://github.com/christophetd/log4shell-vulnerable-app)	<img alt="forks" src="https://img.shields.io/github/forks/christophetd/log4shell-vulnerable-app">	<img alt="stars" src="https://img.shields.io/github/stars/christophetd/log4shell-vulnerable-app">
 - [aajuvonen/log4j-hackrf-waveforms](https://github.com/aajuvonen/log4j-hackrf-waveforms)	<img alt="forks" src="https://img.shields.io/github/forks/aajuvonen/log4j-hackrf-waveforms">	<img alt="stars" src="https://img.shields.io/github/stars/aajuvonen/log4j-hackrf-waveforms">
+- [tharindudh/tharindudh-Log4j-Vulnerability-in-Ghidra-tool-CVE-2021-44228](https://github.com/tharindudh/tharindudh-Log4j-Vulnerability-in-Ghidra-tool-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/tharindudh/tharindudh-Log4j-Vulnerability-in-Ghidra-tool-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/tharindudh/tharindudh-Log4j-Vulnerability-in-Ghidra-tool-CVE-2021-44228">
+- [nemesi-ita/autoL4s](https://github.com/nemesi-ita/autoL4s)	<img alt="forks" src="https://img.shields.io/github/forks/nemesi-ita/autoL4s">	<img alt="stars" src="https://img.shields.io/github/stars/nemesi-ita/autoL4s">
+- [puzzlepeaches/Log4jUnifi](https://github.com/puzzlepeaches/Log4jUnifi)	<img alt="forks" src="https://img.shields.io/github/forks/puzzlepeaches/Log4jUnifi">	<img alt="stars" src="https://img.shields.io/github/stars/puzzlepeaches/Log4jUnifi">
+- [isuruwa/Log4j](https://github.com/isuruwa/Log4j)	<img alt="forks" src="https://img.shields.io/github/forks/isuruwa/Log4j">	<img alt="stars" src="https://img.shields.io/github/stars/isuruwa/Log4j">
+- [mrjameshamilton/log4shell-detector](https://github.com/mrjameshamilton/log4shell-detector)	<img alt="forks" src="https://img.shields.io/github/forks/mrjameshamilton/log4shell-detector">	<img alt="stars" src="https://img.shields.io/github/stars/mrjameshamilton/log4shell-detector">
 
 ---
 ## CVE-2021-44158 (2022-01-03T10:15:00)
