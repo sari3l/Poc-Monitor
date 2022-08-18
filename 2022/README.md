@@ -664,6 +664,11 @@
 - [yuriisanin/CVE-2022-24342](https://github.com/yuriisanin/CVE-2022-24342)	<img alt="forks" src="https://img.shields.io/github/forks/yuriisanin/CVE-2022-24342">	<img alt="stars" src="https://img.shields.io/github/stars/yuriisanin/CVE-2022-24342">
 
 ---
+## CVE-2022-2414 (2022-07-29T19:15:00)
+> Access to external entities when parsing XML documents can lead to XML external entity (XXE) attacks. This flaw allows a remote attacker to potentially retrieve the content of arbitrary files by sending specially crafted HTTP requests.
+- [superhac/CVE-2022-2414-POC](https://github.com/superhac/CVE-2022-2414-POC)	<img alt="forks" src="https://img.shields.io/github/forks/superhac/CVE-2022-2414-POC">	<img alt="stars" src="https://img.shields.io/github/stars/superhac/CVE-2022-2414-POC">
+
+---
 ## CVE-2022-24086 (2022-02-16T17:15:00)
 > Adobe Commerce versions 2.4.3-p1 (and earlier) and 2.3.7-p2 (and earlier) are affected by an improper input validation vulnerability during the checkout process. Exploitation of this issue does not require user interaction and could result in arbitrary code execution.
 - [Cory65/CVE-2022-24086-POC](https://github.com/Cory65/CVE-2022-24086-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Cory65/CVE-2022-24086-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Cory65/CVE-2022-24086-POC">
