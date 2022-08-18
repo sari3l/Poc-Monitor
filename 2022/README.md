@@ -881,6 +881,7 @@
 > In AT_SKIP_REST of bta_hf_client_at.cc, there is a possible out of bounds read due to an incorrect bounds check. This could lead to remote information disclosure in the Bluetooth stack with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12LAndroid ID: A-220732646
 - [ShaikUsaf/system_bt_AOSP10_r33_CVE-2022-20224](https://github.com/ShaikUsaf/system_bt_AOSP10_r33_CVE-2022-20224)	<img alt="forks" src="https://img.shields.io/github/forks/ShaikUsaf/system_bt_AOSP10_r33_CVE-2022-20224">	<img alt="stars" src="https://img.shields.io/github/stars/ShaikUsaf/system_bt_AOSP10_r33_CVE-2022-20224">
 - [mhaskar/CVE-2019-20224](https://github.com/mhaskar/CVE-2019-20224)	<img alt="forks" src="https://img.shields.io/github/forks/mhaskar/CVE-2019-20224">	<img alt="stars" src="https://img.shields.io/github/stars/mhaskar/CVE-2019-20224">
+- [ShaikUsaf/system_bt_AOSP10_r33_CVE-2022-20224](https://github.com/ShaikUsaf/system_bt_AOSP10_r33_CVE-2022-20224)	<img alt="forks" src="https://img.shields.io/github/forks/ShaikUsaf/system_bt_AOSP10_r33_CVE-2022-20224">	<img alt="stars" src="https://img.shields.io/github/stars/ShaikUsaf/system_bt_AOSP10_r33_CVE-2022-20224">
 
 ---
 ## CVE-2022-20223 (2022-07-13T19:15:00)
