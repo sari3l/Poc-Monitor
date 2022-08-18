@@ -134,6 +134,8 @@
 - [ketlerd/CVE-2019-15107](https://github.com/ketlerd/CVE-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/ketlerd/CVE-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/ketlerd/CVE-2019-15107">
 - [AdministratorGithub/CVE-2019-15107](https://github.com/AdministratorGithub/CVE-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/AdministratorGithub/CVE-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/AdministratorGithub/CVE-2019-15107">
 - [HACHp1/webmin_docker_and_exp](https://github.com/HACHp1/webmin_docker_and_exp)	<img alt="forks" src="https://img.shields.io/github/forks/HACHp1/webmin_docker_and_exp">	<img alt="stars" src="https://img.shields.io/github/stars/HACHp1/webmin_docker_and_exp">
+- [TheAlpha19/MiniExploit](https://github.com/TheAlpha19/MiniExploit)	<img alt="forks" src="https://img.shields.io/github/forks/TheAlpha19/MiniExploit">	<img alt="stars" src="https://img.shields.io/github/stars/TheAlpha19/MiniExploit">
+- [jas502n/CVE-2019-15107](https://github.com/jas502n/CVE-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2019-15107">
 
 ---
 ## CVE-2019-12874 (2019-06-18T18:15:00)
