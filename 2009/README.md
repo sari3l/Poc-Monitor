@@ -1,6 +1,11 @@
 # 2009 List
 
 ---
+## CVE-2009-4623 (2010-01-18T20:30:00)
+> Multiple PHP remote file inclusion vulnerabilities in Advanced Comment System 1.0 allow remote attackers to execute arbitrary PHP code via a URL in the ACS_path parameter to (1) index.php and (2) admin.php in advanced_comment_system/. NOTE: this might only be a vulnerability when the administrator has not followed installation instructions in install.php. NOTE: this might be the same as CVE-2020-35598.
+- [hupe1980/CVE-2009-4623](https://github.com/hupe1980/CVE-2009-4623)	<img alt="forks" src="https://img.shields.io/github/forks/hupe1980/CVE-2009-4623">	<img alt="stars" src="https://img.shields.io/github/stars/hupe1980/CVE-2009-4623">
+
+---
 ## CVE-2009-4049 (2009-11-23T17:30:00)
 > Heap-based buffer overflow in aswRdr.sys (aka the TDI RDR driver) in avast! Home and Professional 4.8.1356.0 allows local users to cause a denial of service (memory corruption) or possibly gain privileges via crafted arguments to IOCTL 0x80002024.
 - [Exploitables/CVE-2009-4049](https://github.com/Exploitables/CVE-2009-4049)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2009-4049">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2009-4049">
