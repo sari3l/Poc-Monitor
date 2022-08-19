@@ -195,6 +195,11 @@
 - [Vikaran101/CVE-2022-31854](https://github.com/Vikaran101/CVE-2022-31854)	<img alt="forks" src="https://img.shields.io/github/forks/Vikaran101/CVE-2022-31854">	<img alt="stars" src="https://img.shields.io/github/stars/Vikaran101/CVE-2022-31854">
 
 ---
+## CVE-2022-31793 (2022-08-04T22:15:00)
+> do_request in request.c in muhttpd before 1.1.7 allows remote attackers to read arbitrary files by constructing a URL with a single character before a desired path on the filesystem. This occurs because the code skips over the first character when serving files. Arris NVG443, NVG599, NVG589, and NVG510 devices and Arris-derived BGW210 and BGW320 devices are affected.
+- [xpgdgit/CVE-2022-31793](https://github.com/xpgdgit/CVE-2022-31793)	<img alt="forks" src="https://img.shields.io/github/forks/xpgdgit/CVE-2022-31793">	<img alt="stars" src="https://img.shields.io/github/stars/xpgdgit/CVE-2022-31793">
+
+---
 ## CVE-2022-31749 ()
 > 
 - [iveresk/cve-2022-31749](https://github.com/iveresk/cve-2022-31749)	<img alt="forks" src="https://img.shields.io/github/forks/iveresk/cve-2022-31749">	<img alt="stars" src="https://img.shields.io/github/stars/iveresk/cve-2022-31749">

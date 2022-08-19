@@ -237,3 +237,8 @@
 - [UDPsycho/Moodle-CVE-2018-1042](https://github.com/UDPsycho/Moodle-CVE-2018-1042)	<img alt="forks" src="https://img.shields.io/github/forks/UDPsycho/Moodle-CVE-2018-1042">	<img alt="stars" src="https://img.shields.io/github/stars/UDPsycho/Moodle-CVE-2018-1042">
 - [UDPsycho/Moodle-CVE-2018-1042](https://github.com/UDPsycho/Moodle-CVE-2018-1042)	<img alt="forks" src="https://img.shields.io/github/forks/UDPsycho/Moodle-CVE-2018-1042">	<img alt="stars" src="https://img.shields.io/github/stars/UDPsycho/Moodle-CVE-2018-1042">
 - [UDPsycho/Moodle-CVE-2018-1042](https://github.com/UDPsycho/Moodle-CVE-2018-1042)	<img alt="forks" src="https://img.shields.io/github/forks/UDPsycho/Moodle-CVE-2018-1042">	<img alt="stars" src="https://img.shields.io/github/stars/UDPsycho/Moodle-CVE-2018-1042">
+
+---
+## CVE-2018-0798 (2018-01-10T01:29:00)
+> Equation Editor in Microsoft Office 2007, Microsoft Office 2010, Microsoft Office 2013, and Microsoft Office 2016 allows a remote code execution vulnerability due to the way objects are handled in memory, aka "Microsoft Office Memory Corruption Vulnerability".
+- [Sunqiz/CVE-2018-0798-reproduction](https://github.com/Sunqiz/CVE-2018-0798-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Sunqiz/CVE-2018-0798-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Sunqiz/CVE-2018-0798-reproduction">
