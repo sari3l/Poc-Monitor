@@ -492,6 +492,8 @@
 - [vnhacker1337/CVE-2022-27925-PoC](https://github.com/vnhacker1337/CVE-2022-27925-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/vnhacker1337/CVE-2022-27925-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/vnhacker1337/CVE-2022-27925-PoC">
 - [MeDx64/CVE-2022-27925](https://github.com/MeDx64/CVE-2022-27925)	<img alt="forks" src="https://img.shields.io/github/forks/MeDx64/CVE-2022-27925">	<img alt="stars" src="https://img.shields.io/github/stars/MeDx64/CVE-2022-27925">
 - [MeDx64/CVE-2022-27925](https://github.com/MeDx64/CVE-2022-27925)	<img alt="forks" src="https://img.shields.io/github/forks/MeDx64/CVE-2022-27925">	<img alt="stars" src="https://img.shields.io/github/stars/MeDx64/CVE-2022-27925">
+- [miko550/CVE-2022-27925](https://github.com/miko550/CVE-2022-27925)	<img alt="forks" src="https://img.shields.io/github/forks/miko550/CVE-2022-27925">	<img alt="stars" src="https://img.shields.io/github/stars/miko550/CVE-2022-27925">
+- [GreyNoise-Intelligence/Zimbra_CVE-2022-37042-_CVE-2022-27925](https://github.com/GreyNoise-Intelligence/Zimbra_CVE-2022-37042-_CVE-2022-27925)	<img alt="forks" src="https://img.shields.io/github/forks/GreyNoise-Intelligence/Zimbra_CVE-2022-37042-_CVE-2022-27925">	<img alt="stars" src="https://img.shields.io/github/stars/GreyNoise-Intelligence/Zimbra_CVE-2022-37042-_CVE-2022-27925">
 
 ---
 ## CVE-2022-27438 (2022-06-06T23:15:00)
