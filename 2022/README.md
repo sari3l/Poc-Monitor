@@ -958,6 +958,11 @@
 - [biulove0x/CVE-2022-1903](https://github.com/biulove0x/CVE-2022-1903)	<img alt="forks" src="https://img.shields.io/github/forks/biulove0x/CVE-2022-1903">	<img alt="stars" src="https://img.shields.io/github/stars/biulove0x/CVE-2022-1903">
 
 ---
+## CVE-2022-1802 ()
+> 
+- [mistymntncop/CVE-2022-1802](https://github.com/mistymntncop/CVE-2022-1802)	<img alt="forks" src="https://img.shields.io/github/forks/mistymntncop/CVE-2022-1802">	<img alt="stars" src="https://img.shields.io/github/stars/mistymntncop/CVE-2022-1802">
+
+---
 ## CVE-2022-1421 (2022-06-08T10:15:00)
 > The Discy WordPress theme before 5.2 lacks CSRF checks in some AJAX actions, allowing an attacker to make a logged in admin change arbitrary 's settings including payment methods via a CSRF attack
 - [nb1b3k/CVE-2022-1421](https://github.com/nb1b3k/CVE-2022-1421)	<img alt="forks" src="https://img.shields.io/github/forks/nb1b3k/CVE-2022-1421">	<img alt="stars" src="https://img.shields.io/github/stars/nb1b3k/CVE-2022-1421">
