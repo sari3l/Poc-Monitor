@@ -495,6 +495,7 @@
 - [miko550/CVE-2022-27925](https://github.com/miko550/CVE-2022-27925)	<img alt="forks" src="https://img.shields.io/github/forks/miko550/CVE-2022-27925">	<img alt="stars" src="https://img.shields.io/github/stars/miko550/CVE-2022-27925">
 - [GreyNoise-Intelligence/Zimbra_CVE-2022-37042-_CVE-2022-27925](https://github.com/GreyNoise-Intelligence/Zimbra_CVE-2022-37042-_CVE-2022-27925)	<img alt="forks" src="https://img.shields.io/github/forks/GreyNoise-Intelligence/Zimbra_CVE-2022-37042-_CVE-2022-27925">	<img alt="stars" src="https://img.shields.io/github/stars/GreyNoise-Intelligence/Zimbra_CVE-2022-37042-_CVE-2022-27925">
 - [navokus/CVE-2022-27925](https://github.com/navokus/CVE-2022-27925)	<img alt="forks" src="https://img.shields.io/github/forks/navokus/CVE-2022-27925">	<img alt="stars" src="https://img.shields.io/github/stars/navokus/CVE-2022-27925">
+- [Josexv1/CVE-2022-27925](https://github.com/Josexv1/CVE-2022-27925)	<img alt="forks" src="https://img.shields.io/github/forks/Josexv1/CVE-2022-27925">	<img alt="stars" src="https://img.shields.io/github/stars/Josexv1/CVE-2022-27925">
 
 ---
 ## CVE-2022-27438 (2022-06-06T23:15:00)
