@@ -93,6 +93,10 @@
 ## CVE-2019-17662 (2019-10-16T18:15:00)
 > ThinVNC 1.0b1 is vulnerable to arbitrary file read, which leads to a compromise of the VNC server. The vulnerability exists even when authentication is turned on during the deployment of the VNC server. The password for authentication is stored in cleartext in a file that can be read via a ../../ThinVnc.ini directory traversal attack vector.
 - [Tamagaft/CVE-2019-17662](https://github.com/Tamagaft/CVE-2019-17662)	<img alt="forks" src="https://img.shields.io/github/forks/Tamagaft/CVE-2019-17662">	<img alt="stars" src="https://img.shields.io/github/stars/Tamagaft/CVE-2019-17662">
+- [k4is3r13/Bash-Script-CVE-2019-17662](https://github.com/k4is3r13/Bash-Script-CVE-2019-17662)	<img alt="forks" src="https://img.shields.io/github/forks/k4is3r13/Bash-Script-CVE-2019-17662">	<img alt="stars" src="https://img.shields.io/github/stars/k4is3r13/Bash-Script-CVE-2019-17662">
+- [rajendrakumaryadav/CVE-2019-17662-Exploit](https://github.com/rajendrakumaryadav/CVE-2019-17662-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/rajendrakumaryadav/CVE-2019-17662-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/rajendrakumaryadav/CVE-2019-17662-Exploit">
+- [whokilleddb/CVE-2019-17662](https://github.com/whokilleddb/CVE-2019-17662)	<img alt="forks" src="https://img.shields.io/github/forks/whokilleddb/CVE-2019-17662">	<img alt="stars" src="https://img.shields.io/github/stars/whokilleddb/CVE-2019-17662">
+- [MuirlandOracle/CVE-2019-17662](https://github.com/MuirlandOracle/CVE-2019-17662)	<img alt="forks" src="https://img.shields.io/github/forks/MuirlandOracle/CVE-2019-17662">	<img alt="stars" src="https://img.shields.io/github/stars/MuirlandOracle/CVE-2019-17662">
 
 ---
 ## CVE-2019-17621 (2019-12-30T17:15:00)
