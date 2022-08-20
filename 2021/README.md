@@ -416,6 +416,7 @@
 - [ajtech-hue/CVE-2021-3156-Mitigation-ShellScript-Build](https://github.com/ajtech-hue/CVE-2021-3156-Mitigation-ShellScript-Build)	<img alt="forks" src="https://img.shields.io/github/forks/ajtech-hue/CVE-2021-3156-Mitigation-ShellScript-Build">	<img alt="stars" src="https://img.shields.io/github/stars/ajtech-hue/CVE-2021-3156-Mitigation-ShellScript-Build">
 - [capturingcats/CVE-2021-3156](https://github.com/capturingcats/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/capturingcats/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/capturingcats/CVE-2021-3156">
 - [password520/CVE-2021-3156](https://github.com/password520/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/password520/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/password520/CVE-2021-3156">
+- [kal1gh0st/CVE-2021-3156](https://github.com/kal1gh0st/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/kal1gh0st/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/kal1gh0st/CVE-2021-3156">
 
 ---
 ## CVE-2021-3060 (2021-11-10T17:15:00)
