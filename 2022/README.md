@@ -1089,6 +1089,7 @@
 - [eduquintanilha/CVE-2022-0847-DirtyPipe-Exploits](https://github.com/eduquintanilha/CVE-2022-0847-DirtyPipe-Exploits)	<img alt="forks" src="https://img.shields.io/github/forks/eduquintanilha/CVE-2022-0847-DirtyPipe-Exploits">	<img alt="stars" src="https://img.shields.io/github/stars/eduquintanilha/CVE-2022-0847-DirtyPipe-Exploits">
 - [XmasSnowISBACK/CVE-2022-0847-DirtyPipe-Exploits](https://github.com/XmasSnowISBACK/CVE-2022-0847-DirtyPipe-Exploits)	<img alt="forks" src="https://img.shields.io/github/forks/XmasSnowISBACK/CVE-2022-0847-DirtyPipe-Exploits">	<img alt="stars" src="https://img.shields.io/github/stars/XmasSnowISBACK/CVE-2022-0847-DirtyPipe-Exploits">
 - [EagleTube/CVE-2022-0847](https://github.com/EagleTube/CVE-2022-0847)	<img alt="forks" src="https://img.shields.io/github/forks/EagleTube/CVE-2022-0847">	<img alt="stars" src="https://img.shields.io/github/stars/EagleTube/CVE-2022-0847">
+- [yoeelingBin/CVE-2022-0847-Container-Escape](https://github.com/yoeelingBin/CVE-2022-0847-Container-Escape)	<img alt="forks" src="https://img.shields.io/github/forks/yoeelingBin/CVE-2022-0847-Container-Escape">	<img alt="stars" src="https://img.shields.io/github/stars/yoeelingBin/CVE-2022-0847-Container-Escape">
 
 ---
 ## CVE-2022-0666 (2022-02-18T15:15:00)
