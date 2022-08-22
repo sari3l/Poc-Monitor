@@ -626,6 +626,7 @@
 - [iveresk/cve-2022-26134](https://github.com/iveresk/cve-2022-26134)	<img alt="forks" src="https://img.shields.io/github/forks/iveresk/cve-2022-26134">	<img alt="stars" src="https://img.shields.io/github/stars/iveresk/cve-2022-26134">
 - [keven1z/CVE-2022-26134](https://github.com/keven1z/CVE-2022-26134)	<img alt="forks" src="https://img.shields.io/github/forks/keven1z/CVE-2022-26134">	<img alt="stars" src="https://img.shields.io/github/stars/keven1z/CVE-2022-26134">
 - [0x14dli/cve2022-26134exp](https://github.com/0x14dli/cve2022-26134exp)	<img alt="forks" src="https://img.shields.io/github/forks/0x14dli/cve2022-26134exp">	<img alt="stars" src="https://img.shields.io/github/stars/0x14dli/cve2022-26134exp">
+- [shiftsansan/CVE-2022-26134-Console](https://github.com/shiftsansan/CVE-2022-26134-Console)	<img alt="forks" src="https://img.shields.io/github/forks/shiftsansan/CVE-2022-26134-Console">	<img alt="stars" src="https://img.shields.io/github/stars/shiftsansan/CVE-2022-26134-Console">
 
 ---
 ## CVE-2022-2588 ()
