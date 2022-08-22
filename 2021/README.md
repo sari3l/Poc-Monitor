@@ -683,6 +683,12 @@
 - [jbaines-r7/badblood](https://github.com/jbaines-r7/badblood)	<img alt="forks" src="https://img.shields.io/github/forks/jbaines-r7/badblood">	<img alt="stars" src="https://img.shields.io/github/stars/jbaines-r7/badblood">
 
 ---
+## CVE-2021-09 ()
+> 
+- [zeroc00I/CVE-2021-09-03](https://github.com/zeroc00I/CVE-2021-09-03)	<img alt="forks" src="https://img.shields.io/github/forks/zeroc00I/CVE-2021-09-03">	<img alt="stars" src="https://img.shields.io/github/stars/zeroc00I/CVE-2021-09-03">
+- [nanopathi/framework_base_AOSP10_r33_CVE-2021-0954](https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0954)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/framework_base_AOSP10_r33_CVE-2021-0954">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/framework_base_AOSP10_r33_CVE-2021-0954">
+
+---
 ## CVE-2021-0520 (2021-06-21T17:15:00)
 > In several functions of MemoryFileSystem.cpp and related files, there is a possible use after free due to a race condition. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-11 Android-10Android ID: A-176237595
 - [nidhi7598/frameworks_av_AOSP_10_r33_CVE-2021-0520](https://github.com/nidhi7598/frameworks_av_AOSP_10_r33_CVE-2021-0520)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_av_AOSP_10_r33_CVE-2021-0520">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_av_AOSP_10_r33_CVE-2021-0520">

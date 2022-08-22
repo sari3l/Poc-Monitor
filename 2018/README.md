@@ -140,6 +140,11 @@
 - [gscamelo/CVE-2018-20580](https://github.com/gscamelo/CVE-2018-20580)	<img alt="forks" src="https://img.shields.io/github/forks/gscamelo/CVE-2018-20580">	<img alt="stars" src="https://img.shields.io/github/stars/gscamelo/CVE-2018-20580">
 
 ---
+## CVE-2018-20463 (2018-12-25T21:29:00)
+> An issue was discovered in the JSmol2WP plugin 1.07 for WordPress. There is an arbitrary file read vulnerability via ../ directory traversal in query=php://filter/resource= in the jsmol.php query string. This can also be used for SSRF.
+- [Henry4E36/CVE-2018-20463](https://github.com/Henry4E36/CVE-2018-20463)	<img alt="forks" src="https://img.shields.io/github/forks/Henry4E36/CVE-2018-20463">	<img alt="stars" src="https://img.shields.io/github/stars/Henry4E36/CVE-2018-20463">
+
+---
 ## CVE-2018-20175 (2019-03-15T18:29:00)
 > rdesktop versions up to and including v1.8.3 contains several Integer Signedness errors that lead to Out-Of-Bounds Reads in the file mcs.c and result in a Denial of Service (segfault).
 - [ahaShiyu/CVE-2018-20175](https://github.com/ahaShiyu/CVE-2018-20175)	<img alt="forks" src="https://img.shields.io/github/forks/ahaShiyu/CVE-2018-20175">	<img alt="stars" src="https://img.shields.io/github/stars/ahaShiyu/CVE-2018-20175">
