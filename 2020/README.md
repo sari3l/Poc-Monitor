@@ -223,6 +223,9 @@
 - [b1ack0wl/CVE-2020-1472](https://github.com/b1ack0wl/CVE-2020-1472)	<img alt="forks" src="https://img.shields.io/github/forks/b1ack0wl/CVE-2020-1472">	<img alt="stars" src="https://img.shields.io/github/stars/b1ack0wl/CVE-2020-1472">
 - [maikelnight/zerologon](https://github.com/maikelnight/zerologon)	<img alt="forks" src="https://img.shields.io/github/forks/maikelnight/zerologon">	<img alt="stars" src="https://img.shields.io/github/stars/maikelnight/zerologon">
 - [VoidSec/CVE-2020-1472](https://github.com/VoidSec/CVE-2020-1472)	<img alt="forks" src="https://img.shields.io/github/forks/VoidSec/CVE-2020-1472">	<img alt="stars" src="https://img.shields.io/github/stars/VoidSec/CVE-2020-1472">
+- [mingchen-script/CVE-2020-1472-visualizer](https://github.com/mingchen-script/CVE-2020-1472-visualizer)	<img alt="forks" src="https://img.shields.io/github/forks/mingchen-script/CVE-2020-1472-visualizer">	<img alt="stars" src="https://img.shields.io/github/stars/mingchen-script/CVE-2020-1472-visualizer">
+- [dirkjanm/CVE-2020-1472](https://github.com/dirkjanm/CVE-2020-1472)	<img alt="forks" src="https://img.shields.io/github/forks/dirkjanm/CVE-2020-1472">	<img alt="stars" src="https://img.shields.io/github/stars/dirkjanm/CVE-2020-1472">
+- [johnpathe/zerologon-cve-2020-1472-notes](https://github.com/johnpathe/zerologon-cve-2020-1472-notes)	<img alt="forks" src="https://img.shields.io/github/forks/johnpathe/zerologon-cve-2020-1472-notes">	<img alt="stars" src="https://img.shields.io/github/stars/johnpathe/zerologon-cve-2020-1472-notes">
 
 ---
 ## CVE-2020-10770 (2020-12-15T20:15:00)
