@@ -284,8 +284,8 @@
 - [p0dalirius/CVE-2022-30780-lighttpd-denial-of-service](https://github.com/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service)	<img alt="forks" src="https://img.shields.io/github/forks/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service">	<img alt="stars" src="https://img.shields.io/github/stars/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service">
 
 ---
-## CVE-2022-30778 ()
-> 
+## CVE-2022-30778 (2022-05-16T04:15:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was withdrawn by its CNA. Further investigation showed that it was not a security issue. Notes: none.
 - [kang8/CVE-2022-30778](https://github.com/kang8/CVE-2022-30778)	<img alt="forks" src="https://img.shields.io/github/forks/kang8/CVE-2022-30778">	<img alt="stars" src="https://img.shields.io/github/stars/kang8/CVE-2022-30778">
 
 ---
