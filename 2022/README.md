@@ -834,6 +834,7 @@
 - [michaelklaan/CVE-2022-22947-Spring-Cloud](https://github.com/michaelklaan/CVE-2022-22947-Spring-Cloud)	<img alt="forks" src="https://img.shields.io/github/forks/michaelklaan/CVE-2022-22947-Spring-Cloud">	<img alt="stars" src="https://img.shields.io/github/stars/michaelklaan/CVE-2022-22947-Spring-Cloud">
 - [LY613313/CVE-2022-22947](https://github.com/LY613313/CVE-2022-22947)	<img alt="forks" src="https://img.shields.io/github/forks/LY613313/CVE-2022-22947">	<img alt="stars" src="https://img.shields.io/github/stars/LY613313/CVE-2022-22947">
 - [chaosec2021/EXP-POC](https://github.com/chaosec2021/EXP-POC)	<img alt="forks" src="https://img.shields.io/github/forks/chaosec2021/EXP-POC">	<img alt="stars" src="https://img.shields.io/github/stars/chaosec2021/EXP-POC">
+- [SiJiDo/CVE-2022-22947](https://github.com/SiJiDo/CVE-2022-22947)	<img alt="forks" src="https://img.shields.io/github/forks/SiJiDo/CVE-2022-22947">	<img alt="stars" src="https://img.shields.io/github/stars/SiJiDo/CVE-2022-22947">
 
 ---
 ## CVE-2022-22620 (2022-03-18T18:15:00)
