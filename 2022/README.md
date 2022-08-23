@@ -284,6 +284,11 @@
 - [p0dalirius/CVE-2022-30780-lighttpd-denial-of-service](https://github.com/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service)	<img alt="forks" src="https://img.shields.io/github/forks/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service">	<img alt="stars" src="https://img.shields.io/github/stars/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service">
 
 ---
+## CVE-2022-30778 ()
+> 
+- [kang8/CVE-2022-30778](https://github.com/kang8/CVE-2022-30778)	<img alt="forks" src="https://img.shields.io/github/forks/kang8/CVE-2022-30778">	<img alt="stars" src="https://img.shields.io/github/stars/kang8/CVE-2022-30778">
+
+---
 ## CVE-2022-30709 (2022-06-07T18:15:00)
 > Improper input validation check logic vulnerability in SECRIL prior to SMR Jun-2022 Release 1 allows attackers to trigger crash.
 - [bl4ckmenace/CVE-2022-30709](https://github.com/bl4ckmenace/CVE-2022-30709)	<img alt="forks" src="https://img.shields.io/github/forks/bl4ckmenace/CVE-2022-30709">	<img alt="stars" src="https://img.shields.io/github/stars/bl4ckmenace/CVE-2022-30709">

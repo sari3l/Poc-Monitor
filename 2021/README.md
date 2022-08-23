@@ -85,6 +85,11 @@
 - [hfh86/CVE-2021-43530-UXSS-On-QRcode-Reader-](https://github.com/hfh86/CVE-2021-43530-UXSS-On-QRcode-Reader-)	<img alt="forks" src="https://img.shields.io/github/forks/hfh86/CVE-2021-43530-UXSS-On-QRcode-Reader-">	<img alt="stars" src="https://img.shields.io/github/stars/hfh86/CVE-2021-43530-UXSS-On-QRcode-Reader-">
 
 ---
+## CVE-2021-43503 ()
+> 
+- [kang8/CVE-2021-43503](https://github.com/kang8/CVE-2021-43503)	<img alt="forks" src="https://img.shields.io/github/forks/kang8/CVE-2021-43503">	<img alt="stars" src="https://img.shields.io/github/stars/kang8/CVE-2021-43503">
+
+---
 ## CVE-2021-43229 (2021-12-15T15:15:00)
 > Windows NTFS Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-43230, CVE-2021-43231.
 - [Citizen13X/CVE-2021-43229](https://github.com/Citizen13X/CVE-2021-43229)	<img alt="forks" src="https://img.shields.io/github/forks/Citizen13X/CVE-2021-43229">	<img alt="stars" src="https://img.shields.io/github/stars/Citizen13X/CVE-2021-43229">
