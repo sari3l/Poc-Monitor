@@ -344,6 +344,16 @@
 - [JiaJinRong12138/CVE-2021-36955-EXP](https://github.com/JiaJinRong12138/CVE-2021-36955-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/JiaJinRong12138/CVE-2021-36955-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/JiaJinRong12138/CVE-2021-36955-EXP">
 
 ---
+## CVE-2021-36749 (2021-09-24T10:15:00)
+> In the Druid ingestion system, the InputSource is used for reading data from a certain data source. However, the HTTP InputSource allows authenticated users to read data from other sources than intended, such as the local file system, with the privileges of the Druid server process. This is not an elevation of privilege when users access Druid directly, since Druid also provides the Local InputSource, which allows the same level of access. But it is problematic when users interact with Druid indirectly through an application that allows users to specify the HTTP InputSource, but not the Local InputSource. In this case, users could bypass the application-level restriction by passing a file URL to the HTTP InputSource. This issue was previously mentioned as being fixed in 0.21.0 as per CVE-2021-26920 but was not fixed in 0.21.0 or 0.21.1.
+- [hanch7274/CVE-2021-36749](https://github.com/hanch7274/CVE-2021-36749)	<img alt="forks" src="https://img.shields.io/github/forks/hanch7274/CVE-2021-36749">	<img alt="stars" src="https://img.shields.io/github/stars/hanch7274/CVE-2021-36749">
+- [dorkerdevil/CVE-2021-36749](https://github.com/dorkerdevil/CVE-2021-36749)	<img alt="forks" src="https://img.shields.io/github/forks/dorkerdevil/CVE-2021-36749">	<img alt="stars" src="https://img.shields.io/github/stars/dorkerdevil/CVE-2021-36749">
+- [Jun-5heng/CVE-2021-36749](https://github.com/Jun-5heng/CVE-2021-36749)	<img alt="forks" src="https://img.shields.io/github/forks/Jun-5heng/CVE-2021-36749">	<img alt="stars" src="https://img.shields.io/github/stars/Jun-5heng/CVE-2021-36749">
+- [Sma11New/PocList](https://github.com/Sma11New/PocList)	<img alt="forks" src="https://img.shields.io/github/forks/Sma11New/PocList">	<img alt="stars" src="https://img.shields.io/github/stars/Sma11New/PocList">
+- [zwlsix/apache_druid_CVE-2021-36749](https://github.com/zwlsix/apache_druid_CVE-2021-36749)	<img alt="forks" src="https://img.shields.io/github/forks/zwlsix/apache_druid_CVE-2021-36749">	<img alt="stars" src="https://img.shields.io/github/stars/zwlsix/apache_druid_CVE-2021-36749">
+- [BrucessKING/CVE-2021-36749](https://github.com/BrucessKING/CVE-2021-36749)	<img alt="forks" src="https://img.shields.io/github/forks/BrucessKING/CVE-2021-36749">	<img alt="stars" src="https://img.shields.io/github/stars/BrucessKING/CVE-2021-36749">
+
+---
 ## CVE-2021-36260 (2021-09-22T13:15:00)
 > A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input validation, attacker can exploit the vulnerability to launch a command injection attack by sending some messages with malicious commands.
 - [Cuerz/CVE-2021-36260](https://github.com/Cuerz/CVE-2021-36260)	<img alt="forks" src="https://img.shields.io/github/forks/Cuerz/CVE-2021-36260">	<img alt="stars" src="https://img.shields.io/github/stars/Cuerz/CVE-2021-36260">
