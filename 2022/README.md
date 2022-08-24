@@ -114,7 +114,8 @@
 > An issue was discovered in Django 3.2 before 3.2.14 and 4.0 before 4.0.6. The Trunc() and Extract() database functions are subject to SQL injection if untrusted data is used as a kind/lookup_name value. Applications that constrain the lookup name and kind choice to a known safe list are unaffected.
 - [aeyesec/CVE-2022-34265](https://github.com/aeyesec/CVE-2022-34265)	<img alt="forks" src="https://img.shields.io/github/forks/aeyesec/CVE-2022-34265">	<img alt="stars" src="https://img.shields.io/github/stars/aeyesec/CVE-2022-34265">
 - [NopFault/CVE-2022-34265](https://github.com/NopFault/CVE-2022-34265)	<img alt="forks" src="https://img.shields.io/github/forks/NopFault/CVE-2022-34265">	<img alt="stars" src="https://img.shields.io/github/stars/NopFault/CVE-2022-34265">
-- [not-xences/CVE-2022-34265](https://github.com/not-xences/CVE-2022-34265)	<img alt="forks" src="https://img.shields.io/github/forks/not-xences/CVE-2022-34265">	<img alt="stars" src="https://img.shields.io/github/stars/not-xences/CVE-2022-34265">
+- [traumatising/CVE-2022-34265](https://github.com/traumatising/CVE-2022-34265)	<img alt="forks" src="https://img.shields.io/github/forks/traumatising/CVE-2022-34265">	<img alt="stars" src="https://img.shields.io/github/stars/traumatising/CVE-2022-34265">
+- [ZhaoQi99/CVE-2022-34265](https://github.com/ZhaoQi99/CVE-2022-34265)	<img alt="forks" src="https://img.shields.io/github/forks/ZhaoQi99/CVE-2022-34265">	<img alt="stars" src="https://img.shields.io/github/stars/ZhaoQi99/CVE-2022-34265">
 
 ---
 ## CVE-2022-34169 (2022-07-19T18:15:00)
