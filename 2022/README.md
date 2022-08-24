@@ -710,6 +710,12 @@
 - [nanaao/CVE-2022-24086-RCE](https://github.com/nanaao/CVE-2022-24086-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/nanaao/CVE-2022-24086-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/nanaao/CVE-2022-24086-RCE">
 
 ---
+## CVE-2022-23779 (2022-03-02T15:15:00)
+> Zoho ManageEngine Desktop Central before 10.1.2137.8 exposes the installed server name to anyone. The internal hostname can be discovered by reading HTTP redirect responses.
+- [Vulnmachines/Zoho_CVE-2022-23779](https://github.com/Vulnmachines/Zoho_CVE-2022-23779)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/Zoho_CVE-2022-23779">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/Zoho_CVE-2022-23779">
+- [fbusr/CVE-2022-23779](https://github.com/fbusr/CVE-2022-23779)	<img alt="forks" src="https://img.shields.io/github/forks/fbusr/CVE-2022-23779">	<img alt="stars" src="https://img.shields.io/github/stars/fbusr/CVE-2022-23779">
+
+---
 ## CVE-2022-23614 (2022-02-04T23:15:00)
 > Twig is an open source template language for PHP. When in a sandbox mode, the `arrow` parameter of the `sort` filter must be a closure to avoid attackers being able to run arbitrary PHP functions. In affected versions this constraint was not properly enforced and could lead to code injection of arbitrary PHP code. Patched versions now disallow calling non Closure in the `sort` filter as is the case for some other filters. Users are advised to upgrade.
 - [davwwwx/CVE-2022-23614](https://github.com/davwwwx/CVE-2022-23614)	<img alt="forks" src="https://img.shields.io/github/forks/davwwwx/CVE-2022-23614">	<img alt="stars" src="https://img.shields.io/github/stars/davwwwx/CVE-2022-23614">
