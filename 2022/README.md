@@ -31,6 +31,7 @@
 > Zimbra Collaboration Suite (ZCS) 8.8.15 and 9.0 has mboximport functionality that receives a ZIP archive and extracts files from it. By bypassing authentication (i.e., not having an authtoken), an attacker can upload arbitrary files to the system, leading to directory traversal and remote code execution. NOTE: this issue exists because of an incomplete fix for CVE-2022-27925.
 - [GreyNoise-Intelligence/Zimbra_Collaboration_CVE-2022-37042-_CVE-2022-27925](https://github.com/GreyNoise-Intelligence/Zimbra_Collaboration_CVE-2022-37042-_CVE-2022-27925)	<img alt="forks" src="https://img.shields.io/github/forks/GreyNoise-Intelligence/Zimbra_Collaboration_CVE-2022-37042-_CVE-2022-27925">	<img alt="stars" src="https://img.shields.io/github/stars/GreyNoise-Intelligence/Zimbra_Collaboration_CVE-2022-37042-_CVE-2022-27925">
 - [GreyNoise-Intelligence/Zimbra_CVE-2022-37042-_CVE-2022-27925](https://github.com/GreyNoise-Intelligence/Zimbra_CVE-2022-37042-_CVE-2022-27925)	<img alt="forks" src="https://img.shields.io/github/forks/GreyNoise-Intelligence/Zimbra_CVE-2022-37042-_CVE-2022-27925">	<img alt="stars" src="https://img.shields.io/github/stars/GreyNoise-Intelligence/Zimbra_CVE-2022-37042-_CVE-2022-27925">
+- [aels/CVE-2022-37042](https://github.com/aels/CVE-2022-37042)	<img alt="forks" src="https://img.shields.io/github/forks/aels/CVE-2022-37042">	<img alt="stars" src="https://img.shields.io/github/stars/aels/CVE-2022-37042">
 
 ---
 ## CVE-2022-36946 (2022-07-27T20:15:00)
