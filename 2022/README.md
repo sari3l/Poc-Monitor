@@ -168,6 +168,7 @@
 ## CVE-2022-32250 (2022-06-02T21:15:00)
 > net/netfilter/nf_tables_api.c in the Linux kernel through 5.18.1 allows a local user (able to create user/net namespaces) to escalate privileges to root because an incorrect NFT_STATEFUL_EXPR check leads to a use-after-free.
 - [0dayCTF/CVE-2022-32250_PoC](https://github.com/0dayCTF/CVE-2022-32250_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0dayCTF/CVE-2022-32250_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0dayCTF/CVE-2022-32250_PoC">
+- [theori-io/CVE-2022-32250-exploit](https://github.com/theori-io/CVE-2022-32250-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/theori-io/CVE-2022-32250-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/theori-io/CVE-2022-32250-exploit">
 
 ---
 ## CVE-2022-32224 ()
