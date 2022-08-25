@@ -11,9 +11,20 @@
 - [Fjowel/CVE-2022-37153](https://github.com/Fjowel/CVE-2022-37153)	<img alt="forks" src="https://img.shields.io/github/forks/Fjowel/CVE-2022-37153">	<img alt="stars" src="https://img.shields.io/github/stars/Fjowel/CVE-2022-37153">
 
 ---
+## CVE-2022-37152 ()
+> 
+- [Fjowel/CVE-2022-37152](https://github.com/Fjowel/CVE-2022-37152)	<img alt="forks" src="https://img.shields.io/github/forks/Fjowel/CVE-2022-37152">	<img alt="stars" src="https://img.shields.io/github/stars/Fjowel/CVE-2022-37152">
+
+---
+## CVE-2022-37151 ()
+> 
+- [Fjowel/CVE-2022-37151](https://github.com/Fjowel/CVE-2022-37151)	<img alt="forks" src="https://img.shields.io/github/forks/Fjowel/CVE-2022-37151">	<img alt="stars" src="https://img.shields.io/github/stars/Fjowel/CVE-2022-37151">
+
+---
 ## CVE-2022-37150 ()
 > 
 - [Fjowel/CVE-2022-37150-CVE-2022-37151-CVE-2022-37152](https://github.com/Fjowel/CVE-2022-37150-CVE-2022-37151-CVE-2022-37152)	<img alt="forks" src="https://img.shields.io/github/forks/Fjowel/CVE-2022-37150-CVE-2022-37151-CVE-2022-37152">	<img alt="stars" src="https://img.shields.io/github/stars/Fjowel/CVE-2022-37150-CVE-2022-37151-CVE-2022-37152">
+- [Fjowel/CVE-2022-37150](https://github.com/Fjowel/CVE-2022-37150)	<img alt="forks" src="https://img.shields.io/github/forks/Fjowel/CVE-2022-37150">	<img alt="stars" src="https://img.shields.io/github/stars/Fjowel/CVE-2022-37150">
 
 ---
 ## CVE-2022-37042 (2022-08-12T15:15:00)
