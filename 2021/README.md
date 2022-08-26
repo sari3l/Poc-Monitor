@@ -62,6 +62,9 @@
 - [puzzlepeaches/Log4jUnifi](https://github.com/puzzlepeaches/Log4jUnifi)	<img alt="forks" src="https://img.shields.io/github/forks/puzzlepeaches/Log4jUnifi">	<img alt="stars" src="https://img.shields.io/github/stars/puzzlepeaches/Log4jUnifi">
 - [isuruwa/Log4j](https://github.com/isuruwa/Log4j)	<img alt="forks" src="https://img.shields.io/github/forks/isuruwa/Log4j">	<img alt="stars" src="https://img.shields.io/github/stars/isuruwa/Log4j">
 - [mrjameshamilton/log4shell-detector](https://github.com/mrjameshamilton/log4shell-detector)	<img alt="forks" src="https://img.shields.io/github/forks/mrjameshamilton/log4shell-detector">	<img alt="stars" src="https://img.shields.io/github/stars/mrjameshamilton/log4shell-detector">
+- [eurogig/jankybank](https://github.com/eurogig/jankybank)	<img alt="forks" src="https://img.shields.io/github/forks/eurogig/jankybank">	<img alt="stars" src="https://img.shields.io/github/stars/eurogig/jankybank">
+- [LarityRay/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve](https://github.com/LarityRay/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve)	<img alt="forks" src="https://img.shields.io/github/forks/LarityRay/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve">	<img alt="stars" src="https://img.shields.io/github/stars/LarityRay/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve">
+- [mazhar-hassan/log4j-vulnerability](https://github.com/mazhar-hassan/log4j-vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/mazhar-hassan/log4j-vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/mazhar-hassan/log4j-vulnerability">
 
 ---
 ## CVE-2021-44158 (2022-01-03T10:15:00)
