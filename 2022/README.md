@@ -6,6 +6,11 @@
 - [Vbedtt54e5/interesting-release-of-CVE-2022-63432](https://github.com/Vbedtt54e5/interesting-release-of-CVE-2022-63432)	<img alt="forks" src="https://img.shields.io/github/forks/Vbedtt54e5/interesting-release-of-CVE-2022-63432">	<img alt="stars" src="https://img.shields.io/github/stars/Vbedtt54e5/interesting-release-of-CVE-2022-63432">
 
 ---
+## CVE-2022-38766 ()
+> 
+- [AUTOCRYPT-IVS-VnV/CVE-2022-38766](https://github.com/AUTOCRYPT-IVS-VnV/CVE-2022-38766)	<img alt="forks" src="https://img.shields.io/github/forks/AUTOCRYPT-IVS-VnV/CVE-2022-38766">	<img alt="stars" src="https://img.shields.io/github/stars/AUTOCRYPT-IVS-VnV/CVE-2022-38766">
+
+---
 ## CVE-2022-37153 (2022-08-24T13:15:00)
 > An issue was discovered in Artica Proxy 4.30.000000. There is a XSS vulnerability via the password parameter in /fw.login.php.
 - [Fjowel/CVE-2022-37153](https://github.com/Fjowel/CVE-2022-37153)	<img alt="forks" src="https://img.shields.io/github/forks/Fjowel/CVE-2022-37153">	<img alt="stars" src="https://img.shields.io/github/stars/Fjowel/CVE-2022-37153">
