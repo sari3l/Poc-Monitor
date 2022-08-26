@@ -9,6 +9,7 @@
 ## CVE-2022-37153 (2022-08-24T13:15:00)
 > An issue was discovered in Artica Proxy 4.30.000000. There is a XSS vulnerability via the password parameter in /fw.login.php.
 - [Fjowel/CVE-2022-37153](https://github.com/Fjowel/CVE-2022-37153)	<img alt="forks" src="https://img.shields.io/github/forks/Fjowel/CVE-2022-37153">	<img alt="stars" src="https://img.shields.io/github/stars/Fjowel/CVE-2022-37153">
+- [5l1v3r1/CVE-2022-37153](https://github.com/5l1v3r1/CVE-2022-37153)	<img alt="forks" src="https://img.shields.io/github/forks/5l1v3r1/CVE-2022-37153">	<img alt="stars" src="https://img.shields.io/github/stars/5l1v3r1/CVE-2022-37153">
 
 ---
 ## CVE-2022-37152 ()
