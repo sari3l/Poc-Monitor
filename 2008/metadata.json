@@ -1,0 +1,1 @@
+{"CVE-2008-0166":{"Published":"2008-05-13T17:20:00","summary":"OpenSSL 0.9.8c-1 up to versions before 0.9.8g-9 on Debian-based operating systems uses a random number generator that generates predictable numbers, which makes it easier for remote attackers to conduct brute force guessing attacks against cryptographic keys."}}
