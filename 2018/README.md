@@ -155,6 +155,13 @@
 - [ahaShiyu/CVE-2018-19854](https://github.com/ahaShiyu/CVE-2018-19854)	<img alt="forks" src="https://img.shields.io/github/forks/ahaShiyu/CVE-2018-19854">	<img alt="stars" src="https://img.shields.io/github/stars/ahaShiyu/CVE-2018-19854">
 
 ---
+## CVE-2018-1932 (2019-01-08T16:29:00)
+> IBM API Connect 5.0.0.0 through 5.0.8.4 is affected by a vulnerability in the role-based access control in the management server that could allow an authenticated user to obtain highly sensitive information. IBM X-Force ID: 153175.
+- [BKreisel/CVE-2018-1932X](https://github.com/BKreisel/CVE-2018-1932X)	<img alt="forks" src="https://img.shields.io/github/forks/BKreisel/CVE-2018-1932X">	<img alt="stars" src="https://img.shields.io/github/stars/BKreisel/CVE-2018-1932X">
+- [hmnthabit/CVE-2018-19320-LPE](https://github.com/hmnthabit/CVE-2018-19320-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/hmnthabit/CVE-2018-19320-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/hmnthabit/CVE-2018-19320-LPE">
+- [ASkyeye/CVE-2018-19320](https://github.com/ASkyeye/CVE-2018-19320)	<img alt="forks" src="https://img.shields.io/github/forks/ASkyeye/CVE-2018-19320">	<img alt="stars" src="https://img.shields.io/github/stars/ASkyeye/CVE-2018-19320">
+
+---
 ## CVE-2018-19246 (2018-11-13T09:29:00)
 > PHP-Proxy 5.1.0 allows remote attackers to read local files if the default "pre-installed version" (intended for users who lack shell access to their web server) is used. This occurs because the aeb067ca0aa9a3193dce3a7264c90187 app_key value from the default config.php is in place, and this value can be easily used to calculate the authorization data needed for local file inclusion.
 - [NeoWans/CVE-2018-19246](https://github.com/NeoWans/CVE-2018-19246)	<img alt="forks" src="https://img.shields.io/github/forks/NeoWans/CVE-2018-19246">	<img alt="stars" src="https://img.shields.io/github/stars/NeoWans/CVE-2018-19246">
