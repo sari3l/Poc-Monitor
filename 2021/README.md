@@ -608,6 +608,11 @@
 - [crowsec-edtech/CVE-2021-26084](https://github.com/crowsec-edtech/CVE-2021-26084)	<img alt="forks" src="https://img.shields.io/github/forks/crowsec-edtech/CVE-2021-26084">	<img alt="stars" src="https://img.shields.io/github/stars/crowsec-edtech/CVE-2021-26084">
 
 ---
+## CVE-2021-25642 (2022-08-25T14:15:00)
+> ZKConfigurationStore which is optionally used by CapacityScheduler of Apache Hadoop YARN deserializes data obtained from ZooKeeper without validation. An attacker having access to ZooKeeper can run arbitrary commands as YARN user by exploiting this. Users should upgrade to Apache Hadoop 2.10.2, 3.2.4, 3.3.4 or later (containing YARN-11126) if ZKConfigurationStore is used.
+- [safe3s/CVE-2021-25642](https://github.com/safe3s/CVE-2021-25642)	<img alt="forks" src="https://img.shields.io/github/forks/safe3s/CVE-2021-25642">	<img alt="stars" src="https://img.shields.io/github/stars/safe3s/CVE-2021-25642">
+
+---
 ## CVE-2021-25461 (2021-09-09T19:15:00)
 > An improper length check in APAService prior to SMR Sep-2021 Release 1 results in stack based Buffer Overflow.
 - [bkojusner/CVE-2021-25461](https://github.com/bkojusner/CVE-2021-25461)	<img alt="forks" src="https://img.shields.io/github/forks/bkojusner/CVE-2021-25461">	<img alt="stars" src="https://img.shields.io/github/stars/bkojusner/CVE-2021-25461">
