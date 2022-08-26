@@ -277,6 +277,12 @@
 - [eastmountyxz/CVE-2020-0796-SMB](https://github.com/eastmountyxz/CVE-2020-0796-SMB)	<img alt="forks" src="https://img.shields.io/github/forks/eastmountyxz/CVE-2020-0796-SMB">	<img alt="stars" src="https://img.shields.io/github/stars/eastmountyxz/CVE-2020-0796-SMB">
 
 ---
+## CVE-2020-0416 (2020-10-14T14:15:00)
+> In multiple settings screens, there are possible tapjacking attacks due to an insecure default value. This could lead to local escalation of privilege and permissions with no additional execution privileges needed. User interaction is needed for exploitation.Product: AndroidVersions: Android-9 Android-10 Android-11 Android-8.0 Android-8.1Android ID: A-155288585
+- [Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2020-0416](https://github.com/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2020-0416)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2020-0416">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2020-0416">
+- [ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2020-0416](https://github.com/ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2020-0416)	<img alt="forks" src="https://img.shields.io/github/forks/ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2020-0416">	<img alt="stars" src="https://img.shields.io/github/stars/ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2020-0416">
+
+---
 ## CVE-2020-0188 (2020-06-11T15:15:00)
 > In onCreatePermissionRequest of SettingsSliceProvider.java, there is a possible permissions bypass due to a PendingIntent error. This could lead to local escalation of privilege with User execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10Android ID: A-147355897
 - [Nivaskumark/packages_apps_Settings_CVE-2020-0188_A10_R33](https://github.com/Nivaskumark/packages_apps_Settings_CVE-2020-0188_A10_R33)	<img alt="forks" src="https://img.shields.io/github/forks/Nivaskumark/packages_apps_Settings_CVE-2020-0188_A10_R33">	<img alt="stars" src="https://img.shields.io/github/stars/Nivaskumark/packages_apps_Settings_CVE-2020-0188_A10_R33">
