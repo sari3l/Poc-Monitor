@@ -13,6 +13,11 @@
 - [dwisiswant0/CVE-2020-9496](https://github.com/dwisiswant0/CVE-2020-9496)	<img alt="forks" src="https://img.shields.io/github/forks/dwisiswant0/CVE-2020-9496">	<img alt="stars" src="https://img.shields.io/github/stars/dwisiswant0/CVE-2020-9496">
 
 ---
+## CVE-2020-9006 (2020-02-17T15:15:00)
+> The Popup Builder plugin 2.2.8 through 2.6.7.6 for WordPress is vulnerable to SQL injection (in the sgImportPopups function in sg_popup_ajax.php) via PHP Deserialization on attacker-controlled data with the attachmentUrl POST variable. This allows creation of an arbitrary WordPress Administrator account, leading to possible Remote Code Execution because Administrators can run PHP code on Wordpress instances. (This issue has been fixed in the 3.x branch of popup-builder.)
+- [s3rgeym/cve-2020-9006](https://github.com/s3rgeym/cve-2020-9006)	<img alt="forks" src="https://img.shields.io/github/forks/s3rgeym/cve-2020-9006">	<img alt="stars" src="https://img.shields.io/github/stars/s3rgeym/cve-2020-9006">
+
+---
 ## CVE-2020-8512 (2020-02-01T00:15:00)
 > In IceWarp Webmail Server through 11.4.4.1, there is XSS in the /webmail/ color parameter.
 - [trhacknon/CVE-2020-8512](https://github.com/trhacknon/CVE-2020-8512)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2020-8512">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2020-8512">
