@@ -1169,6 +1169,16 @@
 - [aodsec/CVE-2022-0543](https://github.com/aodsec/CVE-2022-0543)	<img alt="forks" src="https://img.shields.io/github/forks/aodsec/CVE-2022-0543">	<img alt="stars" src="https://img.shields.io/github/stars/aodsec/CVE-2022-0543">
 
 ---
+## CVE-2022-0492 (2022-03-03T19:15:00)
+> A vulnerability was found in the Linux kernel’s cgroup_release_agent_write in the kernel/cgroup/cgroup-v1.c function. This flaw, under certain circumstances, allows the use of the cgroups v1 release_agent feature to escalate privileges and bypass the namespace isolation unexpectedly.
+- [yoeelingBin/CVE-2022-0492-Container-Escape](https://github.com/yoeelingBin/CVE-2022-0492-Container-Escape)	<img alt="forks" src="https://img.shields.io/github/forks/yoeelingBin/CVE-2022-0492-Container-Escape">	<img alt="stars" src="https://img.shields.io/github/stars/yoeelingBin/CVE-2022-0492-Container-Escape">
+- [Trinadh465/device_renesas_kernel_AOSP10_r33_CVE-2022-0492](https://github.com/Trinadh465/device_renesas_kernel_AOSP10_r33_CVE-2022-0492)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/device_renesas_kernel_AOSP10_r33_CVE-2022-0492">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/device_renesas_kernel_AOSP10_r33_CVE-2022-0492">
+- [SofianeHamlaoui/CVE-2022-0492-Checker](https://github.com/SofianeHamlaoui/CVE-2022-0492-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/SofianeHamlaoui/CVE-2022-0492-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/SofianeHamlaoui/CVE-2022-0492-Checker">
+- [chenaotian/CVE-2022-0492](https://github.com/chenaotian/CVE-2022-0492)	<img alt="forks" src="https://img.shields.io/github/forks/chenaotian/CVE-2022-0492">	<img alt="stars" src="https://img.shields.io/github/stars/chenaotian/CVE-2022-0492">
+- [PaloAltoNetworks/can-ctr-escape-cve-2022-0492](https://github.com/PaloAltoNetworks/can-ctr-escape-cve-2022-0492)	<img alt="forks" src="https://img.shields.io/github/forks/PaloAltoNetworks/can-ctr-escape-cve-2022-0492">	<img alt="stars" src="https://img.shields.io/github/stars/PaloAltoNetworks/can-ctr-escape-cve-2022-0492">
+- [puckiestyle/CVE-2022-0492](https://github.com/puckiestyle/CVE-2022-0492)	<img alt="forks" src="https://img.shields.io/github/forks/puckiestyle/CVE-2022-0492">	<img alt="stars" src="https://img.shields.io/github/stars/puckiestyle/CVE-2022-0492">
+
+---
 ## CVE-2022-0441 (2022-03-07T09:15:00)
 > The MasterStudy LMS WordPress plugin before 2.7.6 does to validate some parameters given when registering a new account, allowing unauthenticated users to register as an admin
 - [biulove0x/CVE-2022-0441](https://github.com/biulove0x/CVE-2022-0441)	<img alt="forks" src="https://img.shields.io/github/forks/biulove0x/CVE-2022-0441">	<img alt="stars" src="https://img.shields.io/github/stars/biulove0x/CVE-2022-0441">
