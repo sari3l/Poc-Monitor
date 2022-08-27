@@ -545,6 +545,7 @@
 ## CVE-2022-27255 (2022-08-01T12:15:00)
 > In Realtek eCos RSDK 1.5.7p1 and MSDK 4.9.4p1, the SIP ALG function that rewrites SDP data has a stack-based buffer overflow. This allows an attacker to remotely execute code without authentication via a crafted SIP packet that contains malicious SDP data.
 - [infobyte/cve-2022-27255](https://github.com/infobyte/cve-2022-27255)	<img alt="forks" src="https://img.shields.io/github/forks/infobyte/cve-2022-27255">	<img alt="stars" src="https://img.shields.io/github/stars/infobyte/cve-2022-27255">
+- [stryker-project/CVE-2022-27255-checker](https://github.com/stryker-project/CVE-2022-27255-checker)	<img alt="forks" src="https://img.shields.io/github/forks/stryker-project/CVE-2022-27255-checker">	<img alt="stars" src="https://img.shields.io/github/stars/stryker-project/CVE-2022-27255-checker">
 
 ---
 ## CVE-2022-26937 (2022-05-10T21:15:00)
