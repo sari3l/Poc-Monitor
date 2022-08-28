@@ -714,6 +714,11 @@
 - [leonardobg/CVE-2022-24654](https://github.com/leonardobg/CVE-2022-24654)	<img alt="forks" src="https://img.shields.io/github/forks/leonardobg/CVE-2022-24654">	<img alt="stars" src="https://img.shields.io/github/stars/leonardobg/CVE-2022-24654">
 
 ---
+## CVE-2022-24637 (2022-03-18T16:15:00)
+> Open Web Analytics (OWA) before 1.7.4 allows an unauthenticated remote attacker to obtain sensitive user information, which can be used to gain admin privileges by leveraging cache hashes. This occurs because files generated with '<?php (instead of the intended "<?php sequence) aren't handled by the PHP interpreter.
+- [watchdog2000/cve-2022-24637_open-web-analytics-info-disclosure-to-rce](https://github.com/watchdog2000/cve-2022-24637_open-web-analytics-info-disclosure-to-rce)	<img alt="forks" src="https://img.shields.io/github/forks/watchdog2000/cve-2022-24637_open-web-analytics-info-disclosure-to-rce">	<img alt="stars" src="https://img.shields.io/github/stars/watchdog2000/cve-2022-24637_open-web-analytics-info-disclosure-to-rce">
+
+---
 ## CVE-2022-24500 (2022-04-15T19:15:00)
 > Windows SMB Remote Code Execution Vulnerability.
 - [Daro1967/CVE-2022-24500-RCE](https://github.com/Daro1967/CVE-2022-24500-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Daro1967/CVE-2022-24500-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Daro1967/CVE-2022-24500-RCE">
