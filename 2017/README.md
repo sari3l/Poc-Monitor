@@ -73,6 +73,26 @@
 - [gunsan92/CVE2017-7494_quicktest](https://github.com/gunsan92/CVE2017-7494_quicktest)	<img alt="forks" src="https://img.shields.io/github/forks/gunsan92/CVE2017-7494_quicktest">	<img alt="stars" src="https://img.shields.io/github/stars/gunsan92/CVE2017-7494_quicktest">
 
 ---
+## CVE-2017-7269 (2017-03-27T02:59:00)
+> Buffer overflow in the ScStoragePathFromUrl function in the WebDAV service in Internet Information Services (IIS) 6.0 in Microsoft Windows Server 2003 R2 allows remote attackers to execute arbitrary code via a long header beginning with "If: <http://" in a PROPFIND request, as exploited in the wild in July or August 2016.
+- [denchief1/CVE-2017-7269_Python3](https://github.com/denchief1/CVE-2017-7269_Python3)	<img alt="forks" src="https://img.shields.io/github/forks/denchief1/CVE-2017-7269_Python3">	<img alt="stars" src="https://img.shields.io/github/stars/denchief1/CVE-2017-7269_Python3">
+- [k4u5h41/CVE-2017-7269](https://github.com/k4u5h41/CVE-2017-7269)	<img alt="forks" src="https://img.shields.io/github/forks/k4u5h41/CVE-2017-7269">	<img alt="stars" src="https://img.shields.io/github/stars/k4u5h41/CVE-2017-7269">
+- [lcatro/CVE-2017-7269-Echo-PoC](https://github.com/lcatro/CVE-2017-7269-Echo-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/lcatro/CVE-2017-7269-Echo-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/lcatro/CVE-2017-7269-Echo-PoC">
+- [Al1ex/CVE-2017-7269](https://github.com/Al1ex/CVE-2017-7269)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/CVE-2017-7269">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/CVE-2017-7269">
+- [mirrorblack/CVE-2017-7269](https://github.com/mirrorblack/CVE-2017-7269)	<img alt="forks" src="https://img.shields.io/github/forks/mirrorblack/CVE-2017-7269">	<img alt="stars" src="https://img.shields.io/github/stars/mirrorblack/CVE-2017-7269">
+- [zcgonvh/cve-2017-7269-tool](https://github.com/zcgonvh/cve-2017-7269-tool)	<img alt="forks" src="https://img.shields.io/github/forks/zcgonvh/cve-2017-7269-tool">	<img alt="stars" src="https://img.shields.io/github/stars/zcgonvh/cve-2017-7269-tool">
+- [xiaovpn/CVE-2017-7269](https://github.com/xiaovpn/CVE-2017-7269)	<img alt="forks" src="https://img.shields.io/github/forks/xiaovpn/CVE-2017-7269">	<img alt="stars" src="https://img.shields.io/github/stars/xiaovpn/CVE-2017-7269">
+- [homjxi0e/cve-2017-7269](https://github.com/homjxi0e/cve-2017-7269)	<img alt="forks" src="https://img.shields.io/github/forks/homjxi0e/cve-2017-7269">	<img alt="stars" src="https://img.shields.io/github/stars/homjxi0e/cve-2017-7269">
+- [slimpagey/IIS_6.0_WebDAV_Ruby](https://github.com/slimpagey/IIS_6.0_WebDAV_Ruby)	<img alt="forks" src="https://img.shields.io/github/forks/slimpagey/IIS_6.0_WebDAV_Ruby">	<img alt="stars" src="https://img.shields.io/github/stars/slimpagey/IIS_6.0_WebDAV_Ruby">
+- [g0rx/iis6-exploit-2017-CVE-2017-7269](https://github.com/g0rx/iis6-exploit-2017-CVE-2017-7269)	<img alt="forks" src="https://img.shields.io/github/forks/g0rx/iis6-exploit-2017-CVE-2017-7269">	<img alt="stars" src="https://img.shields.io/github/stars/g0rx/iis6-exploit-2017-CVE-2017-7269">
+- [ThanHuuTuan/CVE-2017-7269](https://github.com/ThanHuuTuan/CVE-2017-7269)	<img alt="forks" src="https://img.shields.io/github/forks/ThanHuuTuan/CVE-2017-7269">	<img alt="stars" src="https://img.shields.io/github/stars/ThanHuuTuan/CVE-2017-7269">
+- [zcgonvh/cve-2017-7269](https://github.com/zcgonvh/cve-2017-7269)	<img alt="forks" src="https://img.shields.io/github/forks/zcgonvh/cve-2017-7269">	<img alt="stars" src="https://img.shields.io/github/stars/zcgonvh/cve-2017-7269">
+- [whiteHat001/cve-2017-7269picture](https://github.com/whiteHat001/cve-2017-7269picture)	<img alt="forks" src="https://img.shields.io/github/forks/whiteHat001/cve-2017-7269picture">	<img alt="stars" src="https://img.shields.io/github/stars/whiteHat001/cve-2017-7269picture">
+- [M1a0rz/CVE-2017-7269](https://github.com/M1a0rz/CVE-2017-7269)	<img alt="forks" src="https://img.shields.io/github/forks/M1a0rz/CVE-2017-7269">	<img alt="stars" src="https://img.shields.io/github/stars/M1a0rz/CVE-2017-7269">
+- [caicai1355/CVE-2017-7269-exploit](https://github.com/caicai1355/CVE-2017-7269-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/caicai1355/CVE-2017-7269-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/caicai1355/CVE-2017-7269-exploit">
+- [eliuha/webdav_exploit](https://github.com/eliuha/webdav_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/eliuha/webdav_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/eliuha/webdav_exploit">
+
+---
 ## CVE-2017-5487 (2017-01-15T02:59:00)
 > wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php in the REST API implementation in WordPress 4.7 before 4.7.1 does not properly restrict listings of post authors, which allows remote attackers to obtain sensitive information via a wp-json/wp/v2/users request.
 - [kr4dd/CVE-2017-5487](https://github.com/kr4dd/CVE-2017-5487)	<img alt="forks" src="https://img.shields.io/github/forks/kr4dd/CVE-2017-5487">	<img alt="stars" src="https://img.shields.io/github/stars/kr4dd/CVE-2017-5487">
