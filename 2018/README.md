@@ -177,6 +177,11 @@
 - [ahaShiyu/CVE-2018-18839](https://github.com/ahaShiyu/CVE-2018-18839)	<img alt="forks" src="https://img.shields.io/github/forks/ahaShiyu/CVE-2018-18839">	<img alt="stars" src="https://img.shields.io/github/stars/ahaShiyu/CVE-2018-18839">
 
 ---
+## CVE-2018-18333 (2019-02-05T22:29:00)
+> A DLL hijacking vulnerability in Trend Micro Security 2019 (Consumer) versions below 15.0.0.1163 and below could allow an attacker to manipulate a specific DLL and escalate privileges on vulnerable installations.
+- [mrx04programmer/Dr.DLL-CVE-2018-18333](https://github.com/mrx04programmer/Dr.DLL-CVE-2018-18333)	<img alt="forks" src="https://img.shields.io/github/forks/mrx04programmer/Dr.DLL-CVE-2018-18333">	<img alt="stars" src="https://img.shields.io/github/stars/mrx04programmer/Dr.DLL-CVE-2018-18333">
+
+---
 ## CVE-2018-16763 (2018-09-09T21:29:00)
 > FUEL CMS 1.4.1 allows PHP Code Evaluation via the pages/select/ filter parameter or the preview/ data parameter. This can lead to Pre-Auth Remote Code Execution.
 - [NeKroFR/CVE-2018-16763](https://github.com/NeKroFR/CVE-2018-16763)	<img alt="forks" src="https://img.shields.io/github/forks/NeKroFR/CVE-2018-16763">	<img alt="stars" src="https://img.shields.io/github/stars/NeKroFR/CVE-2018-16763">
