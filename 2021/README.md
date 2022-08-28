@@ -221,6 +221,11 @@
 - [Henry4E36/Metabase-cve-2021-41277](https://github.com/Henry4E36/Metabase-cve-2021-41277)	<img alt="forks" src="https://img.shields.io/github/forks/Henry4E36/Metabase-cve-2021-41277">	<img alt="stars" src="https://img.shields.io/github/stars/Henry4E36/Metabase-cve-2021-41277">
 
 ---
+## CVE-2021-41078 (2021-10-26T13:15:00)
+> Nameko through 2.13.0 can be tricked into performing arbitrary code execution when deserializing the config file.
+- [s-index/CVE-2021-41078](https://github.com/s-index/CVE-2021-41078)	<img alt="forks" src="https://img.shields.io/github/forks/s-index/CVE-2021-41078">	<img alt="stars" src="https://img.shields.io/github/stars/s-index/CVE-2021-41078">
+
+---
 ## CVE-2021-40903 (2022-06-17T14:15:00)
 > A vulnerability in Antminer Monitor 0.50.0 exists because of backdoor or misconfiguration inside a settings file in flask server. Settings file has a predefined secret string, which would be randomly generated, however it is static.
 - [vulnz/CVE-2021-40903](https://github.com/vulnz/CVE-2021-40903)	<img alt="forks" src="https://img.shields.io/github/forks/vulnz/CVE-2021-40903">	<img alt="stars" src="https://img.shields.io/github/stars/vulnz/CVE-2021-40903">
