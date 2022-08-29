@@ -11,8 +11,8 @@
 - [AUTOCRYPT-IVS-VnV/CVE-2022-38766](https://github.com/AUTOCRYPT-IVS-VnV/CVE-2022-38766)	<img alt="forks" src="https://img.shields.io/github/forks/AUTOCRYPT-IVS-VnV/CVE-2022-38766">	<img alt="stars" src="https://img.shields.io/github/stars/AUTOCRYPT-IVS-VnV/CVE-2022-38766">
 
 ---
-## CVE-2022-37177 ()
-> 
+## CVE-2022-37177 (2022-08-29T21:15:00)
+> HireVue Hiring Platform V1.0 suffers from Use of a Broken or Risky Cryptographic Algorithm.
 - [JC175/CVE-2022-37177](https://github.com/JC175/CVE-2022-37177)	<img alt="forks" src="https://img.shields.io/github/forks/JC175/CVE-2022-37177">	<img alt="stars" src="https://img.shields.io/github/stars/JC175/CVE-2022-37177">
 
 ---
