@@ -1,6 +1,12 @@
 # 2020 List
 
 ---
+## CVE-2020-9715 (2020-08-19T14:15:00)
+> Adobe Acrobat and Reader versions 2020.009.20074 and earlier, 2020.001.30002, 2017.011.30171 and earlier, and 2015.006.30523 and earlier have an use-after-free vulnerability. Successful exploitation could lead to arbitrary code execution .
+- [WonjunChun/CVE-2020-9715](https://github.com/WonjunChun/CVE-2020-9715)	<img alt="forks" src="https://img.shields.io/github/forks/WonjunChun/CVE-2020-9715">	<img alt="stars" src="https://img.shields.io/github/stars/WonjunChun/CVE-2020-9715">
+- [lsw29475/CVE-2020-9715](https://github.com/lsw29475/CVE-2020-9715)	<img alt="forks" src="https://img.shields.io/github/forks/lsw29475/CVE-2020-9715">	<img alt="stars" src="https://img.shields.io/github/stars/lsw29475/CVE-2020-9715">
+
+---
 ## CVE-2020-9496 (2020-07-15T16:15:00)
 > XML-RPC request are vulnerable to unsafe deserialization and Cross-Site Scripting issues in Apache OFBiz 17.12.03
 - [Ly0nt4r/CVE-2020-9496](https://github.com/Ly0nt4r/CVE-2020-9496)	<img alt="forks" src="https://img.shields.io/github/forks/Ly0nt4r/CVE-2020-9496">	<img alt="stars" src="https://img.shields.io/github/stars/Ly0nt4r/CVE-2020-9496">
