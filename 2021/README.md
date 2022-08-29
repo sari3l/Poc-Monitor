@@ -399,6 +399,7 @@
 - [rabbitsafe/CVE-2021-36260](https://github.com/rabbitsafe/CVE-2021-36260)	<img alt="forks" src="https://img.shields.io/github/forks/rabbitsafe/CVE-2021-36260">	<img alt="stars" src="https://img.shields.io/github/stars/rabbitsafe/CVE-2021-36260">
 - [TaroballzChen/CVE-2021-36260-metasploit](https://github.com/TaroballzChen/CVE-2021-36260-metasploit)	<img alt="forks" src="https://img.shields.io/github/forks/TaroballzChen/CVE-2021-36260-metasploit">	<img alt="stars" src="https://img.shields.io/github/stars/TaroballzChen/CVE-2021-36260-metasploit">
 - [Aiminsun/CVE-2021-36260](https://github.com/Aiminsun/CVE-2021-36260)	<img alt="forks" src="https://img.shields.io/github/forks/Aiminsun/CVE-2021-36260">	<img alt="stars" src="https://img.shields.io/github/stars/Aiminsun/CVE-2021-36260">
+- [TakenoSite/Simple-CVE-2021-36260](https://github.com/TakenoSite/Simple-CVE-2021-36260)	<img alt="forks" src="https://img.shields.io/github/forks/TakenoSite/Simple-CVE-2021-36260">	<img alt="stars" src="https://img.shields.io/github/stars/TakenoSite/Simple-CVE-2021-36260">
 
 ---
 ## CVE-2021-3560 (2022-02-16T19:15:00)
