@@ -63,6 +63,11 @@
 - [SaumyajeetDas/POC-of-CVE-2022-36271](https://github.com/SaumyajeetDas/POC-of-CVE-2022-36271)	<img alt="forks" src="https://img.shields.io/github/forks/SaumyajeetDas/POC-of-CVE-2022-36271">	<img alt="stars" src="https://img.shields.io/github/stars/SaumyajeetDas/POC-of-CVE-2022-36271">
 
 ---
+## CVE-2022-36200 ()
+> 
+- [afaq1337/CVE-2022-36200](https://github.com/afaq1337/CVE-2022-36200)	<img alt="forks" src="https://img.shields.io/github/forks/afaq1337/CVE-2022-36200">	<img alt="stars" src="https://img.shields.io/github/stars/afaq1337/CVE-2022-36200">
+
+---
 ## CVE-2022-36163 ()
 > 
 - [MaherAzzouzi/CVE-2022-36163](https://github.com/MaherAzzouzi/CVE-2022-36163)	<img alt="forks" src="https://img.shields.io/github/forks/MaherAzzouzi/CVE-2022-36163">	<img alt="stars" src="https://img.shields.io/github/stars/MaherAzzouzi/CVE-2022-36163">
