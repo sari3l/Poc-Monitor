@@ -63,8 +63,8 @@
 - [SaumyajeetDas/POC-of-CVE-2022-36271](https://github.com/SaumyajeetDas/POC-of-CVE-2022-36271)	<img alt="forks" src="https://img.shields.io/github/forks/SaumyajeetDas/POC-of-CVE-2022-36271">	<img alt="stars" src="https://img.shields.io/github/stars/SaumyajeetDas/POC-of-CVE-2022-36271">
 
 ---
-## CVE-2022-36200 ()
-> 
+## CVE-2022-36200 (2022-08-29T15:15:00)
+> In FiberHome VDSL2 Modem HG150-Ub_V3.0, Credentials of Admin are submitted in URL, which can be logged/sniffed.
 - [afaq1337/CVE-2022-36200](https://github.com/afaq1337/CVE-2022-36200)	<img alt="forks" src="https://img.shields.io/github/forks/afaq1337/CVE-2022-36200">	<img alt="stars" src="https://img.shields.io/github/stars/afaq1337/CVE-2022-36200">
 
 ---
