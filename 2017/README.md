@@ -15,6 +15,16 @@
 - [yoloskr/CVE-2017-9841-Scan](https://github.com/yoloskr/CVE-2017-9841-Scan)	<img alt="forks" src="https://img.shields.io/github/forks/yoloskr/CVE-2017-9841-Scan">	<img alt="stars" src="https://img.shields.io/github/stars/yoloskr/CVE-2017-9841-Scan">
 
 ---
+## CVE-2017-8917 (2017-05-17T23:29:00)
+> SQL injection vulnerability in Joomla! 3.7.x before 3.7.1 allows attackers to execute arbitrary SQL commands via unspecified vectors.
+- [Siopy/CVE-2017-8917](https://github.com/Siopy/CVE-2017-8917)	<img alt="forks" src="https://img.shields.io/github/forks/Siopy/CVE-2017-8917">	<img alt="stars" src="https://img.shields.io/github/stars/Siopy/CVE-2017-8917">
+- [AkuCyberSec/CVE-2017-8917-Joomla-370-SQL-Injection](https://github.com/AkuCyberSec/CVE-2017-8917-Joomla-370-SQL-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/AkuCyberSec/CVE-2017-8917-Joomla-370-SQL-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/AkuCyberSec/CVE-2017-8917-Joomla-370-SQL-Injection">
+- [stefanlucas/Exploit-Joomla](https://github.com/stefanlucas/Exploit-Joomla)	<img alt="forks" src="https://img.shields.io/github/forks/stefanlucas/Exploit-Joomla">	<img alt="stars" src="https://img.shields.io/github/stars/stefanlucas/Exploit-Joomla">
+- [gmohlamo/CVE-2017-8917](https://github.com/gmohlamo/CVE-2017-8917)	<img alt="forks" src="https://img.shields.io/github/forks/gmohlamo/CVE-2017-8917">	<img alt="stars" src="https://img.shields.io/github/stars/gmohlamo/CVE-2017-8917">
+- [cved-sources/cve-2017-8917](https://github.com/cved-sources/cve-2017-8917)	<img alt="forks" src="https://img.shields.io/github/forks/cved-sources/cve-2017-8917">	<img alt="stars" src="https://img.shields.io/github/stars/cved-sources/cve-2017-8917">
+- [brianwrf/Joomla3.7-SQLi-CVE-2017-8917](https://github.com/brianwrf/Joomla3.7-SQLi-CVE-2017-8917)	<img alt="forks" src="https://img.shields.io/github/forks/brianwrf/Joomla3.7-SQLi-CVE-2017-8917">	<img alt="stars" src="https://img.shields.io/github/stars/brianwrf/Joomla3.7-SQLi-CVE-2017-8917">
+
+---
 ## CVE-2017-8890 (2017-05-10T16:29:00)
 > The inet_csk_clone_lock function in net/ipv4/inet_connection_sock.c in the Linux kernel through 4.10.15 allows attackers to cause a denial of service (double free) or possibly have unspecified other impact by leveraging use of the accept system call.
 - [huajizhiren/CVE-2017-8890](https://github.com/huajizhiren/CVE-2017-8890)	<img alt="forks" src="https://img.shields.io/github/forks/huajizhiren/CVE-2017-8890">	<img alt="stars" src="https://img.shields.io/github/stars/huajizhiren/CVE-2017-8890">
