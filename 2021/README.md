@@ -222,6 +222,11 @@
 - [Henry4E36/Metabase-cve-2021-41277](https://github.com/Henry4E36/Metabase-cve-2021-41277)	<img alt="forks" src="https://img.shields.io/github/forks/Henry4E36/Metabase-cve-2021-41277">	<img alt="stars" src="https://img.shields.io/github/stars/Henry4E36/Metabase-cve-2021-41277">
 
 ---
+## CVE-2021-41184 (2021-10-26T15:15:00)
+> jQuery-UI is the official jQuery user interface library. Prior to version 1.13.0, accepting the value of the `of` option of the `.position()` util from untrusted sources may execute untrusted code. The issue is fixed in jQuery UI 1.13.0. Any string value passed to the `of` option is now treated as a CSS selector. A workaround is to not accept the value of the `of` option from untrusted sources.
+- [gabrielolivra/Exploit-Medium-CVE-2021-41184](https://github.com/gabrielolivra/Exploit-Medium-CVE-2021-41184)	<img alt="forks" src="https://img.shields.io/github/forks/gabrielolivra/Exploit-Medium-CVE-2021-41184">	<img alt="stars" src="https://img.shields.io/github/stars/gabrielolivra/Exploit-Medium-CVE-2021-41184">
+
+---
 ## CVE-2021-41078 (2021-10-26T13:15:00)
 > Nameko through 2.13.0 can be tricked into performing arbitrary code execution when deserializing the config file.
 - [s-index/CVE-2021-41078](https://github.com/s-index/CVE-2021-41078)	<img alt="forks" src="https://img.shields.io/github/forks/s-index/CVE-2021-41078">	<img alt="stars" src="https://img.shields.io/github/stars/s-index/CVE-2021-41078">
