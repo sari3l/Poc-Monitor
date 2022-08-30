@@ -956,6 +956,7 @@
 - [jmiettinen/CVE-2022-21449-vuln-test](https://github.com/jmiettinen/CVE-2022-21449-vuln-test)	<img alt="forks" src="https://img.shields.io/github/forks/jmiettinen/CVE-2022-21449-vuln-test">	<img alt="stars" src="https://img.shields.io/github/stars/jmiettinen/CVE-2022-21449-vuln-test">
 - [PyterSmithDarkGhost/CVE-2022-21449-I2P-TLS-POC](https://github.com/PyterSmithDarkGhost/CVE-2022-21449-I2P-TLS-POC)	<img alt="forks" src="https://img.shields.io/github/forks/PyterSmithDarkGhost/CVE-2022-21449-I2P-TLS-POC">	<img alt="stars" src="https://img.shields.io/github/stars/PyterSmithDarkGhost/CVE-2022-21449-I2P-TLS-POC">
 - [Skipper7718/CVE-2022-21449-showcase](https://github.com/Skipper7718/CVE-2022-21449-showcase)	<img alt="forks" src="https://img.shields.io/github/forks/Skipper7718/CVE-2022-21449-showcase">	<img alt="stars" src="https://img.shields.io/github/stars/Skipper7718/CVE-2022-21449-showcase">
+- [davwwwx/CVE-2022-21449](https://github.com/davwwwx/CVE-2022-21449)	<img alt="forks" src="https://img.shields.io/github/forks/davwwwx/CVE-2022-21449">	<img alt="stars" src="https://img.shields.io/github/stars/davwwwx/CVE-2022-21449">
 
 ---
 ## CVE-2022-21371 (2022-01-19T12:15:00)
