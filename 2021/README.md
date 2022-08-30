@@ -765,6 +765,18 @@
 - [Roboterh/CVE-2021-21300](https://github.com/Roboterh/CVE-2021-21300)	<img alt="forks" src="https://img.shields.io/github/forks/Roboterh/CVE-2021-21300">	<img alt="stars" src="https://img.shields.io/github/stars/Roboterh/CVE-2021-21300">
 
 ---
+## CVE-2021-2109 (2021-01-20T15:15:00)
+> Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).
+- [Vulnmachines/oracle-weblogic-CVE-2021-2109](https://github.com/Vulnmachines/oracle-weblogic-CVE-2021-2109)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/oracle-weblogic-CVE-2021-2109">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/oracle-weblogic-CVE-2021-2109">
+- [coco0x0a/CVE-2021-2109](https://github.com/coco0x0a/CVE-2021-2109)	<img alt="forks" src="https://img.shields.io/github/forks/coco0x0a/CVE-2021-2109">	<img alt="stars" src="https://img.shields.io/github/stars/coco0x0a/CVE-2021-2109">
+- [somatrasss/weblogic2021](https://github.com/somatrasss/weblogic2021)	<img alt="forks" src="https://img.shields.io/github/forks/somatrasss/weblogic2021">	<img alt="stars" src="https://img.shields.io/github/stars/somatrasss/weblogic2021">
+- [dinosn/CVE-2021-2109](https://github.com/dinosn/CVE-2021-2109)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/CVE-2021-2109">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/CVE-2021-2109">
+- [1n7erface/PocList](https://github.com/1n7erface/PocList)	<img alt="forks" src="https://img.shields.io/github/forks/1n7erface/PocList">	<img alt="stars" src="https://img.shields.io/github/stars/1n7erface/PocList">
+- [yuaneuro/CVE-2021-2109_poc](https://github.com/yuaneuro/CVE-2021-2109_poc)	<img alt="forks" src="https://img.shields.io/github/forks/yuaneuro/CVE-2021-2109_poc">	<img alt="stars" src="https://img.shields.io/github/stars/yuaneuro/CVE-2021-2109_poc">
+- [rabbitsafe/CVE-2021-2109](https://github.com/rabbitsafe/CVE-2021-2109)	<img alt="forks" src="https://img.shields.io/github/forks/rabbitsafe/CVE-2021-2109">	<img alt="stars" src="https://img.shields.io/github/stars/rabbitsafe/CVE-2021-2109">
+- [Al1ex/CVE-2021-2109](https://github.com/Al1ex/CVE-2021-2109)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/CVE-2021-2109">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/CVE-2021-2109">
+
+---
 ## CVE-2021-20138 (2021-12-09T16:15:00)
 > An unauthenticated command injection vulnerability exists in multiple parameters in the Gryphon Tower router’s web interface at /cgi-bin/luci/rc. An unauthenticated remote attacker on the same network can execute commands as root on the device by sending a specially crafted malicious packet to the web interface.
 - [ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-20138](https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-20138)	<img alt="forks" src="https://img.shields.io/github/forks/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-20138">	<img alt="stars" src="https://img.shields.io/github/stars/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-20138">
