@@ -723,6 +723,7 @@
 ## CVE-2022-24637 (2022-03-18T16:15:00)
 > Open Web Analytics (OWA) before 1.7.4 allows an unauthenticated remote attacker to obtain sensitive user information, which can be used to gain admin privileges by leveraging cache hashes. This occurs because files generated with '<?php (instead of the intended "<?php sequence) aren't handled by the PHP interpreter.
 - [watchdog2000/cve-2022-24637_open-web-analytics-info-disclosure-to-rce](https://github.com/watchdog2000/cve-2022-24637_open-web-analytics-info-disclosure-to-rce)	<img alt="forks" src="https://img.shields.io/github/forks/watchdog2000/cve-2022-24637_open-web-analytics-info-disclosure-to-rce">	<img alt="stars" src="https://img.shields.io/github/stars/watchdog2000/cve-2022-24637_open-web-analytics-info-disclosure-to-rce">
+- [JacobEbben/CVE-2022-24637](https://github.com/JacobEbben/CVE-2022-24637)	<img alt="forks" src="https://img.shields.io/github/forks/JacobEbben/CVE-2022-24637">	<img alt="stars" src="https://img.shields.io/github/stars/JacobEbben/CVE-2022-24637">
 
 ---
 ## CVE-2022-24500 (2022-04-15T19:15:00)
