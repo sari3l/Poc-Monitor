@@ -710,8 +710,8 @@
 - [sadshade/CVE-2022-24706-CouchDB-Exploit](https://github.com/sadshade/CVE-2022-24706-CouchDB-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sadshade/CVE-2022-24706-CouchDB-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sadshade/CVE-2022-24706-CouchDB-Exploit">
 
 ---
-## CVE-2022-2466 ()
-> 
+## CVE-2022-2466 (2022-08-31T16:15:00)
+> It was found that Quarkus 2.10.x does not terminate HTTP requests header context which may lead to unpredictable behavior.
 - [yuxblank/CVE-2022-2466---Request-Context-not-terminated-with-GraphQL](https://github.com/yuxblank/CVE-2022-2466---Request-Context-not-terminated-with-GraphQL)	<img alt="forks" src="https://img.shields.io/github/forks/yuxblank/CVE-2022-2466---Request-Context-not-terminated-with-GraphQL">	<img alt="stars" src="https://img.shields.io/github/stars/yuxblank/CVE-2022-2466---Request-Context-not-terminated-with-GraphQL">
 
 ---
