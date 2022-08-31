@@ -742,6 +742,13 @@
 - [superhac/CVE-2022-2414-POC](https://github.com/superhac/CVE-2022-2414-POC)	<img alt="forks" src="https://img.shields.io/github/forks/superhac/CVE-2022-2414-POC">	<img alt="stars" src="https://img.shields.io/github/stars/superhac/CVE-2022-2414-POC">
 
 ---
+## CVE-2022-24124 (2022-01-29T23:15:00)
+> The query API in Casdoor before 1.13.1 has a SQL injection vulnerability related to the field and value parameters, as demonstrated by api/get-organizations.
+- [cukw/CVE-2022-24124_POC](https://github.com/cukw/CVE-2022-24124_POC)	<img alt="forks" src="https://img.shields.io/github/forks/cukw/CVE-2022-24124_POC">	<img alt="stars" src="https://img.shields.io/github/stars/cukw/CVE-2022-24124_POC">
+- [0xAbbarhSF/CVE-2022-24124](https://github.com/0xAbbarhSF/CVE-2022-24124)	<img alt="forks" src="https://img.shields.io/github/forks/0xAbbarhSF/CVE-2022-24124">	<img alt="stars" src="https://img.shields.io/github/stars/0xAbbarhSF/CVE-2022-24124">
+- [ColdFusionX/CVE-2022-24124](https://github.com/ColdFusionX/CVE-2022-24124)	<img alt="forks" src="https://img.shields.io/github/forks/ColdFusionX/CVE-2022-24124">	<img alt="stars" src="https://img.shields.io/github/stars/ColdFusionX/CVE-2022-24124">
+
+---
 ## CVE-2022-24086 (2022-02-16T17:15:00)
 > Adobe Commerce versions 2.4.3-p1 (and earlier) and 2.3.7-p2 (and earlier) are affected by an improper input validation vulnerability during the checkout process. Exploitation of this issue does not require user interaction and could result in arbitrary code execution.
 - [Cory65/CVE-2022-24086-POC](https://github.com/Cory65/CVE-2022-24086-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Cory65/CVE-2022-24086-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Cory65/CVE-2022-24086-POC">
