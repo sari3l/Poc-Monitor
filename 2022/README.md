@@ -1107,6 +1107,7 @@
 - [trhacknon/CVE-2022-1292](https://github.com/trhacknon/CVE-2022-1292)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-1292">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-1292">
 - [li8u99/CVE-2022-1292](https://github.com/li8u99/CVE-2022-1292)	<img alt="forks" src="https://img.shields.io/github/forks/li8u99/CVE-2022-1292">	<img alt="stars" src="https://img.shields.io/github/stars/li8u99/CVE-2022-1292">
 - [nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292](https://github.com/nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292">
+- [greek0x0/CVE-2022-1292](https://github.com/greek0x0/CVE-2022-1292)	<img alt="forks" src="https://img.shields.io/github/forks/greek0x0/CVE-2022-1292">	<img alt="stars" src="https://img.shields.io/github/stars/greek0x0/CVE-2022-1292">
 
 ---
 ## CVE-2022-1119 (2022-04-19T21:15:00)
