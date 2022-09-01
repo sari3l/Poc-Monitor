@@ -341,6 +341,11 @@
 - [nidhi7598/linux-4.19.72_CVE-2022-30594](https://github.com/nidhi7598/linux-4.19.72_CVE-2022-30594)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.19.72_CVE-2022-30594">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.19.72_CVE-2022-30594">
 
 ---
+## CVE-2022-30526 (2022-07-19T06:15:00)
+> A privilege escalation vulnerability was identified in the CLI command of Zyxel USG FLEX 100(W) firmware versions 4.50 through 5.30, USG FLEX 200 firmware versions 4.50 through 5.30, USG FLEX 500 firmware versions 4.50 through 5.30, USG FLEX 700 firmware versions 4.50 through 5.30, USG FLEX 50(W) firmware versions 4.16 through 5.30, USG20(W)-VPN firmware versions 4.16 through 5.30, ATP series firmware versions 4.32 through 5.30, VPN series firmware versions 4.30 through 5.30, USG/ZyWALL series firmware versions 4.09 through 4.72, which could allow a local attacker to execute some OS commands with root privileges in some directories on a vulnerable device.
+- [greek0x0/CVE-2022-30526](https://github.com/greek0x0/CVE-2022-30526)	<img alt="forks" src="https://img.shields.io/github/forks/greek0x0/CVE-2022-30526">	<img alt="stars" src="https://img.shields.io/github/stars/greek0x0/CVE-2022-30526">
+
+---
 ## CVE-2022-30525 (2022-05-12T14:15:00)
 > A OS command injection vulnerability in the CGI program of Zyxel USG FLEX 100(W) firmware versions 5.00 through 5.21 Patch 1, USG FLEX 200 firmware versions 5.00 through 5.21 Patch 1, USG FLEX 500 firmware versions 5.00 through 5.21 Patch 1, USG FLEX 700 firmware versions 5.00 through 5.21 Patch 1, USG FLEX 50(W) firmware versions 5.10 through 5.21 Patch 1, USG20(W)-VPN firmware versions 5.10 through 5.21 Patch 1, ATP series firmware versions 5.10 through 5.21 Patch 1, VPN series firmware versions 4.60 through 5.21 Patch 1, which could allow an attacker to modify specific files and then execute some OS commands on a vulnerable device.
 - [ProngedFork/CVE-2022-30525](https://github.com/ProngedFork/CVE-2022-30525)	<img alt="forks" src="https://img.shields.io/github/forks/ProngedFork/CVE-2022-30525">	<img alt="stars" src="https://img.shields.io/github/stars/ProngedFork/CVE-2022-30525">
