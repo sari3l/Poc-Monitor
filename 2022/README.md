@@ -144,6 +144,7 @@
 - [NopFault/CVE-2022-34265](https://github.com/NopFault/CVE-2022-34265)	<img alt="forks" src="https://img.shields.io/github/forks/NopFault/CVE-2022-34265">	<img alt="stars" src="https://img.shields.io/github/stars/NopFault/CVE-2022-34265">
 - [traumatising/CVE-2022-34265](https://github.com/traumatising/CVE-2022-34265)	<img alt="forks" src="https://img.shields.io/github/forks/traumatising/CVE-2022-34265">	<img alt="stars" src="https://img.shields.io/github/stars/traumatising/CVE-2022-34265">
 - [ZhaoQi99/CVE-2022-34265](https://github.com/ZhaoQi99/CVE-2022-34265)	<img alt="forks" src="https://img.shields.io/github/forks/ZhaoQi99/CVE-2022-34265">	<img alt="stars" src="https://img.shields.io/github/stars/ZhaoQi99/CVE-2022-34265">
+- [raheel0x01/CVE-2022-34265-modified](https://github.com/raheel0x01/CVE-2022-34265-modified)	<img alt="forks" src="https://img.shields.io/github/forks/raheel0x01/CVE-2022-34265-modified">	<img alt="stars" src="https://img.shields.io/github/stars/raheel0x01/CVE-2022-34265-modified">
 
 ---
 ## CVE-2022-34169 (2022-07-19T18:15:00)
