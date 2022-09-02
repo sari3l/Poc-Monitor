@@ -466,6 +466,12 @@
 - [JohnHammond/CVE-2021-34527](https://github.com/JohnHammond/CVE-2021-34527)	<img alt="forks" src="https://img.shields.io/github/forks/JohnHammond/CVE-2021-34527">	<img alt="stars" src="https://img.shields.io/github/stars/JohnHammond/CVE-2021-34527">
 
 ---
+## CVE-2021-31956 (2021-06-08T23:15:00)
+> Windows NTFS Elevation of Privilege Vulnerability
+- [Y3A/CVE-2021-31956](https://github.com/Y3A/CVE-2021-31956)	<img alt="forks" src="https://img.shields.io/github/forks/Y3A/CVE-2021-31956">	<img alt="stars" src="https://img.shields.io/github/stars/Y3A/CVE-2021-31956">
+- [aazhuliang/CVE-2021-31956-EXP](https://github.com/aazhuliang/CVE-2021-31956-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/aazhuliang/CVE-2021-31956-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/aazhuliang/CVE-2021-31956-EXP">
+
+---
 ## CVE-2021-31805 (2022-04-12T16:15:00)
 > The fix issued for CVE-2020-17530 was incomplete. So from Apache Struts 2.0.0 to 2.5.29, still some of the tag’s attributes could perform a double evaluation if a developer applied forced OGNL evaluation by using the %{...} syntax. Using forced OGNL evaluation on untrusted user input can lead to a Remote Code Execution and security degradation.
 - [z92g/CVE-2021-31805](https://github.com/z92g/CVE-2021-31805)	<img alt="forks" src="https://img.shields.io/github/forks/z92g/CVE-2021-31805">	<img alt="stars" src="https://img.shields.io/github/stars/z92g/CVE-2021-31805">
