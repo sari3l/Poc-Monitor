@@ -477,6 +477,11 @@
 - [Wrin9/CVE-2021-31805](https://github.com/Wrin9/CVE-2021-31805)	<img alt="forks" src="https://img.shields.io/github/forks/Wrin9/CVE-2021-31805">	<img alt="stars" src="https://img.shields.io/github/stars/Wrin9/CVE-2021-31805">
 
 ---
+## CVE-2021-31800 (2021-05-05T11:15:00)
+> Multiple path traversal vulnerabilities exist in smbserver.py in Impacket through 0.9.22. An attacker that connects to a running smbserver instance can list and write to arbitrary files via ../ directory traversal. This could potentially be abused to achieve arbitrary code execution by replacing /etc/shadow or an SSH authorized key.
+- [Louzogh/CVE-2021-31800](https://github.com/Louzogh/CVE-2021-31800)	<img alt="forks" src="https://img.shields.io/github/forks/Louzogh/CVE-2021-31800">	<img alt="stars" src="https://img.shields.io/github/stars/Louzogh/CVE-2021-31800">
+
+---
 ## CVE-2021-3156 (2021-01-26T21:15:00)
 > Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via "sudoedit -s" and a command-line argument that ends with a single backslash character.
 - [arvindshima/CVE-2021-3156](https://github.com/arvindshima/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/arvindshima/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/arvindshima/CVE-2021-3156">
