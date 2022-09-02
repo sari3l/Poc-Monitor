@@ -174,6 +174,11 @@
 - [Vulnmachines/Apache-spark-CVE-2022-33891](https://github.com/Vulnmachines/Apache-spark-CVE-2022-33891)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/Apache-spark-CVE-2022-33891">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/Apache-spark-CVE-2022-33891">
 
 ---
+## CVE-2022-33174 (2022-06-13T18:15:00)
+> Power Distribution Units running on Powertek firmware (multiple brands) before 3.30.30 allows remote authorization bypass in the web interface. To exploit the vulnerability, an attacker must send an HTTP packet to the data retrieval interface (/cgi/get_param.cgi) with the tmpToken cookie set to an empty string followed by a semicolon. This bypasses an active session authorization check. This can be then used to fetch the values of protected sys.passwd and sys.su.name fields that contain the username and password in cleartext.
+- [Henry4E36/CVE-2022-33174](https://github.com/Henry4E36/CVE-2022-33174)	<img alt="forks" src="https://img.shields.io/github/forks/Henry4E36/CVE-2022-33174">	<img alt="stars" src="https://img.shields.io/github/stars/Henry4E36/CVE-2022-33174">
+
+---
 ## CVE-2022-33075 (2022-07-05T18:15:00)
 > A stored cross-site scripting (XSS) vulnerability in the Add Classification function of Zoo Management System v1.0 allows attackers to execute arbitrary web scripts or HTML via unspecified vectors.
 - [AngeloPioAmirante/CVE-2022-33075](https://github.com/AngeloPioAmirante/CVE-2022-33075)	<img alt="forks" src="https://img.shields.io/github/forks/AngeloPioAmirante/CVE-2022-33075">	<img alt="stars" src="https://img.shields.io/github/stars/AngeloPioAmirante/CVE-2022-33075">
