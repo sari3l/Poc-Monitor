@@ -6,6 +6,11 @@
 - [Vbedtt54e5/interesting-release-of-CVE-2022-63432](https://github.com/Vbedtt54e5/interesting-release-of-CVE-2022-63432)	<img alt="forks" src="https://img.shields.io/github/forks/Vbedtt54e5/interesting-release-of-CVE-2022-63432">	<img alt="stars" src="https://img.shields.io/github/stars/Vbedtt54e5/interesting-release-of-CVE-2022-63432">
 
 ---
+## CVE-2022-39196 ()
+> 
+- [DayiliWaseem/CVE-2022-39196-](https://github.com/DayiliWaseem/CVE-2022-39196-)	<img alt="forks" src="https://img.shields.io/github/forks/DayiliWaseem/CVE-2022-39196-">	<img alt="stars" src="https://img.shields.io/github/stars/DayiliWaseem/CVE-2022-39196-">
+
+---
 ## CVE-2022-38766 ()
 > 
 - [AUTOCRYPT-IVS-VnV/CVE-2022-38766](https://github.com/AUTOCRYPT-IVS-VnV/CVE-2022-38766)	<img alt="forks" src="https://img.shields.io/github/forks/AUTOCRYPT-IVS-VnV/CVE-2022-38766">	<img alt="stars" src="https://img.shields.io/github/stars/AUTOCRYPT-IVS-VnV/CVE-2022-38766">
