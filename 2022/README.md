@@ -812,7 +812,7 @@
 ---
 ## CVE-2022-23131 (2022-01-13T16:15:00)
 > In the case of instances where the SAML SSO authentication is enabled (non-default), session data can be modified by a malicious actor, because a user login stored in the session was not verified. Malicious unauthenticated actor may exploit this issue to escalate privileges and gain admin access to Zabbix Frontend. To perform the attack, SAML authentication is required to be enabled and the actor has to know the username of Zabbix user (or use the guest account, which is disabled by default).
-- [1324132494/CVE-2022-23131poc-exp-zabbix-](https://github.com/1324132494/CVE-2022-23131poc-exp-zabbix-)	<img alt="forks" src="https://img.shields.io/github/forks/1324132494/CVE-2022-23131poc-exp-zabbix-">	<img alt="stars" src="https://img.shields.io/github/stars/1324132494/CVE-2022-23131poc-exp-zabbix-">
+- [SCAMagic/CVE-2022-23131poc-exp-zabbix-](https://github.com/SCAMagic/CVE-2022-23131poc-exp-zabbix-)	<img alt="forks" src="https://img.shields.io/github/forks/SCAMagic/CVE-2022-23131poc-exp-zabbix-">	<img alt="stars" src="https://img.shields.io/github/stars/SCAMagic/CVE-2022-23131poc-exp-zabbix-">
 - [Anonymous-ghost/AttackWebFrameworkTools-5.0](https://github.com/Anonymous-ghost/AttackWebFrameworkTools-5.0)	<img alt="forks" src="https://img.shields.io/github/forks/Anonymous-ghost/AttackWebFrameworkTools-5.0">	<img alt="stars" src="https://img.shields.io/github/stars/Anonymous-ghost/AttackWebFrameworkTools-5.0">
 - [trhacknon/CVE-2022-23131](https://github.com/trhacknon/CVE-2022-23131)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-23131">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-23131">
 - [Kazaf6s/CVE-2022-23131](https://github.com/Kazaf6s/CVE-2022-23131)	<img alt="forks" src="https://img.shields.io/github/forks/Kazaf6s/CVE-2022-23131">	<img alt="stars" src="https://img.shields.io/github/stars/Kazaf6s/CVE-2022-23131">
@@ -827,6 +827,8 @@
 - [jweny/zabbix-saml-bypass-exp](https://github.com/jweny/zabbix-saml-bypass-exp)	<img alt="forks" src="https://img.shields.io/github/forks/jweny/zabbix-saml-bypass-exp">	<img alt="stars" src="https://img.shields.io/github/stars/jweny/zabbix-saml-bypass-exp">
 - [1mxml/CVE-2022-23131](https://github.com/1mxml/CVE-2022-23131)	<img alt="forks" src="https://img.shields.io/github/forks/1mxml/CVE-2022-23131">	<img alt="stars" src="https://img.shields.io/github/stars/1mxml/CVE-2022-23131">
 - [qq1549176285/CVE-2022-23131](https://github.com/qq1549176285/CVE-2022-23131)	<img alt="forks" src="https://img.shields.io/github/forks/qq1549176285/CVE-2022-23131">	<img alt="stars" src="https://img.shields.io/github/stars/qq1549176285/CVE-2022-23131">
+- [Vulnmachines/Zabbix-CVE-2022-23131](https://github.com/Vulnmachines/Zabbix-CVE-2022-23131)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/Zabbix-CVE-2022-23131">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/Zabbix-CVE-2022-23131">
+- [random-robbie/cve-2022-23131-exp](https://github.com/random-robbie/cve-2022-23131-exp)	<img alt="forks" src="https://img.shields.io/github/forks/random-robbie/cve-2022-23131-exp">	<img alt="stars" src="https://img.shields.io/github/stars/random-robbie/cve-2022-23131-exp">
 
 ---
 ## CVE-2022-22980 (2022-06-23T17:15:00)
