@@ -708,6 +708,13 @@
 - [Markakd/CVE-2022-2588](https://github.com/Markakd/CVE-2022-2588)	<img alt="forks" src="https://img.shields.io/github/forks/Markakd/CVE-2022-2588">	<img alt="stars" src="https://img.shields.io/github/stars/Markakd/CVE-2022-2588">
 
 ---
+## CVE-2022-2586 ()
+> 
+- [aels/CVE-2022-2586-LPE](https://github.com/aels/CVE-2022-2586-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/aels/CVE-2022-2586-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/aels/CVE-2022-2586-LPE">
+- [konoha279/2022-LPE-UAF](https://github.com/konoha279/2022-LPE-UAF)	<img alt="forks" src="https://img.shields.io/github/forks/konoha279/2022-LPE-UAF">	<img alt="stars" src="https://img.shields.io/github/stars/konoha279/2022-LPE-UAF">
+- [pirenga/2022-LPE-UAF](https://github.com/pirenga/2022-LPE-UAF)	<img alt="forks" src="https://img.shields.io/github/forks/pirenga/2022-LPE-UAF">	<img alt="stars" src="https://img.shields.io/github/stars/pirenga/2022-LPE-UAF">
+
+---
 ## CVE-2022-25845 (2022-06-10T20:15:00)
 > The package com.alibaba:fastjson before 1.2.83 are vulnerable to Deserialization of Untrusted Data by bypassing the default autoType shutdown restrictions, which is possible under certain conditions. Exploiting this vulnerability allows attacking remote servers. Workaround: If upgrading is not possible, you can enable [safeMode](https://github.com/alibaba/fastjson/wiki/fastjson_safemode).
 - [Expl0desploit/CVE-2022-25845](https://github.com/Expl0desploit/CVE-2022-25845)	<img alt="forks" src="https://img.shields.io/github/forks/Expl0desploit/CVE-2022-25845">	<img alt="stars" src="https://img.shields.io/github/stars/Expl0desploit/CVE-2022-25845">
