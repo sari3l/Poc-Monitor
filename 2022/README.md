@@ -1,6 +1,11 @@
 # 2022 List
 
 ---
+## CVE-2022-9099 ()
+> 
+- [gnaw1ng/cve-2022-9099](https://github.com/gnaw1ng/cve-2022-9099)	<img alt="forks" src="https://img.shields.io/github/forks/gnaw1ng/cve-2022-9099">	<img alt="stars" src="https://img.shields.io/github/stars/gnaw1ng/cve-2022-9099">
+
+---
 ## CVE-2022-63432 ()
 > 
 - [Vbedtt54e5/interesting-release-of-CVE-2022-63432](https://github.com/Vbedtt54e5/interesting-release-of-CVE-2022-63432)	<img alt="forks" src="https://img.shields.io/github/forks/Vbedtt54e5/interesting-release-of-CVE-2022-63432">	<img alt="stars" src="https://img.shields.io/github/stars/Vbedtt54e5/interesting-release-of-CVE-2022-63432">
