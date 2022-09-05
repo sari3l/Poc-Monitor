@@ -1089,6 +1089,11 @@
 - [nidhi7598/packages_apps_Bluetooth_AOSP_10_r33_CVE-2022-202133](https://github.com/nidhi7598/packages_apps_Bluetooth_AOSP_10_r33_CVE-2022-202133)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/packages_apps_Bluetooth_AOSP_10_r33_CVE-2022-202133">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/packages_apps_Bluetooth_AOSP_10_r33_CVE-2022-202133">
 
 ---
+## CVE-2022-20186 (2022-06-15T14:15:00)
+> In kbase_mem_alias of mali_kbase_mem_linux.c, there is a possible arbitrary code execution due to improper input validation. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-215001024References: N/A
+- [s1204-inspect/CVE-2022-20186_CTXZ](https://github.com/s1204-inspect/CVE-2022-20186_CTXZ)	<img alt="forks" src="https://img.shields.io/github/forks/s1204-inspect/CVE-2022-20186_CTXZ">	<img alt="stars" src="https://img.shields.io/github/stars/s1204-inspect/CVE-2022-20186_CTXZ">
+
+---
 ## CVE-2022-20142 (2022-06-15T14:15:00)
 > In createFromParcel of GeofenceHardwareRequestParcelable.java, there is a possible arbitrary code execution due to parcel mismatch. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12LAndroid ID: A-216631962
 - [Satheesh575555/frameworks_base_AOSP10_r33_CVE-2022-20142](https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2022-20142)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2022-20142">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2022-20142">
