@@ -1286,3 +1286,8 @@
 ## CVE-2022-0441 (2022-03-07T09:15:00)
 > The MasterStudy LMS WordPress plugin before 2.7.6 does to validate some parameters given when registering a new account, allowing unauthenticated users to register as an admin
 - [biulove0x/CVE-2022-0441](https://github.com/biulove0x/CVE-2022-0441)	<img alt="forks" src="https://img.shields.io/github/forks/biulove0x/CVE-2022-0441">	<img alt="stars" src="https://img.shields.io/github/stars/biulove0x/CVE-2022-0441">
+
+---
+## CVE-2022-0337 ()
+> 
+- [Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera](https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera)	<img alt="forks" src="https://img.shields.io/github/forks/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera">	<img alt="stars" src="https://img.shields.io/github/stars/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera">
