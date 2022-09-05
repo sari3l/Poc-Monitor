@@ -11,8 +11,8 @@
 - [Vbedtt54e5/interesting-release-of-CVE-2022-63432](https://github.com/Vbedtt54e5/interesting-release-of-CVE-2022-63432)	<img alt="forks" src="https://img.shields.io/github/forks/Vbedtt54e5/interesting-release-of-CVE-2022-63432">	<img alt="stars" src="https://img.shields.io/github/stars/Vbedtt54e5/interesting-release-of-CVE-2022-63432">
 
 ---
-## CVE-2022-39838 ()
-> 
+## CVE-2022-39838 (2022-09-05T16:15:00)
+> Systematic FIX Adapter (ALFAFX) 2.4.0.25 13/09/2017 allows remote file inclusion via a UNC share pathname, and also allows absolute path traversal to local pathnames.
 - [jet-pentest/CVE-2022-39838](https://github.com/jet-pentest/CVE-2022-39838)	<img alt="forks" src="https://img.shields.io/github/forks/jet-pentest/CVE-2022-39838">	<img alt="stars" src="https://img.shields.io/github/stars/jet-pentest/CVE-2022-39838">
 
 ---
