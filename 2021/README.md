@@ -464,6 +464,7 @@
 - [CnOxx1/CVE-2021-34527-1675](https://github.com/CnOxx1/CVE-2021-34527-1675)	<img alt="forks" src="https://img.shields.io/github/forks/CnOxx1/CVE-2021-34527-1675">	<img alt="stars" src="https://img.shields.io/github/stars/CnOxx1/CVE-2021-34527-1675">
 - [fardinbarashi/Fix-CVE-2021-34527](https://github.com/fardinbarashi/Fix-CVE-2021-34527)	<img alt="forks" src="https://img.shields.io/github/forks/fardinbarashi/Fix-CVE-2021-34527">	<img alt="stars" src="https://img.shields.io/github/stars/fardinbarashi/Fix-CVE-2021-34527">
 - [JohnHammond/CVE-2021-34527](https://github.com/JohnHammond/CVE-2021-34527)	<img alt="forks" src="https://img.shields.io/github/forks/JohnHammond/CVE-2021-34527">	<img alt="stars" src="https://img.shields.io/github/stars/JohnHammond/CVE-2021-34527">
+- [hackerhouse-opensource/cve-2021-34527](https://github.com/hackerhouse-opensource/cve-2021-34527)	<img alt="forks" src="https://img.shields.io/github/forks/hackerhouse-opensource/cve-2021-34527">	<img alt="stars" src="https://img.shields.io/github/stars/hackerhouse-opensource/cve-2021-34527">
 
 ---
 ## CVE-2021-31956 (2021-06-08T23:15:00)
