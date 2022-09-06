@@ -763,6 +763,7 @@
 - [superzerosec/CVE-2022-24706](https://github.com/superzerosec/CVE-2022-24706)	<img alt="forks" src="https://img.shields.io/github/forks/superzerosec/CVE-2022-24706">	<img alt="stars" src="https://img.shields.io/github/stars/superzerosec/CVE-2022-24706">
 - [XmasSnowISBACK/CVE-2022-24706](https://github.com/XmasSnowISBACK/CVE-2022-24706)	<img alt="forks" src="https://img.shields.io/github/forks/XmasSnowISBACK/CVE-2022-24706">	<img alt="stars" src="https://img.shields.io/github/stars/XmasSnowISBACK/CVE-2022-24706">
 - [sadshade/CVE-2022-24706-CouchDB-Exploit](https://github.com/sadshade/CVE-2022-24706-CouchDB-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sadshade/CVE-2022-24706-CouchDB-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sadshade/CVE-2022-24706-CouchDB-Exploit">
+- [trhacknon/CVE-2022-24706-CouchDB-Exploit](https://github.com/trhacknon/CVE-2022-24706-CouchDB-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-24706-CouchDB-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-24706-CouchDB-Exploit">
 
 ---
 ## CVE-2022-2466 (2022-08-31T16:15:00)
