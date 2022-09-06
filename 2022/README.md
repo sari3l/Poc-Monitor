@@ -1093,7 +1093,7 @@
 ## CVE-2022-20186 (2022-06-15T14:15:00)
 > In kbase_mem_alias of mali_kbase_mem_linux.c, there is a possible arbitrary code execution due to improper input validation. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-215001024References: N/A
 - [s1204-inspect/CVE-2022-20186_CTXZ](https://github.com/s1204-inspect/CVE-2022-20186_CTXZ)	<img alt="forks" src="https://img.shields.io/github/forks/s1204-inspect/CVE-2022-20186_CTXZ">	<img alt="stars" src="https://img.shields.io/github/stars/s1204-inspect/CVE-2022-20186_CTXZ">
-- [s1204IT/CVE-2022-20186_CTXZ](https://github.com/s1204IT/CVE-2022-20186_CTXZ)	<img alt="forks" src="https://img.shields.io/github/forks/s1204IT/CVE-2022-20186_CTXZ">	<img alt="stars" src="https://img.shields.io/github/stars/s1204IT/CVE-2022-20186_CTXZ">
+- [SmileTabLabo/CVE-2022-20186_CTXZ](https://github.com/SmileTabLabo/CVE-2022-20186_CTXZ)	<img alt="forks" src="https://img.shields.io/github/forks/SmileTabLabo/CVE-2022-20186_CTXZ">	<img alt="stars" src="https://img.shields.io/github/stars/SmileTabLabo/CVE-2022-20186_CTXZ">
 
 ---
 ## CVE-2022-20142 (2022-06-15T14:15:00)
