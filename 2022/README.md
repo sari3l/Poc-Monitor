@@ -114,6 +114,11 @@
 - [safe3s/CVE-2022-35416](https://github.com/safe3s/CVE-2022-35416)	<img alt="forks" src="https://img.shields.io/github/forks/safe3s/CVE-2022-35416">	<img alt="stars" src="https://img.shields.io/github/stars/safe3s/CVE-2022-35416">
 
 ---
+## CVE-2022-35405 (2022-07-19T15:15:00)
+> Zoho ManageEngine Password Manager Pro before 12101 and PAM360 before 5510 are vulnerable to unauthenticated remote code execution. (This also affects ManageEngine Access Manager Plus before 4303 with authentication.)
+- [viniciuspereiras/CVE-2022-35405](https://github.com/viniciuspereiras/CVE-2022-35405)	<img alt="forks" src="https://img.shields.io/github/forks/viniciuspereiras/CVE-2022-35405">	<img alt="stars" src="https://img.shields.io/github/stars/viniciuspereiras/CVE-2022-35405">
+
+---
 ## CVE-2022-35131 (2022-07-25T21:15:00)
 > Joplin v2.8.8 allows attackers to execute arbitrary commands via a crafted payload injected into the Node titles.
 - [ly1g3/Joplin-CVE-2022-35131](https://github.com/ly1g3/Joplin-CVE-2022-35131)	<img alt="forks" src="https://img.shields.io/github/forks/ly1g3/Joplin-CVE-2022-35131">	<img alt="stars" src="https://img.shields.io/github/stars/ly1g3/Joplin-CVE-2022-35131">
