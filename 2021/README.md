@@ -232,6 +232,11 @@
 - [s-index/CVE-2021-41078](https://github.com/s-index/CVE-2021-41078)	<img alt="forks" src="https://img.shields.io/github/forks/s-index/CVE-2021-41078">	<img alt="stars" src="https://img.shields.io/github/stars/s-index/CVE-2021-41078">
 
 ---
+## CVE-2021-40978 (2021-10-07T14:15:00)
+> ** DISPUTED ** The mkdocs 1.2.2 built-in dev-server allows directory traversal using the port 8000, enabling remote exploitation to obtain :sensitive information. NOTE: the vendor has disputed this as described in https://github.com/mkdocs/mkdocs/issues/2601.] and https://github.com/nisdn/CVE-2021-40978/issues/1.
+- [nisdn/CVE-2021-40978](https://github.com/nisdn/CVE-2021-40978)	<img alt="forks" src="https://img.shields.io/github/forks/nisdn/CVE-2021-40978">	<img alt="stars" src="https://img.shields.io/github/stars/nisdn/CVE-2021-40978">
+
+---
 ## CVE-2021-40903 (2022-06-17T14:15:00)
 > A vulnerability in Antminer Monitor 0.50.0 exists because of backdoor or misconfiguration inside a settings file in flask server. Settings file has a predefined secret string, which would be randomly generated, however it is static.
 - [vulnz/CVE-2021-40903](https://github.com/vulnz/CVE-2021-40903)	<img alt="forks" src="https://img.shields.io/github/forks/vulnz/CVE-2021-40903">	<img alt="stars" src="https://img.shields.io/github/stars/vulnz/CVE-2021-40903">
