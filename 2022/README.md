@@ -84,8 +84,8 @@
 - [monzaviman/CVE_2022_36446](https://github.com/monzaviman/CVE_2022_36446)	<img alt="forks" src="https://img.shields.io/github/forks/monzaviman/CVE_2022_36446">	<img alt="stars" src="https://img.shields.io/github/stars/monzaviman/CVE_2022_36446">
 
 ---
-## CVE-2022-36271 ()
-> 
+## CVE-2022-36271 (2022-09-07T14:15:00)
+> Outbyte PC Repair Installation File 1.7.112.7856 is vulnerable to Dll Hijacking. iertutil.dll is missing so an attacker can use a malicious dll with same name and can get admin privileges.
 - [SaumyajeetDas/POC-of-CVE-2022-36271](https://github.com/SaumyajeetDas/POC-of-CVE-2022-36271)	<img alt="forks" src="https://img.shields.io/github/forks/SaumyajeetDas/POC-of-CVE-2022-36271">	<img alt="stars" src="https://img.shields.io/github/stars/SaumyajeetDas/POC-of-CVE-2022-36271">
 
 ---
@@ -109,8 +109,8 @@
 - [AngeloPioAmirante/CVE-2022-35899](https://github.com/AngeloPioAmirante/CVE-2022-35899)	<img alt="forks" src="https://img.shields.io/github/forks/AngeloPioAmirante/CVE-2022-35899">	<img alt="stars" src="https://img.shields.io/github/stars/AngeloPioAmirante/CVE-2022-35899">
 
 ---
-## CVE-2022-35513 ()
-> 
+## CVE-2022-35513 (2022-09-07T14:15:00)
+> The Blink1Control2 application <= 2.2.7 uses weak password encryption and an insecure method of storage.
 - [p1ckzi/CVE-2022-35513](https://github.com/p1ckzi/CVE-2022-35513)	<img alt="forks" src="https://img.shields.io/github/forks/p1ckzi/CVE-2022-35513">	<img alt="stars" src="https://img.shields.io/github/stars/p1ckzi/CVE-2022-35513">
 
 ---
