@@ -72,6 +72,11 @@
 - [CEOrbey/CVE-2022-36804-POC](https://github.com/CEOrbey/CVE-2022-36804-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CEOrbey/CVE-2022-36804-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CEOrbey/CVE-2022-36804-POC">
 
 ---
+## CVE-2022-36539 ()
+> 
+- [Fopje/CVE-2022-36539](https://github.com/Fopje/CVE-2022-36539)	<img alt="forks" src="https://img.shields.io/github/forks/Fopje/CVE-2022-36539">	<img alt="stars" src="https://img.shields.io/github/stars/Fopje/CVE-2022-36539">
+
+---
 ## CVE-2022-36446 (2022-07-25T06:15:00)
 > software/apt-lib.pl in Webmin before 1.997 lacks HTML escaping for a UI command.
 - [p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE](https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE">
