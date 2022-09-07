@@ -72,8 +72,8 @@
 - [CEOrbey/CVE-2022-36804-POC](https://github.com/CEOrbey/CVE-2022-36804-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CEOrbey/CVE-2022-36804-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CEOrbey/CVE-2022-36804-POC">
 
 ---
-## CVE-2022-36539 ()
-> 
+## CVE-2022-36539 (2022-09-07T17:15:00)
+> WeDayCare B.V Ouderapp before v1.1.22 allows attackers to alter the ID value within intercepted calls to gain access to data of other parents and children.
 - [Fopje/CVE-2022-36539](https://github.com/Fopje/CVE-2022-36539)	<img alt="forks" src="https://img.shields.io/github/forks/Fopje/CVE-2022-36539">	<img alt="stars" src="https://img.shields.io/github/stars/Fopje/CVE-2022-36539">
 
 ---
