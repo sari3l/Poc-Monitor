@@ -151,6 +151,11 @@
 - [Kento-Sec/GitLab-Graphql-CVE-2020-26413](https://github.com/Kento-Sec/GitLab-Graphql-CVE-2020-26413)	<img alt="forks" src="https://img.shields.io/github/forks/Kento-Sec/GitLab-Graphql-CVE-2020-26413">	<img alt="stars" src="https://img.shields.io/github/stars/Kento-Sec/GitLab-Graphql-CVE-2020-26413">
 
 ---
+## CVE-2020-25478 ()
+> 
+- [santokum/CVE-2020-25478--ASUS-RT-AC87U-TFTP-is-vulnerable-to-Denial-of-Service-DoS-attack](https://github.com/santokum/CVE-2020-25478--ASUS-RT-AC87U-TFTP-is-vulnerable-to-Denial-of-Service-DoS-attack)	<img alt="forks" src="https://img.shields.io/github/forks/santokum/CVE-2020-25478--ASUS-RT-AC87U-TFTP-is-vulnerable-to-Denial-of-Service-DoS-attack">	<img alt="stars" src="https://img.shields.io/github/stars/santokum/CVE-2020-25478--ASUS-RT-AC87U-TFTP-is-vulnerable-to-Denial-of-Service-DoS-attack">
+
+---
 ## CVE-2020-25213 (2020-09-09T16:15:00)
 > The File Manager (wp-file-manager) plugin before 6.9 for WordPress allows remote attackers to upload and execute arbitrary PHP code because it renames an unsafe example elFinder connector file to have the .php extension. This, for example, allows attackers to run the elFinder upload (or mkfile and put) command to write PHP code into the wp-content/plugins/wp-file-manager/lib/files/ directory. This was exploited in the wild in August and September 2020.
 - [b1ackros337/CVE-2020-25213](https://github.com/b1ackros337/CVE-2020-25213)	<img alt="forks" src="https://img.shields.io/github/forks/b1ackros337/CVE-2020-25213">	<img alt="stars" src="https://img.shields.io/github/stars/b1ackros337/CVE-2020-25213">
