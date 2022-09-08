@@ -351,6 +351,11 @@
 - [Pajarraco4444/CVE-2021-4034](https://github.com/Pajarraco4444/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/Pajarraco4444/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/Pajarraco4444/CVE-2021-4034">
 
 ---
+## CVE-2021-39674 (2022-02-11T18:15:00)
+> In btm_sec_connected and btm_sec_disconnected of btm_sec.cc file , there is a possible use after free. This could lead to local escalation of privilege with User execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12Android ID: A-201083442
+- [nidhi7598/system_bt_AOSP_10_r33_CVE-2021-39674](https://github.com/nidhi7598/system_bt_AOSP_10_r33_CVE-2021-39674)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/system_bt_AOSP_10_r33_CVE-2021-39674">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/system_bt_AOSP_10_r33_CVE-2021-39674">
+
+---
 ## CVE-2021-39409 (2022-06-24T17:15:00)
 > A vulnerability exists in Online Student Rate System v1.0 that allows any user to register as an administrator without needing to be authenticated.
 - [StefanDorresteijn/CVE-2021-39409](https://github.com/StefanDorresteijn/CVE-2021-39409)	<img alt="forks" src="https://img.shields.io/github/forks/StefanDorresteijn/CVE-2021-39409">	<img alt="stars" src="https://img.shields.io/github/stars/StefanDorresteijn/CVE-2021-39409">
