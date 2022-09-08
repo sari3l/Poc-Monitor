@@ -177,6 +177,7 @@
 - [ZhaoQi99/CVE-2022-34265](https://github.com/ZhaoQi99/CVE-2022-34265)	<img alt="forks" src="https://img.shields.io/github/forks/ZhaoQi99/CVE-2022-34265">	<img alt="stars" src="https://img.shields.io/github/stars/ZhaoQi99/CVE-2022-34265">
 - [raheel0x01/CVE-2022-34265-modified](https://github.com/raheel0x01/CVE-2022-34265-modified)	<img alt="forks" src="https://img.shields.io/github/forks/raheel0x01/CVE-2022-34265-modified">	<img alt="stars" src="https://img.shields.io/github/stars/raheel0x01/CVE-2022-34265-modified">
 - [coco0x0a/CVE-2022-34265-mysql](https://github.com/coco0x0a/CVE-2022-34265-mysql)	<img alt="forks" src="https://img.shields.io/github/forks/coco0x0a/CVE-2022-34265-mysql">	<img alt="stars" src="https://img.shields.io/github/stars/coco0x0a/CVE-2022-34265-mysql">
+- [coco0x0a/CTF_CVE-2022-34265](https://github.com/coco0x0a/CTF_CVE-2022-34265)	<img alt="forks" src="https://img.shields.io/github/forks/coco0x0a/CTF_CVE-2022-34265">	<img alt="stars" src="https://img.shields.io/github/stars/coco0x0a/CTF_CVE-2022-34265">
 
 ---
 ## CVE-2022-34169 (2022-07-19T18:15:00)
