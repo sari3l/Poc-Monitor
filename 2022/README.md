@@ -82,6 +82,8 @@
 - [p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE](https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE">
 - [peanut-cc/CVE-2022-36446](https://github.com/peanut-cc/CVE-2022-36446)	<img alt="forks" src="https://img.shields.io/github/forks/peanut-cc/CVE-2022-36446">	<img alt="stars" src="https://img.shields.io/github/stars/peanut-cc/CVE-2022-36446">
 - [monzaviman/CVE_2022_36446](https://github.com/monzaviman/CVE_2022_36446)	<img alt="forks" src="https://img.shields.io/github/forks/monzaviman/CVE_2022_36446">	<img alt="stars" src="https://img.shields.io/github/stars/monzaviman/CVE_2022_36446">
+- [emirpolatt/CVE-2022-36446](https://github.com/emirpolatt/CVE-2022-36446)	<img alt="forks" src="https://img.shields.io/github/forks/emirpolatt/CVE-2022-36446">	<img alt="stars" src="https://img.shields.io/github/stars/emirpolatt/CVE-2022-36446">
+- [kh4sh3i/Webmin-CVE](https://github.com/kh4sh3i/Webmin-CVE)	<img alt="forks" src="https://img.shields.io/github/forks/kh4sh3i/Webmin-CVE">	<img alt="stars" src="https://img.shields.io/github/stars/kh4sh3i/Webmin-CVE">
 
 ---
 ## CVE-2022-36271 (2022-09-07T14:15:00)
