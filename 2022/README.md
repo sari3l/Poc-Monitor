@@ -423,6 +423,11 @@
 - [aslitsecurity/Zimbra-CVE-2022-30333](https://github.com/aslitsecurity/Zimbra-CVE-2022-30333)	<img alt="forks" src="https://img.shields.io/github/forks/aslitsecurity/Zimbra-CVE-2022-30333">	<img alt="stars" src="https://img.shields.io/github/stars/aslitsecurity/Zimbra-CVE-2022-30333">
 
 ---
+## CVE-2022-30206 (2022-07-12T23:15:00)
+> Windows Print Spooler Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-22022, CVE-2022-22041, CVE-2022-30226.
+- [Pwnrin/CVE-2022-30206](https://github.com/Pwnrin/CVE-2022-30206)	<img alt="forks" src="https://img.shields.io/github/forks/Pwnrin/CVE-2022-30206">	<img alt="stars" src="https://img.shields.io/github/stars/Pwnrin/CVE-2022-30206">
+
+---
 ## CVE-2022-30190 (2022-06-01T20:15:00)
 > Microsoft Windows Support Diagnostic Tool (MSDT) Remote Code Execution Vulnerability.
 - [notherealhazard/follina-CVE-2022-30190](https://github.com/notherealhazard/follina-CVE-2022-30190)	<img alt="forks" src="https://img.shields.io/github/forks/notherealhazard/follina-CVE-2022-30190">	<img alt="stars" src="https://img.shields.io/github/stars/notherealhazard/follina-CVE-2022-30190">
