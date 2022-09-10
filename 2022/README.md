@@ -814,6 +814,7 @@
 - [JacobEbben/CVE-2022-24637](https://github.com/JacobEbben/CVE-2022-24637)	<img alt="forks" src="https://img.shields.io/github/forks/JacobEbben/CVE-2022-24637">	<img alt="stars" src="https://img.shields.io/github/stars/JacobEbben/CVE-2022-24637">
 - [Lay0us1/CVE-2022-24637](https://github.com/Lay0us1/CVE-2022-24637)	<img alt="forks" src="https://img.shields.io/github/forks/Lay0us1/CVE-2022-24637">	<img alt="stars" src="https://img.shields.io/github/stars/Lay0us1/CVE-2022-24637">
 - [garySec/-CVE-2022-24637](https://github.com/garySec/-CVE-2022-24637)	<img alt="forks" src="https://img.shields.io/github/forks/garySec/-CVE-2022-24637">	<img alt="stars" src="https://img.shields.io/github/stars/garySec/-CVE-2022-24637">
+- [garySec/CVE-2022-24637](https://github.com/garySec/CVE-2022-24637)	<img alt="forks" src="https://img.shields.io/github/forks/garySec/CVE-2022-24637">	<img alt="stars" src="https://img.shields.io/github/stars/garySec/CVE-2022-24637">
 
 ---
 ## CVE-2022-24500 (2022-04-15T19:15:00)
