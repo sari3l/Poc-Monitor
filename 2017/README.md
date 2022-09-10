@@ -197,6 +197,14 @@
 - [cjjduck/weblogic_wls_wsat_rce](https://github.com/cjjduck/weblogic_wls_wsat_rce)	<img alt="forks" src="https://img.shields.io/github/forks/cjjduck/weblogic_wls_wsat_rce">	<img alt="stars" src="https://img.shields.io/github/stars/cjjduck/weblogic_wls_wsat_rce">
 
 ---
+## CVE-2017-1000486 (2018-01-03T20:29:00)
+> Primetek Primefaces 5.x is vulnerable to a weak encryption flaw resulting in remote code execution
+- [mogwailabs/CVE-2017-1000486](https://github.com/mogwailabs/CVE-2017-1000486)	<img alt="forks" src="https://img.shields.io/github/forks/mogwailabs/CVE-2017-1000486">	<img alt="stars" src="https://img.shields.io/github/stars/mogwailabs/CVE-2017-1000486">
+- [Pastea/CVE-2017-1000486](https://github.com/Pastea/CVE-2017-1000486)	<img alt="forks" src="https://img.shields.io/github/forks/Pastea/CVE-2017-1000486">	<img alt="stars" src="https://img.shields.io/github/stars/Pastea/CVE-2017-1000486">
+- [pimps/CVE-2017-1000486](https://github.com/pimps/CVE-2017-1000486)	<img alt="forks" src="https://img.shields.io/github/forks/pimps/CVE-2017-1000486">	<img alt="stars" src="https://img.shields.io/github/stars/pimps/CVE-2017-1000486">
+- [cved-sources/cve-2017-1000486](https://github.com/cved-sources/cve-2017-1000486)	<img alt="forks" src="https://img.shields.io/github/forks/cved-sources/cve-2017-1000486">	<img alt="stars" src="https://img.shields.io/github/stars/cved-sources/cve-2017-1000486">
+
+---
 ## CVE-2017-1000251 (2017-09-12T17:29:00)
 > The native Bluetooth stack in the Linux Kernel (BlueZ), starting at the Linux kernel version 2.6.32 and up to and including 4.13.1, are vulnerable to a stack overflow vulnerability in the processing of L2CAP configuration responses resulting in Remote code execution in kernel space.
 - [istanescu/CVE-2017-1000251_Exploit](https://github.com/istanescu/CVE-2017-1000251_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/istanescu/CVE-2017-1000251_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/istanescu/CVE-2017-1000251_Exploit">

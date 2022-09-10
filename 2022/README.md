@@ -11,6 +11,11 @@
 - [Vbedtt54e5/interesting-release-of-CVE-2022-63432](https://github.com/Vbedtt54e5/interesting-release-of-CVE-2022-63432)	<img alt="forks" src="https://img.shields.io/github/forks/Vbedtt54e5/interesting-release-of-CVE-2022-63432">	<img alt="stars" src="https://img.shields.io/github/stars/Vbedtt54e5/interesting-release-of-CVE-2022-63432">
 
 ---
+## CVE-2022-40317 (2022-09-09T17:15:00)
+> OpenKM 6.3.11 allows stored XSS related to the javascript&colon; substring in an A element.
+- [izdiwho/CVE-2022-40317](https://github.com/izdiwho/CVE-2022-40317)	<img alt="forks" src="https://img.shields.io/github/forks/izdiwho/CVE-2022-40317">	<img alt="stars" src="https://img.shields.io/github/stars/izdiwho/CVE-2022-40317">
+
+---
 ## CVE-2022-39838 (2022-09-05T16:15:00)
 > Systematic FIX Adapter (ALFAFX) 2.4.0.25 13/09/2017 allows remote file inclusion via a UNC share pathname, and also allows absolute path traversal to local pathnames.
 - [jet-pentest/CVE-2022-39838](https://github.com/jet-pentest/CVE-2022-39838)	<img alt="forks" src="https://img.shields.io/github/forks/jet-pentest/CVE-2022-39838">	<img alt="stars" src="https://img.shields.io/github/stars/jet-pentest/CVE-2022-39838">
@@ -291,6 +296,11 @@
 - [jbaines-r7/hook](https://github.com/jbaines-r7/hook)	<img alt="forks" src="https://img.shields.io/github/forks/jbaines-r7/hook">	<img alt="stars" src="https://img.shields.io/github/stars/jbaines-r7/hook">
 
 ---
+## CVE-2022-3168 ()
+> 
+- [irsl/CVE-2022-3168-adb-unexpected-reverse-forwards](https://github.com/irsl/CVE-2022-3168-adb-unexpected-reverse-forwards)	<img alt="forks" src="https://img.shields.io/github/forks/irsl/CVE-2022-3168-adb-unexpected-reverse-forwards">	<img alt="stars" src="https://img.shields.io/github/stars/irsl/CVE-2022-3168-adb-unexpected-reverse-forwards">
+
+---
 ## CVE-2022-31301 (2022-06-16T18:15:00)
 > Haraj v3.7 was discovered to contain a stored cross-site scripting (XSS) vulnerability in the Post Ads component.
 - [bigzooooz/CVE-2022-31301](https://github.com/bigzooooz/CVE-2022-31301)	<img alt="forks" src="https://img.shields.io/github/forks/bigzooooz/CVE-2022-31301">	<img alt="stars" src="https://img.shields.io/github/stars/bigzooooz/CVE-2022-31301">
@@ -329,6 +339,11 @@
 ## CVE-2022-31245 (2022-05-20T15:15:00)
 > mailcow before 2022-05d allows a remote authenticated user to inject OS commands and escalate privileges to domain admin via the --debug option in conjunction with the ---PIPEMESS option in Sync Jobs.
 - [ly1g3/Mailcow-CVE-2022-31245](https://github.com/ly1g3/Mailcow-CVE-2022-31245)	<img alt="forks" src="https://img.shields.io/github/forks/ly1g3/Mailcow-CVE-2022-31245">	<img alt="stars" src="https://img.shields.io/github/stars/ly1g3/Mailcow-CVE-2022-31245">
+
+---
+## CVE-2022-31188 (2022-08-01T20:15:00)
+> CVAT is an opensource interactive video and image annotation tool for computer vision. Versions prior to 2.0.0 were found to be subject to a Server-side request forgery (SSRF) vulnerability. Validation has been added to urls used in the affected code path in version 2.0.0. Users are advised to upgrade. There are no known workarounds for this issue.
+- [emirpolatt/CVE-2022-31188](https://github.com/emirpolatt/CVE-2022-31188)	<img alt="forks" src="https://img.shields.io/github/forks/emirpolatt/CVE-2022-31188">	<img alt="stars" src="https://img.shields.io/github/stars/emirpolatt/CVE-2022-31188">
 
 ---
 ## CVE-2022-31138 (2022-07-11T14:15:00)
@@ -1006,6 +1021,11 @@
 - [SiJiDo/CVE-2022-22947](https://github.com/SiJiDo/CVE-2022-22947)	<img alt="forks" src="https://img.shields.io/github/forks/SiJiDo/CVE-2022-22947">	<img alt="stars" src="https://img.shields.io/github/stars/SiJiDo/CVE-2022-22947">
 
 ---
+## CVE-2022-22629 ()
+> 
+- [parsdefense/CVE-2022-22629](https://github.com/parsdefense/CVE-2022-22629)	<img alt="forks" src="https://img.shields.io/github/forks/parsdefense/CVE-2022-22629">	<img alt="stars" src="https://img.shields.io/github/stars/parsdefense/CVE-2022-22629">
+
+---
 ## CVE-2022-22620 (2022-03-18T18:15:00)
 > A use after free issue was addressed with improved memory management. This issue is fixed in macOS Monterey 12.2.1, iOS 15.3.1 and iPadOS 15.3.1, Safari 15.3 (v. 16612.4.9.1.8 and 15612.4.9.1.8). Processing maliciously crafted web content may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited..
 - [kmeps4/CVE-2022-22620](https://github.com/kmeps4/CVE-2022-22620)	<img alt="forks" src="https://img.shields.io/github/forks/kmeps4/CVE-2022-22620">	<img alt="stars" src="https://img.shields.io/github/stars/kmeps4/CVE-2022-22620">
@@ -1142,6 +1162,11 @@
 ## CVE-2022-20130 (2022-06-15T13:15:00)
 > In transportDec_OutOfBandConfig of tpdec_lib.cpp, there is a possible out of bounds write due to a heap buffer overflow. This could lead to remote code execution with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12LAndroid ID: A-224314979
 - [Satheesh575555/external_aac_AOSP10_r33_CVE-2022-20130](https://github.com/Satheesh575555/external_aac_AOSP10_r33_CVE-2022-20130)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/external_aac_AOSP10_r33_CVE-2022-20130">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/external_aac_AOSP10_r33_CVE-2022-20130">
+
+---
+## CVE-2022-20128 ()
+> 
+- [irsl/CVE-2022-20128](https://github.com/irsl/CVE-2022-20128)	<img alt="forks" src="https://img.shields.io/github/forks/irsl/CVE-2022-20128">	<img alt="stars" src="https://img.shields.io/github/stars/irsl/CVE-2022-20128">
 
 ---
 ## CVE-2022-20126 (2022-06-15T13:15:00)

@@ -397,6 +397,11 @@
 - [akhilkoradiya/CVE-2021-38314](https://github.com/akhilkoradiya/CVE-2021-38314)	<img alt="forks" src="https://img.shields.io/github/forks/akhilkoradiya/CVE-2021-38314">	<img alt="stars" src="https://img.shields.io/github/stars/akhilkoradiya/CVE-2021-38314">
 
 ---
+## CVE-2021-38163 (2021-09-14T12:15:00)
+> SAP NetWeaver (Visual Composer 7.0 RT) versions - 7.30, 7.31, 7.40, 7.50, without restriction, an attacker authenticated as a non-administrative user can upload a malicious file over a network and trigger its processing, which is capable of running operating system commands with the privilege of the Java Server process. These commands can be used to read or modify any information on the server or shut the server down making it unavailable.
+- [core1impact/CVE-2021-38163](https://github.com/core1impact/CVE-2021-38163)	<img alt="forks" src="https://img.shields.io/github/forks/core1impact/CVE-2021-38163">	<img alt="stars" src="https://img.shields.io/github/stars/core1impact/CVE-2021-38163">
+
+---
 ## CVE-2021-37740 (2022-04-20T20:15:00)
 > A denial of service vulnerability exists in MDT's firmware for the KNXnet/IP Secure router SCN-IP100.03 and KNX IP interface SCN-IP000.03 before v3.0.4, that allows a remote attacker to turn the device unresponsive to all requests on the KNXnet/IP Secure layer, until the device is rebooted, via a SESSION_REQUEST frame with a modified total length field.
 - [robertguetzkow/CVE-2021-37740](https://github.com/robertguetzkow/CVE-2021-37740)	<img alt="forks" src="https://img.shields.io/github/forks/robertguetzkow/CVE-2021-37740">	<img alt="stars" src="https://img.shields.io/github/stars/robertguetzkow/CVE-2021-37740">

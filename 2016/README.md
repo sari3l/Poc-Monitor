@@ -1,6 +1,14 @@
 # 2016 List
 
 ---
+## CVE-2016-5734 (2016-07-03T01:59:00)
+> phpMyAdmin 4.0.x before 4.0.10.16, 4.4.x before 4.4.15.7, and 4.6.x before 4.6.3 does not properly choose delimiters to prevent use of the preg_replace e (aka eval) modifier, which might allow remote attackers to execute arbitrary PHP code via a crafted string, as demonstrated by the table search-and-replace implementation.
+- [miko550/CVE-2016-5734-docker](https://github.com/miko550/CVE-2016-5734-docker)	<img alt="forks" src="https://img.shields.io/github/forks/miko550/CVE-2016-5734-docker">	<img alt="stars" src="https://img.shields.io/github/stars/miko550/CVE-2016-5734-docker">
+- [HKirito/phpmyadmin4.4_cve-2016-5734](https://github.com/HKirito/phpmyadmin4.4_cve-2016-5734)	<img alt="forks" src="https://img.shields.io/github/forks/HKirito/phpmyadmin4.4_cve-2016-5734">	<img alt="stars" src="https://img.shields.io/github/stars/HKirito/phpmyadmin4.4_cve-2016-5734">
+- [msharm33/CVE2016-5734](https://github.com/msharm33/CVE2016-5734)	<img alt="forks" src="https://img.shields.io/github/forks/msharm33/CVE2016-5734">	<img alt="stars" src="https://img.shields.io/github/stars/msharm33/CVE2016-5734">
+- [KosukeShimofuji/CVE-2016-5734](https://github.com/KosukeShimofuji/CVE-2016-5734)	<img alt="forks" src="https://img.shields.io/github/forks/KosukeShimofuji/CVE-2016-5734">	<img alt="stars" src="https://img.shields.io/github/stars/KosukeShimofuji/CVE-2016-5734">
+
+---
 ## CVE-2016-10924 (2019-08-22T14:15:00)
 > The ebook-download plugin before 1.2 for WordPress has directory traversal.
 - [rvizx/CVE-2016-10924](https://github.com/rvizx/CVE-2016-10924)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2016-10924">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2016-10924">
