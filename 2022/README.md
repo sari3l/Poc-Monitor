@@ -237,6 +237,11 @@
 - [AkbarTrilaksana/CVE-2022-32832](https://github.com/AkbarTrilaksana/CVE-2022-32832)	<img alt="forks" src="https://img.shields.io/github/forks/AkbarTrilaksana/CVE-2022-32832">	<img alt="stars" src="https://img.shields.io/github/stars/AkbarTrilaksana/CVE-2022-32832">
 
 ---
+## CVE-2022-32548 (2022-08-29T06:15:00)
+> An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1. /cgi-bin/wlogin.cgi has a buffer overflow via the username or password to the aa or ab field.
+- [Expl0desploit/CVE-2022-32548](https://github.com/Expl0desploit/CVE-2022-32548)	<img alt="forks" src="https://img.shields.io/github/forks/Expl0desploit/CVE-2022-32548">	<img alt="stars" src="https://img.shields.io/github/stars/Expl0desploit/CVE-2022-32548">
+
+---
 ## CVE-2022-32532 (2022-06-29T00:15:00)
 > Apache Shiro before 1.9.1, A RegexRequestMatcher can be misconfigured to be bypassed on some servlet containers. Applications using RegExPatternMatcher with `.` in the regular expression are possibly vulnerable to an authorization bypass.
 - [4ra1n/CVE-2022-32532](https://github.com/4ra1n/CVE-2022-32532)	<img alt="forks" src="https://img.shields.io/github/forks/4ra1n/CVE-2022-32532">	<img alt="stars" src="https://img.shields.io/github/stars/4ra1n/CVE-2022-32532">
