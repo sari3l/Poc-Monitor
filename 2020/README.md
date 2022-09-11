@@ -261,6 +261,14 @@
 - [30579096/CVE-2020-1473](https://github.com/30579096/CVE-2020-1473)	<img alt="forks" src="https://img.shields.io/github/forks/30579096/CVE-2020-1473">	<img alt="stars" src="https://img.shields.io/github/stars/30579096/CVE-2020-1473">
 
 ---
+## CVE-2020-11022 (2020-04-29T22:15:00)
+> In jQuery versions greater than or equal to 1.2 and before 3.5.0, passing HTML from untrusted sources - even after sanitizing it - to one of jQuery's DOM manipulation methods (i.e. .html(), .append(), and others) may execute untrusted code. This problem is patched in jQuery 3.5.0.
+- [0xAJ2K/CVE-2020-11022-CVE-2020-11023](https://github.com/0xAJ2K/CVE-2020-11022-CVE-2020-11023)	<img alt="forks" src="https://img.shields.io/github/forks/0xAJ2K/CVE-2020-11022-CVE-2020-11023">	<img alt="stars" src="https://img.shields.io/github/stars/0xAJ2K/CVE-2020-11022-CVE-2020-11023">
+- [DanielRuf/snyk-js-jquery-565129](https://github.com/DanielRuf/snyk-js-jquery-565129)	<img alt="forks" src="https://img.shields.io/github/forks/DanielRuf/snyk-js-jquery-565129">	<img alt="stars" src="https://img.shields.io/github/stars/DanielRuf/snyk-js-jquery-565129">
+- [Snorlyd/https-nj.gov---CVE-2020-11022](https://github.com/Snorlyd/https-nj.gov---CVE-2020-11022)	<img alt="forks" src="https://img.shields.io/github/forks/Snorlyd/https-nj.gov---CVE-2020-11022">	<img alt="stars" src="https://img.shields.io/github/stars/Snorlyd/https-nj.gov---CVE-2020-11022">
+- [ossf-cve-benchmark/CVE-2020-11022](https://github.com/ossf-cve-benchmark/CVE-2020-11022)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2020-11022">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2020-11022">
+
+---
 ## CVE-2020-10770 (2020-12-15T20:15:00)
 > A flaw was found in Keycloak before 13.0.0, where it is possible to force the server to call out an unverified URL using the OIDC parameter request_uri. This flaw allows an attacker to use this parameter to execute a Server-side request forgery (SSRF) attack.
 - [ColdFusionX/Keycloak-12.0.1-CVE-2020-10770](https://github.com/ColdFusionX/Keycloak-12.0.1-CVE-2020-10770)	<img alt="forks" src="https://img.shields.io/github/forks/ColdFusionX/Keycloak-12.0.1-CVE-2020-10770">	<img alt="stars" src="https://img.shields.io/github/stars/ColdFusionX/Keycloak-12.0.1-CVE-2020-10770">
