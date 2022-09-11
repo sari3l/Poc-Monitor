@@ -678,6 +678,7 @@
 - [ToomArni65/CVE-2022-26809-RCE](https://github.com/ToomArni65/CVE-2022-26809-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/ToomArni65/CVE-2022-26809-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/ToomArni65/CVE-2022-26809-RCE">
 - [crypt0r00t/CVE-2022-26809](https://github.com/crypt0r00t/CVE-2022-26809)	<img alt="forks" src="https://img.shields.io/github/forks/crypt0r00t/CVE-2022-26809">	<img alt="stars" src="https://img.shields.io/github/stars/crypt0r00t/CVE-2022-26809">
 - [F1uk369/CVE-2022-26809](https://github.com/F1uk369/CVE-2022-26809)	<img alt="forks" src="https://img.shields.io/github/forks/F1uk369/CVE-2022-26809">	<img alt="stars" src="https://img.shields.io/github/stars/F1uk369/CVE-2022-26809">
+- [Ziggy78/CVE-2022-26809-RCE-MASS](https://github.com/Ziggy78/CVE-2022-26809-RCE-MASS)	<img alt="forks" src="https://img.shields.io/github/forks/Ziggy78/CVE-2022-26809-RCE-MASS">	<img alt="stars" src="https://img.shields.io/github/stars/Ziggy78/CVE-2022-26809-RCE-MASS">
 
 ---
 ## CVE-2022-2639 (2022-09-01T21:15:00)

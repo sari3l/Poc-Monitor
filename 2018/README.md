@@ -243,6 +243,11 @@
 - [gbonacini/openssh_password_logger](https://github.com/gbonacini/openssh_password_logger)	<img alt="forks" src="https://img.shields.io/github/forks/gbonacini/openssh_password_logger">	<img alt="stars" src="https://img.shields.io/github/stars/gbonacini/openssh_password_logger">
 
 ---
+## CVE-2018-14699 (2018-12-03T22:29:00)
+> System command injection in the /DroboAccess/enable_user endpoint in Drobo 5N2 NAS version 4.0.5-13.28.96115 allows unauthenticated attackers to execute system commands via the "username" URL parameter.
+- [RevoCain/CVE-2018-14699](https://github.com/RevoCain/CVE-2018-14699)	<img alt="forks" src="https://img.shields.io/github/forks/RevoCain/CVE-2018-14699">	<img alt="stars" src="https://img.shields.io/github/stars/RevoCain/CVE-2018-14699">
+
+---
 ## CVE-2018-11321 (2018-05-22T15:29:00)
 > An issue was discovered in com_fields in Joomla! Core before 3.8.8. Inadequate filtering allows users authorised to create custom fields to manipulate the filtering options and inject an unvalidated option.
 - [ExploitCN/CVE-2018-11321](https://github.com/ExploitCN/CVE-2018-11321)	<img alt="forks" src="https://img.shields.io/github/forks/ExploitCN/CVE-2018-11321">	<img alt="stars" src="https://img.shields.io/github/stars/ExploitCN/CVE-2018-11321">
