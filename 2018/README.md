@@ -206,6 +206,15 @@
 - [rhpco/CVE-2018-16509](https://github.com/rhpco/CVE-2018-16509)	<img alt="forks" src="https://img.shields.io/github/forks/rhpco/CVE-2018-16509">	<img alt="stars" src="https://img.shields.io/github/stars/rhpco/CVE-2018-16509">
 
 ---
+## CVE-2018-15961 (2018-09-25T13:29:00)
+> Adobe ColdFusion versions July 12 release (2018.0.0.310739), Update 6 and earlier, and Update 14 and earlier have an unrestricted file upload vulnerability. Successful exploitation could lead to arbitrary code execution.
+- [0xAJ2K/CVE-2018-15961](https://github.com/0xAJ2K/CVE-2018-15961)	<img alt="forks" src="https://img.shields.io/github/forks/0xAJ2K/CVE-2018-15961">	<img alt="stars" src="https://img.shields.io/github/stars/0xAJ2K/CVE-2018-15961">
+- [orangmuda/CVE-2018-15961](https://github.com/orangmuda/CVE-2018-15961)	<img alt="forks" src="https://img.shields.io/github/forks/orangmuda/CVE-2018-15961">	<img alt="stars" src="https://img.shields.io/github/stars/orangmuda/CVE-2018-15961">
+- [xbufu/CVE-2018-15961](https://github.com/xbufu/CVE-2018-15961)	<img alt="forks" src="https://img.shields.io/github/forks/xbufu/CVE-2018-15961">	<img alt="stars" src="https://img.shields.io/github/stars/xbufu/CVE-2018-15961">
+- [cved-sources/cve-2018-15961](https://github.com/cved-sources/cve-2018-15961)	<img alt="forks" src="https://img.shields.io/github/forks/cved-sources/cve-2018-15961">	<img alt="stars" src="https://img.shields.io/github/stars/cved-sources/cve-2018-15961">
+- [vah13/CVE-2018-15961](https://github.com/vah13/CVE-2018-15961)	<img alt="forks" src="https://img.shields.io/github/forks/vah13/CVE-2018-15961">	<img alt="stars" src="https://img.shields.io/github/stars/vah13/CVE-2018-15961">
+
+---
 ## CVE-2018-15856 (2018-08-25T21:29:00)
 > An infinite loop when reaching EOL unexpectedly in compose/parser.c (aka the keymap parser) in xkbcommon before 0.8.1 could be used by local attackers to cause a denial of service during parsing of crafted keymap files.
 - [ahaShiyu/CVE-2018-15856](https://github.com/ahaShiyu/CVE-2018-15856)	<img alt="forks" src="https://img.shields.io/github/forks/ahaShiyu/CVE-2018-15856">	<img alt="stars" src="https://img.shields.io/github/stars/ahaShiyu/CVE-2018-15856">
