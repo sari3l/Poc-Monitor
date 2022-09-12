@@ -1363,6 +1363,9 @@
 - [EagleTube/CVE-2022-0847](https://github.com/EagleTube/CVE-2022-0847)	<img alt="forks" src="https://img.shields.io/github/forks/EagleTube/CVE-2022-0847">	<img alt="stars" src="https://img.shields.io/github/stars/EagleTube/CVE-2022-0847">
 - [yoeelingBin/CVE-2022-0847-Container-Escape](https://github.com/yoeelingBin/CVE-2022-0847-Container-Escape)	<img alt="forks" src="https://img.shields.io/github/forks/yoeelingBin/CVE-2022-0847-Container-Escape">	<img alt="stars" src="https://img.shields.io/github/stars/yoeelingBin/CVE-2022-0847-Container-Escape">
 - [irwx777/CVE-2022-0847](https://github.com/irwx777/CVE-2022-0847)	<img alt="forks" src="https://img.shields.io/github/forks/irwx777/CVE-2022-0847">	<img alt="stars" src="https://img.shields.io/github/stars/irwx777/CVE-2022-0847">
+- [Gustavo-Nogueira/Dirty-Pipe-Exploits](https://github.com/Gustavo-Nogueira/Dirty-Pipe-Exploits)	<img alt="forks" src="https://img.shields.io/github/forks/Gustavo-Nogueira/Dirty-Pipe-Exploits">	<img alt="stars" src="https://img.shields.io/github/stars/Gustavo-Nogueira/Dirty-Pipe-Exploits">
+- [notl0cal/dpipe](https://github.com/notl0cal/dpipe)	<img alt="forks" src="https://img.shields.io/github/forks/notl0cal/dpipe">	<img alt="stars" src="https://img.shields.io/github/stars/notl0cal/dpipe">
+- [jpts/CVE-2022-0847-DirtyPipe-Container-Breakout](https://github.com/jpts/CVE-2022-0847-DirtyPipe-Container-Breakout)	<img alt="forks" src="https://img.shields.io/github/forks/jpts/CVE-2022-0847-DirtyPipe-Container-Breakout">	<img alt="stars" src="https://img.shields.io/github/stars/jpts/CVE-2022-0847-DirtyPipe-Container-Breakout">
 
 ---
 ## CVE-2022-0666 (2022-02-18T15:15:00)
