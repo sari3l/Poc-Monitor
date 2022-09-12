@@ -623,6 +623,7 @@
 - [Josexv1/CVE-2022-27925](https://github.com/Josexv1/CVE-2022-27925)	<img alt="forks" src="https://img.shields.io/github/forks/Josexv1/CVE-2022-27925">	<img alt="stars" src="https://img.shields.io/github/stars/Josexv1/CVE-2022-27925">
 - [Chocapikk/CVE-2022-27925-Revshell](https://github.com/Chocapikk/CVE-2022-27925-Revshell)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2022-27925-Revshell">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2022-27925-Revshell">
 - [Anonymous-ghost/AttackWebFrameworkTools-5.0](https://github.com/Anonymous-ghost/AttackWebFrameworkTools-5.0)	<img alt="forks" src="https://img.shields.io/github/forks/Anonymous-ghost/AttackWebFrameworkTools-5.0">	<img alt="stars" src="https://img.shields.io/github/stars/Anonymous-ghost/AttackWebFrameworkTools-5.0">
+- [akincibor/CVE-2022-27925](https://github.com/akincibor/CVE-2022-27925)	<img alt="forks" src="https://img.shields.io/github/forks/akincibor/CVE-2022-27925">	<img alt="stars" src="https://img.shields.io/github/stars/akincibor/CVE-2022-27925">
 
 ---
 ## CVE-2022-27438 (2022-06-06T23:15:00)
