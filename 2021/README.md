@@ -114,6 +114,13 @@
 - [docfate111/CVE-2021-42327](https://github.com/docfate111/CVE-2021-42327)	<img alt="forks" src="https://img.shields.io/github/forks/docfate111/CVE-2021-42327">	<img alt="stars" src="https://img.shields.io/github/stars/docfate111/CVE-2021-42327">
 
 ---
+## CVE-2021-42321 (2021-11-10T01:19:00)
+> Microsoft Exchange Server Remote Code Execution Vulnerability
+- [xnyuq/cve-2021-42321](https://github.com/xnyuq/cve-2021-42321)	<img alt="forks" src="https://img.shields.io/github/forks/xnyuq/cve-2021-42321">	<img alt="stars" src="https://img.shields.io/github/stars/xnyuq/cve-2021-42321">
+- [timb-machine-mirrors/CVE-2021-42321_poc](https://github.com/timb-machine-mirrors/CVE-2021-42321_poc)	<img alt="forks" src="https://img.shields.io/github/forks/timb-machine-mirrors/CVE-2021-42321_poc">	<img alt="stars" src="https://img.shields.io/github/stars/timb-machine-mirrors/CVE-2021-42321_poc">
+- [DarkSprings/CVE-2021-42321](https://github.com/DarkSprings/CVE-2021-42321)	<img alt="forks" src="https://img.shields.io/github/forks/DarkSprings/CVE-2021-42321">	<img alt="stars" src="https://img.shields.io/github/stars/DarkSprings/CVE-2021-42321">
+
+---
 ## CVE-2021-42237 (2021-11-05T10:15:00)
 > Sitecore XP 7.5 Initial Release to Sitecore XP 8.2 Update-7 is vulnerable to an insecure deserialization attack where it is possible to achieve remote command execution on the machine. No authentication or special configuration is required to exploit this vulnerability.
 - [vesperp/CVE-2021-42237-SiteCore-XP](https://github.com/vesperp/CVE-2021-42237-SiteCore-XP)	<img alt="forks" src="https://img.shields.io/github/forks/vesperp/CVE-2021-42237-SiteCore-XP">	<img alt="stars" src="https://img.shields.io/github/stars/vesperp/CVE-2021-42237-SiteCore-XP">
