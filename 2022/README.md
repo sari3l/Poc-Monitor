@@ -240,6 +240,7 @@
 ## CVE-2022-32548 (2022-08-29T06:15:00)
 > An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1. /cgi-bin/wlogin.cgi has a buffer overflow via the username or password to the aa or ab field.
 - [Expl0desploit/CVE-2022-32548](https://github.com/Expl0desploit/CVE-2022-32548)	<img alt="forks" src="https://img.shields.io/github/forks/Expl0desploit/CVE-2022-32548">	<img alt="stars" src="https://img.shields.io/github/stars/Expl0desploit/CVE-2022-32548">
+- [rftg1000/CVE-2022-32548-RCE-POC](https://github.com/rftg1000/CVE-2022-32548-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/rftg1000/CVE-2022-32548-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/rftg1000/CVE-2022-32548-RCE-POC">
 
 ---
 ## CVE-2022-32532 (2022-06-29T00:15:00)
