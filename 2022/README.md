@@ -484,6 +484,9 @@
 ## CVE-2022-30075 (2022-06-09T04:15:00)
 > In TP-Link Router AX50 firmware 210730 and older, import of a malicious backup file via web interface can lead to remote code execution due to improper validation.
 - [aaronsvk/CVE-2022-30075](https://github.com/aaronsvk/CVE-2022-30075)	<img alt="forks" src="https://img.shields.io/github/forks/aaronsvk/CVE-2022-30075">	<img alt="stars" src="https://img.shields.io/github/stars/aaronsvk/CVE-2022-30075">
+- [M4fiaB0y/CVE-2022-30075](https://github.com/M4fiaB0y/CVE-2022-30075)	<img alt="forks" src="https://img.shields.io/github/forks/M4fiaB0y/CVE-2022-30075">	<img alt="stars" src="https://img.shields.io/github/stars/M4fiaB0y/CVE-2022-30075">
+- [trhacknon/CVE-2022-30075](https://github.com/trhacknon/CVE-2022-30075)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-30075">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-30075">
+- [SAJIDAMINE/CVE-2022-30075](https://github.com/SAJIDAMINE/CVE-2022-30075)	<img alt="forks" src="https://img.shields.io/github/forks/SAJIDAMINE/CVE-2022-30075">	<img alt="stars" src="https://img.shields.io/github/stars/SAJIDAMINE/CVE-2022-30075">
 
 ---
 ## CVE-2022-30023 (2022-06-16T15:15:00)
@@ -1118,6 +1121,11 @@
 ## CVE-2022-20360 (2022-08-10T20:15:00)
 > In setChecked of SecureNfcPreferenceController.java, there is a missing permission check. This could lead to local escalation of privilege from the guest user with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12LAndroid ID: A-228314987
 - [nidhi7598/packages_apps_Settings_AOSP_10_r33_CVE-2022-20360](https://github.com/nidhi7598/packages_apps_Settings_AOSP_10_r33_CVE-2022-20360)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/packages_apps_Settings_AOSP_10_r33_CVE-2022-20360">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/packages_apps_Settings_AOSP_10_r33_CVE-2022-20360">
+
+---
+## CVE-2022-20344 (2022-08-10T20:15:00)
+> In stealReceiveChannel of EventThread.cpp, there is a possible way to interfere with process communication due to a race condition. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12LAndroid ID: A-232541124
+- [nidhi7598/frameworks_native_AOSP_10_r33_CVE-2022-20344](https://github.com/nidhi7598/frameworks_native_AOSP_10_r33_CVE-2022-20344)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_native_AOSP_10_r33_CVE-2022-20344">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_native_AOSP_10_r33_CVE-2022-20344">
 
 ---
 ## CVE-2022-20229 (2022-07-13T19:15:00)
