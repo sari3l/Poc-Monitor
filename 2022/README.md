@@ -122,6 +122,11 @@
 - [AngeloPioAmirante/CVE-2022-35899](https://github.com/AngeloPioAmirante/CVE-2022-35899)	<img alt="forks" src="https://img.shields.io/github/forks/AngeloPioAmirante/CVE-2022-35899">	<img alt="stars" src="https://img.shields.io/github/stars/AngeloPioAmirante/CVE-2022-35899">
 
 ---
+## CVE-2022-35841 ()
+> 
+- [Wack0/CVE-2022-35841](https://github.com/Wack0/CVE-2022-35841)	<img alt="forks" src="https://img.shields.io/github/forks/Wack0/CVE-2022-35841">	<img alt="stars" src="https://img.shields.io/github/stars/Wack0/CVE-2022-35841">
+
+---
 ## CVE-2022-35513 (2022-09-07T14:15:00)
 > The Blink1Control2 application <= 2.2.7 uses weak password encryption and an insecure method of storage.
 - [p1ckzi/CVE-2022-35513](https://github.com/p1ckzi/CVE-2022-35513)	<img alt="forks" src="https://img.shields.io/github/forks/p1ckzi/CVE-2022-35513">	<img alt="stars" src="https://img.shields.io/github/stars/p1ckzi/CVE-2022-35513">
