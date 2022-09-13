@@ -172,6 +172,11 @@
 - [veritas501/CVE-2022-34918](https://github.com/veritas501/CVE-2022-34918)	<img alt="forks" src="https://img.shields.io/github/forks/veritas501/CVE-2022-34918">	<img alt="stars" src="https://img.shields.io/github/stars/veritas501/CVE-2022-34918">
 
 ---
+## CVE-2022-34715 (2022-08-09T20:15:00)
+> Windows Network File System Remote Code Execution Vulnerability.
+- [Starssgo/CVE-2022-34715-POC](https://github.com/Starssgo/CVE-2022-34715-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Starssgo/CVE-2022-34715-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Starssgo/CVE-2022-34715-POC">
+
+---
 ## CVE-2022-3452 ()
 > 
 - [kenyon-wong/cve-2022-3452](https://github.com/kenyon-wong/cve-2022-3452)	<img alt="forks" src="https://img.shields.io/github/forks/kenyon-wong/cve-2022-3452">	<img alt="stars" src="https://img.shields.io/github/stars/kenyon-wong/cve-2022-3452">
