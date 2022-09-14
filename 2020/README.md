@@ -24,6 +24,16 @@
 - [s3rgeym/cve-2020-9006](https://github.com/s3rgeym/cve-2020-9006)	<img alt="forks" src="https://img.shields.io/github/forks/s3rgeym/cve-2020-9006">	<img alt="stars" src="https://img.shields.io/github/stars/s3rgeym/cve-2020-9006">
 
 ---
+## CVE-2020-8515 (2020-02-01T13:15:00)
+> DrayTek Vigor2960 1.3.1_Beta, Vigor3900 1.4.4_Beta, and Vigor300B 1.3.3_Beta, 1.4.2.1_Beta, and 1.4.4_Beta devices allow remote code execution as root (without authentication) via shell metacharacters to the cgi-bin/mainfunction.cgi URI. This issue has been fixed in Vigor3900/2960/300B v1.5.1.
+- [trhacknon/CVE-2020-8515-PoC](https://github.com/trhacknon/CVE-2020-8515-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2020-8515-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2020-8515-PoC">
+- [trhacknon/CVE-2020-8515](https://github.com/trhacknon/CVE-2020-8515)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2020-8515">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2020-8515">
+- [gobysec/GobyVuls](https://github.com/gobysec/GobyVuls)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/GobyVuls">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/GobyVuls">
+- [darrenmartyn/CVE-2020-8515](https://github.com/darrenmartyn/CVE-2020-8515)	<img alt="forks" src="https://img.shields.io/github/forks/darrenmartyn/CVE-2020-8515">	<img alt="stars" src="https://img.shields.io/github/stars/darrenmartyn/CVE-2020-8515">
+- [truerandom/nmap_draytek_rce](https://github.com/truerandom/nmap_draytek_rce)	<img alt="forks" src="https://img.shields.io/github/forks/truerandom/nmap_draytek_rce">	<img alt="stars" src="https://img.shields.io/github/stars/truerandom/nmap_draytek_rce">
+- [imjdl/CVE-2020-8515-PoC](https://github.com/imjdl/CVE-2020-8515-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/imjdl/CVE-2020-8515-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/imjdl/CVE-2020-8515-PoC">
+
+---
 ## CVE-2020-8512 (2020-02-01T00:15:00)
 > In IceWarp Webmail Server through 11.4.4.1, there is XSS in the /webmail/ color parameter.
 - [trhacknon/CVE-2020-8512](https://github.com/trhacknon/CVE-2020-8512)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2020-8512">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2020-8512">
