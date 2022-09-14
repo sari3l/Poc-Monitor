@@ -821,6 +821,11 @@
 - [Expl0desploit/CVE-2022-25845](https://github.com/Expl0desploit/CVE-2022-25845)	<img alt="forks" src="https://img.shields.io/github/forks/Expl0desploit/CVE-2022-25845">	<img alt="stars" src="https://img.shields.io/github/stars/Expl0desploit/CVE-2022-25845">
 
 ---
+## CVE-2022-2546 ()
+> 
+- [0xvinix/CVE-2022-2546](https://github.com/0xvinix/CVE-2022-2546)	<img alt="forks" src="https://img.shields.io/github/forks/0xvinix/CVE-2022-2546">	<img alt="stars" src="https://img.shields.io/github/stars/0xvinix/CVE-2022-2546">
+
+---
 ## CVE-2022-25262 (2022-02-25T20:15:00)
 > In JetBrains Hub before 2022.1.14434, SAML request takeover was possible.
 - [yuriisanin/CVE-2022-25262](https://github.com/yuriisanin/CVE-2022-25262)	<img alt="forks" src="https://img.shields.io/github/forks/yuriisanin/CVE-2022-25262">	<img alt="stars" src="https://img.shields.io/github/stars/yuriisanin/CVE-2022-25262">
