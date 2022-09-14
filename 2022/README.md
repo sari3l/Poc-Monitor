@@ -36,8 +36,8 @@
 - [MaherAzzouzi/CVE-2022-37706-LPE-exploit](https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/MaherAzzouzi/CVE-2022-37706-LPE-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/MaherAzzouzi/CVE-2022-37706-LPE-exploit">
 
 ---
-## CVE-2022-37703 ()
-> 
+## CVE-2022-37703 (2022-09-13T20:15:00)
+> In Amanda 3.5.1, an information leak vulnerability was found in the calcsize SUID binary. An attacker can abuse this vulnerability to know if a directory exists or not anywhere in the fs. The binary will use `opendir()` as root directly without checking the path, letting the attacker provide an arbitrary path.
 - [MaherAzzouzi/CVE-2022-37703](https://github.com/MaherAzzouzi/CVE-2022-37703)	<img alt="forks" src="https://img.shields.io/github/forks/MaherAzzouzi/CVE-2022-37703">	<img alt="stars" src="https://img.shields.io/github/stars/MaherAzzouzi/CVE-2022-37703">
 
 ---
