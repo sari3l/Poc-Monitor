@@ -91,8 +91,8 @@
 - [AgainstTheLight/CVE-2022-37202](https://github.com/AgainstTheLight/CVE-2022-37202)	<img alt="forks" src="https://img.shields.io/github/forks/AgainstTheLight/CVE-2022-37202">	<img alt="stars" src="https://img.shields.io/github/stars/AgainstTheLight/CVE-2022-37202">
 
 ---
-## CVE-2022-37201 ()
-> 
+## CVE-2022-37201 (2022-09-15T16:15:00)
+> JFinal CMS 5.1.0 is vulnerable to SQL Injection.
 - [AgainstTheLight/CVE-2022-37201](https://github.com/AgainstTheLight/CVE-2022-37201)	<img alt="forks" src="https://img.shields.io/github/forks/AgainstTheLight/CVE-2022-37201">	<img alt="stars" src="https://img.shields.io/github/stars/AgainstTheLight/CVE-2022-37201">
 
 ---
