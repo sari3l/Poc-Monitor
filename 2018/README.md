@@ -257,6 +257,11 @@
 - [RevoCain/CVE-2018-14699](https://github.com/RevoCain/CVE-2018-14699)	<img alt="forks" src="https://img.shields.io/github/forks/RevoCain/CVE-2018-14699">	<img alt="stars" src="https://img.shields.io/github/stars/RevoCain/CVE-2018-14699">
 
 ---
+## CVE-2018-14463 (2019-10-03T16:15:00)
+> The VRRP parser in tcpdump before 4.9.3 has a buffer over-read in print-vrrp.c:vrrp_print() for VRRP version 2, a different vulnerability than CVE-2019-15167.
+- [nidhi7598/external_tcpdump_AOSP_10_r33_CVE-2018-14463](https://github.com/nidhi7598/external_tcpdump_AOSP_10_r33_CVE-2018-14463)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/external_tcpdump_AOSP_10_r33_CVE-2018-14463">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/external_tcpdump_AOSP_10_r33_CVE-2018-14463">
+
+---
 ## CVE-2018-11321 (2018-05-22T15:29:00)
 > An issue was discovered in com_fields in Joomla! Core before 3.8.8. Inadequate filtering allows users authorised to create custom fields to manipulate the filtering options and inject an unvalidated option.
 - [ExploitCN/CVE-2018-11321](https://github.com/ExploitCN/CVE-2018-11321)	<img alt="forks" src="https://img.shields.io/github/forks/ExploitCN/CVE-2018-11321">	<img alt="stars" src="https://img.shields.io/github/stars/ExploitCN/CVE-2018-11321">
