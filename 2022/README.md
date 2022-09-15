@@ -313,6 +313,7 @@
 - [rftg1000/CVE-2022-32548-RCE-POC](https://github.com/rftg1000/CVE-2022-32548-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/rftg1000/CVE-2022-32548-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/rftg1000/CVE-2022-32548-RCE-POC">
 - [Administrative2022/CVE-2022-32548-RCE](https://github.com/Administrative2022/CVE-2022-32548-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Administrative2022/CVE-2022-32548-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Administrative2022/CVE-2022-32548-RCE">
 - [rftg1000/CVE-2022-32548-RCE](https://github.com/rftg1000/CVE-2022-32548-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/rftg1000/CVE-2022-32548-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/rftg1000/CVE-2022-32548-RCE">
+- [rftg1000/CVE-2022-32548-MASS-RCE](https://github.com/rftg1000/CVE-2022-32548-MASS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/rftg1000/CVE-2022-32548-MASS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/rftg1000/CVE-2022-32548-MASS-RCE">
 
 ---
 ## CVE-2022-32532 (2022-06-29T00:15:00)
