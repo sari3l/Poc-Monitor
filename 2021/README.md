@@ -162,6 +162,7 @@
 - [theykillmeslowly/CVE-2021-42013](https://github.com/theykillmeslowly/CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/theykillmeslowly/CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/theykillmeslowly/CVE-2021-42013">
 - [mightysai1997/cve-2021-42013](https://github.com/mightysai1997/cve-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/mightysai1997/cve-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/mightysai1997/cve-2021-42013">
 - [mightysai1997/cve-2021-42013L](https://github.com/mightysai1997/cve-2021-42013L)	<img alt="forks" src="https://img.shields.io/github/forks/mightysai1997/cve-2021-42013L">	<img alt="stars" src="https://img.shields.io/github/stars/mightysai1997/cve-2021-42013L">
+- [mightysai1997/cve-2021-42013.get](https://github.com/mightysai1997/cve-2021-42013.get)	<img alt="forks" src="https://img.shields.io/github/forks/mightysai1997/cve-2021-42013.get">	<img alt="stars" src="https://img.shields.io/github/stars/mightysai1997/cve-2021-42013.get">
 
 ---
 ## CVE-2021-41946 (2022-05-18T11:15:00)
