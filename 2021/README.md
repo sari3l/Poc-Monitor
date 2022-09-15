@@ -203,6 +203,8 @@
 - [creadpag/CVE-2021-41773-POC](https://github.com/creadpag/CVE-2021-41773-POC)	<img alt="forks" src="https://img.shields.io/github/forks/creadpag/CVE-2021-41773-POC">	<img alt="stars" src="https://img.shields.io/github/stars/creadpag/CVE-2021-41773-POC">
 - [mightysai1997/CVE-2021-41773h](https://github.com/mightysai1997/CVE-2021-41773h)	<img alt="forks" src="https://img.shields.io/github/forks/mightysai1997/CVE-2021-41773h">	<img alt="stars" src="https://img.shields.io/github/stars/mightysai1997/CVE-2021-41773h">
 - [mightysai1997/cve-2021-41773](https://github.com/mightysai1997/cve-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/mightysai1997/cve-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/mightysai1997/cve-2021-41773">
+- [mightysai1997/CVE-2021-41773-i-](https://github.com/mightysai1997/CVE-2021-41773-i-)	<img alt="forks" src="https://img.shields.io/github/forks/mightysai1997/CVE-2021-41773-i-">	<img alt="stars" src="https://img.shields.io/github/stars/mightysai1997/CVE-2021-41773-i-">
+- [mightysai1997/cve-2021-41773-v-](https://github.com/mightysai1997/cve-2021-41773-v-)	<img alt="forks" src="https://img.shields.io/github/forks/mightysai1997/cve-2021-41773-v-">	<img alt="stars" src="https://img.shields.io/github/stars/mightysai1997/cve-2021-41773-v-">
 
 ---
 ## CVE-2021-41652 (2022-03-01T23:15:00)

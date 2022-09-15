@@ -51,6 +51,26 @@
 - [nidhi7598/external_zlib-1.2.11_AOSP_10_r33_CVE-2022-37434](https://github.com/nidhi7598/external_zlib-1.2.11_AOSP_10_r33_CVE-2022-37434)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/external_zlib-1.2.11_AOSP_10_r33_CVE-2022-37434">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/external_zlib-1.2.11_AOSP_10_r33_CVE-2022-37434">
 
 ---
+## CVE-2022-37206 ()
+> 
+- [AgainstTheLight/CVE-2022-37206](https://github.com/AgainstTheLight/CVE-2022-37206)	<img alt="forks" src="https://img.shields.io/github/forks/AgainstTheLight/CVE-2022-37206">	<img alt="stars" src="https://img.shields.io/github/stars/AgainstTheLight/CVE-2022-37206">
+
+---
+## CVE-2022-37205 ()
+> 
+- [AgainstTheLight/CVE-2022-37205](https://github.com/AgainstTheLight/CVE-2022-37205)	<img alt="forks" src="https://img.shields.io/github/forks/AgainstTheLight/CVE-2022-37205">	<img alt="stars" src="https://img.shields.io/github/stars/AgainstTheLight/CVE-2022-37205">
+
+---
+## CVE-2022-37204 ()
+> 
+- [AgainstTheLight/CVE-2022-37204](https://github.com/AgainstTheLight/CVE-2022-37204)	<img alt="forks" src="https://img.shields.io/github/forks/AgainstTheLight/CVE-2022-37204">	<img alt="stars" src="https://img.shields.io/github/stars/AgainstTheLight/CVE-2022-37204">
+
+---
+## CVE-2022-37203 ()
+> 
+- [AgainstTheLight/CVE-2022-37203](https://github.com/AgainstTheLight/CVE-2022-37203)	<img alt="forks" src="https://img.shields.io/github/forks/AgainstTheLight/CVE-2022-37203">	<img alt="stars" src="https://img.shields.io/github/stars/AgainstTheLight/CVE-2022-37203">
+
+---
 ## CVE-2022-37202 ()
 > 
 - [AgainstTheLight/CVE-2022-37202](https://github.com/AgainstTheLight/CVE-2022-37202)	<img alt="forks" src="https://img.shields.io/github/forks/AgainstTheLight/CVE-2022-37202">	<img alt="stars" src="https://img.shields.io/github/stars/AgainstTheLight/CVE-2022-37202">
