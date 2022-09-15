@@ -26,8 +26,8 @@
 - [DayiliWaseem/CVE-2022-39196-](https://github.com/DayiliWaseem/CVE-2022-39196-)	<img alt="forks" src="https://img.shields.io/github/forks/DayiliWaseem/CVE-2022-39196-">	<img alt="stars" src="https://img.shields.io/github/stars/DayiliWaseem/CVE-2022-39196-">
 
 ---
-## CVE-2022-38789 ()
-> 
+## CVE-2022-38789 (2022-09-15T12:15:00)
+> An issue was discovered in Airties Smart Wi-Fi before 2020-08-04. It allows attackers to change the main/guest SSID and the PSK to arbitrary values, and map the LAN, because of Insecure Direct Object Reference.
 - [ProxyStaffy/Airties-CVE-2022-38789](https://github.com/ProxyStaffy/Airties-CVE-2022-38789)	<img alt="forks" src="https://img.shields.io/github/forks/ProxyStaffy/Airties-CVE-2022-38789">	<img alt="stars" src="https://img.shields.io/github/stars/ProxyStaffy/Airties-CVE-2022-38789">
 
 ---
