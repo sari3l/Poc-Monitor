@@ -16,6 +16,11 @@
 - [izdiwho/CVE-2022-40317](https://github.com/izdiwho/CVE-2022-40317)	<img alt="forks" src="https://img.shields.io/github/forks/izdiwho/CVE-2022-40317">	<img alt="stars" src="https://img.shields.io/github/stars/izdiwho/CVE-2022-40317">
 
 ---
+## CVE-2022-39841 ()
+> 
+- [stealthcopter/CVE-2022-39841](https://github.com/stealthcopter/CVE-2022-39841)	<img alt="forks" src="https://img.shields.io/github/forks/stealthcopter/CVE-2022-39841">	<img alt="stars" src="https://img.shields.io/github/stars/stealthcopter/CVE-2022-39841">
+
+---
 ## CVE-2022-39838 (2022-09-05T16:15:00)
 > Systematic FIX Adapter (ALFAFX) 2.4.0.25 13/09/2017 allows remote file inclusion via a UNC share pathname, and also allows absolute path traversal to local pathnames.
 - [jet-pentest/CVE-2022-39838](https://github.com/jet-pentest/CVE-2022-39838)	<img alt="forks" src="https://img.shields.io/github/forks/jet-pentest/CVE-2022-39838">	<img alt="stars" src="https://img.shields.io/github/stars/jet-pentest/CVE-2022-39838">
