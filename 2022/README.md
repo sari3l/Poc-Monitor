@@ -61,8 +61,8 @@
 - [AgainstTheLight/CVE-2022-37208](https://github.com/AgainstTheLight/CVE-2022-37208)	<img alt="forks" src="https://img.shields.io/github/forks/AgainstTheLight/CVE-2022-37208">	<img alt="stars" src="https://img.shields.io/github/stars/AgainstTheLight/CVE-2022-37208">
 
 ---
-## CVE-2022-37207 ()
-> 
+## CVE-2022-37207 (2022-09-15T15:15:00)
+> JFinal CMS 5.1.0 is affected by: SQL Injection. These interfaces do not use the same component, nor do they have filters, but each uses its own SQL concatenation method, resulting in SQL injection
 - [AgainstTheLight/CVE-2022-37207](https://github.com/AgainstTheLight/CVE-2022-37207)	<img alt="forks" src="https://img.shields.io/github/forks/AgainstTheLight/CVE-2022-37207">	<img alt="stars" src="https://img.shields.io/github/stars/AgainstTheLight/CVE-2022-37207">
 
 ---
@@ -933,6 +933,11 @@
 > Windows SMB Remote Code Execution Vulnerability.
 - [Daro1967/CVE-2022-24500-RCE](https://github.com/Daro1967/CVE-2022-24500-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Daro1967/CVE-2022-24500-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Daro1967/CVE-2022-24500-RCE">
 - [Daro1967/CVE-2022-24500-MASS-RCE](https://github.com/Daro1967/CVE-2022-24500-MASS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Daro1967/CVE-2022-24500-MASS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Daro1967/CVE-2022-24500-MASS-RCE">
+
+---
+## CVE-2022-24497 (2022-04-15T19:15:00)
+> Windows Network File System Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-24491.
+- [corelight/CVE-2022-24497](https://github.com/corelight/CVE-2022-24497)	<img alt="forks" src="https://img.shields.io/github/forks/corelight/CVE-2022-24497">	<img alt="stars" src="https://img.shields.io/github/stars/corelight/CVE-2022-24497">
 
 ---
 ## CVE-2022-24342 (2022-02-25T15:15:00)
