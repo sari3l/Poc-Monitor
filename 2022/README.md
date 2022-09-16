@@ -997,6 +997,12 @@
 - [fbusr/CVE-2022-23779](https://github.com/fbusr/CVE-2022-23779)	<img alt="forks" src="https://img.shields.io/github/forks/fbusr/CVE-2022-23779">	<img alt="stars" src="https://img.shields.io/github/stars/fbusr/CVE-2022-23779">
 
 ---
+## CVE-2022-23773 (2022-02-11T01:15:00)
+> cmd/go in Go before 1.16.14 and 1.17.x before 1.17.7 can misinterpret branch names that falsely appear to be version tags. This can lead to incorrect access control if an actor is supposed to be able to create branches but not tags.
+- [danbudris/CVE-2022-23773-repro-target](https://github.com/danbudris/CVE-2022-23773-repro-target)	<img alt="forks" src="https://img.shields.io/github/forks/danbudris/CVE-2022-23773-repro-target">	<img alt="stars" src="https://img.shields.io/github/stars/danbudris/CVE-2022-23773-repro-target">
+- [danbudris/CVE-2022-23773-repro](https://github.com/danbudris/CVE-2022-23773-repro)	<img alt="forks" src="https://img.shields.io/github/forks/danbudris/CVE-2022-23773-repro">	<img alt="stars" src="https://img.shields.io/github/stars/danbudris/CVE-2022-23773-repro">
+
+---
 ## CVE-2022-23614 (2022-02-04T23:15:00)
 > Twig is an open source template language for PHP. When in a sandbox mode, the `arrow` parameter of the `sort` filter must be a closure to avoid attackers being able to run arbitrary PHP functions. In affected versions this constraint was not properly enforced and could lead to code injection of arbitrary PHP code. Patched versions now disallow calling non Closure in the `sort` filter as is the case for some other filters. Users are advised to upgrade.
 - [davwwwx/CVE-2022-23614](https://github.com/davwwwx/CVE-2022-23614)	<img alt="forks" src="https://img.shields.io/github/forks/davwwwx/CVE-2022-23614">	<img alt="stars" src="https://img.shields.io/github/stars/davwwwx/CVE-2022-23614">
