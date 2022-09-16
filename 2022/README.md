@@ -151,6 +151,7 @@
 - [cryptolakk/CVE-2022-36804-RCE](https://github.com/cryptolakk/CVE-2022-36804-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/cryptolakk/CVE-2022-36804-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/cryptolakk/CVE-2022-36804-RCE">
 - [CEOrbey/CVE-2022-36804-POC](https://github.com/CEOrbey/CVE-2022-36804-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CEOrbey/CVE-2022-36804-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CEOrbey/CVE-2022-36804-POC">
 - [CEOrbey/CVE-2022-36804-MASS-RCE](https://github.com/CEOrbey/CVE-2022-36804-MASS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/CEOrbey/CVE-2022-36804-MASS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/CEOrbey/CVE-2022-36804-MASS-RCE">
+- [CEOrbey/CVE-2022-36804-RCE](https://github.com/CEOrbey/CVE-2022-36804-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/CEOrbey/CVE-2022-36804-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/CEOrbey/CVE-2022-36804-RCE">
 
 ---
 ## CVE-2022-36539 (2022-09-07T17:15:00)
