@@ -263,6 +263,11 @@
 - [nisdn/CVE-2021-40978](https://github.com/nisdn/CVE-2021-40978)	<img alt="forks" src="https://img.shields.io/github/forks/nisdn/CVE-2021-40978">	<img alt="stars" src="https://img.shields.io/github/stars/nisdn/CVE-2021-40978">
 
 ---
+## CVE-2021-40904 (2022-03-25T23:15:00)
+> The web management console of CheckMK Raw Edition (versions 1.5.0 to 1.6.0) allows a misconfiguration of the web-app Dokuwiki (installed by default), which allows embedded php code. As a result, remote code execution is achieved. Successful exploitation requires access to the web management interface, either with valid credentials or with a hijacked session by a user with the role of administrator.
+- [Edgarloyola/CVE-2021-40904](https://github.com/Edgarloyola/CVE-2021-40904)	<img alt="forks" src="https://img.shields.io/github/forks/Edgarloyola/CVE-2021-40904">	<img alt="stars" src="https://img.shields.io/github/stars/Edgarloyola/CVE-2021-40904">
+
+---
 ## CVE-2021-40903 (2022-06-17T14:15:00)
 > A vulnerability in Antminer Monitor 0.50.0 exists because of backdoor or misconfiguration inside a settings file in flask server. Settings file has a predefined secret string, which would be randomly generated, however it is static.
 - [vulnz/CVE-2021-40903](https://github.com/vulnz/CVE-2021-40903)	<img alt="forks" src="https://img.shields.io/github/forks/vulnz/CVE-2021-40903">	<img alt="stars" src="https://img.shields.io/github/stars/vulnz/CVE-2021-40903">
@@ -446,6 +451,11 @@
 - [Sma11New/PocList](https://github.com/Sma11New/PocList)	<img alt="forks" src="https://img.shields.io/github/forks/Sma11New/PocList">	<img alt="stars" src="https://img.shields.io/github/stars/Sma11New/PocList">
 - [zwlsix/apache_druid_CVE-2021-36749](https://github.com/zwlsix/apache_druid_CVE-2021-36749)	<img alt="forks" src="https://img.shields.io/github/forks/zwlsix/apache_druid_CVE-2021-36749">	<img alt="stars" src="https://img.shields.io/github/stars/zwlsix/apache_druid_CVE-2021-36749">
 - [BrucessKING/CVE-2021-36749](https://github.com/BrucessKING/CVE-2021-36749)	<img alt="forks" src="https://img.shields.io/github/forks/BrucessKING/CVE-2021-36749">	<img alt="stars" src="https://img.shields.io/github/stars/BrucessKING/CVE-2021-36749">
+
+---
+## CVE-2021-36563 (2021-07-26T18:15:00)
+> The CheckMK management web console (versions 1.5.0 to 2.0.0) does not sanitise user input in various parameters of the WATO module. This allows an attacker to open a backdoor on the device with HTML content and interpreted by the browser (such as JavaScript or other client-side scripts), the XSS payload will be triggered when the user accesses some specific sections of the application. In the same sense a very dangerous potential way would be when an attacker who has the monitor role (not administrator) manages to get a stored XSS to steal the secretAutomation (for the use of the API in administrator mode) and thus be able to create another administrator user who has high privileges on the CheckMK monitoring web console. Another way is that persistent XSS allows an attacker to modify the displayed content or change the victim's information. Successful exploitation requires access to the web management interface, either with valid credentials or with a hijacked session.
+- [Edgarloyola/CVE-2021-36563](https://github.com/Edgarloyola/CVE-2021-36563)	<img alt="forks" src="https://img.shields.io/github/forks/Edgarloyola/CVE-2021-36563">	<img alt="stars" src="https://img.shields.io/github/stars/Edgarloyola/CVE-2021-36563">
 
 ---
 ## CVE-2021-36260 (2021-09-22T13:15:00)
