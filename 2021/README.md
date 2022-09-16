@@ -66,6 +66,7 @@
 - [LarityRay/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve](https://github.com/LarityRay/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve)	<img alt="forks" src="https://img.shields.io/github/forks/LarityRay/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve">	<img alt="stars" src="https://img.shields.io/github/stars/LarityRay/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve">
 - [mazhar-hassan/log4j-vulnerability](https://github.com/mazhar-hassan/log4j-vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/mazhar-hassan/log4j-vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/mazhar-hassan/log4j-vulnerability">
 - [digital-dev/Log4j-CVE-2021-44228-Remediation](https://github.com/digital-dev/Log4j-CVE-2021-44228-Remediation)	<img alt="forks" src="https://img.shields.io/github/forks/digital-dev/Log4j-CVE-2021-44228-Remediation">	<img alt="stars" src="https://img.shields.io/github/stars/digital-dev/Log4j-CVE-2021-44228-Remediation">
+- [Administrative2022/CVE-2021-44228-RCE](https://github.com/Administrative2022/CVE-2021-44228-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Administrative2022/CVE-2021-44228-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Administrative2022/CVE-2021-44228-RCE">
 
 ---
 ## CVE-2021-44158 (2022-01-03T10:15:00)
