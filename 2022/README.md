@@ -253,6 +253,11 @@
 - [Pwnrin/CVE-2022-34729](https://github.com/Pwnrin/CVE-2022-34729)	<img alt="forks" src="https://img.shields.io/github/forks/Pwnrin/CVE-2022-34729">	<img alt="stars" src="https://img.shields.io/github/stars/Pwnrin/CVE-2022-34729">
 
 ---
+## CVE-2022-34718 (2022-09-13T19:15:00)
+> Windows TCP/IP Remote Code Execution Vulnerability.
+- [Administrative2022/CVE-2022-34718-RCE-POC](https://github.com/Administrative2022/CVE-2022-34718-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Administrative2022/CVE-2022-34718-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Administrative2022/CVE-2022-34718-RCE-POC">
+
+---
 ## CVE-2022-34715 (2022-08-09T20:15:00)
 > Windows Network File System Remote Code Execution Vulnerability.
 - [Starssgo/CVE-2022-34715-POC](https://github.com/Starssgo/CVE-2022-34715-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Starssgo/CVE-2022-34715-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Starssgo/CVE-2022-34715-POC">
