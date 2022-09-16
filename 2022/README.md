@@ -1432,6 +1432,7 @@
 - [APTIRAN/CVE-2022-1040](https://github.com/APTIRAN/CVE-2022-1040)	<img alt="forks" src="https://img.shields.io/github/forks/APTIRAN/CVE-2022-1040">	<img alt="stars" src="https://img.shields.io/github/stars/APTIRAN/CVE-2022-1040">
 - [XmasSnowISBACK/CVE-2022-1040](https://github.com/XmasSnowISBACK/CVE-2022-1040)	<img alt="forks" src="https://img.shields.io/github/forks/XmasSnowISBACK/CVE-2022-1040">	<img alt="stars" src="https://img.shields.io/github/stars/XmasSnowISBACK/CVE-2022-1040">
 - [killvxk/CVE-2022-1040](https://github.com/killvxk/CVE-2022-1040)	<img alt="forks" src="https://img.shields.io/github/forks/killvxk/CVE-2022-1040">	<img alt="stars" src="https://img.shields.io/github/stars/killvxk/CVE-2022-1040">
+- [Administrative2022/CVE-2022-1040](https://github.com/Administrative2022/CVE-2022-1040)	<img alt="forks" src="https://img.shields.io/github/forks/Administrative2022/CVE-2022-1040">	<img alt="stars" src="https://img.shields.io/github/stars/Administrative2022/CVE-2022-1040">
 
 ---
 ## CVE-2022-0848 (2022-03-04T09:15:00)
