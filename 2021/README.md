@@ -402,6 +402,11 @@
 - [StefanDorresteijn/CVE-2021-39408](https://github.com/StefanDorresteijn/CVE-2021-39408)	<img alt="forks" src="https://img.shields.io/github/forks/StefanDorresteijn/CVE-2021-39408">	<img alt="stars" src="https://img.shields.io/github/stars/StefanDorresteijn/CVE-2021-39408">
 
 ---
+## CVE-2021-39172 (2021-08-27T23:15:00)
+> Cachet is an open source status page system. Prior to version 2.5.1, authenticated users, regardless of their privileges (User or Admin), can exploit a new line injection in the configuration edition feature (e.g. mail settings) and gain arbitrary code execution on the server. This issue was addressed in version 2.5.1 by improving `UpdateConfigCommandHandler` and preventing the use of new lines characters in new configuration values. As a workaround, only allow trusted source IP addresses to access to the administration dashboard.
+- [W1ngLess/CVE-2021-39172-RCE](https://github.com/W1ngLess/CVE-2021-39172-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/W1ngLess/CVE-2021-39172-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/W1ngLess/CVE-2021-39172-RCE">
+
+---
 ## CVE-2021-39165 (2021-08-26T21:15:00)
 > Cachet is an open source status page. With Cachet prior to and including 2.3.18, there is a SQL injection which is in the `SearchableTrait#scopeSearch()`. Attackers without authentication can utilize this vulnerability to exfiltrate sensitive data from the database such as administrator's password and session. The original repository of Cachet <https://github.com/CachetHQ/Cachet> is not active, the stable version 2.3.18 and it's developing 2.4 branch is affected.
 - [W0rty/CVE-2021-39165](https://github.com/W0rty/CVE-2021-39165)	<img alt="forks" src="https://img.shields.io/github/forks/W0rty/CVE-2021-39165">	<img alt="stars" src="https://img.shields.io/github/stars/W0rty/CVE-2021-39165">
