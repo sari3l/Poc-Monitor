@@ -898,6 +898,10 @@
 ## CVE-2022-2588 ()
 > 
 - [Markakd/CVE-2022-2588](https://github.com/Markakd/CVE-2022-2588)	<img alt="forks" src="https://img.shields.io/github/forks/Markakd/CVE-2022-2588">	<img alt="stars" src="https://img.shields.io/github/stars/Markakd/CVE-2022-2588">
+- [sang-chu/CVE-2022-2588](https://github.com/sang-chu/CVE-2022-2588)	<img alt="forks" src="https://img.shields.io/github/forks/sang-chu/CVE-2022-2588">	<img alt="stars" src="https://img.shields.io/github/stars/sang-chu/CVE-2022-2588">
+- [konoha279/2022-LPE-UAF](https://github.com/konoha279/2022-LPE-UAF)	<img alt="forks" src="https://img.shields.io/github/forks/konoha279/2022-LPE-UAF">	<img alt="stars" src="https://img.shields.io/github/stars/konoha279/2022-LPE-UAF">
+- [pirenga/2022-LPE-UAF](https://github.com/pirenga/2022-LPE-UAF)	<img alt="forks" src="https://img.shields.io/github/forks/pirenga/2022-LPE-UAF">	<img alt="stars" src="https://img.shields.io/github/stars/pirenga/2022-LPE-UAF">
+- [ASkyeye/2022-LPE-UAF](https://github.com/ASkyeye/2022-LPE-UAF)	<img alt="forks" src="https://img.shields.io/github/forks/ASkyeye/2022-LPE-UAF">	<img alt="stars" src="https://img.shields.io/github/stars/ASkyeye/2022-LPE-UAF">
 
 ---
 ## CVE-2022-2586 ()
