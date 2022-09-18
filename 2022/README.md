@@ -44,6 +44,7 @@
 ## CVE-2022-37706 ()
 > 
 - [MaherAzzouzi/CVE-2022-37706-LPE-exploit](https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/MaherAzzouzi/CVE-2022-37706-LPE-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/MaherAzzouzi/CVE-2022-37706-LPE-exploit">
+- [ECU-10525611-Xander/CVE-2022-37706](https://github.com/ECU-10525611-Xander/CVE-2022-37706)	<img alt="forks" src="https://img.shields.io/github/forks/ECU-10525611-Xander/CVE-2022-37706">	<img alt="stars" src="https://img.shields.io/github/stars/ECU-10525611-Xander/CVE-2022-37706">
 
 ---
 ## CVE-2022-37703 (2022-09-13T20:15:00)
