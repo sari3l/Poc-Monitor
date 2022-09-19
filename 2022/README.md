@@ -1549,6 +1549,7 @@
 - [Gustavo-Nogueira/Dirty-Pipe-Exploits](https://github.com/Gustavo-Nogueira/Dirty-Pipe-Exploits)	<img alt="forks" src="https://img.shields.io/github/forks/Gustavo-Nogueira/Dirty-Pipe-Exploits">	<img alt="stars" src="https://img.shields.io/github/stars/Gustavo-Nogueira/Dirty-Pipe-Exploits">
 - [notl0cal/dpipe](https://github.com/notl0cal/dpipe)	<img alt="forks" src="https://img.shields.io/github/forks/notl0cal/dpipe">	<img alt="stars" src="https://img.shields.io/github/stars/notl0cal/dpipe">
 - [jpts/CVE-2022-0847-DirtyPipe-Container-Breakout](https://github.com/jpts/CVE-2022-0847-DirtyPipe-Container-Breakout)	<img alt="forks" src="https://img.shields.io/github/forks/jpts/CVE-2022-0847-DirtyPipe-Container-Breakout">	<img alt="stars" src="https://img.shields.io/github/stars/jpts/CVE-2022-0847-DirtyPipe-Container-Breakout">
+- [trhacknon/CVE-2022-0847-DirtyPipe-Exploit](https://github.com/trhacknon/CVE-2022-0847-DirtyPipe-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-0847-DirtyPipe-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-0847-DirtyPipe-Exploit">
 
 ---
 ## CVE-2022-0666 (2022-02-18T15:15:00)
