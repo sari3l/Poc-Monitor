@@ -421,6 +421,11 @@
 - [irsl/CVE-2022-3168-adb-unexpected-reverse-forwards](https://github.com/irsl/CVE-2022-3168-adb-unexpected-reverse-forwards)	<img alt="forks" src="https://img.shields.io/github/forks/irsl/CVE-2022-3168-adb-unexpected-reverse-forwards">	<img alt="stars" src="https://img.shields.io/github/stars/irsl/CVE-2022-3168-adb-unexpected-reverse-forwards">
 
 ---
+## CVE-2022-31474 ()
+> 
+- [Administrative2022/CVE-2022-31474-wordpress](https://github.com/Administrative2022/CVE-2022-31474-wordpress)	<img alt="forks" src="https://img.shields.io/github/forks/Administrative2022/CVE-2022-31474-wordpress">	<img alt="stars" src="https://img.shields.io/github/stars/Administrative2022/CVE-2022-31474-wordpress">
+
+---
 ## CVE-2022-31301 (2022-06-16T18:15:00)
 > Haraj v3.7 was discovered to contain a stored cross-site scripting (XSS) vulnerability in the Post Ads component.
 - [bigzooooz/CVE-2022-31301](https://github.com/bigzooooz/CVE-2022-31301)	<img alt="forks" src="https://img.shields.io/github/forks/bigzooooz/CVE-2022-31301">	<img alt="stars" src="https://img.shields.io/github/stars/bigzooooz/CVE-2022-31301">
