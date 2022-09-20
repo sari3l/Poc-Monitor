@@ -1313,6 +1313,11 @@
 - [CiscoPSIRT/CVE-2022-20866](https://github.com/CiscoPSIRT/CVE-2022-20866)	<img alt="forks" src="https://img.shields.io/github/forks/CiscoPSIRT/CVE-2022-20866">	<img alt="stars" src="https://img.shields.io/github/stars/CiscoPSIRT/CVE-2022-20866">
 
 ---
+## CVE-2022-20841 (2022-08-10T08:15:00)
+> Multiple vulnerabilities in Cisco Small Business RV160, RV260, RV340, and RV345 Series Routers could allow an unauthenticated, remote attacker to execute arbitrary code or cause a denial of service (DoS) condition on an affected device. For more information about these vulnerabilities, see the Details section of this advisory.
+- [Expl0desploit/CVE-2022-20841](https://github.com/Expl0desploit/CVE-2022-20841)	<img alt="forks" src="https://img.shields.io/github/forks/Expl0desploit/CVE-2022-20841">	<img alt="stars" src="https://img.shields.io/github/stars/Expl0desploit/CVE-2022-20841">
+
+---
 ## CVE-2022-20361 (2022-08-10T20:15:00)
 > In btif_dm_auth_cmpl_evt of btif_dm.cc, there is a possible vulnerability in Cross-Transport Key Derivation due to Weakness in Bluetooth Standard. This could lead to remote escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12LAndroid ID: A-231161832
 - [nidhi7598/system_bt_AOSP_10_r33_CVE-2022-20361](https://github.com/nidhi7598/system_bt_AOSP_10_r33_CVE-2022-20361)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/system_bt_AOSP_10_r33_CVE-2022-20361">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/system_bt_AOSP_10_r33_CVE-2022-20361">
