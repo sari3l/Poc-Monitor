@@ -97,6 +97,7 @@
 - [theJuan1112/pentesterlab-cve-2018-6574](https://github.com/theJuan1112/pentesterlab-cve-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/theJuan1112/pentesterlab-cve-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/theJuan1112/pentesterlab-cve-2018-6574">
 - [markisback/CVE-2018-6574](https://github.com/markisback/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/markisback/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/markisback/CVE-2018-6574">
 - [hasharmujahid/CVE-2018-6574-go-get-RCE](https://github.com/hasharmujahid/CVE-2018-6574-go-get-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/hasharmujahid/CVE-2018-6574-go-get-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/hasharmujahid/CVE-2018-6574-go-get-RCE">
+- [EmaVirgRep/cve-2018-6574](https://github.com/EmaVirgRep/cve-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/EmaVirgRep/cve-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/EmaVirgRep/cve-2018-6574">
 
 ---
 ## CVE-2018-3990 (2019-02-05T23:29:00)
