@@ -339,13 +339,13 @@
 - [FedericoHeichou/CVE-2022-32988](https://github.com/FedericoHeichou/CVE-2022-32988)	<img alt="forks" src="https://img.shields.io/github/forks/FedericoHeichou/CVE-2022-32988">	<img alt="stars" src="https://img.shields.io/github/stars/FedericoHeichou/CVE-2022-32988">
 
 ---
-## CVE-2022-32917 ()
-> 
+## CVE-2022-32917 (2022-09-20T21:15:00)
+> The issue was addressed with improved bounds checks. This issue is fixed in macOS Monterey 12.6, iOS 15.7 and iPadOS 15.7, iOS 16, macOS Big Sur 11.7. An application may be able to execute arbitrary code with kernel privileges. Apple is aware of a report that this issue may have been actively exploited..
 - [Administrative2022/CVE-2022-32917-POC](https://github.com/Administrative2022/CVE-2022-32917-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Administrative2022/CVE-2022-32917-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Administrative2022/CVE-2022-32917-POC">
 
 ---
-## CVE-2022-32883 ()
-> 
+## CVE-2022-32883 (2022-09-20T21:15:00)
+> A logic issue was addressed with improved restrictions. This issue is fixed in macOS Monterey 12.6, iOS 15.7 and iPadOS 15.7, iOS 16, macOS Big Sur 11.7. An app may be able to read sensitive location information.
 - [breakpointHQ/CVE-2022-32883](https://github.com/breakpointHQ/CVE-2022-32883)	<img alt="forks" src="https://img.shields.io/github/forks/breakpointHQ/CVE-2022-32883">	<img alt="stars" src="https://img.shields.io/github/stars/breakpointHQ/CVE-2022-32883">
 
 ---
