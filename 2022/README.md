@@ -87,8 +87,8 @@
 - [AgainstTheLight/CVE-2022-37206](https://github.com/AgainstTheLight/CVE-2022-37206)	<img alt="forks" src="https://img.shields.io/github/forks/AgainstTheLight/CVE-2022-37206">	<img alt="stars" src="https://img.shields.io/github/stars/AgainstTheLight/CVE-2022-37206">
 
 ---
-## CVE-2022-37205 ()
-> 
+## CVE-2022-37205 (2022-09-20T18:15:00)
+> JFinal CMS 5.1.0 is affected by: SQL Injection. These interfaces do not use the same component, nor do they have filters, but each uses its own SQL concatenation method, resulting in SQL injection.
 - [AgainstTheLight/CVE-2022-37205](https://github.com/AgainstTheLight/CVE-2022-37205)	<img alt="forks" src="https://img.shields.io/github/forks/AgainstTheLight/CVE-2022-37205">	<img alt="stars" src="https://img.shields.io/github/stars/AgainstTheLight/CVE-2022-37205">
 
 ---
