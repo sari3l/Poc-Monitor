@@ -156,6 +156,7 @@
 - [CEOrbey/CVE-2022-36804-POC-RCE](https://github.com/CEOrbey/CVE-2022-36804-POC-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/CEOrbey/CVE-2022-36804-POC-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/CEOrbey/CVE-2022-36804-POC-RCE">
 - [notdls/CVE-2022-36804](https://github.com/notdls/CVE-2022-36804)	<img alt="forks" src="https://img.shields.io/github/forks/notdls/CVE-2022-36804">	<img alt="stars" src="https://img.shields.io/github/stars/notdls/CVE-2022-36804">
 - [notxesh/CVE-2022-36804-PoC](https://github.com/notxesh/CVE-2022-36804-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/notxesh/CVE-2022-36804-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/notxesh/CVE-2022-36804-PoC">
+- [BenHays142/CVE-2022-36804-PoC-Exploit](https://github.com/BenHays142/CVE-2022-36804-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/BenHays142/CVE-2022-36804-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/BenHays142/CVE-2022-36804-PoC-Exploit">
 
 ---
 ## CVE-2022-36539 (2022-09-07T17:15:00)
