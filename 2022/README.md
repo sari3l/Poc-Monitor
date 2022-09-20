@@ -41,6 +41,11 @@
 - [AUTOCRYPT-IVS-VnV/CVE-2022-38766](https://github.com/AUTOCRYPT-IVS-VnV/CVE-2022-38766)	<img alt="forks" src="https://img.shields.io/github/forks/AUTOCRYPT-IVS-VnV/CVE-2022-38766">	<img alt="stars" src="https://img.shields.io/github/stars/AUTOCRYPT-IVS-VnV/CVE-2022-38766">
 
 ---
+## CVE-2022-38553 ()
+> 
+- [4websecurity/CVE-2022-38553](https://github.com/4websecurity/CVE-2022-38553)	<img alt="forks" src="https://img.shields.io/github/forks/4websecurity/CVE-2022-38553">	<img alt="stars" src="https://img.shields.io/github/stars/4websecurity/CVE-2022-38553">
+
+---
 ## CVE-2022-37706 ()
 > 
 - [MaherAzzouzi/CVE-2022-37706-LPE-exploit](https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/MaherAzzouzi/CVE-2022-37706-LPE-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/MaherAzzouzi/CVE-2022-37706-LPE-exploit">
@@ -1316,6 +1321,7 @@
 ## CVE-2022-20841 (2022-08-10T08:15:00)
 > Multiple vulnerabilities in Cisco Small Business RV160, RV260, RV340, and RV345 Series Routers could allow an unauthenticated, remote attacker to execute arbitrary code or cause a denial of service (DoS) condition on an affected device. For more information about these vulnerabilities, see the Details section of this advisory.
 - [Expl0desploit/CVE-2022-20841](https://github.com/Expl0desploit/CVE-2022-20841)	<img alt="forks" src="https://img.shields.io/github/forks/Expl0desploit/CVE-2022-20841">	<img alt="stars" src="https://img.shields.io/github/stars/Expl0desploit/CVE-2022-20841">
+- [Zerf0X/CVE-2022-20841-RCE](https://github.com/Zerf0X/CVE-2022-20841-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Zerf0X/CVE-2022-20841-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Zerf0X/CVE-2022-20841-RCE">
 
 ---
 ## CVE-2022-20361 (2022-08-10T20:15:00)
