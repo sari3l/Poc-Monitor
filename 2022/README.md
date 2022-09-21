@@ -174,6 +174,7 @@
 - [BenHays142/CVE-2022-36804-PoC-Exploit](https://github.com/BenHays142/CVE-2022-36804-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/BenHays142/CVE-2022-36804-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/BenHays142/CVE-2022-36804-PoC-Exploit">
 - [Vulnmachines/bitbucket-cve-2022-36804](https://github.com/Vulnmachines/bitbucket-cve-2022-36804)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/bitbucket-cve-2022-36804">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/bitbucket-cve-2022-36804">
 - [N0pch/CVE-2022-36804-mass-rce](https://github.com/N0pch/CVE-2022-36804-mass-rce)	<img alt="forks" src="https://img.shields.io/github/forks/N0pch/CVE-2022-36804-mass-rce">	<img alt="stars" src="https://img.shields.io/github/stars/N0pch/CVE-2022-36804-mass-rce">
+- [kljunowsky/CVE-2022-36804-POC](https://github.com/kljunowsky/CVE-2022-36804-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kljunowsky/CVE-2022-36804-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kljunowsky/CVE-2022-36804-POC">
 
 ---
 ## CVE-2022-36539 (2022-09-07T17:15:00)
