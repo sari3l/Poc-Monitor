@@ -41,6 +41,11 @@
 - [AUTOCRYPT-IVS-VnV/CVE-2022-38766](https://github.com/AUTOCRYPT-IVS-VnV/CVE-2022-38766)	<img alt="forks" src="https://img.shields.io/github/forks/AUTOCRYPT-IVS-VnV/CVE-2022-38766">	<img alt="stars" src="https://img.shields.io/github/stars/AUTOCRYPT-IVS-VnV/CVE-2022-38766">
 
 ---
+## CVE-2022-38577 (2022-09-19T16:15:00)
+> ProcessMaker before v3.5.4 was discovered to contain insecure permissions in the user profile page. This vulnerability allows attackers to escalate normal users to Administrators.
+- [sornram9254/CVE-2022-38577-Processmaker](https://github.com/sornram9254/CVE-2022-38577-Processmaker)	<img alt="forks" src="https://img.shields.io/github/forks/sornram9254/CVE-2022-38577-Processmaker">	<img alt="stars" src="https://img.shields.io/github/stars/sornram9254/CVE-2022-38577-Processmaker">
+
+---
 ## CVE-2022-38553 ()
 > 
 - [4websecurity/CVE-2022-38553](https://github.com/4websecurity/CVE-2022-38553)	<img alt="forks" src="https://img.shields.io/github/forks/4websecurity/CVE-2022-38553">	<img alt="stars" src="https://img.shields.io/github/stars/4websecurity/CVE-2022-38553">
