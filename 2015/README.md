@@ -20,6 +20,7 @@
 ## CVE-2015-5531 (2015-08-17T15:59:00)
 > Directory traversal vulnerability in Elasticsearch before 1.6.1 allows remote attackers to read arbitrary files via unspecified vectors related to snapshot API calls.
 - [xpgdgit/CVE-2015-5531](https://github.com/xpgdgit/CVE-2015-5531)	<img alt="forks" src="https://img.shields.io/github/forks/xpgdgit/CVE-2015-5531">	<img alt="stars" src="https://img.shields.io/github/stars/xpgdgit/CVE-2015-5531">
+- [j-jasson/CVE-2015-5531-POC](https://github.com/j-jasson/CVE-2015-5531-POC)	<img alt="forks" src="https://img.shields.io/github/forks/j-jasson/CVE-2015-5531-POC">	<img alt="stars" src="https://img.shields.io/github/stars/j-jasson/CVE-2015-5531-POC">
 
 ---
 ## CVE-2015-2291 (2017-08-09T18:29:00)
