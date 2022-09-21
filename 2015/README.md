@@ -1,6 +1,21 @@
 # 2015 List
 
 ---
+## CVE-2015-8562 (2015-12-16T21:59:00)
+> Joomla! 1.5.x, 2.x, and 3.x before 3.4.6 allow remote attackers to conduct PHP object injection attacks and execute arbitrary PHP code via the HTTP User-Agent header, as exploited in the wild in December 2015.
+- [Caihuar/Joomla-cve-2015-8562](https://github.com/Caihuar/Joomla-cve-2015-8562)	<img alt="forks" src="https://img.shields.io/github/forks/Caihuar/Joomla-cve-2015-8562">	<img alt="stars" src="https://img.shields.io/github/stars/Caihuar/Joomla-cve-2015-8562">
+- [lorenzodegiorgi/setup-cve-2015-8562](https://github.com/lorenzodegiorgi/setup-cve-2015-8562)	<img alt="forks" src="https://img.shields.io/github/forks/lorenzodegiorgi/setup-cve-2015-8562">	<img alt="stars" src="https://img.shields.io/github/stars/lorenzodegiorgi/setup-cve-2015-8562">
+- [guanjivip/CVE-2015-8562](https://github.com/guanjivip/CVE-2015-8562)	<img alt="forks" src="https://img.shields.io/github/forks/guanjivip/CVE-2015-8562">	<img alt="stars" src="https://img.shields.io/github/stars/guanjivip/CVE-2015-8562">
+- [VoidSec/Joomla_CVE-2015-8562](https://github.com/VoidSec/Joomla_CVE-2015-8562)	<img alt="forks" src="https://img.shields.io/github/forks/VoidSec/Joomla_CVE-2015-8562">	<img alt="stars" src="https://img.shields.io/github/stars/VoidSec/Joomla_CVE-2015-8562">
+- [xnorkl/Joomla_Payload](https://github.com/xnorkl/Joomla_Payload)	<img alt="forks" src="https://img.shields.io/github/forks/xnorkl/Joomla_Payload">	<img alt="stars" src="https://img.shields.io/github/stars/xnorkl/Joomla_Payload">
+- [paralelo14/JoomlaMassExploiter](https://github.com/paralelo14/JoomlaMassExploiter)	<img alt="forks" src="https://img.shields.io/github/forks/paralelo14/JoomlaMassExploiter">	<img alt="stars" src="https://img.shields.io/github/stars/paralelo14/JoomlaMassExploiter">
+- [paralelo14/CVE-2015-8562](https://github.com/paralelo14/CVE-2015-8562)	<img alt="forks" src="https://img.shields.io/github/forks/paralelo14/CVE-2015-8562">	<img alt="stars" src="https://img.shields.io/github/stars/paralelo14/CVE-2015-8562">
+- [thejackerz/scanner-exploit-joomla-CVE-2015-8562](https://github.com/thejackerz/scanner-exploit-joomla-CVE-2015-8562)	<img alt="forks" src="https://img.shields.io/github/forks/thejackerz/scanner-exploit-joomla-CVE-2015-8562">	<img alt="stars" src="https://img.shields.io/github/stars/thejackerz/scanner-exploit-joomla-CVE-2015-8562">
+- [atcasanova/cve-2015-8562-exploit](https://github.com/atcasanova/cve-2015-8562-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/atcasanova/cve-2015-8562-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/atcasanova/cve-2015-8562-exploit">
+- [RobinHoutevelts/Joomla-CVE-2015-8562-PHP-POC](https://github.com/RobinHoutevelts/Joomla-CVE-2015-8562-PHP-POC)	<img alt="forks" src="https://img.shields.io/github/forks/RobinHoutevelts/Joomla-CVE-2015-8562-PHP-POC">	<img alt="stars" src="https://img.shields.io/github/stars/RobinHoutevelts/Joomla-CVE-2015-8562-PHP-POC">
+- [ZaleHack/joomla_rce_CVE-2015-8562](https://github.com/ZaleHack/joomla_rce_CVE-2015-8562)	<img alt="forks" src="https://img.shields.io/github/forks/ZaleHack/joomla_rce_CVE-2015-8562">	<img alt="stars" src="https://img.shields.io/github/stars/ZaleHack/joomla_rce_CVE-2015-8562">
+
+---
 ## CVE-2015-5531 (2015-08-17T15:59:00)
 > Directory traversal vulnerability in Elasticsearch before 1.6.1 allows remote attackers to read arbitrary files via unspecified vectors related to snapshot API calls.
 - [xpgdgit/CVE-2015-5531](https://github.com/xpgdgit/CVE-2015-5531)	<img alt="forks" src="https://img.shields.io/github/forks/xpgdgit/CVE-2015-5531">	<img alt="stars" src="https://img.shields.io/github/stars/xpgdgit/CVE-2015-5531">

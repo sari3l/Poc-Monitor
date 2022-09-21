@@ -26,6 +26,11 @@
 - [jet-pentest/CVE-2022-39838](https://github.com/jet-pentest/CVE-2022-39838)	<img alt="forks" src="https://img.shields.io/github/forks/jet-pentest/CVE-2022-39838">	<img alt="stars" src="https://img.shields.io/github/stars/jet-pentest/CVE-2022-39838">
 
 ---
+## CVE-2022-39197 ()
+> 
+- [safe3s/CVE-2022-39197](https://github.com/safe3s/CVE-2022-39197)	<img alt="forks" src="https://img.shields.io/github/forks/safe3s/CVE-2022-39197">	<img alt="stars" src="https://img.shields.io/github/stars/safe3s/CVE-2022-39197">
+
+---
 ## CVE-2022-39196 (2022-09-05T00:15:00)
 > Blackboard Learn 1.10.1 allows remote authenticated users to read unintended files by entering student credentials and then directly visiting a certain webapps/bbcms/execute/ URL.
 - [DayiliWaseem/CVE-2022-39196-](https://github.com/DayiliWaseem/CVE-2022-39196-)	<img alt="forks" src="https://img.shields.io/github/forks/DayiliWaseem/CVE-2022-39196-">	<img alt="stars" src="https://img.shields.io/github/stars/DayiliWaseem/CVE-2022-39196-">
