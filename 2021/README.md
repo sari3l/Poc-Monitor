@@ -69,6 +69,7 @@
 - [Administrative2022/CVE-2021-44228-RCE](https://github.com/Administrative2022/CVE-2021-44228-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Administrative2022/CVE-2021-44228-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Administrative2022/CVE-2021-44228-RCE">
 - [bcdunbar/CVE-2021-44228-poc](https://github.com/bcdunbar/CVE-2021-44228-poc)	<img alt="forks" src="https://img.shields.io/github/forks/bcdunbar/CVE-2021-44228-poc">	<img alt="stars" src="https://img.shields.io/github/stars/bcdunbar/CVE-2021-44228-poc">
 - [ocastel/log4j-shell-poc](https://github.com/ocastel/log4j-shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ocastel/log4j-shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ocastel/log4j-shell-poc">
+- [marcourbano/CVE-2021-44228](https://github.com/marcourbano/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/marcourbano/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/marcourbano/CVE-2021-44228">
 
 ---
 ## CVE-2021-44158 (2022-01-03T10:15:00)
