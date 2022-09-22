@@ -29,6 +29,8 @@
 ## CVE-2022-39197 (2022-09-22T01:15:00)
 > An XSS (Cross Site Scripting) vulnerability was found in HelpSystems Cobalt Strike through 4.7 that allowed a remote attacker to execute HTML on the Cobalt Strike teamserver. To exploit the vulnerability, one must first inspect a Cobalt Strike payload, and then modify the username field in the payload (or create a new payload with the extracted information and then modify that username field to be malformed).
 - [safe3s/CVE-2022-39197](https://github.com/safe3s/CVE-2022-39197)	<img alt="forks" src="https://img.shields.io/github/forks/safe3s/CVE-2022-39197">	<img alt="stars" src="https://img.shields.io/github/stars/safe3s/CVE-2022-39197">
+- [lovechoudoufu/cobaltstrike4.5_cdf](https://github.com/lovechoudoufu/cobaltstrike4.5_cdf)	<img alt="forks" src="https://img.shields.io/github/forks/lovechoudoufu/cobaltstrike4.5_cdf">	<img alt="stars" src="https://img.shields.io/github/stars/lovechoudoufu/cobaltstrike4.5_cdf">
+- [burpheart/CS_mock](https://github.com/burpheart/CS_mock)	<img alt="forks" src="https://img.shields.io/github/forks/burpheart/CS_mock">	<img alt="stars" src="https://img.shields.io/github/stars/burpheart/CS_mock">
 
 ---
 ## CVE-2022-39196 (2022-09-05T00:15:00)
