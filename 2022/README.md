@@ -32,6 +32,14 @@
 - [lovechoudoufu/cobaltstrike4.5_cdf](https://github.com/lovechoudoufu/cobaltstrike4.5_cdf)	<img alt="forks" src="https://img.shields.io/github/forks/lovechoudoufu/cobaltstrike4.5_cdf">	<img alt="stars" src="https://img.shields.io/github/stars/lovechoudoufu/cobaltstrike4.5_cdf">
 - [burpheart/CS_mock](https://github.com/burpheart/CS_mock)	<img alt="forks" src="https://img.shields.io/github/forks/burpheart/CS_mock">	<img alt="stars" src="https://img.shields.io/github/stars/burpheart/CS_mock">
 - [burpheart/cve-2022-39197](https://github.com/burpheart/cve-2022-39197)	<img alt="forks" src="https://img.shields.io/github/forks/burpheart/cve-2022-39197">	<img alt="stars" src="https://img.shields.io/github/stars/burpheart/cve-2022-39197">
+- [ginipropro/cobaltstrike4.5_cdf](https://github.com/ginipropro/cobaltstrike4.5_cdf)	<img alt="forks" src="https://img.shields.io/github/forks/ginipropro/cobaltstrike4.5_cdf">	<img alt="stars" src="https://img.shields.io/github/stars/ginipropro/cobaltstrike4.5_cdf">
+- [atomxw/cobaltstrike4.5_cdf](https://github.com/atomxw/cobaltstrike4.5_cdf)	<img alt="forks" src="https://img.shields.io/github/forks/atomxw/cobaltstrike4.5_cdf">	<img alt="stars" src="https://img.shields.io/github/stars/atomxw/cobaltstrike4.5_cdf">
+- [shen771/cobaltstrike4.5_cdf](https://github.com/shen771/cobaltstrike4.5_cdf)	<img alt="forks" src="https://img.shields.io/github/forks/shen771/cobaltstrike4.5_cdf">	<img alt="stars" src="https://img.shields.io/github/stars/shen771/cobaltstrike4.5_cdf">
+- [Security-Rules/cobaltstrike4.5_cdf](https://github.com/Security-Rules/cobaltstrike4.5_cdf)	<img alt="forks" src="https://img.shields.io/github/forks/Security-Rules/cobaltstrike4.5_cdf">	<img alt="stars" src="https://img.shields.io/github/stars/Security-Rules/cobaltstrike4.5_cdf">
+- [wwl012345/cobaltstrike4.5_cdf](https://github.com/wwl012345/cobaltstrike4.5_cdf)	<img alt="forks" src="https://img.shields.io/github/forks/wwl012345/cobaltstrike4.5_cdf">	<img alt="stars" src="https://img.shields.io/github/stars/wwl012345/cobaltstrike4.5_cdf">
+- [zeoday/cobaltstrike4.5_cdf-1](https://github.com/zeoday/cobaltstrike4.5_cdf-1)	<img alt="forks" src="https://img.shields.io/github/forks/zeoday/cobaltstrike4.5_cdf-1">	<img alt="stars" src="https://img.shields.io/github/stars/zeoday/cobaltstrike4.5_cdf-1">
+- [LztCode/cobaltstrike4.5_cdf](https://github.com/LztCode/cobaltstrike4.5_cdf)	<img alt="forks" src="https://img.shields.io/github/forks/LztCode/cobaltstrike4.5_cdf">	<img alt="stars" src="https://img.shields.io/github/stars/LztCode/cobaltstrike4.5_cdf">
+- [X-Team-Robots/cobaltstrike4.5_cdf](https://github.com/X-Team-Robots/cobaltstrike4.5_cdf)	<img alt="forks" src="https://img.shields.io/github/forks/X-Team-Robots/cobaltstrike4.5_cdf">	<img alt="stars" src="https://img.shields.io/github/stars/X-Team-Robots/cobaltstrike4.5_cdf">
 
 ---
 ## CVE-2022-39196 (2022-09-05T00:15:00)
