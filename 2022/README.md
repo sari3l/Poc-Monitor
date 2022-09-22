@@ -31,6 +31,7 @@
 - [safe3s/CVE-2022-39197](https://github.com/safe3s/CVE-2022-39197)	<img alt="forks" src="https://img.shields.io/github/forks/safe3s/CVE-2022-39197">	<img alt="stars" src="https://img.shields.io/github/stars/safe3s/CVE-2022-39197">
 - [lovechoudoufu/cobaltstrike4.5_cdf](https://github.com/lovechoudoufu/cobaltstrike4.5_cdf)	<img alt="forks" src="https://img.shields.io/github/forks/lovechoudoufu/cobaltstrike4.5_cdf">	<img alt="stars" src="https://img.shields.io/github/stars/lovechoudoufu/cobaltstrike4.5_cdf">
 - [burpheart/CS_mock](https://github.com/burpheart/CS_mock)	<img alt="forks" src="https://img.shields.io/github/forks/burpheart/CS_mock">	<img alt="stars" src="https://img.shields.io/github/stars/burpheart/CS_mock">
+- [burpheart/cve-2022-39197](https://github.com/burpheart/cve-2022-39197)	<img alt="forks" src="https://img.shields.io/github/forks/burpheart/cve-2022-39197">	<img alt="stars" src="https://img.shields.io/github/stars/burpheart/cve-2022-39197">
 
 ---
 ## CVE-2022-39196 (2022-09-05T00:15:00)
