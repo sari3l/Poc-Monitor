@@ -55,6 +55,17 @@
 - [ahaShiyu/CVE-2019-3560](https://github.com/ahaShiyu/CVE-2019-3560)	<img alt="forks" src="https://img.shields.io/github/forks/ahaShiyu/CVE-2019-3560">	<img alt="stars" src="https://img.shields.io/github/stars/ahaShiyu/CVE-2019-3560">
 
 ---
+## CVE-2019-2729 (2019-06-19T23:15:00)
+> Vulnerability in the Oracle WebLogic Server component of Oracle Fusion Middleware (subcomponent: Web Services). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0 and 12.2.1.3.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.0 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).
+- [Luchoane/CVE-2019-2729_creal](https://github.com/Luchoane/CVE-2019-2729_creal)	<img alt="forks" src="https://img.shields.io/github/forks/Luchoane/CVE-2019-2729_creal">	<img alt="stars" src="https://img.shields.io/github/stars/Luchoane/CVE-2019-2729_creal">
+- [0xn0ne/weblogicScanner](https://github.com/0xn0ne/weblogicScanner)	<img alt="forks" src="https://img.shields.io/github/forks/0xn0ne/weblogicScanner">	<img alt="stars" src="https://img.shields.io/github/stars/0xn0ne/weblogicScanner">
+- [pizza-power/weblogic-CVE-2019-2729-POC](https://github.com/pizza-power/weblogic-CVE-2019-2729-POC)	<img alt="forks" src="https://img.shields.io/github/forks/pizza-power/weblogic-CVE-2019-2729-POC">	<img alt="stars" src="https://img.shields.io/github/stars/pizza-power/weblogic-CVE-2019-2729-POC">
+- [waffl3ss/CVE-2019-2729](https://github.com/waffl3ss/CVE-2019-2729)	<img alt="forks" src="https://img.shields.io/github/forks/waffl3ss/CVE-2019-2729">	<img alt="stars" src="https://img.shields.io/github/stars/waffl3ss/CVE-2019-2729">
+- [dr0op/WeblogicScan](https://github.com/dr0op/WeblogicScan)	<img alt="forks" src="https://img.shields.io/github/forks/dr0op/WeblogicScan">	<img alt="stars" src="https://img.shields.io/github/stars/dr0op/WeblogicScan">
+- [ruthlezs/CVE-2019-2729-Exploit](https://github.com/ruthlezs/CVE-2019-2729-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ruthlezs/CVE-2019-2729-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ruthlezs/CVE-2019-2729-Exploit">
+- [black-mirror/Weblogic](https://github.com/black-mirror/Weblogic)	<img alt="forks" src="https://img.shields.io/github/forks/black-mirror/Weblogic">	<img alt="stars" src="https://img.shields.io/github/stars/black-mirror/Weblogic">
+
+---
 ## CVE-2019-19945 (2020-03-16T18:15:00)
 > uhttpd in OpenWrt through 18.06.5 and 19.x through 19.07.0-rc2 has an integer signedness error. This leads to out-of-bounds access to a heap buffer and a subsequent crash. It can be triggered with an HTTP POST request to a CGI script, specifying both "Transfer-Encoding: chunked" and a large negative Content-Length value.
 - [delicateByte/CVE-2019-19945_Test](https://github.com/delicateByte/CVE-2019-19945_Test)	<img alt="forks" src="https://img.shields.io/github/forks/delicateByte/CVE-2019-19945_Test">	<img alt="stars" src="https://img.shields.io/github/stars/delicateByte/CVE-2019-19945_Test">
