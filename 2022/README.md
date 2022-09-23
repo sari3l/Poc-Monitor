@@ -377,8 +377,8 @@
 - [breakpointHQ/CVE-2022-32883](https://github.com/breakpointHQ/CVE-2022-32883)	<img alt="forks" src="https://img.shields.io/github/forks/breakpointHQ/CVE-2022-32883">	<img alt="stars" src="https://img.shields.io/github/stars/breakpointHQ/CVE-2022-32883">
 
 ---
-## CVE-2022-32832 ()
-> 
+## CVE-2022-32832 (2022-09-23T19:15:00)
+> The issue was addressed with improved memory handling. This issue is fixed in iOS 15.6 and iPadOS 15.6, macOS Big Sur 11.6.8, watchOS 8.7, tvOS 15.6, macOS Monterey 12.5, Security Update 2022-005 Catalina. An app with root privileges may be able to execute arbitrary code with kernel privileges.
 - [Muirey03/CVE-2022-32832](https://github.com/Muirey03/CVE-2022-32832)	<img alt="forks" src="https://img.shields.io/github/forks/Muirey03/CVE-2022-32832">	<img alt="stars" src="https://img.shields.io/github/stars/Muirey03/CVE-2022-32832">
 - [AkbarTrilaksana/CVE-2022-32832](https://github.com/AkbarTrilaksana/CVE-2022-32832)	<img alt="forks" src="https://img.shields.io/github/forks/AkbarTrilaksana/CVE-2022-32832">	<img alt="stars" src="https://img.shields.io/github/stars/AkbarTrilaksana/CVE-2022-32832">
 
@@ -1282,8 +1282,8 @@
 - [SiJiDo/CVE-2022-22947](https://github.com/SiJiDo/CVE-2022-22947)	<img alt="forks" src="https://img.shields.io/github/forks/SiJiDo/CVE-2022-22947">	<img alt="stars" src="https://img.shields.io/github/stars/SiJiDo/CVE-2022-22947">
 
 ---
-## CVE-2022-22629 ()
-> 
+## CVE-2022-22629 (2022-09-23T20:15:00)
+> A buffer overflow issue was addressed with improved memory handling. This issue is fixed in macOS Monterey 12.3, Safari 15.4, watchOS 8.5, iTunes 12.12.3 for Windows, iOS 15.4 and iPadOS 15.4, tvOS 15.4. Processing maliciously crafted web content may lead to arbitrary code execution.
 - [parsdefense/CVE-2022-22629](https://github.com/parsdefense/CVE-2022-22629)	<img alt="forks" src="https://img.shields.io/github/forks/parsdefense/CVE-2022-22629">	<img alt="stars" src="https://img.shields.io/github/stars/parsdefense/CVE-2022-22629">
 
 ---
