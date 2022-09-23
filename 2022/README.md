@@ -395,6 +395,7 @@
 - [n0zxRY0/CVE-2022-32548-RCE](https://github.com/n0zxRY0/CVE-2022-32548-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/n0zxRY0/CVE-2022-32548-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/n0zxRY0/CVE-2022-32548-RCE">
 - [rftg1000/CVE-2022-32548-draytek](https://github.com/rftg1000/CVE-2022-32548-draytek)	<img alt="forks" src="https://img.shields.io/github/forks/rftg1000/CVE-2022-32548-draytek">	<img alt="stars" src="https://img.shields.io/github/stars/rftg1000/CVE-2022-32548-draytek">
 - [alexmention/CVE-2022-32548-RCE-POC](https://github.com/alexmention/CVE-2022-32548-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/alexmention/CVE-2022-32548-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/alexmention/CVE-2022-32548-RCE-POC">
+- [expl0despl0it/CVE-2022-32548](https://github.com/expl0despl0it/CVE-2022-32548)	<img alt="forks" src="https://img.shields.io/github/forks/expl0despl0it/CVE-2022-32548">	<img alt="stars" src="https://img.shields.io/github/stars/expl0despl0it/CVE-2022-32548">
 
 ---
 ## CVE-2022-32532 (2022-06-29T00:15:00)
@@ -973,6 +974,8 @@
 ## CVE-2022-25845 (2022-06-10T20:15:00)
 > The package com.alibaba:fastjson before 1.2.83 are vulnerable to Deserialization of Untrusted Data by bypassing the default autoType shutdown restrictions, which is possible under certain conditions. Exploiting this vulnerability allows attacking remote servers. Workaround: If upgrading is not possible, you can enable [safeMode](https://github.com/alibaba/fastjson/wiki/fastjson_safemode).
 - [Expl0desploit/CVE-2022-25845](https://github.com/Expl0desploit/CVE-2022-25845)	<img alt="forks" src="https://img.shields.io/github/forks/Expl0desploit/CVE-2022-25845">	<img alt="stars" src="https://img.shields.io/github/stars/Expl0desploit/CVE-2022-25845">
+- [expl0despl0it/CVE-2022-25845](https://github.com/expl0despl0it/CVE-2022-25845)	<img alt="forks" src="https://img.shields.io/github/forks/expl0despl0it/CVE-2022-25845">	<img alt="stars" src="https://img.shields.io/github/stars/expl0despl0it/CVE-2022-25845">
+- [hosch3n/FastjsonVulns](https://github.com/hosch3n/FastjsonVulns)	<img alt="forks" src="https://img.shields.io/github/forks/hosch3n/FastjsonVulns">	<img alt="stars" src="https://img.shields.io/github/stars/hosch3n/FastjsonVulns">
 
 ---
 ## CVE-2022-2546 ()
@@ -1363,6 +1366,7 @@
 > Multiple vulnerabilities in Cisco Small Business RV160, RV260, RV340, and RV345 Series Routers could allow an unauthenticated, remote attacker to execute arbitrary code or cause a denial of service (DoS) condition on an affected device. For more information about these vulnerabilities, see the Details section of this advisory.
 - [Expl0desploit/CVE-2022-20841](https://github.com/Expl0desploit/CVE-2022-20841)	<img alt="forks" src="https://img.shields.io/github/forks/Expl0desploit/CVE-2022-20841">	<img alt="stars" src="https://img.shields.io/github/stars/Expl0desploit/CVE-2022-20841">
 - [Zerf0X/CVE-2022-20841-RCE](https://github.com/Zerf0X/CVE-2022-20841-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Zerf0X/CVE-2022-20841-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Zerf0X/CVE-2022-20841-RCE">
+- [expl0despl0it/CVE-2022-20841](https://github.com/expl0despl0it/CVE-2022-20841)	<img alt="forks" src="https://img.shields.io/github/forks/expl0despl0it/CVE-2022-20841">	<img alt="stars" src="https://img.shields.io/github/stars/expl0despl0it/CVE-2022-20841">
 
 ---
 ## CVE-2022-20361 (2022-08-10T20:15:00)
