@@ -445,6 +445,11 @@
 - [Vikaran101/CVE-2022-31854](https://github.com/Vikaran101/CVE-2022-31854)	<img alt="forks" src="https://img.shields.io/github/forks/Vikaran101/CVE-2022-31854">	<img alt="stars" src="https://img.shields.io/github/stars/Vikaran101/CVE-2022-31854">
 
 ---
+## CVE-2022-31798 (2022-08-25T23:15:00)
+> Nortek Linear eMerge E3-Series 0.32-07p devices are vulnerable to /card_scan.php?CardFormatNo= XSS with session fixation (via PHPSESSID) when they are chained together. This would allow an attacker to take over an admin account or a user account.
+- [omarhashem123/CVE-2022-31798](https://github.com/omarhashem123/CVE-2022-31798)	<img alt="forks" src="https://img.shields.io/github/forks/omarhashem123/CVE-2022-31798">	<img alt="stars" src="https://img.shields.io/github/stars/omarhashem123/CVE-2022-31798">
+
+---
 ## CVE-2022-31793 (2022-08-04T22:15:00)
 > do_request in request.c in muhttpd before 1.1.7 allows remote attackers to read arbitrary files by constructing a URL with a single character before a desired path on the filesystem. This occurs because the code skips over the first character when serving files. Arris NVG443, NVG599, NVG589, and NVG510 devices and Arris-derived BGW210 and BGW320 devices are affected.
 - [xpgdgit/CVE-2022-31793](https://github.com/xpgdgit/CVE-2022-31793)	<img alt="forks" src="https://img.shields.io/github/forks/xpgdgit/CVE-2022-31793">	<img alt="stars" src="https://img.shields.io/github/stars/xpgdgit/CVE-2022-31793">
@@ -459,6 +464,11 @@
 ## CVE-2022-3168 ()
 > 
 - [irsl/CVE-2022-3168-adb-unexpected-reverse-forwards](https://github.com/irsl/CVE-2022-3168-adb-unexpected-reverse-forwards)	<img alt="forks" src="https://img.shields.io/github/forks/irsl/CVE-2022-3168-adb-unexpected-reverse-forwards">	<img alt="stars" src="https://img.shields.io/github/stars/irsl/CVE-2022-3168-adb-unexpected-reverse-forwards">
+
+---
+## CVE-2022-31499 (2022-08-25T23:15:00)
+> Nortek Linear eMerge E3-Series devices before 0.32-08f allow an unauthenticated attacker to inject OS commands via ReaderNo. NOTE: this issue exists because of an incomplete fix for CVE-2019-7256.
+- [omarhashem123/CVE-2022-31499](https://github.com/omarhashem123/CVE-2022-31499)	<img alt="forks" src="https://img.shields.io/github/forks/omarhashem123/CVE-2022-31499">	<img alt="stars" src="https://img.shields.io/github/stars/omarhashem123/CVE-2022-31499">
 
 ---
 ## CVE-2022-31474 ()
@@ -494,6 +504,7 @@
 ## CVE-2022-31269 (2022-08-25T22:15:00)
 > Nortek Linear eMerge E3-Series devices through 0.32-09c place admin credentials in /test.txt that allow an attacker to open a building's doors. (This occurs in situations where the CVE-2019-7271 default credentials have been changed.)
 - [Henry4E36/CVE-2022-31269](https://github.com/Henry4E36/CVE-2022-31269)	<img alt="forks" src="https://img.shields.io/github/forks/Henry4E36/CVE-2022-31269">	<img alt="stars" src="https://img.shields.io/github/stars/Henry4E36/CVE-2022-31269">
+- [omarhashem123/CVE-2022-31269](https://github.com/omarhashem123/CVE-2022-31269)	<img alt="forks" src="https://img.shields.io/github/forks/omarhashem123/CVE-2022-31269">	<img alt="stars" src="https://img.shields.io/github/stars/omarhashem123/CVE-2022-31269">
 
 ---
 ## CVE-2022-31262 (2022-08-17T15:15:00)
