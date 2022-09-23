@@ -40,6 +40,7 @@
 - [zeoday/cobaltstrike4.5_cdf-1](https://github.com/zeoday/cobaltstrike4.5_cdf-1)	<img alt="forks" src="https://img.shields.io/github/forks/zeoday/cobaltstrike4.5_cdf-1">	<img alt="stars" src="https://img.shields.io/github/stars/zeoday/cobaltstrike4.5_cdf-1">
 - [LztCode/cobaltstrike4.5_cdf](https://github.com/LztCode/cobaltstrike4.5_cdf)	<img alt="forks" src="https://img.shields.io/github/forks/LztCode/cobaltstrike4.5_cdf">	<img alt="stars" src="https://img.shields.io/github/stars/LztCode/cobaltstrike4.5_cdf">
 - [X-Team-Robots/cobaltstrike4.5_cdf](https://github.com/X-Team-Robots/cobaltstrike4.5_cdf)	<img alt="forks" src="https://img.shields.io/github/forks/X-Team-Robots/cobaltstrike4.5_cdf">	<img alt="stars" src="https://img.shields.io/github/stars/X-Team-Robots/cobaltstrike4.5_cdf">
+- [xzajyjs/CVE-2022-39197-POC](https://github.com/xzajyjs/CVE-2022-39197-POC)	<img alt="forks" src="https://img.shields.io/github/forks/xzajyjs/CVE-2022-39197-POC">	<img alt="stars" src="https://img.shields.io/github/stars/xzajyjs/CVE-2022-39197-POC">
 
 ---
 ## CVE-2022-39196 (2022-09-05T00:15:00)
@@ -179,7 +180,7 @@
 - [CEOrbey/CVE-2022-36804-POC](https://github.com/CEOrbey/CVE-2022-36804-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CEOrbey/CVE-2022-36804-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CEOrbey/CVE-2022-36804-POC">
 - [CEOrbey/CVE-2022-36804-MASS-RCE](https://github.com/CEOrbey/CVE-2022-36804-MASS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/CEOrbey/CVE-2022-36804-MASS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/CEOrbey/CVE-2022-36804-MASS-RCE">
 - [CEOrbey/CVE-2022-36804-RCE](https://github.com/CEOrbey/CVE-2022-36804-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/CEOrbey/CVE-2022-36804-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/CEOrbey/CVE-2022-36804-RCE">
-- [CEOrbey/CVE-2022-36804-POC](https://github.com/CEOrbey/CVE-2022-36804-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CEOrbey/CVE-2022-36804-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CEOrbey/CVE-2022-36804-POC">
+- [CEOrbey/CVE-2022-36804-POC-RCE](https://github.com/CEOrbey/CVE-2022-36804-POC-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/CEOrbey/CVE-2022-36804-POC-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/CEOrbey/CVE-2022-36804-POC-RCE">
 - [notdls/CVE-2022-36804](https://github.com/notdls/CVE-2022-36804)	<img alt="forks" src="https://img.shields.io/github/forks/notdls/CVE-2022-36804">	<img alt="stars" src="https://img.shields.io/github/stars/notdls/CVE-2022-36804">
 - [notxesh/CVE-2022-36804-PoC](https://github.com/notxesh/CVE-2022-36804-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/notxesh/CVE-2022-36804-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/notxesh/CVE-2022-36804-PoC">
 - [BenHays142/CVE-2022-36804-PoC-Exploit](https://github.com/BenHays142/CVE-2022-36804-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/BenHays142/CVE-2022-36804-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/BenHays142/CVE-2022-36804-PoC-Exploit">
@@ -187,6 +188,8 @@
 - [N0pch/CVE-2022-36804-mass-rce](https://github.com/N0pch/CVE-2022-36804-mass-rce)	<img alt="forks" src="https://img.shields.io/github/forks/N0pch/CVE-2022-36804-mass-rce">	<img alt="stars" src="https://img.shields.io/github/stars/N0pch/CVE-2022-36804-mass-rce">
 - [kljunowsky/CVE-2022-36804-POC](https://github.com/kljunowsky/CVE-2022-36804-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kljunowsky/CVE-2022-36804-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kljunowsky/CVE-2022-36804-POC">
 - [awsassets/CVE-2022-36804-RCE](https://github.com/awsassets/CVE-2022-36804-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/awsassets/CVE-2022-36804-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/awsassets/CVE-2022-36804-RCE">
+- [CEOrbey/CVE-2022-36804-MASS-RCE](https://github.com/CEOrbey/CVE-2022-36804-MASS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/CEOrbey/CVE-2022-36804-MASS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/CEOrbey/CVE-2022-36804-MASS-RCE">
+- [JRandomSage/CVE-2022-36804-MASS-RCE](https://github.com/JRandomSage/CVE-2022-36804-MASS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/JRandomSage/CVE-2022-36804-MASS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/JRandomSage/CVE-2022-36804-MASS-RCE">
 
 ---
 ## CVE-2022-36539 (2022-09-07T17:15:00)
