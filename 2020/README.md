@@ -59,6 +59,13 @@
 - [DimitriNL/CTX-CVE-2020-7473](https://github.com/DimitriNL/CTX-CVE-2020-7473)	<img alt="forks" src="https://img.shields.io/github/forks/DimitriNL/CTX-CVE-2020-7473">	<img alt="stars" src="https://img.shields.io/github/stars/DimitriNL/CTX-CVE-2020-7473">
 
 ---
+## CVE-2020-7246 (2020-01-21T14:15:00)
+> A remote code execution (RCE) vulnerability exists in qdPM 9.1 and earlier. An attacker can upload a malicious PHP code file via the profile photo functionality, by leveraging a path traversal vulnerability in the users['photop_preview'] delete photo feature, allowing bypass of .htaccess protection. NOTE: this issue exists because of an incomplete fix for CVE-2015-3884.
+- [pswalia2u/CVE-2020-7246](https://github.com/pswalia2u/CVE-2020-7246)	<img alt="forks" src="https://img.shields.io/github/forks/pswalia2u/CVE-2020-7246">	<img alt="stars" src="https://img.shields.io/github/stars/pswalia2u/CVE-2020-7246">
+- [arafatansari/SecAssignment](https://github.com/arafatansari/SecAssignment)	<img alt="forks" src="https://img.shields.io/github/forks/arafatansari/SecAssignment">	<img alt="stars" src="https://img.shields.io/github/stars/arafatansari/SecAssignment">
+- [j0hn30n/CVE-2020-7246](https://github.com/j0hn30n/CVE-2020-7246)	<img alt="forks" src="https://img.shields.io/github/forks/j0hn30n/CVE-2020-7246">	<img alt="stars" src="https://img.shields.io/github/stars/j0hn30n/CVE-2020-7246">
+
+---
 ## CVE-2020-6468 (2020-05-21T04:15:00)
 > Type confusion in V8 in Google Chrome prior to 83.0.4103.61 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
 - [kiks7/CVE-2020-6468-Chrome-Exploit](https://github.com/kiks7/CVE-2020-6468-Chrome-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/kiks7/CVE-2020-6468-Chrome-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/kiks7/CVE-2020-6468-Chrome-Exploit">
