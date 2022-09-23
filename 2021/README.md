@@ -71,6 +71,7 @@
 - [ocastel/log4j-shell-poc](https://github.com/ocastel/log4j-shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ocastel/log4j-shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ocastel/log4j-shell-poc">
 - [marcourbano/CVE-2021-44228](https://github.com/marcourbano/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/marcourbano/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/marcourbano/CVE-2021-44228">
 - [yannart/log4shell-scanner-rs](https://github.com/yannart/log4shell-scanner-rs)	<img alt="forks" src="https://img.shields.io/github/forks/yannart/log4shell-scanner-rs">	<img alt="stars" src="https://img.shields.io/github/stars/yannart/log4shell-scanner-rs">
+- [kozmer/log4j-shell-poc](https://github.com/kozmer/log4j-shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/kozmer/log4j-shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/kozmer/log4j-shell-poc">
 
 ---
 ## CVE-2021-44158 (2022-01-03T10:15:00)
