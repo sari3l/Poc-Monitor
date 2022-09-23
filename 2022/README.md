@@ -190,6 +190,7 @@
 - [awsassets/CVE-2022-36804-RCE](https://github.com/awsassets/CVE-2022-36804-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/awsassets/CVE-2022-36804-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/awsassets/CVE-2022-36804-RCE">
 - [CEOrbey/CVE-2022-36804-MASS-RCE](https://github.com/CEOrbey/CVE-2022-36804-MASS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/CEOrbey/CVE-2022-36804-MASS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/CEOrbey/CVE-2022-36804-MASS-RCE">
 - [JRandomSage/CVE-2022-36804-MASS-RCE](https://github.com/JRandomSage/CVE-2022-36804-MASS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/JRandomSage/CVE-2022-36804-MASS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/JRandomSage/CVE-2022-36804-MASS-RCE">
+- [Chocapikk/CVE-2022-36804-ReverseShell](https://github.com/Chocapikk/CVE-2022-36804-ReverseShell)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2022-36804-ReverseShell">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2022-36804-ReverseShell">
 
 ---
 ## CVE-2022-36539 (2022-09-07T17:15:00)
