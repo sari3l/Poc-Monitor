@@ -9,6 +9,20 @@
 - [KosukeShimofuji/CVE-2016-5734](https://github.com/KosukeShimofuji/CVE-2016-5734)	<img alt="forks" src="https://img.shields.io/github/forks/KosukeShimofuji/CVE-2016-5734">	<img alt="stars" src="https://img.shields.io/github/stars/KosukeShimofuji/CVE-2016-5734">
 
 ---
+## CVE-2016-2098 (2016-04-07T23:59:00)
+> Action Pack in Ruby on Rails before 3.2.22.2, 4.x before 4.1.14.2, and 4.2.x before 4.2.5.2 allows remote attackers to execute arbitrary Ruby code by leveraging an application's unrestricted use of the render method.
+- [Shakun8/CVE-2016-2098](https://github.com/Shakun8/CVE-2016-2098)	<img alt="forks" src="https://img.shields.io/github/forks/Shakun8/CVE-2016-2098">	<img alt="stars" src="https://img.shields.io/github/stars/Shakun8/CVE-2016-2098">
+- [j4k0m/CVE-2016-2098](https://github.com/j4k0m/CVE-2016-2098)	<img alt="forks" src="https://img.shields.io/github/forks/j4k0m/CVE-2016-2098">	<img alt="stars" src="https://img.shields.io/github/stars/j4k0m/CVE-2016-2098">
+- [Debalinax64/CVE-2016-2098](https://github.com/Debalinax64/CVE-2016-2098)	<img alt="forks" src="https://img.shields.io/github/forks/Debalinax64/CVE-2016-2098">	<img alt="stars" src="https://img.shields.io/github/stars/Debalinax64/CVE-2016-2098">
+- [DanielCodex/CVE-2016-2098-my-first-exploit](https://github.com/DanielCodex/CVE-2016-2098-my-first-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/DanielCodex/CVE-2016-2098-my-first-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/DanielCodex/CVE-2016-2098-my-first-exploit">
+- [its-arun/CVE-2016-2098](https://github.com/its-arun/CVE-2016-2098)	<img alt="forks" src="https://img.shields.io/github/forks/its-arun/CVE-2016-2098">	<img alt="stars" src="https://img.shields.io/github/stars/its-arun/CVE-2016-2098">
+- [3rg1s/CVE-2016-2098](https://github.com/3rg1s/CVE-2016-2098)	<img alt="forks" src="https://img.shields.io/github/forks/3rg1s/CVE-2016-2098">	<img alt="stars" src="https://img.shields.io/github/stars/3rg1s/CVE-2016-2098">
+- [0x00-0x00/CVE-2016-2098](https://github.com/0x00-0x00/CVE-2016-2098)	<img alt="forks" src="https://img.shields.io/github/forks/0x00-0x00/CVE-2016-2098">	<img alt="stars" src="https://img.shields.io/github/stars/0x00-0x00/CVE-2016-2098">
+- [Alejandro-MartinG/rails-PoC-CVE-2016-2098](https://github.com/Alejandro-MartinG/rails-PoC-CVE-2016-2098)	<img alt="forks" src="https://img.shields.io/github/forks/Alejandro-MartinG/rails-PoC-CVE-2016-2098">	<img alt="stars" src="https://img.shields.io/github/stars/Alejandro-MartinG/rails-PoC-CVE-2016-2098">
+- [CyberDefenseInstitute/PoC_CVE-2016-2098_Rails42](https://github.com/CyberDefenseInstitute/PoC_CVE-2016-2098_Rails42)	<img alt="forks" src="https://img.shields.io/github/forks/CyberDefenseInstitute/PoC_CVE-2016-2098_Rails42">	<img alt="stars" src="https://img.shields.io/github/stars/CyberDefenseInstitute/PoC_CVE-2016-2098_Rails42">
+- [hderms/dh-CVE_2016_2098](https://github.com/hderms/dh-CVE_2016_2098)	<img alt="forks" src="https://img.shields.io/github/forks/hderms/dh-CVE_2016_2098">	<img alt="stars" src="https://img.shields.io/github/stars/hderms/dh-CVE_2016_2098">
+
+---
 ## CVE-2016-10924 (2019-08-22T14:15:00)
 > The ebook-download plugin before 1.2 for WordPress has directory traversal.
 - [rvizx/CVE-2016-10924](https://github.com/rvizx/CVE-2016-10924)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2016-10924">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2016-10924">
