@@ -100,6 +100,17 @@
 - [EmaVirgRep/cve-2018-6574](https://github.com/EmaVirgRep/cve-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/EmaVirgRep/cve-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/EmaVirgRep/cve-2018-6574">
 
 ---
+## CVE-2018-6242 (2018-05-01T20:29:00)
+> Some NVIDIA Tegra mobile processors released prior to 2016 contain a buffer overflow vulnerability in BootROM Recovery Mode (RCM). An attacker with physical access to the device's USB and the ability to force the device to reboot into RCM could exploit the vulnerability to execute unverified code.
+- [Haruster/Haruster-Nintendo-CVE-2018-6242](https://github.com/Haruster/Haruster-Nintendo-CVE-2018-6242)	<img alt="forks" src="https://img.shields.io/github/forks/Haruster/Haruster-Nintendo-CVE-2018-6242">	<img alt="stars" src="https://img.shields.io/github/stars/Haruster/Haruster-Nintendo-CVE-2018-6242">
+- [Swiftloke/fusee-toy](https://github.com/Swiftloke/fusee-toy)	<img alt="forks" src="https://img.shields.io/github/forks/Swiftloke/fusee-toy">	<img alt="stars" src="https://img.shields.io/github/stars/Swiftloke/fusee-toy">
+- [ChrisFigura/react-tegra-payload-launcher](https://github.com/ChrisFigura/react-tegra-payload-launcher)	<img alt="forks" src="https://img.shields.io/github/forks/ChrisFigura/react-tegra-payload-launcher">	<img alt="stars" src="https://img.shields.io/github/stars/ChrisFigura/react-tegra-payload-launcher">
+- [DavidBuchanan314/fusee-nano](https://github.com/DavidBuchanan314/fusee-nano)	<img alt="forks" src="https://img.shields.io/github/forks/DavidBuchanan314/fusee-nano">	<img alt="stars" src="https://img.shields.io/github/stars/DavidBuchanan314/fusee-nano">
+- [austinhartzheim/fusee-gelee](https://github.com/austinhartzheim/fusee-gelee)	<img alt="forks" src="https://img.shields.io/github/forks/austinhartzheim/fusee-gelee">	<img alt="stars" src="https://img.shields.io/github/stars/austinhartzheim/fusee-gelee">
+- [DavidBuchanan314/NXLoader](https://github.com/DavidBuchanan314/NXLoader)	<img alt="forks" src="https://img.shields.io/github/forks/DavidBuchanan314/NXLoader">	<img alt="stars" src="https://img.shields.io/github/stars/DavidBuchanan314/NXLoader">
+- [reswitched/rcm-modchips](https://github.com/reswitched/rcm-modchips)	<img alt="forks" src="https://img.shields.io/github/forks/reswitched/rcm-modchips">	<img alt="stars" src="https://img.shields.io/github/stars/reswitched/rcm-modchips">
+
+---
 ## CVE-2018-3990 (2019-02-05T23:29:00)
 > An exploitable pool corruption vulnerability exists in the 0x8200E804 IOCTL handler functionality of WIBU-SYSTEMS WibuKey.sys Version 6.40 (Build 2400). A specially crafted IRP request can cause a buffer overflow, resulting in kernel memory corruption and, potentially, privilege escalation. An attacker can send an IRP request to trigger this vulnerability.
 - [Exploitables/CVE-2018-3990-TALOS-2018-0658](https://github.com/Exploitables/CVE-2018-3990-TALOS-2018-0658)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2018-3990-TALOS-2018-0658">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2018-3990-TALOS-2018-0658">
