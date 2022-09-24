@@ -1286,6 +1286,11 @@
 - [SiJiDo/CVE-2022-22947](https://github.com/SiJiDo/CVE-2022-22947)	<img alt="forks" src="https://img.shields.io/github/forks/SiJiDo/CVE-2022-22947">	<img alt="stars" src="https://img.shields.io/github/stars/SiJiDo/CVE-2022-22947">
 
 ---
+## CVE-2022-2274 (2022-07-01T08:15:00)
+> The OpenSSL 3.0.4 release introduced a serious bug in the RSA implementation for X86_64 CPUs supporting the AVX512IFMA instructions. This issue makes the RSA implementation with 2048 bit private keys incorrect on such machines and memory corruption will happen during the computation. As a consequence of the memory corruption an attacker may be able to trigger a remote code execution on the machine performing the computation. SSL/TLS servers or other servers using 2048 bit RSA private keys running on machines supporting AVX512IFMA instructions of the X86_64 architecture are affected by this issue.
+- [Malwareman007/CVE-2022-2274](https://github.com/Malwareman007/CVE-2022-2274)	<img alt="forks" src="https://img.shields.io/github/forks/Malwareman007/CVE-2022-2274">	<img alt="stars" src="https://img.shields.io/github/stars/Malwareman007/CVE-2022-2274">
+
+---
 ## CVE-2022-22629 (2022-09-23T20:15:00)
 > A buffer overflow issue was addressed with improved memory handling. This issue is fixed in macOS Monterey 12.3, Safari 15.4, watchOS 8.5, iTunes 12.12.3 for Windows, iOS 15.4 and iPadOS 15.4, tvOS 15.4. Processing maliciously crafted web content may lead to arbitrary code execution.
 - [parsdefense/CVE-2022-22629](https://github.com/parsdefense/CVE-2022-22629)	<img alt="forks" src="https://img.shields.io/github/forks/parsdefense/CVE-2022-22629">	<img alt="stars" src="https://img.shields.io/github/stars/parsdefense/CVE-2022-22629">
