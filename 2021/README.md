@@ -386,6 +386,7 @@
 - [1337Rin/CVE-2021-4034](https://github.com/1337Rin/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/1337Rin/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/1337Rin/CVE-2021-4034">
 - [Naughty-SEC/pkexec-shell-executor](https://github.com/Naughty-SEC/pkexec-shell-executor)	<img alt="forks" src="https://img.shields.io/github/forks/Naughty-SEC/pkexec-shell-executor">	<img alt="stars" src="https://img.shields.io/github/stars/Naughty-SEC/pkexec-shell-executor">
 - [Pajarraco4444/CVE-2021-4034](https://github.com/Pajarraco4444/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/Pajarraco4444/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/Pajarraco4444/CVE-2021-4034">
+- [flux10n/CVE-2021-4034](https://github.com/flux10n/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/flux10n/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/flux10n/CVE-2021-4034">
 
 ---
 ## CVE-2021-39696 (2022-08-10T20:15:00)
