@@ -196,6 +196,8 @@
 - [trhacknon/CVE-2022-36804-ReverseShell](https://github.com/trhacknon/CVE-2022-36804-ReverseShell)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-36804-ReverseShell">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-36804-ReverseShell">
 - [khal4n1/CVE-2022-36804](https://github.com/khal4n1/CVE-2022-36804)	<img alt="forks" src="https://img.shields.io/github/forks/khal4n1/CVE-2022-36804">	<img alt="stars" src="https://img.shields.io/github/stars/khal4n1/CVE-2022-36804">
 - [tahtaciburak/cve-2022-36804](https://github.com/tahtaciburak/cve-2022-36804)	<img alt="forks" src="https://img.shields.io/github/forks/tahtaciburak/cve-2022-36804">	<img alt="stars" src="https://img.shields.io/github/stars/tahtaciburak/cve-2022-36804">
+- [touchmycrazyredhat/CVE-2022-36804-RevSh](https://github.com/touchmycrazyredhat/CVE-2022-36804-RevSh)	<img alt="forks" src="https://img.shields.io/github/forks/touchmycrazyredhat/CVE-2022-36804-RevSh">	<img alt="stars" src="https://img.shields.io/github/stars/touchmycrazyredhat/CVE-2022-36804-RevSh">
+- [touchmycrazyredhat/CVE-2022-36804-ReverseShell](https://github.com/touchmycrazyredhat/CVE-2022-36804-ReverseShell)	<img alt="forks" src="https://img.shields.io/github/forks/touchmycrazyredhat/CVE-2022-36804-ReverseShell">	<img alt="stars" src="https://img.shields.io/github/stars/touchmycrazyredhat/CVE-2022-36804-ReverseShell">
 
 ---
 ## CVE-2022-36539 (2022-09-07T17:15:00)
