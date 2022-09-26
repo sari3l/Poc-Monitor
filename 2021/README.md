@@ -905,6 +905,7 @@
 - [vesperp/CVE-2021-20038-SonicWall-RCE](https://github.com/vesperp/CVE-2021-20038-SonicWall-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/vesperp/CVE-2021-20038-SonicWall-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/vesperp/CVE-2021-20038-SonicWall-RCE">
 - [S3ntinelX/nmap-scripts](https://github.com/S3ntinelX/nmap-scripts)	<img alt="forks" src="https://img.shields.io/github/forks/S3ntinelX/nmap-scripts">	<img alt="stars" src="https://img.shields.io/github/stars/S3ntinelX/nmap-scripts">
 - [jbaines-r7/badblood](https://github.com/jbaines-r7/badblood)	<img alt="forks" src="https://img.shields.io/github/forks/jbaines-r7/badblood">	<img alt="stars" src="https://img.shields.io/github/stars/jbaines-r7/badblood">
+- [MaX0dexpoit/CVE-2021-20038](https://github.com/MaX0dexpoit/CVE-2021-20038)	<img alt="forks" src="https://img.shields.io/github/forks/MaX0dexpoit/CVE-2021-20038">	<img alt="stars" src="https://img.shields.io/github/stars/MaX0dexpoit/CVE-2021-20038">
 
 ---
 ## CVE-2021-09 ()

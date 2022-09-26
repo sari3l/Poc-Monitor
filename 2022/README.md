@@ -406,6 +406,7 @@
 - [alexmention/CVE-2022-32548-RCE-POC](https://github.com/alexmention/CVE-2022-32548-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/alexmention/CVE-2022-32548-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/alexmention/CVE-2022-32548-RCE-POC">
 - [expl0despl0it/CVE-2022-32548](https://github.com/expl0despl0it/CVE-2022-32548)	<img alt="forks" src="https://img.shields.io/github/forks/expl0despl0it/CVE-2022-32548">	<img alt="stars" src="https://img.shields.io/github/stars/expl0despl0it/CVE-2022-32548">
 - [Xu0Tex1/CVE-2022-32548-Mass-Rce](https://github.com/Xu0Tex1/CVE-2022-32548-Mass-Rce)	<img alt="forks" src="https://img.shields.io/github/forks/Xu0Tex1/CVE-2022-32548-Mass-Rce">	<img alt="stars" src="https://img.shields.io/github/stars/Xu0Tex1/CVE-2022-32548-Mass-Rce">
+- [MaX0dexpoit/CVE-2022-32548](https://github.com/MaX0dexpoit/CVE-2022-32548)	<img alt="forks" src="https://img.shields.io/github/forks/MaX0dexpoit/CVE-2022-32548">	<img alt="stars" src="https://img.shields.io/github/stars/MaX0dexpoit/CVE-2022-32548">
 
 ---
 ## CVE-2022-32532 (2022-06-29T00:15:00)
