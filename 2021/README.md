@@ -221,6 +221,7 @@
 - [mightysai1997/CVE-2021-41773.git1](https://github.com/mightysai1997/CVE-2021-41773.git1)	<img alt="forks" src="https://img.shields.io/github/forks/mightysai1997/CVE-2021-41773.git1">	<img alt="stars" src="https://img.shields.io/github/stars/mightysai1997/CVE-2021-41773.git1">
 - [mightysai1997/CVE-2021-41773S](https://github.com/mightysai1997/CVE-2021-41773S)	<img alt="forks" src="https://img.shields.io/github/forks/mightysai1997/CVE-2021-41773S">	<img alt="stars" src="https://img.shields.io/github/stars/mightysai1997/CVE-2021-41773S">
 - [dileepdkumar/LayarKacaSiber-CVE-2021-41773](https://github.com/dileepdkumar/LayarKacaSiber-CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/dileepdkumar/LayarKacaSiber-CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/dileepdkumar/LayarKacaSiber-CVE-2021-41773">
+- [sne4ker/apache-CVE-2021-41773-CVE-2021-42013](https://github.com/sne4ker/apache-CVE-2021-41773-CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/sne4ker/apache-CVE-2021-41773-CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/sne4ker/apache-CVE-2021-41773-CVE-2021-42013">
 
 ---
 ## CVE-2021-41652 (2022-03-01T23:15:00)

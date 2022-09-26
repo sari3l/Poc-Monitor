@@ -67,8 +67,8 @@
 - [sornram9254/CVE-2022-38577-Processmaker](https://github.com/sornram9254/CVE-2022-38577-Processmaker)	<img alt="forks" src="https://img.shields.io/github/forks/sornram9254/CVE-2022-38577-Processmaker">	<img alt="stars" src="https://img.shields.io/github/stars/sornram9254/CVE-2022-38577-Processmaker">
 
 ---
-## CVE-2022-38553 ()
-> 
+## CVE-2022-38553 (2022-09-26T10:15:00)
+> Academy Learning Management System before v5.9.1 was discovered to contain a reflected cross-site scripting (XSS) vulnerability via the Search parameter.
 - [4websecurity/CVE-2022-38553](https://github.com/4websecurity/CVE-2022-38553)	<img alt="forks" src="https://img.shields.io/github/forks/4websecurity/CVE-2022-38553">	<img alt="stars" src="https://img.shields.io/github/stars/4websecurity/CVE-2022-38553">
 
 ---
@@ -405,6 +405,7 @@
 - [rftg1000/CVE-2022-32548-draytek](https://github.com/rftg1000/CVE-2022-32548-draytek)	<img alt="forks" src="https://img.shields.io/github/forks/rftg1000/CVE-2022-32548-draytek">	<img alt="stars" src="https://img.shields.io/github/stars/rftg1000/CVE-2022-32548-draytek">
 - [alexmention/CVE-2022-32548-RCE-POC](https://github.com/alexmention/CVE-2022-32548-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/alexmention/CVE-2022-32548-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/alexmention/CVE-2022-32548-RCE-POC">
 - [expl0despl0it/CVE-2022-32548](https://github.com/expl0despl0it/CVE-2022-32548)	<img alt="forks" src="https://img.shields.io/github/forks/expl0despl0it/CVE-2022-32548">	<img alt="stars" src="https://img.shields.io/github/stars/expl0despl0it/CVE-2022-32548">
+- [Xu0Tex1/CVE-2022-32548-Mass-Rce](https://github.com/Xu0Tex1/CVE-2022-32548-Mass-Rce)	<img alt="forks" src="https://img.shields.io/github/forks/Xu0Tex1/CVE-2022-32548-Mass-Rce">	<img alt="stars" src="https://img.shields.io/github/stars/Xu0Tex1/CVE-2022-32548-Mass-Rce">
 
 ---
 ## CVE-2022-32532 (2022-06-29T00:15:00)
