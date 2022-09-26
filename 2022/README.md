@@ -43,6 +43,8 @@
 - [xzajyjs/CVE-2022-39197-POC](https://github.com/xzajyjs/CVE-2022-39197-POC)	<img alt="forks" src="https://img.shields.io/github/forks/xzajyjs/CVE-2022-39197-POC">	<img alt="stars" src="https://img.shields.io/github/stars/xzajyjs/CVE-2022-39197-POC">
 - [purple-WL/Cobaltstrike-RCE-CVE-2022-39197](https://github.com/purple-WL/Cobaltstrike-RCE-CVE-2022-39197)	<img alt="forks" src="https://img.shields.io/github/forks/purple-WL/Cobaltstrike-RCE-CVE-2022-39197">	<img alt="stars" src="https://img.shields.io/github/stars/purple-WL/Cobaltstrike-RCE-CVE-2022-39197">
 - [yqcs/CSPOC](https://github.com/yqcs/CSPOC)	<img alt="forks" src="https://img.shields.io/github/forks/yqcs/CSPOC">	<img alt="stars" src="https://img.shields.io/github/stars/yqcs/CSPOC">
+- [burpheart/CVE-2022-39197-patch](https://github.com/burpheart/CVE-2022-39197-patch)	<img alt="forks" src="https://img.shields.io/github/forks/burpheart/CVE-2022-39197-patch">	<img alt="stars" src="https://img.shields.io/github/stars/burpheart/CVE-2022-39197-patch">
+- [lovechoudoufu/about_cobaltstrike4.5_cdf](https://github.com/lovechoudoufu/about_cobaltstrike4.5_cdf)	<img alt="forks" src="https://img.shields.io/github/forks/lovechoudoufu/about_cobaltstrike4.5_cdf">	<img alt="stars" src="https://img.shields.io/github/stars/lovechoudoufu/about_cobaltstrike4.5_cdf">
 
 ---
 ## CVE-2022-39196 (2022-09-05T00:15:00)
