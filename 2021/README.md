@@ -78,6 +78,7 @@
 > ASUS RT-AX56U Wi-Fi Router is vulnerable to stack-based buffer overflow due to improper validation for httpd parameter length. An authenticated local area network attacker can launch arbitrary code execution to control the system or disrupt service.
 - [Expl0desploit/CVE-2021-44158](https://github.com/Expl0desploit/CVE-2021-44158)	<img alt="forks" src="https://img.shields.io/github/forks/Expl0desploit/CVE-2021-44158">	<img alt="stars" src="https://img.shields.io/github/stars/Expl0desploit/CVE-2021-44158">
 - [expl0despl0it/CVE-2021-44158](https://github.com/expl0despl0it/CVE-2021-44158)	<img alt="forks" src="https://img.shields.io/github/forks/expl0despl0it/CVE-2021-44158">	<img alt="stars" src="https://img.shields.io/github/stars/expl0despl0it/CVE-2021-44158">
+- [c0resploit/CVE-2021-44158](https://github.com/c0resploit/CVE-2021-44158)	<img alt="forks" src="https://img.shields.io/github/forks/c0resploit/CVE-2021-44158">	<img alt="stars" src="https://img.shields.io/github/stars/c0resploit/CVE-2021-44158">
 
 ---
 ## CVE-2021-43811 (2021-12-08T23:15:00)

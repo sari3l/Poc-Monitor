@@ -407,6 +407,7 @@
 - [expl0despl0it/CVE-2022-32548](https://github.com/expl0despl0it/CVE-2022-32548)	<img alt="forks" src="https://img.shields.io/github/forks/expl0despl0it/CVE-2022-32548">	<img alt="stars" src="https://img.shields.io/github/stars/expl0despl0it/CVE-2022-32548">
 - [Xu0Tex1/CVE-2022-32548-Mass-Rce](https://github.com/Xu0Tex1/CVE-2022-32548-Mass-Rce)	<img alt="forks" src="https://img.shields.io/github/forks/Xu0Tex1/CVE-2022-32548-Mass-Rce">	<img alt="stars" src="https://img.shields.io/github/stars/Xu0Tex1/CVE-2022-32548-Mass-Rce">
 - [MaX0dexpoit/CVE-2022-32548](https://github.com/MaX0dexpoit/CVE-2022-32548)	<img alt="forks" src="https://img.shields.io/github/forks/MaX0dexpoit/CVE-2022-32548">	<img alt="stars" src="https://img.shields.io/github/stars/MaX0dexpoit/CVE-2022-32548">
+- [c0resploit/CVE-2022-32548](https://github.com/c0resploit/CVE-2022-32548)	<img alt="forks" src="https://img.shields.io/github/forks/c0resploit/CVE-2022-32548">	<img alt="stars" src="https://img.shields.io/github/stars/c0resploit/CVE-2022-32548">
 
 ---
 ## CVE-2022-32532 (2022-06-29T00:15:00)
@@ -999,6 +1000,7 @@
 - [Expl0desploit/CVE-2022-25845](https://github.com/Expl0desploit/CVE-2022-25845)	<img alt="forks" src="https://img.shields.io/github/forks/Expl0desploit/CVE-2022-25845">	<img alt="stars" src="https://img.shields.io/github/stars/Expl0desploit/CVE-2022-25845">
 - [expl0despl0it/CVE-2022-25845](https://github.com/expl0despl0it/CVE-2022-25845)	<img alt="forks" src="https://img.shields.io/github/forks/expl0despl0it/CVE-2022-25845">	<img alt="stars" src="https://img.shields.io/github/stars/expl0despl0it/CVE-2022-25845">
 - [hosch3n/FastjsonVulns](https://github.com/hosch3n/FastjsonVulns)	<img alt="forks" src="https://img.shields.io/github/forks/hosch3n/FastjsonVulns">	<img alt="stars" src="https://img.shields.io/github/stars/hosch3n/FastjsonVulns">
+- [c0resploit/CVE-2022-25845](https://github.com/c0resploit/CVE-2022-25845)	<img alt="forks" src="https://img.shields.io/github/forks/c0resploit/CVE-2022-25845">	<img alt="stars" src="https://img.shields.io/github/stars/c0resploit/CVE-2022-25845">
 
 ---
 ## CVE-2022-2546 ()
@@ -1395,6 +1397,7 @@
 - [Expl0desploit/CVE-2022-20841](https://github.com/Expl0desploit/CVE-2022-20841)	<img alt="forks" src="https://img.shields.io/github/forks/Expl0desploit/CVE-2022-20841">	<img alt="stars" src="https://img.shields.io/github/stars/Expl0desploit/CVE-2022-20841">
 - [Zerf0X/CVE-2022-20841-RCE](https://github.com/Zerf0X/CVE-2022-20841-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Zerf0X/CVE-2022-20841-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Zerf0X/CVE-2022-20841-RCE">
 - [expl0despl0it/CVE-2022-20841](https://github.com/expl0despl0it/CVE-2022-20841)	<img alt="forks" src="https://img.shields.io/github/forks/expl0despl0it/CVE-2022-20841">	<img alt="stars" src="https://img.shields.io/github/stars/expl0despl0it/CVE-2022-20841">
+- [c0resploit/CVE-2022-20841](https://github.com/c0resploit/CVE-2022-20841)	<img alt="forks" src="https://img.shields.io/github/forks/c0resploit/CVE-2022-20841">	<img alt="stars" src="https://img.shields.io/github/stars/c0resploit/CVE-2022-20841">
 
 ---
 ## CVE-2022-20361 (2022-08-10T20:15:00)
