@@ -71,3 +71,8 @@
 ## CVE-2016-0451 (2016-01-21T03:00:00)
 > Unspecified vulnerability in the Oracle GoldenGate component in Oracle GoldenGate 11.2 and 12.1.2 allows remote attackers to affect confidentiality, integrity, and availability via unknown vectors, a different vulnerability than CVE-2016-0452. Per Oracle:  The CVSS score is 10.0 only on Windows for Database versions prior to 12c. The CVSS is 7.5 (Confidentiality, Integrity and Availability is "Partial+") for Database 12c on Windows and for all versions of Database on Linux, Unix and other platforms.
 - [rwincey/Oracle-GoldenGate---CVE-2016-0451](https://github.com/rwincey/Oracle-GoldenGate---CVE-2016-0451)	<img alt="forks" src="https://img.shields.io/github/forks/rwincey/Oracle-GoldenGate---CVE-2016-0451">	<img alt="stars" src="https://img.shields.io/github/stars/rwincey/Oracle-GoldenGate---CVE-2016-0451">
+
+---
+## CVE-2016-0010 (2016-01-13T05:59:00)
+> Microsoft Office 2007 SP3, Office 2010 SP2, Office 2013 SP1, Office 2013 RT SP1, Office 2016, Excel for Mac 2011, PowerPoint for Mac 2011, Word for Mac 2011, Excel 2016 for Mac, PowerPoint 2016 for Mac, Word 2016 for Mac, and Word Viewer allow remote attackers to execute arbitrary code via a crafted Office document, aka "Microsoft Office Memory Corruption Vulnerability."
+- [Sunqiz/CVE-2016-0010-reproduction](https://github.com/Sunqiz/CVE-2016-0010-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Sunqiz/CVE-2016-0010-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Sunqiz/CVE-2016-0010-reproduction">
