@@ -181,6 +181,7 @@
 ## CVE-2022-36934 (2022-09-22T22:15:00)
 > An integer overflow in WhatsApp could result in remote code execution in an established video call.
 - [F1uk369/CVE-2022-36934](https://github.com/F1uk369/CVE-2022-36934)	<img alt="forks" src="https://img.shields.io/github/forks/F1uk369/CVE-2022-36934">	<img alt="stars" src="https://img.shields.io/github/stars/F1uk369/CVE-2022-36934">
+- [d4rk0x00/CVE-2022-36934-POC](https://github.com/d4rk0x00/CVE-2022-36934-POC)	<img alt="forks" src="https://img.shields.io/github/forks/d4rk0x00/CVE-2022-36934-POC">	<img alt="stars" src="https://img.shields.io/github/stars/d4rk0x00/CVE-2022-36934-POC">
 
 ---
 ## CVE-2022-36804 (2022-08-25T06:15:00)
