@@ -671,6 +671,7 @@
 - [winstxnhdw/CVE-2022-30190](https://github.com/winstxnhdw/CVE-2022-30190)	<img alt="forks" src="https://img.shields.io/github/forks/winstxnhdw/CVE-2022-30190">	<img alt="stars" src="https://img.shields.io/github/stars/winstxnhdw/CVE-2022-30190">
 - [Noxtal/follina](https://github.com/Noxtal/follina)	<img alt="forks" src="https://img.shields.io/github/forks/Noxtal/follina">	<img alt="stars" src="https://img.shields.io/github/stars/Noxtal/follina">
 - [jeffreybxu/five-nights-at-follina-s](https://github.com/jeffreybxu/five-nights-at-follina-s)	<img alt="forks" src="https://img.shields.io/github/forks/jeffreybxu/five-nights-at-follina-s">	<img alt="stars" src="https://img.shields.io/github/stars/jeffreybxu/five-nights-at-follina-s">
+- [flux10n/CVE-2022-30190](https://github.com/flux10n/CVE-2022-30190)	<img alt="forks" src="https://img.shields.io/github/forks/flux10n/CVE-2022-30190">	<img alt="stars" src="https://img.shields.io/github/stars/flux10n/CVE-2022-30190">
 
 ---
 ## CVE-2022-30136 (2022-06-15T22:15:00)
