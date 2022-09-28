@@ -11,6 +11,16 @@
 - [Vbedtt54e5/interesting-release-of-CVE-2022-63432](https://github.com/Vbedtt54e5/interesting-release-of-CVE-2022-63432)	<img alt="forks" src="https://img.shields.io/github/forks/Vbedtt54e5/interesting-release-of-CVE-2022-63432">	<img alt="stars" src="https://img.shields.io/github/stars/Vbedtt54e5/interesting-release-of-CVE-2022-63432">
 
 ---
+## CVE-2022-40916 ()
+> 
+- [whitej3rry/CVE-2022-40916](https://github.com/whitej3rry/CVE-2022-40916)	<img alt="forks" src="https://img.shields.io/github/forks/whitej3rry/CVE-2022-40916">	<img alt="stars" src="https://img.shields.io/github/stars/whitej3rry/CVE-2022-40916">
+
+---
+## CVE-2022-40490 ()
+> 
+- [whitej3rry/CVE-2022-40490](https://github.com/whitej3rry/CVE-2022-40490)	<img alt="forks" src="https://img.shields.io/github/forks/whitej3rry/CVE-2022-40490">	<img alt="stars" src="https://img.shields.io/github/stars/whitej3rry/CVE-2022-40490">
+
+---
 ## CVE-2022-40317 (2022-09-09T17:15:00)
 > OpenKM 6.3.11 allows stored XSS related to the javascript&colon; substring in an A element.
 - [izdiwho/CVE-2022-40317](https://github.com/izdiwho/CVE-2022-40317)	<img alt="forks" src="https://img.shields.io/github/forks/izdiwho/CVE-2022-40317">	<img alt="stars" src="https://img.shields.io/github/stars/izdiwho/CVE-2022-40317">
@@ -425,6 +435,7 @@
 ## CVE-2022-3236 (2022-09-23T13:15:00)
 > A code injection vulnerability in the User Portal and Webadmin allows a remote attacker to execute code in Sophos Firewall version v19.0 MR1 and older.
 - [Xu0Tex1/CVE-2022-3236](https://github.com/Xu0Tex1/CVE-2022-3236)	<img alt="forks" src="https://img.shields.io/github/forks/Xu0Tex1/CVE-2022-3236">	<img alt="stars" src="https://img.shields.io/github/stars/Xu0Tex1/CVE-2022-3236">
+- [Ziggy78/CVE-2022-3236-RCE-POC](https://github.com/Ziggy78/CVE-2022-3236-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Ziggy78/CVE-2022-3236-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Ziggy78/CVE-2022-3236-RCE-POC">
 
 ---
 ## CVE-2022-32250 (2022-06-02T21:15:00)
