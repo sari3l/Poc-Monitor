@@ -143,6 +143,11 @@
 - [forlin/CVE-2018-2628](https://github.com/forlin/CVE-2018-2628)	<img alt="forks" src="https://img.shields.io/github/forks/forlin/CVE-2018-2628">	<img alt="stars" src="https://img.shields.io/github/stars/forlin/CVE-2018-2628">
 
 ---
+## CVE-2018-25032 (2022-03-25T09:15:00)
+> zlib before 1.2.12 allows memory corruption when deflating (i.e., when compressing) if the input has many distant matches.
+- [Trinadh465/external_zlib_4.4_CVE-2018-25032](https://github.com/Trinadh465/external_zlib_4.4_CVE-2018-25032)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/external_zlib_4.4_CVE-2018-25032">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/external_zlib_4.4_CVE-2018-25032">
+
+---
 ## CVE-2018-25031 (2022-03-11T07:15:00)
 > Swagger UI before 4.1.3 could allow a remote attacker to conduct spoofing attacks. By persuading a victim to open a crafted URL, an attacker could exploit this vulnerability to display remote OpenAPI definitions.
 - [afine-com/CVE-2018-25031](https://github.com/afine-com/CVE-2018-25031)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2018-25031">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2018-25031">
