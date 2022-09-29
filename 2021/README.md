@@ -81,6 +81,12 @@
 - [c0resploit/CVE-2021-44158](https://github.com/c0resploit/CVE-2021-44158)	<img alt="forks" src="https://img.shields.io/github/forks/c0resploit/CVE-2021-44158">	<img alt="stars" src="https://img.shields.io/github/stars/c0resploit/CVE-2021-44158">
 
 ---
+## CVE-2021-44077 (2021-11-29T04:15:00)
+> Zoho ManageEngine ServiceDesk Plus before 11306, ServiceDesk Plus MSP before 10530, and SupportCenter Plus before 11014 are vulnerable to unauthenticated remote code execution. This is related to /RestAPI URLs in a servlet, and ImportTechnicians in the Struts configuration.
+- [pizza-power/Golang-CVE-2021-44077-POC](https://github.com/pizza-power/Golang-CVE-2021-44077-POC)	<img alt="forks" src="https://img.shields.io/github/forks/pizza-power/Golang-CVE-2021-44077-POC">	<img alt="stars" src="https://img.shields.io/github/stars/pizza-power/Golang-CVE-2021-44077-POC">
+- [horizon3ai/CVE-2021-44077](https://github.com/horizon3ai/CVE-2021-44077)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2021-44077">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2021-44077">
+
+---
 ## CVE-2021-43811 (2021-12-08T23:15:00)
 > Sockeye is an open-source sequence-to-sequence framework for Neural Machine Translation built on PyTorch. Sockeye uses YAML to store model and data configurations on disk. Versions below 2.3.24 use unsafe YAML loading, which can be made to execute arbitrary code embedded in config files. An attacker can add malicious code to the config file of a trained model and attempt to convince users to download and run it. If users run the model, the embedded code will run locally. The issue is fixed in version 2.3.24.
 - [s-index/CVE-2021-43811](https://github.com/s-index/CVE-2021-43811)	<img alt="forks" src="https://img.shields.io/github/forks/s-index/CVE-2021-43811">	<img alt="stars" src="https://img.shields.io/github/stars/s-index/CVE-2021-43811">
