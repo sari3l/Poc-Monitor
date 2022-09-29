@@ -425,6 +425,7 @@
 - [MaX0dexpoit/CVE-2022-32548](https://github.com/MaX0dexpoit/CVE-2022-32548)	<img alt="forks" src="https://img.shields.io/github/forks/MaX0dexpoit/CVE-2022-32548">	<img alt="stars" src="https://img.shields.io/github/stars/MaX0dexpoit/CVE-2022-32548">
 - [c0resploit/CVE-2022-32548](https://github.com/c0resploit/CVE-2022-32548)	<img alt="forks" src="https://img.shields.io/github/forks/c0resploit/CVE-2022-32548">	<img alt="stars" src="https://img.shields.io/github/stars/c0resploit/CVE-2022-32548">
 - [Xu0Tex1/CVE-2022-32548-RCE-POC](https://github.com/Xu0Tex1/CVE-2022-32548-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Xu0Tex1/CVE-2022-32548-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Xu0Tex1/CVE-2022-32548-RCE-POC">
+- [d4rk0x00/CVE-2022-32548-batch](https://github.com/d4rk0x00/CVE-2022-32548-batch)	<img alt="forks" src="https://img.shields.io/github/forks/d4rk0x00/CVE-2022-32548-batch">	<img alt="stars" src="https://img.shields.io/github/stars/d4rk0x00/CVE-2022-32548-batch">
 
 ---
 ## CVE-2022-32532 (2022-06-29T00:15:00)
