@@ -932,6 +932,12 @@
 - [scoobyd00bi/CVE-2022-26809-RCE](https://github.com/scoobyd00bi/CVE-2022-26809-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/scoobyd00bi/CVE-2022-26809-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/scoobyd00bi/CVE-2022-26809-RCE">
 
 ---
+## CVE-2022-26726 (2022-05-26T19:15:00)
+> This issue was addressed with improved checks. This issue is fixed in Security Update 2022-004 Catalina, watchOS 8.6, macOS Monterey 12.4, macOS Big Sur 11.6.6. An app may be able to capture a user's screen.
+- [acheong08/CVE-2022-26726-POC](https://github.com/acheong08/CVE-2022-26726-POC)	<img alt="forks" src="https://img.shields.io/github/forks/acheong08/CVE-2022-26726-POC">	<img alt="stars" src="https://img.shields.io/github/stars/acheong08/CVE-2022-26726-POC">
+- [XmasSnowISBACK/CVE-2022-26726](https://github.com/XmasSnowISBACK/CVE-2022-26726)	<img alt="forks" src="https://img.shields.io/github/forks/XmasSnowISBACK/CVE-2022-26726">	<img alt="stars" src="https://img.shields.io/github/stars/XmasSnowISBACK/CVE-2022-26726">
+
+---
 ## CVE-2022-2639 (2022-09-01T21:15:00)
 > An integer coercion error was found in the openvswitch kernel module. Given a sufficiently large number of actions, while copying and reserving memory for a new action of a new flow, the reserve_sfa_size() function does not return -EMSGSIZE as expected, potentially leading to an out-of-bounds write access. This flaw allows a local user to crash or potentially escalate their privileges on the system.
 - [veritas501/CVE-2022-2639-PipeVersion](https://github.com/veritas501/CVE-2022-2639-PipeVersion)	<img alt="forks" src="https://img.shields.io/github/forks/veritas501/CVE-2022-2639-PipeVersion">	<img alt="stars" src="https://img.shields.io/github/stars/veritas501/CVE-2022-2639-PipeVersion">
