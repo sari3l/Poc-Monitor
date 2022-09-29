@@ -26,6 +26,11 @@
 - [izdiwho/CVE-2022-40317](https://github.com/izdiwho/CVE-2022-40317)	<img alt="forks" src="https://img.shields.io/github/forks/izdiwho/CVE-2022-40317">	<img alt="stars" src="https://img.shields.io/github/stars/izdiwho/CVE-2022-40317">
 
 ---
+## CVE-2022-40126 ()
+> 
+- [LovelyWei/CVE-2022-40126](https://github.com/LovelyWei/CVE-2022-40126)	<img alt="forks" src="https://img.shields.io/github/forks/LovelyWei/CVE-2022-40126">	<img alt="stars" src="https://img.shields.io/github/stars/LovelyWei/CVE-2022-40126">
+
+---
 ## CVE-2022-39841 ()
 > 
 - [stealthcopter/CVE-2022-39841](https://github.com/stealthcopter/CVE-2022-39841)	<img alt="forks" src="https://img.shields.io/github/forks/stealthcopter/CVE-2022-39841">	<img alt="stars" src="https://img.shields.io/github/stars/stealthcopter/CVE-2022-39841">
