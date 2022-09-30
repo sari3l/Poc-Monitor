@@ -19,6 +19,7 @@
 ## CVE-2022-41082 ()
 > 
 - [revers0id/CVE-2022-41082-PoC](https://github.com/revers0id/CVE-2022-41082-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/revers0id/CVE-2022-41082-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/revers0id/CVE-2022-41082-PoC">
+- [TimWallbey/CVE-2022-41082-RCE](https://github.com/TimWallbey/CVE-2022-41082-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/TimWallbey/CVE-2022-41082-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/TimWallbey/CVE-2022-41082-RCE">
 
 ---
 ## CVE-2022-40916 ()
