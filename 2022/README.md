@@ -24,6 +24,11 @@
 - [R007er/CVE-2022-41082-POC](https://github.com/R007er/CVE-2022-41082-POC)	<img alt="forks" src="https://img.shields.io/github/forks/R007er/CVE-2022-41082-POC">	<img alt="stars" src="https://img.shields.io/github/stars/R007er/CVE-2022-41082-POC">
 
 ---
+## CVE-2022-41040 ()
+> 
+- [kev1n-beaum0nt/CVE-2022-41040-RCE-POC](https://github.com/kev1n-beaum0nt/CVE-2022-41040-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kev1n-beaum0nt/CVE-2022-41040-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kev1n-beaum0nt/CVE-2022-41040-RCE-POC">
+
+---
 ## CVE-2022-40916 ()
 > 
 - [whitej3rry/CVE-2022-40916](https://github.com/whitej3rry/CVE-2022-40916)	<img alt="forks" src="https://img.shields.io/github/forks/whitej3rry/CVE-2022-40916">	<img alt="stars" src="https://img.shields.io/github/stars/whitej3rry/CVE-2022-40916">
