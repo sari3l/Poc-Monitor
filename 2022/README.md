@@ -11,6 +11,11 @@
 - [Vbedtt54e5/interesting-release-of-CVE-2022-63432](https://github.com/Vbedtt54e5/interesting-release-of-CVE-2022-63432)	<img alt="forks" src="https://img.shields.io/github/forks/Vbedtt54e5/interesting-release-of-CVE-2022-63432">	<img alt="stars" src="https://img.shields.io/github/stars/Vbedtt54e5/interesting-release-of-CVE-2022-63432">
 
 ---
+## CVE-2022-41218 (2022-09-21T07:15:00)
+> In drivers/media/dvb-core/dmxdev.c in the Linux kernel through 5.19.10, there is a use-after-free caused by refcount races, affecting dvb_demux_open and dvb_dmxdev_release.
+- [V4bel/CVE-2022-41218](https://github.com/V4bel/CVE-2022-41218)	<img alt="forks" src="https://img.shields.io/github/forks/V4bel/CVE-2022-41218">	<img alt="stars" src="https://img.shields.io/github/stars/V4bel/CVE-2022-41218">
+
+---
 ## CVE-2022-40916 ()
 > 
 - [whitej3rry/CVE-2022-40916](https://github.com/whitej3rry/CVE-2022-40916)	<img alt="forks" src="https://img.shields.io/github/forks/whitej3rry/CVE-2022-40916">	<img alt="stars" src="https://img.shields.io/github/stars/whitej3rry/CVE-2022-40916">
@@ -431,6 +436,7 @@
 - [c0resploit/CVE-2022-32548](https://github.com/c0resploit/CVE-2022-32548)	<img alt="forks" src="https://img.shields.io/github/forks/c0resploit/CVE-2022-32548">	<img alt="stars" src="https://img.shields.io/github/stars/c0resploit/CVE-2022-32548">
 - [Xu0Tex1/CVE-2022-32548-RCE-POC](https://github.com/Xu0Tex1/CVE-2022-32548-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Xu0Tex1/CVE-2022-32548-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Xu0Tex1/CVE-2022-32548-RCE-POC">
 - [d4rk0x00/CVE-2022-32548-batch](https://github.com/d4rk0x00/CVE-2022-32548-batch)	<img alt="forks" src="https://img.shields.io/github/forks/d4rk0x00/CVE-2022-32548-batch">	<img alt="stars" src="https://img.shields.io/github/stars/d4rk0x00/CVE-2022-32548-batch">
+- [d4rk0x00/CVE-2022-32548-RCE](https://github.com/d4rk0x00/CVE-2022-32548-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/d4rk0x00/CVE-2022-32548-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/d4rk0x00/CVE-2022-32548-RCE">
 
 ---
 ## CVE-2022-32532 (2022-06-29T00:15:00)
