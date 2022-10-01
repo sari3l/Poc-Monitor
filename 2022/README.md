@@ -285,7 +285,7 @@
 ---
 ## CVE-2022-35914 (2022-09-19T16:15:00)
 > /vendor/htmlawed/htmlawed/htmLawedTest.php in the htmlawed module for GLPI through 10.0.2 allows PHP code injection.
-- [cactuschibre/CVE-2022-35914-poc](https://github.com/cactuschibre/CVE-2022-35914-poc)	<img alt="forks" src="https://img.shields.io/github/forks/cactuschibre/CVE-2022-35914-poc">	<img alt="stars" src="https://img.shields.io/github/stars/cactuschibre/CVE-2022-35914-poc">
+- [cosad3s/CVE-2022-35914-poc](https://github.com/cosad3s/CVE-2022-35914-poc)	<img alt="forks" src="https://img.shields.io/github/forks/cosad3s/CVE-2022-35914-poc">	<img alt="stars" src="https://img.shields.io/github/stars/cosad3s/CVE-2022-35914-poc">
 
 ---
 ## CVE-2022-35899 (2022-07-21T17:15:00)
