@@ -280,6 +280,11 @@
 - [MaherAzzouzi/CVE-2022-36162](https://github.com/MaherAzzouzi/CVE-2022-36162)	<img alt="forks" src="https://img.shields.io/github/forks/MaherAzzouzi/CVE-2022-36162">	<img alt="stars" src="https://img.shields.io/github/stars/MaherAzzouzi/CVE-2022-36162">
 
 ---
+## CVE-2022-35914 (2022-09-19T16:15:00)
+> /vendor/htmlawed/htmlawed/htmLawedTest.php in the htmlawed module for GLPI through 10.0.2 allows PHP code injection.
+- [cactuschibre/CVE-2022-35914-poc](https://github.com/cactuschibre/CVE-2022-35914-poc)	<img alt="forks" src="https://img.shields.io/github/forks/cactuschibre/CVE-2022-35914-poc">	<img alt="stars" src="https://img.shields.io/github/stars/cactuschibre/CVE-2022-35914-poc">
+
+---
 ## CVE-2022-35899 (2022-07-21T17:15:00)
 > There is an unquoted service path in ASUSTeK Aura Ready Game SDK service (GameSDK.exe) 1.0.0.4. This might allow a local user to escalate privileges by creating a %PROGRAMFILES(X86)%\ASUS\GameSDK.exe file.
 - [AngeloPioAmirante/CVE-2022-35899](https://github.com/AngeloPioAmirante/CVE-2022-35899)	<img alt="forks" src="https://img.shields.io/github/forks/AngeloPioAmirante/CVE-2022-35899">	<img alt="stars" src="https://img.shields.io/github/stars/AngeloPioAmirante/CVE-2022-35899">
