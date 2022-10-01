@@ -24,6 +24,11 @@
 - [s3rgeym/cve-2020-9006](https://github.com/s3rgeym/cve-2020-9006)	<img alt="forks" src="https://img.shields.io/github/forks/s3rgeym/cve-2020-9006">	<img alt="stars" src="https://img.shields.io/github/stars/s3rgeym/cve-2020-9006">
 
 ---
+## CVE-2020-8825 (2020-02-10T12:15:00)
+> index.php?p=/dashboard/settings/branding in Vanilla 2.6.3 allows stored XSS.
+- [hacky1997/CVE-2020-8825](https://github.com/hacky1997/CVE-2020-8825)	<img alt="forks" src="https://img.shields.io/github/forks/hacky1997/CVE-2020-8825">	<img alt="stars" src="https://img.shields.io/github/stars/hacky1997/CVE-2020-8825">
+
+---
 ## CVE-2020-8515 (2020-02-01T13:15:00)
 > DrayTek Vigor2960 1.3.1_Beta, Vigor3900 1.4.4_Beta, and Vigor300B 1.3.3_Beta, 1.4.2.1_Beta, and 1.4.4_Beta devices allow remote code execution as root (without authentication) via shell metacharacters to the cgi-bin/mainfunction.cgi URI. This issue has been fixed in Vigor3900/2960/300B v1.5.1.
 - [trhacknon/CVE-2020-8515-PoC](https://github.com/trhacknon/CVE-2020-8515-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2020-8515-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2020-8515-PoC">
