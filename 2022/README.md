@@ -27,6 +27,7 @@
 - [jml4da/CVE-2022-41082-POC](https://github.com/jml4da/CVE-2022-41082-POC)	<img alt="forks" src="https://img.shields.io/github/forks/jml4da/CVE-2022-41082-POC">	<img alt="stars" src="https://img.shields.io/github/stars/jml4da/CVE-2022-41082-POC">
 - [0daylabin/ProxyNotShell](https://github.com/0daylabin/ProxyNotShell)	<img alt="forks" src="https://img.shields.io/github/forks/0daylabin/ProxyNotShell">	<img alt="stars" src="https://img.shields.io/github/stars/0daylabin/ProxyNotShell">
 - [spher0X/CVE-2022-41082-RCE](https://github.com/spher0X/CVE-2022-41082-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/spher0X/CVE-2022-41082-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/spher0X/CVE-2022-41082-RCE">
+- [Diverto/nse-exchange](https://github.com/Diverto/nse-exchange)	<img alt="forks" src="https://img.shields.io/github/forks/Diverto/nse-exchange">	<img alt="stars" src="https://img.shields.io/github/stars/Diverto/nse-exchange">
 
 ---
 ## CVE-2022-41040 ()
@@ -472,6 +473,7 @@
 > A code injection vulnerability in the User Portal and Webadmin allows a remote attacker to execute code in Sophos Firewall version v19.0 MR1 and older.
 - [Xu0Tex1/CVE-2022-3236](https://github.com/Xu0Tex1/CVE-2022-3236)	<img alt="forks" src="https://img.shields.io/github/forks/Xu0Tex1/CVE-2022-3236">	<img alt="stars" src="https://img.shields.io/github/stars/Xu0Tex1/CVE-2022-3236">
 - [Ziggy78/CVE-2022-3236-RCE-POC](https://github.com/Ziggy78/CVE-2022-3236-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Ziggy78/CVE-2022-3236-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Ziggy78/CVE-2022-3236-RCE-POC">
+- [sevous/CVE-2022-3236-RCE](https://github.com/sevous/CVE-2022-3236-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/sevous/CVE-2022-3236-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/sevous/CVE-2022-3236-RCE">
 
 ---
 ## CVE-2022-32250 (2022-06-02T21:15:00)
