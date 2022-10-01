@@ -26,6 +26,7 @@
 - [R007er/CVE-2022-41082-RCE](https://github.com/R007er/CVE-2022-41082-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/R007er/CVE-2022-41082-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/R007er/CVE-2022-41082-RCE">
 - [jml4da/CVE-2022-41082-POC](https://github.com/jml4da/CVE-2022-41082-POC)	<img alt="forks" src="https://img.shields.io/github/forks/jml4da/CVE-2022-41082-POC">	<img alt="stars" src="https://img.shields.io/github/stars/jml4da/CVE-2022-41082-POC">
 - [0daylabin/ProxyNotShell](https://github.com/0daylabin/ProxyNotShell)	<img alt="forks" src="https://img.shields.io/github/forks/0daylabin/ProxyNotShell">	<img alt="stars" src="https://img.shields.io/github/stars/0daylabin/ProxyNotShell">
+- [spher0X/CVE-2022-41082-RCE](https://github.com/spher0X/CVE-2022-41082-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/spher0X/CVE-2022-41082-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/spher0X/CVE-2022-41082-RCE">
 
 ---
 ## CVE-2022-41040 ()
