@@ -24,6 +24,7 @@
 - [R007er/CVE-2022-41082-POC](https://github.com/R007er/CVE-2022-41082-POC)	<img alt="forks" src="https://img.shields.io/github/forks/R007er/CVE-2022-41082-POC">	<img alt="stars" src="https://img.shields.io/github/stars/R007er/CVE-2022-41082-POC">
 - [kev1n-beaum0nt/CVE-2022-41082-RCE-POC](https://github.com/kev1n-beaum0nt/CVE-2022-41082-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kev1n-beaum0nt/CVE-2022-41082-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kev1n-beaum0nt/CVE-2022-41082-RCE-POC">
 - [R007er/CVE-2022-41082-RCE](https://github.com/R007er/CVE-2022-41082-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/R007er/CVE-2022-41082-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/R007er/CVE-2022-41082-RCE">
+- [jml4da/CVE-2022-41082-POC](https://github.com/jml4da/CVE-2022-41082-POC)	<img alt="forks" src="https://img.shields.io/github/forks/jml4da/CVE-2022-41082-POC">	<img alt="stars" src="https://img.shields.io/github/stars/jml4da/CVE-2022-41082-POC">
 
 ---
 ## CVE-2022-41040 ()
