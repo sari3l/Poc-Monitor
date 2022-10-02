@@ -28,6 +28,8 @@
 - [0daylabin/ProxyNotShell](https://github.com/0daylabin/ProxyNotShell)	<img alt="forks" src="https://img.shields.io/github/forks/0daylabin/ProxyNotShell">	<img alt="stars" src="https://img.shields.io/github/stars/0daylabin/ProxyNotShell">
 - [spher0X/CVE-2022-41082-RCE](https://github.com/spher0X/CVE-2022-41082-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/spher0X/CVE-2022-41082-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/spher0X/CVE-2022-41082-RCE">
 - [Diverto/nse-exchange](https://github.com/Diverto/nse-exchange)	<img alt="forks" src="https://img.shields.io/github/forks/Diverto/nse-exchange">	<img alt="stars" src="https://img.shields.io/github/stars/Diverto/nse-exchange">
+- [krc0m/CVE-2022-41082](https://github.com/krc0m/CVE-2022-41082)	<img alt="forks" src="https://img.shields.io/github/forks/krc0m/CVE-2022-41082">	<img alt="stars" src="https://img.shields.io/github/stars/krc0m/CVE-2022-41082">
+- [mr-r3b00t/NotProxyShellHunter](https://github.com/mr-r3b00t/NotProxyShellHunter)	<img alt="forks" src="https://img.shields.io/github/forks/mr-r3b00t/NotProxyShellHunter">	<img alt="stars" src="https://img.shields.io/github/stars/mr-r3b00t/NotProxyShellHunter">
 
 ---
 ## CVE-2022-41040 ()
