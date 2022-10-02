@@ -644,6 +644,11 @@
 - [bl4ckmenace/CVE-2022-30709](https://github.com/bl4ckmenace/CVE-2022-30709)	<img alt="forks" src="https://img.shields.io/github/forks/bl4ckmenace/CVE-2022-30709">	<img alt="stars" src="https://img.shields.io/github/stars/bl4ckmenace/CVE-2022-30709">
 
 ---
+## CVE-2022-30600 (2022-05-18T18:15:00)
+> A flaw was found in moodle where logic used to count failed login attempts could result in the account lockout threshold being bypassed.
+- [Boonjune/POC-CVE-2022-30600](https://github.com/Boonjune/POC-CVE-2022-30600)	<img alt="forks" src="https://img.shields.io/github/forks/Boonjune/POC-CVE-2022-30600">	<img alt="stars" src="https://img.shields.io/github/stars/Boonjune/POC-CVE-2022-30600">
+
+---
 ## CVE-2022-30594 (2022-05-12T05:15:00)
 > The Linux kernel before 5.17.2 mishandles seccomp permissions. The PTRACE_SEIZE code path allows attackers to bypass intended restrictions on setting the PT_SUSPEND_SECCOMP flag.
 - [nidhi7598/linux-4.19.72_CVE-2022-30594](https://github.com/nidhi7598/linux-4.19.72_CVE-2022-30594)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.19.72_CVE-2022-30594">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.19.72_CVE-2022-30594">
