@@ -272,6 +272,20 @@
 - [gbonacini/openssh_password_logger](https://github.com/gbonacini/openssh_password_logger)	<img alt="forks" src="https://img.shields.io/github/forks/gbonacini/openssh_password_logger">	<img alt="stars" src="https://img.shields.io/github/stars/gbonacini/openssh_password_logger">
 
 ---
+## CVE-2018-14847 (2018-08-02T07:29:00)
+> MikroTik RouterOS through 6.42 allows unauthenticated remote attackers to read arbitrary files and remote authenticated attackers to write arbitrary files due to a directory traversal vulnerability in the WinBox interface.
+- [flux10n/CVE-2018-14847](https://github.com/flux10n/CVE-2018-14847)	<img alt="forks" src="https://img.shields.io/github/forks/flux10n/CVE-2018-14847">	<img alt="stars" src="https://img.shields.io/github/stars/flux10n/CVE-2018-14847">
+- [hacker30468/Mikrotik-router-hack](https://github.com/hacker30468/Mikrotik-router-hack)	<img alt="forks" src="https://img.shields.io/github/forks/hacker30468/Mikrotik-router-hack">	<img alt="stars" src="https://img.shields.io/github/stars/hacker30468/Mikrotik-router-hack">
+- [BasuCert/WinboxPoC](https://github.com/BasuCert/WinboxPoC)	<img alt="forks" src="https://img.shields.io/github/forks/BasuCert/WinboxPoC">	<img alt="stars" src="https://img.shields.io/github/stars/BasuCert/WinboxPoC">
+- [yukar1z0e/CVE-2018-14847](https://github.com/yukar1z0e/CVE-2018-14847)	<img alt="forks" src="https://img.shields.io/github/forks/yukar1z0e/CVE-2018-14847">	<img alt="stars" src="https://img.shields.io/github/stars/yukar1z0e/CVE-2018-14847">
+- [sinichi449/Python-MikrotikLoginExploit](https://github.com/sinichi449/Python-MikrotikLoginExploit)	<img alt="forks" src="https://img.shields.io/github/forks/sinichi449/Python-MikrotikLoginExploit">	<img alt="stars" src="https://img.shields.io/github/stars/sinichi449/Python-MikrotikLoginExploit">
+- [mahmoodsabir/mikrotik-beast](https://github.com/mahmoodsabir/mikrotik-beast)	<img alt="forks" src="https://img.shields.io/github/forks/mahmoodsabir/mikrotik-beast">	<img alt="stars" src="https://img.shields.io/github/stars/mahmoodsabir/mikrotik-beast">
+- [Tr33-He11/winboxPOC](https://github.com/Tr33-He11/winboxPOC)	<img alt="forks" src="https://img.shields.io/github/forks/Tr33-He11/winboxPOC">	<img alt="stars" src="https://img.shields.io/github/stars/Tr33-He11/winboxPOC">
+- [jas502n/CVE-2018-14847](https://github.com/jas502n/CVE-2018-14847)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2018-14847">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2018-14847">
+- [syrex1013/MikroRoot](https://github.com/syrex1013/MikroRoot)	<img alt="forks" src="https://img.shields.io/github/forks/syrex1013/MikroRoot">	<img alt="stars" src="https://img.shields.io/github/stars/syrex1013/MikroRoot">
+- [msterusky/WinboxExploit](https://github.com/msterusky/WinboxExploit)	<img alt="forks" src="https://img.shields.io/github/forks/msterusky/WinboxExploit">	<img alt="stars" src="https://img.shields.io/github/stars/msterusky/WinboxExploit">
+
+---
 ## CVE-2018-14699 (2018-12-03T22:29:00)
 > System command injection in the /DroboAccess/enable_user endpoint in Drobo 5N2 NAS version 4.0.5-13.28.96115 allows unauthenticated attackers to execute system commands via the "username" URL parameter.
 - [RevoCain/CVE-2018-14699](https://github.com/RevoCain/CVE-2018-14699)	<img alt="forks" src="https://img.shields.io/github/forks/RevoCain/CVE-2018-14699">	<img alt="stars" src="https://img.shields.io/github/stars/RevoCain/CVE-2018-14699">
