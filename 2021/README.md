@@ -398,6 +398,7 @@
 - [Naughty-SEC/pkexec-shell-executor](https://github.com/Naughty-SEC/pkexec-shell-executor)	<img alt="forks" src="https://img.shields.io/github/forks/Naughty-SEC/pkexec-shell-executor">	<img alt="stars" src="https://img.shields.io/github/stars/Naughty-SEC/pkexec-shell-executor">
 - [Pajarraco4444/CVE-2021-4034](https://github.com/Pajarraco4444/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/Pajarraco4444/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/Pajarraco4444/CVE-2021-4034">
 - [flux10n/CVE-2021-4034](https://github.com/flux10n/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/flux10n/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/flux10n/CVE-2021-4034">
+- [Senz4wa/CVE-2021-4034](https://github.com/Senz4wa/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/Senz4wa/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/Senz4wa/CVE-2021-4034">
 
 ---
 ## CVE-2021-39696 (2022-08-10T20:15:00)
@@ -517,6 +518,20 @@
 ## CVE-2021-35296 (2021-10-04T17:15:00)
 > An issue in the administrator authentication panel of PTCL HG150-Ub v3.0 allows attackers to bypass authentication via modification of the cookie value and Response Path.
 - [afaq1337/CVE-2021-35296](https://github.com/afaq1337/CVE-2021-35296)	<img alt="forks" src="https://img.shields.io/github/forks/afaq1337/CVE-2021-35296">	<img alt="stars" src="https://img.shields.io/github/stars/afaq1337/CVE-2021-35296">
+
+---
+## CVE-2021-3493 (2021-04-17T05:15:00)
+> The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.
+- [Senz4wa/CVE-2021-3493](https://github.com/Senz4wa/CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/Senz4wa/CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/Senz4wa/CVE-2021-3493">
+- [puckiestyle/CVE-2021-3493](https://github.com/puckiestyle/CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/puckiestyle/CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/puckiestyle/CVE-2021-3493">
+- [briskets/CVE-2021-3493](https://github.com/briskets/CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/briskets/CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/briskets/CVE-2021-3493">
+- [cerodah/overlayFS-CVE-2021-3493](https://github.com/cerodah/overlayFS-CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/cerodah/overlayFS-CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/cerodah/overlayFS-CVE-2021-3493">
+- [derek-turing/CVE-2021-3493](https://github.com/derek-turing/CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/derek-turing/CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/derek-turing/CVE-2021-3493">
+- [inspiringz/CVE-2021-3493](https://github.com/inspiringz/CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/inspiringz/CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/inspiringz/CVE-2021-3493">
+- [Ishan3011/CVE-2021-3493](https://github.com/Ishan3011/CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/Ishan3011/CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/Ishan3011/CVE-2021-3493">
+- [AmIAHuman/OverlayFS-CVE-2021-3493](https://github.com/AmIAHuman/OverlayFS-CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/AmIAHuman/OverlayFS-CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/AmIAHuman/OverlayFS-CVE-2021-3493">
+- [Abdennour-py/CVE-2021-3493](https://github.com/Abdennour-py/CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/Abdennour-py/CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/Abdennour-py/CVE-2021-3493">
+- [oneoy/CVE-2021-3493](https://github.com/oneoy/CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/oneoy/CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/oneoy/CVE-2021-3493">
 
 ---
 ## CVE-2021-34527 (2021-07-02T22:15:00)
