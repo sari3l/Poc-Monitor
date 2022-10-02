@@ -40,6 +40,7 @@
 ## CVE-2022-41040 ()
 > 
 - [kev1n-beaum0nt/CVE-2022-41040-RCE-POC](https://github.com/kev1n-beaum0nt/CVE-2022-41040-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kev1n-beaum0nt/CVE-2022-41040-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kev1n-beaum0nt/CVE-2022-41040-RCE-POC">
+- [numanturle/CVE-2022-41040](https://github.com/numanturle/CVE-2022-41040)	<img alt="forks" src="https://img.shields.io/github/forks/numanturle/CVE-2022-41040">	<img alt="stars" src="https://img.shields.io/github/stars/numanturle/CVE-2022-41040">
 
 ---
 ## CVE-2022-40916 ()
