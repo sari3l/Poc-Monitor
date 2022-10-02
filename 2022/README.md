@@ -16,6 +16,11 @@
 - [V4bel/CVE-2022-41218](https://github.com/V4bel/CVE-2022-41218)	<img alt="forks" src="https://img.shields.io/github/forks/V4bel/CVE-2022-41218">	<img alt="stars" src="https://img.shields.io/github/stars/V4bel/CVE-2022-41218">
 
 ---
+## CVE-2022-41208 ()
+> 
+- [L34ked/CVE-2022-41208](https://github.com/L34ked/CVE-2022-41208)	<img alt="forks" src="https://img.shields.io/github/forks/L34ked/CVE-2022-41208">	<img alt="stars" src="https://img.shields.io/github/stars/L34ked/CVE-2022-41208">
+
+---
 ## CVE-2022-41082 ()
 > 
 - [revers0id/CVE-2022-41082-PoC](https://github.com/revers0id/CVE-2022-41082-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/revers0id/CVE-2022-41082-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/revers0id/CVE-2022-41082-PoC">
