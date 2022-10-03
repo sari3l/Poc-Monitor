@@ -51,6 +51,14 @@
 - [CentarisCyber/CVE-2022-41040_Mitigation](https://github.com/CentarisCyber/CVE-2022-41040_Mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/CentarisCyber/CVE-2022-41040_Mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/CentarisCyber/CVE-2022-41040_Mitigation">
 
 ---
+## CVE-2022-410 ()
+> 
+- [Kevin-Lago/CVE-2022-410xx](https://github.com/Kevin-Lago/CVE-2022-410xx)	<img alt="forks" src="https://img.shields.io/github/forks/Kevin-Lago/CVE-2022-410xx">	<img alt="stars" src="https://img.shields.io/github/stars/Kevin-Lago/CVE-2022-410xx">
+- [CentarisCyber/CVE-2022-41040_Mitigation](https://github.com/CentarisCyber/CVE-2022-41040_Mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/CentarisCyber/CVE-2022-41040_Mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/CentarisCyber/CVE-2022-41040_Mitigation">
+- [b3w7/CVE-2022-41082-Scanner](https://github.com/b3w7/CVE-2022-41082-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/b3w7/CVE-2022-41082-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/b3w7/CVE-2022-41082-Scanner">
+- [numanturle/CVE-2022-41040](https://github.com/numanturle/CVE-2022-41040)	<img alt="forks" src="https://img.shields.io/github/forks/numanturle/CVE-2022-41040">	<img alt="stars" src="https://img.shields.io/github/stars/numanturle/CVE-2022-41040">
+
+---
 ## CVE-2022-40916 ()
 > 
 - [whitej3rry/CVE-2022-40916](https://github.com/whitej3rry/CVE-2022-40916)	<img alt="forks" src="https://img.shields.io/github/forks/whitej3rry/CVE-2022-40916">	<img alt="stars" src="https://img.shields.io/github/stars/whitej3rry/CVE-2022-40916">
