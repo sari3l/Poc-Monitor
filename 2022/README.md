@@ -38,6 +38,7 @@
 - [k1vin-beaumont/CVE-2022-41082-RCE-POC](https://github.com/k1vin-beaumont/CVE-2022-41082-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/k1vin-beaumont/CVE-2022-41082-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/k1vin-beaumont/CVE-2022-41082-RCE-POC">
 - [krc0m/CVE-2022-41082-POC](https://github.com/krc0m/CVE-2022-41082-POC)	<img alt="forks" src="https://img.shields.io/github/forks/krc0m/CVE-2022-41082-POC">	<img alt="stars" src="https://img.shields.io/github/stars/krc0m/CVE-2022-41082-POC">
 - [0xR0o7/CVE-2022-41082-MASS-RCE](https://github.com/0xR0o7/CVE-2022-41082-MASS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/0xR0o7/CVE-2022-41082-MASS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/0xR0o7/CVE-2022-41082-MASS-RCE">
+- [b3w7/CVE-2022-41082-Scanner](https://github.com/b3w7/CVE-2022-41082-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/b3w7/CVE-2022-41082-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/b3w7/CVE-2022-41082-Scanner">
 
 ---
 ## CVE-2022-41040 ()
@@ -46,6 +47,7 @@
 - [numanturle/CVE-2022-41040](https://github.com/numanturle/CVE-2022-41040)	<img alt="forks" src="https://img.shields.io/github/forks/numanturle/CVE-2022-41040">	<img alt="stars" src="https://img.shields.io/github/stars/numanturle/CVE-2022-41040">
 - [k1vin-beaumont/CVE-2022-41040-RCE-POC](https://github.com/k1vin-beaumont/CVE-2022-41040-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/k1vin-beaumont/CVE-2022-41040-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/k1vin-beaumont/CVE-2022-41040-RCE-POC">
 - [0xR0o7/CVE-2022-41082-MASS-RCE](https://github.com/0xR0o7/CVE-2022-41082-MASS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/0xR0o7/CVE-2022-41082-MASS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/0xR0o7/CVE-2022-41082-MASS-RCE">
+- [b3w7/CVE-2022-41082-Scanner](https://github.com/b3w7/CVE-2022-41082-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/b3w7/CVE-2022-41082-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/b3w7/CVE-2022-41082-Scanner">
 
 ---
 ## CVE-2022-40916 ()
