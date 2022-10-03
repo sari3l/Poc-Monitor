@@ -37,6 +37,7 @@
 - [mr-r3b00t/NotProxyShellHunter](https://github.com/mr-r3b00t/NotProxyShellHunter)	<img alt="forks" src="https://img.shields.io/github/forks/mr-r3b00t/NotProxyShellHunter">	<img alt="stars" src="https://img.shields.io/github/stars/mr-r3b00t/NotProxyShellHunter">
 - [k1vin-beaumont/CVE-2022-41082-RCE-POC](https://github.com/k1vin-beaumont/CVE-2022-41082-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/k1vin-beaumont/CVE-2022-41082-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/k1vin-beaumont/CVE-2022-41082-RCE-POC">
 - [krc0m/CVE-2022-41082-POC](https://github.com/krc0m/CVE-2022-41082-POC)	<img alt="forks" src="https://img.shields.io/github/forks/krc0m/CVE-2022-41082-POC">	<img alt="stars" src="https://img.shields.io/github/stars/krc0m/CVE-2022-41082-POC">
+- [0xR0o7/CVE-2022-41082-MASS-RCE](https://github.com/0xR0o7/CVE-2022-41082-MASS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/0xR0o7/CVE-2022-41082-MASS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/0xR0o7/CVE-2022-41082-MASS-RCE">
 
 ---
 ## CVE-2022-41040 ()
@@ -44,6 +45,7 @@
 - [kev1n-beaum0nt/CVE-2022-41040-RCE-POC](https://github.com/kev1n-beaum0nt/CVE-2022-41040-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kev1n-beaum0nt/CVE-2022-41040-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kev1n-beaum0nt/CVE-2022-41040-RCE-POC">
 - [numanturle/CVE-2022-41040](https://github.com/numanturle/CVE-2022-41040)	<img alt="forks" src="https://img.shields.io/github/forks/numanturle/CVE-2022-41040">	<img alt="stars" src="https://img.shields.io/github/stars/numanturle/CVE-2022-41040">
 - [k1vin-beaumont/CVE-2022-41040-RCE-POC](https://github.com/k1vin-beaumont/CVE-2022-41040-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/k1vin-beaumont/CVE-2022-41040-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/k1vin-beaumont/CVE-2022-41040-RCE-POC">
+- [0xR0o7/CVE-2022-41082-MASS-RCE](https://github.com/0xR0o7/CVE-2022-41082-MASS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/0xR0o7/CVE-2022-41082-MASS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/0xR0o7/CVE-2022-41082-MASS-RCE">
 
 ---
 ## CVE-2022-40916 ()
@@ -297,6 +299,7 @@
 ## CVE-2022-35914 (2022-09-19T16:15:00)
 > /vendor/htmlawed/htmlawed/htmLawedTest.php in the htmlawed module for GLPI through 10.0.2 allows PHP code injection.
 - [cosad3s/CVE-2022-35914-poc](https://github.com/cosad3s/CVE-2022-35914-poc)	<img alt="forks" src="https://img.shields.io/github/forks/cosad3s/CVE-2022-35914-poc">	<img alt="stars" src="https://img.shields.io/github/stars/cosad3s/CVE-2022-35914-poc">
+- [hughink/CVE-2022-35914-GLPI-](https://github.com/hughink/CVE-2022-35914-GLPI-)	<img alt="forks" src="https://img.shields.io/github/forks/hughink/CVE-2022-35914-GLPI-">	<img alt="stars" src="https://img.shields.io/github/stars/hughink/CVE-2022-35914-GLPI-">
 
 ---
 ## CVE-2022-35899 (2022-07-21T17:15:00)
