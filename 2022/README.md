@@ -70,6 +70,11 @@
 - [LovelyWei/CVE-2022-40126](https://github.com/LovelyWei/CVE-2022-40126)	<img alt="forks" src="https://img.shields.io/github/forks/LovelyWei/CVE-2022-40126">	<img alt="stars" src="https://img.shields.io/github/stars/LovelyWei/CVE-2022-40126">
 
 ---
+## CVE-2022-39959 ()
+> 
+- [usmarine2141/CVE-2022-39959](https://github.com/usmarine2141/CVE-2022-39959)	<img alt="forks" src="https://img.shields.io/github/forks/usmarine2141/CVE-2022-39959">	<img alt="stars" src="https://img.shields.io/github/stars/usmarine2141/CVE-2022-39959">
+
+---
 ## CVE-2022-39841 ()
 > 
 - [stealthcopter/CVE-2022-39841](https://github.com/stealthcopter/CVE-2022-39841)	<img alt="forks" src="https://img.shields.io/github/forks/stealthcopter/CVE-2022-39841">	<img alt="stars" src="https://img.shields.io/github/stars/stealthcopter/CVE-2022-39841">
