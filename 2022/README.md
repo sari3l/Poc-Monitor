@@ -35,12 +35,14 @@
 - [Diverto/nse-exchange](https://github.com/Diverto/nse-exchange)	<img alt="forks" src="https://img.shields.io/github/forks/Diverto/nse-exchange">	<img alt="stars" src="https://img.shields.io/github/stars/Diverto/nse-exchange">
 - [krc0m/CVE-2022-41082](https://github.com/krc0m/CVE-2022-41082)	<img alt="forks" src="https://img.shields.io/github/forks/krc0m/CVE-2022-41082">	<img alt="stars" src="https://img.shields.io/github/stars/krc0m/CVE-2022-41082">
 - [mr-r3b00t/NotProxyShellHunter](https://github.com/mr-r3b00t/NotProxyShellHunter)	<img alt="forks" src="https://img.shields.io/github/forks/mr-r3b00t/NotProxyShellHunter">	<img alt="stars" src="https://img.shields.io/github/stars/mr-r3b00t/NotProxyShellHunter">
+- [k1vin-beaumont/CVE-2022-41082-RCE-POC](https://github.com/k1vin-beaumont/CVE-2022-41082-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/k1vin-beaumont/CVE-2022-41082-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/k1vin-beaumont/CVE-2022-41082-RCE-POC">
 
 ---
 ## CVE-2022-41040 ()
 > 
 - [kev1n-beaum0nt/CVE-2022-41040-RCE-POC](https://github.com/kev1n-beaum0nt/CVE-2022-41040-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kev1n-beaum0nt/CVE-2022-41040-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kev1n-beaum0nt/CVE-2022-41040-RCE-POC">
 - [numanturle/CVE-2022-41040](https://github.com/numanturle/CVE-2022-41040)	<img alt="forks" src="https://img.shields.io/github/forks/numanturle/CVE-2022-41040">	<img alt="stars" src="https://img.shields.io/github/stars/numanturle/CVE-2022-41040">
+- [k1vin-beaumont/CVE-2022-41040-RCE-POC](https://github.com/k1vin-beaumont/CVE-2022-41040-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/k1vin-beaumont/CVE-2022-41040-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/k1vin-beaumont/CVE-2022-41040-RCE-POC">
 
 ---
 ## CVE-2022-40916 ()
