@@ -154,6 +154,13 @@
 - [Ls4ss/CVE-2020-29134](https://github.com/Ls4ss/CVE-2020-29134)	<img alt="forks" src="https://img.shields.io/github/forks/Ls4ss/CVE-2020-29134">	<img alt="stars" src="https://img.shields.io/github/stars/Ls4ss/CVE-2020-29134">
 
 ---
+## CVE-2020-28948 (2020-11-19T19:15:00)
+> Archive_Tar through 1.4.10 allows an unserialization attack because phar: is blocked but PHAR: is not blocked.
+- [JinHao-L/PoC-for-CVE-2020-28948-CVE-2020-28949](https://github.com/JinHao-L/PoC-for-CVE-2020-28948-CVE-2020-28949)	<img alt="forks" src="https://img.shields.io/github/forks/JinHao-L/PoC-for-CVE-2020-28948-CVE-2020-28949">	<img alt="stars" src="https://img.shields.io/github/stars/JinHao-L/PoC-for-CVE-2020-28948-CVE-2020-28949">
+- [nopdata/cve-2020-28948](https://github.com/nopdata/cve-2020-28948)	<img alt="forks" src="https://img.shields.io/github/forks/nopdata/cve-2020-28948">	<img alt="stars" src="https://img.shields.io/github/stars/nopdata/cve-2020-28948">
+- [0x240x23elu/CVE-2020-28948-and-CVE-2020-28949](https://github.com/0x240x23elu/CVE-2020-28948-and-CVE-2020-28949)	<img alt="forks" src="https://img.shields.io/github/forks/0x240x23elu/CVE-2020-28948-and-CVE-2020-28949">	<img alt="stars" src="https://img.shields.io/github/stars/0x240x23elu/CVE-2020-28948-and-CVE-2020-28949">
+
+---
 ## CVE-2020-27786 (2020-12-11T05:15:00)
 > A flaw was found in the Linux kernel’s implementation of MIDI, where an attacker with a local account and the permissions to issue ioctl commands to midi devices could trigger a use-after-free issue. A write to this specific memory while freed and before use causes the flow of execution to change and possibly allow for memory corruption or privilege escalation. The highest threat from this vulnerability is to confidentiality, integrity, as well as system availability.
 - [kiks7/CVE-2020-27786-Kernel-Exploit](https://github.com/kiks7/CVE-2020-27786-Kernel-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/kiks7/CVE-2020-27786-Kernel-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/kiks7/CVE-2020-27786-Kernel-Exploit">
