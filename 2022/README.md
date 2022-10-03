@@ -48,6 +48,7 @@
 - [k1vin-beaumont/CVE-2022-41040-RCE-POC](https://github.com/k1vin-beaumont/CVE-2022-41040-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/k1vin-beaumont/CVE-2022-41040-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/k1vin-beaumont/CVE-2022-41040-RCE-POC">
 - [0xR0o7/CVE-2022-41082-MASS-RCE](https://github.com/0xR0o7/CVE-2022-41082-MASS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/0xR0o7/CVE-2022-41082-MASS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/0xR0o7/CVE-2022-41082-MASS-RCE">
 - [b3w7/CVE-2022-41082-Scanner](https://github.com/b3w7/CVE-2022-41082-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/b3w7/CVE-2022-41082-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/b3w7/CVE-2022-41082-Scanner">
+- [CentarisCyber/CVE-2022-41040_Mitigation](https://github.com/CentarisCyber/CVE-2022-41040_Mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/CentarisCyber/CVE-2022-41040_Mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/CentarisCyber/CVE-2022-41040_Mitigation">
 
 ---
 ## CVE-2022-40916 ()
