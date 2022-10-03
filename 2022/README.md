@@ -36,6 +36,7 @@
 - [krc0m/CVE-2022-41082](https://github.com/krc0m/CVE-2022-41082)	<img alt="forks" src="https://img.shields.io/github/forks/krc0m/CVE-2022-41082">	<img alt="stars" src="https://img.shields.io/github/stars/krc0m/CVE-2022-41082">
 - [mr-r3b00t/NotProxyShellHunter](https://github.com/mr-r3b00t/NotProxyShellHunter)	<img alt="forks" src="https://img.shields.io/github/forks/mr-r3b00t/NotProxyShellHunter">	<img alt="stars" src="https://img.shields.io/github/stars/mr-r3b00t/NotProxyShellHunter">
 - [k1vin-beaumont/CVE-2022-41082-RCE-POC](https://github.com/k1vin-beaumont/CVE-2022-41082-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/k1vin-beaumont/CVE-2022-41082-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/k1vin-beaumont/CVE-2022-41082-RCE-POC">
+- [krc0m/CVE-2022-41082-POC](https://github.com/krc0m/CVE-2022-41082-POC)	<img alt="forks" src="https://img.shields.io/github/forks/krc0m/CVE-2022-41082-POC">	<img alt="stars" src="https://img.shields.io/github/stars/krc0m/CVE-2022-41082-POC">
 
 ---
 ## CVE-2022-41040 ()
