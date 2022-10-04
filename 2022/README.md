@@ -52,6 +52,7 @@
 - [b3w7/CVE-2022-41082-Scanner](https://github.com/b3w7/CVE-2022-41082-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/b3w7/CVE-2022-41082-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/b3w7/CVE-2022-41082-Scanner">
 - [CentarisCyber/CVE-2022-41040_Mitigation](https://github.com/CentarisCyber/CVE-2022-41040_Mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/CentarisCyber/CVE-2022-41040_Mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/CentarisCyber/CVE-2022-41040_Mitigation">
 - [kevin-beaumont/CVE-2022-41040-RCE-POC](https://github.com/kevin-beaumont/CVE-2022-41040-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kevin-beaumont/CVE-2022-41040-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kevin-beaumont/CVE-2022-41040-RCE-POC">
+- [r3dcl1ff/CVE-2022-41040](https://github.com/r3dcl1ff/CVE-2022-41040)	<img alt="forks" src="https://img.shields.io/github/forks/r3dcl1ff/CVE-2022-41040">	<img alt="stars" src="https://img.shields.io/github/stars/r3dcl1ff/CVE-2022-41040">
 
 ---
 ## CVE-2022-410 ()
@@ -320,6 +321,7 @@
 > /vendor/htmlawed/htmlawed/htmLawedTest.php in the htmlawed module for GLPI through 10.0.2 allows PHP code injection.
 - [cosad3s/CVE-2022-35914-poc](https://github.com/cosad3s/CVE-2022-35914-poc)	<img alt="forks" src="https://img.shields.io/github/forks/cosad3s/CVE-2022-35914-poc">	<img alt="stars" src="https://img.shields.io/github/stars/cosad3s/CVE-2022-35914-poc">
 - [hughink/CVE-2022-35914-GLPI-](https://github.com/hughink/CVE-2022-35914-GLPI-)	<img alt="forks" src="https://img.shields.io/github/forks/hughink/CVE-2022-35914-GLPI-">	<img alt="stars" src="https://img.shields.io/github/stars/hughink/CVE-2022-35914-GLPI-">
+- [AruiBlog/CVE-2022-35914](https://github.com/AruiBlog/CVE-2022-35914)	<img alt="forks" src="https://img.shields.io/github/forks/AruiBlog/CVE-2022-35914">	<img alt="stars" src="https://img.shields.io/github/stars/AruiBlog/CVE-2022-35914">
 
 ---
 ## CVE-2022-35899 (2022-07-21T17:15:00)
