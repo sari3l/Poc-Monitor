@@ -321,7 +321,7 @@
 > /vendor/htmlawed/htmlawed/htmLawedTest.php in the htmlawed module for GLPI through 10.0.2 allows PHP code injection.
 - [cosad3s/CVE-2022-35914-poc](https://github.com/cosad3s/CVE-2022-35914-poc)	<img alt="forks" src="https://img.shields.io/github/forks/cosad3s/CVE-2022-35914-poc">	<img alt="stars" src="https://img.shields.io/github/stars/cosad3s/CVE-2022-35914-poc">
 - [hughink/CVE-2022-35914-GLPI-](https://github.com/hughink/CVE-2022-35914-GLPI-)	<img alt="forks" src="https://img.shields.io/github/forks/hughink/CVE-2022-35914-GLPI-">	<img alt="stars" src="https://img.shields.io/github/stars/hughink/CVE-2022-35914-GLPI-">
-- [AruiBlog/CVE-2022-35914](https://github.com/AruiBlog/CVE-2022-35914)	<img alt="forks" src="https://img.shields.io/github/forks/AruiBlog/CVE-2022-35914">	<img alt="stars" src="https://img.shields.io/github/stars/AruiBlog/CVE-2022-35914">
+- [AruiBlog/CVE-2022-35914-GUI](https://github.com/AruiBlog/CVE-2022-35914-GUI)	<img alt="forks" src="https://img.shields.io/github/forks/AruiBlog/CVE-2022-35914-GUI">	<img alt="stars" src="https://img.shields.io/github/stars/AruiBlog/CVE-2022-35914-GUI">
 
 ---
 ## CVE-2022-35899 (2022-07-21T17:15:00)
