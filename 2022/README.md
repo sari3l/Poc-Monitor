@@ -279,6 +279,7 @@
 - [touchmycrazyredhat/CVE-2022-36804-RevSh](https://github.com/touchmycrazyredhat/CVE-2022-36804-RevSh)	<img alt="forks" src="https://img.shields.io/github/forks/touchmycrazyredhat/CVE-2022-36804-RevSh">	<img alt="stars" src="https://img.shields.io/github/stars/touchmycrazyredhat/CVE-2022-36804-RevSh">
 - [touchmycrazyredhat/CVE-2022-36804-ReverseShell](https://github.com/touchmycrazyredhat/CVE-2022-36804-ReverseShell)	<img alt="forks" src="https://img.shields.io/github/forks/touchmycrazyredhat/CVE-2022-36804-ReverseShell">	<img alt="stars" src="https://img.shields.io/github/stars/touchmycrazyredhat/CVE-2022-36804-ReverseShell">
 - [Inplex-sys/CVE-2022-36804](https://github.com/Inplex-sys/CVE-2022-36804)	<img alt="forks" src="https://img.shields.io/github/forks/Inplex-sys/CVE-2022-36804">	<img alt="stars" src="https://img.shields.io/github/stars/Inplex-sys/CVE-2022-36804">
+- [ColdFusionX/CVE-2022-36804](https://github.com/ColdFusionX/CVE-2022-36804)	<img alt="forks" src="https://img.shields.io/github/forks/ColdFusionX/CVE-2022-36804">	<img alt="stars" src="https://img.shields.io/github/stars/ColdFusionX/CVE-2022-36804">
 
 ---
 ## CVE-2022-36539 (2022-09-07T17:15:00)
