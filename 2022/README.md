@@ -54,6 +54,7 @@
 - [CentarisCyber/CVE-2022-41040_Mitigation](https://github.com/CentarisCyber/CVE-2022-41040_Mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/CentarisCyber/CVE-2022-41040_Mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/CentarisCyber/CVE-2022-41040_Mitigation">
 - [kevin-beaumont/CVE-2022-41040-RCE-POC](https://github.com/kevin-beaumont/CVE-2022-41040-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kevin-beaumont/CVE-2022-41040-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kevin-beaumont/CVE-2022-41040-RCE-POC">
 - [r3dcl1ff/CVE-2022-41040](https://github.com/r3dcl1ff/CVE-2022-41040)	<img alt="forks" src="https://img.shields.io/github/forks/r3dcl1ff/CVE-2022-41040">	<img alt="stars" src="https://img.shields.io/github/stars/r3dcl1ff/CVE-2022-41040">
+- [kevin-beaum0nt/CVE-2022-41040-RCE-POC](https://github.com/kevin-beaum0nt/CVE-2022-41040-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kevin-beaum0nt/CVE-2022-41040-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kevin-beaum0nt/CVE-2022-41040-RCE-POC">
 
 ---
 ## CVE-2022-410 ()
