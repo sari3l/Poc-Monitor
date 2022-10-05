@@ -42,6 +42,7 @@
 - [kevin-beaumont/CVE-2022-41082-RCE-POC](https://github.com/kevin-beaumont/CVE-2022-41082-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kevin-beaumont/CVE-2022-41082-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kevin-beaumont/CVE-2022-41082-RCE-POC">
 - [west-wind/Threat-Hunting-With-Splunk](https://github.com/west-wind/Threat-Hunting-With-Splunk)	<img alt="forks" src="https://img.shields.io/github/forks/west-wind/Threat-Hunting-With-Splunk">	<img alt="stars" src="https://img.shields.io/github/stars/west-wind/Threat-Hunting-With-Splunk">
 - [kevin-beaum0nt/CVE-2022-41082-RCE-POC](https://github.com/kevin-beaum0nt/CVE-2022-41082-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kevin-beaum0nt/CVE-2022-41082-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kevin-beaum0nt/CVE-2022-41082-RCE-POC">
+- [V1v3ns/CVE-2022-41082-RCE](https://github.com/V1v3ns/CVE-2022-41082-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/V1v3ns/CVE-2022-41082-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/V1v3ns/CVE-2022-41082-RCE">
 
 ---
 ## CVE-2022-41040 ()
