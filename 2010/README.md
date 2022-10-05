@@ -22,3 +22,16 @@
 > The Cinepak codec in Microsoft Windows XP SP2 and SP3, Windows Vista SP1 and SP2, and Windows 7 does not properly decompress media files, which allows remote attackers to execute arbitrary code via a crafted file, aka "Cinepak Codec Decompression Vulnerability."
 - [Sunqiz/CVE-2010-2553-reproduction](https://github.com/Sunqiz/CVE-2010-2553-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Sunqiz/CVE-2010-2553-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Sunqiz/CVE-2010-2553-reproduction">
 - [Sunqiz/cve-2010-2553-reproduction](https://github.com/Sunqiz/cve-2010-2553-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Sunqiz/cve-2010-2553-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Sunqiz/cve-2010-2553-reproduction">
+
+---
+## CVE-2010-2075 (2010-06-15T14:04:00)
+> UnrealIRCd 3.2.8.1, as distributed on certain mirror sites from November 2009 through June 2010, contains an externally introduced modification (Trojan Horse) in the DEBUG3_DOLOG_SYSTEM macro, which allows remote attackers to execute arbitrary commands. Per: http://www.unrealircd.com/txt/unrealsecadvisory.20100612.txt
+
+'Official precompiled Windows binaries (SSL and non-ssl) are NOT affected.
+
+CVS is also not affected.
+
+3.2.8 and any earlier versions are not affected.
+
+Any Unreal3.2.8.1.tar.gz downloaded BEFORE November 10 2009 should be safe, but you should really double-check, see next.'
+- [0bfxgh0st/cve-2010-2075](https://github.com/0bfxgh0st/cve-2010-2075)	<img alt="forks" src="https://img.shields.io/github/forks/0bfxgh0st/cve-2010-2075">	<img alt="stars" src="https://img.shields.io/github/stars/0bfxgh0st/cve-2010-2075">
