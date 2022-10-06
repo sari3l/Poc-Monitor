@@ -62,6 +62,7 @@
 - [anetworkca/Free-VOD-IPTV](https://github.com/anetworkca/Free-VOD-IPTV)	<img alt="forks" src="https://img.shields.io/github/forks/anetworkca/Free-VOD-IPTV">	<img alt="stars" src="https://img.shields.io/github/stars/anetworkca/Free-VOD-IPTV">
 - [anetworkca/Emulator-Website](https://github.com/anetworkca/Emulator-Website)	<img alt="forks" src="https://img.shields.io/github/forks/anetworkca/Emulator-Website">	<img alt="stars" src="https://img.shields.io/github/stars/anetworkca/Emulator-Website">
 - [anetworkca/Free-World-iptv](https://github.com/anetworkca/Free-World-iptv)	<img alt="forks" src="https://img.shields.io/github/forks/anetworkca/Free-World-iptv">	<img alt="stars" src="https://img.shields.io/github/stars/anetworkca/Free-World-iptv">
+- [d3duct1v/CVE-2022-41040](https://github.com/d3duct1v/CVE-2022-41040)	<img alt="forks" src="https://img.shields.io/github/forks/d3duct1v/CVE-2022-41040">	<img alt="stars" src="https://img.shields.io/github/stars/d3duct1v/CVE-2022-41040">
 
 ---
 ## CVE-2022-410 ()
