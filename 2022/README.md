@@ -44,6 +44,7 @@
 - [kevin-beaum0nt/CVE-2022-41082-RCE-POC](https://github.com/kevin-beaum0nt/CVE-2022-41082-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kevin-beaum0nt/CVE-2022-41082-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kevin-beaum0nt/CVE-2022-41082-RCE-POC">
 - [V1v3ns/CVE-2022-41082-RCE](https://github.com/V1v3ns/CVE-2022-41082-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/V1v3ns/CVE-2022-41082-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/V1v3ns/CVE-2022-41082-RCE">
 - [kev-beaumont/CVE-2022-41082-RCE-POC](https://github.com/kev-beaumont/CVE-2022-41082-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kev-beaumont/CVE-2022-41082-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kev-beaumont/CVE-2022-41082-RCE-POC">
+- [V1rpo/CVE-2022-41082-MASS-RCE](https://github.com/V1rpo/CVE-2022-41082-MASS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/V1rpo/CVE-2022-41082-MASS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/V1rpo/CVE-2022-41082-MASS-RCE">
 
 ---
 ## CVE-2022-41040 ()
