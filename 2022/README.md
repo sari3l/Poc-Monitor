@@ -45,6 +45,7 @@
 - [V1v3ns/CVE-2022-41082-RCE](https://github.com/V1v3ns/CVE-2022-41082-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/V1v3ns/CVE-2022-41082-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/V1v3ns/CVE-2022-41082-RCE">
 - [kev-beaumont/CVE-2022-41082-RCE-POC](https://github.com/kev-beaumont/CVE-2022-41082-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kev-beaumont/CVE-2022-41082-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kev-beaumont/CVE-2022-41082-RCE-POC">
 - [V1rpo/CVE-2022-41082-MASS-RCE](https://github.com/V1rpo/CVE-2022-41082-MASS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/V1rpo/CVE-2022-41082-MASS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/V1rpo/CVE-2022-41082-MASS-RCE">
+- [kevbeaumont/CVE-2022-41082-RCE-POC](https://github.com/kevbeaumont/CVE-2022-41082-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kevbeaumont/CVE-2022-41082-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kevbeaumont/CVE-2022-41082-RCE-POC">
 
 ---
 ## CVE-2022-41040 ()
@@ -66,6 +67,7 @@
 - [anetworkca/Free-World-iptv](https://github.com/anetworkca/Free-World-iptv)	<img alt="forks" src="https://img.shields.io/github/forks/anetworkca/Free-World-iptv">	<img alt="stars" src="https://img.shields.io/github/stars/anetworkca/Free-World-iptv">
 - [d3duct1v/CVE-2022-41040](https://github.com/d3duct1v/CVE-2022-41040)	<img alt="forks" src="https://img.shields.io/github/forks/d3duct1v/CVE-2022-41040">	<img alt="stars" src="https://img.shields.io/github/stars/d3duct1v/CVE-2022-41040">
 - [kev-beaumont/CVE-2022-41040-RCE-POC](https://github.com/kev-beaumont/CVE-2022-41040-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kev-beaumont/CVE-2022-41040-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kev-beaumont/CVE-2022-41040-RCE-POC">
+- [kevbeaumont/CVE-2022-41040-RCE-POC](https://github.com/kevbeaumont/CVE-2022-41040-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kevbeaumont/CVE-2022-41040-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kevbeaumont/CVE-2022-41040-RCE-POC">
 
 ---
 ## CVE-2022-410 ()
