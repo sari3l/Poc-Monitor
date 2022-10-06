@@ -74,6 +74,9 @@
 - [kozmer/log4j-shell-poc](https://github.com/kozmer/log4j-shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/kozmer/log4j-shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/kozmer/log4j-shell-poc">
 - [tg12/PoC_CVEs](https://github.com/tg12/PoC_CVEs)	<img alt="forks" src="https://img.shields.io/github/forks/tg12/PoC_CVEs">	<img alt="stars" src="https://img.shields.io/github/stars/tg12/PoC_CVEs">
 - [CreeperHost/Log4jPatcher](https://github.com/CreeperHost/Log4jPatcher)	<img alt="forks" src="https://img.shields.io/github/forks/CreeperHost/Log4jPatcher">	<img alt="stars" src="https://img.shields.io/github/stars/CreeperHost/Log4jPatcher">
+- [nu11secur1ty/CVE-2021-44228-VULN-APP](https://github.com/nu11secur1ty/CVE-2021-44228-VULN-APP)	<img alt="forks" src="https://img.shields.io/github/forks/nu11secur1ty/CVE-2021-44228-VULN-APP">	<img alt="stars" src="https://img.shields.io/github/stars/nu11secur1ty/CVE-2021-44228-VULN-APP">
+- [Joefreedy/Log4j-Windows-Scanner](https://github.com/Joefreedy/Log4j-Windows-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Joefreedy/Log4j-Windows-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Joefreedy/Log4j-Windows-Scanner">
+- [yahoo/check-log4j](https://github.com/yahoo/check-log4j)	<img alt="forks" src="https://img.shields.io/github/forks/yahoo/check-log4j">	<img alt="stars" src="https://img.shields.io/github/stars/yahoo/check-log4j">
 
 ---
 ## CVE-2021-44158 (2022-01-03T10:15:00)
