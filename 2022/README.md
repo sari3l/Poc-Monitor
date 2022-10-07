@@ -595,6 +595,11 @@
 - [irsl/CVE-2022-3168-adb-unexpected-reverse-forwards](https://github.com/irsl/CVE-2022-3168-adb-unexpected-reverse-forwards)	<img alt="forks" src="https://img.shields.io/github/forks/irsl/CVE-2022-3168-adb-unexpected-reverse-forwards">	<img alt="stars" src="https://img.shields.io/github/stars/irsl/CVE-2022-3168-adb-unexpected-reverse-forwards">
 
 ---
+## CVE-2022-31629 (2022-09-28T23:15:00)
+> In PHP versions before 7.4.31, 8.0.24 and 8.1.11, the vulnerability enables network and same-site attackers to set a standard insecure cookie in the victim's browser which is treated as a `__Host-` or `__Secure-` cookie by PHP applications.
+- [SilNex/CVE-2022-31629-poc](https://github.com/SilNex/CVE-2022-31629-poc)	<img alt="forks" src="https://img.shields.io/github/forks/SilNex/CVE-2022-31629-poc">	<img alt="stars" src="https://img.shields.io/github/stars/SilNex/CVE-2022-31629-poc">
+
+---
 ## CVE-2022-31499 (2022-08-25T23:15:00)
 > Nortek Linear eMerge E3-Series devices before 0.32-08f allow an unauthenticated attacker to inject OS commands via ReaderNo. NOTE: this issue exists because of an incomplete fix for CVE-2019-7256.
 - [omarhashem123/CVE-2022-31499](https://github.com/omarhashem123/CVE-2022-31499)	<img alt="forks" src="https://img.shields.io/github/forks/omarhashem123/CVE-2022-31499">	<img alt="stars" src="https://img.shields.io/github/stars/omarhashem123/CVE-2022-31499">
