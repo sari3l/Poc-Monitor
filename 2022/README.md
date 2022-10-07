@@ -46,6 +46,7 @@
 - [kev-beaumont/CVE-2022-41082-RCE-POC](https://github.com/kev-beaumont/CVE-2022-41082-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kev-beaumont/CVE-2022-41082-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kev-beaumont/CVE-2022-41082-RCE-POC">
 - [V1rpo/CVE-2022-41082-MASS-RCE](https://github.com/V1rpo/CVE-2022-41082-MASS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/V1rpo/CVE-2022-41082-MASS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/V1rpo/CVE-2022-41082-MASS-RCE">
 - [kevbeaumont/CVE-2022-41082-RCE-POC](https://github.com/kevbeaumont/CVE-2022-41082-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kevbeaumont/CVE-2022-41082-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kevbeaumont/CVE-2022-41082-RCE-POC">
+- [ZephrFish/NotProxyShellScanner](https://github.com/ZephrFish/NotProxyShellScanner)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/NotProxyShellScanner">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/NotProxyShellScanner">
 
 ---
 ## CVE-2022-41040 ()
@@ -398,6 +399,7 @@
 - [merlinepedra25/CVE-2022-34918-LPE-PoC](https://github.com/merlinepedra25/CVE-2022-34918-LPE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/merlinepedra25/CVE-2022-34918-LPE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/merlinepedra25/CVE-2022-34918-LPE-PoC">
 - [linulinu/CVE-2022-34918](https://github.com/linulinu/CVE-2022-34918)	<img alt="forks" src="https://img.shields.io/github/forks/linulinu/CVE-2022-34918">	<img alt="stars" src="https://img.shields.io/github/stars/linulinu/CVE-2022-34918">
 - [veritas501/CVE-2022-34918](https://github.com/veritas501/CVE-2022-34918)	<img alt="forks" src="https://img.shields.io/github/forks/veritas501/CVE-2022-34918">	<img alt="stars" src="https://img.shields.io/github/stars/veritas501/CVE-2022-34918">
+- [Sechack06/CVE-2022-34918](https://github.com/Sechack06/CVE-2022-34918)	<img alt="forks" src="https://img.shields.io/github/forks/Sechack06/CVE-2022-34918">	<img alt="stars" src="https://img.shields.io/github/stars/Sechack06/CVE-2022-34918">
 
 ---
 ## CVE-2022-34729 (2022-09-13T19:15:00)
