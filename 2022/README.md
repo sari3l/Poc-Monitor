@@ -1470,6 +1470,13 @@
 - [mchoudhary15/CVE-2022-22029-NFS-Server-](https://github.com/mchoudhary15/CVE-2022-22029-NFS-Server-)	<img alt="forks" src="https://img.shields.io/github/forks/mchoudhary15/CVE-2022-22029-NFS-Server-">	<img alt="stars" src="https://img.shields.io/github/stars/mchoudhary15/CVE-2022-22029-NFS-Server-">
 
 ---
+## CVE-2022-21971 (2022-02-09T17:15:00)
+> Windows Runtime Remote Code Execution Vulnerability.
+- [Malwareman007/CVE-2022-21971](https://github.com/Malwareman007/CVE-2022-21971)	<img alt="forks" src="https://img.shields.io/github/forks/Malwareman007/CVE-2022-21971">	<img alt="stars" src="https://img.shields.io/github/stars/Malwareman007/CVE-2022-21971">
+- [tufanturhan/CVE-2022-21971-Windows-Runtime-RCE](https://github.com/tufanturhan/CVE-2022-21971-Windows-Runtime-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/tufanturhan/CVE-2022-21971-Windows-Runtime-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/tufanturhan/CVE-2022-21971-Windows-Runtime-RCE">
+- [0vercl0k/CVE-2022-21971](https://github.com/0vercl0k/CVE-2022-21971)	<img alt="forks" src="https://img.shields.io/github/forks/0vercl0k/CVE-2022-21971">	<img alt="stars" src="https://img.shields.io/github/stars/0vercl0k/CVE-2022-21971">
+
+---
 ## CVE-2022-21894 (2022-01-11T21:15:00)
 > Secure Boot Security Feature Bypass Vulnerability.
 - [Wack0/CVE-2022-21894](https://github.com/Wack0/CVE-2022-21894)	<img alt="forks" src="https://img.shields.io/github/forks/Wack0/CVE-2022-21894">	<img alt="stars" src="https://img.shields.io/github/stars/Wack0/CVE-2022-21894">
