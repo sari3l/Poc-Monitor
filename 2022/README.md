@@ -1732,6 +1732,8 @@
 - [XmasSnowISBACK/CVE-2022-1040](https://github.com/XmasSnowISBACK/CVE-2022-1040)	<img alt="forks" src="https://img.shields.io/github/forks/XmasSnowISBACK/CVE-2022-1040">	<img alt="stars" src="https://img.shields.io/github/stars/XmasSnowISBACK/CVE-2022-1040">
 - [killvxk/CVE-2022-1040](https://github.com/killvxk/CVE-2022-1040)	<img alt="forks" src="https://img.shields.io/github/forks/killvxk/CVE-2022-1040">	<img alt="stars" src="https://img.shields.io/github/stars/killvxk/CVE-2022-1040">
 - [Administrative2022/CVE-2022-1040](https://github.com/Administrative2022/CVE-2022-1040)	<img alt="forks" src="https://img.shields.io/github/forks/Administrative2022/CVE-2022-1040">	<img alt="stars" src="https://img.shields.io/github/stars/Administrative2022/CVE-2022-1040">
+- [Keith-amateur/cve-2022-1040](https://github.com/Keith-amateur/cve-2022-1040)	<img alt="forks" src="https://img.shields.io/github/forks/Keith-amateur/cve-2022-1040">	<img alt="stars" src="https://img.shields.io/github/stars/Keith-amateur/cve-2022-1040">
+- [jam620/Sophos-Vulnerability](https://github.com/jam620/Sophos-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/jam620/Sophos-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/jam620/Sophos-Vulnerability">
 
 ---
 ## CVE-2022-0848 (2022-03-04T09:15:00)
