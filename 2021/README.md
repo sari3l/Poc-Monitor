@@ -670,6 +670,12 @@
 - [daedalus/CVE-2021-30461](https://github.com/daedalus/CVE-2021-30461)	<img alt="forks" src="https://img.shields.io/github/forks/daedalus/CVE-2021-30461">	<img alt="stars" src="https://img.shields.io/github/stars/daedalus/CVE-2021-30461">
 
 ---
+## CVE-2021-29156 (2021-03-25T09:15:00)
+> ForgeRock OpenAM before 13.5.1 allows LDAP injection via the Webfinger protocol. For example, an unauthenticated attacker can perform character-by-character retrieval of password hashes, or retrieve a session token or a private key.
+- [5amu/CVE-2021-29156](https://github.com/5amu/CVE-2021-29156)	<img alt="forks" src="https://img.shields.io/github/forks/5amu/CVE-2021-29156">	<img alt="stars" src="https://img.shields.io/github/stars/5amu/CVE-2021-29156">
+- [guidepointsecurity/CVE-2021-29156](https://github.com/guidepointsecurity/CVE-2021-29156)	<img alt="forks" src="https://img.shields.io/github/forks/guidepointsecurity/CVE-2021-29156">	<img alt="stars" src="https://img.shields.io/github/stars/guidepointsecurity/CVE-2021-29156">
+
+---
 ## CVE-2021-27965 (2021-03-05T02:15:00)
 > The MsIo64.sys driver before 1.1.19.1016 in MSI Dragon Center before 2.0.98.0 has a buffer overflow that allows privilege escalation via a crafted 0x80102040, 0x80102044, 0x80102050, or 0x80102054 IOCTL request.
 - [Exploitables/CVE-2021-27965](https://github.com/Exploitables/CVE-2021-27965)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2021-27965">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2021-27965">
