@@ -980,6 +980,8 @@
 > Windows Network File System Remote Code Execution Vulnerability.
 - [omair2084/CVE-2022-26937](https://github.com/omair2084/CVE-2022-26937)	<img alt="forks" src="https://img.shields.io/github/forks/omair2084/CVE-2022-26937">	<img alt="stars" src="https://img.shields.io/github/stars/omair2084/CVE-2022-26937">
 - [i6c/CVE-2022-26937](https://github.com/i6c/CVE-2022-26937)	<img alt="forks" src="https://img.shields.io/github/forks/i6c/CVE-2022-26937">	<img alt="stars" src="https://img.shields.io/github/stars/i6c/CVE-2022-26937">
+- [Malwareman007/CVE-2022-26937](https://github.com/Malwareman007/CVE-2022-26937)	<img alt="forks" src="https://img.shields.io/github/forks/Malwareman007/CVE-2022-26937">	<img alt="stars" src="https://img.shields.io/github/stars/Malwareman007/CVE-2022-26937">
+- [corelight/CVE-2022-26937](https://github.com/corelight/CVE-2022-26937)	<img alt="forks" src="https://img.shields.io/github/forks/corelight/CVE-2022-26937">	<img alt="stars" src="https://img.shields.io/github/stars/corelight/CVE-2022-26937">
 
 ---
 ## CVE-2022-26923 (2022-05-10T21:15:00)
