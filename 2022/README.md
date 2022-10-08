@@ -521,6 +521,7 @@
 - [Xu0Tex1/CVE-2022-32548-RCE-POC](https://github.com/Xu0Tex1/CVE-2022-32548-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Xu0Tex1/CVE-2022-32548-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Xu0Tex1/CVE-2022-32548-RCE-POC">
 - [d4rk0x00/CVE-2022-32548-batch](https://github.com/d4rk0x00/CVE-2022-32548-batch)	<img alt="forks" src="https://img.shields.io/github/forks/d4rk0x00/CVE-2022-32548-batch">	<img alt="stars" src="https://img.shields.io/github/stars/d4rk0x00/CVE-2022-32548-batch">
 - [d4rk0x00/CVE-2022-32548-RCE](https://github.com/d4rk0x00/CVE-2022-32548-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/d4rk0x00/CVE-2022-32548-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/d4rk0x00/CVE-2022-32548-RCE">
+- [uisvit/CVE-2022-32548-MASS-RCE](https://github.com/uisvit/CVE-2022-32548-MASS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/uisvit/CVE-2022-32548-MASS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/uisvit/CVE-2022-32548-MASS-RCE">
 
 ---
 ## CVE-2022-32532 (2022-06-29T00:15:00)
