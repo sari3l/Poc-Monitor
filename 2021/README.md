@@ -138,6 +138,7 @@
 - [xnyuq/cve-2021-42321](https://github.com/xnyuq/cve-2021-42321)	<img alt="forks" src="https://img.shields.io/github/forks/xnyuq/cve-2021-42321">	<img alt="stars" src="https://img.shields.io/github/stars/xnyuq/cve-2021-42321">
 - [timb-machine-mirrors/CVE-2021-42321_poc](https://github.com/timb-machine-mirrors/CVE-2021-42321_poc)	<img alt="forks" src="https://img.shields.io/github/forks/timb-machine-mirrors/CVE-2021-42321_poc">	<img alt="stars" src="https://img.shields.io/github/stars/timb-machine-mirrors/CVE-2021-42321_poc">
 - [DarkSprings/CVE-2021-42321](https://github.com/DarkSprings/CVE-2021-42321)	<img alt="forks" src="https://img.shields.io/github/forks/DarkSprings/CVE-2021-42321">	<img alt="stars" src="https://img.shields.io/github/stars/DarkSprings/CVE-2021-42321">
+- [7BitsTeam/exch_CVE-2021-42321](https://github.com/7BitsTeam/exch_CVE-2021-42321)	<img alt="forks" src="https://img.shields.io/github/forks/7BitsTeam/exch_CVE-2021-42321">	<img alt="stars" src="https://img.shields.io/github/stars/7BitsTeam/exch_CVE-2021-42321">
 
 ---
 ## CVE-2021-42237 (2021-11-05T10:15:00)

@@ -50,6 +50,7 @@
 - [kevibeaumont/CVE-2022-41082-RCE-POC](https://github.com/kevibeaumont/CVE-2022-41082-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kevibeaumont/CVE-2022-41082-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kevibeaumont/CVE-2022-41082-RCE-POC">
 - [b3wT/CVE-2022-41082-MASS-SCANNER](https://github.com/b3wT/CVE-2022-41082-MASS-SCANNER)	<img alt="forks" src="https://img.shields.io/github/forks/b3wT/CVE-2022-41082-MASS-SCANNER">	<img alt="stars" src="https://img.shields.io/github/stars/b3wT/CVE-2022-41082-MASS-SCANNER">
 - [t0mby/CVE-2022-41082-RCE](https://github.com/t0mby/CVE-2022-41082-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/t0mby/CVE-2022-41082-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/t0mby/CVE-2022-41082-RCE">
+- [gitzero0/ProxyNotShell](https://github.com/gitzero0/ProxyNotShell)	<img alt="forks" src="https://img.shields.io/github/forks/gitzero0/ProxyNotShell">	<img alt="stars" src="https://img.shields.io/github/stars/gitzero0/ProxyNotShell">
 
 ---
 ## CVE-2022-41040 ()
