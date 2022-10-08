@@ -1160,6 +1160,11 @@
 - [yuriisanin/CVE-2022-25260](https://github.com/yuriisanin/CVE-2022-25260)	<img alt="forks" src="https://img.shields.io/github/forks/yuriisanin/CVE-2022-25260">	<img alt="stars" src="https://img.shields.io/github/stars/yuriisanin/CVE-2022-25260">
 
 ---
+## CVE-2022-24999 ()
+> 
+- [n8tz/CVE-2022-24999](https://github.com/n8tz/CVE-2022-24999)	<img alt="forks" src="https://img.shields.io/github/forks/n8tz/CVE-2022-24999">	<img alt="stars" src="https://img.shields.io/github/stars/n8tz/CVE-2022-24999">
+
+---
 ## CVE-2022-24853 (2022-04-14T22:15:00)
 > Metabase is an open source business intelligence and analytics application. Metabase has a proxy to load arbitrary URLs for JSON maps as part of our GeoJSON support. While we do validation to not return contents of arbitrary URLs, there is a case where a particularly crafted request could result in file access on windows, which allows enabling an `NTLM relay attack`, potentially allowing an attacker to receive the system password hash. If you use Windows and are on this version of Metabase, please upgrade immediately. The following patches (or greater versions) are available: 0.42.4 and 1.42.4, 0.41.7 and 1.41.7, 0.40.8 and 1.40.8.
 - [secure-77/CVE-2022-24853](https://github.com/secure-77/CVE-2022-24853)	<img alt="forks" src="https://img.shields.io/github/forks/secure-77/CVE-2022-24853">	<img alt="stars" src="https://img.shields.io/github/stars/secure-77/CVE-2022-24853">
