@@ -48,6 +48,7 @@
 - [kevbeaumont/CVE-2022-41082-RCE-POC](https://github.com/kevbeaumont/CVE-2022-41082-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kevbeaumont/CVE-2022-41082-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kevbeaumont/CVE-2022-41082-RCE-POC">
 - [ZephrFish/NotProxyShellScanner](https://github.com/ZephrFish/NotProxyShellScanner)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/NotProxyShellScanner">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/NotProxyShellScanner">
 - [kevibeaumont/CVE-2022-41082-RCE-POC](https://github.com/kevibeaumont/CVE-2022-41082-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kevibeaumont/CVE-2022-41082-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kevibeaumont/CVE-2022-41082-RCE-POC">
+- [b3wT/CVE-2022-41082-MASS-SCANNER](https://github.com/b3wT/CVE-2022-41082-MASS-SCANNER)	<img alt="forks" src="https://img.shields.io/github/forks/b3wT/CVE-2022-41082-MASS-SCANNER">	<img alt="stars" src="https://img.shields.io/github/stars/b3wT/CVE-2022-41082-MASS-SCANNER">
 
 ---
 ## CVE-2022-41040 ()
@@ -71,6 +72,7 @@
 - [kev-beaumont/CVE-2022-41040-RCE-POC](https://github.com/kev-beaumont/CVE-2022-41040-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kev-beaumont/CVE-2022-41040-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kev-beaumont/CVE-2022-41040-RCE-POC">
 - [kevbeaumont/CVE-2022-41040-RCE-POC](https://github.com/kevbeaumont/CVE-2022-41040-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kevbeaumont/CVE-2022-41040-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kevbeaumont/CVE-2022-41040-RCE-POC">
 - [kevibeaumont/CVE-2022-41040-RCE-POC](https://github.com/kevibeaumont/CVE-2022-41040-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kevibeaumont/CVE-2022-41040-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kevibeaumont/CVE-2022-41040-RCE-POC">
+- [b3wT/CVE-2022-41082-MASS-SCANNER](https://github.com/b3wT/CVE-2022-41082-MASS-SCANNER)	<img alt="forks" src="https://img.shields.io/github/forks/b3wT/CVE-2022-41082-MASS-SCANNER">	<img alt="stars" src="https://img.shields.io/github/stars/b3wT/CVE-2022-41082-MASS-SCANNER">
 
 ---
 ## CVE-2022-410 ()

@@ -171,6 +171,11 @@
 - [swzhouu/CVE-2020-27368](https://github.com/swzhouu/CVE-2020-27368)	<img alt="forks" src="https://img.shields.io/github/forks/swzhouu/CVE-2020-27368">	<img alt="stars" src="https://img.shields.io/github/stars/swzhouu/CVE-2020-27368">
 
 ---
+## CVE-2020-26878 (2020-10-26T20:15:00)
+> Ruckus through 1.5.1.0.21 is affected by remote command injection. An authenticated user can submit a query to the API (/service/v1/createUser endpoint), injecting arbitrary commands that will be executed as root user via web.py.
+- [htarsoo/CVE-2020-26878](https://github.com/htarsoo/CVE-2020-26878)	<img alt="forks" src="https://img.shields.io/github/forks/htarsoo/CVE-2020-26878">	<img alt="stars" src="https://img.shields.io/github/stars/htarsoo/CVE-2020-26878">
+
+---
 ## CVE-2020-26733 (2021-01-14T16:15:00)
 > Cross Site Scripting (XSS) in Configuration page in SKYWORTH GN542VF Hardware Version 2.0 and Software Version 2.0.0.16 allows authenticated attacker to inject their own script into the page via DDNS Configuration Section.
 - [swzhouu/CVE-2020-26733](https://github.com/swzhouu/CVE-2020-26733)	<img alt="forks" src="https://img.shields.io/github/forks/swzhouu/CVE-2020-26733">	<img alt="stars" src="https://img.shields.io/github/stars/swzhouu/CVE-2020-26733">
