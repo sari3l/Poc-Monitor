@@ -729,6 +729,8 @@
 - [TaroballzChen/ProxyLogon-CVE-2021-26855-metasploit](https://github.com/TaroballzChen/ProxyLogon-CVE-2021-26855-metasploit)	<img alt="forks" src="https://img.shields.io/github/forks/TaroballzChen/ProxyLogon-CVE-2021-26855-metasploit">	<img alt="stars" src="https://img.shields.io/github/stars/TaroballzChen/ProxyLogon-CVE-2021-26855-metasploit">
 - [p0wershe11/ProxyLogon](https://github.com/p0wershe11/ProxyLogon)	<img alt="forks" src="https://img.shields.io/github/forks/p0wershe11/ProxyLogon">	<img alt="stars" src="https://img.shields.io/github/stars/p0wershe11/ProxyLogon">
 - [sotiriskar/CVE-2021-26855](https://github.com/sotiriskar/CVE-2021-26855)	<img alt="forks" src="https://img.shields.io/github/forks/sotiriskar/CVE-2021-26855">	<img alt="stars" src="https://img.shields.io/github/stars/sotiriskar/CVE-2021-26855">
+- [ZephrFish/Exch-CVE-2021-26855_Priv](https://github.com/ZephrFish/Exch-CVE-2021-26855_Priv)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/Exch-CVE-2021-26855_Priv">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/Exch-CVE-2021-26855_Priv">
+- [catmandx/CVE-2021-26855-Exchange-RCE](https://github.com/catmandx/CVE-2021-26855-Exchange-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/catmandx/CVE-2021-26855-Exchange-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/catmandx/CVE-2021-26855-Exchange-RCE">
 
 ---
 ## CVE-2021-26294 (2021-03-07T04:15:00)
