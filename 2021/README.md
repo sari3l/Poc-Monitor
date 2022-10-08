@@ -310,6 +310,12 @@
 - [l00neyhacker/CVE-2021-40649](https://github.com/l00neyhacker/CVE-2021-40649)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2021-40649">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2021-40649">
 
 ---
+## CVE-2021-4045 (2022-03-10T17:44:00)
+> TP-Link Tapo C200 IP camera, on its 1.1.15 firmware version and below, is affected by an unauthenticated RCE vulnerability, present in the uhttpd binary running by default as root. The exploitation of this vulnerability allows an attacker to take full control of the camera.
+- [1x019/CVE-2021-4045](https://github.com/1x019/CVE-2021-4045)	<img alt="forks" src="https://img.shields.io/github/forks/1x019/CVE-2021-4045">	<img alt="stars" src="https://img.shields.io/github/stars/1x019/CVE-2021-4045">
+- [hacefresko/CVE-2021-4045-PoC](https://github.com/hacefresko/CVE-2021-4045-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/hacefresko/CVE-2021-4045-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/hacefresko/CVE-2021-4045-PoC">
+
+---
 ## CVE-2021-40444 (2021-09-15T12:15:00)
 > Microsoft MSHTML Remote Code Execution Vulnerability
 - [klezVirus/CVE-2021-40444](https://github.com/klezVirus/CVE-2021-40444)	<img alt="forks" src="https://img.shields.io/github/forks/klezVirus/CVE-2021-40444">	<img alt="stars" src="https://img.shields.io/github/stars/klezVirus/CVE-2021-40444">
