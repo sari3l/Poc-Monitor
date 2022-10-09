@@ -1139,6 +1139,7 @@
 - [shiftsansan/CVE-2022-26134-Console](https://github.com/shiftsansan/CVE-2022-26134-Console)	<img alt="forks" src="https://img.shields.io/github/forks/shiftsansan/CVE-2022-26134-Console">	<img alt="stars" src="https://img.shields.io/github/stars/shiftsansan/CVE-2022-26134-Console">
 - [1337in/CVE-2022-26134web](https://github.com/1337in/CVE-2022-26134web)	<img alt="forks" src="https://img.shields.io/github/forks/1337in/CVE-2022-26134web">	<img alt="stars" src="https://img.shields.io/github/stars/1337in/CVE-2022-26134web">
 - [trhacknon/CVE-2022-26134-miam](https://github.com/trhacknon/CVE-2022-26134-miam)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-26134-miam">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-26134-miam">
+- [skhalsa-sigsci/CVE-2022-26134-LAB](https://github.com/skhalsa-sigsci/CVE-2022-26134-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/skhalsa-sigsci/CVE-2022-26134-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/skhalsa-sigsci/CVE-2022-26134-LAB">
 
 ---
 ## CVE-2022-2588 ()
