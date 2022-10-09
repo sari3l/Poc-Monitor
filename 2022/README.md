@@ -90,6 +90,11 @@
 - [whitej3rry/CVE-2022-40916](https://github.com/whitej3rry/CVE-2022-40916)	<img alt="forks" src="https://img.shields.io/github/forks/whitej3rry/CVE-2022-40916">	<img alt="stars" src="https://img.shields.io/github/stars/whitej3rry/CVE-2022-40916">
 
 ---
+## CVE-2022-40684 ()
+> 
+- [dickson0day/CVE-2022-40684](https://github.com/dickson0day/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/dickson0day/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/dickson0day/CVE-2022-40684">
+
+---
 ## CVE-2022-40490 ()
 > 
 - [whitej3rry/CVE-2022-40490](https://github.com/whitej3rry/CVE-2022-40490)	<img alt="forks" src="https://img.shields.io/github/forks/whitej3rry/CVE-2022-40490">	<img alt="stars" src="https://img.shields.io/github/stars/whitej3rry/CVE-2022-40490">
