@@ -139,6 +139,7 @@
 - [yqcs/CSPOC](https://github.com/yqcs/CSPOC)	<img alt="forks" src="https://img.shields.io/github/forks/yqcs/CSPOC">	<img alt="stars" src="https://img.shields.io/github/stars/yqcs/CSPOC">
 - [burpheart/CVE-2022-39197-patch](https://github.com/burpheart/CVE-2022-39197-patch)	<img alt="forks" src="https://img.shields.io/github/forks/burpheart/CVE-2022-39197-patch">	<img alt="stars" src="https://img.shields.io/github/stars/burpheart/CVE-2022-39197-patch">
 - [lovechoudoufu/about_cobaltstrike4.5_cdf](https://github.com/lovechoudoufu/about_cobaltstrike4.5_cdf)	<img alt="forks" src="https://img.shields.io/github/forks/lovechoudoufu/about_cobaltstrike4.5_cdf">	<img alt="stars" src="https://img.shields.io/github/stars/lovechoudoufu/about_cobaltstrike4.5_cdf">
+- [4nth0ny1130/CVE-2022-39197-fix_patch](https://github.com/4nth0ny1130/CVE-2022-39197-fix_patch)	<img alt="forks" src="https://img.shields.io/github/forks/4nth0ny1130/CVE-2022-39197-fix_patch">	<img alt="stars" src="https://img.shields.io/github/stars/4nth0ny1130/CVE-2022-39197-fix_patch">
 
 ---
 ## CVE-2022-39196 (2022-09-05T00:15:00)
