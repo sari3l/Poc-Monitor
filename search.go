@@ -25,16 +25,22 @@ const cveQuery = "CVE-20"
 // 通知函数
 var barkToken = os.Getenv("barkToken")
 var barkGroup = "Poc-Monitor"
+var barkMsgLimit = 150
 
 func Notice(updateItems *[]*Item) {
 	for _, item := range *updateItems {
-		webhook := fmt.Sprintf("https://api.day.app/%s/%s/%s", barkToken, nUrl.QueryEscape(item.Name), nUrl.QueryEscape(item.Description))
+		name := nUrl.QueryEscape(item.Name)
+		content := nUrl.QueryEscape(item.Description)
+		if len(content) >= barkMsgLimit {
+			content = content[:barkMsgLimit] + "..."
+		}
+		webhook := fmt.Sprintf("https://api.day.app/%s/%s/%s", barkToken, name, content)
 		option := bark.Option{Webhook: webhook}
 		option.Url = &item.HtmlUrl
 		option.Group = &barkGroup
 		err := option.ToNotifier().Send(nil)
 		if err != nil {
-			fmt.Printf("[!] 发送失败 %s\n", err)
+			fmt.Printf("[!] 发送失败 %s %s\n", err, webhook)
 		}
 		fmt.Printf("[>] 新增 %s\n", webhook)
 	}
