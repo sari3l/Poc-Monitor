@@ -24,6 +24,11 @@
 - [Huangkey/CVE-2018-9995_check](https://github.com/Huangkey/CVE-2018-9995_check)	<img alt="forks" src="https://img.shields.io/github/forks/Huangkey/CVE-2018-9995_check">	<img alt="stars" src="https://img.shields.io/github/stars/Huangkey/CVE-2018-9995_check">
 
 ---
+## CVE-2018-8587 (2018-12-12T00:29:00)
+> A remote code execution vulnerability exists in Microsoft Outlook software when it fails to properly handle objects in memory, aka "Microsoft Outlook Remote Code Execution Vulnerability." This affects Office 365 ProPlus, Microsoft Office, Microsoft Outlook.
+- [Sunqiz/CVE-2018-8587-reproduction](https://github.com/Sunqiz/CVE-2018-8587-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Sunqiz/CVE-2018-8587-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Sunqiz/CVE-2018-8587-reproduction">
+
+---
 ## CVE-2018-7600 (2018-03-29T07:29:00)
 > Drupal before 7.58, 8.x before 8.3.9, 8.4.x before 8.4.6, and 8.5.x before 8.5.1 allows remote attackers to execute arbitrary code because of an issue affecting multiple subsystems with default or common module configurations.
 - [anldori/CVE-2018-7600](https://github.com/anldori/CVE-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/anldori/CVE-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/anldori/CVE-2018-7600">

@@ -11,6 +11,11 @@
 - [Vbedtt54e5/interesting-release-of-CVE-2022-63432](https://github.com/Vbedtt54e5/interesting-release-of-CVE-2022-63432)	<img alt="forks" src="https://img.shields.io/github/forks/Vbedtt54e5/interesting-release-of-CVE-2022-63432">	<img alt="stars" src="https://img.shields.io/github/stars/Vbedtt54e5/interesting-release-of-CVE-2022-63432">
 
 ---
+## CVE-2022-41352 (2022-09-26T02:15:00)
+> An issue was discovered in Zimbra Collaboration (ZCS) 8.8.15 and 9.0. An attacker can upload arbitrary files through amavisd via a cpio loophole (extraction to /opt/zimbra/jetty/webapps/zimbra/public) that can lead to incorrect access to any other user accounts. Zimbra recommends pax over cpio. Also, pax is in the prerequisites of Zimbra on Ubuntu; however, pax is no longer part of a default Red Hat installation after RHEL 6 (or CentOS 6). Once pax is installed, amavisd automatically prefers it over cpio.
+- [segfault-it/cve-2022-41352](https://github.com/segfault-it/cve-2022-41352)	<img alt="forks" src="https://img.shields.io/github/forks/segfault-it/cve-2022-41352">	<img alt="stars" src="https://img.shields.io/github/stars/segfault-it/cve-2022-41352">
+
+---
 ## CVE-2022-41218 (2022-09-21T07:15:00)
 > In drivers/media/dvb-core/dmxdev.c in the Linux kernel through 5.19.10, there is a use-after-free caused by refcount races, affecting dvb_demux_open and dvb_dmxdev_release.
 - [V4bel/CVE-2022-41218](https://github.com/V4bel/CVE-2022-41218)	<img alt="forks" src="https://img.shields.io/github/forks/V4bel/CVE-2022-41218">	<img alt="stars" src="https://img.shields.io/github/stars/V4bel/CVE-2022-41218">
@@ -51,6 +56,8 @@
 - [b3wT/CVE-2022-41082-MASS-SCANNER](https://github.com/b3wT/CVE-2022-41082-MASS-SCANNER)	<img alt="forks" src="https://img.shields.io/github/forks/b3wT/CVE-2022-41082-MASS-SCANNER">	<img alt="stars" src="https://img.shields.io/github/stars/b3wT/CVE-2022-41082-MASS-SCANNER">
 - [t0mby/CVE-2022-41082-RCE](https://github.com/t0mby/CVE-2022-41082-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/t0mby/CVE-2022-41082-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/t0mby/CVE-2022-41082-RCE">
 - [gitzero0/ProxyNotShell](https://github.com/gitzero0/ProxyNotShell)	<img alt="forks" src="https://img.shields.io/github/forks/gitzero0/ProxyNotShell">	<img alt="stars" src="https://img.shields.io/github/stars/gitzero0/ProxyNotShell">
+- [t0mby/CVE-2022-41082-MASS-RCE](https://github.com/t0mby/CVE-2022-41082-MASS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/t0mby/CVE-2022-41082-MASS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/t0mby/CVE-2022-41082-MASS-RCE">
+- [rjsudlow/proxynotshell-IOC-Checker](https://github.com/rjsudlow/proxynotshell-IOC-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/rjsudlow/proxynotshell-IOC-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/rjsudlow/proxynotshell-IOC-Checker">
 
 ---
 ## CVE-2022-41040 ()
@@ -429,6 +436,7 @@
 ## CVE-2022-34718 (2022-09-13T19:15:00)
 > Windows TCP/IP Remote Code Execution Vulnerability.
 - [Administrative2022/CVE-2022-34718-RCE-POC](https://github.com/Administrative2022/CVE-2022-34718-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Administrative2022/CVE-2022-34718-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Administrative2022/CVE-2022-34718-RCE-POC">
+- [SecLabResearchBV/CVE-2022-34718-PoC](https://github.com/SecLabResearchBV/CVE-2022-34718-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/SecLabResearchBV/CVE-2022-34718-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/SecLabResearchBV/CVE-2022-34718-PoC">
 
 ---
 ## CVE-2022-34715 (2022-08-09T20:15:00)
@@ -623,6 +631,11 @@
 ## CVE-2022-31499 (2022-08-25T23:15:00)
 > Nortek Linear eMerge E3-Series devices before 0.32-08f allow an unauthenticated attacker to inject OS commands via ReaderNo. NOTE: this issue exists because of an incomplete fix for CVE-2019-7256.
 - [omarhashem123/CVE-2022-31499](https://github.com/omarhashem123/CVE-2022-31499)	<img alt="forks" src="https://img.shields.io/github/forks/omarhashem123/CVE-2022-31499">	<img alt="stars" src="https://img.shields.io/github/stars/omarhashem123/CVE-2022-31499">
+
+---
+## CVE-2022-31479 (2022-06-06T17:15:00)
+> An unauthenticated attacker can update the hostname with a specially crafted name that will allow for shell commands to be executed during the core collection process. This vulnerability impacts products based on HID Mercury Intelligent Controllers LP1501, LP1502, LP2500, LP4502, and EP4502 which contain firmware versions prior to 1.302 for the LP series and 1.296 for the EP series. An attacker with this level of access on the device can monitor all communications sent to and from this device, modify onboard relays, change configuration files, or cause the device to become unstable. The injected commands only get executed during start up or when unsafe calls regarding the hostname are used. This allows the attacker to gain remote access to the device and can make their persistence permanent by modifying the filesystem.
+- [realyme/CVE-2022-31479-test](https://github.com/realyme/CVE-2022-31479-test)	<img alt="forks" src="https://img.shields.io/github/forks/realyme/CVE-2022-31479-test">	<img alt="stars" src="https://img.shields.io/github/stars/realyme/CVE-2022-31479-test">
 
 ---
 ## CVE-2022-31474 ()
@@ -1141,6 +1154,7 @@
 - [1337in/CVE-2022-26134web](https://github.com/1337in/CVE-2022-26134web)	<img alt="forks" src="https://img.shields.io/github/forks/1337in/CVE-2022-26134web">	<img alt="stars" src="https://img.shields.io/github/stars/1337in/CVE-2022-26134web">
 - [trhacknon/CVE-2022-26134-miam](https://github.com/trhacknon/CVE-2022-26134-miam)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-26134-miam">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-26134-miam">
 - [skhalsa-sigsci/CVE-2022-26134-LAB](https://github.com/skhalsa-sigsci/CVE-2022-26134-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/skhalsa-sigsci/CVE-2022-26134-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/skhalsa-sigsci/CVE-2022-26134-LAB">
+- [CLincat/vulcat](https://github.com/CLincat/vulcat)	<img alt="forks" src="https://img.shields.io/github/forks/CLincat/vulcat">	<img alt="stars" src="https://img.shields.io/github/stars/CLincat/vulcat">
 
 ---
 ## CVE-2022-2588 ()
