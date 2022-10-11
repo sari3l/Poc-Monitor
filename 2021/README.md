@@ -697,6 +697,7 @@
 - [SecPros-Team/laravel-CVE-2021-3129-EXP](https://github.com/SecPros-Team/laravel-CVE-2021-3129-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/SecPros-Team/laravel-CVE-2021-3129-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/SecPros-Team/laravel-CVE-2021-3129-EXP">
 - [SNCKER/CVE-2021-3129](https://github.com/SNCKER/CVE-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/SNCKER/CVE-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/SNCKER/CVE-2021-3129">
 - [hupe1980/CVE-2021-3129](https://github.com/hupe1980/CVE-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/hupe1980/CVE-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/hupe1980/CVE-2021-3129">
+- [0nion1/CVE-2021-3129](https://github.com/0nion1/CVE-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/0nion1/CVE-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/0nion1/CVE-2021-3129">
 
 ---
 ## CVE-2021-3060 (2021-11-10T17:15:00)
