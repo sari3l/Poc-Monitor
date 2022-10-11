@@ -58,6 +58,7 @@
 - [gitzero0/ProxyNotShell](https://github.com/gitzero0/ProxyNotShell)	<img alt="forks" src="https://img.shields.io/github/forks/gitzero0/ProxyNotShell">	<img alt="stars" src="https://img.shields.io/github/stars/gitzero0/ProxyNotShell">
 - [t0mby/CVE-2022-41082-MASS-RCE](https://github.com/t0mby/CVE-2022-41082-MASS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/t0mby/CVE-2022-41082-MASS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/t0mby/CVE-2022-41082-MASS-RCE">
 - [rjsudlow/proxynotshell-IOC-Checker](https://github.com/rjsudlow/proxynotshell-IOC-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/rjsudlow/proxynotshell-IOC-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/rjsudlow/proxynotshell-IOC-Checker">
+- [y4b4n/CVE-2022-41082-RCE-POC](https://github.com/y4b4n/CVE-2022-41082-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/y4b4n/CVE-2022-41082-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/y4b4n/CVE-2022-41082-RCE-POC">
 
 ---
 ## CVE-2022-41040 ()
