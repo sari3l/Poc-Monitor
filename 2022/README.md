@@ -104,6 +104,7 @@
 ## CVE-2022-40684 ()
 > 
 - [dickson0day/CVE-2022-40684](https://github.com/dickson0day/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/dickson0day/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/dickson0day/CVE-2022-40684">
+- [CarlosV1e1ra/CVE-2022-40684-RCE-POC](https://github.com/CarlosV1e1ra/CVE-2022-40684-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CarlosV1e1ra/CVE-2022-40684-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CarlosV1e1ra/CVE-2022-40684-RCE-POC">
 
 ---
 ## CVE-2022-40490 ()
