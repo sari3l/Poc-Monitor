@@ -33,6 +33,7 @@
 - [r4z0r5/SwissArmyShellshocker](https://github.com/r4z0r5/SwissArmyShellshocker)	<img alt="forks" src="https://img.shields.io/github/forks/r4z0r5/SwissArmyShellshocker">	<img alt="stars" src="https://img.shields.io/github/stars/r4z0r5/SwissArmyShellshocker">
 - [Aruthw/CVE-2014-6271](https://github.com/Aruthw/CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/Aruthw/CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/Aruthw/CVE-2014-6271">
 - [w4fz5uck5/ShockZaum-CVE-2014-6271](https://github.com/w4fz5uck5/ShockZaum-CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/w4fz5uck5/ShockZaum-CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/w4fz5uck5/ShockZaum-CVE-2014-6271">
+- [kowshik-sundararajan/CVE-2014-6271](https://github.com/kowshik-sundararajan/CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/kowshik-sundararajan/CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/kowshik-sundararajan/CVE-2014-6271">
 
 ---
 ## CVE-2014-4078 (2014-11-11T22:55:00)
