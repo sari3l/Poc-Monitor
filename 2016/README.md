@@ -1,6 +1,11 @@
 # 2016 List
 
 ---
+## CVE-2016-9299 (2017-01-12T23:59:00)
+> The remoting module in Jenkins before 2.32 and LTS before 2.19.3 allows remote attackers to execute arbitrary code via a crafted serialized Java object, which triggers an LDAP query to a third-party server.
+- [r00t4dm/Jenkins-CVE-2016-9299](https://github.com/r00t4dm/Jenkins-CVE-2016-9299)	<img alt="forks" src="https://img.shields.io/github/forks/r00t4dm/Jenkins-CVE-2016-9299">	<img alt="stars" src="https://img.shields.io/github/stars/r00t4dm/Jenkins-CVE-2016-9299">
+
+---
 ## CVE-2016-5734 (2016-07-03T01:59:00)
 > phpMyAdmin 4.0.x before 4.0.10.16, 4.4.x before 4.4.15.7, and 4.6.x before 4.6.3 does not properly choose delimiters to prevent use of the preg_replace e (aka eval) modifier, which might allow remote attackers to execute arbitrary PHP code via a crafted string, as demonstrated by the table search-and-replace implementation.
 - [miko550/CVE-2016-5734-docker](https://github.com/miko550/CVE-2016-5734-docker)	<img alt="forks" src="https://img.shields.io/github/forks/miko550/CVE-2016-5734-docker">	<img alt="stars" src="https://img.shields.io/github/stars/miko550/CVE-2016-5734-docker">

@@ -231,6 +231,12 @@
 - [cved-sources/cve-2017-1000486](https://github.com/cved-sources/cve-2017-1000486)	<img alt="forks" src="https://img.shields.io/github/forks/cved-sources/cve-2017-1000486">	<img alt="stars" src="https://img.shields.io/github/stars/cved-sources/cve-2017-1000486">
 
 ---
+## CVE-2017-1000353 (2018-01-29T17:29:00)
+> Jenkins versions 2.56 and earlier as well as 2.46.1 LTS and earlier are vulnerable to an unauthenticated remote code execution. An unauthenticated remote code execution vulnerability allowed attackers to transfer a serialized Java `SignedObject` object to the Jenkins CLI, that would be deserialized using a new `ObjectInputStream`, bypassing the existing blacklist-based protection mechanism. We're fixing this issue by adding `SignedObject` to the blacklist. We're also backporting the new HTTP CLI protocol from Jenkins 2.54 to LTS 2.46.2, and deprecating the remoting-based (i.e. Java serialization) CLI protocol, disabling it by default.
+- [r00t4dm/Jenkins-CVE-2017-1000353](https://github.com/r00t4dm/Jenkins-CVE-2017-1000353)	<img alt="forks" src="https://img.shields.io/github/forks/r00t4dm/Jenkins-CVE-2017-1000353">	<img alt="stars" src="https://img.shields.io/github/stars/r00t4dm/Jenkins-CVE-2017-1000353">
+- [vulhub/CVE-2017-1000353](https://github.com/vulhub/CVE-2017-1000353)	<img alt="forks" src="https://img.shields.io/github/forks/vulhub/CVE-2017-1000353">	<img alt="stars" src="https://img.shields.io/github/stars/vulhub/CVE-2017-1000353">
+
+---
 ## CVE-2017-1000251 (2017-09-12T17:29:00)
 > The native Bluetooth stack in the Linux Kernel (BlueZ), starting at the Linux kernel version 2.6.32 and up to and including 4.13.1, are vulnerable to a stack overflow vulnerability in the processing of L2CAP configuration responses resulting in Remote code execution in kernel space.
 - [istanescu/CVE-2017-1000251_Exploit](https://github.com/istanescu/CVE-2017-1000251_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/istanescu/CVE-2017-1000251_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/istanescu/CVE-2017-1000251_Exploit">
