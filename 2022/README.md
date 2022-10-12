@@ -107,6 +107,7 @@
 - [CarlosV1e1ra/CVE-2022-40684-RCE-POC](https://github.com/CarlosV1e1ra/CVE-2022-40684-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CarlosV1e1ra/CVE-2022-40684-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CarlosV1e1ra/CVE-2022-40684-RCE-POC">
 - [s0crate7/CVE-2022-40684-POC](https://github.com/s0crate7/CVE-2022-40684-POC)	<img alt="forks" src="https://img.shields.io/github/forks/s0crate7/CVE-2022-40684-POC">	<img alt="stars" src="https://img.shields.io/github/stars/s0crate7/CVE-2022-40684-POC">
 - [Noxus007/CVE-2022-40684-RCE-POC](https://github.com/Noxus007/CVE-2022-40684-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Noxus007/CVE-2022-40684-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Noxus007/CVE-2022-40684-RCE-POC">
+- [Br4velwd/CVE-2022-40684-RCE-POC](https://github.com/Br4velwd/CVE-2022-40684-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Br4velwd/CVE-2022-40684-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Br4velwd/CVE-2022-40684-RCE-POC">
 
 ---
 ## CVE-2022-40490 ()
