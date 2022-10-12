@@ -106,6 +106,7 @@
 - [dickson0day/CVE-2022-40684](https://github.com/dickson0day/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/dickson0day/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/dickson0day/CVE-2022-40684">
 - [CarlosV1e1ra/CVE-2022-40684-RCE-POC](https://github.com/CarlosV1e1ra/CVE-2022-40684-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CarlosV1e1ra/CVE-2022-40684-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CarlosV1e1ra/CVE-2022-40684-RCE-POC">
 - [s0crate7/CVE-2022-40684-POC](https://github.com/s0crate7/CVE-2022-40684-POC)	<img alt="forks" src="https://img.shields.io/github/forks/s0crate7/CVE-2022-40684-POC">	<img alt="stars" src="https://img.shields.io/github/stars/s0crate7/CVE-2022-40684-POC">
+- [Noxus007/CVE-2022-40684-RCE-POC](https://github.com/Noxus007/CVE-2022-40684-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Noxus007/CVE-2022-40684-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Noxus007/CVE-2022-40684-RCE-POC">
 
 ---
 ## CVE-2022-40490 ()
@@ -1881,3 +1882,8 @@
 ## CVE-2022-0337 ()
 > 
 - [Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera](https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera)	<img alt="forks" src="https://img.shields.io/github/forks/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera">	<img alt="stars" src="https://img.shields.io/github/stars/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera">
+
+---
+## CVE-2022-0002 (2022-03-11T18:15:00)
+> Non-transparent sharing of branch predictor within a context in some Intel(R) Processors may allow an authorized user to potentially enable information disclosure via local access.
+- [nikokosm/CVE-2022-0002--s-1](https://github.com/nikokosm/CVE-2022-0002--s-1)	<img alt="forks" src="https://img.shields.io/github/forks/nikokosm/CVE-2022-0002--s-1">	<img alt="stars" src="https://img.shields.io/github/stars/nikokosm/CVE-2022-0002--s-1">
