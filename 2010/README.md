@@ -35,3 +35,5 @@ CVS is also not affected.
 
 Any Unreal3.2.8.1.tar.gz downloaded BEFORE November 10 2009 should be safe, but you should really double-check, see next.'
 - [0bfxgh0st/cve-2010-2075](https://github.com/0bfxgh0st/cve-2010-2075)	<img alt="forks" src="https://img.shields.io/github/forks/0bfxgh0st/cve-2010-2075">	<img alt="stars" src="https://img.shields.io/github/stars/0bfxgh0st/cve-2010-2075">
+- [MFernstrom/OffensivePascal-CVE-2010-2075](https://github.com/MFernstrom/OffensivePascal-CVE-2010-2075)	<img alt="forks" src="https://img.shields.io/github/forks/MFernstrom/OffensivePascal-CVE-2010-2075">	<img alt="stars" src="https://img.shields.io/github/stars/MFernstrom/OffensivePascal-CVE-2010-2075">
+- [XorgX304/UnrealIRCd-3.2.8.1-RCE](https://github.com/XorgX304/UnrealIRCd-3.2.8.1-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/XorgX304/UnrealIRCd-3.2.8.1-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/XorgX304/UnrealIRCd-3.2.8.1-RCE">
