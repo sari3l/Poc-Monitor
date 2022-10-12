@@ -1851,6 +1851,8 @@
 - [notl0cal/dpipe](https://github.com/notl0cal/dpipe)	<img alt="forks" src="https://img.shields.io/github/forks/notl0cal/dpipe">	<img alt="stars" src="https://img.shields.io/github/stars/notl0cal/dpipe">
 - [jpts/CVE-2022-0847-DirtyPipe-Container-Breakout](https://github.com/jpts/CVE-2022-0847-DirtyPipe-Container-Breakout)	<img alt="forks" src="https://img.shields.io/github/forks/jpts/CVE-2022-0847-DirtyPipe-Container-Breakout">	<img alt="stars" src="https://img.shields.io/github/stars/jpts/CVE-2022-0847-DirtyPipe-Container-Breakout">
 - [trhacknon/CVE-2022-0847-DirtyPipe-Exploit](https://github.com/trhacknon/CVE-2022-0847-DirtyPipe-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-0847-DirtyPipe-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-0847-DirtyPipe-Exploit">
+- [edsonjt81/CVE-2022-0847-DirtyPipe-](https://github.com/edsonjt81/CVE-2022-0847-DirtyPipe-)	<img alt="forks" src="https://img.shields.io/github/forks/edsonjt81/CVE-2022-0847-DirtyPipe-">	<img alt="stars" src="https://img.shields.io/github/stars/edsonjt81/CVE-2022-0847-DirtyPipe-">
+- [badboy-sft/Dirty-Pipe-Oneshot](https://github.com/badboy-sft/Dirty-Pipe-Oneshot)	<img alt="forks" src="https://img.shields.io/github/forks/badboy-sft/Dirty-Pipe-Oneshot">	<img alt="stars" src="https://img.shields.io/github/stars/badboy-sft/Dirty-Pipe-Oneshot">
 
 ---
 ## CVE-2022-0666 (2022-02-18T15:15:00)
