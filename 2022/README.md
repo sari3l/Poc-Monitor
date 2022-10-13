@@ -109,6 +109,7 @@
 - [Noxus007/CVE-2022-40684-RCE-POC](https://github.com/Noxus007/CVE-2022-40684-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Noxus007/CVE-2022-40684-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Noxus007/CVE-2022-40684-RCE-POC">
 - [Br4velwd/CVE-2022-40684-RCE-POC](https://github.com/Br4velwd/CVE-2022-40684-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Br4velwd/CVE-2022-40684-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Br4velwd/CVE-2022-40684-RCE-POC">
 - [Gh0zts/CVE-2022-40684-MASS-RCE](https://github.com/Gh0zts/CVE-2022-40684-MASS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Gh0zts/CVE-2022-40684-MASS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Gh0zts/CVE-2022-40684-MASS-RCE">
+- [Car1osVieira/CVE-2022-40684-RCE-POC](https://github.com/Car1osVieira/CVE-2022-40684-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Car1osVieira/CVE-2022-40684-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Car1osVieira/CVE-2022-40684-RCE-POC">
 
 ---
 ## CVE-2022-40490 ()
@@ -831,6 +832,7 @@
 - [jeffreybxu/five-nights-at-follina-s](https://github.com/jeffreybxu/five-nights-at-follina-s)	<img alt="forks" src="https://img.shields.io/github/forks/jeffreybxu/five-nights-at-follina-s">	<img alt="stars" src="https://img.shields.io/github/stars/jeffreybxu/five-nights-at-follina-s">
 - [flux10n/CVE-2022-30190](https://github.com/flux10n/CVE-2022-30190)	<img alt="forks" src="https://img.shields.io/github/forks/flux10n/CVE-2022-30190">	<img alt="stars" src="https://img.shields.io/github/stars/flux10n/CVE-2022-30190">
 - [Imeneallouche/Follina-attack-CVE-2022-30190-](https://github.com/Imeneallouche/Follina-attack-CVE-2022-30190-)	<img alt="forks" src="https://img.shields.io/github/forks/Imeneallouche/Follina-attack-CVE-2022-30190-">	<img alt="stars" src="https://img.shields.io/github/stars/Imeneallouche/Follina-attack-CVE-2022-30190-">
+- [Cosmo121/Follina-Remediation](https://github.com/Cosmo121/Follina-Remediation)	<img alt="forks" src="https://img.shields.io/github/forks/Cosmo121/Follina-Remediation">	<img alt="stars" src="https://img.shields.io/github/stars/Cosmo121/Follina-Remediation">
 
 ---
 ## CVE-2022-30136 (2022-06-15T22:15:00)
