@@ -26,8 +26,8 @@
 - [L34ked/CVE-2022-41208](https://github.com/L34ked/CVE-2022-41208)	<img alt="forks" src="https://img.shields.io/github/forks/L34ked/CVE-2022-41208">	<img alt="stars" src="https://img.shields.io/github/stars/L34ked/CVE-2022-41208">
 
 ---
-## CVE-2022-41082 ()
-> 
+## CVE-2022-41082 (2022-10-03T01:15:00)
+> Microsoft Exchange Server Remote Code Execution Vulnerability.
 - [revers0id/CVE-2022-41082-PoC](https://github.com/revers0id/CVE-2022-41082-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/revers0id/CVE-2022-41082-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/revers0id/CVE-2022-41082-PoC">
 - [TimWallbey/CVE-2022-41082-RCE](https://github.com/TimWallbey/CVE-2022-41082-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/TimWallbey/CVE-2022-41082-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/TimWallbey/CVE-2022-41082-RCE">
 - [TimWallbey/CVE-2022-41082-PoC](https://github.com/TimWallbey/CVE-2022-41082-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TimWallbey/CVE-2022-41082-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TimWallbey/CVE-2022-41082-PoC">
@@ -61,8 +61,8 @@
 - [y4b4n/CVE-2022-41082-RCE-POC](https://github.com/y4b4n/CVE-2022-41082-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/y4b4n/CVE-2022-41082-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/y4b4n/CVE-2022-41082-RCE-POC">
 
 ---
-## CVE-2022-41040 ()
-> 
+## CVE-2022-41040 (2022-10-03T01:15:00)
+> Microsoft Exchange Server Elevation of Privilege Vulnerability.
 - [kev1n-beaum0nt/CVE-2022-41040-RCE-POC](https://github.com/kev1n-beaum0nt/CVE-2022-41040-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kev1n-beaum0nt/CVE-2022-41040-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kev1n-beaum0nt/CVE-2022-41040-RCE-POC">
 - [numanturle/CVE-2022-41040](https://github.com/numanturle/CVE-2022-41040)	<img alt="forks" src="https://img.shields.io/github/forks/numanturle/CVE-2022-41040">	<img alt="stars" src="https://img.shields.io/github/stars/numanturle/CVE-2022-41040">
 - [k1vin-beaumont/CVE-2022-41040-RCE-POC](https://github.com/k1vin-beaumont/CVE-2022-41040-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/k1vin-beaumont/CVE-2022-41040-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/k1vin-beaumont/CVE-2022-41040-RCE-POC">
@@ -130,8 +130,8 @@
 - [LovelyWei/CVE-2022-40126](https://github.com/LovelyWei/CVE-2022-40126)	<img alt="forks" src="https://img.shields.io/github/forks/LovelyWei/CVE-2022-40126">	<img alt="stars" src="https://img.shields.io/github/stars/LovelyWei/CVE-2022-40126">
 
 ---
-## CVE-2022-39959 ()
-> 
+## CVE-2022-39959 (2022-10-07T22:15:00)
+> Panini Everest Engine 2.0.4 allows unprivileged users to create a file named Everest.exe in the %PROGRAMDATA%\Panini folder. This leads to privilege escalation because a service, running as SYSTEM, uses the unquoted path of %PROGRAMDATA%\Panini\Everest Engine\EverestEngine.exe and therefore a Trojan horse %PROGRAMDATA%\Panini\Everest.exe may be executed instead of the intended vendor-supplied EverestEngine.exe file.
 - [usmarine2141/CVE-2022-39959](https://github.com/usmarine2141/CVE-2022-39959)	<img alt="forks" src="https://img.shields.io/github/forks/usmarine2141/CVE-2022-39959">	<img alt="stars" src="https://img.shields.io/github/stars/usmarine2141/CVE-2022-39959">
 
 ---
@@ -455,8 +455,8 @@
 - [Starssgo/CVE-2022-34715-POC](https://github.com/Starssgo/CVE-2022-34715-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Starssgo/CVE-2022-34715-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Starssgo/CVE-2022-34715-POC">
 
 ---
-## CVE-2022-3452 ()
-> 
+## CVE-2022-3452 (2022-10-11T18:15:00)
+> A vulnerability was found in SourceCodester Book Store Management System 1.0. It has been declared as problematic. This vulnerability affects unknown code of the file /category.php. The manipulation of the argument category_name leads to cross site scripting. The attack can be initiated remotely. The identifier of this vulnerability is VDB-210436.
 - [kenyon-wong/cve-2022-3452](https://github.com/kenyon-wong/cve-2022-3452)	<img alt="forks" src="https://img.shields.io/github/forks/kenyon-wong/cve-2022-3452">	<img alt="stars" src="https://img.shields.io/github/stars/kenyon-wong/cve-2022-3452">
 
 ---
