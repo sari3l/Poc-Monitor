@@ -189,6 +189,13 @@
 - [0x09AL/CVE-2017-11882-metasploit](https://github.com/0x09AL/CVE-2017-11882-metasploit)	<img alt="forks" src="https://img.shields.io/github/forks/0x09AL/CVE-2017-11882-metasploit">	<img alt="stars" src="https://img.shields.io/github/stars/0x09AL/CVE-2017-11882-metasploit">
 
 ---
+## CVE-2017-11317 (2017-08-23T17:29:00)
+> Telerik.Web.UI in Progress Telerik UI for ASP.NET AJAX before R1 2017 and R2 before R2 2017 SP2 uses weak RadAsyncUpload encryption, which allows remote attackers to perform arbitrary file uploads or execute arbitrary code.
+- [KasunPriyashan/Unrestricted-File-Upload-by-Weak-Encryption-affected-versions-CVE-2017-11317-Remote-Code-Execut](https://github.com/KasunPriyashan/Unrestricted-File-Upload-by-Weak-Encryption-affected-versions-CVE-2017-11317-Remote-Code-Execut)	<img alt="forks" src="https://img.shields.io/github/forks/KasunPriyashan/Unrestricted-File-Upload-by-Weak-Encryption-affected-versions-CVE-2017-11317-Remote-Code-Execut">	<img alt="stars" src="https://img.shields.io/github/stars/KasunPriyashan/Unrestricted-File-Upload-by-Weak-Encryption-affected-versions-CVE-2017-11317-Remote-Code-Execut">
+- [KasunPriyashan/Telerik-UI-ASP.NET-AJAX-Exploitation](https://github.com/KasunPriyashan/Telerik-UI-ASP.NET-AJAX-Exploitation)	<img alt="forks" src="https://img.shields.io/github/forks/KasunPriyashan/Telerik-UI-ASP.NET-AJAX-Exploitation">	<img alt="stars" src="https://img.shields.io/github/stars/KasunPriyashan/Telerik-UI-ASP.NET-AJAX-Exploitation">
+- [bao7uo/RAU_crypto](https://github.com/bao7uo/RAU_crypto)	<img alt="forks" src="https://img.shields.io/github/forks/bao7uo/RAU_crypto">	<img alt="stars" src="https://img.shields.io/github/stars/bao7uo/RAU_crypto">
+
+---
 ## CVE-2017-10271 (2017-10-19T17:29:00)
 > Vulnerability in the Oracle WebLogic Server component of Oracle Fusion Middleware (subcomponent: WLS Security). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.1.0 and 12.2.1.2.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3 to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.0 Base Score 7.5 (Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H).
 - [kkirsche/CVE-2017-10271](https://github.com/kkirsche/CVE-2017-10271)	<img alt="forks" src="https://img.shields.io/github/forks/kkirsche/CVE-2017-10271">	<img alt="stars" src="https://img.shields.io/github/stars/kkirsche/CVE-2017-10271">
