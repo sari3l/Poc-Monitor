@@ -1319,6 +1319,11 @@
 - [InitRoot/CVE-2022-23342](https://github.com/InitRoot/CVE-2022-23342)	<img alt="forks" src="https://img.shields.io/github/forks/InitRoot/CVE-2022-23342">	<img alt="stars" src="https://img.shields.io/github/stars/InitRoot/CVE-2022-23342">
 
 ---
+## CVE-2022-23277 (2022-03-09T17:15:00)
+> Microsoft Exchange Server Remote Code Execution Vulnerability.
+- [7BitsTeam/CVE-2022-23277](https://github.com/7BitsTeam/CVE-2022-23277)	<img alt="forks" src="https://img.shields.io/github/forks/7BitsTeam/CVE-2022-23277">	<img alt="stars" src="https://img.shields.io/github/stars/7BitsTeam/CVE-2022-23277">
+
+---
 ## CVE-2022-23222 (2022-01-14T08:15:00)
 > kernel/bpf/verifier.c in the Linux kernel through 5.15.14 allows local users to gain privileges because of the availability of pointer arithmetic via certain *_OR_NULL pointer types.
 - [PenteraIO/CVE-2022-23222-POC](https://github.com/PenteraIO/CVE-2022-23222-POC)	<img alt="forks" src="https://img.shields.io/github/forks/PenteraIO/CVE-2022-23222-POC">	<img alt="stars" src="https://img.shields.io/github/stars/PenteraIO/CVE-2022-23222-POC">
