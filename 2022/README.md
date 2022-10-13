@@ -113,6 +113,7 @@
 - [Z4r4s/CVE-2022-40684-RCE-POC](https://github.com/Z4r4s/CVE-2022-40684-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Z4r4s/CVE-2022-40684-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Z4r4s/CVE-2022-40684-RCE-POC">
 - [CrunchV1/CVE-2022-40684](https://github.com/CrunchV1/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/CrunchV1/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/CrunchV1/CVE-2022-40684">
 - [horizon3ai/CVE-2022-40684](https://github.com/horizon3ai/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2022-40684">
+- [carlosevieira/CVE-2022-40684](https://github.com/carlosevieira/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/carlosevieira/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/carlosevieira/CVE-2022-40684">
 
 ---
 ## CVE-2022-40490 ()
