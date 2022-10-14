@@ -116,6 +116,7 @@
 - [carlosevieira/CVE-2022-40684](https://github.com/carlosevieira/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/carlosevieira/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/carlosevieira/CVE-2022-40684">
 - [Filiplain/Fortinet-PoC-Auth-Bypass](https://github.com/Filiplain/Fortinet-PoC-Auth-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/Filiplain/Fortinet-PoC-Auth-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/Filiplain/Fortinet-PoC-Auth-Bypass">
 - [kljunowsky/CVE-2022-40684-POC](https://github.com/kljunowsky/CVE-2022-40684-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kljunowsky/CVE-2022-40684-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kljunowsky/CVE-2022-40684-POC">
+- [secunnix/CVE-2022-40684](https://github.com/secunnix/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/secunnix/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/secunnix/CVE-2022-40684">
 
 ---
 ## CVE-2022-40490 ()
