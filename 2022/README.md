@@ -897,6 +897,7 @@
 > 
 - [CsEnox/CVE-2022-2992](https://github.com/CsEnox/CVE-2022-2992)	<img alt="forks" src="https://img.shields.io/github/forks/CsEnox/CVE-2022-2992">	<img alt="stars" src="https://img.shields.io/github/stars/CsEnox/CVE-2022-2992">
 - [RealAlphaMan/CVE-2022-2992](https://github.com/RealAlphaMan/CVE-2022-2992)	<img alt="forks" src="https://img.shields.io/github/forks/RealAlphaMan/CVE-2022-2992">	<img alt="stars" src="https://img.shields.io/github/stars/RealAlphaMan/CVE-2022-2992">
+- [Malwareman007/CVE-2022-2992](https://github.com/Malwareman007/CVE-2022-2992)	<img alt="forks" src="https://img.shields.io/github/forks/Malwareman007/CVE-2022-2992">	<img alt="stars" src="https://img.shields.io/github/stars/Malwareman007/CVE-2022-2992">
 
 ---
 ## CVE-2022-29885 (2022-05-12T08:15:00)
