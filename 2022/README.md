@@ -119,6 +119,11 @@
 - [secunnix/CVE-2022-40684](https://github.com/secunnix/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/secunnix/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/secunnix/CVE-2022-40684">
 
 ---
+## CVE-2022-40648 (2022-09-15T16:15:00)
+> This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ansys SpaceClaim 2022 R1. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of X_B files. The issue results from the lack of proper validation of user-supplied data, which can result in a write before the start of an allocated data structure. An attacker can leverage this vulnerability to execute code in the context of the current process. Was ZDI-CAN-17563.
+- [b3wT/CVE-2022-40648-MASS](https://github.com/b3wT/CVE-2022-40648-MASS)	<img alt="forks" src="https://img.shields.io/github/forks/b3wT/CVE-2022-40648-MASS">	<img alt="stars" src="https://img.shields.io/github/stars/b3wT/CVE-2022-40648-MASS">
+
+---
 ## CVE-2022-40490 ()
 > 
 - [whitej3rry/CVE-2022-40490](https://github.com/whitej3rry/CVE-2022-40490)	<img alt="forks" src="https://img.shields.io/github/forks/whitej3rry/CVE-2022-40490">	<img alt="stars" src="https://img.shields.io/github/stars/whitej3rry/CVE-2022-40490">
