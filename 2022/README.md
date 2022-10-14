@@ -119,6 +119,7 @@
 - [secunnix/CVE-2022-40684](https://github.com/secunnix/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/secunnix/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/secunnix/CVE-2022-40684">
 - [Carl0sV1e1ra/CVE-2022-40684](https://github.com/Carl0sV1e1ra/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/Carl0sV1e1ra/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/Carl0sV1e1ra/CVE-2022-40684">
 - [iveresk/CVE-2022-40684](https://github.com/iveresk/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/iveresk/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/iveresk/CVE-2022-40684">
+- [mhd108/CVE-2022-40684](https://github.com/mhd108/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/mhd108/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/mhd108/CVE-2022-40684">
 
 ---
 ## CVE-2022-40648 (2022-09-15T16:15:00)
