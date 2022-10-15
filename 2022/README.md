@@ -1207,6 +1207,7 @@
 - [CLincat/vulcat](https://github.com/CLincat/vulcat)	<img alt="forks" src="https://img.shields.io/github/forks/CLincat/vulcat">	<img alt="stars" src="https://img.shields.io/github/stars/CLincat/vulcat">
 - [yigexioabai/CVE-2022-26134-cve](https://github.com/yigexioabai/CVE-2022-26134-cve)	<img alt="forks" src="https://img.shields.io/github/forks/yigexioabai/CVE-2022-26134-cve">	<img alt="stars" src="https://img.shields.io/github/stars/yigexioabai/CVE-2022-26134-cve">
 - [yigexioabai/CVE-2022-26134-cve1](https://github.com/yigexioabai/CVE-2022-26134-cve1)	<img alt="forks" src="https://img.shields.io/github/forks/yigexioabai/CVE-2022-26134-cve1">	<img alt="stars" src="https://img.shields.io/github/stars/yigexioabai/CVE-2022-26134-cve1">
+- [kailing0220/CVE-2022-26134](https://github.com/kailing0220/CVE-2022-26134)	<img alt="forks" src="https://img.shields.io/github/forks/kailing0220/CVE-2022-26134">	<img alt="stars" src="https://img.shields.io/github/stars/kailing0220/CVE-2022-26134">
 
 ---
 ## CVE-2022-2588 ()
