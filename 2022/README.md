@@ -16,6 +16,11 @@
 - [Warxim/CVE-2022-41852](https://github.com/Warxim/CVE-2022-41852)	<img alt="forks" src="https://img.shields.io/github/forks/Warxim/CVE-2022-41852">	<img alt="stars" src="https://img.shields.io/github/stars/Warxim/CVE-2022-41852">
 
 ---
+## CVE-2022-41358 ()
+> 
+- [thecasual/CVE-2022-41358](https://github.com/thecasual/CVE-2022-41358)	<img alt="forks" src="https://img.shields.io/github/forks/thecasual/CVE-2022-41358">	<img alt="stars" src="https://img.shields.io/github/stars/thecasual/CVE-2022-41358">
+
+---
 ## CVE-2022-41352 (2022-09-26T02:15:00)
 > An issue was discovered in Zimbra Collaboration (ZCS) 8.8.15 and 9.0. An attacker can upload arbitrary files through amavisd via a cpio loophole (extraction to /opt/zimbra/jetty/webapps/zimbra/public) that can lead to incorrect access to any other user accounts. Zimbra recommends pax over cpio. Also, pax is in the prerequisites of Zimbra on Ubuntu; however, pax is no longer part of a default Red Hat installation after RHEL 6 (or CentOS 6). Once pax is installed, amavisd automatically prefers it over cpio.
 - [segfault-it/cve-2022-41352](https://github.com/segfault-it/cve-2022-41352)	<img alt="forks" src="https://img.shields.io/github/forks/segfault-it/cve-2022-41352">	<img alt="stars" src="https://img.shields.io/github/stars/segfault-it/cve-2022-41352">
@@ -133,6 +138,7 @@
 - [mohamedbenchikh/FortiPWN](https://github.com/mohamedbenchikh/FortiPWN)	<img alt="forks" src="https://img.shields.io/github/forks/mohamedbenchikh/FortiPWN">	<img alt="stars" src="https://img.shields.io/github/stars/mohamedbenchikh/FortiPWN">
 - [hackingyseguridad/nmap](https://github.com/hackingyseguridad/nmap)	<img alt="forks" src="https://img.shields.io/github/forks/hackingyseguridad/nmap">	<img alt="stars" src="https://img.shields.io/github/stars/hackingyseguridad/nmap">
 - [Chocapikk/CVE-2022-40684](https://github.com/Chocapikk/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2022-40684">
+- [mohamedbenchikh/CVE-2022-40684](https://github.com/mohamedbenchikh/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/mohamedbenchikh/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/mohamedbenchikh/CVE-2022-40684">
 
 ---
 ## CVE-2022-40648 (2022-09-15T16:15:00)
