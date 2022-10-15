@@ -6,6 +6,7 @@
 - [Chocapikk/CVE-2021-46422](https://github.com/Chocapikk/CVE-2021-46422)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2021-46422">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2021-46422">
 - [twoning/CVE-2021-46422_PoC](https://github.com/twoning/CVE-2021-46422_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/twoning/CVE-2021-46422_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/twoning/CVE-2021-46422_PoC">
 - [nobodyatall648/CVE-2021-46422](https://github.com/nobodyatall648/CVE-2021-46422)	<img alt="forks" src="https://img.shields.io/github/forks/nobodyatall648/CVE-2021-46422">	<img alt="stars" src="https://img.shields.io/github/stars/nobodyatall648/CVE-2021-46422">
+- [Awei507/CVE-2021-46422](https://github.com/Awei507/CVE-2021-46422)	<img alt="forks" src="https://img.shields.io/github/forks/Awei507/CVE-2021-46422">	<img alt="stars" src="https://img.shields.io/github/stars/Awei507/CVE-2021-46422">
 
 ---
 ## CVE-2021-45067 (2022-01-14T20:15:00)
