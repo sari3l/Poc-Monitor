@@ -130,6 +130,7 @@
 - [mhd108/CVE-2022-40684](https://github.com/mhd108/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/mhd108/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/mhd108/CVE-2022-40684">
 - [hackingyseguridad/cve-40684-2022](https://github.com/hackingyseguridad/cve-40684-2022)	<img alt="forks" src="https://img.shields.io/github/forks/hackingyseguridad/cve-40684-2022">	<img alt="stars" src="https://img.shields.io/github/stars/hackingyseguridad/cve-40684-2022">
 - [ClickCyber/cve-2022-40684](https://github.com/ClickCyber/cve-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/ClickCyber/cve-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/ClickCyber/cve-2022-40684">
+- [mohamedbenchikh/FortiPWN](https://github.com/mohamedbenchikh/FortiPWN)	<img alt="forks" src="https://img.shields.io/github/forks/mohamedbenchikh/FortiPWN">	<img alt="stars" src="https://img.shields.io/github/stars/mohamedbenchikh/FortiPWN">
 
 ---
 ## CVE-2022-40648 (2022-09-15T16:15:00)
@@ -1203,6 +1204,7 @@
 - [trhacknon/CVE-2022-26134-miam](https://github.com/trhacknon/CVE-2022-26134-miam)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-26134-miam">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-26134-miam">
 - [skhalsa-sigsci/CVE-2022-26134-LAB](https://github.com/skhalsa-sigsci/CVE-2022-26134-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/skhalsa-sigsci/CVE-2022-26134-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/skhalsa-sigsci/CVE-2022-26134-LAB">
 - [CLincat/vulcat](https://github.com/CLincat/vulcat)	<img alt="forks" src="https://img.shields.io/github/forks/CLincat/vulcat">	<img alt="stars" src="https://img.shields.io/github/stars/CLincat/vulcat">
+- [yigexioabai/CVE-2022-26134-cve](https://github.com/yigexioabai/CVE-2022-26134-cve)	<img alt="forks" src="https://img.shields.io/github/forks/yigexioabai/CVE-2022-26134-cve">	<img alt="stars" src="https://img.shields.io/github/stars/yigexioabai/CVE-2022-26134-cve">
 
 ---
 ## CVE-2022-2588 ()
