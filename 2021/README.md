@@ -9,6 +9,7 @@
 - [Awei507/CVE-2021-46422](https://github.com/Awei507/CVE-2021-46422)	<img alt="forks" src="https://img.shields.io/github/forks/Awei507/CVE-2021-46422">	<img alt="stars" src="https://img.shields.io/github/stars/Awei507/CVE-2021-46422">
 - [yigexioabai/CVE-2021-46422-RCE](https://github.com/yigexioabai/CVE-2021-46422-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/yigexioabai/CVE-2021-46422-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/yigexioabai/CVE-2021-46422-RCE">
 - [yigexioabai/CVE-2021-46422-RCE](https://github.com/yigexioabai/CVE-2021-46422-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/yigexioabai/CVE-2021-46422-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/yigexioabai/CVE-2021-46422-RCE">
+- [yigexioabai/CVE-2021-46422_RCE](https://github.com/yigexioabai/CVE-2021-46422_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/yigexioabai/CVE-2021-46422_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/yigexioabai/CVE-2021-46422_RCE">
 
 ---
 ## CVE-2021-45067 (2022-01-14T20:15:00)
