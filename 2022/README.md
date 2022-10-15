@@ -1205,6 +1205,7 @@
 - [skhalsa-sigsci/CVE-2022-26134-LAB](https://github.com/skhalsa-sigsci/CVE-2022-26134-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/skhalsa-sigsci/CVE-2022-26134-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/skhalsa-sigsci/CVE-2022-26134-LAB">
 - [CLincat/vulcat](https://github.com/CLincat/vulcat)	<img alt="forks" src="https://img.shields.io/github/forks/CLincat/vulcat">	<img alt="stars" src="https://img.shields.io/github/stars/CLincat/vulcat">
 - [yigexioabai/CVE-2022-26134-cve](https://github.com/yigexioabai/CVE-2022-26134-cve)	<img alt="forks" src="https://img.shields.io/github/forks/yigexioabai/CVE-2022-26134-cve">	<img alt="stars" src="https://img.shields.io/github/stars/yigexioabai/CVE-2022-26134-cve">
+- [yigexioabai/CVE-2022-26134-cve1](https://github.com/yigexioabai/CVE-2022-26134-cve1)	<img alt="forks" src="https://img.shields.io/github/forks/yigexioabai/CVE-2022-26134-cve1">	<img alt="stars" src="https://img.shields.io/github/stars/yigexioabai/CVE-2022-26134-cve1">
 
 ---
 ## CVE-2022-2588 ()
