@@ -131,6 +131,7 @@
 - [hackingyseguridad/cve-40684-2022](https://github.com/hackingyseguridad/cve-40684-2022)	<img alt="forks" src="https://img.shields.io/github/forks/hackingyseguridad/cve-40684-2022">	<img alt="stars" src="https://img.shields.io/github/stars/hackingyseguridad/cve-40684-2022">
 - [ClickCyber/cve-2022-40684](https://github.com/ClickCyber/cve-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/ClickCyber/cve-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/ClickCyber/cve-2022-40684">
 - [mohamedbenchikh/FortiPWN](https://github.com/mohamedbenchikh/FortiPWN)	<img alt="forks" src="https://img.shields.io/github/forks/mohamedbenchikh/FortiPWN">	<img alt="stars" src="https://img.shields.io/github/stars/mohamedbenchikh/FortiPWN">
+- [hackingyseguridad/nmap](https://github.com/hackingyseguridad/nmap)	<img alt="forks" src="https://img.shields.io/github/forks/hackingyseguridad/nmap">	<img alt="stars" src="https://img.shields.io/github/stars/hackingyseguridad/nmap">
 
 ---
 ## CVE-2022-40648 (2022-09-15T16:15:00)
