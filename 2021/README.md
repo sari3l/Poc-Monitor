@@ -103,6 +103,11 @@
 - [c0resploit/CVE-2021-44158](https://github.com/c0resploit/CVE-2021-44158)	<img alt="forks" src="https://img.shields.io/github/forks/c0resploit/CVE-2021-44158">	<img alt="stars" src="https://img.shields.io/github/stars/c0resploit/CVE-2021-44158">
 
 ---
+## CVE-2021-44103 (2022-03-28T14:15:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2021-42192. Reason: This candidate is a duplicate of CVE-2021-42192. Notes: All CVE users should reference CVE-2021-42192 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage.
+- [paulotrindadec/CVE-2021-44103](https://github.com/paulotrindadec/CVE-2021-44103)	<img alt="forks" src="https://img.shields.io/github/forks/paulotrindadec/CVE-2021-44103">	<img alt="stars" src="https://img.shields.io/github/stars/paulotrindadec/CVE-2021-44103">
+
+---
 ## CVE-2021-44077 (2021-11-29T04:15:00)
 > Zoho ManageEngine ServiceDesk Plus before 11306, ServiceDesk Plus MSP before 10530, and SupportCenter Plus before 11014 are vulnerable to unauthenticated remote code execution. This is related to /RestAPI URLs in a servlet, and ImportTechnicians in the Struts configuration.
 - [pizza-power/Golang-CVE-2021-44077-POC](https://github.com/pizza-power/Golang-CVE-2021-44077-POC)	<img alt="forks" src="https://img.shields.io/github/forks/pizza-power/Golang-CVE-2021-44077-POC">	<img alt="stars" src="https://img.shields.io/github/stars/pizza-power/Golang-CVE-2021-44077-POC">
