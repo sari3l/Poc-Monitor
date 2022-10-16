@@ -142,6 +142,11 @@
 - [NeriaBasha/CVE-2022-40684](https://github.com/NeriaBasha/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/NeriaBasha/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/NeriaBasha/CVE-2022-40684">
 
 ---
+## CVE-2022-40664 (2022-10-12T07:15:00)
+> Apache Shiro before 1.10.0, Authentication Bypass Vulnerability in Shiro when forwarding or including via RequestDispatcher.
+- [Jackey0/CVE-2022-40664](https://github.com/Jackey0/CVE-2022-40664)	<img alt="forks" src="https://img.shields.io/github/forks/Jackey0/CVE-2022-40664">	<img alt="stars" src="https://img.shields.io/github/stars/Jackey0/CVE-2022-40664">
+
+---
 ## CVE-2022-40648 (2022-09-15T16:15:00)
 > This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ansys SpaceClaim 2022 R1. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of X_B files. The issue results from the lack of proper validation of user-supplied data, which can result in a write before the start of an allocated data structure. An attacker can leverage this vulnerability to execute code in the context of the current process. Was ZDI-CAN-17563.
 - [b3wT/CVE-2022-40648-MASS](https://github.com/b3wT/CVE-2022-40648-MASS)	<img alt="forks" src="https://img.shields.io/github/forks/b3wT/CVE-2022-40648-MASS">	<img alt="stars" src="https://img.shields.io/github/stars/b3wT/CVE-2022-40648-MASS">
