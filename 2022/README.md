@@ -1827,6 +1827,8 @@
 - [EvilLizard666/CVE-2022-1388](https://github.com/EvilLizard666/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/EvilLizard666/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/EvilLizard666/CVE-2022-1388">
 - [Vulnmachines/F5-Big-IP-CVE-2022-1388](https://github.com/Vulnmachines/F5-Big-IP-CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/F5-Big-IP-CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/F5-Big-IP-CVE-2022-1388">
 - [0xf4n9x/CVE-2022-1388](https://github.com/0xf4n9x/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/0xf4n9x/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/0xf4n9x/CVE-2022-1388">
+- [CLincat/vulcat](https://github.com/CLincat/vulcat)	<img alt="forks" src="https://img.shields.io/github/forks/CLincat/vulcat">	<img alt="stars" src="https://img.shields.io/github/stars/CLincat/vulcat">
+- [AmirHoseinTangsiriNET/CVE-2022-1388-Scanner](https://github.com/AmirHoseinTangsiriNET/CVE-2022-1388-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/AmirHoseinTangsiriNET/CVE-2022-1388-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/AmirHoseinTangsiriNET/CVE-2022-1388-Scanner">
 
 ---
 ## CVE-2022-1292 (2022-05-03T16:15:00)
