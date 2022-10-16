@@ -14,6 +14,7 @@
 - [latings/CVE-2021-46422](https://github.com/latings/CVE-2021-46422)	<img alt="forks" src="https://img.shields.io/github/forks/latings/CVE-2021-46422">	<img alt="stars" src="https://img.shields.io/github/stars/latings/CVE-2021-46422">
 - [CJ-0107/cve-2021-46422](https://github.com/CJ-0107/cve-2021-46422)	<img alt="forks" src="https://img.shields.io/github/forks/CJ-0107/cve-2021-46422">	<img alt="stars" src="https://img.shields.io/github/stars/CJ-0107/cve-2021-46422">
 - [kelemaoya/CVE-2021-46422](https://github.com/kelemaoya/CVE-2021-46422)	<img alt="forks" src="https://img.shields.io/github/forks/kelemaoya/CVE-2021-46422">	<img alt="stars" src="https://img.shields.io/github/stars/kelemaoya/CVE-2021-46422">
+- [yyqxi/CVE-2021-46422](https://github.com/yyqxi/CVE-2021-46422)	<img alt="forks" src="https://img.shields.io/github/forks/yyqxi/CVE-2021-46422">	<img alt="stars" src="https://img.shields.io/github/stars/yyqxi/CVE-2021-46422">
 
 ---
 ## CVE-2021-45067 (2022-01-14T20:15:00)

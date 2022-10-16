@@ -1219,6 +1219,7 @@
 - [kelemaoya/CVE-2022-26134](https://github.com/kelemaoya/CVE-2022-26134)	<img alt="forks" src="https://img.shields.io/github/forks/kelemaoya/CVE-2022-26134">	<img alt="stars" src="https://img.shields.io/github/stars/kelemaoya/CVE-2022-26134">
 - [kelemaoya/CVE-2022-26134](https://github.com/kelemaoya/CVE-2022-26134)	<img alt="forks" src="https://img.shields.io/github/forks/kelemaoya/CVE-2022-26134">	<img alt="stars" src="https://img.shields.io/github/stars/kelemaoya/CVE-2022-26134">
 - [CJ-0107/cve-2022-26134](https://github.com/CJ-0107/cve-2022-26134)	<img alt="forks" src="https://img.shields.io/github/forks/CJ-0107/cve-2022-26134">	<img alt="stars" src="https://img.shields.io/github/stars/CJ-0107/cve-2022-26134">
+- [latings/CVE-2022-26134](https://github.com/latings/CVE-2022-26134)	<img alt="forks" src="https://img.shields.io/github/forks/latings/CVE-2022-26134">	<img alt="stars" src="https://img.shields.io/github/stars/latings/CVE-2022-26134">
 
 ---
 ## CVE-2022-2588 ()
