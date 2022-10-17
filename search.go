@@ -15,7 +15,6 @@ import (
 )
 
 // 修改部分
-
 // CVE关联项目查询
 const enableRelatedQuery = true
 
@@ -32,8 +31,14 @@ func Notice(updateItems *[]*Item) {
 		name := nUrl.QueryEscape(item.Name)
 		content := nUrl.QueryEscape(item.Description)
 		if len(content) >= barkMsgLimit {
-			content = content[:barkMsgLimit] + "..."
+			nBarkMsgLimit := barkMsgLimit
+			// 防止%截断
+			if content[barkMsgLimit-1] == '%' {
+				nBarkMsgLimit = barkMsgLimit + 2
+			}
+			content = content[:nBarkMsgLimit] + "..."
 		}
+		fmt.Printf("[+] 准备发送 %s %s\n", name, content)
 		webhook := fmt.Sprintf("https://api.day.app/%s/%s/%s", barkToken, name, content)
 		option := bark.Option{Webhook: webhook}
 		option.Url = &item.HtmlUrl
@@ -63,7 +68,12 @@ func main() {
 	_ = ReadYamlFile(blackListFile, &blackUserMap)
 	cveList := checkLastUpdate(cveQuery, false, &addItems, &updateItems)
 	if enableRelatedQuery {
+		// cveList 去重
+		cveIdMap := map[string]bool{}
 		for _, cveId := range *cveList {
+			cveIdMap[cveId] = true
+		}
+		for cveId, _ := range cveIdMap {
 			_ = checkLastUpdate(cveId, true, &addItems, &updateItems)
 		}
 	}
