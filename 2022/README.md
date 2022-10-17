@@ -14,6 +14,7 @@
 ## CVE-2022-42889 (2022-10-13T13:15:00)
 > Apache Commons Text performs variable interpolation, allowing properties to be dynamically evaluated and expanded. The standard format for interpolation is "${prefix:name}", where "prefix" is used to locate an instance of org.apache.commons.text.lookup.StringLookup that performs the interpolation. Starting with version 1.5 and continuing through 1.9, the set of default Lookup instances included interpolators that could result in arbitrary code execution or contact with remote servers. These lookups are: - "script" - execute expressions using the JVM script execution engine (javax.script) - "dns" - resolve dns records - "url" - load values from urls, including from remote servers Applications using the interpolation defaults in the affected versions may be vulnerable to remote code execution or unintentional contact with remote servers if untrusted configuration values are used. Users are recommended to upgrade to Apache Commons Text 1.10.0, which disables the problematic interpolators by default.
 - [standb/CVE-2022-42889](https://github.com/standb/CVE-2022-42889)	<img alt="forks" src="https://img.shields.io/github/forks/standb/CVE-2022-42889">	<img alt="stars" src="https://img.shields.io/github/stars/standb/CVE-2022-42889">
+- [pr0n3d/CVE-2022-42889-MASS-RCE](https://github.com/pr0n3d/CVE-2022-42889-MASS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/pr0n3d/CVE-2022-42889-MASS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/pr0n3d/CVE-2022-42889-MASS-RCE">
 
 ---
 ## CVE-2022-41852 (2022-10-06T18:17:00)
@@ -935,8 +936,8 @@
 - [jprx/CVE-2022-29968](https://github.com/jprx/CVE-2022-29968)	<img alt="forks" src="https://img.shields.io/github/forks/jprx/CVE-2022-29968">	<img alt="stars" src="https://img.shields.io/github/stars/jprx/CVE-2022-29968">
 
 ---
-## CVE-2022-2992 ()
-> 
+## CVE-2022-2992 (2022-10-17T16:15:00)
+> A vulnerability in GitLab CE/EE affecting all versions from 11.10 prior to 15.1.6, 15.2 to 15.2.4, 15.3 to 15.3.2 allows an authenticated user to achieve remote code execution via the Import from GitHub API endpoint.
 - [CsEnox/CVE-2022-2992](https://github.com/CsEnox/CVE-2022-2992)	<img alt="forks" src="https://img.shields.io/github/forks/CsEnox/CVE-2022-2992">	<img alt="stars" src="https://img.shields.io/github/stars/CsEnox/CVE-2022-2992">
 - [RealAlphaMan/CVE-2022-2992](https://github.com/RealAlphaMan/CVE-2022-2992)	<img alt="forks" src="https://img.shields.io/github/forks/RealAlphaMan/CVE-2022-2992">	<img alt="stars" src="https://img.shields.io/github/stars/RealAlphaMan/CVE-2022-2992">
 - [Malwareman007/CVE-2022-2992](https://github.com/Malwareman007/CVE-2022-2992)	<img alt="forks" src="https://img.shields.io/github/forks/Malwareman007/CVE-2022-2992">	<img alt="stars" src="https://img.shields.io/github/stars/Malwareman007/CVE-2022-2992">
