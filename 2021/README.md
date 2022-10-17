@@ -18,6 +18,7 @@
 - [polerstar/CVE-2021-46422-poc](https://github.com/polerstar/CVE-2021-46422-poc)	<img alt="forks" src="https://img.shields.io/github/forks/polerstar/CVE-2021-46422-poc">	<img alt="stars" src="https://img.shields.io/github/stars/polerstar/CVE-2021-46422-poc">
 - [kailing0220/CVE-2021-46422](https://github.com/kailing0220/CVE-2021-46422)	<img alt="forks" src="https://img.shields.io/github/forks/kailing0220/CVE-2021-46422">	<img alt="stars" src="https://img.shields.io/github/stars/kailing0220/CVE-2021-46422">
 - [kailing0220/CVE-2021-46422](https://github.com/kailing0220/CVE-2021-46422)	<img alt="forks" src="https://img.shields.io/github/forks/kailing0220/CVE-2021-46422">	<img alt="stars" src="https://img.shields.io/github/stars/kailing0220/CVE-2021-46422">
+- [xanszZZ/SDT_CW3B1_rce](https://github.com/xanszZZ/SDT_CW3B1_rce)	<img alt="forks" src="https://img.shields.io/github/forks/xanszZZ/SDT_CW3B1_rce">	<img alt="stars" src="https://img.shields.io/github/stars/xanszZZ/SDT_CW3B1_rce">
 
 ---
 ## CVE-2021-45067 (2022-01-14T20:15:00)

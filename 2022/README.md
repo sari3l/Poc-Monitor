@@ -1232,6 +1232,7 @@
 - [CJ-0107/cve-2022-26134](https://github.com/CJ-0107/cve-2022-26134)	<img alt="forks" src="https://img.shields.io/github/forks/CJ-0107/cve-2022-26134">	<img alt="stars" src="https://img.shields.io/github/stars/CJ-0107/cve-2022-26134">
 - [latings/CVE-2022-26134](https://github.com/latings/CVE-2022-26134)	<img alt="forks" src="https://img.shields.io/github/forks/latings/CVE-2022-26134">	<img alt="stars" src="https://img.shields.io/github/stars/latings/CVE-2022-26134">
 - [yyqxi/CVE-2022-26134](https://github.com/yyqxi/CVE-2022-26134)	<img alt="forks" src="https://img.shields.io/github/forks/yyqxi/CVE-2022-26134">	<img alt="stars" src="https://img.shields.io/github/stars/yyqxi/CVE-2022-26134">
+- [xanszZZ/ATLASSIAN-Confluence_rce](https://github.com/xanszZZ/ATLASSIAN-Confluence_rce)	<img alt="forks" src="https://img.shields.io/github/forks/xanszZZ/ATLASSIAN-Confluence_rce">	<img alt="stars" src="https://img.shields.io/github/stars/xanszZZ/ATLASSIAN-Confluence_rce">
 
 ---
 ## CVE-2022-2588 ()
