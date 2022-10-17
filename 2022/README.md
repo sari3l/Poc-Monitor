@@ -222,6 +222,7 @@
 - [lovechoudoufu/about_cobaltstrike4.5_cdf](https://github.com/lovechoudoufu/about_cobaltstrike4.5_cdf)	<img alt="forks" src="https://img.shields.io/github/forks/lovechoudoufu/about_cobaltstrike4.5_cdf">	<img alt="stars" src="https://img.shields.io/github/stars/lovechoudoufu/about_cobaltstrike4.5_cdf">
 - [4nth0ny1130/CVE-2022-39197-fix_patch](https://github.com/4nth0ny1130/CVE-2022-39197-fix_patch)	<img alt="forks" src="https://img.shields.io/github/forks/4nth0ny1130/CVE-2022-39197-fix_patch">	<img alt="stars" src="https://img.shields.io/github/stars/4nth0ny1130/CVE-2022-39197-fix_patch">
 - [PyterSmithDarkGhost/CVE-2022-39197-POC](https://github.com/PyterSmithDarkGhost/CVE-2022-39197-POC)	<img alt="forks" src="https://img.shields.io/github/forks/PyterSmithDarkGhost/CVE-2022-39197-POC">	<img alt="stars" src="https://img.shields.io/github/stars/PyterSmithDarkGhost/CVE-2022-39197-POC">
+- [its-arun/CVE-2022-39197](https://github.com/its-arun/CVE-2022-39197)	<img alt="forks" src="https://img.shields.io/github/forks/its-arun/CVE-2022-39197">	<img alt="stars" src="https://img.shields.io/github/stars/its-arun/CVE-2022-39197">
 
 ---
 ## CVE-2022-39196 (2022-09-05T00:15:00)
@@ -1297,6 +1298,11 @@
 ## CVE-2022-24990 ()
 > 
 - [jsongmax/terraMaster-CVE-2022-24990](https://github.com/jsongmax/terraMaster-CVE-2022-24990)	<img alt="forks" src="https://img.shields.io/github/forks/jsongmax/terraMaster-CVE-2022-24990">	<img alt="stars" src="https://img.shields.io/github/stars/jsongmax/terraMaster-CVE-2022-24990">
+- [0xf4n9x/CVE-2022-24990](https://github.com/0xf4n9x/CVE-2022-24990)	<img alt="forks" src="https://img.shields.io/github/forks/0xf4n9x/CVE-2022-24990">	<img alt="stars" src="https://img.shields.io/github/stars/0xf4n9x/CVE-2022-24990">
+- [antx-code/CVE-2022-24990](https://github.com/antx-code/CVE-2022-24990)	<img alt="forks" src="https://img.shields.io/github/forks/antx-code/CVE-2022-24990">	<img alt="stars" src="https://img.shields.io/github/stars/antx-code/CVE-2022-24990">
+- [lishang520/CVE-2022-24990](https://github.com/lishang520/CVE-2022-24990)	<img alt="forks" src="https://img.shields.io/github/forks/lishang520/CVE-2022-24990">	<img alt="stars" src="https://img.shields.io/github/stars/lishang520/CVE-2022-24990">
+- [VVeakee/CVE-2022-24990-POC](https://github.com/VVeakee/CVE-2022-24990-POC)	<img alt="forks" src="https://img.shields.io/github/forks/VVeakee/CVE-2022-24990-POC">	<img alt="stars" src="https://img.shields.io/github/stars/VVeakee/CVE-2022-24990-POC">
+- [Jaky5155/CVE-2022-24990-TerraMaster-TOS--PHP-](https://github.com/Jaky5155/CVE-2022-24990-TerraMaster-TOS--PHP-)	<img alt="forks" src="https://img.shields.io/github/forks/Jaky5155/CVE-2022-24990-TerraMaster-TOS--PHP-">	<img alt="stars" src="https://img.shields.io/github/stars/Jaky5155/CVE-2022-24990-TerraMaster-TOS--PHP-">
 
 ---
 ## CVE-2022-24853 (2022-04-14T22:15:00)
