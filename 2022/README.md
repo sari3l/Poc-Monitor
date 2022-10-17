@@ -11,6 +11,11 @@
 - [Vbedtt54e5/interesting-release-of-CVE-2022-63432](https://github.com/Vbedtt54e5/interesting-release-of-CVE-2022-63432)	<img alt="forks" src="https://img.shields.io/github/forks/Vbedtt54e5/interesting-release-of-CVE-2022-63432">	<img alt="stars" src="https://img.shields.io/github/stars/Vbedtt54e5/interesting-release-of-CVE-2022-63432">
 
 ---
+## CVE-2022-42889 (2022-10-13T13:15:00)
+> Apache Commons Text performs variable interpolation, allowing properties to be dynamically evaluated and expanded. The standard format for interpolation is "${prefix:name}", where "prefix" is used to locate an instance of org.apache.commons.text.lookup.StringLookup that performs the interpolation. Starting with version 1.5 and continuing through 1.9, the set of default Lookup instances included interpolators that could result in arbitrary code execution or contact with remote servers. These lookups are: - "script" - execute expressions using the JVM script execution engine (javax.script) - "dns" - resolve dns records - "url" - load values from urls, including from remote servers Applications using the interpolation defaults in the affected versions may be vulnerable to remote code execution or unintentional contact with remote servers if untrusted configuration values are used. Users are recommended to upgrade to Apache Commons Text 1.10.0, which disables the problematic interpolators by default.
+- [standb/CVE-2022-42889](https://github.com/standb/CVE-2022-42889)	<img alt="forks" src="https://img.shields.io/github/forks/standb/CVE-2022-42889">	<img alt="stars" src="https://img.shields.io/github/stars/standb/CVE-2022-42889">
+
+---
 ## CVE-2022-41852 (2022-10-06T18:17:00)
 > Those using JXPath to interpret untrusted XPath expressions may be vulnerable to a remote code execution attack. All JXPathContext class functions processing a XPath string are vulnerable except compile() and compilePath() function. The XPath expression can be used by an attacker to load any Java class from the classpath resulting in code execution.
 - [Warxim/CVE-2022-41852](https://github.com/Warxim/CVE-2022-41852)	<img alt="forks" src="https://img.shields.io/github/forks/Warxim/CVE-2022-41852">	<img alt="stars" src="https://img.shields.io/github/stars/Warxim/CVE-2022-41852">
@@ -70,6 +75,7 @@
 - [rjsudlow/proxynotshell-IOC-Checker](https://github.com/rjsudlow/proxynotshell-IOC-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/rjsudlow/proxynotshell-IOC-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/rjsudlow/proxynotshell-IOC-Checker">
 - [y4b4n/CVE-2022-41082-RCE-POC](https://github.com/y4b4n/CVE-2022-41082-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/y4b4n/CVE-2022-41082-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/y4b4n/CVE-2022-41082-RCE-POC">
 - [backcr4t/CVE-2022-41082-RCE-POC](https://github.com/backcr4t/CVE-2022-41082-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/backcr4t/CVE-2022-41082-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/backcr4t/CVE-2022-41082-RCE-POC">
+- [backcr4t/CVE-2022-41082-RCE](https://github.com/backcr4t/CVE-2022-41082-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/backcr4t/CVE-2022-41082-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/backcr4t/CVE-2022-41082-RCE">
 
 ---
 ## CVE-2022-41040 (2022-10-03T01:15:00)
@@ -140,6 +146,8 @@
 - [Chocapikk/CVE-2022-40684](https://github.com/Chocapikk/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2022-40684">
 - [mohamedbenchikh/CVE-2022-40684](https://github.com/mohamedbenchikh/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/mohamedbenchikh/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/mohamedbenchikh/CVE-2022-40684">
 - [NeriaBasha/CVE-2022-40684](https://github.com/NeriaBasha/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/NeriaBasha/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/NeriaBasha/CVE-2022-40684">
+- [jsongmax/Fortinet-CVE-2022-40684](https://github.com/jsongmax/Fortinet-CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/jsongmax/Fortinet-CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/jsongmax/Fortinet-CVE-2022-40684">
+- [puckiestyle/CVE-2022-40684](https://github.com/puckiestyle/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/puckiestyle/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/puckiestyle/CVE-2022-40684">
 
 ---
 ## CVE-2022-40664 (2022-10-12T07:15:00)
@@ -421,6 +429,11 @@
 - [MaherAzzouzi/CVE-2022-36162](https://github.com/MaherAzzouzi/CVE-2022-36162)	<img alt="forks" src="https://img.shields.io/github/forks/MaherAzzouzi/CVE-2022-36162">	<img alt="stars" src="https://img.shields.io/github/stars/MaherAzzouzi/CVE-2022-36162">
 
 ---
+## CVE-2022-36067 (2022-09-06T22:15:00)
+> vm2 is a sandbox that can run untrusted code with whitelisted Node's built-in modules. In versions prior to version 3.9.11, a threat actor can bypass the sandbox protections to gain remote code execution rights on the host running the sandbox. This vulnerability was patched in the release of version 3.9.11 of vm2. There are no known workarounds.
+- [backcr4t/CVE-2022-36067-MASS-RCE](https://github.com/backcr4t/CVE-2022-36067-MASS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/backcr4t/CVE-2022-36067-MASS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/backcr4t/CVE-2022-36067-MASS-RCE">
+
+---
 ## CVE-2022-35914 (2022-09-19T16:15:00)
 > /vendor/htmlawed/htmlawed/htmLawedTest.php in the htmlawed module for GLPI through 10.0.2 allows PHP code injection.
 - [cosad3s/CVE-2022-35914-poc](https://github.com/cosad3s/CVE-2022-35914-poc)	<img alt="forks" src="https://img.shields.io/github/forks/cosad3s/CVE-2022-35914-poc">	<img alt="stars" src="https://img.shields.io/github/stars/cosad3s/CVE-2022-35914-poc">
@@ -623,6 +636,7 @@
 - [Ziggy78/CVE-2022-3236-RCE-POC](https://github.com/Ziggy78/CVE-2022-3236-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Ziggy78/CVE-2022-3236-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Ziggy78/CVE-2022-3236-RCE-POC">
 - [sevous/CVE-2022-3236-RCE](https://github.com/sevous/CVE-2022-3236-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/sevous/CVE-2022-3236-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/sevous/CVE-2022-3236-RCE">
 - [n0npro/CVE-2022-3236-RCE-POC](https://github.com/n0npro/CVE-2022-3236-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/n0npro/CVE-2022-3236-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/n0npro/CVE-2022-3236-RCE-POC">
+- [n0npro/CVE-2022-3236-MASS-RCE](https://github.com/n0npro/CVE-2022-3236-MASS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/n0npro/CVE-2022-3236-MASS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/n0npro/CVE-2022-3236-MASS-RCE">
 
 ---
 ## CVE-2022-32250 (2022-06-02T21:15:00)
@@ -1280,6 +1294,11 @@
 - [n8tz/CVE-2022-24999](https://github.com/n8tz/CVE-2022-24999)	<img alt="forks" src="https://img.shields.io/github/forks/n8tz/CVE-2022-24999">	<img alt="stars" src="https://img.shields.io/github/stars/n8tz/CVE-2022-24999">
 
 ---
+## CVE-2022-24990 ()
+> 
+- [jsongmax/terraMaster-CVE-2022-24990](https://github.com/jsongmax/terraMaster-CVE-2022-24990)	<img alt="forks" src="https://img.shields.io/github/forks/jsongmax/terraMaster-CVE-2022-24990">	<img alt="stars" src="https://img.shields.io/github/stars/jsongmax/terraMaster-CVE-2022-24990">
+
+---
 ## CVE-2022-24853 (2022-04-14T22:15:00)
 > Metabase is an open source business intelligence and analytics application. Metabase has a proxy to load arbitrary URLs for JSON maps as part of our GeoJSON support. While we do validation to not return contents of arbitrary URLs, there is a case where a particularly crafted request could result in file access on windows, which allows enabling an `NTLM relay attack`, potentially allowing an attacker to receive the system password hash. If you use Windows and are on this version of Metabase, please upgrade immediately. The following patches (or greater versions) are available: 0.42.4 and 1.42.4, 0.41.7 and 1.41.7, 0.40.8 and 1.40.8.
 - [secure-77/CVE-2022-24853](https://github.com/secure-77/CVE-2022-24853)	<img alt="forks" src="https://img.shields.io/github/forks/secure-77/CVE-2022-24853">	<img alt="stars" src="https://img.shields.io/github/stars/secure-77/CVE-2022-24853">
@@ -1933,6 +1952,14 @@
 - [trhacknon/CVE-2022-0847-DirtyPipe-Exploit](https://github.com/trhacknon/CVE-2022-0847-DirtyPipe-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-0847-DirtyPipe-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-0847-DirtyPipe-Exploit">
 - [edsonjt81/CVE-2022-0847-DirtyPipe-](https://github.com/edsonjt81/CVE-2022-0847-DirtyPipe-)	<img alt="forks" src="https://img.shields.io/github/forks/edsonjt81/CVE-2022-0847-DirtyPipe-">	<img alt="stars" src="https://img.shields.io/github/stars/edsonjt81/CVE-2022-0847-DirtyPipe-">
 - [badboy-sft/Dirty-Pipe-Oneshot](https://github.com/badboy-sft/Dirty-Pipe-Oneshot)	<img alt="forks" src="https://img.shields.io/github/forks/badboy-sft/Dirty-Pipe-Oneshot">	<img alt="stars" src="https://img.shields.io/github/stars/badboy-sft/Dirty-Pipe-Oneshot">
+
+---
+## CVE-2022-0824 (2022-03-02T12:15:00)
+> Improper Access Control to Remote Code Execution in GitHub repository webmin/webmin prior to 1.990.
+- [pizza-power/golang-webmin-CVE-2022-0824-revshell](https://github.com/pizza-power/golang-webmin-CVE-2022-0824-revshell)	<img alt="forks" src="https://img.shields.io/github/forks/pizza-power/golang-webmin-CVE-2022-0824-revshell">	<img alt="stars" src="https://img.shields.io/github/stars/pizza-power/golang-webmin-CVE-2022-0824-revshell">
+- [kh4sh3i/Webmin-CVE](https://github.com/kh4sh3i/Webmin-CVE)	<img alt="forks" src="https://img.shields.io/github/forks/kh4sh3i/Webmin-CVE">	<img alt="stars" src="https://img.shields.io/github/stars/kh4sh3i/Webmin-CVE">
+- [honypot/CVE-2022-0824](https://github.com/honypot/CVE-2022-0824)	<img alt="forks" src="https://img.shields.io/github/forks/honypot/CVE-2022-0824">	<img alt="stars" src="https://img.shields.io/github/stars/honypot/CVE-2022-0824">
+- [faisalfs10x/Webmin-CVE-2022-0824-revshell](https://github.com/faisalfs10x/Webmin-CVE-2022-0824-revshell)	<img alt="forks" src="https://img.shields.io/github/forks/faisalfs10x/Webmin-CVE-2022-0824-revshell">	<img alt="stars" src="https://img.shields.io/github/stars/faisalfs10x/Webmin-CVE-2022-0824-revshell">
 
 ---
 ## CVE-2022-0666 (2022-02-18T15:15:00)

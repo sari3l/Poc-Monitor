@@ -50,6 +50,21 @@
 - [knqyf263/CVE-2019-5420](https://github.com/knqyf263/CVE-2019-5420)	<img alt="forks" src="https://img.shields.io/github/forks/knqyf263/CVE-2019-5420">	<img alt="stars" src="https://img.shields.io/github/stars/knqyf263/CVE-2019-5420">
 
 ---
+## CVE-2019-5418 (2019-03-27T14:29:00)
+> There is a File Content Disclosure vulnerability in Action View <5.2.2.1, <5.1.6.2, <5.0.7.2, <4.2.11.1 and v3 where specially crafted accept headers can cause contents of arbitrary files on the target system's filesystem to be exposed.
+- [kailing0220/CVE-2019-5418](https://github.com/kailing0220/CVE-2019-5418)	<img alt="forks" src="https://img.shields.io/github/forks/kailing0220/CVE-2019-5418">	<img alt="stars" src="https://img.shields.io/github/stars/kailing0220/CVE-2019-5418">
+- [W01fh4cker/Serein](https://github.com/W01fh4cker/Serein)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/Serein">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/Serein">
+- [mpgn/Rails-doubletap-RCE](https://github.com/mpgn/Rails-doubletap-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mpgn/Rails-doubletap-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mpgn/Rails-doubletap-RCE">
+- [mpgn/CVE-2019-5418](https://github.com/mpgn/CVE-2019-5418)	<img alt="forks" src="https://img.shields.io/github/forks/mpgn/CVE-2019-5418">	<img alt="stars" src="https://img.shields.io/github/stars/mpgn/CVE-2019-5418">
+- [random-robbie/CVE-2019-5418](https://github.com/random-robbie/CVE-2019-5418)	<img alt="forks" src="https://img.shields.io/github/forks/random-robbie/CVE-2019-5418">	<img alt="stars" src="https://img.shields.io/github/stars/random-robbie/CVE-2019-5418">
+- [ztgrace/CVE-2019-5418-Rails3](https://github.com/ztgrace/CVE-2019-5418-Rails3)	<img alt="forks" src="https://img.shields.io/github/forks/ztgrace/CVE-2019-5418-Rails3">	<img alt="stars" src="https://img.shields.io/github/stars/ztgrace/CVE-2019-5418-Rails3">
+- [Bad3r/RailroadBandit](https://github.com/Bad3r/RailroadBandit)	<img alt="forks" src="https://img.shields.io/github/forks/Bad3r/RailroadBandit">	<img alt="stars" src="https://img.shields.io/github/stars/Bad3r/RailroadBandit">
+- [NotoriousRebel/RailRoadBandit](https://github.com/NotoriousRebel/RailRoadBandit)	<img alt="forks" src="https://img.shields.io/github/forks/NotoriousRebel/RailRoadBandit">	<img alt="stars" src="https://img.shields.io/github/stars/NotoriousRebel/RailRoadBandit">
+- [takeokunn/CVE-2019-5418](https://github.com/takeokunn/CVE-2019-5418)	<img alt="forks" src="https://img.shields.io/github/forks/takeokunn/CVE-2019-5418">	<img alt="stars" src="https://img.shields.io/github/stars/takeokunn/CVE-2019-5418">
+- [brompwnie/CVE-2019-5418-Scanner](https://github.com/brompwnie/CVE-2019-5418-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/brompwnie/CVE-2019-5418-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/brompwnie/CVE-2019-5418-Scanner">
+- [omarkurt/CVE-2019-5418](https://github.com/omarkurt/CVE-2019-5418)	<img alt="forks" src="https://img.shields.io/github/forks/omarkurt/CVE-2019-5418">	<img alt="stars" src="https://img.shields.io/github/stars/omarkurt/CVE-2019-5418">
+
+---
 ## CVE-2019-3560 (2019-04-29T16:29:00)
 > An improperly performed length calculation on a buffer in PlaintextRecordLayer could lead to an infinite loop and denial-of-service based on user input. This issue affected versions of fizz prior to v2019.03.04.00.
 - [ahaShiyu/CVE-2019-3560](https://github.com/ahaShiyu/CVE-2019-3560)	<img alt="forks" src="https://img.shields.io/github/forks/ahaShiyu/CVE-2019-3560">	<img alt="stars" src="https://img.shields.io/github/stars/ahaShiyu/CVE-2019-3560">
