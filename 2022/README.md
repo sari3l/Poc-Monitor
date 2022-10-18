@@ -18,6 +18,7 @@
 - [SeanWrightSec/CVE-2022-42889-PoC](https://github.com/SeanWrightSec/CVE-2022-42889-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/SeanWrightSec/CVE-2022-42889-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/SeanWrightSec/CVE-2022-42889-PoC">
 - [tulhan/commons-text-goat](https://github.com/tulhan/commons-text-goat)	<img alt="forks" src="https://img.shields.io/github/forks/tulhan/commons-text-goat">	<img alt="stars" src="https://img.shields.io/github/stars/tulhan/commons-text-goat">
 - [karthikuj/cve-2022-42889-text4shell-docker](https://github.com/karthikuj/cve-2022-42889-text4shell-docker)	<img alt="forks" src="https://img.shields.io/github/forks/karthikuj/cve-2022-42889-text4shell-docker">	<img alt="stars" src="https://img.shields.io/github/stars/karthikuj/cve-2022-42889-text4shell-docker">
+- [chainguard-dev/text4shell-policy](https://github.com/chainguard-dev/text4shell-policy)	<img alt="forks" src="https://img.shields.io/github/forks/chainguard-dev/text4shell-policy">	<img alt="stars" src="https://img.shields.io/github/stars/chainguard-dev/text4shell-policy">
 
 ---
 ## CVE-2022-41852 (2022-10-06T18:17:00)
