@@ -19,6 +19,7 @@
 - [tulhan/commons-text-goat](https://github.com/tulhan/commons-text-goat)	<img alt="forks" src="https://img.shields.io/github/forks/tulhan/commons-text-goat">	<img alt="stars" src="https://img.shields.io/github/stars/tulhan/commons-text-goat">
 - [karthikuj/cve-2022-42889-text4shell-docker](https://github.com/karthikuj/cve-2022-42889-text4shell-docker)	<img alt="forks" src="https://img.shields.io/github/forks/karthikuj/cve-2022-42889-text4shell-docker">	<img alt="stars" src="https://img.shields.io/github/stars/karthikuj/cve-2022-42889-text4shell-docker">
 - [chainguard-dev/text4shell-policy](https://github.com/chainguard-dev/text4shell-policy)	<img alt="forks" src="https://img.shields.io/github/forks/chainguard-dev/text4shell-policy">	<img alt="stars" src="https://img.shields.io/github/stars/chainguard-dev/text4shell-policy">
+- [ClickCyber/cve-2022-42889](https://github.com/ClickCyber/cve-2022-42889)	<img alt="forks" src="https://img.shields.io/github/forks/ClickCyber/cve-2022-42889">	<img alt="stars" src="https://img.shields.io/github/stars/ClickCyber/cve-2022-42889">
 
 ---
 ## CVE-2022-41852 (2022-10-06T18:17:00)
@@ -149,7 +150,7 @@
 - [mohamedbenchikh/FortiPWN](https://github.com/mohamedbenchikh/FortiPWN)	<img alt="forks" src="https://img.shields.io/github/forks/mohamedbenchikh/FortiPWN">	<img alt="stars" src="https://img.shields.io/github/stars/mohamedbenchikh/FortiPWN">
 - [hackingyseguridad/nmap](https://github.com/hackingyseguridad/nmap)	<img alt="forks" src="https://img.shields.io/github/forks/hackingyseguridad/nmap">	<img alt="stars" src="https://img.shields.io/github/stars/hackingyseguridad/nmap">
 - [Chocapikk/CVE-2022-40684](https://github.com/Chocapikk/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2022-40684">
-- [mohamedbenchikh/FortiPWN](https://github.com/mohamedbenchikh/FortiPWN)	<img alt="forks" src="https://img.shields.io/github/forks/mohamedbenchikh/FortiPWN">	<img alt="stars" src="https://img.shields.io/github/stars/mohamedbenchikh/FortiPWN">
+- [mohamedbenchikh/CVE-2022-40684](https://github.com/mohamedbenchikh/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/mohamedbenchikh/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/mohamedbenchikh/CVE-2022-40684">
 - [NeriaBasha/CVE-2022-40684](https://github.com/NeriaBasha/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/NeriaBasha/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/NeriaBasha/CVE-2022-40684">
 - [jsongmax/Fortinet-CVE-2022-40684](https://github.com/jsongmax/Fortinet-CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/jsongmax/Fortinet-CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/jsongmax/Fortinet-CVE-2022-40684">
 - [puckiestyle/CVE-2022-40684](https://github.com/puckiestyle/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/puckiestyle/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/puckiestyle/CVE-2022-40684">
