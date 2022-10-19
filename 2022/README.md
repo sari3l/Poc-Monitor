@@ -166,6 +166,7 @@
 - [jsongmax/Fortinet-CVE-2022-40684](https://github.com/jsongmax/Fortinet-CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/jsongmax/Fortinet-CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/jsongmax/Fortinet-CVE-2022-40684">
 - [puckiestyle/CVE-2022-40684](https://github.com/puckiestyle/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/puckiestyle/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/puckiestyle/CVE-2022-40684">
 - [trhacknon/CVE-2022-40684](https://github.com/trhacknon/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-40684">
+- [und3sc0n0c1d0/CVE-2022-40684](https://github.com/und3sc0n0c1d0/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/und3sc0n0c1d0/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/und3sc0n0c1d0/CVE-2022-40684">
 
 ---
 ## CVE-2022-40674 (2022-09-14T11:15:00)
@@ -1126,6 +1127,11 @@
 ## CVE-2022-27438 (2022-06-06T23:15:00)
 > Caphyon Ltd Advanced Installer 19.3 and earlier and many products that use the updater from Advanced Installer (Advanced Updater) are affected by a remote code execution vulnerability via the CustomDetection parameter in the update check function. To exploit this vulnerability, a user must start an affected installation to trigger the update check.
 - [gerr-re/cve-2022-27438](https://github.com/gerr-re/cve-2022-27438)	<img alt="forks" src="https://img.shields.io/github/forks/gerr-re/cve-2022-27438">	<img alt="stars" src="https://img.shields.io/github/stars/gerr-re/cve-2022-27438">
+
+---
+## CVE-2022-27414 ()
+> 
+- [lus33rr/CVE-2022-27414](https://github.com/lus33rr/CVE-2022-27414)	<img alt="forks" src="https://img.shields.io/github/forks/lus33rr/CVE-2022-27414">	<img alt="stars" src="https://img.shields.io/github/stars/lus33rr/CVE-2022-27414">
 
 ---
 ## CVE-2022-27255 (2022-08-01T12:15:00)
