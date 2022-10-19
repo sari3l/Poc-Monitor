@@ -30,6 +30,7 @@
 - [eunomie/cve-2022-42889-check](https://github.com/eunomie/cve-2022-42889-check)	<img alt="forks" src="https://img.shields.io/github/forks/eunomie/cve-2022-42889-check">	<img alt="stars" src="https://img.shields.io/github/stars/eunomie/cve-2022-42889-check">
 - [Afrouper/MavenDependencyCVE-Scanner](https://github.com/Afrouper/MavenDependencyCVE-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Afrouper/MavenDependencyCVE-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Afrouper/MavenDependencyCVE-Scanner">
 - [kljunowsky/CVE-2022-42889-text4shell](https://github.com/kljunowsky/CVE-2022-42889-text4shell)	<img alt="forks" src="https://img.shields.io/github/forks/kljunowsky/CVE-2022-42889-text4shell">	<img alt="stars" src="https://img.shields.io/github/stars/kljunowsky/CVE-2022-42889-text4shell">
+- [securekomodo/text4shell-scan](https://github.com/securekomodo/text4shell-scan)	<img alt="forks" src="https://img.shields.io/github/forks/securekomodo/text4shell-scan">	<img alt="stars" src="https://img.shields.io/github/stars/securekomodo/text4shell-scan">
 
 ---
 ## CVE-2022-41852 (2022-10-06T18:17:00)
@@ -164,6 +165,7 @@
 - [NeriaBasha/CVE-2022-40684](https://github.com/NeriaBasha/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/NeriaBasha/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/NeriaBasha/CVE-2022-40684">
 - [jsongmax/Fortinet-CVE-2022-40684](https://github.com/jsongmax/Fortinet-CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/jsongmax/Fortinet-CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/jsongmax/Fortinet-CVE-2022-40684">
 - [puckiestyle/CVE-2022-40684](https://github.com/puckiestyle/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/puckiestyle/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/puckiestyle/CVE-2022-40684">
+- [trhacknon/CVE-2022-40684](https://github.com/trhacknon/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-40684">
 
 ---
 ## CVE-2022-40674 (2022-09-14T11:15:00)
