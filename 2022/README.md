@@ -11,6 +11,11 @@
 - [Vbedtt54e5/interesting-release-of-CVE-2022-63432](https://github.com/Vbedtt54e5/interesting-release-of-CVE-2022-63432)	<img alt="forks" src="https://img.shields.io/github/forks/Vbedtt54e5/interesting-release-of-CVE-2022-63432">	<img alt="stars" src="https://img.shields.io/github/stars/Vbedtt54e5/interesting-release-of-CVE-2022-63432">
 
 ---
+## CVE-2022-42899 (2022-10-13T03:15:00)
+> Bentley MicroStation and MicroStation-based applications may be affected by out-of-bounds read and stack overflow issues when opening crafted SKP files. Exploiting these issues could lead to information disclosure and code execution. The fixed versions are 10.17.01.58* for MicroStation and 10.17.01.19* for Bentley View.
+- [iamsanjay/CVE-2022-42899](https://github.com/iamsanjay/CVE-2022-42899)	<img alt="forks" src="https://img.shields.io/github/forks/iamsanjay/CVE-2022-42899">	<img alt="stars" src="https://img.shields.io/github/stars/iamsanjay/CVE-2022-42899">
+
+---
 ## CVE-2022-42889 (2022-10-13T13:15:00)
 > Apache Commons Text performs variable interpolation, allowing properties to be dynamically evaluated and expanded. The standard format for interpolation is "${prefix:name}", where "prefix" is used to locate an instance of org.apache.commons.text.lookup.StringLookup that performs the interpolation. Starting with version 1.5 and continuing through 1.9, the set of default Lookup instances included interpolators that could result in arbitrary code execution or contact with remote servers. These lookups are: - "script" - execute expressions using the JVM script execution engine (javax.script) - "dns" - resolve dns records - "url" - load values from urls, including from remote servers Applications using the interpolation defaults in the affected versions may be vulnerable to remote code execution or unintentional contact with remote servers if untrusted configuration values are used. Users are recommended to upgrade to Apache Commons Text 1.10.0, which disables the problematic interpolators by default.
 - [standb/CVE-2022-42889](https://github.com/standb/CVE-2022-42889)	<img alt="forks" src="https://img.shields.io/github/forks/standb/CVE-2022-42889">	<img alt="stars" src="https://img.shields.io/github/stars/standb/CVE-2022-42889">
