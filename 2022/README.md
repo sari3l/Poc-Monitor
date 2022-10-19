@@ -165,6 +165,11 @@
 - [puckiestyle/CVE-2022-40684](https://github.com/puckiestyle/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/puckiestyle/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/puckiestyle/CVE-2022-40684">
 
 ---
+## CVE-2022-40674 (2022-09-14T11:15:00)
+> libexpat before 2.4.9 has a use-after-free in the doContent function in xmlparse.c.
+- [nidhi7598/-expat_2.1.0_CVE-2022-40674](https://github.com/nidhi7598/-expat_2.1.0_CVE-2022-40674)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/-expat_2.1.0_CVE-2022-40674">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/-expat_2.1.0_CVE-2022-40674">
+
+---
 ## CVE-2022-40664 (2022-10-12T07:15:00)
 > Apache Shiro before 1.10.0, Authentication Bypass Vulnerability in Shiro when forwarding or including via RequestDispatcher.
 - [Jackey0/CVE-2022-40664](https://github.com/Jackey0/CVE-2022-40664)	<img alt="forks" src="https://img.shields.io/github/forks/Jackey0/CVE-2022-40664">	<img alt="stars" src="https://img.shields.io/github/stars/Jackey0/CVE-2022-40664">
