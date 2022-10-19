@@ -27,6 +27,7 @@
 - [ClickCyber/cve-2022-42889](https://github.com/ClickCyber/cve-2022-42889)	<img alt="forks" src="https://img.shields.io/github/forks/ClickCyber/cve-2022-42889">	<img alt="stars" src="https://img.shields.io/github/stars/ClickCyber/cve-2022-42889">
 - [Goss1TheDog/CVE-2022-42889-RCE-POC](https://github.com/Goss1TheDog/CVE-2022-42889-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Goss1TheDog/CVE-2022-42889-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Goss1TheDog/CVE-2022-42889-RCE-POC">
 - [korteke/CVE-2022-42889-POC](https://github.com/korteke/CVE-2022-42889-POC)	<img alt="forks" src="https://img.shields.io/github/forks/korteke/CVE-2022-42889-POC">	<img alt="stars" src="https://img.shields.io/github/stars/korteke/CVE-2022-42889-POC">
+- [eunomie/cve-2022-42889-check](https://github.com/eunomie/cve-2022-42889-check)	<img alt="forks" src="https://img.shields.io/github/forks/eunomie/cve-2022-42889-check">	<img alt="stars" src="https://img.shields.io/github/stars/eunomie/cve-2022-42889-check">
 
 ---
 ## CVE-2022-41852 (2022-10-06T18:17:00)
