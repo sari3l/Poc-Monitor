@@ -1113,6 +1113,7 @@
 - [touchmycrazyredhat/CVE-2022-27925-Revshell](https://github.com/touchmycrazyredhat/CVE-2022-27925-Revshell)	<img alt="forks" src="https://img.shields.io/github/forks/touchmycrazyredhat/CVE-2022-27925-Revshell">	<img alt="stars" src="https://img.shields.io/github/stars/touchmycrazyredhat/CVE-2022-27925-Revshell">
 - [Inplex-sys/CVE-2022-27925](https://github.com/Inplex-sys/CVE-2022-27925)	<img alt="forks" src="https://img.shields.io/github/forks/Inplex-sys/CVE-2022-27925">	<img alt="stars" src="https://img.shields.io/github/stars/Inplex-sys/CVE-2022-27925">
 - [jam620/Zimbra](https://github.com/jam620/Zimbra)	<img alt="forks" src="https://img.shields.io/github/forks/jam620/Zimbra">	<img alt="stars" src="https://img.shields.io/github/stars/jam620/Zimbra">
+- [onlyHerold22/CVE-2022-27925-PoC](https://github.com/onlyHerold22/CVE-2022-27925-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/onlyHerold22/CVE-2022-27925-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/onlyHerold22/CVE-2022-27925-PoC">
 
 ---
 ## CVE-2022-27502 (2022-06-10T13:15:00)

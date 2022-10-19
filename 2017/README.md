@@ -61,9 +61,10 @@
 - [jorhelp/Ingram](https://github.com/jorhelp/Ingram)	<img alt="forks" src="https://img.shields.io/github/forks/jorhelp/Ingram">	<img alt="stars" src="https://img.shields.io/github/stars/jorhelp/Ingram">
 - [chrisjd20/hikvision_CVE-2017-7921_auth_bypass_config_decryptor](https://github.com/chrisjd20/hikvision_CVE-2017-7921_auth_bypass_config_decryptor)	<img alt="forks" src="https://img.shields.io/github/forks/chrisjd20/hikvision_CVE-2017-7921_auth_bypass_config_decryptor">	<img alt="stars" src="https://img.shields.io/github/stars/chrisjd20/hikvision_CVE-2017-7921_auth_bypass_config_decryptor">
 - [MisakaMikato/cve-2017-7921-golang](https://github.com/MisakaMikato/cve-2017-7921-golang)	<img alt="forks" src="https://img.shields.io/github/forks/MisakaMikato/cve-2017-7921-golang">	<img alt="stars" src="https://img.shields.io/github/stars/MisakaMikato/cve-2017-7921-golang">
-- [A403/CVE_2017_7921_EXP](https://github.com/A403/CVE_2017_7921_EXP)	<img alt="forks" src="https://img.shields.io/github/forks/A403/CVE_2017_7921_EXP">	<img alt="stars" src="https://img.shields.io/github/stars/A403/CVE_2017_7921_EXP">
+- [D2550/CVE_2017_7921_EXP](https://github.com/D2550/CVE_2017_7921_EXP)	<img alt="forks" src="https://img.shields.io/github/forks/D2550/CVE_2017_7921_EXP">	<img alt="stars" src="https://img.shields.io/github/stars/D2550/CVE_2017_7921_EXP">
 - [BurnyMcDull/CVE-2017-7921](https://github.com/BurnyMcDull/CVE-2017-7921)	<img alt="forks" src="https://img.shields.io/github/forks/BurnyMcDull/CVE-2017-7921">	<img alt="stars" src="https://img.shields.io/github/stars/BurnyMcDull/CVE-2017-7921">
 - [JrDw0/CVE-2017-7921-EXP](https://github.com/JrDw0/CVE-2017-7921-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/JrDw0/CVE-2017-7921-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/JrDw0/CVE-2017-7921-EXP">
+- [inj3ction/CVE-2017-7921-EXP](https://github.com/inj3ction/CVE-2017-7921-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/inj3ction/CVE-2017-7921-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/inj3ction/CVE-2017-7921-EXP">
 
 ---
 ## CVE-2017-7529 (2017-07-13T13:29:00)
