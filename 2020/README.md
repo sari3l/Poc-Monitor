@@ -191,6 +191,11 @@
 - [Kento-Sec/GitLab-Graphql-CVE-2020-26413](https://github.com/Kento-Sec/GitLab-Graphql-CVE-2020-26413)	<img alt="forks" src="https://img.shields.io/github/forks/Kento-Sec/GitLab-Graphql-CVE-2020-26413">	<img alt="stars" src="https://img.shields.io/github/stars/Kento-Sec/GitLab-Graphql-CVE-2020-26413">
 
 ---
+## CVE-2020-25540 (2020-09-14T13:15:00)
+> ThinkAdmin v6 is affected by a directory traversal vulnerability. An unauthorized attacker can read arbitrarily file on a remote server via GET request encode parameter.
+- [Schira4396/CVE-2020-25540](https://github.com/Schira4396/CVE-2020-25540)	<img alt="forks" src="https://img.shields.io/github/forks/Schira4396/CVE-2020-25540">	<img alt="stars" src="https://img.shields.io/github/stars/Schira4396/CVE-2020-25540">
+
+---
 ## CVE-2020-25478 ()
 > 
 - [santokum/CVE-2020-25478--ASUS-RT-AC87U-TFTP-is-vulnerable-to-Denial-of-Service-DoS-attack](https://github.com/santokum/CVE-2020-25478--ASUS-RT-AC87U-TFTP-is-vulnerable-to-Denial-of-Service-DoS-attack)	<img alt="forks" src="https://img.shields.io/github/forks/santokum/CVE-2020-25478--ASUS-RT-AC87U-TFTP-is-vulnerable-to-Denial-of-Service-DoS-attack">	<img alt="stars" src="https://img.shields.io/github/stars/santokum/CVE-2020-25478--ASUS-RT-AC87U-TFTP-is-vulnerable-to-Denial-of-Service-DoS-attack">

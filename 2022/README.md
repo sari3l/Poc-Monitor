@@ -39,8 +39,8 @@
 - [Warxim/CVE-2022-41852](https://github.com/Warxim/CVE-2022-41852)	<img alt="forks" src="https://img.shields.io/github/forks/Warxim/CVE-2022-41852">	<img alt="stars" src="https://img.shields.io/github/stars/Warxim/CVE-2022-41852">
 
 ---
-## CVE-2022-41358 ()
-> 
+## CVE-2022-41358 (2022-10-20T02:15:00)
+> A stored cross-site scripting (XSS) vulnerability in Garage Management System v1.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the categoriesName parameter in createCategories.php.
 - [thecasual/CVE-2022-41358](https://github.com/thecasual/CVE-2022-41358)	<img alt="forks" src="https://img.shields.io/github/forks/thecasual/CVE-2022-41358">	<img alt="stars" src="https://img.shields.io/github/stars/thecasual/CVE-2022-41358">
 
 ---
@@ -123,6 +123,8 @@
 - [rjsudlow/proxynotshell-IOC-Checker](https://github.com/rjsudlow/proxynotshell-IOC-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/rjsudlow/proxynotshell-IOC-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/rjsudlow/proxynotshell-IOC-Checker">
 - [ITPATJIDR/CVE-2022-41040](https://github.com/ITPATJIDR/CVE-2022-41040)	<img alt="forks" src="https://img.shields.io/github/forks/ITPATJIDR/CVE-2022-41040">	<img alt="stars" src="https://img.shields.io/github/stars/ITPATJIDR/CVE-2022-41040">
 - [backcr4t/CVE-2022-41082-RCE-POC](https://github.com/backcr4t/CVE-2022-41082-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/backcr4t/CVE-2022-41082-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/backcr4t/CVE-2022-41082-RCE-POC">
+- [TaroballzChen/CVE-2022-41040-metasploit-ProxyNotShell](https://github.com/TaroballzChen/CVE-2022-41040-metasploit-ProxyNotShell)	<img alt="forks" src="https://img.shields.io/github/forks/TaroballzChen/CVE-2022-41040-metasploit-ProxyNotShell">	<img alt="stars" src="https://img.shields.io/github/stars/TaroballzChen/CVE-2022-41040-metasploit-ProxyNotShell">
+- [backcr4t/CVE-2022-41082-RCE](https://github.com/backcr4t/CVE-2022-41082-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/backcr4t/CVE-2022-41082-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/backcr4t/CVE-2022-41082-RCE">
 
 ---
 ## CVE-2022-410 ()
@@ -1604,6 +1606,7 @@
 - [MSeymenD/CVE-2022-22954-Testi](https://github.com/MSeymenD/CVE-2022-22954-Testi)	<img alt="forks" src="https://img.shields.io/github/forks/MSeymenD/CVE-2022-22954-Testi">	<img alt="stars" src="https://img.shields.io/github/stars/MSeymenD/CVE-2022-22954-Testi">
 - [lucksec/VMware-CVE-2022-22954](https://github.com/lucksec/VMware-CVE-2022-22954)	<img alt="forks" src="https://img.shields.io/github/forks/lucksec/VMware-CVE-2022-22954">	<img alt="stars" src="https://img.shields.io/github/stars/lucksec/VMware-CVE-2022-22954">
 - [Vulnmachines/VMWare_CVE-2022-22954](https://github.com/Vulnmachines/VMWare_CVE-2022-22954)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/VMWare_CVE-2022-22954">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/VMWare_CVE-2022-22954">
+- [trhacknon/CVE-2022-22954_](https://github.com/trhacknon/CVE-2022-22954_)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-22954_">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-22954_">
 
 ---
 ## CVE-2022-22947 (2022-03-03T22:15:00)
