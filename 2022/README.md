@@ -99,6 +99,7 @@
 - [backcr4t/CVE-2022-41082-RCE-POC](https://github.com/backcr4t/CVE-2022-41082-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/backcr4t/CVE-2022-41082-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/backcr4t/CVE-2022-41082-RCE-POC">
 - [backcr4t/CVE-2022-41082-RCE](https://github.com/backcr4t/CVE-2022-41082-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/backcr4t/CVE-2022-41082-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/backcr4t/CVE-2022-41082-RCE">
 - [backcr4t/CVE-2022-41082-MASS-RCE](https://github.com/backcr4t/CVE-2022-41082-MASS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/backcr4t/CVE-2022-41082-MASS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/backcr4t/CVE-2022-41082-MASS-RCE">
+- [trhacknon/CVE-2022-41082-MASS-SCANNER](https://github.com/trhacknon/CVE-2022-41082-MASS-SCANNER)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-41082-MASS-SCANNER">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-41082-MASS-SCANNER">
 
 ---
 ## CVE-2022-41040 (2022-10-03T01:15:00)
@@ -131,6 +132,7 @@
 - [TaroballzChen/CVE-2022-41040-metasploit-ProxyNotShell](https://github.com/TaroballzChen/CVE-2022-41040-metasploit-ProxyNotShell)	<img alt="forks" src="https://img.shields.io/github/forks/TaroballzChen/CVE-2022-41040-metasploit-ProxyNotShell">	<img alt="stars" src="https://img.shields.io/github/stars/TaroballzChen/CVE-2022-41040-metasploit-ProxyNotShell">
 - [backcr4t/CVE-2022-41082-RCE](https://github.com/backcr4t/CVE-2022-41082-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/backcr4t/CVE-2022-41082-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/backcr4t/CVE-2022-41082-RCE">
 - [backcr4t/CVE-2022-41082-MASS-RCE](https://github.com/backcr4t/CVE-2022-41082-MASS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/backcr4t/CVE-2022-41082-MASS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/backcr4t/CVE-2022-41082-MASS-RCE">
+- [trhacknon/CVE-2022-41040-metasploit-ProxyNotShell](https://github.com/trhacknon/CVE-2022-41040-metasploit-ProxyNotShell)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-41040-metasploit-ProxyNotShell">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-41040-metasploit-ProxyNotShell">
 
 ---
 ## CVE-2022-410 ()
@@ -1621,6 +1623,7 @@
 - [lucksec/VMware-CVE-2022-22954](https://github.com/lucksec/VMware-CVE-2022-22954)	<img alt="forks" src="https://img.shields.io/github/forks/lucksec/VMware-CVE-2022-22954">	<img alt="stars" src="https://img.shields.io/github/stars/lucksec/VMware-CVE-2022-22954">
 - [Vulnmachines/VMWare_CVE-2022-22954](https://github.com/Vulnmachines/VMWare_CVE-2022-22954)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/VMWare_CVE-2022-22954">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/VMWare_CVE-2022-22954">
 - [trhacknon/CVE-2022-22954_](https://github.com/trhacknon/CVE-2022-22954_)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-22954_">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-22954_">
+- [lolminerxmrig/CVE-2022-22954_](https://github.com/lolminerxmrig/CVE-2022-22954_)	<img alt="forks" src="https://img.shields.io/github/forks/lolminerxmrig/CVE-2022-22954_">	<img alt="stars" src="https://img.shields.io/github/stars/lolminerxmrig/CVE-2022-22954_">
 
 ---
 ## CVE-2022-22947 (2022-03-03T22:15:00)
