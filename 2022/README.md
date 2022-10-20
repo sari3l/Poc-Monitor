@@ -35,6 +35,7 @@
 - [HKirito/CVE-2022-33980](https://github.com/HKirito/CVE-2022-33980)	<img alt="forks" src="https://img.shields.io/github/forks/HKirito/CVE-2022-33980">	<img alt="stars" src="https://img.shields.io/github/stars/HKirito/CVE-2022-33980">
 - [uk0/cve-2022-42889-intercept](https://github.com/uk0/cve-2022-42889-intercept)	<img alt="forks" src="https://img.shields.io/github/forks/uk0/cve-2022-42889-intercept">	<img alt="stars" src="https://img.shields.io/github/stars/uk0/cve-2022-42889-intercept">
 - [RIP-Network/cve-2022-42889-scanner](https://github.com/RIP-Network/cve-2022-42889-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/RIP-Network/cve-2022-42889-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/RIP-Network/cve-2022-42889-scanner">
+- [securekomodo/text4shell-poc](https://github.com/securekomodo/text4shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/securekomodo/text4shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/securekomodo/text4shell-poc">
 
 ---
 ## CVE-2022-41852 (2022-10-06T18:17:00)
@@ -1067,6 +1068,14 @@
 - [akhilkoradiya/CVE-2022-29455](https://github.com/akhilkoradiya/CVE-2022-29455)	<img alt="forks" src="https://img.shields.io/github/forks/akhilkoradiya/CVE-2022-29455">	<img alt="stars" src="https://img.shields.io/github/stars/akhilkoradiya/CVE-2022-29455">
 
 ---
+## CVE-2022-29303 (2022-05-12T16:15:00)
+> SolarView Compact ver.6.00 was discovered to contain a command injection vulnerability via conf_mail.php.
+- [trhacknon/CVE-2022-29303-Exploit](https://github.com/trhacknon/CVE-2022-29303-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-29303-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-29303-Exploit">
+- [W01fh4cker/Serein](https://github.com/W01fh4cker/Serein)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/Serein">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/Serein">
+- [trhacknon/CVE-2022-29303](https://github.com/trhacknon/CVE-2022-29303)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-29303">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-29303">
+- [Chocapikk/CVE-2022-29303](https://github.com/Chocapikk/CVE-2022-29303)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2022-29303">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2022-29303">
+
+---
 ## CVE-2022-29247 (2022-06-13T21:15:00)
 > Electron is a framework for writing cross-platform desktop applications using JavaScript (JS), HTML, and CSS. A vulnerability in versions prior to 18.0.0-beta.6, 17.2.0, 16.2.6, and 15.5.5 allows a renderer with JS execution to obtain access to a new renderer process with `nodeIntegrationInSubFrames` enabled which in turn allows effective access to `ipcRenderer`. The `nodeIntegrationInSubFrames` option does not implicitly grant Node.js access. Rather, it depends on the existing sandbox setting. If an application is sandboxed, then `nodeIntegrationInSubFrames` just gives access to the sandboxed renderer APIs, which include `ipcRenderer`. If the application then additionally exposes IPC messages without IPC `senderFrame` validation that perform privileged actions or return confidential data this access to `ipcRenderer` can in turn compromise your application / user even with the sandbox enabled. Electron versions 18.0.0-beta.6, 17.2.0, 16.2.6, and 15.5.5 contain a fix for this issue. As a workaround, ensure that all IPC message handlers appropriately validate `senderFrame`.
 - [a1ise/CVE-2022-29247](https://github.com/a1ise/CVE-2022-29247)	<img alt="forks" src="https://img.shields.io/github/forks/a1ise/CVE-2022-29247">	<img alt="stars" src="https://img.shields.io/github/stars/a1ise/CVE-2022-29247">
@@ -1683,6 +1692,11 @@
 - [Malwareman007/CVE-2022-21971](https://github.com/Malwareman007/CVE-2022-21971)	<img alt="forks" src="https://img.shields.io/github/forks/Malwareman007/CVE-2022-21971">	<img alt="stars" src="https://img.shields.io/github/stars/Malwareman007/CVE-2022-21971">
 - [tufanturhan/CVE-2022-21971-Windows-Runtime-RCE](https://github.com/tufanturhan/CVE-2022-21971-Windows-Runtime-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/tufanturhan/CVE-2022-21971-Windows-Runtime-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/tufanturhan/CVE-2022-21971-Windows-Runtime-RCE">
 - [0vercl0k/CVE-2022-21971](https://github.com/0vercl0k/CVE-2022-21971)	<img alt="forks" src="https://img.shields.io/github/forks/0vercl0k/CVE-2022-21971">	<img alt="stars" src="https://img.shields.io/github/stars/0vercl0k/CVE-2022-21971">
+
+---
+## CVE-2022-21970 (2022-01-11T21:15:00)
+> Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-21954.
+- [Malwareman007/CVE-2022-21970](https://github.com/Malwareman007/CVE-2022-21970)	<img alt="forks" src="https://img.shields.io/github/forks/Malwareman007/CVE-2022-21970">	<img alt="stars" src="https://img.shields.io/github/stars/Malwareman007/CVE-2022-21970">
 
 ---
 ## CVE-2022-21894 (2022-01-11T21:15:00)
