@@ -33,6 +33,7 @@
 - [securekomodo/text4shell-scan](https://github.com/securekomodo/text4shell-scan)	<img alt="forks" src="https://img.shields.io/github/forks/securekomodo/text4shell-scan">	<img alt="stars" src="https://img.shields.io/github/stars/securekomodo/text4shell-scan">
 - [neerazz/CVE-2022-42889](https://github.com/neerazz/CVE-2022-42889)	<img alt="forks" src="https://img.shields.io/github/forks/neerazz/CVE-2022-42889">	<img alt="stars" src="https://img.shields.io/github/stars/neerazz/CVE-2022-42889">
 - [HKirito/CVE-2022-33980](https://github.com/HKirito/CVE-2022-33980)	<img alt="forks" src="https://img.shields.io/github/forks/HKirito/CVE-2022-33980">	<img alt="stars" src="https://img.shields.io/github/stars/HKirito/CVE-2022-33980">
+- [uk0/cve-2022-42889-intercept](https://github.com/uk0/cve-2022-42889-intercept)	<img alt="forks" src="https://img.shields.io/github/forks/uk0/cve-2022-42889-intercept">	<img alt="stars" src="https://img.shields.io/github/stars/uk0/cve-2022-42889-intercept">
 
 ---
 ## CVE-2022-41852 (2022-10-06T18:17:00)
@@ -95,6 +96,7 @@
 - [y4b4n/CVE-2022-41082-RCE-POC](https://github.com/y4b4n/CVE-2022-41082-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/y4b4n/CVE-2022-41082-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/y4b4n/CVE-2022-41082-RCE-POC">
 - [backcr4t/CVE-2022-41082-RCE-POC](https://github.com/backcr4t/CVE-2022-41082-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/backcr4t/CVE-2022-41082-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/backcr4t/CVE-2022-41082-RCE-POC">
 - [backcr4t/CVE-2022-41082-RCE](https://github.com/backcr4t/CVE-2022-41082-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/backcr4t/CVE-2022-41082-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/backcr4t/CVE-2022-41082-RCE">
+- [backcr4t/CVE-2022-41082-MASS-RCE](https://github.com/backcr4t/CVE-2022-41082-MASS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/backcr4t/CVE-2022-41082-MASS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/backcr4t/CVE-2022-41082-MASS-RCE">
 
 ---
 ## CVE-2022-41040 (2022-10-03T01:15:00)
@@ -296,8 +298,8 @@
 - [xen0bit/CVE-2022-37434_poc](https://github.com/xen0bit/CVE-2022-37434_poc)	<img alt="forks" src="https://img.shields.io/github/forks/xen0bit/CVE-2022-37434_poc">	<img alt="stars" src="https://img.shields.io/github/stars/xen0bit/CVE-2022-37434_poc">
 
 ---
-## CVE-2022-37298 ()
-> 
+## CVE-2022-37298 (2022-10-20T11:15:00)
+> Shinken Solutions Shinken Monitoring Version 2.4.3 affected is vulnerable to Incorrect Access Control. The SafeUnpickler class found in shinken/safepickle.py implements a weak authentication scheme when unserializing objects passed from monitoring nodes to the Shinken monitoring server.
 - [dbyio/cve-2022-37298](https://github.com/dbyio/cve-2022-37298)	<img alt="forks" src="https://img.shields.io/github/forks/dbyio/cve-2022-37298">	<img alt="stars" src="https://img.shields.io/github/stars/dbyio/cve-2022-37298">
 
 ---
