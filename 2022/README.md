@@ -34,6 +34,7 @@
 - [neerazz/CVE-2022-42889](https://github.com/neerazz/CVE-2022-42889)	<img alt="forks" src="https://img.shields.io/github/forks/neerazz/CVE-2022-42889">	<img alt="stars" src="https://img.shields.io/github/stars/neerazz/CVE-2022-42889">
 - [HKirito/CVE-2022-33980](https://github.com/HKirito/CVE-2022-33980)	<img alt="forks" src="https://img.shields.io/github/forks/HKirito/CVE-2022-33980">	<img alt="stars" src="https://img.shields.io/github/stars/HKirito/CVE-2022-33980">
 - [uk0/cve-2022-42889-intercept](https://github.com/uk0/cve-2022-42889-intercept)	<img alt="forks" src="https://img.shields.io/github/forks/uk0/cve-2022-42889-intercept">	<img alt="stars" src="https://img.shields.io/github/stars/uk0/cve-2022-42889-intercept">
+- [RIP-Network/cve-2022-42889-scanner](https://github.com/RIP-Network/cve-2022-42889-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/RIP-Network/cve-2022-42889-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/RIP-Network/cve-2022-42889-scanner">
 
 ---
 ## CVE-2022-41852 (2022-10-06T18:17:00)
@@ -1648,6 +1649,7 @@
 - [LY613313/CVE-2022-22947](https://github.com/LY613313/CVE-2022-22947)	<img alt="forks" src="https://img.shields.io/github/forks/LY613313/CVE-2022-22947">	<img alt="stars" src="https://img.shields.io/github/stars/LY613313/CVE-2022-22947">
 - [chaosec2021/EXP-POC](https://github.com/chaosec2021/EXP-POC)	<img alt="forks" src="https://img.shields.io/github/forks/chaosec2021/EXP-POC">	<img alt="stars" src="https://img.shields.io/github/stars/chaosec2021/EXP-POC">
 - [SiJiDo/CVE-2022-22947](https://github.com/SiJiDo/CVE-2022-22947)	<img alt="forks" src="https://img.shields.io/github/forks/SiJiDo/CVE-2022-22947">	<img alt="stars" src="https://img.shields.io/github/stars/SiJiDo/CVE-2022-22947">
+- [trhacknon/CVE-2022-22947](https://github.com/trhacknon/CVE-2022-22947)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-22947">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-22947">
 
 ---
 ## CVE-2022-2274 (2022-07-01T08:15:00)
