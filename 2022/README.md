@@ -32,6 +32,7 @@
 - [kljunowsky/CVE-2022-42889-text4shell](https://github.com/kljunowsky/CVE-2022-42889-text4shell)	<img alt="forks" src="https://img.shields.io/github/forks/kljunowsky/CVE-2022-42889-text4shell">	<img alt="stars" src="https://img.shields.io/github/stars/kljunowsky/CVE-2022-42889-text4shell">
 - [securekomodo/text4shell-scan](https://github.com/securekomodo/text4shell-scan)	<img alt="forks" src="https://img.shields.io/github/forks/securekomodo/text4shell-scan">	<img alt="stars" src="https://img.shields.io/github/stars/securekomodo/text4shell-scan">
 - [neerazz/CVE-2022-42889](https://github.com/neerazz/CVE-2022-42889)	<img alt="forks" src="https://img.shields.io/github/forks/neerazz/CVE-2022-42889">	<img alt="stars" src="https://img.shields.io/github/stars/neerazz/CVE-2022-42889">
+- [HKirito/CVE-2022-33980](https://github.com/HKirito/CVE-2022-33980)	<img alt="forks" src="https://img.shields.io/github/forks/HKirito/CVE-2022-33980">	<img alt="stars" src="https://img.shields.io/github/stars/HKirito/CVE-2022-33980">
 
 ---
 ## CVE-2022-41852 (2022-10-06T18:17:00)

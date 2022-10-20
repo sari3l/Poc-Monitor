@@ -194,6 +194,8 @@
 ## CVE-2020-25540 (2020-09-14T13:15:00)
 > ThinkAdmin v6 is affected by a directory traversal vulnerability. An unauthorized attacker can read arbitrarily file on a remote server via GET request encode parameter.
 - [Schira4396/CVE-2020-25540](https://github.com/Schira4396/CVE-2020-25540)	<img alt="forks" src="https://img.shields.io/github/forks/Schira4396/CVE-2020-25540">	<img alt="stars" src="https://img.shields.io/github/stars/Schira4396/CVE-2020-25540">
+- [lowkey0808/cve-2020-25540](https://github.com/lowkey0808/cve-2020-25540)	<img alt="forks" src="https://img.shields.io/github/forks/lowkey0808/cve-2020-25540">	<img alt="stars" src="https://img.shields.io/github/stars/lowkey0808/cve-2020-25540">
+- [Rajchowdhury420/ThinkAdmin-CVE-2020-25540](https://github.com/Rajchowdhury420/ThinkAdmin-CVE-2020-25540)	<img alt="forks" src="https://img.shields.io/github/forks/Rajchowdhury420/ThinkAdmin-CVE-2020-25540">	<img alt="stars" src="https://img.shields.io/github/stars/Rajchowdhury420/ThinkAdmin-CVE-2020-25540">
 
 ---
 ## CVE-2020-25478 ()
