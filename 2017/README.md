@@ -149,6 +149,10 @@
 ## CVE-2017-17485 (2018-01-10T18:29:00)
 > FasterXML jackson-databind through 2.8.10 and 2.9.x through 2.9.3 allows unauthenticated remote code execution because of an incomplete fix for the CVE-2017-7525 deserialization flaw. This is exploitable by sending maliciously crafted JSON input to the readValue method of the ObjectMapper, bypassing a blacklist that is ineffective if the Spring libraries are available in the classpath.
 - [mattysaints/CVE-2017-17485](https://github.com/mattysaints/CVE-2017-17485)	<img alt="forks" src="https://img.shields.io/github/forks/mattysaints/CVE-2017-17485">	<img alt="stars" src="https://img.shields.io/github/stars/mattysaints/CVE-2017-17485">
+- [Al1ex/CVE-2017-17485](https://github.com/Al1ex/CVE-2017-17485)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/CVE-2017-17485">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/CVE-2017-17485">
+- [x7iaob/cve-2017-17485](https://github.com/x7iaob/cve-2017-17485)	<img alt="forks" src="https://img.shields.io/github/forks/x7iaob/cve-2017-17485">	<img alt="stars" src="https://img.shields.io/github/stars/x7iaob/cve-2017-17485">
+- [tafamace/CVE-2017-17485](https://github.com/tafamace/CVE-2017-17485)	<img alt="forks" src="https://img.shields.io/github/forks/tafamace/CVE-2017-17485">	<img alt="stars" src="https://img.shields.io/github/stars/tafamace/CVE-2017-17485">
+- [rootsecurity/Jackson-CVE-2017-17485](https://github.com/rootsecurity/Jackson-CVE-2017-17485)	<img alt="forks" src="https://img.shields.io/github/forks/rootsecurity/Jackson-CVE-2017-17485">	<img alt="stars" src="https://img.shields.io/github/stars/rootsecurity/Jackson-CVE-2017-17485">
 
 ---
 ## CVE-2017-16744 (2018-08-20T21:29:00)
