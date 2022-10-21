@@ -62,6 +62,7 @@
 - [pimps/CVE-2018-7600](https://github.com/pimps/CVE-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/pimps/CVE-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/pimps/CVE-2018-7600">
 - [lorddemon/drupalgeddon2](https://github.com/lorddemon/drupalgeddon2)	<img alt="forks" src="https://img.shields.io/github/forks/lorddemon/drupalgeddon2">	<img alt="stars" src="https://img.shields.io/github/stars/lorddemon/drupalgeddon2">
 - [firefart/CVE-2018-7600](https://github.com/firefart/CVE-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/firefart/CVE-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/firefart/CVE-2018-7600">
+- [trhacknon/CVE-2018-7600](https://github.com/trhacknon/CVE-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2018-7600">
 
 ---
 ## CVE-2018-6574 (2018-02-07T21:29:00)

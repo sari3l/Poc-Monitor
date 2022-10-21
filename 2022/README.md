@@ -37,6 +37,7 @@
 - [RIP-Network/cve-2022-42889-scanner](https://github.com/RIP-Network/cve-2022-42889-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/RIP-Network/cve-2022-42889-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/RIP-Network/cve-2022-42889-scanner">
 - [securekomodo/text4shell-poc](https://github.com/securekomodo/text4shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/securekomodo/text4shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/securekomodo/text4shell-poc">
 - [humbss/CVE-2022-42889](https://github.com/humbss/CVE-2022-42889)	<img alt="forks" src="https://img.shields.io/github/forks/humbss/CVE-2022-42889">	<img alt="stars" src="https://img.shields.io/github/stars/humbss/CVE-2022-42889">
+- [stavrosgns/Text4ShellPayloads](https://github.com/stavrosgns/Text4ShellPayloads)	<img alt="forks" src="https://img.shields.io/github/forks/stavrosgns/Text4ShellPayloads">	<img alt="stars" src="https://img.shields.io/github/stars/stavrosgns/Text4ShellPayloads">
 
 ---
 ## CVE-2022-41852 (2022-10-06T18:17:00)
@@ -1445,6 +1446,11 @@
 - [jturner786/magento-CVE-2022-24086](https://github.com/jturner786/magento-CVE-2022-24086)	<img alt="forks" src="https://img.shields.io/github/forks/jturner786/magento-CVE-2022-24086">	<img alt="stars" src="https://img.shields.io/github/stars/jturner786/magento-CVE-2022-24086">
 - [N0pch/CVE-2022-24086-magento-rce](https://github.com/N0pch/CVE-2022-24086-magento-rce)	<img alt="forks" src="https://img.shields.io/github/forks/N0pch/CVE-2022-24086-magento-rce">	<img alt="stars" src="https://img.shields.io/github/stars/N0pch/CVE-2022-24086-magento-rce">
 - [akr3ch/CVE-2022-24086](https://github.com/akr3ch/CVE-2022-24086)	<img alt="forks" src="https://img.shields.io/github/forks/akr3ch/CVE-2022-24086">	<img alt="stars" src="https://img.shields.io/github/stars/akr3ch/CVE-2022-24086">
+
+---
+## CVE-2022-2402 (2022-09-06T18:15:00)
+> The vulnerability in the driver dlpfde.sys enables a user logged into the system to perform system calls leading to kernel stack overflow, resulting in a system crash, for instance, a BSOD.
+- [SecurityAndStuff/CVE-2022-2402](https://github.com/SecurityAndStuff/CVE-2022-2402)	<img alt="forks" src="https://img.shields.io/github/forks/SecurityAndStuff/CVE-2022-2402">	<img alt="stars" src="https://img.shields.io/github/stars/SecurityAndStuff/CVE-2022-2402">
 
 ---
 ## CVE-2022-23779 (2022-03-02T15:15:00)
