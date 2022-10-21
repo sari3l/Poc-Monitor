@@ -36,6 +36,7 @@
 - [uk0/cve-2022-42889-intercept](https://github.com/uk0/cve-2022-42889-intercept)	<img alt="forks" src="https://img.shields.io/github/forks/uk0/cve-2022-42889-intercept">	<img alt="stars" src="https://img.shields.io/github/stars/uk0/cve-2022-42889-intercept">
 - [RIP-Network/cve-2022-42889-scanner](https://github.com/RIP-Network/cve-2022-42889-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/RIP-Network/cve-2022-42889-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/RIP-Network/cve-2022-42889-scanner">
 - [securekomodo/text4shell-poc](https://github.com/securekomodo/text4shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/securekomodo/text4shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/securekomodo/text4shell-poc">
+- [humbss/CVE-2022-42889](https://github.com/humbss/CVE-2022-42889)	<img alt="forks" src="https://img.shields.io/github/forks/humbss/CVE-2022-42889">	<img alt="stars" src="https://img.shields.io/github/stars/humbss/CVE-2022-42889">
 
 ---
 ## CVE-2022-41852 (2022-10-06T18:17:00)
