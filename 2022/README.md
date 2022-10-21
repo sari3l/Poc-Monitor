@@ -178,6 +178,7 @@
 - [puckiestyle/CVE-2022-40684](https://github.com/puckiestyle/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/puckiestyle/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/puckiestyle/CVE-2022-40684">
 - [trhacknon/CVE-2022-40684](https://github.com/trhacknon/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-40684">
 - [und3sc0n0c1d0/CVE-2022-40684](https://github.com/und3sc0n0c1d0/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/und3sc0n0c1d0/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/und3sc0n0c1d0/CVE-2022-40684">
+- [Bendalledj/CVE-2022-40684](https://github.com/Bendalledj/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/Bendalledj/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/Bendalledj/CVE-2022-40684">
 
 ---
 ## CVE-2022-40674 (2022-09-14T11:15:00)
