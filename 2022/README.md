@@ -40,6 +40,8 @@
 - [stavrosgns/Text4ShellPayloads](https://github.com/stavrosgns/Text4ShellPayloads)	<img alt="forks" src="https://img.shields.io/github/forks/stavrosgns/Text4ShellPayloads">	<img alt="stars" src="https://img.shields.io/github/stars/stavrosgns/Text4ShellPayloads">
 - [s3l33/CVE-2022-42889](https://github.com/s3l33/CVE-2022-42889)	<img alt="forks" src="https://img.shields.io/github/forks/s3l33/CVE-2022-42889">	<img alt="stars" src="https://img.shields.io/github/stars/s3l33/CVE-2022-42889">
 - [galoget/CVE-2022-42889-Text4Shell-Docker](https://github.com/galoget/CVE-2022-42889-Text4Shell-Docker)	<img alt="forks" src="https://img.shields.io/github/forks/galoget/CVE-2022-42889-Text4Shell-Docker">	<img alt="stars" src="https://img.shields.io/github/stars/galoget/CVE-2022-42889-Text4Shell-Docker">
+- [rhitikwadhvana/CVE-2022-42889-Text4Shell-Exploit-POC](https://github.com/rhitikwadhvana/CVE-2022-42889-Text4Shell-Exploit-POC)	<img alt="forks" src="https://img.shields.io/github/forks/rhitikwadhvana/CVE-2022-42889-Text4Shell-Exploit-POC">	<img alt="stars" src="https://img.shields.io/github/stars/rhitikwadhvana/CVE-2022-42889-Text4Shell-Exploit-POC">
+- [galoget/CVE-2022-42889-Text4Shell-Docker](https://github.com/galoget/CVE-2022-42889-Text4Shell-Docker)	<img alt="forks" src="https://img.shields.io/github/forks/galoget/CVE-2022-42889-Text4Shell-Docker">	<img alt="stars" src="https://img.shields.io/github/stars/galoget/CVE-2022-42889-Text4Shell-Docker">
 
 ---
 ## CVE-2022-41852 (2022-10-06T18:17:00)
@@ -264,6 +266,7 @@
 - [4nth0ny1130/CVE-2022-39197-fix_patch](https://github.com/4nth0ny1130/CVE-2022-39197-fix_patch)	<img alt="forks" src="https://img.shields.io/github/forks/4nth0ny1130/CVE-2022-39197-fix_patch">	<img alt="stars" src="https://img.shields.io/github/stars/4nth0ny1130/CVE-2022-39197-fix_patch">
 - [PyterSmithDarkGhost/CVE-2022-39197-POC](https://github.com/PyterSmithDarkGhost/CVE-2022-39197-POC)	<img alt="forks" src="https://img.shields.io/github/forks/PyterSmithDarkGhost/CVE-2022-39197-POC">	<img alt="stars" src="https://img.shields.io/github/stars/PyterSmithDarkGhost/CVE-2022-39197-POC">
 - [its-arun/CVE-2022-39197](https://github.com/its-arun/CVE-2022-39197)	<img alt="forks" src="https://img.shields.io/github/forks/its-arun/CVE-2022-39197">	<img alt="stars" src="https://img.shields.io/github/stars/its-arun/CVE-2022-39197">
+- [TheCryingGame/CVE-2022-39197-RCE](https://github.com/TheCryingGame/CVE-2022-39197-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/TheCryingGame/CVE-2022-39197-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/TheCryingGame/CVE-2022-39197-RCE">
 
 ---
 ## CVE-2022-39196 (2022-09-05T00:15:00)
