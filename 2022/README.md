@@ -42,6 +42,7 @@
 - [galoget/CVE-2022-42889-Text4Shell-Docker](https://github.com/galoget/CVE-2022-42889-Text4Shell-Docker)	<img alt="forks" src="https://img.shields.io/github/forks/galoget/CVE-2022-42889-Text4Shell-Docker">	<img alt="stars" src="https://img.shields.io/github/stars/galoget/CVE-2022-42889-Text4Shell-Docker">
 - [rhitikwadhvana/CVE-2022-42889-Text4Shell-Exploit-POC](https://github.com/rhitikwadhvana/CVE-2022-42889-Text4Shell-Exploit-POC)	<img alt="forks" src="https://img.shields.io/github/forks/rhitikwadhvana/CVE-2022-42889-Text4Shell-Exploit-POC">	<img alt="stars" src="https://img.shields.io/github/stars/rhitikwadhvana/CVE-2022-42889-Text4Shell-Exploit-POC">
 - [galoget/CVE-2022-42889-Text4Shell-Docker](https://github.com/galoget/CVE-2022-42889-Text4Shell-Docker)	<img alt="forks" src="https://img.shields.io/github/forks/galoget/CVE-2022-42889-Text4Shell-Docker">	<img alt="stars" src="https://img.shields.io/github/stars/galoget/CVE-2022-42889-Text4Shell-Docker">
+- [jayaram-yalla/CVE-2022-42889-POC_TEXT4SHELL](https://github.com/jayaram-yalla/CVE-2022-42889-POC_TEXT4SHELL)	<img alt="forks" src="https://img.shields.io/github/forks/jayaram-yalla/CVE-2022-42889-POC_TEXT4SHELL">	<img alt="stars" src="https://img.shields.io/github/stars/jayaram-yalla/CVE-2022-42889-POC_TEXT4SHELL">
 
 ---
 ## CVE-2022-41852 (2022-10-06T18:17:00)
@@ -438,6 +439,7 @@
 - [Inplex-sys/CVE-2022-36804](https://github.com/Inplex-sys/CVE-2022-36804)	<img alt="forks" src="https://img.shields.io/github/forks/Inplex-sys/CVE-2022-36804">	<img alt="stars" src="https://img.shields.io/github/stars/Inplex-sys/CVE-2022-36804">
 - [ColdFusionX/CVE-2022-36804](https://github.com/ColdFusionX/CVE-2022-36804)	<img alt="forks" src="https://img.shields.io/github/forks/ColdFusionX/CVE-2022-36804">	<img alt="stars" src="https://img.shields.io/github/stars/ColdFusionX/CVE-2022-36804">
 - [qiwentaidi/CVE-2022-36804](https://github.com/qiwentaidi/CVE-2022-36804)	<img alt="forks" src="https://img.shields.io/github/forks/qiwentaidi/CVE-2022-36804">	<img alt="stars" src="https://img.shields.io/github/stars/qiwentaidi/CVE-2022-36804">
+- [lolminerxmrig/Capricornus](https://github.com/lolminerxmrig/Capricornus)	<img alt="forks" src="https://img.shields.io/github/forks/lolminerxmrig/Capricornus">	<img alt="stars" src="https://img.shields.io/github/stars/lolminerxmrig/Capricornus">
 
 ---
 ## CVE-2022-36539 (2022-09-07T17:15:00)
