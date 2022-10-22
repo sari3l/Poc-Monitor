@@ -35,6 +35,8 @@ func Notice(updateItems *[]*Item) {
 			// 防止%截断
 			if content[barkMsgLimit-1] == '%' {
 				nBarkMsgLimit = barkMsgLimit + 2
+			} else if content[barkMsgLimit-2] == '%' {
+				nBarkMsgLimit = barkMsgLimit + 1
 			}
 			content = content[:nBarkMsgLimit] + "..."
 		}
