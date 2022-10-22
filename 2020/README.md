@@ -269,6 +269,11 @@
 - [trhacknon/CVE-2020-17519](https://github.com/trhacknon/CVE-2020-17519)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2020-17519">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2020-17519">
 
 ---
+## CVE-2020-15568 (2021-01-30T05:15:00)
+> TerraMaster TOS before 4.1.29 has Invalid Parameter Checking that leads to code injection as root. This is a dynamic class method invocation vulnerability in include/exportUser.php, in which an attacker can trigger a call to the exec method with (for example) OS commands in the opt parameter.
+- [n0bugz/CVE-2020-15568](https://github.com/n0bugz/CVE-2020-15568)	<img alt="forks" src="https://img.shields.io/github/forks/n0bugz/CVE-2020-15568">	<img alt="stars" src="https://img.shields.io/github/stars/n0bugz/CVE-2020-15568">
+
+---
 ## CVE-2020-1472 (2020-08-17T19:15:00)
 > An elevation of privilege vulnerability exists when an attacker establishes a vulnerable Netlogon secure channel connection to a domain controller, using the Netlogon Remote Protocol (MS-NRPC), aka 'Netlogon Elevation of Privilege Vulnerability'.
 - [lele8/CVE-2020-1472](https://github.com/lele8/CVE-2020-1472)	<img alt="forks" src="https://img.shields.io/github/forks/lele8/CVE-2020-1472">	<img alt="stars" src="https://img.shields.io/github/stars/lele8/CVE-2020-1472">
