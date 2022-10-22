@@ -444,6 +444,11 @@
 - [lolminerxmrig/Capricornus](https://github.com/lolminerxmrig/Capricornus)	<img alt="forks" src="https://img.shields.io/github/forks/lolminerxmrig/Capricornus">	<img alt="stars" src="https://img.shields.io/github/stars/lolminerxmrig/Capricornus">
 
 ---
+## CVE-2022-36663 (2022-09-06T21:15:00)
+> Gluu Oxauth before v4.4.1 allows attackers to execute blind SSRF (Server-Side Request Forgery) attacks via a crafted request_uri parameter.
+- [Qeisi/CVE-2022-36663-PoC](https://github.com/Qeisi/CVE-2022-36663-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Qeisi/CVE-2022-36663-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Qeisi/CVE-2022-36663-PoC">
+
+---
 ## CVE-2022-36539 (2022-09-07T17:15:00)
 > WeDayCare B.V Ouderapp before v1.1.22 allows attackers to alter the ID value within intercepted calls to gain access to data of other parents and children.
 - [Fopje/CVE-2022-36539](https://github.com/Fopje/CVE-2022-36539)	<img alt="forks" src="https://img.shields.io/github/forks/Fopje/CVE-2022-36539">	<img alt="stars" src="https://img.shields.io/github/stars/Fopje/CVE-2022-36539">
