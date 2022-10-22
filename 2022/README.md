@@ -38,6 +38,7 @@
 - [securekomodo/text4shell-poc](https://github.com/securekomodo/text4shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/securekomodo/text4shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/securekomodo/text4shell-poc">
 - [humbss/CVE-2022-42889](https://github.com/humbss/CVE-2022-42889)	<img alt="forks" src="https://img.shields.io/github/forks/humbss/CVE-2022-42889">	<img alt="stars" src="https://img.shields.io/github/stars/humbss/CVE-2022-42889">
 - [stavrosgns/Text4ShellPayloads](https://github.com/stavrosgns/Text4ShellPayloads)	<img alt="forks" src="https://img.shields.io/github/forks/stavrosgns/Text4ShellPayloads">	<img alt="stars" src="https://img.shields.io/github/stars/stavrosgns/Text4ShellPayloads">
+- [s3l33/CVE-2022-42889](https://github.com/s3l33/CVE-2022-42889)	<img alt="forks" src="https://img.shields.io/github/forks/s3l33/CVE-2022-42889">	<img alt="stars" src="https://img.shields.io/github/stars/s3l33/CVE-2022-42889">
 
 ---
 ## CVE-2022-41852 (2022-10-06T18:17:00)
@@ -181,6 +182,7 @@
 - [trhacknon/CVE-2022-40684](https://github.com/trhacknon/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-40684">
 - [und3sc0n0c1d0/CVE-2022-40684](https://github.com/und3sc0n0c1d0/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/und3sc0n0c1d0/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/und3sc0n0c1d0/CVE-2022-40684">
 - [Bendalledj/CVE-2022-40684](https://github.com/Bendalledj/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/Bendalledj/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/Bendalledj/CVE-2022-40684">
+- [Grapphy/fortipwn](https://github.com/Grapphy/fortipwn)	<img alt="forks" src="https://img.shields.io/github/forks/Grapphy/fortipwn">	<img alt="stars" src="https://img.shields.io/github/stars/Grapphy/fortipwn">
 
 ---
 ## CVE-2022-40674 (2022-09-14T11:15:00)
@@ -1977,6 +1979,11 @@
 - [Administrative2022/CVE-2022-1040](https://github.com/Administrative2022/CVE-2022-1040)	<img alt="forks" src="https://img.shields.io/github/forks/Administrative2022/CVE-2022-1040">	<img alt="stars" src="https://img.shields.io/github/stars/Administrative2022/CVE-2022-1040">
 - [Keith-amateur/cve-2022-1040](https://github.com/Keith-amateur/cve-2022-1040)	<img alt="forks" src="https://img.shields.io/github/forks/Keith-amateur/cve-2022-1040">	<img alt="stars" src="https://img.shields.io/github/stars/Keith-amateur/cve-2022-1040">
 - [jam620/Sophos-Vulnerability](https://github.com/jam620/Sophos-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/jam620/Sophos-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/jam620/Sophos-Vulnerability">
+
+---
+## CVE-2022-1000 (2022-03-17T11:15:00)
+> Path Traversal in GitHub repository prasathmani/tinyfilemanager prior to 2.4.7.
+- [yonggui-li/CVE-2022-1000_poc](https://github.com/yonggui-li/CVE-2022-1000_poc)	<img alt="forks" src="https://img.shields.io/github/forks/yonggui-li/CVE-2022-1000_poc">	<img alt="stars" src="https://img.shields.io/github/stars/yonggui-li/CVE-2022-1000_poc">
 
 ---
 ## CVE-2022-0848 (2022-03-04T09:15:00)
