@@ -408,6 +408,11 @@
 - [jamesrep/cve-2021-40444](https://github.com/jamesrep/cve-2021-40444)	<img alt="forks" src="https://img.shields.io/github/forks/jamesrep/cve-2021-40444">	<img alt="stars" src="https://img.shields.io/github/stars/jamesrep/cve-2021-40444">
 
 ---
+## CVE-2021-40438 (2021-09-16T15:15:00)
+> A crafted request uri-path can cause mod_proxy to forward the request to an origin server choosen by the remote user. This issue affects Apache HTTP Server 2.4.48 and earlier.
+- [WilsonFung414/CVE-2021-40438_Docker](https://github.com/WilsonFung414/CVE-2021-40438_Docker)	<img alt="forks" src="https://img.shields.io/github/forks/WilsonFung414/CVE-2021-40438_Docker">	<img alt="stars" src="https://img.shields.io/github/stars/WilsonFung414/CVE-2021-40438_Docker">
+
+---
 ## CVE-2021-40346 (2021-09-08T17:15:00)
 > An integer overflow exists in HAProxy 2.0 through 2.5 in htx_add_header that can be exploited to perform an HTTP request smuggling attack, allowing an attacker to bypass all configured http-request HAProxy ACLs and possibly other ACLs.
 - [Vulnmachines/HAProxy_CVE-2021-40346](https://github.com/Vulnmachines/HAProxy_CVE-2021-40346)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/HAProxy_CVE-2021-40346">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/HAProxy_CVE-2021-40346">
@@ -749,6 +754,11 @@
 - [Exploitables/CVE-2021-27965](https://github.com/Exploitables/CVE-2021-27965)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2021-27965">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2021-27965">
 - [Jeromeyoung/CVE-2021-27965](https://github.com/Jeromeyoung/CVE-2021-27965)	<img alt="forks" src="https://img.shields.io/github/forks/Jeromeyoung/CVE-2021-27965">	<img alt="stars" src="https://img.shields.io/github/stars/Jeromeyoung/CVE-2021-27965">
 - [mathisvickie/CVE-2021-27965](https://github.com/mathisvickie/CVE-2021-27965)	<img alt="forks" src="https://img.shields.io/github/forks/mathisvickie/CVE-2021-27965">	<img alt="stars" src="https://img.shields.io/github/stars/mathisvickie/CVE-2021-27965">
+
+---
+## CVE-2021-27928 (2021-03-19T03:15:00)
+> A remote code execution issue was discovered in MariaDB 10.2 before 10.2.37, 10.3 before 10.3.28, 10.4 before 10.4.18, and 10.5 before 10.5.9; Percona Server through 2021-03-03; and the wsrep patch through 2021-03-03 for MySQL. An untrusted search path leads to eval injection, in which a database SUPER user can execute OS commands after modifying wsrep_provider and wsrep_notify_cmd. NOTE: this does not affect an Oracle product.
+- [WilsonFung414/CVE-2021-27928_Docker](https://github.com/WilsonFung414/CVE-2021-27928_Docker)	<img alt="forks" src="https://img.shields.io/github/forks/WilsonFung414/CVE-2021-27928_Docker">	<img alt="stars" src="https://img.shields.io/github/stars/WilsonFung414/CVE-2021-27928_Docker">
 
 ---
 ## CVE-2021-27850 (2021-04-15T08:15:00)
