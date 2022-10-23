@@ -49,6 +49,11 @@
 - [cxzero/CVE-2022-42889-text4shell](https://github.com/cxzero/CVE-2022-42889-text4shell)	<img alt="forks" src="https://img.shields.io/github/forks/cxzero/CVE-2022-42889-text4shell">	<img alt="stars" src="https://img.shields.io/github/stars/cxzero/CVE-2022-42889-text4shell">
 
 ---
+## CVE-2022-42045 ()
+> 
+- [ReCryptLLC/CVE-2022-42045](https://github.com/ReCryptLLC/CVE-2022-42045)	<img alt="forks" src="https://img.shields.io/github/forks/ReCryptLLC/CVE-2022-42045">	<img alt="stars" src="https://img.shields.io/github/stars/ReCryptLLC/CVE-2022-42045">
+
+---
 ## CVE-2022-41852 (2022-10-06T18:17:00)
 > Those using JXPath to interpret untrusted XPath expressions may be vulnerable to a remote code execution attack. All JXPathContext class functions processing a XPath string are vulnerable except compile() and compilePath() function. The XPath expression can be used by an attacker to load any Java class from the classpath resulting in code execution.
 - [Warxim/CVE-2022-41852](https://github.com/Warxim/CVE-2022-41852)	<img alt="forks" src="https://img.shields.io/github/forks/Warxim/CVE-2022-41852">	<img alt="stars" src="https://img.shields.io/github/stars/Warxim/CVE-2022-41852">
