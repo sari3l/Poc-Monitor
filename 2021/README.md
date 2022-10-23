@@ -767,6 +767,8 @@
 ## CVE-2021-27928 (2021-03-19T03:15:00)
 > A remote code execution issue was discovered in MariaDB 10.2 before 10.2.37, 10.3 before 10.3.28, 10.4 before 10.4.18, and 10.5 before 10.5.9; Percona Server through 2021-03-03; and the wsrep patch through 2021-03-03 for MySQL. An untrusted search path leads to eval injection, in which a database SUPER user can execute OS commands after modifying wsrep_provider and wsrep_notify_cmd. NOTE: this does not affect an Oracle product.
 - [WilsonFung414/CVE-2021-27928_Docker](https://github.com/WilsonFung414/CVE-2021-27928_Docker)	<img alt="forks" src="https://img.shields.io/github/forks/WilsonFung414/CVE-2021-27928_Docker">	<img alt="stars" src="https://img.shields.io/github/stars/WilsonFung414/CVE-2021-27928_Docker">
+- [shamo0/CVE-2021-27928-POC](https://github.com/shamo0/CVE-2021-27928-POC)	<img alt="forks" src="https://img.shields.io/github/forks/shamo0/CVE-2021-27928-POC">	<img alt="stars" src="https://img.shields.io/github/stars/shamo0/CVE-2021-27928-POC">
+- [Al1ex/CVE-2021-27928](https://github.com/Al1ex/CVE-2021-27928)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/CVE-2021-27928">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/CVE-2021-27928">
 
 ---
 ## CVE-2021-27850 (2021-04-15T08:15:00)

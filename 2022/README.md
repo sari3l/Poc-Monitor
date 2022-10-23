@@ -45,6 +45,7 @@
 - [jayaram-yalla/CVE-2022-42889-POC_TEXT4SHELL](https://github.com/jayaram-yalla/CVE-2022-42889-POC_TEXT4SHELL)	<img alt="forks" src="https://img.shields.io/github/forks/jayaram-yalla/CVE-2022-42889-POC_TEXT4SHELL">	<img alt="stars" src="https://img.shields.io/github/stars/jayaram-yalla/CVE-2022-42889-POC_TEXT4SHELL">
 - [akshayithape-devops/CVE-2022-42889-POC](https://github.com/akshayithape-devops/CVE-2022-42889-POC)	<img alt="forks" src="https://img.shields.io/github/forks/akshayithape-devops/CVE-2022-42889-POC">	<img alt="stars" src="https://img.shields.io/github/stars/akshayithape-devops/CVE-2022-42889-POC">
 - [0xmaximus/Apache-Commons-Text-CVE-2022-42889](https://github.com/0xmaximus/Apache-Commons-Text-CVE-2022-42889)	<img alt="forks" src="https://img.shields.io/github/forks/0xmaximus/Apache-Commons-Text-CVE-2022-42889">	<img alt="stars" src="https://img.shields.io/github/stars/0xmaximus/Apache-Commons-Text-CVE-2022-42889">
+- [smileostrich/Text4Shell-Scanner](https://github.com/smileostrich/Text4Shell-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/smileostrich/Text4Shell-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/smileostrich/Text4Shell-Scanner">
 
 ---
 ## CVE-2022-41852 (2022-10-06T18:17:00)
