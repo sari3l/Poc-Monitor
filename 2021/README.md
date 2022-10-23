@@ -411,6 +411,14 @@
 ## CVE-2021-40438 (2021-09-16T15:15:00)
 > A crafted request uri-path can cause mod_proxy to forward the request to an origin server choosen by the remote user. This issue affects Apache HTTP Server 2.4.48 and earlier.
 - [WilsonFung414/CVE-2021-40438_Docker](https://github.com/WilsonFung414/CVE-2021-40438_Docker)	<img alt="forks" src="https://img.shields.io/github/forks/WilsonFung414/CVE-2021-40438_Docker">	<img alt="stars" src="https://img.shields.io/github/stars/WilsonFung414/CVE-2021-40438_Docker">
+- [WilsonFung414/CVE-2021-27928_Docker](https://github.com/WilsonFung414/CVE-2021-27928_Docker)	<img alt="forks" src="https://img.shields.io/github/forks/WilsonFung414/CVE-2021-27928_Docker">	<img alt="stars" src="https://img.shields.io/github/stars/WilsonFung414/CVE-2021-27928_Docker">
+- [gassara-kys/CVE-2021-40438](https://github.com/gassara-kys/CVE-2021-40438)	<img alt="forks" src="https://img.shields.io/github/forks/gassara-kys/CVE-2021-40438">	<img alt="stars" src="https://img.shields.io/github/stars/gassara-kys/CVE-2021-40438">
+- [Kashkovsky/CVE-2021-40438](https://github.com/Kashkovsky/CVE-2021-40438)	<img alt="forks" src="https://img.shields.io/github/forks/Kashkovsky/CVE-2021-40438">	<img alt="stars" src="https://img.shields.io/github/stars/Kashkovsky/CVE-2021-40438">
+- [pisut4152/Sigma-Rule-for-CVE-2021-40438-exploitation-attempt](https://github.com/pisut4152/Sigma-Rule-for-CVE-2021-40438-exploitation-attempt)	<img alt="forks" src="https://img.shields.io/github/forks/pisut4152/Sigma-Rule-for-CVE-2021-40438-exploitation-attempt">	<img alt="stars" src="https://img.shields.io/github/stars/pisut4152/Sigma-Rule-for-CVE-2021-40438-exploitation-attempt">
+- [ericmann/apache-cve-poc](https://github.com/ericmann/apache-cve-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ericmann/apache-cve-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ericmann/apache-cve-poc">
+- [BabyTeam1024/CVE-2021-40438](https://github.com/BabyTeam1024/CVE-2021-40438)	<img alt="forks" src="https://img.shields.io/github/forks/BabyTeam1024/CVE-2021-40438">	<img alt="stars" src="https://img.shields.io/github/stars/BabyTeam1024/CVE-2021-40438">
+- [sixpacksecurity/CVE-2021-40438](https://github.com/sixpacksecurity/CVE-2021-40438)	<img alt="forks" src="https://img.shields.io/github/forks/sixpacksecurity/CVE-2021-40438">	<img alt="stars" src="https://img.shields.io/github/stars/sixpacksecurity/CVE-2021-40438">
+- [xiaojiangxl/CVE-2021-40438](https://github.com/xiaojiangxl/CVE-2021-40438)	<img alt="forks" src="https://img.shields.io/github/forks/xiaojiangxl/CVE-2021-40438">	<img alt="stars" src="https://img.shields.io/github/stars/xiaojiangxl/CVE-2021-40438">
 
 ---
 ## CVE-2021-40346 (2021-09-08T17:15:00)
