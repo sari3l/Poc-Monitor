@@ -306,6 +306,16 @@
 - [ECU-10525611-Xander/CVE-2022-37706](https://github.com/ECU-10525611-Xander/CVE-2022-37706)	<img alt="forks" src="https://img.shields.io/github/forks/ECU-10525611-Xander/CVE-2022-37706">	<img alt="stars" src="https://img.shields.io/github/stars/ECU-10525611-Xander/CVE-2022-37706">
 
 ---
+## CVE-2022-37705 ()
+> 
+- [MaherAzzouzi/CVE-2022-37705](https://github.com/MaherAzzouzi/CVE-2022-37705)	<img alt="forks" src="https://img.shields.io/github/forks/MaherAzzouzi/CVE-2022-37705">	<img alt="stars" src="https://img.shields.io/github/stars/MaherAzzouzi/CVE-2022-37705">
+
+---
+## CVE-2022-37704 ()
+> 
+- [MaherAzzouzi/CVE-2022-37704](https://github.com/MaherAzzouzi/CVE-2022-37704)	<img alt="forks" src="https://img.shields.io/github/forks/MaherAzzouzi/CVE-2022-37704">	<img alt="stars" src="https://img.shields.io/github/stars/MaherAzzouzi/CVE-2022-37704">
+
+---
 ## CVE-2022-37703 (2022-09-13T20:15:00)
 > In Amanda 3.5.1, an information leak vulnerability was found in the calcsize SUID binary. An attacker can abuse this vulnerability to know if a directory exists or not anywhere in the fs. The binary will use `opendir()` as root directly without checking the path, letting the attacker provide an arbitrary path.
 - [MaherAzzouzi/CVE-2022-37703](https://github.com/MaherAzzouzi/CVE-2022-37703)	<img alt="forks" src="https://img.shields.io/github/forks/MaherAzzouzi/CVE-2022-37703">	<img alt="stars" src="https://img.shields.io/github/stars/MaherAzzouzi/CVE-2022-37703">
