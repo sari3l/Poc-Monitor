@@ -47,6 +47,7 @@
 - [0xmaximus/Apache-Commons-Text-CVE-2022-42889](https://github.com/0xmaximus/Apache-Commons-Text-CVE-2022-42889)	<img alt="forks" src="https://img.shields.io/github/forks/0xmaximus/Apache-Commons-Text-CVE-2022-42889">	<img alt="stars" src="https://img.shields.io/github/stars/0xmaximus/Apache-Commons-Text-CVE-2022-42889">
 - [smileostrich/Text4Shell-Scanner](https://github.com/smileostrich/Text4Shell-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/smileostrich/Text4Shell-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/smileostrich/Text4Shell-Scanner">
 - [cxzero/CVE-2022-42889-text4shell](https://github.com/cxzero/CVE-2022-42889-text4shell)	<img alt="forks" src="https://img.shields.io/github/forks/cxzero/CVE-2022-42889-text4shell">	<img alt="stars" src="https://img.shields.io/github/stars/cxzero/CVE-2022-42889-text4shell">
+- [west-wind/CVE-2022-42889](https://github.com/west-wind/CVE-2022-42889)	<img alt="forks" src="https://img.shields.io/github/forks/west-wind/CVE-2022-42889">	<img alt="stars" src="https://img.shields.io/github/stars/west-wind/CVE-2022-42889">
 
 ---
 ## CVE-2022-42045 ()
