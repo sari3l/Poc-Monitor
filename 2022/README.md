@@ -470,7 +470,7 @@
 ---
 ## CVE-2022-36663 (2022-09-06T21:15:00)
 > Gluu Oxauth before v4.4.1 allows attackers to execute blind SSRF (Server-Side Request Forgery) attacks via a crafted request_uri parameter.
-- [Qeisi/CVE-2022-36663-PoC](https://github.com/Qeisi/CVE-2022-36663-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Qeisi/CVE-2022-36663-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Qeisi/CVE-2022-36663-PoC">
+- [aqeisi/CVE-2022-36663-PoC](https://github.com/aqeisi/CVE-2022-36663-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/aqeisi/CVE-2022-36663-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/aqeisi/CVE-2022-36663-PoC">
 
 ---
 ## CVE-2022-36539 (2022-09-07T17:15:00)
