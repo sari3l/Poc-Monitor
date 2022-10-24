@@ -488,6 +488,11 @@
 - [kh4sh3i/Webmin-CVE](https://github.com/kh4sh3i/Webmin-CVE)	<img alt="forks" src="https://img.shields.io/github/forks/kh4sh3i/Webmin-CVE">	<img alt="stars" src="https://img.shields.io/github/stars/kh4sh3i/Webmin-CVE">
 
 ---
+## CVE-2022-36433 ()
+> 
+- [afine-com/CVE-2022-36433](https://github.com/afine-com/CVE-2022-36433)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2022-36433">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2022-36433">
+
+---
 ## CVE-2022-36271 (2022-09-07T14:15:00)
 > Outbyte PC Repair Installation File 1.7.112.7856 is vulnerable to Dll Hijacking. iertutil.dll is missing so an attacker can use a malicious dll with same name and can get admin privileges.
 - [SaumyajeetDas/POC-of-CVE-2022-36271](https://github.com/SaumyajeetDas/POC-of-CVE-2022-36271)	<img alt="forks" src="https://img.shields.io/github/forks/SaumyajeetDas/POC-of-CVE-2022-36271">	<img alt="stars" src="https://img.shields.io/github/stars/SaumyajeetDas/POC-of-CVE-2022-36271">
