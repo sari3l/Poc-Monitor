@@ -885,8 +885,8 @@
 - [darkpills/CVE-2021-25094-tatsu-preauth-rce](https://github.com/darkpills/CVE-2021-25094-tatsu-preauth-rce)	<img alt="forks" src="https://img.shields.io/github/forks/darkpills/CVE-2021-25094-tatsu-preauth-rce">	<img alt="stars" src="https://img.shields.io/github/stars/darkpills/CVE-2021-25094-tatsu-preauth-rce">
 
 ---
-## CVE-2021-25003 ()
-> 
+## CVE-2021-25003 (2022-03-14T15:15:00)
+> The WPCargo Track & Trace WordPress plugin before 6.9.0 contains a file which could allow unauthenticated attackers to write a PHP file anywhere on the web server, leading to RCE
 - [biulove0x/CVE-2021-25003](https://github.com/biulove0x/CVE-2021-25003)	<img alt="forks" src="https://img.shields.io/github/forks/biulove0x/CVE-2021-25003">	<img alt="stars" src="https://img.shields.io/github/stars/biulove0x/CVE-2021-25003">
 - [trhacknon/CVE-2021-25003](https://github.com/trhacknon/CVE-2021-25003)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2021-25003">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2021-25003">
 
