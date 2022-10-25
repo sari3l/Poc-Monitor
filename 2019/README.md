@@ -7,6 +7,11 @@
 - [moonheadobj/CVE-2019-9766](https://github.com/moonheadobj/CVE-2019-9766)	<img alt="forks" src="https://img.shields.io/github/forks/moonheadobj/CVE-2019-9766">	<img alt="stars" src="https://img.shields.io/github/stars/moonheadobj/CVE-2019-9766">
 
 ---
+## CVE-2019-9053 (2019-03-26T17:29:00)
+> An issue was discovered in CMS Made Simple 2.2.8. It is possible with the News module, through a crafted URL, to achieve unauthenticated blind time-based SQL injection via the m1_idlist parameter.
+- [ELIZEUOPAIN/CVE-2019-9053-CMS-Made-Simple-2.2.10---SQL-Injection-Exploit](https://github.com/ELIZEUOPAIN/CVE-2019-9053-CMS-Made-Simple-2.2.10---SQL-Injection-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ELIZEUOPAIN/CVE-2019-9053-CMS-Made-Simple-2.2.10---SQL-Injection-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ELIZEUOPAIN/CVE-2019-9053-CMS-Made-Simple-2.2.10---SQL-Injection-Exploit">
+
+---
 ## CVE-2019-8985 (2019-02-21T19:29:00)
 > On Netis WF2411 with firmware 2.1.36123 and other Netis WF2xxx devices (possibly WF2411 through WF2880), there is a stack-based buffer overflow that does not require authentication. This can cause denial of service (device restart) or remote code execution. This vulnerability can be triggered by a GET request with a long HTTP "Authorization: Basic" header that is mishandled by user_auth->user_ok in /bin/boa.
 - [Ler2sq/CVE-2019-8985](https://github.com/Ler2sq/CVE-2019-8985)	<img alt="forks" src="https://img.shields.io/github/forks/Ler2sq/CVE-2019-8985">	<img alt="stars" src="https://img.shields.io/github/stars/Ler2sq/CVE-2019-8985">
