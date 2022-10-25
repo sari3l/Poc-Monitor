@@ -1034,6 +1034,11 @@
 - [MaX0dexpoit/CVE-2021-20038](https://github.com/MaX0dexpoit/CVE-2021-20038)	<img alt="forks" src="https://img.shields.io/github/forks/MaX0dexpoit/CVE-2021-20038">	<img alt="stars" src="https://img.shields.io/github/stars/MaX0dexpoit/CVE-2021-20038">
 
 ---
+## CVE-2021-1675 (2021-06-08T23:15:00)
+> Windows Print Spooler Elevation of Privilege Vulnerability
+- [jj4152/cve-2021-1675](https://github.com/jj4152/cve-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/jj4152/cve-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/jj4152/cve-2021-1675">
+
+---
 ## CVE-2021-09 ()
 > 
 - [zeroc00I/CVE-2021-09-03](https://github.com/zeroc00I/CVE-2021-09-03)	<img alt="forks" src="https://img.shields.io/github/forks/zeroc00I/CVE-2021-09-03">	<img alt="stars" src="https://img.shields.io/github/stars/zeroc00I/CVE-2021-09-03">
