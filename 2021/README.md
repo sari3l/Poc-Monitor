@@ -152,6 +152,8 @@
 - [A-D-Team/grafanaExp](https://github.com/A-D-Team/grafanaExp)	<img alt="forks" src="https://img.shields.io/github/forks/A-D-Team/grafanaExp">	<img alt="stars" src="https://img.shields.io/github/stars/A-D-Team/grafanaExp">
 - [jas502n/Grafana-CVE-2021-43798](https://github.com/jas502n/Grafana-CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/Grafana-CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/Grafana-CVE-2021-43798">
 - [lfz97/CVE-2021-43798-Grafana-File-Read](https://github.com/lfz97/CVE-2021-43798-Grafana-File-Read)	<img alt="forks" src="https://img.shields.io/github/forks/lfz97/CVE-2021-43798-Grafana-File-Read">	<img alt="stars" src="https://img.shields.io/github/stars/lfz97/CVE-2021-43798-Grafana-File-Read">
+- [0bfxgh0st/cve-2021-43798](https://github.com/0bfxgh0st/cve-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/0bfxgh0st/cve-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/0bfxgh0st/cve-2021-43798">
+- [CLincat/vulcat](https://github.com/CLincat/vulcat)	<img alt="forks" src="https://img.shields.io/github/forks/CLincat/vulcat">	<img alt="stars" src="https://img.shields.io/github/stars/CLincat/vulcat">
 
 ---
 ## CVE-2021-43617 (2021-11-14T16:15:00)

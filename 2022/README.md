@@ -48,6 +48,7 @@
 - [smileostrich/Text4Shell-Scanner](https://github.com/smileostrich/Text4Shell-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/smileostrich/Text4Shell-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/smileostrich/Text4Shell-Scanner">
 - [cxzero/CVE-2022-42889-text4shell](https://github.com/cxzero/CVE-2022-42889-text4shell)	<img alt="forks" src="https://img.shields.io/github/forks/cxzero/CVE-2022-42889-text4shell">	<img alt="stars" src="https://img.shields.io/github/stars/cxzero/CVE-2022-42889-text4shell">
 - [west-wind/CVE-2022-42889](https://github.com/west-wind/CVE-2022-42889)	<img alt="forks" src="https://img.shields.io/github/forks/west-wind/CVE-2022-42889">	<img alt="stars" src="https://img.shields.io/github/stars/west-wind/CVE-2022-42889">
+- [Vulnmachines/text4shell-CVE-2022-42889](https://github.com/Vulnmachines/text4shell-CVE-2022-42889)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/text4shell-CVE-2022-42889">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/text4shell-CVE-2022-42889">
 
 ---
 ## CVE-2022-42045 ()
@@ -1293,6 +1294,7 @@
 > An integer coercion error was found in the openvswitch kernel module. Given a sufficiently large number of actions, while copying and reserving memory for a new action of a new flow, the reserve_sfa_size() function does not return -EMSGSIZE as expected, potentially leading to an out-of-bounds write access. This flaw allows a local user to crash or potentially escalate their privileges on the system.
 - [veritas501/CVE-2022-2639-PipeVersion](https://github.com/veritas501/CVE-2022-2639-PipeVersion)	<img alt="forks" src="https://img.shields.io/github/forks/veritas501/CVE-2022-2639-PipeVersion">	<img alt="stars" src="https://img.shields.io/github/stars/veritas501/CVE-2022-2639-PipeVersion">
 - [avboy1337/CVE-2022-2639-PipeVersion](https://github.com/avboy1337/CVE-2022-2639-PipeVersion)	<img alt="forks" src="https://img.shields.io/github/forks/avboy1337/CVE-2022-2639-PipeVersion">	<img alt="stars" src="https://img.shields.io/github/stars/avboy1337/CVE-2022-2639-PipeVersion">
+- [EkamSinghWalia/Detection-and-Mitigation-for-CVE-2022-2639](https://github.com/EkamSinghWalia/Detection-and-Mitigation-for-CVE-2022-2639)	<img alt="forks" src="https://img.shields.io/github/forks/EkamSinghWalia/Detection-and-Mitigation-for-CVE-2022-2639">	<img alt="stars" src="https://img.shields.io/github/stars/EkamSinghWalia/Detection-and-Mitigation-for-CVE-2022-2639">
 
 ---
 ## CVE-2022-26269 (2022-03-29T01:15:00)
@@ -1960,6 +1962,11 @@
 - [mistymntncop/CVE-2022-1802](https://github.com/mistymntncop/CVE-2022-1802)	<img alt="forks" src="https://img.shields.io/github/forks/mistymntncop/CVE-2022-1802">	<img alt="stars" src="https://img.shields.io/github/stars/mistymntncop/CVE-2022-1802">
 
 ---
+## CVE-2022-1679 (2022-05-16T18:15:00)
+> A use-after-free flaw was found in the Linux kernel’s Atheros wireless adapter driver in the way a user forces the ath9k_htc_wait_for_target function to fail with some input messages. This flaw allows a local user to crash or potentially escalate their privileges on the system.
+- [EkamSinghWalia/-Detection-and-Mitigation-for-CVE-2022-1679](https://github.com/EkamSinghWalia/-Detection-and-Mitigation-for-CVE-2022-1679)	<img alt="forks" src="https://img.shields.io/github/forks/EkamSinghWalia/-Detection-and-Mitigation-for-CVE-2022-1679">	<img alt="stars" src="https://img.shields.io/github/stars/EkamSinghWalia/-Detection-and-Mitigation-for-CVE-2022-1679">
+
+---
 ## CVE-2022-1421 (2022-06-08T10:15:00)
 > The Discy WordPress theme before 5.2 lacks CSRF checks in some AJAX actions, allowing an attacker to make a logged in admin change arbitrary 's settings including payment methods via a CSRF attack
 - [nb1b3k/CVE-2022-1421](https://github.com/nb1b3k/CVE-2022-1421)	<img alt="forks" src="https://img.shields.io/github/forks/nb1b3k/CVE-2022-1421">	<img alt="stars" src="https://img.shields.io/github/stars/nb1b3k/CVE-2022-1421">
@@ -2004,6 +2011,7 @@
 - [CLincat/vulcat](https://github.com/CLincat/vulcat)	<img alt="forks" src="https://img.shields.io/github/forks/CLincat/vulcat">	<img alt="stars" src="https://img.shields.io/github/stars/CLincat/vulcat">
 - [AmirHoseinTangsiriNET/CVE-2022-1388-Scanner](https://github.com/AmirHoseinTangsiriNET/CVE-2022-1388-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/AmirHoseinTangsiriNET/CVE-2022-1388-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/AmirHoseinTangsiriNET/CVE-2022-1388-Scanner">
 - [On-Cyber-War/CVE-2022-1388](https://github.com/On-Cyber-War/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/On-Cyber-War/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/On-Cyber-War/CVE-2022-1388">
+- [OnCyberWar/CVE-2022-1388](https://github.com/OnCyberWar/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/OnCyberWar/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/OnCyberWar/CVE-2022-1388">
 
 ---
 ## CVE-2022-1292 (2022-05-03T16:15:00)
