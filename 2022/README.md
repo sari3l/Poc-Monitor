@@ -2003,6 +2003,7 @@
 - [0xf4n9x/CVE-2022-1388](https://github.com/0xf4n9x/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/0xf4n9x/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/0xf4n9x/CVE-2022-1388">
 - [CLincat/vulcat](https://github.com/CLincat/vulcat)	<img alt="forks" src="https://img.shields.io/github/forks/CLincat/vulcat">	<img alt="stars" src="https://img.shields.io/github/stars/CLincat/vulcat">
 - [AmirHoseinTangsiriNET/CVE-2022-1388-Scanner](https://github.com/AmirHoseinTangsiriNET/CVE-2022-1388-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/AmirHoseinTangsiriNET/CVE-2022-1388-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/AmirHoseinTangsiriNET/CVE-2022-1388-Scanner">
+- [On-Cyber-War/CVE-2022-1388](https://github.com/On-Cyber-War/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/On-Cyber-War/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/On-Cyber-War/CVE-2022-1388">
 
 ---
 ## CVE-2022-1292 (2022-05-03T16:15:00)
