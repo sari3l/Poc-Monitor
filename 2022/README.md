@@ -202,6 +202,7 @@
 - [Bendalledj/CVE-2022-40684](https://github.com/Bendalledj/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/Bendalledj/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/Bendalledj/CVE-2022-40684">
 - [Grapphy/fortipwn](https://github.com/Grapphy/fortipwn)	<img alt="forks" src="https://img.shields.io/github/forks/Grapphy/fortipwn">	<img alt="stars" src="https://img.shields.io/github/stars/Grapphy/fortipwn">
 - [qingsiweisan/CVE-2022-40684](https://github.com/qingsiweisan/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/qingsiweisan/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/qingsiweisan/CVE-2022-40684">
+- [TaroballzChen/CVE-2022-40684-metasploit-scanner](https://github.com/TaroballzChen/CVE-2022-40684-metasploit-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/TaroballzChen/CVE-2022-40684-metasploit-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/TaroballzChen/CVE-2022-40684-metasploit-scanner">
 
 ---
 ## CVE-2022-40674 (2022-09-14T11:15:00)
