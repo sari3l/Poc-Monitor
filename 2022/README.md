@@ -1993,7 +1993,7 @@
 ---
 ## CVE-2022-1609 ()
 > 
-- [Wmlps/CVE-2022-1609](https://github.com/Wmlps/CVE-2022-1609)	<img alt="forks" src="https://img.shields.io/github/forks/Wmlps/CVE-2022-1609">	<img alt="stars" src="https://img.shields.io/github/stars/Wmlps/CVE-2022-1609">
+- [NullBrunk/CVE-2022-1609](https://github.com/NullBrunk/CVE-2022-1609)	<img alt="forks" src="https://img.shields.io/github/forks/NullBrunk/CVE-2022-1609">	<img alt="stars" src="https://img.shields.io/github/stars/NullBrunk/CVE-2022-1609">
 - [0xSojalSec/-CVE-2022-1609](https://github.com/0xSojalSec/-CVE-2022-1609)	<img alt="forks" src="https://img.shields.io/github/forks/0xSojalSec/-CVE-2022-1609">	<img alt="stars" src="https://img.shields.io/github/stars/0xSojalSec/-CVE-2022-1609">
 - [savior-only/CVE-2022-1609](https://github.com/savior-only/CVE-2022-1609)	<img alt="forks" src="https://img.shields.io/github/forks/savior-only/CVE-2022-1609">	<img alt="stars" src="https://img.shields.io/github/stars/savior-only/CVE-2022-1609">
 
