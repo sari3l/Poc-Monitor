@@ -24,6 +24,11 @@
 - [Huangkey/CVE-2018-9995_check](https://github.com/Huangkey/CVE-2018-9995_check)	<img alt="forks" src="https://img.shields.io/github/forks/Huangkey/CVE-2018-9995_check">	<img alt="stars" src="https://img.shields.io/github/stars/Huangkey/CVE-2018-9995_check">
 
 ---
+## CVE-2018-9276 (2018-07-02T16:29:00)
+> An issue was discovered in PRTG Network Monitor before 18.2.39. An attacker who has access to the PRTG System Administrator web console with administrative privileges can exploit an OS command injection vulnerability (both on the server and on devices) by sending malformed parameters in sensor or notification management scenarios.
+- [A1vinSmith/CVE-2018-9276](https://github.com/A1vinSmith/CVE-2018-9276)	<img alt="forks" src="https://img.shields.io/github/forks/A1vinSmith/CVE-2018-9276">	<img alt="stars" src="https://img.shields.io/github/stars/A1vinSmith/CVE-2018-9276">
+
+---
 ## CVE-2018-8587 (2018-12-12T00:29:00)
 > A remote code execution vulnerability exists in Microsoft Outlook software when it fails to properly handle objects in memory, aka "Microsoft Outlook Remote Code Execution Vulnerability." This affects Office 365 ProPlus, Microsoft Office, Microsoft Outlook.
 - [Sunqiz/CVE-2018-8587-reproduction](https://github.com/Sunqiz/CVE-2018-8587-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Sunqiz/CVE-2018-8587-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Sunqiz/CVE-2018-8587-reproduction">
