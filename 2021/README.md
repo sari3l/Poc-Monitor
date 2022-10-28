@@ -523,6 +523,11 @@
 - [W0rty/CVE-2021-39165](https://github.com/W0rty/CVE-2021-39165)	<img alt="forks" src="https://img.shields.io/github/forks/W0rty/CVE-2021-39165">	<img alt="stars" src="https://img.shields.io/github/stars/W0rty/CVE-2021-39165">
 
 ---
+## CVE-2021-38817 ()
+> 
+- [HuskyHacks/CVE-2021-38817-Remote-OS-Command-Injection](https://github.com/HuskyHacks/CVE-2021-38817-Remote-OS-Command-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/HuskyHacks/CVE-2021-38817-Remote-OS-Command-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/HuskyHacks/CVE-2021-38817-Remote-OS-Command-Injection">
+
+---
 ## CVE-2021-38647 (2021-09-15T12:15:00)
 > Open Management Infrastructure Remote Code Execution Vulnerability
 - [Vulnmachines/OMIGOD_cve-2021-38647](https://github.com/Vulnmachines/OMIGOD_cve-2021-38647)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/OMIGOD_cve-2021-38647">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/OMIGOD_cve-2021-38647">
