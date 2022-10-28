@@ -191,6 +191,12 @@
 - [Kento-Sec/GitLab-Graphql-CVE-2020-26413](https://github.com/Kento-Sec/GitLab-Graphql-CVE-2020-26413)	<img alt="forks" src="https://img.shields.io/github/forks/Kento-Sec/GitLab-Graphql-CVE-2020-26413">	<img alt="stars" src="https://img.shields.io/github/stars/Kento-Sec/GitLab-Graphql-CVE-2020-26413">
 
 ---
+## CVE-2020-26233 (2020-12-08T20:15:00)
+> Git Credential Manager Core (GCM Core) is a secure Git credential helper built on .NET Core that runs on Windows and macOS. In Git Credential Manager Core before version 2.0.289, when recursively cloning a Git repository on Windows with submodules, Git will first clone the top-level repository and then recursively clone all submodules by starting new Git processes from the top-level working directory. If a malicious git.exe executable is present in the top-level repository then this binary will be started by Git Credential Manager Core when attempting to read configuration, and not git.exe as found on the %PATH%. This only affects GCM Core on Windows, not macOS or Linux-based distributions. GCM Core version 2.0.289 contains the fix for this vulnerability, and is available from the project's GitHub releases page. GCM Core 2.0.289 is also bundled in the latest Git for Windows release; version 2.29.2(3). As a workaround, users should avoid recursively cloning untrusted repositories with the --recurse-submodules option.
+- [an1p3lg5/CVE-2020-26233](https://github.com/an1p3lg5/CVE-2020-26233)	<img alt="forks" src="https://img.shields.io/github/forks/an1p3lg5/CVE-2020-26233">	<img alt="stars" src="https://img.shields.io/github/stars/an1p3lg5/CVE-2020-26233">
+- [whr819987540/test_CVE-2020-26233](https://github.com/whr819987540/test_CVE-2020-26233)	<img alt="forks" src="https://img.shields.io/github/forks/whr819987540/test_CVE-2020-26233">	<img alt="stars" src="https://img.shields.io/github/stars/whr819987540/test_CVE-2020-26233">
+
+---
 ## CVE-2020-25540 (2020-09-14T13:15:00)
 > ThinkAdmin v6 is affected by a directory traversal vulnerability. An unauthorized attacker can read arbitrarily file on a remote server via GET request encode parameter.
 - [Schira4396/CVE-2020-25540](https://github.com/Schira4396/CVE-2020-25540)	<img alt="forks" src="https://img.shields.io/github/forks/Schira4396/CVE-2020-25540">	<img alt="stars" src="https://img.shields.io/github/stars/Schira4396/CVE-2020-25540">
