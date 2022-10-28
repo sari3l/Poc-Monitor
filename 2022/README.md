@@ -1991,6 +1991,13 @@
 - [EkamSinghWalia/-Detection-and-Mitigation-for-CVE-2022-1679](https://github.com/EkamSinghWalia/-Detection-and-Mitigation-for-CVE-2022-1679)	<img alt="forks" src="https://img.shields.io/github/forks/EkamSinghWalia/-Detection-and-Mitigation-for-CVE-2022-1679">	<img alt="stars" src="https://img.shields.io/github/stars/EkamSinghWalia/-Detection-and-Mitigation-for-CVE-2022-1679">
 
 ---
+## CVE-2022-1609 ()
+> 
+- [Wmlps/CVE-2022-1609](https://github.com/Wmlps/CVE-2022-1609)	<img alt="forks" src="https://img.shields.io/github/forks/Wmlps/CVE-2022-1609">	<img alt="stars" src="https://img.shields.io/github/stars/Wmlps/CVE-2022-1609">
+- [0xSojalSec/-CVE-2022-1609](https://github.com/0xSojalSec/-CVE-2022-1609)	<img alt="forks" src="https://img.shields.io/github/forks/0xSojalSec/-CVE-2022-1609">	<img alt="stars" src="https://img.shields.io/github/stars/0xSojalSec/-CVE-2022-1609">
+- [savior-only/CVE-2022-1609](https://github.com/savior-only/CVE-2022-1609)	<img alt="forks" src="https://img.shields.io/github/forks/savior-only/CVE-2022-1609">	<img alt="stars" src="https://img.shields.io/github/stars/savior-only/CVE-2022-1609">
+
+---
 ## CVE-2022-1421 (2022-06-08T10:15:00)
 > The Discy WordPress theme before 5.2 lacks CSRF checks in some AJAX actions, allowing an attacker to make a logged in admin change arbitrary 's settings including payment methods via a CSRF attack
 - [nb1b3k/CVE-2022-1421](https://github.com/nb1b3k/CVE-2022-1421)	<img alt="forks" src="https://img.shields.io/github/forks/nb1b3k/CVE-2022-1421">	<img alt="stars" src="https://img.shields.io/github/stars/nb1b3k/CVE-2022-1421">
