@@ -169,6 +169,11 @@
 - [whitej3rry/CVE-2022-40916](https://github.com/whitej3rry/CVE-2022-40916)	<img alt="forks" src="https://img.shields.io/github/forks/whitej3rry/CVE-2022-40916">	<img alt="stars" src="https://img.shields.io/github/stars/whitej3rry/CVE-2022-40916">
 
 ---
+## CVE-2022-40687 ()
+> 
+- [williamkhepri/CVE-2022-40687-metasploit-scanner](https://github.com/williamkhepri/CVE-2022-40687-metasploit-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/williamkhepri/CVE-2022-40687-metasploit-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/williamkhepri/CVE-2022-40687-metasploit-scanner">
+
+---
 ## CVE-2022-40684 (2022-10-18T14:15:00)
 > An authentication bypass using an alternate path or channel [CWE-288] in Fortinet FortiOS version 7.2.0 through 7.2.1 and 7.0.0 through 7.0.6, FortiProxy version 7.2.0 and version 7.0.0 through 7.0.6 and FortiSwitchManager version 7.2.0 and 7.0.0 allows an unauthenticated atttacker to perform operations on the administrative interface via specially crafted HTTP or HTTPS requests.
 - [dickson0day/CVE-2022-40684](https://github.com/dickson0day/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/dickson0day/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/dickson0day/CVE-2022-40684">
