@@ -115,6 +115,11 @@
 - [horizon3ai/CVE-2021-44077](https://github.com/horizon3ai/CVE-2021-44077)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2021-44077">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2021-44077">
 
 ---
+## CVE-2021-43890 (2021-12-15T15:15:00)
+> Windows AppX Installer Spoofing Vulnerability
+- [yonggui-li/CVE-2021-43890_poc](https://github.com/yonggui-li/CVE-2021-43890_poc)	<img alt="forks" src="https://img.shields.io/github/forks/yonggui-li/CVE-2021-43890_poc">	<img alt="stars" src="https://img.shields.io/github/stars/yonggui-li/CVE-2021-43890_poc">
+
+---
 ## CVE-2021-43811 (2021-12-08T23:15:00)
 > Sockeye is an open-source sequence-to-sequence framework for Neural Machine Translation built on PyTorch. Sockeye uses YAML to store model and data configurations on disk. Versions below 2.3.24 use unsafe YAML loading, which can be made to execute arbitrary code embedded in config files. An attacker can add malicious code to the config file of a trained model and attempt to convince users to download and run it. If users run the model, the embedded code will run locally. The issue is fixed in version 2.3.24.
 - [s-index/CVE-2021-43811](https://github.com/s-index/CVE-2021-43811)	<img alt="forks" src="https://img.shields.io/github/forks/s-index/CVE-2021-43811">	<img alt="stars" src="https://img.shields.io/github/stars/s-index/CVE-2021-43811">
