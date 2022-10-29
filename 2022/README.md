@@ -1761,6 +1761,7 @@
 - [chaosec2021/EXP-POC](https://github.com/chaosec2021/EXP-POC)	<img alt="forks" src="https://img.shields.io/github/forks/chaosec2021/EXP-POC">	<img alt="stars" src="https://img.shields.io/github/stars/chaosec2021/EXP-POC">
 - [SiJiDo/CVE-2022-22947](https://github.com/SiJiDo/CVE-2022-22947)	<img alt="forks" src="https://img.shields.io/github/forks/SiJiDo/CVE-2022-22947">	<img alt="stars" src="https://img.shields.io/github/stars/SiJiDo/CVE-2022-22947">
 - [trhacknon/CVE-2022-22947](https://github.com/trhacknon/CVE-2022-22947)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-22947">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-22947">
+- [savior-only/CVE-2022-22947](https://github.com/savior-only/CVE-2022-22947)	<img alt="forks" src="https://img.shields.io/github/forks/savior-only/CVE-2022-22947">	<img alt="stars" src="https://img.shields.io/github/stars/savior-only/CVE-2022-22947">
 
 ---
 ## CVE-2022-2274 (2022-07-01T08:15:00)
