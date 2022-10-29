@@ -27,6 +27,8 @@
 ## CVE-2018-9276 (2018-07-02T16:29:00)
 > An issue was discovered in PRTG Network Monitor before 18.2.39. An attacker who has access to the PRTG System Administrator web console with administrative privileges can exploit an OS command injection vulnerability (both on the server and on devices) by sending malformed parameters in sensor or notification management scenarios.
 - [A1vinSmith/CVE-2018-9276](https://github.com/A1vinSmith/CVE-2018-9276)	<img alt="forks" src="https://img.shields.io/github/forks/A1vinSmith/CVE-2018-9276">	<img alt="stars" src="https://img.shields.io/github/stars/A1vinSmith/CVE-2018-9276">
+- [andyfeili/CVE-2018-9276](https://github.com/andyfeili/CVE-2018-9276)	<img alt="forks" src="https://img.shields.io/github/forks/andyfeili/CVE-2018-9276">	<img alt="stars" src="https://img.shields.io/github/stars/andyfeili/CVE-2018-9276">
+- [wildkindcc/CVE-2018-9276](https://github.com/wildkindcc/CVE-2018-9276)	<img alt="forks" src="https://img.shields.io/github/forks/wildkindcc/CVE-2018-9276">	<img alt="stars" src="https://img.shields.io/github/stars/wildkindcc/CVE-2018-9276">
 
 ---
 ## CVE-2018-8587 (2018-12-12T00:29:00)
