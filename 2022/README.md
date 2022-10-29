@@ -1805,6 +1805,17 @@
 ## CVE-2022-21907 (2022-01-11T21:15:00)
 > HTTP Protocol Stack Remote Code Execution Vulnerability.
 - [Malwareman007/CVE-2022-21907](https://github.com/Malwareman007/CVE-2022-21907)	<img alt="forks" src="https://img.shields.io/github/forks/Malwareman007/CVE-2022-21907">	<img alt="stars" src="https://img.shields.io/github/stars/Malwareman007/CVE-2022-21907">
+- [iveresk/cve-2022-21907](https://github.com/iveresk/cve-2022-21907)	<img alt="forks" src="https://img.shields.io/github/forks/iveresk/cve-2022-21907">	<img alt="stars" src="https://img.shields.io/github/stars/iveresk/cve-2022-21907">
+- [iveresk/cve-2022-21907-http.sys](https://github.com/iveresk/cve-2022-21907-http.sys)	<img alt="forks" src="https://img.shields.io/github/forks/iveresk/cve-2022-21907-http.sys">	<img alt="stars" src="https://img.shields.io/github/stars/iveresk/cve-2022-21907-http.sys">
+- [p0dalirius/CVE-2022-21907-http.sys](https://github.com/p0dalirius/CVE-2022-21907-http.sys)	<img alt="forks" src="https://img.shields.io/github/forks/p0dalirius/CVE-2022-21907-http.sys">	<img alt="stars" src="https://img.shields.io/github/stars/p0dalirius/CVE-2022-21907-http.sys">
+- [gpiechnik2/nmap-CVE-2022-21907](https://github.com/gpiechnik2/nmap-CVE-2022-21907)	<img alt="forks" src="https://img.shields.io/github/forks/gpiechnik2/nmap-CVE-2022-21907">	<img alt="stars" src="https://img.shields.io/github/stars/gpiechnik2/nmap-CVE-2022-21907">
+- [polakow/CVE-2022-21907](https://github.com/polakow/CVE-2022-21907)	<img alt="forks" src="https://img.shields.io/github/forks/polakow/CVE-2022-21907">	<img alt="stars" src="https://img.shields.io/github/stars/polakow/CVE-2022-21907">
+- [mauricelambert/CVE-2022-21907](https://github.com/mauricelambert/CVE-2022-21907)	<img alt="forks" src="https://img.shields.io/github/forks/mauricelambert/CVE-2022-21907">	<img alt="stars" src="https://img.shields.io/github/stars/mauricelambert/CVE-2022-21907">
+- [corelight/cve-2022-21907](https://github.com/corelight/cve-2022-21907)	<img alt="forks" src="https://img.shields.io/github/forks/corelight/cve-2022-21907">	<img alt="stars" src="https://img.shields.io/github/stars/corelight/cve-2022-21907">
+- [awsassets/CVE_2022_21907-poc](https://github.com/awsassets/CVE_2022_21907-poc)	<img alt="forks" src="https://img.shields.io/github/forks/awsassets/CVE_2022_21907-poc">	<img alt="stars" src="https://img.shields.io/github/stars/awsassets/CVE_2022_21907-poc">
+- [michelep/CVE-2022-21907-Vulnerability-PoC](https://github.com/michelep/CVE-2022-21907-Vulnerability-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/michelep/CVE-2022-21907-Vulnerability-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/michelep/CVE-2022-21907-Vulnerability-PoC">
+- [ZZ-SOCMAP/CVE-2022-21907](https://github.com/ZZ-SOCMAP/CVE-2022-21907)	<img alt="forks" src="https://img.shields.io/github/forks/ZZ-SOCMAP/CVE-2022-21907">	<img alt="stars" src="https://img.shields.io/github/stars/ZZ-SOCMAP/CVE-2022-21907">
+- [xiska62314/CVE-2022-21907](https://github.com/xiska62314/CVE-2022-21907)	<img alt="forks" src="https://img.shields.io/github/forks/xiska62314/CVE-2022-21907">	<img alt="stars" src="https://img.shields.io/github/stars/xiska62314/CVE-2022-21907">
 
 ---
 ## CVE-2022-21894 (2022-01-11T21:15:00)
