@@ -1802,6 +1802,11 @@
 - [Malwareman007/CVE-2022-21970](https://github.com/Malwareman007/CVE-2022-21970)	<img alt="forks" src="https://img.shields.io/github/forks/Malwareman007/CVE-2022-21970">	<img alt="stars" src="https://img.shields.io/github/stars/Malwareman007/CVE-2022-21970">
 
 ---
+## CVE-2022-21907 (2022-01-11T21:15:00)
+> HTTP Protocol Stack Remote Code Execution Vulnerability.
+- [Malwareman007/CVE-2022-21907](https://github.com/Malwareman007/CVE-2022-21907)	<img alt="forks" src="https://img.shields.io/github/forks/Malwareman007/CVE-2022-21907">	<img alt="stars" src="https://img.shields.io/github/stars/Malwareman007/CVE-2022-21907">
+
+---
 ## CVE-2022-21894 (2022-01-11T21:15:00)
 > Secure Boot Security Feature Bypass Vulnerability.
 - [Wack0/CVE-2022-21894](https://github.com/Wack0/CVE-2022-21894)	<img alt="forks" src="https://img.shields.io/github/forks/Wack0/CVE-2022-21894">	<img alt="stars" src="https://img.shields.io/github/stars/Wack0/CVE-2022-21894">
