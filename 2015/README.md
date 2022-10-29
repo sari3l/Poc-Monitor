@@ -23,6 +23,21 @@
 - [cved-sources/cve-2015-8103](https://github.com/cved-sources/cve-2015-8103)	<img alt="forks" src="https://img.shields.io/github/forks/cved-sources/cve-2015-8103">	<img alt="stars" src="https://img.shields.io/github/stars/cved-sources/cve-2015-8103">
 
 ---
+## CVE-2015-7547 (2016-02-18T21:59:00)
+> Multiple stack-based buffer overflows in the (1) send_dg and (2) send_vc functions in the libresolv library in the GNU C Library (aka glibc or libc6) before 2.23 allow remote attackers to cause a denial of service (crash) or possibly execute arbitrary code via a crafted DNS response that triggers a call to the getaddrinfo function with the AF_UNSPEC or AF_INET6 address family, related to performing "dual A/AAAA DNS queries" and the libnss_dns.so.2 NSS module.
+- [Stick-U235/CVE-2015-7547-Research](https://github.com/Stick-U235/CVE-2015-7547-Research)	<img alt="forks" src="https://img.shields.io/github/forks/Stick-U235/CVE-2015-7547-Research">	<img alt="stars" src="https://img.shields.io/github/stars/Stick-U235/CVE-2015-7547-Research">
+- [Amilaperera12/Glibc-Vulnerability-Exploit-CVE-2015-7547](https://github.com/Amilaperera12/Glibc-Vulnerability-Exploit-CVE-2015-7547)	<img alt="forks" src="https://img.shields.io/github/forks/Amilaperera12/Glibc-Vulnerability-Exploit-CVE-2015-7547">	<img alt="stars" src="https://img.shields.io/github/stars/Amilaperera12/Glibc-Vulnerability-Exploit-CVE-2015-7547">
+- [miracle03/CVE-2015-7547-master](https://github.com/miracle03/CVE-2015-7547-master)	<img alt="forks" src="https://img.shields.io/github/forks/miracle03/CVE-2015-7547-master">	<img alt="stars" src="https://img.shields.io/github/stars/miracle03/CVE-2015-7547-master">
+- [bluebluelan/CVE-2015-7547-proj-master](https://github.com/bluebluelan/CVE-2015-7547-proj-master)	<img alt="forks" src="https://img.shields.io/github/forks/bluebluelan/CVE-2015-7547-proj-master">	<img alt="stars" src="https://img.shields.io/github/stars/bluebluelan/CVE-2015-7547-proj-master">
+- [eSentire/cve-2015-7547-public](https://github.com/eSentire/cve-2015-7547-public)	<img alt="forks" src="https://img.shields.io/github/forks/eSentire/cve-2015-7547-public">	<img alt="stars" src="https://img.shields.io/github/stars/eSentire/cve-2015-7547-public">
+- [jgajek/cve-2015-7547](https://github.com/jgajek/cve-2015-7547)	<img alt="forks" src="https://img.shields.io/github/forks/jgajek/cve-2015-7547">	<img alt="stars" src="https://img.shields.io/github/stars/jgajek/cve-2015-7547">
+- [t0r0t0r0/CVE-2015-7547](https://github.com/t0r0t0r0/CVE-2015-7547)	<img alt="forks" src="https://img.shields.io/github/forks/t0r0t0r0/CVE-2015-7547">	<img alt="stars" src="https://img.shields.io/github/stars/t0r0t0r0/CVE-2015-7547">
+- [babykillerblack/CVE-2015-7547](https://github.com/babykillerblack/CVE-2015-7547)	<img alt="forks" src="https://img.shields.io/github/forks/babykillerblack/CVE-2015-7547">	<img alt="stars" src="https://img.shields.io/github/stars/babykillerblack/CVE-2015-7547">
+- [fjserna/CVE-2015-7547](https://github.com/fjserna/CVE-2015-7547)	<img alt="forks" src="https://img.shields.io/github/forks/fjserna/CVE-2015-7547">	<img alt="stars" src="https://img.shields.io/github/stars/fjserna/CVE-2015-7547">
+- [rexifiles/rex-sec-glibc](https://github.com/rexifiles/rex-sec-glibc)	<img alt="forks" src="https://img.shields.io/github/forks/rexifiles/rex-sec-glibc">	<img alt="stars" src="https://img.shields.io/github/stars/rexifiles/rex-sec-glibc">
+- [cakuzo/CVE-2015-7547](https://github.com/cakuzo/CVE-2015-7547)	<img alt="forks" src="https://img.shields.io/github/forks/cakuzo/CVE-2015-7547">	<img alt="stars" src="https://img.shields.io/github/stars/cakuzo/CVE-2015-7547">
+
+---
 ## CVE-2015-5531 (2015-08-17T15:59:00)
 > Directory traversal vulnerability in Elasticsearch before 1.6.1 allows remote attackers to read arbitrary files via unspecified vectors related to snapshot API calls.
 - [xpgdgit/CVE-2015-5531](https://github.com/xpgdgit/CVE-2015-5531)	<img alt="forks" src="https://img.shields.io/github/forks/xpgdgit/CVE-2015-5531">	<img alt="stars" src="https://img.shields.io/github/stars/xpgdgit/CVE-2015-5531">
