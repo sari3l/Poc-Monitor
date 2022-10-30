@@ -770,6 +770,7 @@
 - [n0npro/CVE-2022-3236-RCE-POC](https://github.com/n0npro/CVE-2022-3236-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/n0npro/CVE-2022-3236-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/n0npro/CVE-2022-3236-RCE-POC">
 - [n0npro/CVE-2022-3236-MASS-RCE](https://github.com/n0npro/CVE-2022-3236-MASS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/n0npro/CVE-2022-3236-MASS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/n0npro/CVE-2022-3236-MASS-RCE">
 - [s41n7s/CVE-2022-3236-POC](https://github.com/s41n7s/CVE-2022-3236-POC)	<img alt="forks" src="https://img.shields.io/github/forks/s41n7s/CVE-2022-3236-POC">	<img alt="stars" src="https://img.shields.io/github/stars/s41n7s/CVE-2022-3236-POC">
+- [sml1nk/CVE-2022-3236-RCE](https://github.com/sml1nk/CVE-2022-3236-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/sml1nk/CVE-2022-3236-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/sml1nk/CVE-2022-3236-RCE">
 
 ---
 ## CVE-2022-32250 (2022-06-02T21:15:00)
