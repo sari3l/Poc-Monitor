@@ -2173,6 +2173,11 @@
 - [faisalfs10x/Webmin-CVE-2022-0824-revshell](https://github.com/faisalfs10x/Webmin-CVE-2022-0824-revshell)	<img alt="forks" src="https://img.shields.io/github/forks/faisalfs10x/Webmin-CVE-2022-0824-revshell">	<img alt="stars" src="https://img.shields.io/github/stars/faisalfs10x/Webmin-CVE-2022-0824-revshell">
 
 ---
+## CVE-2022-0739 (2022-03-21T19:15:00)
+> The BookingPress WordPress plugin before 1.0.11 fails to properly sanitize user supplied POST data before it is used in a dynamically constructed SQL query via the bookingpress_front_get_category_services AJAX action (available to unauthenticated users), leading to an unauthenticated SQL Injection
+- [destr4ct/CVE-2022-0739](https://github.com/destr4ct/CVE-2022-0739)	<img alt="forks" src="https://img.shields.io/github/forks/destr4ct/CVE-2022-0739">	<img alt="stars" src="https://img.shields.io/github/stars/destr4ct/CVE-2022-0739">
+
+---
 ## CVE-2022-0666 (2022-02-18T15:15:00)
 > CRLF Injection leads to Stack Trace Exposure due to lack of filtering at https://demo.microweber.org/ in Packagist microweber/microweber prior to 1.2.11.
 - [d4rkduck/CVE-2022-0666](https://github.com/d4rkduck/CVE-2022-0666)	<img alt="forks" src="https://img.shields.io/github/forks/d4rkduck/CVE-2022-0666">	<img alt="stars" src="https://img.shields.io/github/stars/d4rkduck/CVE-2022-0666">
