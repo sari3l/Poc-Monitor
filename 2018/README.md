@@ -297,6 +297,7 @@
 - [jas502n/CVE-2018-14847](https://github.com/jas502n/CVE-2018-14847)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2018-14847">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2018-14847">
 - [syrex1013/MikroRoot](https://github.com/syrex1013/MikroRoot)	<img alt="forks" src="https://img.shields.io/github/forks/syrex1013/MikroRoot">	<img alt="stars" src="https://img.shields.io/github/stars/syrex1013/MikroRoot">
 - [msterusky/WinboxExploit](https://github.com/msterusky/WinboxExploit)	<img alt="forks" src="https://img.shields.io/github/forks/msterusky/WinboxExploit">	<img alt="stars" src="https://img.shields.io/github/stars/msterusky/WinboxExploit">
+- [babyshen/routeros-CVE-2018-14847-bytheway](https://github.com/babyshen/routeros-CVE-2018-14847-bytheway)	<img alt="forks" src="https://img.shields.io/github/forks/babyshen/routeros-CVE-2018-14847-bytheway">	<img alt="stars" src="https://img.shields.io/github/stars/babyshen/routeros-CVE-2018-14847-bytheway">
 
 ---
 ## CVE-2018-14699 (2018-12-03T22:29:00)
