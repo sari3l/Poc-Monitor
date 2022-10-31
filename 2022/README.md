@@ -258,8 +258,8 @@
 - [whitej3rry/CVE-2022-40490](https://github.com/whitej3rry/CVE-2022-40490)	<img alt="forks" src="https://img.shields.io/github/forks/whitej3rry/CVE-2022-40490">	<img alt="stars" src="https://img.shields.io/github/stars/whitej3rry/CVE-2022-40490">
 
 ---
-## CVE-2022-40471 ()
-> 
+## CVE-2022-40471 (2022-10-31T16:15:00)
+> Remote Code Execution in Clinic's Patient Management System v 1.0 allows Attacker to Upload arbitrary php webshell via profile picture upload functionality in users.php
 - [RashidKhanPathan/CVE-2022-40471](https://github.com/RashidKhanPathan/CVE-2022-40471)	<img alt="forks" src="https://img.shields.io/github/forks/RashidKhanPathan/CVE-2022-40471">	<img alt="stars" src="https://img.shields.io/github/stars/RashidKhanPathan/CVE-2022-40471">
 
 ---
