@@ -54,6 +54,7 @@
 - [cxzero/CVE-2022-42889-text4shell](https://github.com/cxzero/CVE-2022-42889-text4shell)	<img alt="forks" src="https://img.shields.io/github/forks/cxzero/CVE-2022-42889-text4shell">	<img alt="stars" src="https://img.shields.io/github/stars/cxzero/CVE-2022-42889-text4shell">
 - [west-wind/CVE-2022-42889](https://github.com/west-wind/CVE-2022-42889)	<img alt="forks" src="https://img.shields.io/github/forks/west-wind/CVE-2022-42889">	<img alt="stars" src="https://img.shields.io/github/stars/west-wind/CVE-2022-42889">
 - [Vulnmachines/text4shell-CVE-2022-42889](https://github.com/Vulnmachines/text4shell-CVE-2022-42889)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/text4shell-CVE-2022-42889">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/text4shell-CVE-2022-42889">
+- [YulinSec/t4scan](https://github.com/YulinSec/t4scan)	<img alt="forks" src="https://img.shields.io/github/forks/YulinSec/t4scan">	<img alt="stars" src="https://img.shields.io/github/stars/YulinSec/t4scan">
 
 ---
 ## CVE-2022-42045 ()
