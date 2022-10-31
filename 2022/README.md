@@ -57,6 +57,16 @@
 - [YulinSec/t4scan](https://github.com/YulinSec/t4scan)	<img alt="forks" src="https://img.shields.io/github/forks/YulinSec/t4scan">	<img alt="stars" src="https://img.shields.io/github/stars/YulinSec/t4scan">
 
 ---
+## CVE-2022-42096 ()
+> 
+- [bypazs/CVE-2022-42096](https://github.com/bypazs/CVE-2022-42096)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/CVE-2022-42096">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/CVE-2022-42096">
+
+---
+## CVE-2022-42094 ()
+> 
+- [bypazs/CVE-2022-42094](https://github.com/bypazs/CVE-2022-42094)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/CVE-2022-42094">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/CVE-2022-42094">
+
+---
 ## CVE-2022-42045 ()
 > 
 - [ReCryptLLC/CVE-2022-42045](https://github.com/ReCryptLLC/CVE-2022-42045)	<img alt="forks" src="https://img.shields.io/github/forks/ReCryptLLC/CVE-2022-42045">	<img alt="stars" src="https://img.shields.io/github/stars/ReCryptLLC/CVE-2022-42045">
