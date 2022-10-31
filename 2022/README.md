@@ -1790,6 +1790,7 @@
 ## CVE-2022-22909 (2022-03-03T00:15:00)
 > HotelDruid v3.0.3 was discovered to contain a remote code execution (RCE) vulnerability which is exploited via an attacker inserting a crafted payload into the name field under the Create New Room module.
 - [0z09e/CVE-2022-22909](https://github.com/0z09e/CVE-2022-22909)	<img alt="forks" src="https://img.shields.io/github/forks/0z09e/CVE-2022-22909">	<img alt="stars" src="https://img.shields.io/github/stars/0z09e/CVE-2022-22909">
+- [kaal18/CVE-2022-22909](https://github.com/kaal18/CVE-2022-22909)	<img alt="forks" src="https://img.shields.io/github/forks/kaal18/CVE-2022-22909">	<img alt="stars" src="https://img.shields.io/github/stars/kaal18/CVE-2022-22909">
 
 ---
 ## CVE-2022-2274 (2022-07-01T08:15:00)
