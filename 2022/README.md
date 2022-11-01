@@ -575,6 +575,12 @@
 - [backcr4t/CVE-2022-36067-MASS-RCE](https://github.com/backcr4t/CVE-2022-36067-MASS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/backcr4t/CVE-2022-36067-MASS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/backcr4t/CVE-2022-36067-MASS-RCE">
 
 ---
+## CVE-2022-3602 ()
+> 
+- [eatscrayon/CVE-2022-3602-poc](https://github.com/eatscrayon/CVE-2022-3602-poc)	<img alt="forks" src="https://img.shields.io/github/forks/eatscrayon/CVE-2022-3602-poc">	<img alt="stars" src="https://img.shields.io/github/stars/eatscrayon/CVE-2022-3602-poc">
+- [colmmacc/CVE-2022-3602](https://github.com/colmmacc/CVE-2022-3602)	<img alt="forks" src="https://img.shields.io/github/forks/colmmacc/CVE-2022-3602">	<img alt="stars" src="https://img.shields.io/github/stars/colmmacc/CVE-2022-3602">
+
+---
 ## CVE-2022-35914 (2022-09-19T16:15:00)
 > /vendor/htmlawed/htmlawed/htmLawedTest.php in the htmlawed module for GLPI through 10.0.2 allows PHP code injection.
 - [cosad3s/CVE-2022-35914-poc](https://github.com/cosad3s/CVE-2022-35914-poc)	<img alt="forks" src="https://img.shields.io/github/forks/cosad3s/CVE-2022-35914-poc">	<img alt="stars" src="https://img.shields.io/github/stars/cosad3s/CVE-2022-35914-poc">
@@ -1072,6 +1078,7 @@
 - [Imeneallouche/Follina-attack-CVE-2022-30190-](https://github.com/Imeneallouche/Follina-attack-CVE-2022-30190-)	<img alt="forks" src="https://img.shields.io/github/forks/Imeneallouche/Follina-attack-CVE-2022-30190-">	<img alt="stars" src="https://img.shields.io/github/stars/Imeneallouche/Follina-attack-CVE-2022-30190-">
 - [Cosmo121/Follina-Remediation](https://github.com/Cosmo121/Follina-Remediation)	<img alt="forks" src="https://img.shields.io/github/forks/Cosmo121/Follina-Remediation">	<img alt="stars" src="https://img.shields.io/github/stars/Cosmo121/Follina-Remediation">
 - [WilsonFung414/CVE-2022-30190](https://github.com/WilsonFung414/CVE-2022-30190)	<img alt="forks" src="https://img.shields.io/github/forks/WilsonFung414/CVE-2022-30190">	<img alt="stars" src="https://img.shields.io/github/stars/WilsonFung414/CVE-2022-30190">
+- [arozx/CVE-2022-30190](https://github.com/arozx/CVE-2022-30190)	<img alt="forks" src="https://img.shields.io/github/forks/arozx/CVE-2022-30190">	<img alt="stars" src="https://img.shields.io/github/stars/arozx/CVE-2022-30190">
 
 ---
 ## CVE-2022-30136 (2022-06-15T22:15:00)
