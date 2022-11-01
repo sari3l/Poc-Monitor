@@ -263,6 +263,11 @@
 - [RashidKhanPathan/CVE-2022-40471](https://github.com/RashidKhanPathan/CVE-2022-40471)	<img alt="forks" src="https://img.shields.io/github/forks/RashidKhanPathan/CVE-2022-40471">	<img alt="stars" src="https://img.shields.io/github/stars/RashidKhanPathan/CVE-2022-40471">
 
 ---
+## CVE-2022-40470 ()
+> 
+- [RashidKhanPathan/CVE-2022-40470](https://github.com/RashidKhanPathan/CVE-2022-40470)	<img alt="forks" src="https://img.shields.io/github/forks/RashidKhanPathan/CVE-2022-40470">	<img alt="stars" src="https://img.shields.io/github/stars/RashidKhanPathan/CVE-2022-40470">
+
+---
 ## CVE-2022-40317 (2022-09-09T17:15:00)
 > OpenKM 6.3.11 allows stored XSS related to the javascript&colon; substring in an A element.
 - [izdiwho/CVE-2022-40317](https://github.com/izdiwho/CVE-2022-40317)	<img alt="forks" src="https://img.shields.io/github/forks/izdiwho/CVE-2022-40317">	<img alt="stars" src="https://img.shields.io/github/stars/izdiwho/CVE-2022-40317">
