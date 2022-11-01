@@ -581,6 +581,7 @@
 - [colmmacc/CVE-2022-3602](https://github.com/colmmacc/CVE-2022-3602)	<img alt="forks" src="https://img.shields.io/github/forks/colmmacc/CVE-2022-3602">	<img alt="stars" src="https://img.shields.io/github/stars/colmmacc/CVE-2022-3602">
 - [hi-artem/find-spooky-prismacloud](https://github.com/hi-artem/find-spooky-prismacloud)	<img alt="forks" src="https://img.shields.io/github/forks/hi-artem/find-spooky-prismacloud">	<img alt="stars" src="https://img.shields.io/github/stars/hi-artem/find-spooky-prismacloud">
 - [Qualys/osslscanwin](https://github.com/Qualys/osslscanwin)	<img alt="forks" src="https://img.shields.io/github/forks/Qualys/osslscanwin">	<img alt="stars" src="https://img.shields.io/github/stars/Qualys/osslscanwin">
+- [attilaszia/cve-2022-3602](https://github.com/attilaszia/cve-2022-3602)	<img alt="forks" src="https://img.shields.io/github/forks/attilaszia/cve-2022-3602">	<img alt="stars" src="https://img.shields.io/github/stars/attilaszia/cve-2022-3602">
 
 ---
 ## CVE-2022-35914 (2022-09-19T16:15:00)
