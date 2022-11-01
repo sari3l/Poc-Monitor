@@ -622,6 +622,11 @@
 - [viniciuspereiras/CVE-2022-35405](https://github.com/viniciuspereiras/CVE-2022-35405)	<img alt="forks" src="https://img.shields.io/github/forks/viniciuspereiras/CVE-2022-35405">	<img alt="stars" src="https://img.shields.io/github/stars/viniciuspereiras/CVE-2022-35405">
 
 ---
+## CVE-2022-3518 (2022-10-15T10:15:00)
+> A vulnerability classified as problematic has been found in SourceCodester Sanitization Management System 1.0. Affected is an unknown function of the component User Creation Handler. The manipulation of the argument First Name/Middle Name/Last Name leads to cross site scripting. It is possible to launch the attack remotely. VDB-211014 is the identifier assigned to this vulnerability.
+- [lohith19/CVE-2022-3518](https://github.com/lohith19/CVE-2022-3518)	<img alt="forks" src="https://img.shields.io/github/forks/lohith19/CVE-2022-3518">	<img alt="stars" src="https://img.shields.io/github/stars/lohith19/CVE-2022-3518">
+
+---
 ## CVE-2022-35131 (2022-07-25T21:15:00)
 > Joplin v2.8.8 allows attackers to execute arbitrary commands via a crafted payload injected into the Node titles.
 - [ly1g3/Joplin-CVE-2022-35131](https://github.com/ly1g3/Joplin-CVE-2022-35131)	<img alt="forks" src="https://img.shields.io/github/forks/ly1g3/Joplin-CVE-2022-35131">	<img alt="stars" src="https://img.shields.io/github/stars/ly1g3/Joplin-CVE-2022-35131">
