@@ -580,6 +580,7 @@
 - [eatscrayon/CVE-2022-3602-poc](https://github.com/eatscrayon/CVE-2022-3602-poc)	<img alt="forks" src="https://img.shields.io/github/forks/eatscrayon/CVE-2022-3602-poc">	<img alt="stars" src="https://img.shields.io/github/stars/eatscrayon/CVE-2022-3602-poc">
 - [colmmacc/CVE-2022-3602](https://github.com/colmmacc/CVE-2022-3602)	<img alt="forks" src="https://img.shields.io/github/forks/colmmacc/CVE-2022-3602">	<img alt="stars" src="https://img.shields.io/github/stars/colmmacc/CVE-2022-3602">
 - [hi-artem/find-spooky-prismacloud](https://github.com/hi-artem/find-spooky-prismacloud)	<img alt="forks" src="https://img.shields.io/github/forks/hi-artem/find-spooky-prismacloud">	<img alt="stars" src="https://img.shields.io/github/stars/hi-artem/find-spooky-prismacloud">
+- [Qualys/osslscanwin](https://github.com/Qualys/osslscanwin)	<img alt="forks" src="https://img.shields.io/github/forks/Qualys/osslscanwin">	<img alt="stars" src="https://img.shields.io/github/stars/Qualys/osslscanwin">
 
 ---
 ## CVE-2022-35914 (2022-09-19T16:15:00)
@@ -756,8 +757,8 @@
 - [FedericoHeichou/CVE-2022-32988](https://github.com/FedericoHeichou/CVE-2022-32988)	<img alt="forks" src="https://img.shields.io/github/forks/FedericoHeichou/CVE-2022-32988">	<img alt="stars" src="https://img.shields.io/github/stars/FedericoHeichou/CVE-2022-32988">
 
 ---
-## CVE-2022-32938 ()
-> 
+## CVE-2022-32938 (2022-11-01T20:15:00)
+> A parsing issue in the handling of directory paths was addressed with improved path validation. This issue is fixed in iOS 16.1 and iPadOS 16, macOS Ventura 13. A shortcut may be able to check the existence of an arbitrary path on the file system.
 - [iCMDgithub/CVE-2022-32938](https://github.com/iCMDgithub/CVE-2022-32938)	<img alt="forks" src="https://img.shields.io/github/forks/iCMDgithub/CVE-2022-32938">	<img alt="stars" src="https://img.shields.io/github/stars/iCMDgithub/CVE-2022-32938">
 
 ---
