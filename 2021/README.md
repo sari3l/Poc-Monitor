@@ -1060,6 +1060,24 @@
 - [MaX0dexpoit/CVE-2021-20038](https://github.com/MaX0dexpoit/CVE-2021-20038)	<img alt="forks" src="https://img.shields.io/github/forks/MaX0dexpoit/CVE-2021-20038">	<img alt="stars" src="https://img.shields.io/github/stars/MaX0dexpoit/CVE-2021-20038">
 
 ---
+## CVE-2021-1732 (2021-02-25T23:15:00)
+> Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.
+- [ratw/CVE-2021-1732](https://github.com/ratw/CVE-2021-1732)	<img alt="forks" src="https://img.shields.io/github/forks/ratw/CVE-2021-1732">	<img alt="stars" src="https://img.shields.io/github/stars/ratw/CVE-2021-1732">
+- [jessica0f0116/cve_2022_21882-cve_2021_1732](https://github.com/jessica0f0116/cve_2022_21882-cve_2021_1732)	<img alt="forks" src="https://img.shields.io/github/forks/jessica0f0116/cve_2022_21882-cve_2021_1732">	<img alt="stars" src="https://img.shields.io/github/stars/jessica0f0116/cve_2022_21882-cve_2021_1732">
+- [Ascotbe/Kernelhub](https://github.com/Ascotbe/Kernelhub)	<img alt="forks" src="https://img.shields.io/github/forks/Ascotbe/Kernelhub">	<img alt="stars" src="https://img.shields.io/github/stars/Ascotbe/Kernelhub">
+- [ExploitCN/CVE-2021-1732-EXP-](https://github.com/ExploitCN/CVE-2021-1732-EXP-)	<img alt="forks" src="https://img.shields.io/github/forks/ExploitCN/CVE-2021-1732-EXP-">	<img alt="stars" src="https://img.shields.io/github/stars/ExploitCN/CVE-2021-1732-EXP-">
+- [Al1ex/WindowsElevation](https://github.com/Al1ex/WindowsElevation)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/WindowsElevation">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/WindowsElevation">
+- [r1l4-i3pur1l4/CVE-2021-1732](https://github.com/r1l4-i3pur1l4/CVE-2021-1732)	<img alt="forks" src="https://img.shields.io/github/forks/r1l4-i3pur1l4/CVE-2021-1732">	<img alt="stars" src="https://img.shields.io/github/stars/r1l4-i3pur1l4/CVE-2021-1732">
+- [BeneficialCode/CVE-2021-1732](https://github.com/BeneficialCode/CVE-2021-1732)	<img alt="forks" src="https://img.shields.io/github/forks/BeneficialCode/CVE-2021-1732">	<img alt="stars" src="https://img.shields.io/github/stars/BeneficialCode/CVE-2021-1732">
+- [exploitblizzard/Windows-Privilege-Escalation-CVE-2021-1732](https://github.com/exploitblizzard/Windows-Privilege-Escalation-CVE-2021-1732)	<img alt="forks" src="https://img.shields.io/github/forks/exploitblizzard/Windows-Privilege-Escalation-CVE-2021-1732">	<img alt="stars" src="https://img.shields.io/github/stars/exploitblizzard/Windows-Privilege-Escalation-CVE-2021-1732">
+- [Pai-Po/CVE-2021-1732](https://github.com/Pai-Po/CVE-2021-1732)	<img alt="forks" src="https://img.shields.io/github/forks/Pai-Po/CVE-2021-1732">	<img alt="stars" src="https://img.shields.io/github/stars/Pai-Po/CVE-2021-1732">
+- [YOunGWebER/cve_2021_1732](https://github.com/YOunGWebER/cve_2021_1732)	<img alt="forks" src="https://img.shields.io/github/forks/YOunGWebER/cve_2021_1732">	<img alt="stars" src="https://img.shields.io/github/stars/YOunGWebER/cve_2021_1732">
+- [linuxdy/CVE-2021-1732_exp](https://github.com/linuxdy/CVE-2021-1732_exp)	<img alt="forks" src="https://img.shields.io/github/forks/linuxdy/CVE-2021-1732_exp">	<img alt="stars" src="https://img.shields.io/github/stars/linuxdy/CVE-2021-1732_exp">
+- [oneoy/CVE-2021-1732-Exploit](https://github.com/oneoy/CVE-2021-1732-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/oneoy/CVE-2021-1732-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/oneoy/CVE-2021-1732-Exploit">
+- [k-k-k-k-k/CVE-2021-1732](https://github.com/k-k-k-k-k/CVE-2021-1732)	<img alt="forks" src="https://img.shields.io/github/forks/k-k-k-k-k/CVE-2021-1732">	<img alt="stars" src="https://img.shields.io/github/stars/k-k-k-k-k/CVE-2021-1732">
+- [KaLendsi/CVE-2021-1732-Exploit](https://github.com/KaLendsi/CVE-2021-1732-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/KaLendsi/CVE-2021-1732-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/KaLendsi/CVE-2021-1732-Exploit">
+
+---
 ## CVE-2021-1675 (2021-06-08T23:15:00)
 > Windows Print Spooler Elevation of Privilege Vulnerability
 - [jj4152/cve-2021-1675](https://github.com/jj4152/cve-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/jj4152/cve-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/jj4152/cve-2021-1675">
