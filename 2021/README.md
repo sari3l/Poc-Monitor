@@ -762,6 +762,11 @@
 - [0nion1/CVE-2021-3129](https://github.com/0nion1/CVE-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/0nion1/CVE-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/0nion1/CVE-2021-3129">
 
 ---
+## CVE-2021-3122 (2021-02-07T20:15:00)
+> CMCAgent in NCR Command Center Agent 16.3 on Aloha POS/BOH servers permits the submission of a runCommand parameter (within an XML document sent to port 8089) that enables the remote, unauthenticated execution of an arbitrary command as SYSTEM, as exploited in the wild in 2020 and/or 2021. NOTE: the vendor's position is that exploitation occurs only on devices with a certain "misconfiguration."
+- [acquiredsecurity/CVE-2021-3122-Details](https://github.com/acquiredsecurity/CVE-2021-3122-Details)	<img alt="forks" src="https://img.shields.io/github/forks/acquiredsecurity/CVE-2021-3122-Details">	<img alt="stars" src="https://img.shields.io/github/stars/acquiredsecurity/CVE-2021-3122-Details">
+
+---
 ## CVE-2021-3060 (2021-11-10T17:15:00)
 > An OS command injection vulnerability in the Simple Certificate Enrollment Protocol (SCEP) feature of PAN-OS software allows an unauthenticated network-based attacker with specific knowledge of the firewall configuration to execute arbitrary code with root user privileges. The attacker must have network access to the GlobalProtect interfaces to exploit this issue. This issue impacts: PAN-OS 8.1 versions earlier than PAN-OS 8.1.20-h1; PAN-OS 9.0 versions earlier than PAN-OS 9.0.14-h3; PAN-OS 9.1 versions earlier than PAN-OS 9.1.11-h2; PAN-OS 10.0 versions earlier than PAN-OS 10.0.8; PAN-OS 10.1 versions earlier than PAN-OS 10.1.3. Prisma Access customers with Prisma Access 2.1 Preferred and Prisma Access 2.1 Innovation firewalls are impacted by this issue.
 - [timb-machine-mirrors/cve-2021-3060.py](https://github.com/timb-machine-mirrors/cve-2021-3060.py)	<img alt="forks" src="https://img.shields.io/github/forks/timb-machine-mirrors/cve-2021-3060.py">	<img alt="stars" src="https://img.shields.io/github/stars/timb-machine-mirrors/cve-2021-3060.py">
