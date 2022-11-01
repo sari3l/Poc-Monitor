@@ -306,6 +306,7 @@
 - [itsecurityco/CVE-2021-41773](https://github.com/itsecurityco/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/itsecurityco/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/itsecurityco/CVE-2021-41773">
 - [LudovicPatho/CVE-2021-41773](https://github.com/LudovicPatho/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/LudovicPatho/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/LudovicPatho/CVE-2021-41773">
 - [aqiao-jashell/CVE-2021-41773](https://github.com/aqiao-jashell/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/aqiao-jashell/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/aqiao-jashell/CVE-2021-41773">
+- [aqiao-jashell/py-CVE-2021-41773](https://github.com/aqiao-jashell/py-CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/aqiao-jashell/py-CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/aqiao-jashell/py-CVE-2021-41773">
 
 ---
 ## CVE-2021-41652 (2022-03-01T23:15:00)
