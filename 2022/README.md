@@ -590,6 +590,7 @@
 - [micr0sh0ft/certscare-openssl3-exploit](https://github.com/micr0sh0ft/certscare-openssl3-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/micr0sh0ft/certscare-openssl3-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/micr0sh0ft/certscare-openssl3-exploit">
 - [alicangnll/SpookySSL-Scanner](https://github.com/alicangnll/SpookySSL-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/alicangnll/SpookySSL-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/alicangnll/SpookySSL-Scanner">
 - [NCSC-NL/OpenSSL-2022](https://github.com/NCSC-NL/OpenSSL-2022)	<img alt="forks" src="https://img.shields.io/github/forks/NCSC-NL/OpenSSL-2022">	<img alt="stars" src="https://img.shields.io/github/stars/NCSC-NL/OpenSSL-2022">
+- [fox-it/spookyssl-pcaps](https://github.com/fox-it/spookyssl-pcaps)	<img alt="forks" src="https://img.shields.io/github/forks/fox-it/spookyssl-pcaps">	<img alt="stars" src="https://img.shields.io/github/stars/fox-it/spookyssl-pcaps">
 
 ---
 ## CVE-2022-35914 (2022-09-19T16:15:00)
@@ -2279,6 +2280,13 @@
 ## CVE-2022-0185 (2022-02-11T18:15:00)
 > A heap-based buffer overflow flaw was found in the way the legacy_parse_param function in the Filesystem Context functionality of the Linux kernel verified the supplied parameters length. An unprivileged (in case of unprivileged user namespaces enabled, otherwise needs namespaced CAP_SYS_ADMIN privilege) local user able to open a filesystem that does not support the Filesystem Context API (and thus fallbacks to legacy handling) could use this flaw to escalate their privileges on the system.
 - [featherL/CVE-2022-0185-exploit](https://github.com/featherL/CVE-2022-0185-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/featherL/CVE-2022-0185-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/featherL/CVE-2022-0185-exploit">
+- [chenaotian/CVE-2022-0185](https://github.com/chenaotian/CVE-2022-0185)	<img alt="forks" src="https://img.shields.io/github/forks/chenaotian/CVE-2022-0185">	<img alt="stars" src="https://img.shields.io/github/stars/chenaotian/CVE-2022-0185">
+- [Crusaders-of-Rust/CVE-2022-0185](https://github.com/Crusaders-of-Rust/CVE-2022-0185)	<img alt="forks" src="https://img.shields.io/github/forks/Crusaders-of-Rust/CVE-2022-0185">	<img alt="stars" src="https://img.shields.io/github/stars/Crusaders-of-Rust/CVE-2022-0185">
+- [veritas501/CVE-2022-0185-PipeVersion](https://github.com/veritas501/CVE-2022-0185-PipeVersion)	<img alt="forks" src="https://img.shields.io/github/forks/veritas501/CVE-2022-0185-PipeVersion">	<img alt="stars" src="https://img.shields.io/github/stars/veritas501/CVE-2022-0185-PipeVersion">
+- [chenaotian/CVE-2022-25636](https://github.com/chenaotian/CVE-2022-25636)	<img alt="forks" src="https://img.shields.io/github/forks/chenaotian/CVE-2022-25636">	<img alt="stars" src="https://img.shields.io/github/stars/chenaotian/CVE-2022-25636">
+- [shahparkhan/cve-2022-0185](https://github.com/shahparkhan/cve-2022-0185)	<img alt="forks" src="https://img.shields.io/github/forks/shahparkhan/cve-2022-0185">	<img alt="stars" src="https://img.shields.io/github/stars/shahparkhan/cve-2022-0185">
+- [khaclep007/CVE-2022-0185](https://github.com/khaclep007/CVE-2022-0185)	<img alt="forks" src="https://img.shields.io/github/forks/khaclep007/CVE-2022-0185">	<img alt="stars" src="https://img.shields.io/github/stars/khaclep007/CVE-2022-0185">
+- [discordianfish/cve-2022-0185-crash-poc](https://github.com/discordianfish/cve-2022-0185-crash-poc)	<img alt="forks" src="https://img.shields.io/github/forks/discordianfish/cve-2022-0185-crash-poc">	<img alt="stars" src="https://img.shields.io/github/stars/discordianfish/cve-2022-0185-crash-poc">
 
 ---
 ## CVE-2022-0002 (2022-03-11T18:15:00)
