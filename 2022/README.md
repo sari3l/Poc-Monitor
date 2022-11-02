@@ -57,6 +57,11 @@
 - [YulinSec/t4scan](https://github.com/YulinSec/t4scan)	<img alt="forks" src="https://img.shields.io/github/forks/YulinSec/t4scan">	<img alt="stars" src="https://img.shields.io/github/stars/YulinSec/t4scan">
 
 ---
+## CVE-2022-42176 (2022-10-20T15:15:00)
+> In PCTechSoft PCSecure V5.0.8.xw, use of Hard-coded Credentials in configuration files leads to admin panel access.
+- [soy-oreocato/CVE-2022-42176](https://github.com/soy-oreocato/CVE-2022-42176)	<img alt="forks" src="https://img.shields.io/github/forks/soy-oreocato/CVE-2022-42176">	<img alt="stars" src="https://img.shields.io/github/stars/soy-oreocato/CVE-2022-42176">
+
+---
 ## CVE-2022-42098 ()
 > 
 - [bypazs/CVE-2022-42098](https://github.com/bypazs/CVE-2022-42098)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/CVE-2022-42098">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/CVE-2022-42098">
@@ -2228,6 +2233,7 @@
 ## CVE-2022-0739 (2022-03-21T19:15:00)
 > The BookingPress WordPress plugin before 1.0.11 fails to properly sanitize user supplied POST data before it is used in a dynamically constructed SQL query via the bookingpress_front_get_category_services AJAX action (available to unauthenticated users), leading to an unauthenticated SQL Injection
 - [destr4ct/CVE-2022-0739](https://github.com/destr4ct/CVE-2022-0739)	<img alt="forks" src="https://img.shields.io/github/forks/destr4ct/CVE-2022-0739">	<img alt="stars" src="https://img.shields.io/github/stars/destr4ct/CVE-2022-0739">
+- [Chris01s/CVE-2022-0739](https://github.com/Chris01s/CVE-2022-0739)	<img alt="forks" src="https://img.shields.io/github/forks/Chris01s/CVE-2022-0739">	<img alt="stars" src="https://img.shields.io/github/stars/Chris01s/CVE-2022-0739">
 
 ---
 ## CVE-2022-0666 (2022-02-18T15:15:00)
