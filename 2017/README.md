@@ -157,6 +157,14 @@
 - [rootsecurity/Jackson-CVE-2017-17485](https://github.com/rootsecurity/Jackson-CVE-2017-17485)	<img alt="forks" src="https://img.shields.io/github/forks/rootsecurity/Jackson-CVE-2017-17485">	<img alt="stars" src="https://img.shields.io/github/stars/rootsecurity/Jackson-CVE-2017-17485">
 
 ---
+## CVE-2017-17215 (2018-03-20T15:29:00)
+> Huawei HG532 with some customized versions has a remote code execution vulnerability. An authenticated attacker could send malicious packets to port 37215 to launch attacks. Successful exploit could lead to the remote execution of arbitrary code.
+- [ltfafei/HuaWei_Route_HG532_RCE_CVE-2017-17215](https://github.com/ltfafei/HuaWei_Route_HG532_RCE_CVE-2017-17215)	<img alt="forks" src="https://img.shields.io/github/forks/ltfafei/HuaWei_Route_HG532_RCE_CVE-2017-17215">	<img alt="stars" src="https://img.shields.io/github/stars/ltfafei/HuaWei_Route_HG532_RCE_CVE-2017-17215">
+- [kd992102/CVE-2017-17275](https://github.com/kd992102/CVE-2017-17275)	<img alt="forks" src="https://img.shields.io/github/forks/kd992102/CVE-2017-17275">	<img alt="stars" src="https://img.shields.io/github/stars/kd992102/CVE-2017-17275">
+- [wilfred-wulbou/HG532d-RCE-Exploit](https://github.com/wilfred-wulbou/HG532d-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/wilfred-wulbou/HG532d-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/wilfred-wulbou/HG532d-RCE-Exploit">
+- [1337g/CVE-2017-17215](https://github.com/1337g/CVE-2017-17215)	<img alt="forks" src="https://img.shields.io/github/forks/1337g/CVE-2017-17215">	<img alt="stars" src="https://img.shields.io/github/stars/1337g/CVE-2017-17215">
+
+---
 ## CVE-2017-16744 (2018-08-20T21:29:00)
 > A path traversal vulnerability in Tridium Niagara AX Versions 3.8 and prior and Niagara 4 systems Versions 4.4 and prior installed on Microsoft Windows Systems can be exploited by leveraging valid platform (administrator) credentials.
 - [GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara](https://github.com/GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara)	<img alt="forks" src="https://img.shields.io/github/forks/GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara">	<img alt="stars" src="https://img.shields.io/github/stars/GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara">
