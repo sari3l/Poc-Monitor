@@ -591,6 +591,7 @@
 - [alicangnll/SpookySSL-Scanner](https://github.com/alicangnll/SpookySSL-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/alicangnll/SpookySSL-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/alicangnll/SpookySSL-Scanner">
 - [NCSC-NL/OpenSSL-2022](https://github.com/NCSC-NL/OpenSSL-2022)	<img alt="forks" src="https://img.shields.io/github/forks/NCSC-NL/OpenSSL-2022">	<img alt="stars" src="https://img.shields.io/github/stars/NCSC-NL/OpenSSL-2022">
 - [fox-it/spookyssl-pcaps](https://github.com/fox-it/spookyssl-pcaps)	<img alt="forks" src="https://img.shields.io/github/forks/fox-it/spookyssl-pcaps">	<img alt="stars" src="https://img.shields.io/github/stars/fox-it/spookyssl-pcaps">
+- [rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc](https://github.com/rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc)	<img alt="forks" src="https://img.shields.io/github/forks/rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc">	<img alt="stars" src="https://img.shields.io/github/stars/rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc">
 
 ---
 ## CVE-2022-35914 (2022-09-19T16:15:00)
