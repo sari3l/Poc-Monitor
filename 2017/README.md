@@ -104,6 +104,7 @@
 - [Waffles-2/SambaCry](https://github.com/Waffles-2/SambaCry)	<img alt="forks" src="https://img.shields.io/github/forks/Waffles-2/SambaCry">	<img alt="stars" src="https://img.shields.io/github/stars/Waffles-2/SambaCry">
 - [gunsan92/CVE2017-7494_quicktest](https://github.com/gunsan92/CVE2017-7494_quicktest)	<img alt="forks" src="https://img.shields.io/github/forks/gunsan92/CVE2017-7494_quicktest">	<img alt="stars" src="https://img.shields.io/github/stars/gunsan92/CVE2017-7494_quicktest">
 - [caique-garbim/CVE-2017-7494_SambaCry](https://github.com/caique-garbim/CVE-2017-7494_SambaCry)	<img alt="forks" src="https://img.shields.io/github/forks/caique-garbim/CVE-2017-7494_SambaCry">	<img alt="stars" src="https://img.shields.io/github/stars/caique-garbim/CVE-2017-7494_SambaCry">
+- [00mjk/exploit-CVE-2017-7494](https://github.com/00mjk/exploit-CVE-2017-7494)	<img alt="forks" src="https://img.shields.io/github/forks/00mjk/exploit-CVE-2017-7494">	<img alt="stars" src="https://img.shields.io/github/stars/00mjk/exploit-CVE-2017-7494">
 
 ---
 ## CVE-2017-7269 (2017-03-27T02:59:00)
