@@ -758,6 +758,11 @@
 - [Henry4E36/CVE-2022-33174](https://github.com/Henry4E36/CVE-2022-33174)	<img alt="forks" src="https://img.shields.io/github/forks/Henry4E36/CVE-2022-33174">	<img alt="stars" src="https://img.shields.io/github/stars/Henry4E36/CVE-2022-33174">
 
 ---
+## CVE-2022-33079 ()
+> 
+- [Bdenneu/CVE-2022-33079](https://github.com/Bdenneu/CVE-2022-33079)	<img alt="forks" src="https://img.shields.io/github/forks/Bdenneu/CVE-2022-33079">	<img alt="stars" src="https://img.shields.io/github/stars/Bdenneu/CVE-2022-33079">
+
+---
 ## CVE-2022-33075 (2022-07-05T18:15:00)
 > A stored cross-site scripting (XSS) vulnerability in the Add Classification function of Zoo Management System v1.0 allows attackers to execute arbitrary web scripts or HTML via unspecified vectors.
 - [AngeloPioAmirante/CVE-2022-33075](https://github.com/AngeloPioAmirante/CVE-2022-33075)	<img alt="forks" src="https://img.shields.io/github/forks/AngeloPioAmirante/CVE-2022-33075">	<img alt="stars" src="https://img.shields.io/github/stars/AngeloPioAmirante/CVE-2022-33075">
