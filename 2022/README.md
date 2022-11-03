@@ -497,6 +497,7 @@
 > nfqnl_mangle in net/netfilter/nfnetlink_queue.c in the Linux kernel through 5.18.14 allows remote attackers to cause a denial of service (panic) because, in the case of an nf_queue verdict with a one-byte nfta_payload attribute, an skb_pull can encounter a negative skb->len.
 - [Pwnzer0tt1/CVE-2022-36946](https://github.com/Pwnzer0tt1/CVE-2022-36946)	<img alt="forks" src="https://img.shields.io/github/forks/Pwnzer0tt1/CVE-2022-36946">	<img alt="stars" src="https://img.shields.io/github/stars/Pwnzer0tt1/CVE-2022-36946">
 - [XmasSnowISBACK/CVE-2022-36946](https://github.com/XmasSnowISBACK/CVE-2022-36946)	<img alt="forks" src="https://img.shields.io/github/forks/XmasSnowISBACK/CVE-2022-36946">	<img alt="stars" src="https://img.shields.io/github/stars/XmasSnowISBACK/CVE-2022-36946">
+- [Satheesh575555/linux-4.19.72_CVE-2022-36946](https://github.com/Satheesh575555/linux-4.19.72_CVE-2022-36946)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/linux-4.19.72_CVE-2022-36946">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/linux-4.19.72_CVE-2022-36946">
 
 ---
 ## CVE-2022-36934 (2022-09-22T22:15:00)
@@ -763,6 +764,11 @@
 ## CVE-2022-3368 (2022-10-17T21:15:00)
 > A vulnerability within the Software Updater functionality of Avira Security for Windows allowed an attacker with write access to the filesystem, to escalate his privileges in certain scenarios. The issue was fixed with Avira Security version 1.1.72.30556.
 - [Wh04m1001/CVE-2022-3368](https://github.com/Wh04m1001/CVE-2022-3368)	<img alt="forks" src="https://img.shields.io/github/forks/Wh04m1001/CVE-2022-3368">	<img alt="stars" src="https://img.shields.io/github/stars/Wh04m1001/CVE-2022-3368">
+
+---
+## CVE-2022-33679 (2022-09-13T19:15:00)
+> Windows Kerberos Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-33647.
+- [Blyth0He/CVE-2022-33679](https://github.com/Blyth0He/CVE-2022-33679)	<img alt="forks" src="https://img.shields.io/github/forks/Blyth0He/CVE-2022-33679">	<img alt="stars" src="https://img.shields.io/github/stars/Blyth0He/CVE-2022-33679">
 
 ---
 ## CVE-2022-33174 (2022-06-13T18:15:00)
