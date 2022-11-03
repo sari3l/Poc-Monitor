@@ -704,7 +704,7 @@
 > Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via "sudoedit -s" and a command-line argument that ends with a single backslash character.
 - [arvindshima/CVE-2021-3156](https://github.com/arvindshima/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/arvindshima/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/arvindshima/CVE-2021-3156">
 - [arvindshima/CVE-2021-3156](https://github.com/arvindshima/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/arvindshima/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/arvindshima/CVE-2021-3156">
-- [FrancescoMarchiori/CVE-2021-3156](https://github.com/FrancescoMarchiori/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/FrancescoMarchiori/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/FrancescoMarchiori/CVE-2021-3156">
+- [Mhackiori/CVE-2021-3156](https://github.com/Mhackiori/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/Mhackiori/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/Mhackiori/CVE-2021-3156">
 - [trhacknon/CVE-2021-3156](https://github.com/trhacknon/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2021-3156">
 - [GatoGamer1155/CVE-2021-3156](https://github.com/GatoGamer1155/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/GatoGamer1155/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/GatoGamer1155/CVE-2021-3156">
 - [q77190858/CVE-2021-3156](https://github.com/q77190858/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/q77190858/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/q77190858/CVE-2021-3156">
@@ -739,6 +739,7 @@
 - [kal1gh0st/CVE-2021-3156](https://github.com/kal1gh0st/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/kal1gh0st/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/kal1gh0st/CVE-2021-3156">
 - [baka9moe/CVE-2021-3156-TestReport](https://github.com/baka9moe/CVE-2021-3156-TestReport)	<img alt="forks" src="https://img.shields.io/github/forks/baka9moe/CVE-2021-3156-TestReport">	<img alt="stars" src="https://img.shields.io/github/stars/baka9moe/CVE-2021-3156-TestReport">
 - [dynarps/CVE-2021-3156](https://github.com/dynarps/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/dynarps/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/dynarps/CVE-2021-3156">
+- [PhuketIsland/CVE-2021-3156-centos7](https://github.com/PhuketIsland/CVE-2021-3156-centos7)	<img alt="forks" src="https://img.shields.io/github/forks/PhuketIsland/CVE-2021-3156-centos7">	<img alt="stars" src="https://img.shields.io/github/stars/PhuketIsland/CVE-2021-3156-centos7">
 
 ---
 ## CVE-2021-3129 (2021-01-12T15:15:00)
