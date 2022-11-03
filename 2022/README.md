@@ -101,6 +101,7 @@
 ## CVE-2022-41445 ()
 > 
 - [RashidKhanPathan/CVE-2022-41445](https://github.com/RashidKhanPathan/CVE-2022-41445)	<img alt="forks" src="https://img.shields.io/github/forks/RashidKhanPathan/CVE-2022-41445">	<img alt="stars" src="https://img.shields.io/github/stars/RashidKhanPathan/CVE-2022-41445">
+- [efchatz/easy-exploits](https://github.com/efchatz/easy-exploits)	<img alt="forks" src="https://img.shields.io/github/forks/efchatz/easy-exploits">	<img alt="stars" src="https://img.shields.io/github/stars/efchatz/easy-exploits">
 
 ---
 ## CVE-2022-41358 (2022-10-20T02:15:00)
