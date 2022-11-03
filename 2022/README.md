@@ -769,6 +769,8 @@
 ## CVE-2022-33679 (2022-09-13T19:15:00)
 > Windows Kerberos Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-33647.
 - [Blyth0He/CVE-2022-33679](https://github.com/Blyth0He/CVE-2022-33679)	<img alt="forks" src="https://img.shields.io/github/forks/Blyth0He/CVE-2022-33679">	<img alt="stars" src="https://img.shields.io/github/stars/Blyth0He/CVE-2022-33679">
+- [Amulab/CVE-2022-33679](https://github.com/Amulab/CVE-2022-33679)	<img alt="forks" src="https://img.shields.io/github/forks/Amulab/CVE-2022-33679">	<img alt="stars" src="https://img.shields.io/github/stars/Amulab/CVE-2022-33679">
+- [Bdenneu/CVE-2022-33679](https://github.com/Bdenneu/CVE-2022-33679)	<img alt="forks" src="https://img.shields.io/github/forks/Bdenneu/CVE-2022-33679">	<img alt="stars" src="https://img.shields.io/github/stars/Bdenneu/CVE-2022-33679">
 
 ---
 ## CVE-2022-33174 (2022-06-13T18:15:00)
