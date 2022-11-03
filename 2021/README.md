@@ -806,6 +806,9 @@
 ## CVE-2021-27905 (2021-04-13T07:15:00)
 > The ReplicationHandler (normally registered at "/replication" under a Solr core) in Apache Solr has a "masterUrl" (also "leaderUrl" alias) parameter that is used to designate another ReplicationHandler on another Solr core to replicate index data into the local core. To prevent a SSRF vulnerability, Solr ought to check these parameters against a similar configuration it uses for the "shards" parameter. Prior to this bug getting fixed, it did not. This problem affects essentially all Solr versions prior to it getting fixed in 8.8.2.
 - [pdelteil/CVE-2021-27905.POC](https://github.com/pdelteil/CVE-2021-27905.POC)	<img alt="forks" src="https://img.shields.io/github/forks/pdelteil/CVE-2021-27905.POC">	<img alt="stars" src="https://img.shields.io/github/stars/pdelteil/CVE-2021-27905.POC">
+- [murataydemir/CVE-2021-27905](https://github.com/murataydemir/CVE-2021-27905)	<img alt="forks" src="https://img.shields.io/github/forks/murataydemir/CVE-2021-27905">	<img alt="stars" src="https://img.shields.io/github/stars/murataydemir/CVE-2021-27905">
+- [W2Ning/Solr-SSRF](https://github.com/W2Ning/Solr-SSRF)	<img alt="forks" src="https://img.shields.io/github/forks/W2Ning/Solr-SSRF">	<img alt="stars" src="https://img.shields.io/github/stars/W2Ning/Solr-SSRF">
+- [Henry4E36/Solr-SSRF](https://github.com/Henry4E36/Solr-SSRF)	<img alt="forks" src="https://img.shields.io/github/forks/Henry4E36/Solr-SSRF">	<img alt="stars" src="https://img.shields.io/github/stars/Henry4E36/Solr-SSRF">
 
 ---
 ## CVE-2021-27850 (2021-04-15T08:15:00)
