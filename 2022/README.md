@@ -16,6 +16,11 @@
 - [secware-ru/CVE-2022-43959](https://github.com/secware-ru/CVE-2022-43959)	<img alt="forks" src="https://img.shields.io/github/forks/secware-ru/CVE-2022-43959">	<img alt="stars" src="https://img.shields.io/github/stars/secware-ru/CVE-2022-43959">
 
 ---
+## CVE-2022-43144 ()
+> 
+- [mudassiruddin/CVE-2022-43144-Stored-XSS](https://github.com/mudassiruddin/CVE-2022-43144-Stored-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/mudassiruddin/CVE-2022-43144-Stored-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/mudassiruddin/CVE-2022-43144-Stored-XSS">
+
+---
 ## CVE-2022-42899 (2022-10-13T03:15:00)
 > Bentley MicroStation and MicroStation-based applications may be affected by out-of-bounds read and stack overflow issues when opening crafted SKP files. Exploiting these issues could lead to information disclosure and code execution. The fixed versions are 10.17.01.58* for MicroStation and 10.17.01.19* for Bentley View.
 - [iamsanjay/CVE-2022-42899](https://github.com/iamsanjay/CVE-2022-42899)	<img alt="forks" src="https://img.shields.io/github/forks/iamsanjay/CVE-2022-42899">	<img alt="stars" src="https://img.shields.io/github/stars/iamsanjay/CVE-2022-42899">
