@@ -784,6 +784,15 @@
 - [daedalus/CVE-2021-30461](https://github.com/daedalus/CVE-2021-30461)	<img alt="forks" src="https://img.shields.io/github/forks/daedalus/CVE-2021-30461">	<img alt="stars" src="https://img.shields.io/github/stars/daedalus/CVE-2021-30461">
 
 ---
+## CVE-2021-29447 (2021-04-15T21:15:00)
+> Wordpress is an open source CMS. A user with the ability to upload files (like an Author) can exploit an XML parsing issue in the Media Library leading to XXE attacks. This requires WordPress installation to be using PHP 8. Access to internal files is possible in a successful XXE attack. This has been patched in WordPress version 5.7.1, along with the older affected versions via a minor release. We strongly recommend you keep auto-updates enabled.
+- [b-abderrahmane/CVE-2021-29447-POC](https://github.com/b-abderrahmane/CVE-2021-29447-POC)	<img alt="forks" src="https://img.shields.io/github/forks/b-abderrahmane/CVE-2021-29447-POC">	<img alt="stars" src="https://img.shields.io/github/stars/b-abderrahmane/CVE-2021-29447-POC">
+- [dnr6419/CVE-2021-29447](https://github.com/dnr6419/CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/dnr6419/CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/dnr6419/CVE-2021-29447">
+- [motikan2010/CVE-2021-29447](https://github.com/motikan2010/CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/motikan2010/CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/motikan2010/CVE-2021-29447">
+- [AssassinUKG/CVE-2021-29447](https://github.com/AssassinUKG/CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/AssassinUKG/CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/AssassinUKG/CVE-2021-29447">
+- [Vulnmachines/wordpress_cve-2021-29447](https://github.com/Vulnmachines/wordpress_cve-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/wordpress_cve-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/wordpress_cve-2021-29447">
+
+---
 ## CVE-2021-29156 (2021-03-25T09:15:00)
 > ForgeRock OpenAM before 13.5.1 allows LDAP injection via the Webfinger protocol. For example, an unauthenticated attacker can perform character-by-character retrieval of password hashes, or retrieve a session token or a private key.
 - [5amu/CVE-2021-29156](https://github.com/5amu/CVE-2021-29156)	<img alt="forks" src="https://img.shields.io/github/forks/5amu/CVE-2021-29156">	<img alt="stars" src="https://img.shields.io/github/stars/5amu/CVE-2021-29156">
