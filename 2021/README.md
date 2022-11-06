@@ -792,6 +792,7 @@
 - [AssassinUKG/CVE-2021-29447](https://github.com/AssassinUKG/CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/AssassinUKG/CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/AssassinUKG/CVE-2021-29447">
 - [Vulnmachines/wordpress_cve-2021-29447](https://github.com/Vulnmachines/wordpress_cve-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/wordpress_cve-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/wordpress_cve-2021-29447">
 - [akhils911dev/blind-xxe-controller-CVE-2021-29447](https://github.com/akhils911dev/blind-xxe-controller-CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/akhils911dev/blind-xxe-controller-CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/akhils911dev/blind-xxe-controller-CVE-2021-29447">
+- [Val-Resh/CVE-2021-29447-POC](https://github.com/Val-Resh/CVE-2021-29447-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Val-Resh/CVE-2021-29447-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Val-Resh/CVE-2021-29447-POC">
 
 ---
 ## CVE-2021-29156 (2021-03-25T09:15:00)
