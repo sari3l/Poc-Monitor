@@ -791,6 +791,7 @@
 - [motikan2010/CVE-2021-29447](https://github.com/motikan2010/CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/motikan2010/CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/motikan2010/CVE-2021-29447">
 - [AssassinUKG/CVE-2021-29447](https://github.com/AssassinUKG/CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/AssassinUKG/CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/AssassinUKG/CVE-2021-29447">
 - [Vulnmachines/wordpress_cve-2021-29447](https://github.com/Vulnmachines/wordpress_cve-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/wordpress_cve-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/wordpress_cve-2021-29447">
+- [akhils911dev/blind-xxe-controller-CVE-2021-29447](https://github.com/akhils911dev/blind-xxe-controller-CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/akhils911dev/blind-xxe-controller-CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/akhils911dev/blind-xxe-controller-CVE-2021-29447">
 
 ---
 ## CVE-2021-29156 (2021-03-25T09:15:00)
