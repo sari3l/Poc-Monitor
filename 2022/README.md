@@ -1960,6 +1960,7 @@
 - [TAPESH-TEAM/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection](https://github.com/TAPESH-TEAM/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/TAPESH-TEAM/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/TAPESH-TEAM/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection">
 - [QWERTYisme/CVE-2022-21661](https://github.com/QWERTYisme/CVE-2022-21661)	<img alt="forks" src="https://img.shields.io/github/forks/QWERTYisme/CVE-2022-21661">	<img alt="stars" src="https://img.shields.io/github/stars/QWERTYisme/CVE-2022-21661">
 - [XmasSnowISBACK/CVE-2022-21661](https://github.com/XmasSnowISBACK/CVE-2022-21661)	<img alt="forks" src="https://img.shields.io/github/forks/XmasSnowISBACK/CVE-2022-21661">	<img alt="stars" src="https://img.shields.io/github/stars/XmasSnowISBACK/CVE-2022-21661">
+- [APTIRAN/CVE-2022-21661](https://github.com/APTIRAN/CVE-2022-21661)	<img alt="forks" src="https://img.shields.io/github/forks/APTIRAN/CVE-2022-21661">	<img alt="stars" src="https://img.shields.io/github/stars/APTIRAN/CVE-2022-21661">
 
 ---
 ## CVE-2022-21449 (2022-04-19T21:15:00)
