@@ -627,6 +627,8 @@
 - [xiaobaiakai/CVE-2022-35914](https://github.com/xiaobaiakai/CVE-2022-35914)	<img alt="forks" src="https://img.shields.io/github/forks/xiaobaiakai/CVE-2022-35914">	<img alt="stars" src="https://img.shields.io/github/stars/xiaobaiakai/CVE-2022-35914">
 - [franckferman/GLPI-htmLawed-CVE-2022_35914-PoC](https://github.com/franckferman/GLPI-htmLawed-CVE-2022_35914-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/franckferman/GLPI-htmLawed-CVE-2022_35914-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/franckferman/GLPI-htmLawed-CVE-2022_35914-PoC">
 - [6E6L6F/CVE-2022-35914](https://github.com/6E6L6F/CVE-2022-35914)	<img alt="forks" src="https://img.shields.io/github/forks/6E6L6F/CVE-2022-35914">	<img alt="stars" src="https://img.shields.io/github/stars/6E6L6F/CVE-2022-35914">
+- [Gabriel-Lima232/CVE-2022-35914](https://github.com/Gabriel-Lima232/CVE-2022-35914)	<img alt="forks" src="https://img.shields.io/github/forks/Gabriel-Lima232/CVE-2022-35914">	<img alt="stars" src="https://img.shields.io/github/stars/Gabriel-Lima232/CVE-2022-35914">
+- [lolminerxmrig/Capricornus](https://github.com/lolminerxmrig/Capricornus)	<img alt="forks" src="https://img.shields.io/github/forks/lolminerxmrig/Capricornus">	<img alt="stars" src="https://img.shields.io/github/stars/lolminerxmrig/Capricornus">
 
 ---
 ## CVE-2022-35899 (2022-07-21T17:15:00)
