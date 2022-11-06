@@ -1520,6 +1520,7 @@
 - [aels/CVE-2022-2586-LPE](https://github.com/aels/CVE-2022-2586-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/aels/CVE-2022-2586-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/aels/CVE-2022-2586-LPE">
 - [konoha279/2022-LPE-UAF](https://github.com/konoha279/2022-LPE-UAF)	<img alt="forks" src="https://img.shields.io/github/forks/konoha279/2022-LPE-UAF">	<img alt="stars" src="https://img.shields.io/github/stars/konoha279/2022-LPE-UAF">
 - [pirenga/2022-LPE-UAF](https://github.com/pirenga/2022-LPE-UAF)	<img alt="forks" src="https://img.shields.io/github/forks/pirenga/2022-LPE-UAF">	<img alt="stars" src="https://img.shields.io/github/stars/pirenga/2022-LPE-UAF">
+- [sniper404ghostxploit/CVE-2022-2586](https://github.com/sniper404ghostxploit/CVE-2022-2586)	<img alt="forks" src="https://img.shields.io/github/forks/sniper404ghostxploit/CVE-2022-2586">	<img alt="stars" src="https://img.shields.io/github/stars/sniper404ghostxploit/CVE-2022-2586">
 
 ---
 ## CVE-2022-25845 (2022-06-10T20:15:00)
