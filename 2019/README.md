@@ -139,6 +139,11 @@
 - [kkent030315/MsIoExploit](https://github.com/kkent030315/MsIoExploit)	<img alt="forks" src="https://img.shields.io/github/forks/kkent030315/MsIoExploit">	<img alt="stars" src="https://img.shields.io/github/stars/kkent030315/MsIoExploit">
 
 ---
+## CVE-2019-18634 (2020-01-29T18:15:00)
+> In Sudo before 1.8.26, if pwfeedback is enabled in /etc/sudoers, users can trigger a stack-based buffer overflow in the privileged sudo process. (pwfeedback is a default setting in Linux Mint and elementary OS; however, it is NOT the default for upstream and many other packages, and would exist only if enabled by an administrator.) The attacker needs to deliver a long string to the stdin of getln() in tgetpass.c.
+- [ptef/CVE-2019-18634](https://github.com/ptef/CVE-2019-18634)	<img alt="forks" src="https://img.shields.io/github/forks/ptef/CVE-2019-18634">	<img alt="stars" src="https://img.shields.io/github/stars/ptef/CVE-2019-18634">
+
+---
 ## CVE-2019-17662 (2019-10-16T18:15:00)
 > ThinVNC 1.0b1 is vulnerable to arbitrary file read, which leads to a compromise of the VNC server. The vulnerability exists even when authentication is turned on during the deployment of the VNC server. The password for authentication is stored in cleartext in a file that can be read via a ../../ThinVnc.ini directory traversal attack vector.
 - [Tamagaft/CVE-2019-17662](https://github.com/Tamagaft/CVE-2019-17662)	<img alt="forks" src="https://img.shields.io/github/forks/Tamagaft/CVE-2019-17662">	<img alt="stars" src="https://img.shields.io/github/stars/Tamagaft/CVE-2019-17662">
