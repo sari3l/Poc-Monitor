@@ -142,6 +142,13 @@
 ## CVE-2019-18634 (2020-01-29T18:15:00)
 > In Sudo before 1.8.26, if pwfeedback is enabled in /etc/sudoers, users can trigger a stack-based buffer overflow in the privileged sudo process. (pwfeedback is a default setting in Linux Mint and elementary OS; however, it is NOT the default for upstream and many other packages, and would exist only if enabled by an administrator.) The attacker needs to deliver a long string to the stdin of getln() in tgetpass.c.
 - [ptef/CVE-2019-18634](https://github.com/ptef/CVE-2019-18634)	<img alt="forks" src="https://img.shields.io/github/forks/ptef/CVE-2019-18634">	<img alt="stars" src="https://img.shields.io/github/stars/ptef/CVE-2019-18634">
+- [TheJoyOfHacking/saleemrashid-sudo-cve-2019-18634](https://github.com/TheJoyOfHacking/saleemrashid-sudo-cve-2019-18634)	<img alt="forks" src="https://img.shields.io/github/forks/TheJoyOfHacking/saleemrashid-sudo-cve-2019-18634">	<img alt="stars" src="https://img.shields.io/github/stars/TheJoyOfHacking/saleemrashid-sudo-cve-2019-18634">
+- [saleemrashid/sudo-cve-2019-18634](https://github.com/saleemrashid/sudo-cve-2019-18634)	<img alt="forks" src="https://img.shields.io/github/forks/saleemrashid/sudo-cve-2019-18634">	<img alt="stars" src="https://img.shields.io/github/stars/saleemrashid/sudo-cve-2019-18634">
+- [aesophor/CVE-2019-18634](https://github.com/aesophor/CVE-2019-18634)	<img alt="forks" src="https://img.shields.io/github/forks/aesophor/CVE-2019-18634">	<img alt="stars" src="https://img.shields.io/github/stars/aesophor/CVE-2019-18634">
+- [N1et/CVE-2019-18634](https://github.com/N1et/CVE-2019-18634)	<img alt="forks" src="https://img.shields.io/github/forks/N1et/CVE-2019-18634">	<img alt="stars" src="https://img.shields.io/github/stars/N1et/CVE-2019-18634">
+- [Y3A/CVE-2019-18634](https://github.com/Y3A/CVE-2019-18634)	<img alt="forks" src="https://img.shields.io/github/forks/Y3A/CVE-2019-18634">	<img alt="stars" src="https://img.shields.io/github/stars/Y3A/CVE-2019-18634">
+- [edsonjt81/sudo-cve-2019-18634](https://github.com/edsonjt81/sudo-cve-2019-18634)	<img alt="forks" src="https://img.shields.io/github/forks/edsonjt81/sudo-cve-2019-18634">	<img alt="stars" src="https://img.shields.io/github/stars/edsonjt81/sudo-cve-2019-18634">
+- [Plazmaz/CVE-2019-18634](https://github.com/Plazmaz/CVE-2019-18634)	<img alt="forks" src="https://img.shields.io/github/forks/Plazmaz/CVE-2019-18634">	<img alt="stars" src="https://img.shields.io/github/stars/Plazmaz/CVE-2019-18634">
 
 ---
 ## CVE-2019-17662 (2019-10-16T18:15:00)
