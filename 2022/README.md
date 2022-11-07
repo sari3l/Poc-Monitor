@@ -616,6 +616,7 @@
 - [NCSC-NL/OpenSSL-2022](https://github.com/NCSC-NL/OpenSSL-2022)	<img alt="forks" src="https://img.shields.io/github/forks/NCSC-NL/OpenSSL-2022">	<img alt="stars" src="https://img.shields.io/github/stars/NCSC-NL/OpenSSL-2022">
 - [fox-it/spookyssl-pcaps](https://github.com/fox-it/spookyssl-pcaps)	<img alt="forks" src="https://img.shields.io/github/forks/fox-it/spookyssl-pcaps">	<img alt="stars" src="https://img.shields.io/github/stars/fox-it/spookyssl-pcaps">
 - [rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc](https://github.com/rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc)	<img alt="forks" src="https://img.shields.io/github/forks/rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc">	<img alt="stars" src="https://img.shields.io/github/stars/rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc">
+- [cybersecurityworks553/CVE-2022-3602-and-CVE-2022-3786](https://github.com/cybersecurityworks553/CVE-2022-3602-and-CVE-2022-3786)	<img alt="forks" src="https://img.shields.io/github/forks/cybersecurityworks553/CVE-2022-3602-and-CVE-2022-3786">	<img alt="stars" src="https://img.shields.io/github/stars/cybersecurityworks553/CVE-2022-3602-and-CVE-2022-3786">
 
 ---
 ## CVE-2022-35914 (2022-09-19T16:15:00)
