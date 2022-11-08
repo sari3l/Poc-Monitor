@@ -617,6 +617,7 @@
 - [fox-it/spookyssl-pcaps](https://github.com/fox-it/spookyssl-pcaps)	<img alt="forks" src="https://img.shields.io/github/forks/fox-it/spookyssl-pcaps">	<img alt="stars" src="https://img.shields.io/github/stars/fox-it/spookyssl-pcaps">
 - [rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc](https://github.com/rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc)	<img alt="forks" src="https://img.shields.io/github/forks/rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc">	<img alt="stars" src="https://img.shields.io/github/stars/rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc">
 - [cybersecurityworks553/CVE-2022-3602-and-CVE-2022-3786](https://github.com/cybersecurityworks553/CVE-2022-3602-and-CVE-2022-3786)	<img alt="forks" src="https://img.shields.io/github/forks/cybersecurityworks553/CVE-2022-3602-and-CVE-2022-3786">	<img alt="stars" src="https://img.shields.io/github/stars/cybersecurityworks553/CVE-2022-3602-and-CVE-2022-3786">
+- [corelight/CVE-2022-3602](https://github.com/corelight/CVE-2022-3602)	<img alt="forks" src="https://img.shields.io/github/forks/corelight/CVE-2022-3602">	<img alt="stars" src="https://img.shields.io/github/stars/corelight/CVE-2022-3602">
 
 ---
 ## CVE-2022-35914 (2022-09-19T16:15:00)
