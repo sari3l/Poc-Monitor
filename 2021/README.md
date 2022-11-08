@@ -98,6 +98,7 @@
 - [b-abderrahmane/CVE-2021-44228-playground](https://github.com/b-abderrahmane/CVE-2021-44228-playground)	<img alt="forks" src="https://img.shields.io/github/forks/b-abderrahmane/CVE-2021-44228-playground">	<img alt="stars" src="https://img.shields.io/github/stars/b-abderrahmane/CVE-2021-44228-playground">
 - [corretto/hotpatch-for-apache-log4j2](https://github.com/corretto/hotpatch-for-apache-log4j2)	<img alt="forks" src="https://img.shields.io/github/forks/corretto/hotpatch-for-apache-log4j2">	<img alt="stars" src="https://img.shields.io/github/stars/corretto/hotpatch-for-apache-log4j2">
 - [avwolferen/Sitecore.Solr-log4j-mitigation](https://github.com/avwolferen/Sitecore.Solr-log4j-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/avwolferen/Sitecore.Solr-log4j-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/avwolferen/Sitecore.Solr-log4j-mitigation">
+- [srcporter/CVE-2021-44228](https://github.com/srcporter/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/srcporter/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/srcporter/CVE-2021-44228">
 
 ---
 ## CVE-2021-44158 (2022-01-03T10:15:00)
