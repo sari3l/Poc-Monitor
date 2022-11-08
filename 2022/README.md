@@ -1767,6 +1767,7 @@
 - [west-wind/Spring4Shell-Detection](https://github.com/west-wind/Spring4Shell-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/west-wind/Spring4Shell-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/west-wind/Spring4Shell-Detection">
 - [sunnyvale-it/CVE-2022-22965-PoC](https://github.com/sunnyvale-it/CVE-2022-22965-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sunnyvale-it/CVE-2022-22965-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sunnyvale-it/CVE-2022-22965-PoC">
 - [iyamrotrix/CVE-2022-22965](https://github.com/iyamrotrix/CVE-2022-22965)	<img alt="forks" src="https://img.shields.io/github/forks/iyamrotrix/CVE-2022-22965">	<img alt="stars" src="https://img.shields.io/github/stars/iyamrotrix/CVE-2022-22965">
+- [iloveflag/Fast-CVE-2022-22965](https://github.com/iloveflag/Fast-CVE-2022-22965)	<img alt="forks" src="https://img.shields.io/github/forks/iloveflag/Fast-CVE-2022-22965">	<img alt="stars" src="https://img.shields.io/github/stars/iloveflag/Fast-CVE-2022-22965">
 
 ---
 ## CVE-2022-22963 (2022-04-01T23:15:00)
@@ -2062,6 +2063,7 @@
 > In ACTION_MANAGED_PROFILE_PROVISIONED of DevicePolicyManagerService.java, there is a possible way for unprivileged app to send MANAGED_PROFILE_PROVISIONED intent due to a missing permission check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12LAndroid ID: A-210469972
 - [nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20138](https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20138)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20138">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20138">
 - [ShaikUsaf/ShaikUsaf-frameworks_base_AOSP10_r33_CVE-2022-20138](https://github.com/ShaikUsaf/ShaikUsaf-frameworks_base_AOSP10_r33_CVE-2022-20138)	<img alt="forks" src="https://img.shields.io/github/forks/ShaikUsaf/ShaikUsaf-frameworks_base_AOSP10_r33_CVE-2022-20138">	<img alt="stars" src="https://img.shields.io/github/stars/ShaikUsaf/ShaikUsaf-frameworks_base_AOSP10_r33_CVE-2022-20138">
+- [Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20138](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20138)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20138">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20138">
 
 ---
 ## CVE-2022-20135 (2022-06-15T13:15:00)
