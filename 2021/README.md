@@ -542,6 +542,11 @@
 - [zwjjustdoit/Xstream-1.4.17](https://github.com/zwjjustdoit/Xstream-1.4.17)	<img alt="forks" src="https://img.shields.io/github/forks/zwjjustdoit/Xstream-1.4.17">	<img alt="stars" src="https://img.shields.io/github/stars/zwjjustdoit/Xstream-1.4.17">
 
 ---
+## CVE-2021-38819 ()
+> 
+- [m4sk0ff/CVE-2021-38819](https://github.com/m4sk0ff/CVE-2021-38819)	<img alt="forks" src="https://img.shields.io/github/forks/m4sk0ff/CVE-2021-38819">	<img alt="stars" src="https://img.shields.io/github/stars/m4sk0ff/CVE-2021-38819">
+
+---
 ## CVE-2021-38817 ()
 > 
 - [HuskyHacks/CVE-2021-38817-Remote-OS-Command-Injection](https://github.com/HuskyHacks/CVE-2021-38817-Remote-OS-Command-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/HuskyHacks/CVE-2021-38817-Remote-OS-Command-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/HuskyHacks/CVE-2021-38817-Remote-OS-Command-Injection">
