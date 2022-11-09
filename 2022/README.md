@@ -2191,6 +2191,11 @@
 - [und3sc0n0c1d0/CVE-2022-1292](https://github.com/und3sc0n0c1d0/CVE-2022-1292)	<img alt="forks" src="https://img.shields.io/github/forks/und3sc0n0c1d0/CVE-2022-1292">	<img alt="stars" src="https://img.shields.io/github/stars/und3sc0n0c1d0/CVE-2022-1292">
 
 ---
+## CVE-2022-1162 (2022-04-04T20:15:00)
+> A hardcoded password was set for accounts registered using an OmniAuth provider (e.g. OAuth, LDAP, SAML) in GitLab CE/EE versions 14.7 prior to 14.7.7, 14.8 prior to 14.8.5, and 14.9 prior to 14.9.2 allowing attackers to potentially take over accounts
+- [ipsBruno/CVE-2022-1162](https://github.com/ipsBruno/CVE-2022-1162)	<img alt="forks" src="https://img.shields.io/github/forks/ipsBruno/CVE-2022-1162">	<img alt="stars" src="https://img.shields.io/github/stars/ipsBruno/CVE-2022-1162">
+
+---
 ## CVE-2022-1119 (2022-04-19T21:15:00)
 > The Simple File List WordPress plugin is vulnerable to Arbitrary File Download via the eeFile parameter found in the ~/includes/ee-downloader.php file due to missing controls which makes it possible unauthenticated attackers to supply a path to a file that will subsequently be downloaded, in versions up to and including 3.2.7.
 - [z92g/CVE-2022-1119](https://github.com/z92g/CVE-2022-1119)	<img alt="forks" src="https://img.shields.io/github/forks/z92g/CVE-2022-1119">	<img alt="stars" src="https://img.shields.io/github/stars/z92g/CVE-2022-1119">
