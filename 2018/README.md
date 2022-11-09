@@ -114,6 +114,8 @@
 - [Yealid/CVE-2018-6574](https://github.com/Yealid/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/Yealid/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/Yealid/CVE-2018-6574">
 - [Bj0rn-gungnir/cve2018-6574-gogetRCE](https://github.com/Bj0rn-gungnir/cve2018-6574-gogetRCE)	<img alt="forks" src="https://img.shields.io/github/forks/Bj0rn-gungnir/cve2018-6574-gogetRCE">	<img alt="stars" src="https://img.shields.io/github/stars/Bj0rn-gungnir/cve2018-6574-gogetRCE">
 - [moorada/goGetRCE](https://github.com/moorada/goGetRCE)	<img alt="forks" src="https://img.shields.io/github/forks/moorada/goGetRCE">	<img alt="stars" src="https://img.shields.io/github/stars/moorada/goGetRCE">
+- [jeyaseelans86/new-CVE-2018-6574](https://github.com/jeyaseelans86/new-CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/jeyaseelans86/new-CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/jeyaseelans86/new-CVE-2018-6574">
+- [jeyaseelans86/CVE-2018-6574](https://github.com/jeyaseelans86/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/jeyaseelans86/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/jeyaseelans86/CVE-2018-6574">
 
 ---
 ## CVE-2018-6242 (2018-05-01T20:29:00)
