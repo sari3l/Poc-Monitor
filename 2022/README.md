@@ -2194,6 +2194,7 @@
 ## CVE-2022-1162 (2022-04-04T20:15:00)
 > A hardcoded password was set for accounts registered using an OmniAuth provider (e.g. OAuth, LDAP, SAML) in GitLab CE/EE versions 14.7 prior to 14.7.7, 14.8 prior to 14.8.5, and 14.9 prior to 14.9.2 allowing attackers to potentially take over accounts
 - [ipsBruno/CVE-2022-1162](https://github.com/ipsBruno/CVE-2022-1162)	<img alt="forks" src="https://img.shields.io/github/forks/ipsBruno/CVE-2022-1162">	<img alt="stars" src="https://img.shields.io/github/stars/ipsBruno/CVE-2022-1162">
+- [Greenwolf/CVE-2022-1162](https://github.com/Greenwolf/CVE-2022-1162)	<img alt="forks" src="https://img.shields.io/github/forks/Greenwolf/CVE-2022-1162">	<img alt="stars" src="https://img.shields.io/github/stars/Greenwolf/CVE-2022-1162">
 
 ---
 ## CVE-2022-1119 (2022-04-19T21:15:00)
