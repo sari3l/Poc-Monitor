@@ -116,6 +116,7 @@
 - [moorada/goGetRCE](https://github.com/moorada/goGetRCE)	<img alt="forks" src="https://img.shields.io/github/forks/moorada/goGetRCE">	<img alt="stars" src="https://img.shields.io/github/stars/moorada/goGetRCE">
 - [jeyaseelans86/new-CVE-2018-6574](https://github.com/jeyaseelans86/new-CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/jeyaseelans86/new-CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/jeyaseelans86/new-CVE-2018-6574">
 - [jeyaseelans86/CVE-2018-6574](https://github.com/jeyaseelans86/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/jeyaseelans86/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/jeyaseelans86/CVE-2018-6574">
+- [kretzz/Golang-CVE-2018-6574](https://github.com/kretzz/Golang-CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/kretzz/Golang-CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/kretzz/Golang-CVE-2018-6574">
 
 ---
 ## CVE-2018-6242 (2018-05-01T20:29:00)
