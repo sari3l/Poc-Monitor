@@ -128,8 +128,8 @@
 - [V4bel/CVE-2022-41218](https://github.com/V4bel/CVE-2022-41218)	<img alt="forks" src="https://img.shields.io/github/forks/V4bel/CVE-2022-41218">	<img alt="stars" src="https://img.shields.io/github/stars/V4bel/CVE-2022-41218">
 
 ---
-## CVE-2022-41208 ()
-> 
+## CVE-2022-41208 (2022-11-08T22:15:00)
+> Due to insufficient input validation, SAP Financial Consolidation - version 1010, allows an authenticated attacker with user privileges to alter current user session. On successful exploitation, the attacker can view or modify information, causing a limited impact on confidentiality and integrity of the application.
 - [L34ked/CVE-2022-41208](https://github.com/L34ked/CVE-2022-41208)	<img alt="forks" src="https://img.shields.io/github/forks/L34ked/CVE-2022-41208">	<img alt="stars" src="https://img.shields.io/github/stars/L34ked/CVE-2022-41208">
 
 ---
