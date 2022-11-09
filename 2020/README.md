@@ -376,6 +376,9 @@
 - [rsmudge/CVE-2020-0796-BOF](https://github.com/rsmudge/CVE-2020-0796-BOF)	<img alt="forks" src="https://img.shields.io/github/forks/rsmudge/CVE-2020-0796-BOF">	<img alt="stars" src="https://img.shields.io/github/stars/rsmudge/CVE-2020-0796-BOF">
 - [Rvn0xsy/CVE_2020_0796_CNA](https://github.com/Rvn0xsy/CVE_2020_0796_CNA)	<img alt="forks" src="https://img.shields.io/github/forks/Rvn0xsy/CVE_2020_0796_CNA">	<img alt="stars" src="https://img.shields.io/github/stars/Rvn0xsy/CVE_2020_0796_CNA">
 - [eastmountyxz/CVE-2020-0796-SMB](https://github.com/eastmountyxz/CVE-2020-0796-SMB)	<img alt="forks" src="https://img.shields.io/github/forks/eastmountyxz/CVE-2020-0796-SMB">	<img alt="stars" src="https://img.shields.io/github/stars/eastmountyxz/CVE-2020-0796-SMB">
+- [SEHandler/CVE-2020-0796](https://github.com/SEHandler/CVE-2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/SEHandler/CVE-2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/SEHandler/CVE-2020-0796">
+- [tg12/PoC_CVEs](https://github.com/tg12/PoC_CVEs)	<img alt="forks" src="https://img.shields.io/github/forks/tg12/PoC_CVEs">	<img alt="stars" src="https://img.shields.io/github/stars/tg12/PoC_CVEs">
+- [awareseven/eternalghosttest](https://github.com/awareseven/eternalghosttest)	<img alt="forks" src="https://img.shields.io/github/forks/awareseven/eternalghosttest">	<img alt="stars" src="https://img.shields.io/github/stars/awareseven/eternalghosttest">
 
 ---
 ## CVE-2020-0688 (2020-02-11T22:15:00)

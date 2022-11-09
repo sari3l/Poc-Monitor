@@ -439,6 +439,8 @@
 - [BabyTeam1024/CVE-2021-40438](https://github.com/BabyTeam1024/CVE-2021-40438)	<img alt="forks" src="https://img.shields.io/github/forks/BabyTeam1024/CVE-2021-40438">	<img alt="stars" src="https://img.shields.io/github/stars/BabyTeam1024/CVE-2021-40438">
 - [sixpacksecurity/CVE-2021-40438](https://github.com/sixpacksecurity/CVE-2021-40438)	<img alt="forks" src="https://img.shields.io/github/forks/sixpacksecurity/CVE-2021-40438">	<img alt="stars" src="https://img.shields.io/github/stars/sixpacksecurity/CVE-2021-40438">
 - [xiaojiangxl/CVE-2021-40438](https://github.com/xiaojiangxl/CVE-2021-40438)	<img alt="forks" src="https://img.shields.io/github/forks/xiaojiangxl/CVE-2021-40438">	<img alt="stars" src="https://img.shields.io/github/stars/xiaojiangxl/CVE-2021-40438">
+- [WilsonFung414/CVE-2021-40438_Docker_2](https://github.com/WilsonFung414/CVE-2021-40438_Docker_2)	<img alt="forks" src="https://img.shields.io/github/forks/WilsonFung414/CVE-2021-40438_Docker_2">	<img alt="stars" src="https://img.shields.io/github/stars/WilsonFung414/CVE-2021-40438_Docker_2">
+- [WilsonFung414/CVE-2021-27928_Docker_2](https://github.com/WilsonFung414/CVE-2021-27928_Docker_2)	<img alt="forks" src="https://img.shields.io/github/forks/WilsonFung414/CVE-2021-27928_Docker_2">	<img alt="stars" src="https://img.shields.io/github/stars/WilsonFung414/CVE-2021-27928_Docker_2">
 
 ---
 ## CVE-2021-40346 (2021-09-08T17:15:00)
@@ -824,6 +826,7 @@
 - [WilsonFung414/CVE-2021-27928_Docker](https://github.com/WilsonFung414/CVE-2021-27928_Docker)	<img alt="forks" src="https://img.shields.io/github/forks/WilsonFung414/CVE-2021-27928_Docker">	<img alt="stars" src="https://img.shields.io/github/stars/WilsonFung414/CVE-2021-27928_Docker">
 - [shamo0/CVE-2021-27928-POC](https://github.com/shamo0/CVE-2021-27928-POC)	<img alt="forks" src="https://img.shields.io/github/forks/shamo0/CVE-2021-27928-POC">	<img alt="stars" src="https://img.shields.io/github/stars/shamo0/CVE-2021-27928-POC">
 - [Al1ex/CVE-2021-27928](https://github.com/Al1ex/CVE-2021-27928)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/CVE-2021-27928">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/CVE-2021-27928">
+- [WilsonFung414/CVE-2021-27928_Docker_2](https://github.com/WilsonFung414/CVE-2021-27928_Docker_2)	<img alt="forks" src="https://img.shields.io/github/forks/WilsonFung414/CVE-2021-27928_Docker_2">	<img alt="stars" src="https://img.shields.io/github/stars/WilsonFung414/CVE-2021-27928_Docker_2">
 
 ---
 ## CVE-2021-27905 (2021-04-13T07:15:00)

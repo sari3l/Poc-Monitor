@@ -227,6 +227,13 @@
 - [mrx04programmer/Dr.DLL-CVE-2018-18333](https://github.com/mrx04programmer/Dr.DLL-CVE-2018-18333)	<img alt="forks" src="https://img.shields.io/github/forks/mrx04programmer/Dr.DLL-CVE-2018-18333">	<img alt="stars" src="https://img.shields.io/github/stars/mrx04programmer/Dr.DLL-CVE-2018-18333">
 
 ---
+## CVE-2018-16858 (2019-03-25T18:29:00)
+> It was found that libreoffice before versions 6.0.7 and 6.1.3 was vulnerable to a directory traversal attack which could be used to execute arbitrary macros bundled with a document. An attacker could craft a document, which when opened by LibreOffice, would execute a Python method from a script in any arbitrary file system location, specified relative to the LibreOffice install location.
+- [bantu2301/CVE-2018-16858](https://github.com/bantu2301/CVE-2018-16858)	<img alt="forks" src="https://img.shields.io/github/forks/bantu2301/CVE-2018-16858">	<img alt="stars" src="https://img.shields.io/github/stars/bantu2301/CVE-2018-16858">
+- [phongld97/detect-cve-2018-16858](https://github.com/phongld97/detect-cve-2018-16858)	<img alt="forks" src="https://img.shields.io/github/forks/phongld97/detect-cve-2018-16858">	<img alt="stars" src="https://img.shields.io/github/stars/phongld97/detect-cve-2018-16858">
+- [4nimanegra/libreofficeExploit1](https://github.com/4nimanegra/libreofficeExploit1)	<img alt="forks" src="https://img.shields.io/github/forks/4nimanegra/libreofficeExploit1">	<img alt="stars" src="https://img.shields.io/github/stars/4nimanegra/libreofficeExploit1">
+
+---
 ## CVE-2018-16763 (2018-09-09T21:29:00)
 > FUEL CMS 1.4.1 allows PHP Code Evaluation via the pages/select/ filter parameter or the preview/ data parameter. This can lead to Pre-Auth Remote Code Execution.
 - [NeKroFR/CVE-2018-16763](https://github.com/NeKroFR/CVE-2018-16763)	<img alt="forks" src="https://img.shields.io/github/forks/NeKroFR/CVE-2018-16763">	<img alt="stars" src="https://img.shields.io/github/stars/NeKroFR/CVE-2018-16763">
