@@ -502,6 +502,11 @@
 - [aels/CVE-2022-37042](https://github.com/aels/CVE-2022-37042)	<img alt="forks" src="https://img.shields.io/github/forks/aels/CVE-2022-37042">	<img alt="stars" src="https://img.shields.io/github/stars/aels/CVE-2022-37042">
 
 ---
+## CVE-2022-3699 ()
+> 
+- [alfarom256/CVE-2022-3699](https://github.com/alfarom256/CVE-2022-3699)	<img alt="forks" src="https://img.shields.io/github/forks/alfarom256/CVE-2022-3699">	<img alt="stars" src="https://img.shields.io/github/stars/alfarom256/CVE-2022-3699">
+
+---
 ## CVE-2022-36946 (2022-07-27T20:15:00)
 > nfqnl_mangle in net/netfilter/nfnetlink_queue.c in the Linux kernel through 5.18.14 allows remote attackers to cause a denial of service (panic) because, in the case of an nf_queue verdict with a one-byte nfta_payload attribute, an skb_pull can encounter a negative skb->len.
 - [Pwnzer0tt1/CVE-2022-36946](https://github.com/Pwnzer0tt1/CVE-2022-36946)	<img alt="forks" src="https://img.shields.io/github/forks/Pwnzer0tt1/CVE-2022-36946">	<img alt="stars" src="https://img.shields.io/github/stars/Pwnzer0tt1/CVE-2022-36946">
