@@ -280,6 +280,22 @@
 - [tlatkdgus1/blueborne-CVE-2017-1000251](https://github.com/tlatkdgus1/blueborne-CVE-2017-1000251)	<img alt="forks" src="https://img.shields.io/github/forks/tlatkdgus1/blueborne-CVE-2017-1000251">	<img alt="stars" src="https://img.shields.io/github/stars/tlatkdgus1/blueborne-CVE-2017-1000251">
 
 ---
+## CVE-2017-0785 (2017-09-14T19:29:00)
+> A information disclosure vulnerability in the Android system (bluetooth). Product: Android. Versions: 4.4.4, 5.0.2, 5.1.1, 6.0, 6.0.1, 7.0, 7.1.1, 7.1.2, 8.0. Android ID: A-63146698.
+- [Joanmei/CVE-2017-0785](https://github.com/Joanmei/CVE-2017-0785)	<img alt="forks" src="https://img.shields.io/github/forks/Joanmei/CVE-2017-0785">	<img alt="stars" src="https://img.shields.io/github/stars/Joanmei/CVE-2017-0785">
+- [sh4rknado/BlueBorn](https://github.com/sh4rknado/BlueBorn)	<img alt="forks" src="https://img.shields.io/github/forks/sh4rknado/BlueBorn">	<img alt="stars" src="https://img.shields.io/github/stars/sh4rknado/BlueBorn">
+- [CarlosDelRosario7/sploit-bX](https://github.com/CarlosDelRosario7/sploit-bX)	<img alt="forks" src="https://img.shields.io/github/forks/CarlosDelRosario7/sploit-bX">	<img alt="stars" src="https://img.shields.io/github/stars/CarlosDelRosario7/sploit-bX">
+- [CrackSoft900/Blue-Borne](https://github.com/CrackSoft900/Blue-Borne)	<img alt="forks" src="https://img.shields.io/github/forks/CrackSoft900/Blue-Borne">	<img alt="stars" src="https://img.shields.io/github/stars/CrackSoft900/Blue-Borne">
+- [henrychoi7/Bluepwn](https://github.com/henrychoi7/Bluepwn)	<img alt="forks" src="https://img.shields.io/github/forks/henrychoi7/Bluepwn">	<img alt="stars" src="https://img.shields.io/github/stars/henrychoi7/Bluepwn">
+- [RavSS/Bluetooth-Crash-CVE-2017-0785](https://github.com/RavSS/Bluetooth-Crash-CVE-2017-0785)	<img alt="forks" src="https://img.shields.io/github/forks/RavSS/Bluetooth-Crash-CVE-2017-0785">	<img alt="stars" src="https://img.shields.io/github/stars/RavSS/Bluetooth-Crash-CVE-2017-0785">
+- [pieterbork/blueborne](https://github.com/pieterbork/blueborne)	<img alt="forks" src="https://img.shields.io/github/forks/pieterbork/blueborne">	<img alt="stars" src="https://img.shields.io/github/stars/pieterbork/blueborne">
+- [sigbitsadmin/diff](https://github.com/sigbitsadmin/diff)	<img alt="forks" src="https://img.shields.io/github/forks/sigbitsadmin/diff">	<img alt="stars" src="https://img.shields.io/github/stars/sigbitsadmin/diff">
+- [Hackerscript/BlueBorne-CVE-2017-0785](https://github.com/Hackerscript/BlueBorne-CVE-2017-0785)	<img alt="forks" src="https://img.shields.io/github/forks/Hackerscript/BlueBorne-CVE-2017-0785">	<img alt="stars" src="https://img.shields.io/github/stars/Hackerscript/BlueBorne-CVE-2017-0785">
+- [ojasookert/CVE-2017-0785](https://github.com/ojasookert/CVE-2017-0785)	<img alt="forks" src="https://img.shields.io/github/forks/ojasookert/CVE-2017-0785">	<img alt="stars" src="https://img.shields.io/github/stars/ojasookert/CVE-2017-0785">
+- [Alfa100001/-CVE-2017-0785-BlueBorne-PoC](https://github.com/Alfa100001/-CVE-2017-0785-BlueBorne-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Alfa100001/-CVE-2017-0785-BlueBorne-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Alfa100001/-CVE-2017-0785-BlueBorne-PoC">
+- [aymankhalfatni/CVE-2017-0785](https://github.com/aymankhalfatni/CVE-2017-0785)	<img alt="forks" src="https://img.shields.io/github/forks/aymankhalfatni/CVE-2017-0785">	<img alt="stars" src="https://img.shields.io/github/stars/aymankhalfatni/CVE-2017-0785">
+
+---
 ## CVE-2017-0199 (2017-04-12T14:59:00)
 > Microsoft Office 2007 SP3, Microsoft Office 2010 SP2, Microsoft Office 2013 SP1, Microsoft Office 2016, Microsoft Windows Vista SP2, Windows Server 2008 SP2, Windows 7 SP1, Windows 8.1 allow remote attackers to execute arbitrary code via a crafted document, aka "Microsoft Office/WordPad Remote Code Execution Vulnerability w/Windows API."
 - [Sunqiz/CVE-2017-0199-reprofuction](https://github.com/Sunqiz/CVE-2017-0199-reprofuction)	<img alt="forks" src="https://img.shields.io/github/forks/Sunqiz/CVE-2017-0199-reprofuction">	<img alt="stars" src="https://img.shields.io/github/stars/Sunqiz/CVE-2017-0199-reprofuction">
