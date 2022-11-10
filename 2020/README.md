@@ -204,6 +204,11 @@
 - [Rajchowdhury420/ThinkAdmin-CVE-2020-25540](https://github.com/Rajchowdhury420/ThinkAdmin-CVE-2020-25540)	<img alt="forks" src="https://img.shields.io/github/forks/Rajchowdhury420/ThinkAdmin-CVE-2020-25540">	<img alt="stars" src="https://img.shields.io/github/stars/Rajchowdhury420/ThinkAdmin-CVE-2020-25540">
 
 ---
+## CVE-2020-25515 (2020-09-22T18:15:00)
+> Sourcecodester Simple Library Management System 1.0 is affected by Insecure Permissions via Books > New Book , http://<site>/lms/index.php?page=books.
+- [Ko-kn3t/CVE-2020-25515](https://github.com/Ko-kn3t/CVE-2020-25515)	<img alt="forks" src="https://img.shields.io/github/forks/Ko-kn3t/CVE-2020-25515">	<img alt="stars" src="https://img.shields.io/github/stars/Ko-kn3t/CVE-2020-25515">
+
+---
 ## CVE-2020-25478 ()
 > 
 - [santokum/CVE-2020-25478--ASUS-RT-AC87U-TFTP-is-vulnerable-to-Denial-of-Service-DoS-attack](https://github.com/santokum/CVE-2020-25478--ASUS-RT-AC87U-TFTP-is-vulnerable-to-Denial-of-Service-DoS-attack)	<img alt="forks" src="https://img.shields.io/github/forks/santokum/CVE-2020-25478--ASUS-RT-AC87U-TFTP-is-vulnerable-to-Denial-of-Service-DoS-attack">	<img alt="stars" src="https://img.shields.io/github/stars/santokum/CVE-2020-25478--ASUS-RT-AC87U-TFTP-is-vulnerable-to-Denial-of-Service-DoS-attack">
