@@ -937,6 +937,12 @@
 - [safe3s/CVE-2021-25642](https://github.com/safe3s/CVE-2021-25642)	<img alt="forks" src="https://img.shields.io/github/forks/safe3s/CVE-2021-25642">	<img alt="stars" src="https://img.shields.io/github/stars/safe3s/CVE-2021-25642">
 
 ---
+## CVE-2021-25641 (2021-06-01T14:15:00)
+> Each Apache Dubbo server will set a serialization id to tell the clients which serialization protocol it is working on. But for Dubbo versions before 2.7.8 or 2.6.9, an attacker can choose which serialization id the Provider will use by tampering with the byte preamble flags, aka, not following the server's instruction. This means that if a weak deserializer such as the Kryo and FST are somehow in code scope (e.g. if Kryo is somehow a part of a dependency), a remote unauthenticated attacker can tell the Provider to use the weak deserializer, and then proceed to exploit it.
+- [l0n3rs/CVE-2021-25641](https://github.com/l0n3rs/CVE-2021-25641)	<img alt="forks" src="https://img.shields.io/github/forks/l0n3rs/CVE-2021-25641">	<img alt="stars" src="https://img.shields.io/github/stars/l0n3rs/CVE-2021-25641">
+- [Dor-Tumarkin/CVE-2021-25641-Proof-of-Concept](https://github.com/Dor-Tumarkin/CVE-2021-25641-Proof-of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/Dor-Tumarkin/CVE-2021-25641-Proof-of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/Dor-Tumarkin/CVE-2021-25641-Proof-of-Concept">
+
+---
 ## CVE-2021-25461 (2021-09-09T19:15:00)
 > An improper length check in APAService prior to SMR Sep-2021 Release 1 results in stack based Buffer Overflow.
 - [bkojusner/CVE-2021-25461](https://github.com/bkojusner/CVE-2021-25461)	<img alt="forks" src="https://img.shields.io/github/forks/bkojusner/CVE-2021-25461">	<img alt="stars" src="https://img.shields.io/github/stars/bkojusner/CVE-2021-25461">
