@@ -2234,6 +2234,11 @@
 - [jam620/Sophos-Vulnerability](https://github.com/jam620/Sophos-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/jam620/Sophos-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/jam620/Sophos-Vulnerability">
 
 ---
+## CVE-2022-1012 (2022-08-05T16:15:00)
+> A memory leak problem was found in the TCP source port generation algorithm in net/ipv4/tcp.c due to the small table perturb size. This flaw may allow an attacker to information leak and may cause a denial of service problem.
+- [nanopathi/Linux-4.19.72_CVE-2022-1012](https://github.com/nanopathi/Linux-4.19.72_CVE-2022-1012)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/Linux-4.19.72_CVE-2022-1012">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/Linux-4.19.72_CVE-2022-1012">
+
+---
 ## CVE-2022-1000 (2022-03-17T11:15:00)
 > Path Traversal in GitHub repository prasathmani/tinyfilemanager prior to 2.4.7.
 - [yonggui-li/CVE-2022-1000_poc](https://github.com/yonggui-li/CVE-2022-1000_poc)	<img alt="forks" src="https://img.shields.io/github/forks/yonggui-li/CVE-2022-1000_poc">	<img alt="stars" src="https://img.shields.io/github/stars/yonggui-li/CVE-2022-1000_poc">
