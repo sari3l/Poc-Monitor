@@ -349,6 +349,8 @@
 ## CVE-2022-40140 (2022-09-19T18:15:00)
 > An origin validation error vulnerability in Trend Micro Apex One and Apex One as a Service could allow a local attacker to cause a denial-of-service on affected installations. Please note: an attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability.
 - [ipsBruno/CVE-2022-40140-SCANNER](https://github.com/ipsBruno/CVE-2022-40140-SCANNER)	<img alt="forks" src="https://img.shields.io/github/forks/ipsBruno/CVE-2022-40140-SCANNER">	<img alt="stars" src="https://img.shields.io/github/stars/ipsBruno/CVE-2022-40140-SCANNER">
+- [ZephrFish/NotProxyShellScanner](https://github.com/ZephrFish/NotProxyShellScanner)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/NotProxyShellScanner">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/NotProxyShellScanner">
+- [mr-r3b00t/NotProxyShellHunter](https://github.com/mr-r3b00t/NotProxyShellHunter)	<img alt="forks" src="https://img.shields.io/github/forks/mr-r3b00t/NotProxyShellHunter">	<img alt="stars" src="https://img.shields.io/github/stars/mr-r3b00t/NotProxyShellHunter">
 
 ---
 ## CVE-2022-40126 (2022-09-29T12:15:00)
