@@ -1366,6 +1366,11 @@
 - [alirezac0/CVE-2022-27502](https://github.com/alirezac0/CVE-2022-27502)	<img alt="forks" src="https://img.shields.io/github/forks/alirezac0/CVE-2022-27502">	<img alt="stars" src="https://img.shields.io/github/stars/alirezac0/CVE-2022-27502">
 
 ---
+## CVE-2022-27492 (2022-09-23T14:15:00)
+> An integer underflow in WhatsApp could have caused remote code execution when receiving a crafted video file.
+- [F1uk368/CVE-2022-27492](https://github.com/F1uk368/CVE-2022-27492)	<img alt="forks" src="https://img.shields.io/github/forks/F1uk368/CVE-2022-27492">	<img alt="stars" src="https://img.shields.io/github/stars/F1uk368/CVE-2022-27492">
+
+---
 ## CVE-2022-27438 (2022-06-06T23:15:00)
 > Caphyon Ltd Advanced Installer 19.3 and earlier and many products that use the updater from Advanced Installer (Advanced Updater) are affected by a remote code execution vulnerability via the CustomDetection parameter in the update check function. To exploit this vulnerability, a user must start an affected installation to trigger the update check.
 - [gerr-re/cve-2022-27438](https://github.com/gerr-re/cve-2022-27438)	<img alt="forks" src="https://img.shields.io/github/forks/gerr-re/cve-2022-27438">	<img alt="stars" src="https://img.shields.io/github/stars/gerr-re/cve-2022-27438">
