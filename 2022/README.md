@@ -2259,6 +2259,14 @@
 - [jam620/Sophos-Vulnerability](https://github.com/jam620/Sophos-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/jam620/Sophos-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/jam620/Sophos-Vulnerability">
 
 ---
+## CVE-2022-1015 (2022-04-29T16:15:00)
+> A flaw was found in the Linux kernel in linux/net/netfilter/nf_tables_api.c of the netfilter subsystem. This flaw allows a local user to cause an out-of-bounds write issue.
+- [ysanatomic/CVE-2022-1015](https://github.com/ysanatomic/CVE-2022-1015)	<img alt="forks" src="https://img.shields.io/github/forks/ysanatomic/CVE-2022-1015">	<img alt="stars" src="https://img.shields.io/github/stars/ysanatomic/CVE-2022-1015">
+- [shuttterman/bob_kern_exp1](https://github.com/shuttterman/bob_kern_exp1)	<img alt="forks" src="https://img.shields.io/github/forks/shuttterman/bob_kern_exp1">	<img alt="stars" src="https://img.shields.io/github/stars/shuttterman/bob_kern_exp1">
+- [zanezhub/CVE-2022-1015-1016](https://github.com/zanezhub/CVE-2022-1015-1016)	<img alt="forks" src="https://img.shields.io/github/forks/zanezhub/CVE-2022-1015-1016">	<img alt="stars" src="https://img.shields.io/github/stars/zanezhub/CVE-2022-1015-1016">
+- [pqlx/CVE-2022-1015](https://github.com/pqlx/CVE-2022-1015)	<img alt="forks" src="https://img.shields.io/github/forks/pqlx/CVE-2022-1015">	<img alt="stars" src="https://img.shields.io/github/stars/pqlx/CVE-2022-1015">
+
+---
 ## CVE-2022-1012 (2022-08-05T16:15:00)
 > A memory leak problem was found in the TCP source port generation algorithm in net/ipv4/tcp.c due to the small table perturb size. This flaw may allow an attacker to information leak and may cause a denial of service problem.
 - [nanopathi/Linux-4.19.72_CVE-2022-1012](https://github.com/nanopathi/Linux-4.19.72_CVE-2022-1012)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/Linux-4.19.72_CVE-2022-1012">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/Linux-4.19.72_CVE-2022-1012">
