@@ -340,6 +340,11 @@
 - [vah13/CVE-2022-39802](https://github.com/vah13/CVE-2022-39802)	<img alt="forks" src="https://img.shields.io/github/forks/vah13/CVE-2022-39802">	<img alt="stars" src="https://img.shields.io/github/stars/vah13/CVE-2022-39802">
 
 ---
+## CVE-2022-3942 ()
+> 
+- [maikroservice/CVE-2022-3942](https://github.com/maikroservice/CVE-2022-3942)	<img alt="forks" src="https://img.shields.io/github/forks/maikroservice/CVE-2022-3942">	<img alt="stars" src="https://img.shields.io/github/stars/maikroservice/CVE-2022-3942">
+
+---
 ## CVE-2022-39395 (2022-11-10T18:15:00)
 > Vela is a Pipeline Automation (CI/CD) framework built on Linux container technology written in Golang. In Vela Server and Vela Worker prior to version 0.16.0 and Vela UI prior to version 0.17.0, some default configurations for Vela allow exploitation and container breakouts. Users should upgrade to Server 0.16.0, Worker 0.16.0, and UI 0.17.0 to fix the issue. After upgrading, Vela administrators will need to explicitly change the default settings to configure Vela as desired. Some of the fixes will interrupt existing workflows and will require Vela administrators to modify default settings. However, not applying the patch (or workarounds) will continue existing risk exposure. Some workarounds are available. Vela administrators can adjust the worker's `VELA_RUNTIME_PRIVILEGED_IMAGES` setting to be explicitly empty, leverage the `VELA_REPO_ALLOWLIST` setting on the server component to restrict access to a list of repositories that are allowed to be enabled, and/or audit enabled repositories and disable pull_requests if they are not needed.
 - [harry1osborn/CVE-2022-39395](https://github.com/harry1osborn/CVE-2022-39395)	<img alt="forks" src="https://img.shields.io/github/forks/harry1osborn/CVE-2022-39395">	<img alt="stars" src="https://img.shields.io/github/stars/harry1osborn/CVE-2022-39395">
