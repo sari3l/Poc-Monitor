@@ -924,6 +924,11 @@
 - [CDACesec/CVE-2022-31901](https://github.com/CDACesec/CVE-2022-31901)	<img alt="forks" src="https://img.shields.io/github/forks/CDACesec/CVE-2022-31901">	<img alt="stars" src="https://img.shields.io/github/stars/CDACesec/CVE-2022-31901">
 
 ---
+## CVE-2022-31898 (2022-10-27T18:15:00)
+> gl-inet GL-MT300N-V2 Mango v3.212 and GL-AX1800 Flint v3.214 were discovered to contain multiple command injection vulnerabilities via the ping_addr and trace_addr function parameters.
+- [gigaryte/cve-2022-31898](https://github.com/gigaryte/cve-2022-31898)	<img alt="forks" src="https://img.shields.io/github/forks/gigaryte/cve-2022-31898">	<img alt="stars" src="https://img.shields.io/github/stars/gigaryte/cve-2022-31898">
+
+---
 ## CVE-2022-31897 (2022-06-29T01:15:00)
 > SourceCodester Zoo Management System 1.0 is vulnerable to Cross Site Scripting (XSS) via public_html/register_visitor?msg=.
 - [AngeloPioAmirante/CVE-2022-31897](https://github.com/AngeloPioAmirante/CVE-2022-31897)	<img alt="forks" src="https://img.shields.io/github/forks/AngeloPioAmirante/CVE-2022-31897">	<img alt="stars" src="https://img.shields.io/github/stars/AngeloPioAmirante/CVE-2022-31897">
