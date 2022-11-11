@@ -97,6 +97,11 @@
 - [bypazs/CVE-2022-42094](https://github.com/bypazs/CVE-2022-42094)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/CVE-2022-42094">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/CVE-2022-42094">
 
 ---
+## CVE-2022-42055 (2022-10-27T18:15:00)
+> Multiple command injection vulnerabilities in GL.iNet GoodCloud IoT Device Management System Version 1.00.220412.00 via the ping and traceroute tools allow attackers to read arbitrary files on the system.
+- [gigaryte/cve-2022-42055](https://github.com/gigaryte/cve-2022-42055)	<img alt="forks" src="https://img.shields.io/github/forks/gigaryte/cve-2022-42055">	<img alt="stars" src="https://img.shields.io/github/stars/gigaryte/cve-2022-42055">
+
+---
 ## CVE-2022-42045 ()
 > 
 - [ReCryptLLC/CVE-2022-42045](https://github.com/ReCryptLLC/CVE-2022-42045)	<img alt="forks" src="https://img.shields.io/github/forks/ReCryptLLC/CVE-2022-42045">	<img alt="stars" src="https://img.shields.io/github/stars/ReCryptLLC/CVE-2022-42045">
