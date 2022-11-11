@@ -372,8 +372,8 @@
 - [vah13/CVE-2022-39802](https://github.com/vah13/CVE-2022-39802)	<img alt="forks" src="https://img.shields.io/github/forks/vah13/CVE-2022-39802">	<img alt="stars" src="https://img.shields.io/github/stars/vah13/CVE-2022-39802">
 
 ---
-## CVE-2022-3949 ()
-> 
+## CVE-2022-3949 (2022-11-11T13:15:00)
+> A vulnerability, which was classified as problematic, has been found in Sourcecodester Simple Cashiering System. This issue affects some unknown processing of the component User Account Handler. The manipulation of the argument fullname leads to cross site scripting. The attack may be initiated remotely. The associated identifier of this vulnerability is VDB-213455.
 - [maikroservice/CVE-2022-3949](https://github.com/maikroservice/CVE-2022-3949)	<img alt="forks" src="https://img.shields.io/github/forks/maikroservice/CVE-2022-3949">	<img alt="stars" src="https://img.shields.io/github/stars/maikroservice/CVE-2022-3949">
 
 ---
