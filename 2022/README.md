@@ -340,8 +340,13 @@
 - [vah13/CVE-2022-39802](https://github.com/vah13/CVE-2022-39802)	<img alt="forks" src="https://img.shields.io/github/forks/vah13/CVE-2022-39802">	<img alt="stars" src="https://img.shields.io/github/stars/vah13/CVE-2022-39802">
 
 ---
-## CVE-2022-3942 ()
+## CVE-2022-3949 ()
 > 
+- [maikroservice/CVE-2022-3949](https://github.com/maikroservice/CVE-2022-3949)	<img alt="forks" src="https://img.shields.io/github/forks/maikroservice/CVE-2022-3949">	<img alt="stars" src="https://img.shields.io/github/stars/maikroservice/CVE-2022-3949">
+
+---
+## CVE-2022-3942 (2022-11-11T08:15:00)
+> A vulnerability was found in SourceCodester Sanitization Management System and classified as problematic. This issue affects some unknown processing of the file php-sms/?p=request_quote. The manipulation leads to cross site scripting. The attack may be initiated remotely. The identifier VDB-213449 was assigned to this vulnerability.
 - [maikroservice/CVE-2022-3942](https://github.com/maikroservice/CVE-2022-3942)	<img alt="forks" src="https://img.shields.io/github/forks/maikroservice/CVE-2022-3942">	<img alt="stars" src="https://img.shields.io/github/stars/maikroservice/CVE-2022-3942">
 
 ---
@@ -2275,6 +2280,11 @@
 ## CVE-2022-1000 (2022-03-17T11:15:00)
 > Path Traversal in GitHub repository prasathmani/tinyfilemanager prior to 2.4.7.
 - [yonggui-li/CVE-2022-1000_poc](https://github.com/yonggui-li/CVE-2022-1000_poc)	<img alt="forks" src="https://img.shields.io/github/forks/yonggui-li/CVE-2022-1000_poc">	<img alt="stars" src="https://img.shields.io/github/stars/yonggui-li/CVE-2022-1000_poc">
+
+---
+## CVE-2022-1 ()
+> 
+- [mike-develop-root/cve-2022-1](https://github.com/mike-develop-root/cve-2022-1)	<img alt="forks" src="https://img.shields.io/github/forks/mike-develop-root/cve-2022-1">	<img alt="stars" src="https://img.shields.io/github/stars/mike-develop-root/cve-2022-1">
 
 ---
 ## CVE-2022-0848 (2022-03-04T09:15:00)
