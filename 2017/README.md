@@ -168,6 +168,16 @@
 ## CVE-2017-16995 (2017-12-27T17:08:00)
 > The check_alu_op function in kernel/bpf/verifier.c in the Linux kernel through 4.4 allows local users to cause a denial of service (memory corruption) or possibly have unspecified other impact by leveraging incorrect sign extension.
 - [ivilpez/cve-2017-16995.c](https://github.com/ivilpez/cve-2017-16995.c)	<img alt="forks" src="https://img.shields.io/github/forks/ivilpez/cve-2017-16995.c">	<img alt="stars" src="https://img.shields.io/github/stars/ivilpez/cve-2017-16995.c">
+- [Al1ex/LinuxEelvation](https://github.com/Al1ex/LinuxEelvation)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/LinuxEelvation">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/LinuxEelvation">
+- [Al1ex/CVE-2017-16995](https://github.com/Al1ex/CVE-2017-16995)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/CVE-2017-16995">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/CVE-2017-16995">
+- [ph4ntonn/CVE-2017-16995](https://github.com/ph4ntonn/CVE-2017-16995)	<img alt="forks" src="https://img.shields.io/github/forks/ph4ntonn/CVE-2017-16995">	<img alt="stars" src="https://img.shields.io/github/stars/ph4ntonn/CVE-2017-16995">
+- [Lumindu/CVE-2017-16995-Linux-Kernel---BPF-Sign-Extension-Local-Privilege-Escalation-](https://github.com/Lumindu/CVE-2017-16995-Linux-Kernel---BPF-Sign-Extension-Local-Privilege-Escalation-)	<img alt="forks" src="https://img.shields.io/github/forks/Lumindu/CVE-2017-16995-Linux-Kernel---BPF-Sign-Extension-Local-Privilege-Escalation-">	<img alt="stars" src="https://img.shields.io/github/stars/Lumindu/CVE-2017-16995-Linux-Kernel---BPF-Sign-Extension-Local-Privilege-Escalation-">
+- [littlebin404/CVE-2017-16995](https://github.com/littlebin404/CVE-2017-16995)	<img alt="forks" src="https://img.shields.io/github/forks/littlebin404/CVE-2017-16995">	<img alt="stars" src="https://img.shields.io/github/stars/littlebin404/CVE-2017-16995">
+- [vnik5287/CVE-2017-16995](https://github.com/vnik5287/CVE-2017-16995)	<img alt="forks" src="https://img.shields.io/github/forks/vnik5287/CVE-2017-16995">	<img alt="stars" src="https://img.shields.io/github/stars/vnik5287/CVE-2017-16995">
+- [senyuuri/cve-2017-16995](https://github.com/senyuuri/cve-2017-16995)	<img alt="forks" src="https://img.shields.io/github/forks/senyuuri/cve-2017-16995">	<img alt="stars" src="https://img.shields.io/github/stars/senyuuri/cve-2017-16995">
+- [gugronnier/CVE-2017-16995](https://github.com/gugronnier/CVE-2017-16995)	<img alt="forks" src="https://img.shields.io/github/forks/gugronnier/CVE-2017-16995">	<img alt="stars" src="https://img.shields.io/github/stars/gugronnier/CVE-2017-16995">
+- [dangokyo/CVE_2017_16995](https://github.com/dangokyo/CVE_2017_16995)	<img alt="forks" src="https://img.shields.io/github/forks/dangokyo/CVE_2017_16995">	<img alt="stars" src="https://img.shields.io/github/stars/dangokyo/CVE_2017_16995">
+- [C0dak/CVE-2017-16995](https://github.com/C0dak/CVE-2017-16995)	<img alt="forks" src="https://img.shields.io/github/forks/C0dak/CVE-2017-16995">	<img alt="stars" src="https://img.shields.io/github/stars/C0dak/CVE-2017-16995">
 
 ---
 ## CVE-2017-16744 (2018-08-20T21:29:00)
