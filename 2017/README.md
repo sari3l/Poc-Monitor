@@ -165,6 +165,11 @@
 - [1337g/CVE-2017-17215](https://github.com/1337g/CVE-2017-17215)	<img alt="forks" src="https://img.shields.io/github/forks/1337g/CVE-2017-17215">	<img alt="stars" src="https://img.shields.io/github/stars/1337g/CVE-2017-17215">
 
 ---
+## CVE-2017-16995 (2017-12-27T17:08:00)
+> The check_alu_op function in kernel/bpf/verifier.c in the Linux kernel through 4.4 allows local users to cause a denial of service (memory corruption) or possibly have unspecified other impact by leveraging incorrect sign extension.
+- [ivilpez/cve-2017-16995.c](https://github.com/ivilpez/cve-2017-16995.c)	<img alt="forks" src="https://img.shields.io/github/forks/ivilpez/cve-2017-16995.c">	<img alt="stars" src="https://img.shields.io/github/stars/ivilpez/cve-2017-16995.c">
+
+---
 ## CVE-2017-16744 (2018-08-20T21:29:00)
 > A path traversal vulnerability in Tridium Niagara AX Versions 3.8 and prior and Niagara 4 systems Versions 4.4 and prior installed on Microsoft Windows Systems can be exploited by leveraging valid platform (administrator) credentials.
 - [GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara](https://github.com/GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara)	<img alt="forks" src="https://img.shields.io/github/forks/GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara">	<img alt="stars" src="https://img.shields.io/github/stars/GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara">
