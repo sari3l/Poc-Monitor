@@ -149,6 +149,7 @@
 ## CVE-2019-18683 (2019-11-04T16:15:00)
 > An issue was discovered in drivers/media/platform/vivid in the Linux kernel through 5.3.8. It is exploitable for privilege escalation on some Linux distributions where local users have /dev/video0 access, but only if the driver happens to be loaded. There are multiple race conditions during streaming stopping in this driver (part of the V4L2 subsystem). These issues are caused by wrong mutex locking in vivid_stop_generating_vid_cap(), vivid_stop_generating_vid_out(), sdr_cap_stop_streaming(), and the corresponding kthreads. At least one of these race conditions leads to a use-after-free.
 - [Limesss/cve-2019-18683](https://github.com/Limesss/cve-2019-18683)	<img alt="forks" src="https://img.shields.io/github/forks/Limesss/cve-2019-18683">	<img alt="stars" src="https://img.shields.io/github/stars/Limesss/cve-2019-18683">
+- [sanjana123-cloud/CVE-2019-18683](https://github.com/sanjana123-cloud/CVE-2019-18683)	<img alt="forks" src="https://img.shields.io/github/forks/sanjana123-cloud/CVE-2019-18683">	<img alt="stars" src="https://img.shields.io/github/stars/sanjana123-cloud/CVE-2019-18683">
 
 ---
 ## CVE-2019-18634 (2020-01-29T18:15:00)
