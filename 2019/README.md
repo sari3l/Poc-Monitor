@@ -7,6 +7,11 @@
 - [moonheadobj/CVE-2019-9766](https://github.com/moonheadobj/CVE-2019-9766)	<img alt="forks" src="https://img.shields.io/github/forks/moonheadobj/CVE-2019-9766">	<img alt="stars" src="https://img.shields.io/github/stars/moonheadobj/CVE-2019-9766">
 
 ---
+## CVE-2019-9193 (2019-04-01T21:30:00)
+> ** DISPUTED ** In PostgreSQL 9.3 through 11.2, the "COPY TO/FROM PROGRAM" function allows superusers and users in the 'pg_execute_server_program' group to execute arbitrary code in the context of the database's operating system user. This functionality is enabled by default and can be abused to run arbitrary operating system commands on Windows, Linux, and macOS. NOTE: Third parties claim/state this is not an issue because PostgreSQL functionality for ‘COPY TO/FROM PROGRAM’ is acting as intended. References state that in PostgreSQL, a superuser can execute commands as the server user without using the ‘COPY FROM PROGRAM’.
+- [chromanite/CVE-2019-9193-PostgreSQL-9.3-11.7](https://github.com/chromanite/CVE-2019-9193-PostgreSQL-9.3-11.7)	<img alt="forks" src="https://img.shields.io/github/forks/chromanite/CVE-2019-9193-PostgreSQL-9.3-11.7">	<img alt="stars" src="https://img.shields.io/github/stars/chromanite/CVE-2019-9193-PostgreSQL-9.3-11.7">
+
+---
 ## CVE-2019-9053 (2019-03-26T17:29:00)
 > An issue was discovered in CMS Made Simple 2.2.8. It is possible with the News module, through a crafted URL, to achieve unauthenticated blind time-based SQL injection via the m1_idlist parameter.
 - [ELIZEUOPAIN/CVE-2019-9053-CMS-Made-Simple-2.2.10---SQL-Injection-Exploit](https://github.com/ELIZEUOPAIN/CVE-2019-9053-CMS-Made-Simple-2.2.10---SQL-Injection-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ELIZEUOPAIN/CVE-2019-9053-CMS-Made-Simple-2.2.10---SQL-Injection-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ELIZEUOPAIN/CVE-2019-9053-CMS-Made-Simple-2.2.10---SQL-Injection-Exploit">
