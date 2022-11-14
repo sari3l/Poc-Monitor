@@ -1340,6 +1340,7 @@
 - [tufanturhan/wso2-rce-cve-2022-29464](https://github.com/tufanturhan/wso2-rce-cve-2022-29464)	<img alt="forks" src="https://img.shields.io/github/forks/tufanturhan/wso2-rce-cve-2022-29464">	<img alt="stars" src="https://img.shields.io/github/stars/tufanturhan/wso2-rce-cve-2022-29464">
 - [hupe1980/CVE-2022-29464](https://github.com/hupe1980/CVE-2022-29464)	<img alt="forks" src="https://img.shields.io/github/forks/hupe1980/CVE-2022-29464">	<img alt="stars" src="https://img.shields.io/github/stars/hupe1980/CVE-2022-29464">
 - [UUFR/CVE-2022-29464](https://github.com/UUFR/CVE-2022-29464)	<img alt="forks" src="https://img.shields.io/github/forks/UUFR/CVE-2022-29464">	<img alt="stars" src="https://img.shields.io/github/stars/UUFR/CVE-2022-29464">
+- [gbrsh/CVE-2022-29464](https://github.com/gbrsh/CVE-2022-29464)	<img alt="forks" src="https://img.shields.io/github/forks/gbrsh/CVE-2022-29464">	<img alt="stars" src="https://img.shields.io/github/stars/gbrsh/CVE-2022-29464">
 
 ---
 ## CVE-2022-29455 (2022-06-13T17:15:00)
