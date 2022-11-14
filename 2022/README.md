@@ -625,6 +625,11 @@
 - [Fopje/CVE-2022-36539](https://github.com/Fopje/CVE-2022-36539)	<img alt="forks" src="https://img.shields.io/github/forks/Fopje/CVE-2022-36539">	<img alt="stars" src="https://img.shields.io/github/stars/Fopje/CVE-2022-36539">
 
 ---
+## CVE-2022-36537 (2022-08-26T20:15:00)
+> ZK Framework v9.6.1, 9.6.0.1, 9.5.1.3, 9.0.1.2 and 8.6.4.1 allows attackers to access sensitive information via a crafted POST request sent to the component AuUploader.
+- [OneByt3/CVE-2022-36537](https://github.com/OneByt3/CVE-2022-36537)	<img alt="forks" src="https://img.shields.io/github/forks/OneByt3/CVE-2022-36537">	<img alt="stars" src="https://img.shields.io/github/stars/OneByt3/CVE-2022-36537">
+
+---
 ## CVE-2022-36446 (2022-07-25T06:15:00)
 > software/apt-lib.pl in Webmin before 1.997 lacks HTML escaping for a UI command.
 - [p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE](https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE">
@@ -738,6 +743,7 @@
 ## CVE-2022-35405 (2022-07-19T15:15:00)
 > Zoho ManageEngine Password Manager Pro before 12101 and PAM360 before 5510 are vulnerable to unauthenticated remote code execution. (This also affects ManageEngine Access Manager Plus before 4303 with authentication.)
 - [viniciuspereiras/CVE-2022-35405](https://github.com/viniciuspereiras/CVE-2022-35405)	<img alt="forks" src="https://img.shields.io/github/forks/viniciuspereiras/CVE-2022-35405">	<img alt="stars" src="https://img.shields.io/github/stars/viniciuspereiras/CVE-2022-35405">
+- [OneByt3/CVE-2022-35405](https://github.com/OneByt3/CVE-2022-35405)	<img alt="forks" src="https://img.shields.io/github/forks/OneByt3/CVE-2022-35405">	<img alt="stars" src="https://img.shields.io/github/stars/OneByt3/CVE-2022-35405">
 
 ---
 ## CVE-2022-3518 (2022-10-15T10:15:00)
