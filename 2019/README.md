@@ -185,6 +185,11 @@
 - [keshiba/cve-2019-16278](https://github.com/keshiba/cve-2019-16278)	<img alt="forks" src="https://img.shields.io/github/forks/keshiba/cve-2019-16278">	<img alt="stars" src="https://img.shields.io/github/stars/keshiba/cve-2019-16278">
 
 ---
+## CVE-2019-15514 (2019-08-23T13:15:00)
+> The Privacy > Phone Number feature in the Telegram app 5.10 for Android and iOS provides an incorrect indication that the access level is Nobody, because attackers can find these numbers via the Group Info feature, e.g., by adding a significant fraction of a region's assigned phone numbers.
+- [graysuit/CVE-2019-15514](https://github.com/graysuit/CVE-2019-15514)	<img alt="forks" src="https://img.shields.io/github/forks/graysuit/CVE-2019-15514">	<img alt="stars" src="https://img.shields.io/github/stars/graysuit/CVE-2019-15514">
+
+---
 ## CVE-2019-15107 (2019-08-16T03:15:00)
 > An issue was discovered in Webmin <=1.920. The parameter old in password_change.cgi contains a command injection vulnerability.
 - [psw01/CVE-2019-15107_webminRCE](https://github.com/psw01/CVE-2019-15107_webminRCE)	<img alt="forks" src="https://img.shields.io/github/forks/psw01/CVE-2019-15107_webminRCE">	<img alt="stars" src="https://img.shields.io/github/stars/psw01/CVE-2019-15107_webminRCE">
