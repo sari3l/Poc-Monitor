@@ -215,6 +215,7 @@
 - [trhacknon/CVE-2022-41082-MASS-SCANNER](https://github.com/trhacknon/CVE-2022-41082-MASS-SCANNER)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-41082-MASS-SCANNER">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-41082-MASS-SCANNER">
 - [stat1st1c/CVE-2022-41082-RCE-POC](https://github.com/stat1st1c/CVE-2022-41082-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/stat1st1c/CVE-2022-41082-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/stat1st1c/CVE-2022-41082-RCE-POC">
 - [vib3zz/CVE-2022-41082-RCE-POC](https://github.com/vib3zz/CVE-2022-41082-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/vib3zz/CVE-2022-41082-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/vib3zz/CVE-2022-41082-RCE-POC">
+- [notareaperbutDR34P3r/http-vuln-CVE-2022-41082](https://github.com/notareaperbutDR34P3r/http-vuln-CVE-2022-41082)	<img alt="forks" src="https://img.shields.io/github/forks/notareaperbutDR34P3r/http-vuln-CVE-2022-41082">	<img alt="stars" src="https://img.shields.io/github/stars/notareaperbutDR34P3r/http-vuln-CVE-2022-41082">
 
 ---
 ## CVE-2022-41040 (2022-10-03T01:15:00)
