@@ -1950,6 +1950,7 @@
 - [SiJiDo/CVE-2022-22947](https://github.com/SiJiDo/CVE-2022-22947)	<img alt="forks" src="https://img.shields.io/github/forks/SiJiDo/CVE-2022-22947">	<img alt="stars" src="https://img.shields.io/github/stars/SiJiDo/CVE-2022-22947">
 - [trhacknon/CVE-2022-22947](https://github.com/trhacknon/CVE-2022-22947)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-22947">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-22947">
 - [savior-only/CVE-2022-22947](https://github.com/savior-only/CVE-2022-22947)	<img alt="forks" src="https://img.shields.io/github/forks/savior-only/CVE-2022-22947">	<img alt="stars" src="https://img.shields.io/github/stars/savior-only/CVE-2022-22947">
+- [Axx8/CVE-2022-22947_Rce_Exp](https://github.com/Axx8/CVE-2022-22947_Rce_Exp)	<img alt="forks" src="https://img.shields.io/github/forks/Axx8/CVE-2022-22947_Rce_Exp">	<img alt="stars" src="https://img.shields.io/github/stars/Axx8/CVE-2022-22947_Rce_Exp">
 
 ---
 ## CVE-2022-22909 (2022-03-03T00:15:00)
