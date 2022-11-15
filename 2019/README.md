@@ -4,6 +4,10 @@
 ## CVE-2019-9978 (2019-03-24T15:29:00)
 > The social-warfare plugin before 3.5.3 for WordPress has stored XSS via the wp-admin/admin-post.php?swp_debug=load_options swp_url parameter, as exploited in the wild in March 2019. This affects Social Warfare and Social Warfare Pro.
 - [caique-garbim/CVE-2019-9978_Exploit](https://github.com/caique-garbim/CVE-2019-9978_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/caique-garbim/CVE-2019-9978_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/caique-garbim/CVE-2019-9978_Exploit">
+- [hash3liZer/CVE-2019-9978](https://github.com/hash3liZer/CVE-2019-9978)	<img alt="forks" src="https://img.shields.io/github/forks/hash3liZer/CVE-2019-9978">	<img alt="stars" src="https://img.shields.io/github/stars/hash3liZer/CVE-2019-9978">
+- [cved-sources/cve-2019-9978](https://github.com/cved-sources/cve-2019-9978)	<img alt="forks" src="https://img.shields.io/github/forks/cved-sources/cve-2019-9978">	<img alt="stars" src="https://img.shields.io/github/stars/cved-sources/cve-2019-9978">
+- [mpgn/CVE-2019-9978](https://github.com/mpgn/CVE-2019-9978)	<img alt="forks" src="https://img.shields.io/github/forks/mpgn/CVE-2019-9978">	<img alt="stars" src="https://img.shields.io/github/stars/mpgn/CVE-2019-9978">
+- [KTN1990/CVE-2019-9978](https://github.com/KTN1990/CVE-2019-9978)	<img alt="forks" src="https://img.shields.io/github/forks/KTN1990/CVE-2019-9978">	<img alt="stars" src="https://img.shields.io/github/stars/KTN1990/CVE-2019-9978">
 
 ---
 ## CVE-2019-9766 (2019-03-14T09:29:00)
