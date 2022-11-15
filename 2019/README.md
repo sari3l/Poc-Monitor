@@ -1,6 +1,11 @@
 # 2019 List
 
 ---
+## CVE-2019-9978 (2019-03-24T15:29:00)
+> The social-warfare plugin before 3.5.3 for WordPress has stored XSS via the wp-admin/admin-post.php?swp_debug=load_options swp_url parameter, as exploited in the wild in March 2019. This affects Social Warfare and Social Warfare Pro.
+- [caique-garbim/CVE-2019-9978_Exploit](https://github.com/caique-garbim/CVE-2019-9978_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/caique-garbim/CVE-2019-9978_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/caique-garbim/CVE-2019-9978_Exploit">
+
+---
 ## CVE-2019-9766 (2019-03-14T09:29:00)
 > Stack-based buffer overflow in Free MP3 CD Ripper 2.6, when converting a file, allows user-assisted remote attackers to execute arbitrary code via a crafted .mp3 file.
 - [zeronohacker/CVE-2019-9766](https://github.com/zeronohacker/CVE-2019-9766)	<img alt="forks" src="https://img.shields.io/github/forks/zeronohacker/CVE-2019-9766">	<img alt="stars" src="https://img.shields.io/github/stars/zeronohacker/CVE-2019-9766">
