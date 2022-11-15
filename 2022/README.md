@@ -1599,6 +1599,11 @@
 - [badboy-sft/CVE-2022-26134](https://github.com/badboy-sft/CVE-2022-26134)	<img alt="forks" src="https://img.shields.io/github/forks/badboy-sft/CVE-2022-26134">	<img alt="stars" src="https://img.shields.io/github/stars/badboy-sft/CVE-2022-26134">
 
 ---
+## CVE-2022-2601 ()
+> 
+- [zhangboyang/cve-2022-2601](https://github.com/zhangboyang/cve-2022-2601)	<img alt="forks" src="https://img.shields.io/github/forks/zhangboyang/cve-2022-2601">	<img alt="stars" src="https://img.shields.io/github/stars/zhangboyang/cve-2022-2601">
+
+---
 ## CVE-2022-2588 ()
 > 
 - [Markakd/CVE-2022-2588](https://github.com/Markakd/CVE-2022-2588)	<img alt="forks" src="https://img.shields.io/github/forks/Markakd/CVE-2022-2588">	<img alt="stars" src="https://img.shields.io/github/stars/Markakd/CVE-2022-2588">
