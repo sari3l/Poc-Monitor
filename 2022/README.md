@@ -1696,6 +1696,7 @@
 - [garySec/-CVE-2022-24637](https://github.com/garySec/-CVE-2022-24637)	<img alt="forks" src="https://img.shields.io/github/forks/garySec/-CVE-2022-24637">	<img alt="stars" src="https://img.shields.io/github/stars/garySec/-CVE-2022-24637">
 - [garySec/CVE-2022-24637](https://github.com/garySec/CVE-2022-24637)	<img alt="forks" src="https://img.shields.io/github/forks/garySec/CVE-2022-24637">	<img alt="stars" src="https://img.shields.io/github/stars/garySec/CVE-2022-24637">
 - [hupe1980/CVE-2022-24637](https://github.com/hupe1980/CVE-2022-24637)	<img alt="forks" src="https://img.shields.io/github/forks/hupe1980/CVE-2022-24637">	<img alt="stars" src="https://img.shields.io/github/stars/hupe1980/CVE-2022-24637">
+- [icebreack/CVE-2022-24637](https://github.com/icebreack/CVE-2022-24637)	<img alt="forks" src="https://img.shields.io/github/forks/icebreack/CVE-2022-24637">	<img alt="stars" src="https://img.shields.io/github/stars/icebreack/CVE-2022-24637">
 
 ---
 ## CVE-2022-24500 (2022-04-15T19:15:00)
