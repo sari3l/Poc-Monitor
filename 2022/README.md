@@ -863,6 +863,7 @@
 - [Blyth0He/CVE-2022-33679](https://github.com/Blyth0He/CVE-2022-33679)	<img alt="forks" src="https://img.shields.io/github/forks/Blyth0He/CVE-2022-33679">	<img alt="stars" src="https://img.shields.io/github/stars/Blyth0He/CVE-2022-33679">
 - [Amulab/CVE-2022-33679](https://github.com/Amulab/CVE-2022-33679)	<img alt="forks" src="https://img.shields.io/github/forks/Amulab/CVE-2022-33679">	<img alt="stars" src="https://img.shields.io/github/stars/Amulab/CVE-2022-33679">
 - [Bdenneu/CVE-2022-33679](https://github.com/Bdenneu/CVE-2022-33679)	<img alt="forks" src="https://img.shields.io/github/forks/Bdenneu/CVE-2022-33679">	<img alt="stars" src="https://img.shields.io/github/stars/Bdenneu/CVE-2022-33679">
+- [notareaperbutDR34P3r/Kerberos_CVE-2022-33679](https://github.com/notareaperbutDR34P3r/Kerberos_CVE-2022-33679)	<img alt="forks" src="https://img.shields.io/github/forks/notareaperbutDR34P3r/Kerberos_CVE-2022-33679">	<img alt="stars" src="https://img.shields.io/github/stars/notareaperbutDR34P3r/Kerberos_CVE-2022-33679">
 
 ---
 ## CVE-2022-33174 (2022-06-13T18:15:00)
