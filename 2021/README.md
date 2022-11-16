@@ -696,6 +696,20 @@
 ## CVE-2021-34473 (2021-07-14T18:15:00)
 > Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-31196, CVE-2021-31206.
 - [ipsBruno/CVE-2021-34473-NMAP-SCANNER](https://github.com/ipsBruno/CVE-2021-34473-NMAP-SCANNER)	<img alt="forks" src="https://img.shields.io/github/forks/ipsBruno/CVE-2021-34473-NMAP-SCANNER">	<img alt="stars" src="https://img.shields.io/github/stars/ipsBruno/CVE-2021-34473-NMAP-SCANNER">
+- [W01fh4cker/Serein](https://github.com/W01fh4cker/Serein)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/Serein">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/Serein">
+- [hosch3n/ProxyVulns](https://github.com/hosch3n/ProxyVulns)	<img alt="forks" src="https://img.shields.io/github/forks/hosch3n/ProxyVulns">	<img alt="stars" src="https://img.shields.io/github/stars/hosch3n/ProxyVulns">
+- [cyberheartmi9/Proxyshell-Scanner](https://github.com/cyberheartmi9/Proxyshell-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/cyberheartmi9/Proxyshell-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/cyberheartmi9/Proxyshell-Scanner">
+- [kh4sh3i/ProxyShell](https://github.com/kh4sh3i/ProxyShell)	<img alt="forks" src="https://img.shields.io/github/forks/kh4sh3i/ProxyShell">	<img alt="stars" src="https://img.shields.io/github/stars/kh4sh3i/ProxyShell">
+- [gobysec/GobyVuls](https://github.com/gobysec/GobyVuls)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/GobyVuls">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/GobyVuls">
+- [gobysec/Goby](https://github.com/gobysec/Goby)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/Goby">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/Goby">
+- [jrgdiaz/ProxyShell-CVE-2021-34473.py](https://github.com/jrgdiaz/ProxyShell-CVE-2021-34473.py)	<img alt="forks" src="https://img.shields.io/github/forks/jrgdiaz/ProxyShell-CVE-2021-34473.py">	<img alt="stars" src="https://img.shields.io/github/stars/jrgdiaz/ProxyShell-CVE-2021-34473.py">
+- [je6k/CVE-2021-34473-Exchange-ProxyShell](https://github.com/je6k/CVE-2021-34473-Exchange-ProxyShell)	<img alt="forks" src="https://img.shields.io/github/forks/je6k/CVE-2021-34473-Exchange-ProxyShell">	<img alt="stars" src="https://img.shields.io/github/stars/je6k/CVE-2021-34473-Exchange-ProxyShell">
+- [mithridates1313/ProxyShell_POC](https://github.com/mithridates1313/ProxyShell_POC)	<img alt="forks" src="https://img.shields.io/github/forks/mithridates1313/ProxyShell_POC">	<img alt="stars" src="https://img.shields.io/github/stars/mithridates1313/ProxyShell_POC">
+- [horizon3ai/proxyshell](https://github.com/horizon3ai/proxyshell)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/proxyshell">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/proxyshell">
+- [Udyz/proxyshell-auto](https://github.com/Udyz/proxyshell-auto)	<img alt="forks" src="https://img.shields.io/github/forks/Udyz/proxyshell-auto">	<img alt="stars" src="https://img.shields.io/github/stars/Udyz/proxyshell-auto">
+- [psc4re/NSE-scripts](https://github.com/psc4re/NSE-scripts)	<img alt="forks" src="https://img.shields.io/github/forks/psc4re/NSE-scripts">	<img alt="stars" src="https://img.shields.io/github/stars/psc4re/NSE-scripts">
+- [phamphuqui1998/CVE-2021-34473](https://github.com/phamphuqui1998/CVE-2021-34473)	<img alt="forks" src="https://img.shields.io/github/forks/phamphuqui1998/CVE-2021-34473">	<img alt="stars" src="https://img.shields.io/github/stars/phamphuqui1998/CVE-2021-34473">
+- [RaouzRouik/CVE-2021-34473-scanner](https://github.com/RaouzRouik/CVE-2021-34473-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/RaouzRouik/CVE-2021-34473-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/RaouzRouik/CVE-2021-34473-scanner">
 
 ---
 ## CVE-2021-31956 (2021-06-08T23:15:00)
