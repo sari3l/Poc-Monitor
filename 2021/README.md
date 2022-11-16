@@ -693,6 +693,11 @@
 - [hackerhouse-opensource/cve-2021-34527](https://github.com/hackerhouse-opensource/cve-2021-34527)	<img alt="forks" src="https://img.shields.io/github/forks/hackerhouse-opensource/cve-2021-34527">	<img alt="stars" src="https://img.shields.io/github/stars/hackerhouse-opensource/cve-2021-34527">
 
 ---
+## CVE-2021-34473 (2021-07-14T18:15:00)
+> Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-31196, CVE-2021-31206.
+- [ipsBruno/CVE-2021-34473-NMAP-SCANNER](https://github.com/ipsBruno/CVE-2021-34473-NMAP-SCANNER)	<img alt="forks" src="https://img.shields.io/github/forks/ipsBruno/CVE-2021-34473-NMAP-SCANNER">	<img alt="stars" src="https://img.shields.io/github/stars/ipsBruno/CVE-2021-34473-NMAP-SCANNER">
+
+---
 ## CVE-2021-31956 (2021-06-08T23:15:00)
 > Windows NTFS Elevation of Privilege Vulnerability
 - [Y3A/CVE-2021-31956](https://github.com/Y3A/CVE-2021-31956)	<img alt="forks" src="https://img.shields.io/github/forks/Y3A/CVE-2021-31956">	<img alt="stars" src="https://img.shields.io/github/stars/Y3A/CVE-2021-31956">
