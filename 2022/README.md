@@ -644,8 +644,8 @@
 - [afine-com/CVE-2022-36433](https://github.com/afine-com/CVE-2022-36433)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2022-36433">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2022-36433">
 
 ---
-## CVE-2022-36432 ()
-> 
+## CVE-2022-36432 (2022-11-17T05:15:00)
+> The Preview functionality in the Amasty Blog Pro 2.10.3 plugin for Magento 2 uses eval unsafely. This allows attackers to perform Cross-site Scripting attacks on admin panel users by manipulating the generated preview application response.
 - [afine-com/CVE-2022-36432](https://github.com/afine-com/CVE-2022-36432)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2022-36432">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2022-36432">
 
 ---
@@ -1677,6 +1677,7 @@
 - [XmasSnowISBACK/CVE-2022-24706](https://github.com/XmasSnowISBACK/CVE-2022-24706)	<img alt="forks" src="https://img.shields.io/github/forks/XmasSnowISBACK/CVE-2022-24706">	<img alt="stars" src="https://img.shields.io/github/stars/XmasSnowISBACK/CVE-2022-24706">
 - [sadshade/CVE-2022-24706-CouchDB-Exploit](https://github.com/sadshade/CVE-2022-24706-CouchDB-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sadshade/CVE-2022-24706-CouchDB-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sadshade/CVE-2022-24706-CouchDB-Exploit">
 - [trhacknon/CVE-2022-24706-CouchDB-Exploit](https://github.com/trhacknon/CVE-2022-24706-CouchDB-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-24706-CouchDB-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-24706-CouchDB-Exploit">
+- [LightningGod7/CVE-2022-24706-POC](https://github.com/LightningGod7/CVE-2022-24706-POC)	<img alt="forks" src="https://img.shields.io/github/forks/LightningGod7/CVE-2022-24706-POC">	<img alt="stars" src="https://img.shields.io/github/stars/LightningGod7/CVE-2022-24706-POC">
 
 ---
 ## CVE-2022-2466 (2022-08-31T16:15:00)
