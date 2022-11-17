@@ -1160,6 +1160,7 @@
 ## CVE-2022-30525 (2022-05-12T14:15:00)
 > A OS command injection vulnerability in the CGI program of Zyxel USG FLEX 100(W) firmware versions 5.00 through 5.21 Patch 1, USG FLEX 200 firmware versions 5.00 through 5.21 Patch 1, USG FLEX 500 firmware versions 5.00 through 5.21 Patch 1, USG FLEX 700 firmware versions 5.00 through 5.21 Patch 1, USG FLEX 50(W) firmware versions 5.10 through 5.21 Patch 1, USG20(W)-VPN firmware versions 5.10 through 5.21 Patch 1, ATP series firmware versions 5.10 through 5.21 Patch 1, VPN series firmware versions 4.60 through 5.21 Patch 1, which could allow an attacker to modify specific files and then execute some OS commands on a vulnerable device.
 - [ProngedFork/CVE-2022-30525](https://github.com/ProngedFork/CVE-2022-30525)	<img alt="forks" src="https://img.shields.io/github/forks/ProngedFork/CVE-2022-30525">	<img alt="stars" src="https://img.shields.io/github/stars/ProngedFork/CVE-2022-30525">
+- [trhacknon/CVE-2022-30525-Reverse-Shell](https://github.com/trhacknon/CVE-2022-30525-Reverse-Shell)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-30525-Reverse-Shell">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-30525-Reverse-Shell">
 
 ---
 ## CVE-2022-30507 ()
