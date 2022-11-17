@@ -855,6 +855,7 @@
 - [M3l0nPan/wordpress-cve-2021-29447](https://github.com/M3l0nPan/wordpress-cve-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/M3l0nPan/wordpress-cve-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/M3l0nPan/wordpress-cve-2021-29447">
 - [mega8bit/exploit_cve-2021-29447](https://github.com/mega8bit/exploit_cve-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/mega8bit/exploit_cve-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/mega8bit/exploit_cve-2021-29447">
 - [thomas-osgood/CVE-2021-29447](https://github.com/thomas-osgood/CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/thomas-osgood/CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/thomas-osgood/CVE-2021-29447">
+- [Abdulazizalsewedy/CVE-2021-29447](https://github.com/Abdulazizalsewedy/CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/Abdulazizalsewedy/CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/Abdulazizalsewedy/CVE-2021-29447">
 
 ---
 ## CVE-2021-29156 (2021-03-25T09:15:00)
