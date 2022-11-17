@@ -77,6 +77,7 @@
 - [lucasallan/CVE-2020-8163](https://github.com/lucasallan/CVE-2020-8163)	<img alt="forks" src="https://img.shields.io/github/forks/lucasallan/CVE-2020-8163">	<img alt="stars" src="https://img.shields.io/github/stars/lucasallan/CVE-2020-8163">
 - [TKLinux966/CVE-2020-8163](https://github.com/TKLinux966/CVE-2020-8163)	<img alt="forks" src="https://img.shields.io/github/forks/TKLinux966/CVE-2020-8163">	<img alt="stars" src="https://img.shields.io/github/stars/TKLinux966/CVE-2020-8163">
 - [h4ms1k/CVE-2020-8163](https://github.com/h4ms1k/CVE-2020-8163)	<img alt="forks" src="https://img.shields.io/github/forks/h4ms1k/CVE-2020-8163">	<img alt="stars" src="https://img.shields.io/github/stars/h4ms1k/CVE-2020-8163">
+- [qazbnm456/CVE-2020-8163](https://github.com/qazbnm456/CVE-2020-8163)	<img alt="forks" src="https://img.shields.io/github/forks/qazbnm456/CVE-2020-8163">	<img alt="stars" src="https://img.shields.io/github/stars/qazbnm456/CVE-2020-8163">
 
 ---
 ## CVE-2020-7473 (2020-05-07T14:15:00)
