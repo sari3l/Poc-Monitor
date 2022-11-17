@@ -546,8 +546,8 @@
 - [zwjjustdoit/Xstream-1.4.17](https://github.com/zwjjustdoit/Xstream-1.4.17)	<img alt="forks" src="https://img.shields.io/github/forks/zwjjustdoit/Xstream-1.4.17">	<img alt="stars" src="https://img.shields.io/github/stars/zwjjustdoit/Xstream-1.4.17">
 
 ---
-## CVE-2021-38819 ()
-> 
+## CVE-2021-38819 (2022-11-17T00:15:00)
+> A SQL injection vulnerability exits on the Simple Image Gallery System 1.0 application through "id" parameter on the album page.
 - [m4sk0ff/CVE-2021-38819](https://github.com/m4sk0ff/CVE-2021-38819)	<img alt="forks" src="https://img.shields.io/github/forks/m4sk0ff/CVE-2021-38819">	<img alt="stars" src="https://img.shields.io/github/stars/m4sk0ff/CVE-2021-38819">
 
 ---
