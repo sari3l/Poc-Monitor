@@ -270,8 +270,8 @@
 - [whitej3rry/CVE-2022-40916](https://github.com/whitej3rry/CVE-2022-40916)	<img alt="forks" src="https://img.shields.io/github/forks/whitej3rry/CVE-2022-40916">	<img alt="stars" src="https://img.shields.io/github/stars/whitej3rry/CVE-2022-40916">
 
 ---
-## CVE-2022-40687 ()
-> 
+## CVE-2022-40687 (2022-11-18T19:15:00)
+> Cross-Site Request Forgery (CSRF) vulnerability in Creative Mail plugin <= 1.5.4 on WordPress.
 - [williamkhepri/CVE-2022-40687-metasploit-scanner](https://github.com/williamkhepri/CVE-2022-40687-metasploit-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/williamkhepri/CVE-2022-40687-metasploit-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/williamkhepri/CVE-2022-40687-metasploit-scanner">
 
 ---
