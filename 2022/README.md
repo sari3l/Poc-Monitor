@@ -360,6 +360,11 @@
 - [mr-r3b00t/NotProxyShellHunter](https://github.com/mr-r3b00t/NotProxyShellHunter)	<img alt="forks" src="https://img.shields.io/github/forks/mr-r3b00t/NotProxyShellHunter">	<img alt="stars" src="https://img.shields.io/github/stars/mr-r3b00t/NotProxyShellHunter">
 
 ---
+## CVE-2022-40127 (2022-11-14T10:15:00)
+> A vulnerability in Example Dags of Apache Airflow allows an attacker with UI access who can trigger DAGs, to execute arbitrary commands via manually provided run_id parameter. This issue affects Apache Airflow Apache Airflow versions prior to 2.4.0.
+- [Mr-xn/CVE-2022-40127](https://github.com/Mr-xn/CVE-2022-40127)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2022-40127">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2022-40127">
+
+---
 ## CVE-2022-40126 (2022-09-29T12:15:00)
 > A misconfiguration in the Service Mode profile directory of Clash for Windows v0.19.9 allows attackers to escalate privileges and execute arbitrary commands when Service Mode is activated.
 - [LovelyWei/CVE-2022-40126](https://github.com/LovelyWei/CVE-2022-40126)	<img alt="forks" src="https://img.shields.io/github/forks/LovelyWei/CVE-2022-40126">	<img alt="stars" src="https://img.shields.io/github/stars/LovelyWei/CVE-2022-40126">
