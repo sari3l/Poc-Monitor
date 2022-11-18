@@ -323,7 +323,7 @@
 - [Undefind404/cve_2021_41773](https://github.com/Undefind404/cve_2021_41773)	<img alt="forks" src="https://img.shields.io/github/forks/Undefind404/cve_2021_41773">	<img alt="stars" src="https://img.shields.io/github/stars/Undefind404/cve_2021_41773">
 - [noflowpls/CVE-2021-41773](https://github.com/noflowpls/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/noflowpls/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/noflowpls/CVE-2021-41773">
 - [WebApache/CVE-2021-41773-Apache-RCE](https://github.com/WebApache/CVE-2021-41773-Apache-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/WebApache/CVE-2021-41773-Apache-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/WebApache/CVE-2021-41773-Apache-RCE">
-- [Adamanti1/CVE-2021-41773-Vulnerable-service](https://github.com/Adamanti1/CVE-2021-41773-Vulnerable-service)	<img alt="forks" src="https://img.shields.io/github/forks/Adamanti1/CVE-2021-41773-Vulnerable-service">	<img alt="stars" src="https://img.shields.io/github/stars/Adamanti1/CVE-2021-41773-Vulnerable-service">
+- [Adamanti1/CVE-2021-41773_Vulnerable-service](https://github.com/Adamanti1/CVE-2021-41773_Vulnerable-service)	<img alt="forks" src="https://img.shields.io/github/forks/Adamanti1/CVE-2021-41773_Vulnerable-service">	<img alt="stars" src="https://img.shields.io/github/stars/Adamanti1/CVE-2021-41773_Vulnerable-service">
 
 ---
 ## CVE-2021-41652 (2022-03-01T23:15:00)
