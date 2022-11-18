@@ -263,6 +263,10 @@
 - [mightysai1997/cve-2021-42013](https://github.com/mightysai1997/cve-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/mightysai1997/cve-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/mightysai1997/cve-2021-42013">
 - [mightysai1997/cve-2021-42013L](https://github.com/mightysai1997/cve-2021-42013L)	<img alt="forks" src="https://img.shields.io/github/forks/mightysai1997/cve-2021-42013L">	<img alt="stars" src="https://img.shields.io/github/stars/mightysai1997/cve-2021-42013L">
 - [mightysai1997/cve-2021-42013.get](https://github.com/mightysai1997/cve-2021-42013.get)	<img alt="forks" src="https://img.shields.io/github/forks/mightysai1997/cve-2021-42013.get">	<img alt="stars" src="https://img.shields.io/github/stars/mightysai1997/cve-2021-42013.get">
+- [12345qwert123456/CVE-2021-42013](https://github.com/12345qwert123456/CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/12345qwert123456/CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/12345qwert123456/CVE-2021-42013">
+- [CLincat/vulcat](https://github.com/CLincat/vulcat)	<img alt="forks" src="https://img.shields.io/github/forks/CLincat/vulcat">	<img alt="stars" src="https://img.shields.io/github/stars/CLincat/vulcat">
+- [juuso0/CVE-2021-41773](https://github.com/juuso0/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/juuso0/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/juuso0/CVE-2021-41773">
+- [sne4ker/apache-CVE-2021-41773-CVE-2021-42013](https://github.com/sne4ker/apache-CVE-2021-41773-CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/sne4ker/apache-CVE-2021-41773-CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/sne4ker/apache-CVE-2021-41773-CVE-2021-42013">
 
 ---
 ## CVE-2021-41946 (2022-05-18T11:15:00)
@@ -323,7 +327,7 @@
 - [Undefind404/cve_2021_41773](https://github.com/Undefind404/cve_2021_41773)	<img alt="forks" src="https://img.shields.io/github/forks/Undefind404/cve_2021_41773">	<img alt="stars" src="https://img.shields.io/github/stars/Undefind404/cve_2021_41773">
 - [noflowpls/CVE-2021-41773](https://github.com/noflowpls/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/noflowpls/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/noflowpls/CVE-2021-41773">
 - [WebApache/CVE-2021-41773-Apache-RCE](https://github.com/WebApache/CVE-2021-41773-Apache-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/WebApache/CVE-2021-41773-Apache-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/WebApache/CVE-2021-41773-Apache-RCE">
-- [12345qwert123456/CVE-2021-41773_Vulnerable-service](https://github.com/12345qwert123456/CVE-2021-41773_Vulnerable-service)	<img alt="forks" src="https://img.shields.io/github/forks/12345qwert123456/CVE-2021-41773_Vulnerable-service">	<img alt="stars" src="https://img.shields.io/github/stars/12345qwert123456/CVE-2021-41773_Vulnerable-service">
+- [12345qwert123456/CVE-2021-41773](https://github.com/12345qwert123456/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/12345qwert123456/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/12345qwert123456/CVE-2021-41773">
 
 ---
 ## CVE-2021-41652 (2022-03-01T23:15:00)
