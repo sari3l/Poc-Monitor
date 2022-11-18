@@ -48,8 +48,8 @@
 - [secware-ru/CVE-2022-43959](https://github.com/secware-ru/CVE-2022-43959)	<img alt="forks" src="https://img.shields.io/github/forks/secware-ru/CVE-2022-43959">	<img alt="stars" src="https://img.shields.io/github/stars/secware-ru/CVE-2022-43959">
 
 ---
-## CVE-2022-43332 ()
-> 
+## CVE-2022-43332 (2022-11-17T23:15:00)
+> A cross-site scripting (XSS) vulnerability in Wondercms v3.3.4 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Site title field of the Configuration Panel.
 - [maikroservice/CVE-2022-43332](https://github.com/maikroservice/CVE-2022-43332)	<img alt="forks" src="https://img.shields.io/github/forks/maikroservice/CVE-2022-43332">	<img alt="stars" src="https://img.shields.io/github/stars/maikroservice/CVE-2022-43332">
 
 ---
@@ -58,8 +58,8 @@
 - [mudassiruddin/CVE-2022-43144-Stored-XSS](https://github.com/mudassiruddin/CVE-2022-43144-Stored-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/mudassiruddin/CVE-2022-43144-Stored-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/mudassiruddin/CVE-2022-43144-Stored-XSS">
 
 ---
-## CVE-2022-43096 ()
-> 
+## CVE-2022-43096 (2022-11-17T23:15:00)
+> Mediatrix 4102 before v48.5.2718 allows local attackers to gain root access via the UART port.
 - [ProxyStaffy/Mediatrix-CVE-2022-43096](https://github.com/ProxyStaffy/Mediatrix-CVE-2022-43096)	<img alt="forks" src="https://img.shields.io/github/forks/ProxyStaffy/Mediatrix-CVE-2022-43096">	<img alt="stars" src="https://img.shields.io/github/stars/ProxyStaffy/Mediatrix-CVE-2022-43096">
 
 ---

@@ -192,6 +192,11 @@
 - [swzhouu/CVE-2020-27368](https://github.com/swzhouu/CVE-2020-27368)	<img alt="forks" src="https://img.shields.io/github/forks/swzhouu/CVE-2020-27368">	<img alt="stars" src="https://img.shields.io/github/stars/swzhouu/CVE-2020-27368">
 
 ---
+## CVE-2020-27199 (2020-12-17T05:15:00)
+> The Magic Home Pro application 1.5.1 for Android allows Authentication Bypass. The security control that the application currently has in place is a simple Username and Password authentication function. Using enumeration, an attacker is able to forge a User specific token without the need for correct password to gain access to the mobile application as that victim user.
+- [9lyph/CVE-2020-27199](https://github.com/9lyph/CVE-2020-27199)	<img alt="forks" src="https://img.shields.io/github/forks/9lyph/CVE-2020-27199">	<img alt="stars" src="https://img.shields.io/github/stars/9lyph/CVE-2020-27199">
+
+---
 ## CVE-2020-26878 (2020-10-26T20:15:00)
 > Ruckus through 1.5.1.0.21 is affected by remote command injection. An authenticated user can submit a query to the API (/service/v1/createUser endpoint), injecting arbitrary commands that will be executed as root user via web.py.
 - [htarsoo/CVE-2020-26878](https://github.com/htarsoo/CVE-2020-26878)	<img alt="forks" src="https://img.shields.io/github/forks/htarsoo/CVE-2020-26878">	<img alt="stars" src="https://img.shields.io/github/stars/htarsoo/CVE-2020-26878">
