@@ -770,6 +770,11 @@
 - [Louzogh/CVE-2021-31800](https://github.com/Louzogh/CVE-2021-31800)	<img alt="forks" src="https://img.shields.io/github/forks/Louzogh/CVE-2021-31800">	<img alt="stars" src="https://img.shields.io/github/stars/Louzogh/CVE-2021-31800">
 
 ---
+## CVE-2021-3166 (2021-01-18T05:15:00)
+> An issue was discovered on ASUS DSL-N14U-B1 1.1.2.3_805 devices. An attacker can upload arbitrary file content as a firmware update when the filename Settings_DSL-N14U-B1.trx is used. Once this file is loaded, shutdown measures on a wide range of services are triggered as if it were a real update, resulting in a persistent outage of those services.
+- [kaisersource/CVE-2021-3166](https://github.com/kaisersource/CVE-2021-3166)	<img alt="forks" src="https://img.shields.io/github/forks/kaisersource/CVE-2021-3166">	<img alt="stars" src="https://img.shields.io/github/stars/kaisersource/CVE-2021-3166">
+
+---
 ## CVE-2021-3156 (2021-01-26T21:15:00)
 > Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via "sudoedit -s" and a command-line argument that ends with a single backslash character.
 - [arvindshima/CVE-2021-3156](https://github.com/arvindshima/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/arvindshima/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/arvindshima/CVE-2021-3156">
