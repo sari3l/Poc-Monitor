@@ -23,6 +23,7 @@
 - [Unix13/metasploitable2](https://github.com/Unix13/metasploitable2)	<img alt="forks" src="https://img.shields.io/github/forks/Unix13/metasploitable2">	<img alt="stars" src="https://img.shields.io/github/stars/Unix13/metasploitable2">
 - [tardummy01/oscp_scripts-1](https://github.com/tardummy01/oscp_scripts-1)	<img alt="forks" src="https://img.shields.io/github/forks/tardummy01/oscp_scripts-1">	<img alt="stars" src="https://img.shields.io/github/stars/tardummy01/oscp_scripts-1">
 - [drone789/CVE-2012-1823](https://github.com/drone789/CVE-2012-1823)	<img alt="forks" src="https://img.shields.io/github/forks/drone789/CVE-2012-1823">	<img alt="stars" src="https://img.shields.io/github/stars/drone789/CVE-2012-1823">
+- [daai1/CVE-2012-1823](https://github.com/daai1/CVE-2012-1823)	<img alt="forks" src="https://img.shields.io/github/forks/daai1/CVE-2012-1823">	<img alt="stars" src="https://img.shields.io/github/stars/daai1/CVE-2012-1823">
 
 ---
 ## CVE-2012-0158 (2012-04-10T21:55:00)
