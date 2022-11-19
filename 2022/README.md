@@ -375,6 +375,11 @@
 - [usmarine2141/CVE-2022-39959](https://github.com/usmarine2141/CVE-2022-39959)	<img alt="forks" src="https://img.shields.io/github/forks/usmarine2141/CVE-2022-39959">	<img alt="stars" src="https://img.shields.io/github/stars/usmarine2141/CVE-2022-39959">
 
 ---
+## CVE-2022-3992 (2022-11-14T17:15:00)
+> A vulnerability classified as problematic was found in SourceCodester Sanitization Management System. Affected by this vulnerability is an unknown functionality of the file admin/?page=system_info of the component Banner Image Handler. The manipulation leads to cross site scripting. The attack can be launched remotely. The associated identifier of this vulnerability is VDB-213571.
+- [Urban4/CVE-2022-3992](https://github.com/Urban4/CVE-2022-3992)	<img alt="forks" src="https://img.shields.io/github/forks/Urban4/CVE-2022-3992">	<img alt="stars" src="https://img.shields.io/github/stars/Urban4/CVE-2022-3992">
+
+---
 ## CVE-2022-39841 ()
 > 
 - [stealthcopter/CVE-2022-39841](https://github.com/stealthcopter/CVE-2022-39841)	<img alt="forks" src="https://img.shields.io/github/forks/stealthcopter/CVE-2022-39841">	<img alt="stars" src="https://img.shields.io/github/stars/stealthcopter/CVE-2022-39841">
