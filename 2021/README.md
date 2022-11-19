@@ -105,6 +105,7 @@
 - [avwolferen/Sitecore.Solr-log4j-mitigation](https://github.com/avwolferen/Sitecore.Solr-log4j-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/avwolferen/Sitecore.Solr-log4j-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/avwolferen/Sitecore.Solr-log4j-mitigation">
 - [srcporter/CVE-2021-44228](https://github.com/srcporter/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/srcporter/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/srcporter/CVE-2021-44228">
 - [trhacknon/CVE-2021-44228-Scanner](https://github.com/trhacknon/CVE-2021-44228-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2021-44228-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2021-44228-Scanner">
+- [TPower2112/Writing-Sample-1](https://github.com/TPower2112/Writing-Sample-1)	<img alt="forks" src="https://img.shields.io/github/forks/TPower2112/Writing-Sample-1">	<img alt="stars" src="https://img.shields.io/github/stars/TPower2112/Writing-Sample-1">
 
 ---
 ## CVE-2021-44158 (2022-01-03T10:15:00)
