@@ -229,6 +229,7 @@
 - [HACHp1/webmin_docker_and_exp](https://github.com/HACHp1/webmin_docker_and_exp)	<img alt="forks" src="https://img.shields.io/github/forks/HACHp1/webmin_docker_and_exp">	<img alt="stars" src="https://img.shields.io/github/stars/HACHp1/webmin_docker_and_exp">
 - [TheAlpha19/MiniExploit](https://github.com/TheAlpha19/MiniExploit)	<img alt="forks" src="https://img.shields.io/github/forks/TheAlpha19/MiniExploit">	<img alt="stars" src="https://img.shields.io/github/stars/TheAlpha19/MiniExploit">
 - [jas502n/CVE-2019-15107](https://github.com/jas502n/CVE-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2019-15107">
+- [kh4sh3i/Webmin-CVE](https://github.com/kh4sh3i/Webmin-CVE)	<img alt="forks" src="https://img.shields.io/github/forks/kh4sh3i/Webmin-CVE">	<img alt="stars" src="https://img.shields.io/github/stars/kh4sh3i/Webmin-CVE">
 
 ---
 ## CVE-2019-14287 (2019-10-17T18:15:00)
