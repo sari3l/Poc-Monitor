@@ -2468,6 +2468,7 @@
 - [badboy-sft/Dirty-Pipe-Oneshot](https://github.com/badboy-sft/Dirty-Pipe-Oneshot)	<img alt="forks" src="https://img.shields.io/github/forks/badboy-sft/Dirty-Pipe-Oneshot">	<img alt="stars" src="https://img.shields.io/github/stars/badboy-sft/Dirty-Pipe-Oneshot">
 - [Z3R0W4R3/CVE-2022-0847-DirtyPipe-Exploits](https://github.com/Z3R0W4R3/CVE-2022-0847-DirtyPipe-Exploits)	<img alt="forks" src="https://img.shields.io/github/forks/Z3R0W4R3/CVE-2022-0847-DirtyPipe-Exploits">	<img alt="stars" src="https://img.shields.io/github/stars/Z3R0W4R3/CVE-2022-0847-DirtyPipe-Exploits">
 - [siholley/CVE-2022-0847-Dirty-Pipe-Vulnerability-](https://github.com/siholley/CVE-2022-0847-Dirty-Pipe-Vulnerability-)	<img alt="forks" src="https://img.shields.io/github/forks/siholley/CVE-2022-0847-Dirty-Pipe-Vulnerability-">	<img alt="stars" src="https://img.shields.io/github/stars/siholley/CVE-2022-0847-Dirty-Pipe-Vulnerability-">
+- [Turzum/ps-lab-cve-2022-0847](https://github.com/Turzum/ps-lab-cve-2022-0847)	<img alt="forks" src="https://img.shields.io/github/forks/Turzum/ps-lab-cve-2022-0847">	<img alt="stars" src="https://img.shields.io/github/stars/Turzum/ps-lab-cve-2022-0847">
 
 ---
 ## CVE-2022-0824 (2022-03-02T12:15:00)
