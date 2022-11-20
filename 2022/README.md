@@ -750,6 +750,11 @@
 - [afine-com/CVE-2022-35500](https://github.com/afine-com/CVE-2022-35500)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2022-35500">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2022-35500">
 
 ---
+## CVE-2022-3546 (2022-10-17T12:15:00)
+> A vulnerability was found in SourceCodester Simple Cold Storage Management System 1.0 and classified as problematic. Affected by this issue is some unknown functionality of the file /csms/admin/?page=user/list of the component Create User Handler. The manipulation of the argument First Name/Last Name leads to cross site scripting. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. VDB-211046 is the identifier assigned to this vulnerability.
+- [thehackingverse/CVE-2022-3546](https://github.com/thehackingverse/CVE-2022-3546)	<img alt="forks" src="https://img.shields.io/github/forks/thehackingverse/CVE-2022-3546">	<img alt="stars" src="https://img.shields.io/github/stars/thehackingverse/CVE-2022-3546">
+
+---
 ## CVE-2022-35416 (2022-07-11T03:15:00)
 > H3C SSL VPN through 2022-07-10 allows wnm/login/login.json svpnlang cookie XSS.
 - [safe3s/CVE-2022-35416](https://github.com/safe3s/CVE-2022-35416)	<img alt="forks" src="https://img.shields.io/github/forks/safe3s/CVE-2022-35416">	<img alt="stars" src="https://img.shields.io/github/stars/safe3s/CVE-2022-35416">
