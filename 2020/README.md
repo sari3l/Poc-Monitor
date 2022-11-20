@@ -252,6 +252,11 @@
 - [mansoorr123/wp-file-manager-CVE-2020-25213](https://github.com/mansoorr123/wp-file-manager-CVE-2020-25213)	<img alt="forks" src="https://img.shields.io/github/forks/mansoorr123/wp-file-manager-CVE-2020-25213">	<img alt="stars" src="https://img.shields.io/github/stars/mansoorr123/wp-file-manager-CVE-2020-25213">
 
 ---
+## CVE-2020-23585 ()
+> 
+- [huzaifahussain98/CVE-2020-23585](https://github.com/huzaifahussain98/CVE-2020-23585)	<img alt="forks" src="https://img.shields.io/github/forks/huzaifahussain98/CVE-2020-23585">	<img alt="stars" src="https://img.shields.io/github/stars/huzaifahussain98/CVE-2020-23585">
+
+---
 ## CVE-2020-23584 ()
 > 
 - [huzaifahussain98/CVE-2020-23584](https://github.com/huzaifahussain98/CVE-2020-23584)	<img alt="forks" src="https://img.shields.io/github/forks/huzaifahussain98/CVE-2020-23584">	<img alt="stars" src="https://img.shields.io/github/stars/huzaifahussain98/CVE-2020-23584">
