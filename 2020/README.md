@@ -252,6 +252,46 @@
 - [mansoorr123/wp-file-manager-CVE-2020-25213](https://github.com/mansoorr123/wp-file-manager-CVE-2020-25213)	<img alt="forks" src="https://img.shields.io/github/forks/mansoorr123/wp-file-manager-CVE-2020-25213">	<img alt="stars" src="https://img.shields.io/github/stars/mansoorr123/wp-file-manager-CVE-2020-25213">
 
 ---
+## CVE-2020-23593 ()
+> 
+- [huzaifahussain98/CVE-2020-23593](https://github.com/huzaifahussain98/CVE-2020-23593)	<img alt="forks" src="https://img.shields.io/github/forks/huzaifahussain98/CVE-2020-23593">	<img alt="stars" src="https://img.shields.io/github/stars/huzaifahussain98/CVE-2020-23593">
+
+---
+## CVE-2020-23592 ()
+> 
+- [huzaifahussain98/CVE-2020-23592](https://github.com/huzaifahussain98/CVE-2020-23592)	<img alt="forks" src="https://img.shields.io/github/forks/huzaifahussain98/CVE-2020-23592">	<img alt="stars" src="https://img.shields.io/github/stars/huzaifahussain98/CVE-2020-23592">
+
+---
+## CVE-2020-23591 ()
+> 
+- [huzaifahussain98/CVE-2020-23591](https://github.com/huzaifahussain98/CVE-2020-23591)	<img alt="forks" src="https://img.shields.io/github/forks/huzaifahussain98/CVE-2020-23591">	<img alt="stars" src="https://img.shields.io/github/stars/huzaifahussain98/CVE-2020-23591">
+
+---
+## CVE-2020-23590 ()
+> 
+- [huzaifahussain98/CVE-2020-23590](https://github.com/huzaifahussain98/CVE-2020-23590)	<img alt="forks" src="https://img.shields.io/github/forks/huzaifahussain98/CVE-2020-23590">	<img alt="stars" src="https://img.shields.io/github/stars/huzaifahussain98/CVE-2020-23590">
+
+---
+## CVE-2020-23589 ()
+> 
+- [huzaifahussain98/CVE-2020-23589](https://github.com/huzaifahussain98/CVE-2020-23589)	<img alt="forks" src="https://img.shields.io/github/forks/huzaifahussain98/CVE-2020-23589">	<img alt="stars" src="https://img.shields.io/github/stars/huzaifahussain98/CVE-2020-23589">
+
+---
+## CVE-2020-23588 ()
+> 
+- [huzaifahussain98/CVE-2020-23588](https://github.com/huzaifahussain98/CVE-2020-23588)	<img alt="forks" src="https://img.shields.io/github/forks/huzaifahussain98/CVE-2020-23588">	<img alt="stars" src="https://img.shields.io/github/stars/huzaifahussain98/CVE-2020-23588">
+
+---
+## CVE-2020-23587 ()
+> 
+- [huzaifahussain98/CVE-2020-23587](https://github.com/huzaifahussain98/CVE-2020-23587)	<img alt="forks" src="https://img.shields.io/github/forks/huzaifahussain98/CVE-2020-23587">	<img alt="stars" src="https://img.shields.io/github/stars/huzaifahussain98/CVE-2020-23587">
+
+---
+## CVE-2020-23586 ()
+> 
+- [huzaifahussain98/CVE-2020-23586](https://github.com/huzaifahussain98/CVE-2020-23586)	<img alt="forks" src="https://img.shields.io/github/forks/huzaifahussain98/CVE-2020-23586">	<img alt="stars" src="https://img.shields.io/github/stars/huzaifahussain98/CVE-2020-23586">
+
+---
 ## CVE-2020-23585 ()
 > 
 - [huzaifahussain98/CVE-2020-23585](https://github.com/huzaifahussain98/CVE-2020-23585)	<img alt="forks" src="https://img.shields.io/github/forks/huzaifahussain98/CVE-2020-23585">	<img alt="stars" src="https://img.shields.io/github/stars/huzaifahussain98/CVE-2020-23585">
