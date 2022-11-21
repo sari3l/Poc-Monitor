@@ -43,8 +43,8 @@
 - [Udyz/CVE-2022-0847](https://github.com/Udyz/CVE-2022-0847)	<img alt="forks" src="https://img.shields.io/github/forks/Udyz/CVE-2022-0847">	<img alt="stars" src="https://img.shields.io/github/stars/Udyz/CVE-2022-0847">
 
 ---
-## CVE-2022-44830 ()
-> 
+## CVE-2022-44830 (2022-11-21T18:15:00)
+> Sourcecodester Event Registration App v1.0 was discovered to contain multiple CSV injection vulnerabilities via the First Name, Contact and Remarks fields. These vulnerabilities allow attackers to execute arbitrary code via a crafted excel file.
 - [RashidKhanPathan/CVE-2022-44830](https://github.com/RashidKhanPathan/CVE-2022-44830)	<img alt="forks" src="https://img.shields.io/github/forks/RashidKhanPathan/CVE-2022-44830">	<img alt="stars" src="https://img.shields.io/github/stars/RashidKhanPathan/CVE-2022-44830">
 
 ---
@@ -63,8 +63,8 @@
 - [mudassiruddin/CVE-2022-43144-Stored-XSS](https://github.com/mudassiruddin/CVE-2022-43144-Stored-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/mudassiruddin/CVE-2022-43144-Stored-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/mudassiruddin/CVE-2022-43144-Stored-XSS">
 
 ---
-## CVE-2022-43117 ()
-> 
+## CVE-2022-43117 (2022-11-21T18:15:00)
+> Sourcecodester Password Storage Application in PHP/OOP and MySQL 1.0 was discovered to contain multiple cross-site scripting (XSS) vulnerabilities via the Name, Username, Description and Site Feature parameters.
 - [RashidKhanPathan/CVE-2022-43117](https://github.com/RashidKhanPathan/CVE-2022-43117)	<img alt="forks" src="https://img.shields.io/github/forks/RashidKhanPathan/CVE-2022-43117">	<img alt="stars" src="https://img.shields.io/github/stars/RashidKhanPathan/CVE-2022-43117">
 
 ---
@@ -1980,6 +1980,7 @@
 - [Vulnmachines/VMWare_CVE-2022-22954](https://github.com/Vulnmachines/VMWare_CVE-2022-22954)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/VMWare_CVE-2022-22954">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/VMWare_CVE-2022-22954">
 - [trhacknon/CVE-2022-22954_](https://github.com/trhacknon/CVE-2022-22954_)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-22954_">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-22954_">
 - [lolminerxmrig/CVE-2022-22954_](https://github.com/lolminerxmrig/CVE-2022-22954_)	<img alt="forks" src="https://img.shields.io/github/forks/lolminerxmrig/CVE-2022-22954_">	<img alt="stars" src="https://img.shields.io/github/stars/lolminerxmrig/CVE-2022-22954_">
+- [Jhonsonwannaa/CVE-2022-22954](https://github.com/Jhonsonwannaa/CVE-2022-22954)	<img alt="forks" src="https://img.shields.io/github/forks/Jhonsonwannaa/CVE-2022-22954">	<img alt="stars" src="https://img.shields.io/github/stars/Jhonsonwannaa/CVE-2022-22954">
 
 ---
 ## CVE-2022-22947 (2022-03-03T22:15:00)
