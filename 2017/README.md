@@ -14,6 +14,7 @@
 - [mbrasile/CVE-2017-9841](https://github.com/mbrasile/CVE-2017-9841)	<img alt="forks" src="https://img.shields.io/github/forks/mbrasile/CVE-2017-9841">	<img alt="stars" src="https://img.shields.io/github/stars/mbrasile/CVE-2017-9841">
 - [yoloskr/CVE-2017-9841-Scan](https://github.com/yoloskr/CVE-2017-9841-Scan)	<img alt="forks" src="https://img.shields.io/github/forks/yoloskr/CVE-2017-9841-Scan">	<img alt="stars" src="https://img.shields.io/github/stars/yoloskr/CVE-2017-9841-Scan">
 - [Jhonsonwannaa/CVE-2017-9841-](https://github.com/Jhonsonwannaa/CVE-2017-9841-)	<img alt="forks" src="https://img.shields.io/github/forks/Jhonsonwannaa/CVE-2017-9841-">	<img alt="stars" src="https://img.shields.io/github/stars/Jhonsonwannaa/CVE-2017-9841-">
+- [mileticluka1/eval-stdin](https://github.com/mileticluka1/eval-stdin)	<img alt="forks" src="https://img.shields.io/github/forks/mileticluka1/eval-stdin">	<img alt="stars" src="https://img.shields.io/github/stars/mileticluka1/eval-stdin">
 
 ---
 ## CVE-2017-9805 (2017-09-15T19:29:00)
