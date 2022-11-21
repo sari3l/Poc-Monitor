@@ -179,6 +179,7 @@
 > An issue was discovered in Zimbra Collaboration (ZCS) 8.8.15 and 9.0. An attacker can upload arbitrary files through amavisd via a cpio loophole (extraction to /opt/zimbra/jetty/webapps/zimbra/public) that can lead to incorrect access to any other user accounts. Zimbra recommends pax over cpio. Also, pax is in the prerequisites of Zimbra on Ubuntu; however, pax is no longer part of a default Red Hat installation after RHEL 6 (or CentOS 6). Once pax is installed, amavisd automatically prefers it over cpio.
 - [segfault-it/cve-2022-41352](https://github.com/segfault-it/cve-2022-41352)	<img alt="forks" src="https://img.shields.io/github/forks/segfault-it/cve-2022-41352">	<img alt="stars" src="https://img.shields.io/github/stars/segfault-it/cve-2022-41352">
 - [Cr4ckC4t/cve-2022-41352-zimbra-rce](https://github.com/Cr4ckC4t/cve-2022-41352-zimbra-rce)	<img alt="forks" src="https://img.shields.io/github/forks/Cr4ckC4t/cve-2022-41352-zimbra-rce">	<img alt="stars" src="https://img.shields.io/github/stars/Cr4ckC4t/cve-2022-41352-zimbra-rce">
+- [aryrz/cve-2022-41352-zimbra-rce](https://github.com/aryrz/cve-2022-41352-zimbra-rce)	<img alt="forks" src="https://img.shields.io/github/forks/aryrz/cve-2022-41352-zimbra-rce">	<img alt="stars" src="https://img.shields.io/github/stars/aryrz/cve-2022-41352-zimbra-rce">
 
 ---
 ## CVE-2022-41218 (2022-09-21T07:15:00)
