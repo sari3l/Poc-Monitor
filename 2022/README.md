@@ -1981,6 +1981,9 @@
 - [trhacknon/CVE-2022-22954_](https://github.com/trhacknon/CVE-2022-22954_)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-22954_">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-22954_">
 - [lolminerxmrig/CVE-2022-22954_](https://github.com/lolminerxmrig/CVE-2022-22954_)	<img alt="forks" src="https://img.shields.io/github/forks/lolminerxmrig/CVE-2022-22954_">	<img alt="stars" src="https://img.shields.io/github/stars/lolminerxmrig/CVE-2022-22954_">
 - [Jhonsonwannaa/CVE-2022-22954](https://github.com/Jhonsonwannaa/CVE-2022-22954)	<img alt="forks" src="https://img.shields.io/github/forks/Jhonsonwannaa/CVE-2022-22954">	<img alt="stars" src="https://img.shields.io/github/stars/Jhonsonwannaa/CVE-2022-22954">
+- [Schira4396/VcenterKiller](https://github.com/Schira4396/VcenterKiller)	<img alt="forks" src="https://img.shields.io/github/forks/Schira4396/VcenterKiller">	<img alt="stars" src="https://img.shields.io/github/stars/Schira4396/VcenterKiller">
+- [amit-pathak009/CVE-2022-22954](https://github.com/amit-pathak009/CVE-2022-22954)	<img alt="forks" src="https://img.shields.io/github/forks/amit-pathak009/CVE-2022-22954">	<img alt="stars" src="https://img.shields.io/github/stars/amit-pathak009/CVE-2022-22954">
+- [mhurts/CVE-2022-22954-POC](https://github.com/mhurts/CVE-2022-22954-POC)	<img alt="forks" src="https://img.shields.io/github/forks/mhurts/CVE-2022-22954-POC">	<img alt="stars" src="https://img.shields.io/github/stars/mhurts/CVE-2022-22954-POC">
 
 ---
 ## CVE-2022-22947 (2022-03-03T22:15:00)
