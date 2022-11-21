@@ -349,8 +349,8 @@
 - [RashidKhanPathan/CVE-2022-40471](https://github.com/RashidKhanPathan/CVE-2022-40471)	<img alt="forks" src="https://img.shields.io/github/forks/RashidKhanPathan/CVE-2022-40471">	<img alt="stars" src="https://img.shields.io/github/stars/RashidKhanPathan/CVE-2022-40471">
 
 ---
-## CVE-2022-40470 ()
-> 
+## CVE-2022-40470 (2022-11-21T16:15:00)
+> Phpgurukul Blood Donor Management System 1.0 allows Cross Site Scripting via Add Blood Group Name Feature.
 - [RashidKhanPathan/CVE-2022-40470](https://github.com/RashidKhanPathan/CVE-2022-40470)	<img alt="forks" src="https://img.shields.io/github/forks/RashidKhanPathan/CVE-2022-40470">	<img alt="stars" src="https://img.shields.io/github/stars/RashidKhanPathan/CVE-2022-40470">
 
 ---
