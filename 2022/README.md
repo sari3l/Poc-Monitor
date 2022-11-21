@@ -117,6 +117,7 @@
 - [sunnyvale-it/CVE-2022-42889-PoC](https://github.com/sunnyvale-it/CVE-2022-42889-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sunnyvale-it/CVE-2022-42889-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sunnyvale-it/CVE-2022-42889-PoC">
 - [QAInsights/cve-2022-42889-jmeter](https://github.com/QAInsights/cve-2022-42889-jmeter)	<img alt="forks" src="https://img.shields.io/github/forks/QAInsights/cve-2022-42889-jmeter">	<img alt="stars" src="https://img.shields.io/github/stars/QAInsights/cve-2022-42889-jmeter">
 - [adarshpv9746/Text4shell--Automated-exploit---CVE-2022-42889](https://github.com/adarshpv9746/Text4shell--Automated-exploit---CVE-2022-42889)	<img alt="forks" src="https://img.shields.io/github/forks/adarshpv9746/Text4shell--Automated-exploit---CVE-2022-42889">	<img alt="stars" src="https://img.shields.io/github/stars/adarshpv9746/Text4shell--Automated-exploit---CVE-2022-42889">
+- [pwnb0y/Text4shell-exploit](https://github.com/pwnb0y/Text4shell-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/pwnb0y/Text4shell-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/pwnb0y/Text4shell-exploit">
 
 ---
 ## CVE-2022-42176 (2022-10-20T15:15:00)
