@@ -704,6 +704,7 @@
 > vm2 is a sandbox that can run untrusted code with whitelisted Node's built-in modules. In versions prior to version 3.9.11, a threat actor can bypass the sandbox protections to gain remote code execution rights on the host running the sandbox. This vulnerability was patched in the release of version 3.9.11 of vm2. There are no known workarounds.
 - [backcr4t/CVE-2022-36067-MASS-RCE](https://github.com/backcr4t/CVE-2022-36067-MASS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/backcr4t/CVE-2022-36067-MASS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/backcr4t/CVE-2022-36067-MASS-RCE">
 - [Prathamrajgor/Exploit-For-CVE-2022-36067](https://github.com/Prathamrajgor/Exploit-For-CVE-2022-36067)	<img alt="forks" src="https://img.shields.io/github/forks/Prathamrajgor/Exploit-For-CVE-2022-36067">	<img alt="stars" src="https://img.shields.io/github/stars/Prathamrajgor/Exploit-For-CVE-2022-36067">
+- [0x1nsomnia/CVE-2022-36067-vm2-POC-webapp](https://github.com/0x1nsomnia/CVE-2022-36067-vm2-POC-webapp)	<img alt="forks" src="https://img.shields.io/github/forks/0x1nsomnia/CVE-2022-36067-vm2-POC-webapp">	<img alt="stars" src="https://img.shields.io/github/stars/0x1nsomnia/CVE-2022-36067-vm2-POC-webapp">
 
 ---
 ## CVE-2022-3602 (2022-11-01T18:15:00)
