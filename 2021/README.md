@@ -273,6 +273,7 @@
 - [CLincat/vulcat](https://github.com/CLincat/vulcat)	<img alt="forks" src="https://img.shields.io/github/forks/CLincat/vulcat">	<img alt="stars" src="https://img.shields.io/github/stars/CLincat/vulcat">
 - [juuso0/CVE-2021-41773](https://github.com/juuso0/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/juuso0/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/juuso0/CVE-2021-41773">
 - [sne4ker/apache-CVE-2021-41773-CVE-2021-42013](https://github.com/sne4ker/apache-CVE-2021-41773-CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/sne4ker/apache-CVE-2021-41773-CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/sne4ker/apache-CVE-2021-41773-CVE-2021-42013">
+- [blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution](https://github.com/blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution">
 
 ---
 ## CVE-2021-41946 (2022-05-18T11:15:00)
