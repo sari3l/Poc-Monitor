@@ -335,6 +335,7 @@
 - [noflowpls/CVE-2021-41773](https://github.com/noflowpls/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/noflowpls/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/noflowpls/CVE-2021-41773">
 - [WebApache/CVE-2021-41773-Apache-RCE](https://github.com/WebApache/CVE-2021-41773-Apache-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/WebApache/CVE-2021-41773-Apache-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/WebApache/CVE-2021-41773-Apache-RCE">
 - [12345qwert123456/CVE-2021-41773](https://github.com/12345qwert123456/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/12345qwert123456/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/12345qwert123456/CVE-2021-41773">
+- [blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution](https://github.com/blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution">
 
 ---
 ## CVE-2021-41652 (2022-03-01T23:15:00)
