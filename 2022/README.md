@@ -43,6 +43,11 @@
 - [Udyz/CVE-2022-0847](https://github.com/Udyz/CVE-2022-0847)	<img alt="forks" src="https://img.shields.io/github/forks/Udyz/CVE-2022-0847">	<img alt="stars" src="https://img.shields.io/github/stars/Udyz/CVE-2022-0847">
 
 ---
+## CVE-2022-45472 ()
+> 
+- [nicbrinkley/CVE-2022-45472](https://github.com/nicbrinkley/CVE-2022-45472)	<img alt="forks" src="https://img.shields.io/github/forks/nicbrinkley/CVE-2022-45472">	<img alt="stars" src="https://img.shields.io/github/stars/nicbrinkley/CVE-2022-45472">
+
+---
 ## CVE-2022-44830 (2022-11-21T18:15:00)
 > Sourcecodester Event Registration App v1.0 was discovered to contain multiple CSV injection vulnerabilities via the First Name, Contact and Remarks fields. These vulnerabilities allow attackers to execute arbitrary code via a crafted excel file.
 - [RashidKhanPathan/CVE-2022-44830](https://github.com/RashidKhanPathan/CVE-2022-44830)	<img alt="forks" src="https://img.shields.io/github/forks/RashidKhanPathan/CVE-2022-44830">	<img alt="stars" src="https://img.shields.io/github/stars/RashidKhanPathan/CVE-2022-44830">
