@@ -125,13 +125,13 @@
 - [soy-oreocato/CVE-2022-42176](https://github.com/soy-oreocato/CVE-2022-42176)	<img alt="forks" src="https://img.shields.io/github/forks/soy-oreocato/CVE-2022-42176">	<img alt="stars" src="https://img.shields.io/github/stars/soy-oreocato/CVE-2022-42176">
 
 ---
-## CVE-2022-42098 ()
-> 
+## CVE-2022-42098 (2022-11-22T13:15:00)
+> KLiK SocialMediaWebsite version v1.0.1 is vulnerable to SQL Injection via the profile.php.
 - [bypazs/CVE-2022-42098](https://github.com/bypazs/CVE-2022-42098)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/CVE-2022-42098">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/CVE-2022-42098">
 
 ---
-## CVE-2022-42097 ()
-> 
+## CVE-2022-42097 (2022-11-22T13:15:00)
+> Backdrop CMS version 1.23.0 was discovered to contain a stored cross-site scripting (XSS) vulnerability via 'Comment.' .
 - [bypazs/CVE-2022-42097](https://github.com/bypazs/CVE-2022-42097)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/CVE-2022-42097">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/CVE-2022-42097">
 
 ---
@@ -140,8 +140,8 @@
 - [bypazs/CVE-2022-42096](https://github.com/bypazs/CVE-2022-42096)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/CVE-2022-42096">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/CVE-2022-42096">
 
 ---
-## CVE-2022-42094 ()
-> 
+## CVE-2022-42094 (2022-11-22T13:15:00)
+> Backdrop CMS version 1.23.0 was discovered to contain a stored cross-site scripting (XSS) vulnerability via the 'Card' content.
 - [bypazs/CVE-2022-42094](https://github.com/bypazs/CVE-2022-42094)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/CVE-2022-42094">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/CVE-2022-42094">
 
 ---
@@ -165,8 +165,8 @@
 - [RashidKhanPathan/CVE-2022-41446](https://github.com/RashidKhanPathan/CVE-2022-41446)	<img alt="forks" src="https://img.shields.io/github/forks/RashidKhanPathan/CVE-2022-41446">	<img alt="stars" src="https://img.shields.io/github/stars/RashidKhanPathan/CVE-2022-41446">
 
 ---
-## CVE-2022-41445 ()
-> 
+## CVE-2022-41445 (2022-11-22T14:15:00)
+> A cross-site scripting (XSS) vulnerability in Record Management System using CodeIgniter 1.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Add Subject page.
 - [RashidKhanPathan/CVE-2022-41445](https://github.com/RashidKhanPathan/CVE-2022-41445)	<img alt="forks" src="https://img.shields.io/github/forks/RashidKhanPathan/CVE-2022-41445">	<img alt="stars" src="https://img.shields.io/github/stars/RashidKhanPathan/CVE-2022-41445">
 - [efchatz/easy-exploits](https://github.com/efchatz/easy-exploits)	<img alt="forks" src="https://img.shields.io/github/forks/efchatz/easy-exploits">	<img alt="stars" src="https://img.shields.io/github/stars/efchatz/easy-exploits">
 
