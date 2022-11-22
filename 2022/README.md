@@ -135,8 +135,8 @@
 - [bypazs/CVE-2022-42097](https://github.com/bypazs/CVE-2022-42097)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/CVE-2022-42097">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/CVE-2022-42097">
 
 ---
-## CVE-2022-42096 ()
-> 
+## CVE-2022-42096 (2022-11-21T21:15:00)
+> Backdrop CMS version 1.23.0 was discovered to contain a stored cross-site scripting (XSS) vulnerability via Post content.
 - [bypazs/CVE-2022-42096](https://github.com/bypazs/CVE-2022-42096)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/CVE-2022-42096">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/CVE-2022-42096">
 
 ---

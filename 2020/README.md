@@ -307,8 +307,8 @@
 - [huzaifahussain98/CVE-2020-23583](https://github.com/huzaifahussain98/CVE-2020-23583)	<img alt="forks" src="https://img.shields.io/github/forks/huzaifahussain98/CVE-2020-23583">	<img alt="stars" src="https://img.shields.io/github/stars/huzaifahussain98/CVE-2020-23583">
 
 ---
-## CVE-2020-23582 ()
-> 
+## CVE-2020-23582 (2022-11-21T21:15:00)
+> A vulnerability in the "/admin/wlmultipleap.asp" of optilink OP-XT71000N version: V2.2 could allow an unauthenticated, remote attacker to conduct a cross-site request forgery (CSRF) attack to create Multiple WLAN BSSID.
 - [huzaifahussain98/CVE-2020-23582](https://github.com/huzaifahussain98/CVE-2020-23582)	<img alt="forks" src="https://img.shields.io/github/forks/huzaifahussain98/CVE-2020-23582">	<img alt="stars" src="https://img.shields.io/github/stars/huzaifahussain98/CVE-2020-23582">
 
 ---
