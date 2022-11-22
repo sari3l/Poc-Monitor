@@ -408,6 +408,7 @@
 - [johnpathe/zerologon-cve-2020-1472-notes](https://github.com/johnpathe/zerologon-cve-2020-1472-notes)	<img alt="forks" src="https://img.shields.io/github/forks/johnpathe/zerologon-cve-2020-1472-notes">	<img alt="stars" src="https://img.shields.io/github/stars/johnpathe/zerologon-cve-2020-1472-notes">
 - [lele8/CVE-2020-1472](https://github.com/lele8/CVE-2020-1472)	<img alt="forks" src="https://img.shields.io/github/forks/lele8/CVE-2020-1472">	<img alt="stars" src="https://img.shields.io/github/stars/lele8/CVE-2020-1472">
 - [30579096/CVE-2020-1473](https://github.com/30579096/CVE-2020-1473)	<img alt="forks" src="https://img.shields.io/github/forks/30579096/CVE-2020-1473">	<img alt="stars" src="https://img.shields.io/github/stars/30579096/CVE-2020-1473">
+- [dr4g0n23/CVE-2020-1472](https://github.com/dr4g0n23/CVE-2020-1472)	<img alt="forks" src="https://img.shields.io/github/forks/dr4g0n23/CVE-2020-1472">	<img alt="stars" src="https://img.shields.io/github/stars/dr4g0n23/CVE-2020-1472">
 
 ---
 ## CVE-2020-13937 (2020-10-19T21:15:00)
