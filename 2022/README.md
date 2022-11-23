@@ -1029,6 +1029,11 @@
 - [bypazs/CVE-2022-32114](https://github.com/bypazs/CVE-2022-32114)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/CVE-2022-32114">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/CVE-2022-32114">
 
 ---
+## CVE-2022-32060 (2022-07-07T23:15:00)
+> An arbitrary file upload vulnerability in the Update Branding Settings component of Snipe-IT v6.0.2 allows attackers to execute arbitrary code via a crafted file.
+- [bypazs/CVE-2022-32060](https://github.com/bypazs/CVE-2022-32060)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/CVE-2022-32060">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/CVE-2022-32060">
+
+---
 ## CVE-2022-31901 ()
 > 
 - [CDACesec/CVE-2022-31901](https://github.com/CDACesec/CVE-2022-31901)	<img alt="forks" src="https://img.shields.io/github/forks/CDACesec/CVE-2022-31901">	<img alt="stars" src="https://img.shields.io/github/stars/CDACesec/CVE-2022-31901">
