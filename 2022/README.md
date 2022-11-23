@@ -43,8 +43,8 @@
 - [Udyz/CVE-2022-0847](https://github.com/Udyz/CVE-2022-0847)	<img alt="forks" src="https://img.shields.io/github/forks/Udyz/CVE-2022-0847">	<img alt="stars" src="https://img.shields.io/github/stars/Udyz/CVE-2022-0847">
 
 ---
-## CVE-2022-45472 ()
-> 
+## CVE-2022-45472 (2022-11-23T06:15:00)
+> CAE LearningSpace Enterprise (with Intuity License) image 267r patch 639 allows DOM XSS, related to ontouchmove and onpointerup.
 - [nicbrinkley/CVE-2022-45472](https://github.com/nicbrinkley/CVE-2022-45472)	<img alt="forks" src="https://img.shields.io/github/forks/nicbrinkley/CVE-2022-45472">	<img alt="stars" src="https://img.shields.io/github/stars/nicbrinkley/CVE-2022-45472">
 
 ---
