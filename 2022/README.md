@@ -774,8 +774,8 @@
 - [p1ckzi/CVE-2022-35513](https://github.com/p1ckzi/CVE-2022-35513)	<img alt="forks" src="https://img.shields.io/github/forks/p1ckzi/CVE-2022-35513">	<img alt="stars" src="https://img.shields.io/github/stars/p1ckzi/CVE-2022-35513">
 
 ---
-## CVE-2022-35501 ()
-> 
+## CVE-2022-35501 (2022-11-23T17:15:00)
+> Stored Cross-site Scripting in Amasty Blog Pro 2.10.4 and 2.10.4 creates post functionality and lower versions.
 - [afine-com/CVE-2022-35501](https://github.com/afine-com/CVE-2022-35501)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2022-35501">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2022-35501">
 
 ---
