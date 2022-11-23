@@ -436,6 +436,7 @@
 ## CVE-2022-3942 (2022-11-11T08:15:00)
 > A vulnerability was found in SourceCodester Sanitization Management System and classified as problematic. This issue affects some unknown processing of the file php-sms/?p=request_quote. The manipulation leads to cross site scripting. The attack may be initiated remotely. The identifier VDB-213449 was assigned to this vulnerability.
 - [maikroservice/CVE-2022-3942](https://github.com/maikroservice/CVE-2022-3942)	<img alt="forks" src="https://img.shields.io/github/forks/maikroservice/CVE-2022-3942">	<img alt="stars" src="https://img.shields.io/github/stars/maikroservice/CVE-2022-3942">
+- [bob11vrdp/CVE-2022-39425](https://github.com/bob11vrdp/CVE-2022-39425)	<img alt="forks" src="https://img.shields.io/github/forks/bob11vrdp/CVE-2022-39425">	<img alt="stars" src="https://img.shields.io/github/stars/bob11vrdp/CVE-2022-39425">
 
 ---
 ## CVE-2022-39395 (2022-11-10T18:15:00)
