@@ -428,6 +428,11 @@
 - [maikroservice/CVE-2022-3949](https://github.com/maikroservice/CVE-2022-3949)	<img alt="forks" src="https://img.shields.io/github/forks/maikroservice/CVE-2022-3949">	<img alt="stars" src="https://img.shields.io/github/stars/maikroservice/CVE-2022-3949">
 
 ---
+## CVE-2022-39425 (2022-10-18T21:15:00)
+> Vulnerability in the Oracle VM VirtualBox product of Oracle Virtualization (component: Core). Supported versions that are affected are Prior to 6.1.40. Difficult to exploit vulnerability allows unauthenticated attacker with network access via VRDP to compromise Oracle VM VirtualBox. Successful attacks of this vulnerability can result in takeover of Oracle VM VirtualBox. CVSS 3.1 Base Score 8.1 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H).
+- [bob11vrdp/CVE-2022-39425](https://github.com/bob11vrdp/CVE-2022-39425)	<img alt="forks" src="https://img.shields.io/github/forks/bob11vrdp/CVE-2022-39425">	<img alt="stars" src="https://img.shields.io/github/stars/bob11vrdp/CVE-2022-39425">
+
+---
 ## CVE-2022-3942 (2022-11-11T08:15:00)
 > A vulnerability was found in SourceCodester Sanitization Management System and classified as problematic. This issue affects some unknown processing of the file php-sms/?p=request_quote. The manipulation leads to cross site scripting. The attack may be initiated remotely. The identifier VDB-213449 was assigned to this vulnerability.
 - [maikroservice/CVE-2022-3942](https://github.com/maikroservice/CVE-2022-3942)	<img alt="forks" src="https://img.shields.io/github/forks/maikroservice/CVE-2022-3942">	<img alt="stars" src="https://img.shields.io/github/stars/maikroservice/CVE-2022-3942">
