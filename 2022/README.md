@@ -175,8 +175,8 @@
 - [Warxim/CVE-2022-41852](https://github.com/Warxim/CVE-2022-41852)	<img alt="forks" src="https://img.shields.io/github/forks/Warxim/CVE-2022-41852">	<img alt="stars" src="https://img.shields.io/github/stars/Warxim/CVE-2022-41852">
 
 ---
-## CVE-2022-41446 ()
-> 
+## CVE-2022-41446 (2022-11-23T03:15:00)
+> An access control issue in /Admin/dashboard.php of Record Management System using CodeIgniter v1.0 allows attackers to access and modify user data.
 - [RashidKhanPathan/CVE-2022-41446](https://github.com/RashidKhanPathan/CVE-2022-41446)	<img alt="forks" src="https://img.shields.io/github/forks/RashidKhanPathan/CVE-2022-41446">	<img alt="stars" src="https://img.shields.io/github/stars/RashidKhanPathan/CVE-2022-41446">
 
 ---
@@ -773,8 +773,8 @@
 - [afine-com/CVE-2022-35501](https://github.com/afine-com/CVE-2022-35501)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2022-35501">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2022-35501">
 
 ---
-## CVE-2022-35500 ()
-> 
+## CVE-2022-35500 (2022-11-23T02:15:00)
+> Amasty Blog 2.10.3 is vulnerable to Cross Site Scripting (XSS) via leave comment functionality.
 - [afine-com/CVE-2022-35500](https://github.com/afine-com/CVE-2022-35500)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2022-35500">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2022-35500">
 
 ---

@@ -252,58 +252,58 @@
 - [mansoorr123/wp-file-manager-CVE-2020-25213](https://github.com/mansoorr123/wp-file-manager-CVE-2020-25213)	<img alt="forks" src="https://img.shields.io/github/forks/mansoorr123/wp-file-manager-CVE-2020-25213">	<img alt="stars" src="https://img.shields.io/github/stars/mansoorr123/wp-file-manager-CVE-2020-25213">
 
 ---
-## CVE-2020-23593 ()
-> 
+## CVE-2020-23593 (2022-11-23T01:15:00)
+> A vulnerability in OPTILINK OP-XT71000N Hardware Version: V2.2, Firmware Version: OP_V3.3.1-191028 allows an unauthenticated, remote attacker to conduct a cross site request forgery (CSRF) attack to enable syslog mode through ' /mgm_log_cfg.asp.' The system starts to log events, 'Remote' mode or 'Both' mode on "Syslog -- Configuration page" logs events and sends to remote syslog server IP and Port.
 - [huzaifahussain98/CVE-2020-23593](https://github.com/huzaifahussain98/CVE-2020-23593)	<img alt="forks" src="https://img.shields.io/github/forks/huzaifahussain98/CVE-2020-23593">	<img alt="stars" src="https://img.shields.io/github/stars/huzaifahussain98/CVE-2020-23593">
 
 ---
-## CVE-2020-23592 ()
-> 
+## CVE-2020-23592 (2022-11-23T02:15:00)
+> A vulnerability in OPTILINK OP-XT71000N Hardware Version: V2.2 , Firmware Version: OP_V3.3.1-191028 allows an unauthenticated, remote attacker to conduct a cross-site request forgery (CSRF) attack to Reset ONU to Factory Default through ' /mgm_dev_reset.asp.' Resetting to default leads to Escalation of Privileges by logging-in with default credentials.
 - [huzaifahussain98/CVE-2020-23592](https://github.com/huzaifahussain98/CVE-2020-23592)	<img alt="forks" src="https://img.shields.io/github/forks/huzaifahussain98/CVE-2020-23592">	<img alt="stars" src="https://img.shields.io/github/stars/huzaifahussain98/CVE-2020-23592">
 
 ---
-## CVE-2020-23591 ()
-> 
+## CVE-2020-23591 (2022-11-23T02:15:00)
+> A vulnerability in OPTILINK OP-XT71000N Hardware Version: V2.2 , Firmware Version: OP_V3.3.1-191028 allows an attacker to upload arbitrary files through " /mgm_dev_upgrade.asp " which can "delete every file for Denial of Service (using 'rm -rf *.*' in the code), reverse connection (using '.asp' webshell), backdoor.
 - [huzaifahussain98/CVE-2020-23591](https://github.com/huzaifahussain98/CVE-2020-23591)	<img alt="forks" src="https://img.shields.io/github/forks/huzaifahussain98/CVE-2020-23591">	<img alt="stars" src="https://img.shields.io/github/stars/huzaifahussain98/CVE-2020-23591">
 
 ---
-## CVE-2020-23590 ()
-> 
+## CVE-2020-23590 (2022-11-23T02:15:00)
+> A vulnerability in Optilink OP-XT71000N Hardware version: V2.2 , Firmware Version: OP_V3.3.1-191028 allows an unauthenticated remote attacker to conduct a cross-site request forgery (CSRF) attack to change the Password for "WLAN SSID" through "wlwpa.asp".
 - [huzaifahussain98/CVE-2020-23590](https://github.com/huzaifahussain98/CVE-2020-23590)	<img alt="forks" src="https://img.shields.io/github/forks/huzaifahussain98/CVE-2020-23590">	<img alt="stars" src="https://img.shields.io/github/stars/huzaifahussain98/CVE-2020-23590">
 
 ---
-## CVE-2020-23589 ()
-> 
+## CVE-2020-23589 (2022-11-23T02:15:00)
+> A vulnerability in OPTILINK OP-XT71000N Hardware Version: V2.2 , Firmware Version: OP_V3.3.1-191028 allows an unauthenticated, remote attacker to conduct a cross-site request forgery (CSRF) attack to cause a Denial of Service by Rebooting the router through " /mgm_dev_reboot.asp."
 - [huzaifahussain98/CVE-2020-23589](https://github.com/huzaifahussain98/CVE-2020-23589)	<img alt="forks" src="https://img.shields.io/github/forks/huzaifahussain98/CVE-2020-23589">	<img alt="stars" src="https://img.shields.io/github/stars/huzaifahussain98/CVE-2020-23589">
 
 ---
-## CVE-2020-23588 ()
-> 
+## CVE-2020-23588 (2022-11-23T02:15:00)
+> A vulnerability in OPTILINK OP-XT71000N Hardware Version: V2.2 , Firmware Version: OP_V3.3.1-191028 allows an unauthenticated, remote attacker to conduct a cross-site request forgery (CSRF) attack to "Enable or Disable Ports" and to "Change port number" through " /rmtacc.asp ".
 - [huzaifahussain98/CVE-2020-23588](https://github.com/huzaifahussain98/CVE-2020-23588)	<img alt="forks" src="https://img.shields.io/github/forks/huzaifahussain98/CVE-2020-23588">	<img alt="stars" src="https://img.shields.io/github/stars/huzaifahussain98/CVE-2020-23588">
 
 ---
-## CVE-2020-23587 ()
-> 
+## CVE-2020-23587 (2022-11-23T02:15:00)
+> A vulnerability found in the OPTILINK OP-XT71000N Hardware Version: V2.2 , Firmware Version: OP_V3.3.1-191028 allows an unauthenticated, remote attacker to conduct a cross-site request forgery (CSRF) attack to men in the middle attack by adding New Routes in RoutingConfiguration on " /routing.asp ".
 - [huzaifahussain98/CVE-2020-23587](https://github.com/huzaifahussain98/CVE-2020-23587)	<img alt="forks" src="https://img.shields.io/github/forks/huzaifahussain98/CVE-2020-23587">	<img alt="stars" src="https://img.shields.io/github/stars/huzaifahussain98/CVE-2020-23587">
 
 ---
-## CVE-2020-23586 ()
-> 
+## CVE-2020-23586 (2022-11-23T02:15:00)
+> A vulnerability found in OPTILINK OP-XT71000N Hardware Version: V2.2 , Firmware Version: OP_V3.3.1-191028 allows an unauthenticated, remote attacker to conduct a cross-site request forgery (CSRF) attack to Add Network Traffic Control Type Rule.
 - [huzaifahussain98/CVE-2020-23586](https://github.com/huzaifahussain98/CVE-2020-23586)	<img alt="forks" src="https://img.shields.io/github/forks/huzaifahussain98/CVE-2020-23586">	<img alt="stars" src="https://img.shields.io/github/stars/huzaifahussain98/CVE-2020-23586">
 
 ---
-## CVE-2020-23585 ()
-> 
+## CVE-2020-23585 (2022-11-23T01:15:00)
+> A remote attacker can conduct a cross-site request forgery (CSRF) attack on OPTILINK OP-XT71000N Hardware Version: V2.2 , Firmware Version: OP_V3.3.1-191028. The vulnerability is due to insufficient CSRF protections for the "mgm_config_file.asp" because of which attacker can create a crafted "csrf form" which sends " malicious xml data" to "/boaform/admin/formMgmConfigUpload". the exploit allows attacker to "gain full privileges" and to "fully compromise of router & network".
 - [huzaifahussain98/CVE-2020-23585](https://github.com/huzaifahussain98/CVE-2020-23585)	<img alt="forks" src="https://img.shields.io/github/forks/huzaifahussain98/CVE-2020-23585">	<img alt="stars" src="https://img.shields.io/github/stars/huzaifahussain98/CVE-2020-23585">
 
 ---
-## CVE-2020-23584 ()
-> 
+## CVE-2020-23584 (2022-11-23T02:15:00)
+> Unauthenticated remote code execution in OPTILINK OP-XT71000N, Hardware Version: V2.2 occurs when the attacker passes arbitrary commands with IP-ADDRESS using " | " to execute commands on " /diag_tracert_admin.asp " in the "PingTest" parameter that leads to command execution.
 - [huzaifahussain98/CVE-2020-23584](https://github.com/huzaifahussain98/CVE-2020-23584)	<img alt="forks" src="https://img.shields.io/github/forks/huzaifahussain98/CVE-2020-23584">	<img alt="stars" src="https://img.shields.io/github/stars/huzaifahussain98/CVE-2020-23584">
 
 ---
-## CVE-2020-23583 ()
-> 
+## CVE-2020-23583 (2022-11-23T01:15:00)
+> OPTILINK OP-XT71000N V2.2 is vulnerable to Remote Code Execution. The issue occurs when the attacker sends an arbitrary code on "/diag_ping_admin.asp" to "PingTest" interface that leads to COMMAND EXECUTION. An attacker can successfully trigger the COMMAND and can compromise full system.
 - [huzaifahussain98/CVE-2020-23583](https://github.com/huzaifahussain98/CVE-2020-23583)	<img alt="forks" src="https://img.shields.io/github/forks/huzaifahussain98/CVE-2020-23583">	<img alt="stars" src="https://img.shields.io/github/stars/huzaifahussain98/CVE-2020-23583">
 
 ---
