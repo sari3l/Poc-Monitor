@@ -529,8 +529,8 @@
 - [jehovah2002/CVE-2021-4034-pwnkit](https://github.com/jehovah2002/CVE-2021-4034-pwnkit)	<img alt="forks" src="https://img.shields.io/github/forks/jehovah2002/CVE-2021-4034-pwnkit">	<img alt="stars" src="https://img.shields.io/github/stars/jehovah2002/CVE-2021-4034-pwnkit">
 
 ---
-## CVE-2021-40303 ()
-> 
+## CVE-2021-40303 (2022-11-08T18:15:00)
+> perfex crm 1.10 is vulnerable to Cross Site Scripting (XSS) via /clients/profile.
 - [zecopro/CVE-2021-40303](https://github.com/zecopro/CVE-2021-40303)	<img alt="forks" src="https://img.shields.io/github/forks/zecopro/CVE-2021-40303">	<img alt="stars" src="https://img.shields.io/github/stars/zecopro/CVE-2021-40303">
 
 ---

@@ -1594,6 +1594,12 @@
 - [XmasSnowISBACK/CVE-2022-26726](https://github.com/XmasSnowISBACK/CVE-2022-26726)	<img alt="forks" src="https://img.shields.io/github/forks/XmasSnowISBACK/CVE-2022-26726">	<img alt="stars" src="https://img.shields.io/github/stars/XmasSnowISBACK/CVE-2022-26726">
 
 ---
+## CVE-2022-2650 (2022-11-24T17:15:00)
+> Improper Restriction of Excessive Authentication Attempts in GitHub repository wger-project/wger prior to 2.2.
+- [HackinKraken/CVE-2022-2650](https://github.com/HackinKraken/CVE-2022-2650)	<img alt="forks" src="https://img.shields.io/github/forks/HackinKraken/CVE-2022-2650">	<img alt="stars" src="https://img.shields.io/github/stars/HackinKraken/CVE-2022-2650">
+- [sinsinology/CVE-2022-26503](https://github.com/sinsinology/CVE-2022-26503)	<img alt="forks" src="https://img.shields.io/github/forks/sinsinology/CVE-2022-26503">	<img alt="stars" src="https://img.shields.io/github/stars/sinsinology/CVE-2022-26503">
+
+---
 ## CVE-2022-2639 (2022-09-01T21:15:00)
 > An integer coercion error was found in the openvswitch kernel module. Given a sufficiently large number of actions, while copying and reserving memory for a new action of a new flow, the reserve_sfa_size() function does not return -EMSGSIZE as expected, potentially leading to an out-of-bounds write access. This flaw allows a local user to crash or potentially escalate their privileges on the system.
 - [veritas501/CVE-2022-2639-PipeVersion](https://github.com/veritas501/CVE-2022-2639-PipeVersion)	<img alt="forks" src="https://img.shields.io/github/forks/veritas501/CVE-2022-2639-PipeVersion">	<img alt="stars" src="https://img.shields.io/github/stars/veritas501/CVE-2022-2639-PipeVersion">
