@@ -499,6 +499,11 @@
 - [4websecurity/CVE-2022-38553](https://github.com/4websecurity/CVE-2022-38553)	<img alt="forks" src="https://img.shields.io/github/forks/4websecurity/CVE-2022-38553">	<img alt="stars" src="https://img.shields.io/github/stars/4websecurity/CVE-2022-38553">
 
 ---
+## CVE-2022-38374 (2022-11-02T12:15:00)
+> A improper neutralization of input during web page generation ('cross-site scripting') in Fortinet FortiADC 7.0.0 - 7.0.2 and 6.2.0 - 6.2.4 allows an attacker to execute unauthorized code or commands via the URL and User fields observed in the traffic and event logviews.
+- [azhurtanov/CVE-2022-38374](https://github.com/azhurtanov/CVE-2022-38374)	<img alt="forks" src="https://img.shields.io/github/forks/azhurtanov/CVE-2022-38374">	<img alt="stars" src="https://img.shields.io/github/stars/azhurtanov/CVE-2022-38374">
+
+---
 ## CVE-2022-37706 ()
 > 
 - [MaherAzzouzi/CVE-2022-37706-LPE-exploit](https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/MaherAzzouzi/CVE-2022-37706-LPE-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/MaherAzzouzi/CVE-2022-37706-LPE-exploit">
