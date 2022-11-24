@@ -467,6 +467,7 @@
 - [PyterSmithDarkGhost/CVE-2022-39197-POC](https://github.com/PyterSmithDarkGhost/CVE-2022-39197-POC)	<img alt="forks" src="https://img.shields.io/github/forks/PyterSmithDarkGhost/CVE-2022-39197-POC">	<img alt="stars" src="https://img.shields.io/github/stars/PyterSmithDarkGhost/CVE-2022-39197-POC">
 - [its-arun/CVE-2022-39197](https://github.com/its-arun/CVE-2022-39197)	<img alt="forks" src="https://img.shields.io/github/forks/its-arun/CVE-2022-39197">	<img alt="stars" src="https://img.shields.io/github/stars/its-arun/CVE-2022-39197">
 - [TheCryingGame/CVE-2022-39197-RCE](https://github.com/TheCryingGame/CVE-2022-39197-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/TheCryingGame/CVE-2022-39197-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/TheCryingGame/CVE-2022-39197-RCE">
+- [adeljck/CVE-2022-39197](https://github.com/adeljck/CVE-2022-39197)	<img alt="forks" src="https://img.shields.io/github/forks/adeljck/CVE-2022-39197">	<img alt="stars" src="https://img.shields.io/github/stars/adeljck/CVE-2022-39197">
 
 ---
 ## CVE-2022-39196 (2022-09-05T00:15:00)
