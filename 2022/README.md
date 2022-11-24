@@ -53,8 +53,8 @@
 - [RashidKhanPathan/CVE-2022-44830](https://github.com/RashidKhanPathan/CVE-2022-44830)	<img alt="forks" src="https://img.shields.io/github/forks/RashidKhanPathan/CVE-2022-44830">	<img alt="stars" src="https://img.shields.io/github/stars/RashidKhanPathan/CVE-2022-44830">
 
 ---
-## CVE-2022-44789 ()
-> 
+## CVE-2022-44789 (2022-11-23T21:15:00)
+> A logical issue in O_getOwnPropertyDescriptor() in Artifex MuJS 1.0.0 through 1.3.1 allows an attacker to achieve Remote Code Execution through memory corruption, via the loading of a crafted JavaScript file.
 - [alalng/CVE-2022-44789](https://github.com/alalng/CVE-2022-44789)	<img alt="forks" src="https://img.shields.io/github/forks/alalng/CVE-2022-44789">	<img alt="stars" src="https://img.shields.io/github/stars/alalng/CVE-2022-44789">
 
 ---
