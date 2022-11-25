@@ -17,6 +17,11 @@
 - [mileticluka1/eval-stdin](https://github.com/mileticluka1/eval-stdin)	<img alt="forks" src="https://img.shields.io/github/forks/mileticluka1/eval-stdin">	<img alt="stars" src="https://img.shields.io/github/stars/mileticluka1/eval-stdin">
 
 ---
+## CVE-2017-9833 (2017-06-24T02:29:00)
+> /cgi-bin/wapopen in BOA Webserver 0.94.14rc21 allows the injection of "../.." using the FILECAMERA variable (sent by GET) to read files with root privileges.
+- [anldori/CVE-2017-9833](https://github.com/anldori/CVE-2017-9833)	<img alt="forks" src="https://img.shields.io/github/forks/anldori/CVE-2017-9833">	<img alt="stars" src="https://img.shields.io/github/stars/anldori/CVE-2017-9833">
+
+---
 ## CVE-2017-9805 (2017-09-15T19:29:00)
 > The REST Plugin in Apache Struts 2.1.1 through 2.3.x before 2.3.34 and 2.5.x before 2.5.13 uses an XStreamHandler with an instance of XStream for deserialization without any type filtering, which can lead to Remote Code Execution when deserializing XML payloads.
 - [Shakun8/CVE-2017-9805](https://github.com/Shakun8/CVE-2017-9805)	<img alt="forks" src="https://img.shields.io/github/forks/Shakun8/CVE-2017-9805">	<img alt="stars" src="https://img.shields.io/github/stars/Shakun8/CVE-2017-9805">
