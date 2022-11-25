@@ -1985,6 +1985,7 @@
 - [Kirill89/CVE-2022-22963-PoC](https://github.com/Kirill89/CVE-2022-22963-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Kirill89/CVE-2022-22963-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Kirill89/CVE-2022-22963-PoC">
 - [RanDengShiFu/CVE-2022-22963](https://github.com/RanDengShiFu/CVE-2022-22963)	<img alt="forks" src="https://img.shields.io/github/forks/RanDengShiFu/CVE-2022-22963">	<img alt="stars" src="https://img.shields.io/github/stars/RanDengShiFu/CVE-2022-22963">
 - [dinosn/CVE-2022-22963](https://github.com/dinosn/CVE-2022-22963)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/CVE-2022-22963">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/CVE-2022-22963">
+- [dr6817/CVE-2022-22963](https://github.com/dr6817/CVE-2022-22963)	<img alt="forks" src="https://img.shields.io/github/forks/dr6817/CVE-2022-22963">	<img alt="stars" src="https://img.shields.io/github/stars/dr6817/CVE-2022-22963">
 
 ---
 ## CVE-2022-22954 (2022-04-11T20:15:00)
