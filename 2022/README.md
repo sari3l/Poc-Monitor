@@ -475,8 +475,8 @@
 - [DayiliWaseem/CVE-2022-39196-](https://github.com/DayiliWaseem/CVE-2022-39196-)	<img alt="forks" src="https://img.shields.io/github/forks/DayiliWaseem/CVE-2022-39196-">	<img alt="stars" src="https://img.shields.io/github/stars/DayiliWaseem/CVE-2022-39196-">
 
 ---
-## CVE-2022-38813 ()
-> 
+## CVE-2022-38813 (2022-11-25T17:15:00)
+> PHPGurukul Blood Donor Management System 1.0 does not properly restrict access to admin/dashboard.php, which allows attackers to access all data of users, delete the users, add and manage Blood Group, and Submit Report.
 - [RashidKhanPathan/CVE-2022-38813](https://github.com/RashidKhanPathan/CVE-2022-38813)	<img alt="forks" src="https://img.shields.io/github/forks/RashidKhanPathan/CVE-2022-38813">	<img alt="stars" src="https://img.shields.io/github/stars/RashidKhanPathan/CVE-2022-38813">
 
 ---
