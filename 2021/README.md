@@ -194,6 +194,11 @@
 - [kang8/CVE-2021-43503](https://github.com/kang8/CVE-2021-43503)	<img alt="forks" src="https://img.shields.io/github/forks/kang8/CVE-2021-43503">	<img alt="stars" src="https://img.shields.io/github/stars/kang8/CVE-2021-43503">
 
 ---
+## CVE-2021-43258 (2022-11-23T19:15:00)
+> CartView.php in ChurchInfo 1.3.0 allows attackers to achieve remote code execution through insecure uploads. This requires authenticated access tot he ChurchInfo application. Once authenticated, a user can add names to their cart, and compose an email. Uploading an attachment for the email stores the attachment on the site in the /tmp_attach/ folder where it can be accessed with a GET request. There are no limitations on files that can be attached, allowing for malicious PHP code to be uploaded and interpreted by the server.
+- [MRvirusIR/CVE-2021-43258](https://github.com/MRvirusIR/CVE-2021-43258)	<img alt="forks" src="https://img.shields.io/github/forks/MRvirusIR/CVE-2021-43258">	<img alt="stars" src="https://img.shields.io/github/stars/MRvirusIR/CVE-2021-43258">
+
+---
 ## CVE-2021-43229 (2021-12-15T15:15:00)
 > Windows NTFS Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-43230, CVE-2021-43231.
 - [Citizen13X/CVE-2021-43229](https://github.com/Citizen13X/CVE-2021-43229)	<img alt="forks" src="https://img.shields.io/github/forks/Citizen13X/CVE-2021-43229">	<img alt="stars" src="https://img.shields.io/github/stars/Citizen13X/CVE-2021-43229">
