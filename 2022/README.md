@@ -1920,6 +1920,11 @@
 - [bengisugun/CVE-2022-22972-](https://github.com/bengisugun/CVE-2022-22972-)	<img alt="forks" src="https://img.shields.io/github/forks/bengisugun/CVE-2022-22972-">	<img alt="stars" src="https://img.shields.io/github/stars/bengisugun/CVE-2022-22972-">
 
 ---
+## CVE-2022-22971 (2022-05-12T20:15:00)
+> In spring framework versions prior to 5.3.20+ , 5.2.22+ and old unsupported versions, application with a STOMP over WebSocket endpoint is vulnerable to a denial of service attack by an authenticated user.
+- [tchize/CVE-2022-22971](https://github.com/tchize/CVE-2022-22971)	<img alt="forks" src="https://img.shields.io/github/forks/tchize/CVE-2022-22971">	<img alt="stars" src="https://img.shields.io/github/stars/tchize/CVE-2022-22971">
+
+---
 ## CVE-2022-22965 (2022-04-01T23:15:00)
 > A Spring MVC or Spring WebFlux application running on JDK 9+ may be vulnerable to remote code execution (RCE) via data binding. The specific exploit requires the application to run on Tomcat as a WAR deployment. If the application is deployed as a Spring Boot executable jar, i.e. the default, it is not vulnerable to the exploit. However, the nature of the vulnerability is more general, and there may be other ways to exploit it.
 - [p1ckzi/CVE-2022-22965](https://github.com/p1ckzi/CVE-2022-22965)	<img alt="forks" src="https://img.shields.io/github/forks/p1ckzi/CVE-2022-22965">	<img alt="stars" src="https://img.shields.io/github/stars/p1ckzi/CVE-2022-22965">
