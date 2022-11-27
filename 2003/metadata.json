@@ -1,0 +1,1 @@
+{"CVE-2003-0358":{"Published":"2003-06-09T04:00:00","summary":"Buffer overflow in (1) nethack 3.4.0 and earlier, and (2) falconseye 1.9.3 and earlier, which is based on nethack, allows local users to gain privileges via a long -s command line option."}}
