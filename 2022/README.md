@@ -1437,6 +1437,7 @@
 - [alirezasalehizadeh/cve-2022-29455](https://github.com/alirezasalehizadeh/cve-2022-29455)	<img alt="forks" src="https://img.shields.io/github/forks/alirezasalehizadeh/cve-2022-29455">	<img alt="stars" src="https://img.shields.io/github/stars/alirezasalehizadeh/cve-2022-29455">
 - [akhilkoradiya/CVE-2022-29455](https://github.com/akhilkoradiya/CVE-2022-29455)	<img alt="forks" src="https://img.shields.io/github/forks/akhilkoradiya/CVE-2022-29455">	<img alt="stars" src="https://img.shields.io/github/stars/akhilkoradiya/CVE-2022-29455">
 - [trhacknon/CVE-2022-29455-XSS](https://github.com/trhacknon/CVE-2022-29455-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-29455-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-29455-XSS">
+- [Chocapikk/CVE-2022-29455](https://github.com/Chocapikk/CVE-2022-29455)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2022-29455">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2022-29455">
 
 ---
 ## CVE-2022-29303 (2022-05-12T16:15:00)
