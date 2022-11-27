@@ -1738,8 +1738,8 @@
 - [yuriisanin/CVE-2022-25260](https://github.com/yuriisanin/CVE-2022-25260)	<img alt="forks" src="https://img.shields.io/github/forks/yuriisanin/CVE-2022-25260">	<img alt="stars" src="https://img.shields.io/github/stars/yuriisanin/CVE-2022-25260">
 
 ---
-## CVE-2022-24999 ()
-> 
+## CVE-2022-24999 (2022-11-26T22:15:00)
+> qs before 6.10.3, as used in Express before 4.17.3 and other products, allows attackers to cause a Node process hang for an Express application because an __ proto__ key can be used. In many typical Express use cases, an unauthenticated remote attacker can place the attack payload in the query string of the URL that is used to visit the application, such as a[__proto__]=b&a[__proto__]&a[length]=100000000. The fix was backported to qs 6.9.7, 6.8.3, 6.7.3, 6.6.1, 6.5.3, 6.4.1, 6.3.3, and 6.2.4 (and therefore Express 4.17.3, which has "deps: qs@6.9.7" in its release description, is not vulnerable).
 - [n8tz/CVE-2022-24999](https://github.com/n8tz/CVE-2022-24999)	<img alt="forks" src="https://img.shields.io/github/forks/n8tz/CVE-2022-24999">	<img alt="stars" src="https://img.shields.io/github/stars/n8tz/CVE-2022-24999">
 
 ---
