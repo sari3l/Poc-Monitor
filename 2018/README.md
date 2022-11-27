@@ -36,6 +36,18 @@
 - [Sunqiz/CVE-2018-8587-reproduction](https://github.com/Sunqiz/CVE-2018-8587-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Sunqiz/CVE-2018-8587-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Sunqiz/CVE-2018-8587-reproduction">
 
 ---
+## CVE-2018-7602 (2018-07-19T17:29:00)
+> A remote code execution vulnerability exists within multiple subsystems of Drupal 7.x and 8.x. This potentially allows attackers to exploit multiple attack vectors on a Drupal site, which could result in the site being compromised. This vulnerability is related to Drupal core - Highly critical - Remote Code Execution - SA-CORE-2018-002. Both SA-CORE-2018-002 and this vulnerability are being exploited in the wild.
+- [NetJBS/-CVE-2018-7602](https://github.com/NetJBS/-CVE-2018-7602)	<img alt="forks" src="https://img.shields.io/github/forks/NetJBS/-CVE-2018-7602">	<img alt="stars" src="https://img.shields.io/github/stars/NetJBS/-CVE-2018-7602">
+- [CLincat/vulcat](https://github.com/CLincat/vulcat)	<img alt="forks" src="https://img.shields.io/github/forks/CLincat/vulcat">	<img alt="stars" src="https://img.shields.io/github/stars/CLincat/vulcat">
+- [cyberharsh/DrupalCVE-2018-7602](https://github.com/cyberharsh/DrupalCVE-2018-7602)	<img alt="forks" src="https://img.shields.io/github/forks/cyberharsh/DrupalCVE-2018-7602">	<img alt="stars" src="https://img.shields.io/github/stars/cyberharsh/DrupalCVE-2018-7602">
+- [shellord/Drupalgeddon-Mass-Exploiter](https://github.com/shellord/Drupalgeddon-Mass-Exploiter)	<img alt="forks" src="https://img.shields.io/github/forks/shellord/Drupalgeddon-Mass-Exploiter">	<img alt="stars" src="https://img.shields.io/github/stars/shellord/Drupalgeddon-Mass-Exploiter">
+- [kastellanos/CVE-2018-7602](https://github.com/kastellanos/CVE-2018-7602)	<img alt="forks" src="https://img.shields.io/github/forks/kastellanos/CVE-2018-7602">	<img alt="stars" src="https://img.shields.io/github/stars/kastellanos/CVE-2018-7602">
+- [happynote3966/CVE-2018-7602](https://github.com/happynote3966/CVE-2018-7602)	<img alt="forks" src="https://img.shields.io/github/forks/happynote3966/CVE-2018-7602">	<img alt="stars" src="https://img.shields.io/github/stars/happynote3966/CVE-2018-7602">
+- [1AmG0d/myDrupal](https://github.com/1AmG0d/myDrupal)	<img alt="forks" src="https://img.shields.io/github/forks/1AmG0d/myDrupal">	<img alt="stars" src="https://img.shields.io/github/stars/1AmG0d/myDrupal">
+- [1337g/Drupalgedon3](https://github.com/1337g/Drupalgedon3)	<img alt="forks" src="https://img.shields.io/github/forks/1337g/Drupalgedon3">	<img alt="stars" src="https://img.shields.io/github/stars/1337g/Drupalgedon3">
+
+---
 ## CVE-2018-7600 (2018-03-29T07:29:00)
 > Drupal before 7.58, 8.x before 8.3.9, 8.4.x before 8.4.6, and 8.5.x before 8.5.1 allows remote attackers to execute arbitrary code because of an issue affecting multiple subsystems with default or common module configurations.
 - [anldori/CVE-2018-7600](https://github.com/anldori/CVE-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/anldori/CVE-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/anldori/CVE-2018-7600">
