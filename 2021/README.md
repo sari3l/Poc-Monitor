@@ -766,6 +766,11 @@
 - [RaouzRouik/CVE-2021-34473-scanner](https://github.com/RaouzRouik/CVE-2021-34473-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/RaouzRouik/CVE-2021-34473-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/RaouzRouik/CVE-2021-34473-scanner">
 
 ---
+## CVE-2021-33558 (2021-05-27T11:15:00)
+> Boa 0.94.13 allows remote attackers to obtain sensitive information via a misconfiguration involving backup.html, preview.html, js/log.js, log.html, email.html, online-users.html, and config.js.
+- [anldori/CVE-2021-33558](https://github.com/anldori/CVE-2021-33558)	<img alt="forks" src="https://img.shields.io/github/forks/anldori/CVE-2021-33558">	<img alt="stars" src="https://img.shields.io/github/stars/anldori/CVE-2021-33558">
+
+---
 ## CVE-2021-31956 (2021-06-08T23:15:00)
 > Windows NTFS Elevation of Privilege Vulnerability
 - [Y3A/CVE-2021-31956](https://github.com/Y3A/CVE-2021-31956)	<img alt="forks" src="https://img.shields.io/github/forks/Y3A/CVE-2021-31956">	<img alt="stars" src="https://img.shields.io/github/stars/Y3A/CVE-2021-31956">
