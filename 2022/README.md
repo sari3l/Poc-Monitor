@@ -1966,6 +1966,7 @@
 - [mrfossbrain/CVE-2022-22965](https://github.com/mrfossbrain/CVE-2022-22965)	<img alt="forks" src="https://img.shields.io/github/forks/mrfossbrain/CVE-2022-22965">	<img alt="stars" src="https://img.shields.io/github/stars/mrfossbrain/CVE-2022-22965">
 - [iloveflag/Fast-CVE-2022-22965](https://github.com/iloveflag/Fast-CVE-2022-22965)	<img alt="forks" src="https://img.shields.io/github/forks/iloveflag/Fast-CVE-2022-22965">	<img alt="stars" src="https://img.shields.io/github/stars/iloveflag/Fast-CVE-2022-22965">
 - [ClemExp/CVE-2022-22965-PoC](https://github.com/ClemExp/CVE-2022-22965-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ClemExp/CVE-2022-22965-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ClemExp/CVE-2022-22965-PoC">
+- [clemoregan/SSE4-CVE-2022-22965](https://github.com/clemoregan/SSE4-CVE-2022-22965)	<img alt="forks" src="https://img.shields.io/github/forks/clemoregan/SSE4-CVE-2022-22965">	<img alt="stars" src="https://img.shields.io/github/stars/clemoregan/SSE4-CVE-2022-22965">
 
 ---
 ## CVE-2022-22963 (2022-04-01T23:15:00)
