@@ -479,6 +479,7 @@
 - [SEHandler/CVE-2020-0796](https://github.com/SEHandler/CVE-2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/SEHandler/CVE-2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/SEHandler/CVE-2020-0796">
 - [tg12/PoC_CVEs](https://github.com/tg12/PoC_CVEs)	<img alt="forks" src="https://img.shields.io/github/forks/tg12/PoC_CVEs">	<img alt="stars" src="https://img.shields.io/github/stars/tg12/PoC_CVEs">
 - [awareseven/eternalghosttest](https://github.com/awareseven/eternalghosttest)	<img alt="forks" src="https://img.shields.io/github/forks/awareseven/eternalghosttest">	<img alt="stars" src="https://img.shields.io/github/stars/awareseven/eternalghosttest">
+- [eerykitty/CVE-2020-0796-PoC](https://github.com/eerykitty/CVE-2020-0796-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/eerykitty/CVE-2020-0796-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/eerykitty/CVE-2020-0796-PoC">
 
 ---
 ## CVE-2020-0688 (2020-02-11T22:15:00)
