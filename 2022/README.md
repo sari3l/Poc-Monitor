@@ -872,6 +872,11 @@
 - [Pwnrin/CVE-2022-34729](https://github.com/Pwnrin/CVE-2022-34729)	<img alt="forks" src="https://img.shields.io/github/forks/Pwnrin/CVE-2022-34729">	<img alt="stars" src="https://img.shields.io/github/stars/Pwnrin/CVE-2022-34729">
 
 ---
+## CVE-2022-34721 (2022-09-13T19:15:00)
+> Windows Internet Key Exchange (IKE) Protocol Extensions Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-34722.
+- [sandpix/CVE-2022-34721-RCE-POC](https://github.com/sandpix/CVE-2022-34721-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/sandpix/CVE-2022-34721-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/sandpix/CVE-2022-34721-RCE-POC">
+
+---
 ## CVE-2022-34718 (2022-09-13T19:15:00)
 > Windows TCP/IP Remote Code Execution Vulnerability.
 - [Administrative2022/CVE-2022-34718-RCE-POC](https://github.com/Administrative2022/CVE-2022-34718-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Administrative2022/CVE-2022-34718-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Administrative2022/CVE-2022-34718-RCE-POC">
