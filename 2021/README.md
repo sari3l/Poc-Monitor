@@ -712,6 +712,7 @@
 - [AmIAHuman/OverlayFS-CVE-2021-3493](https://github.com/AmIAHuman/OverlayFS-CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/AmIAHuman/OverlayFS-CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/AmIAHuman/OverlayFS-CVE-2021-3493">
 - [Abdennour-py/CVE-2021-3493](https://github.com/Abdennour-py/CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/Abdennour-py/CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/Abdennour-py/CVE-2021-3493">
 - [oneoy/CVE-2021-3493](https://github.com/oneoy/CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/oneoy/CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/oneoy/CVE-2021-3493">
+- [fei9747/CVE-2021-3493](https://github.com/fei9747/CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/fei9747/CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/fei9747/CVE-2021-3493">
 
 ---
 ## CVE-2021-34527 (2021-07-02T22:15:00)
