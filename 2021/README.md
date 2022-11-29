@@ -533,6 +533,7 @@
 - [galoget/PwnKit-CVE-2021-4034](https://github.com/galoget/PwnKit-CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/galoget/PwnKit-CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/galoget/PwnKit-CVE-2021-4034">
 - [jehovah2002/CVE-2021-4034-pwnkit](https://github.com/jehovah2002/CVE-2021-4034-pwnkit)	<img alt="forks" src="https://img.shields.io/github/forks/jehovah2002/CVE-2021-4034-pwnkit">	<img alt="stars" src="https://img.shields.io/github/stars/jehovah2002/CVE-2021-4034-pwnkit">
 - [fei9747/CVE-2021-4034](https://github.com/fei9747/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/fei9747/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/fei9747/CVE-2021-4034">
+- [T3slaa/pwnkit-pwn](https://github.com/T3slaa/pwnkit-pwn)	<img alt="forks" src="https://img.shields.io/github/forks/T3slaa/pwnkit-pwn">	<img alt="stars" src="https://img.shields.io/github/stars/T3slaa/pwnkit-pwn">
 
 ---
 ## CVE-2021-40303 (2022-11-08T18:15:00)
