@@ -480,6 +480,8 @@
 - [tg12/PoC_CVEs](https://github.com/tg12/PoC_CVEs)	<img alt="forks" src="https://img.shields.io/github/forks/tg12/PoC_CVEs">	<img alt="stars" src="https://img.shields.io/github/stars/tg12/PoC_CVEs">
 - [awareseven/eternalghosttest](https://github.com/awareseven/eternalghosttest)	<img alt="forks" src="https://img.shields.io/github/forks/awareseven/eternalghosttest">	<img alt="stars" src="https://img.shields.io/github/stars/awareseven/eternalghosttest">
 - [eerykitty/CVE-2020-0796-PoC](https://github.com/eerykitty/CVE-2020-0796-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/eerykitty/CVE-2020-0796-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/eerykitty/CVE-2020-0796-PoC">
+- [gabimarti/SMBScanner](https://github.com/gabimarti/SMBScanner)	<img alt="forks" src="https://img.shields.io/github/forks/gabimarti/SMBScanner">	<img alt="stars" src="https://img.shields.io/github/stars/gabimarti/SMBScanner">
+- [w1ld3r/SMBGhost_Scanner](https://github.com/w1ld3r/SMBGhost_Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/w1ld3r/SMBGhost_Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/w1ld3r/SMBGhost_Scanner">
 
 ---
 ## CVE-2020-0688 (2020-02-11T22:15:00)
