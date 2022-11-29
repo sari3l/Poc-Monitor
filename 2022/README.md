@@ -713,8 +713,8 @@
 - [kh4sh3i/Webmin-CVE](https://github.com/kh4sh3i/Webmin-CVE)	<img alt="forks" src="https://img.shields.io/github/forks/kh4sh3i/Webmin-CVE">	<img alt="stars" src="https://img.shields.io/github/stars/kh4sh3i/Webmin-CVE">
 
 ---
-## CVE-2022-36433 ()
-> 
+## CVE-2022-36433 (2022-11-29T13:15:00)
+> The blog-post creation functionality in the Amasty Blog Pro 2.10.3 plugin for Magento 2 allows injection of JavaScript code in the short_content and full_content fields, leading to XSS attacks against admin panel users via posts/preview or posts/save.
 - [afine-com/CVE-2022-36433](https://github.com/afine-com/CVE-2022-36433)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2022-36433">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2022-36433">
 
 ---
