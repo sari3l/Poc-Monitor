@@ -186,6 +186,16 @@
 - [efchatz/easy-exploits](https://github.com/efchatz/easy-exploits)	<img alt="forks" src="https://img.shields.io/github/forks/efchatz/easy-exploits">	<img alt="stars" src="https://img.shields.io/github/stars/efchatz/easy-exploits">
 
 ---
+## CVE-2022-41413 ()
+> 
+- [renmizo/CVE-2022-41413](https://github.com/renmizo/CVE-2022-41413)	<img alt="forks" src="https://img.shields.io/github/forks/renmizo/CVE-2022-41413">	<img alt="stars" src="https://img.shields.io/github/stars/renmizo/CVE-2022-41413">
+
+---
+## CVE-2022-41412 ()
+> 
+- [renmizo/CVE-2022-41412](https://github.com/renmizo/CVE-2022-41412)	<img alt="forks" src="https://img.shields.io/github/forks/renmizo/CVE-2022-41412">	<img alt="stars" src="https://img.shields.io/github/stars/renmizo/CVE-2022-41412">
+
+---
 ## CVE-2022-41358 (2022-10-20T02:15:00)
 > A stored cross-site scripting (XSS) vulnerability in Garage Management System v1.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the categoriesName parameter in createCategories.php.
 - [thecasual/CVE-2022-41358](https://github.com/thecasual/CVE-2022-41358)	<img alt="forks" src="https://img.shields.io/github/forks/thecasual/CVE-2022-41358">	<img alt="stars" src="https://img.shields.io/github/stars/thecasual/CVE-2022-41358">
