@@ -196,13 +196,13 @@
 - [efchatz/easy-exploits](https://github.com/efchatz/easy-exploits)	<img alt="forks" src="https://img.shields.io/github/forks/efchatz/easy-exploits">	<img alt="stars" src="https://img.shields.io/github/stars/efchatz/easy-exploits">
 
 ---
-## CVE-2022-41413 ()
-> 
+## CVE-2022-41413 (2022-11-30T05:15:00)
+> perfSONAR v4.x <= v4.4.5 was discovered to contain a Cross-Site Request Forgery (CSRF) which is triggered when an attacker injects crafted input into the Search function.
 - [renmizo/CVE-2022-41413](https://github.com/renmizo/CVE-2022-41413)	<img alt="forks" src="https://img.shields.io/github/forks/renmizo/CVE-2022-41413">	<img alt="stars" src="https://img.shields.io/github/stars/renmizo/CVE-2022-41413">
 
 ---
-## CVE-2022-41412 ()
-> 
+## CVE-2022-41412 (2022-11-30T05:15:00)
+> An issue in the graphData.cgi component of perfSONAR v4.4.5 and prior allows attackers to access sensitive data and execute Server-Side Request Forgery (SSRF) attacks.
 - [renmizo/CVE-2022-41412](https://github.com/renmizo/CVE-2022-41412)	<img alt="forks" src="https://img.shields.io/github/forks/renmizo/CVE-2022-41412">	<img alt="stars" src="https://img.shields.io/github/stars/renmizo/CVE-2022-41412">
 
 ---
