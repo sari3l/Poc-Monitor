@@ -270,6 +270,11 @@
 - [notareaperbutDR34P3r/http-vuln-CVE-2022-41082](https://github.com/notareaperbutDR34P3r/http-vuln-CVE-2022-41082)	<img alt="forks" src="https://img.shields.io/github/forks/notareaperbutDR34P3r/http-vuln-CVE-2022-41082">	<img alt="stars" src="https://img.shields.io/github/stars/notareaperbutDR34P3r/http-vuln-CVE-2022-41082">
 
 ---
+## CVE-2022-41049 (2022-11-09T22:15:00)
+> Windows Mark of the Web Security Feature Bypass Vulnerability. This CVE ID is unique from CVE-2022-41091.
+- [NathanScottGithub/CVE-2022-41049-POC](https://github.com/NathanScottGithub/CVE-2022-41049-POC)	<img alt="forks" src="https://img.shields.io/github/forks/NathanScottGithub/CVE-2022-41049-POC">	<img alt="stars" src="https://img.shields.io/github/stars/NathanScottGithub/CVE-2022-41049-POC">
+
+---
 ## CVE-2022-41040 (2022-10-03T01:15:00)
 > Microsoft Exchange Server Elevation of Privilege Vulnerability.
 - [kev1n-beaum0nt/CVE-2022-41040-RCE-POC](https://github.com/kev1n-beaum0nt/CVE-2022-41040-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kev1n-beaum0nt/CVE-2022-41040-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kev1n-beaum0nt/CVE-2022-41040-RCE-POC">
