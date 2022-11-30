@@ -482,6 +482,7 @@
 - [eerykitty/CVE-2020-0796-PoC](https://github.com/eerykitty/CVE-2020-0796-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/eerykitty/CVE-2020-0796-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/eerykitty/CVE-2020-0796-PoC">
 - [gabimarti/SMBScanner](https://github.com/gabimarti/SMBScanner)	<img alt="forks" src="https://img.shields.io/github/forks/gabimarti/SMBScanner">	<img alt="stars" src="https://img.shields.io/github/stars/gabimarti/SMBScanner">
 - [w1ld3r/SMBGhost_Scanner](https://github.com/w1ld3r/SMBGhost_Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/w1ld3r/SMBGhost_Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/w1ld3r/SMBGhost_Scanner">
+- [NetJBS/-CVE-2020-0796-RCE](https://github.com/NetJBS/-CVE-2020-0796-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/NetJBS/-CVE-2020-0796-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/NetJBS/-CVE-2020-0796-RCE">
 
 ---
 ## CVE-2020-0688 (2020-02-11T22:15:00)
