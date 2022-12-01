@@ -1837,6 +1837,11 @@
 - [corelight/CVE-2022-24497](https://github.com/corelight/CVE-2022-24497)	<img alt="forks" src="https://img.shields.io/github/forks/corelight/CVE-2022-24497">	<img alt="stars" src="https://img.shields.io/github/stars/corelight/CVE-2022-24497">
 
 ---
+## CVE-2022-24491 (2022-04-15T19:15:00)
+> Windows Network File System Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-24497.
+- [corelight/CVE-2022-24491](https://github.com/corelight/CVE-2022-24491)	<img alt="forks" src="https://img.shields.io/github/forks/corelight/CVE-2022-24491">	<img alt="stars" src="https://img.shields.io/github/stars/corelight/CVE-2022-24491">
+
+---
 ## CVE-2022-24342 (2022-02-25T15:15:00)
 > In JetBrains TeamCity before 2021.2.1, URL injection leading to CSRF was possible.
 - [yuriisanin/CVE-2022-24342](https://github.com/yuriisanin/CVE-2022-24342)	<img alt="forks" src="https://img.shields.io/github/forks/yuriisanin/CVE-2022-24342">	<img alt="stars" src="https://img.shields.io/github/stars/yuriisanin/CVE-2022-24342">
