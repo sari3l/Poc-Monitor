@@ -46,3 +46,8 @@
 - [xpgdgit/CVE-2014-3120](https://github.com/xpgdgit/CVE-2014-3120)	<img alt="forks" src="https://img.shields.io/github/forks/xpgdgit/CVE-2014-3120">	<img alt="stars" src="https://img.shields.io/github/stars/xpgdgit/CVE-2014-3120">
 - [echohtp/ElasticSearch-CVE-2014-3120](https://github.com/echohtp/ElasticSearch-CVE-2014-3120)	<img alt="forks" src="https://img.shields.io/github/forks/echohtp/ElasticSearch-CVE-2014-3120">	<img alt="stars" src="https://img.shields.io/github/stars/echohtp/ElasticSearch-CVE-2014-3120">
 - [jeffgeiger/es_inject](https://github.com/jeffgeiger/es_inject)	<img alt="forks" src="https://img.shields.io/github/forks/jeffgeiger/es_inject">	<img alt="stars" src="https://img.shields.io/github/stars/jeffgeiger/es_inject">
+
+---
+## CVE-2014-0196 (2014-05-07T10:55:00)
+> The n_tty_write function in drivers/tty/n_tty.c in the Linux kernel through 3.14.3 does not properly manage tty driver access in the "LECHO & !OPOST" case, which allows local users to cause a denial of service (memory corruption and system crash) or gain privileges by triggering a race condition involving read and write operations with long strings.
+- [netwid/CVE-2014-0196](https://github.com/netwid/CVE-2014-0196)	<img alt="forks" src="https://img.shields.io/github/forks/netwid/CVE-2014-0196">	<img alt="stars" src="https://img.shields.io/github/stars/netwid/CVE-2014-0196">

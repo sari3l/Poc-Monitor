@@ -1207,6 +1207,11 @@
 - [Vu0r1-sec/CVE-2022-31061](https://github.com/Vu0r1-sec/CVE-2022-31061)	<img alt="forks" src="https://img.shields.io/github/forks/Vu0r1-sec/CVE-2022-31061">	<img alt="stars" src="https://img.shields.io/github/stars/Vu0r1-sec/CVE-2022-31061">
 
 ---
+## CVE-2022-31007 (2022-05-31T20:15:00)
+> eLabFTW is an electronic lab notebook manager for research teams. Prior to version 4.3.0, a vulnerability allows an authenticated user with an administrator role in a team to assign itself system administrator privileges within the application, or create a new system administrator account. The issue has been corrected in eLabFTW version 4.3.0. In the context of eLabFTW, an administrator is a user account with certain privileges to manage users and content in their assigned team/teams. A system administrator account can manage all accounts, teams and edit system-wide settings within the application. The impact is not deemed as high, as it requires the attacker to have access to an administrator account. Regular user accounts cannot exploit this to gain admin rights. A workaround for one if the issues is removing the ability of administrators to create accounts.
+- [gscharf/CVE-2022-31007-Python-POC](https://github.com/gscharf/CVE-2022-31007-Python-POC)	<img alt="forks" src="https://img.shields.io/github/forks/gscharf/CVE-2022-31007-Python-POC">	<img alt="stars" src="https://img.shields.io/github/stars/gscharf/CVE-2022-31007-Python-POC">
+
+---
 ## CVE-2022-30929 (2022-07-06T15:15:00)
 > Mini-Tmall v1.0 is vulnerable to Insecure Permissions via tomcat-embed-jasper.
 - [AgainstTheLight/CVE-2022-30929](https://github.com/AgainstTheLight/CVE-2022-30929)	<img alt="forks" src="https://img.shields.io/github/forks/AgainstTheLight/CVE-2022-30929">	<img alt="stars" src="https://img.shields.io/github/stars/AgainstTheLight/CVE-2022-30929">
