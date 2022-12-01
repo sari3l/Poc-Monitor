@@ -421,6 +421,7 @@
 - [jas502n/CVE-2018-10933](https://github.com/jas502n/CVE-2018-10933)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2018-10933">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2018-10933">
 - [marco-lancini/hunt-for-cve-2018-10933](https://github.com/marco-lancini/hunt-for-cve-2018-10933)	<img alt="forks" src="https://img.shields.io/github/forks/marco-lancini/hunt-for-cve-2018-10933">	<img alt="stars" src="https://img.shields.io/github/stars/marco-lancini/hunt-for-cve-2018-10933">
 - [likescam/CVE-2018-10933-libSSH-Authentication-Bypass](https://github.com/likescam/CVE-2018-10933-libSSH-Authentication-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/likescam/CVE-2018-10933-libSSH-Authentication-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/likescam/CVE-2018-10933-libSSH-Authentication-Bypass">
+- [SilasSpringer/CVE-2018-10933](https://github.com/SilasSpringer/CVE-2018-10933)	<img alt="forks" src="https://img.shields.io/github/forks/SilasSpringer/CVE-2018-10933">	<img alt="stars" src="https://img.shields.io/github/stars/SilasSpringer/CVE-2018-10933">
 
 ---
 ## CVE-2018-1042 (2018-01-22T08:29:00)
