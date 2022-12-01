@@ -51,3 +51,5 @@
 ## CVE-2014-0196 (2014-05-07T10:55:00)
 > The n_tty_write function in drivers/tty/n_tty.c in the Linux kernel through 3.14.3 does not properly manage tty driver access in the "LECHO & !OPOST" case, which allows local users to cause a denial of service (memory corruption and system crash) or gain privileges by triggering a race condition involving read and write operations with long strings.
 - [netwid/CVE-2014-0196](https://github.com/netwid/CVE-2014-0196)	<img alt="forks" src="https://img.shields.io/github/forks/netwid/CVE-2014-0196">	<img alt="stars" src="https://img.shields.io/github/stars/netwid/CVE-2014-0196">
+- [SunRain/CVE-2014-0196](https://github.com/SunRain/CVE-2014-0196)	<img alt="forks" src="https://img.shields.io/github/forks/SunRain/CVE-2014-0196">	<img alt="stars" src="https://img.shields.io/github/stars/SunRain/CVE-2014-0196">
+- [tempbottle/CVE-2014-0196](https://github.com/tempbottle/CVE-2014-0196)	<img alt="forks" src="https://img.shields.io/github/forks/tempbottle/CVE-2014-0196">	<img alt="stars" src="https://img.shields.io/github/stars/tempbottle/CVE-2014-0196">
