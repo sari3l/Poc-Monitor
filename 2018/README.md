@@ -283,6 +283,11 @@
 - [ahaShiyu/CVE-2018-15856](https://github.com/ahaShiyu/CVE-2018-15856)	<img alt="forks" src="https://img.shields.io/github/forks/ahaShiyu/CVE-2018-15856">	<img alt="stars" src="https://img.shields.io/github/stars/ahaShiyu/CVE-2018-15856">
 
 ---
+## CVE-2018-15708 (2018-11-14T18:29:00)
+> Snoopy 1.0 in Nagios XI 5.5.6 allows remote unauthenticated attackers to execute arbitrary commands via a crafted HTTP request.
+- [lkduy2602/Detecting-CVE-2018-15708-Vulnerabilities](https://github.com/lkduy2602/Detecting-CVE-2018-15708-Vulnerabilities)	<img alt="forks" src="https://img.shields.io/github/forks/lkduy2602/Detecting-CVE-2018-15708-Vulnerabilities">	<img alt="stars" src="https://img.shields.io/github/stars/lkduy2602/Detecting-CVE-2018-15708-Vulnerabilities">
+
+---
 ## CVE-2018-15473 (2018-08-17T19:29:00)
 > OpenSSH through 7.7 is prone to a user enumeration vulnerability due to not delaying bailout for an invalid authenticating user until after the packet containing the request has been fully parsed, related to auth2-gss.c, auth2-hostbased.c, and auth2-pubkey.c.
 - [0xrobiul/CVE-2018-15473](https://github.com/0xrobiul/CVE-2018-15473)	<img alt="forks" src="https://img.shields.io/github/forks/0xrobiul/CVE-2018-15473">	<img alt="stars" src="https://img.shields.io/github/stars/0xrobiul/CVE-2018-15473">
