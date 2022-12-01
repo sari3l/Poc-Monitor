@@ -1650,6 +1650,11 @@
 - [nsbogam/CVE-2022-26269](https://github.com/nsbogam/CVE-2022-26269)	<img alt="forks" src="https://img.shields.io/github/forks/nsbogam/CVE-2022-26269">	<img alt="stars" src="https://img.shields.io/github/stars/nsbogam/CVE-2022-26269">
 
 ---
+## CVE-2022-26265 (2022-03-18T23:15:00)
+> Contao Managed Edition v1.5.0 was discovered to contain a remote command execution (RCE) vulnerability via the component php_cli parameter.
+- [Inplex-sys/CVE-2022-26265](https://github.com/Inplex-sys/CVE-2022-26265)	<img alt="forks" src="https://img.shields.io/github/forks/Inplex-sys/CVE-2022-26265">	<img alt="stars" src="https://img.shields.io/github/stars/Inplex-sys/CVE-2022-26265">
+
+---
 ## CVE-2022-26138 (2022-07-20T18:15:00)
 > The Atlassian Questions For Confluence app for Confluence Server and Data Center creates a Confluence user account in the confluence-users group with the username disabledsystemuser and a hardcoded password. A remote, unauthenticated attacker with knowledge of the hardcoded password could exploit this to log into Confluence and access all content accessible to users in the confluence-users group. This user account is created when installing versions 2.7.34, 2.7.35, and 3.0.2 of the app.
 - [alcaparra/CVE-2022-26138](https://github.com/alcaparra/CVE-2022-26138)	<img alt="forks" src="https://img.shields.io/github/forks/alcaparra/CVE-2022-26138">	<img alt="stars" src="https://img.shields.io/github/stars/alcaparra/CVE-2022-26138">
