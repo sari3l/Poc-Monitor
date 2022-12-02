@@ -68,6 +68,11 @@
 - [secware-ru/CVE-2022-43959](https://github.com/secware-ru/CVE-2022-43959)	<img alt="forks" src="https://img.shields.io/github/forks/secware-ru/CVE-2022-43959">	<img alt="stars" src="https://img.shields.io/github/stars/secware-ru/CVE-2022-43959">
 
 ---
+## CVE-2022-43680 (2022-10-24T14:15:00)
+> In libexpat through 2.4.9, there is a use-after free caused by overeager destruction of a shared DTD in XML_ExternalEntityParserCreate in out-of-memory situations.
+- [nidhi7598/G3_expat-2.2.6_CVE-2022-43680](https://github.com/nidhi7598/G3_expat-2.2.6_CVE-2022-43680)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/G3_expat-2.2.6_CVE-2022-43680">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/G3_expat-2.2.6_CVE-2022-43680">
+
+---
 ## CVE-2022-43369 ()
 > 
 - [sudoninja-noob/CVE-2022-43369](https://github.com/sudoninja-noob/CVE-2022-43369)	<img alt="forks" src="https://img.shields.io/github/forks/sudoninja-noob/CVE-2022-43369">	<img alt="stars" src="https://img.shields.io/github/stars/sudoninja-noob/CVE-2022-43369">
