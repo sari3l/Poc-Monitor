@@ -53,6 +53,21 @@
 - [dropk1ck/CVE-2016-3861](https://github.com/dropk1ck/CVE-2016-3861)	<img alt="forks" src="https://img.shields.io/github/forks/dropk1ck/CVE-2016-3861">	<img alt="stars" src="https://img.shields.io/github/stars/dropk1ck/CVE-2016-3861">
 
 ---
+## CVE-2016-3714 (2016-05-05T18:59:00)
+> The (1) EPHEMERAL, (2) HTTPS, (3) MVG, (4) MSL, (5) TEXT, (6) SHOW, (7) WIN, and (8) PLT coders in ImageMagick before 6.9.3-10 and 7.x before 7.0.1-1 allow remote attackers to execute arbitrary code via shell metacharacters in a crafted image, aka "ImageTragick."
+- [JoshMorrison99/CVE-2016-3714](https://github.com/JoshMorrison99/CVE-2016-3714)	<img alt="forks" src="https://img.shields.io/github/forks/JoshMorrison99/CVE-2016-3714">	<img alt="stars" src="https://img.shields.io/github/stars/JoshMorrison99/CVE-2016-3714">
+- [MrrRaph/pandagik](https://github.com/MrrRaph/pandagik)	<img alt="forks" src="https://img.shields.io/github/forks/MrrRaph/pandagik">	<img alt="stars" src="https://img.shields.io/github/stars/MrrRaph/pandagik">
+- [shelld3v/RCE-python-oneliner-payload](https://github.com/shelld3v/RCE-python-oneliner-payload)	<img alt="forks" src="https://img.shields.io/github/forks/shelld3v/RCE-python-oneliner-payload">	<img alt="stars" src="https://img.shields.io/github/stars/shelld3v/RCE-python-oneliner-payload">
+- [artfreyr/wp-imagetragick](https://github.com/artfreyr/wp-imagetragick)	<img alt="forks" src="https://img.shields.io/github/forks/artfreyr/wp-imagetragick">	<img alt="stars" src="https://img.shields.io/github/stars/artfreyr/wp-imagetragick">
+- [mike-williams/imagetragick-poc](https://github.com/mike-williams/imagetragick-poc)	<img alt="forks" src="https://img.shields.io/github/forks/mike-williams/imagetragick-poc">	<img alt="stars" src="https://img.shields.io/github/stars/mike-williams/imagetragick-poc">
+- [jpeanut/ImageTragick-CVE-2016-3714-RShell](https://github.com/jpeanut/ImageTragick-CVE-2016-3714-RShell)	<img alt="forks" src="https://img.shields.io/github/forks/jpeanut/ImageTragick-CVE-2016-3714-RShell">	<img alt="stars" src="https://img.shields.io/github/stars/jpeanut/ImageTragick-CVE-2016-3714-RShell">
+- [ImageTragick/PoCs](https://github.com/ImageTragick/PoCs)	<img alt="forks" src="https://img.shields.io/github/forks/ImageTragick/PoCs">	<img alt="stars" src="https://img.shields.io/github/stars/ImageTragick/PoCs">
+- [chusiang/CVE-2016-3714.ansible.role](https://github.com/chusiang/CVE-2016-3714.ansible.role)	<img alt="forks" src="https://img.shields.io/github/forks/chusiang/CVE-2016-3714.ansible.role">	<img alt="stars" src="https://img.shields.io/github/stars/chusiang/CVE-2016-3714.ansible.role">
+- [Hood3dRob1n/CVE-2016-3714](https://github.com/Hood3dRob1n/CVE-2016-3714)	<img alt="forks" src="https://img.shields.io/github/forks/Hood3dRob1n/CVE-2016-3714">	<img alt="stars" src="https://img.shields.io/github/stars/Hood3dRob1n/CVE-2016-3714">
+- [tommiionfire/CVE-2016-3714](https://github.com/tommiionfire/CVE-2016-3714)	<img alt="forks" src="https://img.shields.io/github/forks/tommiionfire/CVE-2016-3714">	<img alt="stars" src="https://img.shields.io/github/stars/tommiionfire/CVE-2016-3714">
+- [jackdpeterson/imagick_secure_puppet](https://github.com/jackdpeterson/imagick_secure_puppet)	<img alt="forks" src="https://img.shields.io/github/forks/jackdpeterson/imagick_secure_puppet">	<img alt="stars" src="https://img.shields.io/github/stars/jackdpeterson/imagick_secure_puppet">
+
+---
 ## CVE-2016-2098 (2016-04-07T23:59:00)
 > Action Pack in Ruby on Rails before 3.2.22.2, 4.x before 4.1.14.2, and 4.2.x before 4.2.5.2 allows remote attackers to execute arbitrary Ruby code by leveraging an application's unrestricted use of the render method.
 - [Shakun8/CVE-2016-2098](https://github.com/Shakun8/CVE-2016-2098)	<img alt="forks" src="https://img.shields.io/github/forks/Shakun8/CVE-2016-2098">	<img alt="stars" src="https://img.shields.io/github/stars/Shakun8/CVE-2016-2098">
