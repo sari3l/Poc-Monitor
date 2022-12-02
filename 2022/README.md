@@ -63,6 +63,11 @@
 - [alalng/CVE-2022-44789](https://github.com/alalng/CVE-2022-44789)	<img alt="forks" src="https://img.shields.io/github/forks/alalng/CVE-2022-44789">	<img alt="stars" src="https://img.shields.io/github/stars/alalng/CVE-2022-44789">
 
 ---
+## CVE-2022-44721 ()
+> 
+- [purplededa/CVE-2022-44721-CsFalconUninstaller](https://github.com/purplededa/CVE-2022-44721-CsFalconUninstaller)	<img alt="forks" src="https://img.shields.io/github/forks/purplededa/CVE-2022-44721-CsFalconUninstaller">	<img alt="stars" src="https://img.shields.io/github/stars/purplededa/CVE-2022-44721-CsFalconUninstaller">
+
+---
 ## CVE-2022-43959 ()
 > 
 - [secware-ru/CVE-2022-43959](https://github.com/secware-ru/CVE-2022-43959)	<img alt="forks" src="https://img.shields.io/github/forks/secware-ru/CVE-2022-43959">	<img alt="stars" src="https://img.shields.io/github/stars/secware-ru/CVE-2022-43959">
