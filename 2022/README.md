@@ -1354,6 +1354,8 @@
 - [Cosmo121/Follina-Remediation](https://github.com/Cosmo121/Follina-Remediation)	<img alt="forks" src="https://img.shields.io/github/forks/Cosmo121/Follina-Remediation">	<img alt="stars" src="https://img.shields.io/github/stars/Cosmo121/Follina-Remediation">
 - [WilsonFung414/CVE-2022-30190](https://github.com/WilsonFung414/CVE-2022-30190)	<img alt="forks" src="https://img.shields.io/github/forks/WilsonFung414/CVE-2022-30190">	<img alt="stars" src="https://img.shields.io/github/stars/WilsonFung414/CVE-2022-30190">
 - [arozx/CVE-2022-30190](https://github.com/arozx/CVE-2022-30190)	<img alt="forks" src="https://img.shields.io/github/forks/arozx/CVE-2022-30190">	<img alt="stars" src="https://img.shields.io/github/stars/arozx/CVE-2022-30190">
+- [0xAbbarhSF/FollinaXploit](https://github.com/0xAbbarhSF/FollinaXploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xAbbarhSF/FollinaXploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xAbbarhSF/FollinaXploit">
+- [mattjmillner/CVE-Smackdown](https://github.com/mattjmillner/CVE-Smackdown)	<img alt="forks" src="https://img.shields.io/github/forks/mattjmillner/CVE-Smackdown">	<img alt="stars" src="https://img.shields.io/github/stars/mattjmillner/CVE-Smackdown">
 
 ---
 ## CVE-2022-30136 (2022-06-15T22:15:00)
