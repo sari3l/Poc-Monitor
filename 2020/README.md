@@ -144,6 +144,11 @@
 - [UNICORDev/exploit-CVE-2020-5844](https://github.com/UNICORDev/exploit-CVE-2020-5844)	<img alt="forks" src="https://img.shields.io/github/forks/UNICORDev/exploit-CVE-2020-5844">	<img alt="stars" src="https://img.shields.io/github/stars/UNICORDev/exploit-CVE-2020-5844">
 
 ---
+## CVE-2020-5752 (2020-05-21T15:15:00)
+> Relative path traversal in Druva inSync Windows Client 6.6.3 allows a local, unauthenticated attacker to execute arbitrary operating system commands with SYSTEM privileges.
+- [yevh/CVE-2020-5752-Druva-inSync-Windows-Client-6.6.3---Local-Privilege-Escalation-PowerShell-](https://github.com/yevh/CVE-2020-5752-Druva-inSync-Windows-Client-6.6.3---Local-Privilege-Escalation-PowerShell-)	<img alt="forks" src="https://img.shields.io/github/forks/yevh/CVE-2020-5752-Druva-inSync-Windows-Client-6.6.3---Local-Privilege-Escalation-PowerShell-">	<img alt="stars" src="https://img.shields.io/github/stars/yevh/CVE-2020-5752-Druva-inSync-Windows-Client-6.6.3---Local-Privilege-Escalation-PowerShell-">
+
+---
 ## CVE-2020-4464 (2020-07-17T14:15:00)
 > IBM WebSphere Application Server 7.0, 8.0, 8.5, and 9.0 traditional could allow a remote attacker to execute arbitrary code on a system with a specially-crafted sequence of serialized objects over the SOAP connector. IBM X-Force ID: 181489.
 - [yonggui-li/CVE-2020-4464-and-CVE-2020-4450](https://github.com/yonggui-li/CVE-2020-4464-and-CVE-2020-4450)	<img alt="forks" src="https://img.shields.io/github/forks/yonggui-li/CVE-2020-4464-and-CVE-2020-4450">	<img alt="stars" src="https://img.shields.io/github/stars/yonggui-li/CVE-2020-4464-and-CVE-2020-4450">
