@@ -39,6 +39,7 @@
 ## CVE-2021-44521 (2022-02-11T13:15:00)
 > When running Apache Cassandra with the following configuration: enable_user_defined_functions: true enable_scripted_user_defined_functions: true enable_user_defined_functions_threads: false it is possible for an attacker to execute arbitrary code on the host. The attacker would need to have enough permissions to create user defined functions in the cluster to be able to exploit this. Note that this configuration is documented as unsafe, and will continue to be considered unsafe after this CVE.
 - [Yeyvo/poc-CVE-2021-44521](https://github.com/Yeyvo/poc-CVE-2021-44521)	<img alt="forks" src="https://img.shields.io/github/forks/Yeyvo/poc-CVE-2021-44521">	<img alt="stars" src="https://img.shields.io/github/stars/Yeyvo/poc-CVE-2021-44521">
+- [WoodenKlaas/CVE-2021-44521](https://github.com/WoodenKlaas/CVE-2021-44521)	<img alt="forks" src="https://img.shields.io/github/forks/WoodenKlaas/CVE-2021-44521">	<img alt="stars" src="https://img.shields.io/github/stars/WoodenKlaas/CVE-2021-44521">
 
 ---
 ## CVE-2021-44228 (2021-12-10T10:15:00)
