@@ -2614,6 +2614,7 @@
 > The BookingPress WordPress plugin before 1.0.11 fails to properly sanitize user supplied POST data before it is used in a dynamically constructed SQL query via the bookingpress_front_get_category_services AJAX action (available to unauthenticated users), leading to an unauthenticated SQL Injection
 - [destr4ct/CVE-2022-0739](https://github.com/destr4ct/CVE-2022-0739)	<img alt="forks" src="https://img.shields.io/github/forks/destr4ct/CVE-2022-0739">	<img alt="stars" src="https://img.shields.io/github/stars/destr4ct/CVE-2022-0739">
 - [Chris01s/CVE-2022-0739](https://github.com/Chris01s/CVE-2022-0739)	<img alt="forks" src="https://img.shields.io/github/forks/Chris01s/CVE-2022-0739">	<img alt="stars" src="https://img.shields.io/github/stars/Chris01s/CVE-2022-0739">
+- [BKreisel/CVE-2022-0739](https://github.com/BKreisel/CVE-2022-0739)	<img alt="forks" src="https://img.shields.io/github/forks/BKreisel/CVE-2022-0739">	<img alt="stars" src="https://img.shields.io/github/stars/BKreisel/CVE-2022-0739">
 
 ---
 ## CVE-2022-0666 (2022-02-18T15:15:00)

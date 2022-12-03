@@ -411,6 +411,7 @@
 - [dr4g0n23/CVE-2020-1472](https://github.com/dr4g0n23/CVE-2020-1472)	<img alt="forks" src="https://img.shields.io/github/forks/dr4g0n23/CVE-2020-1472">	<img alt="stars" src="https://img.shields.io/github/stars/dr4g0n23/CVE-2020-1472">
 - [guglia001/MassZeroLogon](https://github.com/guglia001/MassZeroLogon)	<img alt="forks" src="https://img.shields.io/github/forks/guglia001/MassZeroLogon">	<img alt="stars" src="https://img.shields.io/github/stars/guglia001/MassZeroLogon">
 - [Rvn0xsy/ZeroLogon](https://github.com/Rvn0xsy/ZeroLogon)	<img alt="forks" src="https://img.shields.io/github/forks/Rvn0xsy/ZeroLogon">	<img alt="stars" src="https://img.shields.io/github/stars/Rvn0xsy/ZeroLogon">
+- [sv3nbeast/CVE-2020-1472](https://github.com/sv3nbeast/CVE-2020-1472)	<img alt="forks" src="https://img.shields.io/github/forks/sv3nbeast/CVE-2020-1472">	<img alt="stars" src="https://img.shields.io/github/stars/sv3nbeast/CVE-2020-1472">
 
 ---
 ## CVE-2020-13937 (2020-10-19T21:15:00)
