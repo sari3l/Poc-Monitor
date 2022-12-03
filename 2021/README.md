@@ -36,6 +36,11 @@
 - [Exploitables/CVE-2021-44852](https://github.com/Exploitables/CVE-2021-44852)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2021-44852">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2021-44852">
 
 ---
+## CVE-2021-44521 (2022-02-11T13:15:00)
+> When running Apache Cassandra with the following configuration: enable_user_defined_functions: true enable_scripted_user_defined_functions: true enable_user_defined_functions_threads: false it is possible for an attacker to execute arbitrary code on the host. The attacker would need to have enough permissions to create user defined functions in the cluster to be able to exploit this. Note that this configuration is documented as unsafe, and will continue to be considered unsafe after this CVE.
+- [Yeyvo/poc-CVE-2021-44521](https://github.com/Yeyvo/poc-CVE-2021-44521)	<img alt="forks" src="https://img.shields.io/github/forks/Yeyvo/poc-CVE-2021-44521">	<img alt="stars" src="https://img.shields.io/github/stars/Yeyvo/poc-CVE-2021-44521">
+
+---
 ## CVE-2021-44228 (2021-12-10T10:15:00)
 > Apache Log4j2 2.0-beta9 through 2.15.0 (excluding security releases 2.12.2, 2.12.3, and 2.3.1) JNDI features used in configuration, log messages, and parameters do not protect against attacker controlled LDAP and other JNDI related endpoints. An attacker who can control log messages or log message parameters can execute arbitrary code loaded from LDAP servers when message lookup substitution is enabled. From log4j 2.15.0, this behavior has been disabled by default. From version 2.16.0 (along with 2.12.2, 2.12.3, and 2.3.1), this functionality has been completely removed. Note that this vulnerability is specific to log4j-core and does not affect log4net, log4cxx, or other Apache Logging Services projects.
 - [aws-samples/kubernetes-log4j-cve-2021-44228-node-agent](https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent)	<img alt="forks" src="https://img.shields.io/github/forks/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent">	<img alt="stars" src="https://img.shields.io/github/stars/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent">
