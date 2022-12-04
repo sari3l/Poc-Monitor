@@ -110,7 +110,7 @@
 > The join_session_keyring function in security/keys/process_keys.c in the Linux kernel before 4.4.1 mishandles object references in a certain error case, which allows local users to gain privileges or cause a denial of service (integer overflow and use-after-free) via crafted keyctl commands. <a href="http://cwe.mitre.org/data/definitions/190.html">CWE-190: Integer Overflow or Wraparound</a> <br />
 
 <a href="http://cwe.mitre.org/data/definitions/416.html">CWE-416: Use After Free</a>
-- [tndud042713/cve-2016-0728](https://github.com/tndud042713/cve-2016-0728)	<img alt="forks" src="https://img.shields.io/github/forks/tndud042713/cve-2016-0728">	<img alt="stars" src="https://img.shields.io/github/stars/tndud042713/cve-2016-0728">
+- [tndud042713/cve](https://github.com/tndud042713/cve)	<img alt="forks" src="https://img.shields.io/github/forks/tndud042713/cve">	<img alt="stars" src="https://img.shields.io/github/stars/tndud042713/cve">
 - [th30d00r/Linux-Vulnerability-CVE-2016-0728-and-Exploit](https://github.com/th30d00r/Linux-Vulnerability-CVE-2016-0728-and-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/th30d00r/Linux-Vulnerability-CVE-2016-0728-and-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/th30d00r/Linux-Vulnerability-CVE-2016-0728-and-Exploit">
 - [nardholio/cve-2016-0728](https://github.com/nardholio/cve-2016-0728)	<img alt="forks" src="https://img.shields.io/github/forks/nardholio/cve-2016-0728">	<img alt="stars" src="https://img.shields.io/github/stars/nardholio/cve-2016-0728">
 - [sugarvillela/CVE](https://github.com/sugarvillela/CVE)	<img alt="forks" src="https://img.shields.io/github/forks/sugarvillela/CVE">	<img alt="stars" src="https://img.shields.io/github/stars/sugarvillela/CVE">
