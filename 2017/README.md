@@ -279,6 +279,7 @@
 - [Pastea/CVE-2017-1000486](https://github.com/Pastea/CVE-2017-1000486)	<img alt="forks" src="https://img.shields.io/github/forks/Pastea/CVE-2017-1000486">	<img alt="stars" src="https://img.shields.io/github/stars/Pastea/CVE-2017-1000486">
 - [pimps/CVE-2017-1000486](https://github.com/pimps/CVE-2017-1000486)	<img alt="forks" src="https://img.shields.io/github/forks/pimps/CVE-2017-1000486">	<img alt="stars" src="https://img.shields.io/github/stars/pimps/CVE-2017-1000486">
 - [cved-sources/cve-2017-1000486](https://github.com/cved-sources/cve-2017-1000486)	<img alt="forks" src="https://img.shields.io/github/forks/cved-sources/cve-2017-1000486">	<img alt="stars" src="https://img.shields.io/github/stars/cved-sources/cve-2017-1000486">
+- [oppsec/pwnfaces](https://github.com/oppsec/pwnfaces)	<img alt="forks" src="https://img.shields.io/github/forks/oppsec/pwnfaces">	<img alt="stars" src="https://img.shields.io/github/stars/oppsec/pwnfaces">
 
 ---
 ## CVE-2017-1000353 (2018-01-29T17:29:00)
