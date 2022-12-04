@@ -98,6 +98,11 @@
 - [RashidKhanPathan/CVE-2022-43117](https://github.com/RashidKhanPathan/CVE-2022-43117)	<img alt="forks" src="https://img.shields.io/github/forks/RashidKhanPathan/CVE-2022-43117">	<img alt="stars" src="https://img.shields.io/github/stars/RashidKhanPathan/CVE-2022-43117">
 
 ---
+## CVE-2022-43097 ()
+> 
+- [nibin-m/CVE-2022-43097](https://github.com/nibin-m/CVE-2022-43097)	<img alt="forks" src="https://img.shields.io/github/forks/nibin-m/CVE-2022-43097">	<img alt="stars" src="https://img.shields.io/github/stars/nibin-m/CVE-2022-43097">
+
+---
 ## CVE-2022-43096 (2022-11-17T23:15:00)
 > Mediatrix 4102 before v48.5.2718 allows local attackers to gain root access via the UART port.
 - [ProxyStaffy/Mediatrix-CVE-2022-43096](https://github.com/ProxyStaffy/Mediatrix-CVE-2022-43096)	<img alt="forks" src="https://img.shields.io/github/forks/ProxyStaffy/Mediatrix-CVE-2022-43096">	<img alt="stars" src="https://img.shields.io/github/stars/ProxyStaffy/Mediatrix-CVE-2022-43096">
