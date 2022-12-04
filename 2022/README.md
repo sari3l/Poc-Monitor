@@ -1782,6 +1782,12 @@
 - [c0resploit/CVE-2022-25845](https://github.com/c0resploit/CVE-2022-25845)	<img alt="forks" src="https://img.shields.io/github/forks/c0resploit/CVE-2022-25845">	<img alt="stars" src="https://img.shields.io/github/stars/c0resploit/CVE-2022-25845">
 
 ---
+## CVE-2022-25765 (2022-09-09T05:15:00)
+> The package pdfkit from 0.0.0 are vulnerable to Command Injection where the URL is not properly sanitized.
+- [CyberArchitect1/CVE-2022-25765-pdfkit-Exploit-Reverse-Shell](https://github.com/CyberArchitect1/CVE-2022-25765-pdfkit-Exploit-Reverse-Shell)	<img alt="forks" src="https://img.shields.io/github/forks/CyberArchitect1/CVE-2022-25765-pdfkit-Exploit-Reverse-Shell">	<img alt="stars" src="https://img.shields.io/github/stars/CyberArchitect1/CVE-2022-25765-pdfkit-Exploit-Reverse-Shell">
+- [Atsukoro1/PDFKitExploit](https://github.com/Atsukoro1/PDFKitExploit)	<img alt="forks" src="https://img.shields.io/github/forks/Atsukoro1/PDFKitExploit">	<img alt="stars" src="https://img.shields.io/github/stars/Atsukoro1/PDFKitExploit">
+
+---
 ## CVE-2022-2546 ()
 > 
 - [0xvinix/CVE-2022-2546](https://github.com/0xvinix/CVE-2022-2546)	<img alt="forks" src="https://img.shields.io/github/forks/0xvinix/CVE-2022-2546">	<img alt="stars" src="https://img.shields.io/github/stars/0xvinix/CVE-2022-2546">
