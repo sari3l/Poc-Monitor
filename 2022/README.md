@@ -1890,6 +1890,13 @@
 ## CVE-2022-24112 (2022-02-11T13:15:00)
 > An attacker can abuse the batch-requests plugin to send requests to bypass the IP restriction of Admin API. A default configuration of Apache APISIX (with default API key) is vulnerable to remote code execution. When the admin key was changed or the port of Admin API was changed to a port different from the data panel, the impact is lower. But there is still a risk to bypass the IP restriction of Apache APISIX's data panel. There is a check in the batch-requests plugin which overrides the client IP with its real remote IP. But due to a bug in the code, this check can be bypassed.
 - [Acczdy/CVE-2022-24112_POC](https://github.com/Acczdy/CVE-2022-24112_POC)	<img alt="forks" src="https://img.shields.io/github/forks/Acczdy/CVE-2022-24112_POC">	<img alt="stars" src="https://img.shields.io/github/stars/Acczdy/CVE-2022-24112_POC">
+- [twseptian/cve-2022-24112](https://github.com/twseptian/cve-2022-24112)	<img alt="forks" src="https://img.shields.io/github/forks/twseptian/cve-2022-24112">	<img alt="stars" src="https://img.shields.io/github/stars/twseptian/cve-2022-24112">
+- [kavishkagihan/CVE-2022-24112-POC](https://github.com/kavishkagihan/CVE-2022-24112-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kavishkagihan/CVE-2022-24112-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kavishkagihan/CVE-2022-24112-POC">
+- [M4xSec/Apache-APISIX-CVE-2022-24112](https://github.com/M4xSec/Apache-APISIX-CVE-2022-24112)	<img alt="forks" src="https://img.shields.io/github/forks/M4xSec/Apache-APISIX-CVE-2022-24112">	<img alt="stars" src="https://img.shields.io/github/stars/M4xSec/Apache-APISIX-CVE-2022-24112">
+- [Mah1ndra/CVE-2022-24112](https://github.com/Mah1ndra/CVE-2022-24112)	<img alt="forks" src="https://img.shields.io/github/forks/Mah1ndra/CVE-2022-24112">	<img alt="stars" src="https://img.shields.io/github/stars/Mah1ndra/CVE-2022-24112">
+- [Axx8/CVE-2022-24112](https://github.com/Axx8/CVE-2022-24112)	<img alt="forks" src="https://img.shields.io/github/forks/Axx8/CVE-2022-24112">	<img alt="stars" src="https://img.shields.io/github/stars/Axx8/CVE-2022-24112">
+- [Udyz/CVE-2022-24112](https://github.com/Udyz/CVE-2022-24112)	<img alt="forks" src="https://img.shields.io/github/forks/Udyz/CVE-2022-24112">	<img alt="stars" src="https://img.shields.io/github/stars/Udyz/CVE-2022-24112">
+- [Mr-xn/CVE-2022-24112](https://github.com/Mr-xn/CVE-2022-24112)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2022-24112">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2022-24112">
 
 ---
 ## CVE-2022-24086 (2022-02-16T17:15:00)
