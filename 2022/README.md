@@ -1887,6 +1887,11 @@
 - [ColdFusionX/CVE-2022-24124](https://github.com/ColdFusionX/CVE-2022-24124)	<img alt="forks" src="https://img.shields.io/github/forks/ColdFusionX/CVE-2022-24124">	<img alt="stars" src="https://img.shields.io/github/stars/ColdFusionX/CVE-2022-24124">
 
 ---
+## CVE-2022-24112 (2022-02-11T13:15:00)
+> An attacker can abuse the batch-requests plugin to send requests to bypass the IP restriction of Admin API. A default configuration of Apache APISIX (with default API key) is vulnerable to remote code execution. When the admin key was changed or the port of Admin API was changed to a port different from the data panel, the impact is lower. But there is still a risk to bypass the IP restriction of Apache APISIX's data panel. There is a check in the batch-requests plugin which overrides the client IP with its real remote IP. But due to a bug in the code, this check can be bypassed.
+- [Acczdy/CVE-2022-24112_POC](https://github.com/Acczdy/CVE-2022-24112_POC)	<img alt="forks" src="https://img.shields.io/github/forks/Acczdy/CVE-2022-24112_POC">	<img alt="stars" src="https://img.shields.io/github/stars/Acczdy/CVE-2022-24112_POC">
+
+---
 ## CVE-2022-24086 (2022-02-16T17:15:00)
 > Adobe Commerce versions 2.4.3-p1 (and earlier) and 2.3.7-p2 (and earlier) are affected by an improper input validation vulnerability during the checkout process. Exploitation of this issue does not require user interaction and could result in arbitrary code execution.
 - [Cory65/CVE-2022-24086-POC](https://github.com/Cory65/CVE-2022-24086-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Cory65/CVE-2022-24086-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Cory65/CVE-2022-24086-POC">
