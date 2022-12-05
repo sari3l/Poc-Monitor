@@ -2330,6 +2330,11 @@
 - [Kyleifpossible/CVE202230190test0](https://github.com/Kyleifpossible/CVE202230190test0)	<img alt="forks" src="https://img.shields.io/github/forks/Kyleifpossible/CVE202230190test0">	<img alt="stars" src="https://img.shields.io/github/stars/Kyleifpossible/CVE202230190test0">
 
 ---
+## CVE-2022-2022 (2022-06-07T20:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository nocodb/nocodb prior to 0.91.7.
+- [sdfbjaksff/CVE-2022-2022](https://github.com/sdfbjaksff/CVE-2022-2022)	<img alt="forks" src="https://img.shields.io/github/forks/sdfbjaksff/CVE-2022-2022">	<img alt="stars" src="https://img.shields.io/github/stars/sdfbjaksff/CVE-2022-2022">
+
+---
 ## CVE-2022-202133 ()
 > 
 - [nidhi7598/packages_apps_Bluetooth_AOSP_10_r33_CVE-2022-202133](https://github.com/nidhi7598/packages_apps_Bluetooth_AOSP_10_r33_CVE-2022-202133)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/packages_apps_Bluetooth_AOSP_10_r33_CVE-2022-202133">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/packages_apps_Bluetooth_AOSP_10_r33_CVE-2022-202133">
