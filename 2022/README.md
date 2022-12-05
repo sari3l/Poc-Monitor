@@ -2363,6 +2363,7 @@
 - [renmizo/CVE-2022-41412](https://github.com/renmizo/CVE-2022-41412)	<img alt="forks" src="https://img.shields.io/github/forks/renmizo/CVE-2022-41412">	<img alt="stars" src="https://img.shields.io/github/stars/renmizo/CVE-2022-41412">
 - [clemoregan/SSE4-CVE-2022-22965](https://github.com/clemoregan/SSE4-CVE-2022-22965)	<img alt="forks" src="https://img.shields.io/github/forks/clemoregan/SSE4-CVE-2022-22965">	<img alt="stars" src="https://img.shields.io/github/stars/clemoregan/SSE4-CVE-2022-22965">
 - [ClemExp/CVE-2022-22965-PoC](https://github.com/ClemExp/CVE-2022-22965-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ClemExp/CVE-2022-22965-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ClemExp/CVE-2022-22965-PoC">
+- [nidhi7598/expat_2.1.0-_CVE-2022-43680](https://github.com/nidhi7598/expat_2.1.0-_CVE-2022-43680)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/expat_2.1.0-_CVE-2022-43680">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/expat_2.1.0-_CVE-2022-43680">
 
 ---
 ## CVE-2022-202133 ()
