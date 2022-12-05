@@ -100,8 +100,8 @@
 - [RashidKhanPathan/CVE-2022-43117](https://github.com/RashidKhanPathan/CVE-2022-43117)	<img alt="forks" src="https://img.shields.io/github/forks/RashidKhanPathan/CVE-2022-43117">	<img alt="stars" src="https://img.shields.io/github/stars/RashidKhanPathan/CVE-2022-43117">
 
 ---
-## CVE-2022-43097 ()
-> 
+## CVE-2022-43097 (2022-12-05T20:15:00)
+> Phpgurukul User Registration & User Management System v3.0 was discovered to contain multiple stored cross-site scripting (XSS) vulnerabilities via the firstname and lastname parameters of the registration form & login pages.
 - [nibin-m/CVE-2022-43097](https://github.com/nibin-m/CVE-2022-43097)	<img alt="forks" src="https://img.shields.io/github/forks/nibin-m/CVE-2022-43097">	<img alt="stars" src="https://img.shields.io/github/stars/nibin-m/CVE-2022-43097">
 
 ---
