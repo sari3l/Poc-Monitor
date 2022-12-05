@@ -1063,8 +1063,8 @@
 - [theori-io/CVE-2022-32250-exploit](https://github.com/theori-io/CVE-2022-32250-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/theori-io/CVE-2022-32250-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/theori-io/CVE-2022-32250-exploit">
 
 ---
-## CVE-2022-32224 ()
-> 
+## CVE-2022-32224 (2022-12-05T22:15:00)
+> A possible escalation to RCE vulnerability exists when using YAML serialized columns in Active Record < 7.0.3.1, <6.1.6.1, <6.0.5.1 and <5.2.8.1 which could allow an attacker, that can manipulate data in the database (via means like SQL injection), the ability to escalate to an RCE.
 - [ooooooo-q/cve-2022-32224-rails](https://github.com/ooooooo-q/cve-2022-32224-rails)	<img alt="forks" src="https://img.shields.io/github/forks/ooooooo-q/cve-2022-32224-rails">	<img alt="stars" src="https://img.shields.io/github/stars/ooooooo-q/cve-2022-32224-rails">
 
 ---
