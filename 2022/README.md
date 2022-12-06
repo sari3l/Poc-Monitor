@@ -2514,6 +2514,7 @@
 - [On-Cyber-War/CVE-2022-1388](https://github.com/On-Cyber-War/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/On-Cyber-War/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/On-Cyber-War/CVE-2022-1388">
 - [OnCyberWar/CVE-2022-1388](https://github.com/OnCyberWar/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/OnCyberWar/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/OnCyberWar/CVE-2022-1388">
 - [revanmalang/CVE-2022-1388](https://github.com/revanmalang/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/revanmalang/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/revanmalang/CVE-2022-1388">
+- [amitlttwo/CVE-2022-1388](https://github.com/amitlttwo/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/amitlttwo/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/amitlttwo/CVE-2022-1388">
 
 ---
 ## CVE-2022-1292 (2022-05-03T16:15:00)
