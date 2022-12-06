@@ -2367,6 +2367,7 @@
 - [nidhi7598/expat_2.1.0-_CVE-2022-43680](https://github.com/nidhi7598/expat_2.1.0-_CVE-2022-43680)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/expat_2.1.0-_CVE-2022-43680">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/expat_2.1.0-_CVE-2022-43680">
 - [gmh5225/CVE-2022-44721-CsFalconUninstaller](https://github.com/gmh5225/CVE-2022-44721-CsFalconUninstaller)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/CVE-2022-44721-CsFalconUninstaller">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/CVE-2022-44721-CsFalconUninstaller">
 - [alfarom256/CVE-2022-3699](https://github.com/alfarom256/CVE-2022-3699)	<img alt="forks" src="https://img.shields.io/github/forks/alfarom256/CVE-2022-3699">	<img alt="stars" src="https://img.shields.io/github/stars/alfarom256/CVE-2022-3699">
+- [sdfbjaksff/CVE-2022-11111111](https://github.com/sdfbjaksff/CVE-2022-11111111)	<img alt="forks" src="https://img.shields.io/github/forks/sdfbjaksff/CVE-2022-11111111">	<img alt="stars" src="https://img.shields.io/github/stars/sdfbjaksff/CVE-2022-11111111">
 
 ---
 ## CVE-2022-202133 ()
@@ -2528,6 +2529,11 @@
 > The Simple File List WordPress plugin is vulnerable to Arbitrary File Download via the eeFile parameter found in the ~/includes/ee-downloader.php file due to missing controls which makes it possible unauthenticated attackers to supply a path to a file that will subsequently be downloaded, in versions up to and including 3.2.7.
 - [z92g/CVE-2022-1119](https://github.com/z92g/CVE-2022-1119)	<img alt="forks" src="https://img.shields.io/github/forks/z92g/CVE-2022-1119">	<img alt="stars" src="https://img.shields.io/github/stars/z92g/CVE-2022-1119">
 - [W01fh4cker/Serein](https://github.com/W01fh4cker/Serein)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/Serein">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/Serein">
+
+---
+## CVE-2022-11111111 ()
+> 
+- [sdfbjaksff/CVE-2022-11111111](https://github.com/sdfbjaksff/CVE-2022-11111111)	<img alt="forks" src="https://img.shields.io/github/forks/sdfbjaksff/CVE-2022-11111111">	<img alt="stars" src="https://img.shields.io/github/stars/sdfbjaksff/CVE-2022-11111111">
 
 ---
 ## CVE-2022-111111 ()
