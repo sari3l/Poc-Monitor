@@ -1887,6 +1887,7 @@
 ## CVE-2022-2414 (2022-07-29T19:15:00)
 > Access to external entities when parsing XML documents can lead to XML external entity (XXE) attacks. This flaw allows a remote attacker to potentially retrieve the content of arbitrary files by sending specially crafted HTTP requests.
 - [superhac/CVE-2022-2414-POC](https://github.com/superhac/CVE-2022-2414-POC)	<img alt="forks" src="https://img.shields.io/github/forks/superhac/CVE-2022-2414-POC">	<img alt="stars" src="https://img.shields.io/github/stars/superhac/CVE-2022-2414-POC">
+- [amitlttwo/CVE-2022-2414-Proof-Of-Concept](https://github.com/amitlttwo/CVE-2022-2414-Proof-Of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/amitlttwo/CVE-2022-2414-Proof-Of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/amitlttwo/CVE-2022-2414-Proof-Of-Concept">
 
 ---
 ## CVE-2022-24124 (2022-01-29T23:15:00)
