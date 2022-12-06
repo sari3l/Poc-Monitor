@@ -87,6 +87,8 @@
 ## CVE-2018-7422 (2018-03-19T14:29:00)
 > A Local File Inclusion vulnerability in the Site Editor plugin through 1.1.1 for WordPress allows remote attackers to retrieve arbitrary files via the ajax_path parameter to editor/extensions/pagebuilder/includes/ajax_shortcode_pattern.php, aka absolute path traversal.
 - [JacobEbben/CVE-2018-7422](https://github.com/JacobEbben/CVE-2018-7422)	<img alt="forks" src="https://img.shields.io/github/forks/JacobEbben/CVE-2018-7422">	<img alt="stars" src="https://img.shields.io/github/stars/JacobEbben/CVE-2018-7422">
+- [jessisec/CVE-2018-7422](https://github.com/jessisec/CVE-2018-7422)	<img alt="forks" src="https://img.shields.io/github/forks/jessisec/CVE-2018-7422">	<img alt="stars" src="https://img.shields.io/github/stars/jessisec/CVE-2018-7422">
+- [0x00-0x00/CVE-2018-7422](https://github.com/0x00-0x00/CVE-2018-7422)	<img alt="forks" src="https://img.shields.io/github/forks/0x00-0x00/CVE-2018-7422">	<img alt="stars" src="https://img.shields.io/github/stars/0x00-0x00/CVE-2018-7422">
 
 ---
 ## CVE-2018-6574 (2018-02-07T21:29:00)

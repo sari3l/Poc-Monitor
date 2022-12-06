@@ -80,8 +80,8 @@
 - [nidhi7598/expat_2.1.0-_CVE-2022-43680](https://github.com/nidhi7598/expat_2.1.0-_CVE-2022-43680)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/expat_2.1.0-_CVE-2022-43680">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/expat_2.1.0-_CVE-2022-43680">
 
 ---
-## CVE-2022-43369 ()
-> 
+## CVE-2022-43369 (2022-12-06T19:15:00)
+> AutoTaxi Stand Management System v1.0 was discovered to contain a cross-site scripting (XSS) vulnerability via the component search.php.
 - [sudoninja-noob/CVE-2022-43369](https://github.com/sudoninja-noob/CVE-2022-43369)	<img alt="forks" src="https://img.shields.io/github/forks/sudoninja-noob/CVE-2022-43369">	<img alt="stars" src="https://img.shields.io/github/stars/sudoninja-noob/CVE-2022-43369">
 
 ---
