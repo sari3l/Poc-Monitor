@@ -1,6 +1,11 @@
 # 2014 List
 
 ---
+## CVE-2014-8731 (2017-03-23T17:59:00)
+> PHPMemcachedAdmin 1.2.2 and earlier allows remote attackers to execute arbitrary PHP code via vectors related "serialized data and the last part of the concatenated filename," which creates a file in webroot.
+- [sbani/CVE-2014-8731-PoC](https://github.com/sbani/CVE-2014-8731-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sbani/CVE-2014-8731-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sbani/CVE-2014-8731-PoC">
+
+---
 ## CVE-2014-6271 (2014-09-24T18:48:00)
 > GNU Bash through 4.3 processes trailing strings after function definitions in the values of environment variables, which allows remote attackers to execute arbitrary code via a crafted environment, as demonstrated by vectors involving the ForceCommand feature in OpenSSH sshd, the mod_cgi and mod_cgid modules in the Apache HTTP Server, scripts executed by unspecified DHCP clients, and other situations in which setting the environment occurs across a privilege boundary from Bash execution, aka "ShellShock."  NOTE: the original fix for this issue was incorrect; CVE-2014-7169 has been assigned to cover the vulnerability that is still present after the incorrect fix.
 - [FilipStudeny/-CVE-2014-6271-Shellshock-Remote-Command-Injection-](https://github.com/FilipStudeny/-CVE-2014-6271-Shellshock-Remote-Command-Injection-)	<img alt="forks" src="https://img.shields.io/github/forks/FilipStudeny/-CVE-2014-6271-Shellshock-Remote-Command-Injection-">	<img alt="stars" src="https://img.shields.io/github/stars/FilipStudeny/-CVE-2014-6271-Shellshock-Remote-Command-Injection-">
