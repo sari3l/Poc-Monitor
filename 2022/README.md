@@ -2369,6 +2369,7 @@
 - [gmh5225/CVE-2022-44721-CsFalconUninstaller](https://github.com/gmh5225/CVE-2022-44721-CsFalconUninstaller)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/CVE-2022-44721-CsFalconUninstaller">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/CVE-2022-44721-CsFalconUninstaller">
 - [alfarom256/CVE-2022-3699](https://github.com/alfarom256/CVE-2022-3699)	<img alt="forks" src="https://img.shields.io/github/forks/alfarom256/CVE-2022-3699">	<img alt="stars" src="https://img.shields.io/github/stars/alfarom256/CVE-2022-3699">
 - [sdfbjaksff/CVE-2022-11111111](https://github.com/sdfbjaksff/CVE-2022-11111111)	<img alt="forks" src="https://img.shields.io/github/forks/sdfbjaksff/CVE-2022-11111111">	<img alt="stars" src="https://img.shields.io/github/stars/sdfbjaksff/CVE-2022-11111111">
+- [amitlttwo/CVE-2022-2414-Proof-Of-Concept](https://github.com/amitlttwo/CVE-2022-2414-Proof-Of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/amitlttwo/CVE-2022-2414-Proof-Of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/amitlttwo/CVE-2022-2414-Proof-Of-Concept">
 
 ---
 ## CVE-2022-202133 ()
