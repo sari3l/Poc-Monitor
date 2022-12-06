@@ -1148,6 +1148,11 @@
 - [SilNex/CVE-2022-31629-poc](https://github.com/SilNex/CVE-2022-31629-poc)	<img alt="forks" src="https://img.shields.io/github/forks/SilNex/CVE-2022-31629-poc">	<img alt="stars" src="https://img.shields.io/github/stars/SilNex/CVE-2022-31629-poc">
 
 ---
+## CVE-2022-31626 (2022-06-16T06:15:00)
+> In PHP versions 7.4.x below 7.4.30, 8.0.x below 8.0.20, and 8.1.x below 8.1.7, when pdo_mysql extension with mysqlnd driver, if the third party is allowed to supply host to connect to and the password for the connection, password of excessive length can trigger a buffer overflow in PHP, which can lead to a remote code execution vulnerability.
+- [amitlttwo/CVE-2022-31626](https://github.com/amitlttwo/CVE-2022-31626)	<img alt="forks" src="https://img.shields.io/github/forks/amitlttwo/CVE-2022-31626">	<img alt="stars" src="https://img.shields.io/github/stars/amitlttwo/CVE-2022-31626">
+
+---
 ## CVE-2022-31499 (2022-08-25T23:15:00)
 > Nortek Linear eMerge E3-Series devices before 0.32-08f allow an unauthenticated attacker to inject OS commands via ReaderNo. NOTE: this issue exists because of an incomplete fix for CVE-2019-7256.
 - [omarhashem123/CVE-2022-31499](https://github.com/omarhashem123/CVE-2022-31499)	<img alt="forks" src="https://img.shields.io/github/forks/omarhashem123/CVE-2022-31499">	<img alt="stars" src="https://img.shields.io/github/stars/omarhashem123/CVE-2022-31499">
@@ -2370,6 +2375,7 @@
 - [alfarom256/CVE-2022-3699](https://github.com/alfarom256/CVE-2022-3699)	<img alt="forks" src="https://img.shields.io/github/forks/alfarom256/CVE-2022-3699">	<img alt="stars" src="https://img.shields.io/github/stars/alfarom256/CVE-2022-3699">
 - [sdfbjaksff/CVE-2022-11111111](https://github.com/sdfbjaksff/CVE-2022-11111111)	<img alt="forks" src="https://img.shields.io/github/forks/sdfbjaksff/CVE-2022-11111111">	<img alt="stars" src="https://img.shields.io/github/stars/sdfbjaksff/CVE-2022-11111111">
 - [amitlttwo/CVE-2022-2414-Proof-Of-Concept](https://github.com/amitlttwo/CVE-2022-2414-Proof-Of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/amitlttwo/CVE-2022-2414-Proof-Of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/amitlttwo/CVE-2022-2414-Proof-Of-Concept">
+- [amitlttwo/CVE-2022-31626](https://github.com/amitlttwo/CVE-2022-31626)	<img alt="forks" src="https://img.shields.io/github/forks/amitlttwo/CVE-2022-31626">	<img alt="stars" src="https://img.shields.io/github/stars/amitlttwo/CVE-2022-31626">
 
 ---
 ## CVE-2022-202133 ()
