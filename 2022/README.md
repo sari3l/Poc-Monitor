@@ -2366,6 +2366,7 @@
 - [ClemExp/CVE-2022-22965-PoC](https://github.com/ClemExp/CVE-2022-22965-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ClemExp/CVE-2022-22965-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ClemExp/CVE-2022-22965-PoC">
 - [nidhi7598/expat_2.1.0-_CVE-2022-43680](https://github.com/nidhi7598/expat_2.1.0-_CVE-2022-43680)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/expat_2.1.0-_CVE-2022-43680">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/expat_2.1.0-_CVE-2022-43680">
 - [gmh5225/CVE-2022-44721-CsFalconUninstaller](https://github.com/gmh5225/CVE-2022-44721-CsFalconUninstaller)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/CVE-2022-44721-CsFalconUninstaller">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/CVE-2022-44721-CsFalconUninstaller">
+- [alfarom256/CVE-2022-3699](https://github.com/alfarom256/CVE-2022-3699)	<img alt="forks" src="https://img.shields.io/github/forks/alfarom256/CVE-2022-3699">	<img alt="stars" src="https://img.shields.io/github/stars/alfarom256/CVE-2022-3699">
 
 ---
 ## CVE-2022-202133 ()
