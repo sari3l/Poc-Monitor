@@ -84,6 +84,11 @@
 - [trhacknon/CVE-2018-7600](https://github.com/trhacknon/CVE-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2018-7600">
 
 ---
+## CVE-2018-7422 (2018-03-19T14:29:00)
+> A Local File Inclusion vulnerability in the Site Editor plugin through 1.1.1 for WordPress allows remote attackers to retrieve arbitrary files via the ajax_path parameter to editor/extensions/pagebuilder/includes/ajax_shortcode_pattern.php, aka absolute path traversal.
+- [JacobEbben/CVE-2018-7422](https://github.com/JacobEbben/CVE-2018-7422)	<img alt="forks" src="https://img.shields.io/github/forks/JacobEbben/CVE-2018-7422">	<img alt="stars" src="https://img.shields.io/github/stars/JacobEbben/CVE-2018-7422">
+
+---
 ## CVE-2018-6574 (2018-02-07T21:29:00)
 > Go before 1.8.7, Go 1.9.x before 1.9.4, and Go 1.10 pre-releases before Go 1.10rc2 allow "go get" remote command execution during source code build, by leveraging the gcc or clang plugin feature, because -fplugin= and -plugin= arguments were not blocked.
 - [NBAquicknut/CVE-2018-6574](https://github.com/NBAquicknut/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/NBAquicknut/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/NBAquicknut/CVE-2018-6574">
