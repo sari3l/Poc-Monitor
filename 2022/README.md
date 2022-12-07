@@ -53,8 +53,8 @@
 - [nicbrinkley/CVE-2022-45472](https://github.com/nicbrinkley/CVE-2022-45472)	<img alt="forks" src="https://img.shields.io/github/forks/nicbrinkley/CVE-2022-45472">	<img alt="stars" src="https://img.shields.io/github/stars/nicbrinkley/CVE-2022-45472">
 
 ---
-## CVE-2022-45217 ()
-> 
+## CVE-2022-45217 (2022-12-07T14:15:00)
+> A cross-site scripting (XSS) vulnerability in Book Store Management System v1.0.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Level parameter under the Add New System User module.
 - [sudoninja-noob/CVE-2022-45217](https://github.com/sudoninja-noob/CVE-2022-45217)	<img alt="forks" src="https://img.shields.io/github/forks/sudoninja-noob/CVE-2022-45217">	<img alt="stars" src="https://img.shields.io/github/stars/sudoninja-noob/CVE-2022-45217">
 
 ---
