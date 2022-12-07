@@ -1383,6 +1383,11 @@
 - [oturu/CVE-2022-30136-POC](https://github.com/oturu/CVE-2022-30136-POC)	<img alt="forks" src="https://img.shields.io/github/forks/oturu/CVE-2022-30136-POC">	<img alt="stars" src="https://img.shields.io/github/stars/oturu/CVE-2022-30136-POC">
 
 ---
+## CVE-2022-30129 (2022-05-10T21:15:00)
+> Visual Studio Code Remote Code Execution Vulnerability.
+- [RoccoPearce/CVE-2022-30129](https://github.com/RoccoPearce/CVE-2022-30129)	<img alt="forks" src="https://img.shields.io/github/forks/RoccoPearce/CVE-2022-30129">	<img alt="stars" src="https://img.shields.io/github/stars/RoccoPearce/CVE-2022-30129">
+
+---
 ## CVE-2022-30075 (2022-06-09T04:15:00)
 > In TP-Link Router AX50 firmware 210730 and older, import of a malicious backup file via web interface can lead to remote code execution due to improper validation.
 - [aaronsvk/CVE-2022-30075](https://github.com/aaronsvk/CVE-2022-30075)	<img alt="forks" src="https://img.shields.io/github/forks/aaronsvk/CVE-2022-30075">	<img alt="stars" src="https://img.shields.io/github/stars/aaronsvk/CVE-2022-30075">
