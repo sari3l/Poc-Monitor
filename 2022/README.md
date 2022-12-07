@@ -2377,6 +2377,7 @@
 - [amitlttwo/CVE-2022-2414-Proof-Of-Concept](https://github.com/amitlttwo/CVE-2022-2414-Proof-Of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/amitlttwo/CVE-2022-2414-Proof-Of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/amitlttwo/CVE-2022-2414-Proof-Of-Concept">
 - [amitlttwo/CVE-2022-31626](https://github.com/amitlttwo/CVE-2022-31626)	<img alt="forks" src="https://img.shields.io/github/forks/amitlttwo/CVE-2022-31626">	<img alt="stars" src="https://img.shields.io/github/stars/amitlttwo/CVE-2022-31626">
 - [amitlttwo/CVE-2022-1388](https://github.com/amitlttwo/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/amitlttwo/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/amitlttwo/CVE-2022-1388">
+- [ps-interactive/lab_security_apache_spark_emulation_detection](https://github.com/ps-interactive/lab_security_apache_spark_emulation_detection)	<img alt="forks" src="https://img.shields.io/github/forks/ps-interactive/lab_security_apache_spark_emulation_detection">	<img alt="stars" src="https://img.shields.io/github/stars/ps-interactive/lab_security_apache_spark_emulation_detection">
 
 ---
 ## CVE-2022-202133 ()
