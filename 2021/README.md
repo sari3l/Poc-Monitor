@@ -1239,6 +1239,11 @@
 - [Al1ex/CVE-2021-2109](https://github.com/Al1ex/CVE-2021-2109)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/CVE-2021-2109">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/CVE-2021-2109">
 
 ---
+## CVE-2021-20323 (2022-03-25T19:15:00)
+> A POST based reflected Cross Site Scripting vulnerability on has been identified in Keycloak.
+- [ndmalc/CVE-2021-20323](https://github.com/ndmalc/CVE-2021-20323)	<img alt="forks" src="https://img.shields.io/github/forks/ndmalc/CVE-2021-20323">	<img alt="stars" src="https://img.shields.io/github/stars/ndmalc/CVE-2021-20323">
+
+---
 ## CVE-2021-20138 (2021-12-09T16:15:00)
 > An unauthenticated command injection vulnerability exists in multiple parameters in the Gryphon Tower router’s web interface at /cgi-bin/luci/rc. An unauthenticated remote attacker on the same network can execute commands as root on the device by sending a specially crafted malicious packet to the web interface.
 - [ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-20138](https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-20138)	<img alt="forks" src="https://img.shields.io/github/forks/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-20138">	<img alt="stars" src="https://img.shields.io/github/stars/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-20138">
