@@ -2295,6 +2295,11 @@
 - [c0resploit/CVE-2022-20841](https://github.com/c0resploit/CVE-2022-20841)	<img alt="forks" src="https://img.shields.io/github/forks/c0resploit/CVE-2022-20841">	<img alt="stars" src="https://img.shields.io/github/stars/c0resploit/CVE-2022-20841">
 
 ---
+## CVE-2022-20441 (2022-11-08T22:15:00)
+> In navigateUpTo of Task.java, there is a possible way to launch an unexported intent handler due to a logic error in the code. This could lead to local escalation of privilege if the targeted app has an intent trampoline, with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-238605611
+- [nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20441](https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20441)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20441">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20441">
+
+---
 ## CVE-2022-20361 (2022-08-10T20:15:00)
 > In btif_dm_auth_cmpl_evt of btif_dm.cc, there is a possible vulnerability in Cross-Transport Key Derivation due to Weakness in Bluetooth Standard. This could lead to remote escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12LAndroid ID: A-231161832
 - [nidhi7598/system_bt_AOSP_10_r33_CVE-2022-20361](https://github.com/nidhi7598/system_bt_AOSP_10_r33_CVE-2022-20361)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/system_bt_AOSP_10_r33_CVE-2022-20361">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/system_bt_AOSP_10_r33_CVE-2022-20361">
