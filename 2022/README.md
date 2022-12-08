@@ -53,6 +53,11 @@
 - [nicbrinkley/CVE-2022-45472](https://github.com/nicbrinkley/CVE-2022-45472)	<img alt="forks" src="https://img.shields.io/github/forks/nicbrinkley/CVE-2022-45472">	<img alt="stars" src="https://img.shields.io/github/stars/nicbrinkley/CVE-2022-45472">
 
 ---
+## CVE-2022-45265 ()
+> 
+- [maikroservice/CVE-2022-45265](https://github.com/maikroservice/CVE-2022-45265)	<img alt="forks" src="https://img.shields.io/github/forks/maikroservice/CVE-2022-45265">	<img alt="stars" src="https://img.shields.io/github/stars/maikroservice/CVE-2022-45265">
+
+---
 ## CVE-2022-45217 (2022-12-07T14:15:00)
 > A cross-site scripting (XSS) vulnerability in Book Store Management System v1.0.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Level parameter under the Add New System User module.
 - [sudoninja-noob/CVE-2022-45217](https://github.com/sudoninja-noob/CVE-2022-45217)	<img alt="forks" src="https://img.shields.io/github/forks/sudoninja-noob/CVE-2022-45217">	<img alt="stars" src="https://img.shields.io/github/stars/sudoninja-noob/CVE-2022-45217">
@@ -2395,6 +2400,7 @@
 - [ps-interactive/lab_security_apache_spark_emulation_detection](https://github.com/ps-interactive/lab_security_apache_spark_emulation_detection)	<img alt="forks" src="https://img.shields.io/github/forks/ps-interactive/lab_security_apache_spark_emulation_detection">	<img alt="stars" src="https://img.shields.io/github/stars/ps-interactive/lab_security_apache_spark_emulation_detection">
 - [nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20441](https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20441)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20441">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20441">
 - [RoccoPearce/CVE-2022-30129](https://github.com/RoccoPearce/CVE-2022-30129)	<img alt="forks" src="https://img.shields.io/github/forks/RoccoPearce/CVE-2022-30129">	<img alt="stars" src="https://img.shields.io/github/stars/RoccoPearce/CVE-2022-30129">
+- [maikroservice/CVE-2022-45265](https://github.com/maikroservice/CVE-2022-45265)	<img alt="forks" src="https://img.shields.io/github/forks/maikroservice/CVE-2022-45265">	<img alt="stars" src="https://img.shields.io/github/stars/maikroservice/CVE-2022-45265">
 
 ---
 ## CVE-2022-202133 ()
