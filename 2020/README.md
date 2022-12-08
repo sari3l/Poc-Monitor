@@ -228,6 +228,11 @@
 - [whr819987540/test_CVE-2020-26233](https://github.com/whr819987540/test_CVE-2020-26233)	<img alt="forks" src="https://img.shields.io/github/forks/whr819987540/test_CVE-2020-26233">	<img alt="stars" src="https://img.shields.io/github/stars/whr819987540/test_CVE-2020-26233">
 
 ---
+## CVE-2020-25790 (2020-09-19T21:15:00)
+> ** DISPUTED ** Typesetter CMS 5.x through 5.1 allows admins to upload and execute arbitrary PHP code via a .php file inside a ZIP archive. NOTE: the vendor disputes the significance of this report because "admins are considered trustworthy"; however, the behavior "contradicts our security policy" and is being fixed for 5.2.
+- [7Mitu/CVE-2020-25790](https://github.com/7Mitu/CVE-2020-25790)	<img alt="forks" src="https://img.shields.io/github/forks/7Mitu/CVE-2020-25790">	<img alt="stars" src="https://img.shields.io/github/stars/7Mitu/CVE-2020-25790">
+
+---
 ## CVE-2020-25540 (2020-09-14T13:15:00)
 > ThinkAdmin v6 is affected by a directory traversal vulnerability. An unauthorized attacker can read arbitrarily file on a remote server via GET request encode parameter.
 - [Schira4396/CVE-2020-25540](https://github.com/Schira4396/CVE-2020-25540)	<img alt="forks" src="https://img.shields.io/github/forks/Schira4396/CVE-2020-25540">	<img alt="stars" src="https://img.shields.io/github/stars/Schira4396/CVE-2020-25540">
