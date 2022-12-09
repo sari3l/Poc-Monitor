@@ -741,6 +741,7 @@
 > ZK Framework v9.6.1, 9.6.0.1, 9.5.1.3, 9.0.1.2 and 8.6.4.1 allows attackers to access sensitive information via a crafted POST request sent to the component AuUploader.
 - [OneByt3/CVE-2022-36537](https://github.com/OneByt3/CVE-2022-36537)	<img alt="forks" src="https://img.shields.io/github/forks/OneByt3/CVE-2022-36537">	<img alt="stars" src="https://img.shields.io/github/stars/OneByt3/CVE-2022-36537">
 - [agnihackers/CVE-2022-36537-EXPLOIT](https://github.com/agnihackers/CVE-2022-36537-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/agnihackers/CVE-2022-36537-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/agnihackers/CVE-2022-36537-EXPLOIT">
+- [Malwareman007/CVE-2022-36537](https://github.com/Malwareman007/CVE-2022-36537)	<img alt="forks" src="https://img.shields.io/github/forks/Malwareman007/CVE-2022-36537">	<img alt="stars" src="https://img.shields.io/github/stars/Malwareman007/CVE-2022-36537">
 
 ---
 ## CVE-2022-36446 (2022-07-25T06:15:00)
