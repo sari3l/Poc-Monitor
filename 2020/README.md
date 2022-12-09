@@ -175,6 +175,11 @@
 - [ybdegit2020/wonderplugin](https://github.com/ybdegit2020/wonderplugin)	<img alt="forks" src="https://img.shields.io/github/forks/ybdegit2020/wonderplugin">	<img alt="stars" src="https://img.shields.io/github/stars/ybdegit2020/wonderplugin">
 
 ---
+## CVE-2020-29370 (2020-11-28T07:15:00)
+> An issue was discovered in kmem_cache_alloc_bulk in mm/slub.c in the Linux kernel before 5.5.11. The slowpath lacks the required TID increment, aka CID-fd4d9c7d0c71.
+- [nanopathi/linux-4.19.72_CVE-2020-29370](https://github.com/nanopathi/linux-4.19.72_CVE-2020-29370)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/linux-4.19.72_CVE-2020-29370">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/linux-4.19.72_CVE-2020-29370">
+
+---
 ## CVE-2020-29134 (2021-03-05T16:15:00)
 > The TOTVS Fluig platform allows path traversal through the parameter "file = .. /" encoded in base64. This affects all versions Fluig Lake 1.7.0, Fluig 1.6.5 and Fluig 1.6.4
 - [Ls4ss/CVE-2020-29134](https://github.com/Ls4ss/CVE-2020-29134)	<img alt="forks" src="https://img.shields.io/github/forks/Ls4ss/CVE-2020-29134">	<img alt="stars" src="https://img.shields.io/github/stars/Ls4ss/CVE-2020-29134">
