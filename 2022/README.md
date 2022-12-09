@@ -2407,6 +2407,8 @@
 - [RoccoPearce/CVE-2022-30129](https://github.com/RoccoPearce/CVE-2022-30129)	<img alt="forks" src="https://img.shields.io/github/forks/RoccoPearce/CVE-2022-30129">	<img alt="stars" src="https://img.shields.io/github/stars/RoccoPearce/CVE-2022-30129">
 - [maikroservice/CVE-2022-45265](https://github.com/maikroservice/CVE-2022-45265)	<img alt="forks" src="https://img.shields.io/github/forks/maikroservice/CVE-2022-45265">	<img alt="stars" src="https://img.shields.io/github/stars/maikroservice/CVE-2022-45265">
 - [ssst0n3/docker-cve-2022-39253-poc](https://github.com/ssst0n3/docker-cve-2022-39253-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ssst0n3/docker-cve-2022-39253-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ssst0n3/docker-cve-2022-39253-poc">
+- [und3sc0n0c1d0/CVE-2022-1292](https://github.com/und3sc0n0c1d0/CVE-2022-1292)	<img alt="forks" src="https://img.shields.io/github/forks/und3sc0n0c1d0/CVE-2022-1292">	<img alt="stars" src="https://img.shields.io/github/stars/und3sc0n0c1d0/CVE-2022-1292">
+- [M4fiaB0y/CVE-2022-1388](https://github.com/M4fiaB0y/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/M4fiaB0y/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/M4fiaB0y/CVE-2022-1388">
 
 ---
 ## CVE-2022-202133 ()
@@ -2546,6 +2548,7 @@
 - [OnCyberWar/CVE-2022-1388](https://github.com/OnCyberWar/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/OnCyberWar/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/OnCyberWar/CVE-2022-1388">
 - [revanmalang/CVE-2022-1388](https://github.com/revanmalang/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/revanmalang/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/revanmalang/CVE-2022-1388">
 - [amitlttwo/CVE-2022-1388](https://github.com/amitlttwo/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/amitlttwo/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/amitlttwo/CVE-2022-1388">
+- [M4fiaB0y/CVE-2022-1388](https://github.com/M4fiaB0y/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/M4fiaB0y/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/M4fiaB0y/CVE-2022-1388">
 
 ---
 ## CVE-2022-1292 (2022-05-03T16:15:00)
