@@ -2409,6 +2409,7 @@
 - [ssst0n3/docker-cve-2022-39253-poc](https://github.com/ssst0n3/docker-cve-2022-39253-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ssst0n3/docker-cve-2022-39253-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ssst0n3/docker-cve-2022-39253-poc">
 - [und3sc0n0c1d0/CVE-2022-1292](https://github.com/und3sc0n0c1d0/CVE-2022-1292)	<img alt="forks" src="https://img.shields.io/github/forks/und3sc0n0c1d0/CVE-2022-1292">	<img alt="stars" src="https://img.shields.io/github/stars/und3sc0n0c1d0/CVE-2022-1292">
 - [M4fiaB0y/CVE-2022-1388](https://github.com/M4fiaB0y/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/M4fiaB0y/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/M4fiaB0y/CVE-2022-1388">
+- [f0ng/text4shellburpscanner](https://github.com/f0ng/text4shellburpscanner)	<img alt="forks" src="https://img.shields.io/github/forks/f0ng/text4shellburpscanner">	<img alt="stars" src="https://img.shields.io/github/stars/f0ng/text4shellburpscanner">
 
 ---
 ## CVE-2022-202133 ()
