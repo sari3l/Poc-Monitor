@@ -63,6 +63,11 @@
 - [sudoninja-noob/CVE-2022-45217](https://github.com/sudoninja-noob/CVE-2022-45217)	<img alt="forks" src="https://img.shields.io/github/forks/sudoninja-noob/CVE-2022-45217">	<img alt="stars" src="https://img.shields.io/github/stars/sudoninja-noob/CVE-2022-45217">
 
 ---
+## CVE-2022-45025 (2022-12-07T02:15:00)
+> Markdown Preview Enhanced v0.6.5 and v0.19.6 for VSCode and Atom was discovered to contain a command injection vulnerability via the PDF file import function.
+- [yuriisanin/CVE-2022-45025](https://github.com/yuriisanin/CVE-2022-45025)	<img alt="forks" src="https://img.shields.io/github/forks/yuriisanin/CVE-2022-45025">	<img alt="stars" src="https://img.shields.io/github/stars/yuriisanin/CVE-2022-45025">
+
+---
 ## CVE-2022-44830 (2022-11-21T18:15:00)
 > Sourcecodester Event Registration App v1.0 was discovered to contain multiple CSV injection vulnerabilities via the First Name, Contact and Remarks fields. These vulnerabilities allow attackers to execute arbitrary code via a crafted excel file.
 - [RashidKhanPathan/CVE-2022-44830](https://github.com/RashidKhanPathan/CVE-2022-44830)	<img alt="forks" src="https://img.shields.io/github/forks/RashidKhanPathan/CVE-2022-44830">	<img alt="stars" src="https://img.shields.io/github/stars/RashidKhanPathan/CVE-2022-44830">
