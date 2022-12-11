@@ -1077,6 +1077,7 @@
 - [sml1nk/CVE-2022-3236-RCE](https://github.com/sml1nk/CVE-2022-3236-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/sml1nk/CVE-2022-3236-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/sml1nk/CVE-2022-3236-RCE">
 - [g01f/CVE-2022-3236-POC](https://github.com/g01f/CVE-2022-3236-POC)	<img alt="forks" src="https://img.shields.io/github/forks/g01f/CVE-2022-3236-POC">	<img alt="stars" src="https://img.shields.io/github/stars/g01f/CVE-2022-3236-POC">
 - [Adynervi/CVE-2022-3236-MASS-RCE](https://github.com/Adynervi/CVE-2022-3236-MASS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Adynervi/CVE-2022-3236-MASS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Adynervi/CVE-2022-3236-MASS-RCE">
+- [subvers1on/CVE-2022-3236-RCE-PoC](https://github.com/subvers1on/CVE-2022-3236-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/subvers1on/CVE-2022-3236-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/subvers1on/CVE-2022-3236-RCE-PoC">
 
 ---
 ## CVE-2022-32250 (2022-06-02T21:15:00)
