@@ -1191,6 +1191,11 @@
 - [Administrative2022/CVE-2022-31474-wordpress](https://github.com/Administrative2022/CVE-2022-31474-wordpress)	<img alt="forks" src="https://img.shields.io/github/forks/Administrative2022/CVE-2022-31474-wordpress">	<img alt="stars" src="https://img.shields.io/github/stars/Administrative2022/CVE-2022-31474-wordpress">
 
 ---
+## CVE-2022-31403 (2022-06-14T17:15:00)
+> ITOP v3.0.1 was discovered to contain a cross-site scripting (XSS) vulnerability via /itop/pages/ajax.render.php.
+- [IbrahimEkimIsik/CVE-2022-31403](https://github.com/IbrahimEkimIsik/CVE-2022-31403)	<img alt="forks" src="https://img.shields.io/github/forks/IbrahimEkimIsik/CVE-2022-31403">	<img alt="stars" src="https://img.shields.io/github/stars/IbrahimEkimIsik/CVE-2022-31403">
+
+---
 ## CVE-2022-31301 (2022-06-16T18:15:00)
 > Haraj v3.7 was discovered to contain a stored cross-site scripting (XSS) vulnerability in the Post Ads component.
 - [bigzooooz/CVE-2022-31301](https://github.com/bigzooooz/CVE-2022-31301)	<img alt="forks" src="https://img.shields.io/github/forks/bigzooooz/CVE-2022-31301">	<img alt="stars" src="https://img.shields.io/github/stars/bigzooooz/CVE-2022-31301">
