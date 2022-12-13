@@ -573,6 +573,11 @@
 - [azhurtanov/CVE-2022-38374](https://github.com/azhurtanov/CVE-2022-38374)	<img alt="forks" src="https://img.shields.io/github/forks/azhurtanov/CVE-2022-38374">	<img alt="stars" src="https://img.shields.io/github/stars/azhurtanov/CVE-2022-38374">
 
 ---
+## CVE-2022-3786 (2022-11-01T18:15:00)
+> A buffer overrun can be triggered in X.509 certificate verification, specifically in name constraint checking. Note that this occurs after certificate chain signature verification and requires either a CA to have signed a malicious certificate or for an application to continue certificate verification despite failure to construct a path to a trusted issuer. An attacker can craft a malicious email address in a certificate to overflow an arbitrary number of bytes containing the `.' character (decimal 46) on the stack. This buffer overflow could result in a crash (causing a denial of service). In a TLS client, this can be triggered by connecting to a malicious server. In a TLS server, this can be triggered if the server requests client authentication and a malicious client connects.
+- [plharraud/cve-2022-3786](https://github.com/plharraud/cve-2022-3786)	<img alt="forks" src="https://img.shields.io/github/forks/plharraud/cve-2022-3786">	<img alt="stars" src="https://img.shields.io/github/stars/plharraud/cve-2022-3786">
+
+---
 ## CVE-2022-37706 ()
 > 
 - [MaherAzzouzi/CVE-2022-37706-LPE-exploit](https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/MaherAzzouzi/CVE-2022-37706-LPE-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/MaherAzzouzi/CVE-2022-37706-LPE-exploit">
