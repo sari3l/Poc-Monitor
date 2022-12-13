@@ -138,6 +138,7 @@
 - [5l1v3r1/CVE-2020-5902-Mass](https://github.com/5l1v3r1/CVE-2020-5902-Mass)	<img alt="forks" src="https://img.shields.io/github/forks/5l1v3r1/CVE-2020-5902-Mass">	<img alt="stars" src="https://img.shields.io/github/stars/5l1v3r1/CVE-2020-5902-Mass">
 - [Shu1L/CVE-2020-5902-fofa-scan](https://github.com/Shu1L/CVE-2020-5902-fofa-scan)	<img alt="forks" src="https://img.shields.io/github/forks/Shu1L/CVE-2020-5902-fofa-scan">	<img alt="stars" src="https://img.shields.io/github/stars/Shu1L/CVE-2020-5902-fofa-scan">
 - [trhacknon/CVE-2020-5902-Scanner](https://github.com/trhacknon/CVE-2020-5902-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2020-5902-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2020-5902-Scanner">
+- [34zY/APT-Backpack](https://github.com/34zY/APT-Backpack)	<img alt="forks" src="https://img.shields.io/github/forks/34zY/APT-Backpack">	<img alt="stars" src="https://img.shields.io/github/stars/34zY/APT-Backpack">
 
 ---
 ## CVE-2020-5844 (2020-03-16T18:15:00)

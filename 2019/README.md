@@ -307,6 +307,7 @@
 - [es0/CVE-2019-11510_poc](https://github.com/es0/CVE-2019-11510_poc)	<img alt="forks" src="https://img.shields.io/github/forks/es0/CVE-2019-11510_poc">	<img alt="stars" src="https://img.shields.io/github/stars/es0/CVE-2019-11510_poc">
 - [imjdl/CVE-2019-11510-poc](https://github.com/imjdl/CVE-2019-11510-poc)	<img alt="forks" src="https://img.shields.io/github/forks/imjdl/CVE-2019-11510-poc">	<img alt="stars" src="https://img.shields.io/github/stars/imjdl/CVE-2019-11510-poc">
 - [nuc13us/Pulse](https://github.com/nuc13us/Pulse)	<img alt="forks" src="https://img.shields.io/github/forks/nuc13us/Pulse">	<img alt="stars" src="https://img.shields.io/github/stars/nuc13us/Pulse">
+- [34zY/APT-Backpack](https://github.com/34zY/APT-Backpack)	<img alt="forks" src="https://img.shields.io/github/forks/34zY/APT-Backpack">	<img alt="stars" src="https://img.shields.io/github/stars/34zY/APT-Backpack">
 
 ---
 ## CVE-2019-11043 (2019-10-28T15:15:00)
