@@ -48,6 +48,11 @@
 - [imjdl/CVE-2022-46169](https://github.com/imjdl/CVE-2022-46169)	<img alt="forks" src="https://img.shields.io/github/forks/imjdl/CVE-2022-46169">	<img alt="stars" src="https://img.shields.io/github/stars/imjdl/CVE-2022-46169">
 
 ---
+## CVE-2022-45771 (2022-12-05T20:15:00)
+> An issue in the /api/audits component of Pwndoc v0.5.3 allows attackers to escalate privileges and execute arbitrary code via uploading a crafted audit file.
+- [p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE](https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE">
+
+---
 ## CVE-2022-45472 (2022-11-23T06:15:00)
 > CAE LearningSpace Enterprise (with Intuity License) image 267r patch 639 allows DOM XSS, related to ontouchmove and onpointerup.
 - [nicbrinkley/CVE-2022-45472](https://github.com/nicbrinkley/CVE-2022-45472)	<img alt="forks" src="https://img.shields.io/github/forks/nicbrinkley/CVE-2022-45472">	<img alt="stars" src="https://img.shields.io/github/stars/nicbrinkley/CVE-2022-45472">
