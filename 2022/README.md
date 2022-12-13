@@ -250,6 +250,11 @@
 - [aryrz/cve-2022-41352-zimbra-rce](https://github.com/aryrz/cve-2022-41352-zimbra-rce)	<img alt="forks" src="https://img.shields.io/github/forks/aryrz/cve-2022-41352-zimbra-rce">	<img alt="stars" src="https://img.shields.io/github/stars/aryrz/cve-2022-41352-zimbra-rce">
 
 ---
+## CVE-2022-41272 (2022-12-13T04:15:00)
+> An unauthenticated attacker over the network can attach to an open interface exposed through JNDI by the User Defined Search (UDS) of SAP NetWeaver Process Integration (PI) - version 7.50 and make use of an open naming and directory API to access services which can be used to perform unauthorized operations affecting users and data across the entire system. This allows the attacker to have full read access to user data, make limited modifications to user data, and degrade the performance of the system, leading to a high impact on confidentiality and a limited impact on the availability and integrity of the application.
+- [redrays-io/CVE-2022-41272](https://github.com/redrays-io/CVE-2022-41272)	<img alt="forks" src="https://img.shields.io/github/forks/redrays-io/CVE-2022-41272">	<img alt="stars" src="https://img.shields.io/github/stars/redrays-io/CVE-2022-41272">
+
+---
 ## CVE-2022-41218 (2022-09-21T07:15:00)
 > In drivers/media/dvb-core/dmxdev.c in the Linux kernel through 5.19.10, there is a use-after-free caused by refcount races, affecting dvb_demux_open and dvb_dmxdev_release.
 - [V4bel/CVE-2022-41218](https://github.com/V4bel/CVE-2022-41218)	<img alt="forks" src="https://img.shields.io/github/forks/V4bel/CVE-2022-41218">	<img alt="stars" src="https://img.shields.io/github/stars/V4bel/CVE-2022-41218">
