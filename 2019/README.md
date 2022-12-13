@@ -289,6 +289,11 @@
 - [razordeveloper/CVE-2019-1205](https://github.com/razordeveloper/CVE-2019-1205)	<img alt="forks" src="https://img.shields.io/github/forks/razordeveloper/CVE-2019-1205">	<img alt="stars" src="https://img.shields.io/github/stars/razordeveloper/CVE-2019-1205">
 
 ---
+## CVE-2019-11510 (2019-05-08T17:29:00)
+> In Pulse Secure Pulse Connect Secure (PCS) 8.2 before 8.2R12.1, 8.3 before 8.3R7.1, and 9.0 before 9.0R3.4, an unauthenticated remote attacker can send a specially crafted URI to perform an arbitrary file reading vulnerability .
+- [trhacknon/CVE-2019-11510](https://github.com/trhacknon/CVE-2019-11510)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2019-11510">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2019-11510">
+
+---
 ## CVE-2019-11043 (2019-10-28T15:15:00)
 > In PHP versions 7.1.x below 7.1.33, 7.2.x below 7.2.24 and 7.3.x below 7.3.11 in certain configurations of FPM setup it is possible to cause FPM module to write past allocated buffers into the space reserved for FCGI protocol data, thus opening the possibility of remote code execution.
 - [trhacknon/CVE-2019-11043](https://github.com/trhacknon/CVE-2019-11043)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2019-11043">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2019-11043">
