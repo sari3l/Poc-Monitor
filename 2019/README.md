@@ -147,6 +147,7 @@
 - [RaulCalvoLaorden/CVE-2019-19781](https://github.com/RaulCalvoLaorden/CVE-2019-19781)	<img alt="forks" src="https://img.shields.io/github/forks/RaulCalvoLaorden/CVE-2019-19781">	<img alt="stars" src="https://img.shields.io/github/stars/RaulCalvoLaorden/CVE-2019-19781">
 - [Azeemering/CVE-2019-19781-DFIR-Notes](https://github.com/Azeemering/CVE-2019-19781-DFIR-Notes)	<img alt="forks" src="https://img.shields.io/github/forks/Azeemering/CVE-2019-19781-DFIR-Notes">	<img alt="stars" src="https://img.shields.io/github/stars/Azeemering/CVE-2019-19781-DFIR-Notes">
 - [x1sec/citrix-honeypot](https://github.com/x1sec/citrix-honeypot)	<img alt="forks" src="https://img.shields.io/github/forks/x1sec/citrix-honeypot">	<img alt="stars" src="https://img.shields.io/github/stars/x1sec/citrix-honeypot">
+- [trhacknon/CVE-2019-19781](https://github.com/trhacknon/CVE-2019-19781)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2019-19781">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2019-19781">
 
 ---
 ## CVE-2019-18845 (2019-11-09T18:15:00)
@@ -292,6 +293,20 @@
 ## CVE-2019-11510 (2019-05-08T17:29:00)
 > In Pulse Secure Pulse Connect Secure (PCS) 8.2 before 8.2R12.1, 8.3 before 8.3R7.1, and 9.0 before 9.0R3.4, an unauthenticated remote attacker can send a specially crafted URI to perform an arbitrary file reading vulnerability .
 - [trhacknon/CVE-2019-11510](https://github.com/trhacknon/CVE-2019-11510)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2019-11510">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2019-11510">
+- [hackingyseguridad/directoriotraversal](https://github.com/hackingyseguridad/directoriotraversal)	<img alt="forks" src="https://img.shields.io/github/forks/hackingyseguridad/directoriotraversal">	<img alt="stars" src="https://img.shields.io/github/stars/hackingyseguridad/directoriotraversal">
+- [pwn3z/CVE-2019-11510-PulseVPN](https://github.com/pwn3z/CVE-2019-11510-PulseVPN)	<img alt="forks" src="https://img.shields.io/github/forks/pwn3z/CVE-2019-11510-PulseVPN">	<img alt="stars" src="https://img.shields.io/github/stars/pwn3z/CVE-2019-11510-PulseVPN">
+- [cisagov/check-your-pulse](https://github.com/cisagov/check-your-pulse)	<img alt="forks" src="https://img.shields.io/github/forks/cisagov/check-your-pulse">	<img alt="stars" src="https://img.shields.io/github/stars/cisagov/check-your-pulse">
+- [andripwn/pulse-exploit](https://github.com/andripwn/pulse-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/andripwn/pulse-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/andripwn/pulse-exploit">
+- [aqhmal/pulsexploit](https://github.com/aqhmal/pulsexploit)	<img alt="forks" src="https://img.shields.io/github/forks/aqhmal/pulsexploit">	<img alt="stars" src="https://img.shields.io/github/stars/aqhmal/pulsexploit">
+- [BishopFox/pwn-pulse](https://github.com/BishopFox/pwn-pulse)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/pwn-pulse">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/pwn-pulse">
+- [projectzeroindia/CVE-2019-11510](https://github.com/projectzeroindia/CVE-2019-11510)	<img alt="forks" src="https://img.shields.io/github/forks/projectzeroindia/CVE-2019-11510">	<img alt="stars" src="https://img.shields.io/github/stars/projectzeroindia/CVE-2019-11510">
+- [sp4rkhunt3r/CVE2019-11510](https://github.com/sp4rkhunt3r/CVE2019-11510)	<img alt="forks" src="https://img.shields.io/github/forks/sp4rkhunt3r/CVE2019-11510">	<img alt="stars" src="https://img.shields.io/github/stars/sp4rkhunt3r/CVE2019-11510">
+- [jason3e7/CVE-2019-11510](https://github.com/jason3e7/CVE-2019-11510)	<img alt="forks" src="https://img.shields.io/github/forks/jason3e7/CVE-2019-11510">	<img alt="stars" src="https://img.shields.io/github/stars/jason3e7/CVE-2019-11510">
+- [jas502n/CVE-2019-11510-1](https://github.com/jas502n/CVE-2019-11510-1)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2019-11510-1">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2019-11510-1">
+- [r00tpgp/http-pulse_ssl_vpn.nse](https://github.com/r00tpgp/http-pulse_ssl_vpn.nse)	<img alt="forks" src="https://img.shields.io/github/forks/r00tpgp/http-pulse_ssl_vpn.nse">	<img alt="stars" src="https://img.shields.io/github/stars/r00tpgp/http-pulse_ssl_vpn.nse">
+- [es0/CVE-2019-11510_poc](https://github.com/es0/CVE-2019-11510_poc)	<img alt="forks" src="https://img.shields.io/github/forks/es0/CVE-2019-11510_poc">	<img alt="stars" src="https://img.shields.io/github/stars/es0/CVE-2019-11510_poc">
+- [imjdl/CVE-2019-11510-poc](https://github.com/imjdl/CVE-2019-11510-poc)	<img alt="forks" src="https://img.shields.io/github/forks/imjdl/CVE-2019-11510-poc">	<img alt="stars" src="https://img.shields.io/github/stars/imjdl/CVE-2019-11510-poc">
+- [nuc13us/Pulse](https://github.com/nuc13us/Pulse)	<img alt="forks" src="https://img.shields.io/github/forks/nuc13us/Pulse">	<img alt="stars" src="https://img.shields.io/github/stars/nuc13us/Pulse">
 
 ---
 ## CVE-2019-11043 (2019-10-28T15:15:00)

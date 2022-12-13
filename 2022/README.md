@@ -688,6 +688,7 @@
 - [GreyNoise-Intelligence/Zimbra_Collaboration_CVE-2022-37042-_CVE-2022-27925](https://github.com/GreyNoise-Intelligence/Zimbra_Collaboration_CVE-2022-37042-_CVE-2022-27925)	<img alt="forks" src="https://img.shields.io/github/forks/GreyNoise-Intelligence/Zimbra_Collaboration_CVE-2022-37042-_CVE-2022-27925">	<img alt="stars" src="https://img.shields.io/github/stars/GreyNoise-Intelligence/Zimbra_Collaboration_CVE-2022-37042-_CVE-2022-27925">
 - [GreyNoise-Intelligence/Zimbra_CVE-2022-37042-_CVE-2022-27925](https://github.com/GreyNoise-Intelligence/Zimbra_CVE-2022-37042-_CVE-2022-27925)	<img alt="forks" src="https://img.shields.io/github/forks/GreyNoise-Intelligence/Zimbra_CVE-2022-37042-_CVE-2022-27925">	<img alt="stars" src="https://img.shields.io/github/stars/GreyNoise-Intelligence/Zimbra_CVE-2022-37042-_CVE-2022-27925">
 - [aels/CVE-2022-37042](https://github.com/aels/CVE-2022-37042)	<img alt="forks" src="https://img.shields.io/github/forks/aels/CVE-2022-37042">	<img alt="stars" src="https://img.shields.io/github/stars/aels/CVE-2022-37042">
+- [0xf4n9x/CVE-2022-37042](https://github.com/0xf4n9x/CVE-2022-37042)	<img alt="forks" src="https://img.shields.io/github/forks/0xf4n9x/CVE-2022-37042">	<img alt="stars" src="https://img.shields.io/github/stars/0xf4n9x/CVE-2022-37042">
 
 ---
 ## CVE-2022-3699 ()
