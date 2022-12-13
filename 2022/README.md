@@ -1826,6 +1826,7 @@
 - [expl0despl0it/CVE-2022-25845](https://github.com/expl0despl0it/CVE-2022-25845)	<img alt="forks" src="https://img.shields.io/github/forks/expl0despl0it/CVE-2022-25845">	<img alt="stars" src="https://img.shields.io/github/stars/expl0despl0it/CVE-2022-25845">
 - [hosch3n/FastjsonVulns](https://github.com/hosch3n/FastjsonVulns)	<img alt="forks" src="https://img.shields.io/github/forks/hosch3n/FastjsonVulns">	<img alt="stars" src="https://img.shields.io/github/stars/hosch3n/FastjsonVulns">
 - [c0resploit/CVE-2022-25845](https://github.com/c0resploit/CVE-2022-25845)	<img alt="forks" src="https://img.shields.io/github/forks/c0resploit/CVE-2022-25845">	<img alt="stars" src="https://img.shields.io/github/stars/c0resploit/CVE-2022-25845">
+- [Administrator-Xorex/CVE-2022-25845-Server](https://github.com/Administrator-Xorex/CVE-2022-25845-Server)	<img alt="forks" src="https://img.shields.io/github/forks/Administrator-Xorex/CVE-2022-25845-Server">	<img alt="stars" src="https://img.shields.io/github/stars/Administrator-Xorex/CVE-2022-25845-Server">
 
 ---
 ## CVE-2022-25765 (2022-09-09T05:15:00)
