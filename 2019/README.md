@@ -148,6 +148,7 @@
 - [Azeemering/CVE-2019-19781-DFIR-Notes](https://github.com/Azeemering/CVE-2019-19781-DFIR-Notes)	<img alt="forks" src="https://img.shields.io/github/forks/Azeemering/CVE-2019-19781-DFIR-Notes">	<img alt="stars" src="https://img.shields.io/github/stars/Azeemering/CVE-2019-19781-DFIR-Notes">
 - [x1sec/citrix-honeypot](https://github.com/x1sec/citrix-honeypot)	<img alt="forks" src="https://img.shields.io/github/forks/x1sec/citrix-honeypot">	<img alt="stars" src="https://img.shields.io/github/stars/x1sec/citrix-honeypot">
 - [trhacknon/CVE-2019-19781](https://github.com/trhacknon/CVE-2019-19781)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2019-19781">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2019-19781">
+- [34zY/APT-Backpack](https://github.com/34zY/APT-Backpack)	<img alt="forks" src="https://img.shields.io/github/forks/34zY/APT-Backpack">	<img alt="stars" src="https://img.shields.io/github/stars/34zY/APT-Backpack">
 
 ---
 ## CVE-2019-18845 (2019-11-09T18:15:00)
