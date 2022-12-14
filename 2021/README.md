@@ -937,6 +937,7 @@
 - [shamo0/CVE-2021-27928-POC](https://github.com/shamo0/CVE-2021-27928-POC)	<img alt="forks" src="https://img.shields.io/github/forks/shamo0/CVE-2021-27928-POC">	<img alt="stars" src="https://img.shields.io/github/stars/shamo0/CVE-2021-27928-POC">
 - [Al1ex/CVE-2021-27928](https://github.com/Al1ex/CVE-2021-27928)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/CVE-2021-27928">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/CVE-2021-27928">
 - [WilsonFung414/CVE-2021-27928_Docker_2](https://github.com/WilsonFung414/CVE-2021-27928_Docker_2)	<img alt="forks" src="https://img.shields.io/github/forks/WilsonFung414/CVE-2021-27928_Docker_2">	<img alt="stars" src="https://img.shields.io/github/stars/WilsonFung414/CVE-2021-27928_Docker_2">
+- [LalieA/CVE-2021-27928](https://github.com/LalieA/CVE-2021-27928)	<img alt="forks" src="https://img.shields.io/github/forks/LalieA/CVE-2021-27928">	<img alt="stars" src="https://img.shields.io/github/stars/LalieA/CVE-2021-27928">
 
 ---
 ## CVE-2021-27905 (2021-04-13T07:15:00)
