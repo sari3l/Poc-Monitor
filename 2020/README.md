@@ -154,6 +154,7 @@
 ## CVE-2020-5248 (2020-05-12T16:15:00)
 > GLPI before before version 9.4.6 has a vulnerability involving a default encryption key. GLPIKEY is public and is used on every instance. This means anyone can decrypt sensitive data stored using this key. It is possible to change the key before installing GLPI. But on existing instances, data must be reencrypted with the new key. Problem is we can not know which columns or rows in the database are using that; espcially from plugins. Changing the key without updating data would lend in bad password sent from glpi; but storing them again from the UI will work.
 - [indevi0us/CVE-2020-5248](https://github.com/indevi0us/CVE-2020-5248)	<img alt="forks" src="https://img.shields.io/github/forks/indevi0us/CVE-2020-5248">	<img alt="stars" src="https://img.shields.io/github/stars/indevi0us/CVE-2020-5248">
+- [Mkway/CVE-2020-5248](https://github.com/Mkway/CVE-2020-5248)	<img alt="forks" src="https://img.shields.io/github/forks/Mkway/CVE-2020-5248">	<img alt="stars" src="https://img.shields.io/github/stars/Mkway/CVE-2020-5248">
 
 ---
 ## CVE-2020-4464 (2020-07-17T14:15:00)
