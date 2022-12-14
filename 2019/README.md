@@ -348,6 +348,7 @@
 > Linux kernel CIFS implementation, version 4.9.0 is vulnerable to a relative paths injection in directory entry lists.
 - [nidhi7598/linux-4.1.15_CVE-2019-10220](https://github.com/nidhi7598/linux-4.1.15_CVE-2019-10220)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.1.15_CVE-2019-10220">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.1.15_CVE-2019-10220">
 - [nidhi7598/linux-4.1.15_CVE-2019-10220](https://github.com/nidhi7598/linux-4.1.15_CVE-2019-10220)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.1.15_CVE-2019-10220">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.1.15_CVE-2019-10220">
+- [Trinadh465/device_renesas_kernel_AOSP10_r33_CVE-2019-10220](https://github.com/Trinadh465/device_renesas_kernel_AOSP10_r33_CVE-2019-10220)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/device_renesas_kernel_AOSP10_r33_CVE-2019-10220">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/device_renesas_kernel_AOSP10_r33_CVE-2019-10220">
 
 ---
 ## CVE-2019-1010319 (2019-07-11T20:15:00)
