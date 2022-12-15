@@ -710,6 +710,8 @@
 ## CVE-2021-35464 (2021-07-22T18:15:00)
 > ForgeRock AM server before 7.0 has a Java deserialization vulnerability in the jato.pageSession parameter on multiple pages. The exploitation does not require authentication, and remote code execution can be triggered by sending a single crafted /ccversion/* request to the server. The vulnerability exists due to the usage of Sun ONE Application Framework (JATO) found in versions of Java 8 or earlier
 - [Y4er/openam-CVE-2021-35464](https://github.com/Y4er/openam-CVE-2021-35464)	<img alt="forks" src="https://img.shields.io/github/forks/Y4er/openam-CVE-2021-35464">	<img alt="stars" src="https://img.shields.io/github/stars/Y4er/openam-CVE-2021-35464">
+- [gobysec/GobyVuls](https://github.com/gobysec/GobyVuls)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/GobyVuls">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/GobyVuls">
+- [rood8008/CVE-2021-35464](https://github.com/rood8008/CVE-2021-35464)	<img alt="forks" src="https://img.shields.io/github/forks/rood8008/CVE-2021-35464">	<img alt="stars" src="https://img.shields.io/github/stars/rood8008/CVE-2021-35464">
 
 ---
 ## CVE-2021-35448 (2021-06-24T20:15:00)
