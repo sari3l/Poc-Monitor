@@ -10,6 +10,14 @@
 > file/show.cgi in Webmin 1.590 and earlier allows remote authenticated users to execute arbitrary commands via an invalid character in a pathname, as demonstrated by a | (pipe) character.
 - [0xF331-D3AD/CVE-2012-2982](https://github.com/0xF331-D3AD/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/0xF331-D3AD/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/0xF331-D3AD/CVE-2012-2982">
 - [0xTas/CVE-2012-2982](https://github.com/0xTas/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/0xTas/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/0xTas/CVE-2012-2982">
+- [R00tendo/CVE-2012-2982](https://github.com/R00tendo/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/R00tendo/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/R00tendo/CVE-2012-2982">
+- [blu3ming/CVE-2012-2982](https://github.com/blu3ming/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/blu3ming/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/blu3ming/CVE-2012-2982">
+- [SlizBinksman/CVE_2012-2982](https://github.com/SlizBinksman/CVE_2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/SlizBinksman/CVE_2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/SlizBinksman/CVE_2012-2982">
+- [JohnHammond/CVE-2012-2982](https://github.com/JohnHammond/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/JohnHammond/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/JohnHammond/CVE-2012-2982">
+- [Ari-Weinberg/CVE-2012-2982](https://github.com/Ari-Weinberg/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/Ari-Weinberg/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/Ari-Weinberg/CVE-2012-2982">
+- [AlexJS6/CVE-2012-2982_Python](https://github.com/AlexJS6/CVE-2012-2982_Python)	<img alt="forks" src="https://img.shields.io/github/forks/AlexJS6/CVE-2012-2982_Python">	<img alt="stars" src="https://img.shields.io/github/stars/AlexJS6/CVE-2012-2982_Python">
+- [cd6629/CVE-2012-2982-Python-PoC](https://github.com/cd6629/CVE-2012-2982-Python-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/cd6629/CVE-2012-2982-Python-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/cd6629/CVE-2012-2982-Python-PoC">
+- [OstojaOfficial/CVE-2012-2982](https://github.com/OstojaOfficial/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/OstojaOfficial/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/OstojaOfficial/CVE-2012-2982">
 
 ---
 ## CVE-2012-2661 (2012-06-22T14:55:00)
