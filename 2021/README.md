@@ -707,6 +707,11 @@
 - [saitamang/CVE-2021-35475](https://github.com/saitamang/CVE-2021-35475)	<img alt="forks" src="https://img.shields.io/github/forks/saitamang/CVE-2021-35475">	<img alt="stars" src="https://img.shields.io/github/stars/saitamang/CVE-2021-35475">
 
 ---
+## CVE-2021-35464 (2021-07-22T18:15:00)
+> ForgeRock AM server before 7.0 has a Java deserialization vulnerability in the jato.pageSession parameter on multiple pages. The exploitation does not require authentication, and remote code execution can be triggered by sending a single crafted /ccversion/* request to the server. The vulnerability exists due to the usage of Sun ONE Application Framework (JATO) found in versions of Java 8 or earlier
+- [Y4er/openam-CVE-2021-35464](https://github.com/Y4er/openam-CVE-2021-35464)	<img alt="forks" src="https://img.shields.io/github/forks/Y4er/openam-CVE-2021-35464">	<img alt="stars" src="https://img.shields.io/github/stars/Y4er/openam-CVE-2021-35464">
+
+---
 ## CVE-2021-35448 (2021-06-24T20:15:00)
 > Emote Interactive Remote Mouse 3.008 on Windows allows attackers to execute arbitrary programs as Administrator by using the Image Transfer Folder feature to navigate to cmd.exe. It binds to local ports to listen for incoming connections.
 - [deathflash1411/CVE-2021-35448](https://github.com/deathflash1411/CVE-2021-35448)	<img alt="forks" src="https://img.shields.io/github/forks/deathflash1411/CVE-2021-35448">	<img alt="stars" src="https://img.shields.io/github/stars/deathflash1411/CVE-2021-35448">

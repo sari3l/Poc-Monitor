@@ -1824,8 +1824,8 @@
 - [badboy-sft/CVE-2022-26134](https://github.com/badboy-sft/CVE-2022-26134)	<img alt="forks" src="https://img.shields.io/github/forks/badboy-sft/CVE-2022-26134">	<img alt="stars" src="https://img.shields.io/github/stars/badboy-sft/CVE-2022-26134">
 
 ---
-## CVE-2022-2601 ()
-> 
+## CVE-2022-2601 (2022-12-14T21:15:00)
+> A buffer overflow was found in grub_font_construct_glyph(). A malicious crafted pf2 font can lead to an overflow when calculating the max_glyph_size value, allocating a smaller than needed buffer for the glyph, this further leads to a buffer overflow and a heap based out-of-bounds write. An attacker may use this vulnerability to circumvent the secure boot mechanism.
 - [zhangboyang/cve-2022-2601](https://github.com/zhangboyang/cve-2022-2601)	<img alt="forks" src="https://img.shields.io/github/forks/zhangboyang/cve-2022-2601">	<img alt="stars" src="https://img.shields.io/github/stars/zhangboyang/cve-2022-2601">
 
 ---

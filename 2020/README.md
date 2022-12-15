@@ -246,6 +246,24 @@
 - [7Mitu/CVE-2020-25790](https://github.com/7Mitu/CVE-2020-25790)	<img alt="forks" src="https://img.shields.io/github/forks/7Mitu/CVE-2020-25790">	<img alt="stars" src="https://img.shields.io/github/stars/7Mitu/CVE-2020-25790">
 
 ---
+## CVE-2020-2555 (2020-01-15T17:15:00)
+> Vulnerability in the Oracle Coherence product of Oracle Fusion Middleware (component: Caching,CacheStore,Invocation). Supported versions that are affected are 3.7.1.0, 12.1.3.0.0, 12.2.1.3.0 and 12.2.1.4.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3 to compromise Oracle Coherence. Successful attacks of this vulnerability can result in takeover of Oracle Coherence. CVSS 3.0 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).
+- [Y4er/CVE-2020-2555](https://github.com/Y4er/CVE-2020-2555)	<img alt="forks" src="https://img.shields.io/github/forks/Y4er/CVE-2020-2555">	<img alt="stars" src="https://img.shields.io/github/stars/Y4er/CVE-2020-2555">
+- [zzwlpx/weblogicPoc](https://github.com/zzwlpx/weblogicPoc)	<img alt="forks" src="https://img.shields.io/github/forks/zzwlpx/weblogicPoc">	<img alt="stars" src="https://img.shields.io/github/stars/zzwlpx/weblogicPoc">
+- [0xn0ne/weblogicScanner](https://github.com/0xn0ne/weblogicScanner)	<img alt="forks" src="https://img.shields.io/github/forks/0xn0ne/weblogicScanner">	<img alt="stars" src="https://img.shields.io/github/stars/0xn0ne/weblogicScanner">
+- [zhzyker/vulmap](https://github.com/zhzyker/vulmap)	<img alt="forks" src="https://img.shields.io/github/forks/zhzyker/vulmap">	<img alt="stars" src="https://img.shields.io/github/stars/zhzyker/vulmap">
+- [dream0x01/weblogic-framework](https://github.com/dream0x01/weblogic-framework)	<img alt="forks" src="https://img.shields.io/github/forks/dream0x01/weblogic-framework">	<img alt="stars" src="https://img.shields.io/github/stars/dream0x01/weblogic-framework">
+- [Qynklee/POC_CVE-2020-2555](https://github.com/Qynklee/POC_CVE-2020-2555)	<img alt="forks" src="https://img.shields.io/github/forks/Qynklee/POC_CVE-2020-2555">	<img alt="stars" src="https://img.shields.io/github/stars/Qynklee/POC_CVE-2020-2555">
+- [zhzyker/exphub](https://github.com/zhzyker/exphub)	<img alt="forks" src="https://img.shields.io/github/forks/zhzyker/exphub">	<img alt="stars" src="https://img.shields.io/github/stars/zhzyker/exphub">
+- [feihong-cs/Attacking_Shiro_with_CVE_2020_2555](https://github.com/feihong-cs/Attacking_Shiro_with_CVE_2020_2555)	<img alt="forks" src="https://img.shields.io/github/forks/feihong-cs/Attacking_Shiro_with_CVE_2020_2555">	<img alt="stars" src="https://img.shields.io/github/stars/feihong-cs/Attacking_Shiro_with_CVE_2020_2555">
+- [adm1in/CodeTest](https://github.com/adm1in/CodeTest)	<img alt="forks" src="https://img.shields.io/github/forks/adm1in/CodeTest">	<img alt="stars" src="https://img.shields.io/github/stars/adm1in/CodeTest">
+- [Uvemode/CVE-2020-2555](https://github.com/Uvemode/CVE-2020-2555)	<img alt="forks" src="https://img.shields.io/github/forks/Uvemode/CVE-2020-2555">	<img alt="stars" src="https://img.shields.io/github/stars/Uvemode/CVE-2020-2555">
+- [wsfengfan/CVE-2020-2555](https://github.com/wsfengfan/CVE-2020-2555)	<img alt="forks" src="https://img.shields.io/github/forks/wsfengfan/CVE-2020-2555">	<img alt="stars" src="https://img.shields.io/github/stars/wsfengfan/CVE-2020-2555">
+- [5l1v3r1/CVE-2020-2556](https://github.com/5l1v3r1/CVE-2020-2556)	<img alt="forks" src="https://img.shields.io/github/forks/5l1v3r1/CVE-2020-2556">	<img alt="stars" src="https://img.shields.io/github/stars/5l1v3r1/CVE-2020-2556">
+- [Maskhe/cve-2020-2555](https://github.com/Maskhe/cve-2020-2555)	<img alt="forks" src="https://img.shields.io/github/forks/Maskhe/cve-2020-2555">	<img alt="stars" src="https://img.shields.io/github/stars/Maskhe/cve-2020-2555">
+- [Hu3sky/CVE-2020-2555](https://github.com/Hu3sky/CVE-2020-2555)	<img alt="forks" src="https://img.shields.io/github/forks/Hu3sky/CVE-2020-2555">	<img alt="stars" src="https://img.shields.io/github/stars/Hu3sky/CVE-2020-2555">
+
+---
 ## CVE-2020-25540 (2020-09-14T13:15:00)
 > ThinkAdmin v6 is affected by a directory traversal vulnerability. An unauthorized attacker can read arbitrarily file on a remote server via GET request encode parameter.
 - [Schira4396/CVE-2020-25540](https://github.com/Schira4396/CVE-2020-25540)	<img alt="forks" src="https://img.shields.io/github/forks/Schira4396/CVE-2020-25540">	<img alt="stars" src="https://img.shields.io/github/stars/Schira4396/CVE-2020-25540">
