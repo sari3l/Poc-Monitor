@@ -352,6 +352,7 @@
 - [Trinadh465/device_renesas_kernel_AOSP10_r33_CVE-2019-10220](https://github.com/Trinadh465/device_renesas_kernel_AOSP10_r33_CVE-2019-10220)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/device_renesas_kernel_AOSP10_r33_CVE-2019-10220">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/device_renesas_kernel_AOSP10_r33_CVE-2019-10220">
 - [Trinadh465/linux-4.19.72_CVE-2019-10220](https://github.com/Trinadh465/linux-4.19.72_CVE-2019-10220)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux-4.19.72_CVE-2019-10220">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux-4.19.72_CVE-2019-10220">
 - [Trinadh465/linux_3.0.35_CVE-2019-10220](https://github.com/Trinadh465/linux_3.0.35_CVE-2019-10220)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux_3.0.35_CVE-2019-10220">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux_3.0.35_CVE-2019-10220">
+- [Trinadh465/linux-3.0.35_CVE-2019-10220](https://github.com/Trinadh465/linux-3.0.35_CVE-2019-10220)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux-3.0.35_CVE-2019-10220">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux-3.0.35_CVE-2019-10220">
 
 ---
 ## CVE-2019-1010319 (2019-07-11T20:15:00)
