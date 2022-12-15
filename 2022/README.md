@@ -63,6 +63,11 @@
 - [nicbrinkley/CVE-2022-45472](https://github.com/nicbrinkley/CVE-2022-45472)	<img alt="forks" src="https://img.shields.io/github/forks/nicbrinkley/CVE-2022-45472">	<img alt="stars" src="https://img.shields.io/github/stars/nicbrinkley/CVE-2022-45472">
 
 ---
+## CVE-2022-45451 ()
+> 
+- [alfarom256/CVE-2022-45451](https://github.com/alfarom256/CVE-2022-45451)	<img alt="forks" src="https://img.shields.io/github/forks/alfarom256/CVE-2022-45451">	<img alt="stars" src="https://img.shields.io/github/stars/alfarom256/CVE-2022-45451">
+
+---
 ## CVE-2022-45265 ()
 > 
 - [maikroservice/CVE-2022-45265](https://github.com/maikroservice/CVE-2022-45265)	<img alt="forks" src="https://img.shields.io/github/forks/maikroservice/CVE-2022-45265">	<img alt="stars" src="https://img.shields.io/github/stars/maikroservice/CVE-2022-45265">
