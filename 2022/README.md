@@ -1100,6 +1100,7 @@
 - [uisvit/CVE-2022-32548-MASS-RCE](https://github.com/uisvit/CVE-2022-32548-MASS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/uisvit/CVE-2022-32548-MASS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/uisvit/CVE-2022-32548-MASS-RCE">
 - [uisvit/CVE-2022-32548-RCE-MASS](https://github.com/uisvit/CVE-2022-32548-RCE-MASS)	<img alt="forks" src="https://img.shields.io/github/forks/uisvit/CVE-2022-32548-RCE-MASS">	<img alt="stars" src="https://img.shields.io/github/stars/uisvit/CVE-2022-32548-RCE-MASS">
 - [HarleyDoo/CVE-2022-32548-RCE-POC](https://github.com/HarleyDoo/CVE-2022-32548-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/HarleyDoo/CVE-2022-32548-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/HarleyDoo/CVE-2022-32548-RCE-POC">
+- [n4rmex/CVE-2022-32548-RCE-POC](https://github.com/n4rmex/CVE-2022-32548-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/n4rmex/CVE-2022-32548-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/n4rmex/CVE-2022-32548-RCE-POC">
 
 ---
 ## CVE-2022-32532 (2022-06-29T00:15:00)
