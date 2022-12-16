@@ -205,6 +205,11 @@
 - [0x240x23elu/CVE-2020-28948-and-CVE-2020-28949](https://github.com/0x240x23elu/CVE-2020-28948-and-CVE-2020-28949)	<img alt="forks" src="https://img.shields.io/github/forks/0x240x23elu/CVE-2020-28948-and-CVE-2020-28949">	<img alt="stars" src="https://img.shields.io/github/stars/0x240x23elu/CVE-2020-28948-and-CVE-2020-28949">
 
 ---
+## CVE-2020-27955 (2020-11-05T15:15:00)
+> Git LFS 2.12.0 allows Remote Code Execution.
+- [z50913/CVE-2020-27955](https://github.com/z50913/CVE-2020-27955)	<img alt="forks" src="https://img.shields.io/github/forks/z50913/CVE-2020-27955">	<img alt="stars" src="https://img.shields.io/github/stars/z50913/CVE-2020-27955">
+
+---
 ## CVE-2020-27786 (2020-12-11T05:15:00)
 > A flaw was found in the Linux kernel’s implementation of MIDI, where an attacker with a local account and the permissions to issue ioctl commands to midi devices could trigger a use-after-free issue. A write to this specific memory while freed and before use causes the flow of execution to change and possibly allow for memory corruption or privilege escalation. The highest threat from this vulnerability is to confidentiality, integrity, as well as system availability.
 - [kiks7/CVE-2020-27786-Kernel-Exploit](https://github.com/kiks7/CVE-2020-27786-Kernel-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/kiks7/CVE-2020-27786-Kernel-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/kiks7/CVE-2020-27786-Kernel-Exploit">
