@@ -352,6 +352,10 @@
 ## CVE-2017-0144 (2017-03-17T00:59:00)
 > The SMBv1 server in Microsoft Windows Vista SP2; Windows Server 2008 SP2 and R2 SP1; Windows 7 SP1; Windows 8.1; Windows Server 2012 Gold and R2; Windows RT 8.1; and Windows 10 Gold, 1511, and 1607; and Windows Server 2016 allows remote attackers to execute arbitrary code via crafted packets, aka "Windows SMB Remote Code Execution Vulnerability." This vulnerability is different from those described in CVE-2017-0143, CVE-2017-0145, CVE-2017-0146, and CVE-2017-0148.
 - [quynhold/Detect-CVE-2017-0144-attack](https://github.com/quynhold/Detect-CVE-2017-0144-attack)	<img alt="forks" src="https://img.shields.io/github/forks/quynhold/Detect-CVE-2017-0144-attack">	<img alt="stars" src="https://img.shields.io/github/stars/quynhold/Detect-CVE-2017-0144-attack">
+- [peterpt/eternal_scanner](https://github.com/peterpt/eternal_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/peterpt/eternal_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/peterpt/eternal_scanner">
+- [Ali-Imangholi/EternalBlueTrojan](https://github.com/Ali-Imangholi/EternalBlueTrojan)	<img alt="forks" src="https://img.shields.io/github/forks/Ali-Imangholi/EternalBlueTrojan">	<img alt="stars" src="https://img.shields.io/github/stars/Ali-Imangholi/EternalBlueTrojan">
+- [EEsshq/CVE-2017-0144---EtneralBlue-MS17-010-Remote-Code-Execution](https://github.com/EEsshq/CVE-2017-0144---EtneralBlue-MS17-010-Remote-Code-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/EEsshq/CVE-2017-0144---EtneralBlue-MS17-010-Remote-Code-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/EEsshq/CVE-2017-0144---EtneralBlue-MS17-010-Remote-Code-Execution">
+- [kimocoder/eternalblue](https://github.com/kimocoder/eternalblue)	<img alt="forks" src="https://img.shields.io/github/forks/kimocoder/eternalblue">	<img alt="stars" src="https://img.shields.io/github/stars/kimocoder/eternalblue">
 
 ---
 ## CVE-2017-0143 (2017-03-17T00:59:00)
