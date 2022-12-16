@@ -325,6 +325,7 @@
 - [notareaperbutDR34P3r/http-vuln-CVE-2022-41082](https://github.com/notareaperbutDR34P3r/http-vuln-CVE-2022-41082)	<img alt="forks" src="https://img.shields.io/github/forks/notareaperbutDR34P3r/http-vuln-CVE-2022-41082">	<img alt="stars" src="https://img.shields.io/github/stars/notareaperbutDR34P3r/http-vuln-CVE-2022-41082">
 - [Adynervi/CVE-2022-41082-RCE-PoC](https://github.com/Adynervi/CVE-2022-41082-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Adynervi/CVE-2022-41082-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Adynervi/CVE-2022-41082-RCE-PoC">
 - [LivingFree8/CVE-2022-41082-RCE-POC](https://github.com/LivingFree8/CVE-2022-41082-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/LivingFree8/CVE-2022-41082-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/LivingFree8/CVE-2022-41082-RCE-POC">
+- [PyterSmithDarkGhost/ZERODAYENCADEAMENTOCVE2022-41040-CVE2022-41082](https://github.com/PyterSmithDarkGhost/ZERODAYENCADEAMENTOCVE2022-41040-CVE2022-41082)	<img alt="forks" src="https://img.shields.io/github/forks/PyterSmithDarkGhost/ZERODAYENCADEAMENTOCVE2022-41040-CVE2022-41082">	<img alt="stars" src="https://img.shields.io/github/stars/PyterSmithDarkGhost/ZERODAYENCADEAMENTOCVE2022-41040-CVE2022-41082">
 
 ---
 ## CVE-2022-41049 (2022-11-09T22:15:00)
