@@ -743,7 +743,7 @@
 > Windows Print Spooler Remote Code Execution Vulnerability
 - [cyb3rpeace/CVE-2021-34527](https://github.com/cyb3rpeace/CVE-2021-34527)	<img alt="forks" src="https://img.shields.io/github/forks/cyb3rpeace/CVE-2021-34527">	<img alt="stars" src="https://img.shields.io/github/stars/cyb3rpeace/CVE-2021-34527">
 - [m8sec/CVE-2021-34527](https://github.com/m8sec/CVE-2021-34527)	<img alt="forks" src="https://img.shields.io/github/forks/m8sec/CVE-2021-34527">	<img alt="stars" src="https://img.shields.io/github/stars/m8sec/CVE-2021-34527">
-- [SystemJargon/infosec-windows-2022](https://github.com/SystemJargon/infosec-windows-2022)	<img alt="forks" src="https://img.shields.io/github/forks/SystemJargon/infosec-windows-2022">	<img alt="stars" src="https://img.shields.io/github/stars/SystemJargon/infosec-windows-2022">
+- [SystemJargon/infosec_1](https://github.com/SystemJargon/infosec_1)	<img alt="forks" src="https://img.shields.io/github/forks/SystemJargon/infosec_1">	<img alt="stars" src="https://img.shields.io/github/stars/SystemJargon/infosec_1">
 - [Exploitspacks/CVE-2021-34527-CVE-2021-1675](https://github.com/Exploitspacks/CVE-2021-34527-CVE-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitspacks/CVE-2021-34527-CVE-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitspacks/CVE-2021-34527-CVE-2021-1675">
 - [Amaranese/CVE-2021-34527](https://github.com/Amaranese/CVE-2021-34527)	<img alt="forks" src="https://img.shields.io/github/forks/Amaranese/CVE-2021-34527">	<img alt="stars" src="https://img.shields.io/github/stars/Amaranese/CVE-2021-34527">
 - [ly4k/PrintNightmare](https://github.com/ly4k/PrintNightmare)	<img alt="forks" src="https://img.shields.io/github/forks/ly4k/PrintNightmare">	<img alt="stars" src="https://img.shields.io/github/stars/ly4k/PrintNightmare">
@@ -772,6 +772,7 @@
 - [fardinbarashi/Fix-CVE-2021-34527](https://github.com/fardinbarashi/Fix-CVE-2021-34527)	<img alt="forks" src="https://img.shields.io/github/forks/fardinbarashi/Fix-CVE-2021-34527">	<img alt="stars" src="https://img.shields.io/github/stars/fardinbarashi/Fix-CVE-2021-34527">
 - [JohnHammond/CVE-2021-34527](https://github.com/JohnHammond/CVE-2021-34527)	<img alt="forks" src="https://img.shields.io/github/forks/JohnHammond/CVE-2021-34527">	<img alt="stars" src="https://img.shields.io/github/stars/JohnHammond/CVE-2021-34527">
 - [hackerhouse-opensource/cve-2021-34527](https://github.com/hackerhouse-opensource/cve-2021-34527)	<img alt="forks" src="https://img.shields.io/github/forks/hackerhouse-opensource/cve-2021-34527">	<img alt="stars" src="https://img.shields.io/github/stars/hackerhouse-opensource/cve-2021-34527">
+- [evilashz/CVE-2021-1675-LPE-EXP](https://github.com/evilashz/CVE-2021-1675-LPE-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/evilashz/CVE-2021-1675-LPE-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/evilashz/CVE-2021-1675-LPE-EXP">
 
 ---
 ## CVE-2021-34473 (2021-07-14T18:15:00)
