@@ -1009,6 +1009,11 @@
 - [dorkerdevil/CVE-2021-26294](https://github.com/dorkerdevil/CVE-2021-26294)	<img alt="forks" src="https://img.shields.io/github/forks/dorkerdevil/CVE-2021-26294">	<img alt="stars" src="https://img.shields.io/github/stars/dorkerdevil/CVE-2021-26294">
 
 ---
+## CVE-2021-26258 (2022-05-12T17:15:00)
+> Improper access control for the Intel(R) Killer(TM) Control Center software before version 2.4.3337.0 may allow an authorized user to potentially enable escalation of privilege via local access.
+- [zwclose/CVE-2021-26258](https://github.com/zwclose/CVE-2021-26258)	<img alt="forks" src="https://img.shields.io/github/forks/zwclose/CVE-2021-26258">	<img alt="stars" src="https://img.shields.io/github/stars/zwclose/CVE-2021-26258">
+
+---
 ## CVE-2021-26084 (2021-08-30T07:15:00)
 > In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.
 - [Vulnmachines/Confluence_CVE-2021-26084](https://github.com/Vulnmachines/Confluence_CVE-2021-26084)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/Confluence_CVE-2021-26084">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/Confluence_CVE-2021-26084">
