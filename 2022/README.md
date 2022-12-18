@@ -53,6 +53,7 @@
 - [imjdl/CVE-2022-46169](https://github.com/imjdl/CVE-2022-46169)	<img alt="forks" src="https://img.shields.io/github/forks/imjdl/CVE-2022-46169">	<img alt="stars" src="https://img.shields.io/github/stars/imjdl/CVE-2022-46169">
 - [taythebot/CVE-2022-46169](https://github.com/taythebot/CVE-2022-46169)	<img alt="forks" src="https://img.shields.io/github/forks/taythebot/CVE-2022-46169">	<img alt="stars" src="https://img.shields.io/github/stars/taythebot/CVE-2022-46169">
 - [0xf4n9x/CVE-2022-46169](https://github.com/0xf4n9x/CVE-2022-46169)	<img alt="forks" src="https://img.shields.io/github/forks/0xf4n9x/CVE-2022-46169">	<img alt="stars" src="https://img.shields.io/github/stars/0xf4n9x/CVE-2022-46169">
+- [rb-x/CVE-2022-46169](https://github.com/rb-x/CVE-2022-46169)	<img alt="forks" src="https://img.shields.io/github/forks/rb-x/CVE-2022-46169">	<img alt="stars" src="https://img.shields.io/github/stars/rb-x/CVE-2022-46169">
 
 ---
 ## CVE-2022-45771 (2022-12-05T20:15:00)
