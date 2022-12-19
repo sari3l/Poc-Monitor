@@ -143,6 +143,7 @@
 - [GeunSam2/CVE-2017-5487](https://github.com/GeunSam2/CVE-2017-5487)	<img alt="forks" src="https://img.shields.io/github/forks/GeunSam2/CVE-2017-5487">	<img alt="stars" src="https://img.shields.io/github/stars/GeunSam2/CVE-2017-5487">
 - [R3K1NG/wpUsersScan](https://github.com/R3K1NG/wpUsersScan)	<img alt="forks" src="https://img.shields.io/github/forks/R3K1NG/wpUsersScan">	<img alt="stars" src="https://img.shields.io/github/stars/R3K1NG/wpUsersScan">
 - [teambugsbunny/wpUsersScan](https://github.com/teambugsbunny/wpUsersScan)	<img alt="forks" src="https://img.shields.io/github/forks/teambugsbunny/wpUsersScan">	<img alt="stars" src="https://img.shields.io/github/stars/teambugsbunny/wpUsersScan">
+- [Sabotase-Syndicate-Team/CVE-2017-5487.exploit](https://github.com/Sabotase-Syndicate-Team/CVE-2017-5487.exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Sabotase-Syndicate-Team/CVE-2017-5487.exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Sabotase-Syndicate-Team/CVE-2017-5487.exploit">
 
 ---
 ## CVE-2017-2606 (2018-05-08T20:29:00)
