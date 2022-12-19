@@ -434,6 +434,12 @@
 - [trhacknon/CVE-2020-17519](https://github.com/trhacknon/CVE-2020-17519)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2020-17519">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2020-17519">
 
 ---
+## CVE-2020-17382 (2020-10-02T09:15:00)
+> The MSI AmbientLink MsIo64 driver 1.0.0.8 has a Buffer Overflow (0x80102040, 0x80102044, 0x80102050,and 0x80102054).
+- [Exploitables/CVE-2020-17382](https://github.com/Exploitables/CVE-2020-17382)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2020-17382">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2020-17382">
+- [uf0o/CVE-2020-17382](https://github.com/uf0o/CVE-2020-17382)	<img alt="forks" src="https://img.shields.io/github/forks/uf0o/CVE-2020-17382">	<img alt="stars" src="https://img.shields.io/github/stars/uf0o/CVE-2020-17382">
+
+---
 ## CVE-2020-15568 (2021-01-30T05:15:00)
 > TerraMaster TOS before 4.1.29 has Invalid Parameter Checking that leads to code injection as root. This is a dynamic class method invocation vulnerability in include/exportUser.php, in which an attacker can trigger a call to the exec method with (for example) OS commands in the opt parameter.
 - [n0bugz/CVE-2020-15568](https://github.com/n0bugz/CVE-2020-15568)	<img alt="forks" src="https://img.shields.io/github/forks/n0bugz/CVE-2020-15568">	<img alt="stars" src="https://img.shields.io/github/stars/n0bugz/CVE-2020-15568">
