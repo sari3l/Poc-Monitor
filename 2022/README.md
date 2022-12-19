@@ -102,6 +102,11 @@
 - [gmh5225/CVE-2022-44721-CsFalconUninstaller](https://github.com/gmh5225/CVE-2022-44721-CsFalconUninstaller)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/CVE-2022-44721-CsFalconUninstaller">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/CVE-2022-44721-CsFalconUninstaller">
 
 ---
+## CVE-2022-44215 ()
+> 
+- [JBalanza/CVE-2022-44215](https://github.com/JBalanza/CVE-2022-44215)	<img alt="forks" src="https://img.shields.io/github/forks/JBalanza/CVE-2022-44215">	<img alt="stars" src="https://img.shields.io/github/stars/JBalanza/CVE-2022-44215">
+
+---
 ## CVE-2022-43959 ()
 > 
 - [secware-ru/CVE-2022-43959](https://github.com/secware-ru/CVE-2022-43959)	<img alt="forks" src="https://img.shields.io/github/forks/secware-ru/CVE-2022-43959">	<img alt="stars" src="https://img.shields.io/github/stars/secware-ru/CVE-2022-43959">
