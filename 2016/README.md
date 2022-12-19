@@ -68,6 +68,11 @@
 - [jackdpeterson/imagick_secure_puppet](https://github.com/jackdpeterson/imagick_secure_puppet)	<img alt="forks" src="https://img.shields.io/github/forks/jackdpeterson/imagick_secure_puppet">	<img alt="stars" src="https://img.shields.io/github/stars/jackdpeterson/imagick_secure_puppet">
 
 ---
+## CVE-2016-2338 (2022-09-29T03:15:00)
+> An exploitable heap overflow vulnerability exists in the Psych::Emitter start_document function of Ruby. In Psych::Emitter start_document function heap buffer "head" allocation is made based on tags array length. Specially constructed object passed as element of tags array can increase this array size after mentioned allocation and cause heap overflow.
+- [SpiralBL0CK/CVE-2016-2338-nday](https://github.com/SpiralBL0CK/CVE-2016-2338-nday)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/CVE-2016-2338-nday">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/CVE-2016-2338-nday">
+
+---
 ## CVE-2016-2098 (2016-04-07T23:59:00)
 > Action Pack in Ruby on Rails before 3.2.22.2, 4.x before 4.1.14.2, and 4.2.x before 4.2.5.2 allows remote attackers to execute arbitrary Ruby code by leveraging an application's unrestricted use of the render method.
 - [Shakun8/CVE-2016-2098](https://github.com/Shakun8/CVE-2016-2098)	<img alt="forks" src="https://img.shields.io/github/forks/Shakun8/CVE-2016-2098">	<img alt="stars" src="https://img.shields.io/github/stars/Shakun8/CVE-2016-2098">
