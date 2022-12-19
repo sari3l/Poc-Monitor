@@ -112,6 +112,7 @@
 - [nidhi7598/G3_expat-2.2.6_CVE-2022-43680](https://github.com/nidhi7598/G3_expat-2.2.6_CVE-2022-43680)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/G3_expat-2.2.6_CVE-2022-43680">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/G3_expat-2.2.6_CVE-2022-43680">
 - [nidhi7598/expat_2.1.0-_CVE-2022-43680](https://github.com/nidhi7598/expat_2.1.0-_CVE-2022-43680)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/expat_2.1.0-_CVE-2022-43680">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/expat_2.1.0-_CVE-2022-43680">
 - [Trinadh465/external_expat-2.1.0_CVE-2022-43680](https://github.com/Trinadh465/external_expat-2.1.0_CVE-2022-43680)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/external_expat-2.1.0_CVE-2022-43680">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/external_expat-2.1.0_CVE-2022-43680">
+- [nidhihcl/external_expat_2.1.0_CVE-2022-43680](https://github.com/nidhihcl/external_expat_2.1.0_CVE-2022-43680)	<img alt="forks" src="https://img.shields.io/github/forks/nidhihcl/external_expat_2.1.0_CVE-2022-43680">	<img alt="stars" src="https://img.shields.io/github/stars/nidhihcl/external_expat_2.1.0_CVE-2022-43680">
 
 ---
 ## CVE-2022-43369 (2022-12-06T19:15:00)
