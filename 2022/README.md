@@ -2029,6 +2029,7 @@
 - [jturner786/magento-CVE-2022-24086](https://github.com/jturner786/magento-CVE-2022-24086)	<img alt="forks" src="https://img.shields.io/github/forks/jturner786/magento-CVE-2022-24086">	<img alt="stars" src="https://img.shields.io/github/stars/jturner786/magento-CVE-2022-24086">
 - [N0pch/CVE-2022-24086-magento-rce](https://github.com/N0pch/CVE-2022-24086-magento-rce)	<img alt="forks" src="https://img.shields.io/github/forks/N0pch/CVE-2022-24086-magento-rce">	<img alt="stars" src="https://img.shields.io/github/stars/N0pch/CVE-2022-24086-magento-rce">
 - [akr3ch/CVE-2022-24086](https://github.com/akr3ch/CVE-2022-24086)	<img alt="forks" src="https://img.shields.io/github/forks/akr3ch/CVE-2022-24086">	<img alt="stars" src="https://img.shields.io/github/stars/akr3ch/CVE-2022-24086">
+- [pescepilota/CVE-2022-24086](https://github.com/pescepilota/CVE-2022-24086)	<img alt="forks" src="https://img.shields.io/github/forks/pescepilota/CVE-2022-24086">	<img alt="stars" src="https://img.shields.io/github/stars/pescepilota/CVE-2022-24086">
 
 ---
 ## CVE-2022-2402 (2022-09-06T18:15:00)
