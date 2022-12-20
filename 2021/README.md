@@ -745,6 +745,11 @@
 - [fei9747/CVE-2021-3493](https://github.com/fei9747/CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/fei9747/CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/fei9747/CVE-2021-3493">
 
 ---
+## CVE-2021-34767 (2021-09-23T03:15:00)
+> A vulnerability in IPv6 traffic processing of Cisco IOS XE Wireless Controller Software for Cisco Catalyst 9000 Family Wireless Controllers could allow an unauthenticated, adjacent attacker to cause a Layer 2 (L2) loop in a configured VLAN, resulting in a denial of service (DoS) condition for that VLAN. The vulnerability is due to a logic error when processing specific link-local IPv6 traffic. An attacker could exploit this vulnerability by sending a crafted IPv6 packet that would flow inbound through the wired interface of an affected device. A successful exploit could allow the attacker to cause traffic drops in the affected VLAN, thus triggering the DoS condition.
+- [lukejenkins/CVE-2021-34767](https://github.com/lukejenkins/CVE-2021-34767)	<img alt="forks" src="https://img.shields.io/github/forks/lukejenkins/CVE-2021-34767">	<img alt="stars" src="https://img.shields.io/github/stars/lukejenkins/CVE-2021-34767">
+
+---
 ## CVE-2021-34527 (2021-07-02T22:15:00)
 > Windows Print Spooler Remote Code Execution Vulnerability
 - [cyb3rpeace/CVE-2021-34527](https://github.com/cyb3rpeace/CVE-2021-34527)	<img alt="forks" src="https://img.shields.io/github/forks/cyb3rpeace/CVE-2021-34527">	<img alt="stars" src="https://img.shields.io/github/stars/cyb3rpeace/CVE-2021-34527">
