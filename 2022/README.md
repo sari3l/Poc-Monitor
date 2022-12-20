@@ -786,6 +786,7 @@
 - [qiwentaidi/CVE-2022-36804](https://github.com/qiwentaidi/CVE-2022-36804)	<img alt="forks" src="https://img.shields.io/github/forks/qiwentaidi/CVE-2022-36804">	<img alt="stars" src="https://img.shields.io/github/stars/qiwentaidi/CVE-2022-36804">
 - [lolminerxmrig/Capricornus](https://github.com/lolminerxmrig/Capricornus)	<img alt="forks" src="https://img.shields.io/github/forks/lolminerxmrig/Capricornus">	<img alt="stars" src="https://img.shields.io/github/stars/lolminerxmrig/Capricornus">
 - [Jhonsonwannaa/CVE-2022-36804](https://github.com/Jhonsonwannaa/CVE-2022-36804)	<img alt="forks" src="https://img.shields.io/github/forks/Jhonsonwannaa/CVE-2022-36804">	<img alt="stars" src="https://img.shields.io/github/stars/Jhonsonwannaa/CVE-2022-36804">
+- [devengpk/CVE-2022-36804](https://github.com/devengpk/CVE-2022-36804)	<img alt="forks" src="https://img.shields.io/github/forks/devengpk/CVE-2022-36804">	<img alt="stars" src="https://img.shields.io/github/stars/devengpk/CVE-2022-36804">
 
 ---
 ## CVE-2022-36663 (2022-09-06T21:15:00)
