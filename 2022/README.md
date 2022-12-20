@@ -2852,6 +2852,11 @@
 - [discordianfish/cve-2022-0185-crash-poc](https://github.com/discordianfish/cve-2022-0185-crash-poc)	<img alt="forks" src="https://img.shields.io/github/forks/discordianfish/cve-2022-0185-crash-poc">	<img alt="stars" src="https://img.shields.io/github/stars/discordianfish/cve-2022-0185-crash-poc">
 
 ---
+## CVE-2022-0123 (2022-03-28T19:15:00)
+> An issue has been discovered affecting GitLab versions prior to 14.4.5, between 14.5.0 and 14.5.3, and between 14.6.0 and 14.6.1. GitLab does not validate SSL certificates for some of external CI services which makes it possible to perform MitM attacks on connections to these external services.
+- [SURENKUMAR-0212/CVE-2022-0123](https://github.com/SURENKUMAR-0212/CVE-2022-0123)	<img alt="forks" src="https://img.shields.io/github/forks/SURENKUMAR-0212/CVE-2022-0123">	<img alt="stars" src="https://img.shields.io/github/stars/SURENKUMAR-0212/CVE-2022-0123">
+
+---
 ## CVE-2022-0002 (2022-03-11T18:15:00)
 > Non-transparent sharing of branch predictor within a context in some Intel(R) Processors may allow an authorized user to potentially enable information disclosure via local access.
 - [nikokosm/CVE-2022-0002--s-1](https://github.com/nikokosm/CVE-2022-0002--s-1)	<img alt="forks" src="https://img.shields.io/github/forks/nikokosm/CVE-2022-0002--s-1">	<img alt="stars" src="https://img.shields.io/github/stars/nikokosm/CVE-2022-0002--s-1">
