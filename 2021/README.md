@@ -31,6 +31,12 @@
 - [hacksysteam/CVE-2021-45067](https://github.com/hacksysteam/CVE-2021-45067)	<img alt="forks" src="https://img.shields.io/github/forks/hacksysteam/CVE-2021-45067">	<img alt="stars" src="https://img.shields.io/github/stars/hacksysteam/CVE-2021-45067">
 
 ---
+## CVE-2021-45010 ()
+> 
+- [BKreisel/CVE-2021-45010](https://github.com/BKreisel/CVE-2021-45010)	<img alt="forks" src="https://img.shields.io/github/forks/BKreisel/CVE-2021-45010">	<img alt="stars" src="https://img.shields.io/github/stars/BKreisel/CVE-2021-45010">
+- [febinrev/CVE-2021-45010-TinyFileManager-Exploit](https://github.com/febinrev/CVE-2021-45010-TinyFileManager-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/febinrev/CVE-2021-45010-TinyFileManager-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/febinrev/CVE-2021-45010-TinyFileManager-Exploit">
+
+---
 ## CVE-2021-44852 (2022-01-01T06:15:00)
 > An issue was discovered in BS_RCIO64.sys in Biostar RACING GT Evo 2.1.1905.1700. A low-integrity process can open the driver's device object and issue IOCTLs to read or write to arbitrary physical memory locations (or call an arbitrary address), leading to execution of arbitrary code. This is associated with 0x226040, 0x226044, and 0x226000.
 - [Exploitables/CVE-2021-44852](https://github.com/Exploitables/CVE-2021-44852)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2021-44852">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2021-44852">
@@ -1220,6 +1226,11 @@
 - [renini/CVE-2021-21972](https://github.com/renini/CVE-2021-21972)	<img alt="forks" src="https://img.shields.io/github/forks/renini/CVE-2021-21972">	<img alt="stars" src="https://img.shields.io/github/stars/renini/CVE-2021-21972">
 - [B1anda0/CVE-2021-21972](https://github.com/B1anda0/CVE-2021-21972)	<img alt="forks" src="https://img.shields.io/github/forks/B1anda0/CVE-2021-21972">	<img alt="stars" src="https://img.shields.io/github/stars/B1anda0/CVE-2021-21972">
 - [conjojo/VMware_vCenter_UNAuthorized_RCE_CVE-2021-21972](https://github.com/conjojo/VMware_vCenter_UNAuthorized_RCE_CVE-2021-21972)	<img alt="forks" src="https://img.shields.io/github/forks/conjojo/VMware_vCenter_UNAuthorized_RCE_CVE-2021-21972">	<img alt="stars" src="https://img.shields.io/github/stars/conjojo/VMware_vCenter_UNAuthorized_RCE_CVE-2021-21972">
+
+---
+## CVE-2021-21809 (2021-06-23T22:15:00)
+> A command execution vulnerability exists in the default legacy spellchecker plugin in Moodle 3.10. A specially crafted series of HTTP requests can lead to command execution. An attacker must have administrator privileges to exploit this vulnerabilities.
+- [anldori/CVE-2021-21809](https://github.com/anldori/CVE-2021-21809)	<img alt="forks" src="https://img.shields.io/github/forks/anldori/CVE-2021-21809">	<img alt="stars" src="https://img.shields.io/github/stars/anldori/CVE-2021-21809">
 
 ---
 ## CVE-2021-21380 (2021-03-23T23:15:00)
