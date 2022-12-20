@@ -1856,6 +1856,11 @@
 - [badboy-sft/CVE-2022-26134](https://github.com/badboy-sft/CVE-2022-26134)	<img alt="forks" src="https://img.shields.io/github/forks/badboy-sft/CVE-2022-26134">	<img alt="stars" src="https://img.shields.io/github/stars/badboy-sft/CVE-2022-26134">
 
 ---
+## CVE-2022-2602 ()
+> 
+- [kiks7/CVE-2022-2602-Kernel-Exploit](https://github.com/kiks7/CVE-2022-2602-Kernel-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/kiks7/CVE-2022-2602-Kernel-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/kiks7/CVE-2022-2602-Kernel-Exploit">
+
+---
 ## CVE-2022-2601 (2022-12-14T21:15:00)
 > A buffer overflow was found in grub_font_construct_glyph(). A malicious crafted pf2 font can lead to an overflow when calculating the max_glyph_size value, allocating a smaller than needed buffer for the glyph, this further leads to a buffer overflow and a heap based out-of-bounds write. An attacker may use this vulnerability to circumvent the secure boot mechanism.
 - [zhangboyang/cve-2022-2601](https://github.com/zhangboyang/cve-2022-2601)	<img alt="forks" src="https://img.shields.io/github/forks/zhangboyang/cve-2022-2601">	<img alt="stars" src="https://img.shields.io/github/stars/zhangboyang/cve-2022-2601">
@@ -2860,7 +2865,7 @@
 ---
 ## CVE-2022-0123 (2022-03-28T19:15:00)
 > An issue has been discovered affecting GitLab versions prior to 14.4.5, between 14.5.0 and 14.5.3, and between 14.6.0 and 14.6.1. GitLab does not validate SSL certificates for some of external CI services which makes it possible to perform MitM attacks on connections to these external services.
-- [SURENKUMAR-0212/CVE-2022-0123](https://github.com/SURENKUMAR-0212/CVE-2022-0123)	<img alt="forks" src="https://img.shields.io/github/forks/SURENKUMAR-0212/CVE-2022-0123">	<img alt="stars" src="https://img.shields.io/github/stars/SURENKUMAR-0212/CVE-2022-0123">
+- [SURENKUMAR-0212/cve-2022-0123](https://github.com/SURENKUMAR-0212/cve-2022-0123)	<img alt="forks" src="https://img.shields.io/github/forks/SURENKUMAR-0212/cve-2022-0123">	<img alt="stars" src="https://img.shields.io/github/stars/SURENKUMAR-0212/cve-2022-0123">
 
 ---
 ## CVE-2022-0002 (2022-03-11T18:15:00)
