@@ -1040,6 +1040,11 @@
 - [Vulnmachines/Apache-spark-CVE-2022-33891](https://github.com/Vulnmachines/Apache-spark-CVE-2022-33891)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/Apache-spark-CVE-2022-33891">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/Apache-spark-CVE-2022-33891">
 
 ---
+## CVE-2022-3382 (2022-10-17T20:15:00)
+> HIWIN Robot System Software version 3.3.21.9869 does not properly address the terminated command source. As a result, an attacker could craft code to disconnect HRSS and the controller and cause a denial-of-service condition.
+- [PyterSmithDarkGhost/CVE-2022-3382ROBOTICAEXPLOITPOC](https://github.com/PyterSmithDarkGhost/CVE-2022-3382ROBOTICAEXPLOITPOC)	<img alt="forks" src="https://img.shields.io/github/forks/PyterSmithDarkGhost/CVE-2022-3382ROBOTICAEXPLOITPOC">	<img alt="stars" src="https://img.shields.io/github/stars/PyterSmithDarkGhost/CVE-2022-3382ROBOTICAEXPLOITPOC">
+
+---
 ## CVE-2022-3368 (2022-10-17T21:15:00)
 > A vulnerability within the Software Updater functionality of Avira Security for Windows allowed an attacker with write access to the filesystem, to escalate his privileges in certain scenarios. The issue was fixed with Avira Security version 1.1.72.30556.
 - [Wh04m1001/CVE-2022-3368](https://github.com/Wh04m1001/CVE-2022-3368)	<img alt="forks" src="https://img.shields.io/github/forks/Wh04m1001/CVE-2022-3368">	<img alt="stars" src="https://img.shields.io/github/stars/Wh04m1001/CVE-2022-3368">
