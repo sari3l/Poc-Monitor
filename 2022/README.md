@@ -66,6 +66,11 @@
 - [p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE](https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE">
 
 ---
+## CVE-2022-45511 (2022-12-08T16:15:00)
+> Tenda W30E V1.0.1.25(633) was discovered to contain a stack overflow via the PPPOEPassword parameter at /goform/QuickIndex.
+- [kinderscsaa/cve-2022-45511](https://github.com/kinderscsaa/cve-2022-45511)	<img alt="forks" src="https://img.shields.io/github/forks/kinderscsaa/cve-2022-45511">	<img alt="stars" src="https://img.shields.io/github/stars/kinderscsaa/cve-2022-45511">
+
+---
 ## CVE-2022-45472 (2022-11-23T06:15:00)
 > CAE LearningSpace Enterprise (with Intuity License) image 267r patch 639 allows DOM XSS, related to ontouchmove and onpointerup.
 - [nicbrinkley/CVE-2022-45472](https://github.com/nicbrinkley/CVE-2022-45472)	<img alt="forks" src="https://img.shields.io/github/forks/nicbrinkley/CVE-2022-45472">	<img alt="stars" src="https://img.shields.io/github/stars/nicbrinkley/CVE-2022-45472">
