@@ -2665,6 +2665,7 @@
 - [revanmalang/CVE-2022-1388](https://github.com/revanmalang/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/revanmalang/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/revanmalang/CVE-2022-1388">
 - [amitlttwo/CVE-2022-1388](https://github.com/amitlttwo/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/amitlttwo/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/amitlttwo/CVE-2022-1388">
 - [M4fiaB0y/CVE-2022-1388](https://github.com/M4fiaB0y/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/M4fiaB0y/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/M4fiaB0y/CVE-2022-1388">
+- [devengpk/CVE-2022-1388](https://github.com/devengpk/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/devengpk/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/devengpk/CVE-2022-1388">
 
 ---
 ## CVE-2022-1292 (2022-05-03T16:15:00)
@@ -2830,6 +2831,7 @@
 - [siholley/CVE-2022-0847-Dirty-Pipe-Vulnerability-](https://github.com/siholley/CVE-2022-0847-Dirty-Pipe-Vulnerability-)	<img alt="forks" src="https://img.shields.io/github/forks/siholley/CVE-2022-0847-Dirty-Pipe-Vulnerability-">	<img alt="stars" src="https://img.shields.io/github/stars/siholley/CVE-2022-0847-Dirty-Pipe-Vulnerability-">
 - [Turzum/ps-lab-cve-2022-0847](https://github.com/Turzum/ps-lab-cve-2022-0847)	<img alt="forks" src="https://img.shields.io/github/forks/Turzum/ps-lab-cve-2022-0847">	<img alt="stars" src="https://img.shields.io/github/stars/Turzum/ps-lab-cve-2022-0847">
 - [qwert419/linux-](https://github.com/qwert419/linux-)	<img alt="forks" src="https://img.shields.io/github/forks/qwert419/linux-">	<img alt="stars" src="https://img.shields.io/github/stars/qwert419/linux-">
+- [DataFox/CVE-2022-0847](https://github.com/DataFox/CVE-2022-0847)	<img alt="forks" src="https://img.shields.io/github/forks/DataFox/CVE-2022-0847">	<img alt="stars" src="https://img.shields.io/github/stars/DataFox/CVE-2022-0847">
 
 ---
 ## CVE-2022-0824 (2022-03-02T12:15:00)
