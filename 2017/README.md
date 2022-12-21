@@ -135,6 +135,11 @@
 - [denchief1/CVE-2017-7269](https://github.com/denchief1/CVE-2017-7269)	<img alt="forks" src="https://img.shields.io/github/forks/denchief1/CVE-2017-7269">	<img alt="stars" src="https://img.shields.io/github/stars/denchief1/CVE-2017-7269">
 
 ---
+## CVE-2017-5638 (2017-03-11T02:59:00)
+> The Jakarta Multipart parser in Apache Struts 2 2.3.x before 2.3.32 and 2.5.x before 2.5.10.1 has incorrect exception handling and error-message generation during file-upload attempts, which allows remote attackers to execute arbitrary commands via a crafted Content-Type, Content-Disposition, or Content-Length HTTP header, as exploited in the wild in March 2017 with a Content-Type header containing a #cmd= string.
+- [mfdev-solution/Exploit-CVE-2017-5638](https://github.com/mfdev-solution/Exploit-CVE-2017-5638)	<img alt="forks" src="https://img.shields.io/github/forks/mfdev-solution/Exploit-CVE-2017-5638">	<img alt="stars" src="https://img.shields.io/github/stars/mfdev-solution/Exploit-CVE-2017-5638">
+
+---
 ## CVE-2017-5487 (2017-01-15T02:59:00)
 > wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php in the REST API implementation in WordPress 4.7 before 4.7.1 does not properly restrict listings of post authors, which allows remote attackers to obtain sensitive information via a wp-json/wp/v2/users request.
 - [kr4dd/CVE-2017-5487](https://github.com/kr4dd/CVE-2017-5487)	<img alt="forks" src="https://img.shields.io/github/forks/kr4dd/CVE-2017-5487">	<img alt="stars" src="https://img.shields.io/github/stars/kr4dd/CVE-2017-5487">
