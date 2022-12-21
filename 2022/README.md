@@ -1596,6 +1596,7 @@
 - [gbrsh/CVE-2022-29464](https://github.com/gbrsh/CVE-2022-29464)	<img alt="forks" src="https://img.shields.io/github/forks/gbrsh/CVE-2022-29464">	<img alt="stars" src="https://img.shields.io/github/stars/gbrsh/CVE-2022-29464">
 - [Jhonsonwannaa/CVE-2022-29464-](https://github.com/Jhonsonwannaa/CVE-2022-29464-)	<img alt="forks" src="https://img.shields.io/github/forks/Jhonsonwannaa/CVE-2022-29464-">	<img alt="stars" src="https://img.shields.io/github/stars/Jhonsonwannaa/CVE-2022-29464-">
 - [devengpk/CVE-2022-29464](https://github.com/devengpk/CVE-2022-29464)	<img alt="forks" src="https://img.shields.io/github/forks/devengpk/CVE-2022-29464">	<img alt="stars" src="https://img.shields.io/github/stars/devengpk/CVE-2022-29464">
+- [amit-pathak009/CVE-2022-29464-mass](https://github.com/amit-pathak009/CVE-2022-29464-mass)	<img alt="forks" src="https://img.shields.io/github/forks/amit-pathak009/CVE-2022-29464-mass">	<img alt="stars" src="https://img.shields.io/github/stars/amit-pathak009/CVE-2022-29464-mass">
 
 ---
 ## CVE-2022-29455 (2022-06-13T17:15:00)
