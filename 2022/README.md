@@ -131,6 +131,11 @@
 - [maikroservice/CVE-2022-43332](https://github.com/maikroservice/CVE-2022-43332)	<img alt="forks" src="https://img.shields.io/github/forks/maikroservice/CVE-2022-43332">	<img alt="stars" src="https://img.shields.io/github/stars/maikroservice/CVE-2022-43332">
 
 ---
+## CVE-2022-43271 ()
+> 
+- [SecurityWillCheck/CVE-2022-43271](https://github.com/SecurityWillCheck/CVE-2022-43271)	<img alt="forks" src="https://img.shields.io/github/forks/SecurityWillCheck/CVE-2022-43271">	<img alt="stars" src="https://img.shields.io/github/stars/SecurityWillCheck/CVE-2022-43271">
+
+---
 ## CVE-2022-43144 (2022-11-08T23:15:00)
 > A cross-site scripting (XSS) vulnerability in Canteen Management System v1.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload.
 - [mudassiruddin/CVE-2022-43144-Stored-XSS](https://github.com/mudassiruddin/CVE-2022-43144-Stored-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/mudassiruddin/CVE-2022-43144-Stored-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/mudassiruddin/CVE-2022-43144-Stored-XSS">
