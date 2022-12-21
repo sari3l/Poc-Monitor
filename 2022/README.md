@@ -625,6 +625,7 @@
 ## CVE-2022-37958 (2022-09-13T19:15:00)
 > SPNEGO Extended Negotiation (NEGOEX) Security Mechanism Information Disclosure Vulnerability.
 - [RCEman01/CVE-2022-37958-Windows-Server-RCE](https://github.com/RCEman01/CVE-2022-37958-Windows-Server-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/RCEman01/CVE-2022-37958-Windows-Server-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/RCEman01/CVE-2022-37958-Windows-Server-RCE">
+- [4TT4CIc/CVE-2022-37958-D](https://github.com/4TT4CIc/CVE-2022-37958-D)	<img alt="forks" src="https://img.shields.io/github/forks/4TT4CIc/CVE-2022-37958-D">	<img alt="stars" src="https://img.shields.io/github/stars/4TT4CIc/CVE-2022-37958-D">
 
 ---
 ## CVE-2022-3786 (2022-11-01T18:15:00)
