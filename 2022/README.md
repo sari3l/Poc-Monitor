@@ -1876,6 +1876,7 @@
 ## CVE-2022-2602 ()
 > 
 - [kiks7/CVE-2022-2602-Kernel-Exploit](https://github.com/kiks7/CVE-2022-2602-Kernel-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/kiks7/CVE-2022-2602-Kernel-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/kiks7/CVE-2022-2602-Kernel-Exploit">
+- [LukeGix/CVE-2022-2602](https://github.com/LukeGix/CVE-2022-2602)	<img alt="forks" src="https://img.shields.io/github/forks/LukeGix/CVE-2022-2602">	<img alt="stars" src="https://img.shields.io/github/stars/LukeGix/CVE-2022-2602">
 
 ---
 ## CVE-2022-2601 (2022-12-14T21:15:00)
