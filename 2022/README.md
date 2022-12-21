@@ -43,6 +43,11 @@
 - [Udyz/CVE-2022-0847](https://github.com/Udyz/CVE-2022-0847)	<img alt="forks" src="https://img.shields.io/github/forks/Udyz/CVE-2022-0847">	<img alt="stars" src="https://img.shields.io/github/stars/Udyz/CVE-2022-0847">
 
 ---
+## CVE-2022-48870 ()
+> 
+- [Cedric1314/CVE-2022-48870](https://github.com/Cedric1314/CVE-2022-48870)	<img alt="forks" src="https://img.shields.io/github/forks/Cedric1314/CVE-2022-48870">	<img alt="stars" src="https://img.shields.io/github/stars/Cedric1314/CVE-2022-48870">
+
+---
 ## CVE-2022-46381 (2022-12-13T22:15:00)
 > Certain Linear eMerge E3-Series devices are vulnerable to XSS via the type parameter (e.g., to the badging/badge_template_v0.php component). This affects 0.32-08f, 0.32-07p, 0.32-07e, 0.32-09c, 0.32-09b, 0.32-09a, and 0.32-08e.
 - [amitlttwo/CVE-2022-46381](https://github.com/amitlttwo/CVE-2022-46381)	<img alt="forks" src="https://img.shields.io/github/forks/amitlttwo/CVE-2022-46381">	<img alt="stars" src="https://img.shields.io/github/stars/amitlttwo/CVE-2022-46381">
