@@ -2065,6 +2065,11 @@
 - [4TT4CIc/CVE-2022-37958-D](https://github.com/4TT4CIc/CVE-2022-37958-D)	<img alt="forks" src="https://img.shields.io/github/forks/4TT4CIc/CVE-2022-37958-D">	<img alt="stars" src="https://img.shields.io/github/stars/4TT4CIc/CVE-2022-37958-D">
 
 ---
+## CVE-2022-37928 (2022-12-12T13:15:00)
+> Insufficient Verification of Data Authenticity vulnerability in Hewlett Packard Enterprise HPE Nimble Storage Hybrid Flash Arrays and Nimble Storage Secondary Flash Arrays.
+- [Live-Hack-CVE/CVE-2022-37928](https://github.com/Live-Hack-CVE/CVE-2022-37928)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37928">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37928">
+
+---
 ## CVE-2022-37905 (2022-12-12T13:15:00)
 > Vulnerabilities in ArubaOS running on 7xxx series controllers exist that allows an attacker to execute arbitrary code during the boot sequence. Successful exploitation could allow an attacker to achieve permanent modification of the underlying operating system.
 - [Live-Hack-CVE/CVE-2022-37905](https://github.com/Live-Hack-CVE/CVE-2022-37905)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37905">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37905">
@@ -2469,6 +2474,11 @@
 > Zoho ManageEngine Password Manager Pro before 12101 and PAM360 before 5510 are vulnerable to unauthenticated remote code execution. (This also affects ManageEngine Access Manager Plus before 4303 with authentication.)
 - [viniciuspereiras/CVE-2022-35405](https://github.com/viniciuspereiras/CVE-2022-35405)	<img alt="forks" src="https://img.shields.io/github/forks/viniciuspereiras/CVE-2022-35405">	<img alt="stars" src="https://img.shields.io/github/stars/viniciuspereiras/CVE-2022-35405">
 - [OneByt3/CVE-2022-35405](https://github.com/OneByt3/CVE-2022-35405)	<img alt="forks" src="https://img.shields.io/github/forks/OneByt3/CVE-2022-35405">	<img alt="stars" src="https://img.shields.io/github/stars/OneByt3/CVE-2022-35405">
+
+---
+## CVE-2022-35295 (2022-09-13T16:15:00)
+> In SAP Host Agent (SAPOSCOL) - version 7.22, an attacker may use files created by saposcol to escalate privileges for themselves.
+- [Live-Hack-CVE/CVE-2022-35295](https://github.com/Live-Hack-CVE/CVE-2022-35295)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35295">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35295">
 
 ---
 ## CVE-2022-35260 (2022-12-05T22:15:00)
@@ -3173,6 +3183,11 @@
 - [aslitsecurity/Zimbra-CVE-2022-30333](https://github.com/aslitsecurity/Zimbra-CVE-2022-30333)	<img alt="forks" src="https://img.shields.io/github/forks/aslitsecurity/Zimbra-CVE-2022-30333">	<img alt="stars" src="https://img.shields.io/github/stars/aslitsecurity/Zimbra-CVE-2022-30333">
 
 ---
+## CVE-2022-30284 (2022-05-04T22:15:00)
+> ** DISPUTED ** In the python-libnmap package through 0.7.2 for Python, remote command execution can occur (if used in a client application that does not validate arguments). NOTE: the vendor believes it would be unrealistic for an application to call NmapProcess with arguments taken from input data that arrived over an untrusted network, and thus the CVSS score corresponds to an unrealistic use case. None of the NmapProcess documentation implies that this is an expected use case.
+- [Live-Hack-CVE/CVE-2022-30284](https://github.com/Live-Hack-CVE/CVE-2022-30284)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30284">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30284">
+
+---
 ## CVE-2022-30206 (2022-07-12T23:15:00)
 > Windows Print Spooler Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-22022, CVE-2022-22041, CVE-2022-30226.
 - [Pwnrin/CVE-2022-30206](https://github.com/Pwnrin/CVE-2022-30206)	<img alt="forks" src="https://img.shields.io/github/forks/Pwnrin/CVE-2022-30206">	<img alt="stars" src="https://img.shields.io/github/stars/Pwnrin/CVE-2022-30206">
@@ -3729,6 +3744,16 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [hosch3n/FastjsonVulns](https://github.com/hosch3n/FastjsonVulns)	<img alt="forks" src="https://img.shields.io/github/forks/hosch3n/FastjsonVulns">	<img alt="stars" src="https://img.shields.io/github/stars/hosch3n/FastjsonVulns">
 - [c0resploit/CVE-2022-25845](https://github.com/c0resploit/CVE-2022-25845)	<img alt="forks" src="https://img.shields.io/github/forks/c0resploit/CVE-2022-25845">	<img alt="stars" src="https://img.shields.io/github/stars/c0resploit/CVE-2022-25845">
 - [Administrator-Xorex/CVE-2022-25845-Server](https://github.com/Administrator-Xorex/CVE-2022-25845-Server)	<img alt="forks" src="https://img.shields.io/github/forks/Administrator-Xorex/CVE-2022-25845-Server">	<img alt="stars" src="https://img.shields.io/github/stars/Administrator-Xorex/CVE-2022-25845-Server">
+
+---
+## CVE-2022-25837 (2022-12-12T04:15:00)
+> Bluetooth® Pairing in Bluetooth Core Specification v1.0B through v5.3 may permit an unauthenticated MITM to acquire credentials with two pairing devices via adjacent access when at least one device supports BR/EDR Secure Connections pairing and the other BR/EDR Legacy PIN code pairing if the MITM negotiates BR/EDR Secure Simple Pairing in Secure Connections mode using the Passkey association model with the pairing Initiator and BR/EDR Legacy PIN code pairing with the pairing Responder and brute forces the Passkey entered by the user into the Responder as a 6-digit PIN code. The MITM attacker can use the identified PIN code value as the Passkey value to complete authentication with the Initiator via Bluetooth pairing method confusion.
+- [Live-Hack-CVE/CVE-2022-25837](https://github.com/Live-Hack-CVE/CVE-2022-25837)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25837">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25837">
+
+---
+## CVE-2022-25836 (2022-12-12T04:15:00)
+> Bluetooth® Low Energy Pairing in Bluetooth Core Specification v4.0 through v5.3 may permit an unauthenticated MITM to acquire credentials with two pairing devices via adjacent access when the MITM negotiates Legacy Passkey Pairing with the pairing Initiator and Secure Connections Passkey Pairing with the pairing Responder and brute forces the Passkey entered by the user into the Initiator. The MITM attacker can use the identified Passkey value to complete authentication with the Responder via Bluetooth pairing method confusion.
+- [Live-Hack-CVE/CVE-2022-25836](https://github.com/Live-Hack-CVE/CVE-2022-25836)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25836">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25836">
 
 ---
 ## CVE-2022-25765 (2022-09-09T05:15:00)
@@ -4333,6 +4358,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Zerf0X/CVE-2022-20841-RCE](https://github.com/Zerf0X/CVE-2022-20841-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Zerf0X/CVE-2022-20841-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Zerf0X/CVE-2022-20841-RCE">
 - [expl0despl0it/CVE-2022-20841](https://github.com/expl0despl0it/CVE-2022-20841)	<img alt="forks" src="https://img.shields.io/github/forks/expl0despl0it/CVE-2022-20841">	<img alt="stars" src="https://img.shields.io/github/stars/expl0despl0it/CVE-2022-20841">
 - [c0resploit/CVE-2022-20841](https://github.com/c0resploit/CVE-2022-20841)	<img alt="forks" src="https://img.shields.io/github/forks/c0resploit/CVE-2022-20841">	<img alt="stars" src="https://img.shields.io/github/stars/c0resploit/CVE-2022-20841">
+
+---
+## CVE-2022-20687 (2022-12-12T09:15:00)
+> Multiple vulnerabilities in the Link Layer Discovery Protocol (LLDP) functionality of Cisco ATA 190 Series Analog Telephone Adapter firmware could allow an unauthenticated, remote attacker to execute arbitrary code on an affected device and cause the LLDP service to restart. These vulnerabilities are due to missing length validation of certain LLDP packet header fields. An attacker could exploit these vulnerabilities by sending a malicious LLDP packet to an affected device. A successful exploit could allow the attacker to execute code on the affected device and cause LLDP to restart unexpectedly, resulting in a denial of service (DoS) condition.
+- [Live-Hack-CVE/CVE-2022-20687](https://github.com/Live-Hack-CVE/CVE-2022-20687)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20687">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20687">
 
 ---
 ## CVE-2022-20611 (2022-12-13T16:15:00)
@@ -4984,6 +5014,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [devengpk/CVE-2022-1388](https://github.com/devengpk/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/devengpk/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/devengpk/CVE-2022-1388">
 
 ---
+## CVE-2022-1353 (2022-04-29T16:15:00)
+> A vulnerability was found in the pfkey_register function in net/key/af_key.c in the Linux kernel. This flaw allows a local, unprivileged user to gain access to kernel memory, leading to a system crash or a leak of internal kernel information.
+- [Live-Hack-CVE/CVE-2022-1353](https://github.com/Live-Hack-CVE/CVE-2022-1353)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1353">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1353">
+
+---
 ## CVE-2022-1292 (2022-05-03T16:15:00)
 > The c_rehash script does not properly sanitise shell metacharacters to prevent command injection. This script is distributed by some operating systems in a manner where it is automatically executed. On such operating systems, an attacker could execute arbitrary commands with the privileges of the script. Use of the c_rehash script is considered obsolete and should be replaced by the OpenSSL rehash command line tool. Fixed in OpenSSL 3.0.3 (Affected 3.0.0,3.0.1,3.0.2). Fixed in OpenSSL 1.1.1o (Affected 1.1.1-1.1.1n). Fixed in OpenSSL 1.0.2ze (Affected 1.0.2-1.0.2zd).
 - [alcaparra/CVE-2022-1292](https://github.com/alcaparra/CVE-2022-1292)	<img alt="forks" src="https://img.shields.io/github/forks/alcaparra/CVE-2022-1292">	<img alt="stars" src="https://img.shields.io/github/stars/alcaparra/CVE-2022-1292">
@@ -4993,6 +5028,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292](https://github.com/nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292">
 - [greek0x0/CVE-2022-1292](https://github.com/greek0x0/CVE-2022-1292)	<img alt="forks" src="https://img.shields.io/github/forks/greek0x0/CVE-2022-1292">	<img alt="stars" src="https://img.shields.io/github/stars/greek0x0/CVE-2022-1292">
 - [und3sc0n0c1d0/CVE-2022-1292](https://github.com/und3sc0n0c1d0/CVE-2022-1292)	<img alt="forks" src="https://img.shields.io/github/forks/und3sc0n0c1d0/CVE-2022-1292">	<img alt="stars" src="https://img.shields.io/github/stars/und3sc0n0c1d0/CVE-2022-1292">
+
+---
+## CVE-2022-1195 (2022-04-29T16:15:00)
+> A use-after-free vulnerability was found in the Linux kernel in drivers/net/hamradio. This flaw allows a local attacker with a user privilege to cause a denial of service (DOS) when the mkiss or sixpack device is detached and reclaim resources early.
+- [Live-Hack-CVE/CVE-2022-1195](https://github.com/Live-Hack-CVE/CVE-2022-1195)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1195">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1195">
 
 ---
 ## CVE-2022-1162 (2022-04-04T20:15:00)
@@ -5021,6 +5061,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 > 
 - [cvegithub/CVE-2022-11111](https://github.com/cvegithub/CVE-2022-11111)	<img alt="forks" src="https://img.shields.io/github/forks/cvegithub/CVE-2022-11111">	<img alt="stars" src="https://img.shields.io/github/stars/cvegithub/CVE-2022-11111">
 - [thelostworldFree/CVE-2022-111111](https://github.com/thelostworldFree/CVE-2022-111111)	<img alt="forks" src="https://img.shields.io/github/forks/thelostworldFree/CVE-2022-111111">	<img alt="stars" src="https://img.shields.io/github/stars/thelostworldFree/CVE-2022-111111">
+
+---
+## CVE-2022-1048 (2022-04-29T16:15:00)
+> A use-after-free flaw was found in the Linux kernel’s sound subsystem in the way a user triggers concurrent calls of PCM hw_params. The hw_free ioctls or similar race condition happens inside ALSA PCM for other ioctls. This flaw allows a local user to crash or potentially escalate their privileges on the system.
+- [Live-Hack-CVE/CVE-2022-1048](https://github.com/Live-Hack-CVE/CVE-2022-1048)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1048">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1048">
 
 ---
 ## CVE-2022-1040 (2022-03-25T12:15:00)

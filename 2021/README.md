@@ -315,6 +315,11 @@
 - [ItsIgnacioPortal/CVE-2021-42237](https://github.com/ItsIgnacioPortal/CVE-2021-42237)	<img alt="forks" src="https://img.shields.io/github/forks/ItsIgnacioPortal/CVE-2021-42237">	<img alt="stars" src="https://img.shields.io/github/stars/ItsIgnacioPortal/CVE-2021-42237">
 
 ---
+## CVE-2021-42192 (2022-05-04T11:15:00)
+> Konga v0.14.9 is affected by an incorrect access control vulnerability where a specially crafted request can lead to privilege escalation.
+- [Live-Hack-CVE/CVE-2021-42192](https://github.com/Live-Hack-CVE/CVE-2021-42192)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42192">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42192">
+
+---
 ## CVE-2021-42013 (2021-10-07T16:15:00)
 > It was found that the fix for CVE-2021-41773 in Apache HTTP Server 2.4.50 was insufficient. An attacker could use a path traversal attack to map URLs to files outside the directories configured by Alias-like directives. If files outside of these directories are not protected by the usual default configuration "require all denied", these requests can succeed. If CGI scripts are also enabled for these aliased pathes, this could allow for remote code execution. This issue only affects Apache 2.4.49 and Apache 2.4.50 and not earlier versions.
 - [Vulnmachines/cve-2021-42013](https://github.com/Vulnmachines/cve-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/cve-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/cve-2021-42013">
@@ -1243,6 +1248,11 @@
 - [xdx57/CVE-2021-25094](https://github.com/xdx57/CVE-2021-25094)	<img alt="forks" src="https://img.shields.io/github/forks/xdx57/CVE-2021-25094">	<img alt="stars" src="https://img.shields.io/github/stars/xdx57/CVE-2021-25094">
 - [TUANB4DUT/typehub-exploiter](https://github.com/TUANB4DUT/typehub-exploiter)	<img alt="forks" src="https://img.shields.io/github/forks/TUANB4DUT/typehub-exploiter">	<img alt="stars" src="https://img.shields.io/github/stars/TUANB4DUT/typehub-exploiter">
 - [darkpills/CVE-2021-25094-tatsu-preauth-rce](https://github.com/darkpills/CVE-2021-25094-tatsu-preauth-rce)	<img alt="forks" src="https://img.shields.io/github/forks/darkpills/CVE-2021-25094-tatsu-preauth-rce">	<img alt="stars" src="https://img.shields.io/github/stars/darkpills/CVE-2021-25094-tatsu-preauth-rce">
+
+---
+## CVE-2021-25086 (2022-05-02T16:15:00)
+> The Advanced Page Visit Counter WordPress plugin before 6.1.2 does not sanitise and escape some input before outputting it in an admin dashboard page, allowing unauthenticated attackers to perform Cross-Site Scripting attacks against admins viewing it
+- [Live-Hack-CVE/CVE-2021-25086](https://github.com/Live-Hack-CVE/CVE-2021-25086)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25086">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25086">
 
 ---
 ## CVE-2021-25003 (2022-03-14T15:15:00)

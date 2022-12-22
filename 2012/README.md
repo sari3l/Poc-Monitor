@@ -40,6 +40,11 @@
 - [daai1/CVE-2012-1823](https://github.com/daai1/CVE-2012-1823)	<img alt="forks" src="https://img.shields.io/github/forks/daai1/CVE-2012-1823">	<img alt="stars" src="https://img.shields.io/github/stars/daai1/CVE-2012-1823">
 
 ---
+## CVE-2012-0777 (2012-04-10T23:55:00)
+> The JavaScript API in Adobe Reader and Acrobat 9.x before 9.5.1 and 10.x before 10.1.3 on Mac OS X and Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors.
+- [Live-Hack-CVE/CVE-2012-0777](https://github.com/Live-Hack-CVE/CVE-2012-0777)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-0777">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-0777">
+
+---
 ## CVE-2012-0158 (2012-04-10T21:55:00)
 > The (1) ListView, (2) ListView2, (3) TreeView, and (4) TreeView2 ActiveX controls in MSCOMCTL.OCX in the Common Controls in Microsoft Office 2003 SP3, 2007 SP2 and SP3, and 2010 Gold and SP1; Office 2003 Web Components SP3; SQL Server 2000 SP4, 2005 SP4, and 2008 SP2, SP3, and R2; BizTalk Server 2002 SP1; Commerce Server 2002 SP4, 2007 SP2, and 2009 Gold and R2; Visual FoxPro 8.0 SP1 and 9.0 SP2; and Visual Basic 6.0 Runtime allow remote attackers to execute arbitrary code via a crafted (a) web site, (b) Office document, or (c) .rtf file that triggers "system state" corruption, as exploited in the wild in April 2012, aka "MSCOMCTL.OCX RCE Vulnerability."
 - [Sunqiz/CVE-2012-0158-reproduction](https://github.com/Sunqiz/CVE-2012-0158-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Sunqiz/CVE-2012-0158-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Sunqiz/CVE-2012-0158-reproduction">
