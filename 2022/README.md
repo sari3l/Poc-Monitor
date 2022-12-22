@@ -4701,6 +4701,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-20500](https://github.com/Live-Hack-CVE/CVE-2022-20500)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20500">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20500">
 
 ---
+## CVE-2022-20498 (2022-12-13T16:15:00)
+> In fdt_path_offset_namelen of fdt_ro.c, there is a possible out of bounds read due to an incorrect bounds check. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-246465319
+- [Live-Hack-CVE/CVE-2022-20498](https://github.com/Live-Hack-CVE/CVE-2022-20498)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20498">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20498">
+
+---
 ## CVE-2022-20497 (2022-12-13T16:15:00)
 > In updatePublicMode of NotificationLockscreenUserManagerImpl.java, there is a possible way to reveal sensitive notifications on the lockscreen due to an incorrect state transition. This could lead to local information disclosure with physical access required and an app that runs above the lockscreen, with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-12 Android-12L Android-13Android ID: A-246301979
 - [Live-Hack-CVE/CVE-2022-20497](https://github.com/Live-Hack-CVE/CVE-2022-20497)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20497">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20497">
