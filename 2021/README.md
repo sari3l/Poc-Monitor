@@ -498,6 +498,16 @@
 - [l00neyhacker/CVE-2021-40649](https://github.com/l00neyhacker/CVE-2021-40649)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2021-40649">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2021-40649">
 
 ---
+## CVE-2021-40465 (2021-10-13T01:15:00)
+> Windows Text Shaping Remote Code Execution Vulnerability
+- [Live-Hack-CVE/CVE-2021-40465](https://github.com/Live-Hack-CVE/CVE-2021-40465)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40465">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40465">
+
+---
+## CVE-2021-40462 (2021-10-13T01:15:00)
+> Windows Media Foundation Dolby Digital Atmos Decoders Remote Code Execution Vulnerability
+- [Live-Hack-CVE/CVE-2021-40462](https://github.com/Live-Hack-CVE/CVE-2021-40462)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40462">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40462">
+
+---
 ## CVE-2021-4045 (2022-03-10T17:44:00)
 > TP-Link Tapo C200 IP camera, on its 1.1.15 firmware version and below, is affected by an unauthenticated RCE vulnerability, present in the uhttpd binary running by default as root. The exploitation of this vulnerability allows an attacker to take full control of the camera.
 - [1x019/CVE-2021-4045](https://github.com/1x019/CVE-2021-4045)	<img alt="forks" src="https://img.shields.io/github/forks/1x019/CVE-2021-4045">	<img alt="stars" src="https://img.shields.io/github/stars/1x019/CVE-2021-4045">

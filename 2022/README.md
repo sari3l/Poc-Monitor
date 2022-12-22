@@ -158,6 +158,16 @@
 - [Live-Hack-CVE/CVE-2022-46870](https://github.com/Live-Hack-CVE/CVE-2022-46870)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46870">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46870">
 
 ---
+## CVE-2022-46834 (2022-12-13T16:15:00)
+> Use of a Broken or Risky Cryptographic Algorithm in SICK RFU65x firmware version < v2.21 allows a low-privileged remote attacker to decrypt the encrypted data if the user requested weak cipher suites to be used for encryption via the SSH interface. The patch and installation procedure for the firmware update is available from the responsible SICK customer contact person.
+- [Live-Hack-CVE/CVE-2022-46834](https://github.com/Live-Hack-CVE/CVE-2022-46834)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46834">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46834">
+
+---
+## CVE-2022-46833 (2022-12-13T16:15:00)
+> Use of a Broken or Risky Cryptographic Algorithm in SICK RFU63x firmware version < v2.21 allows a low-privileged remote attacker to decrypt the encrypted data if the user requested weak cipher suites to be used for encryption via the SSH interface. The patch and installation procedure for the firmware update is available from the responsible SICK customer contact person.
+- [Live-Hack-CVE/CVE-2022-46833](https://github.com/Live-Hack-CVE/CVE-2022-46833)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46833">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46833">
+
+---
 ## CVE-2022-46771 (2022-12-20T20:15:00)
 > IBM UrbanCode Deploy (UCD) 6.2.0.0 through 6.2.7.18, 7.0.5.0 through 7.0.5.13, 7.1.0.0 through 7.1.2.9, 7.2.0.0 through 7.2.3.2 and 7.3.0.0 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 242273.
 - [Live-Hack-CVE/CVE-2022-46771](https://github.com/Live-Hack-CVE/CVE-2022-46771)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46771">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46771">
@@ -330,6 +340,11 @@
 - [Live-Hack-CVE/CVE-2022-46346](https://github.com/Live-Hack-CVE/CVE-2022-46346)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46346">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46346">
 
 ---
+## CVE-2022-46345 (2022-12-13T16:15:00)
+> A vulnerability has been identified in Parasolid V33.1 (All versions < V33.1.264), Parasolid V34.0 (All versions < V34.0.252), Parasolid V34.1 (All versions < V34.1.242), Parasolid V35.0 (All versions < V35.0.170). The affected applications contain an out of bounds write past the end of an allocated structure while parsing specially crafted X_B files. This could allow an attacker to execute code in the context of the current process. (ZDI-CAN-19070)
+- [Live-Hack-CVE/CVE-2022-46345](https://github.com/Live-Hack-CVE/CVE-2022-46345)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46345">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46345">
+
+---
 ## CVE-2022-46344 (2022-12-14T21:15:00)
 > A vulnerability was found in X.Org. This security flaw occurs because the handler for the XIChangeProperty request has a length-validation issues, resulting in out-of-bounds memory reads and potential information disclosure. This issue can lead to local privileges elevation on systems where the X server is running privileged and remote code execution for ssh X forwarding sessions.
 - [Live-Hack-CVE/CVE-2022-46344](https://github.com/Live-Hack-CVE/CVE-2022-46344)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46344">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46344">
@@ -427,6 +442,11 @@
 - [Live-Hack-CVE/CVE-2022-4630](https://github.com/Live-Hack-CVE/CVE-2022-4630)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4630">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4630">
 
 ---
+## CVE-2022-46265 (2022-12-13T16:15:00)
+> A vulnerability has been identified in Polarion ALM (All versions). The affected application contains a Host header injection vulnerability that could allow an attacker to spoof a Host header information and redirect users to malicious websites.
+- [Live-Hack-CVE/CVE-2022-46265](https://github.com/Live-Hack-CVE/CVE-2022-46265)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46265">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46265">
+
+---
 ## CVE-2022-46256 (2022-12-14T18:15:00)
 > A path traversal vulnerability was identified in GitHub Enterprise Server that allowed remote code execution when building a GitHub Pages site. To exploit this vulnerability, an attacker would need permission to create and build a GitHub Pages site on the instance. This vulnerability was fixed in versions 3.3.17, 3.4.12, 3.5.9, 3.6.5 and 3.7.2. This vulnerability was reported via the GitHub Bug Bounty program.
 - [Live-Hack-CVE/CVE-2022-46256](https://github.com/Live-Hack-CVE/CVE-2022-46256)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46256">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46256">
@@ -453,6 +473,11 @@
 ## CVE-2022-4615 (2022-12-19T20:15:00)
 > Cross-site Scripting (XSS) - Reflected in GitHub repository openemr/openemr prior to 7.0.0.2.
 - [Live-Hack-CVE/CVE-2022-4615](https://github.com/Live-Hack-CVE/CVE-2022-4615)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4615">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4615">
+
+---
+## CVE-2022-46144 (2022-12-13T16:15:00)
+> A vulnerability has been identified in SCALANCE SC622-2C (All versions < V2.3), SCALANCE SC622-2C (All versions >= 2.3 < V3.0), SCALANCE SC626-2C (All versions < V2.3), SCALANCE SC626-2C (All versions >= 2.3 < V3.0), SCALANCE SC632-2C (All versions < V2.3), SCALANCE SC632-2C (All versions >= 2.3 < V3.0), SCALANCE SC636-2C (All versions < V2.3), SCALANCE SC636-2C (All versions >= 2.3 < V3.0), SCALANCE SC642-2C (All versions < V2.3), SCALANCE SC642-2C (All versions >= 2.3 < V3.0), SCALANCE SC646-2C (All versions < V2.3), SCALANCE SC646-2C (All versions >= 2.3 < V3.0). Affected devices do not properly process CLI commands after a user forcefully quitted the SSH connection. This could allow an authenticated attacker to make the CLI via SSH or serial interface irresponsive.
+- [Live-Hack-CVE/CVE-2022-46144](https://github.com/Live-Hack-CVE/CVE-2022-46144)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46144">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46144">
 
 ---
 ## CVE-2022-4614 (2022-12-19T20:15:00)
@@ -493,6 +518,11 @@
 ## CVE-2022-45957 (2022-12-12T15:15:00)
 > ZTE ZXHN-H108NS router with firmware version H108NSV1.0.7u_ZRD_GR2_A68 is vulnerable to remote stack buffer overflow.
 - [Live-Hack-CVE/CVE-2022-45957](https://github.com/Live-Hack-CVE/CVE-2022-45957)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45957">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45957">
+
+---
+## CVE-2022-45936 (2022-12-13T16:15:00)
+> A vulnerability has been identified in Mendix Email Connector (All versions < V2.0.0). Affected versions of the module improperly handle access control for some module entities. This could allow authenticated remote attackers to read and manipulate sensitive information.
+- [Live-Hack-CVE/CVE-2022-45936](https://github.com/Live-Hack-CVE/CVE-2022-45936)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45936">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45936">
 
 ---
 ## CVE-2022-4583 (2022-12-17T13:15:00)
