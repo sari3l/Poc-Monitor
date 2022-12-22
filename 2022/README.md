@@ -58,6 +58,36 @@
 - [Live-Hack-CVE/CVE-2022-47581](https://github.com/Live-Hack-CVE/CVE-2022-47581)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47581">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47581">
 
 ---
+## CVE-2022-46549 (2022-12-20T15:15:00)
+> Tenda F1203 V2.0.1.6 was discovered to contain a buffer overflow via the deviceId parameter at /goform/saveParentControlInfo.
+- [Live-Hack-CVE/CVE-2022-46549](https://github.com/Live-Hack-CVE/CVE-2022-46549)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46549">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46549">
+
+---
+## CVE-2022-46548 (2022-12-20T15:15:00)
+> Tenda F1203 V2.0.1.6 was discovered to contain a buffer overflow via the page parameter at /goform/DhcpListClient.
+- [Live-Hack-CVE/CVE-2022-46548](https://github.com/Live-Hack-CVE/CVE-2022-46548)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46548">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46548">
+
+---
+## CVE-2022-46547 (2022-12-20T15:15:00)
+> Tenda F1203 V2.0.1.6 was discovered to contain a buffer overflow via the page parameter at /goform/VirtualSer.
+- [Live-Hack-CVE/CVE-2022-46547](https://github.com/Live-Hack-CVE/CVE-2022-46547)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46547">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46547">
+
+---
+## CVE-2022-46546 (2022-12-20T15:15:00)
+> Tenda F1203 V2.0.1.6 was discovered to contain a buffer overflow via the entrys parameter at /goform/RouteStatic.
+- [Live-Hack-CVE/CVE-2022-46546](https://github.com/Live-Hack-CVE/CVE-2022-46546)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46546">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46546">
+
+---
+## CVE-2022-46545 (2022-12-20T15:15:00)
+> Tenda F1203 V2.0.1.6 was discovered to contain a buffer overflow via the page parameter at /goform/NatStaticSetting.
+- [Live-Hack-CVE/CVE-2022-46545](https://github.com/Live-Hack-CVE/CVE-2022-46545)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46545">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46545">
+
+---
+## CVE-2022-46544 (2022-12-20T15:15:00)
+> Tenda F1203 V2.0.1.6 was discovered to contain a buffer overflow via the cmdinput parameter at /goform/exeCommand.
+- [Live-Hack-CVE/CVE-2022-46544](https://github.com/Live-Hack-CVE/CVE-2022-46544)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46544">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46544">
+
+---
 ## CVE-2022-4646 (2022-12-22T02:15:00)
 > Cross-Site Request Forgery (CSRF) in GitHub repository ikus060/rdiffweb prior to 2.5.4.
 - [Live-Hack-CVE/CVE-2022-4646](https://github.com/Live-Hack-CVE/CVE-2022-4646)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4646">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4646">
@@ -177,6 +207,26 @@
 - [gmh5225/CVE-2022-44721-CsFalconUninstaller](https://github.com/gmh5225/CVE-2022-44721-CsFalconUninstaller)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/CVE-2022-44721-CsFalconUninstaller">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/CVE-2022-44721-CsFalconUninstaller">
 
 ---
+## CVE-2022-44473 (2022-12-16T16:15:00)
+> Adobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.
+- [Live-Hack-CVE/CVE-2022-44473](https://github.com/Live-Hack-CVE/CVE-2022-44473)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44473">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44473">
+
+---
+## CVE-2022-44469 (2022-12-16T16:15:00)
+> Adobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.
+- [Live-Hack-CVE/CVE-2022-44469](https://github.com/Live-Hack-CVE/CVE-2022-44469)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44469">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44469">
+
+---
+## CVE-2022-44468 (2022-12-16T16:15:00)
+> Adobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.
+- [Live-Hack-CVE/CVE-2022-44468](https://github.com/Live-Hack-CVE/CVE-2022-44468)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44468">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44468">
+
+---
+## CVE-2022-44462 (2022-12-16T16:15:00)
+> Adobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.
+- [Live-Hack-CVE/CVE-2022-44462](https://github.com/Live-Hack-CVE/CVE-2022-44462)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44462">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44462">
+
+---
 ## CVE-2022-44215 ()
 > 
 - [JBalanza/CVE-2022-44215](https://github.com/JBalanza/CVE-2022-44215)	<img alt="forks" src="https://img.shields.io/github/forks/JBalanza/CVE-2022-44215">	<img alt="stars" src="https://img.shields.io/github/stars/JBalanza/CVE-2022-44215">
@@ -282,6 +332,91 @@
 ## CVE-2022-4287 (2022-12-21T17:15:00)
 > Authentication bypass in local application lock feature in Devolutions Remote Desktop Manager 2022.3.26 and earlier on Windows allows malicious user to access the application.
 - [Live-Hack-CVE/CVE-2022-4287](https://github.com/Live-Hack-CVE/CVE-2022-4287)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4287">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4287">
+
+---
+## CVE-2022-42527 (2022-12-16T16:15:00)
+> In cd_SsParseMsg of cd_SsCodec.c, there is a possible crash due to a missing null check. This could lead to remote denial of service with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-244448906References: N/A
+- [Live-Hack-CVE/CVE-2022-42527](https://github.com/Live-Hack-CVE/CVE-2022-42527)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42527">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42527">
+
+---
+## CVE-2022-42526 (2022-12-16T16:15:00)
+> In ConvertUtf8ToUcs2 of radio_hal_utils.cpp, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-243509880References: N/A
+- [Live-Hack-CVE/CVE-2022-42526](https://github.com/Live-Hack-CVE/CVE-2022-42526)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42526">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42526">
+
+---
+## CVE-2022-42525 (2022-12-16T16:15:00)
+> In fillSetupDataCallInfo_V1_6 of ril_service_1_6.cpp, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-243509750References: N/A
+- [Live-Hack-CVE/CVE-2022-42525](https://github.com/Live-Hack-CVE/CVE-2022-42525)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42525">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42525">
+
+---
+## CVE-2022-42524 (2022-12-16T16:15:00)
+> In sms_GetTpUdlIe of sms_PduCodec.c, there is a possible out of bounds read due to a missing bounds check. This could lead to remote information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-243401445References: N/A
+- [Live-Hack-CVE/CVE-2022-42524](https://github.com/Live-Hack-CVE/CVE-2022-42524)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42524">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42524">
+
+---
+## CVE-2022-42523 (2022-12-16T16:15:00)
+> In fillSetupDataCallInfo_V1_6 of ril_service_1_6.cpp, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-243376893References: N/A
+- [Live-Hack-CVE/CVE-2022-42523](https://github.com/Live-Hack-CVE/CVE-2022-42523)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42523">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42523">
+
+---
+## CVE-2022-42522 (2022-12-16T16:15:00)
+> In DoSetCarrierConfig of miscservice.cpp, there is a possible out of bounds read due to an incorrect bounds check. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-243130038References: N/A
+- [Live-Hack-CVE/CVE-2022-42522](https://github.com/Live-Hack-CVE/CVE-2022-42522)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42522">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42522">
+
+---
+## CVE-2022-42521 (2022-12-16T16:15:00)
+> In encode of wlandata.cpp, there is a possible out of bounds write due to improper input validation. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-243130019References: N/A
+- [Live-Hack-CVE/CVE-2022-42521](https://github.com/Live-Hack-CVE/CVE-2022-42521)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42521">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42521">
+
+---
+## CVE-2022-42520 (2022-12-16T16:15:00)
+> In ServiceInterface::HandleRequest of serviceinterface.cpp, there is a possible use after free. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-242994270References: N/A
+- [Live-Hack-CVE/CVE-2022-42520](https://github.com/Live-Hack-CVE/CVE-2022-42520)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42520">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42520">
+
+---
+## CVE-2022-42519 (2022-12-16T16:15:00)
+> In CdmaBroadcastSmsConfigsRequestData::encode of cdmasmsdata.cpp, there is a possible stack clash leading to memory corruption. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-242540694References: N/A
+- [Live-Hack-CVE/CVE-2022-42519](https://github.com/Live-Hack-CVE/CVE-2022-42519)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42519">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42519">
+
+---
+## CVE-2022-42517 (2022-12-16T16:15:00)
+> In MiscService::DoOemSetTcsFci of miscservice.cpp, there is a possible out of bounds read due to a missing bounds check. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-241763682References: N/A
+- [Live-Hack-CVE/CVE-2022-42517](https://github.com/Live-Hack-CVE/CVE-2022-42517)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42517">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42517">
+
+---
+## CVE-2022-42516 (2022-12-16T16:15:00)
+> In ProtocolSimBuilderLegacy::BuildSimGetGbaAuth of protocolsimbuilderlegacy.cpp, there is a possible out of bounds read due to a missing bounds check. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-241763577References: N/A
+- [Live-Hack-CVE/CVE-2022-42516](https://github.com/Live-Hack-CVE/CVE-2022-42516)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42516">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42516">
+
+---
+## CVE-2022-42515 (2022-12-16T16:15:00)
+> In MiscService::DoOemSetRtpPktlossThreshold of miscservice.cpp, there is a possible out of bounds read due to a missing bounds check. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-241763503References: N/A
+- [Live-Hack-CVE/CVE-2022-42515](https://github.com/Live-Hack-CVE/CVE-2022-42515)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42515">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42515">
+
+---
+## CVE-2022-42510 (2022-12-16T16:15:00)
+> In StringsRequestData::encode of requestdata.cpp, there is a possible out of bounds read due to improper input validation. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-241762656References: N/A
+- [Live-Hack-CVE/CVE-2022-42510](https://github.com/Live-Hack-CVE/CVE-2022-42510)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42510">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42510">
+
+---
+## CVE-2022-42509 (2022-12-16T16:15:00)
+> In CallDialReqData::encode of callreqdata.cpp, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-241544307References: N/A
+- [Live-Hack-CVE/CVE-2022-42509](https://github.com/Live-Hack-CVE/CVE-2022-42509)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42509">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42509">
+
+---
+## CVE-2022-42508 (2022-12-16T16:15:00)
+> In ProtocolCallBuilder::BuildSendUssd of protocolcallbuilder.cpp, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-241388966References: N/A
+- [Live-Hack-CVE/CVE-2022-42508](https://github.com/Live-Hack-CVE/CVE-2022-42508)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42508">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42508">
+
+---
+## CVE-2022-42507 (2022-12-16T16:15:00)
+> In ProtocolSimBuilder::BuildSimUpdatePb3gEntry of protocolsimbuilder.cpp, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-241388774References: N/A
+- [Live-Hack-CVE/CVE-2022-42507](https://github.com/Live-Hack-CVE/CVE-2022-42507)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42507">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42507">
+
+---
+## CVE-2022-42506 (2022-12-16T16:15:00)
+> In SimUpdatePbEntry::encode of simdata.cpp, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-241388399References: N/A
+- [Live-Hack-CVE/CVE-2022-42506](https://github.com/Live-Hack-CVE/CVE-2022-42506)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42506">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42506">
 
 ---
 ## CVE-2022-42505 (2022-12-16T16:15:00)
@@ -1375,6 +1510,16 @@
 - [jbaines-r7/hook](https://github.com/jbaines-r7/hook)	<img alt="forks" src="https://img.shields.io/github/forks/jbaines-r7/hook">	<img alt="stars" src="https://img.shields.io/github/stars/jbaines-r7/hook">
 
 ---
+## CVE-2022-31708 (2022-12-16T16:15:00)
+> vRealize Operations (vROps) contains a broken access control vulnerability. VMware has evaluated the severity of this issue to be in the Moderate severity range with a maximum CVSSv3 base score of 4.4.
+- [Live-Hack-CVE/CVE-2022-31708](https://github.com/Live-Hack-CVE/CVE-2022-31708)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31708">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31708">
+
+---
+## CVE-2022-31707 (2022-12-16T16:15:00)
+> vRealize Operations (vROps) contains a privilege escalation vulnerability. VMware has evaluated the severity of this issue to be in the Important severity range with a maximum CVSSv3 base score of 7.2.
+- [Live-Hack-CVE/CVE-2022-31707](https://github.com/Live-Hack-CVE/CVE-2022-31707)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31707">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31707">
+
+---
 ## CVE-2022-31692 (2022-10-31T20:15:00)
 > Spring Security, versions 5.7 prior to 5.7.5 and 5.6 prior to 5.6.9 could be susceptible to authorization rules bypass via forward or include dispatcher types. Specifically, an application is vulnerable when all of the following are true: The application expects that Spring Security applies security to forward and include dispatcher types. The application uses the AuthorizationFilter either manually or via the authorizeHttpRequests() method. The application configures the FilterChainProxy to apply to forward and/or include requests (e.g. spring.security.filter.dispatcher-types = request, error, async, forward, include). The application may forward or include the request to a higher privilege-secured endpoint.The application configures Spring Security to apply to every dispatcher type via authorizeHttpRequests().shouldFilterAllDispatcherTypes(true)
 - [SpindleSec/CVE-2022-31692](https://github.com/SpindleSec/CVE-2022-31692)	<img alt="forks" src="https://img.shields.io/github/forks/SpindleSec/CVE-2022-31692">	<img alt="stars" src="https://img.shields.io/github/stars/SpindleSec/CVE-2022-31692">
@@ -2079,6 +2224,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [CyberArchitect1/CVE-2022-25765-pdfkit-Exploit-Reverse-Shell](https://github.com/CyberArchitect1/CVE-2022-25765-pdfkit-Exploit-Reverse-Shell)	<img alt="forks" src="https://img.shields.io/github/forks/CyberArchitect1/CVE-2022-25765-pdfkit-Exploit-Reverse-Shell">	<img alt="stars" src="https://img.shields.io/github/stars/CyberArchitect1/CVE-2022-25765-pdfkit-Exploit-Reverse-Shell">
 - [Atsukoro1/PDFKitExploit](https://github.com/Atsukoro1/PDFKitExploit)	<img alt="forks" src="https://img.shields.io/github/forks/Atsukoro1/PDFKitExploit">	<img alt="stars" src="https://img.shields.io/github/stars/Atsukoro1/PDFKitExploit">
 - [LordRNA/CVE-2022-25765](https://github.com/LordRNA/CVE-2022-25765)	<img alt="forks" src="https://img.shields.io/github/forks/LordRNA/CVE-2022-25765">	<img alt="stars" src="https://img.shields.io/github/stars/LordRNA/CVE-2022-25765">
+
+---
+## CVE-2022-25628 (2022-12-16T16:15:00)
+> An authenticated user can perform XML eXternal Entity injection in Management Console in Symantec Identity Manager 14.4
+- [Live-Hack-CVE/CVE-2022-25628](https://github.com/Live-Hack-CVE/CVE-2022-25628)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25628">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25628">
 
 ---
 ## CVE-2022-2546 ()
