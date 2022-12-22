@@ -339,6 +339,16 @@
 - [rb-x/CVE-2022-46169](https://github.com/rb-x/CVE-2022-46169)	<img alt="forks" src="https://img.shields.io/github/forks/rb-x/CVE-2022-46169">	<img alt="stars" src="https://img.shields.io/github/stars/rb-x/CVE-2022-46169">
 
 ---
+## CVE-2022-4615 (2022-12-19T20:15:00)
+> Cross-site Scripting (XSS) - Reflected in GitHub repository openemr/openemr prior to 7.0.0.2.
+- [Live-Hack-CVE/CVE-2022-4615](https://github.com/Live-Hack-CVE/CVE-2022-4615)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4615">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4615">
+
+---
+## CVE-2022-4614 (2022-12-19T20:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository alagrede/znote-app prior to 1.7.11.
+- [Live-Hack-CVE/CVE-2022-4614](https://github.com/Live-Hack-CVE/CVE-2022-4614)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4614">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4614">
+
+---
 ## CVE-2022-46139 (2022-12-20T20:15:00)
 > TP-Link TL-WR940N V4 3.16.9 and earlier allows authenticated attackers to cause a Denial of Service (DoS) via uploading a crafted firmware image during the firmware update process.
 - [Live-Hack-CVE/CVE-2022-46139](https://github.com/Live-Hack-CVE/CVE-2022-46139)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46139">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46139">
@@ -475,9 +485,19 @@
 - [Live-Hack-CVE/CVE-2022-4511](https://github.com/Live-Hack-CVE/CVE-2022-4511)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4511">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4511">
 
 ---
+## CVE-2022-45041 (2022-12-19T21:15:00)
+> SQL Injection exits in xinhu < 2.5.0
+- [Live-Hack-CVE/CVE-2022-45041](https://github.com/Live-Hack-CVE/CVE-2022-45041)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45041">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45041">
+
+---
 ## CVE-2022-45025 (2022-12-07T02:15:00)
 > Markdown Preview Enhanced v0.6.5 and v0.19.6 for VSCode and Atom was discovered to contain a command injection vulnerability via the PDF file import function.
 - [yuriisanin/CVE-2022-45025](https://github.com/yuriisanin/CVE-2022-45025)	<img alt="forks" src="https://img.shields.io/github/forks/yuriisanin/CVE-2022-45025">	<img alt="stars" src="https://img.shields.io/github/stars/yuriisanin/CVE-2022-45025">
+
+---
+## CVE-2022-44940 (2022-12-19T22:15:00)
+> Patchelf v0.9 was discovered to contain an out-of-bounds read via the function modifyRPath at src/patchelf.cc.
+- [Live-Hack-CVE/CVE-2022-44940](https://github.com/Live-Hack-CVE/CVE-2022-44940)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44940">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44940">
 
 ---
 ## CVE-2022-44830 (2022-11-21T18:15:00)
@@ -506,9 +526,29 @@
 - [Live-Hack-CVE/CVE-2022-44643](https://github.com/Live-Hack-CVE/CVE-2022-44643)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44643">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44643">
 
 ---
+## CVE-2022-44488 (2022-12-19T20:15:00)
+> Adobe Experience Manager version 6.5.14 (and earlier) is affected by a URL Redirection to Untrusted Site ('Open Redirect') vulnerability. A low-privilege authenticated attacker could leverage this vulnerability to redirect users to malicious websites. Exploitation of this issue requires user interaction.
+- [Live-Hack-CVE/CVE-2022-44488](https://github.com/Live-Hack-CVE/CVE-2022-44488)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44488">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44488">
+
+---
+## CVE-2022-44474 (2022-12-19T20:15:00)
+> Adobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.
+- [Live-Hack-CVE/CVE-2022-44474](https://github.com/Live-Hack-CVE/CVE-2022-44474)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44474">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44474">
+
+---
 ## CVE-2022-44473 (2022-12-16T16:15:00)
 > Adobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.
 - [Live-Hack-CVE/CVE-2022-44473](https://github.com/Live-Hack-CVE/CVE-2022-44473)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44473">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44473">
+
+---
+## CVE-2022-44471 (2022-12-19T20:15:00)
+> Adobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.
+- [Live-Hack-CVE/CVE-2022-44471](https://github.com/Live-Hack-CVE/CVE-2022-44471)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44471">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44471">
+
+---
+## CVE-2022-44470 (2022-12-19T20:15:00)
+> Adobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.
+- [Live-Hack-CVE/CVE-2022-44470](https://github.com/Live-Hack-CVE/CVE-2022-44470)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44470">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44470">
 
 ---
 ## CVE-2022-44469 (2022-12-16T16:15:00)
@@ -519,6 +559,26 @@
 ## CVE-2022-44468 (2022-12-16T16:15:00)
 > Adobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.
 - [Live-Hack-CVE/CVE-2022-44468](https://github.com/Live-Hack-CVE/CVE-2022-44468)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44468">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44468">
+
+---
+## CVE-2022-44467 (2022-12-19T20:15:00)
+> Adobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.
+- [Live-Hack-CVE/CVE-2022-44467](https://github.com/Live-Hack-CVE/CVE-2022-44467)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44467">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44467">
+
+---
+## CVE-2022-44466 (2022-12-19T20:15:00)
+> Adobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.
+- [Live-Hack-CVE/CVE-2022-44466](https://github.com/Live-Hack-CVE/CVE-2022-44466)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44466">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44466">
+
+---
+## CVE-2022-44465 (2022-12-19T20:15:00)
+> Adobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.
+- [Live-Hack-CVE/CVE-2022-44465](https://github.com/Live-Hack-CVE/CVE-2022-44465)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44465">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44465">
+
+---
+## CVE-2022-44463 (2022-12-19T20:15:00)
+> Adobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.
+- [Live-Hack-CVE/CVE-2022-44463](https://github.com/Live-Hack-CVE/CVE-2022-44463)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44463">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44463">
 
 ---
 ## CVE-2022-44462 (2022-12-16T16:15:00)
@@ -535,6 +595,16 @@
 ## CVE-2022-43959 ()
 > 
 - [secware-ru/CVE-2022-43959](https://github.com/secware-ru/CVE-2022-43959)	<img alt="forks" src="https://img.shields.io/github/forks/secware-ru/CVE-2022-43959">	<img alt="stars" src="https://img.shields.io/github/stars/secware-ru/CVE-2022-43959">
+
+---
+## CVE-2022-43887 (2022-12-19T21:15:00)
+> IBM Cognos Analytics 11.1.7, 11.2.0, and 11.2.1 could be vulnerable to sensitive information exposure by passing API keys to log files. If these keys contain sensitive information, it could lead to further attacks. IBM X-Force ID: 240450.
+- [Live-Hack-CVE/CVE-2022-43887](https://github.com/Live-Hack-CVE/CVE-2022-43887)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43887">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43887">
+
+---
+## CVE-2022-43883 (2022-12-19T21:15:00)
+> IBM Cognos Analytics 11.1.7, 11.2.0, and 11.2.1 could be vulnerable to a Log Injection attack by constructing URLs from user-controlled data. This could enable attackers to make arbitrary requests to the internal network or to the local file system. IBM X-Force ID: 240266.
+- [Live-Hack-CVE/CVE-2022-43883](https://github.com/Live-Hack-CVE/CVE-2022-43883)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43883">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43883">
 
 ---
 ## CVE-2022-43875 (2022-12-20T19:15:00)
@@ -878,14 +948,59 @@
 - [Live-Hack-CVE/CVE-2022-42366](https://github.com/Live-Hack-CVE/CVE-2022-42366)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42366">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42366">
 
 ---
+## CVE-2022-42365 (2022-12-19T20:15:00)
+> Adobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.
+- [Live-Hack-CVE/CVE-2022-42365](https://github.com/Live-Hack-CVE/CVE-2022-42365)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42365">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42365">
+
+---
+## CVE-2022-42364 (2022-12-19T20:15:00)
+> Adobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.
+- [Live-Hack-CVE/CVE-2022-42364](https://github.com/Live-Hack-CVE/CVE-2022-42364)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42364">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42364">
+
+---
+## CVE-2022-42362 (2022-12-19T20:15:00)
+> Adobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.
+- [Live-Hack-CVE/CVE-2022-42362](https://github.com/Live-Hack-CVE/CVE-2022-42362)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42362">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42362">
+
+---
 ## CVE-2022-42360 (2022-12-16T16:15:00)
 > Adobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.
 - [Live-Hack-CVE/CVE-2022-42360](https://github.com/Live-Hack-CVE/CVE-2022-42360)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42360">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42360">
 
 ---
+## CVE-2022-42357 (2022-12-19T20:15:00)
+> Adobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.
+- [Live-Hack-CVE/CVE-2022-42357](https://github.com/Live-Hack-CVE/CVE-2022-42357)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42357">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42357">
+
+---
+## CVE-2022-42356 (2022-12-19T20:15:00)
+> Adobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.
+- [Live-Hack-CVE/CVE-2022-42356](https://github.com/Live-Hack-CVE/CVE-2022-42356)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42356">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42356">
+
+---
+## CVE-2022-42354 (2022-12-19T20:15:00)
+> Adobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.
+- [Live-Hack-CVE/CVE-2022-42354](https://github.com/Live-Hack-CVE/CVE-2022-42354)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42354">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42354">
+
+---
 ## CVE-2022-42351 (2022-12-16T16:15:00)
 > Adobe Experience Manager version 6.5.14 (and earlier) is affected by an Incorrect Authorization vulnerability that could result in a security feature bypass. A low-privileged attacker could leverage this vulnerability to disclose low level confidentiality information. Exploitation of this issue does not require user interaction.
 - [Live-Hack-CVE/CVE-2022-42351](https://github.com/Live-Hack-CVE/CVE-2022-42351)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42351">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42351">
+
+---
+## CVE-2022-42350 (2022-12-19T20:15:00)
+> Adobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.
+- [Live-Hack-CVE/CVE-2022-42350](https://github.com/Live-Hack-CVE/CVE-2022-42350)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42350">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42350">
+
+---
+## CVE-2022-42349 (2022-12-19T20:15:00)
+> Adobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.
+- [Live-Hack-CVE/CVE-2022-42349](https://github.com/Live-Hack-CVE/CVE-2022-42349)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42349">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42349">
+
+---
+## CVE-2022-42348 (2022-12-19T20:15:00)
+> Adobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.
+- [Live-Hack-CVE/CVE-2022-42348](https://github.com/Live-Hack-CVE/CVE-2022-42348)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42348">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42348">
 
 ---
 ## CVE-2022-42176 (2022-10-20T15:15:00)
@@ -1202,6 +1317,11 @@
 - [RashidKhanPathan/CVE-2022-40470](https://github.com/RashidKhanPathan/CVE-2022-40470)	<img alt="forks" src="https://img.shields.io/github/forks/RashidKhanPathan/CVE-2022-40470">	<img alt="stars" src="https://img.shields.io/github/stars/RashidKhanPathan/CVE-2022-40470">
 
 ---
+## CVE-2022-40434 (2022-12-19T22:15:00)
+> Softr v2.0 was discovered to be vulnerable to HTML injection via the Name field of the Account page.
+- [Live-Hack-CVE/CVE-2022-40434](https://github.com/Live-Hack-CVE/CVE-2022-40434)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40434">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40434">
+
+---
 ## CVE-2022-40317 (2022-09-09T17:15:00)
 > OpenKM 6.3.11 allows stored XSS related to the javascript&colon; substring in an A element.
 - [izdiwho/CVE-2022-40317](https://github.com/izdiwho/CVE-2022-40317)	<img alt="forks" src="https://img.shields.io/github/forks/izdiwho/CVE-2022-40317">	<img alt="stars" src="https://img.shields.io/github/stars/izdiwho/CVE-2022-40317">
@@ -1413,6 +1533,11 @@
 - [Qualys/osslscanwin](https://github.com/Qualys/osslscanwin)	<img alt="forks" src="https://img.shields.io/github/forks/Qualys/osslscanwin">	<img alt="stars" src="https://img.shields.io/github/stars/Qualys/osslscanwin">
 - [micr0sh0ft/certscare-openssl3-exploit](https://github.com/micr0sh0ft/certscare-openssl3-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/micr0sh0ft/certscare-openssl3-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/micr0sh0ft/certscare-openssl3-exploit">
 - [hi-artem/find-spooky-prismacloud](https://github.com/hi-artem/find-spooky-prismacloud)	<img alt="forks" src="https://img.shields.io/github/forks/hi-artem/find-spooky-prismacloud">	<img alt="stars" src="https://img.shields.io/github/stars/hi-artem/find-spooky-prismacloud">
+
+---
+## CVE-2022-3775 (2022-12-19T20:15:00)
+> When rendering certain unicode sequences, grub2's font code doesn't proper validate if the informed glyph's width and height is constrained within bitmap size. As consequence an attacker can craft an input which will lead to a out-of-bounds write into grub2's heap, leading to memory corruption and availability issues. Although complex, arbitrary code execution could not be discarded.
+- [Live-Hack-CVE/CVE-2022-3775](https://github.com/Live-Hack-CVE/CVE-2022-3775)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3775">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3775">
 
 ---
 ## CVE-2022-37706 ()
@@ -1712,6 +1837,16 @@
 ## CVE-2022-35841 (2022-09-13T19:15:00)
 > Windows Enterprise App Management Service Remote Code Execution Vulnerability.
 - [Wack0/CVE-2022-35841](https://github.com/Wack0/CVE-2022-35841)	<img alt="forks" src="https://img.shields.io/github/forks/Wack0/CVE-2022-35841">	<img alt="stars" src="https://img.shields.io/github/stars/Wack0/CVE-2022-35841">
+
+---
+## CVE-2022-35695 (2022-12-19T20:15:00)
+> Adobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.
+- [Live-Hack-CVE/CVE-2022-35695](https://github.com/Live-Hack-CVE/CVE-2022-35695)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35695">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35695">
+
+---
+## CVE-2022-35693 (2022-12-19T20:15:00)
+> Adobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.
+- [Live-Hack-CVE/CVE-2022-35693](https://github.com/Live-Hack-CVE/CVE-2022-35693)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35693">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35693">
 
 ---
 ## CVE-2022-35513 (2022-09-07T14:15:00)
@@ -2203,6 +2338,11 @@
 > Improper input validation check logic vulnerability in SECRIL prior to SMR Jun-2022 Release 1 allows attackers to trigger crash.
 - [bl4ckmenace/CVE-2022-30709](https://github.com/bl4ckmenace/CVE-2022-30709)	<img alt="forks" src="https://img.shields.io/github/forks/bl4ckmenace/CVE-2022-30709">	<img alt="stars" src="https://img.shields.io/github/stars/bl4ckmenace/CVE-2022-30709">
 - [bl4ckmenace/CVE-2022-30709](https://github.com/bl4ckmenace/CVE-2022-30709)	<img alt="forks" src="https://img.shields.io/github/forks/bl4ckmenace/CVE-2022-30709">	<img alt="stars" src="https://img.shields.io/github/stars/bl4ckmenace/CVE-2022-30709">
+
+---
+## CVE-2022-30679 (2022-12-19T20:15:00)
+> Adobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.
+- [Live-Hack-CVE/CVE-2022-30679](https://github.com/Live-Hack-CVE/CVE-2022-30679)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30679">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30679">
 
 ---
 ## CVE-2022-30600 (2022-05-18T18:15:00)
@@ -2941,9 +3081,19 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [davwwwx/CVE-2022-23614](https://github.com/davwwwx/CVE-2022-23614)	<img alt="forks" src="https://img.shields.io/github/forks/davwwwx/CVE-2022-23614">	<img alt="stars" src="https://img.shields.io/github/stars/davwwwx/CVE-2022-23614">
 
 ---
+## CVE-2022-23543 (2022-12-19T22:15:00)
+> Silverware Games is a social network where people can play games online. Users can attach URLs to YouTube videos, the site will generate related `<iframe>` when the post will be published. The handler has some sort of protection so non-YouTube links can't be posted, as well as HTML tags are being stripped. However, it was still possible to add custom HTML attributes (e.g. `onclick=alert("xss")`) to the `<iframe>'. This issue was fixed in the version `1.1.34` and does not require any extra actions from our members. There has been no evidence that this vulnerability was used by anyone at this time.
+- [Live-Hack-CVE/CVE-2022-23543](https://github.com/Live-Hack-CVE/CVE-2022-23543)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23543">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23543">
+
+---
 ## CVE-2022-23537 (2022-12-20T19:15:00)
 > PJSIP is a free and open source multimedia communication library written in C language implementing standard based protocols such as SIP, SDP, RTP, STUN, TURN, and ICE. Buffer overread is possible when parsing a specially crafted STUN message with unknown attribute. The vulnerability affects applications that uses STUN including PJNATH and PJSUA-LIB. The patch is available as a commit in the master branch (2.13.1).
 - [Live-Hack-CVE/CVE-2022-23537](https://github.com/Live-Hack-CVE/CVE-2022-23537)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23537">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23537">
+
+---
+## CVE-2022-23536 (2022-12-19T22:15:00)
+> Cortex provides multi-tenant, long term storage for Prometheus. A local file inclusion vulnerability exists in Cortex versions 1.13.0, 1.13.1 and 1.14.0, where a malicious actor could remotely read local files as a result of parsing maliciously crafted Alertmanager configurations when submitted to the Alertmanager Set Configuration API. Only users of the Alertmanager service where `-experimental.alertmanager.enable-api` or `enable_api: true` is configured are affected. Affected Cortex users are advised to upgrade to patched versions 1.13.2 or 1.14.1. However as a workaround, Cortex administrators may reject Alertmanager configurations containing the `api_key_file` setting in the `opsgenie_configs` section before sending to the Set Alertmanager Configuration API.
+- [Live-Hack-CVE/CVE-2022-23536](https://github.com/Live-Hack-CVE/CVE-2022-23536)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23536">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23536">
 
 ---
 ## CVE-2022-23342 (2022-06-21T14:15:00)
