@@ -141,8 +141,8 @@
 - [maikroservice/CVE-2022-43332](https://github.com/maikroservice/CVE-2022-43332)	<img alt="forks" src="https://img.shields.io/github/forks/maikroservice/CVE-2022-43332">	<img alt="stars" src="https://img.shields.io/github/stars/maikroservice/CVE-2022-43332">
 
 ---
-## CVE-2022-43271 ()
-> 
+## CVE-2022-43271 (2022-12-22T02:15:00)
+> Inhabit Systems Pty Ltd Move CRM version 4, build 260 was discovered to contain a cross-site scripting (XSS) vulnerability via the User profile component.
 - [SecurityWillCheck/CVE-2022-43271](https://github.com/SecurityWillCheck/CVE-2022-43271)	<img alt="forks" src="https://img.shields.io/github/forks/SecurityWillCheck/CVE-2022-43271">	<img alt="stars" src="https://img.shields.io/github/stars/SecurityWillCheck/CVE-2022-43271">
 
 ---

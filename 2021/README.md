@@ -185,8 +185,8 @@
 - [trhacknon/exploit-grafana-CVE-2021-43798](https://github.com/trhacknon/exploit-grafana-CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/exploit-grafana-CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/exploit-grafana-CVE-2021-43798">
 
 ---
-## CVE-2021-43657 ()
-> 
+## CVE-2021-43657 (2022-12-22T02:15:00)
+> A Stored Cross-site scripting (XSS) vulnerability via MAster.php in Sourcecodetester Simple Client Management System (SCMS) 1.0 allows remote attackers to inject arbitrary web script or HTML via the vulnerable input fields.
 - [c0n5n3d/CVE-2021-43657](https://github.com/c0n5n3d/CVE-2021-43657)	<img alt="forks" src="https://img.shields.io/github/forks/c0n5n3d/CVE-2021-43657">	<img alt="stars" src="https://img.shields.io/github/stars/c0n5n3d/CVE-2021-43657">
 
 ---
