@@ -1,6 +1,11 @@
 # 2021 List
 
 ---
+## CVE-2021-46848 (2022-10-24T14:15:00)
+> GNU Libtasn1 before 4.19.0 has an ETYPE_OK off-by-one array size check that affects asn1_encode_simple_der.
+- [Live-Hack-CVE/CVE-2021-46848](https://github.com/Live-Hack-CVE/CVE-2021-46848)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46848">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46848">
+
+---
 ## CVE-2021-46422 (2022-04-27T13:15:00)
 > Telesquare SDT-CW3B1 1.1.0 is affected by an OS command injection vulnerability that allows a remote attacker to execute OS commands without any authentication.
 - [Chocapikk/CVE-2021-46422](https://github.com/Chocapikk/CVE-2021-46422)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2021-46422">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2021-46422">
@@ -230,6 +235,50 @@
 ## CVE-2021-42669 (2021-11-05T13:15:00)
 > A file upload vulnerability exists in Sourcecodester Engineers Online Portal in PHP via dashboard_teacher.php, which allows changing the avatar through teacher_avatar.php. Once an avatar gets uploaded it is getting uploaded to the /admin/uploads/ directory, and is accessible by all users. By uploading a php webshell containing "<?php system($_GET["cmd"]); ?>" the attacker can execute commands on the web server with - /admin/uploads/php-webshell?cmd=id.
 - [0xDeku/CVE-2021-42669](https://github.com/0xDeku/CVE-2021-42669)	<img alt="forks" src="https://img.shields.io/github/forks/0xDeku/CVE-2021-42669">	<img alt="stars" src="https://img.shields.io/github/stars/0xDeku/CVE-2021-42669">
+
+---
+## CVE-2021-4257 (2022-12-18T22:15:00)
+> A vulnerability was found in ctrlo lenio. It has been declared as problematic. This vulnerability affects unknown code of the file views/task.tt of the component Task Handler. The manipulation of the argument site.org.name/check.name/task.tasktype.name/task.name leads to cross site scripting. The attack can be initiated remotely. The name of the patch is 698c5fa465169d6f23c6a41ca4b1fc9a7869013a. It is recommended to apply a patch to fix this issue. VDB-216214 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2021-4257](https://github.com/Live-Hack-CVE/CVE-2021-4257)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4257">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4257">
+- [waseeld/CVE-2021-42574](https://github.com/waseeld/CVE-2021-42574)	<img alt="forks" src="https://img.shields.io/github/forks/waseeld/CVE-2021-42574">	<img alt="stars" src="https://img.shields.io/github/stars/waseeld/CVE-2021-42574">
+- [js-on/CVE-2021-42574](https://github.com/js-on/CVE-2021-42574)	<img alt="forks" src="https://img.shields.io/github/forks/js-on/CVE-2021-42574">	<img alt="stars" src="https://img.shields.io/github/stars/js-on/CVE-2021-42574">
+- [hffaust/CVE-2021-42574_and_CVE-2021-42694](https://github.com/hffaust/CVE-2021-42574_and_CVE-2021-42694)	<img alt="forks" src="https://img.shields.io/github/forks/hffaust/CVE-2021-42574_and_CVE-2021-42694">	<img alt="stars" src="https://img.shields.io/github/stars/hffaust/CVE-2021-42574_and_CVE-2021-42694">
+- [shiomiyan/CVE-2021-42574](https://github.com/shiomiyan/CVE-2021-42574)	<img alt="forks" src="https://img.shields.io/github/forks/shiomiyan/CVE-2021-42574">	<img alt="stars" src="https://img.shields.io/github/stars/shiomiyan/CVE-2021-42574">
+
+---
+## CVE-2021-4256 (2022-12-18T22:15:00)
+> A vulnerability was found in ctrlo lenio. It has been classified as problematic. This affects an unknown part of the file views/index.tt. The manipulation of the argument task.name/task.site.org.name leads to cross site scripting. It is possible to initiate the attack remotely. The name of the patch is e1646d5cd0a2fbab9eb505196dd2ca1c9e4cdd97. It is recommended to apply a patch to fix this issue. The identifier VDB-216213 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2021-4256](https://github.com/Live-Hack-CVE/CVE-2021-4256)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4256">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4256">
+
+---
+## CVE-2021-4255 (2022-12-18T22:15:00)
+> A vulnerability was found in ctrlo lenio and classified as problematic. Affected by this issue is some unknown functionality of the file views/contractor.tt. The manipulation of the argument contractor.name leads to cross site scripting. The attack may be launched remotely. The name of the patch is e1646d5cd0a2fbab9eb505196dd2ca1c9e4cdd97. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-216212.
+- [Live-Hack-CVE/CVE-2021-4255](https://github.com/Live-Hack-CVE/CVE-2021-4255)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4255">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4255">
+
+---
+## CVE-2021-4254 (2022-12-18T22:15:00)
+> A vulnerability has been found in ctrlo lenio and classified as problematic. Affected by this vulnerability is an unknown functionality of the file views/layouts/main.tt of the component Notice Handler. The manipulation of the argument notice.notice.text leads to cross site scripting. The attack can be launched remotely. The name of the patch is aa300555343c1c081951fcb68bfb6852fbba7451. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-216211.
+- [Live-Hack-CVE/CVE-2021-4254](https://github.com/Live-Hack-CVE/CVE-2021-4254)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4254">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4254">
+
+---
+## CVE-2021-4253 (2022-12-18T22:15:00)
+> A vulnerability, which was classified as problematic, was found in ctrlo lenio. Affected is an unknown function in the library lib/Lenio.pm of the component Ticket Handler. The manipulation of the argument site_id leads to cross site scripting. It is possible to launch the attack remotely. The name of the patch is 7a1f90bd2a0ce95b8338ec0926902da975ec64d9. It is recommended to apply a patch to fix this issue. VDB-216210 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2021-4253](https://github.com/Live-Hack-CVE/CVE-2021-4253)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4253">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4253">
+
+---
+## CVE-2021-4251 (2022-12-18T22:15:00)
+> A vulnerability classified as problematic was found in as. This vulnerability affects the function getFullURL of the file include.cdn.php. The manipulation leads to cross site scripting. The attack can be initiated remotely. The name of the patch is 4acad1e3d2c34c017473ceea442fb3e3e078b2bd. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-216208.
+- [Live-Hack-CVE/CVE-2021-4251](https://github.com/Live-Hack-CVE/CVE-2021-4251)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4251">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4251">
+
+---
+## CVE-2021-4250 (2022-12-18T22:15:00)
+> A vulnerability classified as problematic has been found in cgriego active_attr up to 0.15.3. This affects the function call of the file lib/active_attr/typecasting/boolean_typecaster.rb of the component Regex Handler. The manipulation of the argument value leads to denial of service. The exploit has been disclosed to the public and may be used. Upgrading to version 0.15.4 is able to address this issue. The name of the patch is dab95e5843b01525444b82bd7b336ef1d79377df. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-216207.
+- [Live-Hack-CVE/CVE-2021-4250](https://github.com/Live-Hack-CVE/CVE-2021-4250)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4250">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4250">
+
+---
+## CVE-2021-4249 (2022-12-18T15:15:00)
+> A vulnerability was found in xml-conduit. It has been classified as problematic. Affected is an unknown function of the file xml-conduit/src/Text/XML/Stream/Parse.hs of the component DOCTYPE Entity Expansion Handler. The manipulation leads to infinite loop. It is possible to launch the attack remotely. Upgrading to version 1.9.1.0 is able to address this issue. The name of the patch is 4be1021791dcdee8b164d239433a2043dc0939ea. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-216204.
+- [Live-Hack-CVE/CVE-2021-4249](https://github.com/Live-Hack-CVE/CVE-2021-4249)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4249">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4249">
 
 ---
 ## CVE-2021-4245 (2022-12-15T20:15:00)
@@ -681,6 +730,11 @@
 ## CVE-2021-36631 (2022-12-22T02:15:00)
 > Untrusted search path vulnerability in Baidunetdisk Version 7.4.3 and earlier allows an attacker to gain privileges via a Trojan horse DLL in an unspecified directory.
 - [Live-Hack-CVE/CVE-2021-36631](https://github.com/Live-Hack-CVE/CVE-2021-36631)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36631">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36631">
+
+---
+## CVE-2021-36573 (2022-12-15T19:15:00)
+> File Upload vulnerability in Feehi CMS thru 2.1.1 allows attackers to run arbitrary code via crafted image upload.
+- [Live-Hack-CVE/CVE-2021-36573](https://github.com/Live-Hack-CVE/CVE-2021-36573)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36573">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36573">
 
 ---
 ## CVE-2021-36563 (2021-07-26T18:15:00)

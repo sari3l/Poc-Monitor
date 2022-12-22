@@ -83,9 +83,39 @@
 - [Live-Hack-CVE/CVE-2022-47500](https://github.com/Live-Hack-CVE/CVE-2022-47500)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47500">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47500">
 
 ---
+## CVE-2022-47411 (2022-12-14T21:15:00)
+> An issue was discovered in the fp_newsletter (aka Newsletter subscriber management) extension before 1.1.1, 1.2.0, 2.x before 2.1.2, 2.2.1 through 2.4.0, and 3.x before 3.2.6 for TYPO3. Data about subscribers may be obtained via unsubscribeAction operations.
+- [Live-Hack-CVE/CVE-2022-47411](https://github.com/Live-Hack-CVE/CVE-2022-47411)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47411">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47411">
+
+---
+## CVE-2022-47410 (2022-12-14T21:15:00)
+> An issue was discovered in the fp_newsletter (aka Newsletter subscriber management) extension before 1.1.1, 1.2.0, 2.x before 2.1.2, 2.2.1 through 2.4.0, and 3.x before 3.2.6 for TYPO3. Data about subscribers may be obtained via createAction operations.
+- [Live-Hack-CVE/CVE-2022-47410](https://github.com/Live-Hack-CVE/CVE-2022-47410)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47410">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47410">
+
+---
+## CVE-2022-47409 (2022-12-14T21:15:00)
+> An issue was discovered in the fp_newsletter (aka Newsletter subscriber management) extension before 1.1.1, 1.2.0, 2.x before 2.1.2, 2.2.1 through 2.4.0, and 3.x before 3.2.6 for TYPO3. Attackers can unsubscribe everyone via a series of modified subscription UIDs in deleteAction operations.
+- [Live-Hack-CVE/CVE-2022-47409](https://github.com/Live-Hack-CVE/CVE-2022-47409)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47409">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47409">
+
+---
+## CVE-2022-47408 (2022-12-14T21:15:00)
+> An issue was discovered in the fp_newsletter (aka Newsletter subscriber management) extension before 1.1.1, 1.2.0, 2.x before 2.1.2, 2.2.1 through 2.4.0, and 3.x before 3.2.6 for TYPO3. There is a CAPTCHA bypass that can lead to subscribing many people.
+- [Live-Hack-CVE/CVE-2022-47408](https://github.com/Live-Hack-CVE/CVE-2022-47408)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47408">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47408">
+
+---
 ## CVE-2022-47377 (2022-12-16T15:15:00)
 > Password recovery vulnerability in SICK SIM2000ST Partnumber 2086502 with firmware version <1.13.4 allows an unprivileged remote attacker to gain access to the userlevel defined as RecoverableUserLevel by invocating the password recovery mechanism method. This leads to an increase in their privileges on the system and thereby affecting the confidentiality integrity and availability of the system. An attacker can expect repeatable success by exploiting the vulnerability. The recommended solution is to update the firmware to a version >= 1.13.4 as soon as possible (available in SICK Support Portal).
 - [Live-Hack-CVE/CVE-2022-47377](https://github.com/Live-Hack-CVE/CVE-2022-47377)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47377">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47377">
+
+---
+## CVE-2022-47209 (2022-12-16T20:15:00)
+> A support user exists on the device and appears to be a backdoor for Technical Support staff. The default password for this account is “support” and cannot be changed by a user via any normally accessible means.
+- [Live-Hack-CVE/CVE-2022-47209](https://github.com/Live-Hack-CVE/CVE-2022-47209)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47209">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47209">
+
+---
+## CVE-2022-47208 (2022-12-16T20:15:00)
+> The “puhttpsniff” service, which runs by default, is susceptible to command injection due to improperly sanitized user input. An unauthenticated attacker on the same network segment as the router can execute arbitrary commands on the device without authentication.
+- [Live-Hack-CVE/CVE-2022-47208](https://github.com/Live-Hack-CVE/CVE-2022-47208)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47208">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47208">
 
 ---
 ## CVE-2022-46914 (2022-12-20T20:15:00)
@@ -379,9 +409,19 @@
 - [Live-Hack-CVE/CVE-2022-46076](https://github.com/Live-Hack-CVE/CVE-2022-46076)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46076">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46076">
 
 ---
+## CVE-2022-4607 (2022-12-18T22:15:00)
+> A vulnerability was found in 3D City Database OGC Web Feature Service up to 5.2.1. It has been rated as problematic. This issue affects some unknown processing. The manipulation leads to xml external entity reference. Upgrading to version 5.3.0 is able to address this issue. The name of the patch is 246f4e2a97ad81491c00a7ed72ce5e7c7f75050a. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-216215.
+- [Live-Hack-CVE/CVE-2022-4607](https://github.com/Live-Hack-CVE/CVE-2022-4607)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4607">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4607">
+
+---
 ## CVE-2022-46020 (2022-12-20T16:15:00)
 > WBCE CMS v1.5.4 can implement getshell by modifying the upload file type.
 - [Live-Hack-CVE/CVE-2022-46020](https://github.com/Live-Hack-CVE/CVE-2022-46020)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46020">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46020">
+
+---
+## CVE-2022-4583 (2022-12-17T13:15:00)
+> A vulnerability was found in jLEMS. It has been declared as critical. Affected by this vulnerability is the function unpackJar of the file src/main/java/org/lemsml/jlems/io/util/JUtil.java. The manipulation leads to path traversal. The attack can be launched remotely. The name of the patch is 8c224637d7d561076364a9e3c2c375daeaf463dc. It is recommended to apply a patch to fix this issue. The identifier VDB-216169 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4583](https://github.com/Live-Hack-CVE/CVE-2022-4583)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4583">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4583">
 
 ---
 ## CVE-2022-45771 (2022-12-05T20:15:00)
@@ -505,6 +545,11 @@
 - [Live-Hack-CVE/CVE-2022-4511](https://github.com/Live-Hack-CVE/CVE-2022-4511)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4511">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4511">
 
 ---
+## CVE-2022-45061 (2022-11-09T07:15:00)
+> An issue was discovered in Python before 3.11.1. An unnecessary quadratic algorithm exists in one path when processing some inputs to the IDNA (RFC 3490) decoder, such that a crafted, unreasonably long name being presented to the decoder could lead to a CPU denial of service. Hostnames are often supplied by remote servers that could be controlled by a malicious actor; in such a scenario, they could trigger excessive CPU consumption on the client attempting to make use of an attacker-supplied supposed hostname. For example, the attack payload could be placed in the Location header of an HTTP response with status code 302. A fix is planned in 3.11.1, 3.10.9, 3.9.16, 3.8.16, and 3.7.16.
+- [Live-Hack-CVE/CVE-2022-45061](https://github.com/Live-Hack-CVE/CVE-2022-45061)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45061">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45061">
+
+---
 ## CVE-2022-45041 (2022-12-19T21:15:00)
 > SQL Injection exits in xinhu < 2.5.0
 - [Live-Hack-CVE/CVE-2022-45041](https://github.com/Live-Hack-CVE/CVE-2022-45041)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45041">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45041">
@@ -620,6 +665,13 @@
 > 
 - [JBalanza/CVE-2022-44215](https://github.com/JBalanza/CVE-2022-44215)	<img alt="forks" src="https://img.shields.io/github/forks/JBalanza/CVE-2022-44215">	<img alt="stars" src="https://img.shields.io/github/stars/JBalanza/CVE-2022-44215">
 - [wh-gov/CVE-2022-44215](https://github.com/wh-gov/CVE-2022-44215)	<img alt="forks" src="https://img.shields.io/github/forks/wh-gov/CVE-2022-44215">	<img alt="stars" src="https://img.shields.io/github/stars/wh-gov/CVE-2022-44215">
+
+---
+## CVE-2022-4410 (2022-12-14T22:15:00)
+> The Permalink Manager Lite plugin for WordPress is vulnerable to Stored Cross-Site Scripting in versions up to, and including 2.2.20.3 due to improper output escaping on post/page/media titles. This makes it possible for attackers to inject arbitrary web scripts on the permalink-manager page if another plugin or theme is installed on the site that allows lower privileged users with unfiltered_html the ability to modify post/page titles with malicious web scripts.
+- [Live-Hack-CVE/CVE-2022-4410](https://github.com/Live-Hack-CVE/CVE-2022-4410)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4410">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4410">
+- [Live-Hack-CVE/CVE-2022-44109](https://github.com/Live-Hack-CVE/CVE-2022-44109)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44109">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44109">
+- [Live-Hack-CVE/CVE-2022-44108](https://github.com/Live-Hack-CVE/CVE-2022-44108)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44108">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44108">
 
 ---
 ## CVE-2022-43959 ()
@@ -2188,6 +2240,11 @@
 - [AkbarTrilaksana/CVE-2022-32832](https://github.com/AkbarTrilaksana/CVE-2022-32832)	<img alt="forks" src="https://img.shields.io/github/forks/AkbarTrilaksana/CVE-2022-32832">	<img alt="stars" src="https://img.shields.io/github/stars/AkbarTrilaksana/CVE-2022-32832">
 
 ---
+## CVE-2022-3275 (2022-10-07T21:15:00)
+> Command injection is possible in the puppetlabs-apt module prior to version 9.0.0. A malicious actor is able to exploit this vulnerability only if they are able to provide unsanitized input to the module. This condition is rare in most deployments of Puppet and Puppet Enterprise.
+- [Live-Hack-CVE/CVE-2022-3275](https://github.com/Live-Hack-CVE/CVE-2022-3275)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3275">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3275">
+
+---
 ## CVE-2022-32749 (2022-12-19T11:15:00)
 > Improper Check for Unusual or Exceptional Conditions vulnerability handling requests in Apache Traffic Server allows an attacker to crash the server under certain conditions. This issue affects Apache Traffic Server: from 8.0.0 through 9.1.3.
 - [Live-Hack-CVE/CVE-2022-32749](https://github.com/Live-Hack-CVE/CVE-2022-32749)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32749">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32749">
@@ -2286,6 +2343,11 @@
 - [CDACesec/CVE-2022-31901](https://github.com/CDACesec/CVE-2022-31901)	<img alt="forks" src="https://img.shields.io/github/forks/CDACesec/CVE-2022-31901">	<img alt="stars" src="https://img.shields.io/github/stars/CDACesec/CVE-2022-31901">
 
 ---
+## CVE-2022-3190 (2022-09-13T15:15:00)
+> Infinite loop in the F5 Ethernet Trailer protocol dissector in Wireshark 3.6.0 to 3.6.7 and 3.4.0 to 3.4.15 allows denial of service via packet injection or crafted capture file
+- [Live-Hack-CVE/CVE-2022-3190](https://github.com/Live-Hack-CVE/CVE-2022-3190)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3190">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3190">
+
+---
 ## CVE-2022-31898 (2022-10-27T18:15:00)
 > gl-inet GL-MT300N-V2 Mango v3.212 and GL-AX1800 Flint v3.214 were discovered to contain multiple command injection vulnerabilities via the ping_addr and trace_addr function parameters.
 - [gigaryte/cve-2022-31898](https://github.com/gigaryte/cve-2022-31898)	<img alt="forks" src="https://img.shields.io/github/forks/gigaryte/cve-2022-31898">	<img alt="stars" src="https://img.shields.io/github/stars/gigaryte/cve-2022-31898">
@@ -2317,6 +2379,11 @@
 - [jbaines-r7/hook](https://github.com/jbaines-r7/hook)	<img alt="forks" src="https://img.shields.io/github/forks/jbaines-r7/hook">	<img alt="stars" src="https://img.shields.io/github/stars/jbaines-r7/hook">
 
 ---
+## CVE-2022-3171 (2022-10-12T23:15:00)
+> A parsing issue with binary data in protobuf-java core and lite versions prior to 3.21.7, 3.20.3, 3.19.6 and 3.16.3 can lead to a denial of service attack. Inputs containing multiple instances of non-repeated embedded messages with repeated or unknown fields causes objects to be converted back-n-forth between mutable and immutable forms, resulting in potentially long garbage collection pauses. We recommend updating to the versions mentioned above.
+- [Live-Hack-CVE/CVE-2022-3171](https://github.com/Live-Hack-CVE/CVE-2022-3171)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3171">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3171">
+
+---
 ## CVE-2022-31708 (2022-12-16T16:15:00)
 > vRealize Operations (vROps) contains a broken access control vulnerability. VMware has evaluated the severity of this issue to be in the Moderate severity range with a maximum CVSSv3 base score of 4.4.
 - [Live-Hack-CVE/CVE-2022-31708](https://github.com/Live-Hack-CVE/CVE-2022-31708)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31708">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31708">
@@ -2343,6 +2410,11 @@
 - [irsl/CVE-2022-3168-adb-unexpected-reverse-forwards](https://github.com/irsl/CVE-2022-3168-adb-unexpected-reverse-forwards)	<img alt="forks" src="https://img.shields.io/github/forks/irsl/CVE-2022-3168-adb-unexpected-reverse-forwards">	<img alt="stars" src="https://img.shields.io/github/stars/irsl/CVE-2022-3168-adb-unexpected-reverse-forwards">
 
 ---
+## CVE-2022-3166 (2022-12-16T20:15:00)
+> Rockwell Automation was made aware that the webservers of the Micrologix 1100 and 1400 controllers contain a vulnerability that may lead to a denial-of-service condition. The security vulnerability could be exploited by an attacker with network access to the affected systems by sending TCP packets to webserver and closing it abruptly which would cause a denial-of-service condition for the web server application on the device
+- [Live-Hack-CVE/CVE-2022-3166](https://github.com/Live-Hack-CVE/CVE-2022-3166)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3166">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3166">
+
+---
 ## CVE-2022-31629 (2022-09-28T23:15:00)
 > In PHP versions before 7.4.31, 8.0.24 and 8.1.11, the vulnerability enables network and same-site attackers to set a standard insecure cookie in the victim's browser which is treated as a `__Host-` or `__Secure-` cookie by PHP applications.
 - [SilNex/CVE-2022-31629-poc](https://github.com/SilNex/CVE-2022-31629-poc)	<img alt="forks" src="https://img.shields.io/github/forks/SilNex/CVE-2022-31629-poc">	<img alt="stars" src="https://img.shields.io/github/stars/SilNex/CVE-2022-31629-poc">
@@ -2351,6 +2423,11 @@
 ## CVE-2022-31626 (2022-06-16T06:15:00)
 > In PHP versions 7.4.x below 7.4.30, 8.0.x below 8.0.20, and 8.1.x below 8.1.7, when pdo_mysql extension with mysqlnd driver, if the third party is allowed to supply host to connect to and the password for the connection, password of excessive length can trigger a buffer overflow in PHP, which can lead to a remote code execution vulnerability.
 - [amitlttwo/CVE-2022-31626](https://github.com/amitlttwo/CVE-2022-31626)	<img alt="forks" src="https://img.shields.io/github/forks/amitlttwo/CVE-2022-31626">	<img alt="stars" src="https://img.shields.io/github/stars/amitlttwo/CVE-2022-31626">
+
+---
+## CVE-2022-3157 (2022-12-16T21:15:00)
+> A vulnerability exists in the Rockwell Automation controllers that allows a malformed CIP request to cause a major non-recoverable fault (MNRF) and a denial-of-service condition (DOS).
+- [Live-Hack-CVE/CVE-2022-3157](https://github.com/Live-Hack-CVE/CVE-2022-3157)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3157">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3157">
 
 ---
 ## CVE-2022-31499 (2022-08-25T23:15:00)
@@ -2660,6 +2737,11 @@
 ## CVE-2022-29856 (2022-04-29T16:15:00)
 > A hardcoded cryptographic key in Automation360 22 allows an attacker to decrypt exported RPA packages.
 - [Flo451/CVE-2022-29856-PoC](https://github.com/Flo451/CVE-2022-29856-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Flo451/CVE-2022-29856-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Flo451/CVE-2022-29856-PoC">
+
+---
+## CVE-2022-2966 (2022-12-16T20:15:00)
+> Out-of-bounds Read vulnerability in Delta Electronics DOPSoft.This issue affects DOPSoft: All Versions.
+- [Live-Hack-CVE/CVE-2022-2966](https://github.com/Live-Hack-CVE/CVE-2022-2966)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2966">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2966">
 
 ---
 ## CVE-2022-29593 (2022-07-14T15:15:00)
@@ -4136,6 +4218,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-20004 (2022-05-10T20:15:00)
 > In checkSlicePermission of SliceManagerService.java, it is possible to access any slice URI due to improper input validation. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12LAndroid ID: A-179699767
 - [Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004">
+
+---
+## CVE-2022-1941 (2022-09-22T15:15:00)
+> A parsing vulnerability for the MessageSet type in the ProtocolBuffers versions prior to and including 3.16.1, 3.17.3, 3.18.2, 3.19.4, 3.20.1 and 3.21.5 for protobuf-cpp, and versions prior to and including 3.16.1, 3.17.3, 3.18.2, 3.19.4, 3.20.1 and 4.21.5 for protobuf-python can lead to out of memory failures. A specially crafted message with multiple key-value per elements creates parsing issues, and can lead to a Denial of Service against services receiving unsanitized input. We recommend upgrading to versions 3.18.3, 3.19.5, 3.20.2, 3.21.6 for protobuf-cpp and 3.18.3, 3.19.5, 3.20.2, 4.21.6 for protobuf-python. Versions for 3.16 and 3.17 are no longer updated.
+- [Live-Hack-CVE/CVE-2022-1941](https://github.com/Live-Hack-CVE/CVE-2022-1941)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1941">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1941">
 
 ---
 ## CVE-2022-1903 (2022-06-27T09:15:00)

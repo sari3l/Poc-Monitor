@@ -178,6 +178,16 @@
 - [Live-Hack-CVE/CVE-2020-36624](https://github.com/Live-Hack-CVE/CVE-2020-36624)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36624">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36624">
 
 ---
+## CVE-2020-36617 (2022-12-18T15:15:00)
+> ** DISPUTED ** A vulnerability was found in ewxrjk sftpserver. It has been declared as problematic. Affected by this vulnerability is the function sftp_parse_path of the file parse.c. The manipulation leads to uninitialized pointer. The real existence of this vulnerability is still doubted at the moment. The name of the patch is bf4032f34832ee11d79aa60a226cc018e7ec5eed. It is recommended to apply a patch to fix this issue. The identifier VDB-216205 was assigned to this vulnerability. NOTE: In some deployment models this would be a vulnerability. README specifically warns about avoiding such deployment models.
+- [Live-Hack-CVE/CVE-2020-36617](https://github.com/Live-Hack-CVE/CVE-2020-36617)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36617">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36617">
+
+---
+## CVE-2020-36607 (2022-12-15T19:15:00)
+> Cross Site Scripting (XSS) vulnerability in FeehiCMS 2.0.8 allows remote attackers to run arbitrary code via tha lang attribute of an html tag.
+- [Live-Hack-CVE/CVE-2020-36607](https://github.com/Live-Hack-CVE/CVE-2020-36607)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36607">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36607">
+
+---
 ## CVE-2020-3580 (2020-10-21T19:15:00)
 > Multiple vulnerabilities in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct cross-site scripting (XSS) attacks against a user of the web services interface of an affected device. The vulnerabilities are due to insufficient validation of user-supplied input by the web services interface of an affected device. An attacker could exploit these vulnerabilities by persuading a user of the interface to click a crafted link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface or allow the attacker to access sensitive, browser-based information. Note: These vulnerabilities affect only specific AnyConnect and WebVPN configurations. For more information, see the Vulnerable Products section.
 - [nxtexploit/CVE-2020-3580](https://github.com/nxtexploit/CVE-2020-3580)	<img alt="forks" src="https://img.shields.io/github/forks/nxtexploit/CVE-2020-3580">	<img alt="stars" src="https://img.shields.io/github/stars/nxtexploit/CVE-2020-3580">
@@ -388,6 +398,11 @@
 ## CVE-2020-23582 (2022-11-21T21:15:00)
 > A vulnerability in the "/admin/wlmultipleap.asp" of optilink OP-XT71000N version: V2.2 could allow an unauthenticated, remote attacker to conduct a cross-site request forgery (CSRF) attack to create Multiple WLAN BSSID.
 - [huzaifahussain98/CVE-2020-23582](https://github.com/huzaifahussain98/CVE-2020-23582)	<img alt="forks" src="https://img.shields.io/github/forks/huzaifahussain98/CVE-2020-23582">	<img alt="stars" src="https://img.shields.io/github/stars/huzaifahussain98/CVE-2020-23582">
+
+---
+## CVE-2020-20589 (2022-12-15T19:15:00)
+> Cross Site Scripting (XSS) vulnerability in FeehiCMS 2.0.8 allows remote attackers to run arbitrary code via tha lang attribute of an html tag.
+- [Live-Hack-CVE/CVE-2020-20589](https://github.com/Live-Hack-CVE/CVE-2020-20589)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-20589">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-20589">
 
 ---
 ## CVE-2020-2038 (2020-09-09T17:15:00)
