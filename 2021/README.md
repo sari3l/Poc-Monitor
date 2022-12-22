@@ -363,6 +363,11 @@
 - [afaq1337/CVE-2021-41946](https://github.com/afaq1337/CVE-2021-41946)	<img alt="forks" src="https://img.shields.io/github/forks/afaq1337/CVE-2021-41946">	<img alt="stars" src="https://img.shields.io/github/stars/afaq1337/CVE-2021-41946">
 
 ---
+## CVE-2021-41943 (2022-12-13T00:15:00)
+> Logrhythm Web Console 7.4.9 allows for HTML tag injection through Contextualize Action -> Create a new Contextualize Action -> Inject your HTML tag in the name field.
+- [Live-Hack-CVE/CVE-2021-41943](https://github.com/Live-Hack-CVE/CVE-2021-41943)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41943">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41943">
+
+---
 ## CVE-2021-41805 (2021-12-12T05:15:00)
 > HashiCorp Consul Enterprise before 1.8.17, 1.9.x before 1.9.11, and 1.10.x before 1.10.4 has Incorrect Access Control. An ACL token (with the default operator:write permissions) in one namespace can be used for unintended privilege escalation in a different namespace.
 - [I-Am-Nelson/CVE-2021-41805](https://github.com/I-Am-Nelson/CVE-2021-41805)	<img alt="forks" src="https://img.shields.io/github/forks/I-Am-Nelson/CVE-2021-41805">	<img alt="stars" src="https://img.shields.io/github/stars/I-Am-Nelson/CVE-2021-41805">

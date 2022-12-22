@@ -590,6 +590,11 @@
 - [Live-Hack-CVE/CVE-2022-45347](https://github.com/Live-Hack-CVE/CVE-2022-45347)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45347">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45347">
 
 ---
+## CVE-2022-45269 (2022-12-12T23:15:00)
+> A directory traversal vulnerability in the component SCS.Web.Server.SPI/1.0 of Linx Sphere LINX 7.35.ST15 allows attackers to read arbitrary files.
+- [Live-Hack-CVE/CVE-2022-45269](https://github.com/Live-Hack-CVE/CVE-2022-45269)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45269">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45269">
+
+---
 ## CVE-2022-45265 ()
 > 
 - [maikroservice/CVE-2022-45265](https://github.com/maikroservice/CVE-2022-45265)	<img alt="forks" src="https://img.shields.io/github/forks/maikroservice/CVE-2022-45265">	<img alt="stars" src="https://img.shields.io/github/stars/maikroservice/CVE-2022-45265">
@@ -1196,6 +1201,11 @@
 - [Live-Hack-CVE/CVE-2022-42454](https://github.com/Live-Hack-CVE/CVE-2022-42454)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42454">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42454">
 
 ---
+## CVE-2022-42446 (2022-12-12T13:15:00)
+> Starting with Sametime 12, anonymous users are enabled by default. After logging in as an anonymous user, one has the ability to browse the User Directory and potentially create chats with internal users.
+- [Live-Hack-CVE/CVE-2022-42446](https://github.com/Live-Hack-CVE/CVE-2022-42446)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42446">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42446">
+
+---
 ## CVE-2022-42367 (2022-12-16T16:15:00)
 > Adobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.
 - [Live-Hack-CVE/CVE-2022-42367](https://github.com/Live-Hack-CVE/CVE-2022-42367)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42367">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42367">
@@ -1419,6 +1429,61 @@
 - [aryrz/cve-2022-41352-zimbra-rce](https://github.com/aryrz/cve-2022-41352-zimbra-rce)	<img alt="forks" src="https://img.shields.io/github/forks/aryrz/cve-2022-41352-zimbra-rce">	<img alt="stars" src="https://img.shields.io/github/stars/aryrz/cve-2022-41352-zimbra-rce">
 
 ---
+## CVE-2022-41288 (2022-12-13T16:15:00)
+> A vulnerability has been identified in JT2Go (All versions), Teamcenter Visualization V13.2 (All versions < V13.2.0.12), Teamcenter Visualization V13.3 (All versions < V13.3.0.8), Teamcenter Visualization V14.0 (All versions < V14.0.0.4), Teamcenter Visualization V14.1 (All versions < V14.1.0.6). The CGM_NIST_Loader.dll contains stack exhaustion vulnerability when parsing a CGM file. An attacker could leverage this vulnerability to crash the application causing denial of service condition.
+- [Live-Hack-CVE/CVE-2022-41288](https://github.com/Live-Hack-CVE/CVE-2022-41288)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41288">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41288">
+
+---
+## CVE-2022-41287 (2022-12-13T16:15:00)
+> A vulnerability has been identified in JT2Go (All versions), Teamcenter Visualization V13.2 (All versions < V13.2.0.12), Teamcenter Visualization V13.3 (All versions < V13.3.0.8), Teamcenter Visualization V14.0 (All versions < V14.0.0.4), Teamcenter Visualization V14.1 (All versions < V14.1.0.6). The CGM_NIST_Loader.dll contains divide by zero vulnerability when parsing a CGM file. An attacker could leverage this vulnerability to crash the application causing denial of service condition.
+- [Live-Hack-CVE/CVE-2022-41287](https://github.com/Live-Hack-CVE/CVE-2022-41287)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41287">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41287">
+
+---
+## CVE-2022-41286 (2022-12-13T16:15:00)
+> A vulnerability has been identified in JT2Go (All versions), Teamcenter Visualization V13.2 (All versions < V13.2.0.12), Teamcenter Visualization V13.3 (All versions < V13.3.0.8), Teamcenter Visualization V14.0 (All versions < V14.0.0.4), Teamcenter Visualization V14.1 (All versions < V14.1.0.6). The CGM_NIST_Loader.dll contains an out of bounds write vulnerability when parsing a CGM file. An attacker can leverage this vulnerability to execute code in the context of the current process.
+- [Live-Hack-CVE/CVE-2022-41286](https://github.com/Live-Hack-CVE/CVE-2022-41286)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41286">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41286">
+
+---
+## CVE-2022-41285 (2022-12-13T16:15:00)
+> A vulnerability has been identified in JT2Go (All versions), Teamcenter Visualization V13.2 (All versions < V13.2.0.12), Teamcenter Visualization V13.3 (All versions < V13.3.0.8), Teamcenter Visualization V14.0 (All versions < V14.0.0.4), Teamcenter Visualization V14.1 (All versions < V14.1.0.6). The CGM_NIST_Loader.dll contains a use-after-free vulnerability that could be triggered while parsing specially crafted CGM files. An attacker could leverage this vulnerability to execute code in the context of the current process.
+- [Live-Hack-CVE/CVE-2022-41285](https://github.com/Live-Hack-CVE/CVE-2022-41285)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41285">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41285">
+
+---
+## CVE-2022-41284 (2022-12-13T16:15:00)
+> A vulnerability has been identified in JT2Go (All versions), Teamcenter Visualization V13.2 (All versions < V13.2.0.12), Teamcenter Visualization V13.3 (All versions < V13.3.0.8), Teamcenter Visualization V14.0 (All versions < V14.0.0.4), Teamcenter Visualization V14.1 (All versions < V14.1.0.6). The CGM_NIST_Loader.dll contains an out of bounds read vulnerability when parsing a CGM file. An attacker can leverage this vulnerability to execute code in the context of the current process.
+- [Live-Hack-CVE/CVE-2022-41284](https://github.com/Live-Hack-CVE/CVE-2022-41284)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41284">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41284">
+
+---
+## CVE-2022-41283 (2022-12-13T16:15:00)
+> A vulnerability has been identified in JT2Go (All versions), Teamcenter Visualization V13.2 (All versions < V13.2.0.12), Teamcenter Visualization V13.3 (All versions < V13.3.0.8), Teamcenter Visualization V14.0 (All versions < V14.0.0.4), Teamcenter Visualization V14.1 (All versions < V14.1.0.6). The CGM_NIST_Loader.dll contains an out of bounds write vulnerability when parsing a CGM file. An attacker can leverage this vulnerability to execute code in the context of the current process.
+- [Live-Hack-CVE/CVE-2022-41283](https://github.com/Live-Hack-CVE/CVE-2022-41283)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41283">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41283">
+
+---
+## CVE-2022-41282 (2022-12-13T16:15:00)
+> A vulnerability has been identified in JT2Go (All versions), Teamcenter Visualization V13.2 (All versions < V13.2.0.12), Teamcenter Visualization V13.3 (All versions < V13.3.0.8), Teamcenter Visualization V14.0 (All versions < V14.0.0.4), Teamcenter Visualization V14.1 (All versions < V14.1.0.6). The CGM_NIST_Loader.dll contains an out of bounds read vulnerability when parsing a CGM file. An attacker can leverage this vulnerability to execute code in the context of the current process.
+- [Live-Hack-CVE/CVE-2022-41282](https://github.com/Live-Hack-CVE/CVE-2022-41282)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41282">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41282">
+
+---
+## CVE-2022-41281 (2022-12-13T16:15:00)
+> A vulnerability has been identified in JT2Go (All versions), Teamcenter Visualization V13.2 (All versions < V13.2.0.12), Teamcenter Visualization V13.3 (All versions < V13.3.0.8), Teamcenter Visualization V14.0 (All versions < V14.0.0.4), Teamcenter Visualization V14.1 (All versions < V14.1.0.6). The CGM_NIST_Loader.dll contains an out of bounds read vulnerability when parsing a CGM file. An attacker can leverage this vulnerability to execute code in the context of the current process.
+- [Live-Hack-CVE/CVE-2022-41281](https://github.com/Live-Hack-CVE/CVE-2022-41281)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41281">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41281">
+
+---
+## CVE-2022-41280 (2022-12-13T16:15:00)
+> A vulnerability has been identified in JT2Go (All versions), Teamcenter Visualization V13.2 (All versions < V13.2.0.12), Teamcenter Visualization V13.3 (All versions < V13.3.0.8), Teamcenter Visualization V14.0 (All versions < V14.0.0.4), Teamcenter Visualization V14.1 (All versions < V14.1.0.6). The CGM_NIST_Loader.dll contains a null pointer dereference vulnerability while parsing specially crafted CGM files. An attacker could leverage this vulnerability to crash the application causing denial of service condition.
+- [Live-Hack-CVE/CVE-2022-41280](https://github.com/Live-Hack-CVE/CVE-2022-41280)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41280">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41280">
+
+---
+## CVE-2022-41279 (2022-12-13T16:15:00)
+> A vulnerability has been identified in JT2Go (All versions), Teamcenter Visualization V13.2 (All versions < V13.2.0.12), Teamcenter Visualization V13.3 (All versions < V13.3.0.8), Teamcenter Visualization V14.0 (All versions < V14.0.0.4), Teamcenter Visualization V14.1 (All versions < V14.1.0.6). The CGM_NIST_Loader.dll contains a null pointer dereference vulnerability while parsing specially crafted CGM files. An attacker could leverage this vulnerability to crash the application causing denial of service condition.
+- [Live-Hack-CVE/CVE-2022-41279](https://github.com/Live-Hack-CVE/CVE-2022-41279)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41279">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41279">
+
+---
+## CVE-2022-41278 (2022-12-13T16:15:00)
+> A vulnerability has been identified in JT2Go (All versions), Teamcenter Visualization V13.2 (All versions < V13.2.0.12), Teamcenter Visualization V13.3 (All versions < V13.3.0.8), Teamcenter Visualization V14.0 (All versions < V14.0.0.4), Teamcenter Visualization V14.1 (All versions < V14.1.0.6). The CGM_NIST_Loader.dll contains a null pointer dereference vulnerability while parsing specially crafted CGM files. An attacker could leverage this vulnerability to crash the application causing denial of service condition.
+- [Live-Hack-CVE/CVE-2022-41278](https://github.com/Live-Hack-CVE/CVE-2022-41278)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41278">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41278">
+
+---
 ## CVE-2022-41272 (2022-12-13T04:15:00)
 > An unauthenticated attacker over the network can attach to an open interface exposed through JNDI by the User Defined Search (UDS) of SAP NetWeaver Process Integration (PI) - version 7.50 and make use of an open naming and directory API to access services which can be used to perform unauthorized operations affecting users and data across the entire system. This allows the attacker to have full read access to user data, make limited modifications to user data, and degrade the performance of the system, leading to a high impact on confidentiality and a limited impact on the availability and integrity of the application.
 - [redrays-io/CVE-2022-41272](https://github.com/redrays-io/CVE-2022-41272)	<img alt="forks" src="https://img.shields.io/github/forks/redrays-io/CVE-2022-41272">	<img alt="stars" src="https://img.shields.io/github/stars/redrays-io/CVE-2022-41272">
@@ -1492,7 +1557,17 @@
 - [Adynervi/CVE-2022-41082-RCE-PoC](https://github.com/Adynervi/CVE-2022-41082-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Adynervi/CVE-2022-41082-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Adynervi/CVE-2022-41082-RCE-PoC">
 - [LivingFree8/CVE-2022-41082-RCE-POC](https://github.com/LivingFree8/CVE-2022-41082-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/LivingFree8/CVE-2022-41082-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/LivingFree8/CVE-2022-41082-RCE-POC">
 - [PyterSmithDarkGhost/ZERODAYENCADEAMENTOCVE2022-41040-CVE2022-41082](https://github.com/PyterSmithDarkGhost/ZERODAYENCADEAMENTOCVE2022-41040-CVE2022-41082)	<img alt="forks" src="https://img.shields.io/github/forks/PyterSmithDarkGhost/ZERODAYENCADEAMENTOCVE2022-41040-CVE2022-41082">	<img alt="stars" src="https://img.shields.io/github/stars/PyterSmithDarkGhost/ZERODAYENCADEAMENTOCVE2022-41040-CVE2022-41082">
-- [balki97/NotProxyShellHunter-CVE-2022-41082-POC](https://github.com/balki97/NotProxyShellHunter-CVE-2022-41082-POC)	<img alt="forks" src="https://img.shields.io/github/forks/balki97/NotProxyShellHunter-CVE-2022-41082-POC">	<img alt="stars" src="https://img.shields.io/github/stars/balki97/NotProxyShellHunter-CVE-2022-41082-POC">
+- [balki97/OWASSRF-CVE-2022-41082-POC](https://github.com/balki97/OWASSRF-CVE-2022-41082-POC)	<img alt="forks" src="https://img.shields.io/github/forks/balki97/OWASSRF-CVE-2022-41082-POC">	<img alt="stars" src="https://img.shields.io/github/stars/balki97/OWASSRF-CVE-2022-41082-POC">
+
+---
+## CVE-2022-41079 (2022-11-09T22:15:00)
+> Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078.
+- [Live-Hack-CVE/CVE-2022-41079](https://github.com/Live-Hack-CVE/CVE-2022-41079)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41079">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41079">
+
+---
+## CVE-2022-41078 (2022-11-09T22:15:00)
+> Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079.
+- [Live-Hack-CVE/CVE-2022-41078](https://github.com/Live-Hack-CVE/CVE-2022-41078)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41078">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41078">
 
 ---
 ## CVE-2022-41076 (2022-12-13T19:15:00)
@@ -1702,6 +1777,11 @@
 - [LovelyWei/CVE-2022-40126](https://github.com/LovelyWei/CVE-2022-40126)	<img alt="forks" src="https://img.shields.io/github/forks/LovelyWei/CVE-2022-40126">	<img alt="stars" src="https://img.shields.io/github/stars/LovelyWei/CVE-2022-40126">
 
 ---
+## CVE-2022-3996 (2022-12-13T16:15:00)
+> If an X.509 certificate contains a malformed policy constraint and policy processing is enabled, then a write lock will be taken twice recursively. On some operating systems (most widely: Windows) this results in a denial of service when the affected process hangs. Policy processing being enabled on a publicly facing server is not considered to be a common setup. Policy processing is enabled by passing the `-policy' argument to the command line utilities or by calling either `X509_VERIFY_PARAM_add0_policy()' or `X509_VERIFY_PARAM_set1_policies()' functions.
+- [Live-Hack-CVE/CVE-2022-3996](https://github.com/Live-Hack-CVE/CVE-2022-3996)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3996">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3996">
+
+---
 ## CVE-2022-39959 (2022-10-07T22:15:00)
 > Panini Everest Engine 2.0.4 allows unprivileged users to create a file named Everest.exe in the %PROGRAMDATA%\Panini folder. This leads to privilege escalation because a service, running as SYSTEM, uses the unquoted path of %PROGRAMDATA%\Panini\Everest Engine\EverestEngine.exe and therefore a Trojan horse %PROGRAMDATA%\Panini\Everest.exe may be executed instead of the intended vendor-supplied EverestEngine.exe file.
 - [usmarine2141/CVE-2022-39959](https://github.com/usmarine2141/CVE-2022-39959)	<img alt="forks" src="https://img.shields.io/github/forks/usmarine2141/CVE-2022-39959">	<img alt="stars" src="https://img.shields.io/github/stars/usmarine2141/CVE-2022-39959">
@@ -1837,9 +1917,19 @@
 - [Live-Hack-CVE/CVE-2022-38873](https://github.com/Live-Hack-CVE/CVE-2022-38873)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38873">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38873">
 
 ---
+## CVE-2022-3882 (2022-12-12T18:15:00)
+> The Memory Usage, Memory Limit, PHP and Server Memory Health Check and Fix Plugin WordPress plugin before 2.46 does not have proper authorisation and CSRF in an AJAX action, allowing any authenticated users, such as subscriber to call it and install and activate arbitrary plugins from wordpress.org
+- [Live-Hack-CVE/CVE-2022-3882](https://github.com/Live-Hack-CVE/CVE-2022-3882)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3882">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3882">
+
+---
 ## CVE-2022-38813 (2022-11-25T17:15:00)
 > PHPGurukul Blood Donor Management System 1.0 does not properly restrict access to admin/dashboard.php, which allows attackers to access all data of users, delete the users, add and manage Blood Group, and Submit Report.
 - [RashidKhanPathan/CVE-2022-38813](https://github.com/RashidKhanPathan/CVE-2022-38813)	<img alt="forks" src="https://img.shields.io/github/forks/RashidKhanPathan/CVE-2022-38813">	<img alt="stars" src="https://img.shields.io/github/stars/RashidKhanPathan/CVE-2022-38813">
+
+---
+## CVE-2022-3879 (2022-12-12T18:15:00)
+> The Car Dealer (Dealership) and Vehicle sales WordPress Plugin WordPress plugin before 3.05 does not have proper authorisation and CSRF in an AJAX action, allowing any authenticated users, such as subscriber to call it and install and activate arbitrary plugins from wordpress.org
+- [Live-Hack-CVE/CVE-2022-3879](https://github.com/Live-Hack-CVE/CVE-2022-3879)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3879">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3879">
 
 ---
 ## CVE-2022-38789 (2022-09-15T12:15:00)
@@ -1875,6 +1965,11 @@
 ## CVE-2022-38355 (2022-12-13T22:15:00)
 > Daikin SVMPC1 version 2.1.22 and prior and SVMPC2 version 1.2.3 and prior are vulnerable to attackers with access to the local area network (LAN) to disclose sensitive information stored by the affected product without requiring authentication.
 - [Live-Hack-CVE/CVE-2022-38355](https://github.com/Live-Hack-CVE/CVE-2022-38355)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38355">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38355">
+
+---
+## CVE-2022-38042 (2022-10-11T19:15:00)
+> Active Directory Domain Services Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2022-38042](https://github.com/Live-Hack-CVE/CVE-2022-38042)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38042">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38042">
 
 ---
 ## CVE-2022-38023 (2022-11-09T22:15:00)
@@ -2178,6 +2273,11 @@
 - [0x1nsomnia/CVE-2022-36067-vm2-POC-webapp](https://github.com/0x1nsomnia/CVE-2022-36067-vm2-POC-webapp)	<img alt="forks" src="https://img.shields.io/github/forks/0x1nsomnia/CVE-2022-36067-vm2-POC-webapp">	<img alt="stars" src="https://img.shields.io/github/stars/0x1nsomnia/CVE-2022-36067-vm2-POC-webapp">
 
 ---
+## CVE-2022-3605 (2022-12-12T18:15:00)
+> The WP CSV Exporter WordPress plugin before 1.3.7 does not properly escape the fields when exporting data as CSV, leading to a CSV injection vulnerability.
+- [Live-Hack-CVE/CVE-2022-3605](https://github.com/Live-Hack-CVE/CVE-2022-3605)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3605">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3605">
+
+---
 ## CVE-2022-3602 (2022-11-01T18:15:00)
 > A buffer overrun can be triggered in X.509 certificate verification, specifically in name constraint checking. Note that this occurs after certificate chain signature verification and requires either a CA to have signed the malicious certificate or for the application to continue certificate verification despite failure to construct a path to a trusted issuer. An attacker can craft a malicious email address to overflow four attacker-controlled bytes on the stack. This buffer overflow could result in a crash (causing a denial of service) or potentially remote code execution. Many platforms implement stack overflow protections which would mitigate against the risk of remote code execution. The risk may be further mitigated based on stack layout for any given platform/compiler. Pre-announcements of CVE-2022-3602 described this issue as CRITICAL. Further analysis based on some of the mitigating factors described above have led this to be downgraded to HIGH. Users are still encouraged to upgrade to a new version as soon as possible. In a TLS client, this can be triggered by connecting to a malicious server. In a TLS server, this can be triggered if the server requests client authentication and a malicious client connects. Fixed in OpenSSL 3.0.7 (Affected 3.0.0,3.0.1,3.0.2,3.0.3,3.0.4,3.0.5,3.0.6).
 - [eatscrayon/CVE-2022-3602-poc](https://github.com/eatscrayon/CVE-2022-3602-poc)	<img alt="forks" src="https://img.shields.io/github/forks/eatscrayon/CVE-2022-3602-poc">	<img alt="stars" src="https://img.shields.io/github/stars/eatscrayon/CVE-2022-3602-poc">
@@ -2420,6 +2520,26 @@
 - [notareaperbutDR34P3r/Kerberos_CVE-2022-33679](https://github.com/notareaperbutDR34P3r/Kerberos_CVE-2022-33679)	<img alt="forks" src="https://img.shields.io/github/forks/notareaperbutDR34P3r/Kerberos_CVE-2022-33679">	<img alt="stars" src="https://img.shields.io/github/stars/notareaperbutDR34P3r/Kerberos_CVE-2022-33679">
 
 ---
+## CVE-2022-3359 (2022-12-12T18:15:00)
+> The Shortcodes and extra features for Phlox WordPress plugin through 2.10.5 unserializes the content of an imported file, which could lead to PHP object injection when a user imports (intentionally or not) a malicious file and a suitable gadget chain is present on the blog.
+- [Live-Hack-CVE/CVE-2022-3359](https://github.com/Live-Hack-CVE/CVE-2022-3359)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3359">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3359">
+
+---
+## CVE-2022-33268 (2022-12-13T16:15:00)
+> Information disclosure due to buffer over-read in Bluetooth HOST while pairing and connecting A2DP. in Snapdragon Auto, Snapdragon Compute, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables
+- [Live-Hack-CVE/CVE-2022-33268](https://github.com/Live-Hack-CVE/CVE-2022-33268)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33268">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33268">
+
+---
+## CVE-2022-33238 (2022-12-13T16:15:00)
+> Transient DOS due to loop with unreachable exit condition in WLAN while processing an incoming FTM frames. in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer Electronics Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon IoT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables, Snapdragon Wired Infrastructure and Networking
+- [Live-Hack-CVE/CVE-2022-33238](https://github.com/Live-Hack-CVE/CVE-2022-33238)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33238">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33238">
+
+---
+## CVE-2022-33235 (2022-12-13T16:15:00)
+> Information disclosure due to buffer over-read in WLAN firmware while parsing security context info attributes. in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer Electronics Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables, Snapdragon Wired Infrastructure and Networking
+- [Live-Hack-CVE/CVE-2022-33235](https://github.com/Live-Hack-CVE/CVE-2022-33235)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33235">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33235">
+
+---
 ## CVE-2022-33174 (2022-06-13T18:15:00)
 > Power Distribution Units running on Powertek firmware (multiple brands) before 3.30.30 allows remote authorization bypass in the web interface. To exploit the vulnerability, an attacker must send an HTTP packet to the data retrieval interface (/cgi/get_param.cgi) with the tmpToken cookie set to an empty string followed by a semicolon. This bypasses an active session authorization check. This can be then used to fetch the values of protected sys.passwd and sys.su.name fields that contain the username and password in cleartext.
 - [Henry4E36/CVE-2022-33174](https://github.com/Henry4E36/CVE-2022-33174)	<img alt="forks" src="https://img.shields.io/github/forks/Henry4E36/CVE-2022-33174">	<img alt="stars" src="https://img.shields.io/github/stars/Henry4E36/CVE-2022-33174">
@@ -2628,6 +2748,21 @@
 ## CVE-2022-31702 (2022-12-14T19:15:00)
 > vRealize Network Insight (vRNI) contains a command injection vulnerability present in the vRNI REST API. A malicious actor with network access to the vRNI REST API can execute commands without authentication.
 - [Live-Hack-CVE/CVE-2022-31702](https://github.com/Live-Hack-CVE/CVE-2022-31702)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31702">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31702">
+
+---
+## CVE-2022-31699 (2022-12-13T16:15:00)
+> VMware ESXi contains a heap-overflow vulnerability. A malicious local actor with restricted privileges within a sandbox process may exploit this issue to achieve a partial information disclosure.
+- [Live-Hack-CVE/CVE-2022-31699](https://github.com/Live-Hack-CVE/CVE-2022-31699)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31699">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31699">
+
+---
+## CVE-2022-31698 (2022-12-13T16:15:00)
+> The vCenter Server contains a denial-of-service vulnerability in the content library service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to trigger a denial-of-service condition by sending a specially crafted header.
+- [Live-Hack-CVE/CVE-2022-31698](https://github.com/Live-Hack-CVE/CVE-2022-31698)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31698">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31698">
+
+---
+## CVE-2022-31697 (2022-12-13T16:15:00)
+> The vCenter Server contains an information disclosure vulnerability due to the logging of credentials in plaintext. A malicious actor with access to a workstation that invoked a vCenter Server Appliance ISO operation (Install/Upgrade/Migrate/Restore) can access plaintext passwords used during that operation.
+- [Live-Hack-CVE/CVE-2022-31697](https://github.com/Live-Hack-CVE/CVE-2022-31697)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31697">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31697">
 
 ---
 ## CVE-2022-31692 (2022-10-31T20:15:00)
@@ -3222,6 +3357,11 @@
 - [Inplex-sys/CVE-2022-27925](https://github.com/Inplex-sys/CVE-2022-27925)	<img alt="forks" src="https://img.shields.io/github/forks/Inplex-sys/CVE-2022-27925">	<img alt="stars" src="https://img.shields.io/github/stars/Inplex-sys/CVE-2022-27925">
 - [jam620/Zimbra](https://github.com/jam620/Zimbra)	<img alt="forks" src="https://img.shields.io/github/forks/jam620/Zimbra">	<img alt="stars" src="https://img.shields.io/github/stars/jam620/Zimbra">
 - [onlyHerold22/CVE-2022-27925-PoC](https://github.com/onlyHerold22/CVE-2022-27925-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/onlyHerold22/CVE-2022-27925-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/onlyHerold22/CVE-2022-27925-PoC">
+
+---
+## CVE-2022-27581 (2022-12-13T16:15:00)
+> Use of a Broken or Risky Cryptographic Algorithm in SICK RFU61x firmware version <v2.25 allows a low-privileged remote attacker to decrypt the encrypted data if the user requested weak cipher suites to be used for encryption via the SSH interface. The patch and installation procedure for the firmware update is available from the responsible SICK customer contact person.
+- [Live-Hack-CVE/CVE-2022-27581](https://github.com/Live-Hack-CVE/CVE-2022-27581)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27581">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27581">
 
 ---
 ## CVE-2022-2757 (2022-12-13T22:15:00)
