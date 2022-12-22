@@ -232,6 +232,11 @@
 - [0xDeku/CVE-2021-42669](https://github.com/0xDeku/CVE-2021-42669)	<img alt="forks" src="https://img.shields.io/github/forks/0xDeku/CVE-2021-42669">	<img alt="stars" src="https://img.shields.io/github/stars/0xDeku/CVE-2021-42669">
 
 ---
+## CVE-2021-4245 (2022-12-15T20:15:00)
+> A vulnerability classified as problematic has been found in chbrown rfc6902. This affects an unknown part of the file pointer.ts. The manipulation leads to improperly controlled modification of object prototype attributes ('prototype pollution'). The exploit has been disclosed to the public and may be used. The name of the patch is c006ce9faa43d31edb34924f1df7b79c137096cf. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-215883.
+- [Live-Hack-CVE/CVE-2021-4245](https://github.com/Live-Hack-CVE/CVE-2021-4245)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4245">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4245">
+
+---
 ## CVE-2021-42327 (2021-10-21T17:15:00)
 > dp_link_settings_write in drivers/gpu/drm/amd/display/amdgpu_dm/amdgpu_dm_debugfs.c in the Linux kernel through 5.14.14 allows a heap-based buffer overflow by an attacker who can write a string to the AMD GPU display drivers debug filesystem. There are no checks on size within parse_write_buffer_into_params when it uses the size of copy_from_user to copy a userspace buffer into a 40-byte heap buffer.
 - [docfate111/CVE-2021-42327](https://github.com/docfate111/CVE-2021-42327)	<img alt="forks" src="https://img.shields.io/github/forks/docfate111/CVE-2021-42327">	<img alt="stars" src="https://img.shields.io/github/stars/docfate111/CVE-2021-42327">
@@ -744,6 +749,11 @@
 ## CVE-2021-35296 (2021-10-04T17:15:00)
 > An issue in the administrator authentication panel of PTCL HG150-Ub v3.0 allows attackers to bypass authentication via modification of the cookie value and Response Path.
 - [afaq1337/CVE-2021-35296](https://github.com/afaq1337/CVE-2021-35296)	<img alt="forks" src="https://img.shields.io/github/forks/afaq1337/CVE-2021-35296">	<img alt="stars" src="https://img.shields.io/github/stars/afaq1337/CVE-2021-35296">
+
+---
+## CVE-2021-35252 (2022-12-16T16:15:00)
+> Common encryption key appears to be used across all deployed instances of Serv-U FTP Server. Because of this an encrypted value that is exposed to an attacker can be simply recovered to plaintext.
+- [Live-Hack-CVE/CVE-2021-35252](https://github.com/Live-Hack-CVE/CVE-2021-35252)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35252">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35252">
 
 ---
 ## CVE-2021-3493 (2021-04-17T05:15:00)
