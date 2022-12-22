@@ -48,6 +48,21 @@
 - [Cedric1314/CVE-2022-48870](https://github.com/Cedric1314/CVE-2022-48870)	<img alt="forks" src="https://img.shields.io/github/forks/Cedric1314/CVE-2022-48870">	<img alt="stars" src="https://img.shields.io/github/stars/Cedric1314/CVE-2022-48870">
 
 ---
+## CVE-2022-47629 (2022-12-20T23:15:00)
+> Libksba before 1.6.3 is prone to an integer overflow vulnerability in the CRL signature parser.
+- [Live-Hack-CVE/CVE-2022-47629](https://github.com/Live-Hack-CVE/CVE-2022-47629)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47629">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47629">
+
+---
+## CVE-2022-4646 (2022-12-22T02:15:00)
+> Cross-Site Request Forgery (CSRF) in GitHub repository ikus060/rdiffweb prior to 2.5.4.
+- [Live-Hack-CVE/CVE-2022-4646](https://github.com/Live-Hack-CVE/CVE-2022-4646)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4646">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4646">
+
+---
+## CVE-2022-4644 (2022-12-22T01:15:00)
+> Open Redirect in GitHub repository ikus060/rdiffweb prior to 2.5.4.
+- [Live-Hack-CVE/CVE-2022-4644](https://github.com/Live-Hack-CVE/CVE-2022-4644)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4644">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4644">
+
+---
 ## CVE-2022-46381 (2022-12-13T22:15:00)
 > Certain Linear eMerge E3-Series devices are vulnerable to XSS via the type parameter (e.g., to the badging/badge_template_v0.php component). This affects 0.32-08f, 0.32-07p, 0.32-07e, 0.32-09c, 0.32-09b, 0.32-09a, and 0.32-08e.
 - [amitlttwo/CVE-2022-46381](https://github.com/amitlttwo/CVE-2022-46381)	<img alt="forks" src="https://img.shields.io/github/forks/amitlttwo/CVE-2022-46381">	<img alt="stars" src="https://img.shields.io/github/stars/amitlttwo/CVE-2022-46381">
@@ -144,6 +159,7 @@
 ## CVE-2022-43271 (2022-12-22T02:15:00)
 > Inhabit Systems Pty Ltd Move CRM version 4, build 260 was discovered to contain a cross-site scripting (XSS) vulnerability via the User profile component.
 - [SecurityWillCheck/CVE-2022-43271](https://github.com/SecurityWillCheck/CVE-2022-43271)	<img alt="forks" src="https://img.shields.io/github/forks/SecurityWillCheck/CVE-2022-43271">	<img alt="stars" src="https://img.shields.io/github/stars/SecurityWillCheck/CVE-2022-43271">
+- [Live-Hack-CVE/CVE-2022-43271](https://github.com/Live-Hack-CVE/CVE-2022-43271)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43271">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43271">
 
 ---
 ## CVE-2022-43144 (2022-11-08T23:15:00)
@@ -1889,6 +1905,16 @@
 ## CVE-2022-2601 (2022-12-14T21:15:00)
 > A buffer overflow was found in grub_font_construct_glyph(). A malicious crafted pf2 font can lead to an overflow when calculating the max_glyph_size value, allocating a smaller than needed buffer for the glyph, this further leads to a buffer overflow and a heap based out-of-bounds write. An attacker may use this vulnerability to circumvent the secure boot mechanism.
 - [zhangboyang/cve-2022-2601](https://github.com/zhangboyang/cve-2022-2601)	<img alt="forks" src="https://img.shields.io/github/forks/zhangboyang/cve-2022-2601">	<img alt="stars" src="https://img.shields.io/github/stars/zhangboyang/cve-2022-2601">
+
+---
+## CVE-2022-25948 (2022-12-22T05:15:00)
+> The package liquidjs before 10.0.0 are vulnerable to Information Exposure when ownPropertyOnly parameter is set to False, which results in leaking properties of a prototype.
+
+ Workaround
+
+For versions 9.34.0 and higher, an option to disable this functionality is provided.
+
+- [Live-Hack-CVE/CVE-2022-25948](https://github.com/Live-Hack-CVE/CVE-2022-25948)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25948">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25948">
 
 ---
 ## CVE-2022-2588 ()

@@ -188,6 +188,7 @@
 ## CVE-2021-43657 (2022-12-22T02:15:00)
 > A Stored Cross-site scripting (XSS) vulnerability via MAster.php in Sourcecodetester Simple Client Management System (SCMS) 1.0 allows remote attackers to inject arbitrary web script or HTML via the vulnerable input fields.
 - [c0n5n3d/CVE-2021-43657](https://github.com/c0n5n3d/CVE-2021-43657)	<img alt="forks" src="https://img.shields.io/github/forks/c0n5n3d/CVE-2021-43657">	<img alt="stars" src="https://img.shields.io/github/stars/c0n5n3d/CVE-2021-43657">
+- [Live-Hack-CVE/CVE-2021-43657](https://github.com/Live-Hack-CVE/CVE-2021-43657)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43657">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43657">
 
 ---
 ## CVE-2021-43617 (2021-11-14T16:15:00)
@@ -662,6 +663,11 @@
 - [BrucessKING/CVE-2021-36749](https://github.com/BrucessKING/CVE-2021-36749)	<img alt="forks" src="https://img.shields.io/github/forks/BrucessKING/CVE-2021-36749">	<img alt="stars" src="https://img.shields.io/github/stars/BrucessKING/CVE-2021-36749">
 
 ---
+## CVE-2021-36631 (2022-12-22T02:15:00)
+> Untrusted search path vulnerability in Baidunetdisk Version 7.4.3 and earlier allows an attacker to gain privileges via a Trojan horse DLL in an unspecified directory.
+- [Live-Hack-CVE/CVE-2021-36631](https://github.com/Live-Hack-CVE/CVE-2021-36631)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36631">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36631">
+
+---
 ## CVE-2021-36563 (2021-07-26T18:15:00)
 > The CheckMK management web console (versions 1.5.0 to 2.0.0) does not sanitise user input in various parameters of the WATO module. This allows an attacker to open a backdoor on the device with HTML content and interpreted by the browser (such as JavaScript or other client-side scripts), the XSS payload will be triggered when the user accesses some specific sections of the application. In the same sense a very dangerous potential way would be when an attacker who has the monitor role (not administrator) manages to get a stored XSS to steal the secretAutomation (for the use of the API in administrator mode) and thus be able to create another administrator user who has high privileges on the CheckMK monitoring web console. Another way is that persistent XSS allows an attacker to modify the displayed content or change the victim's information. Successful exploitation requires access to the web management interface, either with valid credentials or with a hijacked session.
 - [Edgarloyola/CVE-2021-36563](https://github.com/Edgarloyola/CVE-2021-36563)	<img alt="forks" src="https://img.shields.io/github/forks/Edgarloyola/CVE-2021-36563">	<img alt="stars" src="https://img.shields.io/github/stars/Edgarloyola/CVE-2021-36563">
@@ -803,6 +809,11 @@
 - [psc4re/NSE-scripts](https://github.com/psc4re/NSE-scripts)	<img alt="forks" src="https://img.shields.io/github/forks/psc4re/NSE-scripts">	<img alt="stars" src="https://img.shields.io/github/stars/psc4re/NSE-scripts">
 - [phamphuqui1998/CVE-2021-34473](https://github.com/phamphuqui1998/CVE-2021-34473)	<img alt="forks" src="https://img.shields.io/github/forks/phamphuqui1998/CVE-2021-34473">	<img alt="stars" src="https://img.shields.io/github/stars/phamphuqui1998/CVE-2021-34473">
 - [RaouzRouik/CVE-2021-34473-scanner](https://github.com/RaouzRouik/CVE-2021-34473-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/RaouzRouik/CVE-2021-34473-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/RaouzRouik/CVE-2021-34473-scanner">
+
+---
+## CVE-2021-34427 (2021-06-25T19:15:00)
+> In Eclipse BIRT versions 4.8.0 and earlier, an attacker can use query parameters to create a JSP file which is accessible from remote (current BIRT viewer dir) to inject JSP code into the running instance.
+- [Live-Hack-CVE/CVE-2021-34427](https://github.com/Live-Hack-CVE/CVE-2021-34427)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34427">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34427">
 
 ---
 ## CVE-2021-33558 (2021-05-27T11:15:00)
