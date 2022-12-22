@@ -39,6 +39,16 @@
 - [threedr3am/tomcat-cluster-session-sync-exp](https://github.com/threedr3am/tomcat-cluster-session-sync-exp)	<img alt="forks" src="https://img.shields.io/github/forks/threedr3am/tomcat-cluster-session-sync-exp">	<img alt="stars" src="https://img.shields.io/github/stars/threedr3am/tomcat-cluster-session-sync-exp">
 
 ---
+## CVE-2020-9420 (2022-12-14T01:15:00)
+> The login password of the web administrative dashboard in Arcadyan Wifi routers VRV9506JAC23 is sent in cleartext, allowing an attacker to sniff and intercept traffic to learn the administrative credentials to the router.
+- [Live-Hack-CVE/CVE-2020-9420](https://github.com/Live-Hack-CVE/CVE-2020-9420)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9420">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9420">
+
+---
+## CVE-2020-9419 (2022-12-14T01:15:00)
+> Multiple stored cross-site scripting (XSS) vulnerabilities in Arcadyan Wifi routers VRV9506JAC23 allow remote attackers to inject arbitrary web script or HTML via the hostName and domain_name parameters present in the LAN configuration section of the administrative dashboard.
+- [Live-Hack-CVE/CVE-2020-9419](https://github.com/Live-Hack-CVE/CVE-2020-9419)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9419">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9419">
+
+---
 ## CVE-2020-9006 (2020-02-17T15:15:00)
 > The Popup Builder plugin 2.2.8 through 2.6.7.6 for WordPress is vulnerable to SQL injection (in the sgImportPopups function in sg_popup_ajax.php) via PHP Deserialization on attacker-controlled data with the attachmentUrl POST variable. This allows creation of an arbitrary WordPress Administrator account, leading to possible Remote Code Execution because Administrators can run PHP code on Wordpress instances. (This issue has been fixed in the 3.x branch of popup-builder.)
 - [s3rgeym/cve-2020-9006](https://github.com/s3rgeym/cve-2020-9006)	<img alt="forks" src="https://img.shields.io/github/forks/s3rgeym/cve-2020-9006">	<img alt="stars" src="https://img.shields.io/github/stars/s3rgeym/cve-2020-9006">

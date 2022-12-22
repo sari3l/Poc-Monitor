@@ -113,6 +113,11 @@
 - [Live-Hack-CVE/CVE-2022-47377](https://github.com/Live-Hack-CVE/CVE-2022-47377)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47377">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47377">
 
 ---
+## CVE-2022-47211 (2022-12-13T19:15:00)
+> Microsoft Office Graphics Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-26804, CVE-2022-26805, CVE-2022-26806, CVE-2022-44692, CVE-2022-47212, CVE-2022-47213.
+- [Live-Hack-CVE/CVE-2022-47211](https://github.com/Live-Hack-CVE/CVE-2022-47211)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47211">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47211">
+
+---
 ## CVE-2022-47210 (2022-12-16T20:15:00)
 > The default console presented to users over telnet (when enabled) is restricted to a subset of commands. Commands issued at this console, however, appear to be fed directly into a system call or other similar function. This allows any authenticated user to execute arbitrary commands on the device.
 - [Live-Hack-CVE/CVE-2022-47210](https://github.com/Live-Hack-CVE/CVE-2022-47210)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47210">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47210">
@@ -287,6 +292,7 @@
 ## CVE-2022-46381 (2022-12-13T22:15:00)
 > Certain Linear eMerge E3-Series devices are vulnerable to XSS via the type parameter (e.g., to the badging/badge_template_v0.php component). This affects 0.32-08f, 0.32-07p, 0.32-07e, 0.32-09c, 0.32-09b, 0.32-09a, and 0.32-08e.
 - [amitlttwo/CVE-2022-46381](https://github.com/amitlttwo/CVE-2022-46381)	<img alt="forks" src="https://img.shields.io/github/forks/amitlttwo/CVE-2022-46381">	<img alt="stars" src="https://img.shields.io/github/stars/amitlttwo/CVE-2022-46381">
+- [Live-Hack-CVE/CVE-2022-46381](https://github.com/Live-Hack-CVE/CVE-2022-46381)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46381">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46381">
 
 ---
 ## CVE-2022-46344 (2022-12-14T21:15:00)
@@ -449,6 +455,11 @@
 - [Live-Hack-CVE/CVE-2022-4583](https://github.com/Live-Hack-CVE/CVE-2022-4583)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4583">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4583">
 
 ---
+## CVE-2022-45796 (2022-12-16T16:15:00)
+> Command injection vulnerability in nw_interface.html in SHARP multifunction printers (MFPs)'s Digital Full-color Multifunctional System 202 or earlier, 120 or earlier, 600 or earlier, 121 or earlier, 500 or earlier, 402 or earlier, 790 or earlier, and Digital Multifunctional System (Monochrome) 200 or earlier, 211 or earlier, 102 or earlier, 453 or earlier, 400 or earlier, 202 or earlier, 602 or earlier, 500 or earlier, 401 or earlier allows remote attackers to execute arbitrary commands via unspecified vectors.
+- [Live-Hack-CVE/CVE-2022-45796](https://github.com/Live-Hack-CVE/CVE-2022-45796)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45796">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45796">
+
+---
 ## CVE-2022-45771 (2022-12-05T20:15:00)
 > An issue in the /api/audits component of Pwndoc v0.5.3 allows attackers to escalate privileges and execute arbitrary code via uploading a crafted audit file.
 - [p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE](https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE">
@@ -575,6 +586,11 @@
 - [Live-Hack-CVE/CVE-2022-45061](https://github.com/Live-Hack-CVE/CVE-2022-45061)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45061">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45061">
 
 ---
+## CVE-2022-45044 (2022-12-13T16:15:00)
+> A vulnerability has been identified in SIPROTEC 5 6MD85 devices (CPU variant CP200) (All versions), SIPROTEC 5 6MD85 devices (CPU variant CP300) (All versions), SIPROTEC 5 6MD86 devices (CPU variant CP200) (All versions), SIPROTEC 5 6MD86 devices (CPU variant CP300) (All versions), SIPROTEC 5 6MD89 devices (CPU variant CP300) (All versions), SIPROTEC 5 6MU85 devices (CPU variant CP300) (All versions), SIPROTEC 5 7KE85 devices (CPU variant CP200) (All versions), SIPROTEC 5 7KE85 devices (CPU variant CP300) (All versions), SIPROTEC 5 7SA82 devices (CPU variant CP100) (All versions), SIPROTEC 5 7SA82 devices (CPU variant CP150) (All versions), SIPROTEC 5 7SA86 devices (CPU variant CP200) (All versions), SIPROTEC 5 7SA86 devices (CPU variant CP300) (All versions), SIPROTEC 5 7SA87 devices (CPU variant CP200) (All versions), SIPROTEC 5 7SA87 devices (CPU variant CP300) (All versions), SIPROTEC 5 7SD82 devices (CPU variant CP100) (All versions), SIPROTEC 5 7SD82 devices (CPU variant CP150) (All versions), SIPROTEC 5 7SD86 devices (CPU variant CP200) (All versions), SIPROTEC 5 7SD86 devices (CPU variant CP300) (All versions), SIPROTEC 5 7SD87 devices (CPU variant CP200) (All versions), SIPROTEC 5 7SD87 devices (CPU variant CP300) (All versions), SIPROTEC 5 7SJ81 devices (CPU variant CP100) (All versions), SIPROTEC 5 7SJ81 devices (CPU variant CP150) (All versions), SIPROTEC 5 7SJ82 devices (CPU variant CP100) (All versions), SIPROTEC 5 7SJ82 devices (CPU variant CP150) (All versions), SIPROTEC 5 7SJ85 devices (CPU variant CP200) (All versions), SIPROTEC 5 7SJ85 devices (CPU variant CP300) (All versions), SIPROTEC 5 7SJ86 devices (CPU variant CP200) (All versions), SIPROTEC 5 7SJ86 devices (CPU variant CP300) (All versions), SIPROTEC 5 7SK82 devices (CPU variant CP100) (All versions), SIPROTEC 5 7SK82 devices (CPU variant CP150) (All versions), SIPROTEC 5 7SK85 devices (CPU variant CP200) (All versions), SIPROTEC 5 7SK85 devices (CPU variant CP300) (All versions), SIPROTEC 5 7SL82 devices (CPU variant CP100) (All versions), SIPROTEC 5 7SL82 devices (CPU variant CP150) (All versions), SIPROTEC 5 7SL86 devices (CPU variant CP200) (All versions), SIPROTEC 5 7SL86 devices (CPU variant CP300) (All versions), SIPROTEC 5 7SL87 devices (CPU variant CP200) (All versions), SIPROTEC 5 7SL87 devices (CPU variant CP300) (All versions), SIPROTEC 5 7SS85 devices (CPU variant CP200) (All versions), SIPROTEC 5 7SS85 devices (CPU variant CP300) (All versions), SIPROTEC 5 7ST85 devices (CPU variant CP200) (All versions), SIPROTEC 5 7ST85 devices (CPU variant CP300) (All versions), SIPROTEC 5 7SX85 devices (CPU variant CP300) (All versions), SIPROTEC 5 7UM85 devices (CPU variant CP300) (All versions), SIPROTEC 5 7UT82 devices (CPU variant CP100) (All versions), SIPROTEC 5 7UT82 devices (CPU variant CP150) (All versions), SIPROTEC 5 7UT85 devices (CPU variant CP200) (All versions), SIPROTEC 5 7UT85 devices (CPU variant CP300) (All versions), SIPROTEC 5 7UT86 devices (CPU variant CP200) (All versions), SIPROTEC 5 7UT86 devices (CPU variant CP300) (All versions), SIPROTEC 5 7UT87 devices (CPU variant CP200) (All versions), SIPROTEC 5 7UT87 devices (CPU variant CP300) (All versions), SIPROTEC 5 7VE85 devices (CPU variant CP300) (All versions), SIPROTEC 5 7VK87 devices (CPU variant CP200) (All versions), SIPROTEC 5 7VK87 devices (CPU variant CP300) (All versions), SIPROTEC 5 Communication Module ETH-BA-2EL (All versions), SIPROTEC 5 Communication Module ETH-BB-2FO (All versions), SIPROTEC 5 Communication Module ETH-BD-2FO (All versions), SIPROTEC 5 Compact 7SX800 devices (CPU variant CP050) (All versions). Affected devices do not properly restrict secure client-initiated renegotiations within the SSL and TLS protocols. This could allow an attacker to create a denial of service condition on the ports 443/tcp and 4443/tcp for the duration of the attack.
+- [Live-Hack-CVE/CVE-2022-45044](https://github.com/Live-Hack-CVE/CVE-2022-45044)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45044">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45044">
+
+---
 ## CVE-2022-45041 (2022-12-19T21:15:00)
 > SQL Injection exits in xinhu < 2.5.0
 - [Live-Hack-CVE/CVE-2022-45041](https://github.com/Live-Hack-CVE/CVE-2022-45041)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45041">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45041">
@@ -585,6 +601,11 @@
 - [yuriisanin/CVE-2022-45025](https://github.com/yuriisanin/CVE-2022-45025)	<img alt="forks" src="https://img.shields.io/github/forks/yuriisanin/CVE-2022-45025">	<img alt="stars" src="https://img.shields.io/github/stars/yuriisanin/CVE-2022-45025">
 
 ---
+## CVE-2022-45005 (2022-12-13T19:15:00)
+> IP-COM EW9 V15.11.0.14(9732) was discovered to contain a command injection vulnerability in the cmd_get_ping_output function.
+- [Live-Hack-CVE/CVE-2022-45005](https://github.com/Live-Hack-CVE/CVE-2022-45005)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45005">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45005">
+
+---
 ## CVE-2022-44940 (2022-12-19T22:15:00)
 > Patchelf v0.9 was discovered to contain an out-of-bounds read via the function modifyRPath at src/patchelf.cc.
 - [Live-Hack-CVE/CVE-2022-44940](https://github.com/Live-Hack-CVE/CVE-2022-44940)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44940">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44940">
@@ -593,6 +614,11 @@
 ## CVE-2022-44910 (2022-12-14T18:15:00)
 > Binbloom 2.0 was discovered to contain a heap buffer overflow via the read_pointer function at /binbloom-master/src/helpers.c.
 - [Live-Hack-CVE/CVE-2022-44910](https://github.com/Live-Hack-CVE/CVE-2022-44910)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44910">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44910">
+
+---
+## CVE-2022-44874 (2022-12-13T23:15:00)
+> wasm3 commit 7890a2097569fde845881e0b352d813573e371f9 was discovered to contain a segmentation fault via the component op_CallIndirect at /m3_exec.h.
+- [Live-Hack-CVE/CVE-2022-44874](https://github.com/Live-Hack-CVE/CVE-2022-44874)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44874">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44874">
 
 ---
 ## CVE-2022-44830 (2022-11-21T18:15:00)
@@ -619,6 +645,11 @@
 > CrowdStrike Falcon 6.44.15806 allows an administrative attacker to uninstall Falcon Sensor, bypassing the intended protection mechanism in which uninstallation requires possessing a one-time token. (The sensor is managed at the kernel level.)
 - [purplededa/CVE-2022-44721-CsFalconUninstaller](https://github.com/purplededa/CVE-2022-44721-CsFalconUninstaller)	<img alt="forks" src="https://img.shields.io/github/forks/purplededa/CVE-2022-44721-CsFalconUninstaller">	<img alt="stars" src="https://img.shields.io/github/stars/purplededa/CVE-2022-44721-CsFalconUninstaller">
 - [gmh5225/CVE-2022-44721-CsFalconUninstaller](https://github.com/gmh5225/CVE-2022-44721-CsFalconUninstaller)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/CVE-2022-44721-CsFalconUninstaller">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/CVE-2022-44721-CsFalconUninstaller">
+
+---
+## CVE-2022-44702 (2022-12-13T19:15:00)
+> Windows Terminal Remote Code Execution Vulnerability.
+- [Live-Hack-CVE/CVE-2022-44702](https://github.com/Live-Hack-CVE/CVE-2022-44702)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44702">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44702">
 
 ---
 ## CVE-2022-44643 (2022-12-20T15:15:00)
@@ -686,6 +717,31 @@
 - [Live-Hack-CVE/CVE-2022-44462](https://github.com/Live-Hack-CVE/CVE-2022-44462)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44462">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44462">
 
 ---
+## CVE-2022-4440 (2022-12-14T06:15:00)
+> Use after free in Profiles in Google Chrome prior to 108.0.5359.124 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: Medium)
+- [Live-Hack-CVE/CVE-2022-4440](https://github.com/Live-Hack-CVE/CVE-2022-4440)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4440">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4440">
+
+---
+## CVE-2022-4439 (2022-12-14T06:15:00)
+> Use after free in Aura in Google Chrome on Windows prior to 108.0.5359.124 allowed a remote attacker who convinced the user to engage in specific UI interactions to potentially exploit heap corruption via specific UI interactions. (Chromium security severity: High)
+- [Live-Hack-CVE/CVE-2022-4439](https://github.com/Live-Hack-CVE/CVE-2022-4439)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4439">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4439">
+
+---
+## CVE-2022-4438 (2022-12-14T06:15:00)
+> Use after free in Blink Frames in Google Chrome prior to 108.0.5359.124 allowed a remote attacker who convinced the user to engage in specific UI interactions to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
+- [Live-Hack-CVE/CVE-2022-4438](https://github.com/Live-Hack-CVE/CVE-2022-4438)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4438">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4438">
+
+---
+## CVE-2022-4437 (2022-12-14T06:15:00)
+> Use after free in Mojo IPC in Google Chrome prior to 108.0.5359.124 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
+- [Live-Hack-CVE/CVE-2022-4437](https://github.com/Live-Hack-CVE/CVE-2022-4437)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4437">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4437">
+
+---
+## CVE-2022-4436 (2022-12-14T06:15:00)
+> Use after free in Blink Media in Google Chrome prior to 108.0.5359.124 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
+- [Live-Hack-CVE/CVE-2022-4436](https://github.com/Live-Hack-CVE/CVE-2022-4436)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4436">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4436">
+
+---
 ## CVE-2022-4427 (2022-12-19T09:15:00)
 > Improper Input Validation vulnerability in OTRS AG OTRS, OTRS AG ((OTRS)) Community Edition allows SQL Injection via TicketSearch Webservice This issue affects OTRS: from 7.0.1 before 7.0.40 Patch 1, from 8.0.1 before 8.0.28 Patch 1; ((OTRS)) Community Edition: from 6.0.1 through 6.0.34.
 - [Live-Hack-CVE/CVE-2022-4427](https://github.com/Live-Hack-CVE/CVE-2022-4427)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4427">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4427">
@@ -702,6 +758,11 @@
 - [Live-Hack-CVE/CVE-2022-4410](https://github.com/Live-Hack-CVE/CVE-2022-4410)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4410">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4410">
 - [Live-Hack-CVE/CVE-2022-44109](https://github.com/Live-Hack-CVE/CVE-2022-44109)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44109">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44109">
 - [Live-Hack-CVE/CVE-2022-44108](https://github.com/Live-Hack-CVE/CVE-2022-44108)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44108">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44108">
+
+---
+## CVE-2022-43996 (2022-12-13T22:15:00)
+> The csaf_provider package before 0.8.2 allows XSS via a crafted CSAF document uploaded as text/html. The endpoint upload allows valid CSAF advisories (JSON format) to be uploaded with Content-Type text/html and filenames ending in .html. When subsequently accessed via web browser, these advisories are served and interpreted as HTML pages. Such uploaded advisories can contain JavaScript code that will execute within the browser context of users inspecting the advisory.
+- [Live-Hack-CVE/CVE-2022-43996](https://github.com/Live-Hack-CVE/CVE-2022-43996)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43996">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43996">
 
 ---
 ## CVE-2022-43959 ()
@@ -1145,6 +1206,21 @@
 - [soy-oreocato/CVE-2022-42176](https://github.com/soy-oreocato/CVE-2022-42176)	<img alt="forks" src="https://img.shields.io/github/forks/soy-oreocato/CVE-2022-42176">	<img alt="stars" src="https://img.shields.io/github/stars/soy-oreocato/CVE-2022-42176">
 
 ---
+## CVE-2022-42141 (2022-12-14T00:15:00)
+> Delta Electronics DX-2100-L1-CN 2.42 is vulnerable to Cross Site Scripting (XSS) via lform/urlfilter.
+- [Live-Hack-CVE/CVE-2022-42141](https://github.com/Live-Hack-CVE/CVE-2022-42141)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42141">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42141">
+
+---
+## CVE-2022-42140 (2022-12-14T00:15:00)
+> Delta Electronics DX-2100-L1-CN 2.42 is vulnerable to Command Injection via lform/net_diagnose.
+- [Live-Hack-CVE/CVE-2022-42140](https://github.com/Live-Hack-CVE/CVE-2022-42140)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42140">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42140">
+
+---
+## CVE-2022-42139 (2022-12-14T00:15:00)
+> Delta Electronics DVW-W02W2-E2 1.5.0.10 is vulnerable to Command Injection via Crafted URL.
+- [Live-Hack-CVE/CVE-2022-42139](https://github.com/Live-Hack-CVE/CVE-2022-42139)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42139">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42139">
+
+---
 ## CVE-2022-42098 (2022-11-22T13:15:00)
 > KLiK SocialMediaWebsite version v1.0.1 is vulnerable to SQL Injection via the profile.php.
 - [bypazs/CVE-2022-42098](https://github.com/bypazs/CVE-2022-42098)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/CVE-2022-42098">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/CVE-2022-42098">
@@ -1223,6 +1299,11 @@
 ## CVE-2022-41654 (2022-12-22T10:15:00)
 > An authentication bypass vulnerability exists in the newsletter subscription functionality of Ghost Foundation Ghost 5.9.4. A specially-crafted HTTP request can lead to increased privileges. An attacker can send an HTTP request to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2022-41654](https://github.com/Live-Hack-CVE/CVE-2022-41654)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41654">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41654">
+
+---
+## CVE-2022-41653 (2022-12-13T22:15:00)
+> Daikin SVMPC1 version 2.1.22 and prior and SVMPC2 version 1.2.3 and prior are vulnerable to an attacker obtaining user login credentials and control the system.
+- [Live-Hack-CVE/CVE-2022-41653](https://github.com/Live-Hack-CVE/CVE-2022-41653)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41653">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41653">
 
 ---
 ## CVE-2022-41446 (2022-11-23T03:15:00)
@@ -1489,6 +1570,11 @@
 - [Live-Hack-CVE/CVE-2022-40303](https://github.com/Live-Hack-CVE/CVE-2022-40303)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40303">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40303">
 
 ---
+## CVE-2022-40264 (2022-12-14T00:15:00)
+> Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in ICONICS/Mitsubishi Electric GENESIS64 versions 10.96 to 10.97.2 allows an unauthenticated attacker to create, tamper with or destroy arbitrary files by getting a legitimate user import a project package file crafted by the attacker.
+- [Live-Hack-CVE/CVE-2022-40264](https://github.com/Live-Hack-CVE/CVE-2022-40264)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40264">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40264">
+
+---
 ## CVE-2022-40146 (2022-09-22T15:15:00)
 > Server-Side Request Forgery (SSRF) vulnerability in Batik of Apache XML Graphics allows an attacker to access files using a Jar url. This issue affects Apache XML Graphics Batik 1.14.
 - [cckuailong/CVE-2022-40146_Exploit_Jar](https://github.com/cckuailong/CVE-2022-40146_Exploit_Jar)	<img alt="forks" src="https://img.shields.io/github/forks/cckuailong/CVE-2022-40146_Exploit_Jar">	<img alt="stars" src="https://img.shields.io/github/stars/cckuailong/CVE-2022-40146_Exploit_Jar">
@@ -1686,6 +1772,11 @@
 - [azhurtanov/CVE-2022-38374](https://github.com/azhurtanov/CVE-2022-38374)	<img alt="forks" src="https://img.shields.io/github/forks/azhurtanov/CVE-2022-38374">	<img alt="stars" src="https://img.shields.io/github/stars/azhurtanov/CVE-2022-38374">
 
 ---
+## CVE-2022-38355 (2022-12-13T22:15:00)
+> Daikin SVMPC1 version 2.1.22 and prior and SVMPC2 version 1.2.3 and prior are vulnerable to attackers with access to the local area network (LAN) to disclose sensitive information stored by the affected product without requiring authentication.
+- [Live-Hack-CVE/CVE-2022-38355](https://github.com/Live-Hack-CVE/CVE-2022-38355)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38355">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38355">
+
+---
 ## CVE-2022-38023 (2022-11-09T22:15:00)
 > Netlogon RPC Elevation of Privilege Vulnerability.
 - [Live-Hack-CVE/CVE-2022-38023](https://github.com/Live-Hack-CVE/CVE-2022-38023)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38023">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38023">
@@ -1819,6 +1910,11 @@
 ## CVE-2022-37177 (2022-08-29T21:15:00)
 > HireVue Hiring Platform V1.0 suffers from Use of a Broken or Risky Cryptographic Algorithm.
 - [JC175/CVE-2022-37177](https://github.com/JC175/CVE-2022-37177)	<img alt="forks" src="https://img.shields.io/github/forks/JC175/CVE-2022-37177">	<img alt="stars" src="https://img.shields.io/github/stars/JC175/CVE-2022-37177">
+
+---
+## CVE-2022-37155 (2022-12-14T00:15:00)
+> RCE in SPIP 3.1.13 through 4.1.2 allows remote authenticated users to execute arbitrary code via a GET parameter
+- [Live-Hack-CVE/CVE-2022-37155](https://github.com/Live-Hack-CVE/CVE-2022-37155)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37155">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37155">
 
 ---
 ## CVE-2022-37153 (2022-08-24T13:15:00)
@@ -2649,6 +2745,11 @@
 - [kang8/CVE-2022-30778](https://github.com/kang8/CVE-2022-30778)	<img alt="forks" src="https://img.shields.io/github/forks/kang8/CVE-2022-30778">	<img alt="stars" src="https://img.shields.io/github/stars/kang8/CVE-2022-30778">
 
 ---
+## CVE-2022-3073 (2022-12-14T09:15:00)
+> Quanos "SCHEMA ST4" example web templates in version Bootstrap 2019 v2/2021 v1/2022 v1/2022 SP1 v1 or below are prone to JavaScript injection allowing a remote attacker to hijack existing sessions to e.g. other web services in the same environment or execute scripts in the users browser environment. The affected script is '*-schema.js'.
+- [Live-Hack-CVE/CVE-2022-3073](https://github.com/Live-Hack-CVE/CVE-2022-3073)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3073">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3073">
+
+---
 ## CVE-2022-30709 (2022-06-07T18:15:00)
 > Improper input validation check logic vulnerability in SECRIL prior to SMR Jun-2022 Release 1 allows attackers to trigger crash.
 - [bl4ckmenace/CVE-2022-30709](https://github.com/bl4ckmenace/CVE-2022-30709)	<img alt="forks" src="https://img.shields.io/github/forks/bl4ckmenace/CVE-2022-30709">	<img alt="stars" src="https://img.shields.io/github/stars/bl4ckmenace/CVE-2022-30709">
@@ -3011,6 +3112,11 @@
 - [onlyHerold22/CVE-2022-27925-PoC](https://github.com/onlyHerold22/CVE-2022-27925-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/onlyHerold22/CVE-2022-27925-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/onlyHerold22/CVE-2022-27925-PoC">
 
 ---
+## CVE-2022-2757 (2022-12-13T22:15:00)
+> Due to the lack of adequately implemented access-control rules, all versions Kingspan TMS300 CS are vulnerable to an attacker viewing and modifying the application settings without authenticating by accessing a specific uniform resource locator (URL) on the webserver.
+- [Live-Hack-CVE/CVE-2022-2757](https://github.com/Live-Hack-CVE/CVE-2022-2757)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2757">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2757">
+
+---
 ## CVE-2022-27502 (2022-06-10T13:15:00)
 > RealVNC VNC Server 6.9.0 through 5.1.0 for Windows allows local privilege escalation because an installer repair operation executes %TEMP% files as SYSTEM.
 - [alirezac0/CVE-2022-27502](https://github.com/alirezac0/CVE-2022-27502)	<img alt="forks" src="https://img.shields.io/github/forks/alirezac0/CVE-2022-27502">	<img alt="stars" src="https://img.shields.io/github/stars/alirezac0/CVE-2022-27502">
@@ -3361,6 +3467,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [corelight/CVE-2022-24491](https://github.com/corelight/CVE-2022-24491)	<img alt="forks" src="https://img.shields.io/github/forks/corelight/CVE-2022-24491">	<img alt="stars" src="https://img.shields.io/github/stars/corelight/CVE-2022-24491">
 
 ---
+## CVE-2022-24377 (2022-12-14T05:15:00)
+> The package cycle-import-check before 1.3.2 are vulnerable to Command Injection via the writeFileToTmpDirAndOpenIt function due to improper user-input sanitization.
+- [Live-Hack-CVE/CVE-2022-24377](https://github.com/Live-Hack-CVE/CVE-2022-24377)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24377">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24377">
+
+---
 ## CVE-2022-24342 (2022-02-25T15:15:00)
 > In JetBrains TeamCity before 2021.2.1, URL injection leading to CSRF was possible.
 - [yuriisanin/CVE-2022-24342](https://github.com/yuriisanin/CVE-2022-24342)	<img alt="forks" src="https://img.shields.io/github/forks/yuriisanin/CVE-2022-24342">	<img alt="stars" src="https://img.shields.io/github/stars/yuriisanin/CVE-2022-24342">
@@ -3460,6 +3571,16 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-23519 (2022-12-14T17:15:00)
 > rails-html-sanitizer is responsible for sanitizing HTML fragments in Rails applications. Prior to version 1.4.4, a possible XSS vulnerability with certain configurations of Rails::Html::Sanitizer may allow an attacker to inject content if the application developer has overridden the sanitizer's allowed tags in either of the following ways: allow both "math" and "style" elements, or allow both "svg" and "style" elements. Code is only impacted if allowed tags are being overridden. . This issue is fixed in version 1.4.4. All users overriding the allowed tags to include "math" or "svg" and "style" should either upgrade or use the following workaround immediately: Remove "style" from the overridden allowed tags, or remove "math" and "svg" from the overridden allowed tags.
 - [Live-Hack-CVE/CVE-2022-23519](https://github.com/Live-Hack-CVE/CVE-2022-23519)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23519">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23519">
+
+---
+## CVE-2022-23504 (2022-12-14T08:15:00)
+> TYPO3 is an open source PHP based web content management system. Versions prior to 9.5.38, 10.4.33, 11.5.20, and 12.1.1 are subject to Sensitive Information Disclosure. Due to the lack of handling user-submitted YAML placeholder expressions in the site configuration backend module, attackers could expose sensitive internal information, such as system configuration or HTTP request messages of other website visitors. A valid backend user account having administrator privileges is needed to exploit this vulnerability. This issue has been patched in versions 9.5.38 ELTS, 10.4.33, 11.5.20, 12.1.1.
+- [Live-Hack-CVE/CVE-2022-23504](https://github.com/Live-Hack-CVE/CVE-2022-23504)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23504">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23504">
+
+---
+## CVE-2022-23499 (2022-12-13T21:15:00)
+> HTML sanitizer is written in PHP, aiming to provide XSS-safe markup based on explicitly allowed tags, attributes and values. In versions prior to 1.5.0 or 2.1.1, malicious markup used in a sequence with special HTML CDATA sections cannot be filtered and sanitized due to a parsing issue in the upstream package masterminds/html5. This allows bypassing the cross-site scripting mechanism of typo3/html-sanitizer. The upstream package masterminds/html5 provides HTML raw text elements (`script`, `style`, `noframes`, `noembed` and `iframe`) as DOMText nodes, which were not processed and sanitized further. None of the mentioned elements were defined in the default builder configuration, that's why only custom behaviors, using one of those tag names, were vulnerable to cross-site scripting. This issue has been fixed in versions 1.5.0 and 2.1.1.
+- [Live-Hack-CVE/CVE-2022-23499](https://github.com/Live-Hack-CVE/CVE-2022-23499)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23499">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23499">
 
 ---
 ## CVE-2022-23474 (2022-12-15T19:15:00)

@@ -47,6 +47,16 @@
 - [Exploitables/CVE-2021-44852](https://github.com/Exploitables/CVE-2021-44852)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2021-44852">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2021-44852">
 
 ---
+## CVE-2021-44694 (2022-12-13T16:15:00)
+> A vulnerability has been identified in SIMATIC Drive Controller family (All versions < V3.0.1), SIMATIC ET 200SP Open Controller CPU 1515SP PC2 (incl. SIPLUS variants) (All versions), SIMATIC S7-1200 CPU family (incl. SIPLUS variants) (All versions < V4.6.0), SIMATIC S7-1500 CPU family (incl. related ET200 CPUs and SIPLUS variants) (All versions < V3.0.1), SIMATIC S7-1500 Software Controller (All versions), SIMATIC S7-PLCSIM Advanced (All versions < V5.0), SIPLUS TIM 1531 IRC (All versions), TIM 1531 IRC (All versions). Affected devices don't process correctly certain special crafted packets sent to port 102/tcp, which could allow an attacker to cause a denial-of-service in the device.
+- [Live-Hack-CVE/CVE-2021-44694](https://github.com/Live-Hack-CVE/CVE-2021-44694)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44694">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44694">
+
+---
+## CVE-2021-44693 (2022-12-13T16:15:00)
+> A vulnerability has been identified in SIMATIC Drive Controller family (All versions < V3.0.1), SIMATIC ET 200SP Open Controller CPU 1515SP PC2 (incl. SIPLUS variants) (All versions), SIMATIC S7-1200 CPU family (incl. SIPLUS variants) (All versions < V4.6.0), SIMATIC S7-1500 CPU family (incl. related ET200 CPUs and SIPLUS variants) (All versions < V3.0.1), SIMATIC S7-1500 Software Controller (All versions), SIMATIC S7-PLCSIM Advanced (All versions < V5.0), SIPLUS TIM 1531 IRC (All versions), TIM 1531 IRC (All versions). Affected devices don't process correctly certain special crafted packets sent to port 102/tcp, which could allow an attacker to cause a denial-of-service in the device.
+- [Live-Hack-CVE/CVE-2021-44693](https://github.com/Live-Hack-CVE/CVE-2021-44693)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44693">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44693">
+
+---
 ## CVE-2021-44521 (2022-02-11T13:15:00)
 > When running Apache Cassandra with the following configuration: enable_user_defined_functions: true enable_scripted_user_defined_functions: true enable_user_defined_functions_threads: false it is possible for an attacker to execute arbitrary code on the host. The attacker would need to have enough permissions to create user defined functions in the cluster to be able to exploit this. Note that this configuration is documented as unsafe, and will continue to be considered unsafe after this CVE.
 - [Yeyvo/poc-CVE-2021-44521](https://github.com/Yeyvo/poc-CVE-2021-44521)	<img alt="forks" src="https://img.shields.io/github/forks/Yeyvo/poc-CVE-2021-44521">	<img alt="stars" src="https://img.shields.io/github/stars/Yeyvo/poc-CVE-2021-44521">
@@ -541,6 +551,11 @@
 - [xiaojiangxl/CVE-2021-40438](https://github.com/xiaojiangxl/CVE-2021-40438)	<img alt="forks" src="https://img.shields.io/github/forks/xiaojiangxl/CVE-2021-40438">	<img alt="stars" src="https://img.shields.io/github/stars/xiaojiangxl/CVE-2021-40438">
 - [WilsonFung414/CVE-2021-40438_Docker_2](https://github.com/WilsonFung414/CVE-2021-40438_Docker_2)	<img alt="forks" src="https://img.shields.io/github/forks/WilsonFung414/CVE-2021-40438_Docker_2">	<img alt="stars" src="https://img.shields.io/github/stars/WilsonFung414/CVE-2021-40438_Docker_2">
 - [WilsonFung414/CVE-2021-27928_Docker_2](https://github.com/WilsonFung414/CVE-2021-27928_Docker_2)	<img alt="forks" src="https://img.shields.io/github/forks/WilsonFung414/CVE-2021-27928_Docker_2">	<img alt="stars" src="https://img.shields.io/github/stars/WilsonFung414/CVE-2021-27928_Docker_2">
+
+---
+## CVE-2021-40365 (2022-12-13T16:15:00)
+> A vulnerability has been identified in SIMATIC Drive Controller family (All versions < V3.0.1), SIMATIC ET 200SP Open Controller CPU 1515SP PC2 (incl. SIPLUS variants) (All versions), SIMATIC S7-1200 CPU family (incl. SIPLUS variants) (All versions < V4.6.0), SIMATIC S7-1500 CPU family (incl. related ET200 CPUs and SIPLUS variants) (All versions < V3.0.1), SIMATIC S7-1500 Software Controller (All versions), SIMATIC S7-PLCSIM Advanced (All versions < V5.0), SIPLUS TIM 1531 IRC (All versions), TIM 1531 IRC (All versions). Affected devices don't process correctly certain special crafted packets sent to port 102/tcp, which could allow an attacker to cause a denial-of-service in the device.
+- [Live-Hack-CVE/CVE-2021-40365](https://github.com/Live-Hack-CVE/CVE-2021-40365)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40365">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40365">
 
 ---
 ## CVE-2021-40346 (2021-09-08T17:15:00)
