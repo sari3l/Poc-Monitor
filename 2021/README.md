@@ -757,6 +757,26 @@
 - [Edgarloyola/CVE-2021-36563](https://github.com/Edgarloyola/CVE-2021-36563)	<img alt="forks" src="https://img.shields.io/github/forks/Edgarloyola/CVE-2021-36563">	<img alt="stars" src="https://img.shields.io/github/stars/Edgarloyola/CVE-2021-36563">
 
 ---
+## CVE-2021-36411 (2022-01-10T23:15:00)
+> An issue has been found in libde265 v1.0.8 due to incorrect access control. A SEGV caused by a READ memory access in function derive_boundaryStrength of deblock.cc has occurred. The vulnerability causes a segmentation fault and application crash, which leads to remote denial of service.
+- [Live-Hack-CVE/CVE-2021-36411](https://github.com/Live-Hack-CVE/CVE-2021-36411)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36411">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36411">
+
+---
+## CVE-2021-36410 (2022-01-10T23:15:00)
+> A stack-buffer-overflow exists in libde265 v1.0.8 via fallback-motion.cc in function put_epel_hv_fallback when running program dec265.
+- [Live-Hack-CVE/CVE-2021-36410](https://github.com/Live-Hack-CVE/CVE-2021-36410)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36410">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36410">
+
+---
+## CVE-2021-36409 (2022-01-10T23:15:00)
+> There is an Assertion `scaling_list_pred_matrix_id_delta==1' failed at sps.cc:925 in libde265 v1.0.8 when decoding file, which allows attackers to cause a Denial of Service (DoS) by running the application with a crafted file or possibly have unspecified other impact.
+- [Live-Hack-CVE/CVE-2021-36409](https://github.com/Live-Hack-CVE/CVE-2021-36409)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36409">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36409">
+
+---
+## CVE-2021-36408 (2022-01-10T23:15:00)
+> An issue was discovered in libde265 v1.0.8.There is a Heap-use-after-free in intrapred.h when decoding file using dec265.
+- [Live-Hack-CVE/CVE-2021-36408](https://github.com/Live-Hack-CVE/CVE-2021-36408)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36408">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36408">
+
+---
 ## CVE-2021-36260 (2021-09-22T13:15:00)
 > A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input validation, attacker can exploit the vulnerability to launch a command injection attack by sending some messages with malicious commands.
 - [Cuerz/CVE-2021-36260](https://github.com/Cuerz/CVE-2021-36260)	<img alt="forks" src="https://img.shields.io/github/forks/Cuerz/CVE-2021-36260">	<img alt="stars" src="https://img.shields.io/github/stars/Cuerz/CVE-2021-36260">
@@ -808,6 +828,11 @@
 - [Y4er/openam-CVE-2021-35464](https://github.com/Y4er/openam-CVE-2021-35464)	<img alt="forks" src="https://img.shields.io/github/forks/Y4er/openam-CVE-2021-35464">	<img alt="stars" src="https://img.shields.io/github/stars/Y4er/openam-CVE-2021-35464">
 - [gobysec/GobyVuls](https://github.com/gobysec/GobyVuls)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/GobyVuls">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/GobyVuls">
 - [rood8008/CVE-2021-35464](https://github.com/rood8008/CVE-2021-35464)	<img alt="forks" src="https://img.shields.io/github/forks/rood8008/CVE-2021-35464">	<img alt="stars" src="https://img.shields.io/github/stars/rood8008/CVE-2021-35464">
+
+---
+## CVE-2021-35452 (2022-01-10T22:15:00)
+> An Incorrect Access Control vulnerability exists in libde265 v1.0.8 due to a SEGV in slice.cc.
+- [Live-Hack-CVE/CVE-2021-35452](https://github.com/Live-Hack-CVE/CVE-2021-35452)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35452">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35452">
 
 ---
 ## CVE-2021-35448 (2021-06-24T20:15:00)
@@ -1376,6 +1401,11 @@
 ## CVE-2021-21809 (2021-06-23T22:15:00)
 > A command execution vulnerability exists in the default legacy spellchecker plugin in Moodle 3.10. A specially crafted series of HTTP requests can lead to command execution. An attacker must have administrator privileges to exploit this vulnerabilities.
 - [anldori/CVE-2021-21809](https://github.com/anldori/CVE-2021-21809)	<img alt="forks" src="https://img.shields.io/github/forks/anldori/CVE-2021-21809">	<img alt="stars" src="https://img.shields.io/github/stars/anldori/CVE-2021-21809">
+
+---
+## CVE-2021-21707 (2021-11-29T07:15:00)
+> In PHP versions 7.3.x below 7.3.33, 7.4.x below 7.4.26 and 8.0.x below 8.0.13, certain XML parsing functions, like simplexml_load_file(), URL-decode the filename passed to them. If that filename contains URL-encoded NUL character, this may cause the function to interpret this as the end of the filename, thus interpreting the filename differently from what the user intended, which may lead it to reading a different file than intended.
+- [Live-Hack-CVE/CVE-2021-21707](https://github.com/Live-Hack-CVE/CVE-2021-21707)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21707">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21707">
 
 ---
 ## CVE-2021-21380 (2021-03-23T23:15:00)

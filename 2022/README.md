@@ -295,6 +295,41 @@
 - [Live-Hack-CVE/CVE-2022-46381](https://github.com/Live-Hack-CVE/CVE-2022-46381)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46381">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46381">
 
 ---
+## CVE-2022-46364 (2022-12-13T17:15:00)
+> A SSRF vulnerability in parsing the href attribute of XOP:Include in MTOM requests in versions of Apache CXF before 3.5.5 and 3.4.10 allows an attacker to perform SSRF style attacks on webservices that take at least one parameter of any type.
+- [Live-Hack-CVE/CVE-2022-46364](https://github.com/Live-Hack-CVE/CVE-2022-46364)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46364">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46364">
+
+---
+## CVE-2022-46351 (2022-12-13T16:15:00)
+> A vulnerability has been identified in SCALANCE X204RNA (HSR) (All versions < V3.2.7), SCALANCE X204RNA (PRP) (All versions < V3.2.7), SCALANCE X204RNA EEC (HSR) (All versions < V3.2.7), SCALANCE X204RNA EEC (PRP) (All versions < V3.2.7), SCALANCE X204RNA EEC (PRP/HSR) (All versions < V3.2.7). Specially crafted PROFINET DCP packets could cause a denial of service condition of affected products on a local Ethernet segment (Layer 2).
+- [Live-Hack-CVE/CVE-2022-46351](https://github.com/Live-Hack-CVE/CVE-2022-46351)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46351">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46351">
+
+---
+## CVE-2022-46350 (2022-12-13T16:15:00)
+> A vulnerability has been identified in SCALANCE X204RNA (HSR) (All versions < V3.2.7), SCALANCE X204RNA (PRP) (All versions < V3.2.7), SCALANCE X204RNA EEC (HSR) (All versions < V3.2.7), SCALANCE X204RNA EEC (PRP) (All versions < V3.2.7), SCALANCE X204RNA EEC (PRP/HSR) (All versions < V3.2.7). The integrated web server could allow Cross-Site Scripting (XSS) attacks if unsuspecting users are tricked into accessing a malicious link. This can be used by an attacker to trigger a malicious request on the affected device.
+- [Live-Hack-CVE/CVE-2022-46350](https://github.com/Live-Hack-CVE/CVE-2022-46350)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46350">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46350">
+
+---
+## CVE-2022-46349 (2022-12-13T16:15:00)
+> A vulnerability has been identified in Parasolid V33.1 (All versions < V33.1.264), Parasolid V34.0 (All versions < V34.0.252), Parasolid V34.1 (All versions < V34.1.242), Parasolid V35.0 (All versions < V35.0.170). The affected applications contain an out of bounds read past the end of an allocated structure while parsing specially crafted X_B files. This could allow an attacker to execute code in the context of the current process. (ZDI-CAN-19384)
+- [Live-Hack-CVE/CVE-2022-46349](https://github.com/Live-Hack-CVE/CVE-2022-46349)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46349">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46349">
+
+---
+## CVE-2022-46348 (2022-12-13T16:15:00)
+> A vulnerability has been identified in Parasolid V33.1 (All versions < V33.1.264), Parasolid V34.0 (All versions < V34.0.252), Parasolid V34.1 (All versions < V34.1.242), Parasolid V35.0 (All versions < V35.0.170). The affected applications contain an out of bounds write past the end of an allocated structure while parsing specially crafted X_B files. This could allow an attacker to execute code in the context of the current process. (ZDI-CAN-19383)
+- [Live-Hack-CVE/CVE-2022-46348](https://github.com/Live-Hack-CVE/CVE-2022-46348)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46348">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46348">
+
+---
+## CVE-2022-46347 (2022-12-13T16:15:00)
+> A vulnerability has been identified in Parasolid V33.1 (All versions < V33.1.264), Parasolid V34.0 (All versions < V34.0.252), Parasolid V34.1 (All versions < V34.1.242), Parasolid V35.0 (All versions < V35.0.170). The affected applications contain an out of bounds write past the end of an allocated structure while parsing specially crafted X_B files. This could allow an attacker to execute code in the context of the current process. (ZDI-CAN-19079)
+- [Live-Hack-CVE/CVE-2022-46347](https://github.com/Live-Hack-CVE/CVE-2022-46347)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46347">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46347">
+
+---
+## CVE-2022-46346 (2022-12-13T16:15:00)
+> A vulnerability has been identified in Parasolid V33.1 (All versions < V33.1.264), Parasolid V34.0 (All versions < V34.0.252), Parasolid V34.1 (All versions < V34.1.242), Parasolid V35.0 (All versions < V35.0.170). The affected applications contain an out of bounds write past the end of an allocated structure while parsing specially crafted X_B files. This could allow an attacker to execute code in the context of the current process. (ZDI-CAN-19071)
+- [Live-Hack-CVE/CVE-2022-46346](https://github.com/Live-Hack-CVE/CVE-2022-46346)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46346">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46346">
+
+---
 ## CVE-2022-46344 (2022-12-14T21:15:00)
 > A vulnerability was found in X.Org. This security flaw occurs because the handler for the XIChangeProperty request has a length-validation issues, resulting in out-of-bounds memory reads and potential information disclosure. This issue can lead to local privileges elevation on systems where the X server is running privileged and remote code execution for ssh X forwarding sessions.
 - [Live-Hack-CVE/CVE-2022-46344](https://github.com/Live-Hack-CVE/CVE-2022-46344)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46344">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46344">
@@ -445,9 +480,19 @@
 - [Live-Hack-CVE/CVE-2022-4607](https://github.com/Live-Hack-CVE/CVE-2022-4607)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4607">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4607">
 
 ---
+## CVE-2022-46062 (2022-12-13T17:15:00)
+> Gym Management System v0.0.1 is vulnerable to Cross Site Request Forgery (CSRF).
+- [Live-Hack-CVE/CVE-2022-46062](https://github.com/Live-Hack-CVE/CVE-2022-46062)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46062">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46062">
+
+---
 ## CVE-2022-46020 (2022-12-20T16:15:00)
 > WBCE CMS v1.5.4 can implement getshell by modifying the upload file type.
 - [Live-Hack-CVE/CVE-2022-46020](https://github.com/Live-Hack-CVE/CVE-2022-46020)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46020">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46020">
+
+---
+## CVE-2022-45957 (2022-12-12T15:15:00)
+> ZTE ZXHN-H108NS router with firmware version H108NSV1.0.7u_ZRD_GR2_A68 is vulnerable to remote stack buffer overflow.
+- [Live-Hack-CVE/CVE-2022-45957](https://github.com/Live-Hack-CVE/CVE-2022-45957)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45957">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45957">
 
 ---
 ## CVE-2022-4583 (2022-12-17T13:15:00)
@@ -1359,6 +1404,21 @@
 - [L34ked/CVE-2022-41208](https://github.com/L34ked/CVE-2022-41208)	<img alt="forks" src="https://img.shields.io/github/forks/L34ked/CVE-2022-41208">	<img alt="stars" src="https://img.shields.io/github/stars/L34ked/CVE-2022-41208">
 
 ---
+## CVE-2022-41127 (2022-12-13T19:15:00)
+> Microsoft Dynamics NAV and Microsoft Dynamics 365 Business Central (On Premises) Remote Code Execution Vulnerability.
+- [Live-Hack-CVE/CVE-2022-41127](https://github.com/Live-Hack-CVE/CVE-2022-41127)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41127">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41127">
+
+---
+## CVE-2022-41121 (2022-12-13T19:15:00)
+> Windows Graphics Component Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-44671, CVE-2022-44680, CVE-2022-44697.
+- [Live-Hack-CVE/CVE-2022-41121](https://github.com/Live-Hack-CVE/CVE-2022-41121)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41121">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41121">
+
+---
+## CVE-2022-41115 (2022-12-13T19:15:00)
+> Microsoft Edge (Chromium-based) Update Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2022-41115](https://github.com/Live-Hack-CVE/CVE-2022-41115)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41115">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41115">
+
+---
 ## CVE-2022-41082 (2022-10-03T01:15:00)
 > Microsoft Exchange Server Remote Code Execution Vulnerability.
 - [revers0id/CVE-2022-41082-PoC](https://github.com/revers0id/CVE-2022-41082-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/revers0id/CVE-2022-41082-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/revers0id/CVE-2022-41082-PoC">
@@ -1403,6 +1463,16 @@
 - [LivingFree8/CVE-2022-41082-RCE-POC](https://github.com/LivingFree8/CVE-2022-41082-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/LivingFree8/CVE-2022-41082-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/LivingFree8/CVE-2022-41082-RCE-POC">
 - [PyterSmithDarkGhost/ZERODAYENCADEAMENTOCVE2022-41040-CVE2022-41082](https://github.com/PyterSmithDarkGhost/ZERODAYENCADEAMENTOCVE2022-41040-CVE2022-41082)	<img alt="forks" src="https://img.shields.io/github/forks/PyterSmithDarkGhost/ZERODAYENCADEAMENTOCVE2022-41040-CVE2022-41082">	<img alt="stars" src="https://img.shields.io/github/stars/PyterSmithDarkGhost/ZERODAYENCADEAMENTOCVE2022-41040-CVE2022-41082">
 - [balki97/NotProxyShellHunter-CVE-2022-41082-POC](https://github.com/balki97/NotProxyShellHunter-CVE-2022-41082-POC)	<img alt="forks" src="https://img.shields.io/github/forks/balki97/NotProxyShellHunter-CVE-2022-41082-POC">	<img alt="stars" src="https://img.shields.io/github/stars/balki97/NotProxyShellHunter-CVE-2022-41082-POC">
+
+---
+## CVE-2022-41076 (2022-12-13T19:15:00)
+> PowerShell Remote Code Execution Vulnerability.
+- [Live-Hack-CVE/CVE-2022-41076](https://github.com/Live-Hack-CVE/CVE-2022-41076)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41076">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41076">
+
+---
+## CVE-2022-41074 (2022-12-13T19:15:00)
+> Windows Graphics Component Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-44679.
+- [Live-Hack-CVE/CVE-2022-41074](https://github.com/Live-Hack-CVE/CVE-2022-41074)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41074">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41074">
 
 ---
 ## CVE-2022-41049 (2022-11-09T22:15:00)
@@ -2553,12 +2623,24 @@
 ---
 ## CVE-2022-31629 (2022-09-28T23:15:00)
 > In PHP versions before 7.4.31, 8.0.24 and 8.1.11, the vulnerability enables network and same-site attackers to set a standard insecure cookie in the victim's browser which is treated as a `__Host-` or `__Secure-` cookie by PHP applications.
-- [SilNex/CVE-2022-31629-poc](https://github.com/SilNex/CVE-2022-31629-poc)	<img alt="forks" src="https://img.shields.io/github/forks/SilNex/CVE-2022-31629-poc">	<img alt="stars" src="https://img.shields.io/github/stars/SilNex/CVE-2022-31629-poc">
+- [silnex/CVE-2022-31629-poc](https://github.com/silnex/CVE-2022-31629-poc)	<img alt="forks" src="https://img.shields.io/github/forks/silnex/CVE-2022-31629-poc">	<img alt="stars" src="https://img.shields.io/github/stars/silnex/CVE-2022-31629-poc">
+- [Live-Hack-CVE/CVE-2022-31629](https://github.com/Live-Hack-CVE/CVE-2022-31629)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31629">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31629">
+
+---
+## CVE-2022-31628 (2022-09-28T23:15:00)
+> In PHP versions before 7.4.31, 8.0.24 and 8.1.11, the phar uncompressor code would recursively uncompress "quines" gzip files, resulting in an infinite loop.
+- [Live-Hack-CVE/CVE-2022-31628](https://github.com/Live-Hack-CVE/CVE-2022-31628)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31628">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31628">
 
 ---
 ## CVE-2022-31626 (2022-06-16T06:15:00)
 > In PHP versions 7.4.x below 7.4.30, 8.0.x below 8.0.20, and 8.1.x below 8.1.7, when pdo_mysql extension with mysqlnd driver, if the third party is allowed to supply host to connect to and the password for the connection, password of excessive length can trigger a buffer overflow in PHP, which can lead to a remote code execution vulnerability.
 - [amitlttwo/CVE-2022-31626](https://github.com/amitlttwo/CVE-2022-31626)	<img alt="forks" src="https://img.shields.io/github/forks/amitlttwo/CVE-2022-31626">	<img alt="stars" src="https://img.shields.io/github/stars/amitlttwo/CVE-2022-31626">
+- [Live-Hack-CVE/CVE-2022-31626](https://github.com/Live-Hack-CVE/CVE-2022-31626)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31626">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31626">
+
+---
+## CVE-2022-31625 (2022-06-16T06:15:00)
+> In PHP versions 7.4.x below 7.4.30, 8.0.x below 8.0.20, and 8.1.x below 8.1.7, when using Postgres database extension, supplying invalid parameters to the parametrized query may lead to PHP attempting to free memory using uninitialized data as pointers. This could lead to RCE vulnerability or denial of service.
+- [Live-Hack-CVE/CVE-2022-31625](https://github.com/Live-Hack-CVE/CVE-2022-31625)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31625">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31625">
 
 ---
 ## CVE-2022-3157 (2022-12-16T21:15:00)
@@ -3077,8 +3159,8 @@
 - [hacksysteam/CVE-2022-28672](https://github.com/hacksysteam/CVE-2022-28672)	<img alt="forks" src="https://img.shields.io/github/forks/hacksysteam/CVE-2022-28672">	<img alt="stars" src="https://img.shields.io/github/stars/hacksysteam/CVE-2022-28672">
 
 ---
-## CVE-2022-28282 ()
-> 
+## CVE-2022-28282 (2022-12-22T20:15:00)
+> By using a link with <code>rel="localization"</code> a use-after-free could have been triggered by destroying an object during JavaScript execution and then referencing the object through a freed pointer, leading to a potential exploitable crash. This vulnerability affects Thunderbird < 91.8, Firefox < 99, and Firefox ESR < 91.8.
 - [Pwnrin/CVE-2022-28282](https://github.com/Pwnrin/CVE-2022-28282)	<img alt="forks" src="https://img.shields.io/github/forks/Pwnrin/CVE-2022-28282">	<img alt="stars" src="https://img.shields.io/github/stars/Pwnrin/CVE-2022-28282">
 
 ---
@@ -3198,6 +3280,21 @@
 - [Ziggy78/CVE-2022-26809-RCE-MASS](https://github.com/Ziggy78/CVE-2022-26809-RCE-MASS)	<img alt="forks" src="https://img.shields.io/github/forks/Ziggy78/CVE-2022-26809-RCE-MASS">	<img alt="stars" src="https://img.shields.io/github/stars/Ziggy78/CVE-2022-26809-RCE-MASS">
 - [Ziggy78/CVE-2022-26809-FULL-RCE](https://github.com/Ziggy78/CVE-2022-26809-FULL-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Ziggy78/CVE-2022-26809-FULL-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Ziggy78/CVE-2022-26809-FULL-RCE">
 - [scoobyd00bi/CVE-2022-26809-RCE](https://github.com/scoobyd00bi/CVE-2022-26809-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/scoobyd00bi/CVE-2022-26809-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/scoobyd00bi/CVE-2022-26809-RCE">
+
+---
+## CVE-2022-26806 (2022-12-13T19:15:00)
+> Microsoft Office Graphics Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-26804, CVE-2022-26805, CVE-2022-44692, CVE-2022-47211, CVE-2022-47212, CVE-2022-47213.
+- [Live-Hack-CVE/CVE-2022-26806](https://github.com/Live-Hack-CVE/CVE-2022-26806)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26806">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26806">
+
+---
+## CVE-2022-26805 (2022-12-13T19:15:00)
+> Microsoft Office Graphics Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-26804, CVE-2022-26806, CVE-2022-44692, CVE-2022-47211, CVE-2022-47212, CVE-2022-47213.
+- [Live-Hack-CVE/CVE-2022-26805](https://github.com/Live-Hack-CVE/CVE-2022-26805)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26805">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26805">
+
+---
+## CVE-2022-26804 (2022-12-13T19:15:00)
+> Microsoft Office Graphics Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-26805, CVE-2022-26806, CVE-2022-44692, CVE-2022-47211, CVE-2022-47212, CVE-2022-47213.
+- [Live-Hack-CVE/CVE-2022-26804](https://github.com/Live-Hack-CVE/CVE-2022-26804)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26804">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26804">
 
 ---
 ## CVE-2022-26726 (2022-05-26T19:15:00)
@@ -3467,6 +3564,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [corelight/CVE-2022-24491](https://github.com/corelight/CVE-2022-24491)	<img alt="forks" src="https://img.shields.io/github/forks/corelight/CVE-2022-24491">	<img alt="stars" src="https://img.shields.io/github/stars/corelight/CVE-2022-24491">
 
 ---
+## CVE-2022-24480 (2022-12-13T19:15:00)
+> Outlook for Android Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2022-24480](https://github.com/Live-Hack-CVE/CVE-2022-24480)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24480">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24480">
+
+---
 ## CVE-2022-24377 (2022-12-14T05:15:00)
 > The package cycle-import-check before 1.3.2 are vulnerable to Command Injection via the writeFileToTmpDirAndOpenIt function due to improper user-input sanitization.
 - [Live-Hack-CVE/CVE-2022-24377](https://github.com/Live-Hack-CVE/CVE-2022-24377)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24377">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24377">
@@ -3571,6 +3673,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-23519 (2022-12-14T17:15:00)
 > rails-html-sanitizer is responsible for sanitizing HTML fragments in Rails applications. Prior to version 1.4.4, a possible XSS vulnerability with certain configurations of Rails::Html::Sanitizer may allow an attacker to inject content if the application developer has overridden the sanitizer's allowed tags in either of the following ways: allow both "math" and "style" elements, or allow both "svg" and "style" elements. Code is only impacted if allowed tags are being overridden. . This issue is fixed in version 1.4.4. All users overriding the allowed tags to include "math" or "svg" and "style" should either upgrade or use the following workaround immediately: Remove "style" from the overridden allowed tags, or remove "math" and "svg" from the overridden allowed tags.
 - [Live-Hack-CVE/CVE-2022-23519](https://github.com/Live-Hack-CVE/CVE-2022-23519)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23519">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23519">
+
+---
+## CVE-2022-23505 (2022-12-13T08:15:00)
+> Passport-wsfed-saml2 is a ws-federation protocol and SAML2 tokens authentication provider for Passport. In versions prior to 4.6.3, a remote attacker may be able to bypass WSFed authentication on a website using passport-wsfed-saml2. A successful attack requires that the attacker is in possession of an arbitrary IDP signed assertion. Depending on the IDP used, fully unauthenticated attacks (e.g without access to a valid user) might also be feasible if generation of a signed message can be triggered. This issue is patched in version 4.6.3. Use of SAML2 authentication instead of WSFed is a workaround.
+- [Live-Hack-CVE/CVE-2022-23505](https://github.com/Live-Hack-CVE/CVE-2022-23505)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23505">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23505">
 
 ---
 ## CVE-2022-23504 (2022-12-14T08:15:00)
@@ -4477,8 +4584,8 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [biulove0x/CVE-2022-1903](https://github.com/biulove0x/CVE-2022-1903)	<img alt="forks" src="https://img.shields.io/github/forks/biulove0x/CVE-2022-1903">	<img alt="stars" src="https://img.shields.io/github/stars/biulove0x/CVE-2022-1903">
 
 ---
-## CVE-2022-1802 ()
-> 
+## CVE-2022-1802 (2022-12-22T20:15:00)
+> If an attacker was able to corrupt the methods of an Array object in JavaScript via prototype pollution, they could have achieved execution of attacker-controlled JavaScript code in a privileged context. This vulnerability affects Firefox ESR < 91.9.1, Firefox < 100.0.2, Firefox for Android < 100.3.0, and Thunderbird < 91.9.1.
 - [mistymntncop/CVE-2022-1802](https://github.com/mistymntncop/CVE-2022-1802)	<img alt="forks" src="https://img.shields.io/github/forks/mistymntncop/CVE-2022-1802">	<img alt="stars" src="https://img.shields.io/github/stars/mistymntncop/CVE-2022-1802">
 
 ---
