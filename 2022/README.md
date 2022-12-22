@@ -4365,6 +4365,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-20687](https://github.com/Live-Hack-CVE/CVE-2022-20687)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20687">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20687">
 
 ---
+## CVE-2022-20686 (2022-12-12T09:15:00)
+> Multiple vulnerabilities in the Link Layer Discovery Protocol (LLDP) functionality of Cisco ATA 190 Series Analog Telephone Adapter firmware could allow an unauthenticated, remote attacker to execute arbitrary code on an affected device and cause the LLDP service to restart. These vulnerabilities are due to missing length validation of certain LLDP packet header fields. An attacker could exploit these vulnerabilities by sending a malicious LLDP packet to an affected device. A successful exploit could allow the attacker to execute code on the affected device and cause LLDP to restart unexpectedly, resulting in a denial of service (DoS) condition.
+- [Live-Hack-CVE/CVE-2022-20686](https://github.com/Live-Hack-CVE/CVE-2022-20686)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20686">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20686">
+
+---
 ## CVE-2022-20611 (2022-12-13T16:15:00)
 > In deletePackageVersionedInternal of DeletePackageHelper.java, there is a possible way to bypass carrier restrictions due to a permissions bypass. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-242996180
 - [Live-Hack-CVE/CVE-2022-20611](https://github.com/Live-Hack-CVE/CVE-2022-20611)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20611">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20611">
@@ -5041,6 +5046,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Greenwolf/CVE-2022-1162](https://github.com/Greenwolf/CVE-2022-1162)	<img alt="forks" src="https://img.shields.io/github/forks/Greenwolf/CVE-2022-1162">	<img alt="stars" src="https://img.shields.io/github/stars/Greenwolf/CVE-2022-1162">
 
 ---
+## CVE-2022-1154 (2022-03-30T12:15:00)
+> Use after free in utf_ptr2char in GitHub repository vim/vim prior to 8.2.4646.
+- [Live-Hack-CVE/CVE-2022-1154](https://github.com/Live-Hack-CVE/CVE-2022-1154)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1154">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1154">
+
+---
 ## CVE-2022-1119 (2022-04-19T21:15:00)
 > The Simple File List WordPress plugin is vulnerable to Arbitrary File Download via the eeFile parameter found in the ~/includes/ee-downloader.php file due to missing controls which makes it possible unauthenticated attackers to supply a path to a file that will subsequently be downloaded, in versions up to and including 3.2.7.
 - [z92g/CVE-2022-1119](https://github.com/z92g/CVE-2022-1119)	<img alt="forks" src="https://img.shields.io/github/forks/z92g/CVE-2022-1119">	<img alt="stars" src="https://img.shields.io/github/stars/z92g/CVE-2022-1119">
@@ -5132,6 +5142,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [hohlovscky2017/Demo_15_11_2022_cvety](https://github.com/hohlovscky2017/Demo_15_11_2022_cvety)	<img alt="forks" src="https://img.shields.io/github/forks/hohlovscky2017/Demo_15_11_2022_cvety">	<img alt="stars" src="https://img.shields.io/github/stars/hohlovscky2017/Demo_15_11_2022_cvety">
 
 ---
+## CVE-2022-0943 (2022-03-14T21:15:00)
+> Heap-based Buffer Overflow occurs in vim in GitHub repository vim/vim prior to 8.2.4563.
+- [Live-Hack-CVE/CVE-2022-0943](https://github.com/Live-Hack-CVE/CVE-2022-0943)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0943">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0943">
+
+---
 ## CVE-2022-0848 (2022-03-04T09:15:00)
 > OS Command Injection in GitHub repository part-db/part-db prior to 0.5.11.
 - [logm1lo/CVE-2022-0848-RCE](https://github.com/logm1lo/CVE-2022-0848-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/logm1lo/CVE-2022-0848-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/logm1lo/CVE-2022-0848-RCE">
@@ -5208,6 +5223,16 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [destr4ct/CVE-2022-0739](https://github.com/destr4ct/CVE-2022-0739)	<img alt="forks" src="https://img.shields.io/github/forks/destr4ct/CVE-2022-0739">	<img alt="stars" src="https://img.shields.io/github/stars/destr4ct/CVE-2022-0739">
 - [Chris01s/CVE-2022-0739](https://github.com/Chris01s/CVE-2022-0739)	<img alt="forks" src="https://img.shields.io/github/forks/Chris01s/CVE-2022-0739">	<img alt="stars" src="https://img.shields.io/github/stars/Chris01s/CVE-2022-0739">
 - [BKreisel/CVE-2022-0739](https://github.com/BKreisel/CVE-2022-0739)	<img alt="forks" src="https://img.shields.io/github/forks/BKreisel/CVE-2022-0739">	<img alt="stars" src="https://img.shields.io/github/stars/BKreisel/CVE-2022-0739">
+
+---
+## CVE-2022-0729 (2022-02-23T14:15:00)
+> Use of Out-of-range Pointer Offset in GitHub repository vim/vim prior to 8.2.4440.
+- [Live-Hack-CVE/CVE-2022-0729](https://github.com/Live-Hack-CVE/CVE-2022-0729)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0729">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0729">
+
+---
+## CVE-2022-0685 (2022-02-20T11:15:00)
+> Use of Out-of-range Pointer Offset in GitHub repository vim/vim prior to 8.2.4418.
+- [Live-Hack-CVE/CVE-2022-0685](https://github.com/Live-Hack-CVE/CVE-2022-0685)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0685">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0685">
 
 ---
 ## CVE-2022-0666 (2022-02-18T15:15:00)

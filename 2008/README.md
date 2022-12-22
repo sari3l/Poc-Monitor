@@ -6,6 +6,11 @@
 - [nmurilo/CVE-2008-4687-exploit](https://github.com/nmurilo/CVE-2008-4687-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/nmurilo/CVE-2008-4687-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/nmurilo/CVE-2008-4687-exploit">
 
 ---
+## CVE-2008-4609 (2008-10-20T17:59:00)
+> The TCP implementation in (1) Linux, (2) platforms based on BSD Unix, (3) Microsoft Windows, (4) Cisco products, and probably other operating systems allows remote attackers to cause a denial of service (connection queue exhaustion) via multiple vectors that manipulate information in the TCP state table, as demonstrated by sockstress.
+- [Live-Hack-CVE/CVE-2008-4609](https://github.com/Live-Hack-CVE/CVE-2008-4609)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2008-4609">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2008-4609">
+
+---
 ## CVE-2008-0166 (2008-05-13T17:20:00)
 > OpenSSL 0.9.8c-1 up to versions before 0.9.8g-9 on Debian-based operating systems uses a random number generator that generates predictable numbers, which makes it easier for remote attackers to conduct brute force guessing attacks against cryptographic keys.
 - [demining/Vulnerable-to-Debian-OpenSSL-bug-CVE-2008-0166](https://github.com/demining/Vulnerable-to-Debian-OpenSSL-bug-CVE-2008-0166)	<img alt="forks" src="https://img.shields.io/github/forks/demining/Vulnerable-to-Debian-OpenSSL-bug-CVE-2008-0166">	<img alt="stars" src="https://img.shields.io/github/stars/demining/Vulnerable-to-Debian-OpenSSL-bug-CVE-2008-0166">

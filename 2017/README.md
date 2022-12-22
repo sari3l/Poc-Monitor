@@ -228,6 +228,21 @@
 - [GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara](https://github.com/GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara)	<img alt="forks" src="https://img.shields.io/github/forks/GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara">	<img alt="stars" src="https://img.shields.io/github/stars/GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara">
 
 ---
+## CVE-2017-14468 (2018-04-05T21:29:00)
+> An exploitable access control vulnerability exists in the data, program, and function file permissions functionality of Allen Bradley Micrologix 1400 Series B FRN 21.2 and before. A specially crafted packet can cause a read or write operation resulting in disclosure of sensitive information, modification of settings, or modification of ladder logic. An attacker can send unauthenticated packets to trigger this vulnerability. Required Keyswitch State: REMOTE or PROG Description: This ability is leveraged in a larger exploit to flash custom firmware.
+- [Live-Hack-CVE/CVE-2017-14468](https://github.com/Live-Hack-CVE/CVE-2017-14468)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-14468">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-14468">
+
+---
+## CVE-2017-14467 (2018-04-05T21:29:00)
+> An exploitable access control vulnerability exists in the data, program, and function file permissions functionality of Allen Bradley Micrologix 1400 Series B FRN 21.2 and before. A specially crafted packet can cause a read or write operation resulting in disclosure of sensitive information, modification of settings, or modification of ladder logic. An attacker can send unauthenticated packets to trigger this vulnerability. Required Keyswitch State: REMOTE Description: Live rung edits are able to be made by an unauthenticated user allowing for addition, deletion, or modification of existing ladder logic. Additionally, faults and cpu state modification can be triggered if specific ladder logic is used.
+- [Live-Hack-CVE/CVE-2017-14467](https://github.com/Live-Hack-CVE/CVE-2017-14467)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-14467">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-14467">
+
+---
+## CVE-2017-14465 (2018-04-05T21:29:00)
+> An exploitable access control vulnerability exists in the data, program, and function file permissions functionality of Allen Bradley Micrologix 1400 Series B FRN 21.2 and before. A specially crafted packet can cause a read or write operation resulting in disclosure of sensitive information, modification of settings, or modification of ladder logic. An attacker can send unauthenticated packets to trigger this vulnerability. Required Keyswitch State: REMOTE Description: Any input or output can be forced, causing unpredictable activity from the PLC.
+- [Live-Hack-CVE/CVE-2017-14465](https://github.com/Live-Hack-CVE/CVE-2017-14465)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-14465">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-14465">
+
+---
 ## CVE-2017-12561 (2018-02-15T22:29:00)
 > A remote code execution vulnerability in HPE intelligent Management Center (iMC) PLAT version Plat 7.3 E0504P4 and earlier was found.
 - [Everdoh/CVE-2017-12561](https://github.com/Everdoh/CVE-2017-12561)	<img alt="forks" src="https://img.shields.io/github/forks/Everdoh/CVE-2017-12561">	<img alt="stars" src="https://img.shields.io/github/stars/Everdoh/CVE-2017-12561">

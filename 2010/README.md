@@ -11,6 +11,16 @@
 - [Exploitables/CVE-2010-4502](https://github.com/Exploitables/CVE-2010-4502)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2010-4502">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2010-4502">
 
 ---
+## CVE-2010-4296 (2010-12-06T21:05:00)
+> vmware-mount in VMware Workstation 7.x before 7.1.2 build 301548 on Linux, VMware Player 3.1.x before 3.1.2 build 301548 on Linux, VMware Server 2.0.2 on Linux, and VMware Fusion 3.1.x before 3.1.2 build 332101 does not properly load libraries, which allows host OS users to gain privileges via vectors involving shared object files.
+- [Live-Hack-CVE/CVE-2010-4296](https://github.com/Live-Hack-CVE/CVE-2010-4296)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-4296">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-4296">
+
+---
+## CVE-2010-4295 (2010-12-06T21:05:00)
+> Race condition in the mounting process in vmware-mount in VMware Workstation 7.x before 7.1.2 build 301548 on Linux, VMware Player 3.1.x before 3.1.2 build 301548 on Linux, VMware Server 2.0.2 on Linux, and VMware Fusion 3.1.x before 3.1.2 build 332101 allows host OS users to gain privileges via vectors involving temporary files.
+- [Live-Hack-CVE/CVE-2010-4295](https://github.com/Live-Hack-CVE/CVE-2010-4295)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-4295">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-4295">
+
+---
 ## CVE-2010-3333 (2010-11-10T03:00:00)
 > Stack-based buffer overflow in Microsoft Office XP SP3, Office 2003 SP3, Office 2007 SP2, Office 2010, Office 2004 and 2008 for Mac, Office for Mac 2011, and Open XML File Format Converter for Mac allows remote attackers to execute arbitrary code via crafted RTF data, aka "RTF Stack Buffer Overflow Vulnerability."
 - [Sunqiz/CVE-2010-3333-reproduction](https://github.com/Sunqiz/CVE-2010-3333-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Sunqiz/CVE-2010-3333-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Sunqiz/CVE-2010-3333-reproduction">
