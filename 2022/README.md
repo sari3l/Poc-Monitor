@@ -153,6 +153,26 @@
 - [Live-Hack-CVE/CVE-2022-46908](https://github.com/Live-Hack-CVE/CVE-2022-46908)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46908">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46908">
 
 ---
+## CVE-2022-46906 (2022-12-12T21:15:00)
+> Insufficient processing of user input in WebSoft HCM 2021.2.3.327 allows an authenticated attacker to inject arbitrary HTML tags into the page processed by the user's browser, including scripts in the JavaScript programming language, which leads to Reflected XSS.
+- [Live-Hack-CVE/CVE-2022-46906](https://github.com/Live-Hack-CVE/CVE-2022-46906)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46906">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46906">
+
+---
+## CVE-2022-46905 (2022-12-12T21:15:00)
+> Insufficient processing of user input in WebSoft HCM 2021.2.3.327 allows an unauthenticated attacker to inject arbitrary HTML tags into the page processed by the user's browser, including scripts in the JavaScript programming language, which leads to Reflected XSS.
+- [Live-Hack-CVE/CVE-2022-46905](https://github.com/Live-Hack-CVE/CVE-2022-46905)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46905">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46905">
+
+---
+## CVE-2022-46904 (2022-12-12T21:15:00)
+> Insufficient processing of user input in WebSoft HCM 2021.2.3.327 allows an authenticated attacker to inject arbitrary HTML tags into the page processed by the user's browser, including scripts in the JavaScript programming language, which leads to Self-XSS.
+- [Live-Hack-CVE/CVE-2022-46904](https://github.com/Live-Hack-CVE/CVE-2022-46904)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46904">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46904">
+
+---
+## CVE-2022-46903 (2022-12-12T21:15:00)
+> Insufficient processing of user input in WebSoft HCM 2021.2.3.327 allows an authenticated attacker to inject arbitrary HTML tags into the page processed by the user's browser, including scripts in the JavaScript programming language, which leads to Stored XSS.
+- [Live-Hack-CVE/CVE-2022-46903](https://github.com/Live-Hack-CVE/CVE-2022-46903)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46903">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46903">
+
+---
 ## CVE-2022-46870 (2022-12-16T13:15:00)
 > An Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Apache Zeppelin allows logged-in users to execute arbitrary javascript in other users' browsers. This issue affects Apache Zeppelin before 0.8.2. Users are recommended to upgrade to a supported version of Zeppelin.
 - [Live-Hack-CVE/CVE-2022-46870](https://github.com/Live-Hack-CVE/CVE-2022-46870)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46870">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46870">
@@ -590,6 +610,11 @@
 - [Live-Hack-CVE/CVE-2022-45347](https://github.com/Live-Hack-CVE/CVE-2022-45347)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45347">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45347">
 
 ---
+## CVE-2022-45275 (2022-12-12T20:15:00)
+> An arbitrary file upload vulnerability in /queuing/admin/ajax.php?action=save_settings of Dynamic Transaction Queuing System v1.0 allows attackers to execute arbitrary code via a crafted PHP file.
+- [Live-Hack-CVE/CVE-2022-45275](https://github.com/Live-Hack-CVE/CVE-2022-45275)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45275">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45275">
+
+---
 ## CVE-2022-45269 (2022-12-12T23:15:00)
 > A directory traversal vulnerability in the component SCS.Web.Server.SPI/1.0 of Linx Sphere LINX 7.35.ST15 allows attackers to read arbitrary files.
 - [Live-Hack-CVE/CVE-2022-45269](https://github.com/Live-Hack-CVE/CVE-2022-45269)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45269">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45269">
@@ -899,6 +924,12 @@
 - [mudassiruddin/CVE-2022-43144-Stored-XSS](https://github.com/mudassiruddin/CVE-2022-43144-Stored-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/mudassiruddin/CVE-2022-43144-Stored-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/mudassiruddin/CVE-2022-43144-Stored-XSS">
 
 ---
+## CVE-2022-4314 (2022-12-12T18:15:00)
+> Improper Privilege Management in GitHub repository ikus060/rdiffweb prior to 2.5.2.
+- [Live-Hack-CVE/CVE-2022-4314](https://github.com/Live-Hack-CVE/CVE-2022-4314)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4314">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4314">
+- [mudassiruddin/CVE-2022-43144-Stored-XSS](https://github.com/mudassiruddin/CVE-2022-43144-Stored-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/mudassiruddin/CVE-2022-43144-Stored-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/mudassiruddin/CVE-2022-43144-Stored-XSS">
+
+---
 ## CVE-2022-43117 (2022-11-21T18:15:00)
 > Sourcecodester Password Storage Application in PHP/OOP and MySQL 1.0 was discovered to contain multiple cross-site scripting (XSS) vulnerabilities via the Name, Username, Description and Site Feature parameters.
 - [RashidKhanPathan/CVE-2022-43117](https://github.com/RashidKhanPathan/CVE-2022-43117)	<img alt="forks" src="https://img.shields.io/github/forks/RashidKhanPathan/CVE-2022-43117">	<img alt="stars" src="https://img.shields.io/github/stars/RashidKhanPathan/CVE-2022-43117">
@@ -1074,6 +1105,11 @@
 ## CVE-2022-42805 (2022-12-15T19:15:00)
 > An integer overflow was addressed with improved input validation. This issue is fixed in iOS 15.6 and iPadOS 15.6, macOS Monterey 12.5. An app may be able to execute arbitrary code with kernel privileges.
 - [Live-Hack-CVE/CVE-2022-42805](https://github.com/Live-Hack-CVE/CVE-2022-42805)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42805">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42805">
+
+---
+## CVE-2022-42716 (2022-12-12T20:15:00)
+> An issue was discovered in the Arm Mali GPU Kernel Driver. There is a use-after-free. A non-privileged user can make improper GPU processing operations to gain access to already freed memory. This affects Valhall r29p0 through r40P0.
+- [Live-Hack-CVE/CVE-2022-42716](https://github.com/Live-Hack-CVE/CVE-2022-42716)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42716">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42716">
 
 ---
 ## CVE-2022-42527 (2022-12-16T16:15:00)
@@ -1484,9 +1520,20 @@
 - [Live-Hack-CVE/CVE-2022-41278](https://github.com/Live-Hack-CVE/CVE-2022-41278)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41278">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41278">
 
 ---
+## CVE-2022-41273 (2022-12-13T04:15:00)
+> Due to improper input sanitization in SAP Sourcing and SAP Contract Lifecycle Management - version 1100, an attacker can redirect a user to a malicious website. In order to perform this attack, the attacker sends an email to the victim with a manipulated link that appears to be a legitimate SAP Sourcing URL, since the victim doesn’t suspect the threat, they click on the link, log in to SAP Sourcing and CLM and at this point, they get redirected to a malicious website.
+- [Live-Hack-CVE/CVE-2022-41273](https://github.com/Live-Hack-CVE/CVE-2022-41273)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41273">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41273">
+
+---
 ## CVE-2022-41272 (2022-12-13T04:15:00)
 > An unauthenticated attacker over the network can attach to an open interface exposed through JNDI by the User Defined Search (UDS) of SAP NetWeaver Process Integration (PI) - version 7.50 and make use of an open naming and directory API to access services which can be used to perform unauthorized operations affecting users and data across the entire system. This allows the attacker to have full read access to user data, make limited modifications to user data, and degrade the performance of the system, leading to a high impact on confidentiality and a limited impact on the availability and integrity of the application.
 - [redrays-io/CVE-2022-41272](https://github.com/redrays-io/CVE-2022-41272)	<img alt="forks" src="https://img.shields.io/github/forks/redrays-io/CVE-2022-41272">	<img alt="stars" src="https://img.shields.io/github/stars/redrays-io/CVE-2022-41272">
+- [Live-Hack-CVE/CVE-2022-41272](https://github.com/Live-Hack-CVE/CVE-2022-41272)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41272">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41272">
+
+---
+## CVE-2022-41271 (2022-12-13T03:15:00)
+> An unauthenticated user can attach to an open interface exposed through JNDI by the Messaging System of SAP NetWeaver Process Integration (PI) - version 7.50. This user can make use of an open naming and directory API to access services that could perform unauthorized operations. The vulnerability affects local users and data, leading to a considerable impact on confidentiality as well as availability and a limited impact on the integrity of the application. These operations can be used to: * Read any information * Modify sensitive information * Denial of Service attacks (DoS) * SQL Injection
+- [Live-Hack-CVE/CVE-2022-41271](https://github.com/Live-Hack-CVE/CVE-2022-41271)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41271">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41271">
 
 ---
 ## CVE-2022-41218 (2022-09-21T07:15:00)
@@ -1627,6 +1674,11 @@
 - [numanturle/CVE-2022-41040](https://github.com/numanturle/CVE-2022-41040)	<img alt="forks" src="https://img.shields.io/github/forks/numanturle/CVE-2022-41040">	<img alt="stars" src="https://img.shields.io/github/stars/numanturle/CVE-2022-41040">
 
 ---
+## CVE-2022-4097 (2022-12-12T18:15:00)
+> The All-In-One Security (AIOS) WordPress plugin before 5.0.8 is susceptible to IP Spoofing attacks, which can lead to bypassed security features (like IP blocks, rate limiting, brute force protection, and more).
+- [Live-Hack-CVE/CVE-2022-4097](https://github.com/Live-Hack-CVE/CVE-2022-4097)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4097">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4097">
+
+---
 ## CVE-2022-40955 (2022-09-20T14:15:00)
 > In versions of Apache InLong prior to 1.3.0, an attacker with sufficient privileges to specify MySQL JDBC connection URL parameters and to write arbitrary data to the MySQL database, could cause this data to be deserialized by Apache InLong, potentially leading to Remote Code Execution on the Apache InLong server. Users are advised to upgrade to Apache InLong 1.3.0 or newer.
 - [Live-Hack-CVE/CVE-2022-40955](https://github.com/Live-Hack-CVE/CVE-2022-40955)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40955">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40955">
@@ -1750,6 +1802,11 @@
 - [Live-Hack-CVE/CVE-2022-40264](https://github.com/Live-Hack-CVE/CVE-2022-40264)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40264">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40264">
 
 ---
+## CVE-2022-4016 (2022-12-12T18:15:00)
+> The Booster for WooCommerce WordPress plugin before 5.6.7, Booster Plus for WooCommerce WordPress plugin before 5.6.6, Booster Elite for WooCommerce WordPress plugin before 1.1.8 does not properly check for CSRF when creating and deleting Customer roles, allowing attackers to make logged admins create and delete arbitrary custom roles via CSRF attacks
+- [Live-Hack-CVE/CVE-2022-4016](https://github.com/Live-Hack-CVE/CVE-2022-4016)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4016">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4016">
+
+---
 ## CVE-2022-40146 (2022-09-22T15:15:00)
 > Server-Side Request Forgery (SSRF) vulnerability in Batik of Apache XML Graphics allows an attacker to access files using a Jar url. This issue affects Apache XML Graphics Batik 1.14.
 - [cckuailong/CVE-2022-40146_Exploit_Jar](https://github.com/cckuailong/CVE-2022-40146_Exploit_Jar)	<img alt="forks" src="https://img.shields.io/github/forks/cckuailong/CVE-2022-40146_Exploit_Jar">	<img alt="stars" src="https://img.shields.io/github/stars/cckuailong/CVE-2022-40146_Exploit_Jar">
@@ -1775,6 +1832,21 @@
 ## CVE-2022-40126 (2022-09-29T12:15:00)
 > A misconfiguration in the Service Mode profile directory of Clash for Windows v0.19.9 allows attackers to escalate privileges and execute arbitrary commands when Service Mode is activated.
 - [LovelyWei/CVE-2022-40126](https://github.com/LovelyWei/CVE-2022-40126)	<img alt="forks" src="https://img.shields.io/github/forks/LovelyWei/CVE-2022-40126">	<img alt="stars" src="https://img.shields.io/github/stars/LovelyWei/CVE-2022-40126">
+
+---
+## CVE-2022-4010 (2022-12-12T18:15:00)
+> The Image Hover Effects WordPress plugin through 5.3 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup).
+- [Live-Hack-CVE/CVE-2022-4010](https://github.com/Live-Hack-CVE/CVE-2022-4010)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4010">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4010">
+
+---
+## CVE-2022-4005 (2022-12-12T18:15:00)
+> The Donation Button WordPress plugin through 4.0.0 does not sanitize and escapes some parameters, which could allow users with a role as low as Contributor to perform Cross-Site Scripting attacks.
+- [Live-Hack-CVE/CVE-2022-4005](https://github.com/Live-Hack-CVE/CVE-2022-4005)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4005">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4005">
+
+---
+## CVE-2022-4004 (2022-12-12T18:15:00)
+> The Donation Button WordPress plugin through 4.0.0 does not properly check for privileges and nonce tokens in its "donation_button_twilio_send_test_sms" AJAX action, which may allow any users with an account on the affected site, like subscribers, to use the plugin's Twilio integration to send SMSes to arbitrary phone numbers.
+- [Live-Hack-CVE/CVE-2022-4004](https://github.com/Live-Hack-CVE/CVE-2022-4004)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4004">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4004">
 
 ---
 ## CVE-2022-3996 (2022-12-13T16:15:00)
@@ -1991,6 +2063,41 @@
 > SPNEGO Extended Negotiation (NEGOEX) Security Mechanism Information Disclosure Vulnerability.
 - [RCEman01/CVE-2022-37958-Windows-Server-RCE](https://github.com/RCEman01/CVE-2022-37958-Windows-Server-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/RCEman01/CVE-2022-37958-Windows-Server-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/RCEman01/CVE-2022-37958-Windows-Server-RCE">
 - [4TT4CIc/CVE-2022-37958-D](https://github.com/4TT4CIc/CVE-2022-37958-D)	<img alt="forks" src="https://img.shields.io/github/forks/4TT4CIc/CVE-2022-37958-D">	<img alt="stars" src="https://img.shields.io/github/stars/4TT4CIc/CVE-2022-37958-D">
+
+---
+## CVE-2022-37905 (2022-12-12T13:15:00)
+> Vulnerabilities in ArubaOS running on 7xxx series controllers exist that allows an attacker to execute arbitrary code during the boot sequence. Successful exploitation could allow an attacker to achieve permanent modification of the underlying operating system.
+- [Live-Hack-CVE/CVE-2022-37905](https://github.com/Live-Hack-CVE/CVE-2022-37905)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37905">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37905">
+
+---
+## CVE-2022-37903 (2022-12-12T13:15:00)
+> A vulnerability exists that allows an authenticated attacker to overwrite an arbitrary file with attacker-controlled content via the web interface. Successful exploitation of this vulnerability could lead to full compromise the underlying host operating system.
+- [Live-Hack-CVE/CVE-2022-37903](https://github.com/Live-Hack-CVE/CVE-2022-37903)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37903">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37903">
+
+---
+## CVE-2022-37902 (2022-12-12T13:15:00)
+> Authenticated command injection vulnerabilities exist in the ArubaOS command line interface. Successful exploitation of these vulnerabilities results in the ability to execute arbitrary commands as a privileged user on the underlying operating system.
+- [Live-Hack-CVE/CVE-2022-37902](https://github.com/Live-Hack-CVE/CVE-2022-37902)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37902">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37902">
+
+---
+## CVE-2022-37901 (2022-12-12T13:15:00)
+> Authenticated command injection vulnerabilities exist in the ArubaOS command line interface. Successful exploitation of these vulnerabilities results in the ability to execute arbitrary commands as a privileged user on the underlying operating system.
+- [Live-Hack-CVE/CVE-2022-37901](https://github.com/Live-Hack-CVE/CVE-2022-37901)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37901">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37901">
+
+---
+## CVE-2022-37900 (2022-12-12T13:15:00)
+> Authenticated command injection vulnerabilities exist in the ArubaOS command line interface. Successful exploitation of these vulnerabilities results in the ability to execute arbitrary commands as a privileged user on the underlying operating system.
+- [Live-Hack-CVE/CVE-2022-37900](https://github.com/Live-Hack-CVE/CVE-2022-37900)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37900">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37900">
+
+---
+## CVE-2022-37899 (2022-12-12T13:15:00)
+> Authenticated command injection vulnerabilities exist in the ArubaOS command line interface. Successful exploitation of these vulnerabilities results in the ability to execute arbitrary commands as a privileged user on the underlying operating system.
+- [Live-Hack-CVE/CVE-2022-37899](https://github.com/Live-Hack-CVE/CVE-2022-37899)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37899">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37899">
+
+---
+## CVE-2022-37898 (2022-12-12T13:15:00)
+> Authenticated command injection vulnerabilities exist in the ArubaOS command line interface. Successful exploitation of these vulnerabilities results in the ability to execute arbitrary commands as a privileged user on the underlying operating system.
+- [Live-Hack-CVE/CVE-2022-37898](https://github.com/Live-Hack-CVE/CVE-2022-37898)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37898">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37898">
 
 ---
 ## CVE-2022-3786 (2022-11-01T18:15:00)
@@ -4228,6 +4335,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [c0resploit/CVE-2022-20841](https://github.com/c0resploit/CVE-2022-20841)	<img alt="forks" src="https://img.shields.io/github/forks/c0resploit/CVE-2022-20841">	<img alt="stars" src="https://img.shields.io/github/stars/c0resploit/CVE-2022-20841">
 
 ---
+## CVE-2022-20611 (2022-12-13T16:15:00)
+> In deletePackageVersionedInternal of DeletePackageHelper.java, there is a possible way to bypass carrier restrictions due to a permissions bypass. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-242996180
+- [Live-Hack-CVE/CVE-2022-20611](https://github.com/Live-Hack-CVE/CVE-2022-20611)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20611">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20611">
+
+---
 ## CVE-2022-20607 (2022-12-16T16:15:00)
 > In the Pixel cellular firmware, there is a possible out of bounds write due to a missing bounds check. This could lead to remote code execution with LTE authentication needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-238914868References: N/A
 - [Live-Hack-CVE/CVE-2022-20607](https://github.com/Live-Hack-CVE/CVE-2022-20607)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20607">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20607">
@@ -4572,6 +4684,41 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-20503 (2022-12-16T16:15:00)
 > In onCreate of WifiDppConfiguratorActivity.java, there is a possible way for a guest user to add a WiFi configuration due to a missing permission check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-224772890
 - [Live-Hack-CVE/CVE-2022-20503](https://github.com/Live-Hack-CVE/CVE-2022-20503)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20503">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20503">
+
+---
+## CVE-2022-20502 (2022-12-13T16:15:00)
+> In GetResolvedMethod of entrypoint_utils-inl.h, there is a possible use after free due to a stale cache. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-222166527
+- [Live-Hack-CVE/CVE-2022-20502](https://github.com/Live-Hack-CVE/CVE-2022-20502)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20502">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20502">
+
+---
+## CVE-2022-20501 (2022-12-13T16:15:00)
+> In onCreate of EnableAccountPreferenceActivity.java, there is a possible way to mislead the user into enabling a malicious phone account due to a tapjacking/overlay attack. This could lead to local escalation of privilege with User execution privileges needed. User interaction is needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-246933359
+- [Live-Hack-CVE/CVE-2022-20501](https://github.com/Live-Hack-CVE/CVE-2022-20501)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20501">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20501">
+
+---
+## CVE-2022-20500 (2022-12-13T16:15:00)
+> In loadFromXml of ShortcutPackage.java, there is a possible crash on boot due to an uncaught exception. This could lead to local denial of service with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-246540168
+- [Live-Hack-CVE/CVE-2022-20500](https://github.com/Live-Hack-CVE/CVE-2022-20500)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20500">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20500">
+
+---
+## CVE-2022-20497 (2022-12-13T16:15:00)
+> In updatePublicMode of NotificationLockscreenUserManagerImpl.java, there is a possible way to reveal sensitive notifications on the lockscreen due to an incorrect state transition. This could lead to local information disclosure with physical access required and an app that runs above the lockscreen, with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-12 Android-12L Android-13Android ID: A-246301979
+- [Live-Hack-CVE/CVE-2022-20497](https://github.com/Live-Hack-CVE/CVE-2022-20497)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20497">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20497">
+
+---
+## CVE-2022-20496 (2022-12-13T16:15:00)
+> In setDataSource of initMediaExtractor.cpp, there is a possibility of arbitrary code execution due to a use after free. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-12 Android-12L Android-13Android ID: A-245242273
+- [Live-Hack-CVE/CVE-2022-20496](https://github.com/Live-Hack-CVE/CVE-2022-20496)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20496">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20496">
+
+---
+## CVE-2022-20495 (2022-12-13T16:15:00)
+> In getEnabledAccessibilityServiceList of AccessibilityManager.java, there is a possible way to hide an accessibility service due to a logic error in the code. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-243849844
+- [Live-Hack-CVE/CVE-2022-20495](https://github.com/Live-Hack-CVE/CVE-2022-20495)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20495">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20495">
+
+---
+## CVE-2022-20488 (2022-12-13T16:15:00)
+> In NotificationChannel of NotificationChannel.java, there is a possible failure to persist permissions settings due to resource exhaustion. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-242703217
+- [Live-Hack-CVE/CVE-2022-20488](https://github.com/Live-Hack-CVE/CVE-2022-20488)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20488">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20488">
 
 ---
 ## CVE-2022-20441 (2022-11-08T22:15:00)
