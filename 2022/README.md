@@ -2427,6 +2427,11 @@
 - [c0resploit/CVE-2022-20841](https://github.com/c0resploit/CVE-2022-20841)	<img alt="forks" src="https://img.shields.io/github/forks/c0resploit/CVE-2022-20841">	<img alt="stars" src="https://img.shields.io/github/stars/c0resploit/CVE-2022-20841">
 
 ---
+## CVE-2022-20607 (2022-12-16T16:15:00)
+> In the Pixel cellular firmware, there is a possible out of bounds write due to a missing bounds check. This could lead to remote code execution with LTE authentication needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-238914868References: N/A
+- [Live-Hack-CVE/CVE-2022-20607](https://github.com/Live-Hack-CVE/CVE-2022-20607)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20607">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20607">
+
+---
 ## CVE-2022-20441 (2022-11-08T22:15:00)
 > In navigateUpTo of Task.java, there is a possible way to launch an unexported intent handler due to a logic error in the code. This could lead to local escalation of privilege if the targeted app has an intent trampoline, with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-238605611
 - [nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20441](https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20441)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20441">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20441">
