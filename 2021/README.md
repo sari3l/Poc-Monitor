@@ -974,6 +974,11 @@
 - [guidepointsecurity/CVE-2021-29156](https://github.com/guidepointsecurity/CVE-2021-29156)	<img alt="forks" src="https://img.shields.io/github/forks/guidepointsecurity/CVE-2021-29156">	<img alt="stars" src="https://img.shields.io/github/stars/guidepointsecurity/CVE-2021-29156">
 
 ---
+## CVE-2021-28655 (2022-12-16T13:15:00)
+> The improper Input Validation vulnerability in "”Move folder to Trash” feature of Apache Zeppelin allows an attacker to delete the arbitrary files. This issue affects Apache Zeppelin Apache Zeppelin version 0.9.0 and prior versions.
+- [Live-Hack-CVE/CVE-2021-28655](https://github.com/Live-Hack-CVE/CVE-2021-28655)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28655">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28655">
+
+---
 ## CVE-2021-27965 (2021-03-05T02:15:00)
 > The MsIo64.sys driver before 1.1.19.1016 in MSI Dragon Center before 2.0.98.0 has a buffer overflow that allows privilege escalation via a crafted 0x80102040, 0x80102044, 0x80102050, or 0x80102054 IOCTL request.
 - [Exploitables/CVE-2021-27965](https://github.com/Exploitables/CVE-2021-27965)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2021-27965">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2021-27965">

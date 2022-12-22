@@ -93,6 +93,11 @@
 - [Live-Hack-CVE/CVE-2022-46908](https://github.com/Live-Hack-CVE/CVE-2022-46908)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46908">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46908">
 
 ---
+## CVE-2022-46870 (2022-12-16T13:15:00)
+> An Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Apache Zeppelin allows logged-in users to execute arbitrary javascript in other users' browsers. This issue affects Apache Zeppelin before 0.8.2. Users are recommended to upgrade to a supported version of Zeppelin.
+- [Live-Hack-CVE/CVE-2022-46870](https://github.com/Live-Hack-CVE/CVE-2022-46870)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46870">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46870">
+
+---
 ## CVE-2022-46771 (2022-12-20T20:15:00)
 > IBM UrbanCode Deploy (UCD) 6.2.0.0 through 6.2.7.18, 7.0.5.0 through 7.0.5.13, 7.1.0.0 through 7.1.2.9, 7.2.0.0 through 7.2.3.2 and 7.3.0.0 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 242273.
 - [Live-Hack-CVE/CVE-2022-46771](https://github.com/Live-Hack-CVE/CVE-2022-46771)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46771">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46771">
@@ -908,6 +913,16 @@
 - [Live-Hack-CVE/CVE-2022-41964](https://github.com/Live-Hack-CVE/CVE-2022-41964)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41964">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41964">
 
 ---
+## CVE-2022-41962 (2022-12-16T13:15:00)
+> BigBlueButton is an open source web conferencing system. Versions prior to 2.4-rc-6, and 2.5-alpha-1 contain Incorrect Authorization for setting emoji status. A user with moderator rights can use the clear status feature to set any emoji status for other users. Moderators should only be able to set none as the status of other users. This issue is patched in 2.4-rc-6 and 2.5-alpha-1There are no workarounds.
+- [Live-Hack-CVE/CVE-2022-41962](https://github.com/Live-Hack-CVE/CVE-2022-41962)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41962">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41962">
+
+---
+## CVE-2022-41961 (2022-12-16T13:15:00)
+> BigBlueButton is an open source web conferencing system. Versions prior to 2.4-rc-6 are subject to Ineffective user bans. The attacker could register multiple users, and join the meeting with one of them. When that user is banned, they could still join the meeting with the remaining registered users from the same extId. This issue has been fixed by improving permissions such that banning a user removes all users related to their extId, including registered users that have not joined the meeting. This issue is patched in versions 2.4-rc-6 and 2.5-alpha-1. There are no workarounds.
+- [Live-Hack-CVE/CVE-2022-41961](https://github.com/Live-Hack-CVE/CVE-2022-41961)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41961">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41961">
+
+---
 ## CVE-2022-41923 (2022-11-23T19:15:00)
 > Grails Spring Security Core plugin is vulnerable to privilege escalation. The vulnerability allows an attacker access to one endpoint (i.e. the targeted endpoint) using the authorization requirements of a different endpoint (i.e. the donor endpoint). In some Grails framework applications, access to the targeted endpoint will be granted based on meeting the authorization requirements of the donor endpoint, which can result in a privilege escalation attack. This vulnerability has been patched in grails-spring-security-core versions 3.3.2, 4.0.5 and 5.1.1. Impacted Applications: Grails Spring Security Core plugin versions: 1.x 2.x >=3.0.0 <3.3.2 >=4.0.0 <4.0.5 >=5.0.0 <5.1.1 We strongly suggest that all Grails framework applications using the Grails Spring Security Core plugin be updated to a patched release of the plugin. Workarounds: Users should create a subclass extending one of the following classes from the `grails.plugin.springsecurity.web.access.intercept` package, depending on their security configuration: * `AnnotationFilterInvocationDefinition` * `InterceptUrlMapFilterInvocationDefinition` * `RequestmapFilterInvocationDefinition` In each case, the subclass should override the `calculateUri` method like so: ``` @Override protected String calculateUri(HttpServletRequest request) { UrlPathHelper.defaultInstance.getRequestUri(request) } ``` This should be considered a temporary measure, as the patched versions of grails-spring-security-core deprecates the `calculateUri` method. Once upgraded to a patched version of the plugin, this workaround is no longer needed. The workaround is especially important for version 2.x, as no patch is available version 2.x of the GSSC plugin.
 - [grails/GSSC-CVE-2022-41923](https://github.com/grails/GSSC-CVE-2022-41923)	<img alt="forks" src="https://img.shields.io/github/forks/grails/GSSC-CVE-2022-41923">	<img alt="stars" src="https://img.shields.io/github/stars/grails/GSSC-CVE-2022-41923">
@@ -1654,6 +1669,11 @@
 - [lolminerxmrig/Capricornus](https://github.com/lolminerxmrig/Capricornus)	<img alt="forks" src="https://img.shields.io/github/forks/lolminerxmrig/Capricornus">	<img alt="stars" src="https://img.shields.io/github/stars/lolminerxmrig/Capricornus">
 
 ---
+## CVE-2022-3590 (2022-12-14T09:15:00)
+> WordPress is affected by an unauthenticated blind SSRF in the pingback feature. Because of a TOCTOU race condition between the validation checks and the HTTP request, attackers can reach internal hosts that are explicitly forbidden.
+- [Live-Hack-CVE/CVE-2022-3590](https://github.com/Live-Hack-CVE/CVE-2022-3590)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3590">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3590">
+
+---
 ## CVE-2022-35899 (2022-07-21T17:15:00)
 > There is an unquoted service path in ASUSTeK Aura Ready Game SDK service (GameSDK.exe) 1.0.0.4. This might allow a local user to escalate privileges by creating a %PROGRAMFILES(X86)%\ASUS\GameSDK.exe file.
 - [AngeloPioAmirante/CVE-2022-35899](https://github.com/AngeloPioAmirante/CVE-2022-35899)	<img alt="forks" src="https://img.shields.io/github/forks/AngeloPioAmirante/CVE-2022-35899">	<img alt="stars" src="https://img.shields.io/github/stars/AngeloPioAmirante/CVE-2022-35899">
@@ -1739,6 +1759,11 @@
 ## CVE-2022-34916 (2022-08-21T09:15:00)
 > Apache Flume versions 1.4.0 through 1.10.0 are vulnerable to a remote code execution (RCE) attack when a configuration uses a JMS Source with a JNDI LDAP data source URI when an attacker has control of the target LDAP server. This issue is fixed by limiting JNDI to allow only the use of the java protocol or no protocol.
 - [Live-Hack-CVE/CVE-2022-34916](https://github.com/Live-Hack-CVE/CVE-2022-34916)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34916">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34916">
+
+---
+## CVE-2022-3481 (2022-11-07T10:15:00)
+> The WooCommerce Dropshipping WordPress plugin before 4.4 does not properly sanitise and escape a parameter before using it in a SQL statement via a REST endpoint available to unauthenticated users, leading to a SQL injection
+- [Live-Hack-CVE/CVE-2022-3481](https://github.com/Live-Hack-CVE/CVE-2022-3481)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3481">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3481">
 
 ---
 ## CVE-2022-34729 (2022-09-13T19:15:00)
@@ -3498,6 +3523,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-20531 (2022-12-16T16:15:00)
 > In placeCall of TelecomManager.java, there is a possible way to determine whether an app is installed, without query permissions, due to side channel information disclosure. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-231988638
 - [Live-Hack-CVE/CVE-2022-20531](https://github.com/Live-Hack-CVE/CVE-2022-20531)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20531">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20531">
+
+---
+## CVE-2022-20530 (2022-12-16T16:15:00)
+> In strings.xml, there is a possible permission bypass due to a misleading string. This could lead to remote information disclosure of call logs with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-231585645
+- [Live-Hack-CVE/CVE-2022-20530](https://github.com/Live-Hack-CVE/CVE-2022-20530)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20530">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20530">
 
 ---
 ## CVE-2022-20529 (2022-12-16T16:15:00)
