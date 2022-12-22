@@ -1497,6 +1497,7 @@
 - [trhacknon/CVE-2022-33980-Apache-Commons-Configuration-RCE](https://github.com/trhacknon/CVE-2022-33980-Apache-Commons-Configuration-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-33980-Apache-Commons-Configuration-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-33980-Apache-Commons-Configuration-RCE">
 - [HKirito/CVE-2022-33980](https://github.com/HKirito/CVE-2022-33980)	<img alt="forks" src="https://img.shields.io/github/forks/HKirito/CVE-2022-33980">	<img alt="stars" src="https://img.shields.io/github/stars/HKirito/CVE-2022-33980">
 - [sammwyy/CVE-2022-33980-POC](https://github.com/sammwyy/CVE-2022-33980-POC)	<img alt="forks" src="https://img.shields.io/github/forks/sammwyy/CVE-2022-33980-POC">	<img alt="stars" src="https://img.shields.io/github/stars/sammwyy/CVE-2022-33980-POC">
+- [Code-971/CVE-2022-33980-EXP](https://github.com/Code-971/CVE-2022-33980-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/Code-971/CVE-2022-33980-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/Code-971/CVE-2022-33980-EXP">
 
 ---
 ## CVE-2022-33891 (2022-07-18T07:15:00)
