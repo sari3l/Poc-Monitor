@@ -154,6 +154,31 @@
 - [amitlttwo/CVE-2022-46381](https://github.com/amitlttwo/CVE-2022-46381)	<img alt="forks" src="https://img.shields.io/github/forks/amitlttwo/CVE-2022-46381">	<img alt="stars" src="https://img.shields.io/github/stars/amitlttwo/CVE-2022-46381">
 
 ---
+## CVE-2022-46344 (2022-12-14T21:15:00)
+> A vulnerability was found in X.Org. This security flaw occurs because the handler for the XIChangeProperty request has a length-validation issues, resulting in out-of-bounds memory reads and potential information disclosure. This issue can lead to local privileges elevation on systems where the X server is running privileged and remote code execution for ssh X forwarding sessions.
+- [Live-Hack-CVE/CVE-2022-46344](https://github.com/Live-Hack-CVE/CVE-2022-46344)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46344">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46344">
+
+---
+## CVE-2022-46343 (2022-12-14T21:15:00)
+> A vulnerability was found in X.Org. This security flaw occurs because the handler for the ScreenSaverSetAttributes request may write to memory after it has been freed. This issue can lead to local privileges elevation on systems where the X server is running privileged and remote code execution for ssh X forwarding sessions.
+- [Live-Hack-CVE/CVE-2022-46343](https://github.com/Live-Hack-CVE/CVE-2022-46343)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46343">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46343">
+
+---
+## CVE-2022-46342 (2022-12-14T21:15:00)
+> A vulnerability was found in X.Org. This security flaw occurs because the handler for the XvdiSelectVideoNotify request may write to memory after it has been freed. This issue can lead to local privileges elevation on systems where the X se
+- [Live-Hack-CVE/CVE-2022-46342](https://github.com/Live-Hack-CVE/CVE-2022-46342)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46342">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46342">
+
+---
+## CVE-2022-46341 (2022-12-14T21:15:00)
+> A vulnerability was found in X.Org. This security flaw occurs because the handler for the XIPassiveUngrab request accesses out-of-bounds memory when invoked with a high keycode or button code. This issue can lead to local privileges elevation on systems where the X server is running privileged and remote code execution for ssh X forwarding sessions.
+- [Live-Hack-CVE/CVE-2022-46341](https://github.com/Live-Hack-CVE/CVE-2022-46341)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46341">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46341">
+
+---
+## CVE-2022-46340 (2022-12-14T21:15:00)
+> A vulnerability was found in X.Org. This security flaw occurs becuase the swap handler for the XTestFakeInput request of the XTest extension may corrupt the stack if GenericEvents with lengths larger than 32 bytes are sent through a the XTestFakeInput request. This issue can lead to local privileges elevation on systems where the X server is running privileged and remote code execution for ssh X forwarding sessions. This issue does not affect systems where client and server use the same byte order.
+- [Live-Hack-CVE/CVE-2022-46340](https://github.com/Live-Hack-CVE/CVE-2022-46340)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46340">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46340">
+
+---
 ## CVE-2022-4633 (2022-12-21T19:15:00)
 > A vulnerability was found in Auto Upload Images 3.3.1 and classified as problematic. Affected by this issue is some unknown functionality of the file src/setting-page.php of the component Settings Handler. The manipulation leads to cross-site request forgery. The attack may be launched remotely. Upgrading to version 3.3.2 is able to address this issue. The name of the patch is 895770ee93887ec78429c78ffdfb865bee6f9436. It is recommended to upgrade the affected component. VDB-216482 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-4633](https://github.com/Live-Hack-CVE/CVE-2022-4633)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4633">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4633">
@@ -944,6 +969,16 @@
 ## CVE-2022-40317 (2022-09-09T17:15:00)
 > OpenKM 6.3.11 allows stored XSS related to the javascript&colon; substring in an A element.
 - [izdiwho/CVE-2022-40317](https://github.com/izdiwho/CVE-2022-40317)	<img alt="forks" src="https://img.shields.io/github/forks/izdiwho/CVE-2022-40317">	<img alt="stars" src="https://img.shields.io/github/stars/izdiwho/CVE-2022-40317">
+
+---
+## CVE-2022-40304 (2022-11-23T18:15:00)
+> An issue was discovered in libxml2 before 2.10.3. Certain invalid XML entity definitions can corrupt a hash table key, potentially leading to subsequent logic errors. In one case, a double-free can be provoked.
+- [Live-Hack-CVE/CVE-2022-40304](https://github.com/Live-Hack-CVE/CVE-2022-40304)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40304">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40304">
+
+---
+## CVE-2022-40303 (2022-11-23T00:15:00)
+> An issue was discovered in libxml2 before 2.10.3. When parsing a multi-gigabyte XML document with the XML_PARSE_HUGE parser option enabled, several integer counters can overflow. This results in an attempt to access an array at a negative 2GB offset, typically leading to a segmentation fault.
+- [Live-Hack-CVE/CVE-2022-40303](https://github.com/Live-Hack-CVE/CVE-2022-40303)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40303">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40303">
 
 ---
 ## CVE-2022-40146 (2022-09-22T15:15:00)
@@ -2140,6 +2175,11 @@
 - [a1ise/CVE-2022-29247](https://github.com/a1ise/CVE-2022-29247)	<img alt="forks" src="https://img.shields.io/github/forks/a1ise/CVE-2022-29247">	<img alt="stars" src="https://img.shields.io/github/stars/a1ise/CVE-2022-29247">
 
 ---
+## CVE-2022-29181 (2022-05-20T19:15:00)
+> Nokogiri is an open source XML and HTML library for Ruby. Nokogiri prior to version 1.13.6 does not type-check all inputs into the XML and HTML4 SAX parsers, allowing specially crafted untrusted inputs to cause illegal memory access errors (segfault) or reads from unrelated memory. Version 1.13.6 contains a patch for this issue. As a workaround, ensure the untrusted input is a `String` by calling `#to_s` or equivalent.
+- [Live-Hack-CVE/CVE-2022-29181](https://github.com/Live-Hack-CVE/CVE-2022-29181)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29181">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29181">
+
+---
 ## CVE-2022-29154 (2022-08-02T15:15:00)
 > An issue was discovered in rsync before 3.2.5 that allows malicious remote servers to write arbitrary files inside the directories of connecting peers. The server chooses which files/directories are sent to the client. However, the rsync client performs insufficient validation of file names. A malicious rsync server (or Man-in-The-Middle attacker) can overwrite arbitrary files in the rsync client target directory and subdirectories (for example, overwrite the .ssh/authorized_keys file).
 - [EgeBalci/CVE-2022-29154](https://github.com/EgeBalci/CVE-2022-29154)	<img alt="forks" src="https://img.shields.io/github/forks/EgeBalci/CVE-2022-29154">	<img alt="stars" src="https://img.shields.io/github/stars/EgeBalci/CVE-2022-29154">
@@ -2484,6 +2524,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-24853 (2022-04-14T22:15:00)
 > Metabase is an open source business intelligence and analytics application. Metabase has a proxy to load arbitrary URLs for JSON maps as part of our GeoJSON support. While we do validation to not return contents of arbitrary URLs, there is a case where a particularly crafted request could result in file access on windows, which allows enabling an `NTLM relay attack`, potentially allowing an attacker to receive the system password hash. If you use Windows and are on this version of Metabase, please upgrade immediately. The following patches (or greater versions) are available: 0.42.4 and 1.42.4, 0.41.7 and 1.41.7, 0.40.8 and 1.40.8.
 - [secure-77/CVE-2022-24853](https://github.com/secure-77/CVE-2022-24853)	<img alt="forks" src="https://img.shields.io/github/forks/secure-77/CVE-2022-24853">	<img alt="stars" src="https://img.shields.io/github/stars/secure-77/CVE-2022-24853">
+
+---
+## CVE-2022-24836 (2022-04-11T22:15:00)
+> Nokogiri is an open source XML and HTML library for Ruby. Nokogiri `< v1.13.4` contains an inefficient regular expression that is susceptible to excessive backtracking when attempting to detect encoding in HTML documents. Users are advised to upgrade to Nokogiri `>= 1.13.4`. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-24836](https://github.com/Live-Hack-CVE/CVE-2022-24836)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24836">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24836">
 
 ---
 ## CVE-2022-24780 (2022-04-05T19:15:00)
@@ -2967,6 +3012,111 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-20603 (2022-12-16T16:15:00)
 > In SetDecompContextDb of RohcDeCompContextOfRbId.cpp, there is a possible out of bounds write due to a missing bounds check. This could lead to remote code execution with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-219265339References: N/A
 - [Live-Hack-CVE/CVE-2022-20603](https://github.com/Live-Hack-CVE/CVE-2022-20603)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20603">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20603">
+
+---
+## CVE-2022-20602 (2022-12-16T16:15:00)
+> Product: AndroidVersions: Android kernelAndroid ID: A-211081867References: N/A
+- [Live-Hack-CVE/CVE-2022-20602](https://github.com/Live-Hack-CVE/CVE-2022-20602)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20602">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20602">
+
+---
+## CVE-2022-20601 (2022-12-16T16:15:00)
+> Product: AndroidVersions: Android kernelAndroid ID: A-204541506References: N/A
+- [Live-Hack-CVE/CVE-2022-20601](https://github.com/Live-Hack-CVE/CVE-2022-20601)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20601">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20601">
+
+---
+## CVE-2022-20600 (2022-12-16T16:15:00)
+> In TBD of TBD, there is a possible out of bounds write due to memory corruption. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-239847859References: N/A
+- [Live-Hack-CVE/CVE-2022-20600](https://github.com/Live-Hack-CVE/CVE-2022-20600)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20600">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20600">
+
+---
+## CVE-2022-20599 (2022-12-16T16:15:00)
+> In Pixel firmware, there is a possible exposure of sensitive memory due to a missing bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-242332706References: N/A
+- [Live-Hack-CVE/CVE-2022-20599](https://github.com/Live-Hack-CVE/CVE-2022-20599)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20599">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20599">
+
+---
+## CVE-2022-20598 (2022-12-16T16:15:00)
+> In sec_media_protect of media.c, there is a possible EoP due to an integer overflow. This could lead to local escalation of privilege of secure mode MFC Core with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-242357514References: N/A
+- [Live-Hack-CVE/CVE-2022-20598](https://github.com/Live-Hack-CVE/CVE-2022-20598)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20598">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20598">
+
+---
+## CVE-2022-20597 (2022-12-16T16:15:00)
+> In ppmpu_set of ppmpu.c, there is a possible EoP due to an integer overflow. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-243480506References: N/A
+- [Live-Hack-CVE/CVE-2022-20597](https://github.com/Live-Hack-CVE/CVE-2022-20597)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20597">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20597">
+
+---
+## CVE-2022-20596 (2022-12-16T16:15:00)
+> In sendChunk of WirelessCharger.cpp, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-239700400References: N/A
+- [Live-Hack-CVE/CVE-2022-20596](https://github.com/Live-Hack-CVE/CVE-2022-20596)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20596">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20596">
+
+---
+## CVE-2022-20595 (2022-12-16T16:15:00)
+> In getWpcAuthChallengeResponse of WirelessCharger.cpp, there is a possible out of bounds read due to a missing bounds check. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-239700137References: N/A
+- [Live-Hack-CVE/CVE-2022-20595](https://github.com/Live-Hack-CVE/CVE-2022-20595)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20595">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20595">
+
+---
+## CVE-2022-20594 (2022-12-16T16:15:00)
+> In updateStart of WirelessCharger.cpp, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-239567689References: N/A
+- [Live-Hack-CVE/CVE-2022-20594](https://github.com/Live-Hack-CVE/CVE-2022-20594)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20594">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20594">
+
+---
+## CVE-2022-20593 (2022-12-16T16:15:00)
+> In pop_descriptor_string of BufferDescriptor.h, there is a possible out of bounds read due to a missing bounds check. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-239415809References: N/A
+- [Live-Hack-CVE/CVE-2022-20593](https://github.com/Live-Hack-CVE/CVE-2022-20593)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20593">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20593">
+
+---
+## CVE-2022-20592 (2022-12-16T16:15:00)
+> In ppmp_validate_secbuf of drm_fw.c, there is a possible information disclosure due to improper input validation. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-238976908References: N/A
+- [Live-Hack-CVE/CVE-2022-20592](https://github.com/Live-Hack-CVE/CVE-2022-20592)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20592">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20592">
+
+---
+## CVE-2022-20591 (2022-12-16T16:15:00)
+> In ppmpu_set of ppmpu.c, there is a possible information disclosure due to a logic error in the code. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-238939706References: N/A
+- [Live-Hack-CVE/CVE-2022-20591](https://github.com/Live-Hack-CVE/CVE-2022-20591)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20591">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20591">
+
+---
+## CVE-2022-20590 (2022-12-16T16:15:00)
+> In valid_va_sec_mfc_check of drm_access_control.c, there is a possible information disclosure due to improper input validation. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-238932493References: N/A
+- [Live-Hack-CVE/CVE-2022-20590](https://github.com/Live-Hack-CVE/CVE-2022-20590)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20590">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20590">
+
+---
+## CVE-2022-20589 (2022-12-16T16:15:00)
+> In valid_va_secbuf_check of drm_access_control.c, there is a possible ID due to improper input validation. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-238841928References: N/A
+- [Live-Hack-CVE/CVE-2022-20589](https://github.com/Live-Hack-CVE/CVE-2022-20589)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20589">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20589">
+
+---
+## CVE-2022-20588 (2022-12-16T16:15:00)
+> In sysmmu_map of sysmmu.c, there is a possible EoP due to a precondition check failure. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-238785915References: N/A
+- [Live-Hack-CVE/CVE-2022-20588](https://github.com/Live-Hack-CVE/CVE-2022-20588)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20588">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20588">
+
+---
+## CVE-2022-20587 (2022-12-16T16:15:00)
+> In ppmp_validate_wsm of drm_fw.c, there is a possible EoP due to improper input validation. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-238720411References: N/A
+- [Live-Hack-CVE/CVE-2022-20587](https://github.com/Live-Hack-CVE/CVE-2022-20587)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20587">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20587">
+
+---
+## CVE-2022-20586 (2022-12-16T16:15:00)
+> In valid_out_of_special_sec_dram_addr of drm_access_control.c, there is a possible EoP due to improper input validation. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-238718854References: N/A
+- [Live-Hack-CVE/CVE-2022-20586](https://github.com/Live-Hack-CVE/CVE-2022-20586)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20586">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20586">
+
+---
+## CVE-2022-20585 (2022-12-16T16:15:00)
+> In valid_out_of_special_sec_dram_addr of drm_access_control.c, there is a possible EoP due to improper input validation. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-238716781References: N/A
+- [Live-Hack-CVE/CVE-2022-20585](https://github.com/Live-Hack-CVE/CVE-2022-20585)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20585">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20585">
+
+---
+## CVE-2022-20584 (2022-12-16T16:15:00)
+> In page_number of shared_mem.c, there is a possible code execution in secure world due to improper input validation. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-238366009References: N/A
+- [Live-Hack-CVE/CVE-2022-20584](https://github.com/Live-Hack-CVE/CVE-2022-20584)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20584">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20584">
+
+---
+## CVE-2022-20583 (2022-12-16T16:15:00)
+> In ppmp_unprotect_mfcfw_buf of drm_fw.c, there is a possible out of bounds write due to improper input validation. This could lead to local escalation of privilege in S-EL1 with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-234859169References: N/A
+- [Live-Hack-CVE/CVE-2022-20583](https://github.com/Live-Hack-CVE/CVE-2022-20583)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20583">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20583">
+
+---
+## CVE-2022-20582 (2022-12-16T16:15:00)
+> In ppmp_unprotect_mfcfw_buf of drm_fw.c, there is a possible out of bounds write due to improper input validation. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-233645166References: N/A
+- [Live-Hack-CVE/CVE-2022-20582](https://github.com/Live-Hack-CVE/CVE-2022-20582)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20582">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20582">
 
 ---
 ## CVE-2022-20581 (2022-12-16T16:15:00)
