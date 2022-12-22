@@ -68,6 +68,21 @@
 - [Live-Hack-CVE/CVE-2022-47581](https://github.com/Live-Hack-CVE/CVE-2022-47581)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47581">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47581">
 
 ---
+## CVE-2022-47549 (2022-12-19T09:15:00)
+> An unprotected memory-access operation in optee_os in TrustedFirmware Open Portable Trusted Execution Environment (OP-TEE) before 3.20 allows a physically proximate adversary to bypass signature verification and install malicious trusted applications via electromagnetic fault injections.
+- [Live-Hack-CVE/CVE-2022-47549](https://github.com/Live-Hack-CVE/CVE-2022-47549)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47549">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47549">
+
+---
+## CVE-2022-47547 (2022-12-19T09:15:00)
+> GossipSub 1.1, as used for Ethereum 2.0, allows a peer to maintain a positive score (and thus not be pruned from the network) even though it continuously misbehaves by never forwarding topic messages.
+- [Live-Hack-CVE/CVE-2022-47547](https://github.com/Live-Hack-CVE/CVE-2022-47547)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47547">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47547">
+
+---
+## CVE-2022-47500 (2022-12-19T11:15:00)
+> URL Redirection to Untrusted Site ('Open Redirect') vulnerability in Apache Software Foundation Apache Helix UI component.This issue affects Apache Helix all releases from 0.8.0 to 1.0.4. Solution: removed the the forward component since it was improper designed for UI embedding. User please upgrade to 1.1.0 to fix this issue.
+- [Live-Hack-CVE/CVE-2022-47500](https://github.com/Live-Hack-CVE/CVE-2022-47500)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47500">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47500">
+
+---
 ## CVE-2022-47377 (2022-12-16T15:15:00)
 > Password recovery vulnerability in SICK SIM2000ST Partnumber 2086502 with firmware version <1.13.4 allows an unprivileged remote attacker to gain access to the userlevel defined as RecoverableUserLevel by invocating the password recovery mechanism method. This leads to an increase in their privileges on the system and thereby affecting the confidentiality integrity and availability of the system. An attacker can expect repeatable success by exploiting the vulnerability. The recommended solution is to update the firmware to a version >= 1.13.4 as soon as possible (available in SICK Support Portal).
 - [Live-Hack-CVE/CVE-2022-47377](https://github.com/Live-Hack-CVE/CVE-2022-47377)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47377">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47377">
@@ -354,6 +369,11 @@
 - [Live-Hack-CVE/CVE-2022-46139](https://github.com/Live-Hack-CVE/CVE-2022-46139)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46139">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46139">
 
 ---
+## CVE-2022-4609 (2022-12-19T12:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository usememos/memos prior to 0.9.0.
+- [Live-Hack-CVE/CVE-2022-4609](https://github.com/Live-Hack-CVE/CVE-2022-4609)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4609">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4609">
+
+---
 ## CVE-2022-46076 (2022-12-20T17:15:00)
 > D-Link DIR-869 DIR869Ax_FW102B15 is vulnerable to Authentication Bypass via phpcgi.
 - [Live-Hack-CVE/CVE-2022-46076](https://github.com/Live-Hack-CVE/CVE-2022-46076)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46076">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46076">
@@ -515,6 +535,11 @@
 - [Live-Hack-CVE/CVE-2022-44756](https://github.com/Live-Hack-CVE/CVE-2022-44756)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44756">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44756">
 
 ---
+## CVE-2022-44755 (2022-12-19T11:15:00)
+> IBM Notes is susceptible to a stack based buffer overflow vulnerability in lasr.dll in Micro Focus KeyView. This could allow a remote unauthenticated attacker to crash the application or execute arbitrary code via a crafted Lotus Ami Pro file. This is different from the vulnerability described in CVE-2022-44751.
+- [Live-Hack-CVE/CVE-2022-44755](https://github.com/Live-Hack-CVE/CVE-2022-44755)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44755">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44755">
+
+---
 ## CVE-2022-44721 (2022-12-04T05:15:00)
 > CrowdStrike Falcon 6.44.15806 allows an administrative attacker to uninstall Falcon Sensor, bypassing the intended protection mechanism in which uninstallation requires possessing a one-time token. (The sensor is managed at the kernel level.)
 - [purplededa/CVE-2022-44721-CsFalconUninstaller](https://github.com/purplededa/CVE-2022-44721-CsFalconUninstaller)	<img alt="forks" src="https://img.shields.io/github/forks/purplededa/CVE-2022-44721-CsFalconUninstaller">	<img alt="stars" src="https://img.shields.io/github/stars/purplededa/CVE-2022-44721-CsFalconUninstaller">
@@ -584,6 +609,11 @@
 ## CVE-2022-44462 (2022-12-16T16:15:00)
 > Adobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.
 - [Live-Hack-CVE/CVE-2022-44462](https://github.com/Live-Hack-CVE/CVE-2022-44462)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44462">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44462">
+
+---
+## CVE-2022-4427 (2022-12-19T09:15:00)
+> Improper Input Validation vulnerability in OTRS AG OTRS, OTRS AG ((OTRS)) Community Edition allows SQL Injection via TicketSearch Webservice This issue affects OTRS: from 7.0.1 before 7.0.40 Patch 1, from 8.0.1 before 8.0.28 Patch 1; ((OTRS)) Community Edition: from 6.0.1 through 6.0.34.
+- [Live-Hack-CVE/CVE-2022-4427](https://github.com/Live-Hack-CVE/CVE-2022-4427)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4427">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4427">
 
 ---
 ## CVE-2022-44215 ()
@@ -664,6 +694,11 @@
 ## CVE-2022-42916 (2022-10-29T02:15:00)
 > In curl before 7.86.0, the HSTS check could be bypassed to trick it into staying with HTTP. Using its HSTS support, curl can be instructed to use HTTPS directly (instead of using an insecure cleartext HTTP step) even when HTTP is provided in the URL. This mechanism could be bypassed if the host name in the given URL uses IDN characters that get replaced with ASCII counterparts as part of the IDN conversion, e.g., using the character UTF-8 U+3002 (IDEOGRAPHIC FULL STOP) instead of the common ASCII full stop of U+002E (.). The earliest affected version is 7.77.0 2021-05-26.
 - [Live-Hack-CVE/CVE-2022-42916](https://github.com/Live-Hack-CVE/CVE-2022-42916)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42916">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42916">
+
+---
+## CVE-2022-42915 (2022-10-29T20:15:00)
+> curl before 7.86.0 has a double free. If curl is told to use an HTTP proxy for a transfer with a non-HTTP(S) URL, it sets up the connection to the remote server by issuing a CONNECT request to the proxy, and then tunnels the rest of the protocol through. An HTTP proxy might refuse this request (HTTP proxies often only allow outgoing connections to specific port numbers, like 443 for HTTPS) and instead return a non-200 status code to the client. Due to flaws in the error/cleanup handling, this could trigger a double free in curl if one of the following schemes were used in the URL for the transfer: dict, gopher, gophers, ldap, ldaps, rtmp, rtmps, or telnet. The earliest affected version is 7.77.0.
+- [Live-Hack-CVE/CVE-2022-42915](https://github.com/Live-Hack-CVE/CVE-2022-42915)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42915">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42915">
 
 ---
 ## CVE-2022-42899 (2022-10-13T03:15:00)
@@ -1269,6 +1304,11 @@
 - [Live-Hack-CVE/CVE-2022-40841](https://github.com/Live-Hack-CVE/CVE-2022-40841)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40841">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40841">
 
 ---
+## CVE-2022-40743 (2022-12-19T12:15:00)
+> Improper Input Validation vulnerability for the xdebug plugin in Apache Software Foundation Apache Traffic Server can lead to cross site scripting and cache poisoning attacks.This issue affects Apache Traffic Server: 9.0.0 to 9.1.3. Users should upgrade to 9.1.4 or later versions.
+- [Live-Hack-CVE/CVE-2022-40743](https://github.com/Live-Hack-CVE/CVE-2022-40743)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40743">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40743">
+
+---
 ## CVE-2022-40687 (2022-11-18T19:15:00)
 > Cross-Site Request Forgery (CSRF) vulnerability in Creative Mail plugin <= 1.5.4 on WordPress.
 - [williamkhepri/CVE-2022-40687-metasploit-scanner](https://github.com/williamkhepri/CVE-2022-40687-metasploit-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/williamkhepri/CVE-2022-40687-metasploit-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/williamkhepri/CVE-2022-40687-metasploit-scanner">
@@ -1404,6 +1444,11 @@
 - [Urban4/CVE-2022-3992](https://github.com/Urban4/CVE-2022-3992)	<img alt="forks" src="https://img.shields.io/github/forks/Urban4/CVE-2022-3992">	<img alt="stars" src="https://img.shields.io/github/stars/Urban4/CVE-2022-3992">
 
 ---
+## CVE-2022-39842 (2022-09-05T07:15:00)
+> ** DISPUTED ** An issue was discovered in the Linux kernel before 5.19. In pxa3xx_gcu_write in drivers/video/fbdev/pxa3xx-gcu.c, the count parameter has a type conflict of size_t versus int, causing an integer overflow and bypassing the size check. After that, because it is used as the third argument to copy_from_user(), a heap overflow may occur. NOTE: the original discoverer disputes that the overflow can actually happen.
+- [Live-Hack-CVE/CVE-2022-39842](https://github.com/Live-Hack-CVE/CVE-2022-39842)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39842">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39842">
+
+---
 ## CVE-2022-39841 ()
 > 
 - [stealthcopter/CVE-2022-39841](https://github.com/stealthcopter/CVE-2022-39841)	<img alt="forks" src="https://img.shields.io/github/forks/stealthcopter/CVE-2022-39841">	<img alt="stars" src="https://img.shields.io/github/stars/stealthcopter/CVE-2022-39841">
@@ -1425,9 +1470,35 @@
 - [maikroservice/CVE-2022-3949](https://github.com/maikroservice/CVE-2022-3949)	<img alt="forks" src="https://img.shields.io/github/forks/maikroservice/CVE-2022-3949">	<img alt="stars" src="https://img.shields.io/github/stars/maikroservice/CVE-2022-3949">
 
 ---
+## CVE-2022-39426 (2022-10-18T21:15:00)
+> Vulnerability in the Oracle VM VirtualBox product of Oracle Virtualization (component: Core). Supported versions that are affected are Prior to 6.1.40. Difficult to exploit vulnerability allows unauthenticated attacker with network access via VRDP to compromise Oracle VM VirtualBox. Successful attacks of this vulnerability can result in takeover of Oracle VM VirtualBox. CVSS 3.1 Base Score 8.1 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H).
+- [Live-Hack-CVE/CVE-2022-39426](https://github.com/Live-Hack-CVE/CVE-2022-39426)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39426">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39426">
+
+---
 ## CVE-2022-39425 (2022-10-18T21:15:00)
 > Vulnerability in the Oracle VM VirtualBox product of Oracle Virtualization (component: Core). Supported versions that are affected are Prior to 6.1.40. Difficult to exploit vulnerability allows unauthenticated attacker with network access via VRDP to compromise Oracle VM VirtualBox. Successful attacks of this vulnerability can result in takeover of Oracle VM VirtualBox. CVSS 3.1 Base Score 8.1 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H).
 - [bob11vrdp/CVE-2022-39425](https://github.com/bob11vrdp/CVE-2022-39425)	<img alt="forks" src="https://img.shields.io/github/forks/bob11vrdp/CVE-2022-39425">	<img alt="stars" src="https://img.shields.io/github/stars/bob11vrdp/CVE-2022-39425">
+- [Live-Hack-CVE/CVE-2022-39425](https://github.com/Live-Hack-CVE/CVE-2022-39425)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39425">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39425">
+
+---
+## CVE-2022-39424 (2022-10-18T21:15:00)
+> Vulnerability in the Oracle VM VirtualBox product of Oracle Virtualization (component: Core). Supported versions that are affected are Prior to 6.1.40. Difficult to exploit vulnerability allows unauthenticated attacker with network access via VRDP to compromise Oracle VM VirtualBox. Successful attacks of this vulnerability can result in takeover of Oracle VM VirtualBox. CVSS 3.1 Base Score 8.1 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H).
+- [Live-Hack-CVE/CVE-2022-39424](https://github.com/Live-Hack-CVE/CVE-2022-39424)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39424">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39424">
+
+---
+## CVE-2022-39423 (2022-10-18T21:15:00)
+> Vulnerability in the Oracle VM VirtualBox product of Oracle Virtualization (component: Core). Supported versions that are affected are Prior to 6.1.38. Easily exploitable vulnerability allows high privileged attacker with logon to the infrastructure where Oracle VM VirtualBox executes to compromise Oracle VM VirtualBox. While the vulnerability is in Oracle VM VirtualBox, attacks may significantly impact additional products (scope change). Successful attacks of this vulnerability can result in unauthorized access to critical data or complete access to all Oracle VM VirtualBox accessible data. CVSS 3.1 Base Score 6.0 (Confidentiality impacts). CVSS Vector: (CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:C/C:H/I:N/A:N).
+- [Live-Hack-CVE/CVE-2022-39423](https://github.com/Live-Hack-CVE/CVE-2022-39423)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39423">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39423">
+
+---
+## CVE-2022-39422 (2022-10-18T21:15:00)
+> Vulnerability in the Oracle VM VirtualBox product of Oracle Virtualization (component: Core). Supported versions that are affected are Prior to 6.1.38. Difficult to exploit vulnerability allows high privileged attacker with logon to the infrastructure where Oracle VM VirtualBox executes to compromise Oracle VM VirtualBox. While the vulnerability is in Oracle VM VirtualBox, attacks may significantly impact additional products (scope change). Successful attacks of this vulnerability can result in takeover of Oracle VM VirtualBox. CVSS 3.1 Base Score 7.5 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:L/AC:H/PR:H/UI:N/S:C/C:H/I:H/A:H).
+- [Live-Hack-CVE/CVE-2022-39422](https://github.com/Live-Hack-CVE/CVE-2022-39422)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39422">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39422">
+
+---
+## CVE-2022-39421 (2022-10-18T21:15:00)
+> Vulnerability in the Oracle VM VirtualBox product of Oracle Virtualization (component: Core). Supported versions that are affected are Prior to 6.1.40. Easily exploitable vulnerability allows low privileged attacker with logon to the infrastructure where Oracle VM VirtualBox executes to compromise Oracle VM VirtualBox. Successful attacks require human interaction from a person other than the attacker. Successful attacks of this vulnerability can result in takeover of Oracle VM VirtualBox. Note: This vulnerability applies to Windows systems only. CVSS 3.1 Base Score 7.3 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:H).
+- [Live-Hack-CVE/CVE-2022-39421](https://github.com/Live-Hack-CVE/CVE-2022-39421)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39421">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39421">
 
 ---
 ## CVE-2022-3942 (2022-11-11T08:15:00)
@@ -1601,6 +1672,11 @@
 ## CVE-2022-37401 (2022-08-15T11:21:00)
 > Apache OpenOffice supports the storage of passwords for web connections in the user's configuration database. The stored passwords are encrypted with a single master key provided by the user. A flaw in OpenOffice existed where master key was poorly encoded resulting in weakening its entropy from 128 to 43 bits making the stored passwords vulnerable to a brute force attack if an attacker has access to the users stored config. This issue affects: Apache OpenOffice versions prior to 4.1.13. Reference: CVE-2022-26307 - LibreOffice
 - [Live-Hack-CVE/CVE-2022-37401](https://github.com/Live-Hack-CVE/CVE-2022-37401)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37401">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37401">
+
+---
+## CVE-2022-37392 (2022-12-19T11:15:00)
+> Improper Check for Unusual or Exceptional Conditions vulnerability in handling the requests to Apache Traffic Server. This issue affects Apache Traffic Server 8.0.0 to 9.1.2.
+- [Live-Hack-CVE/CVE-2022-37392](https://github.com/Live-Hack-CVE/CVE-2022-37392)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37392">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37392">
 
 ---
 ## CVE-2022-37298 (2022-10-20T11:15:00)
@@ -1910,6 +1986,16 @@
 - [OneByt3/CVE-2022-35405](https://github.com/OneByt3/CVE-2022-35405)	<img alt="forks" src="https://img.shields.io/github/forks/OneByt3/CVE-2022-35405">	<img alt="stars" src="https://img.shields.io/github/stars/OneByt3/CVE-2022-35405">
 
 ---
+## CVE-2022-35260 (2022-12-05T22:15:00)
+> curl can be told to parse a `.netrc` file for credentials. If that file endsin a line with 4095 consecutive non-white space letters and no newline, curlwould first read past the end of the stack-based buffer, and if the readworks, write a zero byte beyond its boundary.This will in most cases cause a segfault or similar, but circumstances might also cause different outcomes.If a malicious user can provide a custom netrc file to an application or otherwise affect its contents, this flaw could be used as denial-of-service.
+- [Live-Hack-CVE/CVE-2022-35260](https://github.com/Live-Hack-CVE/CVE-2022-35260)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35260">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35260">
+
+---
+## CVE-2022-35252 (2022-09-23T14:15:00)
+> When curl is used to retrieve and parse cookies from a HTTP(S) server, itaccepts cookies using control codes that when later are sent back to a HTTPserver might make the server return 400 responses. Effectively allowing a"sister site" to deny service to all siblings.
+- [Live-Hack-CVE/CVE-2022-35252](https://github.com/Live-Hack-CVE/CVE-2022-35252)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35252">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35252">
+
+---
 ## CVE-2022-3518 (2022-10-15T10:15:00)
 > A vulnerability classified as problematic has been found in SourceCodester Sanitization Management System 1.0. Affected is an unknown function of the component User Creation Handler. The manipulation of the argument First Name/Middle Name/Last Name leads to cross site scripting. It is possible to launch the attack remotely. VDB-211014 is the identifier assigned to this vulnerability.
 - [lohith19/CVE-2022-3518](https://github.com/lohith19/CVE-2022-3518)	<img alt="forks" src="https://img.shields.io/github/forks/lohith19/CVE-2022-3518">	<img alt="stars" src="https://img.shields.io/github/stars/lohith19/CVE-2022-3518">
@@ -1959,6 +2045,11 @@
 ## CVE-2022-3481 (2022-11-07T10:15:00)
 > The WooCommerce Dropshipping WordPress plugin before 4.4 does not properly sanitise and escape a parameter before using it in a SQL statement via a REST endpoint available to unauthenticated users, leading to a SQL injection
 - [Live-Hack-CVE/CVE-2022-3481](https://github.com/Live-Hack-CVE/CVE-2022-3481)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3481">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3481">
+
+---
+## CVE-2022-3479 (2022-10-14T17:15:00)
+> A vulnerability found in nss. By this security vulnerability, nss client auth crash without a user certificate in the database and this can lead us to a segmentation fault or crash.
+- [Live-Hack-CVE/CVE-2022-3479](https://github.com/Live-Hack-CVE/CVE-2022-3479)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3479">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3479">
 
 ---
 ## CVE-2022-34729 (2022-09-13T19:15:00)
@@ -2097,6 +2188,11 @@
 - [AkbarTrilaksana/CVE-2022-32832](https://github.com/AkbarTrilaksana/CVE-2022-32832)	<img alt="forks" src="https://img.shields.io/github/forks/AkbarTrilaksana/CVE-2022-32832">	<img alt="stars" src="https://img.shields.io/github/stars/AkbarTrilaksana/CVE-2022-32832">
 
 ---
+## CVE-2022-32749 (2022-12-19T11:15:00)
+> Improper Check for Unusual or Exceptional Conditions vulnerability handling requests in Apache Traffic Server allows an attacker to crash the server under certain conditions. This issue affects Apache Traffic Server: from 8.0.0 through 9.1.3.
+- [Live-Hack-CVE/CVE-2022-32749](https://github.com/Live-Hack-CVE/CVE-2022-32749)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32749">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32749">
+
+---
 ## CVE-2022-32548 (2022-08-29T06:15:00)
 > An issue was discovered on certain DrayTek Vigor routers before July 2022 such as the Vigor3910 before 4.3.1.1. /cgi-bin/wlogin.cgi has a buffer overflow via the username or password to the aa or ab field.
 - [Expl0desploit/CVE-2022-32548](https://github.com/Expl0desploit/CVE-2022-32548)	<img alt="forks" src="https://img.shields.io/github/forks/Expl0desploit/CVE-2022-32548">	<img alt="stars" src="https://img.shields.io/github/stars/Expl0desploit/CVE-2022-32548">
@@ -2152,6 +2248,11 @@
 - [ooooooo-q/cve-2022-32224-rails](https://github.com/ooooooo-q/cve-2022-32224-rails)	<img alt="forks" src="https://img.shields.io/github/forks/ooooooo-q/cve-2022-32224-rails">	<img alt="stars" src="https://img.shields.io/github/stars/ooooooo-q/cve-2022-32224-rails">
 
 ---
+## CVE-2022-32221 (2022-12-05T22:15:00)
+> When doing HTTP(S) transfers, libcurl might erroneously use the read callback (`CURLOPT_READFUNCTION`) to ask for data to send, even when the `CURLOPT_POSTFIELDS` option has been set, if the same handle previously was used to issue a `PUT` request which used that callback. This flaw may surprise the application and cause it to misbehave and either send off the wrong data or use memory after free or similar in the subsequent `POST` request. The problem exists in the logic for a reused handle when it is changed from a PUT to a POST.
+- [Live-Hack-CVE/CVE-2022-32221](https://github.com/Live-Hack-CVE/CVE-2022-32221)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32221">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32221">
+
+---
 ## CVE-2022-32119 (2022-07-15T12:15:00)
 > Arox School ERP Pro v1.0 was discovered to contain multiple arbitrary file upload vulnerabilities via the Add Photo function at photogalleries.inc.php and the import staff excel function at 1finance_master.inc.php.
 - [JC175/CVE-2022-32119](https://github.com/JC175/CVE-2022-32119)	<img alt="forks" src="https://img.shields.io/github/forks/JC175/CVE-2022-32119">	<img alt="stars" src="https://img.shields.io/github/stars/JC175/CVE-2022-32119">
@@ -2171,6 +2272,11 @@
 ## CVE-2022-32060 (2022-07-07T23:15:00)
 > An arbitrary file upload vulnerability in the Update Branding Settings component of Snipe-IT v6.0.2 allows attackers to execute arbitrary code via a crafted file.
 - [bypazs/CVE-2022-32060](https://github.com/bypazs/CVE-2022-32060)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/CVE-2022-32060">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/CVE-2022-32060">
+
+---
+## CVE-2022-3204 (2022-09-26T14:15:00)
+> A vulnerability named 'Non-Responsive Delegation Attack' (NRDelegation Attack) has been discovered in various DNS resolving software. The NRDelegation Attack works by having a malicious delegation with a considerable number of non responsive nameservers. The attack starts by querying a resolver for a record that relies on those unresponsive nameservers. The attack can cause a resolver to spend a lot of time/resources resolving records under a malicious delegation point where a considerable number of unresponsive NS records reside. It can trigger high CPU usage in some resolver implementations that continually look in the cache for resolved NS records in that delegation. This can lead to degraded performance and eventually denial of service in orchestrated attacks. Unbound does not suffer from high CPU usage, but resources are still needed for resolving the malicious delegation. Unbound will keep trying to resolve the record until hard limits are reached. Based on the nature of the attack and the replies, different limits could be reached. From version 1.16.3 on, Unbound introduces fixes for better performance when under load, by cutting opportunistic queries for nameserver discovery and DNSKEY prefetching and limiting the number of times a delegation point can issue a cache lookup for missing records.
+- [Live-Hack-CVE/CVE-2022-3204](https://github.com/Live-Hack-CVE/CVE-2022-3204)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3204">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3204">
 
 ---
 ## CVE-2022-31901 ()
@@ -2265,6 +2371,11 @@
 ## CVE-2022-31403 (2022-06-14T17:15:00)
 > ITOP v3.0.1 was discovered to contain a cross-site scripting (XSS) vulnerability via /itop/pages/ajax.render.php.
 - [IbrahimEkimIsik/CVE-2022-31403](https://github.com/IbrahimEkimIsik/CVE-2022-31403)	<img alt="forks" src="https://img.shields.io/github/forks/IbrahimEkimIsik/CVE-2022-31403">	<img alt="stars" src="https://img.shields.io/github/stars/IbrahimEkimIsik/CVE-2022-31403">
+
+---
+## CVE-2022-3140 (2022-10-11T21:15:00)
+> LibreOffice supports Office URI Schemes to enable browser integration of LibreOffice with MS SharePoint server. An additional scheme 'vnd.libreoffice.command' specific to LibreOffice was added. In the affected versions of LibreOffice links using that scheme could be constructed to call internal macros with arbitrary arguments. Which when clicked on, or activated by document events, could result in arbitrary script execution without warning. This issue affects: The Document Foundation LibreOffice 7.4 versions prior to 7.4.1; 7.3 versions prior to 7.3.6.
+- [Live-Hack-CVE/CVE-2022-3140](https://github.com/Live-Hack-CVE/CVE-2022-3140)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3140">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3140">
 
 ---
 ## CVE-2022-31301 (2022-06-16T18:15:00)
@@ -2368,6 +2479,16 @@
 > Improper input validation check logic vulnerability in SECRIL prior to SMR Jun-2022 Release 1 allows attackers to trigger crash.
 - [bl4ckmenace/CVE-2022-30709](https://github.com/bl4ckmenace/CVE-2022-30709)	<img alt="forks" src="https://img.shields.io/github/forks/bl4ckmenace/CVE-2022-30709">	<img alt="stars" src="https://img.shields.io/github/stars/bl4ckmenace/CVE-2022-30709">
 - [bl4ckmenace/CVE-2022-30709](https://github.com/bl4ckmenace/CVE-2022-30709)	<img alt="forks" src="https://img.shields.io/github/forks/bl4ckmenace/CVE-2022-30709">	<img alt="stars" src="https://img.shields.io/github/stars/bl4ckmenace/CVE-2022-30709">
+
+---
+## CVE-2022-30699 (2022-08-01T15:15:00)
+> NLnet Labs Unbound, up to and including version 1.16.1, is vulnerable to a novel type of the "ghost domain names" attack. The vulnerability works by targeting an Unbound instance. Unbound is queried for a rogue domain name when the cached delegation information is about to expire. The rogue nameserver delays the response so that the cached delegation information is expired. Upon receiving the delayed answer containing the delegation information, Unbound overwrites the now expired entries. This action can be repeated when the delegation information is about to expire making the rogue delegation information ever-updating. From version 1.16.2 on, Unbound stores the start time for a query and uses that to decide if the cached delegation information can be overwritten.
+- [Live-Hack-CVE/CVE-2022-30699](https://github.com/Live-Hack-CVE/CVE-2022-30699)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30699">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30699">
+
+---
+## CVE-2022-30698 (2022-08-01T15:15:00)
+> NLnet Labs Unbound, up to and including version 1.16.1 is vulnerable to a novel type of the "ghost domain names" attack. The vulnerability works by targeting an Unbound instance. Unbound is queried for a subdomain of a rogue domain name. The rogue nameserver returns delegation information for the subdomain that updates Unbound's delegation cache. This action can be repeated before expiry of the delegation information by querying Unbound for a second level subdomain which the rogue nameserver provides new delegation information. Since Unbound is a child-centric resolver, the ever-updating child delegation information can keep a rogue domain name resolvable long after revocation. From version 1.16.2 on, Unbound checks the validity of parent delegation records before using cached delegation information.
+- [Live-Hack-CVE/CVE-2022-30698](https://github.com/Live-Hack-CVE/CVE-2022-30698)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30698">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30698">
 
 ---
 ## CVE-2022-30679 (2022-12-19T20:15:00)
@@ -3451,6 +3572,21 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [APTIRAN/CVE-2022-21661](https://github.com/APTIRAN/CVE-2022-21661)	<img alt="forks" src="https://img.shields.io/github/forks/APTIRAN/CVE-2022-21661">	<img alt="stars" src="https://img.shields.io/github/stars/APTIRAN/CVE-2022-21661">
 
 ---
+## CVE-2022-21627 (2022-10-18T21:15:00)
+> Vulnerability in the Oracle VM VirtualBox product of Oracle Virtualization (component: Core). Supported versions that are affected are Prior to 6.1.40. Easily exploitable vulnerability allows high privileged attacker with logon to the infrastructure where Oracle VM VirtualBox executes to compromise Oracle VM VirtualBox. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of Oracle VM VirtualBox. CVSS 3.1 Base Score 4.4 (Availability impacts). CVSS Vector: (CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).
+- [Live-Hack-CVE/CVE-2022-21627](https://github.com/Live-Hack-CVE/CVE-2022-21627)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21627">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21627">
+
+---
+## CVE-2022-21621 (2022-10-18T21:15:00)
+> Vulnerability in the Oracle VM VirtualBox product of Oracle Virtualization (component: Core). Supported versions that are affected are Prior to 6.1.40. Easily exploitable vulnerability allows high privileged attacker with logon to the infrastructure where Oracle VM VirtualBox executes to compromise Oracle VM VirtualBox. While the vulnerability is in Oracle VM VirtualBox, attacks may significantly impact additional products (scope change). Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of Oracle VM VirtualBox. CVSS 3.1 Base Score 6.0 (Availability impacts). CVSS Vector: (CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:C/C:N/I:N/A:H).
+- [Live-Hack-CVE/CVE-2022-21621](https://github.com/Live-Hack-CVE/CVE-2022-21621)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21621">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21621">
+
+---
+## CVE-2022-21620 (2022-10-18T21:15:00)
+> Vulnerability in the Oracle VM VirtualBox product of Oracle Virtualization (component: Core). Supported versions that are affected are Prior to 6.1.40. Difficult to exploit vulnerability allows high privileged attacker with logon to the infrastructure where Oracle VM VirtualBox executes to compromise Oracle VM VirtualBox. While the vulnerability is in Oracle VM VirtualBox, attacks may significantly impact additional products (scope change). Successful attacks of this vulnerability can result in takeover of Oracle VM VirtualBox. CVSS 3.1 Base Score 7.5 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:L/AC:H/PR:H/UI:N/S:C/C:H/I:H/A:H).
+- [Live-Hack-CVE/CVE-2022-21620](https://github.com/Live-Hack-CVE/CVE-2022-21620)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21620">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21620">
+
+---
 ## CVE-2022-21449 (2022-04-19T21:15:00)
 > Vulnerability in the Oracle Java SE, Oracle GraalVM Enterprise Edition product of Oracle Java SE (component: Libraries). Supported versions that are affected are Oracle Java SE: 17.0.2 and 18; Oracle GraalVM Enterprise Edition: 21.3.1 and 22.0.0.2. Easily exploitable vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise Oracle Java SE, Oracle GraalVM Enterprise Edition. Successful attacks of this vulnerability can result in unauthorized creation, deletion or modification access to critical data or all Oracle Java SE, Oracle GraalVM Enterprise Edition accessible data. Note: This vulnerability applies to Java deployments, typically in clients running sandboxed Java Web Start applications or sandboxed Java applets, that load and run untrusted code (e.g., code that comes from the internet) and rely on the Java sandbox for security. This vulnerability can also be exploited by using APIs in the specified Component, e.g., through a web service which supplies data to the APIs. CVSS 3.1 Base Score 7.5 (Integrity impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N).
 - [PyterSmithDarkGhost/CVE-2022-21449-TLS-PoC](https://github.com/PyterSmithDarkGhost/CVE-2022-21449-TLS-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/PyterSmithDarkGhost/CVE-2022-21449-TLS-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/PyterSmithDarkGhost/CVE-2022-21449-TLS-PoC">
@@ -4025,6 +4161,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-14733 ()
 > 
 - [hkzck/CVE-2022-14733](https://github.com/hkzck/CVE-2022-14733)	<img alt="forks" src="https://img.shields.io/github/forks/hkzck/CVE-2022-14733">	<img alt="stars" src="https://img.shields.io/github/stars/hkzck/CVE-2022-14733">
+
+---
+## CVE-2022-1471 (2022-12-01T11:15:00)
+> SnakeYaml's Constructor() class does not restrict types which can be instantiated during deserialization. Deserializing yaml content provided by an attacker can lead to remote code execution. We recommend using SnakeYaml's SafeConsturctor when parsing untrusted content to restrict deserialization.
+- [Live-Hack-CVE/CVE-2022-1471](https://github.com/Live-Hack-CVE/CVE-2022-1471)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1471">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1471">
 
 ---
 ## CVE-2022-1421 (2022-06-08T10:15:00)
