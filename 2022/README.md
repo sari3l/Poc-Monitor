@@ -2376,6 +2376,8 @@
 ## CVE-2022-3140 (2022-10-11T21:15:00)
 > LibreOffice supports Office URI Schemes to enable browser integration of LibreOffice with MS SharePoint server. An additional scheme 'vnd.libreoffice.command' specific to LibreOffice was added. In the affected versions of LibreOffice links using that scheme could be constructed to call internal macros with arbitrary arguments. Which when clicked on, or activated by document events, could result in arbitrary script execution without warning. This issue affects: The Document Foundation LibreOffice 7.4 versions prior to 7.4.1; 7.3 versions prior to 7.3.6.
 - [Live-Hack-CVE/CVE-2022-3140](https://github.com/Live-Hack-CVE/CVE-2022-3140)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3140">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3140">
+- [IbrahimEkimIsik/CVE-2022-31403](https://github.com/IbrahimEkimIsik/CVE-2022-31403)	<img alt="forks" src="https://img.shields.io/github/forks/IbrahimEkimIsik/CVE-2022-31403">	<img alt="stars" src="https://img.shields.io/github/stars/IbrahimEkimIsik/CVE-2022-31403">
+- [YavuzSahbaz/CVE-2022-31402](https://github.com/YavuzSahbaz/CVE-2022-31402)	<img alt="forks" src="https://img.shields.io/github/forks/YavuzSahbaz/CVE-2022-31402">	<img alt="stars" src="https://img.shields.io/github/stars/YavuzSahbaz/CVE-2022-31402">
 
 ---
 ## CVE-2022-31301 (2022-06-16T18:15:00)
