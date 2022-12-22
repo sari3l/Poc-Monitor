@@ -6,6 +6,56 @@
 - [r00t4dm/Jenkins-CVE-2016-9299](https://github.com/r00t4dm/Jenkins-CVE-2016-9299)	<img alt="forks" src="https://img.shields.io/github/forks/r00t4dm/Jenkins-CVE-2016-9299">	<img alt="stars" src="https://img.shields.io/github/stars/r00t4dm/Jenkins-CVE-2016-9299">
 
 ---
+## CVE-2016-8732 (2018-04-24T19:29:00)
+> Multiple security flaws exists in InvProtectDrv.sys which is a part of Invincea Dell Protected Workspace 5.1.1-22303. Weak restrictions on the driver communication channel and additional insufficient checks allow any application to turn off some of the protection mechanisms provided by the Invincea product.
+- [Live-Hack-CVE/CVE-2016-8732](https://github.com/Live-Hack-CVE/CVE-2016-8732)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-8732">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-8732">
+
+---
+## CVE-2016-8713 (2017-02-10T17:59:00)
+> A remote out of bound write / memory corruption vulnerability exists in the PDF parsing functionality of Nitro Pro 10.5.9.9. A specially crafted PDF file can cause a vulnerability resulting in potential memory corruption. An attacker can send the victim a specific PDF file to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2016-8713](https://github.com/Live-Hack-CVE/CVE-2016-8713)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-8713">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-8713">
+
+---
+## CVE-2016-8712 (2017-04-13T19:59:00)
+> An exploitable nonce reuse vulnerability exists in the Web Application functionality of Moxa AWK-3131A Wireless AP running firmware 1.1. The device uses one nonce for all session authentication requests and only changes the nonce if the web application has been idle for 300 seconds.
+- [Live-Hack-CVE/CVE-2016-8712](https://github.com/Live-Hack-CVE/CVE-2016-8712)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-8712">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-8712">
+
+---
+## CVE-2016-8711 (2017-02-10T17:59:00)
+> A potential remote code execution vulnerability exists in the PDF parsing functionality of Nitro Pro 10. A specially crafted PDF file can cause a vulnerability resulting in potential code execution. An attacker can send the victim a specific PDF file to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2016-8711](https://github.com/Live-Hack-CVE/CVE-2016-8711)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-8711">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-8711">
+
+---
+## CVE-2016-8710 (2017-01-26T21:59:00)
+> An exploitable heap write out of bounds vulnerability exists in the decoding of BPG images in Libbpg library. A crafted BPG image decoded by libbpg can cause an integer underflow vulnerability causing an out of bounds heap write leading to remote code execution. This vulnerability can be triggered via attempting to decode a crafted BPG image using Libbpg.
+- [Live-Hack-CVE/CVE-2016-8710](https://github.com/Live-Hack-CVE/CVE-2016-8710)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-8710">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-8710">
+
+---
+## CVE-2016-8709 (2017-02-10T17:59:00)
+> A remote out of bound write / memory corruption vulnerability exists in the PDF parsing functionality of Nitro Pro 10. A specially crafted PDF file can cause a vulnerability resulting in potential memory corruption. An attacker can send the victim a specific PDF file to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2016-8709](https://github.com/Live-Hack-CVE/CVE-2016-8709)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-8709">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-8709">
+
+---
+## CVE-2016-8707 (2016-12-23T22:59:00)
+> An exploitable out of bounds write exists in the handling of compressed TIFF images in ImageMagicks's convert utility. A crafted TIFF document can lead to an out of bounds write which in particular circumstances could be leveraged into remote code execution. The vulnerability can be triggered through any user controlled TIFF that is handled by this functionality.
+- [Live-Hack-CVE/CVE-2016-8707](https://github.com/Live-Hack-CVE/CVE-2016-8707)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-8707">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-8707">
+
+---
+## CVE-2016-8390 (2018-06-04T19:29:00)
+> An exploitable out of bounds write vulnerability exists in the parsing of ELF Section Headers of Hopper Disassembler 3.11.20. A specially crafted ELF file can cause attacker controlled pointer arithmetic resulting in a partially controlled out of bounds write. An attacker can craft an ELF file with specific section headers to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2016-8390](https://github.com/Live-Hack-CVE/CVE-2016-8390)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-8390">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-8390">
+
+---
+## CVE-2016-8389 (2017-02-28T15:59:00)
+> An exploitable integer-overflow vulnerability exists within Iceni Argus. When it attempts to convert a malformed PDF to XML, it will attempt to convert each character from a font into a polygon and then attempt to rasterize these shapes. As the application attempts to iterate through the rows and initializing the polygon shape in the buffer, it will write outside of the bounds of said buffer. This can lead to code execution under the context of the account running it.
+- [Live-Hack-CVE/CVE-2016-8389](https://github.com/Live-Hack-CVE/CVE-2016-8389)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-8389">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-8389">
+
+---
+## CVE-2016-8388 (2017-02-28T15:59:00)
+> An exploitable arbitrary heap-overwrite vulnerability exists within Iceni Argus. When it attempts to convert a malformed PDF to XML, it will explicitly trust an index within the specific font object and use it to write the font's name to a single object within an array of objects.
+- [Live-Hack-CVE/CVE-2016-8388](https://github.com/Live-Hack-CVE/CVE-2016-8388)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-8388">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-8388">
+
+---
 ## CVE-2016-5734 (2016-07-03T01:59:00)
 > phpMyAdmin 4.0.x before 4.0.10.16, 4.4.x before 4.4.15.7, and 4.6.x before 4.6.3 does not properly choose delimiters to prevent use of the preg_replace e (aka eval) modifier, which might allow remote attackers to execute arbitrary PHP code via a crafted string, as demonstrated by the table search-and-replace implementation.
 - [miko550/CVE-2016-5734-docker](https://github.com/miko550/CVE-2016-5734-docker)	<img alt="forks" src="https://img.shields.io/github/forks/miko550/CVE-2016-5734-docker">	<img alt="stars" src="https://img.shields.io/github/stars/miko550/CVE-2016-5734-docker">

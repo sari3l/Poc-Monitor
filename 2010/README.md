@@ -6,6 +6,16 @@
 - [lem0nSec/CVE-2010-5301](https://github.com/lem0nSec/CVE-2010-5301)	<img alt="forks" src="https://img.shields.io/github/forks/lem0nSec/CVE-2010-5301">	<img alt="stars" src="https://img.shields.io/github/stars/lem0nSec/CVE-2010-5301">
 
 ---
+## CVE-2010-4606 (2010-12-29T18:00:00)
+> Unspecified vulnerability in the Space Management client in the Hierarchical Storage Management (HSM) component in IBM Tivoli Storage Manager (TSM) 5.4.x before 5.4.3.4, 5.5.x before 5.5.3, 6.1.x before 6.1.4, and 6.2.x before 6.2.2 on Unix and Linux allows remote attackers to execute arbitrary commands via unknown vectors, related to a "script execution vulnerability."
+- [Live-Hack-CVE/CVE-2010-4606](https://github.com/Live-Hack-CVE/CVE-2010-4606)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-4606">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-4606">
+
+---
+## CVE-2010-4604 (2010-12-29T18:00:00)
+> Stack-based buffer overflow in the GeneratePassword function in dsmtca (aka the Trusted Communications Agent or TCA) in the backup-archive client in IBM Tivoli Storage Manager (TSM) 5.3.x before 5.3.6.10, 5.4.x before 5.4.3.4, 5.5.x before 5.5.2.10, and 6.1.x before 6.1.3.1 on Unix and Linux allows local users to gain privileges by specifying a long LANG environment variable, and then sending a request over a pipe.
+- [Live-Hack-CVE/CVE-2010-4604](https://github.com/Live-Hack-CVE/CVE-2010-4604)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-4604">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-4604">
+
+---
 ## CVE-2010-4502 (2010-12-08T20:00:00)
 > Integer overflow in KmxSbx.sys 6.2.0.22 in CA Internet Security Suite Plus 2010 allows local users to cause a denial of service (pool corruption) and execute arbitrary code via crafted arguments to the 0x88000080 IOCTL, which triggers a buffer overflow.
 - [Exploitables/CVE-2010-4502](https://github.com/Exploitables/CVE-2010-4502)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2010-4502">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2010-4502">

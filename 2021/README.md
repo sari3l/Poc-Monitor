@@ -797,6 +797,11 @@
 - [Live-Hack-CVE/CVE-2021-36408](https://github.com/Live-Hack-CVE/CVE-2021-36408)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36408">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36408">
 
 ---
+## CVE-2021-3638 (2022-03-03T23:15:00)
+> An out-of-bounds memory access flaw was found in the ATI VGA device emulation of QEMU. This flaw occurs in the ati_2d_blt() routine while handling MMIO write operations when the guest provides invalid values for the destination display parameters. A malicious guest could use this flaw to crash the QEMU process on the host, resulting in a denial of service.
+- [Live-Hack-CVE/CVE-2021-3638](https://github.com/Live-Hack-CVE/CVE-2021-3638)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3638">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3638">
+
+---
 ## CVE-2021-36260 (2021-09-22T13:15:00)
 > A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input validation, attacker can exploit the vulnerability to launch a command injection attack by sending some messages with malicious commands.
 - [Cuerz/CVE-2021-36260](https://github.com/Cuerz/CVE-2021-36260)	<img alt="forks" src="https://img.shields.io/github/forks/Cuerz/CVE-2021-36260">	<img alt="stars" src="https://img.shields.io/github/stars/Cuerz/CVE-2021-36260">

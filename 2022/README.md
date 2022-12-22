@@ -550,6 +550,11 @@
 - [Live-Hack-CVE/CVE-2022-4583](https://github.com/Live-Hack-CVE/CVE-2022-4583)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4583">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4583">
 
 ---
+## CVE-2022-45797 (2022-12-12T09:15:00)
+> An arbitrary file deletion vulnerability in the Damage Cleanup Engine component of Trend Micro Apex One and Trend Micro Apex One as a Service could allow a local attacker to escalate privileges and delete files on affected installations. Please note: an attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability.
+- [Live-Hack-CVE/CVE-2022-45797](https://github.com/Live-Hack-CVE/CVE-2022-45797)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45797">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45797">
+
+---
 ## CVE-2022-45796 (2022-12-16T16:15:00)
 > Command injection vulnerability in nw_interface.html in SHARP multifunction printers (MFPs)'s Digital Full-color Multifunctional System 202 or earlier, 120 or earlier, 600 or earlier, 121 or earlier, 500 or earlier, 402 or earlier, 790 or earlier, and Digital Multifunctional System (Monochrome) 200 or earlier, 211 or earlier, 102 or earlier, 453 or earlier, 400 or earlier, 202 or earlier, 602 or earlier, 500 or earlier, 401 or earlier allows remote attackers to execute arbitrary commands via unspecified vectors.
 - [Live-Hack-CVE/CVE-2022-45796](https://github.com/Live-Hack-CVE/CVE-2022-45796)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45796">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45796">
@@ -558,6 +563,11 @@
 ## CVE-2022-45771 (2022-12-05T20:15:00)
 > An issue in the /api/audits component of Pwndoc v0.5.3 allows attackers to escalate privileges and execute arbitrary code via uploading a crafted audit file.
 - [p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE](https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE">
+
+---
+## CVE-2022-45760 (2022-12-12T03:15:00)
+> SENS v1.0 is vulnerable to Incorrect Access Control vulnerability.
+- [Live-Hack-CVE/CVE-2022-45760](https://github.com/Live-Hack-CVE/CVE-2022-45760)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45760">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45760">
 
 ---
 ## CVE-2022-4564 (2022-12-16T17:15:00)
@@ -757,6 +767,26 @@
 - [Live-Hack-CVE/CVE-2022-44702](https://github.com/Live-Hack-CVE/CVE-2022-44702)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44702">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44702">
 
 ---
+## CVE-2022-44650 (2022-12-12T13:15:00)
+> A memory corruption vulnerability in the Unauthorized Change Prevention service of Trend Micro Apex One and Apex One as a Service could allow a local attacker to elevate privileges on affected installations. Please note: an attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability.
+- [Live-Hack-CVE/CVE-2022-44650](https://github.com/Live-Hack-CVE/CVE-2022-44650)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44650">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44650">
+
+---
+## CVE-2022-44649 (2022-12-12T13:15:00)
+> An out-of-bounds access vulnerability in the Unauthorized Change Prevention service of Trend Micro Apex One and Apex One as a Service could allow a local attacker to elevate privileges on affected installations. Please note: an attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability.
+- [Live-Hack-CVE/CVE-2022-44649](https://github.com/Live-Hack-CVE/CVE-2022-44649)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44649">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44649">
+
+---
+## CVE-2022-44648 (2022-12-12T13:15:00)
+> An Out-of-bounds read vulnerability in Trend Micro Apex One and Apex One as a Service could allow a local attacker to disclose sensitive information on affected installations. Please note: an attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability. This is similar to, but not the same as CVE-2022-44647.
+- [Live-Hack-CVE/CVE-2022-44648](https://github.com/Live-Hack-CVE/CVE-2022-44648)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44648">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44648">
+
+---
+## CVE-2022-44647 (2022-12-12T13:15:00)
+> An Out-of-bounds read vulnerability in Trend Micro Apex One and Apex One as a Service could allow a local attacker to disclose sensitive information on affected installations. Please note: an attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability. This is similar to, but not the same as CVE-2022-44648.
+- [Live-Hack-CVE/CVE-2022-44647](https://github.com/Live-Hack-CVE/CVE-2022-44647)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44647">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44647">
+
+---
 ## CVE-2022-44643 (2022-12-20T15:15:00)
 > A vulnerability in the label-based access control of Grafana Labs Grafana Enterprise Metrics allows an attacker more access than intended. If an access policy which has label selector restrictions also has been granted access to all tenants in the system, the label selector restrictions will not be applied when using this policy with the affected versions of the software. This issue affects: Grafana Labs Grafana Enterprise Metrics GEM 1.X versions prior to 1.7.1 on AMD64; GEM 2.X versions prior to 2.3.1 on AMD64.
 - [Live-Hack-CVE/CVE-2022-44643](https://github.com/Live-Hack-CVE/CVE-2022-44643)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44643">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44643">
@@ -906,6 +936,11 @@
 ## CVE-2022-43369 (2022-12-06T19:15:00)
 > AutoTaxi Stand Management System v1.0 was discovered to contain a cross-site scripting (XSS) vulnerability via the component search.php.
 - [sudoninja-noob/CVE-2022-43369](https://github.com/sudoninja-noob/CVE-2022-43369)	<img alt="forks" src="https://img.shields.io/github/forks/sudoninja-noob/CVE-2022-43369">	<img alt="stars" src="https://img.shields.io/github/stars/sudoninja-noob/CVE-2022-43369">
+
+---
+## CVE-2022-43333 (2022-12-01T22:15:00)
+> Telenia Software s.r.l TVox before v22.0.17 was discovered to contain a remote code execution (RCE) vulnerability in the component action_export_control.php.
+- [Live-Hack-CVE/CVE-2022-43333](https://github.com/Live-Hack-CVE/CVE-2022-43333)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43333">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43333">
 
 ---
 ## CVE-2022-43332 (2022-11-17T23:15:00)
@@ -1412,6 +1447,11 @@
 - [Warxim/CVE-2022-41852](https://github.com/Warxim/CVE-2022-41852)	<img alt="forks" src="https://img.shields.io/github/forks/Warxim/CVE-2022-41852">	<img alt="stars" src="https://img.shields.io/github/stars/Warxim/CVE-2022-41852">
 
 ---
+## CVE-2022-4172 (2022-11-29T18:15:00)
+> An integer overflow and buffer overflow issues were found in the ACPI Error Record Serialization Table (ERST) device of QEMU in the read_erst_record() and write_erst_record() functions. Both issues may allow the guest to overrun the host buffer allocated for the ERST memory device. A malicious guest could use these flaws to crash the QEMU process on the host.
+- [Live-Hack-CVE/CVE-2022-4172](https://github.com/Live-Hack-CVE/CVE-2022-4172)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4172">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4172">
+
+---
 ## CVE-2022-41697 (2022-12-22T10:15:00)
 > A user enumeration vulnerability exists in the login functionality of Ghost Foundation Ghost 5.9.4. A specially-crafted HTTP request can lead to a disclosure of sensitive information. An attacker can send a series of HTTP requests to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2022-41697](https://github.com/Live-Hack-CVE/CVE-2022-41697)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41697">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41697">
@@ -1436,6 +1476,11 @@
 > A cross-site scripting (XSS) vulnerability in Record Management System using CodeIgniter 1.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Add Subject page.
 - [RashidKhanPathan/CVE-2022-41445](https://github.com/RashidKhanPathan/CVE-2022-41445)	<img alt="forks" src="https://img.shields.io/github/forks/RashidKhanPathan/CVE-2022-41445">	<img alt="stars" src="https://img.shields.io/github/stars/RashidKhanPathan/CVE-2022-41445">
 - [efchatz/easy-exploits](https://github.com/efchatz/easy-exploits)	<img alt="forks" src="https://img.shields.io/github/forks/efchatz/easy-exploits">	<img alt="stars" src="https://img.shields.io/github/stars/efchatz/easy-exploits">
+
+---
+## CVE-2022-4144 (2022-11-29T18:15:00)
+> An out-of-bounds read flaw was found in the QXL display device emulation in QEMU. The qxl_phys2virt() function does not check the size of the structure pointed to by the guest physical address, potentially reading past the end of the bar space into adjacent pages. A malicious guest user could use this flaw to crash the QEMU process on the host causing a denial of service condition.
+- [Live-Hack-CVE/CVE-2022-4144](https://github.com/Live-Hack-CVE/CVE-2022-4144)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4144">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4144">
 
 ---
 ## CVE-2022-41418 (2022-12-19T20:15:00)
@@ -1937,10 +1982,16 @@
 - [Live-Hack-CVE/CVE-2022-39304](https://github.com/Live-Hack-CVE/CVE-2022-39304)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39304">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39304">
 
 ---
+## CVE-2022-39260 (2022-10-19T12:15:00)
+> Git is an open source, scalable, distributed revision control system. `git shell` is a restricted login shell that can be used to implement Git's push/pull functionality via SSH. In versions prior to 2.30.6, 2.31.5, 2.32.4, 2.33.5, 2.34.5, 2.35.5, 2.36.3, and 2.37.4, the function that splits the command arguments into an array improperly uses an `int` to represent the number of entries in the array, allowing a malicious actor to intentionally overflow the return value, leading to arbitrary heap writes. Because the resulting array is then passed to `execv()`, it is possible to leverage this attack to gain remote code execution on a victim machine. Note that a victim must first allow access to `git shell` as a login shell in order to be vulnerable to this attack. This problem is patched in versions 2.30.6, 2.31.5, 2.32.4, 2.33.5, 2.34.5, 2.35.5, 2.36.3, and 2.37.4 and users are advised to upgrade to the latest version. Disabling `git shell` access via remote logins is a viable short-term workaround.
+- [Live-Hack-CVE/CVE-2022-39260](https://github.com/Live-Hack-CVE/CVE-2022-39260)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39260">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39260">
+
+---
 ## CVE-2022-39253 (2022-10-19T11:15:00)
 > Git is an open source, scalable, distributed revision control system. Versions prior to 2.30.6, 2.31.5, 2.32.4, 2.33.5, 2.34.5, 2.35.5, 2.36.3, and 2.37.4 are subject to exposure of sensitive information to a malicious actor. When performing a local clone (where the source and target of the clone are on the same volume), Git copies the contents of the source's `$GIT_DIR/objects` directory into the destination by either creating hardlinks to the source contents, or copying them (if hardlinks are disabled via `--no-hardlinks`). A malicious actor could convince a victim to clone a repository with a symbolic link pointing at sensitive information on the victim's machine. This can be done either by having the victim clone a malicious repository on the same machine, or having them clone a malicious repository embedded as a bare repository via a submodule from any source, provided they clone with the `--recurse-submodules` option. Git does not create symbolic links in the `$GIT_DIR/objects` directory. The problem has been patched in the versions published on 2022-10-18, and backported to v2.30.x. Potential workarounds: Avoid cloning untrusted repositories using the `--local` optimization when on a shared machine, either by passing the `--no-local` option to `git clone` or cloning from a URL that uses the `file://` scheme. Alternatively, avoid cloning repositories from untrusted sources with `--recurse-submodules` or run `git config --global protocol.file.allow user`.
 - [ssst0n3/docker-cve-2022-39253-poc](https://github.com/ssst0n3/docker-cve-2022-39253-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ssst0n3/docker-cve-2022-39253-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ssst0n3/docker-cve-2022-39253-poc">
 - [ssst0n3/docker-cve-2022-39253-poc](https://github.com/ssst0n3/docker-cve-2022-39253-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ssst0n3/docker-cve-2022-39253-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ssst0n3/docker-cve-2022-39253-poc">
+- [Live-Hack-CVE/CVE-2022-39253](https://github.com/Live-Hack-CVE/CVE-2022-39253)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39253">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39253">
 
 ---
 ## CVE-2022-39197 (2022-09-22T01:15:00)
@@ -2068,6 +2119,11 @@
 ## CVE-2022-37928 (2022-12-12T13:15:00)
 > Insufficient Verification of Data Authenticity vulnerability in Hewlett Packard Enterprise HPE Nimble Storage Hybrid Flash Arrays and Nimble Storage Secondary Flash Arrays.
 - [Live-Hack-CVE/CVE-2022-37928](https://github.com/Live-Hack-CVE/CVE-2022-37928)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37928">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37928">
+
+---
+## CVE-2022-37909 (2022-12-12T13:15:00)
+> Aruba has identified certain configurations of ArubaOS that can lead to sensitive information disclosure from the configured ESSIDs. The scenarios in which disclosure of potentially sensitive information can occur are complex, and depend on factors beyond the control of attackers.
+- [Live-Hack-CVE/CVE-2022-37909](https://github.com/Live-Hack-CVE/CVE-2022-37909)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37909">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37909">
 
 ---
 ## CVE-2022-37905 (2022-12-12T13:15:00)
@@ -2390,6 +2446,11 @@
 - [Live-Hack-CVE/CVE-2022-3605](https://github.com/Live-Hack-CVE/CVE-2022-3605)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3605">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3605">
 
 ---
+## CVE-2022-36023 (2022-08-18T16:15:00)
+> Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. If a gateway client application sends a malformed request to a gateway peer it may crash the peer node. Version 2.4.6 checks for the malformed gateway request and returns an error to the gateway client. There are no known workarounds, users must upgrade to version 2.4.6.
+- [Live-Hack-CVE/CVE-2022-36023](https://github.com/Live-Hack-CVE/CVE-2022-36023)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36023">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36023">
+
+---
 ## CVE-2022-3602 (2022-11-01T18:15:00)
 > A buffer overrun can be triggered in X.509 certificate verification, specifically in name constraint checking. Note that this occurs after certificate chain signature verification and requires either a CA to have signed the malicious certificate or for the application to continue certificate verification despite failure to construct a path to a trusted issuer. An attacker can craft a malicious email address to overflow four attacker-controlled bytes on the stack. This buffer overflow could result in a crash (causing a denial of service) or potentially remote code execution. Many platforms implement stack overflow protections which would mitigate against the risk of remote code execution. The risk may be further mitigated based on stack layout for any given platform/compiler. Pre-announcements of CVE-2022-3602 described this issue as CRITICAL. Further analysis based on some of the mitigating factors described above have led this to be downgraded to HIGH. Users are still encouraged to upgrade to a new version as soon as possible. In a TLS client, this can be triggered by connecting to a malicious server. In a TLS server, this can be triggered if the server requests client authentication and a malicious client connects. Fixed in OpenSSL 3.0.7 (Affected 3.0.0,3.0.1,3.0.2,3.0.3,3.0.4,3.0.5,3.0.6).
 - [eatscrayon/CVE-2022-3602-poc](https://github.com/eatscrayon/CVE-2022-3602-poc)	<img alt="forks" src="https://img.shields.io/github/forks/eatscrayon/CVE-2022-3602-poc">	<img alt="stars" src="https://img.shields.io/github/stars/eatscrayon/CVE-2022-3602-poc">
@@ -2566,6 +2627,11 @@
 ## CVE-2022-34715 (2022-08-09T20:15:00)
 > Windows Network File System Remote Code Execution Vulnerability.
 - [Starssgo/CVE-2022-34715-POC](https://github.com/Starssgo/CVE-2022-34715-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Starssgo/CVE-2022-34715-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Starssgo/CVE-2022-34715-POC">
+
+---
+## CVE-2022-34704 (2022-08-09T20:15:00)
+> Windows Defender Credential Guard Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-34710, CVE-2022-34712.
+- [Live-Hack-CVE/CVE-2022-34704](https://github.com/Live-Hack-CVE/CVE-2022-34704)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34704">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34704">
 
 ---
 ## CVE-2022-3452 (2022-10-11T18:15:00)
@@ -3416,6 +3482,11 @@
 - [a1ise/CVE-2022-29247](https://github.com/a1ise/CVE-2022-29247)	<img alt="forks" src="https://img.shields.io/github/forks/a1ise/CVE-2022-29247">	<img alt="stars" src="https://img.shields.io/github/stars/a1ise/CVE-2022-29247">
 
 ---
+## CVE-2022-29187 (2022-07-12T21:15:00)
+> Git is a distributed revision control system. Git prior to versions 2.37.1, 2.36.2, 2.35.4, 2.34.4, 2.33.4, 2.32.3, 2.31.4, and 2.30.5, is vulnerable to privilege escalation in all platforms. An unsuspecting user could still be affected by the issue reported in CVE-2022-24765, for example when navigating as root into a shared tmp directory that is owned by them, but where an attacker could create a git repository. Versions 2.37.1, 2.36.2, 2.35.4, 2.34.4, 2.33.4, 2.32.3, 2.31.4, and 2.30.5 contain a patch for this issue. The simplest way to avoid being affected by the exploit described in the example is to avoid running git as root (or an Administrator in Windows), and if needed to reduce its use to a minimum. While a generic workaround is not possible, a system could be hardened from the exploit described in the example by removing any such repository if it exists already and creating one as root to block any future attacks.
+- [Live-Hack-CVE/CVE-2022-29187](https://github.com/Live-Hack-CVE/CVE-2022-29187)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29187">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29187">
+
+---
 ## CVE-2022-29181 (2022-05-20T19:15:00)
 > Nokogiri is an open source XML and HTML library for Ruby. Nokogiri prior to version 1.13.6 does not type-check all inputs into the XML and HTML4 SAX parsers, allowing specially crafted untrusted inputs to cause illegal memory access errors (segfault) or reads from unrelated memory. Version 1.13.6 contains a patch for this issue. As a workaround, ensure the untrusted input is a `String` by calling `#to_s` or equivalent.
 - [Live-Hack-CVE/CVE-2022-29181](https://github.com/Live-Hack-CVE/CVE-2022-29181)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29181">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29181">
@@ -3816,6 +3887,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-24780 (2022-04-05T19:15:00)
 > Combodo iTop is a web based IT Service Management tool. In versions prior to 2.7.6 and 3.0.0, users of the iTop user portal can send TWIG code to the server by forging specific http queries, and execute arbitrary code on the server using http server user privileges. This issue is fixed in versions 2.7.6 and 3.0.0. There are currently no known workarounds.
 - [Acceis/exploit-CVE-2022-24780](https://github.com/Acceis/exploit-CVE-2022-24780)	<img alt="forks" src="https://img.shields.io/github/forks/Acceis/exploit-CVE-2022-24780">	<img alt="stars" src="https://img.shields.io/github/stars/Acceis/exploit-CVE-2022-24780">
+
+---
+## CVE-2022-24765 (2022-04-12T18:15:00)
+> Git for Windows is a fork of Git containing Windows-specific patches. This vulnerability affects users working on multi-user machines, where untrusted parties have write access to the same hard disk. Those untrusted parties could create the folder `C:\.git`, which would be picked up by Git operations run supposedly outside a repository while searching for a Git directory. Git would then respect any config in said Git directory. Git Bash users who set `GIT_PS1_SHOWDIRTYSTATE` are vulnerable as well. Users who installed posh-gitare vulnerable simply by starting a PowerShell. Users of IDEs such as Visual Studio are vulnerable: simply creating a new project would already read and respect the config specified in `C:\.git\config`. Users of the Microsoft fork of Git are vulnerable simply by starting a Git Bash. The problem has been patched in Git for Windows v2.35.2. Users unable to upgrade may create the folder `.git` on all drives where Git commands are run, and remove read/write access from those folders as a workaround. Alternatively, define or extend `GIT_CEILING_DIRECTORIES` to cover the _parent_ directory of the user profile, e.g. `C:\Users` if the user profile is located in `C:\Users\my-user-name`.
+- [Live-Hack-CVE/CVE-2022-24765](https://github.com/Live-Hack-CVE/CVE-2022-24765)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24765">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24765">
 
 ---
 ## CVE-2022-24706 (2022-04-26T10:15:00)
