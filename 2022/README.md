@@ -48,6 +48,16 @@
 - [Cedric1314/CVE-2022-48870](https://github.com/Cedric1314/CVE-2022-48870)	<img alt="forks" src="https://img.shields.io/github/forks/Cedric1314/CVE-2022-48870">	<img alt="stars" src="https://img.shields.io/github/stars/Cedric1314/CVE-2022-48870">
 
 ---
+## CVE-2022-47896 (2022-12-22T11:15:00)
+> In JetBrains IntelliJ IDEA before 2022.3.1 code Templates were vulnerable to SSTI attacks.
+- [Live-Hack-CVE/CVE-2022-47896](https://github.com/Live-Hack-CVE/CVE-2022-47896)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47896">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47896">
+
+---
+## CVE-2022-47895 (2022-12-22T11:15:00)
+> In JetBrains IntelliJ IDEA before 2022.3.1 the "Validate JSP File" action used the HTTP protocol to download required JAR files.
+- [Live-Hack-CVE/CVE-2022-47895](https://github.com/Live-Hack-CVE/CVE-2022-47895)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47895">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47895">
+
+---
 ## CVE-2022-47629 (2022-12-20T23:15:00)
 > Libksba before 1.6.3 is prone to an integer overflow vulnerability in the CRL signature parser.
 - [Live-Hack-CVE/CVE-2022-47629](https://github.com/Live-Hack-CVE/CVE-2022-47629)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47629">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47629">
@@ -217,6 +227,11 @@
 ## CVE-2022-45451 ()
 > 
 - [alfarom256/CVE-2022-45451](https://github.com/alfarom256/CVE-2022-45451)	<img alt="forks" src="https://img.shields.io/github/forks/alfarom256/CVE-2022-45451">	<img alt="stars" src="https://img.shields.io/github/stars/alfarom256/CVE-2022-45451">
+
+---
+## CVE-2022-45347 (2022-12-22T11:15:00)
+> Apache ShardingSphere-Proxy prior to 5.3.0 when using MySQL as database backend didn't cleanup the database session completely after client authentication failed, which allowed an attacker to execute normal commands by constructing a special MySQL client. This vulnerability has been fixed in Apache ShardingSphere 5.3.0.
+- [Live-Hack-CVE/CVE-2022-45347](https://github.com/Live-Hack-CVE/CVE-2022-45347)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45347">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45347">
 
 ---
 ## CVE-2022-45265 ()
