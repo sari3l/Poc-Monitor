@@ -327,6 +327,11 @@
 - [Live-Hack-CVE/CVE-2019-11050](https://github.com/Live-Hack-CVE/CVE-2019-11050)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11050">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11050">
 
 ---
+## CVE-2019-11045 (2019-12-23T03:15:00)
+> In PHP versions 7.2.x below 7.2.26, 7.3.x below 7.3.13 and 7.4.0, PHP DirectoryIterator class accepts filenames with embedded \0 byte and treats them as terminating at that byte. This could lead to security vulnerabilities, e.g. in applications checking paths that the code is allowed to access.
+- [Live-Hack-CVE/CVE-2019-11045](https://github.com/Live-Hack-CVE/CVE-2019-11045)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11045">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11045">
+
+---
 ## CVE-2019-11043 (2019-10-28T15:15:00)
 > In PHP versions 7.1.x below 7.1.33, 7.2.x below 7.2.24 and 7.3.x below 7.3.11 in certain configurations of FPM setup it is possible to cause FPM module to write past allocated buffers into the space reserved for FCGI protocol data, thus opening the possibility of remote code execution.
 - [trhacknon/CVE-2019-11043](https://github.com/trhacknon/CVE-2019-11043)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2019-11043">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2019-11043">

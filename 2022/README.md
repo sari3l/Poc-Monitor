@@ -186,9 +186,59 @@
 - [Live-Hack-CVE/CVE-2022-46334](https://github.com/Live-Hack-CVE/CVE-2022-46334)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46334">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46334">
 
 ---
+## CVE-2022-46328 (2022-12-20T21:15:00)
+> Some smartphones have the input validation vulnerability. Successful exploitation of this vulnerability may affect data confidentiality.
+- [Live-Hack-CVE/CVE-2022-46328](https://github.com/Live-Hack-CVE/CVE-2022-46328)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46328">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46328">
+
+---
+## CVE-2022-46327 (2022-12-20T21:15:00)
+> Some smartphones have configuration issues. Successful exploitation of this vulnerability may cause privilege escalation, which results in system service exceptions.
+- [Live-Hack-CVE/CVE-2022-46327](https://github.com/Live-Hack-CVE/CVE-2022-46327)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46327">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46327">
+
+---
+## CVE-2022-46326 (2022-12-20T21:15:00)
+> Some smartphones have the out-of-bounds write vulnerability. Successful exploitation of this vulnerability may cause system service exceptions.
+- [Live-Hack-CVE/CVE-2022-46326](https://github.com/Live-Hack-CVE/CVE-2022-46326)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46326">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46326">
+
+---
+## CVE-2022-46325 (2022-12-20T21:15:00)
+> Some smartphones have the out-of-bounds write vulnerability.Successful exploitation of this vulnerability may cause system service exceptions.
+- [Live-Hack-CVE/CVE-2022-46325](https://github.com/Live-Hack-CVE/CVE-2022-46325)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46325">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46325">
+
+---
+## CVE-2022-46324 (2022-12-20T21:15:00)
+> Some smartphones have the out-of-bounds write vulnerability. Successful exploitation of this vulnerability may cause system service exceptions.
+- [Live-Hack-CVE/CVE-2022-46324](https://github.com/Live-Hack-CVE/CVE-2022-46324)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46324">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46324">
+
+---
+## CVE-2022-46323 (2022-12-20T21:15:00)
+> Some smartphones have the out-of-bounds write vulnerability.Successful exploitation of this vulnerability may cause system service exceptions.
+- [Live-Hack-CVE/CVE-2022-46323](https://github.com/Live-Hack-CVE/CVE-2022-46323)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46323">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46323">
+
+---
+## CVE-2022-46322 (2022-12-20T21:15:00)
+> Some smartphones have the out-of-bounds write vulnerability. Successful exploitation of this vulnerability may cause system service exceptions.
+- [Live-Hack-CVE/CVE-2022-46322](https://github.com/Live-Hack-CVE/CVE-2022-46322)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46322">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46322">
+
+---
+## CVE-2022-46321 (2022-12-20T21:15:00)
+> The Wi-Fi module has a vulnerability in permission verification. Successful exploitation of this vulnerability may affect data confidentiality.
+- [Live-Hack-CVE/CVE-2022-46321](https://github.com/Live-Hack-CVE/CVE-2022-46321)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46321">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46321">
+
+---
+## CVE-2022-46320 (2022-12-20T21:15:00)
+> The kernel module has an out-of-bounds read vulnerability. Successful exploitation of this vulnerability may cause memory overwriting.
+- [Live-Hack-CVE/CVE-2022-46320](https://github.com/Live-Hack-CVE/CVE-2022-46320)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46320">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46320">
+
+---
 ## CVE-2022-4632 (2022-12-21T19:15:00)
 > A vulnerability has been found in Auto Upload Images 3.3.1 and classified as problematic. Affected by this vulnerability is an unknown functionality. The manipulation leads to cross site scripting. The attack can be launched remotely. Upgrading to version 3.3.2 is able to address this issue. The name of the patch is 895770ee93887ec78429c78ffdfb865bee6f9436. It is recommended to upgrade the affected component. The identifier VDB-216481 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-4632](https://github.com/Live-Hack-CVE/CVE-2022-4632)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4632">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4632">
+
+---
+## CVE-2022-46319 (2022-12-20T21:15:00)
+> Fingerprint calibration has a vulnerability of lacking boundary judgment. Successful exploitation of this vulnerability may cause out-of-bounds write.
+- [Live-Hack-CVE/CVE-2022-46319](https://github.com/Live-Hack-CVE/CVE-2022-46319)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46319">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46319">
 
 ---
 ## CVE-2022-4631 (2022-12-21T19:15:00)
@@ -201,12 +251,22 @@
 - [Live-Hack-CVE/CVE-2022-4630](https://github.com/Live-Hack-CVE/CVE-2022-4630)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4630">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4630">
 
 ---
+## CVE-2022-4619 (2022-12-20T16:15:00)
+> The Sidebar Widgets by CodeLights plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the ‘Extra CSS class’ parameter in versions up to, and including, 1.4 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with administrator-level permissions and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page. This only affects multi-site installations and installations where unfiltered_html has been disabled.
+- [Live-Hack-CVE/CVE-2022-4619](https://github.com/Live-Hack-CVE/CVE-2022-4619)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4619">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4619">
+
+---
 ## CVE-2022-46169 (2022-12-05T21:15:00)
 > Cacti is an open source platform which provides a robust and extensible operational monitoring and fault management framework for users. In affected versions a command injection vulnerability allows an unauthenticated user to execute arbitrary code on a server running Cacti, if a specific data source was selected for any monitored device. The vulnerability resides in the `remote_agent.php` file. This file can be accessed without authentication. This function retrieves the IP address of the client via `get_client_addr` and resolves this IP address to the corresponding hostname via `gethostbyaddr`. After this, it is verified that an entry within the `poller` table exists, where the hostname corresponds to the resolved hostname. If such an entry was found, the function returns `true` and the client is authorized. This authorization can be bypassed due to the implementation of the `get_client_addr` function. The function is defined in the file `lib/functions.php` and checks serval `$_SERVER` variables to determine the IP address of the client. The variables beginning with `HTTP_` can be arbitrarily set by an attacker. Since there is a default entry in the `poller` table with the hostname of the server running Cacti, an attacker can bypass the authentication e.g. by providing the header `Forwarded-For: <TARGETIP>`. This way the function `get_client_addr` returns the IP address of the server running Cacti. The following call to `gethostbyaddr` will resolve this IP address to the hostname of the server, which will pass the `poller` hostname check because of the default entry. After the authorization of the `remote_agent.php` file is bypassed, an attacker can trigger different actions. One of these actions is called `polldata`. The called function `poll_for_data` retrieves a few request parameters and loads the corresponding `poller_item` entries from the database. If the `action` of a `poller_item` equals `POLLER_ACTION_SCRIPT_PHP`, the function `proc_open` is used to execute a PHP script. The attacker-controlled parameter `$poller_id` is retrieved via the function `get_nfilter_request_var`, which allows arbitrary strings. This variable is later inserted into the string passed to `proc_open`, which leads to a command injection vulnerability. By e.g. providing the `poller_id=;id` the `id` command is executed. In order to reach the vulnerable call, the attacker must provide a `host_id` and `local_data_id`, where the `action` of the corresponding `poller_item` is set to `POLLER_ACTION_SCRIPT_PHP`. Both of these ids (`host_id` and `local_data_id`) can easily be bruteforced. The only requirement is that a `poller_item` with an `POLLER_ACTION_SCRIPT_PHP` action exists. This is very likely on a productive instance because this action is added by some predefined templates like `Device - Uptime` or `Device - Polling Time`. This command injection vulnerability allows an unauthenticated user to execute arbitrary commands if a `poller_item` with the `action` type `POLLER_ACTION_SCRIPT_PHP` (`2`) is configured. The authorization bypass should be prevented by not allowing an attacker to make `get_client_addr` (file `lib/functions.php`) return an arbitrary IP address. This could be done by not honoring the `HTTP_...` `$_SERVER` variables. If these should be kept for compatibility reasons it should at least be prevented to fake the IP address of the server running Cacti. This vulnerability has been addressed in both the 1.2.x and 1.3.x release branches with `1.2.23` being the first release containing the patch.
 - [imjdl/CVE-2022-46169](https://github.com/imjdl/CVE-2022-46169)	<img alt="forks" src="https://img.shields.io/github/forks/imjdl/CVE-2022-46169">	<img alt="stars" src="https://img.shields.io/github/stars/imjdl/CVE-2022-46169">
 - [taythebot/CVE-2022-46169](https://github.com/taythebot/CVE-2022-46169)	<img alt="forks" src="https://img.shields.io/github/forks/taythebot/CVE-2022-46169">	<img alt="stars" src="https://img.shields.io/github/stars/taythebot/CVE-2022-46169">
 - [0xf4n9x/CVE-2022-46169](https://github.com/0xf4n9x/CVE-2022-46169)	<img alt="forks" src="https://img.shields.io/github/forks/0xf4n9x/CVE-2022-46169">	<img alt="stars" src="https://img.shields.io/github/stars/0xf4n9x/CVE-2022-46169">
 - [rb-x/CVE-2022-46169](https://github.com/rb-x/CVE-2022-46169)	<img alt="forks" src="https://img.shields.io/github/forks/rb-x/CVE-2022-46169">	<img alt="stars" src="https://img.shields.io/github/stars/rb-x/CVE-2022-46169">
+
+---
+## CVE-2022-46020 (2022-12-20T16:15:00)
+> WBCE CMS v1.5.4 can implement getshell by modifying the upload file type.
+- [Live-Hack-CVE/CVE-2022-46020](https://github.com/Live-Hack-CVE/CVE-2022-46020)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46020">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46020">
 
 ---
 ## CVE-2022-45771 (2022-12-05T20:15:00)
@@ -279,9 +339,29 @@
 - [Live-Hack-CVE/CVE-2022-4523](https://github.com/Live-Hack-CVE/CVE-2022-4523)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4523">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4523">
 
 ---
+## CVE-2022-4522 (2022-12-15T21:15:00)
+> A vulnerability classified as problematic was found in CalendarXP up to 10.0.1. This vulnerability affects unknown code. The manipulation leads to cross site scripting. The attack can be initiated remotely. Upgrading to version 10.0.2 is able to address this issue. The name of the patch is e3715b2228ddefe00113296069969f9e184836da. It is recommended to upgrade the affected component. VDB-215902 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4522](https://github.com/Live-Hack-CVE/CVE-2022-4522)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4522">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4522">
+
+---
 ## CVE-2022-45217 (2022-12-07T14:15:00)
 > A cross-site scripting (XSS) vulnerability in Book Store Management System v1.0.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Level parameter under the Add New System User module.
 - [sudoninja-noob/CVE-2022-45217](https://github.com/sudoninja-noob/CVE-2022-45217)	<img alt="forks" src="https://img.shields.io/github/forks/sudoninja-noob/CVE-2022-45217">	<img alt="stars" src="https://img.shields.io/github/stars/sudoninja-noob/CVE-2022-45217">
+
+---
+## CVE-2022-4521 (2022-12-15T21:15:00)
+> A vulnerability classified as problematic has been found in WSO2 carbon-registry up to 4.8.7. This affects an unknown part of the component Request Parameter Handler. The manipulation of the argument parentPath/path/username/path/profile_menu leads to cross site scripting. It is possible to initiate the attack remotely. Upgrading to version 4.8.12 is able to address this issue. The name of the patch is 9f967abfde9317bee2cda469dbc09b57d539f2cc. It is recommended to upgrade the affected component. The identifier VDB-215901 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4521](https://github.com/Live-Hack-CVE/CVE-2022-4521)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4521">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4521">
+
+---
+## CVE-2022-4520 (2022-12-15T21:15:00)
+> A vulnerability was found in WSO2 carbon-registry up to 4.8.11. It has been rated as problematic. Affected by this issue is some unknown functionality of the file components/registry/org.wso2.carbon.registry.search.ui/src/main/resources/web/search/advancedSearchForm-ajaxprocessor.jsp of the component Advanced Search. The manipulation of the argument mediaType/rightOp/leftOp/rightPropertyValue/leftPropertyValue leads to cross site scripting. The attack may be launched remotely. Upgrading to version 4.8.12 is able to address this issue. The name of the patch is 0c827cc1b14b82d8eb86117ab2e43c34bb91ddb4. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-215900.
+- [Live-Hack-CVE/CVE-2022-4520](https://github.com/Live-Hack-CVE/CVE-2022-4520)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4520">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4520">
+
+---
+## CVE-2022-4514 (2022-12-15T20:15:00)
+> A vulnerability, which was classified as problematic, was found in Opencaching Deutschland oc-server3. Affected is an unknown function of the file htdocs/lang/de/ocstyle/varset.inc.php. The manipulation of the argument varvalue leads to cross site scripting. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The name of the patch is 4bdd6a0e7b7760cea03b91812cbb80d7b16e3b5f. It is recommended to apply a patch to fix this issue. VDB-215886 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4514](https://github.com/Live-Hack-CVE/CVE-2022-4514)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4514">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4514">
 
 ---
 ## CVE-2022-45025 (2022-12-07T02:15:00)
@@ -308,6 +388,11 @@
 > CrowdStrike Falcon 6.44.15806 allows an administrative attacker to uninstall Falcon Sensor, bypassing the intended protection mechanism in which uninstallation requires possessing a one-time token. (The sensor is managed at the kernel level.)
 - [purplededa/CVE-2022-44721-CsFalconUninstaller](https://github.com/purplededa/CVE-2022-44721-CsFalconUninstaller)	<img alt="forks" src="https://img.shields.io/github/forks/purplededa/CVE-2022-44721-CsFalconUninstaller">	<img alt="stars" src="https://img.shields.io/github/stars/purplededa/CVE-2022-44721-CsFalconUninstaller">
 - [gmh5225/CVE-2022-44721-CsFalconUninstaller](https://github.com/gmh5225/CVE-2022-44721-CsFalconUninstaller)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/CVE-2022-44721-CsFalconUninstaller">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/CVE-2022-44721-CsFalconUninstaller">
+
+---
+## CVE-2022-44643 (2022-12-20T15:15:00)
+> A vulnerability in the label-based access control of Grafana Labs Grafana Enterprise Metrics allows an attacker more access than intended. If an access policy which has label selector restrictions also has been granted access to all tenants in the system, the label selector restrictions will not be applied when using this policy with the affected versions of the software. This issue affects: Grafana Labs Grafana Enterprise Metrics GEM 1.X versions prior to 1.7.1 on AMD64; GEM 2.X versions prior to 2.3.1 on AMD64.
+- [Live-Hack-CVE/CVE-2022-44643](https://github.com/Live-Hack-CVE/CVE-2022-44643)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44643">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44643">
 
 ---
 ## CVE-2022-44473 (2022-12-16T16:15:00)
@@ -1205,6 +1290,11 @@
 - [nidhi7598/external_zlib-1.2.11_AOSP_10_r33_CVE-2022-37434](https://github.com/nidhi7598/external_zlib-1.2.11_AOSP_10_r33_CVE-2022-37434)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/external_zlib-1.2.11_AOSP_10_r33_CVE-2022-37434">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/external_zlib-1.2.11_AOSP_10_r33_CVE-2022-37434">
 - [nidhi7598/external_zlib-1.2.7_CVE-2022-37434](https://github.com/nidhi7598/external_zlib-1.2.7_CVE-2022-37434)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/external_zlib-1.2.7_CVE-2022-37434">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/external_zlib-1.2.7_CVE-2022-37434">
 - [xen0bit/CVE-2022-37434_poc](https://github.com/xen0bit/CVE-2022-37434_poc)	<img alt="forks" src="https://img.shields.io/github/forks/xen0bit/CVE-2022-37434_poc">	<img alt="stars" src="https://img.shields.io/github/stars/xen0bit/CVE-2022-37434_poc">
+
+---
+## CVE-2022-37401 (2022-08-15T11:21:00)
+> Apache OpenOffice supports the storage of passwords for web connections in the user's configuration database. The stored passwords are encrypted with a single master key provided by the user. A flaw in OpenOffice existed where master key was poorly encoded resulting in weakening its entropy from 128 to 43 bits making the stored passwords vulnerable to a brute force attack if an attacker has access to the users stored config. This issue affects: Apache OpenOffice versions prior to 4.1.13. Reference: CVE-2022-26307 - LibreOffice
+- [Live-Hack-CVE/CVE-2022-37401](https://github.com/Live-Hack-CVE/CVE-2022-37401)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37401">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37401">
 
 ---
 ## CVE-2022-37298 (2022-10-20T11:15:00)
@@ -3214,6 +3304,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-20562](https://github.com/Live-Hack-CVE/CVE-2022-20562)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20562">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20562">
 
 ---
+## CVE-2022-20560 (2022-12-16T16:15:00)
+> Product: AndroidVersions: Android kernelAndroid ID: A-212623833References: N/A
+- [Live-Hack-CVE/CVE-2022-20560](https://github.com/Live-Hack-CVE/CVE-2022-20560)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20560">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20560">
+
+---
 ## CVE-2022-20559 (2022-12-16T16:15:00)
 > In revokeOwnPermissionsOnKill of PermissionManager.java, there is a possible way to determine whether an app is installed, without query permissions, due to side channel information disclosure. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-219739967
 - [Live-Hack-CVE/CVE-2022-20559](https://github.com/Live-Hack-CVE/CVE-2022-20559)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20559">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20559">
@@ -3224,9 +3319,39 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-20558](https://github.com/Live-Hack-CVE/CVE-2022-20558)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20558">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20558">
 
 ---
+## CVE-2022-20557 (2022-12-16T16:15:00)
+> In MessageQueueBase of MessageQueueBase.h, there is a possible out of bounds read due to a missing bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-247092734
+- [Live-Hack-CVE/CVE-2022-20557](https://github.com/Live-Hack-CVE/CVE-2022-20557)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20557">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20557">
+
+---
+## CVE-2022-20556 (2022-12-16T16:15:00)
+> In launchConfigNewNetworkFragment of NetworkProviderSettings.java, there is a possible way for the guest user to add a new WiFi network due to a missing permission check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-246301667
+- [Live-Hack-CVE/CVE-2022-20556](https://github.com/Live-Hack-CVE/CVE-2022-20556)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20556">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20556">
+
+---
+## CVE-2022-20555 (2022-12-16T16:15:00)
+> In ufdt_get_node_by_path_len of ufdt_convert.c, there is a possible out of bounds read due to a missing bounds check. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-246194233
+- [Live-Hack-CVE/CVE-2022-20555](https://github.com/Live-Hack-CVE/CVE-2022-20555)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20555">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20555">
+
+---
+## CVE-2022-20554 (2022-12-16T16:15:00)
+> In removeEventHubDevice of InputDevice.cpp, there is a possible OOB read due to a use after free. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-245770596
+- [Live-Hack-CVE/CVE-2022-20554](https://github.com/Live-Hack-CVE/CVE-2022-20554)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20554">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20554">
+
+---
 ## CVE-2022-20553 (2022-12-16T16:15:00)
 > In onCreate of LogAccessDialogActivity.java, there is a possible way to bypass a permission check due to a tapjacking/overlay attack. This could lead to local escalation of privilege with System execution privileges needed. User interaction is needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-244155265
 - [Live-Hack-CVE/CVE-2022-20553](https://github.com/Live-Hack-CVE/CVE-2022-20553)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20553">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20553">
+
+---
+## CVE-2022-20550 (2022-12-16T16:15:00)
+> In Multiple Locations, there is a possibility to launch arbitrary protected activities due to a confused deputy. This could lead to local escalation of privilege with User execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-242845514
+- [Live-Hack-CVE/CVE-2022-20550](https://github.com/Live-Hack-CVE/CVE-2022-20550)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20550">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20550">
+
+---
+## CVE-2022-20549 (2022-12-16T16:15:00)
+> In authToken2AidlVec of KeyMintUtils.cpp, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-242702451
+- [Live-Hack-CVE/CVE-2022-20549](https://github.com/Live-Hack-CVE/CVE-2022-20549)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20549">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20549">
 
 ---
 ## CVE-2022-20537 (2022-12-16T16:15:00)
@@ -3242,6 +3367,21 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-20535 (2022-12-16T16:15:00)
 > In registerLocalOnlyHotspotSoftApCallback of WifiManager.java, there is a possible way to determine whether an app is installed, without query permissions, due to side channel information disclosure. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-233605242
 - [Live-Hack-CVE/CVE-2022-20535](https://github.com/Live-Hack-CVE/CVE-2022-20535)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20535">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20535">
+
+---
+## CVE-2022-20527 (2022-12-16T16:15:00)
+> In HalCoreCallback of halcore.cc, there is a possible out of bounds read due to a missing bounds check. This could lead to local information disclosure from the NFC firmware with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-229994861
+- [Live-Hack-CVE/CVE-2022-20527](https://github.com/Live-Hack-CVE/CVE-2022-20527)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20527">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20527">
+
+---
+## CVE-2022-20515 (2022-12-16T16:15:00)
+> In onPreferenceClick of AccountTypePreferenceLoader.java, there is a possible way to retrieve protected files from the Settings app due to a confused deputy. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-220733496
+- [Live-Hack-CVE/CVE-2022-20515](https://github.com/Live-Hack-CVE/CVE-2022-20515)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20515">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20515">
+
+---
+## CVE-2022-20512 (2022-12-16T16:15:00)
+> In navigateUpTo of Task.java, there is a possible way to launch an intent handler with a mismatched intent due to improper input validation. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-238602879
+- [Live-Hack-CVE/CVE-2022-20512](https://github.com/Live-Hack-CVE/CVE-2022-20512)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20512">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20512">
 
 ---
 ## CVE-2022-20441 (2022-11-08T22:15:00)
