@@ -813,6 +813,11 @@
 - [Live-Hack-CVE/CVE-2022-42821](https://github.com/Live-Hack-CVE/CVE-2022-42821)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42821">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42821">
 
 ---
+## CVE-2022-42805 (2022-12-15T19:15:00)
+> An integer overflow was addressed with improved input validation. This issue is fixed in iOS 15.6 and iPadOS 15.6, macOS Monterey 12.5. An app may be able to execute arbitrary code with kernel privileges.
+- [Live-Hack-CVE/CVE-2022-42805](https://github.com/Live-Hack-CVE/CVE-2022-42805)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42805">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42805">
+
+---
 ## CVE-2022-42527 (2022-12-16T16:15:00)
 > In cd_SsParseMsg of cd_SsCodec.c, there is a possible crash due to a missing null check. This could lead to remote denial of service with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-244448906References: N/A
 - [Live-Hack-CVE/CVE-2022-42527](https://github.com/Live-Hack-CVE/CVE-2022-42527)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42527">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42527">
@@ -983,6 +988,11 @@
 - [Live-Hack-CVE/CVE-2022-42354](https://github.com/Live-Hack-CVE/CVE-2022-42354)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42354">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42354">
 
 ---
+## CVE-2022-42352 (2022-12-19T20:15:00)
+> Adobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.
+- [Live-Hack-CVE/CVE-2022-42352](https://github.com/Live-Hack-CVE/CVE-2022-42352)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42352">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42352">
+
+---
 ## CVE-2022-42351 (2022-12-16T16:15:00)
 > Adobe Experience Manager version 6.5.14 (and earlier) is affected by an Incorrect Authorization vulnerability that could result in a security feature bypass. A low-privileged attacker could leverage this vulnerability to disclose low level confidentiality information. Exploitation of this issue does not require user interaction.
 - [Live-Hack-CVE/CVE-2022-42351](https://github.com/Live-Hack-CVE/CVE-2022-42351)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42351">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42351">
@@ -1001,6 +1011,16 @@
 ## CVE-2022-42348 (2022-12-19T20:15:00)
 > Adobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.
 - [Live-Hack-CVE/CVE-2022-42348](https://github.com/Live-Hack-CVE/CVE-2022-42348)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42348">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42348">
+
+---
+## CVE-2022-42346 (2022-12-19T20:15:00)
+> Adobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.
+- [Live-Hack-CVE/CVE-2022-42346](https://github.com/Live-Hack-CVE/CVE-2022-42346)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42346">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42346">
+
+---
+## CVE-2022-42345 (2022-12-19T20:15:00)
+> Adobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.
+- [Live-Hack-CVE/CVE-2022-42345](https://github.com/Live-Hack-CVE/CVE-2022-42345)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42345">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42345">
 
 ---
 ## CVE-2022-42176 (2022-10-20T15:15:00)
@@ -1097,6 +1117,11 @@
 > A cross-site scripting (XSS) vulnerability in Record Management System using CodeIgniter 1.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Add Subject page.
 - [RashidKhanPathan/CVE-2022-41445](https://github.com/RashidKhanPathan/CVE-2022-41445)	<img alt="forks" src="https://img.shields.io/github/forks/RashidKhanPathan/CVE-2022-41445">	<img alt="stars" src="https://img.shields.io/github/stars/RashidKhanPathan/CVE-2022-41445">
 - [efchatz/easy-exploits](https://github.com/efchatz/easy-exploits)	<img alt="forks" src="https://img.shields.io/github/forks/efchatz/easy-exploits">	<img alt="stars" src="https://img.shields.io/github/stars/efchatz/easy-exploits">
+
+---
+## CVE-2022-41418 (2022-12-19T20:15:00)
+> An issue in the component BlogEngine/BlogEngine.NET/AppCode/Api/UploadController.cs of BlogEngine.NET v3.3.8.0 allows attackers to execute arbitrary code via uploading a crafted PNG file.
+- [Live-Hack-CVE/CVE-2022-41418](https://github.com/Live-Hack-CVE/CVE-2022-41418)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41418">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41418">
 
 ---
 ## CVE-2022-41413 (2022-11-30T05:15:00)
@@ -1300,6 +1325,11 @@
 ## CVE-2022-40648 (2022-09-15T16:15:00)
 > This vulnerability allows remote attackers to execute arbitrary code on affected installations of Ansys SpaceClaim 2022 R1. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of X_B files. The issue results from the lack of proper validation of user-supplied data, which can result in a write before the start of an allocated data structure. An attacker can leverage this vulnerability to execute code in the context of the current process. Was ZDI-CAN-17563.
 - [b3wT/CVE-2022-40648-MASS](https://github.com/b3wT/CVE-2022-40648-MASS)	<img alt="forks" src="https://img.shields.io/github/forks/b3wT/CVE-2022-40648-MASS">	<img alt="stars" src="https://img.shields.io/github/stars/b3wT/CVE-2022-40648-MASS">
+
+---
+## CVE-2022-40607 (2022-12-19T20:15:00)
+> IBM Spectrum Scale 5.1 could allow users with permissions to create pod, persistent volume and persistent volume claim to access files and directories outside of the volume, including on the host filesystem. IBM X-Force ID: 235740.
+- [Live-Hack-CVE/CVE-2022-40607](https://github.com/Live-Hack-CVE/CVE-2022-40607)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40607">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40607">
 
 ---
 ## CVE-2022-40490 ()
@@ -2927,6 +2957,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [0xvinix/CVE-2022-2546](https://github.com/0xvinix/CVE-2022-2546)	<img alt="forks" src="https://img.shields.io/github/forks/0xvinix/CVE-2022-2546">	<img alt="stars" src="https://img.shields.io/github/stars/0xvinix/CVE-2022-2546">
 
 ---
+## CVE-2022-2536 (2022-12-15T19:15:00)
+> The Transposh WordPress Translation plugin for WordPress is vulnerable to unauthorized setting changes by unauthenticated users in versions up to, and including, 1.0.8.1. This is due to insufficient validation of settings on the 'tp_translation' AJAX action which makes it possible for unauthenticated attackers to bypass any restrictions and influence the data shown on the site. Please note this is a separate issue from CVE-2022-2461. Notes from the researcher: When installed Transposh comes with a set of pre-configured options, one of these is the "Who can translate" setting under the "Settings" tab. However, this option is largely ignored, if Transposh has enabled its "autotranslate" feature (it's enabled by default) and the HTTP POST parameter "sr0" is larger than 0. This is caused by a faulty validation in "wp/transposh_db.php."
+- [Live-Hack-CVE/CVE-2022-2536](https://github.com/Live-Hack-CVE/CVE-2022-2536)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2536">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2536">
+
+---
 ## CVE-2022-25262 (2022-02-25T20:15:00)
 > In JetBrains Hub before 2022.1.14434, SAML request takeover was possible.
 - [yuriisanin/CVE-2022-25262](https://github.com/yuriisanin/CVE-2022-25262)	<img alt="forks" src="https://img.shields.io/github/forks/yuriisanin/CVE-2022-25262">	<img alt="stars" src="https://img.shields.io/github/stars/yuriisanin/CVE-2022-25262">
@@ -3094,6 +3129,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-23536 (2022-12-19T22:15:00)
 > Cortex provides multi-tenant, long term storage for Prometheus. A local file inclusion vulnerability exists in Cortex versions 1.13.0, 1.13.1 and 1.14.0, where a malicious actor could remotely read local files as a result of parsing maliciously crafted Alertmanager configurations when submitted to the Alertmanager Set Configuration API. Only users of the Alertmanager service where `-experimental.alertmanager.enable-api` or `enable_api: true` is configured are affected. Affected Cortex users are advised to upgrade to patched versions 1.13.2 or 1.14.1. However as a workaround, Cortex administrators may reject Alertmanager configurations containing the `api_key_file` setting in the `opsgenie_configs` section before sending to the Set Alertmanager Configuration API.
 - [Live-Hack-CVE/CVE-2022-23536](https://github.com/Live-Hack-CVE/CVE-2022-23536)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23536">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23536">
+
+---
+## CVE-2022-23474 (2022-12-15T19:15:00)
+> Editor.js is a block-style editor with clean JSON output. Versions prior to 2.26.0 are vulnerable to Code Injection via pasted input. The processHTML method passes pasted input into wrapper’s innerHTML. This issue is patched in version 2.26.0.
+- [Live-Hack-CVE/CVE-2022-23474](https://github.com/Live-Hack-CVE/CVE-2022-23474)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23474">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23474">
 
 ---
 ## CVE-2022-23342 (2022-06-21T14:15:00)
