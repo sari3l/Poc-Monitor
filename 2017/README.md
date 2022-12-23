@@ -311,6 +311,11 @@
 - [Davi-afk/jenkins-cve-CVE-2017-2606](https://github.com/Davi-afk/jenkins-cve-CVE-2017-2606)	<img alt="forks" src="https://img.shields.io/github/forks/Davi-afk/jenkins-cve-CVE-2017-2606">	<img alt="stars" src="https://img.shields.io/github/stars/Davi-afk/jenkins-cve-CVE-2017-2606">
 
 ---
+## CVE-2017-20052 (2022-06-16T07:15:00)
+> A vulnerability classified as problematic was found in Python 2.7.13. This vulnerability affects unknown code of the component pgAdmin4. The manipulation leads to uncontrolled search path. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used.
+- [Live-Hack-CVE/CVE-2017-20052](https://github.com/Live-Hack-CVE/CVE-2017-20052)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20052">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20052">
+
+---
 ## CVE-2017-18926 (2020-11-06T18:15:00)
 > raptor_xml_writer_start_element_common in raptor_xml_writer.c in Raptor RDF Syntax Library 2.0.15 miscalculates the maximum nspace declarations for the XML writer, leading to heap-based buffer overflows (sometimes seen in raptor_qname_format_as_xml).
 - [Live-Hack-CVE/CVE-2017-18926](https://github.com/Live-Hack-CVE/CVE-2017-18926)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-18926">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-18926">

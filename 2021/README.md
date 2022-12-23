@@ -882,9 +882,19 @@
 - [Live-Hack-CVE/CVE-2021-3948](https://github.com/Live-Hack-CVE/CVE-2021-3948)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3948">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3948">
 
 ---
+## CVE-2021-39473 (2022-11-04T19:15:00)
+> Saibamen HotelManager v1.2 is vulnerable to Cross Site Scripting (XSS) due to improper sanitization of comment and contact fields.
+- [Live-Hack-CVE/CVE-2021-39473](https://github.com/Live-Hack-CVE/CVE-2021-39473)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39473">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39473">
+
+---
 ## CVE-2021-39434 (2022-12-06T00:15:00)
 > A default username and password for an administrator account was discovered in ZKTeco ZKTime 10.0 through 11.1.0, builds 20180901, 20190510.1, 20200309.3, 20200930, 20201231, and 20210220.
 - [Live-Hack-CVE/CVE-2021-39434](https://github.com/Live-Hack-CVE/CVE-2021-39434)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39434">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39434">
+
+---
+## CVE-2021-39432 (2022-11-04T17:15:00)
+> diplib v3.0.0 is vulnerable to Double Free.
+- [Live-Hack-CVE/CVE-2021-39432](https://github.com/Live-Hack-CVE/CVE-2021-39432)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39432">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39432">
 
 ---
 ## CVE-2021-3942 (2022-12-12T13:15:00)
@@ -1784,6 +1794,11 @@
 ## CVE-2021-25219 (2021-10-27T21:15:00)
 > In BIND 9.3.0 -> 9.11.35, 9.12.0 -> 9.16.21, and versions 9.9.3-S1 -> 9.11.35-S1 and 9.16.8-S1 -> 9.16.21-S1 of BIND Supported Preview Edition, as well as release versions 9.17.0 -> 9.17.18 of the BIND 9.17 development branch, exploitation of broken authoritative servers using a flaw in response processing can cause degradation in BIND resolver performance. The way the lame cache is currently designed makes it possible for its internal data structures to grow almost infinitely, which may cause significant delays in client query processing.
 - [Live-Hack-CVE/CVE-2021-25219](https://github.com/Live-Hack-CVE/CVE-2021-25219)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25219">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25219">
+
+---
+## CVE-2021-25121 (2022-06-20T11:15:00)
+> The Rating by BestWebSoft WordPress plugin before 1.6 does not validate the submitted rating, allowing submission of long integer, causing a Denial of Service on the post/page when a user submit such rating
+- [Live-Hack-CVE/CVE-2021-25121](https://github.com/Live-Hack-CVE/CVE-2021-25121)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25121">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25121">
 
 ---
 ## CVE-2021-25095 (2022-02-07T16:15:00)
