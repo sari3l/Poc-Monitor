@@ -5103,6 +5103,8 @@
 ## CVE-2022-3097 (2022-10-25T17:15:00)
 > The Plugin LBstopattack WordPress plugin before 1.1.3 does not use nonces when saving its settings, making it possible for attackers to conduct CSRF attacks. This could allow attackers to disable the plugin's protections.
 - [Live-Hack-CVE/CVE-2022-3097](https://github.com/Live-Hack-CVE/CVE-2022-3097)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3097">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3097">
+- [Live-Hack-CVE/CVE-2022-30975](https://github.com/Live-Hack-CVE/CVE-2022-30975)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30975">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30975">
+- [Live-Hack-CVE/CVE-2022-30974](https://github.com/Live-Hack-CVE/CVE-2022-30974)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30974">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30974">
 
 ---
 ## CVE-2022-30944 (2022-08-18T21:15:00)
