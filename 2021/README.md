@@ -1393,6 +1393,11 @@
 - [WizardsOfTheInternet/CVE-2021-27239](https://github.com/WizardsOfTheInternet/CVE-2021-27239)	<img alt="forks" src="https://img.shields.io/github/forks/WizardsOfTheInternet/CVE-2021-27239">	<img alt="stars" src="https://img.shields.io/github/stars/WizardsOfTheInternet/CVE-2021-27239">
 
 ---
+## CVE-2021-27219 (2021-02-15T17:15:00)
+> An issue was discovered in GNOME GLib before 2.66.6 and 2.67.x before 2.67.3. The function g_bytes_new has an integer overflow on 64-bit platforms due to an implicit cast from 64 bits to 32 bits. The overflow could potentially lead to memory corruption.
+- [Live-Hack-CVE/CVE-2021-27219](https://github.com/Live-Hack-CVE/CVE-2021-27219)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27219">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27219">
+
+---
 ## CVE-2021-26855 (2021-03-03T00:15:00)
 > Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.
 - [raheel0x01/CVE-2021-26855](https://github.com/raheel0x01/CVE-2021-26855)	<img alt="forks" src="https://img.shields.io/github/forks/raheel0x01/CVE-2021-26855">	<img alt="stars" src="https://img.shields.io/github/stars/raheel0x01/CVE-2021-26855">

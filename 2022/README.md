@@ -1086,6 +1086,11 @@
 - [Live-Hack-CVE/CVE-2022-44030](https://github.com/Live-Hack-CVE/CVE-2022-44030)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44030">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44030">
 
 ---
+## CVE-2022-44009 (2022-12-06T00:15:00)
+> Improper access control in Key-Value RBAC in StackStorm version 3.7.0 didn't check the permissions in Jinja filters, allowing attackers to access K/V pairs of other users, potentially leading to the exposure of sensitive Information.
+- [Live-Hack-CVE/CVE-2022-44009](https://github.com/Live-Hack-CVE/CVE-2022-44009)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44009">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44009">
+
+---
 ## CVE-2022-43996 (2022-12-13T22:15:00)
 > The csaf_provider package before 0.8.2 allows XSS via a crafted CSAF document uploaded as text/html. The endpoint upload allows valid CSAF advisories (JSON format) to be uploaded with Content-Type text/html and filenames ending in .html. When subsequently accessed via web browser, these advisories are served and interpreted as HTML pages. Such uploaded advisories can contain JavaScript code that will execute within the browser context of users inspecting the advisory.
 - [Live-Hack-CVE/CVE-2022-43996](https://github.com/Live-Hack-CVE/CVE-2022-43996)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43996">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43996">
@@ -1449,6 +1454,31 @@
 - [Live-Hack-CVE/CVE-2022-42775](https://github.com/Live-Hack-CVE/CVE-2022-42775)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42775">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42775">
 
 ---
+## CVE-2022-42771 (2022-12-06T07:15:00)
+> In wlan driver, there is a race condition, This could lead to local denial of service in wlan services.
+- [Live-Hack-CVE/CVE-2022-42771](https://github.com/Live-Hack-CVE/CVE-2022-42771)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42771">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42771">
+
+---
+## CVE-2022-42770 (2022-12-06T07:15:00)
+> In wlan driver, there is a race condition, This could lead to local denial of service in wlan services.
+- [Live-Hack-CVE/CVE-2022-42770](https://github.com/Live-Hack-CVE/CVE-2022-42770)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42770">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42770">
+
+---
+## CVE-2022-42769 (2022-12-06T07:15:00)
+> In wlan driver, there is a possible missing bounds check, This could lead to local denial of service in wlan services.
+- [Live-Hack-CVE/CVE-2022-42769](https://github.com/Live-Hack-CVE/CVE-2022-42769)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42769">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42769">
+
+---
+## CVE-2022-42768 (2022-12-06T07:15:00)
+> In wlan driver, there is a possible missing bounds check, This could lead to local denial of service in wlan services.
+- [Live-Hack-CVE/CVE-2022-42768](https://github.com/Live-Hack-CVE/CVE-2022-42768)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42768">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42768">
+
+---
+## CVE-2022-42767 (2022-12-06T07:15:00)
+> In wlan driver, there is a possible missing bounds check, This could lead to local denial of service in wlan services.
+- [Live-Hack-CVE/CVE-2022-42767](https://github.com/Live-Hack-CVE/CVE-2022-42767)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42767">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42767">
+
+---
 ## CVE-2022-42763 (2022-12-06T07:15:00)
 > In wlan driver, there is a possible missing bounds check, This could lead to local denial of service in wlan services.
 - [Live-Hack-CVE/CVE-2022-42763](https://github.com/Live-Hack-CVE/CVE-2022-42763)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42763">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42763">
@@ -1467,6 +1497,16 @@
 ## CVE-2022-42760 (2022-12-06T07:15:00)
 > In wlan driver, there is a possible missing bounds check, This could lead to local denial of service in wlan services.
 - [Live-Hack-CVE/CVE-2022-42760](https://github.com/Live-Hack-CVE/CVE-2022-42760)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42760">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42760">
+
+---
+## CVE-2022-42758 (2022-12-06T07:15:00)
+> In wlan driver, there is a possible missing bounds check, This could lead to local denial of service in wlan services.
+- [Live-Hack-CVE/CVE-2022-42758](https://github.com/Live-Hack-CVE/CVE-2022-42758)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42758">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42758">
+
+---
+## CVE-2022-42757 (2022-12-06T07:15:00)
+> In wlan driver, there is a possible missing bounds check, This could lead to local denial of service in wlan services.
+- [Live-Hack-CVE/CVE-2022-42757](https://github.com/Live-Hack-CVE/CVE-2022-42757)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42757">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42757">
 
 ---
 ## CVE-2022-42716 (2022-12-12T20:15:00)
@@ -2038,6 +2078,7 @@
 - [LivingFree8/CVE-2022-41082-RCE-POC](https://github.com/LivingFree8/CVE-2022-41082-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/LivingFree8/CVE-2022-41082-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/LivingFree8/CVE-2022-41082-RCE-POC">
 - [PyterSmithDarkGhost/ZERODAYENCADEAMENTOCVE2022-41040-CVE2022-41082](https://github.com/PyterSmithDarkGhost/ZERODAYENCADEAMENTOCVE2022-41040-CVE2022-41082)	<img alt="forks" src="https://img.shields.io/github/forks/PyterSmithDarkGhost/ZERODAYENCADEAMENTOCVE2022-41040-CVE2022-41082">	<img alt="stars" src="https://img.shields.io/github/stars/PyterSmithDarkGhost/ZERODAYENCADEAMENTOCVE2022-41040-CVE2022-41082">
 - [balki97/OWASSRF-CVE-2022-41082-POC](https://github.com/balki97/OWASSRF-CVE-2022-41082-POC)	<img alt="forks" src="https://img.shields.io/github/forks/balki97/OWASSRF-CVE-2022-41082-POC">	<img alt="stars" src="https://img.shields.io/github/stars/balki97/OWASSRF-CVE-2022-41082-POC">
+- [Live-Hack-CVE/CVE-2022-41082](https://github.com/Live-Hack-CVE/CVE-2022-41082)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41082">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41082">
 
 ---
 ## CVE-2022-41079 (2022-11-09T22:15:00)
@@ -2102,6 +2143,7 @@
 - [backcr4t/CVE-2022-41082-MASS-RCE](https://github.com/backcr4t/CVE-2022-41082-MASS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/backcr4t/CVE-2022-41082-MASS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/backcr4t/CVE-2022-41082-MASS-RCE">
 - [trhacknon/CVE-2022-41040-metasploit-ProxyNotShell](https://github.com/trhacknon/CVE-2022-41040-metasploit-ProxyNotShell)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-41040-metasploit-ProxyNotShell">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-41040-metasploit-ProxyNotShell">
 - [stat1st1c/CVE-2022-41082-RCE-POC](https://github.com/stat1st1c/CVE-2022-41082-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/stat1st1c/CVE-2022-41082-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/stat1st1c/CVE-2022-41082-RCE-POC">
+- [Live-Hack-CVE/CVE-2022-41040](https://github.com/Live-Hack-CVE/CVE-2022-41040)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41040">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41040">
 
 ---
 ## CVE-2022-410 ()
@@ -2469,9 +2511,74 @@
 - [Live-Hack-CVE/CVE-2022-3917](https://github.com/Live-Hack-CVE/CVE-2022-3917)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3917">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3917">
 
 ---
+## CVE-2022-39132 (2022-12-06T07:15:00)
+> In camera driver, there is a possible out of bounds write due to a missing bounds check. This could lead to local denial of service in kernel.
+- [Live-Hack-CVE/CVE-2022-39132](https://github.com/Live-Hack-CVE/CVE-2022-39132)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39132">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39132">
+
+---
+## CVE-2022-39131 (2022-12-06T07:15:00)
+> In camera driver, there is a possible memory corruption due to improper locking. This could lead to local denial of service in kernel.
+- [Live-Hack-CVE/CVE-2022-39131](https://github.com/Live-Hack-CVE/CVE-2022-39131)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39131">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39131">
+
+---
+## CVE-2022-39129 (2022-12-06T07:15:00)
+> In face detect driver, there is a possible out of bounds write due to a missing bounds check. This could lead to local denial of service in kernel.
+- [Live-Hack-CVE/CVE-2022-39129](https://github.com/Live-Hack-CVE/CVE-2022-39129)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39129">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39129">
+
+---
+## CVE-2022-39106 (2022-12-06T07:15:00)
+> In sensor driver, there is a possible out of bounds write due to a missing bounds check. This could lead to local denial of service in kernel.
+- [Live-Hack-CVE/CVE-2022-39106](https://github.com/Live-Hack-CVE/CVE-2022-39106)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39106">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39106">
+
+---
+## CVE-2022-39102 (2022-12-06T07:15:00)
+> In power management service, there is a missing permission check. This could lead to set up power management service with no additional execution privileges needed.
+- [Live-Hack-CVE/CVE-2022-39102](https://github.com/Live-Hack-CVE/CVE-2022-39102)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39102">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39102">
+
+---
+## CVE-2022-39101 (2022-12-06T07:15:00)
+> In power management service, there is a missing permission check. This could lead to set up power management service with no additional execution privileges needed.
+- [Live-Hack-CVE/CVE-2022-39101](https://github.com/Live-Hack-CVE/CVE-2022-39101)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39101">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39101">
+
+---
+## CVE-2022-39100 (2022-12-06T07:15:00)
+> In power management service, there is a missing permission check. This could lead to set up power management service with no additional execution privileges needed.
+- [Live-Hack-CVE/CVE-2022-39100](https://github.com/Live-Hack-CVE/CVE-2022-39100)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39100">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39100">
+
+---
 ## CVE-2022-39099 (2022-12-06T07:15:00)
 > In power management service, there is a missing permission check. This could lead to set up power management service with no additional execution privileges needed.
 - [Live-Hack-CVE/CVE-2022-39099](https://github.com/Live-Hack-CVE/CVE-2022-39099)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39099">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39099">
+
+---
+## CVE-2022-39095 (2022-12-06T07:15:00)
+> In power management service, there is a missing permission check. This could lead to set up power management service with no additional execution privileges needed.
+- [Live-Hack-CVE/CVE-2022-39095](https://github.com/Live-Hack-CVE/CVE-2022-39095)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39095">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39095">
+
+---
+## CVE-2022-39094 (2022-12-06T07:15:00)
+> In power management service, there is a missing permission check. This could lead to set up power management service with no additional execution privileges needed.
+- [Live-Hack-CVE/CVE-2022-39094](https://github.com/Live-Hack-CVE/CVE-2022-39094)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39094">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39094">
+
+---
+## CVE-2022-39093 (2022-12-06T07:15:00)
+> In power management service, there is a missing permission check. This could lead to set up power management service with no additional execution privileges needed.
+- [Live-Hack-CVE/CVE-2022-39093](https://github.com/Live-Hack-CVE/CVE-2022-39093)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39093">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39093">
+
+---
+## CVE-2022-39092 (2022-12-06T07:15:00)
+> In power management service, there is a missing permission check. This could lead to set up power management service with no additional execution privileges needed.
+- [Live-Hack-CVE/CVE-2022-39092](https://github.com/Live-Hack-CVE/CVE-2022-39092)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39092">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39092">
+
+---
+## CVE-2022-39091 (2022-12-06T07:15:00)
+> In power management service, there is a missing permission check. This could lead to set up power management service with no additional execution privileges needed.
+- [Live-Hack-CVE/CVE-2022-39091](https://github.com/Live-Hack-CVE/CVE-2022-39091)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39091">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39091">
+
+---
+## CVE-2022-39090 (2022-12-06T07:15:00)
+> In power management service, there is a missing permission check. This could lead to set up power management service with no additional execution privileges needed.
+- [Live-Hack-CVE/CVE-2022-39090](https://github.com/Live-Hack-CVE/CVE-2022-39090)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39090">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39090">
 
 ---
 ## CVE-2022-39066 (2022-11-22T17:15:00)
@@ -3179,6 +3286,11 @@
 - [Live-Hack-CVE/CVE-2022-34916](https://github.com/Live-Hack-CVE/CVE-2022-34916)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34916">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34916">
 
 ---
+## CVE-2022-34881 (2022-12-06T02:15:00)
+> Generation of Error Message Containing Sensitive Information vulnerability in Hitachi JP1/Automatic Operation allows local users to gain sensitive information. This issue affects JP1/Automatic Operation: from 10-00 through 10-54-03, from 11-00 before 11-51-09, from 12-00 before 12-60-01.
+- [Live-Hack-CVE/CVE-2022-34881](https://github.com/Live-Hack-CVE/CVE-2022-34881)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34881">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34881">
+
+---
 ## CVE-2022-3481 (2022-11-07T10:15:00)
 > The WooCommerce Dropshipping WordPress plugin before 4.4 does not properly sanitise and escape a parameter before using it in a SQL statement via a REST endpoint available to unauthenticated users, leading to a SQL injection
 - [Live-Hack-CVE/CVE-2022-3481](https://github.com/Live-Hack-CVE/CVE-2022-3481)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3481">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3481">
@@ -3521,6 +3633,11 @@
 ## CVE-2022-32114 (2022-07-13T21:15:00)
 > An unrestricted file upload vulnerability in the Add New Assets function of Strapi v4.1.12 allows attackers to execute arbitrary code via a crafted file.
 - [bypazs/CVE-2022-32114](https://github.com/bypazs/CVE-2022-32114)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/CVE-2022-32114">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/CVE-2022-32114">
+
+---
+## CVE-2022-32089 (2022-07-01T20:15:00)
+> MariaDB v10.5 to v10.7 was discovered to contain a segmentation fault via the component st_select_lex_unit::exclude_level.
+- [Live-Hack-CVE/CVE-2022-32089](https://github.com/Live-Hack-CVE/CVE-2022-32089)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32089">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32089">
 
 ---
 ## CVE-2022-32060 (2022-07-07T23:15:00)
@@ -4529,6 +4646,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-25948](https://github.com/Live-Hack-CVE/CVE-2022-25948)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25948">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25948">
 
 ---
+## CVE-2022-25912 (2022-12-06T05:15:00)
+> The package simple-git before 3.15.0 are vulnerable to Remote Code Execution (RCE) when enabling the ext transport protocol, which makes it exploitable via clone() method. This vulnerability exists due to an incomplete fix of [CVE-2022-24066](https://security.snyk.io/vuln/SNYK-JS-SIMPLEGIT-2434306).
+- [Live-Hack-CVE/CVE-2022-25912](https://github.com/Live-Hack-CVE/CVE-2022-25912)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25912">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25912">
+
+---
 ## CVE-2022-2588 ()
 > 
 - [Markakd/CVE-2022-2588](https://github.com/Markakd/CVE-2022-2588)	<img alt="forks" src="https://img.shields.io/github/forks/Markakd/CVE-2022-2588">	<img alt="stars" src="https://img.shields.io/github/stars/Markakd/CVE-2022-2588">
@@ -4700,6 +4822,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-24480 (2022-12-13T19:15:00)
 > Outlook for Android Elevation of Privilege Vulnerability.
 - [Live-Hack-CVE/CVE-2022-24480](https://github.com/Live-Hack-CVE/CVE-2022-24480)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24480">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24480">
+
+---
+## CVE-2022-24439 (2022-12-06T05:15:00)
+> All versions of package gitpython are vulnerable to Remote Code Execution (RCE) due to improper user input validation, which makes it possible to inject a maliciously crafted remote URL into the clone command. Exploiting this vulnerability is possible because the library makes external calls to git without sufficient sanitization of input arguments.
+- [Live-Hack-CVE/CVE-2022-24439](https://github.com/Live-Hack-CVE/CVE-2022-24439)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24439">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24439">
 
 ---
 ## CVE-2022-24377 (2022-12-14T05:15:00)

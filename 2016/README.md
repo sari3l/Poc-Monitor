@@ -98,6 +98,11 @@
 - [arbll/dirtycow](https://github.com/arbll/dirtycow)	<img alt="forks" src="https://img.shields.io/github/forks/arbll/dirtycow">	<img alt="stars" src="https://img.shields.io/github/stars/arbll/dirtycow">
 
 ---
+## CVE-2016-4432 (2016-06-01T20:59:00)
+> The AMQP 0-8, 0-9, 0-91, and 0-10 connection handling in Apache Qpid Java before 6.0.3 might allow remote attackers to bypass authentication and consequently perform actions via vectors related to connection state logging.
+- [Live-Hack-CVE/CVE-2016-4432](https://github.com/Live-Hack-CVE/CVE-2016-4432)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-4432">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-4432">
+
+---
 ## CVE-2016-4163 (2016-06-16T14:59:00)
 > Adobe Flash Player before 18.0.0.352 and 19.x through 21.x before 21.0.0.242 on Windows and OS X and before 11.2.202.621 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-1096, CVE-2016-1098, CVE-2016-1099, CVE-2016-1100, CVE-2016-1102, CVE-2016-1104, CVE-2016-4109, CVE-2016-4111, CVE-2016-4112, CVE-2016-4113, CVE-2016-4114, CVE-2016-4115, CVE-2016-4120, CVE-2016-4160, CVE-2016-4161, and CVE-2016-4162.
 - [Live-Hack-CVE/CVE-2016-4163](https://github.com/Live-Hack-CVE/CVE-2016-4163)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-4163">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-4163">
@@ -146,6 +151,11 @@
 - [Hood3dRob1n/CVE-2016-3714](https://github.com/Hood3dRob1n/CVE-2016-3714)	<img alt="forks" src="https://img.shields.io/github/forks/Hood3dRob1n/CVE-2016-3714">	<img alt="stars" src="https://img.shields.io/github/stars/Hood3dRob1n/CVE-2016-3714">
 - [tommiionfire/CVE-2016-3714](https://github.com/tommiionfire/CVE-2016-3714)	<img alt="forks" src="https://img.shields.io/github/forks/tommiionfire/CVE-2016-3714">	<img alt="stars" src="https://img.shields.io/github/stars/tommiionfire/CVE-2016-3714">
 - [jackdpeterson/imagick_secure_puppet](https://github.com/jackdpeterson/imagick_secure_puppet)	<img alt="forks" src="https://img.shields.io/github/forks/jackdpeterson/imagick_secure_puppet">	<img alt="stars" src="https://img.shields.io/github/stars/jackdpeterson/imagick_secure_puppet">
+
+---
+## CVE-2016-3709 (2022-07-28T17:15:00)
+> Possible cross-site scripting vulnerability in libxml after commit 960f0e2.
+- [Live-Hack-CVE/CVE-2016-3709](https://github.com/Live-Hack-CVE/CVE-2016-3709)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-3709">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-3709">
 
 ---
 ## CVE-2016-2338 (2022-09-29T03:15:00)
