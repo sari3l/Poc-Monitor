@@ -744,6 +744,11 @@
 - [Live-Hack-CVE/CVE-2021-3995](https://github.com/Live-Hack-CVE/CVE-2021-3995)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3995">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3995">
 
 ---
+## CVE-2021-3975 (2022-08-23T20:15:00)
+> A use-after-free flaw was found in libvirt. The qemuMonitorUnregister() function in qemuProcessHandleMonitorEOF is called using multiple threads without being adequately protected by a monitor lock. This flaw could be triggered by the virConnectGetAllDomainStats API when the guest is shutting down. An unprivileged client with a read-only connection could use this flaw to perform a denial of service attack by causing the libvirt daemon to crash.
+- [Live-Hack-CVE/CVE-2021-3975](https://github.com/Live-Hack-CVE/CVE-2021-3975)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3975">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3975">
+
+---
 ## CVE-2021-39696 (2022-08-10T20:15:00)
 > In Task.java, there is a possible escalation of privilege due to a confused deputy. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12Android ID: A-185810717
 - [nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-39696](https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-39696)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-39696">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-39696">
@@ -1533,6 +1538,7 @@
 ## CVE-2021-25642 (2022-08-25T14:15:00)
 > ZKConfigurationStore which is optionally used by CapacityScheduler of Apache Hadoop YARN deserializes data obtained from ZooKeeper without validation. An attacker having access to ZooKeeper can run arbitrary commands as YARN user by exploiting this. Users should upgrade to Apache Hadoop 2.10.2, 3.2.4, 3.3.4 or later (containing YARN-11126) if ZKConfigurationStore is used.
 - [safe3s/CVE-2021-25642](https://github.com/safe3s/CVE-2021-25642)	<img alt="forks" src="https://img.shields.io/github/forks/safe3s/CVE-2021-25642">	<img alt="stars" src="https://img.shields.io/github/stars/safe3s/CVE-2021-25642">
+- [Live-Hack-CVE/CVE-2021-25642](https://github.com/Live-Hack-CVE/CVE-2021-25642)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25642">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25642">
 
 ---
 ## CVE-2021-25641 (2021-06-01T14:15:00)
