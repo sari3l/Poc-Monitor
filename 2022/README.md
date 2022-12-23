@@ -1242,6 +1242,11 @@
 - [iamsanjay/CVE-2022-42899](https://github.com/iamsanjay/CVE-2022-42899)	<img alt="forks" src="https://img.shields.io/github/forks/iamsanjay/CVE-2022-42899">	<img alt="stars" src="https://img.shields.io/github/stars/iamsanjay/CVE-2022-42899">
 
 ---
+## CVE-2022-42890 (2022-10-25T17:15:00)
+> A vulnerability in Batik of Apache XML Graphics allows an attacker to run Java code from untrusted SVG via JavaScript. This issue affects Apache XML Graphics prior to 1.16. Users are recommended to upgrade to version 1.16.
+- [Live-Hack-CVE/CVE-2022-42890](https://github.com/Live-Hack-CVE/CVE-2022-42890)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42890">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42890">
+
+---
 ## CVE-2022-42889 (2022-10-13T13:15:00)
 > Apache Commons Text performs variable interpolation, allowing properties to be dynamically evaluated and expanded. The standard format for interpolation is "${prefix:name}", where "prefix" is used to locate an instance of org.apache.commons.text.lookup.StringLookup that performs the interpolation. Starting with version 1.5 and continuing through 1.9, the set of default Lookup instances included interpolators that could result in arbitrary code execution or contact with remote servers. These lookups are: - "script" - execute expressions using the JVM script execution engine (javax.script) - "dns" - resolve dns records - "url" - load values from urls, including from remote servers Applications using the interpolation defaults in the affected versions may be vulnerable to remote code execution or unintentional contact with remote servers if untrusted configuration values are used. Users are recommended to upgrade to Apache Commons Text 1.10.0, which disables the problematic interpolators by default.
 - [standb/CVE-2022-42889](https://github.com/standb/CVE-2022-42889)	<img alt="forks" src="https://img.shields.io/github/forks/standb/CVE-2022-42889">	<img alt="stars" src="https://img.shields.io/github/stars/standb/CVE-2022-42889">
@@ -1387,6 +1392,21 @@
 ## CVE-2022-42805 (2022-12-15T19:15:00)
 > An integer overflow was addressed with improved input validation. This issue is fixed in iOS 15.6 and iPadOS 15.6, macOS Monterey 12.5. An app may be able to execute arbitrary code with kernel privileges.
 - [Live-Hack-CVE/CVE-2022-42805](https://github.com/Live-Hack-CVE/CVE-2022-42805)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42805">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42805">
+
+---
+## CVE-2022-42781 (2022-12-06T07:15:00)
+> In wlan driver, there is a possible missing bounds check, This could lead to local denial of service in wlan services.
+- [Live-Hack-CVE/CVE-2022-42781](https://github.com/Live-Hack-CVE/CVE-2022-42781)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42781">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42781">
+
+---
+## CVE-2022-42780 (2022-12-06T07:15:00)
+> In wlan driver, there is a possible missing bounds check, This could lead to local denial of service in wlan services.
+- [Live-Hack-CVE/CVE-2022-42780](https://github.com/Live-Hack-CVE/CVE-2022-42780)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42780">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42780">
+
+---
+## CVE-2022-42779 (2022-12-06T07:15:00)
+> In wlan driver, there is a possible missing bounds check, This could lead to local denial of service in wlan services.
+- [Live-Hack-CVE/CVE-2022-42779](https://github.com/Live-Hack-CVE/CVE-2022-42779)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42779">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42779">
 
 ---
 ## CVE-2022-42778 (2022-12-06T07:15:00)
@@ -1770,6 +1790,11 @@
 - [Live-Hack-CVE/CVE-2022-4172](https://github.com/Live-Hack-CVE/CVE-2022-4172)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4172">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4172">
 
 ---
+## CVE-2022-41704 (2022-10-25T17:15:00)
+> A vulnerability in Batik of Apache XML Graphics allows an attacker to run untrusted Java code from an SVG. This issue affects Apache XML Graphics prior to 1.16. It is recommended to update to version 1.16.
+- [Live-Hack-CVE/CVE-2022-41704](https://github.com/Live-Hack-CVE/CVE-2022-41704)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41704">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41704">
+
+---
 ## CVE-2022-41697 (2022-12-22T10:15:00)
 > A user enumeration vulnerability exists in the login functionality of Ghost Foundation Ghost 5.9.4. A specially-crafted HTTP request can lead to a disclosure of sensitive information. An attacker can send a series of HTTP requests to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2022-41697](https://github.com/Live-Hack-CVE/CVE-2022-41697)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41697">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41697">
@@ -1824,6 +1849,11 @@
 ## CVE-2022-41412 (2022-11-30T05:15:00)
 > An issue in the graphData.cgi component of perfSONAR v4.4.5 and prior allows attackers to access sensitive data and execute Server-Side Request Forgery (SSRF) attacks.
 - [renmizo/CVE-2022-41412](https://github.com/renmizo/CVE-2022-41412)	<img alt="forks" src="https://img.shields.io/github/forks/renmizo/CVE-2022-41412">	<img alt="stars" src="https://img.shields.io/github/stars/renmizo/CVE-2022-41412">
+
+---
+## CVE-2022-4141 (2022-11-25T14:15:00)
+> Heap based buffer overflow in vim/vim 9.0.0946 and below by allowing an attacker to CTRL-W gf in the expression used in the RHS of the substitute command.
+- [Live-Hack-CVE/CVE-2022-4141](https://github.com/Live-Hack-CVE/CVE-2022-4141)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4141">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4141">
 
 ---
 ## CVE-2022-41358 (2022-10-20T02:15:00)
@@ -2424,6 +2454,11 @@
 - [v0lp3/CVE-2022-39066](https://github.com/v0lp3/CVE-2022-39066)	<img alt="forks" src="https://img.shields.io/github/forks/v0lp3/CVE-2022-39066">	<img alt="stars" src="https://img.shields.io/github/stars/v0lp3/CVE-2022-39066">
 
 ---
+## CVE-2022-39046 (2022-08-31T06:15:00)
+> An issue was discovered in the GNU C Library (glibc) 2.36. When the syslog function is passed a crafted input string larger than 1024 bytes, it reads uninitialized memory from the heap and prints it to the target log file, potentially revealing a portion of the contents of the heap.
+- [Live-Hack-CVE/CVE-2022-39046](https://github.com/Live-Hack-CVE/CVE-2022-39046)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39046">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39046">
+
+---
 ## CVE-2022-3889 (2022-11-09T04:15:00)
 > Type confusion in V8 in Google Chrome prior to 107.0.5304.106 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [Live-Hack-CVE/CVE-2022-3889](https://github.com/Live-Hack-CVE/CVE-2022-3889)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3889">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3889">
@@ -2460,6 +2495,11 @@
 - [RashidKhanPathan/CVE-2022-38813](https://github.com/RashidKhanPathan/CVE-2022-38813)	<img alt="forks" src="https://img.shields.io/github/forks/RashidKhanPathan/CVE-2022-38813">	<img alt="stars" src="https://img.shields.io/github/stars/RashidKhanPathan/CVE-2022-38813">
 
 ---
+## CVE-2022-38791 (2022-08-27T20:15:00)
+> In MariaDB before 10.9.2, compress_write in extra/mariabackup/ds_compress.cc does not release data_mutex upon a stream write failure, which allows local users to trigger a deadlock.
+- [Live-Hack-CVE/CVE-2022-38791](https://github.com/Live-Hack-CVE/CVE-2022-38791)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38791">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38791">
+
+---
 ## CVE-2022-3879 (2022-12-12T18:15:00)
 > The Car Dealer (Dealership) and Vehicle sales WordPress Plugin WordPress plugin before 3.05 does not have proper authorisation and CSRF in an AJAX action, allowing any authenticated users, such as subscriber to call it and install and activate arbitrary plugins from wordpress.org
 - [Live-Hack-CVE/CVE-2022-3879](https://github.com/Live-Hack-CVE/CVE-2022-3879)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3879">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3879">
@@ -2488,6 +2528,11 @@
 ## CVE-2022-38553 (2022-09-26T10:15:00)
 > Academy Learning Management System before v5.9.1 was discovered to contain a reflected cross-site scripting (XSS) vulnerability via the Search parameter.
 - [4websecurity/CVE-2022-38553](https://github.com/4websecurity/CVE-2022-38553)	<img alt="forks" src="https://img.shields.io/github/forks/4websecurity/CVE-2022-38553">	<img alt="stars" src="https://img.shields.io/github/stars/4websecurity/CVE-2022-38553">
+
+---
+## CVE-2022-38533 (2022-08-26T00:15:00)
+> In GNU Binutils before 2.40, there is a heap-buffer-overflow in the error function bfd_getl32 when called from the strip_main function in strip-new via a crafted file.
+- [Live-Hack-CVE/CVE-2022-38533](https://github.com/Live-Hack-CVE/CVE-2022-38533)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38533">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38533">
 
 ---
 ## CVE-2022-38374 (2022-11-02T12:15:00)
@@ -2922,6 +2967,11 @@
 - [Live-Hack-CVE/CVE-2022-3605](https://github.com/Live-Hack-CVE/CVE-2022-3605)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3605">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3605">
 
 ---
+## CVE-2022-36033 (2022-08-29T17:15:00)
+> jsoup is a Java HTML parser, built for HTML editing, cleaning, scraping, and cross-site scripting (XSS) safety. jsoup may incorrectly sanitize HTML including `javascript:` URL expressions, which could allow XSS attacks when a reader subsequently clicks that link. If the non-default `SafeList.preserveRelativeLinks` option is enabled, HTML including `javascript:` URLs that have been crafted with control characters will not be sanitized. If the site that this HTML is published on does not set a Content Security Policy, an XSS attack is then possible. This issue is patched in jsoup 1.15.3. Users should upgrade to this version. Additionally, as the unsanitized input may have been persisted, old content should be cleaned again using the updated version. To remediate this issue without immediately upgrading: - disable `SafeList.preserveRelativeLinks`, which will rewrite input URLs as absolute URLs - ensure an appropriate [Content Security Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP) is defined. (This should be used regardless of upgrading, as a defence-in-depth best practice.)
+- [Live-Hack-CVE/CVE-2022-36033](https://github.com/Live-Hack-CVE/CVE-2022-36033)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36033">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36033">
+
+---
 ## CVE-2022-36023 (2022-08-18T16:15:00)
 > Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. If a gateway client application sends a malformed request to a gateway peer it may crash the peer node. Version 2.4.6 checks for the malformed gateway request and returns an error to the gateway client. There are no known workarounds, users must upgrade to version 2.4.6.
 - [Live-Hack-CVE/CVE-2022-36023](https://github.com/Live-Hack-CVE/CVE-2022-36023)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36023">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36023">
@@ -3221,6 +3271,11 @@
 - [Live-Hack-CVE/CVE-2022-33747](https://github.com/Live-Hack-CVE/CVE-2022-33747)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33747">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33747">
 
 ---
+## CVE-2022-33746 (2022-10-11T13:15:00)
+> P2M pool freeing may take excessively long The P2M pool backing second level address translation for guests may be of significant size. Therefore its freeing may take more time than is reasonable without intermediate preemption checks. Such checking for the need to preempt was so far missing.
+- [Live-Hack-CVE/CVE-2022-33746](https://github.com/Live-Hack-CVE/CVE-2022-33746)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33746">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33746">
+
+---
 ## CVE-2022-3368 (2022-10-17T21:15:00)
 > A vulnerability within the Software Updater functionality of Avira Security for Windows allowed an attacker with write access to the filesystem, to escalate his privileges in certain scenarios. The issue was fixed with Avira Security version 1.1.72.30556.
 - [Wh04m1001/CVE-2022-3368](https://github.com/Wh04m1001/CVE-2022-3368)	<img alt="forks" src="https://img.shields.io/github/forks/Wh04m1001/CVE-2022-3368">	<img alt="stars" src="https://img.shields.io/github/stars/Wh04m1001/CVE-2022-3368">
@@ -3328,6 +3383,11 @@
 ## CVE-2022-32883 (2022-09-20T21:15:00)
 > A logic issue was addressed with improved restrictions. This issue is fixed in macOS Monterey 12.6, iOS 15.7 and iPadOS 15.7, iOS 16, macOS Big Sur 11.7. An app may be able to read sensitive location information.
 - [breakpointHQ/CVE-2022-32883](https://github.com/breakpointHQ/CVE-2022-32883)	<img alt="forks" src="https://img.shields.io/github/forks/breakpointHQ/CVE-2022-32883">	<img alt="stars" src="https://img.shields.io/github/stars/breakpointHQ/CVE-2022-32883">
+
+---
+## CVE-2022-32868 (2022-09-20T21:15:00)
+> A logic issue was addressed with improved state management. This issue is fixed in Safari 16, iOS 16, iOS 15.7 and iPadOS 15.7. A website may be able to track users through Safari web extensions.
+- [Live-Hack-CVE/CVE-2022-32868](https://github.com/Live-Hack-CVE/CVE-2022-32868)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32868">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32868">
 
 ---
 ## CVE-2022-32832 (2022-09-23T19:15:00)
@@ -4134,6 +4194,11 @@
 ## CVE-2022-28672 (2022-07-18T19:15:00)
 > This vulnerability allows remote attackers to execute arbitrary code on affected installations of Foxit PDF Reader 11.2.1.53537. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the handling of Doc objects. The issue results from the lack of validating the existence of an object prior to performing operations on the object. An attacker can leverage this vulnerability to execute code in the context of the current process. Was ZDI-CAN-16640.
 - [hacksysteam/CVE-2022-28672](https://github.com/hacksysteam/CVE-2022-28672)	<img alt="forks" src="https://img.shields.io/github/forks/hacksysteam/CVE-2022-28672">	<img alt="stars" src="https://img.shields.io/github/stars/hacksysteam/CVE-2022-28672">
+
+---
+## CVE-2022-28383 (2022-06-08T16:15:00)
+> An issue was discovered in certain Verbatim drives through 2022-03-31. Due to insufficient firmware validation, an attacker can store malicious firmware code for the USB-to-SATA bridge controller on the USB drive (e.g., by leveraging physical access during the supply chain). This code is then executed. This affects Keypad Secure USB 3.2 Gen 1 Drive Part Number #49428, Store 'n' Go Secure Portable HDD GD25LK01-3637-C VER4.0, Executive Fingerprint Secure SSD GDMSFE01-INI3637-C VER1.1, and Fingerprint Secure Portable Hard Drive Part Number #53650.
+- [Live-Hack-CVE/CVE-2022-28383](https://github.com/Live-Hack-CVE/CVE-2022-28383)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28383">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28383">
 
 ---
 ## CVE-2022-28382 (2022-06-08T16:15:00)
@@ -5744,6 +5809,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [savior-only/CVE-2022-1609](https://github.com/savior-only/CVE-2022-1609)	<img alt="forks" src="https://img.shields.io/github/forks/savior-only/CVE-2022-1609">	<img alt="stars" src="https://img.shields.io/github/stars/savior-only/CVE-2022-1609">
 
 ---
+## CVE-2022-1552 (2022-08-31T16:15:00)
+> A flaw was found in PostgreSQL. There is an issue with incomplete efforts to operate safely when a privileged user is maintaining another user's objects. The Autovacuum, REINDEX, CREATE INDEX, REFRESH MATERIALIZED VIEW, CLUSTER, and pg_amcheck commands activated relevant protections too late or not at all during the process. This flaw allows an attacker with permission to create non-temporary objects in at least one schema to execute arbitrary SQL functions under a superuser identity.
+- [Live-Hack-CVE/CVE-2022-1552](https://github.com/Live-Hack-CVE/CVE-2022-1552)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1552">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1552">
+
+---
 ## CVE-2022-14733 ()
 > 
 - [hkzck/CVE-2022-14733](https://github.com/hkzck/CVE-2022-14733)	<img alt="forks" src="https://img.shields.io/github/forks/hkzck/CVE-2022-14733">	<img alt="stars" src="https://img.shields.io/github/stars/hkzck/CVE-2022-14733">
@@ -6009,6 +6079,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [destr4ct/CVE-2022-0739](https://github.com/destr4ct/CVE-2022-0739)	<img alt="forks" src="https://img.shields.io/github/forks/destr4ct/CVE-2022-0739">	<img alt="stars" src="https://img.shields.io/github/stars/destr4ct/CVE-2022-0739">
 - [Chris01s/CVE-2022-0739](https://github.com/Chris01s/CVE-2022-0739)	<img alt="forks" src="https://img.shields.io/github/forks/Chris01s/CVE-2022-0739">	<img alt="stars" src="https://img.shields.io/github/stars/Chris01s/CVE-2022-0739">
 - [BKreisel/CVE-2022-0739](https://github.com/BKreisel/CVE-2022-0739)	<img alt="forks" src="https://img.shields.io/github/forks/BKreisel/CVE-2022-0739">	<img alt="stars" src="https://img.shields.io/github/stars/BKreisel/CVE-2022-0739">
+- [Ki11i0n4ir3/CVE-2022-0739](https://github.com/Ki11i0n4ir3/CVE-2022-0739)	<img alt="forks" src="https://img.shields.io/github/forks/Ki11i0n4ir3/CVE-2022-0739">	<img alt="stars" src="https://img.shields.io/github/stars/Ki11i0n4ir3/CVE-2022-0739">
 
 ---
 ## CVE-2022-0730 (2022-03-03T23:15:00)

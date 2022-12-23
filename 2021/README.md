@@ -428,6 +428,11 @@
 - [Live-Hack-CVE/CVE-2021-41943](https://github.com/Live-Hack-CVE/CVE-2021-41943)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41943">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41943">
 
 ---
+## CVE-2021-4189 (2022-08-24T16:15:00)
+> A flaw was found in Python, specifically in the FTP (File Transfer Protocol) client library in PASV (passive) mode. The issue is how the FTP client trusts the host from the PASV response by default. This flaw allows an attacker to set up a malicious FTP server that can trick FTP clients into connecting back to a given IP address and port. This vulnerability could lead to FTP client scanning ports, which otherwise would not have been possible.
+- [Live-Hack-CVE/CVE-2021-4189](https://github.com/Live-Hack-CVE/CVE-2021-4189)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4189">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4189">
+
+---
 ## CVE-2021-41805 (2021-12-12T05:15:00)
 > HashiCorp Consul Enterprise before 1.8.17, 1.9.x before 1.9.11, and 1.10.x before 1.10.4 has Incorrect Access Control. An ACL token (with the default operator:write permissions) in one namespace can be used for unintended privilege escalation in a different namespace.
 - [I-Am-Nelson/CVE-2021-41805](https://github.com/I-Am-Nelson/CVE-2021-41805)	<img alt="forks" src="https://img.shields.io/github/forks/I-Am-Nelson/CVE-2021-41805">	<img alt="stars" src="https://img.shields.io/github/stars/I-Am-Nelson/CVE-2021-41805">
@@ -636,6 +641,11 @@
 - [xiaojiangxl/CVE-2021-40438](https://github.com/xiaojiangxl/CVE-2021-40438)	<img alt="forks" src="https://img.shields.io/github/forks/xiaojiangxl/CVE-2021-40438">	<img alt="stars" src="https://img.shields.io/github/stars/xiaojiangxl/CVE-2021-40438">
 - [WilsonFung414/CVE-2021-40438_Docker_2](https://github.com/WilsonFung414/CVE-2021-40438_Docker_2)	<img alt="forks" src="https://img.shields.io/github/forks/WilsonFung414/CVE-2021-40438_Docker_2">	<img alt="stars" src="https://img.shields.io/github/stars/WilsonFung414/CVE-2021-40438_Docker_2">
 - [WilsonFung414/CVE-2021-27928_Docker_2](https://github.com/WilsonFung414/CVE-2021-27928_Docker_2)	<img alt="forks" src="https://img.shields.io/github/forks/WilsonFung414/CVE-2021-27928_Docker_2">	<img alt="stars" src="https://img.shields.io/github/stars/WilsonFung414/CVE-2021-27928_Docker_2">
+
+---
+## CVE-2021-4037 (2022-08-24T16:15:00)
+> A vulnerability was found in the fs/inode.c:inode_init_owner() function logic of the LInux kernel that allows local users to create files for the XFS file-system with an unintended group ownership and with group execution and SGID permission bits set, in a scenario where a directory is SGID and belongs to a certain group and is writable by a user who is not a member of this group. This can lead to excessive permissions granted in case when they should not. This vulnerability is similar to the previous CVE-2018-13405 and adds the missed fix for the XFS.
+- [Live-Hack-CVE/CVE-2021-4037](https://github.com/Live-Hack-CVE/CVE-2021-4037)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4037">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4037">
 
 ---
 ## CVE-2021-40365 (2022-12-13T16:15:00)
@@ -1467,6 +1477,11 @@
 ## CVE-2021-25461 (2021-09-09T19:15:00)
 > An improper length check in APAService prior to SMR Sep-2021 Release 1 results in stack based Buffer Overflow.
 - [bkojusner/CVE-2021-25461](https://github.com/bkojusner/CVE-2021-25461)	<img alt="forks" src="https://img.shields.io/github/forks/bkojusner/CVE-2021-25461">	<img alt="stars" src="https://img.shields.io/github/stars/bkojusner/CVE-2021-25461">
+
+---
+## CVE-2021-25219 (2021-10-27T21:15:00)
+> In BIND 9.3.0 -> 9.11.35, 9.12.0 -> 9.16.21, and versions 9.9.3-S1 -> 9.11.35-S1 and 9.16.8-S1 -> 9.16.21-S1 of BIND Supported Preview Edition, as well as release versions 9.17.0 -> 9.17.18 of the BIND 9.17 development branch, exploitation of broken authoritative servers using a flaw in response processing can cause degradation in BIND resolver performance. The way the lame cache is currently designed makes it possible for its internal data structures to grow almost infinitely, which may cause significant delays in client query processing.
+- [Live-Hack-CVE/CVE-2021-25219](https://github.com/Live-Hack-CVE/CVE-2021-25219)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25219">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25219">
 
 ---
 ## CVE-2021-25095 (2022-02-07T16:15:00)

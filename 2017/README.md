@@ -79,6 +79,11 @@
 - [inj3ction/CVE-2017-7921-EXP](https://github.com/inj3ction/CVE-2017-7921-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/inj3ction/CVE-2017-7921-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/inj3ction/CVE-2017-7921-EXP">
 
 ---
+## CVE-2017-7605 (2017-04-09T14:59:00)
+> aacplusenc.c in HE-AAC+ Codec (aka libaacplus) 2.0.2 has an assertion failure, which might allow remote attackers to cause a denial of service (application crash) or possibly have unspecified other impact via a crafted audio file.
+- [Live-Hack-CVE/CVE-2017-7605](https://github.com/Live-Hack-CVE/CVE-2017-7605)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-7605">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-7605">
+
+---
 ## CVE-2017-7529 (2017-07-13T13:29:00)
 > Nginx versions since 0.5.6 up to and including 1.13.2 are vulnerable to integer overflow vulnerability in nginx range filter module resulting into leak of potentially sensitive information triggered by specially crafted request.
 - [Shehzadcyber/CVE-2017-7529](https://github.com/Shehzadcyber/CVE-2017-7529)	<img alt="forks" src="https://img.shields.io/github/forks/Shehzadcyber/CVE-2017-7529">	<img alt="stars" src="https://img.shields.io/github/stars/Shehzadcyber/CVE-2017-7529">
@@ -256,6 +261,16 @@
 ## CVE-2017-14440 (2018-04-24T19:29:00)
 > An exploitable code execution vulnerability exists in the ILBM image rendering functionality of SDL2_image-2.0.2. A specially crafted ILBM image can cause a stack overflow resulting in code execution. An attacker can display a specially crafted image to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2017-14440](https://github.com/Live-Hack-CVE/CVE-2017-14440)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-14440">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-14440">
+
+---
+## CVE-2017-14439 (2018-05-14T20:29:00)
+> Exploitable denial of service vulnerabilities exists in the Service Agent functionality of Moxa EDR-810 V4.1 build 17030317. A specially crafted packet can cause a denial of service. An attacker can send a large packet to 4001/tcp to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2017-14439](https://github.com/Live-Hack-CVE/CVE-2017-14439)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-14439">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-14439">
+
+---
+## CVE-2017-14438 (2018-05-14T20:29:00)
+> Exploitable denial of service vulnerabilities exists in the Service Agent functionality of Moxa EDR-810 V4.1 build 17030317. A specially crafted packet can cause a denial of service. An attacker can send a large packet to 4000/tcp to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2017-14438](https://github.com/Live-Hack-CVE/CVE-2017-14438)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-14438">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-14438">
 
 ---
 ## CVE-2017-14437 (2018-05-14T20:29:00)
