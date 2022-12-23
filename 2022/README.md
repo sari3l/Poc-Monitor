@@ -4217,6 +4217,7 @@
 ## CVE-2022-3201 (2022-09-26T16:15:00)
 > Insufficient validation of untrusted input in DevTools in Google Chrome on Chrome OS prior to 105.0.5195.125 allowed an attacker who convinced a user to install a malicious extension to bypass navigation restrictions via a crafted HTML page. (Chromium security severity: High)
 - [Live-Hack-CVE/CVE-2022-3201](https://github.com/Live-Hack-CVE/CVE-2022-3201)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3201">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3201">
+- [heavenswill/CVE-2022-32013](https://github.com/heavenswill/CVE-2022-32013)	<img alt="forks" src="https://img.shields.io/github/forks/heavenswill/CVE-2022-32013">	<img alt="stars" src="https://img.shields.io/github/stars/heavenswill/CVE-2022-32013">
 
 ---
 ## CVE-2022-31901 ()
@@ -4837,6 +4838,7 @@
 ## CVE-2022-29581 (2022-05-17T17:15:00)
 > Improper Update of Reference Count vulnerability in net/sched of Linux Kernel allows local attacker to cause privilege escalation to root. This issue affects: Linux Kernel versions prior to 5.18; version 4.14 and later versions.
 - [nidhi7598/linux-4.19.72_CVE-2022-29581](https://github.com/nidhi7598/linux-4.19.72_CVE-2022-29581)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.19.72_CVE-2022-29581">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.19.72_CVE-2022-29581">
+- [Nidhi77777/linux-4.19.72_CVE-2022-29581](https://github.com/Nidhi77777/linux-4.19.72_CVE-2022-29581)	<img alt="forks" src="https://img.shields.io/github/forks/Nidhi77777/linux-4.19.72_CVE-2022-29581">	<img alt="stars" src="https://img.shields.io/github/stars/Nidhi77777/linux-4.19.72_CVE-2022-29581">
 
 ---
 ## CVE-2022-29554 ()
