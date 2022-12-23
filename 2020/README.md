@@ -503,6 +503,11 @@
 - [Live-Hack-CVE/CVE-2020-28268](https://github.com/Live-Hack-CVE/CVE-2020-28268)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28268">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28268">
 
 ---
+## CVE-2020-2801 (2020-04-15T14:15:00)
+> Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0 and 12.2.1.4.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via IIOP, T3 to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. Note: The patch for this issue will address the vulnerability only if the WLS instance is using JDK 1.7.0_191 or later, or JDK 1.8.0_181 or later. CVSS 3.0 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).
+- [Live-Hack-CVE/CVE-2020-2801](https://github.com/Live-Hack-CVE/CVE-2020-2801)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2801">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2801">
+
+---
 ## CVE-2020-27955 (2020-11-05T15:15:00)
 > Git LFS 2.12.0 allows Remote Code Execution.
 - [z50913/CVE-2020-27955](https://github.com/z50913/CVE-2020-27955)	<img alt="forks" src="https://img.shields.io/github/forks/z50913/CVE-2020-27955">	<img alt="stars" src="https://img.shields.io/github/stars/z50913/CVE-2020-27955">

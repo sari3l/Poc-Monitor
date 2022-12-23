@@ -285,6 +285,7 @@
 ## CVE-2021-43258 (2022-11-23T19:15:00)
 > CartView.php in ChurchInfo 1.3.0 allows attackers to achieve remote code execution through insecure uploads. This requires authenticated access tot he ChurchInfo application. Once authenticated, a user can add names to their cart, and compose an email. Uploading an attachment for the email stores the attachment on the site in the /tmp_attach/ folder where it can be accessed with a GET request. There are no limitations on files that can be attached, allowing for malicious PHP code to be uploaded and interpreted by the server.
 - [MRvirusIR/CVE-2021-43258](https://github.com/MRvirusIR/CVE-2021-43258)	<img alt="forks" src="https://img.shields.io/github/forks/MRvirusIR/CVE-2021-43258">	<img alt="stars" src="https://img.shields.io/github/stars/MRvirusIR/CVE-2021-43258">
+- [Live-Hack-CVE/CVE-2021-43258](https://github.com/Live-Hack-CVE/CVE-2021-43258)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43258">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43258">
 
 ---
 ## CVE-2021-43229 (2021-12-15T15:15:00)
@@ -880,6 +881,11 @@
 - [phrantom/cve-2021-38314](https://github.com/phrantom/cve-2021-38314)	<img alt="forks" src="https://img.shields.io/github/forks/phrantom/cve-2021-38314">	<img alt="stars" src="https://img.shields.io/github/stars/phrantom/cve-2021-38314">
 - [orangmuda/CVE-2021-38314](https://github.com/orangmuda/CVE-2021-38314)	<img alt="forks" src="https://img.shields.io/github/forks/orangmuda/CVE-2021-38314">	<img alt="stars" src="https://img.shields.io/github/stars/orangmuda/CVE-2021-38314">
 - [akhilkoradiya/CVE-2021-38314](https://github.com/akhilkoradiya/CVE-2021-38314)	<img alt="forks" src="https://img.shields.io/github/forks/akhilkoradiya/CVE-2021-38314">	<img alt="stars" src="https://img.shields.io/github/stars/akhilkoradiya/CVE-2021-38314">
+
+---
+## CVE-2021-3827 (2022-08-23T16:15:00)
+> A flaw was found in keycloak, where the default ECP binding flow allows other authentication flows to be bypassed. By exploiting this behavior, an attacker can bypass the MFA authentication by sending a SOAP request with an AuthnRequest and Authorization header with the user's credentials. The highest threat from this vulnerability is to confidentiality and integrity.
+- [Live-Hack-CVE/CVE-2021-3827](https://github.com/Live-Hack-CVE/CVE-2021-3827)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3827">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3827">
 
 ---
 ## CVE-2021-38241 (2022-12-16T22:15:00)

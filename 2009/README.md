@@ -19,3 +19,8 @@
 - [0xkasra/CVE-2009-2265](https://github.com/0xkasra/CVE-2009-2265)	<img alt="forks" src="https://img.shields.io/github/forks/0xkasra/CVE-2009-2265">	<img alt="stars" src="https://img.shields.io/github/stars/0xkasra/CVE-2009-2265">
 - [k4u5h41/CVE-2009-2265](https://github.com/k4u5h41/CVE-2009-2265)	<img alt="forks" src="https://img.shields.io/github/forks/k4u5h41/CVE-2009-2265">	<img alt="stars" src="https://img.shields.io/github/stars/k4u5h41/CVE-2009-2265">
 - [zaphoxx/zaphoxx-coldfusion](https://github.com/zaphoxx/zaphoxx-coldfusion)	<img alt="forks" src="https://img.shields.io/github/forks/zaphoxx/zaphoxx-coldfusion">	<img alt="stars" src="https://img.shields.io/github/stars/zaphoxx/zaphoxx-coldfusion">
+
+---
+## CVE-2009-0586 (2009-03-14T18:30:00)
+> Integer overflow in the gst_vorbis_tag_add_coverart function (gst-libs/gst/tag/gstvorbistag.c) in vorbistag in gst-plugins-base (aka gstreamer-plugins-base) before 0.10.23 in GStreamer allows context-dependent attackers to execute arbitrary code via a crafted COVERART tag that is converted from a base64 representation, which triggers a heap-based buffer overflow.
+- [Live-Hack-CVE/CVE-2009-0586](https://github.com/Live-Hack-CVE/CVE-2009-0586)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2009-0586">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2009-0586">

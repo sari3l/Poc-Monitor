@@ -1109,6 +1109,16 @@
 - [Live-Hack-CVE/CVE-2022-44755](https://github.com/Live-Hack-CVE/CVE-2022-44755)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44755">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44755">
 
 ---
+## CVE-2022-44749 (2022-11-24T07:15:00)
+> A directory traversal vulnerability in the ZIP archive extraction routines of KNIME Analytics Platform 3.2.0 and above can result in arbitrary files being overwritten on the user's system. This vulnerability is also known as 'Zip-Slip'. An attacker can create a KNIME workflow that, when being opened by a user, can overwrite arbitrary files that the user has write access to. It's not necessary to execute the workflow, opening the workflow is sufficient. The user will notice that something is wrong because an error is being reported but only after the files have already been written. This can impact data integrity (file contents are changed) or cause errors in other software (vital files being corrupted). It can even lead to remote code execution if executable files are being replaced and subsequently executed by the user. In all cases the attacker has to know the location of files on the user's system, though.
+- [Live-Hack-CVE/CVE-2022-44749](https://github.com/Live-Hack-CVE/CVE-2022-44749)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44749">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44749">
+
+---
+## CVE-2022-44748 (2022-11-24T07:15:00)
+> A directory traversal vulnerability in the ZIP archive extraction routines of KNIME Server since 4.3.0 can result in arbitrary files being overwritten on the server's file system. This vulnerability is also known as 'Zip-Slip'. An attacker can create a KNIME workflow that, when being uploaded, can overwrite arbitrary files that the operating system user running the KNIME Server process has write access to. The user must be authenticated and have permissions to upload files to KNIME Server. This can impact data integrity (file contents are changed) or cause errors in other software (vital files being corrupted). It can even lead to remote code execution if executable files are being replaced and subsequently executed by the KNIME Server process user. In all cases the attacker has to know the location of files on the server's file system, though. Note that users that have permissions to upload workflows usually also have permissions to run them on the KNIME Server and can therefore already execute arbitrary code in the context of the KNIME Executor's operating system user. There is no workaround to prevent this vulnerability from being exploited. Updates to fixed versions 4.13.6, 4.14.3, or 4.15.3 are advised.
+- [Live-Hack-CVE/CVE-2022-44748](https://github.com/Live-Hack-CVE/CVE-2022-44748)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44748">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44748">
+
+---
 ## CVE-2022-44721 (2022-12-04T05:15:00)
 > CrowdStrike Falcon 6.44.15806 allows an administrative attacker to uninstall Falcon Sensor, bypassing the intended protection mechanism in which uninstallation requires possessing a one-time token. (The sensor is managed at the kernel level.)
 - [purplededa/CVE-2022-44721-CsFalconUninstaller](https://github.com/purplededa/CVE-2022-44721-CsFalconUninstaller)	<img alt="forks" src="https://img.shields.io/github/forks/purplededa/CVE-2022-44721-CsFalconUninstaller">	<img alt="stars" src="https://img.shields.io/github/stars/purplededa/CVE-2022-44721-CsFalconUninstaller">
@@ -2234,6 +2244,11 @@
 - [Live-Hack-CVE/CVE-2022-41960](https://github.com/Live-Hack-CVE/CVE-2022-41960)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41960">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41960">
 
 ---
+## CVE-2022-41958 (2022-11-25T18:15:00)
+> super-xray is a web vulnerability scanning tool. Versions prior to 0.7 assumed trusted input for the program config which is stored in a yaml file. An attacker with local access to the file could exploit this and compromise the program. This issue has been addressed in commit `4d0d5966` and will be included in future releases. Users are advised to upgrade. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-41958](https://github.com/Live-Hack-CVE/CVE-2022-41958)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41958">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41958">
+
+---
 ## CVE-2022-41957 (2022-11-28T15:15:00)
 > Muhammara is a node module with c/cpp bindings to modify PDF with JavaScript for node or electron. The package muhammara before 2.6.2 and from 3.0.0 and before 3.3.0, as well as all versions of muhammara's predecessor package hummus, are vulnerable to Denial of Service (DoS) when supplied with a maliciously crafted PDF file to be parsed. The issue has been patched in muhammara version 3.4.0 and the fix has been backported to version 2.6.2. As a workaround, do not process files from untrusted sources. If using hummus, replace the package with muhammara.
 - [Live-Hack-CVE/CVE-2022-41957](https://github.com/Live-Hack-CVE/CVE-2022-41957)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41957">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41957">
@@ -2249,9 +2264,49 @@
 - [Live-Hack-CVE/CVE-2022-4194](https://github.com/Live-Hack-CVE/CVE-2022-4194)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4194">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4194">
 
 ---
+## CVE-2022-41935 (2022-11-23T20:15:00)
+> XWiki Platform is a generic wiki platform offering runtime services for applications built on top of it. Users without the right to view documents can deduce their existence by repeated Livetable queries. The issue has been patched in XWiki 14.6RC1, 13.10.8, and 14.4.3, the response is not properly cleaned up of obfuscated entries. As a workaround, The patch for the document `XWiki.LiveTableResultsMacros` can be manually applied or a XAR archive of a patched version can be imported, on versions 12.10.11, 13.9-rc-1, and 13.4.4. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-41935](https://github.com/Live-Hack-CVE/CVE-2022-41935)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41935">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41935">
+
+---
+## CVE-2022-41934 (2022-11-23T20:15:00)
+> XWiki Platform is a generic wiki platform offering runtime services for applications built on top of it. Any user with view rights on commonly accessible documents including the menu macro can execute arbitrary Groovy, Python or Velocity code in XWiki leading to full access to the XWiki installation due to improper escaping of the macro content and parameters of the menu macro. The problem has been patched in XWiki 14.6RC1, 13.10.8 and 14.4.3. The patch (commit `2fc20891`) for the document `Menu.MenuMacro` can be manually applied or a XAR archive of a patched version can be imported. The menu macro was basically unchanged since XWiki 11.6 so on XWiki 11.6 or later the patch for version of 13.10.8 (commit `59ccca24a`) can most likely be applied, on XWiki version 14.0 and later the versions in XWiki 14.6 and 14.4.3 should be appropriate.
+- [Live-Hack-CVE/CVE-2022-41934](https://github.com/Live-Hack-CVE/CVE-2022-41934)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41934">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41934">
+
+---
+## CVE-2022-41932 (2022-11-23T21:15:00)
+> XWiki Platform is a generic wiki platform offering runtime services for applications built on top of it. It's possible to make XWiki create many new schemas and fill them with tables just by using a crafted user identifier in the login form. This may lead to degraded database performance. The problem has been patched in XWiki 13.10.8, 14.6RC1 and 14.4.2. Users are advised to upgrade. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-41932](https://github.com/Live-Hack-CVE/CVE-2022-41932)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41932">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41932">
+
+---
+## CVE-2022-41931 (2022-11-23T20:15:00)
+> xwiki-platform-icon-ui is vulnerable to Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection'). Any user with view rights on commonly accessible documents including the icon picker macro can execute arbitrary Groovy, Python or Velocity code in XWiki due to improper neutralization of the macro parameters of the icon picker macro. The problem has been patched in XWiki 13.10.7, 14.5 and 14.4.2. Workarounds: The [patch](https://github.com/xwiki/xwiki-platform/commit/47eb8a5fba550f477944eb6da8ca91b87eaf1d01) can be manually applied by editing `IconThemesCode.IconPickerMacro` in the object editor. The whole document can also be replaced by the current version by importing the document from the XAR archive of a fixed version as the only changes to the document have been security fixes and small formatting changes.
+- [Live-Hack-CVE/CVE-2022-41931](https://github.com/Live-Hack-CVE/CVE-2022-41931)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41931">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41931">
+
+---
+## CVE-2022-41930 (2022-11-23T19:15:00)
+> org.xwiki.platform:xwiki-platform-user-profile-ui is missing authorization to enable or disable users. Any user (logged in or not) with access to the page XWiki.XWikiUserProfileSheet can enable or disable any user profile. This might allow to a disabled user to re-enable themselves, or to an attacker to disable any user of the wiki. The problem has been patched in XWiki 13.10.7, 14.5RC1 and 14.4.2. Workarounds: The problem can be patched immediately by editing the page `XWiki.XWikiUserProfileSheet` in the wiki and by performing the changes contained in https://github.com/xwiki/xwiki-platform/commit/5be1cc0adf917bf10899c47723fa451e950271fa.
+- [Live-Hack-CVE/CVE-2022-41930](https://github.com/Live-Hack-CVE/CVE-2022-41930)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41930">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41930">
+
+---
 ## CVE-2022-4193 (2022-11-30T00:15:00)
 > Insufficient policy enforcement in File System API in Google Chrome prior to 108.0.5359.71 allowed a remote attacker to bypass file system restrictions via a crafted HTML page. (Chromium security severity: Medium)
 - [Live-Hack-CVE/CVE-2022-4193](https://github.com/Live-Hack-CVE/CVE-2022-4193)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4193">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4193">
+
+---
+## CVE-2022-41929 (2022-11-23T19:15:00)
+> org.xwiki.platform:xwiki-platform-oldcore is missing authorization in User#setDisabledStatus, which may allow an incorrectly authorized user with only Script rights to enable or disable a user. This operation is meant to only be available for users with admin rights. This problem has been patched in XWiki 13.10.7, 14.4.2 and 14.5RC1.
+- [Live-Hack-CVE/CVE-2022-41929](https://github.com/Live-Hack-CVE/CVE-2022-41929)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41929">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41929">
+
+---
+## CVE-2022-41928 (2022-11-23T19:15:00)
+> XWiki Platform vulnerable to Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection') in AttachmentSelector.xml. The issue can also be reproduced by inserting the dangerous payload in the `height` or `alt` macro properties. This has been patched in versions 13.10.7, 14.4.2, and 14.5. The issue can be fixed on a running wiki by updating `XWiki.AttachmentSelector` with the versions below: - 14.5-rc-1+: https://github.com/xwiki/xwiki-platform/commit/eb15147adf94bddb92626f862c1710d45bcd64a7#diff-e1513599ab698991f6cbba55d38f3f464432ced8d137a668b1f7618c7e747e23 - 14.4.2+: https://github.com/xwiki/xwiki-platform/commit/c02f8eb1f3c953d124f2c097021536f8bc00fa8d#diff-e1513599ab698991f6cbba55d38f3f464432ced8d137a668b1f7618c7e747e23 - 13.10.7+: https://github.com/xwiki/xwiki-platform/commit/efd0df0468d46149ba68b66660b93f31b6318515#diff-e1513599ab698991f6cbba55d38f3f464432ced8d137a668b1f7618c7e747e23
+- [Live-Hack-CVE/CVE-2022-41928](https://github.com/Live-Hack-CVE/CVE-2022-41928)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41928">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41928">
+
+---
+## CVE-2022-41927 (2022-11-23T19:15:00)
+> XWiki Platform is vulnerable to Cross-Site Request Forgery (CSRF) that may allow attackers to delete or rename tags without needing any confirmation. The problem has been patched in XWiki 13.10.7, 14.4.1 and 14.5RC1. Workarounds: It's possible to patch existing instances directly by editing the page Main.Tags and add this kind of check, in the code for renaming and for deleting: ``` #if (!$services.csrf.isTokenValid($request.get('form_token'))) #set ($discard = $response.sendError(401, "Wrong CSRF token")) #end ```
+- [Live-Hack-CVE/CVE-2022-41927](https://github.com/Live-Hack-CVE/CVE-2022-41927)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41927">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41927">
 
 ---
 ## CVE-2022-41923 (2022-11-23T19:15:00)
@@ -2283,6 +2338,11 @@
 ## CVE-2022-4188 (2022-11-30T00:15:00)
 > Insufficient validation of untrusted input in CORS in Google Chrome on Android prior to 108.0.5359.71 allowed a remote attacker to bypass same origin policy via a crafted HTML page. (Chromium security severity: Medium)
 - [Live-Hack-CVE/CVE-2022-4188](https://github.com/Live-Hack-CVE/CVE-2022-4188)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4188">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4188">
+
+---
+## CVE-2022-41875 (2022-11-23T19:15:00)
+> A remote code execution (RCE) vulnerability in Optica allows unauthenticated attackers to execute arbitrary code via specially crafted JSON payloads. Specially crafted JSON payloads may lead to RCE (remote code execution) on the attacked system running Optica. The vulnerability was patched in v. 0.10.2, where the call to the function `oj.load` was changed to `oj.safe_load`.
+- [Live-Hack-CVE/CVE-2022-41875](https://github.com/Live-Hack-CVE/CVE-2022-41875)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41875">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41875">
 
 ---
 ## CVE-2022-4187 (2022-11-30T00:15:00)
@@ -2394,6 +2454,16 @@
 - [Live-Hack-CVE/CVE-2022-4172](https://github.com/Live-Hack-CVE/CVE-2022-4172)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4172">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4172">
 
 ---
+## CVE-2022-41712 (2022-11-25T18:15:00)
+> Frappe version 14.10.0 allows an external attacker to remotely obtain arbitrary local files. This is possible because the application does not correctly validate the information injected by the user in the import_file parameter.
+- [Live-Hack-CVE/CVE-2022-41712](https://github.com/Live-Hack-CVE/CVE-2022-41712)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41712">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41712">
+
+---
+## CVE-2022-41705 (2022-11-25T18:15:00)
+> Badaso version 2.6.3 allows an unauthenticated remote attacker to execute arbitrary code remotely on the server. This is possible because the application does not properly validate the data uploaded by users.
+- [Live-Hack-CVE/CVE-2022-41705](https://github.com/Live-Hack-CVE/CVE-2022-41705)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41705">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41705">
+
+---
 ## CVE-2022-41704 (2022-10-25T17:15:00)
 > A vulnerability in Batik of Apache XML Graphics allows an attacker to run untrusted Java code from an SVG. This issue affects Apache XML Graphics prior to 1.16. It is recommended to update to version 1.16.
 - [Live-Hack-CVE/CVE-2022-41704](https://github.com/Live-Hack-CVE/CVE-2022-41704)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41704">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41704">
@@ -2463,6 +2533,11 @@
 ## CVE-2022-4141 (2022-11-25T14:15:00)
 > Heap based buffer overflow in vim/vim 9.0.0946 and below by allowing an attacker to CTRL-W gf in the expression used in the RHS of the substitute command.
 - [Live-Hack-CVE/CVE-2022-4141](https://github.com/Live-Hack-CVE/CVE-2022-4141)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4141">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4141">
+
+---
+## CVE-2022-4136 (2022-11-24T08:15:00)
+> Dangerous method exposed which can lead to RCE in qmpass/leadshop v1.4.15 allows an attacker to control the target host by calling any function in leadshop.php via the GET method.
+- [Live-Hack-CVE/CVE-2022-4136](https://github.com/Live-Hack-CVE/CVE-2022-4136)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4136">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4136">
 
 ---
 ## CVE-2022-41358 (2022-10-20T02:15:00)
@@ -2887,6 +2962,11 @@
 - [filipkarc/PoC-ubuntutouch-pin-privesc](https://github.com/filipkarc/PoC-ubuntutouch-pin-privesc)	<img alt="forks" src="https://img.shields.io/github/forks/filipkarc/PoC-ubuntutouch-pin-privesc">	<img alt="stars" src="https://img.shields.io/github/stars/filipkarc/PoC-ubuntutouch-pin-privesc">
 
 ---
+## CVE-2022-40266 (2022-11-24T09:15:00)
+> Improper Input Validation vulnerability in Mitsubishi Electric GOT2000 Series GT27 model FTP server versions 01.39.000 and prior, Mitsubishi Electric GOT2000 Series GT25 model FTP server versions 01.39.000 and prior and Mitsubishi Electric GOT2000 Series GT23 model FTP server versions 01.39.000 and prior allows a remote authenticated attacker to cause a Denial of Service condition by sending specially crafted command.
+- [Live-Hack-CVE/CVE-2022-40266](https://github.com/Live-Hack-CVE/CVE-2022-40266)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40266">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40266">
+
+---
 ## CVE-2022-40264 (2022-12-14T00:15:00)
 > Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in ICONICS/Mitsubishi Electric GENESIS64 versions 10.96 to 10.97.2 allows an unauthenticated attacker to create, tamper with or destroy arbitrary files by getting a legitimate user import a project package file crafted by the attacker.
 - [Live-Hack-CVE/CVE-2022-40264](https://github.com/Live-Hack-CVE/CVE-2022-40264)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40264">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40264">
@@ -2982,6 +3062,11 @@
 ## CVE-2022-39838 (2022-09-05T16:15:00)
 > Systematic FIX Adapter (ALFAFX) 2.4.0.25 13/09/2017 allows remote file inclusion via a UNC share pathname, and also allows absolute path traversal to local pathnames.
 - [jet-pentest/CVE-2022-39838](https://github.com/jet-pentest/CVE-2022-39838)	<img alt="forks" src="https://img.shields.io/github/forks/jet-pentest/CVE-2022-39838">	<img alt="stars" src="https://img.shields.io/github/stars/jet-pentest/CVE-2022-39838">
+
+---
+## CVE-2022-39833 (2022-11-23T18:15:00)
+> FileCloud Versions 20.2 and later allows remote attackers to potentially cause unauthorized remote code execution and access to reported API endpoints via a crafted HTTP request.
+- [Live-Hack-CVE/CVE-2022-39833](https://github.com/Live-Hack-CVE/CVE-2022-39833)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39833">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39833">
 
 ---
 ## CVE-2022-39802 (2022-10-11T21:15:00)
@@ -3304,6 +3389,11 @@
 ## CVE-2022-38655 (2022-12-21T17:15:00)
 > BigFix WebUI non-master operators are missing controls that prevent them from being able to modify the relevance of fixlets or to deploy fixlets from the BES Support external site.
 - [Live-Hack-CVE/CVE-2022-38655](https://github.com/Live-Hack-CVE/CVE-2022-38655)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38655">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38655">
+
+---
+## CVE-2022-3861 (2022-11-21T13:15:00)
+> The Betheme theme for WordPress is vulnerable to PHP Object Injection in versions up to, and including, 26.5.1.4 via deserialization of untrusted input supplied via the import, mfn-items-import-page, and mfn-items-import parameters passed through the mfn_builder_import, mfn_builder_import_page, importdata, importsinglepage, and importfromclipboard functions. This makes it possible for authenticated attackers, with contributor level permissions and above to inject a PHP Object. The additional presence of a POP chain would make it possible for attackers to execute code, retrieve sensitive data, delete files, etc..
+- [Live-Hack-CVE/CVE-2022-3861](https://github.com/Live-Hack-CVE/CVE-2022-3861)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3861">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3861">
 
 ---
 ## CVE-2022-3859 (2022-11-30T09:15:00)
@@ -3904,6 +3994,11 @@
 - [AngeloPioAmirante/CVE-2022-35899](https://github.com/AngeloPioAmirante/CVE-2022-35899)	<img alt="forks" src="https://img.shields.io/github/forks/AngeloPioAmirante/CVE-2022-35899">	<img alt="stars" src="https://img.shields.io/github/stars/AngeloPioAmirante/CVE-2022-35899">
 
 ---
+## CVE-2022-35897 (2022-11-21T17:15:00)
+> An stack buffer overflow vulnerability leads to arbitrary code execution issue was discovered in Insyde InsydeH2O with kernel 5.0 through 5.5. If the attacker modifies specific UEFI variables, it can cause a stack overflow, leading to arbitrary code execution. The specific variables are normally locked (read-only) at the OS level and therefore an attack would require direct SPI modification. If an attacker can change the values of at least two variables out of three (SecureBootEnforce, SecureBoot, RestoreBootSettings), it is possible to execute arbitrary code.
+- [Live-Hack-CVE/CVE-2022-35897](https://github.com/Live-Hack-CVE/CVE-2022-35897)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35897">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35897">
+
+---
 ## CVE-2022-35843 (2022-12-06T17:15:00)
 > An authentication bypass by assumed-immutable data vulnerability [CWE-302] in the FortiOS SSH login component 7.2.0, 7.0.0 through 7.0.7, 6.4.0 through 6.4.9, 6.2 all versions, 6.0 all versions and FortiProxy SSH login component 7.0.0 through 7.0.5, 2.0.0 through 2.0.10, 1.2.0 all versions may allow a remote and unauthenticated attacker to login into the device via sending specially crafted Access-Challenge response from the Radius server.
 - [Live-Hack-CVE/CVE-2022-35843](https://github.com/Live-Hack-CVE/CVE-2022-35843)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35843">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35843">
@@ -3962,6 +4057,11 @@
 ## CVE-2022-35416 (2022-07-11T03:15:00)
 > H3C SSL VPN through 2022-07-10 allows wnm/login/login.json svpnlang cookie XSS.
 - [safe3s/CVE-2022-35416](https://github.com/safe3s/CVE-2022-35416)	<img alt="forks" src="https://img.shields.io/github/forks/safe3s/CVE-2022-35416">	<img alt="stars" src="https://img.shields.io/github/stars/safe3s/CVE-2022-35416">
+
+---
+## CVE-2022-35407 (2022-11-22T02:15:00)
+> An issue was discovered in Insyde InsydeH2O with kernel 5.0 through 5.5. A stack buffer overflow leads to arbitrary code execution in the SetupUtility driver on Intel platforms. An attacker can change the values of certain UEFI variables. If the size of the second variable exceeds the size of the first, then the buffer will be overwritten. This issue affects the SetupUtility driver of InsydeH2O.
+- [Live-Hack-CVE/CVE-2022-35407](https://github.com/Live-Hack-CVE/CVE-2022-35407)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35407">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35407">
 
 ---
 ## CVE-2022-35405 (2022-07-19T15:15:00)
@@ -4907,6 +5007,11 @@
 - [nidhi7598/linux-4.19.72_CVE-2022-30594](https://github.com/nidhi7598/linux-4.19.72_CVE-2022-30594)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.19.72_CVE-2022-30594">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.19.72_CVE-2022-30594">
 
 ---
+## CVE-2022-30529 (2022-11-22T01:15:00)
+> File upload vulnerability in asith-eranga ISIC tour booking through version published on Feb 13th 2018, allows attackers to upload arbitrary files via /system/application/libs/js/tinymce/plugins/filemanager/dialog.php and /system/application/libs/js/tinymce/plugins/filemanager/upload.php.
+- [Live-Hack-CVE/CVE-2022-30529](https://github.com/Live-Hack-CVE/CVE-2022-30529)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30529">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30529">
+
+---
 ## CVE-2022-30526 (2022-07-19T06:15:00)
 > A privilege escalation vulnerability was identified in the CLI command of Zyxel USG FLEX 100(W) firmware versions 4.50 through 5.30, USG FLEX 200 firmware versions 4.50 through 5.30, USG FLEX 500 firmware versions 4.50 through 5.30, USG FLEX 700 firmware versions 4.50 through 5.30, USG FLEX 50(W) firmware versions 4.16 through 5.30, USG20(W)-VPN firmware versions 4.16 through 5.30, ATP series firmware versions 4.32 through 5.30, VPN series firmware versions 4.30 through 5.30, USG/ZyWALL series firmware versions 4.09 through 4.72, which could allow a local attacker to execute some OS commands with root privileges in some directories on a vulnerable device.
 - [greek0x0/CVE-2022-30526](https://github.com/greek0x0/CVE-2022-30526)	<img alt="forks" src="https://img.shields.io/github/forks/greek0x0/CVE-2022-30526">	<img alt="stars" src="https://img.shields.io/github/stars/greek0x0/CVE-2022-30526">
@@ -5252,6 +5357,11 @@
 - [gerr-re/cve-2022-28944](https://github.com/gerr-re/cve-2022-28944)	<img alt="forks" src="https://img.shields.io/github/forks/gerr-re/cve-2022-28944">	<img alt="stars" src="https://img.shields.io/github/stars/gerr-re/cve-2022-28944">
 
 ---
+## CVE-2022-28805 (2022-04-08T06:15:00)
+> singlevar in lparser.c in Lua from (including) 5.4.0 up to (excluding) 5.4.4 lacks a certain luaK_exp2anyregup call, leading to a heap-based buffer over-read that might affect a system that compiles untrusted Lua code.
+- [Live-Hack-CVE/CVE-2022-28805](https://github.com/Live-Hack-CVE/CVE-2022-28805)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28805">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28805">
+
+---
 ## CVE-2022-28672 (2022-07-18T19:15:00)
 > This vulnerability allows remote attackers to execute arbitrary code on affected installations of Foxit PDF Reader 11.2.1.53537. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the handling of Doc objects. The issue results from the lack of validating the existence of an object prior to performing operations on the object. An attacker can leverage this vulnerability to execute code in the context of the current process. Was ZDI-CAN-16640.
 - [hacksysteam/CVE-2022-28672](https://github.com/hacksysteam/CVE-2022-28672)	<img alt="forks" src="https://img.shields.io/github/forks/hacksysteam/CVE-2022-28672">	<img alt="stars" src="https://img.shields.io/github/stars/hacksysteam/CVE-2022-28672">
@@ -5447,6 +5557,7 @@
 > Improper Restriction of Excessive Authentication Attempts in GitHub repository wger-project/wger prior to 2.2.
 - [HackinKraken/CVE-2022-2650](https://github.com/HackinKraken/CVE-2022-2650)	<img alt="forks" src="https://img.shields.io/github/forks/HackinKraken/CVE-2022-2650">	<img alt="stars" src="https://img.shields.io/github/stars/HackinKraken/CVE-2022-2650">
 - [sinsinology/CVE-2022-26503](https://github.com/sinsinology/CVE-2022-26503)	<img alt="forks" src="https://img.shields.io/github/forks/sinsinology/CVE-2022-26503">	<img alt="stars" src="https://img.shields.io/github/stars/sinsinology/CVE-2022-26503">
+- [Live-Hack-CVE/CVE-2022-2650](https://github.com/Live-Hack-CVE/CVE-2022-2650)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2650">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2650">
 
 ---
 ## CVE-2022-2642 (2022-12-02T20:15:00)
@@ -5851,9 +5962,19 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [danbudris/CVE-2022-23773-repro](https://github.com/danbudris/CVE-2022-23773-repro)	<img alt="forks" src="https://img.shields.io/github/forks/danbudris/CVE-2022-23773-repro">	<img alt="stars" src="https://img.shields.io/github/stars/danbudris/CVE-2022-23773-repro">
 
 ---
+## CVE-2022-23743 (2022-05-11T16:15:00)
+> Check Point ZoneAlarm before version 15.8.200.19118 allows a local actor to escalate privileges during the upgrade process. In addition, weak permissions in the ProgramData\CheckPoint\ZoneAlarm\Data\Updates directory allow a local attacker the ability to execute an arbitrary file write, leading to execution of code as local system, in ZoneAlarm versions before v15.8.211.192119
+- [Live-Hack-CVE/CVE-2022-23743](https://github.com/Live-Hack-CVE/CVE-2022-23743)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23743">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23743">
+
+---
 ## CVE-2022-23741 (2022-12-14T19:15:00)
 > An incorrect authorization vulnerability was identified in GitHub Enterprise Server that allowed a scoped user-to-server token to escalate to full admin/owner privileges. An attacker would require an account with admin access to install a malicious GitHub App. This vulnerability was fixed in versions 3.3.17, 3.4.12, 3.5.9, and 3.6.5. This vulnerability was reported via the GitHub Bug Bounty program.
 - [Live-Hack-CVE/CVE-2022-23741](https://github.com/Live-Hack-CVE/CVE-2022-23741)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23741">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23741">
+
+---
+## CVE-2022-23740 (2022-11-23T18:15:00)
+> CRITICAL: An improper neutralization of argument delimiters in a command vulnerability was identified in GitHub Enterprise Server that enabled remote code execution. To exploit this vulnerability, an attacker would need permission to create and build GitHub Pages using GitHub Actions. This vulnerability affected only version 3.7.0 of GitHub Enterprise Server and was fixed in version 3.7.1. This vulnerability was reported via the GitHub Bug Bounty program.
+- [Live-Hack-CVE/CVE-2022-23740](https://github.com/Live-Hack-CVE/CVE-2022-23740)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23740">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23740">
 
 ---
 ## CVE-2022-23614 (2022-02-04T23:15:00)
@@ -7254,6 +7375,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-0729 (2022-02-23T14:15:00)
 > Use of Out-of-range Pointer Offset in GitHub repository vim/vim prior to 8.2.4440.
 - [Live-Hack-CVE/CVE-2022-0729](https://github.com/Live-Hack-CVE/CVE-2022-0729)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0729">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0729">
+
+---
+## CVE-2022-0698 (2022-11-25T18:15:00)
+> Microweber version 1.3.1 allows an unauthenticated user to perform an account takeover via an XSS on the 'select-file' parameter.
+- [Live-Hack-CVE/CVE-2022-0698](https://github.com/Live-Hack-CVE/CVE-2022-0698)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0698">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0698">
 
 ---
 ## CVE-2022-0685 (2022-02-20T11:15:00)
