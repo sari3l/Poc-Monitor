@@ -52,6 +52,11 @@
 - [Exploitables/CVE-2021-44852](https://github.com/Exploitables/CVE-2021-44852)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2021-44852">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2021-44852">
 
 ---
+## CVE-2021-44731 (2022-02-17T23:15:00)
+> A race condition existed in the snapd 2.54.2 snap-confine binary when preparing a private mount namespace for a snap. This could allow a local attacker to gain root privileges by bind-mounting their own contents inside the snap's private mount namespace and causing snap-confine to execute arbitrary code and hence gain privilege escalation. Fixed in snapd versions 2.54.3+18.04, 2.54.3+20.04 and 2.54.3+21.10.1
+- [Live-Hack-CVE/CVE-2021-44731](https://github.com/Live-Hack-CVE/CVE-2021-44731)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44731">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44731">
+
+---
 ## CVE-2021-44694 (2022-12-13T16:15:00)
 > A vulnerability has been identified in SIMATIC Drive Controller family (All versions < V3.0.1), SIMATIC ET 200SP Open Controller CPU 1515SP PC2 (incl. SIPLUS variants) (All versions), SIMATIC S7-1200 CPU family (incl. SIPLUS variants) (All versions < V4.6.0), SIMATIC S7-1500 CPU family (incl. related ET200 CPUs and SIPLUS variants) (All versions < V3.0.1), SIMATIC S7-1500 Software Controller (All versions), SIMATIC S7-PLCSIM Advanced (All versions < V5.0), SIPLUS TIM 1531 IRC (All versions), TIM 1531 IRC (All versions). Affected devices don't process correctly certain special crafted packets sent to port 102/tcp, which could allow an attacker to cause a denial-of-service in the device.
 - [Live-Hack-CVE/CVE-2021-44694](https://github.com/Live-Hack-CVE/CVE-2021-44694)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44694">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44694">
@@ -1192,6 +1197,11 @@
 > ForgeRock OpenAM before 13.5.1 allows LDAP injection via the Webfinger protocol. For example, an unauthenticated attacker can perform character-by-character retrieval of password hashes, or retrieve a session token or a private key.
 - [5amu/CVE-2021-29156](https://github.com/5amu/CVE-2021-29156)	<img alt="forks" src="https://img.shields.io/github/forks/5amu/CVE-2021-29156">	<img alt="stars" src="https://img.shields.io/github/stars/5amu/CVE-2021-29156">
 - [guidepointsecurity/CVE-2021-29156](https://github.com/guidepointsecurity/CVE-2021-29156)	<img alt="forks" src="https://img.shields.io/github/forks/guidepointsecurity/CVE-2021-29156">	<img alt="stars" src="https://img.shields.io/github/stars/guidepointsecurity/CVE-2021-29156">
+
+---
+## CVE-2021-28874 (2021-04-06T13:15:00)
+> SerenityOS fixed as of c9f25bca048443e317f1994ba9b106f2386688c3 contains a buffer overflow vulnerability in LibTextCode through opening a crafted file.
+- [Live-Hack-CVE/CVE-2021-28874](https://github.com/Live-Hack-CVE/CVE-2021-28874)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28874">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28874">
 
 ---
 ## CVE-2021-28655 (2022-12-16T13:15:00)

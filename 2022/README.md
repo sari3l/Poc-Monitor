@@ -555,6 +555,31 @@
 - [Live-Hack-CVE/CVE-2022-45936](https://github.com/Live-Hack-CVE/CVE-2022-45936)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45936">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45936">
 
 ---
+## CVE-2022-45918 (2022-12-07T01:15:00)
+> ILIAS before 7.16 allows External Control of File Name or Path.
+- [Live-Hack-CVE/CVE-2022-45918](https://github.com/Live-Hack-CVE/CVE-2022-45918)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45918">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45918">
+
+---
+## CVE-2022-45917 (2022-12-07T01:15:00)
+> ILIAS before 7.16 has an Open Redirect.
+- [Live-Hack-CVE/CVE-2022-45917](https://github.com/Live-Hack-CVE/CVE-2022-45917)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45917">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45917">
+
+---
+## CVE-2022-45916 (2022-12-07T01:15:00)
+> ILIAS before 7.16 allows XSS.
+- [Live-Hack-CVE/CVE-2022-45916](https://github.com/Live-Hack-CVE/CVE-2022-45916)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45916">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45916">
+
+---
+## CVE-2022-45915 (2022-12-07T01:15:00)
+> ILIAS before 7.16 allows OS Command Injection.
+- [Live-Hack-CVE/CVE-2022-45915](https://github.com/Live-Hack-CVE/CVE-2022-45915)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45915">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45915">
+
+---
+## CVE-2022-45914 (2022-11-27T01:15:00)
+> The ESL (Electronic Shelf Label) protocol, as implemented by (for example) the OV80e934802 RF transceiver on the ETAG-2130-V4.3 20190629 board, does not use authentication, which allows attackers to change label values via 433 MHz RF signals, as demonstrated by disrupting the organization of a hospital storage unit, or changing retail pricing.
+- [Live-Hack-CVE/CVE-2022-45914](https://github.com/Live-Hack-CVE/CVE-2022-45914)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45914">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45914">
+
+---
 ## CVE-2022-4583 (2022-12-17T13:15:00)
 > A vulnerability was found in jLEMS. It has been declared as critical. Affected by this vulnerability is the function unpackJar of the file src/main/java/org/lemsml/jlems/io/util/JUtil.java. The manipulation leads to path traversal. The attack can be launched remotely. The name of the patch is 8c224637d7d561076364a9e3c2c375daeaf463dc. It is recommended to apply a patch to fix this issue. The identifier VDB-216169 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-4583](https://github.com/Live-Hack-CVE/CVE-2022-4583)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4583">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4583">
@@ -1457,6 +1482,17 @@
 - [Live-Hack-CVE/CVE-2022-41994](https://github.com/Live-Hack-CVE/CVE-2022-41994)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41994">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41994">
 
 ---
+## CVE-2022-41974 (2022-10-29T19:15:00)
+> multipath-tools 0.7.0 through 0.9.x before 0.9.2 allows local users to obtain root access, as exploited alone or in conjunction with CVE-2022-41973. Local users able to write to UNIX domain sockets can bypass access controls and manipulate the multipath setup. This can lead to local privilege escalation to root. This occurs because an attacker can repeat a keyword, which is mishandled because arithmetic ADD is used instead of bitwise OR.
+- [Live-Hack-CVE/CVE-2022-41974](https://github.com/Live-Hack-CVE/CVE-2022-41974)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41974">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41974">
+- [Mr-xn/CVE-2022-3328](https://github.com/Mr-xn/CVE-2022-3328)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2022-3328">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2022-3328">
+
+---
+## CVE-2022-41973 (2022-10-29T18:15:00)
+> multipath-tools 0.7.7 through 0.9.x before 0.9.2 allows local users to obtain root access, as exploited in conjunction with CVE-2022-41974. Local users able to access /dev/shm can change symlinks in multipathd due to incorrect symlink handling, which could lead to controlled file writes outside of the /dev/shm directory. This could be used indirectly for local privilege escalation to root.
+- [Live-Hack-CVE/CVE-2022-41973](https://github.com/Live-Hack-CVE/CVE-2022-41973)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41973">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41973">
+
+---
 ## CVE-2022-41964 (2022-12-16T18:15:00)
 > BigBlueButton is an open source web conferencing system. This vulnerability only affects release candidates of BigBlueButton 2.4. The attacker can start a subscription for poll results before starting an anonymous poll, and use this subscription to see individual responses in the anonymous poll. The attacker had to be a meeting presenter. This issue is patched in version 2.4.0. There are no workarounds.
 - [Live-Hack-CVE/CVE-2022-41964](https://github.com/Live-Hack-CVE/CVE-2022-41964)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41964">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41964">
@@ -1639,6 +1675,11 @@
 ## CVE-2022-41218 (2022-09-21T07:15:00)
 > In drivers/media/dvb-core/dmxdev.c in the Linux kernel through 5.19.10, there is a use-after-free caused by refcount races, affecting dvb_demux_open and dvb_dmxdev_release.
 - [V4bel/CVE-2022-41218](https://github.com/V4bel/CVE-2022-41218)	<img alt="forks" src="https://img.shields.io/github/forks/V4bel/CVE-2022-41218">	<img alt="stars" src="https://img.shields.io/github/stars/V4bel/CVE-2022-41218">
+
+---
+## CVE-2022-41214 (2022-11-08T22:15:00)
+> Due to insufficient input validation, SAP NetWeaver Application Server ABAP and ABAP Platform allows an attacker with high level privileges to use a remote enabled function to delete a file which is otherwise restricted. On successful exploitation an attacker can completely compromise the integrity and availability of the application.
+- [Live-Hack-CVE/CVE-2022-41214](https://github.com/Live-Hack-CVE/CVE-2022-41214)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41214">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41214">
 
 ---
 ## CVE-2022-41208 (2022-11-08T22:15:00)
@@ -2053,6 +2094,11 @@
 - [Live-Hack-CVE/CVE-2022-39304](https://github.com/Live-Hack-CVE/CVE-2022-39304)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39304">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39304">
 
 ---
+## CVE-2022-39273 (2022-10-06T18:16:00)
+> FlyteAdmin is the control plane for the data processing platform Flyte. Users who enable the default Flyte’s authorization server without changing the default clientid hashes will be exposed to the public internet. In an effort to make enabling authentication easier for Flyte administrators, the default configuration for Flyte Admin allows access for Flyte Propeller even after turning on authentication via a hardcoded hashed password. This password is also set on the default Flyte Propeller configmap in the various Flyte Helm charts. Users who enable auth but do not override this setting in Flyte Admin’s configuration may unbeknownst to them be allowing public traffic in by way of this default password with attackers effectively impersonating propeller. This only applies to users who have not specified the ExternalAuthorizationServer setting. Usage of an external auth server automatically turns off this default configuration and are not susceptible to this vulnerability. This issue has been addressed in version 1.1.44. Users should manually set the staticClients in the selfAuthServer section of their configuration if they intend to rely on Admin’s internal auth server. Again, users who use an external auth server are automatically protected from this vulnerability.
+- [Live-Hack-CVE/CVE-2022-39273](https://github.com/Live-Hack-CVE/CVE-2022-39273)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39273">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39273">
+
+---
 ## CVE-2022-39260 (2022-10-19T12:15:00)
 > Git is an open source, scalable, distributed revision control system. `git shell` is a restricted login shell that can be used to implement Git's push/pull functionality via SSH. In versions prior to 2.30.6, 2.31.5, 2.32.4, 2.33.5, 2.34.5, 2.35.5, 2.36.3, and 2.37.4, the function that splits the command arguments into an array improperly uses an `int` to represent the number of entries in the array, allowing a malicious actor to intentionally overflow the return value, leading to arbitrary heap writes. Because the resulting array is then passed to `execv()`, it is possible to leverage this attack to gain remote code execution on a victim machine. Note that a victim must first allow access to `git shell` as a login shell in order to be vulnerable to this attack. This problem is patched in versions 2.30.6, 2.31.5, 2.32.4, 2.33.5, 2.34.5, 2.35.5, 2.36.3, and 2.37.4 and users are advised to upgrade to the latest version. Disabling `git shell` access via remote logins is a viable short-term workaround.
 - [Live-Hack-CVE/CVE-2022-39260](https://github.com/Live-Hack-CVE/CVE-2022-39260)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39260">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39260">
@@ -2371,6 +2417,11 @@
 > An issue was discovered in Online Diagnostic Lab Management System 1.0. There is a stored XSS vulnerability via firstname, address, middlename, lastname , gender, email, contact parameters.
 - [Fjowel/CVE-2022-37150-CVE-2022-37151-CVE-2022-37152](https://github.com/Fjowel/CVE-2022-37150-CVE-2022-37151-CVE-2022-37152)	<img alt="forks" src="https://img.shields.io/github/forks/Fjowel/CVE-2022-37150-CVE-2022-37151-CVE-2022-37152">	<img alt="stars" src="https://img.shields.io/github/stars/Fjowel/CVE-2022-37150-CVE-2022-37151-CVE-2022-37152">
 - [Fjowel/CVE-2022-37150](https://github.com/Fjowel/CVE-2022-37150)	<img alt="forks" src="https://img.shields.io/github/forks/Fjowel/CVE-2022-37150">	<img alt="stars" src="https://img.shields.io/github/stars/Fjowel/CVE-2022-37150">
+
+---
+## CVE-2022-3711 (2022-12-01T18:15:00)
+> A post-auth read-only SQL injection vulnerability allows users to read non-sensitive configuration database contents in the User Portal of Sophos Firewall releases older than version 19.5 GA.
+- [Live-Hack-CVE/CVE-2022-3711](https://github.com/Live-Hack-CVE/CVE-2022-3711)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3711">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3711">
 
 ---
 ## CVE-2022-37042 (2022-08-12T15:15:00)
@@ -3231,6 +3282,11 @@
 - [gscharf/CVE-2022-31007-Python-POC](https://github.com/gscharf/CVE-2022-31007-Python-POC)	<img alt="forks" src="https://img.shields.io/github/forks/gscharf/CVE-2022-31007-Python-POC">	<img alt="stars" src="https://img.shields.io/github/stars/gscharf/CVE-2022-31007-Python-POC">
 
 ---
+## CVE-2022-30944 (2022-08-18T21:15:00)
+> Insufficiently protected credentials for Intel(R) AMT and Intel(R) Standard Manageability may allow a privileged user to potentially enable information disclosure via local access.
+- [Live-Hack-CVE/CVE-2022-30944](https://github.com/Live-Hack-CVE/CVE-2022-30944)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30944">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30944">
+
+---
 ## CVE-2022-30929 (2022-07-06T15:15:00)
 > Mini-Tmall v1.0 is vulnerable to Insecure Permissions via tomcat-embed-jasper.
 - [AgainstTheLight/CVE-2022-30929](https://github.com/AgainstTheLight/CVE-2022-30929)	<img alt="forks" src="https://img.shields.io/github/forks/AgainstTheLight/CVE-2022-30929">	<img alt="stars" src="https://img.shields.io/github/stars/AgainstTheLight/CVE-2022-30929">
@@ -3280,6 +3336,11 @@
 ## CVE-2022-30679 (2022-12-19T20:15:00)
 > Adobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.
 - [Live-Hack-CVE/CVE-2022-30679](https://github.com/Live-Hack-CVE/CVE-2022-30679)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30679">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30679">
+
+---
+## CVE-2022-30601 (2022-08-18T21:15:00)
+> Insufficiently protected credentials for Intel(R) AMT and Intel(R) Standard Manageability may allow an unauthenticated user to potentially enable information disclosure and escalation of privilege via network access.
+- [Live-Hack-CVE/CVE-2022-30601](https://github.com/Live-Hack-CVE/CVE-2022-30601)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30601">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30601">
 
 ---
 ## CVE-2022-30600 (2022-05-18T18:15:00)
@@ -3408,6 +3469,11 @@
 ## CVE-2022-30115 (2022-06-02T14:15:00)
 > Using its HSTS support, curl can be instructed to use HTTPS directly insteadof using an insecure clear-text HTTP step even when HTTP is provided in theURL. This mechanism could be bypassed if the host name in the given URL used atrailing dot while not using one when it built the HSTS cache. Or the otherway around - by having the trailing dot in the HSTS cache and *not* using thetrailing dot in the URL.
 - [Live-Hack-CVE/CVE-2022-30115](https://github.com/Live-Hack-CVE/CVE-2022-30115)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30115">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30115">
+
+---
+## CVE-2022-30079 (2022-09-08T12:15:00)
+> Command injection vulnerability was discovered in Netgear R6200 v2 firmware through R6200v2-V1.0.3.12 via binary /sbin/acos_service that could allow remote authenticated attackers the ability to modify values in the vulnerable parameter.
+- [Live-Hack-CVE/CVE-2022-30079](https://github.com/Live-Hack-CVE/CVE-2022-30079)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30079">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30079">
 
 ---
 ## CVE-2022-30075 (2022-06-09T04:15:00)
@@ -4472,6 +4538,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [docfate111/CVE-2022-21789](https://github.com/docfate111/CVE-2022-21789)	<img alt="forks" src="https://img.shields.io/github/forks/docfate111/CVE-2022-21789">	<img alt="stars" src="https://img.shields.io/github/stars/docfate111/CVE-2022-21789">
 
 ---
+## CVE-2022-21698 (2022-02-15T16:15:00)
+> client_golang is the instrumentation library for Go applications in Prometheus, and the promhttp package in client_golang provides tooling around HTTP servers and clients. In client_golang prior to version 1.11.1, HTTP server is susceptible to a Denial of Service through unbounded cardinality, and potential memory exhaustion, when handling requests with non-standard HTTP methods. In order to be affected, an instrumented software must use any of `promhttp.InstrumentHandler*` middleware except `RequestsInFlight`; not filter any specific methods (e.g GET) before middleware; pass metric with `method` label name to our middleware; and not have any firewall/LB/proxy that filters away requests with unknown `method`. client_golang version 1.11.1 contains a patch for this issue. Several workarounds are available, including removing the `method` label name from counter/gauge used in the InstrumentHandler; turning off affected promhttp handlers; adding custom middleware before promhttp handler that will sanitize the request method given by Go http.Request; and using a reverse proxy or web application firewall, configured to only allow a limited set of methods.
+- [Live-Hack-CVE/CVE-2022-21698](https://github.com/Live-Hack-CVE/CVE-2022-21698)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21698">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21698">
+
+---
 ## CVE-2022-21661 (2022-01-06T23:15:00)
 > WordPress is a free and open-source content management system written in PHP and paired with a MariaDB database. Due to improper sanitization in WP_Query, there can be cases where SQL injection is possible through plugins or themes that use it in a certain way. This has been patched in WordPress version 5.8.3. Older affected versions are also fixed via security release, that go back till 3.7.37. We strongly recommend that you keep auto-updates enabled. There are no known workarounds for this vulnerability.
 - [PyterSmithDarkGhost/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection-main](https://github.com/PyterSmithDarkGhost/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection-main)	<img alt="forks" src="https://img.shields.io/github/forks/PyterSmithDarkGhost/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection-main">	<img alt="stars" src="https://img.shields.io/github/stars/PyterSmithDarkGhost/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection-main">
@@ -4517,6 +4588,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 > Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Web Container). Supported versions that are affected are 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in unauthorized access to critical data or complete access to all Oracle WebLogic Server accessible data. CVSS 3.1 Base Score 7.5 (Confidentiality impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N).
 - [Vulnmachines/Oracle-WebLogic-CVE-2022-21371](https://github.com/Vulnmachines/Oracle-WebLogic-CVE-2022-21371)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/Oracle-WebLogic-CVE-2022-21371">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/Oracle-WebLogic-CVE-2022-21371">
 - [Mr-xn/CVE-2022-21371](https://github.com/Mr-xn/CVE-2022-21371)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2022-21371">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2022-21371">
+
+---
+## CVE-2022-21225 (2022-08-18T20:15:00)
+> Improper neutralization in the Intel(R) Data Center Manager software before version 4.1 may allow an authenticated user to potentially enable escalation of privilege via adjacent access.
+- [Live-Hack-CVE/CVE-2022-21225](https://github.com/Live-Hack-CVE/CVE-2022-21225)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21225">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21225">
 
 ---
 ## CVE-2022-20866 (2022-08-10T17:15:00)
@@ -5460,6 +5536,21 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-0123 (2022-03-28T19:15:00)
 > An issue has been discovered affecting GitLab versions prior to 14.4.5, between 14.5.0 and 14.5.3, and between 14.6.0 and 14.6.1. GitLab does not validate SSL certificates for some of external CI services which makes it possible to perform MitM attacks on connections to these external services.
 - [SURENKUMAR-0212/cve-2022-0123](https://github.com/SURENKUMAR-0212/cve-2022-0123)	<img alt="forks" src="https://img.shields.io/github/forks/SURENKUMAR-0212/cve-2022-0123">	<img alt="stars" src="https://img.shields.io/github/stars/SURENKUMAR-0212/cve-2022-0123">
+
+---
+## CVE-2022-0074 (2022-10-27T20:15:00)
+> Untrusted Search Path vulnerability in LiteSpeed Technologies OpenLiteSpeed Web Server and LiteSpeed Web Server Container allows Privilege Escalation. This affects versions from 1.6.15 before 1.7.16.1.
+- [Live-Hack-CVE/CVE-2022-0074](https://github.com/Live-Hack-CVE/CVE-2022-0074)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0074">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0074">
+
+---
+## CVE-2022-0073 (2022-10-27T20:15:00)
+> Improper Input Validation vulnerability in LiteSpeed Technologies OpenLiteSpeed Web Server and LiteSpeed Web Server dashboards allows Command Injection. This affects 1.7.0 versions before 1.7.16.1.
+- [Live-Hack-CVE/CVE-2022-0073](https://github.com/Live-Hack-CVE/CVE-2022-0073)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0073">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0073">
+
+---
+## CVE-2022-0072 (2022-10-27T20:15:00)
+> Directory Traversal vulnerability in LiteSpeed Technologies OpenLiteSpeed Web Server and LiteSpeed Web Server dashboards allows Path Traversal. This affects versions from 1.5.11 through 1.5.12, from 1.6.5 through 1.6.20.1, from 1.7.0 before 1.7.16.1
+- [Live-Hack-CVE/CVE-2022-0072](https://github.com/Live-Hack-CVE/CVE-2022-0072)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0072">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0072">
 
 ---
 ## CVE-2022-0002 (2022-03-11T18:15:00)

@@ -170,9 +170,54 @@
 - [Live-Hack-CVE/CVE-2019-4141](https://github.com/Live-Hack-CVE/CVE-2019-4141)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4141">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4141">
 
 ---
+## CVE-2019-4133 (2019-08-29T15:15:00)
+> IBM Cloud Automation Manager 3.1.2 could allow a malicious user on the client side (with access to client computer) to run a custom script. IBM X-Force ID: 158278.
+- [Live-Hack-CVE/CVE-2019-4133](https://github.com/Live-Hack-CVE/CVE-2019-4133)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4133">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4133">
+
+---
+## CVE-2019-4132 (2019-08-29T15:15:00)
+> IBM Cloud Automation Manager 3.1.2 could allow a user to be impropertly redirected and obtain sensitive information rather than receive a 404 error message. IBM X-Force ID: 158274.
+- [Live-Hack-CVE/CVE-2019-4132](https://github.com/Live-Hack-CVE/CVE-2019-4132)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4132">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4132">
+
+---
+## CVE-2019-4120 (2019-08-20T20:15:00)
+> IBM Cloud Private 3.1.1 and 3.1.2 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 158146.
+- [Live-Hack-CVE/CVE-2019-4120](https://github.com/Live-Hack-CVE/CVE-2019-4120)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4120">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4120">
+
+---
+## CVE-2019-4118 (2019-07-11T20:15:00)
+> IBM Multicloud Manager 3.1.0, 3.1.1, and 3.1.2 ibm-mcm-chart could allow a local attacker with admin privileges to obtain highly sensitive information upon deployment. IBM X-Force ID: 158144.
+- [Live-Hack-CVE/CVE-2019-4118](https://github.com/Live-Hack-CVE/CVE-2019-4118)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4118">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4118">
+
+---
+## CVE-2019-4117 (2019-08-20T19:15:00)
+> IBM Cloud Private 3.1.1 and 3.1.2 is vulnerable to cross-site request forgery which could allow an attacker to execute malicious and unauthorized actions transmitted from a user that the website trusts. IBM X-Force ID: 158116.
+- [Live-Hack-CVE/CVE-2019-4117](https://github.com/Live-Hack-CVE/CVE-2019-4117)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4117">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4117">
+
+---
+## CVE-2019-4116 (2019-07-25T15:15:00)
+> IBM Cloud Private 2.1.0, 3.1.0, and 3.1.1 could disclose highly sensitive information in installer logs that could be use for further attacks against the system. IBM X-Force ID: 158115.
+- [Live-Hack-CVE/CVE-2019-4116](https://github.com/Live-Hack-CVE/CVE-2019-4116)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4116">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4116">
+
+---
 ## CVE-2019-4073 (2019-04-25T15:29:00)
 > IBM Sterling B2B Integrator Standard Edition 6.0.0.0 and 6.0.0.1 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 157107.
 - [Live-Hack-CVE/CVE-2019-4073](https://github.com/Live-Hack-CVE/CVE-2019-4073)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4073">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4073">
+
+---
+## CVE-2019-4054 (2019-07-17T14:15:00)
+> IBM QRadar SIEM 7.2 and 7.3 could allow a local user to obtain sensitive information when exporting content that could aid an attacker in further attacks against the system. IBM X-Force ID: 156563.
+- [Live-Hack-CVE/CVE-2019-4054](https://github.com/Live-Hack-CVE/CVE-2019-4054)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4054">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4054">
+
+---
+## CVE-2019-4048 (2019-06-06T01:29:00)
+> IBM Maximo Asset Management 7.6 could allow a physical user of the system to obtain sensitive information from a previous user of the same machine. IBM X-Force ID: 156311.
+- [Live-Hack-CVE/CVE-2019-4048](https://github.com/Live-Hack-CVE/CVE-2019-4048)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4048">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4048">
+
+---
+## CVE-2019-4047 (2019-04-29T17:29:00)
+> IBM Jazz Reporting Service (JRS) 6.0.6 could allow an authenticated user to access the execution log files as a guest user, and obtain the information of the server execution. IBM X-Force ID: 156243.
+- [Live-Hack-CVE/CVE-2019-4047](https://github.com/Live-Hack-CVE/CVE-2019-4047)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4047">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4047">
 
 ---
 ## CVE-2019-3560 (2019-04-29T16:29:00)
