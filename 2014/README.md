@@ -51,11 +51,61 @@
 - [AleMizandari/-CVE-2014-4078](https://github.com/AleMizandari/-CVE-2014-4078)	<img alt="forks" src="https://img.shields.io/github/forks/AleMizandari/-CVE-2014-4078">	<img alt="stars" src="https://img.shields.io/github/stars/AleMizandari/-CVE-2014-4078">
 
 ---
+## CVE-2014-3166 (2014-08-13T04:57:00)
+> The Public Key Pinning (PKP) implementation in Google Chrome before 36.0.1985.143 on Windows, OS X, and Linux, and before 36.0.1985.135 on Android, does not correctly consider the properties of SPDY connections, which allows remote attackers to obtain sensitive information by leveraging the use of multiple domain names.
+- [Live-Hack-CVE/CVE-2014-3166](https://github.com/Live-Hack-CVE/CVE-2014-3166)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-3166">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-3166">
+
+---
 ## CVE-2014-3120 (2014-07-28T19:55:00)
 > The default configuration in Elasticsearch before 1.2 enables dynamic scripting, which allows remote attackers to execute arbitrary MVEL expressions and Java code via the source parameter to _search.  NOTE: this only violates the vendor's intended security policy if the user does not run Elasticsearch in its own independent virtual machine.
 - [xpgdgit/CVE-2014-3120](https://github.com/xpgdgit/CVE-2014-3120)	<img alt="forks" src="https://img.shields.io/github/forks/xpgdgit/CVE-2014-3120">	<img alt="stars" src="https://img.shields.io/github/stars/xpgdgit/CVE-2014-3120">
 - [echohtp/ElasticSearch-CVE-2014-3120](https://github.com/echohtp/ElasticSearch-CVE-2014-3120)	<img alt="forks" src="https://img.shields.io/github/forks/echohtp/ElasticSearch-CVE-2014-3120">	<img alt="stars" src="https://img.shields.io/github/stars/echohtp/ElasticSearch-CVE-2014-3120">
 - [jeffgeiger/es_inject](https://github.com/jeffgeiger/es_inject)	<img alt="forks" src="https://img.shields.io/github/forks/jeffgeiger/es_inject">	<img alt="stars" src="https://img.shields.io/github/stars/jeffgeiger/es_inject">
+
+---
+## CVE-2014-1736 (2014-05-06T10:44:00)
+> Integer overflow in api.cc in Google V8, as used in Google Chrome before 34.0.1847.131 on Windows and OS X and before 34.0.1847.132 on Linux, allows remote attackers to cause a denial of service or possibly have unspecified other impact via a large length value.
+- [Live-Hack-CVE/CVE-2014-1736](https://github.com/Live-Hack-CVE/CVE-2014-1736)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-1736">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-1736">
+
+---
+## CVE-2014-1735 (2014-04-26T10:55:00)
+> Multiple unspecified vulnerabilities in Google V8 before 3.24.35.33, as used in Google Chrome before 34.0.1847.131 on Windows and OS X and before 34.0.1847.132 on Linux, allow attackers to cause a denial of service or possibly have other impact via unknown vectors.
+- [Live-Hack-CVE/CVE-2014-1735](https://github.com/Live-Hack-CVE/CVE-2014-1735)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-1735">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-1735">
+
+---
+## CVE-2014-1734 (2014-04-26T10:55:00)
+> Multiple unspecified vulnerabilities in Google Chrome before 34.0.1847.131 on Windows and OS X and before 34.0.1847.132 on Linux allow attackers to cause a denial of service or possibly have other impact via unknown vectors.
+- [Live-Hack-CVE/CVE-2014-1734](https://github.com/Live-Hack-CVE/CVE-2014-1734)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-1734">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-1734">
+
+---
+## CVE-2014-1731 (2014-04-26T10:55:00)
+> core/html/HTMLSelectElement.cpp in the DOM implementation in Blink, as used in Google Chrome before 34.0.1847.131 on Windows and OS X and before 34.0.1847.132 on Linux, does not properly check renderer state upon a focus event, which allows remote attackers to cause a denial of service or possibly have unspecified other impact via vectors that leverage "type confusion" for SELECT elements.
+- [Live-Hack-CVE/CVE-2014-1731](https://github.com/Live-Hack-CVE/CVE-2014-1731)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-1731">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-1731">
+
+---
+## CVE-2014-1730 (2014-04-26T10:55:00)
+> Google V8, as used in Google Chrome before 34.0.1847.131 on Windows and OS X and before 34.0.1847.132 on Linux, does not properly store internationalization metadata, which allows remote attackers to bypass intended access restrictions by leveraging "type confusion" and reading property values, related to i18n.js and runtime.cc.
+- [Live-Hack-CVE/CVE-2014-1730](https://github.com/Live-Hack-CVE/CVE-2014-1730)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-1730">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-1730">
+
+---
+## CVE-2014-1715 (2014-03-16T14:06:00)
+> Directory traversal vulnerability in Google Chrome before 33.0.1750.152 on OS X and Linux and before 33.0.1750.154 on Windows has unspecified impact and attack vectors.
+- [Live-Hack-CVE/CVE-2014-1715](https://github.com/Live-Hack-CVE/CVE-2014-1715)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-1715">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-1715">
+
+---
+## CVE-2014-1714 (2014-03-16T14:06:00)
+> The ScopedClipboardWriter::WritePickledData function in ui/base/clipboard/scoped_clipboard_writer.cc in Google Chrome before 33.0.1750.152 on OS X and Linux and before 33.0.1750.154 on Windows does not verify a certain format value, which allows remote attackers to cause a denial of service or possibly have unspecified other impact via vectors related to the clipboard.
+- [Live-Hack-CVE/CVE-2014-1714](https://github.com/Live-Hack-CVE/CVE-2014-1714)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-1714">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-1714">
+
+---
+## CVE-2014-1713 (2014-03-16T14:06:00)
+> Use-after-free vulnerability in the AttributeSetter function in bindings/templates/attributes.cpp in the bindings in Blink, as used in Google Chrome before 33.0.1750.152 on OS X and Linux and before 33.0.1750.154 on Windows, allows remote attackers to cause a denial of service or possibly have unspecified other impact via vectors involving the document.location value.
+- [Live-Hack-CVE/CVE-2014-1713](https://github.com/Live-Hack-CVE/CVE-2014-1713)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-1713">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-1713">
+
+---
+## CVE-2014-1705 (2014-03-16T14:06:00)
+> Google V8, as used in Google Chrome before 33.0.1750.152 on OS X and Linux and before 33.0.1750.154 on Windows, allows remote attackers to cause a denial of service (memory corruption) or possibly have unspecified other impact via unknown vectors.
+- [Live-Hack-CVE/CVE-2014-1705](https://github.com/Live-Hack-CVE/CVE-2014-1705)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-1705">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-1705">
 
 ---
 ## CVE-2014-0196 (2014-05-07T10:55:00)

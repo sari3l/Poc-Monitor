@@ -493,6 +493,11 @@
 - [0x09AL/CVE-2017-11882-metasploit](https://github.com/0x09AL/CVE-2017-11882-metasploit)	<img alt="forks" src="https://img.shields.io/github/forks/0x09AL/CVE-2017-11882-metasploit">	<img alt="stars" src="https://img.shields.io/github/stars/0x09AL/CVE-2017-11882-metasploit">
 
 ---
+## CVE-2017-11683 (2017-07-27T06:29:00)
+> There is a reachable assertion in the Internal::TiffReader::visitDirectory function in tiffvisitor.cpp of Exiv2 0.26 that will lead to a remote denial of service attack via crafted input.
+- [Live-Hack-CVE/CVE-2017-11683](https://github.com/Live-Hack-CVE/CVE-2017-11683)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-11683">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-11683">
+
+---
 ## CVE-2017-11317 (2017-08-23T17:29:00)
 > Telerik.Web.UI in Progress Telerik UI for ASP.NET AJAX before R1 2017 and R2 before R2 2017 SP2 uses weak RadAsyncUpload encryption, which allows remote attackers to perform arbitrary file uploads or execute arbitrary code.
 - [KasunPriyashan/Unrestricted-File-Upload-by-Weak-Encryption-affected-versions-CVE-2017-11317-Remote-Code-Execut](https://github.com/KasunPriyashan/Unrestricted-File-Upload-by-Weak-Encryption-affected-versions-CVE-2017-11317-Remote-Code-Execut)	<img alt="forks" src="https://img.shields.io/github/forks/KasunPriyashan/Unrestricted-File-Upload-by-Weak-Encryption-affected-versions-CVE-2017-11317-Remote-Code-Execut">	<img alt="stars" src="https://img.shields.io/github/stars/KasunPriyashan/Unrestricted-File-Upload-by-Weak-Encryption-affected-versions-CVE-2017-11317-Remote-Code-Execut">

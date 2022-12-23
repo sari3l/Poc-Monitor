@@ -1261,6 +1261,26 @@
 - [Live-Hack-CVE/CVE-2022-44608](https://github.com/Live-Hack-CVE/CVE-2022-44608)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44608">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44608">
 
 ---
+## CVE-2022-44590 (2022-11-09T22:15:00)
+> Auth. (contributor+) Stored Cross-Site Scripting (XSS) vulnerability in James Lao's Simple Video Embedder plugin <= 2.2 on WordPress.
+- [Live-Hack-CVE/CVE-2022-44590](https://github.com/Live-Hack-CVE/CVE-2022-44590)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44590">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44590">
+
+---
+## CVE-2022-44562 (2022-11-09T21:15:00)
+> The system framework layer has a vulnerability of serialization/deserialization mismatch. Successful exploitation of this vulnerability may cause privilege escalation.
+- [Live-Hack-CVE/CVE-2022-44562](https://github.com/Live-Hack-CVE/CVE-2022-44562)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44562">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44562">
+
+---
+## CVE-2022-44550 (2022-11-09T21:15:00)
+> The graphics display module has a UAF vulnerability when traversing graphic layers. Successful exploitation of this vulnerability may affect system availability.
+- [Live-Hack-CVE/CVE-2022-44550](https://github.com/Live-Hack-CVE/CVE-2022-44550)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44550">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44550">
+
+---
+## CVE-2022-44549 (2022-11-09T21:15:00)
+> The LBS module has a vulnerability in geofencing API access. Successful exploitation of this vulnerability may cause third-party apps to access the geofencing APIs without authorization, affecting user confidentiality.
+- [Live-Hack-CVE/CVE-2022-44549](https://github.com/Live-Hack-CVE/CVE-2022-44549)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44549">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44549">
+
+---
 ## CVE-2022-44488 (2022-12-19T20:15:00)
 > Adobe Experience Manager version 6.5.14 (and earlier) is affected by a URL Redirection to Untrusted Site ('Open Redirect') vulnerability. A low-privilege authenticated attacker could leverage this vulnerability to redirect users to malicious websites. Exploitation of this issue requires user interaction.
 - [Live-Hack-CVE/CVE-2022-44488](https://github.com/Live-Hack-CVE/CVE-2022-44488)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44488">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44488">
@@ -3806,6 +3826,16 @@
 - [Live-Hack-CVE/CVE-2022-39902](https://github.com/Live-Hack-CVE/CVE-2022-39902)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39902">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39902">
 
 ---
+## CVE-2022-39893 (2022-11-09T22:15:00)
+> Sensitive information exposure vulnerability in FmmBaseModel in Galaxy Buds Pro Manage prior to version 4.1.22092751 allows local attackers with log access permission to get device identifier data through device log.
+- [Live-Hack-CVE/CVE-2022-39893](https://github.com/Live-Hack-CVE/CVE-2022-39893)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39893">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39893">
+
+---
+## CVE-2022-39892 (2022-11-09T22:15:00)
+> Improper access control in Samsung Pass prior to version 4.0.05.1 allows attackers to unauthenticated access via keep open feature.
+- [Live-Hack-CVE/CVE-2022-39892](https://github.com/Live-Hack-CVE/CVE-2022-39892)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39892">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39892">
+
+---
 ## CVE-2022-39889 (2022-11-09T22:15:00)
 > Improper access control vulnerability in GalaxyWatch4Plugin prior to versions 2.2.11.22101351 and 2.2.12.22101351 allows attackers to access wearable device information.
 - [Live-Hack-CVE/CVE-2022-39889](https://github.com/Live-Hack-CVE/CVE-2022-39889)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39889">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39889">
@@ -4410,9 +4440,19 @@
 - [Live-Hack-CVE/CVE-2022-38042](https://github.com/Live-Hack-CVE/CVE-2022-38042)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38042">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38042">
 
 ---
+## CVE-2022-38038 (2022-10-11T19:15:00)
+> Windows Kernel Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-37988, CVE-2022-37990, CVE-2022-37991, CVE-2022-37995, CVE-2022-38022, CVE-2022-38037, CVE-2022-38039.
+- [Live-Hack-CVE/CVE-2022-38038](https://github.com/Live-Hack-CVE/CVE-2022-38038)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38038">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38038">
+
+---
 ## CVE-2022-38023 (2022-11-09T22:15:00)
 > Netlogon RPC Elevation of Privilege Vulnerability.
 - [Live-Hack-CVE/CVE-2022-38023](https://github.com/Live-Hack-CVE/CVE-2022-38023)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38023">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38023">
+
+---
+## CVE-2022-37991 (2022-10-11T19:15:00)
+> Windows Kernel Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-37988, CVE-2022-37990, CVE-2022-37995, CVE-2022-38022, CVE-2022-38037, CVE-2022-38038, CVE-2022-38039.
+- [Live-Hack-CVE/CVE-2022-37991](https://github.com/Live-Hack-CVE/CVE-2022-37991)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37991">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37991">
 
 ---
 ## CVE-2022-37967 (2022-11-09T22:15:00)
@@ -5362,6 +5402,11 @@
 - [kenyon-wong/cve-2022-3452](https://github.com/kenyon-wong/cve-2022-3452)	<img alt="forks" src="https://img.shields.io/github/forks/kenyon-wong/cve-2022-3452">	<img alt="stars" src="https://img.shields.io/github/stars/kenyon-wong/cve-2022-3452">
 
 ---
+## CVE-2022-3450 (2022-11-09T19:15:00)
+> Use after free in Peer Connection in Google Chrome prior to 106.0.5249.119 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
+- [Live-Hack-CVE/CVE-2022-3450](https://github.com/Live-Hack-CVE/CVE-2022-3450)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3450">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3450">
+
+---
 ## CVE-2022-3448 (2022-11-09T19:15:00)
 > Use after free in Permissions API in Google Chrome prior to 106.0.5249.119 allowed a remote attacker who convinced a user to engage in specific UI gestures to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [Live-Hack-CVE/CVE-2022-3448](https://github.com/Live-Hack-CVE/CVE-2022-3448)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3448">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3448">
@@ -6069,6 +6114,11 @@
 ## CVE-2022-31262 (2022-08-17T15:15:00)
 > An exploitable local privilege escalation vulnerability exists in GOG Galaxy 2.0.46. Due to insufficient folder permissions, an attacker can hijack the %ProgramData%\GOG.com folder structure and change the GalaxyCommunication service executable to a malicious file, resulting in code execution as SYSTEM.
 - [secure-77/CVE-2022-31262](https://github.com/secure-77/CVE-2022-31262)	<img alt="forks" src="https://img.shields.io/github/forks/secure-77/CVE-2022-31262">	<img alt="stars" src="https://img.shields.io/github/stars/secure-77/CVE-2022-31262">
+
+---
+## CVE-2022-31253 (2022-11-09T14:15:00)
+> A Untrusted Search Path vulnerability in openldap2 of openSUSE Factory allows local attackers with control of the ldap user or group to change ownership of arbitrary directory entries to this user/group, leading to escalation to root. This issue affects: openSUSE Factory openldap2 versions prior to 2.6.3-404.1.
+- [Live-Hack-CVE/CVE-2022-31253](https://github.com/Live-Hack-CVE/CVE-2022-31253)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31253">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31253">
 
 ---
 ## CVE-2022-31245 (2022-05-20T15:15:00)
@@ -6961,6 +7011,11 @@
 - [XmasSnowISBACK/CVE-2022-26726](https://github.com/XmasSnowISBACK/CVE-2022-26726)	<img alt="forks" src="https://img.shields.io/github/forks/XmasSnowISBACK/CVE-2022-26726">	<img alt="stars" src="https://img.shields.io/github/stars/XmasSnowISBACK/CVE-2022-26726">
 
 ---
+## CVE-2022-26704 (2022-05-26T19:15:00)
+> A validation issue existed in the handling of symlinks and was addressed with improved validation of symlinks. This issue is fixed in macOS Monterey 12.4. An app may be able to gain elevated privileges.
+- [Live-Hack-CVE/CVE-2022-26704](https://github.com/Live-Hack-CVE/CVE-2022-26704)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26704">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26704">
+
+---
 ## CVE-2022-26651 (2022-04-15T05:15:00)
 > An issue was discovered in Asterisk through 19.x and Certified Asterisk through 16.8-cert13. The func_odbc module provides possibly inadequate escaping functionality for backslash characters in SQL queries, resulting in user-provided data creating a broken SQL query or possibly a SQL injection. This is fixed in 16.25.2, 18.11.2, and 19.3.2, and 16.8-cert14.
 - [Live-Hack-CVE/CVE-2022-26651](https://github.com/Live-Hack-CVE/CVE-2022-26651)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26651">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26651">
@@ -7427,6 +7482,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-23831 (2022-11-09T21:15:00)
 > Insufficient validation of the IOCTL input buffer in AMD ?Prof may allow an attacker to send an arbitrary buffer leading to a potential Windows kernel crash resulting in denial of service.
 - [Live-Hack-CVE/CVE-2022-23831](https://github.com/Live-Hack-CVE/CVE-2022-23831)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23831">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23831">
+
+---
+## CVE-2022-23825 (2022-07-14T20:15:00)
+> Aliases in the branch predictor may cause some AMD processors to predict the wrong branch type potentially leading to information disclosure.
+- [Live-Hack-CVE/CVE-2022-23825](https://github.com/Live-Hack-CVE/CVE-2022-23825)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23825">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23825">
 
 ---
 ## CVE-2022-23824 (2022-11-09T21:15:00)
@@ -9094,6 +9154,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-0072 (2022-10-27T20:15:00)
 > Directory Traversal vulnerability in LiteSpeed Technologies OpenLiteSpeed Web Server and LiteSpeed Web Server dashboards allows Path Traversal. This affects versions from 1.5.11 through 1.5.12, from 1.6.5 through 1.6.20.1, from 1.7.0 before 1.7.16.1
 - [Live-Hack-CVE/CVE-2022-0072](https://github.com/Live-Hack-CVE/CVE-2022-0072)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0072">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0072">
+
+---
+## CVE-2022-0031 (2022-11-09T18:15:00)
+> A local privilege escalation (PE) vulnerability in the Palo Alto Networks Cortex XSOAR engine software running on a Linux operating system allows a local attacker with shell access to the engine to execute programs with elevated privileges.
+- [Live-Hack-CVE/CVE-2022-0031](https://github.com/Live-Hack-CVE/CVE-2022-0031)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0031">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0031">
 
 ---
 ## CVE-2022-0002 (2022-03-11T18:15:00)

@@ -1,6 +1,16 @@
 # 2021 List
 
 ---
+## CVE-2021-46852 (2022-11-09T21:15:00)
+> The memory management module has the logic bypass vulnerability. Successful exploitation of this vulnerability may affect data confidentiality.
+- [Live-Hack-CVE/CVE-2021-46852](https://github.com/Live-Hack-CVE/CVE-2021-46852)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46852">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46852">
+
+---
+## CVE-2021-46851 (2022-11-09T21:15:00)
+> The DRM module has a vulnerability in verifying the secure memory attributes. Successful exploitation of this vulnerability may cause abnormal video playback.
+- [Live-Hack-CVE/CVE-2021-46851](https://github.com/Live-Hack-CVE/CVE-2021-46851)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46851">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46851">
+
+---
 ## CVE-2021-46848 (2022-10-24T14:15:00)
 > GNU Libtasn1 before 4.19.0 has an ETYPE_OK off-by-one array size check that affects asn1_encode_simple_der.
 - [Live-Hack-CVE/CVE-2021-46848](https://github.com/Live-Hack-CVE/CVE-2021-46848)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46848">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46848">
@@ -1006,6 +1016,11 @@
 - [Live-Hack-CVE/CVE-2021-37533](https://github.com/Live-Hack-CVE/CVE-2021-37533)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37533">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37533">
 
 ---
+## CVE-2021-3717 (2022-05-24T19:15:00)
+> A flaw was found in Wildfly. An incorrect JBOSS_LOCAL_USER challenge location when using the elytron configuration may lead to JBOSS_LOCAL_USER access to all users on the machine. The highest threat from this vulnerability is to confidentiality, integrity, and availability. This flaw affects wildfly-core versions prior to 17.0.
+- [Live-Hack-CVE/CVE-2021-3717](https://github.com/Live-Hack-CVE/CVE-2021-3717)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3717">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3717">
+
+---
 ## CVE-2021-36981 (2021-08-31T04:15:00)
 > In the server in SerNet verinice before 1.22.2, insecure Java deserialization allows remote authenticated attackers to execute arbitrary code.
 - [Live-Hack-CVE/CVE-2021-36981](https://github.com/Live-Hack-CVE/CVE-2021-36981)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36981">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36981">
@@ -1081,6 +1096,11 @@
 - [Live-Hack-CVE/CVE-2021-3632](https://github.com/Live-Hack-CVE/CVE-2021-3632)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3632">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3632">
 
 ---
+## CVE-2021-3629 (2022-05-24T19:15:00)
+> A flaw was found in Undertow. A potential security issue in flow control handling by the browser over http/2 may potentially cause overhead or a denial of service in the server. The highest threat from this vulnerability is availability. This flaw affects Undertow versions prior to 2.0.40.Final and prior to 2.2.11.Final.
+- [Live-Hack-CVE/CVE-2021-3629](https://github.com/Live-Hack-CVE/CVE-2021-3629)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3629">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3629">
+
+---
 ## CVE-2021-36260 (2021-09-22T13:15:00)
 > A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input validation, attacker can exploit the vulnerability to launch a command injection attack by sending some messages with malicious commands.
 - [Cuerz/CVE-2021-36260](https://github.com/Cuerz/CVE-2021-36260)	<img alt="forks" src="https://img.shields.io/github/forks/Cuerz/CVE-2021-36260">	<img alt="stars" src="https://img.shields.io/github/stars/Cuerz/CVE-2021-36260">
@@ -1106,6 +1126,12 @@
 ## CVE-2021-3598 (2021-07-06T15:15:00)
 > There's a flaw in OpenEXR's ImfDeepScanLineInputFile functionality in versions prior to 3.0.5. An attacker who is able to submit a crafted file to an application linked with OpenEXR could cause an out-of-bounds read. The greatest risk from this flaw is to application availability.
 - [Live-Hack-CVE/CVE-2021-3598](https://github.com/Live-Hack-CVE/CVE-2021-3598)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3598">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3598">
+
+---
+## CVE-2021-3597 (2022-05-24T19:15:00)
+> A flaw was found in undertow. The HTTP2SourceChannel fails to write the final frame under some circumstances, resulting in a denial of service. The highest threat from this vulnerability is availability. This flaw affects Undertow versions prior to 2.0.35.SP1, prior to 2.2.6.SP1, prior to 2.2.7.SP1, prior to 2.0.36.SP1, prior to 2.2.9.Final and prior to 2.0.39.Final.
+- [Live-Hack-CVE/CVE-2021-3597](https://github.com/Live-Hack-CVE/CVE-2021-3597)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3597">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3597">
+- [trump88/CVE-2021-35975](https://github.com/trump88/CVE-2021-35975)	<img alt="forks" src="https://img.shields.io/github/forks/trump88/CVE-2021-35975">	<img alt="stars" src="https://img.shields.io/github/stars/trump88/CVE-2021-35975">
 
 ---
 ## CVE-2021-35940 (2021-08-23T10:15:00)
