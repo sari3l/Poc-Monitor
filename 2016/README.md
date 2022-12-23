@@ -136,6 +136,11 @@
 - [Live-Hack-CVE/CVE-2016-6981](https://github.com/Live-Hack-CVE/CVE-2016-6981)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-6981">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-6981">
 
 ---
+## CVE-2016-6924 (2016-09-14T18:59:00)
+> Adobe Flash Player before 18.0.0.375 and 19.x through 23.x before 23.0.0.162 on Windows and OS X and before 11.2.202.635 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-4274, CVE-2016-4275, CVE-2016-4276, CVE-2016-4280, CVE-2016-4281, CVE-2016-4282, CVE-2016-4283, CVE-2016-4284, CVE-2016-4285, and CVE-2016-6922.
+- [Live-Hack-CVE/CVE-2016-6924](https://github.com/Live-Hack-CVE/CVE-2016-6924)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-6924">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-6924">
+
+---
 ## CVE-2016-5734 (2016-07-03T01:59:00)
 > phpMyAdmin 4.0.x before 4.0.10.16, 4.4.x before 4.4.15.7, and 4.6.x before 4.6.3 does not properly choose delimiters to prevent use of the preg_replace e (aka eval) modifier, which might allow remote attackers to execute arbitrary PHP code via a crafted string, as demonstrated by the table search-and-replace implementation.
 - [miko550/CVE-2016-5734-docker](https://github.com/miko550/CVE-2016-5734-docker)	<img alt="forks" src="https://img.shields.io/github/forks/miko550/CVE-2016-5734-docker">	<img alt="stars" src="https://img.shields.io/github/stars/miko550/CVE-2016-5734-docker">
@@ -181,6 +186,31 @@
 ## CVE-2016-4432 (2016-06-01T20:59:00)
 > The AMQP 0-8, 0-9, 0-91, and 0-10 connection handling in Apache Qpid Java before 6.0.3 might allow remote attackers to bypass authentication and consequently perform actions via vectors related to connection state logging.
 - [Live-Hack-CVE/CVE-2016-4432](https://github.com/Live-Hack-CVE/CVE-2016-4432)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-4432">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-4432">
+
+---
+## CVE-2016-4287 (2016-09-14T18:59:00)
+> Integer overflow in Adobe Flash Player before 18.0.0.375 and 19.x through 23.x before 23.0.0.162 on Windows and OS X and before 11.2.202.635 on Linux allows attackers to execute arbitrary code via unspecified vectors.
+- [Live-Hack-CVE/CVE-2016-4287](https://github.com/Live-Hack-CVE/CVE-2016-4287)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-4287">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-4287">
+
+---
+## CVE-2016-4282 (2016-09-14T18:59:00)
+> Adobe Flash Player before 18.0.0.375 and 19.x through 23.x before 23.0.0.162 on Windows and OS X and before 11.2.202.635 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-4274, CVE-2016-4275, CVE-2016-4276, CVE-2016-4280, CVE-2016-4281, CVE-2016-4283, CVE-2016-4284, CVE-2016-4285, CVE-2016-6922, and CVE-2016-6924.
+- [Live-Hack-CVE/CVE-2016-4282](https://github.com/Live-Hack-CVE/CVE-2016-4282)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-4282">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-4282">
+
+---
+## CVE-2016-4281 (2016-09-14T18:59:00)
+> Adobe Flash Player before 18.0.0.375 and 19.x through 23.x before 23.0.0.162 on Windows and OS X and before 11.2.202.635 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-4274, CVE-2016-4275, CVE-2016-4276, CVE-2016-4280, CVE-2016-4282, CVE-2016-4283, CVE-2016-4284, CVE-2016-4285, CVE-2016-6922, and CVE-2016-6924.
+- [Live-Hack-CVE/CVE-2016-4281](https://github.com/Live-Hack-CVE/CVE-2016-4281)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-4281">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-4281">
+
+---
+## CVE-2016-4280 (2016-09-14T18:59:00)
+> Adobe Flash Player before 18.0.0.375 and 19.x through 23.x before 23.0.0.162 on Windows and OS X and before 11.2.202.635 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-4274, CVE-2016-4275, CVE-2016-4276, CVE-2016-4281, CVE-2016-4282, CVE-2016-4283, CVE-2016-4284, CVE-2016-4285, CVE-2016-6922, and CVE-2016-6924.
+- [Live-Hack-CVE/CVE-2016-4280](https://github.com/Live-Hack-CVE/CVE-2016-4280)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-4280">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-4280">
+
+---
+## CVE-2016-4277 (2016-09-14T18:59:00)
+> Adobe Flash Player before 18.0.0.375 and 19.x through 23.x before 23.0.0.162 on Windows and OS X and before 11.2.202.635 on Linux allows attackers to bypass intended access restrictions and obtain sensitive information via unspecified vectors, a different vulnerability than CVE-2016-4271 and CVE-2016-4278.
+- [Live-Hack-CVE/CVE-2016-4277](https://github.com/Live-Hack-CVE/CVE-2016-4277)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-4277">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-4277">
 
 ---
 ## CVE-2016-4273 (2016-10-13T19:59:00)

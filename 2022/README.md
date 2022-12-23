@@ -4329,6 +4329,12 @@
 - [Live-Hack-CVE/CVE-2022-3819](https://github.com/Live-Hack-CVE/CVE-2022-3819)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3819">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3819">
 
 ---
+## CVE-2022-3818 (2022-11-10T00:15:00)
+> An uncontrolled resource consumption issue when parsing URLs in GitLab CE/EE affecting all versions prior to 15.3.5, 15.4 prior to 15.4.4, and 15.5 prior to 15.5.2 allows an attacker to cause performance issues and potentially a denial of service on the GitLab instance.
+- [Live-Hack-CVE/CVE-2022-3818](https://github.com/Live-Hack-CVE/CVE-2022-3818)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3818">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3818">
+- [Live-Hack-CVE/CVE-2022-38183](https://github.com/Live-Hack-CVE/CVE-2022-38183)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38183">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38183">
+
+---
 ## CVE-2022-38165 (2022-11-17T23:15:00)
 > Arbitrary file write in F-Secure Policy Manager through 2022-08-10 allows unauthenticated users to write the file with the contents in arbitrary locations on the F-Secure Policy Manager Server.
 - [Live-Hack-CVE/CVE-2022-38165](https://github.com/Live-Hack-CVE/CVE-2022-38165)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38165">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38165">
@@ -6821,6 +6827,11 @@
 - [Live-Hack-CVE/CVE-2022-27639](https://github.com/Live-Hack-CVE/CVE-2022-27639)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27639">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27639">
 
 ---
+## CVE-2022-2761 (2022-11-09T23:15:00)
+> An information disclosure issue in GitLab CE/EE affecting all versions from 14.4 prior to 15.3.5, 15.4 prior to 15.4.4, and 15.5 prior to 15.5.2 allows an attacker to use GitLab Flavored Markdown (GFM) references in a Jira issue to disclose the names of resources they don't have access to.
+- [Live-Hack-CVE/CVE-2022-2761](https://github.com/Live-Hack-CVE/CVE-2022-2761)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2761">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2761">
+
+---
 ## CVE-2022-27581 (2022-12-13T16:15:00)
 > Use of a Broken or Risky Cryptographic Algorithm in SICK RFU61x firmware version <v2.25 allows a low-privileged remote attacker to decrypt the encrypted data if the user requested weak cipher suites to be used for encryption via the SSH interface. The patch and installation procedure for the firmware update is available from the responsible SICK customer contact person.
 - [Live-Hack-CVE/CVE-2022-27581](https://github.com/Live-Hack-CVE/CVE-2022-27581)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27581">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27581">
@@ -7768,6 +7779,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-22844 (2022-01-10T14:12:00)
 > LibTIFF 4.3.0 has an out-of-bounds read in _TIFFmemcpy in tif_unix.c in certain situations involving a custom tag and 0x0200 as the second word of the DE field.
 - [Live-Hack-CVE/CVE-2022-22844](https://github.com/Live-Hack-CVE/CVE-2022-22844)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22844">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22844">
+
+---
+## CVE-2022-22808 (2022-02-09T23:15:00)
+> A CWE-352: Cross-Site Request Forgery (CSRF) exists that could cause a remote attacker to gain unauthorized access to the product when conducting cross-domain attacks based on same-origin policy or cross-site request forgery protections bypass. Affected Product: EcoStruxure EV Charging Expert (formerly known as EVlink Load Management System): (HMIBSCEA53D1EDB, HMIBSCEA53D1EDS, HMIBSCEA53D1EDM, HMIBSCEA53D1EDL, HMIBSCEA53D1ESS, HMIBSCEA53D1ESM, HMIBSCEA53D1EML) (All Versions prior to SP8 (Version 01) V4.0.0.13)
+- [Live-Hack-CVE/CVE-2022-22808](https://github.com/Live-Hack-CVE/CVE-2022-22808)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22808">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22808">
 
 ---
 ## CVE-2022-2274 (2022-07-01T08:15:00)

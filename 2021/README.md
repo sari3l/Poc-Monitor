@@ -1818,6 +1818,11 @@
 - [optionalCTF/Rocket.Chat-Automated-Account-Takeover-RCE-CVE-2021-22911](https://github.com/optionalCTF/Rocket.Chat-Automated-Account-Takeover-RCE-CVE-2021-22911)	<img alt="forks" src="https://img.shields.io/github/forks/optionalCTF/Rocket.Chat-Automated-Account-Takeover-RCE-CVE-2021-22911">	<img alt="stars" src="https://img.shields.io/github/stars/optionalCTF/Rocket.Chat-Automated-Account-Takeover-RCE-CVE-2021-22911">
 
 ---
+## CVE-2021-22737 (2021-05-26T20:15:00)
+> Insufficiently Protected Credentials vulnerability exists in homeLYnk (Wiser For KNX) and spaceLYnk V2.60 and prior that could cause unauthorized access of when credentials are discovered after a brute force attack.
+- [Live-Hack-CVE/CVE-2021-22737](https://github.com/Live-Hack-CVE/CVE-2021-22737)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22737">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22737">
+
+---
 ## CVE-2021-22214 (2021-06-08T15:15:00)
 > When requests to the internal network for webhooks are enabled, a server-side request forgery vulnerability in GitLab CE/EE affecting all versions starting from 10.5 was possible to exploit for an unauthenticated attacker even on a GitLab instance where registration is limited
 - [Vulnmachines/gitlab-cve-2021-22214](https://github.com/Vulnmachines/gitlab-cve-2021-22214)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/gitlab-cve-2021-22214">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/gitlab-cve-2021-22214">
