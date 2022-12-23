@@ -4196,6 +4196,11 @@
 - [hacksysteam/CVE-2022-28672](https://github.com/hacksysteam/CVE-2022-28672)	<img alt="forks" src="https://img.shields.io/github/forks/hacksysteam/CVE-2022-28672">	<img alt="stars" src="https://img.shields.io/github/stars/hacksysteam/CVE-2022-28672">
 
 ---
+## CVE-2022-28664 (2022-08-05T22:15:00)
+> A memory corruption vulnerability exists in the httpd unescape functionality of FreshTomato 2022.1. A specially-crafted HTTP request can lead to memory corruption. An attacker can send a network request to trigger this vulnerability.The `freshtomato-mips` has a vulnerable URL-decoding feature that can lead to memory corruption.
+- [Live-Hack-CVE/CVE-2022-28664](https://github.com/Live-Hack-CVE/CVE-2022-28664)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28664">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28664">
+
+---
 ## CVE-2022-28383 (2022-06-08T16:15:00)
 > An issue was discovered in certain Verbatim drives through 2022-03-31. Due to insufficient firmware validation, an attacker can store malicious firmware code for the USB-to-SATA bridge controller on the USB drive (e.g., by leveraging physical access during the supply chain). This code is then executed. This affects Keypad Secure USB 3.2 Gen 1 Drive Part Number #49428, Store 'n' Go Secure Portable HDD GD25LK01-3637-C VER4.0, Executive Fingerprint Secure SSD GDMSFE01-INI3637-C VER1.1, and Fingerprint Secure Portable Hard Drive Part Number #53650.
 - [Live-Hack-CVE/CVE-2022-28383](https://github.com/Live-Hack-CVE/CVE-2022-28383)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28383">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28383">

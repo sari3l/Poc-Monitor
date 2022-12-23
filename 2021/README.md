@@ -272,6 +272,11 @@
 - [kang8/CVE-2021-43503](https://github.com/kang8/CVE-2021-43503)	<img alt="forks" src="https://img.shields.io/github/forks/kang8/CVE-2021-43503">	<img alt="stars" src="https://img.shields.io/github/stars/kang8/CVE-2021-43503">
 
 ---
+## CVE-2021-43305 (2022-03-14T23:15:00)
+> Heap buffer overflow in Clickhouse's LZ4 compression codec when parsing a malicious query. There is no verification that the copy operations in the LZ4::decompressImpl loop and especially the arbitrary copy operation wildCopy<copy_amount>(op, ip, copy_end), don’t exceed the destination buffer’s limits. This issue is very similar to CVE-2021-43304, but the vulnerable copy operation is in a different wildCopy call.
+- [Live-Hack-CVE/CVE-2021-43305](https://github.com/Live-Hack-CVE/CVE-2021-43305)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43305">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43305">
+
+---
 ## CVE-2021-43258 (2022-11-23T19:15:00)
 > CartView.php in ChurchInfo 1.3.0 allows attackers to achieve remote code execution through insecure uploads. This requires authenticated access tot he ChurchInfo application. Once authenticated, a user can add names to their cart, and compose an email. Uploading an attachment for the email stores the attachment on the site in the /tmp_attach/ folder where it can be accessed with a GET request. There are no limitations on files that can be attached, allowing for malicious PHP code to be uploaded and interpreted by the server.
 - [MRvirusIR/CVE-2021-43258](https://github.com/MRvirusIR/CVE-2021-43258)	<img alt="forks" src="https://img.shields.io/github/forks/MRvirusIR/CVE-2021-43258">	<img alt="stars" src="https://img.shields.io/github/stars/MRvirusIR/CVE-2021-43258">
