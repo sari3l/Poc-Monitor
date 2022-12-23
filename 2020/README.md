@@ -890,6 +890,11 @@
 - [n0bugz/CVE-2020-15568](https://github.com/n0bugz/CVE-2020-15568)	<img alt="forks" src="https://img.shields.io/github/forks/n0bugz/CVE-2020-15568">	<img alt="stars" src="https://img.shields.io/github/stars/n0bugz/CVE-2020-15568">
 
 ---
+## CVE-2020-15500 (2020-07-01T23:15:00)
+> An issue was discovered in server.js in TileServer GL through 3.0.0. The content of the key GET parameter is reflected unsanitized in an HTTP response for the application's main page, causing reflected XSS.
+- [Live-Hack-CVE/CVE-2020-15500](https://github.com/Live-Hack-CVE/CVE-2020-15500)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15500">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15500">
+
+---
 ## CVE-2020-15366 (2020-07-15T20:15:00)
 > An issue was discovered in ajv.validate() in Ajv (aka Another JSON Schema Validator) 6.12.2. A carefully crafted JSON schema could be provided that allows execution of other code by prototype pollution. (While untrusted schemas are recommended against, the worst case of an untrusted schema should be a denial of service, not execution of code.)
 - [Live-Hack-CVE/CVE-2020-15366](https://github.com/Live-Hack-CVE/CVE-2020-15366)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15366">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15366">
@@ -1081,6 +1086,7 @@
 ## CVE-2020-10770 (2020-12-15T20:15:00)
 > A flaw was found in Keycloak before 13.0.0, where it is possible to force the server to call out an unverified URL using the OIDC parameter request_uri. This flaw allows an attacker to use this parameter to execute a Server-side request forgery (SSRF) attack.
 - [ColdFusionX/Keycloak-12.0.1-CVE-2020-10770](https://github.com/ColdFusionX/Keycloak-12.0.1-CVE-2020-10770)	<img alt="forks" src="https://img.shields.io/github/forks/ColdFusionX/Keycloak-12.0.1-CVE-2020-10770">	<img alt="stars" src="https://img.shields.io/github/stars/ColdFusionX/Keycloak-12.0.1-CVE-2020-10770">
+- [Live-Hack-CVE/CVE-2020-10770](https://github.com/Live-Hack-CVE/CVE-2020-10770)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10770">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10770">
 
 ---
 ## CVE-2020-10761 (2020-06-09T13:15:00)

@@ -395,6 +395,11 @@
 - [Live-Hack-CVE/CVE-2019-3928](https://github.com/Live-Hack-CVE/CVE-2019-3928)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-3928">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-3928">
 
 ---
+## CVE-2019-3886 (2019-04-04T16:29:00)
+> An incorrect permissions check was discovered in libvirt 4.8.0 and above. The readonly permission was allowed to invoke APIs depending on the guest agent, which could lead to potentially disclosing unintended information or denial of service by causing libvirt to block.
+- [Live-Hack-CVE/CVE-2019-3886](https://github.com/Live-Hack-CVE/CVE-2019-3886)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-3886">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-3886">
+
+---
 ## CVE-2019-3692 (2020-01-24T09:15:00)
 > The packaging of inn on SUSE Linux Enterprise Server 11; openSUSE Factory, Leap 15.1 allows local attackers to escalate from user inn to root via symlink attacks. This issue affects: SUSE Linux Enterprise Server 11 inn version 2.4.2-170.21.3.1 and prior versions. openSUSE Factory inn version 2.6.2-2.2 and prior versions. openSUSE Leap 15.1 inn version 2.5.4-lp151.2.47 and prior versions.
 - [Live-Hack-CVE/CVE-2019-3692](https://github.com/Live-Hack-CVE/CVE-2019-3692)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-3692">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-3692">
@@ -665,6 +670,21 @@
 - [Live-Hack-CVE/CVE-2019-14907](https://github.com/Live-Hack-CVE/CVE-2019-14907)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14907">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14907">
 
 ---
+## CVE-2019-14591 (2019-11-14T20:15:00)
+> Improper input validation in the API for Intel(R) Graphics Driver versions before 26.20.100.7209 may allow an authenticated user to potentially enable denial of service via local access.
+- [Live-Hack-CVE/CVE-2019-14591](https://github.com/Live-Hack-CVE/CVE-2019-14591)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14591">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14591">
+
+---
+## CVE-2019-14590 (2019-11-14T20:15:00)
+> Improper access control in the API for the Intel(R) Graphics Driver versions before 26.20.100.7209 may allow an authenticated user to potentially enable information disclosure via local access.
+- [Live-Hack-CVE/CVE-2019-14590](https://github.com/Live-Hack-CVE/CVE-2019-14590)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14590">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14590">
+
+---
+## CVE-2019-14574 (2019-11-14T20:15:00)
+> Out of bounds read in a subsystem for Intel(R) Graphics Driver versions before 26.20.100.7209 may allow an authenticated user to potentially enable denial of service via local access.
+- [Live-Hack-CVE/CVE-2019-14574](https://github.com/Live-Hack-CVE/CVE-2019-14574)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14574">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14574">
+
+---
 ## CVE-2019-14287 (2019-10-17T18:15:00)
 > In Sudo before 1.8.28, an attacker with access to a Runas ALL sudoer account can bypass certain policy blacklists and session PAM modules, and can cause incorrect logging, by invoking sudo with a crafted user ID. For example, this allows bypass of !root configuration, and USER= logging, for a "sudo -u \#$((0xffffffff))" command.
 - [MariliaMeira/CVE-2019-14287](https://github.com/MariliaMeira/CVE-2019-14287)	<img alt="forks" src="https://img.shields.io/github/forks/MariliaMeira/CVE-2019-14287">	<img alt="stars" src="https://img.shields.io/github/stars/MariliaMeira/CVE-2019-14287">
@@ -749,6 +769,21 @@
 - [imjdl/CVE-2019-11510-poc](https://github.com/imjdl/CVE-2019-11510-poc)	<img alt="forks" src="https://img.shields.io/github/forks/imjdl/CVE-2019-11510-poc">	<img alt="stars" src="https://img.shields.io/github/stars/imjdl/CVE-2019-11510-poc">
 - [nuc13us/Pulse](https://github.com/nuc13us/Pulse)	<img alt="forks" src="https://img.shields.io/github/forks/nuc13us/Pulse">	<img alt="stars" src="https://img.shields.io/github/stars/nuc13us/Pulse">
 - [34zY/APT-Backpack](https://github.com/34zY/APT-Backpack)	<img alt="forks" src="https://img.shields.io/github/forks/34zY/APT-Backpack">	<img alt="stars" src="https://img.shields.io/github/stars/34zY/APT-Backpack">
+
+---
+## CVE-2019-11113 (2019-11-14T20:15:00)
+> Buffer overflow in Kernel Mode module for Intel(R) Graphics Driver before version 25.20.100.6618 (DCH) or 21.20.x.5077 (aka15.45.5077) may allow a privileged user to potentially enable information disclosure via local access.
+- [Live-Hack-CVE/CVE-2019-11113](https://github.com/Live-Hack-CVE/CVE-2019-11113)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11113">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11113">
+
+---
+## CVE-2019-11111 (2019-11-14T20:15:00)
+> Pointer corruption in the Unified Shader Compiler in Intel(R) Graphics Drivers before 10.18.14.5074 (aka 15.36.x.5074) may allow an authenticated user to potentially enable escalation of privilege via local access.
+- [Live-Hack-CVE/CVE-2019-11111](https://github.com/Live-Hack-CVE/CVE-2019-11111)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11111">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11111">
+
+---
+## CVE-2019-11089 (2019-11-14T20:15:00)
+> Insufficient input validation in Kernel Mode module for Intel(R) Graphics Driver before version 25.20.100.6519 may allow an authenticated user to potentially enable denial of service via local access.
+- [Live-Hack-CVE/CVE-2019-11089](https://github.com/Live-Hack-CVE/CVE-2019-11089)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11089">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11089">
 
 ---
 ## CVE-2019-11050 (2019-12-23T03:15:00)

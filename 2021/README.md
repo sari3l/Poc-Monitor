@@ -198,6 +198,11 @@
 - [horizon3ai/CVE-2021-44077](https://github.com/horizon3ai/CVE-2021-44077)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2021-44077">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2021-44077">
 
 ---
+## CVE-2021-43980 (2022-09-28T14:15:00)
+> The simplified implementation of blocking reads and writes introduced in Tomcat 10 and back-ported to Tomcat 9.0.47 onwards exposed a long standing (but extremely hard to trigger) concurrency bug in Apache Tomcat 10.1.0 to 10.1.0-M12, 10.0.0-M1 to 10.0.18, 9.0.0-M1 to 9.0.60 and 8.5.0 to 8.5.77 that could cause client connections to share an Http11Processor instance resulting in responses, or part responses, to be received by the wrong client.
+- [Live-Hack-CVE/CVE-2021-43980](https://github.com/Live-Hack-CVE/CVE-2021-43980)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43980">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43980">
+
+---
 ## CVE-2021-43890 (2021-12-15T15:15:00)
 > Windows AppX Installer Spoofing Vulnerability
 - [yonggui-li/CVE-2021-43890_poc](https://github.com/yonggui-li/CVE-2021-43890_poc)	<img alt="forks" src="https://img.shields.io/github/forks/yonggui-li/CVE-2021-43890_poc">	<img alt="stars" src="https://img.shields.io/github/stars/yonggui-li/CVE-2021-43890_poc">
@@ -814,6 +819,11 @@
 ## CVE-2021-40226 (2022-11-10T18:15:00)
 > xpdfreader 4.03 is vulnerable to Buffer Overflow.
 - [Live-Hack-CVE/CVE-2021-40226](https://github.com/Live-Hack-CVE/CVE-2021-40226)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40226">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40226">
+
+---
+## CVE-2021-40017 (2022-09-16T18:15:00)
+> The HW_KEYMASTER module lacks the validity check of the key format. Successful exploitation of this vulnerability may result in out-of-bounds memory access.
+- [Live-Hack-CVE/CVE-2021-40017](https://github.com/Live-Hack-CVE/CVE-2021-40017)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40017">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40017">
 
 ---
 ## CVE-2021-4001 (2022-01-21T19:15:00)
