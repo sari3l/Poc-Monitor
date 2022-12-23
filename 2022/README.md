@@ -2424,6 +2424,11 @@
 - [Live-Hack-CVE/CVE-2022-3711](https://github.com/Live-Hack-CVE/CVE-2022-3711)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3711">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3711">
 
 ---
+## CVE-2022-37061 (2022-08-18T18:15:00)
+> All FLIR AX8 thermal sensor cameras version up to and including 1.46.16 are vulnerable to Remote Command Injection. This can be exploited to inject and execute arbitrary shell commands as the root user through the id HTTP POST parameter in the res.php endpoint. A successful exploit could allow the attacker to execute arbitrary commands on the underlying operating system with the root privileges.
+- [Live-Hack-CVE/CVE-2022-37061](https://github.com/Live-Hack-CVE/CVE-2022-37061)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37061">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37061">
+
+---
 ## CVE-2022-37042 (2022-08-12T15:15:00)
 > Zimbra Collaboration Suite (ZCS) 8.8.15 and 9.0 has mboximport functionality that receives a ZIP archive and extracts files from it. By bypassing authentication (i.e., not having an authtoken), an attacker can upload arbitrary files to the system, leading to directory traversal and remote code execution. NOTE: this issue exists because of an incomplete fix for CVE-2022-27925.
 - [GreyNoise-Intelligence/Zimbra_Collaboration_CVE-2022-37042-_CVE-2022-27925](https://github.com/GreyNoise-Intelligence/Zimbra_Collaboration_CVE-2022-37042-_CVE-2022-27925)	<img alt="forks" src="https://img.shields.io/github/forks/GreyNoise-Intelligence/Zimbra_Collaboration_CVE-2022-37042-_CVE-2022-27925">	<img alt="stars" src="https://img.shields.io/github/stars/GreyNoise-Intelligence/Zimbra_Collaboration_CVE-2022-37042-_CVE-2022-27925">
@@ -2495,6 +2500,21 @@
 - [aqeisi/CVE-2022-36663-PoC](https://github.com/aqeisi/CVE-2022-36663-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/aqeisi/CVE-2022-36663-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/aqeisi/CVE-2022-36663-PoC">
 
 ---
+## CVE-2022-3656 (2022-11-01T23:15:00)
+> Insufficient data validation in File System in Google Chrome prior to 107.0.5304.62 allowed a remote attacker to bypass file system restrictions via a crafted HTML page. (Chromium security severity: Medium)
+- [Live-Hack-CVE/CVE-2022-3656](https://github.com/Live-Hack-CVE/CVE-2022-3656)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3656">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3656">
+
+---
+## CVE-2022-3655 (2022-11-01T23:15:00)
+> Heap buffer overflow in Media Galleries in Google Chrome prior to 107.0.5304.62 allowed an attacker who convinced a user to install a malicious extension to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: Medium)
+- [Live-Hack-CVE/CVE-2022-3655](https://github.com/Live-Hack-CVE/CVE-2022-3655)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3655">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3655">
+
+---
+## CVE-2022-3654 (2022-11-01T23:15:00)
+> Use after free in Layout in Google Chrome prior to 107.0.5304.62 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
+- [Live-Hack-CVE/CVE-2022-3654](https://github.com/Live-Hack-CVE/CVE-2022-3654)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3654">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3654">
+
+---
 ## CVE-2022-36539 (2022-09-07T17:15:00)
 > WeDayCare B.V Ouderapp before v1.1.22 allows attackers to alter the ID value within intercepted calls to gain access to data of other parents and children.
 - [Fopje/CVE-2022-36539](https://github.com/Fopje/CVE-2022-36539)	<img alt="forks" src="https://img.shields.io/github/forks/Fopje/CVE-2022-36539">	<img alt="stars" src="https://img.shields.io/github/stars/Fopje/CVE-2022-36539">
@@ -2505,6 +2525,16 @@
 - [OneByt3/CVE-2022-36537](https://github.com/OneByt3/CVE-2022-36537)	<img alt="forks" src="https://img.shields.io/github/forks/OneByt3/CVE-2022-36537">	<img alt="stars" src="https://img.shields.io/github/stars/OneByt3/CVE-2022-36537">
 - [agnihackers/CVE-2022-36537-EXPLOIT](https://github.com/agnihackers/CVE-2022-36537-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/agnihackers/CVE-2022-36537-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/agnihackers/CVE-2022-36537-EXPLOIT">
 - [Malwareman007/CVE-2022-36537](https://github.com/Malwareman007/CVE-2022-36537)	<img alt="forks" src="https://img.shields.io/github/forks/Malwareman007/CVE-2022-36537">	<img alt="stars" src="https://img.shields.io/github/stars/Malwareman007/CVE-2022-36537">
+
+---
+## CVE-2022-3653 (2022-11-01T23:15:00)
+> Heap buffer overflow in Vulkan in Google Chrome prior to 107.0.5304.62 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
+- [Live-Hack-CVE/CVE-2022-3653](https://github.com/Live-Hack-CVE/CVE-2022-3653)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3653">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3653">
+
+---
+## CVE-2022-3652 (2022-11-01T23:15:00)
+> Type confusion in V8 in Google Chrome prior to 107.0.5304.62 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
+- [Live-Hack-CVE/CVE-2022-3652](https://github.com/Live-Hack-CVE/CVE-2022-3652)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3652">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3652">
 
 ---
 ## CVE-2022-36446 (2022-07-25T06:15:00)
@@ -2761,6 +2791,16 @@
 - [kenyon-wong/cve-2022-3452](https://github.com/kenyon-wong/cve-2022-3452)	<img alt="forks" src="https://img.shields.io/github/forks/kenyon-wong/cve-2022-3452">	<img alt="stars" src="https://img.shields.io/github/stars/kenyon-wong/cve-2022-3452">
 
 ---
+## CVE-2022-3444 (2022-11-01T20:15:00)
+> Insufficient data validation in File System API in Google Chrome prior to 106.0.5249.62 allowed a remote attacker to bypass File System restrictions via a crafted HTML page and malicious file. (Chromium security severity: Low)
+- [Live-Hack-CVE/CVE-2022-3444](https://github.com/Live-Hack-CVE/CVE-2022-3444)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3444">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3444">
+
+---
+## CVE-2022-3443 (2022-11-01T20:15:00)
+> Insufficient data validation in File System API in Google Chrome prior to 106.0.5249.62 allowed a remote attacker to bypass File System restrictions via a crafted HTML page. (Chromium security severity: Low)
+- [Live-Hack-CVE/CVE-2022-3443](https://github.com/Live-Hack-CVE/CVE-2022-3443)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3443">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3443">
+
+---
 ## CVE-2022-34305 (2022-06-23T11:15:00)
 > In Apache Tomcat 10.1.0-M1 to 10.1.0-M16, 10.0.0-M1 to 10.0.22, 9.0.30 to 9.0.64 and 8.5.50 to 8.5.81 the Form authentication example in the examples web application displayed user provided data without filtering, exposing a XSS vulnerability.
 - [zeroc00I/CVE-2022-34305](https://github.com/zeroc00I/CVE-2022-34305)	<img alt="forks" src="https://img.shields.io/github/forks/zeroc00I/CVE-2022-34305">	<img alt="stars" src="https://img.shields.io/github/stars/zeroc00I/CVE-2022-34305">
@@ -2852,6 +2892,12 @@
 ---
 ## CVE-2022-33174 (2022-06-13T18:15:00)
 > Power Distribution Units running on Powertek firmware (multiple brands) before 3.30.30 allows remote authorization bypass in the web interface. To exploit the vulnerability, an attacker must send an HTTP packet to the data retrieval interface (/cgi/get_param.cgi) with the tmpToken cookie set to an empty string followed by a semicolon. This bypasses an active session authorization check. This can be then used to fetch the values of protected sys.passwd and sys.su.name fields that contain the username and password in cleartext.
+- [Henry4E36/CVE-2022-33174](https://github.com/Henry4E36/CVE-2022-33174)	<img alt="forks" src="https://img.shields.io/github/forks/Henry4E36/CVE-2022-33174">	<img alt="stars" src="https://img.shields.io/github/stars/Henry4E36/CVE-2022-33174">
+
+---
+## CVE-2022-3317 (2022-11-01T20:15:00)
+> Insufficient validation of untrusted input in Intents in Google Chrome on Android prior to 106.0.5249.62 allowed a remote attacker to bypass navigation restrictions via a crafted HTML page. (Chromium security severity: Low)
+- [Live-Hack-CVE/CVE-2022-3317](https://github.com/Live-Hack-CVE/CVE-2022-3317)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3317">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3317">
 - [Henry4E36/CVE-2022-33174](https://github.com/Henry4E36/CVE-2022-33174)	<img alt="forks" src="https://img.shields.io/github/forks/Henry4E36/CVE-2022-33174">	<img alt="stars" src="https://img.shields.io/github/stars/Henry4E36/CVE-2022-33174">
 
 ---

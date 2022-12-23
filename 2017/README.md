@@ -1,6 +1,11 @@
 # 2017 List
 
 ---
+## CVE-2017-9929 (2017-06-26T07:29:00)
+> In lrzip 0.631, a stack buffer overflow was found in the function get_fileinfo in lrzip.c:1074, which allows attackers to cause a denial of service via a crafted file.
+- [Live-Hack-CVE/CVE-2017-9929](https://github.com/Live-Hack-CVE/CVE-2017-9929)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-9929">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-9929">
+
+---
 ## CVE-2017-9841 (2017-06-27T17:29:00)
 > Util/PHP/eval-stdin.php in PHPUnit before 4.8.28 and 5.x before 5.6.3 allows remote attackers to execute arbitrary PHP code via HTTP POST data beginning with a "<?php " substring, as demonstrated by an attack on a site with an exposed /vendor folder, i.e., external access to the /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php URI.
 - [Invertebr4do/cve-2017-9841](https://github.com/Invertebr4do/cve-2017-9841)	<img alt="forks" src="https://img.shields.io/github/forks/Invertebr4do/cve-2017-9841">	<img alt="stars" src="https://img.shields.io/github/stars/Invertebr4do/cve-2017-9841">
