@@ -568,6 +568,11 @@
 - [exploit-io/CVE-2021-41349](https://github.com/exploit-io/CVE-2021-41349)	<img alt="forks" src="https://img.shields.io/github/forks/exploit-io/CVE-2021-41349">	<img alt="stars" src="https://img.shields.io/github/stars/exploit-io/CVE-2021-41349">
 
 ---
+## CVE-2021-41313 (2021-11-01T03:15:00)
+> Affected versions of Atlassian Jira Server and Data Center allow authenticated but non-admin remote attackers to edit email batch configurations via an Improper Authorization vulnerability in the /secure/admin/ConfigureBatching!default.jspa endpoint. The affected versions are before version 8.20.7.
+- [Live-Hack-CVE/CVE-2021-41313](https://github.com/Live-Hack-CVE/CVE-2021-41313)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41313">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41313">
+
+---
 ## CVE-2021-41277 (2021-11-17T20:15:00)
 > Metabase is an open source data analytics platform. In affected versions a security issue has been discovered with the custom GeoJSON map (`admin->settings->maps->custom maps->add a map`) support and potential local file inclusion (including environment variables). URLs were not validated prior to being loaded. This issue is fixed in a new maintenance release (0.40.5 and 1.40.5), and any subsequent release after that. If youâ€™re unable to upgrade immediately, you can mitigate this by including rules in your reverse proxy or load balancer or WAF to provide a validation filter before the application.
 - [Vulnmachines/Metabase_CVE-2021-41277](https://github.com/Vulnmachines/Metabase_CVE-2021-41277)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/Metabase_CVE-2021-41277">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/Metabase_CVE-2021-41277">
@@ -1729,6 +1734,11 @@
 ## CVE-2021-24584 (2021-09-20T10:15:00)
 > The Timetable and Event Schedule WordPress plugin before 2.4.2 does not have proper access control when updating a timeslot, allowing any user with the edit_posts capability (contributor+) to update arbitrary timeslot from any events. Furthermore, no CSRF check is in place as well, allowing such attack to be perform via CSRF against a logged in with such capability. In versions before 2.3.19, the lack of sanitisation and escaping in some of the fields, like the descritption could also lead to Stored XSS issues
 - [Live-Hack-CVE/CVE-2021-24584](https://github.com/Live-Hack-CVE/CVE-2021-24584)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24584">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24584">
+
+---
+## CVE-2021-24444 (2021-08-02T11:15:00)
+> The TaxoPress – Create and Manage Taxonomies, Tags, Categories WordPress plugin before 3.0.7.2 does not sanitise its Taxonomy description field, allowing high privilege users to set JavaScript payload in them even when the unfiltered_html capability is disallowed, leading to an authenticated Stored Cross-Site Scripting issue.
+- [Live-Hack-CVE/CVE-2021-24444](https://github.com/Live-Hack-CVE/CVE-2021-24444)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24444">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24444">
 
 ---
 ## CVE-2021-24431 (2021-09-13T18:15:00)

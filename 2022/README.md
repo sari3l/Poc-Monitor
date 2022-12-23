@@ -2640,6 +2640,11 @@
 - [Live-Hack-CVE/CVE-2022-41909](https://github.com/Live-Hack-CVE/CVE-2022-41909)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41909">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41909">
 
 ---
+## CVE-2022-41904 (2022-11-11T19:15:00)
+> Element iOS is an iOS Matrix client provided by Element. It is based on MatrixSDK. Prior to version 1.9.7, events encrypted using Megolm for which trust could not be established did not get decorated accordingly (with warning shields). Therefore a malicious homeserver could inject messages into the room without the user being alerted that the messages were not sent by a verified group member, even if the user has previously verified all group members. This issue has been patched in Element iOS 1.9.7. There are currently no known workarounds.
+- [Live-Hack-CVE/CVE-2022-41904](https://github.com/Live-Hack-CVE/CVE-2022-41904)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41904">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41904">
+
+---
 ## CVE-2022-4190 (2022-11-30T00:15:00)
 > Insufficient data validation in Directory in Google Chrome prior to 108.0.5359.71 allowed a remote attacker to bypass file system restrictions via a crafted HTML page. (Chromium security severity: Medium)
 - [Live-Hack-CVE/CVE-2022-4190](https://github.com/Live-Hack-CVE/CVE-2022-4190)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4190">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4190">
@@ -2654,6 +2659,11 @@
 ## CVE-2022-41885 (2022-11-18T22:15:00)
 > TensorFlow is an open source platform for machine learning. When `tf.raw_ops.FusedResizeAndPadConv2D` is given a large tensor shape, it overflows. We have patched the issue in GitHub commit d66e1d568275e6a2947de97dca7a102a211e01ce. The fix will be included in TensorFlow 2.11. We will also cherrypick this commit on TensorFlow 2.10.1, 2.9.3, and TensorFlow 2.8.4, as these are also affected and still in supported range.
 - [Live-Hack-CVE/CVE-2022-41885](https://github.com/Live-Hack-CVE/CVE-2022-41885)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41885">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41885">
+
+---
+## CVE-2022-41882 (2022-11-11T19:15:00)
+> The Nextcloud Desktop Client is a tool to synchronize files from Nextcloud Server with your computer. In version 3.6.0, if a user received a malicious file share and has it synced locally or the virtual filesystem enabled and clicked a nc://open/ link it will open the default editor for the file type of the shared file, which on Windows can also sometimes mean that a file depending on the type, e.g. "vbs", is being executed. It is recommended that the Nextcloud Desktop client is upgraded to version 3.6.1. As a workaround, users can block the Nextcloud Desktop client 3.6.0 by setting the `minimum.supported.desktop.version` system config to `3.6.1` on the server, so new files designed to use this attack vector are not downloaded anymore. Already existing files can still be used. Another workaround would be to enforce shares to be accepted by setting the `sharing.force_share_accept` system config to `true` on the server, so new files designed to use this attack vector are not downloaded anymore. Already existing shares can still be abused.
+- [Live-Hack-CVE/CVE-2022-41882](https://github.com/Live-Hack-CVE/CVE-2022-41882)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41882">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41882">
 
 ---
 ## CVE-2022-4188 (2022-11-30T00:15:00)
@@ -3221,6 +3231,11 @@
 ## CVE-2022-40752 (2022-11-16T23:15:00)
 > IBM InfoSphere DataStage 11.7 is vulnerable to a command injection vulnerability due to improper neutralization of special elements. IBM X-Force ID: 236687.
 - [Live-Hack-CVE/CVE-2022-40752](https://github.com/Live-Hack-CVE/CVE-2022-40752)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40752">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40752">
+
+---
+## CVE-2022-40750 (2022-11-11T19:15:00)
+> IBM WebSphere Application Server 8.5, and 9.0 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 236588.
+- [Live-Hack-CVE/CVE-2022-40750](https://github.com/Live-Hack-CVE/CVE-2022-40750)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40750">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40750">
 
 ---
 ## CVE-2022-40746 (2022-11-21T18:15:00)
@@ -4490,6 +4505,11 @@
 - [devengpk/CVE-2022-36804](https://github.com/devengpk/CVE-2022-36804)	<img alt="forks" src="https://img.shields.io/github/forks/devengpk/CVE-2022-36804">	<img alt="stars" src="https://img.shields.io/github/stars/devengpk/CVE-2022-36804">
 
 ---
+## CVE-2022-36789 (2022-11-11T16:15:00)
+> Improper access control in BIOS firmware for some Intel(R) NUC 10 Performance Kits and Intel(R) NUC 10 Performance Mini PCs before version FNCML357.0053 may allow a privileged user to potentially enable escalation of privilege via local access.
+- [Live-Hack-CVE/CVE-2022-36789](https://github.com/Live-Hack-CVE/CVE-2022-36789)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36789">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36789">
+
+---
 ## CVE-2022-36787 (2022-11-17T23:15:00)
 > Webvendome - Webvendome SQL Injection. SQL Injection in the Parameter " DocNumber" Request : Get Request : /webvendome/showfiles.aspx?jobnumber=nullDoc Number=HERE.
 - [Live-Hack-CVE/CVE-2022-36787](https://github.com/Live-Hack-CVE/CVE-2022-36787)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36787">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36787">
@@ -4567,9 +4587,24 @@
 - [afine-com/CVE-2022-36432](https://github.com/afine-com/CVE-2022-36432)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2022-36432">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2022-36432">
 
 ---
+## CVE-2022-36400 (2022-11-11T16:15:00)
+> Path traversal in the installer software for some Intel(r) NUC Kit Wireless Adapter drivers for Windows 10 before version 22.40 may allow an authenticated user to potentially enable escalation of privilege via local access.
+- [Live-Hack-CVE/CVE-2022-36400](https://github.com/Live-Hack-CVE/CVE-2022-36400)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36400">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36400">
+
+---
+## CVE-2022-36377 (2022-11-11T16:15:00)
+> Incorrect default permissions in the installer software for some Intel(r) NUC Kit Wireless Adapter drivers for Windows 10 before version 22.40 may allow an authenticated user to potentially enable escalation of privilege via local access.
+- [Live-Hack-CVE/CVE-2022-36377](https://github.com/Live-Hack-CVE/CVE-2022-36377)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36377">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36377">
+
+---
 ## CVE-2022-3635 (2022-10-21T11:15:00)
 > A vulnerability, which was classified as critical, has been found in Linux Kernel. Affected by this issue is the function tst_timer of the file drivers/atm/idt77252.c of the component IPsec. The manipulation leads to use after free. It is recommended to apply a patch to fix this issue. VDB-211934 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-3635](https://github.com/Live-Hack-CVE/CVE-2022-3635)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3635">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3635">
+
+---
+## CVE-2022-36349 (2022-11-11T16:15:00)
+> Insecure default variable initialization in BIOS firmware for some Intel(R) NUC Boards and Intel(R) NUC Kits before version MYi30060 may allow an authenticated user to potentially enable denial of service via local access.
+- [Live-Hack-CVE/CVE-2022-36349](https://github.com/Live-Hack-CVE/CVE-2022-36349)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36349">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36349">
 
 ---
 ## CVE-2022-3633 (2022-10-21T11:15:00)
@@ -5346,6 +5381,11 @@
 - [g01f/CVE-2022-3236-POC](https://github.com/g01f/CVE-2022-3236-POC)	<img alt="forks" src="https://img.shields.io/github/forks/g01f/CVE-2022-3236-POC">	<img alt="stars" src="https://img.shields.io/github/stars/g01f/CVE-2022-3236-POC">
 - [Adynervi/CVE-2022-3236-MASS-RCE](https://github.com/Adynervi/CVE-2022-3236-MASS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Adynervi/CVE-2022-3236-MASS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Adynervi/CVE-2022-3236-MASS-RCE">
 - [subvers1on/CVE-2022-3236-RCE-PoC](https://github.com/subvers1on/CVE-2022-3236-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/subvers1on/CVE-2022-3236-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/subvers1on/CVE-2022-3236-RCE-PoC">
+
+---
+## CVE-2022-32268 (2022-06-03T06:15:00)
+> StarWind SAN and NAS v0.2 build 1914 allow remote code execution. A flaw was found in REST API in StarWind Stack. REST command, which allows changing the hostname, doesn’t check a new hostname parameter. It goes directly to bash as part of a script. An attacker with non-root user access can inject arbitrary data into the command that will be executed with root privileges.
+- [Live-Hack-CVE/CVE-2022-32268](https://github.com/Live-Hack-CVE/CVE-2022-32268)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32268">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32268">
 
 ---
 ## CVE-2022-3226 (2022-12-01T18:15:00)
@@ -6327,6 +6367,11 @@
 - [aeifkz/CVE-2022-28219-Like](https://github.com/aeifkz/CVE-2022-28219-Like)	<img alt="forks" src="https://img.shields.io/github/forks/aeifkz/CVE-2022-28219-Like">	<img alt="stars" src="https://img.shields.io/github/stars/aeifkz/CVE-2022-28219-Like">
 
 ---
+## CVE-2022-28126 (2022-11-11T16:15:00)
+> Improper input validation in some Intel(R) XMM(TM) 7560 Modem software before version M2_7560_R_01.2146.00 may allow a privileged user to potentially enable escalation of privilege via local access.
+- [Live-Hack-CVE/CVE-2022-28126](https://github.com/Live-Hack-CVE/CVE-2022-28126)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28126">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28126">
+
+---
 ## CVE-2022-28117 (2022-04-28T15:15:00)
 > A Server-Side Request Forgery (SSRF) in feed_parser class of Navigate CMS v2.9.4 allows remote attackers to force the application to make arbitrary requests via injection of arbitrary URLs into the feed parameter.
 - [cheshireca7/CVE-2022-28117](https://github.com/cheshireca7/CVE-2022-28117)	<img alt="forks" src="https://img.shields.io/github/forks/cheshireca7/CVE-2022-28117">	<img alt="stars" src="https://img.shields.io/github/stars/cheshireca7/CVE-2022-28117">
@@ -6367,6 +6412,11 @@
 - [onlyHerold22/CVE-2022-27925-PoC](https://github.com/onlyHerold22/CVE-2022-27925-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/onlyHerold22/CVE-2022-27925-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/onlyHerold22/CVE-2022-27925-PoC">
 
 ---
+## CVE-2022-27874 (2022-11-11T16:15:00)
+> Improper authentication in some Intel(R) XMM(TM) 7560 Modem software before version M2_7560_R_01.2146.00 may allow a privileged user to potentially enable escalation of privilege via physical access.
+- [Live-Hack-CVE/CVE-2022-27874](https://github.com/Live-Hack-CVE/CVE-2022-27874)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27874">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27874">
+
+---
 ## CVE-2022-27812 (2022-08-24T12:15:00)
 > Flooding SNS firewall versions 3.7.0 to 3.7.29, 3.11.0 to 3.11.17, 4.2.0 to 4.2.10, and 4.3.0 to 4.3.6 with specific forged traffic, can lead to SNS DoS.
 - [Live-Hack-CVE/CVE-2022-27812](https://github.com/Live-Hack-CVE/CVE-2022-27812)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27812">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27812">
@@ -6385,6 +6435,11 @@
 ## CVE-2022-27650 (2022-04-04T20:15:00)
 > A flaw was found in crun where containers were incorrectly started with non-empty default permissions. A vulnerability was found in Moby (Docker Engine) where containers were started incorrectly with non-empty inheritable Linux process capabilities. This flaw allows an attacker with access to programs with inheritable file capabilities to elevate those capabilities to the permitted set when execve(2) runs.
 - [Live-Hack-CVE/CVE-2022-27650](https://github.com/Live-Hack-CVE/CVE-2022-27650)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27650">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27650">
+
+---
+## CVE-2022-27639 (2022-11-11T16:15:00)
+> Incomplete cleanup in some Intel(R) XMM(TM) 7560 Modem software before version M2_7560_R_01.2146.00 may allow a privileged user to potentially enable escalation of privilege via adjacent access.
+- [Live-Hack-CVE/CVE-2022-27639](https://github.com/Live-Hack-CVE/CVE-2022-27639)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27639">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27639">
 
 ---
 ## CVE-2022-27581 (2022-12-13T16:15:00)
@@ -6722,6 +6777,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-25836 (2022-12-12T04:15:00)
 > Bluetooth® Low Energy Pairing in Bluetooth Core Specification v4.0 through v5.3 may permit an unauthenticated MITM to acquire credentials with two pairing devices via adjacent access when the MITM negotiates Legacy Passkey Pairing with the pairing Initiator and Secure Connections Passkey Pairing with the pairing Responder and brute forces the Passkey entered by the user into the Initiator. The MITM attacker can use the identified Passkey value to complete authentication with the Responder via Bluetooth pairing method confusion.
 - [Live-Hack-CVE/CVE-2022-25836](https://github.com/Live-Hack-CVE/CVE-2022-25836)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25836">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25836">
+
+---
+## CVE-2022-25794 (2022-04-11T20:15:00)
+> An Out-Of-Bounds Read Vulnerability in Autodesk FBX Review version 1.5.2 and prior may lead to code execution through maliciously crafted ActionScript Byte Code 'ABC' files or information disclosure. ABC files are created by the Flash compiler and contain executable code. This vulnerability in conjunction with other vulnerabilities could lead to code execution in the context of the current process.
+- [Live-Hack-CVE/CVE-2022-25794](https://github.com/Live-Hack-CVE/CVE-2022-25794)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25794">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25794">
 
 ---
 ## CVE-2022-25765 (2022-09-09T05:15:00)
@@ -8191,6 +8251,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1579 (2022-11-21T11:15:00)
 > The function check_is_login_page() uses headers for the IP check, which can be easily spoofed.
 - [Live-Hack-CVE/CVE-2022-1579](https://github.com/Live-Hack-CVE/CVE-2022-1579)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1579">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1579">
+
+---
+## CVE-2022-1566 (2022-05-30T09:15:00)
+> The Quotes llama WordPress plugin before 1.0.0 does not sanitise and escape Quotes, which could allow high privilege users such as admin to perform Cross-Site Scripting attacks even when unfiltered_html is disallowed. The attack could also be performed by tricking an admin to import a malicious CSV file
+- [Live-Hack-CVE/CVE-2022-1566](https://github.com/Live-Hack-CVE/CVE-2022-1566)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1566">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1566">
 
 ---
 ## CVE-2022-1552 (2022-08-31T16:15:00)
