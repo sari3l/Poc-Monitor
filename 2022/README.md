@@ -610,9 +610,24 @@
 - [Live-Hack-CVE/CVE-2022-45914](https://github.com/Live-Hack-CVE/CVE-2022-45914)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45914">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45914">
 
 ---
+## CVE-2022-45912 (2022-12-05T22:15:00)
+> An issue was discovered in Zimbra Collaboration (ZCS) 8.8.15 and 9.0. Remote code execution can occur through ClientUploader by an authenticated admin user. An authenticated admin user can upload files through the ClientUploader utility, and traverse to any other directory for remote code execution.
+- [Live-Hack-CVE/CVE-2022-45912](https://github.com/Live-Hack-CVE/CVE-2022-45912)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45912">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45912">
+
+---
+## CVE-2022-45833 (2022-12-06T22:15:00)
+> Auth. Path Traversal vulnerability in Easy WP SMTP plugin <= 1.5.1 on WordPress.
+- [Live-Hack-CVE/CVE-2022-45833](https://github.com/Live-Hack-CVE/CVE-2022-45833)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45833">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45833">
+
+---
 ## CVE-2022-4583 (2022-12-17T13:15:00)
 > A vulnerability was found in jLEMS. It has been declared as critical. Affected by this vulnerability is the function unpackJar of the file src/main/java/org/lemsml/jlems/io/util/JUtil.java. The manipulation leads to path traversal. The attack can be launched remotely. The name of the patch is 8c224637d7d561076364a9e3c2c375daeaf463dc. It is recommended to apply a patch to fix this issue. The identifier VDB-216169 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-4583](https://github.com/Live-Hack-CVE/CVE-2022-4583)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4583">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4583">
+
+---
+## CVE-2022-45829 (2022-12-06T22:15:00)
+> Auth. Path Traversal vulnerability in Easy WP SMTP plugin <= 1.5.1 at WordPress.
+- [Live-Hack-CVE/CVE-2022-45829](https://github.com/Live-Hack-CVE/CVE-2022-45829)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45829">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45829">
 
 ---
 ## CVE-2022-45797 (2022-12-12T09:15:00)
@@ -673,6 +688,26 @@
 ## CVE-2022-45511 (2022-12-08T16:15:00)
 > Tenda W30E V1.0.1.25(633) was discovered to contain a stack overflow via the PPPOEPassword parameter at /goform/QuickIndex.
 - [kinderscsaa/cve-2022-45511](https://github.com/kinderscsaa/cve-2022-45511)	<img alt="forks" src="https://img.shields.io/github/forks/kinderscsaa/cve-2022-45511">	<img alt="stars" src="https://img.shields.io/github/stars/kinderscsaa/cve-2022-45511">
+
+---
+## CVE-2022-45481 (2022-12-05T21:15:00)
+> The default configuration of Lazy Mouse does not require a password, allowing remote unauthenticated users to execute arbitrary code with no prior authorization or authentication. CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+- [Live-Hack-CVE/CVE-2022-45481](https://github.com/Live-Hack-CVE/CVE-2022-45481)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45481">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45481">
+
+---
+## CVE-2022-45479 (2022-12-05T21:15:00)
+> PC Keyboard allows remote unauthenticated users to send instructions to the server to execute arbitrary code without any previous authorization or authentication. CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+- [Live-Hack-CVE/CVE-2022-45479](https://github.com/Live-Hack-CVE/CVE-2022-45479)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45479">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45479">
+
+---
+## CVE-2022-45478 (2022-12-05T16:15:00)
+> Telepad allows an attacker (in a man-in-the-middle position between the server and a connected device) to see all data (including keypresses) in cleartext. CVSS:3.1/AV:L/AC:H/PR:N/UI:N/S:U/C:H/I:N/A:N
+- [Live-Hack-CVE/CVE-2022-45478](https://github.com/Live-Hack-CVE/CVE-2022-45478)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45478">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45478">
+
+---
+## CVE-2022-45477 (2022-12-05T16:15:00)
+> Telepad allows remote unauthenticated users to send instructions to the server to execute arbitrary code without any previous authorization or authentication. CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+- [Live-Hack-CVE/CVE-2022-45477](https://github.com/Live-Hack-CVE/CVE-2022-45477)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45477">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45477">
 
 ---
 ## CVE-2022-45472 (2022-11-23T06:15:00)
@@ -800,6 +835,16 @@
 ## CVE-2022-45010 (2022-12-07T02:15:00)
 > Simple Phone Book/Directory Web App v1.0 was discovered to contain a SQL injection vulnerability via the editid parameter at /PhoneBook/edit.php.
 - [Live-Hack-CVE/CVE-2022-45010](https://github.com/Live-Hack-CVE/CVE-2022-45010)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45010">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45010">
+
+---
+## CVE-2022-45009 (2022-12-07T02:15:00)
+> Online Leave Management System v1.0 was discovered to contain an arbitrary file upload vulnerability at /leave_system/classes/SystemSettings.php?f=update_settings. This vulnerability allows attackers to execute arbitrary code via a crafted PHP file.
+- [Live-Hack-CVE/CVE-2022-45009](https://github.com/Live-Hack-CVE/CVE-2022-45009)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45009">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45009">
+
+---
+## CVE-2022-45008 (2022-12-07T02:15:00)
+> Online Leave Management System v1.0 was discovered to contain a stored cross-site scripting (XSS) vulnerability in the component /leave_system/admin/?page=maintenance/department. This vulnerability allows attackers to execute arbitrary web scripts or HTML via crafted payload injected into the Name field under the Create New module.
+- [Live-Hack-CVE/CVE-2022-45008](https://github.com/Live-Hack-CVE/CVE-2022-45008)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45008">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45008">
 
 ---
 ## CVE-2022-45005 (2022-12-13T19:15:00)
@@ -1094,6 +1139,11 @@
 - [Live-Hack-CVE/CVE-2022-43548](https://github.com/Live-Hack-CVE/CVE-2022-43548)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43548">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43548">
 
 ---
+## CVE-2022-43515 (2022-12-05T19:15:00)
+> Zabbix Frontend provides a feature that allows admins to maintain the installation and ensure that only certain IP addresses can access it. In this way, any user will not be able to access the Zabbix Frontend while it is being maintained and possible sensitive data will be prevented from being disclosed. An attacker can bypass this protection and access the instance using IP address not listed in the defined range.
+- [Live-Hack-CVE/CVE-2022-43515](https://github.com/Live-Hack-CVE/CVE-2022-43515)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43515">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43515">
+
+---
 ## CVE-2022-43509 (2022-12-07T04:15:00)
 > Out-of-bounds write vulnerability exists in CX-Programmer v.9.77 and earlier, which may lead to information disclosure and/or arbitrary code execution by having a user to open a specially crafted CXP file.
 - [Live-Hack-CVE/CVE-2022-43509](https://github.com/Live-Hack-CVE/CVE-2022-43509)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43509">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43509">
@@ -1107,6 +1157,7 @@
 ## CVE-2022-43369 (2022-12-06T19:15:00)
 > AutoTaxi Stand Management System v1.0 was discovered to contain a cross-site scripting (XSS) vulnerability via the component search.php.
 - [sudoninja-noob/CVE-2022-43369](https://github.com/sudoninja-noob/CVE-2022-43369)	<img alt="forks" src="https://img.shields.io/github/forks/sudoninja-noob/CVE-2022-43369">	<img alt="stars" src="https://img.shields.io/github/stars/sudoninja-noob/CVE-2022-43369">
+- [Live-Hack-CVE/CVE-2022-43369](https://github.com/Live-Hack-CVE/CVE-2022-43369)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43369">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43369">
 
 ---
 ## CVE-2022-43363 (2022-12-06T16:15:00)
@@ -1338,9 +1389,54 @@
 - [Live-Hack-CVE/CVE-2022-42805](https://github.com/Live-Hack-CVE/CVE-2022-42805)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42805">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42805">
 
 ---
+## CVE-2022-42778 (2022-12-06T07:15:00)
+> In windows manager service, there is a missing permission check. This could lead to set up windows manager service with no additional execution privileges needed.
+- [Live-Hack-CVE/CVE-2022-42778](https://github.com/Live-Hack-CVE/CVE-2022-42778)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42778">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42778">
+
+---
+## CVE-2022-42777 (2022-12-06T07:15:00)
+> In power management service, there is a missing permission check. This could lead to set up power management service with no additional execution privileges needed.
+- [Live-Hack-CVE/CVE-2022-42777](https://github.com/Live-Hack-CVE/CVE-2022-42777)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42777">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42777">
+
+---
+## CVE-2022-42776 (2022-12-06T07:15:00)
+> In UscAIEngine service, there is a missing permission check. This could lead to set up UscAIEngine service with no additional execution privileges needed.
+- [Live-Hack-CVE/CVE-2022-42776](https://github.com/Live-Hack-CVE/CVE-2022-42776)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42776">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42776">
+
+---
+## CVE-2022-42775 (2022-12-06T07:15:00)
+> In camera driver, there is a possible memory corruption due to improper locking. This could lead to local denial of service in kernel.
+- [Live-Hack-CVE/CVE-2022-42775](https://github.com/Live-Hack-CVE/CVE-2022-42775)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42775">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42775">
+
+---
+## CVE-2022-42763 (2022-12-06T07:15:00)
+> In wlan driver, there is a possible missing bounds check, This could lead to local denial of service in wlan services.
+- [Live-Hack-CVE/CVE-2022-42763](https://github.com/Live-Hack-CVE/CVE-2022-42763)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42763">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42763">
+
+---
+## CVE-2022-42762 (2022-12-06T07:15:00)
+> In wlan driver, there is a possible missing bounds check, This could lead to local denial of service in wlan services.
+- [Live-Hack-CVE/CVE-2022-42762](https://github.com/Live-Hack-CVE/CVE-2022-42762)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42762">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42762">
+
+---
+## CVE-2022-42761 (2022-12-06T07:15:00)
+> In wlan driver, there is a possible missing bounds check, This could lead to local denial of service in wlan services.
+- [Live-Hack-CVE/CVE-2022-42761](https://github.com/Live-Hack-CVE/CVE-2022-42761)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42761">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42761">
+
+---
+## CVE-2022-42760 (2022-12-06T07:15:00)
+> In wlan driver, there is a possible missing bounds check, This could lead to local denial of service in wlan services.
+- [Live-Hack-CVE/CVE-2022-42760](https://github.com/Live-Hack-CVE/CVE-2022-42760)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42760">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42760">
+
+---
 ## CVE-2022-42716 (2022-12-12T20:15:00)
 > An issue was discovered in the Arm Mali GPU Kernel Driver. There is a use-after-free. A non-privileged user can make improper GPU processing operations to gain access to already freed memory. This affects Valhall r29p0 through r40P0.
 - [Live-Hack-CVE/CVE-2022-42716](https://github.com/Live-Hack-CVE/CVE-2022-42716)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42716">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42716">
+
+---
+## CVE-2022-42699 (2022-12-06T23:15:00)
+> Auth. Remote Code Execution vulnerability in Easy WP SMTP plugin <= 1.5.1 on WordPress.
+- [Live-Hack-CVE/CVE-2022-42699](https://github.com/Live-Hack-CVE/CVE-2022-42699)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42699">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42699">
 
 ---
 ## CVE-2022-42527 (2022-12-16T16:15:00)
@@ -2318,6 +2414,11 @@
 - [Live-Hack-CVE/CVE-2022-3917](https://github.com/Live-Hack-CVE/CVE-2022-3917)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3917">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3917">
 
 ---
+## CVE-2022-39099 (2022-12-06T07:15:00)
+> In power management service, there is a missing permission check. This could lead to set up power management service with no additional execution privileges needed.
+- [Live-Hack-CVE/CVE-2022-39099](https://github.com/Live-Hack-CVE/CVE-2022-39099)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39099">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39099">
+
+---
 ## CVE-2022-39066 (2022-11-22T17:15:00)
 > There is a SQL injection vulnerability in ZTE MF286R. Due to insufficient validation of the input parameters of the phonebook interface, an authenticated attacker could use the vulnerability to execute arbitrary SQL injection.
 - [v0lp3/CVE-2022-39066](https://github.com/v0lp3/CVE-2022-39066)	<img alt="forks" src="https://img.shields.io/github/forks/v0lp3/CVE-2022-39066">	<img alt="stars" src="https://img.shields.io/github/stars/v0lp3/CVE-2022-39066">
@@ -2676,6 +2777,11 @@
 ## CVE-2022-3691 (2022-11-21T11:15:00)
 > The DeepL Pro API translation plugin WordPress plugin before 1.7.5 discloses sensitive information (including the DeepL API key) in files that are publicly accessible to an external, unauthenticated visitor.
 - [Live-Hack-CVE/CVE-2022-3691](https://github.com/Live-Hack-CVE/CVE-2022-3691)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3691">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3691">
+
+---
+## CVE-2022-3690 (2022-11-21T11:15:00)
+> The Popup Maker WordPress plugin before 1.16.11 does not sanitise and escape some of its Popup options, which could allow users with a role as low as Contributor to perform Stored Cross-Site Scripting attacks, which could be used against admins
+- [Live-Hack-CVE/CVE-2022-3690](https://github.com/Live-Hack-CVE/CVE-2022-3690)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3690">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3690">
 
 ---
 ## CVE-2022-36804 (2022-08-25T06:15:00)
@@ -3298,6 +3404,7 @@
 ## CVE-2022-32224 (2022-12-05T22:15:00)
 > A possible escalation to RCE vulnerability exists when using YAML serialized columns in Active Record < 7.0.3.1, <6.1.6.1, <6.0.5.1 and <5.2.8.1 which could allow an attacker, that can manipulate data in the database (via means like SQL injection), the ability to escalate to an RCE.
 - [ooooooo-q/cve-2022-32224-rails](https://github.com/ooooooo-q/cve-2022-32224-rails)	<img alt="forks" src="https://img.shields.io/github/forks/ooooooo-q/cve-2022-32224-rails">	<img alt="stars" src="https://img.shields.io/github/stars/ooooooo-q/cve-2022-32224-rails">
+- [Live-Hack-CVE/CVE-2022-32224](https://github.com/Live-Hack-CVE/CVE-2022-32224)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32224">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32224">
 
 ---
 ## CVE-2022-32221 (2022-12-05T22:15:00)
