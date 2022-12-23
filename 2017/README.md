@@ -25,6 +25,7 @@
 ## CVE-2017-9833 (2017-06-24T02:29:00)
 > /cgi-bin/wapopen in BOA Webserver 0.94.14rc21 allows the injection of "../.." using the FILECAMERA variable (sent by GET) to read files with root privileges.
 - [anldori/CVE-2017-9833](https://github.com/anldori/CVE-2017-9833)	<img alt="forks" src="https://img.shields.io/github/forks/anldori/CVE-2017-9833">	<img alt="stars" src="https://img.shields.io/github/stars/anldori/CVE-2017-9833">
+- [Live-Hack-CVE/CVE-2017-9833](https://github.com/Live-Hack-CVE/CVE-2017-9833)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-9833">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-9833">
 
 ---
 ## CVE-2017-9805 (2017-09-15T19:29:00)

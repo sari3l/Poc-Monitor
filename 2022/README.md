@@ -630,6 +630,11 @@
 - [Live-Hack-CVE/CVE-2022-45829](https://github.com/Live-Hack-CVE/CVE-2022-45829)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45829">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45829">
 
 ---
+## CVE-2022-45816 (2022-12-06T22:15:00)
+> Auth. Stored Cross-Site Scripting (XSS) vulnerability in GD bbPress Attachments plugin <= 4.3.1 on WordPress.
+- [Live-Hack-CVE/CVE-2022-45816](https://github.com/Live-Hack-CVE/CVE-2022-45816)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45816">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45816">
+
+---
 ## CVE-2022-45797 (2022-12-12T09:15:00)
 > An arbitrary file deletion vulnerability in the Damage Cleanup Engine component of Trend Micro Apex One and Trend Micro Apex One as a Service could allow a local attacker to escalate privileges and delete files on affected installations. Please note: an attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability.
 - [Live-Hack-CVE/CVE-2022-45797](https://github.com/Live-Hack-CVE/CVE-2022-45797)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45797">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45797">
@@ -683,6 +688,11 @@
 ## CVE-2022-4555 (2022-12-16T14:15:00)
 > The WP Shamsi plugin for WordPress is vulnerable to authorization bypass due to a missing capability check on the deactivate() function hooked via init() in versions up to, and including, 4.1.0. This makes it possible for unauthenticated attackers to deactivate arbitrary plugins on the site. This can be used to deactivate security plugins that aids in exploiting other vulnerabilities.
 - [Live-Hack-CVE/CVE-2022-4555](https://github.com/Live-Hack-CVE/CVE-2022-4555)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4555">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4555">
+
+---
+## CVE-2022-45548 (2022-12-06T19:15:00)
+> AyaCMS v3.1.2 has an Arbitrary File Upload vulnerability.
+- [Live-Hack-CVE/CVE-2022-45548](https://github.com/Live-Hack-CVE/CVE-2022-45548)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45548">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45548">
 
 ---
 ## CVE-2022-45511 (2022-12-08T16:15:00)
@@ -1220,6 +1230,16 @@
 ## CVE-2022-43096 (2022-11-17T23:15:00)
 > Mediatrix 4102 before v48.5.2718 allows local attackers to gain root access via the UART port.
 - [ProxyStaffy/Mediatrix-CVE-2022-43096](https://github.com/ProxyStaffy/Mediatrix-CVE-2022-43096)	<img alt="forks" src="https://img.shields.io/github/forks/ProxyStaffy/Mediatrix-CVE-2022-43096">	<img alt="stars" src="https://img.shields.io/github/stars/ProxyStaffy/Mediatrix-CVE-2022-43096">
+
+---
+## CVE-2022-4300 (2022-12-06T10:15:00)
+> A vulnerability was found in FastCMS. It has been rated as critical. This issue affects some unknown processing of the file /template/edit of the component Template Handler. The manipulation leads to injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-214901 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4300](https://github.com/Live-Hack-CVE/CVE-2022-4300)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4300">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4300">
+
+---
+## CVE-2022-4296 (2022-12-06T10:15:00)
+> A vulnerability classified as problematic has been found in TP-Link TL-WR740N. Affected is an unknown function of the component ARP Handler. The manipulation leads to resource consumption. The attack needs to be done within the local network. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-214812.
+- [Live-Hack-CVE/CVE-2022-4296](https://github.com/Live-Hack-CVE/CVE-2022-4296)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4296">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4296">
 
 ---
 ## CVE-2022-42920 (2022-11-07T13:15:00)
@@ -2165,6 +2185,11 @@
 - [hughink/CVE-2022-40684](https://github.com/hughink/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/hughink/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/hughink/CVE-2022-40684">
 
 ---
+## CVE-2022-40680 (2022-12-06T17:15:00)
+> A improper neutralization of input during web page generation ('cross-site scripting') in Fortinet FortiOS 6.0.7 - 6.0.15, 6.2.2 - 6.2.12, 6.4.0 - 6.4.9 and 7.0.0 - 7.0.3 allows a privileged attacker to execute unauthorized code or commands via storing malicious payloads in replacement messages.
+- [Live-Hack-CVE/CVE-2022-40680](https://github.com/Live-Hack-CVE/CVE-2022-40680)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40680">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40680">
+
+---
 ## CVE-2022-40674 (2022-09-14T11:15:00)
 > libexpat before 2.4.9 has a use-after-free in the doContent function in xmlparse.c.
 - [nidhi7598/expat_2.1.0_CVE-2022-40674](https://github.com/nidhi7598/expat_2.1.0_CVE-2022-40674)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/expat_2.1.0_CVE-2022-40674">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/expat_2.1.0_CVE-2022-40674">
@@ -2533,6 +2558,11 @@
 ## CVE-2022-38533 (2022-08-26T00:15:00)
 > In GNU Binutils before 2.40, there is a heap-buffer-overflow in the error function bfd_getl32 when called from the strip_main function in strip-new via a crafted file.
 - [Live-Hack-CVE/CVE-2022-38533](https://github.com/Live-Hack-CVE/CVE-2022-38533)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38533">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38533">
+
+---
+## CVE-2022-38379 (2022-12-06T17:15:00)
+> Improper neutralization of input during web page generation [CWE-79] in FortiSOAR 7.0.0 through 7.0.3 and 7.2.0 may allow an authenticated attacker to inject HTML tags via input fields of various components within FortiSOAR.
+- [Live-Hack-CVE/CVE-2022-38379](https://github.com/Live-Hack-CVE/CVE-2022-38379)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38379">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38379">
 
 ---
 ## CVE-2022-38374 (2022-11-02T12:15:00)
@@ -3256,6 +3286,11 @@
 - [Live-Hack-CVE/CVE-2022-3388](https://github.com/Live-Hack-CVE/CVE-2022-3388)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3388">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3388">
 
 ---
+## CVE-2022-33876 (2022-12-06T17:15:00)
+> Multiple instances of improper input validation vulnerability in Fortinet FortiADC version 7.1.0, version 7.0.0 through 7.0.2 and version 6.2.4 and below allows an authenticated attacker to retrieve files with specific extension from the underlying Linux system via crafted HTTP requests.
+- [Live-Hack-CVE/CVE-2022-33876](https://github.com/Live-Hack-CVE/CVE-2022-33876)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33876">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33876">
+
+---
 ## CVE-2022-33875 (2022-12-06T17:15:00)
 > An improper neutralization of special elements used in an SQL Command ('SQL Injection') vulnerability in Fortinet FortiADC version 7.1.0, version 7.0.0 through 7.0.2 and version 6.2.4 and below allows an authenticated attacker to execute unauthorized code or commands via specifically crafted HTTP requests.
 - [Live-Hack-CVE/CVE-2022-33875](https://github.com/Live-Hack-CVE/CVE-2022-33875)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33875">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33875">
@@ -3816,6 +3851,11 @@
 ## CVE-2022-30887 (2022-05-20T13:15:00)
 > Pharmacy Management System v1.0 was discovered to contain a remote code execution (RCE) vulnerability via the component /php_action/editProductImage.php. This vulnerability allows attackers to execute arbitrary code via a crafted image file.
 - [MuallimNaci/CVE-2022-30887](https://github.com/MuallimNaci/CVE-2022-30887)	<img alt="forks" src="https://img.shields.io/github/forks/MuallimNaci/CVE-2022-30887">	<img alt="stars" src="https://img.shields.io/github/stars/MuallimNaci/CVE-2022-30887">
+
+---
+## CVE-2022-3088 (2022-11-28T22:15:00)
+> UC-8100A-ME-T System Image: Versions v1.0 to v1.6, UC-2100 System Image: Versions v1.0 to v1.12, UC-2100-W System Image: Versions v1.0 to v 1.12,&nbsp;UC-3100 System Image: Versions v1.0 to v1.6,&nbsp;UC-5100 System Image: Versions v1.0 to v1.4, UC-8100 System Image: Versions v3.0 to v3.5, UC-8100-ME-T System Image: Versions v3.0 and v3.1, UC-8200 System Image: v1.0 to v1.5, AIG-300 System Image: v1.0 to v1.4, UC-8410A with Debian 9 System Image: Versions v4.0.2 and v4.1.2, UC-8580 with Debian 9 System Image: Versions v2.0 and v2.1, UC-8540 with Debian 9 System Image: Versions v2.0 and v2.1, and DA-662C-16-LX (GLB) System Image: Versions v1.0.2 to v1.1.2 of Moxa's ARM-based computers have an execution with unnecessary privileges vulnerability, which could allow an attacker with user-level privileges to gain root privileges.
+- [Live-Hack-CVE/CVE-2022-3088](https://github.com/Live-Hack-CVE/CVE-2022-3088)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3088">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3088">
 
 ---
 ## CVE-2022-30780 (2022-06-11T15:15:00)
@@ -6145,6 +6185,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [shahparkhan/cve-2022-0185](https://github.com/shahparkhan/cve-2022-0185)	<img alt="forks" src="https://img.shields.io/github/forks/shahparkhan/cve-2022-0185">	<img alt="stars" src="https://img.shields.io/github/stars/shahparkhan/cve-2022-0185">
 - [khaclep007/CVE-2022-0185](https://github.com/khaclep007/CVE-2022-0185)	<img alt="forks" src="https://img.shields.io/github/forks/khaclep007/CVE-2022-0185">	<img alt="stars" src="https://img.shields.io/github/stars/khaclep007/CVE-2022-0185">
 - [discordianfish/cve-2022-0185-crash-poc](https://github.com/discordianfish/cve-2022-0185-crash-poc)	<img alt="forks" src="https://img.shields.io/github/forks/discordianfish/cve-2022-0185-crash-poc">	<img alt="stars" src="https://img.shields.io/github/stars/discordianfish/cve-2022-0185-crash-poc">
+
+---
+## CVE-2022-0135 (2022-08-25T18:15:00)
+> An out-of-bounds write issue was found in the VirGL virtual OpenGL renderer (virglrenderer). This flaw allows a malicious guest to create a specially crafted virgil resource and then issue a VIRTGPU_EXECBUFFER ioctl, leading to a denial of service or possible code execution.
+- [Live-Hack-CVE/CVE-2022-0135](https://github.com/Live-Hack-CVE/CVE-2022-0135)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0135">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0135">
 
 ---
 ## CVE-2022-0123 (2022-03-28T19:15:00)
