@@ -2087,14 +2087,34 @@
 - [Live-Hack-CVE/CVE-2022-42345](https://github.com/Live-Hack-CVE/CVE-2022-42345)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42345">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42345">
 
 ---
+## CVE-2022-42326 (2022-11-01T13:15:00)
+> Xenstore: Guests can create arbitrary number of nodes via transactions T[his CNA information record relates to multiple CVEs; the text explains which aspects/vulnerabilities correspond to which CVE.] In case a node has been created in a transaction and it is later deleted in the same transaction, the transaction will be terminated with an error. As this error is encountered only when handling the deleted node at transaction finalization, the transaction will have been performed partially and without updating the accounting information. This will enable a malicious guest to create arbitrary number of nodes.
+- [Live-Hack-CVE/CVE-2022-42326](https://github.com/Live-Hack-CVE/CVE-2022-42326)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42326">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42326">
+
+---
 ## CVE-2022-42324 (2022-11-01T13:15:00)
 > Oxenstored 32->31 bit integer truncation issues Integers in Ocaml are 63 or 31 bits of signed precision. The Ocaml Xenbus library takes a C uint32_t out of the ring and casts it directly to an Ocaml integer. In 64-bit Ocaml builds this is fine, but in 32-bit builds, it truncates off the most significant bit, and then creates unsigned/signed confusion in the remainder. This in turn can feed a negative value into logic not expecting a negative value, resulting in unexpected exceptions being thrown. The unexpected exception is not handled suitably, creating a busy-loop trying (and failing) to take the bad packet out of the xenstore ring.
 - [Live-Hack-CVE/CVE-2022-42324](https://github.com/Live-Hack-CVE/CVE-2022-42324)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42324">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42324">
 
 ---
+## CVE-2022-42320 (2022-11-01T13:15:00)
+> Xenstore: Guests can get access to Xenstore nodes of deleted domains Access rights of Xenstore nodes are per domid. When a domain is gone, there might be Xenstore nodes left with access rights containing the domid of the removed domain. This is normally no problem, as those access right entries will be corrected when such a node is written later. There is a small time window when a new domain is created, where the access rights of a past domain with the same domid as the new one will be regarded to be still valid, leading to the new domain being able to get access to a node which was meant to be accessible by the removed domain. For this to happen another domain needs to write the node before the newly created domain is being introduced to Xenstore by dom0.
+- [Live-Hack-CVE/CVE-2022-42320](https://github.com/Live-Hack-CVE/CVE-2022-42320)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42320">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42320">
+
+---
 ## CVE-2022-4232 (2022-11-30T12:15:00)
 > A vulnerability, which was classified as critical, was found in SourceCodester Event Registration System 1.0. Affected is an unknown function. The manipulation of the argument cmd leads to unrestricted upload. It is possible to launch the attack remotely. VDB-214590 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-4232](https://github.com/Live-Hack-CVE/CVE-2022-4232)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4232">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4232">
+
+---
+## CVE-2022-42319 (2022-11-01T13:15:00)
+> Xenstore: Guests can cause Xenstore to not free temporary memory When working on a request of a guest, xenstored might need to allocate quite large amounts of memory temporarily. This memory is freed only after the request has been finished completely. A request is regarded to be finished only after the guest has read the response message of the request from the ring page. Thus a guest not reading the response can cause xenstored to not free the temporary memory. This can result in memory shortages causing Denial of Service (DoS) of xenstored.
+- [Live-Hack-CVE/CVE-2022-42319](https://github.com/Live-Hack-CVE/CVE-2022-42319)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42319">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42319">
+
+---
+## CVE-2022-42318 (2022-11-01T13:15:00)
+> Xenstore: guests can let run xenstored out of memory T[his CNA information record relates to multiple CVEs; the text explains which aspects/vulnerabilities correspond to which CVE.] Malicious guests can cause xenstored to allocate vast amounts of memory, eventually resulting in a Denial of Service (DoS) of xenstored. There are multiple ways how guests can cause large memory allocations in xenstored: - - by issuing new requests to xenstored without reading the responses, causing the responses to be buffered in memory - - by causing large number of watch events to be generated via setting up multiple xenstore watches and then e.g. deleting many xenstore nodes below the watched path - - by creating as many nodes as allowed with the maximum allowed size and path length in as many transactions as possible - - by accessing many nodes inside a transaction
+- [Live-Hack-CVE/CVE-2022-42318](https://github.com/Live-Hack-CVE/CVE-2022-42318)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42318">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42318">
 
 ---
 ## CVE-2022-42317 (2022-11-01T13:15:00)
@@ -2110,6 +2130,11 @@
 ## CVE-2022-42310 (2022-11-01T13:15:00)
 > Xenstore: Guests can create orphaned Xenstore nodes By creating multiple nodes inside a transaction resulting in an error, a malicious guest can create orphaned nodes in the Xenstore data base, as the cleanup after the error will not remove all nodes already created. When the transaction is committed after this situation, nodes without a valid parent can be made permanent in the data base.
 - [Live-Hack-CVE/CVE-2022-42310](https://github.com/Live-Hack-CVE/CVE-2022-42310)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42310">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42310">
+
+---
+## CVE-2022-42309 (2022-11-01T13:15:00)
+> Xenstore: Guests can crash xenstored Due to a bug in the fix of XSA-115 a malicious guest can cause xenstored to use a wrong pointer during node creation in an error path, resulting in a crash of xenstored or a memory corruption in xenstored causing further damage. Entering the error path can be controlled by the guest e.g. by exceeding the quota value of maximum nodes per domain.
+- [Live-Hack-CVE/CVE-2022-42309](https://github.com/Live-Hack-CVE/CVE-2022-42309)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42309">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42309">
 
 ---
 ## CVE-2022-4229 (2022-11-30T12:15:00)
@@ -2550,6 +2575,11 @@
 - [segfault-it/cve-2022-41352](https://github.com/segfault-it/cve-2022-41352)	<img alt="forks" src="https://img.shields.io/github/forks/segfault-it/cve-2022-41352">	<img alt="stars" src="https://img.shields.io/github/stars/segfault-it/cve-2022-41352">
 - [Cr4ckC4t/cve-2022-41352-zimbra-rce](https://github.com/Cr4ckC4t/cve-2022-41352-zimbra-rce)	<img alt="forks" src="https://img.shields.io/github/forks/Cr4ckC4t/cve-2022-41352-zimbra-rce">	<img alt="stars" src="https://img.shields.io/github/stars/Cr4ckC4t/cve-2022-41352-zimbra-rce">
 - [aryrz/cve-2022-41352-zimbra-rce](https://github.com/aryrz/cve-2022-41352-zimbra-rce)	<img alt="forks" src="https://img.shields.io/github/forks/aryrz/cve-2022-41352-zimbra-rce">	<img alt="stars" src="https://img.shields.io/github/stars/aryrz/cve-2022-41352-zimbra-rce">
+
+---
+## CVE-2022-4135 (2022-11-25T01:15:00)
+> Heap buffer overflow in GPU in Google Chrome prior to 107.0.5304.121 allowed a remote attacker who had compromised the renderer process to potentially perform a sandbox escape via a crafted HTML page. (Chromium security severity: High)
+- [Live-Hack-CVE/CVE-2022-4135](https://github.com/Live-Hack-CVE/CVE-2022-4135)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4135">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4135">
 
 ---
 ## CVE-2022-41325 (2022-12-06T16:15:00)
@@ -3330,6 +3360,11 @@
 - [Live-Hack-CVE/CVE-2022-39046](https://github.com/Live-Hack-CVE/CVE-2022-39046)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39046">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39046">
 
 ---
+## CVE-2022-39028 (2022-08-30T05:15:00)
+> telnetd in GNU Inetutils through 2.3, MIT krb5-appl through 1.0.3, and derivative works has a NULL pointer dereference via 0xff 0xf7 or 0xff 0xf8. In a typical installation, the telnetd application would crash but the telnet service would remain available through inetd. However, if the telnetd application has many crashes within a short time interval, the telnet service would become unavailable after inetd logs a "telnet/tcp server failing (looping), service terminated" error. NOTE: MIT krb5-appl is not supported upstream but is shipped by a few Linux distributions. The affected code was removed from the supported MIT Kerberos 5 (aka krb5) product many years ago, at version 1.8.
+- [Live-Hack-CVE/CVE-2022-39028](https://github.com/Live-Hack-CVE/CVE-2022-39028)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39028">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39028">
+
+---
 ## CVE-2022-3889 (2022-11-09T04:15:00)
 > Type confusion in V8 in Google Chrome prior to 107.0.5304.106 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [Live-Hack-CVE/CVE-2022-3889](https://github.com/Live-Hack-CVE/CVE-2022-3889)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3889">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3889">
@@ -3444,6 +3479,16 @@
 ## CVE-2022-38266 (2022-09-09T22:15:00)
 > An issue in the Leptonica linked library (v1.79.0) allows attackers to cause an arithmetic exception leading to a Denial of Service (DoS) via a crafted JPEG file.
 - [Live-Hack-CVE/CVE-2022-38266](https://github.com/Live-Hack-CVE/CVE-2022-38266)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38266">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38266">
+
+---
+## CVE-2022-38163 (2022-11-07T15:15:00)
+> A Drag and Drop spoof vulnerability was discovered in F-Secure SAFE Browser for Android and iOS version 19.0 and below. Drag and drop operation by user on address bar could lead to a spoofing of the address bar.
+- [Live-Hack-CVE/CVE-2022-38163](https://github.com/Live-Hack-CVE/CVE-2022-38163)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38163">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38163">
+
+---
+## CVE-2022-38150 (2022-08-11T01:15:00)
+> In Varnish Cache 7.0.0, 7.0.1, 7.0.2, and 7.1.0, it is possible to cause the Varnish Server to assert and automatically restart through forged HTTP/1 backend responses. An attack uses a crafted reason phrase of the backend response status line. This is fixed in 7.0.3 and 7.1.1.
+- [Live-Hack-CVE/CVE-2022-38150](https://github.com/Live-Hack-CVE/CVE-2022-38150)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38150">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38150">
 
 ---
 ## CVE-2022-38139 (2022-09-13T14:15:00)
@@ -4523,6 +4568,11 @@
 - [4ra1n/CVE-2022-32532](https://github.com/4ra1n/CVE-2022-32532)	<img alt="forks" src="https://img.shields.io/github/forks/4ra1n/CVE-2022-32532">	<img alt="stars" src="https://img.shields.io/github/stars/4ra1n/CVE-2022-32532">
 
 ---
+## CVE-2022-32511 (2022-06-06T22:15:00)
+> jmespath.rb (aka JMESPath for Ruby) before 1.6.1 uses JSON.load in a situation where JSON.parse is preferable.
+- [Live-Hack-CVE/CVE-2022-32511](https://github.com/Live-Hack-CVE/CVE-2022-32511)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32511">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32511">
+
+---
 ## CVE-2022-3236 (2022-09-23T13:15:00)
 > A code injection vulnerability in the User Portal and Webadmin allows a remote attacker to execute code in Sophos Firewall version v19.0 MR1 and older.
 - [Xu0Tex1/CVE-2022-3236](https://github.com/Xu0Tex1/CVE-2022-3236)	<img alt="forks" src="https://img.shields.io/github/forks/Xu0Tex1/CVE-2022-3236">	<img alt="stars" src="https://img.shields.io/github/stars/Xu0Tex1/CVE-2022-3236">
@@ -4596,6 +4646,11 @@
 - [heavenswill/CVE-2022-32013](https://github.com/heavenswill/CVE-2022-32013)	<img alt="forks" src="https://img.shields.io/github/forks/heavenswill/CVE-2022-32013">	<img alt="stars" src="https://img.shields.io/github/stars/heavenswill/CVE-2022-32013">
 
 ---
+## CVE-2022-3199 (2022-09-26T16:15:00)
+> Use after free in Frames in Google Chrome prior to 105.0.5195.125 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
+- [Live-Hack-CVE/CVE-2022-3199](https://github.com/Live-Hack-CVE/CVE-2022-3199)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3199">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3199">
+
+---
 ## CVE-2022-31901 ()
 > 
 - [CDACesec/CVE-2022-31901](https://github.com/CDACesec/CVE-2022-31901)	<img alt="forks" src="https://img.shields.io/github/forks/CDACesec/CVE-2022-31901">	<img alt="stars" src="https://img.shields.io/github/stars/CDACesec/CVE-2022-31901">
@@ -4636,6 +4691,11 @@
 ## CVE-2022-31779 (2022-08-10T06:15:00)
 > Improper Input Validation vulnerability in HTTP/2 header parsing of Apache Traffic Server allows an attacker to smuggle requests. This issue affects Apache Traffic Server 8.0.0 to 9.1.2.
 - [Live-Hack-CVE/CVE-2022-31779](https://github.com/Live-Hack-CVE/CVE-2022-31779)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31779">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31779">
+
+---
+## CVE-2022-31777 (2022-11-01T16:15:00)
+> A stored cross-site scripting (XSS) vulnerability in Apache Spark 3.2.1 and earlier, and 3.3.0, allows remote attackers to execute arbitrary JavaScript in the web browser of a user, by including a malicious payload into the logs which would be returned in logs rendered in the UI.
+- [Live-Hack-CVE/CVE-2022-31777](https://github.com/Live-Hack-CVE/CVE-2022-31777)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31777">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31777">
 
 ---
 ## CVE-2022-31749 ()
@@ -4710,6 +4770,11 @@
 - [Live-Hack-CVE/CVE-2022-3166](https://github.com/Live-Hack-CVE/CVE-2022-3166)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3166">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3166">
 
 ---
+## CVE-2022-31649 (2022-06-09T04:15:00)
+> ownCloud owncloud/core before 10.10.0 Improperly Removes Sensitive Information Before Storage or Transfer.
+- [Live-Hack-CVE/CVE-2022-31649](https://github.com/Live-Hack-CVE/CVE-2022-31649)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31649">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31649">
+
+---
 ## CVE-2022-31629 (2022-09-28T23:15:00)
 > In PHP versions before 7.4.31, 8.0.24 and 8.1.11, the vulnerability enables network and same-site attackers to set a standard insecure cookie in the victim's browser which is treated as a `__Host-` or `__Secure-` cookie by PHP applications.
 - [silnex/CVE-2022-31629-poc](https://github.com/silnex/CVE-2022-31629-poc)	<img alt="forks" src="https://img.shields.io/github/forks/silnex/CVE-2022-31629-poc">	<img alt="stars" src="https://img.shields.io/github/stars/silnex/CVE-2022-31629-poc">
@@ -4762,6 +4827,11 @@
 - [Live-Hack-CVE/CVE-2022-3140](https://github.com/Live-Hack-CVE/CVE-2022-3140)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3140">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3140">
 - [IbrahimEkimIsik/CVE-2022-31403](https://github.com/IbrahimEkimIsik/CVE-2022-31403)	<img alt="forks" src="https://img.shields.io/github/forks/IbrahimEkimIsik/CVE-2022-31403">	<img alt="stars" src="https://img.shields.io/github/stars/IbrahimEkimIsik/CVE-2022-31403">
 - [YavuzSahbaz/CVE-2022-31402](https://github.com/YavuzSahbaz/CVE-2022-31402)	<img alt="forks" src="https://img.shields.io/github/forks/YavuzSahbaz/CVE-2022-31402">	<img alt="stars" src="https://img.shields.io/github/stars/YavuzSahbaz/CVE-2022-31402">
+
+---
+## CVE-2022-31325 (2022-06-08T16:15:00)
+> There is a SQL Injection vulnerability in ChurchCRM 4.4.5 via the 'PersonID' field in /churchcrm/WhyCameEditor.php.
+- [Live-Hack-CVE/CVE-2022-31325](https://github.com/Live-Hack-CVE/CVE-2022-31325)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31325">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31325">
 
 ---
 ## CVE-2022-31301 (2022-06-16T18:15:00)
@@ -4919,6 +4989,16 @@
 ## CVE-2022-3104 (2022-12-14T21:15:00)
 > An issue was discovered in the Linux kernel through 5.16-rc6. lkdtm_ARRAY_BOUNDS in drivers/misc/lkdtm/bugs.c lacks check of the return value of kmalloc() and will cause the null pointer dereference.
 - [Live-Hack-CVE/CVE-2022-3104](https://github.com/Live-Hack-CVE/CVE-2022-3104)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3104">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3104">
+
+---
+## CVE-2022-31033 (2022-06-09T20:15:00)
+> The Mechanize library is used for automating interaction with websites. Mechanize automatically stores and sends cookies, follows redirects, and can follow links and submit forms. In versions prior to 2.8.5 the Authorization header is leaked after a redirect to a different port on the same site. Users are advised to upgrade to Mechanize v2.8.5 or later. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-31033](https://github.com/Live-Hack-CVE/CVE-2022-31033)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31033">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31033">
+
+---
+## CVE-2022-31030 (2022-06-09T14:15:00)
+> containerd is an open source container runtime. A bug was found in the containerd's CRI implementation where programs inside a container can cause the containerd daemon to consume memory without bound during invocation of the `ExecSync` API. This can cause containerd to consume all available memory on the computer, denying service to other legitimate workloads. Kubernetes and crictl can both be configured to use containerd's CRI implementation; `ExecSync` may be used when running probes or when executing processes via an "exec" facility. This bug has been fixed in containerd 1.6.6 and 1.5.13. Users should update to these versions to resolve the issue. Users unable to upgrade should ensure that only trusted images and commands are used.
+- [Live-Hack-CVE/CVE-2022-31030](https://github.com/Live-Hack-CVE/CVE-2022-31030)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31030">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31030">
 
 ---
 ## CVE-2022-31007 (2022-05-31T20:15:00)
@@ -5360,6 +5440,11 @@
 ## CVE-2022-28805 (2022-04-08T06:15:00)
 > singlevar in lparser.c in Lua from (including) 5.4.0 up to (excluding) 5.4.4 lacks a certain luaK_exp2anyregup call, leading to a heap-based buffer over-read that might affect a system that compiles untrusted Lua code.
 - [Live-Hack-CVE/CVE-2022-28805](https://github.com/Live-Hack-CVE/CVE-2022-28805)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28805">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28805">
+
+---
+## CVE-2022-28738 (2022-05-09T18:15:00)
+> A double free was found in the Regexp compiler in Ruby 3.x before 3.0.4 and 3.1.x before 3.1.2. If a victim attempts to create a Regexp from untrusted user input, an attacker may be able to write to unexpected memory locations.
+- [Live-Hack-CVE/CVE-2022-28738](https://github.com/Live-Hack-CVE/CVE-2022-28738)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28738">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28738">
 
 ---
 ## CVE-2022-28672 (2022-07-18T19:15:00)
@@ -6447,6 +6532,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Mr-xn/CVE-2022-21371](https://github.com/Mr-xn/CVE-2022-21371)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2022-21371">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2022-21371">
 
 ---
+## CVE-2022-2129 (2022-06-19T19:15:00)
+> Out-of-bounds Write in GitHub repository vim/vim prior to 8.2.
+- [Live-Hack-CVE/CVE-2022-2129](https://github.com/Live-Hack-CVE/CVE-2022-2129)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2129">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2129">
+
+---
 ## CVE-2022-21225 (2022-08-18T20:15:00)
 > Improper neutralization in the Intel(R) Data Center Manager software before version 4.1 may allow an authenticated user to potentially enable escalation of privilege via adjacent access.
 - [Live-Hack-CVE/CVE-2022-21225](https://github.com/Live-Hack-CVE/CVE-2022-21225)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21225">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21225">
@@ -7051,6 +7141,21 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004">
 
 ---
+## CVE-2022-2000 (2022-06-09T16:15:00)
+> Out-of-bounds Write in GitHub repository vim/vim prior to 8.2.
+- [Live-Hack-CVE/CVE-2022-2000](https://github.com/Live-Hack-CVE/CVE-2022-2000)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2000">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2000">
+- [pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20007](https://github.com/pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20007)	<img alt="forks" src="https://img.shields.io/github/forks/pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20007">	<img alt="stars" src="https://img.shields.io/github/stars/pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20007">
+- [nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20007](https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20007)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20007">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20007">
+- [Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004">
+- [Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20005](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20005)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20005">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20005">
+- [Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20007](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20007)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20007">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20007">
+
+---
+## CVE-2022-1942 (2022-05-31T14:15:00)
+> Heap-based Buffer Overflow in GitHub repository vim/vim prior to 8.2.
+- [Live-Hack-CVE/CVE-2022-1942](https://github.com/Live-Hack-CVE/CVE-2022-1942)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1942">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1942">
+
+---
 ## CVE-2022-1941 (2022-09-22T15:15:00)
 > A parsing vulnerability for the MessageSet type in the ProtocolBuffers versions prior to and including 3.16.1, 3.17.3, 3.18.2, 3.19.4, 3.20.1 and 3.21.5 for protobuf-cpp, and versions prior to and including 3.16.1, 3.17.3, 3.18.2, 3.19.4, 3.20.1 and 4.21.5 for protobuf-python can lead to out of memory failures. A specially crafted message with multiple key-value per elements creates parsing issues, and can lead to a Denial of Service against services receiving unsanitized input. We recommend upgrading to versions 3.18.3, 3.19.5, 3.20.2, 3.21.6 for protobuf-cpp and 3.18.3, 3.19.5, 3.20.2, 4.21.6 for protobuf-python. Versions for 3.16 and 3.17 are no longer updated.
 - [Live-Hack-CVE/CVE-2022-1941](https://github.com/Live-Hack-CVE/CVE-2022-1941)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1941">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1941">
@@ -7085,6 +7190,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1664 (2022-05-26T14:15:00)
 > Dpkg::Source::Archive in dpkg, the Debian package management system, before version 1.21.8, 1.20.10, 1.19.8, 1.18.26 is prone to a directory traversal vulnerability. When extracting untrusted source packages in v2 and v3 source package formats that include a debian.tar, the in-place extraction can lead to directory traversal situations on specially crafted orig.tar and debian.tar tarballs.
 - [Live-Hack-CVE/CVE-2022-1664](https://github.com/Live-Hack-CVE/CVE-2022-1664)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1664">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1664">
+
+---
+## CVE-2022-1621 (2022-05-10T14:15:00)
+> Heap buffer overflow in vim_strncpy find_word in GitHub repository vim/vim prior to 8.2.4919. This vulnerability is capable of crashing software, Bypass Protection Mechanism, Modify Memory, and possible remote execution
+- [Live-Hack-CVE/CVE-2022-1621](https://github.com/Live-Hack-CVE/CVE-2022-1621)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1621">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1621">
 
 ---
 ## CVE-2022-1609 ()

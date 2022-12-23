@@ -308,6 +308,11 @@
 - [0xDeku/CVE-2021-42669](https://github.com/0xDeku/CVE-2021-42669)	<img alt="forks" src="https://img.shields.io/github/forks/0xDeku/CVE-2021-42669">	<img alt="stars" src="https://img.shields.io/github/stars/0xDeku/CVE-2021-42669">
 
 ---
+## CVE-2021-42646 (2022-05-11T18:15:00)
+> XML External Entity (XXE) vulnerability in the file based service provider creation feature of the Management Console in WSO2 API Manager 2.6.0, 3.0.0, 3.1.0, 3.2.0, and 4.0.0; and WSO2 IS as Key Manager 5.7.0, 5.9.0, and 5.10.0; and WSO2 Identity Server 5.7.0, 5.8.0, 5.9.0, 5.10.0, and 5.11.0. Allows attackers to gain read access to sensitive information or cause a denial of service via crafted GET requests.
+- [Live-Hack-CVE/CVE-2021-42646](https://github.com/Live-Hack-CVE/CVE-2021-42646)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42646">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42646">
+
+---
 ## CVE-2021-4257 (2022-12-18T22:15:00)
 > A vulnerability was found in ctrlo lenio. It has been declared as problematic. This vulnerability affects unknown code of the file views/task.tt of the component Task Handler. The manipulation of the argument site.org.name/check.name/task.tasktype.name/task.name leads to cross site scripting. The attack can be initiated remotely. The name of the patch is 698c5fa465169d6f23c6a41ca4b1fc9a7869013a. It is recommended to apply a patch to fix this issue. VDB-216214 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2021-4257](https://github.com/Live-Hack-CVE/CVE-2021-4257)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4257">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4257">
@@ -1001,6 +1006,11 @@
 - [TakenoSite/RemoteUploader-CVE-2021-36260](https://github.com/TakenoSite/RemoteUploader-CVE-2021-36260)	<img alt="forks" src="https://img.shields.io/github/forks/TakenoSite/RemoteUploader-CVE-2021-36260">	<img alt="stars" src="https://img.shields.io/github/stars/TakenoSite/RemoteUploader-CVE-2021-36260">
 
 ---
+## CVE-2021-3623 (2022-03-02T23:15:00)
+> A flaw was found in libtpms. The flaw can be triggered by specially-crafted TPM 2 command packets containing illegal values and may lead to an out-of-bounds access when the volatile state of the TPM 2 is marshalled/written or unmarshalled/read. The highest threat from this vulnerability is to system availability.
+- [Live-Hack-CVE/CVE-2021-3623](https://github.com/Live-Hack-CVE/CVE-2021-3623)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3623">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3623">
+
+---
 ## CVE-2021-3605 (2021-08-25T19:15:00)
 > There's a flaw in OpenEXR's rleUncompress functionality in versions prior to 3.0.5. An attacker who is able to submit a crafted file to an application linked with OpenEXR could cause an out-of-bounds read. The greatest risk from this flaw is to application availability.
 - [Live-Hack-CVE/CVE-2021-3605](https://github.com/Live-Hack-CVE/CVE-2021-3605)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3605">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3605">
@@ -1014,6 +1024,16 @@
 ## CVE-2021-35940 (2021-08-23T10:15:00)
 > An out-of-bounds array read in the apr_time_exp*() functions was fixed in the Apache Portable Runtime 1.6.3 release (CVE-2017-12613). The fix for this issue was not carried forward to the APR 1.7.x branch, and hence version 1.7.0 regressed compared to 1.6.3 and is vulnerable to the same issue.
 - [Live-Hack-CVE/CVE-2021-35940](https://github.com/Live-Hack-CVE/CVE-2021-35940)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35940">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35940">
+
+---
+## CVE-2021-35939 (2022-08-26T16:15:00)
+> It was found that the fix for CVE-2017-7500 and CVE-2017-7501 was incomplete: the check was only implemented for the parent directory of the file to be created. A local unprivileged user who owns another ancestor directory could potentially use this flaw to gain root privileges. The highest threat from this vulnerability is to data confidentiality and integrity as well as system availability.
+- [Live-Hack-CVE/CVE-2021-35939](https://github.com/Live-Hack-CVE/CVE-2021-35939)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35939">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35939">
+
+---
+## CVE-2021-35938 (2022-08-25T20:15:00)
+> A symbolic link issue was found in rpm. It occurs when rpm sets the desired permissions and credentials after installing a file. A local unprivileged user could use this flaw to exchange the original file with a symbolic link to a security-critical file and escalate their privileges on the system. The highest threat from this vulnerability is to data confidentiality and integrity as well as system availability.
+- [Live-Hack-CVE/CVE-2021-35938](https://github.com/Live-Hack-CVE/CVE-2021-35938)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35938">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35938">
 
 ---
 ## CVE-2021-3560 (2022-02-16T19:15:00)

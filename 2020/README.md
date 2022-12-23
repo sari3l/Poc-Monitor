@@ -342,6 +342,7 @@
 ## CVE-2020-5844 (2020-03-16T18:15:00)
 > index.php?sec=godmode/extensions&sec2=extensions/files_repo in Pandora FMS v7.0 NG allows authenticated administrators to upload malicious PHP scripts, and execute them via base64 decoding of the file location. This affects v7.0NG.742_FIX_PERL2020.
 - [UNICORDev/exploit-CVE-2020-5844](https://github.com/UNICORDev/exploit-CVE-2020-5844)	<img alt="forks" src="https://img.shields.io/github/forks/UNICORDev/exploit-CVE-2020-5844">	<img alt="stars" src="https://img.shields.io/github/stars/UNICORDev/exploit-CVE-2020-5844">
+- [Live-Hack-CVE/CVE-2020-5844](https://github.com/Live-Hack-CVE/CVE-2020-5844)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5844">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5844">
 
 ---
 ## CVE-2020-5752 (2020-05-21T15:15:00)
@@ -906,6 +907,11 @@
 ## CVE-2020-1034 (2020-09-11T17:15:00)
 > An elevation of privilege vulnerability exists in the way that the Windows Kernel handles objects in memory, aka 'Windows Kernel Elevation of Privilege Vulnerability'.
 - [GeorgyFirsov/CVE-2020-1034](https://github.com/GeorgyFirsov/CVE-2020-1034)	<img alt="forks" src="https://img.shields.io/github/forks/GeorgyFirsov/CVE-2020-1034">	<img alt="stars" src="https://img.shields.io/github/stars/GeorgyFirsov/CVE-2020-1034">
+
+---
+## CVE-2020-10232 (2020-03-09T00:15:00)
+> In version 4.8.0 and earlier of The Sleuth Kit (TSK), there is a stack buffer overflow vulnerability in the YAFFS file timestamp parsing logic in yaffsfs_istat() in fs/yaffs.c.
+- [Live-Hack-CVE/CVE-2020-10232](https://github.com/Live-Hack-CVE/CVE-2020-10232)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10232">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10232">
 
 ---
 ## CVE-2020-0796 (2020-03-12T16:15:00)

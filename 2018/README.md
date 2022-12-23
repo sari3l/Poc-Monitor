@@ -243,6 +243,11 @@
 - [ahaShiyu/CVE-2018-19854](https://github.com/ahaShiyu/CVE-2018-19854)	<img alt="forks" src="https://img.shields.io/github/forks/ahaShiyu/CVE-2018-19854">	<img alt="stars" src="https://img.shields.io/github/stars/ahaShiyu/CVE-2018-19854">
 
 ---
+## CVE-2018-19497 (2018-11-29T23:29:00)
+> In The Sleuth Kit (TSK) through 4.6.4, hfs_cat_traverse in tsk/fs/hfs.c does not properly determine when a key length is too large, which allows attackers to cause a denial of service (SEGV on unknown address with READ memory access in a tsk_getu16 call in hfs_dir_open_meta_cb in tsk/fs/hfs_dent.c).
+- [Live-Hack-CVE/CVE-2018-19497](https://github.com/Live-Hack-CVE/CVE-2018-19497)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-19497">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-19497">
+
+---
 ## CVE-2018-1932 (2019-01-08T16:29:00)
 > IBM API Connect 5.0.0.0 through 5.0.8.4 is affected by a vulnerability in the role-based access control in the management server that could allow an authenticated user to obtain highly sensitive information. IBM X-Force ID: 153175.
 - [BKreisel/CVE-2018-1932X](https://github.com/BKreisel/CVE-2018-1932X)	<img alt="forks" src="https://img.shields.io/github/forks/BKreisel/CVE-2018-1932X">	<img alt="stars" src="https://img.shields.io/github/stars/BKreisel/CVE-2018-1932X">
@@ -418,6 +423,11 @@
 - [Kiss-sh0t/CVE-2018-11235-poc](https://github.com/Kiss-sh0t/CVE-2018-11235-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Kiss-sh0t/CVE-2018-11235-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Kiss-sh0t/CVE-2018-11235-poc">
 - [Choihosu/cve-2018-11235](https://github.com/Choihosu/cve-2018-11235)	<img alt="forks" src="https://img.shields.io/github/forks/Choihosu/cve-2018-11235">	<img alt="stars" src="https://img.shields.io/github/stars/Choihosu/cve-2018-11235">
 - [vmotos/CVE-2018-11235](https://github.com/vmotos/CVE-2018-11235)	<img alt="forks" src="https://img.shields.io/github/forks/vmotos/CVE-2018-11235">	<img alt="stars" src="https://img.shields.io/github/stars/vmotos/CVE-2018-11235">
+
+---
+## CVE-2018-1108 (2018-05-21T21:29:00)
+> kernel drivers before version 4.17-rc1 are vulnerable to a weakness in the Linux kernel's implementation of random seed data. Programs, early in the boot sequence, could use the data allocated for the seed before it was sufficiently generated.
+- [Live-Hack-CVE/CVE-2018-1108](https://github.com/Live-Hack-CVE/CVE-2018-1108)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-1108">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-1108">
 
 ---
 ## CVE-2018-10933 (2018-10-17T12:29:00)
