@@ -862,6 +862,11 @@
 - [alfarom256/CVE-2022-45451](https://github.com/alfarom256/CVE-2022-45451)	<img alt="forks" src="https://img.shields.io/github/forks/alfarom256/CVE-2022-45451">	<img alt="stars" src="https://img.shields.io/github/stars/alfarom256/CVE-2022-45451">
 
 ---
+## CVE-2022-45381 (2022-11-15T20:15:00)
+> Jenkins Pipeline Utility Steps Plugin 2.13.1 and earlier does not restrict the set of enabled prefix interpolators and bundles versions of Apache Commons Configuration library that enable the 'file:' prefix interpolator by default, allowing attackers able to configure Pipelines to read arbitrary files from the Jenkins controller file system.
+- [Live-Hack-CVE/CVE-2022-45381](https://github.com/Live-Hack-CVE/CVE-2022-45381)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45381">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45381">
+
+---
 ## CVE-2022-45347 (2022-12-22T11:15:00)
 > Apache ShardingSphere-Proxy prior to 5.3.0 when using MySQL as database backend didn't cleanup the database session completely after client authentication failed, which allowed an attacker to execute normal commands by constructing a special MySQL client. This vulnerability has been fixed in Apache ShardingSphere 5.3.0.
 - [Live-Hack-CVE/CVE-2022-45347](https://github.com/Live-Hack-CVE/CVE-2022-45347)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45347">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45347">
@@ -1322,6 +1327,11 @@
 ## CVE-2022-44030 (2022-12-06T23:15:00)
 > Redmine 5.x before 5.0.4 allows downloading of file attachments of any Issue or any Wiki page due to insufficient permission checks. Depending on the configuration, this may require login as a registered user.
 - [Live-Hack-CVE/CVE-2022-44030](https://github.com/Live-Hack-CVE/CVE-2022-44030)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44030">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44030">
+
+---
+## CVE-2022-44020 (2022-10-30T00:15:00)
+> An issue was discovered in OpenStack Sushy-Tools through 0.21.0 and VirtualBMC through 2.2.2. Changing the boot device configuration with these packages removes password protection from the managed libvirt XML domain. NOTE: this only affects an "unsupported, production-like configuration."
+- [Live-Hack-CVE/CVE-2022-44020](https://github.com/Live-Hack-CVE/CVE-2022-44020)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44020">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44020">
 
 ---
 ## CVE-2022-44009 (2022-12-06T00:15:00)
@@ -2658,6 +2668,11 @@
 - [Live-Hack-CVE/CVE-2022-41271](https://github.com/Live-Hack-CVE/CVE-2022-41271)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41271">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41271">
 
 ---
+## CVE-2022-41235 (2022-09-21T16:15:00)
+> Jenkins WildFly Deployer Plugin 1.0.2 and earlier implements functionality that allows agent processes to read arbitrary files on the Jenkins controller file system.
+- [Live-Hack-CVE/CVE-2022-41235](https://github.com/Live-Hack-CVE/CVE-2022-41235)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41235">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41235">
+
+---
 ## CVE-2022-41218 (2022-09-21T07:15:00)
 > In drivers/media/dvb-core/dmxdev.c in the Linux kernel through 5.19.10, there is a use-after-free caused by refcount races, affecting dvb_demux_open and dvb_dmxdev_release.
 - [V4bel/CVE-2022-41218](https://github.com/V4bel/CVE-2022-41218)	<img alt="forks" src="https://img.shields.io/github/forks/V4bel/CVE-2022-41218">	<img alt="stars" src="https://img.shields.io/github/stars/V4bel/CVE-2022-41218">
@@ -2753,6 +2768,11 @@
 ## CVE-2022-41074 (2022-12-13T19:15:00)
 > Windows Graphics Component Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-44679.
 - [Live-Hack-CVE/CVE-2022-41074](https://github.com/Live-Hack-CVE/CVE-2022-41074)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41074">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41074">
+
+---
+## CVE-2022-41064 (2022-11-09T22:15:00)
+> .NET Framework Information Disclosure Vulnerability.
+- [Live-Hack-CVE/CVE-2022-41064](https://github.com/Live-Hack-CVE/CVE-2022-41064)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41064">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41064">
 
 ---
 ## CVE-2022-41057 (2022-11-09T22:15:00)
@@ -2901,6 +2921,30 @@
 - [Live-Hack-CVE/CVE-2022-40680](https://github.com/Live-Hack-CVE/CVE-2022-40680)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40680">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40680">
 
 ---
+## CVE-2022-4068 (2022-11-20T05:15:00)
+> A user is able to enable their own account if it was disabled by an admin while the user still holds a valid session. Moreover, the username is not properly sanitized in the admin user overview. This enables an XSS attack that enables an attacker with a low privilege user to execute arbitrary JavaScript in the context of an admin's account.
+- [Live-Hack-CVE/CVE-2022-4068](https://github.com/Live-Hack-CVE/CVE-2022-4068)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4068">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4068">
+- [Live-Hack-CVE/CVE-2022-40680](https://github.com/Live-Hack-CVE/CVE-2022-40680)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40680">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40680">
+- [williamkhepri/CVE-2022-40687-metasploit-scanner](https://github.com/williamkhepri/CVE-2022-40687-metasploit-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/williamkhepri/CVE-2022-40687-metasploit-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/williamkhepri/CVE-2022-40687-metasploit-scanner">
+- [hughink/CVE-2022-40684](https://github.com/hughink/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/hughink/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/hughink/CVE-2022-40684">
+- [TaroballzChen/CVE-2022-40684-metasploit-scanner](https://github.com/TaroballzChen/CVE-2022-40684-metasploit-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/TaroballzChen/CVE-2022-40684-metasploit-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/TaroballzChen/CVE-2022-40684-metasploit-scanner">
+- [qingsiweisan/CVE-2022-40684](https://github.com/qingsiweisan/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/qingsiweisan/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/qingsiweisan/CVE-2022-40684">
+- [und3sc0n0c1d0/CVE-2022-40684](https://github.com/und3sc0n0c1d0/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/und3sc0n0c1d0/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/und3sc0n0c1d0/CVE-2022-40684">
+- [Bendalledj/CVE-2022-40684](https://github.com/Bendalledj/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/Bendalledj/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/Bendalledj/CVE-2022-40684">
+- [Chocapikk/CVE-2022-40684](https://github.com/Chocapikk/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2022-40684">
+- [iveresk/CVE-2022-40684](https://github.com/iveresk/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/iveresk/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/iveresk/CVE-2022-40684">
+- [jsongmax/Fortinet-CVE-2022-40684](https://github.com/jsongmax/Fortinet-CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/jsongmax/Fortinet-CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/jsongmax/Fortinet-CVE-2022-40684">
+- [puckiestyle/CVE-2022-40684](https://github.com/puckiestyle/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/puckiestyle/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/puckiestyle/CVE-2022-40684">
+- [NeriaBasha/CVE-2022-40684](https://github.com/NeriaBasha/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/NeriaBasha/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/NeriaBasha/CVE-2022-40684">
+- [mohamedbenchikh/CVE-2022-40684](https://github.com/mohamedbenchikh/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/mohamedbenchikh/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/mohamedbenchikh/CVE-2022-40684">
+- [ClickCyber/cve-2022-40684](https://github.com/ClickCyber/cve-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/ClickCyber/cve-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/ClickCyber/cve-2022-40684">
+- [secunnix/CVE-2022-40684](https://github.com/secunnix/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/secunnix/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/secunnix/CVE-2022-40684">
+- [mhd108/CVE-2022-40684](https://github.com/mhd108/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/mhd108/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/mhd108/CVE-2022-40684">
+- [kljunowsky/CVE-2022-40684-POC](https://github.com/kljunowsky/CVE-2022-40684-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kljunowsky/CVE-2022-40684-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kljunowsky/CVE-2022-40684-POC">
+- [carlosevieira/CVE-2022-40684](https://github.com/carlosevieira/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/carlosevieira/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/carlosevieira/CVE-2022-40684">
+- [horizon3ai/CVE-2022-40684](https://github.com/horizon3ai/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2022-40684">
+
+---
 ## CVE-2022-40674 (2022-09-14T11:15:00)
 > libexpat before 2.4.9 has a use-after-free in the doContent function in xmlparse.c.
 - [nidhi7598/expat_2.1.0_CVE-2022-40674](https://github.com/nidhi7598/expat_2.1.0_CVE-2022-40674)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/expat_2.1.0_CVE-2022-40674">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/expat_2.1.0_CVE-2022-40674">
@@ -3005,6 +3049,11 @@
 ## CVE-2022-40204 (2022-12-01T00:15:00)
 > A cross-site scripting (XSS) vulnerability exists in all current versions of Digital Alert Systems DASDEC software via the Host Header in undisclosed pages after login.
 - [Live-Hack-CVE/CVE-2022-40204](https://github.com/Live-Hack-CVE/CVE-2022-40204)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40204">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40204">
+
+---
+## CVE-2022-40189 (2022-11-22T10:15:00)
+> Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') vulnerability in Apache Airflow Pig Provider, Apache Airflow allows an attacker to control commands executed in the task execution context, without write access to DAG files. This issue affects Pig Provider versions prior to 4.0.0. It also impacts any Apache Airflow versions prior to 2.3.0 in case Pig Provider is installed (Pig Provider 4.0.0 can only be installed for Airflow 2.3.0+). Note that you need to manually install the Pig Provider version 4.0.0 in order to get rid of the vulnerability on top of Airflow 2.3.0+ version.
+- [Live-Hack-CVE/CVE-2022-40189](https://github.com/Live-Hack-CVE/CVE-2022-40189)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40189">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40189">
 
 ---
 ## CVE-2022-4016 (2022-12-12T18:15:00)
@@ -3180,6 +3229,11 @@
 ## CVE-2022-39273 (2022-10-06T18:16:00)
 > FlyteAdmin is the control plane for the data processing platform Flyte. Users who enable the default Flyte’s authorization server without changing the default clientid hashes will be exposed to the public internet. In an effort to make enabling authentication easier for Flyte administrators, the default configuration for Flyte Admin allows access for Flyte Propeller even after turning on authentication via a hardcoded hashed password. This password is also set on the default Flyte Propeller configmap in the various Flyte Helm charts. Users who enable auth but do not override this setting in Flyte Admin’s configuration may unbeknownst to them be allowing public traffic in by way of this default password with attackers effectively impersonating propeller. This only applies to users who have not specified the ExternalAuthorizationServer setting. Usage of an external auth server automatically turns off this default configuration and are not susceptible to this vulnerability. This issue has been addressed in version 1.1.44. Users should manually set the staticClients in the selfAuthServer section of their configuration if they intend to rely on Admin’s internal auth server. Again, users who use an external auth server are automatically protected from this vulnerability.
 - [Live-Hack-CVE/CVE-2022-39273](https://github.com/Live-Hack-CVE/CVE-2022-39273)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39273">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39273">
+
+---
+## CVE-2022-39264 (2022-09-28T22:15:00)
+> nheko is a desktop client for the Matrix communication application. All versions below 0.10.2 are vulnerable homeservers inserting malicious secrets, which could lead to man-in-the-middle attacks. Users can upgrade to version 0.10.2 to protect against this issue. As a workaround, one may apply the patch manually, avoid doing verifications of one's own devices, and/or avoid pressing the request button in the settings menu.
+- [Live-Hack-CVE/CVE-2022-39264](https://github.com/Live-Hack-CVE/CVE-2022-39264)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39264">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39264">
 
 ---
 ## CVE-2022-39260 (2022-10-19T12:15:00)
@@ -3426,6 +3480,11 @@
 - [Live-Hack-CVE/CVE-2022-38655](https://github.com/Live-Hack-CVE/CVE-2022-38655)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38655">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38655">
 
 ---
+## CVE-2022-38649 (2022-11-22T10:15:00)
+> Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') vulnerability in Apache Airflow Pinot Provider, Apache Airflow allows an attacker to control commands executed in the task execution context, without write access to DAG files. This issue affects Apache Airflow Pinot Provider versions prior to 4.0.0. It also impacts any Apache Airflow versions prior to 2.3.0 in case Apache Airflow Pinot Provider is installed (Apache Airflow Pinot Provider 4.0.0 can only be installed for Airflow 2.3.0+). Note that you need to manually install the Pinot Provider version 4.0.0 in order to get rid of the vulnerability on top of Airflow 2.3.0+ version.
+- [Live-Hack-CVE/CVE-2022-38649](https://github.com/Live-Hack-CVE/CVE-2022-38649)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38649">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38649">
+
+---
 ## CVE-2022-3861 (2022-11-21T13:15:00)
 > The Betheme theme for WordPress is vulnerable to PHP Object Injection in versions up to, and including, 26.5.1.4 via deserialization of untrusted input supplied via the import, mfn-items-import-page, and mfn-items-import parameters passed through the mfn_builder_import, mfn_builder_import_page, importdata, importsinglepage, and importfromclipboard functions. This makes it possible for authenticated attackers, with contributor level permissions and above to inject a PHP Object. The additional presence of a POP chain would make it possible for attackers to execute code, retrieve sensitive data, delete files, etc..
 - [Live-Hack-CVE/CVE-2022-3861](https://github.com/Live-Hack-CVE/CVE-2022-3861)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3861">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3861">
@@ -3530,6 +3589,11 @@
 > SPNEGO Extended Negotiation (NEGOEX) Security Mechanism Information Disclosure Vulnerability.
 - [RCEman01/CVE-2022-37958-Windows-Server-RCE](https://github.com/RCEman01/CVE-2022-37958-Windows-Server-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/RCEman01/CVE-2022-37958-Windows-Server-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/RCEman01/CVE-2022-37958-Windows-Server-RCE">
 - [4TT4CIc/CVE-2022-37958-D](https://github.com/4TT4CIc/CVE-2022-37958-D)	<img alt="forks" src="https://img.shields.io/github/forks/4TT4CIc/CVE-2022-37958-D">	<img alt="stars" src="https://img.shields.io/github/stars/4TT4CIc/CVE-2022-37958-D">
+
+---
+## CVE-2022-37931 (2022-11-22T05:15:00)
+> A vulnerability in NetBatch-Plus software allows unauthorized access to the application. HPE has provided a workaround and fix. Please refer to HPE Security Bulletin HPESBNS04388 for details.
+- [Live-Hack-CVE/CVE-2022-37931](https://github.com/Live-Hack-CVE/CVE-2022-37931)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37931">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37931">
 
 ---
 ## CVE-2022-37928 (2022-12-12T13:15:00)
@@ -3652,6 +3716,11 @@
 - [Live-Hack-CVE/CVE-2022-37392](https://github.com/Live-Hack-CVE/CVE-2022-37392)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37392">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37392">
 
 ---
+## CVE-2022-3734 (2022-10-28T08:15:00)
+> ** DISPUTED ** A vulnerability was found in a port or fork of Redis. It has been declared as critical. This vulnerability affects unknown code in the library C:/Program Files/Redis/dbghelp.dll. The manipulation leads to uncontrolled search path. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The real existence of this vulnerability is still doubted at the moment. The identifier of this vulnerability is VDB-212416. NOTE: The official Redis release is not affected. This issue might affect an unofficial fork or port on Windows only.
+- [Live-Hack-CVE/CVE-2022-3734](https://github.com/Live-Hack-CVE/CVE-2022-3734)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3734">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3734">
+
+---
 ## CVE-2022-37298 (2022-10-20T11:15:00)
 > Shinken Solutions Shinken Monitoring Version 2.4.3 affected is vulnerable to Incorrect Access Control. The SafeUnpickler class found in shinken/safepickle.py implements a weak authentication scheme when unserializing objects passed from monitoring nodes to the Shinken monitoring server.
 - [dbyio/cve-2022-37298](https://github.com/dbyio/cve-2022-37298)	<img alt="forks" src="https://img.shields.io/github/forks/dbyio/cve-2022-37298">	<img alt="stars" src="https://img.shields.io/github/stars/dbyio/cve-2022-37298">
@@ -3710,6 +3779,11 @@
 ## CVE-2022-37201 (2022-09-15T16:15:00)
 > JFinal CMS 5.1.0 is vulnerable to SQL Injection.
 - [AgainstTheLight/CVE-2022-37201](https://github.com/AgainstTheLight/CVE-2022-37201)	<img alt="forks" src="https://img.shields.io/github/forks/AgainstTheLight/CVE-2022-37201">	<img alt="stars" src="https://img.shields.io/github/stars/AgainstTheLight/CVE-2022-37201">
+
+---
+## CVE-2022-37197 (2022-11-18T21:15:00)
+> IOBit IOTransfer V4 is vulnerable to Unquoted Service Path.
+- [Live-Hack-CVE/CVE-2022-37197](https://github.com/Live-Hack-CVE/CVE-2022-37197)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37197">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37197">
 
 ---
 ## CVE-2022-37177 (2022-08-29T21:15:00)
@@ -4609,6 +4683,21 @@
 - [Live-Hack-CVE/CVE-2022-32221](https://github.com/Live-Hack-CVE/CVE-2022-32221)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32221">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32221">
 
 ---
+## CVE-2022-32215 (2022-07-14T15:15:00)
+> The llhttp parser <v14.20.1, <v16.17.1 and <v18.9.1 in the http module in Node.js does not correctly handle multi-line Transfer-Encoding headers. This can lead to HTTP Request Smuggling (HRS).
+- [Live-Hack-CVE/CVE-2022-32215](https://github.com/Live-Hack-CVE/CVE-2022-32215)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32215">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32215">
+
+---
+## CVE-2022-32213 (2022-07-14T15:15:00)
+> The llhttp parser <v14.20.1, <v16.17.1 and <v18.9.1 in the http module in Node.js does not correctly parse and validate Transfer-Encoding headers and can lead to HTTP Request Smuggling (HRS).
+- [Live-Hack-CVE/CVE-2022-32213](https://github.com/Live-Hack-CVE/CVE-2022-32213)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32213">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32213">
+
+---
+## CVE-2022-32212 (2022-07-14T15:15:00)
+> A OS Command Injection vulnerability exists in Node.js versions <14.20.0, <16.16.0, <18.5.0 due to an insufficient IsAllowedHost check that can easily be bypassed because IsIPAddress does not properly check if an IP address is invalid before making DBS requests allowing rebinding attacks.
+- [Live-Hack-CVE/CVE-2022-32212](https://github.com/Live-Hack-CVE/CVE-2022-32212)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32212">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32212">
+
+---
 ## CVE-2022-32119 (2022-07-15T12:15:00)
 > Arox School ERP Pro v1.0 was discovered to contain multiple arbitrary file upload vulnerabilities via the Add Photo function at photogalleries.inc.php and the import staff excel function at 1finance_master.inc.php.
 - [JC175/CVE-2022-32119](https://github.com/JC175/CVE-2022-32119)	<img alt="forks" src="https://img.shields.io/github/forks/JC175/CVE-2022-32119">	<img alt="stars" src="https://img.shields.io/github/stars/JC175/CVE-2022-32119">
@@ -5011,6 +5100,11 @@
 - [Live-Hack-CVE/CVE-2022-3099](https://github.com/Live-Hack-CVE/CVE-2022-3099)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3099">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3099">
 
 ---
+## CVE-2022-3097 (2022-10-25T17:15:00)
+> The Plugin LBstopattack WordPress plugin before 1.1.3 does not use nonces when saving its settings, making it possible for attackers to conduct CSRF attacks. This could allow attackers to disable the plugin's protections.
+- [Live-Hack-CVE/CVE-2022-3097](https://github.com/Live-Hack-CVE/CVE-2022-3097)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3097">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3097">
+
+---
 ## CVE-2022-30944 (2022-08-18T21:15:00)
 > Insufficiently protected credentials for Intel(R) AMT and Intel(R) Standard Manageability may allow a privileged user to potentially enable information disclosure via local access.
 - [Live-Hack-CVE/CVE-2022-30944](https://github.com/Live-Hack-CVE/CVE-2022-30944)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30944">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30944">
@@ -5391,6 +5485,16 @@
 - [Chocapikk/CVE-2022-29303](https://github.com/Chocapikk/CVE-2022-29303)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2022-29303">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2022-29303">
 
 ---
+## CVE-2022-29278 (2022-11-15T22:15:00)
+> Incorrect pointer checks within the NvmExpressDxe driver can allow tampering with SMRAM and OS memory Incorrect pointer checks within the NvmExpressDxe driver can allow tampering with SMRAM and OS memory. This issue was discovered by Insyde during security review. Fixed in: Kernel 5.1: Version 05.17.23 Kernel 5.2: Version 05.27.23 Kernel 5.3: Version 05.36.23 Kernel 5.4: Version 05.44.23 Kernel 5.5: Version 05.52.23 https://www.insyde.com/security-pledge/SA-2022061
+- [Live-Hack-CVE/CVE-2022-29278](https://github.com/Live-Hack-CVE/CVE-2022-29278)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29278">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29278">
+
+---
+## CVE-2022-29276 (2022-11-15T22:15:00)
+> SMI functions in AhciBusDxe use untrusted inputs leading to corruption of SMRAM. SMI functions in AhciBusDxe use untrusted inputs leading to corruption of SMRAM. This issue was discovered by Insyde during security review. It was fixed in: Kernel 5.0: version 05.09.18 Kernel 5.1: version 05.17.18 Kernel 5.2: version 05.27.18 Kernel 5.3: version 05.36.18 Kernel 5.4: version 05.44.18 Kernel 5.5: version 05.52.18 https://www.insyde.com/security-pledge/SA-2022059
+- [Live-Hack-CVE/CVE-2022-29276](https://github.com/Live-Hack-CVE/CVE-2022-29276)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29276">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29276">
+
+---
 ## CVE-2022-29248 (2022-05-25T18:15:00)
 > Guzzle is a PHP HTTP client. Guzzle prior to versions 6.5.6 and 7.4.3 contains a vulnerability with the cookie middleware. The vulnerability is that it is not checked if the cookie domain equals the domain of the server which sets the cookie via the Set-Cookie header, allowing a malicious server to set cookies for unrelated domains. The cookie middleware is disabled by default, so most library consumers will not be affected by this issue. Only those who manually add the cookie middleware to the handler stack or construct the client with ['cookies' => true] are affected. Moreover, those who do not use the same Guzzle client to call multiple domains and have disabled redirect forwarding are not affected by this vulnerability. Guzzle versions 6.5.6 and 7.4.3 contain a patch for this issue. As a workaround, turn off the cookie middleware.
 - [Live-Hack-CVE/CVE-2022-29248](https://github.com/Live-Hack-CVE/CVE-2022-29248)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29248">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29248">
@@ -5558,6 +5662,11 @@
 > In Realtek eCos RSDK 1.5.7p1 and MSDK 4.9.4p1, the SIP ALG function that rewrites SDP data has a stack-based buffer overflow. This allows an attacker to remotely execute code without authentication via a crafted SIP packet that contains malicious SDP data.
 - [infobyte/cve-2022-27255](https://github.com/infobyte/cve-2022-27255)	<img alt="forks" src="https://img.shields.io/github/forks/infobyte/cve-2022-27255">	<img alt="stars" src="https://img.shields.io/github/stars/infobyte/cve-2022-27255">
 - [stryker-project/CVE-2022-27255-checker](https://github.com/stryker-project/CVE-2022-27255-checker)	<img alt="forks" src="https://img.shields.io/github/forks/stryker-project/CVE-2022-27255-checker">	<img alt="stars" src="https://img.shields.io/github/stars/stryker-project/CVE-2022-27255-checker">
+
+---
+## CVE-2022-27201 (2022-03-15T17:15:00)
+> Jenkins Semantic Versioning Plugin 1.13 and earlier does not restrict execution of an controller/agent message to agents, and implements no limitations about the file path that can be parsed, allowing attackers able to control agent processes to have Jenkins parse a crafted file that uses external entities for extraction of secrets from the Jenkins controller or server-side request forgery.
+- [Live-Hack-CVE/CVE-2022-27201](https://github.com/Live-Hack-CVE/CVE-2022-27201)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27201">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27201">
 
 ---
 ## CVE-2022-26937 (2022-05-10T21:15:00)
@@ -5915,6 +6024,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-24728 (2022-03-16T16:15:00)
 > CKEditor4 is an open source what-you-see-is-what-you-get HTML editor. A vulnerability has been discovered in the core HTML processing module and may affect all plugins used by CKEditor 4 prior to version 4.18.0. The vulnerability allows someone to inject malformed HTML bypassing content sanitization, which could result in executing JavaScript code. This problem has been patched in version 4.18.0. There are currently no known workarounds.
 - [Live-Hack-CVE/CVE-2022-24728](https://github.com/Live-Hack-CVE/CVE-2022-24728)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24728">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24728">
+
+---
+## CVE-2022-24723 (2022-03-03T21:15:00)
+> URI.js is a Javascript URL mutation library. Before version 1.19.9, whitespace characters are not removed from the beginning of the protocol, so URLs are not parsed properly. This issue has been patched in version 1.19.9. Removing leading whitespace from values before passing them to URI.parse can be used as a workaround.
+- [Live-Hack-CVE/CVE-2022-24723](https://github.com/Live-Hack-CVE/CVE-2022-24723)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24723">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24723">
 
 ---
 ## CVE-2022-24706 (2022-04-26T10:15:00)
@@ -6545,6 +6659,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-21126 (2022-11-29T17:15:00)
 > The package com.github.samtools:htsjdk before 3.0.1 are vulnerable to Creation of Temporary File in Directory with Insecure Permissions due to the createTempDir() function in util/IOUtil.java not checking for the existence of the temporary directory before attempting to create it.
 - [Live-Hack-CVE/CVE-2022-21126](https://github.com/Live-Hack-CVE/CVE-2022-21126)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21126">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21126">
+
+---
+## CVE-2022-20934 (2022-11-15T21:15:00)
+> A vulnerability in the CLI of Cisco Firepower Threat Defense (FTD) Software and Cisco FXOS Software could allow an authenticated, local attacker to execute arbitrary commands on the underlying operating system as root. This vulnerability is due to improper input validation for specific CLI commands. An attacker could exploit this vulnerability by injecting operating system commands into a legitimate command. A successful exploit could allow the attacker to escape the restricted command prompt and execute arbitrary commands on the underlying operating system. To successfully exploit this vulnerability, an attacker would need valid Administrator credentials.
+- [Live-Hack-CVE/CVE-2022-20934](https://github.com/Live-Hack-CVE/CVE-2022-20934)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20934">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20934">
 
 ---
 ## CVE-2022-20866 (2022-08-10T17:15:00)
@@ -7284,6 +7403,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292](https://github.com/nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292">
 - [greek0x0/CVE-2022-1292](https://github.com/greek0x0/CVE-2022-1292)	<img alt="forks" src="https://img.shields.io/github/forks/greek0x0/CVE-2022-1292">	<img alt="stars" src="https://img.shields.io/github/stars/greek0x0/CVE-2022-1292">
 - [und3sc0n0c1d0/CVE-2022-1292](https://github.com/und3sc0n0c1d0/CVE-2022-1292)	<img alt="forks" src="https://img.shields.io/github/forks/und3sc0n0c1d0/CVE-2022-1292">	<img alt="stars" src="https://img.shields.io/github/stars/und3sc0n0c1d0/CVE-2022-1292">
+
+---
+## CVE-2022-1233 (2022-04-04T20:15:00)
+> URL Confusion When Scheme Not Supplied in GitHub repository medialize/uri.js prior to 1.19.11.
+- [Live-Hack-CVE/CVE-2022-1233](https://github.com/Live-Hack-CVE/CVE-2022-1233)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1233">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1233">
 
 ---
 ## CVE-2022-1195 (2022-04-29T16:15:00)

@@ -1454,6 +1454,11 @@
 - [dorkerdevil/CVE-2021-27850_POC](https://github.com/dorkerdevil/CVE-2021-27850_POC)	<img alt="forks" src="https://img.shields.io/github/forks/dorkerdevil/CVE-2021-27850_POC">	<img alt="stars" src="https://img.shields.io/github/stars/dorkerdevil/CVE-2021-27850_POC">
 
 ---
+## CVE-2021-27516 (2021-02-22T00:15:00)
+> URI.js (aka urijs) before 1.19.6 mishandles certain uses of backslash such as http:\/ and interprets the URI as a relative path.
+- [Live-Hack-CVE/CVE-2021-27516](https://github.com/Live-Hack-CVE/CVE-2021-27516)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27516">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27516">
+
+---
 ## CVE-2021-27343 (2021-04-06T13:15:00)
 > SerenityOS Unspecified is affected by: Buffer Overflow. The impact is: obtain sensitive information (context-dependent). The component is: /Userland/Libraries/LibCrypto/ASN1/DER.h Crypto::der_decode_sequence() function. The attack vector is: Parsing RSA Key ASN.1.
 - [Live-Hack-CVE/CVE-2021-27343](https://github.com/Live-Hack-CVE/CVE-2021-27343)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27343">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27343">

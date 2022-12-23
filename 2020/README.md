@@ -350,6 +350,11 @@
 - [yevh/CVE-2020-5752-Druva-inSync-Windows-Client-6.6.3---Local-Privilege-Escalation-PowerShell-](https://github.com/yevh/CVE-2020-5752-Druva-inSync-Windows-Client-6.6.3---Local-Privilege-Escalation-PowerShell-)	<img alt="forks" src="https://img.shields.io/github/forks/yevh/CVE-2020-5752-Druva-inSync-Windows-Client-6.6.3---Local-Privilege-Escalation-PowerShell-">	<img alt="stars" src="https://img.shields.io/github/stars/yevh/CVE-2020-5752-Druva-inSync-Windows-Client-6.6.3---Local-Privilege-Escalation-PowerShell-">
 
 ---
+## CVE-2020-5517 (2020-05-05T18:15:00)
+> CSRF in the /login URI in BlueOnyx 5209R allows an attacker to access the dashboard and perform scraping or other analysis.
+- [Live-Hack-CVE/CVE-2020-5517](https://github.com/Live-Hack-CVE/CVE-2020-5517)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5517">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5517">
+
+---
 ## CVE-2020-5398 (2020-01-17T00:15:00)
 > In Spring Framework, versions 5.2.x prior to 5.2.3, versions 5.1.x prior to 5.1.13, and versions 5.0.x prior to 5.0.16, an application is vulnerable to a reflected file download (RFD) attack when it sets a "Content-Disposition" header in the response where the filename attribute is derived from user supplied input.
 - [motikan2010/CVE-2020-5398](https://github.com/motikan2010/CVE-2020-5398)	<img alt="forks" src="https://img.shields.io/github/forks/motikan2010/CVE-2020-5398">	<img alt="stars" src="https://img.shields.io/github/stars/motikan2010/CVE-2020-5398">
@@ -445,6 +450,26 @@
 > A remote code execution vulnerability in the installUpdateThemePluginAction function in index.php in WonderCMS 3.1.3, allows remote attackers to upload a custom plugin which can contain arbitrary code and obtain a webshell via the theme/plugin installer.
 - [AkashLingayat/WonderCMS-CVE-2020-35314](https://github.com/AkashLingayat/WonderCMS-CVE-2020-35314)	<img alt="forks" src="https://img.shields.io/github/forks/AkashLingayat/WonderCMS-CVE-2020-35314">	<img alt="stars" src="https://img.shields.io/github/stars/AkashLingayat/WonderCMS-CVE-2020-35314">
 - [ybdegit2020/wonderplugin](https://github.com/ybdegit2020/wonderplugin)	<img alt="forks" src="https://img.shields.io/github/forks/ybdegit2020/wonderplugin">	<img alt="stars" src="https://img.shields.io/github/stars/ybdegit2020/wonderplugin">
+
+---
+## CVE-2020-35163 (2022-07-11T20:15:00)
+> Dell BSAFE Crypto-C Micro Edition, versions before 4.1.5, and Dell BSAFE Micro Edition Suite, versions before 4.6, contain a Use of Insufficiently Random Values Vulnerability.
+- [Live-Hack-CVE/CVE-2020-35163](https://github.com/Live-Hack-CVE/CVE-2020-35163)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35163">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35163">
+
+---
+## CVE-2020-29508 (2022-07-11T20:15:00)
+> Dell BSAFE Crypto-C Micro Edition, versions before 4.1.5, and Dell BSAFE Micro Edition Suite, versions before 4.6, contain an Improper Input Validation Vulnerability.
+- [Live-Hack-CVE/CVE-2020-29508](https://github.com/Live-Hack-CVE/CVE-2020-29508)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-29508">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-29508">
+
+---
+## CVE-2020-29507 (2022-07-11T20:15:00)
+> Dell BSAFE Crypto-C Micro Edition, versions before 4.1.4, and Dell BSAFE Micro Edition Suite, versions before 4.4, contain an Improper Input Validation Vulnerability.
+- [Live-Hack-CVE/CVE-2020-29507](https://github.com/Live-Hack-CVE/CVE-2020-29507)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-29507">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-29507">
+
+---
+## CVE-2020-29506 (2022-07-11T20:15:00)
+> Dell BSAFE Crypto-C Micro Edition, versions before 4.1.5, and Dell BSAFE Micro Edition Suite, versions before 4.5.2, contain an Observable Timing Discrepancy Vulnerability.
+- [Live-Hack-CVE/CVE-2020-29506](https://github.com/Live-Hack-CVE/CVE-2020-29506)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-29506">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-29506">
 
 ---
 ## CVE-2020-29394 (2020-11-30T19:15:00)
@@ -566,10 +591,20 @@
 - [Kento-Sec/GitLab-Graphql-CVE-2020-26413](https://github.com/Kento-Sec/GitLab-Graphql-CVE-2020-26413)	<img alt="forks" src="https://img.shields.io/github/forks/Kento-Sec/GitLab-Graphql-CVE-2020-26413">	<img alt="stars" src="https://img.shields.io/github/stars/Kento-Sec/GitLab-Graphql-CVE-2020-26413">
 
 ---
+## CVE-2020-26291 (2020-12-31T00:15:00)
+> URI.js is a javascript URL mutation library (npm package urijs). In URI.js before version 1.19.4, the hostname can be spoofed by using a backslash (`\`) character followed by an at (`@`) character. If the hostname is used in security decisions, the decision may be incorrect. Depending on library usage and attacker intent, impacts may include allow/block list bypasses, SSRF attacks, open redirects, or other undesired behavior. For example the URL `https://expected-example.com\@observed-example.com` will incorrectly return `observed-example.com` if using an affected version. Patched versions correctly return `expected-example.com`. Patched versions match the behavior of other parsers which implement the WHATWG URL specification, including web browsers and Node's built-in URL class. Version 1.19.4 is patched against all known payload variants. Version 1.19.3 has a partial patch but is still vulnerable to a payload variant.]
+- [Live-Hack-CVE/CVE-2020-26291](https://github.com/Live-Hack-CVE/CVE-2020-26291)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-26291">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-26291">
+
+---
 ## CVE-2020-26233 (2020-12-08T20:15:00)
 > Git Credential Manager Core (GCM Core) is a secure Git credential helper built on .NET Core that runs on Windows and macOS. In Git Credential Manager Core before version 2.0.289, when recursively cloning a Git repository on Windows with submodules, Git will first clone the top-level repository and then recursively clone all submodules by starting new Git processes from the top-level working directory. If a malicious git.exe executable is present in the top-level repository then this binary will be started by Git Credential Manager Core when attempting to read configuration, and not git.exe as found on the %PATH%. This only affects GCM Core on Windows, not macOS or Linux-based distributions. GCM Core version 2.0.289 contains the fix for this vulnerability, and is available from the project's GitHub releases page. GCM Core 2.0.289 is also bundled in the latest Git for Windows release; version 2.29.2(3). As a workaround, users should avoid recursively cloning untrusted repositories with the --recurse-submodules option.
 - [an1p3lg5/CVE-2020-26233](https://github.com/an1p3lg5/CVE-2020-26233)	<img alt="forks" src="https://img.shields.io/github/forks/an1p3lg5/CVE-2020-26233">	<img alt="stars" src="https://img.shields.io/github/stars/an1p3lg5/CVE-2020-26233">
 - [whr819987540/test_CVE-2020-26233](https://github.com/whr819987540/test_CVE-2020-26233)	<img alt="forks" src="https://img.shields.io/github/forks/whr819987540/test_CVE-2020-26233">	<img alt="stars" src="https://img.shields.io/github/stars/whr819987540/test_CVE-2020-26233">
+
+---
+## CVE-2020-26185 (2022-06-01T15:15:00)
+> Dell BSAFE Micro Edition Suite, versions prior to 4.5.1, contain a Buffer Over-Read Vulnerability.
+- [Live-Hack-CVE/CVE-2020-26185](https://github.com/Live-Hack-CVE/CVE-2020-26185)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-26185">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-26185">
 
 ---
 ## CVE-2020-25790 (2020-09-19T21:15:00)
