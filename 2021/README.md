@@ -888,6 +888,11 @@
 - [Live-Hack-CVE/CVE-2021-37701](https://github.com/Live-Hack-CVE/CVE-2021-37701)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37701">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37701">
 
 ---
+## CVE-2021-37533 (2022-12-03T15:15:00)
+> Prior to Apache Commons Net 3.9.0, Net's FTP client trusts the host from PASV response by default. A malicious server can redirect the Commons Net code to use a different host, but the user has to connect to the malicious server in the first place. This may lead to leakage of information about services running on the private network of the client. The default in version 3.9.0 is now false to ignore such hosts, as cURL does. See https://issues.apache.org/jira/browse/NET-711.
+- [Live-Hack-CVE/CVE-2021-37533](https://github.com/Live-Hack-CVE/CVE-2021-37533)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37533">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37533">
+
+---
 ## CVE-2021-36981 (2021-08-31T04:15:00)
 > In the server in SerNet verinice before 1.22.2, insecure Java deserialization allows remote authenticated attackers to execute arbitrary code.
 - [Live-Hack-CVE/CVE-2021-36981](https://github.com/Live-Hack-CVE/CVE-2021-36981)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36981">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36981">

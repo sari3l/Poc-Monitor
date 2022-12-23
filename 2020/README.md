@@ -228,6 +228,21 @@
 - [Hudi233/CVE-2020-3580](https://github.com/Hudi233/CVE-2020-3580)	<img alt="forks" src="https://img.shields.io/github/forks/Hudi233/CVE-2020-3580">	<img alt="stars" src="https://img.shields.io/github/stars/Hudi233/CVE-2020-3580">
 
 ---
+## CVE-2020-35636 (2021-03-04T20:15:00)
+> A code execution vulnerability exists in the Nef polygon-parsing functionality of CGAL libcgal CGAL-5.1.1 in Nef_S2/SNC_io_parser.h SNC_io_parser::read_sface() sfh->volume() OOB read. A specially crafted malformed file can lead to an out-of-bounds read and type confusion, which could lead to code execution. An attacker can provide malicious input to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2020-35636](https://github.com/Live-Hack-CVE/CVE-2020-35636)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35636">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35636">
+
+---
+## CVE-2020-35635 (2021-08-30T18:15:00)
+> A code execution vulnerability exists in the Nef polygon-parsing functionality of CGAL libcgal CGAL-5.1.1 in Nef_S2/SNC_io_parser.h SNC_io_parser::read_sface() store_sm_boundary_item() Sloop_of OOB read. A specially crafted malformed file can lead to an out-of-bounds read and type confusion, which could lead to code execution. An attacker can provide malicious input to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2020-35635](https://github.com/Live-Hack-CVE/CVE-2020-35635)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35635">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35635">
+
+---
+## CVE-2020-35628 (2021-03-04T20:15:00)
+> A code execution vulnerability exists in the Nef polygon-parsing functionality of CGAL libcgal CGAL-5.1.1. An oob read vulnerability exists in Nef_S2/SNC_io_parser.h SNC_io_parser::read_sloop() slh->incident_sface. An attacker can provide malicious input to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2020-35628](https://github.com/Live-Hack-CVE/CVE-2020-35628)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35628">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35628">
+
+---
 ## CVE-2020-35527 (2022-09-01T18:15:00)
 > In SQLite 3.31.1, there is an out of bounds access problem through ALTER TABLE for views that have a nested FROM clause.
 - [Live-Hack-CVE/CVE-2020-35527](https://github.com/Live-Hack-CVE/CVE-2020-35527)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35527">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35527">
@@ -264,6 +279,16 @@
 - [JinHao-L/PoC-for-CVE-2020-28948-CVE-2020-28949](https://github.com/JinHao-L/PoC-for-CVE-2020-28948-CVE-2020-28949)	<img alt="forks" src="https://img.shields.io/github/forks/JinHao-L/PoC-for-CVE-2020-28948-CVE-2020-28949">	<img alt="stars" src="https://img.shields.io/github/stars/JinHao-L/PoC-for-CVE-2020-28948-CVE-2020-28949">
 - [nopdata/cve-2020-28948](https://github.com/nopdata/cve-2020-28948)	<img alt="forks" src="https://img.shields.io/github/forks/nopdata/cve-2020-28948">	<img alt="stars" src="https://img.shields.io/github/stars/nopdata/cve-2020-28948">
 - [0x240x23elu/CVE-2020-28948-and-CVE-2020-28949](https://github.com/0x240x23elu/CVE-2020-28948-and-CVE-2020-28949)	<img alt="forks" src="https://img.shields.io/github/forks/0x240x23elu/CVE-2020-28948-and-CVE-2020-28949">	<img alt="stars" src="https://img.shields.io/github/stars/0x240x23elu/CVE-2020-28948-and-CVE-2020-28949">
+
+---
+## CVE-2020-28636 (2021-03-04T20:15:00)
+> A code execution vulnerability exists in the Nef polygon-parsing functionality of CGAL libcgal CGAL-5.1.1. An oob read vulnerability exists in Nef_S2/SNC_io_parser.h SNC_io_parser::read_sloop() slh->twin() An attacker can provide malicious input to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2020-28636](https://github.com/Live-Hack-CVE/CVE-2020-28636)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28636">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28636">
+
+---
+## CVE-2020-28601 (2021-03-04T20:15:00)
+> A code execution vulnerability exists in the Nef polygon-parsing functionality of CGAL libcgal CGAL-5.1.1. An oob read vulnerability exists in Nef_2/PM_io_parser.h PM_io_parser::read_vertex() Face_of[] OOB read. An attacker can provide malicious input to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2020-28601](https://github.com/Live-Hack-CVE/CVE-2020-28601)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28601">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28601">
 
 ---
 ## CVE-2020-27955 (2020-11-05T15:15:00)
