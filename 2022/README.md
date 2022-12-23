@@ -1566,6 +1566,7 @@
 ## CVE-2022-4280 (2022-12-03T18:15:00)
 > A vulnerability, which was classified as problematic, has been found in Dot Tech Smart Campus System. Affected by this issue is some unknown functionality of the file /services/Card/findUser. The manipulation leads to information disclosure. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. VDB-214778 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-4280](https://github.com/Live-Hack-CVE/CVE-2022-4280)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4280">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4280">
+- [Live-Hack-CVE/CVE-2022-42805](https://github.com/Live-Hack-CVE/CVE-2022-42805)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42805">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42805">
 
 ---
 ## CVE-2022-42781 (2022-12-06T07:15:00)
