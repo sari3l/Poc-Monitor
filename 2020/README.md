@@ -980,6 +980,11 @@
 - [Live-Hack-CVE/CVE-2020-13659](https://github.com/Live-Hack-CVE/CVE-2020-13659)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13659">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13659">
 
 ---
+## CVE-2020-13614 (2020-05-26T23:15:00)
+> An issue was discovered in ssl.c in Axel before 2.17.8. The TLS implementation lacks hostname verification.
+- [Live-Hack-CVE/CVE-2020-13614](https://github.com/Live-Hack-CVE/CVE-2020-13614)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13614">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13614">
+
+---
 ## CVE-2020-13249 (2020-05-20T19:15:00)
 > libmariadb/mariadb_lib.c in MariaDB Connector/C before 3.1.8 does not properly validate the content of an OK packet received from a server. NOTE: although mariadb_lib.c was originally based on code shipped for MySQL, this issue does not affect any MySQL components supported by Oracle.
 - [Live-Hack-CVE/CVE-2020-13249](https://github.com/Live-Hack-CVE/CVE-2020-13249)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13249">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13249">
@@ -988,6 +993,11 @@
 ## CVE-2020-13101 (2020-08-24T08:15:00)
 > In OASIS Digital Signature Services (DSS) 1.0, an attacker can control the validation outcome (i.e., trigger either a valid or invalid outcome for a valid or invalid signature) via a crafted XML signature, when the InlineXML option is used. This defeats the expectation of non-repudiation.
 - [Live-Hack-CVE/CVE-2020-13101](https://github.com/Live-Hack-CVE/CVE-2020-13101)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13101">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13101">
+
+---
+## CVE-2020-12888 (2020-05-15T18:15:00)
+> The VFIO PCI driver in the Linux kernel through 5.6.13 mishandles attempts to access disabled memory space.
+- [Live-Hack-CVE/CVE-2020-12888](https://github.com/Live-Hack-CVE/CVE-2020-12888)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12888">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12888">
 
 ---
 ## CVE-2020-12783 (2020-05-11T14:15:00)
@@ -1023,6 +1033,21 @@
 ## CVE-2020-11853 (2020-10-22T21:15:00)
 > Arbitrary code execution vulnerability affecting multiple Micro Focus products. 1.) Operation Bridge Manager affecting version: 2020.05, 2019.11, 2019.05, 2018.11, 2018.05, versions 10.6x and 10.1x and older versions. 2.) Application Performance Management affecting versions : 9.51, 9.50 and 9.40 with uCMDB 10.33 CUP 3 3.) Data Center Automation affected version 2019.11 4.) Operations Bridge (containerized) affecting versions: 2019.11, 2019.08, 2019.05, 2018.11, 2018.08, 2018.05, 2018.02, 2017.11 5.) Universal CMDB affecting version: 2020.05, 2019.11, 2019.05, 2019.02, 2018.11, 2018.08, 2018.05, 11, 10.33, 10.32, 10.31, 10.30 6.) Hybrid Cloud Management affecting version 2020.05 7.) Service Management Automation affecting version 2020.5 and 2020.02. The vulnerability could allow to execute arbitrary code.
 - [Live-Hack-CVE/CVE-2020-11853](https://github.com/Live-Hack-CVE/CVE-2020-11853)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-11853">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-11853">
+
+---
+## CVE-2020-11764 (2020-04-14T23:15:00)
+> An issue was discovered in OpenEXR before 2.4.1. There is an out-of-bounds write in copyIntoFrameBuffer in ImfMisc.cpp.
+- [Live-Hack-CVE/CVE-2020-11764](https://github.com/Live-Hack-CVE/CVE-2020-11764)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-11764">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-11764">
+
+---
+## CVE-2020-11763 (2020-04-14T23:15:00)
+> An issue was discovered in OpenEXR before 2.4.1. There is an std::vector out-of-bounds read and write, as demonstrated by ImfTileOffsets.cpp.
+- [Live-Hack-CVE/CVE-2020-11763](https://github.com/Live-Hack-CVE/CVE-2020-11763)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-11763">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-11763">
+
+---
+## CVE-2020-11760 (2020-04-14T23:15:00)
+> An issue was discovered in OpenEXR before 2.4.1. There is an out-of-bounds read during RLE uncompression in rleUncompress in ImfRle.cpp.
+- [Live-Hack-CVE/CVE-2020-11760](https://github.com/Live-Hack-CVE/CVE-2020-11760)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-11760">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-11760">
 
 ---
 ## CVE-2020-11066 (2020-05-14T00:15:00)

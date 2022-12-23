@@ -1235,6 +1235,11 @@
 - [Live-Hack-CVE/CVE-2021-3474](https://github.com/Live-Hack-CVE/CVE-2021-3474)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3474">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3474">
 
 ---
+## CVE-2021-34579 (2022-11-09T17:15:00)
+> In Phoenix Contact: FL MGUARD DM version 1.12.0 and 1.13.0 access to the Apache web server being installed as part of the FL MGUARD DM on Microsoft Windows does not require login credentials even if configured during installation.Attackers with network access to the Apache web server can download and therefore read mGuard configuration profiles (“ATV profiles”). Such configuration profiles may contain sensitive information, e.g. private keys associated with IPsec VPN connections.
+- [Live-Hack-CVE/CVE-2021-34579](https://github.com/Live-Hack-CVE/CVE-2021-34579)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34579">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34579">
+
+---
 ## CVE-2021-34552 (2021-07-13T17:15:00)
 > Pillow through 8.2.0 and PIL (aka Python Imaging Library) through 1.1.7 allow an attacker to pass controlled parameters directly into a convert function to trigger a buffer overflow in Convert.c.
 - [Live-Hack-CVE/CVE-2021-34552](https://github.com/Live-Hack-CVE/CVE-2021-34552)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34552">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34552">

@@ -1733,6 +1733,11 @@
 - [Live-Hack-CVE/CVE-2022-43323](https://github.com/Live-Hack-CVE/CVE-2022-43323)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43323">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43323">
 
 ---
+## CVE-2022-43310 (2022-11-09T21:15:00)
+> An Uncontrolled Search Path Element in Foxit Software released Foxit Reader v11.2.118.51569 allows attackers to escalate privileges when searching for DLL libraries without specifying an absolute path.
+- [Live-Hack-CVE/CVE-2022-43310](https://github.com/Live-Hack-CVE/CVE-2022-43310)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43310">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43310">
+
+---
 ## CVE-2022-43285 (2022-10-28T21:15:00)
 > ** DISPUTED ** Nginx NJS v0.7.4 was discovered to contain a segmentation violation in njs_promise_reaction_job. NOTE: the vendor disputes the significance of this report because NJS does not operate on untrusted input.
 - [Live-Hack-CVE/CVE-2022-43285](https://github.com/Live-Hack-CVE/CVE-2022-43285)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43285">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43285">
@@ -3100,9 +3105,54 @@
 - [Live-Hack-CVE/CVE-2022-41121](https://github.com/Live-Hack-CVE/CVE-2022-41121)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41121">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41121">
 
 ---
+## CVE-2022-41116 (2022-11-09T22:15:00)
+> Windows Point-to-Point Tunneling Protocol Denial of Service Vulnerability. This CVE ID is unique from CVE-2022-41090.
+- [Live-Hack-CVE/CVE-2022-41116](https://github.com/Live-Hack-CVE/CVE-2022-41116)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41116">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41116">
+
+---
 ## CVE-2022-41115 (2022-12-13T19:15:00)
 > Microsoft Edge (Chromium-based) Update Elevation of Privilege Vulnerability.
 - [Live-Hack-CVE/CVE-2022-41115](https://github.com/Live-Hack-CVE/CVE-2022-41115)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41115">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41115">
+
+---
+## CVE-2022-41114 (2022-11-09T22:15:00)
+> Windows Bind Filter Driver Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2022-41114](https://github.com/Live-Hack-CVE/CVE-2022-41114)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41114">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41114">
+
+---
+## CVE-2022-41113 (2022-11-09T22:15:00)
+> Windows Win32 Kernel Subsystem Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2022-41113](https://github.com/Live-Hack-CVE/CVE-2022-41113)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41113">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41113">
+
+---
+## CVE-2022-41109 (2022-11-09T22:15:00)
+> Windows Win32k Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41092.
+- [Live-Hack-CVE/CVE-2022-41109](https://github.com/Live-Hack-CVE/CVE-2022-41109)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41109">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41109">
+
+---
+## CVE-2022-41103 (2022-11-09T22:15:00)
+> Microsoft Word Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-41060.
+- [Live-Hack-CVE/CVE-2022-41103](https://github.com/Live-Hack-CVE/CVE-2022-41103)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41103">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41103">
+
+---
+## CVE-2022-41102 (2022-11-09T22:15:00)
+> Windows Overlay Filter Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41101.
+- [Live-Hack-CVE/CVE-2022-41102](https://github.com/Live-Hack-CVE/CVE-2022-41102)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41102">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41102">
+
+---
+## CVE-2022-41101 (2022-11-09T22:15:00)
+> Windows Overlay Filter Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41102.
+- [Live-Hack-CVE/CVE-2022-41101](https://github.com/Live-Hack-CVE/CVE-2022-41101)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41101">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41101">
+
+---
+## CVE-2022-41100 (2022-11-09T22:15:00)
+> Windows Advanced Local Procedure Call (ALPC) Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41045, CVE-2022-41093.
+- [Live-Hack-CVE/CVE-2022-41100](https://github.com/Live-Hack-CVE/CVE-2022-41100)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41100">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41100">
+
+---
+## CVE-2022-41097 (2022-11-09T22:15:00)
+> Network Policy Server (NPS) RADIUS Protocol Information Disclosure Vulnerability.
+- [Live-Hack-CVE/CVE-2022-41097](https://github.com/Live-Hack-CVE/CVE-2022-41097)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41097">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41097">
 
 ---
 ## CVE-2022-41082 (2022-10-03T01:15:00)
@@ -3177,9 +3227,44 @@
 - [Live-Hack-CVE/CVE-2022-41064](https://github.com/Live-Hack-CVE/CVE-2022-41064)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41064">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41064">
 
 ---
+## CVE-2022-41061 (2022-11-09T22:15:00)
+> Microsoft Word Remote Code Execution Vulnerability.
+- [Live-Hack-CVE/CVE-2022-41061](https://github.com/Live-Hack-CVE/CVE-2022-41061)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41061">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41061">
+
+---
+## CVE-2022-41060 (2022-11-09T22:15:00)
+> Microsoft Word Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-41103.
+- [Live-Hack-CVE/CVE-2022-41060](https://github.com/Live-Hack-CVE/CVE-2022-41060)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41060">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41060">
+
+---
 ## CVE-2022-41057 (2022-11-09T22:15:00)
 > Windows HTTP.sys Elevation of Privilege Vulnerability.
 - [Live-Hack-CVE/CVE-2022-41057](https://github.com/Live-Hack-CVE/CVE-2022-41057)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41057">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41057">
+
+---
+## CVE-2022-41054 (2022-11-09T22:15:00)
+> Windows Resilient File System (ReFS) Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2022-41054](https://github.com/Live-Hack-CVE/CVE-2022-41054)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41054">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41054">
+
+---
+## CVE-2022-41053 (2022-11-09T22:15:00)
+> Windows Kerberos Denial of Service Vulnerability.
+- [Live-Hack-CVE/CVE-2022-41053](https://github.com/Live-Hack-CVE/CVE-2022-41053)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41053">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41053">
+
+---
+## CVE-2022-41052 (2022-11-09T22:15:00)
+> Windows Graphics Component Remote Code Execution Vulnerability.
+- [Live-Hack-CVE/CVE-2022-41052](https://github.com/Live-Hack-CVE/CVE-2022-41052)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41052">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41052">
+
+---
+## CVE-2022-41051 (2022-11-09T22:15:00)
+> Azure RTOS GUIX Studio Remote Code Execution Vulnerability.
+- [Live-Hack-CVE/CVE-2022-41051](https://github.com/Live-Hack-CVE/CVE-2022-41051)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41051">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41051">
+
+---
+## CVE-2022-41050 (2022-11-09T22:15:00)
+> Windows Extensible File Allocation Table Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2022-41050](https://github.com/Live-Hack-CVE/CVE-2022-41050)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41050">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41050">
 
 ---
 ## CVE-2022-41049 (2022-11-09T22:15:00)
@@ -4336,6 +4421,16 @@
 ## CVE-2022-37703 (2022-09-13T20:15:00)
 > In Amanda 3.5.1, an information leak vulnerability was found in the calcsize SUID binary. An attacker can abuse this vulnerability to know if a directory exists or not anywhere in the fs. The binary will use `opendir()` as root directly without checking the path, letting the attacker provide an arbitrary path.
 - [MaherAzzouzi/CVE-2022-37703](https://github.com/MaherAzzouzi/CVE-2022-37703)	<img alt="forks" src="https://img.shields.io/github/forks/MaherAzzouzi/CVE-2022-37703">	<img alt="stars" src="https://img.shields.io/github/stars/MaherAzzouzi/CVE-2022-37703">
+
+---
+## CVE-2022-37681 (2022-08-29T23:15:00)
+> Hitachi Kokusai Electric Newtork products for monitoring system (Camera, Decoder and Encoder) and below allows attckers to perform a directory traversal via a crafted GET request to the endpoint /ptippage.cgi. Security information ID hitachi-sec-2022-001 contains fixes for the issue.
+- [Live-Hack-CVE/CVE-2022-37681](https://github.com/Live-Hack-CVE/CVE-2022-37681)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37681">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37681">
+
+---
+## CVE-2022-37680 (2022-08-29T23:15:00)
+> An improper authentication for critical function issue in Hitachi Kokusai Electric Network products for monitoring system (Camera, Decoder and Encoder) and bellow allows attckers to remotely reboot the device via a crafted POST request to the endpoint /ptipupgrade.cgi. Security information ID hitachi-sec-2022-001 contains fixes for the issue.
+- [Live-Hack-CVE/CVE-2022-37680](https://github.com/Live-Hack-CVE/CVE-2022-37680)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37680">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37680">
 
 ---
 ## CVE-2022-3763 (2022-11-21T11:15:00)
@@ -5546,6 +5641,11 @@
 - [Live-Hack-CVE/CVE-2022-32190](https://github.com/Live-Hack-CVE/CVE-2022-32190)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32190">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32190">
 
 ---
+## CVE-2022-32177 (2022-10-14T07:15:00)
+> In "Gin-Vue-Admin", versions v2.5.1 through v2.5.3beta are vulnerable to Unrestricted File Upload that leads to execution of javascript code, through the 'Normal Upload' functionality to the Media Library. When an admin user views the uploaded file, a low privilege attacker will get access to the admin’s cookie leading to account takeover.
+- [Live-Hack-CVE/CVE-2022-32177](https://github.com/Live-Hack-CVE/CVE-2022-32177)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32177">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32177">
+
+---
 ## CVE-2022-32119 (2022-07-15T12:15:00)
 > Arox School ERP Pro v1.0 was discovered to contain multiple arbitrary file upload vulnerabilities via the Add Photo function at photogalleries.inc.php and the import staff excel function at 1finance_master.inc.php.
 - [JC175/CVE-2022-32119](https://github.com/JC175/CVE-2022-32119)	<img alt="forks" src="https://img.shields.io/github/forks/JC175/CVE-2022-32119">	<img alt="stars" src="https://img.shields.io/github/stars/JC175/CVE-2022-32119">
@@ -6260,6 +6360,11 @@
 - [Flo451/CVE-2022-29856-PoC](https://github.com/Flo451/CVE-2022-29856-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Flo451/CVE-2022-29856-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Flo451/CVE-2022-29856-PoC">
 
 ---
+## CVE-2022-29836 (2022-11-09T21:15:00)
+> Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability was discovered via an HTTP API on Western Digital My Cloud Home; My Cloud Home Duo; and SanDisk ibi devices that could allow an attacker to abuse certain parameters to point to random locations on the file system. This could also allow the attacker to initiate the installation of custom packages at these locations. This can only be exploited once the attacker has been authenticated to the device. This issue affects: Western Digital My Cloud Home and My Cloud Home Duo versions prior to 8.11.0-113 on Linux; SanDisk ibi versions prior to 8.11.0-113 on Linux.
+- [Live-Hack-CVE/CVE-2022-29836](https://github.com/Live-Hack-CVE/CVE-2022-29836)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29836">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29836">
+
+---
 ## CVE-2022-2969 (2022-12-01T18:15:00)
 > Delta Industrial Automation DIALink versions prior to v1.5.0.0 Beta 4 uses an external input to construct a pathname intended to identify a file or directory located underneath a restricted parent directory. However, the software does not properly neutralize special elements within the pathname, which can cause the pathname to resolve to a location outside of the restricted directory.
 - [Live-Hack-CVE/CVE-2022-2969](https://github.com/Live-Hack-CVE/CVE-2022-2969)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2969">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2969">
@@ -6573,9 +6678,19 @@
 - [Live-Hack-CVE/CVE-2022-27581](https://github.com/Live-Hack-CVE/CVE-2022-27581)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27581">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27581">
 
 ---
+## CVE-2022-2758 (2022-08-31T16:15:00)
+> Passwords are not adequately encrypted during the communication process between all versions of LS Industrial Systems (LSIS) Co. Ltd LS Electric XG5000 software prior to V4.0 and LS Electric PLCs: all versions of XGK-CPUU/H/A/S/E prior to V3.50, all versions of XGI-CPUU/UD/H/S/E prior to V3.20, all versions of XGR-CPUH prior to V1.80, all versions of XGB-XBMS prior to V3.00, all versions of XGB-XBCH prior to V1.90, and all versions of XGB-XECH prior to V1.30. This would allow an attacker to identify and decrypt the password of the affected PLCs by sniffing the PLC’s communication traffic.
+- [Live-Hack-CVE/CVE-2022-2758](https://github.com/Live-Hack-CVE/CVE-2022-2758)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2758">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2758">
+
+---
 ## CVE-2022-2757 (2022-12-13T22:15:00)
 > Due to the lack of adequately implemented access-control rules, all versions Kingspan TMS300 CS are vulnerable to an attacker viewing and modifying the application settings without authenticating by accessing a specific uniform resource locator (URL) on the webserver.
 - [Live-Hack-CVE/CVE-2022-2757](https://github.com/Live-Hack-CVE/CVE-2022-2757)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2757">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2757">
+
+---
+## CVE-2022-2756 (2022-08-10T16:15:00)
+> Server-Side Request Forgery (SSRF) in GitHub repository kareadita/kavita prior to 0.5.4.1.
+- [Live-Hack-CVE/CVE-2022-2756](https://github.com/Live-Hack-CVE/CVE-2022-2756)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2756">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2756">
 
 ---
 ## CVE-2022-27502 (2022-06-10T13:15:00)
@@ -6851,6 +6966,11 @@
 For versions 9.34.0 and higher, an option to disable this functionality is provided.
 
 - [Live-Hack-CVE/CVE-2022-25948](https://github.com/Live-Hack-CVE/CVE-2022-25948)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25948">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25948">
+
+---
+## CVE-2022-25932 (2022-11-09T18:15:00)
+> The firmware of InHand Networks InRouter302 V3.5.45 introduces fixes for TALOS-2022-1472 and TALOS-2022-1474. The fixes are incomplete. An attacker can still perform, respectively, a privilege escalation and an information disclosure vulnerability.
+- [Live-Hack-CVE/CVE-2022-25932](https://github.com/Live-Hack-CVE/CVE-2022-25932)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25932">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25932">
 
 ---
 ## CVE-2022-25912 (2022-12-06T05:15:00)
