@@ -4854,6 +4854,11 @@
 - [Live-Hack-CVE/CVE-2022-2641](https://github.com/Live-Hack-CVE/CVE-2022-2641)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2641">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2641">
 
 ---
+## CVE-2022-2640 (2022-12-02T20:15:00)
+> The Config-files of Horner Automation’s RCC 972 with firmware version 15.40 are encrypted with weak XOR encryption vulnerable to reverse engineering. This could allow an attacker to obtain credentials to run services such as File Transfer Protocol (FTP) and Hypertext Transfer Protocol (HTTP).
+- [Live-Hack-CVE/CVE-2022-2640](https://github.com/Live-Hack-CVE/CVE-2022-2640)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2640">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2640">
+
+---
 ## CVE-2022-2639 (2022-09-01T21:15:00)
 > An integer coercion error was found in the openvswitch kernel module. Given a sufficiently large number of actions, while copying and reserving memory for a new action of a new flow, the reserve_sfa_size() function does not return -EMSGSIZE as expected, potentially leading to an out-of-bounds write access. This flaw allows a local user to crash or potentially escalate their privileges on the system.
 - [veritas501/CVE-2022-2639-PipeVersion](https://github.com/veritas501/CVE-2022-2639-PipeVersion)	<img alt="forks" src="https://img.shields.io/github/forks/veritas501/CVE-2022-2639-PipeVersion">	<img alt="stars" src="https://img.shields.io/github/stars/veritas501/CVE-2022-2639-PipeVersion">
