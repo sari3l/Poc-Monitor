@@ -872,6 +872,11 @@
 - [alfarom256/CVE-2022-45451](https://github.com/alfarom256/CVE-2022-45451)	<img alt="forks" src="https://img.shields.io/github/forks/alfarom256/CVE-2022-45451">	<img alt="stars" src="https://img.shields.io/github/stars/alfarom256/CVE-2022-45451">
 
 ---
+## CVE-2022-45384 (2022-11-15T20:15:00)
+> Jenkins Reverse Proxy Auth Plugin 1.7.3 and earlier stores the LDAP manager password unencrypted in the global config.xml file on the Jenkins controller where it can be viewed by attackers with access to the Jenkins controller file system.
+- [Live-Hack-CVE/CVE-2022-45384](https://github.com/Live-Hack-CVE/CVE-2022-45384)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45384">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45384">
+
+---
 ## CVE-2022-45381 (2022-11-15T20:15:00)
 > Jenkins Pipeline Utility Steps Plugin 2.13.1 and earlier does not restrict the set of enabled prefix interpolators and bundles versions of Apache Commons Configuration library that enable the 'file:' prefix interpolator by default, allowing attackers able to configure Pipelines to read arbitrary files from the Jenkins controller file system.
 - [Live-Hack-CVE/CVE-2022-45381](https://github.com/Live-Hack-CVE/CVE-2022-45381)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45381">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45381">
@@ -2354,6 +2359,31 @@
 - [Live-Hack-CVE/CVE-2022-42139](https://github.com/Live-Hack-CVE/CVE-2022-42139)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42139">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42139">
 
 ---
+## CVE-2022-42128 (2022-11-15T01:15:00)
+> The Hypermedia REST APIs module in Liferay Portal 7.4.1 through 7.4.3.4, and Liferay DXP 7.4 GA does not properly check permissions, which allows remote attackers to obtain a WikiNode object via the WikiNodeResource.getSiteWikiNodeByExternalReferenceCode API.
+- [Live-Hack-CVE/CVE-2022-42128](https://github.com/Live-Hack-CVE/CVE-2022-42128)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42128">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42128">
+
+---
+## CVE-2022-42127 (2022-11-15T01:15:00)
+> The Friendly Url module in Liferay Portal 7.4.3.5 through 7.4.3.36, and Liferay DXP 7.4 update 1 though 36 does not properly check user permissions, which allows remote attackers to obtain the history of all friendly URLs that was assigned to a page.
+- [Live-Hack-CVE/CVE-2022-42127](https://github.com/Live-Hack-CVE/CVE-2022-42127)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42127">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42127">
+
+---
+## CVE-2022-42126 (2022-11-15T01:15:00)
+> The Asset Libraries module in Liferay Portal 7.3.5 through 7.4.3.28, and Liferay DXP 7.3 before update 8, and DXP 7.4 before update 29 does not properly check permissions of asset libraries, which allows remote authenticated users to view asset libraries via the UI.
+- [Live-Hack-CVE/CVE-2022-42126](https://github.com/Live-Hack-CVE/CVE-2022-42126)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42126">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42126">
+
+---
+## CVE-2022-42125 (2022-11-15T01:15:00)
+> Zip slip vulnerability in FileUtil.unzip in Liferay Portal 7.4.3.5 through 7.4.3.35 and Liferay DXP 7.4 update 1 through update 34 allows attackers to create or overwrite existing files on the filesystem via the deployment of a malicious plugin/module.
+- [Live-Hack-CVE/CVE-2022-42125](https://github.com/Live-Hack-CVE/CVE-2022-42125)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42125">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42125">
+
+---
+## CVE-2022-42124 (2022-11-15T01:15:00)
+> ReDoS vulnerability in LayoutPageTemplateEntryUpgradeProcess in Liferay Portal 7.3.2 through 7.4.3.4 and Liferay DXP 7.2 fix pack 9 through fix pack 18, 7.3 before update 4, and DXP 7.4 GA allows remote attackers to consume an excessive amount of server resources via a crafted payload injected into the 'name' field of a layout prototype.
+- [Live-Hack-CVE/CVE-2022-42124](https://github.com/Live-Hack-CVE/CVE-2022-42124)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42124">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42124">
+
+---
 ## CVE-2022-42098 (2022-11-22T13:15:00)
 > KLiK SocialMediaWebsite version v1.0.1 is vulnerable to SQL Injection via the profile.php.
 - [bypazs/CVE-2022-42098](https://github.com/bypazs/CVE-2022-42098)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/CVE-2022-42098">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/CVE-2022-42098">
@@ -3106,6 +3136,11 @@
 ## CVE-2022-40916 ()
 > 
 - [whitej3rry/CVE-2022-40916](https://github.com/whitej3rry/CVE-2022-40916)	<img alt="forks" src="https://img.shields.io/github/forks/whitej3rry/CVE-2022-40916">	<img alt="stars" src="https://img.shields.io/github/stars/whitej3rry/CVE-2022-40916">
+
+---
+## CVE-2022-40843 (2022-11-15T02:15:00)
+> The Tenda AC1200 V-W15Ev2 V15.11.0.10(1576) router is vulnerable to improper authorization / improper session management that allows the router login page to be bypassed. This leads to authenticated attackers having the ability to read the routers syslog.log file which contains the MD5 password of the Administrator's user account.
+- [Live-Hack-CVE/CVE-2022-40843](https://github.com/Live-Hack-CVE/CVE-2022-40843)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40843">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40843">
 
 ---
 ## CVE-2022-40842 (2022-11-22T01:15:00)
@@ -4578,6 +4613,11 @@
 - [Live-Hack-CVE/CVE-2022-3561](https://github.com/Live-Hack-CVE/CVE-2022-3561)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3561">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3561">
 
 ---
+## CVE-2022-3553 (2022-10-17T13:15:00)
+> A vulnerability, which was classified as problematic, was found in X.org Server. This affects an unknown part of the file hw/xquartz/X11Controller.m of the component xquartz. The manipulation leads to denial of service. It is recommended to apply a patch to fix this issue. The identifier VDB-211053 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-3553](https://github.com/Live-Hack-CVE/CVE-2022-3553)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3553">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3553">
+
+---
 ## CVE-2022-35513 (2022-09-07T14:15:00)
 > The Blink1Control2 application <= 2.2.7 uses weak password encryption and an insecure method of storage.
 - [p1ckzi/CVE-2022-35513](https://github.com/p1ckzi/CVE-2022-35513)	<img alt="forks" src="https://img.shields.io/github/forks/p1ckzi/CVE-2022-35513">	<img alt="stars" src="https://img.shields.io/github/stars/p1ckzi/CVE-2022-35513">
@@ -5042,6 +5082,11 @@
 - [Administrative2022/CVE-2022-32917-POC](https://github.com/Administrative2022/CVE-2022-32917-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Administrative2022/CVE-2022-32917-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Administrative2022/CVE-2022-32917-POC">
 
 ---
+## CVE-2022-32907 (2022-11-01T20:15:00)
+> This issue was addressed with improved checks. This issue is fixed in tvOS 16, iOS 16, watchOS 9. An app may be able to execute arbitrary code with kernel privileges.
+- [Live-Hack-CVE/CVE-2022-32907](https://github.com/Live-Hack-CVE/CVE-2022-32907)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32907">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32907">
+
+---
 ## CVE-2022-32883 (2022-09-20T21:15:00)
 > A logic issue was addressed with improved restrictions. This issue is fixed in macOS Monterey 12.6, iOS 15.7 and iPadOS 15.7, iOS 16, macOS Big Sur 11.7. An app may be able to read sensitive location information.
 - [breakpointHQ/CVE-2022-32883](https://github.com/breakpointHQ/CVE-2022-32883)	<img alt="forks" src="https://img.shields.io/github/forks/breakpointHQ/CVE-2022-32883">	<img alt="stars" src="https://img.shields.io/github/stars/breakpointHQ/CVE-2022-32883">
@@ -5056,6 +5101,11 @@
 > The issue was addressed with improved memory handling. This issue is fixed in iOS 15.6 and iPadOS 15.6, macOS Big Sur 11.6.8, watchOS 8.7, tvOS 15.6, macOS Monterey 12.5, Security Update 2022-005 Catalina. An app with root privileges may be able to execute arbitrary code with kernel privileges.
 - [Muirey03/CVE-2022-32832](https://github.com/Muirey03/CVE-2022-32832)	<img alt="forks" src="https://img.shields.io/github/forks/Muirey03/CVE-2022-32832">	<img alt="stars" src="https://img.shields.io/github/stars/Muirey03/CVE-2022-32832">
 - [AkbarTrilaksana/CVE-2022-32832](https://github.com/AkbarTrilaksana/CVE-2022-32832)	<img alt="forks" src="https://img.shields.io/github/forks/AkbarTrilaksana/CVE-2022-32832">	<img alt="stars" src="https://img.shields.io/github/stars/AkbarTrilaksana/CVE-2022-32832">
+
+---
+## CVE-2022-32827 (2022-11-01T20:15:00)
+> A memory corruption issue was addressed with improved state management. This issue is fixed in iOS 16, macOS Ventura 13. An app may be able to cause a denial-of-service.
+- [Live-Hack-CVE/CVE-2022-32827](https://github.com/Live-Hack-CVE/CVE-2022-32827)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32827">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32827">
 
 ---
 ## CVE-2022-3278 (2022-09-23T22:15:00)
@@ -6250,6 +6300,11 @@
 - [XmasSnowISBACK/CVE-2022-26726](https://github.com/XmasSnowISBACK/CVE-2022-26726)	<img alt="forks" src="https://img.shields.io/github/forks/XmasSnowISBACK/CVE-2022-26726">	<img alt="stars" src="https://img.shields.io/github/stars/XmasSnowISBACK/CVE-2022-26726">
 
 ---
+## CVE-2022-26651 (2022-04-15T05:15:00)
+> An issue was discovered in Asterisk through 19.x and Certified Asterisk through 16.8-cert13. The func_odbc module provides possibly inadequate escaping functionality for backslash characters in SQL queries, resulting in user-provided data creating a broken SQL query or possibly a SQL injection. This is fixed in 16.25.2, 18.11.2, and 19.3.2, and 16.8-cert14.
+- [Live-Hack-CVE/CVE-2022-26651](https://github.com/Live-Hack-CVE/CVE-2022-26651)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26651">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26651">
+
+---
 ## CVE-2022-2663 (2022-09-01T21:15:00)
 > An issue was found in the Linux kernel in nf_conntrack_irc where the message handling can be confused and incorrectly matches the message. A firewall may be able to be bypassed when users are using unencrypted IRC with nf_conntrack_irc configured.
 - [Live-Hack-CVE/CVE-2022-2663](https://github.com/Live-Hack-CVE/CVE-2022-2663)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2663">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2663">
@@ -6261,6 +6316,16 @@
 - [HackinKraken/CVE-2022-2650](https://github.com/HackinKraken/CVE-2022-2650)	<img alt="forks" src="https://img.shields.io/github/forks/HackinKraken/CVE-2022-2650">	<img alt="stars" src="https://img.shields.io/github/stars/HackinKraken/CVE-2022-2650">
 - [sinsinology/CVE-2022-26503](https://github.com/sinsinology/CVE-2022-26503)	<img alt="forks" src="https://img.shields.io/github/forks/sinsinology/CVE-2022-26503">	<img alt="stars" src="https://img.shields.io/github/stars/sinsinology/CVE-2022-26503">
 - [Live-Hack-CVE/CVE-2022-2650](https://github.com/Live-Hack-CVE/CVE-2022-2650)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2650">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2650">
+
+---
+## CVE-2022-26499 (2022-04-15T05:15:00)
+> An SSRF issue was discovered in Asterisk through 19.x. When using STIR/SHAKEN, it's possible to send arbitrary requests (such as GET) to interfaces such as localhost by using the Identity header. This is fixed in 16.25.2, 18.11.2, and 19.3.2.
+- [Live-Hack-CVE/CVE-2022-26499](https://github.com/Live-Hack-CVE/CVE-2022-26499)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26499">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26499">
+
+---
+## CVE-2022-26498 (2022-04-15T05:15:00)
+> An issue was discovered in Asterisk through 19.x. When using STIR/SHAKEN, it is possible to download files that are not certificates. These files could be much larger than what one would expect to download, leading to Resource Exhaustion. This is fixed in 16.25.2, 18.11.2, and 19.3.2.
+- [Live-Hack-CVE/CVE-2022-26498](https://github.com/Live-Hack-CVE/CVE-2022-26498)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26498">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26498">
 
 ---
 ## CVE-2022-2642 (2022-12-02T20:15:00)
@@ -6525,6 +6590,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-24836](https://github.com/Live-Hack-CVE/CVE-2022-24836)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24836">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24836">
 
 ---
+## CVE-2022-24786 (2022-04-06T14:15:00)
+> PJSIP is a free and open source multimedia communication library written in C. PJSIP versions 2.12 and prior do not parse incoming RTCP feedback RPSI (Reference Picture Selection Indication) packet, but any app that directly uses pjmedia_rtcp_fb_parse_rpsi() will be affected. A patch is available in the `master` branch of the `pjsip/pjproject` GitHub repository. There are currently no known workarounds.
+- [Live-Hack-CVE/CVE-2022-24786](https://github.com/Live-Hack-CVE/CVE-2022-24786)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24786">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24786">
+
+---
 ## CVE-2022-24780 (2022-04-05T19:15:00)
 > Combodo iTop is a web based IT Service Management tool. In versions prior to 2.7.6 and 3.0.0, users of the iTop user portal can send TWIG code to the server by forging specific http queries, and execute arbitrary code on the server using http server user privileges. This issue is fixed in versions 2.7.6 and 3.0.0. There are currently no known workarounds.
 - [Acceis/exploit-CVE-2022-24780](https://github.com/Acceis/exploit-CVE-2022-24780)	<img alt="forks" src="https://img.shields.io/github/forks/Acceis/exploit-CVE-2022-24780">	<img alt="stars" src="https://img.shields.io/github/stars/Acceis/exploit-CVE-2022-24780">
@@ -6533,6 +6603,16 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-24765 (2022-04-12T18:15:00)
 > Git for Windows is a fork of Git containing Windows-specific patches. This vulnerability affects users working on multi-user machines, where untrusted parties have write access to the same hard disk. Those untrusted parties could create the folder `C:\.git`, which would be picked up by Git operations run supposedly outside a repository while searching for a Git directory. Git would then respect any config in said Git directory. Git Bash users who set `GIT_PS1_SHOWDIRTYSTATE` are vulnerable as well. Users who installed posh-gitare vulnerable simply by starting a PowerShell. Users of IDEs such as Visual Studio are vulnerable: simply creating a new project would already read and respect the config specified in `C:\.git\config`. Users of the Microsoft fork of Git are vulnerable simply by starting a Git Bash. The problem has been patched in Git for Windows v2.35.2. Users unable to upgrade may create the folder `.git` on all drives where Git commands are run, and remove read/write access from those folders as a workaround. Alternatively, define or extend `GIT_CEILING_DIRECTORIES` to cover the _parent_ directory of the user profile, e.g. `C:\Users` if the user profile is located in `C:\Users\my-user-name`.
 - [Live-Hack-CVE/CVE-2022-24765](https://github.com/Live-Hack-CVE/CVE-2022-24765)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24765">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24765">
+
+---
+## CVE-2022-24764 (2022-03-22T17:15:00)
+> PJSIP is a free and open source multimedia communication library written in C. Versions 2.12 and prior contain a stack buffer overflow vulnerability that affects PJSUA2 users or users that call the API `pjmedia_sdp_print(), pjmedia_sdp_media_print()`. Applications that do not use PJSUA2 and do not directly call `pjmedia_sdp_print()` or `pjmedia_sdp_media_print()` should not be affected. A patch is available on the `master` branch of the `pjsip/pjproject` GitHub repository. There are currently no known workarounds.
+- [Live-Hack-CVE/CVE-2022-24764](https://github.com/Live-Hack-CVE/CVE-2022-24764)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24764">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24764">
+
+---
+## CVE-2022-24763 (2022-03-30T21:15:00)
+> PJSIP is a free and open source multimedia communication library written in the C language. Versions 2.12 and prior contain a denial-of-service vulnerability that affects PJSIP users that consume PJSIP's XML parsing in their apps. Users are advised to update. There are no known workarounds.
+- [Live-Hack-CVE/CVE-2022-24763](https://github.com/Live-Hack-CVE/CVE-2022-24763)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24763">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24763">
 
 ---
 ## CVE-2022-24729 (2022-03-16T17:15:00)
@@ -6698,6 +6778,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-23614 (2022-02-04T23:15:00)
 > Twig is an open source template language for PHP. When in a sandbox mode, the `arrow` parameter of the `sort` filter must be a closure to avoid attackers being able to run arbitrary PHP functions. In affected versions this constraint was not properly enforced and could lead to code injection of arbitrary PHP code. Patched versions now disallow calling non Closure in the `sort` filter as is the case for some other filters. Users are advised to upgrade.
 - [davwwwx/CVE-2022-23614](https://github.com/davwwwx/CVE-2022-23614)	<img alt="forks" src="https://img.shields.io/github/forks/davwwwx/CVE-2022-23614">	<img alt="stars" src="https://img.shields.io/github/stars/davwwwx/CVE-2022-23614">
+
+---
+## CVE-2022-23608 (2022-02-22T20:15:00)
+> PJSIP is a free and open source multimedia communication library written in C language implementing standard based protocols such as SIP, SDP, RTP, STUN, TURN, and ICE. In versions up to and including 2.11.1 when in a dialog set (or forking) scenario, a hash key shared by multiple UAC dialogs can potentially be prematurely freed when one of the dialogs is destroyed . The issue may cause a dialog set to be registered in the hash table multiple times (with different hash keys) leading to undefined behavior such as dialog list collision which eventually leading to endless loop. A patch is available in commit db3235953baa56d2fb0e276ca510fefca751643f which will be included in the next release. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-23608](https://github.com/Live-Hack-CVE/CVE-2022-23608)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23608">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23608">
 
 ---
 ## CVE-2022-23543 (2022-12-19T22:15:00)
@@ -7086,6 +7171,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-21789 (2022-08-01T14:15:00)
 > In audio ipi, there is a possible memory corruption due to a race condition. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS06478101; Issue ID: ALPS06478101.
 - [docfate111/CVE-2022-21789](https://github.com/docfate111/CVE-2022-21789)	<img alt="forks" src="https://img.shields.io/github/forks/docfate111/CVE-2022-21789">	<img alt="stars" src="https://img.shields.io/github/stars/docfate111/CVE-2022-21789">
+
+---
+## CVE-2022-21722 (2022-01-27T00:15:00)
+> PJSIP is a free and open source multimedia communication library written in C language implementing standard based protocols such as SIP, SDP, RTP, STUN, TURN, and ICE. In version 2.11.1 and prior, there are various cases where it is possible that certain incoming RTP/RTCP packets can potentially cause out-of-bound read access. This issue affects all users that use PJMEDIA and accept incoming RTP/RTCP. A patch is available as a commit in the `master` branch. There are no known workarounds.
+- [Live-Hack-CVE/CVE-2022-21722](https://github.com/Live-Hack-CVE/CVE-2022-21722)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21722">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21722">
 
 ---
 ## CVE-2022-21698 (2022-02-15T16:15:00)
