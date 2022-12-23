@@ -44,6 +44,11 @@
 - [j-jasson/CVE-2015-5531-POC](https://github.com/j-jasson/CVE-2015-5531-POC)	<img alt="forks" src="https://img.shields.io/github/forks/j-jasson/CVE-2015-5531-POC">	<img alt="stars" src="https://img.shields.io/github/stars/j-jasson/CVE-2015-5531-POC">
 
 ---
+## CVE-2015-3195 (2015-12-06T20:59:00)
+> The ASN1_TFLG_COMBINE implementation in crypto/asn1/tasn_dec.c in OpenSSL before 0.9.8zh, 1.0.0 before 1.0.0t, 1.0.1 before 1.0.1q, and 1.0.2 before 1.0.2e mishandles errors caused by malformed X509_ATTRIBUTE data, which allows remote attackers to obtain sensitive information from process memory by triggering a decoding failure in a PKCS#7 or CMS application.
+- [Live-Hack-CVE/CVE-2015-3195](https://github.com/Live-Hack-CVE/CVE-2015-3195)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-3195">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-3195">
+
+---
 ## CVE-2015-3145 (2015-04-24T14:59:00)
 > The sanitize_cookie_path function in cURL and libcurl 7.31.0 through 7.41.0 does not properly calculate an index, which allows remote attackers to cause a denial of service (out-of-bounds write and crash) or possibly have other unspecified impact via a cookie path containing only a double-quote character.
 - [Serz999/CVE-2015-3145](https://github.com/Serz999/CVE-2015-3145)	<img alt="forks" src="https://img.shields.io/github/forks/Serz999/CVE-2015-3145">	<img alt="stars" src="https://img.shields.io/github/stars/Serz999/CVE-2015-3145">
@@ -54,6 +59,41 @@
 - [Exploitables/CVE-2015-2291](https://github.com/Exploitables/CVE-2015-2291)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2015-2291">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2015-2291">
 - [hfiref0x/KDU](https://github.com/hfiref0x/KDU)	<img alt="forks" src="https://img.shields.io/github/forks/hfiref0x/KDU">	<img alt="stars" src="https://img.shields.io/github/stars/hfiref0x/KDU">
 - [Tare05/Intel-CVE-2015-2291](https://github.com/Tare05/Intel-CVE-2015-2291)	<img alt="forks" src="https://img.shields.io/github/forks/Tare05/Intel-CVE-2015-2291">	<img alt="stars" src="https://img.shields.io/github/stars/Tare05/Intel-CVE-2015-2291">
+
+---
+## CVE-2015-1794 (2015-12-06T20:59:00)
+> The ssl3_get_key_exchange function in ssl/s3_clnt.c in OpenSSL 1.0.2 before 1.0.2e allows remote servers to cause a denial of service (segmentation fault) via a zero p value in an anonymous Diffie-Hellman (DH) ServerKeyExchange message.
+- [Live-Hack-CVE/CVE-2015-1794](https://github.com/Live-Hack-CVE/CVE-2015-1794)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-1794">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-1794">
+
+---
+## CVE-2015-1792 (2015-06-12T19:59:00)
+> The do_free_upto function in crypto/cms/cms_smime.c in OpenSSL before 0.9.8zg, 1.0.0 before 1.0.0s, 1.0.1 before 1.0.1n, and 1.0.2 before 1.0.2b allows remote attackers to cause a denial of service (infinite loop) via vectors that trigger a NULL value of a BIO data structure, as demonstrated by an unrecognized X.660 OID for a hash function.
+- [Live-Hack-CVE/CVE-2015-1792](https://github.com/Live-Hack-CVE/CVE-2015-1792)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-1792">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-1792">
+
+---
+## CVE-2015-1791 (2015-06-12T19:59:00)
+> Race condition in the ssl3_get_new_session_ticket function in ssl/s3_clnt.c in OpenSSL before 0.9.8zg, 1.0.0 before 1.0.0s, 1.0.1 before 1.0.1n, and 1.0.2 before 1.0.2b, when used for a multi-threaded client, allows remote attackers to cause a denial of service (double free and application crash) or possibly have unspecified other impact by providing a NewSessionTicket during an attempt to reuse a ticket that had been obtained earlier.
+- [Live-Hack-CVE/CVE-2015-1791](https://github.com/Live-Hack-CVE/CVE-2015-1791)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-1791">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-1791">
+
+---
+## CVE-2015-1790 (2015-06-12T19:59:00)
+> The PKCS7_dataDecodefunction in crypto/pkcs7/pk7_doit.c in OpenSSL before 0.9.8zg, 1.0.0 before 1.0.0s, 1.0.1 before 1.0.1n, and 1.0.2 before 1.0.2b allows remote attackers to cause a denial of service (NULL pointer dereference and application crash) via a PKCS#7 blob that uses ASN.1 encoding and lacks inner EncryptedContent data.
+- [Live-Hack-CVE/CVE-2015-1790](https://github.com/Live-Hack-CVE/CVE-2015-1790)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-1790">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-1790">
+
+---
+## CVE-2015-1789 (2015-06-12T19:59:00)
+> The X509_cmp_time function in crypto/x509/x509_vfy.c in OpenSSL before 0.9.8zg, 1.0.0 before 1.0.0s, 1.0.1 before 1.0.1n, and 1.0.2 before 1.0.2b allows remote attackers to cause a denial of service (out-of-bounds read and application crash) via a crafted length field in ASN1_TIME data, as demonstrated by an attack against a server that supports client authentication with a custom verification callback.
+- [Live-Hack-CVE/CVE-2015-1789](https://github.com/Live-Hack-CVE/CVE-2015-1789)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-1789">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-1789">
+
+---
+## CVE-2015-1788 (2015-06-12T19:59:00)
+> The BN_GF2m_mod_inv function in crypto/bn/bn_gf2m.c in OpenSSL before 0.9.8s, 1.0.0 before 1.0.0e, 1.0.1 before 1.0.1n, and 1.0.2 before 1.0.2b does not properly handle ECParameters structures in which the curve is over a malformed binary polynomial field, which allows remote attackers to cause a denial of service (infinite loop) via a session that uses an Elliptic Curve algorithm, as demonstrated by an attack against a server that supports client authentication.
+- [Live-Hack-CVE/CVE-2015-1788](https://github.com/Live-Hack-CVE/CVE-2015-1788)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-1788">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-1788">
+
+---
+## CVE-2015-1787 (2015-03-19T22:59:00)
+> The ssl3_get_client_key_exchange function in s3_srvr.c in OpenSSL 1.0.2 before 1.0.2a, when client authentication and an ephemeral Diffie-Hellman ciphersuite are enabled, allows remote attackers to cause a denial of service (daemon crash) via a ClientKeyExchange message with a length of zero.
+- [Live-Hack-CVE/CVE-2015-1787](https://github.com/Live-Hack-CVE/CVE-2015-1787)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-1787">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-1787">
 
 ---
 ## CVE-2015-1427 (2015-02-17T15:59:00)
@@ -72,3 +112,38 @@
 - [notlikethis/CVE-2015-1328](https://github.com/notlikethis/CVE-2015-1328)	<img alt="forks" src="https://img.shields.io/github/forks/notlikethis/CVE-2015-1328">	<img alt="stars" src="https://img.shields.io/github/stars/notlikethis/CVE-2015-1328">
 - [SR7-HACKING/LINUX-VULNERABILITY-CVE-2015-1328](https://github.com/SR7-HACKING/LINUX-VULNERABILITY-CVE-2015-1328)	<img alt="forks" src="https://img.shields.io/github/forks/SR7-HACKING/LINUX-VULNERABILITY-CVE-2015-1328">	<img alt="stars" src="https://img.shields.io/github/stars/SR7-HACKING/LINUX-VULNERABILITY-CVE-2015-1328">
 - [poxicity/CVE-2015-1328](https://github.com/poxicity/CVE-2015-1328)	<img alt="forks" src="https://img.shields.io/github/forks/poxicity/CVE-2015-1328">	<img alt="stars" src="https://img.shields.io/github/stars/poxicity/CVE-2015-1328">
+
+---
+## CVE-2015-0291 (2015-03-19T22:59:00)
+> The sigalgs implementation in t1_lib.c in OpenSSL 1.0.2 before 1.0.2a allows remote attackers to cause a denial of service (NULL pointer dereference and daemon crash) by using an invalid signature_algorithms extension in the ClientHello message during a renegotiation.
+- [Live-Hack-CVE/CVE-2015-0291](https://github.com/Live-Hack-CVE/CVE-2015-0291)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-0291">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-0291">
+
+---
+## CVE-2015-0290 (2015-03-19T22:59:00)
+> The multi-block feature in the ssl3_write_bytes function in s3_pkt.c in OpenSSL 1.0.2 before 1.0.2a on 64-bit x86 platforms with AES NI support does not properly handle certain non-blocking I/O cases, which allows remote attackers to cause a denial of service (pointer corruption and application crash) via unspecified vectors.
+- [Live-Hack-CVE/CVE-2015-0290](https://github.com/Live-Hack-CVE/CVE-2015-0290)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-0290">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-0290">
+
+---
+## CVE-2015-0288 (2015-03-19T22:59:00)
+> The X509_to_X509_REQ function in crypto/x509/x509_req.c in OpenSSL before 0.9.8zf, 1.0.0 before 1.0.0r, 1.0.1 before 1.0.1m, and 1.0.2 before 1.0.2a might allow attackers to cause a denial of service (NULL pointer dereference and application crash) via an invalid certificate key.
+- [Live-Hack-CVE/CVE-2015-0288](https://github.com/Live-Hack-CVE/CVE-2015-0288)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-0288">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-0288">
+
+---
+## CVE-2015-0286 (2015-03-19T22:59:00)
+> The ASN1_TYPE_cmp function in crypto/asn1/a_type.c in OpenSSL before 0.9.8zf, 1.0.0 before 1.0.0r, 1.0.1 before 1.0.1m, and 1.0.2 before 1.0.2a does not properly perform boolean-type comparisons, which allows remote attackers to cause a denial of service (invalid read operation and application crash) via a crafted X.509 certificate to an endpoint that uses the certificate-verification feature.
+- [Live-Hack-CVE/CVE-2015-0286](https://github.com/Live-Hack-CVE/CVE-2015-0286)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-0286">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-0286">
+
+---
+## CVE-2015-0285 (2015-03-19T22:59:00)
+> The ssl3_client_hello function in s3_clnt.c in OpenSSL 1.0.2 before 1.0.2a does not ensure that the PRNG is seeded before proceeding with a handshake, which makes it easier for remote attackers to defeat cryptographic protection mechanisms by sniffing the network and then conducting a brute-force attack.
+- [Live-Hack-CVE/CVE-2015-0285](https://github.com/Live-Hack-CVE/CVE-2015-0285)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-0285">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-0285">
+
+---
+## CVE-2015-0209 (2015-03-19T22:59:00)
+> Use-after-free vulnerability in the d2i_ECPrivateKey function in crypto/ec/ec_asn1.c in OpenSSL before 0.9.8zf, 1.0.0 before 1.0.0r, 1.0.1 before 1.0.1m, and 1.0.2 before 1.0.2a might allow remote attackers to cause a denial of service (memory corruption and application crash) or possibly have unspecified other impact via a malformed Elliptic Curve (EC) private-key file that is improperly handled during import.
+- [Live-Hack-CVE/CVE-2015-0209](https://github.com/Live-Hack-CVE/CVE-2015-0209)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-0209">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-0209">
+
+---
+## CVE-2015-0208 (2015-03-19T22:59:00)
+> The ASN.1 signature-verification implementation in the rsa_item_verify function in crypto/rsa/rsa_ameth.c in OpenSSL 1.0.2 before 1.0.2a allows remote attackers to cause a denial of service (NULL pointer dereference and application crash) via crafted RSA PSS parameters to an endpoint that uses the certificate-verification feature.
+- [Live-Hack-CVE/CVE-2015-0208](https://github.com/Live-Hack-CVE/CVE-2015-0208)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-0208">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-0208">

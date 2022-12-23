@@ -153,6 +153,16 @@
 - [SpiralBL0CK/CVE-2016-2338-nday](https://github.com/SpiralBL0CK/CVE-2016-2338-nday)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/CVE-2016-2338-nday">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/CVE-2016-2338-nday">
 
 ---
+## CVE-2016-2180 (2016-08-01T02:59:00)
+> The TS_OBJ_print_bio function in crypto/ts/ts_lib.c in the X.509 Public Key Infrastructure Time-Stamp Protocol (TSP) implementation in OpenSSL through 1.0.2h allows remote attackers to cause a denial of service (out-of-bounds read and application crash) via a crafted time-stamp file that is mishandled by the "openssl ts" command.
+- [Live-Hack-CVE/CVE-2016-2180](https://github.com/Live-Hack-CVE/CVE-2016-2180)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-2180">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-2180">
+
+---
+## CVE-2016-2105 (2016-05-05T01:59:00)
+> Integer overflow in the EVP_EncodeUpdate function in crypto/evp/encode.c in OpenSSL before 1.0.1t and 1.0.2 before 1.0.2h allows remote attackers to cause a denial of service (heap memory corruption) via a large amount of binary data.
+- [Live-Hack-CVE/CVE-2016-2105](https://github.com/Live-Hack-CVE/CVE-2016-2105)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-2105">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-2105">
+
+---
 ## CVE-2016-2098 (2016-04-07T23:59:00)
 > Action Pack in Ruby on Rails before 3.2.22.2, 4.x before 4.1.14.2, and 4.2.x before 4.2.5.2 allows remote attackers to execute arbitrary Ruby code by leveraging an application's unrestricted use of the render method.
 - [Shakun8/CVE-2016-2098](https://github.com/Shakun8/CVE-2016-2098)	<img alt="forks" src="https://img.shields.io/github/forks/Shakun8/CVE-2016-2098">	<img alt="stars" src="https://img.shields.io/github/stars/Shakun8/CVE-2016-2098">
@@ -212,6 +222,26 @@
 - [Live-Hack-CVE/CVE-2016-1002](https://github.com/Live-Hack-CVE/CVE-2016-1002)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-1002">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-1002">
 
 ---
+## CVE-2016-10012 (2017-01-05T02:59:00)
+> The shared memory manager (associated with pre-authentication compression) in sshd in OpenSSH before 7.4 does not ensure that a bounds check is enforced by all compilers, which might allows local users to gain privileges by leveraging access to a sandboxed privilege-separation process, related to the m_zback and m_zlib data structures.
+- [Live-Hack-CVE/CVE-2016-10012](https://github.com/Live-Hack-CVE/CVE-2016-10012)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-10012">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-10012">
+
+---
+## CVE-2016-10011 (2017-01-05T02:59:00)
+> authfile.c in sshd in OpenSSH before 7.4 does not properly consider the effects of realloc on buffer contents, which might allow local users to obtain sensitive private-key information by leveraging access to a privilege-separated child process.
+- [Live-Hack-CVE/CVE-2016-10011](https://github.com/Live-Hack-CVE/CVE-2016-10011)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-10011">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-10011">
+
+---
+## CVE-2016-10010 (2017-01-05T02:59:00)
+> sshd in OpenSSH before 7.4, when privilege separation is not used, creates forwarded Unix-domain sockets as root, which might allow local users to gain privileges via unspecified vectors, related to serverloop.c.
+- [Live-Hack-CVE/CVE-2016-10010](https://github.com/Live-Hack-CVE/CVE-2016-10010)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-10010">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-10010">
+
+---
+## CVE-2016-10009 (2017-01-05T02:59:00)
+> Untrusted search path vulnerability in ssh-agent.c in ssh-agent in OpenSSH before 7.4 allows remote attackers to execute arbitrary local PKCS#11 modules by leveraging control over a forwarded agent-socket.
+- [Live-Hack-CVE/CVE-2016-10009](https://github.com/Live-Hack-CVE/CVE-2016-10009)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-10009">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-10009">
+
+---
 ## CVE-2016-0999 (2016-03-12T15:59:00)
 > Use-after-free vulnerability in Adobe Flash Player before 18.0.0.333 and 19.x through 21.x before 21.0.0.182 on Windows and OS X and before 11.2.202.577 on Linux, Adobe AIR before 21.0.0.176, Adobe AIR SDK before 21.0.0.176, and Adobe AIR SDK & Compiler before 21.0.0.176 allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-0987, CVE-2016-0988, CVE-2016-0990, CVE-2016-0991, CVE-2016-0994, CVE-2016-0995, CVE-2016-0996, CVE-2016-0997, CVE-2016-0998, and CVE-2016-1000.
 - [Live-Hack-CVE/CVE-2016-0999](https://github.com/Live-Hack-CVE/CVE-2016-0999)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-0999">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-0999">
@@ -252,6 +282,36 @@
 - [Live-Hack-CVE/CVE-2016-0963](https://github.com/Live-Hack-CVE/CVE-2016-0963)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-0963">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-0963">
 
 ---
+## CVE-2016-0800 (2016-03-01T20:59:00)
+> The SSLv2 protocol, as used in OpenSSL before 1.0.1s and 1.0.2 before 1.0.2g and other products, requires a server to send a ServerVerify message before establishing that a client possesses certain plaintext RSA data, which makes it easier for remote attackers to decrypt TLS ciphertext data by leveraging a Bleichenbacher RSA padding oracle, aka a "DROWN" attack.
+- [Live-Hack-CVE/CVE-2016-0800](https://github.com/Live-Hack-CVE/CVE-2016-0800)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-0800">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-0800">
+
+---
+## CVE-2016-0799 (2016-03-03T20:59:00)
+> The fmtstr function in crypto/bio/b_print.c in OpenSSL 1.0.1 before 1.0.1s and 1.0.2 before 1.0.2g improperly calculates string lengths, which allows remote attackers to cause a denial of service (overflow and out-of-bounds read) or possibly have unspecified other impact via a long string, as demonstrated by a large amount of ASN.1 data, a different vulnerability than CVE-2016-2842.
+- [Live-Hack-CVE/CVE-2016-0799](https://github.com/Live-Hack-CVE/CVE-2016-0799)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-0799">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-0799">
+
+---
+## CVE-2016-0798 (2016-03-03T20:59:00)
+> Memory leak in the SRP_VBASE_get_by_user implementation in OpenSSL 1.0.1 before 1.0.1s and 1.0.2 before 1.0.2g allows remote attackers to cause a denial of service (memory consumption) by providing an invalid username in a connection attempt, related to apps/s_server.c and crypto/srp/srp_vfy.c.
+- [Live-Hack-CVE/CVE-2016-0798](https://github.com/Live-Hack-CVE/CVE-2016-0798)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-0798">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-0798">
+
+---
+## CVE-2016-0797 (2016-03-03T20:59:00)
+> Multiple integer overflows in OpenSSL 1.0.1 before 1.0.1s and 1.0.2 before 1.0.2g allow remote attackers to cause a denial of service (heap memory corruption or NULL pointer dereference) or possibly have unspecified other impact via a long digit string that is mishandled by the (1) BN_dec2bn or (2) BN_hex2bn function, related to crypto/bn/bn.h and crypto/bn/bn_print.c.
+- [Live-Hack-CVE/CVE-2016-0797](https://github.com/Live-Hack-CVE/CVE-2016-0797)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-0797">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-0797">
+
+---
+## CVE-2016-0778 (2016-01-14T22:59:00)
+> The (1) roaming_read and (2) roaming_write functions in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2, when certain proxy and forward options are enabled, do not properly maintain connection file descriptors, which allows remote servers to cause a denial of service (heap-based buffer overflow) or possibly have unspecified other impact by requesting many forwardings.
+- [Live-Hack-CVE/CVE-2016-0778](https://github.com/Live-Hack-CVE/CVE-2016-0778)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-0778">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-0778">
+
+---
+## CVE-2016-0777 (2016-01-14T22:59:00)
+> The resend_bytes function in roaming_common.c in the client in OpenSSH 5.x, 6.x, and 7.x before 7.1p2 allows remote servers to obtain sensitive information from process memory by requesting transmission of an entire buffer, as demonstrated by reading a private key.
+- [Live-Hack-CVE/CVE-2016-0777](https://github.com/Live-Hack-CVE/CVE-2016-0777)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-0777">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-0777">
+
+---
 ## CVE-2016-0728 (2016-02-08T03:59:00)
 > The join_session_keyring function in security/keys/process_keys.c in the Linux kernel before 4.4.1 mishandles object references in a certain error case, which allows local users to gain privileges or cause a denial of service (integer overflow and use-after-free) via crafted keyctl commands. <a href="http://cwe.mitre.org/data/definitions/190.html">CWE-190: Integer Overflow or Wraparound</a> <br />
 
@@ -273,6 +333,21 @@
 - [isnuryusuf/cve_2016_0728](https://github.com/isnuryusuf/cve_2016_0728)	<img alt="forks" src="https://img.shields.io/github/forks/isnuryusuf/cve_2016_0728">	<img alt="stars" src="https://img.shields.io/github/stars/isnuryusuf/cve_2016_0728">
 - [idl3r/cve-2016-0728](https://github.com/idl3r/cve-2016-0728)	<img alt="forks" src="https://img.shields.io/github/forks/idl3r/cve-2016-0728">	<img alt="stars" src="https://img.shields.io/github/stars/idl3r/cve-2016-0728">
 - [sidrk01/cve-2016-0728](https://github.com/sidrk01/cve-2016-0728)	<img alt="forks" src="https://img.shields.io/github/forks/sidrk01/cve-2016-0728">	<img alt="stars" src="https://img.shields.io/github/stars/sidrk01/cve-2016-0728">
+
+---
+## CVE-2016-0705 (2016-03-03T20:59:00)
+> Double free vulnerability in the dsa_priv_decode function in crypto/dsa/dsa_ameth.c in OpenSSL 1.0.1 before 1.0.1s and 1.0.2 before 1.0.2g allows remote attackers to cause a denial of service (memory corruption) or possibly have unspecified other impact via a malformed DSA private key.
+- [Live-Hack-CVE/CVE-2016-0705](https://github.com/Live-Hack-CVE/CVE-2016-0705)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-0705">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-0705">
+
+---
+## CVE-2016-0703 (2016-03-02T11:59:00)
+> The get_client_master_key function in s2_srvr.c in the SSLv2 implementation in OpenSSL before 0.9.8zf, 1.0.0 before 1.0.0r, 1.0.1 before 1.0.1m, and 1.0.2 before 1.0.2a accepts a nonzero CLIENT-MASTER-KEY CLEAR-KEY-LENGTH value for an arbitrary cipher, which allows man-in-the-middle attackers to determine the MASTER-KEY value and decrypt TLS ciphertext data by leveraging a Bleichenbacher RSA padding oracle, a related issue to CVE-2016-0800.
+- [Live-Hack-CVE/CVE-2016-0703](https://github.com/Live-Hack-CVE/CVE-2016-0703)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-0703">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-0703">
+
+---
+## CVE-2016-0702 (2016-03-03T20:59:00)
+> The MOD_EXP_CTIME_COPY_FROM_PREBUF function in crypto/bn/bn_exp.c in OpenSSL 1.0.1 before 1.0.1s and 1.0.2 before 1.0.2g does not properly consider cache-bank access times during modular exponentiation, which makes it easier for local users to discover RSA keys by running a crafted application on the same Intel Sandy Bridge CPU core as a victim and leveraging cache-bank conflicts, aka a "CacheBleed" attack.
+- [Live-Hack-CVE/CVE-2016-0702](https://github.com/Live-Hack-CVE/CVE-2016-0702)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-0702">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-0702">
 
 ---
 ## CVE-2016-0451 (2016-01-21T03:00:00)
