@@ -2713,6 +2713,16 @@
 ## CVE-2022-3909 (2022-12-05T17:15:00)
 > The Add Comments WordPress plugin through 1.0.1 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup).
 - [Live-Hack-CVE/CVE-2022-3909](https://github.com/Live-Hack-CVE/CVE-2022-3909)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3909">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3909">
+- [Live-Hack-CVE/CVE-2022-39096](https://github.com/Live-Hack-CVE/CVE-2022-39096)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39096">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39096">
+- [Live-Hack-CVE/CVE-2022-39095](https://github.com/Live-Hack-CVE/CVE-2022-39095)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39095">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39095">
+- [Live-Hack-CVE/CVE-2022-39090](https://github.com/Live-Hack-CVE/CVE-2022-39090)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39090">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39090">
+- [Live-Hack-CVE/CVE-2022-39091](https://github.com/Live-Hack-CVE/CVE-2022-39091)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39091">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39091">
+- [Live-Hack-CVE/CVE-2022-39094](https://github.com/Live-Hack-CVE/CVE-2022-39094)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39094">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39094">
+- [Live-Hack-CVE/CVE-2022-39093](https://github.com/Live-Hack-CVE/CVE-2022-39093)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39093">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39093">
+- [Live-Hack-CVE/CVE-2022-39092](https://github.com/Live-Hack-CVE/CVE-2022-39092)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39092">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39092">
+- [Live-Hack-CVE/CVE-2022-39097](https://github.com/Live-Hack-CVE/CVE-2022-39097)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39097">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39097">
+- [Live-Hack-CVE/CVE-2022-39098](https://github.com/Live-Hack-CVE/CVE-2022-39098)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39098">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39098">
+- [Live-Hack-CVE/CVE-2022-39099](https://github.com/Live-Hack-CVE/CVE-2022-39099)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39099">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39099">
 
 ---
 ## CVE-2022-39066 (2022-11-22T17:15:00)
