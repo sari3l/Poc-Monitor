@@ -872,6 +872,11 @@
 - [core1impact/CVE-2021-38163](https://github.com/core1impact/CVE-2021-38163)	<img alt="forks" src="https://img.shields.io/github/forks/core1impact/CVE-2021-38163">	<img alt="stars" src="https://img.shields.io/github/stars/core1impact/CVE-2021-38163">
 
 ---
+## CVE-2021-37823 (2022-11-03T17:15:00)
+> OpenCart 3.0.3.7 allows users to obtain database information or read server files through SQL injection in the background.
+- [Live-Hack-CVE/CVE-2021-37823](https://github.com/Live-Hack-CVE/CVE-2021-37823)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37823">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37823">
+
+---
 ## CVE-2021-37740 (2022-04-20T20:15:00)
 > A denial of service vulnerability exists in MDT's firmware for the KNXnet/IP Secure router SCN-IP100.03 and KNX IP interface SCN-IP000.03 before v3.0.4, that allows a remote attacker to turn the device unresponsive to all requests on the KNXnet/IP Secure layer, until the device is rebooted, via a SESSION_REQUEST frame with a modified total length field.
 - [robertguetzkow/CVE-2021-37740](https://github.com/robertguetzkow/CVE-2021-37740)	<img alt="forks" src="https://img.shields.io/github/forks/robertguetzkow/CVE-2021-37740">	<img alt="stars" src="https://img.shields.io/github/stars/robertguetzkow/CVE-2021-37740">
@@ -1201,6 +1206,11 @@
 - [Live-Hack-CVE/CVE-2021-31650](https://github.com/Live-Hack-CVE/CVE-2021-31650)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31650">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31650">
 
 ---
+## CVE-2021-31566 (2022-08-23T16:15:00)
+> An improper link resolution flaw can occur while extracting an archive leading to changing modes, times, access control lists, and flags of a file outside of the archive. An attacker may provide a malicious archive to a victim user, who would trigger this flaw when trying to extract the archive. A local attacker may use this flaw to gain more privileges in a system.
+- [Live-Hack-CVE/CVE-2021-31566](https://github.com/Live-Hack-CVE/CVE-2021-31566)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31566">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31566">
+
+---
 ## CVE-2021-3156 (2021-01-26T21:15:00)
 > Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via "sudoedit -s" and a command-line argument that ends with a single backslash character.
 - [arvindshima/CVE-2021-3156](https://github.com/arvindshima/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/arvindshima/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/arvindshima/CVE-2021-3156">
@@ -1343,6 +1353,11 @@
 - [mega8bit/exploit_cve-2021-29447](https://github.com/mega8bit/exploit_cve-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/mega8bit/exploit_cve-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/mega8bit/exploit_cve-2021-29447">
 - [thomas-osgood/CVE-2021-29447](https://github.com/thomas-osgood/CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/thomas-osgood/CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/thomas-osgood/CVE-2021-29447">
 - [Abdulazizalsewedy/CVE-2021-29447](https://github.com/Abdulazizalsewedy/CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/Abdulazizalsewedy/CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/Abdulazizalsewedy/CVE-2021-29447">
+
+---
+## CVE-2021-29421 (2021-04-01T20:15:00)
+> models/metadata.py in the pikepdf package 1.3.0 through 2.9.2 for Python allows XXE when parsing XMP metadata entries.
+- [Live-Hack-CVE/CVE-2021-29421](https://github.com/Live-Hack-CVE/CVE-2021-29421)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29421">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29421">
 
 ---
 ## CVE-2021-29156 (2021-03-25T09:15:00)
@@ -1583,6 +1598,11 @@
 ## CVE-2021-23215 (2021-06-08T12:15:00)
 > An integer overflow leading to a heap-buffer overflow was found in the DwaCompressor of OpenEXR in versions before 3.0.1. An attacker could use this flaw to crash an application compiled with OpenEXR.
 - [Live-Hack-CVE/CVE-2021-23215](https://github.com/Live-Hack-CVE/CVE-2021-23215)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23215">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23215">
+
+---
+## CVE-2021-23177 (2022-08-23T16:15:00)
+> An improper link resolution flaw while extracting an archive can lead to changing the access control list (ACL) of the target of the link. An attacker may provide a malicious archive to a victim user, who would trigger this flaw when trying to extract the archive. A local attacker may use this flaw to change the ACL of a file on the system and gain more privileges.
+- [Live-Hack-CVE/CVE-2021-23177](https://github.com/Live-Hack-CVE/CVE-2021-23177)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23177">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23177">
 
 ---
 ## CVE-2021-23017 (2021-06-01T13:15:00)

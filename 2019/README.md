@@ -432,6 +432,11 @@
 - [Live-Hack-CVE/CVE-2019-19725](https://github.com/Live-Hack-CVE/CVE-2019-19725)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19725">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19725">
 
 ---
+## CVE-2019-19221 (2019-11-21T23:15:00)
+> In Libarchive 3.4.0, archive_wstring_append_from_mbs in archive_string.c has an out-of-bounds read because of an incorrect mbrtowc or mbtowc call. For example, bsdtar crashes via a crafted archive.
+- [Live-Hack-CVE/CVE-2019-19221](https://github.com/Live-Hack-CVE/CVE-2019-19221)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19221">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19221">
+
+---
 ## CVE-2019-18845 (2019-11-09T18:15:00)
 > The MsIo64.sys and MsIo32.sys drivers in Patriot Viper RGB before 1.1 allow local users (including low integrity processes) to read and write to arbitrary memory locations, and consequently gain NT AUTHORITY\SYSTEM privileges, by mapping \Device\PhysicalMemory into the calling process via ZwOpenSection and ZwMapViewOfSection.
 - [Exploitables/CVE-2019-18845](https://github.com/Exploitables/CVE-2019-18845)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2019-18845">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2019-18845">

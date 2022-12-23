@@ -158,6 +158,26 @@
 - [Exploitables/CVE-2018-3990-TALOS-2018-0658](https://github.com/Exploitables/CVE-2018-3990-TALOS-2018-0658)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2018-3990-TALOS-2018-0658">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2018-3990-TALOS-2018-0658">
 
 ---
+## CVE-2018-3856 (2018-08-23T22:29:00)
+> An exploitable vulnerability exists in the smart cameras RTSP configuration of the Samsung SmartThings Hub STH-ETH-250 - Firmware version 0.20.17. The device incorrectly handles spaces in the URL field, leading to an arbitrary operating system command injection. An attacker can send a series of HTTP requests to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2018-3856](https://github.com/Live-Hack-CVE/CVE-2018-3856)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3856">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3856">
+
+---
+## CVE-2018-3854 (2018-12-03T22:29:00)
+> An exploitable information disclosure vulnerability exists in the password protection functionality of Quicken Deluxe 2018 for Mac version 5.2.2. A specially crafted sqlite3 request can cause the removal of the password protection, allowing an attacker to access and modify the data without knowing the password. An attacker needs to have access to the password-protected files to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2018-3854](https://github.com/Live-Hack-CVE/CVE-2018-3854)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3854">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3854">
+
+---
+## CVE-2018-3853 (2018-06-04T20:29:00)
+> An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software Foxit PDF Reader version 9.0.1.1049. A specially crafted PDF document can trigger a previously freed object in memory to be reused resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious file to trigger this vulnerability. If the browser plugin extension is enabled, visiting a malicious site can also trigger the vulnerability.
+- [Live-Hack-CVE/CVE-2018-3853](https://github.com/Live-Hack-CVE/CVE-2018-3853)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3853">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3853">
+
+---
+## CVE-2018-3852 (2018-06-06T21:29:00)
+> An exploitable denial of service vulnerability exists in the Ocularis Recorder functionality of Ocularis 5.5.0.242. A specially crafted TCP packet can cause a process to terminate resulting in denial of service. An attacker can send a crafted TCP packet to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2018-3852](https://github.com/Live-Hack-CVE/CVE-2018-3852)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3852">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3852">
+
+---
 ## CVE-2018-2628 (2018-04-19T02:29:00)
 > Vulnerability in the Oracle WebLogic Server component of Oracle Fusion Middleware (subcomponent: WLS Core Components). Supported versions that are affected are 10.3.6.0, 12.1.3.0, 12.2.1.2 and 12.2.1.3. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3 to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.0 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).
 - [cscadoge/weblogic-cve-2018-2628](https://github.com/cscadoge/weblogic-cve-2018-2628)	<img alt="forks" src="https://img.shields.io/github/forks/cscadoge/weblogic-cve-2018-2628">	<img alt="stars" src="https://img.shields.io/github/stars/cscadoge/weblogic-cve-2018-2628">

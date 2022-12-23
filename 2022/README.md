@@ -2017,6 +2017,16 @@
 - [Live-Hack-CVE/CVE-2022-42324](https://github.com/Live-Hack-CVE/CVE-2022-42324)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42324">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42324">
 
 ---
+## CVE-2022-42317 (2022-11-01T13:15:00)
+> Xenstore: guests can let run xenstored out of memory T[his CNA information record relates to multiple CVEs; the text explains which aspects/vulnerabilities correspond to which CVE.] Malicious guests can cause xenstored to allocate vast amounts of memory, eventually resulting in a Denial of Service (DoS) of xenstored. There are multiple ways how guests can cause large memory allocations in xenstored: - - by issuing new requests to xenstored without reading the responses, causing the responses to be buffered in memory - - by causing large number of watch events to be generated via setting up multiple xenstore watches and then e.g. deleting many xenstore nodes below the watched path - - by creating as many nodes as allowed with the maximum allowed size and path length in as many transactions as possible - - by accessing many nodes inside a transaction
+- [Live-Hack-CVE/CVE-2022-42317](https://github.com/Live-Hack-CVE/CVE-2022-42317)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42317">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42317">
+
+---
+## CVE-2022-42310 (2022-11-01T13:15:00)
+> Xenstore: Guests can create orphaned Xenstore nodes By creating multiple nodes inside a transaction resulting in an error, a malicious guest can create orphaned nodes in the Xenstore data base, as the cleanup after the error will not remove all nodes already created. When the transaction is committed after this situation, nodes without a valid parent can be made permanent in the data base.
+- [Live-Hack-CVE/CVE-2022-42310](https://github.com/Live-Hack-CVE/CVE-2022-42310)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42310">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42310">
+
+---
 ## CVE-2022-42176 (2022-10-20T15:15:00)
 > In PCTechSoft PCSecure V5.0.8.xw, use of Hard-coded Credentials in configuration files leads to admin panel access.
 - [soy-oreocato/CVE-2022-42176](https://github.com/soy-oreocato/CVE-2022-42176)	<img alt="forks" src="https://img.shields.io/github/forks/soy-oreocato/CVE-2022-42176">	<img alt="stars" src="https://img.shields.io/github/stars/soy-oreocato/CVE-2022-42176">
@@ -3061,6 +3071,11 @@
 - [Live-Hack-CVE/CVE-2022-38266](https://github.com/Live-Hack-CVE/CVE-2022-38266)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38266">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38266">
 
 ---
+## CVE-2022-38139 (2022-09-13T14:15:00)
+> Multiple Cross-Site Request Forgery (CSRF) vulnerabilities in RD Station plugin <= 5.2.0 at WordPress.
+- [Live-Hack-CVE/CVE-2022-38139](https://github.com/Live-Hack-CVE/CVE-2022-38139)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38139">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38139">
+
+---
 ## CVE-2022-38123 (2022-12-06T16:15:00)
 > Improper Input Validation of plugin files in Administrator Interface of Secomea GateManager allows a server administrator to inject code into the GateManager interface. This issue affects: Secomea GateManager versions prior to 10.0.
 - [Live-Hack-CVE/CVE-2022-38123](https://github.com/Live-Hack-CVE/CVE-2022-38123)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38123">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38123">
@@ -3447,6 +3462,11 @@
 - [Live-Hack-CVE/CVE-2022-3652](https://github.com/Live-Hack-CVE/CVE-2022-3652)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3652">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3652">
 
 ---
+## CVE-2022-3649 (2022-10-21T20:15:00)
+> A vulnerability was found in Linux Kernel. It has been classified as problematic. Affected is the function nilfs_new_inode of the file fs/nilfs2/inode.c of the component BPF. The manipulation leads to use after free. It is possible to launch the attack remotely. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-211992.
+- [Live-Hack-CVE/CVE-2022-3649](https://github.com/Live-Hack-CVE/CVE-2022-3649)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3649">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3649">
+
+---
 ## CVE-2022-36446 (2022-07-25T06:15:00)
 > software/apt-lib.pl in Webmin before 1.997 lacks HTML escaping for a UI command.
 - [p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE](https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE">
@@ -3593,6 +3613,11 @@
 - [p1ckzi/CVE-2022-35513](https://github.com/p1ckzi/CVE-2022-35513)	<img alt="forks" src="https://img.shields.io/github/forks/p1ckzi/CVE-2022-35513">	<img alt="stars" src="https://img.shields.io/github/stars/p1ckzi/CVE-2022-35513">
 
 ---
+## CVE-2022-3551 (2022-10-17T13:15:00)
+> A vulnerability, which was classified as problematic, has been found in X.org Server. Affected by this issue is the function ProcXkbGetKbdByName of the file xkb/xkb.c. The manipulation leads to memory leak. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-211052.
+- [Live-Hack-CVE/CVE-2022-3551](https://github.com/Live-Hack-CVE/CVE-2022-3551)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3551">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3551">
+
+---
 ## CVE-2022-35508 (2022-12-04T19:15:00)
 > Proxmox Virtual Environment (PVE) and Proxmox Mail Gateway (PMG) are vulnerable to SSRF when proxying HTTP requests between pve(pmg)proxy and pve(pmg)daemon. An attacker with an unprivileged account can craft an HTTP request to achieve SSRF and file disclosure of any files on the server. Also, in Proxmox Mail Gateway, privilege escalation to the root@pam account is possible if the backup feature has ever been used, because backup files such as pmg-backup_YYYY_MM_DD_*.tgz have 0644 permissions and contain an authkey value. This is fixed in pve-http-server 4.1-3.
 - [Live-Hack-CVE/CVE-2022-35508](https://github.com/Live-Hack-CVE/CVE-2022-35508)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35508">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35508">
@@ -3672,6 +3697,41 @@
 ## CVE-2022-35131 (2022-07-25T21:15:00)
 > Joplin v2.8.8 allows attackers to execute arbitrary commands via a crafted payload injected into the Node titles.
 - [ly1g3/Joplin-CVE-2022-35131](https://github.com/ly1g3/Joplin-CVE-2022-35131)	<img alt="forks" src="https://img.shields.io/github/forks/ly1g3/Joplin-CVE-2022-35131">	<img alt="stars" src="https://img.shields.io/github/stars/ly1g3/Joplin-CVE-2022-35131">
+
+---
+## CVE-2022-35020 (2022-08-29T14:15:00)
+> Advancecomp v2.3 was discovered to contain a heap buffer overflow via the component __interceptor_memcpy at /sanitizer_common/sanitizer_common_interceptors.inc.
+- [Live-Hack-CVE/CVE-2022-35020](https://github.com/Live-Hack-CVE/CVE-2022-35020)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35020">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35020">
+
+---
+## CVE-2022-35019 (2022-08-29T14:15:00)
+> Advancecomp v2.3 was discovered to contain a segmentation fault.
+- [Live-Hack-CVE/CVE-2022-35019](https://github.com/Live-Hack-CVE/CVE-2022-35019)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35019">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35019">
+
+---
+## CVE-2022-35018 (2022-08-29T14:15:00)
+> Advancecomp v2.3 was discovered to contain a segmentation fault.
+- [Live-Hack-CVE/CVE-2022-35018](https://github.com/Live-Hack-CVE/CVE-2022-35018)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35018">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35018">
+
+---
+## CVE-2022-35017 (2022-08-29T14:15:00)
+> Advancecomp v2.3 was discovered to contain a heap buffer overflow.
+- [Live-Hack-CVE/CVE-2022-35017](https://github.com/Live-Hack-CVE/CVE-2022-35017)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35017">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35017">
+
+---
+## CVE-2022-35016 (2022-08-29T14:15:00)
+> Advancecomp v2.3 was discovered to contain a heap buffer overflow.
+- [Live-Hack-CVE/CVE-2022-35016](https://github.com/Live-Hack-CVE/CVE-2022-35016)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35016">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35016">
+
+---
+## CVE-2022-35015 (2022-08-29T14:15:00)
+> Advancecomp v2.3 was discovered to contain a heap buffer overflow via le_uint32_read at /lib/endianrw.h.
+- [Live-Hack-CVE/CVE-2022-35015](https://github.com/Live-Hack-CVE/CVE-2022-35015)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35015">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35015">
+
+---
+## CVE-2022-35014 (2022-08-29T14:15:00)
+> Advancecomp v2.3 contains a segmentation fault.
+- [Live-Hack-CVE/CVE-2022-35014](https://github.com/Live-Hack-CVE/CVE-2022-35014)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35014">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35014">
 
 ---
 ## CVE-2022-34970 (2022-08-04T19:15:00)
@@ -3921,6 +3981,11 @@
 - [AngeloPioAmirante/CVE-2022-33075](https://github.com/AngeloPioAmirante/CVE-2022-33075)	<img alt="forks" src="https://img.shields.io/github/forks/AngeloPioAmirante/CVE-2022-33075">	<img alt="stars" src="https://img.shields.io/github/stars/AngeloPioAmirante/CVE-2022-33075">
 
 ---
+## CVE-2022-3303 (2022-09-27T23:15:00)
+> A race condition flaw was found in the Linux kernel sound subsystem due to improper locking. It could lead to a NULL pointer dereference while handling the SNDCTL_DSP_SYNC ioctl. A privileged local user (root or member of the audio group) could use this flaw to crash the system, resulting in a denial of service condition
+- [Live-Hack-CVE/CVE-2022-3303](https://github.com/Live-Hack-CVE/CVE-2022-3303)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3303">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3303">
+
+---
 ## CVE-2022-32988 (2022-07-01T00:15:00)
 > Cross Site Scripting (XSS) vulnerability in router Asus DSL-N14U-B1 1.1.2.3_805 via the "*list" parameters (e.g. filter_lwlist, keyword_rulelist, etc) in every ".asp" page containing a list of stored strings. The following asp files are affected: (1) cgi-bin/APP_Installation.asp, (2) cgi-bin/Advanced_ACL_Content.asp, (3) cgi-bin/Advanced_ADSL_Content.asp, (4) cgi-bin/Advanced_ASUSDDNS_Content.asp, (5) cgi-bin/Advanced_AiDisk_ftp.asp, (6) cgi-bin/Advanced_AiDisk_samba.asp, (7) cgi-bin/Advanced_DSL_Content.asp, (8) cgi-bin/Advanced_Firewall_Content.asp, (9) cgi-bin/Advanced_FirmwareUpgrade_Content.asp, (10) cgi-bin/Advanced_GWStaticRoute_Content.asp, (11) cgi-bin/Advanced_IPTV_Content.asp, (12) cgi-bin/Advanced_IPv6_Content.asp, (13) cgi-bin/Advanced_KeywordFilter_Content.asp, (14) cgi-bin/Advanced_LAN_Content.asp, (15) cgi-bin/Advanced_Modem_Content.asp, (16) cgi-bin/Advanced_PortTrigger_Content.asp, (17) cgi-bin/Advanced_QOSUserPrio_Content.asp, (18) cgi-bin/Advanced_QOSUserRules_Content.asp, (19) cgi-bin/Advanced_SettingBackup_Content.asp, (20) cgi-bin/Advanced_System_Content.asp, (21) cgi-bin/Advanced_URLFilter_Content.asp, (22) cgi-bin/Advanced_VPN_PPTP.asp, (23) cgi-bin/Advanced_VirtualServer_Content.asp, (24) cgi-bin/Advanced_WANPort_Content.asp, (25) cgi-bin/Advanced_WAdvanced_Content.asp, (26) cgi-bin/Advanced_WMode_Content.asp, (27) cgi-bin/Advanced_WWPS_Content.asp, (28) cgi-bin/Advanced_Wireless_Content.asp, (29) cgi-bin/Bandwidth_Limiter.asp, (30) cgi-bin/Guest_network.asp, (31) cgi-bin/Main_AccessLog_Content.asp, (32) cgi-bin/Main_AdslStatus_Content.asp, (33) cgi-bin/Main_Spectrum_Content.asp, (34) cgi-bin/Main_WebHistory_Content.asp, (35) cgi-bin/ParentalControl.asp, (36) cgi-bin/QIS_wizard.asp, (37) cgi-bin/QoS_EZQoS.asp, (38) cgi-bin/aidisk.asp, (39) cgi-bin/aidisk/Aidisk-1.asp, (40) cgi-bin/aidisk/Aidisk-2.asp, (41) cgi-bin/aidisk/Aidisk-3.asp, (42) cgi-bin/aidisk/Aidisk-4.asp, (43) cgi-bin/blocking.asp, (44) cgi-bin/cloud_main.asp, (45) cgi-bin/cloud_router_sync.asp, (46) cgi-bin/cloud_settings.asp, (47) cgi-bin/cloud_sync.asp, (48) cgi-bin/device-map/DSL_dashboard.asp, (49) cgi-bin/device-map/clients.asp, (50) cgi-bin/device-map/disk.asp, (51) cgi-bin/device-map/internet.asp, (52) cgi-bin/error_page.asp, (53) cgi-bin/index.asp, (54) cgi-bin/index2.asp, (55) cgi-bin/qis/QIS_PTM_manual_setting.asp, (56) cgi-bin/qis/QIS_admin_pass.asp, (57) cgi-bin/qis/QIS_annex_setting.asp, (58) cgi-bin/qis/QIS_bridge_cfg_tmp.asp, (59) cgi-bin/qis/QIS_detect.asp, (60) cgi-bin/qis/QIS_finish.asp, (61) cgi-bin/qis/QIS_ipoa_cfg_tmp.asp, (62) cgi-bin/qis/QIS_manual_setting.asp, (63) cgi-bin/qis/QIS_mer_cfg.asp, (64) cgi-bin/qis/QIS_mer_cfg_tmp.asp, (65) cgi-bin/qis/QIS_ppp_cfg.asp, (66) cgi-bin/qis/QIS_ppp_cfg_tmp.asp, (67) cgi-bin/qis/QIS_wireless.asp, (68) cgi-bin/query_wan_status.asp, (69) cgi-bin/query_wan_status2.asp, and (70) cgi-bin/start_apply.asp.
 - [FedericoHeichou/CVE-2022-32988](https://github.com/FedericoHeichou/CVE-2022-32988)	<img alt="forks" src="https://img.shields.io/github/forks/FedericoHeichou/CVE-2022-32988">	<img alt="stars" src="https://img.shields.io/github/stars/FedericoHeichou/CVE-2022-32988">
@@ -4114,6 +4179,11 @@
 ## CVE-2022-31793 (2022-08-04T22:15:00)
 > do_request in request.c in muhttpd before 1.1.7 allows remote attackers to read arbitrary files by constructing a URL with a single character before a desired path on the filesystem. This occurs because the code skips over the first character when serving files. Arris NVG443, NVG599, NVG589, and NVG510 devices and Arris-derived BGW210 and BGW320 devices are affected.
 - [xpgdgit/CVE-2022-31793](https://github.com/xpgdgit/CVE-2022-31793)	<img alt="forks" src="https://img.shields.io/github/forks/xpgdgit/CVE-2022-31793">	<img alt="stars" src="https://img.shields.io/github/stars/xpgdgit/CVE-2022-31793">
+
+---
+## CVE-2022-31779 (2022-08-10T06:15:00)
+> Improper Input Validation vulnerability in HTTP/2 header parsing of Apache Traffic Server allows an attacker to smuggle requests. This issue affects Apache Traffic Server 8.0.0 to 9.1.2.
+- [Live-Hack-CVE/CVE-2022-31779](https://github.com/Live-Hack-CVE/CVE-2022-31779)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31779">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31779">
 
 ---
 ## CVE-2022-31749 ()
@@ -5142,6 +5212,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-25912](https://github.com/Live-Hack-CVE/CVE-2022-25912)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25912">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25912">
 
 ---
+## CVE-2022-25892 (2022-11-01T05:15:00)
+> The package muhammara before 2.6.1, from 3.0.0 and before 3.1.1; all versions of package hummus are vulnerable to Denial of Service (DoS) when supplied with a maliciously crafted PDF file to be parsed.
+- [Live-Hack-CVE/CVE-2022-25892](https://github.com/Live-Hack-CVE/CVE-2022-25892)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25892">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25892">
+
+---
 ## CVE-2022-2588 ()
 > 
 - [Markakd/CVE-2022-2588](https://github.com/Markakd/CVE-2022-2588)	<img alt="forks" src="https://img.shields.io/github/forks/Markakd/CVE-2022-2588">	<img alt="stars" src="https://img.shields.io/github/stars/Markakd/CVE-2022-2588">
@@ -5372,6 +5447,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-2402 (2022-09-06T18:15:00)
 > The vulnerability in the driver dlpfde.sys enables a user logged into the system to perform system calls leading to kernel stack overflow, resulting in a system crash, for instance, a BSOD.
 - [SecurityAndStuff/CVE-2022-2402](https://github.com/SecurityAndStuff/CVE-2022-2402)	<img alt="forks" src="https://img.shields.io/github/forks/SecurityAndStuff/CVE-2022-2402">	<img alt="stars" src="https://img.shields.io/github/stars/SecurityAndStuff/CVE-2022-2402">
+
+---
+## CVE-2022-23824 (2022-11-09T21:15:00)
+> IBPB may not prevent return branch predictions from being specified by pre-IBPB branch targets leading to a potential information disclosure.
+- [Live-Hack-CVE/CVE-2022-23824](https://github.com/Live-Hack-CVE/CVE-2022-23824)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23824">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23824">
 
 ---
 ## CVE-2022-23779 (2022-03-02T15:15:00)
@@ -6455,6 +6535,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [biulove0x/CVE-2022-1903](https://github.com/biulove0x/CVE-2022-1903)	<img alt="forks" src="https://img.shields.io/github/forks/biulove0x/CVE-2022-1903">	<img alt="stars" src="https://img.shields.io/github/stars/biulove0x/CVE-2022-1903">
 
 ---
+## CVE-2022-1897 (2022-05-27T15:15:00)
+> Out-of-bounds Write in GitHub repository vim/vim prior to 8.2.
+- [Live-Hack-CVE/CVE-2022-1897](https://github.com/Live-Hack-CVE/CVE-2022-1897)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1897">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1897">
+
+---
 ## CVE-2022-1802 (2022-12-22T20:15:00)
 > If an attacker was able to corrupt the methods of an Array object in JavaScript via prototype pollution, they could have achieved execution of attacker-controlled JavaScript code in a privileged context. This vulnerability affects Firefox ESR < 91.9.1, Firefox < 100.0.2, Firefox for Android < 100.3.0, and Thunderbird < 91.9.1.
 - [mistymntncop/CVE-2022-1802](https://github.com/mistymntncop/CVE-2022-1802)	<img alt="forks" src="https://img.shields.io/github/forks/mistymntncop/CVE-2022-1802">	<img alt="stars" src="https://img.shields.io/github/stars/mistymntncop/CVE-2022-1802">
@@ -6468,6 +6553,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1679 (2022-05-16T18:15:00)
 > A use-after-free flaw was found in the Linux kernel’s Atheros wireless adapter driver in the way a user forces the ath9k_htc_wait_for_target function to fail with some input messages. This flaw allows a local user to crash or potentially escalate their privileges on the system.
 - [EkamSinghWalia/-Detection-and-Mitigation-for-CVE-2022-1679](https://github.com/EkamSinghWalia/-Detection-and-Mitigation-for-CVE-2022-1679)	<img alt="forks" src="https://img.shields.io/github/forks/EkamSinghWalia/-Detection-and-Mitigation-for-CVE-2022-1679">	<img alt="stars" src="https://img.shields.io/github/stars/EkamSinghWalia/-Detection-and-Mitigation-for-CVE-2022-1679">
+- [Live-Hack-CVE/CVE-2022-1679](https://github.com/Live-Hack-CVE/CVE-2022-1679)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1679">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1679">
 
 ---
 ## CVE-2022-1609 ()
@@ -6808,6 +6894,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [shahparkhan/cve-2022-0185](https://github.com/shahparkhan/cve-2022-0185)	<img alt="forks" src="https://img.shields.io/github/forks/shahparkhan/cve-2022-0185">	<img alt="stars" src="https://img.shields.io/github/stars/shahparkhan/cve-2022-0185">
 - [khaclep007/CVE-2022-0185](https://github.com/khaclep007/CVE-2022-0185)	<img alt="forks" src="https://img.shields.io/github/forks/khaclep007/CVE-2022-0185">	<img alt="stars" src="https://img.shields.io/github/stars/khaclep007/CVE-2022-0185">
 - [discordianfish/cve-2022-0185-crash-poc](https://github.com/discordianfish/cve-2022-0185-crash-poc)	<img alt="forks" src="https://img.shields.io/github/forks/discordianfish/cve-2022-0185-crash-poc">	<img alt="stars" src="https://img.shields.io/github/stars/discordianfish/cve-2022-0185-crash-poc">
+
+---
+## CVE-2022-0171 (2022-08-26T18:15:00)
+> A flaw was found in the Linux kernel. The existing KVM SEV API has a vulnerability that allows a non-root (host) user-level application to crash the host kernel by creating a confidential guest VM instance in AMD CPU that supports Secure Encrypted Virtualization (SEV).
+- [Live-Hack-CVE/CVE-2022-0171](https://github.com/Live-Hack-CVE/CVE-2022-0171)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0171">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0171">
 
 ---
 ## CVE-2022-0135 (2022-08-25T18:15:00)

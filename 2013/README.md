@@ -26,6 +26,11 @@
 - [Live-Hack-CVE/CVE-2013-5829](https://github.com/Live-Hack-CVE/CVE-2013-5829)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-5829">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-5829">
 
 ---
+## CVE-2013-4235 (2019-12-03T15:15:00)
+> shadow: TOCTOU (time-of-check time-of-use) race condition when copying and removing directory trees
+- [Live-Hack-CVE/CVE-2013-4235](https://github.com/Live-Hack-CVE/CVE-2013-4235)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-4235">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-4235">
+
+---
 ## CVE-2013-3900 (2013-12-11T00:55:00)
 > The WinVerifyTrust function in Microsoft Windows XP SP2 and SP3, Windows Server 2003 SP2, Windows Vista SP2, Windows Server 2008 SP2 and R2 SP1, Windows 7 SP1, Windows 8, Windows 8.1, Windows Server 2012 Gold and R2, and Windows RT Gold and 8.1 does not properly validate PE file digests during Authenticode signature verification, which allows remote attackers to execute arbitrary code via a crafted PE file, aka "WinVerifyTrust Signature Validation Vulnerability."
 - [snoopopsec/vulnerability-CVE-2013-3900](https://github.com/snoopopsec/vulnerability-CVE-2013-3900)	<img alt="forks" src="https://img.shields.io/github/forks/snoopopsec/vulnerability-CVE-2013-3900">	<img alt="stars" src="https://img.shields.io/github/stars/snoopopsec/vulnerability-CVE-2013-3900">
