@@ -819,6 +819,11 @@
 - [Live-Hack-CVE/CVE-2019-1010065](https://github.com/Live-Hack-CVE/CVE-2019-1010065)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-1010065">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-1010065">
 
 ---
+## CVE-2019-0845 (2019-04-09T21:29:00)
+> A remote code execution vulnerability exists when the IOleCvt interface renders ASP webpage content, aka 'Windows IOleCvt Interface Remote Code Execution Vulnerability'.
+- [Live-Hack-CVE/CVE-2019-0845](https://github.com/Live-Hack-CVE/CVE-2019-0845)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-0845">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-0845">
+
+---
 ## CVE-2019-0230 (2020-09-14T17:15:00)
 > Apache Struts 2.0.0 to 2.5.20 forced double OGNL evaluation, when evaluated on raw user input in tag attributes, may lead to remote code execution.
 - [Live-Hack-CVE/CVE-2019-0230](https://github.com/Live-Hack-CVE/CVE-2019-0230)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-0230">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-0230">

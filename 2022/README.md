@@ -1014,9 +1014,19 @@
 - [Live-Hack-CVE/CVE-2022-4514](https://github.com/Live-Hack-CVE/CVE-2022-4514)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4514">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4514">
 
 ---
+## CVE-2022-45130 (2022-11-10T06:15:00)
+> Plesk Obsidian allows a CSRF attack, e.g., via the /api/v2/cli/commands REST API to change an Admin password. NOTE: Obsidian is a specific version of the Plesk product: version numbers were used through version 12, and then the convention was changed so that versions are identified by names ("Obsidian"), not numbers.
+- [Live-Hack-CVE/CVE-2022-45130](https://github.com/Live-Hack-CVE/CVE-2022-45130)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45130">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45130">
+
+---
 ## CVE-2022-4513 (2022-12-15T20:15:00)
 > A vulnerability, which was classified as problematic, has been found in European Environment Agency eionet.contreg. This issue affects some unknown processing. The manipulation of the argument searchTag/resourceUri leads to cross site scripting. The attack may be initiated remotely. Upgrading to version 2022-06-27T0948 is able to address this issue. The name of the patch is a120c2153e263e62c4db34a06ab96a9f1c6bccb6. It is recommended to upgrade the affected component. The identifier VDB-215885 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-4513](https://github.com/Live-Hack-CVE/CVE-2022-4513)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4513">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4513">
+
+---
+## CVE-2022-45129 (2022-11-10T06:15:00)
+> Payara before 2022-11-04, when deployed to the root context, allows attackers to visit META-INF and WEB-INF, a different vulnerability than CVE-2022-37422. This affects Payara Platform Community before 4.1.2.191.38, 5.x before 5.2022.4, and 6.x before 6.2022.1, and Payara Platform Enterprise before 5.45.0.
+- [Live-Hack-CVE/CVE-2022-45129](https://github.com/Live-Hack-CVE/CVE-2022-45129)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45129">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45129">
 
 ---
 ## CVE-2022-4511 (2022-12-15T20:15:00)
@@ -1197,6 +1207,11 @@
 ## CVE-2022-44737 (2022-11-22T16:15:00)
 > Multiple Cross-Site Request Forgery vulnerabilities in All-In-One Security (AIOS) – Security and Firewall (WordPress plugin) <= 5.1.0 on WordPress.
 - [Live-Hack-CVE/CVE-2022-44737](https://github.com/Live-Hack-CVE/CVE-2022-44737)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44737">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44737">
+
+---
+## CVE-2022-44727 (2022-11-10T17:15:00)
+> The EU Cookie Law GDPR (Banner + Blocker) module before 2.1.3 for PrestaShop allows SQL Injection via a cookie ( lgcookieslaw or __lglaw ).
+- [Live-Hack-CVE/CVE-2022-44727](https://github.com/Live-Hack-CVE/CVE-2022-44727)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44727">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44727">
 
 ---
 ## CVE-2022-44721 (2022-12-04T05:15:00)
@@ -1474,6 +1489,21 @@
 - [Live-Hack-CVE/CVE-2022-44096](https://github.com/Live-Hack-CVE/CVE-2022-44096)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44096">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44096">
 
 ---
+## CVE-2022-44089 (2022-11-10T15:15:00)
+> ESPCMS P8.21120101 was discovered to contain a remote code execution (RCE) vulnerability in the component IS_GETCACHE.
+- [Live-Hack-CVE/CVE-2022-44089](https://github.com/Live-Hack-CVE/CVE-2022-44089)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44089">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44089">
+
+---
+## CVE-2022-44088 (2022-11-10T15:15:00)
+> ESPCMS P8.21120101 was discovered to contain a remote code execution (RCE) vulnerability in the component INPUT_ISDESCRIPTION.
+- [Live-Hack-CVE/CVE-2022-44088](https://github.com/Live-Hack-CVE/CVE-2022-44088)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44088">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44088">
+
+---
+## CVE-2022-44087 (2022-11-10T15:15:00)
+> ESPCMS P8.21120101 was discovered to contain a remote code execution (RCE) vulnerability in the component UPFILE_PIC_ZOOM_HIGHT.
+- [Live-Hack-CVE/CVE-2022-44087](https://github.com/Live-Hack-CVE/CVE-2022-44087)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44087">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44087">
+
+---
 ## CVE-2022-44039 (2022-12-05T21:15:00)
 > Franklin Fueling System FFS Colibri 1.9.22.8925 is affected by: File system overwrite. The impact is: File system rewrite (remote). ¶¶ An attacker can overwrite system files like [system.conf] and [passwd], this occurs because the insecure usage of "fopen" system function with the mode "wb" which allows overwriting file if exists. Overwriting files such as passwd, allows an attacker to escalate his privileges by planting backdoor user with root privilege or change root password.
 - [Live-Hack-CVE/CVE-2022-44039](https://github.com/Live-Hack-CVE/CVE-2022-44039)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44039">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44039">
@@ -1580,6 +1610,11 @@
 - [nidhi7598/expat_2.1.0-_CVE-2022-43680](https://github.com/nidhi7598/expat_2.1.0-_CVE-2022-43680)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/expat_2.1.0-_CVE-2022-43680">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/expat_2.1.0-_CVE-2022-43680">
 - [Trinadh465/external_expat-2.1.0_CVE-2022-43680](https://github.com/Trinadh465/external_expat-2.1.0_CVE-2022-43680)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/external_expat-2.1.0_CVE-2022-43680">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/external_expat-2.1.0_CVE-2022-43680">
 - [nidhihcl/external_expat_2.1.0_CVE-2022-43680](https://github.com/nidhihcl/external_expat_2.1.0_CVE-2022-43680)	<img alt="forks" src="https://img.shields.io/github/forks/nidhihcl/external_expat_2.1.0_CVE-2022-43680">	<img alt="stars" src="https://img.shields.io/github/stars/nidhihcl/external_expat_2.1.0_CVE-2022-43680">
+
+---
+## CVE-2022-43679 (2022-11-10T21:15:00)
+> The Docker image of ownCloud Server through 10.11 contains a misconfiguration that renders the trusted_domains config useless. This could be abused to spoof the URL in password-reset e-mail messages.
+- [Live-Hack-CVE/CVE-2022-43679](https://github.com/Live-Hack-CVE/CVE-2022-43679)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43679">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43679">
 
 ---
 ## CVE-2022-43672 (2022-11-12T04:15:00)
@@ -2238,6 +2273,11 @@
 - [Live-Hack-CVE/CVE-2022-42501](https://github.com/Live-Hack-CVE/CVE-2022-42501)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42501">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42501">
 
 ---
+## CVE-2022-42460 (2022-11-10T22:15:00)
+> Broken Access Control vulnerability leading to Stored Cross-Site Scripting (XSS) in Traffic Manager plugin <= 1.4.5 on WordPress.
+- [Live-Hack-CVE/CVE-2022-42460](https://github.com/Live-Hack-CVE/CVE-2022-42460)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42460">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42460">
+
+---
 ## CVE-2022-42454 (2022-12-21T17:15:00)
 > Insights for Vulnerability Remediation (IVR) is vulnerable to man-in-the-middle attacks that may lead to information disclosure. This requires privileged network access.
 - [Live-Hack-CVE/CVE-2022-42454](https://github.com/Live-Hack-CVE/CVE-2022-42454)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42454">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42454">
@@ -2671,9 +2711,29 @@
 - [Live-Hack-CVE/CVE-2022-4188](https://github.com/Live-Hack-CVE/CVE-2022-4188)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4188">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4188">
 
 ---
+## CVE-2022-41879 (2022-11-10T21:15:00)
+> Parse Server is an open source backend that can be deployed to any infrastructure that can run Node.js. In versions prior to 5.3.3 or 4.10.20, a compromised Parse Server Cloud Code Webhook target endpoint allows an attacker to use prototype pollution to bypass the Parse Server `requestKeywordDenylist` option. This issue has been patched in versions 5.3.3 and 4.10.20. There are no known workarounds.
+- [Live-Hack-CVE/CVE-2022-41879](https://github.com/Live-Hack-CVE/CVE-2022-41879)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41879">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41879">
+
+---
+## CVE-2022-41878 (2022-11-10T23:15:00)
+> Parse Server is an open source backend that can be deployed to any infrastructure that can run Node.js. In versions prior to 5.3.2 or 4.10.19, keywords that are specified in the Parse Server option `requestKeywordDenylist` can be injected via Cloud Code Webhooks or Triggers. This will result in the keyword being saved to the database, bypassing the `requestKeywordDenylist` option. This issue is fixed in versions 4.10.19, and 5.3.2. If upgrade is not possible, the following Workarounds may be applied: Configure your firewall to only allow trusted servers to make request to the Parse Server Cloud Code Webhooks API, or block the API completely if you are not using the feature.
+- [Live-Hack-CVE/CVE-2022-41878](https://github.com/Live-Hack-CVE/CVE-2022-41878)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41878">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41878">
+
+---
+## CVE-2022-41876 (2022-11-10T21:15:00)
+> ezplatform-graphql is a GraphQL server implementation for Ibexa DXP and Ibexa Open Source. Versions prior to 2.3.12 and 1.0.13 are subject to Insecure Storage of Sensitive Information. Unauthenticated GraphQL queries for user accounts can expose password hashes of users that have created or modified content, typically administrators and editors. This issue has been patched in versions 2.3.12, and 1.0.13 on the 1.X branch. Users unable to upgrade can remove the "passwordHash" entry from "src/bundle/Resources/config/graphql/User.types.yaml" in the GraphQL package, and other properties like hash type, email, login if you prefer.
+- [Live-Hack-CVE/CVE-2022-41876](https://github.com/Live-Hack-CVE/CVE-2022-41876)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41876">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41876">
+
+---
 ## CVE-2022-41875 (2022-11-23T19:15:00)
 > A remote code execution (RCE) vulnerability in Optica allows unauthenticated attackers to execute arbitrary code via specially crafted JSON payloads. Specially crafted JSON payloads may lead to RCE (remote code execution) on the attacked system running Optica. The vulnerability was patched in v. 0.10.2, where the call to the function `oj.load` was changed to `oj.safe_load`.
 - [Live-Hack-CVE/CVE-2022-41875](https://github.com/Live-Hack-CVE/CVE-2022-41875)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41875">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41875">
+
+---
+## CVE-2022-41874 (2022-11-10T21:15:00)
+> Tauri is a framework for building binaries for all major desktop platforms. In versions prior to 1.0.7 and 1.1.2, Tauri is vulnerable to an Incorrectly-Resolved Name. Due to incorrect escaping of special characters in paths selected via the file dialog and drag and drop functionality, it is possible to partially bypass the `fs` scope definition. It is not possible to traverse into arbitrary paths, as the issue is limited to neighboring files and sub folders of already allowed paths. The impact differs on Windows, MacOS and Linux due to different specifications of valid path characters. This bypass depends on the file picker dialog or dragged files, as user selected paths are automatically added to the allow list at runtime. A successful bypass requires the user to select a pre-existing malicious file or directory during the file picker dialog and an adversary controlled logic to access these files. The issue has been patched in versions 1.0.7, 1.1.2 and 1.2.0. As a workaround, disable the dialog and fileDropEnabled component inside the tauri.conf.json.
+- [Live-Hack-CVE/CVE-2022-41874](https://github.com/Live-Hack-CVE/CVE-2022-41874)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41874">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41874">
 
 ---
 ## CVE-2022-4187 (2022-11-30T00:15:00)
@@ -3917,6 +3977,16 @@
 - [Live-Hack-CVE/CVE-2022-39046](https://github.com/Live-Hack-CVE/CVE-2022-39046)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39046">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39046">
 
 ---
+## CVE-2022-39038 (2022-11-10T15:15:00)
+> Agentflow BPM enterprise management system has improper authentication. A remote attacker with general user privilege can change the name of the user account to acquire arbitrary account privilege, and access, manipulate system or disrupt service.
+- [Live-Hack-CVE/CVE-2022-39038](https://github.com/Live-Hack-CVE/CVE-2022-39038)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39038">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39038">
+
+---
+## CVE-2022-39037 (2022-11-10T15:15:00)
+> Agentflow BPM file download function has a path traversal vulnerability. An unauthenticated remote attacker can exploit this vulnerability to bypass authentication and download arbitrary system files.
+- [Live-Hack-CVE/CVE-2022-39037](https://github.com/Live-Hack-CVE/CVE-2022-39037)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39037">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39037">
+
+---
 ## CVE-2022-39028 (2022-08-30T05:15:00)
 > telnetd in GNU Inetutils through 2.3, MIT krb5-appl through 1.0.3, and derivative works has a NULL pointer dereference via 0xff 0xf7 or 0xff 0xf8. In a typical installation, the telnetd application would crash but the telnet service would remain available through inetd. However, if the telnetd application has many crashes within a short time interval, the telnet service would become unavailable after inetd logs a "telnet/tcp server failing (looping), service terminated" error. NOTE: MIT krb5-appl is not supported upstream but is shipped by a few Linux distributions. The affected code was removed from the supported MIT Kerberos 5 (aka krb5) product many years ago, at version 1.8.
 - [Live-Hack-CVE/CVE-2022-39028](https://github.com/Live-Hack-CVE/CVE-2022-39028)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39028">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39028">
@@ -3988,6 +4058,16 @@
 - [Live-Hack-CVE/CVE-2022-38724](https://github.com/Live-Hack-CVE/CVE-2022-38724)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38724">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38724">
 
 ---
+## CVE-2022-3867 (2022-11-10T06:15:00)
+> HashiCorp Nomad and Nomad Enterprise 1.4.0 up to 1.4.1 event stream subscribers using a token with TTL receive updates until token garbage is collected. Fixed in 1.4.2.
+- [Live-Hack-CVE/CVE-2022-3867](https://github.com/Live-Hack-CVE/CVE-2022-3867)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3867">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3867">
+
+---
+## CVE-2022-3866 (2022-11-10T06:15:00)
+> HashiCorp Nomad and Nomad Enterprise 1.4.0 up to 1.4.1 workload identity token can list non-sensitive metadata for paths under nomad/ that belong to other jobs in the same namespace. Fixed in 1.4.2.
+- [Live-Hack-CVE/CVE-2022-3866](https://github.com/Live-Hack-CVE/CVE-2022-3866)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3866">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3866">
+
+---
 ## CVE-2022-38655 (2022-12-21T17:15:00)
 > BigFix WebUI non-master operators are missing controls that prevent them from being able to modify the relevance of fixlets or to deploy fixlets from the BES Support external site.
 - [Live-Hack-CVE/CVE-2022-38655](https://github.com/Live-Hack-CVE/CVE-2022-38655)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38655">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38655">
@@ -4026,6 +4106,7 @@
 ## CVE-2022-38577 (2022-09-19T16:15:00)
 > ProcessMaker before v3.5.4 was discovered to contain insecure permissions in the user profile page. This vulnerability allows attackers to escalate normal users to Administrators.
 - [sornram9254/CVE-2022-38577-Processmaker](https://github.com/sornram9254/CVE-2022-38577-Processmaker)	<img alt="forks" src="https://img.shields.io/github/forks/sornram9254/CVE-2022-38577-Processmaker">	<img alt="stars" src="https://img.shields.io/github/stars/sornram9254/CVE-2022-38577-Processmaker">
+- [Live-Hack-CVE/CVE-2022-38577](https://github.com/Live-Hack-CVE/CVE-2022-38577)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38577">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38577">
 
 ---
 ## CVE-2022-38553 (2022-09-26T10:15:00)
@@ -4101,6 +4182,26 @@
 ## CVE-2022-38123 (2022-12-06T16:15:00)
 > Improper Input Validation of plugin files in Administrator Interface of Secomea GateManager allows a server administrator to inject code into the GateManager interface. This issue affects: Secomea GateManager versions prior to 10.0.
 - [Live-Hack-CVE/CVE-2022-38123](https://github.com/Live-Hack-CVE/CVE-2022-38123)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38123">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38123">
+
+---
+## CVE-2022-38122 (2022-11-10T15:15:00)
+> UPSMON PRO transmits sensitive data in cleartext over HTTP protocol. An unauthenticated remote attacker can exploit this vulnerability to access sensitive data.
+- [Live-Hack-CVE/CVE-2022-38122](https://github.com/Live-Hack-CVE/CVE-2022-38122)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38122">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38122">
+
+---
+## CVE-2022-38121 (2022-11-10T15:15:00)
+> UPSMON PRO configuration file stores user password in plaintext under public user directory. A remote attacker with general user privilege can access all users‘ and administrators' account names and passwords via this unprotected configuration file.
+- [Live-Hack-CVE/CVE-2022-38121](https://github.com/Live-Hack-CVE/CVE-2022-38121)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38121">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38121">
+
+---
+## CVE-2022-38120 (2022-11-10T15:15:00)
+> UPSMON PRO’s has a path traversal vulnerability. A remote attacker with general user privilege can exploit this vulnerability to bypass authentication and access arbitrary system files.
+- [Live-Hack-CVE/CVE-2022-38120](https://github.com/Live-Hack-CVE/CVE-2022-38120)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38120">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38120">
+
+---
+## CVE-2022-38119 (2022-11-10T15:15:00)
+> UPSMON Pro login function has insufficient authentication. An unauthenticated remote attacker can exploit this vulnerability to bypass authentication and get administrator privilege to access, control system or disrupt service.
+- [Live-Hack-CVE/CVE-2022-38119](https://github.com/Live-Hack-CVE/CVE-2022-38119)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38119">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38119">
 
 ---
 ## CVE-2022-38075 (2022-11-18T19:15:00)
@@ -4240,6 +4341,11 @@
 ## CVE-2022-3763 (2022-11-21T11:15:00)
 > The Booster for WooCommerce WordPress plugin before 5.6.7, Booster Plus for WooCommerce WordPress plugin before 5.6.5, Booster Elite for WooCommerce WordPress plugin before 1.1.7 do not have CSRF check in place when deleting files uploaded at the checkout, allowing attackers to make a logged in shop manager or admin delete them via a CSRF attack
 - [Live-Hack-CVE/CVE-2022-3763](https://github.com/Live-Hack-CVE/CVE-2022-3763)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3763">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3763">
+
+---
+## CVE-2022-37623 (2022-10-31T12:15:00)
+> Prototype pollution vulnerability in function resolveShims in resolve-shims.js in thlorenz browserify-shim 3.8.15 via the shimPath variable in resolve-shims.js.
+- [Live-Hack-CVE/CVE-2022-37623](https://github.com/Live-Hack-CVE/CVE-2022-37623)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37623">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37623">
 
 ---
 ## CVE-2022-3751 (2022-11-29T21:15:00)
@@ -5435,6 +5541,11 @@
 - [Live-Hack-CVE/CVE-2022-32212](https://github.com/Live-Hack-CVE/CVE-2022-32212)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32212">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32212">
 
 ---
+## CVE-2022-32190 (2022-09-13T18:15:00)
+> JoinPath and URL.JoinPath do not remove ../ path elements appended to a relative path. For example, JoinPath("https://go.dev", "../go") returns the URL "https://go.dev/../go", despite the JoinPath documentation stating that ../ path elements are removed from the result.
+- [Live-Hack-CVE/CVE-2022-32190](https://github.com/Live-Hack-CVE/CVE-2022-32190)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32190">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32190">
+
+---
 ## CVE-2022-32119 (2022-07-15T12:15:00)
 > Arox School ERP Pro v1.0 was discovered to contain multiple arbitrary file upload vulnerabilities via the Add Photo function at photogalleries.inc.php and the import staff excel function at 1finance_master.inc.php.
 - [JC175/CVE-2022-32119](https://github.com/JC175/CVE-2022-32119)	<img alt="forks" src="https://img.shields.io/github/forks/JC175/CVE-2022-32119">	<img alt="stars" src="https://img.shields.io/github/stars/JC175/CVE-2022-32119">
@@ -5709,6 +5820,11 @@
 ## CVE-2022-31245 (2022-05-20T15:15:00)
 > mailcow before 2022-05d allows a remote authenticated user to inject OS commands and escalate privileges to domain admin via the --debug option in conjunction with the ---PIPEMESS option in Sync Jobs.
 - [ly1g3/Mailcow-CVE-2022-31245](https://github.com/ly1g3/Mailcow-CVE-2022-31245)	<img alt="forks" src="https://img.shields.io/github/forks/ly1g3/Mailcow-CVE-2022-31245">	<img alt="stars" src="https://img.shields.io/github/stars/ly1g3/Mailcow-CVE-2022-31245">
+
+---
+## CVE-2022-3122 (2022-09-05T14:15:00)
+> A vulnerability was found in SourceCodester Clinics Patient Management System 1.0. It has been rated as critical. Affected by this issue is some unknown functionality of the file medicine_details.php. The manipulation of the argument medicine leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. VDB-207854 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-3122](https://github.com/Live-Hack-CVE/CVE-2022-3122)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3122">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3122">
 
 ---
 ## CVE-2022-31198 (2022-08-01T21:15:00)

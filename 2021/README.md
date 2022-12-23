@@ -562,6 +562,12 @@
 - [Markakd/CVE-2021-4154](https://github.com/Markakd/CVE-2021-4154)	<img alt="forks" src="https://img.shields.io/github/forks/Markakd/CVE-2021-4154">	<img alt="stars" src="https://img.shields.io/github/stars/Markakd/CVE-2021-4154">
 
 ---
+## CVE-2021-41381 (2021-09-23T15:15:00)
+> Payara Micro Community 5.2021.6 and below allows Directory Traversal.
+- [Live-Hack-CVE/CVE-2021-41381](https://github.com/Live-Hack-CVE/CVE-2021-41381)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41381">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41381">
+- [Net-hunter121/CVE-2021-41381](https://github.com/Net-hunter121/CVE-2021-41381)	<img alt="forks" src="https://img.shields.io/github/forks/Net-hunter121/CVE-2021-41381">	<img alt="stars" src="https://img.shields.io/github/stars/Net-hunter121/CVE-2021-41381">
+
+---
 ## CVE-2021-41349 (2021-11-10T01:19:00)
 > Microsoft Exchange Server Spoofing Vulnerability This CVE ID is unique from CVE-2021-42305.
 - [0xrobiul/CVE-2021-41349](https://github.com/0xrobiul/CVE-2021-41349)	<img alt="forks" src="https://img.shields.io/github/forks/0xrobiul/CVE-2021-41349">	<img alt="stars" src="https://img.shields.io/github/stars/0xrobiul/CVE-2021-41349">
@@ -790,6 +796,16 @@
 - [zecopro/CVE-2021-40303](https://github.com/zecopro/CVE-2021-40303)	<img alt="forks" src="https://img.shields.io/github/forks/zecopro/CVE-2021-40303">	<img alt="stars" src="https://img.shields.io/github/stars/zecopro/CVE-2021-40303">
 
 ---
+## CVE-2021-40289 (2022-11-10T18:15:00)
+> mm-wki v0.2.1 is vulnerable to Cross Site Scripting (XSS).
+- [Live-Hack-CVE/CVE-2021-40289](https://github.com/Live-Hack-CVE/CVE-2021-40289)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40289">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40289">
+
+---
+## CVE-2021-40226 (2022-11-10T18:15:00)
+> xpdfreader 4.03 is vulnerable to Buffer Overflow.
+- [Live-Hack-CVE/CVE-2021-40226](https://github.com/Live-Hack-CVE/CVE-2021-40226)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40226">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40226">
+
+---
 ## CVE-2021-4001 (2022-01-21T19:15:00)
 > A race condition was found in the Linux kernel's ebpf verifier between bpf_map_update_elem and bpf_map_freeze due to a missing lock in kernel/bpf/syscall.c. In this flaw, a local user with a special privilege (cap_sys_admin or cap_bpf) can modify the frozen mapped address space. This flaw affects kernel versions prior to 5.16 rc2.
 - [Live-Hack-CVE/CVE-2021-4001](https://github.com/Live-Hack-CVE/CVE-2021-4001)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4001">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4001">
@@ -870,6 +886,7 @@
 > XStream is a simple library to serialize objects to XML and back again. In affected versions this vulnerability may allow a remote attacker has sufficient rights to execute commands of the host only by manipulating the processed input stream. No user is affected, who followed the recommendation to setup XStream's security framework with a whitelist limited to the minimal required types. XStream 1.4.18 uses no longer a blacklist by default, since it cannot be secured for general purpose.
 - [b3wT/CVE-2021-39144-XSTREAM-RCE](https://github.com/b3wT/CVE-2021-39144-XSTREAM-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/b3wT/CVE-2021-39144-XSTREAM-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/b3wT/CVE-2021-39144-XSTREAM-RCE">
 - [zwjjustdoit/Xstream-1.4.17](https://github.com/zwjjustdoit/Xstream-1.4.17)	<img alt="forks" src="https://img.shields.io/github/forks/zwjjustdoit/Xstream-1.4.17">	<img alt="stars" src="https://img.shields.io/github/stars/zwjjustdoit/Xstream-1.4.17">
+- [Live-Hack-CVE/CVE-2021-39144](https://github.com/Live-Hack-CVE/CVE-2021-39144)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39144">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39144">
 
 ---
 ## CVE-2021-39077 (2022-11-03T20:15:00)
