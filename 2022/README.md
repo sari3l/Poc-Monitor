@@ -1199,6 +1199,11 @@
 - [Live-Hack-CVE/CVE-2022-44748](https://github.com/Live-Hack-CVE/CVE-2022-44748)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44748">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44748">
 
 ---
+## CVE-2022-44741 (2022-11-08T19:15:00)
+> Cross-Site Request Forgery (CSRF) vulnerability leading to Cross-Site Scripting (XSS) in David Anderson Testimonial Slider plugin <= 1.3.1 on WordPress.
+- [Live-Hack-CVE/CVE-2022-44741](https://github.com/Live-Hack-CVE/CVE-2022-44741)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44741">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44741">
+
+---
 ## CVE-2022-44740 (2022-11-18T23:15:00)
 > Multiple Cross-Site Request Forgery (CSRF) vulnerabilities in Creative Mail plugin <= 1.5.4 on WordPress.
 - [Live-Hack-CVE/CVE-2022-44740](https://github.com/Live-Hack-CVE/CVE-2022-44740)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44740">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44740">
@@ -1707,9 +1712,19 @@
 - [Live-Hack-CVE/CVE-2022-43497](https://github.com/Live-Hack-CVE/CVE-2022-43497)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43497">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43497">
 
 ---
+## CVE-2022-43491 (2022-11-08T19:15:00)
+> Cross-Site Request Forgery (CSRF) vulnerability in Advanced Dynamic Pricing for WooCommerce plugin <= 4.1.5 on WordPress leading to plugin settings import.
+- [Live-Hack-CVE/CVE-2022-43491](https://github.com/Live-Hack-CVE/CVE-2022-43491)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43491">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43491">
+
+---
 ## CVE-2022-43487 (2022-12-05T04:15:00)
 > Cross-site scripting vulnerability in Salon booking system versions prior to 7.9 allows a remote unauthenticated attacker to inject an arbitrary script.
 - [Live-Hack-CVE/CVE-2022-43487](https://github.com/Live-Hack-CVE/CVE-2022-43487)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43487">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43487">
+
+---
+## CVE-2022-43481 (2022-11-08T19:15:00)
+> Cross-Site Request Forgery (CSRF) vulnerability in Advanced Coupons for WooCommerce Coupons plugin <= 4.5 on WordPress leading to notice dismissal.
+- [Live-Hack-CVE/CVE-2022-43481](https://github.com/Live-Hack-CVE/CVE-2022-43481)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43481">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43481">
 
 ---
 ## CVE-2022-43479 (2022-12-05T04:15:00)
@@ -2298,6 +2313,11 @@
 - [Live-Hack-CVE/CVE-2022-42501](https://github.com/Live-Hack-CVE/CVE-2022-42501)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42501">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42501">
 
 ---
+## CVE-2022-42494 (2022-11-08T19:15:00)
+> Server Side Request Forgery (SSRF) vulnerability in All in One SEO Pro plugin <= 4.2.5.1 on WordPress.
+- [Live-Hack-CVE/CVE-2022-42494](https://github.com/Live-Hack-CVE/CVE-2022-42494)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42494">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42494">
+
+---
 ## CVE-2022-42460 (2022-11-10T22:15:00)
 > Broken Access Control vulnerability leading to Stored Cross-Site Scripting (XSS) in Traffic Manager plugin <= 1.4.5 on WordPress.
 - [Live-Hack-CVE/CVE-2022-42460](https://github.com/Live-Hack-CVE/CVE-2022-42460)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42460">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42460">
@@ -2547,6 +2567,11 @@
 ## CVE-2022-41994 (2022-12-07T04:15:00)
 > Stored cross-site scripting vulnerability in Permission Settings of baserCMS versions prior to 4.7.2 allows a remote authenticated attacker with an administrative privilege to inject an arbitrary script.
 - [Live-Hack-CVE/CVE-2022-41994](https://github.com/Live-Hack-CVE/CVE-2022-41994)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41994">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41994">
+
+---
+## CVE-2022-41980 (2022-11-08T19:15:00)
+> Auth. (admin+) Cross-Site Scripting (XSS) vulnerability in Mantenimiento web plugin <= 0.13 on WordPress.
+- [Live-Hack-CVE/CVE-2022-41980](https://github.com/Live-Hack-CVE/CVE-2022-41980)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41980">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41980">
 
 ---
 ## CVE-2022-41974 (2022-10-29T19:15:00)
@@ -3110,6 +3135,11 @@
 - [L34ked/CVE-2022-41208](https://github.com/L34ked/CVE-2022-41208)	<img alt="forks" src="https://img.shields.io/github/forks/L34ked/CVE-2022-41208">	<img alt="stars" src="https://img.shields.io/github/stars/L34ked/CVE-2022-41208">
 
 ---
+## CVE-2022-41136 (2022-11-08T19:15:00)
+> Cross-Site Request Forgery (CSRF) vulnerability leading to Stored Cross-Site Scripting (XSS) in Vladimir Anokhin's Shortcodes Ultimate plugin <= 5.12.0 on WordPress.
+- [Live-Hack-CVE/CVE-2022-41136](https://github.com/Live-Hack-CVE/CVE-2022-41136)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41136">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41136">
+
+---
 ## CVE-2022-41132 (2022-11-17T23:15:00)
 > Unauthenticated Plugin Settings Change Leading To Stored XSS Vulnerability in Ezoic plugin <= 2.8.8 on WordPress.
 - [Live-Hack-CVE/CVE-2022-41132](https://github.com/Live-Hack-CVE/CVE-2022-41132)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41132">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41132">
@@ -3626,6 +3656,11 @@
 - [b3wT/CVE-2022-40648-MASS](https://github.com/b3wT/CVE-2022-40648-MASS)	<img alt="forks" src="https://img.shields.io/github/forks/b3wT/CVE-2022-40648-MASS">	<img alt="stars" src="https://img.shields.io/github/stars/b3wT/CVE-2022-40648-MASS">
 
 ---
+## CVE-2022-40632 (2022-11-08T19:15:00)
+> Cross-Site Request Forgery (CSRF) vulnerability in gVectors Team wpForo Forum plugin <= 2.0.5 on WordPress leading to topic deletion.
+- [Live-Hack-CVE/CVE-2022-40632](https://github.com/Live-Hack-CVE/CVE-2022-40632)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40632">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40632">
+
+---
 ## CVE-2022-40607 (2022-12-19T20:15:00)
 > IBM Spectrum Scale 5.1 could allow users with permissions to create pod, persistent volume and persistent volume claim to access files and directories outside of the volume, including on the host filesystem. IBM X-Force ID: 235740.
 - [Live-Hack-CVE/CVE-2022-40607](https://github.com/Live-Hack-CVE/CVE-2022-40607)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40607">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40607">
@@ -3726,6 +3761,21 @@
 ## CVE-2022-40264 (2022-12-14T00:15:00)
 > Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in ICONICS/Mitsubishi Electric GENESIS64 versions 10.96 to 10.97.2 allows an unauthenticated attacker to create, tamper with or destroy arbitrary files by getting a legitimate user import a project package file crafted by the attacker.
 - [Live-Hack-CVE/CVE-2022-40264](https://github.com/Live-Hack-CVE/CVE-2022-40264)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40264">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40264">
+
+---
+## CVE-2022-40223 (2022-11-08T19:15:00)
+> Nonce token leakage and missing authorization in SearchWP premium plugin <= 4.2.5 on WordPress leading to plugin settings change.
+- [Live-Hack-CVE/CVE-2022-40223](https://github.com/Live-Hack-CVE/CVE-2022-40223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40223">
+
+---
+## CVE-2022-40206 (2022-11-08T19:15:00)
+> Insecure direct object references (IDOR) vulnerability in the wpForo Forum plugin <= 2.0.5 on WordPress allows attackers with subscriber or higher user roles to mark any forum post as private/public.
+- [Live-Hack-CVE/CVE-2022-40206](https://github.com/Live-Hack-CVE/CVE-2022-40206)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40206">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40206">
+
+---
+## CVE-2022-40205 (2022-11-08T19:15:00)
+> Insecure direct object references (IDOR) vulnerability in the wpForo Forum plugin <= 2.0.5 on WordPress allows attackers with subscriber or higher user roles to mark any forum post as solved/unsolved.
+- [Live-Hack-CVE/CVE-2022-40205](https://github.com/Live-Hack-CVE/CVE-2022-40205)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40205">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40205">
 
 ---
 ## CVE-2022-40204 (2022-12-01T00:15:00)
@@ -4475,6 +4525,11 @@
 - [Live-Hack-CVE/CVE-2022-38038](https://github.com/Live-Hack-CVE/CVE-2022-38038)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38038">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38038">
 
 ---
+## CVE-2022-38037 (2022-10-11T19:15:00)
+> Windows Kernel Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-37988, CVE-2022-37990, CVE-2022-37991, CVE-2022-37995, CVE-2022-38022, CVE-2022-38038, CVE-2022-38039.
+- [Live-Hack-CVE/CVE-2022-38037](https://github.com/Live-Hack-CVE/CVE-2022-38037)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38037">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38037">
+
+---
 ## CVE-2022-38023 (2022-11-09T22:15:00)
 > Netlogon RPC Elevation of Privilege Vulnerability.
 - [Live-Hack-CVE/CVE-2022-38023](https://github.com/Live-Hack-CVE/CVE-2022-38023)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38023">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38023">
@@ -4549,6 +4604,46 @@
 ## CVE-2022-37898 (2022-12-12T13:15:00)
 > Authenticated command injection vulnerabilities exist in the ArubaOS command line interface. Successful exploitation of these vulnerabilities results in the ability to execute arbitrary commands as a privileged user on the underlying operating system.
 - [Live-Hack-CVE/CVE-2022-37898](https://github.com/Live-Hack-CVE/CVE-2022-37898)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37898">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37898">
+
+---
+## CVE-2022-37896 (2022-10-07T19:15:00)
+> A vulnerability in the Aruba InstantOS and ArubaOS 10 web management interface could allow a remote attacker to conduct a reflected cross-site scripting (XSS) attack against a user of the interface. A successful exploit could allow an attacker to execute arbitrary script code in a victim’s browser in the context of the affected interface of Aruba InstantOS 6.4.x: 6.4.4.8-4.2.4.20 and below; Aruba InstantOS 6.5.x: 6.5.4.23 and below; Aruba InstantOS 8.6.x: 8.6.0.18 and below; Aruba InstantOS 8.7.x: 8.7.1.9 and below; Aruba InstantOS 8.10.x: 8.10.0.1 and below; ArubaOS 10.3.x: 10.3.1.0 and below; Aruba has released upgrades for Aruba InstantOS that address this security vulnerability.
+- [Live-Hack-CVE/CVE-2022-37896](https://github.com/Live-Hack-CVE/CVE-2022-37896)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37896">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37896">
+
+---
+## CVE-2022-37895 (2022-10-07T19:15:00)
+> An unauthenticated Denial of Service (DoS) vulnerability exists in the handling of certain SSID strings by Aruba InstantOS and ArubaOS 10. Successful exploitation of this vulnerability results in the ability to interrupt the normal operation of the affected AP of Aruba InstantOS 6.4.x: 6.4.4.8-4.2.4.20 and below; Aruba InstantOS 6.5.x: 6.5.4.23 and below; Aruba InstantOS 8.6.x: 8.6.0.18 and below; Aruba InstantOS 8.7.x: 8.7.1.9 and below; Aruba InstantOS 8.10.x: 8.10.0.1 and below; ArubaOS 10.3.x: 10.3.1.0 and below; Aruba has released upgrades for Aruba InstantOS that address this security vulnerability.
+- [Live-Hack-CVE/CVE-2022-37895](https://github.com/Live-Hack-CVE/CVE-2022-37895)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37895">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37895">
+
+---
+## CVE-2022-37894 (2022-10-07T19:15:00)
+> An unauthenticated Denial of Service (DoS) vulnerability exists in the handling of certain SSID strings by Aruba InstantOS and ArubaOS 10. Successful exploitation of this vulnerability results in the ability to interrupt the normal operation of the affected AP of Aruba InstantOS 6.4.x: 6.4.4.8-4.2.4.20 and below; Aruba InstantOS 6.5.x: 6.5.4.23 and below; Aruba InstantOS 8.6.x: 8.6.0.18 and below; Aruba InstantOS 8.7.x: 8.7.1.9 and below; Aruba InstantOS 8.10.x: 8.10.0.1 and below; ArubaOS 10.3.x: 10.3.1.0 and below; Aruba has released upgrades for Aruba InstantOS that address this security vulnerability.
+- [Live-Hack-CVE/CVE-2022-37894](https://github.com/Live-Hack-CVE/CVE-2022-37894)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37894">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37894">
+
+---
+## CVE-2022-37893 (2022-10-07T19:15:00)
+> An authenticated command injection vulnerability exists in the Aruba InstantOS and ArubaOS 10 command line interface. Successful exploitation of this vulnerability results in the ability to execute arbitrary commands as a privileged user on the underlying operating system of Aruba InstantOS 6.4.x: 6.4.4.8-4.2.4.20 and below; Aruba InstantOS 6.5.x: 6.5.4.23 and below; Aruba InstantOS 8.6.x: 8.6.0.18 and below; Aruba InstantOS 8.7.x: 8.7.1.9 and below; Aruba InstantOS 8.10.x: 8.10.0.1 and below; ArubaOS 10.3.x: 10.3.1.0 and below; Aruba has released upgrades for Aruba InstantOS that address this security vulnerability.
+- [Live-Hack-CVE/CVE-2022-37893](https://github.com/Live-Hack-CVE/CVE-2022-37893)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37893">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37893">
+
+---
+## CVE-2022-37891 (2022-10-07T18:15:00)
+> Unauthenticated buffer overflow vulnerabilities exist within the Aruba InstantOS and ArubaOS 10 web management interface. Successful exploitation results in the execution of arbitrary commands on the underlying operating system of Aruba InstantOS 6.4.x: 6.4.4.8-4.2.4.20 and below; Aruba InstantOS 6.5.x: 6.5.4.23 and below; Aruba InstantOS 8.6.x: 8.6.0.18 and below; Aruba InstantOS 8.7.x: 8.7.1.9 and below; Aruba InstantOS 8.10.x: 8.10.0.1 and below; ArubaOS 10.3.x: 10.3.1.0 and below; Aruba has released upgrades for Aruba InnstantOS that address these security vulnerabilities.
+- [Live-Hack-CVE/CVE-2022-37891](https://github.com/Live-Hack-CVE/CVE-2022-37891)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37891">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37891">
+
+---
+## CVE-2022-37890 (2022-10-07T18:15:00)
+> Unauthenticated buffer overflow vulnerabilities exist within the Aruba InstantOS and ArubaOS 10 web management interface. Successful exploitation results in the execution of arbitrary commands on the underlying operating system of Aruba InstantOS 6.4.x: 6.4.4.8-4.2.4.20 and below; Aruba InstantOS 6.5.x: 6.5.4.23 and below; Aruba InstantOS 8.6.x: 8.6.0.18 and below; Aruba InstantOS 8.7.x: 8.7.1.9 and below; Aruba InstantOS 8.10.x: 8.10.0.1 and below; ArubaOS 10.3.x: 10.3.1.0 and below; Aruba has released upgrades for Aruba InnstantOS that address these security vulnerabilities.
+- [Live-Hack-CVE/CVE-2022-37890](https://github.com/Live-Hack-CVE/CVE-2022-37890)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37890">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37890">
+
+---
+## CVE-2022-37889 (2022-10-07T18:15:00)
+> There are buffer overflow vulnerabilities in multiple underlying services that could lead to unauthenticated remote code execution by sending specially crafted packets destined to the PAPI (Aruba Networks AP management protocol) UDP port (8211). Successful exploitation of these vulnerabilities results in the ability to execute arbitrary code as a privileged user on the underlying operating system of Aruba InstantOS 6.4.x: 6.4.4.8-4.2.4.20 and below; Aruba InstantOS 6.5.x: 6.5.4.23 and below; Aruba InstantOS 8.6.x: 8.6.0.18 and below; Aruba InstantOS 8.7.x: 8.7.1.9 and below; Aruba InstantOS 8.10.x: 8.10.0.1 and below; ArubaOS 10.3.x: 10.3.1.0 and below; Aruba has released upgrades for Aruba InnstantOS that address these security vulnerabilities.
+- [Live-Hack-CVE/CVE-2022-37889](https://github.com/Live-Hack-CVE/CVE-2022-37889)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37889">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37889">
+
+---
+## CVE-2022-37887 (2022-10-07T18:15:00)
+> There are buffer overflow vulnerabilities in multiple underlying services that could lead to unauthenticated remote code execution by sending specially crafted packets destined to the PAPI (Aruba Networks AP management protocol) UDP port (8211). Successful exploitation of these vulnerabilities results in the ability to execute arbitrary code as a privileged user on the underlying operating system of Aruba InstantOS 6.4.x: 6.4.4.8-4.2.4.20 and below; Aruba InstantOS 6.5.x: 6.5.4.23 and below; Aruba InstantOS 8.6.x: 8.6.0.18 and below; Aruba InstantOS 8.7.x: 8.7.1.9 and below; Aruba InstantOS 8.10.x: 8.10.0.1 and below; ArubaOS 10.3.x: 10.3.1.0 and below; Aruba has released upgrades for Aruba InnstantOS that address these security vulnerabilities.
+- [Live-Hack-CVE/CVE-2022-37887](https://github.com/Live-Hack-CVE/CVE-2022-37887)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37887">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37887">
 
 ---
 ## CVE-2022-37860 (2022-09-12T18:15:00)
@@ -5235,6 +5330,11 @@
 - [Live-Hack-CVE/CVE-2022-3538](https://github.com/Live-Hack-CVE/CVE-2022-3538)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3538">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3538">
 
 ---
+## CVE-2022-3537 (2022-11-07T10:15:00)
+> The Role Based Pricing for WooCommerce WordPress plugin before 1.6.2 does not have authorisation and proper CSRF checks, and does not validate files to be uploaded, allowing any authenticated users like subscriber to upload arbitrary files, such as PHP
+- [Live-Hack-CVE/CVE-2022-3537](https://github.com/Live-Hack-CVE/CVE-2022-3537)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3537">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3537">
+
+---
 ## CVE-2022-35295 (2022-09-13T16:15:00)
 > In SAP Host Agent (SAPOSCOL) - version 7.22, an attacker may use files created by saposcol to escalate privileges for themselves.
 - [Live-Hack-CVE/CVE-2022-35295](https://github.com/Live-Hack-CVE/CVE-2022-35295)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35295">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35295">
@@ -5722,6 +5822,11 @@
 - [iCMDgithub/CVE-2022-32938](https://github.com/iCMDgithub/CVE-2022-32938)	<img alt="forks" src="https://img.shields.io/github/forks/iCMDgithub/CVE-2022-32938">	<img alt="stars" src="https://img.shields.io/github/stars/iCMDgithub/CVE-2022-32938">
 
 ---
+## CVE-2022-32923 (2022-11-01T20:15:00)
+> A correctness issue in the JIT was addressed with improved checks. This issue is fixed in tvOS 16.1, iOS 15.7.1 and iPadOS 15.7.1, macOS Ventura 13, watchOS 9.1, Safari 16.1, iOS 16.1 and iPadOS 16. Processing maliciously crafted web content may disclose internal states of the app.
+- [Live-Hack-CVE/CVE-2022-32923](https://github.com/Live-Hack-CVE/CVE-2022-32923)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32923">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32923">
+
+---
 ## CVE-2022-32917 (2022-09-20T21:15:00)
 > The issue was addressed with improved bounds checks. This issue is fixed in macOS Monterey 12.6, iOS 15.7 and iPadOS 15.7, iOS 16, macOS Big Sur 11.7. An application may be able to execute arbitrary code with kernel privileges. Apple is aware of a report that this issue may have been actively exploited..
 - [Administrative2022/CVE-2022-32917-POC](https://github.com/Administrative2022/CVE-2022-32917-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Administrative2022/CVE-2022-32917-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Administrative2022/CVE-2022-32917-POC">
@@ -5730,6 +5835,11 @@
 ## CVE-2022-32907 (2022-11-01T20:15:00)
 > This issue was addressed with improved checks. This issue is fixed in tvOS 16, iOS 16, watchOS 9. An app may be able to execute arbitrary code with kernel privileges.
 - [Live-Hack-CVE/CVE-2022-32907](https://github.com/Live-Hack-CVE/CVE-2022-32907)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32907">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32907">
+
+---
+## CVE-2022-32888 (2022-11-01T20:15:00)
+> An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in macOS Big Sur 11.7, macOS Ventura 13, iOS 16, iOS 15.7 and iPadOS 15.7, watchOS 9, macOS Monterey 12.6, tvOS 16. Processing maliciously crafted web content may lead to arbitrary code execution.
+- [Live-Hack-CVE/CVE-2022-32888](https://github.com/Live-Hack-CVE/CVE-2022-32888)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32888">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32888">
 
 ---
 ## CVE-2022-32883 (2022-09-20T21:15:00)
@@ -6410,6 +6520,11 @@
 - [nidhi7598/linux-4.19.72_CVE-2022-30594](https://github.com/nidhi7598/linux-4.19.72_CVE-2022-30594)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.19.72_CVE-2022-30594">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.19.72_CVE-2022-30594">
 
 ---
+## CVE-2022-30545 (2022-11-08T19:15:00)
+> Auth. Reflected Cross-Site Scripting (XSS) vulnerability in 5 Anker Connect plugin <= 1.2.6 on WordPress.
+- [Live-Hack-CVE/CVE-2022-30545](https://github.com/Live-Hack-CVE/CVE-2022-30545)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30545">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30545">
+
+---
 ## CVE-2022-30529 (2022-11-22T01:15:00)
 > File upload vulnerability in asith-eranga ISIC tour booking through version published on Feb 13th 2018, allows attackers to upload arbitrary files via /system/application/libs/js/tinymce/plugins/filemanager/dialog.php and /system/application/libs/js/tinymce/plugins/filemanager/upload.php.
 - [Live-Hack-CVE/CVE-2022-30529](https://github.com/Live-Hack-CVE/CVE-2022-30529)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30529">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30529">
@@ -6595,6 +6710,11 @@
 ## CVE-2022-29968 (2022-05-02T04:15:00)
 > An issue was discovered in the Linux kernel through 5.17.5. io_rw_init_file in fs/io_uring.c lacks initialization of kiocb->private.
 - [jprx/CVE-2022-29968](https://github.com/jprx/CVE-2022-29968)	<img alt="forks" src="https://img.shields.io/github/forks/jprx/CVE-2022-29968">	<img alt="stars" src="https://img.shields.io/github/stars/jprx/CVE-2022-29968">
+
+---
+## CVE-2022-29959 (2022-08-16T13:15:00)
+> Emerson OpenBSI through 2022-04-29 mishandles credential storage. It is an engineering environment for the ControlWave and Bristol Babcock line of RTUs. This environment provides access control functionality through user authentication and privilege management. The credentials for various users are stored insecurely in the SecUsers.ini file by using a simple string transformation rather than a cryptographic mechanism.
+- [Live-Hack-CVE/CVE-2022-29959](https://github.com/Live-Hack-CVE/CVE-2022-29959)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29959">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29959">
 
 ---
 ## CVE-2022-2992 (2022-10-17T16:15:00)
@@ -6915,9 +7035,19 @@
 - [onlyHerold22/CVE-2022-27925-PoC](https://github.com/onlyHerold22/CVE-2022-27925-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/onlyHerold22/CVE-2022-27925-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/onlyHerold22/CVE-2022-27925-PoC">
 
 ---
+## CVE-2022-27914 (2022-11-08T19:15:00)
+> An issue was discovered in Joomla! 4.0.0 through 4.2.4. Inadequate filtering of potentially malicious user input leads to reflected XSS vulnerabilities in com_media.
+- [Live-Hack-CVE/CVE-2022-27914](https://github.com/Live-Hack-CVE/CVE-2022-27914)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27914">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27914">
+
+---
 ## CVE-2022-27874 (2022-11-11T16:15:00)
 > Improper authentication in some Intel(R) XMM(TM) 7560 Modem software before version M2_7560_R_01.2146.00 may allow a privileged user to potentially enable escalation of privilege via physical access.
 - [Live-Hack-CVE/CVE-2022-27874](https://github.com/Live-Hack-CVE/CVE-2022-27874)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27874">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27874">
+
+---
+## CVE-2022-27858 (2022-11-08T19:15:00)
+> CSV Injection vulnerability in Activity Log Team Activity Log <= 2.8.3 on WordPress.
+- [Live-Hack-CVE/CVE-2022-27858](https://github.com/Live-Hack-CVE/CVE-2022-27858)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27858">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27858">
 
 ---
 ## CVE-2022-27812 (2022-08-24T12:15:00)
@@ -8622,6 +8752,16 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-20488 (2022-12-13T16:15:00)
 > In NotificationChannel of NotificationChannel.java, there is a possible failure to persist permissions settings due to resource exhaustion. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-242703217
 - [Live-Hack-CVE/CVE-2022-20488](https://github.com/Live-Hack-CVE/CVE-2022-20488)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20488">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20488">
+
+---
+## CVE-2022-20448 (2022-11-08T22:15:00)
+> In buzzBeepBlinkLocked of NotificationManagerService.java, there is a possible way to share data across users due to a permissions bypass. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-237540408
+- [Live-Hack-CVE/CVE-2022-20448](https://github.com/Live-Hack-CVE/CVE-2022-20448)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20448">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20448">
+
+---
+## CVE-2022-20447 (2022-11-08T22:15:00)
+> In PAN_WriteBuf of pan_api.cc, there is a possible out of bounds read due to a use after free. This could lead to remote information disclosure over Bluetooth with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-233604485
+- [Live-Hack-CVE/CVE-2022-20447](https://github.com/Live-Hack-CVE/CVE-2022-20447)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20447">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20447">
 
 ---
 ## CVE-2022-20441 (2022-11-08T22:15:00)
