@@ -558,6 +558,11 @@
 - [s1kr10s/D-Link-DIR-859-RCE](https://github.com/s1kr10s/D-Link-DIR-859-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/s1kr10s/D-Link-DIR-859-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/s1kr10s/D-Link-DIR-859-RCE">
 
 ---
+## CVE-2019-17577 (2019-10-16T18:15:00)
+> An issue was discovered in Dolibarr 10.0.2. It has XSS via the "outgoing email setup" feature in the admin/mails.php?action=edit URI via the "Email used for error returns emails (fields 'Errors-To' in emails sent)" field.
+- [Live-Hack-CVE/CVE-2019-17577](https://github.com/Live-Hack-CVE/CVE-2019-17577)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17577">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17577">
+
+---
 ## CVE-2019-17571 (2019-12-20T17:15:00)
 > Included in Log4j 1.2 is a SocketServer class that is vulnerable to deserialization of untrusted data which can be exploited to remotely execute arbitrary code when combined with a deserialization gadget when listening to untrusted network traffic for log data. This affects Log4j versions up to 1.2 up to 1.2.17.
 - [Live-Hack-CVE/CVE-2019-17571](https://github.com/Live-Hack-CVE/CVE-2019-17571)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17571">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17571">
@@ -565,6 +570,11 @@
 - [HynekPetrak/log4shell-finder](https://github.com/HynekPetrak/log4shell-finder)	<img alt="forks" src="https://img.shields.io/github/forks/HynekPetrak/log4shell-finder">	<img alt="stars" src="https://img.shields.io/github/stars/HynekPetrak/log4shell-finder">
 - [Al1ex/CVE-2019-17571](https://github.com/Al1ex/CVE-2019-17571)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/CVE-2019-17571">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/CVE-2019-17571">
 - [shadow-horse/CVE-2019-17571](https://github.com/shadow-horse/CVE-2019-17571)	<img alt="forks" src="https://img.shields.io/github/forks/shadow-horse/CVE-2019-17571">	<img alt="stars" src="https://img.shields.io/github/stars/shadow-horse/CVE-2019-17571">
+
+---
+## CVE-2019-17223 (2019-10-15T12:15:00)
+> There is HTML Injection in the Note field in Dolibarr ERP/CRM 10.0.2 via user/note.php.
+- [Live-Hack-CVE/CVE-2019-17223](https://github.com/Live-Hack-CVE/CVE-2019-17223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17223">
 
 ---
 ## CVE-2019-16891 (2019-10-04T14:15:00)
