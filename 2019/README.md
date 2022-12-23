@@ -395,6 +395,11 @@
 - [Live-Hack-CVE/CVE-2019-3928](https://github.com/Live-Hack-CVE/CVE-2019-3928)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-3928">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-3928">
 
 ---
+## CVE-2019-3692 (2020-01-24T09:15:00)
+> The packaging of inn on SUSE Linux Enterprise Server 11; openSUSE Factory, Leap 15.1 allows local attackers to escalate from user inn to root via symlink attacks. This issue affects: SUSE Linux Enterprise Server 11 inn version 2.4.2-170.21.3.1 and prior versions. openSUSE Factory inn version 2.6.2-2.2 and prior versions. openSUSE Leap 15.1 inn version 2.5.4-lp151.2.47 and prior versions.
+- [Live-Hack-CVE/CVE-2019-3692](https://github.com/Live-Hack-CVE/CVE-2019-3692)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-3692">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-3692">
+
+---
 ## CVE-2019-3560 (2019-04-29T16:29:00)
 > An improperly performed length calculation on a buffer in PlaintextRecordLayer could lead to an infinite loop and denial-of-service based on user input. This issue affected versions of fizz prior to v2019.03.04.00.
 - [ahaShiyu/CVE-2019-3560](https://github.com/ahaShiyu/CVE-2019-3560)	<img alt="forks" src="https://img.shields.io/github/forks/ahaShiyu/CVE-2019-3560">	<img alt="stars" src="https://img.shields.io/github/stars/ahaShiyu/CVE-2019-3560">
@@ -409,6 +414,11 @@
 - [dr0op/WeblogicScan](https://github.com/dr0op/WeblogicScan)	<img alt="forks" src="https://img.shields.io/github/forks/dr0op/WeblogicScan">	<img alt="stars" src="https://img.shields.io/github/stars/dr0op/WeblogicScan">
 - [ruthlezs/CVE-2019-2729-Exploit](https://github.com/ruthlezs/CVE-2019-2729-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ruthlezs/CVE-2019-2729-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ruthlezs/CVE-2019-2729-Exploit">
 - [black-mirror/Weblogic](https://github.com/black-mirror/Weblogic)	<img alt="forks" src="https://img.shields.io/github/forks/black-mirror/Weblogic">	<img alt="stars" src="https://img.shields.io/github/stars/black-mirror/Weblogic">
+
+---
+## CVE-2019-20790 (2020-04-27T14:15:00)
+> OpenDMARC through 1.3.2 and 1.4.x, when used with pypolicyd-spf 2.0.2, allows attacks that bypass SPF and DMARC authentication in situations where the HELO field is inconsistent with the MAIL FROM field.
+- [Live-Hack-CVE/CVE-2019-20790](https://github.com/Live-Hack-CVE/CVE-2019-20790)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20790">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20790">
 
 ---
 ## CVE-2019-20446 (2020-02-02T14:15:00)
@@ -485,6 +495,11 @@
 ## CVE-2019-19221 (2019-11-21T23:15:00)
 > In Libarchive 3.4.0, archive_wstring_append_from_mbs in archive_string.c has an out-of-bounds read because of an incorrect mbrtowc or mbtowc call. For example, bsdtar crashes via a crafted archive.
 - [Live-Hack-CVE/CVE-2019-19221](https://github.com/Live-Hack-CVE/CVE-2019-19221)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19221">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19221">
+
+---
+## CVE-2019-18901 (2020-03-02T16:15:00)
+> A UNIX Symbolic Link (Symlink) Following vulnerability in the mysql-systemd-helper of the mariadb packaging of SUSE Linux Enterprise Server 12, SUSE Linux Enterprise Server 15 allows local attackers to change the permissions of arbitrary files to 0640. This issue affects: SUSE Linux Enterprise Server 12 mariadb versions prior to 10.2.31-3.25.1. SUSE Linux Enterprise Server 15 mariadb versions prior to 10.2.31-3.26.1.
+- [Live-Hack-CVE/CVE-2019-18901](https://github.com/Live-Hack-CVE/CVE-2019-18901)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-18901">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-18901">
 
 ---
 ## CVE-2019-18897 (2020-03-02T16:15:00)
@@ -577,6 +592,11 @@
 - [Live-Hack-CVE/CVE-2019-17223](https://github.com/Live-Hack-CVE/CVE-2019-17223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17223">
 
 ---
+## CVE-2019-17026 (2020-03-02T05:15:00)
+> Incorrect alias information in IonMonkey JIT compiler for setting array elements could lead to a type confusion. We are aware of targeted attacks in the wild abusing this flaw. This vulnerability affects Firefox ESR < 68.4.1, Thunderbird < 68.4.1, and Firefox < 72.0.1.
+- [Live-Hack-CVE/CVE-2019-17026](https://github.com/Live-Hack-CVE/CVE-2019-17026)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17026">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17026">
+
+---
 ## CVE-2019-16891 (2019-10-04T14:15:00)
 > Liferay Portal CE 6.2.5 allows remote command execution because of deserialization of a JSON payload.
 - [Live-Hack-CVE/CVE-2019-16891](https://github.com/Live-Hack-CVE/CVE-2019-16891)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16891">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16891">
@@ -590,6 +610,16 @@
 ## CVE-2019-16167 (2019-09-09T17:15:00)
 > sysstat before 12.1.6 has memory corruption due to an Integer Overflow in remap_struct() in sa_common.c.
 - [Live-Hack-CVE/CVE-2019-16167](https://github.com/Live-Hack-CVE/CVE-2019-16167)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16167">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16167">
+
+---
+## CVE-2019-15605 (2020-02-07T15:15:00)
+> HTTP request smuggling in Node.js 10, 12, and 13 causes malicious payload delivery when transfer-encoding is malformed
+- [Live-Hack-CVE/CVE-2019-15605](https://github.com/Live-Hack-CVE/CVE-2019-15605)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-15605">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-15605">
+
+---
+## CVE-2019-15604 (2020-02-07T15:15:00)
+> Improper Certificate Validation in Node.js 10, 12, and 13 causes the process to abort when sending a crafted X.509 certificate
+- [Live-Hack-CVE/CVE-2019-15604](https://github.com/Live-Hack-CVE/CVE-2019-15604)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-15604">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-15604">
 
 ---
 ## CVE-2019-15514 (2019-08-23T13:15:00)
@@ -628,6 +658,11 @@
 - [TheAlpha19/MiniExploit](https://github.com/TheAlpha19/MiniExploit)	<img alt="forks" src="https://img.shields.io/github/forks/TheAlpha19/MiniExploit">	<img alt="stars" src="https://img.shields.io/github/stars/TheAlpha19/MiniExploit">
 - [jas502n/CVE-2019-15107](https://github.com/jas502n/CVE-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2019-15107">
 - [kh4sh3i/Webmin-CVE](https://github.com/kh4sh3i/Webmin-CVE)	<img alt="forks" src="https://img.shields.io/github/forks/kh4sh3i/Webmin-CVE">	<img alt="stars" src="https://img.shields.io/github/stars/kh4sh3i/Webmin-CVE">
+
+---
+## CVE-2019-14907 (2020-01-21T18:15:00)
+> All samba versions 4.9.x before 4.9.18, 4.10.x before 4.10.12 and 4.11.x before 4.11.5 have an issue where if it is set with "log level = 3" (or above) then the string obtained from the client, after a failed character conversion, is printed. Such strings can be provided during the NTLMSSP authentication exchange. In the Samba AD DC in particular, this may cause a long-lived process(such as the RPC server) to terminate. (In the file server case, the most likely target, smbd, operates as process-per-client and so a crash there is harmless).
+- [Live-Hack-CVE/CVE-2019-14907](https://github.com/Live-Hack-CVE/CVE-2019-14907)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14907">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14907">
 
 ---
 ## CVE-2019-14287 (2019-10-17T18:15:00)
@@ -684,6 +719,11 @@
 ## CVE-2019-1205 (2019-08-14T21:15:00)
 > A remote code execution vulnerability exists in Microsoft Word software when it fails to properly handle objects in memory, aka 'Microsoft Word Remote Code Execution Vulnerability'. This CVE ID is unique from CVE-2019-1201.
 - [razordeveloper/CVE-2019-1205](https://github.com/razordeveloper/CVE-2019-1205)	<img alt="forks" src="https://img.shields.io/github/forks/razordeveloper/CVE-2019-1205">	<img alt="stars" src="https://img.shields.io/github/stars/razordeveloper/CVE-2019-1205">
+
+---
+## CVE-2019-11823 (2020-05-04T10:15:00)
+> CRLF injection vulnerability in Network Center in Synology Router Manager (SRM) before 1.2.3-8017-2 allows remote attackers to cause a denial of service (out-of-bounds read and application crash) via crafted network traffic.
+- [Live-Hack-CVE/CVE-2019-11823](https://github.com/Live-Hack-CVE/CVE-2019-11823)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11823">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11823">
 
 ---
 ## CVE-2019-11810 (2019-05-07T14:29:00)

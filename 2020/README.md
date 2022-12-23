@@ -60,6 +60,11 @@
 - [hacky1997/CVE-2020-8825](https://github.com/hacky1997/CVE-2020-8825)	<img alt="forks" src="https://img.shields.io/github/forks/hacky1997/CVE-2020-8825">	<img alt="stars" src="https://img.shields.io/github/stars/hacky1997/CVE-2020-8825">
 
 ---
+## CVE-2020-8555 (2020-06-05T17:15:00)
+> The Kubernetes kube-controller-manager in versions v1.0-1.14, versions prior to v1.15.12, v1.16.9, v1.17.5, and version v1.18.0 are vulnerable to a Server Side Request Forgery (SSRF) that allows certain authorized users to leak up to 500 bytes of arbitrary information from unprotected endpoints within the master's host network (such as link-local or loopback services).
+- [Live-Hack-CVE/CVE-2020-8555](https://github.com/Live-Hack-CVE/CVE-2020-8555)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8555">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8555">
+
+---
 ## CVE-2020-8515 (2020-02-01T13:15:00)
 > DrayTek Vigor2960 1.3.1_Beta, Vigor3900 1.4.4_Beta, and Vigor300B 1.3.3_Beta, 1.4.2.1_Beta, and 1.4.4_Beta devices allow remote code execution as root (without authentication) via shell metacharacters to the cgi-bin/mainfunction.cgi URI. This issue has been fixed in Vigor3900/2960/300B v1.5.1.
 - [trhacknon/CVE-2020-8515-PoC](https://github.com/trhacknon/CVE-2020-8515-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2020-8515-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2020-8515-PoC">
@@ -790,6 +795,11 @@
 - [und3sc0n0c1d0/CVE-2020-2038](https://github.com/und3sc0n0c1d0/CVE-2020-2038)	<img alt="forks" src="https://img.shields.io/github/forks/und3sc0n0c1d0/CVE-2020-2038">	<img alt="stars" src="https://img.shields.io/github/stars/und3sc0n0c1d0/CVE-2020-2038">
 
 ---
+## CVE-2020-2026 (2020-06-10T18:15:00)
+> A malicious guest compromised before a container creation (e.g. a malicious guest image or a guest running multiple containers) can trick the kata runtime into mounting the untrusted container filesystem on any host path, potentially allowing for code execution on the host. This issue affects: Kata Containers 1.11 versions earlier than 1.11.1; Kata Containers 1.10 versions earlier than 1.10.5; Kata Containers 1.9 and earlier versions.
+- [Live-Hack-CVE/CVE-2020-2026](https://github.com/Live-Hack-CVE/CVE-2020-2026)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2026">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2026">
+
+---
 ## CVE-2020-19587 (2022-09-14T03:15:00)
 > Cross Site Scripting (XSS) vulnerability in configMap parameters in Yellowfin Business Intelligence 7.3 allows remote attackers to run arbitrary code via MIAdminStyles.i4 Admin UI.
 - [Deepak983/CVE-2020-19587](https://github.com/Deepak983/CVE-2020-19587)	<img alt="forks" src="https://img.shields.io/github/forks/Deepak983/CVE-2020-19587">	<img alt="stars" src="https://img.shields.io/github/stars/Deepak983/CVE-2020-19587">
@@ -837,6 +847,11 @@
 ## CVE-2020-17519 (2021-01-05T12:15:00)
 > A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.
 - [trhacknon/CVE-2020-17519](https://github.com/trhacknon/CVE-2020-17519)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2020-17519">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2020-17519">
+
+---
+## CVE-2020-1744 (2020-03-24T14:15:00)
+> A flaw was found in keycloak before version 9.0.1. When configuring an Conditional OTP Authentication Flow as a post login flow of an IDP, the failure login events for OTP are not being sent to the brute force protection event queue. So BruteForceProtector does not handle this events.
+- [Live-Hack-CVE/CVE-2020-1744](https://github.com/Live-Hack-CVE/CVE-2020-1744)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1744">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1744">
 
 ---
 ## CVE-2020-17382 (2020-10-02T09:15:00)
@@ -960,14 +975,39 @@
 - [yaunsky/CVE-2020-13937](https://github.com/yaunsky/CVE-2020-13937)	<img alt="forks" src="https://img.shields.io/github/forks/yaunsky/CVE-2020-13937">	<img alt="stars" src="https://img.shields.io/github/stars/yaunsky/CVE-2020-13937">
 
 ---
+## CVE-2020-13659 (2020-06-02T13:15:00)
+> address_space_map in exec.c in QEMU 4.2.0 can trigger a NULL pointer dereference related to BounceBuffer.
+- [Live-Hack-CVE/CVE-2020-13659](https://github.com/Live-Hack-CVE/CVE-2020-13659)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13659">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13659">
+
+---
+## CVE-2020-13249 (2020-05-20T19:15:00)
+> libmariadb/mariadb_lib.c in MariaDB Connector/C before 3.1.8 does not properly validate the content of an OK packet received from a server. NOTE: although mariadb_lib.c was originally based on code shipped for MySQL, this issue does not affect any MySQL components supported by Oracle.
+- [Live-Hack-CVE/CVE-2020-13249](https://github.com/Live-Hack-CVE/CVE-2020-13249)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13249">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13249">
+
+---
 ## CVE-2020-13101 (2020-08-24T08:15:00)
 > In OASIS Digital Signature Services (DSS) 1.0, an attacker can control the validation outcome (i.e., trigger either a valid or invalid outcome for a valid or invalid signature) via a crafted XML signature, when the InlineXML option is used. This defeats the expectation of non-repudiation.
 - [Live-Hack-CVE/CVE-2020-13101](https://github.com/Live-Hack-CVE/CVE-2020-13101)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13101">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13101">
 
 ---
+## CVE-2020-12783 (2020-05-11T14:15:00)
+> Exim through 4.93 has an out-of-bounds read in the SPA authenticator that could result in SPA/NTLM authentication bypass in auths/spa.c and auths/auth-spa.c.
+- [Live-Hack-CVE/CVE-2020-12783](https://github.com/Live-Hack-CVE/CVE-2020-12783)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12783">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12783">
+
+---
 ## CVE-2020-12460 (2020-07-27T23:15:00)
 > OpenDMARC through 1.3.2 and 1.4.x through 1.4.0-Beta1 has improper null termination in the function opendmarc_xml_parse that can result in a one-byte heap overflow in opendmarc_xml when parsing a specially crafted DMARC aggregate report. This can cause remote memory corruption when a '\0' byte overwrites the heap metadata of the next chunk and its PREV_INUSE flag.
 - [Live-Hack-CVE/CVE-2020-12460](https://github.com/Live-Hack-CVE/CVE-2020-12460)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12460">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12460">
+
+---
+## CVE-2020-12272 (2020-04-27T14:15:00)
+> OpenDMARC through 1.3.2 and 1.4.x allows attacks that inject authentication results to provide false information about the domain that originated an e-mail message. This is caused by incorrect parsing and interpretation of SPF/DKIM authentication results, as demonstrated by the example.net(.example.com substring.
+- [Live-Hack-CVE/CVE-2020-12272](https://github.com/Live-Hack-CVE/CVE-2020-12272)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12272">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12272">
+
+---
+## CVE-2020-12137 (2020-04-24T13:15:00)
+> GNU Mailman 2.x before 2.1.30 uses the .obj extension for scrubbed application/octet-stream MIME parts. This behavior may contribute to XSS attacks against list-archive visitors, because an HTTP reply from an archive web server may lack a MIME type, and a web browser may perform MIME sniffing, conclude that the MIME type should have been text/html, and execute JavaScript code.
+- [Live-Hack-CVE/CVE-2020-12137](https://github.com/Live-Hack-CVE/CVE-2020-12137)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12137">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12137">
 
 ---
 ## CVE-2020-12079 (2020-04-23T04:15:00)
@@ -998,14 +1038,39 @@
 - [ossf-cve-benchmark/CVE-2020-11022](https://github.com/ossf-cve-benchmark/CVE-2020-11022)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2020-11022">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2020-11022">
 
 ---
+## CVE-2020-10804 (2020-03-22T04:15:00)
+> In phpMyAdmin 4.x before 4.9.5 and 5.x before 5.0.2, a SQL injection vulnerability was found in retrieval of the current username (in libraries/classes/Server/Privileges.php and libraries/classes/UserPassword.php). A malicious user with access to the server could create a crafted username, and then trick the victim into performing specific actions with that user account (such as editing its privileges).
+- [Live-Hack-CVE/CVE-2020-10804](https://github.com/Live-Hack-CVE/CVE-2020-10804)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10804">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10804">
+
+---
+## CVE-2020-10802 (2020-03-22T05:15:00)
+> In phpMyAdmin 4.x before 4.9.5 and 5.x before 5.0.2, a SQL injection vulnerability has been discovered where certain parameters are not properly escaped when generating certain queries for search actions in libraries/classes/Controllers/Table/TableSearchController.php. An attacker can generate a crafted database or table name. The attack can be performed if a user attempts certain search operations on the malicious database or table.
+- [Live-Hack-CVE/CVE-2020-10802](https://github.com/Live-Hack-CVE/CVE-2020-10802)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10802">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10802">
+
+---
 ## CVE-2020-10770 (2020-12-15T20:15:00)
 > A flaw was found in Keycloak before 13.0.0, where it is possible to force the server to call out an unverified URL using the OIDC parameter request_uri. This flaw allows an attacker to use this parameter to execute a Server-side request forgery (SSRF) attack.
 - [ColdFusionX/Keycloak-12.0.1-CVE-2020-10770](https://github.com/ColdFusionX/Keycloak-12.0.1-CVE-2020-10770)	<img alt="forks" src="https://img.shields.io/github/forks/ColdFusionX/Keycloak-12.0.1-CVE-2020-10770">	<img alt="stars" src="https://img.shields.io/github/stars/ColdFusionX/Keycloak-12.0.1-CVE-2020-10770">
 
 ---
+## CVE-2020-10761 (2020-06-09T13:15:00)
+> An assertion failure issue was found in the Network Block Device(NBD) Server in all QEMU versions before QEMU 5.0.1. This flaw occurs when an nbd-client sends a spec-compliant request that is near the boundary of maximum permitted request length. A remote nbd-client could use this flaw to crash the qemu-nbd server resulting in a denial of service.
+- [Live-Hack-CVE/CVE-2020-10761](https://github.com/Live-Hack-CVE/CVE-2020-10761)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10761">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10761">
+
+---
 ## CVE-2020-10737 (2020-05-27T01:15:00)
 > A race condition was found in the mkhomedir tool shipped with the oddjob package in versions before 0.34.5 and 0.34.6 wherein, during the home creation, mkhomedir copies the /etc/skel directory into the newly created home and changes its ownership to the home's user without properly checking the homedir path. This flaw allows an attacker to leverage this issue by creating a symlink point to a target folder, which then has its ownership transferred to the new home directory's unprivileged user.
 - [Live-Hack-CVE/CVE-2020-10737](https://github.com/Live-Hack-CVE/CVE-2020-10737)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10737">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10737">
+
+---
+## CVE-2020-10717 (2020-05-04T21:15:00)
+> A potential DoS flaw was found in the virtio-fs shared file system daemon (virtiofsd) implementation of the QEMU version >= v5.0. Virtio-fs is meant to share a host file system directory with a guest via virtio-fs device. If the guest opens the maximum number of file descriptors under the shared directory, a denial of service may occur. This flaw allows a guest user/process to cause this denial of service on the host.
+- [Live-Hack-CVE/CVE-2020-10717](https://github.com/Live-Hack-CVE/CVE-2020-10717)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10717">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10717">
+
+---
+## CVE-2020-10699 (2020-04-15T14:15:00)
+> A flaw was found in Linux, in targetcli-fb versions 2.1.50 and 2.1.51 where the socket used by targetclid was world-writable. If a system enables the targetclid socket, a local attacker can use this flaw to modify the iSCSI configuration and escalate their privileges to root.
+- [Live-Hack-CVE/CVE-2020-10699](https://github.com/Live-Hack-CVE/CVE-2020-10699)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10699">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10699">
 
 ---
 ## CVE-2020-10560 (2020-03-30T13:15:00)

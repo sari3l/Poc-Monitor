@@ -790,6 +790,11 @@
 - [zecopro/CVE-2021-40303](https://github.com/zecopro/CVE-2021-40303)	<img alt="forks" src="https://img.shields.io/github/forks/zecopro/CVE-2021-40303">	<img alt="stars" src="https://img.shields.io/github/stars/zecopro/CVE-2021-40303">
 
 ---
+## CVE-2021-4001 (2022-01-21T19:15:00)
+> A race condition was found in the Linux kernel's ebpf verifier between bpf_map_update_elem and bpf_map_freeze due to a missing lock in kernel/bpf/syscall.c. In this flaw, a local user with a special privilege (cap_sys_admin or cap_bpf) can modify the frozen mapped address space. This flaw affects kernel versions prior to 5.16 rc2.
+- [Live-Hack-CVE/CVE-2021-4001](https://github.com/Live-Hack-CVE/CVE-2021-4001)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4001">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4001">
+
+---
 ## CVE-2021-3996 (2022-08-23T20:15:00)
 > A logic error was found in the libmount library of util-linux in the function that allows an unprivileged user to unmount a FUSE filesystem. This flaw allows a local user on a vulnerable system to unmount other users' filesystems that are either world-writable themselves (like /tmp) or mounted in a world-writable directory. An attacker may use this flaw to cause a denial of service to applications that use the affected filesystems.
 - [Live-Hack-CVE/CVE-2021-3996](https://github.com/Live-Hack-CVE/CVE-2021-3996)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3996">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3996">
@@ -1047,6 +1052,11 @@
 ## CVE-2021-3638 (2022-03-03T23:15:00)
 > An out-of-bounds memory access flaw was found in the ATI VGA device emulation of QEMU. This flaw occurs in the ati_2d_blt() routine while handling MMIO write operations when the guest provides invalid values for the destination display parameters. A malicious guest could use this flaw to crash the QEMU process on the host, resulting in a denial of service.
 - [Live-Hack-CVE/CVE-2021-3638](https://github.com/Live-Hack-CVE/CVE-2021-3638)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3638">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3638">
+
+---
+## CVE-2021-3634 (2021-08-31T17:15:00)
+> A flaw has been found in libssh in versions prior to 0.9.6. The SSH protocol keeps track of two shared secrets during the lifetime of the session. One of them is called secret_hash and the other session_id. Initially, both of them are the same, but after key re-exchange, previous session_id is kept and used as an input to new secret_hash. Historically, both of these buffers had shared length variable, which worked as long as these buffers were same. But the key re-exchange operation can also change the key exchange method, which can be based on hash of different size, eventually creating "secret_hash" of different size than the session_id has. This becomes an issue when the session_id memory is zeroed or when it is used again during second key re-exchange.
+- [Live-Hack-CVE/CVE-2021-3634](https://github.com/Live-Hack-CVE/CVE-2021-3634)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3634">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3634">
 
 ---
 ## CVE-2021-3632 (2022-08-26T16:15:00)
@@ -1424,6 +1434,11 @@
 ## CVE-2021-3060 (2021-11-10T17:15:00)
 > An OS command injection vulnerability in the Simple Certificate Enrollment Protocol (SCEP) feature of PAN-OS software allows an unauthenticated network-based attacker with specific knowledge of the firewall configuration to execute arbitrary code with root user privileges. The attacker must have network access to the GlobalProtect interfaces to exploit this issue. This issue impacts: PAN-OS 8.1 versions earlier than PAN-OS 8.1.20-h1; PAN-OS 9.0 versions earlier than PAN-OS 9.0.14-h3; PAN-OS 9.1 versions earlier than PAN-OS 9.1.11-h2; PAN-OS 10.0 versions earlier than PAN-OS 10.0.8; PAN-OS 10.1 versions earlier than PAN-OS 10.1.3. Prisma Access customers with Prisma Access 2.1 Preferred and Prisma Access 2.1 Innovation firewalls are impacted by this issue.
 - [timb-machine-mirrors/cve-2021-3060.py](https://github.com/timb-machine-mirrors/cve-2021-3060.py)	<img alt="forks" src="https://img.shields.io/github/forks/timb-machine-mirrors/cve-2021-3060.py">	<img alt="stars" src="https://img.shields.io/github/stars/timb-machine-mirrors/cve-2021-3060.py">
+
+---
+## CVE-2021-30498 (2021-05-26T22:15:00)
+> A flaw was found in libcaca. A heap buffer overflow in export.c in function export_tga might lead to memory corruption and other potential consequences.
+- [Live-Hack-CVE/CVE-2021-30498](https://github.com/Live-Hack-CVE/CVE-2021-30498)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30498">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30498">
 
 ---
 ## CVE-2021-30461 (2021-05-29T14:15:00)
@@ -1903,6 +1918,11 @@
 - [anldori/CVE-2021-21809](https://github.com/anldori/CVE-2021-21809)	<img alt="forks" src="https://img.shields.io/github/forks/anldori/CVE-2021-21809">	<img alt="stars" src="https://img.shields.io/github/stars/anldori/CVE-2021-21809">
 
 ---
+## CVE-2021-21772 (2021-03-10T17:15:00)
+> A use-after-free vulnerability exists in the NMR::COpcPackageReader::releaseZIP() functionality of 3MF Consortium lib3mf 2.0.0. A specially crafted 3MF file can lead to code execution. An attacker can provide a malicious file to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-21772](https://github.com/Live-Hack-CVE/CVE-2021-21772)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21772">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21772">
+
+---
 ## CVE-2021-21707 (2021-11-29T07:15:00)
 > In PHP versions 7.3.x below 7.3.33, 7.4.x below 7.4.26 and 8.0.x below 8.0.13, certain XML parsing functions, like simplexml_load_file(), URL-decode the filename passed to them. If that filename contains URL-encoded NUL character, this may cause the function to interpret this as the end of the filename, thus interpreting the filename differently from what the user intended, which may lead it to reading a different file than intended.
 - [Live-Hack-CVE/CVE-2021-21707](https://github.com/Live-Hack-CVE/CVE-2021-21707)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21707">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21707">
@@ -1957,6 +1977,11 @@
 ## CVE-2021-20315 (2022-02-18T18:15:00)
 > A locking protection bypass flaw was found in some versions of gnome-shell as shipped within CentOS Stream 8, when the "Application menu" or "Window list" GNOME extensions are enabled. This flaw allows a physical attacker who has access to a locked system to kill existing applications and start new ones as the locked user, even if the session is still locked.
 - [Live-Hack-CVE/CVE-2021-20315](https://github.com/Live-Hack-CVE/CVE-2021-20315)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20315">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20315">
+
+---
+## CVE-2021-20294 (2021-04-29T16:15:00)
+> A flaw was found in binutils readelf 2.35 program. An attacker who is able to convince a victim using readelf to read a crafted file could trigger a stack buffer overflow, out-of-bounds write of arbitrary data supplied by the attacker. The highest impact of this flaw is to confidentiality, integrity, and availability.
+- [Live-Hack-CVE/CVE-2021-20294](https://github.com/Live-Hack-CVE/CVE-2021-20294)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20294">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20294">
 
 ---
 ## CVE-2021-20227 (2021-03-23T17:15:00)
