@@ -233,6 +233,11 @@
 - [GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara](https://github.com/GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara)	<img alt="forks" src="https://img.shields.io/github/forks/GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara">	<img alt="stars" src="https://img.shields.io/github/stars/GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara">
 
 ---
+## CVE-2017-14481 (2018-05-09T20:29:00)
+> In the MMM::Agent::Helpers::Network::send_arp function in MySQL Multi-Master Replication Manager (MMM) mmm_agentd 2.2.1 (for Solaris), a specially crafted MMM protocol message can cause a shell command injection resulting in arbitrary command execution with the privileges of the mmm\_agentd process. An attacker that can initiate a TCP session with mmm\_agentd can trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2017-14481](https://github.com/Live-Hack-CVE/CVE-2017-14481)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-14481">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-14481">
+
+---
 ## CVE-2017-14468 (2018-04-05T21:29:00)
 > An exploitable access control vulnerability exists in the data, program, and function file permissions functionality of Allen Bradley Micrologix 1400 Series B FRN 21.2 and before. A specially crafted packet can cause a read or write operation resulting in disclosure of sensitive information, modification of settings, or modification of ladder logic. An attacker can send unauthenticated packets to trigger this vulnerability. Required Keyswitch State: REMOTE or PROG Description: This ability is leveraged in a larger exploit to flash custom firmware.
 - [Live-Hack-CVE/CVE-2017-14468](https://github.com/Live-Hack-CVE/CVE-2017-14468)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-14468">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-14468">
@@ -248,9 +253,74 @@
 - [Live-Hack-CVE/CVE-2017-14465](https://github.com/Live-Hack-CVE/CVE-2017-14465)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-14465">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-14465">
 
 ---
+## CVE-2017-14440 (2018-04-24T19:29:00)
+> An exploitable code execution vulnerability exists in the ILBM image rendering functionality of SDL2_image-2.0.2. A specially crafted ILBM image can cause a stack overflow resulting in code execution. An attacker can display a specially crafted image to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2017-14440](https://github.com/Live-Hack-CVE/CVE-2017-14440)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-14440">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-14440">
+
+---
+## CVE-2017-14437 (2018-05-14T20:29:00)
+> An exploitable denial of service vulnerability exists in the web server functionality of Moxa EDR-810 V4.1 build 17030317. A specially crafted HTTP URI can cause a null pointer dereference resulting in denial of service. An attacker can send a GET request to "/MOXA\_LOG.ini" without a cookie header to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2017-14437](https://github.com/Live-Hack-CVE/CVE-2017-14437)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-14437">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-14437">
+
+---
+## CVE-2017-14436 (2018-05-14T20:29:00)
+> An exploitable denial of service vulnerability exists in the web server functionality of Moxa EDR-810 V4.1 build 17030317. A specially crafted HTTP URI can cause a null pointer dereference resulting in denial of service. An attacker can send a GET request to "/MOXA\_CFG2.ini" without a cookie header to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2017-14436](https://github.com/Live-Hack-CVE/CVE-2017-14436)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-14436">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-14436">
+
+---
+## CVE-2017-14435 (2018-05-14T20:29:00)
+> An exploitable denial of service vulnerability exists in the web server functionality of Moxa EDR-810 V4.1 build 17030317. A specially crafted HTTP URI can cause a null pointer dereference resulting in denial of service. An attacker can send a GET request to "/MOXA\_CFG.ini" without a cookie header to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2017-14435](https://github.com/Live-Hack-CVE/CVE-2017-14435)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-14435">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-14435">
+
+---
+## CVE-2017-14434 (2018-05-14T20:29:00)
+> An exploitable command injection vulnerability exists in the web server functionality of Moxa EDR-810 V4.1 build 17030317. A specially crafted HTTP POST can cause a privilege escalation resulting in root shell. An attacker can inject OS commands into the remoteNetmask0= parameter in the "/goform/net\_Web\_get_value" uri to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2017-14434](https://github.com/Live-Hack-CVE/CVE-2017-14434)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-14434">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-14434">
+
+---
+## CVE-2017-14432 (2018-05-14T20:29:00)
+> An exploitable command injection vulnerability exists in the web server functionality of Moxa EDR-810 V4.1 build 17030317. A specially crafted HTTP POST can cause a privilege escalation resulting in root shell. An attacker can inject OS commands into the openvpnServer0_tmp= parameter in the "/goform/net\_Web\_get_value" uri to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2017-14432](https://github.com/Live-Hack-CVE/CVE-2017-14432)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-14432">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-14432">
+
+---
 ## CVE-2017-12561 (2018-02-15T22:29:00)
 > A remote code execution vulnerability in HPE intelligent Management Center (iMC) PLAT version Plat 7.3 E0504P4 and earlier was found.
 - [Everdoh/CVE-2017-12561](https://github.com/Everdoh/CVE-2017-12561)	<img alt="forks" src="https://img.shields.io/github/forks/Everdoh/CVE-2017-12561">	<img alt="stars" src="https://img.shields.io/github/stars/Everdoh/CVE-2017-12561">
+
+---
+## CVE-2017-12129 (2018-05-14T20:29:00)
+> An exploitable Weak Cryptography for Passwords vulnerability exists in the web server functionality of Moxa EDR-810 V4.1 build 17030317. An attacker could intercept weakly encrypted passwords and could brute force them.
+- [Live-Hack-CVE/CVE-2017-12129](https://github.com/Live-Hack-CVE/CVE-2017-12129)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-12129">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-12129">
+
+---
+## CVE-2017-12128 (2018-05-14T20:29:00)
+> An exploitable information disclosure vulnerability exists in the Server Agent functionality of Moxa EDR-810 V4.1 build 17030317. A specially crafted TCP packet can cause information disclosure. An attacker can send a crafted TCP packet to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2017-12128](https://github.com/Live-Hack-CVE/CVE-2017-12128)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-12128">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-12128">
+
+---
+## CVE-2017-12127 (2018-05-14T20:29:00)
+> A password storage vulnerability exists in the operating system functionality of Moxa EDR-810 V4.1 build 17030317. An attacker with shell access could extract passwords in clear text from the device.
+- [Live-Hack-CVE/CVE-2017-12127](https://github.com/Live-Hack-CVE/CVE-2017-12127)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-12127">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-12127">
+
+---
+## CVE-2017-12126 (2018-05-14T20:29:00)
+> An exploitable cross-site request forgery vulnerability exists in the web server functionality of Moxa EDR-810 V4.1 build 17030317. A specially crafted HTTP packet can cause cross-site request forgery. An attacker can create malicious HTML to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2017-12126](https://github.com/Live-Hack-CVE/CVE-2017-12126)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-12126">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-12126">
+
+---
+## CVE-2017-12125 (2018-05-14T20:29:00)
+> An exploitable command injection vulnerability exists in the web server functionality of Moxa EDR-810 V4.1 build 17030317. A specially crafted HTTP POST can cause a privilege escalation resulting in root shell. An attacker can inject OS commands into the CN= parm in the "/goform/net_WebCSRGen" uri to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2017-12125](https://github.com/Live-Hack-CVE/CVE-2017-12125)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-12125">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-12125">
+
+---
+## CVE-2017-12124 (2018-05-14T20:29:00)
+> An exploitable denial of service vulnerability exists in the web server functionality of Moxa EDR-810 V4.1 build 17030317. A specially crafted HTTP URI can cause a null pointer dereference resulting in the web server crashing. An attacker can send a crafted URI to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2017-12124](https://github.com/Live-Hack-CVE/CVE-2017-12124)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-12124">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-12124">
+
+---
+## CVE-2017-12123 (2018-05-14T20:29:00)
+> An exploitable clear text transmission of password vulnerability exists in the web server and telnet functionality of Moxa EDR-810 V4.1 build 17030317. An attacker can look at network traffic to get the admin password for the device. The attacker can then use the credentials to login as admin.
+- [Live-Hack-CVE/CVE-2017-12123](https://github.com/Live-Hack-CVE/CVE-2017-12123)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-12123">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-12123">
 
 ---
 ## CVE-2017-11882 (2017-11-15T03:29:00)

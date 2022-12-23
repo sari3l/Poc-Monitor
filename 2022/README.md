@@ -198,6 +198,16 @@
 - [Live-Hack-CVE/CVE-2022-46771](https://github.com/Live-Hack-CVE/CVE-2022-46771)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46771">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46771">
 
 ---
+## CVE-2022-46742 (2022-12-07T09:15:00)
+> Code injection in paddle.audio.functional.get_window in PaddlePaddle 2.4.0-rc0 allows arbitrary code execution.
+- [Live-Hack-CVE/CVE-2022-46742](https://github.com/Live-Hack-CVE/CVE-2022-46742)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46742">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46742">
+
+---
+## CVE-2022-46741 (2022-12-07T08:15:00)
+> Out-of-bounds read in gather_tree in PaddlePaddle before 2.4.
+- [Live-Hack-CVE/CVE-2022-46741](https://github.com/Live-Hack-CVE/CVE-2022-46741)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46741">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46741">
+
+---
 ## CVE-2022-46695 (2022-12-15T19:15:00)
 > A spoofing issue existed in the handling of URLs. This issue was addressed with improved input validation. This issue is fixed in tvOS 16.2, macOS Ventura 13.1, iOS 15.7.2 and iPadOS 15.7.2, iOS 16.2 and iPadOS 16.2, watchOS 9.2. Visiting a website that frames malicious content may lead to UI spoofing.
 - [Live-Hack-CVE/CVE-2022-46695](https://github.com/Live-Hack-CVE/CVE-2022-46695)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46695">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46695">
@@ -630,6 +640,11 @@
 - [Live-Hack-CVE/CVE-2022-4559](https://github.com/Live-Hack-CVE/CVE-2022-4559)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4559">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4559">
 
 ---
+## CVE-2022-45550 (2022-12-07T19:15:00)
+> AyaCMS 3.1.2 is vulnerable to Remote Code Execution (RCE).
+- [Live-Hack-CVE/CVE-2022-45550](https://github.com/Live-Hack-CVE/CVE-2022-45550)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45550">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45550">
+
+---
 ## CVE-2022-4555 (2022-12-16T14:15:00)
 > The WP Shamsi plugin for WordPress is vulnerable to authorization bypass due to a missing capability check on the deactivate() function hooked via init() in versions up to, and including, 4.1.0. This makes it possible for unauthenticated attackers to deactivate arbitrary plugins on the site. This can be used to deactivate security plugins that aids in exploiting other vulnerabilities.
 - [Live-Hack-CVE/CVE-2022-4555](https://github.com/Live-Hack-CVE/CVE-2022-4555)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4555">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4555">
@@ -693,6 +708,7 @@
 ## CVE-2022-45217 (2022-12-07T14:15:00)
 > A cross-site scripting (XSS) vulnerability in Book Store Management System v1.0.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Level parameter under the Add New System User module.
 - [sudoninja-noob/CVE-2022-45217](https://github.com/sudoninja-noob/CVE-2022-45217)	<img alt="forks" src="https://img.shields.io/github/forks/sudoninja-noob/CVE-2022-45217">	<img alt="stars" src="https://img.shields.io/github/stars/sudoninja-noob/CVE-2022-45217">
+- [Live-Hack-CVE/CVE-2022-45217](https://github.com/Live-Hack-CVE/CVE-2022-45217)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45217">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45217">
 
 ---
 ## CVE-2022-4521 (2022-12-15T21:15:00)
@@ -842,6 +858,11 @@
 - [Live-Hack-CVE/CVE-2022-44643](https://github.com/Live-Hack-CVE/CVE-2022-44643)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44643">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44643">
 
 ---
+## CVE-2022-44608 (2022-12-07T04:15:00)
+> Uncontrolled resource consumption vulnerability in Cybozu Remote Service 4.0.0 to 4.0.3 allows a remote authenticated attacker to consume huge storage space, which may result in a denial-of-service (DoS) condition.
+- [Live-Hack-CVE/CVE-2022-44608](https://github.com/Live-Hack-CVE/CVE-2022-44608)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44608">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44608">
+
+---
 ## CVE-2022-44488 (2022-12-19T20:15:00)
 > Adobe Experience Manager version 6.5.14 (and earlier) is affected by a URL Redirection to Untrusted Site ('Open Redirect') vulnerability. A low-privilege authenticated attacker could leverage this vulnerability to redirect users to malicious websites. Exploitation of this issue requires user interaction.
 - [Live-Hack-CVE/CVE-2022-44488](https://github.com/Live-Hack-CVE/CVE-2022-44488)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44488">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44488">
@@ -907,6 +928,11 @@
 - [Live-Hack-CVE/CVE-2022-4440](https://github.com/Live-Hack-CVE/CVE-2022-4440)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4440">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4440">
 
 ---
+## CVE-2022-44393 (2022-12-07T17:15:00)
+> Sanitization Management System v1.0 is vulnerable to SQL Injection via /php-sms/admin/?page=services/view_service&id=.
+- [Live-Hack-CVE/CVE-2022-44393](https://github.com/Live-Hack-CVE/CVE-2022-44393)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44393">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44393">
+
+---
 ## CVE-2022-4439 (2022-12-14T06:15:00)
 > Use after free in Aura in Google Chrome on Windows prior to 108.0.5359.124 allowed a remote attacker who convinced the user to engage in specific UI interactions to potentially exploit heap corruption via specific UI interactions. (Chromium security severity: High)
 - [Live-Hack-CVE/CVE-2022-4439](https://github.com/Live-Hack-CVE/CVE-2022-4439)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4439">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4439">
@@ -920,6 +946,11 @@
 ## CVE-2022-4437 (2022-12-14T06:15:00)
 > Use after free in Mojo IPC in Google Chrome prior to 108.0.5359.124 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [Live-Hack-CVE/CVE-2022-4437](https://github.com/Live-Hack-CVE/CVE-2022-4437)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4437">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4437">
+
+---
+## CVE-2022-44361 (2022-12-07T17:15:00)
+> An issue was discovered in ZZCMS 2022. There is a cross-site scripting (XSS) vulnerability in admin/ad_list.php.
+- [Live-Hack-CVE/CVE-2022-44361](https://github.com/Live-Hack-CVE/CVE-2022-44361)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44361">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44361">
 
 ---
 ## CVE-2022-4436 (2022-12-14T06:15:00)
@@ -993,6 +1024,21 @@
 - [Live-Hack-CVE/CVE-2022-43581](https://github.com/Live-Hack-CVE/CVE-2022-43581)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43581">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43581">
 
 ---
+## CVE-2022-43557 (2022-12-05T22:15:00)
+> The BD BodyGuard™ infusion pumps specified allow for access through the RS-232 (serial) port interface. If exploited, threat actors with physical access, specialized equipment and knowledge may be able to configure or disable the pump. No electronic protected health information (ePHI), protected health information (PHI) or personally identifiable information (PII) is stored in the pump.
+- [Live-Hack-CVE/CVE-2022-43557](https://github.com/Live-Hack-CVE/CVE-2022-43557)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43557">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43557">
+
+---
+## CVE-2022-43509 (2022-12-07T04:15:00)
+> Out-of-bounds write vulnerability exists in CX-Programmer v.9.77 and earlier, which may lead to information disclosure and/or arbitrary code execution by having a user to open a specially crafted CXP file.
+- [Live-Hack-CVE/CVE-2022-43509](https://github.com/Live-Hack-CVE/CVE-2022-43509)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43509">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43509">
+
+---
+## CVE-2022-43508 (2022-12-07T04:15:00)
+> Use-after free vulnerability exists in CX-Programmer v.9.77 and earlier, which may lead to information disclosure and/or arbitrary code execution by having a user to open a specially crafted CXP file.
+- [Live-Hack-CVE/CVE-2022-43508](https://github.com/Live-Hack-CVE/CVE-2022-43508)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43508">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43508">
+
+---
 ## CVE-2022-43369 (2022-12-06T19:15:00)
 > AutoTaxi Stand Management System v1.0 was discovered to contain a cross-site scripting (XSS) vulnerability via the component search.php.
 - [sudoninja-noob/CVE-2022-43369](https://github.com/sudoninja-noob/CVE-2022-43369)	<img alt="forks" src="https://img.shields.io/github/forks/sudoninja-noob/CVE-2022-43369">	<img alt="stars" src="https://img.shields.io/github/stars/sudoninja-noob/CVE-2022-43369">
@@ -1012,6 +1058,11 @@
 > Inhabit Systems Pty Ltd Move CRM version 4, build 260 was discovered to contain a cross-site scripting (XSS) vulnerability via the User profile component.
 - [SecurityWillCheck/CVE-2022-43271](https://github.com/SecurityWillCheck/CVE-2022-43271)	<img alt="forks" src="https://img.shields.io/github/forks/SecurityWillCheck/CVE-2022-43271">	<img alt="stars" src="https://img.shields.io/github/stars/SecurityWillCheck/CVE-2022-43271">
 - [Live-Hack-CVE/CVE-2022-43271](https://github.com/Live-Hack-CVE/CVE-2022-43271)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43271">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43271">
+
+---
+## CVE-2022-4322 (2022-12-07T07:15:00)
+> A vulnerability, which was classified as critical, was found in maku-boot up to 2.2.0. This affects the function doExecute of the file AbstractScheduleJob.java of the component Scheduled Task Handler. The manipulation leads to injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The name of the patch is 446eb7294332efca2bfd791bc37281cedac0d0ff. It is recommended to apply a patch to fix this issue. The identifier VDB-215013 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4322](https://github.com/Live-Hack-CVE/CVE-2022-4322)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4322">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4322">
 
 ---
 ## CVE-2022-43144 (2022-11-08T23:15:00)
@@ -1949,6 +2000,11 @@
 - [Live-Hack-CVE/CVE-2022-40264](https://github.com/Live-Hack-CVE/CVE-2022-40264)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40264">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40264">
 
 ---
+## CVE-2022-40204 (2022-12-01T00:15:00)
+> A cross-site scripting (XSS) vulnerability exists in all current versions of Digital Alert Systems DASDEC software via the Host Header in undisclosed pages after login.
+- [Live-Hack-CVE/CVE-2022-40204](https://github.com/Live-Hack-CVE/CVE-2022-40204)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40204">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40204">
+
+---
 ## CVE-2022-4016 (2022-12-12T18:15:00)
 > The Booster for WooCommerce WordPress plugin before 5.6.7, Booster Plus for WooCommerce WordPress plugin before 5.6.6, Booster Elite for WooCommerce WordPress plugin before 1.1.8 does not properly check for CSRF when creating and deleting Customer roles, allowing attackers to make logged admins create and delete arbitrary custom roles via CSRF attacks
 - [Live-Hack-CVE/CVE-2022-4016](https://github.com/Live-Hack-CVE/CVE-2022-4016)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4016">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4016">
@@ -2287,6 +2343,7 @@
 - [Qualys/osslscanwin](https://github.com/Qualys/osslscanwin)	<img alt="forks" src="https://img.shields.io/github/forks/Qualys/osslscanwin">	<img alt="stars" src="https://img.shields.io/github/stars/Qualys/osslscanwin">
 - [micr0sh0ft/certscare-openssl3-exploit](https://github.com/micr0sh0ft/certscare-openssl3-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/micr0sh0ft/certscare-openssl3-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/micr0sh0ft/certscare-openssl3-exploit">
 - [hi-artem/find-spooky-prismacloud](https://github.com/hi-artem/find-spooky-prismacloud)	<img alt="forks" src="https://img.shields.io/github/forks/hi-artem/find-spooky-prismacloud">	<img alt="stars" src="https://img.shields.io/github/stars/hi-artem/find-spooky-prismacloud">
+- [Live-Hack-CVE/CVE-2022-3786](https://github.com/Live-Hack-CVE/CVE-2022-3786)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3786">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3786">
 
 ---
 ## CVE-2022-3775 (2022-12-19T20:15:00)
@@ -2697,6 +2754,11 @@
 ## CVE-2022-35260 (2022-12-05T22:15:00)
 > curl can be told to parse a `.netrc` file for credentials. If that file endsin a line with 4095 consecutive non-white space letters and no newline, curlwould first read past the end of the stack-based buffer, and if the readworks, write a zero byte beyond its boundary.This will in most cases cause a segfault or similar, but circumstances might also cause different outcomes.If a malicious user can provide a custom netrc file to an application or otherwise affect its contents, this flaw could be used as denial-of-service.
 - [Live-Hack-CVE/CVE-2022-35260](https://github.com/Live-Hack-CVE/CVE-2022-35260)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35260">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35260">
+
+---
+## CVE-2022-35258 (2022-12-05T22:15:00)
+> An unauthenticated attacker can cause a denial-of-service to the following products: Ivanti Connect Secure (ICS) in versions prior to 9.1R14.3, 9.1R15.2, 9.1R16.2, and 22.2R4, Ivanti Policy Secure (IPS) in versions prior to 9.1R17 and 22.3R1, and Ivanti Neurons for Zero-Trust Access in versions prior to 22.3R1.
+- [Live-Hack-CVE/CVE-2022-35258](https://github.com/Live-Hack-CVE/CVE-2022-35258)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35258">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35258">
 
 ---
 ## CVE-2022-35252 (2022-09-23T14:15:00)
@@ -3708,6 +3770,11 @@
 ## CVE-2022-28672 (2022-07-18T19:15:00)
 > This vulnerability allows remote attackers to execute arbitrary code on affected installations of Foxit PDF Reader 11.2.1.53537. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the handling of Doc objects. The issue results from the lack of validating the existence of an object prior to performing operations on the object. An attacker can leverage this vulnerability to execute code in the context of the current process. Was ZDI-CAN-16640.
 - [hacksysteam/CVE-2022-28672](https://github.com/hacksysteam/CVE-2022-28672)	<img alt="forks" src="https://img.shields.io/github/forks/hacksysteam/CVE-2022-28672">	<img alt="stars" src="https://img.shields.io/github/stars/hacksysteam/CVE-2022-28672">
+
+---
+## CVE-2022-28382 (2022-06-08T16:15:00)
+> An issue was discovered in certain Verbatim drives through 2022-03-31. Due to the use of an insecure encryption AES mode (Electronic Codebook, aka ECB), an attacker may be able to extract information even from encrypted data, for example by observing repeating byte patterns. The firmware of the USB-to-SATA bridge controller INIC-3637EN uses AES-256 with the ECB mode. This operation mode of block ciphers (e.g., AES) always encrypts identical plaintext data, in this case blocks of 16 bytes, to identical ciphertext data. For some data, for instance bitmap images, the lack of the cryptographic property called diffusion, within ECB, can leak sensitive information even in encrypted data. Thus, the use of the ECB operation mode can put the confidentiality of specific information at risk, even in an encrypted form. This affects Keypad Secure USB 3.2 Gen 1 Drive Part Number #49428, Store 'n' Go Secure Portable HDD GD25LK01-3637-C VER4.0, Executive Fingerprint Secure SSD GDMSFE01-INI3637-C VER1.1, and Fingerprint Secure Portable Hard Drive Part Number #53650.
+- [Live-Hack-CVE/CVE-2022-28382](https://github.com/Live-Hack-CVE/CVE-2022-28382)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28382">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28382">
 
 ---
 ## CVE-2022-28282 (2022-12-22T20:15:00)
