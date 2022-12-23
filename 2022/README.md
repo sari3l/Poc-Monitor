@@ -3452,6 +3452,12 @@
 - [Live-Hack-CVE/CVE-2022-41082](https://github.com/Live-Hack-CVE/CVE-2022-41082)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41082">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41082">
 
 ---
+## CVE-2022-41080 (2022-11-09T22:15:00)
+> Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123.
+- [ohnonoyesyes/CVE-2022-41080](https://github.com/ohnonoyesyes/CVE-2022-41080)	<img alt="forks" src="https://img.shields.io/github/forks/ohnonoyesyes/CVE-2022-41080">	<img alt="stars" src="https://img.shields.io/github/stars/ohnonoyesyes/CVE-2022-41080">
+- [Live-Hack-CVE/CVE-2022-41080](https://github.com/Live-Hack-CVE/CVE-2022-41080)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41080">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41080">
+
+---
 ## CVE-2022-41079 (2022-11-09T22:15:00)
 > Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078.
 - [Live-Hack-CVE/CVE-2022-41079](https://github.com/Live-Hack-CVE/CVE-2022-41079)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41079">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41079">
