@@ -1153,6 +1153,11 @@
 - [Live-Hack-CVE/CVE-2021-3474](https://github.com/Live-Hack-CVE/CVE-2021-3474)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3474">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3474">
 
 ---
+## CVE-2021-34552 (2021-07-13T17:15:00)
+> Pillow through 8.2.0 and PIL (aka Python Imaging Library) through 1.1.7 allow an attacker to pass controlled parameters directly into a convert function to trigger a buffer overflow in Convert.c.
+- [Live-Hack-CVE/CVE-2021-34552](https://github.com/Live-Hack-CVE/CVE-2021-34552)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34552">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34552">
+
+---
 ## CVE-2021-34527 (2021-07-02T22:15:00)
 > Windows Print Spooler Remote Code Execution Vulnerability
 - [cyb3rpeace/CVE-2021-34527](https://github.com/cyb3rpeace/CVE-2021-34527)	<img alt="forks" src="https://img.shields.io/github/forks/cyb3rpeace/CVE-2021-34527">	<img alt="stars" src="https://img.shields.io/github/stars/cyb3rpeace/CVE-2021-34527">
@@ -1233,6 +1238,11 @@
 - [anldori/CVE-2021-33558](https://github.com/anldori/CVE-2021-33558)	<img alt="forks" src="https://img.shields.io/github/forks/anldori/CVE-2021-33558">	<img alt="stars" src="https://img.shields.io/github/stars/anldori/CVE-2021-33558">
 - [mdanzaruddin/CVE-2021-33558.](https://github.com/mdanzaruddin/CVE-2021-33558.)	<img alt="forks" src="https://img.shields.io/github/forks/mdanzaruddin/CVE-2021-33558.">	<img alt="stars" src="https://img.shields.io/github/stars/mdanzaruddin/CVE-2021-33558.">
 - [Live-Hack-CVE/CVE-2021-33558](https://github.com/Live-Hack-CVE/CVE-2021-33558)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33558">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33558">
+
+---
+## CVE-2021-32027 (2021-06-01T14:15:00)
+> A flaw was found in postgresql in versions before 13.3, before 12.7, before 11.12, before 10.17 and before 9.6.22. While modifying certain SQL array values, missing bounds checks let authenticated database users write arbitrary bytes to a wide area of server memory. The highest threat from this vulnerability is to data confidentiality and integrity as well as system availability.
+- [Live-Hack-CVE/CVE-2021-32027](https://github.com/Live-Hack-CVE/CVE-2021-32027)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32027">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32027">
 
 ---
 ## CVE-2021-31956 (2021-06-08T23:15:00)

@@ -197,6 +197,11 @@
 - [rvizx/CVE-2016-10924](https://github.com/rvizx/CVE-2016-10924)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2016-10924">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2016-10924">
 
 ---
+## CVE-2016-10541 (2018-05-31T20:29:00)
+> The npm module "shell-quote" 1.6.0 and earlier cannot correctly escape ">" and "<" operator used for redirection in shell. Applications that depend on shell-quote may also be vulnerable. A malicious user could perform code injection.
+- [Live-Hack-CVE/CVE-2016-10541](https://github.com/Live-Hack-CVE/CVE-2016-10541)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-10541">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-10541">
+
+---
 ## CVE-2016-10191 (2017-02-09T15:59:00)
 > Heap-based buffer overflow in libavformat/rtmppkt.c in FFmpeg before 2.8.10, 3.0.x before 3.0.5, 3.1.x before 3.1.6, and 3.2.x before 3.2.2 allows remote attackers to execute arbitrary code by leveraging failure to check for RTMP packet size mismatches.
 - [KaviDk/Heap-Over-Flow-with-CVE-2016-10191](https://github.com/KaviDk/Heap-Over-Flow-with-CVE-2016-10191)	<img alt="forks" src="https://img.shields.io/github/forks/KaviDk/Heap-Over-Flow-with-CVE-2016-10191">	<img alt="stars" src="https://img.shields.io/github/stars/KaviDk/Heap-Over-Flow-with-CVE-2016-10191">
