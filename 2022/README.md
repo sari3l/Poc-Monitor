@@ -3988,6 +3988,14 @@
 ## CVE-2022-3720 (2022-11-21T11:15:00)
 > The Event Monster WordPress plugin before 1.2.0 does not validate and escape some parameters before using them in SQL statements, which could lead to SQL Injection exploitable by high privilege users
 - [Live-Hack-CVE/CVE-2022-3720](https://github.com/Live-Hack-CVE/CVE-2022-3720)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3720">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3720">
+- [AgainstTheLight/CVE-2022-37208](https://github.com/AgainstTheLight/CVE-2022-37208)	<img alt="forks" src="https://img.shields.io/github/forks/AgainstTheLight/CVE-2022-37208">	<img alt="stars" src="https://img.shields.io/github/stars/AgainstTheLight/CVE-2022-37208">
+- [AgainstTheLight/CVE-2022-37207](https://github.com/AgainstTheLight/CVE-2022-37207)	<img alt="forks" src="https://img.shields.io/github/forks/AgainstTheLight/CVE-2022-37207">	<img alt="stars" src="https://img.shields.io/github/stars/AgainstTheLight/CVE-2022-37207">
+- [AgainstTheLight/CVE-2022-37206](https://github.com/AgainstTheLight/CVE-2022-37206)	<img alt="forks" src="https://img.shields.io/github/forks/AgainstTheLight/CVE-2022-37206">	<img alt="stars" src="https://img.shields.io/github/stars/AgainstTheLight/CVE-2022-37206">
+- [AgainstTheLight/CVE-2022-37205](https://github.com/AgainstTheLight/CVE-2022-37205)	<img alt="forks" src="https://img.shields.io/github/forks/AgainstTheLight/CVE-2022-37205">	<img alt="stars" src="https://img.shields.io/github/stars/AgainstTheLight/CVE-2022-37205">
+- [AgainstTheLight/CVE-2022-37204](https://github.com/AgainstTheLight/CVE-2022-37204)	<img alt="forks" src="https://img.shields.io/github/forks/AgainstTheLight/CVE-2022-37204">	<img alt="stars" src="https://img.shields.io/github/stars/AgainstTheLight/CVE-2022-37204">
+- [AgainstTheLight/CVE-2022-37203](https://github.com/AgainstTheLight/CVE-2022-37203)	<img alt="forks" src="https://img.shields.io/github/forks/AgainstTheLight/CVE-2022-37203">	<img alt="stars" src="https://img.shields.io/github/stars/AgainstTheLight/CVE-2022-37203">
+- [AgainstTheLight/CVE-2022-37202](https://github.com/AgainstTheLight/CVE-2022-37202)	<img alt="forks" src="https://img.shields.io/github/forks/AgainstTheLight/CVE-2022-37202">	<img alt="stars" src="https://img.shields.io/github/stars/AgainstTheLight/CVE-2022-37202">
+- [AgainstTheLight/CVE-2022-37201](https://github.com/AgainstTheLight/CVE-2022-37201)	<img alt="forks" src="https://img.shields.io/github/forks/AgainstTheLight/CVE-2022-37201">	<img alt="stars" src="https://img.shields.io/github/stars/AgainstTheLight/CVE-2022-37201">
 
 ---
 ## CVE-2022-37197 (2022-11-18T21:15:00)
