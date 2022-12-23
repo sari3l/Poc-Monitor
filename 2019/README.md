@@ -683,6 +683,11 @@
 - [tinker-li/CVE-2019-11043](https://github.com/tinker-li/CVE-2019-11043)	<img alt="forks" src="https://img.shields.io/github/forks/tinker-li/CVE-2019-11043">	<img alt="stars" src="https://img.shields.io/github/stars/tinker-li/CVE-2019-11043">
 
 ---
+## CVE-2019-10808 (2020-03-11T23:15:00)
+> utilitify prior to 1.0.3 allows modification of object properties. The merge method could be tricked into adding or modifying properties of the Object.prototype.
+- [Live-Hack-CVE/CVE-2019-10808](https://github.com/Live-Hack-CVE/CVE-2019-10808)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10808">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10808">
+
+---
 ## CVE-2019-10742 (2019-05-07T19:29:00)
 > Axios up to and including 0.18.0 allows attackers to cause a denial of service (application crash) by continuing to accepting content after maxContentLength is exceeded.
 - [Viniciuspxf/CVE-2019-10742](https://github.com/Viniciuspxf/CVE-2019-10742)	<img alt="forks" src="https://img.shields.io/github/forks/Viniciuspxf/CVE-2019-10742">	<img alt="stars" src="https://img.shields.io/github/stars/Viniciuspxf/CVE-2019-10742">
