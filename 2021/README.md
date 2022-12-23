@@ -1111,6 +1111,11 @@
 - [Live-Hack-CVE/CVE-2021-33895](https://github.com/Live-Hack-CVE/CVE-2021-33895)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33895">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33895">
 
 ---
+## CVE-2021-33716 (2021-09-14T11:15:00)
+> A vulnerability has been identified in SIMATIC CP 1543-1 (incl. SIPLUS variants) (All versions < V3.0), SIMATIC CP 1545-1 (All versions < V1.1). An attacker with access to the subnet of the affected device could retrieve sensitive information stored in cleartext.
+- [Live-Hack-CVE/CVE-2021-33716](https://github.com/Live-Hack-CVE/CVE-2021-33716)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33716">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33716">
+
+---
 ## CVE-2021-33558 (2021-05-27T11:15:00)
 > Boa 0.94.13 allows remote attackers to obtain sensitive information via a misconfiguration involving backup.html, preview.html, js/log.js, log.html, email.html, online-users.html, and config.js.
 - [anldori/CVE-2021-33558](https://github.com/anldori/CVE-2021-33558)	<img alt="forks" src="https://img.shields.io/github/forks/anldori/CVE-2021-33558">	<img alt="stars" src="https://img.shields.io/github/stars/anldori/CVE-2021-33558">
@@ -1233,6 +1238,11 @@
 - [daedalus/CVE-2021-30461](https://github.com/daedalus/CVE-2021-30461)	<img alt="forks" src="https://img.shields.io/github/forks/daedalus/CVE-2021-30461">	<img alt="stars" src="https://img.shields.io/github/stars/daedalus/CVE-2021-30461">
 
 ---
+## CVE-2021-30045 (2021-04-06T13:15:00)
+> SerenityOS 2021-03-27 contains a buffer overflow vulnerability in the EndOfCentralDirectory::read() function.
+- [Live-Hack-CVE/CVE-2021-30045](https://github.com/Live-Hack-CVE/CVE-2021-30045)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30045">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30045">
+
+---
 ## CVE-2021-29988 (2021-08-17T20:15:00)
 > Firefox incorrectly treated an inline list-item element as a block element, resulting in an out of bounds read or memory corruption, and a potentially exploitable crash. This vulnerability affects Thunderbird < 78.13, Thunderbird < 91, Firefox ESR < 78.13, and Firefox < 91.
 - [Live-Hack-CVE/CVE-2021-29988](https://github.com/Live-Hack-CVE/CVE-2021-29988)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29988">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29988">
@@ -1334,6 +1344,11 @@
 - [kahla-sec/CVE-2021-27850_POC](https://github.com/kahla-sec/CVE-2021-27850_POC)	<img alt="forks" src="https://img.shields.io/github/forks/kahla-sec/CVE-2021-27850_POC">	<img alt="stars" src="https://img.shields.io/github/stars/kahla-sec/CVE-2021-27850_POC">
 - [Ovi3/CVE_2021_27850_POC](https://github.com/Ovi3/CVE_2021_27850_POC)	<img alt="forks" src="https://img.shields.io/github/forks/Ovi3/CVE_2021_27850_POC">	<img alt="stars" src="https://img.shields.io/github/stars/Ovi3/CVE_2021_27850_POC">
 - [dorkerdevil/CVE-2021-27850_POC](https://github.com/dorkerdevil/CVE-2021-27850_POC)	<img alt="forks" src="https://img.shields.io/github/forks/dorkerdevil/CVE-2021-27850_POC">	<img alt="stars" src="https://img.shields.io/github/stars/dorkerdevil/CVE-2021-27850_POC">
+
+---
+## CVE-2021-27343 (2021-04-06T13:15:00)
+> SerenityOS Unspecified is affected by: Buffer Overflow. The impact is: obtain sensitive information (context-dependent). The component is: /Userland/Libraries/LibCrypto/ASN1/DER.h Crypto::der_decode_sequence() function. The attack vector is: Parsing RSA Key ASN.1.
+- [Live-Hack-CVE/CVE-2021-27343](https://github.com/Live-Hack-CVE/CVE-2021-27343)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27343">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27343">
 
 ---
 ## CVE-2021-27239 (2021-03-29T21:15:00)

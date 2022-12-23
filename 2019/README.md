@@ -265,6 +265,11 @@
 - [Live-Hack-CVE/CVE-2019-4047](https://github.com/Live-Hack-CVE/CVE-2019-4047)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4047">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4047">
 
 ---
+## CVE-2019-3928 (2019-04-30T21:29:00)
+> Crestron AM-100 with firmware 1.6.0.2 and AM-101 with firmware 2.7.0.2 allow any user to obtain the presentation passcode via the iso.3.6.1.4.1.3212.100.3.2.7.4 OIDs. A remote, unauthenticated attacker can use this vulnerability to access a restricted presentation or to become the presenter.
+- [Live-Hack-CVE/CVE-2019-3928](https://github.com/Live-Hack-CVE/CVE-2019-3928)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-3928">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-3928">
+
+---
 ## CVE-2019-3560 (2019-04-29T16:29:00)
 > An improperly performed length calculation on a buffer in PlaintextRecordLayer could lead to an infinite loop and denial-of-service based on user input. This issue affected versions of fizz prior to v2019.03.04.00.
 - [ahaShiyu/CVE-2019-3560](https://github.com/ahaShiyu/CVE-2019-3560)	<img alt="forks" src="https://img.shields.io/github/forks/ahaShiyu/CVE-2019-3560">	<img alt="stars" src="https://img.shields.io/github/stars/ahaShiyu/CVE-2019-3560">
@@ -284,6 +289,11 @@
 ## CVE-2019-20446 (2020-02-02T14:15:00)
 > In xml.rs in GNOME librsvg before 2.46.2, a crafted SVG file with nested patterns can cause denial of service when passed to the library for processing. The attacker constructs pattern elements so that the number of final rendered objects grows exponentially.
 - [Live-Hack-CVE/CVE-2019-20446](https://github.com/Live-Hack-CVE/CVE-2019-20446)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20446">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20446">
+
+---
+## CVE-2019-20172 (2019-12-31T03:15:00)
+> Kernel/VM/MemoryManager.cpp in SerenityOS before 2019-12-30 does not reject syscalls with pointers into the kernel-only virtual address space, which allows local users to gain privileges by overwriting a return address that was found on the kernel stack.
+- [Live-Hack-CVE/CVE-2019-20172](https://github.com/Live-Hack-CVE/CVE-2019-20172)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20172">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20172">
 
 ---
 ## CVE-2019-19966 (2019-12-25T04:15:00)
