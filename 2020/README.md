@@ -214,6 +214,11 @@
 - [Live-Hack-CVE/CVE-2020-36244](https://github.com/Live-Hack-CVE/CVE-2020-36244)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36244">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36244">
 
 ---
+## CVE-2020-35896 (2020-12-31T10:15:00)
+> An issue was discovered in the ws crate through 2020-09-25 for Rust. The outgoing buffer is not properly limited, leading to a remote memory-consumption attack.
+- [Live-Hack-CVE/CVE-2020-35896](https://github.com/Live-Hack-CVE/CVE-2020-35896)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35896">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35896">
+
+---
 ## CVE-2020-35895 (2020-12-31T10:15:00)
 > An issue was discovered in the stack crate before 0.3.1 for Rust. ArrayVec has an out-of-bounds write via element insertion.
 - [Live-Hack-CVE/CVE-2020-35895](https://github.com/Live-Hack-CVE/CVE-2020-35895)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35895">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35895">
@@ -653,6 +658,11 @@
 ## CVE-2020-10770 (2020-12-15T20:15:00)
 > A flaw was found in Keycloak before 13.0.0, where it is possible to force the server to call out an unverified URL using the OIDC parameter request_uri. This flaw allows an attacker to use this parameter to execute a Server-side request forgery (SSRF) attack.
 - [ColdFusionX/Keycloak-12.0.1-CVE-2020-10770](https://github.com/ColdFusionX/Keycloak-12.0.1-CVE-2020-10770)	<img alt="forks" src="https://img.shields.io/github/forks/ColdFusionX/Keycloak-12.0.1-CVE-2020-10770">	<img alt="stars" src="https://img.shields.io/github/stars/ColdFusionX/Keycloak-12.0.1-CVE-2020-10770">
+
+---
+## CVE-2020-10737 (2020-05-27T01:15:00)
+> A race condition was found in the mkhomedir tool shipped with the oddjob package in versions before 0.34.5 and 0.34.6 wherein, during the home creation, mkhomedir copies the /etc/skel directory into the newly created home and changes its ownership to the home's user without properly checking the homedir path. This flaw allows an attacker to leverage this issue by creating a symlink point to a target folder, which then has its ownership transferred to the new home directory's unprivileged user.
+- [Live-Hack-CVE/CVE-2020-10737](https://github.com/Live-Hack-CVE/CVE-2020-10737)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10737">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10737">
 
 ---
 ## CVE-2020-10560 (2020-03-30T13:15:00)

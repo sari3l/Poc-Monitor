@@ -437,6 +437,11 @@
 - [Live-Hack-CVE/CVE-2019-19221](https://github.com/Live-Hack-CVE/CVE-2019-19221)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19221">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19221">
 
 ---
+## CVE-2019-18897 (2020-03-02T16:15:00)
+> A UNIX Symbolic Link (Symlink) Following vulnerability in the packaging of salt of SUSE Linux Enterprise Server 12, SUSE Linux Enterprise Server 15; openSUSE Factory allows local attackers to escalate privileges from user salt to root. This issue affects: SUSE Linux Enterprise Server 12 salt-master version 2019.2.0-46.83.1 and prior versions. SUSE Linux Enterprise Server 15 salt-master version 2019.2.0-6.21.1 and prior versions. openSUSE Factory salt-master version 2019.2.2-3.1 and prior versions.
+- [Live-Hack-CVE/CVE-2019-18897](https://github.com/Live-Hack-CVE/CVE-2019-18897)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-18897">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-18897">
+
+---
 ## CVE-2019-18845 (2019-11-09T18:15:00)
 > The MsIo64.sys and MsIo32.sys drivers in Patriot Viper RGB before 1.1 allow local users (including low integrity processes) to read and write to arbitrary memory locations, and consequently gain NT AUTHORITY\SYSTEM privileges, by mapping \Device\PhysicalMemory into the calling process via ZwOpenSection and ZwMapViewOfSection.
 - [Exploitables/CVE-2019-18845](https://github.com/Exploitables/CVE-2019-18845)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2019-18845">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2019-18845">

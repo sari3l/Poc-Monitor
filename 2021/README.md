@@ -351,6 +351,11 @@
 - [Live-Hack-CVE/CVE-2021-4245](https://github.com/Live-Hack-CVE/CVE-2021-4245)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4245">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4245">
 
 ---
+## CVE-2021-42387 (2022-03-14T23:15:00)
+> Heap out-of-bounds read in Clickhouse's LZ4 compression codec when parsing a malicious query. As part of the LZ4::decompressImpl() loop, a 16-bit unsigned user-supplied value ('offset') is read from the compressed data. The offset is later used in the length of a copy operation, without checking the upper bounds of the source of the copy operation.
+- [Live-Hack-CVE/CVE-2021-42387](https://github.com/Live-Hack-CVE/CVE-2021-42387)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42387">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42387">
+
+---
 ## CVE-2021-42327 (2021-10-21T17:15:00)
 > dp_link_settings_write in drivers/gpu/drm/amd/display/amdgpu_dm/amdgpu_dm_debugfs.c in the Linux kernel through 5.14.14 allows a heap-based buffer overflow by an attacker who can write a string to the AMD GPU display drivers debug filesystem. There are no checks on size within parse_write_buffer_into_params when it uses the size of copy_from_user to copy a userspace buffer into a 40-byte heap buffer.
 - [docfate111/CVE-2021-42327](https://github.com/docfate111/CVE-2021-42327)	<img alt="forks" src="https://img.shields.io/github/forks/docfate111/CVE-2021-42327">	<img alt="stars" src="https://img.shields.io/github/stars/docfate111/CVE-2021-42327">
@@ -748,6 +753,11 @@
 ## CVE-2021-39674 (2022-02-11T18:15:00)
 > In btm_sec_connected and btm_sec_disconnected of btm_sec.cc file , there is a possible use after free. This could lead to local escalation of privilege with User execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12Android ID: A-201083442
 - [nidhi7598/system_bt_AOSP_10_r33_CVE-2021-39674](https://github.com/nidhi7598/system_bt_AOSP_10_r33_CVE-2021-39674)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/system_bt_AOSP_10_r33_CVE-2021-39674">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/system_bt_AOSP_10_r33_CVE-2021-39674">
+
+---
+## CVE-2021-3948 (2022-02-18T18:15:00)
+> An incorrect default permissions vulnerability was found in the mig-controller. Due to an incorrect cluster namespaces handling an attacker may be able to migrate a malicious workload to the target cluster, impacting confidentiality, integrity, and availability of the services located on that cluster.
+- [Live-Hack-CVE/CVE-2021-3948](https://github.com/Live-Hack-CVE/CVE-2021-3948)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3948">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3948">
 
 ---
 ## CVE-2021-39434 (2022-12-06T00:15:00)
@@ -1790,6 +1800,11 @@
 ## CVE-2021-20323 (2022-03-25T19:15:00)
 > A POST based reflected Cross Site Scripting vulnerability on has been identified in Keycloak.
 - [ndmalc/CVE-2021-20323](https://github.com/ndmalc/CVE-2021-20323)	<img alt="forks" src="https://img.shields.io/github/forks/ndmalc/CVE-2021-20323">	<img alt="stars" src="https://img.shields.io/github/stars/ndmalc/CVE-2021-20323">
+
+---
+## CVE-2021-20315 (2022-02-18T18:15:00)
+> A locking protection bypass flaw was found in some versions of gnome-shell as shipped within CentOS Stream 8, when the "Application menu" or "Window list" GNOME extensions are enabled. This flaw allows a physical attacker who has access to a locked system to kill existing applications and start new ones as the locked user, even if the session is still locked.
+- [Live-Hack-CVE/CVE-2021-20315](https://github.com/Live-Hack-CVE/CVE-2021-20315)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20315">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20315">
 
 ---
 ## CVE-2021-20138 (2021-12-09T16:15:00)
