@@ -2589,6 +2589,7 @@
 ## CVE-2022-41788 (2022-11-18T23:15:00)
 > Auth. (subscriber+) Cross-Site Scripting (XSS) vulnerability in Soledad premium theme <= 8.2.5 on WordPress.
 - [Live-Hack-CVE/CVE-2022-41788](https://github.com/Live-Hack-CVE/CVE-2022-41788)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41788">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41788">
+- [efchatz/easy-exploits](https://github.com/efchatz/easy-exploits)	<img alt="forks" src="https://img.shields.io/github/forks/efchatz/easy-exploits">	<img alt="stars" src="https://img.shields.io/github/stars/efchatz/easy-exploits">
 
 ---
 ## CVE-2022-4178 (2022-11-30T00:15:00)
