@@ -5,6 +5,7 @@
 > Adobe Acrobat and Reader versions 2020.009.20074 and earlier, 2020.001.30002, 2017.011.30171 and earlier, and 2015.006.30523 and earlier have an use-after-free vulnerability. Successful exploitation could lead to arbitrary code execution .
 - [WonjunChun/CVE-2020-9715](https://github.com/WonjunChun/CVE-2020-9715)	<img alt="forks" src="https://img.shields.io/github/forks/WonjunChun/CVE-2020-9715">	<img alt="stars" src="https://img.shields.io/github/stars/WonjunChun/CVE-2020-9715">
 - [lsw29475/CVE-2020-9715](https://github.com/lsw29475/CVE-2020-9715)	<img alt="forks" src="https://img.shields.io/github/forks/lsw29475/CVE-2020-9715">	<img alt="stars" src="https://img.shields.io/github/stars/lsw29475/CVE-2020-9715">
+- [Live-Hack-CVE/CVE-2020-9715](https://github.com/Live-Hack-CVE/CVE-2020-9715)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9715">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9715">
 
 ---
 ## CVE-2020-9496 (2020-07-15T16:15:00)
@@ -208,6 +209,11 @@
 - [Live-Hack-CVE/CVE-2020-36607](https://github.com/Live-Hack-CVE/CVE-2020-36607)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36607">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36607">
 
 ---
+## CVE-2020-36244 (2021-02-10T07:15:00)
+> The daemon in GENIVI diagnostic log and trace (DLT), is vulnerable to a heap-based buffer overflow that could allow an attacker to remotely execute arbitrary code on the DLT-Daemon (versions prior to 2.18.6).
+- [Live-Hack-CVE/CVE-2020-36244](https://github.com/Live-Hack-CVE/CVE-2020-36244)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36244">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36244">
+
+---
 ## CVE-2020-35895 (2020-12-31T10:15:00)
 > An issue was discovered in the stack crate before 0.3.1 for Rust. ArrayVec has an out-of-bounds write via element insertion.
 - [Live-Hack-CVE/CVE-2020-35895](https://github.com/Live-Hack-CVE/CVE-2020-35895)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35895">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35895">
@@ -236,6 +242,11 @@
 > A remote code execution vulnerability in the installUpdateThemePluginAction function in index.php in WonderCMS 3.1.3, allows remote attackers to upload a custom plugin which can contain arbitrary code and obtain a webshell via the theme/plugin installer.
 - [AkashLingayat/WonderCMS-CVE-2020-35314](https://github.com/AkashLingayat/WonderCMS-CVE-2020-35314)	<img alt="forks" src="https://img.shields.io/github/forks/AkashLingayat/WonderCMS-CVE-2020-35314">	<img alt="stars" src="https://img.shields.io/github/stars/AkashLingayat/WonderCMS-CVE-2020-35314">
 - [ybdegit2020/wonderplugin](https://github.com/ybdegit2020/wonderplugin)	<img alt="forks" src="https://img.shields.io/github/forks/ybdegit2020/wonderplugin">	<img alt="stars" src="https://img.shields.io/github/stars/ybdegit2020/wonderplugin">
+
+---
+## CVE-2020-29394 (2020-11-30T19:15:00)
+> A buffer overflow in the dlt_filter_load function in dlt_common.c from dlt-daemon through 2.18.5 (GENIVI Diagnostic Log and Trace) allows arbitrary code execution because fscanf is misused (no limit on the number of characters to be read in the format argument).
+- [Live-Hack-CVE/CVE-2020-29394](https://github.com/Live-Hack-CVE/CVE-2020-29394)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-29394">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-29394">
 
 ---
 ## CVE-2020-29370 (2020-11-28T07:15:00)
