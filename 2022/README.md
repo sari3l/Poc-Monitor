@@ -4839,6 +4839,7 @@
 > Improper Update of Reference Count vulnerability in net/sched of Linux Kernel allows local attacker to cause privilege escalation to root. This issue affects: Linux Kernel versions prior to 5.18; version 4.14 and later versions.
 - [nidhi7598/linux-4.19.72_CVE-2022-29581](https://github.com/nidhi7598/linux-4.19.72_CVE-2022-29581)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.19.72_CVE-2022-29581">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.19.72_CVE-2022-29581">
 - [Nidhi77777/linux-4.19.72_CVE-2022-29581](https://github.com/Nidhi77777/linux-4.19.72_CVE-2022-29581)	<img alt="forks" src="https://img.shields.io/github/forks/Nidhi77777/linux-4.19.72_CVE-2022-29581">	<img alt="stars" src="https://img.shields.io/github/stars/Nidhi77777/linux-4.19.72_CVE-2022-29581">
+- [Nidhi77777/linux-4.19.72_CVE-2022-29581](https://github.com/Nidhi77777/linux-4.19.72_CVE-2022-29581)	<img alt="forks" src="https://img.shields.io/github/forks/Nidhi77777/linux-4.19.72_CVE-2022-29581">	<img alt="stars" src="https://img.shields.io/github/stars/Nidhi77777/linux-4.19.72_CVE-2022-29581">
 
 ---
 ## CVE-2022-29554 ()
