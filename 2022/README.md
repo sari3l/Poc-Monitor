@@ -1306,6 +1306,16 @@
 - [Live-Hack-CVE/CVE-2022-4438](https://github.com/Live-Hack-CVE/CVE-2022-4438)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4438">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4438">
 
 ---
+## CVE-2022-44379 (2022-11-18T18:15:00)
+> Automotive Shop Management System v1.0 is vulnerable to SQL Injection via /asms/classes/Master.php?f=delete_service.
+- [Live-Hack-CVE/CVE-2022-44379](https://github.com/Live-Hack-CVE/CVE-2022-44379)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44379">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44379">
+
+---
+## CVE-2022-44378 (2022-11-18T18:15:00)
+> Automotive Shop Management System v1.0 is vulnerable to SQL via /asms/classes/Master.php?f=delete_mechanic.
+- [Live-Hack-CVE/CVE-2022-44378](https://github.com/Live-Hack-CVE/CVE-2022-44378)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44378">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44378">
+
+---
 ## CVE-2022-4437 (2022-12-14T06:15:00)
 > Use after free in Mojo IPC in Google Chrome prior to 108.0.5359.124 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [Live-Hack-CVE/CVE-2022-4437](https://github.com/Live-Hack-CVE/CVE-2022-4437)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4437">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4437">
@@ -1454,6 +1464,21 @@
 - [Live-Hack-CVE/CVE-2022-44009](https://github.com/Live-Hack-CVE/CVE-2022-44009)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44009">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44009">
 
 ---
+## CVE-2022-44006 (2022-11-16T23:15:00)
+> An issue was discovered in BACKCLICK Professional 5.9.63. Due to improper validation or sanitization of upload filenames, an externally reachable, unauthenticated update function permits writing files outside the intended target location. Achieving remote code execution is possible, e.g., by uploading an executable file.
+- [Live-Hack-CVE/CVE-2022-44006](https://github.com/Live-Hack-CVE/CVE-2022-44006)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44006">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44006">
+
+---
+## CVE-2022-44004 (2022-11-16T23:15:00)
+> An issue was discovered in BACKCLICK Professional 5.9.63. Due to insecure design or lack of authentication, unauthenticated attackers can complete the password-reset process for any account and set a new password.
+- [Live-Hack-CVE/CVE-2022-44004](https://github.com/Live-Hack-CVE/CVE-2022-44004)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44004">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44004">
+
+---
+## CVE-2022-44003 (2022-11-16T23:15:00)
+> An issue was discovered in BACKCLICK Professional 5.9.63. Due to insufficient escaping of user-supplied input, the application is vulnerable to SQL injection at various locations.
+- [Live-Hack-CVE/CVE-2022-44003](https://github.com/Live-Hack-CVE/CVE-2022-44003)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44003">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44003">
+
+---
 ## CVE-2022-43996 (2022-12-13T22:15:00)
 > The csaf_provider package before 0.8.2 allows XSS via a crafted CSAF document uploaded as text/html. The endpoint upload allows valid CSAF advisories (JSON format) to be uploaded with Content-Type text/html and filenames ending in .html. When subsequently accessed via web browser, these advisories are served and interpreted as HTML pages. Such uploaded advisories can contain JavaScript code that will execute within the browser context of users inspecting the advisory.
 - [Live-Hack-CVE/CVE-2022-43996](https://github.com/Live-Hack-CVE/CVE-2022-43996)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43996">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43996">
@@ -1587,6 +1612,11 @@
 - [Live-Hack-CVE/CVE-2022-43479](https://github.com/Live-Hack-CVE/CVE-2022-43479)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43479">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43479">
 
 ---
+## CVE-2022-43463 (2022-11-18T19:15:00)
+> Auth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Custom Product Tabs for WooCommerce plugin <= 1.7.9 on WordPress.
+- [Live-Hack-CVE/CVE-2022-43463](https://github.com/Live-Hack-CVE/CVE-2022-43463)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43463">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43463">
+
+---
 ## CVE-2022-43369 (2022-12-06T19:15:00)
 > AutoTaxi Stand Management System v1.0 was discovered to contain a cross-site scripting (XSS) vulnerability via the component search.php.
 - [sudoninja-noob/CVE-2022-43369](https://github.com/sudoninja-noob/CVE-2022-43369)	<img alt="forks" src="https://img.shields.io/github/forks/sudoninja-noob/CVE-2022-43369">	<img alt="stars" src="https://img.shields.io/github/stars/sudoninja-noob/CVE-2022-43369">
@@ -1647,6 +1677,11 @@
 ## CVE-2022-43212 (2022-11-22T18:15:00)
 > Billing System Project v1.0 was discovered to contain a SQL injection vulnerability via the orderId parameter at fetchOrderData.php.
 - [Live-Hack-CVE/CVE-2022-43212](https://github.com/Live-Hack-CVE/CVE-2022-43212)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43212">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43212">
+
+---
+## CVE-2022-43183 (2022-11-17T21:15:00)
+> XXL-Job before v2.3.1 contains a Server-Side Request Forgery (SSRF) via the component /admin/controller/JobLogController.java.
+- [Live-Hack-CVE/CVE-2022-43183](https://github.com/Live-Hack-CVE/CVE-2022-43183)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43183">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43183">
 
 ---
 ## CVE-2022-43144 (2022-11-08T23:15:00)
@@ -2594,6 +2629,11 @@
 - [Live-Hack-CVE/CVE-2022-4181](https://github.com/Live-Hack-CVE/CVE-2022-4181)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4181">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4181">
 
 ---
+## CVE-2022-41805 (2022-11-18T19:15:00)
+> Cross-Site Request Forgery (CSRF) vulnerability in Booster for WooCommerce plugin <= 5.6.6 on WordPress.
+- [Live-Hack-CVE/CVE-2022-41805](https://github.com/Live-Hack-CVE/CVE-2022-41805)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41805">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41805">
+
+---
 ## CVE-2022-4180 (2022-11-30T00:15:00)
 > Use after free in Mojo in Google Chrome prior to 108.0.5359.71 allowed an attacker who convinced a user to install a malicious extension to potentially exploit heap corruption via a crafted Chrome Extension. (Chromium security severity: High)
 - [Live-Hack-CVE/CVE-2022-4180](https://github.com/Live-Hack-CVE/CVE-2022-4180)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4180">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4180">
@@ -2704,6 +2744,11 @@
 ## CVE-2022-41642 (2022-12-05T04:15:00)
 > OS command injection vulnerability in Nadesiko3 (PC Version) v3.3.61 and earlier allows a remote attacker to execute an arbitrary OS command when processing compression and decompression on the product.
 - [Live-Hack-CVE/CVE-2022-41642](https://github.com/Live-Hack-CVE/CVE-2022-41642)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41642">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41642">
+
+---
+## CVE-2022-41609 (2022-11-19T00:15:00)
+> Auth. (subscriber+) Server-Side Request Forgery (SSRF) vulnerability in Better Messages plugin 1.9.10.68 on WordPress.
+- [Live-Hack-CVE/CVE-2022-41609](https://github.com/Live-Hack-CVE/CVE-2022-41609)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41609">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41609">
 
 ---
 ## CVE-2022-41560 (2022-12-06T19:15:00)
@@ -3078,6 +3123,11 @@
 - [Live-Hack-CVE/CVE-2022-40799](https://github.com/Live-Hack-CVE/CVE-2022-40799)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40799">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40799">
 
 ---
+## CVE-2022-40752 (2022-11-16T23:15:00)
+> IBM InfoSphere DataStage 11.7 is vulnerable to a command injection vulnerability due to improper neutralization of special elements. IBM X-Force ID: 236687.
+- [Live-Hack-CVE/CVE-2022-40752](https://github.com/Live-Hack-CVE/CVE-2022-40752)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40752">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40752">
+
+---
 ## CVE-2022-40746 (2022-11-21T18:15:00)
 > IBM i Access Family 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.0 could allow a local authenticated attacker to execute arbitrary code on the system, caused by DLL search order hijacking vulnerability. By placing a specially crafted file in a compromised folder, an attacker could exploit this vulnerability to execute arbitrary code on the system. IBM X-Force ID: 236581.
 - [Live-Hack-CVE/CVE-2022-40746](https://github.com/Live-Hack-CVE/CVE-2022-40746)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40746">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40746">
@@ -3093,14 +3143,40 @@
 - [Live-Hack-CVE/CVE-2022-40735](https://github.com/Live-Hack-CVE/CVE-2022-40735)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40735">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40735">
 
 ---
+## CVE-2022-4070 (2022-11-20T05:15:00)
+> Insufficient Session Expiration in GitHub repository librenms/librenms prior to 22.10.0.
+- [Live-Hack-CVE/CVE-2022-4070](https://github.com/Live-Hack-CVE/CVE-2022-4070)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4070">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4070">
+
+---
+## CVE-2022-40698 (2022-11-18T23:15:00)
+> Auth. (subscriber+) Cross-Site Scripting (XSS) vulnerability in Quiz And Survey Master plugin <= 7.3.10 on WordPress.
+- [Live-Hack-CVE/CVE-2022-40698](https://github.com/Live-Hack-CVE/CVE-2022-40698)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40698">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40698">
+
+---
+## CVE-2022-40695 (2022-11-18T23:15:00)
+> Multiple Cross-Site Scripting (CSRF) vulnerabilities in SEO Redirection Plugin plugin <= 8.9 on WordPress.
+- [Live-Hack-CVE/CVE-2022-40695](https://github.com/Live-Hack-CVE/CVE-2022-40695)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40695">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40695">
+
+---
 ## CVE-2022-40694 (2022-11-17T23:15:00)
 > Auth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in News Announcement Scroll plugin <= 8.8.8 on WordPress.
 - [Live-Hack-CVE/CVE-2022-40694](https://github.com/Live-Hack-CVE/CVE-2022-40694)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40694">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40694">
 
 ---
+## CVE-2022-4069 (2022-11-20T05:15:00)
+> Cross-site Scripting (XSS) - Generic in GitHub repository librenms/librenms prior to 22.10.0.
+- [Live-Hack-CVE/CVE-2022-4069](https://github.com/Live-Hack-CVE/CVE-2022-4069)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4069">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4069">
+
+---
 ## CVE-2022-40687 (2022-11-18T19:15:00)
 > Cross-Site Request Forgery (CSRF) vulnerability in Creative Mail plugin <= 1.5.4 on WordPress.
 - [williamkhepri/CVE-2022-40687-metasploit-scanner](https://github.com/williamkhepri/CVE-2022-40687-metasploit-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/williamkhepri/CVE-2022-40687-metasploit-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/williamkhepri/CVE-2022-40687-metasploit-scanner">
+- [Live-Hack-CVE/CVE-2022-40687](https://github.com/Live-Hack-CVE/CVE-2022-40687)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40687">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40687">
+
+---
+## CVE-2022-40686 (2022-11-18T19:15:00)
+> Cross-Site Request Forgery (CSRF) vulnerability in Creative Mail plugin <= 1.5.4 on WordPress.
+- [Live-Hack-CVE/CVE-2022-40686](https://github.com/Live-Hack-CVE/CVE-2022-40686)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40686">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40686">
 
 ---
 ## CVE-2022-40684 (2022-10-18T14:15:00)
@@ -3173,6 +3249,11 @@
 ## CVE-2022-40674 (2022-09-14T11:15:00)
 > libexpat before 2.4.9 has a use-after-free in the doContent function in xmlparse.c.
 - [nidhi7598/expat_2.1.0_CVE-2022-40674](https://github.com/nidhi7598/expat_2.1.0_CVE-2022-40674)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/expat_2.1.0_CVE-2022-40674">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/expat_2.1.0_CVE-2022-40674">
+
+---
+## CVE-2022-4067 (2022-11-20T05:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository librenms/librenms prior to 22.10.0.
+- [Live-Hack-CVE/CVE-2022-4067](https://github.com/Live-Hack-CVE/CVE-2022-4067)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4067">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4067">
 
 ---
 ## CVE-2022-40664 (2022-10-12T07:15:00)
@@ -3317,6 +3398,11 @@
 - [ipsBruno/CVE-2022-40140-SCANNER](https://github.com/ipsBruno/CVE-2022-40140-SCANNER)	<img alt="forks" src="https://img.shields.io/github/forks/ipsBruno/CVE-2022-40140-SCANNER">	<img alt="stars" src="https://img.shields.io/github/stars/ipsBruno/CVE-2022-40140-SCANNER">
 - [ZephrFish/NotProxyShellScanner](https://github.com/ZephrFish/NotProxyShellScanner)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/NotProxyShellScanner">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/NotProxyShellScanner">
 - [mr-r3b00t/NotProxyShellHunter](https://github.com/mr-r3b00t/NotProxyShellHunter)	<img alt="forks" src="https://img.shields.io/github/forks/mr-r3b00t/NotProxyShellHunter">	<img alt="stars" src="https://img.shields.io/github/stars/mr-r3b00t/NotProxyShellHunter">
+
+---
+## CVE-2022-40130 (2022-11-18T23:15:00)
+> Auth. (subscriber+) Race Condition vulnerability in WP-Polls plugin <= 2.76.0 on WordPress.
+- [Live-Hack-CVE/CVE-2022-40130](https://github.com/Live-Hack-CVE/CVE-2022-40130)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40130">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40130">
 
 ---
 ## CVE-2022-40129 (2022-11-21T16:15:00)
@@ -3685,6 +3771,11 @@
 - [Live-Hack-CVE/CVE-2022-39028](https://github.com/Live-Hack-CVE/CVE-2022-39028)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39028">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39028">
 
 ---
+## CVE-2022-38974 (2022-11-18T19:15:00)
+> Broken Access Control vulnerability in WPML Multilingual CMS premium plugin <= 4.5.10 on WordPress allows users with subscriber or higher user roles to change the status of the translation jobs.
+- [Live-Hack-CVE/CVE-2022-38974](https://github.com/Live-Hack-CVE/CVE-2022-38974)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38974">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38974">
+
+---
 ## CVE-2022-3889 (2022-11-09T04:15:00)
 > Type confusion in V8 in Google Chrome prior to 107.0.5304.106 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [Live-Hack-CVE/CVE-2022-3889](https://github.com/Live-Hack-CVE/CVE-2022-3889)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3889">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3889">
@@ -3844,6 +3935,11 @@
 ## CVE-2022-38123 (2022-12-06T16:15:00)
 > Improper Input Validation of plugin files in Administrator Interface of Secomea GateManager allows a server administrator to inject code into the GateManager interface. This issue affects: Secomea GateManager versions prior to 10.0.
 - [Live-Hack-CVE/CVE-2022-38123](https://github.com/Live-Hack-CVE/CVE-2022-38123)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38123">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38123">
+
+---
+## CVE-2022-38075 (2022-11-18T19:15:00)
+> Cross-Site Request Forgery (CSRF) vulnerability leading to Stored Cross-Site Scripting (XSS) in Mantenimiento web plugin <= 0.13 on WordPress.
+- [Live-Hack-CVE/CVE-2022-38075](https://github.com/Live-Hack-CVE/CVE-2022-38075)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38075">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38075">
 
 ---
 ## CVE-2022-38045 (2022-10-11T19:15:00)
@@ -4015,6 +4111,11 @@
 ## CVE-2022-37298 (2022-10-20T11:15:00)
 > Shinken Solutions Shinken Monitoring Version 2.4.3 affected is vulnerable to Incorrect Access Control. The SafeUnpickler class found in shinken/safepickle.py implements a weak authentication scheme when unserializing objects passed from monitoring nodes to the Shinken monitoring server.
 - [dbyio/cve-2022-37298](https://github.com/dbyio/cve-2022-37298)	<img alt="forks" src="https://img.shields.io/github/forks/dbyio/cve-2022-37298">	<img alt="stars" src="https://img.shields.io/github/stars/dbyio/cve-2022-37298">
+
+---
+## CVE-2022-37290 (2022-11-14T08:15:00)
+> GNOME Nautilus 42.2 allows a NULL pointer dereference and get_basename application crash via a pasted ZIP archive.
+- [Live-Hack-CVE/CVE-2022-37290](https://github.com/Live-Hack-CVE/CVE-2022-37290)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37290">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37290">
 
 ---
 ## CVE-2022-3723 (2022-11-01T23:15:00)
@@ -4467,6 +4568,16 @@
 - [Live-Hack-CVE/CVE-2022-35693](https://github.com/Live-Hack-CVE/CVE-2022-35693)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35693">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35693">
 
 ---
+## CVE-2022-3562 (2022-11-20T05:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository librenms/librenms prior to 22.10.0.
+- [Live-Hack-CVE/CVE-2022-3562](https://github.com/Live-Hack-CVE/CVE-2022-3562)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3562">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3562">
+
+---
+## CVE-2022-3561 (2022-11-20T05:15:00)
+> Cross-site Scripting (XSS) - Generic in GitHub repository librenms/librenms prior to 22.10.0.
+- [Live-Hack-CVE/CVE-2022-3561](https://github.com/Live-Hack-CVE/CVE-2022-3561)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3561">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3561">
+
+---
 ## CVE-2022-35513 (2022-09-07T14:15:00)
 > The Blink1Control2 application <= 2.2.7 uses weak password encryption and an insecure method of storage.
 - [p1ckzi/CVE-2022-35513](https://github.com/p1ckzi/CVE-2022-35513)	<img alt="forks" src="https://img.shields.io/github/forks/p1ckzi/CVE-2022-35513">	<img alt="stars" src="https://img.shields.io/github/stars/p1ckzi/CVE-2022-35513">
@@ -4554,9 +4665,19 @@
 - [Live-Hack-CVE/CVE-2022-35252](https://github.com/Live-Hack-CVE/CVE-2022-35252)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35252">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35252">
 
 ---
+## CVE-2022-3525 (2022-11-20T05:15:00)
+> Deserialization of Untrusted Data in GitHub repository librenms/librenms prior to 22.10.0.
+- [Live-Hack-CVE/CVE-2022-3525](https://github.com/Live-Hack-CVE/CVE-2022-3525)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3525">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3525">
+
+---
 ## CVE-2022-3518 (2022-10-15T10:15:00)
 > A vulnerability classified as problematic has been found in SourceCodester Sanitization Management System 1.0. Affected is an unknown function of the component User Creation Handler. The manipulation of the argument First Name/Middle Name/Last Name leads to cross site scripting. It is possible to launch the attack remotely. VDB-211014 is the identifier assigned to this vulnerability.
 - [lohith19/CVE-2022-3518](https://github.com/lohith19/CVE-2022-3518)	<img alt="forks" src="https://img.shields.io/github/forks/lohith19/CVE-2022-3518">	<img alt="stars" src="https://img.shields.io/github/stars/lohith19/CVE-2022-3518">
+
+---
+## CVE-2022-3516 (2022-11-20T05:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository librenms/librenms prior to 22.10.0.
+- [Live-Hack-CVE/CVE-2022-3516](https://github.com/Live-Hack-CVE/CVE-2022-3516)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3516">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3516">
 
 ---
 ## CVE-2022-35131 (2022-07-25T21:15:00)
@@ -6127,6 +6248,12 @@
 > This issue was addressed with improved checks. This issue is fixed in Security Update 2022-004 Catalina, watchOS 8.6, macOS Monterey 12.4, macOS Big Sur 11.6.6. An app may be able to capture a user's screen.
 - [acheong08/CVE-2022-26726-POC](https://github.com/acheong08/CVE-2022-26726-POC)	<img alt="forks" src="https://img.shields.io/github/forks/acheong08/CVE-2022-26726-POC">	<img alt="stars" src="https://img.shields.io/github/stars/acheong08/CVE-2022-26726-POC">
 - [XmasSnowISBACK/CVE-2022-26726](https://github.com/XmasSnowISBACK/CVE-2022-26726)	<img alt="forks" src="https://img.shields.io/github/forks/XmasSnowISBACK/CVE-2022-26726">	<img alt="stars" src="https://img.shields.io/github/stars/XmasSnowISBACK/CVE-2022-26726">
+
+---
+## CVE-2022-2663 (2022-09-01T21:15:00)
+> An issue was found in the Linux kernel in nf_conntrack_irc where the message handling can be confused and incorrectly matches the message. A firewall may be able to be bypassed when users are using unencrypted IRC with nf_conntrack_irc configured.
+- [Live-Hack-CVE/CVE-2022-2663](https://github.com/Live-Hack-CVE/CVE-2022-2663)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2663">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2663">
+- [Cyb3rR3ap3r/CVE-2022-26631](https://github.com/Cyb3rR3ap3r/CVE-2022-26631)	<img alt="forks" src="https://img.shields.io/github/forks/Cyb3rR3ap3r/CVE-2022-26631">	<img alt="stars" src="https://img.shields.io/github/stars/Cyb3rR3ap3r/CVE-2022-26631">
 
 ---
 ## CVE-2022-2650 (2022-11-24T17:15:00)
