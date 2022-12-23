@@ -3806,6 +3806,7 @@
 ## CVE-2022-29221 (2022-05-24T15:15:00)
 > Smarty is a template engine for PHP, facilitating the separation of presentation (HTML/CSS) from application logic. Prior to versions 3.1.45 and 4.1.1, template authors could inject php code by choosing a malicious {block} name or {include} file name. Sites that cannot fully trust template authors should upgrade to versions 3.1.45 or 4.1.1 to receive a patch for this issue. There are currently no known workarounds.
 - [Live-Hack-CVE/CVE-2022-29221](https://github.com/Live-Hack-CVE/CVE-2022-29221)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29221">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29221">
+- [sbani/CVE-2022-29221-PoC](https://github.com/sbani/CVE-2022-29221-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sbani/CVE-2022-29221-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sbani/CVE-2022-29221-PoC">
 
 ---
 ## CVE-2022-29187 (2022-07-12T21:15:00)
