@@ -4844,6 +4844,11 @@
 - [sinsinology/CVE-2022-26503](https://github.com/sinsinology/CVE-2022-26503)	<img alt="forks" src="https://img.shields.io/github/forks/sinsinology/CVE-2022-26503">	<img alt="stars" src="https://img.shields.io/github/stars/sinsinology/CVE-2022-26503">
 
 ---
+## CVE-2022-2642 (2022-12-02T20:15:00)
+> Horner Automation’s RCC 972 firmware version 15.40 contains global variables. This could allow an attacker to read out sensitive values and variable keys from the device.
+- [Live-Hack-CVE/CVE-2022-2642](https://github.com/Live-Hack-CVE/CVE-2022-2642)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2642">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2642">
+
+---
 ## CVE-2022-2641 (2022-12-02T20:15:00)
 > Horner Automation’s RCC 972 with firmware version 15.40 has a static encryption key on the device. This could allow an attacker to perform unauthorized changes to the device, remotely execute arbitrary code, or cause a denial-of-service condition.
 - [Live-Hack-CVE/CVE-2022-2641](https://github.com/Live-Hack-CVE/CVE-2022-2641)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2641">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2641">
