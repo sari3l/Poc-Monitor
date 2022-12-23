@@ -51,6 +51,11 @@
 - [hacksysteam/CVE-2021-45067](https://github.com/hacksysteam/CVE-2021-45067)	<img alt="forks" src="https://img.shields.io/github/forks/hacksysteam/CVE-2021-45067">	<img alt="stars" src="https://img.shields.io/github/stars/hacksysteam/CVE-2021-45067">
 
 ---
+## CVE-2021-45036 (2022-11-28T16:15:00)
+> Velneo vClient on its 28.1.3 version, could allow an attacker with knowledge of the victims's username and hashed password to spoof the victim's id against the server.
+- [Live-Hack-CVE/CVE-2021-45036](https://github.com/Live-Hack-CVE/CVE-2021-45036)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45036">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45036">
+
+---
 ## CVE-2021-45010 ()
 > 
 - [BKreisel/CVE-2021-45010](https://github.com/BKreisel/CVE-2021-45010)	<img alt="forks" src="https://img.shields.io/github/forks/BKreisel/CVE-2021-45010">	<img alt="stars" src="https://img.shields.io/github/stars/BKreisel/CVE-2021-45010">

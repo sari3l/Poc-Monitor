@@ -586,6 +586,11 @@
 - [Live-Hack-CVE/CVE-2022-46151](https://github.com/Live-Hack-CVE/CVE-2022-46151)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46151">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46151">
 
 ---
+## CVE-2022-46150 (2022-11-29T18:15:00)
+> Discourse is an open-source discussion platform. Prior to version 2.8.13 of the `stable` branch and version 2.9.0.beta14 of the `beta` and `tests-passed` branches, unauthorized users may learn of the existence of hidden tags and that they have been applied to topics that they have access to. This issue is patched in version 2.8.13 of the `stable` branch and version 2.9.0.beta14 of the `beta` and `tests-passed` branches. As a workaround, use the `disable_email` site setting to disable all emails to non-staff users.
+- [Live-Hack-CVE/CVE-2022-46150](https://github.com/Live-Hack-CVE/CVE-2022-46150)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46150">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46150">
+
+---
 ## CVE-2022-4615 (2022-12-19T20:15:00)
 > Cross-site Scripting (XSS) - Reflected in GitHub repository openemr/openemr prior to 7.0.0.2.
 - [Live-Hack-CVE/CVE-2022-4615](https://github.com/Live-Hack-CVE/CVE-2022-4615)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4615">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4615">
@@ -594,6 +599,11 @@
 ## CVE-2022-46149 (2022-11-30T17:15:00)
 > Cap'n Proto is a data interchange format and remote procedure call (RPC) system. Cap'n Proro prior to versions 0.7.1, 0.8.1, 0.9.2, and 0.10.3, as well as versions of Cap'n Proto's Rust implementation prior to 0.13.7, 0.14.11, and 0.15.2 are vulnerable to out-of-bounds read due to logic error handling list-of-list. This issue may lead someone to remotely segfault a peer by sending it a malicious message, if the victim performs certain actions on a list-of-pointer type. Exfiltration of memory is possible if the victim performs additional certain actions on a list-of-pointer type. To be vulnerable, an application must perform a specific sequence of actions, described in the GitHub Security Advisory. The bug is present in inlined code, therefore the fix will require rebuilding dependent applications. Cap'n Proto has C++ fixes available in versions 0.7.1, 0.8.1, 0.9.2, and 0.10.3. The `capnp` Rust crate has fixes available in versions 0.13.7, 0.14.11, and 0.15.2.
 - [Live-Hack-CVE/CVE-2022-46149](https://github.com/Live-Hack-CVE/CVE-2022-46149)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46149">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46149">
+
+---
+## CVE-2022-46148 (2022-11-29T17:15:00)
+> Discourse is an open-source messaging platform. In versions 2.8.10 and prior on the `stable` branch and versions 2.9.0.beta11 and prior on the `beta` and `tests-passed` branches, users composing malicious messages and navigating to drafts page could self-XSS. This vulnerability can lead to a full XSS on sites which have modified or disabled Discourse’s default Content Security Policy. This issue is patched in the latest stable, beta and tests-passed versions of Discourse.
+- [Live-Hack-CVE/CVE-2022-46148](https://github.com/Live-Hack-CVE/CVE-2022-46148)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46148">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46148">
 
 ---
 ## CVE-2022-46144 (2022-12-13T16:15:00)
@@ -857,6 +867,11 @@
 - [Live-Hack-CVE/CVE-2022-45347](https://github.com/Live-Hack-CVE/CVE-2022-45347)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45347">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45347">
 
 ---
+## CVE-2022-45343 (2022-11-29T16:15:00)
+> GPAC v2.1-DEV-rev478-g696e6f868-master was discovered to contain a heap use-after-free via the Q_IsTypeOn function at /gpac/src/bifs/unquantize.c.
+- [Live-Hack-CVE/CVE-2022-45343](https://github.com/Live-Hack-CVE/CVE-2022-45343)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45343">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45343">
+
+---
 ## CVE-2022-45326 (2022-12-06T17:15:00)
 > An XML external entity (XXE) injection vulnerability in Kwoksys Kwok Information Server before v2.9.5.SP31 allows remote authenticated users to conduct server-side request forgery (SSRF) attacks.
 - [Live-Hack-CVE/CVE-2022-45326](https://github.com/Live-Hack-CVE/CVE-2022-45326)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45326">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45326">
@@ -917,6 +932,16 @@
 > A vulnerability classified as problematic has been found in WSO2 carbon-registry up to 4.8.7. This affects an unknown part of the component Request Parameter Handler. The manipulation of the argument parentPath/path/username/path/profile_menu leads to cross site scripting. It is possible to initiate the attack remotely. Upgrading to version 4.8.12 is able to address this issue. The name of the patch is 9f967abfde9317bee2cda469dbc09b57d539f2cc. It is recommended to upgrade the affected component. The identifier VDB-215901 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-4521](https://github.com/Live-Hack-CVE/CVE-2022-4521)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4521">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4521">
 - [sudoninja-noob/CVE-2022-45217](https://github.com/sudoninja-noob/CVE-2022-45217)	<img alt="forks" src="https://img.shields.io/github/forks/sudoninja-noob/CVE-2022-45217">	<img alt="stars" src="https://img.shields.io/github/stars/sudoninja-noob/CVE-2022-45217">
+
+---
+## CVE-2022-45204 (2022-11-29T04:15:00)
+> GPAC v2.1-DEV-rev428-gcb8ae46c8-master was discovered to contain a memory leak via the function dimC_box_read at isomedia/box_code_3gpp.c.
+- [Live-Hack-CVE/CVE-2022-45204](https://github.com/Live-Hack-CVE/CVE-2022-45204)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45204">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45204">
+
+---
+## CVE-2022-45202 (2022-11-29T04:15:00)
+> GPAC v2.1-DEV-rev428-gcb8ae46c8-master was discovered to contain a stack overflow via the function dimC_box_read at isomedia/box_code_3gpp.c.
+- [Live-Hack-CVE/CVE-2022-45202](https://github.com/Live-Hack-CVE/CVE-2022-45202)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45202">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45202">
 
 ---
 ## CVE-2022-4520 (2022-12-15T21:15:00)
@@ -1121,6 +1146,11 @@
 - [Live-Hack-CVE/CVE-2022-44643](https://github.com/Live-Hack-CVE/CVE-2022-44643)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44643">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44643">
 
 ---
+## CVE-2022-44635 (2022-11-29T15:15:00)
+> Apache Fineract allowed an authenticated user to perform remote code execution due to a path traversal vulnerability in a file upload component of Apache Fineract, allowing an attacker to run remote code. This issue affects Apache Fineract version 1.8.0 and prior versions. We recommend users to upgrade to 1.8.1.
+- [Live-Hack-CVE/CVE-2022-44635](https://github.com/Live-Hack-CVE/CVE-2022-44635)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44635">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44635">
+
+---
 ## CVE-2022-44608 (2022-12-07T04:15:00)
 > Uncontrolled resource consumption vulnerability in Cybozu Remote Service 4.0.0 to 4.0.3 allows a remote authenticated attacker to consume huge storage space, which may result in a denial-of-service (DoS) condition.
 - [Live-Hack-CVE/CVE-2022-44608](https://github.com/Live-Hack-CVE/CVE-2022-44608)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44608">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44608">
@@ -1229,6 +1259,16 @@
 ## CVE-2022-44289 (2022-12-06T16:15:00)
 > Thinkphp 5.1.41 and 5.0.24 has a code logic error which causes file upload getshell.
 - [Live-Hack-CVE/CVE-2022-44289](https://github.com/Live-Hack-CVE/CVE-2022-44289)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44289">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44289">
+
+---
+## CVE-2022-44284 (2022-11-28T15:15:00)
+> Dinstar FXO Analog VoIP Gateway DAG2000-16O is vulnerable to Cross Site Scripting (XSS).
+- [Live-Hack-CVE/CVE-2022-44284](https://github.com/Live-Hack-CVE/CVE-2022-44284)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44284">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44284">
+
+---
+## CVE-2022-44283 (2022-11-28T15:15:00)
+> AVS Audio Converter 10.3 is vulnerable to Buffer Overflow.
+- [Live-Hack-CVE/CVE-2022-44283](https://github.com/Live-Hack-CVE/CVE-2022-44283)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44283">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44283">
 
 ---
 ## CVE-2022-4427 (2022-12-19T09:15:00)
@@ -2194,6 +2234,16 @@
 - [Live-Hack-CVE/CVE-2022-41960](https://github.com/Live-Hack-CVE/CVE-2022-41960)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41960">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41960">
 
 ---
+## CVE-2022-41957 (2022-11-28T15:15:00)
+> Muhammara is a node module with c/cpp bindings to modify PDF with JavaScript for node or electron. The package muhammara before 2.6.2 and from 3.0.0 and before 3.3.0, as well as all versions of muhammara's predecessor package hummus, are vulnerable to Denial of Service (DoS) when supplied with a maliciously crafted PDF file to be parsed. The issue has been patched in muhammara version 3.4.0 and the fix has been backported to version 2.6.2. As a workaround, do not process files from untrusted sources. If using hummus, replace the package with muhammara.
+- [Live-Hack-CVE/CVE-2022-41957](https://github.com/Live-Hack-CVE/CVE-2022-41957)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41957">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41957">
+
+---
+## CVE-2022-41944 (2022-11-28T15:15:00)
+> Discourse is an open-source discussion platform. In stable versions prior to 2.8.12 and beta or tests-passed versions prior to 2.9.0.beta.13, under certain conditions, a user can see notifications for topics they no longer have access to. If there is sensitive information in the topic title, it will therefore have been exposed. This issue is patched in stable version 2.8.12, beta version 2.9.0.beta13, and tests-passed version 2.9.0.beta13. There are no workarounds available.
+- [Live-Hack-CVE/CVE-2022-41944](https://github.com/Live-Hack-CVE/CVE-2022-41944)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41944">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41944">
+
+---
 ## CVE-2022-4194 (2022-11-30T00:15:00)
 > Use after free in Accessibility in Google Chrome prior to 108.0.5359.71 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: Medium)
 - [Live-Hack-CVE/CVE-2022-4194](https://github.com/Live-Hack-CVE/CVE-2022-4194)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4194">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4194">
@@ -2688,6 +2738,11 @@
 - [Live-Hack-CVE/CVE-2022-40841](https://github.com/Live-Hack-CVE/CVE-2022-40841)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40841">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40841">
 
 ---
+## CVE-2022-40799 (2022-11-29T05:15:00)
+> Data Integrity Failure in 'Backup Config' in D-Link DNR-322L <= 2.60B15 allows an authenticated attacker to execute OS level commands on the device.
+- [Live-Hack-CVE/CVE-2022-40799](https://github.com/Live-Hack-CVE/CVE-2022-40799)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40799">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40799">
+
+---
 ## CVE-2022-40743 (2022-12-19T12:15:00)
 > Improper Input Validation vulnerability for the xdebug plugin in Apache Software Foundation Apache Traffic Server can lead to cross site scripting and cache poisoning attacks.This issue affects Apache Traffic Server: 9.0.0 to 9.1.3. Users should upgrade to 9.1.4 or later versions.
 - [Live-Hack-CVE/CVE-2022-40743](https://github.com/Live-Hack-CVE/CVE-2022-40743)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40743">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40743">
@@ -2784,6 +2839,31 @@
 ## CVE-2022-40434 (2022-12-19T22:15:00)
 > Softr v2.0 was discovered to be vulnerable to HTML injection via the Name field of the Account page.
 - [Live-Hack-CVE/CVE-2022-40434](https://github.com/Live-Hack-CVE/CVE-2022-40434)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40434">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40434">
+
+---
+## CVE-2022-4036 (2022-11-29T21:15:00)
+> The Appointment Hour Booking plugin for WordPress is vulnerable to CAPTCHA bypass in versions up to, and including, 1.3.72. This is due to the use of insufficiently strong hashing algorithm on the CAPTCHA secret that is also displayed to the user via a cookie.
+- [Live-Hack-CVE/CVE-2022-4036](https://github.com/Live-Hack-CVE/CVE-2022-4036)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4036">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4036">
+
+---
+## CVE-2022-4035 (2022-11-29T21:15:00)
+> The Appointment Hour Booking plugin for WordPress is vulnerable to iFrame Injection via the ‘email’ or general field parameters in versions up to, and including, 1.3.72 due to insufficient input sanitization and output escaping that makes injecting iFrame tags possible. This makes it possible for unauthenticated attackers to inject iFrames when submitting a booking that will execute whenever a user accesses the injected booking details page.
+- [Live-Hack-CVE/CVE-2022-4035](https://github.com/Live-Hack-CVE/CVE-2022-4035)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4035">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4035">
+
+---
+## CVE-2022-4034 (2022-11-29T21:15:00)
+> The Appointment Hour Booking Plugin for WordPress is vulnerable to CSV Injection in versions up to, and including, 1.3.72. This makes it possible for unauthenticated attackers to embed untrusted input into content during booking creation that may be exported as a CSV file when a site's administrator exports booking details. This can result in code execution when these files are downloaded and opened on a local system with a vulnerable configuration.
+- [Live-Hack-CVE/CVE-2022-4034](https://github.com/Live-Hack-CVE/CVE-2022-4034)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4034">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4034">
+
+---
+## CVE-2022-4033 (2022-11-29T21:15:00)
+> The Quiz and Survey Master plugin for WordPress is vulnerable to input validation bypass via the 'question[id]' parameter in versions up to, and including, 8.0.4 due to insufficient input validation that allows attackers to inject content other than the specified value (i.e. a number, file path, etc..). This makes it possible attackers to submit values other than the intended input type.
+- [Live-Hack-CVE/CVE-2022-4033](https://github.com/Live-Hack-CVE/CVE-2022-4033)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4033">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4033">
+
+---
+## CVE-2022-4032 (2022-11-29T21:15:00)
+> The Quiz and Survey Master plugin for WordPress is vulnerable to iFrame Injection via the 'question[id]' parameter in versions up to, and including, 8.0.4 due to insufficient input sanitization and output escaping that allowed iframe tags to be injected. This makes it possible for unauthenticated attackers to inject iFrames in pages that will execute whenever a user accesses an injected page.
+- [Live-Hack-CVE/CVE-2022-4032](https://github.com/Live-Hack-CVE/CVE-2022-4032)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4032">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4032">
 
 ---
 ## CVE-2022-40317 (2022-09-09T17:15:00)
@@ -2965,6 +3045,16 @@
 ## CVE-2022-39384 (2022-11-04T22:15:00)
 > OpenZeppelin Contracts is a library for secure smart contract development. Before version 4.4.1 but after 3.2.0, initializer functions that are invoked separate from contract creation (the most prominent example being minimal proxies) may be reentered if they make an untrusted non-view external call. Once an initializer has finished running it can never be re-executed. However, an exception put in place to support multiple inheritance made reentrancy possible in the scenario described above, breaking the expectation that there is a single execution. Note that upgradeable proxies are commonly initialized together with contract creation, where reentrancy is not feasible, so the impact of this issue is believed to be minor. This issue has been patched, please upgrade to version 4.4.1. As a workaround, avoid untrusted external calls during initialization.
 - [Live-Hack-CVE/CVE-2022-39384](https://github.com/Live-Hack-CVE/CVE-2022-39384)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39384">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39384">
+
+---
+## CVE-2022-39339 (2022-11-25T19:15:00)
+> user_oidc is an OpenID Connect user backend for Nextcloud. In versions prior to 1.2.1 sensitive information such as the OIDC client credentials and tokens are sent in plain text of HTTP without TLS. Any malicious actor with access to monitor user traffic may have been able to compromise account security. This issue has been addressed in in user_oidc v1.2.1. Users are advised to upgrade. Users unable to upgrade may use https to access Nextcloud. Set an HTTPS discovery URL in the provider settings (in Nextcloud OIDC admin settings).
+- [Live-Hack-CVE/CVE-2022-39339](https://github.com/Live-Hack-CVE/CVE-2022-39339)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39339">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39339">
+
+---
+## CVE-2022-39338 (2022-11-25T19:15:00)
+> user_oidc is an OpenID Connect user backend for Nextcloud. Versions prior to 1.2.1 did not properly validate discovery urls which may lead to a stored cross site scripting attack vector. The impact is limited due to the restrictive CSP that is applied on this endpoint. Additionally this vulnerability has only been shown to be exploitable in the Safari web browser. This issue has been addressed in version 1.2.1. Users are advised to upgrade. Users unable to upgrade should urge their users to avoid using the Safari web browser.
+- [Live-Hack-CVE/CVE-2022-39338](https://github.com/Live-Hack-CVE/CVE-2022-39338)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39338">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39338">
 
 ---
 ## CVE-2022-39304 (2022-12-20T20:15:00)
@@ -3395,6 +3485,16 @@
 - [MaherAzzouzi/CVE-2022-37703](https://github.com/MaherAzzouzi/CVE-2022-37703)	<img alt="forks" src="https://img.shields.io/github/forks/MaherAzzouzi/CVE-2022-37703">	<img alt="stars" src="https://img.shields.io/github/stars/MaherAzzouzi/CVE-2022-37703">
 
 ---
+## CVE-2022-3751 (2022-11-29T21:15:00)
+> SQL Injection in GitHub repository owncast/owncast prior to 0.0.13.
+- [Live-Hack-CVE/CVE-2022-3751](https://github.com/Live-Hack-CVE/CVE-2022-3751)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3751">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3751">
+
+---
+## CVE-2022-3747 (2022-11-29T21:15:00)
+> The Becustom plugin for WordPress is vulnerable to Cross-Site Request Forgery in versions up to, and including, 1.0.5.2. This is due to missing nonce validation when saving the plugin's settings. This makes it possible for unauthenticated attackers to update the plugin's settings like betheme_url_slug, replaced_theme_author, and betheme_label to name a few, via a forged request granted they can trick a site administrator into performing an action such as clicking on a link.
+- [Live-Hack-CVE/CVE-2022-3747](https://github.com/Live-Hack-CVE/CVE-2022-3747)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3747">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3747">
+
+---
 ## CVE-2022-37454 (2022-10-21T06:15:00)
 > The Keccak XKCP SHA-3 reference implementation before fdc6fef has an integer overflow and resultant buffer overflow that allows attackers to execute arbitrary code or eliminate expected cryptographic properties. This occurs in the sponge function interface.
 - [Live-Hack-CVE/CVE-2022-37454](https://github.com/Live-Hack-CVE/CVE-2022-37454)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37454">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37454">
@@ -3547,6 +3647,21 @@
 - [alfarom256/CVE-2022-3699](https://github.com/alfarom256/CVE-2022-3699)	<img alt="forks" src="https://img.shields.io/github/forks/alfarom256/CVE-2022-3699">	<img alt="stars" src="https://img.shields.io/github/stars/alfarom256/CVE-2022-3699">
 
 ---
+## CVE-2022-36964 (2022-11-29T21:15:00)
+> SolarWinds Platform was susceptible to the Deserialization of Untrusted Data. This vulnerability allows a remote adversary with valid access to SolarWinds Web Console to execute arbitrary commands.
+- [Live-Hack-CVE/CVE-2022-36964](https://github.com/Live-Hack-CVE/CVE-2022-36964)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36964">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36964">
+
+---
+## CVE-2022-36962 (2022-11-29T21:15:00)
+> SolarWinds Platform was susceptible to Command Injection. This vulnerability allows a remote adversary with complete control over the SolarWinds database to execute arbitrary commands.
+- [Live-Hack-CVE/CVE-2022-36962](https://github.com/Live-Hack-CVE/CVE-2022-36962)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36962">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36962">
+
+---
+## CVE-2022-36960 (2022-11-29T21:15:00)
+> SolarWinds Platform was susceptible to Improper Input Validation. This vulnerability allows a remote adversary with valid access to SolarWinds Web Console to escalate user privileges.
+- [Live-Hack-CVE/CVE-2022-36960](https://github.com/Live-Hack-CVE/CVE-2022-36960)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36960">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36960">
+
+---
 ## CVE-2022-3696 (2022-12-01T18:15:00)
 > A post-auth code injection vulnerability allows admins to execute code in Webadmin of Sophos Firewall releases older than version 19.5 GA.
 - [Live-Hack-CVE/CVE-2022-3696](https://github.com/Live-Hack-CVE/CVE-2022-3696)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3696">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3696">
@@ -3674,6 +3789,7 @@
 ## CVE-2022-36433 (2022-11-29T13:15:00)
 > The blog-post creation functionality in the Amasty Blog Pro 2.10.3 plugin for Magento 2 allows injection of JavaScript code in the short_content and full_content fields, leading to XSS attacks against admin panel users via posts/preview or posts/save.
 - [afine-com/CVE-2022-36433](https://github.com/afine-com/CVE-2022-36433)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2022-36433">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2022-36433">
+- [Live-Hack-CVE/CVE-2022-36433](https://github.com/Live-Hack-CVE/CVE-2022-36433)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36433">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36433">
 
 ---
 ## CVE-2022-36432 (2022-11-17T05:15:00)
@@ -4102,6 +4218,11 @@
 - [Live-Hack-CVE/CVE-2022-33875](https://github.com/Live-Hack-CVE/CVE-2022-33875)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33875">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33875">
 
 ---
+## CVE-2022-3384 (2022-11-29T21:15:00)
+> The Ultimate Member plugin for WordPress is vulnerable to Remote Code Execution in versions up to, and including, 2.5.0 via the populate_dropdown_options function that accepts user supplied input and passes it through call_user_func(). This is restricted to non-parameter PHP functions like phpinfo(); since user supplied parameters are not passed through the function. This makes it possible for authenticated attackers, with administrative privileges, to execute code on the server.
+- [Live-Hack-CVE/CVE-2022-3384](https://github.com/Live-Hack-CVE/CVE-2022-3384)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3384">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3384">
+
+---
 ## CVE-2022-3382 (2022-10-17T20:15:00)
 > HIWIN Robot System Software version 3.3.21.9869 does not properly address the terminated command source. As a result, an attacker could craft code to disconnect HRSS and the controller and cause a denial-of-service condition.
 - [PyterSmithDarkGhost/CVE-2022-3382ROBOTICAEXPLOITPOC](https://github.com/PyterSmithDarkGhost/CVE-2022-3382ROBOTICAEXPLOITPOC)	<img alt="forks" src="https://img.shields.io/github/forks/PyterSmithDarkGhost/CVE-2022-3382ROBOTICAEXPLOITPOC">	<img alt="stars" src="https://img.shields.io/github/stars/PyterSmithDarkGhost/CVE-2022-3382ROBOTICAEXPLOITPOC">
@@ -4138,6 +4259,11 @@
 - [Amulab/CVE-2022-33679](https://github.com/Amulab/CVE-2022-33679)	<img alt="forks" src="https://img.shields.io/github/forks/Amulab/CVE-2022-33679">	<img alt="stars" src="https://img.shields.io/github/stars/Amulab/CVE-2022-33679">
 - [Bdenneu/CVE-2022-33679](https://github.com/Bdenneu/CVE-2022-33679)	<img alt="forks" src="https://img.shields.io/github/forks/Bdenneu/CVE-2022-33679">	<img alt="stars" src="https://img.shields.io/github/stars/Bdenneu/CVE-2022-33679">
 - [notareaperbutDR34P3r/Kerberos_CVE-2022-33679](https://github.com/notareaperbutDR34P3r/Kerberos_CVE-2022-33679)	<img alt="forks" src="https://img.shields.io/github/forks/notareaperbutDR34P3r/Kerberos_CVE-2022-33679">	<img alt="stars" src="https://img.shields.io/github/stars/notareaperbutDR34P3r/Kerberos_CVE-2022-33679">
+
+---
+## CVE-2022-3361 (2022-11-29T21:15:00)
+> The Ultimate Member plugin for WordPress is vulnerable to directory traversal in versions up to, and including 2.5.0 due to insufficient input validation on the 'template' attribute used in shortcodes. This makes it possible for attackers with administrative privileges to supply arbitrary paths using traversal (../../) to access and include files outside of the intended directory. If an attacker can successfully upload a php file then remote code execution via inclusion may also be possible. Note: for users with less than administrative capabilities, /wp-admin access needs to be enabled for that user in order for this to be exploitable by those users.
+- [Live-Hack-CVE/CVE-2022-3361](https://github.com/Live-Hack-CVE/CVE-2022-3361)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3361">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3361">
 
 ---
 ## CVE-2022-3359 (2022-12-12T18:15:00)
@@ -4990,6 +5116,7 @@
 - [nidhi7598/linux-4.19.72_CVE-2022-29581](https://github.com/nidhi7598/linux-4.19.72_CVE-2022-29581)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.19.72_CVE-2022-29581">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.19.72_CVE-2022-29581">
 - [Nidhi77777/linux-4.19.72_CVE-2022-29581](https://github.com/Nidhi77777/linux-4.19.72_CVE-2022-29581)	<img alt="forks" src="https://img.shields.io/github/forks/Nidhi77777/linux-4.19.72_CVE-2022-29581">	<img alt="stars" src="https://img.shields.io/github/stars/Nidhi77777/linux-4.19.72_CVE-2022-29581">
 - [Nidhi77777/linux-4.19.72_CVE-2022-29581](https://github.com/Nidhi77777/linux-4.19.72_CVE-2022-29581)	<img alt="forks" src="https://img.shields.io/github/forks/Nidhi77777/linux-4.19.72_CVE-2022-29581">	<img alt="stars" src="https://img.shields.io/github/stars/Nidhi77777/linux-4.19.72_CVE-2022-29581">
+- [nidhihcl/linux-4.19.72_CVE-2022-29581](https://github.com/nidhihcl/linux-4.19.72_CVE-2022-29581)	<img alt="forks" src="https://img.shields.io/github/forks/nidhihcl/linux-4.19.72_CVE-2022-29581">	<img alt="stars" src="https://img.shields.io/github/stars/nidhihcl/linux-4.19.72_CVE-2022-29581">
 
 ---
 ## CVE-2022-29554 ()
@@ -5486,6 +5613,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [konoha279/2022-LPE-UAF](https://github.com/konoha279/2022-LPE-UAF)	<img alt="forks" src="https://img.shields.io/github/forks/konoha279/2022-LPE-UAF">	<img alt="stars" src="https://img.shields.io/github/stars/konoha279/2022-LPE-UAF">
 - [pirenga/2022-LPE-UAF](https://github.com/pirenga/2022-LPE-UAF)	<img alt="forks" src="https://img.shields.io/github/forks/pirenga/2022-LPE-UAF">	<img alt="stars" src="https://img.shields.io/github/stars/pirenga/2022-LPE-UAF">
 - [sniper404ghostxploit/CVE-2022-2586](https://github.com/sniper404ghostxploit/CVE-2022-2586)	<img alt="forks" src="https://img.shields.io/github/forks/sniper404ghostxploit/CVE-2022-2586">	<img alt="stars" src="https://img.shields.io/github/stars/sniper404ghostxploit/CVE-2022-2586">
+
+---
+## CVE-2022-25848 (2022-11-29T17:15:00)
+> This affects all versions of package static-dev-server. This is because when paths from users to the root directory are joined, the assets for the path accessed are relative to that of the root directory.
+- [Live-Hack-CVE/CVE-2022-25848](https://github.com/Live-Hack-CVE/CVE-2022-25848)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25848">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25848">
 
 ---
 ## CVE-2022-25845 (2022-06-10T20:15:00)
@@ -6197,6 +6329,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-21225 (2022-08-18T20:15:00)
 > Improper neutralization in the Intel(R) Data Center Manager software before version 4.1 may allow an authenticated user to potentially enable escalation of privilege via adjacent access.
 - [Live-Hack-CVE/CVE-2022-21225](https://github.com/Live-Hack-CVE/CVE-2022-21225)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21225">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21225">
+
+---
+## CVE-2022-21126 (2022-11-29T17:15:00)
+> The package com.github.samtools:htsjdk before 3.0.1 are vulnerable to Creation of Temporary File in Directory with Insecure Permissions due to the createTempDir() function in util/IOUtil.java not checking for the existence of the temporary directory before attempting to create it.
+- [Live-Hack-CVE/CVE-2022-21126](https://github.com/Live-Hack-CVE/CVE-2022-21126)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21126">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21126">
 
 ---
 ## CVE-2022-20866 (2022-08-10T17:15:00)
