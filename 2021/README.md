@@ -1036,6 +1036,11 @@
 - [Live-Hack-CVE/CVE-2021-35938](https://github.com/Live-Hack-CVE/CVE-2021-35938)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35938">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35938">
 
 ---
+## CVE-2021-3563 (2022-08-26T16:15:00)
+> A flaw was found in openstack-keystone. Only the first 72 characters of an application secret are verified allowing attackers bypass some password complexity which administrators may be counting on. The highest threat from this vulnerability is to data confidentiality and integrity.
+- [Live-Hack-CVE/CVE-2021-3563](https://github.com/Live-Hack-CVE/CVE-2021-3563)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3563">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3563">
+
+---
 ## CVE-2021-3560 (2022-02-16T19:15:00)
 > It was found that polkit could be tricked into bypassing the credential checks for D-Bus requests, elevating the privileges of the requestor to the root user. This flaw could be used by an unprivileged local attacker to, for example, create a new local administrator. The highest threat from this vulnerability is to data confidentiality and integrity as well as system availability.
 - [UNICORDev/exploit-CVE-2021-3560](https://github.com/UNICORDev/exploit-CVE-2021-3560)	<img alt="forks" src="https://img.shields.io/github/forks/UNICORDev/exploit-CVE-2021-3560">	<img alt="stars" src="https://img.shields.io/github/stars/UNICORDev/exploit-CVE-2021-3560">
