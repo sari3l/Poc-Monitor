@@ -26,6 +26,11 @@
 - [xanszZZ/SDT_CW3B1_rce](https://github.com/xanszZZ/SDT_CW3B1_rce)	<img alt="forks" src="https://img.shields.io/github/forks/xanszZZ/SDT_CW3B1_rce">	<img alt="stars" src="https://img.shields.io/github/stars/xanszZZ/SDT_CW3B1_rce">
 
 ---
+## CVE-2021-45942 (2022-01-01T01:15:00)
+> OpenEXR 3.1.x before 3.1.4 has a heap-based buffer overflow in Imf_3_1::LineCompositeTask::execute (called from IlmThread_3_1::NullThreadPoolProvider::addTask and IlmThread_3_1::ThreadPool::addGlobalTask). NOTE: db217f2 may be inapplicable.
+- [Live-Hack-CVE/CVE-2021-45942](https://github.com/Live-Hack-CVE/CVE-2021-45942)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45942">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45942">
+
+---
 ## CVE-2021-45901 (2022-02-10T14:15:00)
 > The password-reset form in ServiceNow Orlando provides different responses to invalid authentication attempts depending on whether the username exists.
 - [9lyph/CVE-2021-45901](https://github.com/9lyph/CVE-2021-45901)	<img alt="forks" src="https://img.shields.io/github/forks/9lyph/CVE-2021-45901">	<img alt="stars" src="https://img.shields.io/github/stars/9lyph/CVE-2021-45901">
@@ -660,6 +665,16 @@
 - [nidhi7598/system_bt_AOSP_10_r33_CVE-2021-39674](https://github.com/nidhi7598/system_bt_AOSP_10_r33_CVE-2021-39674)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/system_bt_AOSP_10_r33_CVE-2021-39674">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/system_bt_AOSP_10_r33_CVE-2021-39674">
 
 ---
+## CVE-2021-3942 (2022-12-12T13:15:00)
+> Certain HP Print products and Digital Sending products may be vulnerable to potential remote code execution and buffer overflow with use of Link-Local Multicast Name Resolution or LLMNR.
+- [Live-Hack-CVE/CVE-2021-3942](https://github.com/Live-Hack-CVE/CVE-2021-3942)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3942">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3942">
+
+---
+## CVE-2021-3941 (2022-03-25T19:15:00)
+> In ImfChromaticities.cpp routine RGBtoXYZ(), there are some division operations such as `float Z = (1 - chroma.white.x - chroma.white.y) * Y / chroma.white.y;` and `chroma.green.y * (X + Z))) / d;` but the divisor is not checked for a 0 value. A specially crafted file could trigger a divide-by-zero condition which could affect the availability of programs linked with OpenEXR.
+- [Live-Hack-CVE/CVE-2021-3941](https://github.com/Live-Hack-CVE/CVE-2021-3941)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3941">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3941">
+
+---
 ## CVE-2021-39409 (2022-06-24T17:15:00)
 > A vulnerability exists in Online Student Rate System v1.0 that allows any user to register as an administrator without needing to be authenticated.
 - [StefanDorresteijn/CVE-2021-39409](https://github.com/StefanDorresteijn/CVE-2021-39409)	<img alt="forks" src="https://img.shields.io/github/forks/StefanDorresteijn/CVE-2021-39409">	<img alt="stars" src="https://img.shields.io/github/stars/StefanDorresteijn/CVE-2021-39409">
@@ -668,6 +683,11 @@
 ## CVE-2021-39408 (2022-06-24T17:15:00)
 > Cross Site Scripting (XSS) vulnerability exists in Online Student Rate System 1.0 via the page parameter on the index.php file
 - [StefanDorresteijn/CVE-2021-39408](https://github.com/StefanDorresteijn/CVE-2021-39408)	<img alt="forks" src="https://img.shields.io/github/forks/StefanDorresteijn/CVE-2021-39408">	<img alt="stars" src="https://img.shields.io/github/stars/StefanDorresteijn/CVE-2021-39408">
+
+---
+## CVE-2021-3933 (2022-03-25T19:15:00)
+> An integer overflow could occur when OpenEXR processes a crafted file on systems where size_t < 64 bits. This could cause an invalid bytesPerLine and maxBytesPerLine value, which could lead to problems with application stability or lead to other attack paths.
+- [Live-Hack-CVE/CVE-2021-3933](https://github.com/Live-Hack-CVE/CVE-2021-3933)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3933">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3933">
 
 ---
 ## CVE-2021-39172 (2021-08-27T23:15:00)
@@ -814,6 +834,16 @@
 - [TakenoSite/RemoteUploader-CVE-2021-36260](https://github.com/TakenoSite/RemoteUploader-CVE-2021-36260)	<img alt="forks" src="https://img.shields.io/github/forks/TakenoSite/RemoteUploader-CVE-2021-36260">	<img alt="stars" src="https://img.shields.io/github/stars/TakenoSite/RemoteUploader-CVE-2021-36260">
 
 ---
+## CVE-2021-3605 (2021-08-25T19:15:00)
+> There's a flaw in OpenEXR's rleUncompress functionality in versions prior to 3.0.5. An attacker who is able to submit a crafted file to an application linked with OpenEXR could cause an out-of-bounds read. The greatest risk from this flaw is to application availability.
+- [Live-Hack-CVE/CVE-2021-3605](https://github.com/Live-Hack-CVE/CVE-2021-3605)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3605">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3605">
+
+---
+## CVE-2021-3598 (2021-07-06T15:15:00)
+> There's a flaw in OpenEXR's ImfDeepScanLineInputFile functionality in versions prior to 3.0.5. An attacker who is able to submit a crafted file to an application linked with OpenEXR could cause an out-of-bounds read. The greatest risk from this flaw is to application availability.
+- [Live-Hack-CVE/CVE-2021-3598](https://github.com/Live-Hack-CVE/CVE-2021-3598)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3598">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3598">
+
+---
 ## CVE-2021-3560 (2022-02-16T19:15:00)
 > It was found that polkit could be tricked into bypassing the credential checks for D-Bus requests, elevating the privileges of the requestor to the root user. This flaw could be used by an unprivileged local attacker to, for example, create a new local administrator. The highest threat from this vulnerability is to data confidentiality and integrity as well as system availability.
 - [UNICORDev/exploit-CVE-2021-3560](https://github.com/UNICORDev/exploit-CVE-2021-3560)	<img alt="forks" src="https://img.shields.io/github/forks/UNICORDev/exploit-CVE-2021-3560">	<img alt="stars" src="https://img.shields.io/github/stars/UNICORDev/exploit-CVE-2021-3560">
@@ -893,6 +923,22 @@
 ## CVE-2021-34767 (2021-09-23T03:15:00)
 > A vulnerability in IPv6 traffic processing of Cisco IOS XE Wireless Controller Software for Cisco Catalyst 9000 Family Wireless Controllers could allow an unauthenticated, adjacent attacker to cause a Layer 2 (L2) loop in a configured VLAN, resulting in a denial of service (DoS) condition for that VLAN. The vulnerability is due to a logic error when processing specific link-local IPv6 traffic. An attacker could exploit this vulnerability by sending a crafted IPv6 packet that would flow inbound through the wired interface of an affected device. A successful exploit could allow the attacker to cause traffic drops in the affected VLAN, thus triggering the DoS condition.
 - [lukejenkins/CVE-2021-34767](https://github.com/lukejenkins/CVE-2021-34767)	<img alt="forks" src="https://img.shields.io/github/forks/lukejenkins/CVE-2021-34767">	<img alt="stars" src="https://img.shields.io/github/stars/lukejenkins/CVE-2021-34767">
+
+---
+## CVE-2021-3476 (2021-03-30T18:15:00)
+> A flaw was found in OpenEXR's B44 uncompression functionality in versions before 3.0.0-beta. An attacker who is able to submit a crafted file to OpenEXR could trigger shift overflows, potentially affecting application availability.
+- [Live-Hack-CVE/CVE-2021-3476](https://github.com/Live-Hack-CVE/CVE-2021-3476)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3476">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3476">
+- [lukejenkins/CVE-2021-34767](https://github.com/lukejenkins/CVE-2021-34767)	<img alt="forks" src="https://img.shields.io/github/forks/lukejenkins/CVE-2021-34767">	<img alt="stars" src="https://img.shields.io/github/stars/lukejenkins/CVE-2021-34767">
+
+---
+## CVE-2021-3475 (2021-03-30T18:15:00)
+> There is a flaw in OpenEXR in versions before 3.0.0-beta. An attacker who can submit a crafted file to be processed by OpenEXR could cause an integer overflow, potentially leading to problems with application availability.
+- [Live-Hack-CVE/CVE-2021-3475](https://github.com/Live-Hack-CVE/CVE-2021-3475)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3475">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3475">
+
+---
+## CVE-2021-3474 (2021-03-30T18:15:00)
+> There's a flaw in OpenEXR in versions before 3.0.0-beta. A crafted input file that is processed by OpenEXR could cause a shift overflow in the FastHufDecoder, potentially leading to problems with application availability.
+- [Live-Hack-CVE/CVE-2021-3474](https://github.com/Live-Hack-CVE/CVE-2021-3474)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3474">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3474">
 
 ---
 ## CVE-2021-34527 (2021-07-02T22:15:00)
@@ -1186,6 +1232,11 @@
 - [dorkerdevil/CVE-2021-26294](https://github.com/dorkerdevil/CVE-2021-26294)	<img alt="forks" src="https://img.shields.io/github/forks/dorkerdevil/CVE-2021-26294">	<img alt="stars" src="https://img.shields.io/github/stars/dorkerdevil/CVE-2021-26294">
 
 ---
+## CVE-2021-26260 (2021-06-08T12:15:00)
+> An integer overflow leading to a heap-buffer overflow was found in the DwaCompressor of OpenEXR in versions before 3.0.1. An attacker could use this flaw to crash an application compiled with OpenEXR. This is a different flaw from CVE-2021-23215.
+- [Live-Hack-CVE/CVE-2021-26260](https://github.com/Live-Hack-CVE/CVE-2021-26260)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26260">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26260">
+
+---
 ## CVE-2021-26258 (2022-05-12T17:15:00)
 > Improper access control for the Intel(R) Killer(TM) Control Center software before version 2.4.3337.0 may allow an authorized user to potentially enable escalation of privilege via local access.
 - [zwclose/CVE-2021-26258](https://github.com/zwclose/CVE-2021-26258)	<img alt="forks" src="https://img.shields.io/github/forks/zwclose/CVE-2021-26258">	<img alt="stars" src="https://img.shields.io/github/stars/zwclose/CVE-2021-26258">
@@ -1295,6 +1346,11 @@
 ## CVE-2021-2372 (2021-07-21T15:15:00)
 > Vulnerability in the MySQL Server product of Oracle MySQL (component: InnoDB). Supported versions that are affected are 5.7.34 and prior and 8.0.25 and prior. Difficult to exploit vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.1 Base Score 4.4 (Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:H/PR:H/UI:N/S:U/C:N/I:N/A:H).
 - [Live-Hack-CVE/CVE-2021-2372](https://github.com/Live-Hack-CVE/CVE-2021-2372)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-2372">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-2372">
+
+---
+## CVE-2021-23215 (2021-06-08T12:15:00)
+> An integer overflow leading to a heap-buffer overflow was found in the DwaCompressor of OpenEXR in versions before 3.0.1. An attacker could use this flaw to crash an application compiled with OpenEXR.
+- [Live-Hack-CVE/CVE-2021-23215](https://github.com/Live-Hack-CVE/CVE-2021-23215)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23215">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23215">
 
 ---
 ## CVE-2021-23017 (2021-06-01T13:15:00)

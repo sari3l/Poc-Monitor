@@ -485,6 +485,21 @@
 - [uf0o/CVE-2020-17382](https://github.com/uf0o/CVE-2020-17382)	<img alt="forks" src="https://img.shields.io/github/forks/uf0o/CVE-2020-17382">	<img alt="stars" src="https://img.shields.io/github/stars/uf0o/CVE-2020-17382">
 
 ---
+## CVE-2020-16589 (2020-12-09T21:15:00)
+> A head-based buffer overflow exists in Academy Software Foundation OpenEXR 2.3.0 in writeTileData in ImfTiledOutputFile.cpp that can cause a denial of service via a crafted EXR file.
+- [Live-Hack-CVE/CVE-2020-16589](https://github.com/Live-Hack-CVE/CVE-2020-16589)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-16589">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-16589">
+
+---
+## CVE-2020-16588 (2020-12-09T21:15:00)
+> A Null Pointer Deference issue exists in Academy Software Foundation OpenEXR 2.3.0 in generatePreview in makePreview.cpp that can cause a denial of service via a crafted EXR file.
+- [Live-Hack-CVE/CVE-2020-16588](https://github.com/Live-Hack-CVE/CVE-2020-16588)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-16588">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-16588">
+
+---
+## CVE-2020-16587 (2020-12-09T21:15:00)
+> A heap-based buffer overflow vulnerability exists in Academy Software Foundation OpenEXR 2.3.0 in chunkOffsetReconstruction in ImfMultiPartInputFile.cpp that can cause a denial of service via a crafted EXR file.
+- [Live-Hack-CVE/CVE-2020-16587](https://github.com/Live-Hack-CVE/CVE-2020-16587)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-16587">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-16587">
+
+---
 ## CVE-2020-15568 (2021-01-30T05:15:00)
 > TerraMaster TOS before 4.1.29 has Invalid Parameter Checking that leads to code injection as root. This is a dynamic class method invocation vulnerability in include/exportUser.php, in which an attacker can trigger a call to the exec method with (for example) OS commands in the opt parameter.
 - [n0bugz/CVE-2020-15568](https://github.com/n0bugz/CVE-2020-15568)	<img alt="forks" src="https://img.shields.io/github/forks/n0bugz/CVE-2020-15568">	<img alt="stars" src="https://img.shields.io/github/stars/n0bugz/CVE-2020-15568">

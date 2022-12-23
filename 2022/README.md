@@ -188,6 +188,11 @@
 - [Live-Hack-CVE/CVE-2022-46833](https://github.com/Live-Hack-CVE/CVE-2022-46833)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46833">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46833">
 
 ---
+## CVE-2022-46792 (2022-12-08T06:15:00)
+> Hasura GraphQL Engine before 2.15.2 mishandles row-level authorization in the Update Many API for Postgres backends. The fixed versions are 2.10.2, 2.11.3, 2.12.1, 2.13.2, 2.14.1, and 2.15.2. (Versions before 2.10.0 are unaffected.)
+- [Live-Hack-CVE/CVE-2022-46792](https://github.com/Live-Hack-CVE/CVE-2022-46792)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46792">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46792">
+
+---
 ## CVE-2022-46771 (2022-12-20T20:15:00)
 > IBM UrbanCode Deploy (UCD) 6.2.0.0 through 6.2.7.18, 7.0.5.0 through 7.0.5.13, 7.1.0.0 through 7.1.2.9, 7.2.0.0 through 7.2.3.2 and 7.3.0.0 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 242273.
 - [Live-Hack-CVE/CVE-2022-46771](https://github.com/Live-Hack-CVE/CVE-2022-46771)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46771">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46771">
@@ -495,6 +500,11 @@
 - [Live-Hack-CVE/CVE-2022-4615](https://github.com/Live-Hack-CVE/CVE-2022-4615)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4615">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4615">
 
 ---
+## CVE-2022-46149 (2022-11-30T17:15:00)
+> Cap'n Proto is a data interchange format and remote procedure call (RPC) system. Cap'n Proro prior to versions 0.7.1, 0.8.1, 0.9.2, and 0.10.3, as well as versions of Cap'n Proto's Rust implementation prior to 0.13.7, 0.14.11, and 0.15.2 are vulnerable to out-of-bounds read due to logic error handling list-of-list. This issue may lead someone to remotely segfault a peer by sending it a malicious message, if the victim performs certain actions on a list-of-pointer type. Exfiltration of memory is possible if the victim performs additional certain actions on a list-of-pointer type. To be vulnerable, an application must perform a specific sequence of actions, described in the GitHub Security Advisory. The bug is present in inlined code, therefore the fix will require rebuilding dependent applications. Cap'n Proto has C++ fixes available in versions 0.7.1, 0.8.1, 0.9.2, and 0.10.3. The `capnp` Rust crate has fixes available in versions 0.13.7, 0.14.11, and 0.15.2.
+- [Live-Hack-CVE/CVE-2022-46149](https://github.com/Live-Hack-CVE/CVE-2022-46149)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46149">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46149">
+
+---
 ## CVE-2022-46144 (2022-12-13T16:15:00)
 > A vulnerability has been identified in SCALANCE SC622-2C (All versions < V2.3), SCALANCE SC622-2C (All versions >= 2.3 < V3.0), SCALANCE SC626-2C (All versions < V2.3), SCALANCE SC626-2C (All versions >= 2.3 < V3.0), SCALANCE SC632-2C (All versions < V2.3), SCALANCE SC632-2C (All versions >= 2.3 < V3.0), SCALANCE SC636-2C (All versions < V2.3), SCALANCE SC636-2C (All versions >= 2.3 < V3.0), SCALANCE SC642-2C (All versions < V2.3), SCALANCE SC642-2C (All versions >= 2.3 < V3.0), SCALANCE SC646-2C (All versions < V2.3), SCALANCE SC646-2C (All versions >= 2.3 < V3.0). Affected devices do not properly process CLI commands after a user forcefully quitted the SSH connection. This could allow an authenticated attacker to make the CLI via SSH or serial interface irresponsive.
 - [Live-Hack-CVE/CVE-2022-46144](https://github.com/Live-Hack-CVE/CVE-2022-46144)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46144">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46144">
@@ -696,6 +706,11 @@
 - [Live-Hack-CVE/CVE-2022-4511](https://github.com/Live-Hack-CVE/CVE-2022-4511)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4511">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4511">
 
 ---
+## CVE-2022-45062 (2022-11-09T07:15:00)
+> In Xfce xfce4-settings before 4.16.4 and 4.17.x before 4.17.1, there is an argument injection vulnerability in xfce4-mime-helper.
+- [Live-Hack-CVE/CVE-2022-45062](https://github.com/Live-Hack-CVE/CVE-2022-45062)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45062">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45062">
+
+---
 ## CVE-2022-45061 (2022-11-09T07:15:00)
 > An issue was discovered in Python before 3.11.1. An unnecessary quadratic algorithm exists in one path when processing some inputs to the IDNA (RFC 3490) decoder, such that a crafted, unreasonably long name being presented to the decoder could lead to a CPU denial of service. Hostnames are often supplied by remote servers that could be controlled by a malicious actor; in such a scenario, they could trigger excessive CPU consumption on the client attempting to make use of an attacker-supplied supposed hostname. For example, the attack payload could be placed in the Location header of an HTTP response with status code 302. A fix is planned in 3.11.1, 3.10.9, 3.9.16, 3.8.16, and 3.7.16.
 - [Live-Hack-CVE/CVE-2022-45061](https://github.com/Live-Hack-CVE/CVE-2022-45061)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45061">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45061">
@@ -724,6 +739,16 @@
 ## CVE-2022-44940 (2022-12-19T22:15:00)
 > Patchelf v0.9 was discovered to contain an out-of-bounds read via the function modifyRPath at src/patchelf.cc.
 - [Live-Hack-CVE/CVE-2022-44940](https://github.com/Live-Hack-CVE/CVE-2022-44940)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44940">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44940">
+
+---
+## CVE-2022-44932 (2022-12-08T16:15:00)
+> An access control issue in Tenda A18 v15.13.07.09 allows unauthenticated attackers to access the Telnet service.
+- [Live-Hack-CVE/CVE-2022-44932](https://github.com/Live-Hack-CVE/CVE-2022-44932)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44932">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44932">
+
+---
+## CVE-2022-44931 (2022-12-08T16:15:00)
+> Tenda A18 v15.13.07.09 was discovered to contain a stack overflow via the security_5g parameter at /goform/WifiBasicSet.
+- [Live-Hack-CVE/CVE-2022-44931](https://github.com/Live-Hack-CVE/CVE-2022-44931)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44931">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44931">
 
 ---
 ## CVE-2022-44910 (2022-12-14T18:15:00)
@@ -877,6 +902,11 @@
 - [Live-Hack-CVE/CVE-2022-4436](https://github.com/Live-Hack-CVE/CVE-2022-4436)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4436">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4436">
 
 ---
+## CVE-2022-44351 (2022-12-07T19:15:00)
+> Skycaiji v2.5.1 was discovered to contain a deserialization vulnerability via /SkycaijiApp/admin/controller/Mystore.php.
+- [Live-Hack-CVE/CVE-2022-44351](https://github.com/Live-Hack-CVE/CVE-2022-44351)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44351">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44351">
+
+---
 ## CVE-2022-4427 (2022-12-19T09:15:00)
 > Improper Input Validation vulnerability in OTRS AG OTRS, OTRS AG ((OTRS)) Community Edition allows SQL Injection via TicketSearch Webservice This issue affects OTRS: from 7.0.1 before 7.0.40 Patch 1, from 8.0.1 before 8.0.28 Patch 1; ((OTRS)) Community Edition: from 6.0.1 through 6.0.34.
 - [Live-Hack-CVE/CVE-2022-4427](https://github.com/Live-Hack-CVE/CVE-2022-4427)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4427">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4427">
@@ -933,6 +963,11 @@
 - [nidhihcl/external_expat_2.1.0_CVE-2022-43680](https://github.com/nidhihcl/external_expat_2.1.0_CVE-2022-43680)	<img alt="forks" src="https://img.shields.io/github/forks/nidhihcl/external_expat_2.1.0_CVE-2022-43680">	<img alt="stars" src="https://img.shields.io/github/stars/nidhihcl/external_expat_2.1.0_CVE-2022-43680">
 
 ---
+## CVE-2022-43581 (2022-12-07T18:15:00)
+> IBM Content Navigator 3.0.0, 3.0.1, 3.0.2, 3.0.3, 3.0.4, 3.0.5, 3.0.6, 3.0.7, 3.0.8, 3.0.9, 3.0.10, 3.0.11, and 3.0.12 is vulnerable to missing authorization and could allow an authenticated user to load external plugins and execute code. IBM X-Force ID: 238805.
+- [Live-Hack-CVE/CVE-2022-43581](https://github.com/Live-Hack-CVE/CVE-2022-43581)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43581">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43581">
+
+---
 ## CVE-2022-43369 (2022-12-06T19:15:00)
 > AutoTaxi Stand Management System v1.0 was discovered to contain a cross-site scripting (XSS) vulnerability via the component search.php.
 - [sudoninja-noob/CVE-2022-43369](https://github.com/sudoninja-noob/CVE-2022-43369)	<img alt="forks" src="https://img.shields.io/github/forks/sudoninja-noob/CVE-2022-43369">	<img alt="stars" src="https://img.shields.io/github/stars/sudoninja-noob/CVE-2022-43369">
@@ -978,6 +1013,11 @@
 ## CVE-2022-43096 (2022-11-17T23:15:00)
 > Mediatrix 4102 before v48.5.2718 allows local attackers to gain root access via the UART port.
 - [ProxyStaffy/Mediatrix-CVE-2022-43096](https://github.com/ProxyStaffy/Mediatrix-CVE-2022-43096)	<img alt="forks" src="https://img.shields.io/github/forks/ProxyStaffy/Mediatrix-CVE-2022-43096">	<img alt="stars" src="https://img.shields.io/github/stars/ProxyStaffy/Mediatrix-CVE-2022-43096">
+
+---
+## CVE-2022-42920 (2022-11-07T13:15:00)
+> Apache Commons BCEL has a number of APIs that would normally only allow changing specific class characteristics. However, due to an out-of-bounds writing issue, these APIs can be used to produce arbitrary bytecode. This could be abused in applications that pass attacker-controllable data to those APIs, giving the attacker more control over the resulting bytecode than otherwise expected. Update to Apache Commons BCEL 6.6.0.
+- [Live-Hack-CVE/CVE-2022-42920](https://github.com/Live-Hack-CVE/CVE-2022-42920)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42920">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42920">
 
 ---
 ## CVE-2022-42916 (2022-10-29T02:15:00)
@@ -1407,6 +1447,11 @@
 - [ReCryptLLC/CVE-2022-42045](https://github.com/ReCryptLLC/CVE-2022-42045)	<img alt="forks" src="https://img.shields.io/github/forks/ReCryptLLC/CVE-2022-42045">	<img alt="stars" src="https://img.shields.io/github/stars/ReCryptLLC/CVE-2022-42045">
 
 ---
+## CVE-2022-41994 (2022-12-07T04:15:00)
+> Stored cross-site scripting vulnerability in Permission Settings of baserCMS versions prior to 4.7.2 allows a remote authenticated attacker with an administrative privilege to inject an arbitrary script.
+- [Live-Hack-CVE/CVE-2022-41994](https://github.com/Live-Hack-CVE/CVE-2022-41994)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41994">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41994">
+
+---
 ## CVE-2022-41964 (2022-12-16T18:15:00)
 > BigBlueButton is an open source web conferencing system. This vulnerability only affects release candidates of BigBlueButton 2.4. The attacker can start a subscription for poll results before starting an anonymous poll, and use this subscription to see individual responses in the anonymous poll. The attacker had to be a meeting presenter. This issue is patched in version 2.4.0. There are no workarounds.
 - [Live-Hack-CVE/CVE-2022-41964](https://github.com/Live-Hack-CVE/CVE-2022-41964)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41964">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41964">
@@ -1440,6 +1485,11 @@
 ## CVE-2022-41854 (2022-11-11T13:15:00)
 > Those using Snakeyaml to parse untrusted YAML files may be vulnerable to Denial of Service attacks (DOS). If the parser is running on user supplied input, an attacker may supply content that causes the parser to crash by stack overflow. This effect may support a denial of service attack.
 - [Live-Hack-CVE/CVE-2022-41854](https://github.com/Live-Hack-CVE/CVE-2022-41854)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41854">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41854">
+
+---
+## CVE-2022-41853 (2022-10-06T18:17:00)
+> Those using java.sql.Statement or java.sql.PreparedStatement in hsqldb (HyperSQL DataBase) to process untrusted input may be vulnerable to a remote code execution attack. By default it is allowed to call any static method of any Java class in the classpath resulting in code execution. The issue can be prevented by updating to 2.7.1 or by setting the system property "hsqldb.method_class_names" to classes which are allowed to be called. For example, System.setProperty("hsqldb.method_class_names", "abc") or Java argument -Dhsqldb.method_class_names="abc" can be used. From version 2.7.1 all classes by default are not accessible except those in java.lang.Math and need to be manually enabled.
+- [Live-Hack-CVE/CVE-2022-41853](https://github.com/Live-Hack-CVE/CVE-2022-41853)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41853">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41853">
 
 ---
 ## CVE-2022-41852 (2022-10-06T18:17:00)
@@ -1907,6 +1957,16 @@
 ## CVE-2022-3992 (2022-11-14T17:15:00)
 > A vulnerability classified as problematic was found in SourceCodester Sanitization Management System. Affected by this vulnerability is an unknown functionality of the file admin/?page=system_info of the component Banner Image Handler. The manipulation leads to cross site scripting. The attack can be launched remotely. The associated identifier of this vulnerability is VDB-213571.
 - [Urban4/CVE-2022-3992](https://github.com/Urban4/CVE-2022-3992)	<img alt="forks" src="https://img.shields.io/github/forks/Urban4/CVE-2022-3992">	<img alt="stars" src="https://img.shields.io/github/stars/Urban4/CVE-2022-3992">
+
+---
+## CVE-2022-39905 (2022-12-08T16:15:00)
+> Implicit intent hijacking vulnerability in Telecom application prior to SMR Dec-2022 Release 1 allows attacker to access sensitive information via implicit intent.
+- [Live-Hack-CVE/CVE-2022-39905](https://github.com/Live-Hack-CVE/CVE-2022-39905)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39905">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39905">
+
+---
+## CVE-2022-39902 (2022-12-08T16:15:00)
+> Improper authorization in Exynos baseband prior to SMR DEC-2022 Release 1 allows remote attacker to get sensitive information including IMEI via emergency call.
+- [Live-Hack-CVE/CVE-2022-39902](https://github.com/Live-Hack-CVE/CVE-2022-39902)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39902">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39902">
 
 ---
 ## CVE-2022-39842 (2022-09-05T07:15:00)
@@ -4068,6 +4128,21 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-23499](https://github.com/Live-Hack-CVE/CVE-2022-23499)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23499">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23499">
 
 ---
+## CVE-2022-23492 (2022-12-08T01:15:00)
+> go-libp2p is the offical libp2p implementation in the Go programming language. Version `0.18.0` and older of go-libp2p are vulnerable to targeted resource exhaustion attacks. These attacks target libp2p’s connection, stream, peer, and memory management. An attacker can cause the allocation of large amounts of memory, ultimately leading to the process getting killed by the host’s operating system. While a connection manager tasked with keeping the number of connections within manageable limits has been part of go-libp2p, this component was designed to handle the regular churn of peers, not a targeted resource exhaustion attack. Users are advised to upgrade their version of go-libp2p to version `0.18.1` or newer. Users unable to upgrade may consult the denial of service (dos) mitigation page for more information on how to incorporate mitigation strategies, monitor your application, and respond to attacks.
+- [Live-Hack-CVE/CVE-2022-23492](https://github.com/Live-Hack-CVE/CVE-2022-23492)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23492">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23492">
+
+---
+## CVE-2022-23486 (2022-12-07T21:15:00)
+> libp2p-rust is the official rust language Implementation of the libp2p networking stack. In versions prior to 0.45.1 an attacker node can cause a victim node to allocate a large number of small memory chunks, which can ultimately lead to the victim’s process running out of memory and thus getting killed by its operating system. When executed continuously, this can lead to a denial of service attack, especially relevant on a larger scale when run against more than one node of a libp2p based network. Users are advised to upgrade to `libp2p` `v0.45.1` or above. Users unable to upgrade should reference the DoS Mitigation page for more information on how to incorporate mitigation strategies, monitor their application, and respond to attacks: https://docs.libp2p.io/reference/dos-mitigation/.
+- [Live-Hack-CVE/CVE-2022-23486](https://github.com/Live-Hack-CVE/CVE-2022-23486)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23486">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23486">
+
+---
+## CVE-2022-23476 (2022-12-08T04:15:00)
+> Nokogiri is an open source XML and HTML library for the Ruby programming language. Nokogiri `1.13.8` and `1.13.9` fail to check the return value from `xmlTextReaderExpand` in the method `Nokogiri::XML::Reader#attribute_hash`. This can lead to a null pointer exception when invalid markup is being parsed. For applications using `XML::Reader` to parse untrusted inputs, this may potentially be a vector for a denial of service attack. Users are advised to upgrade to Nokogiri `>= 1.13.10`. Users may be able to search their code for calls to either `XML::Reader#attributes` or `XML::Reader#attribute_hash` to determine if they are affected.
+- [Live-Hack-CVE/CVE-2022-23476](https://github.com/Live-Hack-CVE/CVE-2022-23476)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23476">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23476">
+
+---
 ## CVE-2022-23474 (2022-12-15T19:15:00)
 > Editor.js is a block-style editor with clean JSON output. Versions prior to 2.26.0 are vulnerable to Code Injection via pasted input. The processHTML method passes pasted input into wrapper’s innerHTML. This issue is patched in version 2.26.0.
 - [Live-Hack-CVE/CVE-2022-23474](https://github.com/Live-Hack-CVE/CVE-2022-23474)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23474">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23474">
@@ -5299,6 +5374,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [destr4ct/CVE-2022-0739](https://github.com/destr4ct/CVE-2022-0739)	<img alt="forks" src="https://img.shields.io/github/forks/destr4ct/CVE-2022-0739">	<img alt="stars" src="https://img.shields.io/github/stars/destr4ct/CVE-2022-0739">
 - [Chris01s/CVE-2022-0739](https://github.com/Chris01s/CVE-2022-0739)	<img alt="forks" src="https://img.shields.io/github/forks/Chris01s/CVE-2022-0739">	<img alt="stars" src="https://img.shields.io/github/stars/Chris01s/CVE-2022-0739">
 - [BKreisel/CVE-2022-0739](https://github.com/BKreisel/CVE-2022-0739)	<img alt="forks" src="https://img.shields.io/github/forks/BKreisel/CVE-2022-0739">	<img alt="stars" src="https://img.shields.io/github/stars/BKreisel/CVE-2022-0739">
+
+---
+## CVE-2022-0730 (2022-03-03T23:15:00)
+> Under certain ldap conditions, Cacti authentication can be bypassed with certain credential types.
+- [Live-Hack-CVE/CVE-2022-0730](https://github.com/Live-Hack-CVE/CVE-2022-0730)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0730">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0730">
 
 ---
 ## CVE-2022-0729 (2022-02-23T14:15:00)
