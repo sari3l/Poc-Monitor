@@ -1397,6 +1397,11 @@
 - [Live-Hack-CVE/CVE-2022-42345](https://github.com/Live-Hack-CVE/CVE-2022-42345)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42345">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42345">
 
 ---
+## CVE-2022-42324 (2022-11-01T13:15:00)
+> Oxenstored 32->31 bit integer truncation issues Integers in Ocaml are 63 or 31 bits of signed precision. The Ocaml Xenbus library takes a C uint32_t out of the ring and casts it directly to an Ocaml integer. In 64-bit Ocaml builds this is fine, but in 32-bit builds, it truncates off the most significant bit, and then creates unsigned/signed confusion in the remainder. This in turn can feed a negative value into logic not expecting a negative value, resulting in unexpected exceptions being thrown. The unexpected exception is not handled suitably, creating a busy-loop trying (and failing) to take the bad packet out of the xenstore ring.
+- [Live-Hack-CVE/CVE-2022-42324](https://github.com/Live-Hack-CVE/CVE-2022-42324)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42324">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42324">
+
+---
 ## CVE-2022-42176 (2022-10-20T15:15:00)
 > In PCTechSoft PCSecure V5.0.8.xw, use of Hard-coded Credentials in configuration files leads to admin panel access.
 - [soy-oreocato/CVE-2022-42176](https://github.com/soy-oreocato/CVE-2022-42176)	<img alt="forks" src="https://img.shields.io/github/forks/soy-oreocato/CVE-2022-42176">	<img alt="stars" src="https://img.shields.io/github/stars/soy-oreocato/CVE-2022-42176">
@@ -1890,6 +1895,12 @@
 ## CVE-2022-40303 (2022-11-23T00:15:00)
 > An issue was discovered in libxml2 before 2.10.3. When parsing a multi-gigabyte XML document with the XML_PARSE_HUGE parser option enabled, several integer counters can overflow. This results in an attempt to access an array at a negative 2GB offset, typically leading to a segmentation fault.
 - [Live-Hack-CVE/CVE-2022-40303](https://github.com/Live-Hack-CVE/CVE-2022-40303)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40303">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40303">
+
+---
+## CVE-2022-40297 (2022-09-09T00:15:00)
+> ** DISPUTED ** UBports Ubuntu Touch 16.04 allows the screen-unlock passcode to be used for a privileged shell via Sudo. This passcode is only four digits, far below typical length/complexity for a user account's password. NOTE: a third party states "The described attack cannot be executed as demonstrated."
+- [Live-Hack-CVE/CVE-2022-40297](https://github.com/Live-Hack-CVE/CVE-2022-40297)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40297">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40297">
+- [filipkarc/PoC-ubuntutouch-pin-privesc](https://github.com/filipkarc/PoC-ubuntutouch-pin-privesc)	<img alt="forks" src="https://img.shields.io/github/forks/filipkarc/PoC-ubuntutouch-pin-privesc">	<img alt="stars" src="https://img.shields.io/github/stars/filipkarc/PoC-ubuntutouch-pin-privesc">
 
 ---
 ## CVE-2022-40264 (2022-12-14T00:15:00)
@@ -2750,6 +2761,11 @@
 - [PyterSmithDarkGhost/CVE-2022-3382ROBOTICAEXPLOITPOC](https://github.com/PyterSmithDarkGhost/CVE-2022-3382ROBOTICAEXPLOITPOC)	<img alt="forks" src="https://img.shields.io/github/forks/PyterSmithDarkGhost/CVE-2022-3382ROBOTICAEXPLOITPOC">	<img alt="stars" src="https://img.shields.io/github/stars/PyterSmithDarkGhost/CVE-2022-3382ROBOTICAEXPLOITPOC">
 
 ---
+## CVE-2022-33747 (2022-10-11T13:15:00)
+> Arm: unbounded memory consumption for 2nd-level page tables Certain actions require e.g. removing pages from a guest's P2M (Physical-to-Machine) mapping. When large pages are in use to map guest pages in the 2nd-stage page tables, such a removal operation may incur a memory allocation (to replace a large mapping with individual smaller ones). These memory allocations are taken from the global memory pool. A malicious guest might be able to cause the global memory pool to be exhausted by manipulating its own P2M mappings.
+- [Live-Hack-CVE/CVE-2022-33747](https://github.com/Live-Hack-CVE/CVE-2022-33747)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33747">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33747">
+
+---
 ## CVE-2022-3368 (2022-10-17T21:15:00)
 > A vulnerability within the Software Updater functionality of Avira Security for Windows allowed an attacker with write access to the filesystem, to escalate his privileges in certain scenarios. The issue was fixed with Avira Security version 1.1.72.30556.
 - [Wh04m1001/CVE-2022-3368](https://github.com/Wh04m1001/CVE-2022-3368)	<img alt="forks" src="https://img.shields.io/github/forks/Wh04m1001/CVE-2022-3368">	<img alt="stars" src="https://img.shields.io/github/stars/Wh04m1001/CVE-2022-3368">
@@ -3127,6 +3143,11 @@
 ## CVE-2022-31188 (2022-08-01T20:15:00)
 > CVAT is an opensource interactive video and image annotation tool for computer vision. Versions prior to 2.0.0 were found to be subject to a Server-side request forgery (SSRF) vulnerability. Validation has been added to urls used in the affected code path in version 2.0.0. Users are advised to upgrade. There are no known workarounds for this issue.
 - [emirpolatt/CVE-2022-31188](https://github.com/emirpolatt/CVE-2022-31188)	<img alt="forks" src="https://img.shields.io/github/forks/emirpolatt/CVE-2022-31188">	<img alt="stars" src="https://img.shields.io/github/stars/emirpolatt/CVE-2022-31188">
+
+---
+## CVE-2022-31176 (2022-09-02T21:15:00)
+> Grafana Image Renderer is a Grafana backend plugin that handles rendering of panels & dashboards to PNGs using a headless browser (Chromium/Chrome). An internal security review identified an unauthorized file disclosure vulnerability. It is possible for a malicious user to retrieve unauthorized files under some network conditions or via a fake datasource (if user has admin permissions in Grafana). All Grafana installations should be upgraded to version 3.6.1 as soon as possible. As a workaround it is possible to [disable HTTP remote rendering](https://grafana.com/docs/grafana/latest/setup-grafana/configure-grafana/#plugingrafana-image-renderer).
+- [Live-Hack-CVE/CVE-2022-31176](https://github.com/Live-Hack-CVE/CVE-2022-31176)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31176">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31176">
 
 ---
 ## CVE-2022-3115 (2022-12-14T21:15:00)
