@@ -4506,6 +4506,7 @@
 ## CVE-2022-3873 (2022-11-07T11:15:00)
 > Cross-site Scripting (XSS) - DOM in GitHub repository jgraph/drawio prior to 20.5.2.
 - [Live-Hack-CVE/CVE-2022-3873](https://github.com/Live-Hack-CVE/CVE-2022-3873)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3873">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3873">
+- [Live-Hack-CVE/CVE-2022-38733](https://github.com/Live-Hack-CVE/CVE-2022-38733)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38733">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38733">
 
 ---
 ## CVE-2022-38724 (2022-11-23T00:15:00)
@@ -8394,6 +8395,13 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-2188 (2022-11-07T12:15:00)
 > Privilege escalation vulnerability in DXL Broker for Windows prior to 6.0.0.280 allows local users to gain elevated privileges by exploiting weak directory controls in the logs directory. This can lead to a denial-of-service attack on the DXL Broker.
 - [Live-Hack-CVE/CVE-2022-2188](https://github.com/Live-Hack-CVE/CVE-2022-2188)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2188">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2188">
+- [jessica0f0116/cve_2022_21882-cve_2021_1732](https://github.com/jessica0f0116/cve_2022_21882-cve_2021_1732)	<img alt="forks" src="https://img.shields.io/github/forks/jessica0f0116/cve_2022_21882-cve_2021_1732">	<img alt="stars" src="https://img.shields.io/github/stars/jessica0f0116/cve_2022_21882-cve_2021_1732">
+- [theabysslabs/CVE-2022-21881](https://github.com/theabysslabs/CVE-2022-21881)	<img alt="forks" src="https://img.shields.io/github/forks/theabysslabs/CVE-2022-21881">	<img alt="stars" src="https://img.shields.io/github/stars/theabysslabs/CVE-2022-21881">
+- [r1l4-i3pur1l4/CVE-2022-21882](https://github.com/r1l4-i3pur1l4/CVE-2022-21882)	<img alt="forks" src="https://img.shields.io/github/forks/r1l4-i3pur1l4/CVE-2022-21882">	<img alt="stars" src="https://img.shields.io/github/stars/r1l4-i3pur1l4/CVE-2022-21882">
+- [sailay1996/cve-2022-21882-poc](https://github.com/sailay1996/cve-2022-21882-poc)	<img alt="forks" src="https://img.shields.io/github/forks/sailay1996/cve-2022-21882-poc">	<img alt="stars" src="https://img.shields.io/github/stars/sailay1996/cve-2022-21882-poc">
+- [L4ys/CVE-2022-21882](https://github.com/L4ys/CVE-2022-21882)	<img alt="forks" src="https://img.shields.io/github/forks/L4ys/CVE-2022-21882">	<img alt="stars" src="https://img.shields.io/github/stars/L4ys/CVE-2022-21882">
+- [David-Honisch/CVE-2022-21882](https://github.com/David-Honisch/CVE-2022-21882)	<img alt="forks" src="https://img.shields.io/github/forks/David-Honisch/CVE-2022-21882">	<img alt="stars" src="https://img.shields.io/github/stars/David-Honisch/CVE-2022-21882">
+- [KaLendsi/CVE-2022-21882](https://github.com/KaLendsi/CVE-2022-21882)	<img alt="forks" src="https://img.shields.io/github/forks/KaLendsi/CVE-2022-21882">	<img alt="stars" src="https://img.shields.io/github/stars/KaLendsi/CVE-2022-21882">
 
 ---
 ## CVE-2022-2185 (2022-07-01T16:15:00)
