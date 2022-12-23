@@ -92,6 +92,11 @@
 - [Live-Hack-CVE/CVE-2021-44731](https://github.com/Live-Hack-CVE/CVE-2021-44731)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44731">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44731">
 
 ---
+## CVE-2021-44716 (2022-01-01T05:15:00)
+> net/http in Go before 1.16.12 and 1.17.x before 1.17.5 allows uncontrolled memory consumption in the header canonicalization cache via HTTP/2 requests.
+- [Live-Hack-CVE/CVE-2021-44716](https://github.com/Live-Hack-CVE/CVE-2021-44716)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44716">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44716">
+
+---
 ## CVE-2021-44694 (2022-12-13T16:15:00)
 > A vulnerability has been identified in SIMATIC Drive Controller family (All versions < V3.0.1), SIMATIC ET 200SP Open Controller CPU 1515SP PC2 (incl. SIPLUS variants) (All versions), SIMATIC S7-1200 CPU family (incl. SIPLUS variants) (All versions < V4.6.0), SIMATIC S7-1500 CPU family (incl. related ET200 CPUs and SIPLUS variants) (All versions < V3.0.1), SIMATIC S7-1500 Software Controller (All versions), SIMATIC S7-PLCSIM Advanced (All versions < V5.0), SIPLUS TIM 1531 IRC (All versions), TIM 1531 IRC (All versions). Affected devices don't process correctly certain special crafted packets sent to port 102/tcp, which could allow an attacker to cause a denial-of-service in the device.
 - [Live-Hack-CVE/CVE-2021-44694](https://github.com/Live-Hack-CVE/CVE-2021-44694)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44694">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44694">
@@ -567,6 +572,11 @@
 - [TheKernelPanic/exploit-apache2-cve-2021-41773](https://github.com/TheKernelPanic/exploit-apache2-cve-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/TheKernelPanic/exploit-apache2-cve-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/TheKernelPanic/exploit-apache2-cve-2021-41773">
 
 ---
+## CVE-2021-41771 (2021-11-08T06:15:00)
+> ImportedSymbols in debug/macho (for Open or OpenFat) in Go before 1.16.10 and 1.17.x before 1.17.3 Accesses a Memory Location After the End of a Buffer, aka an out-of-bounds slice situation.
+- [Live-Hack-CVE/CVE-2021-41771](https://github.com/Live-Hack-CVE/CVE-2021-41771)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41771">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41771">
+
+---
 ## CVE-2021-41652 (2022-03-01T23:15:00)
 > Insecure permissions in the file database.sdb of BatFlat CMS v1.3.6 allows attackers to dump the entire database.
 - [deathflash1411/CVE-2021-41652](https://github.com/deathflash1411/CVE-2021-41652)	<img alt="forks" src="https://img.shields.io/github/forks/deathflash1411/CVE-2021-41652">	<img alt="stars" src="https://img.shields.io/github/stars/deathflash1411/CVE-2021-41652">
@@ -733,6 +743,11 @@
 ## CVE-2021-4037 (2022-08-24T16:15:00)
 > A vulnerability was found in the fs/inode.c:inode_init_owner() function logic of the LInux kernel that allows local users to create files for the XFS file-system with an unintended group ownership and with group execution and SGID permission bits set, in a scenario where a directory is SGID and belongs to a certain group and is writable by a user who is not a member of this group. This can lead to excessive permissions granted in case when they should not. This vulnerability is similar to the previous CVE-2018-13405 and adds the missed fix for the XFS.
 - [Live-Hack-CVE/CVE-2021-4037](https://github.com/Live-Hack-CVE/CVE-2021-4037)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4037">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4037">
+
+---
+## CVE-2021-40369 (2021-11-24T12:15:00)
+> A carefully crafted plugin link invocation could trigger an XSS vulnerability on Apache JSPWiki, related to the Denounce plugin, which could allow the attacker to execute javascript in the victim's browser and get some sensitive information about the victim. Apache JSPWiki users should upgrade to 2.11.0 or later.
+- [Live-Hack-CVE/CVE-2021-40369](https://github.com/Live-Hack-CVE/CVE-2021-40369)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40369">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40369">
 
 ---
 ## CVE-2021-40365 (2022-12-13T16:15:00)
@@ -1789,9 +1804,49 @@
 - [trhacknon/CVE-2021-25003](https://github.com/trhacknon/CVE-2021-25003)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2021-25003">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2021-25003">
 
 ---
+## CVE-2021-24822 (2021-11-29T09:15:00)
+> The Stylish Cost Calculator WordPress plugin before 7.0.4 does not have any authorisation and CSRF checks on some of its AJAX actions (available to authenticated users), which could allow any authenticated users, such as subscriber to call them, and perform Stored Cross-Site Scripting attacks against logged in admin, as well as frontend users due to the lack of sanitisation and escaping in some parameters
+- [Live-Hack-CVE/CVE-2021-24822](https://github.com/Live-Hack-CVE/CVE-2021-24822)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24822">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24822">
+
+---
+## CVE-2021-24739 (2021-12-21T09:15:00)
+> The Logo Carousel WordPress plugin before 3.4.2 allows users with a role as low as Contributor to duplicate and view arbitrary private posts made by other users via the Carousel Duplication feature
+- [Live-Hack-CVE/CVE-2021-24739](https://github.com/Live-Hack-CVE/CVE-2021-24739)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24739">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24739">
+
+---
+## CVE-2021-24730 (2022-02-28T09:15:00)
+> The Logo Showcase with Slick Slider WordPress plugin before 1.2.5 does not have CSRF and authorisation checks in the lswss_save_attachment_data AJAX action, allowing any authenticated users, such as Subscriber, to change title, description, alt text, and URL of arbitrary uploaded media.
+- [Live-Hack-CVE/CVE-2021-24730](https://github.com/Live-Hack-CVE/CVE-2021-24730)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24730">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24730">
+
+---
 ## CVE-2021-24728 (2021-09-13T18:15:00)
 > The Membership & Content Restriction – Paid Member Subscriptions WordPress plugin before 2.4.2 did not sanitise, validate or escape its order and orderby parameters before using them in SQL statement, leading to Authenticated SQL Injections in the Members and Payments pages.
 - [Live-Hack-CVE/CVE-2021-24728](https://github.com/Live-Hack-CVE/CVE-2021-24728)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24728">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24728">
+
+---
+## CVE-2021-24695 (2021-11-08T18:15:00)
+> The Simple Download Monitor WordPress plugin before 3.9.6 saves logs in a predictable location, and does not have any authentication or authorisation in place to prevent unauthenticated users to download and read the logs containing Sensitive Information such as IP Addresses and Usernames
+- [Live-Hack-CVE/CVE-2021-24695](https://github.com/Live-Hack-CVE/CVE-2021-24695)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24695">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24695">
+
+---
+## CVE-2021-24685 (2021-11-01T09:15:00)
+> The Flat Preloader WordPress plugin before 1.5.4 does not enforce nonce checks when saving its settings, as well as does not sanitise and escape them, which could allow attackers to a make logged in admin change them with a Cross-Site Scripting payload (triggered either in the frontend or backend depending on the payload)
+- [Live-Hack-CVE/CVE-2021-24685](https://github.com/Live-Hack-CVE/CVE-2021-24685)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24685">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24685">
+
+---
+## CVE-2021-24683 (2021-10-11T11:15:00)
+> The Weather Effect WordPress plugin before 1.3.4 does not have any CSRF checks in place when saving its settings, and do not validate or escape them, which could lead to Stored Cross-Site Scripting issue.
+- [Live-Hack-CVE/CVE-2021-24683](https://github.com/Live-Hack-CVE/CVE-2021-24683)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24683">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24683">
+
+---
+## CVE-2021-24651 (2021-10-11T11:15:00)
+> The Poll Maker WordPress plugin before 3.4.2 allows unauthenticated users to perform SQL injection via the ays_finish_poll AJAX action. While the result is not disclosed in the response, it is possible to use a timing attack to exfiltrate data such as password hash.
+- [Live-Hack-CVE/CVE-2021-24651](https://github.com/Live-Hack-CVE/CVE-2021-24651)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24651">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24651">
+
+---
+## CVE-2021-24642 (2021-10-18T14:15:00)
+> The Scroll Baner WordPress plugin through 1.0 does not have CSRF check in place when saving its settings, nor perform any sanitisation, escaping or validation on them. This could allow attackers to make logged in admin change them and could lead to RCE (via a file upload) as well as XSS
+- [Live-Hack-CVE/CVE-2021-24642](https://github.com/Live-Hack-CVE/CVE-2021-24642)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24642">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24642">
 
 ---
 ## CVE-2021-24639 (2021-09-20T10:15:00)
@@ -1799,14 +1854,39 @@
 - [Live-Hack-CVE/CVE-2021-24639](https://github.com/Live-Hack-CVE/CVE-2021-24639)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24639">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24639">
 
 ---
+## CVE-2021-24626 (2021-11-08T18:15:00)
+> The Chameleon CSS WordPress plugin through 1.2 does not have any CSRF and capability checks in all its AJAX calls, allowing any authenticated user, such as subscriber to call them and perform unauthorised actions. One of AJAX call, remove_css, also does not sanitise or escape the css_id POST parameter before using it in a SQL statement, leading to a SQL Injection
+- [Live-Hack-CVE/CVE-2021-24626](https://github.com/Live-Hack-CVE/CVE-2021-24626)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24626">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24626">
+
+---
 ## CVE-2021-24618 (2021-09-20T10:15:00)
 > The Donate With QRCode WordPress plugin before 1.4.5 does not sanitise or escape its QRCode Image setting, which result into a Stored Cross-Site Scripting (XSS). Furthermore, the plugin also does not have any CSRF and capability checks in place when saving such setting, allowing any authenticated user (as low as subscriber), or unauthenticated user via a CSRF vector to update them and perform such attack.
 - [Live-Hack-CVE/CVE-2021-24618](https://github.com/Live-Hack-CVE/CVE-2021-24618)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24618">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24618">
 
 ---
+## CVE-2021-24615 (2021-10-18T14:15:00)
+> The Wechat Reward WordPress plugin through 1.7 does not sanitise or escape its QR settings, nor has any CSRF check in place, allowing attackers to make a logged in admin change the settings and perform Cross-Site Scripting attacks.
+- [Live-Hack-CVE/CVE-2021-24615](https://github.com/Live-Hack-CVE/CVE-2021-24615)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24615">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24615">
+
+---
+## CVE-2021-24595 (2021-10-18T14:15:00)
+> The Wp Cookie Choice WordPress plugin through 1.1.0 is lacking any CSRF check when saving its options, and do not escape them when outputting them in attributes. As a result, an attacker could make a logged in admin change them to arbitrary values including XSS payloads via a CSRF attack.
+- [Live-Hack-CVE/CVE-2021-24595](https://github.com/Live-Hack-CVE/CVE-2021-24595)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24595">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24595">
+
+---
 ## CVE-2021-24584 (2021-09-20T10:15:00)
 > The Timetable and Event Schedule WordPress plugin before 2.4.2 does not have proper access control when updating a timeslot, allowing any user with the edit_posts capability (contributor+) to update arbitrary timeslot from any events. Furthermore, no CSRF check is in place as well, allowing such attack to be perform via CSRF against a logged in with such capability. In versions before 2.3.19, the lack of sanitisation and escaping in some of the fields, like the descritption could also lead to Stored XSS issues
 - [Live-Hack-CVE/CVE-2021-24584](https://github.com/Live-Hack-CVE/CVE-2021-24584)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24584">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24584">
+
+---
+## CVE-2021-24570 (2021-11-01T09:15:00)
+> The Accept Donations with PayPal WordPress plugin before 1.3.1 offers a function to create donation buttons, which internally are posts. The process to create a new button is lacking a CSRF check. An attacker could use this to make an authenticated admin create a new button. Furthermore, one of the Button field is not escaped before being output in an attribute when editing a Button, leading to a Stored Cross-Site Scripting issue as well.
+- [Live-Hack-CVE/CVE-2021-24570](https://github.com/Live-Hack-CVE/CVE-2021-24570)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24570">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24570">
+
+---
+## CVE-2021-24543 (2021-10-25T14:15:00)
+> The jQuery Reply to Comment WordPress plugin through 1.31 does not have any CSRF check when saving its settings, nor sanitise or escape its 'Quote String' and 'Reply String' settings before outputting them in Comments, leading to a Stored Cross-Site Scripting issue.
+- [Live-Hack-CVE/CVE-2021-24543](https://github.com/Live-Hack-CVE/CVE-2021-24543)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24543">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24543">
 
 ---
 ## CVE-2021-24444 (2021-08-02T11:15:00)

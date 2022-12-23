@@ -6794,6 +6794,7 @@
 ## CVE-2022-29078 (2022-04-25T15:15:00)
 > The ejs (aka Embedded JavaScript templates) package 3.1.6 for Node.js allows server-side template injection in settings[view options][outputFunctionName]. This is parsed as an internal option, and overwrites the outputFunctionName option with an arbitrary OS command (which is executed upon template compilation).
 - [miko550/CVE-2022-29078](https://github.com/miko550/CVE-2022-29078)	<img alt="forks" src="https://img.shields.io/github/forks/miko550/CVE-2022-29078">	<img alt="stars" src="https://img.shields.io/github/stars/miko550/CVE-2022-29078">
+- [Live-Hack-CVE/CVE-2022-29078](https://github.com/Live-Hack-CVE/CVE-2022-29078)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29078">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29078">
 
 ---
 ## CVE-2022-28986 (2022-05-10T19:15:00)
@@ -6974,6 +6975,11 @@
 - [Live-Hack-CVE/CVE-2022-2756](https://github.com/Live-Hack-CVE/CVE-2022-2756)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2756">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2756">
 
 ---
+## CVE-2022-27536 (2022-04-20T10:15:00)
+> Certificate.Verify in crypto/x509 in Go 1.18.x before 1.18.1 can be caused to panic on macOS when presented with certain malformed certificates. This allows a remote TLS server to cause a TLS client to panic.
+- [Live-Hack-CVE/CVE-2022-27536](https://github.com/Live-Hack-CVE/CVE-2022-27536)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27536">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27536">
+
+---
 ## CVE-2022-27502 (2022-06-10T13:15:00)
 > RealVNC VNC Server 6.9.0 through 5.1.0 for Windows allows local privilege escalation because an installer repair operation executes %TEMP% files as SYSTEM.
 - [alirezac0/CVE-2022-27502](https://github.com/alirezac0/CVE-2022-27502)	<img alt="forks" src="https://img.shields.io/github/forks/alirezac0/CVE-2022-27502">	<img alt="stars" src="https://img.shields.io/github/stars/alirezac0/CVE-2022-27502">
@@ -7097,6 +7103,11 @@
 > An issue was found in the Linux kernel in nf_conntrack_irc where the message handling can be confused and incorrectly matches the message. A firewall may be able to be bypassed when users are using unencrypted IRC with nf_conntrack_irc configured.
 - [Live-Hack-CVE/CVE-2022-2663](https://github.com/Live-Hack-CVE/CVE-2022-2663)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2663">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2663">
 - [Cyb3rR3ap3r/CVE-2022-26631](https://github.com/Cyb3rR3ap3r/CVE-2022-26631)	<img alt="forks" src="https://img.shields.io/github/forks/Cyb3rR3ap3r/CVE-2022-26631">	<img alt="stars" src="https://img.shields.io/github/stars/Cyb3rR3ap3r/CVE-2022-26631">
+
+---
+## CVE-2022-26520 (2022-03-10T17:47:00)
+> ** DISPUTED ** In pgjdbc before 42.3.3, an attacker (who controls the jdbc URL or properties) can call java.util.logging.FileHandler to write to arbitrary files through the loggerFile and loggerLevel connection properties. An example situation is that an attacker could create an executable JSP file under a Tomcat web root. NOTE: the vendor's position is that there is no pgjdbc vulnerability; instead, it is a vulnerability for any application to use the pgjdbc driver with untrusted connection properties.
+- [Live-Hack-CVE/CVE-2022-26520](https://github.com/Live-Hack-CVE/CVE-2022-26520)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26520">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26520">
 
 ---
 ## CVE-2022-2650 (2022-11-24T17:15:00)
@@ -7353,6 +7364,16 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [yuriisanin/CVE-2022-25260](https://github.com/yuriisanin/CVE-2022-25260)	<img alt="forks" src="https://img.shields.io/github/forks/yuriisanin/CVE-2022-25260">	<img alt="stars" src="https://img.shields.io/github/stars/yuriisanin/CVE-2022-25260">
 
 ---
+## CVE-2022-25243 (2022-03-10T17:47:00)
+> "Vault and Vault Enterprise 1.8.0 through 1.8.8, and 1.9.3 allowed the PKI secrets engine under certain configurations to issue wildcard certificates to authorized users for a specified domain, even if the PKI role policy attribute allow_subdomains is set to false. Fixed in Vault Enterprise 1.8.9 and 1.9.4.
+- [Live-Hack-CVE/CVE-2022-25243](https://github.com/Live-Hack-CVE/CVE-2022-25243)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25243">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25243">
+
+---
+## CVE-2022-25169 (2022-05-16T17:15:00)
+> The BPG parser in versions of Apache Tika before 1.28.2 and 2.4.0 may allocate an unreasonable amount of memory on carefully crafted files.
+- [Live-Hack-CVE/CVE-2022-25169](https://github.com/Live-Hack-CVE/CVE-2022-25169)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25169">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25169">
+
+---
 ## CVE-2022-2513 (2022-11-22T11:15:00)
 > A vulnerability exists in the Intelligent Electronic Device (IED) Connectivity Package (ConnPack) credential storage function in Hitachi Energy’s PCM600 product included in the versions listed below, where IEDs credentials are stored in a cleartext format in the PCM600 database. An attacker who manages to get access to the exported backup file can exploit the vulnerability and obtain credentials of the IEDs. The credentials may be used to perform unauthorized modifications such as loading incorrect configurations, reboot the IEDs or cause a denial-of-service on the IEDs.
 - [Live-Hack-CVE/CVE-2022-2513](https://github.com/Live-Hack-CVE/CVE-2022-2513)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2513">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2513">
@@ -7376,6 +7397,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-24939 (2022-11-18T00:15:00)
 > A malformed packet containing an invalid destination address, causes a stack overflow in the Ember ZNet stack. This causes an assert which leads to a reset, immediately clearing the error.
 - [Live-Hack-CVE/CVE-2022-24939](https://github.com/Live-Hack-CVE/CVE-2022-24939)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24939">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24939">
+
+---
+## CVE-2022-24921 (2022-03-05T20:15:00)
+> regexp.Compile in Go before 1.16.15 and 1.17.x before 1.17.8 allows stack exhaustion via a deeply nested expression.
+- [Live-Hack-CVE/CVE-2022-24921](https://github.com/Live-Hack-CVE/CVE-2022-24921)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24921">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24921">
 
 ---
 ## CVE-2022-24853 (2022-04-14T22:15:00)
@@ -7426,6 +7452,16 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-24723 (2022-03-03T21:15:00)
 > URI.js is a Javascript URL mutation library. Before version 1.19.9, whitespace characters are not removed from the beginning of the protocol, so URLs are not parsed properly. This issue has been patched in version 1.19.9. Removing leading whitespace from values before passing them to URI.parse can be used as a workaround.
 - [Live-Hack-CVE/CVE-2022-24723](https://github.com/Live-Hack-CVE/CVE-2022-24723)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24723">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24723">
+
+---
+## CVE-2022-24716 (2022-03-08T20:15:00)
+> Icinga Web 2 is an open source monitoring web interface, framework and command-line interface. Unauthenticated users can leak the contents of files of the local system accessible to the web-server user, including `icingaweb2` configuration files with database credentials. This issue has been resolved in versions 2.9.6 and 2.10 of Icinga Web 2. Database credentials should be rotated.
+- [Live-Hack-CVE/CVE-2022-24716](https://github.com/Live-Hack-CVE/CVE-2022-24716)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24716">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24716">
+
+---
+## CVE-2022-24714 (2022-03-08T20:15:00)
+> Icinga Web 2 is an open source monitoring web interface, framework and command-line interface. Installations of Icinga 2 with the IDO writer enabled are affected. If you use service custom variables in role restrictions, and you regularly decommission service objects, users with said roles may still have access to a collection of content. Note that this only applies if a role has implicitly permitted access to hosts, due to permitted access to at least one of their services. If access to a host is permitted by other means, no sensible information has been disclosed to unauthorized users. This issue has been resolved in versions 2.8.6, 2.9.6 and 2.10 of Icinga Web 2.
+- [Live-Hack-CVE/CVE-2022-24714](https://github.com/Live-Hack-CVE/CVE-2022-24714)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24714">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24714">
 
 ---
 ## CVE-2022-24706 (2022-04-26T10:15:00)
@@ -7576,6 +7612,12 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 > cmd/go in Go before 1.16.14 and 1.17.x before 1.17.7 can misinterpret branch names that falsely appear to be version tags. This can lead to incorrect access control if an actor is supposed to be able to create branches but not tags.
 - [danbudris/CVE-2022-23773-repro-target](https://github.com/danbudris/CVE-2022-23773-repro-target)	<img alt="forks" src="https://img.shields.io/github/forks/danbudris/CVE-2022-23773-repro-target">	<img alt="stars" src="https://img.shields.io/github/stars/danbudris/CVE-2022-23773-repro-target">
 - [danbudris/CVE-2022-23773-repro](https://github.com/danbudris/CVE-2022-23773-repro)	<img alt="forks" src="https://img.shields.io/github/forks/danbudris/CVE-2022-23773-repro">	<img alt="stars" src="https://img.shields.io/github/stars/danbudris/CVE-2022-23773-repro">
+- [Live-Hack-CVE/CVE-2022-23773](https://github.com/Live-Hack-CVE/CVE-2022-23773)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23773">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23773">
+
+---
+## CVE-2022-23772 (2022-02-11T01:15:00)
+> Rat.SetString in math/big in Go before 1.16.14 and 1.17.x before 1.17.7 has an overflow that can lead to Uncontrolled Memory Consumption.
+- [Live-Hack-CVE/CVE-2022-23772](https://github.com/Live-Hack-CVE/CVE-2022-23772)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23772">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23772">
 
 ---
 ## CVE-2022-23743 (2022-05-11T16:15:00)
@@ -7591,6 +7633,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-23740 (2022-11-23T18:15:00)
 > CRITICAL: An improper neutralization of argument delimiters in a command vulnerability was identified in GitHub Enterprise Server that enabled remote code execution. To exploit this vulnerability, an attacker would need permission to create and build GitHub Pages using GitHub Actions. This vulnerability affected only version 3.7.0 of GitHub Enterprise Server and was fixed in version 3.7.1. This vulnerability was reported via the GitHub Bug Bounty program.
 - [Live-Hack-CVE/CVE-2022-23740](https://github.com/Live-Hack-CVE/CVE-2022-23740)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23740">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23740">
+
+---
+## CVE-2022-23708 (2022-03-03T22:15:00)
+> A flaw was discovered in Elasticsearch 7.17.0’s upgrade assistant, in which upgrading from version 6.x to 7.x would disable the in-built protections on the security index, allowing authenticated users with “*” index permissions access to this index.
+- [Live-Hack-CVE/CVE-2022-23708](https://github.com/Live-Hack-CVE/CVE-2022-23708)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23708">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23708">
 
 ---
 ## CVE-2022-23614 (2022-02-04T23:15:00)
@@ -8009,6 +8056,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-21789 (2022-08-01T14:15:00)
 > In audio ipi, there is a possible memory corruption due to a race condition. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS06478101; Issue ID: ALPS06478101.
 - [docfate111/CVE-2022-21789](https://github.com/docfate111/CVE-2022-21789)	<img alt="forks" src="https://img.shields.io/github/forks/docfate111/CVE-2022-21789">	<img alt="stars" src="https://img.shields.io/github/stars/docfate111/CVE-2022-21789">
+
+---
+## CVE-2022-21724 (2022-02-02T12:15:00)
+> pgjdbc is the offical PostgreSQL JDBC Driver. A security hole was found in the jdbc driver for postgresql database while doing security research. The system using the postgresql library will be attacked when attacker control the jdbc url or properties. pgjdbc instantiates plugin instances based on class names provided via `authenticationPluginClassName`, `sslhostnameverifier`, `socketFactory`, `sslfactory`, `sslpasswordcallback` connection properties. However, the driver did not verify if the class implements the expected interface before instantiating the class. This can lead to code execution loaded via arbitrary classes. Users using plugins are advised to upgrade. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-21724](https://github.com/Live-Hack-CVE/CVE-2022-21724)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21724">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21724">
 
 ---
 ## CVE-2022-21722 (2022-01-27T00:15:00)
@@ -8853,6 +8905,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1421 (2022-06-08T10:15:00)
 > The Discy WordPress theme before 5.2 lacks CSRF checks in some AJAX actions, allowing an attacker to make a logged in admin change arbitrary 's settings including payment methods via a CSRF attack
 - [nb1b3k/CVE-2022-1421](https://github.com/nb1b3k/CVE-2022-1421)	<img alt="forks" src="https://img.shields.io/github/forks/nb1b3k/CVE-2022-1421">	<img alt="stars" src="https://img.shields.io/github/stars/nb1b3k/CVE-2022-1421">
+
+---
+## CVE-2022-1391 (2022-04-25T16:16:00)
+> The Cab fare calculator WordPress plugin before 1.0.4 does not validate the controller parameter before using it in require statements, which could lead to Local File Inclusion issues.
+- [Live-Hack-CVE/CVE-2022-1391](https://github.com/Live-Hack-CVE/CVE-2022-1391)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1391">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1391">
 
 ---
 ## CVE-2022-1388 (2022-05-05T17:15:00)
