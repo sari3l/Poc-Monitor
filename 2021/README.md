@@ -1258,9 +1258,19 @@
 - [Live-Hack-CVE/CVE-2021-33895](https://github.com/Live-Hack-CVE/CVE-2021-33895)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33895">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33895">
 
 ---
+## CVE-2021-33816 (2021-11-10T23:15:00)
+> The website builder module in Dolibarr 13.0.2 allows remote PHP code execution because of an incomplete protection mechanism in which system, exec, and shell_exec are blocked but backticks are not blocked.
+- [Live-Hack-CVE/CVE-2021-33816](https://github.com/Live-Hack-CVE/CVE-2021-33816)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33816">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33816">
+
+---
 ## CVE-2021-33716 (2021-09-14T11:15:00)
 > A vulnerability has been identified in SIMATIC CP 1543-1 (incl. SIPLUS variants) (All versions < V3.0), SIMATIC CP 1545-1 (All versions < V1.1). An attacker with access to the subnet of the affected device could retrieve sensitive information stored in cleartext.
 - [Live-Hack-CVE/CVE-2021-33716](https://github.com/Live-Hack-CVE/CVE-2021-33716)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33716">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33716">
+
+---
+## CVE-2021-33618 (2021-11-10T23:15:00)
+> Dolibarr ERP and CRM 13.0.2 allows XSS via object details, as demonstrated by > and < characters in the onpointermove attribute of a BODY element to the user-management feature.
+- [Live-Hack-CVE/CVE-2021-33618](https://github.com/Live-Hack-CVE/CVE-2021-33618)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33618">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33618">
 
 ---
 ## CVE-2021-33558 (2021-05-27T11:15:00)
@@ -1619,6 +1629,11 @@
 - [maskerTUI/CVE-2021-26084](https://github.com/maskerTUI/CVE-2021-26084)	<img alt="forks" src="https://img.shields.io/github/forks/maskerTUI/CVE-2021-26084">	<img alt="stars" src="https://img.shields.io/github/stars/maskerTUI/CVE-2021-26084">
 - [smallpiggy/cve-2021-26084-confluence](https://github.com/smallpiggy/cve-2021-26084-confluence)	<img alt="forks" src="https://img.shields.io/github/forks/smallpiggy/cve-2021-26084-confluence">	<img alt="stars" src="https://img.shields.io/github/stars/smallpiggy/cve-2021-26084-confluence">
 - [crowsec-edtech/CVE-2021-26084](https://github.com/crowsec-edtech/CVE-2021-26084)	<img alt="forks" src="https://img.shields.io/github/forks/crowsec-edtech/CVE-2021-26084">	<img alt="stars" src="https://img.shields.io/github/stars/crowsec-edtech/CVE-2021-26084">
+
+---
+## CVE-2021-25956 (2021-08-17T15:15:00)
+> In “Dolibarr” application, v3.3.beta1_20121221 to v13.0.2 have “Modify” access for admin level users to change other user’s details but fails to validate already existing “Login” name, while renaming the user “Login”. This leads to complete account takeover of the victim user. This happens since the password gets overwritten for the victim user having a similar login name.
+- [Live-Hack-CVE/CVE-2021-25956](https://github.com/Live-Hack-CVE/CVE-2021-25956)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25956">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25956">
 
 ---
 ## CVE-2021-25804 (2021-07-26T17:15:00)

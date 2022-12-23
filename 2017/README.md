@@ -191,6 +191,71 @@
 - [Sabotase-Syndicate-Team/CVE-2017-5487.exploit](https://github.com/Sabotase-Syndicate-Team/CVE-2017-5487.exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Sabotase-Syndicate-Team/CVE-2017-5487.exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Sabotase-Syndicate-Team/CVE-2017-5487.exploit">
 
 ---
+## CVE-2017-2996 (2017-02-15T06:59:00)
+> Adobe Flash Player versions 24.0.0.194 and earlier have an exploitable memory corruption vulnerability in Primetime SDK. Successful exploitation could lead to arbitrary code execution.
+- [Live-Hack-CVE/CVE-2017-2996](https://github.com/Live-Hack-CVE/CVE-2017-2996)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-2996">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-2996">
+
+---
+## CVE-2017-2995 (2017-02-15T06:59:00)
+> Adobe Flash Player versions 24.0.0.194 and earlier have an exploitable type confusion vulnerability related to the MessageChannel class. Successful exploitation could lead to arbitrary code execution.
+- [Live-Hack-CVE/CVE-2017-2995](https://github.com/Live-Hack-CVE/CVE-2017-2995)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-2995">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-2995">
+
+---
+## CVE-2017-2994 (2017-02-15T06:59:00)
+> Adobe Flash Player versions 24.0.0.194 and earlier have an exploitable use after free vulnerability in Primetime SDK event dispatch. Successful exploitation could lead to arbitrary code execution.
+- [Live-Hack-CVE/CVE-2017-2994](https://github.com/Live-Hack-CVE/CVE-2017-2994)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-2994">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-2994">
+
+---
+## CVE-2017-2993 (2017-02-15T06:59:00)
+> Adobe Flash Player versions 24.0.0.194 and earlier have an exploitable use after free vulnerability related to event handlers. Successful exploitation could lead to arbitrary code execution.
+- [Live-Hack-CVE/CVE-2017-2993](https://github.com/Live-Hack-CVE/CVE-2017-2993)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-2993">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-2993">
+
+---
+## CVE-2017-2992 (2017-02-15T06:59:00)
+> Adobe Flash Player versions 24.0.0.194 and earlier have an exploitable heap overflow vulnerability when parsing an MP4 header. Successful exploitation could lead to arbitrary code execution.
+- [Live-Hack-CVE/CVE-2017-2992](https://github.com/Live-Hack-CVE/CVE-2017-2992)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-2992">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-2992">
+
+---
+## CVE-2017-2986 (2017-02-15T06:59:00)
+> Adobe Flash Player versions 24.0.0.194 and earlier have an exploitable heap overflow vulnerability in the Flash Video (FLV) codec. Successful exploitation could lead to arbitrary code execution.
+- [Live-Hack-CVE/CVE-2017-2986](https://github.com/Live-Hack-CVE/CVE-2017-2986)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-2986">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-2986">
+
+---
+## CVE-2017-2985 (2017-02-15T06:59:00)
+> Adobe Flash Player versions 24.0.0.194 and earlier have an exploitable use after free vulnerability in the ActionScript 3 BitmapData class. Successful exploitation could lead to arbitrary code execution.
+- [Live-Hack-CVE/CVE-2017-2985](https://github.com/Live-Hack-CVE/CVE-2017-2985)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-2985">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-2985">
+
+---
+## CVE-2017-2984 (2017-02-15T06:59:00)
+> Adobe Flash Player versions 24.0.0.194 and earlier have an exploitable heap overflow vulnerability in the h264 decoder routine. Successful exploitation could lead to arbitrary code execution.
+- [Live-Hack-CVE/CVE-2017-2984](https://github.com/Live-Hack-CVE/CVE-2017-2984)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-2984">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-2984">
+
+---
+## CVE-2017-2982 (2017-02-15T06:59:00)
+> Adobe Flash Player versions 24.0.0.194 and earlier have an exploitable use after free vulnerability in a routine related to player shutdown. Successful exploitation could lead to arbitrary code execution.
+- [Live-Hack-CVE/CVE-2017-2982](https://github.com/Live-Hack-CVE/CVE-2017-2982)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-2982">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-2982">
+
+---
+## CVE-2017-2938 (2017-01-11T04:59:00)
+> Adobe Flash Player versions 24.0.0.186 and earlier have a security bypass vulnerability related to handling TCP connections.
+- [Live-Hack-CVE/CVE-2017-2938](https://github.com/Live-Hack-CVE/CVE-2017-2938)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-2938">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-2938">
+
+---
+## CVE-2017-2931 (2017-01-11T04:59:00)
+> Adobe Flash Player versions 24.0.0.186 and earlier have an exploitable memory corruption vulnerability related to the parsing of SWF metadata. Successful exploitation could lead to arbitrary code execution.
+- [Live-Hack-CVE/CVE-2017-2931](https://github.com/Live-Hack-CVE/CVE-2017-2931)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-2931">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-2931">
+
+---
+## CVE-2017-2930 (2017-01-11T04:59:00)
+> Adobe Flash Player versions 24.0.0.186 and earlier have an exploitable memory corruption vulnerability due to a concurrency error when manipulating a display list. Successful exploitation could lead to arbitrary code execution.
+- [Live-Hack-CVE/CVE-2017-2930](https://github.com/Live-Hack-CVE/CVE-2017-2930)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-2930">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-2930">
+
+---
+## CVE-2017-2928 (2017-01-11T04:59:00)
+> Adobe Flash Player versions 24.0.0.186 and earlier have an exploitable memory corruption vulnerability related to setting visual mode effects. Successful exploitation could lead to arbitrary code execution.
+- [Live-Hack-CVE/CVE-2017-2928](https://github.com/Live-Hack-CVE/CVE-2017-2928)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-2928">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-2928">
+
+---
 ## CVE-2017-2606 (2018-05-08T20:29:00)
 > Jenkins before versions 2.44, 2.32.2 is vulnerable to an information exposure in the internal API that allows access to item names that should not be visible (SECURITY-380). This only affects anonymous users (other users legitimately have access) that were able to get a list of items via an UnprotectedRootAction.
 - [Davi-afk/jenkins-cve-CVE-2017-2606](https://github.com/Davi-afk/jenkins-cve-CVE-2017-2606)	<img alt="forks" src="https://img.shields.io/github/forks/Davi-afk/jenkins-cve-CVE-2017-2606">	<img alt="stars" src="https://img.shields.io/github/stars/Davi-afk/jenkins-cve-CVE-2017-2606">

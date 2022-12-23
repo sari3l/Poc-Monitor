@@ -979,6 +979,11 @@
 - [Live-Hack-CVE/CVE-2022-4520](https://github.com/Live-Hack-CVE/CVE-2022-4520)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4520">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4520">
 
 ---
+## CVE-2022-45196 (2022-11-12T20:15:00)
+> Hyperledger Fabric 2.3 allows attackers to cause a denial of service (orderer crash) by repeatedly sending a crafted channel tx with the same Channel name. NOTE: the official Fabric with Raft prevents exploitation via a locking mechanism and a check for names that already exist.
+- [Live-Hack-CVE/CVE-2022-45196](https://github.com/Live-Hack-CVE/CVE-2022-45196)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45196">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45196">
+
+---
 ## CVE-2022-4519 (2022-12-15T21:15:00)
 > The WP User plugin for WordPress is vulnerable to Stored Cross-Site Scripting via its settings parameters in versions up to, and including, 7.0 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with administrator-level permissions and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page. This only affects multi-site installations and installations where unfiltered_html has been disabled.
 - [Live-Hack-CVE/CVE-2022-4519](https://github.com/Live-Hack-CVE/CVE-2022-4519)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4519">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4519">
@@ -3521,6 +3526,16 @@
 - [vah13/CVE-2022-39802](https://github.com/vah13/CVE-2022-39802)	<img alt="forks" src="https://img.shields.io/github/forks/vah13/CVE-2022-39802">	<img alt="stars" src="https://img.shields.io/github/stars/vah13/CVE-2022-39802">
 
 ---
+## CVE-2022-3971 (2022-11-13T10:15:00)
+> A vulnerability was found in matrix-appservice-irc up to 0.35.1. It has been declared as critical. This vulnerability affects unknown code of the file src/datastore/postgres/PgDataStore.ts. The manipulation of the argument roomIds leads to sql injection. Upgrading to version 0.36.0 is able to address this issue. The name of the patch is 179313a37f06b298150edba3e2b0e5a73c1415e7. It is recommended to upgrade the affected component. VDB-213550 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-3971](https://github.com/Live-Hack-CVE/CVE-2022-3971)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3971">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3971">
+
+---
+## CVE-2022-3963 (2022-11-12T22:15:00)
+> A vulnerability was found in gnuboard5. It has been classified as problematic. Affected is an unknown function of the file bbs/faq.php of the component FAQ Key ID Handler. The manipulation of the argument fm_id leads to cross site scripting. It is possible to launch the attack remotely. Upgrading to version 5.5.8.2.1 is able to address this issue. The name of the patch is ba062ca5b62809106d5a2f7df942ffcb44ecb5a9. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-213540.
+- [Live-Hack-CVE/CVE-2022-3963](https://github.com/Live-Hack-CVE/CVE-2022-3963)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3963">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3963">
+
+---
 ## CVE-2022-3949 (2022-11-11T13:15:00)
 > A vulnerability, which was classified as problematic, has been found in Sourcecodester Simple Cashiering System. This issue affects some unknown processing of the component User Account Handler. The manipulation of the argument fullname leads to cross site scripting. The attack may be initiated remotely. The associated identifier of this vulnerability is VDB-213455.
 - [maikroservice/CVE-2022-3949](https://github.com/maikroservice/CVE-2022-3949)	<img alt="forks" src="https://img.shields.io/github/forks/maikroservice/CVE-2022-3949">	<img alt="stars" src="https://img.shields.io/github/stars/maikroservice/CVE-2022-3949">
@@ -5648,6 +5663,11 @@
 - [Live-Hack-CVE/CVE-2022-3088](https://github.com/Live-Hack-CVE/CVE-2022-3088)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3088">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3088">
 
 ---
+## CVE-2022-30875 (2022-06-08T17:15:00)
+> Dolibarr 12.0.5 is vulnerable to Cross Site Scripting (XSS) via Sql Error Page.
+- [Live-Hack-CVE/CVE-2022-30875](https://github.com/Live-Hack-CVE/CVE-2022-30875)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30875">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30875">
+
+---
 ## CVE-2022-30780 (2022-06-11T15:15:00)
 > Lighttpd 1.4.56 through 1.4.58 allows a remote attacker to cause a denial of service (CPU consumption from stuck connections) because connection_read_header_more in connections.c has a typo that disrupts use of multiple read operations on large headers.
 - [p0dalirius/CVE-2022-30780-lighttpd-denial-of-service](https://github.com/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service)	<img alt="forks" src="https://img.shields.io/github/forks/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service">	<img alt="stars" src="https://img.shields.io/github/stars/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service">
@@ -7111,6 +7131,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [PyterSmithDarkGhost/0DAYIPHONE13IOS15.2CVE-2022-22588](https://github.com/PyterSmithDarkGhost/0DAYIPHONE13IOS15.2CVE-2022-22588)	<img alt="forks" src="https://img.shields.io/github/forks/PyterSmithDarkGhost/0DAYIPHONE13IOS15.2CVE-2022-22588">	<img alt="stars" src="https://img.shields.io/github/stars/PyterSmithDarkGhost/0DAYIPHONE13IOS15.2CVE-2022-22588">
 
 ---
+## CVE-2022-22293 (2022-01-02T00:15:00)
+> admin/limits.php in Dolibarr 7.0.2 allows HTML injection, as demonstrated by the MAIN_MAX_DECIMALS_TOT parameter.
+- [Live-Hack-CVE/CVE-2022-22293](https://github.com/Live-Hack-CVE/CVE-2022-22293)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22293">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22293">
+
+---
 ## CVE-2022-22029 (2022-07-12T23:15:00)
 > Windows Network File System Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-22039.
 - [mchoudhary15/CVE-2022-22029-NFS-Server-](https://github.com/mchoudhary15/CVE-2022-22029-NFS-Server-)	<img alt="forks" src="https://img.shields.io/github/forks/mchoudhary15/CVE-2022-22029-NFS-Server-">	<img alt="stars" src="https://img.shields.io/github/stars/mchoudhary15/CVE-2022-22029-NFS-Server-">
@@ -7352,6 +7377,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-20600 (2022-12-16T16:15:00)
 > In TBD of TBD, there is a possible out of bounds write due to memory corruption. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-239847859References: N/A
 - [Live-Hack-CVE/CVE-2022-20600](https://github.com/Live-Hack-CVE/CVE-2022-20600)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20600">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20600">
+
+---
+## CVE-2022-2060 (2022-06-13T09:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository dolibarr/dolibarr prior to 16.0.
+- [Live-Hack-CVE/CVE-2022-2060](https://github.com/Live-Hack-CVE/CVE-2022-2060)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2060">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2060">
 
 ---
 ## CVE-2022-20599 (2022-12-16T16:15:00)
@@ -8227,12 +8257,27 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [faisalfs10x/Webmin-CVE-2022-0824-revshell](https://github.com/faisalfs10x/Webmin-CVE-2022-0824-revshell)	<img alt="forks" src="https://img.shields.io/github/forks/faisalfs10x/Webmin-CVE-2022-0824-revshell">	<img alt="stars" src="https://img.shields.io/github/stars/faisalfs10x/Webmin-CVE-2022-0824-revshell">
 
 ---
+## CVE-2022-0819 (2022-03-02T16:15:00)
+> Code Injection in GitHub repository dolibarr/dolibarr prior to 15.0.1.
+- [Live-Hack-CVE/CVE-2022-0819](https://github.com/Live-Hack-CVE/CVE-2022-0819)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0819">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0819">
+
+---
+## CVE-2022-0746 (2022-02-25T09:15:00)
+> Business Logic Errors in GitHub repository dolibarr/dolibarr prior to 16.0.
+- [Live-Hack-CVE/CVE-2022-0746](https://github.com/Live-Hack-CVE/CVE-2022-0746)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0746">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0746">
+
+---
 ## CVE-2022-0739 (2022-03-21T19:15:00)
 > The BookingPress WordPress plugin before 1.0.11 fails to properly sanitize user supplied POST data before it is used in a dynamically constructed SQL query via the bookingpress_front_get_category_services AJAX action (available to unauthenticated users), leading to an unauthenticated SQL Injection
 - [destr4ct/CVE-2022-0739](https://github.com/destr4ct/CVE-2022-0739)	<img alt="forks" src="https://img.shields.io/github/forks/destr4ct/CVE-2022-0739">	<img alt="stars" src="https://img.shields.io/github/stars/destr4ct/CVE-2022-0739">
 - [Chris01s/CVE-2022-0739](https://github.com/Chris01s/CVE-2022-0739)	<img alt="forks" src="https://img.shields.io/github/forks/Chris01s/CVE-2022-0739">	<img alt="stars" src="https://img.shields.io/github/stars/Chris01s/CVE-2022-0739">
 - [BKreisel/CVE-2022-0739](https://github.com/BKreisel/CVE-2022-0739)	<img alt="forks" src="https://img.shields.io/github/forks/BKreisel/CVE-2022-0739">	<img alt="stars" src="https://img.shields.io/github/stars/BKreisel/CVE-2022-0739">
 - [Ki11i0n4ir3/CVE-2022-0739](https://github.com/Ki11i0n4ir3/CVE-2022-0739)	<img alt="forks" src="https://img.shields.io/github/forks/Ki11i0n4ir3/CVE-2022-0739">	<img alt="stars" src="https://img.shields.io/github/stars/Ki11i0n4ir3/CVE-2022-0739">
+
+---
+## CVE-2022-0731 (2022-02-23T19:15:00)
+> Improper Access Control (IDOR) in GitHub repository dolibarr/dolibarr prior to 16.0.
+- [Live-Hack-CVE/CVE-2022-0731](https://github.com/Live-Hack-CVE/CVE-2022-0731)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0731">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0731">
 
 ---
 ## CVE-2022-0730 (2022-03-03T23:15:00)
@@ -8283,6 +8328,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [SDragon1205/cve-2022-0441](https://github.com/SDragon1205/cve-2022-0441)	<img alt="forks" src="https://img.shields.io/github/forks/SDragon1205/cve-2022-0441">	<img alt="stars" src="https://img.shields.io/github/stars/SDragon1205/cve-2022-0441">
 
 ---
+## CVE-2022-0414 (2022-01-31T11:15:00)
+> Business Logic Errors in Packagist dolibarr/dolibarr prior to 16.0.
+- [Live-Hack-CVE/CVE-2022-0414](https://github.com/Live-Hack-CVE/CVE-2022-0414)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0414">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0414">
+
+---
 ## CVE-2022-0382 (2022-02-11T18:15:00)
 > An information leak flaw was found due to uninitialized memory in the Linux kernel's TIPC protocol subsystem, in the way a user sends a TIPC datagram to one or more destinations. This flaw allows a local user to read some kernel memory. This issue is limited to no more than 7 bytes, and the user cannot control what is read. This flaw affects the Linux kernel versions prior to 5.17-rc1.
 - [Live-Hack-CVE/CVE-2022-0382](https://github.com/Live-Hack-CVE/CVE-2022-0382)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0382">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0382">
@@ -8291,6 +8341,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-0337 ()
 > 
 - [Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera](https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera)	<img alt="forks" src="https://img.shields.io/github/forks/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera">	<img alt="stars" src="https://img.shields.io/github/stars/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera">
+
+---
+## CVE-2022-0224 (2022-01-14T18:15:00)
+> dolibarr is vulnerable to Improper Neutralization of Special Elements used in an SQL Command
+- [Live-Hack-CVE/CVE-2022-0224](https://github.com/Live-Hack-CVE/CVE-2022-0224)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0224">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0224">
 
 ---
 ## CVE-2022-0185 (2022-02-11T18:15:00)
@@ -8303,6 +8358,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [shahparkhan/cve-2022-0185](https://github.com/shahparkhan/cve-2022-0185)	<img alt="forks" src="https://img.shields.io/github/forks/shahparkhan/cve-2022-0185">	<img alt="stars" src="https://img.shields.io/github/stars/shahparkhan/cve-2022-0185">
 - [khaclep007/CVE-2022-0185](https://github.com/khaclep007/CVE-2022-0185)	<img alt="forks" src="https://img.shields.io/github/forks/khaclep007/CVE-2022-0185">	<img alt="stars" src="https://img.shields.io/github/stars/khaclep007/CVE-2022-0185">
 - [discordianfish/cve-2022-0185-crash-poc](https://github.com/discordianfish/cve-2022-0185-crash-poc)	<img alt="forks" src="https://img.shields.io/github/forks/discordianfish/cve-2022-0185-crash-poc">	<img alt="stars" src="https://img.shields.io/github/stars/discordianfish/cve-2022-0185-crash-poc">
+
+---
+## CVE-2022-0174 (2022-01-10T18:15:00)
+> dolibarr is vulnerable to Business Logic Errors
+- [Live-Hack-CVE/CVE-2022-0174](https://github.com/Live-Hack-CVE/CVE-2022-0174)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0174">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0174">
 
 ---
 ## CVE-2022-0171 (2022-08-26T18:15:00)
