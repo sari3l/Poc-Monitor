@@ -64,6 +64,16 @@
 - [KaviDk/CVE-2019-6447-in-Mobile-Application](https://github.com/KaviDk/CVE-2019-6447-in-Mobile-Application)	<img alt="forks" src="https://img.shields.io/github/forks/KaviDk/CVE-2019-6447-in-Mobile-Application">	<img alt="stars" src="https://img.shields.io/github/stars/KaviDk/CVE-2019-6447-in-Mobile-Application">
 
 ---
+## CVE-2019-5456 (2019-07-30T21:15:00)
+> SMTP MITM refers to a malicious actor setting up an SMTP proxy server between the UniFi Controller version <= 5.10.21 and their actual SMTP server to record their SMTP credentials for malicious use later.
+- [Live-Hack-CVE/CVE-2019-5456](https://github.com/Live-Hack-CVE/CVE-2019-5456)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5456">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5456">
+
+---
+## CVE-2019-5455 (2019-07-30T21:15:00)
+> Bypassing lock protection exists in Nextcloud Android app 3.6.0 when creating a multi-account and aborting the process.
+- [Live-Hack-CVE/CVE-2019-5455](https://github.com/Live-Hack-CVE/CVE-2019-5455)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5455">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5455">
+
+---
 ## CVE-2019-5420 (2019-03-27T14:29:00)
 > A remote code execution vulnerability in development mode Rails <5.2.2.1, <6.0.0.beta3 can allow an attacker to guess the automatically generated development mode secret token. This secret token can be used in combination with other Rails internals to escalate to a remote code execution exploit.
 - [laffray/ruby-RCE-CVE-2019-5420-](https://github.com/laffray/ruby-RCE-CVE-2019-5420-)	<img alt="forks" src="https://img.shields.io/github/forks/laffray/ruby-RCE-CVE-2019-5420-">	<img alt="stars" src="https://img.shields.io/github/stars/laffray/ruby-RCE-CVE-2019-5420-">
@@ -133,6 +143,11 @@
 ## CVE-2019-4477 (2019-09-17T19:15:00)
 > IBM WebSphere Application Server 7.0, 8.0, 8.5, and 9.0 could allow a user with access to audit logs to obtain sensitive information, caused by improper handling of command line options. IBM X-Force ID: 163997.
 - [Live-Hack-CVE/CVE-2019-4477](https://github.com/Live-Hack-CVE/CVE-2019-4477)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4477">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4477">
+
+---
+## CVE-2019-4456 (2019-07-30T14:15:00)
+> IBM Daeja ViewONE Professional, Standard & Virtual 5.0.5 and 5.0.6 is vulnerable to an XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 163620.
+- [Live-Hack-CVE/CVE-2019-4456](https://github.com/Live-Hack-CVE/CVE-2019-4456)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4456">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4456">
 
 ---
 ## CVE-2019-4423 (2019-09-30T16:15:00)
@@ -308,6 +323,21 @@
 ## CVE-2019-4047 (2019-04-29T17:29:00)
 > IBM Jazz Reporting Service (JRS) 6.0.6 could allow an authenticated user to access the execution log files as a guest user, and obtain the information of the server execution. IBM X-Force ID: 156243.
 - [Live-Hack-CVE/CVE-2019-4047](https://github.com/Live-Hack-CVE/CVE-2019-4047)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4047">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4047">
+
+---
+## CVE-2019-3939 (2019-04-30T21:29:00)
+> Crestron AM-100 with firmware 1.6.0.2 and AM-101 with firmware 2.7.0.2 use default credentials admin/admin and moderator/moderator for the web interface. An unauthenticated, remote attacker can use these credentials to gain privileged access to the device.
+- [Live-Hack-CVE/CVE-2019-3939](https://github.com/Live-Hack-CVE/CVE-2019-3939)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-3939">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-3939">
+
+---
+## CVE-2019-3938 (2019-04-30T21:29:00)
+> Crestron AM-100 with firmware 1.6.0.2 and AM-101 with firmware 2.7.0.2 stores usernames, passwords, and other configuration options in the file generated via the "export configuration" feature. The configuration file is encrypted using the awenc binary. The same binary can be used to decrypt any configuration file since all the encryption logic is hard coded. A local attacker can use this vulnerability to gain access to devices username and passwords.
+- [Live-Hack-CVE/CVE-2019-3938](https://github.com/Live-Hack-CVE/CVE-2019-3938)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-3938">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-3938">
+
+---
+## CVE-2019-3935 (2019-04-30T21:29:00)
+> Crestron AM-100 with firmware 1.6.0.2 and AM-101 with firmware 2.7.0.2 allows anyone to act as a moderator to a slide show via crafted HTTP POST requests to conference.cgi. A remote, unauthenticated attacker can use this vulnerability to start, stop, and disconnect active slideshows.
+- [Live-Hack-CVE/CVE-2019-3935](https://github.com/Live-Hack-CVE/CVE-2019-3935)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-3935">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-3935">
 
 ---
 ## CVE-2019-3928 (2019-04-30T21:29:00)

@@ -274,6 +274,11 @@
 - [Live-Hack-CVE/CVE-2022-46544](https://github.com/Live-Hack-CVE/CVE-2022-46544)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46544">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46544">
 
 ---
+## CVE-2022-46464 (2022-12-05T23:15:00)
+> ConcreteCMS v9.1.3 was discovered to be vulnerable to Xpath injection attacks. This vulnerability allows attackers to access sensitive XML data via a crafted payload injected into the URL path folder "3".
+- [Live-Hack-CVE/CVE-2022-46464](https://github.com/Live-Hack-CVE/CVE-2022-46464)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46464">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46464">
+
+---
 ## CVE-2022-4646 (2022-12-22T02:15:00)
 > Cross-Site Request Forgery (CSRF) in GitHub repository ikus060/rdiffweb prior to 2.5.4.
 - [Live-Hack-CVE/CVE-2022-4646](https://github.com/Live-Hack-CVE/CVE-2022-4646)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4646">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4646">
@@ -513,6 +518,7 @@
 - [taythebot/CVE-2022-46169](https://github.com/taythebot/CVE-2022-46169)	<img alt="forks" src="https://img.shields.io/github/forks/taythebot/CVE-2022-46169">	<img alt="stars" src="https://img.shields.io/github/stars/taythebot/CVE-2022-46169">
 - [0xf4n9x/CVE-2022-46169](https://github.com/0xf4n9x/CVE-2022-46169)	<img alt="forks" src="https://img.shields.io/github/forks/0xf4n9x/CVE-2022-46169">	<img alt="stars" src="https://img.shields.io/github/stars/0xf4n9x/CVE-2022-46169">
 - [rb-x/CVE-2022-46169](https://github.com/rb-x/CVE-2022-46169)	<img alt="forks" src="https://img.shields.io/github/forks/rb-x/CVE-2022-46169">	<img alt="stars" src="https://img.shields.io/github/stars/rb-x/CVE-2022-46169">
+- [Live-Hack-CVE/CVE-2022-46169](https://github.com/Live-Hack-CVE/CVE-2022-46169)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46169">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46169">
 
 ---
 ## CVE-2022-46164 (2022-12-05T21:15:00)
@@ -583,6 +589,11 @@
 ## CVE-2022-46020 (2022-12-20T16:15:00)
 > WBCE CMS v1.5.4 can implement getshell by modifying the upload file type.
 - [Live-Hack-CVE/CVE-2022-46020](https://github.com/Live-Hack-CVE/CVE-2022-46020)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46020">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46020">
+
+---
+## CVE-2022-45990 (2022-12-05T23:15:00)
+> A cross-site scripting (XSS) vulnerability in the component /signup_script.php of Ecommerce-Website v1.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the eMail parameter.
+- [Live-Hack-CVE/CVE-2022-45990](https://github.com/Live-Hack-CVE/CVE-2022-45990)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45990">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45990">
 
 ---
 ## CVE-2022-45957 (2022-12-12T15:15:00)
@@ -658,6 +669,12 @@
 ## CVE-2022-45771 (2022-12-05T20:15:00)
 > An issue in the /api/audits component of Pwndoc v0.5.3 allows attackers to escalate privileges and execute arbitrary code via uploading a crafted audit file.
 - [p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE](https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE">
+- [Live-Hack-CVE/CVE-2022-45771](https://github.com/Live-Hack-CVE/CVE-2022-45771)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45771">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45771">
+
+---
+## CVE-2022-45769 (2022-12-05T23:15:00)
+> A cross-site scripting (XSS) vulnerability in ClicShopping_V3 v3.402 allows attackers to execute arbitrary web scripts or HTML via a crafted URL parameter.
+- [Live-Hack-CVE/CVE-2022-45769](https://github.com/Live-Hack-CVE/CVE-2022-45769)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45769">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45769">
 
 ---
 ## CVE-2022-45760 (2022-12-12T03:15:00)
@@ -748,6 +765,11 @@
 ## CVE-2022-45326 (2022-12-06T17:15:00)
 > An XML external entity (XXE) injection vulnerability in Kwoksys Kwok Information Server before v2.9.5.SP31 allows remote authenticated users to conduct server-side request forgery (SSRF) attacks.
 - [Live-Hack-CVE/CVE-2022-45326](https://github.com/Live-Hack-CVE/CVE-2022-45326)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45326">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45326">
+
+---
+## CVE-2022-45283 (2022-12-06T00:15:00)
+> GPAC MP4box v2.0.0 was discovered to contain a stack overflow in the smil_parse_time_list parameter at /scenegraph/svg_attributes.c.
+- [Live-Hack-CVE/CVE-2022-45283](https://github.com/Live-Hack-CVE/CVE-2022-45283)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45283">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45283">
 
 ---
 ## CVE-2022-45275 (2022-12-12T20:15:00)
@@ -850,6 +872,16 @@
 ## CVE-2022-45025 (2022-12-07T02:15:00)
 > Markdown Preview Enhanced v0.6.5 and v0.19.6 for VSCode and Atom was discovered to contain a command injection vulnerability via the PDF file import function.
 - [yuriisanin/CVE-2022-45025](https://github.com/yuriisanin/CVE-2022-45025)	<img alt="forks" src="https://img.shields.io/github/forks/yuriisanin/CVE-2022-45025">	<img alt="stars" src="https://img.shields.io/github/stars/yuriisanin/CVE-2022-45025">
+
+---
+## CVE-2022-45020 (2022-12-05T23:15:00)
+> Rukovoditel v3.2.1 was discovered to contain a DOM-based cross-site scripting (XSS) vulnerability in the component /rukovoditel/index.php?module=users/login. This vulnerability allows attackers to cause a Denial of Service (DoS) via a crafted GET request.
+- [Live-Hack-CVE/CVE-2022-45020](https://github.com/Live-Hack-CVE/CVE-2022-45020)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45020">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45020">
+
+---
+## CVE-2022-45019 (2022-12-05T23:15:00)
+> SLiMS 9 Bulian v9.5.0 was discovered to contain a SQL injection vulnerability via the keywords parameter.
+- [Live-Hack-CVE/CVE-2022-45019](https://github.com/Live-Hack-CVE/CVE-2022-45019)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45019">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45019">
 
 ---
 ## CVE-2022-45010 (2022-12-07T02:15:00)
@@ -1141,6 +1173,11 @@
 - [Live-Hack-CVE/CVE-2022-43867](https://github.com/Live-Hack-CVE/CVE-2022-43867)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43867">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43867">
 
 ---
+## CVE-2022-43706 (2022-12-05T23:15:00)
+> Cross-site scripting (XSS) vulnerability in the Web UI of StackStorm versions prior to 3.8.0 allowed logged in users with write access to pack rules to inject arbitrary script or HTML that may be executed in Web UI for other logged in users.
+- [Live-Hack-CVE/CVE-2022-43706](https://github.com/Live-Hack-CVE/CVE-2022-43706)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43706">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43706">
+
+---
 ## CVE-2022-43680 (2022-10-24T14:15:00)
 > In libexpat through 2.4.9, there is a use-after free caused by overeager destruction of a shared DTD in XML_ExternalEntityParserCreate in out-of-memory situations.
 - [nidhi7598/G3_expat-2.2.6_CVE-2022-43680](https://github.com/nidhi7598/G3_expat-2.2.6_CVE-2022-43680)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/G3_expat-2.2.6_CVE-2022-43680">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/G3_expat-2.2.6_CVE-2022-43680">
@@ -1255,6 +1292,7 @@
 ## CVE-2022-43097 (2022-12-05T20:15:00)
 > Phpgurukul User Registration & User Management System v3.0 was discovered to contain multiple stored cross-site scripting (XSS) vulnerabilities via the firstname and lastname parameters of the registration form & login pages.
 - [nibin-m/CVE-2022-43097](https://github.com/nibin-m/CVE-2022-43097)	<img alt="forks" src="https://img.shields.io/github/forks/nibin-m/CVE-2022-43097">	<img alt="stars" src="https://img.shields.io/github/stars/nibin-m/CVE-2022-43097">
+- [Live-Hack-CVE/CVE-2022-43097](https://github.com/Live-Hack-CVE/CVE-2022-43097)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43097">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43097">
 
 ---
 ## CVE-2022-43096 (2022-11-17T23:15:00)
@@ -1926,6 +1964,11 @@
 - [Live-Hack-CVE/CVE-2022-41653](https://github.com/Live-Hack-CVE/CVE-2022-41653)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41653">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41653">
 
 ---
+## CVE-2022-41642 (2022-12-05T04:15:00)
+> OS command injection vulnerability in Nadesiko3 (PC Version) v3.3.61 and earlier allows a remote attacker to execute an arbitrary OS command when processing compression and decompression on the product.
+- [Live-Hack-CVE/CVE-2022-41642](https://github.com/Live-Hack-CVE/CVE-2022-41642)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41642">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41642">
+
+---
 ## CVE-2022-41560 (2022-12-06T19:15:00)
 > The Statement Set Upload via the Web Client component of TIBCO Software Inc.'s TIBCO Nimbus contains an easily exploitable vulnerability that allows a low privileged attacker with network access to execute a Denial of Service Attack on the affected system. Affected releases are TIBCO Software Inc.'s TIBCO Nimbus: version 10.5.0.
 - [Live-Hack-CVE/CVE-2022-41560](https://github.com/Live-Hack-CVE/CVE-2022-41560)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41560">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41560">
@@ -2213,6 +2256,11 @@
 ## CVE-2022-4097 (2022-12-12T18:15:00)
 > The All-In-One Security (AIOS) WordPress plugin before 5.0.8 is susceptible to IP Spoofing attacks, which can lead to bypassed security features (like IP blocks, rate limiting, brute force protection, and more).
 - [Live-Hack-CVE/CVE-2022-4097](https://github.com/Live-Hack-CVE/CVE-2022-4097)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4097">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4097">
+
+---
+## CVE-2022-40968 (2022-12-04T23:15:00)
+> Reflected Cross-Site Scripting (XSS) vulnerability in 2kb Amazon Affiliates Store plugin <=2.1.5 on WordPress.
+- [Live-Hack-CVE/CVE-2022-40968](https://github.com/Live-Hack-CVE/CVE-2022-40968)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40968">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40968">
 
 ---
 ## CVE-2022-40955 (2022-09-20T14:15:00)
@@ -2509,6 +2557,11 @@
 - [harry1osborn/CVE-2022-39395](https://github.com/harry1osborn/CVE-2022-39395)	<img alt="forks" src="https://img.shields.io/github/forks/harry1osborn/CVE-2022-39395">	<img alt="stars" src="https://img.shields.io/github/stars/harry1osborn/CVE-2022-39395">
 
 ---
+## CVE-2022-39384 (2022-11-04T22:15:00)
+> OpenZeppelin Contracts is a library for secure smart contract development. Before version 4.4.1 but after 3.2.0, initializer functions that are invoked separate from contract creation (the most prominent example being minimal proxies) may be reentered if they make an untrusted non-view external call. Once an initializer has finished running it can never be re-executed. However, an exception put in place to support multiple inheritance made reentrancy possible in the scenario described above, breaking the expectation that there is a single execution. Note that upgradeable proxies are commonly initialized together with contract creation, where reentrancy is not feasible, so the impact of this issue is believed to be minor. This issue has been patched, please upgrade to version 4.4.1. As a workaround, avoid untrusted external calls during initialization.
+- [Live-Hack-CVE/CVE-2022-39384](https://github.com/Live-Hack-CVE/CVE-2022-39384)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39384">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39384">
+
+---
 ## CVE-2022-39304 (2022-12-20T20:15:00)
 > ghinstallation provides transport, which implements http.RoundTripper to provide authentication as an installation for GitHub Apps. In ghinstallation version 1, when the request to refresh an installation token failed, the HTTP request and response would be returned for debugging. The request contained the bearer JWT for the App, and was returned back to clients. This token is short lived (10 minute maximum). This issue has been patched and is available in version 2.0.0.
 - [Live-Hack-CVE/CVE-2022-39304](https://github.com/Live-Hack-CVE/CVE-2022-39304)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39304">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39304">
@@ -2657,6 +2710,11 @@
 - [Live-Hack-CVE/CVE-2022-39090](https://github.com/Live-Hack-CVE/CVE-2022-39090)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39090">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39090">
 
 ---
+## CVE-2022-3909 (2022-12-05T17:15:00)
+> The Add Comments WordPress plugin through 1.0.1 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup).
+- [Live-Hack-CVE/CVE-2022-3909](https://github.com/Live-Hack-CVE/CVE-2022-3909)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3909">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3909">
+
+---
 ## CVE-2022-39066 (2022-11-22T17:15:00)
 > There is a SQL injection vulnerability in ZTE MF286R. Due to insufficient validation of the input parameters of the phonebook interface, an authenticated attacker could use the vulnerability to execute arbitrary SQL injection.
 - [v0lp3/CVE-2022-39066](https://github.com/v0lp3/CVE-2022-39066)	<img alt="forks" src="https://img.shields.io/github/forks/v0lp3/CVE-2022-39066">	<img alt="stars" src="https://img.shields.io/github/stars/v0lp3/CVE-2022-39066">
@@ -2761,6 +2819,11 @@
 ## CVE-2022-38337 (2022-12-06T00:15:00)
 > When aborting a SFTP connection, MobaXterm before v22.1 sends a hardcoded password to the server. The server treats this as an invalid login attempt which can result in a Denial of Service (DoS) for the user if services like fail2ban are used.
 - [Live-Hack-CVE/CVE-2022-38337](https://github.com/Live-Hack-CVE/CVE-2022-38337)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38337">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38337">
+
+---
+## CVE-2022-38336 (2022-12-06T00:15:00)
+> An access control issue in MobaXterm before v22.1 allows attackers to make connections to the server via the SSH or SFTP protocols without authentication.
+- [Live-Hack-CVE/CVE-2022-38336](https://github.com/Live-Hack-CVE/CVE-2022-38336)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38336">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38336">
 
 ---
 ## CVE-2022-38266 (2022-09-09T22:15:00)
@@ -3214,6 +3277,11 @@
 - [rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc](https://github.com/rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc)	<img alt="forks" src="https://img.shields.io/github/forks/rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc">	<img alt="stars" src="https://img.shields.io/github/stars/rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc">
 - [cybersecurityworks553/CVE-2022-3602-and-CVE-2022-3786](https://github.com/cybersecurityworks553/CVE-2022-3602-and-CVE-2022-3786)	<img alt="forks" src="https://img.shields.io/github/forks/cybersecurityworks553/CVE-2022-3602-and-CVE-2022-3786">	<img alt="stars" src="https://img.shields.io/github/stars/cybersecurityworks553/CVE-2022-3602-and-CVE-2022-3786">
 - [corelight/CVE-2022-3602](https://github.com/corelight/CVE-2022-3602)	<img alt="forks" src="https://img.shields.io/github/forks/corelight/CVE-2022-3602">	<img alt="stars" src="https://img.shields.io/github/stars/corelight/CVE-2022-3602">
+
+---
+## CVE-2022-35961 (2022-08-15T11:21:00)
+> OpenZeppelin Contracts is a library for secure smart contract development. The functions `ECDSA.recover` and `ECDSA.tryRecover` are vulnerable to a kind of signature malleability due to accepting EIP-2098 compact signatures in addition to the traditional 65 byte signature format. This is only an issue for the functions that take a single `bytes` argument, and not the functions that take `r, v, s` or `r, vs` as separate arguments. The potentially affected contracts are those that implement signature reuse or replay protection by marking the signature itself as used rather than the signed message or a nonce included in it. A user may take a signature that has already been submitted, submit it again in a different form, and bypass this protection. The issue has been patched in 4.7.3.
+- [Live-Hack-CVE/CVE-2022-35961](https://github.com/Live-Hack-CVE/CVE-2022-35961)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35961">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35961">
 
 ---
 ## CVE-2022-35914 (2022-09-19T16:15:00)
@@ -3953,6 +4021,11 @@
 ## CVE-2022-31245 (2022-05-20T15:15:00)
 > mailcow before 2022-05d allows a remote authenticated user to inject OS commands and escalate privileges to domain admin via the --debug option in conjunction with the ---PIPEMESS option in Sync Jobs.
 - [ly1g3/Mailcow-CVE-2022-31245](https://github.com/ly1g3/Mailcow-CVE-2022-31245)	<img alt="forks" src="https://img.shields.io/github/forks/ly1g3/Mailcow-CVE-2022-31245">	<img alt="stars" src="https://img.shields.io/github/stars/ly1g3/Mailcow-CVE-2022-31245">
+
+---
+## CVE-2022-31198 (2022-08-01T21:15:00)
+> OpenZeppelin Contracts is a library for secure smart contract development. This issue concerns instances of Governor that use the module `GovernorVotesQuorumFraction`, a mechanism that determines quorum requirements as a percentage of the voting token's total supply. In affected instances, when a proposal is passed to lower the quorum requirements, past proposals may become executable if they had been defeated only due to lack of quorum, and the number of votes it received meets the new quorum requirement. Analysis of instances on chain found only one proposal that met this condition, and we are actively monitoring for new occurrences of this particular issue. This issue has been patched in v4.7.2. Users are advised to upgrade. Users unable to upgrade should consider avoiding lowering quorum requirements if a past proposal was defeated for lack of quorum.
+- [Live-Hack-CVE/CVE-2022-31198](https://github.com/Live-Hack-CVE/CVE-2022-31198)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31198">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31198">
 
 ---
 ## CVE-2022-31188 (2022-08-01T20:15:00)
@@ -5099,6 +5172,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-23470 (2022-12-06T18:15:00)
 > Galaxy is an open-source platform for data analysis. An arbitrary file read exists in Galaxy 22.01 and Galaxy 22.05 due to the switch to Gunicorn, which can be used to read any file accessible to the operating system user under which Galaxy is running. This vulnerability affects Galaxy 22.01 and higher, after the switch to gunicorn, which serve static contents directly. Additionally, the vulnerability is mitigated when using Nginx or Apache to serve /static/* contents, instead of Galaxy's internal middleware. This issue has been patched in commit `e5e6bda4f` and will be included in future releases. Users are advised to manually patch their installations. There are no known workarounds for this vulnerability.
 - [Live-Hack-CVE/CVE-2022-23470](https://github.com/Live-Hack-CVE/CVE-2022-23470)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23470">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23470">
+
+---
+## CVE-2022-23467 (2022-12-05T20:15:00)
+> OpenRazer is an open source driver and user-space daemon to control Razer device lighting and other features on GNU/Linux. Using a modified USB device an attacker can leak stack addresses of the `razer_attr_read_dpi_stages`, potentially bypassing KASLR. To exploit this vulnerability an attacker would need to access to a users keyboard or mouse or would need to convince a user to use a modified device. The issue has been patched in v3.5.1. Users are advised to upgrade and should be reminded not to plug in unknown USB devices.
+- [Live-Hack-CVE/CVE-2022-23467](https://github.com/Live-Hack-CVE/CVE-2022-23467)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23467">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23467">
 
 ---
 ## CVE-2022-23342 (2022-06-21T14:15:00)

@@ -381,6 +381,12 @@
 - [mansoorr123/wp-file-manager-CVE-2020-25213](https://github.com/mansoorr123/wp-file-manager-CVE-2020-25213)	<img alt="forks" src="https://img.shields.io/github/forks/mansoorr123/wp-file-manager-CVE-2020-25213">	<img alt="stars" src="https://img.shields.io/github/stars/mansoorr123/wp-file-manager-CVE-2020-25213">
 
 ---
+## CVE-2020-24032 (2020-08-18T21:15:00)
+> tz.pl on XoruX LPAR2RRD and STOR2RRD 2.70 virtual appliances allows cmd=set&tz=OS command injection via shell metacharacters in a timezone.
+- [Live-Hack-CVE/CVE-2020-24032](https://github.com/Live-Hack-CVE/CVE-2020-24032)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24032">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24032">
+- [jet-pentest/CVE-2020-24032](https://github.com/jet-pentest/CVE-2020-24032)	<img alt="forks" src="https://img.shields.io/github/forks/jet-pentest/CVE-2020-24032">	<img alt="stars" src="https://img.shields.io/github/stars/jet-pentest/CVE-2020-24032">
+
+---
 ## CVE-2020-23593 (2022-11-23T01:15:00)
 > A vulnerability in OPTILINK OP-XT71000N Hardware Version: V2.2, Firmware Version: OP_V3.3.1-191028 allows an unauthenticated, remote attacker to conduct a cross site request forgery (CSRF) attack to enable syslog mode through ' /mgm_log_cfg.asp.' The system starts to log events, 'Remote' mode or 'Both' mode on "Syslog -- Configuration page" logs events and sends to remote syslog server IP and Port.
 - [huzaifahussain98/CVE-2020-23593](https://github.com/huzaifahussain98/CVE-2020-23593)	<img alt="forks" src="https://img.shields.io/github/forks/huzaifahussain98/CVE-2020-23593">	<img alt="stars" src="https://img.shields.io/github/stars/huzaifahussain98/CVE-2020-23593">
@@ -579,11 +585,31 @@
 - [Live-Hack-CVE/CVE-2020-14394](https://github.com/Live-Hack-CVE/CVE-2020-14394)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14394">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14394">
 
 ---
+## CVE-2020-14367 (2020-08-24T15:15:00)
+> A flaw was found in chrony versions before 3.5.1 when creating the PID file under the /var/run/chrony folder. The file is created during chronyd startup while still running as the root user, and when it's opened for writing, chronyd does not check for an existing symbolic link with the same file name. This flaw allows an attacker with privileged access to create a symlink with the default PID file name pointing to any destination file in the system, resulting in data loss and a denial of service due to the path traversal.
+- [Live-Hack-CVE/CVE-2020-14367](https://github.com/Live-Hack-CVE/CVE-2020-14367)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14367">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14367">
+
+---
+## CVE-2020-14044 (2020-08-24T16:15:00)
+> ** PRODUCT NOT SUPPORTED WHEN ASSIGNED ** A Server-Side Request Forgery (SSRF) vulnerability was found in Codiad v1.7.8 and later. A user with admin privileges could use the plugin install feature to make the server request any URL via components/market/class.market.php. This could potentially result in remote code execution. NOTE: the vendor states "Codiad is no longer under active maintenance by core contributors."
+- [Live-Hack-CVE/CVE-2020-14044](https://github.com/Live-Hack-CVE/CVE-2020-14044)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14044">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14044">
+
+---
+## CVE-2020-14043 (2020-08-24T16:15:00)
+> ** PRODUCT NOT SUPPORTED WHEN ASSIGNED ** A Cross Side Request Forgery (CSRF) vulnerability was found in Codiad v1.7.8 and later. The request to download a plugin from the marketplace is only available to admin users and it isn't CSRF protected in components/market/controller.php. This might cause admins to make a vulnerable request without them knowing and result in remote code execution. NOTE: the vendor states "Codiad is no longer under active maintenance by core contributors."
+- [Live-Hack-CVE/CVE-2020-14043](https://github.com/Live-Hack-CVE/CVE-2020-14043)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14043">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14043">
+
+---
 ## CVE-2020-13937 (2020-10-19T21:15:00)
 > Apache Kylin 2.0.0, 2.1.0, 2.2.0, 2.3.0, 2.3.1, 2.3.2, 2.4.0, 2.4.1, 2.5.0, 2.5.1, 2.5.2, 2.6.0, 2.6.1, 2.6.2, 2.6.3, 2.6.4, 2.6.5, 2.6.6, 3.0.0-alpha, 3.0.0-alpha2, 3.0.0-beta, 3.0.0, 3.0.1, 3.0.2, 3.1.0, 4.0.0-alpha has one restful api which exposed Kylin's configuration information without any authentication, so it is dangerous because some confidential information entries will be disclosed to everyone.
 - [kailing0220/CVE-2020-13937](https://github.com/kailing0220/CVE-2020-13937)	<img alt="forks" src="https://img.shields.io/github/forks/kailing0220/CVE-2020-13937">	<img alt="stars" src="https://img.shields.io/github/stars/kailing0220/CVE-2020-13937">
 - [Al1ex/CVE-2020-13937](https://github.com/Al1ex/CVE-2020-13937)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/CVE-2020-13937">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/CVE-2020-13937">
 - [yaunsky/CVE-2020-13937](https://github.com/yaunsky/CVE-2020-13937)	<img alt="forks" src="https://img.shields.io/github/forks/yaunsky/CVE-2020-13937">	<img alt="stars" src="https://img.shields.io/github/stars/yaunsky/CVE-2020-13937">
+
+---
+## CVE-2020-13101 (2020-08-24T08:15:00)
+> In OASIS Digital Signature Services (DSS) 1.0, an attacker can control the validation outcome (i.e., trigger either a valid or invalid outcome for a valid or invalid signature) via a crafted XML signature, when the InlineXML option is used. This defeats the expectation of non-repudiation.
+- [Live-Hack-CVE/CVE-2020-13101](https://github.com/Live-Hack-CVE/CVE-2020-13101)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13101">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13101">
 
 ---
 ## CVE-2020-11022 (2020-04-29T22:15:00)

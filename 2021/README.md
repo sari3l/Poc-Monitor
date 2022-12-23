@@ -1142,6 +1142,11 @@
 - [Live-Hack-CVE/CVE-2021-34427](https://github.com/Live-Hack-CVE/CVE-2021-34427)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34427">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34427">
 
 ---
+## CVE-2021-34181 (2022-12-05T21:15:00)
+> Cross Site Scripting (XSS) vulnerability in TomExam 3.0 via p_name parameter to list.thtml.
+- [Live-Hack-CVE/CVE-2021-34181](https://github.com/Live-Hack-CVE/CVE-2021-34181)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34181">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34181">
+
+---
 ## CVE-2021-33895 (2021-06-25T14:15:00)
 > ETINET BACKBOX E4.09 and H4.09 mismanages password access control. When a user uses the User ID of the process running BBSV to login to the Backbox UI application, the system procedure (USER_AUTHENTICATE_) used for verifying the Password returns 0 (no error). The reason is that the user is not running the XYGate application. Hence, BBSV assumes the Password is correct. For H4.09, the affected version isT0954V04^AAO. For E4.09, the affected version is 22SEP2020. Note: If your current version is E4.10-16MAY2021 (version procedure T9999V04_16MAY2022_BPAKETI_10), a hotfix (FIXPAK-19OCT-2022) is available in version E4.10-19OCT2022. Resolution to CVE-2021-33895 in version E4.11-19OCT2022
 - [Live-Hack-CVE/CVE-2021-33895](https://github.com/Live-Hack-CVE/CVE-2021-33895)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33895">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33895">
