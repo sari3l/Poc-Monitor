@@ -427,6 +427,11 @@
 - [nidhi7598/linux-3.0.35_CVE-2018-13405](https://github.com/nidhi7598/linux-3.0.35_CVE-2018-13405)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-3.0.35_CVE-2018-13405">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-3.0.35_CVE-2018-13405">
 
 ---
+## CVE-2018-12207 (2019-11-14T20:15:00)
+> Improper invalidation for page table updates by a virtual guest operating system for multiple Intel(R) Processors may allow an authenticated user to potentially enable denial of service of the host system via local access.
+- [Live-Hack-CVE/CVE-2018-12207](https://github.com/Live-Hack-CVE/CVE-2018-12207)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-12207">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-12207">
+
+---
 ## CVE-2018-11321 (2018-05-22T15:29:00)
 > An issue was discovered in com_fields in Joomla! Core before 3.8.8. Inadequate filtering allows users authorised to create custom fields to manipulate the filtering options and inject an unvalidated option.
 - [ExploitCN/CVE-2018-11321](https://github.com/ExploitCN/CVE-2018-11321)	<img alt="forks" src="https://img.shields.io/github/forks/ExploitCN/CVE-2018-11321">	<img alt="stars" src="https://img.shields.io/github/stars/ExploitCN/CVE-2018-11321">

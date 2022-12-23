@@ -3100,9 +3100,24 @@
 - [Live-Hack-CVE/CVE-2022-41127](https://github.com/Live-Hack-CVE/CVE-2022-41127)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41127">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41127">
 
 ---
+## CVE-2022-41122 (2022-11-09T22:15:00)
+> Microsoft SharePoint Server Spoofing Vulnerability.
+- [Live-Hack-CVE/CVE-2022-41122](https://github.com/Live-Hack-CVE/CVE-2022-41122)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41122">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41122">
+
+---
 ## CVE-2022-41121 (2022-12-13T19:15:00)
 > Windows Graphics Component Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-44671, CVE-2022-44680, CVE-2022-44697.
 - [Live-Hack-CVE/CVE-2022-41121](https://github.com/Live-Hack-CVE/CVE-2022-41121)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41121">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41121">
+
+---
+## CVE-2022-41119 (2022-11-09T22:15:00)
+> Visual Studio Remote Code Execution Vulnerability.
+- [Live-Hack-CVE/CVE-2022-41119](https://github.com/Live-Hack-CVE/CVE-2022-41119)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41119">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41119">
+
+---
+## CVE-2022-41118 (2022-11-09T22:15:00)
+> Windows Scripting Languages Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-41128.
+- [Live-Hack-CVE/CVE-2022-41118](https://github.com/Live-Hack-CVE/CVE-2022-41118)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41118">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41118">
 
 ---
 ## CVE-2022-41116 (2022-11-09T22:15:00)
@@ -3128,6 +3143,21 @@
 ## CVE-2022-41109 (2022-11-09T22:15:00)
 > Windows Win32k Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41092.
 - [Live-Hack-CVE/CVE-2022-41109](https://github.com/Live-Hack-CVE/CVE-2022-41109)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41109">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41109">
+
+---
+## CVE-2022-41107 (2022-11-09T22:15:00)
+> Microsoft Office Graphics Remote Code Execution Vulnerability.
+- [Live-Hack-CVE/CVE-2022-41107](https://github.com/Live-Hack-CVE/CVE-2022-41107)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41107">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41107">
+
+---
+## CVE-2022-41105 (2022-11-09T22:15:00)
+> Microsoft Excel Information Disclosure Vulnerability.
+- [Live-Hack-CVE/CVE-2022-41105](https://github.com/Live-Hack-CVE/CVE-2022-41105)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41105">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41105">
+
+---
+## CVE-2022-41104 (2022-11-09T22:15:00)
+> Microsoft Excel Security Feature Bypass Vulnerability.
+- [Live-Hack-CVE/CVE-2022-41104](https://github.com/Live-Hack-CVE/CVE-2022-41104)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41104">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41104">
 
 ---
 ## CVE-2022-41103 (2022-11-09T22:15:00)
@@ -3222,6 +3252,11 @@
 - [Live-Hack-CVE/CVE-2022-41074](https://github.com/Live-Hack-CVE/CVE-2022-41074)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41074">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41074">
 
 ---
+## CVE-2022-41066 (2022-11-09T22:15:00)
+> Microsoft Business Central Information Disclosure Vulnerability.
+- [Live-Hack-CVE/CVE-2022-41066](https://github.com/Live-Hack-CVE/CVE-2022-41066)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41066">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41066">
+
+---
 ## CVE-2022-41064 (2022-11-09T22:15:00)
 > .NET Framework Information Disclosure Vulnerability.
 - [Live-Hack-CVE/CVE-2022-41064](https://github.com/Live-Hack-CVE/CVE-2022-41064)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41064">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41064">
@@ -3237,9 +3272,24 @@
 - [Live-Hack-CVE/CVE-2022-41060](https://github.com/Live-Hack-CVE/CVE-2022-41060)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41060">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41060">
 
 ---
+## CVE-2022-41058 (2022-11-09T22:15:00)
+> Windows Network Address Translation (NAT) Denial of Service Vulnerability.
+- [Live-Hack-CVE/CVE-2022-41058](https://github.com/Live-Hack-CVE/CVE-2022-41058)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41058">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41058">
+
+---
 ## CVE-2022-41057 (2022-11-09T22:15:00)
 > Windows HTTP.sys Elevation of Privilege Vulnerability.
 - [Live-Hack-CVE/CVE-2022-41057](https://github.com/Live-Hack-CVE/CVE-2022-41057)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41057">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41057">
+
+---
+## CVE-2022-41056 (2022-11-09T22:15:00)
+> Network Policy Server (NPS) RADIUS Protocol Denial of Service Vulnerability.
+- [Live-Hack-CVE/CVE-2022-41056](https://github.com/Live-Hack-CVE/CVE-2022-41056)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41056">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41056">
+
+---
+## CVE-2022-41055 (2022-11-09T22:15:00)
+> Windows Human Interface Device Information Disclosure Vulnerability.
+- [Live-Hack-CVE/CVE-2022-41055](https://github.com/Live-Hack-CVE/CVE-2022-41055)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41055">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41055">
 
 ---
 ## CVE-2022-41054 (2022-11-09T22:15:00)
@@ -3270,6 +3320,26 @@
 ## CVE-2022-41049 (2022-11-09T22:15:00)
 > Windows Mark of the Web Security Feature Bypass Vulnerability. This CVE ID is unique from CVE-2022-41091.
 - [NathanScottGithub/CVE-2022-41049-POC](https://github.com/NathanScottGithub/CVE-2022-41049-POC)	<img alt="forks" src="https://img.shields.io/github/forks/NathanScottGithub/CVE-2022-41049-POC">	<img alt="stars" src="https://img.shields.io/github/stars/NathanScottGithub/CVE-2022-41049-POC">
+
+---
+## CVE-2022-41048 (2022-11-09T22:15:00)
+> Microsoft ODBC Driver Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-41047.
+- [Live-Hack-CVE/CVE-2022-41048](https://github.com/Live-Hack-CVE/CVE-2022-41048)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41048">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41048">
+
+---
+## CVE-2022-41047 (2022-11-09T22:15:00)
+> Microsoft ODBC Driver Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-41048.
+- [Live-Hack-CVE/CVE-2022-41047](https://github.com/Live-Hack-CVE/CVE-2022-41047)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41047">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41047">
+
+---
+## CVE-2022-41045 (2022-11-09T22:15:00)
+> Windows Advanced Local Procedure Call (ALPC) Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41093, CVE-2022-41100.
+- [Live-Hack-CVE/CVE-2022-41045](https://github.com/Live-Hack-CVE/CVE-2022-41045)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41045">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41045">
+
+---
+## CVE-2022-41044 (2022-11-09T22:15:00)
+> Windows Point-to-Point Tunneling Protocol Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-41039, CVE-2022-41088.
+- [Live-Hack-CVE/CVE-2022-41044](https://github.com/Live-Hack-CVE/CVE-2022-41044)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41044">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41044">
 
 ---
 ## CVE-2022-41043 (2022-10-11T19:15:00)
@@ -3310,6 +3380,11 @@
 - [trhacknon/CVE-2022-41040-metasploit-ProxyNotShell](https://github.com/trhacknon/CVE-2022-41040-metasploit-ProxyNotShell)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-41040-metasploit-ProxyNotShell">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-41040-metasploit-ProxyNotShell">
 - [stat1st1c/CVE-2022-41082-RCE-POC](https://github.com/stat1st1c/CVE-2022-41082-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/stat1st1c/CVE-2022-41082-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/stat1st1c/CVE-2022-41082-RCE-POC">
 - [Live-Hack-CVE/CVE-2022-41040](https://github.com/Live-Hack-CVE/CVE-2022-41040)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41040">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41040">
+
+---
+## CVE-2022-41039 (2022-11-09T22:15:00)
+> Windows Point-to-Point Tunneling Protocol Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-41044, CVE-2022-41088.
+- [Live-Hack-CVE/CVE-2022-41039](https://github.com/Live-Hack-CVE/CVE-2022-41039)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41039">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41039">
 
 ---
 ## CVE-2022-410 ()
@@ -3731,6 +3806,11 @@
 - [Live-Hack-CVE/CVE-2022-39902](https://github.com/Live-Hack-CVE/CVE-2022-39902)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39902">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39902">
 
 ---
+## CVE-2022-39889 (2022-11-09T22:15:00)
+> Improper access control vulnerability in GalaxyWatch4Plugin prior to versions 2.2.11.22101351 and 2.2.12.22101351 allows attackers to access wearable device information.
+- [Live-Hack-CVE/CVE-2022-39889](https://github.com/Live-Hack-CVE/CVE-2022-39889)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39889">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39889">
+
+---
 ## CVE-2022-3988 (2022-11-14T11:15:00)
 > A vulnerability was found in Frappe. It has been rated as problematic. Affected by this issue is some unknown functionality of the file frappe/templates/includes/navbar/navbar_search.html of the component Search. The manipulation of the argument q leads to cross site scripting. The attack may be launched remotely. The name of the patch is bfab7191543961c6cb77fe267063877c31b616ce. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-213560.
 - [Live-Hack-CVE/CVE-2022-3988](https://github.com/Live-Hack-CVE/CVE-2022-3988)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3988">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3988">
@@ -3819,9 +3899,19 @@
 - [Live-Hack-CVE/CVE-2022-39399](https://github.com/Live-Hack-CVE/CVE-2022-39399)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39399">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39399">
 
 ---
+## CVE-2022-39398 (2022-11-10T01:15:00)
+> tasklists is a tasklists plugin for GLPI (Kanban). Versions prior to 2.0.3 are vulnerable to Cross-site Scripting. Cross-site Scripting (XSS) - Create XSS in task content (when add it). This issue is patched in version 2.0.3. There are no known workarounds.
+- [Live-Hack-CVE/CVE-2022-39398](https://github.com/Live-Hack-CVE/CVE-2022-39398)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39398">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39398">
+
+---
 ## CVE-2022-39397 (2022-11-22T21:15:00)
 > aliyun-oss-client is a rust client for Alibaba Cloud OSS. Users of this library will be affected, the incoming secret will be disclosed unintentionally. This issue has been patched in version 0.8.1.
 - [Live-Hack-CVE/CVE-2022-39397](https://github.com/Live-Hack-CVE/CVE-2022-39397)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39397">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39397">
+
+---
+## CVE-2022-39396 (2022-11-10T01:15:00)
+> Parse Server is an open source backend that can be deployed to any infrastructure that can run Node.js. Versions prior to 4.10.18, and prior to 5.3.1 on the 5.X branch, are vulnerable to Remote Code Execution via prototype pollution. An attacker can use this prototype pollution sink to trigger a remote code execution through the MongoDB BSON parser. This issue is patched in version 5.3.1 and in 4.10.18. There are no known workarounds.
+- [Live-Hack-CVE/CVE-2022-39396](https://github.com/Live-Hack-CVE/CVE-2022-39396)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39396">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39396">
 
 ---
 ## CVE-2022-39395 (2022-11-10T18:15:00)
@@ -4234,6 +4324,11 @@
 - [Live-Hack-CVE/CVE-2022-38266](https://github.com/Live-Hack-CVE/CVE-2022-38266)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38266">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38266">
 
 ---
+## CVE-2022-3819 (2022-11-10T00:15:00)
+> An improper authorization issue in GitLab CE/EE affecting all versions from 15.0 prior to 15.3.5, 15.4 prior to 15.4.4, and 15.5 prior to 15.5.2 allows a malicious users to set emojis on internal notes they don't have access to.
+- [Live-Hack-CVE/CVE-2022-3819](https://github.com/Live-Hack-CVE/CVE-2022-3819)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3819">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3819">
+
+---
 ## CVE-2022-38165 (2022-11-17T23:15:00)
 > Arbitrary file write in F-Secure Policy Manager through 2022-08-10 allows unauthenticated users to write the file with the contents in arbitrary locations on the F-Secure Policy Manager Server.
 - [Live-Hack-CVE/CVE-2022-38165](https://github.com/Live-Hack-CVE/CVE-2022-38165)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38165">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38165">
@@ -4292,6 +4387,11 @@
 ## CVE-2022-38075 (2022-11-18T19:15:00)
 > Cross-Site Request Forgery (CSRF) vulnerability leading to Stored Cross-Site Scripting (XSS) in Mantenimiento web plugin <= 0.13 on WordPress.
 - [Live-Hack-CVE/CVE-2022-38075](https://github.com/Live-Hack-CVE/CVE-2022-38075)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38075">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38075">
+
+---
+## CVE-2022-38046 (2022-10-11T19:15:00)
+> Web Account Manager Information Disclosure Vulnerability.
+- [Live-Hack-CVE/CVE-2022-38046](https://github.com/Live-Hack-CVE/CVE-2022-38046)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38046">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38046">
 
 ---
 ## CVE-2022-38045 (2022-10-11T19:15:00)
@@ -4490,6 +4590,11 @@
 - [Live-Hack-CVE/CVE-2022-37290](https://github.com/Live-Hack-CVE/CVE-2022-37290)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37290">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37290">
 
 ---
+## CVE-2022-3726 (2022-11-10T00:15:00)
+> Lack of sand-boxing of OpenAPI documents in GitLab CE/EE affecting all versions from 12.6 prior to 15.3.5, 15.4 prior to 15.4.4, and 15.5 prior to 15.5.2 allows an attacker to trick a user to click on the Swagger OpenAPI viewer and issue HTTP requests that affect the victim's account.
+- [Live-Hack-CVE/CVE-2022-3726](https://github.com/Live-Hack-CVE/CVE-2022-3726)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3726">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3726">
+
+---
 ## CVE-2022-3723 (2022-11-01T23:15:00)
 > Type confusion in V8 in Google Chrome prior to 107.0.5304.87 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [Live-Hack-CVE/CVE-2022-3723](https://github.com/Live-Hack-CVE/CVE-2022-3723)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3723">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3723">
@@ -4608,6 +4713,13 @@
 ## CVE-2022-37061 (2022-08-18T18:15:00)
 > All FLIR AX8 thermal sensor cameras version up to and including 1.46.16 are vulnerable to Remote Command Injection. This can be exploited to inject and execute arbitrary shell commands as the root user through the id HTTP POST parameter in the res.php endpoint. A successful exploit could allow the attacker to execute arbitrary commands on the underlying operating system with the root privileges.
 - [Live-Hack-CVE/CVE-2022-37061](https://github.com/Live-Hack-CVE/CVE-2022-37061)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37061">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37061">
+
+---
+## CVE-2022-3706 (2022-11-10T00:15:00)
+> Improper authorization in GitLab CE/EE affecting all versions from 7.14 prior to 15.3.5, 15.4 prior to 15.4.4, and 15.5 prior to 15.5.2 allows a user retrying a job in a downstream pipeline to take ownership of the retried jobs in the upstream pipeline even if the user doesn't have access to that project.
+- [Live-Hack-CVE/CVE-2022-3706](https://github.com/Live-Hack-CVE/CVE-2022-3706)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3706">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3706">
+- [Live-Hack-CVE/CVE-2022-37061](https://github.com/Live-Hack-CVE/CVE-2022-37061)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37061">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37061">
+- [Live-Hack-CVE/CVE-2022-37060](https://github.com/Live-Hack-CVE/CVE-2022-37060)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37060">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37060">
 
 ---
 ## CVE-2022-37042 (2022-08-12T15:15:00)
@@ -5178,9 +5290,19 @@
 - [Live-Hack-CVE/CVE-2022-34881](https://github.com/Live-Hack-CVE/CVE-2022-34881)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34881">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34881">
 
 ---
+## CVE-2022-3486 (2022-11-09T23:15:00)
+> An open redirect vulnerability in GitLab EE/CE affecting all versions from 9.3 prior to 15.3.5, 15.4 prior to 15.4.4, and 15.5 prior to 15.5.2, allows an attacker to redirect users to an arbitrary location if they trust the URL.
+- [Live-Hack-CVE/CVE-2022-3486](https://github.com/Live-Hack-CVE/CVE-2022-3486)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3486">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3486">
+
+---
 ## CVE-2022-3484 (2022-11-14T15:15:00)
 > The WPB Show Core WordPress plugin through TODO does not sanitise and escape a parameter before outputting it back in the page, leading to a Reflected Cross-Site Scripting
 - [Live-Hack-CVE/CVE-2022-3484](https://github.com/Live-Hack-CVE/CVE-2022-3484)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3484">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3484">
+
+---
+## CVE-2022-3483 (2022-11-09T23:15:00)
+> An issue has been discovered in GitLab CE/EE affecting all versions starting from 12.1 before 15.3.5, all versions starting from 15.4 before 15.4.4, all versions starting from 15.5 before 15.5.2. A malicious maintainer could exfiltrate a Datadog integration's access token by modifying the integration URL such that authenticated requests are sent to an attacker controlled server.
+- [Live-Hack-CVE/CVE-2022-3483](https://github.com/Live-Hack-CVE/CVE-2022-3483)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3483">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3483">
 
 ---
 ## CVE-2022-3481 (2022-11-07T10:15:00)
@@ -5234,6 +5356,16 @@
 - [kenyon-wong/cve-2022-3452](https://github.com/kenyon-wong/cve-2022-3452)	<img alt="forks" src="https://img.shields.io/github/forks/kenyon-wong/cve-2022-3452">	<img alt="stars" src="https://img.shields.io/github/stars/kenyon-wong/cve-2022-3452">
 
 ---
+## CVE-2022-3448 (2022-11-09T19:15:00)
+> Use after free in Permissions API in Google Chrome prior to 106.0.5249.119 allowed a remote attacker who convinced a user to engage in specific UI gestures to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
+- [Live-Hack-CVE/CVE-2022-3448](https://github.com/Live-Hack-CVE/CVE-2022-3448)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3448">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3448">
+
+---
+## CVE-2022-3447 (2022-11-09T19:15:00)
+> Inappropriate implementation in Custom Tabs in Google Chrome on Android prior to 106.0.5249.119 allowed a remote attacker to spoof the contents of the Omnibox (URL bar) via a crafted HTML page. (Chromium security severity: High)
+- [Live-Hack-CVE/CVE-2022-3447](https://github.com/Live-Hack-CVE/CVE-2022-3447)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3447">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3447">
+
+---
 ## CVE-2022-3444 (2022-11-01T20:15:00)
 > Insufficient data validation in File System API in Google Chrome prior to 106.0.5249.62 allowed a remote attacker to bypass File System restrictions via a crafted HTML page and malicious file. (Chromium security severity: Low)
 - [Live-Hack-CVE/CVE-2022-3444](https://github.com/Live-Hack-CVE/CVE-2022-3444)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3444">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3444">
@@ -5284,6 +5416,11 @@
 ## CVE-2022-3415 (2022-11-14T15:15:00)
 > The Chat Bubble WordPress plugin before 2.3 does not sanitise and escape some contact parameters, which could allow unauthenticated attackers to set Stored Cross-Site Scripting payloads in them, which will trigger when an admin view the related contact message
 - [Live-Hack-CVE/CVE-2022-3415](https://github.com/Live-Hack-CVE/CVE-2022-3415)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3415">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3415">
+
+---
+## CVE-2022-3413 (2022-11-10T00:15:00)
+> Incorrect authorization during display of Audit Events in GitLab EE affecting all versions from 14.5 prior to 15.3.5, 15.4 prior to 15.4.4, and 15.5 prior to 15.5.2, allowed Developers to view the project's Audit Events and Developers or Maintainers to view the group's Audit Events. These should have been restricted to Project Maintainers, Group Owners, and above.
+- [Live-Hack-CVE/CVE-2022-3413](https://github.com/Live-Hack-CVE/CVE-2022-3413)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3413">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3413">
 
 ---
 ## CVE-2022-33980 (2022-07-06T13:15:00)
@@ -5514,6 +5651,12 @@
 - [Live-Hack-CVE/CVE-2022-32868](https://github.com/Live-Hack-CVE/CVE-2022-32868)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32868">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32868">
 
 ---
+## CVE-2022-3285 (2022-11-09T23:15:00)
+> Bypass of healthcheck endpoint allow list affecting all versions from 12.0 prior to 15.2.5, 15.3 prior to 15.3.4, and 15.4 prior to 15.4.1 allows an unauthorized attacker to prevent access to GitLab
+- [Live-Hack-CVE/CVE-2022-3285](https://github.com/Live-Hack-CVE/CVE-2022-3285)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3285">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3285">
+- [Live-Hack-CVE/CVE-2022-32854](https://github.com/Live-Hack-CVE/CVE-2022-32854)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32854">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32854">
+
+---
 ## CVE-2022-32832 (2022-09-23T19:15:00)
 > The issue was addressed with improved memory handling. This issue is fixed in iOS 15.6 and iPadOS 15.6, macOS Big Sur 11.6.8, watchOS 8.7, tvOS 15.6, macOS Monterey 12.5, Security Update 2022-005 Catalina. An app with root privileges may be able to execute arbitrary code with kernel privileges.
 - [Muirey03/CVE-2022-32832](https://github.com/Muirey03/CVE-2022-32832)	<img alt="forks" src="https://img.shields.io/github/forks/Muirey03/CVE-2022-32832">	<img alt="stars" src="https://img.shields.io/github/stars/Muirey03/CVE-2022-32832">
@@ -5523,6 +5666,11 @@
 ## CVE-2022-32827 (2022-11-01T20:15:00)
 > A memory corruption issue was addressed with improved state management. This issue is fixed in iOS 16, macOS Ventura 13. An app may be able to cause a denial-of-service.
 - [Live-Hack-CVE/CVE-2022-32827](https://github.com/Live-Hack-CVE/CVE-2022-32827)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32827">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32827">
+
+---
+## CVE-2022-3280 (2022-11-09T23:15:00)
+> An open redirect in GitLab CE/EE affecting all versions from 10.1 prior to 15.3.5, 15.4 prior to 15.4.4, and 15.5 prior to 15.5.2 allows an attacker to trick users into visiting a trustworthy URL and being redirected to arbitrary content.
+- [Live-Hack-CVE/CVE-2022-3280](https://github.com/Live-Hack-CVE/CVE-2022-3280)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3280">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3280">
 
 ---
 ## CVE-2022-3278 (2022-09-23T22:15:00)
