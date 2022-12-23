@@ -1199,6 +1199,21 @@
 - [Live-Hack-CVE/CVE-2022-44748](https://github.com/Live-Hack-CVE/CVE-2022-44748)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44748">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44748">
 
 ---
+## CVE-2022-44746 (2022-11-07T20:15:00)
+> Sensitive information disclosure due to insecure folder permissions. The following products are affected: Acronis Cyber Protect Home Office (Windows) before build 40107.
+- [Live-Hack-CVE/CVE-2022-44746](https://github.com/Live-Hack-CVE/CVE-2022-44746)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44746">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44746">
+
+---
+## CVE-2022-44745 (2022-11-07T20:15:00)
+> Sensitive information leak through log files. The following products are affected: Acronis Cyber Protect Home Office (Windows) before build 40107.
+- [Live-Hack-CVE/CVE-2022-44745](https://github.com/Live-Hack-CVE/CVE-2022-44745)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44745">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44745">
+
+---
+## CVE-2022-44744 (2022-11-07T20:15:00)
+> Local privilege escalation due to DLL hijacking vulnerability. The following products are affected: Acronis Cyber Protect Home Office (Windows) before build 40107.
+- [Live-Hack-CVE/CVE-2022-44744](https://github.com/Live-Hack-CVE/CVE-2022-44744)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44744">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44744">
+
+---
 ## CVE-2022-44741 (2022-11-08T19:15:00)
 > Cross-Site Request Forgery (CSRF) vulnerability leading to Cross-Site Scripting (XSS) in David Anderson Testimonial Slider plugin <= 1.3.1 on WordPress.
 - [Live-Hack-CVE/CVE-2022-44741](https://github.com/Live-Hack-CVE/CVE-2022-44741)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44741">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44741">
@@ -1212,6 +1227,11 @@
 ## CVE-2022-44737 (2022-11-22T16:15:00)
 > Multiple Cross-Site Request Forgery vulnerabilities in All-In-One Security (AIOS) – Security and Firewall (WordPress plugin) <= 5.1.0 on WordPress.
 - [Live-Hack-CVE/CVE-2022-44737](https://github.com/Live-Hack-CVE/CVE-2022-44737)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44737">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44737">
+
+---
+## CVE-2022-44733 (2022-11-07T19:15:00)
+> Local privilege escalation due to insecure folder permissions. The following products are affected: Acronis Cyber Protect Home Office (Windows) before build 39900.
+- [Live-Hack-CVE/CVE-2022-44733](https://github.com/Live-Hack-CVE/CVE-2022-44733)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44733">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44733">
 
 ---
 ## CVE-2022-44727 (2022-11-10T17:15:00)
@@ -1529,6 +1549,36 @@
 - [Live-Hack-CVE/CVE-2022-44087](https://github.com/Live-Hack-CVE/CVE-2022-44087)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44087">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44087">
 
 ---
+## CVE-2022-44054 (2022-11-07T15:15:00)
+> The d8s-xml for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. A potential code execution backdoor inserted by third parties is the democritus-utility package. The affected version of d8s-htm is 0.1.0.
+- [Live-Hack-CVE/CVE-2022-44054](https://github.com/Live-Hack-CVE/CVE-2022-44054)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44054">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44054">
+
+---
+## CVE-2022-44053 (2022-11-07T15:15:00)
+> The d8s-networking for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. A potential code execution backdoor inserted by third parties is the democritus-user-agents package. The affected version of d8s-htm is 0.1.0.
+- [Live-Hack-CVE/CVE-2022-44053](https://github.com/Live-Hack-CVE/CVE-2022-44053)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44053">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44053">
+
+---
+## CVE-2022-44051 (2022-11-07T15:15:00)
+> The d8s-stats for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. A potential code execution backdoor inserted by third parties is the democritus-math package. The affected version of d8s-htm is 0.1.0.
+- [Live-Hack-CVE/CVE-2022-44051](https://github.com/Live-Hack-CVE/CVE-2022-44051)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44051">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44051">
+
+---
+## CVE-2022-44050 (2022-11-07T15:15:00)
+> The d8s-networking for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. A potential code execution backdoor inserted by third parties is the democritus-json package. The affected version of d8s-htm is 0.1.0.
+- [Live-Hack-CVE/CVE-2022-44050](https://github.com/Live-Hack-CVE/CVE-2022-44050)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44050">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44050">
+
+---
+## CVE-2022-44049 (2022-11-07T15:15:00)
+> The d8s-python for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. A potential code execution backdoor inserted by third parties is the democritus-grammars package. The affected version of d8s-htm is 0.1.0.
+- [Live-Hack-CVE/CVE-2022-44049](https://github.com/Live-Hack-CVE/CVE-2022-44049)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44049">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44049">
+
+---
+## CVE-2022-44048 (2022-11-07T15:15:00)
+> The d8s-urls for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. A potential code execution backdoor inserted by third parties is the democritus-domains package. The affected version of d8s-htm is 0.1.0.
+- [Live-Hack-CVE/CVE-2022-44048](https://github.com/Live-Hack-CVE/CVE-2022-44048)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44048">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44048">
+
+---
 ## CVE-2022-44039 (2022-12-05T21:15:00)
 > Franklin Fueling System FFS Colibri 1.9.22.8925 is affected by: File system overwrite. The impact is: File system rewrite (remote). ¶¶ An attacker can overwrite system files like [system.conf] and [passwd], this occurs because the insecure usage of "fopen" system function with the mode "wb" which allows overwriting file if exists. Overwriting files such as passwd, allows an attacker to escalate his privileges by planting backdoor user with root privilege or change root password.
 - [Live-Hack-CVE/CVE-2022-44039](https://github.com/Live-Hack-CVE/CVE-2022-44039)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44039">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44039">
@@ -1652,6 +1702,16 @@
 - [Live-Hack-CVE/CVE-2022-43581](https://github.com/Live-Hack-CVE/CVE-2022-43581)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43581">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43581">
 
 ---
+## CVE-2022-43572 (2022-11-04T23:15:00)
+> In Splunk Enterprise versions below 8.2.9, 8.1.12, and 9.0.2, sending a malformed file through the Splunk-to-Splunk (S2S) or HTTP Event Collector (HEC) protocols to an indexer results in a blockage or denial-of-service preventing further indexing.
+- [Live-Hack-CVE/CVE-2022-43572](https://github.com/Live-Hack-CVE/CVE-2022-43572)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43572">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43572">
+
+---
+## CVE-2022-43570 (2022-11-04T23:15:00)
+> In Splunk Enterprise versions below 8.1.12, 8.2.9, and 9.0.2, an authenticated user can perform an extensible markup language (XML) external entity (XXE) injection via a custom View. The XXE injection causes Splunk Web to embed incorrect documents into an error.
+- [Live-Hack-CVE/CVE-2022-43570](https://github.com/Live-Hack-CVE/CVE-2022-43570)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43570">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43570">
+
+---
 ## CVE-2022-43557 (2022-12-05T22:15:00)
 > The BD BodyGuard™ infusion pumps specified allow for access through the RS-232 (serial) port interface. If exploited, threat actors with physical access, specialized equipment and knowledge may be able to configure or disable the pump. No electronic protected health information (ePHI), protected health information (PHI) or personally identifiable information (PII) is stored in the pump.
 - [Live-Hack-CVE/CVE-2022-43557](https://github.com/Live-Hack-CVE/CVE-2022-43557)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43557">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43557">
@@ -1737,6 +1797,11 @@
 - [Live-Hack-CVE/CVE-2022-43463](https://github.com/Live-Hack-CVE/CVE-2022-43463)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43463">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43463">
 
 ---
+## CVE-2022-43397 (2022-11-08T11:15:00)
+> A vulnerability has been identified in Parasolid V34.0 (All versions < V34.0.252), Parasolid V34.1 (All versions < V34.1.242), Parasolid V35.0 (All versions < V35.0.170). The affected application contains an out of bounds write past the end of an allocated buffer while parsing specially crafted X_T files. This could allow an attacker to execute code in the context of the current process. (ZDI-CAN-17854)
+- [Live-Hack-CVE/CVE-2022-43397](https://github.com/Live-Hack-CVE/CVE-2022-43397)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43397">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43397">
+
+---
 ## CVE-2022-43369 (2022-12-06T19:15:00)
 > AutoTaxi Stand Management System v1.0 was discovered to contain a cross-site scripting (XSS) vulnerability via the component search.php.
 - [sudoninja-noob/CVE-2022-43369](https://github.com/sudoninja-noob/CVE-2022-43369)	<img alt="forks" src="https://img.shields.io/github/forks/sudoninja-noob/CVE-2022-43369">	<img alt="stars" src="https://img.shields.io/github/stars/sudoninja-noob/CVE-2022-43369">
@@ -1746,6 +1811,11 @@
 ## CVE-2022-43363 (2022-12-06T16:15:00)
 > ** DISPUTED ** Telegram Web 15.3.1 allows XSS via a certain payload derived from a Target Corporation website. NOTE: some third parties have been unable to discern any relationship between the Pastebin information and a possible XSS finding.
 - [Live-Hack-CVE/CVE-2022-43363](https://github.com/Live-Hack-CVE/CVE-2022-43363)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43363">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43363">
+
+---
+## CVE-2022-43343 (2022-11-08T15:15:00)
+> N-Prolog v1.91 was discovered to contain a global buffer overflow vulnerability in the function gettoken() at Main.c.
+- [Live-Hack-CVE/CVE-2022-43343](https://github.com/Live-Hack-CVE/CVE-2022-43343)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43343">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43343">
 
 ---
 ## CVE-2022-43333 (2022-12-01T22:15:00)
@@ -1768,9 +1838,39 @@
 - [Live-Hack-CVE/CVE-2022-43323](https://github.com/Live-Hack-CVE/CVE-2022-43323)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43323">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43323">
 
 ---
+## CVE-2022-43318 (2022-11-07T15:15:00)
+> Human Resource Management System v1.0 was discovered to contain a SQL injection vulnerability via the stateedit parameter at /hrm/state.php.
+- [Live-Hack-CVE/CVE-2022-43318](https://github.com/Live-Hack-CVE/CVE-2022-43318)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43318">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43318">
+
+---
+## CVE-2022-43317 (2022-11-07T15:15:00)
+> A cross-site scripting (XSS) vulnerability in /hrm/index.php?msg of Human Resource Management System v1.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload.
+- [Live-Hack-CVE/CVE-2022-43317](https://github.com/Live-Hack-CVE/CVE-2022-43317)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43317">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43317">
+
+---
 ## CVE-2022-43310 (2022-11-09T21:15:00)
 > An Uncontrolled Search Path Element in Foxit Software released Foxit Reader v11.2.118.51569 allows attackers to escalate privileges when searching for DLL libraries without specifying an absolute path.
 - [Live-Hack-CVE/CVE-2022-43310](https://github.com/Live-Hack-CVE/CVE-2022-43310)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43310">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43310">
+
+---
+## CVE-2022-43306 (2022-11-07T15:15:00)
+> The d8s-timer for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. A potential code execution backdoor inserted by third parties is the democritus-dates package. The affected version of d8s-htm is 0.1.0.
+- [Live-Hack-CVE/CVE-2022-43306](https://github.com/Live-Hack-CVE/CVE-2022-43306)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43306">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43306">
+
+---
+## CVE-2022-43305 (2022-11-07T15:15:00)
+> The d8s-python for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. A potential code execution backdoor inserted by third parties is the democritus-algorithms package. The affected version of d8s-htm is 0.1.0.
+- [Live-Hack-CVE/CVE-2022-43305](https://github.com/Live-Hack-CVE/CVE-2022-43305)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43305">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43305">
+
+---
+## CVE-2022-43304 (2022-11-07T15:15:00)
+> The d8s-timer for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. A potential code execution backdoor inserted by third parties is the democritus-uuids package. The affected version of d8s-htm is 0.1.0.
+- [Live-Hack-CVE/CVE-2022-43304](https://github.com/Live-Hack-CVE/CVE-2022-43304)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43304">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43304">
+
+---
+## CVE-2022-43303 (2022-11-07T15:15:00)
+> The d8s-strings for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. A potential code execution backdoor inserted by third parties is the democritus-uuids package. The affected version of d8s-htm is 0.1.0.
+- [Live-Hack-CVE/CVE-2022-43303](https://github.com/Live-Hack-CVE/CVE-2022-43303)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43303">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43303">
 
 ---
 ## CVE-2022-43285 (2022-10-28T21:15:00)
@@ -4142,6 +4242,11 @@
 - [Live-Hack-CVE/CVE-2022-3917](https://github.com/Live-Hack-CVE/CVE-2022-3917)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3917">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3917">
 
 ---
+## CVE-2022-39157 (2022-11-08T11:15:00)
+> A vulnerability has been identified in Parasolid V34.0 (All versions < V34.0.252), Parasolid V34.0 (All versions >= V34.0.252 < V34.0.254), Parasolid V34.1 (All versions < V34.1.242), Parasolid V34.1 (All versions >= V34.1.242 < V34.1.244), Parasolid V35.0 (All versions < V35.0.170), Parasolid V35.0 (All versions >= V35.0.170 < V35.0.184). The affected application contains an out of bounds read past the end of an allocated structure while parsing specially crafted X_T files. This could allow an attacker to execute code in the context of the current process. (ZDI-CAN-17745)
+- [Live-Hack-CVE/CVE-2022-39157](https://github.com/Live-Hack-CVE/CVE-2022-39157)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39157">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39157">
+
+---
 ## CVE-2022-39135 (2022-09-11T12:15:00)
 > In Apache Calcite prior to version 1.32.0 the SQL operators EXISTS_NODE, EXTRACT_XML, XML_TRANSFORM and EXTRACT_VALUE do not restrict XML External Entity references in their configuration, which makes them vulnerable to a potential XML External Entity (XXE) attack. Therefore any client exposing these operators, typically by using Oracle dialect (the first three) or MySQL dialect (the last one), is affected by this vulnerability (the extent of it will depend on the user under which the application is running). From Apache Calcite 1.32.0 onwards, Document Type Declarations and XML External Entity resolution are disabled on the impacted operators.
 - [Live-Hack-CVE/CVE-2022-39135](https://github.com/Live-Hack-CVE/CVE-2022-39135)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39135">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39135">
@@ -4646,6 +4751,11 @@
 - [Live-Hack-CVE/CVE-2022-37887](https://github.com/Live-Hack-CVE/CVE-2022-37887)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37887">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37887">
 
 ---
+## CVE-2022-37865 (2022-11-07T11:15:00)
+> With Apache Ivy 2.4.0 an optional packaging attribute has been introduced that allows artifacts to be unpacked on the fly if they used pack200 or zip packaging. For artifacts using the "zip", "jar" or "war" packaging Ivy prior to 2.5.1 doesn't verify the target path when extracting the archive. An archive containing absolute paths or paths that try to traverse "upwards" using ".." sequences can then write files to any location on the local fie system that the user executing Ivy has write access to. Ivy users of version 2.4.0 to 2.5.0 should upgrade to Ivy 2.5.1.
+- [Live-Hack-CVE/CVE-2022-37865](https://github.com/Live-Hack-CVE/CVE-2022-37865)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37865">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37865">
+
+---
 ## CVE-2022-37860 (2022-09-12T18:15:00)
 > The web configuration interface of the TP-Link M7350 V3 with firmware version 190531 is affected by a pre-authentication command injection vulnerability.
 - [Live-Hack-CVE/CVE-2022-37860](https://github.com/Live-Hack-CVE/CVE-2022-37860)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37860">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37860">
@@ -4671,6 +4781,11 @@
 ## CVE-2022-3775 (2022-12-19T20:15:00)
 > When rendering certain unicode sequences, grub2's font code doesn't proper validate if the informed glyph's width and height is constrained within bitmap size. As consequence an attacker can craft an input which will lead to a out-of-bounds write into grub2's heap, leading to memory corruption and availability issues. Although complex, arbitrary code execution could not be discarded.
 - [Live-Hack-CVE/CVE-2022-3775](https://github.com/Live-Hack-CVE/CVE-2022-3775)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3775">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3775">
+
+---
+## CVE-2022-37710 (2022-11-07T00:15:00)
+> Patterson Dental Eaglesoft 21 has AES-256 encryption but there are two ways to obtain a keyfile: (1) keybackup.data > License > Encryption Key or (2) Eaglesoft.Server.Configuration.data > DbEncryptKeyPrimary > Encryption Key. Applicable files are encrypted with keys and salt that are hardcoded into a DLL or EXE file.
+- [Live-Hack-CVE/CVE-2022-37710](https://github.com/Live-Hack-CVE/CVE-2022-37710)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37710">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37710">
 
 ---
 ## CVE-2022-37706 ()
@@ -6938,6 +7053,11 @@
 - [Live-Hack-CVE/CVE-2022-28805](https://github.com/Live-Hack-CVE/CVE-2022-28805)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28805">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28805">
 
 ---
+## CVE-2022-28739 (2022-05-09T18:15:00)
+> There is a buffer over-read in Ruby before 2.6.10, 2.7.x before 2.7.6, 3.x before 3.0.4, and 3.1.x before 3.1.2. It occurs in String-to-Float conversion, including Kernel#Float and String#to_f.
+- [Live-Hack-CVE/CVE-2022-28739](https://github.com/Live-Hack-CVE/CVE-2022-28739)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28739">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28739">
+
+---
 ## CVE-2022-28738 (2022-05-09T18:15:00)
 > A double free was found in the Regexp compiler in Ruby 3.x before 3.0.4 and 3.1.x before 3.1.2. If a victim attempts to create a Regexp from untrusted user input, an attacker may be able to write to unexpected memory locations.
 - [Live-Hack-CVE/CVE-2022-28738](https://github.com/Live-Hack-CVE/CVE-2022-28738)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28738">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28738">
@@ -7050,6 +7170,11 @@
 - [Live-Hack-CVE/CVE-2022-27858](https://github.com/Live-Hack-CVE/CVE-2022-27858)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27858">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27858">
 
 ---
+## CVE-2022-2783 (2022-10-06T18:15:00)
+> In affected versions of Octopus Server it was identified that a session cookie could be used as the CSRF token
+- [Live-Hack-CVE/CVE-2022-2783](https://github.com/Live-Hack-CVE/CVE-2022-2783)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2783">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2783">
+
+---
 ## CVE-2022-27812 (2022-08-24T12:15:00)
 > Flooding SNS firewall versions 3.7.0 to 3.7.29, 3.11.0 to 3.11.17, 4.2.0 to 4.2.10, and 4.3.0 to 4.3.6 with specific forged traffic, can lead to SNS DoS.
 - [Live-Hack-CVE/CVE-2022-27812](https://github.com/Live-Hack-CVE/CVE-2022-27812)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27812">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27812">
@@ -7128,6 +7253,11 @@
 ## CVE-2022-27414 ()
 > 
 - [lus33rr/CVE-2022-27414](https://github.com/lus33rr/CVE-2022-27414)	<img alt="forks" src="https://img.shields.io/github/forks/lus33rr/CVE-2022-27414">	<img alt="stars" src="https://img.shields.io/github/stars/lus33rr/CVE-2022-27414">
+
+---
+## CVE-2022-27380 (2022-04-12T20:15:00)
+> An issue in the component my_decimal::operator= of MariaDB Server v10.6.3 and below was discovered to allow attackers to cause a Denial of Service (DoS) via specially crafted SQL statements.
+- [Live-Hack-CVE/CVE-2022-27380](https://github.com/Live-Hack-CVE/CVE-2022-27380)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27380">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27380">
 
 ---
 ## CVE-2022-27255 (2022-08-01T12:15:00)
@@ -8116,6 +8246,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [PyterSmithDarkGhost/0DAYIPHONE13IOS15.2CVE-2022-22588](https://github.com/PyterSmithDarkGhost/0DAYIPHONE13IOS15.2CVE-2022-22588)	<img alt="forks" src="https://img.shields.io/github/forks/PyterSmithDarkGhost/0DAYIPHONE13IOS15.2CVE-2022-22588">	<img alt="stars" src="https://img.shields.io/github/stars/PyterSmithDarkGhost/0DAYIPHONE13IOS15.2CVE-2022-22588">
 
 ---
+## CVE-2022-22503 (2022-10-06T18:15:00)
+> IBM Robotic Process Automation 21.0.0 could allow a remote attacker to hijack the clicking action of the victim. By persuading a victim to visit a malicious Web site, a remote attacker could exploit this vulnerability to hijack the victim's click actions and possibly launch further attacks against the victim. IBM X-Force ID: 227125.
+- [Live-Hack-CVE/CVE-2022-22503](https://github.com/Live-Hack-CVE/CVE-2022-22503)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22503">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22503">
+
+---
 ## CVE-2022-22293 (2022-01-02T00:15:00)
 > admin/limits.php in Dolibarr 7.0.2 allows HTML injection, as demonstrated by the MAIN_MAX_DECIMALS_TOT parameter.
 - [Live-Hack-CVE/CVE-2022-22293](https://github.com/Live-Hack-CVE/CVE-2022-22293)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22293">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22293">
@@ -8263,6 +8398,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-21618 (2022-10-18T21:15:00)
 > Vulnerability in the Oracle Java SE, Oracle GraalVM Enterprise Edition product of Oracle Java SE (component: JGSS). Supported versions that are affected are Oracle Java SE: 17.0.4.1, 19; Oracle GraalVM Enterprise Edition: 21.3.3 and 22.2.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via Kerberos to compromise Oracle Java SE, Oracle GraalVM Enterprise Edition. Successful attacks of this vulnerability can result in unauthorized update, insert or delete access to some of Oracle Java SE, Oracle GraalVM Enterprise Edition accessible data. Note: This vulnerability applies to Java deployments, typically in clients running sandboxed Java Web Start applications or sandboxed Java applets, that load and run untrusted code (e.g., code that comes from the internet) and rely on the Java sandbox for security. This vulnerability can also be exploited by using APIs in the specified Component, e.g., through a web service which supplies data to the APIs. CVSS 3.1 Base Score 5.3 (Integrity impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N).
 - [Live-Hack-CVE/CVE-2022-21618](https://github.com/Live-Hack-CVE/CVE-2022-21618)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21618">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21618">
+
+---
+## CVE-2022-21595 (2022-10-18T21:15:00)
+> Vulnerability in the MySQL Server product of Oracle MySQL (component: C API). Supported versions that are affected are 5.7.36 and prior and 8.0.27 and prior. Difficult to exploit vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.1 Base Score 4.4 (Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:H/PR:H/UI:N/S:U/C:N/I:N/A:H).
+- [Live-Hack-CVE/CVE-2022-21595](https://github.com/Live-Hack-CVE/CVE-2022-21595)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21595">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21595">
 
 ---
 ## CVE-2022-21449 (2022-04-19T21:15:00)
@@ -8777,6 +8917,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-20421 (2022-10-11T20:15:00)
 > In binder_inc_ref_for_node of binder.c, there is a possible way to corrupt memory due to a use after free. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-239630375References: Upstream kernel
 - [Live-Hack-CVE/CVE-2022-20421](https://github.com/Live-Hack-CVE/CVE-2022-20421)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20421">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20421">
+
+---
+## CVE-2022-2042 (2022-06-10T19:15:00)
+> Use After Free in GitHub repository vim/vim prior to 8.2.
+- [Live-Hack-CVE/CVE-2022-2042](https://github.com/Live-Hack-CVE/CVE-2022-2042)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2042">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2042">
 
 ---
 ## CVE-2022-20364 (2022-09-14T16:15:00)
