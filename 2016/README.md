@@ -56,6 +56,36 @@
 - [Live-Hack-CVE/CVE-2016-8388](https://github.com/Live-Hack-CVE/CVE-2016-8388)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-8388">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-8388">
 
 ---
+## CVE-2016-7892 (2016-12-15T06:59:00)
+> Adobe Flash Player versions 23.0.0.207 and earlier, 11.2.202.644 and earlier have an exploitable use after free vulnerability in the TextField class. Successful exploitation could lead to arbitrary code execution.
+- [Live-Hack-CVE/CVE-2016-7892](https://github.com/Live-Hack-CVE/CVE-2016-7892)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-7892">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-7892">
+
+---
+## CVE-2016-7890 (2016-12-15T06:59:00)
+> Adobe Flash Player versions 23.0.0.207 and earlier, 11.2.202.644 and earlier have security bypass vulnerability in the implementation of the same origin policy.
+- [Live-Hack-CVE/CVE-2016-7890](https://github.com/Live-Hack-CVE/CVE-2016-7890)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-7890">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-7890">
+
+---
+## CVE-2016-7881 (2016-12-15T06:59:00)
+> Adobe Flash Player versions 23.0.0.207 and earlier, 11.2.202.644 and earlier have an exploitable use after free vulnerability in the MovieClip class when handling conversion to an object. Successful exploitation could lead to arbitrary code execution.
+- [Live-Hack-CVE/CVE-2016-7881](https://github.com/Live-Hack-CVE/CVE-2016-7881)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-7881">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-7881">
+
+---
+## CVE-2016-7880 (2016-12-15T06:59:00)
+> Adobe Flash Player versions 23.0.0.207 and earlier, 11.2.202.644 and earlier have an exploitable use after free vulnerability when setting the length property of an array object. Successful exploitation could lead to arbitrary code execution.
+- [Live-Hack-CVE/CVE-2016-7880](https://github.com/Live-Hack-CVE/CVE-2016-7880)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-7880">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-7880">
+
+---
+## CVE-2016-7879 (2016-12-15T06:59:00)
+> Adobe Flash Player versions 23.0.0.207 and earlier, 11.2.202.644 and earlier have an exploitable use after free vulnerability in the NetConnection class when handling an attached script object. Successful exploitation could lead to arbitrary code execution.
+- [Live-Hack-CVE/CVE-2016-7879](https://github.com/Live-Hack-CVE/CVE-2016-7879)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-7879">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-7879">
+
+---
+## CVE-2016-7878 (2016-12-15T06:59:00)
+> Adobe Flash Player versions 23.0.0.207 and earlier, 11.2.202.644 and earlier have an exploitable use after free vulnerability in the PSDK's MediaPlayer class. Successful exploitation could lead to arbitrary code execution.
+- [Live-Hack-CVE/CVE-2016-7878](https://github.com/Live-Hack-CVE/CVE-2016-7878)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-7878">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-7878">
+
+---
 ## CVE-2016-7873 (2016-12-15T06:59:00)
 > Adobe Flash Player versions 23.0.0.207 and earlier, 11.2.202.644 and earlier have an exploitable memory corruption vulnerability in the PSDK class related to ad policy functionality method. Successful exploitation could lead to arbitrary code execution.
 - [Live-Hack-CVE/CVE-2016-7873](https://github.com/Live-Hack-CVE/CVE-2016-7873)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-7873">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-7873">
