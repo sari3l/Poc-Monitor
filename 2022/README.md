@@ -1154,6 +1154,31 @@
 - [RashidKhanPathan/CVE-2022-44830](https://github.com/RashidKhanPathan/CVE-2022-44830)	<img alt="forks" src="https://img.shields.io/github/forks/RashidKhanPathan/CVE-2022-44830">	<img alt="stars" src="https://img.shields.io/github/stars/RashidKhanPathan/CVE-2022-44830">
 
 ---
+## CVE-2022-44796 (2022-11-07T04:15:00)
+> An issue was discovered in Object First 1.0.7.712. The authorization service has a flow that allows getting access to the Web UI without knowing credentials. For signing, the JWT token uses a secret key that is generated through a function that doesn't produce cryptographically strong sequences. An attacker can predict these sequences and generate a JWT token. As a result, an attacker can get access to the Web UI. This is fixed in 1.0.13.1611.
+- [Live-Hack-CVE/CVE-2022-44796](https://github.com/Live-Hack-CVE/CVE-2022-44796)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44796">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44796">
+
+---
+## CVE-2022-44795 (2022-11-07T04:15:00)
+> An issue was discovered in Object First 1.0.7.712. A flaw was found in the Web Service, which could lead to local information disclosure. The command that creates the URL for the support bundle uses an insecure RNG. That can lead to prediction of the generated URL. As a result, an attacker can get access to system logs. An attacker would need credentials to exploit this vulnerability. This is fixed in 1.0.13.1611.
+- [Live-Hack-CVE/CVE-2022-44795](https://github.com/Live-Hack-CVE/CVE-2022-44795)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44795">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44795">
+
+---
+## CVE-2022-44794 (2022-11-07T04:15:00)
+> An issue was discovered in Object First 1.0.7.712. Management protocol has a flow which allows a remote attacker to execute arbitrary Bash code with root privileges. The command that sets the hostname doesn't validate input parameters. As a result, arbitrary data goes directly to the Bash interpreter. An attacker would need credentials to exploit this vulnerability. This is fixed in 1.0.13.1611.
+- [Live-Hack-CVE/CVE-2022-44794](https://github.com/Live-Hack-CVE/CVE-2022-44794)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44794">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44794">
+
+---
+## CVE-2022-44793 (2022-11-07T03:15:00)
+> handle_ipv6IpForwarding in agent/mibgroup/ip-mib/ip_scalars.c in Net-SNMP 5.4.3 through 5.9.3 has a NULL Pointer Exception bug that can be used by a remote attacker to cause the instance to crash via a crafted UDP packet, resulting in Denial of Service.
+- [Live-Hack-CVE/CVE-2022-44793](https://github.com/Live-Hack-CVE/CVE-2022-44793)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44793">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44793">
+
+---
+## CVE-2022-44792 (2022-11-07T03:15:00)
+> handle_ipDefaultTTL in agent/mibgroup/ip-mib/ip_scalars.c in Net-SNMP 5.8 through 5.9.3 has a NULL Pointer Exception bug that can be used by a remote attacker (who has write access) to cause the instance to crash via a crafted UDP packet, resulting in Denial of Service.
+- [Live-Hack-CVE/CVE-2022-44792](https://github.com/Live-Hack-CVE/CVE-2022-44792)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44792">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44792">
+
+---
 ## CVE-2022-44789 (2022-11-23T21:15:00)
 > A logical issue in O_getOwnPropertyDescriptor() in Artifex MuJS 1.0.0 through 1.3.1 allows an attacker to achieve Remote Code Execution through memory corruption, via the loading of a crafted JavaScript file.
 - [alalng/CVE-2022-44789](https://github.com/alalng/CVE-2022-44789)	<img alt="forks" src="https://img.shields.io/github/forks/alalng/CVE-2022-44789">	<img alt="stars" src="https://img.shields.io/github/stars/alalng/CVE-2022-44789">
@@ -1813,6 +1838,21 @@
 - [Live-Hack-CVE/CVE-2022-43363](https://github.com/Live-Hack-CVE/CVE-2022-43363)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43363">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43363">
 
 ---
+## CVE-2022-43352 (2022-11-07T15:15:00)
+> Sanitization Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /php-sms/classes/Master.php?f=delete_quote.
+- [Live-Hack-CVE/CVE-2022-43352](https://github.com/Live-Hack-CVE/CVE-2022-43352)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43352">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43352">
+
+---
+## CVE-2022-43351 (2022-11-07T15:15:00)
+> Sanitization Management System v1.0 was discovered to contain an arbitrary file deletion vulnerability via the component /classes/Master.php?f=delete_img.
+- [Live-Hack-CVE/CVE-2022-43351](https://github.com/Live-Hack-CVE/CVE-2022-43351)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43351">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43351">
+
+---
+## CVE-2022-43350 (2022-11-07T15:15:00)
+> Sanitization Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /php-sms/classes/Master.php?f=delete_inquiry.
+- [Live-Hack-CVE/CVE-2022-43350](https://github.com/Live-Hack-CVE/CVE-2022-43350)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43350">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43350">
+
+---
 ## CVE-2022-43343 (2022-11-08T15:15:00)
 > N-Prolog v1.91 was discovered to contain a global buffer overflow vulnerability in the function gettoken() at Main.c.
 - [Live-Hack-CVE/CVE-2022-43343](https://github.com/Live-Hack-CVE/CVE-2022-43343)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43343">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43343">
@@ -1942,9 +1982,19 @@
 - [Live-Hack-CVE/CVE-2022-43096](https://github.com/Live-Hack-CVE/CVE-2022-43096)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43096">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43096">
 
 ---
+## CVE-2022-43046 (2022-11-07T21:15:00)
+> Food Ordering Management System v1.0 was discovered to contain a cross-site scripting (XSS) vulnerability in the component /foms/place-order.php.
+- [Live-Hack-CVE/CVE-2022-43046](https://github.com/Live-Hack-CVE/CVE-2022-43046)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43046">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43046">
+
+---
 ## CVE-2022-4300 (2022-12-06T10:15:00)
 > A vulnerability was found in FastCMS. It has been rated as critical. This issue affects some unknown processing of the file /template/edit of the component Template Handler. The manipulation leads to injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-214901 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-4300](https://github.com/Live-Hack-CVE/CVE-2022-4300)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4300">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4300">
+
+---
+## CVE-2022-42990 (2022-11-07T16:15:00)
+> Food Ordering Management System v1.0 was discovered to contain a SQL injection vulnerability via the component /foms/all-orders.php?status=Cancelled%20by%20Customer.
+- [Live-Hack-CVE/CVE-2022-42990](https://github.com/Live-Hack-CVE/CVE-2022-42990)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42990">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42990">
 
 ---
 ## CVE-2022-42984 (2022-11-15T00:15:00)
@@ -3603,6 +3653,11 @@
 - [Live-Hack-CVE/CVE-2022-40799](https://github.com/Live-Hack-CVE/CVE-2022-40799)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40799">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40799">
 
 ---
+## CVE-2022-40768 (2022-09-18T05:15:00)
+> drivers/scsi/stex.c in the Linux kernel through 5.19.9 allows local users to obtain sensitive information from kernel memory because stex_queuecommand_lck lacks a memset for the PASSTHRU_CMD case.
+- [Live-Hack-CVE/CVE-2022-40768](https://github.com/Live-Hack-CVE/CVE-2022-40768)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40768">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40768">
+
+---
 ## CVE-2022-40752 (2022-11-16T23:15:00)
 > IBM InfoSphere DataStage 11.7 is vulnerable to a command injection vulnerability due to improper neutralization of special elements. IBM X-Force ID: 236687.
 - [Live-Hack-CVE/CVE-2022-40752](https://github.com/Live-Hack-CVE/CVE-2022-40752)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40752">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40752">
@@ -4242,6 +4297,11 @@
 - [Live-Hack-CVE/CVE-2022-3917](https://github.com/Live-Hack-CVE/CVE-2022-3917)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3917">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3917">
 
 ---
+## CVE-2022-39158 (2022-09-13T10:15:00)
+> A vulnerability has been identified in RUGGEDCOM ROS RMC30 V4.X (All versions), RUGGEDCOM ROS RMC8388 V4.X (All versions), RUGGEDCOM ROS RMC8388 V5.X (All versions < V5.6.0), RUGGEDCOM ROS RP110 V4.X (All versions), RUGGEDCOM ROS RS1600 V4.X (All versions), RUGGEDCOM ROS RS1600F V4.X (All versions), RUGGEDCOM ROS RS1600T V4.X (All versions), RUGGEDCOM ROS RS400 V4.X (All versions), RUGGEDCOM ROS RS401 V4.X (All versions), RUGGEDCOM ROS RS416Pv2 V4.X (All versions), RUGGEDCOM ROS RS416Pv2 V5.X (All versions < V5.6.0), RUGGEDCOM ROS RS416v2 V4.X (All versions), RUGGEDCOM ROS RS416v2 V5.X (All versions < V5.6.0), RUGGEDCOM ROS RS8000 V4.X (All versions), RUGGEDCOM ROS RS8000A V4.X (All versions), RUGGEDCOM ROS RS8000H V4.X (All versions), RUGGEDCOM ROS RS8000T V4.X (All versions), RUGGEDCOM ROS RS900 (32M) V4.X (All versions), RUGGEDCOM ROS RS900 (32M) V5.X (All versions < V5.6.0), RUGGEDCOM ROS RS900 V4.X (All versions), RUGGEDCOM ROS RS900G (32M) V4.X (All versions), RUGGEDCOM ROS RS900G (32M) V5.X (All versions < V5.6.0), RUGGEDCOM ROS RS900G V4.X (All versions), RUGGEDCOM ROS RS900GP V4.X (All versions), RUGGEDCOM ROS RS900L V4.X (All versions), RUGGEDCOM ROS RS900M V4.X (All versions), RUGGEDCOM ROS RS900W V4.X (All versions), RUGGEDCOM ROS RS910 V4.X (All versions), RUGGEDCOM ROS RS910L V4.X (All versions), RUGGEDCOM ROS RS910W V4.X (All versions), RUGGEDCOM ROS RS920L V4.X (All versions), RUGGEDCOM ROS RS920W V4.X (All versions), RUGGEDCOM ROS RS930L V4.X (All versions), RUGGEDCOM ROS RS930W V4.X (All versions), RUGGEDCOM ROS RS940G V4.X (All versions), RUGGEDCOM ROS RSG2100 (32M) V4.X (All versions), RUGGEDCOM ROS RSG2100 (32M) V5.X (All versions < V5.6.0), RUGGEDCOM ROS RSG2100 V4.X (All versions), RUGGEDCOM ROS RSG2100P V4.X (All versions), RUGGEDCOM ROS RSG2200 V4.X (All versions), RUGGEDCOM ROS RSG2288 V4.X (All versions), RUGGEDCOM ROS RSG2288 V5.X (All versions < V5.6.0), RUGGEDCOM ROS RSG2300 V4.X (All versions), RUGGEDCOM ROS RSG2300 V5.X (All versions < V5.6.0), RUGGEDCOM ROS RSG2300P V4.X (All versions), RUGGEDCOM ROS RSG2300P V5.X (All versions < V5.6.0), RUGGEDCOM ROS RSG2488 V4.X (All versions), RUGGEDCOM ROS RSG2488 V5.X (All versions < V5.6.0), RUGGEDCOM ROS RSG907R V5.X (All versions < V5.6.0), RUGGEDCOM ROS RSG908C V5.X (All versions < V5.6.0), RUGGEDCOM ROS RSG909R V5.X (All versions < V5.6.0), RUGGEDCOM ROS RSG910C V5.X (All versions < V5.6.0), RUGGEDCOM ROS RSG920P V4.X (All versions), RUGGEDCOM ROS RSG920P V5.X (All versions < V5.6.0), RUGGEDCOM ROS RSL910 V5.X (All versions < V5.6.0), RUGGEDCOM ROS RST2228 V5.X (All versions < V5.6.0), RUGGEDCOM ROS RST2228P V5.X (All versions < V5.6.0), RUGGEDCOM ROS RST916C V5.X (All versions < V5.6.0), RUGGEDCOM ROS RST916P V5.X (All versions < V5.6.0), RUGGEDCOM ROS i800 V4.X (All versions), RUGGEDCOM ROS i801 V4.X (All versions), RUGGEDCOM ROS i802 V4.X (All versions), RUGGEDCOM ROS i803 V4.X (All versions). Affected devices improperly handle partial HTTP requests which makes them vulnerable to slowloris attacks. This could allow a remote attacker to create a denial of service condition that persists until the attack ends.
+- [Live-Hack-CVE/CVE-2022-39158](https://github.com/Live-Hack-CVE/CVE-2022-39158)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39158">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39158">
+
+---
 ## CVE-2022-39157 (2022-11-08T11:15:00)
 > A vulnerability has been identified in Parasolid V34.0 (All versions < V34.0.252), Parasolid V34.0 (All versions >= V34.0.252 < V34.0.254), Parasolid V34.1 (All versions < V34.1.242), Parasolid V34.1 (All versions >= V34.1.242 < V34.1.244), Parasolid V35.0 (All versions < V35.0.170), Parasolid V35.0 (All versions >= V35.0.170 < V35.0.184). The affected application contains an out of bounds read past the end of an allocated structure while parsing specially crafted X_T files. This could allow an attacker to execute code in the context of the current process. (ZDI-CAN-17745)
 - [Live-Hack-CVE/CVE-2022-39157](https://github.com/Live-Hack-CVE/CVE-2022-39157)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39157">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39157">
@@ -4443,9 +4503,24 @@
 - [AUTOCRYPT-IVS-VnV/CVE-2022-38766](https://github.com/AUTOCRYPT-IVS-VnV/CVE-2022-38766)	<img alt="forks" src="https://img.shields.io/github/forks/AUTOCRYPT-IVS-VnV/CVE-2022-38766">	<img alt="stars" src="https://img.shields.io/github/stars/AUTOCRYPT-IVS-VnV/CVE-2022-38766">
 
 ---
+## CVE-2022-3873 (2022-11-07T11:15:00)
+> Cross-site Scripting (XSS) - DOM in GitHub repository jgraph/drawio prior to 20.5.2.
+- [Live-Hack-CVE/CVE-2022-3873](https://github.com/Live-Hack-CVE/CVE-2022-3873)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3873">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3873">
+
+---
 ## CVE-2022-38724 (2022-11-23T00:15:00)
 > Silverstripe silverstripe/framework through 4.11.0, silverstripe/assets through 1.11.0, and silverstripe/asset-admin through 1.11.0 allow XSS.
 - [Live-Hack-CVE/CVE-2022-38724](https://github.com/Live-Hack-CVE/CVE-2022-38724)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38724">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38724">
+
+---
+## CVE-2022-3869 (2022-11-05T14:15:00)
+> Code Injection in GitHub repository froxlor/froxlor prior to 0.10.38.2.
+- [Live-Hack-CVE/CVE-2022-3869](https://github.com/Live-Hack-CVE/CVE-2022-3869)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3869">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3869">
+
+---
+## CVE-2022-3868 (2022-11-05T09:15:00)
+> A vulnerability classified as critical has been found in SourceCodester Sanitization Management System. Affected is an unknown function of the file /php-sms/classes/Master.php?f=save_quote. The manipulation of the argument id leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-213012.
+- [Live-Hack-CVE/CVE-2022-3868](https://github.com/Live-Hack-CVE/CVE-2022-3868)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3868">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3868">
 
 ---
 ## CVE-2022-3867 (2022-11-10T06:15:00)
@@ -4507,6 +4582,11 @@
 ## CVE-2022-38533 (2022-08-26T00:15:00)
 > In GNU Binutils before 2.40, there is a heap-buffer-overflow in the error function bfd_getl32 when called from the strip_main function in strip-new via a crafted file.
 - [Live-Hack-CVE/CVE-2022-38533](https://github.com/Live-Hack-CVE/CVE-2022-38533)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38533">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38533">
+
+---
+## CVE-2022-38465 (2022-10-11T11:15:00)
+> A vulnerability has been identified in SIMATIC Drive Controller family (All versions < V2.9.2), SIMATIC ET 200SP Open Controller CPU 1515SP PC (incl. SIPLUS variants) (All versions), SIMATIC ET 200SP Open Controller CPU 1515SP PC2 (incl. SIPLUS variants) (All versions < V21.9), SIMATIC S7-1200 CPU family (incl. SIPLUS variants) (All versions < V4.5.0), SIMATIC S7-1500 CPU family (incl. related ET200 CPUs and SIPLUS variants) (All versions < V2.9.2), SIMATIC S7-1500 Software Controller (All versions < V21.9), SIMATIC S7-PLCSIM Advanced (All versions < V4.0), SINUMERIK MC (All versions), SINUMERIK ONE (All versions). Affected products protect the built-in global private key in a way that cannot be considered sufficient any longer. The key is used for the legacy protection of confidential configuration data and the legacy PG/PC and HMI communication. This could allow attackers to discover the private key of a CPU product family by an offline attack against a single CPU of the family. Attackers could then use this knowledge to extract confidential configuration data from projects that are protected by that key or to perform attacks against legacy PG/PC and HMI communication.
+- [Live-Hack-CVE/CVE-2022-38465](https://github.com/Live-Hack-CVE/CVE-2022-38465)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38465">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38465">
 
 ---
 ## CVE-2022-38379 (2022-12-06T17:15:00)
@@ -5808,6 +5888,11 @@
 - [Live-Hack-CVE/CVE-2022-3370](https://github.com/Live-Hack-CVE/CVE-2022-3370)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3370">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3370">
 
 ---
+## CVE-2022-33684 (2022-11-04T12:15:00)
+> The Apache Pulsar C++ Client does not verify peer TLS certificates when making HTTPS calls for the OAuth2.0 Client Credential Flow, even when tlsAllowInsecureConnection is disabled via configuration. This vulnerability allows an attacker to perform a man in the middle attack and intercept and/or modify the GET request that is sent to the ClientCredentialFlow 'issuer url'. The intercepted credentials can be used to acquire authentication data from the OAuth2.0 server to then authenticate with an Apache Pulsar cluster. An attacker can only take advantage of this vulnerability by taking control of a machine 'between' the client and the server. The attacker must then actively manipulate traffic to perform the attack. The Apache Pulsar Python Client wraps the C++ client, so it is also vulnerable in the same way. This issue affects Apache Pulsar C++ Client and Python Client versions 2.7.0 to 2.7.4; 2.8.0 to 2.8.3; 2.9.0 to 2.9.2; 2.10.0 to 2.10.1; 2.6.4 and earlier. Any users running affected versions of the C++ Client or the Python Client should rotate vulnerable OAuth2.0 credentials, including client_id and client_secret. 2.7 C++ and Python Client users should upgrade to 2.7.5 and rotate vulnerable OAuth2.0 credentials. 2.8 C++ and Python Client users should upgrade to 2.8.4 and rotate vulnerable OAuth2.0 credentials. 2.9 C++ and Python Client users should upgrade to 2.9.3 and rotate vulnerable OAuth2.0 credentials. 2.10 C++ and Python Client users should upgrade to 2.10.2 and rotate vulnerable OAuth2.0 credentials. 3.0 C++ users are unaffected and 3.0 Python Client users will be unaffected when it is released. Any users running the C++ and Python Client for 2.6 or less should upgrade to one of the above patched versions.
+- [Live-Hack-CVE/CVE-2022-33684](https://github.com/Live-Hack-CVE/CVE-2022-33684)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33684">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33684">
+
+---
 ## CVE-2022-3368 (2022-10-17T21:15:00)
 > A vulnerability within the Software Updater functionality of Avira Security for Windows allowed an attacker with write access to the filesystem, to escalate his privileges in certain scenarios. The issue was fixed with Avira Security version 1.1.72.30556.
 - [Wh04m1001/CVE-2022-3368](https://github.com/Wh04m1001/CVE-2022-3368)	<img alt="forks" src="https://img.shields.io/github/forks/Wh04m1001/CVE-2022-3368">	<img alt="stars" src="https://img.shields.io/github/stars/Wh04m1001/CVE-2022-3368">
@@ -6389,6 +6474,11 @@
 ## CVE-2022-31253 (2022-11-09T14:15:00)
 > A Untrusted Search Path vulnerability in openldap2 of openSUSE Factory allows local attackers with control of the ldap user or group to change ownership of arbitrary directory entries to this user/group, leading to escalation to root. This issue affects: openSUSE Factory openldap2 versions prior to 2.6.3-404.1.
 - [Live-Hack-CVE/CVE-2022-31253](https://github.com/Live-Hack-CVE/CVE-2022-31253)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31253">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31253">
+
+---
+## CVE-2022-31250 (2022-07-20T08:15:00)
+> A UNIX Symbolic Link (Symlink) Following vulnerability in keylime of openSUSE Tumbleweed allows local attackers to escalate from the keylime user to root. This issue affects: openSUSE Tumbleweed keylime versions prior to 6.4.2-1.1.
+- [Live-Hack-CVE/CVE-2022-31250](https://github.com/Live-Hack-CVE/CVE-2022-31250)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31250">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31250">
 
 ---
 ## CVE-2022-31245 (2022-05-20T15:15:00)
@@ -8299,6 +8389,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-21881 (2022-01-11T21:15:00)
 > Windows Kernel Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-21879.
 - [theabysslabs/CVE-2022-21881](https://github.com/theabysslabs/CVE-2022-21881)	<img alt="forks" src="https://img.shields.io/github/forks/theabysslabs/CVE-2022-21881">	<img alt="stars" src="https://img.shields.io/github/stars/theabysslabs/CVE-2022-21881">
+
+---
+## CVE-2022-2188 (2022-11-07T12:15:00)
+> Privilege escalation vulnerability in DXL Broker for Windows prior to 6.0.0.280 allows local users to gain elevated privileges by exploiting weak directory controls in the logs directory. This can lead to a denial-of-service attack on the DXL Broker.
+- [Live-Hack-CVE/CVE-2022-2188](https://github.com/Live-Hack-CVE/CVE-2022-2188)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2188">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2188">
 
 ---
 ## CVE-2022-2185 (2022-07-01T16:15:00)

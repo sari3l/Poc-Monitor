@@ -764,6 +764,11 @@
 - [knqyf263/CVE-2021-40346](https://github.com/knqyf263/CVE-2021-40346)	<img alt="forks" src="https://img.shields.io/github/forks/knqyf263/CVE-2021-40346">	<img alt="stars" src="https://img.shields.io/github/stars/knqyf263/CVE-2021-40346">
 
 ---
+## CVE-2021-40345 (2021-10-26T11:15:00)
+> An issue was discovered in Nagios XI 5.8.5. In the Manage Dashlets section of the Admin panel, an administrator can upload ZIP files. A command injection (within the name of the first file in the archive) allows an attacker to execute system commands.
+- [Live-Hack-CVE/CVE-2021-40345](https://github.com/Live-Hack-CVE/CVE-2021-40345)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40345">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40345">
+
+---
 ## CVE-2021-4034 (2022-01-28T20:15:00)
 > A local privilege escalation vulnerability was found on polkit's pkexec utility. The pkexec application is a setuid tool designed to allow unprivileged users to run commands as privileged users according predefined policies. The current version of pkexec doesn't handle the calling parameters count correctly and ends trying to execute environment variables as commands. An attacker can leverage this by crafting environment variables in such a way it'll induce pkexec to execute arbitrary code. When successfully executed the attack can cause a local privilege escalation given unprivileged users administrative rights on the target machine.
 - [42lizard/CVE-2021-4034](https://github.com/42lizard/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/42lizard/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/42lizard/CVE-2021-4034">

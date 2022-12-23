@@ -300,6 +300,11 @@
 - [j0hn30n/CVE-2020-7246](https://github.com/j0hn30n/CVE-2020-7246)	<img alt="forks" src="https://img.shields.io/github/forks/j0hn30n/CVE-2020-7246">	<img alt="stars" src="https://img.shields.io/github/stars/j0hn30n/CVE-2020-7246">
 
 ---
+## CVE-2020-6624 (2020-01-09T01:15:00)
+> jhead through 3.04 has a heap-based buffer over-read in process_DQT in jpgqguess.c.
+- [Live-Hack-CVE/CVE-2020-6624](https://github.com/Live-Hack-CVE/CVE-2020-6624)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6624">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6624">
+
+---
 ## CVE-2020-6468 (2020-05-21T04:15:00)
 > Type confusion in V8 in Google Chrome prior to 83.0.4103.61 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
 - [kiks7/CVE-2020-6468-Chrome-Exploit](https://github.com/kiks7/CVE-2020-6468-Chrome-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/kiks7/CVE-2020-6468-Chrome-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/kiks7/CVE-2020-6468-Chrome-Exploit">
@@ -714,6 +719,11 @@
 - [Live-Hack-CVE/CVE-2020-24609](https://github.com/Live-Hack-CVE/CVE-2020-24609)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24609">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24609">
 
 ---
+## CVE-2020-24223 (2020-08-30T18:15:00)
+> Mara CMS 7.5 allows cross-site scripting (XSS) in contact.php via the theme or pagetheme parameters.
+- [Live-Hack-CVE/CVE-2020-24223](https://github.com/Live-Hack-CVE/CVE-2020-24223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24223">
+
+---
 ## CVE-2020-24032 (2020-08-18T21:15:00)
 > tz.pl on XoruX LPAR2RRD and STOR2RRD 2.70 virtual appliances allows cmd=set&tz=OS command injection via shell metacharacters in a timezone.
 - [Live-Hack-CVE/CVE-2020-24032](https://github.com/Live-Hack-CVE/CVE-2020-24032)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24032">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24032">
@@ -963,6 +973,11 @@
 - [Live-Hack-CVE/CVE-2020-14367](https://github.com/Live-Hack-CVE/CVE-2020-14367)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14367">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14367">
 
 ---
+## CVE-2020-14334 (2020-07-31T13:15:00)
+> A flaw was found in Red Hat Satellite 6 which allows privileged attacker to read cache files. These cache credentials could help attacker to gain complete control of the Satellite instance.
+- [Live-Hack-CVE/CVE-2020-14334](https://github.com/Live-Hack-CVE/CVE-2020-14334)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14334">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14334">
+
+---
 ## CVE-2020-14155 (2020-06-15T17:15:00)
 > libpcre in PCRE before 8.44 allows an integer overflow via a large number after a (?C substring.
 - [Live-Hack-CVE/CVE-2020-14155](https://github.com/Live-Hack-CVE/CVE-2020-14155)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14155">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14155">
@@ -1015,9 +1030,29 @@
 - [Live-Hack-CVE/CVE-2020-12888](https://github.com/Live-Hack-CVE/CVE-2020-12888)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12888">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12888">
 
 ---
+## CVE-2020-12865 (2020-06-24T13:15:00)
+> A heap buffer overflow in SANE Backends before 1.0.30 may allow a malicious device connected to the same local network as the victim to execute arbitrary code, aka GHSL-2020-084.
+- [Live-Hack-CVE/CVE-2020-12865](https://github.com/Live-Hack-CVE/CVE-2020-12865)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12865">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12865">
+
+---
+## CVE-2020-12863 (2020-06-24T13:15:00)
+> An out-of-bounds read in SANE Backends before 1.0.30 may allow a malicious device connected to the same local network as the victim to read important information, such as the ASLR offsets of the program, aka GHSL-2020-083.
+- [Live-Hack-CVE/CVE-2020-12863](https://github.com/Live-Hack-CVE/CVE-2020-12863)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12863">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12863">
+
+---
+## CVE-2020-12862 (2020-06-24T13:15:00)
+> An out-of-bounds read in SANE Backends before 1.0.30 may allow a malicious device connected to the same local network as the victim to read important information, such as the ASLR offsets of the program, aka GHSL-2020-082.
+- [Live-Hack-CVE/CVE-2020-12862](https://github.com/Live-Hack-CVE/CVE-2020-12862)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12862">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12862">
+
+---
 ## CVE-2020-12783 (2020-05-11T14:15:00)
 > Exim through 4.93 has an out-of-bounds read in the SPA authenticator that could result in SPA/NTLM authentication bypass in auths/spa.c and auths/auth-spa.c.
 - [Live-Hack-CVE/CVE-2020-12783](https://github.com/Live-Hack-CVE/CVE-2020-12783)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12783">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12783">
+
+---
+## CVE-2020-12509 (2022-11-07T10:15:00)
+> In s::can moni::tools in versions below 4.2 an unauthenticated attacker could get any file from the device by path traversal in the camera-file module.
+- [Live-Hack-CVE/CVE-2020-12509](https://github.com/Live-Hack-CVE/CVE-2020-12509)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12509">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12509">
 
 ---
 ## CVE-2020-12460 (2020-07-27T23:15:00)
@@ -1076,6 +1111,11 @@
 - [DanielRuf/snyk-js-jquery-565129](https://github.com/DanielRuf/snyk-js-jquery-565129)	<img alt="forks" src="https://img.shields.io/github/forks/DanielRuf/snyk-js-jquery-565129">	<img alt="stars" src="https://img.shields.io/github/stars/DanielRuf/snyk-js-jquery-565129">
 - [Snorlyd/https-nj.gov---CVE-2020-11022](https://github.com/Snorlyd/https-nj.gov---CVE-2020-11022)	<img alt="forks" src="https://img.shields.io/github/forks/Snorlyd/https-nj.gov---CVE-2020-11022">	<img alt="stars" src="https://img.shields.io/github/stars/Snorlyd/https-nj.gov---CVE-2020-11022">
 - [ossf-cve-benchmark/CVE-2020-11022](https://github.com/ossf-cve-benchmark/CVE-2020-11022)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2020-11022">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2020-11022">
+
+---
+## CVE-2020-10936 (2020-05-27T18:15:00)
+> Sympa before 6.2.56 allows privilege escalation.
+- [Live-Hack-CVE/CVE-2020-10936](https://github.com/Live-Hack-CVE/CVE-2020-10936)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10936">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10936">
 
 ---
 ## CVE-2020-10804 (2020-03-22T04:15:00)

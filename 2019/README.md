@@ -46,6 +46,11 @@
 - [secunnix/CVE-2019-7213](https://github.com/secunnix/CVE-2019-7213)	<img alt="forks" src="https://img.shields.io/github/forks/secunnix/CVE-2019-7213">	<img alt="stars" src="https://img.shields.io/github/stars/secunnix/CVE-2019-7213">
 
 ---
+## CVE-2019-6706 (2019-01-23T19:29:00)
+> Lua 5.3.5 has a use-after-free in lua_upvaluejoin in lapi.c. For example, a crash outcome might be achieved by an attacker who is able to trigger a debug.upvaluejoin call in which the arguments have certain relationships.
+- [Live-Hack-CVE/CVE-2019-6706](https://github.com/Live-Hack-CVE/CVE-2019-6706)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6706">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6706">
+
+---
 ## CVE-2019-6447 (2019-01-16T14:29:00)
 > The ES File Explorer File Manager application through 4.1.9.7.4 for Android allows remote attackers to read arbitrary files or execute applications via TCP port 59777 requests on the local Wi-Fi network. This TCP port remains open after the ES application has been launched once, and responds to unauthenticated application/json data over HTTP.
 - [VinuKalana/CVE-2019-6447-Android-Vulnerability-in-ES-File-Explorer](https://github.com/VinuKalana/CVE-2019-6447-Android-Vulnerability-in-ES-File-Explorer)	<img alt="forks" src="https://img.shields.io/github/forks/VinuKalana/CVE-2019-6447-Android-Vulnerability-in-ES-File-Explorer">	<img alt="stars" src="https://img.shields.io/github/stars/VinuKalana/CVE-2019-6447-Android-Vulnerability-in-ES-File-Explorer">
@@ -505,6 +510,11 @@
 ## CVE-2019-19221 (2019-11-21T23:15:00)
 > In Libarchive 3.4.0, archive_wstring_append_from_mbs in archive_string.c has an out-of-bounds read because of an incorrect mbrtowc or mbtowc call. For example, bsdtar crashes via a crafted archive.
 - [Live-Hack-CVE/CVE-2019-19221](https://github.com/Live-Hack-CVE/CVE-2019-19221)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19221">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19221">
+
+---
+## CVE-2019-19054 (2019-11-18T06:15:00)
+> A memory leak in the cx23888_ir_probe() function in drivers/media/pci/cx23885/cx23888-ir.c in the Linux kernel through 5.3.11 allows attackers to cause a denial of service (memory consumption) by triggering kfifo_alloc() failures, aka CID-a7b2df76b42b.
+- [Live-Hack-CVE/CVE-2019-19054](https://github.com/Live-Hack-CVE/CVE-2019-19054)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19054">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19054">
 
 ---
 ## CVE-2019-18901 (2020-03-02T16:15:00)
