@@ -812,6 +812,16 @@
 - [Live-Hack-CVE/CVE-2022-45548](https://github.com/Live-Hack-CVE/CVE-2022-45548)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45548">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45548">
 
 ---
+## CVE-2022-45536 (2022-11-22T21:15:00)
+> AeroCMS v0.0.1 was discovered to contain a SQL Injection vulnerability via the id parameter at \admin\post_comments.php. This vulnerability allows attackers to access database information.
+- [Live-Hack-CVE/CVE-2022-45536](https://github.com/Live-Hack-CVE/CVE-2022-45536)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45536">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45536">
+
+---
+## CVE-2022-45535 (2022-11-22T21:15:00)
+> AeroCMS v0.0.1 was discovered to contain a SQL Injection vulnerability via the edit parameter at \admin\categories.php. This vulnerability allows attackers to access database information.
+- [Live-Hack-CVE/CVE-2022-45535](https://github.com/Live-Hack-CVE/CVE-2022-45535)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45535">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45535">
+
+---
 ## CVE-2022-45511 (2022-12-08T16:15:00)
 > Tenda W30E V1.0.1.25(633) was discovered to contain a stack overflow via the PPPOEPassword parameter at /goform/QuickIndex.
 - [kinderscsaa/cve-2022-45511](https://github.com/kinderscsaa/cve-2022-45511)	<img alt="forks" src="https://img.shields.io/github/forks/kinderscsaa/cve-2022-45511">	<img alt="stars" src="https://img.shields.io/github/stars/kinderscsaa/cve-2022-45511">
@@ -875,6 +885,16 @@
 ## CVE-2022-45343 (2022-11-29T16:15:00)
 > GPAC v2.1-DEV-rev478-g696e6f868-master was discovered to contain a heap use-after-free via the Q_IsTypeOn function at /gpac/src/bifs/unquantize.c.
 - [Live-Hack-CVE/CVE-2022-45343](https://github.com/Live-Hack-CVE/CVE-2022-45343)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45343">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45343">
+
+---
+## CVE-2022-45331 (2022-11-22T21:15:00)
+> AeroCMS v0.0.1 was discovered to contain a SQL Injection vulnerability via the p_id parameter at \post.php. This vulnerability allows attackers to access database information.
+- [Live-Hack-CVE/CVE-2022-45331](https://github.com/Live-Hack-CVE/CVE-2022-45331)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45331">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45331">
+
+---
+## CVE-2022-45330 (2022-11-22T21:15:00)
+> AeroCMS v0.0.1 was discovered to contain a SQL Injection vulnerability via the Category parameter at \category.php. This vulnerability allows attackers to access database information.
+- [Live-Hack-CVE/CVE-2022-45330](https://github.com/Live-Hack-CVE/CVE-2022-45330)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45330">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45330">
 
 ---
 ## CVE-2022-45326 (2022-12-06T17:15:00)
@@ -1109,6 +1129,26 @@
 - [alalng/CVE-2022-44789](https://github.com/alalng/CVE-2022-44789)	<img alt="forks" src="https://img.shields.io/github/forks/alalng/CVE-2022-44789">	<img alt="stars" src="https://img.shields.io/github/stars/alalng/CVE-2022-44789">
 
 ---
+## CVE-2022-44788 (2022-11-21T23:15:00)
+> An issue was discovered in Appalti & Contratti 9.12.2. It allows Session Fixation. When a user logs in providing a JSESSIONID cookie that is issued by the server at the first visit, the cookie value is not updated after a successful login.
+- [Live-Hack-CVE/CVE-2022-44788](https://github.com/Live-Hack-CVE/CVE-2022-44788)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44788">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44788">
+
+---
+## CVE-2022-44787 (2022-11-21T23:15:00)
+> An issue was discovered in Appalti & Contratti 9.12.2. The web applications are vulnerable to a Reflected Cross-Site Scripting issue. The idPagina parameter is reflected inside the server response without any HTML encoding, resulting in XSS when the victim moves the mouse pointer inside the page. As an example, the onmouseenter attribute is not sanitized.
+- [Live-Hack-CVE/CVE-2022-44787](https://github.com/Live-Hack-CVE/CVE-2022-44787)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44787">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44787">
+
+---
+## CVE-2022-44786 (2022-11-21T23:15:00)
+> An issue was discovered in Appalti & Contratti 9.12.2. The target web applications allow Local File Inclusion in any page relying on the href parameter to specify the JSP page to be rendered. This affects ApriPagina.do POST and GET requests to each application.
+- [Live-Hack-CVE/CVE-2022-44786](https://github.com/Live-Hack-CVE/CVE-2022-44786)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44786">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44786">
+
+---
+## CVE-2022-44785 (2022-11-21T23:15:00)
+> An issue was discovered in Appalti & Contratti 9.12.2. The target web applications are subject to multiple SQL Injection vulnerabilities, some of which executable even by unauthenticated users, as demonstrated by the GetListaEnti.do cfamm parameter.
+- [Live-Hack-CVE/CVE-2022-44785](https://github.com/Live-Hack-CVE/CVE-2022-44785)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44785">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44785">
+
+---
 ## CVE-2022-44756 (2022-12-21T17:15:00)
 > Insights for Vulnerability Remediation (IVR) is vulnerable to improper input validation. This may lead to information disclosure. This requires privileged access.
 - [Live-Hack-CVE/CVE-2022-44756](https://github.com/Live-Hack-CVE/CVE-2022-44756)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44756">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44756">
@@ -1127,6 +1167,11 @@
 ## CVE-2022-44748 (2022-11-24T07:15:00)
 > A directory traversal vulnerability in the ZIP archive extraction routines of KNIME Server since 4.3.0 can result in arbitrary files being overwritten on the server's file system. This vulnerability is also known as 'Zip-Slip'. An attacker can create a KNIME workflow that, when being uploaded, can overwrite arbitrary files that the operating system user running the KNIME Server process has write access to. The user must be authenticated and have permissions to upload files to KNIME Server. This can impact data integrity (file contents are changed) or cause errors in other software (vital files being corrupted). It can even lead to remote code execution if executable files are being replaced and subsequently executed by the KNIME Server process user. In all cases the attacker has to know the location of files on the server's file system, though. Note that users that have permissions to upload workflows usually also have permissions to run them on the KNIME Server and can therefore already execute arbitrary code in the context of the KNIME Executor's operating system user. There is no workaround to prevent this vulnerability from being exploited. Updates to fixed versions 4.13.6, 4.14.3, or 4.15.3 are advised.
 - [Live-Hack-CVE/CVE-2022-44748](https://github.com/Live-Hack-CVE/CVE-2022-44748)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44748">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44748">
+
+---
+## CVE-2022-44740 (2022-11-18T23:15:00)
+> Multiple Cross-Site Request Forgery (CSRF) vulnerabilities in Creative Mail plugin <= 1.5.4 on WordPress.
+- [Live-Hack-CVE/CVE-2022-44740](https://github.com/Live-Hack-CVE/CVE-2022-44740)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44740">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44740">
 
 ---
 ## CVE-2022-44737 (2022-11-22T16:15:00)
@@ -2434,9 +2479,19 @@
 - [Live-Hack-CVE/CVE-2022-4192](https://github.com/Live-Hack-CVE/CVE-2022-4192)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4192">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4192">
 
 ---
+## CVE-2022-41911 (2022-11-18T22:15:00)
+> TensorFlow is an open source platform for machine learning. When printing a tensor, we get it's data as a `const char*` array (since that's the underlying storage) and then we typecast it to the element type. However, conversions from `char` to `bool` are undefined if the `char` is not `0` or `1`, so sanitizers/fuzzers will crash. The issue has been patched in GitHub commit `1be74370327`. The fix will be included in TensorFlow 2.11.0. We will also cherrypick this commit on TensorFlow 2.10.1, TensorFlow 2.9.3, and TensorFlow 2.8.4, as these are also affected and still in supported range.
+- [Live-Hack-CVE/CVE-2022-41911](https://github.com/Live-Hack-CVE/CVE-2022-41911)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41911">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41911">
+
+---
 ## CVE-2022-4191 (2022-11-30T00:15:00)
 > Use after free in Sign-In in Google Chrome prior to 108.0.5359.71 allowed a remote attacker who convinced a user to engage in specific UI interaction to potentially exploit heap corruption via profile destruction. (Chromium security severity: Medium)
 - [Live-Hack-CVE/CVE-2022-4191](https://github.com/Live-Hack-CVE/CVE-2022-4191)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4191">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4191">
+
+---
+## CVE-2022-41909 (2022-11-18T22:15:00)
+> TensorFlow is an open source platform for machine learning. An input `encoded` that is not a valid `CompositeTensorVariant` tensor will trigger a segfault in `tf.raw_ops.CompositeTensorVariantToComponents`. We have patched the issue in GitHub commits bf594d08d377dc6a3354d9fdb494b32d45f91971 and 660ce5a89eb6766834bdc303d2ab3902aef99d3d. The fix will be included in TensorFlow 2.11. We will also cherrypick this commit on TensorFlow 2.10.1, 2.9.3, and TensorFlow 2.8.4, as these are also affected and still in supported range.
+- [Live-Hack-CVE/CVE-2022-41909](https://github.com/Live-Hack-CVE/CVE-2022-41909)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41909">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41909">
 
 ---
 ## CVE-2022-4190 (2022-11-30T00:15:00)
@@ -2448,6 +2503,11 @@
 ## CVE-2022-4189 (2022-11-30T00:15:00)
 > Insufficient policy enforcement in DevTools in Google Chrome prior to 108.0.5359.71 allowed an attacker who convinced a user to install a malicious extension to bypass navigation restrictions via a crafted Chrome Extension. (Chromium security severity: Medium)
 - [Live-Hack-CVE/CVE-2022-4189](https://github.com/Live-Hack-CVE/CVE-2022-4189)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4189">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4189">
+
+---
+## CVE-2022-41885 (2022-11-18T22:15:00)
+> TensorFlow is an open source platform for machine learning. When `tf.raw_ops.FusedResizeAndPadConv2D` is given a large tensor shape, it overflows. We have patched the issue in GitHub commit d66e1d568275e6a2947de97dca7a102a211e01ce. The fix will be included in TensorFlow 2.11. We will also cherrypick this commit on TensorFlow 2.10.1, 2.9.3, and TensorFlow 2.8.4, as these are also affected and still in supported range.
+- [Live-Hack-CVE/CVE-2022-41885](https://github.com/Live-Hack-CVE/CVE-2022-41885)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41885">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41885">
 
 ---
 ## CVE-2022-4188 (2022-11-30T00:15:00)
@@ -2526,6 +2586,11 @@
 - [Live-Hack-CVE/CVE-2022-4179](https://github.com/Live-Hack-CVE/CVE-2022-4179)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4179">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4179">
 
 ---
+## CVE-2022-41788 (2022-11-18T23:15:00)
+> Auth. (subscriber+) Cross-Site Scripting (XSS) vulnerability in Soledad premium theme <= 8.2.5 on WordPress.
+- [Live-Hack-CVE/CVE-2022-41788](https://github.com/Live-Hack-CVE/CVE-2022-41788)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41788">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41788">
+
+---
 ## CVE-2022-4178 (2022-11-30T00:15:00)
 > Use after free in Mojo in Google Chrome prior to 108.0.5359.71 allowed a remote attacker who had compromised the renderer process to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [Live-Hack-CVE/CVE-2022-4178](https://github.com/Live-Hack-CVE/CVE-2022-4178)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4178">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4178">
@@ -2587,6 +2652,16 @@
 ## CVE-2022-41697 (2022-12-22T10:15:00)
 > A user enumeration vulnerability exists in the login functionality of Ghost Foundation Ghost 5.9.4. A specially-crafted HTTP request can lead to a disclosure of sensitive information. An attacker can send a series of HTTP requests to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2022-41697](https://github.com/Live-Hack-CVE/CVE-2022-41697)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41697">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41697">
+
+---
+## CVE-2022-41685 (2022-11-18T23:15:00)
+> Multiple Cross-Site Request Forgery (CSRF) vulnerabilities in Viszt Péter's Integration for Szamlazz.hu & WooCommerce plugin <= 5.6.3.2 and Csomagpontok és szállítási címkék WooCommerce-hez plugin <= 1.9.0.2 on WordPress.
+- [Live-Hack-CVE/CVE-2022-41685](https://github.com/Live-Hack-CVE/CVE-2022-41685)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41685">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41685">
+
+---
+## CVE-2022-41655 (2022-11-18T23:15:00)
+> Auth. (subscriber+) Sensitive Data Exposure vulnerability in Phone Orders for WooCommerce plugin <= 3.7.1 on WordPress.
+- [Live-Hack-CVE/CVE-2022-41655](https://github.com/Live-Hack-CVE/CVE-2022-41655)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41655">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41655">
 
 ---
 ## CVE-2022-41654 (2022-12-22T10:15:00)
@@ -2928,6 +3003,14 @@
 - [Live-Hack-CVE/CVE-2022-40968](https://github.com/Live-Hack-CVE/CVE-2022-40968)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40968">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40968">
 
 ---
+## CVE-2022-4096 (2022-11-21T15:15:00)
+> Server-Side Request Forgery (SSRF) in GitHub repository appsmithorg/appsmith prior to 1.8.2.
+- [Live-Hack-CVE/CVE-2022-4096](https://github.com/Live-Hack-CVE/CVE-2022-4096)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4096">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4096">
+- [Live-Hack-CVE/CVE-2022-40963](https://github.com/Live-Hack-CVE/CVE-2022-40963)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40963">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40963">
+- [Live-Hack-CVE/CVE-2022-40968](https://github.com/Live-Hack-CVE/CVE-2022-40968)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40968">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40968">
+- [Live-Hack-CVE/CVE-2022-40966](https://github.com/Live-Hack-CVE/CVE-2022-40966)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40966">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40966">
+
+---
 ## CVE-2022-40955 (2022-09-20T14:15:00)
 > In versions of Apache InLong prior to 1.3.0, an attacker with sufficient privileges to specify MySQL JDBC connection URL parameters and to write arbitrary data to the MySQL database, could cause this data to be deserialized by Apache InLong, potentially leading to Remote Code Execution on the Apache InLong server. Users are advised to upgrade to Apache InLong 1.3.0 or newer.
 - [Live-Hack-CVE/CVE-2022-40955](https://github.com/Live-Hack-CVE/CVE-2022-40955)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40955">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40955">
@@ -2943,6 +3026,11 @@
 - [whitej3rry/CVE-2022-40916](https://github.com/whitej3rry/CVE-2022-40916)	<img alt="forks" src="https://img.shields.io/github/forks/whitej3rry/CVE-2022-40916">	<img alt="stars" src="https://img.shields.io/github/stars/whitej3rry/CVE-2022-40916">
 
 ---
+## CVE-2022-40842 (2022-11-22T01:15:00)
+> ndk design NdkAdvancedCustomizationFields 3.5.0 is vulnerable to Server-side request forgery (SSRF) via rotateimg.php.
+- [Live-Hack-CVE/CVE-2022-40842](https://github.com/Live-Hack-CVE/CVE-2022-40842)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40842">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40842">
+
+---
 ## CVE-2022-40841 (2022-12-21T18:15:00)
 > A cross-site scripting (XSS) vulnerability in NdkAdvancedCustomizationFields v3.5.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payloads injected into the "htmlNodes" parameter.
 - [Live-Hack-CVE/CVE-2022-40841](https://github.com/Live-Hack-CVE/CVE-2022-40841)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40841">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40841">
@@ -2951,6 +3039,11 @@
 ## CVE-2022-40799 (2022-11-29T05:15:00)
 > Data Integrity Failure in 'Backup Config' in D-Link DNR-322L <= 2.60B15 allows an authenticated attacker to execute OS level commands on the device.
 - [Live-Hack-CVE/CVE-2022-40799](https://github.com/Live-Hack-CVE/CVE-2022-40799)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40799">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40799">
+
+---
+## CVE-2022-40746 (2022-11-21T18:15:00)
+> IBM i Access Family 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.0 could allow a local authenticated attacker to execute arbitrary code on the system, caused by DLL search order hijacking vulnerability. By placing a specially crafted file in a compromised folder, an attacker could exploit this vulnerability to execute arbitrary code on the system. IBM X-Force ID: 236581.
+- [Live-Hack-CVE/CVE-2022-40746](https://github.com/Live-Hack-CVE/CVE-2022-40746)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40746">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40746">
 
 ---
 ## CVE-2022-40743 (2022-12-19T12:15:00)
@@ -3389,6 +3482,11 @@
 - [DayiliWaseem/CVE-2022-39196-](https://github.com/DayiliWaseem/CVE-2022-39196-)	<img alt="forks" src="https://img.shields.io/github/forks/DayiliWaseem/CVE-2022-39196-">	<img alt="stars" src="https://img.shields.io/github/stars/DayiliWaseem/CVE-2022-39196-">
 
 ---
+## CVE-2022-39181 (2022-11-17T23:15:00)
+> GLPI - Reports plugin for GLPI Reflected Cross-Site-Scripting (RXSS). Type 1: Reflected XSS (or Non-Persistent) - The server reads data directly from the HTTP request and reflects it back in the HTTP response. Reflected XSS exploits occur when an attacker causes a victim to supply dangerous content to a vulnerable web application, which is then reflected back to the victim and executed by the web browser. The most common mechanism for delivering malicious content is to include it as a parameter in a URL that is posted publicly or emailed directly to the victim. URLs constructed in this manner constitute the core of many phishing schemes, whereby an attacker convinces a victim to visit a URL that refers to a vulnerable site. After the site reflects the attacker's content back to the victim, the content is executed by the victim's browser.
+- [Live-Hack-CVE/CVE-2022-39181](https://github.com/Live-Hack-CVE/CVE-2022-39181)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39181">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39181">
+
+---
 ## CVE-2022-3917 (2022-12-14T22:15:00)
 > Improper access control of bootloader function was discovered in Motorola Mobility Motorola e20 prior to version RONS31.267-38-8 allows attacker with local access to read partition or RAM data.
 - [Live-Hack-CVE/CVE-2022-3917](https://github.com/Live-Hack-CVE/CVE-2022-3917)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3917">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3917">
@@ -3784,6 +3882,11 @@
 - [MaherAzzouzi/CVE-2022-37703](https://github.com/MaherAzzouzi/CVE-2022-37703)	<img alt="forks" src="https://img.shields.io/github/forks/MaherAzzouzi/CVE-2022-37703">	<img alt="stars" src="https://img.shields.io/github/stars/MaherAzzouzi/CVE-2022-37703">
 
 ---
+## CVE-2022-3763 (2022-11-21T11:15:00)
+> The Booster for WooCommerce WordPress plugin before 5.6.7, Booster Plus for WooCommerce WordPress plugin before 5.6.5, Booster Elite for WooCommerce WordPress plugin before 1.1.7 do not have CSRF check in place when deleting files uploaded at the checkout, allowing attackers to make a logged in shop manager or admin delete them via a CSRF attack
+- [Live-Hack-CVE/CVE-2022-3763](https://github.com/Live-Hack-CVE/CVE-2022-3763)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3763">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3763">
+
+---
 ## CVE-2022-3751 (2022-11-29T21:15:00)
 > SQL Injection in GitHub repository owncast/owncast prior to 0.0.13.
 - [Live-Hack-CVE/CVE-2022-3751](https://github.com/Live-Hack-CVE/CVE-2022-3751)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3751">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3751">
@@ -3879,6 +3982,11 @@
 ## CVE-2022-37201 (2022-09-15T16:15:00)
 > JFinal CMS 5.1.0 is vulnerable to SQL Injection.
 - [AgainstTheLight/CVE-2022-37201](https://github.com/AgainstTheLight/CVE-2022-37201)	<img alt="forks" src="https://img.shields.io/github/forks/AgainstTheLight/CVE-2022-37201">	<img alt="stars" src="https://img.shields.io/github/stars/AgainstTheLight/CVE-2022-37201">
+
+---
+## CVE-2022-3720 (2022-11-21T11:15:00)
+> The Event Monster WordPress plugin before 1.2.0 does not validate and escape some parameters before using them in SQL statements, which could lead to SQL Injection exploitable by high privilege users
+- [Live-Hack-CVE/CVE-2022-3720](https://github.com/Live-Hack-CVE/CVE-2022-3720)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3720">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3720">
 
 ---
 ## CVE-2022-37197 (2022-11-18T21:15:00)
@@ -5263,6 +5371,16 @@
 - [kang8/CVE-2022-30778](https://github.com/kang8/CVE-2022-30778)	<img alt="forks" src="https://img.shields.io/github/forks/kang8/CVE-2022-30778">	<img alt="stars" src="https://img.shields.io/github/stars/kang8/CVE-2022-30778">
 
 ---
+## CVE-2022-30772 (2022-11-15T21:15:00)
+> Manipulation of the input address in PnpSmm function 0x52 could be used by malware to overwrite SMRAM or OS kernel memory. Function 0x52 of the PnpSmm driver is passed the address and size of data to write into the SMBIOS table, but manipulation of the address could be used by malware to overwrite SMRAM or OS kernel memory. This issue was discovered by Insyde engineering during a security review. This issue is fixed in: Kernel 5.0: 05.09.41 Kernel 5.1: 05.17.43 Kernel 5.2: 05.27.30 Kernel 5.3: 05.36.30 Kernel 5.4: 05.44.30 Kernel 5.5: 05.52.30 https://www.insyde.com/security-pledge/SA-2022065
+- [Live-Hack-CVE/CVE-2022-30772](https://github.com/Live-Hack-CVE/CVE-2022-30772)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30772">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30772">
+
+---
+## CVE-2022-30771 (2022-11-15T21:15:00)
+> Initialization function in PnpSmm could lead to SMRAM corruption when using subsequent PNP SMI functions Initialization function in PnpSmm could lead to SMRAM corruption when using subsequent PNP SMI functions. This issue was discovered by Insyde engineering during a security review. Fixed in: Kernel 5.1: Version 05.17.25 Kernel 5.2: Version 05.27.25 Kernel 5.3: Version 05.36.25 Kernel 5.4: Version 05.44.25 Kernel 5.5: Version 05.52.25 https://www.insyde.com/security-pledge/SA-2022064
+- [Live-Hack-CVE/CVE-2022-30771](https://github.com/Live-Hack-CVE/CVE-2022-30771)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30771">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30771">
+
+---
 ## CVE-2022-3073 (2022-12-14T09:15:00)
 > Quanos "SCHEMA ST4" example web templates in version Bootstrap 2019 v2/2021 v1/2022 v1/2022 SP1 v1 or below are prone to JavaScript injection allowing a remote attacker to hijack existing sessions to e.g. other web services in the same environment or execute scripts in the users browser environment. The affected script is '*-schema.js'.
 - [Live-Hack-CVE/CVE-2022-3073](https://github.com/Live-Hack-CVE/CVE-2022-3073)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3073">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3073">
@@ -5360,6 +5478,11 @@
 ## CVE-2022-30284 (2022-05-04T22:15:00)
 > ** DISPUTED ** In the python-libnmap package through 0.7.2 for Python, remote command execution can occur (if used in a client application that does not validate arguments). NOTE: the vendor believes it would be unrealistic for an application to call NmapProcess with arguments taken from input data that arrived over an untrusted network, and thus the CVSS score corresponds to an unrealistic use case. None of the NmapProcess documentation implies that this is an expected use case.
 - [Live-Hack-CVE/CVE-2022-30284](https://github.com/Live-Hack-CVE/CVE-2022-30284)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30284">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30284">
+
+---
+## CVE-2022-30283 (2022-11-15T21:15:00)
+> In UsbCoreDxe, tampering with the contents of the USB working buffer using DMA while certain USB transactions are in process leads to a TOCTOU problem that could be used by an attacker to cause SMRAM corruption and escalation of privileges The UsbCoreDxe module creates a working buffer for USB transactions outside of SMRAM. The code which uses can be inside of SMM, making the working buffer untrusted input. The buffer can be corrupted by DMA transfers. The SMM code code attempts to sanitize pointers to ensure all pointers refer to the working buffer, but when a pointer is not found in the list of pointers to sanitize, the current action is not aborted, leading to undefined behavior. This issue was discovered by Insyde engineering based on the general description provided by Intel's iSTARE group. Fixed in: Kernel 5.0: Version 05.09. 21 Kernel 5.1: Version 05.17.21 Kernel 5.2: Version 05.27.21 Kernel 5.3: Version 05.36.21 Kernel 5.4: Version 05.44.21 Kernel 5.5: Version 05.52.21 https://www.insyde.com/security-pledge/SA-2022063
+- [Live-Hack-CVE/CVE-2022-30283](https://github.com/Live-Hack-CVE/CVE-2022-30283)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30283">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30283">
 
 ---
 ## CVE-2022-30256 (2022-11-19T00:15:00)
@@ -5613,6 +5736,11 @@
 - [Chocapikk/CVE-2022-29303](https://github.com/Chocapikk/CVE-2022-29303)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2022-29303">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2022-29303">
 
 ---
+## CVE-2022-29279 (2022-11-15T22:15:00)
+> Use of a untrusted pointer allows tampering with SMRAM and OS memory in SdHostDriver and SdMmcDevice Use of a untrusted pointer allows tampering with SMRAM and OS memory in SdHostDriver and SdMmcDevice. This issue was discovered by Insyde during security review. It was fixed in: Kernel 5.0: version 05.09.17 Kernel 5.1: version 05.17.17 Kernel 5.2: version 05.27.17 Kernel 5.3: version 05.36.17 Kernel 5.4: version 05.44.17 Kernel 5.5: version 05.52.17 https://www.insyde.com/security-pledge/SA-2022062
+- [Live-Hack-CVE/CVE-2022-29279](https://github.com/Live-Hack-CVE/CVE-2022-29279)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29279">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29279">
+
+---
 ## CVE-2022-29278 (2022-11-15T22:15:00)
 > Incorrect pointer checks within the NvmExpressDxe driver can allow tampering with SMRAM and OS memory Incorrect pointer checks within the NvmExpressDxe driver can allow tampering with SMRAM and OS memory. This issue was discovered by Insyde during security review. Fixed in: Kernel 5.1: Version 05.17.23 Kernel 5.2: Version 05.27.23 Kernel 5.3: Version 05.36.23 Kernel 5.4: Version 05.44.23 Kernel 5.5: Version 05.52.23 https://www.insyde.com/security-pledge/SA-2022061
 - [Live-Hack-CVE/CVE-2022-29278](https://github.com/Live-Hack-CVE/CVE-2022-29278)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29278">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29278">
@@ -5621,6 +5749,11 @@
 ## CVE-2022-29276 (2022-11-15T22:15:00)
 > SMI functions in AhciBusDxe use untrusted inputs leading to corruption of SMRAM. SMI functions in AhciBusDxe use untrusted inputs leading to corruption of SMRAM. This issue was discovered by Insyde during security review. It was fixed in: Kernel 5.0: version 05.09.18 Kernel 5.1: version 05.17.18 Kernel 5.2: version 05.27.18 Kernel 5.3: version 05.36.18 Kernel 5.4: version 05.44.18 Kernel 5.5: version 05.52.18 https://www.insyde.com/security-pledge/SA-2022059
 - [Live-Hack-CVE/CVE-2022-29276](https://github.com/Live-Hack-CVE/CVE-2022-29276)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29276">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29276">
+
+---
+## CVE-2022-29275 (2022-11-15T21:15:00)
+> In UsbCoreDxe, untrusted input may allow SMRAM or OS memory tampering Use of untrusted pointers could allow OS or SMRAM memory tampering leading to escalation of privileges. This issue was discovered by Insyde during security review. It was fixed in: Kernel 5.0: version 05.09.21 Kernel 5.1: version 05.17.21 Kernel 5.2: version 05.27.21 Kernel 5.3: version 05.36.21 Kernel 5.4: version 05.44.21 Kernel 5.5: version 05.52.21 https://www.insyde.com/security-pledge/SA-2022058
+- [Live-Hack-CVE/CVE-2022-29275](https://github.com/Live-Hack-CVE/CVE-2022-29275)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29275">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29275">
 
 ---
 ## CVE-2022-29248 (2022-05-25T18:15:00)
@@ -6132,6 +6265,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [lishang520/CVE-2022-24990](https://github.com/lishang520/CVE-2022-24990)	<img alt="forks" src="https://img.shields.io/github/forks/lishang520/CVE-2022-24990">	<img alt="stars" src="https://img.shields.io/github/stars/lishang520/CVE-2022-24990">
 - [VVeakee/CVE-2022-24990-POC](https://github.com/VVeakee/CVE-2022-24990-POC)	<img alt="forks" src="https://img.shields.io/github/forks/VVeakee/CVE-2022-24990-POC">	<img alt="stars" src="https://img.shields.io/github/stars/VVeakee/CVE-2022-24990-POC">
 - [Jaky5155/CVE-2022-24990-TerraMaster-TOS--PHP-](https://github.com/Jaky5155/CVE-2022-24990-TerraMaster-TOS--PHP-)	<img alt="forks" src="https://img.shields.io/github/forks/Jaky5155/CVE-2022-24990-TerraMaster-TOS--PHP-">	<img alt="stars" src="https://img.shields.io/github/stars/Jaky5155/CVE-2022-24990-TerraMaster-TOS--PHP-">
+
+---
+## CVE-2022-24939 (2022-11-18T00:15:00)
+> A malformed packet containing an invalid destination address, causes a stack overflow in the Ember ZNet stack. This causes an assert which leads to a reset, immediately clearing the error.
+- [Live-Hack-CVE/CVE-2022-24939](https://github.com/Live-Hack-CVE/CVE-2022-24939)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24939">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24939">
 
 ---
 ## CVE-2022-24853 (2022-04-14T22:15:00)
@@ -7459,6 +7597,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [NullBrunk/CVE-2022-1609](https://github.com/NullBrunk/CVE-2022-1609)	<img alt="forks" src="https://img.shields.io/github/forks/NullBrunk/CVE-2022-1609">	<img alt="stars" src="https://img.shields.io/github/stars/NullBrunk/CVE-2022-1609">
 - [0xSojalSec/-CVE-2022-1609](https://github.com/0xSojalSec/-CVE-2022-1609)	<img alt="forks" src="https://img.shields.io/github/forks/0xSojalSec/-CVE-2022-1609">	<img alt="stars" src="https://img.shields.io/github/stars/0xSojalSec/-CVE-2022-1609">
 - [savior-only/CVE-2022-1609](https://github.com/savior-only/CVE-2022-1609)	<img alt="forks" src="https://img.shields.io/github/forks/savior-only/CVE-2022-1609">	<img alt="stars" src="https://img.shields.io/github/stars/savior-only/CVE-2022-1609">
+
+---
+## CVE-2022-1579 (2022-11-21T11:15:00)
+> The function check_is_login_page() uses headers for the IP check, which can be easily spoofed.
+- [Live-Hack-CVE/CVE-2022-1579](https://github.com/Live-Hack-CVE/CVE-2022-1579)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1579">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1579">
 
 ---
 ## CVE-2022-1552 (2022-08-31T16:15:00)

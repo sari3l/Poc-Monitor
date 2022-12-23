@@ -46,6 +46,11 @@
 - [Live-Hack-CVE/CVE-2021-45450](https://github.com/Live-Hack-CVE/CVE-2021-45450)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45450">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45450">
 
 ---
+## CVE-2021-45346 (2022-02-14T19:15:00)
+> ** DISPUTED ** A Memory Leak vulnerability exists in SQLite Project SQLite3 3.35.1 and 3.37.0 via maliciously crafted SQL Queries (made via editing the Database File), it is possible to query a record, and leak subsequent bytes of memory that extend beyond the record, which could let a malicious user obtain sensitive information. NOTE: The developer disputes this as a vulnerability stating that If you give SQLite a corrupted database file and submit a query against the database, it might read parts of the database that you did not intend or expect.
+- [Live-Hack-CVE/CVE-2021-45346](https://github.com/Live-Hack-CVE/CVE-2021-45346)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45346">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45346">
+
+---
 ## CVE-2021-45067 (2022-01-14T20:15:00)
 > Acrobat Reader DC version 21.007.20099 (and earlier), 20.004.30017 (and earlier) and 17.011.30204 (and earlier) are affected by an Access of Memory Location After End of Buffer vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
 - [hacksysteam/CVE-2021-45067](https://github.com/hacksysteam/CVE-2021-45067)	<img alt="forks" src="https://img.shields.io/github/forks/hacksysteam/CVE-2021-45067">	<img alt="stars" src="https://img.shields.io/github/stars/hacksysteam/CVE-2021-45067">
@@ -992,6 +997,11 @@
 ## CVE-2021-3638 (2022-03-03T23:15:00)
 > An out-of-bounds memory access flaw was found in the ATI VGA device emulation of QEMU. This flaw occurs in the ati_2d_blt() routine while handling MMIO write operations when the guest provides invalid values for the destination display parameters. A malicious guest could use this flaw to crash the QEMU process on the host, resulting in a denial of service.
 - [Live-Hack-CVE/CVE-2021-3638](https://github.com/Live-Hack-CVE/CVE-2021-3638)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3638">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3638">
+
+---
+## CVE-2021-3632 (2022-08-26T16:15:00)
+> A flaw was found in Keycloak. This vulnerability allows anyone to register a new security device or key when there is not a device already registered for any user by using the WebAuthn password-less login flow.
+- [Live-Hack-CVE/CVE-2021-3632](https://github.com/Live-Hack-CVE/CVE-2021-3632)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3632">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3632">
 
 ---
 ## CVE-2021-36260 (2021-09-22T13:15:00)
