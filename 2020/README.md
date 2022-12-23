@@ -101,6 +101,51 @@
 - [Live-Hack-CVE/CVE-2020-8002](https://github.com/Live-Hack-CVE/CVE-2020-8002)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8002">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8002">
 
 ---
+## CVE-2020-7788 (2020-12-11T11:15:00)
+> This affects the package ini before 1.3.6. If an attacker submits a malicious INI file to an application that parses it with ini.parse, they will pollute the prototype on the application. This can be exploited further depending on the context.
+- [Live-Hack-CVE/CVE-2020-7788](https://github.com/Live-Hack-CVE/CVE-2020-7788)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7788">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7788">
+
+---
+## CVE-2020-7774 (2020-11-17T13:15:00)
+> The package y18n before 3.2.2, 4.0.1 and 5.0.5, is vulnerable to Prototype Pollution.
+- [Live-Hack-CVE/CVE-2020-7774](https://github.com/Live-Hack-CVE/CVE-2020-7774)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7774">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7774">
+
+---
+## CVE-2020-7770 (2020-11-12T11:15:00)
+> This affects the package json8 before 1.0.3. The function adds in the target object the property specified in the path, however it does not properly check the key being set, leading to a prototype pollution.
+- [Live-Hack-CVE/CVE-2020-7770](https://github.com/Live-Hack-CVE/CVE-2020-7770)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7770">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7770">
+
+---
+## CVE-2020-7768 (2020-11-11T11:15:00)
+> The package grpc before 1.24.4; the package @grpc/grpc-js before 1.1.8 are vulnerable to Prototype Pollution via loadPackageDefinition.
+- [Live-Hack-CVE/CVE-2020-7768](https://github.com/Live-Hack-CVE/CVE-2020-7768)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7768">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7768">
+
+---
+## CVE-2020-7766 (2020-11-10T16:15:00)
+> This affects all versions of package json-ptr. The issue occurs in the set operation (https://flitbit.github.io/json-ptr/classes/_src_pointer_.jsonpointer.htmlset) when the force flag is set to true. The function recursively set the property in the target object, however it does not properly check the key being set, leading to a prototype pollution.
+- [Live-Hack-CVE/CVE-2020-7766](https://github.com/Live-Hack-CVE/CVE-2020-7766)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7766">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7766">
+
+---
+## CVE-2020-7748 (2020-10-20T11:15:00)
+> This affects the package @tsed/core before 5.65.7. This vulnerability relates to the deepExtend function which is used as part of the utils directory. Depending on if user input is provided, an attacker can overwrite and pollute the object prototype of a program.
+- [Live-Hack-CVE/CVE-2020-7748](https://github.com/Live-Hack-CVE/CVE-2020-7748)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7748">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7748">
+
+---
+## CVE-2020-7746 (2020-10-29T08:15:00)
+> This affects the package chart.js before 2.9.4. The options parameter is not properly sanitized when it is processed. When the options are processed, the existing options (or the defaults options) are deeply merged with provided options. However, during this operation, the keys of the object being set are not checked, leading to a prototype pollution.
+- [Live-Hack-CVE/CVE-2020-7746](https://github.com/Live-Hack-CVE/CVE-2020-7746)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7746">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7746">
+
+---
+## CVE-2020-7737 (2020-10-02T10:15:00)
+> All versions of package safetydance are vulnerable to Prototype Pollution via the set function.
+- [Live-Hack-CVE/CVE-2020-7737](https://github.com/Live-Hack-CVE/CVE-2020-7737)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7737">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7737">
+
+---
+## CVE-2020-7736 (2020-10-02T10:15:00)
+> The package bmoor before 0.8.12 are vulnerable to Prototype Pollution via the set function.
+- [Live-Hack-CVE/CVE-2020-7736](https://github.com/Live-Hack-CVE/CVE-2020-7736)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7736">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7736">
+
+---
 ## CVE-2020-7723 (2020-09-01T10:15:00)
 > All versions of package promisehelpers are vulnerable to Prototype Pollution via the insert function.
 - [Live-Hack-CVE/CVE-2020-7723](https://github.com/Live-Hack-CVE/CVE-2020-7723)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7723">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7723">
@@ -154,6 +199,11 @@
 ## CVE-2020-7713 (2020-09-01T09:15:00)
 > All versions of package arr-flatten-unflatten are vulnerable to Prototype Pollution via the constructor.
 - [Live-Hack-CVE/CVE-2020-7713](https://github.com/Live-Hack-CVE/CVE-2020-7713)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7713">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7713">
+
+---
+## CVE-2020-7709 (2020-10-05T08:15:00)
+> This affects the package json-pointer before 0.6.1. Multiple reference of object using slash is supported.
+- [Live-Hack-CVE/CVE-2020-7709](https://github.com/Live-Hack-CVE/CVE-2020-7709)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7709">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7709">
 
 ---
 ## CVE-2020-7708 (2020-08-18T15:15:00)
@@ -428,6 +478,31 @@
 - [Live-Hack-CVE/CVE-2020-28601](https://github.com/Live-Hack-CVE/CVE-2020-28601)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28601">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28601">
 
 ---
+## CVE-2020-28460 (2020-12-22T13:15:00)
+> This affects the package multi-ini before 2.1.2. It is possible to pollute an object's prototype by specifying the constructor.proto object as part of an array. This is a bypass of CVE-2020-28448.
+- [Live-Hack-CVE/CVE-2020-28460](https://github.com/Live-Hack-CVE/CVE-2020-28460)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28460">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28460">
+
+---
+## CVE-2020-28448 (2020-12-22T13:15:00)
+> This affects the package multi-ini before 2.1.1. It is possible to pollute an object's prototype by specifying the proto object as part of an array.
+- [Live-Hack-CVE/CVE-2020-28448](https://github.com/Live-Hack-CVE/CVE-2020-28448)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28448">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28448">
+
+---
+## CVE-2020-28271 (2020-11-12T18:15:00)
+> Prototype pollution vulnerability in 'deephas' versions 1.0.0 through 1.0.5 allows attacker to cause a denial of service and may lead to remote code execution.
+- [Live-Hack-CVE/CVE-2020-28271](https://github.com/Live-Hack-CVE/CVE-2020-28271)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28271">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28271">
+
+---
+## CVE-2020-28269 (2020-11-12T18:15:00)
+> Prototype pollution vulnerability in 'field' versions 0.0.1 through 1.0.1 allows attacker to cause a denial of service and may lead to remote code execution.
+- [Live-Hack-CVE/CVE-2020-28269](https://github.com/Live-Hack-CVE/CVE-2020-28269)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28269">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28269">
+
+---
+## CVE-2020-28268 (2020-11-15T23:15:00)
+> Prototype pollution vulnerability in 'controlled-merge' versions 1.0.0 through 1.2.0 allows attacker to cause a denial of service and may lead to remote code execution.
+- [Live-Hack-CVE/CVE-2020-28268](https://github.com/Live-Hack-CVE/CVE-2020-28268)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28268">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28268">
+
+---
 ## CVE-2020-27955 (2020-11-05T15:15:00)
 > Git LFS 2.12.0 allows Remote Code Execution.
 - [z50913/CVE-2020-27955](https://github.com/z50913/CVE-2020-27955)	<img alt="forks" src="https://img.shields.io/github/forks/z50913/CVE-2020-27955">	<img alt="stars" src="https://img.shields.io/github/stars/z50913/CVE-2020-27955">
@@ -541,6 +616,11 @@
 - [Aron-Tn/0day-elFinder-2020](https://github.com/Aron-Tn/0day-elFinder-2020)	<img alt="forks" src="https://img.shields.io/github/forks/Aron-Tn/0day-elFinder-2020">	<img alt="stars" src="https://img.shields.io/github/stars/Aron-Tn/0day-elFinder-2020">
 - [kakamband/WPKiller](https://github.com/kakamband/WPKiller)	<img alt="forks" src="https://img.shields.io/github/forks/kakamband/WPKiller">	<img alt="stars" src="https://img.shields.io/github/stars/kakamband/WPKiller">
 - [mansoorr123/wp-file-manager-CVE-2020-25213](https://github.com/mansoorr123/wp-file-manager-CVE-2020-25213)	<img alt="forks" src="https://img.shields.io/github/forks/mansoorr123/wp-file-manager-CVE-2020-25213">	<img alt="stars" src="https://img.shields.io/github/stars/mansoorr123/wp-file-manager-CVE-2020-25213">
+
+---
+## CVE-2020-24939 (2021-06-16T16:15:00)
+> Prototype pollution in Stampit supermixer 1.0.3 allows an attacker to modify the prototype of a base object which can vary in severity depending on the implementation.
+- [Live-Hack-CVE/CVE-2020-24939](https://github.com/Live-Hack-CVE/CVE-2020-24939)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24939">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24939">
 
 ---
 ## CVE-2020-24032 (2020-08-18T21:15:00)

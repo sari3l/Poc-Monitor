@@ -1479,6 +1479,11 @@
 - [Live-Hack-CVE/CVE-2021-26260](https://github.com/Live-Hack-CVE/CVE-2021-26260)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26260">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26260">
 
 ---
+## CVE-2021-26259 (2022-03-03T23:15:00)
+> A flaw was found in htmldoc in v1.9.12. Heap buffer overflow in render_table_row(),in ps-pdf.cxx may lead to arbitrary code execution and denial of service.
+- [Live-Hack-CVE/CVE-2021-26259](https://github.com/Live-Hack-CVE/CVE-2021-26259)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26259">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26259">
+
+---
 ## CVE-2021-26258 (2022-05-12T17:15:00)
 > Improper access control for the Intel(R) Killer(TM) Control Center software before version 2.4.3337.0 may allow an authorized user to potentially enable escalation of privilege via local access.
 - [zwclose/CVE-2021-26258](https://github.com/zwclose/CVE-2021-26258)	<img alt="forks" src="https://img.shields.io/github/forks/zwclose/CVE-2021-26258">	<img alt="stars" src="https://img.shields.io/github/stars/zwclose/CVE-2021-26258">

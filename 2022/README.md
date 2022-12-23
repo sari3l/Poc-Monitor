@@ -7002,6 +7002,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [SDragon1205/cve-2022-0441](https://github.com/SDragon1205/cve-2022-0441)	<img alt="forks" src="https://img.shields.io/github/forks/SDragon1205/cve-2022-0441">	<img alt="stars" src="https://img.shields.io/github/stars/SDragon1205/cve-2022-0441">
 
 ---
+## CVE-2022-0382 (2022-02-11T18:15:00)
+> An information leak flaw was found due to uninitialized memory in the Linux kernel's TIPC protocol subsystem, in the way a user sends a TIPC datagram to one or more destinations. This flaw allows a local user to read some kernel memory. This issue is limited to no more than 7 bytes, and the user cannot control what is read. This flaw affects the Linux kernel versions prior to 5.17-rc1.
+- [Live-Hack-CVE/CVE-2022-0382](https://github.com/Live-Hack-CVE/CVE-2022-0382)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0382">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0382">
+
+---
 ## CVE-2022-0337 ()
 > 
 - [Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera](https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera)	<img alt="forks" src="https://img.shields.io/github/forks/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera">	<img alt="stars" src="https://img.shields.io/github/stars/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera">

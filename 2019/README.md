@@ -190,9 +190,59 @@
 - [Live-Hack-CVE/CVE-2019-4267](https://github.com/Live-Hack-CVE/CVE-2019-4267)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4267">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4267">
 
 ---
+## CVE-2019-4249 (2019-06-27T14:15:00)
+> IBM Rational Collaborative Lifecycle Management 6.0 through 6.0.6.1 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 159647.
+- [Live-Hack-CVE/CVE-2019-4249](https://github.com/Live-Hack-CVE/CVE-2019-4249)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4249">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4249">
+
+---
+## CVE-2019-4246 (2019-10-01T15:15:00)
+> IBM Daeja ViewONE Virtual 5.0 through 5.0.6 could expose internal parameters to ViewONE clients that could be used in further attacks against the system. IBM X-Force ID: 159521.
+- [Live-Hack-CVE/CVE-2019-4246](https://github.com/Live-Hack-CVE/CVE-2019-4246)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4246">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4246">
+
+---
+## CVE-2019-4241 (2019-06-26T15:15:00)
+> IBM PureApplication System 2.2.3.0 through 2.2.5.3 could allow an authenticated user with local access to bypass authentication and obtain administrative access. IBM X-Force ID: 159467.
+- [Live-Hack-CVE/CVE-2019-4241](https://github.com/Live-Hack-CVE/CVE-2019-4241)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4241">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4241">
+
+---
+## CVE-2019-4237 (2019-07-01T15:15:00)
+> A Cross-Frame Scripting vulnerability in IBM InfoSphere Information Server 11.3, 11.5, and 11.7 can allow an attacker to load the vulnerable application inside an HTML iframe tag on a malicious page. IBM X-Force ID: 159419.
+- [Live-Hack-CVE/CVE-2019-4237](https://github.com/Live-Hack-CVE/CVE-2019-4237)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4237">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4237">
+
+---
+## CVE-2019-4236 (2019-07-22T14:15:00)
+> A IBM Spectrum Protect 7.l client backup or archive operation running for an HP-UX VxFS object is silently skipping Access Control List (ACL) entries from backup or archive if there are more than twelve ACL entries associated with the object in total. As a result, it could allow a local attacker to restore or retrieve the object with incorrect ACL entries. IBM X-Force ID: 159418.
+- [Live-Hack-CVE/CVE-2019-4236](https://github.com/Live-Hack-CVE/CVE-2019-4236)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4236">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4236">
+
+---
+## CVE-2019-4235 (2019-06-26T15:15:00)
+> IBM PureApplication System 2.2.3.0 through 2.2.5.3 does not require that users should have strong passwords by default, which makes it easier for attackers to compromise user accounts. IBM X-Force ID: 159417.
+- [Live-Hack-CVE/CVE-2019-4235](https://github.com/Live-Hack-CVE/CVE-2019-4235)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4235">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4235">
+
+---
+## CVE-2019-4234 (2019-06-26T15:15:00)
+> IBM PureApplication System 2.2.3.0 through 2.2.5.3 weakness in the implementation of locking feature in pattern editor. An attacker by intercepting the subsequent requests can bypass business logic to modify the pattern to unlocked state. IBM X-Force ID: 159416.
+- [Live-Hack-CVE/CVE-2019-4234](https://github.com/Live-Hack-CVE/CVE-2019-4234)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4234">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4234">
+
+---
 ## CVE-2019-4231 (2019-12-20T17:15:00)
 > IBM Cognos Analytics 11.0 and 11.1 is vulnerable to cross-site request forgery which could allow an attacker to execute malicious and unauthorized actions transmitted from a user that the website trusts. IBM X-Force ID: 159356.
 - [Live-Hack-CVE/CVE-2019-4231](https://github.com/Live-Hack-CVE/CVE-2019-4231)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4231">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4231">
+
+---
+## CVE-2019-4227 (2019-10-04T14:15:00)
+> IBM MQ 8.0.0.4 - 8.0.0.12, 9.0.0.0 - 9.0.0.6, 9.1.0.0 - 9.1.0.2, and 9.1.0 - 9.1.2 AMQP Listeners could allow an unauthorized user to conduct a session fixation attack due to clients not being disconnected as they should. IBM X-Force ID: 159352.
+- [Live-Hack-CVE/CVE-2019-4227](https://github.com/Live-Hack-CVE/CVE-2019-4227)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4227">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4227">
+
+---
+## CVE-2019-4212 (2019-07-25T15:15:00)
+> IBM QRadar SIEM 7.2 and 7.3 is vulnerable to cross-site request forgery which could allow an attacker to execute malicious and unauthorized actions transmitted from a user that the website trusts. IBM X-Force ID: 159132.
+- [Live-Hack-CVE/CVE-2019-4212](https://github.com/Live-Hack-CVE/CVE-2019-4212)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4212">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4212">
+
+---
+## CVE-2019-4211 (2019-07-17T14:15:00)
+> IBM QRadar SIEM 7.2 and 7.3 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 159131.
+- [Live-Hack-CVE/CVE-2019-4211](https://github.com/Live-Hack-CVE/CVE-2019-4211)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4211">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4211">
 
 ---
 ## CVE-2019-4194 (2019-07-17T14:15:00)
@@ -626,6 +676,11 @@
 - [razordeveloper/CVE-2019-1205](https://github.com/razordeveloper/CVE-2019-1205)	<img alt="forks" src="https://img.shields.io/github/forks/razordeveloper/CVE-2019-1205">	<img alt="stars" src="https://img.shields.io/github/stars/razordeveloper/CVE-2019-1205">
 
 ---
+## CVE-2019-11810 (2019-05-07T14:29:00)
+> An issue was discovered in the Linux kernel before 5.0.7. A NULL pointer dereference can occur when megasas_create_frame_pool() fails in megasas_alloc_cmds() in drivers/scsi/megaraid/megaraid_sas_base.c. This causes a Denial of Service, related to a use-after-free.
+- [Live-Hack-CVE/CVE-2019-11810](https://github.com/Live-Hack-CVE/CVE-2019-11810)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11810">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11810">
+
+---
 ## CVE-2019-11510 (2019-05-08T17:29:00)
 > In Pulse Secure Pulse Connect Secure (PCS) 8.2 before 8.2R12.1, 8.3 before 8.3R7.1, and 9.0 before 9.0R3.4, an unauthenticated remote attacker can send a specially crafted URI to perform an arbitrary file reading vulnerability .
 - [trhacknon/CVE-2019-11510](https://github.com/trhacknon/CVE-2019-11510)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2019-11510">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2019-11510">
@@ -707,3 +762,8 @@
 ## CVE-2019-1010319 (2019-07-11T20:15:00)
 > WavPack 5.1.0 and earlier is affected by: CWE-457: Use of Uninitialized Variable. The impact is: Unexpected control flow, crashes, and segfaults. The component is: ParseWave64HeaderConfig (wave64.c:211). The attack vector is: Maliciously crafted .wav file. The fixed version is: After commit https://github.com/dbry/WavPack/commit/33a0025d1d63ccd05d9dbaa6923d52b1446a62fe.
 - [ahaShiyu/CVE-2019-1010319](https://github.com/ahaShiyu/CVE-2019-1010319)	<img alt="forks" src="https://img.shields.io/github/forks/ahaShiyu/CVE-2019-1010319">	<img alt="stars" src="https://img.shields.io/github/stars/ahaShiyu/CVE-2019-1010319">
+
+---
+## CVE-2019-0230 (2020-09-14T17:15:00)
+> Apache Struts 2.0.0 to 2.5.20 forced double OGNL evaluation, when evaluated on raw user input in tag attributes, may lead to remote code execution.
+- [Live-Hack-CVE/CVE-2019-0230](https://github.com/Live-Hack-CVE/CVE-2019-0230)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-0230">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-0230">
