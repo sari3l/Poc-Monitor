@@ -212,6 +212,11 @@
 - [Hudi233/CVE-2020-3580](https://github.com/Hudi233/CVE-2020-3580)	<img alt="forks" src="https://img.shields.io/github/forks/Hudi233/CVE-2020-3580">	<img alt="stars" src="https://img.shields.io/github/stars/Hudi233/CVE-2020-3580">
 
 ---
+## CVE-2020-35527 (2022-09-01T18:15:00)
+> In SQLite 3.31.1, there is an out of bounds access problem through ALTER TABLE for views that have a nested FROM clause.
+- [Live-Hack-CVE/CVE-2020-35527](https://github.com/Live-Hack-CVE/CVE-2020-35527)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35527">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35527">
+
+---
 ## CVE-2020-35476 (2020-12-16T08:15:00)
 > A remote code execution vulnerability occurs in OpenTSDB through 2.4.0 via command injection in the yrange parameter. The yrange value is written to a gnuplot file in the /tmp directory. This file is then executed via the mygnuplot.sh shell script. (tsd/GraphHandler.java attempted to prevent command injections by blocking backticks but this is insufficient.)
 - [glowbase/CVE-2020-35476](https://github.com/glowbase/CVE-2020-35476)	<img alt="forks" src="https://img.shields.io/github/forks/glowbase/CVE-2020-35476">	<img alt="stars" src="https://img.shields.io/github/stars/glowbase/CVE-2020-35476">

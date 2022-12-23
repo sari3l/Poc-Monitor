@@ -2208,9 +2208,30 @@
 - [v0lp3/CVE-2022-39066](https://github.com/v0lp3/CVE-2022-39066)	<img alt="forks" src="https://img.shields.io/github/forks/v0lp3/CVE-2022-39066">	<img alt="stars" src="https://img.shields.io/github/stars/v0lp3/CVE-2022-39066">
 
 ---
+## CVE-2022-3889 (2022-11-09T04:15:00)
+> Type confusion in V8 in Google Chrome prior to 107.0.5304.106 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
+- [Live-Hack-CVE/CVE-2022-3889](https://github.com/Live-Hack-CVE/CVE-2022-3889)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3889">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3889">
+
+---
+## CVE-2022-3888 (2022-11-09T04:15:00)
+> Use after free in WebCodecs in Google Chrome prior to 107.0.5304.106 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
+- [Live-Hack-CVE/CVE-2022-3888](https://github.com/Live-Hack-CVE/CVE-2022-3888)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3888">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3888">
+
+---
 ## CVE-2022-38873 (2022-12-20T20:15:00)
 > D-Link devices DAP-2310 v2.10rc036 and earlier, DAP-2330 v1.06rc020 and earlier, DAP-2360 v2.10rc050 and earlier, DAP-2553 v3.10rc031 and earlier, DAP-2660 v1.15rc093 and earlier, DAP-2690 v3.20rc106 and earlier, DAP-2695 v1.20rc119_beta31 and earlier, DAP-3320 v1.05rc027 beta and earlier, DAP-3662 v1.05rc047 and earlier allows attackers to cause a Denial of Service (DoS) via uploading a crafted firmware after modifying the firmware header.
 - [Live-Hack-CVE/CVE-2022-38873](https://github.com/Live-Hack-CVE/CVE-2022-38873)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38873">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38873">
+
+---
+## CVE-2022-3887 (2022-11-09T04:15:00)
+> Use after free in Web Workers in Google Chrome prior to 107.0.5304.106 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
+- [Live-Hack-CVE/CVE-2022-3887](https://github.com/Live-Hack-CVE/CVE-2022-3887)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3887">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3887">
+- [Live-Hack-CVE/CVE-2022-38873](https://github.com/Live-Hack-CVE/CVE-2022-38873)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38873">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38873">
+
+---
+## CVE-2022-3885 (2022-11-09T04:15:00)
+> Use after free in V8 in Google Chrome prior to 107.0.5304.106 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
+- [Live-Hack-CVE/CVE-2022-3885](https://github.com/Live-Hack-CVE/CVE-2022-3885)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3885">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3885">
 
 ---
 ## CVE-2022-3882 (2022-12-12T18:15:00)
@@ -2394,6 +2415,11 @@
 - [dbyio/cve-2022-37298](https://github.com/dbyio/cve-2022-37298)	<img alt="forks" src="https://img.shields.io/github/forks/dbyio/cve-2022-37298">	<img alt="stars" src="https://img.shields.io/github/stars/dbyio/cve-2022-37298">
 
 ---
+## CVE-2022-3723 (2022-11-01T23:15:00)
+> Type confusion in V8 in Google Chrome prior to 107.0.5304.87 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
+- [Live-Hack-CVE/CVE-2022-3723](https://github.com/Live-Hack-CVE/CVE-2022-3723)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3723">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3723">
+
+---
 ## CVE-2022-37210 ()
 > 
 - [AgainstTheLight/CVE-2022-37210](https://github.com/AgainstTheLight/CVE-2022-37210)	<img alt="forks" src="https://img.shields.io/github/forks/AgainstTheLight/CVE-2022-37210">	<img alt="stars" src="https://img.shields.io/github/stars/AgainstTheLight/CVE-2022-37210">
@@ -2555,6 +2581,11 @@
 ## CVE-2022-36663 (2022-09-06T21:15:00)
 > Gluu Oxauth before v4.4.1 allows attackers to execute blind SSRF (Server-Side Request Forgery) attacks via a crafted request_uri parameter.
 - [aqeisi/CVE-2022-36663-PoC](https://github.com/aqeisi/CVE-2022-36663-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/aqeisi/CVE-2022-36663-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/aqeisi/CVE-2022-36663-PoC">
+
+---
+## CVE-2022-3661 (2022-11-01T23:15:00)
+> Insufficient data validation in Extensions in Google Chrome prior to 107.0.5304.62 allowed a remote attacker who had compromised the renderer process to leak cross-origin data via a crafted Chrome Extension. (Chromium security severity: Low)
+- [Live-Hack-CVE/CVE-2022-3661](https://github.com/Live-Hack-CVE/CVE-2022-3661)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3661">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3661">
 
 ---
 ## CVE-2022-3656 (2022-11-01T23:15:00)
@@ -2963,6 +2994,21 @@
 - [Henry4E36/CVE-2022-33174](https://github.com/Henry4E36/CVE-2022-33174)	<img alt="forks" src="https://img.shields.io/github/forks/Henry4E36/CVE-2022-33174">	<img alt="stars" src="https://img.shields.io/github/stars/Henry4E36/CVE-2022-33174">
 
 ---
+## CVE-2022-3315 (2022-11-01T20:15:00)
+> Type confusion in Blink in Google Chrome prior to 106.0.5249.62 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: Low)
+- [Live-Hack-CVE/CVE-2022-3315](https://github.com/Live-Hack-CVE/CVE-2022-3315)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3315">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3315">
+
+---
+## CVE-2022-3314 (2022-11-01T20:15:00)
+> Use after free in logging in Google Chrome prior to 106.0.5249.62 allowed a remote attacker who had compromised a WebUI process to potentially perform a sandbox escape via a crafted HTML page. (Chromium security severity: Medium)
+- [Live-Hack-CVE/CVE-2022-3314](https://github.com/Live-Hack-CVE/CVE-2022-3314)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3314">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3314">
+
+---
+## CVE-2022-3313 (2022-11-01T20:15:00)
+> Incorrect security UI in full screen in Google Chrome prior to 106.0.5249.62 allowed a remote attacker to spoof security UI via a crafted HTML page. (Chromium security severity: Medium)
+- [Live-Hack-CVE/CVE-2022-3313](https://github.com/Live-Hack-CVE/CVE-2022-3313)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3313">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3313">
+
+---
 ## CVE-2022-33079 ()
 > 
 - [Bdenneu/CVE-2022-33079](https://github.com/Bdenneu/CVE-2022-33079)	<img alt="forks" src="https://img.shields.io/github/forks/Bdenneu/CVE-2022-33079">	<img alt="stars" src="https://img.shields.io/github/stars/Bdenneu/CVE-2022-33079">
@@ -2976,6 +3022,16 @@
 ## CVE-2022-32988 (2022-07-01T00:15:00)
 > Cross Site Scripting (XSS) vulnerability in router Asus DSL-N14U-B1 1.1.2.3_805 via the "*list" parameters (e.g. filter_lwlist, keyword_rulelist, etc) in every ".asp" page containing a list of stored strings. The following asp files are affected: (1) cgi-bin/APP_Installation.asp, (2) cgi-bin/Advanced_ACL_Content.asp, (3) cgi-bin/Advanced_ADSL_Content.asp, (4) cgi-bin/Advanced_ASUSDDNS_Content.asp, (5) cgi-bin/Advanced_AiDisk_ftp.asp, (6) cgi-bin/Advanced_AiDisk_samba.asp, (7) cgi-bin/Advanced_DSL_Content.asp, (8) cgi-bin/Advanced_Firewall_Content.asp, (9) cgi-bin/Advanced_FirmwareUpgrade_Content.asp, (10) cgi-bin/Advanced_GWStaticRoute_Content.asp, (11) cgi-bin/Advanced_IPTV_Content.asp, (12) cgi-bin/Advanced_IPv6_Content.asp, (13) cgi-bin/Advanced_KeywordFilter_Content.asp, (14) cgi-bin/Advanced_LAN_Content.asp, (15) cgi-bin/Advanced_Modem_Content.asp, (16) cgi-bin/Advanced_PortTrigger_Content.asp, (17) cgi-bin/Advanced_QOSUserPrio_Content.asp, (18) cgi-bin/Advanced_QOSUserRules_Content.asp, (19) cgi-bin/Advanced_SettingBackup_Content.asp, (20) cgi-bin/Advanced_System_Content.asp, (21) cgi-bin/Advanced_URLFilter_Content.asp, (22) cgi-bin/Advanced_VPN_PPTP.asp, (23) cgi-bin/Advanced_VirtualServer_Content.asp, (24) cgi-bin/Advanced_WANPort_Content.asp, (25) cgi-bin/Advanced_WAdvanced_Content.asp, (26) cgi-bin/Advanced_WMode_Content.asp, (27) cgi-bin/Advanced_WWPS_Content.asp, (28) cgi-bin/Advanced_Wireless_Content.asp, (29) cgi-bin/Bandwidth_Limiter.asp, (30) cgi-bin/Guest_network.asp, (31) cgi-bin/Main_AccessLog_Content.asp, (32) cgi-bin/Main_AdslStatus_Content.asp, (33) cgi-bin/Main_Spectrum_Content.asp, (34) cgi-bin/Main_WebHistory_Content.asp, (35) cgi-bin/ParentalControl.asp, (36) cgi-bin/QIS_wizard.asp, (37) cgi-bin/QoS_EZQoS.asp, (38) cgi-bin/aidisk.asp, (39) cgi-bin/aidisk/Aidisk-1.asp, (40) cgi-bin/aidisk/Aidisk-2.asp, (41) cgi-bin/aidisk/Aidisk-3.asp, (42) cgi-bin/aidisk/Aidisk-4.asp, (43) cgi-bin/blocking.asp, (44) cgi-bin/cloud_main.asp, (45) cgi-bin/cloud_router_sync.asp, (46) cgi-bin/cloud_settings.asp, (47) cgi-bin/cloud_sync.asp, (48) cgi-bin/device-map/DSL_dashboard.asp, (49) cgi-bin/device-map/clients.asp, (50) cgi-bin/device-map/disk.asp, (51) cgi-bin/device-map/internet.asp, (52) cgi-bin/error_page.asp, (53) cgi-bin/index.asp, (54) cgi-bin/index2.asp, (55) cgi-bin/qis/QIS_PTM_manual_setting.asp, (56) cgi-bin/qis/QIS_admin_pass.asp, (57) cgi-bin/qis/QIS_annex_setting.asp, (58) cgi-bin/qis/QIS_bridge_cfg_tmp.asp, (59) cgi-bin/qis/QIS_detect.asp, (60) cgi-bin/qis/QIS_finish.asp, (61) cgi-bin/qis/QIS_ipoa_cfg_tmp.asp, (62) cgi-bin/qis/QIS_manual_setting.asp, (63) cgi-bin/qis/QIS_mer_cfg.asp, (64) cgi-bin/qis/QIS_mer_cfg_tmp.asp, (65) cgi-bin/qis/QIS_ppp_cfg.asp, (66) cgi-bin/qis/QIS_ppp_cfg_tmp.asp, (67) cgi-bin/qis/QIS_wireless.asp, (68) cgi-bin/query_wan_status.asp, (69) cgi-bin/query_wan_status2.asp, and (70) cgi-bin/start_apply.asp.
 - [FedericoHeichou/CVE-2022-32988](https://github.com/FedericoHeichou/CVE-2022-32988)	<img alt="forks" src="https://img.shields.io/github/forks/FedericoHeichou/CVE-2022-32988">	<img alt="stars" src="https://img.shields.io/github/stars/FedericoHeichou/CVE-2022-32988">
+
+---
+## CVE-2022-3297 (2022-09-25T19:15:00)
+> Use After Free in GitHub repository vim/vim prior to 9.0.0579.
+- [Live-Hack-CVE/CVE-2022-3297](https://github.com/Live-Hack-CVE/CVE-2022-3297)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3297">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3297">
+
+---
+## CVE-2022-3296 (2022-09-25T17:15:00)
+> Stack-based Buffer Overflow in GitHub repository vim/vim prior to 9.0.0577.
+- [Live-Hack-CVE/CVE-2022-3296](https://github.com/Live-Hack-CVE/CVE-2022-3296)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3296">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3296">
 
 ---
 ## CVE-2022-32942 (2022-12-15T19:15:00)
@@ -3002,6 +3058,11 @@
 > The issue was addressed with improved memory handling. This issue is fixed in iOS 15.6 and iPadOS 15.6, macOS Big Sur 11.6.8, watchOS 8.7, tvOS 15.6, macOS Monterey 12.5, Security Update 2022-005 Catalina. An app with root privileges may be able to execute arbitrary code with kernel privileges.
 - [Muirey03/CVE-2022-32832](https://github.com/Muirey03/CVE-2022-32832)	<img alt="forks" src="https://img.shields.io/github/forks/Muirey03/CVE-2022-32832">	<img alt="stars" src="https://img.shields.io/github/stars/Muirey03/CVE-2022-32832">
 - [AkbarTrilaksana/CVE-2022-32832](https://github.com/AkbarTrilaksana/CVE-2022-32832)	<img alt="forks" src="https://img.shields.io/github/forks/AkbarTrilaksana/CVE-2022-32832">	<img alt="stars" src="https://img.shields.io/github/stars/AkbarTrilaksana/CVE-2022-32832">
+
+---
+## CVE-2022-3278 (2022-09-23T22:15:00)
+> NULL Pointer Dereference in GitHub repository vim/vim prior to 9.0.0552.
+- [Live-Hack-CVE/CVE-2022-3278](https://github.com/Live-Hack-CVE/CVE-2022-3278)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3278">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3278">
 
 ---
 ## CVE-2022-3275 (2022-10-07T21:15:00)
@@ -3166,6 +3227,11 @@
 ## CVE-2022-31702 (2022-12-14T19:15:00)
 > vRealize Network Insight (vRNI) contains a command injection vulnerability present in the vRNI REST API. A malicious actor with network access to the vRNI REST API can execute commands without authentication.
 - [Live-Hack-CVE/CVE-2022-31702](https://github.com/Live-Hack-CVE/CVE-2022-31702)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31702">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31702">
+
+---
+## CVE-2022-3170 (2022-09-13T16:15:00)
+> An out-of-bounds access issue was found in the Linux kernel sound subsystem. It could occur when the 'id->name' provided by the user did not end with '\0'. A privileged local user could pass a specially crafted name through ioctl() interface and crash the system or potentially escalate their privileges on the system.
+- [Live-Hack-CVE/CVE-2022-3170](https://github.com/Live-Hack-CVE/CVE-2022-3170)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3170">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3170">
 
 ---
 ## CVE-2022-31699 (2022-12-13T16:15:00)
@@ -3737,6 +3803,11 @@
 - [a1ise/CVE-2022-29247](https://github.com/a1ise/CVE-2022-29247)	<img alt="forks" src="https://img.shields.io/github/forks/a1ise/CVE-2022-29247">	<img alt="stars" src="https://img.shields.io/github/stars/a1ise/CVE-2022-29247">
 
 ---
+## CVE-2022-29221 (2022-05-24T15:15:00)
+> Smarty is a template engine for PHP, facilitating the separation of presentation (HTML/CSS) from application logic. Prior to versions 3.1.45 and 4.1.1, template authors could inject php code by choosing a malicious {block} name or {include} file name. Sites that cannot fully trust template authors should upgrade to versions 3.1.45 or 4.1.1 to receive a patch for this issue. There are currently no known workarounds.
+- [Live-Hack-CVE/CVE-2022-29221](https://github.com/Live-Hack-CVE/CVE-2022-29221)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29221">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29221">
+
+---
 ## CVE-2022-29187 (2022-07-12T21:15:00)
 > Git is a distributed revision control system. Git prior to versions 2.37.1, 2.36.2, 2.35.4, 2.34.4, 2.33.4, 2.32.3, 2.31.4, and 2.30.5, is vulnerable to privilege escalation in all platforms. An unsuspecting user could still be affected by the issue reported in CVE-2022-24765, for example when navigating as root into a shared tmp directory that is owned by them, but where an attacker could create a git repository. Versions 2.37.1, 2.36.2, 2.35.4, 2.34.4, 2.33.4, 2.32.3, 2.31.4, and 2.30.5 contain a patch for this issue. The simplest way to avoid being affected by the exploit described in the example is to avoid running git as root (or an Administrator in Windows), and if needed to reduce its use to a minimum. While a generic workaround is not possible, a system could be hardened from the exploit described in the example by removing any such repository if it exists already and creating one as root to block any future attacks.
 - [Live-Hack-CVE/CVE-2022-29187](https://github.com/Live-Hack-CVE/CVE-2022-29187)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29187">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29187">
@@ -4154,6 +4225,16 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-24765](https://github.com/Live-Hack-CVE/CVE-2022-24765)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24765">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24765">
 
 ---
+## CVE-2022-24729 (2022-03-16T17:15:00)
+> CKEditor4 is an open source what-you-see-is-what-you-get HTML editor. CKEditor4 prior to version 4.18.0 contains a vulnerability in the `dialog` plugin. The vulnerability allows abuse of a dialog input validator regular expression, which can cause a significant performance drop resulting in a browser tab freeze. A patch is available in version 4.18.0. There are currently no known workarounds.
+- [Live-Hack-CVE/CVE-2022-24729](https://github.com/Live-Hack-CVE/CVE-2022-24729)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24729">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24729">
+
+---
+## CVE-2022-24728 (2022-03-16T16:15:00)
+> CKEditor4 is an open source what-you-see-is-what-you-get HTML editor. A vulnerability has been discovered in the core HTML processing module and may affect all plugins used by CKEditor 4 prior to version 4.18.0. The vulnerability allows someone to inject malformed HTML bypassing content sanitization, which could result in executing JavaScript code. This problem has been patched in version 4.18.0. There are currently no known workarounds.
+- [Live-Hack-CVE/CVE-2022-24728](https://github.com/Live-Hack-CVE/CVE-2022-24728)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24728">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24728">
+
+---
 ## CVE-2022-24706 (2022-04-26T10:15:00)
 > In Apache CouchDB prior to 3.2.2, an attacker can access an improperly secured default installation without authenticating and gain admin privileges. The CouchDB documentation has always made recommendations for properly securing an installation, including recommending using a firewall in front of all CouchDB installations.
 - [ahmetsabrimert/Apache-CouchDB-CVE-2022-24706-RCE-Exploits-Blog-post-](https://github.com/ahmetsabrimert/Apache-CouchDB-CVE-2022-24706-RCE-Exploits-Blog-post-)	<img alt="forks" src="https://img.shields.io/github/forks/ahmetsabrimert/Apache-CouchDB-CVE-2022-24706-RCE-Exploits-Blog-post-">	<img alt="stars" src="https://img.shields.io/github/stars/ahmetsabrimert/Apache-CouchDB-CVE-2022-24706-RCE-Exploits-Blog-post-">
@@ -4184,6 +4265,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [hupe1980/CVE-2022-24637](https://github.com/hupe1980/CVE-2022-24637)	<img alt="forks" src="https://img.shields.io/github/forks/hupe1980/CVE-2022-24637">	<img alt="stars" src="https://img.shields.io/github/stars/hupe1980/CVE-2022-24637">
 - [icebreack/CVE-2022-24637](https://github.com/icebreack/CVE-2022-24637)	<img alt="forks" src="https://img.shields.io/github/forks/icebreack/CVE-2022-24637">	<img alt="stars" src="https://img.shields.io/github/stars/icebreack/CVE-2022-24637">
 - [trhacknon/CVE-2022-24637](https://github.com/trhacknon/CVE-2022-24637)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-24637">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-24637">
+- [Live-Hack-CVE/CVE-2022-24637](https://github.com/Live-Hack-CVE/CVE-2022-24637)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24637">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24637">
 
 ---
 ## CVE-2022-24500 (2022-04-15T19:15:00)

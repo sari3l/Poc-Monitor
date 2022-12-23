@@ -36,6 +36,16 @@
 - [9lyph/CVE-2021-45901](https://github.com/9lyph/CVE-2021-45901)	<img alt="forks" src="https://img.shields.io/github/forks/9lyph/CVE-2021-45901">	<img alt="stars" src="https://img.shields.io/github/stars/9lyph/CVE-2021-45901">
 
 ---
+## CVE-2021-45451 (2021-12-21T07:15:00)
+> In Mbed TLS before 3.1.0, psa_aead_generate_nonce allows policy bypass or oracle-based decryption when the output buffer is at memory locations accessible to an untrusted application.
+- [Live-Hack-CVE/CVE-2021-45451](https://github.com/Live-Hack-CVE/CVE-2021-45451)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45451">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45451">
+
+---
+## CVE-2021-45450 (2021-12-21T07:15:00)
+> In Mbed TLS before 2.28.0 and 3.x before 3.1.0, psa_cipher_generate_iv and psa_cipher_encrypt allow policy bypass or oracle-based decryption when the output buffer is at memory locations accessible to an untrusted application.
+- [Live-Hack-CVE/CVE-2021-45450](https://github.com/Live-Hack-CVE/CVE-2021-45450)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45450">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45450">
+
+---
 ## CVE-2021-45067 (2022-01-14T20:15:00)
 > Acrobat Reader DC version 21.007.20099 (and earlier), 20.004.30017 (and earlier) and 17.011.30204 (and earlier) are affected by an Access of Memory Location After End of Buffer vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
 - [hacksysteam/CVE-2021-45067](https://github.com/hacksysteam/CVE-2021-45067)	<img alt="forks" src="https://img.shields.io/github/forks/hacksysteam/CVE-2021-45067">	<img alt="stars" src="https://img.shields.io/github/stars/hacksysteam/CVE-2021-45067">
@@ -216,6 +226,11 @@
 - [Live-Hack-CVE/CVE-2021-43657](https://github.com/Live-Hack-CVE/CVE-2021-43657)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43657">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43657">
 
 ---
+## CVE-2021-43618 (2021-11-15T04:15:00)
+> GNU Multiple Precision Arithmetic Library (GMP) through 6.2.1 has an mpz/inp_raw.c integer overflow and resultant buffer overflow via crafted input, leading to a segmentation fault on 32-bit platforms.
+- [Live-Hack-CVE/CVE-2021-43618](https://github.com/Live-Hack-CVE/CVE-2021-43618)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43618">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43618">
+
+---
 ## CVE-2021-43617 (2021-11-14T16:15:00)
 > Laravel Framework through 8.70.2 does not sufficiently block the upload of executable PHP content because Illuminate/Validation/Concerns/ValidatesAttributes.php lacks a check for .phar files, which are handled as application/x-httpd-php on systems based on Debian. NOTE: this CVE Record is for Laravel Framework, and is unrelated to any reports concerning incorrectly written user applications for image upload.
 - [aweiiy/CVE-2021-43617](https://github.com/aweiiy/CVE-2021-43617)	<img alt="forks" src="https://img.shields.io/github/forks/aweiiy/CVE-2021-43617">	<img alt="stars" src="https://img.shields.io/github/stars/aweiiy/CVE-2021-43617">
@@ -353,6 +368,11 @@
 ## CVE-2021-42192 (2022-05-04T11:15:00)
 > Konga v0.14.9 is affected by an incorrect access control vulnerability where a specially crafted request can lead to privilege escalation.
 - [Live-Hack-CVE/CVE-2021-42192](https://github.com/Live-Hack-CVE/CVE-2021-42192)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42192">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42192">
+
+---
+## CVE-2021-4203 (2022-03-25T19:15:00)
+> A use-after-free read flaw was found in sock_getsockopt() in net/core/sock.c due to SO_PEERCRED and SO_PEERGROUPS race with listen() (and connect()) in the Linux kernel. In this flaw, an attacker with a user privileges may crash the system or leak internal kernel information.
+- [Live-Hack-CVE/CVE-2021-4203](https://github.com/Live-Hack-CVE/CVE-2021-4203)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4203">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4203">
 
 ---
 ## CVE-2021-42013 (2021-10-07T16:15:00)
@@ -506,6 +526,11 @@
 ## CVE-2021-41184 (2021-10-26T15:15:00)
 > jQuery-UI is the official jQuery user interface library. Prior to version 1.13.0, accepting the value of the `of` option of the `.position()` util from untrusted sources may execute untrusted code. The issue is fixed in jQuery UI 1.13.0. Any string value passed to the `of` option is now treated as a CSS selector. A workaround is to not accept the value of the `of` option from untrusted sources.
 - [gabrielolivra/Exploit-Medium-CVE-2021-41184](https://github.com/gabrielolivra/Exploit-Medium-CVE-2021-41184)	<img alt="forks" src="https://img.shields.io/github/forks/gabrielolivra/Exploit-Medium-CVE-2021-41184">	<img alt="stars" src="https://img.shields.io/github/stars/gabrielolivra/Exploit-Medium-CVE-2021-41184">
+
+---
+## CVE-2021-41164 (2021-11-17T19:15:00)
+> CKEditor4 is an open source WYSIWYG HTML editor. In affected versions a vulnerability has been discovered in the Advanced Content Filter (ACF) module and may affect all plugins used by CKEditor 4. The vulnerability allowed to inject malformed HTML bypassing content sanitization, which could result in executing JavaScript code. It affects all users using the CKEditor 4 at version < 4.17.0. The problem has been recognized and patched. The fix will be available in version 4.17.0.
+- [Live-Hack-CVE/CVE-2021-41164](https://github.com/Live-Hack-CVE/CVE-2021-41164)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41164">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41164">
 
 ---
 ## CVE-2021-41078 (2021-10-26T13:15:00)
@@ -751,6 +776,11 @@
 - [zwjjustdoit/Xstream-1.4.17](https://github.com/zwjjustdoit/Xstream-1.4.17)	<img alt="forks" src="https://img.shields.io/github/forks/zwjjustdoit/Xstream-1.4.17">	<img alt="stars" src="https://img.shields.io/github/stars/zwjjustdoit/Xstream-1.4.17">
 
 ---
+## CVE-2021-39077 (2022-11-03T20:15:00)
+> IBM Security Guardium 10.5, 10.6, 11.0, 11.1, 11.2, 11.3, and 11.4 stores user credentials in plain clear text which can be read by a local privileged user. IBM X-Force ID: 215587.
+- [Live-Hack-CVE/CVE-2021-39077](https://github.com/Live-Hack-CVE/CVE-2021-39077)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39077">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39077">
+
+---
 ## CVE-2021-38819 (2022-11-17T00:15:00)
 > A SQL injection vulnerability exits on the Simple Image Gallery System 1.0 application through "id" parameter on the album page.
 - [m4sk0ff/CVE-2021-38819](https://github.com/m4sk0ff/CVE-2021-38819)	<img alt="forks" src="https://img.shields.io/github/forks/m4sk0ff/CVE-2021-38819">	<img alt="stars" src="https://img.shields.io/github/stars/m4sk0ff/CVE-2021-38819">
@@ -963,6 +993,11 @@
 ## CVE-2021-35448 (2021-06-24T20:15:00)
 > Emote Interactive Remote Mouse 3.008 on Windows allows attackers to execute arbitrary programs as Administrator by using the Image Transfer Folder feature to navigate to cmd.exe. It binds to local ports to listen for incoming connections.
 - [deathflash1411/CVE-2021-35448](https://github.com/deathflash1411/CVE-2021-35448)	<img alt="forks" src="https://img.shields.io/github/forks/deathflash1411/CVE-2021-35448">	<img alt="stars" src="https://img.shields.io/github/stars/deathflash1411/CVE-2021-35448">
+
+---
+## CVE-2021-35368 (2021-11-05T18:15:00)
+> OWASP ModSecurity Core Rule Set 3.1.x before 3.1.2, 3.2.x before 3.2.1, and 3.3.x before 3.3.2 is affected by a Request Body Bypass via a trailing pathname.
+- [Live-Hack-CVE/CVE-2021-35368](https://github.com/Live-Hack-CVE/CVE-2021-35368)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35368">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35368">
 
 ---
 ## CVE-2021-35296 (2021-10-04T17:15:00)
@@ -1231,6 +1266,11 @@
 ## CVE-2021-29969 (2021-08-05T20:15:00)
 > If Thunderbird was configured to use STARTTLS for an IMAP connection, and an attacker injected IMAP server responses prior to the completion of the STARTTLS handshake, then Thunderbird didn't ignore the injected data. This could have resulted in Thunderbird showing incorrect information, for example the attacker could have tricked Thunderbird to show folders that didn't exist on the IMAP server. This vulnerability affects Thunderbird < 78.12.
 - [Live-Hack-CVE/CVE-2021-29969](https://github.com/Live-Hack-CVE/CVE-2021-29969)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29969">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29969">
+
+---
+## CVE-2021-29454 (2022-01-10T20:15:00)
+> Smarty is a template engine for PHP, facilitating the separation of presentation (HTML/CSS) from application logic. Prior to versions 3.1.42 and 4.0.2, template authors could run arbitrary PHP code by crafting a malicious math string. If a math string was passed through as user provided data to the math function, external users could run arbitrary PHP code by crafting a malicious math string. Users should upgrade to version 3.1.42 or 4.0.2 to receive a patch.
+- [Live-Hack-CVE/CVE-2021-29454](https://github.com/Live-Hack-CVE/CVE-2021-29454)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29454">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29454">
 
 ---
 ## CVE-2021-29447 (2021-04-15T21:15:00)
@@ -1607,6 +1647,11 @@
 ## CVE-2021-21707 (2021-11-29T07:15:00)
 > In PHP versions 7.3.x below 7.3.33, 7.4.x below 7.4.26 and 8.0.x below 8.0.13, certain XML parsing functions, like simplexml_load_file(), URL-decode the filename passed to them. If that filename contains URL-encoded NUL character, this may cause the function to interpret this as the end of the filename, thus interpreting the filename differently from what the user intended, which may lead it to reading a different file than intended.
 - [Live-Hack-CVE/CVE-2021-21707](https://github.com/Live-Hack-CVE/CVE-2021-21707)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21707">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21707">
+
+---
+## CVE-2021-21408 (2022-01-10T20:15:00)
+> Smarty is a template engine for PHP, facilitating the separation of presentation (HTML/CSS) from application logic. Prior to versions 3.1.43 and 4.0.3, template authors could run restricted static php methods. Users should upgrade to version 3.1.43 or 4.0.3 to receive a patch.
+- [Live-Hack-CVE/CVE-2021-21408](https://github.com/Live-Hack-CVE/CVE-2021-21408)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21408">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21408">
 
 ---
 ## CVE-2021-21380 (2021-03-23T23:15:00)

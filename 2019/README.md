@@ -281,6 +281,11 @@
 - [black-mirror/Weblogic](https://github.com/black-mirror/Weblogic)	<img alt="forks" src="https://img.shields.io/github/forks/black-mirror/Weblogic">	<img alt="stars" src="https://img.shields.io/github/stars/black-mirror/Weblogic">
 
 ---
+## CVE-2019-20446 (2020-02-02T14:15:00)
+> In xml.rs in GNOME librsvg before 2.46.2, a crafted SVG file with nested patterns can cause denial of service when passed to the library for processing. The attacker constructs pattern elements so that the number of final rendered objects grows exponentially.
+- [Live-Hack-CVE/CVE-2019-20446](https://github.com/Live-Hack-CVE/CVE-2019-20446)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20446">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20446">
+
+---
 ## CVE-2019-19966 (2019-12-25T04:15:00)
 > In the Linux kernel before 5.1.6, there is a use-after-free in cpia2_exit() in drivers/media/usb/cpia2/cpia2_v4l.c that will cause denial of service, aka CID-dea37a972655.
 - [Live-Hack-CVE/CVE-2019-19966](https://github.com/Live-Hack-CVE/CVE-2019-19966)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19966">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19966">
@@ -335,6 +340,11 @@
 - [x1sec/citrix-honeypot](https://github.com/x1sec/citrix-honeypot)	<img alt="forks" src="https://img.shields.io/github/forks/x1sec/citrix-honeypot">	<img alt="stars" src="https://img.shields.io/github/stars/x1sec/citrix-honeypot">
 - [trhacknon/CVE-2019-19781](https://github.com/trhacknon/CVE-2019-19781)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2019-19781">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2019-19781">
 - [34zY/APT-Backpack](https://github.com/34zY/APT-Backpack)	<img alt="forks" src="https://img.shields.io/github/forks/34zY/APT-Backpack">	<img alt="stars" src="https://img.shields.io/github/stars/34zY/APT-Backpack">
+
+---
+## CVE-2019-19725 (2019-12-11T18:16:00)
+> sysstat through 12.2.0 has a double free in check_file_actlst in sa_common.c.
+- [Live-Hack-CVE/CVE-2019-19725](https://github.com/Live-Hack-CVE/CVE-2019-19725)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19725">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19725">
 
 ---
 ## CVE-2019-18845 (2019-11-09T18:15:00)
@@ -400,6 +410,11 @@
 ## CVE-2019-16278 (2019-10-14T17:15:00)
 > Directory Traversal in the function http_verify in nostromo nhttpd through 1.9.6 allows an attacker to achieve remote code execution via a crafted HTTP request.
 - [keshiba/cve-2019-16278](https://github.com/keshiba/cve-2019-16278)	<img alt="forks" src="https://img.shields.io/github/forks/keshiba/cve-2019-16278">	<img alt="stars" src="https://img.shields.io/github/stars/keshiba/cve-2019-16278">
+
+---
+## CVE-2019-16167 (2019-09-09T17:15:00)
+> sysstat before 12.1.6 has memory corruption due to an Integer Overflow in remap_struct() in sa_common.c.
+- [Live-Hack-CVE/CVE-2019-16167](https://github.com/Live-Hack-CVE/CVE-2019-16167)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16167">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16167">
 
 ---
 ## CVE-2019-15514 (2019-08-23T13:15:00)
