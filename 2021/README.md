@@ -1042,6 +1042,11 @@
 - [Live-Hack-CVE/CVE-2021-3933](https://github.com/Live-Hack-CVE/CVE-2021-3933)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3933">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3933">
 
 ---
+## CVE-2021-39175 (2021-08-30T21:15:00)
+> HedgeDoc is a platform to write and share markdown. In versions prior to 1.9.0, an unauthenticated attacker can inject arbitrary JavaScript into the speaker-notes of the slide-mode feature by embedding an iframe hosting the malicious code into the slides or by embedding the HedgeDoc instance into another page. The problem is patched in version 1.9.0. There are no known workarounds aside from upgrading.
+- [Live-Hack-CVE/CVE-2021-39175](https://github.com/Live-Hack-CVE/CVE-2021-39175)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39175">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39175">
+
+---
 ## CVE-2021-39172 (2021-08-27T23:15:00)
 > Cachet is an open source status page system. Prior to version 2.5.1, authenticated users, regardless of their privileges (User or Admin), can exploit a new line injection in the configuration edition feature (e.g. mail settings) and gain arbitrary code execution on the server. This issue was addressed in version 2.5.1 by improving `UpdateConfigCommandHandler` and preventing the use of new lines characters in new configuration values. As a workaround, only allow trusted source IP addresses to access to the administration dashboard.
 - [W1ngLess/CVE-2021-39172-RCE](https://github.com/W1ngLess/CVE-2021-39172-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/W1ngLess/CVE-2021-39172-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/W1ngLess/CVE-2021-39172-RCE">
@@ -1052,11 +1057,21 @@
 - [W0rty/CVE-2021-39165](https://github.com/W0rty/CVE-2021-39165)	<img alt="forks" src="https://img.shields.io/github/forks/W0rty/CVE-2021-39165">	<img alt="stars" src="https://img.shields.io/github/stars/W0rty/CVE-2021-39165">
 
 ---
+## CVE-2021-39164 (2021-08-31T17:15:00)
+> Matrix is an ecosystem for open federated Instant Messaging and Voice over IP. In versions 1.41.0 and prior, unauthorised users can access the membership (list of members, with their display names) of a room if they know the ID of the room. The vulnerability is limited to rooms with `shared` history visibility. Furthermore, the unauthorised user must be using an account on a vulnerable homeserver that is in the room. Server administrators should upgrade to 1.41.1 or later in order to receive the patch. One workaround is available. Administrators of servers that use a reverse proxy could, with potentially unacceptable loss of functionality, block the endpoints: `/_matrix/client/r0/rooms/{room_id}/members` with `at` query parameter, and `/_matrix/client/unstable/rooms/{room_id}/members` with `at` query parameter.
+- [Live-Hack-CVE/CVE-2021-39164](https://github.com/Live-Hack-CVE/CVE-2021-39164)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39164">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39164">
+
+---
 ## CVE-2021-39144 (2021-08-23T18:15:00)
 > XStream is a simple library to serialize objects to XML and back again. In affected versions this vulnerability may allow a remote attacker has sufficient rights to execute commands of the host only by manipulating the processed input stream. No user is affected, who followed the recommendation to setup XStream's security framework with a whitelist limited to the minimal required types. XStream 1.4.18 uses no longer a blacklist by default, since it cannot be secured for general purpose.
 - [b3wT/CVE-2021-39144-XSTREAM-RCE](https://github.com/b3wT/CVE-2021-39144-XSTREAM-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/b3wT/CVE-2021-39144-XSTREAM-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/b3wT/CVE-2021-39144-XSTREAM-RCE">
 - [zwjjustdoit/Xstream-1.4.17](https://github.com/zwjjustdoit/Xstream-1.4.17)	<img alt="forks" src="https://img.shields.io/github/forks/zwjjustdoit/Xstream-1.4.17">	<img alt="stars" src="https://img.shields.io/github/stars/zwjjustdoit/Xstream-1.4.17">
 - [Live-Hack-CVE/CVE-2021-39144](https://github.com/Live-Hack-CVE/CVE-2021-39144)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39144">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39144">
+
+---
+## CVE-2021-39135 (2021-08-31T17:15:00)
+> `@npmcli/arborist`, the library that calculates dependency trees and manages the node_modules folder hierarchy for the npm command line interface, aims to guarantee that package dependency contracts will be met, and the extraction of package contents will always be performed into the expected folder. This is accomplished by extracting package contents into a project's `node_modules` folder. If the `node_modules` folder of the root project or any of its dependencies is somehow replaced with a symbolic link, it could allow Arborist to write package dependencies to any arbitrary location on the file system. Note that symbolic links contained within package artifact contents are filtered out, so another means of creating a `node_modules` symbolic link would have to be employed. 1. A `preinstall` script could replace `node_modules` with a symlink. (This is prevented by using `--ignore-scripts`.) 2. An attacker could supply the target with a git repository, instructing them to run `npm install --ignore-scripts` in the root. This may be successful, because `npm install --ignore-scripts` is typically not capable of making changes outside of the project directory, so it may be deemed safe. This is patched in @npmcli/arborist 2.8.2 which is included in npm v7.20.7 and above. For more information including workarounds please see the referenced GHSA-gmw6-94gg-2rc2.
+- [Live-Hack-CVE/CVE-2021-39135](https://github.com/Live-Hack-CVE/CVE-2021-39135)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39135">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39135">
 
 ---
 ## CVE-2021-39077 (2022-11-03T20:15:00)
@@ -1629,6 +1644,11 @@
 - [Live-Hack-CVE/CVE-2021-3474](https://github.com/Live-Hack-CVE/CVE-2021-3474)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3474">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3474">
 
 ---
+## CVE-2021-34720 (2021-09-09T05:15:00)
+> A vulnerability in the IP Service Level Agreements (IP SLA) responder and Two-Way Active Measurement Protocol (TWAMP) features of Cisco IOS XR Software could allow an unauthenticated, remote attacker to cause device packet memory to become exhausted or cause the IP SLA process to crash, resulting in a denial of service (DoS) condition. This vulnerability exists because socket creation failures are mishandled during the IP SLA and TWAMP processes. An attacker could exploit this vulnerability by sending specific IP SLA or TWAMP packets to an affected device. A successful exploit could allow the attacker to exhaust the packet memory, which will impact other processes, such as routing protocols, or crash the IP SLA process.
+- [Live-Hack-CVE/CVE-2021-34720](https://github.com/Live-Hack-CVE/CVE-2021-34720)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34720">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34720">
+
+---
 ## CVE-2021-34627 (2021-07-07T13:15:00)
 > A vulnerability in the getSelectedMimeTypesByRole function of the WP Upload Restriction WordPress plugin allows low-level authenticated users to view custom extensions added by administrators. This issue affects versions 2.2.3 and prior.
 - [Live-Hack-CVE/CVE-2021-34627](https://github.com/Live-Hack-CVE/CVE-2021-34627)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34627">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34627">
@@ -2098,6 +2118,11 @@
 - [dorkerdevil/CVE-2021-27850_POC](https://github.com/dorkerdevil/CVE-2021-27850_POC)	<img alt="forks" src="https://img.shields.io/github/forks/dorkerdevil/CVE-2021-27850_POC">	<img alt="stars" src="https://img.shields.io/github/stars/dorkerdevil/CVE-2021-27850_POC">
 
 ---
+## CVE-2021-27663 (2021-08-30T18:15:00)
+> A vulnerability in versions 10.1 through 10.5 of Johnson Controls CEM Systems AC2000 allows a remote attacker to access to the system without adequate authorization. This issue affects: Johnson Controls CEM Systems AC2000 10.1; 10.2; 10.3; 10.4; 10.5.
+- [Live-Hack-CVE/CVE-2021-27663](https://github.com/Live-Hack-CVE/CVE-2021-27663)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27663">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27663">
+
+---
 ## CVE-2021-27634 (2021-06-09T14:15:00)
 > SAP NetWeaver AS for ABAP (RFC Gateway), versions - KRNL32NUC - 7.22,7.22EXT, KRNL64NUC - 7.22,7.22EXT,7.49, KRNL64UC - 8.04,7.22,7.22EXT,7.49,7.53,7.73, KERNEL - 7.22,8.04,7.49,7.53,7.73,7.77,7.81,7.82,7.83, allows an unauthenticated attacker without specific knowledge of the system to send a specially crafted packet over a network which will trigger an internal error in the system due to improper input validation in method ThCpicDtCreate () causing the system to crash and rendering it unavailable. In this attack, no data in the system can be viewed or modified.
 - [Live-Hack-CVE/CVE-2021-27634](https://github.com/Live-Hack-CVE/CVE-2021-27634)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27634">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27634">
@@ -2327,9 +2352,24 @@
 - [bkojusner/CVE-2021-25461](https://github.com/bkojusner/CVE-2021-25461)	<img alt="forks" src="https://img.shields.io/github/forks/bkojusner/CVE-2021-25461">	<img alt="stars" src="https://img.shields.io/github/stars/bkojusner/CVE-2021-25461">
 
 ---
+## CVE-2021-25320 (2021-07-15T09:15:00)
+> A Improper Access Control vulnerability in Rancher, allows users in the cluster to make request to cloud providers by creating requests with the cloud-credential ID. Rancher in this case would attach the requested credentials without further checks This issue affects: Rancher versions prior to 2.5.9; Rancher versions prior to 2.4.16.
+- [Live-Hack-CVE/CVE-2021-25320](https://github.com/Live-Hack-CVE/CVE-2021-25320)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25320">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25320">
+
+---
+## CVE-2021-25315 (2021-03-03T10:15:00)
+> A Incorrect Implementation of Authentication Algorithm vulnerability in of SUSE SUSE Linux Enterprise Server 15 SP 3; openSUSE Tumbleweed allows local attackers to execute arbitrary code via salt without the need to specify valid credentials. This issue affects: SUSE SUSE Linux Enterprise Server 15 SP 3 salt versions prior to 3002.2-3. openSUSE Tumbleweed salt version 3002.2-2.1 and prior versions.
+- [Live-Hack-CVE/CVE-2021-25315](https://github.com/Live-Hack-CVE/CVE-2021-25315)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25315">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25315">
+
+---
 ## CVE-2021-25219 (2021-10-27T21:15:00)
 > In BIND 9.3.0 -> 9.11.35, 9.12.0 -> 9.16.21, and versions 9.9.3-S1 -> 9.11.35-S1 and 9.16.8-S1 -> 9.16.21-S1 of BIND Supported Preview Edition, as well as release versions 9.17.0 -> 9.17.18 of the BIND 9.17 development branch, exploitation of broken authoritative servers using a flaw in response processing can cause degradation in BIND resolver performance. The way the lame cache is currently designed makes it possible for its internal data structures to grow almost infinitely, which may cause significant delays in client query processing.
 - [Live-Hack-CVE/CVE-2021-25219](https://github.com/Live-Hack-CVE/CVE-2021-25219)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25219">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25219">
+
+---
+## CVE-2021-25122 (2021-03-01T12:15:00)
+> When responding to new h2c connection requests, Apache Tomcat versions 10.0.0-M1 to 10.0.0, 9.0.0.M1 to 9.0.41 and 8.5.0 to 8.5.61 could duplicate request headers and a limited amount of request body from one request to another meaning user A and user B could both see the results of user A's request.
+- [Live-Hack-CVE/CVE-2021-25122](https://github.com/Live-Hack-CVE/CVE-2021-25122)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25122">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25122">
 
 ---
 ## CVE-2021-25121 (2022-06-20T11:15:00)
@@ -2588,6 +2628,11 @@
 - [se162xg/CVE-2021-22204](https://github.com/se162xg/CVE-2021-22204)	<img alt="forks" src="https://img.shields.io/github/forks/se162xg/CVE-2021-22204">	<img alt="stars" src="https://img.shields.io/github/stars/se162xg/CVE-2021-22204">
 
 ---
+## CVE-2021-22134 (2021-03-08T21:15:00)
+> A document disclosure flaw was found in Elasticsearch versions after 7.6.0 and before 7.11.0 when Document or Field Level Security is used. Get requests do not properly apply security permissions when executing a query against a recently updated document. This affects documents that have been updated and not yet refreshed in the index. This could result in the search disclosing the existence of documents and fields the attacker should not be able to view.
+- [Live-Hack-CVE/CVE-2021-22134](https://github.com/Live-Hack-CVE/CVE-2021-22134)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22134">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22134">
+
+---
 ## CVE-2021-22053 (2021-11-19T16:15:00)
 > Applications using both `spring-cloud-netflix-hystrix-dashboard` and `spring-boot-starter-thymeleaf` expose a way to execute code submitted within the request URI path during the resolution of view templates. When a request is made at `/hystrix/monitor;[user-provided data]`, the path elements following `hystrix/monitor` are being evaluated as SpringEL expressions, which can lead to code execution.
 - [Vulnmachines/CVE-2021-22053](https://github.com/Vulnmachines/CVE-2021-22053)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/CVE-2021-22053">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/CVE-2021-22053">
@@ -2665,6 +2710,16 @@
 ## CVE-2021-21707 (2021-11-29T07:15:00)
 > In PHP versions 7.3.x below 7.3.33, 7.4.x below 7.4.26 and 8.0.x below 8.0.13, certain XML parsing functions, like simplexml_load_file(), URL-decode the filename passed to them. If that filename contains URL-encoded NUL character, this may cause the function to interpret this as the end of the filename, thus interpreting the filename differently from what the user intended, which may lead it to reading a different file than intended.
 - [Live-Hack-CVE/CVE-2021-21707](https://github.com/Live-Hack-CVE/CVE-2021-21707)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21707">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21707">
+
+---
+## CVE-2021-21679 (2021-08-31T14:15:00)
+> Jenkins Azure AD Plugin 179.vf6841393099e and earlier allows attackers to craft URLs that would bypass the CSRF protection of any target URL in Jenkins.
+- [Live-Hack-CVE/CVE-2021-21679](https://github.com/Live-Hack-CVE/CVE-2021-21679)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21679">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21679">
+
+---
+## CVE-2021-21678 (2021-08-31T14:15:00)
+> Jenkins SAML Plugin 2.0.7 and earlier allows attackers to craft URLs that would bypass the CSRF protection of any target URL in Jenkins.
+- [Live-Hack-CVE/CVE-2021-21678](https://github.com/Live-Hack-CVE/CVE-2021-21678)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21678">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21678">
 
 ---
 ## CVE-2021-21408 (2022-01-10T20:15:00)

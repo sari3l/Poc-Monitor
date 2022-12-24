@@ -641,6 +641,11 @@
 - [9lyph/CVE-2020-27199](https://github.com/9lyph/CVE-2020-27199)	<img alt="forks" src="https://img.shields.io/github/forks/9lyph/CVE-2020-27199">	<img alt="stars" src="https://img.shields.io/github/stars/9lyph/CVE-2020-27199">
 
 ---
+## CVE-2020-2688 (2020-01-15T17:15:00)
+> Vulnerability in the Oracle Financial Services Analytical Applications Infrastructure product of Oracle Financial Services Applications (component: Object Migration). Supported versions that are affected are 8.0.4-8.0.8. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise Oracle Financial Services Analytical Applications Infrastructure. Successful attacks of this vulnerability can result in unauthorized access to critical data or complete access to all Oracle Financial Services Analytical Applications Infrastructure accessible data as well as unauthorized update, insert or delete access to some of Oracle Financial Services Analytical Applications Infrastructure accessible data. CVSS 3.0 Base Score 7.1 (Confidentiality and Integrity impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:L/A:N).
+- [Live-Hack-CVE/CVE-2020-2688](https://github.com/Live-Hack-CVE/CVE-2020-2688)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2688">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2688">
+
+---
 ## CVE-2020-26878 (2020-10-26T20:15:00)
 > Ruckus through 1.5.1.0.21 is affected by remote command injection. An authenticated user can submit a query to the API (/service/v1/createUser endpoint), injecting arbitrary commands that will be executed as root user via web.py.
 - [htarsoo/CVE-2020-26878](https://github.com/htarsoo/CVE-2020-26878)	<img alt="forks" src="https://img.shields.io/github/forks/htarsoo/CVE-2020-26878">	<img alt="stars" src="https://img.shields.io/github/stars/htarsoo/CVE-2020-26878">
@@ -689,6 +694,11 @@
 - [Live-Hack-CVE/CVE-2020-26185](https://github.com/Live-Hack-CVE/CVE-2020-26185)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-26185">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-26185">
 
 ---
+## CVE-2020-2592 (2020-01-15T17:15:00)
+> Vulnerability in the Oracle AutoVue product of Oracle Supply Chain (component: Security). The supported version that is affected is 21.0.2. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle AutoVue. Successful attacks of this vulnerability can result in unauthorized read access to a subset of Oracle AutoVue accessible data. CVSS 3.0 Base Score 5.3 (Confidentiality impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N).
+- [Live-Hack-CVE/CVE-2020-2592](https://github.com/Live-Hack-CVE/CVE-2020-2592)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2592">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2592">
+
+---
 ## CVE-2020-2585 (2020-01-15T17:15:00)
 > Vulnerability in the Java SE product of Oracle Java SE (component: JavaFX). The supported version that is affected is Java SE: 8u231. Difficult to exploit vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise Java SE. Successful attacks of this vulnerability can result in unauthorized creation, deletion or modification access to critical data or all Java SE accessible data. Note: This vulnerability applies to Java deployments, typically in clients running sandboxed Java Web Start applications or sandboxed Java applets (in Java SE 8), that load and run untrusted code (e.g., code that comes from the internet) and rely on the Java sandbox for security. This vulnerability can also be exploited by using APIs in the specified Component, e.g., through a web service which supplies data to the APIs. CVSS 3.0 Base Score 5.9 (Integrity impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:H/A:N).
 - [Live-Hack-CVE/CVE-2020-2585](https://github.com/Live-Hack-CVE/CVE-2020-2585)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2585">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2585">
@@ -709,6 +719,26 @@
 - [Live-Hack-CVE/CVE-2020-25596](https://github.com/Live-Hack-CVE/CVE-2020-25596)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25596">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25596">
 
 ---
+## CVE-2020-2559 (2020-01-15T17:15:00)
+> Vulnerability in the Siebel UI Framework product of Oracle Siebel CRM (component: UIF Open UI). Supported versions that are affected are 19.7 and prior. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Siebel UI Framework. Successful attacks of this vulnerability can result in unauthorized read access to a subset of Siebel UI Framework accessible data. CVSS 3.0 Base Score 5.3 (Confidentiality impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N).
+- [Live-Hack-CVE/CVE-2020-2559](https://github.com/Live-Hack-CVE/CVE-2020-2559)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2559">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2559">
+
+---
+## CVE-2020-2558 (2020-01-15T17:15:00)
+> Vulnerability in the Oracle Solaris product of Oracle Systems (component: Kernel). The supported version that is affected is 11. Easily exploitable vulnerability allows unauthenticated attacker with network access via SMB to compromise Oracle Solaris. While the vulnerability is in Oracle Solaris, attacks may significantly impact additional products. Successful attacks of this vulnerability can result in unauthorized ability to cause a partial denial of service (partial DOS) of Oracle Solaris. CVSS 3.0 Base Score 5.8 (Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:C/C:N/I:N/A:L).
+- [Live-Hack-CVE/CVE-2020-2558](https://github.com/Live-Hack-CVE/CVE-2020-2558)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2558">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2558">
+
+---
+## CVE-2020-2557 (2020-01-15T17:15:00)
+> Vulnerability in the Oracle Demantra Demand Management product of Oracle Supply Chain (component: Security). Supported versions that are affected are 12.2.4, 12.2.4.1, 12.2.5 and 12.2.5.1. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Demantra Demand Management. Successful attacks require human interaction from a person other than the attacker and while the vulnerability is in Oracle Demantra Demand Management, attacks may significantly impact additional products. Successful attacks of this vulnerability can result in unauthorized update, insert or delete access to some of Oracle Demantra Demand Management accessible data. CVSS 3.0 Base Score 4.7 (Integrity impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:N/I:L/A:N).
+- [Live-Hack-CVE/CVE-2020-2557](https://github.com/Live-Hack-CVE/CVE-2020-2557)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2557">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2557">
+
+---
+## CVE-2020-2556 (2020-01-15T17:15:00)
+> Vulnerability in the Primavera P6 Enterprise Project Portfolio Management product of Oracle Construction and Engineering (component: Core). Supported versions that are affected are 16.2.0.0-16.2.19.0, 17.12.0.0-17.12.16.0, 18.8.0.0-18.8.16.0, 19.12.0.0 and 20.1.0.0. Easily exploitable vulnerability allows low privileged attacker with logon to the infrastructure where Primavera P6 Enterprise Project Portfolio Management executes to compromise Primavera P6 Enterprise Project Portfolio Management. Successful attacks require human interaction from a person other than the attacker and while the vulnerability is in Primavera P6 Enterprise Project Portfolio Management, attacks may significantly impact additional products. Successful attacks of this vulnerability can result in unauthorized creation, deletion or modification access to critical data or all Primavera P6 Enterprise Project Portfolio Management accessible data as well as unauthorized read access to a subset of Primavera P6 Enterprise Project Portfolio Management accessible data and unauthorized ability to cause a partial denial of service (partial DOS) of Primavera P6 Enterprise Project Portfolio Management. CVSS 3.0 Base Score 7.3 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.0/AV:L/AC:L/PR:L/UI:R/S:C/C:L/I:H/A:L).
+- [Live-Hack-CVE/CVE-2020-2556](https://github.com/Live-Hack-CVE/CVE-2020-2556)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2556">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2556">
+
+---
 ## CVE-2020-2555 (2020-01-15T17:15:00)
 > Vulnerability in the Oracle Coherence product of Oracle Fusion Middleware (component: Caching,CacheStore,Invocation). Supported versions that are affected are 3.7.1.0, 12.1.3.0.0, 12.2.1.3.0 and 12.2.1.4.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3 to compromise Oracle Coherence. Successful attacks of this vulnerability can result in takeover of Oracle Coherence. CVSS 3.0 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).
 - [Y4er/CVE-2020-2555](https://github.com/Y4er/CVE-2020-2555)	<img alt="forks" src="https://img.shields.io/github/forks/Y4er/CVE-2020-2555">	<img alt="stars" src="https://img.shields.io/github/stars/Y4er/CVE-2020-2555">
@@ -725,6 +755,7 @@
 - [5l1v3r1/CVE-2020-2556](https://github.com/5l1v3r1/CVE-2020-2556)	<img alt="forks" src="https://img.shields.io/github/forks/5l1v3r1/CVE-2020-2556">	<img alt="stars" src="https://img.shields.io/github/stars/5l1v3r1/CVE-2020-2556">
 - [Maskhe/cve-2020-2555](https://github.com/Maskhe/cve-2020-2555)	<img alt="forks" src="https://img.shields.io/github/forks/Maskhe/cve-2020-2555">	<img alt="stars" src="https://img.shields.io/github/stars/Maskhe/cve-2020-2555">
 - [Hu3sky/CVE-2020-2555](https://github.com/Hu3sky/CVE-2020-2555)	<img alt="forks" src="https://img.shields.io/github/forks/Hu3sky/CVE-2020-2555">	<img alt="stars" src="https://img.shields.io/github/stars/Hu3sky/CVE-2020-2555">
+- [Live-Hack-CVE/CVE-2020-2555](https://github.com/Live-Hack-CVE/CVE-2020-2555)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2555">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2555">
 
 ---
 ## CVE-2020-25540 (2020-09-14T13:15:00)
@@ -734,14 +765,43 @@
 - [Rajchowdhury420/ThinkAdmin-CVE-2020-25540](https://github.com/Rajchowdhury420/ThinkAdmin-CVE-2020-25540)	<img alt="forks" src="https://img.shields.io/github/forks/Rajchowdhury420/ThinkAdmin-CVE-2020-25540">	<img alt="stars" src="https://img.shields.io/github/stars/Rajchowdhury420/ThinkAdmin-CVE-2020-25540">
 
 ---
+## CVE-2020-2552 (2020-01-15T17:15:00)
+> Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: WLS Core Components). Supported versions that are affected are 10.3.6.0.0 and 12.1.3.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks require human interaction from a person other than the attacker and while the vulnerability is in Oracle WebLogic Server, attacks may significantly impact additional products. Successful attacks of this vulnerability can result in unauthorized update, insert or delete access to some of Oracle WebLogic Server accessible data as well as unauthorized read access to a subset of Oracle WebLogic Server accessible data. CVSS 3.0 Base Score 4.8 (Confidentiality and Integrity impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:H/UI:R/S:C/C:L/I:L/A:N).
+- [Live-Hack-CVE/CVE-2020-2552](https://github.com/Live-Hack-CVE/CVE-2020-2552)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2552">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2552">
+
+---
 ## CVE-2020-25515 (2020-09-22T18:15:00)
 > Sourcecodester Simple Library Management System 1.0 is affected by Insecure Permissions via Books > New Book , http://<site>/lms/index.php?page=books.
 - [Ko-kn3t/CVE-2020-25515](https://github.com/Ko-kn3t/CVE-2020-25515)	<img alt="forks" src="https://img.shields.io/github/forks/Ko-kn3t/CVE-2020-25515">	<img alt="stars" src="https://img.shields.io/github/stars/Ko-kn3t/CVE-2020-25515">
 
 ---
+## CVE-2020-2551 (2020-01-15T17:15:00)
+> Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: WLS Core Components). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0 and 12.2.1.4.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via IIOP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.0 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).
+- [Live-Hack-CVE/CVE-2020-2551](https://github.com/Live-Hack-CVE/CVE-2020-2551)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2551">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2551">
+
+---
+## CVE-2020-2550 (2020-01-15T17:15:00)
+> Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: WLS Core Components). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0 and 12.2.1.4.0. Easily exploitable vulnerability allows high privileged attacker with logon to the infrastructure where Oracle WebLogic Server executes to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in unauthorized access to critical data or complete access to all Oracle WebLogic Server accessible data as well as unauthorized update, insert or delete access to some of Oracle WebLogic Server accessible data. CVSS 3.0 Base Score 5.1 (Confidentiality and Integrity impacts). CVSS Vector: (CVSS:3.0/AV:L/AC:L/PR:H/UI:N/S:U/C:H/I:L/A:N).
+- [Live-Hack-CVE/CVE-2020-2550](https://github.com/Live-Hack-CVE/CVE-2020-2550)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2550">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2550">
+
+---
+## CVE-2020-2549 (2020-01-15T17:15:00)
+> Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: WLS Core Components). The supported version that is affected is 10.3.6.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.0 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).
+- [Live-Hack-CVE/CVE-2020-2549](https://github.com/Live-Hack-CVE/CVE-2020-2549)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2549">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2549">
+
+---
 ## CVE-2020-25478 ()
 > 
 - [santokum/CVE-2020-25478--ASUS-RT-AC87U-TFTP-is-vulnerable-to-Denial-of-Service-DoS-attack](https://github.com/santokum/CVE-2020-25478--ASUS-RT-AC87U-TFTP-is-vulnerable-to-Denial-of-Service-DoS-attack)	<img alt="forks" src="https://img.shields.io/github/forks/santokum/CVE-2020-25478--ASUS-RT-AC87U-TFTP-is-vulnerable-to-Denial-of-Service-DoS-attack">	<img alt="stars" src="https://img.shields.io/github/stars/santokum/CVE-2020-25478--ASUS-RT-AC87U-TFTP-is-vulnerable-to-Denial-of-Service-DoS-attack">
+
+---
+## CVE-2020-2527 (2020-01-15T17:15:00)
+> Vulnerability in the Core RDBMS component of Oracle Database Server. Supported versions that are affected are 12.1.0.2, 12.2.0.1, 18c and 19c. Easily exploitable vulnerability allows high privileged attacker having Create Index, Create Table privilege with network access via OracleNet to compromise Core RDBMS. While the vulnerability is in Core RDBMS, attacks may significantly impact additional products. Successful attacks of this vulnerability can result in unauthorized read access to a subset of Core RDBMS accessible data. CVSS 3.0 Base Score 4.1 (Confidentiality impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:H/UI:N/S:C/C:L/I:N/A:N).
+- [Live-Hack-CVE/CVE-2020-2527](https://github.com/Live-Hack-CVE/CVE-2020-2527)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2527">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2527">
+- [Ko-kn3t/CVE-2020-25273](https://github.com/Ko-kn3t/CVE-2020-25273)	<img alt="forks" src="https://img.shields.io/github/forks/Ko-kn3t/CVE-2020-25273">	<img alt="stars" src="https://img.shields.io/github/stars/Ko-kn3t/CVE-2020-25273">
+- [Ko-kn3t/CVE-2020-25272](https://github.com/Ko-kn3t/CVE-2020-25272)	<img alt="forks" src="https://img.shields.io/github/forks/Ko-kn3t/CVE-2020-25272">	<img alt="stars" src="https://img.shields.io/github/stars/Ko-kn3t/CVE-2020-25272">
+- [Ko-kn3t/CVE-2020-25271](https://github.com/Ko-kn3t/CVE-2020-25271)	<img alt="forks" src="https://img.shields.io/github/forks/Ko-kn3t/CVE-2020-25271">	<img alt="stars" src="https://img.shields.io/github/stars/Ko-kn3t/CVE-2020-25271">
+- [Ko-kn3t/CVE-2020-25270](https://github.com/Ko-kn3t/CVE-2020-25270)	<img alt="forks" src="https://img.shields.io/github/forks/Ko-kn3t/CVE-2020-25270">	<img alt="stars" src="https://img.shields.io/github/stars/Ko-kn3t/CVE-2020-25270">
 
 ---
 ## CVE-2020-25213 (2020-09-09T16:15:00)
@@ -754,6 +814,36 @@
 - [Aron-Tn/0day-elFinder-2020](https://github.com/Aron-Tn/0day-elFinder-2020)	<img alt="forks" src="https://img.shields.io/github/forks/Aron-Tn/0day-elFinder-2020">	<img alt="stars" src="https://img.shields.io/github/stars/Aron-Tn/0day-elFinder-2020">
 - [kakamband/WPKiller](https://github.com/kakamband/WPKiller)	<img alt="forks" src="https://img.shields.io/github/forks/kakamband/WPKiller">	<img alt="stars" src="https://img.shields.io/github/stars/kakamband/WPKiller">
 - [mansoorr123/wp-file-manager-CVE-2020-25213](https://github.com/mansoorr123/wp-file-manager-CVE-2020-25213)	<img alt="forks" src="https://img.shields.io/github/forks/mansoorr123/wp-file-manager-CVE-2020-25213">	<img alt="stars" src="https://img.shields.io/github/stars/mansoorr123/wp-file-manager-CVE-2020-25213">
+
+---
+## CVE-2020-2519 (2020-01-15T17:15:00)
+> Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0 and 12.2.1.4.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks require human interaction from a person other than the attacker. Successful attacks of this vulnerability can result in unauthorized ability to cause a partial denial of service (partial DOS) of Oracle WebLogic Server. CVSS 3.0 Base Score 4.3 (Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:L).
+- [Live-Hack-CVE/CVE-2020-2519](https://github.com/Live-Hack-CVE/CVE-2020-2519)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2519">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2519">
+
+---
+## CVE-2020-2518 (2020-01-15T17:15:00)
+> Vulnerability in the Java VM component of Oracle Database Server. Supported versions that are affected are 11.2.0.4, 12.1.0.2, 12.2.0.1, 18c and 19c. Difficult to exploit vulnerability allows low privileged attacker having Create Session privilege with network access via multiple protocols to compromise Java VM. Successful attacks of this vulnerability can result in takeover of Java VM. CVSS 3.0 Base Score 7.5 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H).
+- [Live-Hack-CVE/CVE-2020-2518](https://github.com/Live-Hack-CVE/CVE-2020-2518)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2518">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2518">
+
+---
+## CVE-2020-2516 (2020-01-15T17:15:00)
+> Vulnerability in the Core RDBMS component of Oracle Database Server. Supported versions that are affected are 12.1.0.2, 12.2.0.1, 18c and 19c. Easily exploitable vulnerability allows high privileged attacker having Create Materialized View, Create Table privilege with network access via OracleNet to compromise Core RDBMS. Successful attacks require human interaction from a person other than the attacker. Successful attacks of this vulnerability can result in unauthorized update, insert or delete access to some of Core RDBMS accessible data. CVSS 3.0 Base Score 2.4 (Integrity impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:H/UI:R/S:U/C:N/I:L/A:N).
+- [Live-Hack-CVE/CVE-2020-2516](https://github.com/Live-Hack-CVE/CVE-2020-2516)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2516">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2516">
+
+---
+## CVE-2020-2515 (2020-01-15T17:15:00)
+> Vulnerability in the Database Gateway for ODBC component of Oracle Database Server. Supported versions that are affected are 11.2.0.4, 12.1.0.2, 12.2.0.1, 18c and 19c. Difficult to exploit vulnerability allows low privileged attacker having Create Session privilege with network access via OracleNet to compromise Database Gateway for ODBC. Successful attacks of this vulnerability can result in unauthorized update, insert or delete access to some of Database Gateway for ODBC accessible data as well as unauthorized read access to a subset of Database Gateway for ODBC accessible data and unauthorized ability to cause a partial denial of service (partial DOS) of Database Gateway for ODBC. CVSS 3.0 Base Score 5.0 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:H/PR:L/UI:N/S:U/C:L/I:L/A:L).
+- [Live-Hack-CVE/CVE-2020-2515](https://github.com/Live-Hack-CVE/CVE-2020-2515)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2515">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2515">
+
+---
+## CVE-2020-2512 (2020-01-15T17:15:00)
+> Vulnerability in the Database Gateway for ODBC component of Oracle Database Server. Supported versions that are affected are 11.2.0.4, 12.1.0.2, 12.2.0.1, 18c and 19c. Difficult to exploit vulnerability allows unauthenticated attacker with network access via OracleNet to compromise Database Gateway for ODBC. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of Database Gateway for ODBC. CVSS 3.0 Base Score 5.9 (Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:H).
+- [Live-Hack-CVE/CVE-2020-2512](https://github.com/Live-Hack-CVE/CVE-2020-2512)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2512">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2512">
+
+---
+## CVE-2020-2511 (2020-01-15T17:15:00)
+> Vulnerability in the Core RDBMS component of Oracle Database Server. Supported versions that are affected are 12.1.0.2, 12.2.0.1, 18c and 19c. Easily exploitable vulnerability allows low privileged attacker having Create Session privilege with network access via OracleNet to compromise Core RDBMS. While the vulnerability is in Core RDBMS, attacks may significantly impact additional products. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of Core RDBMS. CVSS 3.0 Base Score 7.7 (Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:L/UI:N/S:C/C:N/I:N/A:H).
+- [Live-Hack-CVE/CVE-2020-2511](https://github.com/Live-Hack-CVE/CVE-2020-2511)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2511">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2511">
 
 ---
 ## CVE-2020-24987 (2020-09-04T20:15:00)

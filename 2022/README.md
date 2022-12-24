@@ -8158,6 +8158,12 @@
 - [Live-Hack-CVE/CVE-2022-28169](https://github.com/Live-Hack-CVE/CVE-2022-28169)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28169">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28169">
 
 ---
+## CVE-2022-2816 (2022-08-15T22:15:00)
+> Out-of-bounds Read in GitHub repository vim/vim prior to 9.0.0212.
+- [Live-Hack-CVE/CVE-2022-2816](https://github.com/Live-Hack-CVE/CVE-2022-2816)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2816">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2816">
+- [Live-Hack-CVE/CVE-2022-28169](https://github.com/Live-Hack-CVE/CVE-2022-28169)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28169">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28169">
+
+---
 ## CVE-2022-28126 (2022-11-11T16:15:00)
 > Improper input validation in some Intel(R) XMM(TM) 7560 Modem software before version M2_7560_R_01.2146.00 may allow a privileged user to potentially enable escalation of privilege via local access.
 - [Live-Hack-CVE/CVE-2022-28126](https://github.com/Live-Hack-CVE/CVE-2022-28126)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28126">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28126">
