@@ -4941,9 +4941,34 @@
 - [Live-Hack-CVE/CVE-2022-40126](https://github.com/Live-Hack-CVE/CVE-2022-40126)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40126">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40126">
 
 ---
+## CVE-2022-40107 (2022-09-23T19:15:00)
+> Tenda i9 v1.0.0.8(3828) was discovered to contain a buffer overflow via the formexeCommand function. This vulnerability allows attackers to cause a Denial of Service (DoS) via a crafted string.
+- [Live-Hack-CVE/CVE-2022-40107](https://github.com/Live-Hack-CVE/CVE-2022-40107)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40107">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40107">
+
+---
+## CVE-2022-40106 (2022-09-23T19:15:00)
+> Tenda i9 v1.0.0.8(3828) was discovered to contain a buffer overflow via the set_local_time function. This vulnerability allows attackers to cause a Denial of Service (DoS) via a crafted string.
+- [Live-Hack-CVE/CVE-2022-40106](https://github.com/Live-Hack-CVE/CVE-2022-40106)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40106">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40106">
+
+---
 ## CVE-2022-40105 (2022-09-23T19:15:00)
 > Tenda i9 v1.0.0.8(3828) was discovered to contain a buffer overflow via the formWifiMacFilterGet function. This vulnerability allows attackers to cause a Denial of Service (DoS) via a crafted string.
 - [Live-Hack-CVE/CVE-2022-40105](https://github.com/Live-Hack-CVE/CVE-2022-40105)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40105">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40105">
+
+---
+## CVE-2022-40104 (2022-09-23T19:15:00)
+> Tenda i9 v1.0.0.8(3828) was discovered to contain a buffer overflow via the formwrlSSIDget function. This vulnerability allows attackers to cause a Denial of Service (DoS) via a crafted string.
+- [Live-Hack-CVE/CVE-2022-40104](https://github.com/Live-Hack-CVE/CVE-2022-40104)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40104">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40104">
+
+---
+## CVE-2022-40103 (2022-09-23T19:15:00)
+> Tenda i9 v1.0.0.8(3828) was discovered to contain a buffer overflow via the formSetAutoPing function. This vulnerability allows attackers to cause a Denial of Service (DoS) via a crafted string.
+- [Live-Hack-CVE/CVE-2022-40103](https://github.com/Live-Hack-CVE/CVE-2022-40103)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40103">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40103">
+
+---
+## CVE-2022-40102 (2022-09-23T19:15:00)
+> Tenda i9 v1.0.0.8(3828) was discovered to contain a buffer overflow via the formwrlSSIDset function. This vulnerability allows attackers to cause a Denial of Service (DoS) via a crafted string.
+- [Live-Hack-CVE/CVE-2022-40102](https://github.com/Live-Hack-CVE/CVE-2022-40102)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40102">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40102">
 
 ---
 ## CVE-2022-40101 (2022-09-23T19:15:00)
@@ -7653,6 +7678,51 @@
 - [ly1g3/Joplin-CVE-2022-35131](https://github.com/ly1g3/Joplin-CVE-2022-35131)	<img alt="forks" src="https://img.shields.io/github/forks/ly1g3/Joplin-CVE-2022-35131">	<img alt="stars" src="https://img.shields.io/github/stars/ly1g3/Joplin-CVE-2022-35131">
 
 ---
+## CVE-2022-35099 (2022-09-23T18:15:00)
+> SWFTools commit 772e55a2 was discovered to contain a stack overflow via ImageStream::getPixel(unsigned char*) at /xpdf/Stream.cc.
+- [Live-Hack-CVE/CVE-2022-35099](https://github.com/Live-Hack-CVE/CVE-2022-35099)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35099">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35099">
+
+---
+## CVE-2022-35098 (2022-09-23T18:15:00)
+> SWFTools commit 772e55a2 was discovered to contain a heap-buffer overflow via GfxICCBasedColorSpace::getDefaultColor(GfxColor*) at /xpdf/GfxState.cc.
+- [Live-Hack-CVE/CVE-2022-35098](https://github.com/Live-Hack-CVE/CVE-2022-35098)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35098">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35098">
+
+---
+## CVE-2022-35097 (2022-09-23T18:15:00)
+> SWFTools commit 772e55a2 was discovered to contain a segmentation violation via FoFiTrueType::writeTTF at /xpdf/FoFiTrueType.cc.
+- [Live-Hack-CVE/CVE-2022-35097](https://github.com/Live-Hack-CVE/CVE-2022-35097)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35097">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35097">
+
+---
+## CVE-2022-35096 (2022-09-23T18:15:00)
+> SWFTools commit 772e55a2 was discovered to contain a heap-buffer overflow via draw_stroke at /gfxpoly/stroke.c.
+- [Live-Hack-CVE/CVE-2022-35096](https://github.com/Live-Hack-CVE/CVE-2022-35096)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35096">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35096">
+
+---
+## CVE-2022-35095 (2022-09-23T18:15:00)
+> SWFTools commit 772e55a2 was discovered to contain a segmentation violation via InfoOutputDev::type3D1 at /pdf/InfoOutputDev.cc.
+- [Live-Hack-CVE/CVE-2022-35095](https://github.com/Live-Hack-CVE/CVE-2022-35095)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35095">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35095">
+
+---
+## CVE-2022-35094 (2022-09-23T18:15:00)
+> SWFTools commit 772e55a2 was discovered to contain a heap-buffer overflow via DCTStream::readHuffSym(DCTHuffTable*) at /xpdf/Stream.cc.
+- [Live-Hack-CVE/CVE-2022-35094](https://github.com/Live-Hack-CVE/CVE-2022-35094)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35094">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35094">
+
+---
+## CVE-2022-35093 (2022-09-23T18:15:00)
+> SWFTools commit 772e55a2 was discovered to contain a global buffer overflow via DCTStream::transformDataUnit at /xpdf/Stream.cc.
+- [Live-Hack-CVE/CVE-2022-35093](https://github.com/Live-Hack-CVE/CVE-2022-35093)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35093">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35093">
+
+---
+## CVE-2022-35092 (2022-09-23T18:15:00)
+> SWFTools commit 772e55a2 was discovered to contain a segmentation violation via convert_gfxline at /gfxpoly/convert.c.
+- [Live-Hack-CVE/CVE-2022-35092](https://github.com/Live-Hack-CVE/CVE-2022-35092)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35092">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35092">
+
+---
+## CVE-2022-35091 (2022-09-23T18:15:00)
+> SWFTools commit 772e55a2 was discovered to contain a floating point exception (FPE) via DCTStream::readMCURow() at /xpdf/Stream.cc.ow()
+- [Live-Hack-CVE/CVE-2022-35091](https://github.com/Live-Hack-CVE/CVE-2022-35091)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35091">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35091">
+
+---
 ## CVE-2022-35080 (2022-10-13T12:15:00)
 > SWFTools commit 772e55a2 was discovered to contain a heap-buffer overflow via png_load at /lib/png.c.
 - [Live-Hack-CVE/CVE-2022-35080](https://github.com/Live-Hack-CVE/CVE-2022-35080)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35080">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35080">
@@ -9006,6 +9076,11 @@
 - [Live-Hack-CVE/CVE-2022-31366](https://github.com/Live-Hack-CVE/CVE-2022-31366)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31366">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31366">
 
 ---
+## CVE-2022-3135 (2022-09-26T13:15:00)
+> The SEO Smart Links WordPress plugin through 3.0.1 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup)
+- [Live-Hack-CVE/CVE-2022-3135](https://github.com/Live-Hack-CVE/CVE-2022-3135)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3135">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3135">
+
+---
 ## CVE-2022-31325 (2022-06-08T16:15:00)
 > There is a SQL Injection vulnerability in ChurchCRM 4.4.5 via the 'PersonID' field in /churchcrm/WhyCameEditor.php.
 - [Live-Hack-CVE/CVE-2022-31325](https://github.com/Live-Hack-CVE/CVE-2022-31325)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31325">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31325">
@@ -9360,6 +9435,15 @@
 - [Live-Hack-CVE/CVE-2022-30767](https://github.com/Live-Hack-CVE/CVE-2022-30767)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30767">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30767">
 
 ---
+## CVE-2022-3076 (2022-09-26T13:15:00)
+> The CM Download Manager WordPress plugin before 2.8.6 allows high privilege users such as admin to upload arbitrary files by setting the any extension via the plugin's setting, which could be used by admins of multisite blog to upload PHP files for example.
+- [Live-Hack-CVE/CVE-2022-3076](https://github.com/Live-Hack-CVE/CVE-2022-3076)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3076">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3076">
+- [Live-Hack-CVE/CVE-2022-30763](https://github.com/Live-Hack-CVE/CVE-2022-30763)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30763">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30763">
+- [Live-Hack-CVE/CVE-2022-30767](https://github.com/Live-Hack-CVE/CVE-2022-30767)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30767">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30767">
+- [Live-Hack-CVE/CVE-2022-30769](https://github.com/Live-Hack-CVE/CVE-2022-30769)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30769">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30769">
+- [Live-Hack-CVE/CVE-2022-30768](https://github.com/Live-Hack-CVE/CVE-2022-30768)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30768">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30768">
+
+---
 ## CVE-2022-3075 (2022-09-26T16:15:00)
 > Insufficient data validation in Mojo in Google Chrome prior to 105.0.5195.102 allowed a remote attacker who had compromised the renderer process to potentially perform a sandbox escape via a crafted HTML page.
 - [Live-Hack-CVE/CVE-2022-3075](https://github.com/Live-Hack-CVE/CVE-2022-3075)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3075">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3075">
@@ -9376,6 +9460,11 @@
 - [bl4ckmenace/CVE-2022-30709](https://github.com/bl4ckmenace/CVE-2022-30709)	<img alt="forks" src="https://img.shields.io/github/forks/bl4ckmenace/CVE-2022-30709">	<img alt="stars" src="https://img.shields.io/github/stars/bl4ckmenace/CVE-2022-30709">
 
 ---
+## CVE-2022-3070 (2022-09-26T13:15:00)
+> The Generate PDF WordPress plugin before 3.6 does not sanitise and escape its settings, allowing high privilege users such as admin to perform cross-Site Scripting attacks even when the unfiltered_html capability is disallowed.
+- [Live-Hack-CVE/CVE-2022-3070](https://github.com/Live-Hack-CVE/CVE-2022-3070)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3070">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3070">
+
+---
 ## CVE-2022-30699 (2022-08-01T15:15:00)
 > NLnet Labs Unbound, up to and including version 1.16.1, is vulnerable to a novel type of the "ghost domain names" attack. The vulnerability works by targeting an Unbound instance. Unbound is queried for a rogue domain name when the cached delegation information is about to expire. The rogue nameserver delays the response so that the cached delegation information is expired. Upon receiving the delayed answer containing the delegation information, Unbound overwrites the now expired entries. This action can be repeated when the delegation information is about to expire making the rogue delegation information ever-updating. From version 1.16.2 on, Unbound stores the start time for a query and uses that to decide if the cached delegation information can be overwritten.
 - [Live-Hack-CVE/CVE-2022-30699](https://github.com/Live-Hack-CVE/CVE-2022-30699)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30699">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30699">
@@ -9384,6 +9473,11 @@
 ## CVE-2022-30698 (2022-08-01T15:15:00)
 > NLnet Labs Unbound, up to and including version 1.16.1 is vulnerable to a novel type of the "ghost domain names" attack. The vulnerability works by targeting an Unbound instance. Unbound is queried for a subdomain of a rogue domain name. The rogue nameserver returns delegation information for the subdomain that updates Unbound's delegation cache. This action can be repeated before expiry of the delegation information by querying Unbound for a second level subdomain which the rogue nameserver provides new delegation information. Since Unbound is a child-centric resolver, the ever-updating child delegation information can keep a rogue domain name resolvable long after revocation. From version 1.16.2 on, Unbound checks the validity of parent delegation records before using cached delegation information.
 - [Live-Hack-CVE/CVE-2022-30698](https://github.com/Live-Hack-CVE/CVE-2022-30698)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30698">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30698">
+
+---
+## CVE-2022-3069 (2022-09-26T13:15:00)
+> The WordLift WordPress plugin before 3.37.2 does not sanitise and escape its settings, allowing high privilege users such as admin to perform cross-Site Scripting attacks even when the unfiltered_html capability is disallowed.
+- [Live-Hack-CVE/CVE-2022-3069](https://github.com/Live-Hack-CVE/CVE-2022-3069)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3069">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3069">
 
 ---
 ## CVE-2022-30679 (2022-12-19T20:15:00)
@@ -9399,6 +9493,12 @@
 ## CVE-2022-30630 (2022-08-10T20:15:00)
 > Uncontrolled recursion in Glob in io/fs before Go 1.17.12 and Go 1.18.4 allows an attacker to cause a panic due to stack exhaustion via a path which contains a large number of path separators.
 - [Live-Hack-CVE/CVE-2022-30630](https://github.com/Live-Hack-CVE/CVE-2022-30630)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30630">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30630">
+
+---
+## CVE-2022-3062 (2022-09-26T13:15:00)
+> The Simple File List WordPress plugin before 4.4.12 does not escape parameters before outputting them back in attributes, leading to Reflected Cross-Site Scripting
+- [Live-Hack-CVE/CVE-2022-3062](https://github.com/Live-Hack-CVE/CVE-2022-3062)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3062">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3062">
+- [Live-Hack-CVE/CVE-2022-30629](https://github.com/Live-Hack-CVE/CVE-2022-30629)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30629">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30629">
 
 ---
 ## CVE-2022-30614 (2022-09-01T19:15:00)
