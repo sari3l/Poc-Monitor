@@ -3347,6 +3347,11 @@
 - [Warxim/CVE-2022-41852](https://github.com/Warxim/CVE-2022-41852)	<img alt="forks" src="https://img.shields.io/github/forks/Warxim/CVE-2022-41852">	<img alt="stars" src="https://img.shields.io/github/stars/Warxim/CVE-2022-41852">
 
 ---
+## CVE-2022-41851 (2022-10-11T11:15:00)
+> A vulnerability has been identified in JTTK (All versions < V11.1.1.0), Simcenter Femap V2022.1 (All versions < V2022.1.3), Simcenter Femap V2022.2 (All versions < V2022.2.2). The JTTK library is vulnerable to an uninitialized pointer reference vulnerability while parsing specially crafted JT files. An attacker could leverage this vulnerability to execute code in the context of the current process. (ZDI-CAN-16973)
+- [Live-Hack-CVE/CVE-2022-41851](https://github.com/Live-Hack-CVE/CVE-2022-41851)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41851">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41851">
+
+---
 ## CVE-2022-4185 (2022-11-30T00:15:00)
 > Inappropriate implementation in Navigation in Google Chrome on iOS prior to 108.0.5359.71 allowed a remote attacker to spoof the contents of the modal dialogue via a crafted HTML page. (Chromium security severity: Medium)
 - [Live-Hack-CVE/CVE-2022-4185](https://github.com/Live-Hack-CVE/CVE-2022-4185)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4185">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4185">
@@ -4572,6 +4577,11 @@
 - [Live-Hack-CVE/CVE-2022-40238](https://github.com/Live-Hack-CVE/CVE-2022-40238)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40238">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40238">
 
 ---
+## CVE-2022-40226 (2022-10-11T11:15:00)
+> A vulnerability has been identified in SICAM P850 (All versions < V3.10), SICAM P850 (All versions < V3.10), SICAM P850 (All versions < V3.10), SICAM P850 (All versions < V3.10), SICAM P850 (All versions < V3.10), SICAM P850 (All versions < V3.10), SICAM P850 (All versions < V3.10), SICAM P850 (All versions < V3.10), SICAM P850 (All versions < V3.10), SICAM P850 (All versions < V3.10), SICAM P850 (All versions < V3.10), SICAM P850 (All versions < V3.10), SICAM P850 (All versions < V3.10), SICAM P850 (All versions < V3.10), SICAM P850 (All versions < V3.10), SICAM P850 (All versions < V3.10), SICAM P850 (All versions < V3.10), SICAM P850 (All versions < V3.10), SICAM P855 (All versions < V3.10), SICAM P855 (All versions < V3.10), SICAM P855 (All versions < V3.10), SICAM P855 (All versions < V3.10), SICAM P855 (All versions < V3.10), SICAM P855 (All versions < V3.10), SICAM P855 (All versions < V3.10), SICAM P855 (All versions < V3.10), SICAM P855 (All versions < V3.10), SICAM P855 (All versions < V3.10), SICAM P855 (All versions < V3.10), SICAM P855 (All versions < V3.10), SICAM P855 (All versions < V3.10), SICAM P855 (All versions < V3.10), SICAM P855 (All versions < V3.10), SICAM P855 (All versions < V3.10), SICAM P855 (All versions < V3.10), SICAM P855 (All versions < V3.10). Affected devices accept user defined session cookies and do not renew the session cookie after login/logout. This could allow an attacker to take over another user's session after login.
+- [Live-Hack-CVE/CVE-2022-40226](https://github.com/Live-Hack-CVE/CVE-2022-40226)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40226">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40226">
+
+---
 ## CVE-2022-40223 (2022-11-08T19:15:00)
 > Nonce token leakage and missing authorization in SearchWP premium plugin <= 4.2.5 on WordPress leading to plugin settings change.
 - [Live-Hack-CVE/CVE-2022-40223](https://github.com/Live-Hack-CVE/CVE-2022-40223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40223">
@@ -4630,6 +4640,11 @@
 ## CVE-2022-4016 (2022-12-12T18:15:00)
 > The Booster for WooCommerce WordPress plugin before 5.6.7, Booster Plus for WooCommerce WordPress plugin before 5.6.6, Booster Elite for WooCommerce WordPress plugin before 1.1.8 does not properly check for CSRF when creating and deleting Customer roles, allowing attackers to make logged admins create and delete arbitrary custom roles via CSRF attacks
 - [Live-Hack-CVE/CVE-2022-4016](https://github.com/Live-Hack-CVE/CVE-2022-4016)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4016">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4016">
+
+---
+## CVE-2022-40147 (2022-10-11T11:15:00)
+> A vulnerability has been identified in Industrial Edge Management (All versions < V1.5.1). The affected software does not properly validate the server certificate when initiating a TLS connection. This could allow an attacker to spoof a trusted entity by interfering in the communication path between the client and the intended server.
+- [Live-Hack-CVE/CVE-2022-40147](https://github.com/Live-Hack-CVE/CVE-2022-40147)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40147">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40147">
 
 ---
 ## CVE-2022-40146 (2022-09-22T15:15:00)
@@ -5858,14 +5873,44 @@
 - [Live-Hack-CVE/CVE-2022-37997](https://github.com/Live-Hack-CVE/CVE-2022-37997)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37997">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37997">
 
 ---
+## CVE-2022-37996 (2022-10-11T19:15:00)
+> Windows Kernel Memory Information Disclosure Vulnerability.
+- [Live-Hack-CVE/CVE-2022-37996](https://github.com/Live-Hack-CVE/CVE-2022-37996)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37996">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37996">
+
+---
+## CVE-2022-37995 (2022-10-11T19:15:00)
+> Windows Kernel Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-37988, CVE-2022-37990, CVE-2022-37991, CVE-2022-38022, CVE-2022-38037, CVE-2022-38038, CVE-2022-38039.
+- [Live-Hack-CVE/CVE-2022-37995](https://github.com/Live-Hack-CVE/CVE-2022-37995)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37995">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37995">
+
+---
+## CVE-2022-37994 (2022-10-11T19:15:00)
+> Windows Group Policy Preference Client Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-37993, CVE-2022-37999.
+- [Live-Hack-CVE/CVE-2022-37994](https://github.com/Live-Hack-CVE/CVE-2022-37994)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37994">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37994">
+
+---
+## CVE-2022-37993 (2022-10-11T19:15:00)
+> Windows Group Policy Preference Client Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-37994, CVE-2022-37999.
+- [Live-Hack-CVE/CVE-2022-37993](https://github.com/Live-Hack-CVE/CVE-2022-37993)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37993">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37993">
+
+---
 ## CVE-2022-37991 (2022-10-11T19:15:00)
 > Windows Kernel Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-37988, CVE-2022-37990, CVE-2022-37995, CVE-2022-38022, CVE-2022-38037, CVE-2022-38038, CVE-2022-38039.
 - [Live-Hack-CVE/CVE-2022-37991](https://github.com/Live-Hack-CVE/CVE-2022-37991)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37991">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37991">
 
 ---
+## CVE-2022-37990 (2022-10-11T19:15:00)
+> Windows Kernel Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-37988, CVE-2022-37991, CVE-2022-37995, CVE-2022-38022, CVE-2022-38037, CVE-2022-38038, CVE-2022-38039.
+- [Live-Hack-CVE/CVE-2022-37990](https://github.com/Live-Hack-CVE/CVE-2022-37990)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37990">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37990">
+
+---
 ## CVE-2022-3799 (2022-11-01T16:15:00)
 > A vulnerability classified as critical was found in IBAX go-ibax. Affected by this vulnerability is an unknown functionality of the file /api/v2/open/tablesInfo. The manipulation leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-212635.
 - [Live-Hack-CVE/CVE-2022-3799](https://github.com/Live-Hack-CVE/CVE-2022-3799)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3799">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3799">
+
+---
+## CVE-2022-37987 (2022-10-11T19:15:00)
+> Windows Client Server Run-time Subsystem (CSRSS) Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-37989.
+- [Live-Hack-CVE/CVE-2022-37987](https://github.com/Live-Hack-CVE/CVE-2022-37987)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37987">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37987">
 
 ---
 ## CVE-2022-37982 (2022-10-11T19:15:00)
@@ -5904,6 +5949,11 @@
 - [Live-Hack-CVE/CVE-2022-37977](https://github.com/Live-Hack-CVE/CVE-2022-37977)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37977">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37977">
 
 ---
+## CVE-2022-37968 (2022-10-11T19:15:00)
+> Azure Arc-enabled Kubernetes cluster Connect Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2022-37968](https://github.com/Live-Hack-CVE/CVE-2022-37968)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37968">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37968">
+
+---
 ## CVE-2022-37967 (2022-11-09T22:15:00)
 > Windows Kerberos Elevation of Privilege Vulnerability.
 - [Live-Hack-CVE/CVE-2022-37967](https://github.com/Live-Hack-CVE/CVE-2022-37967)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37967">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37967">
@@ -5912,6 +5962,11 @@
 ## CVE-2022-37966 (2022-11-09T22:15:00)
 > Windows Kerberos RC4-HMAC Elevation of Privilege Vulnerability.
 - [Live-Hack-CVE/CVE-2022-37966](https://github.com/Live-Hack-CVE/CVE-2022-37966)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37966">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37966">
+
+---
+## CVE-2022-37965 (2022-10-11T19:15:00)
+> Windows Point-to-Point Tunneling Protocol Denial of Service Vulnerability.
+- [Live-Hack-CVE/CVE-2022-37965](https://github.com/Live-Hack-CVE/CVE-2022-37965)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37965">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37965">
 
 ---
 ## CVE-2022-37958 (2022-09-13T19:15:00)
@@ -6023,6 +6078,11 @@
 ## CVE-2022-37865 (2022-11-07T11:15:00)
 > With Apache Ivy 2.4.0 an optional packaging attribute has been introduced that allows artifacts to be unpacked on the fly if they used pack200 or zip packaging. For artifacts using the "zip", "jar" or "war" packaging Ivy prior to 2.5.1 doesn't verify the target path when extracting the archive. An archive containing absolute paths or paths that try to traverse "upwards" using ".." sequences can then write files to any location on the local fie system that the user executing Ivy has write access to. Ivy users of version 2.4.0 to 2.5.0 should upgrade to Ivy 2.5.1.
 - [Live-Hack-CVE/CVE-2022-37865](https://github.com/Live-Hack-CVE/CVE-2022-37865)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37865">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37865">
+
+---
+## CVE-2022-37864 (2022-10-11T11:15:00)
+> A vulnerability has been identified in Solid Edge (All Versions < SE2022MP9). The affected application contains an out of bounds write past the fixed-length heap-based buffer while parsing specially crafted DWG files. This could allow an attacker to execute code in the context of the current process. (ZDI-CAN-17627)
+- [Live-Hack-CVE/CVE-2022-37864](https://github.com/Live-Hack-CVE/CVE-2022-37864)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37864">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37864">
 
 ---
 ## CVE-2022-37860 (2022-09-12T18:15:00)
@@ -6834,6 +6894,11 @@
 - [Live-Hack-CVE/CVE-2022-35821](https://github.com/Live-Hack-CVE/CVE-2022-35821)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35821">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35821">
 
 ---
+## CVE-2022-35770 (2022-10-11T19:15:00)
+> Windows NTLM Spoofing Vulnerability.
+- [Live-Hack-CVE/CVE-2022-35770](https://github.com/Live-Hack-CVE/CVE-2022-35770)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35770">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35770">
+
+---
 ## CVE-2022-3576 (2022-10-20T06:15:00)
 > A vulnerability regarding out-of-bounds read is found in the session processing functionality of Out-of-Band (OOB) Management. This allows remote attackers to obtain sensitive information via unspecified vectors. The following models with Synology DiskStation Manager (DSM) versions before 7.1.1-42962-2 may be affected: DS3622xs+, FS3410, and HD6500.
 - [Live-Hack-CVE/CVE-2022-3576](https://github.com/Live-Hack-CVE/CVE-2022-3576)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3576">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3576">
@@ -7256,6 +7321,11 @@
 - [Live-Hack-CVE/CVE-2022-3469](https://github.com/Live-Hack-CVE/CVE-2022-3469)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3469">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3469">
 
 ---
+## CVE-2022-34689 (2022-10-11T19:15:00)
+> Windows CryptoAPI Spoofing Vulnerability.
+- [Live-Hack-CVE/CVE-2022-34689](https://github.com/Live-Hack-CVE/CVE-2022-34689)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34689">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34689">
+
+---
 ## CVE-2022-3467 (2022-10-12T15:15:00)
 > A vulnerability classified as critical was found in Jiusi OA. Affected by this vulnerability is an unknown functionality of the file /jsoa/hntdCustomDesktopActionContent. The manipulation of the argument inforid leads to sql injection. The exploit has been disclosed to the public and may be used. The identifier VDB-210709 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-3467](https://github.com/Live-Hack-CVE/CVE-2022-3467)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3467">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3467">
@@ -7549,6 +7619,16 @@
 - [notareaperbutDR34P3r/Kerberos_CVE-2022-33679](https://github.com/notareaperbutDR34P3r/Kerberos_CVE-2022-33679)	<img alt="forks" src="https://img.shields.io/github/forks/notareaperbutDR34P3r/Kerberos_CVE-2022-33679">	<img alt="stars" src="https://img.shields.io/github/stars/notareaperbutDR34P3r/Kerberos_CVE-2022-33679">
 
 ---
+## CVE-2022-33645 (2022-10-11T19:15:00)
+> Windows TCP/IP Driver Denial of Service Vulnerability.
+- [Live-Hack-CVE/CVE-2022-33645](https://github.com/Live-Hack-CVE/CVE-2022-33645)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33645">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33645">
+
+---
+## CVE-2022-33635 (2022-10-11T19:15:00)
+> Windows GDI+ Remote Code Execution Vulnerability.
+- [Live-Hack-CVE/CVE-2022-33635](https://github.com/Live-Hack-CVE/CVE-2022-33635)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33635">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33635">
+
+---
 ## CVE-2022-33634 (2022-10-11T19:15:00)
 > Windows Point-to-Point Tunneling Protocol Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-22035, CVE-2022-24504, CVE-2022-30198, CVE-2022-38000, CVE-2022-38047, CVE-2022-41081.
 - [Live-Hack-CVE/CVE-2022-33634](https://github.com/Live-Hack-CVE/CVE-2022-33634)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33634">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33634">
@@ -7825,6 +7905,26 @@
 ## CVE-2022-32749 (2022-12-19T11:15:00)
 > Improper Check for Unusual or Exceptional Conditions vulnerability handling requests in Apache Traffic Server allows an attacker to crash the server under certain conditions. This issue affects Apache Traffic Server: from 8.0.0 through 9.1.3.
 - [Live-Hack-CVE/CVE-2022-32749](https://github.com/Live-Hack-CVE/CVE-2022-32749)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32749">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32749">
+
+---
+## CVE-2022-32593 (2022-10-07T20:15:00)
+> In vowe, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07138493; Issue ID: ALPS07138493.
+- [Live-Hack-CVE/CVE-2022-32593](https://github.com/Live-Hack-CVE/CVE-2022-32593)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32593">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32593">
+
+---
+## CVE-2022-32591 (2022-10-07T20:15:00)
+> In ril, there is a possible system crash due to an incorrect bounds check. This could lead to remote denial of service with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07257259; Issue ID: ALPS07257259.
+- [Live-Hack-CVE/CVE-2022-32591](https://github.com/Live-Hack-CVE/CVE-2022-32591)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32591">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32591">
+
+---
+## CVE-2022-32590 (2022-10-07T20:15:00)
+> In wlan, there is a possible use after free due to an incorrect status check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07299425; Issue ID: ALPS07299425.
+- [Live-Hack-CVE/CVE-2022-32590](https://github.com/Live-Hack-CVE/CVE-2022-32590)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32590">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32590">
+
+---
+## CVE-2022-32589 (2022-10-07T20:15:00)
+> In Wi-Fi driver, there is a possible way to disconnect Wi-Fi due to an improper resource release. This could lead to remote denial of service with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07030600; Issue ID: ALPS07030600.
+- [Live-Hack-CVE/CVE-2022-32589](https://github.com/Live-Hack-CVE/CVE-2022-32589)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32589">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32589">
 
 ---
 ## CVE-2022-32569 (2022-11-11T16:15:00)
