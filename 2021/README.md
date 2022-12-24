@@ -268,9 +268,29 @@
 - [horizon3ai/CVE-2021-44077](https://github.com/horizon3ai/CVE-2021-44077)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2021-44077">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2021-44077">
 
 ---
+## CVE-2021-43990 (2022-04-20T16:15:00)
+> The affected product is vulnerable to a network-based attack by threat actors supplying a crafted, malicious XML payload designed to trigger an external entity reference call.
+- [Live-Hack-CVE/CVE-2021-43990](https://github.com/Live-Hack-CVE/CVE-2021-43990)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43990">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43990">
+
+---
+## CVE-2021-43988 (2022-04-20T16:15:00)
+> The affected product is vulnerable to a network-based attack by threat actors utilizing crafted naming conventions of files to gain unauthorized access rights.
+- [Live-Hack-CVE/CVE-2021-43988](https://github.com/Live-Hack-CVE/CVE-2021-43988)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43988">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43988">
+
+---
+## CVE-2021-43986 (2022-04-20T16:15:00)
+> The setup program for the affected product configures its files and folders with full access, which may allow unauthorized users permission to replace original binaries and achieve privilege escalation.
+- [Live-Hack-CVE/CVE-2021-43986](https://github.com/Live-Hack-CVE/CVE-2021-43986)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43986">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43986">
+
+---
 ## CVE-2021-43980 (2022-09-28T14:15:00)
 > The simplified implementation of blocking reads and writes introduced in Tomcat 10 and back-ported to Tomcat 9.0.47 onwards exposed a long standing (but extremely hard to trigger) concurrency bug in Apache Tomcat 10.1.0 to 10.1.0-M12, 10.0.0-M1 to 10.0.18, 9.0.0-M1 to 9.0.60 and 8.5.0 to 8.5.77 that could cause client connections to share an Http11Processor instance resulting in responses, or part responses, to be received by the wrong client.
 - [Live-Hack-CVE/CVE-2021-43980](https://github.com/Live-Hack-CVE/CVE-2021-43980)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43980">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43980">
+
+---
+## CVE-2021-43933 (2022-04-20T16:15:00)
+> The affected product is vulnerable to a network-based attack by threat actors sending unimpeded requests to the receiving server, which could cause a denial-of-service condition due to lack of heap memory resources.
+- [Live-Hack-CVE/CVE-2021-43933](https://github.com/Live-Hack-CVE/CVE-2021-43933)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43933">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43933">
 
 ---
 ## CVE-2021-43896 (2021-12-15T15:15:00)
@@ -1198,6 +1218,11 @@
 ## CVE-2021-3849 (2022-04-22T21:15:00)
 > An authentication bypass vulnerability was discovered in the web interface of the Lenovo Fan Power Controller2 (FPC2) and Lenovo System Management Module (SMM) firmware that could allow an unauthenticated attacker to execute commands on the SMM and FPC2. SMM2 is not affected.
 - [Live-Hack-CVE/CVE-2021-3849](https://github.com/Live-Hack-CVE/CVE-2021-3849)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3849">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3849">
+
+---
+## CVE-2021-38483 (2022-04-20T16:15:00)
+> The affected product is vulnerable to misconfigured binaries, allowing users on the target PC with SYSTEM level privileges access to overwrite the binary and modify files to gain privilege escalation.
+- [Live-Hack-CVE/CVE-2021-38483](https://github.com/Live-Hack-CVE/CVE-2021-38483)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38483">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38483">
 
 ---
 ## CVE-2021-38460 (2021-10-12T14:15:00)
