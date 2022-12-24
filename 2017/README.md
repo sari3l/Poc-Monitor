@@ -311,6 +311,11 @@
 - [Davi-afk/jenkins-cve-CVE-2017-2606](https://github.com/Davi-afk/jenkins-cve-CVE-2017-2606)	<img alt="forks" src="https://img.shields.io/github/forks/Davi-afk/jenkins-cve-CVE-2017-2606">	<img alt="stars" src="https://img.shields.io/github/stars/Davi-afk/jenkins-cve-CVE-2017-2606">
 
 ---
+## CVE-2017-20135 (2022-07-16T07:15:00)
+> A vulnerability classified as critical was found in Itech Dating Script 3.26. Affected by this vulnerability is an unknown functionality of the file /see_more_details.php. The manipulation of the argument id leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.
+- [Live-Hack-CVE/CVE-2017-20135](https://github.com/Live-Hack-CVE/CVE-2017-20135)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20135">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20135">
+
+---
 ## CVE-2017-20052 (2022-06-16T07:15:00)
 > A vulnerability classified as problematic was found in Python 2.7.13. This vulnerability affects unknown code of the component pgAdmin4. The manipulation leads to uncontrolled search path. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used.
 - [Live-Hack-CVE/CVE-2017-20052](https://github.com/Live-Hack-CVE/CVE-2017-20052)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20052">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20052">

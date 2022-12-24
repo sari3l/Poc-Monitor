@@ -21,6 +21,11 @@
 - [Live-Hack-CVE/CVE-2021-46837](https://github.com/Live-Hack-CVE/CVE-2021-46837)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46837">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46837">
 
 ---
+## CVE-2021-46744 (2022-05-11T17:15:00)
+> An attacker with access to a malicious hypervisor may be able to infer data values used in a SEV guest on AMD CPUs by monitoring ciphertext values over time.
+- [Live-Hack-CVE/CVE-2021-46744](https://github.com/Live-Hack-CVE/CVE-2021-46744)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46744">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46744">
+
+---
 ## CVE-2021-46422 (2022-04-27T13:15:00)
 > Telesquare SDT-CW3B1 1.1.0 is affected by an OS command injection vulnerability that allows a remote attacker to execute OS commands without any authentication.
 - [Chocapikk/CVE-2021-46422](https://github.com/Chocapikk/CVE-2021-46422)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2021-46422">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2021-46422">
@@ -360,6 +365,11 @@
 ## CVE-2021-43528 (2021-12-08T22:15:00)
 > Thunderbird unexpectedly enabled JavaScript in the composition area. The JavaScript execution context was limited to this area and did not receive chrome-level privileges, but could be used as a stepping stone to further an attack with other vulnerabilities. This vulnerability affects Thunderbird < 91.4.0.
 - [Live-Hack-CVE/CVE-2021-43528](https://github.com/Live-Hack-CVE/CVE-2021-43528)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43528">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43528">
+
+---
+## CVE-2021-43518 (2021-12-15T15:15:00)
+> Teeworlds up to and including 0.7.5 is vulnerable to Buffer Overflow. A map parser does not validate m_Channels value coming from a map file, leading to a buffer overflow. A malicious server may offer a specially crafted map that will overwrite client's stack causing denial of service or code execution.
+- [Live-Hack-CVE/CVE-2021-43518](https://github.com/Live-Hack-CVE/CVE-2021-43518)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43518">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43518">
 
 ---
 ## CVE-2021-43503 (2022-04-08T18:15:00)
