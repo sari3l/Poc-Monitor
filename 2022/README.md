@@ -7897,6 +7897,7 @@
 ## CVE-2022-29154 (2022-08-02T15:15:00)
 > An issue was discovered in rsync before 3.2.5 that allows malicious remote servers to write arbitrary files inside the directories of connecting peers. The server chooses which files/directories are sent to the client. However, the rsync client performs insufficient validation of file names. A malicious rsync server (or Man-in-The-Middle attacker) can overwrite arbitrary files in the rsync client target directory and subdirectories (for example, overwrite the .ssh/authorized_keys file).
 - [EgeBalci/CVE-2022-29154](https://github.com/EgeBalci/CVE-2022-29154)	<img alt="forks" src="https://img.shields.io/github/forks/EgeBalci/CVE-2022-29154">	<img alt="stars" src="https://img.shields.io/github/stars/EgeBalci/CVE-2022-29154">
+- [Live-Hack-CVE/CVE-2022-29154](https://github.com/Live-Hack-CVE/CVE-2022-29154)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29154">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29154">
 
 ---
 ## CVE-2022-29078 (2022-04-25T15:15:00)
@@ -8656,6 +8657,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-24999 (2022-11-26T22:15:00)
 > qs before 6.10.3, as used in Express before 4.17.3 and other products, allows attackers to cause a Node process hang for an Express application because an __ proto__ key can be used. In many typical Express use cases, an unauthenticated remote attacker can place the attack payload in the query string of the URL that is used to visit the application, such as a[__proto__]=b&a[__proto__]&a[length]=100000000. The fix was backported to qs 6.9.7, 6.8.3, 6.7.3, 6.6.1, 6.5.3, 6.4.1, 6.3.3, and 6.2.4 (and therefore Express 4.17.3, which has "deps: qs@6.9.7" in its release description, is not vulnerable).
 - [n8tz/CVE-2022-24999](https://github.com/n8tz/CVE-2022-24999)	<img alt="forks" src="https://img.shields.io/github/forks/n8tz/CVE-2022-24999">	<img alt="stars" src="https://img.shields.io/github/stars/n8tz/CVE-2022-24999">
+
+---
+## CVE-2022-24992 (2022-07-25T18:22:00)
+> A vulnerability in the component process.php of QR Code Generator v5.2.7 allows attackers to perform directory traversal.
+- [Live-Hack-CVE/CVE-2022-24992](https://github.com/Live-Hack-CVE/CVE-2022-24992)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24992">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24992">
 
 ---
 ## CVE-2022-24990 ()
@@ -10411,6 +10417,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292](https://github.com/nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292">
 - [greek0x0/CVE-2022-1292](https://github.com/greek0x0/CVE-2022-1292)	<img alt="forks" src="https://img.shields.io/github/forks/greek0x0/CVE-2022-1292">	<img alt="stars" src="https://img.shields.io/github/stars/greek0x0/CVE-2022-1292">
 - [und3sc0n0c1d0/CVE-2022-1292](https://github.com/und3sc0n0c1d0/CVE-2022-1292)	<img alt="forks" src="https://img.shields.io/github/forks/und3sc0n0c1d0/CVE-2022-1292">	<img alt="stars" src="https://img.shields.io/github/stars/und3sc0n0c1d0/CVE-2022-1292">
+
+---
+## CVE-2022-1269 (2022-05-02T16:15:00)
+> The Fast Flow WordPress plugin before 1.2.12 does not sanitise and escape the page parameter before outputting back in an attribute in an admin dashboard, leading to a Reflected Cross-Site Scripting
+- [Live-Hack-CVE/CVE-2022-1269](https://github.com/Live-Hack-CVE/CVE-2022-1269)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1269">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1269">
 
 ---
 ## CVE-2022-1233 (2022-04-04T20:15:00)
