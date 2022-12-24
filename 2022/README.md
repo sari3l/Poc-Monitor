@@ -7881,6 +7881,15 @@
 ## CVE-2022-3208 (2022-10-10T21:15:00)
 > The Simple File List WordPress plugin before 4.4.12 does not implement nonce checks, which could allow attackers to make a logged in admin create new page and change it's content via a CSRF attack.
 - [Live-Hack-CVE/CVE-2022-3208](https://github.com/Live-Hack-CVE/CVE-2022-3208)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3208">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3208">
+- [Live-Hack-CVE/CVE-2022-32083](https://github.com/Live-Hack-CVE/CVE-2022-32083)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32083">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32083">
+- [Live-Hack-CVE/CVE-2022-32086](https://github.com/Live-Hack-CVE/CVE-2022-32086)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32086">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32086">
+- [Live-Hack-CVE/CVE-2022-32087](https://github.com/Live-Hack-CVE/CVE-2022-32087)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32087">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32087">
+- [Live-Hack-CVE/CVE-2022-32085](https://github.com/Live-Hack-CVE/CVE-2022-32085)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32085">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32085">
+- [Live-Hack-CVE/CVE-2022-32088](https://github.com/Live-Hack-CVE/CVE-2022-32088)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32088">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32088">
+- [Live-Hack-CVE/CVE-2022-32089](https://github.com/Live-Hack-CVE/CVE-2022-32089)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32089">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32089">
+- [Live-Hack-CVE/CVE-2022-32084](https://github.com/Live-Hack-CVE/CVE-2022-32084)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32084">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32084">
+- [Live-Hack-CVE/CVE-2022-32082](https://github.com/Live-Hack-CVE/CVE-2022-32082)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32082">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32082">
+- [Live-Hack-CVE/CVE-2022-32081](https://github.com/Live-Hack-CVE/CVE-2022-32081)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32081">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32081">
 
 ---
 ## CVE-2022-32060 (2022-07-07T23:15:00)
