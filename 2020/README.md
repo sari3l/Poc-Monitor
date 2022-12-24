@@ -1222,6 +1222,11 @@
 - [uf0o/CVE-2020-17382](https://github.com/uf0o/CVE-2020-17382)	<img alt="forks" src="https://img.shields.io/github/forks/uf0o/CVE-2020-17382">	<img alt="stars" src="https://img.shields.io/github/stars/uf0o/CVE-2020-17382">
 
 ---
+## CVE-2020-17380 (2021-01-30T06:15:00)
+> A heap-based buffer overflow was found in QEMU through 5.0.0 in the SDHCI device emulation support. It could occur while doing a multi block SDMA transfer via the sdhci_sdma_transfer_multi_blocks() routine in hw/sd/sdhci.c. A guest user or process could use this flaw to crash the QEMU process on the host, resulting in a denial of service condition, or potentially execute arbitrary code with privileges of the QEMU process on the host.
+- [Live-Hack-CVE/CVE-2020-17380](https://github.com/Live-Hack-CVE/CVE-2020-17380)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-17380">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-17380">
+
+---
 ## CVE-2020-16589 (2020-12-09T21:15:00)
 > A head-based buffer overflow exists in Academy Software Foundation OpenEXR 2.3.0 in writeTileData in ImfTiledOutputFile.cpp that can cause a denial of service via a crafted EXR file.
 - [Live-Hack-CVE/CVE-2020-16589](https://github.com/Live-Hack-CVE/CVE-2020-16589)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-16589">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-16589">

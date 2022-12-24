@@ -3592,6 +3592,11 @@
 - [Live-Hack-CVE/CVE-2022-41534](https://github.com/Live-Hack-CVE/CVE-2022-41534)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41534">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41534">
 
 ---
+## CVE-2022-41495 (2022-10-13T21:15:00)
+> ClipperCMS 1.3.3 was discovered to contain a Server-Side Request Forgery (SSRF) via the rss_url_news parameter at /manager/index.php.
+- [Live-Hack-CVE/CVE-2022-41495](https://github.com/Live-Hack-CVE/CVE-2022-41495)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41495">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41495">
+
+---
 ## CVE-2022-41485 (2022-10-13T19:15:00)
 > Tenda AC1200 US_AC6V2.0RTL_V15.03.06.51_multi_TDE01 was discovered to contain a buffer overflow in the 0x47ce00 function. This vulnerability allows attackers to cause a Denial of Service (DoS) via a crafted request.
 - [Live-Hack-CVE/CVE-2022-41485](https://github.com/Live-Hack-CVE/CVE-2022-41485)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41485">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41485">
@@ -3659,6 +3664,16 @@
 - [segfault-it/cve-2022-41352](https://github.com/segfault-it/cve-2022-41352)	<img alt="forks" src="https://img.shields.io/github/forks/segfault-it/cve-2022-41352">	<img alt="stars" src="https://img.shields.io/github/stars/segfault-it/cve-2022-41352">
 - [Cr4ckC4t/cve-2022-41352-zimbra-rce](https://github.com/Cr4ckC4t/cve-2022-41352-zimbra-rce)	<img alt="forks" src="https://img.shields.io/github/forks/Cr4ckC4t/cve-2022-41352-zimbra-rce">	<img alt="stars" src="https://img.shields.io/github/stars/Cr4ckC4t/cve-2022-41352-zimbra-rce">
 - [aryrz/cve-2022-41352-zimbra-rce](https://github.com/aryrz/cve-2022-41352-zimbra-rce)	<img alt="forks" src="https://img.shields.io/github/forks/aryrz/cve-2022-41352-zimbra-rce">	<img alt="stars" src="https://img.shields.io/github/stars/aryrz/cve-2022-41352-zimbra-rce">
+
+---
+## CVE-2022-41351 (2022-10-12T20:15:00)
+> In Zimbra Collaboration Suite (ZCS) 8.8.15, at the URL /h/calendar, one can trigger XSS by adding JavaScript code to the view parameter and changing the value of the uncheck parameter to a string (instead of default value of 10).
+- [Live-Hack-CVE/CVE-2022-41351](https://github.com/Live-Hack-CVE/CVE-2022-41351)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41351">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41351">
+
+---
+## CVE-2022-41350 (2022-10-12T20:15:00)
+> In Zimbra Collaboration Suite (ZCS) 8.8.15, /h/search?action=voicemail&action=listen accepts a phone parameter that is vulnerable to Reflected XSS. This allows executing arbitrary JavaScript on the victim's machine.
+- [Live-Hack-CVE/CVE-2022-41350](https://github.com/Live-Hack-CVE/CVE-2022-41350)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41350">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41350">
 
 ---
 ## CVE-2022-4135 (2022-11-25T01:15:00)
@@ -7031,6 +7046,16 @@
 - [Live-Hack-CVE/CVE-2022-34654](https://github.com/Live-Hack-CVE/CVE-2022-34654)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34654">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34654">
 
 ---
+## CVE-2022-3457 (2022-10-13T20:15:00)
+> Origin Validation Error in GitHub repository ikus060/rdiffweb prior to 2.5.0a5.
+- [Live-Hack-CVE/CVE-2022-3457](https://github.com/Live-Hack-CVE/CVE-2022-3457)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3457">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3457">
+
+---
+## CVE-2022-3456 (2022-10-13T20:15:00)
+> Allocation of Resources Without Limits or Throttling in GitHub repository ikus060/rdiffweb prior to 2.5.0.
+- [Live-Hack-CVE/CVE-2022-3456](https://github.com/Live-Hack-CVE/CVE-2022-3456)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3456">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3456">
+
+---
 ## CVE-2022-3452 (2022-10-11T18:15:00)
 > A vulnerability was found in SourceCodester Book Store Management System 1.0. It has been declared as problematic. This vulnerability affects unknown code of the file /category.php. The manipulation of the argument category_name leads to cross site scripting. The attack can be initiated remotely. The identifier of this vulnerability is VDB-210436.
 - [kenyon-wong/cve-2022-3452](https://github.com/kenyon-wong/cve-2022-3452)	<img alt="forks" src="https://img.shields.io/github/forks/kenyon-wong/cve-2022-3452">	<img alt="stars" src="https://img.shields.io/github/stars/kenyon-wong/cve-2022-3452">
@@ -7069,6 +7094,11 @@
 ## CVE-2022-34437 (2022-10-21T18:15:00)
 > Dell PowerScale OneFS, versions 8.2.2-9.3.0, contain an OS command injection vulnerability. A privileged local malicious user could potentially exploit this vulnerability, leading to a full system compromise. This impacts compliance mode clusters.
 - [Live-Hack-CVE/CVE-2022-34437](https://github.com/Live-Hack-CVE/CVE-2022-34437)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34437">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34437">
+
+---
+## CVE-2022-34434 (2022-10-11T17:15:00)
+> Cloud Mobility for Dell Storage versions 1.3.0 and earlier contains an Improper Access Control vulnerability within the Postgres database. A threat actor with root level access to either the vApp or containerized versions of Cloud Mobility may potentially exploit this vulnerability, leading to the modification or deletion of tables that are required for many of the core functionalities of Cloud Mobility. Exploitation may lead to the compromise of integrity and availability of the normal functionality of the Cloud Mobility application.
+- [Live-Hack-CVE/CVE-2022-34434](https://github.com/Live-Hack-CVE/CVE-2022-34434)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34434">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34434">
 
 ---
 ## CVE-2022-3443 (2022-11-01T20:15:00)
@@ -7243,6 +7273,11 @@
 > HIWIN Robot System Software version 3.3.21.9869 does not properly address the terminated command source. As a result, an attacker could craft code to disconnect HRSS and the controller and cause a denial-of-service condition.
 - [PyterSmithDarkGhost/CVE-2022-3382ROBOTICAEXPLOITPOC](https://github.com/PyterSmithDarkGhost/CVE-2022-3382ROBOTICAEXPLOITPOC)	<img alt="forks" src="https://img.shields.io/github/forks/PyterSmithDarkGhost/CVE-2022-3382ROBOTICAEXPLOITPOC">	<img alt="stars" src="https://img.shields.io/github/stars/PyterSmithDarkGhost/CVE-2022-3382ROBOTICAEXPLOITPOC">
 - [Live-Hack-CVE/CVE-2022-3382](https://github.com/Live-Hack-CVE/CVE-2022-3382)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3382">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3382">
+
+---
+## CVE-2022-33749 (2022-10-11T13:15:00)
+> XAPI open file limit DoS It is possible for an unauthenticated client on the network to cause XAPI to hit its file-descriptor limit. This causes XAPI to be unable to accept new requests for other (trusted) clients, and blocks XAPI from carrying out any tasks that require the opening of file descriptors.
+- [Live-Hack-CVE/CVE-2022-33749](https://github.com/Live-Hack-CVE/CVE-2022-33749)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33749">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33749">
 
 ---
 ## CVE-2022-33747 (2022-10-11T13:15:00)
@@ -7601,6 +7636,11 @@
 - [Live-Hack-CVE/CVE-2022-32511](https://github.com/Live-Hack-CVE/CVE-2022-32511)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32511">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32511">
 
 ---
+## CVE-2022-32492 (2022-10-11T17:15:00)
+> Dell BIOS contains an improper input validation vulnerability. A local authenticated malicious user may potentially exploit this vulnerability by using an SMI to gain arbitrary code execution in SMRAM.
+- [Live-Hack-CVE/CVE-2022-32492](https://github.com/Live-Hack-CVE/CVE-2022-32492)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32492">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32492">
+
+---
 ## CVE-2022-32491 (2022-10-12T20:15:00)
 > Dell Client BIOS contains a Buffer Overflow vulnerability. A local authenticated malicious user may potentially exploit this vulnerability by manipulating an SMI to cause an arbitrary write during SMM.
 - [Live-Hack-CVE/CVE-2022-32491](https://github.com/Live-Hack-CVE/CVE-2022-32491)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32491">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32491">
@@ -7619,6 +7659,11 @@
 ## CVE-2022-32487 (2022-10-12T20:15:00)
 > Dell BIOS contains an improper input validation vulnerability. A local authenticated malicious user may potentially exploit this vulnerability by using an SMI to gain arbitrary code execution in SMRAM.
 - [Live-Hack-CVE/CVE-2022-32487](https://github.com/Live-Hack-CVE/CVE-2022-32487)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32487">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32487">
+
+---
+## CVE-2022-32486 (2022-10-11T17:15:00)
+> Dell BIOS contains an improper input validation vulnerability. A local authenticated malicious user may potentially exploit this vulnerability by using an SMI to gain arbitrary code execution in SMRAM.
+- [Live-Hack-CVE/CVE-2022-32486](https://github.com/Live-Hack-CVE/CVE-2022-32486)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32486">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32486">
 
 ---
 ## CVE-2022-32485 (2022-10-12T20:15:00)
@@ -9788,6 +9833,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-25660 (2022-10-19T11:15:00)
 > Memory corruption due to double free issue in kernel in Snapdragon Auto, Snapdragon Compute, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile
 - [Live-Hack-CVE/CVE-2022-25660](https://github.com/Live-Hack-CVE/CVE-2022-25660)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25660">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25660">
+
+---
+## CVE-2022-25648 (2022-04-19T17:15:00)
+> The package git before 1.11.0 are vulnerable to Command Injection via git argument injection. When calling the fetch(remote = 'origin', opts = {}) function, the remote parameter is passed to the git fetch subcommand in a way that additional flags can be set. The additional flags can be used to perform a command injection.
+- [Live-Hack-CVE/CVE-2022-25648](https://github.com/Live-Hack-CVE/CVE-2022-25648)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25648">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25648">
 
 ---
 ## CVE-2022-25647 (2022-05-01T16:15:00)

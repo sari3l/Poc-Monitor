@@ -66,6 +66,16 @@
 - [Live-Hack-CVE/CVE-2019-7666](https://github.com/Live-Hack-CVE/CVE-2019-7666)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7666">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7666">
 
 ---
+## CVE-2019-7655 (2020-01-29T16:15:00)
+> Wowza Streaming Engine 4.8.0 and earlier from multiple authenticated XSS vulnerabilities via the (1) customList%5B0%5D.value field in enginemanager/server/serversetup/edit_adv.htm of the Server Setup configuration or the (2) host field in enginemanager/j_spring_security_check of the login form. This issue was resolved in Wowza Streaming Engine 4.8.5.
+- [Live-Hack-CVE/CVE-2019-7655](https://github.com/Live-Hack-CVE/CVE-2019-7655)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7655">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7655">
+
+---
+## CVE-2019-7654 (2020-01-29T16:15:00)
+> Wowza Streaming Engine 4.8.0 and earlier suffers from multiple CSRF vulnerabilities. For example, an administrator, by following a link, can be tricked into making unwanted changes such as adding another admin user via enginemanager/server/user/edit.htm in the Server->Users component. This issue was resolved in Wowza Streaming Engine 4.8.5.
+- [Live-Hack-CVE/CVE-2019-7654](https://github.com/Live-Hack-CVE/CVE-2019-7654)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7654">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7654">
+
+---
 ## CVE-2019-7281 (2019-07-01T19:15:00)
 > Prima Systems FlexAir, Versions 2.3.38 and prior. An unauthenticated user can send unverified HTTP requests, which may allow the attacker to perform certain actions with administrative privileges if a logged-in user visits a malicious website.
 - [Live-Hack-CVE/CVE-2019-7281](https://github.com/Live-Hack-CVE/CVE-2019-7281)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7281">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7281">
@@ -104,9 +114,89 @@
 - [KaviDk/CVE-2019-6447-in-Mobile-Application](https://github.com/KaviDk/CVE-2019-6447-in-Mobile-Application)	<img alt="forks" src="https://img.shields.io/github/forks/KaviDk/CVE-2019-6447-in-Mobile-Application">	<img alt="stars" src="https://img.shields.io/github/stars/KaviDk/CVE-2019-6447-in-Mobile-Application">
 
 ---
+## CVE-2019-6182 (2019-09-03T19:15:00)
+> A stored CSV Injection vulnerability was reported in Lenovo XClarity Administrator (LXCA) versions prior to 2.5.0 that could allow an administrative user to store malformed data in LXCA Jobs and Event Log data, that could result in crafted formulas stored in an exported CSV file. The crafted formula is not executed on LXCA itself.
+- [Live-Hack-CVE/CVE-2019-6182](https://github.com/Live-Hack-CVE/CVE-2019-6182)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6182">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6182">
+
+---
+## CVE-2019-6181 (2019-09-03T19:15:00)
+> A reflected cross-site scripting (XSS) vulnerability was reported in Lenovo XClarity Administrator (LXCA) versions prior to 2.5.0 that could allow a crafted URL, if visited, to cause JavaScript code to be executed in the user's web browser. The JavaScript code is not executed on LXCA itself.
+- [Live-Hack-CVE/CVE-2019-6181](https://github.com/Live-Hack-CVE/CVE-2019-6181)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6181">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6181">
+
+---
+## CVE-2019-6180 (2019-09-03T19:15:00)
+> A stored cross-site scripting (XSS) vulnerability was reported in Lenovo XClarity Administrator (LXCA) versions prior to 2.5.0 that could allow an administrative user to cause JavaScript code to be stored in LXCA which may then be executed in the user's web browser. The JavaScript code is not executed on LXCA itself.
+- [Live-Hack-CVE/CVE-2019-6180](https://github.com/Live-Hack-CVE/CVE-2019-6180)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6180">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6180">
+
+---
+## CVE-2019-6179 (2019-09-03T19:15:00)
+> An XML External Entity (XXE) processing vulnerability was reported in Lenovo XClarity Administrator (LXCA) prior to version 2.5.0 , Lenovo XClarity Integrator (LXCI) for Microsoft System Center prior to version 7.7.0, and Lenovo XClarity Integrator (LXCI) for VMWare vCenter prior to version 6.1.0 that could allow information disclosure.
+- [Live-Hack-CVE/CVE-2019-6179](https://github.com/Live-Hack-CVE/CVE-2019-6179)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6179">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6179">
+
+---
+## CVE-2019-6178 (2019-08-19T16:15:00)
+> An information leakage vulnerability in Iomega and LenovoEMC NAS products could allow disclosure of some device details such as Share names through the device API when Personal Cloud is enabled. This does not allow read, write, delete, or any other access to the underlying file systems and their contents.
+- [Live-Hack-CVE/CVE-2019-6178](https://github.com/Live-Hack-CVE/CVE-2019-6178)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6178">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6178">
+
+---
+## CVE-2019-6177 (2019-08-21T20:15:00)
+> A vulnerability reported in Lenovo Solution Center version 03.12.003, which is no longer supported, could allow log files to be written to non-standard locations, potentially leading to privilege escalation. Lenovo ended support for Lenovo Solution Center and recommended that customers migrate to Lenovo Vantage or Lenovo Diagnostics in April 2018.
+- [Live-Hack-CVE/CVE-2019-6177](https://github.com/Live-Hack-CVE/CVE-2019-6177)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6177">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6177">
+
+---
+## CVE-2019-6169 (2019-06-26T14:15:00)
+> A vulnerability reported in Lenovo Service Bridge before version 4.1.0.1 could allow unencrypted downloads over FTP.
+- [Live-Hack-CVE/CVE-2019-6169](https://github.com/Live-Hack-CVE/CVE-2019-6169)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6169">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6169">
+
+---
+## CVE-2019-6168 (2019-06-26T14:15:00)
+> A vulnerability reported in Lenovo Service Bridge before version 4.1.0.1 could allow remote code execution.
+- [Live-Hack-CVE/CVE-2019-6168](https://github.com/Live-Hack-CVE/CVE-2019-6168)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6168">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6168">
+
+---
+## CVE-2019-6167 (2019-06-26T14:15:00)
+> A vulnerability reported in Lenovo Service Bridge before version 4.1.0.1 could allow remote code execution.
+- [Live-Hack-CVE/CVE-2019-6167](https://github.com/Live-Hack-CVE/CVE-2019-6167)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6167">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6167">
+
+---
+## CVE-2019-6166 (2019-06-26T14:15:00)
+> A vulnerability reported in Lenovo Service Bridge before version 4.1.0.1 could allow cross-site request forgery.
+- [Live-Hack-CVE/CVE-2019-6166](https://github.com/Live-Hack-CVE/CVE-2019-6166)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6166">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6166">
+
+---
 ## CVE-2019-6142 (2019-11-05T21:15:00)
 > It has been reported that XSS is possible in Forcepoint Email Security, versions 8.5 and 8.5.3. It is strongly recommended that you apply the relevant hotfix in order to remediate this issue.
 - [Live-Hack-CVE/CVE-2019-6142](https://github.com/Live-Hack-CVE/CVE-2019-6142)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6142">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6142">
+
+---
+## CVE-2019-6002 (2019-07-26T14:15:00)
+> Cross-site scripting vulnerability in Central Dogma 0.17.0 to 0.40.1 allows remote attackers to inject arbitrary web script or HTML via unspecified vectors.
+- [Live-Hack-CVE/CVE-2019-6002](https://github.com/Live-Hack-CVE/CVE-2019-6002)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6002">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6002">
+
+---
+## CVE-2019-5924 (2019-03-12T22:29:00)
+> Cross-site request forgery (CSRF) vulnerability in Smart Forms 2.6.15 and earlier allows remote attackers to hijack the authentication of administrators via a specially crafted page.
+- [Live-Hack-CVE/CVE-2019-5924](https://github.com/Live-Hack-CVE/CVE-2019-5924)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5924">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5924">
+
+---
+## CVE-2019-5891 (2019-04-01T16:29:00)
+> An issue was discovered in OverIT Geocall 6.3 before build 2:346977. An unauthenticated servlet allows an attacker to obtain a cookie of an authenticated user, and login to the web application.
+- [Live-Hack-CVE/CVE-2019-5891](https://github.com/Live-Hack-CVE/CVE-2019-5891)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5891">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5891">
+
+---
+## CVE-2019-5890 (2019-04-01T16:29:00)
+> An issue was discovered in OverIT Geocall 6.3 before build 2:346977. Weak authentication and session management allows an authenticated user to obtain access to the Administrative control panel and execute administrative functions.
+- [Live-Hack-CVE/CVE-2019-5890](https://github.com/Live-Hack-CVE/CVE-2019-5890)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5890">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5890">
+
+---
+## CVE-2019-5889 (2019-04-01T16:29:00)
+> An log-management directory traversal issue was discovered in OverIT Geocall 6.3 before build 2:346977.
+- [Live-Hack-CVE/CVE-2019-5889](https://github.com/Live-Hack-CVE/CVE-2019-5889)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5889">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5889">
+
+---
+## CVE-2019-5888 (2019-04-01T16:29:00)
+> Multiple XSS vulnerabilities were discovered in OverIT Geocall 6.3 before build 2:346977.
+- [Live-Hack-CVE/CVE-2019-5888](https://github.com/Live-Hack-CVE/CVE-2019-5888)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5888">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5888">
 
 ---
 ## CVE-2019-5815 (2019-12-11T01:15:00)

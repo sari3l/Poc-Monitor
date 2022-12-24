@@ -31,6 +31,11 @@
 - [Live-Hack-CVE/CVE-2021-46744](https://github.com/Live-Hack-CVE/CVE-2021-46744)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46744">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46744">
 
 ---
+## CVE-2021-46671 (2022-02-04T21:15:00)
+> options.c in atftp before 0.7.5 reads past the end of an array, and consequently discloses server-side /etc/group data to a remote client.
+- [Live-Hack-CVE/CVE-2021-46671](https://github.com/Live-Hack-CVE/CVE-2021-46671)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46671">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46671">
+
+---
 ## CVE-2021-46422 (2022-04-27T13:15:00)
 > Telesquare SDT-CW3B1 1.1.0 is affected by an OS command injection vulnerability that allows a remote attacker to execute OS commands without any authentication.
 - [Chocapikk/CVE-2021-46422](https://github.com/Chocapikk/CVE-2021-46422)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2021-46422">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2021-46422">
