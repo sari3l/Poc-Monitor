@@ -4276,6 +4276,11 @@
 - [Live-Hack-CVE/CVE-2022-40955](https://github.com/Live-Hack-CVE/CVE-2022-40955)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40955">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40955">
 
 ---
+## CVE-2022-40923 (2022-09-30T19:15:00)
+> A vulnerability in the LIEF::MachO::SegmentCommand::virtual_address function of LIEF v0.12.1 allows attackers to cause a denial of service (DOS) through a segmentation fault via a crafted MachO file.
+- [Live-Hack-CVE/CVE-2022-40923](https://github.com/Live-Hack-CVE/CVE-2022-40923)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40923">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40923">
+
+---
 ## CVE-2022-40921 (2022-10-12T00:15:00)
 > DedeCMS V5.7.99 was discovered to contain an arbitrary file upload vulnerability via the component /dede/file_manage_control.php.
 - [Live-Hack-CVE/CVE-2022-40921](https://github.com/Live-Hack-CVE/CVE-2022-40921)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40921">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40921">
@@ -4374,6 +4379,11 @@
 ## CVE-2022-40768 (2022-09-18T05:15:00)
 > drivers/scsi/stex.c in the Linux kernel through 5.19.9 allows local users to obtain sensitive information from kernel memory because stex_queuecommand_lck lacks a memset for the PASSTHRU_CMD case.
 - [Live-Hack-CVE/CVE-2022-40768](https://github.com/Live-Hack-CVE/CVE-2022-40768)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40768">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40768">
+
+---
+## CVE-2022-40756 (2022-09-30T19:15:00)
+> If folder security is misconfigured for Actian Zen PSQL BEFORE Patch Update 1 for Zen 15 SP1 (v15.11.005), Patch Update 4 for Zen 15 (v15.01.017), or Patch Update 5 for Zen 14 SP2 (v14.21.022), it can allow an attacker (with file read/write access) to remove specific security files in order to reset the master password and gain access to the database.
+- [Live-Hack-CVE/CVE-2022-40756](https://github.com/Live-Hack-CVE/CVE-2022-40756)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40756">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40756">
 
 ---
 ## CVE-2022-40752 (2022-11-16T23:15:00)
@@ -4614,6 +4624,11 @@
 ## CVE-2022-4035 (2022-11-29T21:15:00)
 > The Appointment Hour Booking plugin for WordPress is vulnerable to iFrame Injection via the ‘email’ or general field parameters in versions up to, and including, 1.3.72 due to insufficient input sanitization and output escaping that makes injecting iFrame tags possible. This makes it possible for unauthenticated attackers to inject iFrames when submitting a booking that will execute whenever a user accesses the injected booking details page.
 - [Live-Hack-CVE/CVE-2022-4035](https://github.com/Live-Hack-CVE/CVE-2022-4035)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4035">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4035">
+
+---
+## CVE-2022-40341 (2022-09-30T19:15:00)
+> mojoPortal v2.7 was discovered to contain an arbitrary file upload vulnerability which allows attackers to execute arbitrary code via a crafted PNG file.
+- [Live-Hack-CVE/CVE-2022-40341](https://github.com/Live-Hack-CVE/CVE-2022-40341)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40341">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40341">
 
 ---
 ## CVE-2022-4034 (2022-11-29T21:15:00)
@@ -5234,6 +5249,11 @@
 ## CVE-2022-39233 (2022-10-19T11:15:00)
 > Tuleap is a Free & Open Source Suite to improve management of software developments and collaboration. In versions 12.9.99.228 and above, prior to 14.0.99.24, authorizations are not properly verified when updating the branch prefix used by the GitLab repository integration. Authenticated users can change the branch prefix of any of the GitLab repository integration they can see vie the REST endpoint `PATCH /gitlab_repositories/{id}`. This action should be restricted to Git administrators. This issue is patched in Tuleap Community Edition 14.0.99.24 and Tuleap Enterprise Edition 14.0-3. There are no known workarounds.
 - [Live-Hack-CVE/CVE-2022-39233](https://github.com/Live-Hack-CVE/CVE-2022-39233)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39233">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39233">
+
+---
+## CVE-2022-39232 (2022-09-29T21:15:00)
+> Discourse is an open source discussion platform. Starting with version 2.9.0.beta5 and prior to version 2.9.0.beta10, an incomplete quote can generate a JavaScript error which will crash the current page in the browser in some cases. Version 2.9.0.beta10 added a fix and tests to ensure incomplete quotes won't break the app. As a workaround, the quote can be fixed via the rails console.
+- [Live-Hack-CVE/CVE-2022-39232](https://github.com/Live-Hack-CVE/CVE-2022-39232)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39232">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39232">
 
 ---
 ## CVE-2022-39222 (2022-10-06T18:16:00)
@@ -7320,6 +7340,16 @@
 - [Live-Hack-CVE/CVE-2022-3516](https://github.com/Live-Hack-CVE/CVE-2022-3516)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3516">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3516">
 
 ---
+## CVE-2022-35156 (2022-09-30T19:15:00)
+> Bus Pass Management System 1.0 was discovered to contain a SQL Injection vulnerability via the searchdata parameter at /buspassms/download-pass.php..
+- [Live-Hack-CVE/CVE-2022-35156](https://github.com/Live-Hack-CVE/CVE-2022-35156)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35156">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35156">
+
+---
+## CVE-2022-35155 (2022-09-30T19:15:00)
+> Bus Pass Management System v1.0 was discovered to contain a reflected cross-site scripting (XSS) vulnerability via the searchdata parameter.
+- [Live-Hack-CVE/CVE-2022-35155](https://github.com/Live-Hack-CVE/CVE-2022-35155)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35155">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35155">
+
+---
 ## CVE-2022-35131 (2022-07-25T21:15:00)
 > Joplin v2.8.8 allows attackers to execute arbitrary commands via a crafted payload injected into the Node titles.
 - [ly1g3/Joplin-CVE-2022-35131](https://github.com/ly1g3/Joplin-CVE-2022-35131)	<img alt="forks" src="https://img.shields.io/github/forks/ly1g3/Joplin-CVE-2022-35131">	<img alt="stars" src="https://img.shields.io/github/stars/ly1g3/Joplin-CVE-2022-35131">
@@ -7577,6 +7607,16 @@
 ## CVE-2022-3443 (2022-11-01T20:15:00)
 > Insufficient data validation in File System API in Google Chrome prior to 106.0.5249.62 allowed a remote attacker to bypass File System restrictions via a crafted HTML page. (Chromium security severity: Low)
 - [Live-Hack-CVE/CVE-2022-3443](https://github.com/Live-Hack-CVE/CVE-2022-3443)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3443">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3443">
+
+---
+## CVE-2022-34429 (2022-09-30T20:15:00)
+> Dell Hybrid Client below 1.8 version contains a Zip Slip Vulnerability in UI. A guest privilege attacker could potentially exploit this vulnerability, leading to system files modification.
+- [Live-Hack-CVE/CVE-2022-34429](https://github.com/Live-Hack-CVE/CVE-2022-34429)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34429">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34429">
+
+---
+## CVE-2022-34428 (2022-09-30T20:15:00)
+> Dell Hybrid Client prior to version 1.8 contains a Regular Expression Denial of Service Vulnerability in the UI. An adversary with WMS group admin access could potentially exploit this vulnerability, leading to temporary denial-of-service.
+- [Live-Hack-CVE/CVE-2022-34428](https://github.com/Live-Hack-CVE/CVE-2022-34428)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34428">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34428">
 
 ---
 ## CVE-2022-3441 (2022-10-31T16:15:00)
@@ -9538,6 +9578,16 @@
 ## CVE-2022-29145 (2022-05-10T21:15:00)
 > .NET and Visual Studio Denial of Service Vulnerability. This CVE ID is unique from CVE-2022-23267, CVE-2022-29117.
 - [Live-Hack-CVE/CVE-2022-29145](https://github.com/Live-Hack-CVE/CVE-2022-29145)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29145">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29145">
+
+---
+## CVE-2022-29110 (2022-05-10T21:15:00)
+> Microsoft Excel Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-29109.
+- [Live-Hack-CVE/CVE-2022-29110](https://github.com/Live-Hack-CVE/CVE-2022-29110)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29110">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29110">
+
+---
+## CVE-2022-29109 (2022-05-10T21:15:00)
+> Microsoft Excel Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-29110.
+- [Live-Hack-CVE/CVE-2022-29109](https://github.com/Live-Hack-CVE/CVE-2022-29109)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29109">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29109">
 
 ---
 ## CVE-2022-29078 (2022-04-25T15:15:00)
@@ -11731,9 +11781,19 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-20959](https://github.com/Live-Hack-CVE/CVE-2022-20959)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20959">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20959">
 
 ---
+## CVE-2022-20945 (2022-09-30T19:15:00)
+> A vulnerability in the 802.11 association frame validation of Cisco Catalyst 9100 Series Access Points (APs) could allow an unauthenticated, adjacent attacker to cause a denial of service (DoS) condition on an affected device. This vulnerability is due to insufficient input validation of certain parameters within association request frames received by the AP. An attacker could exploit this vulnerability by sending a crafted 802.11 association request to a nearby device. An exploit could allow the attacker to unexpectedly reload the device, resulting in a DoS condition.
+- [Live-Hack-CVE/CVE-2022-20945](https://github.com/Live-Hack-CVE/CVE-2022-20945)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20945">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20945">
+
+---
 ## CVE-2022-20934 (2022-11-15T21:15:00)
 > A vulnerability in the CLI of Cisco Firepower Threat Defense (FTD) Software and Cisco FXOS Software could allow an authenticated, local attacker to execute arbitrary commands on the underlying operating system as root. This vulnerability is due to improper input validation for specific CLI commands. An attacker could exploit this vulnerability by injecting operating system commands into a legitimate command. A successful exploit could allow the attacker to escape the restricted command prompt and execute arbitrary commands on the underlying operating system. To successfully exploit this vulnerability, an attacker would need valid Administrator credentials.
 - [Live-Hack-CVE/CVE-2022-20934](https://github.com/Live-Hack-CVE/CVE-2022-20934)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20934">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20934">
+
+---
+## CVE-2022-20930 (2022-09-30T19:15:00)
+> A vulnerability in the CLI of Cisco SD-WAN Software could allow an authenticated, local attacker to overwrite and possibly corrupt files on an affected system. This vulnerability is due to insufficient input validation. An attacker could exploit this vulnerability by injecting arbitrary commands that are executed as the root user account. A successful exploit could allow the attacker to overwrite arbitrary system files, which could result in a denial of service (DoS) condition.
+- [Live-Hack-CVE/CVE-2022-20930](https://github.com/Live-Hack-CVE/CVE-2022-20930)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20930">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20930">
 
 ---
 ## CVE-2022-20926 (2022-11-15T21:15:00)
@@ -11759,6 +11819,21 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-20866 (2022-08-10T17:15:00)
 >  A vulnerability in the handling of RSA keys on devices running Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to retrieve an RSA private key. This vulnerability is due to a logic error when the RSA key is stored in memory on a hardware platform that performs hardware-based cryptography. An attacker could exploit this vulnerability by using a Lenstra side-channel attack against the targeted device. A successful exploit could allow the attacker to retrieve the RSA private key.  The following conditions may be observed on an affected device:  This vulnerability will apply to approximately 5 percent of the RSA keys on a device that is running a vulnerable release of Cisco ASA Software or Cisco FTD Software; not all RSA keys are expected to be affected due to mathematical calculations applied to the RSA key. The RSA key could be valid but have specific characteristics that make it vulnerable to the potential leak of the RSA private key. If an attacker obtains the RSA private key, they could use the key to impersonate a device that is running Cisco ASA Software or Cisco FTD Software or to decrypt the device traffic. See the Indicators of Compromise section for more information on the detection of this type of RSA key. The RSA key could be malformed and invalid. A malformed RSA key is not functional, and a TLS client connection to a device that is running Cisco ASA Software or Cisco FTD Software that uses the malformed RSA key will result in a TLS signature failure, which means a vulnerable software release created an invalid RSA signature that failed verification. If an attacker obtains the RSA private key, they could use the key to impersonate a device that is running Cisco ASA Software or Cisco FTD Software or to decrypt the device traffic.  
 - [CiscoPSIRT/CVE-2022-20866](https://github.com/CiscoPSIRT/CVE-2022-20866)	<img alt="forks" src="https://img.shields.io/github/forks/CiscoPSIRT/CVE-2022-20866">	<img alt="stars" src="https://img.shields.io/github/stars/CiscoPSIRT/CVE-2022-20866">
+
+---
+## CVE-2022-20850 (2022-09-30T19:15:00)
+> A vulnerability in the CLI of stand-alone Cisco IOS XE SD-WAN Software and Cisco SD-WAN Software could allow an authenticated, local attacker to delete arbitrary files from the file system of an affected device. This vulnerability is due to insufficient input validation. An attacker could exploit this vulnerability by injecting arbitrary file path information when using commands in the CLI of an affected device. A successful exploit could allow the attacker to delete arbitrary files from the file system of the affected device.
+- [Live-Hack-CVE/CVE-2022-20850](https://github.com/Live-Hack-CVE/CVE-2022-20850)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20850">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20850">
+
+---
+## CVE-2022-20847 (2022-09-30T19:15:00)
+> A vulnerability in the DHCP processing functionality of Cisco IOS XE Wireless Controller Software for the Catalyst 9000 Family could allow an unauthenticated, remote attacker to cause a denial of service (DoS) condition. This vulnerability is due to the improper processing of DHCP messages. An attacker could exploit this vulnerability by sending malicious DHCP messages to an affected device. A successful exploit could allow the attacker to cause the device to reload, resulting in a DoS condition.
+- [Live-Hack-CVE/CVE-2022-20847](https://github.com/Live-Hack-CVE/CVE-2022-20847)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20847">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20847">
+
+---
+## CVE-2022-20844 (2022-09-30T19:15:00)
+> A vulnerability in authentication mechanism of Cisco Software-Defined Application Visibility and Control (SD-AVC) on Cisco vManage could allow an unauthenticated, remote attacker to access the GUI of Cisco SD-AVC using a default static username and password combination. This vulnerability exists because the GUI is accessible on self-managed cloud installations or local server installations of Cisco vManage. An attacker could exploit this vulnerability by accessing the exposed GUI of Cisco SD-AVC. A successful exploit could allow the attacker to view managed device names, SD-AVC logs, and SD-AVC DNS server IP addresses.
+- [Live-Hack-CVE/CVE-2022-20844](https://github.com/Live-Hack-CVE/CVE-2022-20844)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20844">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20844">
 
 ---
 ## CVE-2022-20841 (2022-08-10T08:15:00)
