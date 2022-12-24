@@ -5463,6 +5463,12 @@
 ## CVE-2022-3704 (2022-10-26T20:15:00)
 > A vulnerability classified as problematic has been found in Ruby on Rails. This affects an unknown part of the file actionpack/lib/action_dispatch/middleware/templates/routes/_table.html.erb. The manipulation leads to cross site scripting. It is possible to initiate the attack remotely. The name of the patch is be177e4566747b73ff63fd5f529fab564e475ed4. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-212319.
 - [Live-Hack-CVE/CVE-2022-3704](https://github.com/Live-Hack-CVE/CVE-2022-3704)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3704">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3704">
+- [Live-Hack-CVE/CVE-2022-37049](https://github.com/Live-Hack-CVE/CVE-2022-37049)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37049">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37049">
+- [Live-Hack-CVE/CVE-2022-37048](https://github.com/Live-Hack-CVE/CVE-2022-37048)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37048">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37048">
+- [Live-Hack-CVE/CVE-2022-37047](https://github.com/Live-Hack-CVE/CVE-2022-37047)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37047">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37047">
+- [0xf4n9x/CVE-2022-37042](https://github.com/0xf4n9x/CVE-2022-37042)	<img alt="forks" src="https://img.shields.io/github/forks/0xf4n9x/CVE-2022-37042">	<img alt="stars" src="https://img.shields.io/github/stars/0xf4n9x/CVE-2022-37042">
+- [aels/CVE-2022-37042](https://github.com/aels/CVE-2022-37042)	<img alt="forks" src="https://img.shields.io/github/forks/aels/CVE-2022-37042">	<img alt="stars" src="https://img.shields.io/github/stars/aels/CVE-2022-37042">
+- [GreyNoise-Intelligence/Zimbra_CVE-2022-37042-_CVE-2022-27925](https://github.com/GreyNoise-Intelligence/Zimbra_CVE-2022-37042-_CVE-2022-27925)	<img alt="forks" src="https://img.shields.io/github/forks/GreyNoise-Intelligence/Zimbra_CVE-2022-37042-_CVE-2022-27925">	<img alt="stars" src="https://img.shields.io/github/stars/GreyNoise-Intelligence/Zimbra_CVE-2022-37042-_CVE-2022-27925">
 
 ---
 ## CVE-2022-37018 (2022-12-12T13:15:00)
