@@ -61,6 +61,21 @@
 - [Live-Hack-CVE/CVE-2021-45710](https://github.com/Live-Hack-CVE/CVE-2021-45710)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45710">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45710">
 
 ---
+## CVE-2021-45707 (2021-12-27T00:15:00)
+> An issue was discovered in the nix crate 0.16.0 and later before 0.20.2, 0.21.x before 0.21.2, and 0.22.x before 0.22.2 for Rust. unistd::getgrouplist has an out-of-bounds write if a user is in more than 16 /etc/groups groups.
+- [Live-Hack-CVE/CVE-2021-45707](https://github.com/Live-Hack-CVE/CVE-2021-45707)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45707">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45707">
+
+---
+## CVE-2021-45476 (2022-10-27T10:15:00)
+> Yordam Library Information Document Automation product before version 19.02 has an unauthenticated reflected XSS vulnerability.
+- [Live-Hack-CVE/CVE-2021-45476](https://github.com/Live-Hack-CVE/CVE-2021-45476)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45476">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45476">
+
+---
+## CVE-2021-45475 (2022-10-27T10:15:00)
+> Yordam Library Information Document Automation product before version 19.02 has an unauthenticated Information disclosure vulnerability.
+- [Live-Hack-CVE/CVE-2021-45475](https://github.com/Live-Hack-CVE/CVE-2021-45475)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45475">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45475">
+
+---
 ## CVE-2021-45451 (2021-12-21T07:15:00)
 > In Mbed TLS before 3.1.0, psa_aead_generate_nonce allows policy bypass or oracle-based decryption when the output buffer is at memory locations accessible to an untrusted application.
 - [Live-Hack-CVE/CVE-2021-45451](https://github.com/Live-Hack-CVE/CVE-2021-45451)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45451">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45451">
@@ -1378,6 +1393,11 @@
 - [Live-Hack-CVE/CVE-2021-3474](https://github.com/Live-Hack-CVE/CVE-2021-3474)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3474">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3474">
 
 ---
+## CVE-2021-34589 (2022-04-27T16:15:00)
+> In Bender/ebee Charge Controllers in multiple versions are prone to an RFID leak. The RFID of the last charge event can be read without authentication via the web interface.
+- [Live-Hack-CVE/CVE-2021-34589](https://github.com/Live-Hack-CVE/CVE-2021-34589)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34589">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34589">
+
+---
 ## CVE-2021-34579 (2022-11-09T17:15:00)
 > In Phoenix Contact: FL MGUARD DM version 1.12.0 and 1.13.0 access to the Apache web server being installed as part of the FL MGUARD DM on Microsoft Windows does not require login credentials even if configured during installation.Attackers with network access to the Apache web server can download and therefore read mGuard configuration profiles (“ATV profiles”). Such configuration profiles may contain sensitive information, e.g. private keys associated with IPsec VPN connections.
 - [Live-Hack-CVE/CVE-2021-34579](https://github.com/Live-Hack-CVE/CVE-2021-34579)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34579">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34579">
@@ -2296,6 +2316,11 @@
 - [renini/CVE-2021-21972](https://github.com/renini/CVE-2021-21972)	<img alt="forks" src="https://img.shields.io/github/forks/renini/CVE-2021-21972">	<img alt="stars" src="https://img.shields.io/github/stars/renini/CVE-2021-21972">
 - [B1anda0/CVE-2021-21972](https://github.com/B1anda0/CVE-2021-21972)	<img alt="forks" src="https://img.shields.io/github/forks/B1anda0/CVE-2021-21972">	<img alt="stars" src="https://img.shields.io/github/stars/B1anda0/CVE-2021-21972">
 - [conjojo/VMware_vCenter_UNAuthorized_RCE_CVE-2021-21972](https://github.com/conjojo/VMware_vCenter_UNAuthorized_RCE_CVE-2021-21972)	<img alt="forks" src="https://img.shields.io/github/forks/conjojo/VMware_vCenter_UNAuthorized_RCE_CVE-2021-21972">	<img alt="stars" src="https://img.shields.io/github/stars/conjojo/VMware_vCenter_UNAuthorized_RCE_CVE-2021-21972">
+
+---
+## CVE-2021-21897 (2021-09-08T16:15:00)
+> A code execution vulnerability exists in the DL_Dxf::handleLWPolylineData functionality of Ribbonsoft dxflib 3.17.0. A specially-crafted .dxf file can lead to a heap buffer overflow. An attacker can provide a malicious file to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-21897](https://github.com/Live-Hack-CVE/CVE-2021-21897)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21897">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21897">
 
 ---
 ## CVE-2021-21809 (2021-06-23T22:15:00)

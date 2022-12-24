@@ -502,6 +502,11 @@
 - [nanopathi/linux-4.19.72_CVE-2020-29370](https://github.com/nanopathi/linux-4.19.72_CVE-2020-29370)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/linux-4.19.72_CVE-2020-29370">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/linux-4.19.72_CVE-2020-29370">
 
 ---
+## CVE-2020-2922 (2020-04-15T14:15:00)
+> Vulnerability in the MySQL Client product of Oracle MySQL (component: C API). Supported versions that are affected are 5.6.47 and prior, 5.7.29 and prior and 8.0.18 and prior. Difficult to exploit vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise MySQL Client. Successful attacks of this vulnerability can result in unauthorized read access to a subset of MySQL Client accessible data. CVSS 3.0 Base Score 3.7 (Confidentiality impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:N/A:N).
+- [Live-Hack-CVE/CVE-2020-2922](https://github.com/Live-Hack-CVE/CVE-2020-2922)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2922">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2922">
+
+---
 ## CVE-2020-29134 (2021-03-05T16:15:00)
 > The TOTVS Fluig platform allows path traversal through the parameter "file = .. /" encoded in base64. This affects all versions Fluig Lake 1.7.0, Fluig 1.6.5 and Fluig 1.6.4
 - [Ls4ss/CVE-2020-29134](https://github.com/Ls4ss/CVE-2020-29134)	<img alt="forks" src="https://img.shields.io/github/forks/Ls4ss/CVE-2020-29134">	<img alt="stars" src="https://img.shields.io/github/stars/Ls4ss/CVE-2020-29134">
@@ -640,6 +645,13 @@
 > Git Credential Manager Core (GCM Core) is a secure Git credential helper built on .NET Core that runs on Windows and macOS. In Git Credential Manager Core before version 2.0.289, when recursively cloning a Git repository on Windows with submodules, Git will first clone the top-level repository and then recursively clone all submodules by starting new Git processes from the top-level working directory. If a malicious git.exe executable is present in the top-level repository then this binary will be started by Git Credential Manager Core when attempting to read configuration, and not git.exe as found on the %PATH%. This only affects GCM Core on Windows, not macOS or Linux-based distributions. GCM Core version 2.0.289 contains the fix for this vulnerability, and is available from the project's GitHub releases page. GCM Core 2.0.289 is also bundled in the latest Git for Windows release; version 2.29.2(3). As a workaround, users should avoid recursively cloning untrusted repositories with the --recurse-submodules option.
 - [an1p3lg5/CVE-2020-26233](https://github.com/an1p3lg5/CVE-2020-26233)	<img alt="forks" src="https://img.shields.io/github/forks/an1p3lg5/CVE-2020-26233">	<img alt="stars" src="https://img.shields.io/github/stars/an1p3lg5/CVE-2020-26233">
 - [whr819987540/test_CVE-2020-26233](https://github.com/whr819987540/test_CVE-2020-26233)	<img alt="forks" src="https://img.shields.io/github/forks/whr819987540/test_CVE-2020-26233">	<img alt="stars" src="https://img.shields.io/github/stars/whr819987540/test_CVE-2020-26233">
+
+---
+## CVE-2020-26217 (2020-11-16T21:15:00)
+> XStream before version 1.4.14 is vulnerable to Remote Code Execution.The vulnerability may allow a remote attacker to run arbitrary shell commands only by manipulating the processed input stream. Only users who rely on blocklists are affected. Anyone using XStream's Security Framework allowlist is not affected. The linked advisory provides code workarounds for users who cannot upgrade. The issue is fixed in version 1.4.14.
+- [Live-Hack-CVE/CVE-2020-26217](https://github.com/Live-Hack-CVE/CVE-2020-26217)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-26217">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-26217">
+- [Al1ex/CVE-2020-26217](https://github.com/Al1ex/CVE-2020-26217)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/CVE-2020-26217">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/CVE-2020-26217">
+- [novysodope/CVE-2020-26217-XStream-RCE-POC](https://github.com/novysodope/CVE-2020-26217-XStream-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/novysodope/CVE-2020-26217-XStream-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/novysodope/CVE-2020-26217-XStream-RCE-POC">
 
 ---
 ## CVE-2020-26185 (2022-06-01T15:15:00)

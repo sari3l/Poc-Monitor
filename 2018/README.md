@@ -416,6 +416,11 @@
 - [RevoCain/CVE-2018-14699](https://github.com/RevoCain/CVE-2018-14699)	<img alt="forks" src="https://img.shields.io/github/forks/RevoCain/CVE-2018-14699">	<img alt="stars" src="https://img.shields.io/github/stars/RevoCain/CVE-2018-14699">
 
 ---
+## CVE-2018-14550 (2019-07-10T12:15:00)
+> An issue has been found in third-party PNM decoding associated with libpng 1.6.35. It is a stack-based buffer overflow in the function get_token in pnm2png.c in pnm2png.
+- [Live-Hack-CVE/CVE-2018-14550](https://github.com/Live-Hack-CVE/CVE-2018-14550)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-14550">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-14550">
+
+---
 ## CVE-2018-14463 (2019-10-03T16:15:00)
 > The VRRP parser in tcpdump before 4.9.3 has a buffer over-read in print-vrrp.c:vrrp_print() for VRRP version 2, a different vulnerability than CVE-2019-15167.
 - [nidhi7598/external_tcpdump_AOSP_10_r33_CVE-2018-14463](https://github.com/nidhi7598/external_tcpdump_AOSP_10_r33_CVE-2018-14463)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/external_tcpdump_AOSP_10_r33_CVE-2018-14463">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/external_tcpdump_AOSP_10_r33_CVE-2018-14463">
