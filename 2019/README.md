@@ -41,6 +41,11 @@
 - [Ler2sq/CVE-2019-8985](https://github.com/Ler2sq/CVE-2019-8985)	<img alt="forks" src="https://img.shields.io/github/forks/Ler2sq/CVE-2019-8985">	<img alt="stars" src="https://img.shields.io/github/stars/Ler2sq/CVE-2019-8985">
 
 ---
+## CVE-2019-7280 (2019-07-01T19:15:00)
+> Prima Systems FlexAir, Versions 2.3.38 and prior. The session-ID is of an insufficient length and can be exploited by brute force, which may allow a remote attacker to obtain a valid session and bypass authentication.
+- [Live-Hack-CVE/CVE-2019-7280](https://github.com/Live-Hack-CVE/CVE-2019-7280)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7280">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7280">
+
+---
 ## CVE-2019-7213 (2019-04-24T15:29:00)
 > SmarterTools SmarterMail 16.x before build 6985 allows directory traversal. An authenticated user could delete arbitrary files or could create files in new folders in arbitrary locations on the mail server. This could lead to command execution on the server for instance by putting files inside the web directories.
 - [secunnix/CVE-2019-7213](https://github.com/secunnix/CVE-2019-7213)	<img alt="forks" src="https://img.shields.io/github/forks/secunnix/CVE-2019-7213">	<img alt="stars" src="https://img.shields.io/github/stars/secunnix/CVE-2019-7213">

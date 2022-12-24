@@ -1436,6 +1436,16 @@
 - [Live-Hack-CVE/CVE-2020-10699](https://github.com/Live-Hack-CVE/CVE-2020-10699)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10699">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10699">
 
 ---
+## CVE-2020-10697 (2021-05-27T19:15:00)
+> A flaw was found in Ansible Tower when running Openshift. Tower runs a memcached, which is accessed via TCP. An attacker can take advantage of writing a playbook polluting this cache, causing a denial of service attack. This attack would not completely stop the service, but in the worst-case scenario, it can reduce the Tower performance, for which memcached is designed. Theoretically, more sophisticated attacks can be performed by manipulating and crafting the cache, as Tower relies on memcached as a place to pull out setting values. Confidential and sensitive data stored in memcached should not be pulled, as this information is encrypted. This flaw affects Ansible Tower versions before 3.6.4, Ansible Tower versions before 3.5.6 and Ansible Tower versions before 3.4.6.
+- [Live-Hack-CVE/CVE-2020-10697](https://github.com/Live-Hack-CVE/CVE-2020-10697)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10697">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10697">
+
+---
+## CVE-2020-10627 (2021-12-01T16:15:00)
+> Insulet Omnipod Insulin Management System insulin pump product ID 19191 and 40160 is designed to communicate using a wireless RF with an Insulet manufactured Personal Diabetes Manager device. This wireless RF communication protocol does not properly implement authentication or authorization. An attacker with access to one of the affected insulin pump models may be able to modify and/or intercept data. This vulnerability could also allow attackers to change pump settings and control insulin delivery.
+- [Live-Hack-CVE/CVE-2020-10627](https://github.com/Live-Hack-CVE/CVE-2020-10627)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10627">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10627">
+
+---
 ## CVE-2020-10560 (2020-03-30T13:15:00)
 > An issue was discovered in Open Source Social Network (OSSN) through 5.3. A user-controlled file path with a weak cryptographic rand() can be used to read any file with the permissions of the webserver. This can lead to further compromise. The attacker must conduct a brute-force attack against the SiteKey to insert into a crafted URL for components/OssnComments/ossn_com.php and/or libraries/ossn.lib.upgrade.php.
 - [kevthehermit/CVE-2020-10560](https://github.com/kevthehermit/CVE-2020-10560)	<img alt="forks" src="https://img.shields.io/github/forks/kevthehermit/CVE-2020-10560">	<img alt="stars" src="https://img.shields.io/github/stars/kevthehermit/CVE-2020-10560">
@@ -1520,6 +1530,11 @@
 - [Yt1g3r/CVE-2020-0688_EXP](https://github.com/Yt1g3r/CVE-2020-0688_EXP)	<img alt="forks" src="https://img.shields.io/github/forks/Yt1g3r/CVE-2020-0688_EXP">	<img alt="stars" src="https://img.shields.io/github/stars/Yt1g3r/CVE-2020-0688_EXP">
 - [Jumbo-WJB/CVE-2020-0688](https://github.com/Jumbo-WJB/CVE-2020-0688)	<img alt="forks" src="https://img.shields.io/github/forks/Jumbo-WJB/CVE-2020-0688">	<img alt="stars" src="https://img.shields.io/github/stars/Jumbo-WJB/CVE-2020-0688">
 - [random-robbie/cve-2020-0688](https://github.com/random-robbie/cve-2020-0688)	<img alt="forks" src="https://img.shields.io/github/forks/random-robbie/cve-2020-0688">	<img alt="stars" src="https://img.shields.io/github/stars/random-robbie/cve-2020-0688">
+
+---
+## CVE-2020-0427 (2020-09-17T19:15:00)
+> In create_pinctrl of core.c, there is a possible out of bounds read due to a use after free. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-140550171
+- [Live-Hack-CVE/CVE-2020-0427](https://github.com/Live-Hack-CVE/CVE-2020-0427)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-0427">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-0427">
 
 ---
 ## CVE-2020-0416 (2020-10-14T14:15:00)
