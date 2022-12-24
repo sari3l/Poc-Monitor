@@ -315,6 +315,11 @@
 - [mrx04programmer/Dr.DLL-CVE-2018-18333](https://github.com/mrx04programmer/Dr.DLL-CVE-2018-18333)	<img alt="forks" src="https://img.shields.io/github/forks/mrx04programmer/Dr.DLL-CVE-2018-18333">	<img alt="stars" src="https://img.shields.io/github/stars/mrx04programmer/Dr.DLL-CVE-2018-18333">
 
 ---
+## CVE-2018-17956 (2019-03-15T20:29:00)
+> In yast2-samba-provision up to and including version 1.0.1 the password for samba shares was provided on the command line to tools used by yast2-samba-provision, allowing local attackers to read them in the process list
+- [Live-Hack-CVE/CVE-2018-17956](https://github.com/Live-Hack-CVE/CVE-2018-17956)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-17956">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-17956">
+
+---
 ## CVE-2018-16858 (2019-03-25T18:29:00)
 > It was found that libreoffice before versions 6.0.7 and 6.1.3 was vulnerable to a directory traversal attack which could be used to execute arbitrary macros bundled with a document. An attacker could craft a document, which when opened by LibreOffice, would execute a Python method from a script in any arbitrary file system location, specified relative to the LibreOffice install location.
 - [bantu2301/CVE-2018-16858](https://github.com/bantu2301/CVE-2018-16858)	<img alt="forks" src="https://img.shields.io/github/forks/bantu2301/CVE-2018-16858">	<img alt="stars" src="https://img.shields.io/github/stars/bantu2301/CVE-2018-16858">

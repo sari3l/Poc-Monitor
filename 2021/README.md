@@ -2090,6 +2090,11 @@
 - [Live-Hack-CVE/CVE-2021-32027](https://github.com/Live-Hack-CVE/CVE-2021-32027)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32027">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32027">
 
 ---
+## CVE-2021-31997 (2021-06-10T12:15:00)
+> A UNIX Symbolic Link (Symlink) Following vulnerability in python-postorius of openSUSE Leap 15.2, Factory allows local attackers to escalate from users postorius or postorius-admin to root. This issue affects: openSUSE Leap 15.2 python-postorius version 1.3.2-lp152.1.2 and prior versions. openSUSE Factory python-postorius version 1.3.4-2.1 and prior versions.
+- [Live-Hack-CVE/CVE-2021-31997](https://github.com/Live-Hack-CVE/CVE-2021-31997)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31997">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31997">
+
+---
 ## CVE-2021-31956 (2021-06-08T23:15:00)
 > Windows NTFS Elevation of Privilege Vulnerability
 - [Y3A/CVE-2021-31956](https://github.com/Y3A/CVE-2021-31956)	<img alt="forks" src="https://img.shields.io/github/forks/Y3A/CVE-2021-31956">	<img alt="stars" src="https://img.shields.io/github/stars/Y3A/CVE-2021-31956">

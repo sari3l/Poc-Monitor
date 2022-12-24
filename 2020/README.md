@@ -315,6 +315,16 @@
 - [Live-Hack-CVE/CVE-2020-6624](https://github.com/Live-Hack-CVE/CVE-2020-6624)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6624">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6624">
 
 ---
+## CVE-2020-6497 (2020-06-03T23:15:00)
+> Insufficient policy enforcement in Omnibox in Google Chrome on iOS prior to 83.0.4103.88 allowed a remote attacker to perform domain spoofing via a crafted URI.
+- [Live-Hack-CVE/CVE-2020-6497](https://github.com/Live-Hack-CVE/CVE-2020-6497)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6497">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6497">
+
+---
+## CVE-2020-6495 (2020-06-03T23:15:00)
+> Insufficient policy enforcement in developer tools in Google Chrome prior to 83.0.4103.97 allowed an attacker who convinced a user to install a malicious extension to potentially perform a sandbox escape via a crafted Chrome Extension.
+- [Live-Hack-CVE/CVE-2020-6495](https://github.com/Live-Hack-CVE/CVE-2020-6495)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6495">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6495">
+
+---
 ## CVE-2020-6468 (2020-05-21T04:15:00)
 > Type confusion in V8 in Google Chrome prior to 83.0.4103.61 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
 - [kiks7/CVE-2020-6468-Chrome-Exploit](https://github.com/kiks7/CVE-2020-6468-Chrome-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/kiks7/CVE-2020-6468-Chrome-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/kiks7/CVE-2020-6468-Chrome-Exploit">
@@ -425,6 +435,11 @@
 ## CVE-2020-36607 (2022-12-15T19:15:00)
 > Cross Site Scripting (XSS) vulnerability in FeehiCMS 2.0.8 allows remote attackers to run arbitrary code via tha lang attribute of an html tag.
 - [Live-Hack-CVE/CVE-2020-36607](https://github.com/Live-Hack-CVE/CVE-2020-36607)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36607">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36607">
+
+---
+## CVE-2020-36322 (2021-04-14T06:15:00)
+> An issue was discovered in the FUSE filesystem implementation in the Linux kernel before 5.10.6, aka CID-5d069dbe8aaf. fuse_do_getattr() calls make_bad_inode() in inappropriate situations, causing a system crash. NOTE: the original fix for this vulnerability was incomplete, and its incompleteness is tracked as CVE-2021-28950.
+- [Live-Hack-CVE/CVE-2020-36322](https://github.com/Live-Hack-CVE/CVE-2020-36322)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36322">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36322">
 
 ---
 ## CVE-2020-36244 (2021-02-10T07:15:00)

@@ -3633,6 +3633,11 @@
 - [Live-Hack-CVE/CVE-2022-4141](https://github.com/Live-Hack-CVE/CVE-2022-4141)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4141">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4141">
 
 ---
+## CVE-2022-41403 (2022-10-12T18:15:00)
+> OpenCart 3.x Newsletter Custom Popup was discovered to contain a SQL injection vulnerability via the email parameter at index.php?route=extension/module/so_newletter_custom_popup/newsletter.
+- [Live-Hack-CVE/CVE-2022-41403](https://github.com/Live-Hack-CVE/CVE-2022-41403)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41403">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41403">
+
+---
 ## CVE-2022-4136 (2022-11-24T08:15:00)
 > Dangerous method exposed which can lead to RCE in qmpass/leadshop v1.4.15 allows an attacker to control the target host by calling any function in leadshop.php via the GET method.
 - [Live-Hack-CVE/CVE-2022-4136](https://github.com/Live-Hack-CVE/CVE-2022-4136)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4136">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4136">
@@ -3694,6 +3699,11 @@
 ## CVE-2022-41302 (2022-10-14T17:15:00)
 > An Out-Of-Bounds Read Vulnerability in Autodesk FBX SDK version 2020. and prior may lead to code execution or information disclosure through maliciously crafted FBX files. This vulnerability in conjunction with other vulnerabilities could lead to code execution in the context of the current process.
 - [Live-Hack-CVE/CVE-2022-41302](https://github.com/Live-Hack-CVE/CVE-2022-41302)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41302">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41302">
+
+---
+## CVE-2022-41294 (2022-10-06T18:16:00)
+> IBM Robotic Process Automation 21.0.0, 21.0.1, 21.0.2, 21.0.3, and 21.0.4 is vulnerable to cross origin resource sharing using the bot api. IBM X-Force ID: 236807.
+- [Live-Hack-CVE/CVE-2022-41294](https://github.com/Live-Hack-CVE/CVE-2022-41294)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41294">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41294">
 
 ---
 ## CVE-2022-41288 (2022-12-13T16:15:00)
@@ -4141,6 +4151,11 @@
 - [whitej3rry/CVE-2022-40916](https://github.com/whitej3rry/CVE-2022-40916)	<img alt="forks" src="https://img.shields.io/github/forks/whitej3rry/CVE-2022-40916">	<img alt="stars" src="https://img.shields.io/github/stars/whitej3rry/CVE-2022-40916">
 
 ---
+## CVE-2022-40871 (2022-10-12T12:15:00)
+> Dolibarr ERP & CRM <=15.0.3 is vulnerable to Eval injection. By default, any administrator can be added to the installation page of dolibarr, and if successfully added, malicious code can be inserted into the database and then execute it by eval.
+- [Live-Hack-CVE/CVE-2022-40871](https://github.com/Live-Hack-CVE/CVE-2022-40871)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40871">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40871">
+
+---
 ## CVE-2022-40843 (2022-11-15T02:15:00)
 > The Tenda AC1200 V-W15Ev2 V15.11.0.10(1576) router is vulnerable to improper authorization / improper session management that allows the router login page to be bypassed. This leads to authenticated attackers having the ability to read the routers syslog.log file which contains the MD5 password of the Administrator's user account.
 - [Live-Hack-CVE/CVE-2022-40843](https://github.com/Live-Hack-CVE/CVE-2022-40843)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40843">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40843">
@@ -4381,6 +4396,11 @@
 - [Live-Hack-CVE/CVE-2022-40469](https://github.com/Live-Hack-CVE/CVE-2022-40469)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40469">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40469">
 
 ---
+## CVE-2022-40440 (2022-10-12T00:15:00)
+> mxGraph v4.2.2 was discovered to contain a cross-site scripting (XSS) vulnerability via the setTooltips() function.
+- [Live-Hack-CVE/CVE-2022-40440](https://github.com/Live-Hack-CVE/CVE-2022-40440)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40440">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40440">
+
+---
 ## CVE-2022-40434 (2022-12-19T22:15:00)
 > Softr v2.0 was discovered to be vulnerable to HTML injection via the Name field of the Account page.
 - [Live-Hack-CVE/CVE-2022-40434](https://github.com/Live-Hack-CVE/CVE-2022-40434)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40434">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40434">
@@ -4500,6 +4520,11 @@
 ## CVE-2022-40189 (2022-11-22T10:15:00)
 > Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') vulnerability in Apache Airflow Pig Provider, Apache Airflow allows an attacker to control commands executed in the task execution context, without write access to DAG files. This issue affects Pig Provider versions prior to 4.0.0. It also impacts any Apache Airflow versions prior to 2.3.0 in case Pig Provider is installed (Pig Provider 4.0.0 can only be installed for Airflow 2.3.0+). Note that you need to manually install the Pig Provider version 4.0.0 in order to get rid of the vulnerability on top of Airflow 2.3.0+ version.
 - [Live-Hack-CVE/CVE-2022-40189](https://github.com/Live-Hack-CVE/CVE-2022-40189)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40189">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40189">
+
+---
+## CVE-2022-40187 (2022-10-13T01:15:00)
+> Foresight GC3 Launch Monitor 1.3.15.68 ships with a Target Communication Framework (TCF) service enabled. This service listens on a TCP port on all interfaces and allows for process debugging, file system modification, and terminal access as the root user. In conjunction with a hosted wireless access point and the known passphrase of FSSPORTS, an attacker could use this service to modify a device and steal intellectual property.
+- [Live-Hack-CVE/CVE-2022-40187](https://github.com/Live-Hack-CVE/CVE-2022-40187)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40187">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40187">
 
 ---
 ## CVE-2022-40183 (2022-10-27T17:15:00)
@@ -5287,6 +5312,11 @@
 ## CVE-2022-38724 (2022-11-23T00:15:00)
 > Silverstripe silverstripe/framework through 4.11.0, silverstripe/assets through 1.11.0, and silverstripe/asset-admin through 1.11.0 allow XSS.
 - [Live-Hack-CVE/CVE-2022-38724](https://github.com/Live-Hack-CVE/CVE-2022-38724)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38724">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38724">
+
+---
+## CVE-2022-38709 (2022-10-06T18:16:00)
+> IBM Robotic Process Automation 21.0.1, 21.0.2, and 21.0.3 for Cloud Pak is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 234291.
+- [Live-Hack-CVE/CVE-2022-38709](https://github.com/Live-Hack-CVE/CVE-2022-38709)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38709">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38709">
 
 ---
 ## CVE-2022-3869 (2022-11-05T14:15:00)
@@ -6211,6 +6241,11 @@
 - [Live-Hack-CVE/CVE-2022-36781](https://github.com/Live-Hack-CVE/CVE-2022-36781)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36781">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36781">
 
 ---
+## CVE-2022-36774 (2022-10-06T18:16:00)
+> IBM Robotic Process Automation 21.0.0, 21.0.1, and 21.0.2 is vulnerable to man in the middle attacks through manipulation of the client proxy configuration. IBM X-Force ID: 233575.
+- [Live-Hack-CVE/CVE-2022-36774](https://github.com/Live-Hack-CVE/CVE-2022-36774)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36774">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36774">
+
+---
 ## CVE-2022-36773 (2022-09-01T19:15:00)
 > IBM Cognos Analytics 11.1.7, 11.2.0, and 11.2.1 is vulnerable to an XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 233571.
 - [Live-Hack-CVE/CVE-2022-36773](https://github.com/Live-Hack-CVE/CVE-2022-36773)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36773">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36773">
@@ -6934,6 +6969,11 @@
 - [Live-Hack-CVE/CVE-2022-3477](https://github.com/Live-Hack-CVE/CVE-2022-3477)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3477">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3477">
 
 ---
+## CVE-2022-3473 (2022-10-13T04:15:00)
+> A vulnerability classified as critical has been found in SourceCodester Human Resource Management System. This affects an unknown part of the file getstatecity.php. The manipulation of the argument ci leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-210717 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-3473](https://github.com/Live-Hack-CVE/CVE-2022-3473)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3473">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3473">
+
+---
 ## CVE-2022-34729 (2022-09-13T19:15:00)
 > Windows GDI Elevation of Privilege Vulnerability.
 - [Pwnrin/CVE-2022-34729](https://github.com/Pwnrin/CVE-2022-34729)	<img alt="forks" src="https://img.shields.io/github/forks/Pwnrin/CVE-2022-34729">	<img alt="stars" src="https://img.shields.io/github/stars/Pwnrin/CVE-2022-34729">
@@ -6963,6 +7003,17 @@
 ## CVE-2022-3469 (2022-11-14T15:15:00)
 > The WP Attachments WordPress plugin before 5.0.5 does not sanitize and escapes some of its settings, which could allow high-privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example, in multisite setup).
 - [Live-Hack-CVE/CVE-2022-3469](https://github.com/Live-Hack-CVE/CVE-2022-3469)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3469">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3469">
+
+---
+## CVE-2022-3467 (2022-10-12T15:15:00)
+> A vulnerability classified as critical was found in Jiusi OA. Affected by this vulnerability is an unknown functionality of the file /jsoa/hntdCustomDesktopActionContent. The manipulation of the argument inforid leads to sql injection. The exploit has been disclosed to the public and may be used. The identifier VDB-210709 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-3467](https://github.com/Live-Hack-CVE/CVE-2022-3467)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3467">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3467">
+
+---
+## CVE-2022-3465 (2022-10-12T10:15:00)
+> A vulnerability classified as critical was found in Mediabridge Medialink. This vulnerability affects unknown code of the file /index.asp. The manipulation leads to improper authentication. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-210700.
+- [Live-Hack-CVE/CVE-2022-3465](https://github.com/Live-Hack-CVE/CVE-2022-3465)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3465">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3465">
+- [Live-Hack-CVE/CVE-2022-34654](https://github.com/Live-Hack-CVE/CVE-2022-34654)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34654">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34654">
 
 ---
 ## CVE-2022-3452 (2022-10-11T18:15:00)
@@ -7313,6 +7364,11 @@
 - [Live-Hack-CVE/CVE-2022-3313](https://github.com/Live-Hack-CVE/CVE-2022-3313)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3313">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3313">
 
 ---
+## CVE-2022-33106 (2022-10-12T14:15:00)
+> WiJungle NGFW Version U250 was discovered to be vulnerable to No Rate Limit attack, allowing the attacker to brute force the admin password leading to Account Take Over.
+- [Live-Hack-CVE/CVE-2022-33106](https://github.com/Live-Hack-CVE/CVE-2022-33106)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33106">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33106">
+
+---
 ## CVE-2022-33099 (2022-07-01T12:15:00)
 > An issue in the component luaG_runerror of Lua v5.4.4 and below leads to a heap-buffer overflow when a recursive error occurs.
 - [Live-Hack-CVE/CVE-2022-33099](https://github.com/Live-Hack-CVE/CVE-2022-33099)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33099">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33099">
@@ -7528,6 +7584,41 @@
 ## CVE-2022-32511 (2022-06-06T22:15:00)
 > jmespath.rb (aka JMESPath for Ruby) before 1.6.1 uses JSON.load in a situation where JSON.parse is preferable.
 - [Live-Hack-CVE/CVE-2022-32511](https://github.com/Live-Hack-CVE/CVE-2022-32511)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32511">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32511">
+
+---
+## CVE-2022-32491 (2022-10-12T20:15:00)
+> Dell Client BIOS contains a Buffer Overflow vulnerability. A local authenticated malicious user may potentially exploit this vulnerability by manipulating an SMI to cause an arbitrary write during SMM.
+- [Live-Hack-CVE/CVE-2022-32491](https://github.com/Live-Hack-CVE/CVE-2022-32491)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32491">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32491">
+
+---
+## CVE-2022-32489 (2022-10-12T20:15:00)
+> Dell BIOS contains an improper input validation vulnerability. A local authenticated malicious user may potentially exploit this vulnerability by using an SMI to gain arbitrary code execution in SMRAM.
+- [Live-Hack-CVE/CVE-2022-32489](https://github.com/Live-Hack-CVE/CVE-2022-32489)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32489">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32489">
+
+---
+## CVE-2022-32488 (2022-10-12T20:15:00)
+> Dell BIOS contains an improper input validation vulnerability. A local authenticated malicious user may potentially exploit this vulnerability by using an SMI to gain arbitrary code execution in SMRAM.
+- [Live-Hack-CVE/CVE-2022-32488](https://github.com/Live-Hack-CVE/CVE-2022-32488)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32488">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32488">
+
+---
+## CVE-2022-32487 (2022-10-12T20:15:00)
+> Dell BIOS contains an improper input validation vulnerability. A local authenticated malicious user may potentially exploit this vulnerability by using an SMI to gain arbitrary code execution in SMRAM.
+- [Live-Hack-CVE/CVE-2022-32487](https://github.com/Live-Hack-CVE/CVE-2022-32487)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32487">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32487">
+
+---
+## CVE-2022-32485 (2022-10-12T20:15:00)
+> Dell BIOS contains an improper input validation vulnerability. A local authenticated malicious user may potentially exploit this vulnerability by using an SMI to gain arbitrary code execution in SMRAM.
+- [Live-Hack-CVE/CVE-2022-32485](https://github.com/Live-Hack-CVE/CVE-2022-32485)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32485">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32485">
+
+---
+## CVE-2022-32484 (2022-10-12T20:15:00)
+> Dell BIOS contains an improper input validation vulnerability. A local authenticated malicious user with admin privileges may potentially exploit this vulnerability in order to modify a UEFI variable.
+- [Live-Hack-CVE/CVE-2022-32484](https://github.com/Live-Hack-CVE/CVE-2022-32484)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32484">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32484">
+
+---
+## CVE-2022-32483 (2022-10-12T20:15:00)
+> Dell BIOS contains an improper input validation vulnerability. A local authenticated malicious user with admin privileges may potentially exploit this vulnerability in order to modify a UEFI variable.
+- [Live-Hack-CVE/CVE-2022-32483](https://github.com/Live-Hack-CVE/CVE-2022-32483)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32483">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32483">
 
 ---
 ## CVE-2022-3236 (2022-09-23T13:15:00)
@@ -7958,6 +8049,11 @@
 ## CVE-2022-31239 (2022-10-21T18:15:00)
 > Dell PowerScale OneFS, versions 9.0.0 up to and including 9.1.0.19, 9.2.1.12, and 9.3.0.6, contain sensitive data in log files vulnerability. A privileged local user may potentially exploit this vulnerability, leading to disclosure of this sensitive data.
 - [Live-Hack-CVE/CVE-2022-31239](https://github.com/Live-Hack-CVE/CVE-2022-31239)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31239">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31239">
+
+---
+## CVE-2022-31228 (2022-10-12T20:15:00)
+> Dell EMC XtremIO versions prior to X2 6.4.0-22 contain a bruteforce vulnerability. A remote unauthenticated attacker can potentially exploit this vulnerability and gain access to an admin account.
+- [Live-Hack-CVE/CVE-2022-31228](https://github.com/Live-Hack-CVE/CVE-2022-31228)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31228">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31228">
 
 ---
 ## CVE-2022-3122 (2022-09-05T14:15:00)
@@ -8831,6 +8927,11 @@
 ## CVE-2022-28944 (2022-05-23T18:16:00)
 > Certain EMCO Software products are affected by: CWE-494: Download of Code Without Integrity Check. This affects MSI Package Builder for Windows 9.1.4 and Remote Installer for Windows 6.0.13 and Ping Monitor for Windows 8.0.18 and Remote Shutdown for Windows 7.2.2 and WakeOnLan 2.0.8 and Network Inventory for Windows 5.8.22 and Network Software Scanner for Windows 2.0.8 and UnLock IT for Windows 6.1.1. The impact is: execute arbitrary code (remote). The component is: Updater. The attack vector is: To exploit this vulnerability, a user must trigger an update of an affected installation of EMCO Software. ¶¶ Multiple products from EMCO Software are affected by a remote code execution vulnerability during the update process.
 - [gerr-re/cve-2022-28944](https://github.com/gerr-re/cve-2022-28944)	<img alt="forks" src="https://img.shields.io/github/forks/gerr-re/cve-2022-28944">	<img alt="stars" src="https://img.shields.io/github/stars/gerr-re/cve-2022-28944">
+
+---
+## CVE-2022-28887 (2022-10-12T18:15:00)
+> Multiple Denial-of-Service (DoS) vulnerability was discovered in F-Secure & WithSecure products whereby the aerdl.dll unpacker handler function crashes. This can lead to a possible scanning engine crash.
+- [Live-Hack-CVE/CVE-2022-28887](https://github.com/Live-Hack-CVE/CVE-2022-28887)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28887">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28887">
 
 ---
 ## CVE-2022-28805 (2022-04-08T06:15:00)
@@ -10411,6 +10512,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-22503 (2022-10-06T18:15:00)
 > IBM Robotic Process Automation 21.0.0 could allow a remote attacker to hijack the clicking action of the victim. By persuading a victim to visit a malicious Web site, a remote attacker could exploit this vulnerability to hijack the victim's click actions and possibly launch further attacks against the victim. IBM X-Force ID: 227125.
 - [Live-Hack-CVE/CVE-2022-22503](https://github.com/Live-Hack-CVE/CVE-2022-22503)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22503">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22503">
+
+---
+## CVE-2022-2249 (2022-10-12T19:15:00)
+> Privilege escalation related vulnerabilities were discovered in Avaya Aura Communication Manager that may allow local administrative users to escalate their privileges. This issue affects Communication Manager versions 8.0.0.0 through 8.1.3.3 and 10.1.0.0.
+- [Live-Hack-CVE/CVE-2022-2249](https://github.com/Live-Hack-CVE/CVE-2022-2249)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2249">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2249">
 
 ---
 ## CVE-2022-22293 (2022-01-02T00:15:00)
