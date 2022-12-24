@@ -2266,6 +2266,11 @@
 - [Live-Hack-CVE/CVE-2021-31162](https://github.com/Live-Hack-CVE/CVE-2021-31162)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31162">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31162">
 
 ---
+## CVE-2021-30972 (2021-08-24T19:15:00)
+> This issue was addressed with improved checks. This issue is fixed in Security Update 2022-001 Catalina, macOS Big Sur 11.6.3. A malicious application may be able to bypass certain Privacy preferences.
+- [Live-Hack-CVE/CVE-2021-30972](https://github.com/Live-Hack-CVE/CVE-2021-30972)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30972">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30972">
+
+---
 ## CVE-2021-30935 (2021-08-24T19:15:00)
 > A logic issue was addressed with improved validation. This issue is fixed in Security Update 2021-008 Catalina, macOS Big Sur 11.6.2. An application may be able to execute arbitrary code with kernel privileges.
 - [Live-Hack-CVE/CVE-2021-30935](https://github.com/Live-Hack-CVE/CVE-2021-30935)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30935">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30935">
@@ -2374,6 +2379,11 @@
 ## CVE-2021-29969 (2021-08-05T20:15:00)
 > If Thunderbird was configured to use STARTTLS for an IMAP connection, and an attacker injected IMAP server responses prior to the completion of the STARTTLS handshake, then Thunderbird didn't ignore the injected data. This could have resulted in Thunderbird showing incorrect information, for example the attacker could have tricked Thunderbird to show folders that didn't exist on the IMAP server. This vulnerability affects Thunderbird < 78.12.
 - [Live-Hack-CVE/CVE-2021-29969](https://github.com/Live-Hack-CVE/CVE-2021-29969)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29969">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29969">
+
+---
+## CVE-2021-29752 (2021-09-16T16:15:00)
+> IBM Db2 11.2 and 11.5 contains an information disclosure vulnerability, exposing remote storage credentials to privileged users under specific conditions. IBM X-Fporce ID: 201780.
+- [Live-Hack-CVE/CVE-2021-29752](https://github.com/Live-Hack-CVE/CVE-2021-29752)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29752">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29752">
 
 ---
 ## CVE-2021-29509 (2021-05-11T17:15:00)

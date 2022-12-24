@@ -4281,6 +4281,56 @@
 - [Live-Hack-CVE/CVE-2022-40841](https://github.com/Live-Hack-CVE/CVE-2022-40841)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40841">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40841">
 
 ---
+## CVE-2022-40833 (2022-10-07T11:15:00)
+> B.C. Institute of Technology CodeIgniter <=3.1.13 is vulnerable to SQL Injection via system\database\DB_query_builder.php or_where_in() function.
+- [Live-Hack-CVE/CVE-2022-40833](https://github.com/Live-Hack-CVE/CVE-2022-40833)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40833">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40833">
+
+---
+## CVE-2022-40832 (2022-10-07T11:15:00)
+> B.C. Institute of Technology CodeIgniter <=3.1.13 is vulnerable to SQL Injection via system\database\DB_query_builder.php having() function.
+- [Live-Hack-CVE/CVE-2022-40832](https://github.com/Live-Hack-CVE/CVE-2022-40832)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40832">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40832">
+
+---
+## CVE-2022-40831 (2022-10-07T11:15:00)
+> B.C. Institute of Technology CodeIgniter <=3.1.13 is vulnerable to SQL Injection via system\database\DB_query_builder.php like() function.
+- [Live-Hack-CVE/CVE-2022-40831](https://github.com/Live-Hack-CVE/CVE-2022-40831)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40831">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40831">
+
+---
+## CVE-2022-40830 (2022-10-07T11:15:00)
+> B.C. Institute of Technology CodeIgniter <=3.1.13 is vulnerable to SQL Injection via system\database\DB_query_builder.php where_not_in() function.
+- [Live-Hack-CVE/CVE-2022-40830](https://github.com/Live-Hack-CVE/CVE-2022-40830)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40830">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40830">
+
+---
+## CVE-2022-40829 (2022-10-07T11:15:00)
+> B.C. Institute of Technology CodeIgniter <=3.1.13 is vulnerable to SQL Injection via system\database\DB_query_builder.php or_like() function.
+- [Live-Hack-CVE/CVE-2022-40829](https://github.com/Live-Hack-CVE/CVE-2022-40829)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40829">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40829">
+
+---
+## CVE-2022-40828 (2022-10-07T11:15:00)
+> B.C. Institute of Technology CodeIgniter <=3.1.13 is vulnerable to SQL Injection via system\database\DB_query_builder.php or_where_not_in() function.
+- [Live-Hack-CVE/CVE-2022-40828](https://github.com/Live-Hack-CVE/CVE-2022-40828)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40828">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40828">
+
+---
+## CVE-2022-40827 (2022-10-07T11:15:00)
+> B.C. Institute of Technology CodeIgniter <=3.1.13 is vulnerable to SQL Injection via system\database\DB_query_builder.php where() function.
+- [Live-Hack-CVE/CVE-2022-40827](https://github.com/Live-Hack-CVE/CVE-2022-40827)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40827">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40827">
+
+---
+## CVE-2022-40826 (2022-10-07T11:15:00)
+> B.C. Institute of Technology CodeIgniter <=3.1.13 is vulnerable to SQL Injection via system\database\DB_query_builder.php or_having() function.
+- [Live-Hack-CVE/CVE-2022-40826](https://github.com/Live-Hack-CVE/CVE-2022-40826)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40826">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40826">
+
+---
+## CVE-2022-40825 (2022-10-07T11:15:00)
+> B.C. Institute of Technology CodeIgniter <=3.1.13 is vulnerable to SQL Injection via system\database\DB_query_builder.php where_in() function.
+- [Live-Hack-CVE/CVE-2022-40825](https://github.com/Live-Hack-CVE/CVE-2022-40825)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40825">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40825">
+
+---
+## CVE-2022-40824 (2022-10-07T11:15:00)
+> B.C. Institute of Technology CodeIgniter <=3.1.13 is vulnerable to SQL Injection via system\database\DB_query_builder.php or_where() function.
+- [Live-Hack-CVE/CVE-2022-40824](https://github.com/Live-Hack-CVE/CVE-2022-40824)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40824">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40824">
+
+---
 ## CVE-2022-40799 (2022-11-29T05:15:00)
 > Data Integrity Failure in 'Backup Config' in D-Link DNR-322L <= 2.60B15 allows an authenticated attacker to execute OS level commands on the device.
 - [Live-Hack-CVE/CVE-2022-40799](https://github.com/Live-Hack-CVE/CVE-2022-40799)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40799">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40799">
@@ -4813,6 +4863,16 @@
 ## CVE-2022-39865 (2022-10-07T15:15:00)
 > Improper access control vulnerability in ContentsSharingActivity.java SmartThings prior to version 1.7.89.0 allows attackers to access sensitive information via implicit broadcast.
 - [Live-Hack-CVE/CVE-2022-39865](https://github.com/Live-Hack-CVE/CVE-2022-39865)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39865">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39865">
+
+---
+## CVE-2022-39856 (2022-10-07T15:15:00)
+> Improper access control vulnerability in imsservice application prior to SMR Oct-2022 Release 1 allows local attackers to access call information.
+- [Live-Hack-CVE/CVE-2022-39856](https://github.com/Live-Hack-CVE/CVE-2022-39856)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39856">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39856">
+
+---
+## CVE-2022-39854 (2022-10-07T15:15:00)
+> Improper protection in IOMMU prior to SMR Oct-2022 Release 1 allows unauthorized access to secure memory.
+- [Live-Hack-CVE/CVE-2022-39854](https://github.com/Live-Hack-CVE/CVE-2022-39854)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39854">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39854">
 
 ---
 ## CVE-2022-39847 (2022-10-07T15:15:00)
@@ -9439,6 +9499,11 @@
 - [gerr-re/cve-2022-28944](https://github.com/gerr-re/cve-2022-28944)	<img alt="forks" src="https://img.shields.io/github/forks/gerr-re/cve-2022-28944">	<img alt="stars" src="https://img.shields.io/github/stars/gerr-re/cve-2022-28944">
 
 ---
+## CVE-2022-28893 (2022-04-11T05:15:00)
+> The SUNRPC subsystem in the Linux kernel through 5.17.2 can call xs_xprt_free before ensuring that sockets are in the intended state.
+- [Live-Hack-CVE/CVE-2022-28893](https://github.com/Live-Hack-CVE/CVE-2022-28893)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28893">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28893">
+
+---
 ## CVE-2022-28887 (2022-10-12T18:15:00)
 > Multiple Denial-of-Service (DoS) vulnerability was discovered in F-Secure & WithSecure products whereby the aerdl.dll unpacker handler function crashes. This can lead to a possible scanning engine crash.
 - [Live-Hack-CVE/CVE-2022-28887](https://github.com/Live-Hack-CVE/CVE-2022-28887)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28887">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28887">
@@ -9765,6 +9830,26 @@
 - [F1uk368/CVE-2022-27492](https://github.com/F1uk368/CVE-2022-27492)	<img alt="forks" src="https://img.shields.io/github/forks/F1uk368/CVE-2022-27492">	<img alt="stars" src="https://img.shields.io/github/stars/F1uk368/CVE-2022-27492">
 
 ---
+## CVE-2022-27458 (2022-04-14T13:15:00)
+> MariaDB Server v10.6.3 and below was discovered to contain an use-after-free in the component Binary_string::free_buffer() at /sql/sql_string.h.
+- [Live-Hack-CVE/CVE-2022-27458](https://github.com/Live-Hack-CVE/CVE-2022-27458)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27458">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27458">
+
+---
+## CVE-2022-27456 (2022-04-14T13:15:00)
+> MariaDB Server v10.6.3 and below was discovered to contain an use-after-free in the component VDec::VDec at /sql/sql_type.cc.
+- [Live-Hack-CVE/CVE-2022-27456](https://github.com/Live-Hack-CVE/CVE-2022-27456)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27456">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27456">
+
+---
+## CVE-2022-27448 (2022-04-14T13:15:00)
+> There is an Assertion failure in MariaDB Server v10.9 and below via 'node->pcur->rel_pos == BTR_PCUR_ON' at /row/row0mysql.cc.
+- [Live-Hack-CVE/CVE-2022-27448](https://github.com/Live-Hack-CVE/CVE-2022-27448)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27448">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27448">
+
+---
+## CVE-2022-27447 (2022-04-14T13:15:00)
+> MariaDB Server v10.9 and below was discovered to contain a use-after-free via the component Binary_string::free_buffer() at /sql/sql_string.h.
+- [Live-Hack-CVE/CVE-2022-27447](https://github.com/Live-Hack-CVE/CVE-2022-27447)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27447">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27447">
+
+---
 ## CVE-2022-27438 (2022-06-06T23:15:00)
 > Caphyon Ltd Advanced Installer 19.3 and earlier and many products that use the updater from Advanced Installer (Advanced Updater) are affected by a remote code execution vulnerability via the CustomDetection parameter in the update check function. To exploit this vulnerability, a user must start an affected installation to trigger the update check.
 - [gerr-re/cve-2022-27438](https://github.com/gerr-re/cve-2022-27438)	<img alt="forks" src="https://img.shields.io/github/forks/gerr-re/cve-2022-27438">	<img alt="stars" src="https://img.shields.io/github/stars/gerr-re/cve-2022-27438">
@@ -9796,6 +9881,21 @@
 ## CVE-2022-27380 (2022-04-12T20:15:00)
 > An issue in the component my_decimal::operator= of MariaDB Server v10.6.3 and below was discovered to allow attackers to cause a Denial of Service (DoS) via specially crafted SQL statements.
 - [Live-Hack-CVE/CVE-2022-27380](https://github.com/Live-Hack-CVE/CVE-2022-27380)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27380">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27380">
+
+---
+## CVE-2022-27379 (2022-04-12T20:15:00)
+> An issue in the component Arg_comparator::compare_real_fixed of MariaDB Server v10.6.2 and below was discovered to allow attackers to cause a Denial of Service (DoS) via specially crafted SQL statements.
+- [Live-Hack-CVE/CVE-2022-27379](https://github.com/Live-Hack-CVE/CVE-2022-27379)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27379">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27379">
+
+---
+## CVE-2022-27378 (2022-04-12T20:15:00)
+> An issue in the component Create_tmp_table::finalize of MariaDB Server v10.7 and below was discovered to allow attackers to cause a Denial of Service (DoS) via specially crafted SQL statements.
+- [Live-Hack-CVE/CVE-2022-27378](https://github.com/Live-Hack-CVE/CVE-2022-27378)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27378">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27378">
+
+---
+## CVE-2022-27377 (2022-04-12T20:15:00)
+> MariaDB Server v10.6.3 and below was discovered to contain an use-after-free in the component Item_func_in::cleanup(), which is exploited via specially crafted SQL statements.
+- [Live-Hack-CVE/CVE-2022-27377](https://github.com/Live-Hack-CVE/CVE-2022-27377)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27377">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27377">
 
 ---
 ## CVE-2022-27359 (2022-05-05T19:15:00)
@@ -11042,6 +11142,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-2268 (2022-07-04T13:15:00)
 > The Import any XML or CSV File to WordPress plugin before 3.6.8 accepts all zip files and automatically extracts the zip file without validating the extracted file type. Allowing high privilege users such as admin to upload an arbitrary file like PHP, leading to RCE
 - [Live-Hack-CVE/CVE-2022-2268](https://github.com/Live-Hack-CVE/CVE-2022-2268)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2268">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2268">
+
+---
+## CVE-2022-22651 (2022-03-18T18:15:00)
+> An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in macOS Monterey 12.3. A remote attacker may be able to cause unexpected system termination or corrupt kernel memory.
+- [Live-Hack-CVE/CVE-2022-22651](https://github.com/Live-Hack-CVE/CVE-2022-22651)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22651">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22651">
 
 ---
 ## CVE-2022-22629 (2022-09-23T20:15:00)

@@ -38,6 +38,11 @@
 - [wkjung0624/cve-2019-9193](https://github.com/wkjung0624/cve-2019-9193)	<img alt="forks" src="https://img.shields.io/github/forks/wkjung0624/cve-2019-9193">	<img alt="stars" src="https://img.shields.io/github/stars/wkjung0624/cve-2019-9193">
 
 ---
+## CVE-2019-9139 (2019-04-25T18:29:00)
+> DaviewIndy 8.98.7 and earlier versions have a Integer overflow vulnerability, triggered when the user opens a malformed PDF file that is mishandled by Daview.exe. Attackers could exploit this and arbitrary code execution.
+- [Live-Hack-CVE/CVE-2019-9139](https://github.com/Live-Hack-CVE/CVE-2019-9139)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9139">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9139">
+
+---
 ## CVE-2019-9053 (2019-03-26T17:29:00)
 > An issue was discovered in CMS Made Simple 2.2.8. It is possible with the News module, through a crafted URL, to achieve unauthenticated blind time-based SQL injection via the m1_idlist parameter.
 - [ELIZEUOPAIN/CVE-2019-9053-CMS-Made-Simple-2.2.10---SQL-Injection-Exploit](https://github.com/ELIZEUOPAIN/CVE-2019-9053-CMS-Made-Simple-2.2.10---SQL-Injection-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ELIZEUOPAIN/CVE-2019-9053-CMS-Made-Simple-2.2.10---SQL-Injection-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ELIZEUOPAIN/CVE-2019-9053-CMS-Made-Simple-2.2.10---SQL-Injection-Exploit">
@@ -640,6 +645,11 @@
 - [ahaShiyu/CVE-2019-3560](https://github.com/ahaShiyu/CVE-2019-3560)	<img alt="forks" src="https://img.shields.io/github/forks/ahaShiyu/CVE-2019-3560">	<img alt="stars" src="https://img.shields.io/github/stars/ahaShiyu/CVE-2019-3560">
 
 ---
+## CVE-2019-2964 (2019-10-16T18:15:00)
+> Vulnerability in the Java SE, Java SE Embedded product of Oracle Java SE (component: Concurrency). Supported versions that are affected are Java SE: 7u231, 8u221, 11.0.4 and 13; Java SE Embedded: 8u221. Difficult to exploit vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise Java SE, Java SE Embedded. Successful attacks of this vulnerability can result in unauthorized ability to cause a partial denial of service (partial DOS) of Java SE, Java SE Embedded. Note: This vulnerability can only be exploited by supplying data to APIs in the specified Component without using Untrusted Java Web Start applications or Untrusted Java applets, such as through a web service. CVSS 3.0 Base Score 3.7 (Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:L).
+- [Live-Hack-CVE/CVE-2019-2964](https://github.com/Live-Hack-CVE/CVE-2019-2964)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-2964">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-2964">
+
+---
 ## CVE-2019-2729 (2019-06-19T23:15:00)
 > Vulnerability in the Oracle WebLogic Server component of Oracle Fusion Middleware (subcomponent: Web Services). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0 and 12.2.1.3.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.0 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).
 - [Luchoane/CVE-2019-2729_creal](https://github.com/Luchoane/CVE-2019-2729_creal)	<img alt="forks" src="https://img.shields.io/github/forks/Luchoane/CVE-2019-2729_creal">	<img alt="stars" src="https://img.shields.io/github/stars/Luchoane/CVE-2019-2729_creal">
@@ -905,6 +915,11 @@
 ## CVE-2019-16891 (2019-10-04T14:15:00)
 > Liferay Portal CE 6.2.5 allows remote command execution because of deserialization of a JSON payload.
 - [Live-Hack-CVE/CVE-2019-16891](https://github.com/Live-Hack-CVE/CVE-2019-16891)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16891">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16891">
+
+---
+## CVE-2019-16770 (2019-12-05T20:15:00)
+> In Puma before versions 3.12.2 and 4.3.1, a poorly-behaved client could use keepalive requests to monopolize Puma's reactor and create a denial of service attack. If more keepalive connections to Puma are opened than there are threads available, additional connections will wait permanently if the attacker sends requests frequently enough. This vulnerability is patched in Puma 4.3.1 and 3.12.2.
+- [Live-Hack-CVE/CVE-2019-16770](https://github.com/Live-Hack-CVE/CVE-2019-16770)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16770">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16770">
 
 ---
 ## CVE-2019-16278 (2019-10-14T17:15:00)

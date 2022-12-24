@@ -60,6 +60,11 @@
 - [Live-Hack-CVE/CVE-2020-9419](https://github.com/Live-Hack-CVE/CVE-2020-9419)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9419">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9419">
 
 ---
+## CVE-2020-9402 (2020-03-05T15:15:00)
+> Django 1.11 before 1.11.29, 2.2 before 2.2.11, and 3.0 before 3.0.4 allows SQL Injection if untrusted data is used as a tolerance parameter in GIS functions and aggregates on Oracle. By passing a suitably crafted tolerance to GIS functions and aggregates on Oracle, it was possible to break escaping and inject malicious SQL.
+- [Live-Hack-CVE/CVE-2020-9402](https://github.com/Live-Hack-CVE/CVE-2020-9402)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9402">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9402">
+
+---
 ## CVE-2020-9006 (2020-02-17T15:15:00)
 > The Popup Builder plugin 2.2.8 through 2.6.7.6 for WordPress is vulnerable to SQL injection (in the sgImportPopups function in sg_popup_ajax.php) via PHP Deserialization on attacker-controlled data with the attachmentUrl POST variable. This allows creation of an arbitrary WordPress Administrator account, leading to possible Remote Code Execution because Administrators can run PHP code on Wordpress instances. (This issue has been fixed in the 3.x branch of popup-builder.)
 - [s3rgeym/cve-2020-9006](https://github.com/s3rgeym/cve-2020-9006)	<img alt="forks" src="https://img.shields.io/github/forks/s3rgeym/cve-2020-9006">	<img alt="stars" src="https://img.shields.io/github/stars/s3rgeym/cve-2020-9006">
@@ -83,6 +88,11 @@
 ## CVE-2020-8825 (2020-02-10T12:15:00)
 > index.php?p=/dashboard/settings/branding in Vanilla 2.6.3 allows stored XSS.
 - [hacky1997/CVE-2020-8825](https://github.com/hacky1997/CVE-2020-8825)	<img alt="forks" src="https://img.shields.io/github/forks/hacky1997/CVE-2020-8825">	<img alt="stars" src="https://img.shields.io/github/stars/hacky1997/CVE-2020-8825">
+
+---
+## CVE-2020-8794 (2020-02-25T17:15:00)
+> OpenSMTPD before 6.6.4 allows remote code execution because of an out-of-bounds read in mta_io in mta_session.c for multi-line replies. Although this vulnerability affects the client side of OpenSMTPD, it is possible to attack a server because the server code launches the client code during bounce handling.
+- [Live-Hack-CVE/CVE-2020-8794](https://github.com/Live-Hack-CVE/CVE-2020-8794)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8794">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8794">
 
 ---
 ## CVE-2020-8745 (2020-11-12T18:15:00)
@@ -1041,6 +1051,11 @@
 - [Live-Hack-CVE/CVE-2020-24609](https://github.com/Live-Hack-CVE/CVE-2020-24609)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24609">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24609">
 
 ---
+## CVE-2020-24445 (2020-12-10T06:15:00)
+> AEM's Cloud Service offering, as well as version 6.5.6.0 (and below), are affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by an attacker to inject malicious scripts into vulnerable form fields. Malicious JavaScript may be executed in a victim’s browser when they browse to the page containing the vulnerable field.
+- [Live-Hack-CVE/CVE-2020-24445](https://github.com/Live-Hack-CVE/CVE-2020-24445)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24445">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24445">
+
+---
 ## CVE-2020-24223 (2020-08-30T18:15:00)
 > Mara CMS 7.5 allows cross-site scripting (XSS) in contact.php via the theme or pagetheme parameters.
 - [Live-Hack-CVE/CVE-2020-24223](https://github.com/Live-Hack-CVE/CVE-2020-24223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24223">
@@ -1515,6 +1530,11 @@
 ## CVE-2020-12783 (2020-05-11T14:15:00)
 > Exim through 4.93 has an out-of-bounds read in the SPA authenticator that could result in SPA/NTLM authentication bypass in auths/spa.c and auths/auth-spa.c.
 - [Live-Hack-CVE/CVE-2020-12783](https://github.com/Live-Hack-CVE/CVE-2020-12783)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12783">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12783">
+
+---
+## CVE-2020-12516 (2020-12-10T03:15:00)
+> Older firmware versions (FW1 up to FW10) of the WAGO PLC family 750-88x and 750-352 are vulnerable for a special denial of service attack.
+- [Live-Hack-CVE/CVE-2020-12516](https://github.com/Live-Hack-CVE/CVE-2020-12516)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12516">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12516">
 
 ---
 ## CVE-2020-12509 (2022-11-07T10:15:00)
