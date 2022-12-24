@@ -6762,6 +6762,11 @@
 - [subvers1on/CVE-2022-3236-RCE-PoC](https://github.com/subvers1on/CVE-2022-3236-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/subvers1on/CVE-2022-3236-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/subvers1on/CVE-2022-3236-RCE-PoC">
 
 ---
+## CVE-2022-32317 (2022-07-14T20:15:00)
+> The MPlayer Project v1.5 was discovered to contain a heap use-after-free resulting in a double free in the preinit function at libvo/vo_v4l2.c. This vulnerability can lead to a Denial of Service (DoS) via a crafted file. The device=strdup statement is not executed on every call.
+- [Live-Hack-CVE/CVE-2022-32317](https://github.com/Live-Hack-CVE/CVE-2022-32317)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32317">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32317">
+
+---
 ## CVE-2022-32268 (2022-06-03T06:15:00)
 > StarWind SAN and NAS v0.2 build 1914 allow remote code execution. A flaw was found in REST API in StarWind Stack. REST command, which allows changing the hostname, doesn’t check a new hostname parameter. It goes directly to bash as part of a script. An attacker with non-root user access can inject arbitrary data into the command that will be executed with root privileges.
 - [Live-Hack-CVE/CVE-2022-32268](https://github.com/Live-Hack-CVE/CVE-2022-32268)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32268">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32268">
@@ -7334,6 +7339,11 @@
 - [Live-Hack-CVE/CVE-2022-30767](https://github.com/Live-Hack-CVE/CVE-2022-30767)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30767">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30767">
 
 ---
+## CVE-2022-3075 (2022-09-26T16:15:00)
+> Insufficient data validation in Mojo in Google Chrome prior to 105.0.5195.102 allowed a remote attacker who had compromised the renderer process to potentially perform a sandbox escape via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-3075](https://github.com/Live-Hack-CVE/CVE-2022-3075)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3075">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3075">
+
+---
 ## CVE-2022-3073 (2022-12-14T09:15:00)
 > Quanos "SCHEMA ST4" example web templates in version Bootstrap 2019 v2/2021 v1/2022 v1/2022 SP1 v1 or below are prone to JavaScript injection allowing a remote attacker to hijack existing sessions to e.g. other web services in the same environment or execute scripts in the users browser environment. The affected script is '*-schema.js'.
 - [Live-Hack-CVE/CVE-2022-3073](https://github.com/Live-Hack-CVE/CVE-2022-3073)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3073">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3073">
@@ -7400,9 +7410,19 @@
 - [Live-Hack-CVE/CVE-2022-30550](https://github.com/Live-Hack-CVE/CVE-2022-30550)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30550">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30550">
 
 ---
+## CVE-2022-3055 (2022-09-26T16:15:00)
+> Use after free in Passwords in Google Chrome prior to 105.0.5195.52 allowed a remote attacker who convinced a user to engage in specific UI interactions to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-3055](https://github.com/Live-Hack-CVE/CVE-2022-3055)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3055">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3055">
+
+---
 ## CVE-2022-30545 (2022-11-08T19:15:00)
 > Auth. Reflected Cross-Site Scripting (XSS) vulnerability in 5 Anker Connect plugin <= 1.2.6 on WordPress.
 - [Live-Hack-CVE/CVE-2022-30545](https://github.com/Live-Hack-CVE/CVE-2022-30545)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30545">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30545">
+
+---
+## CVE-2022-3054 (2022-09-26T16:15:00)
+> Insufficient policy enforcement in DevTools in Google Chrome prior to 105.0.5195.52 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-3054](https://github.com/Live-Hack-CVE/CVE-2022-3054)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3054">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3054">
 
 ---
 ## CVE-2022-30529 (2022-11-22T01:15:00)
@@ -7437,6 +7457,72 @@
 ## CVE-2022-30507 ()
 > 
 - [yosef0x01/CVE-2022-30507](https://github.com/yosef0x01/CVE-2022-30507)	<img alt="forks" src="https://img.shields.io/github/forks/yosef0x01/CVE-2022-30507">	<img alt="stars" src="https://img.shields.io/github/stars/yosef0x01/CVE-2022-30507">
+
+---
+## CVE-2022-3050 (2022-09-26T16:15:00)
+> Heap buffer overflow in WebUI in Google Chrome on Chrome OS prior to 105.0.5195.52 allowed a remote attacker who convinced a user to engage in specific UI interactions to potentially exploit heap corruption via crafted UI interactions.
+- [Live-Hack-CVE/CVE-2022-3050](https://github.com/Live-Hack-CVE/CVE-2022-3050)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3050">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3050">
+
+---
+## CVE-2022-3049 (2022-09-26T16:15:00)
+> Use after free in SplitScreen in Google Chrome on Chrome OS, Lacros prior to 105.0.5195.52 allowed a remote attacker who convinced a user to engage in specific UI interactions to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-3049](https://github.com/Live-Hack-CVE/CVE-2022-3049)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3049">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3049">
+
+---
+## CVE-2022-3048 (2022-09-26T16:15:00)
+> Inappropriate implementation in Chrome OS lockscreen in Google Chrome on Chrome OS prior to 105.0.5195.52 allowed a local attacker to bypass lockscreen navigation restrictions via physical access to the device.
+- [Live-Hack-CVE/CVE-2022-3048](https://github.com/Live-Hack-CVE/CVE-2022-3048)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3048">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3048">
+
+---
+## CVE-2022-3047 (2022-09-26T16:15:00)
+> Insufficient policy enforcement in Extensions API in Google Chrome prior to 105.0.5195.52 allowed an attacker who convinced a user to install a malicious extension to bypass downloads policy via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-3047](https://github.com/Live-Hack-CVE/CVE-2022-3047)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3047">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3047">
+
+---
+## CVE-2022-3046 (2022-09-26T16:15:00)
+> Use after free in Browser Tag in Google Chrome prior to 105.0.5195.52 allowed an attacker who convinced a user to install a malicious extension to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-3046](https://github.com/Live-Hack-CVE/CVE-2022-3046)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3046">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3046">
+
+---
+## CVE-2022-3045 (2022-09-26T16:15:00)
+> Insufficient validation of untrusted input in V8 in Google Chrome prior to 105.0.5195.52 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-3045](https://github.com/Live-Hack-CVE/CVE-2022-3045)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3045">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3045">
+- [Live-Hack-CVE/CVE-2022-30459](https://github.com/Live-Hack-CVE/CVE-2022-30459)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30459">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30459">
+
+---
+## CVE-2022-3044 (2022-09-26T16:15:00)
+> Inappropriate implementation in Site Isolation in Google Chrome prior to 105.0.5195.52 allowed a remote attacker who had compromised the renderer process to bypass site isolation via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-3044](https://github.com/Live-Hack-CVE/CVE-2022-3044)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3044">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3044">
+
+---
+## CVE-2022-3043 (2022-09-26T16:15:00)
+> Heap buffer overflow in Screen Capture in Google Chrome on Chrome OS prior to 105.0.5195.52 allowed a remote attacker who convinced a user to engage in specific UI interactions to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-3043](https://github.com/Live-Hack-CVE/CVE-2022-3043)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3043">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3043">
+
+---
+## CVE-2022-3042 (2022-09-26T16:15:00)
+> Use after free in PhoneHub in Google Chrome on Chrome OS prior to 105.0.5195.52 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-3042](https://github.com/Live-Hack-CVE/CVE-2022-3042)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3042">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3042">
+
+---
+## CVE-2022-3041 (2022-09-26T16:15:00)
+> Use after free in WebSQL in Google Chrome prior to 105.0.5195.52 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-3041](https://github.com/Live-Hack-CVE/CVE-2022-3041)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3041">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3041">
+
+---
+## CVE-2022-3040 (2022-09-26T16:15:00)
+> Use after free in Layout in Google Chrome prior to 105.0.5195.52 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-3040](https://github.com/Live-Hack-CVE/CVE-2022-3040)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3040">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3040">
+
+---
+## CVE-2022-3039 (2022-09-26T16:15:00)
+> Use after free in WebSQL in Google Chrome prior to 105.0.5195.52 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-3039](https://github.com/Live-Hack-CVE/CVE-2022-3039)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3039">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3039">
+
+---
+## CVE-2022-3038 (2022-09-26T16:15:00)
+> Use after free in Network Service in Google Chrome prior to 105.0.5195.52 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-3038](https://github.com/Live-Hack-CVE/CVE-2022-3038)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3038">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3038">
 
 ---
 ## CVE-2022-30333 (2022-05-09T08:15:00)
@@ -7870,6 +7956,20 @@
 - [Live-Hack-CVE/CVE-2022-2863](https://github.com/Live-Hack-CVE/CVE-2022-2863)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2863">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2863">
 
 ---
+## CVE-2022-2861 (2022-09-26T16:15:00)
+> Inappropriate implementation in Extensions API in Google Chrome prior to 104.0.5112.101 allowed an attacker who convinced a user to install a malicious extension to inject arbitrary scripts into WebUI via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-2861](https://github.com/Live-Hack-CVE/CVE-2022-2861)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2861">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2861">
+- [Live-Hack-CVE/CVE-2022-28611](https://github.com/Live-Hack-CVE/CVE-2022-28611)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28611">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28611">
+
+---
+## CVE-2022-2860 (2022-09-26T16:15:00)
+> Insufficient policy enforcement in Cookies in Google Chrome prior to 104.0.5112.101 allowed a remote attacker to bypass cookie prefix restrictions via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-2860](https://github.com/Live-Hack-CVE/CVE-2022-2860)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2860">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2860">
+- [Live-Hack-CVE/CVE-2022-28607](https://github.com/Live-Hack-CVE/CVE-2022-28607)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28607">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28607">
+- [Live-Hack-CVE/CVE-2022-28605](https://github.com/Live-Hack-CVE/CVE-2022-28605)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28605">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28605">
+- [FlaviuPopescu/CVE-2022-28601](https://github.com/FlaviuPopescu/CVE-2022-28601)	<img alt="forks" src="https://img.shields.io/github/forks/FlaviuPopescu/CVE-2022-28601">	<img alt="stars" src="https://img.shields.io/github/stars/FlaviuPopescu/CVE-2022-28601">
+
+---
 ## CVE-2022-28487 (2022-05-04T15:15:00)
 > Tcpreplay version 4.4.1 contains a memory leakage flaw in fix_ipv6_checksums() function. The highest threat from this vulnerability is to data confidentiality.
 - [Live-Hack-CVE/CVE-2022-28487](https://github.com/Live-Hack-CVE/CVE-2022-28487)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28487">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28487">
@@ -8273,6 +8373,11 @@
 - [Inplex-sys/CVE-2022-26265](https://github.com/Inplex-sys/CVE-2022-26265)	<img alt="forks" src="https://img.shields.io/github/forks/Inplex-sys/CVE-2022-26265">	<img alt="stars" src="https://img.shields.io/github/stars/Inplex-sys/CVE-2022-26265">
 
 ---
+## CVE-2022-2618 (2022-08-12T20:15:00)
+> Insufficient validation of untrusted input in Internals in Google Chrome prior to 104.0.5112.79 allowed a remote attacker to bypass download restrictions via a malicious file .
+- [Live-Hack-CVE/CVE-2022-2618](https://github.com/Live-Hack-CVE/CVE-2022-2618)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2618">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2618">
+
+---
 ## CVE-2022-26138 (2022-07-20T18:15:00)
 > The Atlassian Questions For Confluence app for Confluence Server and Data Center creates a Confluence user account in the confluence-users group with the username disabledsystemuser and a hardcoded password. A remote, unauthenticated attacker with knowledge of the hardcoded password could exploit this to log into Confluence and access all content accessible to users in the confluence-users group. This user account is created when installing versions 2.7.34, 2.7.35, and 3.0.2 of the app.
 - [alcaparra/CVE-2022-26138](https://github.com/alcaparra/CVE-2022-26138)	<img alt="forks" src="https://img.shields.io/github/forks/alcaparra/CVE-2022-26138">	<img alt="stars" src="https://img.shields.io/github/stars/alcaparra/CVE-2022-26138">
@@ -8461,6 +8566,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-25521 (2022-03-29T01:15:00)
 > NUUO v03.11.00 was discovered to contain access control issue.
 - [Live-Hack-CVE/CVE-2022-25521](https://github.com/Live-Hack-CVE/CVE-2022-25521)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25521">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25521">
+
+---
+## CVE-2022-25486 (2022-03-15T18:15:00)
+> CuppaCMS v1.0 was discovered to contain a local file inclusion via the url parameter in /alerts/alertConfigField.php.
+- [Live-Hack-CVE/CVE-2022-25486](https://github.com/Live-Hack-CVE/CVE-2022-25486)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25486">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25486">
 
 ---
 ## CVE-2022-2546 ()

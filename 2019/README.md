@@ -74,6 +74,11 @@
 - [Live-Hack-CVE/CVE-2019-6142](https://github.com/Live-Hack-CVE/CVE-2019-6142)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6142">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6142">
 
 ---
+## CVE-2019-5815 (2019-12-11T01:15:00)
+> Type confusion in xsltNumberFormatGetMultipleLevel prior to libxslt 1.1.33 could allow attackers to potentially exploit heap corruption via crafted XML data.
+- [Live-Hack-CVE/CVE-2019-5815](https://github.com/Live-Hack-CVE/CVE-2019-5815)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5815">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5815">
+
+---
 ## CVE-2019-5456 (2019-07-30T21:15:00)
 > SMTP MITM refers to a malicious actor setting up an SMTP proxy server between the UniFi Controller version <= 5.10.21 and their actual SMTP server to record their SMTP credentials for malicious use later.
 - [Live-Hack-CVE/CVE-2019-5456](https://github.com/Live-Hack-CVE/CVE-2019-5456)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5456">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5456">

@@ -56,6 +56,16 @@
 - [9lyph/CVE-2021-45901](https://github.com/9lyph/CVE-2021-45901)	<img alt="forks" src="https://img.shields.io/github/forks/9lyph/CVE-2021-45901">	<img alt="stars" src="https://img.shields.io/github/stars/9lyph/CVE-2021-45901">
 
 ---
+## CVE-2021-45845 (2022-01-25T13:15:00)
+> The Path Sanity Check script of FreeCAD 0.19 is vulnerable to OS command injection, allowing an attacker to execute arbitrary commands via a crafted FCStd document.
+- [Live-Hack-CVE/CVE-2021-45845](https://github.com/Live-Hack-CVE/CVE-2021-45845)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45845">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45845">
+
+---
+## CVE-2021-45844 (2022-01-25T13:15:00)
+> Improper sanitization in the invocation of ODA File Converter from FreeCAD 0.19 allows an attacker to inject OS commands via a crafted filename.
+- [Live-Hack-CVE/CVE-2021-45844](https://github.com/Live-Hack-CVE/CVE-2021-45844)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45844">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45844">
+
+---
 ## CVE-2021-45710 (2021-12-27T00:15:00)
 > An issue was discovered in the tokio crate before 1.8.4, and 1.9.x through 1.13.x before 1.13.1, for Rust. In certain circumstances involving a closed oneshot channel, there is a data race and memory corruption.
 - [Live-Hack-CVE/CVE-2021-45710](https://github.com/Live-Hack-CVE/CVE-2021-45710)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45710">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45710">
@@ -293,6 +303,16 @@
 - [0bfxgh0st/cve-2021-43798](https://github.com/0bfxgh0st/cve-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/0bfxgh0st/cve-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/0bfxgh0st/cve-2021-43798">
 - [CLincat/vulcat](https://github.com/CLincat/vulcat)	<img alt="forks" src="https://img.shields.io/github/forks/CLincat/vulcat">	<img alt="stars" src="https://img.shields.io/github/stars/CLincat/vulcat">
 - [trhacknon/exploit-grafana-CVE-2021-43798](https://github.com/trhacknon/exploit-grafana-CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/exploit-grafana-CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/exploit-grafana-CVE-2021-43798">
+
+---
+## CVE-2021-43788 (2021-11-29T20:15:00)
+> Nodebb is an open source Node.js based forum software. Prior to v1.18.5, a path traversal vulnerability was present that allowed users to access JSON files outside of the expected `languages/` directory. The vulnerability has been patched as of v1.18.5. Users are advised to upgrade as soon as possible.
+- [Live-Hack-CVE/CVE-2021-43788](https://github.com/Live-Hack-CVE/CVE-2021-43788)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43788">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43788">
+
+---
+## CVE-2021-43787 (2021-11-29T20:15:00)
+> Nodebb is an open source Node.js based forum software. In affected versions a prototype pollution vulnerability in the uploader module allowed a malicious user to inject arbitrary data (i.e. javascript) into the DOM, theoretically allowing for an account takeover when used in conjunction with a path traversal vulnerability disclosed at the same time as this report. The vulnerability has been patched as of v1.18.5. Users are advised to upgrade as soon as possible.
+- [Live-Hack-CVE/CVE-2021-43787](https://github.com/Live-Hack-CVE/CVE-2021-43787)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43787">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43787">
 
 ---
 ## CVE-2021-43657 (2022-12-22T02:15:00)
@@ -2103,6 +2123,11 @@
 ## CVE-2021-24822 (2021-11-29T09:15:00)
 > The Stylish Cost Calculator WordPress plugin before 7.0.4 does not have any authorisation and CSRF checks on some of its AJAX actions (available to authenticated users), which could allow any authenticated users, such as subscriber to call them, and perform Stored Cross-Site Scripting attacks against logged in admin, as well as frontend users due to the lack of sanitisation and escaping in some parameters
 - [Live-Hack-CVE/CVE-2021-24822](https://github.com/Live-Hack-CVE/CVE-2021-24822)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24822">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24822">
+
+---
+## CVE-2021-24761 (2022-02-01T13:15:00)
+> The Error Log Viewer WordPress plugin before 1.1.2 does not perform nonce check when deleting a log file and does not have path traversal prevention, which could allow attackers to make a logged in admin delete arbitrary text files on the web server.
+- [Live-Hack-CVE/CVE-2021-24761](https://github.com/Live-Hack-CVE/CVE-2021-24761)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24761">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24761">
 
 ---
 ## CVE-2021-24739 (2021-12-21T09:15:00)
