@@ -4926,6 +4926,21 @@
 - [Live-Hack-CVE/CVE-2022-4010](https://github.com/Live-Hack-CVE/CVE-2022-4010)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4010">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4010">
 
 ---
+## CVE-2022-40099 (2022-09-26T21:15:00)
+> Online Tours & Travels Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /admin/update_expense_category.php.
+- [Live-Hack-CVE/CVE-2022-40099](https://github.com/Live-Hack-CVE/CVE-2022-40099)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40099">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40099">
+
+---
+## CVE-2022-40098 (2022-09-26T21:15:00)
+> Online Tours & Travels Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /admin/update_expense.php.
+- [Live-Hack-CVE/CVE-2022-40098](https://github.com/Live-Hack-CVE/CVE-2022-40098)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40098">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40098">
+
+---
+## CVE-2022-40097 (2022-09-26T21:15:00)
+> Online Tours & Travels Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /admin/update_currency.php.
+- [Live-Hack-CVE/CVE-2022-40097](https://github.com/Live-Hack-CVE/CVE-2022-40097)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40097">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40097">
+
+---
 ## CVE-2022-4005 (2022-12-12T18:15:00)
 > The Donation Button WordPress plugin through 4.0.0 does not sanitize and escapes some parameters, which could allow users with a role as low as Contributor to perform Cross-Site Scripting attacks.
 - [Live-Hack-CVE/CVE-2022-4005](https://github.com/Live-Hack-CVE/CVE-2022-4005)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4005">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4005">
@@ -5328,6 +5343,11 @@
 ## CVE-2022-39259 (2022-10-21T23:15:00)
 > jadx is a set of command line and GUI tools for producing Java source code from Android Dex and Apk files. versions prior to 1.4.5 are subject to a Denial of Service when opening zip files with HTML sequences. This issue has been patched in version 1.4.5. There are no known workarounds.
 - [Live-Hack-CVE/CVE-2022-39259](https://github.com/Live-Hack-CVE/CVE-2022-39259)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39259">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39259">
+
+---
+## CVE-2022-39256 (2022-09-27T15:15:00)
+> Orckestra C1 CMS is a .NET based Web Content Management System. A vulnerability in versions prior to 6.13 allows remote attackers to execute arbitrary code on affected installations of Orckestra C1 CMS. Authentication is required to exploit this vulnerability. The authenticated user may perform the actions unknowingly by visiting a specially crafted site. This issue is patched in C1 CMS v6.13. There are no known workarounds.
+- [Live-Hack-CVE/CVE-2022-39256](https://github.com/Live-Hack-CVE/CVE-2022-39256)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39256">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39256">
 
 ---
 ## CVE-2022-39253 (2022-10-19T11:15:00)
@@ -6502,6 +6522,7 @@
 ## CVE-2022-37703 (2022-09-13T20:15:00)
 > In Amanda 3.5.1, an information leak vulnerability was found in the calcsize SUID binary. An attacker can abuse this vulnerability to know if a directory exists or not anywhere in the fs. The binary will use `opendir()` as root directly without checking the path, letting the attacker provide an arbitrary path.
 - [MaherAzzouzi/CVE-2022-37703](https://github.com/MaherAzzouzi/CVE-2022-37703)	<img alt="forks" src="https://img.shields.io/github/forks/MaherAzzouzi/CVE-2022-37703">	<img alt="stars" src="https://img.shields.io/github/stars/MaherAzzouzi/CVE-2022-37703">
+- [Live-Hack-CVE/CVE-2022-37703](https://github.com/Live-Hack-CVE/CVE-2022-37703)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37703">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37703">
 
 ---
 ## CVE-2022-3770 (2022-10-31T14:15:00)
@@ -8355,6 +8376,11 @@
 ## CVE-2022-32783 (2022-09-23T19:15:00)
 > A logic issue was addressed with improved checks. This issue is fixed in macOS Monterey 12.4. An app may gain unauthorized access to Bluetooth.
 - [Live-Hack-CVE/CVE-2022-32783](https://github.com/Live-Hack-CVE/CVE-2022-32783)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32783">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32783">
+
+---
+## CVE-2022-32782 (2022-09-23T19:15:00)
+> This issue was addressed by enabling hardened runtime. This issue is fixed in macOS Monterey 12.4. An app with root privileges may be able to access private information.
+- [Live-Hack-CVE/CVE-2022-32782](https://github.com/Live-Hack-CVE/CVE-2022-32782)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32782">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32782">
 
 ---
 ## CVE-2022-3278 (2022-09-23T22:15:00)
@@ -10515,6 +10541,11 @@
 - [Live-Hack-CVE/CVE-2022-26704](https://github.com/Live-Hack-CVE/CVE-2022-26704)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26704">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26704">
 
 ---
+## CVE-2022-26700 (2022-09-23T19:15:00)
+> A memory corruption issue was addressed with improved state management. This issue is fixed in tvOS 15.5, watchOS 8.6, iOS 15.5 and iPadOS 15.5, macOS Monterey 12.4, Safari 15.5. Processing maliciously crafted web content may lead to code execution.
+- [Live-Hack-CVE/CVE-2022-26700](https://github.com/Live-Hack-CVE/CVE-2022-26700)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26700">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26700">
+
+---
 ## CVE-2022-26691 (2022-05-26T18:15:00)
 > A logic issue was addressed with improved state management. This issue is fixed in Security Update 2022-003 Catalina, macOS Monterey 12.3, macOS Big Sur 11.6.5. An application may be able to gain elevated privileges.
 - [Live-Hack-CVE/CVE-2022-26691](https://github.com/Live-Hack-CVE/CVE-2022-26691)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26691">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26691">
@@ -11688,10 +11719,25 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [parsdefense/CVE-2022-22629](https://github.com/parsdefense/CVE-2022-22629)	<img alt="forks" src="https://img.shields.io/github/forks/parsdefense/CVE-2022-22629">	<img alt="stars" src="https://img.shields.io/github/stars/parsdefense/CVE-2022-22629">
 
 ---
+## CVE-2022-22628 (2022-09-23T19:15:00)
+> A use after free issue was addressed with improved memory management. This issue is fixed in macOS Monterey 12.3, Safari 15.4, watchOS 8.5, iOS 15.4 and iPadOS 15.4, tvOS 15.4. Processing maliciously crafted web content may lead to arbitrary code execution.
+- [Live-Hack-CVE/CVE-2022-22628](https://github.com/Live-Hack-CVE/CVE-2022-22628)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22628">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22628">
+
+---
+## CVE-2022-22624 (2022-09-23T19:15:00)
+> A use after free issue was addressed with improved memory management. This issue is fixed in macOS Monterey 12.3, iOS 15.4 and iPadOS 15.4, tvOS 15.4, Safari 15.4. Processing maliciously crafted web content may lead to arbitrary code execution.
+- [Live-Hack-CVE/CVE-2022-22624](https://github.com/Live-Hack-CVE/CVE-2022-22624)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22624">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22624">
+
+---
 ## CVE-2022-22620 (2022-03-18T18:15:00)
 > A use after free issue was addressed with improved memory management. This issue is fixed in macOS Monterey 12.2.1, iOS 15.3.1 and iPadOS 15.3.1, Safari 15.3 (v. 16612.4.9.1.8 and 15612.4.9.1.8). Processing maliciously crafted web content may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited..
 - [kmeps4/CVE-2022-22620](https://github.com/kmeps4/CVE-2022-22620)	<img alt="forks" src="https://img.shields.io/github/forks/kmeps4/CVE-2022-22620">	<img alt="stars" src="https://img.shields.io/github/stars/kmeps4/CVE-2022-22620">
 - [springsec/CVE-2022-22620](https://github.com/springsec/CVE-2022-22620)	<img alt="forks" src="https://img.shields.io/github/forks/springsec/CVE-2022-22620">	<img alt="stars" src="https://img.shields.io/github/stars/springsec/CVE-2022-22620">
+
+---
+## CVE-2022-22610 (2022-09-23T19:15:00)
+> A memory corruption issue was addressed with improved state management. This issue is fixed in macOS Monterey 12.3, Safari 15.4, watchOS 8.5, iOS 15.4 and iPadOS 15.4, tvOS 15.4. Processing maliciously crafted web content may lead to code execution.
+- [Live-Hack-CVE/CVE-2022-22610](https://github.com/Live-Hack-CVE/CVE-2022-22610)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22610">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22610">
 
 ---
 ## CVE-2022-22589 (2022-03-18T18:15:00)
@@ -11866,6 +11912,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [ZZ-SOCMAP/CVE-2022-21907](https://github.com/ZZ-SOCMAP/CVE-2022-21907)	<img alt="forks" src="https://img.shields.io/github/forks/ZZ-SOCMAP/CVE-2022-21907">	<img alt="stars" src="https://img.shields.io/github/stars/ZZ-SOCMAP/CVE-2022-21907">
 - [xiska62314/CVE-2022-21907](https://github.com/xiska62314/CVE-2022-21907)	<img alt="forks" src="https://img.shields.io/github/forks/xiska62314/CVE-2022-21907">	<img alt="stars" src="https://img.shields.io/github/stars/xiska62314/CVE-2022-21907">
 - [0xmaximus/Home-Demolisher](https://github.com/0xmaximus/Home-Demolisher)	<img alt="forks" src="https://img.shields.io/github/forks/0xmaximus/Home-Demolisher">	<img alt="stars" src="https://img.shields.io/github/stars/0xmaximus/Home-Demolisher">
+
+---
+## CVE-2022-21906 (2022-01-11T21:15:00)
+> Windows Defender Application Control Security Feature Bypass Vulnerability.
+- [Live-Hack-CVE/CVE-2022-21906](https://github.com/Live-Hack-CVE/CVE-2022-21906)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21906">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21906">
 
 ---
 ## CVE-2022-21894 (2022-01-11T21:15:00)
