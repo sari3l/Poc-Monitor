@@ -1236,6 +1236,7 @@
 ## CVE-2021-3680 (2021-08-04T13:15:00)
 > showdoc is vulnerable to Missing Cryptographic Step
 - [Live-Hack-CVE/CVE-2021-3680](https://github.com/Live-Hack-CVE/CVE-2021-3680)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3680">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3680">
+- [ctuIhu/CVE-2021-36808](https://github.com/ctuIhu/CVE-2021-36808)	<img alt="forks" src="https://img.shields.io/github/forks/ctuIhu/CVE-2021-36808">	<img alt="stars" src="https://img.shields.io/github/stars/ctuIhu/CVE-2021-36808">
 
 ---
 ## CVE-2021-3679 (2021-08-05T20:15:00)
@@ -1328,6 +1329,7 @@
 ## CVE-2021-3636 (2021-07-30T20:15:00)
 > It was found in OpenShift, before version 4.8, that the generated certificate for the in-cluster Service CA, incorrectly included additional certificates. The Service CA is automatically mounted into all pods, allowing them to safely connect to trusted in-cluster services that present certificates signed by the trusted Service CA. The incorrect inclusion of additional CAs in this certificate would allow an attacker that compromises any of the additional CAs to masquerade as a trusted in-cluster service.
 - [Live-Hack-CVE/CVE-2021-3636](https://github.com/Live-Hack-CVE/CVE-2021-3636)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3636">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3636">
+- [Live-Hack-CVE/CVE-2021-36369](https://github.com/Live-Hack-CVE/CVE-2021-36369)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36369">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36369">
 
 ---
 ## CVE-2021-3634 (2021-08-31T17:15:00)
@@ -1525,6 +1527,9 @@
 ## CVE-2021-3524 (2021-05-17T17:15:00)
 > A flaw was found in the Red Hat Ceph Storage RadosGW (Ceph Object Gateway) in versions before 14.2.21. The vulnerability is related to the injection of HTTP headers via a CORS ExposeHeader tag. The newline character in the ExposeHeader tag in the CORS configuration file generates a header injection in the response when the CORS request is made. In addition, the prior bug fix for CVE-2020-10753 did not account for the use of \r as a header separator, thus a new flaw has been created.
 - [Live-Hack-CVE/CVE-2021-3524](https://github.com/Live-Hack-CVE/CVE-2021-3524)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3524">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3524">
+- [Live-Hack-CVE/CVE-2021-35249](https://github.com/Live-Hack-CVE/CVE-2021-35249)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35249">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35249">
+- [Live-Hack-CVE/CVE-2021-35245](https://github.com/Live-Hack-CVE/CVE-2021-35245)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35245">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35245">
+- [Live-Hack-CVE/CVE-2021-35246](https://github.com/Live-Hack-CVE/CVE-2021-35246)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35246">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35246">
 
 ---
 ## CVE-2021-35236 (2021-10-27T01:15:00)
