@@ -30,6 +30,11 @@
 - [dwisiswant0/CVE-2020-9496](https://github.com/dwisiswant0/CVE-2020-9496)	<img alt="forks" src="https://img.shields.io/github/forks/dwisiswant0/CVE-2020-9496">	<img alt="stars" src="https://img.shields.io/github/stars/dwisiswant0/CVE-2020-9496">
 
 ---
+## CVE-2020-9490 (2020-08-07T16:15:00)
+> Apache HTTP Server versions 2.4.20 to 2.4.43. A specially crafted value for the 'Cache-Digest' header in a HTTP/2 request would result in a crash when the server actually tries to HTTP/2 PUSH a resource afterwards. Configuring the HTTP/2 feature via "H2Push off" will mitigate this vulnerability for unpatched servers.
+- [Live-Hack-CVE/CVE-2020-9490](https://github.com/Live-Hack-CVE/CVE-2020-9490)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9490">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9490">
+
+---
 ## CVE-2020-9484 (2020-05-20T19:15:00)
 > When using Apache Tomcat versions 10.0.0-M1 to 10.0.0-M4, 9.0.0.M1 to 9.0.34, 8.5.0 to 8.5.54 and 7.0.0 to 7.0.103 if a) an attacker is able to control the contents and name of a file on the server; and b) the server is configured to use the PersistenceManager with a FileStore; and c) the PersistenceManager is configured with sessionAttributeValueClassNameFilter="null" (the default unless a SecurityManager is used) or a sufficiently lax filter to allow the attacker provided object to be deserialized; and d) the attacker knows the relative file path from the storage location used by FileStore to the file the attacker has control over; then, using a specifically crafted request, the attacker will be able to trigger remote code execution via deserialization of the file under their control. Note that all of conditions a) to d) must be true for the attack to succeed.
 - [caique-garbim/CVE-2020-9484_Exploit](https://github.com/caique-garbim/CVE-2020-9484_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/caique-garbim/CVE-2020-9484_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/caique-garbim/CVE-2020-9484_Exploit">
@@ -65,6 +70,11 @@
 - [Live-Hack-CVE/CVE-2020-9402](https://github.com/Live-Hack-CVE/CVE-2020-9402)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9402">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9402">
 
 ---
+## CVE-2020-9274 (2020-02-26T16:15:00)
+> An issue was discovered in Pure-FTPd 1.0.49. An uninitialized pointer vulnerability has been detected in the diraliases linked list. When the *lookup_alias(const char alias) or print_aliases(void) function is called, they fail to correctly detect the end of the linked list and try to access a non-existent list member. This is related to init_aliases in diraliases.c.
+- [Live-Hack-CVE/CVE-2020-9274](https://github.com/Live-Hack-CVE/CVE-2020-9274)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9274">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9274">
+
+---
 ## CVE-2020-9006 (2020-02-17T15:15:00)
 > The Popup Builder plugin 2.2.8 through 2.6.7.6 for WordPress is vulnerable to SQL injection (in the sgImportPopups function in sg_popup_ajax.php) via PHP Deserialization on attacker-controlled data with the attachmentUrl POST variable. This allows creation of an arbitrary WordPress Administrator account, leading to possible Remote Code Execution because Administrators can run PHP code on Wordpress instances. (This issue has been fixed in the 3.x branch of popup-builder.)
 - [s3rgeym/cve-2020-9006](https://github.com/s3rgeym/cve-2020-9006)	<img alt="forks" src="https://img.shields.io/github/forks/s3rgeym/cve-2020-9006">	<img alt="stars" src="https://img.shields.io/github/stars/s3rgeym/cve-2020-9006">
@@ -98,6 +108,11 @@
 ## CVE-2020-8745 (2020-11-12T18:15:00)
 > Insufficient control flow management in subsystem for Intel(R) CSME versions before 11.8.80, 11.12.80, 11.22.80, 12.0.70, 13.0.40, 13.30.10, 14.0.45 and 14.5.25 , Intel(R) TXE versions before 3.1.80 and 4.0.30 may allow an unauthenticated user to potentially enable escalation of privilege via physical access.
 - [Live-Hack-CVE/CVE-2020-8745](https://github.com/Live-Hack-CVE/CVE-2020-8745)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8745">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8745">
+
+---
+## CVE-2020-8618 (2020-06-17T22:15:00)
+> An attacker who is permitted to send zone data to a server via zone transfer can exploit this to intentionally trigger the assertion failure with a specially constructed zone, denying service to clients.
+- [Live-Hack-CVE/CVE-2020-8618](https://github.com/Live-Hack-CVE/CVE-2020-8618)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8618">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8618">
 
 ---
 ## CVE-2020-8555 (2020-06-05T17:15:00)
@@ -359,6 +374,11 @@
 > Type confusion in V8 in Google Chrome prior to 83.0.4103.61 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
 - [kiks7/CVE-2020-6468-Chrome-Exploit](https://github.com/kiks7/CVE-2020-6468-Chrome-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/kiks7/CVE-2020-6468-Chrome-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/kiks7/CVE-2020-6468-Chrome-Exploit">
 - [Goyotan/CVE-2020-6468-PoC](https://github.com/Goyotan/CVE-2020-6468-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Goyotan/CVE-2020-6468-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Goyotan/CVE-2020-6468-PoC">
+
+---
+## CVE-2020-6425 (2020-03-23T16:15:00)
+> Insufficient policy enforcement in extensions in Google Chrome prior to 80.0.3987.149 allowed an attacker who convinced a user to install a malicious extension to bypass site isolation via a crafted Chrome Extension.
+- [Live-Hack-CVE/CVE-2020-6425](https://github.com/Live-Hack-CVE/CVE-2020-6425)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6425">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6425">
 
 ---
 ## CVE-2020-6364 (2020-10-15T02:15:00)
@@ -1051,6 +1071,16 @@
 - [Live-Hack-CVE/CVE-2020-24609](https://github.com/Live-Hack-CVE/CVE-2020-24609)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24609">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24609">
 
 ---
+## CVE-2020-24584 (2020-09-01T13:15:00)
+> An issue was discovered in Django 2.2 before 2.2.16, 3.0 before 3.0.10, and 3.1 before 3.1.1 (when Python 3.7+ is used). The intermediate-level directories of the filesystem cache had the system's standard umask rather than 0o077.
+- [Live-Hack-CVE/CVE-2020-24584](https://github.com/Live-Hack-CVE/CVE-2020-24584)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24584">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24584">
+
+---
+## CVE-2020-24583 (2020-09-01T13:15:00)
+> An issue was discovered in Django 2.2 before 2.2.16, 3.0 before 3.0.10, and 3.1 before 3.1.1 (when Python 3.7+ is used). FILE_UPLOAD_DIRECTORY_PERMISSIONS mode was not applied to intermediate-level directories created in the process of uploading files. It was also not applied to intermediate-level collected static directories when using the collectstatic management command.
+- [Live-Hack-CVE/CVE-2020-24583](https://github.com/Live-Hack-CVE/CVE-2020-24583)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24583">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24583">
+
+---
 ## CVE-2020-24445 (2020-12-10T06:15:00)
 > AEM's Cloud Service offering, as well as version 6.5.6.0 (and below), are affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by an attacker to inject malicious scripts into vulnerable form fields. Malicious JavaScript may be executed in a victim’s browser when they browse to the page containing the vulnerable field.
 - [Live-Hack-CVE/CVE-2020-24445](https://github.com/Live-Hack-CVE/CVE-2020-24445)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24445">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24445">
@@ -1165,6 +1195,16 @@
 ## CVE-2020-21599 (2021-09-16T22:15:00)
 > libde265 v1.0.4 contains a heap buffer overflow in the de265_image::available_zscan function, which can be exploited via a crafted a file.
 - [Live-Hack-CVE/CVE-2020-21599](https://github.com/Live-Hack-CVE/CVE-2020-21599)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-21599">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-21599">
+
+---
+## CVE-2020-2159 (2020-03-09T16:15:00)
+> Jenkins CryptoMove Plugin 0.1.33 and earlier allows attackers with Job/Configure access to execute arbitrary OS commands on the Jenkins master as the OS user account running Jenkins.
+- [Live-Hack-CVE/CVE-2020-2159](https://github.com/Live-Hack-CVE/CVE-2020-2159)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2159">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2159">
+
+---
+## CVE-2020-2152 (2020-03-09T16:15:00)
+> Jenkins Subversion Release Manager Plugin 1.2 and earlier does not escape the error message for the Repository URL field form validation, resulting in a reflected cross-site scripting vulnerability.
+- [Live-Hack-CVE/CVE-2020-2152](https://github.com/Live-Hack-CVE/CVE-2020-2152)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2152">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2152">
 
 ---
 ## CVE-2020-21016 (2022-10-31T13:15:00)
@@ -1670,6 +1710,27 @@
 ## CVE-2020-10232 (2020-03-09T00:15:00)
 > In version 4.8.0 and earlier of The Sleuth Kit (TSK), there is a stack buffer overflow vulnerability in the YAFFS file timestamp parsing logic in yaffsfs_istat() in fs/yaffs.c.
 - [Live-Hack-CVE/CVE-2020-10232](https://github.com/Live-Hack-CVE/CVE-2020-10232)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10232">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10232">
+
+---
+## CVE-2020-10221 (2020-03-08T22:15:00)
+> lib/ajaxHandlers/ajaxAddTemplate.php in rConfig through 3.94 allows remote attackers to execute arbitrary OS commands via shell metacharacters in the fileName POST parameter.
+- [Live-Hack-CVE/CVE-2020-10221](https://github.com/Live-Hack-CVE/CVE-2020-10221)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10221">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10221">
+
+---
+## CVE-2020-10199 (2020-04-01T19:15:00)
+> Sonatype Nexus Repository before 3.21.2 allows JavaEL Injection (issue 1 of 2).
+- [Live-Hack-CVE/CVE-2020-10199](https://github.com/Live-Hack-CVE/CVE-2020-10199)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10199">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10199">
+- [zhzyker/exphub](https://github.com/zhzyker/exphub)	<img alt="forks" src="https://img.shields.io/github/forks/zhzyker/exphub">	<img alt="stars" src="https://img.shields.io/github/stars/zhzyker/exphub">
+- [zhzyker/CVE-2020-10199_POC-EXP](https://github.com/zhzyker/CVE-2020-10199_POC-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/zhzyker/CVE-2020-10199_POC-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/zhzyker/CVE-2020-10199_POC-EXP">
+- [aleenzz/CVE-2020-10199](https://github.com/aleenzz/CVE-2020-10199)	<img alt="forks" src="https://img.shields.io/github/forks/aleenzz/CVE-2020-10199">	<img alt="stars" src="https://img.shields.io/github/stars/aleenzz/CVE-2020-10199">
+- [magicming200/CVE-2020-10199_CVE-2020-10204](https://github.com/magicming200/CVE-2020-10199_CVE-2020-10204)	<img alt="forks" src="https://img.shields.io/github/forks/magicming200/CVE-2020-10199_CVE-2020-10204">	<img alt="stars" src="https://img.shields.io/github/stars/magicming200/CVE-2020-10199_CVE-2020-10204">
+- [jas502n/CVE-2020-10199](https://github.com/jas502n/CVE-2020-10199)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2020-10199">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2020-10199">
+- [wsfengfan/CVE-2020-10199-10204](https://github.com/wsfengfan/CVE-2020-10199-10204)	<img alt="forks" src="https://img.shields.io/github/forks/wsfengfan/CVE-2020-10199-10204">	<img alt="stars" src="https://img.shields.io/github/stars/wsfengfan/CVE-2020-10199-10204">
+
+---
+## CVE-2020-10189 (2020-03-06T17:15:00)
+> Zoho ManageEngine Desktop Central before 10.0.474 allows remote code execution because of deserialization of untrusted data in getChartImage in the FileStorage class. This is related to the CewolfServlet and MDMLogUploaderServlet servlets.
+- [Live-Hack-CVE/CVE-2020-10189](https://github.com/Live-Hack-CVE/CVE-2020-10189)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10189">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10189">
 
 ---
 ## CVE-2020-10148 (2020-12-29T22:15:00)

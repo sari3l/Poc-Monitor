@@ -2075,6 +2075,21 @@
 - [Live-Hack-CVE/CVE-2021-33558](https://github.com/Live-Hack-CVE/CVE-2021-33558)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33558">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33558">
 
 ---
+## CVE-2021-33083 (2022-05-12T17:15:00)
+> Improper authentication in firmware for some Intel(R) SSD, Intel(R) Optane(TM) SSD, Intel(R) Optane(TM) SSD DC and Intel(R) SSD DC Products may allow an privileged user to potentially enable information disclosure via local access.
+- [Live-Hack-CVE/CVE-2021-33083](https://github.com/Live-Hack-CVE/CVE-2021-33083)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33083">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33083">
+
+---
+## CVE-2021-33082 (2022-05-12T17:15:00)
+> Sensitive information in resource not removed before reuse in firmware for some Intel(R) SSD and Intel(R) Optane(TM) SSD Products may allow an unauthenticated user to potentially enable information disclosure via physical access.
+- [Live-Hack-CVE/CVE-2021-33082](https://github.com/Live-Hack-CVE/CVE-2021-33082)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33082">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33082">
+
+---
+## CVE-2021-33080 (2022-05-12T17:15:00)
+> Exposure of sensitive system information due to uncleared debug information in firmware for some Intel(R) SSD DC, Intel(R) Optane(TM) SSD and Intel(R) Optane(TM) SSD DC Products may allow an unauthenticated user to potentially enable information disclosure or escalation of privilege via physical access.
+- [Live-Hack-CVE/CVE-2021-33080](https://github.com/Live-Hack-CVE/CVE-2021-33080)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33080">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33080">
+
+---
 ## CVE-2021-33013 (2022-05-13T16:15:00)
 > mySCADA myPRO versions prior to 8.20.0 does not restrict unauthorized read access to sensitive system information.
 - [Live-Hack-CVE/CVE-2021-33013](https://github.com/Live-Hack-CVE/CVE-2021-33013)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33013">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33013">
@@ -2133,6 +2148,11 @@
 ## CVE-2021-32656 (2021-06-01T22:15:00)
 > Nextcloud Server is a Nextcloud package that handles data storage. A vulnerability in federated share exists in versions prior to 19.0.11, 20.0.10, and 21.0.2. An attacker can gain access to basic information about users of a server by accessing a public link that a legitimate server user added as a federated share. This happens because Nextcloud supports sharing registered users with other Nextcloud servers, which can be done automatically when selecting the "Add server automatically once a federated share was created successfully" setting. The vulnerability is patched in versions 19.0.11, 20.0.10, and 21.0.2 As a workaround, disable "Add server automatically once a federated share was created successfully" in the Nextcloud settings.
 - [Live-Hack-CVE/CVE-2021-32656](https://github.com/Live-Hack-CVE/CVE-2021-32656)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32656">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32656">
+
+---
+## CVE-2021-32503 (2022-04-01T23:15:00)
+> Unauthenticated users can access sensitive web URLs through GET request, which should be restricted to maintenance users only. A malicious attacker could use this sensitive information’s to launch further attacks on the system.
+- [Live-Hack-CVE/CVE-2021-32503](https://github.com/Live-Hack-CVE/CVE-2021-32503)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32503">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32503">
 
 ---
 ## CVE-2021-32027 (2021-06-01T14:15:00)
@@ -2660,6 +2680,11 @@
 ## CVE-2021-26338 (2021-11-16T18:15:00)
 > Improper access controls in System Management Unit (SMU) may allow for an attacker to override performance control tables located in DRAM resulting in a potential lack of system resources.
 - [Live-Hack-CVE/CVE-2021-26338](https://github.com/Live-Hack-CVE/CVE-2021-26338)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26338">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26338">
+
+---
+## CVE-2021-26336 (2021-11-16T19:15:00)
+> Insufficient bounds checking in System Management Unit (SMU) may cause invalid memory accesses/updates that could result in SMU hang and subsequent failure to service any further requests from other components.
+- [Live-Hack-CVE/CVE-2021-26336](https://github.com/Live-Hack-CVE/CVE-2021-26336)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26336">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26336">
 
 ---
 ## CVE-2021-26294 (2021-03-07T04:15:00)

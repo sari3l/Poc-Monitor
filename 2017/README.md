@@ -379,6 +379,11 @@
 - [GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara](https://github.com/GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara)	<img alt="forks" src="https://img.shields.io/github/forks/GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara">	<img alt="stars" src="https://img.shields.io/github/stars/GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara">
 
 ---
+## CVE-2017-15108 (2018-01-20T00:29:00)
+> spice-vdagent up to and including 0.17.0 does not properly escape save directory before passing to shell, allowing local attacker with access to the session the agent runs in to inject arbitrary commands to be executed.
+- [Live-Hack-CVE/CVE-2017-15108](https://github.com/Live-Hack-CVE/CVE-2017-15108)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-15108">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-15108">
+
+---
 ## CVE-2017-14481 (2018-05-09T20:29:00)
 > In the MMM::Agent::Helpers::Network::send_arp function in MySQL Multi-Master Replication Manager (MMM) mmm_agentd 2.2.1 (for Solaris), a specially crafted MMM protocol message can cause a shell command injection resulting in arbitrary command execution with the privileges of the mmm\_agentd process. An attacker that can initiate a TCP session with mmm\_agentd can trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2017-14481](https://github.com/Live-Hack-CVE/CVE-2017-14481)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-14481">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-14481">

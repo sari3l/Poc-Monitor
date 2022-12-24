@@ -3877,6 +3877,11 @@
 - [L34ked/CVE-2022-41208](https://github.com/L34ked/CVE-2022-41208)	<img alt="forks" src="https://img.shields.io/github/forks/L34ked/CVE-2022-41208">	<img alt="stars" src="https://img.shields.io/github/stars/L34ked/CVE-2022-41208">
 
 ---
+## CVE-2022-41138 (2022-09-20T18:15:00)
+> In Zutty before 0.13, DECRQSS in text written to the terminal can achieve arbitrary code execution.
+- [Live-Hack-CVE/CVE-2022-41138](https://github.com/Live-Hack-CVE/CVE-2022-41138)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41138">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41138">
+
+---
 ## CVE-2022-41136 (2022-11-08T19:15:00)
 > Cross-Site Request Forgery (CSRF) vulnerability leading to Stored Cross-Site Scripting (XSS) in Vladimir Anokhin's Shortcodes Ultimate plugin <= 5.12.0 on WordPress.
 - [Live-Hack-CVE/CVE-2022-41136](https://github.com/Live-Hack-CVE/CVE-2022-41136)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41136">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41136">
@@ -7619,6 +7624,11 @@
 - [Live-Hack-CVE/CVE-2022-3408](https://github.com/Live-Hack-CVE/CVE-2022-3408)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3408">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3408">
 
 ---
+## CVE-2022-34046 (2022-07-20T17:15:00)
+> An access control issue in Wavlink WN533A8 M33A8.V5030.190716 allows attackers to obtain usernames and passwords via view-source:http://IP_ADDRESS/sysinit.shtml?r=52300 and searching for [logincheck(user);].
+- [Live-Hack-CVE/CVE-2022-34046](https://github.com/Live-Hack-CVE/CVE-2022-34046)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34046">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34046">
+
+---
 ## CVE-2022-34027 (2022-07-18T21:15:00)
 > Nginx NJS v0.7.4 was discovered to contain a segmentation violation via njs_value_property at njs_value.c.
 - [Live-Hack-CVE/CVE-2022-34027](https://github.com/Live-Hack-CVE/CVE-2022-34027)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34027">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34027">
@@ -8936,6 +8946,11 @@
 - [Live-Hack-CVE/CVE-2022-3058](https://github.com/Live-Hack-CVE/CVE-2022-3058)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3058">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3058">
 
 ---
+## CVE-2022-30578 (2022-09-21T18:15:00)
+> The Web Server component of TIBCO Software Inc.'s TIBCO EBX Add-ons contains an easily exploitable vulnerability that allows a low privileged attacker with network access to execute Stored Cross Site Scripting (XSS) on the affected system. A successful attack using this vulnerability requires human interaction from a person other than the attacker. Affected releases are TIBCO Software Inc.'s TIBCO EBX Add-ons: versions 5.4.1 and below.
+- [Live-Hack-CVE/CVE-2022-30578](https://github.com/Live-Hack-CVE/CVE-2022-30578)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30578">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30578">
+
+---
 ## CVE-2022-3057 (2022-09-26T16:15:00)
 > Inappropriate implementation in iframe Sandbox in Google Chrome prior to 105.0.5195.52 allowed a remote attacker to leak cross-origin data via a crafted HTML page.
 - [Live-Hack-CVE/CVE-2022-3057](https://github.com/Live-Hack-CVE/CVE-2022-3057)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3057">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3057">
@@ -9512,6 +9527,11 @@
 ## CVE-2022-28866 (2022-10-12T00:15:00)
 > Multiple Improper Access Control was discovered in Nokia AirFrame BMC Web GUI < R18 Firmware v4.13.00. It does not properly validate requests for access to (or editing of) data and functionality in all endpoints under /#settings/* and /api/settings/*. By not verifying the permissions for access to resources, it allows a potential attacker to view pages, with sensitive data, that are not allowed, and modify system configurations also causing DoS, which should be accessed only by user with administration profile, bypassing all controls (without checking for user identity).
 - [Live-Hack-CVE/CVE-2022-28866](https://github.com/Live-Hack-CVE/CVE-2022-28866)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28866">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28866">
+
+---
+## CVE-2022-28815 (2022-09-28T14:15:00)
+> In Carlo Gavazzi UWP3.0 in multiple versions and CPY Car Park Server in Version 2.8.3 the Sentilo Proxy server was discovered to contain a SQL injection vulnerability allowing an attacker to query other tables of the Sentilo service.
+- [Live-Hack-CVE/CVE-2022-28815](https://github.com/Live-Hack-CVE/CVE-2022-28815)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28815">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28815">
 
 ---
 ## CVE-2022-28805 (2022-04-08T06:15:00)
@@ -10518,6 +10538,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-24780 (2022-04-05T19:15:00)
 > Combodo iTop is a web based IT Service Management tool. In versions prior to 2.7.6 and 3.0.0, users of the iTop user portal can send TWIG code to the server by forging specific http queries, and execute arbitrary code on the server using http server user privileges. This issue is fixed in versions 2.7.6 and 3.0.0. There are currently no known workarounds.
 - [Acceis/exploit-CVE-2022-24780](https://github.com/Acceis/exploit-CVE-2022-24780)	<img alt="forks" src="https://img.shields.io/github/forks/Acceis/exploit-CVE-2022-24780">	<img alt="stars" src="https://img.shields.io/github/stars/Acceis/exploit-CVE-2022-24780">
+- [Live-Hack-CVE/CVE-2022-24780](https://github.com/Live-Hack-CVE/CVE-2022-24780)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24780">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24780">
 
 ---
 ## CVE-2022-24765 (2022-04-12T18:15:00)
@@ -10673,6 +10694,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-2422 (2022-10-26T10:15:00)
 > Due to improper input validation in the Feathers js library, it is possible to perform a SQL injection attack on the back-end database, in case the feathers-sequelize package is used.
 - [Live-Hack-CVE/CVE-2022-2422](https://github.com/Live-Hack-CVE/CVE-2022-2422)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2422">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2422">
+
+---
+## CVE-2022-2415 (2022-07-28T01:15:00)
+> Heap buffer overflow in WebGL in Google Chrome prior to 103.0.5060.53 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-2415](https://github.com/Live-Hack-CVE/CVE-2022-2415)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2415">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2415">
 
 ---
 ## CVE-2022-2414 (2022-07-29T19:15:00)
@@ -10964,6 +10990,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-22971 (2022-05-12T20:15:00)
 > In spring framework versions prior to 5.3.20+ , 5.2.22+ and old unsupported versions, application with a STOMP over WebSocket endpoint is vulnerable to a denial of service attack by an authenticated user.
 - [tchize/CVE-2022-22971](https://github.com/tchize/CVE-2022-22971)	<img alt="forks" src="https://img.shields.io/github/forks/tchize/CVE-2022-22971">	<img alt="stars" src="https://img.shields.io/github/stars/tchize/CVE-2022-22971">
+
+---
+## CVE-2022-22970 (2022-05-12T20:15:00)
+> In spring framework versions prior to 5.3.20+ , 5.2.22+ and old unsupported versions, applications that handle file uploads are vulnerable to DoS attack if they rely on data binding to set a MultipartFile or javax.servlet.Part to a field in a model object.
+- [Live-Hack-CVE/CVE-2022-22970](https://github.com/Live-Hack-CVE/CVE-2022-22970)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22970">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22970">
 
 ---
 ## CVE-2022-22965 (2022-04-01T23:15:00)
@@ -11564,6 +11595,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-21225 (2022-08-18T20:15:00)
 > Improper neutralization in the Intel(R) Data Center Manager software before version 4.1 may allow an authenticated user to potentially enable escalation of privilege via adjacent access.
 - [Live-Hack-CVE/CVE-2022-21225](https://github.com/Live-Hack-CVE/CVE-2022-21225)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21225">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21225">
+
+---
+## CVE-2022-2122 (2022-07-19T20:15:00)
+> DOS / potential heap overwrite in qtdemux using zlib decompression. Integer overflow in qtdemux element in qtdemux_inflate function which causes a segfault, or could cause a heap overwrite, depending on libc and OS. Depending on the libc used, and the underlying OS capabilities, it could be just a segfault or a heap overwrite.
+- [Live-Hack-CVE/CVE-2022-2122](https://github.com/Live-Hack-CVE/CVE-2022-2122)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2122">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2122">
 
 ---
 ## CVE-2022-21126 (2022-11-29T17:15:00)
@@ -12334,6 +12370,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1927 (2022-05-29T14:15:00)
 > Buffer Over-read in GitHub repository vim/vim prior to 8.2.
 - [Live-Hack-CVE/CVE-2022-1927](https://github.com/Live-Hack-CVE/CVE-2022-1927)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1927">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1927">
+
+---
+## CVE-2022-1920 (2022-07-19T20:15:00)
+> Integer overflow in matroskademux element in gst_matroska_demux_add_wvpk_header function which allows a heap overwrite while parsing matroska files. Potential for arbitrary code execution through heap overwrite.
+- [Live-Hack-CVE/CVE-2022-1920](https://github.com/Live-Hack-CVE/CVE-2022-1920)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1920">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1920">
 
 ---
 ## CVE-2022-1903 (2022-06-27T09:15:00)
