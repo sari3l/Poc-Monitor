@@ -1877,6 +1877,16 @@
 - [Live-Hack-CVE/CVE-2022-43449](https://github.com/Live-Hack-CVE/CVE-2022-43449)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43449">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43449">
 
 ---
+## CVE-2022-43406 (2022-10-19T16:15:00)
+> A sandbox bypass vulnerability in Jenkins Pipeline: Deprecated Groovy Libraries Plugin 583.vf3b_454e43966 and earlier allows attackers with permission to define untrusted Pipeline libraries and to define and run sandboxed scripts, including Pipelines, to bypass the sandbox protection and execute arbitrary code in the context of the Jenkins controller JVM.
+- [Live-Hack-CVE/CVE-2022-43406](https://github.com/Live-Hack-CVE/CVE-2022-43406)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43406">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43406">
+
+---
+## CVE-2022-43400 (2022-10-21T14:15:00)
+> A vulnerability has been identified in Siveillance Video Mobile Server V2022 R2 (All versions < V22.2a (80)). The mobile server component of affected applications improperly handles the log in for Active Directory accounts that are part of Administrators group. This could allow an unauthenticated remote attacker to access the application without a valid account.
+- [Live-Hack-CVE/CVE-2022-43400](https://github.com/Live-Hack-CVE/CVE-2022-43400)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43400">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43400">
+
+---
 ## CVE-2022-43397 (2022-11-08T11:15:00)
 > A vulnerability has been identified in Parasolid V34.0 (All versions < V34.0.252), Parasolid V34.1 (All versions < V34.1.242), Parasolid V35.0 (All versions < V35.0.170). The affected application contains an out of bounds write past the end of an allocated buffer while parsing specially crafted X_T files. This could allow an attacker to execute code in the context of the current process. (ZDI-CAN-17854)
 - [Live-Hack-CVE/CVE-2022-43397](https://github.com/Live-Hack-CVE/CVE-2022-43397)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43397">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43397">
@@ -3162,6 +3172,11 @@
 ## CVE-2022-41835 (2022-10-19T22:15:00)
 > In F5OS-A version 1.x before 1.1.0 and F5OS-C version 1.x before 1.5.0, excessive file permissions in F5OS allows an authenticated local attacker to execute limited set of commands in a container and impact the F5OS controller.
 - [Live-Hack-CVE/CVE-2022-41835](https://github.com/Live-Hack-CVE/CVE-2022-41835)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41835">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41835">
+
+---
+## CVE-2022-41833 (2022-10-19T22:15:00)
+> In all BIG-IP 13.1.x versions, when an iRule containing the HTTP::collect command is configured on a virtual server, undisclosed requests can cause Traffic Management Microkernel (TMM) to terminate.
+- [Live-Hack-CVE/CVE-2022-41833](https://github.com/Live-Hack-CVE/CVE-2022-41833)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41833">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41833">
 
 ---
 ## CVE-2022-4183 (2022-11-30T00:15:00)
@@ -5065,6 +5080,11 @@
 - [Live-Hack-CVE/CVE-2022-38119](https://github.com/Live-Hack-CVE/CVE-2022-38119)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38119">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38119">
 
 ---
+## CVE-2022-38104 (2022-10-21T16:15:00)
+> Auth. WordPress Options Change (siteurl, users_can_register, default_role, admin_email and new_admin_email) vulnerability in Biplob Adhikari's Accordions – Multiple Accordions or FAQs Builder plugin (versions <= 2.0.3 on WordPress.
+- [Live-Hack-CVE/CVE-2022-38104](https://github.com/Live-Hack-CVE/CVE-2022-38104)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38104">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38104">
+
+---
 ## CVE-2022-38075 (2022-11-18T19:15:00)
 > Cross-Site Request Forgery (CSRF) vulnerability leading to Stored Cross-Site Scripting (XSS) in Mantenimiento web plugin <= 0.13 on WordPress.
 - [Live-Hack-CVE/CVE-2022-38075](https://github.com/Live-Hack-CVE/CVE-2022-38075)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38075">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38075">
@@ -5877,6 +5897,11 @@
 - [Live-Hack-CVE/CVE-2022-3633](https://github.com/Live-Hack-CVE/CVE-2022-3633)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3633">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3633">
 
 ---
+## CVE-2022-3630 (2022-10-21T06:15:00)
+> A vulnerability was found in Linux Kernel. It has been rated as problematic. This issue affects some unknown processing of the file fs/fscache/cookie.c of the component IPsec. The manipulation leads to memory leak. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-211931.
+- [Live-Hack-CVE/CVE-2022-3630](https://github.com/Live-Hack-CVE/CVE-2022-3630)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3630">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3630">
+
+---
 ## CVE-2022-36271 (2022-09-07T14:15:00)
 > Outbyte PC Repair Installation File 1.7.112.7856 is vulnerable to Dll Hijacking. iertutil.dll is missing so an attacker can use a malicious dll with same name and can get admin privileges.
 - [SaumyajeetDas/POC-of-CVE-2022-36271](https://github.com/SaumyajeetDas/POC-of-CVE-2022-36271)	<img alt="forks" src="https://img.shields.io/github/forks/SaumyajeetDas/POC-of-CVE-2022-36271">	<img alt="stars" src="https://img.shields.io/github/stars/SaumyajeetDas/POC-of-CVE-2022-36271">
@@ -6349,6 +6374,21 @@
 ## CVE-2022-3444 (2022-11-01T20:15:00)
 > Insufficient data validation in File System API in Google Chrome prior to 106.0.5249.62 allowed a remote attacker to bypass File System restrictions via a crafted HTML page and malicious file. (Chromium security severity: Low)
 - [Live-Hack-CVE/CVE-2022-3444](https://github.com/Live-Hack-CVE/CVE-2022-3444)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3444">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3444">
+
+---
+## CVE-2022-34439 (2022-10-21T18:15:00)
+> Dell PowerScale OneFS, versions 8.2.0.x-9.4.0.x contain allocation of Resources Without Limits or Throttling vulnerability. A remote unauthenticated attacker could potentially exploit this vulnerability, leading to denial of service and performance issue on that node.
+- [Live-Hack-CVE/CVE-2022-34439](https://github.com/Live-Hack-CVE/CVE-2022-34439)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34439">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34439">
+
+---
+## CVE-2022-34438 (2022-10-21T18:15:00)
+> Dell PowerScale OneFS, versions 8.2.x-9.4.0.x, contain a privilege context switching error. A local authenticated malicious user with high privileges could potentially exploit this vulnerability, leading to full system compromise. This impacts compliance mode clusters.
+- [Live-Hack-CVE/CVE-2022-34438](https://github.com/Live-Hack-CVE/CVE-2022-34438)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34438">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34438">
+
+---
+## CVE-2022-34437 (2022-10-21T18:15:00)
+> Dell PowerScale OneFS, versions 8.2.2-9.3.0, contain an OS command injection vulnerability. A privileged local malicious user could potentially exploit this vulnerability, leading to a full system compromise. This impacts compliance mode clusters.
+- [Live-Hack-CVE/CVE-2022-34437](https://github.com/Live-Hack-CVE/CVE-2022-34437)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34437">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34437">
 
 ---
 ## CVE-2022-3443 (2022-11-01T20:15:00)
@@ -7236,6 +7276,11 @@
 ## CVE-2022-31245 (2022-05-20T15:15:00)
 > mailcow before 2022-05d allows a remote authenticated user to inject OS commands and escalate privileges to domain admin via the --debug option in conjunction with the ---PIPEMESS option in Sync Jobs.
 - [ly1g3/Mailcow-CVE-2022-31245](https://github.com/ly1g3/Mailcow-CVE-2022-31245)	<img alt="forks" src="https://img.shields.io/github/forks/ly1g3/Mailcow-CVE-2022-31245">	<img alt="stars" src="https://img.shields.io/github/stars/ly1g3/Mailcow-CVE-2022-31245">
+
+---
+## CVE-2022-31239 (2022-10-21T18:15:00)
+> Dell PowerScale OneFS, versions 9.0.0 up to and including 9.1.0.19, 9.2.1.12, and 9.3.0.6, contain sensitive data in log files vulnerability. A privileged local user may potentially exploit this vulnerability, leading to disclosure of this sensitive data.
+- [Live-Hack-CVE/CVE-2022-31239](https://github.com/Live-Hack-CVE/CVE-2022-31239)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31239">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31239">
 
 ---
 ## CVE-2022-3122 (2022-09-05T14:15:00)
@@ -8432,6 +8477,11 @@
 ## CVE-2022-26891 (2022-04-05T20:15:00)
 > Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-24475, CVE-2022-26894, CVE-2022-26895, CVE-2022-26900, CVE-2022-26908, CVE-2022-26909, CVE-2022-26912.
 - [Live-Hack-CVE/CVE-2022-26891](https://github.com/Live-Hack-CVE/CVE-2022-26891)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26891">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26891">
+
+---
+## CVE-2022-26870 (2022-10-21T18:15:00)
+> Dell PowerStore versions 2.1.0.x contain an Authentication bypass vulnerability. A remote unauthenticated attacker could potentially exploit this vulnerability under specific configuration. An attacker would gain unauthorized access upon successful exploit.
+- [Live-Hack-CVE/CVE-2022-26870](https://github.com/Live-Hack-CVE/CVE-2022-26870)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26870">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26870">
 
 ---
 ## CVE-2022-26809 (2022-04-15T19:15:00)

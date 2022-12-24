@@ -1483,9 +1483,39 @@
 - [Live-Hack-CVE/CVE-2021-36206](https://github.com/Live-Hack-CVE/CVE-2021-36206)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36206">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36206">
 
 ---
+## CVE-2021-36070 (2021-09-01T15:15:00)
+> Adobe Media Encoder version 15.1 (and earlier) is affected by an improper memory access vulnerability when parsing a crafted .SVG file. An attacker could leverage this vulnerability to execute code in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2021-36070](https://github.com/Live-Hack-CVE/CVE-2021-36070)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36070">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36070">
+
+---
+## CVE-2021-36052 (2021-09-01T15:15:00)
+> XMP Toolkit version 2020.1 (and earlier) is affected by a memory corruption vulnerability, potentially resulting in arbitrary code execution in the context of the current user. User interaction is required to exploit this vulnerability.
+- [Live-Hack-CVE/CVE-2021-36052](https://github.com/Live-Hack-CVE/CVE-2021-36052)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36052">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36052">
+
+---
 ## CVE-2021-3605 (2021-08-25T19:15:00)
 > There's a flaw in OpenEXR's rleUncompress functionality in versions prior to 3.0.5. An attacker who is able to submit a crafted file to an application linked with OpenEXR could cause an out-of-bounds read. The greatest risk from this flaw is to application availability.
 - [Live-Hack-CVE/CVE-2021-3605](https://github.com/Live-Hack-CVE/CVE-2021-3605)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3605">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3605">
+
+---
+## CVE-2021-36049 (2021-09-01T15:15:00)
+> Adobe Bridge version 11.1 (and earlier) is affected by a memory corruption vulnerability due to insecure handling of a malicious Bridge file, potentially resulting in arbitrary code execution in the context of the current user. User interaction is required to exploit this vulnerability.
+- [Live-Hack-CVE/CVE-2021-36049](https://github.com/Live-Hack-CVE/CVE-2021-36049)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36049">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36049">
+
+---
+## CVE-2021-36046 (2021-09-01T15:15:00)
+> XMP Toolkit version 2020.1 (and earlier) is affected by a memory corruption vulnerability, potentially resulting in arbitrary code execution in the context of the current user. User interaction is required to exploit this vulnerability.
+- [Live-Hack-CVE/CVE-2021-36046](https://github.com/Live-Hack-CVE/CVE-2021-36046)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36046">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36046">
+
+---
+## CVE-2021-36032 (2021-09-01T15:15:00)
+> Magento Commerce versions 2.4.2 (and earlier), 2.4.2-p1 (and earlier) and 2.3.7 (and earlier) are affected by an improper input validation vulnerability. An authenticated attacker can trigger an insecure direct object reference in the `V1/customers/me` endpoint to achieve information exposure and privilege escalation.
+- [Live-Hack-CVE/CVE-2021-36032](https://github.com/Live-Hack-CVE/CVE-2021-36032)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36032">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36032">
+
+---
+## CVE-2021-36022 (2021-09-01T15:15:00)
+> Magento Commerce versions 2.4.2 (and earlier), 2.4.2-p1 (and earlier) and 2.3.7 (and earlier) are affected by an XML Injection vulnerability in the Widgets Update Layout. An attacker with admin privileges can trigger a specially crafted script to achieve remote code execution.
+- [Live-Hack-CVE/CVE-2021-36022](https://github.com/Live-Hack-CVE/CVE-2021-36022)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36022">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36022">
 
 ---
 ## CVE-2021-3598 (2021-07-06T15:15:00)
@@ -1649,6 +1679,11 @@
 - [Live-Hack-CVE/CVE-2021-3499](https://github.com/Live-Hack-CVE/CVE-2021-3499)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3499">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3499">
 
 ---
+## CVE-2021-3498 (2021-04-19T21:15:00)
+> GStreamer before 1.18.4 might cause heap corruption when parsing certain malformed Matroska files.
+- [Live-Hack-CVE/CVE-2021-3498](https://github.com/Live-Hack-CVE/CVE-2021-3498)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3498">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3498">
+
+---
 ## CVE-2021-3493 (2021-04-17T05:15:00)
 > The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.
 - [Senz4wa/CVE-2021-3493](https://github.com/Senz4wa/CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/Senz4wa/CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/Senz4wa/CVE-2021-3493">
@@ -1669,6 +1704,12 @@
 - [rsalmond/CVE-2021-34824](https://github.com/rsalmond/CVE-2021-34824)	<img alt="forks" src="https://img.shields.io/github/forks/rsalmond/CVE-2021-34824">	<img alt="stars" src="https://img.shields.io/github/stars/rsalmond/CVE-2021-34824">
 
 ---
+## CVE-2021-3482 (2021-04-08T23:15:00)
+> A flaw was found in Exiv2 in versions before and including 0.27.4-RC1. Improper input validation of the rawData.size property in Jp2Image::readMetadata() in jp2image.cpp can lead to a heap-based buffer overflow via a crafted JPG image containing malicious EXIF data.
+- [Live-Hack-CVE/CVE-2021-3482](https://github.com/Live-Hack-CVE/CVE-2021-3482)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3482">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3482">
+- [rsalmond/CVE-2021-34824](https://github.com/rsalmond/CVE-2021-34824)	<img alt="forks" src="https://img.shields.io/github/forks/rsalmond/CVE-2021-34824">	<img alt="stars" src="https://img.shields.io/github/stars/rsalmond/CVE-2021-34824">
+
+---
 ## CVE-2021-34791 (2021-10-27T19:15:00)
 > Multiple vulnerabilities in the Application Level Gateway (ALG) for the Network Address Translation (NAT) feature of Cisco Adaptive Security Appliance (ASA) Software and Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to bypass the ALG and open unauthorized connections with a host located behind the ALG. For more information about these vulnerabilities, see the Details section of this advisory. Note: These vulnerabilities have been publicly discussed as NAT Slipstreaming.
 - [Live-Hack-CVE/CVE-2021-34791](https://github.com/Live-Hack-CVE/CVE-2021-34791)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34791">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34791">
@@ -1677,6 +1718,11 @@
 ## CVE-2021-34790 (2021-10-27T19:15:00)
 > Multiple vulnerabilities in the Application Level Gateway (ALG) for the Network Address Translation (NAT) feature of Cisco Adaptive Security Appliance (ASA) Software and Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to bypass the ALG and open unauthorized connections with a host located behind the ALG. For more information about these vulnerabilities, see the Details section of this advisory. Note: These vulnerabilities have been publicly discussed as NAT Slipstreaming.
 - [Live-Hack-CVE/CVE-2021-34790](https://github.com/Live-Hack-CVE/CVE-2021-34790)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34790">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34790">
+
+---
+## CVE-2021-34771 (2021-09-09T05:15:00)
+> A vulnerability in the Cisco IOS XR Software CLI could allow an authenticated, local attacker to view more information than their privileges allow. This vulnerability is due to insufficient application of restrictions during the execution of a specific command. An attacker could exploit this vulnerability by running a specific command. A successful exploit could allow the attacker to view sensitive configuration information that their privileges might not otherwise allow them to access.
+- [Live-Hack-CVE/CVE-2021-34771](https://github.com/Live-Hack-CVE/CVE-2021-34771)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34771">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34771">
 
 ---
 ## CVE-2021-34767 (2021-09-23T03:15:00)
@@ -1705,6 +1751,11 @@
 - [Live-Hack-CVE/CVE-2021-3475](https://github.com/Live-Hack-CVE/CVE-2021-3475)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3475">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3475">
 
 ---
+## CVE-2021-34744 (2021-10-06T20:15:00)
+> Multiple vulnerabilities in Cisco Business 220 Series Smart Switches firmware could allow an attacker with Administrator privileges to access sensitive login credentials or reconfigure the passwords on the user account. For more information about these vulnerabilities, see the Details section of this advisory.
+- [Live-Hack-CVE/CVE-2021-34744](https://github.com/Live-Hack-CVE/CVE-2021-34744)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34744">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34744">
+
+---
 ## CVE-2021-34741 (2021-11-04T16:15:00)
 > A vulnerability in the email scanning algorithm of Cisco AsyncOS software for Cisco Email Security Appliance (ESA) could allow an unauthenticated, remote attacker to perform a denial of service (DoS) attack against an affected device. This vulnerability is due to insufficient input validation of incoming emails. An attacker could exploit this vulnerability by sending a crafted email through Cisco ESA. A successful exploit could allow the attacker to exhaust all the available CPU resources on an affected device for an extended period of time, preventing other emails from being processed and resulting in a DoS condition.
 - [Live-Hack-CVE/CVE-2021-34741](https://github.com/Live-Hack-CVE/CVE-2021-34741)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34741">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34741">
@@ -1713,6 +1764,11 @@
 ## CVE-2021-3474 (2021-03-30T18:15:00)
 > There's a flaw in OpenEXR in versions before 3.0.0-beta. A crafted input file that is processed by OpenEXR could cause a shift overflow in the FastHufDecoder, potentially leading to problems with application availability.
 - [Live-Hack-CVE/CVE-2021-3474](https://github.com/Live-Hack-CVE/CVE-2021-3474)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3474">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3474">
+
+---
+## CVE-2021-34725 (2021-09-23T03:15:00)
+> A vulnerability in the CLI of Cisco IOS XE SD-WAN Software could allow an authenticated, local attacker to inject arbitrary commands to be executed with root-level privileges on the underlying operating system. This vulnerability is due to insufficient input validation on certain CLI commands. An attacker could exploit this vulnerability by authenticating to an affected device and submitting crafted input to the CLI. The attacker must be authenticated as an administrative user to execute the affected commands. A successful exploit could allow the attacker to execute commands with root-level privileges.
+- [Live-Hack-CVE/CVE-2021-34725](https://github.com/Live-Hack-CVE/CVE-2021-34725)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34725">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34725">
 
 ---
 ## CVE-2021-34720 (2021-09-09T05:15:00)
