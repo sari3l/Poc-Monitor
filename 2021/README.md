@@ -670,6 +670,11 @@
 - [vulnz/CVE-2021-40903](https://github.com/vulnz/CVE-2021-40903)	<img alt="forks" src="https://img.shields.io/github/forks/vulnz/CVE-2021-40903">	<img alt="stars" src="https://img.shields.io/github/stars/vulnz/CVE-2021-40903">
 
 ---
+## CVE-2021-40661 (2022-10-31T12:15:00)
+> A remote, unauthenticated, directory traversal vulnerability was identified within the web interface used by IND780 Advanced Weighing Terminals Build 8.0.07 March 19, 2018 (SS Label 'IND780_8.0.07'), Version 7.2.10 June 18, 2012 (SS Label 'IND780_7.2.10'). It was possible to traverse the folders of the affected host by providing a traversal path to the 'webpage' parameter in AutoCE.ini This could allow a remote unauthenticated adversary to access additional files on the affected system. This could also allow the adversary to perform further enumeration against the affected host to identify the versions of the systems in use, in order to launch further attacks in future.
+- [Live-Hack-CVE/CVE-2021-40661](https://github.com/Live-Hack-CVE/CVE-2021-40661)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40661">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40661">
+
+---
 ## CVE-2021-40650 (2022-06-14T10:15:00)
 > In Connx Version 6.2.0.1269 (20210623), a cookie can be issued by the application and not have the secure flag set.
 - [l00neyhacker/CVE-2021-40650](https://github.com/l00neyhacker/CVE-2021-40650)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2021-40650">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2021-40650">
