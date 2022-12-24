@@ -3285,6 +3285,7 @@
 ## CVE-2022-41358 (2022-10-20T02:15:00)
 > A stored cross-site scripting (XSS) vulnerability in Garage Management System v1.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the categoriesName parameter in createCategories.php.
 - [thecasual/CVE-2022-41358](https://github.com/thecasual/CVE-2022-41358)	<img alt="forks" src="https://img.shields.io/github/forks/thecasual/CVE-2022-41358">	<img alt="stars" src="https://img.shields.io/github/stars/thecasual/CVE-2022-41358">
+- [Live-Hack-CVE/CVE-2022-41358](https://github.com/Live-Hack-CVE/CVE-2022-41358)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41358">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41358">
 
 ---
 ## CVE-2022-41352 (2022-09-26T02:15:00)
@@ -4085,6 +4086,11 @@
 - [Live-Hack-CVE/CVE-2022-40189](https://github.com/Live-Hack-CVE/CVE-2022-40189)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40189">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40189">
 
 ---
+## CVE-2022-40183 (2022-10-27T17:15:00)
+> An error in the URL handler of the VIDEOJET multi 4000 may lead to a reflected cross site scripting (XSS) in the web-based interface. An attacker with knowledge of the encoder address can send a crafted link to a user, which will execute JavaScript code in the context of the user.
+- [Live-Hack-CVE/CVE-2022-40183](https://github.com/Live-Hack-CVE/CVE-2022-40183)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40183">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40183">
+
+---
 ## CVE-2022-4016 (2022-12-12T18:15:00)
 > The Booster for WooCommerce WordPress plugin before 5.6.7, Booster Plus for WooCommerce WordPress plugin before 5.6.6, Booster Elite for WooCommerce WordPress plugin before 1.1.8 does not properly check for CSRF when creating and deleting Customer roles, allowing attackers to make logged admins create and delete arbitrary custom roles via CSRF attacks
 - [Live-Hack-CVE/CVE-2022-4016](https://github.com/Live-Hack-CVE/CVE-2022-4016)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4016">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4016">
@@ -4665,6 +4671,11 @@
 - [AUTOCRYPT-IVS-VnV/CVE-2022-38766](https://github.com/AUTOCRYPT-IVS-VnV/CVE-2022-38766)	<img alt="forks" src="https://img.shields.io/github/forks/AUTOCRYPT-IVS-VnV/CVE-2022-38766">	<img alt="stars" src="https://img.shields.io/github/stars/AUTOCRYPT-IVS-VnV/CVE-2022-38766">
 
 ---
+## CVE-2022-38744 (2022-10-27T14:15:00)
+> An unauthenticated attacker with network access to a victim's Rockwell Automation FactoryTalk Alarm and Events service could open a connection, causing the service to fault and become unavailable. The affected port could be used as a server ping port and uses messages structured with XML.
+- [Live-Hack-CVE/CVE-2022-38744](https://github.com/Live-Hack-CVE/CVE-2022-38744)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38744">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38744">
+
+---
 ## CVE-2022-3873 (2022-11-07T11:15:00)
 > Cross-site Scripting (XSS) - DOM in GitHub repository jgraph/drawio prior to 20.5.2.
 - [Live-Hack-CVE/CVE-2022-3873](https://github.com/Live-Hack-CVE/CVE-2022-3873)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3873">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3873">
@@ -4752,6 +4763,16 @@
 - [Live-Hack-CVE/CVE-2022-38465](https://github.com/Live-Hack-CVE/CVE-2022-38465)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38465">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38465">
 
 ---
+## CVE-2022-38436 (2022-10-25T17:15:00)
+> Adobe Illustrator versions 26.4 (and earlier) and 25.4.7 (and earlier) are affected by an out-of-bounds read vulnerability when parsing a crafted file, which could result in a read past the end of an allocated memory structure. An attacker could leverage this vulnerability to execute code in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2022-38436](https://github.com/Live-Hack-CVE/CVE-2022-38436)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38436">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38436">
+
+---
+## CVE-2022-38435 (2022-10-25T17:15:00)
+> Adobe Illustrator versions 26.4 (and earlier) and 25.4.7 (and earlier) are affected by an Improper Input Validation vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2022-38435](https://github.com/Live-Hack-CVE/CVE-2022-38435)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38435">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38435">
+
+---
 ## CVE-2022-38379 (2022-12-06T17:15:00)
 > Improper neutralization of input during web page generation [CWE-79] in FortiSOAR 7.0.0 through 7.0.3 and 7.2.0 may allow an authenticated attacker to inject HTML tags via input fields of various components within FortiSOAR.
 - [Live-Hack-CVE/CVE-2022-38379](https://github.com/Live-Hack-CVE/CVE-2022-38379)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38379">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38379">
@@ -4797,6 +4818,21 @@
 - [Live-Hack-CVE/CVE-2022-38266](https://github.com/Live-Hack-CVE/CVE-2022-38266)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38266">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38266">
 
 ---
+## CVE-2022-38200 (2022-10-25T17:15:00)
+> A cross site scripting vulnerability exists in some map service configurations of ArcGIS Server versions 10.8.1 and 10.7.1. Specifically crafted web requests can execute arbitrary JavaScript in the context of the victim's browser.
+- [Live-Hack-CVE/CVE-2022-38200](https://github.com/Live-Hack-CVE/CVE-2022-38200)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38200">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38200">
+
+---
+## CVE-2022-38197 (2022-10-25T17:15:00)
+> Esri ArcGIS Server versions 10.9.1 and below have an unvalidated redirect issue that may allow a remote, unauthenticated attacker to phish a user into accessing an attacker controlled website via a crafted query parameter.
+- [Live-Hack-CVE/CVE-2022-38197](https://github.com/Live-Hack-CVE/CVE-2022-38197)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38197">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38197">
+
+---
+## CVE-2022-38196 (2022-10-25T17:15:00)
+> Esri ArcGIS Server versions 10.9.1 and prior have a path traversal vulnerability that may result in a denial of service by allowing a remote, authenticated attacker to overwrite internal ArcGIS Server directory.
+- [Live-Hack-CVE/CVE-2022-38196](https://github.com/Live-Hack-CVE/CVE-2022-38196)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38196">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38196">
+
+---
 ## CVE-2022-3819 (2022-11-10T00:15:00)
 > An improper authorization issue in GitLab CE/EE affecting all versions from 15.0 prior to 15.3.5, 15.4 prior to 15.4.4, and 15.5 prior to 15.5.2 allows a malicious users to set emojis on internal notes they don't have access to.
 - [Live-Hack-CVE/CVE-2022-3819](https://github.com/Live-Hack-CVE/CVE-2022-3819)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3819">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3819">
@@ -4816,6 +4852,11 @@
 ## CVE-2022-38163 (2022-11-07T15:15:00)
 > A Drag and Drop spoof vulnerability was discovered in F-Secure SAFE Browser for Android and iOS version 19.0 and below. Drag and drop operation by user on address bar could lead to a spoofing of the address bar.
 - [Live-Hack-CVE/CVE-2022-38163](https://github.com/Live-Hack-CVE/CVE-2022-38163)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38163">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38163">
+
+---
+## CVE-2022-38162 (2022-10-25T19:15:00)
+> Reflected cross-site scripting (XSS) vulnerabilities in WithSecure through 2022-08-10) exists within the F-Secure Policy Manager due to an unvalidated parameter in the endpoint, which allows remote attackers to provide a malicious input.
+- [Live-Hack-CVE/CVE-2022-38162](https://github.com/Live-Hack-CVE/CVE-2022-38162)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38162">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38162">
 
 ---
 ## CVE-2022-38150 (2022-08-11T01:15:00)
@@ -8948,6 +8989,21 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-2129](https://github.com/Live-Hack-CVE/CVE-2022-2129)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2129">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2129">
 
 ---
+## CVE-2022-2126 (2022-06-19T13:15:00)
+> Out-of-bounds Read in GitHub repository vim/vim prior to 8.2.
+- [Live-Hack-CVE/CVE-2022-2126](https://github.com/Live-Hack-CVE/CVE-2022-2126)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2126">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2126">
+
+---
+## CVE-2022-2125 (2022-06-19T12:15:00)
+> Heap-based Buffer Overflow in GitHub repository vim/vim prior to 8.2.
+- [Live-Hack-CVE/CVE-2022-2125](https://github.com/Live-Hack-CVE/CVE-2022-2125)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2125">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2125">
+
+---
+## CVE-2022-2124 (2022-06-19T10:15:00)
+> Buffer Over-read in GitHub repository vim/vim prior to 8.2.
+- [Live-Hack-CVE/CVE-2022-2124](https://github.com/Live-Hack-CVE/CVE-2022-2124)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2124">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2124">
+
+---
 ## CVE-2022-21225 (2022-08-18T20:15:00)
 > Improper neutralization in the Intel(R) Data Center Manager software before version 4.1 may allow an authenticated user to potentially enable escalation of privilege via adjacent access.
 - [Live-Hack-CVE/CVE-2022-21225](https://github.com/Live-Hack-CVE/CVE-2022-21225)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21225">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21225">
@@ -9642,6 +9698,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-1941](https://github.com/Live-Hack-CVE/CVE-2022-1941)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1941">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1941">
 
 ---
+## CVE-2022-1927 (2022-05-29T14:15:00)
+> Buffer Over-read in GitHub repository vim/vim prior to 8.2.
+- [Live-Hack-CVE/CVE-2022-1927](https://github.com/Live-Hack-CVE/CVE-2022-1927)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1927">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1927">
+
+---
 ## CVE-2022-1903 (2022-06-27T09:15:00)
 > The ARMember WordPress plugin before 3.4.8 is vulnerable to account takeover (even the administrator) due to missing nonce and authorization checks in an AJAX action available to unauthenticated users, allowing them to change the password of arbitrary users by knowing their username
 - [biulove0x/CVE-2022-1903](https://github.com/biulove0x/CVE-2022-1903)	<img alt="forks" src="https://img.shields.io/github/forks/biulove0x/CVE-2022-1903">	<img alt="stars" src="https://img.shields.io/github/stars/biulove0x/CVE-2022-1903">
@@ -9660,6 +9721,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1769 (2022-05-17T17:15:00)
 > Buffer Over-read in GitHub repository vim/vim prior to 8.2.4974.
 - [Live-Hack-CVE/CVE-2022-1769](https://github.com/Live-Hack-CVE/CVE-2022-1769)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1769">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1769">
+
+---
+## CVE-2022-1735 (2022-05-17T19:15:00)
+> Classic Buffer Overflow in GitHub repository vim/vim prior to 8.2.4969.
+- [Live-Hack-CVE/CVE-2022-1735](https://github.com/Live-Hack-CVE/CVE-2022-1735)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1735">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1735">
 
 ---
 ## CVE-2022-1733 (2022-05-17T17:15:00)
