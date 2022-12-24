@@ -2187,6 +2187,51 @@
 - [Live-Hack-CVE/CVE-2022-43039](https://github.com/Live-Hack-CVE/CVE-2022-43039)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43039">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43039">
 
 ---
+## CVE-2022-43023 (2022-10-19T18:15:00)
+> OpenCATS v0.9.6 was discovered to contain a SQL injection vulnerability via the importID parameter in the Import viewerrors function.
+- [Live-Hack-CVE/CVE-2022-43023](https://github.com/Live-Hack-CVE/CVE-2022-43023)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43023">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43023">
+
+---
+## CVE-2022-43022 (2022-10-19T18:15:00)
+> OpenCATS v0.9.6 was discovered to contain a SQL injection vulnerability via the tag_id variable in the Tag deletion function.
+- [Live-Hack-CVE/CVE-2022-43022](https://github.com/Live-Hack-CVE/CVE-2022-43022)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43022">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43022">
+
+---
+## CVE-2022-43021 (2022-10-19T18:15:00)
+> OpenCATS v0.9.6 was discovered to contain a SQL injection vulnerability via the entriesPerPage variable.
+- [Live-Hack-CVE/CVE-2022-43021](https://github.com/Live-Hack-CVE/CVE-2022-43021)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43021">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43021">
+
+---
+## CVE-2022-43020 (2022-10-19T18:15:00)
+> OpenCATS v0.9.6 was discovered to contain a SQL injection vulnerability via the tag_id variable in the Tag update function.
+- [Live-Hack-CVE/CVE-2022-43020](https://github.com/Live-Hack-CVE/CVE-2022-43020)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43020">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43020">
+
+---
+## CVE-2022-43019 (2022-10-19T18:15:00)
+> OpenCATS v0.9.6 was discovered to contain a remote code execution (RCE) vulnerability via the getDataGridPager's ajax functionality.
+- [Live-Hack-CVE/CVE-2022-43019](https://github.com/Live-Hack-CVE/CVE-2022-43019)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43019">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43019">
+
+---
+## CVE-2022-43017 (2022-10-19T18:15:00)
+> OpenCATS v0.9.6 was discovered to contain a reflected cross-site scripting (XSS) vulnerability via the indexFile component.
+- [Live-Hack-CVE/CVE-2022-43017](https://github.com/Live-Hack-CVE/CVE-2022-43017)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43017">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43017">
+
+---
+## CVE-2022-43016 (2022-10-19T18:15:00)
+> OpenCATS v0.9.6 was discovered to contain a reflected cross-site scripting (XSS) vulnerability via the callback component.
+- [Live-Hack-CVE/CVE-2022-43016](https://github.com/Live-Hack-CVE/CVE-2022-43016)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43016">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43016">
+
+---
+## CVE-2022-43015 (2022-10-19T18:15:00)
+> OpenCATS v0.9.6 was discovered to contain a reflected cross-site scripting (XSS) vulnerability via the entriesPerPage parameter.
+- [Live-Hack-CVE/CVE-2022-43015](https://github.com/Live-Hack-CVE/CVE-2022-43015)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43015">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43015">
+
+---
+## CVE-2022-43014 (2022-10-19T18:15:00)
+> OpenCATS v0.9.6 was discovered to contain a reflected cross-site scripting (XSS) vulnerability via the joborderID parameter.
+- [Live-Hack-CVE/CVE-2022-43014](https://github.com/Live-Hack-CVE/CVE-2022-43014)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43014">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43014">
+
+---
 ## CVE-2022-43003 (2022-10-26T19:15:00)
 > D-Link DIR-816 A2 1.10 B05 was discovered to contain a stack overflow via the pskValue parameter in the setRepeaterSecurity function.
 - [Live-Hack-CVE/CVE-2022-43003](https://github.com/Live-Hack-CVE/CVE-2022-43003)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43003">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43003">
@@ -4477,6 +4522,16 @@
 - [maikroservice/CVE-2022-3949](https://github.com/maikroservice/CVE-2022-3949)	<img alt="forks" src="https://img.shields.io/github/forks/maikroservice/CVE-2022-3949">	<img alt="stars" src="https://img.shields.io/github/stars/maikroservice/CVE-2022-3949">
 
 ---
+## CVE-2022-39428 (2022-10-18T21:15:00)
+> Vulnerability in the Oracle Web Applications Desktop Integrator product of Oracle E-Business Suite (component: Upload). Supported versions that are affected are 12.2.3-12.2.11. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Web Applications Desktop Integrator. Successful attacks of this vulnerability can result in takeover of Oracle Web Applications Desktop Integrator. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).
+- [Live-Hack-CVE/CVE-2022-39428](https://github.com/Live-Hack-CVE/CVE-2022-39428)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39428">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39428">
+
+---
+## CVE-2022-39427 (2022-10-18T21:15:00)
+> Vulnerability in the Oracle VM VirtualBox product of Oracle Virtualization (component: Core). Supported versions that are affected are Prior to 6.1.40. Easily exploitable vulnerability allows low privileged attacker with logon to the infrastructure where Oracle VM VirtualBox executes to compromise Oracle VM VirtualBox. While the vulnerability is in Oracle VM VirtualBox, attacks may significantly impact additional products (scope change). Successful attacks of this vulnerability can result in takeover of Oracle VM VirtualBox. Note: This vulnerability applies to Windows systems only. CVSS 3.1 Base Score 8.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H).
+- [Live-Hack-CVE/CVE-2022-39427](https://github.com/Live-Hack-CVE/CVE-2022-39427)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39427">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39427">
+
+---
 ## CVE-2022-39426 (2022-10-18T21:15:00)
 > Vulnerability in the Oracle VM VirtualBox product of Oracle Virtualization (component: Core). Supported versions that are affected are Prior to 6.1.40. Difficult to exploit vulnerability allows unauthenticated attacker with network access via VRDP to compromise Oracle VM VirtualBox. Successful attacks of this vulnerability can result in takeover of Oracle VM VirtualBox. CVSS 3.1 Base Score 8.1 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H).
 - [Live-Hack-CVE/CVE-2022-39426](https://github.com/Live-Hack-CVE/CVE-2022-39426)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39426">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39426">
@@ -4508,6 +4563,11 @@
 - [Live-Hack-CVE/CVE-2022-39421](https://github.com/Live-Hack-CVE/CVE-2022-39421)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39421">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39421">
 
 ---
+## CVE-2022-39420 (2022-10-18T21:15:00)
+> Vulnerability in the Oracle Transportation Management product of Oracle Supply Chain (component: Data, Functional Security). Supported versions that are affected are 6.4.3 and 6.5.1. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise Oracle Transportation Management. Successful attacks of this vulnerability can result in unauthorized update, insert or delete access to some of Oracle Transportation Management accessible data as well as unauthorized read access to a subset of Oracle Transportation Management accessible data. CVSS 3.1 Base Score 5.4 (Confidentiality and Integrity impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:L/A:N).
+- [Live-Hack-CVE/CVE-2022-39420](https://github.com/Live-Hack-CVE/CVE-2022-39420)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39420">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39420">
+
+---
 ## CVE-2022-3942 (2022-11-11T08:15:00)
 > A vulnerability was found in SourceCodester Sanitization Management System and classified as problematic. This issue affects some unknown processing of the file php-sms/?p=request_quote. The manipulation leads to cross site scripting. The attack may be initiated remotely. The identifier VDB-213449 was assigned to this vulnerability.
 - [maikroservice/CVE-2022-3942](https://github.com/maikroservice/CVE-2022-3942)	<img alt="forks" src="https://img.shields.io/github/forks/maikroservice/CVE-2022-3942">	<img alt="stars" src="https://img.shields.io/github/stars/maikroservice/CVE-2022-3942">
@@ -4527,6 +4587,36 @@
 ## CVE-2022-39412 (2022-10-18T21:15:00)
 > Vulnerability in the Oracle Access Manager product of Oracle Fusion Middleware (component: Admin Console). The supported version that is affected is 12.2.1.4.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Access Manager. Successful attacks of this vulnerability can result in unauthorized access to critical data or complete access to all Oracle Access Manager accessible data. CVSS 3.1 Base Score 7.5 (Confidentiality impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N).
 - [Live-Hack-CVE/CVE-2022-39412](https://github.com/Live-Hack-CVE/CVE-2022-39412)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39412">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39412">
+
+---
+## CVE-2022-39411 (2022-10-18T21:15:00)
+> Vulnerability in the Oracle Transportation Management product of Oracle Supply Chain (component: Business Process Automation). Supported versions that are affected are 6.4.3 and 6.5.1. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle Transportation Management. Successful attacks of this vulnerability can result in unauthorized access to critical data or complete access to all Oracle Transportation Management accessible data. CVSS 3.1 Base Score 4.9 (Confidentiality impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:N/A:N).
+- [Live-Hack-CVE/CVE-2022-39411](https://github.com/Live-Hack-CVE/CVE-2022-39411)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39411">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39411">
+
+---
+## CVE-2022-39409 (2022-10-18T21:15:00)
+> Vulnerability in the Oracle Transportation Management product of Oracle Supply Chain (component: Business Process Automation). Supported versions that are affected are 6.4.3 and 6.5.1. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle Transportation Management. Successful attacks of this vulnerability can result in unauthorized ability to cause a partial denial of service (partial DOS) of Oracle Transportation Management. CVSS 3.1 Base Score 2.7 (Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:L).
+- [Live-Hack-CVE/CVE-2022-39409](https://github.com/Live-Hack-CVE/CVE-2022-39409)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39409">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39409">
+
+---
+## CVE-2022-39407 (2022-10-18T21:15:00)
+> Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Security). Supported versions that are affected are 8.58, 8.59 and 8.60. Easily exploitable vulnerability allows low privileged attacker with logon to the infrastructure where PeopleSoft Enterprise PeopleTools executes to compromise PeopleSoft Enterprise PeopleTools. Successful attacks of this vulnerability can result in unauthorized access to critical data or complete access to all PeopleSoft Enterprise PeopleTools accessible data. CVSS 3.1 Base Score 5.5 (Confidentiality impacts). CVSS Vector: (CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N).
+- [Live-Hack-CVE/CVE-2022-39407](https://github.com/Live-Hack-CVE/CVE-2022-39407)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39407">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39407">
+
+---
+## CVE-2022-39406 (2022-10-18T21:15:00)
+> Vulnerability in the PeopleSoft Enterprise Common Components product of Oracle PeopleSoft (component: Approval Framework). The supported version that is affected is 9.2. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise PeopleSoft Enterprise Common Components. Successful attacks of this vulnerability can result in unauthorized creation, deletion or modification access to critical data or all PeopleSoft Enterprise Common Components accessible data as well as unauthorized access to critical data or complete access to all PeopleSoft Enterprise Common Components accessible data. CVSS 3.1 Base Score 8.1 (Confidentiality and Integrity impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:N).
+- [Live-Hack-CVE/CVE-2022-39406](https://github.com/Live-Hack-CVE/CVE-2022-39406)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39406">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39406">
+
+---
+## CVE-2022-39404 (2022-10-18T21:15:00)
+> Vulnerability in the MySQL Installer product of Oracle MySQL (component: Installer: General). Supported versions that are affected are 1.6.3 and prior. Difficult to exploit vulnerability allows low privileged attacker with logon to the infrastructure where MySQL Installer executes to compromise MySQL Installer. Successful attacks require human interaction from a person other than the attacker. Successful attacks of this vulnerability can result in unauthorized update, insert or delete access to some of MySQL Installer accessible data as well as unauthorized read access to a subset of MySQL Installer accessible data and unauthorized ability to cause a partial denial of service (partial DOS) of MySQL Installer. CVSS 3.1 Base Score 4.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:L/AC:H/PR:L/UI:R/S:U/C:L/I:L/A:L).
+- [Live-Hack-CVE/CVE-2022-39404](https://github.com/Live-Hack-CVE/CVE-2022-39404)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39404">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39404">
+
+---
+## CVE-2022-39402 (2022-10-18T21:15:00)
+> Vulnerability in the MySQL Shell product of Oracle MySQL (component: Shell: Core Client). Supported versions that are affected are 8.0.30 and prior. Easily exploitable vulnerability allows unauthenticated attacker with logon to the infrastructure where MySQL Shell executes to compromise MySQL Shell. While the vulnerability is in MySQL Shell, attacks may significantly impact additional products (scope change). Successful attacks of this vulnerability can result in unauthorized read access to a subset of MySQL Shell accessible data. CVSS 3.1 Base Score 4.3 (Confidentiality impacts). CVSS Vector: (CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:C/C:L/I:N/A:N).
+- [Live-Hack-CVE/CVE-2022-39402](https://github.com/Live-Hack-CVE/CVE-2022-39402)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39402">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39402">
 
 ---
 ## CVE-2022-39399 (2022-10-18T21:15:00)
@@ -5110,9 +5200,24 @@
 - [Live-Hack-CVE/CVE-2022-38435](https://github.com/Live-Hack-CVE/CVE-2022-38435)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38435">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38435">
 
 ---
+## CVE-2022-38421 (2022-10-14T20:15:00)
+> Adobe ColdFusion versions Update 14 (and earlier) and Update 4 (and earlier) are affected by an Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue does not require user interaction, but does require administrator privileges.
+- [Live-Hack-CVE/CVE-2022-38421](https://github.com/Live-Hack-CVE/CVE-2022-38421)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38421">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38421">
+
+---
+## CVE-2022-38420 (2022-10-14T20:15:00)
+> Adobe ColdFusion versions Update 14 (and earlier) and Update 4 (and earlier) are affected by a Use of Hard-coded Credentials vulnerability that could result in application denial-of-service by gaining access to start/stop arbitrary services. Exploitation of this issue does not require user interaction.
+- [Live-Hack-CVE/CVE-2022-38420](https://github.com/Live-Hack-CVE/CVE-2022-38420)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38420">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38420">
+
+---
 ## CVE-2022-38419 (2022-10-14T20:15:00)
 > Adobe ColdFusion versions Update 14 (and earlier) and Update 4 (and earlier) are affected by an Improper Restriction of XML External Entity Reference ('XXE') vulnerability that could result in arbitrary file system read. Exploitation of this issue does not require user interaction.
 - [Live-Hack-CVE/CVE-2022-38419](https://github.com/Live-Hack-CVE/CVE-2022-38419)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38419">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38419">
+
+---
+## CVE-2022-38418 (2022-10-14T20:15:00)
+> Adobe ColdFusion versions Update 14 (and earlier) and Update 4 (and earlier) are affected by an Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue does not require user interaction.
+- [Live-Hack-CVE/CVE-2022-38418](https://github.com/Live-Hack-CVE/CVE-2022-38418)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38418">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38418">
 
 ---
 ## CVE-2022-38379 (2022-12-06T17:15:00)
@@ -6296,6 +6401,21 @@
 ## CVE-2022-35730 (2022-12-04T23:15:00)
 > Cross-Site Request Forgery (CSRF) vulnerability in Oceanwp sticky header plugin <= 1.0.8 on WordPress.
 - [Live-Hack-CVE/CVE-2022-35730](https://github.com/Live-Hack-CVE/CVE-2022-35730)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35730">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35730">
+
+---
+## CVE-2022-35712 (2022-10-14T20:15:00)
+> Adobe ColdFusion versions Update 14 (and earlier) and Update 4 (and earlier) are affected by a Heap-based Buffer Overflow vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue does not require user interaction, the vulnerability is triggered when a crafted network packet is sent to the server.
+- [Live-Hack-CVE/CVE-2022-35712](https://github.com/Live-Hack-CVE/CVE-2022-35712)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35712">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35712">
+
+---
+## CVE-2022-35711 (2022-10-14T20:15:00)
+> Adobe ColdFusion versions Update 14 (and earlier) and Update 4 (and earlier) are affected by a Heap-based Buffer Overflow vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue does not require user interaction, the vulnerability is triggered when a crafted network packet is sent to the server.
+- [Live-Hack-CVE/CVE-2022-35711](https://github.com/Live-Hack-CVE/CVE-2022-35711)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35711">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35711">
+
+---
+## CVE-2022-35710 (2022-10-14T20:15:00)
+> Adobe ColdFusion versions Update 14 (and earlier) and Update 4 (and earlier) are affected by a Stack-based Buffer Overflow vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue does not require user interaction, the vulnerability is triggered when a crafted network packet is sent to the server.
+- [Live-Hack-CVE/CVE-2022-35710](https://github.com/Live-Hack-CVE/CVE-2022-35710)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35710">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35710">
 
 ---
 ## CVE-2022-35695 (2022-12-19T20:15:00)
@@ -10212,6 +10332,31 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-21639](https://github.com/Live-Hack-CVE/CVE-2022-21639)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21639">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21639">
 
 ---
+## CVE-2022-21636 (2022-10-18T21:15:00)
+> Vulnerability in the Oracle Applications Framework product of Oracle E-Business Suite (component: Session Management). Supported versions that are affected are 12.2.6-12.2.11. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise Oracle Applications Framework. Successful attacks of this vulnerability can result in unauthorized access to critical data or complete access to all Oracle Applications Framework accessible data. CVSS 3.1 Base Score 6.5 (Confidentiality impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N).
+- [Live-Hack-CVE/CVE-2022-21636](https://github.com/Live-Hack-CVE/CVE-2022-21636)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21636">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21636">
+
+---
+## CVE-2022-21634 (2022-10-18T21:15:00)
+> Vulnerability in the Oracle GraalVM Enterprise Edition product of Oracle Java SE (component: LLVM Interpreter). Supported versions that are affected are Oracle GraalVM Enterprise Edition: 20.3.7, 21.3.3 and 22.2.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise Oracle GraalVM Enterprise Edition. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of Oracle GraalVM Enterprise Edition. CVSS 3.1 Base Score 7.5 (Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H).
+- [Live-Hack-CVE/CVE-2022-21634](https://github.com/Live-Hack-CVE/CVE-2022-21634)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21634">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21634">
+
+---
+## CVE-2022-21631 (2022-10-18T21:15:00)
+> Vulnerability in the JD Edwards EnterpriseOne Tools product of Oracle JD Edwards (component: Design Tools SEC). Supported versions that are affected are 9.2.6.4 and prior. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise JD Edwards EnterpriseOne Tools. Successful attacks require human interaction from a person other than the attacker and while the vulnerability is in JD Edwards EnterpriseOne Tools, attacks may significantly impact additional products (scope change). Successful attacks of this vulnerability can result in unauthorized update, insert or delete access to some of JD Edwards EnterpriseOne Tools accessible data as well as unauthorized read access to a subset of JD Edwards EnterpriseOne Tools accessible data. CVSS 3.1 Base Score 6.1 (Confidentiality and Integrity impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N).
+- [Live-Hack-CVE/CVE-2022-21631](https://github.com/Live-Hack-CVE/CVE-2022-21631)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21631">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21631">
+
+---
+## CVE-2022-21630 (2022-10-18T21:15:00)
+> Vulnerability in the JD Edwards EnterpriseOne Tools product of Oracle JD Edwards (component: Web Runtime SEC). Supported versions that are affected are 9.2.6.4 and prior. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise JD Edwards EnterpriseOne Tools. Successful attacks require human interaction from a person other than the attacker and while the vulnerability is in JD Edwards EnterpriseOne Tools, attacks may significantly impact additional products (scope change). Successful attacks of this vulnerability can result in unauthorized update, insert or delete access to some of JD Edwards EnterpriseOne Tools accessible data as well as unauthorized read access to a subset of JD Edwards EnterpriseOne Tools accessible data. CVSS 3.1 Base Score 6.1 (Confidentiality and Integrity impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N).
+- [Live-Hack-CVE/CVE-2022-21630](https://github.com/Live-Hack-CVE/CVE-2022-21630)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21630">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21630">
+
+---
+## CVE-2022-21629 (2022-10-18T21:15:00)
+> Vulnerability in the JD Edwards EnterpriseOne Tools product of Oracle JD Edwards (component: Web Runtime SEC). Supported versions that are affected are 9.2.6.4 and prior. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise JD Edwards EnterpriseOne Tools. Successful attacks require human interaction from a person other than the attacker and while the vulnerability is in JD Edwards EnterpriseOne Tools, attacks may significantly impact additional products (scope change). Successful attacks of this vulnerability can result in unauthorized update, insert or delete access to some of JD Edwards EnterpriseOne Tools accessible data as well as unauthorized read access to a subset of JD Edwards EnterpriseOne Tools accessible data. CVSS 3.1 Base Score 5.4 (Confidentiality and Integrity impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N).
+- [Live-Hack-CVE/CVE-2022-21629](https://github.com/Live-Hack-CVE/CVE-2022-21629)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21629">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21629">
+
+---
 ## CVE-2022-21628 (2022-10-18T21:15:00)
 > Vulnerability in the Oracle Java SE, Oracle GraalVM Enterprise Edition product of Oracle Java SE (component: Lightweight HTTP Server). Supported versions that are affected are Oracle Java SE: 8u341, 8u345-perf, 11.0.16.1, 17.0.4.1, 19; Oracle GraalVM Enterprise Edition: 20.3.7, 21.3.3 and 22.2.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Java SE, Oracle GraalVM Enterprise Edition. Successful attacks of this vulnerability can result in unauthorized ability to cause a partial denial of service (partial DOS) of Oracle Java SE, Oracle GraalVM Enterprise Edition. Note: This vulnerability applies to Java deployments, typically in clients running sandboxed Java Web Start applications or sandboxed Java applets, that load and run untrusted code (e.g., code that comes from the internet) and rely on the Java sandbox for security. This vulnerability does not apply to Java deployments, typically in servers, that load and run only trusted code (e.g., code installed by an administrator). CVSS 3.1 Base Score 5.3 (Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L).
 - [Live-Hack-CVE/CVE-2022-21628](https://github.com/Live-Hack-CVE/CVE-2022-21628)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21628">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21628">
@@ -10265,6 +10410,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-21614 (2022-10-18T21:15:00)
 > Vulnerability in the Oracle Enterprise Data Quality product of Oracle Fusion Middleware (component: Dashboard). Supported versions that are affected are 12.2.1.3.0 and 12.2.1.4.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Enterprise Data Quality. Successful attacks of this vulnerability can result in unauthorized access to critical data or complete access to all Oracle Enterprise Data Quality accessible data. CVSS 3.1 Base Score 7.5 (Confidentiality impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N).
 - [Live-Hack-CVE/CVE-2022-21614](https://github.com/Live-Hack-CVE/CVE-2022-21614)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21614">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21614">
+
+---
+## CVE-2022-21603 (2022-10-18T21:15:00)
+> Vulnerability in the Oracle Database - Sharding component of Oracle Database Server. Supported versions that are affected are 19c and 21c. Easily exploitable vulnerability allows high privileged attacker having Local Logon privilege with network access via Local Logon to compromise Oracle Database - Sharding. Successful attacks of this vulnerability can result in takeover of Oracle Database - Sharding. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).
+- [Live-Hack-CVE/CVE-2022-21603](https://github.com/Live-Hack-CVE/CVE-2022-21603)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21603">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21603">
 
 ---
 ## CVE-2022-21602 (2022-10-18T21:15:00)
