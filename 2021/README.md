@@ -896,6 +896,16 @@
 - [Live-Hack-CVE/CVE-2021-3995](https://github.com/Live-Hack-CVE/CVE-2021-3995)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3995">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3995">
 
 ---
+## CVE-2021-39926 (2021-11-19T17:15:00)
+> Buffer overflow in the Bluetooth HCI_ISO dissector in Wireshark 3.4.0 to 3.4.9 allows denial of service via packet injection or crafted capture file
+- [Live-Hack-CVE/CVE-2021-39926](https://github.com/Live-Hack-CVE/CVE-2021-39926)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39926">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39926">
+
+---
+## CVE-2021-39925 (2021-11-19T17:15:00)
+> Buffer overflow in the Bluetooth SDP dissector in Wireshark 3.4.0 to 3.4.9 and 3.2.0 to 3.2.17 allows denial of service via packet injection or crafted capture file
+- [Live-Hack-CVE/CVE-2021-39925](https://github.com/Live-Hack-CVE/CVE-2021-39925)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39925">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39925">
+
+---
 ## CVE-2021-39924 (2021-11-19T17:15:00)
 > Large loop in the Bluetooth DHT dissector in Wireshark 3.4.0 to 3.4.9 and 3.2.0 to 3.2.17 allows denial of service via packet injection or crafted capture file
 - [Live-Hack-CVE/CVE-2021-39924](https://github.com/Live-Hack-CVE/CVE-2021-39924)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39924">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39924">
