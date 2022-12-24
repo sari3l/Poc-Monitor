@@ -553,6 +553,11 @@
 - [Live-Hack-CVE/CVE-2020-36607](https://github.com/Live-Hack-CVE/CVE-2020-36607)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36607">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36607">
 
 ---
+## CVE-2020-36521 (2022-09-23T19:15:00)
+> An out-of-bounds read was addressed with improved input validation. This issue is fixed in iCloud for Windows 11.4, iOS 14.0 and iPadOS 14.0, watchOS 7.0, tvOS 14.0, iCloud for Windows 7.21, iTunes for Windows 12.10.9. Processing a maliciously crafted tiff file may lead to a denial-of-service or potentially disclose memory contents.
+- [Live-Hack-CVE/CVE-2020-36521](https://github.com/Live-Hack-CVE/CVE-2020-36521)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36521">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36521">
+
+---
 ## CVE-2020-36322 (2021-04-14T06:15:00)
 > An issue was discovered in the FUSE filesystem implementation in the Linux kernel before 5.10.6, aka CID-5d069dbe8aaf. fuse_do_getattr() calls make_bad_inode() in inappropriate situations, causing a system crash. NOTE: the original fix for this vulnerability was incomplete, and its incompleteness is tracked as CVE-2021-28950.
 - [Live-Hack-CVE/CVE-2020-36322](https://github.com/Live-Hack-CVE/CVE-2020-36322)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36322">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36322">

@@ -670,6 +670,26 @@
 - [Live-Hack-CVE/CVE-2017-0888](https://github.com/Live-Hack-CVE/CVE-2017-0888)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-0888">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-0888">
 
 ---
+## CVE-2017-0887 (2017-04-05T20:59:00)
+> Nextcloud Server before 9.0.55 and 10.0.2 suffers from a bypass in the quota limitation. Due to not properly sanitizing values provided by the `OC-Total-Length` HTTP header an authenticated adversary may be able to exceed their configured user quota. Thus using more space than allowed by the administrator.
+- [Live-Hack-CVE/CVE-2017-0887](https://github.com/Live-Hack-CVE/CVE-2017-0887)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-0887">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-0887">
+
+---
+## CVE-2017-0886 (2017-04-05T20:59:00)
+> Nextcloud Server before 9.0.55 and 10.0.2 suffers from a Denial of Service attack. Due to an error in the application logic an authenticated adversary may trigger an endless recursion in the application leading to a potential Denial of Service.
+- [Live-Hack-CVE/CVE-2017-0886](https://github.com/Live-Hack-CVE/CVE-2017-0886)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-0886">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-0886">
+
+---
+## CVE-2017-0885 (2017-04-05T20:59:00)
+> Nextcloud Server before 9.0.55 and 10.0.2 suffers from a error message disclosing existence of file in write-only share. Due to an error in the application logic an adversary with access to a write-only share may enumerate the names of existing files and subfolders by comparing the exception messages.
+- [Live-Hack-CVE/CVE-2017-0885](https://github.com/Live-Hack-CVE/CVE-2017-0885)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-0885">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-0885">
+
+---
+## CVE-2017-0884 (2017-04-05T20:59:00)
+> Nextcloud Server before 9.0.55 and 10.0.2 suffers from a creation of folders in read-only folders despite lacking permissions issue. Due to a logical error in the file caching layer an authenticated adversary is able to create empty folders inside a shared folder. Note that this only affects folders and files that the adversary has at least read-only permissions for.
+- [Live-Hack-CVE/CVE-2017-0884](https://github.com/Live-Hack-CVE/CVE-2017-0884)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-0884">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-0884">
+
+---
 ## CVE-2017-0785 (2017-09-14T19:29:00)
 > A information disclosure vulnerability in the Android system (bluetooth). Product: Android. Versions: 4.4.4, 5.0.2, 5.1.1, 6.0, 6.0.1, 7.0, 7.1.1, 7.1.2, 8.0. Android ID: A-63146698.
 - [Joanmei/CVE-2017-0785](https://github.com/Joanmei/CVE-2017-0785)	<img alt="forks" src="https://img.shields.io/github/forks/Joanmei/CVE-2017-0785">	<img alt="stars" src="https://img.shields.io/github/stars/Joanmei/CVE-2017-0785">
