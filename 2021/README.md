@@ -3059,6 +3059,11 @@
 - [advanced-security/codeql-workshop-cve-2021-21380](https://github.com/advanced-security/codeql-workshop-cve-2021-21380)	<img alt="forks" src="https://img.shields.io/github/forks/advanced-security/codeql-workshop-cve-2021-21380">	<img alt="stars" src="https://img.shields.io/github/stars/advanced-security/codeql-workshop-cve-2021-21380">
 
 ---
+## CVE-2021-21362 (2021-03-08T19:15:00)
+> MinIO is an open-source high performance object storage service and it is API compatible with Amazon S3 cloud storage service. In MinIO before version RELEASE.2021-03-04T00-53-13Z it is possible to bypass a readOnly policy by creating a temporary 'mc share upload' URL. Everyone is impacted who uses MinIO multi-users. This is fixed in version RELEASE.2021-03-04T00-53-13Z. As a workaround, one can disable uploads with `Content-Type: multipart/form-data` as mentioned in the S3 API RESTObjectPOST docs by using a proxy in front of MinIO.
+- [Live-Hack-CVE/CVE-2021-21362](https://github.com/Live-Hack-CVE/CVE-2021-21362)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21362">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21362">
+
+---
 ## CVE-2021-21304 (2021-02-08T18:15:00)
 > Dynamoose is an open-source modeling tool for Amazon's DynamoDB. In Dynamoose from version 2.0.0 and before version 2.7.0 there was a prototype pollution vulnerability in the internal utility method "lib/utils/object/set.ts". This method is used throughout the codebase for various operations throughout Dynamoose. We have not seen any evidence of this vulnerability being exploited. There is no evidence this vulnerability impacts versions 1.x.x since the vulnerable method was added as part of the v2 rewrite. This vulnerability also impacts v2.x.x beta/alpha versions. Version 2.7.0 includes a patch for this vulnerability.
 - [Live-Hack-CVE/CVE-2021-21304](https://github.com/Live-Hack-CVE/CVE-2021-21304)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21304">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21304">
@@ -3091,6 +3096,11 @@
 ## CVE-2021-21297 (2021-02-26T17:15:00)
 > Node-Red is a low-code programming for event-driven applications built using nodejs. Node-RED 1.2.7 and earlier contains a Prototype Pollution vulnerability in the admin API. A badly formed request can modify the prototype of the default JavaScript Object with the potential to affect the default behaviour of the Node-RED runtime. The vulnerability is patched in the 1.2.8 release. A workaround is to ensure only authorized users are able to access the editor url.
 - [Live-Hack-CVE/CVE-2021-21297](https://github.com/Live-Hack-CVE/CVE-2021-21297)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21297">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21297">
+
+---
+## CVE-2021-21296 (2021-02-10T20:15:00)
+> Fleet is an open source osquery manager. In Fleet before version 3.7.0 a malicious actor with a valid node key can send a badly formatted request that causes the Fleet server to exit, resulting in denial of service. This is possible only while a live query is currently ongoing. We believe the impact of this vulnerability to be low given the requirement that the actor has a valid node key. There is no information disclosure, privilege escalation, or code execution. The issue is fixed in Fleet 3.7.0.
+- [Live-Hack-CVE/CVE-2021-21296](https://github.com/Live-Hack-CVE/CVE-2021-21296)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21296">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21296">
 
 ---
 ## CVE-2021-21272 (2021-01-25T19:15:00)

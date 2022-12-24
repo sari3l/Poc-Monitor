@@ -55,6 +55,11 @@
 - [s3rgeym/cve-2020-9006](https://github.com/s3rgeym/cve-2020-9006)	<img alt="forks" src="https://img.shields.io/github/forks/s3rgeym/cve-2020-9006">	<img alt="stars" src="https://img.shields.io/github/stars/s3rgeym/cve-2020-9006">
 
 ---
+## CVE-2020-8974 (2022-10-17T22:15:00)
+> In ZGR TPS200 NG 2.00 firmware version and 1.01 hardware version, the firmware upload process does not perform any type of restriction. This allows an attacker to modify it and re-upload it via web with malicious modifications, rendering the device unusable.
+- [Live-Hack-CVE/CVE-2020-8974](https://github.com/Live-Hack-CVE/CVE-2020-8974)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8974">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8974">
+
+---
 ## CVE-2020-8825 (2020-02-10T12:15:00)
 > index.php?p=/dashboard/settings/branding in Vanilla 2.6.3 allows stored XSS.
 - [hacky1997/CVE-2020-8825](https://github.com/hacky1997/CVE-2020-8825)	<img alt="forks" src="https://img.shields.io/github/forks/hacky1997/CVE-2020-8825">	<img alt="stars" src="https://img.shields.io/github/stars/hacky1997/CVE-2020-8825">
