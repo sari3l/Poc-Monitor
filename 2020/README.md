@@ -895,6 +895,7 @@
 ## CVE-2020-27249 (2021-02-04T07:15:00)
 > A specially crafted document can cause the document parser to copy data from a particular record type into a static-sized buffer within an object that is smaller than the size used for the copy, which will cause a heap-based buffer overflow. In version/Instance 0x0004 and 0x0015, an attacker can entice the victim to open a document to trigger this vulnerability. This affects SoftMaker Software GmbH SoftMaker Office PlanMaker 2021 (Revision 1014).
 - [Live-Hack-CVE/CVE-2020-27249](https://github.com/Live-Hack-CVE/CVE-2020-27249)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27249">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27249">
+- [Alonzozzz/alonzzzo](https://github.com/Alonzozzz/alonzzzo)	<img alt="forks" src="https://img.shields.io/github/forks/Alonzozzz/alonzzzo">	<img alt="stars" src="https://img.shields.io/github/stars/Alonzozzz/alonzzzo">
 
 ---
 ## CVE-2020-27199 (2020-12-17T05:15:00)
