@@ -5728,6 +5728,11 @@
 - [Live-Hack-CVE/CVE-2022-3801](https://github.com/Live-Hack-CVE/CVE-2022-3801)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3801">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3801">
 
 ---
+## CVE-2022-38000 (2022-10-11T19:15:00)
+> Windows Point-to-Point Tunneling Protocol Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-22035, CVE-2022-24504, CVE-2022-30198, CVE-2022-33634, CVE-2022-38047, CVE-2022-41081.
+- [Live-Hack-CVE/CVE-2022-38000](https://github.com/Live-Hack-CVE/CVE-2022-38000)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38000">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38000">
+
+---
 ## CVE-2022-3800 (2022-11-01T16:15:00)
 > A vulnerability, which was classified as critical, has been found in IBAX go-ibax. Affected by this issue is some unknown functionality of the file /api/v2/open/rowsInfo. The manipulation of the argument table_name leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-212636.
 - [Live-Hack-CVE/CVE-2022-3800](https://github.com/Live-Hack-CVE/CVE-2022-3800)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3800">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3800">
@@ -6089,6 +6094,7 @@
 ## CVE-2022-37208 (2022-10-13T12:15:00)
 > JFinal CMS 5.1.0 is vulnerable to SQL Injection. These interfaces do not use the same component, nor do they have filters, but each uses its own SQL concatenation method, resulting in SQL injection.
 - [AgainstTheLight/CVE-2022-37208](https://github.com/AgainstTheLight/CVE-2022-37208)	<img alt="forks" src="https://img.shields.io/github/forks/AgainstTheLight/CVE-2022-37208">	<img alt="stars" src="https://img.shields.io/github/stars/AgainstTheLight/CVE-2022-37208">
+- [Live-Hack-CVE/CVE-2022-37208](https://github.com/Live-Hack-CVE/CVE-2022-37208)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37208">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37208">
 
 ---
 ## CVE-2022-37207 (2022-09-15T15:15:00)
@@ -7139,6 +7145,11 @@
 > A vulnerability classified as critical was found in Mediabridge Medialink. This vulnerability affects unknown code of the file /index.asp. The manipulation leads to improper authentication. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-210700.
 - [Live-Hack-CVE/CVE-2022-3465](https://github.com/Live-Hack-CVE/CVE-2022-3465)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3465">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3465">
 - [Live-Hack-CVE/CVE-2022-34654](https://github.com/Live-Hack-CVE/CVE-2022-34654)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34654">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34654">
+
+---
+## CVE-2022-3458 (2022-10-12T07:15:00)
+> A vulnerability has been found in SourceCodester Human Resource Management System 1.0 and classified as critical. Affected by this vulnerability is an unknown functionality of the file /employeeview.php of the component Image File Handler. The manipulation leads to unrestricted upload. The attack can be launched remotely. The associated identifier of this vulnerability is VDB-210559.
+- [Live-Hack-CVE/CVE-2022-3458](https://github.com/Live-Hack-CVE/CVE-2022-3458)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3458">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3458">
 
 ---
 ## CVE-2022-3457 (2022-10-13T20:15:00)
@@ -11665,6 +11676,21 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-20436](https://github.com/Live-Hack-CVE/CVE-2022-20436)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20436">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20436">
 
 ---
+## CVE-2022-20429 (2022-10-11T20:15:00)
+> In CarSettings of app packages, there is a possible permission bypass due to a confused deputy. This could lead to local escalation of privilege in Bluetooth settings with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12LAndroid ID: A-220741473
+- [Live-Hack-CVE/CVE-2022-20429](https://github.com/Live-Hack-CVE/CVE-2022-20429)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20429">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20429">
+
+---
+## CVE-2022-20425 (2022-10-11T20:15:00)
+> In addAutomaticZenRule of ZenModeHelper.java, there is a possible permanent degradation of performance due to resource exhaustion. This could lead to local denial of service with User execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-235823407
+- [Live-Hack-CVE/CVE-2022-20425](https://github.com/Live-Hack-CVE/CVE-2022-20425)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20425">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20425">
+
+---
+## CVE-2022-20423 (2022-10-11T20:15:00)
+> In rndis_set_response of rndis.c, there is a possible out of bounds write due to an integer overflow. This could lead to local escalation of privilege if a malicious USB device is attached with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-239842288References: Upstream kernel
+- [Live-Hack-CVE/CVE-2022-20423](https://github.com/Live-Hack-CVE/CVE-2022-20423)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20423">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20423">
+
+---
 ## CVE-2022-20422 (2022-10-11T20:15:00)
 > In emulation_proc_handler of armv8_deprecated.c, there is a possible way to corrupt memory due to a race condition. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-237540956References: Upstream kernel
 - [Live-Hack-CVE/CVE-2022-20422](https://github.com/Live-Hack-CVE/CVE-2022-20422)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20422">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20422">
@@ -11678,6 +11704,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-2042 (2022-06-10T19:15:00)
 > Use After Free in GitHub repository vim/vim prior to 8.2.
 - [Live-Hack-CVE/CVE-2022-2042](https://github.com/Live-Hack-CVE/CVE-2022-2042)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2042">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2042">
+
+---
+## CVE-2022-20419 (2022-10-11T20:15:00)
+> In setOptions of ActivityRecord.java, there is a possible load any arbitrary Java code into launcher process due to a logic error in the code. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-12L Android-13Android ID: A-237290578
+- [Live-Hack-CVE/CVE-2022-20419](https://github.com/Live-Hack-CVE/CVE-2022-20419)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20419">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20419">
 
 ---
 ## CVE-2022-20364 (2022-09-14T16:15:00)
