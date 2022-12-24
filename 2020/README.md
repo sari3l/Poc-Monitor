@@ -1380,6 +1380,16 @@
 - [Live-Hack-CVE/CVE-2020-14155](https://github.com/Live-Hack-CVE/CVE-2020-14155)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14155">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14155">
 
 ---
+## CVE-2020-14131 (2022-10-11T20:15:00)
+> The Xiaomi Security Center expresses heartfelt thanks to ADLab of VenusTech ! At the same time, we also welcome more outstanding and professional security experts and security teams to join the Mi Security Center (MiSRC) to jointly ensure the safe access of millions of Xiaomi users worldwide Life.
+- [Live-Hack-CVE/CVE-2020-14131](https://github.com/Live-Hack-CVE/CVE-2020-14131)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14131">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14131">
+
+---
+## CVE-2020-14129 (2022-10-11T20:15:00)
+> A logic vulnerability exists in a Xiaomi product. The vulnerability is caused by an identity verification failure, which can be exploited by an attacker who can obtain a brief elevation of privilege.
+- [Live-Hack-CVE/CVE-2020-14129](https://github.com/Live-Hack-CVE/CVE-2020-14129)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14129">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14129">
+
+---
 ## CVE-2020-14044 (2020-08-24T16:15:00)
 > ** PRODUCT NOT SUPPORTED WHEN ASSIGNED ** A Server-Side Request Forgery (SSRF) vulnerability was found in Codiad v1.7.8 and later. A user with admin privileges could use the plugin install feature to make the server request any URL via components/market/class.market.php. This could potentially result in remote code execution. NOTE: the vendor states "Codiad is no longer under active maintenance by core contributors."
 - [Live-Hack-CVE/CVE-2020-14044](https://github.com/Live-Hack-CVE/CVE-2020-14044)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14044">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14044">
