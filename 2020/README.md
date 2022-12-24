@@ -644,6 +644,7 @@
 ## CVE-2020-2688 (2020-01-15T17:15:00)
 > Vulnerability in the Oracle Financial Services Analytical Applications Infrastructure product of Oracle Financial Services Applications (component: Object Migration). Supported versions that are affected are 8.0.4-8.0.8. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise Oracle Financial Services Analytical Applications Infrastructure. Successful attacks of this vulnerability can result in unauthorized access to critical data or complete access to all Oracle Financial Services Analytical Applications Infrastructure accessible data as well as unauthorized update, insert or delete access to some of Oracle Financial Services Analytical Applications Infrastructure accessible data. CVSS 3.0 Base Score 7.1 (Confidentiality and Integrity impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:L/A:N).
 - [Live-Hack-CVE/CVE-2020-2688](https://github.com/Live-Hack-CVE/CVE-2020-2688)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2688">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2688">
+- [Live-Hack-CVE/CVE-2020-26880](https://github.com/Live-Hack-CVE/CVE-2020-26880)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-26880">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-26880">
 
 ---
 ## CVE-2020-26878 (2020-10-26T20:15:00)
@@ -722,6 +723,9 @@
 ## CVE-2020-2559 (2020-01-15T17:15:00)
 > Vulnerability in the Siebel UI Framework product of Oracle Siebel CRM (component: UIF Open UI). Supported versions that are affected are 19.7 and prior. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Siebel UI Framework. Successful attacks of this vulnerability can result in unauthorized read access to a subset of Siebel UI Framework accessible data. CVSS 3.0 Base Score 5.3 (Confidentiality impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N).
 - [Live-Hack-CVE/CVE-2020-2559](https://github.com/Live-Hack-CVE/CVE-2020-2559)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2559">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2559">
+- [Live-Hack-CVE/CVE-2020-25596](https://github.com/Live-Hack-CVE/CVE-2020-25596)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25596">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25596">
+- [Live-Hack-CVE/CVE-2020-25598](https://github.com/Live-Hack-CVE/CVE-2020-25598)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25598">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25598">
+- [Live-Hack-CVE/CVE-2020-25595](https://github.com/Live-Hack-CVE/CVE-2020-25595)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25595">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25595">
 
 ---
 ## CVE-2020-2558 (2020-01-15T17:15:00)
