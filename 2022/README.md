@@ -10299,6 +10299,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1096 (2022-07-23T00:15:00)
 > Type confusion in V8 in Google Chrome prior to 99.0.4844.84 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
 - [Live-Hack-CVE/CVE-2022-1096](https://github.com/Live-Hack-CVE/CVE-2022-1096)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1096">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1096">
+- [Mav3r1ck0x1/Chrome-and-Edge-Version-Dumper](https://github.com/Mav3r1ck0x1/Chrome-and-Edge-Version-Dumper)	<img alt="forks" src="https://img.shields.io/github/forks/Mav3r1ck0x1/Chrome-and-Edge-Version-Dumper">	<img alt="stars" src="https://img.shields.io/github/stars/Mav3r1ck0x1/Chrome-and-Edge-Version-Dumper">
 
 ---
 ## CVE-2022-1095 (2022-06-27T09:15:00)
