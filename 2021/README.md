@@ -511,6 +511,11 @@
 - [Live-Hack-CVE/CVE-2021-42192](https://github.com/Live-Hack-CVE/CVE-2021-42192)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42192">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42192">
 
 ---
+## CVE-2021-4209 (2022-08-24T16:15:00)
+> A NULL pointer dereference flaw was found in GnuTLS. As Nettle's hash update functions internally call memcpy, providing zero-length input may cause undefined behavior. This flaw leads to a denial of service after authentication in rare circumstances.
+- [Live-Hack-CVE/CVE-2021-4209](https://github.com/Live-Hack-CVE/CVE-2021-4209)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4209">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4209">
+
+---
 ## CVE-2021-4203 (2022-03-25T19:15:00)
 > A use-after-free read flaw was found in sock_getsockopt() in net/core/sock.c due to SO_PEERCRED and SO_PEERGROUPS race with listen() (and connect()) in the Linux kernel. In this flaw, an attacker with a user privileges may crash the system or leak internal kernel information.
 - [Live-Hack-CVE/CVE-2021-4203](https://github.com/Live-Hack-CVE/CVE-2021-4203)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4203">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4203">
@@ -1135,6 +1140,21 @@
 - [core1impact/CVE-2021-38163](https://github.com/core1impact/CVE-2021-38163)	<img alt="forks" src="https://img.shields.io/github/forks/core1impact/CVE-2021-38163">	<img alt="stars" src="https://img.shields.io/github/stars/core1impact/CVE-2021-38163">
 
 ---
+## CVE-2021-3793 (2021-11-12T22:15:00)
+> An improper access control vulnerability was reported in some Motorola-branded Binatone Hubble Cameras which could allow an unauthenticated attacker on the same network as the device to access administrative pages that could result in information disclosure or device firmware update with verified firmware.
+- [Live-Hack-CVE/CVE-2021-3793](https://github.com/Live-Hack-CVE/CVE-2021-3793)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3793">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3793">
+
+---
+## CVE-2021-3788 (2021-11-12T22:15:00)
+> An exposed debug interface was reported in some Motorola-branded Binatone Hubble Cameras that could allow an attacker with physical access unauthorized access to the device.
+- [Live-Hack-CVE/CVE-2021-3788](https://github.com/Live-Hack-CVE/CVE-2021-3788)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3788">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3788">
+
+---
+## CVE-2021-3787 (2021-11-12T22:15:00)
+> A vulnerability was reported in some Motorola-branded Binatone Hubble Cameras that could allow an attacker with local access to obtain the MQTT credentials that could result in unauthorized access to backend Hubble services.
+- [Live-Hack-CVE/CVE-2021-3787](https://github.com/Live-Hack-CVE/CVE-2021-3787)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3787">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3787">
+
+---
 ## CVE-2021-37823 (2022-11-03T17:15:00)
 > OpenCart 3.0.3.7 allows users to obtain database information or read server files through SQL injection in the background.
 - [Live-Hack-CVE/CVE-2021-37823](https://github.com/Live-Hack-CVE/CVE-2021-37823)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37823">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37823">
@@ -1143,6 +1163,11 @@
 ## CVE-2021-37740 (2022-04-20T20:15:00)
 > A denial of service vulnerability exists in MDT's firmware for the KNXnet/IP Secure router SCN-IP100.03 and KNX IP interface SCN-IP000.03 before v3.0.4, that allows a remote attacker to turn the device unresponsive to all requests on the KNXnet/IP Secure layer, until the device is rebooted, via a SESSION_REQUEST frame with a modified total length field.
 - [robertguetzkow/CVE-2021-37740](https://github.com/robertguetzkow/CVE-2021-37740)	<img alt="forks" src="https://img.shields.io/github/forks/robertguetzkow/CVE-2021-37740">	<img alt="stars" src="https://img.shields.io/github/stars/robertguetzkow/CVE-2021-37740">
+
+---
+## CVE-2021-3774 (2021-11-05T21:15:00)
+> Meross Smart Wi-Fi 2 Way Wall Switch (MSS550X), on its 3.1.3 version and before, creates an open Wi-Fi Access Point without the required security measures in its initial setup. This could allow a remote attacker to obtain the Wi-Fi SSID as well as the password configured by the user from Meross app via Http/JSON plain request.
+- [Live-Hack-CVE/CVE-2021-3774](https://github.com/Live-Hack-CVE/CVE-2021-3774)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3774">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3774">
 
 ---
 ## CVE-2021-37714 (2021-08-18T15:15:00)
@@ -1187,6 +1212,16 @@
 - [JiaJinRong12138/CVE-2021-36955-EXP](https://github.com/JiaJinRong12138/CVE-2021-36955-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/JiaJinRong12138/CVE-2021-36955-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/JiaJinRong12138/CVE-2021-36955-EXP">
 
 ---
+## CVE-2021-36917 (2021-11-24T17:15:00)
+> WordPress Hide My WP plugin (versions <= 6.2.3) can be deactivated by any unauthenticated user. It is possible to retrieve a reset token which can then be used to deactivate the plugin.
+- [Live-Hack-CVE/CVE-2021-36917](https://github.com/Live-Hack-CVE/CVE-2021-36917)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36917">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36917">
+
+---
+## CVE-2021-36909 (2021-11-18T15:15:00)
+> Authenticated Database Reset vulnerability in WordPress WP Reset PRO Premium plugin (versions <= 5.98) allows any authenticated user to wipe the entire database regardless of their authorization. It leads to a complete website reset and takeover.
+- [Live-Hack-CVE/CVE-2021-36909](https://github.com/Live-Hack-CVE/CVE-2021-36909)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36909">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36909">
+
+---
 ## CVE-2021-36782 (2022-09-07T09:15:00)
 > A Cleartext Storage of Sensitive Information vulnerability in SUSE Rancher allows authenticated Cluster Owners, Cluster Members, Project Owners, Project Members and User Base to use the Kubernetes API to retrieve plaintext version of sensitive data. This issue affects: SUSE Rancher Rancher versions prior to 2.5.16; Rancher versions prior to 2.6.7.
 - [fe-ax/tf-cve-2021-36782](https://github.com/fe-ax/tf-cve-2021-36782)	<img alt="forks" src="https://img.shields.io/github/forks/fe-ax/tf-cve-2021-36782">	<img alt="stars" src="https://img.shields.io/github/stars/fe-ax/tf-cve-2021-36782">
@@ -1200,6 +1235,11 @@
 - [Sma11New/PocList](https://github.com/Sma11New/PocList)	<img alt="forks" src="https://img.shields.io/github/forks/Sma11New/PocList">	<img alt="stars" src="https://img.shields.io/github/stars/Sma11New/PocList">
 - [zwlsix/apache_druid_CVE-2021-36749](https://github.com/zwlsix/apache_druid_CVE-2021-36749)	<img alt="forks" src="https://img.shields.io/github/forks/zwlsix/apache_druid_CVE-2021-36749">	<img alt="stars" src="https://img.shields.io/github/stars/zwlsix/apache_druid_CVE-2021-36749">
 - [BrucessKING/CVE-2021-36749](https://github.com/BrucessKING/CVE-2021-36749)	<img alt="forks" src="https://img.shields.io/github/forks/BrucessKING/CVE-2021-36749">	<img alt="stars" src="https://img.shields.io/github/stars/BrucessKING/CVE-2021-36749">
+
+---
+## CVE-2021-36723 (2021-12-29T15:15:00)
+> Emuse - eServices / eNvoice Exposure Of Private Personal Information due to lack of identification mechanisms and predictable IDs an attacker can scrape all the files on the service.
+- [Live-Hack-CVE/CVE-2021-36723](https://github.com/Live-Hack-CVE/CVE-2021-36723)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36723">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36723">
 
 ---
 ## CVE-2021-3667 (2022-03-02T23:15:00)
@@ -1255,6 +1295,11 @@
 ## CVE-2021-3632 (2022-08-26T16:15:00)
 > A flaw was found in Keycloak. This vulnerability allows anyone to register a new security device or key when there is not a device already registered for any user by using the WebAuthn password-less login flow.
 - [Live-Hack-CVE/CVE-2021-3632](https://github.com/Live-Hack-CVE/CVE-2021-3632)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3632">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3632">
+
+---
+## CVE-2021-36310 (2021-11-20T02:15:00)
+> Dell Networking OS10, versions 10.4.3.x, 10.5.0.x, 10.5.1.x & 10.5.2.x, contain an uncontrolled resource consumption flaw in its API service. A high-privileged API user may potentially exploit this vulnerability, leading to a denial of service.
+- [Live-Hack-CVE/CVE-2021-36310](https://github.com/Live-Hack-CVE/CVE-2021-36310)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36310">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36310">
 
 ---
 ## CVE-2021-3631 (2022-03-02T23:15:00)
@@ -1357,6 +1402,11 @@
 - [swapravo/polkadots](https://github.com/swapravo/polkadots)	<img alt="forks" src="https://img.shields.io/github/forks/swapravo/polkadots">	<img alt="stars" src="https://img.shields.io/github/stars/swapravo/polkadots">
 
 ---
+## CVE-2021-35534 (2021-11-18T17:15:00)
+> Insufficient security control vulnerability in internal database access mechanism of Hitachi Energy Relion 670/650/SAM600-IO, Relion 650, GMS600, PWC600 allows attacker who successfully exploited this vulnerability, of which the product does not sufficiently restrict access to an internal database tables, could allow anybody with user credentials to bypass security controls that is enforced by the product. Consequently, exploitation may lead to unauthorized modifications on data/firmware, and/or to permanently disabling the product. This issue affects: Hitachi Energy Relion 670 Series 2.0 all revisions; 2.2.2 all revisions; 2.2.3 versions prior to 2.2.3.5. Hitachi Energy Relion 670/650 Series 2.1 all revisions. 2.2.0 all revisions; 2.2.4 all revisions; Hitachi Energy Relion 670/650/SAM600-IO 2.2.1 all revisions; 2.2.5 versions prior to 2.2.5.2. Hitachi Energy Relion 650 1.0 all revisions. 1.1 all revisions; 1.2 all revisions; 1.3 versions prior to 1.3.0.8; Hitachi Energy GMS600 1.3.0; 1.3.0.1; 1.2.0. Hitachi Energy PWC600 1.0.1 version 1.0.1.4 and prior versions; 1.1.0 version 1.1.0.1 and prior versions.
+- [Live-Hack-CVE/CVE-2021-35534](https://github.com/Live-Hack-CVE/CVE-2021-35534)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35534">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35534">
+
+---
 ## CVE-2021-35475 (2021-06-25T11:15:00)
 > SAS Environment Manager 2.5 allows XSS through the Name field when creating/editing a server. The XSS will prompt when editing the Configuration Properties.
 - [saitamang/CVE-2021-35475](https://github.com/saitamang/CVE-2021-35475)	<img alt="forks" src="https://img.shields.io/github/forks/saitamang/CVE-2021-35475">	<img alt="stars" src="https://img.shields.io/github/stars/saitamang/CVE-2021-35475">
@@ -1394,6 +1444,21 @@
 - [Live-Hack-CVE/CVE-2021-35252](https://github.com/Live-Hack-CVE/CVE-2021-35252)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35252">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35252">
 
 ---
+## CVE-2021-35245 (2021-12-06T17:15:00)
+> When a user has admin rights in Serv-U Console, the user can move, create and delete any files are able to be accessed on the Serv-U host machine.
+- [Live-Hack-CVE/CVE-2021-35245](https://github.com/Live-Hack-CVE/CVE-2021-35245)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35245">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35245">
+
+---
+## CVE-2021-35236 (2021-10-27T01:15:00)
+> The Secure flag is not set in the SSL Cookie of Kiwi Syslog Server 9.7.2 and previous versions. The Secure attribute tells the browser to only send the cookie if the request is being sent over a secure channel such as HTTPS. This will help protect the cookie from being passed over unencrypted requests. If the application can be accessed over both HTTP, there is a potential for the cookie can be sent in clear text.
+- [Live-Hack-CVE/CVE-2021-35236](https://github.com/Live-Hack-CVE/CVE-2021-35236)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35236">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35236">
+
+---
+## CVE-2021-35033 (2021-11-23T22:15:00)
+> A vulnerability in specific versions of Zyxel NBG6818, NBG7815, WSQ20, WSQ50, WSQ60, and WSR30 firmware with pre-configured password management could allow an attacker to obtain root access of the device, if the local attacker dismantles the device and uses a USB-to-UART cable to connect the device, or if the remote assistance feature had been enabled by an authenticated user.
+- [Live-Hack-CVE/CVE-2021-35033](https://github.com/Live-Hack-CVE/CVE-2021-35033)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35033">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35033">
+
+---
 ## CVE-2021-3493 (2021-04-17T05:15:00)
 > The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.
 - [Senz4wa/CVE-2021-3493](https://github.com/Senz4wa/CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/Senz4wa/CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/Senz4wa/CVE-2021-3493">
@@ -1414,9 +1479,24 @@
 - [rsalmond/CVE-2021-34824](https://github.com/rsalmond/CVE-2021-34824)	<img alt="forks" src="https://img.shields.io/github/forks/rsalmond/CVE-2021-34824">	<img alt="stars" src="https://img.shields.io/github/stars/rsalmond/CVE-2021-34824">
 
 ---
+## CVE-2021-34791 (2021-10-27T19:15:00)
+> Multiple vulnerabilities in the Application Level Gateway (ALG) for the Network Address Translation (NAT) feature of Cisco Adaptive Security Appliance (ASA) Software and Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to bypass the ALG and open unauthorized connections with a host located behind the ALG. For more information about these vulnerabilities, see the Details section of this advisory. Note: These vulnerabilities have been publicly discussed as NAT Slipstreaming.
+- [Live-Hack-CVE/CVE-2021-34791](https://github.com/Live-Hack-CVE/CVE-2021-34791)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34791">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34791">
+
+---
+## CVE-2021-34790 (2021-10-27T19:15:00)
+> Multiple vulnerabilities in the Application Level Gateway (ALG) for the Network Address Translation (NAT) feature of Cisco Adaptive Security Appliance (ASA) Software and Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to bypass the ALG and open unauthorized connections with a host located behind the ALG. For more information about these vulnerabilities, see the Details section of this advisory. Note: These vulnerabilities have been publicly discussed as NAT Slipstreaming.
+- [Live-Hack-CVE/CVE-2021-34790](https://github.com/Live-Hack-CVE/CVE-2021-34790)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34790">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34790">
+
+---
 ## CVE-2021-34767 (2021-09-23T03:15:00)
 > A vulnerability in IPv6 traffic processing of Cisco IOS XE Wireless Controller Software for Cisco Catalyst 9000 Family Wireless Controllers could allow an unauthenticated, adjacent attacker to cause a Layer 2 (L2) loop in a configured VLAN, resulting in a denial of service (DoS) condition for that VLAN. The vulnerability is due to a logic error when processing specific link-local IPv6 traffic. An attacker could exploit this vulnerability by sending a crafted IPv6 packet that would flow inbound through the wired interface of an affected device. A successful exploit could allow the attacker to cause traffic drops in the affected VLAN, thus triggering the DoS condition.
 - [lukejenkins/CVE-2021-34767](https://github.com/lukejenkins/CVE-2021-34767)	<img alt="forks" src="https://img.shields.io/github/forks/lukejenkins/CVE-2021-34767">	<img alt="stars" src="https://img.shields.io/github/stars/lukejenkins/CVE-2021-34767">
+
+---
+## CVE-2021-34761 (2021-10-27T19:15:00)
+> A vulnerability in Cisco Firepower Threat Defense (FTD) Software could allow an authenticated, local attacker to overwrite or append arbitrary data to system files using root-level privileges. The attacker must have administrative credentials on the device. This vulnerability is due to incomplete validation of user input for a specific CLI command. An attacker could exploit this vulnerability by authenticating to the device with administrative privileges and issuing a CLI command with crafted user parameters. A successful exploit could allow the attacker to overwrite or append arbitrary data to system files using root-level privileges.
+- [Live-Hack-CVE/CVE-2021-34761](https://github.com/Live-Hack-CVE/CVE-2021-34761)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34761">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34761">
 
 ---
 ## CVE-2021-3476 (2021-03-30T18:15:00)
@@ -1425,9 +1505,19 @@
 - [lukejenkins/CVE-2021-34767](https://github.com/lukejenkins/CVE-2021-34767)	<img alt="forks" src="https://img.shields.io/github/forks/lukejenkins/CVE-2021-34767">	<img alt="stars" src="https://img.shields.io/github/stars/lukejenkins/CVE-2021-34767">
 
 ---
+## CVE-2021-34755 (2021-10-27T19:15:00)
+> Multiple vulnerabilities in the CLI of Cisco Firepower Threat Defense (FTD) Software could allow an authenticated, local attacker to execute arbitrary commands with root privileges. For more information about these vulnerabilities, see the Details section of this advisory.
+- [Live-Hack-CVE/CVE-2021-34755](https://github.com/Live-Hack-CVE/CVE-2021-34755)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34755">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34755">
+
+---
 ## CVE-2021-3475 (2021-03-30T18:15:00)
 > There is a flaw in OpenEXR in versions before 3.0.0-beta. An attacker who can submit a crafted file to be processed by OpenEXR could cause an integer overflow, potentially leading to problems with application availability.
 - [Live-Hack-CVE/CVE-2021-3475](https://github.com/Live-Hack-CVE/CVE-2021-3475)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3475">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3475">
+
+---
+## CVE-2021-34741 (2021-11-04T16:15:00)
+> A vulnerability in the email scanning algorithm of Cisco AsyncOS software for Cisco Email Security Appliance (ESA) could allow an unauthenticated, remote attacker to perform a denial of service (DoS) attack against an affected device. This vulnerability is due to insufficient input validation of incoming emails. An attacker could exploit this vulnerability by sending a crafted email through Cisco ESA. A successful exploit could allow the attacker to exhaust all the available CPU resources on an affected device for an extended period of time, preventing other emails from being processed and resulting in a DoS condition.
+- [Live-Hack-CVE/CVE-2021-34741](https://github.com/Live-Hack-CVE/CVE-2021-34741)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34741">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34741">
 
 ---
 ## CVE-2021-3474 (2021-03-30T18:15:00)
