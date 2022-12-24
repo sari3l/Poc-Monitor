@@ -2062,6 +2062,31 @@
 - [Live-Hack-CVE/CVE-2021-34579](https://github.com/Live-Hack-CVE/CVE-2021-34579)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34579">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34579">
 
 ---
+## CVE-2021-34565 (2021-08-31T11:15:00)
+> In PEPPERL+FUCHS WirelessHART-Gateway 3.0.7 to 3.0.9 the SSH and telnet services are active with hard-coded credentials.
+- [Live-Hack-CVE/CVE-2021-34565](https://github.com/Live-Hack-CVE/CVE-2021-34565)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34565">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34565">
+
+---
+## CVE-2021-34563 (2021-08-31T11:15:00)
+> In PEPPERL+FUCHS WirelessHART-Gateway 3.0.8 and 3.0.9 the HttpOnly attribute is not set on a cookie. This allows the cookie's value to be read or set by client-side JavaScript.
+- [Live-Hack-CVE/CVE-2021-34563](https://github.com/Live-Hack-CVE/CVE-2021-34563)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34563">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34563">
+
+---
+## CVE-2021-34562 (2021-08-31T11:15:00)
+> In PEPPERL+FUCHS WirelessHART-Gateway 3.0.8 it is possible to inject arbitrary JavaScript into the application's response.
+- [Live-Hack-CVE/CVE-2021-34562](https://github.com/Live-Hack-CVE/CVE-2021-34562)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34562">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34562">
+
+---
+## CVE-2021-34561 (2021-08-31T11:15:00)
+> In PEPPERL+FUCHS WirelessHART-Gateway <= 3.0.8 serious issue exists, if the application is not externally accessible or uses IP-based access restrictions. Attackers can use DNS Rebinding to bypass any IP or firewall based access restrictions that may be in place, by proxying through their target's browser.
+- [Live-Hack-CVE/CVE-2021-34561](https://github.com/Live-Hack-CVE/CVE-2021-34561)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34561">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34561">
+
+---
+## CVE-2021-34559 (2021-08-31T11:15:00)
+> In PEPPERL+FUCHS WirelessHART-Gateway <= 3.0.8 a vulnerability may allow remote attackers to rewrite links and URLs in cached pages to arbitrary strings.
+- [Live-Hack-CVE/CVE-2021-34559](https://github.com/Live-Hack-CVE/CVE-2021-34559)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34559">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34559">
+
+---
 ## CVE-2021-34552 (2021-07-13T17:15:00)
 > Pillow through 8.2.0 and PIL (aka Python Imaging Library) through 1.1.7 allow an attacker to pass controlled parameters directly into a convert function to trigger a buffer overflow in Convert.c.
 - [Live-Hack-CVE/CVE-2021-34552](https://github.com/Live-Hack-CVE/CVE-2021-34552)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34552">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34552">

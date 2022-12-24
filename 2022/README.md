@@ -4301,6 +4301,11 @@
 - [whitej3rry/CVE-2022-40916](https://github.com/whitej3rry/CVE-2022-40916)	<img alt="forks" src="https://img.shields.io/github/forks/whitej3rry/CVE-2022-40916">	<img alt="stars" src="https://img.shields.io/github/stars/whitej3rry/CVE-2022-40916">
 
 ---
+## CVE-2022-40890 (2022-09-29T13:15:00)
+> A vulnerability in /src/amf/amf-context.c in Open5GS 2.4.10 and earlier leads to AMF denial of service.
+- [Live-Hack-CVE/CVE-2022-40890](https://github.com/Live-Hack-CVE/CVE-2022-40890)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40890">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40890">
+
+---
 ## CVE-2022-40871 (2022-10-12T12:15:00)
 > Dolibarr ERP & CRM <=15.0.3 is vulnerable to Eval injection. By default, any administrator can be added to the installation page of dolibarr, and if successfully added, malicious code can be inserted into the database and then execute it by eval.
 - [Live-Hack-CVE/CVE-2022-40871](https://github.com/Live-Hack-CVE/CVE-2022-40871)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40871">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40871">
@@ -4371,6 +4376,16 @@
 - [Live-Hack-CVE/CVE-2022-40824](https://github.com/Live-Hack-CVE/CVE-2022-40824)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40824">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40824">
 
 ---
+## CVE-2022-40817 (2022-09-27T23:15:00)
+> Zammad 5.2.1 has a fine-grained permission model that allows to configure read-only access to tickets. However, agents were still wrongly able to perform some operations on such tickets, like adding and removing links, tags. and related answers. This issue has been fixed in 5.2.2.
+- [Live-Hack-CVE/CVE-2022-40817](https://github.com/Live-Hack-CVE/CVE-2022-40817)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40817">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40817">
+
+---
+## CVE-2022-40816 (2022-09-27T23:15:00)
+> Zammad 5.2.1 is vulnerable to Incorrect Access Control. Zammad's asset handling mechanism has logic to ensure that customer users are not able to see personal information of other users. This logic was not effective when used through a web socket connection, so that a logged-in attacker would be able to fetch personal data of other users by querying the Zammad API. This issue is fixed in , 5.2.2.
+- [Live-Hack-CVE/CVE-2022-40816](https://github.com/Live-Hack-CVE/CVE-2022-40816)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40816">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40816">
+
+---
 ## CVE-2022-40799 (2022-11-29T05:15:00)
 > Data Integrity Failure in 'Backup Config' in D-Link DNR-322L <= 2.60B15 allows an authenticated attacker to execute OS level commands on the device.
 - [Live-Hack-CVE/CVE-2022-40799](https://github.com/Live-Hack-CVE/CVE-2022-40799)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40799">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40799">
@@ -4414,6 +4429,26 @@
 ## CVE-2022-40735 (2022-11-14T23:15:00)
 > The Diffie-Hellman Key Agreement Protocol allows use of long exponents that arguably make certain calculations unnecessarily expensive, because the 1996 van Oorschot and Wiener paper found that "(appropriately) short exponents" can be used when there are adequate subgroup constraints, and these short exponents can lead to less expensive calculations than for long exponents. This issue is different from CVE-2002-20001 because it is based on an observation about exponent size, rather than an observation about numbers that are not public keys. The specific situations in which calculation expense would constitute a server-side vulnerability depend on the protocol (e.g., TLS, SSH, or IKE) and the DHE implementation details. In general, there might be an availability concern because of server-side resource consumption from DHE modular-exponentiation calculations. Finally, it is possible for an attacker to exploit this vulnerability and CVE-2002-20001 together.
 - [Live-Hack-CVE/CVE-2022-40735](https://github.com/Live-Hack-CVE/CVE-2022-40735)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40735">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40735">
+
+---
+## CVE-2022-40710 (2022-09-28T21:15:00)
+> A link following vulnerability in Trend Micro Deep Security 20 and Cloud One - Workload Security Agent for Windows could allow a local attacker to escalate privileges on affected installations. Please note: an attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability.
+- [Live-Hack-CVE/CVE-2022-40710](https://github.com/Live-Hack-CVE/CVE-2022-40710)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40710">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40710">
+
+---
+## CVE-2022-40709 (2022-09-28T21:15:00)
+> An Out-of-bounds read vulnerability in Trend Micro Deep Security 20 and Cloud One - Workload Security Agent for Windows could allow a local attacker to disclose sensitive information on affected installations. Please note: an attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit these vulnerabilities. This vulnerability is similar to, but not identical to CVE-2022-40707 and 40708.
+- [Live-Hack-CVE/CVE-2022-40709](https://github.com/Live-Hack-CVE/CVE-2022-40709)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40709">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40709">
+
+---
+## CVE-2022-40708 (2022-09-28T21:15:00)
+> An Out-of-bounds read vulnerability in Trend Micro Deep Security 20 and Cloud One - Workload Security Agent for Windows could allow a local attacker to disclose sensitive information on affected installations. Please note: an attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit these vulnerabilities. This vulnerability is similar to, but not identical to CVE-2022-40707.
+- [Live-Hack-CVE/CVE-2022-40708](https://github.com/Live-Hack-CVE/CVE-2022-40708)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40708">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40708">
+
+---
+## CVE-2022-40707 (2022-09-28T21:15:00)
+> An Out-of-bounds read vulnerability in Trend Micro Deep Security 20 and Cloud One - Workload Security Agent for Windows could allow a local attacker to disclose sensitive information on affected installations. Please note: an attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit these vulnerabilities. This vulnerability is similar to, but not identical to CVE-2022-40708.
+- [Live-Hack-CVE/CVE-2022-40707](https://github.com/Live-Hack-CVE/CVE-2022-40707)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40707">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40707">
 
 ---
 ## CVE-2022-4070 (2022-11-20T05:15:00)
@@ -4569,6 +4604,11 @@
 - [Live-Hack-CVE/CVE-2022-40603](https://github.com/Live-Hack-CVE/CVE-2022-40603)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40603">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40603">
 
 ---
+## CVE-2022-40497 (2022-09-28T00:15:00)
+> Wazuh v3.6.1 - v3.13.5, v4.0.0 - v4.2.7, and v4.3.0 - v4.3.7 were discovered to contain an authenticated remote code execution (RCE) vulnerability via the Active Response endpoint.
+- [Live-Hack-CVE/CVE-2022-40497](https://github.com/Live-Hack-CVE/CVE-2022-40497)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40497">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40497">
+
+---
 ## CVE-2022-40494 (2022-10-06T22:15:00)
 > NPS before v0.26.10 was discovered to contain an authentication bypass vulnerability via constantly generating and sending the Auth key and Timestamp parameters.
 - [Live-Hack-CVE/CVE-2022-40494](https://github.com/Live-Hack-CVE/CVE-2022-40494)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40494">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40494">
@@ -4587,6 +4627,11 @@
 ## CVE-2022-40487 (2022-10-31T12:15:00)
 > ProcessWire v3.0.200 was discovered to contain multiple cross-site scripting (XSS) vulnerabilities via the Search Users and Search Pages function. These vulnerabilities allow attackers to execute arbitrary web scripts or HTML via injection of a crafted payload.
 - [Live-Hack-CVE/CVE-2022-40487](https://github.com/Live-Hack-CVE/CVE-2022-40487)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40487">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40487">
+
+---
+## CVE-2022-40475 (2022-09-29T12:15:00)
+> TOTOLINK A860R V4.1.2cu.5182_B20201027 was discovered to contain a command injection via the component /cgi-bin/downloadFile.cgi.
+- [Live-Hack-CVE/CVE-2022-40475](https://github.com/Live-Hack-CVE/CVE-2022-40475)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40475">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40475">
 
 ---
 ## CVE-2022-40471 (2022-10-31T16:15:00)
@@ -4616,9 +4661,24 @@
 - [Live-Hack-CVE/CVE-2022-40434](https://github.com/Live-Hack-CVE/CVE-2022-40434)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40434">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40434">
 
 ---
+## CVE-2022-40408 (2022-09-29T14:15:00)
+> FeehiCMS v2.1.1 was discovered to contain a cross-site scripting (XSS) vulnerability via a crafted payload injected into the Comment box under the Single Page module.
+- [Live-Hack-CVE/CVE-2022-40408](https://github.com/Live-Hack-CVE/CVE-2022-40408)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40408">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40408">
+
+---
+## CVE-2022-40407 (2022-09-29T14:15:00)
+> A zip slip vulnerability in the file upload function of Chamilo v1.11 allows attackers to execute arbitrary code via a crafted Zip file.
+- [Live-Hack-CVE/CVE-2022-40407](https://github.com/Live-Hack-CVE/CVE-2022-40407)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40407">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40407">
+
+---
 ## CVE-2022-40405 (2022-11-15T00:15:00)
 > WoWonder Social Network Platform v4.1.2 was discovered to contain a SQL injection vulnerability via the offset parameter at requests.php?f=load-my-blogs.
 - [Live-Hack-CVE/CVE-2022-40405](https://github.com/Live-Hack-CVE/CVE-2022-40405)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40405">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40405">
+
+---
+## CVE-2022-40363 (2022-09-29T13:15:00)
+> A buffer overflow in the component nfc_device_load_mifare_ul_data of Flipper Devices Inc., Flipper Zero before v0.65.2 allows attackers to cause a Denial of Service (DoS) via a crafted NFC file.
+- [Live-Hack-CVE/CVE-2022-40363](https://github.com/Live-Hack-CVE/CVE-2022-40363)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40363">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40363">
 
 ---
 ## CVE-2022-4036 (2022-11-29T21:15:00)
@@ -4737,6 +4797,11 @@
 - [Live-Hack-CVE/CVE-2022-40200](https://github.com/Live-Hack-CVE/CVE-2022-40200)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40200">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40200">
 
 ---
+## CVE-2022-40199 (2022-09-27T23:15:00)
+> Directory traversal vulnerability in EC-CUBE 3 series (EC-CUBE 3.0.0 to 3.0.18-p4 ) and EC-CUBE 4 series (EC-CUBE 4.0.0 to 4.1.2) allows a remote authenticated attacker with an administrative privilege to obtain the product's directory structure information.
+- [Live-Hack-CVE/CVE-2022-40199](https://github.com/Live-Hack-CVE/CVE-2022-40199)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40199">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40199">
+
+---
 ## CVE-2022-40192 (2022-11-17T23:15:00)
 > Cross-Site Request Forgery (CSRF) vulnerability in wpForo Forum plugin <= 2.0.9 on WordPress.
 - [Live-Hack-CVE/CVE-2022-40192](https://github.com/Live-Hack-CVE/CVE-2022-40192)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40192">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40192">
@@ -4818,6 +4883,7 @@
 ## CVE-2022-40126 (2022-09-29T12:15:00)
 > A misconfiguration in the Service Mode profile directory of Clash for Windows v0.19.9 allows attackers to escalate privileges and execute arbitrary commands when Service Mode is activated.
 - [LovelyWei/CVE-2022-40126](https://github.com/LovelyWei/CVE-2022-40126)	<img alt="forks" src="https://img.shields.io/github/forks/LovelyWei/CVE-2022-40126">	<img alt="stars" src="https://img.shields.io/github/stars/LovelyWei/CVE-2022-40126">
+- [Live-Hack-CVE/CVE-2022-40126](https://github.com/Live-Hack-CVE/CVE-2022-40126)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40126">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40126">
 
 ---
 ## CVE-2022-4010 (2022-12-12T18:15:00)
@@ -5251,6 +5317,11 @@
 - [Live-Hack-CVE/CVE-2022-39244](https://github.com/Live-Hack-CVE/CVE-2022-39244)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39244">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39244">
 
 ---
+## CVE-2022-39242 (2022-09-24T02:15:00)
+> Frontier is an Ethereum compatibility layer for Substrate. Prior to commit d3beddc6911a559a3ecc9b3f08e153dbe37a8658, the worst case weight was always accounted as the block weight for all cases. In case of large EVM gas refunds, this can lead to block spamming attacks -- the adversary can construct blocks with transactions that have large amount of refunds or unused gases with reverts, and as a result inflate up the chain gas prices. The impact of this issue is limited in that the spamming attack would still be costly for any adversary, and it has no ability to alter any chain state. This issue has been patched in commit d3beddc6911a559a3ecc9b3f08e153dbe37a8658. There are no known workarounds.
+- [Live-Hack-CVE/CVE-2022-39242](https://github.com/Live-Hack-CVE/CVE-2022-39242)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39242">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39242">
+
+---
 ## CVE-2022-39237 (2022-10-06T18:16:00)
 > syslabs/sif is the Singularity Image Format (SIF) reference implementation. In versions prior to 2.8.1the `github.com/sylabs/sif/v2/pkg/integrity` package did not verify that the hash algorithm(s) used are cryptographically secure when verifying digital signatures. A patch is available in version >= v2.8.1 of the module. Users are encouraged to upgrade. Users unable to upgrade may independently validate that the hash algorithm(s) used for metadata digest(s) and signature hash are cryptographically secure.
 - [Live-Hack-CVE/CVE-2022-39237](https://github.com/Live-Hack-CVE/CVE-2022-39237)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39237">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39237">
@@ -5492,6 +5563,16 @@
 - [Live-Hack-CVE/CVE-2022-39037](https://github.com/Live-Hack-CVE/CVE-2022-39037)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39037">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39037">
 
 ---
+## CVE-2022-39030 (2022-09-28T04:15:00)
+> smart eVision has inadequate authorization for system information query function. An unauthenticated remote attacker, who is not explicitly authorized to access the information, can access sensitive information.
+- [Live-Hack-CVE/CVE-2022-39030](https://github.com/Live-Hack-CVE/CVE-2022-39030)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39030">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39030">
+
+---
+## CVE-2022-39029 (2022-09-28T04:15:00)
+> Smart eVision has inadequate authorization for the database query function. A remote attacker with general user privilege, who is not explicitly authorized to access the information, can access sensitive information.
+- [Live-Hack-CVE/CVE-2022-39029](https://github.com/Live-Hack-CVE/CVE-2022-39029)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39029">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39029">
+
+---
 ## CVE-2022-39028 (2022-08-30T05:15:00)
 > telnetd in GNU Inetutils through 2.3, MIT krb5-appl through 1.0.3, and derivative works has a NULL pointer dereference via 0xff 0xf7 or 0xff 0xf8. In a typical installation, the telnetd application would crash but the telnet service would remain available through inetd. However, if the telnetd application has many crashes within a short time interval, the telnet service would become unavailable after inetd logs a "telnet/tcp server failing (looping), service terminated" error. NOTE: MIT krb5-appl is not supported upstream but is shipped by a few Linux distributions. The affected code was removed from the supported MIT Kerberos 5 (aka krb5) product many years ago, at version 1.8.
 - [Live-Hack-CVE/CVE-2022-39028](https://github.com/Live-Hack-CVE/CVE-2022-39028)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39028">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39028">
@@ -5537,9 +5618,19 @@
 - [Live-Hack-CVE/CVE-2022-38977](https://github.com/Live-Hack-CVE/CVE-2022-38977)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38977">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38977">
 
 ---
+## CVE-2022-38975 (2022-09-27T23:15:00)
+> DOM-based cross-site scripting vulnerability in EC-CUBE 4 series (EC-CUBE 4.0.0 to 4.1.2) allows a remote attacker to inject an arbitrary script by having an administrative user of the product to visit a specially crafted page.
+- [Live-Hack-CVE/CVE-2022-38975](https://github.com/Live-Hack-CVE/CVE-2022-38975)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38975">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38975">
+
+---
 ## CVE-2022-38974 (2022-11-18T19:15:00)
 > Broken Access Control vulnerability in WPML Multilingual CMS premium plugin <= 4.5.10 on WordPress allows users with subscriber or higher user roles to change the status of the translation jobs.
 - [Live-Hack-CVE/CVE-2022-38974](https://github.com/Live-Hack-CVE/CVE-2022-38974)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38974">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38974">
+
+---
+## CVE-2022-38970 (2022-09-26T11:15:00)
+> ieGeek IG20 hipcam RealServer V1.0 is vulnerable to Incorrect Access Control. The algorithm used to generate device IDs (UIDs) for devices that utilize Shenzhen Yunni Technology iLnkP2P suffers from a predictability flaw that allows remote attackers to establish direct connections to arbitrary devices.
+- [Live-Hack-CVE/CVE-2022-38970](https://github.com/Live-Hack-CVE/CVE-2022-38970)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38970">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38970">
 
 ---
 ## CVE-2022-38932 (2022-09-27T23:15:00)
@@ -7092,6 +7183,11 @@
 - [Live-Hack-CVE/CVE-2022-35897](https://github.com/Live-Hack-CVE/CVE-2022-35897)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35897">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35897">
 
 ---
+## CVE-2022-35888 (2022-09-29T01:15:00)
+> Ampere Altra and Ampere Altra Max devices through 2022-07-15 allow attacks via Hertzbleed, which is a power side-channel attack that extracts secret information from the CPU by correlating the power consumption with data being processed on the system.
+- [Live-Hack-CVE/CVE-2022-35888](https://github.com/Live-Hack-CVE/CVE-2022-35888)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35888">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35888">
+
+---
 ## CVE-2022-35882 (2022-07-28T15:15:00)
 > Authenticated (author or higher user role) Stored Cross-Site Scripting (XSS) vulnerability in GS Plugins GS Testimonial Slider plugin <= 1.9.5 at WordPress.
 - [Live-Hack-CVE/CVE-2022-35882](https://github.com/Live-Hack-CVE/CVE-2022-35882)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35882">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35882">
@@ -7902,6 +7998,11 @@
 - [Live-Hack-CVE/CVE-2022-3359](https://github.com/Live-Hack-CVE/CVE-2022-3359)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3359">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3359">
 
 ---
+## CVE-2022-3355 (2022-09-29T10:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository inventree/inventree prior to 0.8.3.
+- [Live-Hack-CVE/CVE-2022-3355](https://github.com/Live-Hack-CVE/CVE-2022-3355)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3355">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3355">
+
+---
 ## CVE-2022-3350 (2022-10-25T17:15:00)
 > The Contact Bank WordPress plugin through 3.0.30 does not sanitise and escape some of its Form settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup)
 - [Live-Hack-CVE/CVE-2022-3350](https://github.com/Live-Hack-CVE/CVE-2022-3350)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3350">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3350">
@@ -7924,6 +8025,12 @@
 ---
 ## CVE-2022-33268 (2022-12-13T16:15:00)
 > Information disclosure due to buffer over-read in Bluetooth HOST while pairing and connecting A2DP. in Snapdragon Auto, Snapdragon Compute, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables
+- [Live-Hack-CVE/CVE-2022-33268](https://github.com/Live-Hack-CVE/CVE-2022-33268)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33268">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33268">
+
+---
+## CVE-2022-3326 (2022-09-29T00:15:00)
+> Weak Password Requirements in GitHub repository ikus060/rdiffweb prior to 2.4.9.
+- [Live-Hack-CVE/CVE-2022-3326](https://github.com/Live-Hack-CVE/CVE-2022-3326)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3326">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3326">
 - [Live-Hack-CVE/CVE-2022-33268](https://github.com/Live-Hack-CVE/CVE-2022-33268)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33268">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33268">
 
 ---
@@ -8153,6 +8260,11 @@
 ## CVE-2022-3280 (2022-11-09T23:15:00)
 > An open redirect in GitLab CE/EE affecting all versions from 10.1 prior to 15.3.5, 15.4 prior to 15.4.4, and 15.5 prior to 15.5.2 allows an attacker to trick users into visiting a trustworthy URL and being redirected to arbitrary content.
 - [Live-Hack-CVE/CVE-2022-3280](https://github.com/Live-Hack-CVE/CVE-2022-3280)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3280">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3280">
+
+---
+## CVE-2022-32783 (2022-09-23T19:15:00)
+> A logic issue was addressed with improved checks. This issue is fixed in macOS Monterey 12.4. An app may gain unauthorized access to Bluetooth.
+- [Live-Hack-CVE/CVE-2022-32783](https://github.com/Live-Hack-CVE/CVE-2022-32783)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32783">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32783">
 
 ---
 ## CVE-2022-3278 (2022-09-23T22:15:00)
@@ -9322,6 +9434,11 @@
 ## CVE-2022-30122 (2022-12-05T22:15:00)
 > A possible denial of service vulnerability exists in Rack <2.0.9.1, <2.1.4.1 and <2.2.3.1 in the multipart parsing component of Rack.
 - [Live-Hack-CVE/CVE-2022-30122](https://github.com/Live-Hack-CVE/CVE-2022-30122)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30122">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30122">
+
+---
+## CVE-2022-30121 (2022-09-23T14:15:00)
+> The “LANDesk(R) Management Agent” service exposes a socket and once connected, it is possible to launch commands only for signed executables. This is a security bug that allows a limited user to get escalated admin privileges on their system.
+- [Live-Hack-CVE/CVE-2022-30121](https://github.com/Live-Hack-CVE/CVE-2022-30121)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30121">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30121">
 
 ---
 ## CVE-2022-30115 (2022-06-02T14:15:00)
@@ -11099,6 +11216,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-23470 (2022-12-06T18:15:00)
 > Galaxy is an open-source platform for data analysis. An arbitrary file read exists in Galaxy 22.01 and Galaxy 22.05 due to the switch to Gunicorn, which can be used to read any file accessible to the operating system user under which Galaxy is running. This vulnerability affects Galaxy 22.01 and higher, after the switch to gunicorn, which serve static contents directly. Additionally, the vulnerability is mitigated when using Nginx or Apache to serve /static/* contents, instead of Galaxy's internal middleware. This issue has been patched in commit `e5e6bda4f` and will be included in future releases. Users are advised to manually patch their installations. There are no known workarounds for this vulnerability.
 - [Live-Hack-CVE/CVE-2022-23470](https://github.com/Live-Hack-CVE/CVE-2022-23470)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23470">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23470">
+
+---
+## CVE-2022-2347 (2022-09-23T13:15:00)
+> There exists an unchecked length field in UBoot. The U-Boot DFU implementation does not bound the length field in USB DFU download setup packets, and it does not verify that the transfer direction corresponds to the specified command. Consequently, if a physical attacker crafts a USB DFU download setup packet with a `wLength` greater than 4096 bytes, they can write beyond the heap-allocated request buffer.
+- [Live-Hack-CVE/CVE-2022-2347](https://github.com/Live-Hack-CVE/CVE-2022-2347)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2347">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2347">
 
 ---
 ## CVE-2022-23467 (2022-12-05T20:15:00)
