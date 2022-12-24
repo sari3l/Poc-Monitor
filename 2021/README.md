@@ -1143,6 +1143,7 @@
 ## CVE-2021-3793 (2021-11-12T22:15:00)
 > An improper access control vulnerability was reported in some Motorola-branded Binatone Hubble Cameras which could allow an unauthenticated attacker on the same network as the device to access administrative pages that could result in information disclosure or device firmware update with verified firmware.
 - [Live-Hack-CVE/CVE-2021-3793](https://github.com/Live-Hack-CVE/CVE-2021-3793)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3793">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3793">
+- [Live-Hack-CVE/CVE-2021-37936](https://github.com/Live-Hack-CVE/CVE-2021-37936)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37936">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37936">
 
 ---
 ## CVE-2021-3788 (2021-11-12T22:15:00)
