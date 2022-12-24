@@ -321,6 +321,11 @@
 - [gquere/CVE-2020-6364](https://github.com/gquere/CVE-2020-6364)	<img alt="forks" src="https://img.shields.io/github/forks/gquere/CVE-2020-6364">	<img alt="stars" src="https://img.shields.io/github/stars/gquere/CVE-2020-6364">
 
 ---
+## CVE-2020-6016 (2020-11-18T15:15:00)
+> Valve's Game Networking Sockets prior to version v1.2.0 improperly handles unreliable segments with negative offsets in function SNP_ReceiveUnreliableSegment(), leading to a Heap-Based Buffer Underflow and a free() of memory not from the heap, resulting in a memory corruption and probably even a remote code execution.
+- [Live-Hack-CVE/CVE-2020-6016](https://github.com/Live-Hack-CVE/CVE-2020-6016)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6016">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6016">
+
+---
 ## CVE-2020-5902 (2020-07-01T15:15:00)
 > In BIG-IP versions 15.0.0-15.1.0.3, 14.1.0-14.1.2.5, 13.1.0-13.1.3.3, 12.1.0-12.1.5.1, and 11.6.1-11.6.5.1, the Traffic Management User Interface (TMUI), also referred to as the Configuration utility, has a Remote Code Execution (RCE) vulnerability in undisclosed pages.
 - [z3n70/CVE-2020-5902](https://github.com/z3n70/CVE-2020-5902)	<img alt="forks" src="https://img.shields.io/github/forks/z3n70/CVE-2020-5902">	<img alt="stars" src="https://img.shields.io/github/stars/z3n70/CVE-2020-5902">
@@ -529,6 +534,11 @@
 - [0x240x23elu/CVE-2020-28948-and-CVE-2020-28949](https://github.com/0x240x23elu/CVE-2020-28948-and-CVE-2020-28949)	<img alt="forks" src="https://img.shields.io/github/forks/0x240x23elu/CVE-2020-28948-and-CVE-2020-28949">	<img alt="stars" src="https://img.shields.io/github/stars/0x240x23elu/CVE-2020-28948-and-CVE-2020-28949">
 
 ---
+## CVE-2020-28647 (2020-11-17T14:15:00)
+> In Progress MOVEit Transfer before 2020.1, a malicious user could craft and store a payload within the application. If a victim within the MOVEit Transfer instance interacts with the stored payload, it could invoke and execute arbitrary code within the context of the victim's browser (XSS).
+- [Live-Hack-CVE/CVE-2020-28647](https://github.com/Live-Hack-CVE/CVE-2020-28647)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28647">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28647">
+
+---
 ## CVE-2020-28636 (2021-03-04T20:15:00)
 > A code execution vulnerability exists in the Nef polygon-parsing functionality of CGAL libcgal CGAL-5.1.1. An oob read vulnerability exists in Nef_S2/SNC_io_parser.h SNC_io_parser::read_sloop() slh->twin() An attacker can provide malicious input to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2020-28636](https://github.com/Live-Hack-CVE/CVE-2020-28636)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28636">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28636">
@@ -609,6 +619,11 @@
 ## CVE-2020-27786 (2020-12-11T05:15:00)
 > A flaw was found in the Linux kernel’s implementation of MIDI, where an attacker with a local account and the permissions to issue ioctl commands to midi devices could trigger a use-after-free issue. A write to this specific memory while freed and before use causes the flow of execution to change and possibly allow for memory corruption or privilege escalation. The highest threat from this vulnerability is to confidentiality, integrity, as well as system availability.
 - [kiks7/CVE-2020-27786-Kernel-Exploit](https://github.com/kiks7/CVE-2020-27786-Kernel-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/kiks7/CVE-2020-27786-Kernel-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/kiks7/CVE-2020-27786-Kernel-Exploit">
+
+---
+## CVE-2020-27779 (2021-03-03T17:15:00)
+> A flaw was found in grub2 in versions prior to 2.06. The cutmem command does not honor secure boot locking allowing an privileged attacker to remove address ranges from memory creating an opportunity to circumvent SecureBoot protections after proper triage about grub's memory layout. The highest threat from this vulnerability is to data confidentiality and integrity as well as system availability.
+- [Live-Hack-CVE/CVE-2020-27779](https://github.com/Live-Hack-CVE/CVE-2020-27779)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27779">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27779">
 
 ---
 ## CVE-2020-27751 (2020-12-08T22:15:00)
@@ -700,6 +715,16 @@
 - [novysodope/CVE-2020-26217-XStream-RCE-POC](https://github.com/novysodope/CVE-2020-26217-XStream-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/novysodope/CVE-2020-26217-XStream-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/novysodope/CVE-2020-26217-XStream-RCE-POC">
 
 ---
+## CVE-2020-26197 (2021-04-20T17:15:00)
+> Dell PowerScale OneFS 8.1.0 - 9.1.0 contains an LDAP Provider inability to connect over TLSv1.2 vulnerability. It may make it easier to eavesdrop and decrypt such traffic for a malicious actor. Note: This does not affect clusters which are not relying on an LDAP server for the authentication provider.
+- [Live-Hack-CVE/CVE-2020-26197](https://github.com/Live-Hack-CVE/CVE-2020-26197)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-26197">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-26197">
+
+---
+## CVE-2020-26195 (2021-02-09T22:15:00)
+> Dell EMC PowerScale OneFS versions 8.1.2 – 9.1.0 contain an issue where the OneFS SMB directory auto-create may erroneously create a directory for a user. A remote unauthenticated attacker may take advantage of this issue to slow down the system.
+- [Live-Hack-CVE/CVE-2020-26195](https://github.com/Live-Hack-CVE/CVE-2020-26195)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-26195">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-26195">
+
+---
 ## CVE-2020-26185 (2022-06-01T15:15:00)
 > Dell BSAFE Micro Edition Suite, versions prior to 4.5.1, contain a Buffer Over-Read Vulnerability.
 - [Live-Hack-CVE/CVE-2020-26185](https://github.com/Live-Hack-CVE/CVE-2020-26185)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-26185">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-26185">
@@ -720,9 +745,39 @@
 - [7Mitu/CVE-2020-25790](https://github.com/7Mitu/CVE-2020-25790)	<img alt="forks" src="https://img.shields.io/github/forks/7Mitu/CVE-2020-25790">	<img alt="stars" src="https://img.shields.io/github/stars/7Mitu/CVE-2020-25790">
 
 ---
+## CVE-2020-25719 (2022-02-18T18:15:00)
+> A flaw was found in the way Samba, as an Active Directory Domain Controller, implemented Kerberos name-based authentication. The Samba AD DC, could become confused about the user a ticket represents if it did not strictly require a Kerberos PAC and always use the SIDs found within. The result could include total domain compromise.
+- [Live-Hack-CVE/CVE-2020-25719](https://github.com/Live-Hack-CVE/CVE-2020-25719)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25719">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25719">
+
+---
+## CVE-2020-25716 (2021-06-07T21:15:00)
+> A flaw was found in Cloudforms. A role-based privileges escalation flaw where export or import of administrator files is possible. An attacker with a specific group can perform actions restricted only to system administrator. This is the affect of an incomplete fix for CVE-2020-10783. The highest threat from this vulnerability is to data confidentiality and integrity. Versions before cfme 5.11.10.1 are affected
+- [Live-Hack-CVE/CVE-2020-25716](https://github.com/Live-Hack-CVE/CVE-2020-25716)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25716">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25716">
+
+---
+## CVE-2020-25713 (2021-05-13T15:15:00)
+> A malformed input file can lead to a segfault due to an out of bounds array access in raptor_xml_writer_start_element_common.
+- [Live-Hack-CVE/CVE-2020-25713](https://github.com/Live-Hack-CVE/CVE-2020-25713)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25713">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25713">
+
+---
+## CVE-2020-25673 (2021-05-26T11:15:00)
+> A vulnerability was found in Linux kernel where non-blocking socket in llcp_sock_connect() leads to leak and eventually hanging-up the system.
+- [Live-Hack-CVE/CVE-2020-25673](https://github.com/Live-Hack-CVE/CVE-2020-25673)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25673">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25673">
+
+---
 ## CVE-2020-25662 (2020-11-05T21:15:00)
 > A Red Hat only CVE-2020-12352 regression issue was found in the way the Linux kernel's Bluetooth stack implementation handled the initialization of stack memory when handling certain AMP packets. This flaw allows a remote attacker in an adjacent range to leak small portions of stack memory on the system by sending specially crafted AMP packets. The highest threat from this vulnerability is to data confidentiality.
 - [Live-Hack-CVE/CVE-2020-25662](https://github.com/Live-Hack-CVE/CVE-2020-25662)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25662">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25662">
+
+---
+## CVE-2020-25654 (2020-11-24T20:15:00)
+> An ACL bypass flaw was found in pacemaker. An attacker having a local account on the cluster and in the haclient group could use IPC communication with various daemons directly to perform certain tasks that they would be prevented by ACLs from doing if they went through the configuration.
+- [Live-Hack-CVE/CVE-2020-25654](https://github.com/Live-Hack-CVE/CVE-2020-25654)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25654">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25654">
+
+---
+## CVE-2020-25634 (2021-05-26T21:15:00)
+> A flaw was found in Red Hat 3scale’s API docs URL, where it is accessible without credentials. This flaw allows an attacker to view sensitive information or modify service APIs. Versions before 3scale-2.10.0-ER1 are affected.
+- [Live-Hack-CVE/CVE-2020-25634](https://github.com/Live-Hack-CVE/CVE-2020-25634)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25634">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25634">
 
 ---
 ## CVE-2020-25596 (2020-09-23T22:15:00)

@@ -3226,6 +3226,31 @@
 - [sai-reddy2021/CVE-2021-1675-LPE](https://github.com/sai-reddy2021/CVE-2021-1675-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/sai-reddy2021/CVE-2021-1675-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/sai-reddy2021/CVE-2021-1675-LPE">
 
 ---
+## CVE-2021-1589 (2021-09-23T03:15:00)
+> A vulnerability in the disaster recovery feature of Cisco SD-WAN vManage Software could allow an authenticated, remote attacker to gain unauthorized access to user credentials. This vulnerability exists because access to API endpoints is not properly restricted. An attacker could exploit this vulnerability by sending a request to an API endpoint. A successful exploit could allow the attacker to gain unauthorized access to administrative credentials that could be used in further attacks.
+- [Live-Hack-CVE/CVE-2021-1589](https://github.com/Live-Hack-CVE/CVE-2021-1589)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-1589">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-1589">
+
+---
+## CVE-2021-1583 (2021-08-25T20:15:00)
+> A vulnerability in the fabric infrastructure file system access control of Cisco Nexus 9000 Series Fabric Switches in Application Centric Infrastructure (ACI) mode could allow an authenticated, local attacker to read arbitrary files on an affected system. This vulnerability is due to improper access control. An attacker with Administrator privileges could exploit this vulnerability by executing a specific vulnerable command on an affected device. A successful exploit could allow the attacker to read arbitrary files on the file system of the affected device.
+- [Live-Hack-CVE/CVE-2021-1583](https://github.com/Live-Hack-CVE/CVE-2021-1583)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-1583">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-1583">
+
+---
+## CVE-2021-1577 (2021-08-25T20:15:00)
+> A vulnerability in an API endpoint of Cisco Application Policy Infrastructure Controller (APIC) and Cisco Cloud Application Policy Infrastructure Controller (Cloud APIC) could allow an unauthenticated, remote attacker to read or write arbitrary files on an affected system. This vulnerability is due to improper access control. An attacker could exploit this vulnerability by using a specific API endpoint to upload a file to an affected device. A successful exploit could allow the attacker to read or write arbitrary files on an affected device.
+- [Live-Hack-CVE/CVE-2021-1577](https://github.com/Live-Hack-CVE/CVE-2021-1577)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-1577">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-1577">
+
+---
+## CVE-2021-1562 (2021-07-08T19:15:00)
+> A vulnerability in the XSI-Actions interface of Cisco BroadWorks Application Server could allow an authenticated, remote attacker to access sensitive information on an affected system. This vulnerability is due to improper input validation and authorization of specific commands that a user can execute within the XSI-Actions interface. An attacker could exploit this vulnerability by authenticating to an affected device and issuing a specific set of commands. A successful exploit could allow the attacker to join a Call Center instance and have calls that they do not have permissions to access distributed to them from the Call Center queue. At the time of publication, Cisco had not released updates that address this vulnerability for Cisco BroadWorks Application Server. However, firmware patches are available.
+- [Live-Hack-CVE/CVE-2021-1562](https://github.com/Live-Hack-CVE/CVE-2021-1562)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-1562">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-1562">
+
+---
+## CVE-2021-1423 (2021-03-24T21:15:00)
+> A vulnerability in the implementation of a CLI command in Cisco Aironet Access Points (AP) could allow an authenticated, local attacker to overwrite files in the flash memory of the device. This vulnerability is due to insufficient input validation for a specific command. An attacker could exploit this vulnerability by issuing a command with crafted arguments. A successful exploit could allow the attacker to overwrite or create files with data that is already present in other files that are hosted on the affected device.
+- [Live-Hack-CVE/CVE-2021-1423](https://github.com/Live-Hack-CVE/CVE-2021-1423)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-1423">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-1423">
+
+---
 ## CVE-2021-0981 (2021-12-15T19:15:00)
 > In enqueueNotificationInternal of NotificationManagerService.java, there is a possible way to run a foreground service without showing a notification due to improper input validation. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11Android ID: A-191981182
 - [Live-Hack-CVE/CVE-2021-0981](https://github.com/Live-Hack-CVE/CVE-2021-0981)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-0981">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-0981">

@@ -1882,6 +1882,11 @@
 - [Live-Hack-CVE/CVE-2022-43406](https://github.com/Live-Hack-CVE/CVE-2022-43406)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43406">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43406">
 
 ---
+## CVE-2022-43405 (2022-10-19T16:15:00)
+> A sandbox bypass vulnerability in Jenkins Pipeline: Groovy Libraries Plugin 612.v84da_9c54906d and earlier allows attackers with permission to define untrusted Pipeline libraries and to define and run sandboxed scripts, including Pipelines, to bypass the sandbox protection and execute arbitrary code in the context of the Jenkins controller JVM.
+- [Live-Hack-CVE/CVE-2022-43405](https://github.com/Live-Hack-CVE/CVE-2022-43405)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43405">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43405">
+
+---
 ## CVE-2022-43400 (2022-10-21T14:15:00)
 > A vulnerability has been identified in Siveillance Video Mobile Server V2022 R2 (All versions < V22.2a (80)). The mobile server component of affected applications improperly handles the log in for Active Directory accounts that are part of Administrators group. This could allow an unauthenticated remote attacker to access the application without a valid account.
 - [Live-Hack-CVE/CVE-2022-43400](https://github.com/Live-Hack-CVE/CVE-2022-43400)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43400">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43400">
@@ -2743,6 +2748,11 @@
 - [Live-Hack-CVE/CVE-2022-42345](https://github.com/Live-Hack-CVE/CVE-2022-42345)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42345">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42345">
 
 ---
+## CVE-2022-42344 (2022-10-20T17:15:00)
+> Adobe Commerce versions 2.4.3-p2 (and earlier), 2.3.7-p3 (and earlier) and 2.4.4 (and earlier) are affected by an improper input validation vulnerability. An authenticated attacker can trigger an insecure direct object reference in the `V1/customers/me` endpoint to achieve information exposure and privilege escalation.
+- [Live-Hack-CVE/CVE-2022-42344](https://github.com/Live-Hack-CVE/CVE-2022-42344)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42344">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42344">
+
+---
 ## CVE-2022-42326 (2022-11-01T13:15:00)
 > Xenstore: Guests can create arbitrary number of nodes via transactions T[his CNA information record relates to multiple CVEs; the text explains which aspects/vulnerabilities correspond to which CVE.] In case a node has been created in a transaction and it is later deleted in the same transaction, the transaction will be terminated with an error. As this error is encountered only when handling the deleted node at transaction finalization, the transaction will have been performed partially and without updating the accounting information. This will enable a malicious guest to create arbitrary number of nodes.
 - [Live-Hack-CVE/CVE-2022-42326](https://github.com/Live-Hack-CVE/CVE-2022-42326)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42326">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42326">
@@ -2897,6 +2907,12 @@
 ## CVE-2022-42055 (2022-10-27T18:15:00)
 > Multiple command injection vulnerabilities in GL.iNet GoodCloud IoT Device Management System Version 1.00.220412.00 via the ping and traceroute tools allow attackers to read arbitrary files on the system.
 - [gigaryte/cve-2022-42055](https://github.com/gigaryte/cve-2022-42055)	<img alt="forks" src="https://img.shields.io/github/forks/gigaryte/cve-2022-42055">	<img alt="stars" src="https://img.shields.io/github/stars/gigaryte/cve-2022-42055">
+
+---
+## CVE-2022-42046 (2022-12-20T23:15:00)
+> WFS, Inc HeavenBurnsRed 2020.3.15.7141260 is vulnerable to Local Privilege Escalation.
+- [kkent030315/CVE-2022-42046](https://github.com/kkent030315/CVE-2022-42046)	<img alt="forks" src="https://img.shields.io/github/forks/kkent030315/CVE-2022-42046">	<img alt="stars" src="https://img.shields.io/github/stars/kkent030315/CVE-2022-42046">
+- [Live-Hack-CVE/CVE-2022-42046](https://github.com/Live-Hack-CVE/CVE-2022-42046)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42046">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42046">
 
 ---
 ## CVE-2022-42045 ()
@@ -5115,6 +5131,11 @@
 - [Live-Hack-CVE/CVE-2022-38119](https://github.com/Live-Hack-CVE/CVE-2022-38119)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38119">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38119">
 
 ---
+## CVE-2022-38108 (2022-10-20T21:15:00)
+> SolarWinds Platform was susceptible to the Deserialization of Untrusted Data. This vulnerability allows a remote adversary with Orion admin-level account access to SolarWinds Web Console to execute arbitrary commands.
+- [Live-Hack-CVE/CVE-2022-38108](https://github.com/Live-Hack-CVE/CVE-2022-38108)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38108">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38108">
+
+---
 ## CVE-2022-38104 (2022-10-21T16:15:00)
 > Auth. WordPress Options Change (siteurl, users_can_register, default_role, admin_email and new_admin_email) vulnerability in Biplob Adhikari's Accordions – Multiple Accordions or FAQs Builder plugin (versions <= 2.0.3 on WordPress.
 - [Live-Hack-CVE/CVE-2022-38104](https://github.com/Live-Hack-CVE/CVE-2022-38104)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38104">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38104">
@@ -5664,6 +5685,11 @@
 ## CVE-2022-3699 ()
 > 
 - [alfarom256/CVE-2022-3699](https://github.com/alfarom256/CVE-2022-3699)	<img alt="forks" src="https://img.shields.io/github/forks/alfarom256/CVE-2022-3699">	<img alt="stars" src="https://img.shields.io/github/stars/alfarom256/CVE-2022-3699">
+
+---
+## CVE-2022-36966 (2022-10-20T21:15:00)
+> Users with Node Management rights were able to view and edit all nodes due to Insufficient control on URL parameter causing insecure direct object reference (IDOR) vulnerability in SolarWinds Platform 2022.3 and previous.
+- [Live-Hack-CVE/CVE-2022-36966](https://github.com/Live-Hack-CVE/CVE-2022-36966)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36966">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36966">
 
 ---
 ## CVE-2022-36964 (2022-11-29T21:15:00)
@@ -6557,6 +6583,11 @@
 ## CVE-2022-3408 (2022-10-31T16:15:00)
 > The WP Word Count WordPress plugin through 3.2.3 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Cross-Site Scripting attacks even when unfiltered_html is disallowed.
 - [Live-Hack-CVE/CVE-2022-3408](https://github.com/Live-Hack-CVE/CVE-2022-3408)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3408">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3408">
+
+---
+## CVE-2022-34027 (2022-07-18T21:15:00)
+> Nginx NJS v0.7.4 was discovered to contain a segmentation violation via njs_value_property at njs_value.c.
+- [Live-Hack-CVE/CVE-2022-34027](https://github.com/Live-Hack-CVE/CVE-2022-34027)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34027">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34027">
 
 ---
 ## CVE-2022-33981 (2022-06-18T16:15:00)
@@ -7662,6 +7693,7 @@
 ## CVE-2022-30594 (2022-05-12T05:15:00)
 > The Linux kernel before 5.17.2 mishandles seccomp permissions. The PTRACE_SEIZE code path allows attackers to bypass intended restrictions on setting the PT_SUSPEND_SECCOMP flag.
 - [nidhi7598/linux-4.19.72_CVE-2022-30594](https://github.com/nidhi7598/linux-4.19.72_CVE-2022-30594)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.19.72_CVE-2022-30594">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.19.72_CVE-2022-30594">
+- [Live-Hack-CVE/CVE-2022-30594](https://github.com/Live-Hack-CVE/CVE-2022-30594)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30594">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30594">
 
 ---
 ## CVE-2022-3058 (2022-09-26T16:15:00)
@@ -8919,6 +8951,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [LordRNA/CVE-2022-25765](https://github.com/LordRNA/CVE-2022-25765)	<img alt="forks" src="https://img.shields.io/github/forks/LordRNA/CVE-2022-25765">	<img alt="stars" src="https://img.shields.io/github/stars/LordRNA/CVE-2022-25765">
 
 ---
+## CVE-2022-25663 (2022-10-19T11:15:00)
+> Possible buffer overflow due to lack of buffer length check during management frame Rx handling lead to denial of service in Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer Electronics Connectivity
+- [Live-Hack-CVE/CVE-2022-25663](https://github.com/Live-Hack-CVE/CVE-2022-25663)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25663">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25663">
+
+---
 ## CVE-2022-25660 (2022-10-19T11:15:00)
 > Memory corruption due to double free issue in kernel in Snapdragon Auto, Snapdragon Compute, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile
 - [Live-Hack-CVE/CVE-2022-25660](https://github.com/Live-Hack-CVE/CVE-2022-25660)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25660">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25660">
@@ -9678,6 +9715,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-22293](https://github.com/Live-Hack-CVE/CVE-2022-22293)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22293">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22293">
 
 ---
+## CVE-2022-22235 (2022-10-18T03:15:00)
+> An Improper Check for Unusual or Exceptional Conditions vulnerability in the Packet Forwarding Engine (PFE) of Juniper Networks Junos OS on SRX Series allows an unauthenticated, network-based, attacker to cause Denial of Service (DoS). A PFE crash will happen when a GPRS Tunnel Protocol (GTP) packet is received with a malformed field in the IP header of GTP encapsulated General Packet Radio Services (GPRS) traffic. The packet needs to match existing state which is outside the attackers control, so the issue cannot be directly exploited. The issue will only be observed when endpoint address validation is enabled. This issue affects Juniper Networks Junos OS on SRX Series: 20.2 versions prior to 20.2R3-S5; 20.3 versions prior to 20.3R3-S4; 20.4 versions prior to 20.4R3-S3; 21.1 versions prior to 21.1R3-S2; 21.2 versions prior to 21.2R3-S1; 21.3 versions prior to 21.3R3; 21.4 versions prior to 21.4R1-S2, 21.4R2; 22.1 versions prior to 22.1R1-S1, 22.1R2. This issue does not affect Juniper Networks Junos OS versions prior to 20.2R1.
+- [Live-Hack-CVE/CVE-2022-22235](https://github.com/Live-Hack-CVE/CVE-2022-22235)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22235">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22235">
+
+---
 ## CVE-2022-22078 (2022-10-19T11:15:00)
 > Denial of service in BOOT when partition size for a particular partition is requested due to integer overflow when blocks are calculated in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Wearables
 - [Live-Hack-CVE/CVE-2022-22078](https://github.com/Live-Hack-CVE/CVE-2022-22078)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22078">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22078">
@@ -9966,6 +10008,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-20775 (2022-09-30T19:15:00)
 > Multiple vulnerabilities in the CLI of Cisco SD-WAN Software could allow an authenticated, local attacker to gain elevated privileges. These vulnerabilities are due to improper access controls on commands within the application CLI. An attacker could exploit these vulnerabilities by running a malicious command on the application CLI. A successful exploit could allow the attacker to execute arbitrary commands as the root user.
 - [Live-Hack-CVE/CVE-2022-20775](https://github.com/Live-Hack-CVE/CVE-2022-20775)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20775">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20775">
+
+---
+## CVE-2022-2069 (2022-10-20T17:15:00)
+> The APDFL.dll in Siemens JT2Go prior to V13.3.0.5 and Siemens Teamcenter Visualization prior to V14.0.0.2 contains an out of bounds write past the fixed-length heap-based buffer while parsing specially crafted PDF files. This could allow an attacker to execute code in the context of the current process.
+- [Live-Hack-CVE/CVE-2022-2069](https://github.com/Live-Hack-CVE/CVE-2022-2069)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2069">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2069">
 
 ---
 ## CVE-2022-20687 (2022-12-12T09:15:00)
@@ -10842,6 +10889,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292](https://github.com/nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292">
 - [greek0x0/CVE-2022-1292](https://github.com/greek0x0/CVE-2022-1292)	<img alt="forks" src="https://img.shields.io/github/forks/greek0x0/CVE-2022-1292">	<img alt="stars" src="https://img.shields.io/github/stars/greek0x0/CVE-2022-1292">
 - [und3sc0n0c1d0/CVE-2022-1292](https://github.com/und3sc0n0c1d0/CVE-2022-1292)	<img alt="forks" src="https://img.shields.io/github/forks/und3sc0n0c1d0/CVE-2022-1292">	<img alt="stars" src="https://img.shields.io/github/stars/und3sc0n0c1d0/CVE-2022-1292">
+- [Live-Hack-CVE/CVE-2022-1292](https://github.com/Live-Hack-CVE/CVE-2022-1292)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1292">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1292">
 
 ---
 ## CVE-2022-1269 (2022-05-02T16:15:00)

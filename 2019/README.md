@@ -46,6 +46,21 @@
 - [Live-Hack-CVE/CVE-2019-7671](https://github.com/Live-Hack-CVE/CVE-2019-7671)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7671">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7671">
 
 ---
+## CVE-2019-7670 (2019-07-01T19:15:00)
+> Prima Systems FlexAir, Versions 2.3.38 and prior. The application incorrectly neutralizes special elements that could modify the intended OS command when it is sent to a downstream component, which could allow attackers to execute commands directly on the operating system.
+- [Live-Hack-CVE/CVE-2019-7670](https://github.com/Live-Hack-CVE/CVE-2019-7670)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7670">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7670">
+
+---
+## CVE-2019-7669 (2019-07-01T19:15:00)
+> Prima Systems FlexAir, Versions 2.3.38 and prior. Improper validation of file extensions when uploading files could allow a remote authenticated attacker to upload and execute malicious applications within the application’s web root with root privileges.
+- [Live-Hack-CVE/CVE-2019-7669](https://github.com/Live-Hack-CVE/CVE-2019-7669)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7669">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7669">
+
+---
+## CVE-2019-7667 (2019-07-01T19:15:00)
+> Prima Systems FlexAir, Versions 2.3.38 and prior. The application generates database backup files with a predictable name, and an attacker can use brute force to identify the database backup file name. A malicious actor can exploit this issue to download the database file and disclose login information, which can allow the attacker to bypass authentication and have full access to the system.
+- [Live-Hack-CVE/CVE-2019-7667](https://github.com/Live-Hack-CVE/CVE-2019-7667)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7667">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7667">
+
+---
 ## CVE-2019-7666 (2019-07-01T19:15:00)
 > Prima Systems FlexAir, Versions 2.3.38 and prior. The application allows improper authentication using the MD5 hash value of the password, which may allow an attacker with access to the database to login as admin without decrypting the password.
 - [Live-Hack-CVE/CVE-2019-7666](https://github.com/Live-Hack-CVE/CVE-2019-7666)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7666">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7666">
