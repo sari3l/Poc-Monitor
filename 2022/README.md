@@ -10284,6 +10284,41 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [hohlovscky2017/Demo_15_11_2022_cvety](https://github.com/hohlovscky2017/Demo_15_11_2022_cvety)	<img alt="forks" src="https://img.shields.io/github/forks/hohlovscky2017/Demo_15_11_2022_cvety">	<img alt="stars" src="https://img.shields.io/github/stars/hohlovscky2017/Demo_15_11_2022_cvety">
 
 ---
+## CVE-2022-0977 (2022-07-21T23:15:00)
+> Use after free in Browser UI in Google Chrome on Chrome OS prior to 99.0.4844.74 allowed a remote attacker who convinced a user to engage in specific user interaction to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-0977](https://github.com/Live-Hack-CVE/CVE-2022-0977)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0977">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0977">
+
+---
+## CVE-2022-0976 (2022-07-21T23:15:00)
+> Heap buffer overflow in GPU in Google Chrome prior to 99.0.4844.74 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-0976](https://github.com/Live-Hack-CVE/CVE-2022-0976)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0976">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0976">
+
+---
+## CVE-2022-0975 (2022-07-21T23:15:00)
+> Use after free in ANGLE in Google Chrome prior to 99.0.4844.74 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-0975](https://github.com/Live-Hack-CVE/CVE-2022-0975)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0975">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0975">
+
+---
+## CVE-2022-0974 (2022-07-21T23:15:00)
+> Use after free in Splitscreen in Google Chrome on Chrome OS prior to 99.0.4844.74 allowed a remote attacker who convinced a user to engage in specific user interaction to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-0974](https://github.com/Live-Hack-CVE/CVE-2022-0974)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0974">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0974">
+
+---
+## CVE-2022-0973 (2022-07-21T23:15:00)
+> Use after free in Safe Browsing in Google Chrome prior to 99.0.4844.74 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-0973](https://github.com/Live-Hack-CVE/CVE-2022-0973)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0973">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0973">
+
+---
+## CVE-2022-0972 (2022-07-21T23:15:00)
+> Use after free in Extensions in Google Chrome prior to 99.0.4844.74 allowed an attacker who convinced a user to install a malicious extension to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-0972](https://github.com/Live-Hack-CVE/CVE-2022-0972)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0972">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0972">
+
+---
+## CVE-2022-0971 (2022-07-21T23:15:00)
+> Use after free in Blink Layout in Google Chrome on Android prior to 99.0.4844.74 allowed a remote attacker who had compromised the renderer process to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-0971](https://github.com/Live-Hack-CVE/CVE-2022-0971)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0971">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0971">
+
+---
 ## CVE-2022-0943 (2022-03-14T21:15:00)
 > Heap-based Buffer Overflow occurs in vim in GitHub repository vim/vim prior to 8.2.4563.
 - [Live-Hack-CVE/CVE-2022-0943](https://github.com/Live-Hack-CVE/CVE-2022-0943)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0943">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0943">
@@ -10363,6 +10398,46 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-0819 (2022-03-02T16:15:00)
 > Code Injection in GitHub repository dolibarr/dolibarr prior to 15.0.1.
 - [Live-Hack-CVE/CVE-2022-0819](https://github.com/Live-Hack-CVE/CVE-2022-0819)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0819">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0819">
+
+---
+## CVE-2022-0799 (2022-04-05T01:15:00)
+> Insufficient policy enforcement in Installer in Google Chrome on Windows prior to 99.0.4844.51 allowed a remote attacker to perform local privilege escalation via a crafted offline installer file.
+- [Live-Hack-CVE/CVE-2022-0799](https://github.com/Live-Hack-CVE/CVE-2022-0799)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0799">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0799">
+
+---
+## CVE-2022-0798 (2022-04-05T01:15:00)
+> Use after free in MediaStream in Google Chrome prior to 99.0.4844.51 allowed an attacker who convinced a user to install a malicious extension to potentially exploit heap corruption via a crafted Chrome Extension.
+- [Live-Hack-CVE/CVE-2022-0798](https://github.com/Live-Hack-CVE/CVE-2022-0798)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0798">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0798">
+
+---
+## CVE-2022-0797 (2022-04-05T01:15:00)
+> Out of bounds memory access in Mojo in Google Chrome prior to 99.0.4844.51 allowed a remote attacker to perform an out of bounds memory write via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-0797](https://github.com/Live-Hack-CVE/CVE-2022-0797)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0797">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0797">
+
+---
+## CVE-2022-0796 (2022-04-05T01:15:00)
+> Use after free in Media in Google Chrome prior to 99.0.4844.51 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-0796](https://github.com/Live-Hack-CVE/CVE-2022-0796)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0796">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0796">
+
+---
+## CVE-2022-0795 (2022-04-05T01:15:00)
+> Type confusion in Blink Layout in Google Chrome prior to 99.0.4844.51 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-0795](https://github.com/Live-Hack-CVE/CVE-2022-0795)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0795">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0795">
+
+---
+## CVE-2022-0794 (2022-04-05T01:15:00)
+> Use after free in WebShare in Google Chrome prior to 99.0.4844.51 allowed a remote attacker who convinced a user to engage in specific user interaction to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-0794](https://github.com/Live-Hack-CVE/CVE-2022-0794)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0794">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0794">
+
+---
+## CVE-2022-0793 (2022-04-05T01:15:00)
+> Use after free in Cast in Google Chrome prior to 99.0.4844.51 allowed an attacker who convinced a user to install a malicious extension and engage in specific user interaction to potentially exploit heap corruption via a crafted Chrome Extension.
+- [Live-Hack-CVE/CVE-2022-0793](https://github.com/Live-Hack-CVE/CVE-2022-0793)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0793">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0793">
+
+---
+## CVE-2022-0789 (2022-04-05T01:15:00)
+> Heap buffer overflow in ANGLE in Google Chrome prior to 99.0.4844.51 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-0789](https://github.com/Live-Hack-CVE/CVE-2022-0789)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0789">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0789">
 
 ---
 ## CVE-2022-0746 (2022-02-25T09:15:00)

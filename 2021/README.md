@@ -1730,6 +1730,7 @@
 - [mega8bit/exploit_cve-2021-29447](https://github.com/mega8bit/exploit_cve-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/mega8bit/exploit_cve-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/mega8bit/exploit_cve-2021-29447">
 - [thomas-osgood/CVE-2021-29447](https://github.com/thomas-osgood/CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/thomas-osgood/CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/thomas-osgood/CVE-2021-29447">
 - [Abdulazizalsewedy/CVE-2021-29447](https://github.com/Abdulazizalsewedy/CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/Abdulazizalsewedy/CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/Abdulazizalsewedy/CVE-2021-29447">
+- [Live-Hack-CVE/CVE-2021-29447](https://github.com/Live-Hack-CVE/CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29447">
 
 ---
 ## CVE-2021-29421 (2021-04-01T20:15:00)
