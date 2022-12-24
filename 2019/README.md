@@ -451,6 +451,31 @@
 - [Live-Hack-CVE/CVE-2019-19966](https://github.com/Live-Hack-CVE/CVE-2019-19966)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19966">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19966">
 
 ---
+## CVE-2019-19953 (2019-12-24T01:15:00)
+> In GraphicsMagick 1.4 snapshot-20191208 Q8, there is a heap-based buffer over-read in the function EncodeImage of coders/pict.c.
+- [Live-Hack-CVE/CVE-2019-19953](https://github.com/Live-Hack-CVE/CVE-2019-19953)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19953">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19953">
+
+---
+## CVE-2019-19951 (2019-12-24T01:15:00)
+> In GraphicsMagick 1.4 snapshot-20190423 Q8, there is a heap-based buffer overflow in the function ImportRLEPixels of coders/miff.c.
+- [Live-Hack-CVE/CVE-2019-19951](https://github.com/Live-Hack-CVE/CVE-2019-19951)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19951">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19951">
+
+---
+## CVE-2019-19950 (2019-12-24T01:15:00)
+> In GraphicsMagick 1.4 snapshot-20190403 Q8, there is a use-after-free in ThrowException and ThrowLoggedException of magick/error.c.
+- [Live-Hack-CVE/CVE-2019-19950](https://github.com/Live-Hack-CVE/CVE-2019-19950)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19950">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19950">
+
+---
+## CVE-2019-19949 (2019-12-24T01:15:00)
+> In ImageMagick 7.0.8-43 Q16, there is a heap-based buffer over-read in the function WritePNGImage of coders/png.c, related to Magick_png_write_raw_profile and LocaleNCompare.
+- [Live-Hack-CVE/CVE-2019-19949](https://github.com/Live-Hack-CVE/CVE-2019-19949)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19949">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19949">
+
+---
+## CVE-2019-19948 (2019-12-24T01:15:00)
+> In ImageMagick 7.0.8-43 Q16, there is a heap-based buffer overflow in the function WriteSGIImage of coders/sgi.c.
+- [Live-Hack-CVE/CVE-2019-19948](https://github.com/Live-Hack-CVE/CVE-2019-19948)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19948">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19948">
+
+---
 ## CVE-2019-19947 (2019-12-24T00:15:00)
 > In the Linux kernel through 5.4.6, there are information leaks of uninitialized memory to a USB device in the drivers/net/can/usb/kvaser_usb/kvaser_usb_leaf.c driver, aka CID-da2311a6385c.
 - [Live-Hack-CVE/CVE-2019-19947](https://github.com/Live-Hack-CVE/CVE-2019-19947)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19947">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19947">

@@ -1421,6 +1421,11 @@
 - [Live-Hack-CVE/CVE-2021-33618](https://github.com/Live-Hack-CVE/CVE-2021-33618)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33618">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33618">
 
 ---
+## CVE-2021-33587 (2021-05-28T20:15:00)
+> The css-what package 4.0.0 through 5.0.0 for Node.js does not ensure that attribute parsing has Linear Time Complexity relative to the size of the input.
+- [Live-Hack-CVE/CVE-2021-33587](https://github.com/Live-Hack-CVE/CVE-2021-33587)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33587">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33587">
+
+---
 ## CVE-2021-33558 (2021-05-27T11:15:00)
 > Boa 0.94.13 allows remote attackers to obtain sensitive information via a misconfiguration involving backup.html, preview.html, js/log.js, log.html, email.html, online-users.html, and config.js.
 - [anldori/CVE-2021-33558](https://github.com/anldori/CVE-2021-33558)	<img alt="forks" src="https://img.shields.io/github/forks/anldori/CVE-2021-33558">	<img alt="stars" src="https://img.shields.io/github/stars/anldori/CVE-2021-33558">
@@ -1705,6 +1710,91 @@
 - [kahla-sec/CVE-2021-27850_POC](https://github.com/kahla-sec/CVE-2021-27850_POC)	<img alt="forks" src="https://img.shields.io/github/forks/kahla-sec/CVE-2021-27850_POC">	<img alt="stars" src="https://img.shields.io/github/stars/kahla-sec/CVE-2021-27850_POC">
 - [Ovi3/CVE_2021_27850_POC](https://github.com/Ovi3/CVE_2021_27850_POC)	<img alt="forks" src="https://img.shields.io/github/forks/Ovi3/CVE_2021_27850_POC">	<img alt="stars" src="https://img.shields.io/github/stars/Ovi3/CVE_2021_27850_POC">
 - [dorkerdevil/CVE-2021-27850_POC](https://github.com/dorkerdevil/CVE-2021-27850_POC)	<img alt="forks" src="https://img.shields.io/github/forks/dorkerdevil/CVE-2021-27850_POC">	<img alt="stars" src="https://img.shields.io/github/stars/dorkerdevil/CVE-2021-27850_POC">
+
+---
+## CVE-2021-27634 (2021-06-09T14:15:00)
+> SAP NetWeaver AS for ABAP (RFC Gateway), versions - KRNL32NUC - 7.22,7.22EXT, KRNL64NUC - 7.22,7.22EXT,7.49, KRNL64UC - 8.04,7.22,7.22EXT,7.49,7.53,7.73, KERNEL - 7.22,8.04,7.49,7.53,7.73,7.77,7.81,7.82,7.83, allows an unauthenticated attacker without specific knowledge of the system to send a specially crafted packet over a network which will trigger an internal error in the system due to improper input validation in method ThCpicDtCreate () causing the system to crash and rendering it unavailable. In this attack, no data in the system can be viewed or modified.
+- [Live-Hack-CVE/CVE-2021-27634](https://github.com/Live-Hack-CVE/CVE-2021-27634)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27634">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27634">
+
+---
+## CVE-2021-27633 (2021-06-09T14:15:00)
+> SAP NetWeaver AS for ABAP (RFC Gateway), versions - KRNL32NUC - 7.22,7.22EXT, KRNL64NUC - 7.22,7.22EXT,7.49, KRNL64UC - 8.04,7.22,7.22EXT,7.49,7.53,7.73, KERNEL - 7.22,8.04,7.49,7.53,7.73,7.77,7.81,7.82,7.83, allows an unauthenticated attacker without specific knowledge of the system to send a specially crafted packet over a network which will trigger an internal error in the system due to improper input validation in method ThCPIC() causing the system to crash and rendering it unavailable. In this attack, no data in the system can be viewed or modified.
+- [Live-Hack-CVE/CVE-2021-27633](https://github.com/Live-Hack-CVE/CVE-2021-27633)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27633">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27633">
+
+---
+## CVE-2021-27632 (2021-06-09T14:15:00)
+> SAP NetWeaver ABAP Server and ABAP Platform (Enqueue Server), versions - KRNL32NUC - 7.22,7.22EXT, KRNL64NUC - 7.22,7.22EXT,7.49, KRNL64UC - 8.04,7.22,7.22EXT,7.49,7.53,7.73, KERNEL - 7.22,8.04,7.49,7.53,7.73, allows an unauthenticated attacker without specific knowledge of the system to send a specially crafted packet over a network which will trigger an internal error in the system due to improper input validation in method EnqConvUniToSrvReq() causing the system to crash and rendering it unavailable. In this attack, no data in the system can be viewed or modified.
+- [Live-Hack-CVE/CVE-2021-27632](https://github.com/Live-Hack-CVE/CVE-2021-27632)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27632">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27632">
+
+---
+## CVE-2021-27631 (2021-06-09T14:15:00)
+> SAP NetWeaver ABAP Server and ABAP Platform (Enqueue Server), versions - KRNL32NUC - 7.22,7.22EXT, KRNL64NUC - 7.22,7.22EXT,7.49, KRNL64UC - 8.04,7.22,7.22EXT,7.49,7.53,7.73, KERNEL - 7.22,8.04,7.49,7.53,7.73, allows an unauthenticated attacker without specific knowledge of the system to send a specially crafted packet over a network which will trigger an internal error in the system due to improper input validation in method EnqConvUniToSrvReq() causing the system to crash and rendering it unavailable. In this attack, no data in the system can be viewed or modified.
+- [Live-Hack-CVE/CVE-2021-27631](https://github.com/Live-Hack-CVE/CVE-2021-27631)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27631">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27631">
+
+---
+## CVE-2021-27630 (2021-06-09T14:15:00)
+> SAP NetWeaver ABAP Server and ABAP Platform (Enqueue Server), versions - KRNL32NUC - 7.22,7.22EXT, KRNL64NUC - 7.22,7.22EXT,7.49, KRNL64UC - 8.04,7.22,7.22EXT,7.49,7.53,7.73, KERNEL - 7.22,8.04,7.49,7.53,7.73, allows an unauthenticated attacker without specific knowledge of the system to send a specially crafted packet over a network which will trigger an internal error in the system due to improper input validation in method EnqConvUniToSrvReq() causing the system to crash and rendering it unavailable. In this attack, no data in the system can be viewed or modified.
+- [Live-Hack-CVE/CVE-2021-27630](https://github.com/Live-Hack-CVE/CVE-2021-27630)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27630">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27630">
+
+---
+## CVE-2021-27629 (2021-06-09T14:15:00)
+> SAP NetWeaver ABAP Server and ABAP Platform (Enqueue Server), versions - KRNL32NUC - 7.22,7.22EXT, KRNL64NUC - 7.22,7.22EXT,7.49, KRNL64UC - 8.04,7.22,7.22EXT,7.49,7.53,7.73, KERNEL - 7.22,8.04,7.49,7.53,7.73, allows an unauthenticated attacker without specific knowledge of the system to send a specially crafted packet over a network which will trigger an internal error in the system due to improper input validation in method EncPSetUnsupported() causing the system to crash and rendering it unavailable. In this attack, no data in the system can be viewed or modified.
+- [Live-Hack-CVE/CVE-2021-27629](https://github.com/Live-Hack-CVE/CVE-2021-27629)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27629">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27629">
+
+---
+## CVE-2021-27628 (2021-06-09T14:15:00)
+> SAP NetWeaver ABAP Server and ABAP Platform (Dispatcher), versions - KRNL32NUC - 7.22,7.22EXT, KRNL32UC - 7.22,7.22EXT, KRNL64NUC - 7.22,7.22EXT,7.49, KRNL64UC - 8.04,7.22,7.22EXT,7.49,7.53,7.73, KERNEL - 7.22,8.04,7.49,7.53,7.73,7.77,7.81,7.82,7.83, allows an unauthenticated attacker without specific knowledge of the system to send a specially crafted packet over a network which will trigger an internal error in the system due to improper input validation in method DpRTmPrepareReq() causing the system to crash and rendering it unavailable. In this attack, no data in the system can be viewed or modified.
+- [Live-Hack-CVE/CVE-2021-27628](https://github.com/Live-Hack-CVE/CVE-2021-27628)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27628">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27628">
+
+---
+## CVE-2021-27627 (2021-06-09T14:15:00)
+> SAP Internet Graphics Service, versions - 7.20,7.20EXT,7.53,7.20_EX2,7.81, allows an unauthenticated attacker after retrieving an existing system state value can submit a malicious IGS request over a network which due to insufficient input validation in method ChartInterpreter::DoIt() which will trigger an internal memory corruption error in the system causing the system to crash and rendering it unavailable. In this attack, no data in the system can be viewed or modified.
+- [Live-Hack-CVE/CVE-2021-27627](https://github.com/Live-Hack-CVE/CVE-2021-27627)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27627">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27627">
+
+---
+## CVE-2021-27626 (2021-06-09T14:15:00)
+> SAP Internet Graphics Service, versions - 7.20,7.20EXT,7.53,7.20_EX2,7.81, allows an unauthenticated attacker after retrieving an existing system state value can submit a malicious IGS request over a network which due to insufficient input validation in method CMiniXMLParser::Parse() which will trigger an internal memory corruption error in the system causing the system to crash and rendering it unavailable. In this attack, no data in the system can be viewed or modified.
+- [Live-Hack-CVE/CVE-2021-27626](https://github.com/Live-Hack-CVE/CVE-2021-27626)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27626">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27626">
+
+---
+## CVE-2021-27625 (2021-06-09T14:15:00)
+> SAP Internet Graphics Service, versions - 7.20,7.20EXT,7.53,7.20_EX2,7.81, allows an unauthenticated attacker after retrieving an existing system state value can submit a malicious IGS request over a network which due to insufficient input validation in method IgsData::freeMemory() which will trigger an internal memory corruption error in the system causing the system to crash and rendering it unavailable. In this attack, no data in the system can be viewed or modified.
+- [Live-Hack-CVE/CVE-2021-27625](https://github.com/Live-Hack-CVE/CVE-2021-27625)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27625">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27625">
+
+---
+## CVE-2021-27624 (2021-06-09T14:15:00)
+> SAP Internet Graphics Service, versions - 7.20,7.20EXT,7.53,7.20_EX2,7.81, allows an unauthenticated attacker after retrieving an existing system state value can submit a malicious IGS request over a network which due to insufficient input validation in method CiXMLIStreamRawBuffer::readRaw () which will trigger an internal memory corruption error in the system causing the system to crash and rendering it unavailable. In this attack, no data in the system can be viewed or modified.
+- [Live-Hack-CVE/CVE-2021-27624](https://github.com/Live-Hack-CVE/CVE-2021-27624)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27624">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27624">
+
+---
+## CVE-2021-27623 (2021-06-09T14:15:00)
+> SAP Internet Graphics Service, versions - 7.20,7.20EXT,7.53,7.20_EX2,7.81, allows an unauthenticated attacker after retrieving an existing system state value can submit a malicious IGS request over a network which due to insufficient input validation in method CXmlUtility::CheckLength() which will trigger an internal memory corruption error in the system causing the system to crash and rendering it unavailable. In this attack, no data in the system can be viewed or modified.
+- [Live-Hack-CVE/CVE-2021-27623](https://github.com/Live-Hack-CVE/CVE-2021-27623)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27623">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27623">
+
+---
+## CVE-2021-27622 (2021-06-09T14:15:00)
+> SAP Internet Graphics Service, versions - 7.20,7.20EXT,7.53,7.20_EX2,7.81, allows an unauthenticated attacker after retrieving an existing system state value can submit a malicious IGS request over a network which due to insufficient input validation in method CDrawRaster::LoadImageFromMemory() which will trigger an internal memory corruption error in the system causing the system to crash and rendering it unavailable. In this attack, no data in the system can be viewed or modified.
+- [Live-Hack-CVE/CVE-2021-27622](https://github.com/Live-Hack-CVE/CVE-2021-27622)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27622">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27622">
+
+---
+## CVE-2021-27620 (2021-06-09T14:15:00)
+> SAP Internet Graphics Service, versions - 7.20,7.20EXT,7.53,7.20_EX2,7.81, allows an unauthenticated attacker after retrieving an existing system state value can submit a malicious IGS request over a network which due to insufficient input validation in method Ups::AddPart() which will trigger an internal memory corruption error in the system causing the system to crash and rendering it unavailable. In this attack, no data in the system can be viewed or modified.
+- [Live-Hack-CVE/CVE-2021-27620](https://github.com/Live-Hack-CVE/CVE-2021-27620)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27620">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27620">
+
+---
+## CVE-2021-27607 (2021-06-09T14:15:00)
+> SAP NetWeaver ABAP Server and ABAP Platform (Dispatcher), versions - KRNL32NUC - 7.22,7.22EXT, KRNL32UC - 7.22,7.22EXT, KRNL64NUC - 7.22,7.22EXT,7.49, KRNL64UC - 8.04,7.22,7.22EXT,7.49,7.53,7.73, KERNEL - 7.22,8.04,7.49,7.53,7.73,7.77,7.81,7.82,7.83, allows an unauthenticated attacker without specific knowledge of the system to send a specially crafted packet over a network which will trigger an internal error in the system due to improper input validation in method ThSncIn() causing the system to crash and rendering it unavailable. In this attack, no data in the system can be viewed or modified.
+- [Live-Hack-CVE/CVE-2021-27607](https://github.com/Live-Hack-CVE/CVE-2021-27607)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27607">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27607">
+
+---
+## CVE-2021-27606 (2021-06-09T14:15:00)
+> SAP NetWeaver ABAP Server and ABAP Platform (Enqueue Server), versions - KRNL32NUC - 7.22,7.22EXT, KRNL64NUC - 7.22,7.22EXT,7.49, KRNL64UC - 8.04,7.22,7.22EXT,7.49,7.53,7.73, KERNEL - 7.22,8.04,7.49,7.53,7.73, allows an unauthenticated attacker without specific knowledge of the system to send a specially crafted packet over a network which will trigger an internal error in the system due to improper input validation in method EncOAMParamStore() causing the system to crash and rendering it unavailable. In this attack, no data in the system can be viewed or modified.
+- [Live-Hack-CVE/CVE-2021-27606](https://github.com/Live-Hack-CVE/CVE-2021-27606)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27606">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27606">
+
+---
+## CVE-2021-27597 (2021-06-09T14:15:00)
+> SAP NetWeaver AS for ABAP (RFC Gateway), versions - KRNL32NUC - 7.22,7.22EXT, KRNL64NUC - 7.22,7.22EXT,7.49, KRNL64UC - 8.04,7.22,7.22EXT,7.49,7.53,7.73, KERNEL - 7.22,8.04,7.49,7.53,7.73,7.77,7.81,7.82,7.83, allows an unauthenticated attacker without specific knowledge of the system to send a specially crafted packet over a network which will trigger an internal error in the system due to improper input validation in method memmove() causing the system to crash and rendering it unavailable. In this attack, no data in the system can be viewed or modified.
+- [Live-Hack-CVE/CVE-2021-27597](https://github.com/Live-Hack-CVE/CVE-2021-27597)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27597">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27597">
 
 ---
 ## CVE-2021-27516 (2021-02-22T00:15:00)

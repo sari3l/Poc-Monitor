@@ -4311,6 +4311,16 @@
 - [Live-Hack-CVE/CVE-2022-39375](https://github.com/Live-Hack-CVE/CVE-2022-39375)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39375">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39375">
 
 ---
+## CVE-2022-39365 (2022-10-27T15:15:00)
+> Pimcore is an open source data and experience management platform. Prior to version 10.5.9, the user controlled twig templates rendering in `Pimcore/Mail` & `ClassDefinition\Layout\Text` is vulnerable to server-side template injection, which could lead to remote code execution. Version 10.5.9 contains a patch for this issue. As a workaround, one may apply the patch manually.
+- [Live-Hack-CVE/CVE-2022-39365](https://github.com/Live-Hack-CVE/CVE-2022-39365)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39365">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39365">
+
+---
+## CVE-2022-39364 (2022-10-27T15:15:00)
+> Nextcloud Server is the file server software for Nextcloud, a self-hosted productivity platform. In Nextcloud Server prior to versions 23.0.9 and 24.0.5 and Nextcloud Enterprise Server prior to versions 22.2.10.5, 23.0.9, and 24.0.5 an attacker reading `nextcloud.log` may gain knowledge of credentials to connect to a SharePoint service. Nextcloud Server versions 23.0.9 and 24.0.5 and Nextcloud Enterprise Server versions 22.2.10.5, 23.0.9, and 24.0.5 contain a patch for this issue. As a workaround, set `zend.exception_ignore_args = On` as an option in `php.ini`.
+- [Live-Hack-CVE/CVE-2022-39364](https://github.com/Live-Hack-CVE/CVE-2022-39364)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39364">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39364">
+
+---
 ## CVE-2022-39339 (2022-11-25T19:15:00)
 > user_oidc is an OpenID Connect user backend for Nextcloud. In versions prior to 1.2.1 sensitive information such as the OIDC client credentials and tokens are sent in plain text of HTTP without TLS. Any malicious actor with access to monitor user traffic may have been able to compromise account security. This issue has been addressed in in user_oidc v1.2.1. Users are advised to upgrade. Users unable to upgrade may use https to access Nextcloud. Set an HTTPS discovery URL in the provider settings (in Nextcloud OIDC admin settings).
 - [Live-Hack-CVE/CVE-2022-39339](https://github.com/Live-Hack-CVE/CVE-2022-39339)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39339">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39339">
@@ -8210,6 +8220,16 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [LightningGod7/CVE-2022-24706-POC](https://github.com/LightningGod7/CVE-2022-24706-POC)	<img alt="forks" src="https://img.shields.io/github/forks/LightningGod7/CVE-2022-24706-POC">	<img alt="stars" src="https://img.shields.io/github/stars/LightningGod7/CVE-2022-24706-POC">
 
 ---
+## CVE-2022-24670 (2022-10-27T17:15:00)
+> An attacker can use the unrestricted LDAP queries to determine configuration entries
+- [Live-Hack-CVE/CVE-2022-24670](https://github.com/Live-Hack-CVE/CVE-2022-24670)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24670">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24670">
+
+---
+## CVE-2022-24669 (2022-10-27T17:15:00)
+> It may be possible to gain some details of the deployment through a well-crafted attack. This may allow that data to be used to probe internal network services.
+- [Live-Hack-CVE/CVE-2022-24669](https://github.com/Live-Hack-CVE/CVE-2022-24669)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24669">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24669">
+
+---
 ## CVE-2022-2466 (2022-08-31T16:15:00)
 > It was found that Quarkus 2.10.x does not terminate HTTP requests header context which may lead to unpredictable behavior.
 - [yuxblank/CVE-2022-2466---Request-Context-not-terminated-with-GraphQL](https://github.com/yuxblank/CVE-2022-2466---Request-Context-not-terminated-with-GraphQL)	<img alt="forks" src="https://img.shields.io/github/forks/yuxblank/CVE-2022-2466---Request-Context-not-terminated-with-GraphQL">	<img alt="stars" src="https://img.shields.io/github/stars/yuxblank/CVE-2022-2466---Request-Context-not-terminated-with-GraphQL">
@@ -9637,6 +9657,16 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [mistymntncop/CVE-2022-1802](https://github.com/mistymntncop/CVE-2022-1802)	<img alt="forks" src="https://img.shields.io/github/forks/mistymntncop/CVE-2022-1802">	<img alt="stars" src="https://img.shields.io/github/stars/mistymntncop/CVE-2022-1802">
 
 ---
+## CVE-2022-1769 (2022-05-17T17:15:00)
+> Buffer Over-read in GitHub repository vim/vim prior to 8.2.4974.
+- [Live-Hack-CVE/CVE-2022-1769](https://github.com/Live-Hack-CVE/CVE-2022-1769)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1769">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1769">
+
+---
+## CVE-2022-1733 (2022-05-17T17:15:00)
+> Heap-based Buffer Overflow in GitHub repository vim/vim prior to 8.2.4968.
+- [Live-Hack-CVE/CVE-2022-1733](https://github.com/Live-Hack-CVE/CVE-2022-1733)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1733">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1733">
+
+---
 ## CVE-2022-1720 (2022-06-20T15:15:00)
 > Buffer Over-read in function grab_file_name in GitHub repository vim/vim prior to 8.2.4956. This vulnerability is capable of crashing the software, memory modification, and possible remote execution.
 - [Live-Hack-CVE/CVE-2022-1720](https://github.com/Live-Hack-CVE/CVE-2022-1720)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1720">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1720">
@@ -9651,6 +9681,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1664 (2022-05-26T14:15:00)
 > Dpkg::Source::Archive in dpkg, the Debian package management system, before version 1.21.8, 1.20.10, 1.19.8, 1.18.26 is prone to a directory traversal vulnerability. When extracting untrusted source packages in v2 and v3 source package formats that include a debian.tar, the in-place extraction can lead to directory traversal situations on specially crafted orig.tar and debian.tar tarballs.
 - [Live-Hack-CVE/CVE-2022-1664](https://github.com/Live-Hack-CVE/CVE-2022-1664)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1664">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1664">
+
+---
+## CVE-2022-1629 (2022-05-10T14:15:00)
+> Buffer Over-read in function find_next_quote in GitHub repository vim/vim prior to 8.2.4925. This vulnerabilities are capable of crashing software, Modify Memory, and possible remote execution
+- [Live-Hack-CVE/CVE-2022-1629](https://github.com/Live-Hack-CVE/CVE-2022-1629)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1629">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1629">
 
 ---
 ## CVE-2022-1621 (2022-05-10T14:15:00)
