@@ -11600,6 +11600,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-2122 (2022-07-19T20:15:00)
 > DOS / potential heap overwrite in qtdemux using zlib decompression. Integer overflow in qtdemux element in qtdemux_inflate function which causes a segfault, or could cause a heap overwrite, depending on libc and OS. Depending on the libc used, and the underlying OS capabilities, it could be just a segfault or a heap overwrite.
 - [Live-Hack-CVE/CVE-2022-2122](https://github.com/Live-Hack-CVE/CVE-2022-2122)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2122">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2122">
+- [Live-Hack-CVE/CVE-2022-21225](https://github.com/Live-Hack-CVE/CVE-2022-21225)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21225">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21225">
 
 ---
 ## CVE-2022-21126 (2022-11-29T17:15:00)
