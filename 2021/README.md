@@ -68,6 +68,21 @@
 - [nanopathi/external_expat_AOSP10_r33_CVE-2021-46143](https://github.com/nanopathi/external_expat_AOSP10_r33_CVE-2021-46143)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/external_expat_AOSP10_r33_CVE-2021-46143">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/external_expat_AOSP10_r33_CVE-2021-46143">
 
 ---
+## CVE-2021-46022 (2022-01-14T20:15:00)
+> An Use-After-Free vulnerability in rec_mset_elem_destroy() at rec-mset.c of GNU Recutils v1.8.90 can lead to a segmentation fault or application crash.
+- [Live-Hack-CVE/CVE-2021-46022](https://github.com/Live-Hack-CVE/CVE-2021-46022)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46022">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46022">
+
+---
+## CVE-2021-46021 (2022-01-14T20:15:00)
+> An Use-After-Free vulnerability in rec_record_destroy() at rec-record.c of GNU Recutils v1.8.90 can lead to a segmentation fault or application crash.
+- [Live-Hack-CVE/CVE-2021-46021](https://github.com/Live-Hack-CVE/CVE-2021-46021)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46021">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46021">
+
+---
+## CVE-2021-46019 (2022-01-14T20:15:00)
+> An untrusted pointer dereference in rec_db_destroy() at rec-db.c of GNU Recutils v1.8.90 can lead to a segmentation fault or application crash.
+- [Live-Hack-CVE/CVE-2021-46019](https://github.com/Live-Hack-CVE/CVE-2021-46019)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46019">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46019">
+
+---
 ## CVE-2021-45960 (2022-01-01T19:15:00)
 > In Expat (aka libexpat) before 2.4.3, a left shift by 29 (or more) places in the storeAtts function in xmlparse.c can lead to realloc misbehavior (e.g., allocating too few bytes, or only freeing memory).
 - [Live-Hack-CVE/CVE-2021-45960](https://github.com/Live-Hack-CVE/CVE-2021-45960)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45960">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45960">
@@ -133,6 +148,11 @@
 ## CVE-2021-45450 (2021-12-21T07:15:00)
 > In Mbed TLS before 2.28.0 and 3.x before 3.1.0, psa_cipher_generate_iv and psa_cipher_encrypt allow policy bypass or oracle-based decryption when the output buffer is at memory locations accessible to an untrusted application.
 - [Live-Hack-CVE/CVE-2021-45450](https://github.com/Live-Hack-CVE/CVE-2021-45450)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45450">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45450">
+
+---
+## CVE-2021-45444 (2022-02-14T12:15:00)
+> In zsh before 5.8.1, an attacker can achieve code execution if they control a command output inside the prompt, as demonstrated by a %F argument. This occurs because of recursive PROMPT_SUBST expansion.
+- [Live-Hack-CVE/CVE-2021-45444](https://github.com/Live-Hack-CVE/CVE-2021-45444)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45444">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45444">
 
 ---
 ## CVE-2021-45387 (2022-02-11T17:15:00)
@@ -776,6 +796,11 @@
 - [Live-Hack-CVE/CVE-2021-41524](https://github.com/Live-Hack-CVE/CVE-2021-41524)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41524">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41524">
 
 ---
+## CVE-2021-4147 (2022-03-25T19:15:00)
+> A flaw was found in the libvirt libxl driver. A malicious guest could continuously reboot itself and cause libvirtd on the host to deadlock or crash, resulting in a denial of service condition.
+- [Live-Hack-CVE/CVE-2021-4147](https://github.com/Live-Hack-CVE/CVE-2021-4147)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4147">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4147">
+
+---
 ## CVE-2021-41381 (2021-09-23T15:15:00)
 > Payara Micro Community 5.2021.6 and below allows Directory Traversal.
 - [Live-Hack-CVE/CVE-2021-41381](https://github.com/Live-Hack-CVE/CVE-2021-41381)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41381">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41381">
@@ -847,6 +872,11 @@
 ## CVE-2021-41141 (2022-01-04T19:15:00)
 > PJSIP is a free and open source multimedia communication library written in the C language implementing standard based protocols such as SIP, SDP, RTP, STUN, TURN, and ICE. In various parts of PJSIP, when error/failure occurs, it is found that the function returns without releasing the currently held locks. This could result in a system deadlock, which cause a denial of service for the users. No release has yet been made which contains the linked fix commit. All versions up to an including 2.11.1 are affected. Users may need to manually apply the patch.
 - [Live-Hack-CVE/CVE-2021-41141](https://github.com/Live-Hack-CVE/CVE-2021-41141)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41141">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41141">
+
+---
+## CVE-2021-41097 (2021-09-27T18:15:00)
+> aurelia-path is part of the Aurelia platform and contains utilities for path manipulation. There is a prototype pollution vulnerability in aurelia-path before version 1.1.7. The vulnerability exposes Aurelia application that uses `aurelia-path` package to parse a string. The majority of this will be Aurelia applications that employ the `aurelia-router` package. An example is this could allow an attacker to change the prototype of base object class `Object` by tricking an application to parse the following URL: `https://aurelia.io/blog/?__proto__[asdf]=asdf`. The problem is patched in version `1.1.7`.
+- [Live-Hack-CVE/CVE-2021-41097](https://github.com/Live-Hack-CVE/CVE-2021-41097)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41097">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41097">
 
 ---
 ## CVE-2021-41078 (2021-10-26T13:15:00)
@@ -972,6 +1002,11 @@
 - [xiaojiangxl/CVE-2021-40438](https://github.com/xiaojiangxl/CVE-2021-40438)	<img alt="forks" src="https://img.shields.io/github/forks/xiaojiangxl/CVE-2021-40438">	<img alt="stars" src="https://img.shields.io/github/stars/xiaojiangxl/CVE-2021-40438">
 - [WilsonFung414/CVE-2021-40438_Docker_2](https://github.com/WilsonFung414/CVE-2021-40438_Docker_2)	<img alt="forks" src="https://img.shields.io/github/forks/WilsonFung414/CVE-2021-40438_Docker_2">	<img alt="stars" src="https://img.shields.io/github/stars/WilsonFung414/CVE-2021-40438_Docker_2">
 - [WilsonFung414/CVE-2021-27928_Docker_2](https://github.com/WilsonFung414/CVE-2021-27928_Docker_2)	<img alt="forks" src="https://img.shields.io/github/forks/WilsonFung414/CVE-2021-27928_Docker_2">	<img alt="stars" src="https://img.shields.io/github/stars/WilsonFung414/CVE-2021-27928_Docker_2">
+
+---
+## CVE-2021-40419 (2022-01-28T20:15:00)
+> A firmware update vulnerability exists in the 'factory' binary of reolink RLC-410W v3.0.0.136_20121102. A specially-crafted series of network requests can lead to arbitrary firmware update. An attacker can send a sequence of requests to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-40419](https://github.com/Live-Hack-CVE/CVE-2021-40419)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40419">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40419">
 
 ---
 ## CVE-2021-40416 (2022-01-28T20:15:00)
@@ -2446,6 +2481,11 @@
 - [daedalus/CVE-2021-30461](https://github.com/daedalus/CVE-2021-30461)	<img alt="forks" src="https://img.shields.io/github/forks/daedalus/CVE-2021-30461">	<img alt="stars" src="https://img.shields.io/github/stars/daedalus/CVE-2021-30461">
 
 ---
+## CVE-2021-30140 (2021-04-06T16:15:00)
+> LiquidFiles 3.4.15 has stored XSS through the "send email" functionality when sending a file via email to an administrator. When a file has no extension and contains malicious HTML / JavaScript content (such as SVG with HTML content), the payload is executed upon a click. This is fixed in 3.5.
+- [Live-Hack-CVE/CVE-2021-30140](https://github.com/Live-Hack-CVE/CVE-2021-30140)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30140">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30140">
+
+---
 ## CVE-2021-30045 (2021-04-06T13:15:00)
 > SerenityOS 2021-03-27 contains a buffer overflow vulnerability in the EndOfCentralDirectory::read() function.
 - [Live-Hack-CVE/CVE-2021-30045](https://github.com/Live-Hack-CVE/CVE-2021-30045)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30045">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30045">
@@ -3148,9 +3188,24 @@
 - [Live-Hack-CVE/CVE-2021-22910](https://github.com/Live-Hack-CVE/CVE-2021-22910)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22910">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22910">
 
 ---
+## CVE-2021-22827 (2022-01-28T20:15:00)
+> A CWE-20: Improper Input Validation vulnerability exists that could cause arbitrary code execution when the user visits a page containing the injected payload. This CVE is unique from CVE-2021-22826. Affected Product: EcoStruxure? Power Monitoring Expert 9.0 and prior versions
+- [Live-Hack-CVE/CVE-2021-22827](https://github.com/Live-Hack-CVE/CVE-2021-22827)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22827">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22827">
+
+---
 ## CVE-2021-22737 (2021-05-26T20:15:00)
 > Insufficiently Protected Credentials vulnerability exists in homeLYnk (Wiser For KNX) and spaceLYnk V2.60 and prior that could cause unauthorized access of when credentials are discovered after a brute force attack.
 - [Live-Hack-CVE/CVE-2021-22737](https://github.com/Live-Hack-CVE/CVE-2021-22737)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22737">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22737">
+
+---
+## CVE-2021-22262 (2021-10-05T14:15:00)
+> Missing access control in all GitLab versions starting from 13.12 before 14.0.9, all versions starting from 14.1 before 14.1.4, and all versions starting from 14.2 before 14.2.2 with Jira Cloud integration enabled allows Jira users without administrative privileges to add and remove Jira Connect Namespaces via the GitLab.com for Jira Cloud application configuration page
+- [Live-Hack-CVE/CVE-2021-22262](https://github.com/Live-Hack-CVE/CVE-2021-22262)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22262">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22262">
+
+---
+## CVE-2021-22260 (2021-11-05T00:15:00)
+> A stored Cross-Site Scripting vulnerability in the DataDog integration in all versions of GitLab CE/EE starting from 13.7 before 14.0.9, all versions starting from 14.1 before 14.1.4, and all versions starting from 14.2 before 14.2.2 allows an attacker to execute arbitrary JavaScript code on the victim's behalf
+- [Live-Hack-CVE/CVE-2021-22260](https://github.com/Live-Hack-CVE/CVE-2021-22260)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22260">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22260">
 
 ---
 ## CVE-2021-22235 (2021-07-20T12:15:00)
@@ -3300,6 +3355,16 @@
 - [Live-Hack-CVE/CVE-2021-21897](https://github.com/Live-Hack-CVE/CVE-2021-21897)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21897">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21897">
 
 ---
+## CVE-2021-21869 (2021-08-25T19:15:00)
+> An unsafe deserialization vulnerability exists in the Engine.plugin ProfileInformation ProfileData functionality of CODESYS GmbH CODESYS Development System 3.5.16 and 3.5.17. A specially crafted file can lead to arbitrary command execution. An attacker can provide a malicious file to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-21869](https://github.com/Live-Hack-CVE/CVE-2021-21869)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21869">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21869">
+
+---
+## CVE-2021-21864 (2021-08-02T21:15:00)
+> A unsafe deserialization vulnerability exists in the ComponentModel ComponentManager.StartupCultureSettings functionality of CODESYS GmbH CODESYS Development System 3.5.16 and 3.5.17. A specially crafted file can lead to arbitrary command execution. An attacker can provide a malicious file to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-21864](https://github.com/Live-Hack-CVE/CVE-2021-21864)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21864">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21864">
+
+---
 ## CVE-2021-21830 (2021-08-13T19:15:00)
 > A heap-based buffer overflow vulnerability exists in the XML Decompression LabelDict::Load functionality of AT&T Labs’ Xmill 0.7. A specially crafted XMI file can lead to remote code execution. An attacker can provide a malicious file to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2021-21830](https://github.com/Live-Hack-CVE/CVE-2021-21830)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21830">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21830">
@@ -3330,9 +3395,24 @@
 - [Live-Hack-CVE/CVE-2021-21806](https://github.com/Live-Hack-CVE/CVE-2021-21806)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21806">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21806">
 
 ---
+## CVE-2021-21804 (2021-07-16T11:15:00)
+> A local file inclusion (LFI) vulnerability exists in the options.php script functionality of Advantech R-SeeNet v 2.4.12 (20.10.2020). A specially crafted HTTP request can lead to arbitrary PHP code execution. An attacker can send a crafted HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-21804](https://github.com/Live-Hack-CVE/CVE-2021-21804)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21804">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21804">
+
+---
+## CVE-2021-21803 (2021-07-16T11:15:00)
+> This vulnerability is present in device_graph_page.php script, which is a part of the Advantech R-SeeNet web applications. A specially crafted URL by an attacker and visited by a victim can lead to arbitrary JavaScript code execution.
+- [Live-Hack-CVE/CVE-2021-21803](https://github.com/Live-Hack-CVE/CVE-2021-21803)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21803">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21803">
+
+---
 ## CVE-2021-21798 (2021-09-15T14:15:00)
 > An exploitable return of stack variable address vulnerability exists in the JavaScript implementation of Nitro Pro PDF. A specially crafted document can cause a stack variable to go out of scope, resulting in the application dereferencing a stale pointer. This can lead to code execution under the context of the application. An attacker can convince a user to open a document to trigger the vulnerability.
 - [Live-Hack-CVE/CVE-2021-21798](https://github.com/Live-Hack-CVE/CVE-2021-21798)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21798">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21798">
+
+---
+## CVE-2021-21784 (2021-04-13T19:15:00)
+> An out-of-bounds write vulnerability exists in the JPG format SOF marker processing of Accusoft ImageGear 19.8. A specially crafted malformed file can lead to memory corruption. An attacker can provide a malicious file to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-21784](https://github.com/Live-Hack-CVE/CVE-2021-21784)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21784">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21784">
 
 ---
 ## CVE-2021-21772 (2021-03-10T17:15:00)
@@ -3595,6 +3675,11 @@
 ## CVE-2021-1423 (2021-03-24T21:15:00)
 > A vulnerability in the implementation of a CLI command in Cisco Aironet Access Points (AP) could allow an authenticated, local attacker to overwrite files in the flash memory of the device. This vulnerability is due to insufficient input validation for a specific command. An attacker could exploit this vulnerability by issuing a command with crafted arguments. A successful exploit could allow the attacker to overwrite or create files with data that is already present in other files that are hosted on the affected device.
 - [Live-Hack-CVE/CVE-2021-1423](https://github.com/Live-Hack-CVE/CVE-2021-1423)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-1423">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-1423">
+
+---
+## CVE-2021-1382 (2021-03-24T20:15:00)
+> A vulnerability in the CLI of Cisco IOS XE SD-WAN Software could allow an authenticated, local attacker to inject arbitrary commands to be executed with root privileges on the underlying operating system. This vulnerability is due to insufficient input validation on certain CLI commands. An attacker could exploit this vulnerability by authenticating to the device and submitting crafted input to the CLI. The attacker must be authenticated as an administrative user to execute the affected commands. A successful exploit could allow the attacker to execute commands with root privileges.
+- [Live-Hack-CVE/CVE-2021-1382](https://github.com/Live-Hack-CVE/CVE-2021-1382)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-1382">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-1382">
 
 ---
 ## CVE-2021-0981 (2021-12-15T19:15:00)

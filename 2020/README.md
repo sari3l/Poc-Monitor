@@ -740,6 +740,11 @@
 - [Live-Hack-CVE/CVE-2020-28601](https://github.com/Live-Hack-CVE/CVE-2020-28601)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28601">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28601">
 
 ---
+## CVE-2020-28587 (2021-02-23T19:15:00)
+> A specially crafted document can cause the document parser to copy data from a particular record type into a static-sized buffer within an object that is smaller than the size used for the copy, which will cause a heap-based buffer overflow. An attacker can entice the victim to open a document to trigger this vulnerability. This affects SoftMaker Software GmbH SoftMaker Office PlanMaker 2021 (Revision 1014).
+- [Live-Hack-CVE/CVE-2020-28587](https://github.com/Live-Hack-CVE/CVE-2020-28587)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28587">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28587">
+
+---
 ## CVE-2020-28460 (2020-12-22T13:15:00)
 > This affects the package multi-ini before 2.1.2. It is possible to pollute an object's prototype by specifying the constructor.proto object as part of an array. This is a bypass of CVE-2020-28448.
 - [Live-Hack-CVE/CVE-2020-28460](https://github.com/Live-Hack-CVE/CVE-2020-28460)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28460">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28460">
@@ -880,6 +885,16 @@
 ## CVE-2020-2728 (2020-01-15T17:15:00)
 > Vulnerability in the Identity Manager product of Oracle Fusion Middleware (component: OIM - LDAP user and role Synch). The supported version that is affected is 12.2.1.3.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Identity Manager. Successful attacks of this vulnerability can result in unauthorized access to critical data or complete access to all Identity Manager accessible data. CVSS 3.0 Base Score 7.5 (Confidentiality impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N).
 - [Live-Hack-CVE/CVE-2020-2728](https://github.com/Live-Hack-CVE/CVE-2020-2728)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2728">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2728">
+
+---
+## CVE-2020-27250 (2021-02-10T22:15:00)
+> In SoftMaker Software GmbH SoftMaker Office PlanMaker 2021 (Revision 1014), a specially crafted document can cause the document parser to copy data from a particular record type into a static-sized buffer within an object that is smaller than the size used for the copy, which will cause a heap-based buffer overflow at Version/Instance 0x0005 and 0x0016. An attacker can entice the victim to open a document to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2020-27250](https://github.com/Live-Hack-CVE/CVE-2020-27250)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27250">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27250">
+
+---
+## CVE-2020-27249 (2021-02-04T07:15:00)
+> A specially crafted document can cause the document parser to copy data from a particular record type into a static-sized buffer within an object that is smaller than the size used for the copy, which will cause a heap-based buffer overflow. In version/Instance 0x0004 and 0x0015, an attacker can entice the victim to open a document to trigger this vulnerability. This affects SoftMaker Software GmbH SoftMaker Office PlanMaker 2021 (Revision 1014).
+- [Live-Hack-CVE/CVE-2020-27249](https://github.com/Live-Hack-CVE/CVE-2020-27249)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27249">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27249">
 
 ---
 ## CVE-2020-27199 (2020-12-17T05:15:00)
@@ -1195,6 +1210,11 @@
 ## CVE-2020-24609 (2020-08-25T15:15:00)
 > TechKshetra Info Solutions Pvt. Ltd Savsoft Quiz 5.5 and earlier has XSS which can result in an attacker injecting the XSS payload in the User Registration section and each time the admin visits the manage user section from the admin panel, the XSS triggers and the attacker can steal the cookie via crafted payload.
 - [Live-Hack-CVE/CVE-2020-24609](https://github.com/Live-Hack-CVE/CVE-2020-24609)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24609">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24609">
+
+---
+## CVE-2020-24588 (2021-05-11T20:15:00)
+> The 802.11 standard that underpins Wi-Fi Protected Access (WPA, WPA2, and WPA3) and Wired Equivalent Privacy (WEP) doesn't require that the A-MSDU flag in the plaintext QoS header field is authenticated. Against devices that support receiving non-SSP A-MSDU frames (which is mandatory as part of 802.11n), an adversary can abuse this to inject arbitrary network packets.
+- [Live-Hack-CVE/CVE-2020-24588](https://github.com/Live-Hack-CVE/CVE-2020-24588)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24588">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24588">
 
 ---
 ## CVE-2020-24584 (2020-09-01T13:15:00)
@@ -1726,6 +1746,11 @@
 ## CVE-2020-13587 (2021-04-09T18:15:00)
 > An exploitable SQL injection vulnerability exists in the "forms_fields_rules/rules" page of the Rukovoditel Project Management App 2.7.2. A specially crafted HTTP request can lead to SQL injection. An attacker can make an authenticated HTTP request to trigger this vulnerability, this can be done either with administrator credentials or through cross-site request forgery.
 - [Live-Hack-CVE/CVE-2020-13587](https://github.com/Live-Hack-CVE/CVE-2020-13587)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13587">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13587">
+
+---
+## CVE-2020-13554 (2021-03-03T17:15:00)
+> An exploitable local privilege elevation vulnerability exists in the file system permissions of Advantech WebAccess/SCADA 9.0.1 installation. In webvrpcs Run Key Privilege Escalation in installation folder of WebAccess, an attacker can either replace binary or loaded modules to execute code with NT SYSTEM privilege.
+- [Live-Hack-CVE/CVE-2020-13554](https://github.com/Live-Hack-CVE/CVE-2020-13554)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13554">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13554">
 
 ---
 ## CVE-2020-13528 (2020-12-18T00:15:00)

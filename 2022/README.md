@@ -9168,6 +9168,11 @@
 - [Live-Hack-CVE/CVE-2022-30333](https://github.com/Live-Hack-CVE/CVE-2022-30333)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30333">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30333">
 
 ---
+## CVE-2022-30330 (2022-05-07T04:15:00)
+> In the KeepKey firmware before 7.3.2,Flaws in the supervisor interface can be exploited to bypass important security restrictions on firmware operations. Using these flaws, malicious firmware code can elevate privileges, permanently make the device inoperable or overwrite the trusted bootloader code to compromise the hardware wallet across reboots or storage wipes.
+- [Live-Hack-CVE/CVE-2022-30330](https://github.com/Live-Hack-CVE/CVE-2022-30330)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30330">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30330">
+
+---
 ## CVE-2022-30307 (2022-11-02T12:15:00)
 > A key management error vulnerability [CWE-320] affecting the RSA SSH host key in FortiOS 7.2.0 and below, 7.0.6 and below, 6.4.9 and below may allow an unauthenticated attacker to perform a man in the middle attack.
 - [Live-Hack-CVE/CVE-2022-30307](https://github.com/Live-Hack-CVE/CVE-2022-30307)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30307">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30307">
@@ -9508,6 +9513,16 @@
 ## CVE-2022-29429 (2022-05-17T19:15:00)
 > Remote Code Execution (RCE) in Alexander Stokmann's Code Snippets Extended plugin <= 1.4.7 on WordPress via Cross-Site Request Forgery.
 - [Live-Hack-CVE/CVE-2022-29429](https://github.com/Live-Hack-CVE/CVE-2022-29429)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29429">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29429">
+
+---
+## CVE-2022-29413 (2022-04-28T17:15:00)
+> Cross-Site Request Forgery (CSRF) leading to Stored Cross-Site Scripting (XSS) in Mufeng's Hermit ????? plugin <= 3.1.6 on WordPress via &title parameter.
+- [Live-Hack-CVE/CVE-2022-29413](https://github.com/Live-Hack-CVE/CVE-2022-29413)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29413">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29413">
+
+---
+## CVE-2022-29412 (2022-04-28T17:15:00)
+> Multiple Cross-Site Request Forgery (CSRF) vulnerabilities in Hermit ????? plugin <= 3.1.6 on WordPress allow attackers to delete cache, delete a source, create source.
+- [Live-Hack-CVE/CVE-2022-29412](https://github.com/Live-Hack-CVE/CVE-2022-29412)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29412">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29412">
 
 ---
 ## CVE-2022-29303 (2022-05-12T16:15:00)
@@ -10084,6 +10099,11 @@
 ## CVE-2022-27191 (2022-03-18T07:15:00)
 > The golang.org/x/crypto/ssh package before 0.0.0-20220314234659-1baeb1ce4c0b for Go allows an attacker to crash a server in certain circumstances involving AddHostKey.
 - [Live-Hack-CVE/CVE-2022-27191](https://github.com/Live-Hack-CVE/CVE-2022-27191)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27191">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27191">
+
+---
+## CVE-2022-27002 (2022-03-15T22:15:00)
+> Arris TR3300 v1.0.13 were discovered to contain a command injection vulnerability in the ddns function via the ddns_name, ddns_pwd, h_ddns?ddns_host parameters. This vulnerability allows attackers to execute arbitrary commands via a crafted request.
+- [Live-Hack-CVE/CVE-2022-27002](https://github.com/Live-Hack-CVE/CVE-2022-27002)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27002">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27002">
 
 ---
 ## CVE-2022-26981 (2022-03-13T18:15:00)
@@ -10782,6 +10802,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-24588](https://github.com/Live-Hack-CVE/CVE-2022-24588)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24588">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24588">
 
 ---
+## CVE-2022-24577 (2022-03-14T15:15:00)
+> GPAC 1.0.1 is affected by a NULL pointer dereference in gf_utf8_wcslen. (gf_utf8_wcslen is a renamed Unicode utf8_wcslen function.)
+- [Live-Hack-CVE/CVE-2022-24577](https://github.com/Live-Hack-CVE/CVE-2022-24577)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24577">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24577">
+
+---
 ## CVE-2022-24504 (2022-10-11T19:15:00)
 > Windows Point-to-Point Tunneling Protocol Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-22035, CVE-2022-30198, CVE-2022-33634, CVE-2022-38000, CVE-2022-38047, CVE-2022-41081.
 - [Live-Hack-CVE/CVE-2022-24504](https://github.com/Live-Hack-CVE/CVE-2022-24504)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24504">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24504">
@@ -10821,6 +10846,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-24439 (2022-12-06T05:15:00)
 > All versions of package gitpython are vulnerable to Remote Code Execution (RCE) due to improper user input validation, which makes it possible to inject a maliciously crafted remote URL into the clone command. Exploiting this vulnerability is possible because the library makes external calls to git without sufficient sanitization of input arguments.
 - [Live-Hack-CVE/CVE-2022-24439](https://github.com/Live-Hack-CVE/CVE-2022-24439)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24439">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24439">
+
+---
+## CVE-2022-24409 (2022-02-23T22:15:00)
+> Dell BSAFE SSL-J contains remediation for a covert timing channel vulnerability that may be exploited by malicious users to compromise the affected system. Only customers with active BSAFE maintenance contracts can receive details about this vulnerability. Public disclosure of the vulnerability details will be shared at a later date.
+- [Live-Hack-CVE/CVE-2022-24409](https://github.com/Live-Hack-CVE/CVE-2022-24409)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24409">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24409">
 
 ---
 ## CVE-2022-24377 (2022-12-14T05:15:00)
@@ -11310,6 +11340,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-22822 (2022-01-10T14:12:00)
 > addBinding in xmlparse.c in Expat (aka libexpat) before 2.4.3 has an integer overflow.
 - [Live-Hack-CVE/CVE-2022-22822](https://github.com/Live-Hack-CVE/CVE-2022-22822)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22822">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22822">
+
+---
+## CVE-2022-22811 (2022-02-09T23:15:00)
+> A CWE-352: Cross-Site Request Forgery (CSRF) vulnerability exists that could induce users to perform unintended actions, leading to the override of the system?s configurations when an attacker persuades a user to visit a rogue website. Affected Product: spaceLYnk (V2.6.2 and prior), Wiser for KNX (formerly homeLYnk) (V2.6.2 and prior), fellerLYnk (V2.6.2 and prior)
+- [Live-Hack-CVE/CVE-2022-22811](https://github.com/Live-Hack-CVE/CVE-2022-22811)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22811">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22811">
 
 ---
 ## CVE-2022-22808 (2022-02-09T23:15:00)
