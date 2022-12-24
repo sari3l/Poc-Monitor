@@ -1306,6 +1306,16 @@
 - [Live-Hack-CVE/CVE-2022-44635](https://github.com/Live-Hack-CVE/CVE-2022-44635)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44635">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44635">
 
 ---
+## CVE-2022-44624 (2022-11-03T14:15:00)
+> In JetBrains TeamCity version before 2022.10, Password parameters could be exposed in the build log if they contained special characters
+- [Live-Hack-CVE/CVE-2022-44624](https://github.com/Live-Hack-CVE/CVE-2022-44624)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44624">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44624">
+
+---
+## CVE-2022-44623 (2022-11-03T14:15:00)
+> In JetBrains TeamCity version before 2022.10, Project Viewer could see scrambled secure values in the MetaRunner settings
+- [Live-Hack-CVE/CVE-2022-44623](https://github.com/Live-Hack-CVE/CVE-2022-44623)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44623">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44623">
+
+---
 ## CVE-2022-44608 (2022-12-07T04:15:00)
 > Uncontrolled resource consumption vulnerability in Cybozu Remote Service 4.0.0 to 4.0.3 allows a remote authenticated attacker to consume huge storage space, which may result in a denial-of-service (DoS) condition.
 - [Live-Hack-CVE/CVE-2022-44608](https://github.com/Live-Hack-CVE/CVE-2022-44608)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44608">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44608">
@@ -4190,6 +4200,16 @@
 - [Live-Hack-CVE/CVE-2022-39384](https://github.com/Live-Hack-CVE/CVE-2022-39384)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39384">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39384">
 
 ---
+## CVE-2022-39376 (2022-11-03T16:15:00)
+> GLPI stands for Gestionnaire Libre de Parc Informatique. GLPI is a Free Asset and IT Management Software package that provides ITIL Service Desk features, licenses tracking and software auditing. Users may be able to inject custom fields values in `mailto` links. This issue has been patched, please upgrade to version 10.0.4. There are currently no known workarounds.
+- [Live-Hack-CVE/CVE-2022-39376](https://github.com/Live-Hack-CVE/CVE-2022-39376)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39376">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39376">
+
+---
+## CVE-2022-39375 (2022-11-03T16:15:00)
+> GLPI stands for Gestionnaire Libre de Parc Informatique. GLPI is a Free Asset and IT Management Software package that provides ITIL Service Desk features, licenses tracking and software auditing. Users may be able to create a public RSS feed to inject malicious code in dashboards of other users. This issue has been patched, please upgrade to version 10.0.4. There are currently no known workarounds.
+- [Live-Hack-CVE/CVE-2022-39375](https://github.com/Live-Hack-CVE/CVE-2022-39375)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39375">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39375">
+
+---
 ## CVE-2022-39339 (2022-11-25T19:15:00)
 > user_oidc is an OpenID Connect user backend for Nextcloud. In versions prior to 1.2.1 sensitive information such as the OIDC client credentials and tokens are sent in plain text of HTTP without TLS. Any malicious actor with access to monitor user traffic may have been able to compromise account security. This issue has been addressed in in user_oidc v1.2.1. Users are advised to upgrade. Users unable to upgrade may use https to access Nextcloud. Set an HTTPS discovery URL in the provider settings (in Nextcloud OIDC admin settings).
 - [Live-Hack-CVE/CVE-2022-39339](https://github.com/Live-Hack-CVE/CVE-2022-39339)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39339">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39339">
@@ -4468,6 +4488,11 @@
 - [Live-Hack-CVE/CVE-2022-39028](https://github.com/Live-Hack-CVE/CVE-2022-39028)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39028">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39028">
 
 ---
+## CVE-2022-39002 (2022-09-16T18:15:00)
+> Double free vulnerability in the storage module. Successful exploitation of this vulnerability will cause the memory to be freed twice.
+- [Live-Hack-CVE/CVE-2022-39002](https://github.com/Live-Hack-CVE/CVE-2022-39002)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39002">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39002">
+
+---
 ## CVE-2022-38974 (2022-11-18T19:15:00)
 > Broken Access Control vulnerability in WPML Multilingual CMS premium plugin <= 4.5.10 on WordPress allows users with subscriber or higher user roles to change the status of the translation jobs.
 - [Live-Hack-CVE/CVE-2022-38974](https://github.com/Live-Hack-CVE/CVE-2022-38974)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38974">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38974">
@@ -4629,6 +4654,21 @@
 ## CVE-2022-38355 (2022-12-13T22:15:00)
 > Daikin SVMPC1 version 2.1.22 and prior and SVMPC2 version 1.2.3 and prior are vulnerable to attackers with access to the local area network (LAN) to disclose sensitive information stored by the affected product without requiring authentication.
 - [Live-Hack-CVE/CVE-2022-38355](https://github.com/Live-Hack-CVE/CVE-2022-38355)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38355">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38355">
+
+---
+## CVE-2022-38341 (2022-09-19T14:15:00)
+> Safe Software FME Server v2021.2.5 and below does not employ server-side validation.
+- [Live-Hack-CVE/CVE-2022-38341](https://github.com/Live-Hack-CVE/CVE-2022-38341)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38341">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38341">
+
+---
+## CVE-2022-38340 (2022-09-20T18:15:00)
+> Safe Software FME Server v2021.2.5, v2022.0.0.2 and below was discovered to contain a Path Traversal vulnerability via the component fmedataupload.
+- [Live-Hack-CVE/CVE-2022-38340](https://github.com/Live-Hack-CVE/CVE-2022-38340)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38340">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38340">
+
+---
+## CVE-2022-38339 (2022-09-19T22:15:00)
+> Safe Software FME Server v2021.2.5, v2022.0.0.2 and below contains a cross-site scripting (XSS) vulnerability which allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the login page.
+- [Live-Hack-CVE/CVE-2022-38339](https://github.com/Live-Hack-CVE/CVE-2022-38339)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38339">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38339">
 
 ---
 ## CVE-2022-38337 (2022-12-06T00:15:00)
@@ -5234,6 +5274,11 @@
 ## CVE-2022-36781 (2022-09-28T20:15:00)
 > WiseConnect - ScreenConnect Session Code Bypass. An attacker would have to use a proxy to monitor the traffic, and perform a brute force on the session code in order to get in. Sensitive data about the company , get in a session.
 - [Live-Hack-CVE/CVE-2022-36781](https://github.com/Live-Hack-CVE/CVE-2022-36781)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36781">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36781">
+
+---
+## CVE-2022-36773 (2022-09-01T19:15:00)
+> IBM Cognos Analytics 11.1.7, 11.2.0, and 11.2.1 is vulnerable to an XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 233571.
+- [Live-Hack-CVE/CVE-2022-36773](https://github.com/Live-Hack-CVE/CVE-2022-36773)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36773">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36773">
 
 ---
 ## CVE-2022-36663 (2022-09-06T21:15:00)
@@ -6776,6 +6821,11 @@
 ## CVE-2022-30679 (2022-12-19T20:15:00)
 > Adobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.
 - [Live-Hack-CVE/CVE-2022-30679](https://github.com/Live-Hack-CVE/CVE-2022-30679)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30679">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30679">
+
+---
+## CVE-2022-30614 (2022-09-01T19:15:00)
+> IBM Cognos Analytics 11.1.7, 11.2.0, and 11.2.1 is vulnerable to a denial of service via email flooding caused by sending a specially-crafted request. A remote attacker could exploit this vulnerability to cause the server to consume all available CPU resources. IBM X-Force ID: 227591.
+- [Live-Hack-CVE/CVE-2022-30614](https://github.com/Live-Hack-CVE/CVE-2022-30614)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30614">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30614">
 
 ---
 ## CVE-2022-30601 (2022-08-18T21:15:00)

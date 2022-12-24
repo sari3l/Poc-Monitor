@@ -110,6 +110,11 @@
 - [t0kx/exploit-CVE-2015-1427](https://github.com/t0kx/exploit-CVE-2015-1427)	<img alt="forks" src="https://img.shields.io/github/forks/t0kx/exploit-CVE-2015-1427">	<img alt="stars" src="https://img.shields.io/github/stars/t0kx/exploit-CVE-2015-1427">
 
 ---
+## CVE-2015-1421 (2015-03-16T10:59:00)
+> Use-after-free vulnerability in the sctp_assoc_update function in net/sctp/associola.c in the Linux kernel before 3.18.8 allows remote attackers to cause a denial of service (slab corruption and panic) or possibly have unspecified other impact by triggering an INIT collision that leads to improper handling of shared-key data.
+- [Live-Hack-CVE/CVE-2015-1421](https://github.com/Live-Hack-CVE/CVE-2015-1421)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-1421">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-1421">
+
+---
 ## CVE-2015-1328 (2016-11-28T03:59:00)
 > The overlayfs implementation in the linux (aka Linux kernel) package before 3.19.0-21.21 in Ubuntu through 15.04 does not properly check permissions for file creation in the upper filesystem directory, which allows local users to obtain root access by leveraging a configuration in which overlayfs is permitted in an arbitrary mount namespace.
 - [poxicity/CVE-2015-1328](https://github.com/poxicity/CVE-2015-1328)	<img alt="forks" src="https://img.shields.io/github/forks/poxicity/CVE-2015-1328">	<img alt="stars" src="https://img.shields.io/github/stars/poxicity/CVE-2015-1328">

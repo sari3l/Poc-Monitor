@@ -248,6 +248,11 @@
 - [Live-Hack-CVE/CVE-2016-4120](https://github.com/Live-Hack-CVE/CVE-2016-4120)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-4120">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-4120">
 
 ---
+## CVE-2016-3955 (2016-07-03T21:59:00)
+> The usbip_recv_xbuff function in drivers/usb/usbip/usbip_common.c in the Linux kernel before 4.5.3 allows remote attackers to cause a denial of service (out-of-bounds write) or possibly have unspecified other impact via a crafted length value in a USB/IP packet.
+- [Live-Hack-CVE/CVE-2016-3955](https://github.com/Live-Hack-CVE/CVE-2016-3955)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-3955">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-3955">
+
+---
 ## CVE-2016-3861 (2016-09-11T21:59:00)
 > LibUtils in Android 4.x before 4.4.4, 5.0.x before 5.0.2, 5.1.x before 5.1.1, 6.x before 2016-09-01, and 7.0 before 2016-09-01 mishandles conversions between Unicode character encodings with different encoding widths, which allows remote attackers to execute arbitrary code or cause a denial of service (heap-based buffer overflow) via a crafted file, aka internal bug 29250543.
 - [dropk1ck/CVE-2016-3861](https://github.com/dropk1ck/CVE-2016-3861)	<img alt="forks" src="https://img.shields.io/github/forks/dropk1ck/CVE-2016-3861">	<img alt="stars" src="https://img.shields.io/github/stars/dropk1ck/CVE-2016-3861">
@@ -315,6 +320,11 @@
 ## CVE-2016-10541 (2018-05-31T20:29:00)
 > The npm module "shell-quote" 1.6.0 and earlier cannot correctly escape ">" and "<" operator used for redirection in shell. Applications that depend on shell-quote may also be vulnerable. A malicious user could perform code injection.
 - [Live-Hack-CVE/CVE-2016-10541](https://github.com/Live-Hack-CVE/CVE-2016-10541)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-10541">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-10541">
+
+---
+## CVE-2016-10229 (2017-04-04T05:59:00)
+> udp.c in the Linux kernel before 4.5 allows remote attackers to execute arbitrary code via UDP traffic that triggers an unsafe second checksum calculation during execution of a recv system call with the MSG_PEEK flag.
+- [Live-Hack-CVE/CVE-2016-10229](https://github.com/Live-Hack-CVE/CVE-2016-10229)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-10229">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-10229">
 
 ---
 ## CVE-2016-10191 (2017-02-09T15:59:00)

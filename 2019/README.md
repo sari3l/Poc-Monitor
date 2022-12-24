@@ -426,6 +426,11 @@
 - [black-mirror/Weblogic](https://github.com/black-mirror/Weblogic)	<img alt="forks" src="https://img.shields.io/github/forks/black-mirror/Weblogic">	<img alt="stars" src="https://img.shields.io/github/stars/black-mirror/Weblogic">
 
 ---
+## CVE-2019-25013 (2021-01-04T18:15:00)
+> The iconv feature in the GNU C Library (aka glibc or libc6) through 2.32, when processing invalid multi-byte input sequences in the EUC-KR encoding, may have a buffer over-read.
+- [Live-Hack-CVE/CVE-2019-25013](https://github.com/Live-Hack-CVE/CVE-2019-25013)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25013">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25013">
+
+---
 ## CVE-2019-20790 (2020-04-27T14:15:00)
 > OpenDMARC through 1.3.2 and 1.4.x, when used with pypolicyd-spf 2.0.2, allows attacks that bypass SPF and DMARC authentication in situations where the HELO field is inconsistent with the MAIL FROM field.
 - [Live-Hack-CVE/CVE-2019-20790](https://github.com/Live-Hack-CVE/CVE-2019-20790)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20790">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20790">

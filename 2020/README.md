@@ -800,6 +800,21 @@
 - [huzaifahussain98/CVE-2020-23582](https://github.com/huzaifahussain98/CVE-2020-23582)	<img alt="forks" src="https://img.shields.io/github/forks/huzaifahussain98/CVE-2020-23582">	<img alt="stars" src="https://img.shields.io/github/stars/huzaifahussain98/CVE-2020-23582">
 
 ---
+## CVE-2020-22820 (2022-11-03T17:15:00)
+> MKCMS V6.2 has SQL injection via the /ucenter/repass.php name parameter.
+- [Live-Hack-CVE/CVE-2020-22820](https://github.com/Live-Hack-CVE/CVE-2020-22820)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-22820">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-22820">
+
+---
+## CVE-2020-22819 (2022-11-03T17:15:00)
+> MKCMS V6.2 has SQL injection via the /ucenter/active.php verify parameter.
+- [Live-Hack-CVE/CVE-2020-22819](https://github.com/Live-Hack-CVE/CVE-2020-22819)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-22819">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-22819">
+
+---
+## CVE-2020-22818 (2022-11-03T17:15:00)
+> MKCMS V6.2 has SQL injection via /ucenter/reg.php name parameter.
+- [Live-Hack-CVE/CVE-2020-22818](https://github.com/Live-Hack-CVE/CVE-2020-22818)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-22818">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-22818">
+
+---
 ## CVE-2020-21675 (2021-08-10T21:15:00)
 > A stack-based buffer overflow in the genptk_text component in genptk.c of fig2dev 3.2.7b allows attackers to cause a denial of service (DOS) via converting a xfig file into ptk format.
 - [Live-Hack-CVE/CVE-2020-21675](https://github.com/Live-Hack-CVE/CVE-2020-21675)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-21675">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-21675">
@@ -1001,6 +1016,16 @@
 ## CVE-2020-14367 (2020-08-24T15:15:00)
 > A flaw was found in chrony versions before 3.5.1 when creating the PID file under the /var/run/chrony folder. The file is created during chronyd startup while still running as the root user, and when it's opened for writing, chronyd does not check for an existing symbolic link with the same file name. This flaw allows an attacker with privileged access to create a symlink with the default PID file name pointing to any destination file in the system, resulting in data loss and a denial of service due to the path traversal.
 - [Live-Hack-CVE/CVE-2020-14367](https://github.com/Live-Hack-CVE/CVE-2020-14367)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14367">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14367">
+
+---
+## CVE-2020-14362 (2020-09-15T19:15:00)
+> A flaw was found in X.Org Server before xorg-x11-server 1.20.9. An Integer underflow leading to heap-buffer overflow may lead to a privilege escalation vulnerability. The highest threat from this vulnerability is to data confidentiality and integrity as well as system availability.
+- [Live-Hack-CVE/CVE-2020-14362](https://github.com/Live-Hack-CVE/CVE-2020-14362)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14362">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14362">
+
+---
+## CVE-2020-14361 (2020-09-15T19:15:00)
+> A flaw was found in X.Org Server before xorg-x11-server 1.20.9. An Integer underflow leading to heap-buffer overflow may lead to a privilege escalation vulnerability. The highest threat from this vulnerability is to data confidentiality and integrity as well as system availability.
+- [Live-Hack-CVE/CVE-2020-14361](https://github.com/Live-Hack-CVE/CVE-2020-14361)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14361">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14361">
 
 ---
 ## CVE-2020-14334 (2020-07-31T13:15:00)

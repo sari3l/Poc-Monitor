@@ -66,6 +66,11 @@
 - [Live-Hack-CVE/CVE-2021-45346](https://github.com/Live-Hack-CVE/CVE-2021-45346)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45346">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45346">
 
 ---
+## CVE-2021-45341 (2022-01-25T12:15:00)
+> A buffer overflow vulnerability in CDataMoji of the jwwlib component of LibreCAD 2.2.0-rc3 and older allows an attacker to achieve Remote Code Execution using a crafted JWW document.
+- [Live-Hack-CVE/CVE-2021-45341](https://github.com/Live-Hack-CVE/CVE-2021-45341)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45341">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45341">
+
+---
 ## CVE-2021-45067 (2022-01-14T20:15:00)
 > Acrobat Reader DC version 21.007.20099 (and earlier), 20.004.30017 (and earlier) and 17.011.30204 (and earlier) are affected by an Access of Memory Location After End of Buffer vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
 - [hacksysteam/CVE-2021-45067](https://github.com/hacksysteam/CVE-2021-45067)	<img alt="forks" src="https://img.shields.io/github/forks/hacksysteam/CVE-2021-45067">	<img alt="stars" src="https://img.shields.io/github/stars/hacksysteam/CVE-2021-45067">
@@ -305,6 +310,11 @@
 ## CVE-2021-43503 (2022-04-08T18:15:00)
 > ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was withdrawn by its CNA. Further investigation showed that it was not a security issue. Notes: none.
 - [kang8/CVE-2021-43503](https://github.com/kang8/CVE-2021-43503)	<img alt="forks" src="https://img.shields.io/github/forks/kang8/CVE-2021-43503">	<img alt="stars" src="https://img.shields.io/github/stars/kang8/CVE-2021-43503">
+
+---
+## CVE-2021-43466 (2021-11-09T12:15:00)
+> In the thymeleaf-spring5:3.0.12 component, thymeleaf combined with specific scenarios in template injection may lead to remote code execution.
+- [Live-Hack-CVE/CVE-2021-43466](https://github.com/Live-Hack-CVE/CVE-2021-43466)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43466">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43466">
 
 ---
 ## CVE-2021-43305 (2022-03-14T23:15:00)
@@ -1519,6 +1529,11 @@
 - [acquiredsecurity/CVE-2021-3122-Details](https://github.com/acquiredsecurity/CVE-2021-3122-Details)	<img alt="forks" src="https://img.shields.io/github/forks/acquiredsecurity/CVE-2021-3122-Details">	<img alt="stars" src="https://img.shields.io/github/stars/acquiredsecurity/CVE-2021-3122-Details">
 
 ---
+## CVE-2021-31162 (2021-04-14T07:15:00)
+> In the standard library in Rust before 1.52.0, a double free can occur in the Vec::from_iter function if freeing the element panics.
+- [Live-Hack-CVE/CVE-2021-31162](https://github.com/Live-Hack-CVE/CVE-2021-31162)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31162">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31162">
+
+---
 ## CVE-2021-3060 (2021-11-10T17:15:00)
 > An OS command injection vulnerability in the Simple Certificate Enrollment Protocol (SCEP) feature of PAN-OS software allows an unauthenticated network-based attacker with specific knowledge of the firewall configuration to execute arbitrary code with root user privileges. The attacker must have network access to the GlobalProtect interfaces to exploit this issue. This issue impacts: PAN-OS 8.1 versions earlier than PAN-OS 8.1.20-h1; PAN-OS 9.0 versions earlier than PAN-OS 9.0.14-h3; PAN-OS 9.1 versions earlier than PAN-OS 9.1.11-h2; PAN-OS 10.0 versions earlier than PAN-OS 10.0.8; PAN-OS 10.1 versions earlier than PAN-OS 10.1.3. Prisma Access customers with Prisma Access 2.1 Preferred and Prisma Access 2.1 Innovation firewalls are impacted by this issue.
 - [timb-machine-mirrors/cve-2021-3060.py](https://github.com/timb-machine-mirrors/cve-2021-3060.py)	<img alt="forks" src="https://img.shields.io/github/forks/timb-machine-mirrors/cve-2021-3060.py">	<img alt="stars" src="https://img.shields.io/github/stars/timb-machine-mirrors/cve-2021-3060.py">
@@ -1608,6 +1623,31 @@
 > ForgeRock OpenAM before 13.5.1 allows LDAP injection via the Webfinger protocol. For example, an unauthenticated attacker can perform character-by-character retrieval of password hashes, or retrieve a session token or a private key.
 - [5amu/CVE-2021-29156](https://github.com/5amu/CVE-2021-29156)	<img alt="forks" src="https://img.shields.io/github/forks/5amu/CVE-2021-29156">	<img alt="stars" src="https://img.shields.io/github/stars/5amu/CVE-2021-29156">
 - [guidepointsecurity/CVE-2021-29156](https://github.com/guidepointsecurity/CVE-2021-29156)	<img alt="forks" src="https://img.shields.io/github/forks/guidepointsecurity/CVE-2021-29156">	<img alt="stars" src="https://img.shields.io/github/stars/guidepointsecurity/CVE-2021-29156">
+
+---
+## CVE-2021-28879 (2021-04-11T20:15:00)
+> In the standard library in Rust before 1.52.0, the Zip implementation can report an incorrect size due to an integer overflow. This bug can lead to a buffer overflow when a consumed Zip iterator is used again.
+- [Live-Hack-CVE/CVE-2021-28879](https://github.com/Live-Hack-CVE/CVE-2021-28879)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28879">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28879">
+
+---
+## CVE-2021-28878 (2021-04-11T20:15:00)
+> In the standard library in Rust before 1.52.0, the Zip implementation calls __iterator_get_unchecked() more than once for the same index (under certain conditions) when next_back() and next() are used together. This bug could lead to a memory safety violation due to an unmet safety requirement for the TrustedRandomAccess trait.
+- [Live-Hack-CVE/CVE-2021-28878](https://github.com/Live-Hack-CVE/CVE-2021-28878)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28878">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28878">
+
+---
+## CVE-2021-28877 (2021-04-11T20:15:00)
+> In the standard library in Rust before 1.51.0, the Zip implementation calls __iterator_get_unchecked() for the same index more than once when nested. This bug can lead to a memory safety violation due to an unmet safety requirement for the TrustedRandomAccess trait.
+- [Live-Hack-CVE/CVE-2021-28877](https://github.com/Live-Hack-CVE/CVE-2021-28877)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28877">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28877">
+
+---
+## CVE-2021-28876 (2021-04-11T20:15:00)
+> In the standard library in Rust before 1.52.0, the Zip implementation has a panic safety issue. It calls __iterator_get_unchecked() more than once for the same index when the underlying iterator panics (in certain conditions). This bug could lead to a memory safety violation due to an unmet safety requirement for the TrustedRandomAccess trait.
+- [Live-Hack-CVE/CVE-2021-28876](https://github.com/Live-Hack-CVE/CVE-2021-28876)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28876">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28876">
+
+---
+## CVE-2021-28875 (2021-04-11T20:15:00)
+> In the standard library in Rust before 1.50.0, read_to_end() does not validate the return value from Read in an unsafe context. This bug could lead to a buffer overflow.
+- [Live-Hack-CVE/CVE-2021-28875](https://github.com/Live-Hack-CVE/CVE-2021-28875)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28875">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28875">
 
 ---
 ## CVE-2021-28874 (2021-04-06T13:15:00)
@@ -1951,6 +1991,16 @@
 - [niandy/nginx-patch](https://github.com/niandy/nginx-patch)	<img alt="forks" src="https://img.shields.io/github/forks/niandy/nginx-patch">	<img alt="stars" src="https://img.shields.io/github/stars/niandy/nginx-patch">
 
 ---
+## CVE-2021-22940 (2021-08-16T19:15:00)
+> Node.js before 16.6.1, 14.17.5, and 12.22.5 is vulnerable to a use after free attack where an attacker might be able to exploit the memory corruption, to change process behavior.
+- [Live-Hack-CVE/CVE-2021-22940](https://github.com/Live-Hack-CVE/CVE-2021-22940)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22940">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22940">
+
+---
+## CVE-2021-22930 (2021-10-07T14:15:00)
+> Node.js before 16.6.0, 14.17.4, and 12.22.4 is vulnerable to a use after free attack where an attacker might be able to exploit the memory corruption, to change process behavior.
+- [Live-Hack-CVE/CVE-2021-22930](https://github.com/Live-Hack-CVE/CVE-2021-22930)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22930">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22930">
+
+---
 ## CVE-2021-22911 (2021-05-27T12:15:00)
 > A improper input sanitization vulnerability exists in Rocket.Chat server 3.11, 3.12 & 3.13 that could lead to unauthenticated NoSQL injection, resulting potentially in RCE.
 - [Walker-00/CVE-2021-22911](https://github.com/Walker-00/CVE-2021-22911)	<img alt="forks" src="https://img.shields.io/github/forks/Walker-00/CVE-2021-22911">	<img alt="stars" src="https://img.shields.io/github/stars/Walker-00/CVE-2021-22911">
@@ -1962,6 +2012,11 @@
 ## CVE-2021-22737 (2021-05-26T20:15:00)
 > Insufficiently Protected Credentials vulnerability exists in homeLYnk (Wiser For KNX) and spaceLYnk V2.60 and prior that could cause unauthorized access of when credentials are discovered after a brute force attack.
 - [Live-Hack-CVE/CVE-2021-22737](https://github.com/Live-Hack-CVE/CVE-2021-22737)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22737">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22737">
+
+---
+## CVE-2021-22235 (2021-07-20T12:15:00)
+> Crash in DNP dissector in Wireshark 3.4.0 to 3.4.6 and 3.2.0 to 3.2.14 allows denial of service via packet injection or crafted capture file
+- [Live-Hack-CVE/CVE-2021-22235](https://github.com/Live-Hack-CVE/CVE-2021-22235)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22235">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22235">
 
 ---
 ## CVE-2021-22214 (2021-06-08T15:15:00)
