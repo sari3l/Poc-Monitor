@@ -1145,6 +1145,26 @@
 - [Live-Hack-CVE/CVE-2021-3849](https://github.com/Live-Hack-CVE/CVE-2021-3849)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3849">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3849">
 
 ---
+## CVE-2021-38460 (2021-10-12T14:15:00)
+> A path traversal vulnerability in the Moxa MXview Network Management software Versions 3.x to 3.2.2 may allow an attacker to create or overwrite critical files used to execute code, such as programs or libraries.
+- [Live-Hack-CVE/CVE-2021-38460](https://github.com/Live-Hack-CVE/CVE-2021-38460)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38460">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38460">
+
+---
+## CVE-2021-38454 (2021-10-12T14:15:00)
+> A path traversal vulnerability in the Moxa MXview Network Management software Versions 3.x to 3.2.2 may allow an attacker to create or overwrite critical files used to execute code, such as programs or libraries.
+- [Live-Hack-CVE/CVE-2021-38454](https://github.com/Live-Hack-CVE/CVE-2021-38454)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38454">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38454">
+
+---
+## CVE-2021-38442 (2021-10-18T13:15:00)
+> FATEK Automation WinProladder versions 3.30 and prior lacks proper validation of user-supplied data when parsing project files, which could result in a heap-corruption condition. An attacker could leverage this vulnerability to execute code in the context of the current process.
+- [Live-Hack-CVE/CVE-2021-38442](https://github.com/Live-Hack-CVE/CVE-2021-38442)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38442">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38442">
+
+---
+## CVE-2021-38436 (2021-10-18T13:15:00)
+> FATEK Automation WinProladder versions 3.30 and prior lacks proper validation of user-supplied data when parsing project files, which could result in a memory-corruption condition. An attacker could leverage this vulnerability to execute arbitrary code in the context of the current process.
+- [Live-Hack-CVE/CVE-2021-38436](https://github.com/Live-Hack-CVE/CVE-2021-38436)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38436">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38436">
+
+---
 ## CVE-2021-38427 (2022-05-05T17:15:00)
 > RTI Connext DDS Professional and Connext DDS Secure Versions 4.2.x to 6.1.0 are vulnerable to a stack-based buffer overflow, which may allow a local attacker to execute arbitrary code.
 - [Live-Hack-CVE/CVE-2021-38427](https://github.com/Live-Hack-CVE/CVE-2021-38427)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38427">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38427">
@@ -1178,6 +1198,11 @@
 ## CVE-2021-38163 (2021-09-14T12:15:00)
 > SAP NetWeaver (Visual Composer 7.0 RT) versions - 7.30, 7.31, 7.40, 7.50, without restriction, an attacker authenticated as a non-administrative user can upload a malicious file over a network and trigger its processing, which is capable of running operating system commands with the privilege of the Java Server process. These commands can be used to read or modify any information on the server or shut the server down making it unavailable.
 - [core1impact/CVE-2021-38163](https://github.com/core1impact/CVE-2021-38163)	<img alt="forks" src="https://img.shields.io/github/forks/core1impact/CVE-2021-38163">	<img alt="stars" src="https://img.shields.io/github/stars/core1impact/CVE-2021-38163">
+
+---
+## CVE-2021-38161 (2021-11-03T16:15:00)
+> Improper Authentication vulnerability in TLS origin verification of Apache Traffic Server allows for man in the middle attacks. This issue affects Apache Traffic Server 8.0.0 to 8.0.8.
+- [Live-Hack-CVE/CVE-2021-38161](https://github.com/Live-Hack-CVE/CVE-2021-38161)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38161">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38161">
 
 ---
 ## CVE-2021-3793 (2021-11-12T22:15:00)
@@ -1863,6 +1888,16 @@
 - [Live-Hack-CVE/CVE-2021-32760](https://github.com/Live-Hack-CVE/CVE-2021-32760)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32760">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32760">
 
 ---
+## CVE-2021-32731 (2021-07-01T19:15:00)
+> XWiki Platform is a generic wiki platform offering runtime services for applications built on top of it. Between (and including) versions 13.1RC1 and 13.1, the reset password form reveals the email address of users just by giving their username. The problem has been patched on XWiki 13.2RC1. As a workaround, it is possible to manually modify the `resetpasswordinline.vm` to perform the changes made to mitigate the vulnerability.
+- [Live-Hack-CVE/CVE-2021-32731](https://github.com/Live-Hack-CVE/CVE-2021-32731)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32731">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32731">
+
+---
+## CVE-2021-32726 (2021-07-12T20:15:00)
+> Nextcloud Server is a Nextcloud package that handles data storage. In versions prior to 19.0.13, 20.011, and 21.0.3, webauthn tokens were not deleted after a user has been deleted. If a victim reused an earlier used username, the previous user could gain access to their account. The issue was fixed in versions 19.0.13, 20.0.11, and 21.0.3. There are no known workarounds.
+- [Live-Hack-CVE/CVE-2021-32726](https://github.com/Live-Hack-CVE/CVE-2021-32726)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32726">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32726">
+
+---
 ## CVE-2021-32707 (2021-07-12T19:15:00)
 > Nextcloud Mail is a mail app for Nextcloud. In versions prior to 1.9.6, the Nextcloud Mail application does not, by default, render images in emails to not leak the read state. The privacy filter failed to filter images with a `background-image` CSS attribute. Note that the images were still passed through the Nextcloud image proxy, and thus there was no IP leakage. The issue was patched in version 1.9.6 and 1.10.0. No workarounds are known to exist.
 - [Live-Hack-CVE/CVE-2021-32707](https://github.com/Live-Hack-CVE/CVE-2021-32707)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32707">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32707">
@@ -1965,6 +2000,16 @@
 - [baka9moe/CVE-2021-3156-TestReport](https://github.com/baka9moe/CVE-2021-3156-TestReport)	<img alt="forks" src="https://img.shields.io/github/forks/baka9moe/CVE-2021-3156-TestReport">	<img alt="stars" src="https://img.shields.io/github/stars/baka9moe/CVE-2021-3156-TestReport">
 - [dynarps/CVE-2021-3156](https://github.com/dynarps/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/dynarps/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/dynarps/CVE-2021-3156">
 - [PhuketIsland/CVE-2021-3156-centos7](https://github.com/PhuketIsland/CVE-2021-3156-centos7)	<img alt="forks" src="https://img.shields.io/github/forks/PhuketIsland/CVE-2021-3156-centos7">	<img alt="stars" src="https://img.shields.io/github/stars/PhuketIsland/CVE-2021-3156-centos7">
+
+---
+## CVE-2021-31356 (2021-10-19T19:15:00)
+> A command injection vulnerability in command processing on Juniper Networks Junos OS Evolved allows an attacker with authenticated CLI access to be able to bypass configured access protections to execute arbitrary shell commands within the context of the current user. The vulnerability allows an attacker to bypass command authorization restrictions assigned to their specific user account and execute commands that are available to the privilege level for which the user is assigned. For example, a user that is in the super-user login class, but restricted to executing specific CLI commands could exploit the vulnerability to execute any other command available to an unrestricted admin user. This vulnerability does not increase the privilege level of the user, but rather bypasses any CLI command restrictions by allowing full access to the shell. This issue affects Juniper Networks Junos OS Evolved: All versions prior to 20.4R3-S1-EVO; All versions of 21.1-EVO and 21.2-EVO.
+- [Live-Hack-CVE/CVE-2021-31356](https://github.com/Live-Hack-CVE/CVE-2021-31356)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31356">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31356">
+
+---
+## CVE-2021-31349 (2021-10-19T19:15:00)
+> The usage of an internal HTTP header created an authentication bypass vulnerability (CWE-287), allowing an attacker to view internal files, change settings, manipulate services and execute arbitrary code. This issue affects all Juniper Networks 128 Technology Session Smart Router versions prior to 4.5.11, and all versions of 5.0 up to and including 5.0.1.
+- [Live-Hack-CVE/CVE-2021-31349](https://github.com/Live-Hack-CVE/CVE-2021-31349)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31349">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31349">
 
 ---
 ## CVE-2021-3129 (2021-01-12T15:15:00)
@@ -2484,6 +2529,11 @@
 ## CVE-2021-24761 (2022-02-01T13:15:00)
 > The Error Log Viewer WordPress plugin before 1.1.2 does not perform nonce check when deleting a log file and does not have path traversal prevention, which could allow attackers to make a logged in admin delete arbitrary text files on the web server.
 - [Live-Hack-CVE/CVE-2021-24761](https://github.com/Live-Hack-CVE/CVE-2021-24761)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24761">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24761">
+
+---
+## CVE-2021-24752 (2021-10-18T14:15:00)
+> Multiple Plugins from the CatchThemes vendor do not perform capability and CSRF checks in the ctp_switch AJAX action, which could allow any authenticated users, such as Subscriber to change the Essential Widgets WordPress plugin before 1.9, To Top WordPress plugin before 2.3, Header Enhancement WordPress plugin before 1.5, Generate Child Theme WordPress plugin before 1.6, Essential Content Types WordPress plugin before 1.9, Catch Web Tools WordPress plugin before 2.7, Catch Under Construction WordPress plugin before 1.4, Catch Themes Demo Import WordPress plugin before 1.6, Catch Sticky Menu WordPress plugin before 1.7, Catch Scroll Progress Bar WordPress plugin before 1.6, Social Gallery and Widget WordPress plugin before 2.3, Catch Infinite Scroll WordPress plugin before 1.9, Catch Import Export WordPress plugin before 1.9, Catch Gallery WordPress plugin before 1.7, Catch Duplicate Switcher WordPress plugin before 1.6, Catch Breadcrumb WordPress plugin before 1.7, Catch IDs WordPress plugin before 2.4's configurations.
+- [Live-Hack-CVE/CVE-2021-24752](https://github.com/Live-Hack-CVE/CVE-2021-24752)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24752">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24752">
 
 ---
 ## CVE-2021-24739 (2021-12-21T09:15:00)
