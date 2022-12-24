@@ -632,6 +632,11 @@
 - [Markakd/CVE-2021-4154](https://github.com/Markakd/CVE-2021-4154)	<img alt="forks" src="https://img.shields.io/github/forks/Markakd/CVE-2021-4154">	<img alt="stars" src="https://img.shields.io/github/stars/Markakd/CVE-2021-4154">
 
 ---
+## CVE-2021-41524 (2021-10-05T09:15:00)
+> While fuzzing the 2.4.49 httpd, a new null pointer dereference was detected during HTTP/2 request processing, allowing an external source to DoS the server. This requires a specially crafted request. The vulnerability was recently introduced in version 2.4.49. No exploit is known to the project.
+- [Live-Hack-CVE/CVE-2021-41524](https://github.com/Live-Hack-CVE/CVE-2021-41524)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41524">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41524">
+
+---
 ## CVE-2021-41381 (2021-09-23T15:15:00)
 > Payara Micro Community 5.2021.6 and below allows Directory Traversal.
 - [Live-Hack-CVE/CVE-2021-41381](https://github.com/Live-Hack-CVE/CVE-2021-41381)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41381">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41381">
@@ -1080,6 +1085,11 @@
 - [Live-Hack-CVE/CVE-2021-38503](https://github.com/Live-Hack-CVE/CVE-2021-38503)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38503">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38503">
 
 ---
+## CVE-2021-38374 (2021-11-22T09:15:00)
+> OX App Suite through through 7.10.5 allows XSS via a crafted snippet that has an app loader reference within an app loader URL.
+- [Live-Hack-CVE/CVE-2021-38374](https://github.com/Live-Hack-CVE/CVE-2021-38374)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38374">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38374">
+
+---
 ## CVE-2021-38314 (2021-09-02T17:15:00)
 > The Gutenberg Template Library & Redux Framework plugin <= 4.2.11 for WordPress registered several AJAX actions available to unauthenticated users in the `includes` function in `redux-core/class-redux-core.php` that were unique to a given site but deterministic and predictable given that they were based on an md5 hash of the site URL with a known salt value of '-redux' and an md5 hash of the previous hash with a known salt value of '-support'. These AJAX actions could be used to retrieve a list of active plugins and their versions, the site's PHP version, and an unsalted md5 hash of site’s `AUTH_KEY` concatenated with the `SECURE_AUTH_KEY`.
 - [c0ff33b34n/CVE-2021-38314](https://github.com/c0ff33b34n/CVE-2021-38314)	<img alt="forks" src="https://img.shields.io/github/forks/c0ff33b34n/CVE-2021-38314">	<img alt="stars" src="https://img.shields.io/github/stars/c0ff33b34n/CVE-2021-38314">
@@ -1141,8 +1151,19 @@
 - [Live-Hack-CVE/CVE-2021-36981](https://github.com/Live-Hack-CVE/CVE-2021-36981)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36981">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36981">
 
 ---
+## CVE-2021-3697 (2022-07-06T16:15:00)
+> A crafted JPEG image may lead the JPEG reader to underflow its data pointer, allowing user-controlled data to be written in heap. To a successful to be performed the attacker needs to perform some triage over the heap layout and craft an image with a malicious format and payload. This vulnerability can lead to data corruption and eventual code execution or secure boot circumvention. This flaw affects grub2 versions prior grub-2.12.
+- [Live-Hack-CVE/CVE-2021-3697](https://github.com/Live-Hack-CVE/CVE-2021-3697)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3697">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3697">
+
+---
 ## CVE-2021-36955 (2021-09-15T12:15:00)
 > Windows Common Log File System Driver Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-36963, CVE-2021-38633.
+- [JiaJinRong12138/CVE-2021-36955-EXP](https://github.com/JiaJinRong12138/CVE-2021-36955-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/JiaJinRong12138/CVE-2021-36955-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/JiaJinRong12138/CVE-2021-36955-EXP">
+
+---
+## CVE-2021-3695 (2022-07-06T16:15:00)
+> A crafted 16-bit grayscale PNG image may lead to a out-of-bounds write in the heap area. An attacker may take advantage of that to cause heap data corruption or eventually arbitrary code execution and circumvent secure boot protections. This issue has a high complexity to be exploited as an attacker needs to perform some triage over the heap layout to achieve signifcant results, also the values written into the memory are repeated three times in a row making difficult to produce valid payloads. This flaw affects grub2 versions prior grub-2.12.
+- [Live-Hack-CVE/CVE-2021-3695](https://github.com/Live-Hack-CVE/CVE-2021-3695)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3695">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3695">
 - [JiaJinRong12138/CVE-2021-36955-EXP](https://github.com/JiaJinRong12138/CVE-2021-36955-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/JiaJinRong12138/CVE-2021-36955-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/JiaJinRong12138/CVE-2021-36955-EXP">
 
 ---
@@ -1752,6 +1773,11 @@
 - [Live-Hack-CVE/CVE-2021-28874](https://github.com/Live-Hack-CVE/CVE-2021-28874)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28874">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28874">
 
 ---
+## CVE-2021-28700 (2021-08-27T19:15:00)
+> xen/arm: No memory limit for dom0less domUs The dom0less feature allows an administrator to create multiple unprivileged domains directly from Xen. Unfortunately, the memory limit from them is not set. This allow a domain to allocate memory beyond what an administrator originally configured.
+- [Live-Hack-CVE/CVE-2021-28700](https://github.com/Live-Hack-CVE/CVE-2021-28700)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28700">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28700">
+
+---
 ## CVE-2021-28655 (2022-12-16T13:15:00)
 > The improper Input Validation vulnerability in "”Move folder to Trash” feature of Apache Zeppelin allows an attacker to delete the arbitrary files. This issue affects Apache Zeppelin Apache Zeppelin version 0.9.0 and prior versions.
 - [Live-Hack-CVE/CVE-2021-28655](https://github.com/Live-Hack-CVE/CVE-2021-28655)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28655">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28655">
@@ -1994,6 +2020,11 @@
 ## CVE-2021-25804 (2021-07-26T17:15:00)
 > A NULL-pointer dereference in "Open" in avi.c of VideoLAN VLC Media Player 3.0.11 can a denial of service (DOS) in the application.
 - [DShankle/VLC_CVE-2021-25804_Analysis](https://github.com/DShankle/VLC_CVE-2021-25804_Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/DShankle/VLC_CVE-2021-25804_Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/DShankle/VLC_CVE-2021-25804_Analysis">
+
+---
+## CVE-2021-25738 (2021-10-11T19:15:00)
+> Loading specially-crafted yaml with the Kubernetes Java Client library can lead to code execution.
+- [Live-Hack-CVE/CVE-2021-25738](https://github.com/Live-Hack-CVE/CVE-2021-25738)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25738">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25738">
 
 ---
 ## CVE-2021-25642 (2022-08-25T14:15:00)
@@ -2404,6 +2435,11 @@
 - [ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-20138](https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-20138)	<img alt="forks" src="https://img.shields.io/github/forks/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-20138">	<img alt="stars" src="https://img.shields.io/github/stars/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-20138">
 
 ---
+## CVE-2021-20077 (2021-03-19T19:15:00)
+> Nessus Agent versions 7.2.0 through 8.2.2 were found to inadvertently capture the IAM role security token on the local host during initial linking of the Nessus Agent when installed on an Amazon EC2 instance. This could allow a privileged attacker to obtain the token.
+- [Live-Hack-CVE/CVE-2021-20077](https://github.com/Live-Hack-CVE/CVE-2021-20077)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20077">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20077">
+
+---
 ## CVE-2021-20038 (2021-12-08T10:15:00)
 > A Stack-based buffer overflow vulnerability in SMA100 Apache httpd server's mod_cgi module environment variables allows a remote unauthenticated attacker to potentially execute code as a 'nobody' user in the appliance. This vulnerability affected SMA 200, 210, 400, 410 and 500v appliances firmware 10.2.0.8-37sv, 10.2.1.1-19sv, 10.2.1.2-24sv and earlier versions.
 - [vesperp/CVE-2021-20038-SonicWall-RCE](https://github.com/vesperp/CVE-2021-20038-SonicWall-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/vesperp/CVE-2021-20038-SonicWall-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/vesperp/CVE-2021-20038-SonicWall-RCE">
@@ -2463,6 +2499,11 @@
 - [edsonjt81/CVE-2021-1675](https://github.com/edsonjt81/CVE-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/edsonjt81/CVE-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/edsonjt81/CVE-2021-1675">
 - [calebstewart/CVE-2021-1675](https://github.com/calebstewart/CVE-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/calebstewart/CVE-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/calebstewart/CVE-2021-1675">
 - [sai-reddy2021/CVE-2021-1675-LPE](https://github.com/sai-reddy2021/CVE-2021-1675-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/sai-reddy2021/CVE-2021-1675-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/sai-reddy2021/CVE-2021-1675-LPE">
+
+---
+## CVE-2021-0981 (2021-12-15T19:15:00)
+> In enqueueNotificationInternal of NotificationManagerService.java, there is a possible way to run a foreground service without showing a notification due to improper input validation. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11Android ID: A-191981182
+- [Live-Hack-CVE/CVE-2021-0981](https://github.com/Live-Hack-CVE/CVE-2021-0981)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-0981">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-0981">
 
 ---
 ## CVE-2021-09 ()
