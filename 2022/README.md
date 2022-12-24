@@ -1877,6 +1877,21 @@
 - [Live-Hack-CVE/CVE-2022-43449](https://github.com/Live-Hack-CVE/CVE-2022-43449)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43449">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43449">
 
 ---
+## CVE-2022-43416 (2022-10-19T16:15:00)
+> Jenkins Katalon Plugin 1.0.32 and earlier implements an agent/controller message that does not limit where it can be executed and allows invoking Katalon with configurable arguments, allowing attackers able to control agent processes to invoke Katalon on the Jenkins controller with attacker-controlled version, install location, and arguments, and attackers additionally able to create files on the Jenkins controller (e.g., attackers with Item/Configure permission could archive artifacts) to invoke arbitrary OS commands.
+- [Live-Hack-CVE/CVE-2022-43416](https://github.com/Live-Hack-CVE/CVE-2022-43416)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43416">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43416">
+
+---
+## CVE-2022-43415 (2022-10-19T16:15:00)
+> Jenkins REPO Plugin 1.15.0 and earlier does not configure its XML parser to prevent XML external entity (XXE) attacks.
+- [Live-Hack-CVE/CVE-2022-43415](https://github.com/Live-Hack-CVE/CVE-2022-43415)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43415">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43415">
+
+---
+## CVE-2022-43414 (2022-10-19T16:15:00)
+> Jenkins NUnit Plugin 0.27 and earlier implements an agent-to-controller message that parses files inside a user-specified directory as test results, allowing attackers able to control agent processes to obtain test results from files in an attacker-specified directory on the Jenkins controller.
+- [Live-Hack-CVE/CVE-2022-43414](https://github.com/Live-Hack-CVE/CVE-2022-43414)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43414">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43414">
+
+---
 ## CVE-2022-43409 (2022-10-19T16:15:00)
 > Jenkins Pipeline: Supporting APIs Plugin 838.va_3a_087b_4055b and earlier does not sanitize or properly encode URLs of hyperlinks sending POST requests in build logs, resulting in a stored cross-site scripting (XSS) vulnerability exploitable by attackers able to create Pipelines.
 - [Live-Hack-CVE/CVE-2022-43409](https://github.com/Live-Hack-CVE/CVE-2022-43409)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43409">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43409">
@@ -2084,6 +2099,16 @@
 - [Live-Hack-CVE/CVE-2022-43212](https://github.com/Live-Hack-CVE/CVE-2022-43212)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43212">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43212">
 
 ---
+## CVE-2022-43185 (2022-10-19T14:15:00)
+> A stored cross-site scripting (XSS) vulnerability in the Configuration/Holidays module of Rukovoditel v3.2.1 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Name parameter.
+- [Live-Hack-CVE/CVE-2022-43185](https://github.com/Live-Hack-CVE/CVE-2022-43185)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43185">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43185">
+
+---
+## CVE-2022-43184 (2022-10-19T14:15:00)
+> D-Link DIR878 1.30B08 Hotfix_04 was discovered to contain a command injection vulnerability via the component /bin/proc.cgi.
+- [Live-Hack-CVE/CVE-2022-43184](https://github.com/Live-Hack-CVE/CVE-2022-43184)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43184">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43184">
+
+---
 ## CVE-2022-43183 (2022-11-17T21:15:00)
 > XXL-Job before v2.3.1 contains a Server-Side Request Forgery (SSRF) via the component /admin/controller/JobLogController.java.
 - [Live-Hack-CVE/CVE-2022-43183](https://github.com/Live-Hack-CVE/CVE-2022-43183)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43183">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43183">
@@ -2130,6 +2155,36 @@
 ## CVE-2022-43046 (2022-11-07T21:15:00)
 > Food Ordering Management System v1.0 was discovered to contain a cross-site scripting (XSS) vulnerability in the component /foms/place-order.php.
 - [Live-Hack-CVE/CVE-2022-43046](https://github.com/Live-Hack-CVE/CVE-2022-43046)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43046">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43046">
+
+---
+## CVE-2022-43045 (2022-10-19T14:15:00)
+> GPAC 2.1-DEV-rev368-gfd054169b-master was discovered to contain a segmentation violation via the function gf_dump_vrml_sffield at /scene_manager/scene_dump.c.
+- [Live-Hack-CVE/CVE-2022-43045](https://github.com/Live-Hack-CVE/CVE-2022-43045)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43045">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43045">
+
+---
+## CVE-2022-43044 (2022-10-19T14:15:00)
+> GPAC 2.1-DEV-rev368-gfd054169b-master was discovered to contain a segmentation violation via the function gf_isom_get_meta_item_info at /isomedia/meta.c.
+- [Live-Hack-CVE/CVE-2022-43044](https://github.com/Live-Hack-CVE/CVE-2022-43044)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43044">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43044">
+
+---
+## CVE-2022-43043 (2022-10-19T14:15:00)
+> GPAC 2.1-DEV-rev368-gfd054169b-master was discovered to contain a segmentation violation via the function BD_CheckSFTimeOffset at /bifs/field_decode.c.
+- [Live-Hack-CVE/CVE-2022-43043](https://github.com/Live-Hack-CVE/CVE-2022-43043)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43043">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43043">
+
+---
+## CVE-2022-43042 (2022-10-19T14:15:00)
+> GPAC 2.1-DEV-rev368-gfd054169b-master was discovered to contain a heap buffer overflow via the function FixSDTPInTRAF at isomedia/isom_intern.c.
+- [Live-Hack-CVE/CVE-2022-43042](https://github.com/Live-Hack-CVE/CVE-2022-43042)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43042">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43042">
+
+---
+## CVE-2022-43040 (2022-10-19T14:15:00)
+> GPAC 2.1-DEV-rev368-gfd054169b-master was discovered to contain a heap buffer overflow via the function gf_isom_box_dump_start_ex at /isomedia/box_funcs.c.
+- [Live-Hack-CVE/CVE-2022-43040](https://github.com/Live-Hack-CVE/CVE-2022-43040)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43040">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43040">
+
+---
+## CVE-2022-43039 (2022-10-19T14:15:00)
+> GPAC 2.1-DEV-rev368-gfd054169b-master was discovered to contain a segmentation violation via the function gf_isom_meta_restore_items_ref at /isomedia/meta.c.
+- [Live-Hack-CVE/CVE-2022-43039](https://github.com/Live-Hack-CVE/CVE-2022-43039)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43039">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43039">
 
 ---
 ## CVE-2022-43003 (2022-10-26T19:15:00)
@@ -3310,6 +3365,16 @@
 ## CVE-2022-41712 (2022-11-25T18:15:00)
 > Frappe version 14.10.0 allows an external attacker to remotely obtain arbitrary local files. This is possible because the application does not correctly validate the information injected by the user in the import_file parameter.
 - [Live-Hack-CVE/CVE-2022-41712](https://github.com/Live-Hack-CVE/CVE-2022-41712)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41712">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41712">
+
+---
+## CVE-2022-41709 (2022-10-19T17:15:00)
+> Markdownify version 1.4.1 allows an external attacker to execute arbitrary code remotely on any client attempting to view a malicious markdown file through Markdownify. This is possible because the application has the "nodeIntegration" option enabled.
+- [Live-Hack-CVE/CVE-2022-41709](https://github.com/Live-Hack-CVE/CVE-2022-41709)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41709">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41709">
+
+---
+## CVE-2022-41707 (2022-10-19T17:15:00)
+> Relatedcode's Messenger version 7bcd20b allows an authenticated external attacker to access sensitive data of any user of the application. This is possible because the application exposes user data to the public.
+- [Live-Hack-CVE/CVE-2022-41707](https://github.com/Live-Hack-CVE/CVE-2022-41707)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41707">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41707">
 
 ---
 ## CVE-2022-41705 (2022-11-25T18:15:00)
@@ -7166,6 +7231,21 @@
 - [Live-Hack-CVE/CVE-2022-3204](https://github.com/Live-Hack-CVE/CVE-2022-3204)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3204">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3204">
 
 ---
+## CVE-2022-32035 (2022-07-01T18:15:00)
+> Tenda M3 V1.0.0.12 was discovered to contain a stack overflow via the function formMasterMng.
+- [Live-Hack-CVE/CVE-2022-32035](https://github.com/Live-Hack-CVE/CVE-2022-32035)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32035">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32035">
+
+---
+## CVE-2022-32034 (2022-07-01T18:15:00)
+> Tenda M3 V1.0.0.12 was discovered to contain a stack overflow via the items parameter in the function formdelMasteraclist.
+- [Live-Hack-CVE/CVE-2022-32034](https://github.com/Live-Hack-CVE/CVE-2022-32034)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32034">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32034">
+
+---
+## CVE-2022-32033 (2022-07-01T18:15:00)
+> Tenda AX1806 v1.0.0.1 was discovered to contain a stack overflow via the function formSetVirtualSer.
+- [Live-Hack-CVE/CVE-2022-32033](https://github.com/Live-Hack-CVE/CVE-2022-32033)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32033">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32033">
+
+---
 ## CVE-2022-3201 (2022-09-26T16:15:00)
 > Insufficient validation of untrusted input in DevTools in Google Chrome on Chrome OS prior to 105.0.5195.125 allowed an attacker who convinced a user to install a malicious extension to bypass navigation restrictions via a crafted HTML page. (Chromium security severity: High)
 - [Live-Hack-CVE/CVE-2022-3201](https://github.com/Live-Hack-CVE/CVE-2022-3201)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3201">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3201">
@@ -9018,12 +9098,47 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [LordRNA/CVE-2022-25765](https://github.com/LordRNA/CVE-2022-25765)	<img alt="forks" src="https://img.shields.io/github/forks/LordRNA/CVE-2022-25765">	<img alt="stars" src="https://img.shields.io/github/stars/LordRNA/CVE-2022-25765">
 
 ---
+## CVE-2022-25750 (2022-10-19T11:15:00)
+> Memory corruption in BTHOST due to double free while music playback and calls over bluetooth headset in Snapdragon Mobile
+- [Live-Hack-CVE/CVE-2022-25750](https://github.com/Live-Hack-CVE/CVE-2022-25750)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25750">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25750">
+
+---
+## CVE-2022-25749 (2022-10-19T11:15:00)
+> Transient Denial-of-Service in WLAN due to buffer over-read while parsing MDNS frames. in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer Electronics Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon IoT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables, Snapdragon Wired Infrastructure and Networking
+- [Live-Hack-CVE/CVE-2022-25749](https://github.com/Live-Hack-CVE/CVE-2022-25749)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25749">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25749">
+
+---
+## CVE-2022-25748 (2022-10-19T11:15:00)
+> Memory corruption in WLAN due to integer overflow to buffer overflow while parsing GTK frames. in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer Electronics Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon IoT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables, Snapdragon Wired Infrastructure and Networking
+- [Live-Hack-CVE/CVE-2022-25748](https://github.com/Live-Hack-CVE/CVE-2022-25748)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25748">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25748">
+
+---
 ## CVE-2022-2574 (2022-10-17T12:15:00)
 > The Meks Easy Social Share WordPress plugin before 1.2.8 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup)
 - [Live-Hack-CVE/CVE-2022-2574](https://github.com/Live-Hack-CVE/CVE-2022-2574)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2574">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2574">
 - [Live-Hack-CVE/CVE-2022-25741](https://github.com/Live-Hack-CVE/CVE-2022-25741)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25741">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25741">
 - [Live-Hack-CVE/CVE-2022-25742](https://github.com/Live-Hack-CVE/CVE-2022-25742)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25742">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25742">
 - [Live-Hack-CVE/CVE-2022-25743](https://github.com/Live-Hack-CVE/CVE-2022-25743)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25743">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25743">
+
+---
+## CVE-2022-25736 (2022-10-19T11:15:00)
+> Denial of service in WLAN due to out-of-bound read happens while processing VHT action frame in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer Electronics Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables, Snapdragon Wired Infrastructure and Networking
+- [Live-Hack-CVE/CVE-2022-25736](https://github.com/Live-Hack-CVE/CVE-2022-25736)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25736">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25736">
+
+---
+## CVE-2022-25723 (2022-10-19T11:15:00)
+> Memory corruption in multimedia due to use after free during callback registration failure in Snapdragon Mobile
+- [Live-Hack-CVE/CVE-2022-25723](https://github.com/Live-Hack-CVE/CVE-2022-25723)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25723">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25723">
+
+---
+## CVE-2022-25665 (2022-10-19T11:15:00)
+> Information disclosure due to buffer over read in kernel in Snapdragon Auto, Snapdragon Compute, Snapdragon Consumer IOT, Snapdragon Mobile
+- [Live-Hack-CVE/CVE-2022-25665](https://github.com/Live-Hack-CVE/CVE-2022-25665)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25665">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25665">
+
+---
+## CVE-2022-25664 (2022-10-19T11:15:00)
+> Information disclosure due to exposure of information while GPU reads the data in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Wearables
+- [Live-Hack-CVE/CVE-2022-25664](https://github.com/Live-Hack-CVE/CVE-2022-25664)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25664">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25664">
 
 ---
 ## CVE-2022-25663 (2022-10-19T11:15:00)
@@ -9828,6 +9943,26 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-22231 (2022-10-18T03:15:00)
 > An Unchecked Return Value to NULL Pointer Dereference vulnerability in Packet Forwarding Engine (PFE) of Juniper Networks Junos OS allows an unauthenticated, network-based attacker to cause a Denial of Service (DoS). On SRX Series if Unified Threat Management (UTM) Enhanced Content Filtering (CF) and AntiVirus (AV) are enabled together and the system processes specific valid transit traffic the Packet Forwarding Engine (PFE) will crash and restart. This issue affects Juniper Networks Junos OS 21.4 versions prior to 21.4R1-S2, 21.4R2 on SRX Series. This issue does not affect Juniper Networks Junos OS versions prior to 21.4R1.
 - [Live-Hack-CVE/CVE-2022-22231](https://github.com/Live-Hack-CVE/CVE-2022-22231)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22231">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22231">
+
+---
+## CVE-2022-22224 (2022-10-18T03:15:00)
+> An Improper Check or Handling of Exceptional Conditions vulnerability in the processing of a malformed OSPF TLV in Juniper Networks Junos OS and Junos OS Evolved allows an unauthenticated adjacent attacker to cause the periodic packet management daemon (PPMD) process to go into an infinite loop, which in turn can cause protocols and functions reliant on PPMD such as OSPF neighbor reachability to be impacted, resulting in a sustained Denial of Service (DoS) condition. The DoS condition persists until the PPMD process is manually restarted. This issue affects: Juniper Networks Junos OS: All versions prior to 19.1R3-S9; 19.2 versions prior to 19.2R3-S5; 19.3 versions prior to 19.3R3-S3; 19.4 versions prior to 19.4R3-S9; 20.1 versions prior to 20.1R3; 20.2 versions prior to 20.2R3-S1; 20.3 versions prior to 20.3R3; 20.4 versions prior to 20.4R3; 21.1 versions prior to 21.1R2. Juniper Networks Junos OS Evolved: All versions prior to 20.4R3-S3-EVO; 21.1 versions prior to 21.1R2-EVO.
+- [Live-Hack-CVE/CVE-2022-22224](https://github.com/Live-Hack-CVE/CVE-2022-22224)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22224">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22224">
+
+---
+## CVE-2022-22220 (2022-10-18T03:15:00)
+> A Time-of-check Time-of-use (TOCTOU) Race Condition vulnerability in Routing Protocol Daemon (rpd) of Juniper Networks Junos OS, Junos OS Evolved allows a network-based unauthenticated attacker to cause a Denial of Service (DoS). When a BGP flow route with redirect IP extended community is received, and the reachability to the next-hop of the corresponding redirect IP is flapping, the rpd process might crash. Whether the crash occurs depends on the timing of the internally processing of these two events and is outside the attackers control. Please note that this issue also affects Route-Reflectors unless 'routing-options flow firewall-install-disable' is configured. This issue affects: Juniper Networks Junos OS: 18.4 versions prior to 18.4R2-S10, 18.4R3-S10; 19.1 versions prior to 19.1R3-S7; 19.2 versions prior to 19.2R1-S8, 19.2R3-S4; 19.4 versions prior to 19.4R3-S8; 20.2 versions prior to 20.2R3-S3; 20.3 versions prior to 20.3R3-S2; 20.4 versions prior to 20.4R3; 21.1 versions prior to 21.1R2. Juniper Networks Junos OS Evolved: All versions prior to 20.4R2-EVO; 21.1-EVO versions prior to 21.1R2-EVO. This issue does not affect Juniper Networks Junos OS versions prior to 18.4R1.
+- [Live-Hack-CVE/CVE-2022-22220](https://github.com/Live-Hack-CVE/CVE-2022-22220)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22220">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22220">
+
+---
+## CVE-2022-22208 (2022-10-18T03:15:00)
+> A Use After Free vulnerability in the Routing Protocol Daemon (rdp) of Juniper Networks Junos OS and Junos OS Evolved allows an unauthenticated network-based attacker to cause Denial of Service (DoS). When a BGP session flap happens, a Use After Free of a memory location that was assigned to another object can occur, which will lead to an rpd crash. This is a race condition that is outside of the attacker's control and cannot be deterministically exploited. Continued flapping of BGP sessions can create a sustained Denial of Service (DoS) condition. This issue affects Juniper Networks Junos OS: All versions prior to 18.4R2-S9, 18.4R3-S11; 19.1 versions prior to 19.1R3-S8; 19.2 version 19.2R1 and later versions; 19.3 versions prior to 19.3R3-S5; 19.4 versions prior to 19.4R2-S6, 19.4R3-S6; 20.1 version 20.1R1 and later versions; 20.2 versions prior to 20.2R3-S3; 20.3 versions prior to 20.3R3-S2; 20.4 versions prior to 20.4R3-S1; 21.1 versions prior to 21.1R3-S3; 21.2 versions prior to 21.2R2-S1, 21.2R3. Juniper Networks Junos OS Evolved All versions prior to 20.4R3-S4-EVO; 21.1-EVO versions prior to 21.1R3-S2-EVO; 21.2-EVO versions prior to 21.2R3-EVO; 21.3-EVO versions prior to 21.3R2-EVO.
+- [Live-Hack-CVE/CVE-2022-22208](https://github.com/Live-Hack-CVE/CVE-2022-22208)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22208">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22208">
+
+---
+## CVE-2022-22201 (2022-10-18T03:15:00)
+> An Improper Validation of Specified Index, Position, or Offset in Input vulnerability in the Packet Forwarding Engine (PFE) of Juniper Networks Junos OS allows an unauthenticated network-based attacker to cause a Denial of Service (DoS). On SRX5000 Series with SPC3, SRX4000 Series, and vSRX, when PowerMode IPsec is configured and a malformed ESP packet matching an established IPsec tunnel is received the PFE crashes. This issue affects Juniper Networks Junos OS on SRX5000 Series with SPC3, SRX4000 Series, and vSRX: All versions prior to 19.4R2-S6, 19.4R3-S7; 20.1 versions prior to 20.1R3-S3; 20.2 versions prior to 20.2R3-S4; 20.3 versions prior to 20.3R3-S3; 20.4 versions prior to 20.4R3-S2; 21.1 versions prior to 21.1R3; 21.2 versions prior to 21.2R3; 21.3 versions prior to 21.3R1-S2, 21.3R2.
+- [Live-Hack-CVE/CVE-2022-22201](https://github.com/Live-Hack-CVE/CVE-2022-22201)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22201">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22201">
 
 ---
 ## CVE-2022-22078 (2022-10-19T11:15:00)
