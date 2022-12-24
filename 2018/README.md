@@ -283,6 +283,11 @@
 - [ahaShiyu/CVE-2018-19854](https://github.com/ahaShiyu/CVE-2018-19854)	<img alt="forks" src="https://img.shields.io/github/forks/ahaShiyu/CVE-2018-19854">	<img alt="stars" src="https://img.shields.io/github/stars/ahaShiyu/CVE-2018-19854">
 
 ---
+## CVE-2018-19615 (2018-12-26T21:29:00)
+> Rockwell Automation Allen-Bradley PowerMonitor 1000 all versions. A remote attacker could inject arbitrary code into a targeted userâ??s web browser to gain access to the affected device.
+- [Live-Hack-CVE/CVE-2018-19615](https://github.com/Live-Hack-CVE/CVE-2018-19615)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-19615">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-19615">
+
+---
 ## CVE-2018-19497 (2018-11-29T23:29:00)
 > In The Sleuth Kit (TSK) through 4.6.4, hfs_cat_traverse in tsk/fs/hfs.c does not properly determine when a key length is too large, which allows attackers to cause a denial of service (SEGV on unknown address with READ memory access in a tsk_getu16 call in hfs_dir_open_meta_cb in tsk/fs/hfs_dent.c).
 - [Live-Hack-CVE/CVE-2018-19497](https://github.com/Live-Hack-CVE/CVE-2018-19497)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-19497">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-19497">

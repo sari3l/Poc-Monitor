@@ -75,6 +75,11 @@
 - [Live-Hack-CVE/CVE-2020-8974](https://github.com/Live-Hack-CVE/CVE-2020-8974)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8974">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8974">
 
 ---
+## CVE-2020-8832 (2020-04-10T00:15:00)
+> The fix for the Linux kernel in Ubuntu 18.04 LTS for CVE-2019-14615 ("The Linux kernel did not properly clear data structures on context switches for certain Intel graphics processors.") was discovered to be incomplete, meaning that in versions of the kernel before 4.15.0-91.92, an attacker could use this vulnerability to expose sensitive information.
+- [Live-Hack-CVE/CVE-2020-8832](https://github.com/Live-Hack-CVE/CVE-2020-8832)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8832">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8832">
+
+---
 ## CVE-2020-8825 (2020-02-10T12:15:00)
 > index.php?p=/dashboard/settings/branding in Vanilla 2.6.3 allows stored XSS.
 - [hacky1997/CVE-2020-8825](https://github.com/hacky1997/CVE-2020-8825)	<img alt="forks" src="https://img.shields.io/github/forks/hacky1997/CVE-2020-8825">	<img alt="stars" src="https://img.shields.io/github/stars/hacky1997/CVE-2020-8825">

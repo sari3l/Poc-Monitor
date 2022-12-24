@@ -2595,6 +2595,11 @@
 - [Live-Hack-CVE/CVE-2022-42754](https://github.com/Live-Hack-CVE/CVE-2022-42754)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42754">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42754">
 
 ---
+## CVE-2022-42731 (2022-10-11T14:15:00)
+> mfa/FIDO2.py in django-mfa2 before 2.5.1 and 2.6.x before 2.6.1 allows a replay attack that could be used to register another device for a user. The device registration challenge is not invalidated after usage.
+- [Live-Hack-CVE/CVE-2022-42731](https://github.com/Live-Hack-CVE/CVE-2022-42731)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42731">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42731">
+
+---
 ## CVE-2022-4272 (2022-12-03T09:15:00)
 > A vulnerability, which was classified as critical, has been found in FeMiner wms. Affected by this issue is some unknown functionality of the file /product/savenewproduct.php?flag=1. The manipulation of the argument upfile leads to unrestricted upload. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-214760.
 - [Live-Hack-CVE/CVE-2022-4272](https://github.com/Live-Hack-CVE/CVE-2022-4272)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4272">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4272">
@@ -3445,6 +3450,21 @@
 - [Live-Hack-CVE/CVE-2022-4175](https://github.com/Live-Hack-CVE/CVE-2022-4175)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4175">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4175">
 
 ---
+## CVE-2022-41748 (2022-10-10T21:15:00)
+> A registry permissions vulnerability in the Trend Micro Apex One Data Loss Prevention (DLP) module could allow a local attacker with administrative credentials to bypass certain elements of the product's anti-tampering mechanisms on affected installations. Please note: an attacker must first obtain administrative credentials on the target system in order to exploit this vulnerability.
+- [Live-Hack-CVE/CVE-2022-41748](https://github.com/Live-Hack-CVE/CVE-2022-41748)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41748">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41748">
+
+---
+## CVE-2022-41747 (2022-10-10T21:15:00)
+> An improper certification validation vulnerability in Trend Micro Apex One agents could allow a local attacker to load a DLL file with system service privileges on affected installations. Please note: an attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability.
+- [Live-Hack-CVE/CVE-2022-41747](https://github.com/Live-Hack-CVE/CVE-2022-41747)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41747">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41747">
+
+---
+## CVE-2022-41746 (2022-10-10T21:15:00)
+> A forced browsing vulnerability in Trend Micro Apex One could allow an attacker with access to the Apex One console on affected installations to escalate privileges and modify certain agent groupings. Please note: an attacker must first obtain the ability to log onto the Apex One web console in order to exploit this vulnerability.
+- [Live-Hack-CVE/CVE-2022-41746](https://github.com/Live-Hack-CVE/CVE-2022-41746)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41746">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41746">
+
+---
 ## CVE-2022-41741 (2022-10-19T22:15:00)
 > NGINX Open Source before versions 1.23.2 and 1.22.1, NGINX Open Source Subscription before versions R2 P1 and R1 P1, and NGINX Plus before versions R27 P1 and R26 P1 have a vulnerability in the module ngx_http_mp4_module that might allow a local attacker to corrupt NGINX worker memory, resulting in its termination or potential other impact using a specially crafted audio or video file. The issue affects only NGINX products that are built with the ngx_http_mp4_module, when the mp4 directive is used in the configuration file. Further, the attack is possible only if an attacker can trigger processing of a specially crafted audio or video file with the module ngx_http_mp4_module.
 - [Live-Hack-CVE/CVE-2022-41741](https://github.com/Live-Hack-CVE/CVE-2022-41741)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41741">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41741">
@@ -3681,6 +3701,11 @@
 ## CVE-2022-41403 (2022-10-12T18:15:00)
 > OpenCart 3.x Newsletter Custom Popup was discovered to contain a SQL injection vulnerability via the email parameter at index.php?route=extension/module/so_newletter_custom_popup/newsletter.
 - [Live-Hack-CVE/CVE-2022-41403](https://github.com/Live-Hack-CVE/CVE-2022-41403)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41403">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41403">
+
+---
+## CVE-2022-41376 (2022-10-11T17:15:00)
+> Metro UI v4.4.0 to v4.5.0 was discovered to contain a reflected cross-site scripting (XSS) vulnerability via the Javascript function.
+- [Live-Hack-CVE/CVE-2022-41376](https://github.com/Live-Hack-CVE/CVE-2022-41376)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41376">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41376">
 
 ---
 ## CVE-2022-4136 (2022-11-24T08:15:00)
@@ -4664,6 +4689,11 @@
 - [mr-r3b00t/NotProxyShellHunter](https://github.com/mr-r3b00t/NotProxyShellHunter)	<img alt="forks" src="https://img.shields.io/github/forks/mr-r3b00t/NotProxyShellHunter">	<img alt="stars" src="https://img.shields.io/github/stars/mr-r3b00t/NotProxyShellHunter">
 
 ---
+## CVE-2022-40138 (2022-10-11T02:15:00)
+> An integer conversion error in Hermes bytecode generation, prior to commit 6aa825e480d48127b480b08d13adf70033237097, could have been used to perform Out-Of-Bounds operations and subsequently execute arbitrary code. Note that this is only exploitable in cases where Hermes is used to execute untrusted JavaScript. Hence, most React Native applications are not affected.
+- [Live-Hack-CVE/CVE-2022-40138](https://github.com/Live-Hack-CVE/CVE-2022-40138)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40138">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40138">
+
+---
 ## CVE-2022-40130 (2022-11-18T23:15:00)
 > Auth. (subscriber+) Race Condition vulnerability in WP-Polls plugin <= 2.76.0 on WordPress.
 - [Live-Hack-CVE/CVE-2022-40130](https://github.com/Live-Hack-CVE/CVE-2022-40130)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40130">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40130">
@@ -4748,6 +4778,46 @@
 ## CVE-2022-3988 (2022-11-14T11:15:00)
 > A vulnerability was found in Frappe. It has been rated as problematic. Affected by this issue is some unknown functionality of the file frappe/templates/includes/navbar/navbar_search.html of the component Search. The manipulation of the argument q leads to cross site scripting. The attack may be launched remotely. The name of the patch is bfab7191543961c6cb77fe267063877c31b616ce. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-213560.
 - [Live-Hack-CVE/CVE-2022-3988](https://github.com/Live-Hack-CVE/CVE-2022-3988)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3988">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3988">
+
+---
+## CVE-2022-39871 (2022-10-07T15:15:00)
+> Improper access control vulnerability cloudNotificationManager.java in SmartThings prior to version 1.7.89.0 allows attackers to access sensitive information via implicit broadcasts.
+- [Live-Hack-CVE/CVE-2022-39871](https://github.com/Live-Hack-CVE/CVE-2022-39871)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39871">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39871">
+
+---
+## CVE-2022-39870 (2022-10-07T15:15:00)
+> Improper access control vulnerability in cloudNotificationManager.java SmartThings prior to version 1.7.89.0 allows attackers to access sensitive information via PUSH_MESSAGE_RECEIVED broadcast.
+- [Live-Hack-CVE/CVE-2022-39870](https://github.com/Live-Hack-CVE/CVE-2022-39870)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39870">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39870">
+
+---
+## CVE-2022-39869 (2022-10-07T15:15:00)
+> Improper access control vulnerability in cloudNotificationManager.java SmartThings prior to version 1.7.89.0 allows attackers to access sensitive information via REMOVE_PERSISTENT_BANNER broadcast.
+- [Live-Hack-CVE/CVE-2022-39869](https://github.com/Live-Hack-CVE/CVE-2022-39869)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39869">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39869">
+
+---
+## CVE-2022-39868 (2022-10-07T15:15:00)
+> Improper access control vulnerability in GedSamsungAccount.kt SmartThings prior to version 1.7.89.0 allows attackers to access sensitive information via implicit broadcast.
+- [Live-Hack-CVE/CVE-2022-39868](https://github.com/Live-Hack-CVE/CVE-2022-39868)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39868">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39868">
+
+---
+## CVE-2022-39867 (2022-10-07T15:15:00)
+> Improper access control vulnerability in cloudNotificationManager.java SmartThings prior to version 1.7.89.0 allows attackers to access sensitive information via SHOW_PERSISTENT_BANNER broadcast.
+- [Live-Hack-CVE/CVE-2022-39867](https://github.com/Live-Hack-CVE/CVE-2022-39867)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39867">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39867">
+
+---
+## CVE-2022-39866 (2022-10-07T15:15:00)
+> Improper access control vulnerability in RegisteredEventMediator.kt SmartThings prior to version 1.7.89.0 allows attackers to access sensitive information via implicit broadcast.
+- [Live-Hack-CVE/CVE-2022-39866](https://github.com/Live-Hack-CVE/CVE-2022-39866)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39866">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39866">
+
+---
+## CVE-2022-39865 (2022-10-07T15:15:00)
+> Improper access control vulnerability in ContentsSharingActivity.java SmartThings prior to version 1.7.89.0 allows attackers to access sensitive information via implicit broadcast.
+- [Live-Hack-CVE/CVE-2022-39865](https://github.com/Live-Hack-CVE/CVE-2022-39865)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39865">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39865">
+
+---
+## CVE-2022-39847 (2022-10-07T15:15:00)
+> Use after free vulnerability in set_nft_pid and signal_handler function of NFC driver prior to SMR Oct-2022 Release 1 allows attackers to perform malicious actions.
+- [Live-Hack-CVE/CVE-2022-39847](https://github.com/Live-Hack-CVE/CVE-2022-39847)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39847">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39847">
 
 ---
 ## CVE-2022-39842 (2022-09-05T07:15:00)
@@ -6487,6 +6557,11 @@
 - [Live-Hack-CVE/CVE-2022-3690](https://github.com/Live-Hack-CVE/CVE-2022-3690)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3690">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3690">
 
 ---
+## CVE-2022-36868 (2022-10-07T15:15:00)
+> Improper restriction of broadcasting Intent in MouseNKeyHidDevice prior to SMR Oct-2022 Release 1 leaks MAC address of the connected Bluetooth device.
+- [Live-Hack-CVE/CVE-2022-36868](https://github.com/Live-Hack-CVE/CVE-2022-36868)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36868">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36868">
+
+---
 ## CVE-2022-36804 (2022-08-25T06:15:00)
 > Multiple API endpoints in Atlassian Bitbucket Server and Data Center 7.0.0 before version 7.6.17, from version 7.7.0 before version 7.17.10, from version 7.18.0 before version 7.21.4, from version 8.0.0 before version 8.0.3, from version 8.1.0 before version 8.1.3, and from version 8.2.0 before version 8.2.2, and from version 8.3.0 before 8.3.1 allows remote attackers with read permissions to a public or private Bitbucket repository to execute arbitrary code by sending a malicious HTTP request. This vulnerability was reported via our Bug Bounty Program by TheGrandPew.
 - [cryptolakk/CVE-2022-36804-RCE](https://github.com/cryptolakk/CVE-2022-36804-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/cryptolakk/CVE-2022-36804-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/cryptolakk/CVE-2022-36804-RCE">
@@ -7081,6 +7156,11 @@
 ## CVE-2022-35295 (2022-09-13T16:15:00)
 > In SAP Host Agent (SAPOSCOL) - version 7.22, an attacker may use files created by saposcol to escalate privileges for themselves.
 - [Live-Hack-CVE/CVE-2022-35295](https://github.com/Live-Hack-CVE/CVE-2022-35295)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35295">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35295">
+
+---
+## CVE-2022-35289 (2022-10-11T02:15:00)
+> A write-what-where condition in hermes caused by an integer overflow, prior to commit 5b6255ae049fa4641791e47fad994e8e8c4da374 allows attackers to potentially execute arbitrary code via crafted JavaScript. Note that this is only exploitable if the application using Hermes permits evaluation of untrusted JavaScript. Hence, most React Native applications are not affected.
+- [Live-Hack-CVE/CVE-2022-35289](https://github.com/Live-Hack-CVE/CVE-2022-35289)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35289">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35289">
 
 ---
 ## CVE-2022-35276 (2022-11-11T16:15:00)
@@ -8045,6 +8125,11 @@
 > net/netfilter/nf_tables_api.c in the Linux kernel through 5.18.1 allows a local user (able to create user/net namespaces) to escalate privileges to root because an incorrect NFT_STATEFUL_EXPR check leads to a use-after-free.
 - [0dayCTF/CVE-2022-32250_PoC](https://github.com/0dayCTF/CVE-2022-32250_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0dayCTF/CVE-2022-32250_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0dayCTF/CVE-2022-32250_PoC">
 - [theori-io/CVE-2022-32250-exploit](https://github.com/theori-io/CVE-2022-32250-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/theori-io/CVE-2022-32250-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/theori-io/CVE-2022-32250-exploit">
+
+---
+## CVE-2022-32234 (2022-10-11T01:15:00)
+> An out of bounds write in hermes, while handling large arrays, prior to commit 06eaec767e376bfdb883d912cb15e987ddf2bda1 allows attackers to potentially execute arbitrary code via crafted JavaScript. Note that this is only exploitable if the application using Hermes permits evaluation of untrusted JavaScript. Hence, most React Native applications are not affected.
+- [Live-Hack-CVE/CVE-2022-32234](https://github.com/Live-Hack-CVE/CVE-2022-32234)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32234">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32234">
 
 ---
 ## CVE-2022-32224 (2022-12-05T22:15:00)
@@ -9148,6 +9233,11 @@
 > relay_cgi.cgi on Dingtian DT-R002 2CH relay devices with firmware 3.1.276A allows an attacker to replay HTTP post requests without the need for authentication or a valid signed/authorized request.
 - [9lyph/CVE-2022-29593](https://github.com/9lyph/CVE-2022-29593)	<img alt="forks" src="https://img.shields.io/github/forks/9lyph/CVE-2022-29593">	<img alt="stars" src="https://img.shields.io/github/stars/9lyph/CVE-2022-29593">
 - [Live-Hack-CVE/CVE-2022-29593](https://github.com/Live-Hack-CVE/CVE-2022-29593)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29593">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29593">
+
+---
+## CVE-2022-29586 (2022-05-16T06:15:00)
+> Konica Minolta bizhub MFP devices before 2022-04-14 allow a Sandbox Escape. An attacker must attach a keyboard to a USB port, press F12, and then escape from the kiosk mode.
+- [Live-Hack-CVE/CVE-2022-29586](https://github.com/Live-Hack-CVE/CVE-2022-29586)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29586">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29586">
 
 ---
 ## CVE-2022-29582 (2022-04-22T16:15:00)

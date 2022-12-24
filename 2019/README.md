@@ -1144,6 +1144,11 @@
 - [ossf-cve-benchmark/CVE-2019-10742](https://github.com/ossf-cve-benchmark/CVE-2019-10742)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2019-10742">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2019-10742">
 
 ---
+## CVE-2019-10433 (2019-10-01T14:15:00)
+> Jenkins Dingding[??] Plugin stores credentials unencrypted in job config.xml files on the Jenkins master where they can be viewed by users with Extended Read permission, or access to the master file system.
+- [Live-Hack-CVE/CVE-2019-10433](https://github.com/Live-Hack-CVE/CVE-2019-10433)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10433">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10433">
+
+---
 ## CVE-2019-10220 (2019-11-27T16:15:00)
 > Linux kernel CIFS implementation, version 4.9.0 is vulnerable to a relative paths injection in directory entry lists.
 - [nidhi7598/linux-4.1.15_CVE-2019-10220](https://github.com/nidhi7598/linux-4.1.15_CVE-2019-10220)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.1.15_CVE-2019-10220">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.1.15_CVE-2019-10220">

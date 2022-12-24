@@ -2266,6 +2266,51 @@
 - [Live-Hack-CVE/CVE-2021-31162](https://github.com/Live-Hack-CVE/CVE-2021-31162)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31162">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31162">
 
 ---
+## CVE-2021-30935 (2021-08-24T19:15:00)
+> A logic issue was addressed with improved validation. This issue is fixed in Security Update 2021-008 Catalina, macOS Big Sur 11.6.2. An application may be able to execute arbitrary code with kernel privileges.
+- [Live-Hack-CVE/CVE-2021-30935](https://github.com/Live-Hack-CVE/CVE-2021-30935)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30935">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30935">
+
+---
+## CVE-2021-30926 (2021-08-24T19:15:00)
+> Description: A memory corruption issue in the processing of ICC profiles was addressed with improved input validation. This issue is fixed in macOS Monterey 12.1, watchOS 8.3, iOS 15.2 and iPadOS 15.2, tvOS 15.2. Processing a maliciously crafted image may lead to arbitrary code execution.
+- [Live-Hack-CVE/CVE-2021-30926](https://github.com/Live-Hack-CVE/CVE-2021-30926)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30926">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30926">
+
+---
+## CVE-2021-30922 (2021-08-24T19:15:00)
+> Multiple out-of-bounds write issues were addressed with improved bounds checking. This issue is fixed in macOS Big Sur 11.6.1. A malicious application may be able to execute arbitrary code with kernel privileges.
+- [Live-Hack-CVE/CVE-2021-30922](https://github.com/Live-Hack-CVE/CVE-2021-30922)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30922">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30922">
+
+---
+## CVE-2021-30913 (2021-08-24T19:15:00)
+> The issue was addressed with improved permissions logic. This issue is fixed in macOS Monterey 12.0.1, macOS Big Sur 11.6.1. An unprivileged application may be able to edit NVRAM variables.
+- [Live-Hack-CVE/CVE-2021-30913](https://github.com/Live-Hack-CVE/CVE-2021-30913)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30913">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30913">
+
+---
+## CVE-2021-30906 (2021-08-24T19:15:00)
+> This issue was addressed with improved checks. This issue is fixed in iOS 15.1 and iPadOS 15.1, macOS Monterey 12.0.1, tvOS 15.1, watchOS 8.1, macOS Big Sur 11.6.1. A local attacker may be able to elevate their privileges.
+- [Live-Hack-CVE/CVE-2021-30906](https://github.com/Live-Hack-CVE/CVE-2021-30906)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30906">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30906">
+
+---
+## CVE-2021-30903 (2021-08-24T19:15:00)
+> This issue was addressed with improved checks. This issue is fixed in iOS 14.8.1 and iPadOS 14.8.1, iOS 15.1 and iPadOS 15.1, macOS Monterey 12.0.1. A local attacker may be able to cause unexpected application termination or arbitrary code execution.
+- [Live-Hack-CVE/CVE-2021-30903](https://github.com/Live-Hack-CVE/CVE-2021-30903)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30903">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30903">
+
+---
+## CVE-2021-30895 (2021-08-24T19:15:00)
+> A logic issue was addressed with improved restrictions. This issue is fixed in iOS 15.0.2 and iPadOS 15.0.2, tvOS 15.1, watchOS 8.1, macOS Monterey 12.0.1. A malicious application may be able to access information about a user's contacts.
+- [Live-Hack-CVE/CVE-2021-30895](https://github.com/Live-Hack-CVE/CVE-2021-30895)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30895">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30895">
+
+---
+## CVE-2021-30873 (2021-08-24T19:15:00)
+> A logic issue was addressed with improved state management. This issue is fixed in macOS Monterey 12.0.1. A malicious application may be able to elevate privileges.
+- [Live-Hack-CVE/CVE-2021-30873](https://github.com/Live-Hack-CVE/CVE-2021-30873)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30873">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30873">
+
+---
+## CVE-2021-30844 (2021-10-19T14:15:00)
+> A logic issue was addressed with improved state management. This issue is fixed in Security Update 2021-005 Catalina, macOS Big Sur 11.6. A remote attacker may be able to leak memory.
+- [Live-Hack-CVE/CVE-2021-30844](https://github.com/Live-Hack-CVE/CVE-2021-30844)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30844">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30844">
+
+---
 ## CVE-2021-3060 (2021-11-10T17:15:00)
 > An OS command injection vulnerability in the Simple Certificate Enrollment Protocol (SCEP) feature of PAN-OS software allows an unauthenticated network-based attacker with specific knowledge of the firewall configuration to execute arbitrary code with root user privileges. The attacker must have network access to the GlobalProtect interfaces to exploit this issue. This issue impacts: PAN-OS 8.1 versions earlier than PAN-OS 8.1.20-h1; PAN-OS 9.0 versions earlier than PAN-OS 9.0.14-h3; PAN-OS 9.1 versions earlier than PAN-OS 9.1.11-h2; PAN-OS 10.0 versions earlier than PAN-OS 10.0.8; PAN-OS 10.1 versions earlier than PAN-OS 10.1.3. Prisma Access customers with Prisma Access 2.1 Preferred and Prisma Access 2.1 Innovation firewalls are impacted by this issue.
 - [timb-machine-mirrors/cve-2021-3060.py](https://github.com/timb-machine-mirrors/cve-2021-3060.py)	<img alt="forks" src="https://img.shields.io/github/forks/timb-machine-mirrors/cve-2021-3060.py">	<img alt="stars" src="https://img.shields.io/github/stars/timb-machine-mirrors/cve-2021-3060.py">
