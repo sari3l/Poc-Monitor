@@ -26,6 +26,16 @@
 - [Live-Hack-CVE/CVE-2013-5829](https://github.com/Live-Hack-CVE/CVE-2013-5829)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-5829">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-5829">
 
 ---
+## CVE-2013-4281 (2022-10-19T18:15:00)
+> In Red Hat Openshift 1, weak default permissions are applied to the /etc/openshift/server_priv.pem file on the broker server, which could allow users with local access to the broker to read this file.
+- [Live-Hack-CVE/CVE-2013-4281](https://github.com/Live-Hack-CVE/CVE-2013-4281)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-4281">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-4281">
+
+---
+## CVE-2013-4253 (2022-10-19T18:15:00)
+> The deployment script in the unsupported "OpenShift Extras" set of add-on scripts, in Red Hat Openshift 1, installs a default public key in the root user's authorized_keys file.
+- [Live-Hack-CVE/CVE-2013-4253](https://github.com/Live-Hack-CVE/CVE-2013-4253)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-4253">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-4253">
+
+---
 ## CVE-2013-4235 (2019-12-03T15:15:00)
 > shadow: TOCTOU (time-of-check time-of-use) race condition when copying and removing directory trees
 - [Live-Hack-CVE/CVE-2013-4235](https://github.com/Live-Hack-CVE/CVE-2013-4235)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-4235">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-4235">

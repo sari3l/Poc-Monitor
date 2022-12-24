@@ -1516,6 +1516,11 @@
 - [Live-Hack-CVE/CVE-2020-10627](https://github.com/Live-Hack-CVE/CVE-2020-10627)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10627">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10627">
 
 ---
+## CVE-2020-10604 (2020-07-25T00:15:00)
+> In OSIsoft PI System multiple products and versions, a remote, unauthenticated attacker could crash PI Network Manager service through specially crafted requests. This can result in blocking connections and queries to PI Data Archive.
+- [Live-Hack-CVE/CVE-2020-10604](https://github.com/Live-Hack-CVE/CVE-2020-10604)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10604">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10604">
+
+---
 ## CVE-2020-10560 (2020-03-30T13:15:00)
 > An issue was discovered in Open Source Social Network (OSSN) through 5.3. A user-controlled file path with a weak cryptographic rand() can be used to read any file with the permissions of the webserver. This can lead to further compromise. The attacker must conduct a brute-force attack against the SiteKey to insert into a crafted URL for components/OssnComments/ossn_com.php and/or libraries/ossn.lib.upgrade.php.
 - [kevthehermit/CVE-2020-10560](https://github.com/kevthehermit/CVE-2020-10560)	<img alt="forks" src="https://img.shields.io/github/forks/kevthehermit/CVE-2020-10560">	<img alt="stars" src="https://img.shields.io/github/stars/kevthehermit/CVE-2020-10560">
@@ -1530,6 +1535,11 @@
 ## CVE-2020-10232 (2020-03-09T00:15:00)
 > In version 4.8.0 and earlier of The Sleuth Kit (TSK), there is a stack buffer overflow vulnerability in the YAFFS file timestamp parsing logic in yaffsfs_istat() in fs/yaffs.c.
 - [Live-Hack-CVE/CVE-2020-10232](https://github.com/Live-Hack-CVE/CVE-2020-10232)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10232">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10232">
+
+---
+## CVE-2020-10148 (2020-12-29T22:15:00)
+> The SolarWinds Orion API is vulnerable to an authentication bypass that could allow a remote attacker to execute API commands. This vulnerability could allow a remote attacker to bypass authentication and execute API commands which may result in a compromise of the SolarWinds instance. SolarWinds Orion Platform versions 2019.4 HF 5, 2020.2 with no hotfix installed, and 2020.2 HF 1 are affected.
+- [Live-Hack-CVE/CVE-2020-10148](https://github.com/Live-Hack-CVE/CVE-2020-10148)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10148">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10148">
 
 ---
 ## CVE-2020-0796 (2020-03-12T16:15:00)

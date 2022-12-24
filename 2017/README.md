@@ -321,6 +321,11 @@
 - [Live-Hack-CVE/CVE-2017-20052](https://github.com/Live-Hack-CVE/CVE-2017-20052)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20052">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20052">
 
 ---
+## CVE-2017-20045 (2022-06-13T07:15:00)
+> A vulnerability was found in Navetti PricePoint 4.6.0.0. It has been declared as critical. This vulnerability affects unknown code. The manipulation leads to cross-site request forgery. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. Upgrading to version 4.7.0.0 is able to address this issue. It is recommended to upgrade the affected component.
+- [Live-Hack-CVE/CVE-2017-20045](https://github.com/Live-Hack-CVE/CVE-2017-20045)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20045">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20045">
+
+---
 ## CVE-2017-18926 (2020-11-06T18:15:00)
 > raptor_xml_writer_start_element_common in raptor_xml_writer.c in Raptor RDF Syntax Library 2.0.15 miscalculates the maximum nspace declarations for the XML writer, leading to heap-based buffer overflows (sometimes seen in raptor_qname_format_as_xml).
 - [Live-Hack-CVE/CVE-2017-18926](https://github.com/Live-Hack-CVE/CVE-2017-18926)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-18926">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-18926">

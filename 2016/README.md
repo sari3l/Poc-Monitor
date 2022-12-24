@@ -317,6 +317,11 @@
 - [Live-Hack-CVE/CVE-2016-20017](https://github.com/Live-Hack-CVE/CVE-2016-20017)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-20017">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-20017">
 
 ---
+## CVE-2016-20016 (2022-10-19T05:15:00)
+> MVPower CCTV DVR models, including TV-7104HE 1.8.4 115215B9 and TV7108HE, contain a web shell that is accessible via a /shell URI. A remote unauthenticated attacker can execute arbitrary operating system commands as root. This vulnerability has also been referred to as the "JAWS webserver RCE" because of the easily identifying HTTP response server field. Other firmware versions, at least from 2014 through 2019, can be affected. This was exploited in the wild in 2017 through 2022.
+- [Live-Hack-CVE/CVE-2016-20016](https://github.com/Live-Hack-CVE/CVE-2016-20016)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-20016">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-20016">
+
+---
 ## CVE-2016-10924 (2019-08-22T14:15:00)
 > The ebook-download plugin before 1.2 for WordPress has directory traversal.
 - [rvizx/CVE-2016-10924](https://github.com/rvizx/CVE-2016-10924)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2016-10924">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2016-10924">
