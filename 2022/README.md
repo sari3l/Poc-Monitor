@@ -6430,6 +6430,7 @@
 ## CVE-2022-3393 (2022-10-25T17:15:00)
 > The Post to CSV by BestWebSoft WordPress plugin through 1.4.0 does not properly escape fields when exporting data as CSV, leading to a CSV injection
 - [Live-Hack-CVE/CVE-2022-3393](https://github.com/Live-Hack-CVE/CVE-2022-3393)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3393">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3393">
+- [Live-Hack-CVE/CVE-2022-33938](https://github.com/Live-Hack-CVE/CVE-2022-33938)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33938">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33938">
 
 ---
 ## CVE-2022-3392 (2022-10-25T17:15:00)
