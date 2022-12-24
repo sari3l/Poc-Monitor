@@ -4711,6 +4711,11 @@
 - [Live-Hack-CVE/CVE-2022-38873](https://github.com/Live-Hack-CVE/CVE-2022-38873)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38873">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38873">
 
 ---
+## CVE-2022-38870 (2022-10-25T17:15:00)
+> Free5gc v3.2.1 is vulnerable to Information disclosure.
+- [Live-Hack-CVE/CVE-2022-38870](https://github.com/Live-Hack-CVE/CVE-2022-38870)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38870">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38870">
+
+---
 ## CVE-2022-3887 (2022-11-09T04:15:00)
 > Use after free in Web Workers in Google Chrome prior to 107.0.5304.106 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [Live-Hack-CVE/CVE-2022-3887](https://github.com/Live-Hack-CVE/CVE-2022-3887)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3887">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3887">
@@ -5475,6 +5480,16 @@
 - [Live-Hack-CVE/CVE-2022-3711](https://github.com/Live-Hack-CVE/CVE-2022-3711)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3711">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3711">
 
 ---
+## CVE-2022-37063 (2022-08-18T18:15:00)
+> All FLIR AX8 thermal sensor cameras versions up to and including 1.46.16 are vulnerable to Cross Site Scripting (XSS) due to improper input sanitization. An authenticated remote attacker can execute arbitrary JavaScript code in the web management interface. A successful exploit could allow the attacker to insert malicious JavaScript code.
+- [Live-Hack-CVE/CVE-2022-37063](https://github.com/Live-Hack-CVE/CVE-2022-37063)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37063">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37063">
+
+---
+## CVE-2022-37062 (2022-08-18T18:15:00)
+> All FLIR AX8 thermal sensor cameras version up to and including 1.46.16 are affected by an insecure design vulnerability due to an improper directory access restriction. An unauthenticated, remote attacker can exploit this by sending a URI that contains the path of the SQLite users database and download it. A successful exploit could allow the attacker to extract usernames and hashed passwords.
+- [Live-Hack-CVE/CVE-2022-37062](https://github.com/Live-Hack-CVE/CVE-2022-37062)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37062">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37062">
+
+---
 ## CVE-2022-37061 (2022-08-18T18:15:00)
 > All FLIR AX8 thermal sensor cameras version up to and including 1.46.16 are vulnerable to Remote Command Injection. This can be exploited to inject and execute arbitrary shell commands as the root user through the id HTTP POST parameter in the res.php endpoint. A successful exploit could allow the attacker to execute arbitrary commands on the underlying operating system with the root privileges.
 - [Live-Hack-CVE/CVE-2022-37061](https://github.com/Live-Hack-CVE/CVE-2022-37061)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37061">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37061">
@@ -5935,6 +5950,11 @@
 - [Wack0/CVE-2022-35841](https://github.com/Wack0/CVE-2022-35841)	<img alt="forks" src="https://img.shields.io/github/forks/Wack0/CVE-2022-35841">	<img alt="stars" src="https://img.shields.io/github/stars/Wack0/CVE-2022-35841">
 
 ---
+## CVE-2022-35821 (2022-08-09T20:15:00)
+> Azure Sphere Information Disclosure Vulnerability.
+- [Live-Hack-CVE/CVE-2022-35821](https://github.com/Live-Hack-CVE/CVE-2022-35821)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35821">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35821">
+
+---
 ## CVE-2022-3574 (2022-11-14T15:15:00)
 > The WPForms Pro WordPress plugin before 1.7.7 does not validate its form data when generating the exported CSV, which could lead to CSV injection.
 - [Live-Hack-CVE/CVE-2022-3574](https://github.com/Live-Hack-CVE/CVE-2022-3574)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3574">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3574">
@@ -6172,6 +6192,7 @@
 - [linulinu/CVE-2022-34918](https://github.com/linulinu/CVE-2022-34918)	<img alt="forks" src="https://img.shields.io/github/forks/linulinu/CVE-2022-34918">	<img alt="stars" src="https://img.shields.io/github/stars/linulinu/CVE-2022-34918">
 - [veritas501/CVE-2022-34918](https://github.com/veritas501/CVE-2022-34918)	<img alt="forks" src="https://img.shields.io/github/forks/veritas501/CVE-2022-34918">	<img alt="stars" src="https://img.shields.io/github/stars/veritas501/CVE-2022-34918">
 - [Sechack06/CVE-2022-34918](https://github.com/Sechack06/CVE-2022-34918)	<img alt="forks" src="https://img.shields.io/github/forks/Sechack06/CVE-2022-34918">	<img alt="stars" src="https://img.shields.io/github/stars/Sechack06/CVE-2022-34918">
+- [Live-Hack-CVE/CVE-2022-34918](https://github.com/Live-Hack-CVE/CVE-2022-34918)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34918">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34918">
 
 ---
 ## CVE-2022-34916 (2022-08-21T09:15:00)
@@ -6305,6 +6326,11 @@
 - [coco0x0a/CVE-2022-34265-mysql](https://github.com/coco0x0a/CVE-2022-34265-mysql)	<img alt="forks" src="https://img.shields.io/github/forks/coco0x0a/CVE-2022-34265-mysql">	<img alt="stars" src="https://img.shields.io/github/stars/coco0x0a/CVE-2022-34265-mysql">
 - [coco0x0a/CTF_CVE-2022-34265](https://github.com/coco0x0a/CTF_CVE-2022-34265)	<img alt="forks" src="https://img.shields.io/github/forks/coco0x0a/CTF_CVE-2022-34265">	<img alt="stars" src="https://img.shields.io/github/stars/coco0x0a/CTF_CVE-2022-34265">
 - [coco0x0a/CTF_CVE-2022-34265](https://github.com/coco0x0a/CTF_CVE-2022-34265)	<img alt="forks" src="https://img.shields.io/github/forks/coco0x0a/CTF_CVE-2022-34265">	<img alt="stars" src="https://img.shields.io/github/stars/coco0x0a/CTF_CVE-2022-34265">
+
+---
+## CVE-2022-34255 (2022-08-16T21:15:00)
+> Adobe Commerce versions 2.4.3-p2 (and earlier), 2.3.7-p3 (and earlier) and 2.4.4 (and earlier) are affected by an Improper Access Control vulnerability that could result in Privilege escalation. An attacker with a low privilege account could leverage this vulnerability to perform an account takeover for a victim. Exploitation of this issue does not require user interaction.
+- [Live-Hack-CVE/CVE-2022-34255](https://github.com/Live-Hack-CVE/CVE-2022-34255)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34255">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34255">
 
 ---
 ## CVE-2022-3419 (2022-10-31T16:15:00)
@@ -7380,6 +7406,11 @@
 - [Live-Hack-CVE/CVE-2022-30679](https://github.com/Live-Hack-CVE/CVE-2022-30679)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30679">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30679">
 
 ---
+## CVE-2022-30630 (2022-08-10T20:15:00)
+> Uncontrolled recursion in Glob in io/fs before Go 1.17.12 and Go 1.18.4 allows an attacker to cause a panic due to stack exhaustion via a path which contains a large number of path separators.
+- [Live-Hack-CVE/CVE-2022-30630](https://github.com/Live-Hack-CVE/CVE-2022-30630)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30630">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30630">
+
+---
 ## CVE-2022-30614 (2022-09-01T19:15:00)
 > IBM Cognos Analytics 11.1.7, 11.2.0, and 11.2.1 is vulnerable to a denial of service via email flooding caused by sending a specially-crafted request. A remote attacker could exploit this vulnerability to cause the server to consume all available CPU resources. IBM X-Force ID: 227591.
 - [Live-Hack-CVE/CVE-2022-30614](https://github.com/Live-Hack-CVE/CVE-2022-30614)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30614">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30614">
@@ -8241,6 +8272,11 @@
 - [Live-Hack-CVE/CVE-2022-27201](https://github.com/Live-Hack-CVE/CVE-2022-27201)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27201">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27201">
 
 ---
+## CVE-2022-27191 (2022-03-18T07:15:00)
+> The golang.org/x/crypto/ssh package before 0.0.0-20220314234659-1baeb1ce4c0b for Go allows an attacker to crash a server in certain circumstances involving AddHostKey.
+- [Live-Hack-CVE/CVE-2022-27191](https://github.com/Live-Hack-CVE/CVE-2022-27191)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27191">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27191">
+
+---
 ## CVE-2022-26981 (2022-03-13T18:15:00)
 > Liblouis through 3.21.0 has a buffer overflow in compilePassOpcode in compileTranslationTable.c (called, indirectly, by tools/lou_checktable.c).
 - [Live-Hack-CVE/CVE-2022-26981](https://github.com/Live-Hack-CVE/CVE-2022-26981)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26981">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26981">
@@ -8397,6 +8433,16 @@
 - [veritas501/CVE-2022-2639-PipeVersion](https://github.com/veritas501/CVE-2022-2639-PipeVersion)	<img alt="forks" src="https://img.shields.io/github/forks/veritas501/CVE-2022-2639-PipeVersion">	<img alt="stars" src="https://img.shields.io/github/stars/veritas501/CVE-2022-2639-PipeVersion">
 - [avboy1337/CVE-2022-2639-PipeVersion](https://github.com/avboy1337/CVE-2022-2639-PipeVersion)	<img alt="forks" src="https://img.shields.io/github/forks/avboy1337/CVE-2022-2639-PipeVersion">	<img alt="stars" src="https://img.shields.io/github/stars/avboy1337/CVE-2022-2639-PipeVersion">
 - [EkamSinghWalia/Detection-and-Mitigation-for-CVE-2022-2639](https://github.com/EkamSinghWalia/Detection-and-Mitigation-for-CVE-2022-2639)	<img alt="forks" src="https://img.shields.io/github/forks/EkamSinghWalia/Detection-and-Mitigation-for-CVE-2022-2639">	<img alt="stars" src="https://img.shields.io/github/stars/EkamSinghWalia/Detection-and-Mitigation-for-CVE-2022-2639">
+
+---
+## CVE-2022-26354 (2022-03-16T15:15:00)
+> A flaw was found in the vhost-vsock device of QEMU. In case of error, an invalid element was not detached from the virtqueue before freeing its memory, leading to memory leakage and other unexpected results. Affected QEMU versions <= 6.2.0.
+- [Live-Hack-CVE/CVE-2022-26354](https://github.com/Live-Hack-CVE/CVE-2022-26354)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26354">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26354">
+
+---
+## CVE-2022-26353 (2022-03-16T15:15:00)
+> A flaw was found in the virtio-net device of QEMU. This flaw was inadvertently introduced with the fix for CVE-2021-3748, which forgot to unmap the cached virtqueue elements on error, leading to memory leakage and other unexpected results. Affected QEMU version: 6.2.0.
+- [Live-Hack-CVE/CVE-2022-26353](https://github.com/Live-Hack-CVE/CVE-2022-26353)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26353">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26353">
 
 ---
 ## CVE-2022-26269 (2022-03-29T01:15:00)
@@ -8803,6 +8849,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-24637](https://github.com/Live-Hack-CVE/CVE-2022-24637)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24637">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24637">
 
 ---
+## CVE-2022-24588 (2022-02-15T16:15:00)
+> Flatpress v1.2.1 was discovered to contain a cross-site scripting (XSS) vulnerability in the Upload SVG File function.
+- [Live-Hack-CVE/CVE-2022-24588](https://github.com/Live-Hack-CVE/CVE-2022-24588)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24588">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24588">
+
+---
 ## CVE-2022-24500 (2022-04-15T19:15:00)
 > Windows SMB Remote Code Execution Vulnerability.
 - [Daro1967/CVE-2022-24500-RCE](https://github.com/Daro1967/CVE-2022-24500-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Daro1967/CVE-2022-24500-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Daro1967/CVE-2022-24500-RCE">
@@ -8901,6 +8952,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-2402 (2022-09-06T18:15:00)
 > The vulnerability in the driver dlpfde.sys enables a user logged into the system to perform system calls leading to kernel stack overflow, resulting in a system crash, for instance, a BSOD.
 - [SecurityAndStuff/CVE-2022-2402](https://github.com/SecurityAndStuff/CVE-2022-2402)	<img alt="forks" src="https://img.shields.io/github/forks/SecurityAndStuff/CVE-2022-2402">	<img alt="stars" src="https://img.shields.io/github/stars/SecurityAndStuff/CVE-2022-2402">
+
+---
+## CVE-2022-23943 (2022-03-14T11:15:00)
+> Out-of-bounds Write vulnerability in mod_sed of Apache HTTP Server allows an attacker to overwrite heap memory with possibly attacker provided data. This issue affects Apache HTTP Server 2.4 version 2.4.52 and prior versions.
+- [Live-Hack-CVE/CVE-2022-23943](https://github.com/Live-Hack-CVE/CVE-2022-23943)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23943">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23943">
 
 ---
 ## CVE-2022-23831 (2022-11-09T21:15:00)
@@ -9593,6 +9649,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-20812](https://github.com/Live-Hack-CVE/CVE-2022-20812)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20812">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20812">
 
 ---
+## CVE-2022-2078 (2022-06-30T13:15:00)
+> A vulnerability was found in the Linux kernel's nft_set_desc_concat_parse() function .This flaw allows an attacker to trigger a buffer overflow via nft_set_desc_concat_parse() , causing a denial of service and possibly to run code.
+- [Live-Hack-CVE/CVE-2022-2078](https://github.com/Live-Hack-CVE/CVE-2022-2078)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2078">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2078">
+
+---
 ## CVE-2022-20775 (2022-09-30T19:15:00)
 > Multiple vulnerabilities in the CLI of Cisco SD-WAN Software could allow an authenticated, local attacker to gain elevated privileges. These vulnerabilities are due to improper access controls on commands within the application CLI. An attacker could exploit these vulnerabilities by running a malicious command on the application CLI. A successful exploit could allow the attacker to execute arbitrary commands as the root user.
 - [Live-Hack-CVE/CVE-2022-20775](https://github.com/Live-Hack-CVE/CVE-2022-20775)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20775">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20775">
@@ -10224,6 +10285,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20007](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20007)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20007">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20007">
 
 ---
+## CVE-2022-1962 (2022-08-10T20:15:00)
+> Uncontrolled recursion in the Parse functions in go/parser before Go 1.17.12 and Go 1.18.4 allow an attacker to cause a panic due to stack exhaustion via deeply nested types or declarations.
+- [Live-Hack-CVE/CVE-2022-1962](https://github.com/Live-Hack-CVE/CVE-2022-1962)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1962">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1962">
+
+---
 ## CVE-2022-1942 (2022-05-31T14:15:00)
 > Heap-based Buffer Overflow in GitHub repository vim/vim prior to 8.2.
 - [Live-Hack-CVE/CVE-2022-1942](https://github.com/Live-Hack-CVE/CVE-2022-1942)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1942">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1942">
@@ -10252,6 +10318,26 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1882 (2022-05-26T17:15:00)
 > A use-after-free flaw was found in the Linux kernel’s pipes functionality in how a user performs manipulations with the pipe post_one_notification() after free_pipe_info() that is already called. This flaw allows a local user to crash or potentially escalate their privileges on the system.
 - [Live-Hack-CVE/CVE-2022-1882](https://github.com/Live-Hack-CVE/CVE-2022-1882)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1882">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1882">
+
+---
+## CVE-2022-1855 (2022-07-27T22:15:00)
+> Use after free in Messaging in Google Chrome prior to 102.0.5005.61 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-1855](https://github.com/Live-Hack-CVE/CVE-2022-1855)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1855">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1855">
+
+---
+## CVE-2022-1854 (2022-07-27T22:15:00)
+> Use after free in ANGLE in Google Chrome prior to 102.0.5005.61 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-1854](https://github.com/Live-Hack-CVE/CVE-2022-1854)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1854">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1854">
+
+---
+## CVE-2022-1853 (2022-07-27T22:15:00)
+> Use after free in Indexed DB in Google Chrome prior to 102.0.5005.61 allowed a remote attacker to potentially perform a sandbox escape via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-1853](https://github.com/Live-Hack-CVE/CVE-2022-1853)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1853">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1853">
+
+---
+## CVE-2022-1852 (2022-06-30T13:15:00)
+> A NULL pointer dereference flaw was found in the Linux kernel’s KVM module, which can lead to a denial of service in the x86_emulate_insn in arch/x86/kvm/emulate.c. This flaw occurs while executing an illegal instruction in guest in the Intel CPU.
+- [Live-Hack-CVE/CVE-2022-1852](https://github.com/Live-Hack-CVE/CVE-2022-1852)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1852">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1852">
 
 ---
 ## CVE-2022-1802 (2022-12-22T20:15:00)
@@ -10284,6 +10370,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-1720](https://github.com/Live-Hack-CVE/CVE-2022-1720)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1720">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1720">
 
 ---
+## CVE-2022-1705 (2022-08-10T20:15:00)
+> Acceptance of some invalid Transfer-Encoding headers in the HTTP/1 client in net/http before Go 1.17.12 and Go 1.18.4 allows HTTP request smuggling if combined with an intermediate server that also improperly fails to reject the header as invalid.
+- [Live-Hack-CVE/CVE-2022-1705](https://github.com/Live-Hack-CVE/CVE-2022-1705)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1705">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1705">
+
+---
 ## CVE-2022-1679 (2022-05-16T18:15:00)
 > A use-after-free flaw was found in the Linux kernel’s Atheros wireless adapter driver in the way a user forces the ath9k_htc_wait_for_target function to fail with some input messages. This flaw allows a local user to crash or potentially escalate their privileges on the system.
 - [EkamSinghWalia/-Detection-and-Mitigation-for-CVE-2022-1679](https://github.com/EkamSinghWalia/-Detection-and-Mitigation-for-CVE-2022-1679)	<img alt="forks" src="https://img.shields.io/github/forks/EkamSinghWalia/-Detection-and-Mitigation-for-CVE-2022-1679">	<img alt="stars" src="https://img.shields.io/github/stars/EkamSinghWalia/-Detection-and-Mitigation-for-CVE-2022-1679">
@@ -10303,6 +10394,26 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1652 (2022-06-02T14:15:00)
 > Linux Kernel could allow a local attacker to execute arbitrary code on the system, caused by a concurrency use-after-free flaw in the bad_flp_intr function. By executing a specially-crafted program, an attacker could exploit this vulnerability to execute arbitrary code or cause a denial of service condition on the system.
 - [Live-Hack-CVE/CVE-2022-1652](https://github.com/Live-Hack-CVE/CVE-2022-1652)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1652">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1652">
+
+---
+## CVE-2022-1641 (2022-07-26T22:15:00)
+> Use after free in Web UI Diagnostics in Google Chrome on Chrome OS prior to 101.0.4951.64 allowed a remote attacker who convinced a user to engage in specific UI interactions to potentially exploit heap corruption via specific user interaction.
+- [Live-Hack-CVE/CVE-2022-1641](https://github.com/Live-Hack-CVE/CVE-2022-1641)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1641">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1641">
+
+---
+## CVE-2022-1640 (2022-07-26T22:15:00)
+> Use after free in Sharing in Google Chrome prior to 101.0.4951.64 allowed a remote attacker who convinced a user to engage in specific UI interactions to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-1640](https://github.com/Live-Hack-CVE/CVE-2022-1640)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1640">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1640">
+
+---
+## CVE-2022-1639 (2022-07-26T22:15:00)
+> Use after free in ANGLE in Google Chrome prior to 101.0.4951.64 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-1639](https://github.com/Live-Hack-CVE/CVE-2022-1639)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1639">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1639">
+
+---
+## CVE-2022-1637 (2022-07-26T22:15:00)
+> Inappropriate implementation in Web Contents in Google Chrome prior to 101.0.4951.64 allowed a remote attacker to leak cross-origin data via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-1637](https://github.com/Live-Hack-CVE/CVE-2022-1637)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1637">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1637">
 
 ---
 ## CVE-2022-1629 (2022-05-10T14:15:00)

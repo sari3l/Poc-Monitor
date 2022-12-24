@@ -862,6 +862,16 @@
 - [Live-Hack-CVE/CVE-2020-22818](https://github.com/Live-Hack-CVE/CVE-2020-22818)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-22818">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-22818">
 
 ---
+## CVE-2020-22034 (2021-05-27T19:15:00)
+> A heap-based Buffer Overflow vulnerability exists FFmpeg 4.2 at libavfilter/vf_floodfill.c, which might lead to memory corruption and other potential consequences.
+- [Live-Hack-CVE/CVE-2020-22034](https://github.com/Live-Hack-CVE/CVE-2020-22034)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-22034">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-22034">
+
+---
+## CVE-2020-22033 (2021-05-27T19:15:00)
+> A heap-based Buffer Overflow Vulnerability exists FFmpeg 4.2 at libavfilter/vf_vmafmotion.c in convolution_y_8bit, which could let a remote malicious user cause a Denial of Service.
+- [Live-Hack-CVE/CVE-2020-22033](https://github.com/Live-Hack-CVE/CVE-2020-22033)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-22033">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-22033">
+
+---
 ## CVE-2020-21675 (2021-08-10T21:15:00)
 > A stack-based buffer overflow in the genptk_text component in genptk.c of fig2dev 3.2.7b allows attackers to cause a denial of service (DOS) via converting a xfig file into ptk format.
 - [Live-Hack-CVE/CVE-2020-21675](https://github.com/Live-Hack-CVE/CVE-2020-21675)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-21675">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-21675">
@@ -875,6 +885,11 @@
 ## CVE-2020-21016 (2022-10-31T13:15:00)
 > D-Link DIR-846 devices with firmware 100A35 allow remote attackers to execute arbitrary code as root via HNAP1/control/SetGuestWLanSettings.php.
 - [Live-Hack-CVE/CVE-2020-21016](https://github.com/Live-Hack-CVE/CVE-2020-21016)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-21016">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-21016">
+
+---
+## CVE-2020-20951 (2021-05-18T16:15:00)
+> In Pluck-4.7.10-dev2 admin background, a remote command execution vulnerability exists when uploading files.
+- [Live-Hack-CVE/CVE-2020-20951](https://github.com/Live-Hack-CVE/CVE-2020-20951)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-20951">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-20951">
 
 ---
 ## CVE-2020-20589 (2022-12-15T19:15:00)
@@ -954,6 +969,11 @@
 - [nibiwodong/CNVD-2020-10487-Tomcat-ajp-POC](https://github.com/nibiwodong/CNVD-2020-10487-Tomcat-ajp-POC)	<img alt="forks" src="https://img.shields.io/github/forks/nibiwodong/CNVD-2020-10487-Tomcat-ajp-POC">	<img alt="stars" src="https://img.shields.io/github/stars/nibiwodong/CNVD-2020-10487-Tomcat-ajp-POC">
 - [ze0r/GhostCat-LFI-exp](https://github.com/ze0r/GhostCat-LFI-exp)	<img alt="forks" src="https://img.shields.io/github/forks/ze0r/GhostCat-LFI-exp">	<img alt="stars" src="https://img.shields.io/github/stars/ze0r/GhostCat-LFI-exp">
 - [woaiqiukui/CVE-2020-1938TomcatAjpScanner](https://github.com/woaiqiukui/CVE-2020-1938TomcatAjpScanner)	<img alt="forks" src="https://img.shields.io/github/forks/woaiqiukui/CVE-2020-1938TomcatAjpScanner">	<img alt="stars" src="https://img.shields.io/github/stars/woaiqiukui/CVE-2020-1938TomcatAjpScanner">
+
+---
+## CVE-2020-18392 (2021-05-28T21:15:00)
+> Stack overflow vulnerability in parse_array Cesanta MJS 1.20.1, allows remote attackers to cause a Denial of Service (DoS) via a crafted file.
+- [Live-Hack-CVE/CVE-2020-18392](https://github.com/Live-Hack-CVE/CVE-2020-18392)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-18392">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-18392">
 
 ---
 ## CVE-2020-17541 (2021-06-01T15:15:00)
