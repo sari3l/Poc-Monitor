@@ -3952,6 +3952,11 @@
 - [Live-Hack-CVE/CVE-2022-41097](https://github.com/Live-Hack-CVE/CVE-2022-41097)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41097">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41097">
 
 ---
+## CVE-2022-41083 (2022-10-11T19:15:00)
+> Visual Studio Code Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2022-41083](https://github.com/Live-Hack-CVE/CVE-2022-41083)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41083">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41083">
+
+---
 ## CVE-2022-41082 (2022-10-03T01:15:00)
 > Microsoft Exchange Server Remote Code Execution Vulnerability.
 - [revers0id/CVE-2022-41082-PoC](https://github.com/revers0id/CVE-2022-41082-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/revers0id/CVE-2022-41082-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/revers0id/CVE-2022-41082-PoC">
@@ -3997,6 +4002,11 @@
 - [PyterSmithDarkGhost/ZERODAYENCADEAMENTOCVE2022-41040-CVE2022-41082](https://github.com/PyterSmithDarkGhost/ZERODAYENCADEAMENTOCVE2022-41040-CVE2022-41082)	<img alt="forks" src="https://img.shields.io/github/forks/PyterSmithDarkGhost/ZERODAYENCADEAMENTOCVE2022-41040-CVE2022-41082">	<img alt="stars" src="https://img.shields.io/github/stars/PyterSmithDarkGhost/ZERODAYENCADEAMENTOCVE2022-41040-CVE2022-41082">
 - [balki97/OWASSRF-CVE-2022-41082-POC](https://github.com/balki97/OWASSRF-CVE-2022-41082-POC)	<img alt="forks" src="https://img.shields.io/github/forks/balki97/OWASSRF-CVE-2022-41082-POC">	<img alt="stars" src="https://img.shields.io/github/stars/balki97/OWASSRF-CVE-2022-41082-POC">
 - [Live-Hack-CVE/CVE-2022-41082](https://github.com/Live-Hack-CVE/CVE-2022-41082)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41082">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41082">
+
+---
+## CVE-2022-41081 (2022-10-11T19:15:00)
+> Windows Point-to-Point Tunneling Protocol Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-22035, CVE-2022-24504, CVE-2022-30198, CVE-2022-33634, CVE-2022-38000, CVE-2022-38047.
+- [Live-Hack-CVE/CVE-2022-41081](https://github.com/Live-Hack-CVE/CVE-2022-41081)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41081">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41081">
 
 ---
 ## CVE-2022-41080 (2022-11-09T22:15:00)
@@ -4118,6 +4128,11 @@
 ## CVE-2022-41043 (2022-10-11T19:15:00)
 > Microsoft Office Information Disclosure Vulnerability.
 - [Live-Hack-CVE/CVE-2022-41043](https://github.com/Live-Hack-CVE/CVE-2022-41043)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41043">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41043">
+
+---
+## CVE-2022-41042 (2022-10-11T19:15:00)
+> Visual Studio Code Information Disclosure Vulnerability.
+- [Live-Hack-CVE/CVE-2022-41042](https://github.com/Live-Hack-CVE/CVE-2022-41042)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41042">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41042">
 
 ---
 ## CVE-2022-41040 (2022-10-03T01:15:00)
@@ -4600,6 +4615,16 @@
 ## CVE-2022-40183 (2022-10-27T17:15:00)
 > An error in the URL handler of the VIDEOJET multi 4000 may lead to a reflected cross site scripting (XSS) in the web-based interface. An attacker with knowledge of the encoder address can send a crafted link to a user, which will execute JavaScript code in the context of the user.
 - [Live-Hack-CVE/CVE-2022-40183](https://github.com/Live-Hack-CVE/CVE-2022-40183)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40183">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40183">
+
+---
+## CVE-2022-40179 (2022-10-11T11:15:00)
+> A vulnerability has been identified in Desigo PXM30-1 (All versions < V02.20.126.11-41), Desigo PXM30.E (All versions < V02.20.126.11-41), Desigo PXM40-1 (All versions < V02.20.126.11-41), Desigo PXM40.E (All versions < V02.20.126.11-41), Desigo PXM50-1 (All versions < V02.20.126.11-41), Desigo PXM50.E (All versions < V02.20.126.11-41), PXG3.W100-1 (All versions < V02.20.126.11-37), PXG3.W100-2 (All versions < V02.20.126.11-41), PXG3.W200-1 (All versions < V02.20.126.11-37), PXG3.W200-2 (All versions < V02.20.126.11-41). A Cross-Site Request Forgery exists in endpoints of the “Operation” web application that interpret and execute Axon language queries, due to the missing validation of anti-CSRF tokens or other origin checks. By convincing a victim to click on a malicious link or visit a specifically crafted webpage while logged-in to the device web application, a remote unauthenticated attacker can execute arbitrary Axon queries against the device.
+- [Live-Hack-CVE/CVE-2022-40179](https://github.com/Live-Hack-CVE/CVE-2022-40179)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40179">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40179">
+
+---
+## CVE-2022-40178 (2022-10-11T11:15:00)
+> A vulnerability has been identified in Desigo PXM30-1 (All versions < V02.20.126.11-41), Desigo PXM30.E (All versions < V02.20.126.11-41), Desigo PXM40-1 (All versions < V02.20.126.11-41), Desigo PXM40.E (All versions < V02.20.126.11-41), Desigo PXM50-1 (All versions < V02.20.126.11-41), Desigo PXM50.E (All versions < V02.20.126.11-41), PXG3.W100-1 (All versions < V02.20.126.11-37), PXG3.W100-2 (All versions < V02.20.126.11-41), PXG3.W200-1 (All versions < V02.20.126.11-37), PXG3.W200-2 (All versions < V02.20.126.11-41). Improper Neutralization of Input During Web Page Generation exists in the “Import Files“ functionality of the “Operation” web application, due to the missing validation of the titles of files included in the input package. By uploading a specifically crafted graphics package, a remote low-privileged attacker can execute arbitrary JavaScript code.
+- [Live-Hack-CVE/CVE-2022-40178](https://github.com/Live-Hack-CVE/CVE-2022-40178)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40178">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40178">
 
 ---
 ## CVE-2022-4016 (2022-12-12T18:15:00)
@@ -5666,6 +5691,11 @@
 - [Live-Hack-CVE/CVE-2022-38104](https://github.com/Live-Hack-CVE/CVE-2022-38104)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38104">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38104">
 
 ---
+## CVE-2022-38086 (2022-10-11T20:15:00)
+> Cross-Site Request Forgery (CSRF) vulnerability in Shortcodes Ultimate plugin <= 5.12.0 at WordPress leading to plugin preset settings change.
+- [Live-Hack-CVE/CVE-2022-38086](https://github.com/Live-Hack-CVE/CVE-2022-38086)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38086">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38086">
+
+---
 ## CVE-2022-38075 (2022-11-18T19:15:00)
 > Cross-Site Request Forgery (CSRF) vulnerability leading to Stored Cross-Site Scripting (XSS) in Mantenimiento web plugin <= 0.13 on WordPress.
 - [Live-Hack-CVE/CVE-2022-38075](https://github.com/Live-Hack-CVE/CVE-2022-38075)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38075">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38075">
@@ -5691,9 +5721,19 @@
 - [Live-Hack-CVE/CVE-2022-38042](https://github.com/Live-Hack-CVE/CVE-2022-38042)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38042">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38042">
 
 ---
+## CVE-2022-38040 (2022-10-11T19:15:00)
+> Microsoft ODBC Driver Remote Code Execution Vulnerability.
+- [Live-Hack-CVE/CVE-2022-38040](https://github.com/Live-Hack-CVE/CVE-2022-38040)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38040">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38040">
+
+---
 ## CVE-2022-3804 (2022-11-01T16:15:00)
 > A vulnerability was found in eolinker apinto-dashboard. It has been classified as problematic. Affected is an unknown function of the file /login. The manipulation of the argument callback leads to cross site scripting. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-212640.
 - [Live-Hack-CVE/CVE-2022-3804](https://github.com/Live-Hack-CVE/CVE-2022-3804)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3804">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3804">
+
+---
+## CVE-2022-38039 (2022-10-11T19:15:00)
+> Windows Kernel Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-37988, CVE-2022-37990, CVE-2022-37991, CVE-2022-37995, CVE-2022-38022, CVE-2022-38037, CVE-2022-38038.
+- [Live-Hack-CVE/CVE-2022-38039](https://github.com/Live-Hack-CVE/CVE-2022-38039)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38039">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38039">
 
 ---
 ## CVE-2022-38038 (2022-10-11T19:15:00)
@@ -5706,14 +5746,64 @@
 - [Live-Hack-CVE/CVE-2022-38037](https://github.com/Live-Hack-CVE/CVE-2022-38037)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38037">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38037">
 
 ---
+## CVE-2022-38036 (2022-10-11T19:15:00)
+> Internet Key Exchange (IKE) Protocol Denial of Service Vulnerability.
+- [Live-Hack-CVE/CVE-2022-38036](https://github.com/Live-Hack-CVE/CVE-2022-38036)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38036">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38036">
+
+---
+## CVE-2022-38033 (2022-10-11T19:15:00)
+> Windows Server Remotely Accessible Registry Keys Information Disclosure Vulnerability.
+- [Live-Hack-CVE/CVE-2022-38033](https://github.com/Live-Hack-CVE/CVE-2022-38033)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38033">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38033">
+
+---
+## CVE-2022-38031 (2022-10-11T19:15:00)
+> Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-37982.
+- [Live-Hack-CVE/CVE-2022-38031](https://github.com/Live-Hack-CVE/CVE-2022-38031)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38031">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38031">
+
+---
+## CVE-2022-38030 (2022-10-11T19:15:00)
+> Windows USB Serial Driver Information Disclosure Vulnerability.
+- [Live-Hack-CVE/CVE-2022-38030](https://github.com/Live-Hack-CVE/CVE-2022-38030)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38030">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38030">
+
+---
 ## CVE-2022-3803 (2022-11-01T16:15:00)
 > A vulnerability was found in eolinker apinto-dashboard and classified as problematic. This issue affects some unknown processing of the file /api/discoveries/. The manipulation leads to cross site scripting. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-212639.
 - [Live-Hack-CVE/CVE-2022-3803](https://github.com/Live-Hack-CVE/CVE-2022-3803)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3803">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3803">
 
 ---
+## CVE-2022-38029 (2022-10-11T19:15:00)
+> Windows ALPC Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2022-38029](https://github.com/Live-Hack-CVE/CVE-2022-38029)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38029">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38029">
+
+---
+## CVE-2022-38028 (2022-10-11T19:15:00)
+> Windows Print Spooler Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2022-38028](https://github.com/Live-Hack-CVE/CVE-2022-38028)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38028">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38028">
+
+---
+## CVE-2022-38027 (2022-10-11T19:15:00)
+> Windows Storage Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2022-38027](https://github.com/Live-Hack-CVE/CVE-2022-38027)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38027">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38027">
+
+---
+## CVE-2022-38026 (2022-10-11T19:15:00)
+> Windows DHCP Client Information Disclosure Vulnerability.
+- [Live-Hack-CVE/CVE-2022-38026](https://github.com/Live-Hack-CVE/CVE-2022-38026)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38026">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38026">
+
+---
+## CVE-2022-38025 (2022-10-11T19:15:00)
+> Windows Distributed File System (DFS) Information Disclosure Vulnerability.
+- [Live-Hack-CVE/CVE-2022-38025](https://github.com/Live-Hack-CVE/CVE-2022-38025)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38025">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38025">
+
+---
 ## CVE-2022-38023 (2022-11-09T22:15:00)
 > Netlogon RPC Elevation of Privilege Vulnerability.
 - [Live-Hack-CVE/CVE-2022-38023](https://github.com/Live-Hack-CVE/CVE-2022-38023)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38023">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38023">
+
+---
+## CVE-2022-38021 (2022-10-11T19:15:00)
+> Connected User Experiences and Telemetry Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2022-38021](https://github.com/Live-Hack-CVE/CVE-2022-38021)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38021">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38021">
 
 ---
 ## CVE-2022-3802 (2022-11-01T16:15:00)
@@ -5723,9 +5813,24 @@
 - [Live-Hack-CVE/CVE-2022-38023](https://github.com/Live-Hack-CVE/CVE-2022-38023)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38023">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38023">
 
 ---
+## CVE-2022-38017 (2022-10-11T19:15:00)
+> StorSimple 8000 Series Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2022-38017](https://github.com/Live-Hack-CVE/CVE-2022-38017)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38017">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38017">
+
+---
 ## CVE-2022-3801 (2022-11-01T16:15:00)
 > A vulnerability, which was classified as critical, was found in IBAX go-ibax. This affects an unknown part of the file /api/v2/open/rowsInfo. The manipulation of the argument order leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-212637 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-3801](https://github.com/Live-Hack-CVE/CVE-2022-3801)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3801">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3801">
+
+---
+## CVE-2022-38003 (2022-10-11T19:15:00)
+> Windows Resilient File System Elevation of Privilege.
+- [Live-Hack-CVE/CVE-2022-38003](https://github.com/Live-Hack-CVE/CVE-2022-38003)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38003">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38003">
+
+---
+## CVE-2022-38001 (2022-10-11T19:15:00)
+> Microsoft Office Spoofing Vulnerability.
+- [Live-Hack-CVE/CVE-2022-38001](https://github.com/Live-Hack-CVE/CVE-2022-38001)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38001">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38001">
 
 ---
 ## CVE-2022-38000 (2022-10-11T19:15:00)
@@ -6898,6 +7003,16 @@
 - [Live-Hack-CVE/CVE-2022-3537](https://github.com/Live-Hack-CVE/CVE-2022-3537)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3537">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3537">
 
 ---
+## CVE-2022-35297 (2022-10-11T21:15:00)
+> The application SAP Enable Now does not sufficiently encode user-controlled inputs over the network before it is placed in the output being served to other users, thereby expanding the attack scope, resulting in Stored Cross-Site Scripting (XSS) vulnerability leading to limited impact on Confidentiality, Integrity and Availability.
+- [Live-Hack-CVE/CVE-2022-35297](https://github.com/Live-Hack-CVE/CVE-2022-35297)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35297">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35297">
+
+---
+## CVE-2022-35296 (2022-10-11T21:15:00)
+> Under certain conditions, the application SAP BusinessObjects Business Intelligence Platform (Version Management System) exposes sensitive information to an actor over the network with high privileges that is not explicitly authorized to have access to that information, leading to a high impact on Confidentiality.
+- [Live-Hack-CVE/CVE-2022-35296](https://github.com/Live-Hack-CVE/CVE-2022-35296)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35296">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35296">
+
+---
 ## CVE-2022-35295 (2022-09-13T16:15:00)
 > In SAP Host Agent (SAPOSCOL) - version 7.22, an attacker may use files created by saposcol to escalate privileges for themselves.
 - [Live-Hack-CVE/CVE-2022-35295](https://github.com/Live-Hack-CVE/CVE-2022-35295)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35295">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35295">
@@ -6946,6 +7061,11 @@
 ## CVE-2022-3525 (2022-11-20T05:15:00)
 > Deserialization of Untrusted Data in GitHub repository librenms/librenms prior to 22.10.0.
 - [Live-Hack-CVE/CVE-2022-3525](https://github.com/Live-Hack-CVE/CVE-2022-3525)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3525">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3525">
+
+---
+## CVE-2022-35226 (2022-10-11T21:15:00)
+> SAP Data Services Management allows an attacker to copy the data from a request and echoed into the application's immediate response, it will lead to a Cross-Site Scripting vulnerability. The attacker would have to log in to the management console to perform such as an attack, only few of the pages are vulnerable in the DS management console.
+- [Live-Hack-CVE/CVE-2022-35226](https://github.com/Live-Hack-CVE/CVE-2022-35226)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35226">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35226">
 
 ---
 ## CVE-2022-3518 (2022-10-15T10:15:00)

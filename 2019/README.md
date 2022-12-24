@@ -141,6 +141,26 @@
 - [Live-Hack-CVE/CVE-2019-6812](https://github.com/Live-Hack-CVE/CVE-2019-6812)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6812">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6812">
 
 ---
+## CVE-2019-6757 (2019-06-03T19:29:00)
+> This vulnerability allows remote attackers to execute arbitrary code on vulnerable installations of Foxit Reader 9.4.16811. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within ConvertToPDF_x86.dll. The issue results from the lack of validating the existence of an object prior to performing operations on the object. An attacker can leverage this vulnerability to execute code in the context of the current process. Was ZDI-CAN-7696.
+- [Live-Hack-CVE/CVE-2019-6757](https://github.com/Live-Hack-CVE/CVE-2019-6757)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6757">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6757">
+
+---
+## CVE-2019-6756 (2019-06-03T19:29:00)
+> This vulnerability allows remote attackers to disclose sensitive information on vulnerable installations of Foxit PhantomPDF 9.4.0.16811. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of HTML files. The issue results from the lack of validating the existence of an object prior to performing operations on the object. An attacker can leverage this in conjunction with other vulnerabilities to execute code in the context of the current process. Was ZDI-CAN-7769.
+- [Live-Hack-CVE/CVE-2019-6756](https://github.com/Live-Hack-CVE/CVE-2019-6756)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6756">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6756">
+
+---
+## CVE-2019-6755 (2019-06-03T19:29:00)
+> This vulnerability allows remote attackers to execute arbitrary code on vulnerable installations of Foxit Reader 9.3.10826. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within ConvertToPDF_x86.dll. The issue results from the lack of proper validation of user-supplied data, which can result in a write past the end of an allocated object. An attacker can leverage this vulnerability to execute code in the context of the current process. Was ZDI-CAN-7613.
+- [Live-Hack-CVE/CVE-2019-6755](https://github.com/Live-Hack-CVE/CVE-2019-6755)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6755">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6755">
+
+---
+## CVE-2019-6747 (2019-06-03T19:29:00)
+> This vulnerability allows remote attackers to execute arbitrary code on vulnerable installations of Foxit Studio Photo 3.6.6. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the handling of EZI files. The issue results from the lack of proper validation of user-supplied data, which can result in a write past the end of an allocated structure. An attacker can leverage this vulnerability to execute code in the context of the current process. Was ZDI-CAN-7636.
+- [Live-Hack-CVE/CVE-2019-6747](https://github.com/Live-Hack-CVE/CVE-2019-6747)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6747">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6747">
+
+---
 ## CVE-2019-6706 (2019-01-23T19:29:00)
 > Lua 5.3.5 has a use-after-free in lua_upvaluejoin in lapi.c. For example, a crash outcome might be achieved by an attacker who is able to trigger a debug.upvaluejoin call in which the arguments have certain relationships.
 - [Live-Hack-CVE/CVE-2019-6706](https://github.com/Live-Hack-CVE/CVE-2019-6706)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6706">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6706">
