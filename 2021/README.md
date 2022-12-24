@@ -1507,6 +1507,7 @@
 ## CVE-2021-3528 (2021-05-13T15:15:00)
 > A flaw was found in noobaa-operator in versions before 5.7.0, where internal RPC AuthTokens between the noobaa operator and the noobaa core are leaked into log files. An attacker with access to the log files could use this AuthToken to gain additional access into noobaa deployment and can read/modify system configuration.
 - [Live-Hack-CVE/CVE-2021-3528](https://github.com/Live-Hack-CVE/CVE-2021-3528)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3528">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3528">
+- [Live-Hack-CVE/CVE-2021-35284](https://github.com/Live-Hack-CVE/CVE-2021-35284)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35284">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35284">
 
 ---
 ## CVE-2021-35252 (2022-12-16T16:15:00)
@@ -1701,6 +1702,7 @@
 ## CVE-2021-34429 (2021-07-15T17:15:00)
 > For Eclipse Jetty versions 9.4.37-9.4.42, 10.0.1-10.0.5 & 11.0.1-11.0.5, URIs can be crafted using some encoded characters to access the content of the WEB-INF directory and/or bypass some security constraints. This is a variation of the vulnerability reported in CVE-2021-28164/GHSA-v7ff-8wcx-gmc5.
 - [Live-Hack-CVE/CVE-2021-34429](https://github.com/Live-Hack-CVE/CVE-2021-34429)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34429">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34429">
+- [ColdFusionX/CVE-2021-34429](https://github.com/ColdFusionX/CVE-2021-34429)	<img alt="forks" src="https://img.shields.io/github/forks/ColdFusionX/CVE-2021-34429">	<img alt="stars" src="https://img.shields.io/github/stars/ColdFusionX/CVE-2021-34429">
 
 ---
 ## CVE-2021-34427 (2021-06-25T19:15:00)
