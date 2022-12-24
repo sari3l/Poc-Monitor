@@ -63,6 +63,11 @@
 - [jeffgeiger/es_inject](https://github.com/jeffgeiger/es_inject)	<img alt="forks" src="https://img.shields.io/github/forks/jeffgeiger/es_inject">	<img alt="stars" src="https://img.shields.io/github/stars/jeffgeiger/es_inject">
 
 ---
+## CVE-2014-2431 (2014-04-16T02:55:00)
+> Unspecified vulnerability in Oracle MySQL Server 5.5.36 and earlier and 5.6.16 and earlier allows remote attackers to affect availability via unknown vectors related to Options.
+- [Live-Hack-CVE/CVE-2014-2431](https://github.com/Live-Hack-CVE/CVE-2014-2431)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-2431">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-2431">
+
+---
 ## CVE-2014-1736 (2014-05-06T10:44:00)
 > Integer overflow in api.cc in Google V8, as used in Google Chrome before 34.0.1847.131 on Windows and OS X and before 34.0.1847.132 on Linux, allows remote attackers to cause a denial of service or possibly have unspecified other impact via a large length value.
 - [Live-Hack-CVE/CVE-2014-1736](https://github.com/Live-Hack-CVE/CVE-2014-1736)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-1736">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-1736">

@@ -120,6 +120,11 @@
 - [Live-Hack-CVE/CVE-2021-45809](https://github.com/Live-Hack-CVE/CVE-2021-45809)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45809">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45809">
 
 ---
+## CVE-2021-45789 (2022-09-29T03:15:00)
+> An arbitrary file read vulnerability was found in Metersphere v1.15.4, where authenticated users can read any file on the server via the file download function.
+- [Live-Hack-CVE/CVE-2021-45789](https://github.com/Live-Hack-CVE/CVE-2021-45789)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45789">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45789">
+
+---
 ## CVE-2021-45710 (2021-12-27T00:15:00)
 > An issue was discovered in the tokio crate before 1.8.4, and 1.9.x through 1.13.x before 1.13.1, for Rust. In certain circumstances involving a closed oneshot channel, there is a data race and memory corruption.
 - [Live-Hack-CVE/CVE-2021-45710](https://github.com/Live-Hack-CVE/CVE-2021-45710)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45710">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45710">
@@ -481,6 +486,11 @@
 - [Live-Hack-CVE/CVE-2021-43466](https://github.com/Live-Hack-CVE/CVE-2021-43466)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43466">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43466">
 
 ---
+## CVE-2021-43403 (2022-09-29T03:15:00)
+> An issue was discovered in FusionPBX before 4.5.30. The log_viewer.php Log View page allows an authenticated user to choose an arbitrary filename for download (i.e., not necessarily freeswitch.log in the intended directory).
+- [Live-Hack-CVE/CVE-2021-43403](https://github.com/Live-Hack-CVE/CVE-2021-43403)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43403">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43403">
+
+---
 ## CVE-2021-43305 (2022-03-14T23:15:00)
 > Heap buffer overflow in Clickhouse's LZ4 compression codec when parsing a malicious query. There is no verification that the copy operations in the LZ4::decompressImpl loop and especially the arbitrary copy operation wildCopy<copy_amount>(op, ip, copy_end), don’t exceed the destination buffer’s limits. This issue is very similar to CVE-2021-43304, but the vulnerable copy operation is in a different wildCopy call.
 - [Live-Hack-CVE/CVE-2021-43305](https://github.com/Live-Hack-CVE/CVE-2021-43305)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43305">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43305">
@@ -643,6 +653,16 @@
 ## CVE-2021-42067 (2022-01-14T20:15:00)
 > In SAP NetWeaver AS for ABAP and ABAP Platform - versions 701, 702, 711, 730, 731, 740, 750, 751, 752, 753, 754, 755, 756, 786, an attacker authenticated as a regular user can use the S/4 Hana dashboard to reveal systems and services which they would not normally be allowed to see. No information alteration or denial of service is possible.
 - [Live-Hack-CVE/CVE-2021-42067](https://github.com/Live-Hack-CVE/CVE-2021-42067)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42067">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42067">
+
+---
+## CVE-2021-42048 (2022-09-29T03:15:00)
+> An issue was discovered in the Growth extension in MediaWiki through 1.36.2. Any admin can add arbitrary JavaScript code to the Newcomer home page footer, which can be executed by viewers with zero edits.
+- [Live-Hack-CVE/CVE-2021-42048](https://github.com/Live-Hack-CVE/CVE-2021-42048)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42048">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42048">
+
+---
+## CVE-2021-42046 (2022-09-29T03:15:00)
+> An issue was discovered in the GlobalWatchlist extension in MediaWiki through 1.36.2. The rev-deleted-user and ntimes messages were not properly escaped and allowed for users to inject HTML and JavaScript.
+- [Live-Hack-CVE/CVE-2021-42046](https://github.com/Live-Hack-CVE/CVE-2021-42046)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42046">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42046">
 
 ---
 ## CVE-2021-4203 (2022-03-25T19:15:00)
@@ -902,6 +922,21 @@
 ## CVE-2021-40903 (2022-06-17T14:15:00)
 > A vulnerability in Antminer Monitor 0.50.0 exists because of backdoor or misconfiguration inside a settings file in flask server. Settings file has a predefined secret string, which would be randomly generated, however it is static.
 - [vulnz/CVE-2021-40903](https://github.com/vulnz/CVE-2021-40903)	<img alt="forks" src="https://img.shields.io/github/forks/vulnz/CVE-2021-40903">	<img alt="stars" src="https://img.shields.io/github/stars/vulnz/CVE-2021-40903">
+
+---
+## CVE-2021-40695 (2022-09-29T03:15:00)
+> It was possible for a student to view their quiz grade before it had been released, using a quiz web service.
+- [Live-Hack-CVE/CVE-2021-40695](https://github.com/Live-Hack-CVE/CVE-2021-40695)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40695">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40695">
+
+---
+## CVE-2021-40693 (2022-09-29T03:15:00)
+> An authentication bypass risk was identified in the external database authentication functionality, due to a type juggling vulnerability.
+- [Live-Hack-CVE/CVE-2021-40693](https://github.com/Live-Hack-CVE/CVE-2021-40693)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40693">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40693">
+
+---
+## CVE-2021-40691 (2022-09-29T03:15:00)
+> A session hijack risk was identified in the Shibboleth authentication plugin.
+- [Live-Hack-CVE/CVE-2021-40691](https://github.com/Live-Hack-CVE/CVE-2021-40691)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40691">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40691">
 
 ---
 ## CVE-2021-40661 (2022-10-31T12:15:00)
@@ -2449,6 +2484,11 @@
 ## CVE-2021-30873 (2021-08-24T19:15:00)
 > A logic issue was addressed with improved state management. This issue is fixed in macOS Monterey 12.0.1. A malicious application may be able to elevate privileges.
 - [Live-Hack-CVE/CVE-2021-30873](https://github.com/Live-Hack-CVE/CVE-2021-30873)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30873">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30873">
+
+---
+## CVE-2021-30860 (2021-08-24T19:15:00)
+> An integer overflow was addressed with improved input validation. This issue is fixed in Security Update 2021-005 Catalina, iOS 14.8 and iPadOS 14.8, macOS Big Sur 11.6, watchOS 7.6.2. Processing a maliciously crafted PDF may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited.
+- [Live-Hack-CVE/CVE-2021-30860](https://github.com/Live-Hack-CVE/CVE-2021-30860)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30860">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30860">
 
 ---
 ## CVE-2021-30844 (2021-10-19T14:15:00)

@@ -582,6 +582,11 @@
 - [Hudi233/CVE-2020-3580](https://github.com/Hudi233/CVE-2020-3580)	<img alt="forks" src="https://img.shields.io/github/forks/Hudi233/CVE-2020-3580">	<img alt="stars" src="https://img.shields.io/github/stars/Hudi233/CVE-2020-3580">
 
 ---
+## CVE-2020-35674 (2022-09-29T03:15:00)
+> BigProf Online Invoicing System before 2.9 suffers from an unauthenticated SQL Injection found in /membership_passwordReset.php (the endpoint that is responsible for issuing self-service password resets). An unauthenticated attacker is able to send a request containing a crafted payload that can result in sensitive information being extracted from the database, eventually leading into an application takeover. This vulnerability was introduced as a result of the developer trying to roll their own sanitization implementation in order to allow the application to be used in legacy environments.
+- [Live-Hack-CVE/CVE-2020-35674](https://github.com/Live-Hack-CVE/CVE-2020-35674)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35674">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35674">
+
+---
 ## CVE-2020-35636 (2021-03-04T20:15:00)
 > A code execution vulnerability exists in the Nef polygon-parsing functionality of CGAL libcgal CGAL-5.1.1 in Nef_S2/SNC_io_parser.h SNC_io_parser::read_sface() sfh->volume() OOB read. A specially crafted malformed file can lead to an out-of-bounds read and type confusion, which could lead to code execution. An attacker can provide malicious input to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2020-35636](https://github.com/Live-Hack-CVE/CVE-2020-35636)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35636">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35636">
@@ -1329,6 +1334,11 @@
 - [Live-Hack-CVE/CVE-2020-22818](https://github.com/Live-Hack-CVE/CVE-2020-22818)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-22818">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-22818">
 
 ---
+## CVE-2020-22201 (2021-06-16T17:15:00)
+> phpCMS 2008 sp4 allowas remote malicious users to execute arbitrary php commands via the pagesize parameter to yp/product.php.
+- [Live-Hack-CVE/CVE-2020-22201](https://github.com/Live-Hack-CVE/CVE-2020-22201)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-22201">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-22201">
+
+---
 ## CVE-2020-22034 (2021-05-27T19:15:00)
 > A heap-based Buffer Overflow vulnerability exists FFmpeg 4.2 at libavfilter/vf_floodfill.c, which might lead to memory corruption and other potential consequences.
 - [Live-Hack-CVE/CVE-2020-22034](https://github.com/Live-Hack-CVE/CVE-2020-22034)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-22034">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-22034">
@@ -1342,6 +1352,11 @@
 ## CVE-2020-21997 (2021-04-29T15:15:00)
 > Smartwares HOME easy <=1.0.9 is vulnerable to an unauthenticated database backup download and information disclosure vulnerability. An attacker could disclose sensitive and clear-text information resulting in authentication bypass, session hijacking and full system control.
 - [Live-Hack-CVE/CVE-2020-21997](https://github.com/Live-Hack-CVE/CVE-2020-21997)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-21997">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-21997">
+
+---
+## CVE-2020-21784 (2021-06-24T16:15:00)
+> phpwcms 1.9.13 is vulnerable to Code Injection via /phpwcms/setup/setup.php.
+- [Live-Hack-CVE/CVE-2020-21784](https://github.com/Live-Hack-CVE/CVE-2020-21784)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-21784">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-21784">
 
 ---
 ## CVE-2020-21675 (2021-08-10T21:15:00)
@@ -1382,6 +1397,21 @@
 ## CVE-2020-20589 (2022-12-15T19:15:00)
 > Cross Site Scripting (XSS) vulnerability in FeehiCMS 2.0.8 allows remote attackers to run arbitrary code via tha lang attribute of an html tag.
 - [Live-Hack-CVE/CVE-2020-20589](https://github.com/Live-Hack-CVE/CVE-2020-20589)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-20589">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-20589">
+
+---
+## CVE-2020-20470 (2021-06-21T05:15:00)
+> White Shark System (WSS) 1.3.2 has web site physical path leakage vulnerability.
+- [Live-Hack-CVE/CVE-2020-20470](https://github.com/Live-Hack-CVE/CVE-2020-20470)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-20470">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-20470">
+
+---
+## CVE-2020-20467 (2021-06-21T04:15:00)
+> White Shark System (WSS) 1.3.2 is vulnerable to sensitive information disclosure via default_task_add.php, remote attackers can exploit the vulnerability to create a task.
+- [Live-Hack-CVE/CVE-2020-20467](https://github.com/Live-Hack-CVE/CVE-2020-20467)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-20467">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-20467">
+
+---
+## CVE-2020-20444 (2021-06-16T16:15:00)
+> Jact OpenClinic 0.8.20160412 allows the attacker to read server files after login to the the admin account by an infected 'file' GET parameter in '/shared/view_source.php' which "could" lead to RCE vulnerability .
+- [Live-Hack-CVE/CVE-2020-20444](https://github.com/Live-Hack-CVE/CVE-2020-20444)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-20444">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-20444">
 
 ---
 ## CVE-2020-2038 (2020-09-09T17:15:00)

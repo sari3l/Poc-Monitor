@@ -4276,6 +4276,11 @@
 - [Live-Hack-CVE/CVE-2022-40955](https://github.com/Live-Hack-CVE/CVE-2022-40955)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40955">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40955">
 
 ---
+## CVE-2022-40931 (2022-09-29T16:15:00)
+> dutchcoders Transfer.sh 1.4.0 is vulnerable to Cross Site Scripting (XSS).
+- [Live-Hack-CVE/CVE-2022-40931](https://github.com/Live-Hack-CVE/CVE-2022-40931)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40931">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40931">
+
+---
 ## CVE-2022-40923 (2022-09-30T19:15:00)
 > A vulnerability in the LIEF::MachO::SegmentCommand::virtual_address function of LIEF v0.12.1 allows attackers to cause a denial of service (DOS) through a segmentation fault via a crafted MachO file.
 - [Live-Hack-CVE/CVE-2022-40923](https://github.com/Live-Hack-CVE/CVE-2022-40923)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40923">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40923">
@@ -4680,6 +4685,11 @@
 > ** DISPUTED ** UBports Ubuntu Touch 16.04 allows the screen-unlock passcode to be used for a privileged shell via Sudo. This passcode is only four digits, far below typical length/complexity for a user account's password. NOTE: a third party states "The described attack cannot be executed as demonstrated."
 - [Live-Hack-CVE/CVE-2022-40297](https://github.com/Live-Hack-CVE/CVE-2022-40297)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40297">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40297">
 - [filipkarc/PoC-ubuntutouch-pin-privesc](https://github.com/filipkarc/PoC-ubuntutouch-pin-privesc)	<img alt="forks" src="https://img.shields.io/github/forks/filipkarc/PoC-ubuntutouch-pin-privesc">	<img alt="stars" src="https://img.shields.io/github/stars/filipkarc/PoC-ubuntutouch-pin-privesc">
+
+---
+## CVE-2022-40279 (2022-09-29T03:15:00)
+> An issue was discovered in Samsung TizenRT through 3.0_GBM (and 3.1_PRE). l2_packet_receive_timeout in wpa_supplicant/src/l2_packet/l2_packet_pcap.c has a missing check on the return value of pcap_dispatch, leading to a denial of service (malfunction).
+- [Live-Hack-CVE/CVE-2022-40279](https://github.com/Live-Hack-CVE/CVE-2022-40279)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40279">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40279">
 
 ---
 ## CVE-2022-40266 (2022-11-24T09:15:00)
@@ -5312,6 +5322,11 @@
 - [Live-Hack-CVE/CVE-2022-3917](https://github.com/Live-Hack-CVE/CVE-2022-3917)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3917">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3917">
 
 ---
+## CVE-2022-39168 (2022-09-29T16:15:00)
+> IBM Robotic Process Automation Clients are vulnerable to proxy credentials being exposed in upgrade logs. IBM X-Force ID: 235422.
+- [Live-Hack-CVE/CVE-2022-39168](https://github.com/Live-Hack-CVE/CVE-2022-39168)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39168">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39168">
+
+---
 ## CVE-2022-39158 (2022-09-13T10:15:00)
 > A vulnerability has been identified in RUGGEDCOM ROS RMC30 V4.X (All versions), RUGGEDCOM ROS RMC8388 V4.X (All versions), RUGGEDCOM ROS RMC8388 V5.X (All versions < V5.6.0), RUGGEDCOM ROS RP110 V4.X (All versions), RUGGEDCOM ROS RS1600 V4.X (All versions), RUGGEDCOM ROS RS1600F V4.X (All versions), RUGGEDCOM ROS RS1600T V4.X (All versions), RUGGEDCOM ROS RS400 V4.X (All versions), RUGGEDCOM ROS RS401 V4.X (All versions), RUGGEDCOM ROS RS416Pv2 V4.X (All versions), RUGGEDCOM ROS RS416Pv2 V5.X (All versions < V5.6.0), RUGGEDCOM ROS RS416v2 V4.X (All versions), RUGGEDCOM ROS RS416v2 V5.X (All versions < V5.6.0), RUGGEDCOM ROS RS8000 V4.X (All versions), RUGGEDCOM ROS RS8000A V4.X (All versions), RUGGEDCOM ROS RS8000H V4.X (All versions), RUGGEDCOM ROS RS8000T V4.X (All versions), RUGGEDCOM ROS RS900 (32M) V4.X (All versions), RUGGEDCOM ROS RS900 (32M) V5.X (All versions < V5.6.0), RUGGEDCOM ROS RS900 V4.X (All versions), RUGGEDCOM ROS RS900G (32M) V4.X (All versions), RUGGEDCOM ROS RS900G (32M) V5.X (All versions < V5.6.0), RUGGEDCOM ROS RS900G V4.X (All versions), RUGGEDCOM ROS RS900GP V4.X (All versions), RUGGEDCOM ROS RS900L V4.X (All versions), RUGGEDCOM ROS RS900M V4.X (All versions), RUGGEDCOM ROS RS900W V4.X (All versions), RUGGEDCOM ROS RS910 V4.X (All versions), RUGGEDCOM ROS RS910L V4.X (All versions), RUGGEDCOM ROS RS910W V4.X (All versions), RUGGEDCOM ROS RS920L V4.X (All versions), RUGGEDCOM ROS RS920W V4.X (All versions), RUGGEDCOM ROS RS930L V4.X (All versions), RUGGEDCOM ROS RS930W V4.X (All versions), RUGGEDCOM ROS RS940G V4.X (All versions), RUGGEDCOM ROS RSG2100 (32M) V4.X (All versions), RUGGEDCOM ROS RSG2100 (32M) V5.X (All versions < V5.6.0), RUGGEDCOM ROS RSG2100 V4.X (All versions), RUGGEDCOM ROS RSG2100P V4.X (All versions), RUGGEDCOM ROS RSG2200 V4.X (All versions), RUGGEDCOM ROS RSG2288 V4.X (All versions), RUGGEDCOM ROS RSG2288 V5.X (All versions < V5.6.0), RUGGEDCOM ROS RSG2300 V4.X (All versions), RUGGEDCOM ROS RSG2300 V5.X (All versions < V5.6.0), RUGGEDCOM ROS RSG2300P V4.X (All versions), RUGGEDCOM ROS RSG2300P V5.X (All versions < V5.6.0), RUGGEDCOM ROS RSG2488 V4.X (All versions), RUGGEDCOM ROS RSG2488 V5.X (All versions < V5.6.0), RUGGEDCOM ROS RSG907R V5.X (All versions < V5.6.0), RUGGEDCOM ROS RSG908C V5.X (All versions < V5.6.0), RUGGEDCOM ROS RSG909R V5.X (All versions < V5.6.0), RUGGEDCOM ROS RSG910C V5.X (All versions < V5.6.0), RUGGEDCOM ROS RSG920P V4.X (All versions), RUGGEDCOM ROS RSG920P V5.X (All versions < V5.6.0), RUGGEDCOM ROS RSL910 V5.X (All versions < V5.6.0), RUGGEDCOM ROS RST2228 V5.X (All versions < V5.6.0), RUGGEDCOM ROS RST2228P V5.X (All versions < V5.6.0), RUGGEDCOM ROS RST916C V5.X (All versions < V5.6.0), RUGGEDCOM ROS RST916P V5.X (All versions < V5.6.0), RUGGEDCOM ROS i800 V4.X (All versions), RUGGEDCOM ROS i801 V4.X (All versions), RUGGEDCOM ROS i802 V4.X (All versions), RUGGEDCOM ROS i803 V4.X (All versions). Affected devices improperly handle partial HTTP requests which makes them vulnerable to slowloris attacks. This could allow a remote attacker to create a denial of service condition that persists until the attack ends.
 - [Live-Hack-CVE/CVE-2022-39158](https://github.com/Live-Hack-CVE/CVE-2022-39158)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39158">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39158">
@@ -5525,6 +5540,11 @@
 ## CVE-2022-38974 (2022-11-18T19:15:00)
 > Broken Access Control vulnerability in WPML Multilingual CMS premium plugin <= 4.5.10 on WordPress allows users with subscriber or higher user roles to change the status of the translation jobs.
 - [Live-Hack-CVE/CVE-2022-38974](https://github.com/Live-Hack-CVE/CVE-2022-38974)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38974">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38974">
+
+---
+## CVE-2022-38932 (2022-09-27T23:15:00)
+> readelf in ToaruOS 2.0.1 has a global overflow allowing RCE when parsing a crafted ELF file.
+- [Live-Hack-CVE/CVE-2022-38932](https://github.com/Live-Hack-CVE/CVE-2022-38932)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38932">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38932">
 
 ---
 ## CVE-2022-38901 (2022-10-19T02:15:00)
@@ -5770,9 +5790,19 @@
 - [Live-Hack-CVE/CVE-2022-38336](https://github.com/Live-Hack-CVE/CVE-2022-38336)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38336">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38336">
 
 ---
+## CVE-2022-38335 (2022-09-27T23:15:00)
+> Vtiger CRM v7.4.0 was discovered to contain a stored cross-site scripting (XSS) vulnerability via the e-mail template modules.
+- [Live-Hack-CVE/CVE-2022-38335](https://github.com/Live-Hack-CVE/CVE-2022-38335)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38335">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38335">
+
+---
 ## CVE-2022-38266 (2022-09-09T22:15:00)
 > An issue in the Leptonica linked library (v1.79.0) allows attackers to cause an arithmetic exception leading to a Denial of Service (DoS) via a crafted JPEG file.
 - [Live-Hack-CVE/CVE-2022-38266](https://github.com/Live-Hack-CVE/CVE-2022-38266)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38266">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38266">
+
+---
+## CVE-2022-38222 (2022-09-29T03:15:00)
+> There is a use-after-free issue in JBIG2Stream::close() located in JBIG2Stream.cc in Xpdf 4.04. It can be triggered by sending a crafted PDF file to (for example) the pdfimages binary. It allows an attacker to cause Denial of Service or possibly have unspecified other impact.
+- [Live-Hack-CVE/CVE-2022-38222](https://github.com/Live-Hack-CVE/CVE-2022-38222)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38222">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38222">
 
 ---
 ## CVE-2022-38200 (2022-10-25T17:15:00)
@@ -6434,6 +6464,7 @@
 ## CVE-2022-37209 (2022-09-27T23:15:00)
 > JFinal CMS 5.1.0 is affected by: SQL Injection. These interfaces do not use the same component, nor do they have filters, but each uses its own SQL concatenation method, resulting in SQL injection.
 - [AgainstTheLight/CVE-2022-37209](https://github.com/AgainstTheLight/CVE-2022-37209)	<img alt="forks" src="https://img.shields.io/github/forks/AgainstTheLight/CVE-2022-37209">	<img alt="stars" src="https://img.shields.io/github/stars/AgainstTheLight/CVE-2022-37209">
+- [Live-Hack-CVE/CVE-2022-37209](https://github.com/Live-Hack-CVE/CVE-2022-37209)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37209">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37209">
 
 ---
 ## CVE-2022-37208 (2022-10-13T12:15:00)
@@ -7909,6 +7940,11 @@
 ## CVE-2022-33235 (2022-12-13T16:15:00)
 > Information disclosure due to buffer over-read in WLAN firmware while parsing security context info attributes. in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer Electronics Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables, Snapdragon Wired Infrastructure and Networking
 - [Live-Hack-CVE/CVE-2022-33235](https://github.com/Live-Hack-CVE/CVE-2022-33235)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33235">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33235">
+
+---
+## CVE-2022-3323 (2022-09-27T23:15:00)
+> An SQL injection vulnerability in Advantech iView 5.7.04.6469. The specific flaw exists within the ConfigurationServlet endpoint, which listens on TCP port 8080 by default. An unauthenticated remote attacker can craft a special column_value parameter in the setConfiguration action to bypass checks in com.imc.iview.utils.CUtils.checkSQLInjection() to perform SQL injection. For example, the attacker can exploit the vulnerability to retrieve the iView admin password.
+- [Live-Hack-CVE/CVE-2022-3323](https://github.com/Live-Hack-CVE/CVE-2022-3323)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3323">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3323">
 
 ---
 ## CVE-2022-33183 (2022-10-25T21:15:00)
@@ -12678,6 +12714,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1720 (2022-06-20T15:15:00)
 > Buffer Over-read in function grab_file_name in GitHub repository vim/vim prior to 8.2.4956. This vulnerability is capable of crashing the software, memory modification, and possible remote execution.
 - [Live-Hack-CVE/CVE-2022-1720](https://github.com/Live-Hack-CVE/CVE-2022-1720)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1720">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1720">
+
+---
+## CVE-2022-1719 (2022-09-29T03:15:00)
+> Reflected XSS on ticket filter function in GitHub repository polonel/trudesk prior to 1.2.2. This vulnerability is capable of executing a malicious javascript code in web page
+- [Live-Hack-CVE/CVE-2022-1719](https://github.com/Live-Hack-CVE/CVE-2022-1719)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1719">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1719">
 
 ---
 ## CVE-2022-1705 (2022-08-10T20:15:00)
