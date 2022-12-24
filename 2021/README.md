@@ -41,6 +41,11 @@
 - [xanszZZ/SDT_CW3B1_rce](https://github.com/xanszZZ/SDT_CW3B1_rce)	<img alt="forks" src="https://img.shields.io/github/forks/xanszZZ/SDT_CW3B1_rce">	<img alt="stars" src="https://img.shields.io/github/stars/xanszZZ/SDT_CW3B1_rce">
 
 ---
+## CVE-2021-45948 (2022-01-01T00:15:00)
+> Open Asset Import Library (aka assimp) 5.1.0 and 5.1.1 has a heap-based buffer overflow in _m3d_safestr (called from m3d_load and Assimp::M3DWrapper::M3DWrapper).
+- [Live-Hack-CVE/CVE-2021-45948](https://github.com/Live-Hack-CVE/CVE-2021-45948)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45948">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45948">
+
+---
 ## CVE-2021-45942 (2022-01-01T01:15:00)
 > OpenEXR 3.1.x before 3.1.4 has a heap-based buffer overflow in Imf_3_1::LineCompositeTask::execute (called from IlmThread_3_1::NullThreadPoolProvider::addTask and IlmThread_3_1::ThreadPool::addGlobalTask). NOTE: db217f2 may be inapplicable.
 - [Live-Hack-CVE/CVE-2021-45942](https://github.com/Live-Hack-CVE/CVE-2021-45942)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45942">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45942">
@@ -64,6 +69,16 @@
 ## CVE-2021-45450 (2021-12-21T07:15:00)
 > In Mbed TLS before 2.28.0 and 3.x before 3.1.0, psa_cipher_generate_iv and psa_cipher_encrypt allow policy bypass or oracle-based decryption when the output buffer is at memory locations accessible to an untrusted application.
 - [Live-Hack-CVE/CVE-2021-45450](https://github.com/Live-Hack-CVE/CVE-2021-45450)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45450">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45450">
+
+---
+## CVE-2021-45387 (2022-02-11T17:15:00)
+> tcpreplay 4.3.4 has a Reachable Assertion in add_tree_ipv4() at tree.c.
+- [Live-Hack-CVE/CVE-2021-45387](https://github.com/Live-Hack-CVE/CVE-2021-45387)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45387">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45387">
+
+---
+## CVE-2021-45386 (2022-02-11T17:15:00)
+> tcpreplay 4.3.4 has a Reachable Assertion in add_tree_ipv6() at tree.c
+- [Live-Hack-CVE/CVE-2021-45386](https://github.com/Live-Hack-CVE/CVE-2021-45386)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45386">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45386">
 
 ---
 ## CVE-2021-45346 (2022-02-14T19:15:00)
@@ -881,6 +896,21 @@
 - [Live-Hack-CVE/CVE-2021-3995](https://github.com/Live-Hack-CVE/CVE-2021-3995)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3995">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3995">
 
 ---
+## CVE-2021-39924 (2021-11-19T17:15:00)
+> Large loop in the Bluetooth DHT dissector in Wireshark 3.4.0 to 3.4.9 and 3.2.0 to 3.2.17 allows denial of service via packet injection or crafted capture file
+- [Live-Hack-CVE/CVE-2021-39924](https://github.com/Live-Hack-CVE/CVE-2021-39924)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39924">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39924">
+
+---
+## CVE-2021-39922 (2021-11-19T17:15:00)
+> Buffer overflow in the C12.22 dissector in Wireshark 3.4.0 to 3.4.9 and 3.2.0 to 3.2.17 allows denial of service via packet injection or crafted capture file
+- [Live-Hack-CVE/CVE-2021-39922](https://github.com/Live-Hack-CVE/CVE-2021-39922)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39922">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39922">
+
+---
+## CVE-2021-39921 (2021-11-19T17:15:00)
+> NULL pointer exception in the Modbus dissector in Wireshark 3.4.0 to 3.4.9 and 3.2.0 to 3.2.17 allows denial of service via packet injection or crafted capture file
+- [Live-Hack-CVE/CVE-2021-39921](https://github.com/Live-Hack-CVE/CVE-2021-39921)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39921">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39921">
+
+---
 ## CVE-2021-3975 (2022-08-23T20:15:00)
 > A use-after-free flaw was found in libvirt. The qemuMonitorUnregister() function in qemuProcessHandleMonitorEOF is called using multiple threads without being adequately protected by a monitor lock. This flaw could be triggered by the virConnectGetAllDomainStats API when the guest is shutting down. An unprivileged client with a read-only connection could use this flaw to perform a denial of service attack by causing the libvirt daemon to crash.
 - [Live-Hack-CVE/CVE-2021-3975](https://github.com/Live-Hack-CVE/CVE-2021-3975)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3975">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3975">
@@ -1106,6 +1136,11 @@
 - [BrucessKING/CVE-2021-36749](https://github.com/BrucessKING/CVE-2021-36749)	<img alt="forks" src="https://img.shields.io/github/forks/BrucessKING/CVE-2021-36749">	<img alt="stars" src="https://img.shields.io/github/stars/BrucessKING/CVE-2021-36749">
 
 ---
+## CVE-2021-3667 (2022-03-02T23:15:00)
+> An improper locking issue was found in the virStoragePoolLookupByTargetPath API of libvirt. It occurs in the storagePoolLookupByTargetPath function where a locked virStoragePoolObj object is not properly released on ACL permission failure. Clients connecting to the read-write socket with limited ACL permissions could use this flaw to acquire the lock and prevent other users from accessing storage pool/volume APIs, resulting in a denial of service condition. The highest threat from this vulnerability is to system availability.
+- [Live-Hack-CVE/CVE-2021-3667](https://github.com/Live-Hack-CVE/CVE-2021-3667)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3667">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3667">
+
+---
 ## CVE-2021-36631 (2022-12-22T02:15:00)
 > Untrusted search path vulnerability in Baidunetdisk Version 7.4.3 and earlier allows an attacker to gain privileges via a Trojan horse DLL in an unspecified directory.
 - [Live-Hack-CVE/CVE-2021-36631](https://github.com/Live-Hack-CVE/CVE-2021-36631)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36631">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36631">
@@ -1154,6 +1189,13 @@
 ## CVE-2021-3632 (2022-08-26T16:15:00)
 > A flaw was found in Keycloak. This vulnerability allows anyone to register a new security device or key when there is not a device already registered for any user by using the WebAuthn password-less login flow.
 - [Live-Hack-CVE/CVE-2021-3632](https://github.com/Live-Hack-CVE/CVE-2021-3632)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3632">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3632">
+
+---
+## CVE-2021-3631 (2022-03-02T23:15:00)
+> A flaw was found in libvirt while it generates SELinux MCS category pairs for VMs' dynamic labels. This flaw allows one exploited guest to access files labeled for another guest, resulting in the breaking out of sVirt confinement. The highest threat from this vulnerability is to confidentiality and integrity.
+- [Live-Hack-CVE/CVE-2021-3631](https://github.com/Live-Hack-CVE/CVE-2021-3631)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3631">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3631">
+- [Live-Hack-CVE/CVE-2021-36318](https://github.com/Live-Hack-CVE/CVE-2021-36318)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36318">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36318">
+- [Live-Hack-CVE/CVE-2021-36317](https://github.com/Live-Hack-CVE/CVE-2021-36317)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36317">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36317">
 
 ---
 ## CVE-2021-3629 (2022-05-24T19:15:00)
@@ -1394,6 +1436,11 @@
 ## CVE-2021-34427 (2021-06-25T19:15:00)
 > In Eclipse BIRT versions 4.8.0 and earlier, an attacker can use query parameters to create a JSP file which is accessible from remote (current BIRT viewer dir) to inject JSP code into the running instance.
 - [Live-Hack-CVE/CVE-2021-34427](https://github.com/Live-Hack-CVE/CVE-2021-34427)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34427">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34427">
+
+---
+## CVE-2021-3427 (2022-08-26T16:15:00)
+> The Deluge Web-UI is vulnerable to XSS through a crafted torrent file. The the data from torrent files is not properly sanitised as it's interpreted directly as HTML. Someone who supplies the user with a malicious torrent file can execute arbitrary Javascript code in the context of the user's browser session.
+- [Live-Hack-CVE/CVE-2021-3427](https://github.com/Live-Hack-CVE/CVE-2021-3427)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3427">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3427">
 
 ---
 ## CVE-2021-34181 (2022-12-05T21:15:00)

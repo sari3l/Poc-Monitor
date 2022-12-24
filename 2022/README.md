@@ -3975,6 +3975,11 @@
 - [Live-Hack-CVE/CVE-2022-40470](https://github.com/Live-Hack-CVE/CVE-2022-40470)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40470">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40470">
 
 ---
+## CVE-2022-40469 (2022-10-12T01:15:00)
+> iKuai OS v3.6.7 was discovered to contain an authenticated remote code execution (RCE) vulnerability.
+- [Live-Hack-CVE/CVE-2022-40469](https://github.com/Live-Hack-CVE/CVE-2022-40469)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40469">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40469">
+
+---
 ## CVE-2022-40434 (2022-12-19T22:15:00)
 > Softr v2.0 was discovered to be vulnerable to HTML injection via the Name field of the Account page.
 - [Live-Hack-CVE/CVE-2022-40434](https://github.com/Live-Hack-CVE/CVE-2022-40434)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40434">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40434">
@@ -4218,6 +4223,7 @@
 > SAP Manufacturing Execution - versions 15.1, 15.2, 15.3, allows an attacker to exploit insufficient validation of a file path request parameter. The intended file path can be manipulated to allow arbitrary traversal of directories on the remote server. The file content within each directory can be read which may lead to information disclosure.
 - [redrays-io/CVE-2022-39802](https://github.com/redrays-io/CVE-2022-39802)	<img alt="forks" src="https://img.shields.io/github/forks/redrays-io/CVE-2022-39802">	<img alt="stars" src="https://img.shields.io/github/stars/redrays-io/CVE-2022-39802">
 - [vah13/CVE-2022-39802](https://github.com/vah13/CVE-2022-39802)	<img alt="forks" src="https://img.shields.io/github/forks/vah13/CVE-2022-39802">	<img alt="stars" src="https://img.shields.io/github/stars/vah13/CVE-2022-39802">
+- [Live-Hack-CVE/CVE-2022-39802](https://github.com/Live-Hack-CVE/CVE-2022-39802)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39802">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39802">
 
 ---
 ## CVE-2022-39800 (2022-10-11T21:15:00)
@@ -4773,6 +4779,11 @@
 - [Live-Hack-CVE/CVE-2022-38435](https://github.com/Live-Hack-CVE/CVE-2022-38435)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38435">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38435">
 
 ---
+## CVE-2022-38419 (2022-10-14T20:15:00)
+> Adobe ColdFusion versions Update 14 (and earlier) and Update 4 (and earlier) are affected by an Improper Restriction of XML External Entity Reference ('XXE') vulnerability that could result in arbitrary file system read. Exploitation of this issue does not require user interaction.
+- [Live-Hack-CVE/CVE-2022-38419](https://github.com/Live-Hack-CVE/CVE-2022-38419)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38419">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38419">
+
+---
 ## CVE-2022-38379 (2022-12-06T17:15:00)
 > Improper neutralization of input during web page generation [CWE-79] in FortiSOAR 7.0.0 through 7.0.3 and 7.2.0 may allow an authenticated attacker to inject HTML tags via input fields of various components within FortiSOAR.
 - [Live-Hack-CVE/CVE-2022-38379](https://github.com/Live-Hack-CVE/CVE-2022-38379)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38379">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38379">
@@ -4996,6 +5007,11 @@
 > SPNEGO Extended Negotiation (NEGOEX) Security Mechanism Information Disclosure Vulnerability.
 - [RCEman01/CVE-2022-37958-Windows-Server-RCE](https://github.com/RCEman01/CVE-2022-37958-Windows-Server-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/RCEman01/CVE-2022-37958-Windows-Server-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/RCEman01/CVE-2022-37958-Windows-Server-RCE">
 - [4TT4CIc/CVE-2022-37958-D](https://github.com/4TT4CIc/CVE-2022-37958-D)	<img alt="forks" src="https://img.shields.io/github/forks/4TT4CIc/CVE-2022-37958-D">	<img alt="stars" src="https://img.shields.io/github/stars/4TT4CIc/CVE-2022-37958-D">
+
+---
+## CVE-2022-37956 (2022-09-13T19:15:00)
+> Windows Kernel Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-37957, CVE-2022-37964.
+- [Live-Hack-CVE/CVE-2022-37956](https://github.com/Live-Hack-CVE/CVE-2022-37956)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37956">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37956">
 
 ---
 ## CVE-2022-37931 (2022-11-22T05:15:00)
@@ -5380,6 +5396,21 @@
 - [Live-Hack-CVE/CVE-2022-37060](https://github.com/Live-Hack-CVE/CVE-2022-37060)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37060">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37060">
 
 ---
+## CVE-2022-37049 (2022-08-18T20:15:00)
+> The component tcpprep in Tcpreplay v4.4.1 was discovered to contain a heap-based buffer overflow in parse_mpls at common/get.c:150. NOTE: this is different from CVE-2022-27942.
+- [Live-Hack-CVE/CVE-2022-37049](https://github.com/Live-Hack-CVE/CVE-2022-37049)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37049">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37049">
+
+---
+## CVE-2022-37048 (2022-08-18T20:15:00)
+> The component tcprewrite in Tcpreplay v4.4.1 was discovered to contain a heap-based buffer overflow in get_l2len_protocol at common/get.c:344. NOTE: this is different from CVE-2022-27941.
+- [Live-Hack-CVE/CVE-2022-37048](https://github.com/Live-Hack-CVE/CVE-2022-37048)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37048">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37048">
+
+---
+## CVE-2022-37047 (2022-08-18T20:15:00)
+> The component tcprewrite in Tcpreplay v4.4.1 was discovered to contain a heap-based buffer overflow in get_ipv6_next at common/get.c:713. NOTE: this is different from CVE-2022-27940.
+- [Live-Hack-CVE/CVE-2022-37047](https://github.com/Live-Hack-CVE/CVE-2022-37047)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37047">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37047">
+
+---
 ## CVE-2022-37042 (2022-08-12T15:15:00)
 > Zimbra Collaboration Suite (ZCS) 8.8.15 and 9.0 has mboximport functionality that receives a ZIP archive and extracts files from it. By bypassing authentication (i.e., not having an authtoken), an attacker can upload arbitrary files to the system, leading to directory traversal and remote code execution. NOTE: this issue exists because of an incomplete fix for CVE-2022-27925.
 - [GreyNoise-Intelligence/Zimbra_Collaboration_CVE-2022-37042-_CVE-2022-27925](https://github.com/GreyNoise-Intelligence/Zimbra_Collaboration_CVE-2022-37042-_CVE-2022-27925)	<img alt="forks" src="https://img.shields.io/github/forks/GreyNoise-Intelligence/Zimbra_Collaboration_CVE-2022-37042-_CVE-2022-27925">	<img alt="stars" src="https://img.shields.io/github/stars/GreyNoise-Intelligence/Zimbra_Collaboration_CVE-2022-37042-_CVE-2022-27925">
@@ -5703,6 +5734,7 @@
 - [6E6L6F/CVE-2022-35914](https://github.com/6E6L6F/CVE-2022-35914)	<img alt="forks" src="https://img.shields.io/github/forks/6E6L6F/CVE-2022-35914">	<img alt="stars" src="https://img.shields.io/github/stars/6E6L6F/CVE-2022-35914">
 - [Gabriel-Lima232/CVE-2022-35914](https://github.com/Gabriel-Lima232/CVE-2022-35914)	<img alt="forks" src="https://img.shields.io/github/forks/Gabriel-Lima232/CVE-2022-35914">	<img alt="stars" src="https://img.shields.io/github/stars/Gabriel-Lima232/CVE-2022-35914">
 - [lolminerxmrig/Capricornus](https://github.com/lolminerxmrig/Capricornus)	<img alt="forks" src="https://img.shields.io/github/forks/lolminerxmrig/Capricornus">	<img alt="stars" src="https://img.shields.io/github/stars/lolminerxmrig/Capricornus">
+- [Live-Hack-CVE/CVE-2022-35914](https://github.com/Live-Hack-CVE/CVE-2022-35914)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35914">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35914">
 
 ---
 ## CVE-2022-3590 (2022-12-14T09:15:00)
@@ -6652,6 +6684,12 @@
 - [Vikaran101/CVE-2022-31854](https://github.com/Vikaran101/CVE-2022-31854)	<img alt="forks" src="https://img.shields.io/github/forks/Vikaran101/CVE-2022-31854">	<img alt="stars" src="https://img.shields.io/github/stars/Vikaran101/CVE-2022-31854">
 
 ---
+## CVE-2022-31814 (2022-09-05T16:15:00)
+> pfSense pfBlockerNG through 2.1.4_26 allows remote attackers to execute arbitrary OS commands as root via shell metacharacters in the HTTP Host header. NOTE: 3.x is unaffected.
+- [Live-Hack-CVE/CVE-2022-31814](https://github.com/Live-Hack-CVE/CVE-2022-31814)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31814">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31814">
+- [EvergreenCartoons/SenselessViolence](https://github.com/EvergreenCartoons/SenselessViolence)	<img alt="forks" src="https://img.shields.io/github/forks/EvergreenCartoons/SenselessViolence">	<img alt="stars" src="https://img.shields.io/github/stars/EvergreenCartoons/SenselessViolence">
+
+---
 ## CVE-2022-31798 (2022-08-25T23:15:00)
 > Nortek Linear eMerge E3-Series 0.32-07p devices are vulnerable to /card_scan.php?CardFormatNo= XSS with session fixation (via PHPSESSID) when they are chained together. This would allow an attacker to take over an admin account or a user account.
 - [omarhashem123/CVE-2022-31798](https://github.com/omarhashem123/CVE-2022-31798)	<img alt="forks" src="https://img.shields.io/github/forks/omarhashem123/CVE-2022-31798">	<img alt="stars" src="https://img.shields.io/github/stars/omarhashem123/CVE-2022-31798">
@@ -7335,6 +7373,7 @@
 - [CsEnox/CVE-2022-2992](https://github.com/CsEnox/CVE-2022-2992)	<img alt="forks" src="https://img.shields.io/github/forks/CsEnox/CVE-2022-2992">	<img alt="stars" src="https://img.shields.io/github/stars/CsEnox/CVE-2022-2992">
 - [RealAlphaMan/CVE-2022-2992](https://github.com/RealAlphaMan/CVE-2022-2992)	<img alt="forks" src="https://img.shields.io/github/forks/RealAlphaMan/CVE-2022-2992">	<img alt="stars" src="https://img.shields.io/github/stars/RealAlphaMan/CVE-2022-2992">
 - [Malwareman007/CVE-2022-2992](https://github.com/Malwareman007/CVE-2022-2992)	<img alt="forks" src="https://img.shields.io/github/forks/Malwareman007/CVE-2022-2992">	<img alt="stars" src="https://img.shields.io/github/stars/Malwareman007/CVE-2022-2992">
+- [Live-Hack-CVE/CVE-2022-2992](https://github.com/Live-Hack-CVE/CVE-2022-2992)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2992">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2992">
 
 ---
 ## CVE-2022-29885 (2022-05-12T08:15:00)
@@ -7582,6 +7621,11 @@
 - [Live-Hack-CVE/CVE-2022-2863](https://github.com/Live-Hack-CVE/CVE-2022-2863)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2863">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2863">
 
 ---
+## CVE-2022-28487 (2022-05-04T15:15:00)
+> Tcpreplay version 4.4.1 contains a memory leakage flaw in fix_ipv6_checksums() function. The highest threat from this vulnerability is to data confidentiality.
+- [Live-Hack-CVE/CVE-2022-28487](https://github.com/Live-Hack-CVE/CVE-2022-28487)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28487">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28487">
+
+---
 ## CVE-2022-2840 (2022-09-19T14:15:00)
 > The Zephyr Project Manager WordPress plugin before 3.2.5 does not sanitise and escape various parameters before using them in SQL statements via various AJAX actions available to both unauthenticated and authenticated users, leading to SQL injections
 - [Live-Hack-CVE/CVE-2022-2840](https://github.com/Live-Hack-CVE/CVE-2022-2840)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2840">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2840">
@@ -7639,6 +7683,26 @@
 ## CVE-2022-27949 (2022-11-14T10:15:00)
 > A vulnerability in UI of Apache Airflow allows an attacker to view unmasked secrets in rendered template values for tasks which were not executed (for example when they were depending on past and previous instances of the task failed). This issue affects Apache Airflow prior to 2.3.1.
 - [Live-Hack-CVE/CVE-2022-27949](https://github.com/Live-Hack-CVE/CVE-2022-27949)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27949">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27949">
+
+---
+## CVE-2022-27942 (2022-03-26T13:15:00)
+> tcpprep in Tcpreplay 4.4.1 has a heap-based buffer over-read in parse_mpls in common/get.c.
+- [Live-Hack-CVE/CVE-2022-27942](https://github.com/Live-Hack-CVE/CVE-2022-27942)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27942">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27942">
+
+---
+## CVE-2022-27941 (2022-03-26T13:15:00)
+> tcprewrite in Tcpreplay 4.4.1 has a heap-based buffer over-read in get_l2len_protocol in common/get.c.
+- [Live-Hack-CVE/CVE-2022-27941](https://github.com/Live-Hack-CVE/CVE-2022-27941)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27941">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27941">
+
+---
+## CVE-2022-27940 (2022-03-26T13:15:00)
+> tcprewrite in Tcpreplay 4.4.1 has a heap-based buffer over-read in get_ipv6_next in common/get.c.
+- [Live-Hack-CVE/CVE-2022-27940](https://github.com/Live-Hack-CVE/CVE-2022-27940)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27940">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27940">
+
+---
+## CVE-2022-27939 (2022-03-26T13:15:00)
+> tcprewrite in Tcpreplay 4.4.1 has a reachable assertion in get_layer4_v6 in common/get.c.
+- [Live-Hack-CVE/CVE-2022-27939](https://github.com/Live-Hack-CVE/CVE-2022-27939)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27939">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27939">
 
 ---
 ## CVE-2022-27925 (2022-04-21T00:15:00)
@@ -7757,6 +7821,16 @@
 ## CVE-2022-27438 (2022-06-06T23:15:00)
 > Caphyon Ltd Advanced Installer 19.3 and earlier and many products that use the updater from Advanced Installer (Advanced Updater) are affected by a remote code execution vulnerability via the CustomDetection parameter in the update check function. To exploit this vulnerability, a user must start an affected installation to trigger the update check.
 - [gerr-re/cve-2022-27438](https://github.com/gerr-re/cve-2022-27438)	<img alt="forks" src="https://img.shields.io/github/forks/gerr-re/cve-2022-27438">	<img alt="stars" src="https://img.shields.io/github/stars/gerr-re/cve-2022-27438">
+
+---
+## CVE-2022-27418 (2022-04-12T20:15:00)
+> Tcpreplay v4.4.1 has a heap-based buffer overflow in do_checksum_math at /tcpedit/checksum.c.
+- [Live-Hack-CVE/CVE-2022-27418](https://github.com/Live-Hack-CVE/CVE-2022-27418)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27418">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27418">
+
+---
+## CVE-2022-27416 (2022-04-12T20:15:00)
+> Tcpreplay v4.4.1 was discovered to contain a double-free via __interceptor_free.
+- [Live-Hack-CVE/CVE-2022-27416](https://github.com/Live-Hack-CVE/CVE-2022-27416)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27416">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27416">
 
 ---
 ## CVE-2022-27414 ()
@@ -8120,6 +8194,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-25628](https://github.com/Live-Hack-CVE/CVE-2022-25628)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25628">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25628">
 
 ---
+## CVE-2022-25521 (2022-03-29T01:15:00)
+> NUUO v03.11.00 was discovered to contain access control issue.
+- [Live-Hack-CVE/CVE-2022-25521](https://github.com/Live-Hack-CVE/CVE-2022-25521)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25521">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25521">
+
+---
 ## CVE-2022-2546 ()
 > 
 - [0xvinix/CVE-2022-2546](https://github.com/0xvinix/CVE-2022-2546)	<img alt="forks" src="https://img.shields.io/github/forks/0xvinix/CVE-2022-2546">	<img alt="stars" src="https://img.shields.io/github/stars/0xvinix/CVE-2022-2546">
@@ -8363,6 +8442,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Axx8/CVE-2022-24112](https://github.com/Axx8/CVE-2022-24112)	<img alt="forks" src="https://img.shields.io/github/forks/Axx8/CVE-2022-24112">	<img alt="stars" src="https://img.shields.io/github/stars/Axx8/CVE-2022-24112">
 - [Udyz/CVE-2022-24112](https://github.com/Udyz/CVE-2022-24112)	<img alt="forks" src="https://img.shields.io/github/forks/Udyz/CVE-2022-24112">	<img alt="stars" src="https://img.shields.io/github/stars/Udyz/CVE-2022-24112">
 - [Mr-xn/CVE-2022-24112](https://github.com/Mr-xn/CVE-2022-24112)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2022-24112">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2022-24112">
+
+---
+## CVE-2022-24107 (2022-08-30T04:15:00)
+> Xpdf prior to 4.04 lacked an integer overflow check in JPXStream.cc.
+- [Live-Hack-CVE/CVE-2022-24107](https://github.com/Live-Hack-CVE/CVE-2022-24107)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24107">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24107">
 
 ---
 ## CVE-2022-24086 (2022-02-16T17:15:00)
@@ -8749,6 +8833,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [savior-only/CVE-2022-22947](https://github.com/savior-only/CVE-2022-22947)	<img alt="forks" src="https://img.shields.io/github/forks/savior-only/CVE-2022-22947">	<img alt="stars" src="https://img.shields.io/github/stars/savior-only/CVE-2022-22947">
 - [Axx8/CVE-2022-22947_Rce_Exp](https://github.com/Axx8/CVE-2022-22947_Rce_Exp)	<img alt="forks" src="https://img.shields.io/github/forks/Axx8/CVE-2022-22947_Rce_Exp">	<img alt="stars" src="https://img.shields.io/github/stars/Axx8/CVE-2022-22947_Rce_Exp">
 - [qq87234770/CVE-2022-22947](https://github.com/qq87234770/CVE-2022-22947)	<img alt="forks" src="https://img.shields.io/github/forks/qq87234770/CVE-2022-22947">	<img alt="stars" src="https://img.shields.io/github/stars/qq87234770/CVE-2022-22947">
+- [Live-Hack-CVE/CVE-2022-22947](https://github.com/Live-Hack-CVE/CVE-2022-22947)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22947">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22947">
 
 ---
 ## CVE-2022-22909 (2022-03-03T00:15:00)
@@ -9012,6 +9097,12 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-21126 (2022-11-29T17:15:00)
 > The package com.github.samtools:htsjdk before 3.0.1 are vulnerable to Creation of Temporary File in Directory with Insecure Permissions due to the createTempDir() function in util/IOUtil.java not checking for the existence of the temporary directory before attempting to create it.
 - [Live-Hack-CVE/CVE-2022-21126](https://github.com/Live-Hack-CVE/CVE-2022-21126)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21126">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21126">
+
+---
+## CVE-2022-2097 (2022-07-05T11:15:00)
+> AES OCB mode for 32-bit x86 platforms using the AES-NI assembly optimised implementation will not encrypt the entirety of the data under some circumstances. This could reveal sixteen bytes of data that was preexisting in the memory that wasn't written. In the special case of "in place" encryption, sixteen bytes of the plaintext would be revealed. Since OpenSSL does not support OCB based cipher suites for TLS and DTLS, they are both unaffected. Fixed in OpenSSL 3.0.5 (Affected 3.0.0-3.0.4). Fixed in OpenSSL 1.1.1q (Affected 1.1.1-1.1.1p).
+- [Live-Hack-CVE/CVE-2022-2097](https://github.com/Live-Hack-CVE/CVE-2022-2097)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2097">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2097">
+- [PeterThomasAwen/OpenSSLUpgrade1.1.1q-Ubuntu](https://github.com/PeterThomasAwen/OpenSSLUpgrade1.1.1q-Ubuntu)	<img alt="forks" src="https://img.shields.io/github/forks/PeterThomasAwen/OpenSSLUpgrade1.1.1q-Ubuntu">	<img alt="stars" src="https://img.shields.io/github/stars/PeterThomasAwen/OpenSSLUpgrade1.1.1q-Ubuntu">
 
 ---
 ## CVE-2022-20934 (2022-11-15T21:15:00)
