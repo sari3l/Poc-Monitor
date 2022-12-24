@@ -55,6 +55,11 @@
 - [s3rgeym/cve-2020-9006](https://github.com/s3rgeym/cve-2020-9006)	<img alt="forks" src="https://img.shields.io/github/forks/s3rgeym/cve-2020-9006">	<img alt="stars" src="https://img.shields.io/github/stars/s3rgeym/cve-2020-9006">
 
 ---
+## CVE-2020-8975 (2022-10-17T22:15:00)
+> ZGR TPS200 NG in its 2.00 firmware version and 1.01 hardware version, allows a remote attacker with access to the web application and knowledge of the routes (URIs) used by the application, to access sensitive information about the system.
+- [Live-Hack-CVE/CVE-2020-8975](https://github.com/Live-Hack-CVE/CVE-2020-8975)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8975">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8975">
+
+---
 ## CVE-2020-8974 (2022-10-17T22:15:00)
 > In ZGR TPS200 NG 2.00 firmware version and 1.01 hardware version, the firmware upload process does not perform any type of restriction. This allows an attacker to modify it and re-upload it via web with malicious modifications, rendering the device unusable.
 - [Live-Hack-CVE/CVE-2020-8974](https://github.com/Live-Hack-CVE/CVE-2020-8974)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8974">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8974">
