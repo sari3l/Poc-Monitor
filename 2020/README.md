@@ -897,6 +897,11 @@
 - [jet-pentest/CVE-2020-24032](https://github.com/jet-pentest/CVE-2020-24032)	<img alt="forks" src="https://img.shields.io/github/forks/jet-pentest/CVE-2020-24032">	<img alt="stars" src="https://img.shields.io/github/stars/jet-pentest/CVE-2020-24032">
 
 ---
+## CVE-2020-23648 (2022-10-19T11:15:00)
+> Asus RT-N12E 2.0.0.39 is affected by an incorrect access control vulnerability. Through system.asp / start_apply.htm, an attacker can change the administrator password without any authentication.
+- [Live-Hack-CVE/CVE-2020-23648](https://github.com/Live-Hack-CVE/CVE-2020-23648)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-23648">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-23648">
+
+---
 ## CVE-2020-23593 (2022-11-23T01:15:00)
 > A vulnerability in OPTILINK OP-XT71000N Hardware Version: V2.2, Firmware Version: OP_V3.3.1-191028 allows an unauthenticated, remote attacker to conduct a cross site request forgery (CSRF) attack to enable syslog mode through ' /mgm_log_cfg.asp.' The system starts to log events, 'Remote' mode or 'Both' mode on "Syslog -- Configuration page" logs events and sends to remote syslog server IP and Port.
 - [huzaifahussain98/CVE-2020-23593](https://github.com/huzaifahussain98/CVE-2020-23593)	<img alt="forks" src="https://img.shields.io/github/forks/huzaifahussain98/CVE-2020-23593">	<img alt="stars" src="https://img.shields.io/github/stars/huzaifahussain98/CVE-2020-23593">

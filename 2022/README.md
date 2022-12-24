@@ -2889,6 +2889,11 @@
 - [Live-Hack-CVE/CVE-2022-41994](https://github.com/Live-Hack-CVE/CVE-2022-41994)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41994">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41994">
 
 ---
+## CVE-2022-41983 (2022-10-19T22:15:00)
+> On specific hardware platforms, on BIG-IP versions 16.1.x before 16.1.3.1, 15.1.x before 15.1.7, 14.1.x before 14.1.5.1, and all versions of 13.1.x, while Intel QAT (QuickAssist Technology) and the AES-GCM/CCM cipher is in use, undisclosed conditions can cause BIG-IP to send data unencrypted even with an SSL Profile applied.
+- [Live-Hack-CVE/CVE-2022-41983](https://github.com/Live-Hack-CVE/CVE-2022-41983)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41983">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41983">
+
+---
 ## CVE-2022-41980 (2022-11-08T19:15:00)
 > Auth. (admin+) Cross-Site Scripting (XSS) vulnerability in Mantenimiento web plugin <= 0.13 on WordPress.
 - [Live-Hack-CVE/CVE-2022-41980](https://github.com/Live-Hack-CVE/CVE-2022-41980)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41980">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41980">
@@ -3147,6 +3152,16 @@
 ## CVE-2022-4184 (2022-11-30T00:15:00)
 > Insufficient policy enforcement in Autofill in Google Chrome prior to 108.0.5359.71 allowed a remote attacker to bypass autofill restrictions via a crafted HTML page. (Chromium security severity: Medium)
 - [Live-Hack-CVE/CVE-2022-4184](https://github.com/Live-Hack-CVE/CVE-2022-4184)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4184">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4184">
+
+---
+## CVE-2022-41836 (2022-10-19T22:15:00)
+> When an 'Attack Signature False Positive Mode' enabled security policy is configured on a virtual server, undisclosed requests can cause the bd process to terminate.
+- [Live-Hack-CVE/CVE-2022-41836](https://github.com/Live-Hack-CVE/CVE-2022-41836)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41836">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41836">
+
+---
+## CVE-2022-41835 (2022-10-19T22:15:00)
+> In F5OS-A version 1.x before 1.1.0 and F5OS-C version 1.x before 1.5.0, excessive file permissions in F5OS allows an authenticated local attacker to execute limited set of commands in a container and impact the F5OS controller.
+- [Live-Hack-CVE/CVE-2022-41835](https://github.com/Live-Hack-CVE/CVE-2022-41835)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41835">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41835">
 
 ---
 ## CVE-2022-4183 (2022-11-30T00:15:00)
@@ -3880,6 +3895,11 @@
 - [Live-Hack-CVE/CVE-2022-40694](https://github.com/Live-Hack-CVE/CVE-2022-40694)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40694">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40694">
 
 ---
+## CVE-2022-40690 (2022-10-24T14:15:00)
+> Cross-site scripting vulnerability in BookStack versions prior to v22.09 allows a remote authenticated attacker to inject an arbitrary script.
+- [Live-Hack-CVE/CVE-2022-40690](https://github.com/Live-Hack-CVE/CVE-2022-40690)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40690">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40690">
+
+---
 ## CVE-2022-4069 (2022-11-20T05:15:00)
 > Cross-site Scripting (XSS) - Generic in GitHub repository librenms/librenms prior to 22.10.0.
 - [Live-Hack-CVE/CVE-2022-4069](https://github.com/Live-Hack-CVE/CVE-2022-4069)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4069">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4069">
@@ -4481,6 +4501,11 @@
 ## CVE-2022-39260 (2022-10-19T12:15:00)
 > Git is an open source, scalable, distributed revision control system. `git shell` is a restricted login shell that can be used to implement Git's push/pull functionality via SSH. In versions prior to 2.30.6, 2.31.5, 2.32.4, 2.33.5, 2.34.5, 2.35.5, 2.36.3, and 2.37.4, the function that splits the command arguments into an array improperly uses an `int` to represent the number of entries in the array, allowing a malicious actor to intentionally overflow the return value, leading to arbitrary heap writes. Because the resulting array is then passed to `execv()`, it is possible to leverage this attack to gain remote code execution on a victim machine. Note that a victim must first allow access to `git shell` as a login shell in order to be vulnerable to this attack. This problem is patched in versions 2.30.6, 2.31.5, 2.32.4, 2.33.5, 2.34.5, 2.35.5, 2.36.3, and 2.37.4 and users are advised to upgrade to the latest version. Disabling `git shell` access via remote logins is a viable short-term workaround.
 - [Live-Hack-CVE/CVE-2022-39260](https://github.com/Live-Hack-CVE/CVE-2022-39260)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39260">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39260">
+
+---
+## CVE-2022-39259 (2022-10-21T23:15:00)
+> jadx is a set of command line and GUI tools for producing Java source code from Android Dex and Apk files. versions prior to 1.4.5 are subject to a Denial of Service when opening zip files with HTML sequences. This issue has been patched in version 1.4.5. There are no known workarounds.
+- [Live-Hack-CVE/CVE-2022-39259](https://github.com/Live-Hack-CVE/CVE-2022-39259)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39259">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39259">
 
 ---
 ## CVE-2022-39253 (2022-10-19T11:15:00)
@@ -9217,6 +9242,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-23467 (2022-12-05T20:15:00)
 > OpenRazer is an open source driver and user-space daemon to control Razer device lighting and other features on GNU/Linux. Using a modified USB device an attacker can leak stack addresses of the `razer_attr_read_dpi_stages`, potentially bypassing KASLR. To exploit this vulnerability an attacker would need to access to a users keyboard or mouse or would need to convince a user to use a modified device. The issue has been patched in v3.5.1. Users are advised to upgrade and should be reminded not to plug in unknown USB devices.
 - [Live-Hack-CVE/CVE-2022-23467](https://github.com/Live-Hack-CVE/CVE-2022-23467)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23467">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23467">
+
+---
+## CVE-2022-23462 (2022-10-21T22:15:00)
+> IOWOW is a C utility library and persistent key/value storage engine. Versions 1.4.15 and prior contain a stack buffer overflow vulnerability that allows for Denial of Service (DOS) when it parses scientific notation numbers present in JSON. A patch for this issue is available at commit a79d31e4cff1d5a08f665574b29fd885897a28fd in the `master` branch of the repository. There are no workarounds other than applying the patch.
+- [Live-Hack-CVE/CVE-2022-23462](https://github.com/Live-Hack-CVE/CVE-2022-23462)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23462">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23462">
 
 ---
 ## CVE-2022-23342 (2022-06-21T14:15:00)

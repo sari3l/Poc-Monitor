@@ -1,6 +1,11 @@
 # 2007 List
 
 ---
+## CVE-2007-5536 (2007-10-18T00:17:00)
+> Unspecified vulnerability in OpenSSL before A.00.09.07l on HP-UX B.11.11, B.11.23, and B.11.31 allows local users to cause a denial of service via unspecified vectors.
+- [Live-Hack-CVE/CVE-2007-5536](https://github.com/Live-Hack-CVE/CVE-2007-5536)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2007-5536">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2007-5536">
+
+---
 ## CVE-2007-2447 (2007-05-14T21:19:00)
 > The MS-RPC functionality in smbd in Samba 3.0.0 through 3.0.25rc3 allows remote attackers to execute arbitrary commands via shell metacharacters involving the (1) SamrChangePassword function, when the "username map script" smb.conf option is enabled, and allows remote authenticated users to execute commands via shell metacharacters involving other MS-RPC functions in the (2) remote printer and (3) file share management.
 - [mr-l0n3lly/CVE-2007-2447](https://github.com/mr-l0n3lly/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/mr-l0n3lly/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/mr-l0n3lly/CVE-2007-2447">

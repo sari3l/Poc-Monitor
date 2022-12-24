@@ -462,6 +462,11 @@
 - [Live-Hack-CVE/CVE-2021-4256](https://github.com/Live-Hack-CVE/CVE-2021-4256)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4256">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4256">
 
 ---
+## CVE-2021-42553 (2022-10-21T10:15:00)
+> A buffer overflow vulnerability in stm32_mw_usb_host of STMicroelectronics allows an attacker to execute arbitrary code when the descriptor contains more endpoints than USBH_MAX_NUM_ENDPOINTS. The library is typically integrated when using a RTOS such as FreeRTOS on STM32 MCUs.
+- [Live-Hack-CVE/CVE-2021-42553](https://github.com/Live-Hack-CVE/CVE-2021-42553)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42553">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42553">
+
+---
 ## CVE-2021-4255 (2022-12-18T22:15:00)
 > A vulnerability was found in ctrlo lenio and classified as problematic. Affected by this issue is some unknown functionality of the file views/contractor.tt. The manipulation of the argument contractor.name leads to cross site scripting. The attack may be launched remotely. The name of the patch is e1646d5cd0a2fbab9eb505196dd2ca1c9e4cdd97. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-216212.
 - [Live-Hack-CVE/CVE-2021-4255](https://github.com/Live-Hack-CVE/CVE-2021-4255)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4255">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4255">
@@ -710,6 +715,11 @@
 - [Henry4E36/Metabase-cve-2021-41277](https://github.com/Henry4E36/Metabase-cve-2021-41277)	<img alt="forks" src="https://img.shields.io/github/forks/Henry4E36/Metabase-cve-2021-41277">	<img alt="stars" src="https://img.shields.io/github/stars/Henry4E36/Metabase-cve-2021-41277">
 
 ---
+## CVE-2021-41253 (2021-11-08T22:15:00)
+> Zydis is an x86/x86-64 disassembler library. Users of Zydis versions v3.2.0 and older that use the string functions provided in `zycore` in order to append untrusted user data to the formatter buffer within their custom formatter hooks can run into heap buffer overflows. Older versions of Zydis failed to properly initialize the string object within the formatter buffer, forgetting to initialize a few fields, leaving their value to chance. This could then in turn cause zycore functions like `ZyanStringAppend` to make incorrect calculations for the new target size, resulting in heap memory corruption. This does not affect the regular uncustomized Zydis formatter, because Zydis internally doesn't use the string functions in zycore that act upon these fields. However, because the zycore string functions are the intended way to work with the formatter buffer for users of the library that wish to extend the formatter, we still consider this to be a vulnerability in Zydis. This bug is patched starting in version 3.2.1. As a workaround, users may refrain from using zycore string functions in their formatter hooks until updating to a patched version.
+- [Live-Hack-CVE/CVE-2021-41253](https://github.com/Live-Hack-CVE/CVE-2021-41253)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41253">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41253">
+
+---
 ## CVE-2021-41184 (2021-10-26T15:15:00)
 > jQuery-UI is the official jQuery user interface library. Prior to version 1.13.0, accepting the value of the `of` option of the `.position()` util from untrusted sources may execute untrusted code. The issue is fixed in jQuery UI 1.13.0. Any string value passed to the `of` option is now treated as a CSS selector. A workaround is to not accept the value of the `of` option from untrusted sources.
 - [gabrielolivra/Exploit-Medium-CVE-2021-41184](https://github.com/gabrielolivra/Exploit-Medium-CVE-2021-41184)	<img alt="forks" src="https://img.shields.io/github/forks/gabrielolivra/Exploit-Medium-CVE-2021-41184">	<img alt="stars" src="https://img.shields.io/github/stars/gabrielolivra/Exploit-Medium-CVE-2021-41184">
@@ -718,6 +728,11 @@
 ## CVE-2021-41164 (2021-11-17T19:15:00)
 > CKEditor4 is an open source WYSIWYG HTML editor. In affected versions a vulnerability has been discovered in the Advanced Content Filter (ACF) module and may affect all plugins used by CKEditor 4. The vulnerability allowed to inject malformed HTML bypassing content sanitization, which could result in executing JavaScript code. It affects all users using the CKEditor 4 at version < 4.17.0. The problem has been recognized and patched. The fix will be available in version 4.17.0.
 - [Live-Hack-CVE/CVE-2021-41164](https://github.com/Live-Hack-CVE/CVE-2021-41164)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41164">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41164">
+
+---
+## CVE-2021-41158 (2021-10-26T14:15:00)
+> FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a software implementation that runs on any commodity hardware. Prior to version 1.10.7, an attacker can perform a SIP digest leak attack against FreeSWITCH and receive the challenge response of a gateway configured on the FreeSWITCH server. This is done by challenging FreeSWITCH's SIP requests with the realm set to that of the gateway, thus forcing FreeSWITCH to respond with the challenge response which is based on the password of that targeted gateway. Abuse of this vulnerability allows attackers to potentially recover gateway passwords by performing a fast offline password cracking attack on the challenge response. The attacker does not require special network privileges, such as the ability to sniff the FreeSWITCH's network traffic, to exploit this issue. Instead, what is required for this attack to work is the ability to cause the victim server to send SIP request messages to the malicious party. Additionally, to exploit this issue, the attacker needs to specify the correct realm which might in some cases be considered secret. However, because many gateways are actually public, this information can easily be retrieved. The vulnerability appears to be due to the code which handles challenges in `sofia_reg.c`, `sofia_reg_handle_sip_r_challenge()` which does not check if the challenge is originating from the actual gateway. The lack of these checks allows arbitrary UACs (and gateways) to challenge any request sent by FreeSWITCH with the realm of the gateway being targeted. This issue is patched in version 10.10.7. Maintainers recommend that one should create an association between a SIP session for each gateway and its realm to make a check be put into place for this association when responding to challenges.
+- [Live-Hack-CVE/CVE-2021-41158](https://github.com/Live-Hack-CVE/CVE-2021-41158)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41158">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41158">
 
 ---
 ## CVE-2021-41141 (2022-01-04T19:15:00)
@@ -934,6 +949,11 @@
 ## CVE-2021-40226 (2022-11-10T18:15:00)
 > xpdfreader 4.03 is vulnerable to Buffer Overflow.
 - [Live-Hack-CVE/CVE-2021-40226](https://github.com/Live-Hack-CVE/CVE-2021-40226)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40226">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40226">
+
+---
+## CVE-2021-40113 (2021-11-04T16:15:00)
+> Multiple vulnerabilities in the web-based management interface of the Cisco Catalyst Passive Optical Network (PON) Series Switches Optical Network Terminal (ONT) could allow an unauthenticated, remote attacker to perform the following actions: Log in with a default credential if the Telnet protocol is enabled Perform command injection Modify the configuration For more information about these vulnerabilities, see the Details section of this advisory.
+- [Live-Hack-CVE/CVE-2021-40113](https://github.com/Live-Hack-CVE/CVE-2021-40113)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40113">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40113">
 
 ---
 ## CVE-2021-40017 (2022-09-16T18:15:00)
@@ -1408,6 +1428,11 @@
 - [Live-Hack-CVE/CVE-2021-3634](https://github.com/Live-Hack-CVE/CVE-2021-3634)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3634">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3634">
 
 ---
+## CVE-2021-36322 (2021-11-20T02:15:00)
+> Dell Networking X-Series firmware versions prior to 3.0.1.8 contain a host header injection vulnerability. A remote unauthenticated attacker may potentially exploit this vulnerability by injecting arbitrary host header values to poison the web-cache or trigger redirections.
+- [Live-Hack-CVE/CVE-2021-36322](https://github.com/Live-Hack-CVE/CVE-2021-36322)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36322">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36322">
+
+---
 ## CVE-2021-3632 (2022-08-26T16:15:00)
 > A flaw was found in Keycloak. This vulnerability allows anyone to register a new security device or key when there is not a device already registered for any user by using the WebAuthn password-less login flow.
 - [Live-Hack-CVE/CVE-2021-3632](https://github.com/Live-Hack-CVE/CVE-2021-3632)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3632">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3632">
@@ -1446,6 +1471,11 @@
 ## CVE-2021-3623 (2022-03-02T23:15:00)
 > A flaw was found in libtpms. The flaw can be triggered by specially-crafted TPM 2 command packets containing illegal values and may lead to an out-of-bounds access when the volatile state of the TPM 2 is marshalled/written or unmarshalled/read. The highest threat from this vulnerability is to system availability.
 - [Live-Hack-CVE/CVE-2021-3623](https://github.com/Live-Hack-CVE/CVE-2021-3623)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3623">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3623">
+
+---
+## CVE-2021-3621 (2021-12-23T21:15:00)
+> A flaw was found in SSSD, where the sssctl command was vulnerable to shell command injection via the logs-fetch and cache-expire subcommands. This flaw allows an attacker to trick the root user into running a specially crafted sssctl command, such as via sudo, to gain root access. The highest threat from this vulnerability is to confidentiality, integrity, as well as system availability.
+- [Live-Hack-CVE/CVE-2021-3621](https://github.com/Live-Hack-CVE/CVE-2021-3621)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3621">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3621">
 
 ---
 ## CVE-2021-36206 (2022-10-28T02:15:00)
@@ -1710,6 +1740,11 @@
 - [Live-Hack-CVE/CVE-2021-34622](https://github.com/Live-Hack-CVE/CVE-2021-34622)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34622">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34622">
 
 ---
+## CVE-2021-34595 (2021-10-26T10:15:00)
+> A crafted request with invalid offsets may cause an out-of-bounds read or write access in CODESYS V2 Runtime Toolkit 32 Bit full and PLCWinNT prior to versions V2.4.7.56, resulting in a denial-of-service condition or local memory overwrite.
+- [Live-Hack-CVE/CVE-2021-34595](https://github.com/Live-Hack-CVE/CVE-2021-34595)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34595">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34595">
+
+---
 ## CVE-2021-34589 (2022-04-27T16:15:00)
 > In Bender/ebee Charge Controllers in multiple versions are prone to an RFID leak. The RFID of the last charge event can be read without authentication via the web interface.
 - [Live-Hack-CVE/CVE-2021-34589](https://github.com/Live-Hack-CVE/CVE-2021-34589)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34589">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34589">
@@ -1789,6 +1824,11 @@
 ## CVE-2021-34427 (2021-06-25T19:15:00)
 > In Eclipse BIRT versions 4.8.0 and earlier, an attacker can use query parameters to create a JSP file which is accessible from remote (current BIRT viewer dir) to inject JSP code into the running instance.
 - [Live-Hack-CVE/CVE-2021-34427](https://github.com/Live-Hack-CVE/CVE-2021-34427)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34427">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34427">
+
+---
+## CVE-2021-34402 (2022-01-18T18:15:00)
+> NVIDIA Tegra kernel driver contains a vulnerability in NVIDIA NVDEC, where a user with high privileges might be able to read from or write to a memory location that is outside the intended boundary of the buffer, which may lead to denial of service, Information disclosure, loss of Integrity, or possible escalation of privileges.
+- [Live-Hack-CVE/CVE-2021-34402](https://github.com/Live-Hack-CVE/CVE-2021-34402)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34402">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34402">
 
 ---
 ## CVE-2021-34326 (2021-07-13T11:15:00)
@@ -2192,6 +2232,11 @@
 - [Live-Hack-CVE/CVE-2021-28655](https://github.com/Live-Hack-CVE/CVE-2021-28655)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28655">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28655">
 
 ---
+## CVE-2021-28500 (2022-01-14T20:15:00)
+> An issue has recently been discovered in Arista EOS where the incorrect use of EOS's AAA API’s by the OpenConfig and TerminAttr agents could result in unrestricted access to the device for local users with nopassword configuration.
+- [Live-Hack-CVE/CVE-2021-28500](https://github.com/Live-Hack-CVE/CVE-2021-28500)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28500">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28500">
+
+---
 ## CVE-2021-27965 (2021-03-05T02:15:00)
 > The MsIo64.sys driver before 1.1.19.1016 in MSI Dragon Center before 2.0.98.0 has a buffer overflow that allows privilege escalation via a crafted 0x80102040, 0x80102044, 0x80102050, or 0x80102054 IOCTL request.
 - [Exploitables/CVE-2021-27965](https://github.com/Exploitables/CVE-2021-27965)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2021-27965">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2021-27965">
@@ -2370,6 +2415,11 @@
 - [catmandx/CVE-2021-26855-Exchange-RCE](https://github.com/catmandx/CVE-2021-26855-Exchange-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/catmandx/CVE-2021-26855-Exchange-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/catmandx/CVE-2021-26855-Exchange-RCE">
 
 ---
+## CVE-2021-26338 (2021-11-16T18:15:00)
+> Improper access controls in System Management Unit (SMU) may allow for an attacker to override performance control tables located in DRAM resulting in a potential lack of system resources.
+- [Live-Hack-CVE/CVE-2021-26338](https://github.com/Live-Hack-CVE/CVE-2021-26338)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26338">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26338">
+
+---
 ## CVE-2021-26294 (2021-03-07T04:15:00)
 > An issue was discovered in AfterLogic Aurora through 7.7.9 and WebMail Pro through 7.7.9. They allow directory traversal to read files (such as a data/settings/settings.xml file containing admin panel credentials), as demonstrated by dav/server.php/files/personal/%2e%2e when using the caldav_public_user account (with caldav_public_user as its password).
 - [dorkerdevil/CVE-2021-26294](https://github.com/dorkerdevil/CVE-2021-26294)	<img alt="forks" src="https://img.shields.io/github/forks/dorkerdevil/CVE-2021-26294">	<img alt="stars" src="https://img.shields.io/github/stars/dorkerdevil/CVE-2021-26294">
@@ -2521,9 +2571,44 @@
 - [Live-Hack-CVE/CVE-2021-25002](https://github.com/Live-Hack-CVE/CVE-2021-25002)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25002">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25002">
 
 ---
+## CVE-2021-24988 (2021-12-27T11:15:00)
+> The WP RSS Aggregator WordPress plugin before 4.19.3 does not sanitise and escape data before outputting it in the System Info admin dashboard, which could lead to a Stored XSS issue due to the wprss_dismiss_addon_notice AJAX action missing authorisation and CSRF checks, allowing any authenticated users, such as subscriber to call it and set a malicious payload in the addon parameter.
+- [Live-Hack-CVE/CVE-2021-24988](https://github.com/Live-Hack-CVE/CVE-2021-24988)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24988">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24988">
+
+---
+## CVE-2021-24977 (2022-02-28T09:15:00)
+> The Use Any Font | Custom Font Uploader WordPress plugin before 6.2.1 does not have any authorisation checks when assigning a font, allowing unauthenticated users to sent arbitrary CSS which will then be processed by the frontend for all users. Due to the lack of sanitisation and escaping in the backend, it could also lead to Stored XSS issues
+- [Live-Hack-CVE/CVE-2021-24977](https://github.com/Live-Hack-CVE/CVE-2021-24977)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24977">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24977">
+
+---
+## CVE-2021-24928 (2022-02-07T16:15:00)
+> The Rearrange Woocommerce Products WordPress plugin before 3.0.8 does not have proper access controls in the save_all_order AJAX action, nor validation and escaping when inserting user data in SQL statement, leading to an SQL injection, and allowing any authenticated user, such as subscriber, to modify arbitrary post content (for example with an XSS payload), as well as exfiltrate any data by copying it to another post.
+- [Live-Hack-CVE/CVE-2021-24928](https://github.com/Live-Hack-CVE/CVE-2021-24928)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24928">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24928">
+
+---
+## CVE-2021-24914 (2021-12-06T16:15:00)
+> The Tawk.To Live Chat WordPress plugin before 0.6.0 does not have capability and CSRF checks in the tawkto_setwidget and tawkto_removewidget AJAX actions, available to any authenticated user. The first one allows low-privileged users (including simple subscribers) to change the 'tawkto-embed-widget-page-id' and 'tawkto-embed-widget-widget-id' parameters. Any authenticated user can thus link the vulnerable website to their own Tawk.to instance. Consequently, they will be able to monitor the vulnerable website and interact with its visitors (receive contact messages, answer, ...). They will also be able to display an arbitrary Knowledge Base. The second one will remove the live chat widget from pages.
+- [Live-Hack-CVE/CVE-2021-24914](https://github.com/Live-Hack-CVE/CVE-2021-24914)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24914">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24914">
+
+---
+## CVE-2021-24842 (2021-11-29T09:15:00)
+> The Bulk Datetime Change WordPress plugin before 1.12 does not enforce capability checks which allows users with Contributor roles to 1) list private post titles of other users and 2) change the posted date of other users' posts.
+- [Live-Hack-CVE/CVE-2021-24842](https://github.com/Live-Hack-CVE/CVE-2021-24842)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24842">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24842">
+
+---
 ## CVE-2021-24822 (2021-11-29T09:15:00)
 > The Stylish Cost Calculator WordPress plugin before 7.0.4 does not have any authorisation and CSRF checks on some of its AJAX actions (available to authenticated users), which could allow any authenticated users, such as subscriber to call them, and perform Stored Cross-Site Scripting attacks against logged in admin, as well as frontend users due to the lack of sanitisation and escaping in some parameters
 - [Live-Hack-CVE/CVE-2021-24822](https://github.com/Live-Hack-CVE/CVE-2021-24822)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24822">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24822">
+
+---
+## CVE-2021-24790 (2021-12-13T11:15:00)
+> The Contact Form Advanced Database WordPress plugin through 1.0.8 does not have any authorisation as well as CSRF checks in its delete_cf7_data and export_cf7_data AJAX actions, available to any authenticated users, which could allow users with a role as low as subscriber to call them. The delete_cf7_data would lead to arbitrary metadata deletion, as well as PHP Object Injection if a suitable gadget chain is present in another plugin, as user data is passed to the maybe_unserialize() function without being first validated.
+- [Live-Hack-CVE/CVE-2021-24790](https://github.com/Live-Hack-CVE/CVE-2021-24790)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24790">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24790">
+
+---
+## CVE-2021-24779 (2021-10-25T14:15:00)
+> The WP Debugging WordPress plugin before 2.11.0 has its update_settings() function hooked to admin_init and is missing any authorisation and CSRF checks, as a result, the settings can be updated by unauthenticated users.
+- [Live-Hack-CVE/CVE-2021-24779](https://github.com/Live-Hack-CVE/CVE-2021-24779)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24779">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24779">
 
 ---
 ## CVE-2021-24761 (2022-02-01T13:15:00)
@@ -2549,6 +2634,11 @@
 ## CVE-2021-24728 (2021-09-13T18:15:00)
 > The Membership & Content Restriction – Paid Member Subscriptions WordPress plugin before 2.4.2 did not sanitise, validate or escape its order and orderby parameters before using them in SQL statement, leading to Authenticated SQL Injections in the Members and Payments pages.
 - [Live-Hack-CVE/CVE-2021-24728](https://github.com/Live-Hack-CVE/CVE-2021-24728)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24728">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24728">
+
+---
+## CVE-2021-24703 (2021-11-23T20:15:00)
+> The Download Plugin WordPress plugin before 1.6.1 does not have capability and CSRF checks in the dpwap_plugin_activate AJAX action, allowing any authenticated users, such as subscribers, to activate plugins that are already installed.
+- [Live-Hack-CVE/CVE-2021-24703](https://github.com/Live-Hack-CVE/CVE-2021-24703)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24703">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24703">
 
 ---
 ## CVE-2021-24695 (2021-11-08T18:15:00)
@@ -2650,6 +2740,11 @@
 ## CVE-2021-23215 (2021-06-08T12:15:00)
 > An integer overflow leading to a heap-buffer overflow was found in the DwaCompressor of OpenEXR in versions before 3.0.1. An attacker could use this flaw to crash an application compiled with OpenEXR.
 - [Live-Hack-CVE/CVE-2021-23215](https://github.com/Live-Hack-CVE/CVE-2021-23215)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23215">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23215">
+
+---
+## CVE-2021-23195 (2022-01-21T19:15:00)
+> Fresenius Kabi Vigilant Software Suite (Mastermed Dashboard) version 2.0.1.3 has the option for automated indexing (directory listing) activated. When accessing a directory, a web server delivers its entire content in HTML form. If an index file does not exist and directory listing is enabled, all content of the directory will be displayed, allowing an attacker to identify and access files on the server.
+- [Live-Hack-CVE/CVE-2021-23195](https://github.com/Live-Hack-CVE/CVE-2021-23195)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23195">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23195">
 
 ---
 ## CVE-2021-23177 (2022-08-23T16:15:00)
@@ -2828,6 +2923,11 @@
 - [Live-Hack-CVE/CVE-2021-21964](https://github.com/Live-Hack-CVE/CVE-2021-21964)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21964">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21964">
 
 ---
+## CVE-2021-21957 (2021-12-08T22:15:00)
+> A privilege escalation vulnerability exists in the Remote Server functionality of Dream Report ODS Remote Connector 20.2.16900.0. A specially-crafted command injection can lead to elevated capabilities. An attacker can provide a malicious file to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-21957](https://github.com/Live-Hack-CVE/CVE-2021-21957)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21957">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21957">
+
+---
 ## CVE-2021-21897 (2021-09-08T16:15:00)
 > A code execution vulnerability exists in the DL_Dxf::handleLWPolylineData functionality of Ribbonsoft dxflib 3.17.0. A specially-crafted .dxf file can lead to a heap buffer overflow. An attacker can provide a malicious file to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2021-21897](https://github.com/Live-Hack-CVE/CVE-2021-21897)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21897">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21897">
@@ -2861,6 +2961,16 @@
 ## CVE-2021-21707 (2021-11-29T07:15:00)
 > In PHP versions 7.3.x below 7.3.33, 7.4.x below 7.4.26 and 8.0.x below 8.0.13, certain XML parsing functions, like simplexml_load_file(), URL-decode the filename passed to them. If that filename contains URL-encoded NUL character, this may cause the function to interpret this as the end of the filename, thus interpreting the filename differently from what the user intended, which may lead it to reading a different file than intended.
 - [Live-Hack-CVE/CVE-2021-21707](https://github.com/Live-Hack-CVE/CVE-2021-21707)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21707">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21707">
+
+---
+## CVE-2021-21695 (2021-11-04T17:15:00)
+> FilePath#listFiles lists files outside directories that agents are allowed to access when following symbolic links in Jenkins 2.318 and earlier, LTS 2.303.2 and earlier.
+- [Live-Hack-CVE/CVE-2021-21695](https://github.com/Live-Hack-CVE/CVE-2021-21695)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21695">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21695">
+
+---
+## CVE-2021-21689 (2021-11-04T17:15:00)
+> FilePath#unzip and FilePath#untar were not subject to any agent-to-controller access control in Jenkins 2.318 and earlier, LTS 2.303.2 and earlier.
+- [Live-Hack-CVE/CVE-2021-21689](https://github.com/Live-Hack-CVE/CVE-2021-21689)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21689">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21689">
 
 ---
 ## CVE-2021-21679 (2021-08-31T14:15:00)
