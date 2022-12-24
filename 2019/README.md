@@ -10,6 +10,21 @@
 - [KTN1990/CVE-2019-9978](https://github.com/KTN1990/CVE-2019-9978)	<img alt="forks" src="https://img.shields.io/github/forks/KTN1990/CVE-2019-9978">	<img alt="stars" src="https://img.shields.io/github/stars/KTN1990/CVE-2019-9978">
 
 ---
+## CVE-2019-9855 (2019-09-06T19:15:00)
+> LibreOffice is typically bundled with LibreLogo, a programmable turtle vector graphics script, which can execute arbitrary python commands contained with the document it is launched from. LibreOffice also has a feature where documents can specify that pre-installed scripts can be executed on various document script events such as mouse-over, etc. Protection was added to block calling LibreLogo from script event handers. However a Windows 8.3 path equivalence handling flaw left LibreOffice vulnerable under Windows that a document could trigger executing LibreLogo via a Windows filename pseudonym. This issue affects: Document Foundation LibreOffice 6.2 versions prior to 6.2.7; 6.3 versions prior to 6.3.1.
+- [Live-Hack-CVE/CVE-2019-9855](https://github.com/Live-Hack-CVE/CVE-2019-9855)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9855">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9855">
+
+---
+## CVE-2019-9851 (2019-08-15T22:15:00)
+> LibreOffice is typically bundled with LibreLogo, a programmable turtle vector graphics script, which can execute arbitrary python commands contained with the document it is launched from. Protection was added, to address CVE-2019-9848, to block calling LibreLogo from document event script handers, e.g. mouse over. However LibreOffice also has a separate feature where documents can specify that pre-installed scripts can be executed on various global script events such as document-open, etc. In the fixed versions, global script event handlers are validated equivalently to document script event handlers. This issue affects: Document Foundation LibreOffice versions prior to 6.2.6.
+- [Live-Hack-CVE/CVE-2019-9851](https://github.com/Live-Hack-CVE/CVE-2019-9851)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9851">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9851">
+
+---
+## CVE-2019-9850 (2019-08-15T22:15:00)
+> LibreOffice is typically bundled with LibreLogo, a programmable turtle vector graphics script, which can execute arbitrary python commands contained with the document it is launched from. LibreOffice also has a feature where documents can specify that pre-installed scripts can be executed on various document script events such as mouse-over, etc. Protection was added, to address CVE-2019-9848, to block calling LibreLogo from script event handers. However an insufficient url validation vulnerability in LibreOffice allowed malicious to bypass that protection and again trigger calling LibreLogo from script event handlers. This issue affects: Document Foundation LibreOffice versions prior to 6.2.6.
+- [Live-Hack-CVE/CVE-2019-9850](https://github.com/Live-Hack-CVE/CVE-2019-9850)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9850">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9850">
+
+---
 ## CVE-2019-9766 (2019-03-14T09:29:00)
 > Stack-based buffer overflow in Free MP3 CD Ripper 2.6, when converting a file, allows user-assisted remote attackers to execute arbitrary code via a crafted .mp3 file.
 - [zeronohacker/CVE-2019-9766](https://github.com/zeronohacker/CVE-2019-9766)	<img alt="forks" src="https://img.shields.io/github/forks/zeronohacker/CVE-2019-9766">	<img alt="stars" src="https://img.shields.io/github/stars/zeronohacker/CVE-2019-9766">
@@ -39,6 +54,16 @@
 ## CVE-2019-8985 (2019-02-21T19:29:00)
 > On Netis WF2411 with firmware 2.1.36123 and other Netis WF2xxx devices (possibly WF2411 through WF2880), there is a stack-based buffer overflow that does not require authentication. This can cause denial of service (device restart) or remote code execution. This vulnerability can be triggered by a GET request with a long HTTP "Authorization: Basic" header that is mishandled by user_auth->user_ok in /bin/boa.
 - [Ler2sq/CVE-2019-8985](https://github.com/Ler2sq/CVE-2019-8985)	<img alt="forks" src="https://img.shields.io/github/forks/Ler2sq/CVE-2019-8985">	<img alt="stars" src="https://img.shields.io/github/stars/Ler2sq/CVE-2019-8985">
+
+---
+## CVE-2019-8292 (2019-10-01T20:15:00)
+> Online Store System v1.0 delete_product.php doesn't check to see if a user authtenticated or has administrative rights allowing arbitrary product deletion.
+- [Live-Hack-CVE/CVE-2019-8292](https://github.com/Live-Hack-CVE/CVE-2019-8292)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-8292">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-8292">
+
+---
+## CVE-2019-7672 (2019-06-05T19:29:00)
+> Prima Systems FlexAir, Versions 2.3.38 and prior. The flash version of the web interface contains a hard-coded username and password, which may allow an authenticated attacker to escalate privileges.
+- [Live-Hack-CVE/CVE-2019-7672](https://github.com/Live-Hack-CVE/CVE-2019-7672)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7672">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7672">
 
 ---
 ## CVE-2019-7671 (2019-06-05T19:29:00)
@@ -89,6 +114,31 @@
 ## CVE-2019-7213 (2019-04-24T15:29:00)
 > SmarterTools SmarterMail 16.x before build 6985 allows directory traversal. An authenticated user could delete arbitrary files or could create files in new folders in arbitrary locations on the mail server. This could lead to command execution on the server for instance by putting files inside the web directories.
 - [secunnix/CVE-2019-7213](https://github.com/secunnix/CVE-2019-7213)	<img alt="forks" src="https://img.shields.io/github/forks/secunnix/CVE-2019-7213">	<img alt="stars" src="https://img.shields.io/github/stars/secunnix/CVE-2019-7213">
+
+---
+## CVE-2019-6827 (2019-07-15T21:15:00)
+> A CWE-787: Out-of-bounds Write vulnerability exists in Interactive Graphical SCADA System (IGSS), Version 14 and prior, which could cause a software crash when data in the mdb database is manipulated.
+- [Live-Hack-CVE/CVE-2019-6827](https://github.com/Live-Hack-CVE/CVE-2019-6827)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6827">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6827">
+
+---
+## CVE-2019-6824 (2019-07-15T21:15:00)
+> A CWE-119: Buffer Errors vulnerability exists in ProClima (all versions prior to version 8.0.0) which allows an unauthenticated, remote attacker to execute arbitrary code on the targeted system in all versions of ProClima prior to version 8.0.0.
+- [Live-Hack-CVE/CVE-2019-6824](https://github.com/Live-Hack-CVE/CVE-2019-6824)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6824">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6824">
+
+---
+## CVE-2019-6823 (2019-07-15T21:15:00)
+> A CWE-94: Code Injection vulnerability exists in ProClima (all versions prior to version 8.0.0) which could allow an unauthenticated, remote attacker to execute arbitrary code on the targeted system in all versions of ProClima prior to version 8.0.0.
+- [Live-Hack-CVE/CVE-2019-6823](https://github.com/Live-Hack-CVE/CVE-2019-6823)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6823">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6823">
+
+---
+## CVE-2019-6822 (2019-07-15T21:15:00)
+> A Use After Free: CWE-416 vulnerability exists in Zelio Soft 2, V5.2 and earlier, which could cause remote code execution when opening a specially crafted Zelio Soft 2 project file.
+- [Live-Hack-CVE/CVE-2019-6822](https://github.com/Live-Hack-CVE/CVE-2019-6822)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6822">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6822">
+
+---
+## CVE-2019-6812 (2019-05-22T20:29:00)
+> A CWE-798 use of hardcoded credentials vulnerability exists in BMX-NOR-0200H with firmware versions prior to V1.7 IR 19 which could cause a confidentiality issue when using FTP protocol.
+- [Live-Hack-CVE/CVE-2019-6812](https://github.com/Live-Hack-CVE/CVE-2019-6812)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6812">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6812">
 
 ---
 ## CVE-2019-6706 (2019-01-23T19:29:00)
