@@ -152,6 +152,11 @@
 - [Exploitables/CVE-2021-44852](https://github.com/Exploitables/CVE-2021-44852)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2021-44852">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2021-44852">
 
 ---
+## CVE-2021-44759 (2022-03-23T14:15:00)
+> Improper Authentication vulnerability in TLS origin validation of Apache Traffic Server allows an attacker to create a man in the middle attack. This issue affects Apache Traffic Server 8.0.0 to 8.1.0.
+- [Live-Hack-CVE/CVE-2021-44759](https://github.com/Live-Hack-CVE/CVE-2021-44759)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44759">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44759">
+
+---
 ## CVE-2021-44731 (2022-02-17T23:15:00)
 > A race condition existed in the snapd 2.54.2 snap-confine binary when preparing a private mount namespace for a snap. This could allow a local attacker to gain root privileges by bind-mounting their own contents inside the snap's private mount namespace and causing snap-confine to execute arbitrary code and hence gain privilege escalation. Fixed in snapd versions 2.54.3+18.04, 2.54.3+20.04 and 2.54.3+21.10.1
 - [Live-Hack-CVE/CVE-2021-44731](https://github.com/Live-Hack-CVE/CVE-2021-44731)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44731">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44731">
@@ -176,6 +181,11 @@
 > When running Apache Cassandra with the following configuration: enable_user_defined_functions: true enable_scripted_user_defined_functions: true enable_user_defined_functions_threads: false it is possible for an attacker to execute arbitrary code on the host. The attacker would need to have enough permissions to create user defined functions in the cluster to be able to exploit this. Note that this configuration is documented as unsafe, and will continue to be considered unsafe after this CVE.
 - [Yeyvo/poc-CVE-2021-44521](https://github.com/Yeyvo/poc-CVE-2021-44521)	<img alt="forks" src="https://img.shields.io/github/forks/Yeyvo/poc-CVE-2021-44521">	<img alt="stars" src="https://img.shields.io/github/stars/Yeyvo/poc-CVE-2021-44521">
 - [WoodenKlaas/CVE-2021-44521](https://github.com/WoodenKlaas/CVE-2021-44521)	<img alt="forks" src="https://img.shields.io/github/forks/WoodenKlaas/CVE-2021-44521">	<img alt="stars" src="https://img.shields.io/github/stars/WoodenKlaas/CVE-2021-44521">
+
+---
+## CVE-2021-44444 (2021-12-14T12:15:00)
+> A vulnerability has been identified in JT Utilities (All versions < V13.1.1.0), JTTK (All versions < V11.1.1.0). JTTK library in affected products is vulnerable to an out of bounds read past the end of an allocated buffer when parsing specially crafted JT files. An attacker could leverage this vulnerability to leak information in the context of the current process. (ZDI-CAN-15052)
+- [Live-Hack-CVE/CVE-2021-44444](https://github.com/Live-Hack-CVE/CVE-2021-44444)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44444">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44444">
 
 ---
 ## CVE-2021-44228 (2021-12-10T10:15:00)
@@ -266,6 +276,11 @@
 > Zoho ManageEngine ServiceDesk Plus before 11306, ServiceDesk Plus MSP before 10530, and SupportCenter Plus before 11014 are vulnerable to unauthenticated remote code execution. This is related to /RestAPI URLs in a servlet, and ImportTechnicians in the Struts configuration.
 - [pizza-power/Golang-CVE-2021-44077-POC](https://github.com/pizza-power/Golang-CVE-2021-44077-POC)	<img alt="forks" src="https://img.shields.io/github/forks/pizza-power/Golang-CVE-2021-44077-POC">	<img alt="stars" src="https://img.shields.io/github/stars/pizza-power/Golang-CVE-2021-44077-POC">
 - [horizon3ai/CVE-2021-44077](https://github.com/horizon3ai/CVE-2021-44077)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2021-44077">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2021-44077">
+
+---
+## CVE-2021-44040 (2022-03-23T14:15:00)
+> Improper Input Validation vulnerability in request line parsing of Apache Traffic Server allows an attacker to send invalid requests. This issue affects Apache Traffic Server 8.0.0 to 8.1.3 and 9.0.0 to 9.1.1.
+- [Live-Hack-CVE/CVE-2021-44040](https://github.com/Live-Hack-CVE/CVE-2021-44040)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44040">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44040">
 
 ---
 ## CVE-2021-43990 (2022-04-20T16:15:00)
@@ -372,6 +387,11 @@
 - [kombat1/CVE-2021-43617](https://github.com/kombat1/CVE-2021-43617)	<img alt="forks" src="https://img.shields.io/github/forks/kombat1/CVE-2021-43617">	<img alt="stars" src="https://img.shields.io/github/stars/kombat1/CVE-2021-43617">
 
 ---
+## CVE-2021-43566 (2022-01-11T16:15:00)
+> All versions of Samba prior to 4.13.16 are vulnerable to a malicious client using an SMB1 or NFS race to allow a directory to be created in an area of the server file system not exported under the share definition. Note that SMB1 has to be enabled, or the share also available via NFS in order for this attack to succeed.
+- [Live-Hack-CVE/CVE-2021-43566](https://github.com/Live-Hack-CVE/CVE-2021-43566)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43566">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43566">
+
+---
 ## CVE-2021-43545 (2021-12-08T22:15:00)
 > Using the Location API in a loop could have caused severe application hangs and crashes. This vulnerability affects Thunderbird < 91.4.0, Firefox ESR < 91.4.0, and Firefox < 95.
 - [Live-Hack-CVE/CVE-2021-43545](https://github.com/Live-Hack-CVE/CVE-2021-43545)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43545">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43545">
@@ -466,6 +486,11 @@
 ## CVE-2021-42717 (2021-12-07T22:15:00)
 > ModSecurity 3.x through 3.0.5 mishandles excessively nested JSON objects. Crafted JSON objects with nesting tens-of-thousands deep could result in the web server being unable to service legitimate requests. Even a moderately large (e.g., 300KB) HTTP request can occupy one of the limited NGINX worker processes for minutes and consume almost all of the available CPU on the machine. Modsecurity 2 is similarly vulnerable: the affected versions include 2.8.0 through 2.9.4.
 - [EkamSinghWalia/Detection-and-Mitigation-script-for-CVE-2021-42717](https://github.com/EkamSinghWalia/Detection-and-Mitigation-script-for-CVE-2021-42717)	<img alt="forks" src="https://img.shields.io/github/forks/EkamSinghWalia/Detection-and-Mitigation-script-for-CVE-2021-42717">	<img alt="stars" src="https://img.shields.io/github/stars/EkamSinghWalia/Detection-and-Mitigation-script-for-CVE-2021-42717">
+
+---
+## CVE-2021-42704 (2022-05-18T17:15:00)
+> Inkscape version 0.91 is vulnerable to an out-of-bounds write, which may allow an attacker to arbitrary execute code.
+- [Live-Hack-CVE/CVE-2021-42704](https://github.com/Live-Hack-CVE/CVE-2021-42704)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42704">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42704">
 
 ---
 ## CVE-2021-42697 (2021-11-02T22:15:00)
@@ -883,6 +908,11 @@
 - [aydianosec/CVE2021-40444](https://github.com/aydianosec/CVE2021-40444)	<img alt="forks" src="https://img.shields.io/github/forks/aydianosec/CVE2021-40444">	<img alt="stars" src="https://img.shields.io/github/stars/aydianosec/CVE2021-40444">
 - [khoaduynu/CVE-2021-40444](https://github.com/khoaduynu/CVE-2021-40444)	<img alt="forks" src="https://img.shields.io/github/forks/khoaduynu/CVE-2021-40444">	<img alt="stars" src="https://img.shields.io/github/stars/khoaduynu/CVE-2021-40444">
 - [jamesrep/cve-2021-40444](https://github.com/jamesrep/cve-2021-40444)	<img alt="forks" src="https://img.shields.io/github/forks/jamesrep/cve-2021-40444">	<img alt="stars" src="https://img.shields.io/github/stars/jamesrep/cve-2021-40444">
+- [Live-Hack-CVE/CVE-2021-40444](https://github.com/Live-Hack-CVE/CVE-2021-40444)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40444">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40444">
+- [winstxnhdw/CVE-2022-30190](https://github.com/winstxnhdw/CVE-2022-30190)	<img alt="forks" src="https://img.shields.io/github/forks/winstxnhdw/CVE-2022-30190">	<img alt="stars" src="https://img.shields.io/github/stars/winstxnhdw/CVE-2022-30190">
+- [metehangenel/MSHTML-CVE-2021-40444](https://github.com/metehangenel/MSHTML-CVE-2021-40444)	<img alt="forks" src="https://img.shields.io/github/forks/metehangenel/MSHTML-CVE-2021-40444">	<img alt="stars" src="https://img.shields.io/github/stars/metehangenel/MSHTML-CVE-2021-40444">
+- [mansk1es/Caboom](https://github.com/mansk1es/Caboom)	<img alt="forks" src="https://img.shields.io/github/forks/mansk1es/Caboom">	<img alt="stars" src="https://img.shields.io/github/stars/mansk1es/Caboom">
+- [Udyz/CVE-2021-40444-Sample](https://github.com/Udyz/CVE-2021-40444-Sample)	<img alt="forks" src="https://img.shields.io/github/forks/Udyz/CVE-2021-40444-Sample">	<img alt="stars" src="https://img.shields.io/github/stars/Udyz/CVE-2021-40444-Sample">
 
 ---
 ## CVE-2021-40438 (2021-09-16T15:15:00)
@@ -1345,6 +1375,21 @@
 ## CVE-2021-3717 (2022-05-24T19:15:00)
 > A flaw was found in Wildfly. An incorrect JBOSS_LOCAL_USER challenge location when using the elytron configuration may lead to JBOSS_LOCAL_USER access to all users on the machine. The highest threat from this vulnerability is to confidentiality, integrity, and availability. This flaw affects wildfly-core versions prior to 17.0.
 - [Live-Hack-CVE/CVE-2021-3717](https://github.com/Live-Hack-CVE/CVE-2021-3717)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3717">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3717">
+
+---
+## CVE-2021-37149 (2021-11-03T16:15:00)
+> Improper Input Validation vulnerability in header parsing of Apache Traffic Server allows an attacker to smuggle requests. This issue affects Apache Traffic Server 8.0.0 to 8.1.2 and 9.0.0 to 9.1.0.
+- [Live-Hack-CVE/CVE-2021-37149](https://github.com/Live-Hack-CVE/CVE-2021-37149)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37149">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37149">
+
+---
+## CVE-2021-37148 (2021-11-03T16:15:00)
+> Improper input validation vulnerability in header parsing of Apache Traffic Server allows an attacker to smuggle requests. This issue affects Apache Traffic Server 8.0.0 to 8.1.2 and 9.0.0 to 9.0.1.
+- [Live-Hack-CVE/CVE-2021-37148](https://github.com/Live-Hack-CVE/CVE-2021-37148)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37148">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37148">
+
+---
+## CVE-2021-37147 (2021-11-03T16:15:00)
+> Improper input validation vulnerability in header parsing of Apache Traffic Server allows an attacker to smuggle requests. This issue affects Apache Traffic Server 8.0.0 to 8.1.2 and 9.0.0 to 9.1.0.
+- [Live-Hack-CVE/CVE-2021-37147](https://github.com/Live-Hack-CVE/CVE-2021-37147)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37147">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37147">
 
 ---
 ## CVE-2021-3707 (2021-08-16T05:15:00)
@@ -2577,6 +2622,16 @@
 - [zwclose/CVE-2021-26258](https://github.com/zwclose/CVE-2021-26258)	<img alt="forks" src="https://img.shields.io/github/forks/zwclose/CVE-2021-26258">	<img alt="stars" src="https://img.shields.io/github/stars/zwclose/CVE-2021-26258">
 
 ---
+## CVE-2021-26120 (2021-02-22T02:15:00)
+> Smarty before 3.1.39 allows code injection via an unexpected function name after a {function name= substring.
+- [Live-Hack-CVE/CVE-2021-26120](https://github.com/Live-Hack-CVE/CVE-2021-26120)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26120">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26120">
+
+---
+## CVE-2021-26119 (2021-02-22T02:15:00)
+> Smarty before 3.1.39 allows a Sandbox Escape because $smarty.template_object can be accessed in sandbox mode.
+- [Live-Hack-CVE/CVE-2021-26119](https://github.com/Live-Hack-CVE/CVE-2021-26119)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26119">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26119">
+
+---
 ## CVE-2021-26084 (2021-08-30T07:15:00)
 > In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.
 - [Vulnmachines/Confluence_CVE-2021-26084](https://github.com/Vulnmachines/Confluence_CVE-2021-26084)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/Confluence_CVE-2021-26084">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/Confluence_CVE-2021-26084">
@@ -3187,6 +3242,11 @@
 ## CVE-2021-21272 (2021-01-25T19:15:00)
 > ORAS is open source software which enables a way to push OCI Artifacts to OCI Conformant registries. ORAS is both a CLI for initial testing and a Go Module. In ORAS from version 0.4.0 and before version 0.9.0, there is a "zip-slip" vulnerability. The directory support feature allows the downloaded gzipped tarballs to be automatically extracted to the user-specified directory where the tarball can have symbolic links and hard links. A well-crafted tarball or tarballs allow malicious artifact providers linking, writing, or overwriting specific files on the host filesystem outside of the user-specified directory unexpectedly with the same permissions as the user who runs `oras pull`. Users of the affected versions are impacted if they are `oras` CLI users who runs `oras pull`, or if they are Go programs, which invoke `github.com/deislabs/oras/pkg/content.FileStore`. The problem has been fixed in version 0.9.0. For `oras` CLI users, there is no workarounds other than pulling from a trusted artifact provider. For `oras` package users, the workaround is to not use `github.com/deislabs/oras/pkg/content.FileStore`, and use other content stores instead, or pull from a trusted artifact provider.
 - [Live-Hack-CVE/CVE-2021-21272](https://github.com/Live-Hack-CVE/CVE-2021-21272)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21272">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21272">
+
+---
+## CVE-2021-21255 (2021-03-02T20:15:00)
+> GLPI is an open-source asset and IT management software package that provides ITIL Service Desk features, licenses tracking and software auditing. In GLPI version 9.5.3, it was possible to switch entities with IDOR from a logged in user. This is fixed in version 9.5.4.
+- [Live-Hack-CVE/CVE-2021-21255](https://github.com/Live-Hack-CVE/CVE-2021-21255)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21255">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21255">
 
 ---
 ## CVE-2021-21235 (2021-01-06T02:15:00)
