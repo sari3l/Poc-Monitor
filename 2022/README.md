@@ -3045,6 +3045,11 @@
 - [ReCryptLLC/CVE-2022-42045](https://github.com/ReCryptLLC/CVE-2022-42045)	<img alt="forks" src="https://img.shields.io/github/forks/ReCryptLLC/CVE-2022-42045">	<img alt="stars" src="https://img.shields.io/github/stars/ReCryptLLC/CVE-2022-42045">
 
 ---
+## CVE-2022-42029 (2022-10-17T18:15:00)
+> Chamilo 1.11.16 is affected by an authenticated local file inclusion vulnerability which allows authenticated users with access to 'big file uploads' to copy/move files from anywhere in the file system into the web directory.
+- [Live-Hack-CVE/CVE-2022-42029](https://github.com/Live-Hack-CVE/CVE-2022-42029)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42029">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42029">
+
+---
 ## CVE-2022-41994 (2022-12-07T04:15:00)
 > Stored cross-site scripting vulnerability in Permission Settings of baserCMS versions prior to 4.7.2 allows a remote authenticated attacker with an administrative privilege to inject an arbitrary script.
 - [Live-Hack-CVE/CVE-2022-41994](https://github.com/Live-Hack-CVE/CVE-2022-41994)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41994">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41994">
@@ -3559,6 +3564,36 @@
 ## CVE-2022-41315 (2022-11-17T23:15:00)
 > Auth. Stored Cross-Site Scripting (XSS) vulnerability in Ezoic plugin <= 2.8.8 on WordPress.
 - [Live-Hack-CVE/CVE-2022-41315](https://github.com/Live-Hack-CVE/CVE-2022-41315)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41315">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41315">
+
+---
+## CVE-2022-41308 (2022-10-14T17:15:00)
+> A maliciously crafted PKT file when consumed through SubassemblyComposer.exe application could lead to memory corruption vulnerability by read access violation. This vulnerability in conjunction with other vulnerabilities could lead to code execution in the context of the current process.
+- [Live-Hack-CVE/CVE-2022-41308](https://github.com/Live-Hack-CVE/CVE-2022-41308)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41308">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41308">
+
+---
+## CVE-2022-41307 (2022-10-14T17:15:00)
+> A maliciously crafted PKT file when consumed through SubassemblyComposer.exe application could lead to memory corruption vulnerability by read access violation. This vulnerability in conjunction with other vulnerabilities could lead to code execution in the context of the current process.
+- [Live-Hack-CVE/CVE-2022-41307](https://github.com/Live-Hack-CVE/CVE-2022-41307)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41307">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41307">
+
+---
+## CVE-2022-41306 (2022-10-14T17:15:00)
+> A maliciously crafted PCT file when consumed through DesignReview.exe application could lead to memory corruption vulnerability by write access violation. This vulnerability in conjunction with other vulnerabilities could lead to code execution in the context of the current process.
+- [Live-Hack-CVE/CVE-2022-41306](https://github.com/Live-Hack-CVE/CVE-2022-41306)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41306">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41306">
+
+---
+## CVE-2022-41304 (2022-10-14T17:15:00)
+> An Out-Of-Bounds Write Vulnerability in Autodesk FBX SDK 2020 version and prior may lead to code execution through maliciously crafted FBX files or information disclosure.
+- [Live-Hack-CVE/CVE-2022-41304](https://github.com/Live-Hack-CVE/CVE-2022-41304)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41304">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41304">
+
+---
+## CVE-2022-41303 (2022-10-14T17:15:00)
+> A user may be tricked into opening a malicious FBX file which may exploit a use-after-free vulnerability in Autodesk FBX SDK 2020 version causing the application to reference a memory location controlled by an unauthorized third party, thereby running arbitrary code on the system.
+- [Live-Hack-CVE/CVE-2022-41303](https://github.com/Live-Hack-CVE/CVE-2022-41303)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41303">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41303">
+
+---
+## CVE-2022-41302 (2022-10-14T17:15:00)
+> An Out-Of-Bounds Read Vulnerability in Autodesk FBX SDK version 2020. and prior may lead to code execution or information disclosure through maliciously crafted FBX files. This vulnerability in conjunction with other vulnerabilities could lead to code execution in the context of the current process.
+- [Live-Hack-CVE/CVE-2022-41302](https://github.com/Live-Hack-CVE/CVE-2022-41302)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41302">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41302">
 
 ---
 ## CVE-2022-41288 (2022-12-13T16:15:00)
@@ -4202,6 +4237,11 @@
 ## CVE-2022-40607 (2022-12-19T20:15:00)
 > IBM Spectrum Scale 5.1 could allow users with permissions to create pod, persistent volume and persistent volume claim to access files and directories outside of the volume, including on the host filesystem. IBM X-Force ID: 235740.
 - [Live-Hack-CVE/CVE-2022-40607](https://github.com/Live-Hack-CVE/CVE-2022-40607)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40607">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40607">
+
+---
+## CVE-2022-40605 (2022-10-17T20:15:00)
+> MITRE CALDERA before 4.1.0 allows XSS in the Operations tab and/or Debrief plugin via a crafted operation name, a different vulnerability than CVE-2022-40606.
+- [Live-Hack-CVE/CVE-2022-40605](https://github.com/Live-Hack-CVE/CVE-2022-40605)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40605">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40605">
 
 ---
 ## CVE-2022-40603 (2022-12-06T02:15:00)
@@ -6418,6 +6458,12 @@
 - [Live-Hack-CVE/CVE-2022-35710](https://github.com/Live-Hack-CVE/CVE-2022-35710)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35710">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35710">
 
 ---
+## CVE-2022-35698 (2022-10-14T20:15:00)
+> Adobe Commerce versions 2.4.4-p1 (and earlier) and 2.4.5 (and earlier) are affected by a Stored Cross-site Scripting vulnerability. Exploitation of this issue does not require user interaction and could result in a post-authentication arbitrary code execution.
+- [Live-Hack-CVE/CVE-2022-35698](https://github.com/Live-Hack-CVE/CVE-2022-35698)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35698">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35698">
+- [EmicoEcommerce/Magento-APSB22-48-Security-Patches](https://github.com/EmicoEcommerce/Magento-APSB22-48-Security-Patches)	<img alt="forks" src="https://img.shields.io/github/forks/EmicoEcommerce/Magento-APSB22-48-Security-Patches">	<img alt="stars" src="https://img.shields.io/github/stars/EmicoEcommerce/Magento-APSB22-48-Security-Patches">
+
+---
 ## CVE-2022-35695 (2022-12-19T20:15:00)
 > Adobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.
 - [Live-Hack-CVE/CVE-2022-35695](https://github.com/Live-Hack-CVE/CVE-2022-35695)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35695">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35695">
@@ -6426,6 +6472,21 @@
 ## CVE-2022-35693 (2022-12-19T20:15:00)
 > Adobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.
 - [Live-Hack-CVE/CVE-2022-35693](https://github.com/Live-Hack-CVE/CVE-2022-35693)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35693">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35693">
+
+---
+## CVE-2022-35691 (2022-10-14T20:15:00)
+> Adobe Acrobat Reader versions 22.002.20212 (and earlier) and 20.005.30381 (and earlier) are affected by a NULL Pointer Dereference vulnerability. An unauthenticated attacker could leverage this vulnerability to achieve an application denial-of-service in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2022-35691](https://github.com/Live-Hack-CVE/CVE-2022-35691)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35691">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35691">
+
+---
+## CVE-2022-35690 (2022-10-14T20:15:00)
+> Adobe ColdFusion versions Update 14 (and earlier) and Update 4 (and earlier) are affected by a Stack-based Buffer Overflow vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue does not require user interaction, the vulnerability is triggered when a crafted network packet is sent to the server.
+- [Live-Hack-CVE/CVE-2022-35690](https://github.com/Live-Hack-CVE/CVE-2022-35690)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35690">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35690">
+
+---
+## CVE-2022-35689 (2022-10-14T20:15:00)
+> Adobe Commerce versions 2.4.4-p1 (and earlier) and 2.4.5 (and earlier) are affected by an Improper Access Control vulnerability that could result in a Security feature bypass. An attacker could leverage this vulnerability to impact the availability of a user's minor feature. Exploitation of this issue does not require user interaction.
+- [Live-Hack-CVE/CVE-2022-35689](https://github.com/Live-Hack-CVE/CVE-2022-35689)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35689">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35689">
 
 ---
 ## CVE-2022-3567 (2022-10-17T19:15:00)
@@ -6474,9 +6535,24 @@
 - [Live-Hack-CVE/CVE-2022-35500](https://github.com/Live-Hack-CVE/CVE-2022-35500)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35500">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35500">
 
 ---
+## CVE-2022-3549 (2022-10-17T12:15:00)
+> A vulnerability was found in SourceCodester Simple Cold Storage Management System 1.0. It has been rated as problematic. This issue affects some unknown processing of the file /csms/admin/?page=user/manage_user of the component Avatar Handler. The manipulation leads to unrestricted upload. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-211049 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-3549](https://github.com/Live-Hack-CVE/CVE-2022-3549)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3549">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3549">
+
+---
+## CVE-2022-3548 (2022-10-17T12:15:00)
+> A vulnerability was found in SourceCodester Simple Cold Storage Management System 1.0. It has been declared as problematic. This vulnerability affects unknown code of the component Add New Storage Handler. The manipulation of the argument Name leads to cross site scripting. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-211048.
+- [Live-Hack-CVE/CVE-2022-3548](https://github.com/Live-Hack-CVE/CVE-2022-3548)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3548">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3548">
+
+---
 ## CVE-2022-3546 (2022-10-17T12:15:00)
 > A vulnerability was found in SourceCodester Simple Cold Storage Management System 1.0 and classified as problematic. Affected by this issue is some unknown functionality of the file /csms/admin/?page=user/list of the component Create User Handler. The manipulation of the argument First Name/Last Name leads to cross site scripting. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. VDB-211046 is the identifier assigned to this vulnerability.
 - [thehackingverse/CVE-2022-3546](https://github.com/thehackingverse/CVE-2022-3546)	<img alt="forks" src="https://img.shields.io/github/forks/thehackingverse/CVE-2022-3546">	<img alt="stars" src="https://img.shields.io/github/stars/thehackingverse/CVE-2022-3546">
+
+---
+## CVE-2022-3543 (2022-10-17T12:15:00)
+> A vulnerability, which was classified as problematic, has been found in Linux Kernel. This issue affects the function unix_sock_destructor/unix_release_sock of the file net/unix/af_unix.c of the component BPF. The manipulation leads to memory leak. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-211043.
+- [Live-Hack-CVE/CVE-2022-3543](https://github.com/Live-Hack-CVE/CVE-2022-3543)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3543">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3543">
 
 ---
 ## CVE-2022-35416 (2022-07-11T03:15:00)
@@ -6487,6 +6563,11 @@
 ## CVE-2022-35411 (2022-07-08T19:15:00)
 > rpc.py through 0.6.0 allows Remote Code Execution because an unpickle occurs when the "serializer: pickle" HTTP header is sent. In other words, although JSON (not Pickle) is the default data format, an unauthenticated client can cause the data to be processed with unpickle.
 - [Live-Hack-CVE/CVE-2022-35411](https://github.com/Live-Hack-CVE/CVE-2022-35411)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35411">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35411">
+
+---
+## CVE-2022-3541 (2022-10-17T12:15:00)
+> A vulnerability classified as critical has been found in Linux Kernel. This affects the function spl2sw_nvmem_get_mac_address of the file drivers/net/ethernet/sunplus/spl2sw_driver.c of the component BPF. The manipulation leads to use after free. It is recommended to apply a patch to fix this issue. The identifier VDB-211041 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-3541](https://github.com/Live-Hack-CVE/CVE-2022-3541)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3541">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3541">
 
 ---
 ## CVE-2022-35407 (2022-11-22T02:15:00)
@@ -7552,6 +7633,11 @@
 - [Live-Hack-CVE/CVE-2022-3166](https://github.com/Live-Hack-CVE/CVE-2022-3166)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3166">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3166">
 
 ---
+## CVE-2022-31651 (2022-05-25T23:15:00)
+> In SoX 14.4.2, there is an assertion failure in rate_init in rate.c in libsox.a.
+- [Live-Hack-CVE/CVE-2022-31651](https://github.com/Live-Hack-CVE/CVE-2022-31651)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31651">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31651">
+
+---
 ## CVE-2022-31649 (2022-06-09T04:15:00)
 > ownCloud owncloud/core before 10.10.0 Improperly Removes Sensitive Information Before Storage or Transfer.
 - [Live-Hack-CVE/CVE-2022-31649](https://github.com/Live-Hack-CVE/CVE-2022-31649)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31649">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31649">
@@ -7925,6 +8011,21 @@
 ## CVE-2022-3082 (2022-10-17T12:15:00)
 > The miniOrange Discord Integration WordPress plugin before 2.1.6 does not have authorisation and CSRF in some of its AJAX actions, allowing any logged in users, such as subscriber to call them, and disable the app for example
 - [Live-Hack-CVE/CVE-2022-3082](https://github.com/Live-Hack-CVE/CVE-2022-3082)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3082">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3082">
+
+---
+## CVE-2022-30787 (2022-05-26T16:15:00)
+> An integer underflow in fuse_lib_readdir enables arbitrary memory read operations in NTFS-3G through 2021.8.22 when using libfuse-lite.
+- [Live-Hack-CVE/CVE-2022-30787](https://github.com/Live-Hack-CVE/CVE-2022-30787)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30787">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30787">
+
+---
+## CVE-2022-30785 (2022-05-26T16:15:00)
+> A file handle created in fuse_lib_opendir, and later used in fuse_lib_readdir, enables arbitrary memory read and write operations in NTFS-3G through 2021.8.22 when using libfuse-lite.
+- [Live-Hack-CVE/CVE-2022-30785](https://github.com/Live-Hack-CVE/CVE-2022-30785)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30785">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30785">
+
+---
+## CVE-2022-30783 (2022-05-26T16:15:00)
+> An invalid return code in fuse_kern_mount enables intercepting of libfuse-lite protocol traffic between NTFS-3G and the kernel in NTFS-3G through 2021.8.22 when using libfuse-lite.
+- [Live-Hack-CVE/CVE-2022-30783](https://github.com/Live-Hack-CVE/CVE-2022-30783)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30783">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30783">
 
 ---
 ## CVE-2022-30780 (2022-06-11T15:15:00)
@@ -8856,6 +8957,7 @@
 ## CVE-2022-27438 (2022-06-06T23:15:00)
 > Caphyon Ltd Advanced Installer 19.3 and earlier and many products that use the updater from Advanced Installer (Advanced Updater) are affected by a remote code execution vulnerability via the CustomDetection parameter in the update check function. To exploit this vulnerability, a user must start an affected installation to trigger the update check.
 - [gerr-re/cve-2022-27438](https://github.com/gerr-re/cve-2022-27438)	<img alt="forks" src="https://img.shields.io/github/forks/gerr-re/cve-2022-27438">	<img alt="stars" src="https://img.shields.io/github/stars/gerr-re/cve-2022-27438">
+- [Live-Hack-CVE/CVE-2022-27438](https://github.com/Live-Hack-CVE/CVE-2022-27438)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27438">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27438">
 
 ---
 ## CVE-2022-27418 (2022-04-12T20:15:00)
@@ -9019,6 +9121,11 @@
 - [Live-Hack-CVE/CVE-2022-26704](https://github.com/Live-Hack-CVE/CVE-2022-26704)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26704">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26704">
 
 ---
+## CVE-2022-26691 (2022-05-26T18:15:00)
+> A logic issue was addressed with improved state management. This issue is fixed in Security Update 2022-003 Catalina, macOS Monterey 12.3, macOS Big Sur 11.6.5. An application may be able to gain elevated privileges.
+- [Live-Hack-CVE/CVE-2022-26691](https://github.com/Live-Hack-CVE/CVE-2022-26691)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26691">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26691">
+
+---
 ## CVE-2022-26653 (2022-04-16T16:15:00)
 > Zoho ManageEngine Remote Access Plus before 10.1.2137.15 allows guest users to view domain details (such as the username and GUID of an administrator).
 - [Live-Hack-CVE/CVE-2022-26653](https://github.com/Live-Hack-CVE/CVE-2022-26653)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26653">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26653">
@@ -9082,6 +9189,11 @@
 - [veritas501/CVE-2022-2639-PipeVersion](https://github.com/veritas501/CVE-2022-2639-PipeVersion)	<img alt="forks" src="https://img.shields.io/github/forks/veritas501/CVE-2022-2639-PipeVersion">	<img alt="stars" src="https://img.shields.io/github/stars/veritas501/CVE-2022-2639-PipeVersion">
 - [avboy1337/CVE-2022-2639-PipeVersion](https://github.com/avboy1337/CVE-2022-2639-PipeVersion)	<img alt="forks" src="https://img.shields.io/github/forks/avboy1337/CVE-2022-2639-PipeVersion">	<img alt="stars" src="https://img.shields.io/github/stars/avboy1337/CVE-2022-2639-PipeVersion">
 - [EkamSinghWalia/Detection-and-Mitigation-for-CVE-2022-2639](https://github.com/EkamSinghWalia/Detection-and-Mitigation-for-CVE-2022-2639)	<img alt="forks" src="https://img.shields.io/github/forks/EkamSinghWalia/Detection-and-Mitigation-for-CVE-2022-2639">	<img alt="stars" src="https://img.shields.io/github/stars/EkamSinghWalia/Detection-and-Mitigation-for-CVE-2022-2639">
+
+---
+## CVE-2022-26375 (2022-10-17T18:15:00)
+> Auth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Mammothology AB Press Optimizer plugin <= 1.1.1 on WordPress.
+- [Live-Hack-CVE/CVE-2022-26375](https://github.com/Live-Hack-CVE/CVE-2022-26375)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26375">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26375">
 
 ---
 ## CVE-2022-26354 (2022-03-16T15:15:00)
@@ -11431,6 +11543,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-1353](https://github.com/Live-Hack-CVE/CVE-2022-1353)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1353">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1353">
 
 ---
+## CVE-2022-1348 (2022-05-25T16:15:00)
+> A vulnerability was found in logrotate in how the state file is created. The state file is used to prevent parallel executions of multiple instances of logrotate by acquiring and releasing a file lock. When the state file does not exist, it is created with world-readable permission, allowing an unprivileged user to lock the state file, stopping any rotation. This flaw affects logrotate versions before 3.20.0.
+- [Live-Hack-CVE/CVE-2022-1348](https://github.com/Live-Hack-CVE/CVE-2022-1348)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1348">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1348">
+
+---
 ## CVE-2022-1292 (2022-05-03T16:15:00)
 > The c_rehash script does not properly sanitise shell metacharacters to prevent command injection. This script is distributed by some operating systems in a manner where it is automatically executed. On such operating systems, an attacker could execute arbitrary commands with the privileges of the script. Use of the c_rehash script is considered obsolete and should be replaced by the OpenSSL rehash command line tool. Fixed in OpenSSL 3.0.3 (Affected 3.0.0,3.0.1,3.0.2). Fixed in OpenSSL 1.1.1o (Affected 1.1.1-1.1.1n). Fixed in OpenSSL 1.0.2ze (Affected 1.0.2-1.0.2zd).
 - [alcaparra/CVE-2022-1292](https://github.com/alcaparra/CVE-2022-1292)	<img alt="forks" src="https://img.shields.io/github/forks/alcaparra/CVE-2022-1292">	<img alt="stars" src="https://img.shields.io/github/stars/alcaparra/CVE-2022-1292">
@@ -11785,6 +11902,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-0729](https://github.com/Live-Hack-CVE/CVE-2022-0729)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0729">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0729">
 
 ---
+## CVE-2022-0699 (2022-10-17T16:15:00)
+> A double-free condition exists in contrib/shpsort.c of shapelib 1.5.0 and older releases. This issue may allow an attacker to cause a denial of service or have other unspecified impact via control over malloc.
+- [Live-Hack-CVE/CVE-2022-0699](https://github.com/Live-Hack-CVE/CVE-2022-0699)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0699">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0699">
+
+---
 ## CVE-2022-0698 (2022-11-25T18:15:00)
 > Microweber version 1.3.1 allows an unauthenticated user to perform an account takeover via an XSS on the 'select-file' parameter.
 - [Live-Hack-CVE/CVE-2022-0698](https://github.com/Live-Hack-CVE/CVE-2022-0698)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0698">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0698">
@@ -11820,6 +11942,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [z92g/CVE-2022-0543](https://github.com/z92g/CVE-2022-0543)	<img alt="forks" src="https://img.shields.io/github/forks/z92g/CVE-2022-0543">	<img alt="stars" src="https://img.shields.io/github/stars/z92g/CVE-2022-0543">
 - [aodsec/CVE-2022-0543](https://github.com/aodsec/CVE-2022-0543)	<img alt="forks" src="https://img.shields.io/github/forks/aodsec/CVE-2022-0543">	<img alt="stars" src="https://img.shields.io/github/stars/aodsec/CVE-2022-0543">
 - [JacobEbben/CVE-2022-0543](https://github.com/JacobEbben/CVE-2022-0543)	<img alt="forks" src="https://img.shields.io/github/forks/JacobEbben/CVE-2022-0543">	<img alt="stars" src="https://img.shields.io/github/stars/JacobEbben/CVE-2022-0543">
+
+---
+## CVE-2022-0494 (2022-03-25T19:15:00)
+> A kernel information leak flaw was identified in the scsi_ioctl function in drivers/scsi/scsi_ioctl.c in the Linux kernel. This flaw allows a local attacker with a special user privilege (CAP_SYS_ADMIN or CAP_SYS_RAWIO) to create issues with confidentiality.
+- [Live-Hack-CVE/CVE-2022-0494](https://github.com/Live-Hack-CVE/CVE-2022-0494)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0494">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0494">
 
 ---
 ## CVE-2022-0492 (2022-03-03T19:15:00)
