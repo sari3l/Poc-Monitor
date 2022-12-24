@@ -31,6 +31,11 @@
 - [moonheadobj/CVE-2019-9766](https://github.com/moonheadobj/CVE-2019-9766)	<img alt="forks" src="https://img.shields.io/github/forks/moonheadobj/CVE-2019-9766">	<img alt="stars" src="https://img.shields.io/github/stars/moonheadobj/CVE-2019-9766">
 
 ---
+## CVE-2019-9721 (2019-03-12T09:29:00)
+> A denial of service in the subtitle decoder in FFmpeg 3.2 and 4.1 allows attackers to hog the CPU via a crafted video file in Matroska format, because handle_open_brace in libavcodec/htmlsubtitles.c has a complex format argument to sscanf.
+- [Live-Hack-CVE/CVE-2019-9721](https://github.com/Live-Hack-CVE/CVE-2019-9721)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9721">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9721">
+
+---
 ## CVE-2019-9592 (2019-03-06T16:29:00)
 > A reflected Cross-site scripting (XSS) vulnerability in ShoreTel Connect ONSITE 19.45.1602.0 allows remote attackers to inject arbitrary web script or HTML via the url parameter.
 - [Live-Hack-CVE/CVE-2019-9592](https://github.com/Live-Hack-CVE/CVE-2019-9592)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9592">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9592">
@@ -645,6 +650,11 @@
 - [Live-Hack-CVE/CVE-2019-3886](https://github.com/Live-Hack-CVE/CVE-2019-3886)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-3886">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-3886">
 
 ---
+## CVE-2019-3865 (2020-06-22T19:15:00)
+> A vulnerability was found in quay-2, where a stored XSS vulnerability has been found in the super user function of quay. Attackers are able to use the name field of service key to inject scripts and make it run when admin users try to change the name.
+- [Live-Hack-CVE/CVE-2019-3865](https://github.com/Live-Hack-CVE/CVE-2019-3865)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-3865">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-3865">
+
+---
 ## CVE-2019-3692 (2020-01-24T09:15:00)
 > The packaging of inn on SUSE Linux Enterprise Server 11; openSUSE Factory, Leap 15.1 allows local attackers to escalate from user inn to root via symlink attacks. This issue affects: SUSE Linux Enterprise Server 11 inn version 2.4.2-170.21.3.1 and prior versions. openSUSE Factory inn version 2.6.2-2.2 and prior versions. openSUSE Leap 15.1 inn version 2.5.4-lp151.2.47 and prior versions.
 - [Live-Hack-CVE/CVE-2019-3692](https://github.com/Live-Hack-CVE/CVE-2019-3692)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-3692">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-3692">
@@ -922,6 +932,11 @@
 - [Live-Hack-CVE/CVE-2019-17060](https://github.com/Live-Hack-CVE/CVE-2019-17060)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17060">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17060">
 
 ---
+## CVE-2019-17052 (2019-10-01T14:15:00)
+> ax25_create in net/ax25/af_ax25.c in the AF_AX25 network module in the Linux kernel 3.16 through 5.3.2 does not enforce CAP_NET_RAW, which means that unprivileged users can create a raw socket, aka CID-0614e2b73768.
+- [Live-Hack-CVE/CVE-2019-17052](https://github.com/Live-Hack-CVE/CVE-2019-17052)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17052">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17052">
+
+---
 ## CVE-2019-17026 (2020-03-02T05:15:00)
 > Incorrect alias information in IonMonkey JIT compiler for setting array elements could lead to a type confusion. We are aware of targeted attacks in the wild abusing this flaw. This vulnerability affects Firefox ESR < 68.4.1, Thunderbird < 68.4.1, and Firefox < 72.0.1.
 - [Live-Hack-CVE/CVE-2019-17026](https://github.com/Live-Hack-CVE/CVE-2019-17026)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17026">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17026">
@@ -940,6 +955,11 @@
 ## CVE-2019-16278 (2019-10-14T17:15:00)
 > Directory Traversal in the function http_verify in nostromo nhttpd through 1.9.6 allows an attacker to achieve remote code execution via a crafted HTTP request.
 - [keshiba/cve-2019-16278](https://github.com/keshiba/cve-2019-16278)	<img alt="forks" src="https://img.shields.io/github/forks/keshiba/cve-2019-16278">	<img alt="stars" src="https://img.shields.io/github/stars/keshiba/cve-2019-16278">
+
+---
+## CVE-2019-16223 (2019-09-11T14:15:00)
+> WordPress before 5.2.3 allows XSS in post previews by authenticated users.
+- [Live-Hack-CVE/CVE-2019-16223](https://github.com/Live-Hack-CVE/CVE-2019-16223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16223">
 
 ---
 ## CVE-2019-16167 (2019-09-09T17:15:00)

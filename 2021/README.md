@@ -56,6 +56,11 @@
 - [xanszZZ/SDT_CW3B1_rce](https://github.com/xanszZZ/SDT_CW3B1_rce)	<img alt="forks" src="https://img.shields.io/github/forks/xanszZZ/SDT_CW3B1_rce">	<img alt="stars" src="https://img.shields.io/github/stars/xanszZZ/SDT_CW3B1_rce">
 
 ---
+## CVE-2021-46167 (2022-04-13T15:15:00)
+> An access control issue in the authentication module of wizplat PD065 v1.19 allows attackers to access sensitive data and cause a Denial of Service (DoS).
+- [Live-Hack-CVE/CVE-2021-46167](https://github.com/Live-Hack-CVE/CVE-2021-46167)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46167">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46167">
+
+---
 ## CVE-2021-45948 (2022-01-01T00:15:00)
 > Open Asset Import Library (aka assimp) 5.1.0 and 5.1.1 has a heap-based buffer overflow in _m3d_safestr (called from m3d_load and Assimp::M3DWrapper::M3DWrapper).
 - [Live-Hack-CVE/CVE-2021-45948](https://github.com/Live-Hack-CVE/CVE-2021-45948)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45948">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45948">

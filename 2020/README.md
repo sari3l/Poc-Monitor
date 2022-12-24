@@ -343,6 +343,11 @@
 - [Live-Hack-CVE/CVE-2020-7616](https://github.com/Live-Hack-CVE/CVE-2020-7616)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7616">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7616">
 
 ---
+## CVE-2020-7478 (2020-03-23T20:15:00)
+> A CWE-22: Improper Limitation of a Pathname to a Restricted Directory exists in IGSS (Versions 14 and prior using the service: IGSSupdate), which could allow a remote unauthenticated attacker to read arbitrary files from the IGSS server PC on an unrestricted or shared network when the IGSS Update Service is enabled.
+- [Live-Hack-CVE/CVE-2020-7478](https://github.com/Live-Hack-CVE/CVE-2020-7478)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7478">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7478">
+
+---
 ## CVE-2020-7473 (2020-05-07T14:15:00)
 > In certain situations, all versions of Citrix ShareFile StorageZones (aka storage zones) Controller, including the most recent 5.10.x releases as of May 2020, allow unauthenticated attackers to access the documents and folders of ShareFile users. NOTE: unlike most CVEs, exploitability depends on the product version that was in use when a particular setup step was performed, NOT the product version that is in use during a current assessment of a CVE consumer's product inventory. Specifically, the vulnerability can be exploited if a storage zone was created by one of these product versions: 5.9.0, 5.8.0, 5.7.0, 5.6.0, 5.5.0, or earlier. This CVE differs from CVE-2020-8982 and CVE-2020-8983 but has essentially the same risk.
 - [DimitriNL/CTX-CVE-2020-7473](https://github.com/DimitriNL/CTX-CVE-2020-7473)	<img alt="forks" src="https://img.shields.io/github/forks/DimitriNL/CTX-CVE-2020-7473">	<img alt="stars" src="https://img.shields.io/github/stars/DimitriNL/CTX-CVE-2020-7473">
@@ -374,6 +379,46 @@
 > Type confusion in V8 in Google Chrome prior to 83.0.4103.61 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
 - [kiks7/CVE-2020-6468-Chrome-Exploit](https://github.com/kiks7/CVE-2020-6468-Chrome-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/kiks7/CVE-2020-6468-Chrome-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/kiks7/CVE-2020-6468-Chrome-Exploit">
 - [Goyotan/CVE-2020-6468-PoC](https://github.com/Goyotan/CVE-2020-6468-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Goyotan/CVE-2020-6468-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Goyotan/CVE-2020-6468-PoC">
+
+---
+## CVE-2020-6456 (2020-04-13T18:15:00)
+> Insufficient validation of untrusted input in clipboard in Google Chrome prior to 81.0.4044.92 allowed a local attacker to bypass site isolation via crafted clipboard contents.
+- [Live-Hack-CVE/CVE-2020-6456](https://github.com/Live-Hack-CVE/CVE-2020-6456)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6456">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6456">
+
+---
+## CVE-2020-6455 (2020-04-13T18:15:00)
+> Out of bounds read in WebSQL in Google Chrome prior to 81.0.4044.92 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2020-6455](https://github.com/Live-Hack-CVE/CVE-2020-6455)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6455">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6455">
+
+---
+## CVE-2020-6452 (2020-04-13T18:15:00)
+> Heap buffer overflow in media in Google Chrome prior to 80.0.3987.162 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2020-6452](https://github.com/Live-Hack-CVE/CVE-2020-6452)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6452">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6452">
+
+---
+## CVE-2020-6446 (2020-04-13T18:15:00)
+> Insufficient policy enforcement in trusted types in Google Chrome prior to 81.0.4044.92 allowed a remote attacker to bypass content security policy via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2020-6446](https://github.com/Live-Hack-CVE/CVE-2020-6446)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6446">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6446">
+
+---
+## CVE-2020-6445 (2020-04-13T18:15:00)
+> Insufficient policy enforcement in trusted types in Google Chrome prior to 81.0.4044.92 allowed a remote attacker to bypass content security policy via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2020-6445](https://github.com/Live-Hack-CVE/CVE-2020-6445)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6445">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6445">
+
+---
+## CVE-2020-6443 (2020-04-13T18:15:00)
+> Insufficient data validation in developer tools in Google Chrome prior to 81.0.4044.92 allowed a remote attacker who had convinced the user to use devtools to execute arbitrary code via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2020-6443](https://github.com/Live-Hack-CVE/CVE-2020-6443)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6443">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6443">
+
+---
+## CVE-2020-6442 (2020-04-13T18:15:00)
+> Inappropriate implementation in cache in Google Chrome prior to 81.0.4044.92 allowed a remote attacker to leak cross-origin data via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2020-6442](https://github.com/Live-Hack-CVE/CVE-2020-6442)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6442">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6442">
+
+---
+## CVE-2020-6441 (2020-04-13T18:15:00)
+> Insufficient policy enforcement in omnibox in Google Chrome prior to 81.0.4044.92 allowed a remote attacker to bypass security UI via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2020-6441](https://github.com/Live-Hack-CVE/CVE-2020-6441)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6441">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6441">
 
 ---
 ## CVE-2020-6425 (2020-03-23T16:15:00)
@@ -470,6 +515,17 @@
 > IBM WebSphere Application Server 7.0, 8.0, 8.5, and 9.0 traditional could allow a remote attacker to execute arbitrary code on a system with a specially-crafted sequence of serialized objects over the SOAP connector. IBM X-Force ID: 181489.
 - [yonggui-li/CVE-2020-4464-and-CVE-2020-4450](https://github.com/yonggui-li/CVE-2020-4464-and-CVE-2020-4450)	<img alt="forks" src="https://img.shields.io/github/forks/yonggui-li/CVE-2020-4464-and-CVE-2020-4450">	<img alt="stars" src="https://img.shields.io/github/stars/yonggui-li/CVE-2020-4464-and-CVE-2020-4450">
 - [silentsignal/WebSphere-WSIF-gadget](https://github.com/silentsignal/WebSphere-WSIF-gadget)	<img alt="forks" src="https://img.shields.io/github/forks/silentsignal/WebSphere-WSIF-gadget">	<img alt="stars" src="https://img.shields.io/github/stars/silentsignal/WebSphere-WSIF-gadget">
+
+---
+## CVE-2020-4041 (2020-06-08T22:15:00)
+> In Bolt CMS before version 3.7.1, the filename of uploaded files was vulnerable to stored XSS. It is not possible to inject javascript code in the file name when creating/uploading the file. But, once created/uploaded, it can be renamed to inject the payload in it. Additionally, the measures to prevent renaming the file to disallowed filename extensions could be circumvented. This is fixed in Bolt 3.7.1.
+- [Live-Hack-CVE/CVE-2020-4041](https://github.com/Live-Hack-CVE/CVE-2020-4041)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-4041">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-4041">
+
+---
+## CVE-2020-4040 (2020-06-08T22:15:00)
+> Bolt CMS before version 3.7.1 lacked CSRF protection in the preview generating endpoint. Previews are intended to be generated by the admins, developers, chief-editors, and editors, who are authorized to create content in the application. But due to lack of proper CSRF protection, unauthorized users could generate a preview. This has been fixed in Bolt 3.7.1
+- [Live-Hack-CVE/CVE-2020-4040](https://github.com/Live-Hack-CVE/CVE-2020-4040)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-4040">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-4040">
+- [jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041](https://github.com/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041)	<img alt="forks" src="https://img.shields.io/github/forks/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041">	<img alt="stars" src="https://img.shields.io/github/stars/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041">
 
 ---
 ## CVE-2020-36625 (2022-12-22T10:15:00)
@@ -1262,6 +1318,16 @@
 - [Deepak983/CVE-2020-19586](https://github.com/Deepak983/CVE-2020-19586)	<img alt="forks" src="https://img.shields.io/github/forks/Deepak983/CVE-2020-19586">	<img alt="stars" src="https://img.shields.io/github/stars/Deepak983/CVE-2020-19586">
 
 ---
+## CVE-2020-1951 (2020-03-23T14:15:00)
+> A carefully crafted or corrupt PSD file can cause an infinite loop in Apache Tika's PSDParser in versions 1.0-1.23.
+- [Live-Hack-CVE/CVE-2020-1951](https://github.com/Live-Hack-CVE/CVE-2020-1951)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1951">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1951">
+
+---
+## CVE-2020-1950 (2020-03-23T14:15:00)
+> A carefully crafted or corrupt PSD file can cause excessive memory usage in Apache Tika's PSDParser in versions 1.0-1.23.
+- [Live-Hack-CVE/CVE-2020-1950](https://github.com/Live-Hack-CVE/CVE-2020-1950)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1950">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1950">
+
+---
 ## CVE-2020-1938 (2020-02-24T22:15:00)
 > When using the Apache JServ Protocol (AJP), care must be taken when trusting incoming connections to Apache Tomcat. Tomcat treats AJP connections as having higher trust than, for example, a similar HTTP connection. If such connections are available to an attacker, they can be exploited in ways that may be surprising. In Apache Tomcat 9.0.0.M1 to 9.0.0.30, 8.5.0 to 8.5.50 and 7.0.0 to 7.0.99, Tomcat shipped with an AJP Connector enabled by default that listened on all configured IP addresses. It was expected (and recommended in the security guide) that this Connector would be disabled if not required. This vulnerability report identified a mechanism that allowed: - returning arbitrary files from anywhere in the web application - processing any file in the web application as a JSP Further, if the web application allowed file upload and stored those files within the web application (or the attacker was able to control the content of the web application by some other means) then this, along with the ability to process a file as a JSP, made remote code execution possible. It is important to note that mitigation is only required if an AJP port is accessible to untrusted users. Users wishing to take a defence-in-depth approach and block the vector that permits returning arbitrary files and execution as JSP may upgrade to Apache Tomcat 9.0.31, 8.5.51 or 7.0.100 or later. A number of changes were made to the default AJP Connector configuration in 9.0.31 to harden the default configuration. It is likely that users upgrading to 9.0.31, 8.5.51 or 7.0.100 or later will need to make small changes to their configurations.
 - [YounesTasra-R4z3rSw0rd/CVE-2020-1938](https://github.com/YounesTasra-R4z3rSw0rd/CVE-2020-1938)	<img alt="forks" src="https://img.shields.io/github/forks/YounesTasra-R4z3rSw0rd/CVE-2020-1938">	<img alt="stars" src="https://img.shields.io/github/stars/YounesTasra-R4z3rSw0rd/CVE-2020-1938">
@@ -1517,9 +1583,19 @@
 - [yaunsky/CVE-2020-13937](https://github.com/yaunsky/CVE-2020-13937)	<img alt="forks" src="https://img.shields.io/github/forks/yaunsky/CVE-2020-13937">	<img alt="stars" src="https://img.shields.io/github/stars/yaunsky/CVE-2020-13937">
 
 ---
+## CVE-2020-13904 (2020-06-07T19:15:00)
+> FFmpeg 2.8 and 4.2.3 has a use-after-free via a crafted EXTINF duration in an m3u8 file because parse_playlist in libavformat/hls.c frees a pointer, and later that pointer is accessed in av_probe_input_format3 in libavformat/format.c.
+- [Live-Hack-CVE/CVE-2020-13904](https://github.com/Live-Hack-CVE/CVE-2020-13904)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13904">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13904">
+
+---
 ## CVE-2020-13882 (2020-06-18T18:15:00)
 > CISOfy Lynis before 3.0.0 has Incorrect Access Control because of a TOCTOU race condition. The routine to check the log and report file permissions was not working as intended and could be bypassed locally. Because of the race, an unprivileged attacker can set up a log and report file, and control that up to the point where the specific routine is doing its check. After that, the file can be removed, recreated, and used for additional attacks.
 - [Live-Hack-CVE/CVE-2020-13882](https://github.com/Live-Hack-CVE/CVE-2020-13882)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13882">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13882">
+
+---
+## CVE-2020-13765 (2020-06-04T16:15:00)
+> rom_copy() in hw/core/loader.c in QEMU 4.0 and 4.1.0 does not validate the relationship between two addresses, which allows attackers to trigger an invalid memory copy operation.
+- [Live-Hack-CVE/CVE-2020-13765](https://github.com/Live-Hack-CVE/CVE-2020-13765)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13765">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13765">
 
 ---
 ## CVE-2020-13659 (2020-06-02T13:15:00)
@@ -1530,6 +1606,16 @@
 ## CVE-2020-13614 (2020-05-26T23:15:00)
 > An issue was discovered in ssl.c in Axel before 2.17.8. The TLS implementation lacks hostname verification.
 - [Live-Hack-CVE/CVE-2020-13614](https://github.com/Live-Hack-CVE/CVE-2020-13614)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13614">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13614">
+
+---
+## CVE-2020-13383 (2020-07-01T15:15:00)
+> openSIS through 7.4 allows Directory Traversal.
+- [Live-Hack-CVE/CVE-2020-13383](https://github.com/Live-Hack-CVE/CVE-2020-13383)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13383">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13383">
+
+---
+## CVE-2020-13381 (2020-07-01T15:15:00)
+> openSIS through 7.4 allows SQL Injection.
+- [Live-Hack-CVE/CVE-2020-13381](https://github.com/Live-Hack-CVE/CVE-2020-13381)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13381">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13381">
 
 ---
 ## CVE-2020-13249 (2020-05-20T19:15:00)
@@ -1700,6 +1786,11 @@
 > An issue was discovered in Open Source Social Network (OSSN) through 5.3. A user-controlled file path with a weak cryptographic rand() can be used to read any file with the permissions of the webserver. This can lead to further compromise. The attacker must conduct a brute-force attack against the SiteKey to insert into a crafted URL for components/OssnComments/ossn_com.php and/or libraries/ossn.lib.upgrade.php.
 - [kevthehermit/CVE-2020-10560](https://github.com/kevthehermit/CVE-2020-10560)	<img alt="forks" src="https://img.shields.io/github/forks/kevthehermit/CVE-2020-10560">	<img alt="stars" src="https://img.shields.io/github/stars/kevthehermit/CVE-2020-10560">
 - [LucidUnicorn/CVE-2020-10560-Key-Recovery](https://github.com/LucidUnicorn/CVE-2020-10560-Key-Recovery)	<img alt="forks" src="https://img.shields.io/github/forks/LucidUnicorn/CVE-2020-10560-Key-Recovery">	<img alt="stars" src="https://img.shields.io/github/stars/LucidUnicorn/CVE-2020-10560-Key-Recovery">
+
+---
+## CVE-2020-10381 (2020-04-14T17:15:00)
+> An issue was discovered in the MB CONNECT LINE mymbCONNECT24 and mbCONNECT24 software in all versions through 2.5.0. There is an unauthenticated SQL injection in DATA24, allowing attackers to discover database and table names.
+- [Live-Hack-CVE/CVE-2020-10381](https://github.com/Live-Hack-CVE/CVE-2020-10381)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10381">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10381">
 
 ---
 ## CVE-2020-1034 (2020-09-11T17:15:00)

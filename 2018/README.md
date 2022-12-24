@@ -330,6 +330,21 @@
 - [Live-Hack-CVE/CVE-2018-17954](https://github.com/Live-Hack-CVE/CVE-2018-17954)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-17954">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-17954">
 
 ---
+## CVE-2018-17825 (2018-10-01T08:29:00)
+> An issue was discovered in AdPlug 2.3.1. There are several double-free vulnerabilities in the CEmuopl class in emuopl.cpp because of a destructor's two OPLDestroy calls, each of which frees TL_TABLE, SIN_TABLE, AMS_TABLE, and VIB_TABLE.
+- [Live-Hack-CVE/CVE-2018-17825](https://github.com/Live-Hack-CVE/CVE-2018-17825)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-17825">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-17825">
+
+---
+## CVE-2018-16878 (2019-04-18T18:29:00)
+> A flaw was found in pacemaker up to and including version 2.0.1. An insufficient verification inflicted preference of uncontrolled processes can lead to DoS
+- [Live-Hack-CVE/CVE-2018-16878](https://github.com/Live-Hack-CVE/CVE-2018-16878)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-16878">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-16878">
+
+---
+## CVE-2018-16877 (2019-04-18T18:29:00)
+> A flaw was found in the way pacemaker's client-server authentication was implemented in versions up to and including 2.0.0. A local attacker could use this flaw, and combine it with other IPC weaknesses, to achieve local privilege escalation.
+- [Live-Hack-CVE/CVE-2018-16877](https://github.com/Live-Hack-CVE/CVE-2018-16877)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-16877">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-16877">
+
+---
 ## CVE-2018-16858 (2019-03-25T18:29:00)
 > It was found that libreoffice before versions 6.0.7 and 6.1.3 was vulnerable to a directory traversal attack which could be used to execute arbitrary macros bundled with a document. An attacker could craft a document, which when opened by LibreOffice, would execute a Python method from a script in any arbitrary file system location, specified relative to the LibreOffice install location.
 - [bantu2301/CVE-2018-16858](https://github.com/bantu2301/CVE-2018-16858)	<img alt="forks" src="https://img.shields.io/github/forks/bantu2301/CVE-2018-16858">	<img alt="stars" src="https://img.shields.io/github/stars/bantu2301/CVE-2018-16858">
@@ -450,6 +465,16 @@
 ## CVE-2018-13405 (2018-07-06T14:29:00)
 > The inode_init_owner function in fs/inode.c in the Linux kernel through 3.16 allows local users to create files with an unintended group ownership, in a scenario where a directory is SGID to a certain group and is writable by a user who is not a member of that group. Here, the non-member can trigger creation of a plain file whose group ownership is that group. The intended behavior was that the non-member can trigger creation of a directory (but not a plain file) whose group ownership is that group. The non-member can escalate privileges by making the plain file executable and SGID.
 - [nidhi7598/linux-3.0.35_CVE-2018-13405](https://github.com/nidhi7598/linux-3.0.35_CVE-2018-13405)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-3.0.35_CVE-2018-13405">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-3.0.35_CVE-2018-13405">
+
+---
+## CVE-2018-13099 (2018-07-03T10:29:00)
+> An issue was discovered in fs/f2fs/inline.c in the Linux kernel through 4.4. A denial of service (out-of-bounds memory access and BUG) can occur for a modified f2fs filesystem image in which an inline inode contains an invalid reserved blkaddr.
+- [Live-Hack-CVE/CVE-2018-13099](https://github.com/Live-Hack-CVE/CVE-2018-13099)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-13099">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-13099">
+
+---
+## CVE-2018-13096 (2018-07-03T10:29:00)
+> An issue was discovered in fs/f2fs/super.c in the Linux kernel through 4.14. A denial of service (out-of-bounds memory access and BUG) can occur upon encountering an abnormal bitmap size when mounting a crafted f2fs image.
+- [Live-Hack-CVE/CVE-2018-13096](https://github.com/Live-Hack-CVE/CVE-2018-13096)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-13096">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-13096">
 
 ---
 ## CVE-2018-1285 (2020-05-11T17:15:00)

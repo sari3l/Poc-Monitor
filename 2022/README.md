@@ -9413,6 +9413,11 @@
 - [Chocapikk/CVE-2022-29455](https://github.com/Chocapikk/CVE-2022-29455)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2022-29455">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2022-29455">
 
 ---
+## CVE-2022-29429 (2022-05-17T19:15:00)
+> Remote Code Execution (RCE) in Alexander Stokmann's Code Snippets Extended plugin <= 1.4.7 on WordPress via Cross-Site Request Forgery.
+- [Live-Hack-CVE/CVE-2022-29429](https://github.com/Live-Hack-CVE/CVE-2022-29429)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29429">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29429">
+
+---
 ## CVE-2022-29303 (2022-05-12T16:15:00)
 > SolarView Compact ver.6.00 was discovered to contain a command injection vulnerability via conf_mail.php.
 - [trhacknon/CVE-2022-29303-Exploit](https://github.com/trhacknon/CVE-2022-29303-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-29303-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-29303-Exploit">
@@ -10160,6 +10165,11 @@
 ## CVE-2022-26353 (2022-03-16T15:15:00)
 > A flaw was found in the virtio-net device of QEMU. This flaw was inadvertently introduced with the fix for CVE-2021-3748, which forgot to unmap the cached virtqueue elements on error, leading to memory leakage and other unexpected results. Affected QEMU version: 6.2.0.
 - [Live-Hack-CVE/CVE-2022-26353](https://github.com/Live-Hack-CVE/CVE-2022-26353)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26353">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26353">
+
+---
+## CVE-2022-26291 (2022-03-28T22:15:00)
+> lrzip v0.641 was discovered to contain a multiple concurrency use-after-free between the functions zpaq_decompress_buf() and clear_rulist(). This vulnerability allows attackers to cause a Denial of Service (DoS) via a crafted Irz file.
+- [Live-Hack-CVE/CVE-2022-26291](https://github.com/Live-Hack-CVE/CVE-2022-26291)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26291">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26291">
 
 ---
 ## CVE-2022-26269 (2022-03-29T01:15:00)
