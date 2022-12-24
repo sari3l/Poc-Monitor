@@ -1259,6 +1259,7 @@
 - [Aiminsun/CVE-2021-36260](https://github.com/Aiminsun/CVE-2021-36260)	<img alt="forks" src="https://img.shields.io/github/forks/Aiminsun/CVE-2021-36260">	<img alt="stars" src="https://img.shields.io/github/stars/Aiminsun/CVE-2021-36260">
 - [TakenoSite/Simple-CVE-2021-36260](https://github.com/TakenoSite/Simple-CVE-2021-36260)	<img alt="forks" src="https://img.shields.io/github/forks/TakenoSite/Simple-CVE-2021-36260">	<img alt="stars" src="https://img.shields.io/github/stars/TakenoSite/Simple-CVE-2021-36260">
 - [TakenoSite/RemoteUploader-CVE-2021-36260](https://github.com/TakenoSite/RemoteUploader-CVE-2021-36260)	<img alt="forks" src="https://img.shields.io/github/forks/TakenoSite/RemoteUploader-CVE-2021-36260">	<img alt="stars" src="https://img.shields.io/github/stars/TakenoSite/RemoteUploader-CVE-2021-36260">
+- [Live-Hack-CVE/CVE-2021-36260](https://github.com/Live-Hack-CVE/CVE-2021-36260)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36260">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36260">
 
 ---
 ## CVE-2021-3623 (2022-03-02T23:15:00)
@@ -1657,6 +1658,11 @@
 - [timb-machine-mirrors/cve-2021-3060.py](https://github.com/timb-machine-mirrors/cve-2021-3060.py)	<img alt="forks" src="https://img.shields.io/github/forks/timb-machine-mirrors/cve-2021-3060.py">	<img alt="stars" src="https://img.shields.io/github/stars/timb-machine-mirrors/cve-2021-3060.py">
 
 ---
+## CVE-2021-30560 (2021-08-03T19:15:00)
+> Use after free in Blink XSLT in Google Chrome prior to 91.0.4472.164 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2021-30560](https://github.com/Live-Hack-CVE/CVE-2021-30560)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30560">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30560">
+
+---
 ## CVE-2021-30498 (2021-05-26T22:15:00)
 > A flaw was found in libcaca. A heap buffer overflow in export.c in function export_tga might lead to memory corruption and other potential consequences.
 - [Live-Hack-CVE/CVE-2021-30498](https://github.com/Live-Hack-CVE/CVE-2021-30498)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30498">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30498">
@@ -1777,6 +1783,12 @@
 ## CVE-2021-28700 (2021-08-27T19:15:00)
 > xen/arm: No memory limit for dom0less domUs The dom0less feature allows an administrator to create multiple unprivileged domains directly from Xen. Unfortunately, the memory limit from them is not set. This allow a domain to allocate memory beyond what an administrator originally configured.
 - [Live-Hack-CVE/CVE-2021-28700](https://github.com/Live-Hack-CVE/CVE-2021-28700)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28700">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28700">
+
+---
+## CVE-2021-28664 (2021-05-10T15:15:00)
+> The Arm Mali GPU kernel driver allows privilege escalation or a denial of service (memory corruption) because an unprivileged user can achieve read/write access to read-only pages. This affects Bifrost r0p0 through r29p0 before r30p0, Valhall r19p0 through r29p0 before r30p0, and Midgard r8p0 through r30p0 before r31p0.
+- [Live-Hack-CVE/CVE-2021-28664](https://github.com/Live-Hack-CVE/CVE-2021-28664)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28664">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28664">
+- [TAKIANFIF/CVE-2021-1905-CVE-2021-1906-CVE-2021-28663-CVE-2021-28664](https://github.com/TAKIANFIF/CVE-2021-1905-CVE-2021-1906-CVE-2021-28663-CVE-2021-28664)	<img alt="forks" src="https://img.shields.io/github/forks/TAKIANFIF/CVE-2021-1905-CVE-2021-1906-CVE-2021-28663-CVE-2021-28664">	<img alt="stars" src="https://img.shields.io/github/stars/TAKIANFIF/CVE-2021-1905-CVE-2021-1906-CVE-2021-28663-CVE-2021-28664">
 
 ---
 ## CVE-2021-28655 (2022-12-16T13:15:00)
@@ -2055,6 +2067,11 @@
 - [Live-Hack-CVE/CVE-2021-25121](https://github.com/Live-Hack-CVE/CVE-2021-25121)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25121">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25121">
 
 ---
+## CVE-2021-25118 (2022-02-28T09:15:00)
+> The Yoast SEO WordPress plugin (from versions 16.7 until 17.2) discloses the full internal path of featured images in posts via the wp/v2/posts REST endpoints which could help an attacker identify other vulnerabilities or help during the exploitation of other identified vulnerabilities.
+- [Live-Hack-CVE/CVE-2021-25118](https://github.com/Live-Hack-CVE/CVE-2021-25118)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25118">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25118">
+
+---
 ## CVE-2021-25095 (2022-02-07T16:15:00)
 > The IP2Location Country Blocker WordPress plugin before 2.26.5 does not have authorisation and CSRF checks in the ip2location_country_blocker_save_rules AJAX action, allowing any authenticated users, such as subscriber to call it and block arbitrary country, or block all of them at once, preventing users from accessing the frontend.
 - [Live-Hack-CVE/CVE-2021-25095](https://github.com/Live-Hack-CVE/CVE-2021-25095)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25095">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25095">
@@ -2076,6 +2093,11 @@
 > The WPCargo Track & Trace WordPress plugin before 6.9.0 contains a file which could allow unauthenticated attackers to write a PHP file anywhere on the web server, leading to RCE
 - [biulove0x/CVE-2021-25003](https://github.com/biulove0x/CVE-2021-25003)	<img alt="forks" src="https://img.shields.io/github/forks/biulove0x/CVE-2021-25003">	<img alt="stars" src="https://img.shields.io/github/stars/biulove0x/CVE-2021-25003">
 - [trhacknon/CVE-2021-25003](https://github.com/trhacknon/CVE-2021-25003)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2021-25003">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2021-25003">
+
+---
+## CVE-2021-25002 (2022-05-02T16:15:00)
+> The Tipsacarrier WordPress plugin before 1.5.0.5 does not have any authorisation check in place some functions, which could allow unauthenticated users to access Orders data which could be used to retrieve the client full address, name and phone via tracking URL
+- [Live-Hack-CVE/CVE-2021-25002](https://github.com/Live-Hack-CVE/CVE-2021-25002)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25002">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25002">
 
 ---
 ## CVE-2021-24822 (2021-11-29T09:15:00)
@@ -2439,6 +2461,11 @@
 ## CVE-2021-20077 (2021-03-19T19:15:00)
 > Nessus Agent versions 7.2.0 through 8.2.2 were found to inadvertently capture the IAM role security token on the local host during initial linking of the Nessus Agent when installed on an Amazon EC2 instance. This could allow a privileged attacker to obtain the token.
 - [Live-Hack-CVE/CVE-2021-20077](https://github.com/Live-Hack-CVE/CVE-2021-20077)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20077">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20077">
+
+---
+## CVE-2021-20066 (2021-02-16T20:15:00)
+> JSDom improperly allows the loading of local resources, which allows for local files to be manipulated by a malicious web page when script execution is enabled.
+- [Live-Hack-CVE/CVE-2021-20066](https://github.com/Live-Hack-CVE/CVE-2021-20066)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20066">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20066">
 
 ---
 ## CVE-2021-20038 (2021-12-08T10:15:00)
