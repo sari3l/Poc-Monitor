@@ -9089,6 +9089,7 @@
 ## CVE-2022-3135 (2022-09-26T13:15:00)
 > The SEO Smart Links WordPress plugin through 3.0.1 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup)
 - [Live-Hack-CVE/CVE-2022-3135](https://github.com/Live-Hack-CVE/CVE-2022-3135)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3135">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3135">
+- [Live-Hack-CVE/CVE-2022-31358](https://github.com/Live-Hack-CVE/CVE-2022-31358)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31358">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31358">
 
 ---
 ## CVE-2022-31325 (2022-06-08T16:15:00)
