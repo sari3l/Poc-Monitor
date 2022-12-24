@@ -163,6 +163,11 @@
 - [Live-Hack-CVE/CVE-2018-4919](https://github.com/Live-Hack-CVE/CVE-2018-4919)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-4919">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-4919">
 
 ---
+## CVE-2018-4832 (2018-04-24T17:29:00)
+> A vulnerability has been identified in OpenPCS 7 V7.1 and earlier (All versions), OpenPCS 7 V8.0 (All versions), OpenPCS 7 V8.1 (All versions < V8.1 Upd5), OpenPCS 7 V8.2 (All versions), OpenPCS 7 V9.0 (All versions < V9.0 Upd1), SIMATIC BATCH V7.1 and earlier (All versions), SIMATIC BATCH V8.0 (All versions < V8.0 SP1 Upd21), SIMATIC BATCH V8.1 (All versions < V8.1 SP1 Upd16), SIMATIC BATCH V8.2 (All versions < V8.2 Upd10), SIMATIC BATCH V9.0 (All versions < V9.0 SP1), SIMATIC NET PC Software V14 (All versions < V14 SP1 Update 14), SIMATIC NET PC Software V15 (All versions < 15 SP1), SIMATIC PCS 7 V7.1 and earlier (All versions), SIMATIC PCS 7 V8.0 (All versions), SIMATIC PCS 7 V8.1 (All versions), SIMATIC PCS 7 V8.2 (All versions < V8.2 SP1), SIMATIC PCS 7 V9.0 (All versions < V9.0 SP1), SIMATIC Route Control V7.1 and earlier (All versions), SIMATIC Route Control V8.0 (All versions), SIMATIC Route Control V8.1 (All versions), SIMATIC Route Control V8.2 (All versions), SIMATIC Route Control V9.0 (All versions < V9.0 Upd1), SIMATIC WinCC Runtime Professional V13 (All versions < V13 SP2 Upd2), SIMATIC WinCC Runtime Professional V14 (All versions < V14 SP1 Upd5), SIMATIC WinCC V7.2 and earlier (All versions < WinCC 7.2 Upd 15), SIMATIC WinCC V7.3 (All versions < WinCC 7.3 Upd 16), SIMATIC WinCC V7.4 (All versions < V7.4 SP1 Upd 4), SPPA-T3000 Application Server (All versions < Service Pack R8.2 SP2). Specially crafted messages sent to the RPC service of the affected products could cause a Denial-of-Service condition on the remote and local communication functionality of the affected products. A reboot of the system is required to recover the remote and local communication functionality. Please note that an attacker needs to have network access to the Application Server in order to exploit this vulnerability. At the time of advisory publication no public exploitation of this security vulnerability was known.
+- [Live-Hack-CVE/CVE-2018-4832](https://github.com/Live-Hack-CVE/CVE-2018-4832)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-4832">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-4832">
+
+---
 ## CVE-2018-3990 (2019-02-05T23:29:00)
 > An exploitable pool corruption vulnerability exists in the 0x8200E804 IOCTL handler functionality of WIBU-SYSTEMS WibuKey.sys Version 6.40 (Build 2400). A specially crafted IRP request can cause a buffer overflow, resulting in kernel memory corruption and, potentially, privilege escalation. An attacker can send an IRP request to trigger this vulnerability.
 - [Exploitables/CVE-2018-3990-TALOS-2018-0658](https://github.com/Exploitables/CVE-2018-3990-TALOS-2018-0658)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2018-3990-TALOS-2018-0658">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2018-3990-TALOS-2018-0658">
@@ -338,6 +343,11 @@
 ## CVE-2018-17825 (2018-10-01T08:29:00)
 > An issue was discovered in AdPlug 2.3.1. There are several double-free vulnerabilities in the CEmuopl class in emuopl.cpp because of a destructor's two OPLDestroy calls, each of which frees TL_TABLE, SIN_TABLE, AMS_TABLE, and VIB_TABLE.
 - [Live-Hack-CVE/CVE-2018-17825](https://github.com/Live-Hack-CVE/CVE-2018-17825)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-17825">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-17825">
+
+---
+## CVE-2018-16881 (2019-01-25T18:29:00)
+> A denial of service vulnerability was found in rsyslog in the imptcp module. An attacker could send a specially crafted message to the imptcp socket, which would cause rsyslog to crash. Versions before 8.27.0 are vulnerable.
+- [Live-Hack-CVE/CVE-2018-16881](https://github.com/Live-Hack-CVE/CVE-2018-16881)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-16881">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-16881">
 
 ---
 ## CVE-2018-16878 (2019-04-18T18:29:00)

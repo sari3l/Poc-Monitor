@@ -618,6 +618,31 @@
 - [ybdegit2020/wonderplugin](https://github.com/ybdegit2020/wonderplugin)	<img alt="forks" src="https://img.shields.io/github/forks/ybdegit2020/wonderplugin">	<img alt="stars" src="https://img.shields.io/github/stars/ybdegit2020/wonderplugin">
 
 ---
+## CVE-2020-35169 (2022-07-11T20:15:00)
+> Dell BSAFE Crypto-C Micro Edition, versions before 4.1.5, and Dell BSAFE Micro Edition Suite, versions before 4.5.2, contain an Improper Input Validation Vulnerability.
+- [Live-Hack-CVE/CVE-2020-35169](https://github.com/Live-Hack-CVE/CVE-2020-35169)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35169">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35169">
+
+---
+## CVE-2020-35168 (2022-07-11T20:15:00)
+> Dell BSAFE Crypto-C Micro Edition, versions before 4.1.5, and Dell BSAFE Micro Edition Suite, versions before 4.6, contain an Observable Timing Discrepancy Vulnerability.
+- [Live-Hack-CVE/CVE-2020-35168](https://github.com/Live-Hack-CVE/CVE-2020-35168)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35168">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35168">
+
+---
+## CVE-2020-35167 (2022-07-11T20:15:00)
+> Dell BSAFE Crypto-C Micro Edition, versions before 4.1.5, and Dell BSAFE Micro Edition Suite, versions before 4.6, contain an Observable Timing Discrepancy Vulnerability.
+- [Live-Hack-CVE/CVE-2020-35167](https://github.com/Live-Hack-CVE/CVE-2020-35167)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35167">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35167">
+
+---
+## CVE-2020-35166 (2022-07-11T20:15:00)
+> Dell BSAFE Crypto-C Micro Edition, versions before 4.1.5, and Dell BSAFE Micro Edition Suite, versions before 4.6, contain an Observable Timing Discrepancy Vulnerability.
+- [Live-Hack-CVE/CVE-2020-35166](https://github.com/Live-Hack-CVE/CVE-2020-35166)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35166">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35166">
+
+---
+## CVE-2020-35164 (2022-07-11T20:15:00)
+> Dell BSAFE Crypto-C Micro Edition, versions before 4.1.5, and Dell BSAFE Micro Edition Suite, versions before 4.6, contain an Observable Timing Discrepancy Vulnerability.
+- [Live-Hack-CVE/CVE-2020-35164](https://github.com/Live-Hack-CVE/CVE-2020-35164)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35164">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35164">
+
+---
 ## CVE-2020-35163 (2022-07-11T20:15:00)
 > Dell BSAFE Crypto-C Micro Edition, versions before 4.1.5, and Dell BSAFE Micro Edition Suite, versions before 4.6, contain a Use of Insufficiently Random Values Vulnerability.
 - [Live-Hack-CVE/CVE-2020-35163](https://github.com/Live-Hack-CVE/CVE-2020-35163)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35163">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35163">
@@ -1671,6 +1696,11 @@
 ## CVE-2020-12966 (2022-02-04T23:15:00)
 > AMD EPYC™ Processors contain an information disclosure vulnerability in the Secure Encrypted Virtualization with Encrypted State (SEV-ES) and Secure Encrypted Virtualization with Secure Nested Paging (SEV-SNP). A local authenticated attacker could potentially exploit this vulnerability leading to leaking guest data by the malicious hypervisor.
 - [Live-Hack-CVE/CVE-2020-12966](https://github.com/Live-Hack-CVE/CVE-2020-12966)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12966">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12966">
+
+---
+## CVE-2020-12944 (2021-11-16T19:15:00)
+> Insufficient validation of BIOS image length by ASP Firmware could lead to arbitrary code execution.
+- [Live-Hack-CVE/CVE-2020-12944](https://github.com/Live-Hack-CVE/CVE-2020-12944)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12944">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12944">
 
 ---
 ## CVE-2020-12888 (2020-05-15T18:15:00)

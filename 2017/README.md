@@ -201,6 +201,11 @@
 - [Sabotase-Syndicate-Team/CVE-2017-5487.exploit](https://github.com/Sabotase-Syndicate-Team/CVE-2017-5487.exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Sabotase-Syndicate-Team/CVE-2017-5487.exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Sabotase-Syndicate-Team/CVE-2017-5487.exploit">
 
 ---
+## CVE-2017-3313 (2017-01-27T22:59:00)
+> Vulnerability in the MySQL Server component of Oracle MySQL (subcomponent: Server: MyISAM). Supported versions that are affected are 5.5.53 and earlier, 5.6.34 and earlier and 5.7.16 and earlier. Difficult to exploit vulnerability allows low privileged attacker with logon to the infrastructure where MySQL Server executes to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized access to critical data or complete access to all MySQL Server accessible data. CVSS v3.0 Base Score 4.7 (Confidentiality impacts).
+- [Live-Hack-CVE/CVE-2017-3313](https://github.com/Live-Hack-CVE/CVE-2017-3313)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-3313">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-3313">
+
+---
 ## CVE-2017-3106 (2017-08-11T19:29:00)
 > Adobe Flash Player versions 26.0.0.137 and earlier have an exploitable type confusion vulnerability when parsing SWF files. Successful exploitation could lead to arbitrary code execution.
 - [Live-Hack-CVE/CVE-2017-3106](https://github.com/Live-Hack-CVE/CVE-2017-3106)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-3106">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-3106">

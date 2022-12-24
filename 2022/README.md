@@ -9287,6 +9287,11 @@
 - [Live-Hack-CVE/CVE-2022-29959](https://github.com/Live-Hack-CVE/CVE-2022-29959)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29959">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29959">
 
 ---
+## CVE-2022-29950 (2022-05-04T15:15:00)
+> ** DISPUTED ** Experian Hunter 1.16 allows remote authenticated users to modify assumed-immutable elements via the (1) rule name parameter to the Rules page or the (2) subrule name or (3) categories name parameter to the Subrules page. NOTE: the vendor disputes this because version 1.16 has never existed.
+- [Live-Hack-CVE/CVE-2022-29950](https://github.com/Live-Hack-CVE/CVE-2022-29950)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29950">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29950">
+
+---
 ## CVE-2022-29931 (2022-06-25T19:15:00)
 > The administration interface of the Raytion Custom Security Manager (Raytion CSM) in Version 7.2.0 allows reflected Cross-site Scripting (XSS).
 - [Live-Hack-CVE/CVE-2022-29931](https://github.com/Live-Hack-CVE/CVE-2022-29931)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29931">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29931">
@@ -9326,6 +9331,11 @@
 - [Live-Hack-CVE/CVE-2022-29836](https://github.com/Live-Hack-CVE/CVE-2022-29836)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29836">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29836">
 
 ---
+## CVE-2022-29810 (2022-04-27T06:15:00)
+> The Hashicorp go-getter library before 1.5.11 does not redact an SSH key from a URL query parameter.
+- [Live-Hack-CVE/CVE-2022-29810](https://github.com/Live-Hack-CVE/CVE-2022-29810)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29810">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29810">
+
+---
 ## CVE-2022-29774 (2022-06-21T14:15:00)
 > iSpy v7.2.2.0 is vulnerable to remote command execution via path traversal.
 - [Live-Hack-CVE/CVE-2022-29774](https://github.com/Live-Hack-CVE/CVE-2022-29774)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29774">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29774">
@@ -9339,6 +9349,11 @@
 ## CVE-2022-2966 (2022-12-16T20:15:00)
 > Out-of-bounds Read vulnerability in Delta Electronics DOPSoft.This issue affects DOPSoft: All Versions.
 - [Live-Hack-CVE/CVE-2022-2966](https://github.com/Live-Hack-CVE/CVE-2022-2966)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2966">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2966">
+
+---
+## CVE-2022-29612 (2022-06-14T17:15:00)
+> SAP NetWeaver, ABAP Platform and SAP Host Agent - versions KERNEL 7.22, 7.49, 7.53, 7.77, 7.81, 7.85, 7.86, 7.87, 7.88, 8.04, KRNL64NUC 7.22, 7.22EXT, 7.49, KRNL64UC 7.22, 7.22EXT, 7.49, 7.53, 8.04, SAPHOSTAGENT 7.22, allows an authenticated user to misuse a function of sapcontrol webfunctionality(startservice) in Kernel which enables malicious users to retrieve information. On successful exploitation, an attacker can obtain technical information like system number or physical address, which is otherwise restricted, causing a limited impact on the confidentiality of the application.
+- [Live-Hack-CVE/CVE-2022-29612](https://github.com/Live-Hack-CVE/CVE-2022-29612)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29612">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29612">
 
 ---
 ## CVE-2022-29593 (2022-07-14T15:15:00)
@@ -9509,10 +9524,20 @@
 - [Live-Hack-CVE/CVE-2022-29181](https://github.com/Live-Hack-CVE/CVE-2022-29181)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29181">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29181">
 
 ---
+## CVE-2022-29155 (2022-05-04T20:15:00)
+> In OpenLDAP 2.x before 2.5.12 and 2.6.x before 2.6.2, a SQL injection vulnerability exists in the experimental back-sql backend to slapd, via a SQL statement within an LDAP query. This can occur during an LDAP search operation when the search filter is processed, due to a lack of proper escaping.
+- [Live-Hack-CVE/CVE-2022-29155](https://github.com/Live-Hack-CVE/CVE-2022-29155)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29155">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29155">
+
+---
 ## CVE-2022-29154 (2022-08-02T15:15:00)
 > An issue was discovered in rsync before 3.2.5 that allows malicious remote servers to write arbitrary files inside the directories of connecting peers. The server chooses which files/directories are sent to the client. However, the rsync client performs insufficient validation of file names. A malicious rsync server (or Man-in-The-Middle attacker) can overwrite arbitrary files in the rsync client target directory and subdirectories (for example, overwrite the .ssh/authorized_keys file).
 - [EgeBalci/CVE-2022-29154](https://github.com/EgeBalci/CVE-2022-29154)	<img alt="forks" src="https://img.shields.io/github/forks/EgeBalci/CVE-2022-29154">	<img alt="stars" src="https://img.shields.io/github/stars/EgeBalci/CVE-2022-29154">
 - [Live-Hack-CVE/CVE-2022-29154](https://github.com/Live-Hack-CVE/CVE-2022-29154)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29154">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29154">
+
+---
+## CVE-2022-29145 (2022-05-10T21:15:00)
+> .NET and Visual Studio Denial of Service Vulnerability. This CVE ID is unique from CVE-2022-23267, CVE-2022-29117.
+- [Live-Hack-CVE/CVE-2022-29145](https://github.com/Live-Hack-CVE/CVE-2022-29145)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29145">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29145">
 
 ---
 ## CVE-2022-29078 (2022-04-25T15:15:00)
@@ -9554,6 +9579,11 @@
 ## CVE-2022-28944 (2022-05-23T18:16:00)
 > Certain EMCO Software products are affected by: CWE-494: Download of Code Without Integrity Check. This affects MSI Package Builder for Windows 9.1.4 and Remote Installer for Windows 6.0.13 and Ping Monitor for Windows 8.0.18 and Remote Shutdown for Windows 7.2.2 and WakeOnLan 2.0.8 and Network Inventory for Windows 5.8.22 and Network Software Scanner for Windows 2.0.8 and UnLock IT for Windows 6.1.1. The impact is: execute arbitrary code (remote). The component is: Updater. The attack vector is: To exploit this vulnerability, a user must trigger an update of an affected installation of EMCO Software. ¶¶ Multiple products from EMCO Software are affected by a remote code execution vulnerability during the update process.
 - [gerr-re/cve-2022-28944](https://github.com/gerr-re/cve-2022-28944)	<img alt="forks" src="https://img.shields.io/github/forks/gerr-re/cve-2022-28944">	<img alt="stars" src="https://img.shields.io/github/stars/gerr-re/cve-2022-28944">
+
+---
+## CVE-2022-28919 (2022-05-12T16:15:00)
+> HTMLCreator release_stable_2020-07-29 was discovered to contain a cross-site scripting (XSS) vulnerability via the function _generateFilename.
+- [Live-Hack-CVE/CVE-2022-28919](https://github.com/Live-Hack-CVE/CVE-2022-28919)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28919">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28919">
 
 ---
 ## CVE-2022-28893 (2022-04-11T05:15:00)
@@ -9689,6 +9719,11 @@
 - [Live-Hack-CVE/CVE-2022-28219](https://github.com/Live-Hack-CVE/CVE-2022-28219)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28219">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28219">
 
 ---
+## CVE-2022-28215 (2022-04-12T17:15:00)
+> SAP NetWeaver ABAP Server and ABAP Platform - versions 740, 750, 787, allows an unauthenticated attacker to redirect users to a malicious site due to insufficient URL validation. This could lead to the user being tricked to disclose personal information.
+- [Live-Hack-CVE/CVE-2022-28215](https://github.com/Live-Hack-CVE/CVE-2022-28215)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28215">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28215">
+
+---
 ## CVE-2022-28195 (2022-04-27T18:15:00)
 > NVIDIA Jetson Linux Driver Package contains a vulnerability in the Cboot ext4_read_file function, where insufficient validation of untrusted data may allow a highly privileged local attacker to cause a integer overflow, which may lead to code execution, escalation of privileges, limited denial of service, and some impact to confidentiality and integrity. The scope of impact can extend to other components.
 - [Live-Hack-CVE/CVE-2022-28195](https://github.com/Live-Hack-CVE/CVE-2022-28195)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28195">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28195">
@@ -9803,6 +9838,11 @@
 ## CVE-2022-2783 (2022-10-06T18:15:00)
 > In affected versions of Octopus Server it was identified that a session cookie could be used as the CSRF token
 - [Live-Hack-CVE/CVE-2022-2783](https://github.com/Live-Hack-CVE/CVE-2022-2783)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2783">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2783">
+
+---
+## CVE-2022-27815 (2022-03-30T00:15:00)
+> SWHKD 1.1.5 unsafely uses the /tmp/swhkd.pid pathname. There can be an information leak or denial of service.
+- [Live-Hack-CVE/CVE-2022-27815](https://github.com/Live-Hack-CVE/CVE-2022-27815)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27815">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27815">
 
 ---
 ## CVE-2022-27812 (2022-08-24T12:15:00)
@@ -10361,6 +10401,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [konoha279/2022-LPE-UAF](https://github.com/konoha279/2022-LPE-UAF)	<img alt="forks" src="https://img.shields.io/github/forks/konoha279/2022-LPE-UAF">	<img alt="stars" src="https://img.shields.io/github/stars/konoha279/2022-LPE-UAF">
 - [pirenga/2022-LPE-UAF](https://github.com/pirenga/2022-LPE-UAF)	<img alt="forks" src="https://img.shields.io/github/forks/pirenga/2022-LPE-UAF">	<img alt="stars" src="https://img.shields.io/github/stars/pirenga/2022-LPE-UAF">
 - [sniper404ghostxploit/CVE-2022-2586](https://github.com/sniper404ghostxploit/CVE-2022-2586)	<img alt="forks" src="https://img.shields.io/github/forks/sniper404ghostxploit/CVE-2022-2586">	<img alt="stars" src="https://img.shields.io/github/stars/sniper404ghostxploit/CVE-2022-2586">
+
+---
+## CVE-2022-25857 (2022-08-30T05:15:00)
+> The package org.yaml:snakeyaml from 0 and before 1.31 are vulnerable to Denial of Service (DoS) due missing to nested depth limitation for collections.
+- [Live-Hack-CVE/CVE-2022-25857](https://github.com/Live-Hack-CVE/CVE-2022-25857)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25857">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25857">
 
 ---
 ## CVE-2022-25848 (2022-11-29T17:15:00)
@@ -10983,6 +11028,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-23222](https://github.com/Live-Hack-CVE/CVE-2022-23222)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23222">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23222">
 
 ---
+## CVE-2022-2314 (2022-08-15T11:21:00)
+> The VR Calendar WordPress plugin through 2.3.2 lets any user execute arbitrary PHP functions on the site.
+- [Live-Hack-CVE/CVE-2022-2314](https://github.com/Live-Hack-CVE/CVE-2022-2314)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2314">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2314">
+
+---
 ## CVE-2022-23131 (2022-01-13T16:15:00)
 > In the case of instances where the SAML SSO authentication is enabled (non-default), session data can be modified by a malicious actor, because a user login stored in the session was not verified. Malicious unauthenticated actor may exploit this issue to escalate privileges and gain admin access to Zabbix Frontend. To perform the attack, SAML authentication is required to be enabled and the actor has to know the username of Zabbix user (or use the guest account, which is disabled by default).
 - [SCAMagic/CVE-2022-23131poc-exp-zabbix-](https://github.com/SCAMagic/CVE-2022-23131poc-exp-zabbix-)	<img alt="forks" src="https://img.shields.io/github/forks/SCAMagic/CVE-2022-23131poc-exp-zabbix-">	<img alt="stars" src="https://img.shields.io/github/stars/SCAMagic/CVE-2022-23131poc-exp-zabbix-">
@@ -11207,6 +11257,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-22844](https://github.com/Live-Hack-CVE/CVE-2022-22844)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22844">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22844">
 
 ---
+## CVE-2022-22822 (2022-01-10T14:12:00)
+> addBinding in xmlparse.c in Expat (aka libexpat) before 2.4.3 has an integer overflow.
+- [Live-Hack-CVE/CVE-2022-22822](https://github.com/Live-Hack-CVE/CVE-2022-22822)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22822">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22822">
+
+---
 ## CVE-2022-22808 (2022-02-09T23:15:00)
 > A CWE-352: Cross-Site Request Forgery (CSRF) exists that could cause a remote attacker to gain unauthorized access to the product when conducting cross-domain attacks based on same-origin policy or cross-site request forgery protections bypass. Affected Product: EcoStruxure EV Charging Expert (formerly known as EVlink Load Management System): (HMIBSCEA53D1EDB, HMIBSCEA53D1EDS, HMIBSCEA53D1EDM, HMIBSCEA53D1EDL, HMIBSCEA53D1ESS, HMIBSCEA53D1ESM, HMIBSCEA53D1EML) (All Versions prior to SP8 (Version 01) V4.0.0.13)
 - [Live-Hack-CVE/CVE-2022-22808](https://github.com/Live-Hack-CVE/CVE-2022-22808)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22808">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22808">
@@ -11220,6 +11275,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-2268 (2022-07-04T13:15:00)
 > The Import any XML or CSV File to WordPress plugin before 3.6.8 accepts all zip files and automatically extracts the zip file without validating the extracted file type. Allowing high privilege users such as admin to upload an arbitrary file like PHP, leading to RCE
 - [Live-Hack-CVE/CVE-2022-2268](https://github.com/Live-Hack-CVE/CVE-2022-2268)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2268">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2268">
+
+---
+## CVE-2022-22665 (2022-03-18T18:15:00)
+> A logic issue was addressed with improved validation. This issue is fixed in macOS Monterey 12.3. A malicious application may be able to gain root privileges.
+- [Live-Hack-CVE/CVE-2022-22665](https://github.com/Live-Hack-CVE/CVE-2022-22665)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22665">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22665">
 
 ---
 ## CVE-2022-22651 (2022-03-18T18:15:00)

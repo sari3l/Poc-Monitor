@@ -620,6 +620,11 @@
 - [Live-Hack-CVE/CVE-2021-4209](https://github.com/Live-Hack-CVE/CVE-2021-4209)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4209">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4209">
 
 ---
+## CVE-2021-42067 (2022-01-14T20:15:00)
+> In SAP NetWeaver AS for ABAP and ABAP Platform - versions 701, 702, 711, 730, 731, 740, 750, 751, 752, 753, 754, 755, 756, 786, an attacker authenticated as a regular user can use the S/4 Hana dashboard to reveal systems and services which they would not normally be allowed to see. No information alteration or denial of service is possible.
+- [Live-Hack-CVE/CVE-2021-42067](https://github.com/Live-Hack-CVE/CVE-2021-42067)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42067">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42067">
+
+---
 ## CVE-2021-4203 (2022-03-25T19:15:00)
 > A use-after-free read flaw was found in sock_getsockopt() in net/core/sock.c due to SO_PEERCRED and SO_PEERGROUPS race with listen() (and connect()) in the Linux kernel. In this flaw, an attacker with a user privileges may crash the system or leak internal kernel information.
 - [Live-Hack-CVE/CVE-2021-4203](https://github.com/Live-Hack-CVE/CVE-2021-4203)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4203">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4203">
@@ -756,6 +761,11 @@
 - [deathflash1411/CVE-2021-41652](https://github.com/deathflash1411/CVE-2021-41652)	<img alt="forks" src="https://img.shields.io/github/forks/deathflash1411/CVE-2021-41652">	<img alt="stars" src="https://img.shields.io/github/stars/deathflash1411/CVE-2021-41652">
 
 ---
+## CVE-2021-4159 (2022-08-24T16:15:00)
+> A vulnerability was found in the Linux kernel's EBPF verifier when handling internal data structures. Internal memory locations could be returned to userspace. A local attacker with the permissions to insert eBPF code to the kernel can use this to leak internal kernel memory details defeating some of the exploit mitigations in place for the kernel.
+- [Live-Hack-CVE/CVE-2021-4159](https://github.com/Live-Hack-CVE/CVE-2021-4159)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4159">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4159">
+
+---
 ## CVE-2021-4154 (2022-02-04T23:15:00)
 > A use-after-free flaw was found in cgroup1_parse_param in kernel/cgroup/cgroup-v1.c in the Linux kernel's cgroup v1 parser. A local attacker with a user privilege could cause a privilege escalation by exploiting the fsconfig syscall parameter leading to a container breakout and a denial of service on the system.
 - [Markakd/CVE-2021-4154](https://github.com/Markakd/CVE-2021-4154)	<img alt="forks" src="https://img.shields.io/github/forks/Markakd/CVE-2021-4154">	<img alt="stars" src="https://img.shields.io/github/stars/Markakd/CVE-2021-4154">
@@ -882,6 +892,16 @@
 ## CVE-2021-40529 (2021-09-06T19:15:00)
 > The ElGamal implementation in Botan through 2.18.1, as used in Thunderbird and other products, allows plaintext recovery because, during interaction between two cryptographic libraries, a certain dangerous combination of the prime defined by the receiver's public key, the generator defined by the receiver's public key, and the sender's ephemeral exponents can lead to a cross-configuration attack against OpenPGP.
 - [Live-Hack-CVE/CVE-2021-40529](https://github.com/Live-Hack-CVE/CVE-2021-40529)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40529">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40529">
+
+---
+## CVE-2021-40496 (2021-10-12T15:15:00)
+> SAP Internet Communication framework (ICM) - versions 700, 701, 702, 730, 731, 740, 750, 751, 752, 753, 754, 755, 756, 785, allows an attacker with logon functionality, to exploit the authentication function by using POST and form field to repeat executions of the initial command by a GET request and exposing sensitive data. This vulnerability is normally exposed over the network and successful exploitation can lead to exposure of data like system details.
+- [Live-Hack-CVE/CVE-2021-40496](https://github.com/Live-Hack-CVE/CVE-2021-40496)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40496">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40496">
+
+---
+## CVE-2021-40495 (2021-10-12T15:15:00)
+> There are multiple Denial-of Service vulnerabilities in SAP NetWeaver Application Server for ABAP and ABAP Platform - versions 740, 750, 751, 752, 753, 754, 755. An unauthorized attacker can use the public SICF service /sap/public/bc/abap to reduce the performance of SAP NetWeaver Application Server ABAP and ABAP Platform.
+- [Live-Hack-CVE/CVE-2021-40495](https://github.com/Live-Hack-CVE/CVE-2021-40495)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40495">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40495">
 
 ---
 ## CVE-2021-40465 (2021-10-13T01:15:00)
@@ -1329,6 +1349,16 @@
 - [Live-Hack-CVE/CVE-2021-38241](https://github.com/Live-Hack-CVE/CVE-2021-38241)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38241">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38241">
 
 ---
+## CVE-2021-38181 (2021-10-12T15:15:00)
+> SAP NetWeaver AS ABAP and ABAP Platform - versions 700, 701, 702, 730, 731, 740, 750, 751, 752, 753, 754, 755, 756, allows an attacker to prevent legitimate users from accessing a service, either by crashing or flooding the service.
+- [Live-Hack-CVE/CVE-2021-38181](https://github.com/Live-Hack-CVE/CVE-2021-38181)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38181">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38181">
+
+---
+## CVE-2021-38178 (2021-10-12T15:15:00)
+> The software logistics system of SAP NetWeaver AS ABAP and ABAP Platform versions - 700, 701, 702, 710, 730, 731, 740, 750, 751, 752, 753, 754, 755, 756, enables a malicious user to transfer ABAP code artifacts or content, by-passing the established quality gates. By this vulnerability malicious code can reach quality and production, and can compromise the confidentiality, integrity, and availability of the system and its data.
+- [Live-Hack-CVE/CVE-2021-38178](https://github.com/Live-Hack-CVE/CVE-2021-38178)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38178">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38178">
+
+---
 ## CVE-2021-38163 (2021-09-14T12:15:00)
 > SAP NetWeaver (Visual Composer 7.0 RT) versions - 7.30, 7.31, 7.40, 7.50, without restriction, an attacker authenticated as a non-administrative user can upload a malicious file over a network and trigger its processing, which is capable of running operating system commands with the privilege of the Java Server process. These commands can be used to read or modify any information on the server or shut the server down making it unavailable.
 - [core1impact/CVE-2021-38163](https://github.com/core1impact/CVE-2021-38163)	<img alt="forks" src="https://img.shields.io/github/forks/core1impact/CVE-2021-38163">	<img alt="stars" src="https://img.shields.io/github/stars/core1impact/CVE-2021-38163">
@@ -1621,6 +1651,12 @@
 ## CVE-2021-36206 (2022-10-28T02:15:00)
 > All versions of CEVAS prior to 1.01.46 do not sufficiently validate user-controllable input and could allow a user to bypass authentication and retrieve data with specially crafted SQL queries.
 - [Live-Hack-CVE/CVE-2021-36206](https://github.com/Live-Hack-CVE/CVE-2021-36206)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36206">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36206">
+
+---
+## CVE-2021-3609 (2022-03-03T19:15:00)
+> .A flaw was found in the CAN BCM networking protocol in the Linux kernel, where a local attacker can abuse a flaw in the CAN subsystem to corrupt memory, crash the system or escalate privileges. This race condition in net/can/bcm.c in the Linux kernel allows for local privilege escalation to root.
+- [Live-Hack-CVE/CVE-2021-3609](https://github.com/Live-Hack-CVE/CVE-2021-3609)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3609">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3609">
+- [Live-Hack-CVE/CVE-2021-36097](https://github.com/Live-Hack-CVE/CVE-2021-36097)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36097">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36097">
 
 ---
 ## CVE-2021-36070 (2021-09-01T15:15:00)
@@ -2328,6 +2364,11 @@
 ## CVE-2021-31162 (2021-04-14T07:15:00)
 > In the standard library in Rust before 1.52.0, a double free can occur in the Vec::from_iter function if freeing the element panics.
 - [Live-Hack-CVE/CVE-2021-31162](https://github.com/Live-Hack-CVE/CVE-2021-31162)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31162">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31162">
+
+---
+## CVE-2021-3100 (2022-04-19T23:15:00)
+> The Apache Log4j hotpatch package before log4j-cve-2021-44228-hotpatch-1.1-13 didn’t mimic the permissions of the JVM being patched, allowing it to escalate privileges.
+- [Live-Hack-CVE/CVE-2021-3100](https://github.com/Live-Hack-CVE/CVE-2021-3100)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3100">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3100">
 
 ---
 ## CVE-2021-30972 (2021-08-24T19:15:00)
