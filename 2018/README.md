@@ -225,6 +225,11 @@
 - [forlin/CVE-2018-2628](https://github.com/forlin/CVE-2018-2628)	<img alt="forks" src="https://img.shields.io/github/forks/forlin/CVE-2018-2628">	<img alt="stars" src="https://img.shields.io/github/stars/forlin/CVE-2018-2628">
 
 ---
+## CVE-2018-25047 (2022-09-15T00:15:00)
+> In Smarty before 3.1.47 and 4.x before 4.2.1, libs/plugins/function.mailto.php allows XSS. A web page that uses smarty_function_mailto, and that could be parameterized using GET or POST input parameters, could allow injection of JavaScript code by a user.
+- [Live-Hack-CVE/CVE-2018-25047](https://github.com/Live-Hack-CVE/CVE-2018-25047)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-25047">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-25047">
+
+---
 ## CVE-2018-25032 (2022-03-25T09:15:00)
 > zlib before 1.2.12 allows memory corruption when deflating (i.e., when compressing) if the input has many distant matches.
 - [Trinadh465/external_zlib_4.4_CVE-2018-25032](https://github.com/Trinadh465/external_zlib_4.4_CVE-2018-25032)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/external_zlib_4.4_CVE-2018-25032">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/external_zlib_4.4_CVE-2018-25032">

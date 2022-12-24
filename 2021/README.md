@@ -1590,6 +1590,11 @@
 - [Live-Hack-CVE/CVE-2021-3629](https://github.com/Live-Hack-CVE/CVE-2021-3629)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3629">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3629">
 
 ---
+## CVE-2021-36278 (2021-08-16T22:15:00)
+> Dell EMC PowerScale OneFS versions 8.2.x, 9.1.0.x, and 9.1.1.1 contain a sensitive information exposure vulnerability in log files. A local malicious user with ISI_PRIV_LOGIN_SSH, ISI_PRIV_LOGIN_CONSOLE, or ISI_PRIV_SYS_SUPPORT privileges may exploit this vulnerability to access sensitive information. If any third-party consumes those logs, the same sensitive information is available to those systems as well.
+- [Live-Hack-CVE/CVE-2021-36278](https://github.com/Live-Hack-CVE/CVE-2021-36278)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36278">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36278">
+
+---
 ## CVE-2021-36260 (2021-09-22T13:15:00)
 > A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input validation, attacker can exploit the vulnerability to launch a command injection attack by sending some messages with malicious commands.
 - [Cuerz/CVE-2021-36260](https://github.com/Cuerz/CVE-2021-36260)	<img alt="forks" src="https://img.shields.io/github/forks/Cuerz/CVE-2021-36260">	<img alt="stars" src="https://img.shields.io/github/stars/Cuerz/CVE-2021-36260">
@@ -2107,6 +2112,26 @@
 ## CVE-2021-33080 (2022-05-12T17:15:00)
 > Exposure of sensitive system information due to uncleared debug information in firmware for some Intel(R) SSD DC, Intel(R) Optane(TM) SSD and Intel(R) Optane(TM) SSD DC Products may allow an unauthenticated user to potentially enable information disclosure or escalation of privilege via physical access.
 - [Live-Hack-CVE/CVE-2021-33080](https://github.com/Live-Hack-CVE/CVE-2021-33080)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33080">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33080">
+
+---
+## CVE-2021-33078 (2022-05-12T17:15:00)
+> Race condition within a thread in firmware for some Intel(R) Optane(TM) SSD and Intel(R) SSD DC Products may allow a privileged user to potentially enable denial of service via local access.
+- [Live-Hack-CVE/CVE-2021-33078](https://github.com/Live-Hack-CVE/CVE-2021-33078)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33078">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33078">
+
+---
+## CVE-2021-33075 (2022-05-12T17:15:00)
+> Race condition in firmware for some Intel(R) Optane(TM) SSD, Intel(R) Optane(TM) SSD DC and Intel(R) SSD DC Products may allow a privileged user to potentially enable denial of service via local access.
+- [Live-Hack-CVE/CVE-2021-33075](https://github.com/Live-Hack-CVE/CVE-2021-33075)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33075">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33075">
+
+---
+## CVE-2021-33074 (2022-05-12T17:15:00)
+> Protection mechanism failure in firmware for some Intel(R) SSD, Intel(R) SSD DC and Intel(R) Optane(TM) SSD Products may allow an unauthenticated user to potentially enable information disclosure via physical access.
+- [Live-Hack-CVE/CVE-2021-33074](https://github.com/Live-Hack-CVE/CVE-2021-33074)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33074">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33074">
+
+---
+## CVE-2021-33069 (2022-05-12T17:15:00)
+> Improper resource shutdown or release in firmware for some Intel(R) SSD, Intel(R) SSD DC, Intel(R) Optane(TM) SSD and Intel(R) Optane(TM) SSD DC may allow a privileged user to potentially enable denial of service via local access.
+- [Live-Hack-CVE/CVE-2021-33069](https://github.com/Live-Hack-CVE/CVE-2021-33069)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33069">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33069">
 
 ---
 ## CVE-2021-33013 (2022-05-13T16:15:00)
@@ -3028,6 +3053,11 @@
 - [Live-Hack-CVE/CVE-2021-2372](https://github.com/Live-Hack-CVE/CVE-2021-2372)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-2372">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-2372">
 
 ---
+## CVE-2021-2351 (2021-07-21T15:15:00)
+> Vulnerability in the Advanced Networking Option component of Oracle Database Server. Supported versions that are affected are 12.1.0.2, 12.2.0.1 and 19c. Difficult to exploit vulnerability allows unauthenticated attacker with network access via Oracle Net to compromise Advanced Networking Option. Successful attacks require human interaction from a person other than the attacker and while the vulnerability is in Advanced Networking Option, attacks may significantly impact additional products. Successful attacks of this vulnerability can result in takeover of Advanced Networking Option. Note: The July 2021 Critical Patch Update introduces a number of Native Network Encryption changes to deal with vulnerability CVE-2021-2351 and prevent the use of weaker ciphers. Customers should review: "Changes in Native Network Encryption with the July 2021 Critical Patch Update" (Doc ID 2791571.1). CVSS 3.1 Base Score 8.3 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:C/C:H/I:H/A:H).
+- [Live-Hack-CVE/CVE-2021-2351](https://github.com/Live-Hack-CVE/CVE-2021-2351)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-2351">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-2351">
+
+---
 ## CVE-2021-23239 (2021-01-12T09:15:00)
 > The sudoedit personality of Sudo before 1.9.5 may allow a local unprivileged user to perform arbitrary directory-existence tests by winning a sudo_edit.c race condition in replacing a user-controlled directory by a symlink to an arbitrary path.
 - [Live-Hack-CVE/CVE-2021-23239](https://github.com/Live-Hack-CVE/CVE-2021-23239)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23239">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23239">
@@ -3239,9 +3269,24 @@
 - [Live-Hack-CVE/CVE-2021-21829](https://github.com/Live-Hack-CVE/CVE-2021-21829)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21829">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21829">
 
 ---
+## CVE-2021-21814 (2021-08-13T23:15:00)
+> Within the function HandleFileArg the argument filepattern is under control of the user who passes it in from the command line. filepattern is passed directly to strlen to determine the ending location of the char* passed in by the user, no checks are done to see if the passed in char* is longer than the staticly sized buffer data is memcpy‘d into, but after the memcpy a null byte is written to what is assumed to be the end of the buffer to terminate the char*, but without length checks, this null write occurs at an arbitrary offset from the buffer. An attacker can provide malicious input to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-21814](https://github.com/Live-Hack-CVE/CVE-2021-21814)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21814">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21814">
+
+---
+## CVE-2021-21813 (2021-08-13T23:15:00)
+> Within the function HandleFileArg the argument filepattern is under control of the user who passes it in from the command line. filepattern is passed directly to memcpy copying the path provided by the user into a staticly sized buffer without any length checks resulting in a stack-buffer overflow.
+- [Live-Hack-CVE/CVE-2021-21813](https://github.com/Live-Hack-CVE/CVE-2021-21813)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21813">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21813">
+
+---
 ## CVE-2021-21809 (2021-06-23T22:15:00)
 > A command execution vulnerability exists in the default legacy spellchecker plugin in Moodle 3.10. A specially crafted series of HTTP requests can lead to command execution. An attacker must have administrator privileges to exploit this vulnerabilities.
 - [anldori/CVE-2021-21809](https://github.com/anldori/CVE-2021-21809)	<img alt="forks" src="https://img.shields.io/github/forks/anldori/CVE-2021-21809">	<img alt="stars" src="https://img.shields.io/github/stars/anldori/CVE-2021-21809">
+
+---
+## CVE-2021-21806 (2021-07-08T12:15:00)
+> An exploitable use-after-free vulnerability exists in WebKitGTK browser version 2.30.3 x64. A specially crafted HTML web page can cause a use-after-free condition, resulting in remote code execution. The victim needs to visit a malicious web site to trigger the vulnerability.
+- [Live-Hack-CVE/CVE-2021-21806](https://github.com/Live-Hack-CVE/CVE-2021-21806)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21806">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21806">
 
 ---
 ## CVE-2021-21798 (2021-09-15T14:15:00)
@@ -3378,6 +3423,16 @@
 ## CVE-2021-21063 (2021-02-11T21:15:00)
 > Acrobat Reader DC versions versions 2020.013.20074 (and earlier), 2020.001.30018 (and earlier) and 2017.011.30188 (and earlier) are affected by a Memory corruption vulnerability when parsing a specially crafted PDF file. An unauthenticated attacker could leverage this vulnerability to achieve arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
 - [Live-Hack-CVE/CVE-2021-21063](https://github.com/Live-Hack-CVE/CVE-2021-21063)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21063">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21063">
+
+---
+## CVE-2021-20699 (2021-06-07T14:15:00)
+> Sharp NEC Displays ((UN462A R1.300 and prior to it, UN462VA R1.300 and prior to it, UN492S R1.300 and prior to it, UN492VS R1.300 and prior to it, UN552A R1.300 and prior to it, UN552S R1.300 and prior to it, UN552VS R1.300 and prior to it, UN552 R1.300 and prior to it, UN552V R1.300 and prior to it, UX552S R1.300 and prior to it, UX552 R1.300 and prior to it, V864Q R2.000 and prior to it, C861Q R2.000 and prior to it, P754Q R2.000 and prior to it, V754Q R2.000 and prior to it, C751Q R2.000 and prior to it, V984Q R2.000 and prior to it, C981Q R2.000 and prior to it, P654Q R2.000 and prior to it, V654Q R2.000 and prior to it, C651Q R2.000 and prior to it, V554Q R2.000 and prior to it, P404 R3.200 and prior to it, P484 R3.200 and prior to it, P554 R3.200 and prior to it, V404 R3.200 and prior to it, V484 R3.200 and prior to it, V554 R3.200 and prior to it, V404-T R3.200 and prior to it, V484-T R3.200 and prior to it, V554-T R3.200 and prior to it, C501 R2.000 and prior to it, C551 R2.000 and prior to it, C431 R2.000 and prior to it) allows an attacker a buffer overflow and to execute remote code by sending long parameters that contains specific characters in http request.
+- [Live-Hack-CVE/CVE-2021-20699](https://github.com/Live-Hack-CVE/CVE-2021-20699)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20699">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20699">
+
+---
+## CVE-2021-20698 (2021-06-07T14:15:00)
+> Sharp NEC Displays (UN462A R1.300 and prior to it, UN462VA R1.300 and prior to it, UN492S R1.300 and prior to it, UN492VS R1.300 and prior to it, UN552A R1.300 and prior to it, UN552S R1.300 and prior to it, UN552VS R1.300 and prior to it, UN552 R1.300 and prior to it, UN552V R1.300 and prior to it, UX552S R1.300 and prior to it, UX552 R1.300 and prior to it, V864Q R2.000 and prior to it, C861Q R2.000 and prior to it, P754Q R2.000 and prior to it, V754Q R2.000 and prior to it, C751Q R2.000 and prior to it, V984Q R2.000 and prior to it, C981Q R2.000 and prior to it, P654Q R2.000 and prior to it, V654Q R2.000 and prior to it, C651Q R2.000 and prior to it, V554Q R2.000 and prior to it, P404 R3.200 and prior to it, P484 R3.200 and prior to it, P554 R3.200 and prior to it, V404 R3.200 and prior to it, V484 R3.200 and prior to it, V554 R3.200 and prior to it, V404-T R3.200 and prior to it, V484-T R3.200 and prior to it, V554-T R3.200 and prior to it, C501 R2.000 and prior to it, C551 R2.000 and prior to it, C431 R2.000 and prior to it) allows an attacker to obtain root privileges and execute remote code by sending unintended parameters that contain specific characters in http request.
+- [Live-Hack-CVE/CVE-2021-20698](https://github.com/Live-Hack-CVE/CVE-2021-20698)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20698">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20698">
 
 ---
 ## CVE-2021-20323 (2022-03-25T19:15:00)

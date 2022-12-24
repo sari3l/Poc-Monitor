@@ -645,6 +645,11 @@
 - [tlatkdgus1/blueborne-CVE-2017-1000251](https://github.com/tlatkdgus1/blueborne-CVE-2017-1000251)	<img alt="forks" src="https://img.shields.io/github/forks/tlatkdgus1/blueborne-CVE-2017-1000251">	<img alt="stars" src="https://img.shields.io/github/stars/tlatkdgus1/blueborne-CVE-2017-1000251">
 
 ---
+## CVE-2017-0888 (2017-04-05T20:59:00)
+> Nextcloud Server before 9.0.55 and 10.0.2 suffers from a Content-Spoofing vulnerability in the "files" app. The top navigation bar displayed in the files list contained partially user-controllable input leading to a potential misrepresentation of information.
+- [Live-Hack-CVE/CVE-2017-0888](https://github.com/Live-Hack-CVE/CVE-2017-0888)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-0888">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-0888">
+
+---
 ## CVE-2017-0785 (2017-09-14T19:29:00)
 > A information disclosure vulnerability in the Android system (bluetooth). Product: Android. Versions: 4.4.4, 5.0.2, 5.1.1, 6.0, 6.0.1, 7.0, 7.1.1, 7.1.2, 8.0. Android ID: A-63146698.
 - [Joanmei/CVE-2017-0785](https://github.com/Joanmei/CVE-2017-0785)	<img alt="forks" src="https://img.shields.io/github/forks/Joanmei/CVE-2017-0785">	<img alt="stars" src="https://img.shields.io/github/stars/Joanmei/CVE-2017-0785">

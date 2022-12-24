@@ -6827,6 +6827,7 @@
 - [monzaviman/CVE_2022_36446](https://github.com/monzaviman/CVE_2022_36446)	<img alt="forks" src="https://img.shields.io/github/forks/monzaviman/CVE_2022_36446">	<img alt="stars" src="https://img.shields.io/github/stars/monzaviman/CVE_2022_36446">
 - [emirpolatt/CVE-2022-36446](https://github.com/emirpolatt/CVE-2022-36446)	<img alt="forks" src="https://img.shields.io/github/forks/emirpolatt/CVE-2022-36446">	<img alt="stars" src="https://img.shields.io/github/stars/emirpolatt/CVE-2022-36446">
 - [kh4sh3i/Webmin-CVE](https://github.com/kh4sh3i/Webmin-CVE)	<img alt="forks" src="https://img.shields.io/github/forks/kh4sh3i/Webmin-CVE">	<img alt="stars" src="https://img.shields.io/github/stars/kh4sh3i/Webmin-CVE">
+- [Live-Hack-CVE/CVE-2022-36446](https://github.com/Live-Hack-CVE/CVE-2022-36446)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36446">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36446">
 
 ---
 ## CVE-2022-36433 (2022-11-29T13:15:00)
@@ -7032,6 +7033,7 @@
 ## CVE-2022-35899 (2022-07-21T17:15:00)
 > There is an unquoted service path in ASUSTeK Aura Ready Game SDK service (GameSDK.exe) 1.0.0.4. This might allow a local user to escalate privileges by creating a %PROGRAMFILES(X86)%\ASUS\GameSDK.exe file.
 - [AngeloPioAmirante/CVE-2022-35899](https://github.com/AngeloPioAmirante/CVE-2022-35899)	<img alt="forks" src="https://img.shields.io/github/forks/AngeloPioAmirante/CVE-2022-35899">	<img alt="stars" src="https://img.shields.io/github/stars/AngeloPioAmirante/CVE-2022-35899">
+- [Live-Hack-CVE/CVE-2022-35899](https://github.com/Live-Hack-CVE/CVE-2022-35899)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35899">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35899">
 
 ---
 ## CVE-2022-35897 (2022-11-21T17:15:00)
