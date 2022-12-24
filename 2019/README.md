@@ -907,9 +907,19 @@
 - [shadow-horse/CVE-2019-17571](https://github.com/shadow-horse/CVE-2019-17571)	<img alt="forks" src="https://img.shields.io/github/forks/shadow-horse/CVE-2019-17571">	<img alt="stars" src="https://img.shields.io/github/stars/shadow-horse/CVE-2019-17571">
 
 ---
+## CVE-2019-17565 (2020-03-23T22:15:00)
+> There is a vulnerability in Apache Traffic Server 6.0.0 to 6.2.3, 7.0.0 to 7.1.8, and 8.0.0 to 8.0.5 with a smuggling attack and chunked encoding. Upgrade to versions 7.1.9 and 8.0.6 or later versions.
+- [Live-Hack-CVE/CVE-2019-17565](https://github.com/Live-Hack-CVE/CVE-2019-17565)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17565">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17565">
+
+---
 ## CVE-2019-17563 (2019-12-23T17:15:00)
 > When using FORM authentication with Apache Tomcat 9.0.0.M1 to 9.0.29, 8.5.0 to 8.5.49 and 7.0.0 to 7.0.98 there was a narrow window where an attacker could perform a session fixation attack. The window was considered too narrow for an exploit to be practical but, erring on the side of caution, this issue has been treated as a security vulnerability.
 - [Live-Hack-CVE/CVE-2019-17563](https://github.com/Live-Hack-CVE/CVE-2019-17563)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17563">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17563">
+
+---
+## CVE-2019-17559 (2020-03-23T22:15:00)
+> There is a vulnerability in Apache Traffic Server 6.0.0 to 6.2.3, 7.0.0 to 7.1.8, and 8.0.0 to 8.0.5 with a smuggling attack and scheme parsing. Upgrade to versions 7.1.9 and 8.0.6 or later versions.
+- [Live-Hack-CVE/CVE-2019-17559](https://github.com/Live-Hack-CVE/CVE-2019-17559)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17559">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17559">
 
 ---
 ## CVE-2019-17519 (2020-02-12T19:15:00)

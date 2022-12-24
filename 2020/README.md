@@ -343,6 +343,11 @@
 - [Live-Hack-CVE/CVE-2020-7616](https://github.com/Live-Hack-CVE/CVE-2020-7616)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7616">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7616">
 
 ---
+## CVE-2020-7479 (2020-03-23T20:15:00)
+> A CWE-306: Missing Authentication for Critical Function vulnerability exists in IGSS (Versions 14 and prior using the service: IGSSupdate), which could allow a local user to execute processes that otherwise require escalation privileges when sending local network commands to the IGSS Update Service.
+- [Live-Hack-CVE/CVE-2020-7479](https://github.com/Live-Hack-CVE/CVE-2020-7479)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7479">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7479">
+
+---
 ## CVE-2020-7478 (2020-03-23T20:15:00)
 > A CWE-22: Improper Limitation of a Pathname to a Restricted Directory exists in IGSS (Versions 14 and prior using the service: IGSSupdate), which could allow a remote unauthenticated attacker to read arbitrary files from the IGSS server PC on an unrestricted or shared network when the IGSS Update Service is enabled.
 - [Live-Hack-CVE/CVE-2020-7478](https://github.com/Live-Hack-CVE/CVE-2020-7478)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7478">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7478">
@@ -767,6 +772,16 @@
 - [Live-Hack-CVE/CVE-2020-27909](https://github.com/Live-Hack-CVE/CVE-2020-27909)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27909">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27909">
 
 ---
+## CVE-2020-27845 (2021-01-05T18:15:00)
+> There's a flaw in src/lib/openjp2/pi.c of openjpeg in versions prior to 2.4.0. If an attacker is able to provide untrusted input to openjpeg's conversion/encoding functionality, they could cause an out-of-bounds read. The highest impact of this flaw is to application availability.
+- [Live-Hack-CVE/CVE-2020-27845](https://github.com/Live-Hack-CVE/CVE-2020-27845)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27845">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27845">
+
+---
+## CVE-2020-27841 (2021-01-05T18:15:00)
+> There's a flaw in openjpeg in versions prior to 2.4.0 in src/lib/openjp2/pi.c. When an attacker is able to provide crafted input to be processed by the openjpeg encoder, this could cause an out-of-bounds read. The greatest impact from this flaw is to application availability.
+- [Live-Hack-CVE/CVE-2020-27841](https://github.com/Live-Hack-CVE/CVE-2020-27841)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27841">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27841">
+
+---
 ## CVE-2020-27786 (2020-12-11T05:15:00)
 > A flaw was found in the Linux kernel’s implementation of MIDI, where an attacker with a local account and the permissions to issue ioctl commands to midi devices could trigger a use-after-free issue. A write to this specific memory while freed and before use causes the flow of execution to change and possibly allow for memory corruption or privilege escalation. The highest threat from this vulnerability is to confidentiality, integrity, as well as system availability.
 - [kiks7/CVE-2020-27786-Kernel-Exploit](https://github.com/kiks7/CVE-2020-27786-Kernel-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/kiks7/CVE-2020-27786-Kernel-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/kiks7/CVE-2020-27786-Kernel-Exploit">
@@ -830,6 +845,16 @@
 ## CVE-2020-27199 (2020-12-17T05:15:00)
 > The Magic Home Pro application 1.5.1 for Android allows Authentication Bypass. The security control that the application currently has in place is a simple Username and Password authentication function. Using enumeration, an attacker is able to forge a User specific token without the need for correct password to gain access to the mobile application as that victim user.
 - [9lyph/CVE-2020-27199](https://github.com/9lyph/CVE-2020-27199)	<img alt="forks" src="https://img.shields.io/github/forks/9lyph/CVE-2020-27199">	<img alt="stars" src="https://img.shields.io/github/stars/9lyph/CVE-2020-27199">
+
+---
+## CVE-2020-26991 (2021-01-12T21:15:00)
+> A vulnerability has been identified in JT2Go (All versions < V13.1.0.2), Teamcenter Visualization (All versions < V13.1.0.2). Affected applications lack proper validation of user-supplied data when parsing ASM files. This could lead to pointer dereferences of a value obtained from untrusted source. An attacker could leverage this vulnerability to execute code in the context of the current process. (ZDI-CAN-11899)
+- [Live-Hack-CVE/CVE-2020-26991](https://github.com/Live-Hack-CVE/CVE-2020-26991)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-26991">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-26991">
+
+---
+## CVE-2020-26990 (2021-01-12T21:15:00)
+> A vulnerability has been identified in JT2Go (All versions < V13.1.0.1), Teamcenter Visualization (All versions < V13.1.0.1). Affected applications lack proper validation of user-supplied data when parsing ASM files. A crafted ASM file could trigger a type confusion condition. An attacker could leverage this vulnerability to execute code in the context of the current process. (ZDI-CAN-11897)
+- [Live-Hack-CVE/CVE-2020-26990](https://github.com/Live-Hack-CVE/CVE-2020-26990)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-26990">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-26990">
 
 ---
 ## CVE-2020-2688 (2020-01-15T17:15:00)
@@ -1411,6 +1436,16 @@
 ## CVE-2020-16587 (2020-12-09T21:15:00)
 > A heap-based buffer overflow vulnerability exists in Academy Software Foundation OpenEXR 2.3.0 in chunkOffsetReconstruction in ImfMultiPartInputFile.cpp that can cause a denial of service via a crafted EXR file.
 - [Live-Hack-CVE/CVE-2020-16587](https://github.com/Live-Hack-CVE/CVE-2020-16587)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-16587">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-16587">
+
+---
+## CVE-2020-16213 (2020-08-06T19:15:00)
+> Advantech WebAccess HMI Designer, Versions 2.1.9.31 and prior. Processing specially crafted project files lacking proper validation of user supplied data may cause the system to write outside the intended buffer area, which may allow remote code execution, disclosure/modification of information, or cause the application to crash.
+- [Live-Hack-CVE/CVE-2020-16213](https://github.com/Live-Hack-CVE/CVE-2020-16213)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-16213">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-16213">
+
+---
+## CVE-2020-16211 (2020-08-06T19:15:00)
+> Advantech WebAccess HMI Designer, Versions 2.1.9.31 and prior. An out-of-bounds read vulnerability may be exploited by processing specially crafted project files, which may allow an attacker to read information.
+- [Live-Hack-CVE/CVE-2020-16211](https://github.com/Live-Hack-CVE/CVE-2020-16211)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-16211">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-16211">
 
 ---
 ## CVE-2020-15678 (2020-10-01T19:15:00)

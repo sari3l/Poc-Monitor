@@ -2953,6 +2953,31 @@
 - [Live-Hack-CVE/CVE-2022-4228](https://github.com/Live-Hack-CVE/CVE-2022-4228)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4228">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4228">
 
 ---
+## CVE-2022-42250 (2022-10-06T18:18:00)
+> Simple Cold Storage Management System v1.0 is vulnerable to SQL injection via /csms/admin/inquiries/view_details.php?id=.
+- [Live-Hack-CVE/CVE-2022-42250](https://github.com/Live-Hack-CVE/CVE-2022-42250)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42250">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42250">
+
+---
+## CVE-2022-42249 (2022-10-06T18:18:00)
+> Simple Cold Storage Management System v1.0 is vulnerable to SQL injection via /csms/admin/storages/view_storage.php?id=.
+- [Live-Hack-CVE/CVE-2022-42249](https://github.com/Live-Hack-CVE/CVE-2022-42249)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42249">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42249">
+
+---
+## CVE-2022-42243 (2022-10-06T18:18:00)
+> Simple Cold Storage Management System v1.0 is vulnerable to SQL injection via /csms/admin/storages/manage_storage.php?id=.
+- [Live-Hack-CVE/CVE-2022-42243](https://github.com/Live-Hack-CVE/CVE-2022-42243)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42243">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42243">
+
+---
+## CVE-2022-42242 (2022-10-06T18:18:00)
+> Simple Cold Storage Management System v1.0 is vulnerable to SQL injection via /csms/classes/Master.php?f=delete_booking.
+- [Live-Hack-CVE/CVE-2022-42242](https://github.com/Live-Hack-CVE/CVE-2022-42242)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42242">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42242">
+
+---
+## CVE-2022-42241 (2022-10-06T18:17:00)
+> Simple Cold Storage Management System v1.0 is vulnerable to SQL injection via /csms/classes/Master.php?f=delete_message.
+- [Live-Hack-CVE/CVE-2022-42241](https://github.com/Live-Hack-CVE/CVE-2022-42241)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42241">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42241">
+
+---
 ## CVE-2022-42234 (2022-10-14T17:15:00)
 > There is a file inclusion vulnerability in the template management module in UCMS 1.6
 - [Live-Hack-CVE/CVE-2022-42234](https://github.com/Live-Hack-CVE/CVE-2022-42234)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42234">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42234">
@@ -6923,6 +6948,11 @@
 - [0x1nsomnia/CVE-2022-36067-vm2-POC-webapp](https://github.com/0x1nsomnia/CVE-2022-36067-vm2-POC-webapp)	<img alt="forks" src="https://img.shields.io/github/forks/0x1nsomnia/CVE-2022-36067-vm2-POC-webapp">	<img alt="stars" src="https://img.shields.io/github/stars/0x1nsomnia/CVE-2022-36067-vm2-POC-webapp">
 
 ---
+## CVE-2022-36066 (2022-09-29T20:15:00)
+> Discourse is an open source discussion platform. In versions prior to 2.8.9 on the `stable` branch and prior to 2.9.0.beta10 on the `beta` and `tests-passed` branches, admins can upload a maliciously crafted Zip or Gzip Tar archive to write files at arbitrary locations and trigger remote code execution. The problem is patched in version 2.8.9 on the `stable` branch and version 2.9.0.beta10 on the `beta` and `tests-passed` branches. There are no known workarounds.
+- [Live-Hack-CVE/CVE-2022-36066](https://github.com/Live-Hack-CVE/CVE-2022-36066)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36066">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36066">
+
+---
 ## CVE-2022-3606 (2022-10-19T09:15:00)
 > A vulnerability was found in Linux Kernel. It has been classified as problematic. This affects the function find_prog_by_sec_insn of the file tools/lib/bpf/libbpf.c of the component BPF. The manipulation leads to null pointer dereference. It is recommended to apply a patch to fix this issue. The identifier VDB-211749 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-3606](https://github.com/Live-Hack-CVE/CVE-2022-3606)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3606">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3606">
@@ -7622,6 +7652,11 @@
 ## CVE-2022-3408 (2022-10-31T16:15:00)
 > The WP Word Count WordPress plugin through 3.2.3 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Cross-Site Scripting attacks even when unfiltered_html is disallowed.
 - [Live-Hack-CVE/CVE-2022-3408](https://github.com/Live-Hack-CVE/CVE-2022-3408)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3408">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3408">
+
+---
+## CVE-2022-34047 (2022-07-20T17:15:00)
+> An access control issue in Wavlink WN530HG4 M30HG4.V5030.191116 allows attackers to obtain usernames and passwords via view-source:http://IP_ADDRESS/set_safety.shtml?r=52300 and searching for [var syspasswd].
+- [Live-Hack-CVE/CVE-2022-34047](https://github.com/Live-Hack-CVE/CVE-2022-34047)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34047">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34047">
 
 ---
 ## CVE-2022-34046 (2022-07-20T17:15:00)
@@ -11201,6 +11236,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [springsec/CVE-2022-22620](https://github.com/springsec/CVE-2022-22620)	<img alt="forks" src="https://img.shields.io/github/forks/springsec/CVE-2022-22620">	<img alt="stars" src="https://img.shields.io/github/stars/springsec/CVE-2022-22620">
 
 ---
+## CVE-2022-22589 (2022-03-18T18:15:00)
+> A validation issue was addressed with improved input sanitization. This issue is fixed in iOS 15.3 and iPadOS 15.3, watchOS 8.4, tvOS 15.3, Safari 15.3, macOS Monterey 12.2. Processing a maliciously crafted mail message may lead to running arbitrary javascript.
+- [Live-Hack-CVE/CVE-2022-22589](https://github.com/Live-Hack-CVE/CVE-2022-22589)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22589">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22589">
+
+---
 ## CVE-2022-22588 (2022-03-18T18:15:00)
 > A resource exhaustion issue was addressed with improved input validation. This issue is fixed in iOS 15.2.1 and iPadOS 15.2.1. Processing a maliciously crafted HomeKit accessory name may cause a denial of service.
 - [PyterSmithDarkGhost/0DAYIPHONE13IOS15.2CVE-2022-22588](https://github.com/PyterSmithDarkGhost/0DAYIPHONE13IOS15.2CVE-2022-22588)	<img alt="forks" src="https://img.shields.io/github/forks/PyterSmithDarkGhost/0DAYIPHONE13IOS15.2CVE-2022-22588">	<img alt="stars" src="https://img.shields.io/github/stars/PyterSmithDarkGhost/0DAYIPHONE13IOS15.2CVE-2022-22588">
@@ -12620,6 +12660,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [amitlttwo/CVE-2022-1388](https://github.com/amitlttwo/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/amitlttwo/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/amitlttwo/CVE-2022-1388">
 - [M4fiaB0y/CVE-2022-1388](https://github.com/M4fiaB0y/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/M4fiaB0y/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/M4fiaB0y/CVE-2022-1388">
 - [devengpk/CVE-2022-1388](https://github.com/devengpk/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/devengpk/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/devengpk/CVE-2022-1388">
+- [vaelwolf/CVE-2022-1388](https://github.com/vaelwolf/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/vaelwolf/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/vaelwolf/CVE-2022-1388">
 
 ---
 ## CVE-2022-1353 (2022-04-29T16:15:00)
