@@ -72,6 +72,11 @@
 - [Live-Hack-CVE/CVE-2017-8879](https://github.com/Live-Hack-CVE/CVE-2017-8879)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-8879">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-8879">
 
 ---
+## CVE-2017-8529 (2017-06-15T01:29:00)
+> Internet Explorer in Microsoft Windows 7 SP1, Windows Server 2008 R2 SP1, Windows 8.1 and Windows RT 8.1, and Windows Server 2012 and R2 allow an attacker to detect specific files on the user's computer when affected Microsoft scripting engines do not properly handle objects in memory, aka "Microsoft Browser Information Disclosure Vulnerability".
+- [Live-Hack-CVE/CVE-2017-8529](https://github.com/Live-Hack-CVE/CVE-2017-8529)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-8529">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-8529">
+
+---
 ## CVE-2017-7921 (2017-05-06T00:29:00)
 > An Improper Authentication issue was discovered in Hikvision DS-2CD2xx2F-I Series V5.2.0 build 140721 to V5.4.0 build 160530, DS-2CD2xx0F-I Series V5.2.0 build 140721 to V5.4.0 Build 160401, DS-2CD2xx2FWD Series V5.3.1 build 150410 to V5.4.4 Build 161125, DS-2CD4x2xFWD Series V5.2.0 build 140721 to V5.4.0 Build 160414, DS-2CD4xx5 Series V5.2.0 build 140721 to V5.4.0 Build 160421, DS-2DFx Series V5.2.0 build 140805 to V5.4.5 Build 160928, and DS-2CD63xx Series V5.0.9 build 140305 to V5.3.5 Build 160106 devices. The improper authentication vulnerability occurs when an application does not adequately or correctly authenticate users. This may allow a malicious user to escalate his or her privileges on the system and gain access to sensitive information.
 - [p4tq/hikvision_CVE-2017-7921_auth_bypass_config_decryptor](https://github.com/p4tq/hikvision_CVE-2017-7921_auth_bypass_config_decryptor)	<img alt="forks" src="https://img.shields.io/github/forks/p4tq/hikvision_CVE-2017-7921_auth_bypass_config_decryptor">	<img alt="stars" src="https://img.shields.io/github/stars/p4tq/hikvision_CVE-2017-7921_auth_bypass_config_decryptor">

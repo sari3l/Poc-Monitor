@@ -16,6 +16,11 @@
 - [Live-Hack-CVE/CVE-2021-46848](https://github.com/Live-Hack-CVE/CVE-2021-46848)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46848">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46848">
 
 ---
+## CVE-2021-46839 (2022-10-14T16:15:00)
+> The HW_KEYMASTER module has a vulnerability of missing bounds check on length.Successful exploitation of this vulnerability may cause malicious construction of data, which results in out-of-bounds access.
+- [Live-Hack-CVE/CVE-2021-46839](https://github.com/Live-Hack-CVE/CVE-2021-46839)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46839">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46839">
+
+---
 ## CVE-2021-46837 (2022-08-30T07:15:00)
 > res_pjsip_t38 in Sangoma Asterisk 16.x before 16.16.2, 17.x before 17.9.3, and 18.x before 18.2.2, and Certified Asterisk before 16.8-cert7, allows an attacker to trigger a crash by sending an m=image line and zero port in a response to a T.38 re-invite initiated by Asterisk. This is a re-occurrence of the CVE-2019-15297 symptoms but not for exactly the same reason. The crash occurs because there is an append operation relative to the active topology, but this should instead be a replace operation.
 - [Live-Hack-CVE/CVE-2021-46837](https://github.com/Live-Hack-CVE/CVE-2021-46837)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46837">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46837">
@@ -266,6 +271,11 @@
 ## CVE-2021-43980 (2022-09-28T14:15:00)
 > The simplified implementation of blocking reads and writes introduced in Tomcat 10 and back-ported to Tomcat 9.0.47 onwards exposed a long standing (but extremely hard to trigger) concurrency bug in Apache Tomcat 10.1.0 to 10.1.0-M12, 10.0.0-M1 to 10.0.18, 9.0.0-M1 to 9.0.60 and 8.5.0 to 8.5.77 that could cause client connections to share an Http11Processor instance resulting in responses, or part responses, to be received by the wrong client.
 - [Live-Hack-CVE/CVE-2021-43980](https://github.com/Live-Hack-CVE/CVE-2021-43980)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43980">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43980">
+
+---
+## CVE-2021-43896 (2021-12-15T15:15:00)
+> Microsoft PowerShell Spoofing Vulnerability
+- [Live-Hack-CVE/CVE-2021-43896](https://github.com/Live-Hack-CVE/CVE-2021-43896)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43896">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43896">
 
 ---
 ## CVE-2021-43890 (2021-12-15T15:15:00)
@@ -1392,6 +1402,12 @@
 - [Live-Hack-CVE/CVE-2021-36723](https://github.com/Live-Hack-CVE/CVE-2021-36723)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36723">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36723">
 
 ---
+## CVE-2021-3672 (2021-11-23T19:15:00)
+> A flaw was found in c-ares library, where a missing input validation check of host names returned by DNS (Domain Name Servers) can lead to output of wrong hostnames which might potentially lead to Domain Hijacking. The highest threat from this vulnerability is to confidentiality and integrity as well as system availability.
+- [Live-Hack-CVE/CVE-2021-3672](https://github.com/Live-Hack-CVE/CVE-2021-3672)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3672">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3672">
+- [Live-Hack-CVE/CVE-2021-36723](https://github.com/Live-Hack-CVE/CVE-2021-36723)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36723">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36723">
+
+---
 ## CVE-2021-3667 (2022-03-02T23:15:00)
 > An improper locking issue was found in the virStoragePoolLookupByTargetPath API of libvirt. It occurs in the storagePoolLookupByTargetPath function where a locked virStoragePoolObj object is not properly released on ACL permission failure. Clients connecting to the read-write socket with limited ACL permissions could use this flaw to acquire the lock and prevent other users from accessing storage pool/volume APIs, resulting in a denial of service condition. The highest threat from this vulnerability is to system availability.
 - [Live-Hack-CVE/CVE-2021-3667](https://github.com/Live-Hack-CVE/CVE-2021-3667)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3667">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3667">
@@ -2448,6 +2464,11 @@
 ## CVE-2021-27516 (2021-02-22T00:15:00)
 > URI.js (aka urijs) before 1.19.6 mishandles certain uses of backslash such as http:\/ and interprets the URI as a relative path.
 - [Live-Hack-CVE/CVE-2021-27516](https://github.com/Live-Hack-CVE/CVE-2021-27516)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27516">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27516">
+
+---
+## CVE-2021-27406 (2022-10-14T17:15:00)
+> An attacker can take leverage on PerFact OpenVPN-Client versions 1.4.1.0 and prior to send the config command from any application running on the local host machine to force the back-end server into initializing a new open-VPN instance with arbitrary open-VPN configuration. This could result in the attacker achieving execution with privileges of a SYSTEM user.
+- [Live-Hack-CVE/CVE-2021-27406](https://github.com/Live-Hack-CVE/CVE-2021-27406)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27406">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27406">
 
 ---
 ## CVE-2021-27343 (2021-04-06T13:15:00)

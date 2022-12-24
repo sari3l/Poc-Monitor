@@ -2959,6 +2959,16 @@
 - [soy-oreocato/CVE-2022-42176](https://github.com/soy-oreocato/CVE-2022-42176)	<img alt="forks" src="https://img.shields.io/github/forks/soy-oreocato/CVE-2022-42176">	<img alt="stars" src="https://img.shields.io/github/stars/soy-oreocato/CVE-2022-42176">
 
 ---
+## CVE-2022-42159 (2022-10-13T19:15:00)
+> D-Link COVR 1200,1202,1203 v1.08 was discovered to have a predictable seed in a Pseudo-Random Number Generator.
+- [Live-Hack-CVE/CVE-2022-42159](https://github.com/Live-Hack-CVE/CVE-2022-42159)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42159">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42159">
+
+---
+## CVE-2022-42156 (2022-10-13T19:15:00)
+> D-Link COVR 1200,1203 v1.08 was discovered to contain a command injection vulnerability via the tomography_ping_number parameter at function SetNetworkTomographySettings.
+- [Live-Hack-CVE/CVE-2022-42156](https://github.com/Live-Hack-CVE/CVE-2022-42156)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42156">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42156">
+
+---
 ## CVE-2022-42149 (2022-10-17T20:15:00)
 > kkFileView 4.0 is vulnerable to Server-side request forgery (SSRF) via controller\OnlinePreviewController.java.
 - [Live-Hack-CVE/CVE-2022-42149](https://github.com/Live-Hack-CVE/CVE-2022-42149)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42149">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42149">
@@ -3487,6 +3497,51 @@
 - [Live-Hack-CVE/CVE-2022-41609](https://github.com/Live-Hack-CVE/CVE-2022-41609)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41609">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41609">
 
 ---
+## CVE-2022-41589 (2022-10-14T16:15:00)
+> The DFX unwind stack module of the ArkCompiler has a vulnerability in interface calling.Successful exploitation of this vulnerability affects system services and device availability.
+- [Live-Hack-CVE/CVE-2022-41589](https://github.com/Live-Hack-CVE/CVE-2022-41589)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41589">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41589">
+
+---
+## CVE-2022-41588 (2022-10-14T16:15:00)
+> The home screen module has a vulnerability in service logic processing.Successful exploitation of this vulnerability may affect data integrity.
+- [Live-Hack-CVE/CVE-2022-41588](https://github.com/Live-Hack-CVE/CVE-2022-41588)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41588">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41588">
+
+---
+## CVE-2022-41587 (2022-10-14T16:15:00)
+> Uncaptured exceptions in the home screen module. Successful exploitation of this vulnerability may affect stability.
+- [Live-Hack-CVE/CVE-2022-41587](https://github.com/Live-Hack-CVE/CVE-2022-41587)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41587">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41587">
+
+---
+## CVE-2022-41586 (2022-10-14T16:15:00)
+> The communication framework module has a vulnerability of not truncating data properly.Successful exploitation of this vulnerability may affect data confidentiality.
+- [Live-Hack-CVE/CVE-2022-41586](https://github.com/Live-Hack-CVE/CVE-2022-41586)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41586">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41586">
+
+---
+## CVE-2022-41585 (2022-10-14T16:15:00)
+> The kernel module has an out-of-bounds read vulnerability.Successful exploitation of this vulnerability may cause memory overwriting.
+- [Live-Hack-CVE/CVE-2022-41585](https://github.com/Live-Hack-CVE/CVE-2022-41585)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41585">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41585">
+
+---
+## CVE-2022-41584 (2022-10-14T16:15:00)
+> The kernel module has an out-of-bounds read vulnerability.Successful exploitation of this vulnerability may cause memory overwriting.
+- [Live-Hack-CVE/CVE-2022-41584](https://github.com/Live-Hack-CVE/CVE-2022-41584)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41584">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41584">
+
+---
+## CVE-2022-41583 (2022-10-14T16:15:00)
+> The storage maintenance and debugging module has an array out-of-bounds read vulnerability.Successful exploitation of this vulnerability will cause incorrect statistics of this module.
+- [Live-Hack-CVE/CVE-2022-41583](https://github.com/Live-Hack-CVE/CVE-2022-41583)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41583">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41583">
+
+---
+## CVE-2022-41580 (2022-10-14T16:15:00)
+> The HW_KEYMASTER module has a vulnerability of not verifying the data read.Successful exploitation of this vulnerability may cause malicious construction of data, which results in out-of-bounds access.
+- [Live-Hack-CVE/CVE-2022-41580](https://github.com/Live-Hack-CVE/CVE-2022-41580)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41580">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41580">
+
+---
+## CVE-2022-41578 (2022-10-14T16:15:00)
+> The MPTCP module has an out-of-bounds write vulnerability.Successful exploitation of this vulnerability may cause root privilege escalation attacks implemented by modifying program information.
+- [Live-Hack-CVE/CVE-2022-41578](https://github.com/Live-Hack-CVE/CVE-2022-41578)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41578">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41578">
+
+---
 ## CVE-2022-41560 (2022-12-06T19:15:00)
 > The Statement Set Upload via the Web Client component of TIBCO Software Inc.'s TIBCO Nimbus contains an easily exploitable vulnerability that allows a low privileged attacker with network access to execute a Denial of Service Attack on the affected system. Affected releases are TIBCO Software Inc.'s TIBCO Nimbus: version 10.5.0.
 - [Live-Hack-CVE/CVE-2022-41560](https://github.com/Live-Hack-CVE/CVE-2022-41560)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41560">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41560">
@@ -3495,6 +3550,16 @@
 ## CVE-2022-41559 (2022-12-06T19:15:00)
 > The Web Client component of TIBCO Software Inc.'s TIBCO Nimbus contains an easily exploitable vulnerability that allows an unauthenticated attacker with network access to exploit an open redirect on the affected system. A successful attack using this vulnerability requires human interaction from a person other than the attacker. Affected releases are TIBCO Software Inc.'s TIBCO Nimbus: version 10.5.0.
 - [Live-Hack-CVE/CVE-2022-41559](https://github.com/Live-Hack-CVE/CVE-2022-41559)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41559">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41559">
+
+---
+## CVE-2022-41485 (2022-10-13T19:15:00)
+> Tenda AC1200 US_AC6V2.0RTL_V15.03.06.51_multi_TDE01 was discovered to contain a buffer overflow in the 0x47ce00 function. This vulnerability allows attackers to cause a Denial of Service (DoS) via a crafted request.
+- [Live-Hack-CVE/CVE-2022-41485](https://github.com/Live-Hack-CVE/CVE-2022-41485)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41485">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41485">
+
+---
+## CVE-2022-41481 (2022-10-13T19:15:00)
+> Tenda AC1200 US_AC6V2.0RTL_V15.03.06.51_multi_TDE01 was discovered to contain a buffer overflow in the 0x47de1c function. This vulnerability allows attackers to cause a Denial of Service (DoS) via a crafted request.
+- [Live-Hack-CVE/CVE-2022-41481](https://github.com/Live-Hack-CVE/CVE-2022-41481)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41481">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41481">
 
 ---
 ## CVE-2022-41446 (2022-11-23T03:15:00)
@@ -5017,6 +5082,11 @@
 - [v0lp3/CVE-2022-39066](https://github.com/v0lp3/CVE-2022-39066)	<img alt="forks" src="https://img.shields.io/github/forks/v0lp3/CVE-2022-39066">	<img alt="stars" src="https://img.shields.io/github/stars/v0lp3/CVE-2022-39066">
 
 ---
+## CVE-2022-39065 (2022-10-14T16:15:00)
+> A single malformed IEEE 802.15.4 (Zigbee) frame makes the TRÅDFRI gateway unresponsive, such that connected lighting cannot be controlled with the IKEA Home Smart app and TRÅDFRI remote control. The malformed Zigbee frame is an unauthenticated broadcast message, which means all vulnerable devices within radio range are affected. CVSS 3.1 Base Score: 6.5 Vector: CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+- [Live-Hack-CVE/CVE-2022-39065](https://github.com/Live-Hack-CVE/CVE-2022-39065)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39065">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39065">
+
+---
 ## CVE-2022-39058 (2022-10-18T06:15:00)
 > RAVA certification validation system has a path traversal vulnerability. An unauthenticated remote attacker can exploit this vulnerability to bypass authentication and access arbitrary system files.
 - [Live-Hack-CVE/CVE-2022-39058](https://github.com/Live-Hack-CVE/CVE-2022-39058)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39058">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39058">
@@ -5060,6 +5130,41 @@
 ## CVE-2022-39002 (2022-09-16T18:15:00)
 > Double free vulnerability in the storage module. Successful exploitation of this vulnerability will cause the memory to be freed twice.
 - [Live-Hack-CVE/CVE-2022-39002](https://github.com/Live-Hack-CVE/CVE-2022-39002)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39002">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39002">
+
+---
+## CVE-2022-38998 (2022-10-14T16:15:00)
+> The HISP module has a vulnerability of not verifying the data transferred in the kernel space.Successful exploitation of this vulnerability will cause out-of-bounds read, which affects data confidentiality.
+- [Live-Hack-CVE/CVE-2022-38998](https://github.com/Live-Hack-CVE/CVE-2022-38998)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38998">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38998">
+
+---
+## CVE-2022-38986 (2022-10-14T16:15:00)
+> The HIPP module has a vulnerability of bypassing the check of the data transferred in the kernel space.Successful exploitation of this vulnerability may cause out-of-bounds access to the HIPP module and page table tampering, affecting device confidentiality and availability.
+- [Live-Hack-CVE/CVE-2022-38986](https://github.com/Live-Hack-CVE/CVE-2022-38986)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38986">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38986">
+
+---
+## CVE-2022-38985 (2022-10-14T16:15:00)
+> The facial recognition module has a vulnerability in input validation.Successful exploitation of this vulnerability may affect data confidentiality.
+- [Live-Hack-CVE/CVE-2022-38985](https://github.com/Live-Hack-CVE/CVE-2022-38985)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38985">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38985">
+
+---
+## CVE-2022-38984 (2022-10-14T16:15:00)
+> The HIPP module has a vulnerability of not verifying the data transferred in the kernel space.Successful exploitation of this vulnerability will cause out-of-bounds read, which affects data confidentiality.
+- [Live-Hack-CVE/CVE-2022-38984](https://github.com/Live-Hack-CVE/CVE-2022-38984)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38984">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38984">
+
+---
+## CVE-2022-38983 (2022-10-14T16:15:00)
+> The BT Hfp Client module has a Use-After-Free (UAF) vulnerability.Successful exploitation of this vulnerability may result in arbitrary code execution.
+- [Live-Hack-CVE/CVE-2022-38983](https://github.com/Live-Hack-CVE/CVE-2022-38983)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38983">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38983">
+
+---
+## CVE-2022-38981 (2022-10-14T16:15:00)
+> The HwAirlink module has an out-of-bounds read vulnerability.Successful exploitation of this vulnerability may cause information leakage.
+- [Live-Hack-CVE/CVE-2022-38981](https://github.com/Live-Hack-CVE/CVE-2022-38981)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38981">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38981">
+
+---
+## CVE-2022-38977 (2022-10-14T16:15:00)
+> The HwAirlink module has a heap overflow vulnerability.Successful exploitation of this vulnerability may cause out-of-bounds writes, resulting in modification of sensitive data.
+- [Live-Hack-CVE/CVE-2022-38977](https://github.com/Live-Hack-CVE/CVE-2022-38977)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38977">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38977">
 
 ---
 ## CVE-2022-38974 (2022-11-18T19:15:00)
@@ -8684,6 +8789,11 @@
 - [Live-Hack-CVE/CVE-2022-28805](https://github.com/Live-Hack-CVE/CVE-2022-28805)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28805">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28805">
 
 ---
+## CVE-2022-2879 (2022-10-14T15:15:00)
+> Reader.Read does not set a limit on the maximum size of file headers. A maliciously crafted archive could cause Read to allocate unbounded amounts of memory, potentially causing resource exhaustion or panics. After fix, Reader.Read limits the maximum size of header blocks to 1 MiB.
+- [Live-Hack-CVE/CVE-2022-2879](https://github.com/Live-Hack-CVE/CVE-2022-2879)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2879">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2879">
+
+---
 ## CVE-2022-28739 (2022-05-09T18:15:00)
 > There is a buffer over-read in Ruby before 2.6.10, 2.7.x before 2.7.6, 3.x before 3.0.4, and 3.1.x before 3.1.2. It occurs in String-to-Float conversion, including Kernel#Float and String#to_f.
 - [Live-Hack-CVE/CVE-2022-28739](https://github.com/Live-Hack-CVE/CVE-2022-28739)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28739">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28739">
@@ -9098,6 +9208,11 @@
 ## CVE-2022-26804 (2022-12-13T19:15:00)
 > Microsoft Office Graphics Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-26805, CVE-2022-26806, CVE-2022-44692, CVE-2022-47211, CVE-2022-47212, CVE-2022-47213.
 - [Live-Hack-CVE/CVE-2022-26804](https://github.com/Live-Hack-CVE/CVE-2022-26804)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26804">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26804">
+
+---
+## CVE-2022-26788 (2022-04-15T19:15:00)
+> PowerShell Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2022-26788](https://github.com/Live-Hack-CVE/CVE-2022-26788)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26788">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26788">
 
 ---
 ## CVE-2022-26777 (2022-04-16T16:15:00)
@@ -9939,6 +10054,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-23277 (2022-03-09T17:15:00)
 > Microsoft Exchange Server Remote Code Execution Vulnerability.
 - [7BitsTeam/CVE-2022-23277](https://github.com/7BitsTeam/CVE-2022-23277)	<img alt="forks" src="https://img.shields.io/github/forks/7BitsTeam/CVE-2022-23277">	<img alt="stars" src="https://img.shields.io/github/stars/7BitsTeam/CVE-2022-23277">
+
+---
+## CVE-2022-23267 (2022-05-10T21:15:00)
+> .NET and Visual Studio Denial of Service Vulnerability. This CVE ID is unique from CVE-2022-29117, CVE-2022-29145.
+- [Live-Hack-CVE/CVE-2022-23267](https://github.com/Live-Hack-CVE/CVE-2022-23267)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23267">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23267">
 
 ---
 ## CVE-2022-23241 (2022-10-19T18:15:00)
