@@ -252,6 +252,11 @@
 ## CVE-2022-4683 (2022-12-23T12:15:00)
 > Sensitive Cookie in HTTPS Session Without 'Secure' Attribute in GitHub repository usememos/memos prior to 0.9.0.
 - [Live-Hack-CVE/CVE-2022-4683](https://github.com/Live-Hack-CVE/CVE-2022-4683)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4683">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4683">
+- [Live-Hack-CVE/CVE-2022-46831](https://github.com/Live-Hack-CVE/CVE-2022-46831)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46831">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46831">
+- [Live-Hack-CVE/CVE-2022-46830](https://github.com/Live-Hack-CVE/CVE-2022-46830)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46830">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46830">
+- [Live-Hack-CVE/CVE-2022-46832](https://github.com/Live-Hack-CVE/CVE-2022-46832)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46832">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46832">
+- [Live-Hack-CVE/CVE-2022-46834](https://github.com/Live-Hack-CVE/CVE-2022-46834)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46834">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46834">
+- [Live-Hack-CVE/CVE-2022-46833](https://github.com/Live-Hack-CVE/CVE-2022-46833)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46833">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46833">
 
 ---
 ## CVE-2022-46792 (2022-12-08T06:15:00)
