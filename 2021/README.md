@@ -26,6 +26,11 @@
 - [Live-Hack-CVE/CVE-2021-46837](https://github.com/Live-Hack-CVE/CVE-2021-46837)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46837">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46837">
 
 ---
+## CVE-2021-46784 (2022-07-17T22:15:00)
+> In Squid 3.x through 3.5.28, 4.x through 4.17, and 5.x before 5.6, due to improper buffer management, a Denial of Service can occur when processing long Gopher server responses.
+- [Live-Hack-CVE/CVE-2021-46784](https://github.com/Live-Hack-CVE/CVE-2021-46784)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46784">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46784">
+
+---
 ## CVE-2021-46744 (2022-05-11T17:15:00)
 > An attacker with access to a malicious hypervisor may be able to infer data values used in a SEV guest on AMD CPUs by monitoring ciphertext values over time.
 - [Live-Hack-CVE/CVE-2021-46744](https://github.com/Live-Hack-CVE/CVE-2021-46744)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46744">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46744">
@@ -2319,6 +2324,11 @@
 ## CVE-2021-32707 (2021-07-12T19:15:00)
 > Nextcloud Mail is a mail app for Nextcloud. In versions prior to 1.9.6, the Nextcloud Mail application does not, by default, render images in emails to not leak the read state. The privacy filter failed to filter images with a `background-image` CSS attribute. Note that the images were still passed through the Nextcloud image proxy, and thus there was no IP leakage. The issue was patched in version 1.9.6 and 1.10.0. No workarounds are known to exist.
 - [Live-Hack-CVE/CVE-2021-32707](https://github.com/Live-Hack-CVE/CVE-2021-32707)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32707">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32707">
+
+---
+## CVE-2021-32692 (2022-12-23T03:15:00)
+> Activity Watch is a free and open-source automated time tracker. Versions prior to 0.11.0 allow an attacker to execute arbitrary commands on any macOS machine with ActivityWatch running. The attacker can exploit this vulnerability by having the user visiting a website with the page title set to a malicious string. An attacker could use another application to accomplish the same, but the web browser is the most likely attack vector. This issue is patched in version 0.11.0. As a workaround, users can run the latest version of aw-watcher-window from source, or manually patch the `printAppTitle.scpt` file.
+- [Live-Hack-CVE/CVE-2021-32692](https://github.com/Live-Hack-CVE/CVE-2021-32692)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32692">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32692">
 
 ---
 ## CVE-2021-32686 (2021-07-23T22:15:00)
