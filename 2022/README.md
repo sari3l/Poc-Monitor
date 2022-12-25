@@ -968,6 +968,7 @@
 ## CVE-2022-4581 (2022-12-17T13:15:00)
 > A vulnerability was found in 1j01 mind-map and classified as problematic. This issue affects some unknown processing of the file app.coffee. The manipulation of the argument html leads to cross site scripting. The attack may be initiated remotely. The name of the patch is 9617e6084dfeccd92079ab4d7f439300a4b24394. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-216167.
 - [Live-Hack-CVE/CVE-2022-4581](https://github.com/Live-Hack-CVE/CVE-2022-4581)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4581">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4581">
+- [Live-Hack-CVE/CVE-2022-45816](https://github.com/Live-Hack-CVE/CVE-2022-45816)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45816">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45816">
 
 ---
 ## CVE-2022-45797 (2022-12-12T09:15:00)
@@ -999,6 +1000,8 @@
 ## CVE-2022-4572 (2022-12-17T02:15:00)
 > A vulnerability, which was classified as problematic, has been found in UBI Reader up to 0.8.0. Affected by this issue is the function ubireader_extract_files of the file ubireader/ubifs/output.py of the component UBIFS File Handler. The manipulation leads to path traversal. The attack may be launched remotely. Upgrading to version 0.8.5 is able to address this issue. The name of the patch is d5d68e6b1b9f7070c29df5f67fc060f579ae9139. It is recommended to upgrade the affected component. VDB-216146 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-4572](https://github.com/Live-Hack-CVE/CVE-2022-4572)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4572">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4572">
+- [Live-Hack-CVE/CVE-2022-45721](https://github.com/Live-Hack-CVE/CVE-2022-45721)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45721">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45721">
+- [Live-Hack-CVE/CVE-2022-45720](https://github.com/Live-Hack-CVE/CVE-2022-45720)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45720">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45720">
 
 ---
 ## CVE-2022-45645 (2022-12-02T18:15:00)
