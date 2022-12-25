@@ -1054,6 +1054,7 @@
 ## CVE-2022-4556 (2022-12-16T17:15:00)
 > A vulnerability was found in Alinto SOGo up to 5.7.1 and classified as problematic. Affected by this issue is the function _migrateMailIdentities of the file SoObjects/SOGo/SOGoUserDefaults.m of the component Identity Handler. The manipulation of the argument fullName leads to cross site scripting. The attack may be launched remotely. Upgrading to version 5.8.0 is able to address this issue. The name of the patch is efac49ae91a4a325df9931e78e543f707a0f8e5e. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-215960.
 - [Live-Hack-CVE/CVE-2022-4556](https://github.com/Live-Hack-CVE/CVE-2022-4556)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4556">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4556">
+- [Live-Hack-CVE/CVE-2022-45562](https://github.com/Live-Hack-CVE/CVE-2022-45562)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45562">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45562">
 
 ---
 ## CVE-2022-45550 (2022-12-07T19:15:00)
