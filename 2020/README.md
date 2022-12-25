@@ -1324,6 +1324,11 @@
 - [huzaifahussain98/CVE-2020-23582](https://github.com/huzaifahussain98/CVE-2020-23582)	<img alt="forks" src="https://img.shields.io/github/forks/huzaifahussain98/CVE-2020-23582">	<img alt="stars" src="https://img.shields.io/github/stars/huzaifahussain98/CVE-2020-23582">
 
 ---
+## CVE-2020-22864 (2021-10-26T22:15:00)
+> A cross site scripting (XSS) vulnerability in the Insert Video function of Froala WYSIWYG Editor 3.1.0 allows attackers to execute arbitrary web scripts or HTML.
+- [Live-Hack-CVE/CVE-2020-22864](https://github.com/Live-Hack-CVE/CVE-2020-22864)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-22864">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-22864">
+
+---
 ## CVE-2020-22820 (2022-11-03T17:15:00)
 > MKCMS V6.2 has SQL injection via the /ucenter/repass.php name parameter.
 - [Live-Hack-CVE/CVE-2020-22820](https://github.com/Live-Hack-CVE/CVE-2020-22820)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-22820">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-22820">
@@ -1387,6 +1392,11 @@
 ## CVE-2020-21016 (2022-10-31T13:15:00)
 > D-Link DIR-846 devices with firmware 100A35 allow remote attackers to execute arbitrary code as root via HNAP1/control/SetGuestWLanSettings.php.
 - [Live-Hack-CVE/CVE-2020-21016](https://github.com/Live-Hack-CVE/CVE-2020-21016)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-21016">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-21016">
+
+---
+## CVE-2020-20977 (2021-08-12T15:15:00)
+> A stored cross site scripting (XSS) vulnerability in index.php/legend/6.html of UK CMS v1.1.10 allows attackers to execute arbitrary web scripts or HTML via a crafted payload in the Comments section.
+- [Live-Hack-CVE/CVE-2020-20977](https://github.com/Live-Hack-CVE/CVE-2020-20977)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-20977">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-20977">
 
 ---
 ## CVE-2020-20951 (2021-05-18T16:15:00)

@@ -2728,6 +2728,11 @@
 - [Live-Hack-CVE/CVE-2021-28500](https://github.com/Live-Hack-CVE/CVE-2021-28500)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28500">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28500">
 
 ---
+## CVE-2021-28114 (2021-07-16T13:15:00)
+> Froala WYSIWYG Editor 3.2.6-1 is affected by XSS due to a namespace confusion during parsing.
+- [Live-Hack-CVE/CVE-2021-28114](https://github.com/Live-Hack-CVE/CVE-2021-28114)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28114">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28114">
+
+---
 ## CVE-2021-28052 (2022-09-26T16:15:00)
 > A tenant administrator Hitachi Content Platform (HCP) may modify the configuration in another tenant without authorization, potentially allowing unauthorized access to data in the other tenant. Also, a tenant user (non-administrator) may view configuration in another tenant without authorization. This issue affects: Hitachi Vantara Hitachi Content Platform versions prior to 8.3.7; 9.0.0 versions prior to 9.2.3.
 - [Live-Hack-CVE/CVE-2021-28052](https://github.com/Live-Hack-CVE/CVE-2021-28052)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28052">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28052">
