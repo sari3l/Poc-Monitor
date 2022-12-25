@@ -48,6 +48,11 @@
 - [Cedric1314/CVE-2022-48870](https://github.com/Cedric1314/CVE-2022-48870)	<img alt="forks" src="https://img.shields.io/github/forks/Cedric1314/CVE-2022-48870">	<img alt="stars" src="https://img.shields.io/github/stars/Cedric1314/CVE-2022-48870">
 
 ---
+## CVE-2022-47931 (2022-12-23T00:15:00)
+> IO FinNet tss-lib before 2.0.0 allows a collision of hash values.
+- [Live-Hack-CVE/CVE-2022-47931](https://github.com/Live-Hack-CVE/CVE-2022-47931)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47931">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47931">
+
+---
 ## CVE-2022-47928 (2022-12-22T23:15:00)
 > In MISP before 2.4.167, there is XSS in the template file uploads in app/View/Templates/upload_file.ctp.
 - [Live-Hack-CVE/CVE-2022-47928](https://github.com/Live-Hack-CVE/CVE-2022-47928)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47928">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47928">
@@ -3266,9 +3271,19 @@
 - [Live-Hack-CVE/CVE-2022-41983](https://github.com/Live-Hack-CVE/CVE-2022-41983)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41983">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41983">
 
 ---
+## CVE-2022-41981 (2022-12-22T22:15:00)
+> A stack-based buffer overflow vulnerability exists in the TGA file format parser of OpenImageIO v2.3.19.0. A specially-crafted targa file can lead to out of bounds read and write on the process stack, which can lead to arbitrary code execution. An attacker can provide a malicious file to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-41981](https://github.com/Live-Hack-CVE/CVE-2022-41981)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41981">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41981">
+
+---
 ## CVE-2022-41980 (2022-11-08T19:15:00)
 > Auth. (admin+) Cross-Site Scripting (XSS) vulnerability in Mantenimiento web plugin <= 0.13 on WordPress.
 - [Live-Hack-CVE/CVE-2022-41980](https://github.com/Live-Hack-CVE/CVE-2022-41980)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41980">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41980">
+
+---
+## CVE-2022-41977 (2022-12-22T22:15:00)
+> An out of bounds read vulnerability exists in the way OpenImageIO version v2.3.19.0 processes string fields in TIFF image files. A specially-crafted TIFF file can lead to information disclosure. An attacker can provide a malicious file to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-41977](https://github.com/Live-Hack-CVE/CVE-2022-41977)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41977">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41977">
 
 ---
 ## CVE-2022-41974 (2022-10-29T19:15:00)
@@ -3531,6 +3546,16 @@
 - [Live-Hack-CVE/CVE-2022-4184](https://github.com/Live-Hack-CVE/CVE-2022-4184)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4184">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4184">
 
 ---
+## CVE-2022-41838 (2022-12-22T22:15:00)
+> A code execution vulnerability exists in the DDS scanline parsing functionality of OpenImageIO Project OpenImageIO v2.4.4.2. A specially-crafted .dds can lead to a heap buffer overflow. An attacker can provide a malicious file to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-41838](https://github.com/Live-Hack-CVE/CVE-2022-41838)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41838">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41838">
+
+---
+## CVE-2022-41837 (2022-12-22T22:15:00)
+> An out-of-bounds write vulnerability exists in the OpenImageIO::add_exif_item_to_spec functionality of OpenImageIO Project OpenImageIO v2.4.4.2. Specially-crafted exif metadata can lead to stack-based memory corruption. An attacker can provide a malicious file to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-41837](https://github.com/Live-Hack-CVE/CVE-2022-41837)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41837">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41837">
+
+---
 ## CVE-2022-41836 (2022-10-19T22:15:00)
 > When an 'Attack Signature False Positive Mode' enabled security policy is configured on a virtual server, undisclosed requests can cause the bd process to terminate.
 - [Live-Hack-CVE/CVE-2022-41836](https://github.com/Live-Hack-CVE/CVE-2022-41836)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41836">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41836">
@@ -3572,6 +3597,11 @@
 - [Live-Hack-CVE/CVE-2022-41807](https://github.com/Live-Hack-CVE/CVE-2022-41807)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41807">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41807">
 - [Live-Hack-CVE/CVE-2022-41800](https://github.com/Live-Hack-CVE/CVE-2022-41800)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41800">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41800">
 - [Live-Hack-CVE/CVE-2022-41802](https://github.com/Live-Hack-CVE/CVE-2022-41802)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41802">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41802">
+
+---
+## CVE-2022-41794 (2022-12-22T22:15:00)
+> A heap based buffer overflow vulnerability exists in the PSD thumbnail resource parsing code of OpenImageIO 2.3.19.0. A specially-crafted PSD file can lead to arbitrary code execution. An attacker can provide a malicious file to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-41794](https://github.com/Live-Hack-CVE/CVE-2022-41794)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41794">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41794">
 
 ---
 ## CVE-2022-41791 (2022-11-17T23:15:00)
@@ -3701,6 +3731,11 @@
 ## CVE-2022-41653 (2022-12-13T22:15:00)
 > Daikin SVMPC1 version 2.1.22 and prior and SVMPC2 version 1.2.3 and prior are vulnerable to an attacker obtaining user login credentials and control the system.
 - [Live-Hack-CVE/CVE-2022-41653](https://github.com/Live-Hack-CVE/CVE-2022-41653)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41653">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41653">
+
+---
+## CVE-2022-41649 (2022-12-22T22:15:00)
+> A heap out of bounds read vulnerability exists in the handling of IPTC data while parsing TIFF images in OpenImageIO v2.3.19.0. A specially-crafted TIFF file can cause a read of adjacent heap memory, which can leak sensitive process information. An attacker can provide a malicious file to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-41649](https://github.com/Live-Hack-CVE/CVE-2022-41649)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41649">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41649">
 
 ---
 ## CVE-2022-41642 (2022-12-05T04:15:00)
@@ -4450,6 +4485,21 @@
 ## CVE-2022-40916 ()
 > 
 - [whitej3rry/CVE-2022-40916](https://github.com/whitej3rry/CVE-2022-40916)	<img alt="forks" src="https://img.shields.io/github/forks/whitej3rry/CVE-2022-40916">	<img alt="stars" src="https://img.shields.io/github/stars/whitej3rry/CVE-2022-40916">
+
+---
+## CVE-2022-40899 (2022-12-23T00:15:00)
+> An issue discovered in Python Charmers Future 0.18.2 and earlier allows remote attackers to cause a denial of service via crafted Set-Cookie header from malicious web server.
+- [Live-Hack-CVE/CVE-2022-40899](https://github.com/Live-Hack-CVE/CVE-2022-40899)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40899">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40899">
+
+---
+## CVE-2022-40898 (2022-12-23T00:15:00)
+> An issue discovered in Python Packaging Authority (PyPA) Wheel 0.37.1 and earlier allows remote attackers to cause a denial of service via attacker controlled input to wheel cli.
+- [Live-Hack-CVE/CVE-2022-40898](https://github.com/Live-Hack-CVE/CVE-2022-40898)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40898">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40898">
+
+---
+## CVE-2022-40897 (2022-12-23T00:15:00)
+> An issue discovered in Python Packaging Authority (PyPA) setuptools 65.3.0 and earlier allows remote attackers to cause a denial of service via crafted HTML package or custom PackageIndex page.
+- [Live-Hack-CVE/CVE-2022-40897](https://github.com/Live-Hack-CVE/CVE-2022-40897)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40897">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40897">
 
 ---
 ## CVE-2022-40890 (2022-09-29T13:15:00)
@@ -12162,6 +12212,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-2249](https://github.com/Live-Hack-CVE/CVE-2022-2249)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2249">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2249">
 
 ---
+## CVE-2022-22456 (2022-12-22T22:15:00)
+> IBM Security Verify Governance, Identity Manager 10.0.1 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 225004.
+- [Live-Hack-CVE/CVE-2022-22456](https://github.com/Live-Hack-CVE/CVE-2022-22456)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22456">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22456">
+
+---
 ## CVE-2022-22293 (2022-01-02T00:15:00)
 > admin/limits.php in Dolibarr 7.0.2 allows HTML injection, as demonstrated by the MAIN_MAX_DECIMALS_TOT parameter.
 - [Live-Hack-CVE/CVE-2022-22293](https://github.com/Live-Hack-CVE/CVE-2022-22293)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22293">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22293">
@@ -12265,6 +12320,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-22201 (2022-10-18T03:15:00)
 > An Improper Validation of Specified Index, Position, or Offset in Input vulnerability in the Packet Forwarding Engine (PFE) of Juniper Networks Junos OS allows an unauthenticated network-based attacker to cause a Denial of Service (DoS). On SRX5000 Series with SPC3, SRX4000 Series, and vSRX, when PowerMode IPsec is configured and a malformed ESP packet matching an established IPsec tunnel is received the PFE crashes. This issue affects Juniper Networks Junos OS on SRX5000 Series with SPC3, SRX4000 Series, and vSRX: All versions prior to 19.4R2-S6, 19.4R3-S7; 20.1 versions prior to 20.1R3-S3; 20.2 versions prior to 20.2R3-S4; 20.3 versions prior to 20.3R3-S3; 20.4 versions prior to 20.4R3-S2; 21.1 versions prior to 21.1R3; 21.2 versions prior to 21.2R3; 21.3 versions prior to 21.3R1-S2, 21.3R2.
 - [Live-Hack-CVE/CVE-2022-22201](https://github.com/Live-Hack-CVE/CVE-2022-22201)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22201">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22201">
+
+---
+## CVE-2022-22184 (2022-12-22T22:15:00)
+> An Improper Input Validation vulnerability in the Routing Protocol Daemon (rpd) of Juniper Networks Junos OS and Junos OS Evolved allows an unauthenticated network-based attacker to cause a Denial of Service (DoS). If a BGP update message is received over an established BGP session, and that message contains a specific, optional transitive attribute, this session will be torn down with an update message error. This issue cannot propagate beyond an affected system as the processing error occurs as soon as the update is received. This issue is exploitable remotely as the respective attribute will propagate through unaffected systems and intermediate AS (if any). Continuous receipt of a BGP update containing this attribute will create a sustained Denial of Service (DoS) condition. Since this issue only affects 22.3R1, Juniper strongly encourages customers to move to 22.3R1-S1. Juniper SIRT felt that the need to promptly warn customers about this issue affecting the 22.3R1 versions of Junos OS and Junos OS Evolved warranted an Out of Cycle JSA. This issue affects: Juniper Networks Junos OS version 22.3R1. Juniper Networks Junos OS Evolved version 22.3R1-EVO. This issue does not affect: Juniper Networks Junos OS versions prior to 22.3R1. Juniper Networks Junos OS Evolved versions prior to 22.3R1-EVO.
+- [Live-Hack-CVE/CVE-2022-22184](https://github.com/Live-Hack-CVE/CVE-2022-22184)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22184">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22184">
 
 ---
 ## CVE-2022-22078 (2022-10-19T11:15:00)
