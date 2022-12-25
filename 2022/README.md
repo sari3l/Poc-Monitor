@@ -6218,6 +6218,11 @@
 - [Live-Hack-CVE/CVE-2022-39205](https://github.com/Live-Hack-CVE/CVE-2022-39205)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39205">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39205">
 
 ---
+## CVE-2022-39202 (2022-09-13T18:15:00)
+> matrix-appservice-irc is an open source Node.js IRC bridge for Matrix. The Internet Relay Chat (IRC) protocol allows you to specify multiple modes in a single mode command. Due to a bug in the underlying matrix-org/node-irc library, affected versions of matrix-appservice-irc perform parsing of such modes incorrectly, potentially resulting in the wrong user being given permissions. Mode commands can only be executed by privileged users, so this can only be abused if an operator is tricked into running the command on behalf of an attacker. The vulnerability has been patched in matrix-appservice-irc 0.35.0. As a workaround users should refrain from entering mode commands suggested by untrusted users. Avoid using multiple modes in a single command.
+- [Live-Hack-CVE/CVE-2022-39202](https://github.com/Live-Hack-CVE/CVE-2022-39202)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39202">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39202">
+
+---
 ## CVE-2022-39197 (2022-09-22T01:15:00)
 > An XSS (Cross Site Scripting) vulnerability was found in HelpSystems Cobalt Strike through 4.7 that allowed a remote attacker to execute HTML on the Cobalt Strike teamserver. To exploit the vulnerability, one must first inspect a Cobalt Strike payload, and then modify the username field in the payload (or create a new payload with the extracted information and then modify that username field to be malformed).
 - [safe3s/CVE-2022-39197](https://github.com/safe3s/CVE-2022-39197)	<img alt="forks" src="https://img.shields.io/github/forks/safe3s/CVE-2022-39197">	<img alt="stars" src="https://img.shields.io/github/stars/safe3s/CVE-2022-39197">
@@ -7242,6 +7247,11 @@
 - [Live-Hack-CVE/CVE-2022-3801](https://github.com/Live-Hack-CVE/CVE-2022-3801)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3801">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3801">
 
 ---
+## CVE-2022-38007 (2022-09-13T19:15:00)
+> Azure Guest Configuration and Azure Arc-enabled servers Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2022-38007](https://github.com/Live-Hack-CVE/CVE-2022-38007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38007">
+
+---
 ## CVE-2022-38003 (2022-10-11T19:15:00)
 > Windows Resilient File System Elevation of Privilege.
 - [Live-Hack-CVE/CVE-2022-38003](https://github.com/Live-Hack-CVE/CVE-2022-38003)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38003">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38003">
@@ -7373,6 +7383,31 @@
 - [Live-Hack-CVE/CVE-2022-37965](https://github.com/Live-Hack-CVE/CVE-2022-37965)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37965">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37965">
 
 ---
+## CVE-2022-37964 (2022-09-13T19:15:00)
+> Windows Kernel Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-37956, CVE-2022-37957.
+- [Live-Hack-CVE/CVE-2022-37964](https://github.com/Live-Hack-CVE/CVE-2022-37964)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37964">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37964">
+
+---
+## CVE-2022-37963 (2022-09-13T19:15:00)
+> Microsoft Office Visio Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-38010.
+- [Live-Hack-CVE/CVE-2022-37963](https://github.com/Live-Hack-CVE/CVE-2022-37963)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37963">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37963">
+
+---
+## CVE-2022-37962 (2022-09-13T19:15:00)
+> Microsoft PowerPoint Remote Code Execution Vulnerability.
+- [Live-Hack-CVE/CVE-2022-37962](https://github.com/Live-Hack-CVE/CVE-2022-37962)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37962">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37962">
+
+---
+## CVE-2022-37961 (2022-09-13T19:15:00)
+> Microsoft SharePoint Server Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-38008, CVE-2022-38009.
+- [Live-Hack-CVE/CVE-2022-37961](https://github.com/Live-Hack-CVE/CVE-2022-37961)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37961">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37961">
+
+---
+## CVE-2022-37959 (2022-09-13T19:15:00)
+> Network Device Enrollment Service (NDES) Security Feature Bypass Vulnerability.
+- [Live-Hack-CVE/CVE-2022-37959](https://github.com/Live-Hack-CVE/CVE-2022-37959)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37959">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37959">
+
+---
 ## CVE-2022-37958 (2022-09-13T19:15:00)
 > SPNEGO Extended Negotiation (NEGOEX) Security Mechanism Information Disclosure Vulnerability.
 - [RCEman01/CVE-2022-37958-Windows-Server-RCE](https://github.com/RCEman01/CVE-2022-37958-Windows-Server-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/RCEman01/CVE-2022-37958-Windows-Server-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/RCEman01/CVE-2022-37958-Windows-Server-RCE">
@@ -7382,6 +7417,11 @@
 ## CVE-2022-37956 (2022-09-13T19:15:00)
 > Windows Kernel Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-37957, CVE-2022-37964.
 - [Live-Hack-CVE/CVE-2022-37956](https://github.com/Live-Hack-CVE/CVE-2022-37956)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37956">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37956">
+
+---
+## CVE-2022-37955 (2022-09-13T19:15:00)
+> Windows Group Policy Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2022-37955](https://github.com/Live-Hack-CVE/CVE-2022-37955)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37955">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37955">
 
 ---
 ## CVE-2022-37931 (2022-11-22T05:15:00)
@@ -7526,8 +7566,8 @@
 - [Live-Hack-CVE/CVE-2022-37710](https://github.com/Live-Hack-CVE/CVE-2022-37710)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37710">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37710">
 
 ---
-## CVE-2022-37706 ()
-> 
+## CVE-2022-37706 (2022-12-25T19:15:00)
+> enlightenment_sys in Enlightenment before 0.25.4 allows local users to gain privileges because it is setuid root, and the system library function mishandles pathnames that begin with a /dev/.. substring.
 - [MaherAzzouzi/CVE-2022-37706-LPE-exploit](https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/MaherAzzouzi/CVE-2022-37706-LPE-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/MaherAzzouzi/CVE-2022-37706-LPE-exploit">
 - [ECU-10525611-Xander/CVE-2022-37706](https://github.com/ECU-10525611-Xander/CVE-2022-37706)	<img alt="forks" src="https://img.shields.io/github/forks/ECU-10525611-Xander/CVE-2022-37706">	<img alt="stars" src="https://img.shields.io/github/stars/ECU-10525611-Xander/CVE-2022-37706">
 
@@ -7975,9 +8015,34 @@
 - [Live-Hack-CVE/CVE-2022-3690](https://github.com/Live-Hack-CVE/CVE-2022-3690)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3690">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3690">
 
 ---
+## CVE-2022-36872 (2022-09-09T15:15:00)
+> Pending Intent hijacking vulnerability in SpayNotification in Samsung Pay prior to version 5.0.63 for KR and 5.1.47 for Global allows attackers to access files without permission via implicit Intent.
+- [Live-Hack-CVE/CVE-2022-36872](https://github.com/Live-Hack-CVE/CVE-2022-36872)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36872">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36872">
+
+---
+## CVE-2022-36871 (2022-09-09T15:15:00)
+> Pending Intent hijacking vulnerability in NotiCenterUtils in Samsung Pay prior to version 5.0.63 for KR and 5.1.47 for Global allows attackers to access files without permission via implicit Intent.
+- [Live-Hack-CVE/CVE-2022-36871](https://github.com/Live-Hack-CVE/CVE-2022-36871)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36871">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36871">
+
+---
+## CVE-2022-36870 (2022-09-09T15:15:00)
+> Pending Intent hijacking vulnerability in MTransferNotificationManager in Samsung Pay prior to version 5.0.63 for KR and 5.1.47 for Global allows attackers to access files without permission via implicit Intent.
+- [Live-Hack-CVE/CVE-2022-36870](https://github.com/Live-Hack-CVE/CVE-2022-36870)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36870">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36870">
+
+---
+## CVE-2022-36869 (2022-09-09T15:15:00)
+> Improper access control vulnerability in ContactsDumpActivity of?Contacts Provider prior to version 12.7.59 allows attacker to access the file without permission.
+- [Live-Hack-CVE/CVE-2022-36869](https://github.com/Live-Hack-CVE/CVE-2022-36869)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36869">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36869">
+
+---
 ## CVE-2022-36868 (2022-10-07T15:15:00)
 > Improper restriction of broadcasting Intent in MouseNKeyHidDevice prior to SMR Oct-2022 Release 1 leaks MAC address of the connected Bluetooth device.
 - [Live-Hack-CVE/CVE-2022-36868](https://github.com/Live-Hack-CVE/CVE-2022-36868)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36868">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36868">
+
+---
+## CVE-2022-36867 (2022-09-09T15:15:00)
+> Improper access control vulnerability in Editor Lite prior to version 4.0.40.14 allows attackers to access sensitive information.
+- [Live-Hack-CVE/CVE-2022-36867](https://github.com/Live-Hack-CVE/CVE-2022-36867)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36867">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36867">
 
 ---
 ## CVE-2022-36804 (2022-08-25T06:15:00)
@@ -8295,6 +8360,11 @@
 - [Live-Hack-CVE/CVE-2022-36223](https://github.com/Live-Hack-CVE/CVE-2022-36223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36223">
 
 ---
+## CVE-2022-36201 (2022-08-31T21:15:00)
+> Doctor’s Appointment System v1.0 is vulnerable to Blind SQLi via settings.php.
+- [Live-Hack-CVE/CVE-2022-36201](https://github.com/Live-Hack-CVE/CVE-2022-36201)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36201">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36201">
+
+---
 ## CVE-2022-36200 (2022-08-29T15:15:00)
 > In FiberHome VDSL2 Modem HG150-Ub_V3.0, Credentials of Admin are submitted in URL, which can be logged/sniffed.
 - [afaq1337/CVE-2022-36200](https://github.com/afaq1337/CVE-2022-36200)	<img alt="forks" src="https://img.shields.io/github/forks/afaq1337/CVE-2022-36200">	<img alt="stars" src="https://img.shields.io/github/stars/afaq1337/CVE-2022-36200">
@@ -8318,6 +8388,16 @@
 ## CVE-2022-36162 ()
 > 
 - [MaherAzzouzi/CVE-2022-36162](https://github.com/MaherAzzouzi/CVE-2022-36162)	<img alt="forks" src="https://img.shields.io/github/forks/MaherAzzouzi/CVE-2022-36162">	<img alt="stars" src="https://img.shields.io/github/stars/MaherAzzouzi/CVE-2022-36162">
+
+---
+## CVE-2022-36089 (2022-09-07T23:15:00)
+> KubeVela is an application delivery platform Users using KubeVela's VelaUX APIServer could be affected by an authentication bypass vulnerability. In KubeVela prior to versions 1.4.11 and 1.5.4, VelaUX APIServer uses the `PlatformID` as the signed key to generate the JWT tokens for users. Another API called `getSystemInfo` exposes the platformID. This vulnerability allows users to use the platformID to re-generate the JWT tokens to bypass the authentication. Versions 1.4.11 and 1.5.4 contain a patch for this issue.
+- [Live-Hack-CVE/CVE-2022-36089](https://github.com/Live-Hack-CVE/CVE-2022-36089)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36089">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36089">
+
+---
+## CVE-2022-36088 (2022-09-07T23:15:00)
+> GoCD is a continuous delivery server. Windows installations via either the server or agent installers for GoCD prior to 22.2.0 do not adequately restrict permissions when installing outside of the default location. This could allow a malicious user with local access to the server GoCD Server or Agent are installed on to modify executables or components of the installation. This does not affect zip file-based installs, installations to other platforms, or installations inside `Program Files` or `Program Files (x86)`. This issue is fixed in GoCD 22.2.0 installers. As a workaround, if the server or agent is installed outside of `Program Files (x86)`, verify the the permission of the Server or Agent installation directory to ensure the `Everyone` user group does not have `Full Control`, `Modify` or `Write` permissions.
+- [Live-Hack-CVE/CVE-2022-36088](https://github.com/Live-Hack-CVE/CVE-2022-36088)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36088">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36088">
 
 ---
 ## CVE-2022-36087 (2022-09-09T21:15:00)
@@ -8559,9 +8639,39 @@
 - [Wack0/CVE-2022-35841](https://github.com/Wack0/CVE-2022-35841)	<img alt="forks" src="https://img.shields.io/github/forks/Wack0/CVE-2022-35841">	<img alt="stars" src="https://img.shields.io/github/stars/Wack0/CVE-2022-35841">
 
 ---
+## CVE-2022-35840 (2022-09-13T19:15:00)
+> Microsoft OLE DB Provider for SQL Server Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-34731, CVE-2022-34733, CVE-2022-35834, CVE-2022-35835, CVE-2022-35836.
+- [Live-Hack-CVE/CVE-2022-35840](https://github.com/Live-Hack-CVE/CVE-2022-35840)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35840">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35840">
+
+---
+## CVE-2022-35838 (2022-09-13T19:15:00)
+> HTTP V3 Denial of Service Vulnerability.
+- [Live-Hack-CVE/CVE-2022-35838](https://github.com/Live-Hack-CVE/CVE-2022-35838)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35838">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35838">
+
+---
+## CVE-2022-35835 (2022-09-13T19:15:00)
+> Microsoft OLE DB Provider for SQL Server Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-34731, CVE-2022-34733, CVE-2022-35834, CVE-2022-35836, CVE-2022-35840.
+- [Live-Hack-CVE/CVE-2022-35835](https://github.com/Live-Hack-CVE/CVE-2022-35835)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35835">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35835">
+
+---
+## CVE-2022-35834 (2022-09-13T19:15:00)
+> Microsoft OLE DB Provider for SQL Server Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-34731, CVE-2022-34733, CVE-2022-35835, CVE-2022-35836, CVE-2022-35840.
+- [Live-Hack-CVE/CVE-2022-35834](https://github.com/Live-Hack-CVE/CVE-2022-35834)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35834">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35834">
+
+---
+## CVE-2022-35833 (2022-09-13T19:15:00)
+> Windows Secure Channel Denial of Service Vulnerability. This CVE ID is unique from CVE-2022-30196.
+- [Live-Hack-CVE/CVE-2022-35833](https://github.com/Live-Hack-CVE/CVE-2022-35833)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35833">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35833">
+
+---
 ## CVE-2022-35821 (2022-08-09T20:15:00)
 > Azure Sphere Information Disclosure Vulnerability.
 - [Live-Hack-CVE/CVE-2022-35821](https://github.com/Live-Hack-CVE/CVE-2022-35821)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35821">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35821">
+
+---
+## CVE-2022-35805 (2022-09-13T19:15:00)
+> Microsoft Dynamics CRM (on-premises) Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-34700.
+- [Live-Hack-CVE/CVE-2022-35805](https://github.com/Live-Hack-CVE/CVE-2022-35805)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35805">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35805">
 
 ---
 ## CVE-2022-35770 (2022-10-11T19:15:00)
@@ -9200,6 +9310,16 @@
 - [Live-Hack-CVE/CVE-2022-3477](https://github.com/Live-Hack-CVE/CVE-2022-3477)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3477">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3477">
 
 ---
+## CVE-2022-34733 (2022-09-13T19:15:00)
+> Microsoft OLE DB Provider for SQL Server Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-34731, CVE-2022-35834, CVE-2022-35835, CVE-2022-35836, CVE-2022-35840.
+- [Live-Hack-CVE/CVE-2022-34733](https://github.com/Live-Hack-CVE/CVE-2022-34733)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34733">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34733">
+
+---
+## CVE-2022-34731 (2022-09-13T19:15:00)
+> Microsoft OLE DB Provider for SQL Server Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-34733, CVE-2022-35834, CVE-2022-35835, CVE-2022-35836, CVE-2022-35840.
+- [Live-Hack-CVE/CVE-2022-34731](https://github.com/Live-Hack-CVE/CVE-2022-34731)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34731">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34731">
+
+---
 ## CVE-2022-3473 (2022-10-13T04:15:00)
 > A vulnerability classified as critical has been found in SourceCodester Human Resource Management System. This affects an unknown part of the file getstatecity.php. The manipulation of the argument ci leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-210717 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-3473](https://github.com/Live-Hack-CVE/CVE-2022-3473)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3473">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3473">
@@ -9208,11 +9328,27 @@
 ## CVE-2022-34729 (2022-09-13T19:15:00)
 > Windows GDI Elevation of Privilege Vulnerability.
 - [Pwnrin/CVE-2022-34729](https://github.com/Pwnrin/CVE-2022-34729)	<img alt="forks" src="https://img.shields.io/github/forks/Pwnrin/CVE-2022-34729">	<img alt="stars" src="https://img.shields.io/github/stars/Pwnrin/CVE-2022-34729">
+- [Live-Hack-CVE/CVE-2022-34729](https://github.com/Live-Hack-CVE/CVE-2022-34729)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34729">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34729">
+
+---
+## CVE-2022-34728 (2022-09-13T19:15:00)
+> Windows Graphics Component Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-35837, CVE-2022-38006.
+- [Live-Hack-CVE/CVE-2022-34728](https://github.com/Live-Hack-CVE/CVE-2022-34728)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34728">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34728">
+
+---
+## CVE-2022-34723 (2022-09-13T19:15:00)
+> Windows DPAPI (Data Protection Application Programming Interface) Information Disclosure Vulnerability.
+- [Live-Hack-CVE/CVE-2022-34723](https://github.com/Live-Hack-CVE/CVE-2022-34723)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34723">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34723">
 
 ---
 ## CVE-2022-34721 (2022-09-13T19:15:00)
 > Windows Internet Key Exchange (IKE) Protocol Extensions Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-34722.
 - [sandpix/CVE-2022-34721-RCE-POC](https://github.com/sandpix/CVE-2022-34721-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/sandpix/CVE-2022-34721-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/sandpix/CVE-2022-34721-RCE-POC">
+
+---
+## CVE-2022-34719 (2022-09-13T19:15:00)
+> Windows Distributed File System (DFS) Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2022-34719](https://github.com/Live-Hack-CVE/CVE-2022-34719)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34719">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34719">
 
 ---
 ## CVE-2022-34718 (2022-09-13T19:15:00)
@@ -12617,6 +12753,11 @@
 - [Live-Hack-CVE/CVE-2022-2640](https://github.com/Live-Hack-CVE/CVE-2022-2640)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2640">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2640">
 
 ---
+## CVE-2022-26394 (2022-09-09T15:15:00)
+> The Baxter Spectrum WBM does not perform mutual authentication with the gateway server host. This may allow an attacker to perform a man in the middle attack that modifies parameters making the network connection fail.
+- [Live-Hack-CVE/CVE-2022-26394](https://github.com/Live-Hack-CVE/CVE-2022-26394)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26394">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26394">
+
+---
 ## CVE-2022-2639 (2022-09-01T21:15:00)
 > An integer coercion error was found in the openvswitch kernel module. Given a sufficiently large number of actions, while copying and reserving memory for a new action of a new flow, the reserve_sfa_size() function does not return -EMSGSIZE as expected, potentially leading to an out-of-bounds write access. This flaw allows a local user to crash or potentially escalate their privileges on the system.
 - [veritas501/CVE-2022-2639-PipeVersion](https://github.com/veritas501/CVE-2022-2639-PipeVersion)	<img alt="forks" src="https://img.shields.io/github/forks/veritas501/CVE-2022-2639-PipeVersion">	<img alt="stars" src="https://img.shields.io/github/stars/veritas501/CVE-2022-2639-PipeVersion">
@@ -15215,6 +15356,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1705 (2022-08-10T20:15:00)
 > Acceptance of some invalid Transfer-Encoding headers in the HTTP/1 client in net/http before Go 1.17.12 and Go 1.18.4 allows HTTP request smuggling if combined with an intermediate server that also improperly fails to reject the header as invalid.
 - [Live-Hack-CVE/CVE-2022-1705](https://github.com/Live-Hack-CVE/CVE-2022-1705)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1705">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1705">
+
+---
+## CVE-2022-1697 (2022-09-06T18:15:00)
+> Okta Active Directory Agent versions 3.8.0 through 3.11.0 installed the Okta AD Agent Update Service using an unquoted path. Note: To remediate this vulnerability, you must uninstall Okta Active Directory Agent and reinstall Okta Active Directory Agent 3.12.0 or greater per the documentation.
+- [Live-Hack-CVE/CVE-2022-1697](https://github.com/Live-Hack-CVE/CVE-2022-1697)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1697">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1697">
 
 ---
 ## CVE-2022-1679 (2022-05-16T18:15:00)
