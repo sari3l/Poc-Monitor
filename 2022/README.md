@@ -11385,6 +11385,10 @@
 ## CVE-2022-2924 (2022-09-20T06:15:00)
 > Cross-site Scripting (XSS) - Stored in GitHub repository yetiforcecompany/yetiforcecrm prior to 6.3.
 - [Live-Hack-CVE/CVE-2022-2924](https://github.com/Live-Hack-CVE/CVE-2022-2924)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2924">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2924">
+- [Live-Hack-CVE/CVE-2022-29243](https://github.com/Live-Hack-CVE/CVE-2022-29243)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29243">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29243">
+- [Live-Hack-CVE/CVE-2022-29244](https://github.com/Live-Hack-CVE/CVE-2022-29244)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29244">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29244">
+- [Live-Hack-CVE/CVE-2022-29248](https://github.com/Live-Hack-CVE/CVE-2022-29248)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29248">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29248">
+- [a1ise/CVE-2022-29247](https://github.com/a1ise/CVE-2022-29247)	<img alt="forks" src="https://img.shields.io/github/forks/a1ise/CVE-2022-29247">	<img alt="stars" src="https://img.shields.io/github/stars/a1ise/CVE-2022-29247">
 
 ---
 ## CVE-2022-29221 (2022-05-24T15:15:00)
