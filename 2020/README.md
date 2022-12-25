@@ -1954,6 +1954,11 @@
 - [Live-Hack-CVE/CVE-2020-12783](https://github.com/Live-Hack-CVE/CVE-2020-12783)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12783">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12783">
 
 ---
+## CVE-2020-12527 (2021-03-02T22:15:00)
+> An issue was discovered in MB connect line mymbCONNECT24, mbCONNECT24 and Helmholz myREX24 and myREX24.virtual in all versions through v2.11.2. Improper access validation allows a logged in user to shutdown or reboot devices in his account without having corresponding permissions.
+- [Live-Hack-CVE/CVE-2020-12527](https://github.com/Live-Hack-CVE/CVE-2020-12527)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12527">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12527">
+
+---
 ## CVE-2020-12516 (2020-12-10T03:15:00)
 > Older firmware versions (FW1 up to FW10) of the WAGO PLC family 750-88x and 750-352 are vulnerable for a special denial of service attack.
 - [Live-Hack-CVE/CVE-2020-12516](https://github.com/Live-Hack-CVE/CVE-2020-12516)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12516">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12516">

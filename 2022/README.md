@@ -5070,6 +5070,11 @@
 - [nidhi7598/expat_2.1.0_CVE-2022-40674](https://github.com/nidhi7598/expat_2.1.0_CVE-2022-40674)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/expat_2.1.0_CVE-2022-40674">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/expat_2.1.0_CVE-2022-40674">
 
 ---
+## CVE-2022-40673 (2022-09-14T11:15:00)
+> KDiskMark before 3.1.0 lacks authorization checking for D-Bus methods such as Helper::flushPageCache.
+- [Live-Hack-CVE/CVE-2022-40673](https://github.com/Live-Hack-CVE/CVE-2022-40673)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40673">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40673">
+
+---
 ## CVE-2022-40672 (2022-09-23T15:15:00)
 > Authenticated (admin+) Stored Cross-Site Scripting (XSS) vulnerability in CPO Shortcodes plugin <= 1.5.0 at WordPress.
 - [Live-Hack-CVE/CVE-2022-40672](https://github.com/Live-Hack-CVE/CVE-2022-40672)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40672">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40672">
@@ -6778,6 +6783,11 @@
 - [Live-Hack-CVE/CVE-2022-38649](https://github.com/Live-Hack-CVE/CVE-2022-38649)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38649">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38649">
 
 ---
+## CVE-2022-38637 (2022-09-13T21:15:00)
+> Hospital Management System v1.0 was discovered to contain multiple SQL injection vulnerabilities via the Username and Password parameters on the Login page.
+- [Live-Hack-CVE/CVE-2022-38637](https://github.com/Live-Hack-CVE/CVE-2022-38637)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38637">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38637">
+
+---
 ## CVE-2022-38619 (2022-09-21T00:15:00)
 > SmartVista SVFE2 v2.2.22 was discovered to contain a SQL injection vulnerability via the UserForm:j_id90 parameter at /SVFE2/pages/feegroups/mcc_group.jsf.
 - [Live-Hack-CVE/CVE-2022-38619](https://github.com/Live-Hack-CVE/CVE-2022-38619)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38619">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38619">
@@ -7866,6 +7876,26 @@
 - [Fjowel/CVE-2022-37150](https://github.com/Fjowel/CVE-2022-37150)	<img alt="forks" src="https://img.shields.io/github/forks/Fjowel/CVE-2022-37150">	<img alt="stars" src="https://img.shields.io/github/stars/Fjowel/CVE-2022-37150">
 
 ---
+## CVE-2022-37140 (2022-09-14T11:15:00)
+> PayMoney 3.3 is vulnerable to Client Side Remote Code Execution (RCE). The vulnerability exists on the reply ticket function and upload the malicious file. A calculator will open when the victim who download the file open the RTF file.
+- [Live-Hack-CVE/CVE-2022-37140](https://github.com/Live-Hack-CVE/CVE-2022-37140)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37140">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37140">
+
+---
+## CVE-2022-37139 (2022-09-14T11:15:00)
+> Loan Management System version 1.0 suffers from a persistent cross site scripting vulnerability.
+- [Live-Hack-CVE/CVE-2022-37139](https://github.com/Live-Hack-CVE/CVE-2022-37139)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37139">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37139">
+
+---
+## CVE-2022-37138 (2022-09-14T11:15:00)
+> Loan Management System 1.0 is vulnerable to SQL Injection at the login page, which allows unauthorized users to login as Administrator after injecting username form.
+- [Live-Hack-CVE/CVE-2022-37138](https://github.com/Live-Hack-CVE/CVE-2022-37138)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37138">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37138">
+
+---
+## CVE-2022-37137 (2022-09-14T11:15:00)
+> PayMoney 3.3 is vulnerable to Stored Cross-Site Scripting (XSS) during replying the ticket. The XSS can be obtain from injecting under "Message" field with "description" parameter with the specially crafted payload to gain Stored XSS. The XSS then will prompt after that or can be access from the view ticket function.
+- [Live-Hack-CVE/CVE-2022-37137](https://github.com/Live-Hack-CVE/CVE-2022-37137)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37137">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37137">
+
+---
 ## CVE-2022-3713 (2022-12-01T18:15:00)
 > A code injection vulnerability allows adjacent attackers to execute code in the Wifi controller of Sophos Firewall releases older than version 19.5 GA.
 - [Live-Hack-CVE/CVE-2022-3713](https://github.com/Live-Hack-CVE/CVE-2022-3713)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3713">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3713">
@@ -8110,6 +8140,11 @@
 - [Live-Hack-CVE/CVE-2022-36773](https://github.com/Live-Hack-CVE/CVE-2022-36773)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36773">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36773">
 
 ---
+## CVE-2022-36768 (2022-09-13T21:15:00)
+> IBM AIX 7.1, 7.2, 7.3, and VIOS 3.1 could allow a non-privileged local user to exploit a vulnerability in the invscout command to obtain root privileges. IBM X-Force ID: 232014.
+- [Live-Hack-CVE/CVE-2022-36768](https://github.com/Live-Hack-CVE/CVE-2022-36768)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36768">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36768">
+
+---
 ## CVE-2022-36747 (2022-08-30T22:15:00)
 > Razor v0.8.0 was discovered to contain a cross-site scripting (XSS) vulnerability via the function uploadchannel().
 - [Live-Hack-CVE/CVE-2022-36747](https://github.com/Live-Hack-CVE/CVE-2022-36747)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36747">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36747">
@@ -8148,6 +8183,21 @@
 ## CVE-2022-3667 (2022-10-26T19:15:00)
 > A vulnerability, which was classified as critical, was found in Axiomatic Bento4. This affects the function AP4_MemoryByteStream::WritePartial of the file Ap4ByteStream.cpp of the component mp42aac. The manipulation leads to heap-based buffer overflow. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-212007.
 - [Live-Hack-CVE/CVE-2022-3667](https://github.com/Live-Hack-CVE/CVE-2022-3667)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3667">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3667">
+
+---
+## CVE-2022-36669 (2022-09-14T11:15:00)
+> Hospital Information System version 1.0 suffers from a remote SQL injection vulnerability that allows for authentication bypass.
+- [Live-Hack-CVE/CVE-2022-36669](https://github.com/Live-Hack-CVE/CVE-2022-36669)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36669">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36669">
+
+---
+## CVE-2022-36668 (2022-09-14T11:15:00)
+> Garage Management System 1.0 is vulnerable to Stored Cross Site Scripting (XSS) on several parameters. The vulnerabilities exist during creating or editing the parts under parameters. Using the XSS payload, the Stored XSS triggered and can be used for further attack vector.
+- [Live-Hack-CVE/CVE-2022-36668](https://github.com/Live-Hack-CVE/CVE-2022-36668)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36668">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36668">
+
+---
+## CVE-2022-36667 (2022-09-14T11:15:00)
+> Garage Management System 1.0 is vulnerable to the Remote Code Execution (RCE) due to the lack of filtering from the file upload function. The vulnerability exist during adding parts and from the upload function, the attacker can upload PHP Reverse Shell straight away to gain RCE.
+- [Live-Hack-CVE/CVE-2022-36667](https://github.com/Live-Hack-CVE/CVE-2022-36667)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36667">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36667">
 
 ---
 ## CVE-2022-36663 (2022-09-06T21:15:00)
@@ -8236,6 +8286,11 @@
 - [emirpolatt/CVE-2022-36446](https://github.com/emirpolatt/CVE-2022-36446)	<img alt="forks" src="https://img.shields.io/github/forks/emirpolatt/CVE-2022-36446">	<img alt="stars" src="https://img.shields.io/github/stars/emirpolatt/CVE-2022-36446">
 - [kh4sh3i/Webmin-CVE](https://github.com/kh4sh3i/Webmin-CVE)	<img alt="forks" src="https://img.shields.io/github/forks/kh4sh3i/Webmin-CVE">	<img alt="stars" src="https://img.shields.io/github/stars/kh4sh3i/Webmin-CVE">
 - [Live-Hack-CVE/CVE-2022-36446](https://github.com/Live-Hack-CVE/CVE-2022-36446)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36446">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36446">
+
+---
+## CVE-2022-36436 (2022-09-14T11:15:00)
+> OSU Open Source Lab VNCAuthProxy through 1.1.1 is affected by an vncap/vnc/protocol.py VNCServerAuthenticator authentication-bypass vulnerability that could allow a malicious actor to gain unauthorized access to a VNC session or to disconnect a legitimate user from a VNC session. A remote attacker with network access to the proxy server could leverage this vulnerability to connect to VNC servers protected by the proxy server without providing any authentication credentials. Exploitation of this issue requires that the proxy server is currently accepting connections for the target VNC server.
+- [Live-Hack-CVE/CVE-2022-36436](https://github.com/Live-Hack-CVE/CVE-2022-36436)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36436">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36436">
 
 ---
 ## CVE-2022-36433 (2022-11-29T13:15:00)
@@ -8388,6 +8443,31 @@
 ## CVE-2022-36162 ()
 > 
 - [MaherAzzouzi/CVE-2022-36162](https://github.com/MaherAzzouzi/CVE-2022-36162)	<img alt="forks" src="https://img.shields.io/github/forks/MaherAzzouzi/CVE-2022-36162">	<img alt="stars" src="https://img.shields.io/github/stars/MaherAzzouzi/CVE-2022-36162">
+
+---
+## CVE-2022-36108 (2022-09-13T18:15:00)
+> TYPO3 is an open source PHP based web content management system released under the GNU GPL. It has been discovered that the `f:asset.css` view helper is vulnerable to cross-site scripting when user input is passed as variables to the CSS. Update to TYPO3 version 10.4.32 or 11.5.16 that fix the problem. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-36108](https://github.com/Live-Hack-CVE/CVE-2022-36108)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36108">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36108">
+
+---
+## CVE-2022-36107 (2022-09-13T18:15:00)
+> TYPO3 is an open source PHP based web content management system released under the GNU GPL. It has been discovered that the `FileDumpController` (backend and frontend context) is vulnerable to cross-site scripting when malicious files are displayed using this component. A valid backend user account is needed to exploit this vulnerability. Update to TYPO3 version 7.6.58 ELTS, 8.7.48 ELTS, 9.5.37 ELTS, 10.4.32 or 11.5.16 that fix the problem. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-36107](https://github.com/Live-Hack-CVE/CVE-2022-36107)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36107">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36107">
+
+---
+## CVE-2022-36106 (2022-09-13T18:15:00)
+> TYPO3 is an open source PHP based web content management system released under the GNU GPL. It has been discovered that the expiration time of a password reset link for TYPO3 backend users has never been evaluated. As a result, a password reset link could be used to perform a password reset even if the default expiry time of two hours has been exceeded. Update to TYPO3 version 10.4.32 or 11.5.16 that fix the problem. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-36106](https://github.com/Live-Hack-CVE/CVE-2022-36106)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36106">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36106">
+
+---
+## CVE-2022-36105 (2022-09-13T18:15:00)
+> TYPO3 is an open source PHP based web content management system released under the GNU GPL. It has been discovered that observing response time during user authentication (backend and frontend) can be used to distinguish between existing and non-existing user accounts. Extension authors of 3rd party TYPO3 extensions providing a custom authentication service should check if the extension is affected by the described problem. Affected extensions must implement new `MimicServiceInterface::mimicAuthUser`, which simulates corresponding times regular processing would usually take. Update to TYPO3 version 7.6.58 ELTS, 8.7.48 ELTS, 9.5.37 ELTS, 10.4.32 or 11.5.16 that fix this problem. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-36105](https://github.com/Live-Hack-CVE/CVE-2022-36105)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36105">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36105">
+
+---
+## CVE-2022-36104 (2022-09-13T18:15:00)
+> TYPO3 is an open source PHP based web content management system released under the GNU GPL. In affected versions requesting invalid or non-existing resources via HTTP triggers the page error handler which again could retrieve content to be shown as an error message from another page. This leads to a scenario in which the application is calling itself recursively - amplifying the impact of the initial attack until the limits of the web server are exceeded. Users are advised to update to TYPO3 version 11.5.16 to resolve this issue. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-36104](https://github.com/Live-Hack-CVE/CVE-2022-36104)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36104">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36104">
 
 ---
 ## CVE-2022-36089 (2022-09-07T23:15:00)
@@ -8758,6 +8838,11 @@
 ## CVE-2022-35646 (2022-12-22T20:15:00)
 > IBM Security Verify Governance, Identity Manager 10.0.1 software component could allow an authenticated user to modify or cancel any other user's access request using man-in-the-middle techniques. IBM X-Force ID: 231096.
 - [Live-Hack-CVE/CVE-2022-35646](https://github.com/Live-Hack-CVE/CVE-2022-35646)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35646">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35646">
+
+---
+## CVE-2022-35637 (2022-09-13T21:15:00)
+> IBM Db2 for Linux, UNIX and Windows 9.7, 10.1, 10.5, 11.1, and 11.5 is vulnerable to a denial of service after entering a malformed SQL statement into the Db2expln tool. IBM X-Force ID: 230823.
+- [Live-Hack-CVE/CVE-2022-35637](https://github.com/Live-Hack-CVE/CVE-2022-35637)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35637">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35637">
 
 ---
 ## CVE-2022-3562 (2022-11-20T05:15:00)
@@ -9501,6 +9586,16 @@
 ## CVE-2022-34361 (2022-12-06T18:15:00)
 > IBM Sterling Secure Proxy 6.0.3 uses weaker than expected cryptographic algorithms that could allow an attacker to decrypt highly sensitive information. IBM X-Force ID: 230522.
 - [Live-Hack-CVE/CVE-2022-34361](https://github.com/Live-Hack-CVE/CVE-2022-34361)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34361">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34361">
+
+---
+## CVE-2022-34356 (2022-09-13T21:15:00)
+> IBM AIX 7.1, 7.2, 7.3, and VIOS 3.1 could allow a non-privileged local user to exploit a vulnerability in the AIX kernel to obtain root privileges. IBM X-Force ID: 230502.
+- [Live-Hack-CVE/CVE-2022-34356](https://github.com/Live-Hack-CVE/CVE-2022-34356)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34356">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34356">
+
+---
+## CVE-2022-34336 (2022-09-13T21:15:00)
+> IBM WebSphere Application Server 7.0, 8.0, 8.5, and 9.0 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 229714.
+- [Live-Hack-CVE/CVE-2022-34336](https://github.com/Live-Hack-CVE/CVE-2022-34336)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34336">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34336">
 
 ---
 ## CVE-2022-34316 (2022-11-14T19:15:00)
@@ -12006,6 +12101,11 @@
 - [Live-Hack-CVE/CVE-2022-29021](https://github.com/Live-Hack-CVE/CVE-2022-29021)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29021">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29021">
 
 ---
+## CVE-2022-2900 (2022-09-14T11:15:00)
+> Server-Side Request Forgery (SSRF) in GitHub repository ionicabizau/parse-url prior to 8.1.0.
+- [Live-Hack-CVE/CVE-2022-2900](https://github.com/Live-Hack-CVE/CVE-2022-2900)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2900">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2900">
+
+---
 ## CVE-2022-28986 (2022-05-10T19:15:00)
 > LMS Doctor Simple 2 Factor Authentication Plugin For Moodle Affected: 2021072900 has an Insecure direct object references (IDOR) vulnerability, which allows remote attackers to update sensitive records such as email, password and phone number of other user accounts.
 - [FlaviuPopescu/CVE-2022-28986](https://github.com/FlaviuPopescu/CVE-2022-28986)	<img alt="forks" src="https://img.shields.io/github/forks/FlaviuPopescu/CVE-2022-28986">	<img alt="stars" src="https://img.shields.io/github/stars/FlaviuPopescu/CVE-2022-28986">
@@ -14010,9 +14110,24 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-2249](https://github.com/Live-Hack-CVE/CVE-2022-2249)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2249">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2249">
 
 ---
+## CVE-2022-22483 (2022-09-13T21:15:00)
+> IBM Db2 for Linux, UNIX and Windows 9.7, 10.1, 10.5, 11.1, and 11.5 is vulnerable to an information disclosure in some scenarios due to unauthorized access caused by improper privilege management when CREATE OR REPLACE command is used. IBM X-Force ID: 225979.
+- [Live-Hack-CVE/CVE-2022-22483](https://github.com/Live-Hack-CVE/CVE-2022-22483)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22483">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22483">
+
+---
 ## CVE-2022-22456 (2022-12-22T22:15:00)
 > IBM Security Verify Governance, Identity Manager 10.0.1 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 225004.
 - [Live-Hack-CVE/CVE-2022-22456](https://github.com/Live-Hack-CVE/CVE-2022-22456)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22456">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22456">
+
+---
+## CVE-2022-22330 (2022-09-13T21:15:00)
+> IBM Control Desk 7.6.1 could allow a remote attacker to obtain sensitive information, caused by the failure to set the HTTPOnly flag. A remote attacker could exploit this vulnerability to obtain sensitive information from the cookie. IBM X-Force ID: 219126.
+- [Live-Hack-CVE/CVE-2022-22330](https://github.com/Live-Hack-CVE/CVE-2022-22330)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22330">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22330">
+
+---
+## CVE-2022-22329 (2022-09-13T21:15:00)
+> IBM Control Desk 7.6.1 does not set the secure attribute on authorization tokens or session cookies. Attackers may be able to get the cookie values by sending a http:// link to a user or by planting this link in a site the user goes to. The cookie will be sent to the insecure link and the attacker can then obtain the cookie value by snooping the traffic. IBM X-Force ID: 219124.
+- [Live-Hack-CVE/CVE-2022-22329](https://github.com/Live-Hack-CVE/CVE-2022-22329)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22329">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22329">
 
 ---
 ## CVE-2022-22293 (2022-01-02T00:15:00)
@@ -14537,6 +14652,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [c0resploit/CVE-2022-20841](https://github.com/c0resploit/CVE-2022-20841)	<img alt="forks" src="https://img.shields.io/github/forks/c0resploit/CVE-2022-20841">	<img alt="stars" src="https://img.shields.io/github/stars/c0resploit/CVE-2022-20841">
 
 ---
+## CVE-2022-2083 (2022-09-05T13:15:00)
+> The Simple Single Sign On WordPress plugin through 4.1.0 leaks its OAuth client_secret, which could be used by attackers to gain unauthorized access to the site.
+- [Live-Hack-CVE/CVE-2022-2083](https://github.com/Live-Hack-CVE/CVE-2022-2083)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2083">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2083">
+
+---
 ## CVE-2022-20812 (2022-07-06T21:15:00)
 > Multiple vulnerabilities in the API and in the web-based management interface of Cisco Expressway Series and Cisco TelePresence Video Communication Server (VCS) could allow a remote attacker to overwrite arbitrary files or conduct null byte poisoning attacks on an affected device. Note: Cisco Expressway Series refers to the Expressway Control (Expressway-C) device and the Expressway Edge (Expressway-E) device. For more information about these vulnerabilities, see the Details section of this advisory.
 - [Live-Hack-CVE/CVE-2022-20812](https://github.com/Live-Hack-CVE/CVE-2022-20812)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20812">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20812">
@@ -15041,6 +15161,26 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-20419 (2022-10-11T20:15:00)
 > In setOptions of ActivityRecord.java, there is a possible load any arbitrary Java code into launcher process due to a logic error in the code. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-12L Android-13Android ID: A-237290578
 - [Live-Hack-CVE/CVE-2022-20419](https://github.com/Live-Hack-CVE/CVE-2022-20419)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20419">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20419">
+
+---
+## CVE-2022-20391 (2022-09-13T20:15:00)
+> Summary:Product: AndroidVersions: Android SoCAndroid ID: A-238257000
+- [Live-Hack-CVE/CVE-2022-20391](https://github.com/Live-Hack-CVE/CVE-2022-20391)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20391">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20391">
+
+---
+## CVE-2022-20390 (2022-09-13T20:15:00)
+> Summary:Product: AndroidVersions: Android SoCAndroid ID: A-238257002
+- [Live-Hack-CVE/CVE-2022-20390](https://github.com/Live-Hack-CVE/CVE-2022-20390)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20390">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20390">
+
+---
+## CVE-2022-20389 (2022-09-13T20:15:00)
+> Summary:Product: AndroidVersions: Android SoCAndroid ID: A-238257004
+- [Live-Hack-CVE/CVE-2022-20389](https://github.com/Live-Hack-CVE/CVE-2022-20389)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20389">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20389">
+
+---
+## CVE-2022-20386 (2022-09-13T20:15:00)
+> Summary:Product: AndroidVersions: Android SoCAndroid ID: A-238227328
+- [Live-Hack-CVE/CVE-2022-20386](https://github.com/Live-Hack-CVE/CVE-2022-20386)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20386">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20386">
 
 ---
 ## CVE-2022-20364 (2022-09-14T16:15:00)

@@ -252,6 +252,11 @@
 - [Live-Hack-CVE/CVE-2021-44444](https://github.com/Live-Hack-CVE/CVE-2021-44444)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44444">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44444">
 
 ---
+## CVE-2021-44425 (2022-09-12T21:15:00)
+> An issue was discovered in AnyDesk before 6.2.6 and 6.3.x before 6.3.3. An unnecessarily open listening port on a machine in the LAN of an attacker, opened by the Anydesk Windows client when using the tunneling feature, allows the attacker unauthorized access to the local machine's AnyDesk tunneling protocol stack (and also to any remote destination machine software that is listening to the AnyDesk tunneled port).
+- [Live-Hack-CVE/CVE-2021-44425](https://github.com/Live-Hack-CVE/CVE-2021-44425)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44425">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44425">
+
+---
 ## CVE-2021-44228 (2021-12-10T10:15:00)
 > Apache Log4j2 2.0-beta9 through 2.15.0 (excluding security releases 2.12.2, 2.12.3, and 2.3.1) JNDI features used in configuration, log messages, and parameters do not protect against attacker controlled LDAP and other JNDI related endpoints. An attacker who can control log messages or log message parameters can execute arbitrary code loaded from LDAP servers when message lookup substitution is enabled. From log4j 2.15.0, this behavior has been disabled by default. From version 2.16.0 (along with 2.12.2, 2.12.3, and 2.3.1), this functionality has been completely removed. Note that this vulnerability is specific to log4j-core and does not affect log4net, log4cxx, or other Apache Logging Services projects.
 - [aws-samples/kubernetes-log4j-cve-2021-44228-node-agent](https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent)	<img alt="forks" src="https://img.shields.io/github/forks/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent">	<img alt="stars" src="https://img.shields.io/github/stars/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent">
