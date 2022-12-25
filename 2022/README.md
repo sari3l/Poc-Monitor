@@ -5283,6 +5283,11 @@
 - [Live-Hack-CVE/CVE-2022-40223](https://github.com/Live-Hack-CVE/CVE-2022-40223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40223">
 
 ---
+## CVE-2022-40217 (2022-09-21T20:15:00)
+> Authenticated (admin+) Arbitrary File Edit/Upload vulnerability in XplodedThemes WPide plugin <= 2.6 at WordPress.
+- [Live-Hack-CVE/CVE-2022-40217](https://github.com/Live-Hack-CVE/CVE-2022-40217)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40217">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40217">
+
+---
 ## CVE-2022-40213 (2022-09-23T14:15:00)
 > Multiple Authenticated (contributor+) Stored Cross-Site Scripting (XSS) vulnerabilities in GS Testimonial Slider plugin <= 1.9.6 at WordPress.
 - [Live-Hack-CVE/CVE-2022-40213](https://github.com/Live-Hack-CVE/CVE-2022-40213)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40213">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40213">
@@ -6038,6 +6043,11 @@
 - [Live-Hack-CVE/CVE-2022-39219](https://github.com/Live-Hack-CVE/CVE-2022-39219)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39219">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39219">
 
 ---
+## CVE-2022-39207 (2022-09-13T19:15:00)
+> Onedev is an open source, self-hosted Git Server with CI/CD and Kanban. During CI/CD builds, it is possible to save build artifacts for later retrieval. They can be accessed through OneDev's web UI after the successful run of a build. These artifact files are served by the webserver in the same context as the UI without any further restrictions. This leads to Cross-Site Scripting (XSS) when a user creates a build artifact that contains HTML. When accessing the artifact, the content is rendered by the browser, including any JavaScript that it contains. Since all cookies (except for the rememberMe one) do not set the HttpOnly flag, an attacker could steal the session of a victim and use it to impersonate them. To exploit this issue, attackers need to be able to modify the content of artifacts, which usually means they need to be able to modify a project's build spec. The exploitation requires the victim to click on an attacker's link. It can be used to elevate privileges by targeting admins of a OneDev instance. In the worst case, this can lead to arbitrary code execution on the server, because admins can create Server Shell Executors and use them to run any command on the server. This issue has been patched in version 7.3.0. Users are advised to upgrade. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-39207](https://github.com/Live-Hack-CVE/CVE-2022-39207)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39207">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39207">
+
+---
 ## CVE-2022-39197 (2022-09-22T01:15:00)
 > An XSS (Cross Site Scripting) vulnerability was found in HelpSystems Cobalt Strike through 4.7 that allowed a remote attacker to execute HTML on the Cobalt Strike teamserver. To exploit the vulnerability, one must first inspect a Cobalt Strike payload, and then modify the username field in the payload (or create a new payload with the extracted information and then modify that username field to be malformed).
 - [safe3s/CVE-2022-39197](https://github.com/safe3s/CVE-2022-39197)	<img alt="forks" src="https://img.shields.io/github/forks/safe3s/CVE-2022-39197">	<img alt="stars" src="https://img.shields.io/github/stars/safe3s/CVE-2022-39197">
@@ -6761,6 +6771,11 @@
 ## CVE-2022-38075 (2022-11-18T19:15:00)
 > Cross-Site Request Forgery (CSRF) vulnerability leading to Stored Cross-Site Scripting (XSS) in Mantenimiento web plugin <= 0.13 on WordPress.
 - [Live-Hack-CVE/CVE-2022-38075](https://github.com/Live-Hack-CVE/CVE-2022-38075)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38075">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38075">
+
+---
+## CVE-2022-38073 (2022-09-21T20:15:00)
+> Multiple Authenticated (custom specific plugin role) Persistent Cross-Site Scripting (XSS) vulnerability in Awesome Support plugin <= 6.0.7 at WordPress.
+- [Live-Hack-CVE/CVE-2022-38073](https://github.com/Live-Hack-CVE/CVE-2022-38073)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38073">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38073">
 
 ---
 ## CVE-2022-38064 (2022-09-09T15:15:00)
@@ -7661,6 +7676,11 @@
 - [Live-Hack-CVE/CVE-2022-36773](https://github.com/Live-Hack-CVE/CVE-2022-36773)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36773">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36773">
 
 ---
+## CVE-2022-36747 (2022-08-30T22:15:00)
+> Razor v0.8.0 was discovered to contain a cross-site scripting (XSS) vulnerability via the function uploadchannel().
+- [Live-Hack-CVE/CVE-2022-36747](https://github.com/Live-Hack-CVE/CVE-2022-36747)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36747">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36747">
+
+---
 ## CVE-2022-3674 (2022-10-26T17:15:00)
 > A vulnerability has been found in SourceCodester Sanitization Management System 1.0 and classified as critical. Affected by this vulnerability is an unknown functionality. The manipulation leads to missing authentication. The attack can be launched remotely. The identifier VDB-212017 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-3674](https://github.com/Live-Hack-CVE/CVE-2022-3674)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3674">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3674">
@@ -7805,9 +7825,19 @@
 - [Live-Hack-CVE/CVE-2022-36400](https://github.com/Live-Hack-CVE/CVE-2022-36400)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36400">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36400">
 
 ---
+## CVE-2022-36390 (2022-09-21T20:15:00)
+> Authenticated (subscriber+) Reflected Cross-Site Scripting (XSS) vulnerability in Totalsoft Event Calendar – Calendar plugin <= 1.4.6 at WordPress.
+- [Live-Hack-CVE/CVE-2022-36390](https://github.com/Live-Hack-CVE/CVE-2022-36390)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36390">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36390">
+
+---
 ## CVE-2022-3639 (2022-10-21T16:15:00)
 > A potential DOS vulnerability was discovered in GitLab CE/EE affecting all versions from 10.8 before 15.1.6, all versions starting from 15.2 before 15.2.4, all versions starting from 15.3 before 15.3.2. Improper data handling on branch creation could have been used to trigger high CPU usage.
 - [Live-Hack-CVE/CVE-2022-3639](https://github.com/Live-Hack-CVE/CVE-2022-3639)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3639">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3639">
+
+---
+## CVE-2022-36386 (2022-09-21T20:15:00)
+> Authenticated Arbitrary Code Execution vulnerability in Soflyy Import any XML or CSV File to WordPress plugin <= 3.6.7 at WordPress.
+- [Live-Hack-CVE/CVE-2022-36386](https://github.com/Live-Hack-CVE/CVE-2022-36386)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36386">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36386">
 
 ---
 ## CVE-2022-36383 (2022-09-21T20:15:00)
@@ -8417,6 +8447,76 @@
 ## CVE-2022-3504 (2022-10-14T14:15:00)
 > A vulnerability was found in SourceCodester Sanitization Management System and classified as critical. This issue affects some unknown processing of the file /php-sms/?p=services/view_service. The manipulation of the argument id leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-210839.
 - [Live-Hack-CVE/CVE-2022-3504](https://github.com/Live-Hack-CVE/CVE-2022-3504)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3504">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3504">
+
+---
+## CVE-2022-35037 (2022-09-22T17:15:00)
+> OTFCC commit 617837b was discovered to contain a heap buffer overflow via /release-x64/otfccdump+0x6adb1e.
+- [Live-Hack-CVE/CVE-2022-35037](https://github.com/Live-Hack-CVE/CVE-2022-35037)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35037">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35037">
+
+---
+## CVE-2022-35036 (2022-09-22T17:15:00)
+> OTFCC commit 617837b was discovered to contain a heap buffer overflow via /release-x64/otfccdump+0x6e1fc8.
+- [Live-Hack-CVE/CVE-2022-35036](https://github.com/Live-Hack-CVE/CVE-2022-35036)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35036">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35036">
+
+---
+## CVE-2022-35035 (2022-09-22T17:15:00)
+> OTFCC commit 617837b was discovered to contain a heap buffer overflow via /release-x64/otfccdump+0x6b559f.
+- [Live-Hack-CVE/CVE-2022-35035](https://github.com/Live-Hack-CVE/CVE-2022-35035)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35035">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35035">
+
+---
+## CVE-2022-35034 (2022-09-22T17:15:00)
+> OTFCC commit 617837b was discovered to contain a heap buffer overflow via /release-x64/otfccdump+0x6e7e3d.
+- [Live-Hack-CVE/CVE-2022-35034](https://github.com/Live-Hack-CVE/CVE-2022-35034)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35034">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35034">
+
+---
+## CVE-2022-35032 (2022-09-22T17:15:00)
+> OTFCC commit 617837b was discovered to contain a segmentation violation via /release-x64/otfccdump+0x6b6a8f.
+- [Live-Hack-CVE/CVE-2022-35032](https://github.com/Live-Hack-CVE/CVE-2022-35032)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35032">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35032">
+
+---
+## CVE-2022-35031 (2022-09-22T17:15:00)
+> OTFCC commit 617837b was discovered to contain a segmentation violation via /release-x64/otfccdump+0x703969.
+- [Live-Hack-CVE/CVE-2022-35031](https://github.com/Live-Hack-CVE/CVE-2022-35031)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35031">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35031">
+
+---
+## CVE-2022-35030 (2022-09-22T17:15:00)
+> OTFCC commit 617837b was discovered to contain a segmentation violation via /release-x64/otfccdump+0x4fe954.
+- [Live-Hack-CVE/CVE-2022-35030](https://github.com/Live-Hack-CVE/CVE-2022-35030)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35030">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35030">
+
+---
+## CVE-2022-35029 (2022-09-22T17:15:00)
+> OTFCC commit 617837b was discovered to contain a segmentation violation via /release-x64/otfccdump+0x6babea.
+- [Live-Hack-CVE/CVE-2022-35029](https://github.com/Live-Hack-CVE/CVE-2022-35029)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35029">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35029">
+
+---
+## CVE-2022-35028 (2022-09-22T17:15:00)
+> OTFCC commit 617837b was discovered to contain a segmentation violation via /release-x64/otfccdump+0x4fbbb6.
+- [Live-Hack-CVE/CVE-2022-35028](https://github.com/Live-Hack-CVE/CVE-2022-35028)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35028">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35028">
+
+---
+## CVE-2022-35027 (2022-09-22T17:15:00)
+> OTFCC commit 617837b was discovered to contain a segmentation violation via /release-x64/otfccdump+0x4fe9a7.
+- [Live-Hack-CVE/CVE-2022-35027](https://github.com/Live-Hack-CVE/CVE-2022-35027)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35027">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35027">
+
+---
+## CVE-2022-35026 (2022-09-22T17:15:00)
+> OTFCC commit 617837b was discovered to contain a segmentation violation via /release-x64/otfccdump+0x4fbc0b.
+- [Live-Hack-CVE/CVE-2022-35026](https://github.com/Live-Hack-CVE/CVE-2022-35026)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35026">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35026">
+
+---
+## CVE-2022-35025 (2022-09-22T17:15:00)
+> OTFCC commit 617837b was discovered to contain a segmentation violation via /release-x64/otfccdump+0x5266a8.
+- [Live-Hack-CVE/CVE-2022-35025](https://github.com/Live-Hack-CVE/CVE-2022-35025)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35025">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35025">
+
+---
+## CVE-2022-35024 (2022-09-22T17:15:00)
+> OTFCC commit 617837b was discovered to contain a segmentation violation via /multiarch/memmove-vec-unaligned-erms.S.
+- [Live-Hack-CVE/CVE-2022-35024](https://github.com/Live-Hack-CVE/CVE-2022-35024)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35024">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35024">
+
+---
+## CVE-2022-35023 (2022-09-22T17:15:00)
+> OTFCC commit 617837b was discovered to contain a segmentation violation via /lib/x86_64-linux-gnu/libc.so.6+0xbb384.
+- [Live-Hack-CVE/CVE-2022-35023](https://github.com/Live-Hack-CVE/CVE-2022-35023)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35023">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35023">
 
 ---
 ## CVE-2022-35020 (2022-08-29T14:15:00)
@@ -9406,6 +9506,11 @@
 - [g01f/CVE-2022-3236-POC](https://github.com/g01f/CVE-2022-3236-POC)	<img alt="forks" src="https://img.shields.io/github/forks/g01f/CVE-2022-3236-POC">	<img alt="stars" src="https://img.shields.io/github/stars/g01f/CVE-2022-3236-POC">
 - [Adynervi/CVE-2022-3236-MASS-RCE](https://github.com/Adynervi/CVE-2022-3236-MASS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Adynervi/CVE-2022-3236-MASS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Adynervi/CVE-2022-3236-MASS-RCE">
 - [subvers1on/CVE-2022-3236-RCE-PoC](https://github.com/subvers1on/CVE-2022-3236-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/subvers1on/CVE-2022-3236-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/subvers1on/CVE-2022-3236-RCE-PoC">
+
+---
+## CVE-2022-3233 (2022-09-21T20:15:00)
+> Cross-Site Request Forgery (CSRF) in GitHub repository ikus060/rdiffweb prior to 2.4.6.
+- [Live-Hack-CVE/CVE-2022-3233](https://github.com/Live-Hack-CVE/CVE-2022-3233)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3233">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3233">
 
 ---
 ## CVE-2022-32317 (2022-07-14T20:15:00)
