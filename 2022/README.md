@@ -4682,6 +4682,11 @@
 - [Live-Hack-CVE/CVE-2022-40955](https://github.com/Live-Hack-CVE/CVE-2022-40955)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40955">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40955">
 
 ---
+## CVE-2022-40932 (2022-09-22T16:15:00)
+> In Zoo Management System v1.0, there is an arbitrary file upload vulnerability in the picture upload point of the "gallery" file of the "Gallery" module in the background management system.
+- [Live-Hack-CVE/CVE-2022-40932](https://github.com/Live-Hack-CVE/CVE-2022-40932)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40932">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40932">
+
+---
 ## CVE-2022-40931 (2022-09-29T16:15:00)
 > dutchcoders Transfer.sh 1.4.0 is vulnerable to Cross Site Scripting (XSS).
 - [Live-Hack-CVE/CVE-2022-40931](https://github.com/Live-Hack-CVE/CVE-2022-40931)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40931">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40931">
@@ -5301,6 +5306,16 @@
 ## CVE-2022-40199 (2022-09-27T23:15:00)
 > Directory traversal vulnerability in EC-CUBE 3 series (EC-CUBE 3.0.0 to 3.0.18-p4 ) and EC-CUBE 4 series (EC-CUBE 4.0.0 to 4.1.2) allows a remote authenticated attacker with an administrative privilege to obtain the product's directory structure information.
 - [Live-Hack-CVE/CVE-2022-40199](https://github.com/Live-Hack-CVE/CVE-2022-40199)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40199">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40199">
+
+---
+## CVE-2022-40195 (2022-09-23T15:15:00)
+> Authenticated (admin+) Stored Cross-Site Scripting (XSS) vulnerability in PCA Predict plugin <= 1.0.3 at WordPress.
+- [Live-Hack-CVE/CVE-2022-40195](https://github.com/Live-Hack-CVE/CVE-2022-40195)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40195">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40195">
+
+---
+## CVE-2022-40193 (2022-09-23T15:15:00)
+> Unauthenticated Stored Cross-Site Scripting (XSS) vulnerability in Awesome Filterable Portfolio plugin <= 1.9.7 at WordPress.
+- [Live-Hack-CVE/CVE-2022-40193](https://github.com/Live-Hack-CVE/CVE-2022-40193)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40193">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40193">
 
 ---
 ## CVE-2022-40192 (2022-11-17T23:15:00)
@@ -6396,6 +6411,11 @@
 - [Live-Hack-CVE/CVE-2022-38709](https://github.com/Live-Hack-CVE/CVE-2022-38709)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38709">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38709">
 
 ---
+## CVE-2022-38703 (2022-09-23T14:15:00)
+> Authenticated (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Max Foundry Button Plugin MaxButtons plugin <= 9.2 at WordPress
+- [Live-Hack-CVE/CVE-2022-38703](https://github.com/Live-Hack-CVE/CVE-2022-38703)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38703">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38703">
+
+---
 ## CVE-2022-38699 (2022-09-28T04:15:00)
 > Armoury Crate Service’s logging function has insufficient validation to check if the log file is a symbolic link. A physical attacker with general user privilege can modify the log file property to a symbolic link that points to arbitrary system file, causing the logging function to overwrite the system file and disrupt the system.
 - [Live-Hack-CVE/CVE-2022-38699](https://github.com/Live-Hack-CVE/CVE-2022-38699)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38699">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38699">
@@ -7258,6 +7278,11 @@
 - [Live-Hack-CVE/CVE-2022-37330](https://github.com/Live-Hack-CVE/CVE-2022-37330)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37330">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37330">
 
 ---
+## CVE-2022-37328 (2022-09-23T15:15:00)
+> Authenticated (author+) Stored Cross-Site Scripting (XSS) vulnerability in Themes Awesome History Timeline plugin <= 1.0.5 at WordPress.
+- [Live-Hack-CVE/CVE-2022-37328](https://github.com/Live-Hack-CVE/CVE-2022-37328)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37328">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37328">
+
+---
 ## CVE-2022-37298 (2022-10-20T11:15:00)
 > Shinken Solutions Shinken Monitoring Version 2.4.3 affected is vulnerable to Incorrect Access Control. The SafeUnpickler class found in shinken/safepickle.py implements a weak authentication scheme when unserializing objects passed from monitoring nodes to the Shinken monitoring server.
 - [dbyio/cve-2022-37298](https://github.com/dbyio/cve-2022-37298)	<img alt="forks" src="https://img.shields.io/github/forks/dbyio/cve-2022-37298">	<img alt="stars" src="https://img.shields.io/github/stars/dbyio/cve-2022-37298">
@@ -7569,6 +7594,16 @@
 - [lolminerxmrig/Capricornus](https://github.com/lolminerxmrig/Capricornus)	<img alt="forks" src="https://img.shields.io/github/forks/lolminerxmrig/Capricornus">	<img alt="stars" src="https://img.shields.io/github/stars/lolminerxmrig/Capricornus">
 - [Jhonsonwannaa/CVE-2022-36804](https://github.com/Jhonsonwannaa/CVE-2022-36804)	<img alt="forks" src="https://img.shields.io/github/forks/Jhonsonwannaa/CVE-2022-36804">	<img alt="stars" src="https://img.shields.io/github/stars/Jhonsonwannaa/CVE-2022-36804">
 - [devengpk/CVE-2022-36804](https://github.com/devengpk/CVE-2022-36804)	<img alt="forks" src="https://img.shields.io/github/forks/devengpk/CVE-2022-36804">	<img alt="stars" src="https://img.shields.io/github/stars/devengpk/CVE-2022-36804">
+
+---
+## CVE-2022-36798 (2022-09-23T14:15:00)
+> Cross-Site Request Forgery (CSRF) vulnerability in Topdigitaltrends Mega Addons For WPBakery Page Builder plugin <= 4.2.7 at WordPress.
+- [Live-Hack-CVE/CVE-2022-36798](https://github.com/Live-Hack-CVE/CVE-2022-36798)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36798">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36798">
+
+---
+## CVE-2022-36791 (2022-09-23T15:15:00)
+> Authenticated (contributor+) Stored Cross-Site Scripting (XSS) vulnerability in Awesome UG Torro Forms plugin <= 1.0.16 at WordPress.
+- [Live-Hack-CVE/CVE-2022-36791](https://github.com/Live-Hack-CVE/CVE-2022-36791)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36791">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36791">
 
 ---
 ## CVE-2022-36789 (2022-11-11T16:15:00)
@@ -9730,6 +9765,11 @@
 - [Administrative2022/CVE-2022-31474-wordpress](https://github.com/Administrative2022/CVE-2022-31474-wordpress)	<img alt="forks" src="https://img.shields.io/github/forks/Administrative2022/CVE-2022-31474-wordpress">	<img alt="stars" src="https://img.shields.io/github/stars/Administrative2022/CVE-2022-31474-wordpress">
 
 ---
+## CVE-2022-3144 (2022-09-23T14:15:00)
+> The Wordfence Security – Firewall & Malware Scan plugin for WordPress is vulnerable to Stored Cross-Site Scripting in versions up to and including 7.6.0 via a setting on the options page due to insufficient escaping on the stored value. This makes it possible for authenticated users, with administrative privileges, to inject malicious web scripts into the setting that executes whenever a user accesses a page displaying the affected setting on sites running a vulnerable version.
+- [Live-Hack-CVE/CVE-2022-3144](https://github.com/Live-Hack-CVE/CVE-2022-3144)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3144">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3144">
+
+---
 ## CVE-2022-31403 (2022-06-14T17:15:00)
 > ITOP v3.0.1 was discovered to contain a cross-site scripting (XSS) vulnerability via /itop/pages/ajax.render.php.
 - [IbrahimEkimIsik/CVE-2022-31403](https://github.com/IbrahimEkimIsik/CVE-2022-31403)	<img alt="forks" src="https://img.shields.io/github/forks/IbrahimEkimIsik/CVE-2022-31403">	<img alt="stars" src="https://img.shields.io/github/stars/IbrahimEkimIsik/CVE-2022-31403">
@@ -11223,6 +11263,7 @@
 ## CVE-2022-27492 (2022-09-23T14:15:00)
 > An integer underflow in WhatsApp could have caused remote code execution when receiving a crafted video file.
 - [F1uk368/CVE-2022-27492](https://github.com/F1uk368/CVE-2022-27492)	<img alt="forks" src="https://img.shields.io/github/forks/F1uk368/CVE-2022-27492">	<img alt="stars" src="https://img.shields.io/github/stars/F1uk368/CVE-2022-27492">
+- [Live-Hack-CVE/CVE-2022-27492](https://github.com/Live-Hack-CVE/CVE-2022-27492)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27492">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27492">
 
 ---
 ## CVE-2022-27458 (2022-04-14T13:15:00)
@@ -12127,6 +12168,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-24342 (2022-02-25T15:15:00)
 > In JetBrains TeamCity before 2021.2.1, URL injection leading to CSRF was possible.
 - [yuriisanin/CVE-2022-24342](https://github.com/yuriisanin/CVE-2022-24342)	<img alt="forks" src="https://img.shields.io/github/forks/yuriisanin/CVE-2022-24342">	<img alt="stars" src="https://img.shields.io/github/stars/yuriisanin/CVE-2022-24342">
+
+---
+## CVE-2022-24280 (2022-09-23T10:15:00)
+> Improper Input Validation vulnerability in Proxy component of Apache Pulsar allows an attacker to make TCP/IP connection attempts that originate from the Pulsar Proxy's IP address. When the Apache Pulsar Proxy component is used, it is possible to attempt to open TCP/IP connections to any IP address and port that the Pulsar Proxy can connect to. An attacker could use this as a way for DoS attacks that originate from the Pulsar Proxy's IP address. It hasn’t been detected that the Pulsar Proxy authentication can be bypassed. The attacker will have to have a valid token to a properly secured Pulsar Proxy. This issue affects Apache Pulsar Proxy versions 2.7.0 to 2.7.4; 2.8.0 to 2.8.2; 2.9.0 to 2.9.1; 2.6.4 and earlier.
+- [Live-Hack-CVE/CVE-2022-24280](https://github.com/Live-Hack-CVE/CVE-2022-24280)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24280">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24280">
 
 ---
 ## CVE-2022-2422 (2022-10-26T10:15:00)

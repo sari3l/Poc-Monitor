@@ -3024,9 +3024,109 @@
 - [Dor-Tumarkin/CVE-2021-25641-Proof-of-Concept](https://github.com/Dor-Tumarkin/CVE-2021-25641-Proof-of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/Dor-Tumarkin/CVE-2021-25641-Proof-of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/Dor-Tumarkin/CVE-2021-25641-Proof-of-Concept">
 
 ---
+## CVE-2021-25518 (2021-12-08T15:15:00)
+> An improper boundary check in secure_log of LDFW and BL31 prior to SMR Dec-2021 Release 1 allows arbitrary memory write and code execution.
+- [Live-Hack-CVE/CVE-2021-25518](https://github.com/Live-Hack-CVE/CVE-2021-25518)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25518">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25518">
+
+---
+## CVE-2021-25489 (2021-10-06T18:15:00)
+> Assuming radio permission is gained, missing input validation in modem interface driver prior to SMR Oct-2021 Release 1 results in format string bug leading to kernel panic.
+- [Live-Hack-CVE/CVE-2021-25489](https://github.com/Live-Hack-CVE/CVE-2021-25489)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25489">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25489">
+
+---
+## CVE-2021-25472 (2021-10-06T18:15:00)
+> An improper access control vulnerability in BluetoothSettingsProvider prior to SMR Oct-2021 Release 1 allows untrusted application to overwrite some Bluetooth information.
+- [Live-Hack-CVE/CVE-2021-25472](https://github.com/Live-Hack-CVE/CVE-2021-25472)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25472">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25472">
+
+---
+## CVE-2021-25464 (2021-09-09T19:15:00)
+> An improper file management vulnerability in SamsungCapture prior to version 4.8.02 allows sensitive information leak.
+- [Live-Hack-CVE/CVE-2021-25464](https://github.com/Live-Hack-CVE/CVE-2021-25464)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25464">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25464">
+
+---
 ## CVE-2021-25461 (2021-09-09T19:15:00)
 > An improper length check in APAService prior to SMR Sep-2021 Release 1 results in stack based Buffer Overflow.
 - [bkojusner/CVE-2021-25461](https://github.com/bkojusner/CVE-2021-25461)	<img alt="forks" src="https://img.shields.io/github/forks/bkojusner/CVE-2021-25461">	<img alt="stars" src="https://img.shields.io/github/stars/bkojusner/CVE-2021-25461">
+
+---
+## CVE-2021-25459 (2021-09-09T19:15:00)
+> An improper access control vulnerability in sspInit() in BlockchainTZService prior to SMR Sep-2021 Release 1 allows attackers to start BlockchainTZService.
+- [Live-Hack-CVE/CVE-2021-25459](https://github.com/Live-Hack-CVE/CVE-2021-25459)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25459">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25459">
+
+---
+## CVE-2021-25453 (2021-09-09T19:15:00)
+> Some improper access control in Bluetooth APIs prior to SMR Sep-2021 Release 1 allows untrusted application to get Bluetooth information.
+- [Live-Hack-CVE/CVE-2021-25453](https://github.com/Live-Hack-CVE/CVE-2021-25453)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25453">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25453">
+
+---
+## CVE-2021-25448 (2021-08-05T20:15:00)
+> Improper access control vulnerability in Smart Touch Call prior to version 1.0.0.5 allows arbitrary webpage loading in webview.
+- [Live-Hack-CVE/CVE-2021-25448](https://github.com/Live-Hack-CVE/CVE-2021-25448)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25448">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25448">
+
+---
+## CVE-2021-25447 (2021-08-05T20:15:00)
+> Improper access control vulnerability in SmartThings prior to version 1.7.67.25 allows untrusted applications to cause local file inclusion in webview.
+- [Live-Hack-CVE/CVE-2021-25447](https://github.com/Live-Hack-CVE/CVE-2021-25447)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25447">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25447">
+
+---
+## CVE-2021-25446 (2021-08-05T20:15:00)
+> Improper access control vulnerability in SmartThings prior to version 1.7.67.25 allows untrusted applications to cause arbitrary webpage loading in webview.
+- [Live-Hack-CVE/CVE-2021-25446](https://github.com/Live-Hack-CVE/CVE-2021-25446)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25446">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25446">
+
+---
+## CVE-2021-25426 (2021-07-08T14:15:00)
+> Improper component protection vulnerability in SmsViewerActivity of Samsung Message prior to SMR July-2021 Release 1 allows untrusted applications to access Message files.
+- [Live-Hack-CVE/CVE-2021-25426](https://github.com/Live-Hack-CVE/CVE-2021-25426)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25426">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25426">
+
+---
+## CVE-2021-25387 (2021-06-11T15:15:00)
+> An improper input validation vulnerability in sflacfd_get_frm() in libsflacextractor library prior to SMR MAY-2021 Release 1 allows attackers to execute arbitrary code on mediaextractor process.
+- [Live-Hack-CVE/CVE-2021-25387](https://github.com/Live-Hack-CVE/CVE-2021-25387)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25387">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25387">
+
+---
+## CVE-2021-25386 (2021-06-11T15:15:00)
+> An improper input validation vulnerability in sdfffd_parse_chunk_FVER() in libsdffextractor library prior to SMR MAY-2021 Release 1 allows attackers to execute arbitrary code on mediaextractor process.
+- [Live-Hack-CVE/CVE-2021-25386](https://github.com/Live-Hack-CVE/CVE-2021-25386)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25386">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25386">
+
+---
+## CVE-2021-25385 (2021-06-11T15:15:00)
+> An improper input validation vulnerability in sdfffd_parse_chunk_PROP() in libsdffextractor library prior to SMR MAY-2021 Release 1 allows attackers to execute arbitrary code on mediaextractor process.
+- [Live-Hack-CVE/CVE-2021-25385](https://github.com/Live-Hack-CVE/CVE-2021-25385)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25385">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25385">
+
+---
+## CVE-2021-25383 (2021-06-11T15:15:00)
+> An improper input validation vulnerability in scmn_mfal_read() in libsapeextractor library prior to SMR MAY-2021 Release 1 allows attackers to execute arbitrary code on mediaextractor process.
+- [Live-Hack-CVE/CVE-2021-25383](https://github.com/Live-Hack-CVE/CVE-2021-25383)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25383">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25383">
+
+---
+## CVE-2021-25378 (2021-04-09T18:15:00)
+> Improper access control of certain port in SmartThings prior to version 1.7.63.6 allows remote temporary denial of service.
+- [Live-Hack-CVE/CVE-2021-25378](https://github.com/Live-Hack-CVE/CVE-2021-25378)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25378">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25378">
+
+---
+## CVE-2021-25366 (2021-03-25T17:15:00)
+> Improper access control in Samsung Internet prior to version 13.2.1.70 allows physically proximate attackers to bypass the secret mode's authentication.
+- [Live-Hack-CVE/CVE-2021-25366](https://github.com/Live-Hack-CVE/CVE-2021-25366)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25366">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25366">
+
+---
+## CVE-2021-25361 (2021-04-09T18:15:00)
+> An improper access control vulnerability in stickerCenter prior to SMR APR-2021 Release 1 allows local attackers to read or write arbitrary files of system process via untrusted applications.
+- [Live-Hack-CVE/CVE-2021-25361](https://github.com/Live-Hack-CVE/CVE-2021-25361)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25361">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25361">
+
+---
+## CVE-2021-25360 (2021-04-09T18:15:00)
+> An improper input validation vulnerability in libswmfextractor library prior to SMR APR-2021 Release 1 allows attackers to execute arbitrary code on mediaextractor process.
+- [Live-Hack-CVE/CVE-2021-25360](https://github.com/Live-Hack-CVE/CVE-2021-25360)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25360">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25360">
+
+---
+## CVE-2021-25351 (2021-03-25T17:15:00)
+> Improper Access Control in EmailValidationView in Samsung Account prior to version 10.7.0.7 and 12.1.1.3 allows physically proximate attackers to log out user account on device without user password.
+- [Live-Hack-CVE/CVE-2021-25351](https://github.com/Live-Hack-CVE/CVE-2021-25351)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25351">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25351">
+
+---
+## CVE-2021-25340 (2021-03-04T22:15:00)
+> Improper access control vulnerability in Samsung keyboard version prior to SMR Feb-2021 Release 1 allows physically proximate attackers to change in arbitrary settings during Initialization State.
+- [Live-Hack-CVE/CVE-2021-25340](https://github.com/Live-Hack-CVE/CVE-2021-25340)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25340">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25340">
 
 ---
 ## CVE-2021-25320 (2021-07-15T09:15:00)
