@@ -4842,6 +4842,21 @@
 - [Live-Hack-CVE/CVE-2022-40816](https://github.com/Live-Hack-CVE/CVE-2022-40816)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40816">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40816">
 
 ---
+## CVE-2022-40811 (2022-09-19T15:15:00)
+> The d8s-urls for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-file-system package. The affected version is 0.1.0.
+- [Live-Hack-CVE/CVE-2022-40811](https://github.com/Live-Hack-CVE/CVE-2022-40811)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40811">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40811">
+
+---
+## CVE-2022-40808 (2022-09-19T15:15:00)
+> The d8s-dates for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-hypothesis package. The affected version is 0.1.0
+- [Live-Hack-CVE/CVE-2022-40808](https://github.com/Live-Hack-CVE/CVE-2022-40808)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40808">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40808">
+
+---
+## CVE-2022-40806 (2022-09-19T15:15:00)
+> The d8s-uuids for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-hypothesis package. The affected version is 0.1.0
+- [Live-Hack-CVE/CVE-2022-40806](https://github.com/Live-Hack-CVE/CVE-2022-40806)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40806">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40806">
+
+---
 ## CVE-2022-40799 (2022-11-29T05:15:00)
 > Data Integrity Failure in 'Backup Config' in D-Link DNR-322L <= 2.60B15 allows an authenticated attacker to execute OS level commands on the device.
 - [Live-Hack-CVE/CVE-2022-40799](https://github.com/Live-Hack-CVE/CVE-2022-40799)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40799">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40799">
@@ -4895,6 +4910,26 @@
 ## CVE-2022-40716 (2022-09-23T12:15:00)
 > HashiCorp Consul and Consul Enterprise up to 1.11.8, 1.12.4, and 1.13.1 do not check for multiple SAN URI values in a CSR on the internal RPC endpoint, enabling leverage of privileged access to bypass service mesh intentions. Fixed in 1.11.9, 1.12.5, and 1.13.2."
 - [Live-Hack-CVE/CVE-2022-40716](https://github.com/Live-Hack-CVE/CVE-2022-40716)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40716">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40716">
+
+---
+## CVE-2022-40715 (2022-09-19T16:15:00)
+> An issue was discovered in NOKIA 1350OMS R14.2. An Absolute Path Traversal vulnerability exists for a specific endpoint via the logfile parameter, allowing a remote authenticated attacker to read files on the filesystem arbitrarily.
+- [Live-Hack-CVE/CVE-2022-40715](https://github.com/Live-Hack-CVE/CVE-2022-40715)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40715">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40715">
+
+---
+## CVE-2022-40714 (2022-09-19T16:15:00)
+> An issue was discovered in NOKIA 1350OMS R14.2. Reflected XSS exists under different /oms1350/* endpoints.
+- [Live-Hack-CVE/CVE-2022-40714](https://github.com/Live-Hack-CVE/CVE-2022-40714)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40714">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40714">
+
+---
+## CVE-2022-40713 (2022-09-19T16:15:00)
+> An issue was discovered in NOKIA 1350OMS R14.2. Multiple Relative Path Traversal issues exist in different specific endpoints via the file parameter, allowing a remote authenticated attacker to read files on the filesystem arbitrarily.
+- [Live-Hack-CVE/CVE-2022-40713](https://github.com/Live-Hack-CVE/CVE-2022-40713)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40713">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40713">
+
+---
+## CVE-2022-40712 (2022-09-19T16:15:00)
+> An issue was discovered in NOKIA 1350OMS R14.2. Reflected XSS exists under different /cgi-bin/R14.2* endpoints.
+- [Live-Hack-CVE/CVE-2022-40712](https://github.com/Live-Hack-CVE/CVE-2022-40712)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40712">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40712">
 
 ---
 ## CVE-2022-40710 (2022-09-28T21:15:00)
@@ -5155,6 +5190,16 @@
 ## CVE-2022-40434 (2022-12-19T22:15:00)
 > Softr v2.0 was discovered to be vulnerable to HTML injection via the Name field of the Account page.
 - [Live-Hack-CVE/CVE-2022-40434](https://github.com/Live-Hack-CVE/CVE-2022-40434)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40434">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40434">
+
+---
+## CVE-2022-40432 (2022-09-19T16:15:00)
+> The d8s-strings for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-hypothesis package. The affected version is 0.1.0.
+- [Live-Hack-CVE/CVE-2022-40432](https://github.com/Live-Hack-CVE/CVE-2022-40432)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40432">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40432">
+
+---
+## CVE-2022-40431 (2022-09-19T16:15:00)
+> The d8s-pdfs for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-networking package. The affected version is 0.1.0.
+- [Live-Hack-CVE/CVE-2022-40431](https://github.com/Live-Hack-CVE/CVE-2022-40431)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40431">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40431">
 
 ---
 ## CVE-2022-40408 (2022-09-29T14:15:00)
@@ -6078,6 +6123,11 @@
 - [Live-Hack-CVE/CVE-2022-39219](https://github.com/Live-Hack-CVE/CVE-2022-39219)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39219">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39219">
 
 ---
+## CVE-2022-39217 (2022-09-17T00:15:00)
+> some-natalie/ghas-to-csv (GitHub Advanced Security to CSV) is a GitHub action which scrapes the GitHub Advanced Security API and shoves it into a CSV. In affected versions this GitHub Action creates a CSV file without sanitizing the output of the APIs. If an alert is dismissed or any other custom field contains executable code / formulas, it might be run when an endpoint opens that CSV file in a spreadsheet program. This issue has been addressed in version `v1`. Users are advised to use `v1` or later. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-39217](https://github.com/Live-Hack-CVE/CVE-2022-39217)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39217">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39217">
+
+---
 ## CVE-2022-39207 (2022-09-13T19:15:00)
 > Onedev is an open source, self-hosted Git Server with CI/CD and Kanban. During CI/CD builds, it is possible to save build artifacts for later retrieval. They can be accessed through OneDev's web UI after the successful run of a build. These artifact files are served by the webserver in the same context as the UI without any further restrictions. This leads to Cross-Site Scripting (XSS) when a user creates a build artifact that contains HTML. When accessing the artifact, the content is rendered by the browser, including any JavaScript that it contains. Since all cookies (except for the rememberMe one) do not set the HttpOnly flag, an attacker could steal the session of a victim and use it to impersonate them. To exploit this issue, attackers need to be able to modify the content of artifacts, which usually means they need to be able to modify a project's build spec. The exploitation requires the victim to click on an attacker's link. It can be used to elevate privileges by targeting admins of a OneDev instance. In the worst case, this can lead to arbitrary code execution on the server, because admins can create Server Shell Executors and use them to run any command on the server. This issue has been patched in version 7.3.0. Users are advised to upgrade. There are no known workarounds for this issue.
 - [Live-Hack-CVE/CVE-2022-39207](https://github.com/Live-Hack-CVE/CVE-2022-39207)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39207">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39207">
@@ -6403,6 +6453,36 @@
 ## CVE-2022-3889 (2022-11-09T04:15:00)
 > Type confusion in V8 in Google Chrome prior to 107.0.5304.106 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [Live-Hack-CVE/CVE-2022-3889](https://github.com/Live-Hack-CVE/CVE-2022-3889)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3889">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3889">
+
+---
+## CVE-2022-38886 (2022-09-19T16:15:00)
+> The d8s-xml for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-strings package. The affected version is 0.1.0.
+- [Live-Hack-CVE/CVE-2022-38886](https://github.com/Live-Hack-CVE/CVE-2022-38886)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38886">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38886">
+
+---
+## CVE-2022-38885 (2022-09-19T16:15:00)
+> The d8s-netstrings for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-strings package. The affected version is 0.1.0.
+- [Live-Hack-CVE/CVE-2022-38885](https://github.com/Live-Hack-CVE/CVE-2022-38885)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38885">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38885">
+
+---
+## CVE-2022-38884 (2022-09-19T16:15:00)
+> The d8s-grammars for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-strings package. The affected version is 0.1.0.
+- [Live-Hack-CVE/CVE-2022-38884](https://github.com/Live-Hack-CVE/CVE-2022-38884)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38884">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38884">
+
+---
+## CVE-2022-38883 (2022-09-19T16:15:00)
+> The d8s-math for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-strings package. The affected version is 0.1.0.
+- [Live-Hack-CVE/CVE-2022-38883](https://github.com/Live-Hack-CVE/CVE-2022-38883)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38883">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38883">
+
+---
+## CVE-2022-38882 (2022-09-19T16:15:00)
+> The d8s-json for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-strings package. The affected version is 0.1.0.
+- [Live-Hack-CVE/CVE-2022-38882](https://github.com/Live-Hack-CVE/CVE-2022-38882)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38882">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38882">
+
+---
+## CVE-2022-38881 (2022-09-19T16:15:00)
+> The d8s-archives for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-strings package. The affected version is 0.1.0.
+- [Live-Hack-CVE/CVE-2022-38881](https://github.com/Live-Hack-CVE/CVE-2022-38881)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38881">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38881">
 
 ---
 ## CVE-2022-3888 (2022-11-09T04:15:00)
@@ -7430,6 +7510,11 @@
 - [Live-Hack-CVE/CVE-2022-37259](https://github.com/Live-Hack-CVE/CVE-2022-37259)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37259">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37259">
 
 ---
+## CVE-2022-37247 (2022-09-16T22:15:00)
+> Craft CMS 4.2.0.1 is vulnerable to stored a cross-site scripting (XSS) via /admin/settings/fields page.
+- [Live-Hack-CVE/CVE-2022-37247](https://github.com/Live-Hack-CVE/CVE-2022-37247)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37247">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37247">
+
+---
 ## CVE-2022-37234 (2022-09-22T20:15:00)
 > Netgear Nighthawk AC1900 Smart WiFi Dual Band Gigabit Router R7000-V1.0.11.134_10.2.119 is vulnerable to Buffer Overflow via the wl binary in firmware. There is a stack overflow vulnerability caused by strncpy.
 - [Live-Hack-CVE/CVE-2022-37234](https://github.com/Live-Hack-CVE/CVE-2022-37234)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37234">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37234">
@@ -8111,6 +8196,11 @@
 - [Live-Hack-CVE/CVE-2022-3597](https://github.com/Live-Hack-CVE/CVE-2022-3597)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3597">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3597">
 
 ---
+## CVE-2022-35963 (2022-09-16T20:15:00)
+> TensorFlow is an open source platform for machine learning. The implementation of `FractionalAvgPoolGrad` does not fully validate the input `orig_input_tensor_shape`. This results in an overflow that results in a `CHECK` failure which can be used to trigger a denial of service attack. We have patched the issue in GitHub commit 03a659d7be9a1154fdf5eeac221e5950fec07dad. The fix will be included in TensorFlow 2.10.0. We will also cherrypick this commit on TensorFlow 2.9.1, TensorFlow 2.8.1, and TensorFlow 2.7.2, as these are also affected and still in supported range. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-35963](https://github.com/Live-Hack-CVE/CVE-2022-35963)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35963">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35963">
+
+---
 ## CVE-2022-35961 (2022-08-15T11:21:00)
 > OpenZeppelin Contracts is a library for secure smart contract development. The functions `ECDSA.recover` and `ECDSA.tryRecover` are vulnerable to a kind of signature malleability due to accepting EIP-2098 compact signatures in addition to the traditional 65 byte signature format. This is only an issue for the functions that take a single `bytes` argument, and not the functions that take `r, v, s` or `r, vs` as separate arguments. The potentially affected contracts are those that implement signature reuse or replay protection by marking the signature itself as used rather than the signed message or a nonce included in it. A user may take a signature that has already been submitted, submit it again in a different form, and bypass this protection. The issue has been patched in 4.7.3.
 - [Live-Hack-CVE/CVE-2022-35961](https://github.com/Live-Hack-CVE/CVE-2022-35961)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35961">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35961">
@@ -8449,6 +8539,11 @@
 ## CVE-2022-35226 (2022-10-11T21:15:00)
 > SAP Data Services Management allows an attacker to copy the data from a request and echoed into the application's immediate response, it will lead to a Cross-Site Scripting vulnerability. The attacker would have to log in to the management console to perform such as an attack, only few of the pages are vulnerable in the DS management console.
 - [Live-Hack-CVE/CVE-2022-35226](https://github.com/Live-Hack-CVE/CVE-2022-35226)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35226">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35226">
+
+---
+## CVE-2022-35194 (2022-09-16T22:15:00)
+> TestLink v1.9.20 was discovered to contain a stored cross-site scripting (XSS) vulnerability via /lib/inventory/inventoryView.php.
+- [Live-Hack-CVE/CVE-2022-35194](https://github.com/Live-Hack-CVE/CVE-2022-35194)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35194">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35194">
 
 ---
 ## CVE-2022-3518 (2022-10-15T10:15:00)
@@ -10976,6 +11071,18 @@
 - [SAJIDAMINE/CVE-2022-30075](https://github.com/SAJIDAMINE/CVE-2022-30075)	<img alt="forks" src="https://img.shields.io/github/forks/SAJIDAMINE/CVE-2022-30075">	<img alt="stars" src="https://img.shields.io/github/stars/SAJIDAMINE/CVE-2022-30075">
 
 ---
+## CVE-2022-3005 (2022-09-20T11:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository yetiforcecompany/yetiforcecrm prior to 6.4.0.
+- [Live-Hack-CVE/CVE-2022-3005](https://github.com/Live-Hack-CVE/CVE-2022-3005)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3005">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3005">
+
+---
+## CVE-2022-3004 (2022-09-20T10:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository yetiforcecompany/yetiforcecrm prior to 6.4.0.
+- [Live-Hack-CVE/CVE-2022-3004](https://github.com/Live-Hack-CVE/CVE-2022-3004)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3004">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3004">
+- [Live-Hack-CVE/CVE-2022-30049](https://github.com/Live-Hack-CVE/CVE-2022-30049)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30049">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30049">
+- [Le1a/CVE-2022-30040](https://github.com/Le1a/CVE-2022-30040)	<img alt="forks" src="https://img.shields.io/github/forks/Le1a/CVE-2022-30040">	<img alt="stars" src="https://img.shields.io/github/stars/Le1a/CVE-2022-30040">
+
+---
 ## CVE-2022-30023 (2022-06-16T15:15:00)
 > Tenda ONT GPON AC1200 Dual band WiFi HG9 v1.0.1 is vulnerable to Command Injection via the Ping function.
 - [Haniwa0x01/CVE-2022-30023](https://github.com/Haniwa0x01/CVE-2022-30023)	<img alt="forks" src="https://img.shields.io/github/forks/Haniwa0x01/CVE-2022-30023">	<img alt="stars" src="https://img.shields.io/github/stars/Haniwa0x01/CVE-2022-30023">
@@ -10990,6 +11097,11 @@
 ## CVE-2022-30006 ()
 > 
 - [ComparedArray/printix-CVE-2022-30006](https://github.com/ComparedArray/printix-CVE-2022-30006)	<img alt="forks" src="https://img.shields.io/github/forks/ComparedArray/printix-CVE-2022-30006">	<img alt="stars" src="https://img.shields.io/github/stars/ComparedArray/printix-CVE-2022-30006">
+
+---
+## CVE-2022-3000 (2022-09-20T07:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository yetiforcecompany/yetiforcecrm prior to 6.4.0.
+- [Live-Hack-CVE/CVE-2022-3000](https://github.com/Live-Hack-CVE/CVE-2022-3000)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3000">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3000">
 
 ---
 ## CVE-2022-2998 (2022-09-26T16:15:00)
@@ -11023,6 +11135,11 @@
 - [RealAlphaMan/CVE-2022-2992](https://github.com/RealAlphaMan/CVE-2022-2992)	<img alt="forks" src="https://img.shields.io/github/forks/RealAlphaMan/CVE-2022-2992">	<img alt="stars" src="https://img.shields.io/github/stars/RealAlphaMan/CVE-2022-2992">
 - [Malwareman007/CVE-2022-2992](https://github.com/Malwareman007/CVE-2022-2992)	<img alt="forks" src="https://img.shields.io/github/forks/Malwareman007/CVE-2022-2992">	<img alt="stars" src="https://img.shields.io/github/stars/Malwareman007/CVE-2022-2992">
 - [Live-Hack-CVE/CVE-2022-2992](https://github.com/Live-Hack-CVE/CVE-2022-2992)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2992">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2992">
+
+---
+## CVE-2022-29908 (2022-09-19T16:15:00)
+> The folioupdate service in Fabasoft Cloud Enterprise Client 22.4.0043 allows Local Privilege Escalation.
+- [Live-Hack-CVE/CVE-2022-29908](https://github.com/Live-Hack-CVE/CVE-2022-29908)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29908">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29908">
 
 ---
 ## CVE-2022-29885 (2022-05-12T08:15:00)
@@ -11265,6 +11382,11 @@
 - [a1ise/CVE-2022-29247](https://github.com/a1ise/CVE-2022-29247)	<img alt="forks" src="https://img.shields.io/github/forks/a1ise/CVE-2022-29247">	<img alt="stars" src="https://img.shields.io/github/stars/a1ise/CVE-2022-29247">
 
 ---
+## CVE-2022-2924 (2022-09-20T06:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository yetiforcecompany/yetiforcecrm prior to 6.3.
+- [Live-Hack-CVE/CVE-2022-2924](https://github.com/Live-Hack-CVE/CVE-2022-2924)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2924">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2924">
+
+---
 ## CVE-2022-29221 (2022-05-24T15:15:00)
 > Smarty is a template engine for PHP, facilitating the separation of presentation (HTML/CSS) from application logic. Prior to versions 3.1.45 and 4.1.1, template authors could inject php code by choosing a malicious {block} name or {include} file name. Sites that cannot fully trust template authors should upgrade to versions 3.1.45 or 4.1.1 to receive a patch for this issue. There are currently no known workarounds.
 - [Live-Hack-CVE/CVE-2022-29221](https://github.com/Live-Hack-CVE/CVE-2022-29221)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29221">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29221">
@@ -11412,6 +11534,11 @@
 ## CVE-2022-28762 (2022-10-14T15:15:00)
 > Zoom Client for Meetings for macOS (Standard and for IT Admin) starting with 5.10.6 and prior to 5.12.0 contains a debugging port misconfiguration. When camera mode rendering context is enabled as part of the Zoom App Layers API by running certain Zoom Apps, a local debugging port is opened by the Zoom client. A local malicious user could use this debugging port to connect to and control the Zoom Apps running in the Zoom client.
 - [Live-Hack-CVE/CVE-2022-28762](https://github.com/Live-Hack-CVE/CVE-2022-28762)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28762">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28762">
+
+---
+## CVE-2022-28758 (2022-09-16T22:15:00)
+> Zoom On-Premise Meeting Connector MMR before version 4.8.20220815.130 contains an improper access control vulnerability. As a result, a malicious actor could obtain the audio and video feed of a meeting they were not authorized to join and cause other meeting disruptions.
+- [Live-Hack-CVE/CVE-2022-28758](https://github.com/Live-Hack-CVE/CVE-2022-28758)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28758">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28758">
 
 ---
 ## CVE-2022-28739 (2022-05-09T18:15:00)
@@ -12741,9 +12868,19 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-23772](https://github.com/Live-Hack-CVE/CVE-2022-23772)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23772">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23772">
 
 ---
+## CVE-2022-23768 (2022-09-19T20:15:00)
+> This Vulnerability in NIS-HAP11AC is caused by an exposed external port for the telnet service. Remote attackers use this vulnerability to induce all attacks such as source code hijacking, remote control of the device.
+- [Live-Hack-CVE/CVE-2022-23768](https://github.com/Live-Hack-CVE/CVE-2022-23768)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23768">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23768">
+
+---
 ## CVE-2022-23767 (2022-09-19T20:15:00)
 > This vulnerability of SecureGate is SQL-Injection using login without password. A path traversal vulnerability is also identified during file transfer. An attacker can take advantage of these vulnerabilities to perform various attacks such as obtaining privileges and executing remote code, thereby taking over the victim’s system.
 - [Live-Hack-CVE/CVE-2022-23767](https://github.com/Live-Hack-CVE/CVE-2022-23767)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23767">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23767">
+
+---
+## CVE-2022-23766 (2022-09-19T20:15:00)
+> An improper input validation vulnerability leading to arbitrary file execution was discovered in BigFileAgent. In order to cause arbitrary files to be executed, the attacker makes the victim access a web page d by them or inserts a script using XSS into a general website.
+- [Live-Hack-CVE/CVE-2022-23766](https://github.com/Live-Hack-CVE/CVE-2022-23766)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23766">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23766">
 
 ---
 ## CVE-2022-23743 (2022-05-11T16:15:00)
@@ -12899,6 +13036,19 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-23332 (2022-05-09T14:15:00)
 > Command injection vulnerability in Manual Ping Form (Web UI) in Shenzhen Ejoin Information Technology Co., Ltd. ACOM508/ACOM516/ACOM532 609-915-041-100-020 allows a remote attacker to inject arbitrary code via the field.
 - [Live-Hack-CVE/CVE-2022-23332](https://github.com/Live-Hack-CVE/CVE-2022-23332)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23332">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23332">
+
+---
+## CVE-2022-2333 (2022-09-16T22:15:00)
+> If an attacker manages to trick a valid user into loading a malicious DLL, the attacker may be able to achieve code execution in Honeywell SoftMaster version 4.51 application’s context and permissions.
+- [Live-Hack-CVE/CVE-2022-2333](https://github.com/Live-Hack-CVE/CVE-2022-2333)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2333">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2333">
+- [Live-Hack-CVE/CVE-2022-23331](https://github.com/Live-Hack-CVE/CVE-2022-23331)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23331">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23331">
+- [Live-Hack-CVE/CVE-2022-23332](https://github.com/Live-Hack-CVE/CVE-2022-23332)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23332">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23332">
+- [shirouQwQ/CVE-2022-2333](https://github.com/shirouQwQ/CVE-2022-2333)	<img alt="forks" src="https://img.shields.io/github/forks/shirouQwQ/CVE-2022-2333">	<img alt="stars" src="https://img.shields.io/github/stars/shirouQwQ/CVE-2022-2333">
+
+---
+## CVE-2022-2332 (2022-09-16T22:15:00)
+> A local unprivileged attacker may escalate to administrator privileges in Honeywell SoftMaster version 4.51, due to insecure permission assignment.
+- [Live-Hack-CVE/CVE-2022-2332](https://github.com/Live-Hack-CVE/CVE-2022-2332)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2332">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2332">
 
 ---
 ## CVE-2022-23277 (2022-03-09T17:15:00)
@@ -13477,6 +13627,12 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-21789 (2022-08-01T14:15:00)
 > In audio ipi, there is a possible memory corruption due to a race condition. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS06478101; Issue ID: ALPS06478101.
 - [docfate111/CVE-2022-21789](https://github.com/docfate111/CVE-2022-21789)	<img alt="forks" src="https://img.shields.io/github/forks/docfate111/CVE-2022-21789">	<img alt="stars" src="https://img.shields.io/github/stars/docfate111/CVE-2022-21789">
+
+---
+## CVE-2022-2177 (2022-09-20T11:15:00)
+> Kayrasoft product before version 2 has an unauthenticated SQL Injection vulnerability. This is fixed in version 2.
+- [Live-Hack-CVE/CVE-2022-2177](https://github.com/Live-Hack-CVE/CVE-2022-2177)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2177">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2177">
+- [Live-Hack-CVE/CVE-2022-21778](https://github.com/Live-Hack-CVE/CVE-2022-21778)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21778">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21778">
 
 ---
 ## CVE-2022-21724 (2022-02-02T12:15:00)
