@@ -322,6 +322,11 @@
 - [Live-Hack-CVE/CVE-2016-20016](https://github.com/Live-Hack-CVE/CVE-2016-20016)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-20016">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-20016">
 
 ---
+## CVE-2016-20015 (2022-09-20T18:15:00)
+> In the ebuild package through smokeping-2.7.3-r1 for SmokePing on Gentoo, the initscript allows the smokeping user to gain ownership of any file, allowing for the smokeping user to gain root privileges. There is a race condition involving /var/lib/smokeping and chown.
+- [Live-Hack-CVE/CVE-2016-20015](https://github.com/Live-Hack-CVE/CVE-2016-20015)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-20015">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-20015">
+
+---
 ## CVE-2016-10924 (2019-08-22T14:15:00)
 > The ebook-download plugin before 1.2 for WordPress has directory traversal.
 - [rvizx/CVE-2016-10924](https://github.com/rvizx/CVE-2016-10924)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2016-10924">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2016-10924">

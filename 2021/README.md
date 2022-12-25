@@ -31,6 +31,11 @@
 - [Live-Hack-CVE/CVE-2021-46835](https://github.com/Live-Hack-CVE/CVE-2021-46835)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46835">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46835">
 
 ---
+## CVE-2021-46834 (2022-09-20T20:15:00)
+> A permission bypass vulnerability in Huawei cross device task management could allow an attacker to access certain resource in the attacked devices. Affected product versions include:JAD-AL50 versions 102.0.0.225(C00E220R3P4).
+- [Live-Hack-CVE/CVE-2021-46834](https://github.com/Live-Hack-CVE/CVE-2021-46834)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46834">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46834">
+
+---
 ## CVE-2021-46784 (2022-07-17T22:15:00)
 > In Squid 3.x through 3.5.28, 4.x through 4.17, and 5.x before 5.6, due to improper buffer management, a Denial of Service can occur when processing long Gopher server responses.
 - [Live-Hack-CVE/CVE-2021-46784](https://github.com/Live-Hack-CVE/CVE-2021-46784)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46784">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46784">

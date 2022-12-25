@@ -7359,6 +7359,11 @@
 - [Live-Hack-CVE/CVE-2022-37401](https://github.com/Live-Hack-CVE/CVE-2022-37401)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37401">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37401">
 
 ---
+## CVE-2022-37395 (2022-09-20T20:15:00)
+> A Huawei device has an input verification vulnerability. Successful exploitation of this vulnerability may lead to DoS attacks.Affected product versions include:CV81-WDM FW versions 01.70.49.29.46.
+- [Live-Hack-CVE/CVE-2022-37395](https://github.com/Live-Hack-CVE/CVE-2022-37395)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37395">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37395">
+
+---
 ## CVE-2022-37392 (2022-12-19T11:15:00)
 > Improper Check for Unusual or Exceptional Conditions vulnerability in handling the requests to Apache Traffic Server. This issue affects Apache Traffic Server 8.0.0 to 9.1.2.
 - [Live-Hack-CVE/CVE-2022-37392](https://github.com/Live-Hack-CVE/CVE-2022-37392)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37392">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37392">
@@ -7465,6 +7470,7 @@
 ## CVE-2022-37205 (2022-09-20T18:15:00)
 > JFinal CMS 5.1.0 is affected by: SQL Injection. These interfaces do not use the same component, nor do they have filters, but each uses its own SQL concatenation method, resulting in SQL injection.
 - [AgainstTheLight/CVE-2022-37205](https://github.com/AgainstTheLight/CVE-2022-37205)	<img alt="forks" src="https://img.shields.io/github/forks/AgainstTheLight/CVE-2022-37205">	<img alt="stars" src="https://img.shields.io/github/stars/AgainstTheLight/CVE-2022-37205">
+- [Live-Hack-CVE/CVE-2022-37205](https://github.com/Live-Hack-CVE/CVE-2022-37205)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37205">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37205">
 
 ---
 ## CVE-2022-37204 (2022-09-20T17:15:00)
@@ -9158,6 +9164,11 @@
 - [Live-Hack-CVE/CVE-2022-33743](https://github.com/Live-Hack-CVE/CVE-2022-33743)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33743">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33743">
 
 ---
+## CVE-2022-33735 (2022-09-20T20:15:00)
+> There is a password verification vulnerability in WS7200-10 11.0.2.13. Attackers on the LAN may use brute force cracking to obtain passwords, which may cause sensitive system information to be disclosed.
+- [Live-Hack-CVE/CVE-2022-33735](https://github.com/Live-Hack-CVE/CVE-2022-33735)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33735">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33735">
+
+---
 ## CVE-2022-3373 (2022-11-01T03:15:00)
 > Out of bounds write in V8 in Google Chrome prior to 106.0.5249.91 allowed a remote attacker to perform an out of bounds memory write via a crafted HTML page. (Chromium security severity: High)
 - [Live-Hack-CVE/CVE-2022-3373](https://github.com/Live-Hack-CVE/CVE-2022-3373)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3373">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3373">
@@ -9683,6 +9694,11 @@
 ## CVE-2022-32483 (2022-10-12T20:15:00)
 > Dell BIOS contains an improper input validation vulnerability. A local authenticated malicious user with admin privileges may potentially exploit this vulnerability in order to modify a UEFI variable.
 - [Live-Hack-CVE/CVE-2022-32483](https://github.com/Live-Hack-CVE/CVE-2022-32483)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32483">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32483">
+
+---
+## CVE-2022-3245 (2022-09-20T14:15:00)
+> HTML injection attack is closely related to Cross-site Scripting (XSS). HTML injection uses HTML to deface the page. XSS, as the name implies, injects JavaScript into the page. Both attacks exploit insufficient validation of user input.
+- [Live-Hack-CVE/CVE-2022-3245](https://github.com/Live-Hack-CVE/CVE-2022-3245)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3245">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3245">
 
 ---
 ## CVE-2022-3236 (2022-09-23T13:15:00)
@@ -10940,6 +10956,11 @@
 ## CVE-2022-30115 (2022-06-02T14:15:00)
 > Using its HSTS support, curl can be instructed to use HTTPS directly insteadof using an insecure clear-text HTTP step even when HTTP is provided in theURL. This mechanism could be bypassed if the host name in the given URL used atrailing dot while not using one when it built the HSTS cache. Or the otherway around - by having the trailing dot in the HSTS cache and *not* using thetrailing dot in the URL.
 - [Live-Hack-CVE/CVE-2022-30115](https://github.com/Live-Hack-CVE/CVE-2022-30115)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30115">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30115">
+
+---
+## CVE-2022-3008 (2022-09-05T09:15:00)
+> The tinygltf library uses the C library function wordexp() to perform file path expansion on untrusted paths that are provided from the input file. This function allows for command injection by using backticks. An attacker could craft an untrusted path input that would result in a path expansion. We recommend upgrading to 2.6.0 or past commit 52ff00a38447f06a17eab1caa2cf0730a119c751
+- [Live-Hack-CVE/CVE-2022-3008](https://github.com/Live-Hack-CVE/CVE-2022-3008)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3008">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3008">
 
 ---
 ## CVE-2022-30079 (2022-09-08T12:15:00)
