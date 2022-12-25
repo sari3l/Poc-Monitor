@@ -93,6 +93,26 @@
 - [Live-Hack-CVE/CVE-2022-47524](https://github.com/Live-Hack-CVE/CVE-2022-47524)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47524">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47524">
 
 ---
+## CVE-2022-47521 (2022-12-18T06:15:00)
+> An issue was discovered in the Linux kernel before 6.0.11. Missing validation of IEEE80211_P2P_ATTR_CHANNEL_LIST in drivers/net/wireless/microchip/wilc1000/cfg80211.c in the WILC1000 wireless driver can trigger a heap-based buffer overflow when parsing the operating channel attribute from Wi-Fi management frames.
+- [Live-Hack-CVE/CVE-2022-47521](https://github.com/Live-Hack-CVE/CVE-2022-47521)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47521">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47521">
+
+---
+## CVE-2022-47520 (2022-12-18T06:15:00)
+> An issue was discovered in the Linux kernel before 6.0.11. Missing offset validation in drivers/net/wireless/microchip/wilc1000/hif.c in the WILC1000 wireless driver can trigger an out-of-bounds read when parsing a Robust Security Network (RSN) information element from a Netlink packet.
+- [Live-Hack-CVE/CVE-2022-47520](https://github.com/Live-Hack-CVE/CVE-2022-47520)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47520">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47520">
+
+---
+## CVE-2022-47519 (2022-12-18T06:15:00)
+> An issue was discovered in the Linux kernel before 6.0.11. Missing validation of IEEE80211_P2P_ATTR_OPER_CHANNEL in drivers/net/wireless/microchip/wilc1000/cfg80211.c in the WILC1000 wireless driver can trigger an out-of-bounds write when parsing the channel list attribute from Wi-Fi management frames.
+- [Live-Hack-CVE/CVE-2022-47519](https://github.com/Live-Hack-CVE/CVE-2022-47519)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47519">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47519">
+
+---
+## CVE-2022-47518 (2022-12-18T06:15:00)
+> An issue was discovered in the Linux kernel before 6.0.11. Missing validation of the number of channels in drivers/net/wireless/microchip/wilc1000/cfg80211.c in the WILC1000 wireless driver can trigger a heap-based buffer overflow when copying the list of operating channels from Wi-Fi management frames.
+- [Live-Hack-CVE/CVE-2022-47518](https://github.com/Live-Hack-CVE/CVE-2022-47518)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47518">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47518">
+
+---
 ## CVE-2022-47500 (2022-12-19T11:15:00)
 > URL Redirection to Untrusted Site ('Open Redirect') vulnerability in Apache Software Foundation Apache Helix UI component.This issue affects Apache Helix all releases from 0.8.0 to 1.0.4. Solution: removed the the forward component since it was improper designed for UI embedding. User please upgrade to 1.1.0 to fix this issue.
 - [Live-Hack-CVE/CVE-2022-47500](https://github.com/Live-Hack-CVE/CVE-2022-47500)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47500">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47500">
@@ -757,9 +777,36 @@
 - [Live-Hack-CVE/CVE-2022-46020](https://github.com/Live-Hack-CVE/CVE-2022-46020)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46020">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46020">
 
 ---
+## CVE-2022-4602 (2022-12-18T11:15:00)
+> A vulnerability was found in Shoplazza LifeStyle 1.1. It has been rated as problematic. This issue affects some unknown processing of the file /admin/api/theme-edit/ of the component Review Flow Handler. The manipulation of the argument Title leads to cross site scripting. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-216197 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4602](https://github.com/Live-Hack-CVE/CVE-2022-4602)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4602">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4602">
+- [Live-Hack-CVE/CVE-2022-46020](https://github.com/Live-Hack-CVE/CVE-2022-46020)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46020">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46020">
+
+---
+## CVE-2022-4601 (2022-12-18T11:15:00)
+> A vulnerability was found in Shoplazza LifeStyle 1.1. It has been declared as problematic. This vulnerability affects unknown code of the file /admin/api/theme-edit/ of the component Shipping/Member Discount/Icon. The manipulation leads to cross site scripting. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-216196.
+- [Live-Hack-CVE/CVE-2022-4601](https://github.com/Live-Hack-CVE/CVE-2022-4601)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4601">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4601">
+
+---
+## CVE-2022-4600 (2022-12-18T11:15:00)
+> A vulnerability was found in Shoplazza LifeStyle 1.1. It has been classified as problematic. This affects an unknown part of the file /admin/api/theme-edit/ of the component Product Carousel Handler. The manipulation of the argument Heading/Description leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-216195.
+- [Live-Hack-CVE/CVE-2022-4600](https://github.com/Live-Hack-CVE/CVE-2022-4600)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4600">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4600">
+
+---
 ## CVE-2022-45990 (2022-12-05T23:15:00)
 > A cross-site scripting (XSS) vulnerability in the component /signup_script.php of Ecommerce-Website v1.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the eMail parameter.
 - [Live-Hack-CVE/CVE-2022-45990](https://github.com/Live-Hack-CVE/CVE-2022-45990)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45990">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45990">
+
+---
+## CVE-2022-4599 (2022-12-18T11:15:00)
+> A vulnerability was found in Shoplazza LifeStyle 1.1 and classified as problematic. Affected by this issue is some unknown functionality of the file /admin/api/theme-edit/ of the component Product Handler. The manipulation of the argument Subheading/Heading/Text/Button Text/Label leads to cross site scripting. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. VDB-216194 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4599](https://github.com/Live-Hack-CVE/CVE-2022-4599)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4599">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4599">
+
+---
+## CVE-2022-4598 (2022-12-18T11:15:00)
+> A vulnerability has been found in Shoplazza LifeStyle 1.1 and classified as problematic. Affected by this vulnerability is an unknown functionality of the file /admin/api/theme-edit/ of the component Announcement Handler. The manipulation of the argument Text/Mobile Text leads to cross site scripting. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-216193 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4598](https://github.com/Live-Hack-CVE/CVE-2022-4598)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4598">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4598">
+- [Live-Hack-CVE/CVE-2022-45980](https://github.com/Live-Hack-CVE/CVE-2022-45980)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45980">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45980">
 
 ---
 ## CVE-2022-45957 (2022-12-12T15:15:00)
@@ -767,9 +814,24 @@
 - [Live-Hack-CVE/CVE-2022-45957](https://github.com/Live-Hack-CVE/CVE-2022-45957)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45957">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45957">
 
 ---
+## CVE-2022-4595 (2022-12-18T11:15:00)
+> A vulnerability classified as problematic has been found in django-openipam. This affects an unknown part of the file openipam/report/templates/report/exposed_hosts.html. The manipulation of the argument description leads to cross site scripting. It is possible to initiate the attack remotely. The name of the patch is a6223a1150d60cd036106ba6a8e676c1bfc3cc85. It is recommended to apply a patch to fix this issue. The identifier VDB-216189 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4595](https://github.com/Live-Hack-CVE/CVE-2022-4595)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4595">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4595">
+
+---
 ## CVE-2022-45936 (2022-12-13T16:15:00)
 > A vulnerability has been identified in Mendix Email Connector (All versions < V2.0.0). Affected versions of the module improperly handle access control for some module entities. This could allow authenticated remote attackers to read and manipulate sensitive information.
 - [Live-Hack-CVE/CVE-2022-45936](https://github.com/Live-Hack-CVE/CVE-2022-45936)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45936">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45936">
+
+---
+## CVE-2022-4593 (2022-12-18T08:15:00)
+> A vulnerability was found in retra-system. It has been classified as problematic. Affected is an unknown function. The manipulation leads to cross site scripting. It is possible to launch the attack remotely. The name of the patch is a6d94ab88f4a6f631a14c59b72461140fb57ae1f. It is recommended to apply a patch to fix this issue. VDB-216186 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4593](https://github.com/Live-Hack-CVE/CVE-2022-4593)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4593">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4593">
+
+---
+## CVE-2022-4592 (2022-12-18T08:15:00)
+> A vulnerability was found in luckyshot CRMx and classified as critical. This issue affects the function get/save/delete/comment/commentdelete of the file index.php. The manipulation leads to sql injection. The attack may be initiated remotely. The name of the patch is 8c62d274986137d6a1d06958a6f75c3553f45f8f. It is recommended to apply a patch to fix this issue. The identifier VDB-216185 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4592](https://github.com/Live-Hack-CVE/CVE-2022-4592)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4592">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4592">
 
 ---
 ## CVE-2022-45918 (2022-12-07T01:15:00)
@@ -802,9 +864,41 @@
 - [Live-Hack-CVE/CVE-2022-45912](https://github.com/Live-Hack-CVE/CVE-2022-45912)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45912">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45912">
 
 ---
+## CVE-2022-4591 (2022-12-17T19:15:00)
+> A vulnerability was found in mschaef toto up to 1.4.20. It has been declared as problematic. This vulnerability affects unknown code of the component Email Parameter Handler. The manipulation leads to cross site scripting. The attack can be initiated remotely. Upgrading to version 1.4.21 is able to address this issue. The name of the patch is 1f27f37c1a06f54a76971f70eaa6139dc139bdf9. It is recommended to upgrade the affected component. VDB-216178 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4591](https://github.com/Live-Hack-CVE/CVE-2022-4591)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4591">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4591">
+
+---
+## CVE-2022-4587 (2022-12-17T13:15:00)
+> A vulnerability, which was classified as problematic, has been found in Opencaching Deutschland oc-server3. This issue affects some unknown processing of the file htdocs/templates2/ocstyle/login.tpl of the component Login Page. The manipulation of the argument username leads to cross site scripting. The attack may be initiated remotely. The name of the patch is 3296ebd61e7fe49e93b5755d5d7766d6e94a7667. It is recommended to apply a patch to fix this issue. The identifier VDB-216173 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4587](https://github.com/Live-Hack-CVE/CVE-2022-4587)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4587">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4587">
+- [Live-Hack-CVE/CVE-2022-45872](https://github.com/Live-Hack-CVE/CVE-2022-45872)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45872">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45872">
+- [Live-Hack-CVE/CVE-2022-45873](https://github.com/Live-Hack-CVE/CVE-2022-45873)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45873">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45873">
+- [Live-Hack-CVE/CVE-2022-45877](https://github.com/Live-Hack-CVE/CVE-2022-45877)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45877">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45877">
+- [Live-Hack-CVE/CVE-2022-45871](https://github.com/Live-Hack-CVE/CVE-2022-45871)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45871">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45871">
+
+---
 ## CVE-2022-45869 (2022-11-30T05:15:00)
 > A race condition in the x86 KVM subsystem in the Linux kernel through 6.1-rc6 allows guest OS users to cause a denial of service (host OS crash or host OS memory corruption) when nested virtualisation and the TDP MMU are enabled.
 - [Live-Hack-CVE/CVE-2022-45869](https://github.com/Live-Hack-CVE/CVE-2022-45869)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45869">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45869">
+
+---
+## CVE-2022-4586 (2022-12-17T13:15:00)
+> A vulnerability classified as problematic was found in Opencaching Deutschland oc-server3. This vulnerability affects unknown code of the file htdocs/templates2/ocstyle/cachelists.tpl of the component Cachelist Handler. The manipulation of the argument name_filter/by_filter leads to cross site scripting. The attack can be initiated remotely. The name of the patch is a9f79c7da78cd24a7ef1d298e6bc86006972ea73. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-216172.
+- [Live-Hack-CVE/CVE-2022-4586](https://github.com/Live-Hack-CVE/CVE-2022-4586)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4586">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4586">
+- [Live-Hack-CVE/CVE-2022-45868](https://github.com/Live-Hack-CVE/CVE-2022-45868)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45868">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45868">
+- [Live-Hack-CVE/CVE-2022-45866](https://github.com/Live-Hack-CVE/CVE-2022-45866)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45866">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45866">
+- [Live-Hack-CVE/CVE-2022-45869](https://github.com/Live-Hack-CVE/CVE-2022-45869)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45869">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45869">
+
+---
+## CVE-2022-4585 (2022-12-17T13:15:00)
+> A vulnerability classified as problematic has been found in Opencaching Deutschland oc-server3. This affects an unknown part of the file htdocs/templates2/ocstyle/start.tpl of the component Cookie Handler. The manipulation of the argument usercountryCode leads to cross site scripting. It is possible to initiate the attack remotely. The name of the patch is c720f2777a452186c67ef30db3679dd409556544. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-216171.
+- [Live-Hack-CVE/CVE-2022-4585](https://github.com/Live-Hack-CVE/CVE-2022-4585)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4585">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4585">
+
+---
+## CVE-2022-4584 (2022-12-17T13:15:00)
+> A vulnerability was found in Axiomatic Bento4. It has been rated as critical. Affected by this issue is some unknown functionality of the component mp42aac. The manipulation leads to heap-based buffer overflow. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. VDB-216170 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4584](https://github.com/Live-Hack-CVE/CVE-2022-4584)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4584">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4584">
 
 ---
 ## CVE-2022-45833 (2022-12-06T22:15:00)
@@ -832,9 +926,22 @@
 - [Live-Hack-CVE/CVE-2022-45822](https://github.com/Live-Hack-CVE/CVE-2022-45822)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45822">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45822">
 
 ---
+## CVE-2022-4582 (2022-12-17T13:15:00)
+> A vulnerability was found in starter-public-edition-4 up to 4.6.10. It has been classified as problematic. Affected is an unknown function. The manipulation leads to cross site scripting. It is possible to launch the attack remotely. Upgrading to version 4.6.11 is able to address this issue. The name of the patch is 2606983c20f6ea3430ac4b36b3d2e88aafef45da. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-216168.
+- [Live-Hack-CVE/CVE-2022-4582](https://github.com/Live-Hack-CVE/CVE-2022-4582)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4582">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4582">
+- [Live-Hack-CVE/CVE-2022-45824](https://github.com/Live-Hack-CVE/CVE-2022-45824)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45824">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45824">
+- [Live-Hack-CVE/CVE-2022-45822](https://github.com/Live-Hack-CVE/CVE-2022-45822)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45822">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45822">
+- [Live-Hack-CVE/CVE-2022-45829](https://github.com/Live-Hack-CVE/CVE-2022-45829)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45829">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45829">
+
+---
 ## CVE-2022-45816 (2022-12-06T22:15:00)
 > Auth. Stored Cross-Site Scripting (XSS) vulnerability in GD bbPress Attachments plugin <= 4.3.1 on WordPress.
 - [Live-Hack-CVE/CVE-2022-45816](https://github.com/Live-Hack-CVE/CVE-2022-45816)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45816">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45816">
+
+---
+## CVE-2022-4581 (2022-12-17T13:15:00)
+> A vulnerability was found in 1j01 mind-map and classified as problematic. This issue affects some unknown processing of the file app.coffee. The manipulation of the argument html leads to cross site scripting. The attack may be initiated remotely. The name of the patch is 9617e6084dfeccd92079ab4d7f439300a4b24394. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-216167.
+- [Live-Hack-CVE/CVE-2022-4581](https://github.com/Live-Hack-CVE/CVE-2022-4581)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4581">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4581">
 
 ---
 ## CVE-2022-45797 (2022-12-12T09:15:00)
@@ -861,6 +968,11 @@
 ## CVE-2022-45760 (2022-12-12T03:15:00)
 > SENS v1.0 is vulnerable to Incorrect Access Control vulnerability.
 - [Live-Hack-CVE/CVE-2022-45760](https://github.com/Live-Hack-CVE/CVE-2022-45760)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45760">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45760">
+
+---
+## CVE-2022-4572 (2022-12-17T02:15:00)
+> A vulnerability, which was classified as problematic, has been found in UBI Reader up to 0.8.0. Affected by this issue is the function ubireader_extract_files of the file ubireader/ubifs/output.py of the component UBIFS File Handler. The manipulation leads to path traversal. The attack may be launched remotely. Upgrading to version 0.8.5 is able to address this issue. The name of the patch is d5d68e6b1b9f7070c29df5f67fc060f579ae9139. It is recommended to upgrade the affected component. VDB-216146 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4572](https://github.com/Live-Hack-CVE/CVE-2022-4572)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4572">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4572">
 
 ---
 ## CVE-2022-45645 (2022-12-02T18:15:00)
@@ -6110,6 +6222,11 @@
 - [Live-Hack-CVE/CVE-2022-38757](https://github.com/Live-Hack-CVE/CVE-2022-38757)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38757">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38757">
 
 ---
+## CVE-2022-38756 (2022-12-16T23:15:00)
+> A vulnerability has been identified in Micro Focus GroupWise Web in versions prior to 18.4.2. The GW Web component makes a request to the Post Office Agent that contains sensitive information in the query parameters that could be logged by any intervening HTTP proxies.
+- [Live-Hack-CVE/CVE-2022-38756](https://github.com/Live-Hack-CVE/CVE-2022-38756)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38756">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38756">
+
+---
 ## CVE-2022-38744 (2022-10-27T14:15:00)
 > An unauthenticated attacker with network access to a victim's Rockwell Automation FactoryTalk Alarm and Events service could open a connection, causing the service to fault and become unavailable. The affected port could be used as a server ping port and uses messages structured with XML.
 - [Live-Hack-CVE/CVE-2022-38744](https://github.com/Live-Hack-CVE/CVE-2022-38744)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38744">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38744">
@@ -9316,6 +9433,11 @@
 - [SpindleSec/CVE-2022-31691](https://github.com/SpindleSec/CVE-2022-31691)	<img alt="forks" src="https://img.shields.io/github/forks/SpindleSec/CVE-2022-31691">	<img alt="stars" src="https://img.shields.io/github/stars/SpindleSec/CVE-2022-31691">
 
 ---
+## CVE-2022-3169 (2022-09-09T15:15:00)
+> A flaw was found in the Linux kernel. A denial of service flaw may occur if there is a consecutive request of the NVME_IOCTL_RESET and the NVME_IOCTL_SUBSYS_RESET through the device file of the driver, resulting in a PCIe link disconnect.
+- [Live-Hack-CVE/CVE-2022-3169](https://github.com/Live-Hack-CVE/CVE-2022-3169)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3169">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3169">
+
+---
 ## CVE-2022-3168 ()
 > 
 - [irsl/CVE-2022-3168-adb-unexpected-reverse-forwards](https://github.com/irsl/CVE-2022-3168-adb-unexpected-reverse-forwards)	<img alt="forks" src="https://img.shields.io/github/forks/irsl/CVE-2022-3168-adb-unexpected-reverse-forwards">	<img alt="stars" src="https://img.shields.io/github/stars/irsl/CVE-2022-3168-adb-unexpected-reverse-forwards">
@@ -11161,6 +11283,26 @@
 > An issue was found in the Linux kernel in nf_conntrack_irc where the message handling can be confused and incorrectly matches the message. A firewall may be able to be bypassed when users are using unencrypted IRC with nf_conntrack_irc configured.
 - [Live-Hack-CVE/CVE-2022-2663](https://github.com/Live-Hack-CVE/CVE-2022-2663)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2663">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2663">
 - [Cyb3rR3ap3r/CVE-2022-26631](https://github.com/Cyb3rR3ap3r/CVE-2022-26631)	<img alt="forks" src="https://img.shields.io/github/forks/Cyb3rR3ap3r/CVE-2022-26631">	<img alt="stars" src="https://img.shields.io/github/stars/Cyb3rR3ap3r/CVE-2022-26631">
+
+---
+## CVE-2022-26582 (2022-12-16T22:15:00)
+> The systool_server in PAX Technology A930 PayDroid 7.1.1 Virgo V04.4.02 20211201 fails to check for dollar signs or backticks in user supplied commands, leading to to arbitrary command execution as root.
+- [Live-Hack-CVE/CVE-2022-26582](https://github.com/Live-Hack-CVE/CVE-2022-26582)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26582">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26582">
+
+---
+## CVE-2022-26581 (2022-12-16T22:15:00)
+> The ADB daemon in PAX Technology A930 PayDroid 7.1.1 Virgo V04.4.02 20211201 allows the execution of the systool utility in production mode, allowing unauthenticated attackers to perform privileged actions.
+- [Live-Hack-CVE/CVE-2022-26581](https://github.com/Live-Hack-CVE/CVE-2022-26581)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26581">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26581">
+
+---
+## CVE-2022-26580 (2022-12-16T22:15:00)
+> PAX Technology A930 PayDroid 7.1.1 Virgo V04.4.02 20211201 was discovered to be vulnerable to command injection.
+- [Live-Hack-CVE/CVE-2022-26580](https://github.com/Live-Hack-CVE/CVE-2022-26580)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26580">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26580">
+
+---
+## CVE-2022-26579 (2022-12-16T22:15:00)
+> PAX Technology A930 PayDroid 7.1.1 Virgo V04.4.02 20211201 allows root privileged attackers to install an unsigned application by copying the APK to /data/app, setting the appropriate permissions and rebooting the device.
+- [Live-Hack-CVE/CVE-2022-26579](https://github.com/Live-Hack-CVE/CVE-2022-26579)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26579">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26579">
 
 ---
 ## CVE-2022-26520 (2022-03-10T17:47:00)

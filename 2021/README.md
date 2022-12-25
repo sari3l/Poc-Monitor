@@ -616,6 +616,16 @@
 - [Live-Hack-CVE/CVE-2021-4249](https://github.com/Live-Hack-CVE/CVE-2021-4249)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4249">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4249">
 
 ---
+## CVE-2021-4248 (2022-12-18T11:15:00)
+> A vulnerability was found in kapetan dns up to 6.1.0. It has been rated as problematic. Affected by this issue is some unknown functionality of the file DNS/Protocol/Request.cs. The manipulation leads to insufficient entropy in prng. The attack may be launched remotely. Upgrading to version 7.0.0 is able to address this issue. The name of the patch is cf7105aa2aae90d6656088fe5a8ee1d5730773b6. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-216188.
+- [Live-Hack-CVE/CVE-2021-4248](https://github.com/Live-Hack-CVE/CVE-2021-4248)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4248">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4248">
+
+---
+## CVE-2021-4246 (2022-12-17T19:15:00)
+> A vulnerability was found in roxlukas LMeve and classified as critical. Affected by this issue is some unknown functionality of the component Login Page. The manipulation of the argument X-Forwarded-For leads to sql injection. The attack may be launched remotely. The name of the patch is 29e1ead3bb1c1fad53b77dfc14534496421c5b5d. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-216176.
+- [Live-Hack-CVE/CVE-2021-4246](https://github.com/Live-Hack-CVE/CVE-2021-4246)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4246">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4246">
+
+---
 ## CVE-2021-4245 (2022-12-15T20:15:00)
 > A vulnerability classified as problematic has been found in chbrown rfc6902. This affects an unknown part of the file pointer.ts. The manipulation leads to improperly controlled modification of object prototype attributes ('prototype pollution'). The exploit has been disclosed to the public and may be used. The name of the patch is c006ce9faa43d31edb34924f1df7b79c137096cf. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-215883.
 - [Live-Hack-CVE/CVE-2021-4245](https://github.com/Live-Hack-CVE/CVE-2021-4245)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4245">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4245">
@@ -1502,6 +1512,11 @@
 - [Live-Hack-CVE/CVE-2021-37652](https://github.com/Live-Hack-CVE/CVE-2021-37652)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37652">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37652">
 
 ---
+## CVE-2021-3759 (2022-08-23T16:15:00)
+> A memory overflow vulnerability was found in the Linux kernel’s ipc functionality of the memcg subsystem, in the way a user calls the semget function multiple times, creating semaphores. This flaw allows a local user to starve the resources, causing a denial of service. The highest threat from this vulnerability is to system availability.
+- [Live-Hack-CVE/CVE-2021-3759](https://github.com/Live-Hack-CVE/CVE-2021-3759)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3759">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3759">
+
+---
 ## CVE-2021-37533 (2022-12-03T15:15:00)
 > Prior to Apache Commons Net 3.9.0, Net's FTP client trusts the host from PASV response by default. A malicious server can redirect the Commons Net code to use a different host, but the user has to connect to the malicious server in the first place. This may lead to leakage of information about services running on the private network of the client. The default in version 3.9.0 is now false to ignore such hosts, as cURL does. See https://issues.apache.org/jira/browse/NET-711.
 - [Live-Hack-CVE/CVE-2021-37533](https://github.com/Live-Hack-CVE/CVE-2021-37533)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37533">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37533">
@@ -2222,6 +2237,11 @@
 ## CVE-2021-33713 (2021-07-13T11:15:00)
 > A vulnerability has been identified in JT Utilities (All versions < V13.0.2.0). When parsing specially crafted JT files, a hash function is called with an incorrect argument leading the application to crash. An attacker could leverage this vulnerability to cause a Denial-of-Service condition in the application.
 - [Live-Hack-CVE/CVE-2021-33713](https://github.com/Live-Hack-CVE/CVE-2021-33713)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33713">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33713">
+
+---
+## CVE-2021-33640 (2022-12-19T16:15:00)
+> After tar_close(), libtar.c releases the memory pointed to by pointer t. After tar_close() is called in the list() function, it continues to use pointer t: free_longlink_longname(t->th_buf) . As a result, the released memory is used (use-after-free).
+- [Live-Hack-CVE/CVE-2021-33640](https://github.com/Live-Hack-CVE/CVE-2021-33640)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33640">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33640">
 
 ---
 ## CVE-2021-33618 (2021-11-10T23:15:00)
