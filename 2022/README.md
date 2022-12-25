@@ -12824,6 +12824,10 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-2471 (2022-09-15T14:15:00)
 > Stack-based Buffer Overflow vulnerability in the EZVIZ Motion Detection component as used in camera models CS-CV248, CS-C6N-A0-1C2WFR, CS-DB1C-A0-1E2W2FR, CS-C6N-B0-1G2WF, CS-C3W-A0-3H4WFRL allows a remote attacker to execute remote code on the device. This issue affects: EZVIZ CS-CV248 versions prior to 5.2.3 build 220725. EZVIZ CS-C6N-A0-1C2WFR versions prior to 5.3.0 build 220428. EZVIZ CS-DB1C-A0-1E2W2FR versions prior to 5.3.0 build 220802. EZVIZ CS-C6N-B0-1G2WF versions prior to 5.3.0 build 220712. EZVIZ CS-C3W-A0-3H4WFRL versions prior to 5.3.5 build 220723.
 - [Live-Hack-CVE/CVE-2022-2471](https://github.com/Live-Hack-CVE/CVE-2022-2471)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2471">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2471">
+- [Live-Hack-CVE/CVE-2022-24715](https://github.com/Live-Hack-CVE/CVE-2022-24715)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24715">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24715">
+- [Live-Hack-CVE/CVE-2022-24716](https://github.com/Live-Hack-CVE/CVE-2022-24716)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24716">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24716">
+- [Live-Hack-CVE/CVE-2022-24714](https://github.com/Live-Hack-CVE/CVE-2022-24714)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24714">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24714">
+- [ItzSwirlz/CVE-2022-24713-POC](https://github.com/ItzSwirlz/CVE-2022-24713-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ItzSwirlz/CVE-2022-24713-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ItzSwirlz/CVE-2022-24713-POC">
 
 ---
 ## CVE-2022-24706 (2022-04-26T10:15:00)
