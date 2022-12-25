@@ -342,6 +342,11 @@
 - [horizon3ai/CVE-2021-44077](https://github.com/horizon3ai/CVE-2021-44077)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2021-44077">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2021-44077">
 
 ---
+## CVE-2021-44076 (2022-09-15T13:15:00)
+> An issue was discovered in CrushFTP 9. The creation of a new user through the /WebInterface/UserManager/ interface allows an attacker, with access to the administration panel, to perform Stored Cross-Site Scripting (XSS). The payload can be executed in multiple scenarios, for example when the user's page appears in the Most Visited section of the page.
+- [Live-Hack-CVE/CVE-2021-44076](https://github.com/Live-Hack-CVE/CVE-2021-44076)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44076">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44076">
+
+---
 ## CVE-2021-44040 (2022-03-23T14:15:00)
 > Improper Input Validation vulnerability in request line parsing of Apache Traffic Server allows an attacker to send invalid requests. This issue affects Apache Traffic Server 8.0.0 to 8.1.3 and 9.0.0 to 9.1.1.
 - [Live-Hack-CVE/CVE-2021-44040](https://github.com/Live-Hack-CVE/CVE-2021-44040)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44040">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44040">

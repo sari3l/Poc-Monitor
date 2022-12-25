@@ -5090,9 +5090,44 @@
 - [Jackey0/CVE-2022-40664](https://github.com/Jackey0/CVE-2022-40664)	<img alt="forks" src="https://img.shields.io/github/forks/Jackey0/CVE-2022-40664">	<img alt="stars" src="https://img.shields.io/github/stars/Jackey0/CVE-2022-40664">
 
 ---
+## CVE-2022-40662 (2022-09-15T16:15:00)
+> This vulnerability allows remote attackers to execute arbitrary code on affected installations of NIKON NIS-Elements Viewer 1.2100.1483.0. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of TIF images. Crafted data in a TIF image can trigger a read past the end of an allocated buffer. An attacker can leverage this vulnerability to execute code in the context of the current process. Was ZDI-CAN-15351.
+- [Live-Hack-CVE/CVE-2022-40662](https://github.com/Live-Hack-CVE/CVE-2022-40662)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40662">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40662">
+
+---
+## CVE-2022-40660 (2022-09-15T16:15:00)
+> This vulnerability allows remote attackers to execute arbitrary code on affected installations of NIKON NIS-Elements Viewer 1.2100.1483.0. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of PSD images. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a heap-based buffer. An attacker can leverage this vulnerability to execute code in the context of the current process. Was ZDI-CAN-15135.
+- [Live-Hack-CVE/CVE-2022-40660](https://github.com/Live-Hack-CVE/CVE-2022-40660)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40660">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40660">
+
+---
 ## CVE-2022-4066 (2022-11-19T19:15:00)
 > A vulnerability was found in davidmoreno onion. It has been rated as problematic. Affected by this issue is the function onion_response_flush of the file src/onion/response.c of the component Log Handler. The manipulation leads to allocation of resources. The name of the patch is de8ea938342b36c28024fd8393ebc27b8442a161. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-214028.
 - [Live-Hack-CVE/CVE-2022-4066](https://github.com/Live-Hack-CVE/CVE-2022-4066)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4066">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4066">
+
+---
+## CVE-2022-40659 (2022-09-15T16:15:00)
+> This vulnerability allows remote attackers to execute arbitrary code on affected installations of NIKON NIS-Elements Viewer 1.2100.1483.0. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of TIF images. Crafted data in a TIF file can trigger a write past the end of an allocated buffer. An attacker can leverage this vulnerability to execute code in the context of the current process. Was ZDI-CAN-15214.
+- [Live-Hack-CVE/CVE-2022-40659](https://github.com/Live-Hack-CVE/CVE-2022-40659)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40659">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40659">
+
+---
+## CVE-2022-40658 (2022-09-15T16:15:00)
+> This vulnerability allows remote attackers to execute arbitrary code on affected installations of NIKON NIS-Elements Viewer 1.2100.1483.0. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of TIF images. Crafted data in a TIF file can trigger a write past the end of an allocated buffer. An attacker can leverage this vulnerability to execute code in the context of the current process. Was ZDI-CAN-15166.
+- [Live-Hack-CVE/CVE-2022-40658](https://github.com/Live-Hack-CVE/CVE-2022-40658)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40658">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40658">
+
+---
+## CVE-2022-40657 (2022-09-15T16:15:00)
+> This vulnerability allows remote attackers to execute arbitrary code on affected installations of NIKON NIS-Elements Viewer 1.2100.1483.0. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of PSD files. Crafted data in a PSD file can trigger a write past the end of an allocated buffer. An attacker can leverage this vulnerability to execute code in the context of the current process. Was ZDI-CAN-15073.
+- [Live-Hack-CVE/CVE-2022-40657](https://github.com/Live-Hack-CVE/CVE-2022-40657)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40657">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40657">
+
+---
+## CVE-2022-40656 (2022-09-15T16:15:00)
+> This vulnerability allows remote attackers to execute arbitrary code on affected installations of NIKON NIS-Elements Viewer 13.2.0.21165. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of ND2 files. Crafted data in a ND2 file can trigger a read past the end of an allocated buffer. An attacker can leverage this vulnerability to execute code in the context of the current process. Was ZDI-CAN-15072.
+- [Live-Hack-CVE/CVE-2022-40656](https://github.com/Live-Hack-CVE/CVE-2022-40656)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40656">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40656">
+
+---
+## CVE-2022-40655 (2022-09-15T16:15:00)
+> This vulnerability allows remote attackers to execute arbitrary code on affected installations of NIKON NIS-Elements Viewer 1.2100.1483.0. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of ND2 files. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a heap-based buffer. An attacker can leverage this vulnerability to execute code in the context of the current process. Was ZDI-CAN-15071.
+- [Live-Hack-CVE/CVE-2022-40655](https://github.com/Live-Hack-CVE/CVE-2022-40655)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40655">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40655">
 
 ---
 ## CVE-2022-40648 (2022-09-15T16:15:00)
@@ -5113,6 +5148,11 @@
 ## CVE-2022-40629 (2022-09-23T18:15:00)
 > This vulnerability exists in Tacitine Firewall, all versions of EN6200-PRIME QUAD-35 and EN6200-PRIME QUAD-100 between 19.1.1 to 22.20.1 (inclusive), due to insecure design in the Tacitine Firewall web-based management interface. An unauthenticated remote attacker could exploit this vulnerability by sending a specially crafted http request on the targeted device. Successful exploitation of this vulnerability could allow an unauthenticated remote attacker to view sensitive information on the targeted device.
 - [Live-Hack-CVE/CVE-2022-40629](https://github.com/Live-Hack-CVE/CVE-2022-40629)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40629">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40629">
+
+---
+## CVE-2022-40626 (2022-09-14T11:15:00)
+> An unauthenticated user can create a link with reflected Javascript code inside the backurl parameter and send it to other authenticated users in order to create a fake account with predefined login, password and role in Zabbix Frontend.
+- [Live-Hack-CVE/CVE-2022-40626](https://github.com/Live-Hack-CVE/CVE-2022-40626)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40626">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40626">
 
 ---
 ## CVE-2022-40607 (2022-12-19T20:15:00)
@@ -6435,6 +6475,46 @@
 - [Live-Hack-CVE/CVE-2022-38998](https://github.com/Live-Hack-CVE/CVE-2022-38998)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38998">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38998">
 
 ---
+## CVE-2022-38997 (2022-09-16T18:15:00)
+> The secure OS module has configuration defects. Successful exploitation of this vulnerability may affect data confidentiality.
+- [Live-Hack-CVE/CVE-2022-38997](https://github.com/Live-Hack-CVE/CVE-2022-38997)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38997">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38997">
+
+---
+## CVE-2022-38996 (2022-09-16T18:15:00)
+> The secure OS module has configuration defects. Successful exploitation of this vulnerability may affect system availability.
+- [Live-Hack-CVE/CVE-2022-38996](https://github.com/Live-Hack-CVE/CVE-2022-38996)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38996">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38996">
+
+---
+## CVE-2022-38992 (2022-09-16T18:15:00)
+> The secure OS module has configuration defects. Successful exploitation of this vulnerability may affect data confidentiality.
+- [Live-Hack-CVE/CVE-2022-38992](https://github.com/Live-Hack-CVE/CVE-2022-38992)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38992">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38992">
+
+---
+## CVE-2022-38991 (2022-09-16T18:15:00)
+> The secure OS module has configuration defects. Successful exploitation of this vulnerability may affect data confidentiality.
+- [Live-Hack-CVE/CVE-2022-38991](https://github.com/Live-Hack-CVE/CVE-2022-38991)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38991">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38991">
+
+---
+## CVE-2022-38990 (2022-09-16T18:15:00)
+> The secure OS module has configuration defects. Successful exploitation of this vulnerability may affect system availability.
+- [Live-Hack-CVE/CVE-2022-38990](https://github.com/Live-Hack-CVE/CVE-2022-38990)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38990">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38990">
+
+---
+## CVE-2022-38989 (2022-09-16T18:15:00)
+> The secure OS module has configuration defects. Successful exploitation of this vulnerability may affect system availability.
+- [Live-Hack-CVE/CVE-2022-38989](https://github.com/Live-Hack-CVE/CVE-2022-38989)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38989">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38989">
+
+---
+## CVE-2022-38988 (2022-09-16T18:15:00)
+> The secure OS module has configuration defects. Successful exploitation of this vulnerability may affect data confidentiality.
+- [Live-Hack-CVE/CVE-2022-38988](https://github.com/Live-Hack-CVE/CVE-2022-38988)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38988">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38988">
+
+---
+## CVE-2022-38987 (2022-09-16T18:15:00)
+> The secure OS module has configuration defects. Successful exploitation of this vulnerability may affect system availability.
+- [Live-Hack-CVE/CVE-2022-38987](https://github.com/Live-Hack-CVE/CVE-2022-38987)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38987">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38987">
+
+---
 ## CVE-2022-38986 (2022-10-14T16:15:00)
 > The HIPP module has a vulnerability of bypassing the check of the data transferred in the kernel space.Successful exploitation of this vulnerability may cause out-of-bounds access to the HIPP module and page table tampering, affecting device confidentiality and availability.
 - [Live-Hack-CVE/CVE-2022-38986](https://github.com/Live-Hack-CVE/CVE-2022-38986)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38986">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38986">
@@ -6458,6 +6538,11 @@
 ## CVE-2022-38981 (2022-10-14T16:15:00)
 > The HwAirlink module has an out-of-bounds read vulnerability.Successful exploitation of this vulnerability may cause information leakage.
 - [Live-Hack-CVE/CVE-2022-38981](https://github.com/Live-Hack-CVE/CVE-2022-38981)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38981">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38981">
+
+---
+## CVE-2022-38978 (2022-09-16T18:15:00)
+> The secure OS module has configuration defects. Successful exploitation of this vulnerability may affect data confidentiality.
+- [Live-Hack-CVE/CVE-2022-38978](https://github.com/Live-Hack-CVE/CVE-2022-38978)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38978">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38978">
 
 ---
 ## CVE-2022-38977 (2022-10-14T16:15:00)
@@ -6533,6 +6618,16 @@
 ## CVE-2022-3888 (2022-11-09T04:15:00)
 > Use after free in WebCodecs in Google Chrome prior to 107.0.5304.106 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [Live-Hack-CVE/CVE-2022-3888](https://github.com/Live-Hack-CVE/CVE-2022-3888)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3888">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3888">
+
+---
+## CVE-2022-38878 (2022-09-16T16:15:00)
+> School Activity Updates with SMS Notification v1.0 is vulnerable to SQL Injection via /activity/admin/modules/event/index.php?view=edit&id=.
+- [Live-Hack-CVE/CVE-2022-38878](https://github.com/Live-Hack-CVE/CVE-2022-38878)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38878">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38878">
+
+---
+## CVE-2022-38877 (2022-09-16T16:15:00)
+> Garage Management System v1.0 is vulnerable to Arbitrary code execution via ip/garage/php_action/editProductImage.php?id=1.
+- [Live-Hack-CVE/CVE-2022-38877](https://github.com/Live-Hack-CVE/CVE-2022-38877)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38877">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38877">
 
 ---
 ## CVE-2022-38873 (2022-12-20T20:15:00)
@@ -6739,6 +6834,11 @@
 - [Live-Hack-CVE/CVE-2022-38509](https://github.com/Live-Hack-CVE/CVE-2022-38509)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38509">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38509">
 
 ---
+## CVE-2022-38496 (2022-09-13T21:15:00)
+> LIEF commit 365a16a was discovered to contain a reachable assertion abort via the component BinaryStream.hpp.
+- [Live-Hack-CVE/CVE-2022-38496](https://github.com/Live-Hack-CVE/CVE-2022-38496)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38496">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38496">
+
+---
 ## CVE-2022-38478 (2022-12-22T20:15:00)
 > Members the Mozilla Fuzzing Team reported memory safety bugs present in Firefox 103, Firefox ESR 102.1, and Firefox ESR 91.12. Some of these bugs showed evidence of memory corruption and we presume that with enough effort some of these could have been exploited to run arbitrary code. This vulnerability affects Thunderbird < 102.2, Thunderbird < 91.13, Firefox ESR < 91.13, Firefox ESR < 102.2, and Firefox < 104.
 - [Live-Hack-CVE/CVE-2022-38478](https://github.com/Live-Hack-CVE/CVE-2022-38478)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38478">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38478">
@@ -6867,6 +6967,11 @@
 ## CVE-2022-38335 (2022-09-27T23:15:00)
 > Vtiger CRM v7.4.0 was discovered to contain a stored cross-site scripting (XSS) vulnerability via the e-mail template modules.
 - [Live-Hack-CVE/CVE-2022-38335](https://github.com/Live-Hack-CVE/CVE-2022-38335)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38335">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38335">
+
+---
+## CVE-2022-38307 (2022-09-13T21:15:00)
+> LIEF commit 5d1d643 was discovered to contain a segmentation violation via the function LIEF::MachO::SegmentCommand::file_offset() at /MachO/SegmentCommand.cpp.
+- [Live-Hack-CVE/CVE-2022-38307](https://github.com/Live-Hack-CVE/CVE-2022-38307)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38307">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38307">
 
 ---
 ## CVE-2022-38266 (2022-09-09T22:15:00)
@@ -7631,6 +7736,7 @@
 ## CVE-2022-37207 (2022-09-15T15:15:00)
 > JFinal CMS 5.1.0 is affected by: SQL Injection. These interfaces do not use the same component, nor do they have filters, but each uses its own SQL concatenation method, resulting in SQL injection
 - [AgainstTheLight/CVE-2022-37207](https://github.com/AgainstTheLight/CVE-2022-37207)	<img alt="forks" src="https://img.shields.io/github/forks/AgainstTheLight/CVE-2022-37207">	<img alt="stars" src="https://img.shields.io/github/stars/AgainstTheLight/CVE-2022-37207">
+- [Live-Hack-CVE/CVE-2022-37207](https://github.com/Live-Hack-CVE/CVE-2022-37207)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37207">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37207">
 
 ---
 ## CVE-2022-37206 ()
@@ -9328,6 +9434,16 @@
 - [Live-Hack-CVE/CVE-2022-34115](https://github.com/Live-Hack-CVE/CVE-2022-34115)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34115">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34115">
 
 ---
+## CVE-2022-34102 (2022-09-13T22:15:00)
+> Insufficient access control vulnerability was discovered in the Crestron AirMedia Windows Application, version 4.3.1.39, in which a user can pause the uninstallation of an executable to gain a SYSTEM level command prompt.
+- [Live-Hack-CVE/CVE-2022-34102](https://github.com/Live-Hack-CVE/CVE-2022-34102)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34102">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34102">
+
+---
+## CVE-2022-34101 (2022-09-13T22:15:00)
+> A vulnerability was discovered in the Crestron AirMedia Windows Application, version 4.3.1.39, in which a user can place a malicious DLL in a certain path to execute code and preform a privilege escalation attack.
+- [Live-Hack-CVE/CVE-2022-34101](https://github.com/Live-Hack-CVE/CVE-2022-34101)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34101">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34101">
+
+---
 ## CVE-2022-3408 (2022-10-31T16:15:00)
 > The WP Word Count WordPress plugin through 3.2.3 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Cross-Site Scripting attacks even when unfiltered_html is disallowed.
 - [Live-Hack-CVE/CVE-2022-3408](https://github.com/Live-Hack-CVE/CVE-2022-3408)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3408">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3408">
@@ -10047,6 +10163,11 @@
 - [theori-io/CVE-2022-32250-exploit](https://github.com/theori-io/CVE-2022-32250-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/theori-io/CVE-2022-32250-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/theori-io/CVE-2022-32250-exploit">
 
 ---
+## CVE-2022-3225 (2022-09-16T17:15:00)
+> Improper Access Control in GitHub repository budibase/budibase prior to 1.3.20.
+- [Live-Hack-CVE/CVE-2022-3225](https://github.com/Live-Hack-CVE/CVE-2022-3225)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3225">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3225">
+
+---
 ## CVE-2022-32234 (2022-10-11T01:15:00)
 > An out of bounds write in hermes, while handling large arrays, prior to commit 06eaec767e376bfdb883d912cb15e987ddf2bda1 allows attackers to potentially execute arbitrary code via crafted JavaScript. Note that this is only exploitable if the application using Hermes permits evaluation of untrusted JavaScript. Hence, most React Native applications are not affected.
 - [Live-Hack-CVE/CVE-2022-32234](https://github.com/Live-Hack-CVE/CVE-2022-32234)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32234">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32234">
@@ -10103,6 +10224,11 @@
 - [Live-Hack-CVE/CVE-2022-32211](https://github.com/Live-Hack-CVE/CVE-2022-32211)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32211">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32211">
 
 ---
+## CVE-2022-3221 (2022-09-15T09:15:00)
+> Cross-Site Request Forgery (CSRF) in GitHub repository ikus060/rdiffweb prior to 2.4.3.
+- [Live-Hack-CVE/CVE-2022-3221](https://github.com/Live-Hack-CVE/CVE-2022-3221)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3221">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3221">
+
+---
 ## CVE-2022-32190 (2022-09-13T18:15:00)
 > JoinPath and URL.JoinPath do not remove ../ path elements appended to a relative path. For example, JoinPath("https://go.dev", "../go") returns the URL "https://go.dev/../go", despite the JoinPath documentation stating that ../ path elements are removed from the result.
 - [Live-Hack-CVE/CVE-2022-32190](https://github.com/Live-Hack-CVE/CVE-2022-32190)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32190">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32190">
@@ -10137,6 +10263,11 @@
 ## CVE-2022-32114 (2022-07-13T21:15:00)
 > An unrestricted file upload vulnerability in the Add New Assets function of Strapi v4.1.12 allows attackers to execute arbitrary code via a crafted file.
 - [bypazs/CVE-2022-32114](https://github.com/bypazs/CVE-2022-32114)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/CVE-2022-32114">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/CVE-2022-32114">
+
+---
+## CVE-2022-3211 (2022-09-15T14:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository pimcore/pimcore prior to 10.5.6.
+- [Live-Hack-CVE/CVE-2022-3211](https://github.com/Live-Hack-CVE/CVE-2022-3211)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3211">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3211">
 
 ---
 ## CVE-2022-32089 (2022-07-01T20:15:00)
@@ -10484,6 +10615,11 @@
 ## CVE-2022-31325 (2022-06-08T16:15:00)
 > There is a SQL Injection vulnerability in ChurchCRM 4.4.5 via the 'PersonID' field in /churchcrm/WhyCameEditor.php.
 - [Live-Hack-CVE/CVE-2022-31325](https://github.com/Live-Hack-CVE/CVE-2022-31325)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31325">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31325">
+
+---
+## CVE-2022-31324 (2022-09-13T22:15:00)
+> An arbitrary file download vulnerability in the downloadAction() function of Penta Security Systems Inc WAPPLES v6.0 r3 4.10-hotfix1 allows attackers to download arbitrary files via a crafted POST request.
+- [Live-Hack-CVE/CVE-2022-31324](https://github.com/Live-Hack-CVE/CVE-2022-31324)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31324">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31324">
 
 ---
 ## CVE-2022-3131 (2022-10-17T12:15:00)
@@ -11454,6 +11590,11 @@
 ## CVE-2022-2966 (2022-12-16T20:15:00)
 > Out-of-bounds Read vulnerability in Delta Electronics DOPSoft.This issue affects DOPSoft: All Versions.
 - [Live-Hack-CVE/CVE-2022-2966](https://github.com/Live-Hack-CVE/CVE-2022-2966)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2966">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2966">
+
+---
+## CVE-2022-29649 (2022-09-15T15:15:00)
+> Qsmart Next v4.1.2 was discovered to contain a cross-site scripting (XSS) vulnerability.
+- [Live-Hack-CVE/CVE-2022-29649](https://github.com/Live-Hack-CVE/CVE-2022-29649)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29649">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29649">
 
 ---
 ## CVE-2022-29612 (2022-06-14T17:15:00)
