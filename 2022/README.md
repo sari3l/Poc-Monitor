@@ -850,6 +850,7 @@
 ## CVE-2022-4592 (2022-12-18T08:15:00)
 > A vulnerability was found in luckyshot CRMx and classified as critical. This issue affects the function get/save/delete/comment/commentdelete of the file index.php. The manipulation leads to sql injection. The attack may be initiated remotely. The name of the patch is 8c62d274986137d6a1d06958a6f75c3553f45f8f. It is recommended to apply a patch to fix this issue. The identifier VDB-216185 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-4592](https://github.com/Live-Hack-CVE/CVE-2022-4592)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4592">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4592">
+- [Live-Hack-CVE/CVE-2022-45921](https://github.com/Live-Hack-CVE/CVE-2022-45921)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45921">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45921">
 
 ---
 ## CVE-2022-45918 (2022-12-07T01:15:00)
