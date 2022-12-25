@@ -10268,6 +10268,10 @@
 ## CVE-2022-3211 (2022-09-15T14:15:00)
 > Cross-site Scripting (XSS) - Stored in GitHub repository pimcore/pimcore prior to 10.5.6.
 - [Live-Hack-CVE/CVE-2022-3211](https://github.com/Live-Hack-CVE/CVE-2022-3211)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3211">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3211">
+- [bypazs/CVE-2022-32114](https://github.com/bypazs/CVE-2022-32114)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/CVE-2022-32114">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/CVE-2022-32114">
+- [trhacknon/CVE-2022-32119](https://github.com/trhacknon/CVE-2022-32119)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-32119">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-32119">
+- [JC175/CVE-2022-32119](https://github.com/JC175/CVE-2022-32119)	<img alt="forks" src="https://img.shields.io/github/forks/JC175/CVE-2022-32119">	<img alt="stars" src="https://img.shields.io/github/stars/JC175/CVE-2022-32119">
+- [JC175/CVE-2022-32118](https://github.com/JC175/CVE-2022-32118)	<img alt="forks" src="https://img.shields.io/github/forks/JC175/CVE-2022-32118">	<img alt="stars" src="https://img.shields.io/github/stars/JC175/CVE-2022-32118">
 
 ---
 ## CVE-2022-32089 (2022-07-01T20:15:00)
