@@ -3206,6 +3206,11 @@
 - [Live-Hack-CVE/CVE-2021-25086](https://github.com/Live-Hack-CVE/CVE-2021-25086)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25086">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25086">
 
 ---
+## CVE-2021-25049 (2022-01-24T08:15:00)
+> The Mobile Events Manager WordPress plugin before 1.4.4 does not sanitise and escape various of its settings, allowing high privilege users to perform Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed
+- [Live-Hack-CVE/CVE-2021-25049](https://github.com/Live-Hack-CVE/CVE-2021-25049)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25049">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25049">
+
+---
 ## CVE-2021-25003 (2022-03-14T15:15:00)
 > The WPCargo Track & Trace WordPress plugin before 6.9.0 contains a file which could allow unauthenticated attackers to write a PHP file anywhere on the web server, leading to RCE
 - [biulove0x/CVE-2021-25003](https://github.com/biulove0x/CVE-2021-25003)	<img alt="forks" src="https://img.shields.io/github/forks/biulove0x/CVE-2021-25003">	<img alt="stars" src="https://img.shields.io/github/stars/biulove0x/CVE-2021-25003">
