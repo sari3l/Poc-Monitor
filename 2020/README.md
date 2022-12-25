@@ -75,6 +75,16 @@
 - [Live-Hack-CVE/CVE-2020-9274](https://github.com/Live-Hack-CVE/CVE-2020-9274)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9274">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9274">
 
 ---
+## CVE-2020-9060 (2022-01-10T14:10:00)
+> Z-Wave devices based on Silicon Labs 500 series chipsets using S2, including but likely not limited to the ZooZ ZST10 version 6.04, ZooZ ZEN20 version 5.03, ZooZ ZEN25 version 5.03, Aeon Labs ZW090-A version 3.95, and Fibaro FGWPB-111 version 4.3, are susceptible to denial of service and resource exhaustion via malformed SECURITY NONCE GET, SECURITY NONCE GET 2, NO OPERATION, or NIF REQUEST messages.
+- [Live-Hack-CVE/CVE-2020-9060](https://github.com/Live-Hack-CVE/CVE-2020-9060)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9060">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9060">
+
+---
+## CVE-2020-9059 (2022-01-10T14:10:00)
+> Z-Wave devices based on Silicon Labs 500 series chipsets using S0 authentication are susceptible to uncontrolled resource consumption leading to battery exhaustion. As an example, the Schlage BE468 version 3.42 door lock is vulnerable and fails open at a low battery level.
+- [Live-Hack-CVE/CVE-2020-9059](https://github.com/Live-Hack-CVE/CVE-2020-9059)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9059">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9059">
+
+---
 ## CVE-2020-9006 (2020-02-17T15:15:00)
 > The Popup Builder plugin 2.2.8 through 2.6.7.6 for WordPress is vulnerable to SQL injection (in the sgImportPopups function in sg_popup_ajax.php) via PHP Deserialization on attacker-controlled data with the attachmentUrl POST variable. This allows creation of an arbitrary WordPress Administrator account, leading to possible Remote Code Execution because Administrators can run PHP code on Wordpress instances. (This issue has been fixed in the 3.x branch of popup-builder.)
 - [s3rgeym/cve-2020-9006](https://github.com/s3rgeym/cve-2020-9006)	<img alt="forks" src="https://img.shields.io/github/forks/s3rgeym/cve-2020-9006">	<img alt="stars" src="https://img.shields.io/github/stars/s3rgeym/cve-2020-9006">
@@ -88,6 +98,11 @@
 ## CVE-2020-8974 (2022-10-17T22:15:00)
 > In ZGR TPS200 NG 2.00 firmware version and 1.01 hardware version, the firmware upload process does not perform any type of restriction. This allows an attacker to modify it and re-upload it via web with malicious modifications, rendering the device unusable.
 - [Live-Hack-CVE/CVE-2020-8974](https://github.com/Live-Hack-CVE/CVE-2020-8974)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8974">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8974">
+
+---
+## CVE-2020-8968 (2021-12-17T17:15:00)
+> Parallels Remote Application Server (RAS) allows a local attacker to retrieve certain profile password in clear text format by uploading a previously stored cyphered file by Parallels RAS. The confidentiality, availability and integrity of the information of the user could be compromised if an attacker is able to recover the profile password.
+- [Live-Hack-CVE/CVE-2020-8968](https://github.com/Live-Hack-CVE/CVE-2020-8968)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8968">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8968">
 
 ---
 ## CVE-2020-8832 (2020-04-10T00:15:00)
@@ -113,6 +128,11 @@
 ## CVE-2020-8618 (2020-06-17T22:15:00)
 > An attacker who is permitted to send zone data to a server via zone transfer can exploit this to intentionally trigger the assertion failure with a specially constructed zone, denying service to clients.
 - [Live-Hack-CVE/CVE-2020-8618](https://github.com/Live-Hack-CVE/CVE-2020-8618)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8618">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8618">
+
+---
+## CVE-2020-8558 (2020-07-27T20:15:00)
+> The Kubelet and kube-proxy components in versions 1.1.0-1.16.10, 1.17.0-1.17.6, and 1.18.0-1.18.3 were found to contain a security issue which allows adjacent hosts to reach TCP and UDP services bound to 127.0.0.1 running on the node or in the node's network namespace. Such a service is generally thought to be reachable only by other processes on the same host, but due to this defeect, could be reachable by other hosts on the same LAN as the node, or by containers running on the same node as the service.
+- [Live-Hack-CVE/CVE-2020-8558](https://github.com/Live-Hack-CVE/CVE-2020-8558)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8558">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8558">
 
 ---
 ## CVE-2020-8555 (2020-06-05T17:15:00)
@@ -141,6 +161,21 @@
 - [Rapidsafeguard/codesnippets_CVE-2020-8417](https://github.com/Rapidsafeguard/codesnippets_CVE-2020-8417)	<img alt="forks" src="https://img.shields.io/github/forks/Rapidsafeguard/codesnippets_CVE-2020-8417">	<img alt="stars" src="https://img.shields.io/github/stars/Rapidsafeguard/codesnippets_CVE-2020-8417">
 - [waleweewe12/CVE-2020-8417](https://github.com/waleweewe12/CVE-2020-8417)	<img alt="forks" src="https://img.shields.io/github/forks/waleweewe12/CVE-2020-8417">	<img alt="stars" src="https://img.shields.io/github/stars/waleweewe12/CVE-2020-8417">
 - [vulncrate/wp-codesnippets-cve-2020-8417](https://github.com/vulncrate/wp-codesnippets-cve-2020-8417)	<img alt="forks" src="https://img.shields.io/github/forks/vulncrate/wp-codesnippets-cve-2020-8417">	<img alt="stars" src="https://img.shields.io/github/stars/vulncrate/wp-codesnippets-cve-2020-8417">
+
+---
+## CVE-2020-8300 (2021-06-16T14:15:00)
+> Citrix ADC and Citrix/NetScaler Gateway before 13.0-82.41, 12.1-62.23, 11.1-65.20 and Citrix ADC 12.1-FIPS before 12.1-55.238 suffer from improper access control allowing SAML authentication hijack through a phishing attack to steal a valid user session. Note that Citrix ADC or Citrix Gateway must be configured as a SAML SP or a SAML IdP for this to be possible.
+- [Live-Hack-CVE/CVE-2020-8300](https://github.com/Live-Hack-CVE/CVE-2020-8300)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8300">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8300">
+
+---
+## CVE-2020-8196 (2020-07-10T16:15:00)
+> Improper access control in Citrix ADC and Citrix Gateway versions before 13.0-58.30, 12.1-57.18, 12.0-63.21, 11.1-64.14 and 10.5-70.18 and Citrix SDWAN WAN-OP versions before 11.1.1a, 11.0.3d and 10.2.7 resulting in limited information disclosure to low privileged users.
+- [Live-Hack-CVE/CVE-2020-8196](https://github.com/Live-Hack-CVE/CVE-2020-8196)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8196">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8196">
+
+---
+## CVE-2020-8195 (2020-07-10T16:15:00)
+> Improper input validation in Citrix ADC and Citrix Gateway versions before 13.0-58.30, 12.1-57.18, 12.0-63.21, 11.1-64.14 and 10.5-70.18 and Citrix SDWAN WAN-OP versions before 11.1.1a, 11.0.3d and 10.2.7 resulting in limited information disclosure to low privileged users.
+- [Live-Hack-CVE/CVE-2020-8195](https://github.com/Live-Hack-CVE/CVE-2020-8195)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8195">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8195">
 
 ---
 ## CVE-2020-8163 (2020-07-02T19:15:00)
@@ -645,6 +680,11 @@
 ## CVE-2020-35628 (2021-03-04T20:15:00)
 > A code execution vulnerability exists in the Nef polygon-parsing functionality of CGAL libcgal CGAL-5.1.1. An oob read vulnerability exists in Nef_S2/SNC_io_parser.h SNC_io_parser::read_sloop() slh->incident_sface. An attacker can provide malicious input to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2020-35628](https://github.com/Live-Hack-CVE/CVE-2020-35628)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35628">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35628">
+
+---
+## CVE-2020-35538 (2022-08-31T16:15:00)
+> A crafted input file could cause a null pointer dereference in jcopy_sample_rows() when processed by libjpeg-turbo.
+- [Live-Hack-CVE/CVE-2020-35538](https://github.com/Live-Hack-CVE/CVE-2020-35538)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35538">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35538">
 
 ---
 ## CVE-2020-35527 (2022-09-01T18:15:00)

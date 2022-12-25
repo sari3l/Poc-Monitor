@@ -11583,6 +11583,11 @@
 - [Live-Hack-CVE/CVE-2022-29145](https://github.com/Live-Hack-CVE/CVE-2022-29145)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29145">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29145">
 
 ---
+## CVE-2022-2912 (2022-09-16T09:15:00)
+> The Craw Data WordPress plugin through 1.0.0 does not implement nonce checks, which could allow attackers to make a logged in admin change the url value performing unwanted crawls on third-party sites (SSRF).
+- [Live-Hack-CVE/CVE-2022-2912](https://github.com/Live-Hack-CVE/CVE-2022-2912)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2912">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2912">
+
+---
 ## CVE-2022-29110 (2022-05-10T21:15:00)
 > Microsoft Excel Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-29109.
 - [Live-Hack-CVE/CVE-2022-29110](https://github.com/Live-Hack-CVE/CVE-2022-29110)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29110">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29110">
@@ -11667,6 +11672,11 @@
 ## CVE-2022-28887 (2022-10-12T18:15:00)
 > Multiple Denial-of-Service (DoS) vulnerability was discovered in F-Secure & WithSecure products whereby the aerdl.dll unpacker handler function crashes. This can lead to a possible scanning engine crash.
 - [Live-Hack-CVE/CVE-2022-28887](https://github.com/Live-Hack-CVE/CVE-2022-28887)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28887">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28887">
+
+---
+## CVE-2022-2887 (2022-09-16T09:15:00)
+> The WP Server Health Stats WordPress plugin before 1.7.0 does not escape some of its settings, which could allow high privilege users to perform Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed.
+- [Live-Hack-CVE/CVE-2022-2887](https://github.com/Live-Hack-CVE/CVE-2022-2887)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2887">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2887">
 
 ---
 ## CVE-2022-28866 (2022-10-12T00:15:00)
