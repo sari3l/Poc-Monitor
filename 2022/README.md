@@ -113,6 +113,16 @@
 - [Live-Hack-CVE/CVE-2022-47518](https://github.com/Live-Hack-CVE/CVE-2022-47518)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47518">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47518">
 
 ---
+## CVE-2022-47517 (2022-12-18T05:15:00)
+> An issue was discovered in the libsofia-sip fork in drachtio-server before 0.8.19. It allows remote attackers to cause a denial of service (daemon crash) via a crafted UDP message that causes a url_canonize2 heap-based buffer over-read because of an off-by-one error.
+- [Live-Hack-CVE/CVE-2022-47517](https://github.com/Live-Hack-CVE/CVE-2022-47517)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47517">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47517">
+
+---
+## CVE-2022-47516 (2022-12-18T05:15:00)
+> An issue was discovered in the libsofia-sip fork in drachtio-server before 0.8.20. It allows remote attackers to cause a denial of service (daemon crash) via a crafted UDP message that leads to a failure of the libsofia-sip-ua/tport/tport.c self assertion.
+- [Live-Hack-CVE/CVE-2022-47516](https://github.com/Live-Hack-CVE/CVE-2022-47516)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47516">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47516">
+
+---
 ## CVE-2022-47500 (2022-12-19T11:15:00)
 > URL Redirection to Untrusted Site ('Open Redirect') vulnerability in Apache Software Foundation Apache Helix UI component.This issue affects Apache Helix all releases from 0.8.0 to 1.0.4. Solution: removed the the forward component since it was improper designed for UI embedding. User please upgrade to 1.1.0 to fix this issue.
 - [Live-Hack-CVE/CVE-2022-47500](https://github.com/Live-Hack-CVE/CVE-2022-47500)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47500">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47500">
@@ -827,6 +837,14 @@
 ## CVE-2022-4593 (2022-12-18T08:15:00)
 > A vulnerability was found in retra-system. It has been classified as problematic. Affected is an unknown function. The manipulation leads to cross site scripting. It is possible to launch the attack remotely. The name of the patch is a6d94ab88f4a6f631a14c59b72461140fb57ae1f. It is recommended to apply a patch to fix this issue. VDB-216186 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-4593](https://github.com/Live-Hack-CVE/CVE-2022-4593)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4593">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4593">
+- [Live-Hack-CVE/CVE-2022-45932](https://github.com/Live-Hack-CVE/CVE-2022-45932)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45932">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45932">
+- [Live-Hack-CVE/CVE-2022-45931](https://github.com/Live-Hack-CVE/CVE-2022-45931)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45931">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45931">
+- [Live-Hack-CVE/CVE-2022-45930](https://github.com/Live-Hack-CVE/CVE-2022-45930)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45930">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45930">
+- [Live-Hack-CVE/CVE-2022-45933](https://github.com/Live-Hack-CVE/CVE-2022-45933)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45933">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45933">
+- [Live-Hack-CVE/CVE-2022-45934](https://github.com/Live-Hack-CVE/CVE-2022-45934)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45934">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45934">
+- [Live-Hack-CVE/CVE-2022-45939](https://github.com/Live-Hack-CVE/CVE-2022-45939)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45939">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45939">
+- [Live-Hack-CVE/CVE-2022-45936](https://github.com/Live-Hack-CVE/CVE-2022-45936)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45936">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45936">
+- [Live-Hack-CVE/CVE-2022-45937](https://github.com/Live-Hack-CVE/CVE-2022-45937)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45937">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45937">
 
 ---
 ## CVE-2022-4592 (2022-12-18T08:15:00)
@@ -867,6 +885,14 @@
 ## CVE-2022-4591 (2022-12-17T19:15:00)
 > A vulnerability was found in mschaef toto up to 1.4.20. It has been declared as problematic. This vulnerability affects unknown code of the component Email Parameter Handler. The manipulation leads to cross site scripting. The attack can be initiated remotely. Upgrading to version 1.4.21 is able to address this issue. The name of the patch is 1f27f37c1a06f54a76971f70eaa6139dc139bdf9. It is recommended to upgrade the affected component. VDB-216178 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-4591](https://github.com/Live-Hack-CVE/CVE-2022-4591)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4591">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4591">
+- [Live-Hack-CVE/CVE-2022-45919](https://github.com/Live-Hack-CVE/CVE-2022-45919)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45919">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45919">
+- [Live-Hack-CVE/CVE-2022-45912](https://github.com/Live-Hack-CVE/CVE-2022-45912)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45912">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45912">
+- [Live-Hack-CVE/CVE-2022-45914](https://github.com/Live-Hack-CVE/CVE-2022-45914)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45914">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45914">
+- [Live-Hack-CVE/CVE-2022-45918](https://github.com/Live-Hack-CVE/CVE-2022-45918)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45918">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45918">
+- [Live-Hack-CVE/CVE-2022-45916](https://github.com/Live-Hack-CVE/CVE-2022-45916)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45916">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45916">
+- [Live-Hack-CVE/CVE-2022-45917](https://github.com/Live-Hack-CVE/CVE-2022-45917)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45917">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45917">
+- [Live-Hack-CVE/CVE-2022-45915](https://github.com/Live-Hack-CVE/CVE-2022-45915)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45915">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45915">
+- [Live-Hack-CVE/CVE-2022-45910](https://github.com/Live-Hack-CVE/CVE-2022-45910)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45910">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45910">
 
 ---
 ## CVE-2022-4587 (2022-12-17T13:15:00)
@@ -1015,9 +1041,19 @@
 - [Live-Hack-CVE/CVE-2022-4559](https://github.com/Live-Hack-CVE/CVE-2022-4559)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4559">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4559">
 
 ---
+## CVE-2022-4558 (2022-12-16T17:15:00)
+> A vulnerability was found in Alinto SOGo up to 5.7.1. It has been classified as problematic. This affects an unknown part of the file SoObjects/SOGo/NSString+Utilities.m of the component Folder/Mail Handler. The manipulation leads to cross site scripting. It is possible to initiate the attack remotely. Upgrading to version 5.8.0 is able to address this issue. The name of the patch is 1e0f5f00890f751e84d67be4f139dd7f00faa5f3. It is recommended to upgrade the affected component. The identifier VDB-215961 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4558](https://github.com/Live-Hack-CVE/CVE-2022-4558)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4558">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4558">
+
+---
 ## CVE-2022-45562 (2022-12-02T03:15:00)
 > Insecure permissions in Telos Alliance Omnia MPX Node v1.0.0 to v1.4.9 allow attackers to manipulate and access system settings with backdoor account low privilege, this can lead to change hardware settings and execute arbitrary commands in vulnerable system functions that is requires high privilege to access.
 - [Live-Hack-CVE/CVE-2022-45562](https://github.com/Live-Hack-CVE/CVE-2022-45562)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45562">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45562">
+
+---
+## CVE-2022-4556 (2022-12-16T17:15:00)
+> A vulnerability was found in Alinto SOGo up to 5.7.1 and classified as problematic. Affected by this issue is the function _migrateMailIdentities of the file SoObjects/SOGo/SOGoUserDefaults.m of the component Identity Handler. The manipulation of the argument fullName leads to cross site scripting. The attack may be launched remotely. Upgrading to version 5.8.0 is able to address this issue. The name of the patch is efac49ae91a4a325df9931e78e543f707a0f8e5e. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-215960.
+- [Live-Hack-CVE/CVE-2022-4556](https://github.com/Live-Hack-CVE/CVE-2022-4556)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4556">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4556">
 
 ---
 ## CVE-2022-45550 (2022-12-07T19:15:00)
@@ -3411,6 +3447,11 @@
 ## CVE-2022-41994 (2022-12-07T04:15:00)
 > Stored cross-site scripting vulnerability in Permission Settings of baserCMS versions prior to 4.7.2 allows a remote authenticated attacker with an administrative privilege to inject an arbitrary script.
 - [Live-Hack-CVE/CVE-2022-41994](https://github.com/Live-Hack-CVE/CVE-2022-41994)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41994">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41994">
+
+---
+## CVE-2022-41992 (2022-12-16T17:15:00)
+> A memory corruption vulnerability exists in the VHD File Format parsing CXSPARSE record functionality of PowerISO PowerISO 8.3. A specially-crafted file can lead to an out-of-bounds write. A victim needs to open a malicious file to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-41992](https://github.com/Live-Hack-CVE/CVE-2022-41992)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41992">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41992">
 
 ---
 ## CVE-2022-41983 (2022-10-19T22:15:00)
@@ -9436,6 +9477,16 @@
 ## CVE-2022-3169 (2022-09-09T15:15:00)
 > A flaw was found in the Linux kernel. A denial of service flaw may occur if there is a consecutive request of the NVME_IOCTL_RESET and the NVME_IOCTL_SUBSYS_RESET through the device file of the driver, resulting in a PCIe link disconnect.
 - [Live-Hack-CVE/CVE-2022-3169](https://github.com/Live-Hack-CVE/CVE-2022-3169)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3169">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3169">
+- [Live-Hack-CVE/CVE-2022-31691](https://github.com/Live-Hack-CVE/CVE-2022-31691)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31691">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31691">
+- [Live-Hack-CVE/CVE-2022-31694](https://github.com/Live-Hack-CVE/CVE-2022-31694)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31694">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31694">
+- [Live-Hack-CVE/CVE-2022-31697](https://github.com/Live-Hack-CVE/CVE-2022-31697)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31697">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31697">
+- [Live-Hack-CVE/CVE-2022-31698](https://github.com/Live-Hack-CVE/CVE-2022-31698)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31698">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31698">
+- [Live-Hack-CVE/CVE-2022-31699](https://github.com/Live-Hack-CVE/CVE-2022-31699)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31699">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31699">
+- [Live-Hack-CVE/CVE-2022-31690](https://github.com/Live-Hack-CVE/CVE-2022-31690)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31690">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31690">
+- [Live-Hack-CVE/CVE-2022-31692](https://github.com/Live-Hack-CVE/CVE-2022-31692)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31692">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31692">
+- [Live-Hack-CVE/CVE-2022-31696](https://github.com/Live-Hack-CVE/CVE-2022-31696)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31696">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31696">
+- [SpindleSec/CVE-2022-31691](https://github.com/SpindleSec/CVE-2022-31691)	<img alt="forks" src="https://img.shields.io/github/forks/SpindleSec/CVE-2022-31691">	<img alt="stars" src="https://img.shields.io/github/stars/SpindleSec/CVE-2022-31691">
+- [SpindleSec/cve-2022-31692](https://github.com/SpindleSec/cve-2022-31692)	<img alt="forks" src="https://img.shields.io/github/forks/SpindleSec/cve-2022-31692">	<img alt="stars" src="https://img.shields.io/github/stars/SpindleSec/cve-2022-31692">
 
 ---
 ## CVE-2022-3168 ()
@@ -12065,6 +12116,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-23536](https://github.com/Live-Hack-CVE/CVE-2022-23536)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23536">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23536">
 
 ---
+## CVE-2022-23531 (2022-12-17T00:15:00)
+> GuardDog is a CLI tool to identify malicious PyPI packages. Versions prior to 0.1.5 are vulnerable to Relative Path Traversal when scanning a specially-crafted local PyPI package. Running GuardDog against a specially-crafted package can allow an attacker to write an arbitrary file on the machine where GuardDog is executed due to a path traversal vulnerability when extracting the .tar.gz file of the package being scanned, which exists by design in the tarfile.TarFile.extractall function. This issue is patched in version 0.1.5.
+- [Live-Hack-CVE/CVE-2022-23531](https://github.com/Live-Hack-CVE/CVE-2022-23531)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23531">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23531">
+
+---
 ## CVE-2022-23527 (2022-12-14T18:15:00)
 > mod_auth_openidc is an OpenID Certified™ authentication and authorization module for the Apache 2.x HTTP server. Versions prior to 2.4.12.2 are vulnerable to Open Redirect. When providing a logout parameter to the redirect URI, the existing code in oidc_validate_redirect_url() does not properly check for URLs that start with /\t, leading to an open redirect. This issue has been patched in version 2.4.12.2. Users unable to upgrade can mitigate the issue by configuring mod_auth_openidc to only allow redirection when the destination matches a given regular expression with OIDCRedirectURLsAllowed.
 - [Live-Hack-CVE/CVE-2022-23527](https://github.com/Live-Hack-CVE/CVE-2022-23527)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23527">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23527">
@@ -12103,6 +12159,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-23492 (2022-12-08T01:15:00)
 > go-libp2p is the offical libp2p implementation in the Go programming language. Version `0.18.0` and older of go-libp2p are vulnerable to targeted resource exhaustion attacks. These attacks target libp2p’s connection, stream, peer, and memory management. An attacker can cause the allocation of large amounts of memory, ultimately leading to the process getting killed by the host’s operating system. While a connection manager tasked with keeping the number of connections within manageable limits has been part of go-libp2p, this component was designed to handle the regular churn of peers, not a targeted resource exhaustion attack. Users are advised to upgrade their version of go-libp2p to version `0.18.1` or newer. Users unable to upgrade may consult the denial of service (dos) mitigation page for more information on how to incorporate mitigation strategies, monitor your application, and respond to attacks.
 - [Live-Hack-CVE/CVE-2022-23492](https://github.com/Live-Hack-CVE/CVE-2022-23492)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23492">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23492">
+
+---
+## CVE-2022-23488 (2022-12-17T01:15:00)
+> BigBlueButton is an open source web conferencing system. Versions prior to 2.4-rc-6 are vulnerable to Insertion of Sensitive Information Into Sent Data. The moderators-only webcams lock setting is not enforced on the backend, which allows an attacker to subscribe to viewers' webcams, even when the lock setting is applied. (The required streamId was being sent to all users even with lock setting applied). This issue is fixed in version 2.4-rc-6. There are no workarounds.
+- [Live-Hack-CVE/CVE-2022-23488](https://github.com/Live-Hack-CVE/CVE-2022-23488)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23488">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23488">
 
 ---
 ## CVE-2022-23486 (2022-12-07T21:15:00)
