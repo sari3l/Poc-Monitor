@@ -5383,6 +5383,16 @@
 - [filipkarc/PoC-ubuntutouch-pin-privesc](https://github.com/filipkarc/PoC-ubuntutouch-pin-privesc)	<img alt="forks" src="https://img.shields.io/github/forks/filipkarc/PoC-ubuntutouch-pin-privesc">	<img alt="stars" src="https://img.shields.io/github/stars/filipkarc/PoC-ubuntutouch-pin-privesc">
 
 ---
+## CVE-2022-40281 (2022-09-08T22:15:00)
+> An issue was discovered in Samsung TizenRT through 3.0_GBM (and 3.1_PRE). cyassl_connect_step2 in curl/vtls/cyassl.c has a missing X509_free after SSL_get_peer_certificate, leading to information disclosure.
+- [Live-Hack-CVE/CVE-2022-40281](https://github.com/Live-Hack-CVE/CVE-2022-40281)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40281">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40281">
+
+---
+## CVE-2022-40280 (2022-09-08T22:15:00)
+> An issue was discovered in Samsung TizenRT through 3.0_GBM (and 3.1_PRE). createDB in security/provisioning/src/provisioningdatabasemanager.c has a missing sqlite3_close after sqlite3_open_v2, leading to a denial of service.
+- [Live-Hack-CVE/CVE-2022-40280](https://github.com/Live-Hack-CVE/CVE-2022-40280)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40280">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40280">
+
+---
 ## CVE-2022-40279 (2022-09-29T03:15:00)
 > An issue was discovered in Samsung TizenRT through 3.0_GBM (and 3.1_PRE). l2_packet_receive_timeout in wpa_supplicant/src/l2_packet/l2_packet_pcap.c has a missing check on the return value of pcap_dispatch, leading to a denial of service (malfunction).
 - [Live-Hack-CVE/CVE-2022-40279](https://github.com/Live-Hack-CVE/CVE-2022-40279)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40279">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40279">
@@ -7069,6 +7079,71 @@
 - [Live-Hack-CVE/CVE-2022-38291](https://github.com/Live-Hack-CVE/CVE-2022-38291)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38291">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38291">
 
 ---
+## CVE-2022-38286 (2022-09-09T14:15:00)
+> JFinal CMS 5.1.0 is vulnerable to SQL Injection via /system/role/list.
+- [Live-Hack-CVE/CVE-2022-38286](https://github.com/Live-Hack-CVE/CVE-2022-38286)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38286">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38286">
+
+---
+## CVE-2022-38285 (2022-09-09T14:15:00)
+> JFinal CMS 5.1.0 is vulnerable to SQL Injection via /system/menu/list.
+- [Live-Hack-CVE/CVE-2022-38285](https://github.com/Live-Hack-CVE/CVE-2022-38285)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38285">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38285">
+
+---
+## CVE-2022-38284 (2022-09-09T14:15:00)
+> JFinal CMS 5.1.0 is vulnerable to SQL Injection via /system/department/list.
+- [Live-Hack-CVE/CVE-2022-38284](https://github.com/Live-Hack-CVE/CVE-2022-38284)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38284">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38284">
+
+---
+## CVE-2022-38283 (2022-09-09T14:15:00)
+> JFinal CMS 5.1.0 is vulnerable to SQL Injection via /admin/video/list.
+- [Live-Hack-CVE/CVE-2022-38283](https://github.com/Live-Hack-CVE/CVE-2022-38283)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38283">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38283">
+
+---
+## CVE-2022-38282 (2022-09-09T14:15:00)
+> JFinal CMS 5.1.0 is vulnerable to SQL Injection via /admin/videoalbum/list.
+- [Live-Hack-CVE/CVE-2022-38282](https://github.com/Live-Hack-CVE/CVE-2022-38282)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38282">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38282">
+
+---
+## CVE-2022-38281 (2022-09-09T14:15:00)
+> JFinal CMS 5.1.0 is vulnerable to SQL Injection via /admin/site/list.
+- [Live-Hack-CVE/CVE-2022-38281](https://github.com/Live-Hack-CVE/CVE-2022-38281)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38281">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38281">
+
+---
+## CVE-2022-38280 (2022-09-09T14:15:00)
+> JFinal CMS 5.1.0 is vulnerable to SQL Injection via /admin/image/list.
+- [Live-Hack-CVE/CVE-2022-38280](https://github.com/Live-Hack-CVE/CVE-2022-38280)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38280">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38280">
+
+---
+## CVE-2022-38279 (2022-09-09T14:15:00)
+> JFinal CMS 5.1.0 is vulnerable to SQL Injection via /admin/imagealbum/list.
+- [Live-Hack-CVE/CVE-2022-38279](https://github.com/Live-Hack-CVE/CVE-2022-38279)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38279">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38279">
+
+---
+## CVE-2022-38278 (2022-09-09T14:15:00)
+> JFinal CMS 5.1.0 is vulnerable to SQL Injection via /admin/friendlylink/list.
+- [Live-Hack-CVE/CVE-2022-38278](https://github.com/Live-Hack-CVE/CVE-2022-38278)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38278">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38278">
+
+---
+## CVE-2022-38277 (2022-09-09T14:15:00)
+> JFinal CMS 5.1.0 is vulnerable to SQL Injection via /admin/folderrollpicture/list.
+- [Live-Hack-CVE/CVE-2022-38277](https://github.com/Live-Hack-CVE/CVE-2022-38277)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38277">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38277">
+
+---
+## CVE-2022-38275 (2022-09-09T14:15:00)
+> JFinal CMS 5.1.0 is vulnerable to SQL Injection via /admin/contact/list.
+- [Live-Hack-CVE/CVE-2022-38275](https://github.com/Live-Hack-CVE/CVE-2022-38275)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38275">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38275">
+
+---
+## CVE-2022-38273 (2022-09-09T14:15:00)
+> JFinal CMS 5.1.0 is vulnerable to SQL Injection via /admin/article/list_approve.
+- [Live-Hack-CVE/CVE-2022-38273](https://github.com/Live-Hack-CVE/CVE-2022-38273)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38273">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38273">
+
+---
+## CVE-2022-38272 (2022-09-09T14:15:00)
+> JFinal CMS 5.1.0 is vulnerable to SQL Injection via /admin/article/list.
+- [Live-Hack-CVE/CVE-2022-38272](https://github.com/Live-Hack-CVE/CVE-2022-38272)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38272">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38272">
+
+---
 ## CVE-2022-38266 (2022-09-09T22:15:00)
 > An issue in the Leptonica linked library (v1.79.0) allows attackers to cause an arithmetic exception leading to a Denial of Service (DoS) via a crafted JPEG file.
 - [Live-Hack-CVE/CVE-2022-38266](https://github.com/Live-Hack-CVE/CVE-2022-38266)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38266">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38266">
@@ -7939,6 +8014,11 @@
 - [JC175/CVE-2022-37177](https://github.com/JC175/CVE-2022-37177)	<img alt="forks" src="https://img.shields.io/github/forks/JC175/CVE-2022-37177">	<img alt="stars" src="https://img.shields.io/github/stars/JC175/CVE-2022-37177">
 
 ---
+## CVE-2022-37163 (2022-09-08T16:15:00)
+> Bminusl IHateToBudget v1.5.7 employs a weak password policy which allows attackers to potentially gain unauthorized access to the application via brute-force attacks. Additionally, user passwords are hashed without a salt or pepper making it much easier for tools like hashcat to crack the hashes.
+- [Live-Hack-CVE/CVE-2022-37163](https://github.com/Live-Hack-CVE/CVE-2022-37163)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37163">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37163">
+
+---
 ## CVE-2022-37155 (2022-12-14T00:15:00)
 > RCE in SPIP 3.1.13 through 4.1.2 allows remote authenticated users to execute arbitrary code via a GET parameter
 - [Live-Hack-CVE/CVE-2022-37155](https://github.com/Live-Hack-CVE/CVE-2022-37155)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37155">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37155">
@@ -7964,6 +8044,11 @@
 > An issue was discovered in Online Diagnostic Lab Management System 1.0. There is a stored XSS vulnerability via firstname, address, middlename, lastname , gender, email, contact parameters.
 - [Fjowel/CVE-2022-37150-CVE-2022-37151-CVE-2022-37152](https://github.com/Fjowel/CVE-2022-37150-CVE-2022-37151-CVE-2022-37152)	<img alt="forks" src="https://img.shields.io/github/forks/Fjowel/CVE-2022-37150-CVE-2022-37151-CVE-2022-37152">	<img alt="stars" src="https://img.shields.io/github/stars/Fjowel/CVE-2022-37150-CVE-2022-37151-CVE-2022-37152">
 - [Fjowel/CVE-2022-37150](https://github.com/Fjowel/CVE-2022-37150)	<img alt="forks" src="https://img.shields.io/github/forks/Fjowel/CVE-2022-37150">	<img alt="stars" src="https://img.shields.io/github/stars/Fjowel/CVE-2022-37150">
+
+---
+## CVE-2022-37145 (2022-09-08T01:15:00)
+> The PlexTrac platform prior to version 1.17.0 does not restrict excessive authentication attempts for accounts configured to use the PlexTrac authentication provider. An unauthenticated remote attacker could perform a bruteforce attack on the login page with no time or attempt limitation in an attempt to obtain valid credentials for the platform users configured to use the PlexTrac authentication provider.
+- [Live-Hack-CVE/CVE-2022-37145](https://github.com/Live-Hack-CVE/CVE-2022-37145)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37145">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37145">
 
 ---
 ## CVE-2022-37140 (2022-09-14T11:15:00)
@@ -8600,6 +8685,31 @@
 - [Live-Hack-CVE/CVE-2022-36104](https://github.com/Live-Hack-CVE/CVE-2022-36104)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36104">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36104">
 
 ---
+## CVE-2022-36098 (2022-09-08T21:15:00)
+> XWiki Platform Mentions UI is a user interface for mentioning users in wiki content for XWiki Platform, a generic wiki platform. Starting in version 12.5-rc-1 and prior to versions 13.10.6 and 14.4, it's possible to store Javascript or groovy scripts in a mention, macro anchor, or reference field. The stored code is executed by anyone visiting the page with the mention. This issue has been patched on XWiki 14.4 and 13.10.6. As a workaround, one may update `XWiki.Mentions.MentionsMacro` and edit the `Macro code` field of the `XWiki.WikiMacroClass` XObject.
+- [Live-Hack-CVE/CVE-2022-36098](https://github.com/Live-Hack-CVE/CVE-2022-36098)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36098">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36098">
+
+---
+## CVE-2022-36097 (2022-09-08T21:15:00)
+> XWiki Platform Attachment UI provides a macro to easily upload and select attachments for XWiki Platform, a generic wiki platform. Starting with version 14.0-rc-1 and prior to 14.4-rc-1, it's possible to store JavaScript in an attachment name, which will be executed by anyone trying to move the corresponding attachment. This issue has been patched in XWiki 14.4-rc-1. As a workaround, one may copy `moveStep1.vm` to `webapp/xwiki/templates/moveStep1.vm` and replace vulnerable code with code from the patch.
+- [Live-Hack-CVE/CVE-2022-36097](https://github.com/Live-Hack-CVE/CVE-2022-36097)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36097">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36097">
+
+---
+## CVE-2022-36096 (2022-09-08T21:15:00)
+> The XWiki Platform Index UI is an Index of all pages, attachments, orphans and deleted pages and attachments for XWiki Platform, a generic wiki platform. Prior to versions 13.10.6 and 14.3, it's possible to store JavaScript which will be executed by anyone viewing the deleted attachments index with an attachment containing javascript in its name. This issue has been patched in XWiki 13.10.6 and 14.3. As a workaround, modify fix the vulnerability by editing the wiki page `XWiki.DeletedAttachments` with the object editor, open the `JavaScriptExtension` object and apply on the content the changes that can be found on the fix commit.
+- [Live-Hack-CVE/CVE-2022-36096](https://github.com/Live-Hack-CVE/CVE-2022-36096)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36096">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36096">
+
+---
+## CVE-2022-36091 (2022-09-08T16:15:00)
+> XWiki Platform Web Templates are templates for XWiki Platform, a generic wiki platform. Through the suggestion feature, string and list properties of objects the user shouldn't have access to can be accessed in versions prior to 13.10.4 and 14.2. This includes private personal information like email addresses and salted password hashes of registered users but also other information stored in properties of objects. Sensitive configuration fields like passwords for LDAP or SMTP servers could be accessed. By exploiting an additional vulnerability, this issue can even be exploited on private wikis at least for string properties. The issue is patched in version 13.10.4 and 14.2. Password properties are no longer displayed and rights are checked for other properties. A workaround is available. The template file `suggest.vm` can be replaced by a patched version without upgrading or restarting XWiki unless it has been overridden, in which case the overridden template should be patched, too. This might need adjustments for older versions, though.
+- [Live-Hack-CVE/CVE-2022-36091](https://github.com/Live-Hack-CVE/CVE-2022-36091)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36091">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36091">
+
+---
+## CVE-2022-36090 (2022-09-08T15:15:00)
+> XWiki Platform Old Core is a core package for XWiki Platform, a generic wiki platform. Prior to versions 13.1.0.5 and 14.3-rc-1, some resources are missing a check for inactive (not yet activated or disabled) users in XWiki, including the REST service. This means a disabled user can enable themselves using a REST call. On the same way some resources handler created by extensions are not protected by default, so an inactive user could perform actions for such extensions. This issue has existed since at least version 1.1 of XWiki for instance configured with the email activation required for new users. Now it's more critical for versions 11.3-rc-1 and later since the maintainers provided the capability to disable user without deleting them and encouraged using that feature. XWiki 14.3-rc-1 and XWiki 13.10.5 contain a patch. There is no workaround for this other than upgrading XWiki.
+- [Live-Hack-CVE/CVE-2022-36090](https://github.com/Live-Hack-CVE/CVE-2022-36090)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36090">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36090">
+
+---
 ## CVE-2022-36089 (2022-09-07T23:15:00)
 > KubeVela is an application delivery platform Users using KubeVela's VelaUX APIServer could be affected by an authentication bypass vulnerability. In KubeVela prior to versions 1.4.11 and 1.5.4, VelaUX APIServer uses the `PlatformID` as the signed key to generate the JWT tokens for users. Another API called `getSystemInfo` exposes the platformID. This vulnerability allows users to use the platformID to re-generate the JWT tokens to bypass the authentication. Versions 1.4.11 and 1.5.4 contain a patch for this issue.
 - [Live-Hack-CVE/CVE-2022-36089](https://github.com/Live-Hack-CVE/CVE-2022-36089)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36089">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36089">
@@ -8613,6 +8723,21 @@
 ## CVE-2022-36087 (2022-09-09T21:15:00)
 > OAuthLib is an implementation of the OAuth request-signing logic for Python 3.6+. In OAuthLib versions 3.1.1 until 3.2.1, an attacker providing malicious redirect uri can cause denial of service. An attacker can also leverage usage of `uri_validate` functions depending where it is used. OAuthLib applications using OAuth2.0 provider support or use directly `uri_validate` are affected by this issue. Version 3.2.1 contains a patch. There are no known workarounds.
 - [Live-Hack-CVE/CVE-2022-36087](https://github.com/Live-Hack-CVE/CVE-2022-36087)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36087">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36087">
+
+---
+## CVE-2022-36084 (2022-09-08T22:15:00)
+> cruddl is software for creating a GraphQL API for a database, using the GraphQL SDL to model a schema. If cruddl starting with version 1.1.0 and prior to versions 2.7.0 and 3.0.2 is used to generate a schema that uses `@flexSearchFulltext`, users of that schema may be able to inject arbitrary AQL queries that will be forwarded to and executed by ArangoDB. Schemas that do not use `@flexSearchFulltext` are not affected. The attacker needs to have `READ` permission to at least one root entity type that has `@flexSearchFulltext` enabled. The issue has been fixed in version 3.0.2 and in version 2.7.0 of cruddl. As a workaround, users can temporarily remove `@flexSearchFulltext` from their schemas.
+- [Live-Hack-CVE/CVE-2022-36084](https://github.com/Live-Hack-CVE/CVE-2022-36084)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36084">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36084">
+
+---
+## CVE-2022-36070 (2022-09-07T19:15:00)
+> Poetry is a dependency manager for Python. To handle dependencies that come from a Git repository, Poetry executes various commands, e.g. `git config`. These commands are being executed using the executable’s name and not its absolute path. This can lead to the execution of untrusted code due to the way Windows resolves executable names to paths. Unlike Linux-based operating systems, Windows searches for the executable in the current directory first and looks in the paths that are defined in the `PATH` environment variable afterward. This vulnerability can lead to Arbitrary Code Execution, which would lead to the takeover of the system. If a developer is exploited, the attacker could steal credentials or persist their access. If the exploit happens on a server, the attackers could use their access to attack other internal systems. Since this vulnerability requires a fair amount of user interaction, it is not as dangerous as a remotely exploitable one. However, it still puts developers at risk when dealing with untrusted files in a way they think is safe. The victim could also not protect themself by vetting any Git or Poetry config files that might be present in the directory, because the behavior is undocumented. Versions 1.1.9 and 1.2.0b1 contain patches for this issue.
+- [Live-Hack-CVE/CVE-2022-36070](https://github.com/Live-Hack-CVE/CVE-2022-36070)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36070">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36070">
+
+---
+## CVE-2022-36069 (2022-09-07T19:15:00)
+> Poetry is a dependency manager for Python. When handling dependencies that come from a Git repository instead of a registry, Poetry uses various commands, such as `git clone`. These commands are constructed using user input (e.g. the repository URL). When building the commands, Poetry correctly avoids Command Injection vulnerabilities by passing an array of arguments instead of a command string. However, there is the possibility that a user input starts with a dash (`-`) and is therefore treated as an optional argument instead of a positional one. This can lead to Code Execution because some of the commands have options that can be leveraged to run arbitrary executables. If a developer is exploited, the attacker could steal credentials or persist their access. If the exploit happens on a server, the attackers could use their access to attack other internal systems. Since this vulnerability requires a fair amount of user interaction, it is not as dangerous as a remotely exploitable one. However, it still puts developers at risk when dealing with untrusted files in a way they think is safe, because the exploit still works when the victim tries to make sure nothing can happen, e.g. by vetting any Git or Poetry config files that might be present in the directory. Versions 1.1.9 and 1.2.0b1 contain patches for this issue.
+- [Live-Hack-CVE/CVE-2022-36069](https://github.com/Live-Hack-CVE/CVE-2022-36069)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36069">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36069">
 
 ---
 ## CVE-2022-36067 (2022-09-06T22:15:00)
@@ -10930,6 +11055,11 @@
 ## CVE-2022-3154 (2022-10-10T21:15:00)
 > The Woo Billingo Plus WordPress plugin before 4.4.5.4, Integration for Billingo & Gravity Forms WordPress plugin before 1.0.4, Integration for Szamlazz.hu & Gravity Forms WordPress plugin before 1.2.7 are lacking CSRF checks in various AJAX actions, which could allow attackers to make logged in Shop Managers and above perform unwanted actions, such as deactivate the plugin's license
 - [Live-Hack-CVE/CVE-2022-3154](https://github.com/Live-Hack-CVE/CVE-2022-3154)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3154">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3154">
+
+---
+## CVE-2022-3153 (2022-09-08T15:15:00)
+> NULL Pointer Dereference in GitHub repository vim/vim prior to 9.0.0404.
+- [Live-Hack-CVE/CVE-2022-3153](https://github.com/Live-Hack-CVE/CVE-2022-3153)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3153">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3153">
 
 ---
 ## CVE-2022-3151 (2022-10-17T12:15:00)
@@ -13960,6 +14090,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [random-robbie/cve-2022-23131-exp](https://github.com/random-robbie/cve-2022-23131-exp)	<img alt="forks" src="https://img.shields.io/github/forks/random-robbie/cve-2022-23131-exp">	<img alt="stars" src="https://img.shields.io/github/stars/random-robbie/cve-2022-23131-exp">
 
 ---
+## CVE-2022-2308 (2022-09-01T21:15:00)
+> A flaw was found in vDPA with VDUSE backend. There are currently no checks in VDUSE kernel driver to ensure the size of the device config space is in line with the features advertised by the VDUSE userspace application. In case of a mismatch, Virtio drivers config read helpers do not initialize the memory indirectly passed to vduse_vdpa_get_config() returning uninitialized memory from the stack. This could cause undefined behavior or data leaks in Virtio drivers.
+- [Live-Hack-CVE/CVE-2022-2308](https://github.com/Live-Hack-CVE/CVE-2022-2308)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2308">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2308">
+
+---
 ## CVE-2022-2304 (2022-07-05T13:15:00)
 > Stack-based Buffer Overflow in GitHub repository vim/vim prior to 9.0.
 - [Live-Hack-CVE/CVE-2022-2304](https://github.com/Live-Hack-CVE/CVE-2022-2304)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2304">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2304">
@@ -14278,6 +14413,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-22329 (2022-09-13T21:15:00)
 > IBM Control Desk 7.6.1 does not set the secure attribute on authorization tokens or session cookies. Attackers may be able to get the cookie values by sending a http:// link to a user or by planting this link in a site the user goes to. The cookie will be sent to the insecure link and the attacker can then obtain the cookie value by snooping the traffic. IBM X-Force ID: 219124.
 - [Live-Hack-CVE/CVE-2022-22329](https://github.com/Live-Hack-CVE/CVE-2022-22329)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22329">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22329">
+
+---
+## CVE-2022-22314 (2022-09-08T16:15:00)
+> IBM Planning Analytics Local 2.0 allows web pages to be stored locally which can be read by another user on the system. IBM X-Force ID: 217371.
+- [Live-Hack-CVE/CVE-2022-22314](https://github.com/Live-Hack-CVE/CVE-2022-22314)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22314">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22314">
 
 ---
 ## CVE-2022-22293 (2022-01-02T00:15:00)
