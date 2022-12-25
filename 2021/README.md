@@ -26,6 +26,11 @@
 - [Live-Hack-CVE/CVE-2021-46837](https://github.com/Live-Hack-CVE/CVE-2021-46837)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46837">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46837">
 
 ---
+## CVE-2021-46835 (2022-09-20T20:15:00)
+> There is a traffic hijacking vulnerability in WS7200-10 11.0.2.13. Successful exploitation of this vulnerability can cause packets to be hijacked by attackers.
+- [Live-Hack-CVE/CVE-2021-46835](https://github.com/Live-Hack-CVE/CVE-2021-46835)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46835">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46835">
+
+---
 ## CVE-2021-46784 (2022-07-17T22:15:00)
 > In Squid 3.x through 3.5.28, 4.x through 4.17, and 5.x before 5.6, due to improper buffer management, a Denial of Service can occur when processing long Gopher server responses.
 - [Live-Hack-CVE/CVE-2021-46784](https://github.com/Live-Hack-CVE/CVE-2021-46784)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46784">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46784">

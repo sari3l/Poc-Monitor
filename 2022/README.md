@@ -5207,6 +5207,11 @@
 - [Live-Hack-CVE/CVE-2022-40358](https://github.com/Live-Hack-CVE/CVE-2022-40358)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40358">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40358">
 
 ---
+## CVE-2022-40357 (2022-09-20T21:15:00)
+> A security issue was discovered in Z-BlogPHP <= 1.7.2. A Server-Side Request Forgery (SSRF) vulnerability in the zb_users/plugin/UEditor/php/action_crawler.php file allows remote attackers to force the application to make arbitrary requests via injection of arbitrary URLs into the source parameter.
+- [Live-Hack-CVE/CVE-2022-40357](https://github.com/Live-Hack-CVE/CVE-2022-40357)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40357">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40357">
+
+---
 ## CVE-2022-4035 (2022-11-29T21:15:00)
 > The Appointment Hour Booking plugin for WordPress is vulnerable to iFrame Injection via the ‘email’ or general field parameters in versions up to, and including, 1.3.72 due to insufficient input sanitization and output escaping that makes injecting iFrame tags possible. This makes it possible for unauthenticated attackers to inject iFrames when submitting a booking that will execute whenever a user accesses the injected booking details page.
 - [Live-Hack-CVE/CVE-2022-4035](https://github.com/Live-Hack-CVE/CVE-2022-4035)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4035">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4035">
@@ -6063,6 +6068,11 @@
 - [Live-Hack-CVE/CVE-2022-39221](https://github.com/Live-Hack-CVE/CVE-2022-39221)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39221">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39221">
 
 ---
+## CVE-2022-39220 (2022-09-20T22:15:00)
+> SFTPGo is an SFTP server written in Go. Versions prior to 2.3.5 are subject to Cross-site scripting (XSS) vulnerabilities in the SFTPGo WebClient, allowing remote attackers to inject malicious code. This issue is patched in version 2.3.5. No known workarounds exist.
+- [Live-Hack-CVE/CVE-2022-39220](https://github.com/Live-Hack-CVE/CVE-2022-39220)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39220">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39220">
+
+---
 ## CVE-2022-39219 (2022-09-26T14:15:00)
 > Bifrost is a middleware package which can synchronize MySQL/MariaDB binlog data to other types of databases. Versions 1.8.6-release and prior are vulnerable to authentication bypass when using HTTP basic authentication. This may allow group members who only have read permissions to write requests when they are normally forbidden from doing so. Version 1.8.7-release contains a patch. There are currently no known workarounds.
 - [Live-Hack-CVE/CVE-2022-39219](https://github.com/Live-Hack-CVE/CVE-2022-39219)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39219">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39219">
@@ -6537,6 +6547,11 @@
 - [Live-Hack-CVE/CVE-2022-38649](https://github.com/Live-Hack-CVE/CVE-2022-38649)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38649">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38649">
 
 ---
+## CVE-2022-38619 (2022-09-21T00:15:00)
+> SmartVista SVFE2 v2.2.22 was discovered to contain a SQL injection vulnerability via the UserForm:j_id90 parameter at /SVFE2/pages/feegroups/mcc_group.jsf.
+- [Live-Hack-CVE/CVE-2022-38619](https://github.com/Live-Hack-CVE/CVE-2022-38619)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38619">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38619">
+
+---
 ## CVE-2022-3861 (2022-11-21T13:15:00)
 > The Betheme theme for WordPress is vulnerable to PHP Object Injection in versions up to, and including, 26.5.1.4 via deserialization of untrusted input supplied via the import, mfn-items-import-page, and mfn-items-import parameters passed through the mfn_builder_import, mfn_builder_import_page, importdata, importsinglepage, and importfromclipboard functions. This makes it possible for authenticated attackers, with contributor level permissions and above to inject a PHP Object. The additional presence of a POP chain would make it possible for attackers to execute code, retrieve sensitive data, delete files, etc..
 - [Live-Hack-CVE/CVE-2022-3861](https://github.com/Live-Hack-CVE/CVE-2022-3861)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3861">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3861">
@@ -6563,9 +6578,34 @@
 - [4websecurity/CVE-2022-38553](https://github.com/4websecurity/CVE-2022-38553)	<img alt="forks" src="https://img.shields.io/github/forks/4websecurity/CVE-2022-38553">	<img alt="stars" src="https://img.shields.io/github/stars/4websecurity/CVE-2022-38553">
 
 ---
+## CVE-2022-38550 (2022-09-19T23:15:00)
+> A stored cross-site scripting (XSS) vulnerability in the /weibo/list component of Jeesns v2.0.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload.
+- [Live-Hack-CVE/CVE-2022-38550](https://github.com/Live-Hack-CVE/CVE-2022-38550)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38550">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38550">
+
+---
+## CVE-2022-38545 (2022-09-19T23:15:00)
+> Valine v1.4.18 was discovered to contain a remote code execution (RCE) vulnerability which allows attackers to execute arbitrary code via a crafted POST request.
+- [Live-Hack-CVE/CVE-2022-38545](https://github.com/Live-Hack-CVE/CVE-2022-38545)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38545">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38545">
+
+---
 ## CVE-2022-38533 (2022-08-26T00:15:00)
 > In GNU Binutils before 2.40, there is a heap-buffer-overflow in the error function bfd_getl32 when called from the strip_main function in strip-new via a crafted file.
 - [Live-Hack-CVE/CVE-2022-38533](https://github.com/Live-Hack-CVE/CVE-2022-38533)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38533">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38533">
+
+---
+## CVE-2022-38532 (2022-09-19T22:15:00)
+> Micro-Star International Co., Ltd MSI Center 1.0.50.0 was discovered to contain a vulnerability in the component C_Features of MSI.CentralServer.exe. This vulnerability allows attackers to escalate privileges via running a crafted executable.
+- [Live-Hack-CVE/CVE-2022-38532](https://github.com/Live-Hack-CVE/CVE-2022-38532)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38532">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38532">
+
+---
+## CVE-2022-38527 (2022-09-19T22:15:00)
+> UCMS v1.6.0 was discovered to contain a cross-site scripting (XSS) vulnerability via the Import function under the Site Management page.
+- [Live-Hack-CVE/CVE-2022-38527](https://github.com/Live-Hack-CVE/CVE-2022-38527)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38527">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38527">
+
+---
+## CVE-2022-38509 (2022-09-19T22:15:00)
+> Wedding Planner v1.0 was discovered to contain a SQL injection vulnerability via the booking_id parameter at /admin/budget.php.
+- [Live-Hack-CVE/CVE-2022-38509](https://github.com/Live-Hack-CVE/CVE-2022-38509)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38509">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38509">
 
 ---
 ## CVE-2022-38478 (2022-12-22T20:15:00)
@@ -7370,9 +7410,19 @@
 - [Live-Hack-CVE/CVE-2022-37290](https://github.com/Live-Hack-CVE/CVE-2022-37290)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37290">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37290">
 
 ---
+## CVE-2022-37265 (2022-09-20T18:15:00)
+> Prototype pollution vulnerability in stealjs steal 2.2.4 via the alias variable in babel.js.
+- [Live-Hack-CVE/CVE-2022-37265](https://github.com/Live-Hack-CVE/CVE-2022-37265)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37265">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37265">
+
+---
 ## CVE-2022-3726 (2022-11-10T00:15:00)
 > Lack of sand-boxing of OpenAPI documents in GitLab CE/EE affecting all versions from 12.6 prior to 15.3.5, 15.4 prior to 15.4.4, and 15.5 prior to 15.5.2 allows an attacker to trick a user to click on the Swagger OpenAPI viewer and issue HTTP requests that affect the victim's account.
 - [Live-Hack-CVE/CVE-2022-3726](https://github.com/Live-Hack-CVE/CVE-2022-3726)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3726">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3726">
+
+---
+## CVE-2022-37259 (2022-09-20T18:15:00)
+> A Regular Expression Denial of Service (ReDoS) flaw was found in stealjs steal 2.2.4 via the string variable in babel.js.
+- [Live-Hack-CVE/CVE-2022-37259](https://github.com/Live-Hack-CVE/CVE-2022-37259)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37259">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37259">
 
 ---
 ## CVE-2022-37234 (2022-09-22T20:15:00)
@@ -8465,9 +8515,79 @@
 - [Live-Hack-CVE/CVE-2022-35091](https://github.com/Live-Hack-CVE/CVE-2022-35091)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35091">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35091">
 
 ---
+## CVE-2022-35090 (2022-09-21T00:15:00)
+> SWFTools commit 772e55a2 was discovered to contain a heap-buffer overflow via __asan_memcpy at /asan/asan_interceptors_memintrinsics.cpp:.
+- [Live-Hack-CVE/CVE-2022-35090](https://github.com/Live-Hack-CVE/CVE-2022-35090)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35090">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35090">
+
+---
+## CVE-2022-35089 (2022-09-21T00:15:00)
+> SWFTools commit 772e55a2 was discovered to contain a heap-buffer-overflow via getTransparentColor at /home/bupt/Desktop/swftools/src/gif2swf.
+- [Live-Hack-CVE/CVE-2022-35089](https://github.com/Live-Hack-CVE/CVE-2022-35089)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35089">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35089">
+
+---
+## CVE-2022-35088 (2022-09-21T00:15:00)
+> SWFTools commit 772e55a2 was discovered to contain a heap buffer-overflow via getGifDelayTime at /home/bupt/Desktop/swftools/src/src/gif2swf.c.
+- [Live-Hack-CVE/CVE-2022-35088](https://github.com/Live-Hack-CVE/CVE-2022-35088)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35088">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35088">
+
+---
+## CVE-2022-35087 (2022-09-21T00:15:00)
+> SWFTools commit 772e55a2 was discovered to contain a segmentation violation via MovieAddFrame at /src/gif2swf.c.
+- [Live-Hack-CVE/CVE-2022-35087](https://github.com/Live-Hack-CVE/CVE-2022-35087)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35087">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35087">
+
+---
+## CVE-2022-35086 (2022-09-21T00:15:00)
+> SWFTools commit 772e55a2 was discovered to contain a segmentation violation via /multiarch/memmove-vec-unaligned-erms.S.
+- [Live-Hack-CVE/CVE-2022-35086](https://github.com/Live-Hack-CVE/CVE-2022-35086)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35086">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35086">
+
+---
+## CVE-2022-35085 (2022-09-21T00:15:00)
+> SWFTools commit 772e55a2 was discovered to contain a memory leak via /lib/mem.c.
+- [Live-Hack-CVE/CVE-2022-35085](https://github.com/Live-Hack-CVE/CVE-2022-35085)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35085">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35085">
+
+---
 ## CVE-2022-35080 (2022-10-13T12:15:00)
 > SWFTools commit 772e55a2 was discovered to contain a heap-buffer overflow via png_load at /lib/png.c.
 - [Live-Hack-CVE/CVE-2022-35080](https://github.com/Live-Hack-CVE/CVE-2022-35080)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35080">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35080">
+
+---
+## CVE-2022-35070 (2022-09-19T22:15:00)
+> OTFCC commit 617837b was discovered to contain a heap buffer overflow via /release-x64/otfccdump+0x65fc97.
+- [Live-Hack-CVE/CVE-2022-35070](https://github.com/Live-Hack-CVE/CVE-2022-35070)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35070">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35070">
+
+---
+## CVE-2022-35069 (2022-09-19T22:15:00)
+> OTFCC commit 617837b was discovered to contain a heap buffer overflow via /release-x64/otfccdump+0x6b544e.
+- [Live-Hack-CVE/CVE-2022-35069](https://github.com/Live-Hack-CVE/CVE-2022-35069)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35069">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35069">
+
+---
+## CVE-2022-35068 (2022-09-19T22:15:00)
+> OTFCC commit 617837b was discovered to contain a heap buffer overflow via /release-x64/otfccdump+0x6e420d.
+- [Live-Hack-CVE/CVE-2022-35068](https://github.com/Live-Hack-CVE/CVE-2022-35068)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35068">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35068">
+
+---
+## CVE-2022-35067 (2022-09-19T22:15:00)
+> OTFCC commit 617837b was discovered to contain a heap buffer overflow via /release-x64/otfccdump+0x6e41b0.
+- [Live-Hack-CVE/CVE-2022-35067](https://github.com/Live-Hack-CVE/CVE-2022-35067)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35067">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35067">
+
+---
+## CVE-2022-35066 (2022-09-19T22:15:00)
+> OTFCC commit 617837b was discovered to contain a heap buffer overflow via /release-x64/otfccdump+0x6e41b8.
+- [Live-Hack-CVE/CVE-2022-35066](https://github.com/Live-Hack-CVE/CVE-2022-35066)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35066">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35066">
+
+---
+## CVE-2022-35065 (2022-09-19T22:15:00)
+> OTFCC commit 617837b was discovered to contain a segmentation violation via /release-x64/otfccdump+0x65f724.
+- [Live-Hack-CVE/CVE-2022-35065](https://github.com/Live-Hack-CVE/CVE-2022-35065)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35065">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35065">
+
+---
+## CVE-2022-35064 (2022-09-19T22:15:00)
+> OTFCC commit 617837b was discovered to contain a heap buffer overflow via /release-x64/otfccdump+0x4adcdb in __asan_memset.
+- [Live-Hack-CVE/CVE-2022-35064](https://github.com/Live-Hack-CVE/CVE-2022-35064)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35064">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35064">
+
+---
+## CVE-2022-35063 (2022-09-19T22:15:00)
+> OTFCC commit 617837b was discovered to contain a heap buffer overflow via /release-x64/otfccdump+0x6e41a8.
+- [Live-Hack-CVE/CVE-2022-35063](https://github.com/Live-Hack-CVE/CVE-2022-35063)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35063">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35063">
 
 ---
 ## CVE-2022-3506 (2022-10-14T14:15:00)
@@ -10509,6 +10629,11 @@
 - [Live-Hack-CVE/CVE-2022-3058](https://github.com/Live-Hack-CVE/CVE-2022-3058)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3058">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3058">
 
 ---
+## CVE-2022-30579 (2022-09-20T19:15:00)
+> The Web Player component of TIBCO Software Inc.'s TIBCO Spotfire Analytics Platform for AWS Marketplace and TIBCO Spotfire Server contains a difficult to exploit vulnerability that allows a low privileged attacker with network access to execute blind Server Side Request Forgery (SSRF) on the affected system. Affected releases are TIBCO Software Inc.'s TIBCO Spotfire Analytics Platform for AWS Marketplace: version 12.0.0 and TIBCO Spotfire Server: version 12.0.0.
+- [Live-Hack-CVE/CVE-2022-30579](https://github.com/Live-Hack-CVE/CVE-2022-30579)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30579">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30579">
+
+---
 ## CVE-2022-30578 (2022-09-21T18:15:00)
 > The Web Server component of TIBCO Software Inc.'s TIBCO EBX Add-ons contains an easily exploitable vulnerability that allows a low privileged attacker with network access to execute Stored Cross Site Scripting (XSS) on the affected system. A successful attack using this vulnerability requires human interaction from a person other than the attacker. Affected releases are TIBCO Software Inc.'s TIBCO EBX Add-ons: versions 5.4.1 and below.
 - [Live-Hack-CVE/CVE-2022-30578](https://github.com/Live-Hack-CVE/CVE-2022-30578)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30578">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30578">
@@ -10903,6 +11028,11 @@
 ## CVE-2022-29836 (2022-11-09T21:15:00)
 > Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability was discovered via an HTTP API on Western Digital My Cloud Home; My Cloud Home Duo; and SanDisk ibi devices that could allow an attacker to abuse certain parameters to point to random locations on the file system. This could also allow the attacker to initiate the installation of custom packages at these locations. This can only be exploited once the attacker has been authenticated to the device. This issue affects: Western Digital My Cloud Home and My Cloud Home Duo versions prior to 8.11.0-113 on Linux; SanDisk ibi versions prior to 8.11.0-113 on Linux.
 - [Live-Hack-CVE/CVE-2022-29836](https://github.com/Live-Hack-CVE/CVE-2022-29836)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29836">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29836">
+
+---
+## CVE-2022-29835 (2022-09-19T20:15:00)
+> WD Discovery software executable files were signed with an unsafe SHA-1 hashing algorithm. An attacker could use this weakness to create forged certificate signatures due to the use of a hashing algorithm that is not collision-free. This could thereby impact the confidentiality of user content. This issue affects: Western Digital WD Discovery WD Discovery Desktop App versions prior to 4.4.396 on Mac; WD Discovery Desktop App versions prior to 4.4.396 on Windows.
+- [Live-Hack-CVE/CVE-2022-29835](https://github.com/Live-Hack-CVE/CVE-2022-29835)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29835">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29835">
 
 ---
 ## CVE-2022-29810 (2022-04-27T06:15:00)
@@ -12588,6 +12718,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-23772 (2022-02-11T01:15:00)
 > Rat.SetString in math/big in Go before 1.16.14 and 1.17.x before 1.17.7 has an overflow that can lead to Uncontrolled Memory Consumption.
 - [Live-Hack-CVE/CVE-2022-23772](https://github.com/Live-Hack-CVE/CVE-2022-23772)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23772">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23772">
+
+---
+## CVE-2022-23767 (2022-09-19T20:15:00)
+> This vulnerability of SecureGate is SQL-Injection using login without password. A path traversal vulnerability is also identified during file transfer. An attacker can take advantage of these vulnerabilities to perform various attacks such as obtaining privileges and executing remote code, thereby taking over the victim’s system.
+- [Live-Hack-CVE/CVE-2022-23767](https://github.com/Live-Hack-CVE/CVE-2022-23767)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23767">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23767">
 
 ---
 ## CVE-2022-23743 (2022-05-11T16:15:00)

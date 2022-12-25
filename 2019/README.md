@@ -1123,6 +1123,11 @@
 - [9lyph/CVE-2019-12836](https://github.com/9lyph/CVE-2019-12836)	<img alt="forks" src="https://img.shields.io/github/forks/9lyph/CVE-2019-12836">	<img alt="stars" src="https://img.shields.io/github/stars/9lyph/CVE-2019-12836">
 
 ---
+## CVE-2019-12762 (2019-06-06T20:29:00)
+> Xiaomi Mi 5s Plus devices allow attackers to trigger touchscreen anomalies via a radio signal between 198 kHz and 203 kHz, as demonstrated by a transmitter and antenna hidden just beneath the surface of a coffee-shop table, aka Ghost Touch.
+- [Live-Hack-CVE/CVE-2019-12762](https://github.com/Live-Hack-CVE/CVE-2019-12762)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-12762">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-12762">
+
+---
 ## CVE-2019-12735 (2019-06-05T14:29:00)
 > getchar.c in Vim before 8.1.1365 and Neovim before 0.3.6 allows remote attackers to execute arbitrary OS commands via the :source! command in a modeline, as demonstrated by execute in Vim, and assert_fails or nvim_input in Neovim.
 - [st9007a/CVE-2019-12735](https://github.com/st9007a/CVE-2019-12735)	<img alt="forks" src="https://img.shields.io/github/forks/st9007a/CVE-2019-12735">	<img alt="stars" src="https://img.shields.io/github/stars/st9007a/CVE-2019-12735">
