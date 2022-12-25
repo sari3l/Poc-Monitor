@@ -925,6 +925,8 @@
 ## CVE-2022-4584 (2022-12-17T13:15:00)
 > A vulnerability was found in Axiomatic Bento4. It has been rated as critical. Affected by this issue is some unknown functionality of the component mp42aac. The manipulation leads to heap-based buffer overflow. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. VDB-216170 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-4584](https://github.com/Live-Hack-CVE/CVE-2022-4584)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4584">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4584">
+- [Live-Hack-CVE/CVE-2022-45842](https://github.com/Live-Hack-CVE/CVE-2022-45842)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45842">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45842">
+- [Live-Hack-CVE/CVE-2022-45848](https://github.com/Live-Hack-CVE/CVE-2022-45848)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45848">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45848">
 
 ---
 ## CVE-2022-45833 (2022-12-06T22:15:00)
