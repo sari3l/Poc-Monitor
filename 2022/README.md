@@ -4857,6 +4857,11 @@
 - [Live-Hack-CVE/CVE-2022-40806](https://github.com/Live-Hack-CVE/CVE-2022-40806)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40806">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40806">
 
 ---
+## CVE-2022-40805 (2022-09-19T15:15:00)
+> The d8s-urls for python 0.1.0, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. A potential code execution backdoor inserted by third parties is the democritus-hypothesis package.
+- [Live-Hack-CVE/CVE-2022-40805](https://github.com/Live-Hack-CVE/CVE-2022-40805)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40805">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40805">
+
+---
 ## CVE-2022-40799 (2022-11-29T05:15:00)
 > Data Integrity Failure in 'Backup Config' in D-Link DNR-322L <= 2.60B15 allows an authenticated attacker to execute OS level commands on the device.
 - [Live-Hack-CVE/CVE-2022-40799](https://github.com/Live-Hack-CVE/CVE-2022-40799)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40799">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40799">
@@ -5200,6 +5205,16 @@
 ## CVE-2022-40431 (2022-09-19T16:15:00)
 > The d8s-pdfs for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-networking package. The affected version is 0.1.0.
 - [Live-Hack-CVE/CVE-2022-40431](https://github.com/Live-Hack-CVE/CVE-2022-40431)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40431">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40431">
+
+---
+## CVE-2022-40427 (2022-09-19T15:15:00)
+> The d8s-domains for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-networking package. The affected version is 0.1.0
+- [Live-Hack-CVE/CVE-2022-40427](https://github.com/Live-Hack-CVE/CVE-2022-40427)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40427">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40427">
+
+---
+## CVE-2022-40424 (2022-09-19T15:15:00)
+> The d8s-urls for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. A potential code execution backdoor inserted by third parties is the democritus-networking package. The affected version of d8s-urls is 0.1.0
+- [Live-Hack-CVE/CVE-2022-40424](https://github.com/Live-Hack-CVE/CVE-2022-40424)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40424">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40424">
 
 ---
 ## CVE-2022-40408 (2022-09-29T14:15:00)
@@ -5610,6 +5625,26 @@
 ## CVE-2022-40092 (2022-09-23T14:15:00)
 > Online Tours & Travels Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /tour/admin/update_payment.php.
 - [Live-Hack-CVE/CVE-2022-40092](https://github.com/Live-Hack-CVE/CVE-2022-40092)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40092">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40092">
+
+---
+## CVE-2022-40076 (2022-09-19T15:15:00)
+> Tenda AC21 V16.03.08.15 is vulnerable to Buffer Overflow via /bin/httpd, function: fromSetWifiGusetBasic.
+- [Live-Hack-CVE/CVE-2022-40076](https://github.com/Live-Hack-CVE/CVE-2022-40076)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40076">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40076">
+
+---
+## CVE-2022-40075 (2022-09-19T15:15:00)
+> Tenda AC21 V 16.03.08.15 is vulnerable to Buffer Overflow via /bin/httpd, form_fast_setting_wifi_set.
+- [Live-Hack-CVE/CVE-2022-40075](https://github.com/Live-Hack-CVE/CVE-2022-40075)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40075">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40075">
+
+---
+## CVE-2022-40074 (2022-09-19T15:15:00)
+> Tenda AC21 V 16.03.08.15 is vulnerable to Buffer Overflow via /bin/httpd, setSchedWifi.
+- [Live-Hack-CVE/CVE-2022-40074](https://github.com/Live-Hack-CVE/CVE-2022-40074)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40074">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40074">
+
+---
+## CVE-2022-40071 (2022-09-19T15:15:00)
+> Tenda AC21 V 16.03.08.15 is vulnerable to Buffer Overflow via /bin/httpd, formSetDeviceName.
+- [Live-Hack-CVE/CVE-2022-40071](https://github.com/Live-Hack-CVE/CVE-2022-40071)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40071">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40071">
 
 ---
 ## CVE-2022-4005 (2022-12-12T18:15:00)
@@ -7508,6 +7543,16 @@
 ## CVE-2022-37259 (2022-09-20T18:15:00)
 > A Regular Expression Denial of Service (ReDoS) flaw was found in stealjs steal 2.2.4 via the string variable in babel.js.
 - [Live-Hack-CVE/CVE-2022-37259](https://github.com/Live-Hack-CVE/CVE-2022-37259)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37259">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37259">
+
+---
+## CVE-2022-37258 (2022-09-16T22:15:00)
+> Prototype pollution vulnerability in function convertLater in npm-convert.js in stealjs steal 2.2.4 via the packageName variable in npm-convert.js.
+- [Live-Hack-CVE/CVE-2022-37258](https://github.com/Live-Hack-CVE/CVE-2022-37258)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37258">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37258">
+
+---
+## CVE-2022-37251 (2022-09-16T22:15:00)
+> Craft CMS 4.2.0.1 is vulnerable to Cross Site Scripting (XSS) via Drafts.
+- [Live-Hack-CVE/CVE-2022-37251](https://github.com/Live-Hack-CVE/CVE-2022-37251)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37251">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37251">
 
 ---
 ## CVE-2022-37247 (2022-09-16T22:15:00)
@@ -11269,6 +11314,11 @@
 ## CVE-2022-2949 (2022-12-13T21:15:00)
 > Altair HyperView Player versions 2021.1.0.27 and prior are vulnerable to the use of uninitialized memory vulnerability during parsing of H3D files. A DWORD is extracted from an uninitialized buffer and, after sign extension, is used as an index into a stack variable to increment a counter leading to memory corruption.
 - [Live-Hack-CVE/CVE-2022-2949](https://github.com/Live-Hack-CVE/CVE-2022-2949)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2949">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2949">
+
+---
+## CVE-2022-29489 (2022-09-16T22:15:00)
+> Cross-Site Request Forgery (CSRF) vulnerability in Sucuri Security plugin <= 1.8.33 at WordPress leading to Event log entry creation.
+- [Live-Hack-CVE/CVE-2022-29489](https://github.com/Live-Hack-CVE/CVE-2022-29489)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29489">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29489">
 
 ---
 ## CVE-2022-2947 (2022-12-13T21:15:00)
