@@ -1865,6 +1865,11 @@
 - [swapravo/polkadots](https://github.com/swapravo/polkadots)	<img alt="forks" src="https://img.shields.io/github/forks/swapravo/polkadots">	<img alt="stars" src="https://img.shields.io/github/stars/swapravo/polkadots">
 
 ---
+## CVE-2021-35540 (2021-10-20T11:16:00)
+> Vulnerability in the Oracle VM VirtualBox product of Oracle Virtualization (component: Core). The supported version that is affected is Prior to 6.1.28. Easily exploitable vulnerability allows low privileged attacker with logon to the infrastructure where Oracle VM VirtualBox executes to compromise Oracle VM VirtualBox. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of Oracle VM VirtualBox. CVSS 3.1 Base Score 5.5 (Availability impacts). CVSS Vector: (CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H).
+- [Live-Hack-CVE/CVE-2021-35540](https://github.com/Live-Hack-CVE/CVE-2021-35540)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35540">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35540">
+
+---
 ## CVE-2021-35534 (2021-11-18T17:15:00)
 > Insufficient security control vulnerability in internal database access mechanism of Hitachi Energy Relion 670/650/SAM600-IO, Relion 650, GMS600, PWC600 allows attacker who successfully exploited this vulnerability, of which the product does not sufficiently restrict access to an internal database tables, could allow anybody with user credentials to bypass security controls that is enforced by the product. Consequently, exploitation may lead to unauthorized modifications on data/firmware, and/or to permanently disabling the product. This issue affects: Hitachi Energy Relion 670 Series 2.0 all revisions; 2.2.2 all revisions; 2.2.3 versions prior to 2.2.3.5. Hitachi Energy Relion 670/650 Series 2.1 all revisions. 2.2.0 all revisions; 2.2.4 all revisions; Hitachi Energy Relion 670/650/SAM600-IO 2.2.1 all revisions; 2.2.5 versions prior to 2.2.5.2. Hitachi Energy Relion 650 1.0 all revisions. 1.1 all revisions; 1.2 all revisions; 1.3 versions prior to 1.3.0.8; Hitachi Energy GMS600 1.3.0; 1.3.0.1; 1.2.0. Hitachi Energy PWC600 1.0.1 version 1.0.1.4 and prior versions; 1.1.0 version 1.1.0.1 and prior versions.
 - [Live-Hack-CVE/CVE-2021-35534](https://github.com/Live-Hack-CVE/CVE-2021-35534)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35534">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35534">
@@ -3391,6 +3396,11 @@
 ## CVE-2021-2312 (2021-04-22T22:15:00)
 > Vulnerability in the Oracle VM VirtualBox product of Oracle Virtualization (component: Core). The supported version that is affected is Prior to 6.1.20. Easily exploitable vulnerability allows high privileged attacker with logon to the infrastructure where Oracle VM VirtualBox executes to compromise Oracle VM VirtualBox. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of Oracle VM VirtualBox. Note: This vulnerability applies to Windows systems only. CVSS 3.1 Base Score 4.4 (Availability impacts). CVSS Vector: (CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).
 - [Live-Hack-CVE/CVE-2021-2312](https://github.com/Live-Hack-CVE/CVE-2021-2312)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-2312">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-2312">
+
+---
+## CVE-2021-2309 (2021-04-22T22:15:00)
+> Vulnerability in the Oracle VM VirtualBox product of Oracle Virtualization (component: Core). The supported version that is affected is Prior to 6.1.20. Difficult to exploit vulnerability allows high privileged attacker with logon to the infrastructure where Oracle VM VirtualBox executes to compromise Oracle VM VirtualBox. While the vulnerability is in Oracle VM VirtualBox, attacks may significantly impact additional products. Successful attacks of this vulnerability can result in takeover of Oracle VM VirtualBox. CVSS 3.1 Base Score 7.5 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:L/AC:H/PR:H/UI:N/S:C/C:H/I:H/A:H).
+- [Live-Hack-CVE/CVE-2021-2309](https://github.com/Live-Hack-CVE/CVE-2021-2309)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-2309">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-2309">
 
 ---
 ## CVE-2021-23017 (2021-06-01T13:15:00)

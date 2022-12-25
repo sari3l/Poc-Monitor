@@ -4682,6 +4682,21 @@
 - [Live-Hack-CVE/CVE-2022-40955](https://github.com/Live-Hack-CVE/CVE-2022-40955)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40955">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40955">
 
 ---
+## CVE-2022-40935 (2022-09-22T17:15:00)
+> Online Pet Shop We App v1.0 is vulnerable to SQL Injection via /pet_shop/classes/Master.php?f=delete_category,id.
+- [Live-Hack-CVE/CVE-2022-40935](https://github.com/Live-Hack-CVE/CVE-2022-40935)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40935">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40935">
+
+---
+## CVE-2022-40934 (2022-09-22T17:15:00)
+> Online Pet Shop We App v1.0 is vulnerable to SQL injection via /pet_shop/classes/Master.php?f=delete_sub_category,id
+- [Live-Hack-CVE/CVE-2022-40934](https://github.com/Live-Hack-CVE/CVE-2022-40934)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40934">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40934">
+
+---
+## CVE-2022-40933 (2022-09-22T17:15:00)
+> Online Pet Shop We App v1.0 by oretnom23 is vulnerable to SQL injection via /pet_shop/classes/Master.php?f=delete_order,id.
+- [Live-Hack-CVE/CVE-2022-40933](https://github.com/Live-Hack-CVE/CVE-2022-40933)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40933">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40933">
+
+---
 ## CVE-2022-40932 (2022-09-22T16:15:00)
 > In Zoo Management System v1.0, there is an arbitrary file upload vulnerability in the picture upload point of the "gallery" file of the "Gallery" module in the background management system.
 - [Live-Hack-CVE/CVE-2022-40932](https://github.com/Live-Hack-CVE/CVE-2022-40932)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40932">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40932">
@@ -5127,6 +5142,11 @@
 - [Live-Hack-CVE/CVE-2022-40469](https://github.com/Live-Hack-CVE/CVE-2022-40469)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40469">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40469">
 
 ---
+## CVE-2022-40447 (2022-09-22T14:15:00)
+> ZZCMS 2022 was discovered to contain a SQL injection vulnerability via the keyword parameter at /admin/baojia_list.php.
+- [Live-Hack-CVE/CVE-2022-40447](https://github.com/Live-Hack-CVE/CVE-2022-40447)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40447">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40447">
+
+---
 ## CVE-2022-40440 (2022-10-12T00:15:00)
 > mxGraph v4.2.2 was discovered to contain a cross-site scripting (XSS) vulnerability via the setTooltips() function.
 - [Live-Hack-CVE/CVE-2022-40440](https://github.com/Live-Hack-CVE/CVE-2022-40440)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40440">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40440">
@@ -5281,6 +5301,11 @@
 ## CVE-2022-40223 (2022-11-08T19:15:00)
 > Nonce token leakage and missing authorization in SearchWP premium plugin <= 4.2.5 on WordPress leading to plugin settings change.
 - [Live-Hack-CVE/CVE-2022-40223](https://github.com/Live-Hack-CVE/CVE-2022-40223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40223">
+
+---
+## CVE-2022-40219 (2022-09-21T19:15:00)
+> Cross-Site Request Forgery (CSRF) vulnerability in SedLex FavIcon Switcher plugin <= 1.2.11 at WordPress allows plugin settings change.
+- [Live-Hack-CVE/CVE-2022-40219](https://github.com/Live-Hack-CVE/CVE-2022-40219)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40219">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40219">
 
 ---
 ## CVE-2022-40217 (2022-09-21T20:15:00)
@@ -6048,6 +6073,16 @@
 - [Live-Hack-CVE/CVE-2022-39207](https://github.com/Live-Hack-CVE/CVE-2022-39207)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39207">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39207">
 
 ---
+## CVE-2022-39206 (2022-09-13T19:15:00)
+> Onedev is an open source, self-hosted Git Server with CI/CD and Kanban. When using Docker-based job executors, the Docker socket (e.g. /var/run/docker.sock on Linux) is mounted into each Docker step. Users that can define and trigger CI/CD jobs on a project could use this to control the Docker daemon on the host machine. This is a known dangerous pattern, as it can be used to break out of Docker containers and, in most cases, gain root privileges on the host system. This issue allows regular (non-admin) users to potentially take over the build infrastructure of a OneDev instance. Attackers need to have an account (or be able to register one) and need permission to create a project. Since code.onedev.io has the right preconditions for this to be exploited by remote attackers, it could have been used to hijack builds of OneDev itself, e.g. by injecting malware into the docker images that are built and pushed to Docker Hub. The impact is increased by this as described before. Users are advised to upgrade to 7.3.0 or higher. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-39206](https://github.com/Live-Hack-CVE/CVE-2022-39206)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39206">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39206">
+
+---
+## CVE-2022-39205 (2022-09-13T19:15:00)
+> Onedev is an open source, self-hosted Git Server with CI/CD and Kanban. In versions of Onedev prior to 7.3.0 unauthenticated users can take over a OneDev instance if there is no properly configured reverse proxy. The /git-prereceive-callback endpoint is used by the pre-receive git hook on the server to check for branch protections during a push event. It is only intended to be accessed from localhost, but the check relies on the X-Forwarded-For header. Invoking this endpoint leads to the execution of one of various git commands. The environment variables of this command execution can be controlled via query parameters. This allows attackers to write to arbitrary files, which can in turn lead to the execution of arbitrary code. Such an attack would be very hard to detect, which increases the potential impact even more. Users are advised to upgrade. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-39205](https://github.com/Live-Hack-CVE/CVE-2022-39205)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39205">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39205">
+
+---
 ## CVE-2022-39197 (2022-09-22T01:15:00)
 > An XSS (Cross Site Scripting) vulnerability was found in HelpSystems Cobalt Strike through 4.7 that allowed a remote attacker to execute HTML on the Cobalt Strike teamserver. To exploit the vulnerability, one must first inspect a Cobalt Strike payload, and then modify the username field in the payload (or create a new payload with the extracted information and then modify that username field to be malformed).
 - [safe3s/CVE-2022-39197](https://github.com/safe3s/CVE-2022-39197)	<img alt="forks" src="https://img.shields.io/github/forks/safe3s/CVE-2022-39197">	<img alt="stars" src="https://img.shields.io/github/stars/safe3s/CVE-2022-39197">
@@ -6072,6 +6107,7 @@
 - [its-arun/CVE-2022-39197](https://github.com/its-arun/CVE-2022-39197)	<img alt="forks" src="https://img.shields.io/github/forks/its-arun/CVE-2022-39197">	<img alt="stars" src="https://img.shields.io/github/stars/its-arun/CVE-2022-39197">
 - [TheCryingGame/CVE-2022-39197-RCE](https://github.com/TheCryingGame/CVE-2022-39197-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/TheCryingGame/CVE-2022-39197-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/TheCryingGame/CVE-2022-39197-RCE">
 - [adeljck/CVE-2022-39197](https://github.com/adeljck/CVE-2022-39197)	<img alt="forks" src="https://img.shields.io/github/forks/adeljck/CVE-2022-39197">	<img alt="stars" src="https://img.shields.io/github/stars/adeljck/CVE-2022-39197">
+- [Live-Hack-CVE/CVE-2022-39197](https://github.com/Live-Hack-CVE/CVE-2022-39197)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39197">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39197">
 
 ---
 ## CVE-2022-39196 (2022-09-05T00:15:00)
@@ -8449,6 +8485,16 @@
 - [Live-Hack-CVE/CVE-2022-3504](https://github.com/Live-Hack-CVE/CVE-2022-3504)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3504">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3504">
 
 ---
+## CVE-2022-35039 (2022-09-22T17:15:00)
+> OTFCC commit 617837b was discovered to contain a heap buffer overflow via /release-x64/otfccdump+0x6e20a0.
+- [Live-Hack-CVE/CVE-2022-35039](https://github.com/Live-Hack-CVE/CVE-2022-35039)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35039">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35039">
+
+---
+## CVE-2022-35038 (2022-09-22T17:15:00)
+> OTFCC commit 617837b was discovered to contain a heap buffer overflow via /release-x64/otfccdump+0x6b064d.
+- [Live-Hack-CVE/CVE-2022-35038](https://github.com/Live-Hack-CVE/CVE-2022-35038)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35038">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35038">
+
+---
 ## CVE-2022-35037 (2022-09-22T17:15:00)
 > OTFCC commit 617837b was discovered to contain a heap buffer overflow via /release-x64/otfccdump+0x6adb1e.
 - [Live-Hack-CVE/CVE-2022-35037](https://github.com/Live-Hack-CVE/CVE-2022-35037)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35037">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35037">
@@ -9030,6 +9076,16 @@
 - [notareaperbutDR34P3r/Kerberos_CVE-2022-33679](https://github.com/notareaperbutDR34P3r/Kerberos_CVE-2022-33679)	<img alt="forks" src="https://img.shields.io/github/forks/notareaperbutDR34P3r/Kerberos_CVE-2022-33679">	<img alt="stars" src="https://img.shields.io/github/stars/notareaperbutDR34P3r/Kerberos_CVE-2022-33679">
 
 ---
+## CVE-2022-33658 (2022-07-12T23:15:00)
+> Azure Site Recovery Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-30181, CVE-2022-33641, CVE-2022-33642, CVE-2022-33643, CVE-2022-33650, CVE-2022-33651, CVE-2022-33652, CVE-2022-33653, CVE-2022-33654, CVE-2022-33655, CVE-2022-33656, CVE-2022-33657, CVE-2022-33659, CVE-2022-33660, CVE-2022-33661, CVE-2022-33662, CVE-2022-33663, CVE-2022-33664, CVE-2022-33665, CVE-2022-33666, CVE-2022-33667, CVE-2022-33668, CVE-2022-33669, CVE-2022-33671, CVE-2022-33672, CVE-2022-33673, CVE-2022-33674, CVE-2022-33675, CVE-2022-33677.
+- [Live-Hack-CVE/CVE-2022-33658](https://github.com/Live-Hack-CVE/CVE-2022-33658)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33658">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33658">
+
+---
+## CVE-2022-33652 (2022-07-12T23:15:00)
+> Azure Site Recovery Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-30181, CVE-2022-33641, CVE-2022-33642, CVE-2022-33643, CVE-2022-33650, CVE-2022-33651, CVE-2022-33653, CVE-2022-33654, CVE-2022-33655, CVE-2022-33656, CVE-2022-33657, CVE-2022-33658, CVE-2022-33659, CVE-2022-33660, CVE-2022-33661, CVE-2022-33662, CVE-2022-33663, CVE-2022-33664, CVE-2022-33665, CVE-2022-33666, CVE-2022-33667, CVE-2022-33668, CVE-2022-33669, CVE-2022-33671, CVE-2022-33672, CVE-2022-33673, CVE-2022-33674, CVE-2022-33675, CVE-2022-33677.
+- [Live-Hack-CVE/CVE-2022-33652](https://github.com/Live-Hack-CVE/CVE-2022-33652)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33652">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33652">
+
+---
 ## CVE-2022-33645 (2022-10-11T19:15:00)
 > Windows TCP/IP Driver Denial of Service Vulnerability.
 - [Live-Hack-CVE/CVE-2022-33645](https://github.com/Live-Hack-CVE/CVE-2022-33645)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33645">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33645">
@@ -9339,6 +9395,11 @@
 - [Live-Hack-CVE/CVE-2022-3280](https://github.com/Live-Hack-CVE/CVE-2022-3280)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3280">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3280">
 
 ---
+## CVE-2022-32788 (2022-09-20T21:15:00)
+> A buffer overflow was addressed with improved bounds checking. This issue is fixed in watchOS 8.7, tvOS 15.6, iOS 15.6 and iPadOS 15.6, macOS Monterey 12.5. A remote user may be able to cause kernel code execution.
+- [Live-Hack-CVE/CVE-2022-32788](https://github.com/Live-Hack-CVE/CVE-2022-32788)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32788">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32788">
+
+---
 ## CVE-2022-32783 (2022-09-23T19:15:00)
 > A logic issue was addressed with improved checks. This issue is fixed in macOS Monterey 12.4. An app may gain unauthorized access to Bluetooth.
 - [Live-Hack-CVE/CVE-2022-32783](https://github.com/Live-Hack-CVE/CVE-2022-32783)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32783">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32783">
@@ -9372,6 +9433,16 @@
 ## CVE-2022-3269 (2022-09-23T10:15:00)
 > Session Fixation in GitHub repository ikus060/rdiffweb prior to 2.4.7.
 - [Live-Hack-CVE/CVE-2022-3269](https://github.com/Live-Hack-CVE/CVE-2022-3269)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3269">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3269">
+
+---
+## CVE-2022-3268 (2022-09-22T10:15:00)
+> Weak Password Requirements in GitHub repository ikus060/minarca prior to 4.2.2.
+- [Live-Hack-CVE/CVE-2022-3268](https://github.com/Live-Hack-CVE/CVE-2022-3268)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3268">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3268">
+
+---
+## CVE-2022-3267 (2022-09-22T10:15:00)
+> Cross-Site Request Forgery (CSRF) in GitHub repository ikus060/rdiffweb prior to 2.4.6.
+- [Live-Hack-CVE/CVE-2022-3267](https://github.com/Live-Hack-CVE/CVE-2022-3267)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3267">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3267">
 
 ---
 ## CVE-2022-3266 (2022-12-22T20:15:00)
@@ -9844,6 +9915,11 @@
 ## CVE-2022-3168 ()
 > 
 - [irsl/CVE-2022-3168-adb-unexpected-reverse-forwards](https://github.com/irsl/CVE-2022-3168-adb-unexpected-reverse-forwards)	<img alt="forks" src="https://img.shields.io/github/forks/irsl/CVE-2022-3168-adb-unexpected-reverse-forwards">	<img alt="stars" src="https://img.shields.io/github/stars/irsl/CVE-2022-3168-adb-unexpected-reverse-forwards">
+
+---
+## CVE-2022-31679 (2022-09-21T18:15:00)
+> Applications that allow HTTP PATCH access to resources exposed by Spring Data REST in versions 3.6.0 - 3.5.5, 3.7.0 - 3.7.2, and older unsupported versions, if an attacker knows about the structure of the underlying domain model, they can craft HTTP requests that expose hidden entity attributes.
+- [Live-Hack-CVE/CVE-2022-31679](https://github.com/Live-Hack-CVE/CVE-2022-31679)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31679">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31679">
 
 ---
 ## CVE-2022-3166 (2022-12-16T20:15:00)
@@ -10438,6 +10514,11 @@
 - [Live-Hack-CVE/CVE-2022-30578](https://github.com/Live-Hack-CVE/CVE-2022-30578)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30578">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30578">
 
 ---
+## CVE-2022-30577 (2022-09-21T18:15:00)
+> The Web Server component of TIBCO Software Inc.'s TIBCO EBX contains an easily exploitable vulnerability that allows a low privileged attacker with network access to execute Stored Cross Site Scripting (XSS) on the affected system. A successful attack using this vulnerability requires human interaction from a person other than the attacker. Affected releases are TIBCO Software Inc.'s TIBCO EBX: versions 6.0.0 through 6.0.8.
+- [Live-Hack-CVE/CVE-2022-30577](https://github.com/Live-Hack-CVE/CVE-2022-30577)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30577">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30577">
+
+---
 ## CVE-2022-3057 (2022-09-26T16:15:00)
 > Inappropriate implementation in iframe Sandbox in Google Chrome prior to 105.0.5195.52 allowed a remote attacker to leak cross-origin data via a crafted HTML page.
 - [Live-Hack-CVE/CVE-2022-3057](https://github.com/Live-Hack-CVE/CVE-2022-3057)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3057">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3057">
@@ -10626,6 +10707,11 @@
 - [Live-Hack-CVE/CVE-2022-30257](https://github.com/Live-Hack-CVE/CVE-2022-30257)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30257">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30257">
 
 ---
+## CVE-2022-30211 (2022-07-12T23:15:00)
+> Windows Layer 2 Tunneling Protocol (L2TP) Remote Code Execution Vulnerability.
+- [Live-Hack-CVE/CVE-2022-30211](https://github.com/Live-Hack-CVE/CVE-2022-30211)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30211">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30211">
+
+---
 ## CVE-2022-30206 (2022-07-12T23:15:00)
 > Windows Print Spooler Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-22022, CVE-2022-22041, CVE-2022-30226.
 - [Pwnrin/CVE-2022-30206](https://github.com/Pwnrin/CVE-2022-30206)	<img alt="forks" src="https://img.shields.io/github/forks/Pwnrin/CVE-2022-30206">	<img alt="stars" src="https://img.shields.io/github/stars/Pwnrin/CVE-2022-30206">
@@ -10686,6 +10772,11 @@
 - [0xAbbarhSF/FollinaXploit](https://github.com/0xAbbarhSF/FollinaXploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xAbbarhSF/FollinaXploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xAbbarhSF/FollinaXploit">
 - [mattjmillner/CVE-Smackdown](https://github.com/mattjmillner/CVE-Smackdown)	<img alt="forks" src="https://img.shields.io/github/forks/mattjmillner/CVE-Smackdown">	<img alt="stars" src="https://img.shields.io/github/stars/mattjmillner/CVE-Smackdown">
 - [swaiist/CVE-2022-30190-Fix](https://github.com/swaiist/CVE-2022-30190-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/swaiist/CVE-2022-30190-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/swaiist/CVE-2022-30190-Fix">
+
+---
+## CVE-2022-30150 (2022-06-15T22:15:00)
+> Windows Defender Remote Credential Guard Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2022-30150](https://github.com/Live-Hack-CVE/CVE-2022-30150)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30150">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30150">
 
 ---
 ## CVE-2022-30136 (2022-06-15T22:15:00)
@@ -11728,6 +11819,11 @@
 ## CVE-2022-26700 (2022-09-23T19:15:00)
 > A memory corruption issue was addressed with improved state management. This issue is fixed in tvOS 15.5, watchOS 8.6, iOS 15.5 and iPadOS 15.5, macOS Monterey 12.4, Safari 15.5. Processing maliciously crafted web content may lead to code execution.
 - [Live-Hack-CVE/CVE-2022-26700](https://github.com/Live-Hack-CVE/CVE-2022-26700)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26700">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26700">
+
+---
+## CVE-2022-26696 (2022-09-20T21:15:00)
+> This issue was addressed with improved environment sanitization. This issue is fixed in macOS Monterey 12.4. A sandboxed process may be able to circumvent sandbox restrictions.
+- [Live-Hack-CVE/CVE-2022-26696](https://github.com/Live-Hack-CVE/CVE-2022-26696)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26696">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26696">
 
 ---
 ## CVE-2022-26691 (2022-05-26T18:15:00)
@@ -12941,6 +13037,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-22665](https://github.com/Live-Hack-CVE/CVE-2022-22665)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22665">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22665">
 
 ---
+## CVE-2022-2266 (2022-09-22T09:15:00)
+> University Library Automation System developed by Yordam Bilgi Teknolojileri before version 19.2 has an unauthenticated Reflected XSS vulnerability. This has been fixed in the version 19.2
+- [Live-Hack-CVE/CVE-2022-2266](https://github.com/Live-Hack-CVE/CVE-2022-2266)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2266">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2266">
+
+---
 ## CVE-2022-22651 (2022-03-18T18:15:00)
 > An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in macOS Monterey 12.3. A remote attacker may be able to cause unexpected system termination or corrupt kernel memory.
 - [Live-Hack-CVE/CVE-2022-22651](https://github.com/Live-Hack-CVE/CVE-2022-22651)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22651">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22651">
@@ -13131,6 +13232,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-22029 (2022-07-12T23:15:00)
 > Windows Network File System Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-22039.
 - [mchoudhary15/CVE-2022-22029-NFS-Server-](https://github.com/mchoudhary15/CVE-2022-22029-NFS-Server-)	<img alt="forks" src="https://img.shields.io/github/forks/mchoudhary15/CVE-2022-22029-NFS-Server-">	<img alt="stars" src="https://img.shields.io/github/stars/mchoudhary15/CVE-2022-22029-NFS-Server-">
+
+---
+## CVE-2022-21979 (2022-08-09T20:15:00)
+> Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-30134, CVE-2022-34692.
+- [Live-Hack-CVE/CVE-2022-21979](https://github.com/Live-Hack-CVE/CVE-2022-21979)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21979">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21979">
 
 ---
 ## CVE-2022-21971 (2022-02-09T17:15:00)
@@ -13362,6 +13468,26 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-21500 (2022-05-20T00:15:00)
 > Vulnerability in Oracle E-Business Suite (component: Manage Proxies). The supported version that is affected is 12.2. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle E-Business Suite. Successful attacks of this vulnerability can result in unauthorized access to critical data or complete access to all Oracle E-Business Suite accessible data. Note: Authentication is required for successful attack, however the user may be self-registered. <br> <br>Oracle E-Business Suite 12.1 is not impacted by this vulnerability. Customers should refer to the Patch Availability Document for details. CVSS 3.1 Base Score 7.5 (Confidentiality impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N).
 - [Live-Hack-CVE/CVE-2022-21500](https://github.com/Live-Hack-CVE/CVE-2022-21500)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21500">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21500">
+
+---
+## CVE-2022-21488 (2022-04-19T21:15:00)
+> Vulnerability in the Oracle VM VirtualBox product of Oracle Virtualization (component: Core). The supported version that is affected is Prior to 6.1.34. Easily exploitable vulnerability allows low privileged attacker with logon to the infrastructure where Oracle VM VirtualBox executes to compromise Oracle VM VirtualBox. While the vulnerability is in Oracle VM VirtualBox, attacks may significantly impact additional products (scope change). Successful attacks of this vulnerability can result in unauthorized update, insert or delete access to some of Oracle VM VirtualBox accessible data. CVSS 3.1 Base Score 3.8 (Integrity impacts). CVSS Vector: (CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:C/C:N/I:L/A:N).
+- [Live-Hack-CVE/CVE-2022-21488](https://github.com/Live-Hack-CVE/CVE-2022-21488)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21488">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21488">
+
+---
+## CVE-2022-21487 (2022-04-19T21:15:00)
+> Vulnerability in the Oracle VM VirtualBox product of Oracle Virtualization (component: Core). The supported version that is affected is Prior to 6.1.34. Easily exploitable vulnerability allows low privileged attacker with logon to the infrastructure where Oracle VM VirtualBox executes to compromise Oracle VM VirtualBox. While the vulnerability is in Oracle VM VirtualBox, attacks may significantly impact additional products (scope change). Successful attacks of this vulnerability can result in unauthorized read access to a subset of Oracle VM VirtualBox accessible data. CVSS 3.1 Base Score 3.8 (Confidentiality impacts). CVSS Vector: (CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:C/C:L/I:N/A:N).
+- [Live-Hack-CVE/CVE-2022-21487](https://github.com/Live-Hack-CVE/CVE-2022-21487)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21487">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21487">
+
+---
+## CVE-2022-21471 (2022-04-19T21:15:00)
+> Vulnerability in the Oracle VM VirtualBox product of Oracle Virtualization (component: Core). The supported version that is affected is Prior to 6.1.34. Easily exploitable vulnerability allows low privileged attacker with logon to the infrastructure where Oracle VM VirtualBox executes to compromise Oracle VM VirtualBox. While the vulnerability is in Oracle VM VirtualBox, attacks may significantly impact additional products (scope change). Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of Oracle VM VirtualBox. CVSS 3.1 Base Score 6.5 (Availability impacts). CVSS Vector: (CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:C/C:N/I:N/A:H).
+- [Live-Hack-CVE/CVE-2022-21471](https://github.com/Live-Hack-CVE/CVE-2022-21471)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21471">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21471">
+
+---
+## CVE-2022-21465 (2022-04-19T21:15:00)
+> Vulnerability in the Oracle VM VirtualBox product of Oracle Virtualization (component: Core). The supported version that is affected is Prior to 6.1.34. Easily exploitable vulnerability allows high privileged attacker with logon to the infrastructure where Oracle VM VirtualBox executes to compromise Oracle VM VirtualBox. While the vulnerability is in Oracle VM VirtualBox, attacks may significantly impact additional products (scope change). Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of Oracle VM VirtualBox as well as unauthorized update, insert or delete access to some of Oracle VM VirtualBox accessible data. CVSS 3.1 Base Score 6.7 (Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:C/C:N/I:L/A:H).
+- [Live-Hack-CVE/CVE-2022-21465](https://github.com/Live-Hack-CVE/CVE-2022-21465)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21465">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21465">
 
 ---
 ## CVE-2022-21449 (2022-04-19T21:15:00)
@@ -14884,6 +15010,18 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [z92g/CVE-2022-0543](https://github.com/z92g/CVE-2022-0543)	<img alt="forks" src="https://img.shields.io/github/forks/z92g/CVE-2022-0543">	<img alt="stars" src="https://img.shields.io/github/stars/z92g/CVE-2022-0543">
 - [aodsec/CVE-2022-0543](https://github.com/aodsec/CVE-2022-0543)	<img alt="forks" src="https://img.shields.io/github/forks/aodsec/CVE-2022-0543">	<img alt="stars" src="https://img.shields.io/github/stars/aodsec/CVE-2022-0543">
 - [JacobEbben/CVE-2022-0543](https://github.com/JacobEbben/CVE-2022-0543)	<img alt="forks" src="https://img.shields.io/github/forks/JacobEbben/CVE-2022-0543">	<img alt="stars" src="https://img.shields.io/github/stars/JacobEbben/CVE-2022-0543">
+
+---
+## CVE-2022-0530 (2022-02-09T23:15:00)
+> A flaw was found in Unzip. The vulnerability occurs during the conversion of a wide string to a local string that leads to a heap of out-of-bound write. This flaw allows an attacker to input a specially crafted zip file, leading to a crash or code execution.
+- [Live-Hack-CVE/CVE-2022-0530](https://github.com/Live-Hack-CVE/CVE-2022-0530)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0530">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0530">
+- [ByteHackr/unzip_poc](https://github.com/ByteHackr/unzip_poc)	<img alt="forks" src="https://img.shields.io/github/forks/ByteHackr/unzip_poc">	<img alt="stars" src="https://img.shields.io/github/stars/ByteHackr/unzip_poc">
+- [nanaao/unzip_poc](https://github.com/nanaao/unzip_poc)	<img alt="forks" src="https://img.shields.io/github/forks/nanaao/unzip_poc">	<img alt="stars" src="https://img.shields.io/github/stars/nanaao/unzip_poc">
+
+---
+## CVE-2022-0529 (2022-02-09T23:15:00)
+> A flaw was found in Unzip. The vulnerability occurs during the conversion of a wide string to a local string that leads to a heap of out-of-bound write. This flaw allows an attacker to input a specially crafted zip file, leading to a crash or code execution.
+- [Live-Hack-CVE/CVE-2022-0529](https://github.com/Live-Hack-CVE/CVE-2022-0529)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0529">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0529">
 
 ---
 ## CVE-2022-0495 (2022-09-21T09:15:00)
