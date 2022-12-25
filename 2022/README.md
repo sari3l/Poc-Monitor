@@ -1639,6 +1639,21 @@
 - [Live-Hack-CVE/CVE-2022-44020](https://github.com/Live-Hack-CVE/CVE-2022-44020)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44020">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44020">
 
 ---
+## CVE-2022-44014 (2022-12-25T05:15:00)
+> An issue was discovered in Simmeth Lieferantenmanager before 5.6. In the design of the API, a user is inherently able to fetch arbitrary SQL tables. This leaks all user passwords and MSSQL hashes via /DS/LM_API/api/SelectionService/GetPaggedTab.
+- [Live-Hack-CVE/CVE-2022-44014](https://github.com/Live-Hack-CVE/CVE-2022-44014)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44014">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44014">
+
+---
+## CVE-2022-44013 (2022-12-25T05:15:00)
+> An issue was discovered in Simmeth Lieferantenmanager before 5.6. An attacker can make various API calls without authentication because the password in a Credential Object is not checked.
+- [Live-Hack-CVE/CVE-2022-44013](https://github.com/Live-Hack-CVE/CVE-2022-44013)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44013">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44013">
+
+---
+## CVE-2022-44012 (2022-12-25T05:15:00)
+> An issue was discovered in /DS/LM_API/api/SelectionService/InsertQueryWithActiveRelationsReturnId in Simmeth Lieferantenmanager before 5.6. An attacker can execute JavaScript code in the browser of the victim if a site is loaded. The victim's encrypted password can be stolen and most likely be decrypted.
+- [Live-Hack-CVE/CVE-2022-44012](https://github.com/Live-Hack-CVE/CVE-2022-44012)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44012">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44012">
+
+---
 ## CVE-2022-44009 (2022-12-06T00:15:00)
 > Improper access control in Key-Value RBAC in StackStorm version 3.7.0 didn't check the permissions in Jinja filters, allowing attackers to access K/V pairs of other users, potentially leading to the exposure of sensitive Information.
 - [Live-Hack-CVE/CVE-2022-44009](https://github.com/Live-Hack-CVE/CVE-2022-44009)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44009">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44009">
@@ -2295,6 +2310,11 @@
 ## CVE-2022-4296 (2022-12-06T10:15:00)
 > A vulnerability classified as problematic has been found in TP-Link TL-WR740N. Affected is an unknown function of the component ARP Handler. The manipulation leads to resource consumption. The attack needs to be done within the local network. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-214812.
 - [Live-Hack-CVE/CVE-2022-4296](https://github.com/Live-Hack-CVE/CVE-2022-4296)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4296">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4296">
+
+---
+## CVE-2022-42953 (2022-12-25T05:15:00)
+> Certain ZKTeco products (ZEM500-510-560-760, ZEM600-800, ZEM720, ZMM) allow access to sensitive information via direct requests for the form/DataApp?style=1 and form/DataApp?style=0 URLs. The affected versions may be before 8.88 (ZEM500-510-560-760, ZEM600-800, ZEM720) and 15.00 (ZMM200-220-210). The fixed versions are firmware version 8.88 (ZEM500-510-560-760, ZEM600-800, ZEM720) and firmware version 15.00 (ZMM200-220-210).
+- [Live-Hack-CVE/CVE-2022-42953](https://github.com/Live-Hack-CVE/CVE-2022-42953)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42953">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42953">
 
 ---
 ## CVE-2022-42925 (2022-10-31T20:15:00)
