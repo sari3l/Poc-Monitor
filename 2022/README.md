@@ -6420,6 +6420,16 @@
 - [Live-Hack-CVE/CVE-2022-39002](https://github.com/Live-Hack-CVE/CVE-2022-39002)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39002">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39002">
 
 ---
+## CVE-2022-39000 (2022-09-16T18:15:00)
+> The iAware module has a vulnerability in managing malicious apps.Successful exploitation of this vulnerability will cause malicious apps to automatically start upon system startup.
+- [Live-Hack-CVE/CVE-2022-39000](https://github.com/Live-Hack-CVE/CVE-2022-39000)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39000">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39000">
+
+---
+## CVE-2022-38999 (2022-09-16T18:15:00)
+> The AOD module has the improper update of reference count vulnerability. Successful exploitation of this vulnerability may affect data integrity, confidentiality, and availability.
+- [Live-Hack-CVE/CVE-2022-38999](https://github.com/Live-Hack-CVE/CVE-2022-38999)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38999">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38999">
+
+---
 ## CVE-2022-38998 (2022-10-14T16:15:00)
 > The HISP module has a vulnerability of not verifying the data transferred in the kernel space.Successful exploitation of this vulnerability will cause out-of-bounds read, which affects data confidentiality.
 - [Live-Hack-CVE/CVE-2022-38998](https://github.com/Live-Hack-CVE/CVE-2022-38998)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38998">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38998">
@@ -6756,6 +6766,31 @@
 ## CVE-2022-38435 (2022-10-25T17:15:00)
 > Adobe Illustrator versions 26.4 (and earlier) and 25.4.7 (and earlier) are affected by an Improper Input Validation vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
 - [Live-Hack-CVE/CVE-2022-38435](https://github.com/Live-Hack-CVE/CVE-2022-38435)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38435">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38435">
+
+---
+## CVE-2022-38433 (2022-09-16T18:15:00)
+> Adobe Photoshop versions 22.5.8 (and earlier) and 23.4.2 (and earlier) are affected by a Heap-based Buffer Overflow vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.sue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2022-38433](https://github.com/Live-Hack-CVE/CVE-2022-38433)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38433">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38433">
+
+---
+## CVE-2022-38432 (2022-09-16T18:15:00)
+> Adobe Photoshop versions 22.5.8 (and earlier) and 23.4.2 (and earlier) are affected by a Heap-based Buffer Overflow vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2022-38432](https://github.com/Live-Hack-CVE/CVE-2022-38432)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38432">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38432">
+
+---
+## CVE-2022-38431 (2022-09-16T18:15:00)
+> Adobe Photoshop versions 22.5.8 (and earlier) and 23.4.2 (and earlier) are affected by an out-of-bounds read vulnerability when parsing a crafted file, which could result in a read past the end of an allocated memory structure. An attacker could leverage this vulnerability to execute code in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2022-38431](https://github.com/Live-Hack-CVE/CVE-2022-38431)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38431">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38431">
+
+---
+## CVE-2022-38430 (2022-09-16T18:15:00)
+> Adobe Photoshop versions 22.5.8 (and earlier) and 23.4.2 (and earlier) are affected by an out-of-bounds read vulnerability when parsing a crafted file, which could result in a read past the end of an allocated memory structure. An attacker could leverage this vulnerability to execute code in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2022-38430](https://github.com/Live-Hack-CVE/CVE-2022-38430)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38430">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38430">
+
+---
+## CVE-2022-38429 (2022-09-16T18:15:00)
+> Adobe Photoshop versions 22.5.8 (and earlier) and 23.4.2 (and earlier) are affected by an out-of-bounds read vulnerability when parsing a crafted file, which could result in a read past the end of an allocated memory structure. An attacker could leverage this vulnerability to execute code in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2022-38429](https://github.com/Live-Hack-CVE/CVE-2022-38429)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38429">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38429">
 
 ---
 ## CVE-2022-38421 (2022-10-14T20:15:00)
@@ -8236,6 +8271,16 @@
 - [Live-Hack-CVE/CVE-2022-3598](https://github.com/Live-Hack-CVE/CVE-2022-3598)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3598">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3598">
 
 ---
+## CVE-2022-35974 (2022-09-16T21:15:00)
+> TensorFlow is an open source platform for machine learning. If `QuantizeDownAndShrinkRange` is given nonscalar inputs for `input_min` or `input_max`, it results in a segfault that can be used to trigger a denial of service attack. We have patched the issue in GitHub commit 73ad1815ebcfeb7c051f9c2f7ab5024380ca8613. The fix will be included in TensorFlow 2.10.0. We will also cherrypick this commit on TensorFlow 2.9.1, TensorFlow 2.8.1, and TensorFlow 2.7.2, as these are also affected and still in supported range. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-35974](https://github.com/Live-Hack-CVE/CVE-2022-35974)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35974">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35974">
+
+---
+## CVE-2022-35973 (2022-09-16T21:15:00)
+> TensorFlow is an open source platform for machine learning. If `QuantizedMatMul` is given nonscalar input for: `min_a`, `max_a`, `min_b`, or `max_b` It gives a segfault that can be used to trigger a denial of service attack. We have patched the issue in GitHub commit aca766ac7693bf29ed0df55ad6bfcc78f35e7f48. The fix will be included in TensorFlow 2.10.0. We will also cherrypick this commit on TensorFlow 2.9.1, TensorFlow 2.8.1, and TensorFlow 2.7.2, as these are also affected and still in supported range. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-35973](https://github.com/Live-Hack-CVE/CVE-2022-35973)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35973">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35973">
+
+---
 ## CVE-2022-3597 (2022-10-21T16:15:00)
 > LibTIFF 4.4.0 has an out-of-bounds write in _TIFFmemcpy in libtiff/tif_unix.c:346 when called from extractImageSection, tools/tiffcrop.c:6826, allowing attackers to cause a denial-of-service via a crafted tiff file. For users that compile libtiff from sources, the fix is available with commit 236b7191.
 - [Live-Hack-CVE/CVE-2022-3597](https://github.com/Live-Hack-CVE/CVE-2022-3597)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3597">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3597">
@@ -8391,6 +8436,11 @@
 ## CVE-2022-3567 (2022-10-17T19:15:00)
 > A vulnerability has been found in Linux Kernel and classified as problematic. This vulnerability affects the function inet6_stream_ops/inet6_dgram_ops of the component IPv6 Handler. The manipulation leads to race condition. It is recommended to apply a patch to fix this issue. VDB-211090 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-3567](https://github.com/Live-Hack-CVE/CVE-2022-3567)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3567">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3567">
+
+---
+## CVE-2022-35664 (2022-09-16T18:15:00)
+> Adobe Experience Manager versions 6.5.13.0 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser. Exploitation of this issue requires low-privilege access to AEM.
+- [Live-Hack-CVE/CVE-2022-35664](https://github.com/Live-Hack-CVE/CVE-2022-35664)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35664">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35664">
 
 ---
 ## CVE-2022-35646 (2022-12-22T20:15:00)
@@ -9140,6 +9190,11 @@
 ## CVE-2022-34255 (2022-08-16T21:15:00)
 > Adobe Commerce versions 2.4.3-p2 (and earlier), 2.3.7-p3 (and earlier) and 2.4.4 (and earlier) are affected by an Improper Access Control vulnerability that could result in Privilege escalation. An attacker with a low privilege account could leverage this vulnerability to perform an account takeover for a victim. Exploitation of this issue does not require user interaction.
 - [Live-Hack-CVE/CVE-2022-34255](https://github.com/Live-Hack-CVE/CVE-2022-34255)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34255">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34255">
+
+---
+## CVE-2022-34218 (2022-09-16T18:15:00)
+> Adobe Experience Manager versions 6.5.13.0 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser. Exploitation of this issue requires low-privilege access to AEM.
+- [Live-Hack-CVE/CVE-2022-34218](https://github.com/Live-Hack-CVE/CVE-2022-34218)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34218">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34218">
 
 ---
 ## CVE-2022-3419 (2022-10-31T16:15:00)
@@ -10075,6 +10130,11 @@
 - [Vikaran101/CVE-2022-31854](https://github.com/Vikaran101/CVE-2022-31854)	<img alt="forks" src="https://img.shields.io/github/forks/Vikaran101/CVE-2022-31854">	<img alt="stars" src="https://img.shields.io/github/stars/Vikaran101/CVE-2022-31854">
 
 ---
+## CVE-2022-3182 (2022-09-13T20:15:00)
+> Improper Access Control vulnerability in the Duo SMS two-factor of Devolutions Remote Desktop Manager 2022.2.14 and earlier allows attackers to bypass the application lock. This issue affects: Devolutions Remote Desktop Manager version 2022.2.14 and prior versions.
+- [Live-Hack-CVE/CVE-2022-3182](https://github.com/Live-Hack-CVE/CVE-2022-3182)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3182">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3182">
+
+---
 ## CVE-2022-31814 (2022-09-05T16:15:00)
 > pfSense pfBlockerNG through 2.1.4_26 allows remote attackers to execute arbitrary OS commands as root via shell metacharacters in the HTTP Host header. NOTE: 3.x is unaffected.
 - [Live-Hack-CVE/CVE-2022-31814](https://github.com/Live-Hack-CVE/CVE-2022-31814)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31814">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31814">
@@ -10738,9 +10798,59 @@
 - [Live-Hack-CVE/CVE-2022-30698](https://github.com/Live-Hack-CVE/CVE-2022-30698)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30698">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30698">
 
 ---
+## CVE-2022-30686 (2022-09-16T18:15:00)
+> Adobe Experience Manager versions 6.5.13.0 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser. Exploitation of this issue requires low-privilege access to AEM.
+- [Live-Hack-CVE/CVE-2022-30686](https://github.com/Live-Hack-CVE/CVE-2022-30686)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30686">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30686">
+
+---
+## CVE-2022-30685 (2022-09-16T18:15:00)
+> Adobe Experience Manager versions 6.5.13.0 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser. Exploitation of this issue requires low-privilege access to AEM.
+- [Live-Hack-CVE/CVE-2022-30685](https://github.com/Live-Hack-CVE/CVE-2022-30685)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30685">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30685">
+
+---
+## CVE-2022-30684 (2022-09-16T18:15:00)
+> Adobe Experience Manager versions 6.5.13.0 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser. Exploitation of this issue requires low-privilege access to AEM.
+- [Live-Hack-CVE/CVE-2022-30684](https://github.com/Live-Hack-CVE/CVE-2022-30684)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30684">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30684">
+
+---
+## CVE-2022-30683 (2022-09-16T18:15:00)
+> Adobe Experience Manager versions 6.5.13.0 (and earlier) is affected by a Violation of Secure Design Principles vulnerability that could lead to bypass the security feature of the encryption mechanism in the backend . An attacker could leverage this vulnerability to decrypt secrets, however, this is a high-complexity attack as the threat actor needs to already possess those secrets. Exploitation of this issue requires low-privilege access to AEM.
+- [Live-Hack-CVE/CVE-2022-30683](https://github.com/Live-Hack-CVE/CVE-2022-30683)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30683">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30683">
+
+---
+## CVE-2022-30682 (2022-09-16T18:15:00)
+> Adobe Experience Manager versions 6.5.13.0 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser. Exploitation of this issue requires low-privilege access to AEM.
+- [Live-Hack-CVE/CVE-2022-30682](https://github.com/Live-Hack-CVE/CVE-2022-30682)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30682">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30682">
+
+---
+## CVE-2022-30681 (2022-09-16T18:15:00)
+> Adobe Experience Manager versions 6.5.13.0 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser. Exploitation of this issue requires low-privilege access to AEM.
+- [Live-Hack-CVE/CVE-2022-30681](https://github.com/Live-Hack-CVE/CVE-2022-30681)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30681">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30681">
+
+---
+## CVE-2022-30680 (2022-09-16T18:15:00)
+> Adobe Experience Manager versions 6.5.13.0 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser. Exploitation of this issue requires low-privilege access to AEM.
+- [Live-Hack-CVE/CVE-2022-30680](https://github.com/Live-Hack-CVE/CVE-2022-30680)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30680">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30680">
+
+---
 ## CVE-2022-30679 (2022-12-19T20:15:00)
 > Adobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.
 - [Live-Hack-CVE/CVE-2022-30679](https://github.com/Live-Hack-CVE/CVE-2022-30679)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30679">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30679">
+
+---
+## CVE-2022-30678 (2022-09-16T18:15:00)
+> Adobe Experience Manager versions 6.5.13.0 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser. Exploitation of this issue requires low-privilege access to AEM.
+- [Live-Hack-CVE/CVE-2022-30678](https://github.com/Live-Hack-CVE/CVE-2022-30678)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30678">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30678">
+
+---
+## CVE-2022-30677 (2022-09-16T18:15:00)
+> Adobe Experience Manager versions 6.5.13.0 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser. Exploitation of this issue requires low-privilege access to AEM.
+- [Live-Hack-CVE/CVE-2022-30677](https://github.com/Live-Hack-CVE/CVE-2022-30677)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30677">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30677">
+
+---
+## CVE-2022-30676 (2022-09-16T18:15:00)
+> Adobe InDesign versions 16.4.2 (and earlier) and 17.3 (and earlier) are affected by an out-of-bounds read vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2022-30676](https://github.com/Live-Hack-CVE/CVE-2022-30676)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30676">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30676">
 
 ---
 ## CVE-2022-30635 (2022-08-10T20:15:00)
@@ -12709,6 +12819,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-24714 (2022-03-08T20:15:00)
 > Icinga Web 2 is an open source monitoring web interface, framework and command-line interface. Installations of Icinga 2 with the IDO writer enabled are affected. If you use service custom variables in role restrictions, and you regularly decommission service objects, users with said roles may still have access to a collection of content. Note that this only applies if a role has implicitly permitted access to hosts, due to permitted access to at least one of their services. If access to a host is permitted by other means, no sensible information has been disclosed to unauthorized users. This issue has been resolved in versions 2.8.6, 2.9.6 and 2.10 of Icinga Web 2.
 - [Live-Hack-CVE/CVE-2022-24714](https://github.com/Live-Hack-CVE/CVE-2022-24714)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24714">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24714">
+
+---
+## CVE-2022-2471 (2022-09-15T14:15:00)
+> Stack-based Buffer Overflow vulnerability in the EZVIZ Motion Detection component as used in camera models CS-CV248, CS-C6N-A0-1C2WFR, CS-DB1C-A0-1E2W2FR, CS-C6N-B0-1G2WF, CS-C3W-A0-3H4WFRL allows a remote attacker to execute remote code on the device. This issue affects: EZVIZ CS-CV248 versions prior to 5.2.3 build 220725. EZVIZ CS-C6N-A0-1C2WFR versions prior to 5.3.0 build 220428. EZVIZ CS-DB1C-A0-1E2W2FR versions prior to 5.3.0 build 220802. EZVIZ CS-C6N-B0-1G2WF versions prior to 5.3.0 build 220712. EZVIZ CS-C3W-A0-3H4WFRL versions prior to 5.3.5 build 220723.
+- [Live-Hack-CVE/CVE-2022-2471](https://github.com/Live-Hack-CVE/CVE-2022-2471)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2471">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2471">
 
 ---
 ## CVE-2022-24706 (2022-04-26T10:15:00)
