@@ -983,6 +983,11 @@
 - [alfarom256/CVE-2022-45451](https://github.com/alfarom256/CVE-2022-45451)	<img alt="forks" src="https://img.shields.io/github/forks/alfarom256/CVE-2022-45451">	<img alt="stars" src="https://img.shields.io/github/stars/alfarom256/CVE-2022-45451">
 
 ---
+## CVE-2022-45403 (2022-12-22T20:15:00)
+> Service Workers should not be able to infer information about opaque cross-origin responses; but timing information for cross-origin media combined with Range requests might have allowed them to determine the presence or length of a media file. This vulnerability affects Firefox ESR < 102.5, Thunderbird < 102.5, and Firefox < 107.
+- [Live-Hack-CVE/CVE-2022-45403](https://github.com/Live-Hack-CVE/CVE-2022-45403)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45403">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45403">
+
+---
 ## CVE-2022-45384 (2022-11-15T20:15:00)
 > Jenkins Reverse Proxy Auth Plugin 1.7.3 and earlier stores the LDAP manager password unencrypted in the global config.xml file on the Jenkins controller where it can be viewed by attackers with access to the Jenkins controller file system.
 - [Live-Hack-CVE/CVE-2022-45384](https://github.com/Live-Hack-CVE/CVE-2022-45384)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45384">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45384">
@@ -2431,6 +2436,36 @@
 ## CVE-2022-42953 (2022-12-25T05:15:00)
 > Certain ZKTeco products (ZEM500-510-560-760, ZEM600-800, ZEM720, ZMM) allow access to sensitive information via direct requests for the form/DataApp?style=1 and form/DataApp?style=0 URLs. The affected versions may be before 8.88 (ZEM500-510-560-760, ZEM600-800, ZEM720) and 15.00 (ZMM200-220-210). The fixed versions are firmware version 8.88 (ZEM500-510-560-760, ZEM600-800, ZEM720) and firmware version 15.00 (ZMM200-220-210).
 - [Live-Hack-CVE/CVE-2022-42953](https://github.com/Live-Hack-CVE/CVE-2022-42953)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42953">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42953">
+
+---
+## CVE-2022-42932 (2022-12-22T20:15:00)
+> Mozilla developers Ashley Hale and the Mozilla Fuzzing Team reported memory safety bugs present in Thunderbird 102.3. Some of these bugs showed evidence of memory corruption and we presume that with enough effort some of these could have been exploited to run arbitrary code. This vulnerability affects Thunderbird < 102.4, Firefox ESR < 102.4, and Firefox < 106.
+- [Live-Hack-CVE/CVE-2022-42932](https://github.com/Live-Hack-CVE/CVE-2022-42932)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42932">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42932">
+
+---
+## CVE-2022-42931 (2022-12-22T20:15:00)
+> Logins saved by Firefox should be managed by the Password Manager component which uses encryption to save files on-disk. Instead, the username (not password) was saved by the Form Manager to an unencrypted file on disk. This vulnerability affects Firefox < 106.
+- [Live-Hack-CVE/CVE-2022-42931](https://github.com/Live-Hack-CVE/CVE-2022-42931)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42931">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42931">
+
+---
+## CVE-2022-42930 (2022-12-22T20:15:00)
+> If two Workers were simultaneously initializing their CacheStorage, a data race could have occurred in the <code>ThirdPartyUtil</code> component. This vulnerability affects Firefox < 106.
+- [Live-Hack-CVE/CVE-2022-42930](https://github.com/Live-Hack-CVE/CVE-2022-42930)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42930">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42930">
+
+---
+## CVE-2022-42929 (2022-12-22T20:15:00)
+> If a website called <code>window.print()</code> in a particular way, it could cause a denial of service of the browser, which may persist beyond browser restart depending on the user's session restore settings. This vulnerability affects Thunderbird < 102.4, Firefox ESR < 102.4, and Firefox < 106.
+- [Live-Hack-CVE/CVE-2022-42929](https://github.com/Live-Hack-CVE/CVE-2022-42929)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42929">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42929">
+
+---
+## CVE-2022-42928 (2022-12-22T20:15:00)
+> Certain types of allocations were missing annotations that, if the Garbage Collector was in a specific state, could have lead to memory corruption and a potentially exploitable crash. This vulnerability affects Thunderbird < 102.4, Firefox ESR < 102.4, and Firefox < 106.
+- [Live-Hack-CVE/CVE-2022-42928](https://github.com/Live-Hack-CVE/CVE-2022-42928)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42928">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42928">
+
+---
+## CVE-2022-42927 (2022-12-22T20:15:00)
+> A same-origin policy violation could have allowed the theft of cross-origin URL entries, leaking the result of a redirect, via <code>performance.getEntries()</code>. This vulnerability affects Thunderbird < 102.4, Firefox ESR < 102.4, and Firefox < 106.
+- [Live-Hack-CVE/CVE-2022-42927](https://github.com/Live-Hack-CVE/CVE-2022-42927)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42927">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42927">
 
 ---
 ## CVE-2022-42925 (2022-10-31T20:15:00)
@@ -4439,12 +4474,42 @@
 - [Live-Hack-CVE/CVE-2022-40968](https://github.com/Live-Hack-CVE/CVE-2022-40968)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40968">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40968">
 
 ---
+## CVE-2022-40961 (2022-12-22T20:15:00)
+> During startup, a graphics driver with an unexpected name could lead to a stack-buffer overflow causing a potentially exploitable crash.<br>*This issue only affects Firefox for Android. Other operating systems are not affected.*. This vulnerability affects Firefox < 105.
+- [Live-Hack-CVE/CVE-2022-40961](https://github.com/Live-Hack-CVE/CVE-2022-40961)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40961">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40961">
+
+---
+## CVE-2022-40960 (2022-12-22T20:15:00)
+> Concurrent use of the URL parser with non-UTF-8 data was not thread-safe. This could lead to a use-after-free causing a potentially exploitable crash. This vulnerability affects Firefox ESR < 102.3, Thunderbird < 102.3, and Firefox < 105.
+- [Live-Hack-CVE/CVE-2022-40960](https://github.com/Live-Hack-CVE/CVE-2022-40960)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40960">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40960">
+
+---
 ## CVE-2022-4096 (2022-11-21T15:15:00)
 > Server-Side Request Forgery (SSRF) in GitHub repository appsmithorg/appsmith prior to 1.8.2.
 - [Live-Hack-CVE/CVE-2022-4096](https://github.com/Live-Hack-CVE/CVE-2022-4096)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4096">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4096">
 - [Live-Hack-CVE/CVE-2022-40963](https://github.com/Live-Hack-CVE/CVE-2022-40963)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40963">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40963">
 - [Live-Hack-CVE/CVE-2022-40968](https://github.com/Live-Hack-CVE/CVE-2022-40968)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40968">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40968">
 - [Live-Hack-CVE/CVE-2022-40966](https://github.com/Live-Hack-CVE/CVE-2022-40966)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40966">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40966">
+
+---
+## CVE-2022-40959 (2022-12-22T20:15:00)
+> During iframe navigation, certain pages did not have their FeaturePolicy fully initialized leading to a bypass that leaked device permissions into untrusted subdocuments. This vulnerability affects Firefox ESR < 102.3, Thunderbird < 102.3, and Firefox < 105.
+- [Live-Hack-CVE/CVE-2022-40959](https://github.com/Live-Hack-CVE/CVE-2022-40959)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40959">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40959">
+
+---
+## CVE-2022-40958 (2022-12-22T20:15:00)
+> By injecting a cookie with certain special characters, an attacker on a shared subdomain which is not a secure context could set and thus overwrite cookies from a secure context, leading to session fixation and other attacks. This vulnerability affects Firefox ESR < 102.3, Thunderbird < 102.3, and Firefox < 105.
+- [Live-Hack-CVE/CVE-2022-40958](https://github.com/Live-Hack-CVE/CVE-2022-40958)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40958">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40958">
+
+---
+## CVE-2022-40957 (2022-12-22T20:15:00)
+> Inconsistent data in instruction and data cache when creating wasm code could lead to a potentially exploitable crash.<br>*This bug only affects Firefox on ARM64 platforms.*. This vulnerability affects Firefox ESR < 102.3, Thunderbird < 102.3, and Firefox < 105.
+- [Live-Hack-CVE/CVE-2022-40957](https://github.com/Live-Hack-CVE/CVE-2022-40957)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40957">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40957">
+
+---
+## CVE-2022-40956 (2022-12-22T20:15:00)
+> When injecting an HTML base element, some requests would ignore the CSP's base-uri settings and accept the injected element's base instead. This vulnerability affects Firefox ESR < 102.3, Thunderbird < 102.3, and Firefox < 105.
+- [Live-Hack-CVE/CVE-2022-40956](https://github.com/Live-Hack-CVE/CVE-2022-40956)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40956">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40956">
 
 ---
 ## CVE-2022-40955 (2022-09-20T14:15:00)
@@ -6147,6 +6212,26 @@
 - [Live-Hack-CVE/CVE-2022-38533](https://github.com/Live-Hack-CVE/CVE-2022-38533)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38533">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38533">
 
 ---
+## CVE-2022-38478 (2022-12-22T20:15:00)
+> Members the Mozilla Fuzzing Team reported memory safety bugs present in Firefox 103, Firefox ESR 102.1, and Firefox ESR 91.12. Some of these bugs showed evidence of memory corruption and we presume that with enough effort some of these could have been exploited to run arbitrary code. This vulnerability affects Thunderbird < 102.2, Thunderbird < 91.13, Firefox ESR < 91.13, Firefox ESR < 102.2, and Firefox < 104.
+- [Live-Hack-CVE/CVE-2022-38478](https://github.com/Live-Hack-CVE/CVE-2022-38478)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38478">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38478">
+
+---
+## CVE-2022-38477 (2022-12-22T20:15:00)
+> Mozilla developer Nika Layzell and the Mozilla Fuzzing Team reported memory safety bugs present in Firefox 103 and Firefox ESR 102.1. Some of these bugs showed evidence of memory corruption and we presume that with enough effort some of these could have been exploited to run arbitrary code. This vulnerability affects Firefox ESR < 102.2, Thunderbird < 102.2, and Firefox < 104.
+- [Live-Hack-CVE/CVE-2022-38477](https://github.com/Live-Hack-CVE/CVE-2022-38477)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38477">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38477">
+
+---
+## CVE-2022-38476 (2022-12-22T20:15:00)
+> A data race could occur in the <code>PK11_ChangePW</code> function, potentially leading to a use-after-free vulnerability. In Firefox, this lock protected the data when a user changed their master password. This vulnerability affects Firefox ESR < 102.2 and Thunderbird < 102.2.
+- [Live-Hack-CVE/CVE-2022-38476](https://github.com/Live-Hack-CVE/CVE-2022-38476)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38476">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38476">
+
+---
+## CVE-2022-38474 (2022-12-22T20:15:00)
+> A website that had permission to access the microphone could record audio without the audio notification being shown. This bug does not allow the attacker to bypass the permission prompt - it only affects the notification shown once permission has been granted.<br />*This bug only affects Firefox for Android. Other operating systems are unaffected.*. This vulnerability affects Firefox < 104.
+- [Live-Hack-CVE/CVE-2022-38474](https://github.com/Live-Hack-CVE/CVE-2022-38474)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38474">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38474">
+
+---
 ## CVE-2022-38465 (2022-10-11T11:15:00)
 > A vulnerability has been identified in SIMATIC Drive Controller family (All versions < V2.9.2), SIMATIC ET 200SP Open Controller CPU 1515SP PC (incl. SIPLUS variants) (All versions), SIMATIC ET 200SP Open Controller CPU 1515SP PC2 (incl. SIPLUS variants) (All versions < V21.9), SIMATIC S7-1200 CPU family (incl. SIPLUS variants) (All versions < V4.5.0), SIMATIC S7-1500 CPU family (incl. related ET200 CPUs and SIPLUS variants) (All versions < V2.9.2), SIMATIC S7-1500 Software Controller (All versions < V21.9), SIMATIC S7-PLCSIM Advanced (All versions < V4.0), SINUMERIK MC (All versions), SINUMERIK ONE (All versions). Affected products protect the built-in global private key in a way that cannot be considered sufficient any longer. The key is used for the legacy protection of confidential configuration data and the legacy PG/PC and HMI communication. This could allow attackers to discover the private key of a CPU product family by an offline attack against a single CPU of the family. Attackers could then use this knowledge to extract confidential configuration data from projects that are protected by that key or to perform attacks against legacy PG/PC and HMI communication.
 - [Live-Hack-CVE/CVE-2022-38465](https://github.com/Live-Hack-CVE/CVE-2022-38465)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38465">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38465">
@@ -7405,6 +7490,16 @@
 - [Live-Hack-CVE/CVE-2022-3633](https://github.com/Live-Hack-CVE/CVE-2022-3633)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3633">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3633">
 
 ---
+## CVE-2022-36319 (2022-12-22T20:15:00)
+> When combining CSS properties for overflow and transform, the mouse cursor could interact with different coordinates than displayed. This vulnerability affects Firefox ESR < 102.1, Firefox ESR < 91.12, Firefox < 103, Thunderbird < 102.1, and Thunderbird < 91.12.
+- [Live-Hack-CVE/CVE-2022-36319](https://github.com/Live-Hack-CVE/CVE-2022-36319)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36319">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36319">
+
+---
+## CVE-2022-36317 (2022-12-22T20:15:00)
+> When visiting a website with an overly long URL, the user interface would start to hang. Due to session restore, this could lead to a permanent Denial of Service.<br>*This bug only affects Firefox for Android. Other operating systems are unaffected.*. This vulnerability affects Firefox < 103.
+- [Live-Hack-CVE/CVE-2022-36317](https://github.com/Live-Hack-CVE/CVE-2022-36317)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36317">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36317">
+
+---
 ## CVE-2022-3630 (2022-10-21T06:15:00)
 > A vulnerability was found in Linux Kernel. It has been rated as problematic. This issue affects some unknown processing of the file fs/fscache/cookie.c of the component IPsec. The manipulation leads to memory leak. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-211931.
 - [Live-Hack-CVE/CVE-2022-3630](https://github.com/Live-Hack-CVE/CVE-2022-3630)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3630">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3630">
@@ -7669,6 +7764,11 @@
 ## CVE-2022-3567 (2022-10-17T19:15:00)
 > A vulnerability has been found in Linux Kernel and classified as problematic. This vulnerability affects the function inet6_stream_ops/inet6_dgram_ops of the component IPv6 Handler. The manipulation leads to race condition. It is recommended to apply a patch to fix this issue. VDB-211090 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-3567](https://github.com/Live-Hack-CVE/CVE-2022-3567)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3567">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3567">
+
+---
+## CVE-2022-35646 (2022-12-22T20:15:00)
+> IBM Security Verify Governance, Identity Manager 10.0.1 software component could allow an authenticated user to modify or cancel any other user's access request using man-in-the-middle techniques. IBM X-Force ID: 231096.
+- [Live-Hack-CVE/CVE-2022-35646](https://github.com/Live-Hack-CVE/CVE-2022-35646)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35646">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35646">
 
 ---
 ## CVE-2022-3562 (2022-11-20T05:15:00)
@@ -8143,14 +8243,44 @@
 - [Live-Hack-CVE/CVE-2022-3450](https://github.com/Live-Hack-CVE/CVE-2022-3450)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3450">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3450">
 
 ---
+## CVE-2022-34483 (2022-12-22T20:15:00)
+> An attacker who could have convinced a user to drag and drop an image to a filesystem could have manipulated the resulting filename to contain an executable extension, and by extension potentially tricked the user into executing malicious code. While very similar, this is a separate issue from CVE-2022-34482. This vulnerability affects Firefox < 102.
+- [Live-Hack-CVE/CVE-2022-34483](https://github.com/Live-Hack-CVE/CVE-2022-34483)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34483">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34483">
+
+---
+## CVE-2022-34480 (2022-12-22T20:15:00)
+> Within the <code>lg_init()</code> function, if several allocations succeed but then one fails, an uninitialized pointer would have been freed despite never being allocated. This vulnerability affects Firefox < 102.
+- [Live-Hack-CVE/CVE-2022-34480](https://github.com/Live-Hack-CVE/CVE-2022-34480)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34480">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34480">
+
+---
 ## CVE-2022-3448 (2022-11-09T19:15:00)
 > Use after free in Permissions API in Google Chrome prior to 106.0.5249.119 allowed a remote attacker who convinced a user to engage in specific UI gestures to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [Live-Hack-CVE/CVE-2022-3448](https://github.com/Live-Hack-CVE/CVE-2022-3448)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3448">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3448">
 
 ---
+## CVE-2022-34477 (2022-12-22T20:15:00)
+> The MediaError message property should be consistent to avoid leaking information about cross-origin resources; however for a same-site cross-origin resource, the message could have leaked information enabling XS-Leaks attacks. This vulnerability affects Firefox < 102.
+- [Live-Hack-CVE/CVE-2022-34477](https://github.com/Live-Hack-CVE/CVE-2022-34477)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34477">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34477">
+
+---
+## CVE-2022-34474 (2022-12-22T20:15:00)
+> Even when an iframe was sandboxed with <code>allow-top-navigation-by-user-activation</code>, if it received a redirect header to an external protocol the browser would process the redirect and prompt the user as appropriate. This vulnerability affects Firefox < 102.
+- [Live-Hack-CVE/CVE-2022-34474](https://github.com/Live-Hack-CVE/CVE-2022-34474)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34474">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34474">
+
+---
+## CVE-2022-34470 (2022-12-22T20:15:00)
+> Session history navigations may have led to a use-after-free and potentially exploitable crash. This vulnerability affects Firefox < 102, Firefox ESR < 91.11, Thunderbird < 102, and Thunderbird < 91.11.
+- [Live-Hack-CVE/CVE-2022-34470](https://github.com/Live-Hack-CVE/CVE-2022-34470)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34470">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34470">
+
+---
 ## CVE-2022-3447 (2022-11-09T19:15:00)
 > Inappropriate implementation in Custom Tabs in Google Chrome on Android prior to 106.0.5249.119 allowed a remote attacker to spoof the contents of the Omnibox (URL bar) via a crafted HTML page. (Chromium security severity: High)
 - [Live-Hack-CVE/CVE-2022-3447](https://github.com/Live-Hack-CVE/CVE-2022-3447)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3447">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3447">
+
+---
+## CVE-2022-34468 (2022-12-22T20:15:00)
+> An iframe that was not permitted to run scripts could do so if the user clicked on a <code>javascript:</code> link. This vulnerability affects Firefox < 102, Firefox ESR < 91.11, Thunderbird < 102, and Thunderbird < 91.11.
+- [Live-Hack-CVE/CVE-2022-34468](https://github.com/Live-Hack-CVE/CVE-2022-34468)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34468">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34468">
 
 ---
 ## CVE-2022-3444 (2022-11-01T20:15:00)
@@ -8769,6 +8899,11 @@
 - [Live-Hack-CVE/CVE-2022-3272](https://github.com/Live-Hack-CVE/CVE-2022-3272)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3272">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3272">
 
 ---
+## CVE-2022-3266 (2022-12-22T20:15:00)
+> An out-of-bounds read can occur when decoding H264 video. This results in a potentially exploitable crash. This vulnerability affects Firefox ESR < 102.3, Thunderbird < 102.3, and Firefox < 105.
+- [Live-Hack-CVE/CVE-2022-3266](https://github.com/Live-Hack-CVE/CVE-2022-3266)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3266">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3266">
+
+---
 ## CVE-2022-32593 (2022-10-07T20:15:00)
 > In vowe, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07138493; Issue ID: ALPS07138493.
 - [Live-Hack-CVE/CVE-2022-32593](https://github.com/Live-Hack-CVE/CVE-2022-32593)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32593">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32593">
@@ -9120,6 +9255,11 @@
 - [jbaines-r7/hook](https://github.com/jbaines-r7/hook)	<img alt="forks" src="https://img.shields.io/github/forks/jbaines-r7/hook">	<img alt="stars" src="https://img.shields.io/github/stars/jbaines-r7/hook">
 
 ---
+## CVE-2022-31747 (2022-12-22T20:15:00)
+> Mozilla developers Andrew McCreight, Nicolas B. Pierron, and the Mozilla Fuzzing Team reported memory safety bugs present in Firefox 100 and Firefox ESR 91.9. Some of these bugs showed evidence of memory corruption and we presume that with enough effort some of these could have been exploited to run arbitrary code. This vulnerability affects Thunderbird < 91.10, Firefox < 101, and Firefox ESR < 91.10.
+- [Live-Hack-CVE/CVE-2022-31747](https://github.com/Live-Hack-CVE/CVE-2022-31747)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31747">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31747">
+
+---
 ## CVE-2022-3171 (2022-10-12T23:15:00)
 > A parsing issue with binary data in protobuf-java core and lite versions prior to 3.21.7, 3.20.3, 3.19.6 and 3.16.3 can lead to a denial of service attack. Inputs containing multiple instances of non-repeated embedded messages with repeated or unknown fields causes objects to be converted back-n-forth between mutable and immutable forms, resulting in potentially long garbage collection pauses. We recommend updating to the versions mentioned above.
 - [Live-Hack-CVE/CVE-2022-3171](https://github.com/Live-Hack-CVE/CVE-2022-3171)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3171">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3171">
@@ -9231,6 +9371,11 @@
 ## CVE-2022-3157 (2022-12-16T21:15:00)
 > A vulnerability exists in the Rockwell Automation controllers that allows a malformed CIP request to cause a major non-recoverable fault (MNRF) and a denial-of-service condition (DOS).
 - [Live-Hack-CVE/CVE-2022-3157](https://github.com/Live-Hack-CVE/CVE-2022-3157)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3157">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3157">
+
+---
+## CVE-2022-3155 (2022-12-22T20:15:00)
+> When saving or opening an email attachment on macOS, Thunderbird did not set attribute com.apple.quarantine on the received file. If the received file was an application and the user attempted to open it, then the application was started immediately without asking the user to confirm. This vulnerability affects Thunderbird < 102.3.
+- [Live-Hack-CVE/CVE-2022-3155](https://github.com/Live-Hack-CVE/CVE-2022-3155)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3155">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3155">
 
 ---
 ## CVE-2022-3154 (2022-10-10T21:15:00)
@@ -9881,6 +10026,11 @@
 ## CVE-2022-3038 (2022-09-26T16:15:00)
 > Use after free in Network Service in Google Chrome prior to 105.0.5195.52 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
 - [Live-Hack-CVE/CVE-2022-3038](https://github.com/Live-Hack-CVE/CVE-2022-3038)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3038">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3038">
+
+---
+## CVE-2022-3034 (2022-12-22T20:15:00)
+> When receiving an HTML email that specified to load an <code>iframe</code> element from a remote location, a request to the remote document was sent. However, Thunderbird didn't display the document. This vulnerability affects Thunderbird < 102.2.1 and Thunderbird < 91.13.1.
+- [Live-Hack-CVE/CVE-2022-3034](https://github.com/Live-Hack-CVE/CVE-2022-3034)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3034">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3034">
 
 ---
 ## CVE-2022-30333 (2022-05-09T08:15:00)
