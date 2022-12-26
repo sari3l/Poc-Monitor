@@ -8106,6 +8106,16 @@
 - [Live-Hack-CVE/CVE-2022-3713](https://github.com/Live-Hack-CVE/CVE-2022-3713)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3713">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3713">
 
 ---
+## CVE-2022-37129 (2022-08-31T23:15:00)
+> D-Link DIR-816 A2_v1.10CNB04.img is vulnerable to Command Injection via /goform/SystemCommand. After the user passes in the command parameter, it will be spliced into byte_4836B0 by snprintf, and finally doSystem(&byte_4836B0); will be executed, resulting in a command injection.
+- [Live-Hack-CVE/CVE-2022-37129](https://github.com/Live-Hack-CVE/CVE-2022-37129)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37129">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37129">
+
+---
+## CVE-2022-37123 (2022-08-31T23:15:00)
+> D-link DIR-816 A2_v1.10CNB04.img is vulnerable to Command injection via /goform/form2userconfig.cgi.
+- [Live-Hack-CVE/CVE-2022-37123](https://github.com/Live-Hack-CVE/CVE-2022-37123)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37123">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37123">
+
+---
 ## CVE-2022-37122 (2022-08-31T16:15:00)
 > Carel pCOWeb HVAC BACnet Gateway 2.1.0, Firmware: A2.1.0 - B2.1.0, Application Software: 2.15.4A Software v16 13020200 suffers from an unauthenticated arbitrary file disclosure vulnerability. Input passed through the 'file' GET parameter through the 'logdownload.cgi' Bash script is not properly verified before being used to download log files. This can be exploited to disclose the contents of arbitrary and sensitive files via directory traversal attacks.
 - [Live-Hack-CVE/CVE-2022-37122](https://github.com/Live-Hack-CVE/CVE-2022-37122)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37122">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37122">
@@ -12466,6 +12476,11 @@
 - [Live-Hack-CVE/CVE-2022-28977](https://github.com/Live-Hack-CVE/CVE-2022-28977)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28977">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28977">
 
 ---
+## CVE-2022-2896 (2022-08-31T21:15:00)
+> Measuresoft ScadaPro Server (All Versions) allows use after free while processing a specific project file.
+- [Live-Hack-CVE/CVE-2022-2896](https://github.com/Live-Hack-CVE/CVE-2022-2896)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2896">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2896">
+
+---
 ## CVE-2022-28944 (2022-05-23T18:16:00)
 > Certain EMCO Software products are affected by: CWE-494: Download of Code Without Integrity Check. This affects MSI Package Builder for Windows 9.1.4 and Remote Installer for Windows 6.0.13 and Ping Monitor for Windows 8.0.18 and Remote Shutdown for Windows 7.2.2 and WakeOnLan 2.0.8 and Network Inventory for Windows 5.8.22 and Network Software Scanner for Windows 2.0.8 and UnLock IT for Windows 6.1.1. The impact is: execute arbitrary code (remote). The component is: Updater. The attack vector is: To exploit this vulnerability, a user must trigger an update of an affected installation of EMCO Software. ¶¶ Multiple products from EMCO Software are affected by a remote code execution vulnerability during the update process.
 - [gerr-re/cve-2022-28944](https://github.com/gerr-re/cve-2022-28944)	<img alt="forks" src="https://img.shields.io/github/forks/gerr-re/cve-2022-28944">	<img alt="stars" src="https://img.shields.io/github/stars/gerr-re/cve-2022-28944">
@@ -13178,6 +13193,11 @@
 - [Live-Hack-CVE/CVE-2022-26498](https://github.com/Live-Hack-CVE/CVE-2022-26498)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26498">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26498">
 
 ---
+## CVE-2022-26488 (2022-03-10T17:47:00)
+> In Python before 3.10.3 on Windows, local users can gain privileges because the search path is inadequately secured. The installer may allow a local attacker to add user-writable directories to the system search path. To exploit, an administrator must have installed Python for all users and enabled PATH entries. A non-administrative user can trigger a repair that incorrectly adds user-writable paths into PATH, enabling search-path hijacking of other users and system services. This affects Python (CPython) through 3.7.12, 3.8.x through 3.8.12, 3.9.x through 3.9.10, and 3.10.x through 3.10.2.
+- [Live-Hack-CVE/CVE-2022-26488](https://github.com/Live-Hack-CVE/CVE-2022-26488)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26488">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26488">
+
+---
 ## CVE-2022-26423 (2022-10-21T16:15:00)
 > Aethon TUG Home Base Server versions prior to version 24 are affected by un unauthenticated attacker who can freely access hashed user credentials.
 - [Live-Hack-CVE/CVE-2022-26423](https://github.com/Live-Hack-CVE/CVE-2022-26423)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26423">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26423">
@@ -13330,6 +13350,11 @@
 ## CVE-2022-26112 (2022-09-23T08:15:00)
 > In 0.10.0 or older versions of Apache Pinot, Pinot query endpoint and realtime ingestion layer has a vulnerability in unprotected environments due to a groovy function support. In order to avoid this, we disabled the groovy function support by default from Pinot release 0.11.0. See https://docs.pinot.apache.org/basics/releases/0.11.0
 - [Live-Hack-CVE/CVE-2022-26112](https://github.com/Live-Hack-CVE/CVE-2022-26112)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26112">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26112">
+
+---
+## CVE-2022-26110 (2022-04-06T02:15:00)
+> An issue was discovered in HTCondor 8.8.x before 8.8.16, 9.0.x before 9.0.10, and 9.1.x before 9.6.0. When a user authenticates to an HTCondor daemon via the CLAIMTOBE method, the user can then impersonate any entity when issuing additional commands to that daemon.
+- [Live-Hack-CVE/CVE-2022-26110](https://github.com/Live-Hack-CVE/CVE-2022-26110)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26110">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26110">
 
 ---
 ## CVE-2022-2602 ()
@@ -14447,6 +14472,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-22811 (2022-02-09T23:15:00)
 > A CWE-352: Cross-Site Request Forgery (CSRF) vulnerability exists that could induce users to perform unintended actions, leading to the override of the system?s configurations when an attacker persuades a user to visit a rogue website. Affected Product: spaceLYnk (V2.6.2 and prior), Wiser for KNX (formerly homeLYnk) (V2.6.2 and prior), fellerLYnk (V2.6.2 and prior)
 - [Live-Hack-CVE/CVE-2022-22811](https://github.com/Live-Hack-CVE/CVE-2022-22811)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22811">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22811">
+
+---
+## CVE-2022-22809 (2022-02-09T23:15:00)
+> A CWE-306: Missing Authentication for Critical Function vulnerability exists that could allow modifications of the touch configurations in an unauthorized manner when an attacker attempts to modify the touch configurations. Affected Product: spaceLYnk (V2.6.2 and prior), Wiser for KNX (formerly homeLYnk) (V2.6.2 and prior), fellerLYnk (V2.6.2 and prior)
+- [Live-Hack-CVE/CVE-2022-22809](https://github.com/Live-Hack-CVE/CVE-2022-22809)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22809">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22809">
 
 ---
 ## CVE-2022-22808 (2022-02-09T23:15:00)

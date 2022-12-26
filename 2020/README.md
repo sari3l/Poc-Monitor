@@ -388,6 +388,16 @@
 - [Live-Hack-CVE/CVE-2020-7616](https://github.com/Live-Hack-CVE/CVE-2020-7616)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7616">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7616">
 
 ---
+## CVE-2020-7573 (2020-11-19T22:15:00)
+> A CWE-284 Improper Access Control vulnerability exists in EcoStruxure Building Operation WebReports V1.9 - V3.1 that could cause a remote attacker being able to access a restricted web resources due to improper access control.
+- [Live-Hack-CVE/CVE-2020-7573](https://github.com/Live-Hack-CVE/CVE-2020-7573)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7573">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7573">
+
+---
+## CVE-2020-7547 (2020-12-01T15:15:00)
+> A CWE-284: Improper Access Control vulnerability exists in EcoStruxureª and SmartStruxureª Power Monitoring and SCADA Software (see security notification for version information) that could allow a user the ability to perform actions via the web interface at a higher privilege level.
+- [Live-Hack-CVE/CVE-2020-7547](https://github.com/Live-Hack-CVE/CVE-2020-7547)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7547">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7547">
+
+---
 ## CVE-2020-7479 (2020-03-23T20:15:00)
 > A CWE-306: Missing Authentication for Critical Function vulnerability exists in IGSS (Versions 14 and prior using the service: IGSSupdate), which could allow a local user to execute processes that otherwise require escalation privileges when sending local network commands to the IGSS Update Service.
 - [Live-Hack-CVE/CVE-2020-7479](https://github.com/Live-Hack-CVE/CVE-2020-7479)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7479">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7479">

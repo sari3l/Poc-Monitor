@@ -141,9 +141,19 @@
 - [Live-Hack-CVE/CVE-2019-7061](https://github.com/Live-Hack-CVE/CVE-2019-7061)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7061">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7061">
 
 ---
+## CVE-2019-6832 (2019-09-17T20:15:00)
+> A CWE-287: Authentication vulnerability exists in spaceLYnk (all versions before 2.4.0) and Wiser for KNX (all versions before 2.4.0 - formerly known as homeLYnk), which could cause loss of control when an attacker bypasses the authentication.
+- [Live-Hack-CVE/CVE-2019-6832](https://github.com/Live-Hack-CVE/CVE-2019-6832)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6832">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6832">
+
+---
 ## CVE-2019-6827 (2019-07-15T21:15:00)
 > A CWE-787: Out-of-bounds Write vulnerability exists in Interactive Graphical SCADA System (IGSS), Version 14 and prior, which could cause a software crash when data in the mdb database is manipulated.
 - [Live-Hack-CVE/CVE-2019-6827](https://github.com/Live-Hack-CVE/CVE-2019-6827)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6827">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6827">
+
+---
+## CVE-2019-6825 (2019-07-15T21:15:00)
+> A CWE-427: Uncontrolled Search Path Element vulnerability exists in ProClima (all versions prior to version 8.0.0) which could allow a malicious DLL file, with the same name of any resident DLLs inside the software installation, to execute arbitrary code in all versions of ProClima prior to version 8.0.0.
+- [Live-Hack-CVE/CVE-2019-6825](https://github.com/Live-Hack-CVE/CVE-2019-6825)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6825">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6825">
 
 ---
 ## CVE-2019-6824 (2019-07-15T21:15:00)
@@ -930,6 +940,13 @@
 - [HynekPetrak/log4shell-finder](https://github.com/HynekPetrak/log4shell-finder)	<img alt="forks" src="https://img.shields.io/github/forks/HynekPetrak/log4shell-finder">	<img alt="stars" src="https://img.shields.io/github/stars/HynekPetrak/log4shell-finder">
 - [Al1ex/CVE-2019-17571](https://github.com/Al1ex/CVE-2019-17571)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/CVE-2019-17571">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/CVE-2019-17571">
 - [shadow-horse/CVE-2019-17571](https://github.com/shadow-horse/CVE-2019-17571)	<img alt="forks" src="https://img.shields.io/github/forks/shadow-horse/CVE-2019-17571">	<img alt="stars" src="https://img.shields.io/github/stars/shadow-horse/CVE-2019-17571">
+
+---
+## CVE-2019-17570 (2020-01-23T22:15:00)
+> An untrusted deserialization was found in the org.apache.xmlrpc.parser.XmlRpcResponseParser:addResult method of Apache XML-RPC (aka ws-xmlrpc) library. A malicious XML-RPC server could target a XML-RPC client causing it to execute arbitrary code. Apache XML-RPC is no longer maintained and this issue will not be fixed.
+- [Live-Hack-CVE/CVE-2019-17570](https://github.com/Live-Hack-CVE/CVE-2019-17570)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17570">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17570">
+- [r00t4dm/CVE-2019-17570](https://github.com/r00t4dm/CVE-2019-17570)	<img alt="forks" src="https://img.shields.io/github/forks/r00t4dm/CVE-2019-17570">	<img alt="stars" src="https://img.shields.io/github/stars/r00t4dm/CVE-2019-17570">
+- [fbeasts/xmlrpc-common-deserialization](https://github.com/fbeasts/xmlrpc-common-deserialization)	<img alt="forks" src="https://img.shields.io/github/forks/fbeasts/xmlrpc-common-deserialization">	<img alt="stars" src="https://img.shields.io/github/stars/fbeasts/xmlrpc-common-deserialization">
 
 ---
 ## CVE-2019-17565 (2020-03-23T22:15:00)

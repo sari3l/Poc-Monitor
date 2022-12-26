@@ -595,6 +595,7 @@
 ## CVE-2021-42717 (2021-12-07T22:15:00)
 > ModSecurity 3.x through 3.0.5 mishandles excessively nested JSON objects. Crafted JSON objects with nesting tens-of-thousands deep could result in the web server being unable to service legitimate requests. Even a moderately large (e.g., 300KB) HTTP request can occupy one of the limited NGINX worker processes for minutes and consume almost all of the available CPU on the machine. Modsecurity 2 is similarly vulnerable: the affected versions include 2.8.0 through 2.9.4.
 - [EkamSinghWalia/Detection-and-Mitigation-script-for-CVE-2021-42717](https://github.com/EkamSinghWalia/Detection-and-Mitigation-script-for-CVE-2021-42717)	<img alt="forks" src="https://img.shields.io/github/forks/EkamSinghWalia/Detection-and-Mitigation-script-for-CVE-2021-42717">	<img alt="stars" src="https://img.shields.io/github/stars/EkamSinghWalia/Detection-and-Mitigation-script-for-CVE-2021-42717">
+- [Live-Hack-CVE/CVE-2021-42717](https://github.com/Live-Hack-CVE/CVE-2021-42717)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42717">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42717">
 
 ---
 ## CVE-2021-42704 (2022-05-18T17:15:00)
@@ -681,9 +682,24 @@
 - [Live-Hack-CVE/CVE-2021-4245](https://github.com/Live-Hack-CVE/CVE-2021-4245)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4245">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4245">
 
 ---
+## CVE-2021-42392 (2022-01-10T14:10:00)
+> The org.h2.util.JdbcUtils.getConnection method of the H2 database takes as parameters the class name of the driver and URL of the database. An attacker may pass a JNDI driver name and a URL leading to a LDAP or RMI servers, causing remote code execution. This can be exploited through various attack vectors, most notably through the H2 Console which leads to unauthenticated remote code execution.
+- [Live-Hack-CVE/CVE-2021-42392](https://github.com/Live-Hack-CVE/CVE-2021-42392)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42392">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42392">
+
+---
 ## CVE-2021-42387 (2022-03-14T23:15:00)
 > Heap out-of-bounds read in Clickhouse's LZ4 compression codec when parsing a malicious query. As part of the LZ4::decompressImpl() loop, a 16-bit unsigned user-supplied value ('offset') is read from the compressed data. The offset is later used in the length of a copy operation, without checking the upper bounds of the source of the copy operation.
 - [Live-Hack-CVE/CVE-2021-42387](https://github.com/Live-Hack-CVE/CVE-2021-42387)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42387">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42387">
+
+---
+## CVE-2021-42372 (2021-11-08T05:15:00)
+> A shell command injection in the HW Events SNMP community in XoruX LPAR2RRD and STOR2RRD before 7.30 allows authenticated remote attackers to execute arbitrary shell commands as the user running the service.
+- [Live-Hack-CVE/CVE-2021-42372](https://github.com/Live-Hack-CVE/CVE-2021-42372)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42372">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42372">
+
+---
+## CVE-2021-42371 (2021-11-08T05:15:00)
+> lpar2rrd is a hardcoded system account in XoruX LPAR2RRD and STOR2RRD before 7.30.
+- [Live-Hack-CVE/CVE-2021-42371](https://github.com/Live-Hack-CVE/CVE-2021-42371)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42371">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42371">
 
 ---
 ## CVE-2021-42327 (2021-10-21T17:15:00)
@@ -929,6 +945,11 @@
 - [exploit-io/CVE-2021-41349](https://github.com/exploit-io/CVE-2021-41349)	<img alt="forks" src="https://img.shields.io/github/forks/exploit-io/CVE-2021-41349">	<img alt="stars" src="https://img.shields.io/github/stars/exploit-io/CVE-2021-41349">
 
 ---
+## CVE-2021-4133 (2022-01-25T20:15:00)
+> A flaw was found in Keycloak in versions from 12.0.0 and before 15.1.1 which allows an attacker with any existing user account to create new default user accounts via the administrative REST API even when new user registration is disabled.
+- [Live-Hack-CVE/CVE-2021-4133](https://github.com/Live-Hack-CVE/CVE-2021-4133)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4133">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4133">
+
+---
 ## CVE-2021-41313 (2021-11-01T03:15:00)
 > Affected versions of Atlassian Jira Server and Data Center allow authenticated but non-admin remote attackers to edit email batch configurations via an Improper Authorization vulnerability in the /secure/admin/ConfigureBatching!default.jspa endpoint. The affected versions are before version 8.20.7.
 - [Live-Hack-CVE/CVE-2021-41313](https://github.com/Live-Hack-CVE/CVE-2021-41313)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41313">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41313">
@@ -1160,9 +1181,24 @@
 - [Live-Hack-CVE/CVE-2021-40419](https://github.com/Live-Hack-CVE/CVE-2021-40419)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40419">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40419">
 
 ---
+## CVE-2021-40418 (2021-12-22T19:15:00)
+> When parsing a file that is submitted to the DPDecoder service as a job, the R3D SDK will mistakenly skip over the assignment of a property containing an object referring to a UUID that was parsed from a frame within the video container. Upon destruction of the object that owns it, the uninitialized member will be dereferenced and then destroyed using the object’s virtual destructor. Due to the object property being uninitialized, this can result in dereferencing an arbitrary pointer for the object’s virtual method table, which can result in code execution under the context of the application.
+- [Live-Hack-CVE/CVE-2021-40418](https://github.com/Live-Hack-CVE/CVE-2021-40418)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40418">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40418">
+
+---
+## CVE-2021-40417 (2021-12-22T19:15:00)
+> When parsing a file that is submitted to the DPDecoder service as a job, the service will use the combination of decoding parameters that were submitted with the job along with fields that were parsed for the submitted video by the R3D SDK to calculate the size of a heap buffer. Due to an integer overflow with regards to this calculation, this can result in an undersized heap buffer being allocated. When this heap buffer is written to, a heap-based buffer overflow will occur. This can result in code execution under the context of the application.
+- [Live-Hack-CVE/CVE-2021-40417](https://github.com/Live-Hack-CVE/CVE-2021-40417)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40417">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40417">
+
+---
 ## CVE-2021-40416 (2022-01-28T20:15:00)
 > An incorrect default permission vulnerability exists in the cgiserver.cgi cgi_check_ability functionality of reolink RLC-410W v3.0.0.136_20121102. All the Get APIs that are not included in cgi_check_ability are already executable by any logged-in users. An attacker can send an HTTP request to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2021-40416](https://github.com/Live-Hack-CVE/CVE-2021-40416)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40416">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40416">
+
+---
+## CVE-2021-40406 (2022-01-28T20:15:00)
+> A denial of service vulnerability exists in the cgiserver.cgi session creation functionality of reolink RLC-410W v3.0.0.136_20121102. A specially-crafted HTTP request can lead to prevent users from logging in. An attacker can send an HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-40406](https://github.com/Live-Hack-CVE/CVE-2021-40406)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40406">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40406">
 
 ---
 ## CVE-2021-4037 (2022-08-24T16:15:00)
@@ -1294,6 +1330,11 @@
 ## CVE-2021-3995 (2022-08-23T20:15:00)
 > A logic error was found in the libmount library of util-linux in the function that allows an unprivileged user to unmount a FUSE filesystem. This flaw allows an unprivileged local attacker to unmount FUSE filesystems that belong to certain other users who have a UID that is a prefix of the UID of the attacker in its string form. An attacker may use this flaw to cause a denial of service to applications that use the affected filesystems.
 - [Live-Hack-CVE/CVE-2021-3995](https://github.com/Live-Hack-CVE/CVE-2021-3995)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3995">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3995">
+
+---
+## CVE-2021-39927 (2022-01-18T17:15:00)
+> Server side request forgery protections in GitLab CE/EE versions between 8.4 and 14.4.4, between 14.5.0 and 14.5.2, and between 14.6.0 and 14.6.1 would fail to protect against attacks sending requests to localhost on port 80 or 443 if GitLab was configured to run on a port other than 80 or 443
+- [Live-Hack-CVE/CVE-2021-39927](https://github.com/Live-Hack-CVE/CVE-2021-39927)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39927">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39927">
 
 ---
 ## CVE-2021-39926 (2021-11-19T17:15:00)
@@ -2082,6 +2123,11 @@
 - [Live-Hack-CVE/CVE-2021-35236](https://github.com/Live-Hack-CVE/CVE-2021-35236)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35236">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35236">
 
 ---
+## CVE-2021-3520 (2021-06-02T13:15:00)
+> There's a flaw in lz4. An attacker who submits a crafted file to an application linked with lz4 may be able to trigger an integer overflow, leading to calling of memmove() on a negative size argument, causing an out-of-bounds write and/or a crash. The greatest impact of this flaw is to availability, with some potential impact to confidentiality and integrity as well.
+- [Live-Hack-CVE/CVE-2021-3520](https://github.com/Live-Hack-CVE/CVE-2021-3520)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3520">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3520">
+
+---
 ## CVE-2021-35133 (2022-09-02T12:15:00)
 > Use after free in the synx driver issue while performing other functions during multiple invocation of synx release calls in Snapdragon Connectivity, Snapdragon Industrial IOT, Snapdragon Mobile
 - [Live-Hack-CVE/CVE-2021-35133](https://github.com/Live-Hack-CVE/CVE-2021-35133)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35133">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35133">
@@ -2621,6 +2667,7 @@
 - [PhuketIsland/CVE-2021-3156-centos7](https://github.com/PhuketIsland/CVE-2021-3156-centos7)	<img alt="forks" src="https://img.shields.io/github/forks/PhuketIsland/CVE-2021-3156-centos7">	<img alt="stars" src="https://img.shields.io/github/stars/PhuketIsland/CVE-2021-3156-centos7">
 - [meowhua15/CVE-2021-3156](https://github.com/meowhua15/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/meowhua15/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/meowhua15/CVE-2021-3156">
 - [Live-Hack-CVE/CVE-2021-31566](https://github.com/Live-Hack-CVE/CVE-2021-31566)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31566">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31566">
+- [Live-Hack-CVE/CVE-2021-3156](https://github.com/Live-Hack-CVE/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3156">
 
 ---
 ## CVE-2021-31356 (2021-10-19T19:15:00)
@@ -2925,6 +2972,11 @@
 - [LalieA/CVE-2021-27928](https://github.com/LalieA/CVE-2021-27928)	<img alt="forks" src="https://img.shields.io/github/forks/LalieA/CVE-2021-27928">	<img alt="stars" src="https://img.shields.io/github/stars/LalieA/CVE-2021-27928">
 
 ---
+## CVE-2021-27906 (2021-03-19T16:15:00)
+> A carefully crafted PDF file can trigger an OutOfMemory-Exception while loading the file. This issue affects Apache PDFBox version 2.0.22 and prior 2.0.x versions.
+- [Live-Hack-CVE/CVE-2021-27906](https://github.com/Live-Hack-CVE/CVE-2021-27906)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27906">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27906">
+
+---
 ## CVE-2021-27905 (2021-04-13T07:15:00)
 > The ReplicationHandler (normally registered at "/replication" under a Solr core) in Apache Solr has a "masterUrl" (also "leaderUrl" alias) parameter that is used to designate another ReplicationHandler on another Solr core to replicate index data into the local core. To prevent a SSRF vulnerability, Solr ought to check these parameters against a similar configuration it uses for the "shards" parameter. Prior to this bug getting fixed, it did not. This problem affects essentially all Solr versions prior to it getting fixed in 8.8.2.
 - [pdelteil/CVE-2021-27905.POC](https://github.com/pdelteil/CVE-2021-27905.POC)	<img alt="forks" src="https://img.shields.io/github/forks/pdelteil/CVE-2021-27905.POC">	<img alt="stars" src="https://img.shields.io/github/stars/pdelteil/CVE-2021-27905.POC">
@@ -2939,6 +2991,11 @@
 - [kahla-sec/CVE-2021-27850_POC](https://github.com/kahla-sec/CVE-2021-27850_POC)	<img alt="forks" src="https://img.shields.io/github/forks/kahla-sec/CVE-2021-27850_POC">	<img alt="stars" src="https://img.shields.io/github/stars/kahla-sec/CVE-2021-27850_POC">
 - [Ovi3/CVE_2021_27850_POC](https://github.com/Ovi3/CVE_2021_27850_POC)	<img alt="forks" src="https://img.shields.io/github/forks/Ovi3/CVE_2021_27850_POC">	<img alt="stars" src="https://img.shields.io/github/stars/Ovi3/CVE_2021_27850_POC">
 - [dorkerdevil/CVE-2021-27850_POC](https://github.com/dorkerdevil/CVE-2021-27850_POC)	<img alt="forks" src="https://img.shields.io/github/forks/dorkerdevil/CVE-2021-27850_POC">	<img alt="stars" src="https://img.shields.io/github/stars/dorkerdevil/CVE-2021-27850_POC">
+
+---
+## CVE-2021-27807 (2021-03-19T16:15:00)
+> A carefully crafted PDF file can trigger an infinite loop while loading the file. This issue affects Apache PDFBox version 2.0.22 and prior 2.0.x versions.
+- [Live-Hack-CVE/CVE-2021-27807](https://github.com/Live-Hack-CVE/CVE-2021-27807)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27807">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27807">
 
 ---
 ## CVE-2021-27663 (2021-08-30T18:15:00)
@@ -3785,9 +3842,24 @@
 - [Live-Hack-CVE/CVE-2021-21957](https://github.com/Live-Hack-CVE/CVE-2021-21957)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21957">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21957">
 
 ---
+## CVE-2021-21955 (2021-12-09T16:15:00)
+> An authentication bypass vulnerability exists in the get_aes_key_info_by_packetid() function of the home_security binary of Anker Eufy Homebase 2 2.1.6.9h. Generic network sniffing can lead to password recovery. An attacker can sniff network traffic to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-21955](https://github.com/Live-Hack-CVE/CVE-2021-21955)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21955">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21955">
+
+---
 ## CVE-2021-21897 (2021-09-08T16:15:00)
 > A code execution vulnerability exists in the DL_Dxf::handleLWPolylineData functionality of Ribbonsoft dxflib 3.17.0. A specially-crafted .dxf file can lead to a heap buffer overflow. An attacker can provide a malicious file to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2021-21897](https://github.com/Live-Hack-CVE/CVE-2021-21897)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21897">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21897">
+
+---
+## CVE-2021-21893 (2021-08-05T21:15:00)
+> A use-after-free vulnerability exists in the JavaScript engine of Foxit Software’s PDF Reader, version 11.0.0.49893. A specially crafted PDF document can trigger the reuse of previously freed memory, which can lead to arbitrary code execution. An attacker needs to trick the user to open the malicious file to trigger this vulnerability. Exploitation is also possible if a user visits a specially crafted, malicious site if the browser plugin extension is enabled.
+- [Live-Hack-CVE/CVE-2021-21893](https://github.com/Live-Hack-CVE/CVE-2021-21893)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21893">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21893">
+
+---
+## CVE-2021-21870 (2021-08-05T21:15:00)
+> A use-after-free vulnerability exists in the JavaScript engine of Foxit Software’s PDF Reader, version 10.1.4.37651. A specially crafted PDF document can trigger the reuse of previously free memory, which can lead to arbitrary code execution. An attacker needs to trick the user into opening a malicious file or site to trigger this vulnerability if the browser plugin extension is enabled.
+- [Live-Hack-CVE/CVE-2021-21870](https://github.com/Live-Hack-CVE/CVE-2021-21870)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21870">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21870">
 
 ---
 ## CVE-2021-21869 (2021-08-25T19:15:00)
@@ -3795,9 +3867,24 @@
 - [Live-Hack-CVE/CVE-2021-21869](https://github.com/Live-Hack-CVE/CVE-2021-21869)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21869">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21869">
 
 ---
+## CVE-2021-21865 (2021-08-02T21:15:00)
+> A unsafe deserialization vulnerability exists in the PackageManagement.plugin ExtensionMethods.Clone() functionality of CODESYS GmbH CODESYS Development System 3.5.16. A specially crafted file can lead to arbitrary command execution. An attacker can provide a malicious file to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-21865](https://github.com/Live-Hack-CVE/CVE-2021-21865)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21865">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21865">
+
+---
 ## CVE-2021-21864 (2021-08-02T21:15:00)
 > A unsafe deserialization vulnerability exists in the ComponentModel ComponentManager.StartupCultureSettings functionality of CODESYS GmbH CODESYS Development System 3.5.16 and 3.5.17. A specially crafted file can lead to arbitrary command execution. An attacker can provide a malicious file to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2021-21864](https://github.com/Live-Hack-CVE/CVE-2021-21864)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21864">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21864">
+
+---
+## CVE-2021-21860 (2021-08-16T20:15:00)
+> An exploitable integer truncation vulnerability exists within the MPEG-4 decoding functionality of the GPAC Project on Advanced Content library v1.0.1. A specially crafted MPEG-4 input can cause an improper memory allocation resulting in a heap-based buffer overflow that causes memory corruption. The FOURCC code, 'trik', is parsed by the function within the library. An attacker can convince a user to open a video to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-21860](https://github.com/Live-Hack-CVE/CVE-2021-21860)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21860">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21860">
+
+---
+## CVE-2021-21859 (2021-08-16T20:15:00)
+> An exploitable integer truncation vulnerability exists within the MPEG-4 decoding functionality of the GPAC Project on Advanced Content library v1.0.1. The stri_box_read function is used when processing atoms using the 'stri' FOURCC code. An attacker can convince a user to open a video to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-21859](https://github.com/Live-Hack-CVE/CVE-2021-21859)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21859">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21859">
 
 ---
 ## CVE-2021-21830 (2021-08-13T19:15:00)
