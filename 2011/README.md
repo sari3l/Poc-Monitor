@@ -1,6 +1,11 @@
 # 2011 List
 
 ---
+## CVE-2011-4566 (2011-11-29T00:55:00)
+> Integer overflow in the exif_process_IFD_TAG function in exif.c in the exif extension in PHP 5.4.0beta2 on 32-bit platforms allows remote attackers to read the contents of arbitrary memory locations or cause a denial of service via a crafted offset_val value in an EXIF header in a JPEG file, a different vulnerability than CVE-2011-0708.
+- [Live-Hack-CVE/CVE-2011-4566](https://github.com/Live-Hack-CVE/CVE-2011-4566)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-4566">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-4566">
+
+---
 ## CVE-2011-2523 (2019-11-27T21:15:00)
 > vsftpd 2.3.4 downloaded between 20110630 and 20110703 contains a backdoor which opens a shell on port 6200/tcp.
 - [padsalatushal/CVE-2011-2523](https://github.com/padsalatushal/CVE-2011-2523)	<img alt="forks" src="https://img.shields.io/github/forks/padsalatushal/CVE-2011-2523">	<img alt="stars" src="https://img.shields.io/github/stars/padsalatushal/CVE-2011-2523">
@@ -13,6 +18,11 @@
 - [davidlares/vsftpd-exploitation](https://github.com/davidlares/vsftpd-exploitation)	<img alt="forks" src="https://img.shields.io/github/forks/davidlares/vsftpd-exploitation">	<img alt="stars" src="https://img.shields.io/github/stars/davidlares/vsftpd-exploitation">
 - [HerculesRD/vsftpd2.3.4PyExploit](https://github.com/HerculesRD/vsftpd2.3.4PyExploit)	<img alt="forks" src="https://img.shields.io/github/forks/HerculesRD/vsftpd2.3.4PyExploit">	<img alt="stars" src="https://img.shields.io/github/stars/HerculesRD/vsftpd2.3.4PyExploit">
 - [XiangSi-Howard/CTF---CVE-2011-2523](https://github.com/XiangSi-Howard/CTF---CVE-2011-2523)	<img alt="forks" src="https://img.shields.io/github/forks/XiangSi-Howard/CTF---CVE-2011-2523">	<img alt="stars" src="https://img.shields.io/github/stars/XiangSi-Howard/CTF---CVE-2011-2523">
+
+---
+## CVE-2011-2522 (2011-07-29T20:55:00)
+> Multiple cross-site request forgery (CSRF) vulnerabilities in the Samba Web Administration Tool (SWAT) in Samba 3.x before 3.5.10 allow remote attackers to hijack the authentication of administrators for requests that (1) shut down daemons, (2) start daemons, (3) add shares, (4) remove shares, (5) add printers, (6) remove printers, (7) add user accounts, or (8) remove user accounts, as demonstrated by certain start, stop, and restart parameters to the status program.
+- [Live-Hack-CVE/CVE-2011-2522](https://github.com/Live-Hack-CVE/CVE-2011-2522)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-2522">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-2522">
 
 ---
 ## CVE-2011-0104 (2011-04-13T18:55:00)

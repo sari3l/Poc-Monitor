@@ -6,6 +6,11 @@
 - [Live-Hack-CVE/CVE-2007-5536](https://github.com/Live-Hack-CVE/CVE-2007-5536)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2007-5536">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2007-5536">
 
 ---
+## CVE-2007-3007 (2007-06-04T17:30:00)
+> PHP 5 before 5.2.3 does not enforce the open_basedir or safe_mode restriction in certain cases, which allows context-dependent attackers to determine the existence of arbitrary files by checking if the readfile function returns a string.  NOTE: this issue might also involve the realpath function.
+- [Live-Hack-CVE/CVE-2007-3007](https://github.com/Live-Hack-CVE/CVE-2007-3007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2007-3007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2007-3007">
+
+---
 ## CVE-2007-2447 (2007-05-14T21:19:00)
 > The MS-RPC functionality in smbd in Samba 3.0.0 through 3.0.25rc3 allows remote attackers to execute arbitrary commands via shell metacharacters involving the (1) SamrChangePassword function, when the "username map script" smb.conf option is enabled, and allows remote authenticated users to execute commands via shell metacharacters involving other MS-RPC functions in the (2) remote printer and (3) file share management.
 - [mr-l0n3lly/CVE-2007-2447](https://github.com/mr-l0n3lly/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/mr-l0n3lly/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/mr-l0n3lly/CVE-2007-2447">
@@ -33,6 +38,11 @@
 - [Aviksaikat/CVE-2007-2447](https://github.com/Aviksaikat/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/Aviksaikat/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/Aviksaikat/CVE-2007-2447">
 - [HerculesRD/PyUsernameMapScriptRCE](https://github.com/HerculesRD/PyUsernameMapScriptRCE)	<img alt="forks" src="https://img.shields.io/github/forks/HerculesRD/PyUsernameMapScriptRCE">	<img alt="stars" src="https://img.shields.io/github/stars/HerculesRD/PyUsernameMapScriptRCE">
 - [k4u5h41/CVE-2007-2447](https://github.com/k4u5h41/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/k4u5h41/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/k4u5h41/CVE-2007-2447">
+
+---
+## CVE-2007-2444 (2007-05-14T21:19:00)
+> Logic error in the SID/Name translation functionality in smbd in Samba 3.0.23d through 3.0.25pre2 allows local users to gain temporary privileges and execute SMB/CIFS protocol operations via unspecified vectors that cause the daemon to transition to the root user.
+- [Live-Hack-CVE/CVE-2007-2444](https://github.com/Live-Hack-CVE/CVE-2007-2444)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2007-2444">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2007-2444">
 
 ---
 ## CVE-2007-20001 (2022-02-06T21:15:00)

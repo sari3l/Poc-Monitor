@@ -92,6 +92,21 @@
 - [0x00-0x00/CVE-2018-7422](https://github.com/0x00-0x00/CVE-2018-7422)	<img alt="forks" src="https://img.shields.io/github/forks/0x00-0x00/CVE-2018-7422">	<img alt="stars" src="https://img.shields.io/github/stars/0x00-0x00/CVE-2018-7422">
 
 ---
+## CVE-2018-7167 (2018-06-13T16:29:00)
+> Calling Buffer.fill() or Buffer.alloc() with some parameters can lead to a hang which could result in a Denial of Service. In order to address this vulnerability, the implementations of Buffer.alloc() and Buffer.fill() were updated so that they zero fill instead of hanging in these cases. All versions of Node.js 6.x (LTS "Boron"), 8.x (LTS "Carbon"), and 9.x are vulnerable. All versions of Node.js 10.x (Current) are NOT vulnerable.
+- [Live-Hack-CVE/CVE-2018-7167](https://github.com/Live-Hack-CVE/CVE-2018-7167)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-7167">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-7167">
+
+---
+## CVE-2018-7164 (2018-06-13T16:29:00)
+> Node.js versions 9.7.0 and later and 10.x are vulnerable and the severity is MEDIUM. A bug introduced in 9.7.0 increases the memory consumed when reading from the network into JavaScript using the net.Socket object directly as a stream. An attacker could use this cause a denial of service by sending tiny chunks of data in short succession. This vulnerability was restored by reverting to the prior behaviour.
+- [Live-Hack-CVE/CVE-2018-7164](https://github.com/Live-Hack-CVE/CVE-2018-7164)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-7164">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-7164">
+
+---
+## CVE-2018-7158 (2018-05-17T14:29:00)
+> The `'path'` module in the Node.js 4.x release line contains a potential regular expression denial of service (ReDoS) vector. The code in question was replaced in Node.js 6.x and later so this vulnerability only impacts all versions of Node.js 4.x. The regular expression, `splitPathRe`, used within the `'path'` module for the various path parsing functions, including `path.dirname()`, `path.extname()` and `path.parse()` was structured in such a way as to allow an attacker to craft a string, that when passed through one of these functions, could take a significant amount of time to evaluate, potentially leading to a full denial of service.
+- [Live-Hack-CVE/CVE-2018-7158](https://github.com/Live-Hack-CVE/CVE-2018-7158)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-7158">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-7158">
+
+---
 ## CVE-2018-6574 (2018-02-07T21:29:00)
 > Go before 1.8.7, Go 1.9.x before 1.9.4, and Go 1.10 pre-releases before Go 1.10rc2 allow "go get" remote command execution during source code build, by leveraging the gcc or clang plugin feature, because -fplugin= and -plugin= arguments were not blocked.
 - [NBAquicknut/CVE-2018-6574](https://github.com/NBAquicknut/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/NBAquicknut/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/NBAquicknut/CVE-2018-6574">
@@ -503,6 +518,11 @@
 - [Live-Hack-CVE/CVE-2018-12207](https://github.com/Live-Hack-CVE/CVE-2018-12207)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-12207">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-12207">
 
 ---
+## CVE-2018-12116 (2018-11-28T17:29:00)
+> Node.js: All versions prior to Node.js 6.15.0 and 8.14.0: HTTP request splitting: If Node.js can be convinced to use unsanitized user-provided Unicode data for the `path` option of an HTTP request, then data can be provided which will trigger a second, unexpected, and user-defined HTTP request to made to the same server.
+- [Live-Hack-CVE/CVE-2018-12116](https://github.com/Live-Hack-CVE/CVE-2018-12116)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-12116">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-12116">
+
+---
 ## CVE-2018-11321 (2018-05-22T15:29:00)
 > An issue was discovered in com_fields in Joomla! Core before 3.8.8. Inadequate filtering allows users authorised to create custom fields to manipulate the filtering options and inject an unvalidated option.
 - [ExploitCN/CVE-2018-11321](https://github.com/ExploitCN/CVE-2018-11321)	<img alt="forks" src="https://img.shields.io/github/forks/ExploitCN/CVE-2018-11321">	<img alt="stars" src="https://img.shields.io/github/stars/ExploitCN/CVE-2018-11321">
@@ -576,6 +596,11 @@
 - [SilasSpringer/CVE-2018-10933](https://github.com/SilasSpringer/CVE-2018-10933)	<img alt="forks" src="https://img.shields.io/github/forks/SilasSpringer/CVE-2018-10933">	<img alt="stars" src="https://img.shields.io/github/stars/SilasSpringer/CVE-2018-10933">
 
 ---
+## CVE-2018-1057 (2018-03-13T16:29:00)
+> On a Samba 4 AD DC the LDAP server in all versions of Samba from 4.0.0 onwards incorrectly validates permissions to modify passwords over LDAP allowing authenticated users to change any other users' passwords, including administrative users and privileged service accounts (eg Domain Controllers).
+- [Live-Hack-CVE/CVE-2018-1057](https://github.com/Live-Hack-CVE/CVE-2018-1057)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-1057">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-1057">
+
+---
 ## CVE-2018-1042 (2018-01-22T08:29:00)
 > Moodle 3.x has Server Side Request Forgery in the filepicker.
 - [UDPsycho/Moodle-CVE-2018-1042](https://github.com/UDPsycho/Moodle-CVE-2018-1042)	<img alt="forks" src="https://img.shields.io/github/forks/UDPsycho/Moodle-CVE-2018-1042">	<img alt="stars" src="https://img.shields.io/github/stars/UDPsycho/Moodle-CVE-2018-1042">
@@ -586,3 +611,13 @@
 ## CVE-2018-0798 (2018-01-10T01:29:00)
 > Equation Editor in Microsoft Office 2007, Microsoft Office 2010, Microsoft Office 2013, and Microsoft Office 2016 allows a remote code execution vulnerability due to the way objects are handled in memory, aka "Microsoft Office Memory Corruption Vulnerability".
 - [Sunqiz/CVE-2018-0798-reproduction](https://github.com/Sunqiz/CVE-2018-0798-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Sunqiz/CVE-2018-0798-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Sunqiz/CVE-2018-0798-reproduction">
+
+---
+## CVE-2018-0735 (2018-10-29T13:29:00)
+> The OpenSSL ECDSA signature algorithm has been shown to be vulnerable to a timing side channel attack. An attacker could use variations in the signing algorithm to recover the private key. Fixed in OpenSSL 1.1.0j (Affected 1.1.0-1.1.0i). Fixed in OpenSSL 1.1.1a (Affected 1.1.1).
+- [Live-Hack-CVE/CVE-2018-0735](https://github.com/Live-Hack-CVE/CVE-2018-0735)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-0735">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-0735">
+
+---
+## CVE-2018-0734 (2018-10-30T12:29:00)
+> The OpenSSL DSA signature algorithm has been shown to be vulnerable to a timing side channel attack. An attacker could use variations in the signing algorithm to recover the private key. Fixed in OpenSSL 1.1.1a (Affected 1.1.1). Fixed in OpenSSL 1.1.0j (Affected 1.1.0-1.1.0i). Fixed in OpenSSL 1.0.2q (Affected 1.0.2-1.0.2p).
+- [Live-Hack-CVE/CVE-2018-0734](https://github.com/Live-Hack-CVE/CVE-2018-0734)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-0734">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-0734">

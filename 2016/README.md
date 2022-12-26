@@ -149,6 +149,11 @@
 - [KosukeShimofuji/CVE-2016-5734](https://github.com/KosukeShimofuji/CVE-2016-5734)	<img alt="forks" src="https://img.shields.io/github/forks/KosukeShimofuji/CVE-2016-5734">	<img alt="stars" src="https://img.shields.io/github/stars/KosukeShimofuji/CVE-2016-5734">
 
 ---
+## CVE-2016-5385 (2016-07-19T02:00:00)
+> PHP through 7.0.8 does not attempt to address RFC 3875 section 4.1.18 namespace conflicts and therefore does not protect applications from the presence of untrusted client data in the HTTP_PROXY environment variable, which might allow remote attackers to redirect an application's outbound HTTP traffic to an arbitrary proxy server via a crafted Proxy header in an HTTP request, as demonstrated by (1) an application that makes a getenv('HTTP_PROXY') call or (2) a CGI configuration of PHP, aka an "httpoxy" issue.
+- [Live-Hack-CVE/CVE-2016-5385](https://github.com/Live-Hack-CVE/CVE-2016-5385)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-5385">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-5385">
+
+---
 ## CVE-2016-5195 (2016-11-10T21:59:00)
 > Race condition in mm/gup.c in the Linux kernel 2.x through 4.x before 4.8.3 allows local users to gain privileges by leveraging incorrect handling of a copy-on-write (COW) feature to write to a read-only memory mapping, as exploited in the wild in October 2016, aka "Dirty COW."
 - [fei9747/CVE-2016-5195](https://github.com/fei9747/CVE-2016-5195)	<img alt="forks" src="https://img.shields.io/github/forks/fei9747/CVE-2016-5195">	<img alt="stars" src="https://img.shields.io/github/stars/fei9747/CVE-2016-5195">
@@ -286,6 +291,22 @@
 ## CVE-2016-2180 (2016-08-01T02:59:00)
 > The TS_OBJ_print_bio function in crypto/ts/ts_lib.c in the X.509 Public Key Infrastructure Time-Stamp Protocol (TSP) implementation in OpenSSL through 1.0.2h allows remote attackers to cause a denial of service (out-of-bounds read and application crash) via a crafted time-stamp file that is mishandled by the "openssl ts" command.
 - [Live-Hack-CVE/CVE-2016-2180](https://github.com/Live-Hack-CVE/CVE-2016-2180)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-2180">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-2180">
+
+---
+## CVE-2016-2123 (2018-11-01T13:29:00)
+> A flaw was found in samba versions 4.0.0 to 4.5.2. The Samba routine ndr_pull_dnsp_name contains an integer wrap problem, leading to an attacker-controlled memory overwrite. ndr_pull_dnsp_name parses data from the Samba Active Directory ldb database. Any user who can write to the dnsRecord attribute over LDAP can trigger this memory corruption. By default, all authenticated LDAP users can write to the dnsRecord attribute on new DNS objects. This makes the defect a remote privilege escalation.
+- [Live-Hack-CVE/CVE-2016-2123](https://github.com/Live-Hack-CVE/CVE-2016-2123)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-2123">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-2123">
+
+---
+## CVE-2016-2119 (2016-07-07T15:59:00)
+> libcli/smb/smbXcli_base.c in Samba 4.x before 4.2.14, 4.3.x before 4.3.11, and 4.4.x before 4.4.5 allows man-in-the-middle attackers to bypass a client-signing protection mechanism, and consequently spoof SMB2 and SMB3 servers, via the (1) SMB2_SESSION_FLAG_IS_GUEST or (2) SMB2_SESSION_FLAG_IS_NULL flag.
+- [Live-Hack-CVE/CVE-2016-2119](https://github.com/Live-Hack-CVE/CVE-2016-2119)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-2119">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-2119">
+
+---
+## CVE-2016-2118 (2016-04-12T23:59:00)
+> The MS-SAMR and MS-LSAD protocol implementations in Samba 3.x and 4.x before 4.2.11, 4.3.x before 4.3.8, and 4.4.x before 4.4.2 mishandle DCERPC connections, which allows man-in-the-middle attackers to perform protocol-downgrade attacks and impersonate users by modifying the client-server data stream, aka "BADLOCK."
+- [Live-Hack-CVE/CVE-2016-2118](https://github.com/Live-Hack-CVE/CVE-2016-2118)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-2118">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-2118">
+- [nickanderson/cfengine-CVE-2016-2118](https://github.com/nickanderson/cfengine-CVE-2016-2118)	<img alt="forks" src="https://img.shields.io/github/forks/nickanderson/cfengine-CVE-2016-2118">	<img alt="stars" src="https://img.shields.io/github/stars/nickanderson/cfengine-CVE-2016-2118">
 
 ---
 ## CVE-2016-2105 (2016-05-05T01:59:00)

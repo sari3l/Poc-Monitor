@@ -38,6 +38,11 @@
 - [Sunqiz/CVE-2010-3333-reproduction](https://github.com/Sunqiz/CVE-2010-3333-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Sunqiz/CVE-2010-3333-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Sunqiz/CVE-2010-3333-reproduction">
 
 ---
+## CVE-2010-3069 (2010-09-15T18:00:00)
+> Stack-based buffer overflow in the (1) sid_parse and (2) dom_sid_parse functions in Samba before 3.5.5 allows remote attackers to cause a denial of service (crash) and possibly execute arbitrary code via a crafted Windows Security ID (SID) on a file share.
+- [Live-Hack-CVE/CVE-2010-3069](https://github.com/Live-Hack-CVE/CVE-2010-3069)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-3069">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-3069">
+
+---
 ## CVE-2010-2553 (2010-08-11T18:47:00)
 > The Cinepak codec in Microsoft Windows XP SP2 and SP3, Windows Vista SP1 and SP2, and Windows 7 does not properly decompress media files, which allows remote attackers to execute arbitrary code via a crafted file, aka "Cinepak Codec Decompression Vulnerability."
 - [Sunqiz/CVE-2010-2553-reproduction](https://github.com/Sunqiz/CVE-2010-2553-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Sunqiz/CVE-2010-2553-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Sunqiz/CVE-2010-2553-reproduction">
@@ -59,6 +64,11 @@ Any Unreal3.2.8.1.tar.gz downloaded BEFORE November 10 2009 should be safe, but 
 - [XorgX304/UnrealIRCd-3.2.8.1-RCE](https://github.com/XorgX304/UnrealIRCd-3.2.8.1-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/XorgX304/UnrealIRCd-3.2.8.1-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/XorgX304/UnrealIRCd-3.2.8.1-RCE">
 
 ---
+## CVE-2010-2063 (2010-06-17T16:30:00)
+> Buffer overflow in the SMB1 packet chaining implementation in the chain_reply function in process.c in smbd in Samba 3.0.x before 3.3.13 allows remote attackers to cause a denial of service (memory corruption and daemon crash) or possibly execute arbitrary code via a crafted field in a packet.
+- [Live-Hack-CVE/CVE-2010-2063](https://github.com/Live-Hack-CVE/CVE-2010-2063)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-2063">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-2063">
+
+---
 ## CVE-2010-1622 (2010-06-21T16:30:00)
 > SpringSource Spring Framework 2.5.x before 2.5.6.SEC02, 2.5.7 before 2.5.7.SR01, and 3.0.x before 3.0.3 allows remote attackers to execute arbitrary code via an HTTP request containing class.classLoader.URLs[0]=jar: followed by a URL of a crafted .jar file. The previous CVSS assessment 5.1 (AV:N/AC:M/Au:N/C:P/I:P/A:P) was provided at the time of initial analysis based on the best available published information at that time.  The score has be updated to reflect the impact to Oracle products per <a href=http://www.oracle.com/technetwork/topics/security/cpuoct2015-2367953.html> Oracle Critical Patch Update Advisory - October 2015 </a>. Other products listed as vulnerable may or may not be similarly impacted.
 - [HandsomeCat00/Spring-CVE-2010-1622](https://github.com/HandsomeCat00/Spring-CVE-2010-1622)	<img alt="forks" src="https://img.shields.io/github/forks/HandsomeCat00/Spring-CVE-2010-1622">	<img alt="stars" src="https://img.shields.io/github/stars/HandsomeCat00/Spring-CVE-2010-1622">
@@ -69,3 +79,8 @@ Any Unreal3.2.8.1.tar.gz downloaded BEFORE November 10 2009 should be safe, but 
 ## CVE-2010-1281 (2010-05-13T17:30:00)
 > iml32.dll in Adobe Shockwave Player before 11.5.7.609 does not validate a certain value from a file before using it in file-pointer calculations, which allows remote attackers to execute arbitrary code or cause a denial of service (memory corruption) via a crafted .dir (aka Director) file.
 - [Live-Hack-CVE/CVE-2010-1281](https://github.com/Live-Hack-CVE/CVE-2010-1281)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-1281">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-1281">
+
+---
+## CVE-2010-0215 (2011-01-07T23:00:00)
+> ActiveCollab before 2.3.2 allows remote authenticated users to bypass intended access restrictions, and (1) delete an attachment or (2) subscribe to an object, via a crafted URL.
+- [Live-Hack-CVE/CVE-2010-0215](https://github.com/Live-Hack-CVE/CVE-2010-0215)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-0215">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-0215">
