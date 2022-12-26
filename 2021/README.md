@@ -1500,6 +1500,11 @@
 - [HuskyHacks/CVE-2021-38817-Remote-OS-Command-Injection](https://github.com/HuskyHacks/CVE-2021-38817-Remote-OS-Command-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/HuskyHacks/CVE-2021-38817-Remote-OS-Command-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/HuskyHacks/CVE-2021-38817-Remote-OS-Command-Injection">
 
 ---
+## CVE-2021-38714 (2021-08-24T14:15:00)
+> In Plib through 1.85, there is an integer overflow vulnerability that could result in arbitrary code execution. The vulnerability is found in ssgLoadTGA() function in src/ssg/ssgLoadTGA.cxx file.
+- [Live-Hack-CVE/CVE-2021-38714](https://github.com/Live-Hack-CVE/CVE-2021-38714)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38714">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38714">
+
+---
 ## CVE-2021-38647 (2021-09-15T12:15:00)
 > Open Management Infrastructure Remote Code Execution Vulnerability
 - [Vulnmachines/OMIGOD_cve-2021-38647](https://github.com/Vulnmachines/OMIGOD_cve-2021-38647)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/OMIGOD_cve-2021-38647">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/OMIGOD_cve-2021-38647">
