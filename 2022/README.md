@@ -14055,6 +14055,7 @@
 - [Ziggy78/CVE-2022-26809-RCE-MASS](https://github.com/Ziggy78/CVE-2022-26809-RCE-MASS)	<img alt="forks" src="https://img.shields.io/github/forks/Ziggy78/CVE-2022-26809-RCE-MASS">	<img alt="stars" src="https://img.shields.io/github/stars/Ziggy78/CVE-2022-26809-RCE-MASS">
 - [Ziggy78/CVE-2022-26809-FULL-RCE](https://github.com/Ziggy78/CVE-2022-26809-FULL-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Ziggy78/CVE-2022-26809-FULL-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Ziggy78/CVE-2022-26809-FULL-RCE">
 - [scoobyd00bi/CVE-2022-26809-RCE](https://github.com/scoobyd00bi/CVE-2022-26809-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/scoobyd00bi/CVE-2022-26809-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/scoobyd00bi/CVE-2022-26809-RCE">
+- [anonymouss1276/Cve-2022-26809](https://github.com/anonymouss1276/Cve-2022-26809)	<img alt="forks" src="https://img.shields.io/github/forks/anonymouss1276/Cve-2022-26809">	<img alt="stars" src="https://img.shields.io/github/stars/anonymouss1276/Cve-2022-26809">
 
 ---
 ## CVE-2022-26806 (2022-12-13T19:15:00)
