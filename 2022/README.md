@@ -6783,6 +6783,21 @@
 - [Live-Hack-CVE/CVE-2022-3867](https://github.com/Live-Hack-CVE/CVE-2022-3867)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3867">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3867">
 
 ---
+## CVE-2022-38665 (2022-08-23T17:15:00)
+> Jenkins CollabNet Plugins Plugin 2.0.8 and earlier stores a RabbitMQ password unencrypted in its global configuration file on the Jenkins controller where it can be viewed by users with access to the Jenkins controller file system.
+- [Live-Hack-CVE/CVE-2022-38665](https://github.com/Live-Hack-CVE/CVE-2022-38665)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38665">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38665">
+
+---
+## CVE-2022-38664 (2022-08-23T17:15:00)
+> Jenkins Job Configuration History Plugin 1165.v8cc9fd1f4597 and earlier does not escape the job name on the System Configuration History page, resulting in a stored cross-site scripting (XSS) vulnerability exploitable by attackers able to configure job names.
+- [Live-Hack-CVE/CVE-2022-38664](https://github.com/Live-Hack-CVE/CVE-2022-38664)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38664">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38664">
+
+---
+## CVE-2022-38663 (2022-08-23T17:15:00)
+> Jenkins Git Plugin 4.11.4 and earlier does not properly mask (i.e., replace with asterisks) credentials in the build log provided by the Git Username and Password (`gitUsernamePassword`) credentials binding.
+- [Live-Hack-CVE/CVE-2022-38663](https://github.com/Live-Hack-CVE/CVE-2022-38663)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38663">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38663">
+
+---
 ## CVE-2022-3866 (2022-11-10T06:15:00)
 > HashiCorp Nomad and Nomad Enterprise 1.4.0 up to 1.4.1 workload identity token can list non-sensitive metadata for paths under nomad/ that belong to other jobs in the same namespace. Fixed in 1.4.2.
 - [Live-Hack-CVE/CVE-2022-3866](https://github.com/Live-Hack-CVE/CVE-2022-3866)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3866">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3866">
@@ -8987,6 +9002,11 @@
 - [Live-Hack-CVE/CVE-2022-36400](https://github.com/Live-Hack-CVE/CVE-2022-36400)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36400">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36400">
 
 ---
+## CVE-2022-36394 (2022-08-23T16:15:00)
+> Authenticated (author+) SQL Injection (SQLi) vulnerability in Contest Gallery plugin <= 17.0.4 at WordPress.
+- [Live-Hack-CVE/CVE-2022-36394](https://github.com/Live-Hack-CVE/CVE-2022-36394)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36394">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36394">
+
+---
 ## CVE-2022-36390 (2022-09-21T20:15:00)
 > Authenticated (subscriber+) Reflected Cross-Site Scripting (XSS) vulnerability in Totalsoft Event Calendar – Calendar plugin <= 1.4.6 at WordPress.
 - [Live-Hack-CVE/CVE-2022-36390](https://github.com/Live-Hack-CVE/CVE-2022-36390)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36390">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36390">
@@ -8997,6 +9017,11 @@
 - [Live-Hack-CVE/CVE-2022-3639](https://github.com/Live-Hack-CVE/CVE-2022-3639)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3639">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3639">
 
 ---
+## CVE-2022-36389 (2022-08-23T16:15:00)
+> Cross-Site Request Forgery (CSRF) vulnerability in WordPlus Better Messages plugin <= 1.9.9.148 at WordPress.
+- [Live-Hack-CVE/CVE-2022-36389](https://github.com/Live-Hack-CVE/CVE-2022-36389)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36389">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36389">
+
+---
 ## CVE-2022-36386 (2022-09-21T20:15:00)
 > Authenticated Arbitrary Code Execution vulnerability in Soflyy Import any XML or CSV File to WordPress plugin <= 3.6.7 at WordPress.
 - [Live-Hack-CVE/CVE-2022-36386](https://github.com/Live-Hack-CVE/CVE-2022-36386)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36386">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36386">
@@ -9005,6 +9030,11 @@
 ## CVE-2022-36383 (2022-09-21T20:15:00)
 > Multiple Authenticated (contributor+) Stored Cross-Site Scripting (XSS) vulnerabilities in WHA Word Search Puzzles game plugin <= 2.0.1 at WordPress.
 - [Live-Hack-CVE/CVE-2022-36383](https://github.com/Live-Hack-CVE/CVE-2022-36383)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36383">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36383">
+
+---
+## CVE-2022-36379 (2022-08-23T16:15:00)
+> Cross-Site Request Forgery (CSRF) leading to plugin settings update in YooMoney ?Kassa ??? WooCommerce plugin <= 2.3.0 at WordPress.
+- [Live-Hack-CVE/CVE-2022-36379](https://github.com/Live-Hack-CVE/CVE-2022-36379)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36379">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36379">
 
 ---
 ## CVE-2022-36377 (2022-11-11T16:15:00)
@@ -9030,6 +9060,11 @@
 ## CVE-2022-36349 (2022-11-11T16:15:00)
 > Insecure default variable initialization in BIOS firmware for some Intel(R) NUC Boards and Intel(R) NUC Kits before version MYi30060 may allow an authenticated user to potentially enable denial of service via local access.
 - [Live-Hack-CVE/CVE-2022-36349](https://github.com/Live-Hack-CVE/CVE-2022-36349)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36349">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36349">
+
+---
+## CVE-2022-36341 (2022-08-23T16:15:00)
+> Authenticated (subscriber+) plugin settings change leading to Stored Cross-Site Scripting (XSS) vulnerability in Akash soni's AS – Create Pinterest Pinboard Pages plugin <= 1.0 at WordPress.
+- [Live-Hack-CVE/CVE-2022-36341](https://github.com/Live-Hack-CVE/CVE-2022-36341)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36341">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36341">
 
 ---
 ## CVE-2022-36340 (2022-09-23T19:15:00)
@@ -9060,6 +9095,16 @@
 ## CVE-2022-3630 (2022-10-21T06:15:00)
 > A vulnerability was found in Linux Kernel. It has been rated as problematic. This issue affects some unknown processing of the file fs/fscache/cookie.c of the component IPsec. The manipulation leads to memory leak. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-211931.
 - [Live-Hack-CVE/CVE-2022-3630](https://github.com/Live-Hack-CVE/CVE-2022-3630)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3630">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3630">
+
+---
+## CVE-2022-36292 (2022-08-23T16:15:00)
+> Cross-Site Request Forgery (CSRF) vulnerabilities in WPChill Gallery PhotoBlocks plugin <= 1.2.6 at WordPress.
+- [Live-Hack-CVE/CVE-2022-36292](https://github.com/Live-Hack-CVE/CVE-2022-36292)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36292">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36292">
+
+---
+## CVE-2022-36288 (2022-08-23T16:15:00)
+> Multiple Cross-Site Request Forgery (CSRF) vulnerabilities in W3 Eden Download Manager plugin <= 3.2.48 at WordPress.
+- [Live-Hack-CVE/CVE-2022-36288](https://github.com/Live-Hack-CVE/CVE-2022-36288)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36288">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36288">
 
 ---
 ## CVE-2022-36271 (2022-09-07T14:15:00)
@@ -9861,6 +9906,11 @@
 - [ly1g3/Joplin-CVE-2022-35131](https://github.com/ly1g3/Joplin-CVE-2022-35131)	<img alt="forks" src="https://img.shields.io/github/forks/ly1g3/Joplin-CVE-2022-35131">	<img alt="stars" src="https://img.shields.io/github/stars/ly1g3/Joplin-CVE-2022-35131">
 
 ---
+## CVE-2022-35115 (2022-08-23T18:15:00)
+> IceWarp WebClient DC2 - Update 2 Build 9 (13.0.2.9) was discovered to contain a SQL injection vulnerability via the search parameter at /webmail/server/webmail.php.
+- [Live-Hack-CVE/CVE-2022-35115](https://github.com/Live-Hack-CVE/CVE-2022-35115)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35115">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35115">
+
+---
 ## CVE-2022-35099 (2022-09-23T18:15:00)
 > SWFTools commit 772e55a2 was discovered to contain a stack overflow via ImageStream::getPixel(unsigned char*) at /xpdf/Stream.cc.
 - [Live-Hack-CVE/CVE-2022-35099](https://github.com/Live-Hack-CVE/CVE-2022-35099)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35099">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35099">
@@ -10310,10 +10360,20 @@
 - [Live-Hack-CVE/CVE-2022-3467](https://github.com/Live-Hack-CVE/CVE-2022-3467)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3467">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3467">
 
 ---
+## CVE-2022-34658 (2022-08-23T16:15:00)
+> Multiple Authenticated (contributor+) Persistent Cross-Site Scripting (XSS) vulnerabilities in W3 Eden Download Manager plugin <= 3.2.48 at WordPress.
+- [Live-Hack-CVE/CVE-2022-34658](https://github.com/Live-Hack-CVE/CVE-2022-34658)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34658">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34658">
+
+---
 ## CVE-2022-3465 (2022-10-12T10:15:00)
 > A vulnerability classified as critical was found in Mediabridge Medialink. This vulnerability affects unknown code of the file /index.asp. The manipulation leads to improper authentication. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-210700.
 - [Live-Hack-CVE/CVE-2022-3465](https://github.com/Live-Hack-CVE/CVE-2022-3465)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3465">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3465">
 - [Live-Hack-CVE/CVE-2022-34654](https://github.com/Live-Hack-CVE/CVE-2022-34654)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34654">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34654">
+
+---
+## CVE-2022-34648 (2022-08-23T16:15:00)
+> Authenticated (author+) Stored Cross-Site Scripting (XSS) vulnerability in dmitrylitvinov Uploading SVG, WEBP and ICO files plugin <= 1.0.1 at WordPress.
+- [Live-Hack-CVE/CVE-2022-34648](https://github.com/Live-Hack-CVE/CVE-2022-34648)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34648">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34648">
 
 ---
 ## CVE-2022-3458 (2022-10-12T07:15:00)
@@ -10588,6 +10648,11 @@
 - [Live-Hack-CVE/CVE-2022-3392](https://github.com/Live-Hack-CVE/CVE-2022-3392)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3392">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3392">
 
 ---
+## CVE-2022-33916 (2022-08-23T01:15:00)
+> OPC UA .NET Standard Reference Server 1.04.368 allows a remote attacker to cause the application to access sensitive information.
+- [Live-Hack-CVE/CVE-2022-33916](https://github.com/Live-Hack-CVE/CVE-2022-33916)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33916">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33916">
+
+---
 ## CVE-2022-3391 (2022-10-25T17:15:00)
 > The Retain Live Chat WordPress plugin through 0.1 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup)
 - [Live-Hack-CVE/CVE-2022-3391](https://github.com/Live-Hack-CVE/CVE-2022-3391)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3391">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3391">
@@ -10853,6 +10918,11 @@
 ## CVE-2022-3315 (2022-11-01T20:15:00)
 > Type confusion in Blink in Google Chrome prior to 106.0.5249.62 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: Low)
 - [Live-Hack-CVE/CVE-2022-3315](https://github.com/Live-Hack-CVE/CVE-2022-3315)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3315">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3315">
+
+---
+## CVE-2022-33142 (2022-08-23T16:15:00)
+> Authenticated (subscriber+) Denial Of Service (DoS) vulnerability in WordPlus WordPress Better Messages plugin <= 1.9.10.57 at WordPress.
+- [Live-Hack-CVE/CVE-2022-33142](https://github.com/Live-Hack-CVE/CVE-2022-33142)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33142">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33142">
 
 ---
 ## CVE-2022-3314 (2022-11-01T20:15:00)
@@ -12842,6 +12912,11 @@
 - [Live-Hack-CVE/CVE-2022-29489](https://github.com/Live-Hack-CVE/CVE-2022-29489)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29489">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29489">
 
 ---
+## CVE-2022-29476 (2022-08-23T16:15:00)
+> Unauthenticated Stored Cross-Site Scripting (XSS) vulnerability in 8 Degree Themes otification Bar for WordPress plugin <= 1.1.8 at WordPress.
+- [Live-Hack-CVE/CVE-2022-29476](https://github.com/Live-Hack-CVE/CVE-2022-29476)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29476">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29476">
+
+---
 ## CVE-2022-2947 (2022-12-13T21:15:00)
 > Altair HyperView Player versions 2021.1.0.27 and prior perform operations on a memory buffer but can read from or write to a memory location outside of the intended boundary of the buffer. This hits initially as a read access violation, leading to a memory corruption situation.
 - [Live-Hack-CVE/CVE-2022-2947](https://github.com/Live-Hack-CVE/CVE-2022-2947)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2947">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2947">
@@ -13095,6 +13170,16 @@
 - [Live-Hack-CVE/CVE-2022-28887](https://github.com/Live-Hack-CVE/CVE-2022-28887)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28887">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28887">
 
 ---
+## CVE-2022-28883 (2022-08-23T16:15:00)
+> A Denial-of-Service (DoS) vulnerability was discovered in F-Secure & WithSecure products whereby the aerdl unpack function crashes. This can lead to a possible scanning engine crash. The exploit can be triggered remotely by an attacker.
+- [Live-Hack-CVE/CVE-2022-28883](https://github.com/Live-Hack-CVE/CVE-2022-28883)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28883">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28883">
+
+---
+## CVE-2022-28882 (2022-08-23T16:15:00)
+> A Denial-of-Service (DoS) vulnerability was discovered in F-Secure & WithSecure products whereby the aegen.dll will go into an infinite loop when unpacking PE files. This eventually leads to scanning engine crash. The exploit can be triggered remotely by an attacker.
+- [Live-Hack-CVE/CVE-2022-28882](https://github.com/Live-Hack-CVE/CVE-2022-28882)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28882">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28882">
+
+---
 ## CVE-2022-2887 (2022-09-16T09:15:00)
 > The WP Server Health Stats WordPress plugin before 1.7.0 does not escape some of its settings, which could allow high privilege users to perform Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed.
 - [Live-Hack-CVE/CVE-2022-2887](https://github.com/Live-Hack-CVE/CVE-2022-2887)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2887">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2887">
@@ -13149,6 +13234,11 @@
 ## CVE-2022-28738 (2022-05-09T18:15:00)
 > A double free was found in the Regexp compiler in Ruby 3.x before 3.0.4 and 3.1.x before 3.1.2. If a victim attempts to create a Regexp from untrusted user input, an attacker may be able to write to unexpected memory locations.
 - [Live-Hack-CVE/CVE-2022-28738](https://github.com/Live-Hack-CVE/CVE-2022-28738)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28738">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28738">
+
+---
+## CVE-2022-2873 (2022-08-22T15:15:00)
+> An out-of-bounds memory access flaw was found in the Linux kernel Intel’s iSMT SMBus host controller driver in the way a user triggers the I2C_SMBUS_BLOCK_DATA (with the ioctl I2C_SMBUS) with malicious input data. This flaw allows a local user to crash the system.
+- [Live-Hack-CVE/CVE-2022-2873](https://github.com/Live-Hack-CVE/CVE-2022-2873)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2873">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2873">
 
 ---
 ## CVE-2022-2872 (2022-09-21T10:15:00)
@@ -14222,6 +14312,16 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-2536](https://github.com/Live-Hack-CVE/CVE-2022-2536)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2536">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2536">
 
 ---
+## CVE-2022-2532 (2022-08-22T15:15:00)
+> The Feed Them Social WordPress plugin before 3.0.1 does not sanitise and escape a parameter before outputting it back in the page, leading to a Reflected Cross-Site Scripting
+- [Live-Hack-CVE/CVE-2022-2532](https://github.com/Live-Hack-CVE/CVE-2022-2532)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2532">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2532">
+
+---
+## CVE-2022-25302 (2022-08-23T05:15:00)
+> All versions of package asneg/opcuastack are vulnerable to Denial of Service (DoS) due to a missing handler for failed casting when unvalidated data is forwarded to boost::get function in OpcUaNodeIdBase.h. Exploiting this vulnerability is possible when sending a specifically crafted OPC UA message with a special encoded NodeId.
+- [Live-Hack-CVE/CVE-2022-25302](https://github.com/Live-Hack-CVE/CVE-2022-25302)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25302">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25302">
+
+---
 ## CVE-2022-25262 (2022-02-25T20:15:00)
 > In JetBrains Hub before 2022.1.14434, SAML request takeover was possible.
 - [yuriisanin/CVE-2022-25262](https://github.com/yuriisanin/CVE-2022-25262)	<img alt="forks" src="https://img.shields.io/github/forks/yuriisanin/CVE-2022-25262">	<img alt="stars" src="https://img.shields.io/github/stars/yuriisanin/CVE-2022-25262">
@@ -14512,6 +14612,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [yuriisanin/CVE-2022-24342](https://github.com/yuriisanin/CVE-2022-24342)	<img alt="forks" src="https://img.shields.io/github/forks/yuriisanin/CVE-2022-24342">	<img alt="stars" src="https://img.shields.io/github/stars/yuriisanin/CVE-2022-24342">
 
 ---
+## CVE-2022-24298 (2022-08-23T05:15:00)
+> All versions of package freeopcua/freeopcua are vulnerable to Denial of Service (DoS) when bypassing the limitations for excessive memory consumption by sending multiple CloseSession requests with the deleteSubscription parameter equal to False.
+- [Live-Hack-CVE/CVE-2022-24298](https://github.com/Live-Hack-CVE/CVE-2022-24298)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24298">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24298">
+
+---
 ## CVE-2022-24280 (2022-09-23T10:15:00)
 > Improper Input Validation vulnerability in Proxy component of Apache Pulsar allows an attacker to make TCP/IP connection attempts that originate from the Pulsar Proxy's IP address. When the Apache Pulsar Proxy component is used, it is possible to attempt to open TCP/IP connections to any IP address and port that the Pulsar Proxy can connect to. An attacker could use this as a way for DoS attacks that originate from the Pulsar Proxy's IP address. It hasn’t been detected that the Pulsar Proxy authentication can be bypassed. The attacker will have to have a valid token to a properly secured Pulsar Proxy. This issue affects Apache Pulsar Proxy versions 2.7.0 to 2.7.4; 2.8.0 to 2.8.2; 2.9.0 to 2.9.1; 2.6.4 and earlier.
 - [Live-Hack-CVE/CVE-2022-24280](https://github.com/Live-Hack-CVE/CVE-2022-24280)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24280">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24280">
@@ -14571,6 +14676,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [pescepilota/CVE-2022-24086](https://github.com/pescepilota/CVE-2022-24086)	<img alt="forks" src="https://img.shields.io/github/forks/pescepilota/CVE-2022-24086">	<img alt="stars" src="https://img.shields.io/github/stars/pescepilota/CVE-2022-24086">
 
 ---
+## CVE-2022-2407 (2022-08-22T15:15:00)
+> The WP phpMyAdmin WordPress plugin before 5.2.0.4 does not escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks when the unfiltered_html capability is disallowed (for example in multisite setup)
+- [Live-Hack-CVE/CVE-2022-2407](https://github.com/Live-Hack-CVE/CVE-2022-2407)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2407">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2407">
+
+---
 ## CVE-2022-2402 (2022-09-06T18:15:00)
 > The vulnerability in the driver dlpfde.sys enables a user logged into the system to perform system calls leading to kernel stack overflow, resulting in a system crash, for instance, a BSOD.
 - [SecurityAndStuff/CVE-2022-2402](https://github.com/SecurityAndStuff/CVE-2022-2402)	<img alt="forks" src="https://img.shields.io/github/forks/SecurityAndStuff/CVE-2022-2402">	<img alt="stars" src="https://img.shields.io/github/stars/SecurityAndStuff/CVE-2022-2402">
@@ -14586,9 +14696,29 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-23943](https://github.com/Live-Hack-CVE/CVE-2022-23943)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23943">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23943">
 
 ---
+## CVE-2022-2392 (2022-08-22T15:15:00)
+> The Lana Downloads Manager WordPress plugin before 1.8.0 is affected by an arbitrary file download vulnerability that can be exploited by users with "Contributor" permissions or higher.
+- [Live-Hack-CVE/CVE-2022-2392](https://github.com/Live-Hack-CVE/CVE-2022-2392)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2392">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2392">
+
+---
+## CVE-2022-2389 (2022-08-22T15:15:00)
+> The Abandoned Cart Recovery for WooCommerce, Follow Up Emails, Newsletter Builder & Marketing Automation By Autonami WordPress plugin before 2.1.2 does not have authorisation and CSRF checks in one of its AJAX action, allowing any authenticated users, such as subscriber to create automations
+- [Live-Hack-CVE/CVE-2022-2389](https://github.com/Live-Hack-CVE/CVE-2022-2389)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2389">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2389">
+
+---
+## CVE-2022-2388 (2022-08-22T15:15:00)
+> The WP Coder WordPress plugin before 2.5.3 does not have CSRF check in place when deleting code created by the plugin, which could allow attackers to make a logged in admin delete arbitrary ones via a CSRF attack
+- [Live-Hack-CVE/CVE-2022-2388](https://github.com/Live-Hack-CVE/CVE-2022-2388)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2388">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2388">
+
+---
 ## CVE-2022-23831 (2022-11-09T21:15:00)
 > Insufficient validation of the IOCTL input buffer in AMD ?Prof may allow an attacker to send an arbitrary buffer leading to a potential Windows kernel crash resulting in denial of service.
 - [Live-Hack-CVE/CVE-2022-23831](https://github.com/Live-Hack-CVE/CVE-2022-23831)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23831">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23831">
+
+---
+## CVE-2022-2383 (2022-08-22T15:15:00)
+> The Feed Them Social WordPress plugin before 3.0.1 does not sanitise and escape a parameter before outputting it back in the page, leading to a Reflected Cross-Site Scripting
+- [Live-Hack-CVE/CVE-2022-2383](https://github.com/Live-Hack-CVE/CVE-2022-2383)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2383">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2383">
 
 ---
 ## CVE-2022-23825 (2022-07-14T20:15:00)
@@ -14599,6 +14729,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-23824 (2022-11-09T21:15:00)
 > IBPB may not prevent return branch predictions from being specified by pre-IBPB branch targets leading to a potential information disclosure.
 - [Live-Hack-CVE/CVE-2022-23824](https://github.com/Live-Hack-CVE/CVE-2022-23824)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23824">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23824">
+
+---
+## CVE-2022-2382 (2022-08-22T15:15:00)
+> The Product Slider for WooCommerce WordPress plugin before 2.5.7 has flawed CSRF checks and lack authorisation in some of its AJAX actions, allowing any authenticated users, such as subscriber to call them. One in particular could allow them to delete arbitrary blog options.
+- [Live-Hack-CVE/CVE-2022-2382](https://github.com/Live-Hack-CVE/CVE-2022-2382)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2382">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2382">
 
 ---
 ## CVE-2022-23804 (2022-02-16T17:15:00)
@@ -14627,6 +14762,19 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-23772 (2022-02-11T01:15:00)
 > Rat.SetString in math/big in Go before 1.16.14 and 1.17.x before 1.17.7 has an overflow that can lead to Uncontrolled Memory Consumption.
 - [Live-Hack-CVE/CVE-2022-23772](https://github.com/Live-Hack-CVE/CVE-2022-23772)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23772">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23772">
+
+---
+## CVE-2022-2377 (2022-08-22T15:15:00)
+> The Directorist WordPress plugin before 7.3.0 does not have authorisation and CSRF checks in an AJAX action, allowing any authenticated users to send arbitrary emails on behalf of the blog
+- [Live-Hack-CVE/CVE-2022-2377](https://github.com/Live-Hack-CVE/CVE-2022-2377)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2377">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2377">
+- [Live-Hack-CVE/CVE-2022-23771](https://github.com/Live-Hack-CVE/CVE-2022-23771)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23771">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23771">
+- [Live-Hack-CVE/CVE-2022-23770](https://github.com/Live-Hack-CVE/CVE-2022-23770)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23770">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23770">
+- [Live-Hack-CVE/CVE-2022-23773](https://github.com/Live-Hack-CVE/CVE-2022-23773)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23773">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23773">
+- [Live-Hack-CVE/CVE-2022-23772](https://github.com/Live-Hack-CVE/CVE-2022-23772)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23772">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23772">
+- [danbudris/CVE-2022-23773-repro-target](https://github.com/danbudris/CVE-2022-23773-repro-target)	<img alt="forks" src="https://img.shields.io/github/forks/danbudris/CVE-2022-23773-repro-target">	<img alt="stars" src="https://img.shields.io/github/stars/danbudris/CVE-2022-23773-repro-target">
+- [danbudris/CVE-2022-23773-repro](https://github.com/danbudris/CVE-2022-23773-repro)	<img alt="forks" src="https://img.shields.io/github/forks/danbudris/CVE-2022-23773-repro">	<img alt="stars" src="https://img.shields.io/github/stars/danbudris/CVE-2022-23773-repro">
+- [Vulnmachines/Zoho_CVE-2022-23779](https://github.com/Vulnmachines/Zoho_CVE-2022-23779)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/Zoho_CVE-2022-23779">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/Zoho_CVE-2022-23779">
+- [fbusr/CVE-2022-23779](https://github.com/fbusr/CVE-2022-23779)	<img alt="forks" src="https://img.shields.io/github/forks/fbusr/CVE-2022-23779">	<img alt="stars" src="https://img.shields.io/github/stars/fbusr/CVE-2022-23779">
 
 ---
 ## CVE-2022-23768 (2022-09-19T20:15:00)
