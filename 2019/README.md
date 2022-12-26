@@ -10,6 +10,11 @@
 - [KTN1990/CVE-2019-9978](https://github.com/KTN1990/CVE-2019-9978)	<img alt="forks" src="https://img.shields.io/github/forks/KTN1990/CVE-2019-9978">	<img alt="stars" src="https://img.shields.io/github/stars/KTN1990/CVE-2019-9978">
 
 ---
+## CVE-2019-9947 (2019-03-23T18:29:00)
+> An issue was discovered in urllib2 in Python 2.x through 2.7.16 and urllib in Python 3.x through 3.7.3. CRLF injection is possible if the attacker controls a url parameter, as demonstrated by the first argument to urllib.request.urlopen with \r\n (specifically in the path component of a URL that lacks a ? character) followed by an HTTP header or a Redis command. This is similar to the CVE-2019-9740 query string issue. This is fixed in: v2.7.17, v2.7.17rc1, v2.7.18, v2.7.18rc1; v3.5.10, v3.5.10rc1, v3.5.8, v3.5.8rc1, v3.5.8rc2, v3.5.9; v3.6.10, v3.6.10rc1, v3.6.11, v3.6.11rc1, v3.6.12, v3.6.9, v3.6.9rc1; v3.7.4, v3.7.4rc1, v3.7.4rc2, v3.7.5, v3.7.5rc1, v3.7.6, v3.7.6rc1, v3.7.7, v3.7.7rc1, v3.7.8, v3.7.8rc1, v3.7.9.
+- [Live-Hack-CVE/CVE-2019-9947](https://github.com/Live-Hack-CVE/CVE-2019-9947)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9947">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9947">
+
+---
 ## CVE-2019-9855 (2019-09-06T19:15:00)
 > LibreOffice is typically bundled with LibreLogo, a programmable turtle vector graphics script, which can execute arbitrary python commands contained with the document it is launched from. LibreOffice also has a feature where documents can specify that pre-installed scripts can be executed on various document script events such as mouse-over, etc. Protection was added to block calling LibreLogo from script event handers. However a Windows 8.3 path equivalence handling flaw left LibreOffice vulnerable under Windows that a document could trigger executing LibreLogo via a Windows filename pseudonym. This issue affects: Document Foundation LibreOffice 6.2 versions prior to 6.2.7; 6.3 versions prior to 6.3.1.
 - [Live-Hack-CVE/CVE-2019-9855](https://github.com/Live-Hack-CVE/CVE-2019-9855)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9855">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9855">
@@ -31,9 +36,19 @@
 - [moonheadobj/CVE-2019-9766](https://github.com/moonheadobj/CVE-2019-9766)	<img alt="forks" src="https://img.shields.io/github/forks/moonheadobj/CVE-2019-9766">	<img alt="stars" src="https://img.shields.io/github/stars/moonheadobj/CVE-2019-9766">
 
 ---
+## CVE-2019-9740 (2019-03-13T03:29:00)
+> An issue was discovered in urllib2 in Python 2.x through 2.7.16 and urllib in Python 3.x through 3.7.3. CRLF injection is possible if the attacker controls a url parameter, as demonstrated by the first argument to urllib.request.urlopen with \r\n (specifically in the query string after a ? character) followed by an HTTP header or a Redis command. This is fixed in: v2.7.17, v2.7.17rc1, v2.7.18, v2.7.18rc1; v3.5.10, v3.5.10rc1, v3.5.8, v3.5.8rc1, v3.5.8rc2, v3.5.9; v3.6.10, v3.6.10rc1, v3.6.11, v3.6.11rc1, v3.6.12, v3.6.9, v3.6.9rc1; v3.7.4, v3.7.4rc1, v3.7.4rc2, v3.7.5, v3.7.5rc1, v3.7.6, v3.7.6rc1, v3.7.7, v3.7.7rc1, v3.7.8, v3.7.8rc1, v3.7.9.
+- [Live-Hack-CVE/CVE-2019-9740](https://github.com/Live-Hack-CVE/CVE-2019-9740)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9740">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9740">
+
+---
 ## CVE-2019-9721 (2019-03-12T09:29:00)
 > A denial of service in the subtitle decoder in FFmpeg 3.2 and 4.1 allows attackers to hog the CPU via a crafted video file in Matroska format, because handle_open_brace in libavcodec/htmlsubtitles.c has a complex format argument to sscanf.
 - [Live-Hack-CVE/CVE-2019-9721](https://github.com/Live-Hack-CVE/CVE-2019-9721)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9721">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9721">
+
+---
+## CVE-2019-9634 (2019-03-08T15:29:00)
+> Go through 1.12 on Windows misuses certain LoadLibrary functionality, leading to DLL injection.
+- [Live-Hack-CVE/CVE-2019-9634](https://github.com/Live-Hack-CVE/CVE-2019-9634)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9634">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9634">
 
 ---
 ## CVE-2019-9592 (2019-03-06T16:29:00)
@@ -1171,6 +1186,16 @@
 - [nickylimjj/cve-2019-12735](https://github.com/nickylimjj/cve-2019-12735)	<img alt="forks" src="https://img.shields.io/github/forks/nickylimjj/cve-2019-12735">	<img alt="stars" src="https://img.shields.io/github/stars/nickylimjj/cve-2019-12735">
 - [oldthree3/CVE-2019-12735-VIM-NEOVIM](https://github.com/oldthree3/CVE-2019-12735-VIM-NEOVIM)	<img alt="forks" src="https://img.shields.io/github/forks/oldthree3/CVE-2019-12735-VIM-NEOVIM">	<img alt="stars" src="https://img.shields.io/github/stars/oldthree3/CVE-2019-12735-VIM-NEOVIM">
 - [pcy190/ace-vim-neovim](https://github.com/pcy190/ace-vim-neovim)	<img alt="forks" src="https://img.shields.io/github/forks/pcy190/ace-vim-neovim">	<img alt="stars" src="https://img.shields.io/github/stars/pcy190/ace-vim-neovim">
+
+---
+## CVE-2019-12257 (2019-08-09T18:15:00)
+> Wind River VxWorks 6.6 through 6.9 has a Buffer Overflow in the DHCP client component. There is an IPNET security vulnerability: Heap overflow in DHCP Offer/ACK parsing inside ipdhcpc.
+- [Live-Hack-CVE/CVE-2019-12257](https://github.com/Live-Hack-CVE/CVE-2019-12257)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-12257">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-12257">
+
+---
+## CVE-2019-12256 (2019-08-09T18:15:00)
+> Wind River VxWorks 6.9 and vx7 has a Buffer Overflow in the IPv4 component. There is an IPNET security vulnerability: Stack overflow in the parsing of IPv4 packets’ IP options.
+- [Live-Hack-CVE/CVE-2019-12256](https://github.com/Live-Hack-CVE/CVE-2019-12256)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-12256">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-12256">
 
 ---
 ## CVE-2019-1205 (2019-08-14T21:15:00)

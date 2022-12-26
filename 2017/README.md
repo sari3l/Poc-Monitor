@@ -133,6 +133,7 @@
 - [gunsan92/CVE2017-7494_quicktest](https://github.com/gunsan92/CVE2017-7494_quicktest)	<img alt="forks" src="https://img.shields.io/github/forks/gunsan92/CVE2017-7494_quicktest">	<img alt="stars" src="https://img.shields.io/github/stars/gunsan92/CVE2017-7494_quicktest">
 - [caique-garbim/CVE-2017-7494_SambaCry](https://github.com/caique-garbim/CVE-2017-7494_SambaCry)	<img alt="forks" src="https://img.shields.io/github/forks/caique-garbim/CVE-2017-7494_SambaCry">	<img alt="stars" src="https://img.shields.io/github/stars/caique-garbim/CVE-2017-7494_SambaCry">
 - [00mjk/exploit-CVE-2017-7494](https://github.com/00mjk/exploit-CVE-2017-7494)	<img alt="forks" src="https://img.shields.io/github/forks/00mjk/exploit-CVE-2017-7494">	<img alt="stars" src="https://img.shields.io/github/stars/00mjk/exploit-CVE-2017-7494">
+- [Live-Hack-CVE/CVE-2017-7494](https://github.com/Live-Hack-CVE/CVE-2017-7494)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-7494">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-7494">
 
 ---
 ## CVE-2017-7269 (2017-03-27T02:59:00)
@@ -409,9 +410,19 @@
 - [GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara](https://github.com/GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara)	<img alt="forks" src="https://img.shields.io/github/forks/GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara">	<img alt="stars" src="https://img.shields.io/github/stars/GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara">
 
 ---
+## CVE-2017-15896 (2017-12-11T21:29:00)
+> Node.js was affected by OpenSSL vulnerability CVE-2017-3737 in regards to the use of SSL_read() due to TLS handshake failure. The result was that an active network attacker could send application data to Node.js using the TLS or HTTP2 modules in a way that bypassed TLS authentication and encryption.
+- [Live-Hack-CVE/CVE-2017-15896](https://github.com/Live-Hack-CVE/CVE-2017-15896)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-15896">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-15896">
+
+---
 ## CVE-2017-15108 (2018-01-20T00:29:00)
 > spice-vdagent up to and including 0.17.0 does not properly escape save directory before passing to shell, allowing local attacker with access to the session the agent runs in to inject arbitrary commands to be executed.
 - [Live-Hack-CVE/CVE-2017-15108](https://github.com/Live-Hack-CVE/CVE-2017-15108)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-15108">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-15108">
+
+---
+## CVE-2017-14746 (2017-11-27T22:29:00)
+> Use-after-free vulnerability in Samba 4.x before 4.7.3 allows remote attackers to execute arbitrary code via a crafted SMB1 request.
+- [Live-Hack-CVE/CVE-2017-14746](https://github.com/Live-Hack-CVE/CVE-2017-14746)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-14746">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-14746">
 
 ---
 ## CVE-2017-14481 (2018-05-09T20:29:00)
@@ -658,6 +669,11 @@
 - [oppsec/pwnfaces](https://github.com/oppsec/pwnfaces)	<img alt="forks" src="https://img.shields.io/github/forks/oppsec/pwnfaces">	<img alt="stars" src="https://img.shields.io/github/stars/oppsec/pwnfaces">
 
 ---
+## CVE-2017-1000381 (2017-07-07T17:29:00)
+> The c-ares function `ares_parse_naptr_reply()`, which is used for parsing NAPTR responses, could be triggered to read memory outside of the given input buffer if the passed in DNS response packet was crafted in a particular way.
+- [Live-Hack-CVE/CVE-2017-1000381](https://github.com/Live-Hack-CVE/CVE-2017-1000381)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-1000381">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-1000381">
+
+---
 ## CVE-2017-1000353 (2018-01-29T17:29:00)
 > Jenkins versions 2.56 and earlier as well as 2.46.1 LTS and earlier are vulnerable to an unauthenticated remote code execution. An unauthenticated remote code execution vulnerability allowed attackers to transfer a serialized Java `SignedObject` object to the Jenkins CLI, that would be deserialized using a new `ObjectInputStream`, bypassing the existing blacklist-based protection mechanism. We're fixing this issue by adding `SignedObject` to the blacklist. We're also backporting the new HTTP CLI protocol from Jenkins 2.54 to LTS 2.46.2, and deprecating the remoting-based (i.e. Java serialization) CLI protocol, disabling it by default.
 - [r00t4dm/Jenkins-CVE-2017-1000353](https://github.com/r00t4dm/Jenkins-CVE-2017-1000353)	<img alt="forks" src="https://img.shields.io/github/forks/r00t4dm/Jenkins-CVE-2017-1000353">	<img alt="stars" src="https://img.shields.io/github/stars/r00t4dm/Jenkins-CVE-2017-1000353">
@@ -678,6 +694,16 @@
 - [hayzamjs/Blueborne-CVE-2017-1000251](https://github.com/hayzamjs/Blueborne-CVE-2017-1000251)	<img alt="forks" src="https://img.shields.io/github/forks/hayzamjs/Blueborne-CVE-2017-1000251">	<img alt="stars" src="https://img.shields.io/github/stars/hayzamjs/Blueborne-CVE-2017-1000251">
 - [own2pwn/blueborne-CVE-2017-1000251-POC](https://github.com/own2pwn/blueborne-CVE-2017-1000251-POC)	<img alt="forks" src="https://img.shields.io/github/forks/own2pwn/blueborne-CVE-2017-1000251-POC">	<img alt="stars" src="https://img.shields.io/github/stars/own2pwn/blueborne-CVE-2017-1000251-POC">
 - [tlatkdgus1/blueborne-CVE-2017-1000251](https://github.com/tlatkdgus1/blueborne-CVE-2017-1000251)	<img alt="forks" src="https://img.shields.io/github/forks/tlatkdgus1/blueborne-CVE-2017-1000251">	<img alt="stars" src="https://img.shields.io/github/stars/tlatkdgus1/blueborne-CVE-2017-1000251">
+
+---
+## CVE-2017-1000098 (2017-10-05T01:29:00)
+> The net/http package's Request.ParseMultipartForm method starts writing to temporary files once the request body size surpasses the given "maxMemory" limit. It was possible for an attacker to generate a multipart request crafted such that the server ran out of file descriptors.
+- [Live-Hack-CVE/CVE-2017-1000098](https://github.com/Live-Hack-CVE/CVE-2017-1000098)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-1000098">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-1000098">
+
+---
+## CVE-2017-1000097 (2017-10-05T01:29:00)
+> On Darwin, user's trust preferences for root certificates were not honored. If the user had a root certificate loaded in their Keychain that was explicitly not trusted, a Go program would still verify a connection using that root certificate.
+- [Live-Hack-CVE/CVE-2017-1000097](https://github.com/Live-Hack-CVE/CVE-2017-1000097)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-1000097">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-1000097">
 
 ---
 ## CVE-2017-0888 (2017-04-05T20:59:00)

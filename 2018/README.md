@@ -92,6 +92,11 @@
 - [0x00-0x00/CVE-2018-7422](https://github.com/0x00-0x00/CVE-2018-7422)	<img alt="forks" src="https://img.shields.io/github/forks/0x00-0x00/CVE-2018-7422">	<img alt="stars" src="https://img.shields.io/github/stars/0x00-0x00/CVE-2018-7422">
 
 ---
+## CVE-2018-7187 (2018-02-16T17:29:00)
+> The "go get" implementation in Go 1.9.4, when the -insecure command-line option is used, does not validate the import path (get/vcs.go only checks for "://" anywhere in the string), which allows remote attackers to execute arbitrary OS commands via a crafted web site.
+- [Live-Hack-CVE/CVE-2018-7187](https://github.com/Live-Hack-CVE/CVE-2018-7187)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-7187">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-7187">
+
+---
 ## CVE-2018-7167 (2018-06-13T16:29:00)
 > Calling Buffer.fill() or Buffer.alloc() with some parameters can lead to a hang which could result in a Denial of Service. In order to address this vulnerability, the implementations of Buffer.alloc() and Buffer.fill() were updated so that they zero fill instead of hanging in these cases. All versions of Node.js 6.x (LTS "Boron"), 8.x (LTS "Carbon"), and 9.x are vulnerable. All versions of Node.js 10.x (Current) are NOT vulnerable.
 - [Live-Hack-CVE/CVE-2018-7167](https://github.com/Live-Hack-CVE/CVE-2018-7167)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-7167">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-7167">
@@ -100,6 +105,21 @@
 ## CVE-2018-7164 (2018-06-13T16:29:00)
 > Node.js versions 9.7.0 and later and 10.x are vulnerable and the severity is MEDIUM. A bug introduced in 9.7.0 increases the memory consumed when reading from the network into JavaScript using the net.Socket object directly as a stream. An attacker could use this cause a denial of service by sending tiny chunks of data in short succession. This vulnerability was restored by reverting to the prior behaviour.
 - [Live-Hack-CVE/CVE-2018-7164](https://github.com/Live-Hack-CVE/CVE-2018-7164)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-7164">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-7164">
+
+---
+## CVE-2018-7162 (2018-06-13T16:29:00)
+> All versions of Node.js 9.x and 10.x are vulnerable and the severity is HIGH. An attacker can cause a denial of service (DoS) by causing a node process which provides an http server supporting TLS server to crash. This can be accomplished by sending duplicate/unexpected messages during the handshake. This vulnerability has been addressed by updating the TLS implementation.
+- [Live-Hack-CVE/CVE-2018-7162](https://github.com/Live-Hack-CVE/CVE-2018-7162)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-7162">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-7162">
+
+---
+## CVE-2018-7161 (2018-06-13T16:29:00)
+> All versions of Node.js 8.x, 9.x, and 10.x are vulnerable and the severity is HIGH. An attacker can cause a denial of service (DoS) by causing a node server providing an http2 server to crash. This can be accomplished by interacting with the http2 server in a manner that triggers a cleanup bug where objects are used in native code after they are no longer available. This has been addressed by updating the http2 implementation.
+- [Live-Hack-CVE/CVE-2018-7161](https://github.com/Live-Hack-CVE/CVE-2018-7161)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-7161">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-7161">
+
+---
+## CVE-2018-7160 (2018-05-17T14:29:00)
+> The Node.js inspector, in 6.x and later is vulnerable to a DNS rebinding attack which could be exploited to perform remote code execution. An attack is possible from malicious websites open in a web browser on the same computer, or another computer with network access to the computer running the Node.js process. A malicious website could use a DNS rebinding attack to trick the web browser to bypass same-origin-policy checks and to allow HTTP connections to localhost or to hosts on the local network. If a Node.js process with the debug port active is running on localhost or on a host on the local network, the malicious website could connect to it as a debugger, and get full code execution access.
+- [Live-Hack-CVE/CVE-2018-7160](https://github.com/Live-Hack-CVE/CVE-2018-7160)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-7160">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-7160">
 
 ---
 ## CVE-2018-7158 (2018-05-17T14:29:00)
@@ -634,6 +654,11 @@
 - [UDPsycho/Moodle-CVE-2018-1042](https://github.com/UDPsycho/Moodle-CVE-2018-1042)	<img alt="forks" src="https://img.shields.io/github/forks/UDPsycho/Moodle-CVE-2018-1042">	<img alt="stars" src="https://img.shields.io/github/stars/UDPsycho/Moodle-CVE-2018-1042">
 
 ---
+## CVE-2018-1000168 (2018-05-08T15:29:00)
+> nghttp2 version >= 1.10.0 and nghttp2 <= v1.31.0 contains an Improper Input Validation CWE-20 vulnerability in ALTSVC frame handling that can result in segmentation fault leading to denial of service. This attack appears to be exploitable via network client. This vulnerability appears to have been fixed in >= 1.31.1.
+- [Live-Hack-CVE/CVE-2018-1000168](https://github.com/Live-Hack-CVE/CVE-2018-1000168)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-1000168">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-1000168">
+
+---
 ## CVE-2018-0798 (2018-01-10T01:29:00)
 > Equation Editor in Microsoft Office 2007, Microsoft Office 2010, Microsoft Office 2013, and Microsoft Office 2016 allows a remote code execution vulnerability due to the way objects are handled in memory, aka "Microsoft Office Memory Corruption Vulnerability".
 - [Sunqiz/CVE-2018-0798-reproduction](https://github.com/Sunqiz/CVE-2018-0798-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Sunqiz/CVE-2018-0798-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Sunqiz/CVE-2018-0798-reproduction">
@@ -647,3 +672,8 @@
 ## CVE-2018-0734 (2018-10-30T12:29:00)
 > The OpenSSL DSA signature algorithm has been shown to be vulnerable to a timing side channel attack. An attacker could use variations in the signing algorithm to recover the private key. Fixed in OpenSSL 1.1.1a (Affected 1.1.1). Fixed in OpenSSL 1.1.0j (Affected 1.1.0-1.1.0i). Fixed in OpenSSL 1.0.2q (Affected 1.0.2-1.0.2p).
 - [Live-Hack-CVE/CVE-2018-0734](https://github.com/Live-Hack-CVE/CVE-2018-0734)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-0734">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-0734">
+
+---
+## CVE-2018-0732 (2018-06-12T13:29:00)
+> During key agreement in a TLS handshake using a DH(E) based ciphersuite a malicious server can send a very large prime value to the client. This will cause the client to spend an unreasonably long period of time generating a key for this prime resulting in a hang until the client has finished. This could be exploited in a Denial Of Service attack. Fixed in OpenSSL 1.1.0i-dev (Affected 1.1.0-1.1.0h). Fixed in OpenSSL 1.0.2p-dev (Affected 1.0.2-1.0.2o).
+- [Live-Hack-CVE/CVE-2018-0732](https://github.com/Live-Hack-CVE/CVE-2018-0732)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-0732">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-0732">
