@@ -2509,6 +2509,146 @@
 - [Live-Hack-CVE/CVE-2020-10448](https://github.com/Live-Hack-CVE/CVE-2020-10448)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10448">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10448">
 
 ---
+## CVE-2020-10446 (2020-03-12T14:15:00)
+> The way URIs are handled in admin/header.php in Chadha PHPKB Standard Multi-Language 9 allows Reflected XSS (injecting arbitrary web script or HTML) in admin/report-category.php by adding a question mark (?) followed by the payload.
+- [Live-Hack-CVE/CVE-2020-10446](https://github.com/Live-Hack-CVE/CVE-2020-10446)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10446">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10446">
+
+---
+## CVE-2020-10445 (2020-03-12T14:15:00)
+> The way URIs are handled in admin/header.php in Chadha PHPKB Standard Multi-Language 9 allows Reflected XSS (injecting arbitrary web script or HTML) in admin/report-article.php by adding a question mark (?) followed by the payload.
+- [Live-Hack-CVE/CVE-2020-10445](https://github.com/Live-Hack-CVE/CVE-2020-10445)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10445">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10445">
+
+---
+## CVE-2020-10444 (2020-03-12T14:15:00)
+> The way URIs are handled in admin/header.php in Chadha PHPKB Standard Multi-Language 9 allows Reflected XSS (injecting arbitrary web script or HTML) in admin/report-article-rated.php by adding a question mark (?) followed by the payload.
+- [Live-Hack-CVE/CVE-2020-10444](https://github.com/Live-Hack-CVE/CVE-2020-10444)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10444">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10444">
+
+---
+## CVE-2020-10443 (2020-03-12T14:15:00)
+> The way URIs are handled in admin/header.php in Chadha PHPKB Standard Multi-Language 9 allows Reflected XSS (injecting arbitrary web script or HTML) in admin/report-article-printed.php by adding a question mark (?) followed by the payload.
+- [Live-Hack-CVE/CVE-2020-10443](https://github.com/Live-Hack-CVE/CVE-2020-10443)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10443">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10443">
+
+---
+## CVE-2020-10442 (2020-03-12T14:15:00)
+> The way URIs are handled in admin/header.php in Chadha PHPKB Standard Multi-Language 9 allows Reflected XSS (injecting arbitrary web script or HTML) in admin/report-article-popular.php by adding a question mark (?) followed by the payload.
+- [Live-Hack-CVE/CVE-2020-10442](https://github.com/Live-Hack-CVE/CVE-2020-10442)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10442">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10442">
+
+---
+## CVE-2020-10441 (2020-03-12T14:15:00)
+> The way URIs are handled in admin/header.php in Chadha PHPKB Standard Multi-Language 9 allows Reflected XSS (injecting arbitrary web script or HTML) in admin/report-article-monthly.php by adding a question mark (?) followed by the payload.
+- [Live-Hack-CVE/CVE-2020-10441](https://github.com/Live-Hack-CVE/CVE-2020-10441)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10441">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10441">
+
+---
+## CVE-2020-10440 (2020-03-12T14:15:00)
+> The way URIs are handled in admin/header.php in Chadha PHPKB Standard Multi-Language 9 allows Reflected XSS (injecting arbitrary web script or HTML) in admin/report-article-mailed.php by adding a question mark (?) followed by the payload.
+- [Live-Hack-CVE/CVE-2020-10440](https://github.com/Live-Hack-CVE/CVE-2020-10440)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10440">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10440">
+
+---
+## CVE-2020-10439 (2020-03-12T14:15:00)
+> The way URIs are handled in admin/header.php in Chadha PHPKB Standard Multi-Language 9 allows Reflected XSS (injecting arbitrary web script or HTML) in admin/report-article-discussed.php by adding a question mark (?) followed by the payload.
+- [Live-Hack-CVE/CVE-2020-10439](https://github.com/Live-Hack-CVE/CVE-2020-10439)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10439">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10439">
+
+---
+## CVE-2020-10438 (2020-03-12T14:15:00)
+> The way URIs are handled in admin/header.php in Chadha PHPKB Standard Multi-Language 9 allows Reflected XSS (injecting arbitrary web script or HTML) in admin/reply-ticket.php by adding a question mark (?) followed by the payload.
+- [Live-Hack-CVE/CVE-2020-10438](https://github.com/Live-Hack-CVE/CVE-2020-10438)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10438">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10438">
+
+---
+## CVE-2020-10437 (2020-03-12T14:15:00)
+> The way URIs are handled in admin/header.php in Chadha PHPKB Standard Multi-Language 9 allows Reflected XSS (injecting arbitrary web script or HTML) in admin/optimize-database.php by adding a question mark (?) followed by the payload.
+- [Live-Hack-CVE/CVE-2020-10437](https://github.com/Live-Hack-CVE/CVE-2020-10437)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10437">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10437">
+
+---
+## CVE-2020-10436 (2020-03-12T14:15:00)
+> The way URIs are handled in admin/header.php in Chadha PHPKB Standard Multi-Language 9 allows Reflected XSS (injecting arbitrary web script or HTML) in admin/my-profile.php by adding a question mark (?) followed by the payload.
+- [Live-Hack-CVE/CVE-2020-10436](https://github.com/Live-Hack-CVE/CVE-2020-10436)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10436">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10436">
+
+---
+## CVE-2020-10435 (2020-03-12T14:15:00)
+> The way URIs are handled in admin/header.php in Chadha PHPKB Standard Multi-Language 9 allows Reflected XSS (injecting arbitrary web script or HTML) in admin/my-languages.php by adding a question mark (?) followed by the payload.
+- [Live-Hack-CVE/CVE-2020-10435](https://github.com/Live-Hack-CVE/CVE-2020-10435)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10435">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10435">
+
+---
+## CVE-2020-10434 (2020-03-12T14:15:00)
+> The way URIs are handled in admin/header.php in Chadha PHPKB Standard Multi-Language 9 allows Reflected XSS (injecting arbitrary web script or HTML) in admin/manage-versions.php by adding a question mark (?) followed by the payload.
+- [Live-Hack-CVE/CVE-2020-10434](https://github.com/Live-Hack-CVE/CVE-2020-10434)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10434">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10434">
+
+---
+## CVE-2020-10433 (2020-03-12T14:15:00)
+> The way URIs are handled in admin/header.php in Chadha PHPKB Standard Multi-Language 9 allows Reflected XSS (injecting arbitrary web script or HTML) in admin/manage-users.php by adding a question mark (?) followed by the payload.
+- [Live-Hack-CVE/CVE-2020-10433](https://github.com/Live-Hack-CVE/CVE-2020-10433)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10433">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10433">
+
+---
+## CVE-2020-10432 (2020-03-12T14:15:00)
+> The way URIs are handled in admin/header.php in Chadha PHPKB Standard Multi-Language 9 allows Reflected XSS (injecting arbitrary web script or HTML) in admin/manage-tickets.php by adding a question mark (?) followed by the payload.
+- [Live-Hack-CVE/CVE-2020-10432](https://github.com/Live-Hack-CVE/CVE-2020-10432)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10432">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10432">
+
+---
+## CVE-2020-10431 (2020-03-12T14:15:00)
+> The way URIs are handled in admin/header.php in Chadha PHPKB Standard Multi-Language 9 allows Reflected XSS (injecting arbitrary web script or HTML) in admin/manage-templates.php by adding a question mark (?) followed by the payload.
+- [Live-Hack-CVE/CVE-2020-10431](https://github.com/Live-Hack-CVE/CVE-2020-10431)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10431">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10431">
+
+---
+## CVE-2020-10430 (2020-03-12T14:15:00)
+> The way URIs are handled in admin/header.php in Chadha PHPKB Standard Multi-Language 9 allows Reflected XSS (injecting arbitrary web script or HTML) in admin/manage-subscribers.php by adding a question mark (?) followed by the payload.
+- [Live-Hack-CVE/CVE-2020-10430](https://github.com/Live-Hack-CVE/CVE-2020-10430)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10430">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10430">
+
+---
+## CVE-2020-10429 (2020-03-12T14:15:00)
+> The way URIs are handled in admin/header.php in Chadha PHPKB Standard Multi-Language 9 allows Reflected XSS (injecting arbitrary web script or HTML) in admin/manage-settings.php by adding a question mark (?) followed by the payload.
+- [Live-Hack-CVE/CVE-2020-10429](https://github.com/Live-Hack-CVE/CVE-2020-10429)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10429">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10429">
+
+---
+## CVE-2020-10428 (2020-03-12T14:15:00)
+> The way URIs are handled in admin/header.php in Chadha PHPKB Standard Multi-Language 9 allows Reflected XSS (injecting arbitrary web script or HTML) in admin/manage-news.php by adding a question mark (?) followed by the payload.
+- [Live-Hack-CVE/CVE-2020-10428](https://github.com/Live-Hack-CVE/CVE-2020-10428)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10428">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10428">
+
+---
+## CVE-2020-10427 (2020-03-12T14:15:00)
+> The way URIs are handled in admin/header.php in Chadha PHPKB Standard Multi-Language 9 allows Reflected XSS (injecting arbitrary web script or HTML) in admin/manage-languages.php by adding a question mark (?) followed by the payload.
+- [Live-Hack-CVE/CVE-2020-10427](https://github.com/Live-Hack-CVE/CVE-2020-10427)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10427">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10427">
+
+---
+## CVE-2020-10426 (2020-03-12T14:15:00)
+> The way URIs are handled in admin/header.php in Chadha PHPKB Standard Multi-Language 9 allows Reflected XSS (injecting arbitrary web script or HTML) in admin/manage-groups.php by adding a question mark (?) followed by the payload.
+- [Live-Hack-CVE/CVE-2020-10426](https://github.com/Live-Hack-CVE/CVE-2020-10426)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10426">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10426">
+
+---
+## CVE-2020-10425 (2020-03-12T14:15:00)
+> The way URIs are handled in admin/header.php in Chadha PHPKB Standard Multi-Language 9 allows Reflected XSS (injecting arbitrary web script or HTML) in admin/manage-glossary.php by adding a question mark (?) followed by the payload.
+- [Live-Hack-CVE/CVE-2020-10425](https://github.com/Live-Hack-CVE/CVE-2020-10425)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10425">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10425">
+
+---
+## CVE-2020-10424 (2020-03-12T14:15:00)
+> The way URIs are handled in admin/header.php in Chadha PHPKB Standard Multi-Language 9 allows Reflected XSS (injecting arbitrary web script or HTML) in admin/manage-fields.php by adding a question mark (?) followed by the payload.
+- [Live-Hack-CVE/CVE-2020-10424](https://github.com/Live-Hack-CVE/CVE-2020-10424)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10424">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10424">
+
+---
+## CVE-2020-10423 (2020-03-12T14:15:00)
+> The way URIs are handled in admin/header.php in Chadha PHPKB Standard Multi-Language 9 allows Reflected XSS (injecting arbitrary web script or HTML) in admin/manage-feedbacks.php by adding a question mark (?) followed by the payload.
+- [Live-Hack-CVE/CVE-2020-10423](https://github.com/Live-Hack-CVE/CVE-2020-10423)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10423">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10423">
+
+---
+## CVE-2020-10422 (2020-03-12T14:15:00)
+> The way URIs are handled in admin/header.php in Chadha PHPKB Standard Multi-Language 9 allows Reflected XSS (injecting arbitrary web script or HTML) in admin/manage-drafts.php by adding a question mark (?) followed by the payload.
+- [Live-Hack-CVE/CVE-2020-10422](https://github.com/Live-Hack-CVE/CVE-2020-10422)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10422">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10422">
+
+---
+## CVE-2020-10421 (2020-03-12T14:15:00)
+> The way URIs are handled in admin/header.php in Chadha PHPKB Standard Multi-Language 9 allows Reflected XSS (injecting arbitrary web script or HTML) in admin/manage-departments.php by adding a question mark (?) followed by the payload.
+- [Live-Hack-CVE/CVE-2020-10421](https://github.com/Live-Hack-CVE/CVE-2020-10421)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10421">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10421">
+
+---
+## CVE-2020-10417 (2020-03-12T14:15:00)
+> The way URIs are handled in admin/header.php in Chadha PHPKB Standard Multi-Language 9 allows Reflected XSS (injecting arbitrary web script or HTML) in admin/manage-articles.php by adding a question mark (?) followed by the payload.
+- [Live-Hack-CVE/CVE-2020-10417](https://github.com/Live-Hack-CVE/CVE-2020-10417)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10417">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10417">
+
+---
+## CVE-2020-10388 (2020-03-12T14:15:00)
+> The way the Referer header in article.php is handled in Chadha PHPKB Standard Multi-Language 9 allows attackers to execute Stored (Blind) XSS (injecting arbitrary web script or HTML) in admin/report-referrers.php (vulnerable file admin/include/functions-articles.php).
+- [Live-Hack-CVE/CVE-2020-10388](https://github.com/Live-Hack-CVE/CVE-2020-10388)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10388">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10388">
+
+---
 ## CVE-2020-10381 (2020-04-14T17:15:00)
 > An issue was discovered in the MB CONNECT LINE mymbCONNECT24 and mbCONNECT24 software in all versions through 2.5.0. There is an unauthenticated SQL injection in DATA24, allowing attackers to discover database and table names.
 - [Live-Hack-CVE/CVE-2020-10381](https://github.com/Live-Hack-CVE/CVE-2020-10381)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10381">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10381">
