@@ -620,6 +620,9 @@
 ## CVE-2021-4278 (2022-12-25T16:15:00)
 > A vulnerability classified as problematic has been found in cronvel tree-kit up to 0.6.x. This affects an unknown part. The manipulation leads to improperly controlled modification of object prototype attributes ('prototype pollution'). Upgrading to version 0.7.0 is able to address this issue. The name of the patch is a63f559c50d70e8cb2eaae670dec25d1dbc4afcd. It is recommended to upgrade the affected component. The identifier VDB-216765 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2021-4278](https://github.com/Live-Hack-CVE/CVE-2021-4278)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4278">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4278">
+- [Live-Hack-CVE/CVE-2021-42780](https://github.com/Live-Hack-CVE/CVE-2021-42780)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42780">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42780">
+- [Live-Hack-CVE/CVE-2021-42782](https://github.com/Live-Hack-CVE/CVE-2021-42782)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42782">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42782">
+- [Live-Hack-CVE/CVE-2021-42781](https://github.com/Live-Hack-CVE/CVE-2021-42781)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42781">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42781">
 
 ---
 ## CVE-2021-4277 (2022-12-25T11:15:00)
