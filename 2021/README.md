@@ -607,6 +607,31 @@
 - [Live-Hack-CVE/CVE-2021-43019](https://github.com/Live-Hack-CVE/CVE-2021-43019)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43019">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43019">
 
 ---
+## CVE-2021-4280 (2022-12-25T20:15:00)
+> A vulnerability was found in styler_praat_scripts. It has been classified as problematic. Affected is an unknown function of the file file_segmenter.praat of the component Slash Handler. The manipulation leads to denial of service. It is possible to launch the attack remotely. The name of the patch is 0cad44aa4a3eb0ecdba071c10eaff16023d8b35f. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-216780.
+- [Live-Hack-CVE/CVE-2021-4280](https://github.com/Live-Hack-CVE/CVE-2021-4280)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4280">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4280">
+
+---
+## CVE-2021-4279 (2022-12-25T20:15:00)
+> A vulnerability has been found in Starcounter-Jack JSON-Patch up to 3.1.0 and classified as problematic. This vulnerability affects unknown code. The manipulation leads to improperly controlled modification of object prototype attributes ('prototype pollution'). The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. Upgrading to version 3.1.1 is able to address this issue. The name of the patch is 7ad6af41eabb2d799f698740a91284d762c955c9. It is recommended to upgrade the affected component. VDB-216778 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2021-4279](https://github.com/Live-Hack-CVE/CVE-2021-4279)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4279">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4279">
+
+---
+## CVE-2021-4278 (2022-12-25T16:15:00)
+> A vulnerability classified as problematic has been found in cronvel tree-kit up to 0.6.x. This affects an unknown part. The manipulation leads to improperly controlled modification of object prototype attributes ('prototype pollution'). Upgrading to version 0.7.0 is able to address this issue. The name of the patch is a63f559c50d70e8cb2eaae670dec25d1dbc4afcd. It is recommended to upgrade the affected component. The identifier VDB-216765 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2021-4278](https://github.com/Live-Hack-CVE/CVE-2021-4278)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4278">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4278">
+
+---
+## CVE-2021-4277 (2022-12-25T11:15:00)
+> A vulnerability, which was classified as problematic, has been found in fredsmith utils. This issue affects some unknown processing of the file screenshot_sync of the component Filename Handler. The manipulation leads to predictable from observable state. The name of the patch is dbab1b66955eeb3d76b34612b358307f5c4e3944. It is recommended to apply a patch to fix this issue. The identifier VDB-216749 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2021-4277](https://github.com/Live-Hack-CVE/CVE-2021-4277)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4277">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4277">
+
+---
+## CVE-2021-4276 (2022-12-25T11:15:00)
+> ** DISPUTED ** ** UNSUPPPORTED WHEN ASSIGNED **** UNSUPPORTED WHEN ASSIGNED ** ** DISPUTED ** A vulnerability was found in dns-stats hedgehog. It has been rated as problematic. Affected by this issue is the function DSCIOManager::dsc_import_input_from_source of the file src/DSCIOManager.cpp. The manipulation leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. The real existence of this vulnerability is still doubted at the moment. The name of the patch is 58922c345d3d1fe89bb2020111873a3e07ca93ac. It is recommended to apply a patch to fix this issue. VDB-216746 is the identifier assigned to this vulnerability. NOTE: This vulnerability only affects products that are no longer supported by the maintainer. NOTE: We do assume that the Data Manager server can only be accessed by authorised users. Because of this, we don’t believe this specific attack is possible without such a compromise of the Data Manager server.
+- [Live-Hack-CVE/CVE-2021-4276](https://github.com/Live-Hack-CVE/CVE-2021-4276)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4276">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4276">
+
+---
 ## CVE-2021-42717 (2021-12-07T22:15:00)
 > ModSecurity 3.x through 3.0.5 mishandles excessively nested JSON objects. Crafted JSON objects with nesting tens-of-thousands deep could result in the web server being unable to service legitimate requests. Even a moderately large (e.g., 300KB) HTTP request can occupy one of the limited NGINX worker processes for minutes and consume almost all of the available CPU on the machine. Modsecurity 2 is similarly vulnerable: the affected versions include 2.8.0 through 2.9.4.
 - [EkamSinghWalia/Detection-and-Mitigation-script-for-CVE-2021-42717](https://github.com/EkamSinghWalia/Detection-and-Mitigation-script-for-CVE-2021-42717)	<img alt="forks" src="https://img.shields.io/github/forks/EkamSinghWalia/Detection-and-Mitigation-script-for-CVE-2021-42717">	<img alt="stars" src="https://img.shields.io/github/stars/EkamSinghWalia/Detection-and-Mitigation-script-for-CVE-2021-42717">

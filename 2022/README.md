@@ -138,6 +138,13 @@
 - [Live-Hack-CVE/CVE-2022-47410](https://github.com/Live-Hack-CVE/CVE-2022-47410)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47410">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47410">
 
 ---
+## CVE-2022-4741 (2022-12-25T20:15:00)
+> A vulnerability was found in docconv up to 1.2.0 and classified as problematic. This issue affects the function ConvertDocx/ConvertODT/ConvertPages/ConvertXML/XMLToText. The manipulation leads to uncontrolled memory allocation. The attack may be initiated remotely. Upgrading to version 1.2.1 is able to address this issue. The name of the patch is 42bcff666855ab978e67a9041d0cdea552f20301. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-216779.
+- [Live-Hack-CVE/CVE-2022-4741](https://github.com/Live-Hack-CVE/CVE-2022-4741)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4741">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4741">
+- [Live-Hack-CVE/CVE-2022-47411](https://github.com/Live-Hack-CVE/CVE-2022-47411)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47411">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47411">
+- [Live-Hack-CVE/CVE-2022-47410](https://github.com/Live-Hack-CVE/CVE-2022-47410)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47410">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47410">
+
+---
 ## CVE-2022-47409 (2022-12-14T21:15:00)
 > An issue was discovered in the fp_newsletter (aka Newsletter subscriber management) extension before 1.1.1, 1.2.0, 2.x before 2.1.2, 2.2.1 through 2.4.0, and 3.x before 3.2.6 for TYPO3. Attackers can unsubscribe everyone via a series of modified subscription UIDs in deleteAction operations.
 - [Live-Hack-CVE/CVE-2022-47409](https://github.com/Live-Hack-CVE/CVE-2022-47409)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47409">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47409">
@@ -153,9 +160,48 @@
 - [Live-Hack-CVE/CVE-2022-47407](https://github.com/Live-Hack-CVE/CVE-2022-47407)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47407">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47407">
 
 ---
+## CVE-2022-4740 (2022-12-25T20:15:00)
+> A vulnerability, which was classified as problematic, has been found in kkFileView. Affected by this issue is the function setWatermarkAttribute of the file /picturesPreview. The manipulation leads to cross site scripting. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-216776.
+- [Live-Hack-CVE/CVE-2022-4740](https://github.com/Live-Hack-CVE/CVE-2022-4740)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4740">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4740">
+- [Live-Hack-CVE/CVE-2022-47407](https://github.com/Live-Hack-CVE/CVE-2022-47407)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47407">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47407">
+- [Live-Hack-CVE/CVE-2022-47409](https://github.com/Live-Hack-CVE/CVE-2022-47409)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47409">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47409">
+- [Live-Hack-CVE/CVE-2022-47408](https://github.com/Live-Hack-CVE/CVE-2022-47408)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47408">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47408">
+- [Live-Hack-CVE/CVE-2022-47406](https://github.com/Live-Hack-CVE/CVE-2022-47406)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47406">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47406">
+
+---
+## CVE-2022-4739 (2022-12-25T20:15:00)
+> A vulnerability classified as critical was found in SourceCodester School Dormitory Management System 1.0. Affected by this vulnerability is an unknown functionality of the component Admin Login. The manipulation leads to sql injection. The attack can be launched remotely. The associated identifier of this vulnerability is VDB-216775.
+- [Live-Hack-CVE/CVE-2022-4739](https://github.com/Live-Hack-CVE/CVE-2022-4739)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4739">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4739">
+
+---
+## CVE-2022-4738 (2022-12-25T20:15:00)
+> A vulnerability classified as problematic has been found in SourceCodester Blood Bank Management System 1.0. Affected is an unknown function of the file index.php?page=users of the component User Registration Handler. The manipulation of the argument Name leads to cross site scripting. It is possible to launch the attack remotely. VDB-216774 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4738](https://github.com/Live-Hack-CVE/CVE-2022-4738)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4738">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4738">
+
+---
 ## CVE-2022-47377 (2022-12-16T15:15:00)
 > Password recovery vulnerability in SICK SIM2000ST Partnumber 2086502 with firmware version <1.13.4 allows an unprivileged remote attacker to gain access to the userlevel defined as RecoverableUserLevel by invocating the password recovery mechanism method. This leads to an increase in their privileges on the system and thereby affecting the confidentiality integrity and availability of the system. An attacker can expect repeatable success by exploiting the vulnerability. The recommended solution is to update the firmware to a version >= 1.13.4 as soon as possible (available in SICK Support Portal).
 - [Live-Hack-CVE/CVE-2022-47377](https://github.com/Live-Hack-CVE/CVE-2022-47377)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47377">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47377">
+
+---
+## CVE-2022-4737 (2022-12-25T20:15:00)
+> A vulnerability was found in SourceCodester Blood Bank Management System 1.0. It has been rated as critical. This issue affects some unknown processing of the file login.php. The manipulation of the argument username/password leads to sql injection. The attack may be initiated remotely. The identifier VDB-216773 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4737](https://github.com/Live-Hack-CVE/CVE-2022-4737)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4737">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4737">
+
+---
+## CVE-2022-4736 (2022-12-25T20:15:00)
+> A vulnerability was found in Venganzas del Pasado and classified as problematic. Affected by this issue is some unknown functionality. The manipulation of the argument the_title leads to cross site scripting. The attack may be launched remotely. The name of the patch is 62339b2ec445692c710b804bdf07aef4bd247ff7. It is recommended to apply a patch to fix this issue. VDB-216770 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4736](https://github.com/Live-Hack-CVE/CVE-2022-4736)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4736">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4736">
+
+---
+## CVE-2022-4735 (2022-12-25T16:15:00)
+> A vulnerability classified as problematic was found in asrashley dash-live. This vulnerability affects the function ready of the file static/js/media.js of the component DOM Node Handler. The manipulation leads to cross site scripting. The attack can be initiated remotely. The name of the patch is 24d01757a5319cc14c4aa1d8b53d1ab24d48e451. It is recommended to apply a patch to fix this issue. VDB-216766 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4735](https://github.com/Live-Hack-CVE/CVE-2022-4735)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4735">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4735">
+
+---
+## CVE-2022-4731 (2022-12-25T11:15:00)
+> A vulnerability, which was classified as problematic, was found in myapnea up to 29.0.x. Affected is an unknown function of the component Title Handler. The manipulation leads to cross site scripting. It is possible to launch the attack remotely. Upgrading to version 29.1.0 is able to address this issue. The name of the patch is 99934258530d761bd5d09809bfa6c14b598f8d18. It is recommended to upgrade the affected component. VDB-216750 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4731](https://github.com/Live-Hack-CVE/CVE-2022-4731)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4731">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4731">
 
 ---
 ## CVE-2022-47211 (2022-12-13T19:15:00)
@@ -2653,6 +2699,11 @@
 - [iamsanjay/CVE-2022-42899](https://github.com/iamsanjay/CVE-2022-42899)	<img alt="forks" src="https://img.shields.io/github/forks/iamsanjay/CVE-2022-42899">	<img alt="stars" src="https://img.shields.io/github/stars/iamsanjay/CVE-2022-42899">
 
 ---
+## CVE-2022-42898 (2022-12-25T06:15:00)
+> PAC parsing in MIT Kerberos 5 (aka krb5) before 1.19.4 and 1.20.x before 1.20.1 has integer overflows that may lead to remote code execution (in KDC, kadmind, or a GSS or Kerberos application server) on 32-bit platforms (which have a resultant heap-based buffer overflow), and cause a denial of service on other platforms. This occurs in krb5_pac_parse in lib/krb5/krb/pac.c. Heimdal before 7.7.1 has "a similar bug."
+- [Live-Hack-CVE/CVE-2022-42898](https://github.com/Live-Hack-CVE/CVE-2022-42898)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42898">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42898">
+
+---
 ## CVE-2022-42890 (2022-10-25T17:15:00)
 > A vulnerability in Batik of Apache XML Graphics allows an attacker to run Java code from untrusted SVG via JavaScript. This issue affects Apache XML Graphics prior to 1.16. Users are recommended to upgrade to version 1.16.
 - [Live-Hack-CVE/CVE-2022-42890](https://github.com/Live-Hack-CVE/CVE-2022-42890)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42890">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42890">
@@ -4145,6 +4196,16 @@
 ## CVE-2022-41320 (2022-09-23T05:15:00)
 > Veritas System Recovery (VSR) versions 18 and 21 store a network destination password in the Windows registry during configuration of the backup configuration. This vulnerability could provide a Windows user (who has sufficient privileges) to access a network file system that they were not authorized to access.
 - [Live-Hack-CVE/CVE-2022-41320](https://github.com/Live-Hack-CVE/CVE-2022-41320)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41320">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41320">
+
+---
+## CVE-2022-41318 (2022-12-25T19:15:00)
+> A buffer over-read was discovered in libntlmauth in Squid 2.5 through 5.6. Due to incorrect integer-overflow protection, the SSPI and SMB authentication helpers are vulnerable to reading unintended memory locations. In some configurations, cleartext credentials from these locations are sent to a client. This is fixed in 5.7.
+- [Live-Hack-CVE/CVE-2022-41318](https://github.com/Live-Hack-CVE/CVE-2022-41318)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41318">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41318">
+
+---
+## CVE-2022-41317 (2022-12-25T19:15:00)
+> An issue was discovered in Squid 4.9 through 4.17 and 5.0.6 through 5.6. Due to inconsistent handling of internal URIs, there can be Exposure of Sensitive Information about clients using the proxy via an HTTPS request to an internal cache manager URL. This is fixed in 5.7.
+- [Live-Hack-CVE/CVE-2022-41317](https://github.com/Live-Hack-CVE/CVE-2022-41317)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41317">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41317">
 
 ---
 ## CVE-2022-41315 (2022-11-17T23:15:00)
@@ -5710,6 +5771,11 @@
 ## CVE-2022-4004 (2022-12-12T18:15:00)
 > The Donation Button WordPress plugin through 4.0.0 does not properly check for privileges and nonce tokens in its "donation_button_twilio_send_test_sms" AJAX action, which may allow any users with an account on the affected site, like subscribers, to use the plugin's Twilio integration to send SMSes to arbitrary phone numbers.
 - [Live-Hack-CVE/CVE-2022-4004](https://github.com/Live-Hack-CVE/CVE-2022-4004)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4004">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4004">
+
+---
+## CVE-2022-40005 (2022-12-25T19:15:00)
+> Intelbras WiFiber 120AC inMesh before 1-1-220826 allows command injection by authenticated users, as demonstrated by the /boaform/formPing6 and /boaform/formTracert URIs for ping and traceroute.
+- [Live-Hack-CVE/CVE-2022-40005](https://github.com/Live-Hack-CVE/CVE-2022-40005)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40005">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40005">
 
 ---
 ## CVE-2022-39975 (2022-09-22T00:15:00)
@@ -7895,6 +7961,7 @@
 > enlightenment_sys in Enlightenment before 0.25.4 allows local users to gain privileges because it is setuid root, and the system library function mishandles pathnames that begin with a /dev/.. substring.
 - [MaherAzzouzi/CVE-2022-37706-LPE-exploit](https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/MaherAzzouzi/CVE-2022-37706-LPE-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/MaherAzzouzi/CVE-2022-37706-LPE-exploit">
 - [ECU-10525611-Xander/CVE-2022-37706](https://github.com/ECU-10525611-Xander/CVE-2022-37706)	<img alt="forks" src="https://img.shields.io/github/forks/ECU-10525611-Xander/CVE-2022-37706">	<img alt="stars" src="https://img.shields.io/github/stars/ECU-10525611-Xander/CVE-2022-37706">
+- [Live-Hack-CVE/CVE-2022-37706](https://github.com/Live-Hack-CVE/CVE-2022-37706)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37706">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37706">
 
 ---
 ## CVE-2022-37705 ()
@@ -8053,6 +8120,26 @@
 ## CVE-2022-37316 (2022-08-25T23:15:00)
 > Archer Platform 6.8 before 6.11 P3 (6.11.0.3) contains an improper API access control vulnerability in a multi-instance system that could potentially present unauthorized metadata to an authenticated user of the affected system. 6.10 P3 HF1 (6.10.0.3.1) is also a fixed release.
 - [Live-Hack-CVE/CVE-2022-37316](https://github.com/Live-Hack-CVE/CVE-2022-37316)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37316">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37316">
+
+---
+## CVE-2022-37313 (2022-12-26T02:15:00)
+> OX App Suite through 7.10.6 allows SSRF because the anti-SSRF protection mechanism only checks the first DNS AA or AAAA record.
+- [Live-Hack-CVE/CVE-2022-37313](https://github.com/Live-Hack-CVE/CVE-2022-37313)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37313">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37313">
+
+---
+## CVE-2022-37312 (2022-12-26T02:15:00)
+> OX App Suite through 7.10.6 has Uncontrolled Resource Consumption via a large request body containing a redirect URL to the deferrer servlet.
+- [Live-Hack-CVE/CVE-2022-37312](https://github.com/Live-Hack-CVE/CVE-2022-37312)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37312">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37312">
+
+---
+## CVE-2022-37311 (2022-12-26T02:15:00)
+> OX App Suite through 7.10.6 has Uncontrolled Resource Consumption via a large location request parameter to the redirect servlet.
+- [Live-Hack-CVE/CVE-2022-37311](https://github.com/Live-Hack-CVE/CVE-2022-37311)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37311">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37311">
+
+---
+## CVE-2022-37307 (2022-12-26T02:15:00)
+> OX App Suite through 7.10.6 allows XSS via XHTML CDATA for a snippet, as demonstrated by the onerror attribute of an IMG element within an e-mail signature.
+- [Live-Hack-CVE/CVE-2022-37307](https://github.com/Live-Hack-CVE/CVE-2022-37307)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37307">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37307">
 
 ---
 ## CVE-2022-37305 (2022-08-24T06:15:00)

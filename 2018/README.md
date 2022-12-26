@@ -250,6 +250,11 @@
 - [Live-Hack-CVE/CVE-2018-25047](https://github.com/Live-Hack-CVE/CVE-2018-25047)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-25047">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-25047">
 
 ---
+## CVE-2018-25034 (2022-06-12T08:15:00)
+> A vulnerability, which was classified as problematic, has been found in Thomson TCW710 ST5D.10.05. This issue affects some unknown processing of the file /goform/wlanPrimaryNetwork. The manipulation of the argument ServiceSetIdentifier with the input ><script>alert(1)</script> as part of POST Request leads to basic cross site scripting (Persistent). The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-126695.
+- [Live-Hack-CVE/CVE-2018-25034](https://github.com/Live-Hack-CVE/CVE-2018-25034)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-25034">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-25034">
+
+---
 ## CVE-2018-25032 (2022-03-25T09:15:00)
 > zlib before 1.2.12 allows memory corruption when deflating (i.e., when compressing) if the input has many distant matches.
 - [Trinadh465/external_zlib_4.4_CVE-2018-25032](https://github.com/Trinadh465/external_zlib_4.4_CVE-2018-25032)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/external_zlib_4.4_CVE-2018-25032">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/external_zlib_4.4_CVE-2018-25032">

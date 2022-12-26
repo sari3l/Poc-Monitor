@@ -716,6 +716,11 @@
 - [black-mirror/Weblogic](https://github.com/black-mirror/Weblogic)	<img alt="forks" src="https://img.shields.io/github/forks/black-mirror/Weblogic">	<img alt="stars" src="https://img.shields.io/github/stars/black-mirror/Weblogic">
 
 ---
+## CVE-2019-25084 (2022-12-25T18:15:00)
+> A vulnerability, which was classified as problematic, has been found in Hide Files on GitHub up to 2.x. This issue affects the function addEventListener of the file extension/options.js. The manipulation leads to cross site scripting. The attack may be initiated remotely. Upgrading to version 3.0.0 is able to address this issue. The name of the patch is 9de0c57df81db1178e0e79431d462f6d9842742e. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-216767.
+- [Live-Hack-CVE/CVE-2019-25084](https://github.com/Live-Hack-CVE/CVE-2019-25084)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25084">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25084">
+
+---
 ## CVE-2019-25013 (2021-01-04T18:15:00)
 > The iconv feature in the GNU C Library (aka glibc or libc6) through 2.32, when processing invalid multi-byte input sequences in the EUC-KR encoding, may have a buffer over-read.
 - [Live-Hack-CVE/CVE-2019-25013](https://github.com/Live-Hack-CVE/CVE-2019-25013)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25013">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25013">
