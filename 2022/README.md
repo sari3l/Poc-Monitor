@@ -14940,6 +14940,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-2183 (2022-06-23T19:15:00)
 > Out-of-bounds Read in GitHub repository vim/vim prior to 8.2.
 - [Live-Hack-CVE/CVE-2022-2183](https://github.com/Live-Hack-CVE/CVE-2022-2183)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2183">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2183">
+- [Live-Hack-CVE/CVE-2022-21831](https://github.com/Live-Hack-CVE/CVE-2022-21831)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21831">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21831">
 
 ---
 ## CVE-2022-21824 (2022-02-24T19:15:00)
