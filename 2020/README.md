@@ -1057,9 +1057,24 @@
 - [Live-Hack-CVE/CVE-2020-27825](https://github.com/Live-Hack-CVE/CVE-2020-27825)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27825">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27825">
 
 ---
+## CVE-2020-27795 (2022-08-19T23:15:00)
+> A segmentation fault was discovered in radare2 with adf command. In libr/core/cmd_anal.c, when command "adf" has no or wrong argument, anal_fcn_data (core, input + 1) --> RAnalFunction *fcn = r_anal_get_fcn_in (core->anal, core->offset, -1); returns null pointer for fcn causing segmentation fault later in ensure_fcn_range (fcn).
+- [Live-Hack-CVE/CVE-2020-27795](https://github.com/Live-Hack-CVE/CVE-2020-27795)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27795">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27795">
+
+---
 ## CVE-2020-27792 (2022-08-19T23:15:00)
 > A heap-based buffer over write vulnerability was found in GhostScript's lp8000_print_page() function in gdevlp8k.c file. An attacker could trick a user to open a crafted PDF file, triggering the heap buffer overflow that could lead to memory corruption or a denial of service.
 - [Live-Hack-CVE/CVE-2020-27792](https://github.com/Live-Hack-CVE/CVE-2020-27792)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27792">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27792">
+
+---
+## CVE-2020-27788 (2022-08-18T20:15:00)
+> An out-of-bounds read access vulnerability was discovered in UPX in PackLinuxElf64::canPack() function of p_lx_elf.cpp file. An attacker with a crafted input file could trigger this issue that could cause a crash leading to a denial of service.
+- [Live-Hack-CVE/CVE-2020-27788](https://github.com/Live-Hack-CVE/CVE-2020-27788)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27788">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27788">
+
+---
+## CVE-2020-27787 (2022-08-18T19:15:00)
+> A Segmentaation fault was found in UPX in invert_pt_dynamic() function in p_lx_elf.cpp. An attacker with a crafted input file allows invalid memory address access that could lead to a denial of service.
+- [Live-Hack-CVE/CVE-2020-27787](https://github.com/Live-Hack-CVE/CVE-2020-27787)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27787">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27787">
 
 ---
 ## CVE-2020-27786 (2020-12-11T05:15:00)

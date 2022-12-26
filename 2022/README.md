@@ -9173,6 +9173,11 @@
 - [Live-Hack-CVE/CVE-2022-36226](https://github.com/Live-Hack-CVE/CVE-2022-36226)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36226">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36226">
 
 ---
+## CVE-2022-36224 (2022-08-19T17:15:00)
+> XunRuiCMS V4.5.6 is vulnerable to Cross Site Request Forgery (CSRF).
+- [Live-Hack-CVE/CVE-2022-36224](https://github.com/Live-Hack-CVE/CVE-2022-36224)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36224">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36224">
+
+---
 ## CVE-2022-36223 (2022-12-16T14:15:00)
 > In Emby Server 4.6.7.0, the playlist name field is vulnerable to XSS stored where it is possible to steal the administrator access token and flip or steal the media server administrator account.
 - [Live-Hack-CVE/CVE-2022-36223](https://github.com/Live-Hack-CVE/CVE-2022-36223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36223">
@@ -9206,6 +9211,11 @@
 ## CVE-2022-36173 (2022-09-12T21:15:00)
 > FreshService macOS Agent < 4.4.0 and FreshServce Linux Agent < 3.4.0 are vulnerable to TLS Man-in-The-Middle via the FreshAgent client and scheduled update service.
 - [Live-Hack-CVE/CVE-2022-36173](https://github.com/Live-Hack-CVE/CVE-2022-36173)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36173">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36173">
+
+---
+## CVE-2022-36171 (2022-08-19T22:15:00)
+> MapGIS IGServer 10.5.6.11 is vulnerable to Arbitrary file deletion.
+- [Live-Hack-CVE/CVE-2022-36171](https://github.com/Live-Hack-CVE/CVE-2022-36171)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36171">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36171">
 
 ---
 ## CVE-2022-36168 (2022-08-26T00:15:00)
@@ -9464,6 +9474,11 @@
 ## CVE-2022-3598 (2022-10-21T16:15:00)
 > LibTIFF 4.4.0 has an out-of-bounds write in extractContigSamplesShifted24bits in tools/tiffcrop.c:3604, allowing attackers to cause a denial-of-service via a crafted tiff file. For users that compile libtiff from sources, the fix is available with commit cfbb883b.
 - [Live-Hack-CVE/CVE-2022-3598](https://github.com/Live-Hack-CVE/CVE-2022-3598)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3598">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3598">
+
+---
+## CVE-2022-35975 (2022-08-18T18:15:00)
+> The GitOps Tools Extension for VSCode can make it easier to manage Flux objects. A specially crafted Flux object may allow for remote code execution in the machine running the extension, in the context of the user that is running VSCode. Users using the VSCode extension to manage clusters that are shared amongst other users are affected by this issue. The only safe mitigation is to update to the latest version of the extension.
+- [Live-Hack-CVE/CVE-2022-35975](https://github.com/Live-Hack-CVE/CVE-2022-35975)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35975">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35975">
 
 ---
 ## CVE-2022-35974 (2022-09-16T21:15:00)
@@ -9886,6 +9901,11 @@
 - [Live-Hack-CVE/CVE-2022-35226](https://github.com/Live-Hack-CVE/CVE-2022-35226)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35226">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35226">
 
 ---
+## CVE-2022-35213 (2022-08-18T20:15:00)
+> Ecommerce-CodeIgniter-Bootstrap before commit 56465f was discovered to contain a cross-site scripting (XSS) vulnerability via the function base_url() at /blog/blogpublish.php.
+- [Live-Hack-CVE/CVE-2022-35213](https://github.com/Live-Hack-CVE/CVE-2022-35213)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35213">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35213">
+
+---
 ## CVE-2022-35198 (2022-08-18T06:15:00)
 > Contract Management System v2.0 contains a weak default password which gives attackers to access database connection information.
 - [Live-Hack-CVE/CVE-2022-35198](https://github.com/Live-Hack-CVE/CVE-2022-35198)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35198">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35198">
@@ -10189,6 +10209,41 @@
 ## CVE-2022-35014 (2022-08-29T14:15:00)
 > Advancecomp v2.3 contains a segmentation fault.
 - [Live-Hack-CVE/CVE-2022-35014](https://github.com/Live-Hack-CVE/CVE-2022-35014)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35014">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35014">
+
+---
+## CVE-2022-35013 (2022-08-16T21:15:00)
+> PNGDec commit 8abf6be was discovered to contain a FPE via SaveBMP at /linux/main.cpp.
+- [Live-Hack-CVE/CVE-2022-35013](https://github.com/Live-Hack-CVE/CVE-2022-35013)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35013">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35013">
+
+---
+## CVE-2022-35012 (2022-08-16T21:15:00)
+> PNGDec commit 8abf6be was discovered to contain a heap buffer overflow via SaveBMP at /linux/main.cpp.
+- [Live-Hack-CVE/CVE-2022-35012](https://github.com/Live-Hack-CVE/CVE-2022-35012)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35012">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35012">
+
+---
+## CVE-2022-35011 (2022-08-16T21:15:00)
+> PNGDec commit 8abf6be was discovered to contain a global buffer overflow via inflate_fast at /src/inffast.c.
+- [Live-Hack-CVE/CVE-2022-35011](https://github.com/Live-Hack-CVE/CVE-2022-35011)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35011">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35011">
+
+---
+## CVE-2022-35010 (2022-08-16T21:15:00)
+> PNGDec commit 8abf6be was discovered to contain a heap buffer overflow via asan_interceptors_memintrinsics.cpp.
+- [Live-Hack-CVE/CVE-2022-35010](https://github.com/Live-Hack-CVE/CVE-2022-35010)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35010">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35010">
+
+---
+## CVE-2022-35009 (2022-08-16T21:15:00)
+> PNGDec commit 8abf6be was discovered to contain a memory allocation problem via asan_malloc_linux.cpp.
+- [Live-Hack-CVE/CVE-2022-35009](https://github.com/Live-Hack-CVE/CVE-2022-35009)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35009">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35009">
+
+---
+## CVE-2022-35008 (2022-08-16T21:15:00)
+> PNGDec commit 8abf6be was discovered to contain a stack overflow via /linux/main.cpp.
+- [Live-Hack-CVE/CVE-2022-35008](https://github.com/Live-Hack-CVE/CVE-2022-35008)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35008">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35008">
+
+---
+## CVE-2022-35007 (2022-08-16T21:15:00)
+> PNGDec commit 8abf6be was discovered to contain a heap buffer overflow via __interceptor_fwrite.part.57 at sanitizer_common_interceptors.inc.
+- [Live-Hack-CVE/CVE-2022-35007](https://github.com/Live-Hack-CVE/CVE-2022-35007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35007">
 
 ---
 ## CVE-2022-3499 (2022-10-31T20:15:00)
@@ -13295,6 +13350,11 @@
 - [Live-Hack-CVE/CVE-2022-28866](https://github.com/Live-Hack-CVE/CVE-2022-28866)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28866">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28866">
 
 ---
+## CVE-2022-2886 (2022-08-19T12:15:00)
+> A vulnerability, which was classified as critical, was found in Laravel 5.1. Affected is an unknown function. The manipulation leads to deserialization. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-206688.
+- [Live-Hack-CVE/CVE-2022-2886](https://github.com/Live-Hack-CVE/CVE-2022-2886)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2886">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2886">
+
+---
 ## CVE-2022-28815 (2022-09-28T14:15:00)
 > In Carlo Gavazzi UWP3.0 in multiple versions and CPY Car Park Server in Version 2.8.3 the Sentilo Proxy server was discovered to contain a SQL injection vulnerability allowing an attacker to query other tables of the Sentilo service.
 - [Live-Hack-CVE/CVE-2022-28815](https://github.com/Live-Hack-CVE/CVE-2022-28815)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28815">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28815">
@@ -13701,6 +13761,11 @@
 - [alirezac0/CVE-2022-27502](https://github.com/alirezac0/CVE-2022-27502)	<img alt="forks" src="https://img.shields.io/github/forks/alirezac0/CVE-2022-27502">	<img alt="stars" src="https://img.shields.io/github/stars/alirezac0/CVE-2022-27502">
 
 ---
+## CVE-2022-27500 (2022-08-18T20:15:00)
+> Incorrect default permissions for the Intel(R) Support Android application before 21.07.40 may allow an authenticated user to potentially enable information disclosure via local access.
+- [Live-Hack-CVE/CVE-2022-27500](https://github.com/Live-Hack-CVE/CVE-2022-27500)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27500">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27500">
+
+---
 ## CVE-2022-27494 (2022-10-21T16:15:00)
 > Aethon TUG Home Base Server versions prior to version 24 are affected by un unauthenticated attacker who can freely access hashed user credentials.
 - [Live-Hack-CVE/CVE-2022-27494](https://github.com/Live-Hack-CVE/CVE-2022-27494)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27494">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27494">
@@ -14075,6 +14140,11 @@
 - [Live-Hack-CVE/CVE-2022-26375](https://github.com/Live-Hack-CVE/CVE-2022-26375)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26375">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26375">
 
 ---
+## CVE-2022-26374 (2022-08-18T20:15:00)
+> Uncontrolled search path in the installation binaries for Intel(R) SEAPI all versions may allow an authenticated user to potentially enable escalation of privilege via local access.
+- [Live-Hack-CVE/CVE-2022-26374](https://github.com/Live-Hack-CVE/CVE-2022-26374)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26374">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26374">
+
+---
 ## CVE-2022-26364 (2022-06-09T17:15:00)
 > x86 pv: Insufficient care with non-coherent mappings T[his CNA information record relates to multiple CVEs; the text explains which aspects/vulnerabilities correspond to which CVE.] Xen maintains a type reference count for pages, in addition to a regular reference count. This scheme is used to maintain invariants required for Xen's safety, e.g. PV guests may not have direct writeable access to pagetables; updates need auditing by Xen. Unfortunately, Xen's safety logic doesn't account for CPU-induced cache non-coherency; cases where the CPU can cause the content of the cache to be different to the content in main memory. In such cases, Xen's safety logic can incorrectly conclude that the contents of a page is safe.
 - [Live-Hack-CVE/CVE-2022-26364](https://github.com/Live-Hack-CVE/CVE-2022-26364)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26364">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26364">
@@ -14218,10 +14288,20 @@
 - [LukeGix/CVE-2022-2602](https://github.com/LukeGix/CVE-2022-2602)	<img alt="forks" src="https://img.shields.io/github/forks/LukeGix/CVE-2022-2602">	<img alt="stars" src="https://img.shields.io/github/stars/LukeGix/CVE-2022-2602">
 
 ---
+## CVE-2022-26017 (2022-08-18T20:15:00)
+> Improper access control in the Intel(R) DSA software for before version 22.2.14 may allow an authenticated user to potentially enable escalation of privilege via adjacent access.
+- [Live-Hack-CVE/CVE-2022-26017](https://github.com/Live-Hack-CVE/CVE-2022-26017)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26017">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26017">
+
+---
 ## CVE-2022-2601 (2022-12-14T21:15:00)
 > A buffer overflow was found in grub_font_construct_glyph(). A malicious crafted pf2 font can lead to an overflow when calculating the max_glyph_size value, allocating a smaller than needed buffer for the glyph, this further leads to a buffer overflow and a heap based out-of-bounds write. An attacker may use this vulnerability to circumvent the secure boot mechanism.
 - [zhangboyang/cve-2022-2601](https://github.com/zhangboyang/cve-2022-2601)	<img alt="forks" src="https://img.shields.io/github/forks/zhangboyang/cve-2022-2601">	<img alt="stars" src="https://img.shields.io/github/stars/zhangboyang/cve-2022-2601">
 - [Live-Hack-CVE/CVE-2022-2601](https://github.com/Live-Hack-CVE/CVE-2022-2601)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2601">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2601">
+
+---
+## CVE-2022-25999 (2022-08-18T20:15:00)
+> Uncontrolled search path element in the Intel(R) Enpirion(R) Digital Power Configurator GUI software, all versions may allow an authenticated user to potentially enable escalation of privilege via local access.
+- [Live-Hack-CVE/CVE-2022-25999](https://github.com/Live-Hack-CVE/CVE-2022-25999)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25999">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25999">
 
 ---
 ## CVE-2022-2598 (2022-08-01T15:15:00)
@@ -14253,6 +14333,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 > A race condition was found in the way the Linux kernel's memory subsystem handled the copy-on-write (COW) breakage of private read-only shared memory mappings. This flaw allows an unprivileged, local user to gain write access to read-only memory mappings, increasing their privileges on the system.
 - [Live-Hack-CVE/CVE-2022-2590](https://github.com/Live-Hack-CVE/CVE-2022-2590)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2590">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2590">
 - [Live-Hack-CVE/CVE-2022-25904](https://github.com/Live-Hack-CVE/CVE-2022-25904)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25904">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25904">
+
+---
+## CVE-2022-25899 (2022-08-18T20:15:00)
+> Authentication bypass for the Open AMT Cloud Toolkit software maintained by Intel(R) before versions 2.0.2 and 2.2.2 may allow an unauthenticated user to potentially enable escalation of privilege via network access.
+- [Live-Hack-CVE/CVE-2022-25899](https://github.com/Live-Hack-CVE/CVE-2022-25899)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25899">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25899">
 
 ---
 ## CVE-2022-25892 (2022-11-01T05:15:00)
@@ -14295,6 +14380,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [hosch3n/FastjsonVulns](https://github.com/hosch3n/FastjsonVulns)	<img alt="forks" src="https://img.shields.io/github/forks/hosch3n/FastjsonVulns">	<img alt="stars" src="https://img.shields.io/github/stars/hosch3n/FastjsonVulns">
 - [c0resploit/CVE-2022-25845](https://github.com/c0resploit/CVE-2022-25845)	<img alt="forks" src="https://img.shields.io/github/forks/c0resploit/CVE-2022-25845">	<img alt="stars" src="https://img.shields.io/github/stars/c0resploit/CVE-2022-25845">
 - [Administrator-Xorex/CVE-2022-25845-Server](https://github.com/Administrator-Xorex/CVE-2022-25845-Server)	<img alt="forks" src="https://img.shields.io/github/forks/Administrator-Xorex/CVE-2022-25845-Server">	<img alt="stars" src="https://img.shields.io/github/stars/Administrator-Xorex/CVE-2022-25845-Server">
+
+---
+## CVE-2022-25841 (2022-08-18T20:15:00)
+> Uncontrolled search path elements in the Intel(R) Datacenter Group Event Android application, all versions, may allow an authenticated user to potentially enable escalation of privilege via local access.
+- [Live-Hack-CVE/CVE-2022-25841](https://github.com/Live-Hack-CVE/CVE-2022-25841)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25841">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25841">
 
 ---
 ## CVE-2022-25837 (2022-12-12T04:15:00)
@@ -16033,6 +16123,21 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-21595](https://github.com/Live-Hack-CVE/CVE-2022-21595)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21595">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21595">
 
 ---
+## CVE-2022-21549 (2022-07-19T22:15:00)
+> Vulnerability in the Oracle Java SE, Oracle GraalVM Enterprise Edition product of Oracle Java SE (component: Libraries). Supported versions that are affected are Oracle Java SE: 17.0.3.1; Oracle GraalVM Enterprise Edition: 21.3.2 and 22.1.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise Oracle Java SE, Oracle GraalVM Enterprise Edition. Successful attacks of this vulnerability can result in unauthorized update, insert or delete access to some of Oracle Java SE, Oracle GraalVM Enterprise Edition accessible data. Note: This vulnerability applies to Java deployments, typically in clients running sandboxed Java Web Start applications or sandboxed Java applets, that load and run untrusted code (e.g., code that comes from the internet) and rely on the Java sandbox for security. This vulnerability can also be exploited by using APIs in the specified Component, e.g., through a web service which supplies data to the APIs. CVSS 3.1 Base Score 5.3 (Integrity impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N).
+- [Live-Hack-CVE/CVE-2022-21549](https://github.com/Live-Hack-CVE/CVE-2022-21549)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21549">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21549">
+
+---
+## CVE-2022-21541 (2022-07-19T22:15:00)
+> Vulnerability in the Oracle Java SE, Oracle GraalVM Enterprise Edition product of Oracle Java SE (component: Hotspot). Supported versions that are affected are Oracle Java SE: 7u343, 8u333, 11.0.15.1, 17.0.3.1, 18.0.1.1; Oracle GraalVM Enterprise Edition: 20.3.6, 21.3.2 and 22.1.0. Difficult to exploit vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise Oracle Java SE, Oracle GraalVM Enterprise Edition. Successful attacks of this vulnerability can result in unauthorized creation, deletion or modification access to critical data or all Oracle Java SE, Oracle GraalVM Enterprise Edition accessible data. Note: This vulnerability applies to Java deployments, typically in clients running sandboxed Java Web Start applications or sandboxed Java applets, that load and run untrusted code (e.g., code that comes from the internet) and rely on the Java sandbox for security. This vulnerability can also be exploited by using APIs in the specified Component, e.g., through a web service which supplies data to the APIs. CVSS 3.1 Base Score 5.9 (Integrity impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:H/A:N).
+- [Live-Hack-CVE/CVE-2022-21541](https://github.com/Live-Hack-CVE/CVE-2022-21541)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21541">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21541">
+
+---
+## CVE-2022-21540 (2022-07-19T22:15:00)
+> Vulnerability in the Oracle Java SE, Oracle GraalVM Enterprise Edition product of Oracle Java SE (component: Hotspot). Supported versions that are affected are Oracle Java SE: 7u343, 8u333, 11.0.15.1, 17.0.3.1, 18.0.1.1; Oracle GraalVM Enterprise Edition: 20.3.6, 21.3.2 and 22.1.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise Oracle Java SE, Oracle GraalVM Enterprise Edition. Successful attacks of this vulnerability can result in unauthorized read access to a subset of Oracle Java SE, Oracle GraalVM Enterprise Edition accessible data. Note: This vulnerability applies to Java deployments, typically in clients running sandboxed Java Web Start applications or sandboxed Java applets, that load and run untrusted code (e.g., code that comes from the internet) and rely on the Java sandbox for security. This vulnerability can also be exploited by using APIs in the specified Component, e.g., through a web service which supplies data to the APIs. CVSS 3.1 Base Score 5.3 (Confidentiality impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N).
+- [Live-Hack-CVE/CVE-2022-21540](https://github.com/Live-Hack-CVE/CVE-2022-21540)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21540">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21540">
+
+---
 ## CVE-2022-21537 (2022-07-19T22:15:00)
 > Vulnerability in the MySQL Server product of Oracle MySQL (component: InnoDB). Supported versions that are affected are 8.0.29 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.1 Base Score 4.9 (Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).
 - [Live-Hack-CVE/CVE-2022-21537](https://github.com/Live-Hack-CVE/CVE-2022-21537)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21537">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21537">
@@ -16158,6 +16263,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-2125](https://github.com/Live-Hack-CVE/CVE-2022-2125)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2125">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2125">
 
 ---
+## CVE-2022-21240 (2022-08-18T20:15:00)
+> Out of bounds read for some Intel(R) PROSet/Wireless WiFi products may allow a privileged user to potentially enable information disclosure via local access.
+- [Live-Hack-CVE/CVE-2022-21240](https://github.com/Live-Hack-CVE/CVE-2022-21240)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21240">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21240">
+
+---
 ## CVE-2022-2124 (2022-06-19T10:15:00)
 > Buffer Over-read in GitHub repository vim/vim prior to 8.2.
 - [Live-Hack-CVE/CVE-2022-2124](https://github.com/Live-Hack-CVE/CVE-2022-2124)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2124">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2124">
@@ -16172,6 +16282,31 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 > DOS / potential heap overwrite in qtdemux using zlib decompression. Integer overflow in qtdemux element in qtdemux_inflate function which causes a segfault, or could cause a heap overwrite, depending on libc and OS. Depending on the libc used, and the underlying OS capabilities, it could be just a segfault or a heap overwrite.
 - [Live-Hack-CVE/CVE-2022-2122](https://github.com/Live-Hack-CVE/CVE-2022-2122)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2122">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2122">
 - [Live-Hack-CVE/CVE-2022-21225](https://github.com/Live-Hack-CVE/CVE-2022-21225)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21225">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21225">
+
+---
+## CVE-2022-21212 (2022-08-18T20:15:00)
+> Improper input validation for some Intel(R) PROSet/Wireless WiFi products may allow an unauthenticated user to potentially enable denial of service via adjacent access.
+- [Live-Hack-CVE/CVE-2022-21212](https://github.com/Live-Hack-CVE/CVE-2022-21212)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21212">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21212">
+
+---
+## CVE-2022-21197 (2022-08-18T20:15:00)
+> Improper input validation for some Intel(R) PROSet/Wireless WiFi products may allow an unauthenticated user to potentially enable denial of service via network access.
+- [Live-Hack-CVE/CVE-2022-21197](https://github.com/Live-Hack-CVE/CVE-2022-21197)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21197">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21197">
+
+---
+## CVE-2022-21172 (2022-08-18T20:15:00)
+> Out of bounds write for some Intel(R) PROSet/Wireless WiFi products may allow a privileged user to potentially enable escalation of privilege via local access.
+- [Live-Hack-CVE/CVE-2022-21172](https://github.com/Live-Hack-CVE/CVE-2022-21172)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21172">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21172">
+
+---
+## CVE-2022-21160 (2022-08-18T20:15:00)
+> Improper buffer restrictions for some Intel(R) PROSet/Wireless WiFi products may allow an unauthenticated user to potentially enable denial of service via network access.
+- [Live-Hack-CVE/CVE-2022-21160](https://github.com/Live-Hack-CVE/CVE-2022-21160)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21160">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21160">
+
+---
+## CVE-2022-21139 (2022-08-18T20:15:00)
+> Inadequate encryption strength for some Intel(R) PROSet/Wireless WiFi products may allow an unauthenticated user to potentially enable escalation of privilege via adjacent access.
+- [Live-Hack-CVE/CVE-2022-21139](https://github.com/Live-Hack-CVE/CVE-2022-21139)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21139">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21139">
 
 ---
 ## CVE-2022-21126 (2022-11-29T17:15:00)
