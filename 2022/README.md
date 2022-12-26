@@ -7241,6 +7241,16 @@
 - [Live-Hack-CVE/CVE-2022-38266](https://github.com/Live-Hack-CVE/CVE-2022-38266)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38266">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38266">
 
 ---
+## CVE-2022-38228 (2022-08-16T21:15:00)
+> XPDF commit ffaf11c was discovered to contain a heap-buffer overflow via DCTStream::transformDataUnit at /xpdf/Stream.cc.
+- [Live-Hack-CVE/CVE-2022-38228](https://github.com/Live-Hack-CVE/CVE-2022-38228)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38228">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38228">
+
+---
+## CVE-2022-38227 (2022-08-16T21:15:00)
+> XPDF commit ffaf11c was discovered to contain a stack overflow via __asan_memcpy at asan_interceptors_memintrinsics.cpp.
+- [Live-Hack-CVE/CVE-2022-38227](https://github.com/Live-Hack-CVE/CVE-2022-38227)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38227">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38227">
+
+---
 ## CVE-2022-38222 (2022-09-29T03:15:00)
 > There is a use-after-free issue in JBIG2Stream::close() located in JBIG2Stream.cc in Xpdf 4.04. It can be triggered by sending a crafted PDF file to (for example) the pdfimages binary. It allows an attacker to cause Denial of Service or possibly have unspecified other impact.
 - [Live-Hack-CVE/CVE-2022-38222](https://github.com/Live-Hack-CVE/CVE-2022-38222)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38222">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38222">
@@ -7941,6 +7951,11 @@
 ## CVE-2022-37783 (2022-12-05T21:15:00)
 > All Craft CMS versions between 3.0.0 and 3.7.32 disclose password hashes of users who authenticate using their E-Mail address or username in Anti-CSRF-Tokens. Craft CMS uses a cookie called CRAFT_CSRF_TOKEN and a HTML hidden field called CRAFT_CSRF_TOKEN to avoid Cross Site Request Forgery attacks. The CRAFT_CSRF_TOKEN cookie discloses the password hash in without encoding it whereas the corresponding HTML hidden field discloses the users' password hash in a masked manner, which can be decoded by using public functions of the YII framework.
 - [Live-Hack-CVE/CVE-2022-37783](https://github.com/Live-Hack-CVE/CVE-2022-37783)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37783">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37783">
+
+---
+## CVE-2022-37781 (2022-08-16T21:15:00)
+> fdkaac v1.0.3 was discovered to contain a heap buffer overflow via __interceptor_memcpy.part.46 at /sanitizer_common/sanitizer_common_interceptors.inc.
+- [Live-Hack-CVE/CVE-2022-37781](https://github.com/Live-Hack-CVE/CVE-2022-37781)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37781">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37781">
 
 ---
 ## CVE-2022-3775 (2022-12-19T20:15:00)
@@ -8949,6 +8964,11 @@
 - [Live-Hack-CVE/CVE-2022-36527](https://github.com/Live-Hack-CVE/CVE-2022-36527)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36527">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36527">
 
 ---
+## CVE-2022-36525 (2022-08-15T17:15:00)
+> D-Link Go-RT-AC750 GORTAC750_revA_v101b03 & GO-RT-AC750_revB_FWv200b02 is vulnerable to Buffer Overflow via authenticationcgi_main.
+- [Live-Hack-CVE/CVE-2022-36525](https://github.com/Live-Hack-CVE/CVE-2022-36525)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36525">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36525">
+
+---
 ## CVE-2022-3652 (2022-11-01T23:15:00)
 > Type confusion in V8 in Google Chrome prior to 107.0.5304.62 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [Live-Hack-CVE/CVE-2022-3652](https://github.com/Live-Hack-CVE/CVE-2022-3652)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3652">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3652">
@@ -9329,6 +9349,51 @@
 ## CVE-2022-36162 ()
 > 
 - [MaherAzzouzi/CVE-2022-36162](https://github.com/MaherAzzouzi/CVE-2022-36162)	<img alt="forks" src="https://img.shields.io/github/forks/MaherAzzouzi/CVE-2022-36162">	<img alt="stars" src="https://img.shields.io/github/stars/MaherAzzouzi/CVE-2022-36162">
+
+---
+## CVE-2022-36148 (2022-08-16T21:15:00)
+> fdkaac commit 53fe239 was discovered to contain a floating point exception (FPE) via wav_open at /src/wav_reader.c.
+- [Live-Hack-CVE/CVE-2022-36148](https://github.com/Live-Hack-CVE/CVE-2022-36148)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36148">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36148">
+
+---
+## CVE-2022-36146 (2022-08-16T21:15:00)
+> SWFMill commit 53d7690 was discovered to contain a memory allocation issue via operator new[](unsigned long) at asan_new_delete.cpp.
+- [Live-Hack-CVE/CVE-2022-36146](https://github.com/Live-Hack-CVE/CVE-2022-36146)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36146">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36146">
+
+---
+## CVE-2022-36145 (2022-08-16T21:15:00)
+> SWFMill commit 53d7690 was discovered to contain a segmentation violation via SWF::Reader::getWord().
+- [Live-Hack-CVE/CVE-2022-36145](https://github.com/Live-Hack-CVE/CVE-2022-36145)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36145">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36145">
+
+---
+## CVE-2022-36144 (2022-08-16T21:15:00)
+> SWFMill commit 53d7690 was discovered to contain a heap-buffer overflow via base64_encode.
+- [Live-Hack-CVE/CVE-2022-36144](https://github.com/Live-Hack-CVE/CVE-2022-36144)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36144">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36144">
+
+---
+## CVE-2022-36143 (2022-08-16T21:15:00)
+> SWFMill commit 53d7690 was discovered to contain a heap-buffer overflow via __interceptor_strlen.part at /sanitizer_common/sanitizer_common_interceptors.inc.
+- [Live-Hack-CVE/CVE-2022-36143](https://github.com/Live-Hack-CVE/CVE-2022-36143)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36143">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36143">
+
+---
+## CVE-2022-36142 (2022-08-16T21:15:00)
+> SWFMill commit 53d7690 was discovered to contain a heap-buffer overflow via SWF::Reader::getU30().
+- [Live-Hack-CVE/CVE-2022-36142](https://github.com/Live-Hack-CVE/CVE-2022-36142)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36142">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36142">
+
+---
+## CVE-2022-36141 (2022-08-16T21:15:00)
+> SWFMill commit 53d7690 was discovered to contain a segmentation violation via SWF::MethodBody::write(SWF::Writer*, SWF::Context*).
+- [Live-Hack-CVE/CVE-2022-36141](https://github.com/Live-Hack-CVE/CVE-2022-36141)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36141">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36141">
+
+---
+## CVE-2022-36140 (2022-08-16T21:15:00)
+> SWFMill commit 53d7690 was discovered to contain a segmentation violation via SWF::DeclareFunction2::write(SWF::Writer*, SWF::Context*).
+- [Live-Hack-CVE/CVE-2022-36140](https://github.com/Live-Hack-CVE/CVE-2022-36140)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36140">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36140">
+
+---
+## CVE-2022-36139 (2022-08-16T21:15:00)
+> SWFMill commit 53d7690 was discovered to contain a heap-buffer overflow via SWF::Writer::writeByte(unsigned char).
+- [Live-Hack-CVE/CVE-2022-36139](https://github.com/Live-Hack-CVE/CVE-2022-36139)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36139">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36139">
 
 ---
 ## CVE-2022-36123 (2022-07-29T14:15:00)
@@ -9875,6 +9940,16 @@
 ## CVE-2022-3545 (2022-10-17T12:15:00)
 > A vulnerability has been found in Linux Kernel and classified as critical. Affected by this vulnerability is the function area_cache_get of the file drivers/net/ethernet/netronome/nfp/nfpcore/nfp_cppcore.c of the component IPsec. The manipulation leads to use after free. It is recommended to apply a patch to fix this issue. The identifier VDB-211045 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-3545](https://github.com/Live-Hack-CVE/CVE-2022-3545)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3545">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3545">
+
+---
+## CVE-2022-35434 (2022-08-16T21:15:00)
+> jpeg-quantsmooth before commit 8879454 contained a floating point exception (FPE) via /jpeg-quantsmooth/jpegqs+0x4f5d6c.
+- [Live-Hack-CVE/CVE-2022-35434](https://github.com/Live-Hack-CVE/CVE-2022-35434)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35434">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35434">
+
+---
+## CVE-2022-35433 (2022-08-16T21:15:00)
+> ffjpeg commit caade60a69633d74100bd3c2528bddee0b6a1291 was discovered to contain a memory leak via /src/jfif.c.
+- [Live-Hack-CVE/CVE-2022-35433](https://github.com/Live-Hack-CVE/CVE-2022-35433)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35433">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35433">
 
 ---
 ## CVE-2022-3543 (2022-10-17T12:15:00)
@@ -10849,6 +10924,11 @@
 ## CVE-2022-34027 (2022-07-18T21:15:00)
 > Nginx NJS v0.7.4 was discovered to contain a segmentation violation via njs_value_property at njs_value.c.
 - [Live-Hack-CVE/CVE-2022-34027](https://github.com/Live-Hack-CVE/CVE-2022-34027)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34027">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34027">
+
+---
+## CVE-2022-33991 (2022-08-15T13:15:00)
+> dproxy-nexgen (aka dproxy nexgen) forwards and caches DNS queries with the CD (aka checking disabled) bit set to 1. This leads to disabling of DNSSEC protection provided by upstream resolvers.
+- [Live-Hack-CVE/CVE-2022-33991](https://github.com/Live-Hack-CVE/CVE-2022-33991)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33991">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33991">
 
 ---
 ## CVE-2022-33981 (2022-06-18T16:15:00)
@@ -17153,9 +17233,79 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [nidhi7598/frameworks_native_AOSP_10_r33_CVE-2022-20344](https://github.com/nidhi7598/frameworks_native_AOSP_10_r33_CVE-2022-20344)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_native_AOSP_10_r33_CVE-2022-20344">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_native_AOSP_10_r33_CVE-2022-20344">
 
 ---
+## CVE-2022-20330 (2022-08-12T15:15:00)
+> In Bluetooth, there is a possible way to connect or disconnect bluetooth devices without user awareness due to a missing permission check. This could lead to local escalation of privilege with User execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-181962588
+- [Live-Hack-CVE/CVE-2022-20330](https://github.com/Live-Hack-CVE/CVE-2022-20330)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20330">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20330">
+
+---
+## CVE-2022-20329 (2022-08-12T15:15:00)
+> In Wifi, there is a possible way to enable Wifi without permissions due to a missing permission check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-183410556
+- [Live-Hack-CVE/CVE-2022-20329](https://github.com/Live-Hack-CVE/CVE-2022-20329)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20329">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20329">
+
+---
+## CVE-2022-20328 (2022-08-12T15:15:00)
+> In PackageManager, there is a possible way to determine whether an app is installed due to a missing permission check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-184948501
+- [Live-Hack-CVE/CVE-2022-20328](https://github.com/Live-Hack-CVE/CVE-2022-20328)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20328">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20328">
+
+---
+## CVE-2022-20327 (2022-08-12T15:15:00)
+> In Wi-Fi, there is a possible way to retrieve the WiFi SSID without location permissions due to a missing permission check. This could lead to local information disclosure with User execution privileges needed. User interaction is needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-185126813
+- [Live-Hack-CVE/CVE-2022-20327](https://github.com/Live-Hack-CVE/CVE-2022-20327)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20327">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20327">
+
+---
+## CVE-2022-20325 (2022-08-12T15:15:00)
+> In Media, there is a possible code execution due to a use after free. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-186473060
+- [Live-Hack-CVE/CVE-2022-20325](https://github.com/Live-Hack-CVE/CVE-2022-20325)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20325">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20325">
+
+---
+## CVE-2022-20324 (2022-08-12T15:15:00)
+> In Framework, there is a possible way to determine whether an app is installed, without query permissions, due to side channel information disclosure. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-187042120
+- [Live-Hack-CVE/CVE-2022-20324](https://github.com/Live-Hack-CVE/CVE-2022-20324)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20324">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20324">
+
+---
+## CVE-2022-20323 (2022-08-12T15:15:00)
+> In PackageManager, there is a possible package installation disclosure due to a missing permission check. This could lead to local information disclosure with User execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-187176203
+- [Live-Hack-CVE/CVE-2022-20323](https://github.com/Live-Hack-CVE/CVE-2022-20323)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20323">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20323">
+
+---
+## CVE-2022-20322 (2022-08-12T15:15:00)
+> In PackageManager, there is a possible installed package disclosure due to a missing permission check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-187176993
+- [Live-Hack-CVE/CVE-2022-20322](https://github.com/Live-Hack-CVE/CVE-2022-20322)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20322">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20322">
+
+---
+## CVE-2022-20321 (2022-08-12T15:15:00)
+> In Settings, there is a possible way for an application without permissions to read content of WiFi QR codes due to a missing permission check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-187176859
+- [Live-Hack-CVE/CVE-2022-20321](https://github.com/Live-Hack-CVE/CVE-2022-20321)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20321">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20321">
+
+---
+## CVE-2022-20320 (2022-08-12T15:15:00)
+> In ActivityManager, there is a possible way to determine whether an app is installed, without query permissions, due to side channel information disclosure. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-187956596
+- [Live-Hack-CVE/CVE-2022-20320](https://github.com/Live-Hack-CVE/CVE-2022-20320)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20320">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20320">
+
+---
+## CVE-2022-20319 (2022-08-12T15:15:00)
+> In DreamServices, there is a possible way to launch arbitrary protected activities due to a confused deputy. This could lead to local escalation of privilege with User execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-189574230
+- [Live-Hack-CVE/CVE-2022-20319](https://github.com/Live-Hack-CVE/CVE-2022-20319)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20319">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20319">
+
+---
+## CVE-2022-20318 (2022-08-12T15:15:00)
+> In PackageInstaller, there is a possible way to determine whether an app is installed, without query permissions, due to side channel information disclosure. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-194694069
+- [Live-Hack-CVE/CVE-2022-20318](https://github.com/Live-Hack-CVE/CVE-2022-20318)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20318">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20318">
+
+---
+## CVE-2022-20317 (2022-08-12T15:15:00)
+> In SystemUI, there is a possible way to unexpectedly enable the external speaker due to a logic error in the code. This could lead to local information disclosure with no additional execution privileges needed. User interaction is needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-190199063
+- [Live-Hack-CVE/CVE-2022-20317](https://github.com/Live-Hack-CVE/CVE-2022-20317)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20317">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20317">
+
+---
 ## CVE-2022-2031 (2022-08-25T18:15:00)
 > A flaw was found in Samba. The security vulnerability occurs when KDC and the kpasswd service share a single account and set of keys, allowing them to decrypt each other's tickets. A user who has been requested to change their password, can exploit this flaw to obtain and use tickets to other services.
 - [Live-Hack-CVE/CVE-2022-2031](https://github.com/Live-Hack-CVE/CVE-2022-2031)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2031">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2031">
+
+---
+## CVE-2022-20280 (2022-08-12T15:15:00)
+> In MMSProvider, there is a possible read of protected data due to improper input validationSQL injection. This could lead to local information disclosure of sms/mms data with User execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-204117261
+- [Live-Hack-CVE/CVE-2022-20280](https://github.com/Live-Hack-CVE/CVE-2022-20280)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20280">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20280">
 
 ---
 ## CVE-2022-20239 (2022-08-10T20:15:00)
