@@ -7295,6 +7295,11 @@
 - [Live-Hack-CVE/CVE-2022-38086](https://github.com/Live-Hack-CVE/CVE-2022-38086)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38086">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38086">
 
 ---
+## CVE-2022-38078 (2022-08-24T09:15:00)
+> Movable Type XMLRPC API provided by Six Apart Ltd. contains a command injection vulnerability. Sending a specially crafted message by POST method to Movable Type XMLRPC API may allow arbitrary Perl script execution, and an arbitrary OS command may be executed through it. Affected products and versions are as follows: Movable Type 7 r.5202 and earlier, Movable Type Advanced 7 r.5202 and earlier, Movable Type 6.8.6 and earlier, Movable Type Advanced 6.8.6 and earlier, Movable Type Premium 1.52 and earlier, and Movable Type Premium Advanced 1.52 and earlier. Note that all versions of Movable Type 4.0 or later including unsupported (End-of-Life, EOL) versions are also affected by this vulnerability.
+- [Live-Hack-CVE/CVE-2022-38078](https://github.com/Live-Hack-CVE/CVE-2022-38078)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38078">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38078">
+
+---
 ## CVE-2022-38075 (2022-11-18T19:15:00)
 > Cross-Site Request Forgery (CSRF) vulnerability leading to Stored Cross-Site Scripting (XSS) in Mantenimiento web plugin <= 0.13 on WordPress.
 - [Live-Hack-CVE/CVE-2022-38075](https://github.com/Live-Hack-CVE/CVE-2022-38075)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38075">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38075">
@@ -7855,6 +7860,11 @@
 - [Live-Hack-CVE/CVE-2022-37424](https://github.com/Live-Hack-CVE/CVE-2022-37424)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37424">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37424">
 
 ---
+## CVE-2022-37418 (2022-08-24T06:15:00)
+> The Remote Keyless Entry (RKE) receiving unit on certain Nissan, Kia, and Hyundai vehicles through 2017 allows remote attackers to perform unlock operations and force a resynchronization after capturing two consecutive valid key fob signals over the radio, aka a RollBack attack. The attacker retains the ability to unlock indefinitely.
+- [Live-Hack-CVE/CVE-2022-37418](https://github.com/Live-Hack-CVE/CVE-2022-37418)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37418">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37418">
+
+---
 ## CVE-2022-37401 (2022-08-15T11:21:00)
 > Apache OpenOffice supports the storage of passwords for web connections in the user's configuration database. The stored passwords are encrypted with a single master key provided by the user. A flaw in OpenOffice existed where master key was poorly encoded resulting in weakening its entropy from 128 to 43 bits making the stored passwords vulnerable to a brute force attack if an attacker has access to the users stored config. This issue affects: Apache OpenOffice versions prior to 4.1.13. Reference: CVE-2022-26307 - LibreOffice
 - [Live-Hack-CVE/CVE-2022-37401](https://github.com/Live-Hack-CVE/CVE-2022-37401)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37401">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37401">
@@ -7903,6 +7913,11 @@
 ## CVE-2022-37328 (2022-09-23T15:15:00)
 > Authenticated (author+) Stored Cross-Site Scripting (XSS) vulnerability in Themes Awesome History Timeline plugin <= 1.0.5 at WordPress.
 - [Live-Hack-CVE/CVE-2022-37328](https://github.com/Live-Hack-CVE/CVE-2022-37328)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37328">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37328">
+
+---
+## CVE-2022-37305 (2022-08-24T06:15:00)
+> The Remote Keyless Entry (RKE) receiving unit on certain Honda vehicles through 2018 allows remote attackers to perform unlock operations and force a resynchronization after capturing five consecutive valid RKE signals over the radio, aka a RollBack attack. The attacker retains the ability to unlock indefinitely.
+- [Live-Hack-CVE/CVE-2022-37305](https://github.com/Live-Hack-CVE/CVE-2022-37305)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37305">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37305">
 
 ---
 ## CVE-2022-37298 (2022-10-20T11:15:00)
@@ -8052,6 +8067,11 @@
 ## CVE-2022-37163 (2022-09-08T16:15:00)
 > Bminusl IHateToBudget v1.5.7 employs a weak password policy which allows attackers to potentially gain unauthorized access to the application via brute-force attacks. Additionally, user passwords are hashed without a salt or pepper making it much easier for tools like hashcat to crack the hashes.
 - [Live-Hack-CVE/CVE-2022-37163](https://github.com/Live-Hack-CVE/CVE-2022-37163)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37163">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37163">
+
+---
+## CVE-2022-37158 (2022-08-25T17:15:00)
+> RuoYi v3.8.3 has a Weak password vulnerability in the management system.
+- [Live-Hack-CVE/CVE-2022-37158](https://github.com/Live-Hack-CVE/CVE-2022-37158)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37158">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37158">
 
 ---
 ## CVE-2022-37155 (2022-12-14T00:15:00)
@@ -8242,6 +8262,11 @@
 - [Pwnzer0tt1/CVE-2022-36946](https://github.com/Pwnzer0tt1/CVE-2022-36946)	<img alt="forks" src="https://img.shields.io/github/forks/Pwnzer0tt1/CVE-2022-36946">	<img alt="stars" src="https://img.shields.io/github/stars/Pwnzer0tt1/CVE-2022-36946">
 - [XmasSnowISBACK/CVE-2022-36946](https://github.com/XmasSnowISBACK/CVE-2022-36946)	<img alt="forks" src="https://img.shields.io/github/forks/XmasSnowISBACK/CVE-2022-36946">	<img alt="stars" src="https://img.shields.io/github/stars/XmasSnowISBACK/CVE-2022-36946">
 - [Satheesh575555/linux-4.19.72_CVE-2022-36946](https://github.com/Satheesh575555/linux-4.19.72_CVE-2022-36946)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/linux-4.19.72_CVE-2022-36946">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/linux-4.19.72_CVE-2022-36946">
+
+---
+## CVE-2022-36945 (2022-08-24T06:15:00)
+> The Remote Keyless Entry (RKE) receiving unit on certain Mazda vehicles through 2020 allows remote attackers to perform unlock operations and force a resynchronization after capturing three consecutive valid key-fob signals over the radio, aka a RollBack attack. The attacker retains the ability to unlock indefinitely.
+- [Live-Hack-CVE/CVE-2022-36945](https://github.com/Live-Hack-CVE/CVE-2022-36945)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36945">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36945">
 
 ---
 ## CVE-2022-36944 (2022-09-23T18:15:00)
@@ -8501,6 +8526,21 @@
 - [Live-Hack-CVE/CVE-2022-3655](https://github.com/Live-Hack-CVE/CVE-2022-3655)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3655">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3655">
 
 ---
+## CVE-2022-36545 (2022-08-26T21:15:00)
+> Edoc-doctor-appointment-system v1.0.1 was discovered to contain a SQL injection vulnerability via the id parameter at /patient/settings.php.
+- [Live-Hack-CVE/CVE-2022-36545](https://github.com/Live-Hack-CVE/CVE-2022-36545)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36545">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36545">
+
+---
+## CVE-2022-36544 (2022-08-26T21:15:00)
+> Edoc-doctor-appointment-system v1.0.1 was discovered to contain a SQL injection vulnerability via the id parameter at /patient/booking.php.
+- [Live-Hack-CVE/CVE-2022-36544](https://github.com/Live-Hack-CVE/CVE-2022-36544)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36544">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36544">
+
+---
+## CVE-2022-36543 (2022-08-26T21:15:00)
+> Edoc-doctor-appointment-system v1.0.1 was discovered to contain a SQL injection vulnerability via the id parameter at /patient/doctors.php.
+- [Live-Hack-CVE/CVE-2022-36543](https://github.com/Live-Hack-CVE/CVE-2022-36543)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36543">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36543">
+
+---
 ## CVE-2022-3654 (2022-11-01T23:15:00)
 > Use after free in Layout in Google Chrome prior to 107.0.5304.62 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [Live-Hack-CVE/CVE-2022-3654](https://github.com/Live-Hack-CVE/CVE-2022-3654)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3654">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3654">
@@ -8695,6 +8735,11 @@
 - [affix/CVE-2022-36231](https://github.com/affix/CVE-2022-36231)	<img alt="forks" src="https://img.shields.io/github/forks/affix/CVE-2022-36231">	<img alt="stars" src="https://img.shields.io/github/stars/affix/CVE-2022-36231">
 
 ---
+## CVE-2022-36226 (2022-08-26T00:15:00)
+> SiteServerCMS 5.X has a Remote-download-Getshell-vulnerability via /SiteServer/Ajax/ajaxOtherService.aspx.
+- [Live-Hack-CVE/CVE-2022-36226](https://github.com/Live-Hack-CVE/CVE-2022-36226)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36226">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36226">
+
+---
 ## CVE-2022-36223 (2022-12-16T14:15:00)
 > In Emby Server 4.6.7.0, the playlist name field is vulnerable to XSS stored where it is possible to steal the administrator access token and flip or steal the media server administrator account.
 - [Live-Hack-CVE/CVE-2022-36223](https://github.com/Live-Hack-CVE/CVE-2022-36223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36223">
@@ -8728,6 +8773,11 @@
 ## CVE-2022-36173 (2022-09-12T21:15:00)
 > FreshService macOS Agent < 4.4.0 and FreshServce Linux Agent < 3.4.0 are vulnerable to TLS Man-in-The-Middle via the FreshAgent client and scheduled update service.
 - [Live-Hack-CVE/CVE-2022-36173](https://github.com/Live-Hack-CVE/CVE-2022-36173)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36173">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36173">
+
+---
+## CVE-2022-36168 (2022-08-26T00:15:00)
+> A directory traversal vulnerability was discovered in Wuzhicms 4.1.0. via /coreframe/app/attachment/admin/index.php:
+- [Live-Hack-CVE/CVE-2022-36168](https://github.com/Live-Hack-CVE/CVE-2022-36168)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36168">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36168">
 
 ---
 ## CVE-2022-36163 ()
@@ -9132,6 +9182,11 @@
 ## CVE-2022-35721 (2022-09-23T18:15:00)
 > IBM Jazz for Service Management 1.1.3 is vulnerable to stored cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 231380.
 - [Live-Hack-CVE/CVE-2022-35721](https://github.com/Live-Hack-CVE/CVE-2022-35721)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35721">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35721">
+
+---
+## CVE-2022-35714 (2022-08-26T18:15:00)
+> IBM Maximo Asset Management 7.6.1 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 231116.
+- [Live-Hack-CVE/CVE-2022-35714](https://github.com/Live-Hack-CVE/CVE-2022-35714)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35714">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35714">
 
 ---
 ## CVE-2022-35712 (2022-10-14T20:15:00)
@@ -9698,6 +9753,11 @@
 - [bypazs/CVE-2022-34961](https://github.com/bypazs/CVE-2022-34961)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/CVE-2022-34961">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/CVE-2022-34961">
 
 ---
+## CVE-2022-34960 (2022-08-25T02:15:00)
+> The container package in MikroTik RouterOS 7.4beta4 allows an attacker to create mount points pointing to symbolic links, which resolve to locations on the host device. This allows the attacker to mount any arbitrary file to any location on the host.
+- [Live-Hack-CVE/CVE-2022-34960](https://github.com/Live-Hack-CVE/CVE-2022-34960)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34960">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34960">
+
+---
 ## CVE-2022-34918 (2022-07-04T21:15:00)
 > An issue was discovered in the Linux kernel through 5.18.9. A type confusion bug in nft_set_elem_init (leading to a buffer overflow) could be used by a local attacker to escalate privileges, a different vulnerability than CVE-2022-32250. (The attacker can obtain root access, but must start with an unprivileged user namespace to obtain CAP_NET_ADMIN access.) This can be fixed in nft_setelem_parse_data in net/netfilter/nf_tables_api.c.
 - [randorisec/CVE-2022-34918-LPE-PoC](https://github.com/randorisec/CVE-2022-34918-LPE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/randorisec/CVE-2022-34918-LPE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/randorisec/CVE-2022-34918-LPE-PoC">
@@ -9728,6 +9788,11 @@
 ## CVE-2022-3484 (2022-11-14T15:15:00)
 > The WPB Show Core WordPress plugin through TODO does not sanitise and escape a parameter before outputting it back in the page, leading to a Reflected Cross-Site Scripting
 - [Live-Hack-CVE/CVE-2022-3484](https://github.com/Live-Hack-CVE/CVE-2022-3484)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3484">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3484">
+
+---
+## CVE-2022-34836 (2022-08-24T16:15:00)
+> Relative Path Traversal vulnerability in ABB Zenon 8.20 allows the user to access files on the Zenon system and user also can add own log messages and e.g., flood the log entries. An attacker who successfully exploit the vulnerability could access the Zenon runtime activities such as the start and stop of various activity and the last error code etc.
+- [Live-Hack-CVE/CVE-2022-34836](https://github.com/Live-Hack-CVE/CVE-2022-34836)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34836">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34836">
 
 ---
 ## CVE-2022-3483 (2022-11-09T23:15:00)
@@ -9980,6 +10045,11 @@
 - [coco0x0a/CTF_CVE-2022-34265](https://github.com/coco0x0a/CTF_CVE-2022-34265)	<img alt="forks" src="https://img.shields.io/github/forks/coco0x0a/CTF_CVE-2022-34265">	<img alt="stars" src="https://img.shields.io/github/stars/coco0x0a/CTF_CVE-2022-34265">
 
 ---
+## CVE-2022-34256 (2022-08-16T21:15:00)
+> Adobe Commerce versions 2.4.3-p2 (and earlier), 2.3.7-p3 (and earlier) and 2.4.4 (and earlier) are affected by an Improper Authorization vulnerability that could result in Privilege escalation. An attacker could leverage this vulnerability to access other user's data. Exploitation of this issue does not require user interaction.
+- [Live-Hack-CVE/CVE-2022-34256](https://github.com/Live-Hack-CVE/CVE-2022-34256)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34256">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34256">
+
+---
 ## CVE-2022-34255 (2022-08-16T21:15:00)
 > Adobe Commerce versions 2.4.3-p2 (and earlier), 2.3.7-p3 (and earlier) and 2.4.4 (and earlier) are affected by an Improper Access Control vulnerability that could result in Privilege escalation. An attacker with a low privilege account could leverage this vulnerability to perform an account takeover for a victim. Exploitation of this issue does not require user interaction.
 - [Live-Hack-CVE/CVE-2022-34255](https://github.com/Live-Hack-CVE/CVE-2022-34255)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34255">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34255">
@@ -10218,6 +10288,16 @@
 - [Amulab/CVE-2022-33679](https://github.com/Amulab/CVE-2022-33679)	<img alt="forks" src="https://img.shields.io/github/forks/Amulab/CVE-2022-33679">	<img alt="stars" src="https://img.shields.io/github/stars/Amulab/CVE-2022-33679">
 - [Bdenneu/CVE-2022-33679](https://github.com/Bdenneu/CVE-2022-33679)	<img alt="forks" src="https://img.shields.io/github/forks/Bdenneu/CVE-2022-33679">	<img alt="stars" src="https://img.shields.io/github/stars/Bdenneu/CVE-2022-33679">
 - [notareaperbutDR34P3r/Kerberos_CVE-2022-33679](https://github.com/notareaperbutDR34P3r/Kerberos_CVE-2022-33679)	<img alt="forks" src="https://img.shields.io/github/forks/notareaperbutDR34P3r/Kerberos_CVE-2022-33679">	<img alt="stars" src="https://img.shields.io/github/stars/notareaperbutDR34P3r/Kerberos_CVE-2022-33679">
+
+---
+## CVE-2022-33678 (2022-07-12T23:15:00)
+> Azure Site Recovery Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-33676.
+- [Live-Hack-CVE/CVE-2022-33678](https://github.com/Live-Hack-CVE/CVE-2022-33678)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33678">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33678">
+
+---
+## CVE-2022-33676 (2022-07-12T23:15:00)
+> Azure Site Recovery Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-33678.
+- [Live-Hack-CVE/CVE-2022-33676](https://github.com/Live-Hack-CVE/CVE-2022-33676)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33676">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33676">
 
 ---
 ## CVE-2022-33658 (2022-07-12T23:15:00)
@@ -10567,6 +10647,11 @@
 ## CVE-2022-32749 (2022-12-19T11:15:00)
 > Improper Check for Unusual or Exceptional Conditions vulnerability handling requests in Apache Traffic Server allows an attacker to crash the server under certain conditions. This issue affects Apache Traffic Server: from 8.0.0 through 9.1.3.
 - [Live-Hack-CVE/CVE-2022-32749](https://github.com/Live-Hack-CVE/CVE-2022-32749)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32749">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32749">
+
+---
+## CVE-2022-32742 (2022-08-25T18:15:00)
+> A flaw was found in Samba. Some SMB1 write requests were not correctly range-checked to ensure the client had sent enough data to fulfill the write, allowing server memory contents to be written into the file (or printer) instead of client-supplied data. The client cannot control the area of the server memory written to the file (or printer).
+- [Live-Hack-CVE/CVE-2022-32742](https://github.com/Live-Hack-CVE/CVE-2022-32742)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32742">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32742">
 
 ---
 ## CVE-2022-3272 (2022-09-26T17:16:00)
@@ -11006,6 +11091,11 @@
 ## CVE-2022-31777 (2022-11-01T16:15:00)
 > A stored cross-site scripting (XSS) vulnerability in Apache Spark 3.2.1 and earlier, and 3.3.0, allows remote attackers to execute arbitrary JavaScript in the web browser of a user, by including a malicious payload into the logs which would be returned in logs rendered in the UI.
 - [Live-Hack-CVE/CVE-2022-31777](https://github.com/Live-Hack-CVE/CVE-2022-31777)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31777">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31777">
+
+---
+## CVE-2022-31773 (2022-08-26T18:15:00)
+> IBM DataPower Gateway V10CD, 10.0.1, and 2018.4.1 is vulnerable to cross-site request forgery which could allow an attacker to execute malicious and unauthorized actions transmitted from a user that the website trusts. IBM X-Force ID: 228357.
+- [Live-Hack-CVE/CVE-2022-31773](https://github.com/Live-Hack-CVE/CVE-2022-31773)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31773">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31773">
 
 ---
 ## CVE-2022-31749 ()
@@ -14106,6 +14196,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-23723](https://github.com/Live-Hack-CVE/CVE-2022-23723)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23723">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23723">
 
 ---
+## CVE-2022-23715 (2022-08-25T18:15:00)
+> A flaw was discovered in ECE before 3.4.0 that might lead to the disclosure of sensitive information such as user passwords and Elasticsearch keystore settings values in logs such as the audit log or deployment logs in the Logging and Monitoring cluster. The affected APIs are PATCH /api/v1/user and PATCH /deployments/{deployment_id}/elasticsearch/{ref_id}/keystore
+- [Live-Hack-CVE/CVE-2022-23715](https://github.com/Live-Hack-CVE/CVE-2022-23715)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23715">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23715">
+
+---
 ## CVE-2022-23708 (2022-03-03T22:15:00)
 > A flaw was discovered in Elasticsearch 7.17.0’s upgrade assistant, in which upgrading from version 6.x to 7.x would disable the in-built protections on the security index, allowing authenticated users with “*” index permissions access to this index.
 - [Live-Hack-CVE/CVE-2022-23708](https://github.com/Live-Hack-CVE/CVE-2022-23708)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23708">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23708">
@@ -15908,6 +16003,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-20344 (2022-08-10T20:15:00)
 > In stealReceiveChannel of EventThread.cpp, there is a possible way to interfere with process communication due to a race condition. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12LAndroid ID: A-232541124
 - [nidhi7598/frameworks_native_AOSP_10_r33_CVE-2022-20344](https://github.com/nidhi7598/frameworks_native_AOSP_10_r33_CVE-2022-20344)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_native_AOSP_10_r33_CVE-2022-20344">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_native_AOSP_10_r33_CVE-2022-20344">
+
+---
+## CVE-2022-2031 (2022-08-25T18:15:00)
+> A flaw was found in Samba. The security vulnerability occurs when KDC and the kpasswd service share a single account and set of keys, allowing them to decrypt each other's tickets. A user who has been requested to change their password, can exploit this flaw to obtain and use tickets to other services.
+- [Live-Hack-CVE/CVE-2022-2031](https://github.com/Live-Hack-CVE/CVE-2022-2031)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2031">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2031">
 
 ---
 ## CVE-2022-20239 (2022-08-10T20:15:00)

@@ -474,6 +474,11 @@
 - [Live-Hack-CVE/CVE-2021-43775](https://github.com/Live-Hack-CVE/CVE-2021-43775)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43775">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43775">
 
 ---
+## CVE-2021-43767 (2022-08-25T18:15:00)
+> Odyssey passes to client unencrypted bytes from man-in-the-middle When Odyssey storage is configured to use the PostgreSQL server using 'trust' authentication with a 'clientcert' requirement or to use 'cert' authentication, a man-in-the-middle attacker can inject false responses to the client's first few queries. Despite the use of SSL certificate verification and encryption, Odyssey will pass these results to client as if they originated from valid server. This is similar to CVE-2021-23222 for PostgreSQL.
+- [Live-Hack-CVE/CVE-2021-43767](https://github.com/Live-Hack-CVE/CVE-2021-43767)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43767">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43767">
+
+---
 ## CVE-2021-43657 (2022-12-22T02:15:00)
 > A Stored Cross-site scripting (XSS) vulnerability via MAster.php in Sourcecodetester Simple Client Management System (SCMS) 1.0 allows remote attackers to inject arbitrary web script or HTML via the vulnerable input fields.
 - [c0n5n3d/CVE-2021-43657](https://github.com/c0n5n3d/CVE-2021-43657)	<img alt="forks" src="https://img.shields.io/github/forks/c0n5n3d/CVE-2021-43657">	<img alt="stars" src="https://img.shields.io/github/stars/c0n5n3d/CVE-2021-43657">
@@ -544,6 +549,11 @@
 ## CVE-2021-43403 (2022-09-29T03:15:00)
 > An issue was discovered in FusionPBX before 4.5.30. The log_viewer.php Log View page allows an authenticated user to choose an arbitrary filename for download (i.e., not necessarily freeswitch.log in the intended directory).
 - [Live-Hack-CVE/CVE-2021-43403](https://github.com/Live-Hack-CVE/CVE-2021-43403)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43403">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43403">
+
+---
+## CVE-2021-43329 (2022-08-25T22:15:00)
+> A SQL injection vulnerability in license_update.php in Mumara Classic through 2.93 allows a remote unauthenticated attacker to execute arbitrary SQL commands via the license parameter.
+- [Live-Hack-CVE/CVE-2021-43329](https://github.com/Live-Hack-CVE/CVE-2021-43329)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43329">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43329">
 
 ---
 ## CVE-2021-43305 (2022-03-14T23:15:00)
@@ -650,6 +660,21 @@
 ## CVE-2021-4253 (2022-12-18T22:15:00)
 > A vulnerability, which was classified as problematic, was found in ctrlo lenio. Affected is an unknown function in the library lib/Lenio.pm of the component Ticket Handler. The manipulation of the argument site_id leads to cross site scripting. It is possible to launch the attack remotely. The name of the patch is 7a1f90bd2a0ce95b8338ec0926902da975ec64d9. It is recommended to apply a patch to fix this issue. VDB-216210 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2021-4253](https://github.com/Live-Hack-CVE/CVE-2021-4253)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4253">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4253">
+
+---
+## CVE-2021-42523 (2022-08-25T18:15:00)
+> There are two Information Disclosure vulnerabilities in colord, and they lie in colord/src/cd-device-db.c and colord/src/cd-profile-db.c separately. They exist because the 'err_msg' of 'sqlite3_exec' is not releasing after use, while libxml2 emphasizes that the caller needs to release it.
+- [Live-Hack-CVE/CVE-2021-42523](https://github.com/Live-Hack-CVE/CVE-2021-42523)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42523">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42523">
+
+---
+## CVE-2021-42522 (2022-08-25T18:15:00)
+> There is a Information Disclosure vulnerability in anjuta/plugins/document-manager/anjuta-bookmarks.c. This issue was caused by the incorrect use of libxml2 API. The vendor forgot to call 'g_free()' to release the return value of 'xmlGetProp()'.
+- [Live-Hack-CVE/CVE-2021-42522](https://github.com/Live-Hack-CVE/CVE-2021-42522)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42522">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42522">
+
+---
+## CVE-2021-42521 (2022-08-25T18:15:00)
+> There is a NULL pointer dereference vulnerability in VTK, and it lies in IO/Infovis/vtkXMLTreeReader.cxx. The vendor didn't check the return value of libxml2 API 'xmlDocGetRootElement', and try to dereference it. It is unsafe as the return value can be NULL and that NULL pointer dereference may crash the application.
+- [Live-Hack-CVE/CVE-2021-42521](https://github.com/Live-Hack-CVE/CVE-2021-42521)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42521">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42521">
 
 ---
 ## CVE-2021-4251 (2022-12-18T22:15:00)
@@ -1041,6 +1066,11 @@
 - [Live-Hack-CVE/CVE-2021-41141](https://github.com/Live-Hack-CVE/CVE-2021-41141)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41141">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41141">
 
 ---
+## CVE-2021-4112 (2022-08-25T20:15:00)
+> A flaw was found in ansible-tower where the default installation is vulnerable to job isolation escape. This flaw allows an attacker to elevate the privilege from a low privileged user to an AWX user from outside the isolated environment.
+- [Live-Hack-CVE/CVE-2021-4112](https://github.com/Live-Hack-CVE/CVE-2021-4112)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4112">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4112">
+
+---
 ## CVE-2021-41116 (2021-10-05T18:15:00)
 > Composer is an open source dependency manager for the PHP language. In affected versions windows users running Composer to install untrusted dependencies are subject to command injection and should upgrade their composer version. Other OSs and WSL are not affected. The issue has been resolved in composer versions 1.10.23 and 2.1.9. There are no workarounds for this issue.
 - [Live-Hack-CVE/CVE-2021-41116](https://github.com/Live-Hack-CVE/CVE-2021-41116)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41116">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41116">
@@ -1337,6 +1367,11 @@
 - [Live-Hack-CVE/CVE-2021-40226](https://github.com/Live-Hack-CVE/CVE-2021-40226)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40226">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40226">
 
 ---
+## CVE-2021-4022 (2022-08-25T18:15:00)
+> A vulnerability was found in rizin. The bug involves an ELF64 binary for the HPPA architecture. When a specially crafted binarygets analysed by rizin, it causes rizin to crash by freeing an uninitialized (and potentially user controlled, depending on the build) memory address.
+- [Live-Hack-CVE/CVE-2021-4022](https://github.com/Live-Hack-CVE/CVE-2021-4022)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4022">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4022">
+
+---
 ## CVE-2021-40113 (2021-11-04T16:15:00)
 > Multiple vulnerabilities in the web-based management interface of the Cisco Catalyst Passive Optical Network (PON) Series Switches Optical Network Terminal (ONT) could allow an unauthenticated, remote attacker to perform the following actions: Log in with a default credential if the Telnet protocol is enabled Perform command injection Modify the configuration For more information about these vulnerabilities, see the Details section of this advisory.
 - [Live-Hack-CVE/CVE-2021-40113](https://github.com/Live-Hack-CVE/CVE-2021-40113)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40113">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40113">
@@ -1451,6 +1486,16 @@
 ## CVE-2021-39408 (2022-06-24T17:15:00)
 > Cross Site Scripting (XSS) vulnerability exists in Online Student Rate System 1.0 via the page parameter on the index.php file
 - [StefanDorresteijn/CVE-2021-39408](https://github.com/StefanDorresteijn/CVE-2021-39408)	<img alt="forks" src="https://img.shields.io/github/forks/StefanDorresteijn/CVE-2021-39408">	<img alt="stars" src="https://img.shields.io/github/stars/StefanDorresteijn/CVE-2021-39408">
+
+---
+## CVE-2021-39394 (2022-08-26T13:15:00)
+> mm-wiki v0.2.1 was discovered to contain a Cross-Site Request Forgery (CSRF) which allows attackers to arbitrarily add user accounts and modify user information.
+- [Live-Hack-CVE/CVE-2021-39394](https://github.com/Live-Hack-CVE/CVE-2021-39394)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39394">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39394">
+
+---
+## CVE-2021-39393 (2022-08-26T13:15:00)
+> mm-wiki v0.2.1 was discovered to contain a cross-site scripting (XSS) vulnerability via the markdown editor.
+- [Live-Hack-CVE/CVE-2021-39393](https://github.com/Live-Hack-CVE/CVE-2021-39393)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39393">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39393">
 
 ---
 ## CVE-2021-3933 (2022-03-25T19:15:00)
@@ -3633,6 +3678,11 @@
 ## CVE-2021-24431 (2021-09-13T18:15:00)
 > The Language Bar Flags WordPress plugin through 1.0.8 does not have any CSRF in place when saving its settings and did not sanitise or escape them when generating the flag bar in the frontend. This could allow attackers to make a logged in admin change the settings, and set Cross-Site Scripting payload in them, which will be executed in the frontend for all users
 - [Live-Hack-CVE/CVE-2021-24431](https://github.com/Live-Hack-CVE/CVE-2021-24431)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24431">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24431">
+
+---
+## CVE-2021-24188 (2021-05-14T12:15:00)
+> Low privileged users can use the AJAX action 'cp_plugins_do_button_job_later_callback' in the WP Content Copy Protection & No Right Click WordPress plugin before 3.1.5, to install any plugin (including a specific version) from the WordPress repository, as well as activate arbitrary plugin from then blog, which helps attackers install vulnerable plugins and could lead to more critical vulnerabilities like RCE.
+- [Live-Hack-CVE/CVE-2021-24188](https://github.com/Live-Hack-CVE/CVE-2021-24188)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24188">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24188">
 
 ---
 ## CVE-2021-23841 (2021-02-16T17:15:00)
