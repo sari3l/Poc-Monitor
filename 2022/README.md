@@ -7761,6 +7761,96 @@
 - [Live-Hack-CVE/CVE-2022-37835](https://github.com/Live-Hack-CVE/CVE-2022-37835)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37835">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37835">
 
 ---
+## CVE-2022-37815 (2022-08-25T15:15:00)
+> Tenda AC1206 V15.03.06.23 was discovered to contain a stack overflow via the PPPOEPassword parameter in the function formQuickIndex.
+- [Live-Hack-CVE/CVE-2022-37815](https://github.com/Live-Hack-CVE/CVE-2022-37815)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37815">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37815">
+
+---
+## CVE-2022-37814 (2022-08-25T15:15:00)
+> Tenda AC1206 V15.03.06.23 was discovered to contain multiple stack overflows via the deviceMac and the device_id parameters in the function addWifiMacFilter.
+- [Live-Hack-CVE/CVE-2022-37814](https://github.com/Live-Hack-CVE/CVE-2022-37814)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37814">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37814">
+
+---
+## CVE-2022-37813 (2022-08-25T15:15:00)
+> Tenda AC1206 V15.03.06.23 was discovered to contain a stack overflow via the function fromSetSysTime.
+- [Live-Hack-CVE/CVE-2022-37813](https://github.com/Live-Hack-CVE/CVE-2022-37813)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37813">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37813">
+
+---
+## CVE-2022-37812 (2022-08-25T15:15:00)
+> Tenda AC1206 V15.03.06.23 was discovered to contain a stack overflow via the firewallEn parameter in the function formSetFirewallCfg.
+- [Live-Hack-CVE/CVE-2022-37812](https://github.com/Live-Hack-CVE/CVE-2022-37812)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37812">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37812">
+
+---
+## CVE-2022-37811 (2022-08-25T15:15:00)
+> Tenda AC1206 V15.03.06.23 was discovered to contain a stack overflow via the startIp parameter in the function formSetPPTPServer.
+- [Live-Hack-CVE/CVE-2022-37811](https://github.com/Live-Hack-CVE/CVE-2022-37811)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37811">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37811">
+
+---
+## CVE-2022-37810 (2022-08-25T15:15:00)
+> Tenda AC1206 V15.03.06.23 was discovered to contain a command injection vulnerability via the mac parameter in the function formWriteFacMac.
+- [Live-Hack-CVE/CVE-2022-37810](https://github.com/Live-Hack-CVE/CVE-2022-37810)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37810">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37810">
+
+---
+## CVE-2022-37809 (2022-08-25T15:15:00)
+> Tenda AC1206 V15.03.06.23 was discovered to contain a stack overflow via the speed_dir parameter in the function formSetSpeedWan.
+- [Live-Hack-CVE/CVE-2022-37809](https://github.com/Live-Hack-CVE/CVE-2022-37809)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37809">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37809">
+
+---
+## CVE-2022-37808 (2022-08-25T15:15:00)
+> Tenda AC1206 V15.03.06.23 was discovered to contain a stack overflow via the index parameter in the function formWifiWpsOOB.
+- [Live-Hack-CVE/CVE-2022-37808](https://github.com/Live-Hack-CVE/CVE-2022-37808)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37808">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37808">
+
+---
+## CVE-2022-37807 (2022-08-25T15:15:00)
+> Tenda AC1206 V15.03.06.23 was discovered to contain a stack overflow via the function formSetClientState.
+- [Live-Hack-CVE/CVE-2022-37807](https://github.com/Live-Hack-CVE/CVE-2022-37807)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37807">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37807">
+
+---
+## CVE-2022-37806 (2022-08-25T15:15:00)
+> Tenda AC1206 V15.03.06.23 was discovered to contain a stack overflow via the page parameter in the function fromDhcpListClient.
+- [Live-Hack-CVE/CVE-2022-37806](https://github.com/Live-Hack-CVE/CVE-2022-37806)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37806">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37806">
+
+---
+## CVE-2022-37805 (2022-08-25T15:15:00)
+> Tenda AC1206 V15.03.06.23 was discovered to contain a stack overflow via the function fromWizardHandle.
+- [Live-Hack-CVE/CVE-2022-37805](https://github.com/Live-Hack-CVE/CVE-2022-37805)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37805">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37805">
+
+---
+## CVE-2022-37804 (2022-08-25T15:15:00)
+> Tenda AC1206 V15.03.06.23 was discovered to contain a stack overflow via the time parameter in the function saveParentControlInfo.
+- [Live-Hack-CVE/CVE-2022-37804](https://github.com/Live-Hack-CVE/CVE-2022-37804)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37804">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37804">
+
+---
+## CVE-2022-37803 (2022-08-25T15:15:00)
+> Tenda AC1206 V15.03.06.23 was discovered to contain a stack overflow via the page parameter in the function fromAddressNat.
+- [Live-Hack-CVE/CVE-2022-37803](https://github.com/Live-Hack-CVE/CVE-2022-37803)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37803">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37803">
+
+---
+## CVE-2022-37802 (2022-08-25T15:15:00)
+> Tenda AC1206 V15.03.06.23 was discovered to contain a stack overflow via the page parameter in the function fromNatStaticSetting.
+- [Live-Hack-CVE/CVE-2022-37802](https://github.com/Live-Hack-CVE/CVE-2022-37802)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37802">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37802">
+
+---
+## CVE-2022-37801 (2022-08-25T15:15:00)
+> Tenda AC1206 V15.03.06.23 was discovered to contain a stack overflow via the list parameter at the function formSetQosBand.
+- [Live-Hack-CVE/CVE-2022-37801](https://github.com/Live-Hack-CVE/CVE-2022-37801)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37801">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37801">
+
+---
+## CVE-2022-37800 (2022-08-25T15:15:00)
+> Tenda AC1206 V15.03.06.23 was discovered to contain a stack overflow via the list parameter at the function fromSetRouteStatic.
+- [Live-Hack-CVE/CVE-2022-37800](https://github.com/Live-Hack-CVE/CVE-2022-37800)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37800">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37800">
+
+---
+## CVE-2022-37799 (2022-08-25T15:15:00)
+> Tenda AC1206 V15.03.06.23 was discovered to contain a stack overflow via the time parameter at the function setSmartPowerManagement.
+- [Live-Hack-CVE/CVE-2022-37799](https://github.com/Live-Hack-CVE/CVE-2022-37799)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37799">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37799">
+
+---
+## CVE-2022-37798 (2022-08-25T15:15:00)
+> Tenda AC1206 V15.03.06.23 was discovered to contain a stack overflow via the list parameter at the function formSetVirtualSer.
+- [Live-Hack-CVE/CVE-2022-37798](https://github.com/Live-Hack-CVE/CVE-2022-37798)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37798">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37798">
+
+---
 ## CVE-2022-37794 (2022-09-12T00:15:00)
 > In Library Management System 1.0 the /card/in-card.php file id_no parameters are vulnerable to SQL injection.
 - [Live-Hack-CVE/CVE-2022-37794](https://github.com/Live-Hack-CVE/CVE-2022-37794)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37794">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37794">
@@ -9462,6 +9552,11 @@
 - [Live-Hack-CVE/CVE-2022-3574](https://github.com/Live-Hack-CVE/CVE-2022-3574)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3574">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3574">
 
 ---
+## CVE-2022-35733 (2022-08-23T02:15:00)
+> Missing authentication for critical function vulnerability in UNIMO Technology digital video recorders (UDR-JA1004/JA1008/JA1016 firmware versions v1.0.20.13 and earlier, and UDR-JA1016 firmware versions v2.0.20.13 and earlier) allows a remote unauthenticated attacker to execute an arbitrary OS command by sending a specially crafted request to the affected device web interface.
+- [Live-Hack-CVE/CVE-2022-35733](https://github.com/Live-Hack-CVE/CVE-2022-35733)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35733">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35733">
+
+---
 ## CVE-2022-35730 (2022-12-04T23:15:00)
 > Cross-Site Request Forgery (CSRF) vulnerability in Oceanwp sticky header plugin <= 1.0.8 on WordPress.
 - [Live-Hack-CVE/CVE-2022-35730](https://github.com/Live-Hack-CVE/CVE-2022-35730)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35730">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35730">
@@ -10106,6 +10201,36 @@
 ## CVE-2022-3479 (2022-10-14T17:15:00)
 > A vulnerability found in nss. By this security vulnerability, nss client auth crash without a user certificate in the database and this can lead us to a segmentation fault or crash.
 - [Live-Hack-CVE/CVE-2022-3479](https://github.com/Live-Hack-CVE/CVE-2022-3479)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3479">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3479">
+
+---
+## CVE-2022-34776 (2022-08-22T15:15:00)
+> Tabit - giftcard stealth. Several APIs on the web system display, without authorization, sensitive information such as health statements, previous bills in a specific restaurant, alcohol consumption and smoking habits. Each of the described APIs, has in its URL one or more MongoDB ID which is not so simple to enumerate. However, they each receive a 'tiny URL' in tabits domain, in the form of https://tbit.be/{suffix} with suffix being a 5 character long string containing numbers, lower and upper case letters. It is not so simple to enumerate them all, but really easy to find some that work and lead to a personal endpoint. Furthermore, the redirect URL disclosed the MongoDB IDs discussed above, and we could use them to query other endpoints disclosing more personal information.
+- [Live-Hack-CVE/CVE-2022-34776](https://github.com/Live-Hack-CVE/CVE-2022-34776)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34776">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34776">
+
+---
+## CVE-2022-34775 (2022-08-22T15:15:00)
+> Tabit - Excessive data exposure. Another endpoint mapped by the tiny url, was one for reservation cancellation, containing the MongoDB ID of the reservation, and organization. This can be used to query the http://tgm-api.tabit.cloud/rsv/management/{reservationId}?organization={orgId} API which returns a lot of data regarding the reservation (OWASP: API3): Name, mail, phone number, the number of visits of the user to this specific restaurant, the money he spent there, the money he spent on alcohol, whether he left a deposit etc. This information can easily be used for a phishing attack.
+- [Live-Hack-CVE/CVE-2022-34775](https://github.com/Live-Hack-CVE/CVE-2022-34775)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34775">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34775">
+
+---
+## CVE-2022-34774 (2022-08-22T15:15:00)
+> Tabit - Arbitrary account modification. One of the endpoints mapped by the tiny URL, was a page where an adversary can modify personal details, such as email addresses and phone numbers of a specific user in a restaurant's loyalty program. Possibly allowing account takeover (the mail can be used to reset password).
+- [Live-Hack-CVE/CVE-2022-34774](https://github.com/Live-Hack-CVE/CVE-2022-34774)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34774">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34774">
+
+---
+## CVE-2022-34773 (2022-08-22T15:15:00)
+> Tabit - HTTP Method manipulation. https://bridge.tabit.cloud/configuration/addresses-query - can be POST-ed to add addresses to the DB. This is an example of OWASP:API8 – Injection.
+- [Live-Hack-CVE/CVE-2022-34773](https://github.com/Live-Hack-CVE/CVE-2022-34773)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34773">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34773">
+
+---
+## CVE-2022-34772 (2022-08-22T15:15:00)
+> Tabit - password enumeration. Description: Tabit - password enumeration. The passwords for the Tabit system is a 4 digit OTP. One can resend OTP and try logging in indefinitely. Once again, this is an example of OWASP: API4 - Rate limiting.
+- [Live-Hack-CVE/CVE-2022-34772](https://github.com/Live-Hack-CVE/CVE-2022-34772)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34772">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34772">
+
+---
+## CVE-2022-34770 (2022-08-22T15:15:00)
+> Tabit - sensitive information disclosure. Several APIs on the web system display, without authorization, sensitive information such as health statements, previous bills in a specific restaurant, alcohol consumption and smoking habits. Each of the described API’s, has in its URL one or more MongoDB ID which is not so simple to enumerate. However, they each receive a ‘tiny URL’ in Tabit’s domain, in the form of https://tbit.be/{suffix} with suffix being a 5 characters long string containing numbers, lower- and upper-case letters. It is not so simple to enumerate them all, but really easy to find some that work and lead to a personal endpoint. This is both an example of OWASP: API4 - rate limiting and OWASP: API1 - Broken object level authorization. Furthermore, the redirect URL disclosed the MongoDB IDs discussed above, and we could use them to query other endpoints disclosing more personal information. For example: The URL https://tabitisrael.co.il/online-reservations/health-statement?orgId={org_id}&healthStatementId={health_statement_id} is used to invite friends to fill a health statement before attending the restaurant. We can use the health_statement_id to access the https://tgm-api.tabit.cloud/health-statement/{health_statement_id} API which disclose medical information as well as id number.
+- [Live-Hack-CVE/CVE-2022-34770](https://github.com/Live-Hack-CVE/CVE-2022-34770)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34770">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34770">
 
 ---
 ## CVE-2022-3477 (2022-11-14T15:15:00)
@@ -12124,6 +12249,11 @@
 - [Live-Hack-CVE/CVE-2022-30614](https://github.com/Live-Hack-CVE/CVE-2022-30614)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30614">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30614">
 
 ---
+## CVE-2022-30605 (2022-08-22T19:15:00)
+> A privilege escalation vulnerability exists in the session id functionality of WWBN AVideo 11.6 and dev master commit 3f7c0364. A specially-crafted HTTP request can lead to increased privileges. An attacker can get an authenticated user to send a crafted HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-30605](https://github.com/Live-Hack-CVE/CVE-2022-30605)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30605">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30605">
+
+---
 ## CVE-2022-30601 (2022-08-18T21:15:00)
 > Insufficiently protected credentials for Intel(R) AMT and Intel(R) Standard Manageability may allow an unauthenticated user to potentially enable information disclosure and escalation of privilege via network access.
 - [Live-Hack-CVE/CVE-2022-30601](https://github.com/Live-Hack-CVE/CVE-2022-30601)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30601">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30601">
@@ -12188,6 +12318,11 @@
 ## CVE-2022-3054 (2022-09-26T16:15:00)
 > Insufficient policy enforcement in DevTools in Google Chrome prior to 105.0.5195.52 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
 - [Live-Hack-CVE/CVE-2022-3054](https://github.com/Live-Hack-CVE/CVE-2022-3054)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3054">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3054">
+
+---
+## CVE-2022-30534 (2022-08-22T19:15:00)
+> An OS command injection vulnerability exists in the aVideoEncoder chunkfile functionality of WWBN AVideo 11.6 and dev master commit 3f7c0364. A specially-crafted HTTP request can lead to arbitrary command execution. An attacker can send an HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-30534](https://github.com/Live-Hack-CVE/CVE-2022-30534)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30534">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30534">
 
 ---
 ## CVE-2022-30529 (2022-11-22T01:15:00)
@@ -13019,6 +13154,11 @@
 ## CVE-2022-2872 (2022-09-21T10:15:00)
 > Unrestricted Upload of File with Dangerous Type in GitHub repository octoprint/octoprint prior to 1.8.3.
 - [Live-Hack-CVE/CVE-2022-2872](https://github.com/Live-Hack-CVE/CVE-2022-2872)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2872">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2872">
+
+---
+## CVE-2022-28712 (2022-08-22T19:15:00)
+> A cross-site scripting (xss) vulnerability exists in the videoAddNew functionality of WWBN AVideo 11.6 and dev master commit 3f7c0364. A specially-crafted HTTP request can lead to arbitrary Javascript execution. An attacker can get an authenticated user to send a crafted HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-28712](https://github.com/Live-Hack-CVE/CVE-2022-28712)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28712">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28712">
 
 ---
 ## CVE-2022-28672 (2022-07-18T19:15:00)
@@ -14097,6 +14237,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-25243](https://github.com/Live-Hack-CVE/CVE-2022-25243)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25243">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25243">
 
 ---
+## CVE-2022-25231 (2022-08-23T05:15:00)
+> The package node-opcua before 2.74.0 are vulnerable to Denial of Service (DoS) by sending a specifically crafted OPC UA message with a special OPC UA NodeID, when the requested memory allocation exceeds the v8’s memory limit.
+- [Live-Hack-CVE/CVE-2022-25231](https://github.com/Live-Hack-CVE/CVE-2022-25231)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25231">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25231">
+
+---
 ## CVE-2022-2521 (2022-08-31T16:15:00)
 > It was found in libtiff 4.4.0rc1 that there is an invalid pointer free operation in TIFFClose() at tif_close.c:131 called by tiffcrop.c:2522 that can cause a program crash and denial of service while processing crafted input.
 - [Live-Hack-CVE/CVE-2022-2521](https://github.com/Live-Hack-CVE/CVE-2022-2521)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2521">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2521">
@@ -14355,6 +14500,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-24377 (2022-12-14T05:15:00)
 > The package cycle-import-check before 1.3.2 are vulnerable to Command Injection via the writeFileToTmpDirAndOpenIt function due to improper user-input sanitization.
 - [Live-Hack-CVE/CVE-2022-24377](https://github.com/Live-Hack-CVE/CVE-2022-24377)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24377">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24377">
+
+---
+## CVE-2022-24375 (2022-08-24T05:15:00)
+> The package node-opcua before 2.74.0 are vulnerable to Denial of Service (DoS) when bypassing the limitations for excessive memory consumption by sending multiple CloseSession requests with the deleteSubscription parameter equal to False.
+- [Live-Hack-CVE/CVE-2022-24375](https://github.com/Live-Hack-CVE/CVE-2022-24375)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24375">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24375">
 
 ---
 ## CVE-2022-24342 (2022-02-25T15:15:00)
