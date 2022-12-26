@@ -7225,6 +7225,11 @@
 - [Live-Hack-CVE/CVE-2022-38150](https://github.com/Live-Hack-CVE/CVE-2022-38150)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38150">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38150">
 
 ---
+## CVE-2022-38149 (2022-08-17T15:15:00)
+> HashiCorp Consul Template up to 0.27.2, 0.28.2, and 0.29.1 may expose the contents of Vault secrets in the error returned by the *template.Template.Execute method, when given a template using Vault secret contents incorrectly. Fixed in 0.27.3, 0.28.3, and 0.29.2.
+- [Live-Hack-CVE/CVE-2022-38149](https://github.com/Live-Hack-CVE/CVE-2022-38149)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38149">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38149">
+
+---
 ## CVE-2022-38148 (2022-11-21T16:15:00)
 > Silverstripe silverstripe/framework through 4.11 allows SQL Injection.
 - [Live-Hack-CVE/CVE-2022-38148](https://github.com/Live-Hack-CVE/CVE-2022-38148)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38148">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38148">
@@ -8385,6 +8390,26 @@
 - [Live-Hack-CVE/CVE-2022-3672](https://github.com/Live-Hack-CVE/CVE-2022-3672)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3672">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3672">
 
 ---
+## CVE-2022-36708 (2022-08-28T23:15:00)
+> Library Management System v1.0 was discovered to contain a SQL injection vulnerability via the Id parameter at /student/bookdetails.php.
+- [Live-Hack-CVE/CVE-2022-36708](https://github.com/Live-Hack-CVE/CVE-2022-36708)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36708">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36708">
+
+---
+## CVE-2022-36706 (2022-08-28T23:15:00)
+> Ingredients Stock Management System v1.0 was discovered to contain a SQL injection vulnerability via the Id parameter at /stocks/manage_stockout.php.
+- [Live-Hack-CVE/CVE-2022-36706](https://github.com/Live-Hack-CVE/CVE-2022-36706)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36706">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36706">
+
+---
+## CVE-2022-36705 (2022-08-28T23:15:00)
+> Ingredients Stock Management System v1.0 was discovered to contain a SQL injection vulnerability via the Id parameter at /stocks/manage_waste.php.
+- [Live-Hack-CVE/CVE-2022-36705](https://github.com/Live-Hack-CVE/CVE-2022-36705)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36705">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36705">
+
+---
+## CVE-2022-36704 (2022-08-28T23:15:00)
+> Library Management System v1.0 was discovered to contain a SQL injection vulnerability via the Id parameter at /librarian/studentdetails.php.
+- [Live-Hack-CVE/CVE-2022-36704](https://github.com/Live-Hack-CVE/CVE-2022-36704)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36704">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36704">
+
+---
 ## CVE-2022-3670 (2022-10-26T19:15:00)
 > A vulnerability was found in Axiomatic Bento4. It has been classified as critical. Affected is the function WriteSample of the component mp42hevc. The manipulation leads to heap-based buffer overflow. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. VDB-212010 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-3670](https://github.com/Live-Hack-CVE/CVE-2022-3670)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3670">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3670">
@@ -8459,6 +8484,11 @@
 ## CVE-2022-36593 (2022-09-02T04:15:00)
 > kkFileView v4.0.0 was discovered to contain an arbitrary file deletion vulnerability via the fileName parameter at /controller/FileController.java.
 - [Live-Hack-CVE/CVE-2022-36593](https://github.com/Live-Hack-CVE/CVE-2022-36593)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36593">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36593">
+
+---
+## CVE-2022-36573 (2022-08-29T00:15:00)
+> A cross-site scripting (XSS) vulnerability in Pagekit CMS v1.0.18 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Markdown text box under /blog/post/edit.
+- [Live-Hack-CVE/CVE-2022-36573](https://github.com/Live-Hack-CVE/CVE-2022-36573)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36573">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36573">
 
 ---
 ## CVE-2022-3656 (2022-11-01T23:15:00)
@@ -12091,6 +12121,12 @@
 - [Live-Hack-CVE/CVE-2022-2998](https://github.com/Live-Hack-CVE/CVE-2022-2998)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2998">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2998">
 
 ---
+## CVE-2022-2997 (2022-08-25T21:15:00)
+> Session Fixation in GitHub repository snipe/snipe-it prior to 6.0.10.
+- [Live-Hack-CVE/CVE-2022-2997](https://github.com/Live-Hack-CVE/CVE-2022-2997)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2997">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2997">
+- [Live-Hack-CVE/CVE-2022-29970](https://github.com/Live-Hack-CVE/CVE-2022-29970)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29970">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29970">
+
+---
 ## CVE-2022-29968 (2022-05-02T04:15:00)
 > An issue was discovered in the Linux kernel through 5.17.5. io_rw_init_file in fs/io_uring.c lacks initialization of kiocb->private.
 - [jprx/CVE-2022-29968](https://github.com/jprx/CVE-2022-29968)	<img alt="forks" src="https://img.shields.io/github/forks/jprx/CVE-2022-29968">	<img alt="stars" src="https://img.shields.io/github/stars/jprx/CVE-2022-29968">
@@ -13977,6 +14013,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [SecurityAndStuff/CVE-2022-2402](https://github.com/SecurityAndStuff/CVE-2022-2402)	<img alt="forks" src="https://img.shields.io/github/forks/SecurityAndStuff/CVE-2022-2402">	<img alt="stars" src="https://img.shields.io/github/stars/SecurityAndStuff/CVE-2022-2402">
 
 ---
+## CVE-2022-23947 (2022-02-04T23:15:00)
+> A stack-based buffer overflow vulnerability exists in the Gerber Viewer gerber and excellon DCodeNumber parsing functionality of KiCad EDA 6.0.1 and master commit de006fc010. A specially-crafted gerber or excellon file can lead to code execution. An attacker can provide a malicious file to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-23947](https://github.com/Live-Hack-CVE/CVE-2022-23947)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23947">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23947">
+
+---
 ## CVE-2022-23943 (2022-03-14T11:15:00)
 > Out-of-bounds Write vulnerability in mod_sed of Apache HTTP Server allows an attacker to overwrite heap memory with possibly attacker provided data. This issue affects Apache HTTP Server 2.4 version 2.4.52 and prior versions.
 - [Live-Hack-CVE/CVE-2022-23943](https://github.com/Live-Hack-CVE/CVE-2022-23943)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23943">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23943">
@@ -13995,6 +14036,16 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-23824 (2022-11-09T21:15:00)
 > IBPB may not prevent return branch predictions from being specified by pre-IBPB branch targets leading to a potential information disclosure.
 - [Live-Hack-CVE/CVE-2022-23824](https://github.com/Live-Hack-CVE/CVE-2022-23824)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23824">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23824">
+
+---
+## CVE-2022-23804 (2022-02-16T17:15:00)
+> A stack-based buffer overflow vulnerability exists in the Gerber Viewer gerber and excellon ReadIJCoord coordinate parsing functionality of KiCad EDA 6.0.1 and master commit de006fc010. A specially-crafted gerber or excellon file can lead to code execution. An attacker can provide a malicious file to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-23804](https://github.com/Live-Hack-CVE/CVE-2022-23804)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23804">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23804">
+
+---
+## CVE-2022-23803 (2022-02-16T17:15:00)
+> A stack-based buffer overflow vulnerability exists in the Gerber Viewer gerber and excellon ReadXYCoord coordinate parsing functionality of KiCad EDA 6.0.1 and master commit de006fc010. A specially-crafted gerber or excellon file can lead to code execution. An attacker can provide a malicious file to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-23803](https://github.com/Live-Hack-CVE/CVE-2022-23803)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23803">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23803">
 
 ---
 ## CVE-2022-23779 (2022-03-02T15:15:00)
@@ -14475,6 +14526,16 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [kaal18/CVE-2022-22909](https://github.com/kaal18/CVE-2022-22909)	<img alt="forks" src="https://img.shields.io/github/forks/kaal18/CVE-2022-22909">	<img alt="stars" src="https://img.shields.io/github/stars/kaal18/CVE-2022-22909">
 
 ---
+## CVE-2022-2288 (2022-07-03T13:15:00)
+> Out-of-bounds Write in GitHub repository vim/vim prior to 9.0.
+- [Live-Hack-CVE/CVE-2022-2288](https://github.com/Live-Hack-CVE/CVE-2022-2288)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2288">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2288">
+
+---
+## CVE-2022-2287 (2022-07-02T22:15:00)
+> Out-of-bounds Read in GitHub repository vim/vim prior to 9.0.
+- [Live-Hack-CVE/CVE-2022-2287](https://github.com/Live-Hack-CVE/CVE-2022-2287)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2287">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2287">
+
+---
 ## CVE-2022-22844 (2022-01-10T14:12:00)
 > LibTIFF 4.3.0 has an out-of-bounds read in _TIFFmemcpy in tif_unix.c in certain situations involving a custom tag and 0x0200 as the second word of the DE field.
 - [Live-Hack-CVE/CVE-2022-22844](https://github.com/Live-Hack-CVE/CVE-2022-22844)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22844">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22844">
@@ -14543,6 +14604,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-22651 (2022-03-18T18:15:00)
 > An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in macOS Monterey 12.3. A remote attacker may be able to cause unexpected system termination or corrupt kernel memory.
 - [Live-Hack-CVE/CVE-2022-22651](https://github.com/Live-Hack-CVE/CVE-2022-22651)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22651">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22651">
+
+---
+## CVE-2022-2264 (2022-07-01T11:15:00)
+> Heap-based Buffer Overflow in GitHub repository vim/vim prior to 9.0.
+- [Live-Hack-CVE/CVE-2022-2264](https://github.com/Live-Hack-CVE/CVE-2022-2264)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2264">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2264">
 
 ---
 ## CVE-2022-22637 (2022-09-23T19:15:00)
@@ -14869,6 +14935,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [safe3s/CVE-2022-2185-poc](https://github.com/safe3s/CVE-2022-2185-poc)	<img alt="forks" src="https://img.shields.io/github/forks/safe3s/CVE-2022-2185-poc">	<img alt="stars" src="https://img.shields.io/github/stars/safe3s/CVE-2022-2185-poc">
 - [west-wind/Threat-Hunting-With-Splunk](https://github.com/west-wind/Threat-Hunting-With-Splunk)	<img alt="forks" src="https://img.shields.io/github/forks/west-wind/Threat-Hunting-With-Splunk">	<img alt="stars" src="https://img.shields.io/github/stars/west-wind/Threat-Hunting-With-Splunk">
 - [ESUAdmin/CVE-2022-2185](https://github.com/ESUAdmin/CVE-2022-2185)	<img alt="forks" src="https://img.shields.io/github/forks/ESUAdmin/CVE-2022-2185">	<img alt="stars" src="https://img.shields.io/github/stars/ESUAdmin/CVE-2022-2185">
+
+---
+## CVE-2022-2183 (2022-06-23T19:15:00)
+> Out-of-bounds Read in GitHub repository vim/vim prior to 8.2.
+- [Live-Hack-CVE/CVE-2022-2183](https://github.com/Live-Hack-CVE/CVE-2022-2183)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2183">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2183">
 
 ---
 ## CVE-2022-21824 (2022-02-24T19:15:00)
@@ -16228,6 +16299,41 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-1523](https://github.com/Live-Hack-CVE/CVE-2022-1523)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1523">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1523">
 
 ---
+## CVE-2022-1494 (2022-07-26T22:15:00)
+> Insufficient data validation in Trusted Types in Google Chrome prior to 101.0.4951.41 allowed a remote attacker to bypass trusted types policy via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-1494](https://github.com/Live-Hack-CVE/CVE-2022-1494)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1494">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1494">
+
+---
+## CVE-2022-1492 (2022-07-26T22:15:00)
+> Insufficient data validation in Blink Editing in Google Chrome prior to 101.0.4951.41 allowed a remote attacker to inject arbitrary scripts or HTML via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-1492](https://github.com/Live-Hack-CVE/CVE-2022-1492)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1492">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1492">
+
+---
+## CVE-2022-1491 (2022-07-26T22:15:00)
+> Use after free in Bookmarks in Google Chrome prior to 101.0.4951.41 allowed a remote attacker to potentially exploit heap corruption via specific and direct user interaction.
+- [Live-Hack-CVE/CVE-2022-1491](https://github.com/Live-Hack-CVE/CVE-2022-1491)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1491">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1491">
+
+---
+## CVE-2022-1490 (2022-07-26T22:15:00)
+> Use after free in Browser Switcher in Google Chrome prior to 101.0.4951.41 allowed a remote attacker who convinced a user to engage in specific user interaction to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-1490](https://github.com/Live-Hack-CVE/CVE-2022-1490)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1490">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1490">
+
+---
+## CVE-2022-1489 (2022-07-26T22:15:00)
+> Out of bounds memory access in UI Shelf in Google Chrome on Chrome OS, Lacros prior to 101.0.4951.41 allowed a remote attacker to potentially exploit heap corruption via specific user interactions.
+- [Live-Hack-CVE/CVE-2022-1489](https://github.com/Live-Hack-CVE/CVE-2022-1489)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1489">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1489">
+
+---
+## CVE-2022-1488 (2022-07-26T22:15:00)
+> Inappropriate implementation in Extensions API in Google Chrome prior to 101.0.4951.41 allowed an attacker who convinced a user to install a malicious extension to leak cross-origin data via a crafted Chrome Extension.
+- [Live-Hack-CVE/CVE-2022-1488](https://github.com/Live-Hack-CVE/CVE-2022-1488)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1488">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1488">
+
+---
+## CVE-2022-1487 (2022-07-26T22:15:00)
+> Use after free in Ozone in Google Chrome prior to 101.0.4951.41 allowed a remote attacker to potentially exploit heap corruption via running a Wayland test.
+- [Live-Hack-CVE/CVE-2022-1487](https://github.com/Live-Hack-CVE/CVE-2022-1487)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1487">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1487">
+
+---
 ## CVE-2022-14733 ()
 > 
 - [hkzck/CVE-2022-14733](https://github.com/hkzck/CVE-2022-14733)	<img alt="forks" src="https://img.shields.io/github/forks/hkzck/CVE-2022-14733">	<img alt="stars" src="https://img.shields.io/github/stars/hkzck/CVE-2022-14733">
@@ -16337,6 +16443,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-1233](https://github.com/Live-Hack-CVE/CVE-2022-1233)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1233">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1233">
 
 ---
+## CVE-2022-1232 (2022-07-25T14:15:00)
+> Type confusion in V8 in Google Chrome prior to 100.0.4896.75 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-1232](https://github.com/Live-Hack-CVE/CVE-2022-1232)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1232">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1232">
+
+---
 ## CVE-2022-1195 (2022-04-29T16:15:00)
 > A use-after-free vulnerability was found in the Linux kernel in drivers/net/hamradio. This flaw allows a local attacker with a user privilege to cause a denial of service (DOS) when the mkiss or sixpack device is detached and reclaim resources early.
 - [Live-Hack-CVE/CVE-2022-1195](https://github.com/Live-Hack-CVE/CVE-2022-1195)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1195">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1195">
@@ -16356,6 +16467,36 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1154 (2022-03-30T12:15:00)
 > Use after free in utf_ptr2char in GitHub repository vim/vim prior to 8.2.4646.
 - [Live-Hack-CVE/CVE-2022-1154](https://github.com/Live-Hack-CVE/CVE-2022-1154)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1154">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1154">
+
+---
+## CVE-2022-1146 (2022-07-23T00:15:00)
+> Inappropriate implementation in Resource Timing in Google Chrome prior to 100.0.4896.60 allowed a remote attacker to leak cross-origin data via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-1146](https://github.com/Live-Hack-CVE/CVE-2022-1146)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1146">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1146">
+
+---
+## CVE-2022-1145 (2022-07-23T00:15:00)
+> Use after free in Extensions in Google Chrome prior to 100.0.4896.60 allowed an attacker who convinced a user to install a malicious extension to potentially exploit heap corruption via specific user interaction and profile destruction.
+- [Live-Hack-CVE/CVE-2022-1145](https://github.com/Live-Hack-CVE/CVE-2022-1145)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1145">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1145">
+
+---
+## CVE-2022-1144 (2022-07-23T00:15:00)
+> Use after free in WebUI in Google Chrome prior to 100.0.4896.60 allowed a remote attacker who convinced a user to engage in specific user interaction to potentially exploit heap corruption via specific input into DevTools.
+- [Live-Hack-CVE/CVE-2022-1144](https://github.com/Live-Hack-CVE/CVE-2022-1144)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1144">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1144">
+
+---
+## CVE-2022-1143 (2022-07-23T00:15:00)
+> Heap buffer overflow in WebUI in Google Chrome prior to 100.0.4896.60 allowed a remote attacker who convinced a user to engage in specific user interaction to potentially exploit heap corruption via specific input into DevTools.
+- [Live-Hack-CVE/CVE-2022-1143](https://github.com/Live-Hack-CVE/CVE-2022-1143)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1143">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1143">
+
+---
+## CVE-2022-1142 (2022-07-23T00:15:00)
+> Heap buffer overflow in WebUI in Google Chrome prior to 100.0.4896.60 allowed a remote attacker who convinced a user to engage in specific user interaction to potentially exploit heap corruption via specific input into DevTools.
+- [Live-Hack-CVE/CVE-2022-1142](https://github.com/Live-Hack-CVE/CVE-2022-1142)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1142">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1142">
+
+---
+## CVE-2022-1141 (2022-07-23T00:15:00)
+> Use after free in File Manager in Google Chrome prior to 100.0.4896.60 allowed a remote attacker who convinced a user to engage in specific user interaction to potentially exploit heap corruption via specific user gesture.
+- [Live-Hack-CVE/CVE-2022-1141](https://github.com/Live-Hack-CVE/CVE-2022-1141)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1141">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1141">
 
 ---
 ## CVE-2022-1127 (2022-07-23T00:15:00)

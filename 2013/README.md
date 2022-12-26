@@ -58,6 +58,11 @@
 - [kitctf/nginxpwn](https://github.com/kitctf/nginxpwn)	<img alt="forks" src="https://img.shields.io/github/forks/kitctf/nginxpwn">	<img alt="stars" src="https://img.shields.io/github/stars/kitctf/nginxpwn">
 
 ---
+## CVE-2013-20004 (2022-02-06T21:15:00)
+> A flaw was found in StarWind iSCSI target. StarWind service does not limit client connections and allocates memory on each connection attempt. An attacker could create a denial of service state by trying to connect a non-existent target multiple times. This affects iSCSI SAN (Windows Native) Version 6.0, build 2013-01-16.
+- [Live-Hack-CVE/CVE-2013-20004](https://github.com/Live-Hack-CVE/CVE-2013-20004)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-20004">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-20004">
+
+---
 ## CVE-2013-1824 (2013-09-16T13:02:00)
 > The SOAP parser in PHP before 5.3.22 and 5.4.x before 5.4.12 allows remote attackers to read arbitrary files via a SOAP WSDL file containing an XML external entity declaration in conjunction with an entity reference, related to an XML External Entity (XXE) issue in the soap_xmlParseFile and soap_xmlParseMemory functions.
 - [Live-Hack-CVE/CVE-2013-1824](https://github.com/Live-Hack-CVE/CVE-2013-1824)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-1824">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-1824">

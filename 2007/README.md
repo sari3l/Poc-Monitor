@@ -33,3 +33,8 @@
 - [Aviksaikat/CVE-2007-2447](https://github.com/Aviksaikat/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/Aviksaikat/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/Aviksaikat/CVE-2007-2447">
 - [HerculesRD/PyUsernameMapScriptRCE](https://github.com/HerculesRD/PyUsernameMapScriptRCE)	<img alt="forks" src="https://img.shields.io/github/forks/HerculesRD/PyUsernameMapScriptRCE">	<img alt="stars" src="https://img.shields.io/github/stars/HerculesRD/PyUsernameMapScriptRCE">
 - [k4u5h41/CVE-2007-2447](https://github.com/k4u5h41/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/k4u5h41/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/k4u5h41/CVE-2007-2447">
+
+---
+## CVE-2007-20001 (2022-02-06T21:15:00)
+> A flaw was found in StarWind iSCSI target. An attacker could script standard iSCSI Initiator operation(s) to exhaust the StarWind service socket, which could lead to denial of service. This affects iSCSI SAN (Windows Native) Version 3.2.2 build 2007-02-20.
+- [Live-Hack-CVE/CVE-2007-20001](https://github.com/Live-Hack-CVE/CVE-2007-20001)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2007-20001">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2007-20001">
