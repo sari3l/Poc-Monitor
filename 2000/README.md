@@ -171,6 +171,11 @@
 - [Live-Hack-CVE/CVE-2000-0019](https://github.com/Live-Hack-CVE/CVE-2000-0019)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2000-0019">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2000-0019">
 
 ---
+## CVE-2000-0017 (1999-12-21T05:00:00)
+> Buffer overflow in Linux linuxconf package allows remote attackers to gain root privileges via a long parameter.
+- [Live-Hack-CVE/CVE-2000-0017](https://github.com/Live-Hack-CVE/CVE-2000-0017)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2000-0017">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2000-0017">
+
+---
 ## CVE-2000-0010 (1999-12-26T05:00:00)
 > WebWho+ whois.cgi program allows remote attackers to execute commands via shell metacharacters in the TLD parameter.
 - [Live-Hack-CVE/CVE-2000-0010](https://github.com/Live-Hack-CVE/CVE-2000-0010)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2000-0010">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2000-0010">
