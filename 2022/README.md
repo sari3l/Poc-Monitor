@@ -8279,6 +8279,16 @@
 - [Live-Hack-CVE/CVE-2022-37137](https://github.com/Live-Hack-CVE/CVE-2022-37137)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37137">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37137">
 
 ---
+## CVE-2022-37134 (2022-08-22T15:15:00)
+> D-link DIR-816 A2_v1.10CNB04.img is vulnerable to Buffer Overflow via /goform/form2Wan.cgi. When wantype is 3, l2tp_usrname will be decrypted by base64, and the result will be stored in v94, which does not check the size of l2tp_usrname, resulting in stack overflow.
+- [Live-Hack-CVE/CVE-2022-37134](https://github.com/Live-Hack-CVE/CVE-2022-37134)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37134">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37134">
+
+---
+## CVE-2022-37133 (2022-08-22T15:15:00)
+> D-link DIR-816 A2_v1.10CNB04.img reboots the router without authentication via /goform/doReboot. No authentication is required, and reboot is executed when the function returns at the end.
+- [Live-Hack-CVE/CVE-2022-37133](https://github.com/Live-Hack-CVE/CVE-2022-37133)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37133">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37133">
+
+---
 ## CVE-2022-3713 (2022-12-01T18:15:00)
 > A code injection vulnerability allows adjacent attackers to execute code in the Wifi controller of Sophos Firewall releases older than version 19.5 GA.
 - [Live-Hack-CVE/CVE-2022-3713](https://github.com/Live-Hack-CVE/CVE-2022-3713)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3713">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3713">
@@ -9876,6 +9886,11 @@
 - [Live-Hack-CVE/CVE-2022-35226](https://github.com/Live-Hack-CVE/CVE-2022-35226)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35226">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35226">
 
 ---
+## CVE-2022-35198 (2022-08-18T06:15:00)
+> Contract Management System v2.0 contains a weak default password which gives attackers to access database connection information.
+- [Live-Hack-CVE/CVE-2022-35198](https://github.com/Live-Hack-CVE/CVE-2022-35198)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35198">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35198">
+
+---
 ## CVE-2022-35194 (2022-09-16T22:15:00)
 > TestLink v1.9.20 was discovered to contain a stored cross-site scripting (XSS) vulnerability via /lib/inventory/inventoryView.php.
 - [Live-Hack-CVE/CVE-2022-35194](https://github.com/Live-Hack-CVE/CVE-2022-35194)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35194">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35194">
@@ -9886,9 +9901,19 @@
 - [Live-Hack-CVE/CVE-2022-35192](https://github.com/Live-Hack-CVE/CVE-2022-35192)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35192">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35192">
 
 ---
+## CVE-2022-35191 (2022-08-23T00:15:00)
+> D-Link Wireless AC1200 Dual Band VDSL ADSL Modem Router DSL-3782 Firmware v1.01 allows unauthenticated attackers to cause a Denial of Service (DoS) via a crafted HTTP connection request.
+- [Live-Hack-CVE/CVE-2022-35191](https://github.com/Live-Hack-CVE/CVE-2022-35191)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35191">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35191">
+
+---
 ## CVE-2022-3518 (2022-10-15T10:15:00)
 > A vulnerability classified as problematic has been found in SourceCodester Sanitization Management System 1.0. Affected is an unknown function of the component User Creation Handler. The manipulation of the argument First Name/Middle Name/Last Name leads to cross site scripting. It is possible to launch the attack remotely. VDB-211014 is the identifier assigned to this vulnerability.
 - [lohith19/CVE-2022-3518](https://github.com/lohith19/CVE-2022-3518)	<img alt="forks" src="https://img.shields.io/github/forks/lohith19/CVE-2022-3518">	<img alt="stars" src="https://img.shields.io/github/stars/lohith19/CVE-2022-3518">
+
+---
+## CVE-2022-35173 (2022-08-18T06:15:00)
+> An issue was discovered in Nginx NJS v0.7.5. The JUMP offset for a break instruction was not set to a correct offset during code generation, leading to a segmentation violation.
+- [Live-Hack-CVE/CVE-2022-35173](https://github.com/Live-Hack-CVE/CVE-2022-35173)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35173">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35173">
 
 ---
 ## CVE-2022-3516 (2022-11-20T05:15:00)
@@ -10370,6 +10395,11 @@
 - [Live-Hack-CVE/CVE-2022-34658](https://github.com/Live-Hack-CVE/CVE-2022-34658)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34658">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34658">
 
 ---
+## CVE-2022-34652 (2022-08-22T19:15:00)
+> A sql injection vulnerability exists in the ObjectYPT functionality of WWBN AVideo 11.6 and dev master commit 3f7c0364. A specially-crafted HTTP request can lead to a SQL injection. An attacker can send an HTTP request to trigger this vulnerability.This vulnerability exists in the Live Schedules plugin, allowing an attacker to inject SQL by manipulating the description parameter.
+- [Live-Hack-CVE/CVE-2022-34652](https://github.com/Live-Hack-CVE/CVE-2022-34652)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34652">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34652">
+
+---
 ## CVE-2022-3465 (2022-10-12T10:15:00)
 > A vulnerability classified as critical was found in Mediabridge Medialink. This vulnerability affects unknown code of the file /index.asp. The manipulation leads to improper authentication. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-210700.
 - [Live-Hack-CVE/CVE-2022-3465](https://github.com/Live-Hack-CVE/CVE-2022-3465)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3465">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3465">
@@ -10640,6 +10670,11 @@
 ## CVE-2022-33973 (2022-11-11T16:15:00)
 > Improper access control in the Intel(R) WAPI Security software for Windows 10/11 before version 22.2150.0.1 may allow an authenticated user to potentially enable information disclosure via local access.
 - [Live-Hack-CVE/CVE-2022-33973](https://github.com/Live-Hack-CVE/CVE-2022-33973)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33973">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33973">
+
+---
+## CVE-2022-33932 (2022-08-22T17:15:00)
+> Dell PowerScale OneFS, versions 9.0.0 up to and including 9.1.0.19, 9.2.1.12, 9.3.0.6, and 9.4.0.2, contain an unprotected primary channel vulnerability. An unauthenticated network malicious attacker may potentially exploit this vulnerability, leading to a denial of filesystem services.
+- [Live-Hack-CVE/CVE-2022-33932](https://github.com/Live-Hack-CVE/CVE-2022-33932)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33932">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33932">
 
 ---
 ## CVE-2022-3393 (2022-10-25T17:15:00)
@@ -10925,6 +10960,21 @@
 - [Live-Hack-CVE/CVE-2022-3315](https://github.com/Live-Hack-CVE/CVE-2022-3315)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3315">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3315">
 
 ---
+## CVE-2022-33149 (2022-08-22T19:15:00)
+> A sql injection vulnerability exists in the ObjectYPT functionality of WWBN AVideo 11.6 and dev master commit 3f7c0364. A specially-crafted HTTP request can lead to a SQL injection. An attacker can send an HTTP request to trigger this vulnerability.This vulnerability exists in the CloneSite plugin, allowing an attacker to inject SQL by manipulating the url parameter.
+- [Live-Hack-CVE/CVE-2022-33149](https://github.com/Live-Hack-CVE/CVE-2022-33149)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33149">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33149">
+
+---
+## CVE-2022-33148 (2022-08-22T19:15:00)
+> A sql injection vulnerability exists in the ObjectYPT functionality of WWBN AVideo 11.6 and dev master commit 3f7c0364. A specially-crafted HTTP request can lead to a SQL injection. An attacker can send an HTTP request to trigger this vulnerability.This vulnerability exists in the Live Schedules plugin, allowing an attacker to inject SQL by manipulating the title parameter.
+- [Live-Hack-CVE/CVE-2022-33148](https://github.com/Live-Hack-CVE/CVE-2022-33148)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33148">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33148">
+
+---
+## CVE-2022-33147 (2022-08-22T19:15:00)
+> A sql injection vulnerability exists in the ObjectYPT functionality of WWBN AVideo 11.6 and dev master commit 3f7c0364. A specially-crafted HTTP request can lead to a SQL injection. An attacker can send an HTTP request to trigger this vulnerability.This vulnerability exists in the aVideoEncoder functionality which can be used to add new videos, allowing an attacker to inject SQL by manipulating the videoDownloadedLink or duration parameter.
+- [Live-Hack-CVE/CVE-2022-33147](https://github.com/Live-Hack-CVE/CVE-2022-33147)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33147">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33147">
+
+---
 ## CVE-2022-33142 (2022-08-23T16:15:00)
 > Authenticated (subscriber+) Denial Of Service (DoS) vulnerability in WordPlus WordPress Better Messages plugin <= 1.9.10.57 at WordPress.
 - [Live-Hack-CVE/CVE-2022-33142](https://github.com/Live-Hack-CVE/CVE-2022-33142)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33142">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33142">
@@ -11137,6 +11187,31 @@
 - [Live-Hack-CVE/CVE-2022-3278](https://github.com/Live-Hack-CVE/CVE-2022-3278)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3278">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3278">
 
 ---
+## CVE-2022-32778 (2022-08-22T19:15:00)
+> An information disclosure vulnerability exists in the cookie functionality of WWBN AVideo 11.6 and dev master commit 3f7c0364. The session cookie and the pass cookie miss the HttpOnly flag, making them accessible via JavaScript. The session cookie also misses the secure flag, which allows the session cookie to be leaked over non-HTTPS connections. This could allow an attacker to steal the session cookie via crafted HTTP requests.This vulnerability is for the pass cookie, which contains the hashed password and can be leaked via JavaScript.
+- [Live-Hack-CVE/CVE-2022-32778](https://github.com/Live-Hack-CVE/CVE-2022-32778)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32778">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32778">
+
+---
+## CVE-2022-32777 (2022-08-22T19:15:00)
+> An information disclosure vulnerability exists in the cookie functionality of WWBN AVideo 11.6 and dev master commit 3f7c0364. The session cookie and the pass cookie miss the HttpOnly flag, making them accessible via JavaScript. The session cookie also misses the secure flag, which allows the session cookie to be leaked over non-HTTPS connections. This could allow an attacker to steal the session cookie via crafted HTTP requests.This vulnerabilty is for the session cookie which can be leaked via JavaScript.
+- [Live-Hack-CVE/CVE-2022-32777](https://github.com/Live-Hack-CVE/CVE-2022-32777)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32777">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32777">
+
+---
+## CVE-2022-32772 (2022-08-22T19:15:00)
+> A cross-site scripting (xss) vulnerability exists in the footer alerts functionality of WWBN AVideo 11.6 and dev master commit 3f7c0364. A specially-crafted HTTP request can lead to arbitrary Javascript execution. An attacker can get an authenticated user to send a crafted HTTP request to trigger this vulnerability.This vulnerability arrises from the "msg" parameter which is inserted into the document with insufficient sanitization.
+- [Live-Hack-CVE/CVE-2022-32772](https://github.com/Live-Hack-CVE/CVE-2022-32772)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32772">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32772">
+
+---
+## CVE-2022-32771 (2022-08-22T19:15:00)
+> A cross-site scripting (xss) vulnerability exists in the footer alerts functionality of WWBN AVideo 11.6 and dev master commit 3f7c0364. A specially-crafted HTTP request can lead to arbitrary Javascript execution. An attacker can get an authenticated user to send a crafted HTTP request to trigger this vulnerability.This vulnerability arrises from the "success" parameter which is inserted into the document with insufficient sanitization.
+- [Live-Hack-CVE/CVE-2022-32771](https://github.com/Live-Hack-CVE/CVE-2022-32771)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32771">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32771">
+
+---
+## CVE-2022-32770 (2022-08-22T19:15:00)
+> A cross-site scripting (xss) vulnerability exists in the footer alerts functionality of WWBN AVideo 11.6 and dev master commit 3f7c0364. A specially-crafted HTTP request can lead to arbitrary Javascript execution. An attacker can get an authenticated user to send a crafted HTTP request to trigger this vulnerability.This vulnerability arrises from the "toast" parameter which is inserted into the document with insufficient sanitization.
+- [Live-Hack-CVE/CVE-2022-32770](https://github.com/Live-Hack-CVE/CVE-2022-32770)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32770">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32770">
+
+---
 ## CVE-2022-3275 (2022-10-07T21:15:00)
 > Command injection is possible in the puppetlabs-apt module prior to version 9.0.0. A malicious actor is able to exploit this vulnerability only if they are able to provide unsanitized input to the module. This condition is rare in most deployments of Puppet and Puppet Enterprise.
 - [Live-Hack-CVE/CVE-2022-3275](https://github.com/Live-Hack-CVE/CVE-2022-3275)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3275">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3275">
@@ -11295,6 +11370,11 @@
 ## CVE-2022-32483 (2022-10-12T20:15:00)
 > Dell BIOS contains an improper input validation vulnerability. A local authenticated malicious user with admin privileges may potentially exploit this vulnerability in order to modify a UEFI variable.
 - [Live-Hack-CVE/CVE-2022-32483](https://github.com/Live-Hack-CVE/CVE-2022-32483)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32483">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32483">
+
+---
+## CVE-2022-32480 (2022-08-22T17:15:00)
+> Dell PowerScale OneFS, versions 9.0.0, up to and including 9.1.0.19, 9.2.1.12, 9.3.0.6, and 9.4.0.2, contain an insecure default initialization of a resource vulnerability. A remote authenticated attacker may potentially exploit this vulnerability, leading to information disclosure.
+- [Live-Hack-CVE/CVE-2022-32480](https://github.com/Live-Hack-CVE/CVE-2022-32480)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32480">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32480">
 
 ---
 ## CVE-2022-3245 (2022-09-20T14:15:00)
@@ -11904,6 +11984,16 @@
 ## CVE-2022-31239 (2022-10-21T18:15:00)
 > Dell PowerScale OneFS, versions 9.0.0 up to and including 9.1.0.19, 9.2.1.12, and 9.3.0.6, contain sensitive data in log files vulnerability. A privileged local user may potentially exploit this vulnerability, leading to disclosure of this sensitive data.
 - [Live-Hack-CVE/CVE-2022-31239](https://github.com/Live-Hack-CVE/CVE-2022-31239)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31239">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31239">
+
+---
+## CVE-2022-31238 (2022-08-22T17:15:00)
+> Dell PowerScale OneFS, versions 9.0.0 up to and including 9.1.0.19, 9.2.1.12, 9.3.0.6, and 9.4.0.2, contain a process invoked with sensitive information vulnerability. A CLI user may potentially exploit this vulnerability, leading to information disclosure.
+- [Live-Hack-CVE/CVE-2022-31238](https://github.com/Live-Hack-CVE/CVE-2022-31238)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31238">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31238">
+
+---
+## CVE-2022-31237 (2022-08-22T17:15:00)
+> Dell PowerScale OneFS, versions 9.2.0 up to and including 9.2.1.12 and 9.3.0.5 contain an improper preservation of permissions vulnerability in SyncIQ. A low privileged local attacker may potentially exploit this vulnerability, leading to limited information disclosure.
+- [Live-Hack-CVE/CVE-2022-31237](https://github.com/Live-Hack-CVE/CVE-2022-31237)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31237">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31237">
 
 ---
 ## CVE-2022-31228 (2022-10-12T20:15:00)
@@ -12804,6 +12894,11 @@
 - [Live-Hack-CVE/CVE-2022-29810](https://github.com/Live-Hack-CVE/CVE-2022-29810)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29810">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29810">
 
 ---
+## CVE-2022-29805 (2022-08-19T13:15:00)
+> A Java Deserialization vulnerability in the Fishbowl Server in Fishbowl Inventory before 2022.4.1 allows remote attackers to execute arbitrary code via a crafted XML payload.
+- [Live-Hack-CVE/CVE-2022-29805](https://github.com/Live-Hack-CVE/CVE-2022-29805)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29805">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29805">
+
+---
 ## CVE-2022-29800 (2022-09-21T19:15:00)
 > A time-of-check-time-of-use (TOCTOU) race condition vulnerability was found in networkd-dispatcher. This flaw exists because there is a certain time between the scripts being discovered and them being run. An attacker can abuse this vulnerability to replace scripts that networkd-dispatcher believes to be owned by root with ones that are not.
 - [Live-Hack-CVE/CVE-2022-29800](https://github.com/Live-Hack-CVE/CVE-2022-29800)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29800">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29800">
@@ -12925,6 +13020,11 @@
 ## CVE-2022-2947 (2022-12-13T21:15:00)
 > Altair HyperView Player versions 2021.1.0.27 and prior perform operations on a memory buffer but can read from or write to a memory location outside of the intended boundary of the buffer. This hits initially as a read access violation, leading to a memory corruption situation.
 - [Live-Hack-CVE/CVE-2022-2947](https://github.com/Live-Hack-CVE/CVE-2022-2947)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2947">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2947">
+
+---
+## CVE-2022-29468 (2022-08-22T19:15:00)
+> A cross-site request forgery (CSRF) vulnerability exists in WWBN AVideo 11.6 and dev master commit 3f7c0364. A specially-crafted HTTP request can lead to increased privileges. An attacker can get an authenticated user to send a crafted HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-29468](https://github.com/Live-Hack-CVE/CVE-2022-29468)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29468">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29468">
 
 ---
 ## CVE-2022-29464 (2022-04-18T22:15:00)
@@ -13295,9 +13395,19 @@
 - [FlaviuPopescu/CVE-2022-28601](https://github.com/FlaviuPopescu/CVE-2022-28601)	<img alt="forks" src="https://img.shields.io/github/forks/FlaviuPopescu/CVE-2022-28601">	<img alt="stars" src="https://img.shields.io/github/stars/FlaviuPopescu/CVE-2022-28601">
 
 ---
+## CVE-2022-28598 (2022-08-22T17:15:00)
+> Frappe ERPNext 12.29.0 is vulnerable to XSS where the software does not neutralize or incorrectly neutralize user-controllable input before it is placed in output that is used as a web page that is served to other users.
+- [Live-Hack-CVE/CVE-2022-28598](https://github.com/Live-Hack-CVE/CVE-2022-28598)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28598">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28598">
+
+---
 ## CVE-2022-28487 (2022-05-04T15:15:00)
 > Tcpreplay version 4.4.1 contains a memory leakage flaw in fix_ipv6_checksums() function. The highest threat from this vulnerability is to data confidentiality.
 - [Live-Hack-CVE/CVE-2022-28487](https://github.com/Live-Hack-CVE/CVE-2022-28487)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28487">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28487">
+
+---
+## CVE-2022-2842 (2022-08-22T19:15:00)
+> A vulnerability classified as critical has been found in SourceCodester Gym Management System. This affects an unknown part of the file login.php. The manipulation of the argument user_email leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-206451.
+- [Live-Hack-CVE/CVE-2022-2842](https://github.com/Live-Hack-CVE/CVE-2022-2842)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2842">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2842">
 
 ---
 ## CVE-2022-2840 (2022-09-19T14:15:00)
@@ -13328,6 +13438,11 @@
 ## CVE-2022-28327 (2022-04-20T10:15:00)
 > The generic P-256 feature in crypto/elliptic in Go before 1.17.9 and 1.18.x before 1.18.1 allows a panic via long scalar input.
 - [Live-Hack-CVE/CVE-2022-28327](https://github.com/Live-Hack-CVE/CVE-2022-28327)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28327">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28327">
+
+---
+## CVE-2022-2829 (2022-08-23T04:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository yetiforcecompany/yetiforcecrm prior to 6.4.0.
+- [Live-Hack-CVE/CVE-2022-2829](https://github.com/Live-Hack-CVE/CVE-2022-2829)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2829">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2829">
 
 ---
 ## CVE-2022-28282 (2022-12-22T20:15:00)
@@ -13439,6 +13554,11 @@
 ## CVE-2022-27939 (2022-03-26T13:15:00)
 > tcprewrite in Tcpreplay 4.4.1 has a reachable assertion in get_layer4_v6 in common/get.c.
 - [Live-Hack-CVE/CVE-2022-27939](https://github.com/Live-Hack-CVE/CVE-2022-27939)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27939">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27939">
+
+---
+## CVE-2022-2793 (2022-08-19T23:15:00)
+> Emerson Electric's Proficy Machine Edition Version 9.00 and prior is vulenrable to CWE-353 Missing Support for Integrity Check, and has no authentication or authorization of data packets after establishing a connection for the SRTP protocol.
+- [Live-Hack-CVE/CVE-2022-2793](https://github.com/Live-Hack-CVE/CVE-2022-2793)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2793">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2793">
 
 ---
 ## CVE-2022-27925 (2022-04-21T00:15:00)
@@ -15413,6 +15533,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-22588 (2022-03-18T18:15:00)
 > A resource exhaustion issue was addressed with improved input validation. This issue is fixed in iOS 15.2.1 and iPadOS 15.2.1. Processing a maliciously crafted HomeKit accessory name may cause a denial of service.
 - [PyterSmithDarkGhost/0DAYIPHONE13IOS15.2CVE-2022-22588](https://github.com/PyterSmithDarkGhost/0DAYIPHONE13IOS15.2CVE-2022-22588)	<img alt="forks" src="https://img.shields.io/github/forks/PyterSmithDarkGhost/0DAYIPHONE13IOS15.2CVE-2022-22588">	<img alt="stars" src="https://img.shields.io/github/stars/PyterSmithDarkGhost/0DAYIPHONE13IOS15.2CVE-2022-22588">
+
+---
+## CVE-2022-22532 (2022-02-09T23:15:00)
+> In SAP NetWeaver Application Server Java - versions KRNL64NUC 7.22, 7.22EXT, 7.49, KRNL64UC, 7.22, 7.22EXT, 7.49, 7.53, KERNEL 7.22, 7.49, 7.53, an unauthenticated attacker could submit a crafted HTTP server request which triggers improper shared memory buffer handling. This could allow the malicious payload to be executed and hence execute functions that could be impersonating the victim or even steal the victim's logon session.
+- [Live-Hack-CVE/CVE-2022-22532](https://github.com/Live-Hack-CVE/CVE-2022-22532)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22532">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22532">
 
 ---
 ## CVE-2022-22503 (2022-10-06T18:15:00)
@@ -17883,6 +18008,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-0031 (2022-11-09T18:15:00)
 > A local privilege escalation (PE) vulnerability in the Palo Alto Networks Cortex XSOAR engine software running on a Linux operating system allows a local attacker with shell access to the engine to execute programs with elevated privileges.
 - [Live-Hack-CVE/CVE-2022-0031](https://github.com/Live-Hack-CVE/CVE-2022-0031)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0031">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0031">
+
+---
+## CVE-2022-0028 (2022-08-10T16:15:00)
+> A PAN-OS URL filtering policy misconfiguration could allow a network-based attacker to conduct reflected and amplified TCP denial-of-service (RDoS) attacks. The DoS attack would appear to originate from a Palo Alto Networks PA-Series (hardware), VM-Series (virtual) and CN-Series (container) firewall against an attacker-specified target. To be misused by an external attacker, the firewall configuration must have a URL filtering profile with one or more blocked categories assigned to a source zone that has an external facing interface. This configuration is not typical for URL filtering and, if set, is likely unintended by the administrator. If exploited, this issue would not impact the confidentiality, integrity, or availability of our products. However, the resulting denial-of-service (DoS) attack may help obfuscate the identity of the attacker and implicate the firewall as the source of the attack. We have taken prompt action to address this issue in our PAN-OS software. All software updates for this issue are expected to be released no later than the week of August 15, 2022. This issue does not impact Panorama M-Series or Panorama virtual appliances. This issue has been resolved for all Cloud NGFW and Prisma Access customers and no additional action is required from them.
+- [Live-Hack-CVE/CVE-2022-0028](https://github.com/Live-Hack-CVE/CVE-2022-0028)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0028">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0028">
 
 ---
 ## CVE-2022-0002 (2022-03-11T18:15:00)

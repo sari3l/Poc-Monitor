@@ -3314,6 +3314,11 @@
 - [catmandx/CVE-2021-26855-Exchange-RCE](https://github.com/catmandx/CVE-2021-26855-Exchange-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/catmandx/CVE-2021-26855-Exchange-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/catmandx/CVE-2021-26855-Exchange-RCE">
 
 ---
+## CVE-2021-26639 (2022-08-17T21:15:00)
+> This vulnerability is caused by the lack of validation of input values for specific functions if WISA Smart Wing CMS. Remote attackers can use this vulnerability to leak all files in the server without logging in system.
+- [Live-Hack-CVE/CVE-2021-26639](https://github.com/Live-Hack-CVE/CVE-2021-26639)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26639">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26639">
+
+---
 ## CVE-2021-26338 (2021-11-16T18:15:00)
 > Improper access controls in System Management Unit (SMU) may allow for an attacker to override performance control tables located in DRAM resulting in a potential lack of system resources.
 - [Live-Hack-CVE/CVE-2021-26338](https://github.com/Live-Hack-CVE/CVE-2021-26338)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26338">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26338">
@@ -3613,6 +3618,11 @@
 ## CVE-2021-24914 (2021-12-06T16:15:00)
 > The Tawk.To Live Chat WordPress plugin before 0.6.0 does not have capability and CSRF checks in the tawkto_setwidget and tawkto_removewidget AJAX actions, available to any authenticated user. The first one allows low-privileged users (including simple subscribers) to change the 'tawkto-embed-widget-page-id' and 'tawkto-embed-widget-widget-id' parameters. Any authenticated user can thus link the vulnerable website to their own Tawk.to instance. Consequently, they will be able to monitor the vulnerable website and interact with its visitors (receive contact messages, answer, ...). They will also be able to display an arbitrary Knowledge Base. The second one will remove the live chat widget from pages.
 - [Live-Hack-CVE/CVE-2021-24914](https://github.com/Live-Hack-CVE/CVE-2021-24914)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24914">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24914">
+
+---
+## CVE-2021-24910 (2022-08-22T15:15:00)
+> The Transposh WordPress Translation WordPress plugin before 1.0.8 does not sanitise and escape the a parameter via an AJAX action (available to both unauthenticated and authenticated users when the curl library is installed) before outputting it back in the response, leading to a Reflected Cross-Site Scripting issue
+- [Live-Hack-CVE/CVE-2021-24910](https://github.com/Live-Hack-CVE/CVE-2021-24910)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24910">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24910">
 
 ---
 ## CVE-2021-24842 (2021-11-29T09:15:00)
