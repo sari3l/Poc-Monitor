@@ -56,6 +56,11 @@
 - [Live-Hack-CVE/CVE-2000-0123](https://github.com/Live-Hack-CVE/CVE-2000-0123)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2000-0123">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2000-0123">
 
 ---
+## CVE-2000-0115 (2000-01-21T05:00:00)
+> IIS allows local users to cause a denial of service via invalid regular expressions in a Visual Basic script in an ASP page.
+- [Live-Hack-CVE/CVE-2000-0115](https://github.com/Live-Hack-CVE/CVE-2000-0115)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2000-0115">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2000-0115">
+
+---
 ## CVE-2000-0114 (2000-02-02T05:00:00)
 > Frontpage Server Extensions allows remote attackers to determine the name of the anonymous account via an RPC POST request to shtml.dll in the /_vti_bin/ virtual directory.
 - [Live-Hack-CVE/CVE-2000-0114](https://github.com/Live-Hack-CVE/CVE-2000-0114)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2000-0114">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2000-0114">

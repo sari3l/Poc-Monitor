@@ -9886,6 +9886,11 @@
 - [Live-Hack-CVE/CVE-2022-35637](https://github.com/Live-Hack-CVE/CVE-2022-35637)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35637">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35637">
 
 ---
+## CVE-2022-35623 (2022-08-15T17:15:00)
+> In Nordic nRF5 SDK for Mesh 5.0, a heap overflow vulnerability can be triggered by sending a series of segmented control packets and access packets with the same SeqAuth
+- [Live-Hack-CVE/CVE-2022-35623](https://github.com/Live-Hack-CVE/CVE-2022-35623)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35623">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35623">
+
+---
 ## CVE-2022-3562 (2022-11-20T05:15:00)
 > Cross-site Scripting (XSS) - Stored in GitHub repository librenms/librenms prior to 22.10.0.
 - [Live-Hack-CVE/CVE-2022-3562](https://github.com/Live-Hack-CVE/CVE-2022-3562)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3562">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3562">
@@ -11894,6 +11899,11 @@
 ## CVE-2022-32169 (2022-09-28T10:15:00)
 > The “Bytebase” application does not restrict low privilege user to access “admin issues“ for which an unauthorized user can view the “OPEN” and “CLOSED” issues by “Admin” and the affected endpoint is “/issue”.
 - [Live-Hack-CVE/CVE-2022-32169](https://github.com/Live-Hack-CVE/CVE-2022-32169)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32169">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32169">
+
+---
+## CVE-2022-32148 (2022-08-10T20:15:00)
+> Improper exposure of client IP addresses in net/http before Go 1.17.12 and Go 1.18.4 can be triggered by calling httputil.ReverseProxy.ServeHTTP with a Request.Header map containing a nil value for the X-Forwarded-For header, which causes ReverseProxy to set the client IP as the value of the X-Forwarded-For header.
+- [Live-Hack-CVE/CVE-2022-32148](https://github.com/Live-Hack-CVE/CVE-2022-32148)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32148">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32148">
 
 ---
 ## CVE-2022-32119 (2022-07-15T12:15:00)
