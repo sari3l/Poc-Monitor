@@ -1,6 +1,11 @@
 # 2013 List
 
 ---
+## CVE-2013-6668 (2014-03-05T05:11:00)
+> Multiple unspecified vulnerabilities in Google V8 before 3.24.35.10, as used in Google Chrome before 33.0.1750.146, allow attackers to cause a denial of service or possibly have other impact via unknown vectors.
+- [Live-Hack-CVE/CVE-2013-6668](https://github.com/Live-Hack-CVE/CVE-2013-6668)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-6668">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-6668">
+
+---
 ## CVE-2013-6490 (2014-02-06T17:00:00)
 > The SIMPLE protocol functionality in Pidgin before 2.10.8 allows remote attackers to have an unspecified impact via a negative Content-Length header, which triggers a buffer overflow.
 - [Everdoh/CVE-2013-6490](https://github.com/Everdoh/CVE-2013-6490)	<img alt="forks" src="https://img.shields.io/github/forks/Everdoh/CVE-2013-6490">	<img alt="stars" src="https://img.shields.io/github/stars/Everdoh/CVE-2013-6490">
@@ -46,10 +51,20 @@
 - [Live-Hack-CVE/CVE-2013-4235](https://github.com/Live-Hack-CVE/CVE-2013-4235)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-4235">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-4235">
 
 ---
+## CVE-2013-4113 (2013-07-13T13:10:00)
+> ext/xml/xml.c in PHP before 5.3.27 does not properly consider parsing depth, which allows remote attackers to cause a denial of service (heap memory corruption) or possibly have unspecified other impact via a crafted document that is processed by the xml_parse_into_struct function.
+- [Live-Hack-CVE/CVE-2013-4113](https://github.com/Live-Hack-CVE/CVE-2013-4113)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-4113">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-4113">
+
+---
 ## CVE-2013-3900 (2013-12-11T00:55:00)
 > The WinVerifyTrust function in Microsoft Windows XP SP2 and SP3, Windows Server 2003 SP2, Windows Vista SP2, Windows Server 2008 SP2 and R2 SP1, Windows 7 SP1, Windows 8, Windows 8.1, Windows Server 2012 Gold and R2, and Windows RT Gold and 8.1 does not properly validate PE file digests during Authenticode signature verification, which allows remote attackers to execute arbitrary code via a crafted PE file, aka "WinVerifyTrust Signature Validation Vulnerability."
 - [snoopopsec/vulnerability-CVE-2013-3900](https://github.com/snoopopsec/vulnerability-CVE-2013-3900)	<img alt="forks" src="https://img.shields.io/github/forks/snoopopsec/vulnerability-CVE-2013-3900">	<img alt="stars" src="https://img.shields.io/github/stars/snoopopsec/vulnerability-CVE-2013-3900">
 - [Live-Hack-CVE/CVE-2013-3900](https://github.com/Live-Hack-CVE/CVE-2013-3900)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-3900">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-3900">
+
+---
+## CVE-2013-2882 (2013-07-31T13:20:00)
+> Google V8, as used in Google Chrome before 28.0.1500.95, allows remote attackers to cause a denial of service or possibly have unspecified other impact via vectors that leverage "type confusion."
+- [Live-Hack-CVE/CVE-2013-2882](https://github.com/Live-Hack-CVE/CVE-2013-2882)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-2882">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-2882">
 
 ---
 ## CVE-2013-2028 (2013-07-20T03:37:00)

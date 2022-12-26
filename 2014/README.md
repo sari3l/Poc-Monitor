@@ -133,8 +133,24 @@
 - [Live-Hack-CVE/CVE-2014-0239](https://github.com/Live-Hack-CVE/CVE-2014-0239)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-0239">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-0239">
 
 ---
+## CVE-2014-0224 (2014-06-05T21:55:00)
+> OpenSSL before 0.9.8za, 1.0.0 before 1.0.0m, and 1.0.1 before 1.0.1h does not properly restrict processing of ChangeCipherSpec messages, which allows man-in-the-middle attackers to trigger use of a zero-length master key in certain OpenSSL-to-OpenSSL communications, and consequently hijack sessions or obtain sensitive information, via a crafted TLS handshake, aka the "CCS Injection" vulnerability.
+- [Live-Hack-CVE/CVE-2014-0224](https://github.com/Live-Hack-CVE/CVE-2014-0224)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-0224">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-0224">
+- [clic-kbait/A2SV--SSL-VUL-Scan](https://github.com/clic-kbait/A2SV--SSL-VUL-Scan)	<img alt="forks" src="https://img.shields.io/github/forks/clic-kbait/A2SV--SSL-VUL-Scan">	<img alt="stars" src="https://img.shields.io/github/stars/clic-kbait/A2SV--SSL-VUL-Scan">
+- [ssllabs/openssl-ccs-cve-2014-0224](https://github.com/ssllabs/openssl-ccs-cve-2014-0224)	<img alt="forks" src="https://img.shields.io/github/forks/ssllabs/openssl-ccs-cve-2014-0224">	<img alt="stars" src="https://img.shields.io/github/stars/ssllabs/openssl-ccs-cve-2014-0224">
+- [Tripwire/OpenSSL-CCS-Inject-Test](https://github.com/Tripwire/OpenSSL-CCS-Inject-Test)	<img alt="forks" src="https://img.shields.io/github/forks/Tripwire/OpenSSL-CCS-Inject-Test">	<img alt="stars" src="https://img.shields.io/github/stars/Tripwire/OpenSSL-CCS-Inject-Test">
+- [secretnonempty/CVE-2014-0224](https://github.com/secretnonempty/CVE-2014-0224)	<img alt="forks" src="https://img.shields.io/github/forks/secretnonempty/CVE-2014-0224">	<img alt="stars" src="https://img.shields.io/github/stars/secretnonempty/CVE-2014-0224">
+- [droptables/ccs-eval](https://github.com/droptables/ccs-eval)	<img alt="forks" src="https://img.shields.io/github/forks/droptables/ccs-eval">	<img alt="stars" src="https://img.shields.io/github/stars/droptables/ccs-eval">
+- [iph0n3/CVE-2014-0224](https://github.com/iph0n3/CVE-2014-0224)	<img alt="forks" src="https://img.shields.io/github/forks/iph0n3/CVE-2014-0224">	<img alt="stars" src="https://img.shields.io/github/stars/iph0n3/CVE-2014-0224">
+
+---
 ## CVE-2014-0196 (2014-05-07T10:55:00)
 > The n_tty_write function in drivers/tty/n_tty.c in the Linux kernel through 3.14.3 does not properly manage tty driver access in the "LECHO & !OPOST" case, which allows local users to cause a denial of service (memory corruption and system crash) or gain privileges by triggering a race condition involving read and write operations with long strings.
 - [netwid/CVE-2014-0196](https://github.com/netwid/CVE-2014-0196)	<img alt="forks" src="https://img.shields.io/github/forks/netwid/CVE-2014-0196">	<img alt="stars" src="https://img.shields.io/github/stars/netwid/CVE-2014-0196">
 - [SunRain/CVE-2014-0196](https://github.com/SunRain/CVE-2014-0196)	<img alt="forks" src="https://img.shields.io/github/forks/SunRain/CVE-2014-0196">	<img alt="stars" src="https://img.shields.io/github/stars/SunRain/CVE-2014-0196">
 - [tempbottle/CVE-2014-0196](https://github.com/tempbottle/CVE-2014-0196)	<img alt="forks" src="https://img.shields.io/github/forks/tempbottle/CVE-2014-0196">	<img alt="stars" src="https://img.shields.io/github/stars/tempbottle/CVE-2014-0196">
+
+---
+## CVE-2014-0185 (2014-05-06T10:44:00)
+> sapi/fpm/fpm/fpm_unix.c in the FastCGI Process Manager (FPM) in PHP before 5.4.28 and 5.5.x before 5.5.12 uses 0666 permissions for the UNIX socket, which allows local users to gain privileges via a crafted FastCGI client.
+- [Live-Hack-CVE/CVE-2014-0185](https://github.com/Live-Hack-CVE/CVE-2014-0185)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-0185">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-0185">
