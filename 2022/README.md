@@ -7840,6 +7840,11 @@
 - [xen0bit/CVE-2022-37434_poc](https://github.com/xen0bit/CVE-2022-37434_poc)	<img alt="forks" src="https://img.shields.io/github/forks/xen0bit/CVE-2022-37434_poc">	<img alt="stars" src="https://img.shields.io/github/stars/xen0bit/CVE-2022-37434_poc">
 
 ---
+## CVE-2022-37431 (2022-08-05T06:15:00)
+> ** DISPUTED ** A Reflected Cross-site scripting (XSS) issue was discovered in dotCMS Core through 22.06. This occurs in the admin portal when the configuration has XSS_PROTECTION_ENABLED=false. NOTE: the vendor disputes this because the current product behavior, in effect, has XSS_PROTECTION_ENABLED=true in all configurations.
+- [Live-Hack-CVE/CVE-2022-37431](https://github.com/Live-Hack-CVE/CVE-2022-37431)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37431">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37431">
+
+---
 ## CVE-2022-37424 (2022-10-28T16:15:00)
 > Files or Directories Accessible to External Parties vulnerability in OpenNebula on Linux allows File Discovery.
 - [Live-Hack-CVE/CVE-2022-37424](https://github.com/Live-Hack-CVE/CVE-2022-37424)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37424">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37424">
@@ -8695,6 +8700,11 @@
 - [MaherAzzouzi/CVE-2022-36162](https://github.com/MaherAzzouzi/CVE-2022-36162)	<img alt="forks" src="https://img.shields.io/github/forks/MaherAzzouzi/CVE-2022-36162">	<img alt="stars" src="https://img.shields.io/github/stars/MaherAzzouzi/CVE-2022-36162">
 
 ---
+## CVE-2022-36123 (2022-07-29T14:15:00)
+> The Linux kernel before 5.18.13 lacks a certain clear operation for the block starting symbol (.bss). This allows Xen PV guest OS users to cause a denial of service or gain privileges.
+- [Live-Hack-CVE/CVE-2022-36123](https://github.com/Live-Hack-CVE/CVE-2022-36123)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36123">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36123">
+
+---
 ## CVE-2022-36108 (2022-09-13T18:15:00)
 > TYPO3 is an open source PHP based web content management system released under the GNU GPL. It has been discovered that the `f:asset.css` view helper is vulnerable to cross-site scripting when user input is passed as variables to the CSS. Update to TYPO3 version 10.4.32 or 11.5.16 that fix the problem. There are no known workarounds for this issue.
 - [Live-Hack-CVE/CVE-2022-36108](https://github.com/Live-Hack-CVE/CVE-2022-36108)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36108">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36108">
@@ -8966,6 +8976,11 @@
 - [0xGabe/CVE-2022-35914](https://github.com/0xGabe/CVE-2022-35914)	<img alt="forks" src="https://img.shields.io/github/forks/0xGabe/CVE-2022-35914">	<img alt="stars" src="https://img.shields.io/github/stars/0xGabe/CVE-2022-35914">
 - [lolminerxmrig/Capricornus](https://github.com/lolminerxmrig/Capricornus)	<img alt="forks" src="https://img.shields.io/github/forks/lolminerxmrig/Capricornus">	<img alt="stars" src="https://img.shields.io/github/stars/lolminerxmrig/Capricornus">
 - [Live-Hack-CVE/CVE-2022-35914](https://github.com/Live-Hack-CVE/CVE-2022-35914)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35914">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35914">
+
+---
+## CVE-2022-35911 (2022-07-27T21:15:00)
+> ** DISPUTED ** On Patlite NH-FB series devices through 1.46, remote attackers can cause a denial of service by omitting the query string. NOTE: the vendor's perspective is that "omitting the query string does not cause a denial of service and the indicated event can not be reproduced."
+- [Live-Hack-CVE/CVE-2022-35911](https://github.com/Live-Hack-CVE/CVE-2022-35911)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35911">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35911">
 
 ---
 ## CVE-2022-3590 (2022-12-14T09:15:00)
@@ -12775,6 +12790,11 @@
 - [Live-Hack-CVE/CVE-2022-27673](https://github.com/Live-Hack-CVE/CVE-2022-27673)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27673">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27673">
 
 ---
+## CVE-2022-27651 (2022-04-04T20:15:00)
+> A flaw was found in buildah where containers were incorrectly started with non-empty default permissions. A bug was found in Moby (Docker Engine) where containers were incorrectly started with non-empty inheritable Linux process capabilities, enabling an attacker with access to programs with inheritable file capabilities to elevate those capabilities to the permitted set when execve(2) runs. This has the potential to impact confidentiality and integrity.
+- [Live-Hack-CVE/CVE-2022-27651](https://github.com/Live-Hack-CVE/CVE-2022-27651)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27651">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27651">
+
+---
 ## CVE-2022-27650 (2022-04-04T20:15:00)
 > A flaw was found in crun where containers were incorrectly started with non-empty default permissions. A vulnerability was found in Moby (Docker Engine) where containers were started incorrectly with non-empty inheritable Linux process capabilities. This flaw allows an attacker with access to programs with inheritable file capabilities to elevate those capabilities to the permitted set when execve(2) runs.
 - [Live-Hack-CVE/CVE-2022-27650](https://github.com/Live-Hack-CVE/CVE-2022-27650)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27650">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27650">
@@ -13093,6 +13113,11 @@
 ## CVE-2022-26691 (2022-05-26T18:15:00)
 > A logic issue was addressed with improved state management. This issue is fixed in Security Update 2022-003 Catalina, macOS Monterey 12.3, macOS Big Sur 11.6.5. An application may be able to gain elevated privileges.
 - [Live-Hack-CVE/CVE-2022-26691](https://github.com/Live-Hack-CVE/CVE-2022-26691)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26691">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26691">
+
+---
+## CVE-2022-26665 (2022-04-18T15:15:00)
+> An Insecure Direct Object Reference issue exists in the Tyler Odyssey Portal platform before 17.1.20. This may allow an external party to access sensitive case records.
+- [Live-Hack-CVE/CVE-2022-26665](https://github.com/Live-Hack-CVE/CVE-2022-26665)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26665">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26665">
 
 ---
 ## CVE-2022-26653 (2022-04-16T16:15:00)
@@ -13607,6 +13632,16 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-2513](https://github.com/Live-Hack-CVE/CVE-2022-2513)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2513">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2513">
 
 ---
+## CVE-2022-25090 (2022-03-10T17:47:00)
+> Printix Secure Cloud Print Management through 1.3.1106.0 creates a temporary temp.ini file in a directory with insecure permissions, leading to privilege escalation because of a race condition.
+- [Live-Hack-CVE/CVE-2022-25090](https://github.com/Live-Hack-CVE/CVE-2022-25090)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25090">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25090">
+
+---
+## CVE-2022-25089 (2022-03-03T00:15:00)
+> Printix Secure Cloud Print Management through 1.3.1106.0 incorrectly uses Privileged APIs to modify values in HKEY_LOCAL_MACHINE via UITasks.PersistentRegistryData.
+- [Live-Hack-CVE/CVE-2022-25089](https://github.com/Live-Hack-CVE/CVE-2022-25089)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25089">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25089">
+
+---
 ## CVE-2022-25047 (2022-07-07T12:15:00)
 > The password reset token in CWP v0.9.8.1126 is generated using known or predictable values.
 - [Live-Hack-CVE/CVE-2022-25047](https://github.com/Live-Hack-CVE/CVE-2022-25047)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25047">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25047">
@@ -13974,9 +14009,19 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-23738](https://github.com/Live-Hack-CVE/CVE-2022-23738)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23738">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23738">
 
 ---
+## CVE-2022-23723 (2022-05-02T22:15:00)
+> An MFA bypass vulnerability exists in the PingFederate PingOne MFA Integration Kit when adapter HTML templates are used as part of an authentication flow.
+- [Live-Hack-CVE/CVE-2022-23723](https://github.com/Live-Hack-CVE/CVE-2022-23723)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23723">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23723">
+
+---
 ## CVE-2022-23708 (2022-03-03T22:15:00)
 > A flaw was discovered in Elasticsearch 7.17.0’s upgrade assistant, in which upgrading from version 6.x to 7.x would disable the in-built protections on the security index, allowing authenticated users with “*” index permissions access to this index.
 - [Live-Hack-CVE/CVE-2022-23708](https://github.com/Live-Hack-CVE/CVE-2022-23708)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23708">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23708">
+
+---
+## CVE-2022-23633 (2022-02-11T21:15:00)
+> Action Pack is a framework for handling and responding to web requests. Under certain circumstances response bodies will not be closed. In the event a response is *not* notified of a `close`, `ActionDispatch::Executor` will not know to reset thread local state for the next request. This can lead to data being leaked to subsequent requests.This has been fixed in Rails 7.0.2.1, 6.1.4.5, 6.0.4.5, and 5.2.6.1. Upgrading is highly recommended, but to work around this problem a middleware described in GHSA-wh98-p28r-vrc9 can be used.
+- [Live-Hack-CVE/CVE-2022-23633](https://github.com/Live-Hack-CVE/CVE-2022-23633)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23633">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23633">
 
 ---
 ## CVE-2022-23614 (2022-02-04T23:15:00)
@@ -14389,6 +14434,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-22844](https://github.com/Live-Hack-CVE/CVE-2022-22844)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22844">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22844">
 
 ---
+## CVE-2022-22835 (2022-03-10T17:45:00)
+> An issue was discovered in OverIT Geocall before version 8.0. An authenticated user who has the Test Trasformazione XSL functionality enabled can exploit a XXE vulnerability to read arbitrary files from the filesystem.
+- [Live-Hack-CVE/CVE-2022-22835](https://github.com/Live-Hack-CVE/CVE-2022-22835)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22835">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22835">
+
+---
 ## CVE-2022-22822 (2022-01-10T14:12:00)
 > addBinding in xmlparse.c in Expat (aka libexpat) before 2.4.3 has an integer overflow.
 - [Live-Hack-CVE/CVE-2022-22822](https://github.com/Live-Hack-CVE/CVE-2022-22822)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22822">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22822">
@@ -14427,6 +14477,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-22665 (2022-03-18T18:15:00)
 > A logic issue was addressed with improved validation. This issue is fixed in macOS Monterey 12.3. A malicious application may be able to gain root privileges.
 - [Live-Hack-CVE/CVE-2022-22665](https://github.com/Live-Hack-CVE/CVE-2022-22665)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22665">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22665">
+
+---
+## CVE-2022-22662 (2022-05-26T18:15:00)
+> A cookie management issue was addressed with improved state management. This issue is fixed in Security Update 2022-003 Catalina, macOS Big Sur 11.6.5. Processing maliciously crafted web content may disclose sensitive user information.
+- [Live-Hack-CVE/CVE-2022-22662](https://github.com/Live-Hack-CVE/CVE-2022-22662)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22662">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22662">
 
 ---
 ## CVE-2022-2266 (2022-09-22T09:15:00)
@@ -14768,6 +14823,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-21824 (2022-02-24T19:15:00)
 > Due to the formatting logic of the "console.table()" function it was not safe to allow user controlled input to be passed to the "properties" parameter while simultaneously passing a plain object with at least one property as the first parameter, which could be "__proto__". The prototype pollution has very limited control, in that it only allows an empty string to be assigned to numerical keys of the object prototype.Node.js >= 12.22.9, >= 14.18.3, >= 16.13.2, and >= 17.3.1 use a null protoype for the object these properties are being assigned to.
 - [Live-Hack-CVE/CVE-2022-21824](https://github.com/Live-Hack-CVE/CVE-2022-21824)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21824">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21824">
+
+---
+## CVE-2022-21814 (2022-02-07T20:15:00)
+> NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel driver package, where improper handling of insufficient permissions or privileges may allow an unprivileged local user limited write access to protected memory, which can lead to denial of service.
+- [Live-Hack-CVE/CVE-2022-21814](https://github.com/Live-Hack-CVE/CVE-2022-21814)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21814">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21814">
 
 ---
 ## CVE-2022-21797 (2022-09-26T05:15:00)
@@ -15975,6 +16035,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-1678](https://github.com/Live-Hack-CVE/CVE-2022-1678)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1678">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1678">
 
 ---
+## CVE-2022-1671 (2022-07-26T17:15:00)
+> A NULL pointer dereference flaw was found in rxrpc_preparse_s in net/rxrpc/server_key.c in the Linux kernel. This flaw allows a local attacker to crash the system or leak internal kernel information.
+- [Live-Hack-CVE/CVE-2022-1671](https://github.com/Live-Hack-CVE/CVE-2022-1671)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1671">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1671">
+
+---
 ## CVE-2022-1664 (2022-05-26T14:15:00)
 > Dpkg::Source::Archive in dpkg, the Debian package management system, before version 1.21.8, 1.20.10, 1.19.8, 1.18.26 is prone to a directory traversal vulnerability. When extracting untrusted source packages in v2 and v3 source package formats that include a debian.tar, the in-place extraction can lead to directory traversal situations on specially crafted orig.tar and debian.tar tarballs.
 - [Live-Hack-CVE/CVE-2022-1664](https://github.com/Live-Hack-CVE/CVE-2022-1664)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1664">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1664">
@@ -15983,6 +16048,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1652 (2022-06-02T14:15:00)
 > Linux Kernel could allow a local attacker to execute arbitrary code on the system, caused by a concurrency use-after-free flaw in the bad_flp_intr function. By executing a specially-crafted program, an attacker could exploit this vulnerability to execute arbitrary code or cause a denial of service condition on the system.
 - [Live-Hack-CVE/CVE-2022-1652](https://github.com/Live-Hack-CVE/CVE-2022-1652)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1652">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1652">
+
+---
+## CVE-2022-1651 (2022-07-26T17:15:00)
+> A memory leak flaw was found in the Linux kernel in acrn_dev_ioctl in the drivers/virt/acrn/hsm.c function in how the ACRN Device Model emulates virtual NICs in VM. This flaw allows a local privileged attacker to leak unauthorized kernel information, causing a denial of service.
+- [Live-Hack-CVE/CVE-2022-1651](https://github.com/Live-Hack-CVE/CVE-2022-1651)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1651">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1651">
 
 ---
 ## CVE-2022-1641 (2022-07-26T22:15:00)

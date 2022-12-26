@@ -6,6 +6,11 @@
 - [Live-Hack-CVE/CVE-2020-9906](https://github.com/Live-Hack-CVE/CVE-2020-9906)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9906">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9906">
 
 ---
+## CVE-2020-9883 (2020-10-22T18:15:00)
+> A buffer overflow issue was addressed with improved memory handling. This issue is fixed in iOS 13.6 and iPadOS 13.6, macOS Catalina 10.15.6, tvOS 13.4.8, watchOS 6.2.8, iTunes 12.10.8 for Windows, iCloud for Windows 11.3, iCloud for Windows 7.20. Processing a maliciously crafted image may lead to arbitrary code execution.
+- [Live-Hack-CVE/CVE-2020-9883](https://github.com/Live-Hack-CVE/CVE-2020-9883)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9883">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9883">
+
+---
 ## CVE-2020-9876 (2020-10-22T18:15:00)
 > An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in iOS 13.6 and iPadOS 13.6, macOS Catalina 10.15.6, tvOS 13.4.8, watchOS 6.2.8, iTunes 12.10.8 for Windows, iCloud for Windows 11.3, iCloud for Windows 7.20. Opening a maliciously crafted PDF file may lead to an unexpected application termination or arbitrary code execution.
 - [Live-Hack-CVE/CVE-2020-9876](https://github.com/Live-Hack-CVE/CVE-2020-9876)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9876">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9876">
@@ -398,6 +403,11 @@
 - [DimitriNL/CTX-CVE-2020-7473](https://github.com/DimitriNL/CTX-CVE-2020-7473)	<img alt="forks" src="https://img.shields.io/github/forks/DimitriNL/CTX-CVE-2020-7473">	<img alt="stars" src="https://img.shields.io/github/stars/DimitriNL/CTX-CVE-2020-7473">
 
 ---
+## CVE-2020-7248 (2020-03-16T21:15:00)
+> libubox in OpenWrt before 18.06.7 and 19.x before 19.07.1 has a tagged binary data JSON serialization vulnerability that may cause a stack based buffer overflow.
+- [Live-Hack-CVE/CVE-2020-7248](https://github.com/Live-Hack-CVE/CVE-2020-7248)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7248">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7248">
+
+---
 ## CVE-2020-7246 (2020-01-21T14:15:00)
 > A remote code execution (RCE) vulnerability exists in qdPM 9.1 and earlier. An attacker can upload a malicious PHP code file via the profile photo functionality, by leveraging a path traversal vulnerability in the users['photop_preview'] delete photo feature, allowing bypass of .htaccess protection. NOTE: this issue exists because of an incomplete fix for CVE-2015-3884.
 - [pswalia2u/CVE-2020-7246](https://github.com/pswalia2u/CVE-2020-7246)	<img alt="forks" src="https://img.shields.io/github/forks/pswalia2u/CVE-2020-7246">	<img alt="stars" src="https://img.shields.io/github/stars/pswalia2u/CVE-2020-7246">
@@ -579,6 +589,11 @@
 ## CVE-2020-5232 (2020-01-31T00:15:00)
 > A user who owns an ENS domain can set a trapdoor, allowing them to transfer ownership to another user, and later regain ownership without the new owners consent or awareness. A new ENS deployment is being rolled out that fixes this vulnerability in the ENS registry.
 - [Live-Hack-CVE/CVE-2020-5232](https://github.com/Live-Hack-CVE/CVE-2020-5232)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5232">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5232">
+
+---
+## CVE-2020-5135 (2020-10-12T11:15:00)
+> A buffer overflow vulnerability in SonicOS allows a remote attacker to cause Denial of Service (DoS) and potentially execute arbitrary code by sending a malicious request to the firewall. This vulnerability affected SonicOS Gen 6 version 6.5.4.7, 6.5.1.12, 6.0.5.3, SonicOSv 6.5.4.v and Gen 7 version 7.0.0.0.
+- [Live-Hack-CVE/CVE-2020-5135](https://github.com/Live-Hack-CVE/CVE-2020-5135)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5135">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5135">
 
 ---
 ## CVE-2020-4464 (2020-07-17T14:15:00)
@@ -763,6 +778,11 @@
 - [Live-Hack-CVE/CVE-2020-35136](https://github.com/Live-Hack-CVE/CVE-2020-35136)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35136">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35136">
 
 ---
+## CVE-2020-29659 (2020-12-09T17:15:00)
+> A buffer overflow in the web server of Flexense DupScout Enterprise 10.0.18 allows a remote anonymous attacker to execute code as SYSTEM by overflowing the sid parameter via a GET /settings&sid= attack.
+- [Live-Hack-CVE/CVE-2020-29659](https://github.com/Live-Hack-CVE/CVE-2020-29659)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-29659">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-29659">
+
+---
 ## CVE-2020-29651 (2020-12-09T07:15:00)
 > A denial of service via regular expression in the py.path.svnwc component of py (aka python-py) through 1.9.0 could be used by attackers to cause a compute-time denial of service attack by supplying malicious input to the blame functionality.
 - [Live-Hack-CVE/CVE-2020-29651](https://github.com/Live-Hack-CVE/CVE-2020-29651)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-29651">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-29651">
@@ -855,6 +875,11 @@
 - [Live-Hack-CVE/CVE-2020-28448](https://github.com/Live-Hack-CVE/CVE-2020-28448)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28448">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28448">
 
 ---
+## CVE-2020-28445 (2022-07-25T14:15:00)
+> This affects all versions of package npm-help. The injection point is located in line 13 in index.js file in export.latestVersion() function.
+- [Live-Hack-CVE/CVE-2020-28445](https://github.com/Live-Hack-CVE/CVE-2020-28445)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28445">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28445">
+
+---
 ## CVE-2020-28271 (2020-11-12T18:15:00)
 > Prototype pollution vulnerability in 'deephas' versions 1.0.0 through 1.0.5 allows attacker to cause a denial of service and may lead to remote code execution.
 - [Live-Hack-CVE/CVE-2020-28271](https://github.com/Live-Hack-CVE/CVE-2020-28271)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28271">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28271">
@@ -925,6 +950,11 @@
 ## CVE-2020-27841 (2021-01-05T18:15:00)
 > There's a flaw in openjpeg in versions prior to 2.4.0 in src/lib/openjp2/pi.c. When an attacker is able to provide crafted input to be processed by the openjpeg encoder, this could cause an out-of-bounds read. The greatest impact from this flaw is to application availability.
 - [Live-Hack-CVE/CVE-2020-27841](https://github.com/Live-Hack-CVE/CVE-2020-27841)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27841">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27841">
+
+---
+## CVE-2020-27792 (2022-08-19T23:15:00)
+> A heap-based buffer over write vulnerability was found in GhostScript's lp8000_print_page() function in gdevlp8k.c file. An attacker could trick a user to open a crafted PDF file, triggering the heap buffer overflow that could lead to memory corruption or a denial of service.
+- [Live-Hack-CVE/CVE-2020-27792](https://github.com/Live-Hack-CVE/CVE-2020-27792)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27792">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27792">
 
 ---
 ## CVE-2020-27786 (2020-12-11T05:15:00)
@@ -1085,6 +1115,11 @@
 ## CVE-2020-26185 (2022-06-01T15:15:00)
 > Dell BSAFE Micro Edition Suite, versions prior to 4.5.1, contain a Buffer Over-Read Vulnerability.
 - [Live-Hack-CVE/CVE-2020-26185](https://github.com/Live-Hack-CVE/CVE-2020-26185)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-26185">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-26185">
+
+---
+## CVE-2020-26140 (2021-05-11T20:15:00)
+> An issue was discovered in the ALFA Windows 10 driver 6.1316.1209 for AWUS036H. The WEP, WPA, WPA2, and WPA3 implementations accept plaintext frames in a protected Wi-Fi network. An adversary can abuse this to inject arbitrary data frames independent of the network configuration.
+- [Live-Hack-CVE/CVE-2020-26140](https://github.com/Live-Hack-CVE/CVE-2020-26140)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-26140">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-26140">
 
 ---
 ## CVE-2020-2592 (2020-01-15T17:15:00)
