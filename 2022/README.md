@@ -6280,6 +6280,11 @@
 - [DayiliWaseem/CVE-2022-39196-](https://github.com/DayiliWaseem/CVE-2022-39196-)	<img alt="forks" src="https://img.shields.io/github/forks/DayiliWaseem/CVE-2022-39196-">	<img alt="stars" src="https://img.shields.io/github/stars/DayiliWaseem/CVE-2022-39196-">
 
 ---
+## CVE-2022-39194 (2022-09-02T05:15:00)
+> An issue was discovered in the MediaWiki through 1.38.2. The community configuration pages for the GrowthExperiments extension could cause a site to become unavailable due to insufficient validation when certain actions (including page moves) were performed.
+- [Live-Hack-CVE/CVE-2022-39194](https://github.com/Live-Hack-CVE/CVE-2022-39194)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39194">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39194">
+
+---
 ## CVE-2022-39181 (2022-11-17T23:15:00)
 > GLPI - Reports plugin for GLPI Reflected Cross-Site-Scripting (RXSS). Type 1: Reflected XSS (or Non-Persistent) - The server reads data directly from the HTTP request and reflects it back in the HTTP response. Reflected XSS exploits occur when an attacker causes a victim to supply dangerous content to a vulnerable web application, which is then reflected back to the victim and executed by the web browser. The most common mechanism for delivering malicious content is to include it as a parameter in a URL that is posted publicly or emailed directly to the victim. URLs constructed in this manner constitute the core of many phishing schemes, whereby an attacker convinces a victim to visit a URL that refers to a vulnerable site. After the site reflects the attacker's content back to the victim, the content is executed by the victim's browser.
 - [Live-Hack-CVE/CVE-2022-39181](https://github.com/Live-Hack-CVE/CVE-2022-39181)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39181">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39181">
@@ -7205,6 +7210,16 @@
 - [Live-Hack-CVE/CVE-2022-38162](https://github.com/Live-Hack-CVE/CVE-2022-38162)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38162">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38162">
 
 ---
+## CVE-2022-38153 (2022-08-31T18:15:00)
+> An issue was discovered in wolfSSL before 5.5.0 (when --enable-session-ticket is used); however, only version 5.3.0 is exploitable. Man-in-the-middle attackers or a malicious server can crash TLS 1.2 clients during a handshake. If an attacker injects a large ticket (more than 256 bytes) into a NewSessionTicket message in a TLS 1.2 handshake, and the client has a non-empty session cache, the session cache frees a pointer that points to unallocated memory, causing the client to crash with a "free(): invalid pointer" message. NOTE: It is likely that this is also exploitable during TLS 1.3 handshakes between a client and a malicious server. With TLS 1.3, it is not possible to exploit this as a man-in-the-middle.
+- [Live-Hack-CVE/CVE-2022-38153](https://github.com/Live-Hack-CVE/CVE-2022-38153)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38153">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38153">
+
+---
+## CVE-2022-38152 (2022-08-31T17:15:00)
+> An issue was discovered in wolfSSL before 5.5.0. When a TLS 1.3 client connects to a wolfSSL server and SSL_clear is called on its session, the server crashes with a segmentation fault. This occurs in the second session, which is created through TLS session resumption and reuses the initial struct WOLFSSL. If the server reuses the previous session structure (struct WOLFSSL) by calling wolfSSL_clear(WOLFSSL* ssl) on it, the next received Client Hello (that resumes the previous session) crashes the server. Note that this bug is only triggered when resuming sessions using TLS session resumption. Only servers that use wolfSSL_clear instead of the recommended SSL_free; SSL_new sequence are affected. Furthermore, wolfSSL_clear is part of wolfSSL's compatibility layer and is not enabled by default. It is not part of wolfSSL's native API.
+- [Live-Hack-CVE/CVE-2022-38152](https://github.com/Live-Hack-CVE/CVE-2022-38152)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38152">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38152">
+
+---
 ## CVE-2022-38150 (2022-08-11T01:15:00)
 > In Varnish Cache 7.0.0, 7.0.1, 7.0.2, and 7.1.0, it is possible to cause the Varnish Server to assert and automatically restart through forged HTTP/1 backend responses. An attack uses a crafted reason phrase of the backend response status line. This is fixed in 7.0.3 and 7.1.1.
 - [Live-Hack-CVE/CVE-2022-38150](https://github.com/Live-Hack-CVE/CVE-2022-38150)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38150">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38150">
@@ -8014,6 +8029,11 @@
 - [Live-Hack-CVE/CVE-2022-37189](https://github.com/Live-Hack-CVE/CVE-2022-37189)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37189">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37189">
 
 ---
+## CVE-2022-37184 (2022-08-31T18:15:00)
+> The application manage_website.php on Garage Management System 1.0 is vulnerable to Shell File Upload. The already authenticated malicious user, can upload a dangerous RCE or LCE exploit file.
+- [Live-Hack-CVE/CVE-2022-37184](https://github.com/Live-Hack-CVE/CVE-2022-37184)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37184">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37184">
+
+---
 ## CVE-2022-37177 (2022-08-29T21:15:00)
 > HireVue Hiring Platform V1.0 suffers from Use of a Broken or Risky Cryptographic Algorithm.
 - [JC175/CVE-2022-37177](https://github.com/JC175/CVE-2022-37177)	<img alt="forks" src="https://img.shields.io/github/forks/JC175/CVE-2022-37177">	<img alt="stars" src="https://img.shields.io/github/stars/JC175/CVE-2022-37177">
@@ -8079,6 +8099,11 @@
 ## CVE-2022-3713 (2022-12-01T18:15:00)
 > A code injection vulnerability allows adjacent attackers to execute code in the Wifi controller of Sophos Firewall releases older than version 19.5 GA.
 - [Live-Hack-CVE/CVE-2022-3713](https://github.com/Live-Hack-CVE/CVE-2022-3713)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3713">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3713">
+
+---
+## CVE-2022-37122 (2022-08-31T16:15:00)
+> Carel pCOWeb HVAC BACnet Gateway 2.1.0, Firmware: A2.1.0 - B2.1.0, Application Software: 2.15.4A Software v16 13020200 suffers from an unauthenticated arbitrary file disclosure vulnerability. Input passed through the 'file' GET parameter through the 'logdownload.cgi' Bash script is not properly verified before being used to download log files. This can be exploited to disclose the contents of arbitrary and sensitive files via directory traversal attacks.
+- [Live-Hack-CVE/CVE-2022-37122](https://github.com/Live-Hack-CVE/CVE-2022-37122)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37122">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37122">
 
 ---
 ## CVE-2022-3711 (2022-12-01T18:15:00)
@@ -8414,6 +8439,11 @@
 ## CVE-2022-3661 (2022-11-01T23:15:00)
 > Insufficient data validation in Extensions in Google Chrome prior to 107.0.5304.62 allowed a remote attacker who had compromised the renderer process to leak cross-origin data via a crafted Chrome Extension. (Chromium security severity: Low)
 - [Live-Hack-CVE/CVE-2022-3661](https://github.com/Live-Hack-CVE/CVE-2022-3661)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3661">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3661">
+
+---
+## CVE-2022-36593 (2022-09-02T04:15:00)
+> kkFileView v4.0.0 was discovered to contain an arbitrary file deletion vulnerability via the fileName parameter at /controller/FileController.java.
+- [Live-Hack-CVE/CVE-2022-36593](https://github.com/Live-Hack-CVE/CVE-2022-36593)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36593">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36593">
 
 ---
 ## CVE-2022-3656 (2022-11-01T23:15:00)
@@ -8765,6 +8795,11 @@
 ## CVE-2022-3605 (2022-12-12T18:15:00)
 > The WP CSV Exporter WordPress plugin before 1.3.7 does not properly escape the fields when exporting data as CSV, leading to a CSV injection vulnerability.
 - [Live-Hack-CVE/CVE-2022-3605](https://github.com/Live-Hack-CVE/CVE-2022-3605)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3605">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3605">
+
+---
+## CVE-2022-36037 (2022-08-29T18:15:00)
+> kirby is a content management system (CMS) that adapts to many different projects and helps you build your own ideal interface. Cross-site scripting (XSS) is a type of vulnerability that allows execution of any kind of JavaScript code inside the Panel session of the same or other users. In the Panel, a harmful script can for example trigger requests to Kirby's API with the permissions of the victim. If bad actors gain access to your group of authenticated Panel users they can escalate their privileges via the Panel session of an admin user. Depending on your site, other JavaScript-powered attacks are possible. The multiselect field allows selection of tags from an autocompleted list. Unfortunately, the Panel in Kirby 3.5 used HTML rendering for the raw option value. This allowed **attackers with influence on the options source** to store HTML code. The browser of the victim who visited a page with manipulated multiselect options in the Panel will then have rendered this malicious HTML code when the victim opened the autocomplete dropdown. Users are *not* affected by this vulnerability if you don't use the multiselect field or don't use it with options that can be manipulated by attackers. The problem has been patched in Kirby 3.5.8.1.
+- [Live-Hack-CVE/CVE-2022-36037](https://github.com/Live-Hack-CVE/CVE-2022-36037)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36037">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36037">
 
 ---
 ## CVE-2022-36033 (2022-08-29T17:15:00)
@@ -13309,6 +13344,12 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-25912](https://github.com/Live-Hack-CVE/CVE-2022-25912)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25912">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25912">
 
 ---
+## CVE-2022-2590 (2022-08-31T16:15:00)
+> A race condition was found in the way the Linux kernel's memory subsystem handled the copy-on-write (COW) breakage of private read-only shared memory mappings. This flaw allows an unprivileged, local user to gain write access to read-only memory mappings, increasing their privileges on the system.
+- [Live-Hack-CVE/CVE-2022-2590](https://github.com/Live-Hack-CVE/CVE-2022-2590)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2590">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2590">
+- [Live-Hack-CVE/CVE-2022-25904](https://github.com/Live-Hack-CVE/CVE-2022-25904)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25904">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25904">
+
+---
 ## CVE-2022-25892 (2022-11-01T05:15:00)
 > The package muhammara before 2.6.1, from 3.0.0 and before 3.1.1; all versions of package hummus are vulnerable to Denial of Service (DoS) when supplied with a maliciously crafted PDF file to be parsed.
 - [Live-Hack-CVE/CVE-2022-25892](https://github.com/Live-Hack-CVE/CVE-2022-25892)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25892">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25892">
@@ -13359,6 +13400,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-25836 (2022-12-12T04:15:00)
 > Bluetooth® Low Energy Pairing in Bluetooth Core Specification v4.0 through v5.3 may permit an unauthenticated MITM to acquire credentials with two pairing devices via adjacent access when the MITM negotiates Legacy Passkey Pairing with the pairing Initiator and Secure Connections Passkey Pairing with the pairing Responder and brute forces the Passkey entered by the user into the Initiator. The MITM attacker can use the identified Passkey value to complete authentication with the Responder via Bluetooth pairing method confusion.
 - [Live-Hack-CVE/CVE-2022-25836](https://github.com/Live-Hack-CVE/CVE-2022-25836)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25836">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25836">
+
+---
+## CVE-2022-25813 (2022-09-02T07:15:00)
+> In Apache OFBiz, versions 18.12.05 and earlier, an attacker acting as an anonymous user of the ecommerce plugin, can insert a malicious content in a message “Subject” field from the "Contact us" page. Then a party manager needs to list the communications in the party component to activate the SSTI. A RCE is then possible.
+- [Live-Hack-CVE/CVE-2022-25813](https://github.com/Live-Hack-CVE/CVE-2022-25813)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25813">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25813">
 
 ---
 ## CVE-2022-25794 (2022-04-11T20:15:00)
@@ -13431,6 +13477,16 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-25686](https://github.com/Live-Hack-CVE/CVE-2022-25686)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25686">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25686">
 
 ---
+## CVE-2022-25680 (2022-09-02T12:15:00)
+> Memory corruption in multimedia due to buffer overflow while processing count variable from client in Snapdragon Auto
+- [Live-Hack-CVE/CVE-2022-25680](https://github.com/Live-Hack-CVE/CVE-2022-25680)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25680">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25680">
+
+---
+## CVE-2022-25668 (2022-09-02T12:15:00)
+> Memory corruption in video driver due to double free while parsing ASF clip in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables
+- [Live-Hack-CVE/CVE-2022-25668](https://github.com/Live-Hack-CVE/CVE-2022-25668)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25668">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25668">
+
+---
 ## CVE-2022-25665 (2022-10-19T11:15:00)
 > Information disclosure due to buffer over read in kernel in Snapdragon Auto, Snapdragon Compute, Snapdragon Consumer IOT, Snapdragon Mobile
 - [Live-Hack-CVE/CVE-2022-25665](https://github.com/Live-Hack-CVE/CVE-2022-25665)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25665">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25665">
@@ -13449,6 +13505,21 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-25660 (2022-10-19T11:15:00)
 > Memory corruption due to double free issue in kernel in Snapdragon Auto, Snapdragon Compute, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile
 - [Live-Hack-CVE/CVE-2022-25660](https://github.com/Live-Hack-CVE/CVE-2022-25660)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25660">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25660">
+
+---
+## CVE-2022-25659 (2022-09-02T12:15:00)
+> Memory corruption due to buffer overflow while parsing MKV clips with invalid bitmap size in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables
+- [Live-Hack-CVE/CVE-2022-25659](https://github.com/Live-Hack-CVE/CVE-2022-25659)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25659">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25659">
+
+---
+## CVE-2022-25658 (2022-09-02T12:15:00)
+> Memory corruption due to incorrect pointer arithmetic when attempting to change the endianness in video parser function in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables
+- [Live-Hack-CVE/CVE-2022-25658](https://github.com/Live-Hack-CVE/CVE-2022-25658)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25658">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25658">
+
+---
+## CVE-2022-25657 (2022-09-02T12:15:00)
+> Memory corruption due to buffer overflow occurs while processing invalid MKV clip which has invalid seek header in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Wearables
+- [Live-Hack-CVE/CVE-2022-25657](https://github.com/Live-Hack-CVE/CVE-2022-25657)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25657">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25657">
 
 ---
 ## CVE-2022-25648 (2022-04-19T17:15:00)
@@ -13486,6 +13557,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [0xvinix/CVE-2022-2546](https://github.com/0xvinix/CVE-2022-2546)	<img alt="forks" src="https://img.shields.io/github/forks/0xvinix/CVE-2022-2546">	<img alt="stars" src="https://img.shields.io/github/stars/0xvinix/CVE-2022-2546">
 
 ---
+## CVE-2022-25370 (2022-09-02T07:15:00)
+> Apache OFBiz uses the Birt plugin (https://eclipse.github.io/birt-website/) to create data visualizations and reports. In Apache OFBiz release 18.12.05, and earlier versions, by leveraging a vulnerability in Birt (https://bugs.eclipse.org/bugs/show_bug.cgi?id=538142), an unauthenticated malicious user could perform a stored XSS attack in order to inject a malicious payload and execute it using the stored XSS.
+- [Live-Hack-CVE/CVE-2022-25370](https://github.com/Live-Hack-CVE/CVE-2022-25370)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25370">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25370">
+
+---
 ## CVE-2022-2536 (2022-12-15T19:15:00)
 > The Transposh WordPress Translation plugin for WordPress is vulnerable to unauthorized setting changes by unauthenticated users in versions up to, and including, 1.0.8.1. This is due to insufficient validation of settings on the 'tp_translation' AJAX action which makes it possible for unauthenticated attackers to bypass any restrictions and influence the data shown on the site. Please note this is a separate issue from CVE-2022-2461. Notes from the researcher: When installed Transposh comes with a set of pre-configured options, one of these is the "Who can translate" setting under the "Settings" tab. However, this option is largely ignored, if Transposh has enabled its "autotranslate" feature (it's enabled by default) and the HTTP POST parameter "sr0" is larger than 0. This is caused by a faulty validation in "wp/transposh_db.php."
 - [Live-Hack-CVE/CVE-2022-2536](https://github.com/Live-Hack-CVE/CVE-2022-2536)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2536">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2536">
@@ -13504,6 +13580,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-25243 (2022-03-10T17:47:00)
 > "Vault and Vault Enterprise 1.8.0 through 1.8.8, and 1.9.3 allowed the PKI secrets engine under certain configurations to issue wildcard certificates to authorized users for a specified domain, even if the PKI role policy attribute allow_subdomains is set to false. Fixed in Vault Enterprise 1.8.9 and 1.9.4.
 - [Live-Hack-CVE/CVE-2022-25243](https://github.com/Live-Hack-CVE/CVE-2022-25243)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25243">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25243">
+
+---
+## CVE-2022-2521 (2022-08-31T16:15:00)
+> It was found in libtiff 4.4.0rc1 that there is an invalid pointer free operation in TIFFClose() at tif_close.c:131 called by tiffcrop.c:2522 that can cause a program crash and denial of service while processing crafted input.
+- [Live-Hack-CVE/CVE-2022-2521](https://github.com/Live-Hack-CVE/CVE-2022-2521)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2521">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2521">
 
 ---
 ## CVE-2022-25192 (2022-02-15T17:15:00)
@@ -14545,6 +14626,21 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-22184](https://github.com/Live-Hack-CVE/CVE-2022-22184)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22184">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22184">
 
 ---
+## CVE-2022-22102 (2022-09-02T12:15:00)
+> Memory corruption in multimedia due to incorrect type conversion while adding data in Snapdragon Auto
+- [Live-Hack-CVE/CVE-2022-22102](https://github.com/Live-Hack-CVE/CVE-2022-22102)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22102">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22102">
+
+---
+## CVE-2022-22096 (2022-09-02T12:15:00)
+> Memory corruption in Bluetooth HOST due to stack-based buffer overflow when when extracting data using command length parameter in Snapdragon Connectivity, Snapdragon Mobile
+- [Live-Hack-CVE/CVE-2022-22096](https://github.com/Live-Hack-CVE/CVE-2022-22096)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22096">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22096">
+
+---
+## CVE-2022-22080 (2022-09-02T12:15:00)
+> Improper validation of backend id in PCM routing process can lead to memory corruption in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music
+- [Live-Hack-CVE/CVE-2022-22080](https://github.com/Live-Hack-CVE/CVE-2022-22080)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22080">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22080">
+
+---
 ## CVE-2022-22078 (2022-10-19T11:15:00)
 > Denial of service in BOOT when partition size for a particular partition is requested due to integer overflow when blocks are calculated in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Wearables
 - [Live-Hack-CVE/CVE-2022-22078](https://github.com/Live-Hack-CVE/CVE-2022-22078)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22078">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22078">
@@ -14553,6 +14649,36 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-22077 (2022-10-19T11:15:00)
 > Memory corruption in graphics due to use-after-free in graphics dispatcher logic in Snapdragon Mobile
 - [Live-Hack-CVE/CVE-2022-22077](https://github.com/Live-Hack-CVE/CVE-2022-22077)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22077">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22077">
+
+---
+## CVE-2022-22070 (2022-09-02T12:15:00)
+> Memory corruption in audio due to lack of check of invalid routing address into APR Routing table in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables
+- [Live-Hack-CVE/CVE-2022-22070](https://github.com/Live-Hack-CVE/CVE-2022-22070)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22070">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22070">
+
+---
+## CVE-2022-22069 (2022-09-02T12:15:00)
+> Devices with keyprotect off may store unencrypted keybox in RPMB and cause cryptographic issue in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Wearables
+- [Live-Hack-CVE/CVE-2022-22069](https://github.com/Live-Hack-CVE/CVE-2022-22069)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22069">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22069">
+
+---
+## CVE-2022-22067 (2022-09-02T12:15:00)
+> Potential memory leak in modem during the processing of NSA RRC Reconfiguration with invalid Radio Bearer Config in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Mobile
+- [Live-Hack-CVE/CVE-2022-22067](https://github.com/Live-Hack-CVE/CVE-2022-22067)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22067">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22067">
+
+---
+## CVE-2022-22062 (2022-09-02T12:15:00)
+> An out-of-bounds read can occur while parsing a server certificate due to improper length check in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer Electronics Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon IoT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables, Snapdragon Wired Infrastructure and Networking
+- [Live-Hack-CVE/CVE-2022-22062](https://github.com/Live-Hack-CVE/CVE-2022-22062)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22062">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22062">
+
+---
+## CVE-2022-22061 (2022-09-02T12:15:00)
+> Out of bounds writing is possible while verifying device IDs due to improper length check before copying the data in Snapdragon Compute, Snapdragon Connectivity, Snapdragon Mobile
+- [Live-Hack-CVE/CVE-2022-22061](https://github.com/Live-Hack-CVE/CVE-2022-22061)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22061">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22061">
+
+---
+## CVE-2022-22059 (2022-09-02T12:15:00)
+> Memory corruption due to out of bound read while parsing a video file in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Industrial IOT, Snapdragon Mobile
+- [Live-Hack-CVE/CVE-2022-22059](https://github.com/Live-Hack-CVE/CVE-2022-22059)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22059">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22059">
 
 ---
 ## CVE-2022-22035 (2022-10-11T19:15:00)
@@ -15728,9 +15854,19 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [biulove0x/CVE-2022-1903](https://github.com/biulove0x/CVE-2022-1903)	<img alt="forks" src="https://img.shields.io/github/forks/biulove0x/CVE-2022-1903">	<img alt="stars" src="https://img.shields.io/github/stars/biulove0x/CVE-2022-1903">
 
 ---
+## CVE-2022-1902 (2022-09-01T21:15:00)
+> A flaw was found in the Red Hat Advanced Cluster Security for Kubernetes. Notifier secrets were not properly sanitized in the GraphQL API. This flaw allows authenticated ACS users to retrieve Notifiers from the GraphQL API, revealing secrets that can escalate their privileges.
+- [Live-Hack-CVE/CVE-2022-1902](https://github.com/Live-Hack-CVE/CVE-2022-1902)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1902">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1902">
+
+---
 ## CVE-2022-1897 (2022-05-27T15:15:00)
 > Out-of-bounds Write in GitHub repository vim/vim prior to 8.2.
 - [Live-Hack-CVE/CVE-2022-1897](https://github.com/Live-Hack-CVE/CVE-2022-1897)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1897">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1897">
+
+---
+## CVE-2022-1888 (2022-08-31T16:15:00)
+> Alpha7 PC Loader (All versions) is vulnerable to a stack-based buffer overflow while processing a specifically crafted project file, which may allow an attacker to execute arbitrary code.
+- [Live-Hack-CVE/CVE-2022-1888](https://github.com/Live-Hack-CVE/CVE-2022-1888)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1888">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1888">
 
 ---
 ## CVE-2022-1886 (2022-05-26T15:15:00)
