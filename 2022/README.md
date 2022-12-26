@@ -7290,9 +7290,19 @@
 - [Live-Hack-CVE/CVE-2022-38095](https://github.com/Live-Hack-CVE/CVE-2022-38095)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38095">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38095">
 
 ---
+## CVE-2022-38089 (2022-08-24T09:15:00)
+> Stored cross-site scripting vulnerability in Exment ((PHP8) exceedone/exment v5.0.2 and earlier and exceedone/laravel-admin v3.0.0 and earlier, (PHP7) exceedone/exment v4.4.2 and earlier and exceedone/laravel-admin v2.2.2 and earlier) allows a remote authenticated attacker to inject an arbitrary script.
+- [Live-Hack-CVE/CVE-2022-38089](https://github.com/Live-Hack-CVE/CVE-2022-38089)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38089">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38089">
+
+---
 ## CVE-2022-38086 (2022-10-11T20:15:00)
 > Cross-Site Request Forgery (CSRF) vulnerability in Shortcodes Ultimate plugin <= 5.12.0 at WordPress leading to plugin preset settings change.
 - [Live-Hack-CVE/CVE-2022-38086](https://github.com/Live-Hack-CVE/CVE-2022-38086)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38086">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38086">
+
+---
+## CVE-2022-38080 (2022-08-24T09:15:00)
+> Reflected cross-site scripting vulnerability in Exment ((PHP8) exceedone/exment v5.0.2 and earlier and exceedone/laravel-admin v3.0.0 and earlier, (PHP7) exceedone/exment v4.4.2 and earlier and exceedone/laravel-admin v2.2.2 and earlier) allows a remote authenticated attacker to inject an arbitrary script.
+- [Live-Hack-CVE/CVE-2022-38080](https://github.com/Live-Hack-CVE/CVE-2022-38080)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38080">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38080">
 
 ---
 ## CVE-2022-38078 (2022-08-24T09:15:00)
@@ -7905,6 +7915,11 @@
 - [Live-Hack-CVE/CVE-2022-37338](https://github.com/Live-Hack-CVE/CVE-2022-37338)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37338">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37338">
 
 ---
+## CVE-2022-37333 (2022-08-24T09:15:00)
+> SQL injection vulnerability in the Exment ((PHP8) exceedone/exment v5.0.2 and earlier and exceedone/laravel-admin v3.0.0 and earlier, (PHP7) exceedone/exment v4.4.2 and earlier and exceedone/laravel-admin v2.2.2 and earlier) allows remote authenticated attackers to execute arbitrary SQL commands.
+- [Live-Hack-CVE/CVE-2022-37333](https://github.com/Live-Hack-CVE/CVE-2022-37333)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37333">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37333">
+
+---
 ## CVE-2022-37330 (2022-09-23T14:15:00)
 > Authenticated (contributor+) Stored Cross-Site Scripting (XSS) vulnerability in WHA Crossword plugin <= 1.1.10 at WordPress.
 - [Live-Hack-CVE/CVE-2022-37330](https://github.com/Live-Hack-CVE/CVE-2022-37330)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37330">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37330">
@@ -8069,6 +8084,16 @@
 - [Live-Hack-CVE/CVE-2022-37184](https://github.com/Live-Hack-CVE/CVE-2022-37184)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37184">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37184">
 
 ---
+## CVE-2022-37181 (2022-08-24T17:15:00)
+> 72crm 9.0 has an Arbitrary file upload vulnerability.
+- [Live-Hack-CVE/CVE-2022-37181](https://github.com/Live-Hack-CVE/CVE-2022-37181)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37181">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37181">
+
+---
+## CVE-2022-37178 (2022-08-24T17:15:00)
+> An issue was discovered in 72crm 9.0. There is a SQL Injection vulnerability in View the task calendar.
+- [Live-Hack-CVE/CVE-2022-37178](https://github.com/Live-Hack-CVE/CVE-2022-37178)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37178">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37178">
+
+---
 ## CVE-2022-37177 (2022-08-29T21:15:00)
 > HireVue Hiring Platform V1.0 suffers from Use of a Broken or Risky Cryptographic Algorithm.
 - [JC175/CVE-2022-37177](https://github.com/JC175/CVE-2022-37177)	<img alt="forks" src="https://img.shields.io/github/forks/JC175/CVE-2022-37177">	<img alt="stars" src="https://img.shields.io/github/stars/JC175/CVE-2022-37177">
@@ -8159,6 +8184,56 @@
 ## CVE-2022-3711 (2022-12-01T18:15:00)
 > A post-auth read-only SQL injection vulnerability allows users to read non-sensitive configuration database contents in the User Portal of Sophos Firewall releases older than version 19.5 GA.
 - [Live-Hack-CVE/CVE-2022-3711](https://github.com/Live-Hack-CVE/CVE-2022-3711)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3711">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3711">
+
+---
+## CVE-2022-37100 (2022-08-25T15:15:00)
+> H3C H200 H200V100R004 was discovered to contain a stack overflow via the function UpdateMacClone.
+- [Live-Hack-CVE/CVE-2022-37100](https://github.com/Live-Hack-CVE/CVE-2022-37100)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37100">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37100">
+
+---
+## CVE-2022-37099 (2022-08-25T15:15:00)
+> H3C H200 H200V100R004 was discovered to contain a stack overflow via the function UpdateSnat.
+- [Live-Hack-CVE/CVE-2022-37099](https://github.com/Live-Hack-CVE/CVE-2022-37099)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37099">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37099">
+
+---
+## CVE-2022-37098 (2022-08-25T15:15:00)
+> H3C H200 H200V100R004 was discovered to contain a stack overflow via the function UpdateIpv6Params.
+- [Live-Hack-CVE/CVE-2022-37098](https://github.com/Live-Hack-CVE/CVE-2022-37098)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37098">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37098">
+
+---
+## CVE-2022-37097 (2022-08-25T15:15:00)
+> H3C H200 H200V100R004 was discovered to contain a stack overflow via the function SetAPInfoById.
+- [Live-Hack-CVE/CVE-2022-37097](https://github.com/Live-Hack-CVE/CVE-2022-37097)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37097">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37097">
+
+---
+## CVE-2022-37096 (2022-08-25T15:15:00)
+> H3C H200 H200V100R004 was discovered to contain a stack overflow via the function EnableIpv6.
+- [Live-Hack-CVE/CVE-2022-37096](https://github.com/Live-Hack-CVE/CVE-2022-37096)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37096">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37096">
+
+---
+## CVE-2022-37095 (2022-08-25T15:15:00)
+> H3C H200 H200V100R004 was discovered to contain a stack overflow via the function UpdateWanParams.
+- [Live-Hack-CVE/CVE-2022-37095](https://github.com/Live-Hack-CVE/CVE-2022-37095)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37095">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37095">
+
+---
+## CVE-2022-37094 (2022-08-25T15:15:00)
+> H3C H200 H200V100R004 was discovered to contain a stack overflow via the function Edit_BasicSSID_5G.
+- [Live-Hack-CVE/CVE-2022-37094](https://github.com/Live-Hack-CVE/CVE-2022-37094)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37094">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37094">
+
+---
+## CVE-2022-37093 (2022-08-25T15:15:00)
+> H3C H200 H200V100R004 was discovered to contain a stack overflow via the function AddMacList.
+- [Live-Hack-CVE/CVE-2022-37093](https://github.com/Live-Hack-CVE/CVE-2022-37093)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37093">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37093">
+
+---
+## CVE-2022-37092 (2022-08-25T15:15:00)
+> H3C H200 H200V100R004 was discovered to contain a stack overflow via the function SetAPWifiorLedInfoById.
+- [Live-Hack-CVE/CVE-2022-37092](https://github.com/Live-Hack-CVE/CVE-2022-37092)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37092">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37092">
+
+---
+## CVE-2022-37091 (2022-08-25T15:15:00)
+> H3C H200 H200V100R004 was discovered to contain a stack overflow via the function EditWlanMacList.
+- [Live-Hack-CVE/CVE-2022-37091](https://github.com/Live-Hack-CVE/CVE-2022-37091)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37091">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37091">
 
 ---
 ## CVE-2022-37063 (2022-08-18T18:15:00)
@@ -8571,6 +8646,11 @@
 ## CVE-2022-3653 (2022-11-01T23:15:00)
 > Heap buffer overflow in Vulkan in Google Chrome prior to 107.0.5304.62 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [Live-Hack-CVE/CVE-2022-3653](https://github.com/Live-Hack-CVE/CVE-2022-3653)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3653">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3653">
+
+---
+## CVE-2022-36527 (2022-08-25T19:15:00)
+> Jfinal CMS v5.1.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the post title text field under the publish blog module.
+- [Live-Hack-CVE/CVE-2022-36527](https://github.com/Live-Hack-CVE/CVE-2022-36527)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36527">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36527">
 
 ---
 ## CVE-2022-3652 (2022-11-01T23:15:00)
@@ -10627,6 +10707,11 @@
 ## CVE-2022-32827 (2022-11-01T20:15:00)
 > A memory corruption issue was addressed with improved state management. This issue is fixed in iOS 16, macOS Ventura 13. An app may be able to cause a denial-of-service.
 - [Live-Hack-CVE/CVE-2022-32827](https://github.com/Live-Hack-CVE/CVE-2022-32827)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32827">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32827">
+
+---
+## CVE-2022-32810 (2022-08-24T20:15:00)
+> The issue was addressed with improved memory handling. This issue is fixed in macOS Monterey 12.5, watchOS 8.7, iOS 15.6 and iPadOS 15.6. An app may be able to execute arbitrary code with kernel privileges.
+- [Live-Hack-CVE/CVE-2022-32810](https://github.com/Live-Hack-CVE/CVE-2022-32810)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32810">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32810">
 
 ---
 ## CVE-2022-3280 (2022-11-09T23:15:00)
@@ -16188,6 +16273,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-20124 (2022-06-15T13:15:00)
 > In deletePackageX of DeletePackageHelper.java, there is a possible way for a Guest user to reset pre-loaded applications for other users due to a permissions bypass. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12LAndroid ID: A-170646036
 - [nidhi7598/Frameworks_base_AOSP10_r33__CVE-2022-20124-](https://github.com/nidhi7598/Frameworks_base_AOSP10_r33__CVE-2022-20124-)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/Frameworks_base_AOSP10_r33__CVE-2022-20124-">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/Frameworks_base_AOSP10_r33__CVE-2022-20124-">
+
+---
+## CVE-2022-20122 (2022-08-24T14:15:00)
+> The PowerVR GPU driver allows unprivileged apps to allocated pinned memory, unpin it (which makes it available to be freed), and continue using the page in GPU calls. No privileges required and this results in kernel memory corruption.Product: AndroidVersions: Android SoCAndroid ID: A-232441339
+- [Live-Hack-CVE/CVE-2022-20122](https://github.com/Live-Hack-CVE/CVE-2022-20122)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20122">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20122">
 
 ---
 ## CVE-2022-20007 (2022-05-10T20:15:00)
