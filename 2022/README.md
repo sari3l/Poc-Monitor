@@ -6924,6 +6924,11 @@
 - [Live-Hack-CVE/CVE-2022-38465](https://github.com/Live-Hack-CVE/CVE-2022-38465)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38465">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38465">
 
 ---
+## CVE-2022-38463 (2022-08-23T19:15:00)
+> ServiceNow through San Diego Patch 4b and Patch 6 allows reflected XSS in the logout functionality.
+- [Live-Hack-CVE/CVE-2022-38463](https://github.com/Live-Hack-CVE/CVE-2022-38463)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38463">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38463">
+
+---
 ## CVE-2022-38436 (2022-10-25T17:15:00)
 > Adobe Illustrator versions 26.4 (and earlier) and 25.4.7 (and earlier) are affected by an out-of-bounds read vulnerability when parsing a crafted file, which could result in a read past the end of an allocated memory structure. An attacker could leverage this vulnerability to execute code in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
 - [Live-Hack-CVE/CVE-2022-38436](https://github.com/Live-Hack-CVE/CVE-2022-38436)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38436">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38436">
@@ -7188,6 +7193,11 @@
 > An uncontrolled resource consumption issue when parsing URLs in GitLab CE/EE affecting all versions prior to 15.3.5, 15.4 prior to 15.4.4, and 15.5 prior to 15.5.2 allows an attacker to cause performance issues and potentially a denial of service on the GitLab instance.
 - [Live-Hack-CVE/CVE-2022-3818](https://github.com/Live-Hack-CVE/CVE-2022-3818)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3818">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3818">
 - [Live-Hack-CVE/CVE-2022-38183](https://github.com/Live-Hack-CVE/CVE-2022-38183)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38183">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38183">
+
+---
+## CVE-2022-38172 (2022-08-23T19:15:00)
+> ServiceNow through San Diego Patch 3 allows XSS via the name field during creation of a new dashboard for the Performance Analytics dashboard.
+- [Live-Hack-CVE/CVE-2022-38172](https://github.com/Live-Hack-CVE/CVE-2022-38172)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38172">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38172">
 
 ---
 ## CVE-2022-38171 (2022-08-22T19:15:00)
@@ -8123,17 +8133,20 @@
 ## CVE-2022-37152 (2022-08-26T13:15:00)
 > An issue was discovered in Online Diagnostic Lab Management System 1.0, There is a SQL injection vulnerability via "dob" parameter in "/classes/Users.php?f=save_client"
 - [Fjowel/CVE-2022-37152](https://github.com/Fjowel/CVE-2022-37152)	<img alt="forks" src="https://img.shields.io/github/forks/Fjowel/CVE-2022-37152">	<img alt="stars" src="https://img.shields.io/github/stars/Fjowel/CVE-2022-37152">
+- [Live-Hack-CVE/CVE-2022-37152](https://github.com/Live-Hack-CVE/CVE-2022-37152)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37152">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37152">
 
 ---
 ## CVE-2022-37151 (2022-08-26T13:15:00)
 > There is an unauthorized access vulnerability in Online Diagnostic Lab Management System 1.0.
 - [Fjowel/CVE-2022-37151](https://github.com/Fjowel/CVE-2022-37151)	<img alt="forks" src="https://img.shields.io/github/forks/Fjowel/CVE-2022-37151">	<img alt="stars" src="https://img.shields.io/github/stars/Fjowel/CVE-2022-37151">
+- [Live-Hack-CVE/CVE-2022-37151](https://github.com/Live-Hack-CVE/CVE-2022-37151)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37151">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37151">
 
 ---
 ## CVE-2022-37150 (2022-08-26T13:15:00)
 > An issue was discovered in Online Diagnostic Lab Management System 1.0. There is a stored XSS vulnerability via firstname, address, middlename, lastname , gender, email, contact parameters.
 - [Fjowel/CVE-2022-37150-CVE-2022-37151-CVE-2022-37152](https://github.com/Fjowel/CVE-2022-37150-CVE-2022-37151-CVE-2022-37152)	<img alt="forks" src="https://img.shields.io/github/forks/Fjowel/CVE-2022-37150-CVE-2022-37151-CVE-2022-37152">	<img alt="stars" src="https://img.shields.io/github/stars/Fjowel/CVE-2022-37150-CVE-2022-37151-CVE-2022-37152">
 - [Fjowel/CVE-2022-37150](https://github.com/Fjowel/CVE-2022-37150)	<img alt="forks" src="https://img.shields.io/github/forks/Fjowel/CVE-2022-37150">	<img alt="stars" src="https://img.shields.io/github/stars/Fjowel/CVE-2022-37150">
+- [Live-Hack-CVE/CVE-2022-37150](https://github.com/Live-Hack-CVE/CVE-2022-37150)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37150">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37150">
 
 ---
 ## CVE-2022-37145 (2022-09-08T01:15:00)
@@ -8545,6 +8558,11 @@
 - [Live-Hack-CVE/CVE-2022-3670](https://github.com/Live-Hack-CVE/CVE-2022-3670)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3670">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3670">
 
 ---
+## CVE-2022-36698 (2022-08-25T21:15:00)
+> Ingredients Stock Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /categories/view_category.php.
+- [Live-Hack-CVE/CVE-2022-36698](https://github.com/Live-Hack-CVE/CVE-2022-36698)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36698">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36698">
+
+---
 ## CVE-2022-36697 (2022-08-25T22:15:00)
 > Ingredients Stock Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /classes/Master.php?f=delete_waste.
 - [Live-Hack-CVE/CVE-2022-36697](https://github.com/Live-Hack-CVE/CVE-2022-36697)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36697">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36697">
@@ -8565,9 +8583,39 @@
 - [Live-Hack-CVE/CVE-2022-3669](https://github.com/Live-Hack-CVE/CVE-2022-3669)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3669">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3669">
 
 ---
+## CVE-2022-36683 (2022-08-26T13:15:00)
+> Simple Task Scheduling System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /classes/Master.php?f=delete_payment.
+- [Live-Hack-CVE/CVE-2022-36683](https://github.com/Live-Hack-CVE/CVE-2022-36683)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36683">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36683">
+
+---
+## CVE-2022-36682 (2022-08-26T13:15:00)
+> Simple Task Scheduling System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /classes/Master.php?f=delete_student.
+- [Live-Hack-CVE/CVE-2022-36682](https://github.com/Live-Hack-CVE/CVE-2022-36682)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36682">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36682">
+
+---
+## CVE-2022-36681 (2022-08-26T13:15:00)
+> Simple Task Scheduling System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /classes/Master.php?f=delete_account.
+- [Live-Hack-CVE/CVE-2022-36681](https://github.com/Live-Hack-CVE/CVE-2022-36681)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36681">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36681">
+
+---
+## CVE-2022-36680 (2022-08-26T13:15:00)
+> Simple Task Scheduling System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /classes/Master.php?f=delete_schedule.
+- [Live-Hack-CVE/CVE-2022-36680](https://github.com/Live-Hack-CVE/CVE-2022-36680)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36680">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36680">
+
+---
 ## CVE-2022-3668 (2022-10-26T19:15:00)
 > A vulnerability has been found in Axiomatic Bento4 and classified as problematic. This vulnerability affects the function AP4_AtomFactory::CreateAtomFromStream of the component mp4edit. The manipulation leads to memory leak. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-212008.
 - [Live-Hack-CVE/CVE-2022-3668](https://github.com/Live-Hack-CVE/CVE-2022-3668)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3668">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3668">
+
+---
+## CVE-2022-36679 (2022-08-26T13:15:00)
+> Simple Task Scheduling System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /admin/?page=user/manage_user.
+- [Live-Hack-CVE/CVE-2022-36679](https://github.com/Live-Hack-CVE/CVE-2022-36679)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36679">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36679">
+
+---
+## CVE-2022-36678 (2022-08-26T13:15:00)
+> Simple Task Scheduling System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /classes/Master.php?f=delete_category.
+- [Live-Hack-CVE/CVE-2022-36678](https://github.com/Live-Hack-CVE/CVE-2022-36678)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36678">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36678">
 
 ---
 ## CVE-2022-3667 (2022-10-26T19:15:00)
@@ -12573,6 +12621,11 @@
 - [Live-Hack-CVE/CVE-2022-2966](https://github.com/Live-Hack-CVE/CVE-2022-2966)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2966">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2966">
 
 ---
+## CVE-2022-2965 (2022-08-23T16:15:00)
+> Improper Restriction of Rendered UI Layers or Frames in GitHub repository notrinos/notrinoserp prior to 0.7.
+- [Live-Hack-CVE/CVE-2022-2965](https://github.com/Live-Hack-CVE/CVE-2022-2965)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2965">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2965">
+
+---
 ## CVE-2022-29649 (2022-09-15T15:15:00)
 > Qsmart Next v4.1.2 was discovered to contain a cross-site scripting (XSS) vulnerability.
 - [Live-Hack-CVE/CVE-2022-29649](https://github.com/Live-Hack-CVE/CVE-2022-29649)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29649">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29649">
@@ -14632,6 +14685,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-23277 (2022-03-09T17:15:00)
 > Microsoft Exchange Server Remote Code Execution Vulnerability.
 - [7BitsTeam/CVE-2022-23277](https://github.com/7BitsTeam/CVE-2022-23277)	<img alt="forks" src="https://img.shields.io/github/forks/7BitsTeam/CVE-2022-23277">	<img alt="stars" src="https://img.shields.io/github/stars/7BitsTeam/CVE-2022-23277">
+- [Live-Hack-CVE/CVE-2022-23277](https://github.com/Live-Hack-CVE/CVE-2022-23277)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23277">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23277">
 
 ---
 ## CVE-2022-23267 (2022-05-10T21:15:00)
@@ -15183,6 +15237,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-22080](https://github.com/Live-Hack-CVE/CVE-2022-22080)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22080">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22080">
 
 ---
+## CVE-2022-2208 (2022-06-27T13:15:00)
+> NULL Pointer Dereference in GitHub repository vim/vim prior to 8.2.5163.
+- [Live-Hack-CVE/CVE-2022-2208](https://github.com/Live-Hack-CVE/CVE-2022-2208)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2208">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2208">
+
+---
 ## CVE-2022-22078 (2022-10-19T11:15:00)
 > Denial of service in BOOT when partition size for a particular partition is requested due to integer overflow when blocks are calculated in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Wearables
 - [Live-Hack-CVE/CVE-2022-22078](https://github.com/Live-Hack-CVE/CVE-2022-22078)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22078">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22078">
@@ -15337,6 +15396,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 > Kayrasoft product before version 2 has an unauthenticated SQL Injection vulnerability. This is fixed in version 2.
 - [Live-Hack-CVE/CVE-2022-2177](https://github.com/Live-Hack-CVE/CVE-2022-2177)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2177">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2177">
 - [Live-Hack-CVE/CVE-2022-21778](https://github.com/Live-Hack-CVE/CVE-2022-21778)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21778">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21778">
+
+---
+## CVE-2022-2175 (2022-06-23T13:15:00)
+> Buffer Over-read in GitHub repository vim/vim prior to 8.2.
+- [Live-Hack-CVE/CVE-2022-2175](https://github.com/Live-Hack-CVE/CVE-2022-2175)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2175">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2175">
 
 ---
 ## CVE-2022-21724 (2022-02-02T12:15:00)
@@ -16532,6 +16596,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [mistymntncop/CVE-2022-1802](https://github.com/mistymntncop/CVE-2022-1802)	<img alt="forks" src="https://img.shields.io/github/forks/mistymntncop/CVE-2022-1802">	<img alt="stars" src="https://img.shields.io/github/stars/mistymntncop/CVE-2022-1802">
 
 ---
+## CVE-2022-1796 (2022-05-19T16:15:00)
+> Use After Free in GitHub repository vim/vim prior to 8.2.4979.
+- [Live-Hack-CVE/CVE-2022-1796](https://github.com/Live-Hack-CVE/CVE-2022-1796)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1796">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1796">
+
+---
 ## CVE-2022-1794 (2022-07-11T11:15:00)
 > The CODESYS OPC DA Server prior V3.5.18.20 stores PLC passwords as plain text in its configuration file so that it is visible to all authorized Microsoft Windows users of the system.
 - [Live-Hack-CVE/CVE-2022-1794](https://github.com/Live-Hack-CVE/CVE-2022-1794)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1794">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1794">
@@ -16678,6 +16747,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1523 (2022-10-19T18:15:00)
 > Fuji Electric D300win prior to version 3.7.1.17 is vulnerable to a write-what-where condition, which could allow an attacker to overwrite program memory to manipulate the flow of information.
 - [Live-Hack-CVE/CVE-2022-1523](https://github.com/Live-Hack-CVE/CVE-2022-1523)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1523">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1523">
+
+---
+## CVE-2022-1513 (2022-08-23T18:15:00)
+> A potential vulnerability was reported in Lenovo PCManager prior to version 5.0.10.4191 that may allow code execution when visiting a specially crafted website.
+- [Live-Hack-CVE/CVE-2022-1513](https://github.com/Live-Hack-CVE/CVE-2022-1513)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1513">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1513">
 
 ---
 ## CVE-2022-1494 (2022-07-26T22:15:00)
@@ -16943,6 +17017,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 > A hardcoded password was set for accounts registered using an OmniAuth provider (e.g. OAuth, LDAP, SAML) in GitLab CE/EE versions 14.7 prior to 14.7.7, 14.8 prior to 14.8.5, and 14.9 prior to 14.9.2 allowing attackers to potentially take over accounts
 - [ipsBruno/CVE-2022-1162](https://github.com/ipsBruno/CVE-2022-1162)	<img alt="forks" src="https://img.shields.io/github/forks/ipsBruno/CVE-2022-1162">	<img alt="stars" src="https://img.shields.io/github/stars/ipsBruno/CVE-2022-1162">
 - [Greenwolf/CVE-2022-1162](https://github.com/Greenwolf/CVE-2022-1162)	<img alt="forks" src="https://img.shields.io/github/forks/Greenwolf/CVE-2022-1162">	<img alt="stars" src="https://img.shields.io/github/stars/Greenwolf/CVE-2022-1162">
+
+---
+## CVE-2022-1160 (2022-03-30T19:15:00)
+> heap buffer overflow in get_one_sourceline in GitHub repository vim/vim prior to 8.2.4647.
+- [Live-Hack-CVE/CVE-2022-1160](https://github.com/Live-Hack-CVE/CVE-2022-1160)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1160">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1160">
 
 ---
 ## CVE-2022-1154 (2022-03-30T12:15:00)

@@ -45,9 +45,49 @@
 - [daai1/CVE-2012-1823](https://github.com/daai1/CVE-2012-1823)	<img alt="forks" src="https://img.shields.io/github/forks/daai1/CVE-2012-1823">	<img alt="stars" src="https://img.shields.io/github/stars/daai1/CVE-2012-1823">
 
 ---
+## CVE-2012-1705 (2013-01-17T01:55:00)
+> Unspecified vulnerability in the Server component in Oracle MySQL 5.1.66 and earlier and 5.5.28 and earlier allows remote authenticated users to affect availability via unknown vectors related to Server Optimizer.
+- [Live-Hack-CVE/CVE-2012-1705](https://github.com/Live-Hack-CVE/CVE-2012-1705)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-1705">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-1705">
+
+---
+## CVE-2012-1697 (2012-05-03T22:55:00)
+> Unspecified vulnerability in the MySQL Server component in Oracle MySQL 5.5.21 and earlier allows remote authenticated users to affect availability via unknown vectors related to Partition.
+- [Live-Hack-CVE/CVE-2012-1697](https://github.com/Live-Hack-CVE/CVE-2012-1697)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-1697">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-1697">
+
+---
+## CVE-2012-1689 (2012-07-17T22:55:00)
+> Unspecified vulnerability in Oracle MySQL Server 5.1.62 and earlier, and 5.5.22 and earlier, allows remote authenticated users to affect availability via unknown vectors related to Server Optimizer.
+- [Live-Hack-CVE/CVE-2012-1689](https://github.com/Live-Hack-CVE/CVE-2012-1689)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-1689">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-1689">
+
+---
+## CVE-2012-1688 (2012-05-03T22:55:00)
+> Unspecified vulnerability in the MySQL Server component in Oracle MySQL 5.1.61 and earlier, and 5.5.21 and earlier, allows remote authenticated users to affect availability, related to Server DML.
+- [Live-Hack-CVE/CVE-2012-1688](https://github.com/Live-Hack-CVE/CVE-2012-1688)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-1688">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-1688">
+
+---
 ## CVE-2012-0777 (2012-04-10T23:55:00)
 > The JavaScript API in Adobe Reader and Acrobat 9.x before 9.5.1 and 10.x before 10.1.3 on Mac OS X and Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors.
 - [Live-Hack-CVE/CVE-2012-0777](https://github.com/Live-Hack-CVE/CVE-2012-0777)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-0777">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-0777">
+
+---
+## CVE-2012-0578 (2013-01-17T01:55:00)
+> Unspecified vulnerability in the Server component in Oracle MySQL 5.5.28 and earlier allows remote authenticated users to affect availability via unknown vectors related to Server Optimizer.
+- [Live-Hack-CVE/CVE-2012-0578](https://github.com/Live-Hack-CVE/CVE-2012-0578)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-0578">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-0578">
+
+---
+## CVE-2012-0574 (2013-01-17T01:55:00)
+> Unspecified vulnerability in the Server component in Oracle MySQL 5.1.66 and earlier, and 5.5.28 and earlier, allows remote authenticated users to affect availability via unknown vectors.
+- [Live-Hack-CVE/CVE-2012-0574](https://github.com/Live-Hack-CVE/CVE-2012-0574)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-0574">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-0574">
+
+---
+## CVE-2012-0572 (2013-01-17T01:55:00)
+> Unspecified vulnerability in the Server component in Oracle MySQL 5.1.66 and earlier and 5.5.28 and earlier allows remote authenticated users to affect availability via unknown vectors related to InnoDB.
+- [Live-Hack-CVE/CVE-2012-0572](https://github.com/Live-Hack-CVE/CVE-2012-0572)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-0572">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-0572">
+
+---
+## CVE-2012-0540 (2012-07-17T22:55:00)
+> Unspecified vulnerability in Oracle MySQL Server 5.1.62 and earlier and 5.5.23 and earlier allows remote authenticated users to affect availability, related to GIS Extension.
+- [Live-Hack-CVE/CVE-2012-0540](https://github.com/Live-Hack-CVE/CVE-2012-0540)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-0540">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-0540">
 
 ---
 ## CVE-2012-0158 (2012-04-10T21:55:00)
