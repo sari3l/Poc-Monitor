@@ -8236,6 +8236,11 @@
 - [Live-Hack-CVE/CVE-2022-37091](https://github.com/Live-Hack-CVE/CVE-2022-37091)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37091">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37091">
 
 ---
+## CVE-2022-37077 (2022-08-25T15:15:00)
+> TOTOLINK A7000R V9.1.0u.6115_B20201022 was discovered to contain a stack overflow via the pppoeUser parameter.
+- [Live-Hack-CVE/CVE-2022-37077](https://github.com/Live-Hack-CVE/CVE-2022-37077)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37077">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37077">
+
+---
 ## CVE-2022-37063 (2022-08-18T18:15:00)
 > All FLIR AX8 thermal sensor cameras versions up to and including 1.46.16 are vulnerable to Cross Site Scripting (XSS) due to improper input sanitization. An authenticated remote attacker can execute arbitrary JavaScript code in the web management interface. A successful exploit could allow the attacker to insert malicious JavaScript code.
 - [Live-Hack-CVE/CVE-2022-37063](https://github.com/Live-Hack-CVE/CVE-2022-37063)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37063">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37063">
@@ -8495,9 +8500,24 @@
 - [Live-Hack-CVE/CVE-2022-3673](https://github.com/Live-Hack-CVE/CVE-2022-3673)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3673">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3673">
 
 ---
+## CVE-2022-36721 (2022-08-25T22:15:00)
+> Library Management System v1.0 was discovered to contain a SQL injection vulnerability via the Textbook parameter at /admin/modify.php.
+- [Live-Hack-CVE/CVE-2022-36721](https://github.com/Live-Hack-CVE/CVE-2022-36721)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36721">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36721">
+
+---
+## CVE-2022-36720 (2022-08-25T22:15:00)
+> Library Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /admin/modify1.php.
+- [Live-Hack-CVE/CVE-2022-36720](https://github.com/Live-Hack-CVE/CVE-2022-36720)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36720">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36720">
+
+---
 ## CVE-2022-3672 (2022-10-26T17:15:00)
 > A vulnerability, which was classified as problematic, has been found in SourceCodester Sanitization Management System 1.0. This issue affects some unknown processing of the file /php-sms/classes/SystemSettings.php. The manipulation of the argument name/shortname leads to cross site scripting. The attack may be initiated remotely. The associated identifier of this vulnerability is VDB-212015.
 - [Live-Hack-CVE/CVE-2022-3672](https://github.com/Live-Hack-CVE/CVE-2022-3672)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3672">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3672">
+
+---
+## CVE-2022-36719 (2022-08-25T22:15:00)
+> Library Management System v1.0 was discovered to contain a SQL injection vulnerability via the ok parameter at /admin/history.php.
+- [Live-Hack-CVE/CVE-2022-36719](https://github.com/Live-Hack-CVE/CVE-2022-36719)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36719">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36719">
 
 ---
 ## CVE-2022-36708 (2022-08-28T23:15:00)
@@ -8523,6 +8543,21 @@
 ## CVE-2022-3670 (2022-10-26T19:15:00)
 > A vulnerability was found in Axiomatic Bento4. It has been classified as critical. Affected is the function WriteSample of the component mp42hevc. The manipulation leads to heap-based buffer overflow. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. VDB-212010 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-3670](https://github.com/Live-Hack-CVE/CVE-2022-3670)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3670">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3670">
+
+---
+## CVE-2022-36697 (2022-08-25T22:15:00)
+> Ingredients Stock Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /classes/Master.php?f=delete_waste.
+- [Live-Hack-CVE/CVE-2022-36697](https://github.com/Live-Hack-CVE/CVE-2022-36697)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36697">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36697">
+
+---
+## CVE-2022-36696 (2022-08-25T22:15:00)
+> Ingredients Stock Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /classes/Master.php?f=delete_stockout.
+- [Live-Hack-CVE/CVE-2022-36696](https://github.com/Live-Hack-CVE/CVE-2022-36696)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36696">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36696">
+
+---
+## CVE-2022-36695 (2022-08-25T22:15:00)
+> Ingredients Stock Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /classes/Master.php?f=delete_stockin.
+- [Live-Hack-CVE/CVE-2022-36695](https://github.com/Live-Hack-CVE/CVE-2022-36695)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36695">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36695">
 
 ---
 ## CVE-2022-3669 (2022-10-26T19:15:00)
@@ -8658,9 +8693,124 @@
 - [Live-Hack-CVE/CVE-2022-3652](https://github.com/Live-Hack-CVE/CVE-2022-3652)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3652">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3652">
 
 ---
+## CVE-2022-36510 (2022-08-25T14:15:00)
+> H3C GR2200 MiniGR1A0V100R014 was discovered to contain a command injection vulnerability via the param parameter at DelL2tpLNSList.
+- [Live-Hack-CVE/CVE-2022-36510](https://github.com/Live-Hack-CVE/CVE-2022-36510)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36510">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36510">
+
+---
+## CVE-2022-36509 (2022-08-25T14:15:00)
+> H3C GR3200 MiniGR1B0V100R014 was discovered to contain a command injection vulnerability via the param parameter at DelL2tpLNSList.
+- [Live-Hack-CVE/CVE-2022-36509](https://github.com/Live-Hack-CVE/CVE-2022-36509)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36509">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36509">
+
+---
+## CVE-2022-36508 (2022-08-25T14:15:00)
+> H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function SetAPInfoById.
+- [Live-Hack-CVE/CVE-2022-36508](https://github.com/Live-Hack-CVE/CVE-2022-36508)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36508">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36508">
+
+---
+## CVE-2022-36507 (2022-08-25T14:15:00)
+> H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function AddWlanMacList.
+- [Live-Hack-CVE/CVE-2022-36507](https://github.com/Live-Hack-CVE/CVE-2022-36507)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36507">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36507">
+
+---
+## CVE-2022-36506 (2022-08-25T14:15:00)
+> H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function SetMacAccessMode.
+- [Live-Hack-CVE/CVE-2022-36506](https://github.com/Live-Hack-CVE/CVE-2022-36506)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36506">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36506">
+
+---
+## CVE-2022-36505 (2022-08-25T14:15:00)
+> H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function EDitusergroup.
+- [Live-Hack-CVE/CVE-2022-36505](https://github.com/Live-Hack-CVE/CVE-2022-36505)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36505">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36505">
+
+---
+## CVE-2022-36504 (2022-08-25T14:15:00)
+> H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function Edit_BasicSSID.
+- [Live-Hack-CVE/CVE-2022-36504](https://github.com/Live-Hack-CVE/CVE-2022-36504)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36504">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36504">
+
+---
+## CVE-2022-36503 (2022-08-25T14:15:00)
+> H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function UpdateMacClone.
+- [Live-Hack-CVE/CVE-2022-36503](https://github.com/Live-Hack-CVE/CVE-2022-36503)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36503">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36503">
+
+---
+## CVE-2022-36502 (2022-08-25T14:15:00)
+> H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function UpdateWanParams.
+- [Live-Hack-CVE/CVE-2022-36502](https://github.com/Live-Hack-CVE/CVE-2022-36502)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36502">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36502">
+
+---
+## CVE-2022-36501 (2022-08-25T14:15:00)
+> H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function UpdateSnat.
+- [Live-Hack-CVE/CVE-2022-36501](https://github.com/Live-Hack-CVE/CVE-2022-36501)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36501">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36501">
+
+---
+## CVE-2022-36500 (2022-08-25T14:15:00)
+> H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function EditWlanMacList.
+- [Live-Hack-CVE/CVE-2022-36500](https://github.com/Live-Hack-CVE/CVE-2022-36500)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36500">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36500">
+
+---
+## CVE-2022-36499 (2022-08-25T14:15:00)
+> H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function DEleteusergroup.
+- [Live-Hack-CVE/CVE-2022-36499](https://github.com/Live-Hack-CVE/CVE-2022-36499)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36499">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36499">
+
+---
+## CVE-2022-36498 (2022-08-25T14:15:00)
+> H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function Asp_SetTimingtimeWifiAndLed.
+- [Live-Hack-CVE/CVE-2022-36498](https://github.com/Live-Hack-CVE/CVE-2022-36498)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36498">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36498">
+
+---
+## CVE-2022-36497 (2022-08-25T14:15:00)
+> H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function Edit_BasicSSID_5G.
+- [Live-Hack-CVE/CVE-2022-36497](https://github.com/Live-Hack-CVE/CVE-2022-36497)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36497">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36497">
+
+---
+## CVE-2022-36496 (2022-08-25T14:15:00)
+> H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function SetMobileAPInfoById.
+- [Live-Hack-CVE/CVE-2022-36496](https://github.com/Live-Hack-CVE/CVE-2022-36496)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36496">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36496">
+
+---
+## CVE-2022-36495 (2022-08-25T14:15:00)
+> H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function addactionlist.
+- [Live-Hack-CVE/CVE-2022-36495](https://github.com/Live-Hack-CVE/CVE-2022-36495)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36495">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36495">
+
+---
+## CVE-2022-36494 (2022-08-25T14:15:00)
+> H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function edditactionlist.
+- [Live-Hack-CVE/CVE-2022-36494](https://github.com/Live-Hack-CVE/CVE-2022-36494)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36494">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36494">
+
+---
+## CVE-2022-36493 (2022-08-25T14:15:00)
+> H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function SetAPWifiorLedInfoById.
+- [Live-Hack-CVE/CVE-2022-36493](https://github.com/Live-Hack-CVE/CVE-2022-36493)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36493">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36493">
+
+---
+## CVE-2022-36492 (2022-08-25T14:15:00)
+> H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function AddMacList.
+- [Live-Hack-CVE/CVE-2022-36492](https://github.com/Live-Hack-CVE/CVE-2022-36492)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36492">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36492">
+
+---
+## CVE-2022-36491 (2022-08-25T14:15:00)
+> H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function UpdateIpv6Params.
+- [Live-Hack-CVE/CVE-2022-36491](https://github.com/Live-Hack-CVE/CVE-2022-36491)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36491">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36491">
+
+---
+## CVE-2022-36490 (2022-08-25T14:15:00)
+> H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function EditMacList.
+- [Live-Hack-CVE/CVE-2022-36490](https://github.com/Live-Hack-CVE/CVE-2022-36490)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36490">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36490">
+
+---
 ## CVE-2022-3649 (2022-10-21T20:15:00)
 > A vulnerability was found in Linux Kernel. It has been classified as problematic. Affected is the function nilfs_new_inode of the file fs/nilfs2/inode.c of the component BPF. The manipulation leads to use after free. It is possible to launch the attack remotely. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-211992.
 - [Live-Hack-CVE/CVE-2022-3649](https://github.com/Live-Hack-CVE/CVE-2022-3649)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3649">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3649">
+
+---
+## CVE-2022-36489 (2022-08-25T14:15:00)
+> H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function EnableIpv6.
+- [Live-Hack-CVE/CVE-2022-36489](https://github.com/Live-Hack-CVE/CVE-2022-36489)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36489">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36489">
+
+---
+## CVE-2022-36455 (2022-08-25T15:15:00)
+> TOTOLink A3600R V4.1.2cu.5182_B20201102 was discovered to contain a command injection vulnerability via the username parameter in /cstecgi.cgi.
+- [Live-Hack-CVE/CVE-2022-36455](https://github.com/Live-Hack-CVE/CVE-2022-36455)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36455">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36455">
 
 ---
 ## CVE-2022-36446 (2022-07-25T06:15:00)
