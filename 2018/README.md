@@ -382,6 +382,11 @@
 - [4nimanegra/libreofficeExploit1](https://github.com/4nimanegra/libreofficeExploit1)	<img alt="forks" src="https://img.shields.io/github/forks/4nimanegra/libreofficeExploit1">	<img alt="stars" src="https://img.shields.io/github/stars/4nimanegra/libreofficeExploit1">
 
 ---
+## CVE-2018-16841 (2018-11-28T14:29:00)
+> Samba from version 4.3.0 and before versions 4.7.12, 4.8.7 and 4.9.3 are vulnerable to a denial of service. When configured to accept smart-card authentication, Samba's KDC will call talloc_free() twice on the same memory if the principal in a validly signed certificate does not match the principal in the AS-REQ. This is only possible after authentication with a trusted certificate. talloc is robust against further corruption from a double-free with talloc_free() and directly calls abort(), terminating the KDC process.
+- [Live-Hack-CVE/CVE-2018-16841](https://github.com/Live-Hack-CVE/CVE-2018-16841)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-16841">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-16841">
+
+---
 ## CVE-2018-16763 (2018-09-09T21:29:00)
 > FUEL CMS 1.4.1 allows PHP Code Evaluation via the pages/select/ filter parameter or the preview/ data parameter. This can lead to Pre-Auth Remote Code Execution.
 - [NeKroFR/CVE-2018-16763](https://github.com/NeKroFR/CVE-2018-16763)	<img alt="forks" src="https://img.shields.io/github/forks/NeKroFR/CVE-2018-16763">	<img alt="stars" src="https://img.shields.io/github/stars/NeKroFR/CVE-2018-16763">

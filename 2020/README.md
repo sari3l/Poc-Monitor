@@ -430,6 +430,16 @@
 - [j0hn30n/CVE-2020-7246](https://github.com/j0hn30n/CVE-2020-7246)	<img alt="forks" src="https://img.shields.io/github/forks/j0hn30n/CVE-2020-7246">	<img alt="stars" src="https://img.shields.io/github/stars/j0hn30n/CVE-2020-7246">
 
 ---
+## CVE-2020-7071 (2021-02-15T04:15:00)
+> In PHP versions 7.3.x below 7.3.26, 7.4.x below 7.4.14 and 8.0.0, when validating URL with functions like filter_var($url, FILTER_VALIDATE_URL), PHP will accept an URL with invalid password as valid URL. This may lead to functions that rely on URL being valid to mis-parse the URL and produce wrong data as components of the URL.
+- [Live-Hack-CVE/CVE-2020-7071](https://github.com/Live-Hack-CVE/CVE-2020-7071)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7071">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7071">
+
+---
+## CVE-2020-7064 (2020-04-01T04:15:00)
+> In PHP versions 7.2.x below 7.2.9, 7.3.x below 7.3.16 and 7.4.x below 7.4.4, while parsing EXIF data with exif_read_data() function, it is possible for malicious data to cause PHP to read one byte of uninitialized memory. This could potentially lead to information disclosure or crash.
+- [Live-Hack-CVE/CVE-2020-7064](https://github.com/Live-Hack-CVE/CVE-2020-7064)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7064">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7064">
+
+---
 ## CVE-2020-6624 (2020-01-09T01:15:00)
 > jhead through 3.04 has a heap-based buffer over-read in process_DQT in jpgqguess.c.
 - [Live-Hack-CVE/CVE-2020-6624](https://github.com/Live-Hack-CVE/CVE-2020-6624)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6624">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6624">
