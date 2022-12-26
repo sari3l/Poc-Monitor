@@ -698,9 +698,19 @@
 - [Live-Hack-CVE/CVE-2020-36184](https://github.com/Live-Hack-CVE/CVE-2020-36184)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36184">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36184">
 
 ---
+## CVE-2020-36183 (2021-01-07T00:15:00)
+> FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to org.docx4j.org.apache.xalan.lib.sql.JNDIConnectionPool.
+- [Live-Hack-CVE/CVE-2020-36183](https://github.com/Live-Hack-CVE/CVE-2020-36183)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36183">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36183">
+
+---
 ## CVE-2020-36182 (2021-01-07T00:15:00)
 > FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to org.apache.tomcat.dbcp.dbcp2.cpdsadapter.DriverAdapterCPDS.
 - [Live-Hack-CVE/CVE-2020-36182](https://github.com/Live-Hack-CVE/CVE-2020-36182)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36182">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36182">
+
+---
+## CVE-2020-36181 (2021-01-06T23:15:00)
+> FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to org.apache.tomcat.dbcp.dbcp.cpdsadapter.DriverAdapterCPDS.
+- [Live-Hack-CVE/CVE-2020-36181](https://github.com/Live-Hack-CVE/CVE-2020-36181)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36181">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36181">
 
 ---
 ## CVE-2020-36180 (2021-01-07T00:15:00)
@@ -730,6 +740,11 @@
 - [catatonicprime/CVE-2020-3580](https://github.com/catatonicprime/CVE-2020-3580)	<img alt="forks" src="https://img.shields.io/github/forks/catatonicprime/CVE-2020-3580">	<img alt="stars" src="https://img.shields.io/github/stars/catatonicprime/CVE-2020-3580">
 - [adarshvs/CVE-2020-3580](https://github.com/adarshvs/CVE-2020-3580)	<img alt="forks" src="https://img.shields.io/github/forks/adarshvs/CVE-2020-3580">	<img alt="stars" src="https://img.shields.io/github/stars/adarshvs/CVE-2020-3580">
 - [Hudi233/CVE-2020-3580](https://github.com/Hudi233/CVE-2020-3580)	<img alt="forks" src="https://img.shields.io/github/forks/Hudi233/CVE-2020-3580">	<img alt="stars" src="https://img.shields.io/github/stars/Hudi233/CVE-2020-3580">
+
+---
+## CVE-2020-35728 (2020-12-27T05:15:00)
+> FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to com.oracle.wls.shaded.org.apache.xalan.lib.sql.JNDIConnectionPool (aka embedded Xalan in org.glassfish.web/javax.servlet.jsp.jstl).
+- [Live-Hack-CVE/CVE-2020-35728](https://github.com/Live-Hack-CVE/CVE-2020-35728)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35728">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35728">
 
 ---
 ## CVE-2020-35674 (2022-09-29T03:15:00)

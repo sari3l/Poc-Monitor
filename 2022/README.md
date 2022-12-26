@@ -8973,6 +8973,11 @@
 - [Live-Hack-CVE/CVE-2022-35961](https://github.com/Live-Hack-CVE/CVE-2022-35961)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35961">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35961">
 
 ---
+## CVE-2022-35948 (2022-08-15T11:21:00)
+> undici is an HTTP/1.1 client, written from scratch for Node.js.`=< undici@5.8.0` users are vulnerable to _CRLF Injection_ on headers when using unsanitized input as request headers, more specifically, inside the `content-type` header. Example: ``` import { request } from 'undici' const unsanitizedContentTypeInput = 'application/json\r\n\r\nGET /foo2 HTTP/1.1' await request('http://localhost:3000, { method: 'GET', headers: { 'content-type': unsanitizedContentTypeInput }, }) ``` The above snippet will perform two requests in a single `request` API call: 1) `http://localhost:3000/` 2) `http://localhost:3000/foo2` This issue was patched in Undici v5.8.1. Sanitize input when sending content-type headers using user input as a workaround.
+- [Live-Hack-CVE/CVE-2022-35948](https://github.com/Live-Hack-CVE/CVE-2022-35948)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35948">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35948">
+
+---
 ## CVE-2022-35914 (2022-09-19T16:15:00)
 > /vendor/htmlawed/htmlawed/htmLawedTest.php in the htmlawed module for GLPI through 10.0.2 allows PHP code injection.
 - [cosad3s/CVE-2022-35914-poc](https://github.com/cosad3s/CVE-2022-35914-poc)	<img alt="forks" src="https://img.shields.io/github/forks/cosad3s/CVE-2022-35914-poc">	<img alt="stars" src="https://img.shields.io/github/stars/cosad3s/CVE-2022-35914-poc">
@@ -9356,6 +9361,11 @@
 ## CVE-2022-35194 (2022-09-16T22:15:00)
 > TestLink v1.9.20 was discovered to contain a stored cross-site scripting (XSS) vulnerability via /lib/inventory/inventoryView.php.
 - [Live-Hack-CVE/CVE-2022-35194](https://github.com/Live-Hack-CVE/CVE-2022-35194)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35194">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35194">
+
+---
+## CVE-2022-35192 (2022-08-26T00:15:00)
+> D-Link Wireless AC1200 Dual Band VDSL ADSL Modem Router DSL-3782 Firmware v1.01 allows unauthenticated attackers to cause a Denial of Service (DoS) via the User parameter or Pwd parameter to Login.asp.
+- [Live-Hack-CVE/CVE-2022-35192](https://github.com/Live-Hack-CVE/CVE-2022-35192)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35192">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35192">
 
 ---
 ## CVE-2022-3518 (2022-10-15T10:15:00)
@@ -11439,6 +11449,11 @@
 - [Live-Hack-CVE/CVE-2022-3099](https://github.com/Live-Hack-CVE/CVE-2022-3099)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3099">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3099">
 
 ---
+## CVE-2022-30984 (2022-08-26T00:15:00)
+> A buffer overflow vulnerability in the Rubrik Backup Service (RBS) Agent for Linux or Unix-based systems in Rubrik CDM 7.0.1, 7.0.1-p1, 7.0.1-p2 or 7.0.1-p3 before CDM 7.0.2-p2 could allow a local attacker to obtain root privileges by sending a crafted message to the RBS agent.
+- [Live-Hack-CVE/CVE-2022-30984](https://github.com/Live-Hack-CVE/CVE-2022-30984)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30984">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30984">
+
+---
 ## CVE-2022-3098 (2022-09-26T13:15:00)
 > The Login Block IPs WordPress plugin through 1.0.0 does not have CSRF check in place when updating its settings, which could allow attackers to make a logged in admin change them via a CSRF attack
 - [Live-Hack-CVE/CVE-2022-3098](https://github.com/Live-Hack-CVE/CVE-2022-3098)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3098">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3098">
@@ -12955,6 +12970,7 @@
 > In Realtek eCos RSDK 1.5.7p1 and MSDK 4.9.4p1, the SIP ALG function that rewrites SDP data has a stack-based buffer overflow. This allows an attacker to remotely execute code without authentication via a crafted SIP packet that contains malicious SDP data.
 - [infobyte/cve-2022-27255](https://github.com/infobyte/cve-2022-27255)	<img alt="forks" src="https://img.shields.io/github/forks/infobyte/cve-2022-27255">	<img alt="stars" src="https://img.shields.io/github/stars/infobyte/cve-2022-27255">
 - [stryker-project/CVE-2022-27255-checker](https://github.com/stryker-project/CVE-2022-27255-checker)	<img alt="forks" src="https://img.shields.io/github/forks/stryker-project/CVE-2022-27255-checker">	<img alt="stars" src="https://img.shields.io/github/stars/stryker-project/CVE-2022-27255-checker">
+- [Live-Hack-CVE/CVE-2022-27255](https://github.com/Live-Hack-CVE/CVE-2022-27255)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27255">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27255">
 
 ---
 ## CVE-2022-27215 (2022-03-15T17:15:00)
@@ -14044,6 +14060,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-23708](https://github.com/Live-Hack-CVE/CVE-2022-23708)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23708">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23708">
 
 ---
+## CVE-2022-23673 (2022-05-17T18:15:00)
+> A authenticated remote command injection vulnerability was discovered in Aruba ClearPass Policy Manager version(s): 6.10.4 and below, 6.9.9 and below, 6.8.9-HF2 and below, 6.7.x and below. Aruba has released updates to ClearPass Policy Manager that address this security vulnerability.
+- [Live-Hack-CVE/CVE-2022-23673](https://github.com/Live-Hack-CVE/CVE-2022-23673)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23673">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23673">
+
+---
 ## CVE-2022-23633 (2022-02-11T21:15:00)
 > Action Pack is a framework for handling and responding to web requests. Under certain circumstances response bodies will not be closed. In the event a response is *not* notified of a `close`, `ActionDispatch::Executor` will not know to reset thread local state for the next request. This can lead to data being leaked to subsequent requests.This has been fixed in Rails 7.0.2.1, 6.1.4.5, 6.0.4.5, and 5.2.6.1. Upgrading is highly recommended, but to work around this problem a middleware described in GHSA-wh98-p28r-vrc9 can be used.
 - [Live-Hack-CVE/CVE-2022-23633](https://github.com/Live-Hack-CVE/CVE-2022-23633)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23633">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23633">
@@ -15036,6 +15057,71 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-21595 (2022-10-18T21:15:00)
 > Vulnerability in the MySQL Server product of Oracle MySQL (component: C API). Supported versions that are affected are 5.7.36 and prior and 8.0.27 and prior. Difficult to exploit vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.1 Base Score 4.4 (Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:H/PR:H/UI:N/S:U/C:N/I:N/A:H).
 - [Live-Hack-CVE/CVE-2022-21595](https://github.com/Live-Hack-CVE/CVE-2022-21595)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21595">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21595">
+
+---
+## CVE-2022-21537 (2022-07-19T22:15:00)
+> Vulnerability in the MySQL Server product of Oracle MySQL (component: InnoDB). Supported versions that are affected are 8.0.29 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.1 Base Score 4.9 (Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).
+- [Live-Hack-CVE/CVE-2022-21537](https://github.com/Live-Hack-CVE/CVE-2022-21537)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21537">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21537">
+
+---
+## CVE-2022-21534 (2022-07-19T22:15:00)
+> Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Stored Procedure). Supported versions that are affected are 8.0.29 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.1 Base Score 4.9 (Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).
+- [Live-Hack-CVE/CVE-2022-21534](https://github.com/Live-Hack-CVE/CVE-2022-21534)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21534">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21534">
+
+---
+## CVE-2022-21531 (2022-07-19T22:15:00)
+> Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer). Supported versions that are affected are 8.0.29 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.1 Base Score 4.9 (Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).
+- [Live-Hack-CVE/CVE-2022-21531](https://github.com/Live-Hack-CVE/CVE-2022-21531)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21531">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21531">
+
+---
+## CVE-2022-21530 (2022-07-19T22:15:00)
+> Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer). Supported versions that are affected are 8.0.29 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.1 Base Score 4.9 (Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).
+- [Live-Hack-CVE/CVE-2022-21530](https://github.com/Live-Hack-CVE/CVE-2022-21530)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21530">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21530">
+
+---
+## CVE-2022-21529 (2022-07-19T22:15:00)
+> Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer). Supported versions that are affected are 8.0.29 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.1 Base Score 4.9 (Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).
+- [Live-Hack-CVE/CVE-2022-21529](https://github.com/Live-Hack-CVE/CVE-2022-21529)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21529">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21529">
+
+---
+## CVE-2022-21528 (2022-07-19T22:15:00)
+> Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer). Supported versions that are affected are 8.0.29 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server as well as unauthorized update, insert or delete access to some of MySQL Server accessible data. CVSS 3.1 Base Score 5.5 (Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:L/A:H).
+- [Live-Hack-CVE/CVE-2022-21528](https://github.com/Live-Hack-CVE/CVE-2022-21528)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21528">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21528">
+
+---
+## CVE-2022-21527 (2022-07-19T22:15:00)
+> Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer). Supported versions that are affected are 8.0.29 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server as well as unauthorized update, insert or delete access to some of MySQL Server accessible data. CVSS 3.1 Base Score 5.5 (Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:L/A:H).
+- [Live-Hack-CVE/CVE-2022-21527](https://github.com/Live-Hack-CVE/CVE-2022-21527)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21527">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21527">
+
+---
+## CVE-2022-21526 (2022-07-19T22:15:00)
+> Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer). Supported versions that are affected are 8.0.29 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.1 Base Score 4.9 (Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).
+- [Live-Hack-CVE/CVE-2022-21526](https://github.com/Live-Hack-CVE/CVE-2022-21526)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21526">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21526">
+
+---
+## CVE-2022-21525 (2022-07-19T22:15:00)
+> Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer). Supported versions that are affected are 8.0.29 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.1 Base Score 4.9 (Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).
+- [Live-Hack-CVE/CVE-2022-21525](https://github.com/Live-Hack-CVE/CVE-2022-21525)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21525">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21525">
+
+---
+## CVE-2022-21522 (2022-07-19T22:15:00)
+> Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Stored Procedure). Supported versions that are affected are 8.0.29 and prior. Difficult to exploit vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.1 Base Score 4.4 (Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:H/PR:H/UI:N/S:U/C:N/I:N/A:H).
+- [Live-Hack-CVE/CVE-2022-21522](https://github.com/Live-Hack-CVE/CVE-2022-21522)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21522">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21522">
+
+---
+## CVE-2022-21517 (2022-07-19T22:15:00)
+> Vulnerability in the MySQL Server product of Oracle MySQL (component: InnoDB). Supported versions that are affected are 8.0.29 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.1 Base Score 4.9 (Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).
+- [Live-Hack-CVE/CVE-2022-21517](https://github.com/Live-Hack-CVE/CVE-2022-21517)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21517">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21517">
+
+---
+## CVE-2022-21515 (2022-07-19T22:15:00)
+> Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Options). Supported versions that are affected are 5.7.38 and prior and 8.0.29 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.1 Base Score 4.9 (Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).
+- [Live-Hack-CVE/CVE-2022-21515](https://github.com/Live-Hack-CVE/CVE-2022-21515)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21515">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21515">
+
+---
+## CVE-2022-21509 (2022-07-19T22:15:00)
+> Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer). Supported versions that are affected are 8.0.29 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server as well as unauthorized update, insert or delete access to some of MySQL Server accessible data. CVSS 3.1 Base Score 5.5 (Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:L/A:H).
+- [Live-Hack-CVE/CVE-2022-21509](https://github.com/Live-Hack-CVE/CVE-2022-21509)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21509">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21509">
 
 ---
 ## CVE-2022-21500 (2022-05-20T00:15:00)

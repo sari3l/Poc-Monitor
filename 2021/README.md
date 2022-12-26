@@ -839,6 +839,36 @@
 - [I-Am-Nelson/CVE-2021-41805](https://github.com/I-Am-Nelson/CVE-2021-41805)	<img alt="forks" src="https://img.shields.io/github/forks/I-Am-Nelson/CVE-2021-41805">	<img alt="stars" src="https://img.shields.io/github/stars/I-Am-Nelson/CVE-2021-41805">
 
 ---
+## CVE-2021-41785 (2022-08-29T05:15:00)
+> Foxit PDF Reader before 11.1 and PDF Editor before 11.1, and PhantomPDF before 10.1.6, allow attackers to trigger a use-after-free and execute arbitrary code because JavaScript is mishandled.
+- [Live-Hack-CVE/CVE-2021-41785](https://github.com/Live-Hack-CVE/CVE-2021-41785)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41785">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41785">
+
+---
+## CVE-2021-41784 (2022-08-29T05:15:00)
+> Foxit PDF Reader before 11.1 and PDF Editor before 11.1, and PhantomPDF before 10.1.6, allow attackers to trigger a use-after-free and execute arbitrary code because JavaScript is mishandled.
+- [Live-Hack-CVE/CVE-2021-41784](https://github.com/Live-Hack-CVE/CVE-2021-41784)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41784">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41784">
+
+---
+## CVE-2021-41783 (2022-08-29T05:15:00)
+> Foxit PDF Reader before 11.1 and PDF Editor before 11.1, and PhantomPDF before 10.1.6, allow attackers to trigger a use-after-free and execute arbitrary code because JavaScript is mishandled.
+- [Live-Hack-CVE/CVE-2021-41783](https://github.com/Live-Hack-CVE/CVE-2021-41783)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41783">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41783">
+
+---
+## CVE-2021-41782 (2022-08-29T05:15:00)
+> Foxit PDF Reader before 11.1 and PDF Editor before 11.1, and PhantomPDF before 10.1.6, allow attackers to trigger a use-after-free and execute arbitrary code because JavaScript is mishandled.
+- [Live-Hack-CVE/CVE-2021-41782](https://github.com/Live-Hack-CVE/CVE-2021-41782)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41782">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41782">
+
+---
+## CVE-2021-41781 (2022-08-29T05:15:00)
+> Foxit PDF Reader before 11.1 and PDF Editor before 11.1, and PhantomPDF before 10.1.6, allow attackers to trigger a use-after-free and execute arbitrary code because JavaScript is mishandled.
+- [Live-Hack-CVE/CVE-2021-41781](https://github.com/Live-Hack-CVE/CVE-2021-41781)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41781">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41781">
+
+---
+## CVE-2021-41780 (2022-08-29T05:15:00)
+> Foxit PDF Reader before 11.1 and PDF Editor before 11.1, and PhantomPDF before 10.1.6, allow attackers to trigger a use-after-free and execute arbitrary code because JavaScript is mishandled.
+- [Live-Hack-CVE/CVE-2021-41780](https://github.com/Live-Hack-CVE/CVE-2021-41780)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41780">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41780">
+
+---
 ## CVE-2021-41773 (2021-10-05T09:15:00)
 > A flaw was found in a change made to path normalization in Apache HTTP Server 2.4.49. An attacker could use a path traversal attack to map URLs to files outside the directories configured by Alias-like directives. If files outside of these directories are not protected by the usual default configuration "require all denied", these requests can succeed. If CGI scripts are also enabled for these aliased pathes, this could allow for remote code execution. This issue is known to be exploited in the wild. This issue only affects Apache 2.4.49 and not earlier versions. The fix in Apache HTTP Server 2.4.50 was found to be incomplete, see CVE-2021-42013.
 - [pwn3z/CVE-2021-41773-Apache-RCE](https://github.com/pwn3z/CVE-2021-41773-Apache-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/pwn3z/CVE-2021-41773-Apache-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/pwn3z/CVE-2021-41773-Apache-RCE">
@@ -1287,6 +1317,11 @@
 - [T3slaa/pwnkit-pwn](https://github.com/T3slaa/pwnkit-pwn)	<img alt="forks" src="https://img.shields.io/github/forks/T3slaa/pwnkit-pwn">	<img alt="stars" src="https://img.shields.io/github/stars/T3slaa/pwnkit-pwn">
 
 ---
+## CVE-2021-40326 (2022-08-29T05:15:00)
+> Foxit PDF Reader before 11.1 and PDF Editor before 11.1, and PhantomPDF before 10.1.6, mishandle hidden and incremental data in signed documents. An attacker can write to an arbitrary file, and display controlled contents, during signature verification.
+- [Live-Hack-CVE/CVE-2021-40326](https://github.com/Live-Hack-CVE/CVE-2021-40326)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40326">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40326">
+
+---
 ## CVE-2021-40303 (2022-11-08T18:15:00)
 > perfex crm 1.10 is vulnerable to Cross Site Scripting (XSS) via /clients/profile.
 - [zecopro/CVE-2021-40303](https://github.com/zecopro/CVE-2021-40303)	<img alt="forks" src="https://img.shields.io/github/forks/zecopro/CVE-2021-40303">	<img alt="stars" src="https://img.shields.io/github/stars/zecopro/CVE-2021-40303">
@@ -1468,6 +1503,11 @@
 - [b3wT/CVE-2021-39144-XSTREAM-RCE](https://github.com/b3wT/CVE-2021-39144-XSTREAM-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/b3wT/CVE-2021-39144-XSTREAM-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/b3wT/CVE-2021-39144-XSTREAM-RCE">
 - [zwjjustdoit/Xstream-1.4.17](https://github.com/zwjjustdoit/Xstream-1.4.17)	<img alt="forks" src="https://img.shields.io/github/forks/zwjjustdoit/Xstream-1.4.17">	<img alt="stars" src="https://img.shields.io/github/stars/zwjjustdoit/Xstream-1.4.17">
 - [Live-Hack-CVE/CVE-2021-39144](https://github.com/Live-Hack-CVE/CVE-2021-39144)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39144">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39144">
+
+---
+## CVE-2021-3914 (2022-08-25T20:15:00)
+> It was found that the smallrye health metrics UI component did not properly sanitize some user inputs. An attacker could use this flaw to conduct cross-site scripting attacks.
+- [Live-Hack-CVE/CVE-2021-3914](https://github.com/Live-Hack-CVE/CVE-2021-3914)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3914">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3914">
 
 ---
 ## CVE-2021-39135 (2021-08-31T17:15:00)
@@ -2810,6 +2850,11 @@
 - [puckiestyle/CVE-2021-30461](https://github.com/puckiestyle/CVE-2021-30461)	<img alt="forks" src="https://img.shields.io/github/forks/puckiestyle/CVE-2021-30461">	<img alt="stars" src="https://img.shields.io/github/stars/puckiestyle/CVE-2021-30461">
 - [Al1ex/CVE-2021-30461](https://github.com/Al1ex/CVE-2021-30461)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/CVE-2021-30461">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/CVE-2021-30461">
 - [daedalus/CVE-2021-30461](https://github.com/daedalus/CVE-2021-30461)	<img alt="forks" src="https://img.shields.io/github/forks/daedalus/CVE-2021-30461">	<img alt="stars" src="https://img.shields.io/github/stars/daedalus/CVE-2021-30461">
+
+---
+## CVE-2021-3020 (2022-08-26T00:15:00)
+> An issue was discovered in ClusterLabs Hawk (aka HA Web Konsole) through 2.3.0-15. It ships the binary hawk_invoke (built from tools/hawk_invoke.c), intended to be used as a setuid program. This allows the hacluster user to invoke certain commands as root (with an attempt to limit this to safe combinations). This user is able to execute an interactive "shell" that isn't limited to the commands specified in hawk_invoke, allowing escalation to root.
+- [Live-Hack-CVE/CVE-2021-3020](https://github.com/Live-Hack-CVE/CVE-2021-3020)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3020">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3020">
 
 ---
 ## CVE-2021-30140 (2021-04-06T16:15:00)
