@@ -8716,6 +8716,16 @@
 - [Live-Hack-CVE/CVE-2022-3673](https://github.com/Live-Hack-CVE/CVE-2022-3673)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3673">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3673">
 
 ---
+## CVE-2022-36725 (2022-08-18T20:15:00)
+> Library Management System v1.0 was discovered to contain a SQL injection vulnerability via the M_Id parameter at /student/dele.php.
+- [Live-Hack-CVE/CVE-2022-36725](https://github.com/Live-Hack-CVE/CVE-2022-36725)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36725">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36725">
+
+---
+## CVE-2022-36722 (2022-08-18T20:15:00)
+> Library Management System v1.0 was discovered to contain a SQL injection vulnerability via the title parameter at /librarian/history.php.
+- [Live-Hack-CVE/CVE-2022-36722](https://github.com/Live-Hack-CVE/CVE-2022-36722)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36722">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36722">
+
+---
 ## CVE-2022-36721 (2022-08-25T22:15:00)
 > Library Management System v1.0 was discovered to contain a SQL injection vulnerability via the Textbook parameter at /admin/modify.php.
 - [Live-Hack-CVE/CVE-2022-36721](https://github.com/Live-Hack-CVE/CVE-2022-36721)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36721">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36721">
@@ -9811,6 +9821,11 @@
 - [Live-Hack-CVE/CVE-2022-3561](https://github.com/Live-Hack-CVE/CVE-2022-3561)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3561">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3561">
 
 ---
+## CVE-2022-35540 (2022-08-18T23:15:00)
+> Hardcoded JWT Secret in AgileConfig <1.6.8 Server allows remote attackers to use the generated JWT token to gain administrator access.
+- [Live-Hack-CVE/CVE-2022-35540](https://github.com/Live-Hack-CVE/CVE-2022-35540)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35540">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35540">
+
+---
 ## CVE-2022-3553 (2022-10-17T13:15:00)
 > A vulnerability, which was classified as problematic, was found in X.org Server. This affects an unknown part of the file hw/xquartz/X11Controller.m of the component xquartz. The manipulation leads to denial of service. It is recommended to apply a patch to fix this issue. The identifier VDB-211053 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-3553](https://github.com/Live-Hack-CVE/CVE-2022-3553)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3553">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3553">
@@ -9992,6 +10007,16 @@
 ## CVE-2022-35213 (2022-08-18T20:15:00)
 > Ecommerce-CodeIgniter-Bootstrap before commit 56465f was discovered to contain a cross-site scripting (XSS) vulnerability via the function base_url() at /blog/blogpublish.php.
 - [Live-Hack-CVE/CVE-2022-35213](https://github.com/Live-Hack-CVE/CVE-2022-35213)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35213">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35213">
+
+---
+## CVE-2022-35212 (2022-08-18T20:15:00)
+> osCommerce2 before v2.3.4.1 was discovered to contain a cross-site scripting (XSS) vulnerability via the function tep_db_error().
+- [Live-Hack-CVE/CVE-2022-35212](https://github.com/Live-Hack-CVE/CVE-2022-35212)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35212">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35212">
+
+---
+## CVE-2022-35204 (2022-08-18T19:15:00)
+> Vitejs Vite before v2.9.13 was discovered to allow attackers to perform a directory traversal via a crafted URL to the victim's service.
+- [Live-Hack-CVE/CVE-2022-35204](https://github.com/Live-Hack-CVE/CVE-2022-35204)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35204">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35204">
 
 ---
 ## CVE-2022-35198 (2022-08-18T06:15:00)
@@ -10332,6 +10357,36 @@
 ## CVE-2022-35007 (2022-08-16T21:15:00)
 > PNGDec commit 8abf6be was discovered to contain a heap buffer overflow via __interceptor_fwrite.part.57 at sanitizer_common_interceptors.inc.
 - [Live-Hack-CVE/CVE-2022-35007](https://github.com/Live-Hack-CVE/CVE-2022-35007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35007">
+
+---
+## CVE-2022-35004 (2022-08-16T21:15:00)
+> JPEGDEC commit be4843c was discovered to contain a FPE via TIFFSHORT at /src/jpeg.inl.
+- [Live-Hack-CVE/CVE-2022-35004](https://github.com/Live-Hack-CVE/CVE-2022-35004)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35004">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35004">
+
+---
+## CVE-2022-35003 (2022-08-16T21:15:00)
+> JPEGDEC commit be4843c was discovered to contain a global buffer overflow via ucDitherBuffer at /src/jpeg.inl.
+- [Live-Hack-CVE/CVE-2022-35003](https://github.com/Live-Hack-CVE/CVE-2022-35003)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35003">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35003">
+
+---
+## CVE-2022-35002 (2022-08-16T21:15:00)
+> JPEGDEC commit be4843c was discovered to contain a segmentation fault via TIFFSHORT at /src/jpeg.inl.
+- [Live-Hack-CVE/CVE-2022-35002](https://github.com/Live-Hack-CVE/CVE-2022-35002)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35002">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35002">
+
+---
+## CVE-2022-35000 (2022-08-16T21:15:00)
+> JPEGDEC commit be4843c was discovered to contain a segmentation fault via fseek at /libio/fseek.c.
+- [Live-Hack-CVE/CVE-2022-35000](https://github.com/Live-Hack-CVE/CVE-2022-35000)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35000">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35000">
+
+---
+## CVE-2022-34999 (2022-08-16T21:15:00)
+> JPEGDEC commit be4843c was discovered to contain a FPE via DecodeJPEG at /src/jpeg.inl.
+- [Live-Hack-CVE/CVE-2022-34999](https://github.com/Live-Hack-CVE/CVE-2022-34999)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34999">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34999">
+
+---
+## CVE-2022-34998 (2022-08-16T21:15:00)
+> JPEGDEC commit be4843c was discovered to contain a global buffer overflow via JPEGDecodeMCU at /src/jpeg.inl.
+- [Live-Hack-CVE/CVE-2022-34998](https://github.com/Live-Hack-CVE/CVE-2022-34998)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34998">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34998">
 
 ---
 ## CVE-2022-3499 (2022-10-31T20:15:00)
@@ -11789,6 +11844,11 @@
 - [EvergreenCartoons/SenselessViolence](https://github.com/EvergreenCartoons/SenselessViolence)	<img alt="forks" src="https://img.shields.io/github/forks/EvergreenCartoons/SenselessViolence">	<img alt="stars" src="https://img.shields.io/github/stars/EvergreenCartoons/SenselessViolence">
 
 ---
+## CVE-2022-31813 (2022-06-09T17:15:00)
+> Apache HTTP Server 2.4.53 and earlier may not send the X-Forwarded-* headers to the origin server based on client side Connection header hop-by-hop mechanism. This may be used to bypass IP based authentication on the origin server/application.
+- [Live-Hack-CVE/CVE-2022-31813](https://github.com/Live-Hack-CVE/CVE-2022-31813)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31813">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31813">
+
+---
 ## CVE-2022-31805 (2022-06-24T08:15:00)
 > In the CODESYS Development System multiple components in multiple versions transmit the passwords for the communication between clients and servers unprotected.
 - [Live-Hack-CVE/CVE-2022-31805](https://github.com/Live-Hack-CVE/CVE-2022-31805)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31805">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31805">
@@ -12608,6 +12668,11 @@
 - [Live-Hack-CVE/CVE-2022-3056](https://github.com/Live-Hack-CVE/CVE-2022-3056)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3056">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3056">
 
 ---
+## CVE-2022-30556 (2022-06-09T17:15:00)
+> Apache HTTP Server 2.4.53 and earlier may return lengths to applications calling r:wsread() that point past the end of the storage allocated for the buffer.
+- [Live-Hack-CVE/CVE-2022-30556](https://github.com/Live-Hack-CVE/CVE-2022-30556)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30556">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30556">
+
+---
 ## CVE-2022-30550 (2022-07-17T19:15:00)
 > An issue was discovered in the auth component in Dovecot 2.2 and 2.3 before 2.3.20. When two passdb configuration entries exist with the same driver and args settings, incorrect username_filter and mechanism settings can be applied to passdb definitions. These incorrectly applied settings can lead to an unintended security configuration and can permit privilege escalation in certain configurations. The documentation does not advise against the use of passdb definitions that have the same driver and args settings. One such configuration would be where an administrator wishes to use the same PAM configuration or passwd file for both normal and master users but use the username_filter setting to restrict which of the users is able to be a master user.
 - [Live-Hack-CVE/CVE-2022-30550](https://github.com/Live-Hack-CVE/CVE-2022-30550)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30550">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30550">
@@ -13139,6 +13204,11 @@
 ## CVE-2022-29548 (2022-04-21T02:15:00)
 > A reflected XSS issue exists in the Management Console of several WSO2 products. This affects API Manager 2.2.0, 2.5.0, 2.6.0, 3.0.0, 3.1.0, 3.2.0, and 4.0.0; API Manager Analytics 2.2.0, 2.5.0, and 2.6.0; API Microgateway 2.2.0; Data Analytics Server 3.2.0; Enterprise Integrator 6.2.0, 6.3.0, 6.4.0, 6.5.0, and 6.6.0; IS as Key Manager 5.5.0, 5.6.0, 5.7.0, 5.9.0, and 5.10.0; Identity Server 5.5.0, 5.6.0, 5.7.0, 5.9.0, 5.10.0, and 5.11.0; Identity Server Analytics 5.5.0 and 5.6.0; and WSO2 Micro Integrator 1.0.0.
 - [cxosmo/CVE-2022-29548](https://github.com/cxosmo/CVE-2022-29548)	<img alt="forks" src="https://img.shields.io/github/forks/cxosmo/CVE-2022-29548">	<img alt="stars" src="https://img.shields.io/github/stars/cxosmo/CVE-2022-29548">
+
+---
+## CVE-2022-29526 (2022-06-23T17:15:00)
+> Go before 1.17.10 and 1.18.x before 1.18.2 has Incorrect Privilege Assignment. When called with a non-zero flags parameter, the Faccessat function could incorrectly report that a file is accessible.
+- [Live-Hack-CVE/CVE-2022-29526](https://github.com/Live-Hack-CVE/CVE-2022-29526)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29526">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29526">
 
 ---
 ## CVE-2022-29520 (2022-10-25T17:15:00)
@@ -15137,6 +15207,16 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-23766](https://github.com/Live-Hack-CVE/CVE-2022-23766)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23766">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23766">
 
 ---
+## CVE-2022-23764 (2022-08-17T21:15:00)
+> The vulnerability causing from insufficient verification procedures for downloaded files during WebCube update. Remote attackers can bypass this verification logic to update both digitally signed and unauthorized files, enabling remote code execution.
+- [Live-Hack-CVE/CVE-2022-23764](https://github.com/Live-Hack-CVE/CVE-2022-23764)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23764">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23764">
+
+---
+## CVE-2022-23747 (2022-08-17T21:15:00)
+> In Sony Xperia series 1, 5, and Pro, an out of bound memory access can occur due to lack of validation of the number of frames being passed during music playback.
+- [Live-Hack-CVE/CVE-2022-23747](https://github.com/Live-Hack-CVE/CVE-2022-23747)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23747">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23747">
+
+---
 ## CVE-2022-23743 (2022-05-11T16:15:00)
 > Check Point ZoneAlarm before version 15.8.200.19118 allows a local actor to escalate privileges during the upgrade process. In addition, weak permissions in the ProgramData\CheckPoint\ZoneAlarm\Data\Updates directory allow a local attacker the ability to execute an arbitrary file write, leading to execution of code as local system, in ZoneAlarm versions before v15.8.211.192119
 - [Live-Hack-CVE/CVE-2022-23743](https://github.com/Live-Hack-CVE/CVE-2022-23743)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23743">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23743">
@@ -15302,8 +15382,19 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-23462](https://github.com/Live-Hack-CVE/CVE-2022-23462)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23462">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23462">
 
 ---
+## CVE-2022-2338 (2022-08-17T21:15:00)
+> Softing Secure Integration Server V1.22 is vulnerable to authentication bypass via a machine-in-the-middle attack. The default the administration interface is accessible via plaintext HTTP protocol, facilitating the attack. The HTTP request may contain the session cookie in the request, which may be captured for use in authenticating to the server.
+- [Live-Hack-CVE/CVE-2022-2338](https://github.com/Live-Hack-CVE/CVE-2022-2338)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2338">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2338">
+
+---
 ## CVE-2022-23342 (2022-06-21T14:15:00)
 > The Hyland Onbase Application Server releases prior to 20.3.58.1000 and OnBase releases 21.1.1.1000 through 21.1.15.1000 are vulnerable to a username enumeration vulnerability. An attacker can obtain valid users based on the response returned for invalid and valid users by sending a POST login request to the /mobilebroker/ServiceToBroker.svc/Json/Connect endpoint. This can lead to user enumeration against the underlying Active Directory integrated systems.
+- [InitRoot/CVE-2022-23342](https://github.com/InitRoot/CVE-2022-23342)	<img alt="forks" src="https://img.shields.io/github/forks/InitRoot/CVE-2022-23342">	<img alt="stars" src="https://img.shields.io/github/stars/InitRoot/CVE-2022-23342">
+
+---
+## CVE-2022-2334 (2022-08-17T21:15:00)
+> The application searches for a library dll that is not found. If an attacker can place a dll with this name, then the attacker can leverage it to execute arbitrary code on the targeted Softing Secure Integration Server V1.22.
+- [Live-Hack-CVE/CVE-2022-2334](https://github.com/Live-Hack-CVE/CVE-2022-2334)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2334">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2334">
 - [InitRoot/CVE-2022-23342](https://github.com/InitRoot/CVE-2022-23342)	<img alt="forks" src="https://img.shields.io/github/forks/InitRoot/CVE-2022-23342">	<img alt="stars" src="https://img.shields.io/github/stars/InitRoot/CVE-2022-23342">
 
 ---
@@ -15940,6 +16031,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [mchoudhary15/CVE-2022-22029-NFS-Server-](https://github.com/mchoudhary15/CVE-2022-22029-NFS-Server-)	<img alt="forks" src="https://img.shields.io/github/forks/mchoudhary15/CVE-2022-22029-NFS-Server-">	<img alt="stars" src="https://img.shields.io/github/stars/mchoudhary15/CVE-2022-22029-NFS-Server-">
 
 ---
+## CVE-2022-22021 (2022-06-15T22:15:00)
+> Microsoft Edge (Chromium-based) Remote Code Execution Vulnerability.
+- [Live-Hack-CVE/CVE-2022-22021](https://github.com/Live-Hack-CVE/CVE-2022-22021)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22021">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22021">
+
+---
 ## CVE-2022-21979 (2022-08-09T20:15:00)
 > Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-30134, CVE-2022-34692.
 - [Live-Hack-CVE/CVE-2022-21979](https://github.com/Live-Hack-CVE/CVE-2022-21979)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21979">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21979">
@@ -16389,6 +16485,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-21172](https://github.com/Live-Hack-CVE/CVE-2022-21172)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21172">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21172">
 
 ---
+## CVE-2022-21166 (2022-06-15T21:15:00)
+> Incomplete cleanup in specific special register write operations for some Intel(R) Processors may allow an authenticated user to potentially enable information disclosure via local access.
+- [Live-Hack-CVE/CVE-2022-21166](https://github.com/Live-Hack-CVE/CVE-2022-21166)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21166">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21166">
+
+---
 ## CVE-2022-21160 (2022-08-18T20:15:00)
 > Improper buffer restrictions for some Intel(R) PROSet/Wireless WiFi products may allow an unauthenticated user to potentially enable denial of service via network access.
 - [Live-Hack-CVE/CVE-2022-21160](https://github.com/Live-Hack-CVE/CVE-2022-21160)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21160">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21160">
@@ -16402,6 +16503,16 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-21126 (2022-11-29T17:15:00)
 > The package com.github.samtools:htsjdk before 3.0.1 are vulnerable to Creation of Temporary File in Directory with Insecure Permissions due to the createTempDir() function in util/IOUtil.java not checking for the existence of the temporary directory before attempting to create it.
 - [Live-Hack-CVE/CVE-2022-21126](https://github.com/Live-Hack-CVE/CVE-2022-21126)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21126">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21126">
+
+---
+## CVE-2022-21125 (2022-06-15T20:15:00)
+> Incomplete cleanup of microarchitectural fill buffers on some Intel(R) Processors may allow an authenticated user to potentially enable information disclosure via local access.
+- [Live-Hack-CVE/CVE-2022-21125](https://github.com/Live-Hack-CVE/CVE-2022-21125)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21125">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21125">
+
+---
+## CVE-2022-21123 (2022-06-15T20:15:00)
+> Incomplete cleanup of multi-core shared buffers for some Intel(R) Processors may allow an authenticated user to potentially enable information disclosure via local access.
+- [Live-Hack-CVE/CVE-2022-21123](https://github.com/Live-Hack-CVE/CVE-2022-21123)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21123">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21123">
 
 ---
 ## CVE-2022-2097 (2022-07-05T11:15:00)
@@ -16511,6 +16622,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-20686 (2022-12-12T09:15:00)
 > Multiple vulnerabilities in the Link Layer Discovery Protocol (LLDP) functionality of Cisco ATA 190 Series Analog Telephone Adapter firmware could allow an unauthenticated, remote attacker to execute arbitrary code on an affected device and cause the LLDP service to restart. These vulnerabilities are due to missing length validation of certain LLDP packet header fields. An attacker could exploit these vulnerabilities by sending a malicious LLDP packet to an affected device. A successful exploit could allow the attacker to execute code on the affected device and cause LLDP to restart unexpectedly, resulting in a denial of service (DoS) condition.
 - [Live-Hack-CVE/CVE-2022-20686](https://github.com/Live-Hack-CVE/CVE-2022-20686)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20686">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20686">
+
+---
+## CVE-2022-20651 (2022-06-22T14:15:00)
+> A vulnerability in the logging component of Cisco Adaptive Security Device Manager (ASDM) could allow an authenticated, local attacker to view sensitive information in clear text on an affected system. Cisco ADSM must be deployed in a shared workstation environment for this issue to be exploited. This vulnerability is due to the storage of unencrypted credentials in certain logs. An attacker could exploit this vulnerability by accessing the logs on an affected system. A successful exploit could allow the attacker to view the credentials of other users of the shared device.
+- [Live-Hack-CVE/CVE-2022-20651](https://github.com/Live-Hack-CVE/CVE-2022-20651)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20651">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20651">
 
 ---
 ## CVE-2022-20620 (2022-01-12T20:15:00)
@@ -17317,6 +17433,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1755 (2022-09-26T13:15:00)
 > The SVG Support WordPress plugin before 2.5 does not properly handle SVG added via an URL, which could allow users with a role as low as author to perform Cross-Site Scripting attacks
 - [Live-Hack-CVE/CVE-2022-1755](https://github.com/Live-Hack-CVE/CVE-2022-1755)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1755">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1755">
+
+---
+## CVE-2022-1748 (2022-08-17T21:15:00)
+> Softing OPC UA C++ Server SDK, Secure Integration Server, edgeConnector, edgeAggregator, OPC Suite, and uaGate are affected by a NULL pointer dereference vulnerability.
+- [Live-Hack-CVE/CVE-2022-1748](https://github.com/Live-Hack-CVE/CVE-2022-1748)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1748">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1748">
 
 ---
 ## CVE-2022-1735 (2022-05-17T19:15:00)
@@ -18243,3 +18364,9 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-0002 (2022-03-11T18:15:00)
 > Non-transparent sharing of branch predictor within a context in some Intel(R) Processors may allow an authorized user to potentially enable information disclosure via local access.
 - [nikokosm/CVE-2022-0002--s-1](https://github.com/nikokosm/CVE-2022-0002--s-1)	<img alt="forks" src="https://img.shields.io/github/forks/nikokosm/CVE-2022-0002--s-1">	<img alt="stars" src="https://img.shields.io/github/stars/nikokosm/CVE-2022-0002--s-1">
+- [Live-Hack-CVE/CVE-2022-0002](https://github.com/Live-Hack-CVE/CVE-2022-0002)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0002">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0002">
+
+---
+## CVE-2022-0001 (2022-03-11T18:15:00)
+> Non-transparent sharing of branch predictor selectors between contexts in some Intel(R) Processors may allow an authorized user to potentially enable information disclosure via local access.
+- [Live-Hack-CVE/CVE-2022-0001](https://github.com/Live-Hack-CVE/CVE-2022-0001)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0001">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0001">
