@@ -7281,6 +7281,11 @@
 - [Live-Hack-CVE/CVE-2022-3819](https://github.com/Live-Hack-CVE/CVE-2022-3819)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3819">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3819">
 
 ---
+## CVE-2022-38184 (2022-08-16T18:15:00)
+> There is an improper access control vulnerability in Portal for ArcGIS versions 10.8.1 and below which could allow a remote, unauthenticated attacker to access an API that may induce Esri Portal for ArcGIS to read arbitrary URLs.
+- [Live-Hack-CVE/CVE-2022-38184](https://github.com/Live-Hack-CVE/CVE-2022-38184)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38184">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38184">
+
+---
 ## CVE-2022-3818 (2022-11-10T00:15:00)
 > An uncontrolled resource consumption issue when parsing URLs in GitLab CE/EE affecting all versions prior to 15.3.5, 15.4 prior to 15.4.4, and 15.5 prior to 15.5.2 allows an attacker to cause performance issues and potentially a denial of service on the GitLab instance.
 - [Live-Hack-CVE/CVE-2022-3818](https://github.com/Live-Hack-CVE/CVE-2022-3818)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3818">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3818">
@@ -8954,6 +8959,11 @@
 - [Malwareman007/CVE-2022-36537](https://github.com/Malwareman007/CVE-2022-36537)	<img alt="forks" src="https://img.shields.io/github/forks/Malwareman007/CVE-2022-36537">	<img alt="stars" src="https://img.shields.io/github/stars/Malwareman007/CVE-2022-36537">
 
 ---
+## CVE-2022-36530 (2022-08-16T13:15:00)
+> An issue was discovered in rageframe2 2.6.37. There is a XSS vulnerability in the user agent related parameters of the info.php page.
+- [Live-Hack-CVE/CVE-2022-36530](https://github.com/Live-Hack-CVE/CVE-2022-36530)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36530">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36530">
+
+---
 ## CVE-2022-3653 (2022-11-01T23:15:00)
 > Heap buffer overflow in Vulkan in Google Chrome prior to 107.0.5304.62 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [Live-Hack-CVE/CVE-2022-3653](https://github.com/Live-Hack-CVE/CVE-2022-3653)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3653">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3653">
@@ -9932,14 +9942,99 @@
 - [Live-Hack-CVE/CVE-2022-3548](https://github.com/Live-Hack-CVE/CVE-2022-3548)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3548">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3548">
 
 ---
+## CVE-2022-35464 (2022-08-16T21:15:00)
+> OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x6171b2.
+- [Live-Hack-CVE/CVE-2022-35464](https://github.com/Live-Hack-CVE/CVE-2022-35464)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35464">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35464">
+
+---
+## CVE-2022-35463 (2022-08-16T21:15:00)
+> OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x6b0478.
+- [Live-Hack-CVE/CVE-2022-35463](https://github.com/Live-Hack-CVE/CVE-2022-35463)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35463">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35463">
+
+---
+## CVE-2022-35462 (2022-08-16T21:15:00)
+> OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x6c0bc3.
+- [Live-Hack-CVE/CVE-2022-35462](https://github.com/Live-Hack-CVE/CVE-2022-35462)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35462">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35462">
+
+---
+## CVE-2022-35461 (2022-08-16T21:15:00)
+> OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x6c0a32.
+- [Live-Hack-CVE/CVE-2022-35461](https://github.com/Live-Hack-CVE/CVE-2022-35461)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35461">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35461">
+
+---
+## CVE-2022-35460 (2022-08-16T21:15:00)
+> OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x61731f.
+- [Live-Hack-CVE/CVE-2022-35460](https://github.com/Live-Hack-CVE/CVE-2022-35460)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35460">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35460">
+
+---
 ## CVE-2022-3546 (2022-10-17T12:15:00)
 > A vulnerability was found in SourceCodester Simple Cold Storage Management System 1.0 and classified as problematic. Affected by this issue is some unknown functionality of the file /csms/admin/?page=user/list of the component Create User Handler. The manipulation of the argument First Name/Last Name leads to cross site scripting. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. VDB-211046 is the identifier assigned to this vulnerability.
 - [thehackingverse/CVE-2022-3546](https://github.com/thehackingverse/CVE-2022-3546)	<img alt="forks" src="https://img.shields.io/github/forks/thehackingverse/CVE-2022-3546">	<img alt="stars" src="https://img.shields.io/github/stars/thehackingverse/CVE-2022-3546">
 
 ---
+## CVE-2022-35459 (2022-08-16T21:15:00)
+> OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x6e412a.
+- [Live-Hack-CVE/CVE-2022-35459](https://github.com/Live-Hack-CVE/CVE-2022-35459)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35459">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35459">
+
+---
+## CVE-2022-35458 (2022-08-16T21:15:00)
+> OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x6b05ce.
+- [Live-Hack-CVE/CVE-2022-35458](https://github.com/Live-Hack-CVE/CVE-2022-35458)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35458">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35458">
+
+---
+## CVE-2022-35456 (2022-08-16T21:15:00)
+> OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x617087.
+- [Live-Hack-CVE/CVE-2022-35456](https://github.com/Live-Hack-CVE/CVE-2022-35456)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35456">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35456">
+
+---
+## CVE-2022-35455 (2022-08-16T21:15:00)
+> OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x6b0d63.
+- [Live-Hack-CVE/CVE-2022-35455](https://github.com/Live-Hack-CVE/CVE-2022-35455)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35455">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35455">
+
+---
+## CVE-2022-35454 (2022-08-16T21:15:00)
+> OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x6b05aa.
+- [Live-Hack-CVE/CVE-2022-35454](https://github.com/Live-Hack-CVE/CVE-2022-35454)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35454">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35454">
+
+---
+## CVE-2022-35453 (2022-08-16T21:15:00)
+> OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x6c08a6.
+- [Live-Hack-CVE/CVE-2022-35453](https://github.com/Live-Hack-CVE/CVE-2022-35453)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35453">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35453">
+
+---
+## CVE-2022-35452 (2022-08-16T21:15:00)
+> OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x6b0b2c.
+- [Live-Hack-CVE/CVE-2022-35452](https://github.com/Live-Hack-CVE/CVE-2022-35452)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35452">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35452">
+
+---
+## CVE-2022-35451 (2022-08-16T21:15:00)
+> OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x6b03b5.
+- [Live-Hack-CVE/CVE-2022-35451](https://github.com/Live-Hack-CVE/CVE-2022-35451)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35451">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35451">
+
+---
+## CVE-2022-35450 (2022-08-16T21:15:00)
+> OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x6b84b1.
+- [Live-Hack-CVE/CVE-2022-35450](https://github.com/Live-Hack-CVE/CVE-2022-35450)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35450">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35450">
+
+---
 ## CVE-2022-3545 (2022-10-17T12:15:00)
 > A vulnerability has been found in Linux Kernel and classified as critical. Affected by this vulnerability is the function area_cache_get of the file drivers/net/ethernet/netronome/nfp/nfpcore/nfp_cppcore.c of the component IPsec. The manipulation leads to use after free. It is recommended to apply a patch to fix this issue. The identifier VDB-211045 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-3545](https://github.com/Live-Hack-CVE/CVE-2022-3545)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3545">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3545">
+
+---
+## CVE-2022-35449 (2022-08-16T21:15:00)
+> OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x6b0466.
+- [Live-Hack-CVE/CVE-2022-35449](https://github.com/Live-Hack-CVE/CVE-2022-35449)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35449">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35449">
+
+---
+## CVE-2022-35448 (2022-08-16T21:15:00)
+> OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x6b55af.
+- [Live-Hack-CVE/CVE-2022-35448](https://github.com/Live-Hack-CVE/CVE-2022-35448)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35448">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35448">
+
+---
+## CVE-2022-35447 (2022-08-16T21:15:00)
+> OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x6b04de.
+- [Live-Hack-CVE/CVE-2022-35447](https://github.com/Live-Hack-CVE/CVE-2022-35447)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35447">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35447">
 
 ---
 ## CVE-2022-35434 (2022-08-16T21:15:00)
