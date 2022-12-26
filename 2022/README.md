@@ -8009,6 +8009,11 @@
 - [Live-Hack-CVE/CVE-2022-37193](https://github.com/Live-Hack-CVE/CVE-2022-37193)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37193">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37193">
 
 ---
+## CVE-2022-37189 (2022-09-07T13:15:00)
+> DDMAL MEI2Volpiano 0.8.2 is vulnerable to XML External Entity (XXE), leading to a Denial of Service. This occurs due to the usage of the unsafe 'xml.etree' library to parse untrusted XML input.
+- [Live-Hack-CVE/CVE-2022-37189](https://github.com/Live-Hack-CVE/CVE-2022-37189)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37189">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37189">
+
+---
 ## CVE-2022-37177 (2022-08-29T21:15:00)
 > HireVue Hiring Platform V1.0 suffers from Use of a Broken or Risky Cryptographic Algorithm.
 - [JC175/CVE-2022-37177](https://github.com/JC175/CVE-2022-37177)	<img alt="forks" src="https://img.shields.io/github/forks/JC175/CVE-2022-37177">	<img alt="stars" src="https://img.shields.io/github/stars/JC175/CVE-2022-37177">
@@ -14318,9 +14323,19 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-22808](https://github.com/Live-Hack-CVE/CVE-2022-22808)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22808">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22808">
 
 ---
+## CVE-2022-22807 (2022-02-09T23:15:00)
+> A CWE-1021 Improper Restriction of Rendered UI Layers or Frames vulnerability exists that could cause unintended modifications of the product settings or user accounts when deceiving the user to use the web interface rendered within iframes. Affected Product: EcoStruxure EV Charging Expert (formerly known as EVlink Load Management System): (HMIBSCEA53D1EDB, HMIBSCEA53D1EDS, HMIBSCEA53D1EDM, HMIBSCEA53D1EDL, HMIBSCEA53D1ESS, HMIBSCEA53D1ESM, HMIBSCEA53D1EML) (All Versions prior to SP8 (Version 01) V4.0.0.13)
+- [Live-Hack-CVE/CVE-2022-22807](https://github.com/Live-Hack-CVE/CVE-2022-22807)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22807">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22807">
+
+---
 ## CVE-2022-2274 (2022-07-01T08:15:00)
 > The OpenSSL 3.0.4 release introduced a serious bug in the RSA implementation for X86_64 CPUs supporting the AVX512IFMA instructions. This issue makes the RSA implementation with 2048 bit private keys incorrect on such machines and memory corruption will happen during the computation. As a consequence of the memory corruption an attacker may be able to trigger a remote code execution on the machine performing the computation. SSL/TLS servers or other servers using 2048 bit RSA private keys running on machines supporting AVX512IFMA instructions of the X86_64 architecture are affected by this issue.
 - [Malwareman007/CVE-2022-2274](https://github.com/Malwareman007/CVE-2022-2274)	<img alt="forks" src="https://img.shields.io/github/forks/Malwareman007/CVE-2022-2274">	<img alt="stars" src="https://img.shields.io/github/stars/Malwareman007/CVE-2022-2274">
+
+---
+## CVE-2022-22727 (2022-02-04T23:15:00)
+> A CWE-20: Improper Input Validation vulnerability exists that could allow an unauthenticated attacker to view data, change settings, impact availability of the software, or potentially impact a user?s local machine when the user clicks a specially crafted link. Affected Product: EcoStruxure Power Monitoring Expert (Versions 2020 and prior)
+- [Live-Hack-CVE/CVE-2022-22727](https://github.com/Live-Hack-CVE/CVE-2022-22727)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22727">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22727">
 
 ---
 ## CVE-2022-2268 (2022-07-04T13:15:00)
@@ -14653,6 +14668,26 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-21722 (2022-01-27T00:15:00)
 > PJSIP is a free and open source multimedia communication library written in C language implementing standard based protocols such as SIP, SDP, RTP, STUN, TURN, and ICE. In version 2.11.1 and prior, there are various cases where it is possible that certain incoming RTP/RTCP packets can potentially cause out-of-bound read access. This issue affects all users that use PJMEDIA and accept incoming RTP/RTCP. A patch is available as a commit in the `master` branch. There are no known workarounds.
 - [Live-Hack-CVE/CVE-2022-21722](https://github.com/Live-Hack-CVE/CVE-2022-21722)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21722">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21722">
+
+---
+## CVE-2022-21716 (2022-03-03T21:15:00)
+> Twisted is an event-based framework for internet applications, supporting Python 3.6+. Prior to 22.2.0, Twisted SSH client and server implement is able to accept an infinite amount of data for the peer's SSH version identifier. This ends up with a buffer using all the available memory. The attach is a simple as `nc -rv localhost 22 < /dev/zero`. A patch is available in version 22.2.0. There are currently no known workarounds.
+- [Live-Hack-CVE/CVE-2022-21716](https://github.com/Live-Hack-CVE/CVE-2022-21716)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21716">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21716">
+
+---
+## CVE-2022-21713 (2022-02-08T21:15:00)
+> Grafana is an open-source platform for monitoring and observability. Affected versions of Grafana expose multiple API endpoints which do not properly handle user authorization. `/teams/:teamId` will allow an authenticated attacker to view unintended data by querying for the specific team ID, `/teams/:search` will allow an authenticated attacker to search for teams and see the total number of available teams, including for those teams that the user does not have access to, and `/teams/:teamId/members` when editors_can_admin flag is enabled, an authenticated attacker can see unintended data by querying for the specific team ID. Users are advised to upgrade as soon as possible. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-21713](https://github.com/Live-Hack-CVE/CVE-2022-21713)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21713">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21713">
+
+---
+## CVE-2022-21703 (2022-02-08T21:15:00)
+> Grafana is an open-source platform for monitoring and observability. Affected versions are subject to a cross site request forgery vulnerability which allows attackers to elevate their privileges by mounting cross-origin attacks against authenticated high-privilege Grafana users (for example, Editors or Admins). An attacker can exploit this vulnerability for privilege escalation by tricking an authenticated user into inviting the attacker as a new user with high privileges. Users are advised to upgrade as soon as possible. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-21703](https://github.com/Live-Hack-CVE/CVE-2022-21703)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21703">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21703">
+
+---
+## CVE-2022-21702 (2022-02-08T20:15:00)
+> Grafana is an open-source platform for monitoring and observability. In affected versions an attacker could serve HTML content thru the Grafana datasource or plugin proxy and trick a user to visit this HTML page using a specially crafted link and execute a Cross-site Scripting (XSS) attack. The attacker could either compromise an existing datasource for a specific Grafana instance or either set up its own public service and instruct anyone to set it up in their Grafana instance. To be impacted, all of the following must be applicable. For the data source proxy: A Grafana HTTP-based datasource configured with Server as Access Mode and a URL set, the attacker has to be in control of the HTTP server serving the URL of above datasource, and a specially crafted link pointing at the attacker controlled data source must be clicked on by an authenticated user. For the plugin proxy: A Grafana HTTP-based app plugin configured and enabled with a URL set, the attacker has to be in control of the HTTP server serving the URL of above app, and a specially crafted link pointing at the attacker controlled plugin must be clocked on by an authenticated user. For the backend plugin resource: An attacker must be able to navigate an authenticated user to a compromised plugin through a crafted link. Users are advised to update to a patched version. There are no known workarounds for this vulnerability.
+- [Live-Hack-CVE/CVE-2022-21702](https://github.com/Live-Hack-CVE/CVE-2022-21702)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21702">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21702">
 
 ---
 ## CVE-2022-21698 (2022-02-15T16:15:00)

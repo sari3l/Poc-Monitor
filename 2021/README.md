@@ -51,6 +51,16 @@
 - [Live-Hack-CVE/CVE-2021-46671](https://github.com/Live-Hack-CVE/CVE-2021-46671)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46671">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46671">
 
 ---
+## CVE-2021-46668 (2022-02-01T02:15:00)
+> MariaDB through 10.5.9 allows an application crash via certain long SELECT DISTINCT statements that improperly interact with storage-engine resource limitations for temporary data structures.
+- [Live-Hack-CVE/CVE-2021-46668](https://github.com/Live-Hack-CVE/CVE-2021-46668)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46668">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46668">
+
+---
+## CVE-2021-46665 (2022-02-01T02:15:00)
+> MariaDB through 10.5.9 allows a sql_parse.cc application crash because of incorrect used_tables expectations.
+- [Live-Hack-CVE/CVE-2021-46665](https://github.com/Live-Hack-CVE/CVE-2021-46665)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46665">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46665">
+
+---
 ## CVE-2021-46422 (2022-04-27T13:15:00)
 > Telesquare SDT-CW3B1 1.1.0 is affected by an OS command injection vulnerability that allows a remote attacker to execute OS commands without any authentication.
 - [Chocapikk/CVE-2021-46422](https://github.com/Chocapikk/CVE-2021-46422)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2021-46422">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2021-46422">
@@ -103,6 +113,11 @@
 - [Live-Hack-CVE/CVE-2021-45960](https://github.com/Live-Hack-CVE/CVE-2021-45960)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45960">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45960">
 - [Trinadh465/external_lib_AOSP10_r33_CVE-2021-45960_CVE-2021-46143-](https://github.com/Trinadh465/external_lib_AOSP10_r33_CVE-2021-45960_CVE-2021-46143-)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/external_lib_AOSP10_r33_CVE-2021-45960_CVE-2021-46143-">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/external_lib_AOSP10_r33_CVE-2021-45960_CVE-2021-46143-">
 - [nanopathi/external_expat_AOSP10_r33_CVE-2021-45960](https://github.com/nanopathi/external_expat_AOSP10_r33_CVE-2021-45960)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/external_expat_AOSP10_r33_CVE-2021-45960">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/external_expat_AOSP10_r33_CVE-2021-45960">
+
+---
+## CVE-2021-45958 (2022-01-01T00:15:00)
+> UltraJSON (aka ujson) through 5.1.0 has a stack-based buffer overflow in Buffer_AppendIndentUnchecked (called from encode). Exploitation can, for example, use a large amount of indentation.
+- [Live-Hack-CVE/CVE-2021-45958](https://github.com/Live-Hack-CVE/CVE-2021-45958)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45958">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45958">
 
 ---
 ## CVE-2021-45948 (2022-01-01T00:15:00)
@@ -444,6 +459,11 @@
 - [Live-Hack-CVE/CVE-2021-43787](https://github.com/Live-Hack-CVE/CVE-2021-43787)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43787">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43787">
 
 ---
+## CVE-2021-43775 (2021-11-23T21:15:00)
+> Aim is an open-source, self-hosted machine learning experiment tracking tool. Versions of Aim prior to 3.1.0 are vulnerable to a path traversal attack. By manipulating variables that reference files with â€œdot-dot-slash (../)â€? sequences and its variations or by using absolute file paths, it may be possible to access arbitrary files and directories stored on file system including application source code or configuration and critical system files. The vulnerability issue is resolved in Aim v3.1.0.
+- [Live-Hack-CVE/CVE-2021-43775](https://github.com/Live-Hack-CVE/CVE-2021-43775)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43775">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43775">
+
+---
 ## CVE-2021-43657 (2022-12-22T02:15:00)
 > A Stored Cross-site scripting (XSS) vulnerability via MAster.php in Sourcecodetester Simple Client Management System (SCMS) 1.0 allows remote attackers to inject arbitrary web script or HTML via the vulnerable input fields.
 - [c0n5n3d/CVE-2021-43657](https://github.com/c0n5n3d/CVE-2021-43657)	<img alt="forks" src="https://img.shields.io/github/forks/c0n5n3d/CVE-2021-43657">	<img alt="stars" src="https://img.shields.io/github/stars/c0n5n3d/CVE-2021-43657">
@@ -763,6 +783,21 @@
 - [Live-Hack-CVE/CVE-2021-4189](https://github.com/Live-Hack-CVE/CVE-2021-4189)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4189">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4189">
 
 ---
+## CVE-2021-41819 (2022-01-01T06:15:00)
+> CGI::Cookie.parse in Ruby through 2.6.8 mishandles security prefixes in cookie names. This also affects the CGI gem through 0.3.0 for Ruby.
+- [Live-Hack-CVE/CVE-2021-41819](https://github.com/Live-Hack-CVE/CVE-2021-41819)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41819">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41819">
+
+---
+## CVE-2021-41817 (2022-01-01T05:15:00)
+> Date.parse in the date gem through 3.2.0 for Ruby allows ReDoS (regular expression Denial of Service) via a long string. The fixed versions are 3.2.1, 3.1.2, 3.0.2, and 2.0.1.
+- [Live-Hack-CVE/CVE-2021-41817](https://github.com/Live-Hack-CVE/CVE-2021-41817)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41817">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41817">
+
+---
+## CVE-2021-41816 (2022-02-06T21:15:00)
+> CGI.escape_html in Ruby before 2.7.5 and 3.x before 3.0.3 has an integer overflow and resultant buffer overflow via a long string on platforms (such as Windows) where size_t and long have different numbers of bytes. This also affects the CGI gem before 0.3.1 for Ruby.
+- [Live-Hack-CVE/CVE-2021-41816](https://github.com/Live-Hack-CVE/CVE-2021-41816)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41816">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41816">
+
+---
 ## CVE-2021-41805 (2021-12-12T05:15:00)
 > HashiCorp Consul Enterprise before 1.8.17, 1.9.x before 1.9.11, and 1.10.x before 1.10.4 has Incorrect Access Control. An ACL token (with the default operator:write permissions) in one namespace can be used for unintended privilege escalation in a different namespace.
 - [I-Am-Nelson/CVE-2021-41805](https://github.com/I-Am-Nelson/CVE-2021-41805)	<img alt="forks" src="https://img.shields.io/github/forks/I-Am-Nelson/CVE-2021-41805">	<img alt="stars" src="https://img.shields.io/github/stars/I-Am-Nelson/CVE-2021-41805">
@@ -935,9 +970,29 @@
 - [Live-Hack-CVE/CVE-2021-41141](https://github.com/Live-Hack-CVE/CVE-2021-41141)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41141">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41141">
 
 ---
+## CVE-2021-41116 (2021-10-05T18:15:00)
+> Composer is an open source dependency manager for the PHP language. In affected versions windows users running Composer to install untrusted dependencies are subject to command injection and should upgrade their composer version. Other OSs and WSL are not affected. The issue has been resolved in composer versions 1.10.23 and 2.1.9. There are no workarounds for this issue.
+- [Live-Hack-CVE/CVE-2021-41116](https://github.com/Live-Hack-CVE/CVE-2021-41116)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41116">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41116">
+
+---
+## CVE-2021-41115 (2021-10-07T23:15:00)
+> Zulip is an open source team chat server. In affected versions Zulip allows organization administrators on a server to configure "linkifiers" that automatically create links from messages that users send, detected via arbitrary regular expressions. Malicious organization administrators could subject the server to a denial-of-service via regular expression complexity attacks; most simply, by configuring a quadratic-time regular expression in a linkifier, and sending messages that exploited it. A regular expression attempted to parse the user-provided regexes to verify that they were safe from ReDoS -- this was both insufficient, as well as _itself_ subject to ReDoS if the organization administrator entered a sufficiently complex invalid regex. Affected users should [upgrade to the just-released Zulip 4.7](https://zulip.readthedocs.io/en/latest/production/upgrade-or-modify.html#upgrading-to-a-release), or [`main`](https://zulip.readthedocs.io/en/latest/production/upgrade-or-modify.html#upgrading-from-a-git-repository).
+- [Live-Hack-CVE/CVE-2021-41115](https://github.com/Live-Hack-CVE/CVE-2021-41115)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41115">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41115">
+
+---
 ## CVE-2021-41097 (2021-09-27T18:15:00)
 > aurelia-path is part of the Aurelia platform and contains utilities for path manipulation. There is a prototype pollution vulnerability in aurelia-path before version 1.1.7. The vulnerability exposes Aurelia application that uses `aurelia-path` package to parse a string. The majority of this will be Aurelia applications that employ the `aurelia-router` package. An example is this could allow an attacker to change the prototype of base object class `Object` by tricking an application to parse the following URL: `https://aurelia.io/blog/?__proto__[asdf]=asdf`. The problem is patched in version `1.1.7`.
 - [Live-Hack-CVE/CVE-2021-41097](https://github.com/Live-Hack-CVE/CVE-2021-41097)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41097">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41097">
+
+---
+## CVE-2021-41081 (2021-11-11T05:15:00)
+> Zoho ManageEngine Network Configuration Manager before ??125465 is vulnerable to SQL Injection in a configuration search.
+- [Live-Hack-CVE/CVE-2021-41081](https://github.com/Live-Hack-CVE/CVE-2021-41081)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41081">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41081">
+
+---
+## CVE-2021-41080 (2021-11-11T05:15:00)
+> Zoho ManageEngine Network Configuration Manager before ??125465 is vulnerable to SQL Injection in a hardware details search.
+- [Live-Hack-CVE/CVE-2021-41080](https://github.com/Live-Hack-CVE/CVE-2021-41080)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41080">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41080">
 
 ---
 ## CVE-2021-41078 (2021-10-26T13:15:00)
@@ -1312,6 +1367,21 @@
 - [Live-Hack-CVE/CVE-2021-3929](https://github.com/Live-Hack-CVE/CVE-2021-3929)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3929">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3929">
 
 ---
+## CVE-2021-39227 (2021-09-17T14:15:00)
+> ZRender is a lightweight graphic library providing 2d draw for Apache ECharts. In versions prior to 5.2.1, using `merge` and `clone` helper methods in the `src/core/util.ts` module results in prototype pollution. It affects the popular data visualization library Apache ECharts, which uses and exports these two methods directly. The GitHub Security Advisory page for this vulnerability contains a proof of concept. This issue is patched in ZRender version 5.2.1. One workaround is available: Check if there is `__proto__` in the object keys. Omit it before using it as an parameter in these affected methods. Or in `echarts.util.merge` and `setOption` if project is using ECharts.
+- [Live-Hack-CVE/CVE-2021-39227](https://github.com/Live-Hack-CVE/CVE-2021-39227)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39227">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39227">
+
+---
+## CVE-2021-39205 (2021-09-15T18:15:00)
+> Jitsi Meet is an open source video conferencing application. Versions prior to 2.0.6173 are vulnerable to client-side cross-site scripting via injecting properties into JSON objects that were not properly escaped. There are no known incidents related to this vulnerability being exploited in the wild. This issue is fixed in Jitsi Meet version 2.0.6173. There are no known workarounds aside from upgrading.
+- [Live-Hack-CVE/CVE-2021-39205](https://github.com/Live-Hack-CVE/CVE-2021-39205)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39205">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39205">
+
+---
+## CVE-2021-39191 (2021-09-03T14:15:00)
+> mod_auth_openidc is an authentication/authorization module for the Apache 2.x HTTP server that functions as an OpenID Connect Relying Party, authenticating users against an OpenID Connect Provider. In versions prior to 2.4.9.4, the 3rd-party init SSO functionality of mod_auth_openidc was reported to be vulnerable to an open redirect attack by supplying a crafted URL in the `target_link_uri` parameter. A patch in version 2.4.9.4 made it so that the `OIDCRedirectURLsAllowed` setting must be applied to the `target_link_uri` parameter. There are no known workarounds aside from upgrading to a patched version.
+- [Live-Hack-CVE/CVE-2021-39191](https://github.com/Live-Hack-CVE/CVE-2021-39191)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39191">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39191">
+
+---
 ## CVE-2021-39175 (2021-08-30T21:15:00)
 > HedgeDoc is a platform to write and share markdown. In versions prior to 1.9.0, an unauthenticated attacker can inject arbitrary JavaScript into the speaker-notes of the slide-mode feature by embedding an iframe hosting the malicious code into the slides or by embedding the HedgeDoc instance into another page. The problem is patched in version 1.9.0. There are no known workarounds aside from upgrading.
 - [Live-Hack-CVE/CVE-2021-39175](https://github.com/Live-Hack-CVE/CVE-2021-39175)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39175">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39175">
@@ -1445,6 +1515,11 @@
 - [Live-Hack-CVE/CVE-2021-38427](https://github.com/Live-Hack-CVE/CVE-2021-38427)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38427">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38427">
 
 ---
+## CVE-2021-38398 (2021-10-04T18:15:00)
+> The affected device uses off-the-shelf software components that contain unpatched vulnerabilities. A malicious attacker with physical access to the affected device could exploit these vulnerabilities.
+- [Live-Hack-CVE/CVE-2021-38398](https://github.com/Live-Hack-CVE/CVE-2021-38398)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38398">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38398">
+
+---
 ## CVE-2021-38374 (2021-11-22T09:15:00)
 > OX App Suite through through 7.10.5 allows XSS via a crafted snippet that has an app loader reference within an app loader URL.
 - [Live-Hack-CVE/CVE-2021-38374](https://github.com/Live-Hack-CVE/CVE-2021-38374)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38374">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38374">
@@ -1547,6 +1622,11 @@
 - [Live-Hack-CVE/CVE-2021-3759](https://github.com/Live-Hack-CVE/CVE-2021-3759)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3759">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3759">
 
 ---
+## CVE-2021-3757 (2021-09-02T12:15:00)
+> immer is vulnerable to Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution')
+- [Live-Hack-CVE/CVE-2021-3757](https://github.com/Live-Hack-CVE/CVE-2021-3757)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3757">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3757">
+
+---
 ## CVE-2021-37533 (2022-12-03T15:15:00)
 > Prior to Apache Commons Net 3.9.0, Net's FTP client trusts the host from PASV response by default. A malicious server can redirect the Commons Net code to use a different host, but the user has to connect to the malicious server in the first place. This may lead to leakage of information about services running on the private network of the client. The default in version 3.9.0 is now false to ignore such hosts, as cURL does. See https://issues.apache.org/jira/browse/NET-711.
 - [Live-Hack-CVE/CVE-2021-37533](https://github.com/Live-Hack-CVE/CVE-2021-37533)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37533">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37533">
@@ -1625,6 +1705,7 @@
 ## CVE-2021-36782 (2022-09-07T09:15:00)
 > A Cleartext Storage of Sensitive Information vulnerability in SUSE Rancher allows authenticated Cluster Owners, Cluster Members, Project Owners, Project Members and User Base to use the Kubernetes API to retrieve plaintext version of sensitive data. This issue affects: SUSE Rancher Rancher versions prior to 2.5.16; Rancher versions prior to 2.6.7.
 - [fe-ax/tf-cve-2021-36782](https://github.com/fe-ax/tf-cve-2021-36782)	<img alt="forks" src="https://img.shields.io/github/forks/fe-ax/tf-cve-2021-36782">	<img alt="stars" src="https://img.shields.io/github/stars/fe-ax/tf-cve-2021-36782">
+- [Live-Hack-CVE/CVE-2021-36782](https://github.com/Live-Hack-CVE/CVE-2021-36782)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36782">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36782">
 
 ---
 ## CVE-2021-36775 (2022-04-04T13:15:00)
@@ -2113,9 +2194,24 @@
 - [Live-Hack-CVE/CVE-2021-34622](https://github.com/Live-Hack-CVE/CVE-2021-34622)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34622">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34622">
 
 ---
+## CVE-2021-34600 (2022-01-20T12:15:00)
+> Telenot CompasX versions prior to 32.0 use a weak seed for random number generation leading to predictable AES keys used in the NFC tags used for local authorization of users. This may lead to total loss of trustworthiness of the installation.
+- [Live-Hack-CVE/CVE-2021-34600](https://github.com/Live-Hack-CVE/CVE-2021-34600)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34600">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34600">
+
+---
 ## CVE-2021-34595 (2021-10-26T10:15:00)
 > A crafted request with invalid offsets may cause an out-of-bounds read or write access in CODESYS V2 Runtime Toolkit 32 Bit full and PLCWinNT prior to versions V2.4.7.56, resulting in a denial-of-service condition or local memory overwrite.
 - [Live-Hack-CVE/CVE-2021-34595](https://github.com/Live-Hack-CVE/CVE-2021-34595)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34595">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34595">
+
+---
+## CVE-2021-34592 (2022-04-27T16:15:00)
+> In Bender/ebee Charge Controllers in multiple versions are prone to Command injection via Web interface. An authenticated attacker could enter shell commands into some input fields.
+- [Live-Hack-CVE/CVE-2021-34592](https://github.com/Live-Hack-CVE/CVE-2021-34592)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34592">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34592">
+
+---
+## CVE-2021-34590 (2022-04-27T16:15:00)
+> In Bender/ebee Charge Controllers in multiple versions are prone to Cross-site Scripting. An authenticated attacker could write HTML Code into configuration values. These values are not properly escaped when displayed.
+- [Live-Hack-CVE/CVE-2021-34590](https://github.com/Live-Hack-CVE/CVE-2021-34590)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34590">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34590">
 
 ---
 ## CVE-2021-34589 (2022-04-27T16:15:00)
@@ -2299,6 +2395,11 @@
 - [anldori/CVE-2021-33558](https://github.com/anldori/CVE-2021-33558)	<img alt="forks" src="https://img.shields.io/github/forks/anldori/CVE-2021-33558">	<img alt="stars" src="https://img.shields.io/github/stars/anldori/CVE-2021-33558">
 - [mdanzaruddin/CVE-2021-33558.](https://github.com/mdanzaruddin/CVE-2021-33558.)	<img alt="forks" src="https://img.shields.io/github/forks/mdanzaruddin/CVE-2021-33558.">	<img alt="stars" src="https://img.shields.io/github/stars/mdanzaruddin/CVE-2021-33558.">
 - [Live-Hack-CVE/CVE-2021-33558](https://github.com/Live-Hack-CVE/CVE-2021-33558)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33558">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33558">
+
+---
+## CVE-2021-33543 (2021-09-13T18:15:00)
+> Multiple camera devices by UDP Technology, GeutebrÃ¼ck and other vendors allow unauthenticated remote access to sensitive files due to default user authentication settings. This can lead to manipulation of the device and denial of service.
+- [Live-Hack-CVE/CVE-2021-33543](https://github.com/Live-Hack-CVE/CVE-2021-33543)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33543">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33543">
 
 ---
 ## CVE-2021-33083 (2022-05-12T17:15:00)
@@ -2959,6 +3060,11 @@
 ## CVE-2021-26338 (2021-11-16T18:15:00)
 > Improper access controls in System Management Unit (SMU) may allow for an attacker to override performance control tables located in DRAM resulting in a potential lack of system resources.
 - [Live-Hack-CVE/CVE-2021-26338](https://github.com/Live-Hack-CVE/CVE-2021-26338)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26338">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26338">
+
+---
+## CVE-2021-26337 (2021-11-16T19:15:00)
+> Insufficient DRAM address validation in System Management Unit (SMU) may result in a DMA read from invalid DRAM address to SRAM resulting in SMU not servicing further requests.
+- [Live-Hack-CVE/CVE-2021-26337](https://github.com/Live-Hack-CVE/CVE-2021-26337)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26337">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26337">
 
 ---
 ## CVE-2021-26336 (2021-11-16T19:15:00)

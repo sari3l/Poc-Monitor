@@ -360,6 +360,11 @@
 - [omarkurt/CVE-2019-5418](https://github.com/omarkurt/CVE-2019-5418)	<img alt="forks" src="https://img.shields.io/github/forks/omarkurt/CVE-2019-5418">	<img alt="stars" src="https://img.shields.io/github/stars/omarkurt/CVE-2019-5418">
 
 ---
+## CVE-2019-5114 (2019-10-25T18:15:00)
+> An exploitable SQL injection vulnerability exists in the authenticated portion of YouPHPTube 7.6. Specially crafted web requests can cause SQL injections. An attacker can send a web request with parameters containing SQL injection attacks to trigger this vulnerability, potentially allowing exfiltration of the database, user credentials and,in certain configuration, access the underlying operating system.
+- [Live-Hack-CVE/CVE-2019-5114](https://github.com/Live-Hack-CVE/CVE-2019-5114)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5114">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5114">
+
+---
 ## CVE-2019-4571 (2019-09-25T20:15:00)
 > IBM Content Navigator 3.0CD is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 166721.
 - [Live-Hack-CVE/CVE-2019-4571](https://github.com/Live-Hack-CVE/CVE-2019-4571)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4571">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4571">
