@@ -751,6 +751,11 @@
 - [Live-Hack-CVE/CVE-2021-42192](https://github.com/Live-Hack-CVE/CVE-2021-42192)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42192">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42192">
 
 ---
+## CVE-2021-4218 (2022-08-24T16:15:00)
+> A flaw was found in the Linux kernel’s implementation of reading the SVC RDMA counters. Reading the counter sysctl panics the system. This flaw allows a local attacker with local access to cause a denial of service while the system reboots. The issue is specific to CentOS/RHEL.
+- [Live-Hack-CVE/CVE-2021-4218](https://github.com/Live-Hack-CVE/CVE-2021-4218)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4218">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4218">
+
+---
 ## CVE-2021-4209 (2022-08-24T16:15:00)
 > A NULL pointer dereference flaw was found in GnuTLS. As Nettle's hash update functions internally call memcpy, providing zero-length input may cause undefined behavior. This flaw leads to a denial of service after authentication in rare circumstances.
 - [Live-Hack-CVE/CVE-2021-4209](https://github.com/Live-Hack-CVE/CVE-2021-4209)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4209">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4209">
@@ -2516,6 +2521,11 @@
 - [Live-Hack-CVE/CVE-2021-33895](https://github.com/Live-Hack-CVE/CVE-2021-33895)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33895">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33895">
 
 ---
+## CVE-2021-33844 (2022-08-25T20:15:00)
+> A floating point exception (divide-by-zero) issue was discovered in SoX in functon startread() of wav.c file. An attacker with a crafted wav file, could cause an application to crash.
+- [Live-Hack-CVE/CVE-2021-33844](https://github.com/Live-Hack-CVE/CVE-2021-33844)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33844">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33844">
+
+---
 ## CVE-2021-33816 (2021-11-10T23:15:00)
 > The website builder module in Dolibarr 13.0.2 allows remote PHP code execution because of an incomplete protection mechanism in which system, exec, and shell_exec are blocked but backticks are not blocked.
 - [Live-Hack-CVE/CVE-2021-33816](https://github.com/Live-Hack-CVE/CVE-2021-33816)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33816">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33816">
@@ -3685,6 +3695,21 @@
 - [Live-Hack-CVE/CVE-2021-24188](https://github.com/Live-Hack-CVE/CVE-2021-24188)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24188">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24188">
 
 ---
+## CVE-2021-23862 (2021-12-08T22:15:00)
+> A crafted configuration packet sent by an authenticated administrative user can be used to execute arbitrary commands in system context. This issue also affects installations of the VRM, DIVAR IP, BVMS with VRM installed, the VIDEOJET decoder (VJD-7513 and VJD-8000).
+- [Live-Hack-CVE/CVE-2021-23862](https://github.com/Live-Hack-CVE/CVE-2021-23862)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23862">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23862">
+
+---
+## CVE-2021-23861 (2021-12-08T22:15:00)
+> By executing a special command, an user with administrative rights can get access to extended debug functionality on the VRM allowing an impact on integrity or availability of the installed software. This issue also affects installations of the DIVAR IP and BVMS with VRM installed.
+- [Live-Hack-CVE/CVE-2021-23861](https://github.com/Live-Hack-CVE/CVE-2021-23861)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23861">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23861">
+
+---
+## CVE-2021-23858 (2021-10-04T18:15:00)
+> Information disclosure: The main configuration, including users and their hashed passwords, is exposed by an unprotected web server resource and can be accessed without authentication. Additionally, device details are exposed which include the serial number and the firmware version by another unprotected web server resource.
+- [Live-Hack-CVE/CVE-2021-23858](https://github.com/Live-Hack-CVE/CVE-2021-23858)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23858">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23858">
+
+---
 ## CVE-2021-23841 (2021-02-16T17:15:00)
 > The OpenSSL public API function X509_issuer_and_serial_hash() attempts to create a unique hash value based on the issuer and serial number data contained within an X509 certificate. However it fails to correctly handle any errors that may occur while parsing the issuer field (which might occur if the issuer field is maliciously constructed). This may subsequently result in a NULL pointer deref and a crash leading to a potential denial of service attack. The function X509_issuer_and_serial_hash() is never directly called by OpenSSL itself so applications are only vulnerable if they use this function directly and they use it on certificates that may have been obtained from untrusted sources. OpenSSL versions 1.1.1i and below are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1j. OpenSSL versions 1.0.2x and below are affected by this issue. However OpenSSL 1.0.2 is out of support and no longer receiving public updates. Premium support customers of OpenSSL 1.0.2 should upgrade to 1.0.2y. Other users should upgrade to 1.1.1j. Fixed in OpenSSL 1.1.1j (Affected 1.1.1-1.1.1i). Fixed in OpenSSL 1.0.2y (Affected 1.0.2-1.0.2x).
 - [Satheesh575555/Openssl_1_1_0_CVE-2021-23841](https://github.com/Satheesh575555/Openssl_1_1_0_CVE-2021-23841)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/Openssl_1_1_0_CVE-2021-23841">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/Openssl_1_1_0_CVE-2021-23841">
@@ -3711,6 +3736,16 @@
 - [Live-Hack-CVE/CVE-2021-23215](https://github.com/Live-Hack-CVE/CVE-2021-23215)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23215">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23215">
 
 ---
+## CVE-2021-23210 (2022-08-25T20:15:00)
+> A floating point exception (divide-by-zero) issue was discovered in SoX in functon read_samples() of voc.c file. An attacker with a crafted file, could cause an application to crash.
+- [Live-Hack-CVE/CVE-2021-23210](https://github.com/Live-Hack-CVE/CVE-2021-23210)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23210">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23210">
+
+---
+## CVE-2021-23196 (2022-01-21T19:15:00)
+> The web application on Agilia Link+ version 3.0 implements authentication and session management mechanisms exclusively on the client-side and does not protect authentication attributes sufficiently.
+- [Live-Hack-CVE/CVE-2021-23196](https://github.com/Live-Hack-CVE/CVE-2021-23196)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23196">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23196">
+
+---
 ## CVE-2021-23195 (2022-01-21T19:15:00)
 > Fresenius Kabi Vigilant Software Suite (Mastermed Dashboard) version 2.0.1.3 has the option for automated indexing (directory listing) activated. When accessing a directory, a web server delivers its entire content in HTML form. If an index file does not exist and directory listing is enabled, all content of the directory will be displayed, allowing an attacker to identify and access files on the server.
 - [Live-Hack-CVE/CVE-2021-23195](https://github.com/Live-Hack-CVE/CVE-2021-23195)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23195">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23195">
@@ -3719,6 +3754,16 @@
 ## CVE-2021-23177 (2022-08-23T16:15:00)
 > An improper link resolution flaw while extracting an archive can lead to changing the access control list (ACL) of the target of the link. An attacker may provide a malicious archive to a victim user, who would trigger this flaw when trying to extract the archive. A local attacker may use this flaw to change the ACL of a file on the system and gain more privileges.
 - [Live-Hack-CVE/CVE-2021-23177](https://github.com/Live-Hack-CVE/CVE-2021-23177)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23177">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23177">
+
+---
+## CVE-2021-23172 (2022-08-25T20:15:00)
+> A vulnerability was found in SoX, where a heap-buffer-overflow occurs in function startread() in hcom.c file. The vulnerability is exploitable with a crafted hcomn file, that could cause an application to crash.
+- [Live-Hack-CVE/CVE-2021-23172](https://github.com/Live-Hack-CVE/CVE-2021-23172)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23172">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23172">
+
+---
+## CVE-2021-23159 (2022-08-25T20:15:00)
+> A vulnerability was found in SoX, where a heap-buffer-overflow occurs in function lsx_read_w_buf() in formats_i.c file. The vulnerability is exploitable with a crafted file, that could cause an application to crash.
+- [Live-Hack-CVE/CVE-2021-23159](https://github.com/Live-Hack-CVE/CVE-2021-23159)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23159">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23159">
 
 ---
 ## CVE-2021-2312 (2021-04-22T22:15:00)
@@ -3758,6 +3803,26 @@
 ## CVE-2021-22910 (2021-08-09T13:15:00)
 > A sanitization vulnerability exists in Rocket.Chat server versions <3.13.2, <3.12.4, <3.11.4 that allowed queries to an endpoint which could result in a NoSQL injection, potentially leading to RCE.
 - [Live-Hack-CVE/CVE-2021-22910](https://github.com/Live-Hack-CVE/CVE-2021-22910)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22910">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22910">
+
+---
+## CVE-2021-22898 (2021-06-11T16:15:00)
+> curl 7.7 through 7.76.1 suffers from an information disclosure when the `-t` command line option, known as `CURLOPT_TELNETOPTIONS` in libcurl, is used to send variable=content pairs to TELNET servers. Due to a flaw in the option parser for sending NEW_ENV variables, libcurl could be made to pass on uninitialized data from a stack based buffer to the server, resulting in potentially revealing sensitive internal information to the server using a clear-text network protocol.
+- [Live-Hack-CVE/CVE-2021-22898](https://github.com/Live-Hack-CVE/CVE-2021-22898)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22898">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22898">
+
+---
+## CVE-2021-22897 (2021-06-11T16:15:00)
+> curl 7.61.0 through 7.76.1 suffers from exposure of data element to wrong session due to a mistake in the code for CURLOPT_SSL_CIPHER_LIST when libcurl is built to use the Schannel TLS library. The selected cipher set was stored in a single "static" variable in the library, which has the surprising side-effect that if an application sets up multiple concurrent transfers, the last one that sets the ciphers will accidentally control the set used by all transfers. In a worst-case scenario, this weakens transport security significantly.
+- [Live-Hack-CVE/CVE-2021-22897](https://github.com/Live-Hack-CVE/CVE-2021-22897)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22897">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22897">
+
+---
+## CVE-2021-22894 (2021-05-27T12:15:00)
+> A buffer overflow vulnerability exists in Pulse Connect Secure before 9.1R11.4 allows a remote authenticated attacker to execute arbitrary code as the root user via maliciously crafted meeting room.
+- [Live-Hack-CVE/CVE-2021-22894](https://github.com/Live-Hack-CVE/CVE-2021-22894)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22894">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22894">
+
+---
+## CVE-2021-22892 (2021-05-27T12:15:00)
+> An information disclosure vulnerability exists in the Rocket.Chat server fixed v3.13, v3.12.2 & v3.11.3 that allowed email addresses to be disclosed by enumeration and validation checks.
+- [Live-Hack-CVE/CVE-2021-22892](https://github.com/Live-Hack-CVE/CVE-2021-22892)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22892">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22892">
 
 ---
 ## CVE-2021-22827 (2022-01-28T20:15:00)

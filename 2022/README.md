@@ -7915,6 +7915,16 @@
 - [Live-Hack-CVE/CVE-2022-37328](https://github.com/Live-Hack-CVE/CVE-2022-37328)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37328">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37328">
 
 ---
+## CVE-2022-37317 (2022-08-25T23:15:00)
+> Archer Platform 6.x before 6.11 P3 contain an HTML injection vulnerability. An authenticated remote attacker could potentially exploit this vulnerability by tricking a victim application user to execute malicious code in the context of the web application. 6.10 P4 (6.10.0.4) and 6.11 P2 HF4 (6.11.0.2.4) are also fixed releases.
+- [Live-Hack-CVE/CVE-2022-37317](https://github.com/Live-Hack-CVE/CVE-2022-37317)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37317">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37317">
+
+---
+## CVE-2022-37316 (2022-08-25T23:15:00)
+> Archer Platform 6.8 before 6.11 P3 (6.11.0.3) contains an improper API access control vulnerability in a multi-instance system that could potentially present unauthorized metadata to an authenticated user of the affected system. 6.10 P3 HF1 (6.10.0.3.1) is also a fixed release.
+- [Live-Hack-CVE/CVE-2022-37316](https://github.com/Live-Hack-CVE/CVE-2022-37316)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37316">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37316">
+
+---
 ## CVE-2022-37305 (2022-08-24T06:15:00)
 > The Remote Keyless Entry (RKE) receiving unit on certain Honda vehicles through 2018 allows remote attackers to perform unlock operations and force a resynchronization after capturing five consecutive valid RKE signals over the radio, aka a RollBack attack. The attacker retains the ability to unlock indefinitely.
 - [Live-Hack-CVE/CVE-2022-37305](https://github.com/Live-Hack-CVE/CVE-2022-37305)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37305">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37305">
@@ -9790,6 +9800,11 @@
 - [Live-Hack-CVE/CVE-2022-3484](https://github.com/Live-Hack-CVE/CVE-2022-3484)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3484">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3484">
 
 ---
+## CVE-2022-34838 (2022-08-24T16:15:00)
+> Storing Passwords in a Recoverable Format vulnerability in ABB Zenon 8.20 allows an attacker who successfully exploit the vulnerability may add or alter data points and corresponding attributes. Once such engineering data is used the data visualization will be altered for the end user.
+- [Live-Hack-CVE/CVE-2022-34838](https://github.com/Live-Hack-CVE/CVE-2022-34838)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34838">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34838">
+
+---
 ## CVE-2022-34836 (2022-08-24T16:15:00)
 > Relative Path Traversal vulnerability in ABB Zenon 8.20 allows the user to access files on the Zenon system and user also can add own log messages and e.g., flood the log entries. An attacker who successfully exploit the vulnerability could access the Zenon runtime activities such as the start and stop of various activity and the last error code etc.
 - [Live-Hack-CVE/CVE-2022-34836](https://github.com/Live-Hack-CVE/CVE-2022-34836)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34836">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34836">
@@ -10647,6 +10662,11 @@
 ## CVE-2022-32749 (2022-12-19T11:15:00)
 > Improper Check for Unusual or Exceptional Conditions vulnerability handling requests in Apache Traffic Server allows an attacker to crash the server under certain conditions. This issue affects Apache Traffic Server: from 8.0.0 through 9.1.3.
 - [Live-Hack-CVE/CVE-2022-32749](https://github.com/Live-Hack-CVE/CVE-2022-32749)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32749">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32749">
+
+---
+## CVE-2022-32746 (2022-08-25T18:15:00)
+> A flaw was found in the Samba AD LDAP server. The AD DC database audit logging module can access LDAP message values freed by a preceding database module, resulting in a use-after-free issue. This issue is only possible when modifying certain privileged attributes, such as userAccountControl.
+- [Live-Hack-CVE/CVE-2022-32746](https://github.com/Live-Hack-CVE/CVE-2022-32746)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32746">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32746">
 
 ---
 ## CVE-2022-32742 (2022-08-25T18:15:00)
@@ -12245,6 +12265,11 @@
 - [Live-Hack-CVE/CVE-2022-2992](https://github.com/Live-Hack-CVE/CVE-2022-2992)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2992">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2992">
 
 ---
+## CVE-2022-2991 (2022-08-25T18:15:00)
+> A heap-based buffer overflow was found in the Linux kernel's LightNVM subsystem. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a fixed-length heap-based buffer. This vulnerability allows a local attacker to escalate privileges and execute arbitrary code in the context of the kernel. The attacker must first obtain the ability to execute high-privileged code on the target system to exploit this vulnerability.
+- [Live-Hack-CVE/CVE-2022-2991](https://github.com/Live-Hack-CVE/CVE-2022-2991)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2991">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2991">
+
+---
 ## CVE-2022-29908 (2022-09-19T16:15:00)
 > The folioupdate service in Fabasoft Cloud Enterprise Client 22.4.0043 allows Local Privilege Escalation.
 - [Live-Hack-CVE/CVE-2022-29908](https://github.com/Live-Hack-CVE/CVE-2022-29908)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29908">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29908">
@@ -12327,6 +12352,11 @@
 > relay_cgi.cgi on Dingtian DT-R002 2CH relay devices with firmware 3.1.276A allows an attacker to replay HTTP post requests without the need for authentication or a valid signed/authorized request.
 - [9lyph/CVE-2022-29593](https://github.com/9lyph/CVE-2022-29593)	<img alt="forks" src="https://img.shields.io/github/forks/9lyph/CVE-2022-29593">	<img alt="stars" src="https://img.shields.io/github/stars/9lyph/CVE-2022-29593">
 - [Live-Hack-CVE/CVE-2022-29593](https://github.com/Live-Hack-CVE/CVE-2022-29593)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29593">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29593">
+
+---
+## CVE-2022-2959 (2022-08-25T18:15:00)
+> A race condition was found in the Linux kernel's watch queue due to a missing lock in pipe_resize_ring(). The specific flaw exists within the handling of pipe buffers. The issue results from the lack of proper locking when performing operations on an object. This flaw allows a local user to crash the system or escalate their privileges on the system.
+- [Live-Hack-CVE/CVE-2022-2959](https://github.com/Live-Hack-CVE/CVE-2022-2959)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2959">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2959">
 
 ---
 ## CVE-2022-29586 (2022-05-16T06:15:00)
@@ -13664,6 +13694,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-25693](https://github.com/Live-Hack-CVE/CVE-2022-25693)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25693">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25693">
 
 ---
+## CVE-2022-2569 (2022-08-24T16:15:00)
+> The affected device stores sensitive information in cleartext, which may allow an authenticated user to access session data stored in the OAuth database belonging to legitimate users
+- [Live-Hack-CVE/CVE-2022-2569](https://github.com/Live-Hack-CVE/CVE-2022-2569)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2569">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2569">
+
+---
 ## CVE-2022-25686 (2022-09-16T06:15:00)
 > Memory corruption in video module due to buffer overflow while processing WAV file in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Wearables
 - [Live-Hack-CVE/CVE-2022-25686](https://github.com/Live-Hack-CVE/CVE-2022-25686)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25686">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25686">
@@ -14766,6 +14801,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-22456 (2022-12-22T22:15:00)
 > IBM Security Verify Governance, Identity Manager 10.0.1 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 225004.
 - [Live-Hack-CVE/CVE-2022-22456](https://github.com/Live-Hack-CVE/CVE-2022-22456)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22456">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22456">
+
+---
+## CVE-2022-2234 (2022-08-24T16:15:00)
+> An authenticated mySCADA myPRO 8.26.0 user may be able to modify parameters to run commands directly in the operating system.
+- [Live-Hack-CVE/CVE-2022-2234](https://github.com/Live-Hack-CVE/CVE-2022-2234)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2234">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2234">
 
 ---
 ## CVE-2022-22330 (2022-09-13T21:15:00)
@@ -16435,6 +16475,36 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-1487](https://github.com/Live-Hack-CVE/CVE-2022-1487)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1487">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1487">
 
 ---
+## CVE-2022-1486 (2022-07-26T22:15:00)
+> Type confusion in V8 in Google Chrome prior to 101.0.4951.41 allowed a remote attacker to obtain potentially sensitive information from process memory via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-1486](https://github.com/Live-Hack-CVE/CVE-2022-1486)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1486">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1486">
+
+---
+## CVE-2022-1485 (2022-07-26T22:15:00)
+> Use after free in File System API in Google Chrome prior to 101.0.4951.41 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-1485](https://github.com/Live-Hack-CVE/CVE-2022-1485)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1485">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1485">
+
+---
+## CVE-2022-1484 (2022-07-26T22:15:00)
+> Heap buffer overflow in Web UI Settings in Google Chrome prior to 101.0.4951.41 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-1484](https://github.com/Live-Hack-CVE/CVE-2022-1484)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1484">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1484">
+
+---
+## CVE-2022-1483 (2022-07-26T22:15:00)
+> Heap buffer overflow in WebGPU in Google Chrome prior to 101.0.4951.41 allowed a remote attacker who had compromised the renderer process to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-1483](https://github.com/Live-Hack-CVE/CVE-2022-1483)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1483">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1483">
+
+---
+## CVE-2022-1482 (2022-07-26T22:15:00)
+> Inappropriate implementation in WebGL in Google Chrome prior to 101.0.4951.41 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-1482](https://github.com/Live-Hack-CVE/CVE-2022-1482)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1482">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1482">
+
+---
+## CVE-2022-1481 (2022-07-26T22:15:00)
+> Use after free in Sharing in Google Chrome on Mac prior to 101.0.4951.41 allowed a remote attacker who convinced a user to engage in specific user interaction to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-1481](https://github.com/Live-Hack-CVE/CVE-2022-1481)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1481">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1481">
+
+---
 ## CVE-2022-14733 ()
 > 
 - [hkzck/CVE-2022-14733](https://github.com/hkzck/CVE-2022-14733)	<img alt="forks" src="https://img.shields.io/github/forks/hkzck/CVE-2022-14733">	<img alt="stars" src="https://img.shields.io/github/stars/hkzck/CVE-2022-14733">
@@ -16520,6 +16590,16 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1328 (2022-04-14T21:15:00)
 > Buffer Overflow in uudecoder in Mutt affecting all versions starting from 0.94.13 before 2.2.3 allows read past end of input line
 - [Live-Hack-CVE/CVE-2022-1328](https://github.com/Live-Hack-CVE/CVE-2022-1328)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1328">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1328">
+
+---
+## CVE-2022-1310 (2022-07-25T14:15:00)
+> Use after free in regular expressions in Google Chrome prior to 100.0.4896.88 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-1310](https://github.com/Live-Hack-CVE/CVE-2022-1310)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1310">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1310">
+
+---
+## CVE-2022-1305 (2022-07-25T14:15:00)
+> Use after free in storage in Google Chrome prior to 100.0.4896.88 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-1305](https://github.com/Live-Hack-CVE/CVE-2022-1305)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1305">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1305">
 
 ---
 ## CVE-2022-1292 (2022-05-03T16:15:00)
