@@ -16505,6 +16505,21 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-1481](https://github.com/Live-Hack-CVE/CVE-2022-1481)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1481">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1481">
 
 ---
+## CVE-2022-1479 (2022-07-26T22:15:00)
+> Use after free in ANGLE in Google Chrome prior to 101.0.4951.41 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-1479](https://github.com/Live-Hack-CVE/CVE-2022-1479)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1479">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1479">
+
+---
+## CVE-2022-1478 (2022-07-26T22:15:00)
+> Use after free in SwiftShader in Google Chrome prior to 101.0.4951.41 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-1478](https://github.com/Live-Hack-CVE/CVE-2022-1478)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1478">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1478">
+
+---
+## CVE-2022-1477 (2022-07-26T22:15:00)
+> Use after free in Vulkan in Google Chrome prior to 101.0.4951.41 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-1477](https://github.com/Live-Hack-CVE/CVE-2022-1477)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1477">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1477">
+
+---
 ## CVE-2022-14733 ()
 > 
 - [hkzck/CVE-2022-14733](https://github.com/hkzck/CVE-2022-14733)	<img alt="forks" src="https://img.shields.io/github/forks/hkzck/CVE-2022-14733">	<img alt="stars" src="https://img.shields.io/github/stars/hkzck/CVE-2022-14733">
@@ -16577,6 +16592,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [vaelwolf/CVE-2022-1388](https://github.com/vaelwolf/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/vaelwolf/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/vaelwolf/CVE-2022-1388">
 
 ---
+## CVE-2022-1364 (2022-07-26T22:15:00)
+> Type confusion in V8 Turbofan in Google Chrome prior to 100.0.4896.127 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-1364](https://github.com/Live-Hack-CVE/CVE-2022-1364)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1364">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1364">
+
+---
 ## CVE-2022-1353 (2022-04-29T16:15:00)
 > A vulnerability was found in the pfkey_register function in net/key/af_key.c in the Linux kernel. This flaw allows a local, unprivileged user to gain access to kernel memory, leading to a system crash or a leak of internal kernel information.
 - [Live-Hack-CVE/CVE-2022-1353](https://github.com/Live-Hack-CVE/CVE-2022-1353)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1353">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1353">
@@ -16592,9 +16612,49 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-1328](https://github.com/Live-Hack-CVE/CVE-2022-1328)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1328">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1328">
 
 ---
+## CVE-2022-1314 (2022-07-25T14:15:00)
+> Type confusion in V8 in Google Chrome prior to 100.0.4896.88 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-1314](https://github.com/Live-Hack-CVE/CVE-2022-1314)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1314">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1314">
+
+---
+## CVE-2022-1313 (2022-07-25T14:15:00)
+> Use after free in tab groups in Google Chrome prior to 100.0.4896.88 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-1313](https://github.com/Live-Hack-CVE/CVE-2022-1313)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1313">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1313">
+
+---
+## CVE-2022-1312 (2022-07-25T14:15:00)
+> Use after free in storage in Google Chrome prior to 100.0.4896.88 allowed an attacker who convinced a user to install a malicious extension to potentially perform a sandbox escape via a crafted Chrome Extension.
+- [Live-Hack-CVE/CVE-2022-1312](https://github.com/Live-Hack-CVE/CVE-2022-1312)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1312">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1312">
+
+---
+## CVE-2022-1311 (2022-07-25T14:15:00)
+> Use after free in shell in Google Chrome on ChromeOS prior to 100.0.4896.88 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-1311](https://github.com/Live-Hack-CVE/CVE-2022-1311)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1311">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1311">
+
+---
 ## CVE-2022-1310 (2022-07-25T14:15:00)
 > Use after free in regular expressions in Google Chrome prior to 100.0.4896.88 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
 - [Live-Hack-CVE/CVE-2022-1310](https://github.com/Live-Hack-CVE/CVE-2022-1310)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1310">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1310">
+
+---
+## CVE-2022-1309 (2022-07-25T14:15:00)
+> Insufficient policy enforcement in developer tools in Google Chrome prior to 100.0.4896.88 allowed a remote attacker to potentially perform a sandbox escape via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-1309](https://github.com/Live-Hack-CVE/CVE-2022-1309)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1309">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1309">
+
+---
+## CVE-2022-1308 (2022-07-25T14:15:00)
+> Use after free in BFCache in Google Chrome prior to 100.0.4896.88 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-1308](https://github.com/Live-Hack-CVE/CVE-2022-1308)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1308">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1308">
+
+---
+## CVE-2022-1307 (2022-07-25T14:15:00)
+> Inappropriate implementation in full screen in Google Chrome on Android prior to 100.0.4896.88 allowed a remote attacker to spoof the contents of the Omnibox (URL bar) via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-1307](https://github.com/Live-Hack-CVE/CVE-2022-1307)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1307">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1307">
+
+---
+## CVE-2022-1306 (2022-07-25T14:15:00)
+> Inappropriate implementation in compositing in Google Chrome prior to 100.0.4896.88 allowed a remote attacker to spoof the contents of the Omnibox (URL bar) via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-1306](https://github.com/Live-Hack-CVE/CVE-2022-1306)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1306">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1306">
 
 ---
 ## CVE-2022-1305 (2022-07-25T14:15:00)

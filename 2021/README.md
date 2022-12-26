@@ -3560,6 +3560,11 @@
 - [Live-Hack-CVE/CVE-2021-24842](https://github.com/Live-Hack-CVE/CVE-2021-24842)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24842">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24842">
 
 ---
+## CVE-2021-24839 (2022-02-07T16:15:00)
+> The SupportCandy WordPress plugin before 2.2.5 does not have authorisation and CSRF checks in its wpsc_tickets AJAX action, which could allow unauthenticated users to call it and delete arbitrary tickets via the set_delete_permanently_bulk_ticket setting_action. Other actions may be affected as well.
+- [Live-Hack-CVE/CVE-2021-24839](https://github.com/Live-Hack-CVE/CVE-2021-24839)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24839">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24839">
+
+---
 ## CVE-2021-24822 (2021-11-29T09:15:00)
 > The Stylish Cost Calculator WordPress plugin before 7.0.4 does not have any authorisation and CSRF checks on some of its AJAX actions (available to authenticated users), which could allow any authenticated users, such as subscriber to call them, and perform Stored Cross-Site Scripting attacks against logged in admin, as well as frontend users due to the lack of sanitisation and escaping in some parameters
 - [Live-Hack-CVE/CVE-2021-24822](https://github.com/Live-Hack-CVE/CVE-2021-24822)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24822">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24822">
@@ -3710,6 +3715,16 @@
 - [Live-Hack-CVE/CVE-2021-23858](https://github.com/Live-Hack-CVE/CVE-2021-23858)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23858">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23858">
 
 ---
+## CVE-2021-23857 (2021-10-04T18:15:00)
+> Login with hash: The login routine allows the client to log in to the system not by using the password, but by using the hash of the password. Combined with CVE-2021-23858, this allows an attacker to subsequently login to the system.
+- [Live-Hack-CVE/CVE-2021-23857](https://github.com/Live-Hack-CVE/CVE-2021-23857)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23857">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23857">
+
+---
+## CVE-2021-23855 (2021-10-04T18:15:00)
+> The user and password data base is exposed by an unprotected web server resource. Passwords are hashed with a weak hashing algorithm and therefore allow an attacker to determine the password by using rainbow tables.
+- [Live-Hack-CVE/CVE-2021-23855](https://github.com/Live-Hack-CVE/CVE-2021-23855)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23855">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23855">
+
+---
 ## CVE-2021-23841 (2021-02-16T17:15:00)
 > The OpenSSL public API function X509_issuer_and_serial_hash() attempts to create a unique hash value based on the issuer and serial number data contained within an X509 certificate. However it fails to correctly handle any errors that may occur while parsing the issuer field (which might occur if the issuer field is maliciously constructed). This may subsequently result in a NULL pointer deref and a crash leading to a potential denial of service attack. The function X509_issuer_and_serial_hash() is never directly called by OpenSSL itself so applications are only vulnerable if they use this function directly and they use it on certificates that may have been obtained from untrusted sources. OpenSSL versions 1.1.1i and below are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1j. OpenSSL versions 1.0.2x and below are affected by this issue. However OpenSSL 1.0.2 is out of support and no longer receiving public updates. Premium support customers of OpenSSL 1.0.2 should upgrade to 1.0.2y. Other users should upgrade to 1.1.1j. Fixed in OpenSSL 1.1.1j (Affected 1.1.1-1.1.1i). Fixed in OpenSSL 1.0.2y (Affected 1.0.2-1.0.2x).
 - [Satheesh575555/Openssl_1_1_0_CVE-2021-23841](https://github.com/Satheesh575555/Openssl_1_1_0_CVE-2021-23841)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/Openssl_1_1_0_CVE-2021-23841">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/Openssl_1_1_0_CVE-2021-23841">
@@ -3726,6 +3741,16 @@
 - [Live-Hack-CVE/CVE-2021-2351](https://github.com/Live-Hack-CVE/CVE-2021-2351)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-2351">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-2351">
 
 ---
+## CVE-2021-23265 (2022-05-16T17:15:00)
+> A logged-in and authenticated user with a Reviewer Role may lock a content item.
+- [Live-Hack-CVE/CVE-2021-23265](https://github.com/Live-Hack-CVE/CVE-2021-23265)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23265">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23265">
+
+---
+## CVE-2021-23263 (2021-12-02T16:15:00)
+> Unauthenticated remote attackers can read textual content via FreeMarker including files /scripts/*, /templates/* and some of the files in /.git/* (non-binary).
+- [Live-Hack-CVE/CVE-2021-23263](https://github.com/Live-Hack-CVE/CVE-2021-23263)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23263">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23263">
+
+---
 ## CVE-2021-23239 (2021-01-12T09:15:00)
 > The sudoedit personality of Sudo before 1.9.5 may allow a local unprivileged user to perform arbitrary directory-existence tests by winning a sudo_edit.c race condition in replacing a user-controlled directory by a symlink to an arbitrary path.
 - [Live-Hack-CVE/CVE-2021-23239](https://github.com/Live-Hack-CVE/CVE-2021-23239)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23239">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23239">
@@ -3736,9 +3761,19 @@
 - [Live-Hack-CVE/CVE-2021-23215](https://github.com/Live-Hack-CVE/CVE-2021-23215)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23215">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23215">
 
 ---
+## CVE-2021-23211 (2021-06-11T16:15:00)
+> Cleartext Storage of Sensitive Information in Memory vulnerability in Gallagher Command Centre Server allows Cloud end-to-end encryption key to be discoverable in server memory dumps. This issue affects: Gallagher Command Centre 8.40 versions prior to 8.40.1888 (MR3).
+- [Live-Hack-CVE/CVE-2021-23211](https://github.com/Live-Hack-CVE/CVE-2021-23211)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23211">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23211">
+
+---
 ## CVE-2021-23210 (2022-08-25T20:15:00)
 > A floating point exception (divide-by-zero) issue was discovered in SoX in functon read_samples() of voc.c file. An attacker with a crafted file, could cause an application to crash.
 - [Live-Hack-CVE/CVE-2021-23210](https://github.com/Live-Hack-CVE/CVE-2021-23210)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23210">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23210">
+
+---
+## CVE-2021-23207 (2022-01-21T19:15:00)
+> An attacker with physical access to the host can extract the secrets from the registry and create valid JWT tokens for the Fresenius Kabi Vigilant MasterMed version 2.0.1.3 application and impersonate arbitrary users. An attacker could manipulate RabbitMQ queues and messages by impersonating users.
+- [Live-Hack-CVE/CVE-2021-23207](https://github.com/Live-Hack-CVE/CVE-2021-23207)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23207">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23207">
 
 ---
 ## CVE-2021-23196 (2022-01-21T19:15:00)
@@ -3766,6 +3801,11 @@
 - [Live-Hack-CVE/CVE-2021-23159](https://github.com/Live-Hack-CVE/CVE-2021-23159)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23159">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23159">
 
 ---
+## CVE-2021-23135 (2021-05-12T23:15:00)
+> Exposure of System Data to an Unauthorized Control Sphere vulnerability in web UI of Argo CD allows attacker to cause leaked secret data into web UI error messages and logs. This issue affects Argo CD 1.8 versions prior to 1.8.7; 1.7 versions prior to 1.7.14.
+- [Live-Hack-CVE/CVE-2021-23135](https://github.com/Live-Hack-CVE/CVE-2021-23135)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23135">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23135">
+
+---
 ## CVE-2021-2312 (2021-04-22T22:15:00)
 > Vulnerability in the Oracle VM VirtualBox product of Oracle Virtualization (component: Core). The supported version that is affected is Prior to 6.1.20. Easily exploitable vulnerability allows high privileged attacker with logon to the infrastructure where Oracle VM VirtualBox executes to compromise Oracle VM VirtualBox. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of Oracle VM VirtualBox. Note: This vulnerability applies to Windows systems only. CVSS 3.1 Base Score 4.4 (Availability impacts). CVSS Vector: (CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).
 - [Live-Hack-CVE/CVE-2021-2312](https://github.com/Live-Hack-CVE/CVE-2021-2312)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-2312">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-2312">
@@ -3774,6 +3814,16 @@
 ## CVE-2021-2309 (2021-04-22T22:15:00)
 > Vulnerability in the Oracle VM VirtualBox product of Oracle Virtualization (component: Core). The supported version that is affected is Prior to 6.1.20. Difficult to exploit vulnerability allows high privileged attacker with logon to the infrastructure where Oracle VM VirtualBox executes to compromise Oracle VM VirtualBox. While the vulnerability is in Oracle VM VirtualBox, attacks may significantly impact additional products. Successful attacks of this vulnerability can result in takeover of Oracle VM VirtualBox. CVSS 3.1 Base Score 7.5 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:L/AC:H/PR:H/UI:N/S:C/C:H/I:H/A:H).
 - [Live-Hack-CVE/CVE-2021-2309](https://github.com/Live-Hack-CVE/CVE-2021-2309)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-2309">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-2309">
+
+---
+## CVE-2021-23055 (2022-04-21T19:15:00)
+> On version 2.x before 2.0.3 and 1.x before 1.12.3, the command line restriction that controls snippet use with NGINX Ingress Controller does not apply to Ingress objects. Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated.
+- [Live-Hack-CVE/CVE-2021-23055](https://github.com/Live-Hack-CVE/CVE-2021-23055)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23055">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23055">
+
+---
+## CVE-2021-23053 (2021-09-14T13:15:00)
+> On version 15.1.x before 15.1.3, 14.1.x before 14.1.3.1, and 13.1.x before 13.1.3.6, when the brute force protection feature of BIG-IP Advanced WAF or BIG-IP ASM is enabled on a virtual server and the virtual server is under brute force attack, the MySQL database may run out of disk space due to lack of row limit on undisclosed tables in the MYSQL database. Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated.
+- [Live-Hack-CVE/CVE-2021-23053](https://github.com/Live-Hack-CVE/CVE-2021-23053)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23053">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23053">
 
 ---
 ## CVE-2021-23017 (2021-06-01T13:15:00)
