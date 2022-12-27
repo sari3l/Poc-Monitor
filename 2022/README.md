@@ -126,30 +126,36 @@
 ## CVE-2022-47521 (2022-12-18T06:15:00)
 > An issue was discovered in the Linux kernel before 6.0.11. Missing validation of IEEE80211_P2P_ATTR_CHANNEL_LIST in drivers/net/wireless/microchip/wilc1000/cfg80211.c in the WILC1000 wireless driver can trigger a heap-based buffer overflow when parsing the operating channel attribute from Wi-Fi management frames.
 - [Live-Hack-CVE/CVE-2022-47521](https://github.com/Live-Hack-CVE/CVE-2022-47521)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47521">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47521">
+- [Live-Hack-CVE/CVE-2022-47521](https://github.com/Live-Hack-CVE/CVE-2022-47521)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47521">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47521">
 
 ---
 ## CVE-2022-47520 (2022-12-18T06:15:00)
 > An issue was discovered in the Linux kernel before 6.0.11. Missing offset validation in drivers/net/wireless/microchip/wilc1000/hif.c in the WILC1000 wireless driver can trigger an out-of-bounds read when parsing a Robust Security Network (RSN) information element from a Netlink packet.
+- [Live-Hack-CVE/CVE-2022-47520](https://github.com/Live-Hack-CVE/CVE-2022-47520)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47520">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47520">
 - [Live-Hack-CVE/CVE-2022-47520](https://github.com/Live-Hack-CVE/CVE-2022-47520)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47520">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47520">
 
 ---
 ## CVE-2022-47519 (2022-12-18T06:15:00)
 > An issue was discovered in the Linux kernel before 6.0.11. Missing validation of IEEE80211_P2P_ATTR_OPER_CHANNEL in drivers/net/wireless/microchip/wilc1000/cfg80211.c in the WILC1000 wireless driver can trigger an out-of-bounds write when parsing the channel list attribute from Wi-Fi management frames.
 - [Live-Hack-CVE/CVE-2022-47519](https://github.com/Live-Hack-CVE/CVE-2022-47519)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47519">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47519">
+- [Live-Hack-CVE/CVE-2022-47519](https://github.com/Live-Hack-CVE/CVE-2022-47519)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47519">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47519">
 
 ---
 ## CVE-2022-47518 (2022-12-18T06:15:00)
 > An issue was discovered in the Linux kernel before 6.0.11. Missing validation of the number of channels in drivers/net/wireless/microchip/wilc1000/cfg80211.c in the WILC1000 wireless driver can trigger a heap-based buffer overflow when copying the list of operating channels from Wi-Fi management frames.
+- [Live-Hack-CVE/CVE-2022-47518](https://github.com/Live-Hack-CVE/CVE-2022-47518)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47518">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47518">
 - [Live-Hack-CVE/CVE-2022-47518](https://github.com/Live-Hack-CVE/CVE-2022-47518)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47518">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47518">
 
 ---
 ## CVE-2022-47517 (2022-12-18T05:15:00)
 > An issue was discovered in the libsofia-sip fork in drachtio-server before 0.8.19. It allows remote attackers to cause a denial of service (daemon crash) via a crafted UDP message that causes a url_canonize2 heap-based buffer over-read because of an off-by-one error.
 - [Live-Hack-CVE/CVE-2022-47517](https://github.com/Live-Hack-CVE/CVE-2022-47517)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47517">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47517">
+- [Live-Hack-CVE/CVE-2022-47517](https://github.com/Live-Hack-CVE/CVE-2022-47517)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47517">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47517">
 
 ---
 ## CVE-2022-47516 (2022-12-18T05:15:00)
 > An issue was discovered in the libsofia-sip fork in drachtio-server before 0.8.20. It allows remote attackers to cause a denial of service (daemon crash) via a crafted UDP message that leads to a failure of the libsofia-sip-ua/tport/tport.c self assertion.
+- [Live-Hack-CVE/CVE-2022-47516](https://github.com/Live-Hack-CVE/CVE-2022-47516)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47516">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47516">
 - [Live-Hack-CVE/CVE-2022-47516](https://github.com/Live-Hack-CVE/CVE-2022-47516)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47516">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47516">
 
 ---
@@ -938,6 +944,11 @@
 - [Live-Hack-CVE/CVE-2022-46139](https://github.com/Live-Hack-CVE/CVE-2022-46139)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46139">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46139">
 
 ---
+## CVE-2022-46135 (2022-12-16T16:15:00)
+> In AeroCms v0.0.1, there is an arbitrary file upload vulnerability at /admin/posts.php?source=edit_post , through which we can upload webshell and control the web server.
+- [Live-Hack-CVE/CVE-2022-46135](https://github.com/Live-Hack-CVE/CVE-2022-46135)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46135">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46135">
+
+---
 ## CVE-2022-4613 (2022-12-19T15:15:00)
 > A vulnerability was found in Click Studios Passwordstate and Passwordstate Browser Extension Chrome and classified as critical. This issue affects some unknown processing of the component Browser Extension Provisioning. The manipulation leads to improper authorization. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-216275.
 - [Live-Hack-CVE/CVE-2022-4613](https://github.com/Live-Hack-CVE/CVE-2022-4613)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4613">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4613">
@@ -1099,6 +1110,7 @@
 - [Live-Hack-CVE/CVE-2022-45873](https://github.com/Live-Hack-CVE/CVE-2022-45873)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45873">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45873">
 - [Live-Hack-CVE/CVE-2022-45877](https://github.com/Live-Hack-CVE/CVE-2022-45877)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45877">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45877">
 - [Live-Hack-CVE/CVE-2022-45871](https://github.com/Live-Hack-CVE/CVE-2022-45871)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45871">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45871">
+- [Live-Hack-CVE/CVE-2022-4587](https://github.com/Live-Hack-CVE/CVE-2022-4587)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4587">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4587">
 
 ---
 ## CVE-2022-45869 (2022-11-30T05:15:00)
@@ -1112,10 +1124,12 @@
 - [Live-Hack-CVE/CVE-2022-45868](https://github.com/Live-Hack-CVE/CVE-2022-45868)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45868">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45868">
 - [Live-Hack-CVE/CVE-2022-45866](https://github.com/Live-Hack-CVE/CVE-2022-45866)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45866">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45866">
 - [Live-Hack-CVE/CVE-2022-45869](https://github.com/Live-Hack-CVE/CVE-2022-45869)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45869">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45869">
+- [Live-Hack-CVE/CVE-2022-4586](https://github.com/Live-Hack-CVE/CVE-2022-4586)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4586">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4586">
 
 ---
 ## CVE-2022-4585 (2022-12-17T13:15:00)
 > A vulnerability classified as problematic has been found in Opencaching Deutschland oc-server3. This affects an unknown part of the file htdocs/templates2/ocstyle/start.tpl of the component Cookie Handler. The manipulation of the argument usercountryCode leads to cross site scripting. It is possible to initiate the attack remotely. The name of the patch is c720f2777a452186c67ef30db3679dd409556544. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-216171.
+- [Live-Hack-CVE/CVE-2022-4585](https://github.com/Live-Hack-CVE/CVE-2022-4585)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4585">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4585">
 - [Live-Hack-CVE/CVE-2022-4585](https://github.com/Live-Hack-CVE/CVE-2022-4585)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4585">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4585">
 
 ---
@@ -1124,6 +1138,7 @@
 - [Live-Hack-CVE/CVE-2022-4584](https://github.com/Live-Hack-CVE/CVE-2022-4584)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4584">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4584">
 - [Live-Hack-CVE/CVE-2022-45842](https://github.com/Live-Hack-CVE/CVE-2022-45842)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45842">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45842">
 - [Live-Hack-CVE/CVE-2022-45848](https://github.com/Live-Hack-CVE/CVE-2022-45848)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45848">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45848">
+- [Live-Hack-CVE/CVE-2022-4584](https://github.com/Live-Hack-CVE/CVE-2022-4584)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4584">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4584">
 
 ---
 ## CVE-2022-45833 (2022-12-06T22:15:00)
@@ -1157,6 +1172,7 @@
 - [Live-Hack-CVE/CVE-2022-45824](https://github.com/Live-Hack-CVE/CVE-2022-45824)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45824">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45824">
 - [Live-Hack-CVE/CVE-2022-45822](https://github.com/Live-Hack-CVE/CVE-2022-45822)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45822">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45822">
 - [Live-Hack-CVE/CVE-2022-45829](https://github.com/Live-Hack-CVE/CVE-2022-45829)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45829">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45829">
+- [Live-Hack-CVE/CVE-2022-4582](https://github.com/Live-Hack-CVE/CVE-2022-4582)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4582">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4582">
 
 ---
 ## CVE-2022-45816 (2022-12-06T22:15:00)
@@ -1168,6 +1184,7 @@
 > A vulnerability was found in 1j01 mind-map and classified as problematic. This issue affects some unknown processing of the file app.coffee. The manipulation of the argument html leads to cross site scripting. The attack may be initiated remotely. The name of the patch is 9617e6084dfeccd92079ab4d7f439300a4b24394. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-216167.
 - [Live-Hack-CVE/CVE-2022-4581](https://github.com/Live-Hack-CVE/CVE-2022-4581)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4581">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4581">
 - [Live-Hack-CVE/CVE-2022-45816](https://github.com/Live-Hack-CVE/CVE-2022-45816)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45816">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45816">
+- [Live-Hack-CVE/CVE-2022-4581](https://github.com/Live-Hack-CVE/CVE-2022-4581)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4581">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4581">
 
 ---
 ## CVE-2022-45797 (2022-12-12T09:15:00)
@@ -1201,6 +1218,7 @@
 - [Live-Hack-CVE/CVE-2022-4572](https://github.com/Live-Hack-CVE/CVE-2022-4572)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4572">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4572">
 - [Live-Hack-CVE/CVE-2022-45721](https://github.com/Live-Hack-CVE/CVE-2022-45721)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45721">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45721">
 - [Live-Hack-CVE/CVE-2022-45720](https://github.com/Live-Hack-CVE/CVE-2022-45720)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45720">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45720">
+- [Live-Hack-CVE/CVE-2022-4572](https://github.com/Live-Hack-CVE/CVE-2022-4572)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4572">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4572">
 
 ---
 ## CVE-2022-45706 (2022-12-23T19:15:00)
@@ -1261,6 +1279,7 @@
 ## CVE-2022-4558 (2022-12-16T17:15:00)
 > A vulnerability was found in Alinto SOGo up to 5.7.1. It has been classified as problematic. This affects an unknown part of the file SoObjects/SOGo/NSString+Utilities.m of the component Folder/Mail Handler. The manipulation leads to cross site scripting. It is possible to initiate the attack remotely. Upgrading to version 5.8.0 is able to address this issue. The name of the patch is 1e0f5f00890f751e84d67be4f139dd7f00faa5f3. It is recommended to upgrade the affected component. The identifier VDB-215961 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-4558](https://github.com/Live-Hack-CVE/CVE-2022-4558)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4558">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4558">
+- [Live-Hack-CVE/CVE-2022-4558](https://github.com/Live-Hack-CVE/CVE-2022-4558)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4558">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4558">
 
 ---
 ## CVE-2022-45562 (2022-12-02T03:15:00)
@@ -1272,6 +1291,7 @@
 > A vulnerability was found in Alinto SOGo up to 5.7.1 and classified as problematic. Affected by this issue is the function _migrateMailIdentities of the file SoObjects/SOGo/SOGoUserDefaults.m of the component Identity Handler. The manipulation of the argument fullName leads to cross site scripting. The attack may be launched remotely. Upgrading to version 5.8.0 is able to address this issue. The name of the patch is efac49ae91a4a325df9931e78e543f707a0f8e5e. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-215960.
 - [Live-Hack-CVE/CVE-2022-4556](https://github.com/Live-Hack-CVE/CVE-2022-4556)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4556">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4556">
 - [Live-Hack-CVE/CVE-2022-45562](https://github.com/Live-Hack-CVE/CVE-2022-45562)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45562">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45562">
+- [Live-Hack-CVE/CVE-2022-4556](https://github.com/Live-Hack-CVE/CVE-2022-4556)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4556">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4556">
 
 ---
 ## CVE-2022-45550 (2022-12-07T19:15:00)
@@ -3863,6 +3883,7 @@
 ---
 ## CVE-2022-41992 (2022-12-16T17:15:00)
 > A memory corruption vulnerability exists in the VHD File Format parsing CXSPARSE record functionality of PowerISO PowerISO 8.3. A specially-crafted file can lead to an out-of-bounds write. A victim needs to open a malicious file to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-41992](https://github.com/Live-Hack-CVE/CVE-2022-41992)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41992">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41992">
 - [Live-Hack-CVE/CVE-2022-41992](https://github.com/Live-Hack-CVE/CVE-2022-41992)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41992">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41992">
 
 ---
@@ -11541,6 +11562,11 @@
 - [Live-Hack-CVE/CVE-2022-34356](https://github.com/Live-Hack-CVE/CVE-2022-34356)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34356">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34356">
 
 ---
+## CVE-2022-3435 (2022-10-08T11:15:00)
+> A vulnerability classified as problematic has been found in Linux Kernel. This affects the function fib_nh_match of the file net/ipv4/fib_semantics.c of the component IPv4 Handler. The manipulation leads to out-of-bounds read. It is possible to initiate the attack remotely. It is recommended to apply a patch to fix this issue. The identifier VDB-210357 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-3435](https://github.com/Live-Hack-CVE/CVE-2022-3435)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3435">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3435">
+
+---
 ## CVE-2022-34336 (2022-09-13T21:15:00)
 > IBM WebSphere Application Server 7.0, 8.0, 8.5, and 9.0 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 229714.
 - [Live-Hack-CVE/CVE-2022-34336](https://github.com/Live-Hack-CVE/CVE-2022-34336)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34336">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34336">
@@ -12792,6 +12818,7 @@
 - [Live-Hack-CVE/CVE-2022-31696](https://github.com/Live-Hack-CVE/CVE-2022-31696)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31696">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31696">
 - [SpindleSec/CVE-2022-31691](https://github.com/SpindleSec/CVE-2022-31691)	<img alt="forks" src="https://img.shields.io/github/forks/SpindleSec/CVE-2022-31691">	<img alt="stars" src="https://img.shields.io/github/stars/SpindleSec/CVE-2022-31691">
 - [SpindleSec/cve-2022-31692](https://github.com/SpindleSec/cve-2022-31692)	<img alt="forks" src="https://img.shields.io/github/forks/SpindleSec/cve-2022-31692">	<img alt="stars" src="https://img.shields.io/github/stars/SpindleSec/cve-2022-31692">
+- [Live-Hack-CVE/CVE-2022-3169](https://github.com/Live-Hack-CVE/CVE-2022-3169)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3169">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3169">
 
 ---
 ## CVE-2022-3168 ()
@@ -15088,20 +15115,24 @@
 ## CVE-2022-26582 (2022-12-16T22:15:00)
 > The systool_server in PAX Technology A930 PayDroid 7.1.1 Virgo V04.4.02 20211201 fails to check for dollar signs or backticks in user supplied commands, leading to to arbitrary command execution as root.
 - [Live-Hack-CVE/CVE-2022-26582](https://github.com/Live-Hack-CVE/CVE-2022-26582)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26582">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26582">
+- [Live-Hack-CVE/CVE-2022-26582](https://github.com/Live-Hack-CVE/CVE-2022-26582)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26582">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26582">
 
 ---
 ## CVE-2022-26581 (2022-12-16T22:15:00)
 > The ADB daemon in PAX Technology A930 PayDroid 7.1.1 Virgo V04.4.02 20211201 allows the execution of the systool utility in production mode, allowing unauthenticated attackers to perform privileged actions.
+- [Live-Hack-CVE/CVE-2022-26581](https://github.com/Live-Hack-CVE/CVE-2022-26581)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26581">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26581">
 - [Live-Hack-CVE/CVE-2022-26581](https://github.com/Live-Hack-CVE/CVE-2022-26581)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26581">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26581">
 
 ---
 ## CVE-2022-26580 (2022-12-16T22:15:00)
 > PAX Technology A930 PayDroid 7.1.1 Virgo V04.4.02 20211201 was discovered to be vulnerable to command injection.
 - [Live-Hack-CVE/CVE-2022-26580](https://github.com/Live-Hack-CVE/CVE-2022-26580)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26580">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26580">
+- [Live-Hack-CVE/CVE-2022-26580](https://github.com/Live-Hack-CVE/CVE-2022-26580)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26580">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26580">
 
 ---
 ## CVE-2022-26579 (2022-12-16T22:15:00)
 > PAX Technology A930 PayDroid 7.1.1 Virgo V04.4.02 20211201 allows root privileged attackers to install an unsigned application by copying the APK to /data/app, setting the appropriate permissions and rebooting the device.
+- [Live-Hack-CVE/CVE-2022-26579](https://github.com/Live-Hack-CVE/CVE-2022-26579)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26579">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26579">
 - [Live-Hack-CVE/CVE-2022-26579](https://github.com/Live-Hack-CVE/CVE-2022-26579)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26579">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26579">
 
 ---
@@ -15370,6 +15401,7 @@
 
 For versions 9.34.0 and higher, an option to disable this functionality is provided.
 
+- [Live-Hack-CVE/CVE-2022-25948](https://github.com/Live-Hack-CVE/CVE-2022-25948)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25948">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25948">
 - [Live-Hack-CVE/CVE-2022-25948](https://github.com/Live-Hack-CVE/CVE-2022-25948)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25948">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25948">
 
 ---
@@ -16199,6 +16231,12 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-23531 (2022-12-17T00:15:00)
 > GuardDog is a CLI tool to identify malicious PyPI packages. Versions prior to 0.1.5 are vulnerable to Relative Path Traversal when scanning a specially-crafted local PyPI package. Running GuardDog against a specially-crafted package can allow an attacker to write an arbitrary file on the machine where GuardDog is executed due to a path traversal vulnerability when extracting the .tar.gz file of the package being scanned, which exists by design in the tarfile.TarFile.extractall function. This issue is patched in version 0.1.5.
 - [Live-Hack-CVE/CVE-2022-23531](https://github.com/Live-Hack-CVE/CVE-2022-23531)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23531">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23531">
+- [Live-Hack-CVE/CVE-2022-23531](https://github.com/Live-Hack-CVE/CVE-2022-23531)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23531">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23531">
+
+---
+## CVE-2022-23530 (2022-12-16T23:15:00)
+> GuardDog is a CLI tool to identify malicious PyPI packages. Versions prior to v0.1.8 are vulnerable to arbitrary file write when scanning a specially-crafted remote PyPI package. Extracting files using shutil.unpack_archive() from a potentially malicious tarball without validating that the destination file path is within the intended destination directory can cause files outside the destination directory to be overwritten. This issue is patched in version 0.1.8. Potential workarounds include using a safer module, like zipfile, and validating the location of the extracted files and discarding those with malicious paths.
+- [Live-Hack-CVE/CVE-2022-23530](https://github.com/Live-Hack-CVE/CVE-2022-23530)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23530">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23530">
 
 ---
 ## CVE-2022-23527 (2022-12-14T18:15:00)
@@ -16243,6 +16281,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ---
 ## CVE-2022-23488 (2022-12-17T01:15:00)
 > BigBlueButton is an open source web conferencing system. Versions prior to 2.4-rc-6 are vulnerable to Insertion of Sensitive Information Into Sent Data. The moderators-only webcams lock setting is not enforced on the backend, which allows an attacker to subscribe to viewers' webcams, even when the lock setting is applied. (The required streamId was being sent to all users even with lock setting applied). This issue is fixed in version 2.4-rc-6. There are no workarounds.
+- [Live-Hack-CVE/CVE-2022-23488](https://github.com/Live-Hack-CVE/CVE-2022-23488)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23488">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23488">
 - [Live-Hack-CVE/CVE-2022-23488](https://github.com/Live-Hack-CVE/CVE-2022-23488)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23488">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23488">
 
 ---
