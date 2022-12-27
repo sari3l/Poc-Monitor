@@ -1372,6 +1372,11 @@
 - [Live-Hack-CVE/CVE-2022-4585](https://github.com/Live-Hack-CVE/CVE-2022-4585)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4585">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4585">
 
 ---
+## CVE-2022-45848 (2022-12-06T21:15:00)
+> Unauth. Stored Cross-Site Scripting (XSS) vulnerability in Contest Gallery plugin <= 13.1.0.9 on WordPress.
+- [Live-Hack-CVE/CVE-2022-45848](https://github.com/Live-Hack-CVE/CVE-2022-45848)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45848">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45848">
+
+---
 ## CVE-2022-4584 (2022-12-17T13:15:00)
 > A vulnerability was found in Axiomatic Bento4. It has been rated as critical. Affected by this issue is some unknown functionality of the component mp42aac. The manipulation leads to heap-based buffer overflow. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. VDB-216170 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-4584](https://github.com/Live-Hack-CVE/CVE-2022-4584)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4584">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4584">
@@ -1416,6 +1421,7 @@
 ---
 ## CVE-2022-45816 (2022-12-06T22:15:00)
 > Auth. Stored Cross-Site Scripting (XSS) vulnerability in GD bbPress Attachments plugin <= 4.3.1 on WordPress.
+- [Live-Hack-CVE/CVE-2022-45816](https://github.com/Live-Hack-CVE/CVE-2022-45816)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45816">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45816">
 - [Live-Hack-CVE/CVE-2022-45816](https://github.com/Live-Hack-CVE/CVE-2022-45816)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45816">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45816">
 
 ---
@@ -3443,6 +3449,7 @@
 ## CVE-2022-4300 (2022-12-06T10:15:00)
 > A vulnerability was found in FastCMS. It has been rated as critical. This issue affects some unknown processing of the file /template/edit of the component Template Handler. The manipulation leads to injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-214901 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-4300](https://github.com/Live-Hack-CVE/CVE-2022-4300)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4300">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4300">
+- [Live-Hack-CVE/CVE-2022-4300](https://github.com/Live-Hack-CVE/CVE-2022-4300)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4300">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4300">
 
 ---
 ## CVE-2022-42999 (2022-10-26T19:15:00)
@@ -3482,6 +3489,7 @@
 ---
 ## CVE-2022-4296 (2022-12-06T10:15:00)
 > A vulnerability classified as problematic has been found in TP-Link TL-WR740N. Affected is an unknown function of the component ARP Handler. The manipulation leads to resource consumption. The attack needs to be done within the local network. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-214812.
+- [Live-Hack-CVE/CVE-2022-4296](https://github.com/Live-Hack-CVE/CVE-2022-4296)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4296">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4296">
 - [Live-Hack-CVE/CVE-2022-4296](https://github.com/Live-Hack-CVE/CVE-2022-4296)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4296">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4296">
 
 ---
@@ -6769,6 +6777,11 @@
 ## CVE-2022-40213 (2022-09-23T14:15:00)
 > Multiple Authenticated (contributor+) Stored Cross-Site Scripting (XSS) vulnerabilities in GS Testimonial Slider plugin <= 1.9.6 at WordPress.
 - [Live-Hack-CVE/CVE-2022-40213](https://github.com/Live-Hack-CVE/CVE-2022-40213)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40213">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40213">
+
+---
+## CVE-2022-40209 (2022-12-06T15:15:00)
+> Unauth. Reflected Cross-Site Scripting (XSS) vulnerability in Xylus Themes WP Smart Import plugin <= 1.0.2 on WordPress.
+- [Live-Hack-CVE/CVE-2022-40209](https://github.com/Live-Hack-CVE/CVE-2022-40209)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40209">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40209">
 
 ---
 ## CVE-2022-40206 (2022-11-08T19:15:00)

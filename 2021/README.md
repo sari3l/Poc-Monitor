@@ -1966,6 +1966,7 @@
 ## CVE-2021-37714 (2021-08-18T15:15:00)
 > jsoup is a Java library for working with HTML. Those using jsoup versions prior to 1.14.2 to parse untrusted HTML or XML may be vulnerable to DOS attacks. If the parser is run on user supplied input, an attacker may supply content that causes the parser to get stuck (loop indefinitely until cancelled), to complete more slowly than usual, or to throw an unexpected exception. This effect may support a denial of service attack. The issue is patched in version 1.14.2. There are a few available workarounds. Users may rate limit input parsing, limit the size of inputs based on system resources, and/or implement thread watchdogs to cap and timeout parse runtimes.
 - [Live-Hack-CVE/CVE-2021-37714](https://github.com/Live-Hack-CVE/CVE-2021-37714)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37714">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37714">
+- [Live-Hack-CVE/CVE-2021-37714](https://github.com/Live-Hack-CVE/CVE-2021-37714)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37714">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37714">
 
 ---
 ## CVE-2021-37712 (2021-08-31T17:15:00)

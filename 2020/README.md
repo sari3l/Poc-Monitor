@@ -447,6 +447,11 @@
 - [Live-Hack-CVE/CVE-2020-7064](https://github.com/Live-Hack-CVE/CVE-2020-7064)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7064">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7064">
 
 ---
+## CVE-2020-6627 (2022-12-06T15:15:00)
+> The web-management application on Seagate Central NAS STCG2000300, STCG3000300, and STCG4000300 devices allows OS command injection via mv_backend_launch in cirrus/application/helpers/mv_backend_helper.php by leveraging the "start" state and sending a check_device_name request.
+- [Live-Hack-CVE/CVE-2020-6627](https://github.com/Live-Hack-CVE/CVE-2020-6627)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6627">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6627">
+
+---
 ## CVE-2020-6624 (2020-01-09T01:15:00)
 > jhead through 3.04 has a heap-based buffer over-read in process_DQT in jpgqguess.c.
 - [Live-Hack-CVE/CVE-2020-6624](https://github.com/Live-Hack-CVE/CVE-2020-6624)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6624">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6624">

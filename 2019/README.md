@@ -408,6 +408,26 @@
 - [Live-Hack-CVE/CVE-2019-4565](https://github.com/Live-Hack-CVE/CVE-2019-4565)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4565">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4565">
 
 ---
+## CVE-2019-4564 (2019-10-04T14:15:00)
+> IBM Security Key Lifecycle Manager 2.6, 2.7, 3.0, and 3.0.1 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session.
+- [Live-Hack-CVE/CVE-2019-4564](https://github.com/Live-Hack-CVE/CVE-2019-4564)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4564">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4564">
+
+---
+## CVE-2019-4549 (2019-10-02T15:15:00)
+> IBM Security Directory Server 6.4.0 discloses sensitive information to unauthorized users. The information can be used to mount further attacks on the system. IBM X-Force ID: 165951.
+- [Live-Hack-CVE/CVE-2019-4549](https://github.com/Live-Hack-CVE/CVE-2019-4549)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4549">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4549">
+
+---
+## CVE-2019-4542 (2019-10-02T15:15:00)
+> IBM Security Directory Server 6.4.0 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 165815.
+- [Live-Hack-CVE/CVE-2019-4542](https://github.com/Live-Hack-CVE/CVE-2019-4542)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4542">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4542">
+
+---
+## CVE-2019-4539 (2019-10-02T15:15:00)
+> IBM Security Directory Server 6.4.0 does not properly neutralize special elements that are used in XML, allowing attackers to modify the syntax, content, or commands of the XML before it is processed by an end system. IBM X-Force ID: 165812.
+- [Live-Hack-CVE/CVE-2019-4539](https://github.com/Live-Hack-CVE/CVE-2019-4539)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4539">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4539">
+
+---
 ## CVE-2019-4515 (2019-09-24T14:15:00)
 > IBM Security Key Lifecycle Manager 3.0 and 3.0.1 is vulnerable to cross-site request forgery which could allow an attacker to execute malicious and unauthorized actions transmitted from a user that the website trusts. IBM X-Force ID: 165137.
 - [Live-Hack-CVE/CVE-2019-4515](https://github.com/Live-Hack-CVE/CVE-2019-4515)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4515">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4515">
@@ -424,6 +444,16 @@
 > IBM WebSphere Application Server 7.0, 8.0, 8.5, and 9.0 Network Deployment could allow a remote attacker to obtain sensitive information, caused by sending a specially-crafted URL. This can lead the attacker to view any file in a certain directory. IBM X-Force ID: 164364.
 - [Live-Hack-CVE/CVE-2019-4505](https://github.com/Live-Hack-CVE/CVE-2019-4505)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4505">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4505">
 - [Live-Hack-CVE/CVE-2019-4505](https://github.com/Live-Hack-CVE/CVE-2019-4505)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4505">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4505">
+
+---
+## CVE-2019-4497 (2019-10-01T15:15:00)
+> IBM Jazz Reporting Service (JRS) 6.0, 6.0.1, 6.0.2, 6.0.3, 6.0.4, 6.0.5, 6.0.6, and 6.0.6.1 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 164118.
+- [Live-Hack-CVE/CVE-2019-4497](https://github.com/Live-Hack-CVE/CVE-2019-4497)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4497">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4497">
+
+---
+## CVE-2019-4495 (2019-10-01T15:15:00)
+> IBM Jazz Reporting Service (JRS) 6.0, 6.0.1, 6.0.2, 6.0.3, 6.0.4, 6.0.5, 6.0.6, and 6.0.6.1 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 164116.
+- [Live-Hack-CVE/CVE-2019-4495](https://github.com/Live-Hack-CVE/CVE-2019-4495)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4495">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4495">
 
 ---
 ## CVE-2019-4494 (2019-10-01T15:15:00)
@@ -443,10 +473,20 @@
 - [Live-Hack-CVE/CVE-2019-4456](https://github.com/Live-Hack-CVE/CVE-2019-4456)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4456">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4456">
 
 ---
+## CVE-2019-4441 (2019-10-03T14:15:00)
+> IBM WebSphere Application Server 7.0, 8.0, 8.5, 9.0, and Liberty could allow a remote attacker to obtain sensitive information when a stack trace is returned in the browser. IBM X-Force ID: 163177.
+- [Live-Hack-CVE/CVE-2019-4441](https://github.com/Live-Hack-CVE/CVE-2019-4441)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4441">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4441">
+
+---
 ## CVE-2019-4423 (2019-09-30T16:15:00)
 > IBM Sterling File Gateway 2.2.0.0 through 6.0.1.0 could allow a remote attacker to traverse directories on the system. An attacker could send a specially-crafted URL request containing "dot dot" sequences (/../) to view arbitrary files on the system. IBM X-Force ID: 162769.
 - [Live-Hack-CVE/CVE-2019-4423](https://github.com/Live-Hack-CVE/CVE-2019-4423)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4423">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4423">
 - [Live-Hack-CVE/CVE-2019-4423](https://github.com/Live-Hack-CVE/CVE-2019-4423)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4423">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4423">
+
+---
+## CVE-2019-4422 (2019-10-03T14:15:00)
+> IBM Security Guardium 9.0, 9.5, and 10.6 are vulnerable to a privilege escalation which could allow an authenticated user to change the accessmgr password. IBM X-Force ID: 162768.
+- [Live-Hack-CVE/CVE-2019-4422](https://github.com/Live-Hack-CVE/CVE-2019-4422)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4422">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4422">
 
 ---
 ## CVE-2019-4284 (2019-08-05T14:15:00)
