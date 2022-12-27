@@ -707,6 +707,11 @@
 - [cxosmo/CVE-2021-42697](https://github.com/cxosmo/CVE-2021-42697)	<img alt="forks" src="https://img.shields.io/github/forks/cxosmo/CVE-2021-42697">	<img alt="stars" src="https://img.shields.io/github/stars/cxosmo/CVE-2021-42697">
 
 ---
+## CVE-2021-42694 (2021-11-01T04:15:00)
+> ** DISPUTED ** An issue was discovered in the character definitions of the Unicode Specification through 14.0. The specification allows an adversary to produce source code identifiers such as function names using homoglyphs that render visually identical to a target identifier. Adversaries can leverage this to inject code via adversarial identifier definitions in upstream software dependencies invoked deceptively in downstream software. NOTE: the Unicode Consortium offers the following alternative approach to presenting this concern. An issue is noted in the nature of international text that can affect applications that implement support for The Unicode Standard (all versions). Unless mitigated, an adversary could produce source code identifiers using homoglyph characters that render visually identical to but are distinct from a target identifier. In this way, an adversary could inject adversarial identifier definitions in upstream software that are not detected by human reviewers and are invoked deceptively in downstream software. The Unicode Consortium has documented this class of security vulnerability in its document, Unicode Technical Report #36, Unicode Security Considerations. The Unicode Consortium also provides guidance on mitigations for this class of issues in Unicode Technical Standard #39, Unicode Security Mechanisms.
+- [Live-Hack-CVE/CVE-2021-42694](https://github.com/Live-Hack-CVE/CVE-2021-42694)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42694">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42694">
+
+---
 ## CVE-2021-42669 (2021-11-05T13:15:00)
 > A file upload vulnerability exists in Sourcecodester Engineers Online Portal in PHP via dashboard_teacher.php, which allows changing the avatar through teacher_avatar.php. Once an avatar gets uploaded it is getting uploaded to the /admin/uploads/ directory, and is accessible by all users. By uploading a php webshell containing "<?php system($_GET["cmd"]); ?>" the attacker can execute commands on the web server with - /admin/uploads/php-webshell?cmd=id.
 - [0xDeku/CVE-2021-42669](https://github.com/0xDeku/CVE-2021-42669)	<img alt="forks" src="https://img.shields.io/github/forks/0xDeku/CVE-2021-42669">	<img alt="stars" src="https://img.shields.io/github/stars/0xDeku/CVE-2021-42669">
@@ -1708,6 +1713,11 @@
 - [Live-Hack-CVE/CVE-2021-3919](https://github.com/Live-Hack-CVE/CVE-2021-3919)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3919">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3919">
 
 ---
+## CVE-2021-3918 (2021-11-13T09:15:00)
+> json-schema is vulnerable to Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution')
+- [Live-Hack-CVE/CVE-2021-3918](https://github.com/Live-Hack-CVE/CVE-2021-3918)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3918">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3918">
+
+---
 ## CVE-2021-39175 (2021-08-30T21:15:00)
 > HedgeDoc is a platform to write and share markdown. In versions prior to 1.9.0, an unauthenticated attacker can inject arbitrary JavaScript into the speaker-notes of the slide-mode feature by embedding an iframe hosting the malicious code into the slides or by embedding the HedgeDoc instance into another page. The problem is patched in version 1.9.0. There are no known workarounds aside from upgrading.
 - [Live-Hack-CVE/CVE-2021-39175](https://github.com/Live-Hack-CVE/CVE-2021-39175)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39175">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39175">
@@ -2495,6 +2505,11 @@
 - [Live-Hack-CVE/CVE-2021-3498](https://github.com/Live-Hack-CVE/CVE-2021-3498)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3498">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3498">
 
 ---
+## CVE-2021-3496 (2021-04-22T19:15:00)
+> A heap-based buffer overflow was found in jhead in version 3.06 in Get16u() in exif.c when processing a crafted file.
+- [Live-Hack-CVE/CVE-2021-3496](https://github.com/Live-Hack-CVE/CVE-2021-3496)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3496">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3496">
+
+---
 ## CVE-2021-3493 (2021-04-17T05:15:00)
 > The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.
 - [Senz4wa/CVE-2021-3493](https://github.com/Senz4wa/CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/Senz4wa/CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/Senz4wa/CVE-2021-3493">
@@ -2829,6 +2844,11 @@
 - [Live-Hack-CVE/CVE-2021-33587](https://github.com/Live-Hack-CVE/CVE-2021-33587)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33587">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33587">
 
 ---
+## CVE-2021-33560 (2021-06-08T11:15:00)
+> Libgcrypt before 1.8.8 and 1.9.x before 1.9.3 mishandles ElGamal encryption because it lacks exponent blinding to address a side-channel attack against mpi_powm, and the window size is not chosen appropriately. This, for example, affects use of ElGamal in OpenPGP.
+- [Live-Hack-CVE/CVE-2021-33560](https://github.com/Live-Hack-CVE/CVE-2021-33560)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33560">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33560">
+
+---
 ## CVE-2021-33558 (2021-05-27T11:15:00)
 > Boa 0.94.13 allows remote attackers to obtain sensitive information via a misconfiguration involving backup.html, preview.html, js/log.js, log.html, email.html, online-users.html, and config.js.
 - [anldori/CVE-2021-33558](https://github.com/anldori/CVE-2021-33558)	<img alt="forks" src="https://img.shields.io/github/forks/anldori/CVE-2021-33558">	<img alt="stars" src="https://img.shields.io/github/stars/anldori/CVE-2021-33558">
@@ -3007,6 +3027,11 @@
 ## CVE-2021-31800 (2021-05-05T11:15:00)
 > Multiple path traversal vulnerabilities exist in smbserver.py in Impacket through 0.9.22. An attacker that connects to a running smbserver instance can list and write to arbitrary files via ../ directory traversal. This could potentially be abused to achieve arbitrary code execution by replacing /etc/shadow or an SSH authorized key.
 - [Louzogh/CVE-2021-31800](https://github.com/Louzogh/CVE-2021-31800)	<img alt="forks" src="https://img.shields.io/github/forks/Louzogh/CVE-2021-31800">	<img alt="stars" src="https://img.shields.io/github/stars/Louzogh/CVE-2021-31800">
+
+---
+## CVE-2021-3177 (2021-01-19T06:15:00)
+> Python 3.x through 3.9.1 has a buffer overflow in PyCArg_repr in _ctypes/callproc.c, which may lead to remote code execution in certain Python applications that accept floating-point numbers as untrusted input, as demonstrated by a 1e300 argument to c_double.from_param. This occurs because sprintf is used unsafely.
+- [Live-Hack-CVE/CVE-2021-3177](https://github.com/Live-Hack-CVE/CVE-2021-3177)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3177">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3177">
 
 ---
 ## CVE-2021-3166 (2021-01-18T05:15:00)
@@ -3563,6 +3588,11 @@
 - [catmandx/CVE-2021-26855-Exchange-RCE](https://github.com/catmandx/CVE-2021-26855-Exchange-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/catmandx/CVE-2021-26855-Exchange-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/catmandx/CVE-2021-26855-Exchange-RCE">
 
 ---
+## CVE-2021-26720 (2021-02-17T22:15:00)
+> avahi-daemon-check-dns.sh in the Debian avahi package through 0.8-4 is executed as root via /etc/network/if-up.d/avahi-daemon, and allows a local attacker to cause a denial of service or create arbitrary empty files via a symlink attack on files under /run/avahi-daemon. NOTE: this only affects the packaging for Debian GNU/Linux (used indirectly by SUSE), not the upstream Avahi product.
+- [Live-Hack-CVE/CVE-2021-26720](https://github.com/Live-Hack-CVE/CVE-2021-26720)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26720">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26720">
+
+---
 ## CVE-2021-26639 (2022-08-17T21:15:00)
 > This vulnerability is caused by the lack of validation of input values for specific functions if WISA Smart Wing CMS. Remote attackers can use this vulnerability to leak all files in the server without logging in system.
 - [Live-Hack-CVE/CVE-2021-26639](https://github.com/Live-Hack-CVE/CVE-2021-26639)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26639">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26639">
@@ -4031,6 +4061,11 @@
 ## CVE-2021-24188 (2021-05-14T12:15:00)
 > Low privileged users can use the AJAX action 'cp_plugins_do_button_job_later_callback' in the WP Content Copy Protection & No Right Click WordPress plugin before 3.1.5, to install any plugin (including a specific version) from the WordPress repository, as well as activate arbitrary plugin from then blog, which helps attackers install vulnerable plugins and could lead to more critical vulnerabilities like RCE.
 - [Live-Hack-CVE/CVE-2021-24188](https://github.com/Live-Hack-CVE/CVE-2021-24188)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24188">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24188">
+
+---
+## CVE-2021-23926 (2021-01-14T15:15:00)
+> The XML parsers used by XMLBeans up to version 2.6.0 did not set the properties needed to protect the user from malicious XML input. Vulnerabilities include possibilities for XML Entity Expansion attacks. Affects XMLBeans up to and including v2.6.0.
+- [Live-Hack-CVE/CVE-2021-23926](https://github.com/Live-Hack-CVE/CVE-2021-23926)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23926">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23926">
 
 ---
 ## CVE-2021-23892 (2021-05-12T09:15:00)
@@ -4587,6 +4622,7 @@
 - [AlkenePan/CVE-2021-21300](https://github.com/AlkenePan/CVE-2021-21300)	<img alt="forks" src="https://img.shields.io/github/forks/AlkenePan/CVE-2021-21300">	<img alt="stars" src="https://img.shields.io/github/stars/AlkenePan/CVE-2021-21300">
 - [Roboterh/CVE-2021-21300](https://github.com/Roboterh/CVE-2021-21300)	<img alt="forks" src="https://img.shields.io/github/forks/Roboterh/CVE-2021-21300">	<img alt="stars" src="https://img.shields.io/github/stars/Roboterh/CVE-2021-21300">
 - [ruifi47/cve-2021-21300-PoC](https://github.com/ruifi47/cve-2021-21300-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ruifi47/cve-2021-21300-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ruifi47/cve-2021-21300-PoC">
+- [Live-Hack-CVE/CVE-2021-21300](https://github.com/Live-Hack-CVE/CVE-2021-21300)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21300">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21300">
 
 ---
 ## CVE-2021-21297 (2021-02-26T17:15:00)

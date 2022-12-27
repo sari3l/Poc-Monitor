@@ -36,6 +36,11 @@
 - [dwisiswant0/CVE-2020-9496](https://github.com/dwisiswant0/CVE-2020-9496)	<img alt="forks" src="https://img.shields.io/github/forks/dwisiswant0/CVE-2020-9496">	<img alt="stars" src="https://img.shields.io/github/stars/dwisiswant0/CVE-2020-9496">
 
 ---
+## CVE-2020-9492 (2021-01-26T18:16:00)
+> In Apache Hadoop 3.2.0 to 3.2.1, 3.0.0-alpha1 to 3.1.3, and 2.0.0-alpha to 2.10.0, WebHDFS client might send SPNEGO authorization header to remote URL without proper verification.
+- [Live-Hack-CVE/CVE-2020-9492](https://github.com/Live-Hack-CVE/CVE-2020-9492)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9492">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9492">
+
+---
 ## CVE-2020-9490 (2020-08-07T16:15:00)
 > Apache HTTP Server versions 2.4.20 to 2.4.43. A specially crafted value for the 'Cache-Digest' header in a HTTP/2 request would result in a crash when the server actually tries to HTTP/2 PUSH a resource afterwards. Configuring the HTTP/2 feature via "H2Push off" will mitigate this vulnerability for unpatched servers.
 - [Live-Hack-CVE/CVE-2020-9490](https://github.com/Live-Hack-CVE/CVE-2020-9490)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9490">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9490">
@@ -735,6 +740,11 @@
 - [Live-Hack-CVE/CVE-2020-36244](https://github.com/Live-Hack-CVE/CVE-2020-36244)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36244">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36244">
 
 ---
+## CVE-2020-36242 (2021-02-07T20:15:00)
+> In the cryptography package before 3.3.2 for Python, certain sequences of update calls to symmetrically encrypt multi-GB values could result in an integer overflow and buffer overflow, as demonstrated by the Fernet class.
+- [Live-Hack-CVE/CVE-2020-36242](https://github.com/Live-Hack-CVE/CVE-2020-36242)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36242">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36242">
+
+---
 ## CVE-2020-36188 (2021-01-06T23:15:00)
 > FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to com.newrelic.agent.deps.ch.qos.logback.core.db.JNDIConnectionSource.
 - [Live-Hack-CVE/CVE-2020-36188](https://github.com/Live-Hack-CVE/CVE-2020-36188)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36188">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36188">
@@ -1019,6 +1029,11 @@
 - [Live-Hack-CVE/CVE-2020-28587](https://github.com/Live-Hack-CVE/CVE-2020-28587)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28587">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28587">
 
 ---
+## CVE-2020-28491 (2021-02-18T16:15:00)
+> This affects the package com.fasterxml.jackson.dataformat:jackson-dataformat-cbor from 0 and before 2.11.4, from 2.12.0-rc1 and before 2.12.1. Unchecked allocation of byte buffer can cause a java.lang.OutOfMemoryError exception.
+- [Live-Hack-CVE/CVE-2020-28491](https://github.com/Live-Hack-CVE/CVE-2020-28491)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28491">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28491">
+
+---
 ## CVE-2020-28460 (2020-12-22T13:15:00)
 > This affects the package multi-ini before 2.1.2. It is possible to pollute an object's prototype by specifying the constructor.proto object as part of an array. This is a bypass of CVE-2020-28448.
 - [Live-Hack-CVE/CVE-2020-28460](https://github.com/Live-Hack-CVE/CVE-2020-28460)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28460">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28460">
@@ -1032,6 +1047,11 @@
 ## CVE-2020-28445 (2022-07-25T14:15:00)
 > This affects all versions of package npm-help. The injection point is located in line 13 in index.js file in export.latestVersion() function.
 - [Live-Hack-CVE/CVE-2020-28445](https://github.com/Live-Hack-CVE/CVE-2020-28445)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28445">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28445">
+
+---
+## CVE-2020-28367 (2020-11-18T17:15:00)
+> Code injection in the go command with cgo before Go 1.14.12 and Go 1.15.5 allows arbitrary code execution at build time via malicious gcc flags specified via a #cgo directive.
+- [Live-Hack-CVE/CVE-2020-28367](https://github.com/Live-Hack-CVE/CVE-2020-28367)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28367">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28367">
 
 ---
 ## CVE-2020-28271 (2020-11-12T18:15:00)
@@ -1381,6 +1401,11 @@
 - [Live-Hack-CVE/CVE-2020-25654](https://github.com/Live-Hack-CVE/CVE-2020-25654)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25654">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25654">
 
 ---
+## CVE-2020-25638 (2020-12-02T15:15:00)
+> A flaw was found in hibernate-core in versions prior to and including 5.4.23.Final. A SQL injection in the implementation of the JPA Criteria API can permit unsanitized literals when a literal is used in the SQL comments of the query. This flaw could allow an attacker to access unauthorized information or possibly conduct further attacks. The highest threat from this vulnerability is to data confidentiality and integrity.
+- [Live-Hack-CVE/CVE-2020-25638](https://github.com/Live-Hack-CVE/CVE-2020-25638)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25638">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25638">
+
+---
 ## CVE-2020-25634 (2021-05-26T21:15:00)
 > A flaw was found in Red Hat 3scale’s API docs URL, where it is accessible without credentials. This flaw allows an attacker to view sensitive information or modify service APIs. Versions before 3scale-2.10.0-ER1 are affected.
 - [Live-Hack-CVE/CVE-2020-25634](https://github.com/Live-Hack-CVE/CVE-2020-25634)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25634">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25634">
@@ -1718,6 +1743,11 @@
 - [Live-Hack-CVE/CVE-2020-21784](https://github.com/Live-Hack-CVE/CVE-2020-21784)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-21784">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-21784">
 
 ---
+## CVE-2020-21682 (2021-08-10T21:15:00)
+> A global buffer overflow in the set_fill component in genge.c of fig2dev 3.2.7b allows attackers to cause a denial of service (DOS) via converting a xfig file into ge format.
+- [Live-Hack-CVE/CVE-2020-21682](https://github.com/Live-Hack-CVE/CVE-2020-21682)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-21682">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-21682">
+
+---
 ## CVE-2020-21675 (2021-08-10T21:15:00)
 > A stack-based buffer overflow in the genptk_text component in genptk.c of fig2dev 3.2.7b allows attackers to cause a denial of service (DOS) via converting a xfig file into ptk format.
 - [Live-Hack-CVE/CVE-2020-21675](https://github.com/Live-Hack-CVE/CVE-2020-21675)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-21675">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-21675">
@@ -2048,6 +2078,11 @@
 - [Live-Hack-CVE/CVE-2020-15678](https://github.com/Live-Hack-CVE/CVE-2020-15678)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15678">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15678">
 
 ---
+## CVE-2020-15652 (2020-08-10T18:15:00)
+> By observing the stack trace for JavaScript errors in web workers, it was possible to leak the result of a cross-origin redirect. This applied only to content that can be parsed as script. This vulnerability affects Firefox < 79, Firefox ESR < 68.11, Firefox ESR < 78.1, Thunderbird < 68.11, and Thunderbird < 78.1.
+- [Live-Hack-CVE/CVE-2020-15652](https://github.com/Live-Hack-CVE/CVE-2020-15652)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15652">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15652">
+
+---
 ## CVE-2020-15568 (2021-01-30T05:15:00)
 > TerraMaster TOS before 4.1.29 has Invalid Parameter Checking that leads to code injection as root. This is a dynamic class method invocation vulnerability in include/exportUser.php, in which an attacker can trigger a call to the exec method with (for example) OS commands in the opt parameter.
 - [n0bugz/CVE-2020-15568](https://github.com/n0bugz/CVE-2020-15568)	<img alt="forks" src="https://img.shields.io/github/forks/n0bugz/CVE-2020-15568">	<img alt="stars" src="https://img.shields.io/github/stars/n0bugz/CVE-2020-15568">
@@ -2162,6 +2197,11 @@
 - [Live-Hack-CVE/CVE-2020-14394](https://github.com/Live-Hack-CVE/CVE-2020-14394)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14394">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14394">
 
 ---
+## CVE-2020-14385 (2020-09-15T22:15:00)
+> A flaw was found in the Linux kernel before 5.9-rc4. A failure of the file system metadata validator in XFS can cause an inode with a valid, user-creatable extended attribute to be flagged as corrupt. This can lead to the filesystem being shutdown, or otherwise rendered inaccessible until it is remounted, leading to a denial of service. The highest threat from this vulnerability is to system availability.
+- [Live-Hack-CVE/CVE-2020-14385](https://github.com/Live-Hack-CVE/CVE-2020-14385)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14385">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14385">
+
+---
 ## CVE-2020-14367 (2020-08-24T15:15:00)
 > A flaw was found in chrony versions before 3.5.1 when creating the PID file under the /var/run/chrony folder. The file is created during chronyd startup while still running as the root user, and when it's opened for writing, chronyd does not check for an existing symbolic link with the same file name. This flaw allows an attacker with privileged access to create a symlink with the default PID file name pointing to any destination file in the system, resulting in data loss and a denial of service due to the path traversal.
 - [Live-Hack-CVE/CVE-2020-14367](https://github.com/Live-Hack-CVE/CVE-2020-14367)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14367">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14367">
@@ -2175,6 +2215,11 @@
 ## CVE-2020-14361 (2020-09-15T19:15:00)
 > A flaw was found in X.Org Server before xorg-x11-server 1.20.9. An Integer underflow leading to heap-buffer overflow may lead to a privilege escalation vulnerability. The highest threat from this vulnerability is to data confidentiality and integrity as well as system availability.
 - [Live-Hack-CVE/CVE-2020-14361](https://github.com/Live-Hack-CVE/CVE-2020-14361)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14361">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14361">
+
+---
+## CVE-2020-14343 (2021-02-09T21:15:00)
+> A vulnerability was discovered in the PyYAML library in versions before 5.4, where it is susceptible to arbitrary code execution when it processes untrusted YAML files through the full_load method or with the FullLoader loader. Applications that use the library to process untrusted input may be vulnerable to this flaw. This flaw allows an attacker to execute arbitrary code on the system by abusing the python/object/new constructor. This flaw is due to an incomplete fix for CVE-2020-1747.
+- [Live-Hack-CVE/CVE-2020-14343](https://github.com/Live-Hack-CVE/CVE-2020-14343)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14343">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14343">
 
 ---
 ## CVE-2020-14334 (2020-07-31T13:15:00)
@@ -2299,6 +2344,11 @@
 - [Live-Hack-CVE/CVE-2020-13249](https://github.com/Live-Hack-CVE/CVE-2020-13249)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13249">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13249">
 
 ---
+## CVE-2020-1319 (2020-09-11T17:15:00)
+> A remote code execution vulnerability exists in the way that Microsoft Windows Codecs Library handles objects in memory, aka 'Microsoft Windows Codecs Library Remote Code Execution Vulnerability'. This CVE ID is unique from CVE-2020-1129.
+- [Live-Hack-CVE/CVE-2020-1319](https://github.com/Live-Hack-CVE/CVE-2020-1319)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1319">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1319">
+
+---
 ## CVE-2020-13101 (2020-08-24T08:15:00)
 > In OASIS Digital Signature Services (DSS) 1.0, an attacker can control the validation outcome (i.e., trigger either a valid or invalid outcome for a valid or invalid signature) via a crafted XML signature, when the InlineXML option is used. This defeats the expectation of non-repudiation.
 - [Live-Hack-CVE/CVE-2020-13101](https://github.com/Live-Hack-CVE/CVE-2020-13101)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13101">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13101">
@@ -2362,6 +2412,11 @@
 ## CVE-2020-12460 (2020-07-27T23:15:00)
 > OpenDMARC through 1.3.2 and 1.4.x through 1.4.0-Beta1 has improper null termination in the function opendmarc_xml_parse that can result in a one-byte heap overflow in opendmarc_xml when parsing a specially crafted DMARC aggregate report. This can cause remote memory corruption when a '\0' byte overwrites the heap metadata of the next chunk and its PREV_INUSE flag.
 - [Live-Hack-CVE/CVE-2020-12460](https://github.com/Live-Hack-CVE/CVE-2020-12460)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12460">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12460">
+
+---
+## CVE-2020-12351 (2020-11-23T17:15:00)
+> Improper input validation in BlueZ may allow an unauthenticated user to potentially enable escalation of privilege via adjacent access.
+- [Live-Hack-CVE/CVE-2020-12351](https://github.com/Live-Hack-CVE/CVE-2020-12351)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12351">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12351">
 
 ---
 ## CVE-2020-12272 (2020-04-27T14:15:00)

@@ -1747,6 +1747,16 @@
 - [Live-Hack-CVE/CVE-2022-45326](https://github.com/Live-Hack-CVE/CVE-2022-45326)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45326">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45326">
 
 ---
+## CVE-2022-45315 (2022-12-05T16:15:00)
+> Mikrotik RouterOs before stable v7.6 was discovered to contain an out-of-bounds read in the snmp process. This vulnerability allows attackers to execute arbitrary code via a crafted packet.
+- [Live-Hack-CVE/CVE-2022-45315](https://github.com/Live-Hack-CVE/CVE-2022-45315)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45315">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45315">
+
+---
+## CVE-2022-45313 (2022-12-05T16:15:00)
+> Mikrotik RouterOs before stable v7.5 was discovered to contain an out-of-bounds read in the hotspot process. This vulnerability allows attackers to execute arbitrary code via a crafted nova message.
+- [Live-Hack-CVE/CVE-2022-45313](https://github.com/Live-Hack-CVE/CVE-2022-45313)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45313">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45313">
+
+---
 ## CVE-2022-45290 (2022-12-09T19:15:00)
 > Kbase Doc v1.0 was discovered to contain an arbitrary file deletion vulnerability via the component /web/IndexController.java.
 - [Live-Hack-CVE/CVE-2022-45290](https://github.com/Live-Hack-CVE/CVE-2022-45290)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45290">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45290">
@@ -2782,6 +2792,11 @@
 ## CVE-2022-43748 (2022-10-26T10:15:00)
 > Improper limitation of a pathname to a restricted directory ('Path Traversal') vulnerability in file operation management in Synology Presto File Server before 2.1.2-1601 allows remote attackers to write arbitrary files via unspecified vectors.
 - [Live-Hack-CVE/CVE-2022-43748](https://github.com/Live-Hack-CVE/CVE-2022-43748)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43748">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43748">
+
+---
+## CVE-2022-43747 (2022-10-26T04:15:00)
+> baramundi Management Agent (bMA) in baramundi Management Suite (bMS) 2021 R1 and R2 and 2022 R1 allows remote code execution. This is fixed in 2022 R2.
+- [Live-Hack-CVE/CVE-2022-43747](https://github.com/Live-Hack-CVE/CVE-2022-43747)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43747">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43747">
 
 ---
 ## CVE-2022-43724 (2022-12-13T16:15:00)
@@ -6754,6 +6769,11 @@
 ## CVE-2022-40264 (2022-12-14T00:15:00)
 > Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in ICONICS/Mitsubishi Electric GENESIS64 versions 10.96 to 10.97.2 allows an unauthenticated attacker to create, tamper with or destroy arbitrary files by getting a legitimate user import a project package file crafted by the attacker.
 - [Live-Hack-CVE/CVE-2022-40264](https://github.com/Live-Hack-CVE/CVE-2022-40264)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40264">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40264">
+
+---
+## CVE-2022-40259 (2022-12-05T22:15:00)
+> AMI MegaRAC Redfish Arbitrary Code Execution
+- [Live-Hack-CVE/CVE-2022-40259](https://github.com/Live-Hack-CVE/CVE-2022-40259)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40259">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40259">
 
 ---
 ## CVE-2022-40238 (2022-10-26T16:15:00)
@@ -13661,6 +13681,12 @@
 - [Live-Hack-CVE/CVE-2022-3221](https://github.com/Live-Hack-CVE/CVE-2022-3221)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3221">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3221">
 
 ---
+## CVE-2022-32209 (2022-06-24T15:15:00)
+> # Possible XSS Vulnerability in Rails::Html::SanitizerThere is a possible XSS vulnerability with certain configurations of Rails::Html::Sanitizer.This vulnerability has been assigned the CVE identifier CVE-2022-32209.Versions Affected: ALLNot affected: NONEFixed Versions: v1.4.3## ImpactA possible XSS vulnerability with certain configurations of Rails::Html::Sanitizer may allow an attacker to inject content if the application developer has overridden the sanitizer's allowed tags to allow both `select` and `style` elements.Code is only impacted if allowed tags are being overridden. This may be done via application configuration:```ruby# In config/application.rbconfig.action_view.sanitized_allowed_tags = ["select", "style"]```see https://guides.rubyonrails.org/configuring.html#configuring-action-viewOr it may be done with a `:tags` option to the Action View helper `sanitize`:```<%= sanitize @comment.body, tags: ["select", "style"] %>```see https://api.rubyonrails.org/classes/ActionView/Helpers/SanitizeHelper.html#method-i-sanitizeOr it may be done with Rails::Html::SafeListSanitizer directly:```ruby# class-level optionRails::Html::SafeListSanitizer.allowed_tags = ["select", "style"]```or```ruby# instance-level optionRails::Html::SafeListSanitizer.new.sanitize(@article.body, tags: ["select", "style"])```All users overriding the allowed tags by any of the above mechanisms to include both "select" and "style" should either upgrade or use one of the workarounds immediately.## ReleasesThe FIXED releases are available at the normal locations.## WorkaroundsRemove either `select` or `style` from the overridden allowed tags.## CreditsThis vulnerability was responsibly reported by [windshock](https://hackerone.com/windshock?type=user).
+- [Live-Hack-CVE/CVE-2022-32209](https://github.com/Live-Hack-CVE/CVE-2022-32209)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32209">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32209">
+- [Live-Hack-CVE/CVE-2022-23520](https://github.com/Live-Hack-CVE/CVE-2022-23520)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23520">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23520">
+
+---
 ## CVE-2022-32190 (2022-09-13T18:15:00)
 > JoinPath and URL.JoinPath do not remove ../ path elements appended to a relative path. For example, JoinPath("https://go.dev", "../go") returns the URL "https://go.dev/../go", despite the JoinPath documentation stating that ../ path elements are removed from the result.
 - [Live-Hack-CVE/CVE-2022-32190](https://github.com/Live-Hack-CVE/CVE-2022-32190)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32190">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32190">
@@ -15729,6 +15755,11 @@
 - [Live-Hack-CVE/CVE-2022-2840](https://github.com/Live-Hack-CVE/CVE-2022-2840)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2840">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2840">
 
 ---
+## CVE-2022-28386 (2022-06-08T17:15:00)
+> An issue was discovered in certain Verbatim drives through 2022-03-31. The security feature for lockout (e.g., requiring a reformat of the drive after 20 failed unlock attempts) does not work as specified. More than 20 attempts may be made. This affects Keypad Secure USB 3.2 Gen 1 Drive Part Number #49428 and Store 'n' Go Secure Portable HDD GD25LK01-3637-C VER4.0.
+- [Live-Hack-CVE/CVE-2022-28386](https://github.com/Live-Hack-CVE/CVE-2022-28386)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28386">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28386">
+
+---
 ## CVE-2022-28383 (2022-06-08T16:15:00)
 > An issue was discovered in certain Verbatim drives through 2022-03-31. Due to insufficient firmware validation, an attacker can store malicious firmware code for the USB-to-SATA bridge controller on the USB drive (e.g., by leveraging physical access during the supply chain). This code is then executed. This affects Keypad Secure USB 3.2 Gen 1 Drive Part Number #49428, Store 'n' Go Secure Portable HDD GD25LK01-3637-C VER4.0, Executive Fingerprint Secure SSD GDMSFE01-INI3637-C VER1.1, and Fingerprint Secure Portable Hard Drive Part Number #53650.
 - [Live-Hack-CVE/CVE-2022-28383](https://github.com/Live-Hack-CVE/CVE-2022-28383)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28383">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28383">
@@ -17058,6 +17089,16 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-24836 (2022-04-11T22:15:00)
 > Nokogiri is an open source XML and HTML library for Ruby. Nokogiri `< v1.13.4` contains an inefficient regular expression that is susceptible to excessive backtracking when attempting to detect encoding in HTML documents. Users are advised to upgrade to Nokogiri `>= 1.13.4`. There are no known workarounds for this issue.
 - [Live-Hack-CVE/CVE-2022-24836](https://github.com/Live-Hack-CVE/CVE-2022-24836)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24836">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24836">
+
+---
+## CVE-2022-24793 (2022-04-06T14:15:00)
+> PJSIP is a free and open source multimedia communication library written in C. A buffer overflow vulnerability in versions 2.12 and prior affects applications that uses PJSIP DNS resolution. It doesn't affect PJSIP users who utilize an external resolver. A patch is available in the `master` branch of the `pjsip/pjproject` GitHub repository. A workaround is to disable DNS resolution in PJSIP config (by setting `nameserver_count` to zero) or use an external resolver instead.
+- [Live-Hack-CVE/CVE-2022-24793](https://github.com/Live-Hack-CVE/CVE-2022-24793)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24793">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24793">
+
+---
+## CVE-2022-24792 (2022-04-25T16:16:00)
+> PJSIP is a free and open source multimedia communication library written in C. A denial-of-service vulnerability affects applications on a 32-bit systems that use PJSIP versions 2.12 and prior to play/read invalid WAV files. The vulnerability occurs when reading WAV file data chunks with length greater than 31-bit integers. The vulnerability does not affect 64-bit apps and should not affect apps that only plays trusted WAV files. A patch is available on the `master` branch of the `pjsip/project` GitHub repository. As a workaround, apps can reject a WAV file received from an unknown source or validate the file first.
+- [Live-Hack-CVE/CVE-2022-24792](https://github.com/Live-Hack-CVE/CVE-2022-24792)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24792">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24792">
 
 ---
 ## CVE-2022-24786 (2022-04-06T14:15:00)
@@ -18529,6 +18570,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-21713 (2022-02-08T21:15:00)
 > Grafana is an open-source platform for monitoring and observability. Affected versions of Grafana expose multiple API endpoints which do not properly handle user authorization. `/teams/:teamId` will allow an authenticated attacker to view unintended data by querying for the specific team ID, `/teams/:search` will allow an authenticated attacker to search for teams and see the total number of available teams, including for those teams that the user does not have access to, and `/teams/:teamId/members` when editors_can_admin flag is enabled, an authenticated attacker can see unintended data by querying for the specific team ID. Users are advised to upgrade as soon as possible. There are no known workarounds for this issue.
 - [Live-Hack-CVE/CVE-2022-21713](https://github.com/Live-Hack-CVE/CVE-2022-21713)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21713">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21713">
+
+---
+## CVE-2022-21704 (2022-01-19T23:15:00)
+> log4js-node is a port of log4js to node.js. In affected versions default file permissions for log files created by the file, fileSync and dateFile appenders are world-readable (in unix). This could cause problems if log files contain sensitive information. This would affect any users that have not supplied their own permissions for the files via the mode parameter in the config. Users are advised to update.
+- [Live-Hack-CVE/CVE-2022-21704](https://github.com/Live-Hack-CVE/CVE-2022-21704)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21704">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21704">
 
 ---
 ## CVE-2022-21703 (2022-02-08T21:15:00)

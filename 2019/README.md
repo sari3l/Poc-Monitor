@@ -826,6 +826,11 @@
 - [black-mirror/Weblogic](https://github.com/black-mirror/Weblogic)	<img alt="forks" src="https://img.shields.io/github/forks/black-mirror/Weblogic">	<img alt="stars" src="https://img.shields.io/github/stars/black-mirror/Weblogic">
 
 ---
+## CVE-2019-2614 (2019-04-23T19:32:00)
+> Vulnerability in the MySQL Server component of Oracle MySQL (subcomponent: Server: Replication). Supported versions that are affected are 5.6.43 and prior, 5.7.25 and prior and 8.0.15 and prior. Difficult to exploit vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.0 Base Score 4.4 (Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:H/PR:H/UI:N/S:U/C:N/I:N/A:H).
+- [Live-Hack-CVE/CVE-2019-2614](https://github.com/Live-Hack-CVE/CVE-2019-2614)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-2614">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-2614">
+
+---
 ## CVE-2019-25089 (2022-12-27T12:15:00)
 > A vulnerability has been found in Morgawr Muon 0.1.1 and classified as problematic. Affected by this vulnerability is an unknown functionality of the file src/muon/handler.clj. The manipulation leads to insufficiently random values. The attack can be launched remotely. Upgrading to version 0.2.0-indev is able to address this issue. The name of the patch is c09ed972c020f759110c707b06ca2644f0bacd7f. It is recommended to upgrade the affected component. The identifier VDB-216877 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2019-25089](https://github.com/Live-Hack-CVE/CVE-2019-25089)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25089">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25089">
