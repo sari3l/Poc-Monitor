@@ -2110,6 +2110,11 @@
 - [Live-Hack-CVE/CVE-2022-43572](https://github.com/Live-Hack-CVE/CVE-2022-43572)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43572">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43572">
 
 ---
+## CVE-2022-43571 (2022-11-03T23:15:00)
+> In Splunk Enterprise versions below 8.2.9, 8.1.12, and 9.0.2, an authenticated user can execute arbitrary code through the dashboard PDF generation component.
+- [ohnonoyesyes/CVE-2022-43571](https://github.com/ohnonoyesyes/CVE-2022-43571)	<img alt="forks" src="https://img.shields.io/github/forks/ohnonoyesyes/CVE-2022-43571">	<img alt="stars" src="https://img.shields.io/github/stars/ohnonoyesyes/CVE-2022-43571">
+
+---
 ## CVE-2022-43570 (2022-11-04T23:15:00)
 > In Splunk Enterprise versions below 8.1.12, 8.2.9, and 9.0.2, an authenticated user can perform an extensible markup language (XML) external entity (XXE) injection via a custom View. The XXE injection causes Splunk Web to embed incorrect documents into an error.
 - [Live-Hack-CVE/CVE-2022-43570](https://github.com/Live-Hack-CVE/CVE-2022-43570)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43570">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43570">
