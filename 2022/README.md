@@ -873,6 +873,11 @@
 - [Live-Hack-CVE/CVE-2022-46340](https://github.com/Live-Hack-CVE/CVE-2022-46340)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46340">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46340">
 
 ---
+## CVE-2022-46332 (2022-12-06T20:15:00)
+> The Admin Smart Search feature in Proofpoint Enterprise Protection (PPS/PoD) contains a stored cross-site scripting vulnerability that enables an anonymous email sender to gain admin privileges within the user interface. This affects all versions 8.19.0 and below.
+- [Live-Hack-CVE/CVE-2022-46332](https://github.com/Live-Hack-CVE/CVE-2022-46332)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46332">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46332">
+
+---
 ## CVE-2022-4633 (2022-12-21T19:15:00)
 > A vulnerability was found in Auto Upload Images 3.3.1 and classified as problematic. Affected by this issue is some unknown functionality of the file src/setting-page.php of the component Settings Handler. The manipulation leads to cross-site request forgery. The attack may be launched remotely. Upgrading to version 3.3.2 is able to address this issue. The name of the patch is 895770ee93887ec78429c78ffdfb865bee6f9436. It is recommended to upgrade the affected component. VDB-216482 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-4633](https://github.com/Live-Hack-CVE/CVE-2022-4633)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4633">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4633">
@@ -1567,6 +1572,11 @@
 - [kinderscsaa/cve-2022-45511](https://github.com/kinderscsaa/cve-2022-45511)	<img alt="forks" src="https://img.shields.io/github/forks/kinderscsaa/cve-2022-45511">	<img alt="stars" src="https://img.shields.io/github/stars/kinderscsaa/cve-2022-45511">
 
 ---
+## CVE-2022-45505 (2022-12-08T16:15:00)
+> Tenda W30E V1.0.1.25(633) was discovered to contain a stack overflow via the cmdinput parameter at /goform/exeCommand.
+- [Live-Hack-CVE/CVE-2022-45505](https://github.com/Live-Hack-CVE/CVE-2022-45505)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45505">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45505">
+
+---
 ## CVE-2022-45483 (2022-12-02T16:15:00)
 > Lazy Mouse allows an attacker (in a man in the middle position between the server and a connected device) to see all data (including keypresses) in cleartext. CVSS:3.1/AV:L/AC:H/PR:N/UI:N/S:U/C:H/I:N/A:N
 - [Live-Hack-CVE/CVE-2022-45483](https://github.com/Live-Hack-CVE/CVE-2022-45483)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45483">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45483">
@@ -2003,6 +2013,11 @@
 - [Live-Hack-CVE/CVE-2022-44910](https://github.com/Live-Hack-CVE/CVE-2022-44910)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44910">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44910">
 
 ---
+## CVE-2022-44900 (2022-12-06T20:15:00)
+> A directory traversal vulnerability in the SevenZipFile.extractall() function of the python library py7zr v0.20.0 and earlier allows attackers to write arbitrary files via extracting a crafted 7z file.
+- [Live-Hack-CVE/CVE-2022-44900](https://github.com/Live-Hack-CVE/CVE-2022-44900)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44900">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44900">
+
+---
 ## CVE-2022-44898 (2022-12-14T15:15:00)
 > The MsIo64.sys component in Asus Aura Sync through v1.07.79 does not properly validate input to IOCTL 0x80102040, 0x80102044, 0x80102050, and 0x80102054, allowing attackers to trigger a memory corruption and cause a Denial of Service (DoS) or escalate privileges via crafted IOCTL requests.
 - [Live-Hack-CVE/CVE-2022-44898](https://github.com/Live-Hack-CVE/CVE-2022-44898)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44898">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44898">
@@ -2393,6 +2408,11 @@
 ## CVE-2022-44378 (2022-11-18T18:15:00)
 > Automotive Shop Management System v1.0 is vulnerable to SQL via /asms/classes/Master.php?f=delete_mechanic.
 - [Live-Hack-CVE/CVE-2022-44378](https://github.com/Live-Hack-CVE/CVE-2022-44378)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44378">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44378">
+
+---
+## CVE-2022-44371 (2022-12-07T17:15:00)
+> hope-boot 1.0.0 has a deserialization vulnerability that can cause Remote Code Execution (RCE).
+- [Live-Hack-CVE/CVE-2022-44371](https://github.com/Live-Hack-CVE/CVE-2022-44371)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44371">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44371">
 
 ---
 ## CVE-2022-4437 (2022-12-14T06:15:00)
@@ -4815,6 +4835,11 @@
 > Auth. (subscriber+) Cross-Site Scripting (XSS) vulnerability in Soledad premium theme <= 8.2.5 on WordPress.
 - [Live-Hack-CVE/CVE-2022-41788](https://github.com/Live-Hack-CVE/CVE-2022-41788)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41788">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41788">
 - [efchatz/easy-exploits](https://github.com/efchatz/easy-exploits)	<img alt="forks" src="https://img.shields.io/github/forks/efchatz/easy-exploits">	<img alt="stars" src="https://img.shields.io/github/stars/efchatz/easy-exploits">
+
+---
+## CVE-2022-41783 (2022-12-07T04:15:00)
+> tdpServer of TP-Link RE300 V1 improperly processes its input, which may allow an attacker to cause a denial-of-service (DoS) condition of the product's OneMesh function.
+- [Live-Hack-CVE/CVE-2022-41783](https://github.com/Live-Hack-CVE/CVE-2022-41783)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41783">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41783">
 
 ---
 ## CVE-2022-4178 (2022-11-30T00:15:00)

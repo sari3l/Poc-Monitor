@@ -577,6 +577,11 @@
 - [Live-Hack-CVE/CVE-2019-4141](https://github.com/Live-Hack-CVE/CVE-2019-4141)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4141">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4141">
 
 ---
+## CVE-2019-4136 (2019-06-17T15:15:00)
+> IBM Cognos Controller 10.2.0, 10.2.1, 10.3.0, 10.3.1, and 10.4.0 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 158332.
+- [Live-Hack-CVE/CVE-2019-4136](https://github.com/Live-Hack-CVE/CVE-2019-4136)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4136">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4136">
+
+---
 ## CVE-2019-4135 (2019-06-25T16:15:00)
 > IBM Security Access Manager 9.0.1 through 9.0.6 is affected by a security vulnerability that could allow authenticated users to impersonate other users. IBM X-Force ID: 158331.
 - [Live-Hack-CVE/CVE-2019-4135](https://github.com/Live-Hack-CVE/CVE-2019-4135)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4135">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4135">
@@ -659,6 +664,11 @@
 > IBM Jazz Foundation products (IBM Rational Collaborative Lifecycle Management 6.0 through 6.0.6.1) is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 157383.
 - [Live-Hack-CVE/CVE-2019-4083](https://github.com/Live-Hack-CVE/CVE-2019-4083)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4083">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4083">
 - [Live-Hack-CVE/CVE-2019-4083](https://github.com/Live-Hack-CVE/CVE-2019-4083)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4083">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4083">
+
+---
+## CVE-2019-4075 (2019-04-25T15:29:00)
+> IBM Sterling B2B Integrator Standard Edition 6.0.0.0 and 6.0.0.1 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 157109.
+- [Live-Hack-CVE/CVE-2019-4075](https://github.com/Live-Hack-CVE/CVE-2019-4075)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4075">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4075">
 
 ---
 ## CVE-2019-4073 (2019-04-25T15:29:00)
