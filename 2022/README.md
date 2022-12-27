@@ -9969,6 +9969,7 @@
 ## CVE-2022-37061 (2022-08-18T18:15:00)
 > All FLIR AX8 thermal sensor cameras version up to and including 1.46.16 are vulnerable to Remote Command Injection. This can be exploited to inject and execute arbitrary shell commands as the root user through the id HTTP POST parameter in the res.php endpoint. A successful exploit could allow the attacker to execute arbitrary commands on the underlying operating system with the root privileges.
 - [Live-Hack-CVE/CVE-2022-37061](https://github.com/Live-Hack-CVE/CVE-2022-37061)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37061">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37061">
+- [Live-Hack-CVE/CVE-2022-37061](https://github.com/Live-Hack-CVE/CVE-2022-37061)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37061">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37061">
 
 ---
 ## CVE-2022-3706 (2022-11-10T00:15:00)
@@ -10392,9 +10393,24 @@
 - [Live-Hack-CVE/CVE-2022-3661](https://github.com/Live-Hack-CVE/CVE-2022-3661)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3661">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3661">
 
 ---
+## CVE-2022-3660 (2022-11-01T23:15:00)
+> Inappropriate implementation in Full screen mode in Google Chrome on Android prior to 107.0.5304.62 allowed a remote attacker to hide the contents of the Omnibox (URL bar) via a crafted HTML page. (Chromium security severity: Medium)
+- [Live-Hack-CVE/CVE-2022-3660](https://github.com/Live-Hack-CVE/CVE-2022-3660)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3660">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3660">
+
+---
 ## CVE-2022-36593 (2022-09-02T04:15:00)
 > kkFileView v4.0.0 was discovered to contain an arbitrary file deletion vulnerability via the fileName parameter at /controller/FileController.java.
 - [Live-Hack-CVE/CVE-2022-36593](https://github.com/Live-Hack-CVE/CVE-2022-36593)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36593">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36593">
+
+---
+## CVE-2022-3659 (2022-11-01T23:15:00)
+> Use after free in Accessibility in Google Chrome on Chrome OS prior to 107.0.5304.62 allowed a remote attacker who convinced a user to engage in specific UI interactions to potentially exploit heap corruption via specific UI interactions. (Chromium security severity: Medium)
+- [Live-Hack-CVE/CVE-2022-3659](https://github.com/Live-Hack-CVE/CVE-2022-3659)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3659">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3659">
+
+---
+## CVE-2022-3658 (2022-11-01T23:15:00)
+> Use after free in Feedback service on Chrome OS in Google Chrome on Chrome OS prior to 107.0.5304.62 allowed an attacker who convinced a user to install a malicious extension to potentially exploit heap corruption via specific UI interaction. (Chromium security severity: Medium)
+- [Live-Hack-CVE/CVE-2022-3658](https://github.com/Live-Hack-CVE/CVE-2022-3658)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3658">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3658">
 
 ---
 ## CVE-2022-36573 (2022-08-29T00:15:00)
@@ -10402,8 +10418,14 @@
 - [Live-Hack-CVE/CVE-2022-36573](https://github.com/Live-Hack-CVE/CVE-2022-36573)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36573">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36573">
 
 ---
+## CVE-2022-3657 (2022-11-01T23:15:00)
+> Use after free in Extensions in Google Chrome prior to 107.0.5304.62 allowed an attacker who convinced a user to install a malicious extension to potentially exploit heap corruption via a crafted Chrome Extension. (Chromium security severity: Medium)
+- [Live-Hack-CVE/CVE-2022-3657](https://github.com/Live-Hack-CVE/CVE-2022-3657)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3657">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3657">
+
+---
 ## CVE-2022-3656 (2022-11-01T23:15:00)
 > Insufficient data validation in File System in Google Chrome prior to 107.0.5304.62 allowed a remote attacker to bypass file system restrictions via a crafted HTML page. (Chromium security severity: Medium)
+- [Live-Hack-CVE/CVE-2022-3656](https://github.com/Live-Hack-CVE/CVE-2022-3656)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3656">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3656">
 - [Live-Hack-CVE/CVE-2022-3656](https://github.com/Live-Hack-CVE/CVE-2022-3656)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3656">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3656">
 
 ---
@@ -12459,6 +12481,7 @@
 ## CVE-2022-3444 (2022-11-01T20:15:00)
 > Insufficient data validation in File System API in Google Chrome prior to 106.0.5249.62 allowed a remote attacker to bypass File System restrictions via a crafted HTML page and malicious file. (Chromium security severity: Low)
 - [Live-Hack-CVE/CVE-2022-3444](https://github.com/Live-Hack-CVE/CVE-2022-3444)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3444">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3444">
+- [Live-Hack-CVE/CVE-2022-3444](https://github.com/Live-Hack-CVE/CVE-2022-3444)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3444">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3444">
 
 ---
 ## CVE-2022-34439 (2022-10-21T18:15:00)
@@ -12483,6 +12506,7 @@
 ---
 ## CVE-2022-3443 (2022-11-01T20:15:00)
 > Insufficient data validation in File System API in Google Chrome prior to 106.0.5249.62 allowed a remote attacker to bypass File System restrictions via a crafted HTML page. (Chromium security severity: Low)
+- [Live-Hack-CVE/CVE-2022-3443](https://github.com/Live-Hack-CVE/CVE-2022-3443)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3443">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3443">
 - [Live-Hack-CVE/CVE-2022-3443](https://github.com/Live-Hack-CVE/CVE-2022-3443)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3443">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3443">
 
 ---
@@ -12955,6 +12979,7 @@
 > Insufficient validation of untrusted input in Intents in Google Chrome on Android prior to 106.0.5249.62 allowed a remote attacker to bypass navigation restrictions via a crafted HTML page. (Chromium security severity: Low)
 - [Live-Hack-CVE/CVE-2022-3317](https://github.com/Live-Hack-CVE/CVE-2022-3317)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3317">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3317">
 - [Henry4E36/CVE-2022-33174](https://github.com/Henry4E36/CVE-2022-33174)	<img alt="forks" src="https://img.shields.io/github/forks/Henry4E36/CVE-2022-33174">	<img alt="stars" src="https://img.shields.io/github/stars/Henry4E36/CVE-2022-33174">
+- [Live-Hack-CVE/CVE-2022-3317](https://github.com/Live-Hack-CVE/CVE-2022-3317)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3317">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3317">
 
 ---
 ## CVE-2022-3315 (2022-11-01T20:15:00)

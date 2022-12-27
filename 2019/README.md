@@ -580,10 +580,12 @@
 ## CVE-2019-4135 (2019-06-25T16:15:00)
 > IBM Security Access Manager 9.0.1 through 9.0.6 is affected by a security vulnerability that could allow authenticated users to impersonate other users. IBM X-Force ID: 158331.
 - [Live-Hack-CVE/CVE-2019-4135](https://github.com/Live-Hack-CVE/CVE-2019-4135)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4135">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4135">
+- [Live-Hack-CVE/CVE-2019-4135](https://github.com/Live-Hack-CVE/CVE-2019-4135)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4135">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4135">
 
 ---
 ## CVE-2019-4134 (2019-07-02T15:15:00)
 > IBM Planning Analytics 2.0 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 158281.
+- [Live-Hack-CVE/CVE-2019-4134](https://github.com/Live-Hack-CVE/CVE-2019-4134)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4134">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4134">
 - [Live-Hack-CVE/CVE-2019-4134](https://github.com/Live-Hack-CVE/CVE-2019-4134)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4134">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4134">
 
 ---
@@ -620,35 +622,42 @@
 ## CVE-2019-4115 (2019-09-30T16:15:00)
 > IBM WebSphere eXtreme Scale 8.6 Admin API is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 158113.
 - [Live-Hack-CVE/CVE-2019-4115](https://github.com/Live-Hack-CVE/CVE-2019-4115)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4115">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4115">
+- [Live-Hack-CVE/CVE-2019-4115](https://github.com/Live-Hack-CVE/CVE-2019-4115)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4115">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4115">
 
 ---
 ## CVE-2019-4112 (2019-09-30T16:15:00)
 > IBM WebSphere eXtreme Scale 8.6 Admin Console allows web pages to be stored locally which can be read by another user on the system. IBM X-Force ID: 158105.
+- [Live-Hack-CVE/CVE-2019-4112](https://github.com/Live-Hack-CVE/CVE-2019-4112)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4112">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4112">
 - [Live-Hack-CVE/CVE-2019-4112](https://github.com/Live-Hack-CVE/CVE-2019-4112)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4112">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4112">
 
 ---
 ## CVE-2019-4109 (2019-09-30T16:15:00)
 > IBM WebSphere eXtreme Scale 8.6 Admin Console could allow a remote attacker to hijack the clicking action of the victim. By persuading a victim to visit a malicious Web site, a remote attacker could exploit this vulnerability to hijack the victim's click actions and possibly launch further attacks against the victim. IBM X-Force ID: 158102.
 - [Live-Hack-CVE/CVE-2019-4109](https://github.com/Live-Hack-CVE/CVE-2019-4109)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4109">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4109">
+- [Live-Hack-CVE/CVE-2019-4109](https://github.com/Live-Hack-CVE/CVE-2019-4109)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4109">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4109">
 
 ---
 ## CVE-2019-4106 (2019-09-30T16:15:00)
 > IBM WebSphere eXtreme Scale 8.6 Admin Console is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 158099.
+- [Live-Hack-CVE/CVE-2019-4106](https://github.com/Live-Hack-CVE/CVE-2019-4106)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4106">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4106">
 - [Live-Hack-CVE/CVE-2019-4106](https://github.com/Live-Hack-CVE/CVE-2019-4106)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4106">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4106">
 
 ---
 ## CVE-2019-4086 (2019-09-17T19:15:00)
 > IBM Cloud Application Performance Management 8.1.4 could allow a remote attacker to hijack the clicking action of the victim. By persuading a victim to visit a malicious Web site, a remote attacker could exploit this vulnerability to hijack the victim's click actions and possibly launch further attacks against the victim. IBM X-Force ID: 157509.
 - [Live-Hack-CVE/CVE-2019-4086](https://github.com/Live-Hack-CVE/CVE-2019-4086)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4086">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4086">
+- [Live-Hack-CVE/CVE-2019-4086](https://github.com/Live-Hack-CVE/CVE-2019-4086)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4086">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4086">
 
 ---
 ## CVE-2019-4084 (2019-06-27T14:15:00)
 > IBM Jazz Foundation products (IBM Rational Collaborative Lifecycle Management 6.0 through 6.0.6.1) could allow an authenticated user to obtain sensitive information from CLM Applications that could be used in further attacks against the system. IBM X-Force ID: 157384.
 - [Live-Hack-CVE/CVE-2019-4084](https://github.com/Live-Hack-CVE/CVE-2019-4084)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4084">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4084">
+- [Live-Hack-CVE/CVE-2019-4084](https://github.com/Live-Hack-CVE/CVE-2019-4084)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4084">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4084">
 
 ---
 ## CVE-2019-4083 (2019-06-27T14:15:00)
 > IBM Jazz Foundation products (IBM Rational Collaborative Lifecycle Management 6.0 through 6.0.6.1) is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 157383.
+- [Live-Hack-CVE/CVE-2019-4083](https://github.com/Live-Hack-CVE/CVE-2019-4083)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4083">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4083">
 - [Live-Hack-CVE/CVE-2019-4083](https://github.com/Live-Hack-CVE/CVE-2019-4083)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4083">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4083">
 
 ---

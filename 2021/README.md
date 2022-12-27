@@ -519,20 +519,24 @@
 ## CVE-2021-43545 (2021-12-08T22:15:00)
 > Using the Location API in a loop could have caused severe application hangs and crashes. This vulnerability affects Thunderbird < 91.4.0, Firefox ESR < 91.4.0, and Firefox < 95.
 - [Live-Hack-CVE/CVE-2021-43545](https://github.com/Live-Hack-CVE/CVE-2021-43545)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43545">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43545">
+- [Live-Hack-CVE/CVE-2021-43545](https://github.com/Live-Hack-CVE/CVE-2021-43545)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43545">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43545">
 
 ---
 ## CVE-2021-43543 (2021-12-08T22:15:00)
 > Documents loaded with the CSP sandbox directive could have escaped the sandbox's script restriction by embedding additional content. This vulnerability affects Thunderbird < 91.4.0, Firefox ESR < 91.4.0, and Firefox < 95.
+- [Live-Hack-CVE/CVE-2021-43543](https://github.com/Live-Hack-CVE/CVE-2021-43543)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43543">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43543">
 - [Live-Hack-CVE/CVE-2021-43543](https://github.com/Live-Hack-CVE/CVE-2021-43543)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43543">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43543">
 
 ---
 ## CVE-2021-43542 (2021-12-08T22:15:00)
 > Using XMLHttpRequest, an attacker could have identified installed applications by probing error messages for loading external protocols. This vulnerability affects Thunderbird < 91.4.0, Firefox ESR < 91.4.0, and Firefox < 95.
 - [Live-Hack-CVE/CVE-2021-43542](https://github.com/Live-Hack-CVE/CVE-2021-43542)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43542">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43542">
+- [Live-Hack-CVE/CVE-2021-43542](https://github.com/Live-Hack-CVE/CVE-2021-43542)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43542">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43542">
 
 ---
 ## CVE-2021-43537 (2021-12-08T22:15:00)
 > An incorrect type conversion of sizes from 64bit to 32bit integers allowed an attacker to corrupt memory leading to a potentially exploitable crash. This vulnerability affects Thunderbird < 91.4.0, Firefox ESR < 91.4.0, and Firefox < 95.
+- [Live-Hack-CVE/CVE-2021-43537](https://github.com/Live-Hack-CVE/CVE-2021-43537)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43537">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43537">
 - [Live-Hack-CVE/CVE-2021-43537](https://github.com/Live-Hack-CVE/CVE-2021-43537)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43537">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43537">
 
 ---
@@ -543,6 +547,7 @@
 ---
 ## CVE-2021-43528 (2021-12-08T22:15:00)
 > Thunderbird unexpectedly enabled JavaScript in the composition area. The JavaScript execution context was limited to this area and did not receive chrome-level privileges, but could be used as a stepping stone to further an attack with other vulnerabilities. This vulnerability affects Thunderbird < 91.4.0.
+- [Live-Hack-CVE/CVE-2021-43528](https://github.com/Live-Hack-CVE/CVE-2021-43528)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43528">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43528">
 - [Live-Hack-CVE/CVE-2021-43528](https://github.com/Live-Hack-CVE/CVE-2021-43528)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43528">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43528">
 
 ---
@@ -1306,6 +1311,7 @@
 ## CVE-2021-40529 (2021-09-06T19:15:00)
 > The ElGamal implementation in Botan through 2.18.1, as used in Thunderbird and other products, allows plaintext recovery because, during interaction between two cryptographic libraries, a certain dangerous combination of the prime defined by the receiver's public key, the generator defined by the receiver's public key, and the sender's ephemeral exponents can lead to a cross-configuration attack against OpenPGP.
 - [Live-Hack-CVE/CVE-2021-40529](https://github.com/Live-Hack-CVE/CVE-2021-40529)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40529">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40529">
+- [Live-Hack-CVE/CVE-2021-40529](https://github.com/Live-Hack-CVE/CVE-2021-40529)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40529">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40529">
 
 ---
 ## CVE-2021-40496 (2021-10-12T15:15:00)
@@ -1808,25 +1814,30 @@
 ## CVE-2021-38509 (2021-12-08T22:15:00)
 > Due to an unusual sequence of attacker-controlled events, a Javascript alert() dialog with arbitrary (although unstyled) contents could be displayed over top an uncontrolled webpage of the attacker's choosing. This vulnerability affects Firefox < 94, Thunderbird < 91.3, and Firefox ESR < 91.3.
 - [Live-Hack-CVE/CVE-2021-38509](https://github.com/Live-Hack-CVE/CVE-2021-38509)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38509">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38509">
+- [Live-Hack-CVE/CVE-2021-38509](https://github.com/Live-Hack-CVE/CVE-2021-38509)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38509">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38509">
 
 ---
 ## CVE-2021-38508 (2021-12-08T22:15:00)
 > By displaying a form validity message in the correct location at the same time as a permission prompt (such as for geolocation), the validity message could have obscured the prompt, resulting in the user potentially being tricked into granting the permission. This vulnerability affects Firefox < 94, Thunderbird < 91.3, and Firefox ESR < 91.3.
+- [Live-Hack-CVE/CVE-2021-38508](https://github.com/Live-Hack-CVE/CVE-2021-38508)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38508">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38508">
 - [Live-Hack-CVE/CVE-2021-38508](https://github.com/Live-Hack-CVE/CVE-2021-38508)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38508">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38508">
 
 ---
 ## CVE-2021-38506 (2021-12-08T22:15:00)
 > Through a series of navigations, Firefox could have entered fullscreen mode without notification or warning to the user. This could lead to spoofing attacks on the browser UI including phishing. This vulnerability affects Firefox < 94, Thunderbird < 91.3, and Firefox ESR < 91.3.
 - [Live-Hack-CVE/CVE-2021-38506](https://github.com/Live-Hack-CVE/CVE-2021-38506)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38506">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38506">
+- [Live-Hack-CVE/CVE-2021-38506](https://github.com/Live-Hack-CVE/CVE-2021-38506)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38506">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38506">
 
 ---
 ## CVE-2021-38504 (2021-12-08T22:15:00)
 > When interacting with an HTML input element's file picker dialog with webkitdirectory set, a use-after-free could have resulted, leading to memory corruption and a potentially exploitable crash. This vulnerability affects Firefox < 94, Thunderbird < 91.3, and Firefox ESR < 91.3.
 - [Live-Hack-CVE/CVE-2021-38504](https://github.com/Live-Hack-CVE/CVE-2021-38504)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38504">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38504">
+- [Live-Hack-CVE/CVE-2021-38504](https://github.com/Live-Hack-CVE/CVE-2021-38504)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38504">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38504">
 
 ---
 ## CVE-2021-38503 (2021-12-08T22:15:00)
 > The iframe sandbox rules were not correctly applied to XSLT stylesheets, allowing an iframe to bypass restrictions such as executing scripts or navigating the top-level frame. This vulnerability affects Firefox < 94, Thunderbird < 91.3, and Firefox ESR < 91.3.
+- [Live-Hack-CVE/CVE-2021-38503](https://github.com/Live-Hack-CVE/CVE-2021-38503)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38503">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38503">
 - [Live-Hack-CVE/CVE-2021-38503](https://github.com/Live-Hack-CVE/CVE-2021-38503)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38503">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38503">
 
 ---
