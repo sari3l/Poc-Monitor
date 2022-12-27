@@ -765,6 +765,7 @@
 ## CVE-2021-4245 (2022-12-15T20:15:00)
 > A vulnerability classified as problematic has been found in chbrown rfc6902. This affects an unknown part of the file pointer.ts. The manipulation leads to improperly controlled modification of object prototype attributes ('prototype pollution'). The exploit has been disclosed to the public and may be used. The name of the patch is c006ce9faa43d31edb34924f1df7b79c137096cf. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-215883.
 - [Live-Hack-CVE/CVE-2021-4245](https://github.com/Live-Hack-CVE/CVE-2021-4245)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4245">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4245">
+- [Live-Hack-CVE/CVE-2021-4245](https://github.com/Live-Hack-CVE/CVE-2021-4245)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4245">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4245">
 
 ---
 ## CVE-2021-42392 (2022-01-10T14:10:00)
@@ -2329,6 +2330,7 @@
 ## CVE-2021-35252 (2022-12-16T16:15:00)
 > Common encryption key appears to be used across all deployed instances of Serv-U FTP Server. Because of this an encrypted value that is exposed to an attacker can be simply recovered to plaintext.
 - [Live-Hack-CVE/CVE-2021-35252](https://github.com/Live-Hack-CVE/CVE-2021-35252)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35252">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35252">
+- [Live-Hack-CVE/CVE-2021-35252](https://github.com/Live-Hack-CVE/CVE-2021-35252)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35252">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35252">
 
 ---
 ## CVE-2021-35249 (2022-05-17T20:15:00)
@@ -3200,6 +3202,7 @@
 ---
 ## CVE-2021-28655 (2022-12-16T13:15:00)
 > The improper Input Validation vulnerability in "”Move folder to Trash” feature of Apache Zeppelin allows an attacker to delete the arbitrary files. This issue affects Apache Zeppelin Apache Zeppelin version 0.9.0 and prior versions.
+- [Live-Hack-CVE/CVE-2021-28655](https://github.com/Live-Hack-CVE/CVE-2021-28655)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28655">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28655">
 - [Live-Hack-CVE/CVE-2021-28655](https://github.com/Live-Hack-CVE/CVE-2021-28655)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28655">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28655">
 
 ---
