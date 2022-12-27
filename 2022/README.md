@@ -455,6 +455,11 @@
 - [Live-Hack-CVE/CVE-2022-46641](https://github.com/Live-Hack-CVE/CVE-2022-46641)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46641">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46641">
 
 ---
+## CVE-2022-4662 (2022-12-22T22:15:00)
+> A flaw incorrect access control in the Linux kernel USB core subsystem was found in the way user attaches usb device. A local user could use this flaw to crash the system.
+- [Live-Hack-CVE/CVE-2022-4662](https://github.com/Live-Hack-CVE/CVE-2022-4662)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4662">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4662">
+
+---
 ## CVE-2022-46551 (2022-12-20T15:15:00)
 > Tenda F1203 V2.0.1.6 was discovered to contain a buffer overflow via the time parameter at /goform/saveParentControlInfo.
 - [Live-Hack-CVE/CVE-2022-46551](https://github.com/Live-Hack-CVE/CVE-2022-46551)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46551">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46551">
@@ -2256,6 +2261,66 @@
 - [Live-Hack-CVE/CVE-2022-43672](https://github.com/Live-Hack-CVE/CVE-2022-43672)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43672">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43672">
 
 ---
+## CVE-2022-43603 (2022-12-22T22:15:00)
+> A denial of service vulnerability exists in the ZfileOutput::close() functionality of OpenImageIO Project OpenImageIO v2.4.4.2. A specially crafted ImageOutput Object can lead to denial of service. An attacker can provide a malicious file to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-43603](https://github.com/Live-Hack-CVE/CVE-2022-43603)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43603">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43603">
+
+---
+## CVE-2022-43602 (2022-12-22T22:15:00)
+> Multiple code execution vulnerabilities exist in the IFFOutput::close() functionality of OpenImageIO Project OpenImageIO v2.4.4.2. A specially crafted ImageOutput Object can lead to a heap buffer overflow. An attacker can provide malicious input to trigger these vulnerabilities.This vulnerability arises when the `ymax` variable is set to 0xFFFF and `m_spec.format` is `TypeDesc::UINT8`
+- [Live-Hack-CVE/CVE-2022-43602](https://github.com/Live-Hack-CVE/CVE-2022-43602)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43602">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43602">
+
+---
+## CVE-2022-43601 (2022-12-22T22:15:00)
+> Multiple code execution vulnerabilities exist in the IFFOutput::close() functionality of OpenImageIO Project OpenImageIO v2.4.4.2. A specially crafted ImageOutput Object can lead to a heap buffer overflow. An attacker can provide malicious input to trigger these vulnerabilities.This vulnerability arises when the `ymax` variable is set to 0xFFFF and `m_spec.format` is `TypeDesc::UINT16`
+- [Live-Hack-CVE/CVE-2022-43601](https://github.com/Live-Hack-CVE/CVE-2022-43601)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43601">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43601">
+
+---
+## CVE-2022-43600 (2022-12-22T22:15:00)
+> Multiple code execution vulnerabilities exist in the IFFOutput::close() functionality of OpenImageIO Project OpenImageIO v2.4.4.2. A specially crafted ImageOutput Object can lead to a heap buffer overflow. An attacker can provide malicious input to trigger these vulnerabilities.This vulnerability arises when the `xmax` variable is set to 0xFFFF and `m_spec.format` is `TypeDesc::UINT16`
+- [Live-Hack-CVE/CVE-2022-43600](https://github.com/Live-Hack-CVE/CVE-2022-43600)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43600">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43600">
+
+---
+## CVE-2022-43599 (2022-12-22T22:15:00)
+> Multiple code execution vulnerabilities exist in the IFFOutput::close() functionality of OpenImageIO Project OpenImageIO v2.4.4.2. A specially crafted ImageOutput Object can lead to a heap buffer overflow. An attacker can provide malicious input to trigger these vulnerabilities.This vulnerability arises when the `xmax` variable is set to 0xFFFF and `m_spec.format` is `TypeDesc::UINT8`
+- [Live-Hack-CVE/CVE-2022-43599](https://github.com/Live-Hack-CVE/CVE-2022-43599)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43599">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43599">
+
+---
+## CVE-2022-43598 (2022-12-22T22:15:00)
+> Multiple memory corruption vulnerabilities exist in the IFFOutput alignment padding functionality of OpenImageIO Project OpenImageIO v2.4.4.2. A specially crafted ImageOutput Object can lead to arbitrary code execution. An attacker can provide malicious input to trigger these vulnerabilities.This vulnerability arises when the `m_spec.format` is `TypeDesc::UINT16`.
+- [Live-Hack-CVE/CVE-2022-43598](https://github.com/Live-Hack-CVE/CVE-2022-43598)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43598">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43598">
+
+---
+## CVE-2022-43597 (2022-12-22T22:15:00)
+> Multiple memory corruption vulnerabilities exist in the IFFOutput alignment padding functionality of OpenImageIO Project OpenImageIO v2.4.4.2. A specially crafted ImageOutput Object can lead to arbitrary code execution. An attacker can provide malicious input to trigger these vulnerabilities.This vulnerability arises when the `m_spec.format` is `TypeDesc::UINT8`.
+- [Live-Hack-CVE/CVE-2022-43597](https://github.com/Live-Hack-CVE/CVE-2022-43597)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43597">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43597">
+
+---
+## CVE-2022-43596 (2022-12-22T22:15:00)
+> An information disclosure vulnerability exists in the IFFOutput channel interleaving functionality of OpenImageIO Project OpenImageIO v2.4.4.2. A specially crafted ImageOutput Object can lead to leaked heap data. An attacker can provide malicious input to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-43596](https://github.com/Live-Hack-CVE/CVE-2022-43596)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43596">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43596">
+
+---
+## CVE-2022-43595 (2022-12-22T22:15:00)
+> Multiple denial of service vulnerabilities exist in the image output closing functionality of OpenImageIO Project OpenImageIO v2.4.4.2. Specially crafted ImageOutput Objects can lead to multiple null pointer dereferences. An attacker can provide malicious multiple inputs to trigger these vulnerabilities.This vulnerability applies to writing .fits files.
+- [Live-Hack-CVE/CVE-2022-43595](https://github.com/Live-Hack-CVE/CVE-2022-43595)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43595">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43595">
+
+---
+## CVE-2022-43594 (2022-12-22T22:15:00)
+> Multiple denial of service vulnerabilities exist in the image output closing functionality of OpenImageIO Project OpenImageIO v2.4.4.2. Specially crafted ImageOutput Objects can lead to multiple null pointer dereferences. An attacker can provide malicious multiple inputs to trigger these vulnerabilities.This vulnerability applies to writing .bmp files.
+- [Live-Hack-CVE/CVE-2022-43594](https://github.com/Live-Hack-CVE/CVE-2022-43594)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43594">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43594">
+
+---
+## CVE-2022-43593 (2022-12-22T22:15:00)
+> A denial of service vulnerability exists in the DPXOutput::close() functionality of OpenImageIO Project OpenImageIO v2.4.4.2. A specially crafted ImageOutput Object can lead to null pointer dereference. An attacker can provide malicious input to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-43593](https://github.com/Live-Hack-CVE/CVE-2022-43593)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43593">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43593">
+
+---
+## CVE-2022-43592 (2022-12-22T22:15:00)
+> An information disclosure vulnerability exists in the DPXOutput::close() functionality of OpenImageIO Project OpenImageIO v2.4.4.2. A specially crafted ImageOutput Object can lead to leaked heap data. An attacker can provide malicious input to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-43592](https://github.com/Live-Hack-CVE/CVE-2022-43592)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43592">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43592">
+
+---
 ## CVE-2022-43581 (2022-12-07T18:15:00)
 > IBM Content Navigator 3.0.0, 3.0.1, 3.0.2, 3.0.3, 3.0.4, 3.0.5, 3.0.6, 3.0.7, 3.0.8, 3.0.9, 3.0.10, 3.0.11, and 3.0.12 is vulnerable to missing authorization and could allow an authenticated user to load external plugins and execute code. IBM X-Force ID: 238805.
 - [Live-Hack-CVE/CVE-2022-43581](https://github.com/Live-Hack-CVE/CVE-2022-43581)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43581">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43581">
@@ -3709,6 +3774,11 @@
 - [Live-Hack-CVE/CVE-2022-42029](https://github.com/Live-Hack-CVE/CVE-2022-42029)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42029">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42029">
 
 ---
+## CVE-2022-41999 (2022-12-22T22:15:00)
+> A denial of service vulnerability exists in the DDS native tile reading functionality of OpenImageIO Project OpenImageIO v2.3.19.0 and v2.4.4.2. A specially-crafted .dds can lead to denial of service. An attacker can provide a malicious file to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-41999](https://github.com/Live-Hack-CVE/CVE-2022-41999)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41999">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41999">
+
+---
 ## CVE-2022-41994 (2022-12-07T04:15:00)
 > Stored cross-site scripting vulnerability in Permission Settings of baserCMS versions prior to 4.7.2 allows a remote authenticated attacker with an administrative privilege to inject an arbitrary script.
 - [Live-Hack-CVE/CVE-2022-41994](https://github.com/Live-Hack-CVE/CVE-2022-41994)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41994">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41994">
@@ -4176,6 +4246,11 @@
 - [Live-Hack-CVE/CVE-2022-41685](https://github.com/Live-Hack-CVE/CVE-2022-41685)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41685">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41685">
 
 ---
+## CVE-2022-41684 (2022-12-22T22:15:00)
+> A heap out of bounds read vulnerability exists in the OpenImageIO master-branch-9aeece7a when parsing the image file directory part of a PSD image file. A specially-crafted .psd file can cause a read of arbitrary memory address which can lead to denial of service. An attacker can provide a malicious file to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-41684](https://github.com/Live-Hack-CVE/CVE-2022-41684)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41684">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41684">
+
+---
 ## CVE-2022-4166 (2022-12-26T13:15:00)
 > The Contest Gallery WordPress plugin before 19.1.5.1, Contest Gallery Pro WordPress plugin before 19.1.5.1 do not escape the addCountS POST parameter before concatenating it to an SQL query in 4_activate.php. This may allow malicious users with at least author privilege to leak sensitive information from the site's database.
 - [Live-Hack-CVE/CVE-2022-4166](https://github.com/Live-Hack-CVE/CVE-2022-4166)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4166">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4166">
@@ -4214,6 +4289,11 @@
 ## CVE-2022-4164 (2022-12-26T13:15:00)
 > The Contest Gallery WordPress plugin before 19.1.5.1, Contest Gallery Pro WordPress plugin before 19.1.5.1 do not escape the cg_multiple_files_for_post POST parameter before concatenating it to an SQL query in 0_change-gallery.php. This may allow malicious users with at least author privilege to leak sensitive information from the site's database.
 - [Live-Hack-CVE/CVE-2022-4164](https://github.com/Live-Hack-CVE/CVE-2022-4164)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4164">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4164">
+
+---
+## CVE-2022-41639 (2022-12-22T22:15:00)
+> A heap based buffer overflow vulnerability exists in tile decoding code of TIFF image parser in OpenImageIO master-branch-9aeece7a and v2.3.19.0. A specially-crafted TIFF file can lead to an out of bounds memory corruption, which can result in arbitrary code execution. An attacker can provide a malicious file to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-41639](https://github.com/Live-Hack-CVE/CVE-2022-41639)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41639">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41639">
 
 ---
 ## CVE-2022-41638 (2022-10-21T16:15:00)
@@ -5780,6 +5860,11 @@
 > ** DISPUTED ** UBports Ubuntu Touch 16.04 allows the screen-unlock passcode to be used for a privileged shell via Sudo. This passcode is only four digits, far below typical length/complexity for a user account's password. NOTE: a third party states "The described attack cannot be executed as demonstrated."
 - [Live-Hack-CVE/CVE-2022-40297](https://github.com/Live-Hack-CVE/CVE-2022-40297)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40297">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40297">
 - [filipkarc/PoC-ubuntutouch-pin-privesc](https://github.com/filipkarc/PoC-ubuntutouch-pin-privesc)	<img alt="forks" src="https://img.shields.io/github/forks/filipkarc/PoC-ubuntutouch-pin-privesc">	<img alt="stars" src="https://img.shields.io/github/stars/filipkarc/PoC-ubuntutouch-pin-privesc">
+
+---
+## CVE-2022-40284 (2022-11-06T23:15:00)
+> A buffer overflow was discovered in NTFS-3G before 2022.10.3. Crafted metadata in an NTFS image can cause code execution. A local attacker can exploit this if the ntfs-3g binary is setuid root. A physically proximate attacker can exploit this if NTFS-3G software is configured to execute upon attachment of an external storage device.
+- [Live-Hack-CVE/CVE-2022-40284](https://github.com/Live-Hack-CVE/CVE-2022-40284)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40284">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40284">
 
 ---
 ## CVE-2022-40281 (2022-09-08T22:15:00)
@@ -7710,6 +7795,11 @@
 - [Live-Hack-CVE/CVE-2022-38146](https://github.com/Live-Hack-CVE/CVE-2022-38146)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38146">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38146">
 
 ---
+## CVE-2022-38143 (2022-12-22T22:15:00)
+> A heap out-of-bounds write vulnerability exists in the way OpenImageIO v2.3.19.0 processes RLE encoded BMP images. A specially-crafted bmp file can write to arbitrary out of bounds memory, which can lead to arbitrary code execution. An attacker can provide a malicious file to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-38143](https://github.com/Live-Hack-CVE/CVE-2022-38143)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38143">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38143">
+
+---
 ## CVE-2022-38139 (2022-09-13T14:15:00)
 > Multiple Cross-Site Request Forgery (CSRF) vulnerabilities in RD Station plugin <= 5.2.0 at WordPress.
 - [Live-Hack-CVE/CVE-2022-38139](https://github.com/Live-Hack-CVE/CVE-2022-38139)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38139">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38139">
@@ -9570,6 +9660,11 @@
 - [Live-Hack-CVE/CVE-2022-36365](https://github.com/Live-Hack-CVE/CVE-2022-36365)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36365">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36365">
 
 ---
+## CVE-2022-36354 (2022-12-22T22:15:00)
+> A heap out-of-bounds read vulnerability exists in the RLA format parser of OpenImageIO master-branch-9aeece7a and v2.3.19.0. More specifically, in the way run-length encoded byte spans are handled. A malformed RLA file can lead to an out-of-bounds read of heap metadata which can result in sensitive information leak. An attacker can provide a malicious file to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-36354](https://github.com/Live-Hack-CVE/CVE-2022-36354)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36354">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36354">
+
+---
 ## CVE-2022-3635 (2022-10-21T11:15:00)
 > A vulnerability, which was classified as critical, has been found in Linux Kernel. Affected by this issue is the function tst_timer of the file drivers/atm/idt77252.c of the component IPsec. The manipulation leads to use after free. It is recommended to apply a patch to fix this issue. VDB-211934 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-3635](https://github.com/Live-Hack-CVE/CVE-2022-3635)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3635">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3635">
@@ -10522,6 +10617,56 @@
 ## CVE-2022-35276 (2022-11-11T16:15:00)
 > Improper access control in BIOS firmware for some Intel(R) NUC 8 Compute Elements before version CBWHL357.0096 may allow a privileged user to potentially enable escalation of privilege via local access.
 - [Live-Hack-CVE/CVE-2022-35276](https://github.com/Live-Hack-CVE/CVE-2022-35276)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35276">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35276">
+
+---
+## CVE-2022-35270 (2022-10-25T17:15:00)
+> A denial of service vulnerability exists in the web_server hashFirst functionality of Robustel R1510 3.1.16 and 3.3.0. A specially-crafted network request can lead to denial of service. An attacker can send a sequence of requests to trigger this vulnerability.This denial of service is in the `/action/import_wireguard_cert_file/` API.
+- [Live-Hack-CVE/CVE-2022-35270](https://github.com/Live-Hack-CVE/CVE-2022-35270)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35270">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35270">
+
+---
+## CVE-2022-35269 (2022-10-25T17:15:00)
+> A denial of service vulnerability exists in the web_server hashFirst functionality of Robustel R1510 3.1.16 and 3.3.0. A specially-crafted network request can lead to denial of service. An attacker can send a sequence of requests to trigger this vulnerability.This denial of service is in the `/action/import_e2c_json_file/` API.
+- [Live-Hack-CVE/CVE-2022-35269](https://github.com/Live-Hack-CVE/CVE-2022-35269)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35269">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35269">
+
+---
+## CVE-2022-35268 (2022-10-25T17:15:00)
+> A denial of service vulnerability exists in the web_server hashFirst functionality of Robustel R1510 3.1.16 and 3.3.0. A specially-crafted network request can lead to denial of service. An attacker can send a sequence of requests to trigger this vulnerability.This denial of service is in the `/action/import_sdk_file/` API.
+- [Live-Hack-CVE/CVE-2022-35268](https://github.com/Live-Hack-CVE/CVE-2022-35268)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35268">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35268">
+
+---
+## CVE-2022-35267 (2022-10-25T17:15:00)
+> A denial of service vulnerability exists in the web_server hashFirst functionality of Robustel R1510 3.1.16 and 3.3.0. A specially-crafted network request can lead to denial of service. An attacker can send a sequence of requests to trigger this vulnerability.This denial of service is in the `/action/import_https_cert_file/` API.
+- [Live-Hack-CVE/CVE-2022-35267](https://github.com/Live-Hack-CVE/CVE-2022-35267)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35267">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35267">
+
+---
+## CVE-2022-35266 (2022-10-25T17:15:00)
+> A denial of service vulnerability exists in the web_server hashFirst functionality of Robustel R1510 3.1.16 and 3.3.0. A specially-crafted network request can lead to denial of service. An attacker can send a sequence of requests to trigger this vulnerability.This denial of service is in the `/action/import_firmware/` API.
+- [Live-Hack-CVE/CVE-2022-35266](https://github.com/Live-Hack-CVE/CVE-2022-35266)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35266">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35266">
+
+---
+## CVE-2022-35265 (2022-10-25T17:15:00)
+> A denial of service vulnerability exists in the web_server hashFirst functionality of Robustel R1510 3.1.16 and 3.3.0. A specially-crafted network request can lead to denial of service. An attacker can send a sequence of requests to trigger this vulnerability.This denial of service is in the `/action/import_nodejs_app/` API.
+- [Live-Hack-CVE/CVE-2022-35265](https://github.com/Live-Hack-CVE/CVE-2022-35265)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35265">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35265">
+
+---
+## CVE-2022-35264 (2022-10-25T17:15:00)
+> A denial of service vulnerability exists in the web_server hashFirst functionality of Robustel R1510 3.1.16 and 3.3.0. A specially-crafted network request can lead to denial of service. An attacker can send a sequence of requests to trigger this vulnerability.This denial of service is in the `/action/import_aaa_cert_file/` API.
+- [Live-Hack-CVE/CVE-2022-35264](https://github.com/Live-Hack-CVE/CVE-2022-35264)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35264">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35264">
+
+---
+## CVE-2022-35263 (2022-10-25T17:15:00)
+> A denial of service vulnerability exists in the web_server hashFirst functionality of Robustel R1510 3.1.16 and 3.3.0. A specially-crafted network request can lead to denial of service. An attacker can send a sequence of requests to trigger this vulnerability.This denial of service is in the `/action/import_file/` API.
+- [Live-Hack-CVE/CVE-2022-35263](https://github.com/Live-Hack-CVE/CVE-2022-35263)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35263">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35263">
+
+---
+## CVE-2022-35262 (2022-10-25T17:15:00)
+> A denial of service vulnerability exists in the web_server hashFirst functionality of Robustel R1510 3.1.16 and 3.3.0. A specially-crafted network request can lead to denial of service. An attacker can send a sequence of requests to trigger this vulnerability.This denial of service is in the `/action/import_xml_file/` API.
+- [Live-Hack-CVE/CVE-2022-35262](https://github.com/Live-Hack-CVE/CVE-2022-35262)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35262">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35262">
+
+---
+## CVE-2022-35261 (2022-10-25T17:15:00)
+> A denial of service vulnerability exists in the web_server hashFirst functionality of Robustel R1510 3.1.16 and 3.3.0. A specially-crafted network request can lead to denial of service. An attacker can send a sequence of requests to trigger this vulnerability.This denial of service is in the `/action/import_authorized_keys/` API.
+- [Live-Hack-CVE/CVE-2022-35261](https://github.com/Live-Hack-CVE/CVE-2022-35261)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35261">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35261">
 
 ---
 ## CVE-2022-35260 (2022-12-05T22:15:00)
@@ -16430,6 +16575,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-22483 (2022-09-13T21:15:00)
 > IBM Db2 for Linux, UNIX and Windows 9.7, 10.1, 10.5, 11.1, and 11.5 is vulnerable to an information disclosure in some scenarios due to unauthorized access caused by improper privilege management when CREATE OR REPLACE command is used. IBM X-Force ID: 225979.
 - [Live-Hack-CVE/CVE-2022-22483](https://github.com/Live-Hack-CVE/CVE-2022-22483)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22483">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22483">
+
+---
+## CVE-2022-22458 (2022-12-22T22:15:00)
+> IBM Security Verify Governance, Identity Manager 10.0.1 stores user credentials in plain clear text which can be read by a remote authenticated user. IBM X-Force ID: 225009.
+- [Live-Hack-CVE/CVE-2022-22458](https://github.com/Live-Hack-CVE/CVE-2022-22458)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22458">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22458">
 
 ---
 ## CVE-2022-22456 (2022-12-22T22:15:00)
