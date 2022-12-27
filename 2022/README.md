@@ -12718,6 +12718,11 @@
 - [Live-Hack-CVE/CVE-2022-31747](https://github.com/Live-Hack-CVE/CVE-2022-31747)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31747">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31747">
 
 ---
+## CVE-2022-31738 (2022-12-22T20:15:00)
+> When exiting fullscreen mode, an iframe could have confused the browser about the current state of fullscreen, resulting in potential user confusion or spoofing attacks. This vulnerability affects Thunderbird < 91.10, Firefox < 101, and Firefox ESR < 91.10.
+- [Live-Hack-CVE/CVE-2022-31738](https://github.com/Live-Hack-CVE/CVE-2022-31738)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31738">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31738">
+
+---
 ## CVE-2022-3171 (2022-10-12T23:15:00)
 > A parsing issue with binary data in protobuf-java core and lite versions prior to 3.21.7, 3.20.3, 3.19.6 and 3.16.3 can lead to a denial of service attack. Inputs containing multiple instances of non-repeated embedded messages with repeated or unknown fields causes objects to be converted back-n-forth between mutable and immutable forms, resulting in potentially long garbage collection pauses. We recommend updating to the versions mentioned above.
 - [Live-Hack-CVE/CVE-2022-3171](https://github.com/Live-Hack-CVE/CVE-2022-3171)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3171">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3171">
@@ -13880,9 +13885,34 @@
 - [Live-Hack-CVE/CVE-2022-2992](https://github.com/Live-Hack-CVE/CVE-2022-2992)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2992">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2992">
 
 ---
+## CVE-2022-29918 (2022-12-22T20:15:00)
+> Mozilla developers Gabriele Svelto, Randell Jesup and the Mozilla Fuzzing Team reported memory safety bugs present in Firefox 99. Some of these bugs showed evidence of memory corruption and we presume that with enough effort some of these could have been exploited to run arbitrary code. This vulnerability affects Firefox < 100.
+- [Live-Hack-CVE/CVE-2022-29918](https://github.com/Live-Hack-CVE/CVE-2022-29918)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29918">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29918">
+
+---
+## CVE-2022-29917 (2022-12-22T20:15:00)
+> Mozilla developers Andrew McCreight, Gabriele Svelto, Tom Ritter and the Mozilla Fuzzing Team reported memory safety bugs present in Firefox 99 and Firefox ESR 91.8. Some of these bugs showed evidence of memory corruption and we presume that with enough effort some of these could have been exploited to run arbitrary code. This vulnerability affects Thunderbird < 91.9, Firefox ESR < 91.9, and Firefox < 100.
+- [Live-Hack-CVE/CVE-2022-29917](https://github.com/Live-Hack-CVE/CVE-2022-29917)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29917">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29917">
+
+---
+## CVE-2022-29916 (2022-12-22T20:15:00)
+> Firefox behaved slightly differently for already known resources when loading CSS resources involving CSS variables. This could have been used to probe the browser history. This vulnerability affects Thunderbird < 91.9, Firefox ESR < 91.9, and Firefox < 100.
+- [Live-Hack-CVE/CVE-2022-29916](https://github.com/Live-Hack-CVE/CVE-2022-29916)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29916">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29916">
+
+---
+## CVE-2022-29912 (2022-12-22T20:15:00)
+> Requests initiated through reader mode did not properly omit cookies with a SameSite attribute. This vulnerability affects Thunderbird < 91.9, Firefox ESR < 91.9, and Firefox < 100.
+- [Live-Hack-CVE/CVE-2022-29912](https://github.com/Live-Hack-CVE/CVE-2022-29912)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29912">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29912">
+
+---
 ## CVE-2022-2991 (2022-08-25T18:15:00)
 > A heap-based buffer overflow was found in the Linux kernel's LightNVM subsystem. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a fixed-length heap-based buffer. This vulnerability allows a local attacker to escalate privileges and execute arbitrary code in the context of the kernel. The attacker must first obtain the ability to execute high-privileged code on the target system to exploit this vulnerability.
 - [Live-Hack-CVE/CVE-2022-2991](https://github.com/Live-Hack-CVE/CVE-2022-2991)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2991">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2991">
+
+---
+## CVE-2022-29909 (2022-12-22T20:15:00)
+> Documents in deeply-nested cross-origin browsing contexts could have obtained permissions granted to the top-level origin, bypassing the existing prompt and wrongfully inheriting the top-level permissions. This vulnerability affects Thunderbird < 91.9, Firefox ESR < 91.9, and Firefox < 100.
+- [Live-Hack-CVE/CVE-2022-29909](https://github.com/Live-Hack-CVE/CVE-2022-29909)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29909">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29909">
 
 ---
 ## CVE-2022-29908 (2022-09-19T16:15:00)
@@ -14497,9 +14527,20 @@
 - [Live-Hack-CVE/CVE-2022-2829](https://github.com/Live-Hack-CVE/CVE-2022-2829)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2829">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2829">
 
 ---
+## CVE-2022-28288 (2022-12-22T20:15:00)
+> Mozilla developers and community members Randell Jesup, Sebastian Hengst, and the Mozilla Fuzzing Team reported memory safety bugs present in Firefox 98. Some of these bugs showed evidence of memory corruption and we presume that with enough effort some of these could have been exploited to run arbitrary code. This vulnerability affects Firefox < 99.
+- [Live-Hack-CVE/CVE-2022-28288](https://github.com/Live-Hack-CVE/CVE-2022-28288)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28288">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28288">
+
+---
+## CVE-2022-28285 (2022-12-22T20:15:00)
+> When generating the assembly code for <code>MLoadTypedArrayElementHole</code>, an incorrect AliasSet was used. In conjunction with another vulnerability this could have been used for an out of bounds memory read. This vulnerability affects Thunderbird < 91.8, Firefox < 99, and Firefox ESR < 91.8.
+- [Live-Hack-CVE/CVE-2022-28285](https://github.com/Live-Hack-CVE/CVE-2022-28285)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28285">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28285">
+
+---
 ## CVE-2022-28282 (2022-12-22T20:15:00)
 > By using a link with <code>rel="localization"</code> a use-after-free could have been triggered by destroying an object during JavaScript execution and then referencing the object through a freed pointer, leading to a potential exploitable crash. This vulnerability affects Thunderbird < 91.8, Firefox < 99, and Firefox ESR < 91.8.
 - [Pwnrin/CVE-2022-28282](https://github.com/Pwnrin/CVE-2022-28282)	<img alt="forks" src="https://img.shields.io/github/forks/Pwnrin/CVE-2022-28282">	<img alt="stars" src="https://img.shields.io/github/stars/Pwnrin/CVE-2022-28282">
+- [Live-Hack-CVE/CVE-2022-28282](https://github.com/Live-Hack-CVE/CVE-2022-28282)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28282">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28282">
 
 ---
 ## CVE-2022-2827 (2022-12-05T22:15:00)
@@ -15091,6 +15132,11 @@
 - [Live-Hack-CVE/CVE-2022-26488](https://github.com/Live-Hack-CVE/CVE-2022-26488)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26488">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26488">
 
 ---
+## CVE-2022-26486 (2022-12-22T20:15:00)
+> An unexpected message in the WebGPU IPC framework could lead to a use-after-free and exploitable sandbox escape. We have had reports of attacks in the wild abusing this flaw. This vulnerability affects Firefox < 97.0.2, Firefox ESR < 91.6.1, Firefox for Android < 97.3.0, Thunderbird < 91.6.2, and Focus < 97.3.0.
+- [Live-Hack-CVE/CVE-2022-26486](https://github.com/Live-Hack-CVE/CVE-2022-26486)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26486">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26486">
+
+---
 ## CVE-2022-26423 (2022-10-21T16:15:00)
 > Aethon TUG Home Base Server versions prior to version 24 are affected by un unauthenticated attacker who can freely access hashed user credentials.
 - [Live-Hack-CVE/CVE-2022-26423](https://github.com/Live-Hack-CVE/CVE-2022-26423)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26423">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26423">
@@ -15121,6 +15167,21 @@
 - [veritas501/CVE-2022-2639-PipeVersion](https://github.com/veritas501/CVE-2022-2639-PipeVersion)	<img alt="forks" src="https://img.shields.io/github/forks/veritas501/CVE-2022-2639-PipeVersion">	<img alt="stars" src="https://img.shields.io/github/stars/veritas501/CVE-2022-2639-PipeVersion">
 - [avboy1337/CVE-2022-2639-PipeVersion](https://github.com/avboy1337/CVE-2022-2639-PipeVersion)	<img alt="forks" src="https://img.shields.io/github/forks/avboy1337/CVE-2022-2639-PipeVersion">	<img alt="stars" src="https://img.shields.io/github/stars/avboy1337/CVE-2022-2639-PipeVersion">
 - [EkamSinghWalia/Detection-and-Mitigation-for-CVE-2022-2639](https://github.com/EkamSinghWalia/Detection-and-Mitigation-for-CVE-2022-2639)	<img alt="forks" src="https://img.shields.io/github/forks/EkamSinghWalia/Detection-and-Mitigation-for-CVE-2022-2639">	<img alt="stars" src="https://img.shields.io/github/stars/EkamSinghWalia/Detection-and-Mitigation-for-CVE-2022-2639">
+
+---
+## CVE-2022-26387 (2022-12-22T20:15:00)
+> When installing an add-on, Firefox verified the signature before prompting the user; but while the user was confirming the prompt, the underlying add-on file could have been modified and Firefox would not have noticed. This vulnerability affects Firefox < 98, Firefox ESR < 91.7, and Thunderbird < 91.7.
+- [Live-Hack-CVE/CVE-2022-26387](https://github.com/Live-Hack-CVE/CVE-2022-26387)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26387">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26387">
+
+---
+## CVE-2022-26383 (2022-12-22T20:15:00)
+> When resizing a popup after requesting fullscreen access, the popup would not display the fullscreen notification. This vulnerability affects Firefox < 98, Firefox ESR < 91.7, and Thunderbird < 91.7.
+- [Live-Hack-CVE/CVE-2022-26383](https://github.com/Live-Hack-CVE/CVE-2022-26383)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26383">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26383">
+
+---
+## CVE-2022-26381 (2022-12-22T20:15:00)
+> An attacker could have caused a use-after-free by forcing a text reflow in an SVG object leading to a potentially exploitable crash. This vulnerability affects Firefox < 98, Firefox ESR < 91.7, and Thunderbird < 91.7.
+- [Live-Hack-CVE/CVE-2022-26381](https://github.com/Live-Hack-CVE/CVE-2022-26381)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26381">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26381">
 
 ---
 ## CVE-2022-26377 (2022-06-09T17:15:00)
@@ -15623,6 +15684,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-25089 (2022-03-03T00:15:00)
 > Printix Secure Cloud Print Management through 1.3.1106.0 incorrectly uses Privileged APIs to modify values in HKEY_LOCAL_MACHINE via UITasks.PersistentRegistryData.
 - [Live-Hack-CVE/CVE-2022-25089](https://github.com/Live-Hack-CVE/CVE-2022-25089)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25089">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25089">
+
+---
+## CVE-2022-2505 (2022-12-22T20:15:00)
+> Mozilla developers and the Mozilla Fuzzing Team reported memory safety bugs present in Firefox 102. Some of these bugs showed evidence of memory corruption and we presume that with enough effort some of these could have been exploited to run arbitrary code. This vulnerability affects Firefox ESR < 102.1, Firefox < 103, and Thunderbird < 102.1.
+- [Live-Hack-CVE/CVE-2022-2505](https://github.com/Live-Hack-CVE/CVE-2022-2505)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2505">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2505">
 
 ---
 ## CVE-2022-25047 (2022-07-07T12:15:00)
@@ -16565,6 +16631,31 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-22807 (2022-02-09T23:15:00)
 > A CWE-1021 Improper Restriction of Rendered UI Layers or Frames vulnerability exists that could cause unintended modifications of the product settings or user accounts when deceiving the user to use the web interface rendered within iframes. Affected Product: EcoStruxure EV Charging Expert (formerly known as EVlink Load Management System): (HMIBSCEA53D1EDB, HMIBSCEA53D1EDS, HMIBSCEA53D1EDM, HMIBSCEA53D1EDL, HMIBSCEA53D1ESS, HMIBSCEA53D1ESM, HMIBSCEA53D1EML) (All Versions prior to SP8 (Version 01) V4.0.0.13)
 - [Live-Hack-CVE/CVE-2022-22807](https://github.com/Live-Hack-CVE/CVE-2022-22807)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22807">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22807">
+
+---
+## CVE-2022-22763 (2022-12-22T20:15:00)
+> When a worker is shutdown, it was possible to cause script to run late in the lifecycle, at a point after where it should not be possible. This vulnerability affects Firefox < 96, Thunderbird < 91.6, and Firefox ESR < 91.6.
+- [Live-Hack-CVE/CVE-2022-22763](https://github.com/Live-Hack-CVE/CVE-2022-22763)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22763">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22763">
+
+---
+## CVE-2022-22761 (2022-12-22T20:15:00)
+> Web-accessible extension pages (pages with a moz-extension:// scheme) were not correctly enforcing the frame-ancestors directive when it was used in the Web Extension's Content Security Policy. This vulnerability affects Firefox < 97, Thunderbird < 91.6, and Firefox ESR < 91.6.
+- [Live-Hack-CVE/CVE-2022-22761](https://github.com/Live-Hack-CVE/CVE-2022-22761)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22761">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22761">
+
+---
+## CVE-2022-22759 (2022-12-22T20:15:00)
+> If a document created a sandboxed iframe without <code>allow-scripts</code>, and subsequently appended an element to the iframe's document that e.g. had a JavaScript event handler - the event handler would have run despite the iframe's sandbox. This vulnerability affects Firefox < 97, Thunderbird < 91.6, and Firefox ESR < 91.6.
+- [Live-Hack-CVE/CVE-2022-22759](https://github.com/Live-Hack-CVE/CVE-2022-22759)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22759">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22759">
+
+---
+## CVE-2022-22756 (2022-12-22T20:15:00)
+> If a user was convinced to drag and drop an image to their desktop or other folder, the resulting object could have been changed into an executable script which would have run arbitrary code after the user clicked on it. This vulnerability affects Firefox < 97, Thunderbird < 91.6, and Firefox ESR < 91.6.
+- [Live-Hack-CVE/CVE-2022-22756](https://github.com/Live-Hack-CVE/CVE-2022-22756)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22756">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22756">
+
+---
+## CVE-2022-22754 (2022-12-22T20:15:00)
+> If a user installed an extension of a particular type, the extension could have auto-updated itself and while doing so, bypass the prompt which grants the new version the new requested permissions. This vulnerability affects Firefox < 97, Thunderbird < 91.6, and Firefox ESR < 91.6.
+- [Live-Hack-CVE/CVE-2022-22754](https://github.com/Live-Hack-CVE/CVE-2022-22754)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22754">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22754">
 
 ---
 ## CVE-2022-22751 (2022-12-22T20:15:00)
