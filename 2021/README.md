@@ -1094,6 +1094,11 @@
 - [Live-Hack-CVE/CVE-2021-41313](https://github.com/Live-Hack-CVE/CVE-2021-41313)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41313">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41313">
 
 ---
+## CVE-2021-4129 (2022-12-22T20:15:00)
+> Mozilla developers and community members Julian Hector, Randell Jesup, Gabriele Svelto, Tyson Smith, Christian Holler, and Masayuki Nakano reported memory safety bugs present in Firefox 94. Some of these bugs showed evidence of memory corruption and we presume that with enough effort some of these could have been exploited to run arbitrary code. This vulnerability affects Firefox < 95, Firefox ESR < 91.4.0, and Thunderbird < 91.4.0.
+- [Live-Hack-CVE/CVE-2021-4129](https://github.com/Live-Hack-CVE/CVE-2021-4129)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4129">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4129">
+
+---
 ## CVE-2021-4128 (2022-12-22T20:15:00)
 > When transitioning in and out of fullscreen mode, a graphics object was not correctly protected; resulting in memory corruption and a potentially exploitable crash.<br>*This bug only affects Firefox on MacOS. Other operating systems are unaffected.*. This vulnerability affects Firefox < 95.
 - [Live-Hack-CVE/CVE-2021-4128](https://github.com/Live-Hack-CVE/CVE-2021-4128)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4128">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4128">
