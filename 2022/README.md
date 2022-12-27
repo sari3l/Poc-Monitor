@@ -2441,6 +2441,11 @@
 - [Live-Hack-CVE/CVE-2022-44163](https://github.com/Live-Hack-CVE/CVE-2022-44163)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44163">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44163">
 
 ---
+## CVE-2022-4416 (2022-12-12T07:15:00)
+> A vulnerability was found in RainyGao DocSys. It has been declared as critical. This vulnerability affects the function getReposAllUsers of the file /DocSystem/Repos/getReposAllUsers.do. The manipulation of the argument searchWord/reposId leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB-215278 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4416](https://github.com/Live-Hack-CVE/CVE-2022-4416)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4416">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4416">
+
+---
 ## CVE-2022-44158 (2022-11-21T16:15:00)
 > Tenda AC21 V16.03.08.15 is vulnerable to Buffer Overflow via function via set_device_name.
 - [Live-Hack-CVE/CVE-2022-44158](https://github.com/Live-Hack-CVE/CVE-2022-44158)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44158">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44158">
@@ -2551,6 +2556,11 @@
 ## CVE-2022-44020 (2022-10-30T00:15:00)
 > An issue was discovered in OpenStack Sushy-Tools through 0.21.0 and VirtualBMC through 2.2.2. Changing the boot device configuration with these packages removes password protection from the managed libvirt XML domain. NOTE: this only affects an "unsupported, production-like configuration."
 - [Live-Hack-CVE/CVE-2022-44020](https://github.com/Live-Hack-CVE/CVE-2022-44020)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44020">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44020">
+
+---
+## CVE-2022-4402 (2022-12-11T08:15:00)
+> A vulnerability classified as critical has been found in RainyGao DocSys 2.02.37. This affects an unknown part of the component ZIP File Decompression Handler. The manipulation leads to path traversal: '../filedir'. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-215271.
+- [Live-Hack-CVE/CVE-2022-4402](https://github.com/Live-Hack-CVE/CVE-2022-4402)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4402">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4402">
 
 ---
 ## CVE-2022-44014 (2022-12-25T05:15:00)
@@ -8953,9 +8963,59 @@
 - [Live-Hack-CVE/CVE-2022-37928](https://github.com/Live-Hack-CVE/CVE-2022-37928)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37928">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37928">
 
 ---
+## CVE-2022-37926 (2022-12-12T13:15:00)
+> A vulnerability within the web-based management interface of EdgeConnect Enterprise could allow a remote attacker to conduct a stored cross-site scripting (XSS) attack against a user of the interface by uploading a specially crafted file. A successful exploit could allow an attacker to execute arbitrary script code in a victim's browser in the context of the affected interface in Aruba EdgeConnect Enterprise Software version(s): ECOS 9.2.1.0 and below; ECOS 9.1.3.0 and below; ECOS 9.0.7.0 and below; ECOS 8.3.7.1 and below.
+- [Live-Hack-CVE/CVE-2022-37926](https://github.com/Live-Hack-CVE/CVE-2022-37926)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37926">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37926">
+
+---
+## CVE-2022-37925 (2022-12-12T13:15:00)
+> A vulnerability within the web-based management interface of Aruba EdgeConnect Enterprise could allow a remote attacker to conduct a reflected cross-site scripting (XSS) attack against a user of the interface. A successful exploit could allow an attacker to execute arbitrary script code in a victim's browser in the context of the affected interface in Aruba EdgeConnect Enterprise Software version(s): ECOS 9.2.1.0 and below; ECOS 9.1.3.0 and below; ECOS 9.0.7.0 and below; ECOS 8.3.7.1 and below.
+- [Live-Hack-CVE/CVE-2022-37925](https://github.com/Live-Hack-CVE/CVE-2022-37925)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37925">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37925">
+
+---
+## CVE-2022-37924 (2022-12-12T13:15:00)
+> Vulnerabilities in the Aruba EdgeConnect Enterprise command line interface allow remote authenticated users to run arbitrary commands on the underlying host. A successful exploit could allow an attacker to execute arbitrary commands as root on the underlying operating system leading to complete system compromise in Aruba EdgeConnect Enterprise Software version(s): ECOS 9.2.1.0 and below; ECOS 9.1.3.0 and below; ECOS 9.0.7.0 and below; ECOS 8.3.7.1 and below.
+- [Live-Hack-CVE/CVE-2022-37924](https://github.com/Live-Hack-CVE/CVE-2022-37924)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37924">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37924">
+
+---
+## CVE-2022-37923 (2022-12-12T13:15:00)
+> Vulnerabilities in the Aruba EdgeConnect Enterprise command line interface allow remote authenticated users to run arbitrary commands on the underlying host. A successful exploit could allow an attacker to execute arbitrary commands as root on the underlying operating system leading to complete system compromise in Aruba EdgeConnect Enterprise Software version(s): ECOS 9.2.1.0 and below; ECOS 9.1.3.0 and below; ECOS 9.0.7.0 and below; ECOS 8.3.7.1 and below.
+- [Live-Hack-CVE/CVE-2022-37923](https://github.com/Live-Hack-CVE/CVE-2022-37923)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37923">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37923">
+
+---
+## CVE-2022-37922 (2022-12-12T13:15:00)
+> Vulnerabilities in the Aruba EdgeConnect Enterprise command line interface allow remote authenticated users to run arbitrary commands on the underlying host. A successful exploit could allow an attacker to execute arbitrary commands as root on the underlying operating system leading to complete system compromise in Aruba EdgeConnect Enterprise Software version(s): ECOS 9.2.1.0 and below; ECOS 9.1.3.0 and below; ECOS 9.0.7.0 and below; ECOS 8.3.7.1 and below.
+- [Live-Hack-CVE/CVE-2022-37922](https://github.com/Live-Hack-CVE/CVE-2022-37922)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37922">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37922">
+
+---
+## CVE-2022-37921 (2022-12-12T13:15:00)
+> Vulnerabilities in the Aruba EdgeConnect Enterprise command line interface allow remote authenticated users to run arbitrary commands on the underlying host. A successful exploit could allow an attacker to execute arbitrary commands as root on the underlying operating system leading to complete system compromise in Aruba EdgeConnect Enterprise Software version(s): ECOS 9.2.1.0 and below; ECOS 9.1.3.0 and below; ECOS 9.0.7.0 and below; ECOS 8.3.7.1 and below.
+- [Live-Hack-CVE/CVE-2022-37921](https://github.com/Live-Hack-CVE/CVE-2022-37921)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37921">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37921">
+
+---
+## CVE-2022-37920 (2022-12-12T13:15:00)
+> Vulnerabilities in the Aruba EdgeConnect Enterprise command line interface allow remote authenticated users to run arbitrary commands on the underlying host. A successful exploit could allow an attacker to execute arbitrary commands as root on the underlying operating system leading to complete system compromise in Aruba EdgeConnect Enterprise Software version(s): ECOS 9.2.1.0 and below; ECOS 9.1.3.0 and below; ECOS 9.0.7.0 and below; ECOS 8.3.7.1 and below.
+- [Live-Hack-CVE/CVE-2022-37920](https://github.com/Live-Hack-CVE/CVE-2022-37920)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37920">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37920">
+
+---
+## CVE-2022-37919 (2022-12-12T13:15:00)
+> A vulnerability exists in the API of Aruba EdgeConnect Enterprise. An unauthenticated attacker can exploit this condition via the web-based management interface to create a denial-of-service condition which prevents the appliance from properly responding to API requests in Aruba EdgeConnect Enterprise Software version(s): ECOS 9.2.1.0 and below; ECOS 9.1.3.0 and below; ECOS 9.0.7.0 and below; ECOS 8.3.7.1 and below;
+- [Live-Hack-CVE/CVE-2022-37919](https://github.com/Live-Hack-CVE/CVE-2022-37919)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37919">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37919">
+
+---
 ## CVE-2022-37913 (2022-10-28T02:15:00)
 > Vulnerabilities in the web-based management interface of Aruba EdgeConnect Enterprise Orchestrator could allow an unauthenticated remote attacker to bypass authentication. Successful exploitation of these vulnerabilities could allow an attacker to gain administrative privileges leading to a complete compromise of the Aruba EdgeConnect Enterprise Orchestrator with versions 9.1.2.40051 and below, 9.0.7.40108 and below, 8.10.23.40009 and below, and any older branches of Orchestrator not specifically mentioned.
 - [Live-Hack-CVE/CVE-2022-37913](https://github.com/Live-Hack-CVE/CVE-2022-37913)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37913">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37913">
+
+---
+## CVE-2022-37912 (2022-12-12T13:15:00)
+> Authenticated command injection vulnerabilities exist in the ArubaOS command line interface. Successful exploitation of these vulnerabilities results in the ability to execute arbitrary commands as a privileged user on the underlying operating system.
+- [Live-Hack-CVE/CVE-2022-37912](https://github.com/Live-Hack-CVE/CVE-2022-37912)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37912">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37912">
+
+---
+## CVE-2022-37911 (2022-12-12T13:15:00)
+> Due to improper restrictions on XML entities multiple vulnerabilities exist in the command line interface of ArubaOS. A successful exploit could allow an authenticated attacker to retrieve files from the local system or cause the application to consume system resources, resulting in a denial of service condition.
+- [Live-Hack-CVE/CVE-2022-37911](https://github.com/Live-Hack-CVE/CVE-2022-37911)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37911">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37911">
 
 ---
 ## CVE-2022-37909 (2022-12-12T13:15:00)
@@ -13586,6 +13646,11 @@
 ## CVE-2022-31625 (2022-06-16T06:15:00)
 > In PHP versions 7.4.x below 7.4.30, 8.0.x below 8.0.20, and 8.1.x below 8.1.7, when using Postgres database extension, supplying invalid parameters to the parametrized query may lead to PHP attempting to free memory using uninitialized data as pointers. This could lead to RCE vulnerability or denial of service.
 - [Live-Hack-CVE/CVE-2022-31625](https://github.com/Live-Hack-CVE/CVE-2022-31625)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31625">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31625">
+
+---
+## CVE-2022-31596 (2022-12-12T04:15:00)
+> Under certain conditions, an attacker authenticated as a CMS administrator and with high privileges access to the Network in SAP BusinessObjects Business Intelligence Platform (Monitoring DB) - version 430, can access BOE Monitoring database to retrieve and modify (non-personal) system data which would otherwise be restricted. Also, a potential attack could be used to leave the CMS's scope and impact the database. A successful attack could have a low impact on confidentiality, a high impact on integrity, and a low impact on availability.
+- [Live-Hack-CVE/CVE-2022-31596](https://github.com/Live-Hack-CVE/CVE-2022-31596)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31596">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31596">
 
 ---
 ## CVE-2022-3157 (2022-12-16T21:15:00)
