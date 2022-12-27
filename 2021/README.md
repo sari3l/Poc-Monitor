@@ -2853,6 +2853,11 @@
 - [aazhuliang/CVE-2021-31956-EXP](https://github.com/aazhuliang/CVE-2021-31956-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/aazhuliang/CVE-2021-31956-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/aazhuliang/CVE-2021-31956-EXP">
 
 ---
+## CVE-2021-31838 (2021-06-29T10:15:00)
+> A command injection vulnerability in MVISION EDR (MVEDR) prior to 3.4.0 allows an authenticated MVEDR administrator to trigger the EDR client to execute arbitrary commands through PowerShell using the EDR functionality 'execute reaction'.
+- [Live-Hack-CVE/CVE-2021-31838](https://github.com/Live-Hack-CVE/CVE-2021-31838)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31838">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31838">
+
+---
 ## CVE-2021-31805 (2022-04-12T16:15:00)
 > The fix issued for CVE-2020-17530 was incomplete. So from Apache Struts 2.0.0 to 2.5.29, still some of the tag’s attributes could perform a double evaluation if a developer applied forced OGNL evaluation by using the %{...} syntax. Using forced OGNL evaluation on untrusted user input can lead to a Remote Code Execution and security degradation.
 - [z92g/CVE-2021-31805](https://github.com/z92g/CVE-2021-31805)	<img alt="forks" src="https://img.shields.io/github/forks/z92g/CVE-2021-31805">	<img alt="stars" src="https://img.shields.io/github/stars/z92g/CVE-2021-31805">
@@ -3879,6 +3884,11 @@
 ## CVE-2021-24188 (2021-05-14T12:15:00)
 > Low privileged users can use the AJAX action 'cp_plugins_do_button_job_later_callback' in the WP Content Copy Protection & No Right Click WordPress plugin before 3.1.5, to install any plugin (including a specific version) from the WordPress repository, as well as activate arbitrary plugin from then blog, which helps attackers install vulnerable plugins and could lead to more critical vulnerabilities like RCE.
 - [Live-Hack-CVE/CVE-2021-24188](https://github.com/Live-Hack-CVE/CVE-2021-24188)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24188">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24188">
+
+---
+## CVE-2021-23892 (2021-05-12T09:15:00)
+> By exploiting a time of check to time of use (TOCTOU) race condition during the Endpoint Security for Linux Threat Prevention and Firewall (ENSL TP/FW) installation process, a local user can perform a privilege escalation attack to obtain administrator privileges for the purpose of executing arbitrary code through insecure use of predictable temporary file locations.
+- [Live-Hack-CVE/CVE-2021-23892](https://github.com/Live-Hack-CVE/CVE-2021-23892)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23892">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23892">
 
 ---
 ## CVE-2021-23862 (2021-12-08T22:15:00)
