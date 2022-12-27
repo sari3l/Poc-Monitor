@@ -2248,6 +2248,12 @@
 - [Live-Hack-CVE/CVE-2022-4446](https://github.com/Live-Hack-CVE/CVE-2022-4446)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4446">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4446">
 
 ---
+## CVE-2022-4444 (2022-12-13T09:15:00)
+> A vulnerability was found in ipti br.tag. It has been declared as problematic. Affected by this vulnerability is an unknown functionality. The manipulation leads to cross site scripting. The attack can be launched remotely. Upgrading to version 2.13.0 is able to address this issue. The name of the patch is 7e311be22d3a0a1b53e61cb987ba13d681d85f06. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-215431.
+- [Live-Hack-CVE/CVE-2022-4444](https://github.com/Live-Hack-CVE/CVE-2022-4444)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4444">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4444">
+- [Live-Hack-CVE/CVE-2022-44449](https://github.com/Live-Hack-CVE/CVE-2022-44449)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44449">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44449">
+
+---
 ## CVE-2022-4440 (2022-12-14T06:15:00)
 > Use after free in Profiles in Google Chrome prior to 108.0.5359.124 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: Medium)
 - [Live-Hack-CVE/CVE-2022-4440](https://github.com/Live-Hack-CVE/CVE-2022-4440)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4440">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4440">
@@ -2781,6 +2787,16 @@
 - [Live-Hack-CVE/CVE-2022-43548](https://github.com/Live-Hack-CVE/CVE-2022-43548)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43548">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43548">
 
 ---
+## CVE-2022-43541 (2022-12-12T13:15:00)
+> Vulnerabilities in the Aruba EdgeConnect Enterprise command line interface allow remote authenticated users to run arbitrary commands on the underlying host. A successful exploit could allow an attacker to execute arbitrary commands as root on the underlying operating system leading to complete system compromise in Aruba EdgeConnect Enterprise Software version(s): ECOS 9.2.1.0 and below; ECOS 9.1.3.0 and below; ECOS 9.0.7.0 and below; ECOS 8.3.7.1 and below.
+- [Live-Hack-CVE/CVE-2022-43541](https://github.com/Live-Hack-CVE/CVE-2022-43541)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43541">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43541">
+
+---
+## CVE-2022-43518 (2022-12-12T13:15:00)
+> An authenticated path traversal vulnerability exists in the Aruba EdgeConnect Enterprise web interface. Successful exploitation of this vulnerability results in the ability to read arbitrary files on the underlying operating system, including sensitive system files in Aruba EdgeConnect Enterprise Software version(s): ECOS 9.2.1.0 and below; ECOS 9.1.3.0 and below; ECOS 9.0.7.0 and below; ECOS 8.3.7.1 and below.
+- [Live-Hack-CVE/CVE-2022-43518](https://github.com/Live-Hack-CVE/CVE-2022-43518)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43518">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43518">
+
+---
 ## CVE-2022-43517 (2022-12-13T16:15:00)
 > A vulnerability has been identified in Simcenter STAR-CCM+ (All versions). The affected application improperly assigns file permissions to installation folders. This could allow a local attacker with an unprivileged account to override or modify the service executables and subsequently gain elevated privileges.
 - [Live-Hack-CVE/CVE-2022-43517](https://github.com/Live-Hack-CVE/CVE-2022-43517)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43517">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43517">
@@ -3129,8 +3145,19 @@
 - [mudassiruddin/CVE-2022-43144-Stored-XSS](https://github.com/mudassiruddin/CVE-2022-43144-Stored-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/mudassiruddin/CVE-2022-43144-Stored-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/mudassiruddin/CVE-2022-43144-Stored-XSS">
 
 ---
+## CVE-2022-4312 (2022-12-12T18:15:00)
+> A cleartext storage of sensitive information vulnerability exists in PcVue versions 8.10 through 15.2.3. This could allow an unauthorized user with access the email and short messaging service (SMS) accounts configuration files to discover the associated simple mail transfer protocol (SMTP) account credentials and the SIM card PIN code. Successful exploitation of this vulnerability could allow an unauthorized user access to the underlying email account and SIM card.
+- [Live-Hack-CVE/CVE-2022-4312](https://github.com/Live-Hack-CVE/CVE-2022-4312)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4312">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4312">
+
+---
 ## CVE-2022-43117 (2022-11-21T18:15:00)
 > Sourcecodester Password Storage Application in PHP/OOP and MySQL 1.0 was discovered to contain multiple cross-site scripting (XSS) vulnerabilities via the Name, Username, Description and Site Feature parameters.
+- [RashidKhanPathan/CVE-2022-43117](https://github.com/RashidKhanPathan/CVE-2022-43117)	<img alt="forks" src="https://img.shields.io/github/forks/RashidKhanPathan/CVE-2022-43117">	<img alt="stars" src="https://img.shields.io/github/stars/RashidKhanPathan/CVE-2022-43117">
+
+---
+## CVE-2022-4311 (2022-12-12T18:15:00)
+> An insertion of sensitive information into log file vulnerability exists in PcVue versions 15 through 15.2.2. This could allow a user with access to the log files to discover connection strings of data sources configured for the DbConnect, which could include credentials. Successful exploitation of this vulnerability could allow other users unauthorized access to the underlying data sources.
+- [Live-Hack-CVE/CVE-2022-4311](https://github.com/Live-Hack-CVE/CVE-2022-4311)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4311">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4311">
 - [RashidKhanPathan/CVE-2022-43117](https://github.com/RashidKhanPathan/CVE-2022-43117)	<img alt="forks" src="https://img.shields.io/github/forks/RashidKhanPathan/CVE-2022-43117">	<img alt="stars" src="https://img.shields.io/github/stars/RashidKhanPathan/CVE-2022-43117">
 
 ---
@@ -5222,6 +5249,11 @@
 - [Live-Hack-CVE/CVE-2022-41278](https://github.com/Live-Hack-CVE/CVE-2022-41278)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41278">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41278">
 
 ---
+## CVE-2022-41275 (2022-12-13T04:15:00)
+> In SAP Solution Manager (Enterprise Search) - versions 740, and 750, an unauthenticated attacker can generate a link that, if clicked by a logged-in user, can be redirected to a malicious page that could read or modify sensitive information, or expose the user to a phishing attack, with little impact on confidentiality and integrity.
+- [Live-Hack-CVE/CVE-2022-41275](https://github.com/Live-Hack-CVE/CVE-2022-41275)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41275">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41275">
+
+---
 ## CVE-2022-41274 (2022-12-13T04:15:00)
 > SAP Disclosure Management - version 10.1, allows an authenticated attacker to exploit certain misconfigured application endpoints to read sensitive data. These endpoints are normally exposed over the network and successful exploitation can lead to the exposure of data like financial reports.
 - [Live-Hack-CVE/CVE-2022-41274](https://github.com/Live-Hack-CVE/CVE-2022-41274)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41274">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41274">
@@ -5230,11 +5262,13 @@
 ## CVE-2022-41273 (2022-12-13T04:15:00)
 > Due to improper input sanitization in SAP Sourcing and SAP Contract Lifecycle Management - version 1100, an attacker can redirect a user to a malicious website. In order to perform this attack, the attacker sends an email to the victim with a manipulated link that appears to be a legitimate SAP Sourcing URL, since the victim doesn’t suspect the threat, they click on the link, log in to SAP Sourcing and CLM and at this point, they get redirected to a malicious website.
 - [Live-Hack-CVE/CVE-2022-41273](https://github.com/Live-Hack-CVE/CVE-2022-41273)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41273">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41273">
+- [Live-Hack-CVE/CVE-2022-41273](https://github.com/Live-Hack-CVE/CVE-2022-41273)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41273">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41273">
 
 ---
 ## CVE-2022-41272 (2022-12-13T04:15:00)
 > An unauthenticated attacker over the network can attach to an open interface exposed through JNDI by the User Defined Search (UDS) of SAP NetWeaver Process Integration (PI) - version 7.50 and make use of an open naming and directory API to access services which can be used to perform unauthorized operations affecting users and data across the entire system. This allows the attacker to have full read access to user data, make limited modifications to user data, and degrade the performance of the system, leading to a high impact on confidentiality and a limited impact on the availability and integrity of the application.
 - [redrays-io/CVE-2022-41272](https://github.com/redrays-io/CVE-2022-41272)	<img alt="forks" src="https://img.shields.io/github/forks/redrays-io/CVE-2022-41272">	<img alt="stars" src="https://img.shields.io/github/stars/redrays-io/CVE-2022-41272">
+- [Live-Hack-CVE/CVE-2022-41272](https://github.com/Live-Hack-CVE/CVE-2022-41272)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41272">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41272">
 - [Live-Hack-CVE/CVE-2022-41272](https://github.com/Live-Hack-CVE/CVE-2022-41272)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41272">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41272">
 
 ---
@@ -5243,9 +5277,39 @@
 - [Live-Hack-CVE/CVE-2022-41271](https://github.com/Live-Hack-CVE/CVE-2022-41271)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41271">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41271">
 
 ---
+## CVE-2022-41268 (2022-12-13T03:15:00)
+> In some SAP standard roles in SAP Business Planning and Consolidation - versions - SAP_BW 750, 751, 752, 753, 754, 755, 756, 757, DWCORE 200, 300, CPMBPC 810, a transaction code reserved for the customer is used. By implementing such transaction code, a malicious user may execute unauthorized transaction functionality. Under specific circumstances, a successful attack could enable an adversary to escalate their privileges to be able to read, change or delete system data.
+- [Live-Hack-CVE/CVE-2022-41268](https://github.com/Live-Hack-CVE/CVE-2022-41268)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41268">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41268">
+
+---
+## CVE-2022-41267 (2022-12-13T03:15:00)
+> SAP Business Objects Platform - versions 420, and 430, allows an attacker with normal BI user privileges to upload/replace any file on Business Objects server at the operating system level, enabling the attacker to take full control of the system causing a high impact on confidentiality, integrity, and availability of the application.
+- [Live-Hack-CVE/CVE-2022-41267](https://github.com/Live-Hack-CVE/CVE-2022-41267)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41267">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41267">
+
+---
+## CVE-2022-41266 (2022-12-13T03:15:00)
+> Due to a lack of proper input validation, SAP Commerce Webservices 2.0 (Swagger UI) - versions 1905, 2005, 2105, 2011, 2205, allows malicious inputs from untrusted sources, which can be leveraged by an attacker to execute a DOM Cross-Site Scripting (XSS) attack. As a result, an attacker may be able to steal user tokens and achieve a full account takeover including access to administrative tools in SAP Commerce.
+- [Live-Hack-CVE/CVE-2022-41266](https://github.com/Live-Hack-CVE/CVE-2022-41266)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41266">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41266">
+
+---
+## CVE-2022-41264 (2022-12-13T03:15:00)
+> Due to the unrestricted scope of the RFC function module, SAP BASIS - versions 731, 740, 750, 751, 752, 753, 754, 755, 756, 757, 789, 790, 791, allows an authenticated non-administrator attacker to access a system class and execute any of its public methods with parameters provided by the attacker. On successful exploitation the attacker can have full control of the system to which the class belongs, causing a high impact on the integrity of the application.
+- [Live-Hack-CVE/CVE-2022-41264](https://github.com/Live-Hack-CVE/CVE-2022-41264)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41264">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41264">
+
+---
+## CVE-2022-41263 (2022-12-12T22:15:00)
+> Due to a missing authentication check, SAP Business Objects Business Intelligence Platform (Web Intelligence) - versions 420, 430, allows an authenticated non-administrator attacker to modify the data source information for a document that is otherwise restricted. On successful exploitation, the attacker can modify information causing a limited impact on the integrity of the application.
+- [Live-Hack-CVE/CVE-2022-41263](https://github.com/Live-Hack-CVE/CVE-2022-41263)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41263">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41263">
+
+---
 ## CVE-2022-41262 (2022-12-12T22:15:00)
 > Due to insufficient input validation, SAP NetWeaver AS Java (HTTP Provider Service) - version 7.50, allows an unauthenticated attacker to inject a script into a web request header. On successful exploitation, an attacker can view or modify information causing a limited impact on the confidentiality and integrity of the application.
 - [Live-Hack-CVE/CVE-2022-41262](https://github.com/Live-Hack-CVE/CVE-2022-41262)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41262">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41262">
+
+---
+## CVE-2022-41261 (2022-12-12T22:15:00)
+> SAP Solution Manager (Diagnostic Agent) - version 7.20, allows an authenticated attacker on Windows system to access a file containing sensitive data which can be used to access a configuration file which contains credentials to access other system files. Successful exploitation can make the attacker access files and systems for which he/she is not authorized.
+- [Live-Hack-CVE/CVE-2022-41261](https://github.com/Live-Hack-CVE/CVE-2022-41261)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41261">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41261">
 
 ---
 ## CVE-2022-41235 (2022-09-21T16:15:00)
@@ -8146,6 +8210,11 @@
 - [Live-Hack-CVE/CVE-2022-3840](https://github.com/Live-Hack-CVE/CVE-2022-3840)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3840">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3840">
 
 ---
+## CVE-2022-38395 (2022-12-12T13:15:00)
+> HP Support Assistant uses HP Performance Tune-up as a diagnostic tool. HP Support Assistant uses Fusion to launch HP Performance Tune-up. It is possible for an attacker to exploit the DLL hijacking vulnerability and elevate privileges when Fusion launches the HP Performance Tune-up.
+- [Live-Hack-CVE/CVE-2022-38395](https://github.com/Live-Hack-CVE/CVE-2022-38395)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38395">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38395">
+
+---
 ## CVE-2022-38379 (2022-12-06T17:15:00)
 > Improper neutralization of input during web page generation [CWE-79] in FortiSOAR 7.0.0 through 7.0.3 and 7.2.0 may allow an authenticated attacker to inject HTML tags via input fields of various components within FortiSOAR.
 - [Live-Hack-CVE/CVE-2022-38379](https://github.com/Live-Hack-CVE/CVE-2022-38379)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38379">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38379">
@@ -8825,6 +8894,11 @@
 ## CVE-2022-37955 (2022-09-13T19:15:00)
 > Windows Group Policy Elevation of Privilege Vulnerability.
 - [Live-Hack-CVE/CVE-2022-37955](https://github.com/Live-Hack-CVE/CVE-2022-37955)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37955">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37955">
+
+---
+## CVE-2022-37932 (2022-12-12T13:15:00)
+> A potential security vulnerability has been identified in Hewlett Packard Enterprise OfficeConnect 1820, 1850, and 1920S Network switches. The vulnerability could be remotely exploited to allow authentication bypass. HPE has made the following software updates to resolve the vulnerability in Hewlett Packard Enterprise OfficeConnect 1820, 1850 and 1920S Network switches versions: Prior to PT.02.14; Prior to PC.01.22; Prior to PO.01.21; Prior to PD.02.22;
+- [Live-Hack-CVE/CVE-2022-37932](https://github.com/Live-Hack-CVE/CVE-2022-37932)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37932">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37932">
 
 ---
 ## CVE-2022-37931 (2022-11-22T05:15:00)
@@ -16169,14 +16243,39 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-25706](https://github.com/Live-Hack-CVE/CVE-2022-25706)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25706">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25706">
 
 ---
+## CVE-2022-25702 (2022-12-13T16:15:00)
+> Denial of service in modem due to reachable assertion while processing reconfiguration message in Snapdragon Auto, Snapdragon Compute, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Wearables
+- [Live-Hack-CVE/CVE-2022-25702](https://github.com/Live-Hack-CVE/CVE-2022-25702)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25702">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25702">
+
+---
+## CVE-2022-25698 (2022-12-13T16:15:00)
+> Memory corruption in SPI buses due to improper input validation while reading address configuration from spi buses in Snapdragon Mobile, Snapdragon Wearables
+- [Live-Hack-CVE/CVE-2022-25698](https://github.com/Live-Hack-CVE/CVE-2022-25698)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25698">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25698">
+
+---
+## CVE-2022-25697 (2022-12-13T16:15:00)
+> Memory corruption in i2c buses due to improper input validation while reading address configuration from i2c driver in Snapdragon Mobile, Snapdragon Wearables
+- [Live-Hack-CVE/CVE-2022-25697](https://github.com/Live-Hack-CVE/CVE-2022-25697)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25697">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25697">
+
+---
 ## CVE-2022-25696 (2022-09-16T06:15:00)
 > Memory corruption in display due to time-of-check time-of-use race condition during map or unmap in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Wearables
 - [Live-Hack-CVE/CVE-2022-25696](https://github.com/Live-Hack-CVE/CVE-2022-25696)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25696">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25696">
 
 ---
+## CVE-2022-25695 (2022-12-13T16:15:00)
+> Memory corruption in MODEM due to Improper Validation of Array Index while processing GSTK Proactive commands in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon IoT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables
+- [Live-Hack-CVE/CVE-2022-25695](https://github.com/Live-Hack-CVE/CVE-2022-25695)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25695">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25695">
+
+---
 ## CVE-2022-25693 (2022-09-16T06:15:00)
 > Memory corruption in graphics due to use-after-free while graphics profiling in Snapdragon Connectivity, Snapdragon Mobile
 - [Live-Hack-CVE/CVE-2022-25693](https://github.com/Live-Hack-CVE/CVE-2022-25693)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25693">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25693">
+
+---
+## CVE-2022-25692 (2022-12-13T16:15:00)
+> Denial of service in Modem due to reachable assertion while processing the common config procedure in Snapdragon Auto, Snapdragon Compute, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Wearables
+- [Live-Hack-CVE/CVE-2022-25692](https://github.com/Live-Hack-CVE/CVE-2022-25692)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25692">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25692">
 
 ---
 ## CVE-2022-2569 (2022-08-24T16:15:00)
@@ -16189,9 +16288,44 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-25686](https://github.com/Live-Hack-CVE/CVE-2022-25686)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25686">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25686">
 
 ---
+## CVE-2022-25685 (2022-12-13T16:15:00)
+> Denial of service in Modem module due to improper authorization while error handling in Snapdragon Auto, Snapdragon Compute, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Wearables
+- [Live-Hack-CVE/CVE-2022-25685](https://github.com/Live-Hack-CVE/CVE-2022-25685)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25685">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25685">
+
+---
+## CVE-2022-25682 (2022-12-13T16:15:00)
+> Memory corruption in MODEM UIM due to usage of out of range pointer offset while decoding command from card in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables
+- [Live-Hack-CVE/CVE-2022-25682](https://github.com/Live-Hack-CVE/CVE-2022-25682)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25682">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25682">
+
+---
+## CVE-2022-25681 (2022-12-13T16:15:00)
+> Possible memory corruption in kernel while performing memory access due to hypervisor not correctly invalidated the processor translation caches in Snapdragon Auto, Snapdragon Compute, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile
+- [Live-Hack-CVE/CVE-2022-25681](https://github.com/Live-Hack-CVE/CVE-2022-25681)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25681">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25681">
+
+---
 ## CVE-2022-25680 (2022-09-02T12:15:00)
 > Memory corruption in multimedia due to buffer overflow while processing count variable from client in Snapdragon Auto
 - [Live-Hack-CVE/CVE-2022-25680](https://github.com/Live-Hack-CVE/CVE-2022-25680)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25680">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25680">
+
+---
+## CVE-2022-25677 (2022-12-13T16:15:00)
+> Memory corruption in diag due to use after free while processing dci packet in Snapdragon Auto, Snapdragon Compute, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Wearables, Snapdragon Wired Infrastructure and Networking
+- [Live-Hack-CVE/CVE-2022-25677](https://github.com/Live-Hack-CVE/CVE-2022-25677)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25677">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25677">
+
+---
+## CVE-2022-25675 (2022-12-13T16:15:00)
+> Denial of service due to reachable assertion in modem while processing filter rule from application client in Snapdragon Compute, Snapdragon Industrial IOT, Snapdragon Mobile
+- [Live-Hack-CVE/CVE-2022-25675](https://github.com/Live-Hack-CVE/CVE-2022-25675)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25675">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25675">
+
+---
+## CVE-2022-25673 (2022-12-13T16:15:00)
+> Denial of service in MODEM due to reachable assertion while processing configuration from network in Snapdragon Mobile
+- [Live-Hack-CVE/CVE-2022-25673](https://github.com/Live-Hack-CVE/CVE-2022-25673)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25673">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25673">
+
+---
+## CVE-2022-25672 (2022-12-13T16:15:00)
+> Denial of service in MODEM due to reachable assertion while processing SIB1 with invalid Bandwidth in Snapdragon Mobile
+- [Live-Hack-CVE/CVE-2022-25672](https://github.com/Live-Hack-CVE/CVE-2022-25672)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25672">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25672">
 
 ---
 ## CVE-2022-25668 (2022-09-02T12:15:00)
@@ -18888,9 +19022,19 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-20495](https://github.com/Live-Hack-CVE/CVE-2022-20495)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20495">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20495">
 
 ---
+## CVE-2022-20491 (2022-12-13T16:15:00)
+> In NotificationChannel of NotificationChannel.java, there is a possible failure to persist permissions settings due to resource exhaustion. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-242703556
+- [Live-Hack-CVE/CVE-2022-20491](https://github.com/Live-Hack-CVE/CVE-2022-20491)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20491">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20491">
+
+---
 ## CVE-2022-20488 (2022-12-13T16:15:00)
 > In NotificationChannel of NotificationChannel.java, there is a possible failure to persist permissions settings due to resource exhaustion. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-242703217
 - [Live-Hack-CVE/CVE-2022-20488](https://github.com/Live-Hack-CVE/CVE-2022-20488)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20488">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20488">
+
+---
+## CVE-2022-20487 (2022-12-13T16:15:00)
+> In NotificationChannel of NotificationChannel.java, there is a possible failure to persist permissions settings due to resource exhaustion. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-242703202
+- [Live-Hack-CVE/CVE-2022-20487](https://github.com/Live-Hack-CVE/CVE-2022-20487)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20487">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20487">
 
 ---
 ## CVE-2022-20448 (2022-11-08T22:15:00)
