@@ -3201,6 +3201,21 @@
 - [Live-Hack-CVE/CVE-2022-42446](https://github.com/Live-Hack-CVE/CVE-2022-42446)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42446">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42446">
 
 ---
+## CVE-2022-4243 (2022-12-26T13:15:00)
+> The ImageInject WordPress plugin through TODO does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup).
+- [Live-Hack-CVE/CVE-2022-4243](https://github.com/Live-Hack-CVE/CVE-2022-4243)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4243">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4243">
+
+---
+## CVE-2022-4242 (2022-12-26T13:15:00)
+> The WP Google Review Slider WordPress plugin before 11.6 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup).
+- [Live-Hack-CVE/CVE-2022-4242](https://github.com/Live-Hack-CVE/CVE-2022-4242)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4242">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4242">
+
+---
+## CVE-2022-4239 (2022-12-26T13:15:00)
+> The Workreap WordPress theme before 2.6.4 does not verify that an addon service belongs to the user issuing the request, or indeed that it is an addon service, when processing the workreap_addons_service_remove action, allowing any user to delete any post by knowing or guessing the id.
+- [Live-Hack-CVE/CVE-2022-4239](https://github.com/Live-Hack-CVE/CVE-2022-4239)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4239">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4239">
+
+---
 ## CVE-2022-42367 (2022-12-16T16:15:00)
 > Adobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.
 - [Live-Hack-CVE/CVE-2022-42367](https://github.com/Live-Hack-CVE/CVE-2022-42367)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42367">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42367">
@@ -3344,6 +3359,16 @@
 ## CVE-2022-4228 (2022-11-30T12:15:00)
 > A vulnerability classified as problematic has been found in SourceCodester Book Store Management System 1.0. This affects an unknown part of the file /bsms_ci/index.php/user/edit_user/. The manipulation of the argument password leads to information disclosure. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-214587.
 - [Live-Hack-CVE/CVE-2022-4228](https://github.com/Live-Hack-CVE/CVE-2022-4228)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4228">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4228">
+
+---
+## CVE-2022-4227 (2022-12-26T13:15:00)
+> The Booster for WooCommerce WordPress plugin before 5.6.3, Booster Plus for WooCommerce WordPress plugin before 6.0.0, Booster Elite for WooCommerce WordPress plugin before 6.0.0 do not escape some URLs and parameters before outputting them back in attributes, leading to Reflected Cross-Site Scripting
+- [Live-Hack-CVE/CVE-2022-4227](https://github.com/Live-Hack-CVE/CVE-2022-4227)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4227">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4227">
+
+---
+## CVE-2022-4226 (2022-12-26T13:15:00)
+> The Simple Basic Contact Form WordPress plugin before 20221201 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup).
+- [Live-Hack-CVE/CVE-2022-4226](https://github.com/Live-Hack-CVE/CVE-2022-4226)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4226">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4226">
 
 ---
 ## CVE-2022-42250 (2022-10-06T18:18:00)
@@ -3562,6 +3587,11 @@
 ## CVE-2022-41970 (2022-12-01T21:15:00)
 > Nextcloud Server is an open source personal cloud server. Prior to versions 24.0.7 and 25.0.1, disabled download shares still allow download through preview images. Images could be downloaded and previews of documents (first page) can be downloaded without being watermarked. Versions 24.0.7 and 25.0.1 contain a fix for this issue. No known workarounds are available.
 - [Live-Hack-CVE/CVE-2022-41970](https://github.com/Live-Hack-CVE/CVE-2022-41970)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41970">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41970">
+
+---
+## CVE-2022-4197 (2022-12-26T13:15:00)
+> The Sliderby10Web WordPress plugin before 1.2.53 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup).
+- [Live-Hack-CVE/CVE-2022-4197](https://github.com/Live-Hack-CVE/CVE-2022-4197)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4197">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4197">
 
 ---
 ## CVE-2022-41969 (2022-12-01T21:15:00)
@@ -3975,6 +4005,11 @@
 - [Live-Hack-CVE/CVE-2022-41685](https://github.com/Live-Hack-CVE/CVE-2022-41685)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41685">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41685">
 
 ---
+## CVE-2022-4166 (2022-12-26T13:15:00)
+> The Contest Gallery WordPress plugin before 19.1.5.1, Contest Gallery Pro WordPress plugin before 19.1.5.1 do not escape the addCountS POST parameter before concatenating it to an SQL query in 4_activate.php. This may allow malicious users with at least author privilege to leak sensitive information from the site's database.
+- [Live-Hack-CVE/CVE-2022-4166](https://github.com/Live-Hack-CVE/CVE-2022-4166)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4166">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4166">
+
+---
 ## CVE-2022-41655 (2022-11-18T23:15:00)
 > Auth. (subscriber+) Sensitive Data Exposure vulnerability in Phone Orders for WooCommerce plugin <= 3.7.1 on WordPress.
 - [Live-Hack-CVE/CVE-2022-41655](https://github.com/Live-Hack-CVE/CVE-2022-41655)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41655">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41655">
@@ -3990,6 +4025,11 @@
 - [Live-Hack-CVE/CVE-2022-41653](https://github.com/Live-Hack-CVE/CVE-2022-41653)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41653">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41653">
 
 ---
+## CVE-2022-4165 (2022-12-26T13:15:00)
+> The Contest Gallery WordPress plugin before 19.1.5.1, Contest Gallery Pro WordPress plugin before 19.1.5.1 do not escape the cg_order POST parameter before concatenating it to an SQL query in order-custom-fields-with-and-without-search.php. This may allow malicious users with at least author privilege to leak sensitive information from the site's database.
+- [Live-Hack-CVE/CVE-2022-4165](https://github.com/Live-Hack-CVE/CVE-2022-4165)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4165">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4165">
+
+---
 ## CVE-2022-41649 (2022-12-22T22:15:00)
 > A heap out of bounds read vulnerability exists in the handling of IPTC data while parsing TIFF images in OpenImageIO v2.3.19.0. A specially-crafted TIFF file can cause a read of adjacent heap memory, which can leak sensitive process information. An attacker can provide a malicious file to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2022-41649](https://github.com/Live-Hack-CVE/CVE-2022-41649)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41649">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41649">
@@ -4000,9 +4040,29 @@
 - [Live-Hack-CVE/CVE-2022-41642](https://github.com/Live-Hack-CVE/CVE-2022-41642)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41642">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41642">
 
 ---
+## CVE-2022-4164 (2022-12-26T13:15:00)
+> The Contest Gallery WordPress plugin before 19.1.5.1, Contest Gallery Pro WordPress plugin before 19.1.5.1 do not escape the cg_multiple_files_for_post POST parameter before concatenating it to an SQL query in 0_change-gallery.php. This may allow malicious users with at least author privilege to leak sensitive information from the site's database.
+- [Live-Hack-CVE/CVE-2022-4164](https://github.com/Live-Hack-CVE/CVE-2022-4164)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4164">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4164">
+
+---
 ## CVE-2022-41638 (2022-10-21T16:15:00)
 > Auth. Stored Cross-Site Scripting (XSS) in Pop-Up Chop Chop plugin <= 2.1.7 on WordPress.
 - [Live-Hack-CVE/CVE-2022-41638](https://github.com/Live-Hack-CVE/CVE-2022-41638)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41638">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41638">
+
+---
+## CVE-2022-4163 (2022-12-26T13:15:00)
+> The Contest Gallery WordPress plugin before 19.1.5.1, Contest Gallery Pro WordPress plugin before 19.1.5.1 do not escape the cg_deactivate and cg_activate POST parameters before concatenating it to an SQL query in 2_deactivate.php and 4_activate.php, respectively. This may allow malicious users with at least author privilege to leak sensitive information from the site's database.
+- [Live-Hack-CVE/CVE-2022-4163](https://github.com/Live-Hack-CVE/CVE-2022-4163)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4163">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4163">
+
+---
+## CVE-2022-4162 (2022-12-26T13:15:00)
+> The Contest Gallery WordPress plugin before 19.1.5.1, Contest Gallery Pro WordPress plugin before 19.1.5.1 do not escape the cg_row POST parameter before concatenating it to an SQL query in 3_row-order.php. This may allow malicious users with at least author privilege to leak sensitive information from the site's database.
+- [Live-Hack-CVE/CVE-2022-4162](https://github.com/Live-Hack-CVE/CVE-2022-4162)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4162">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4162">
+
+---
+## CVE-2022-4161 (2022-12-26T13:15:00)
+> The Contest Gallery WordPress plugin before 19.1.5.1, Contest Gallery Pro WordPress plugin before 19.1.5.1 do not escape the cg_copy_start POST parameter before concatenating it to an SQL query in copy-gallery-images.php. This may allow malicious users with at least author privilege to leak sensitive information from the site's database.
+- [Live-Hack-CVE/CVE-2022-4161](https://github.com/Live-Hack-CVE/CVE-2022-4161)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4161">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4161">
 
 ---
 ## CVE-2022-41609 (2022-11-19T00:15:00)
@@ -4013,6 +4073,16 @@
 ## CVE-2022-41604 (2022-09-27T23:15:00)
 > Check Point ZoneAlarm Extreme Security before 15.8.211.19229 allows local users to escalate privileges. This occurs because of weak permissions for the %PROGRAMDATA%\CheckPoint\ZoneAlarm\Data\Updates directory, and a self-protection driver bypass that allows creation of a junction directory. This can be leveraged to perform an arbitrary file move as NT AUTHORITY\SYSTEM.
 - [Live-Hack-CVE/CVE-2022-41604](https://github.com/Live-Hack-CVE/CVE-2022-41604)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41604">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41604">
+
+---
+## CVE-2022-4160 (2022-12-26T13:15:00)
+> The Contest Gallery WordPress plugin before 19.1.5.1, Contest Gallery Pro WordPress plugin before 19.1.5.1 do not escape the cg_copy_id POST parameter before concatenating it to an SQL query in cg-copy-comments.php and cg-copy-rating.php. This may allow malicious users with at least author privilege to leak sensitive information from the site's database.
+- [Live-Hack-CVE/CVE-2022-4160](https://github.com/Live-Hack-CVE/CVE-2022-4160)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4160">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4160">
+
+---
+## CVE-2022-4159 (2022-12-26T13:15:00)
+> The Contest Gallery WordPress plugin before 19.1.5.1, Contest Gallery Pro WordPress plugin before 19.1.5.1 do not escape the cg_id POST parameter before concatenating it to an SQL query in 0_change-gallery.php. This may allow malicious users with at least author privilege to leak sensitive information from the site's database.
+- [Live-Hack-CVE/CVE-2022-4159](https://github.com/Live-Hack-CVE/CVE-2022-4159)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4159">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4159">
 
 ---
 ## CVE-2022-41589 (2022-10-14T16:15:00)
@@ -4055,9 +4125,19 @@
 - [Live-Hack-CVE/CVE-2022-41580](https://github.com/Live-Hack-CVE/CVE-2022-41580)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41580">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41580">
 
 ---
+## CVE-2022-4158 (2022-12-26T13:15:00)
+> The Contest Gallery WordPress plugin before 19.1.5.1, Contest Gallery Pro WordPress plugin before 19.1.5.1 do not escape the cg_Fields POST parameter before concatenating it to an SQL query in users-registry-check-registering-and-login.php. This may allow malicious visitors to leak sensitive information from the site's database.
+- [Live-Hack-CVE/CVE-2022-4158](https://github.com/Live-Hack-CVE/CVE-2022-4158)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4158">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4158">
+
+---
 ## CVE-2022-41578 (2022-10-14T16:15:00)
 > The MPTCP module has an out-of-bounds write vulnerability.Successful exploitation of this vulnerability may cause root privilege escalation attacks implemented by modifying program information.
 - [Live-Hack-CVE/CVE-2022-41578](https://github.com/Live-Hack-CVE/CVE-2022-41578)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41578">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41578">
+
+---
+## CVE-2022-4157 (2022-12-26T13:15:00)
+> The Contest Gallery WordPress plugin before 19.1.5.1, Contest Gallery Pro WordPress plugin before 19.1.5.1 do not escape the cg_option_id POST parameter before concatenating it to an SQL query in export-votes-all.php. This may allow malicious users with administrator privileges (i.e. on multisite WordPress configurations) to leak sensitive information from the site's database.
+- [Live-Hack-CVE/CVE-2022-4157](https://github.com/Live-Hack-CVE/CVE-2022-4157)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4157">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4157">
 
 ---
 ## CVE-2022-41560 (2022-12-06T19:15:00)
@@ -4065,9 +4145,24 @@
 - [Live-Hack-CVE/CVE-2022-41560](https://github.com/Live-Hack-CVE/CVE-2022-41560)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41560">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41560">
 
 ---
+## CVE-2022-4156 (2022-12-26T13:15:00)
+> The Contest Gallery WordPress plugin before 19.1.5.1, Contest Gallery Pro WordPress plugin before 19.1.5.1 do not escape the user_id POST parameter before concatenating it to an SQL query in ajax-functions-backend.php. This may allow malicious users with at least author privilege to leak sensitive information from the site's database.
+- [Live-Hack-CVE/CVE-2022-4156](https://github.com/Live-Hack-CVE/CVE-2022-4156)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4156">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4156">
+
+---
 ## CVE-2022-41559 (2022-12-06T19:15:00)
 > The Web Client component of TIBCO Software Inc.'s TIBCO Nimbus contains an easily exploitable vulnerability that allows an unauthenticated attacker with network access to exploit an open redirect on the affected system. A successful attack using this vulnerability requires human interaction from a person other than the attacker. Affected releases are TIBCO Software Inc.'s TIBCO Nimbus: version 10.5.0.
 - [Live-Hack-CVE/CVE-2022-41559](https://github.com/Live-Hack-CVE/CVE-2022-41559)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41559">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41559">
+
+---
+## CVE-2022-4155 (2022-12-26T13:15:00)
+> The Contest Gallery WordPress plugin before 19.1.5.1, Contest Gallery Pro WordPress plugin before 19.1.5.1 do not escape the wp_user_id GET parameter before concatenating it to an SQL query in management-show-user.php. This may allow malicious users with administrator privileges (i.e. on multisite WordPress configurations) to leak sensitive information from the site's database.
+- [Live-Hack-CVE/CVE-2022-4155](https://github.com/Live-Hack-CVE/CVE-2022-4155)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4155">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4155">
+
+---
+## CVE-2022-4154 (2022-12-26T13:15:00)
+> The Contest Gallery Pro WordPress plugin before 19.1.5 does not escape the wp_user_id GET parameter before concatenating it to an SQL query in management-show-user.php. This may allow malicious users with at administrator privileges (i.e. on multisite WordPress configurations) to leak sensitive information from the site's database.
+- [Live-Hack-CVE/CVE-2022-4154](https://github.com/Live-Hack-CVE/CVE-2022-4154)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4154">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4154">
 
 ---
 ## CVE-2022-41539 (2022-10-14T05:15:00)
@@ -4088,6 +4183,26 @@
 ## CVE-2022-41530 (2022-10-12T00:15:00)
 > Open Source SACCO Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /sacco_shield/ajax.php?action=delete_borrower.
 - [Live-Hack-CVE/CVE-2022-41530](https://github.com/Live-Hack-CVE/CVE-2022-41530)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41530">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41530">
+
+---
+## CVE-2022-4153 (2022-12-26T13:15:00)
+> The Contest Gallery WordPress plugin before 19.1.5.1, Contest Gallery Pro WordPress plugin before 19.1.5.1 do not escape the upload[] POST parameter before concatenating it to an SQL query in get-data-create-upload-v10.php. This may allow malicious users with at least author privilege to leak sensitive information from the site's database.
+- [Live-Hack-CVE/CVE-2022-4153](https://github.com/Live-Hack-CVE/CVE-2022-4153)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4153">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4153">
+
+---
+## CVE-2022-4152 (2022-12-26T13:15:00)
+> The Contest Gallery WordPress plugin before 19.1.5, Contest Gallery Pro WordPress plugin before 19.1.5 do not escape the option_id POST parameter before concatenating it to an SQL query in edit-options.php. This may allow malicious users with at least author privilege to leak sensitive information from the site's database.
+- [Live-Hack-CVE/CVE-2022-4152](https://github.com/Live-Hack-CVE/CVE-2022-4152)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4152">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4152">
+
+---
+## CVE-2022-4151 (2022-12-26T13:15:00)
+> The Contest Gallery WordPress plugin before 19.1.5.1, Contest Gallery Pro WordPress plugin before 19.1.5.1 do not escape the option_id GET parameter before concatenating it to an SQL query in export-images-data.php. This may allow malicious users with at least author privilege to leak sensitive information from the site's database.
+- [Live-Hack-CVE/CVE-2022-4151](https://github.com/Live-Hack-CVE/CVE-2022-4151)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4151">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4151">
+
+---
+## CVE-2022-4150 (2022-12-26T13:15:00)
+> The Contest Gallery WordPress plugin before 19.1.5.1, Contest Gallery Pro WordPress plugin before 19.1.5.1 do not escape the option_id POST parameter before concatenating it to an SQL query in order-custom-fields-with-and-without-search.php. This may allow malicious users with at least author privilege to leak sensitive information from the site's database.
+- [Live-Hack-CVE/CVE-2022-4150](https://github.com/Live-Hack-CVE/CVE-2022-4150)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4150">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4150">
 
 ---
 ## CVE-2022-41495 (2022-10-13T21:15:00)
@@ -4350,6 +4465,16 @@
 - [L34ked/CVE-2022-41208](https://github.com/L34ked/CVE-2022-41208)	<img alt="forks" src="https://img.shields.io/github/forks/L34ked/CVE-2022-41208">	<img alt="stars" src="https://img.shields.io/github/stars/L34ked/CVE-2022-41208">
 
 ---
+## CVE-2022-4120 (2022-12-26T13:15:00)
+> The Stop Spammers Security | Block Spam Users, Comments, Forms WordPress plugin before 2022.6 passes base64 encoded user input to the unserialize() PHP function when CAPTCHA are used as second challenge, which could lead to PHP Object injection if a plugin installed on the blog has a suitable gadget chain
+- [Live-Hack-CVE/CVE-2022-4120](https://github.com/Live-Hack-CVE/CVE-2022-4120)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4120">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4120">
+
+---
+## CVE-2022-4117 (2022-12-26T13:15:00)
+> The IWS WordPress plugin through 1.0 does not properly escape a parameter before using it in a SQL statement via an AJAX action available to unauthenticated users, leading to an unauthenticated SQL injection.
+- [Live-Hack-CVE/CVE-2022-4117](https://github.com/Live-Hack-CVE/CVE-2022-4117)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4117">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4117">
+
+---
 ## CVE-2022-41138 (2022-09-20T18:15:00)
 > In Zutty before 0.13, DECRQSS in text written to the terminal can achieve arbitrary code execution.
 - [Live-Hack-CVE/CVE-2022-41138](https://github.com/Live-Hack-CVE/CVE-2022-41138)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41138">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41138">
@@ -4453,6 +4578,11 @@
 ## CVE-2022-41100 (2022-11-09T22:15:00)
 > Windows Advanced Local Procedure Call (ALPC) Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41045, CVE-2022-41093.
 - [Live-Hack-CVE/CVE-2022-41100](https://github.com/Live-Hack-CVE/CVE-2022-41100)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41100">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41100">
+
+---
+## CVE-2022-4110 (2022-12-26T13:15:00)
+> The Eventify™ WordPress plugin through 2.1 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup).
+- [Live-Hack-CVE/CVE-2022-4110](https://github.com/Live-Hack-CVE/CVE-2022-4110)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4110">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4110">
 
 ---
 ## CVE-2022-41097 (2022-11-09T22:15:00)
@@ -5294,6 +5424,13 @@
 - [Live-Hack-CVE/CVE-2022-40470](https://github.com/Live-Hack-CVE/CVE-2022-40470)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40470">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40470">
 
 ---
+## CVE-2022-4047 (2022-12-26T13:15:00)
+> The Return Refund and Exchange For WooCommerce WordPress plugin before 4.0.9 does not validate attachment files to be uploaded via an AJAX action available to unauthenticated users, which could allow them to upload arbitrary files such as PHP and lead to RCE
+- [Live-Hack-CVE/CVE-2022-4047](https://github.com/Live-Hack-CVE/CVE-2022-4047)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4047">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4047">
+- [RashidKhanPathan/CVE-2022-40470](https://github.com/RashidKhanPathan/CVE-2022-40470)	<img alt="forks" src="https://img.shields.io/github/forks/RashidKhanPathan/CVE-2022-40470">	<img alt="stars" src="https://img.shields.io/github/stars/RashidKhanPathan/CVE-2022-40470">
+- [RashidKhanPathan/CVE-2022-40471](https://github.com/RashidKhanPathan/CVE-2022-40471)	<img alt="forks" src="https://img.shields.io/github/forks/RashidKhanPathan/CVE-2022-40471">	<img alt="stars" src="https://img.shields.io/github/stars/RashidKhanPathan/CVE-2022-40471">
+
+---
 ## CVE-2022-40469 (2022-10-12T01:15:00)
 > iKuai OS v3.6.7 was discovered to contain an authenticated remote code execution (RCE) vulnerability.
 - [Live-Hack-CVE/CVE-2022-40469](https://github.com/Live-Hack-CVE/CVE-2022-40469)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40469">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40469">
@@ -5332,6 +5469,11 @@
 ## CVE-2022-40424 (2022-09-19T15:15:00)
 > The d8s-urls for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. A potential code execution backdoor inserted by third parties is the democritus-networking package. The affected version of d8s-urls is 0.1.0
 - [Live-Hack-CVE/CVE-2022-40424](https://github.com/Live-Hack-CVE/CVE-2022-40424)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40424">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40424">
+
+---
+## CVE-2022-4042 (2022-12-26T13:15:00)
+> The Paytium: Mollie payment forms & donations WordPress plugin through 4.3.6 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup).
+- [Live-Hack-CVE/CVE-2022-4042](https://github.com/Live-Hack-CVE/CVE-2022-4042)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4042">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4042">
 
 ---
 ## CVE-2022-40408 (2022-09-29T14:15:00)
@@ -7076,6 +7218,11 @@
 - [Live-Hack-CVE/CVE-2022-38418](https://github.com/Live-Hack-CVE/CVE-2022-38418)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38418">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38418">
 
 ---
+## CVE-2022-3840 (2022-12-26T13:15:00)
+> The Login for Google Apps WordPress plugin before 3.4.5 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup).
+- [Live-Hack-CVE/CVE-2022-3840](https://github.com/Live-Hack-CVE/CVE-2022-3840)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3840">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3840">
+
+---
 ## CVE-2022-38379 (2022-12-06T17:15:00)
 > Improper neutralization of input during web page generation [CWE-79] in FortiSOAR 7.0.0 through 7.0.3 and 7.2.0 may allow an authenticated attacker to inject HTML tags via input fields of various components within FortiSOAR.
 - [Live-Hack-CVE/CVE-2022-38379](https://github.com/Live-Hack-CVE/CVE-2022-38379)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38379">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38379">
@@ -7089,6 +7236,11 @@
 ## CVE-2022-38355 (2022-12-13T22:15:00)
 > Daikin SVMPC1 version 2.1.22 and prior and SVMPC2 version 1.2.3 and prior are vulnerable to attackers with access to the local area network (LAN) to disclose sensitive information stored by the affected product without requiring authentication.
 - [Live-Hack-CVE/CVE-2022-38355](https://github.com/Live-Hack-CVE/CVE-2022-38355)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38355">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38355">
+
+---
+## CVE-2022-3835 (2022-12-26T13:15:00)
+> The Kwayy HTML Sitemap WordPress plugin before 4.0 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup).
+- [Live-Hack-CVE/CVE-2022-3835](https://github.com/Live-Hack-CVE/CVE-2022-3835)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3835">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3835">
 
 ---
 ## CVE-2022-38342 (2022-09-13T20:15:00)
