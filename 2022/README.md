@@ -1916,9 +1916,15 @@
 - [Live-Hack-CVE/CVE-2022-45028](https://github.com/Live-Hack-CVE/CVE-2022-45028)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45028">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45028">
 
 ---
+## CVE-2022-45026 (2022-12-07T02:15:00)
+> An issue in Markdown Preview Enhanced v0.6.5 and v0.19.6 for VSCode and Atom allows attackers to execute arbitrary commands during the GFM export process.
+- [Live-Hack-CVE/CVE-2022-45026](https://github.com/Live-Hack-CVE/CVE-2022-45026)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45026">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45026">
+
+---
 ## CVE-2022-45025 (2022-12-07T02:15:00)
 > Markdown Preview Enhanced v0.6.5 and v0.19.6 for VSCode and Atom was discovered to contain a command injection vulnerability via the PDF file import function.
 - [yuriisanin/CVE-2022-45025](https://github.com/yuriisanin/CVE-2022-45025)	<img alt="forks" src="https://img.shields.io/github/forks/yuriisanin/CVE-2022-45025">	<img alt="stars" src="https://img.shields.io/github/stars/yuriisanin/CVE-2022-45025">
+- [Live-Hack-CVE/CVE-2022-45025](https://github.com/Live-Hack-CVE/CVE-2022-45025)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45025">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45025">
 
 ---
 ## CVE-2022-45020 (2022-12-05T23:15:00)
@@ -2549,6 +2555,7 @@
 ## CVE-2022-44153 (2022-12-07T02:15:00)
 > Rapid Software LLC Rapid SCADA 5.8.4 is vulnerable to Cross Site Scripting (XSS).
 - [Live-Hack-CVE/CVE-2022-44153](https://github.com/Live-Hack-CVE/CVE-2022-44153)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44153">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44153">
+- [Live-Hack-CVE/CVE-2022-44153](https://github.com/Live-Hack-CVE/CVE-2022-44153)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44153">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44153">
 
 ---
 ## CVE-2022-44109 (2022-12-19T23:15:00)
@@ -2640,6 +2647,7 @@
 ---
 ## CVE-2022-44030 (2022-12-06T23:15:00)
 > Redmine 5.x before 5.0.4 allows downloading of file attachments of any Issue or any Wiki page due to insufficient permission checks. Depending on the configuration, this may require login as a registered user.
+- [Live-Hack-CVE/CVE-2022-44030](https://github.com/Live-Hack-CVE/CVE-2022-44030)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44030">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44030">
 - [Live-Hack-CVE/CVE-2022-44030](https://github.com/Live-Hack-CVE/CVE-2022-44030)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44030">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44030">
 
 ---
@@ -5027,6 +5035,12 @@
 - [Live-Hack-CVE/CVE-2022-4163](https://github.com/Live-Hack-CVE/CVE-2022-4163)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4163">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4163">
 
 ---
+## CVE-2022-41622 (2022-12-07T04:15:00)
+> In all versions, BIG-IP and BIG-IQ are vulnerable to cross-site request forgery (CSRF) attacks through iControl SOAP. Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated.
+- [Live-Hack-CVE/CVE-2022-41622](https://github.com/Live-Hack-CVE/CVE-2022-41622)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41622">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41622">
+- [rbowes-r7/refreshing-soap-exploit](https://github.com/rbowes-r7/refreshing-soap-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/rbowes-r7/refreshing-soap-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/rbowes-r7/refreshing-soap-exploit">
+
+---
 ## CVE-2022-4162 (2022-12-26T13:15:00)
 > The Contest Gallery WordPress plugin before 19.1.5.1, Contest Gallery Pro WordPress plugin before 19.1.5.1 do not escape the cg_row POST parameter before concatenating it to an SQL query in 3_row-order.php. This may allow malicious users with at least author privilege to leak sensitive information from the site's database.
 - [Live-Hack-CVE/CVE-2022-4162](https://github.com/Live-Hack-CVE/CVE-2022-4162)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4162">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4162">
@@ -5159,6 +5173,7 @@
 ---
 ## CVE-2022-41559 (2022-12-06T19:15:00)
 > The Web Client component of TIBCO Software Inc.'s TIBCO Nimbus contains an easily exploitable vulnerability that allows an unauthenticated attacker with network access to exploit an open redirect on the affected system. A successful attack using this vulnerability requires human interaction from a person other than the attacker. Affected releases are TIBCO Software Inc.'s TIBCO Nimbus: version 10.5.0.
+- [Live-Hack-CVE/CVE-2022-41559](https://github.com/Live-Hack-CVE/CVE-2022-41559)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41559">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41559">
 - [Live-Hack-CVE/CVE-2022-41559](https://github.com/Live-Hack-CVE/CVE-2022-41559)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41559">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41559">
 
 ---
@@ -8070,8 +8085,14 @@
 - [Live-Hack-CVE/CVE-2022-38901](https://github.com/Live-Hack-CVE/CVE-2022-38901)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38901">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38901">
 
 ---
+## CVE-2022-3890 (2022-11-09T04:15:00)
+> Heap buffer overflow in Crashpad in Google Chrome on Android prior to 107.0.5304.106 allowed a remote attacker who had compromised the renderer process to potentially perform a sandbox escape via a crafted HTML page. (Chromium security severity: High)
+- [Live-Hack-CVE/CVE-2022-3890](https://github.com/Live-Hack-CVE/CVE-2022-3890)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3890">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3890">
+
+---
 ## CVE-2022-3889 (2022-11-09T04:15:00)
 > Type confusion in V8 in Google Chrome prior to 107.0.5304.106 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
+- [Live-Hack-CVE/CVE-2022-3889](https://github.com/Live-Hack-CVE/CVE-2022-3889)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3889">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3889">
 - [Live-Hack-CVE/CVE-2022-3889](https://github.com/Live-Hack-CVE/CVE-2022-3889)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3889">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3889">
 
 ---
@@ -8134,10 +8155,18 @@
 > Use after free in Web Workers in Google Chrome prior to 107.0.5304.106 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [Live-Hack-CVE/CVE-2022-3887](https://github.com/Live-Hack-CVE/CVE-2022-3887)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3887">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3887">
 - [Live-Hack-CVE/CVE-2022-38873](https://github.com/Live-Hack-CVE/CVE-2022-38873)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38873">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38873">
+- [Live-Hack-CVE/CVE-2022-3887](https://github.com/Live-Hack-CVE/CVE-2022-3887)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3887">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3887">
+- [Live-Hack-CVE/CVE-2022-38873](https://github.com/Live-Hack-CVE/CVE-2022-38873)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38873">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38873">
+
+---
+## CVE-2022-3886 (2022-11-09T04:15:00)
+> Use after free in Speech Recognition in Google Chrome prior to 107.0.5304.106 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
+- [Live-Hack-CVE/CVE-2022-3886](https://github.com/Live-Hack-CVE/CVE-2022-3886)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3886">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3886">
 
 ---
 ## CVE-2022-3885 (2022-11-09T04:15:00)
 > Use after free in V8 in Google Chrome prior to 107.0.5304.106 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
+- [Live-Hack-CVE/CVE-2022-3885](https://github.com/Live-Hack-CVE/CVE-2022-3885)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3885">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3885">
 - [Live-Hack-CVE/CVE-2022-3885](https://github.com/Live-Hack-CVE/CVE-2022-3885)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3885">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3885">
 
 ---
@@ -9573,6 +9602,11 @@
 ## CVE-2022-37418 (2022-08-24T06:15:00)
 > The Remote Keyless Entry (RKE) receiving unit on certain Nissan, Kia, and Hyundai vehicles through 2017 allows remote attackers to perform unlock operations and force a resynchronization after capturing two consecutive valid key fob signals over the radio, aka a RollBack attack. The attacker retains the ability to unlock indefinitely.
 - [Live-Hack-CVE/CVE-2022-37418](https://github.com/Live-Hack-CVE/CVE-2022-37418)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37418">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37418">
+
+---
+## CVE-2022-37406 (2022-12-07T04:15:00)
+> Cross-site scripting vulnerability in Aficio SP 4210N firmware versions prior to Web Support 1.05 allows a remote authenticated attacker with an administrative privilege to inject an arbitrary script.
+- [Live-Hack-CVE/CVE-2022-37406](https://github.com/Live-Hack-CVE/CVE-2022-37406)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37406">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37406">
 
 ---
 ## CVE-2022-37401 (2022-08-15T11:21:00)
@@ -11784,6 +11818,7 @@
 ## CVE-2022-35256 (2022-12-05T22:15:00)
 > The llhttp parser in the http module in Node v18.7.0 does not correctly handle header fields that are not terminated with CLRF. This may result in HTTP Request Smuggling.
 - [Live-Hack-CVE/CVE-2022-35256](https://github.com/Live-Hack-CVE/CVE-2022-35256)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35256">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35256">
+- [Live-Hack-CVE/CVE-2022-35256](https://github.com/Live-Hack-CVE/CVE-2022-35256)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35256">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35256">
 
 ---
 ## CVE-2022-35255 (2022-12-05T22:15:00)
@@ -11793,6 +11828,7 @@
 ---
 ## CVE-2022-35254 (2022-12-05T22:15:00)
 > An unauthenticated attacker can cause a denial-of-service to the following products: Ivanti Connect Secure (ICS) in versions prior to 9.1R14.3, 9.1R15.2, 9.1R16.2, and 22.2R4, Ivanti Policy Secure (IPS) in versions prior to 9.1R17 and 22.3R1, and Ivanti Neurons for Zero-Trust Access in versions prior to 22.3R1.
+- [Live-Hack-CVE/CVE-2022-35254](https://github.com/Live-Hack-CVE/CVE-2022-35254)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35254">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35254">
 - [Live-Hack-CVE/CVE-2022-35254](https://github.com/Live-Hack-CVE/CVE-2022-35254)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35254">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35254">
 
 ---
@@ -13042,6 +13078,11 @@
 - [Live-Hack-CVE/CVE-2022-3313](https://github.com/Live-Hack-CVE/CVE-2022-3313)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3313">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3313">
 
 ---
+## CVE-2022-3312 (2022-11-01T20:15:00)
+> Insufficient validation of untrusted input in VPN in Google Chrome on ChromeOS prior to 106.0.5249.62 allowed a local attacker to bypass managed device restrictions via physical access to the device. (Chromium security severity: Medium)
+- [Live-Hack-CVE/CVE-2022-3312](https://github.com/Live-Hack-CVE/CVE-2022-3312)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3312">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3312">
+
+---
 ## CVE-2022-33106 (2022-10-12T14:15:00)
 > WiJungle NGFW Version U250 was discovered to be vulnerable to No Rate Limit attack, allowing the attacker to brute force the admin password leading to Account Take Over.
 - [Live-Hack-CVE/CVE-2022-33106](https://github.com/Live-Hack-CVE/CVE-2022-33106)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33106">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33106">
@@ -13452,6 +13493,11 @@
 - [g01f/CVE-2022-3236-POC](https://github.com/g01f/CVE-2022-3236-POC)	<img alt="forks" src="https://img.shields.io/github/forks/g01f/CVE-2022-3236-POC">	<img alt="stars" src="https://img.shields.io/github/stars/g01f/CVE-2022-3236-POC">
 - [Adynervi/CVE-2022-3236-MASS-RCE](https://github.com/Adynervi/CVE-2022-3236-MASS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Adynervi/CVE-2022-3236-MASS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Adynervi/CVE-2022-3236-MASS-RCE">
 - [subvers1on/CVE-2022-3236-RCE-PoC](https://github.com/subvers1on/CVE-2022-3236-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/subvers1on/CVE-2022-3236-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/subvers1on/CVE-2022-3236-RCE-PoC">
+
+---
+## CVE-2022-3234 (2022-09-17T22:15:00)
+> Heap-based Buffer Overflow in GitHub repository vim/vim prior to 9.0.0483.
+- [Live-Hack-CVE/CVE-2022-3234](https://github.com/Live-Hack-CVE/CVE-2022-3234)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3234">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3234">
 
 ---
 ## CVE-2022-3233 (2022-09-21T20:15:00)
@@ -14000,6 +14046,11 @@
 > The SEO Smart Links WordPress plugin through 3.0.1 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup)
 - [Live-Hack-CVE/CVE-2022-3135](https://github.com/Live-Hack-CVE/CVE-2022-3135)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3135">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3135">
 - [Live-Hack-CVE/CVE-2022-31358](https://github.com/Live-Hack-CVE/CVE-2022-31358)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31358">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31358">
+
+---
+## CVE-2022-3134 (2022-09-06T20:15:00)
+> Use After Free in GitHub repository vim/vim prior to 9.0.0389.
+- [Live-Hack-CVE/CVE-2022-3134](https://github.com/Live-Hack-CVE/CVE-2022-3134)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3134">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3134">
 
 ---
 ## CVE-2022-31325 (2022-06-08T16:15:00)
@@ -15246,6 +15297,11 @@
 - [devengpk/CVE-2022-29464](https://github.com/devengpk/CVE-2022-29464)	<img alt="forks" src="https://img.shields.io/github/forks/devengpk/CVE-2022-29464">	<img alt="stars" src="https://img.shields.io/github/stars/devengpk/CVE-2022-29464">
 - [amit-pathak009/CVE-2022-29464-mass](https://github.com/amit-pathak009/CVE-2022-29464-mass)	<img alt="forks" src="https://img.shields.io/github/forks/amit-pathak009/CVE-2022-29464-mass">	<img alt="stars" src="https://img.shields.io/github/stars/amit-pathak009/CVE-2022-29464-mass">
 - [amit-pathak009/CVE-2022-29464](https://github.com/amit-pathak009/CVE-2022-29464)	<img alt="forks" src="https://img.shields.io/github/forks/amit-pathak009/CVE-2022-29464">	<img alt="stars" src="https://img.shields.io/github/stars/amit-pathak009/CVE-2022-29464">
+
+---
+## CVE-2022-2946 (2022-08-23T17:15:00)
+> Use After Free in GitHub repository vim/vim prior to 9.0.0246.
+- [Live-Hack-CVE/CVE-2022-2946](https://github.com/Live-Hack-CVE/CVE-2022-2946)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2946">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2946">
 
 ---
 ## CVE-2022-29455 (2022-06-13T17:15:00)
@@ -17505,6 +17561,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-23473](https://github.com/Live-Hack-CVE/CVE-2022-23473)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23473">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23473">
 
 ---
+## CVE-2022-23472 (2022-12-06T18:15:00)
+> Passeo is an open source python password generator. Versions prior to 1.0.5 rely on the python `random` library for random value selection. The python `random` library warns that it should not be used for security purposes due to its reliance on a non-cryptographically secure random number generator. As a result a motivated attacker may be able to guess generated passwords. This issue has been addressed in version 1.0.5. Users are advised to upgrade. There are no known workarounds for this vulnerability.
+- [Live-Hack-CVE/CVE-2022-23472](https://github.com/Live-Hack-CVE/CVE-2022-23472)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23472">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23472">
+
+---
 ## CVE-2022-23470 (2022-12-06T18:15:00)
 > Galaxy is an open-source platform for data analysis. An arbitrary file read exists in Galaxy 22.01 and Galaxy 22.05 due to the switch to Gunicorn, which can be used to read any file accessible to the operating system user under which Galaxy is running. This vulnerability affects Galaxy 22.01 and higher, after the switch to gunicorn, which serve static contents directly. Additionally, the vulnerability is mitigated when using Nginx or Apache to serve /static/* contents, instead of Galaxy's internal middleware. This issue has been patched in commit `e5e6bda4f` and will be included in future releases. Users are advised to manually patch their installations. There are no known workarounds for this vulnerability.
 - [Live-Hack-CVE/CVE-2022-23470](https://github.com/Live-Hack-CVE/CVE-2022-23470)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23470">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23470">
@@ -17840,6 +17901,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-2287 (2022-07-02T22:15:00)
 > Out-of-bounds Read in GitHub repository vim/vim prior to 9.0.
 - [Live-Hack-CVE/CVE-2022-2287](https://github.com/Live-Hack-CVE/CVE-2022-2287)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2287">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2287">
+
+---
+## CVE-2022-2285 (2022-07-02T16:15:00)
+> Integer Overflow or Wraparound in GitHub repository vim/vim prior to 9.0.
+- [Live-Hack-CVE/CVE-2022-2285](https://github.com/Live-Hack-CVE/CVE-2022-2285)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2285">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2285">
 
 ---
 ## CVE-2022-22844 (2022-01-10T14:12:00)
@@ -19918,6 +19984,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20007](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20007)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20007">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20007">
 
 ---
+## CVE-2022-1968 (2022-06-02T14:15:00)
+> Use After Free in GitHub repository vim/vim prior to 8.2.
+- [Live-Hack-CVE/CVE-2022-1968](https://github.com/Live-Hack-CVE/CVE-2022-1968)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1968">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1968">
+
+---
 ## CVE-2022-1962 (2022-08-10T20:15:00)
 > Uncontrolled recursion in the Parse functions in go/parser before Go 1.17.12 and Go 1.18.4 allow an attacker to cause a panic due to stack exhaustion via deeply nested types or declarations.
 - [Live-Hack-CVE/CVE-2022-1962](https://github.com/Live-Hack-CVE/CVE-2022-1962)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1962">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1962">
@@ -19951,6 +20022,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1902 (2022-09-01T21:15:00)
 > A flaw was found in the Red Hat Advanced Cluster Security for Kubernetes. Notifier secrets were not properly sanitized in the GraphQL API. This flaw allows authenticated ACS users to retrieve Notifiers from the GraphQL API, revealing secrets that can escalate their privileges.
 - [Live-Hack-CVE/CVE-2022-1902](https://github.com/Live-Hack-CVE/CVE-2022-1902)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1902">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1902">
+
+---
+## CVE-2022-1898 (2022-05-27T09:15:00)
+> Use After Free in GitHub repository vim/vim prior to 8.2.
+- [Live-Hack-CVE/CVE-2022-1898](https://github.com/Live-Hack-CVE/CVE-2022-1898)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1898">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1898">
 
 ---
 ## CVE-2022-1897 (2022-05-27T15:15:00)
@@ -19991,6 +20067,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1852 (2022-06-30T13:15:00)
 > A NULL pointer dereference flaw was found in the Linux kernel’s KVM module, which can lead to a denial of service in the x86_emulate_insn in arch/x86/kvm/emulate.c. This flaw occurs while executing an illegal instruction in guest in the Intel CPU.
 - [Live-Hack-CVE/CVE-2022-1852](https://github.com/Live-Hack-CVE/CVE-2022-1852)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1852">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1852">
+
+---
+## CVE-2022-1851 (2022-05-25T13:15:00)
+> Out-of-bounds Read in GitHub repository vim/vim prior to 8.2.
+- [Live-Hack-CVE/CVE-2022-1851](https://github.com/Live-Hack-CVE/CVE-2022-1851)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1851">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1851">
 
 ---
 ## CVE-2022-1802 (2022-12-22T20:15:00)
@@ -20051,6 +20132,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ---
 ## CVE-2022-1720 (2022-06-20T15:15:00)
 > Buffer Over-read in function grab_file_name in GitHub repository vim/vim prior to 8.2.4956. This vulnerability is capable of crashing the software, memory modification, and possible remote execution.
+- [Live-Hack-CVE/CVE-2022-1720](https://github.com/Live-Hack-CVE/CVE-2022-1720)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1720">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1720">
 - [Live-Hack-CVE/CVE-2022-1720](https://github.com/Live-Hack-CVE/CVE-2022-1720)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1720">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1720">
 
 ---
@@ -20130,6 +20212,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-1621](https://github.com/Live-Hack-CVE/CVE-2022-1621)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1621">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1621">
 
 ---
+## CVE-2022-1616 (2022-05-07T19:15:00)
+> Use after free in append_command in GitHub repository vim/vim prior to 8.2.4895. This vulnerability is capable of crashing software, Bypass Protection Mechanism, Modify Memory, and possible remote execution
+- [Live-Hack-CVE/CVE-2022-1616](https://github.com/Live-Hack-CVE/CVE-2022-1616)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1616">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1616">
+
+---
 ## CVE-2022-1609 ()
 > 
 - [NullBrunk/CVE-2022-1609](https://github.com/NullBrunk/CVE-2022-1609)	<img alt="forks" src="https://img.shields.io/github/forks/NullBrunk/CVE-2022-1609">	<img alt="stars" src="https://img.shields.io/github/stars/NullBrunk/CVE-2022-1609">
@@ -20160,6 +20247,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1520 (2022-12-22T20:15:00)
 > When viewing an email message A, which contains an attached message B, where B is encrypted or digitally signed or both, Thunderbird may show an incorrect encryption or signature status. After opening and viewing the attached message B, when returning to the display of message A, the message A might be shown with the security status of message B. This vulnerability affects Thunderbird < 91.9.
 - [Live-Hack-CVE/CVE-2022-1520](https://github.com/Live-Hack-CVE/CVE-2022-1520)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1520">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1520">
+
+---
+## CVE-2022-1516 (2022-05-05T15:15:00)
+> A NULL pointer dereference flaw was found in the Linux kernel’s X.25 set of standardized network protocols functionality in the way a user terminates their session using a simulated Ethernet card and continued usage of this connection. This flaw allows a local user to crash the system.
+- [Live-Hack-CVE/CVE-2022-1516](https://github.com/Live-Hack-CVE/CVE-2022-1516)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1516">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1516">
 
 ---
 ## CVE-2022-1513 (2022-08-23T18:15:00)
