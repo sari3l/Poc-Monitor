@@ -286,6 +286,11 @@
 - [Live-Hack-CVE/CVE-2022-47208](https://github.com/Live-Hack-CVE/CVE-2022-47208)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47208">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47208">
 
 ---
+## CVE-2022-46997 (2022-12-14T15:15:00)
+> Passhunt commit 54eb987d30ead2b8ebbf1f0b880aa14249323867 was discovered to contain a code execution backdoor via the request package. This vulnerability allows attackers to access sensitive user information and digital currency keys, as well as escalate privileges.
+- [Live-Hack-CVE/CVE-2022-46997](https://github.com/Live-Hack-CVE/CVE-2022-46997)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46997">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46997">
+
+---
 ## CVE-2022-4698 (2022-12-23T16:15:00)
 > The ProfilePress plugin for WordPress is vulnerable to Stored Cross-Site Scripting via several form fields in versions up to, and including, 4.5.0 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with administrator-level permissions and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page. This only affects multi-site installations and installations where unfiltered_html has been disabled.
 - [Live-Hack-CVE/CVE-2022-4698](https://github.com/Live-Hack-CVE/CVE-2022-4698)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4698">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4698">
@@ -505,6 +510,11 @@
 ## CVE-2022-4662 (2022-12-22T22:15:00)
 > A flaw incorrect access control in the Linux kernel USB core subsystem was found in the way user attaches usb device. A local user could use this flaw to crash the system.
 - [Live-Hack-CVE/CVE-2022-4662](https://github.com/Live-Hack-CVE/CVE-2022-4662)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4662">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4662">
+
+---
+## CVE-2022-46609 (2022-12-14T15:15:00)
+> Python3-RESTfulAPI commit d9907f14e9e25dcdb54f5b22252b0e9452e3970e and e772e0beee284c50946e94c54a1d43071ca78b74 was discovered to contain a code execution backdoor via the request package. This vulnerability allows attackers to access sensitive user information and digital currency keys, as well as escalate privileges.
+- [Live-Hack-CVE/CVE-2022-46609](https://github.com/Live-Hack-CVE/CVE-2022-46609)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46609">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46609">
 
 ---
 ## CVE-2022-46551 (2022-12-20T15:15:00)
@@ -1816,9 +1826,19 @@
 - [Live-Hack-CVE/CVE-2022-44910](https://github.com/Live-Hack-CVE/CVE-2022-44910)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44910">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44910">
 
 ---
+## CVE-2022-44898 (2022-12-14T15:15:00)
+> The MsIo64.sys component in Asus Aura Sync through v1.07.79 does not properly validate input to IOCTL 0x80102040, 0x80102044, 0x80102050, and 0x80102054, allowing attackers to trigger a memory corruption and cause a Denial of Service (DoS) or escalate privileges via crafted IOCTL requests.
+- [Live-Hack-CVE/CVE-2022-44898](https://github.com/Live-Hack-CVE/CVE-2022-44898)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44898">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44898">
+
+---
 ## CVE-2022-44874 (2022-12-13T23:15:00)
 > wasm3 commit 7890a2097569fde845881e0b352d813573e371f9 was discovered to contain a segmentation fault via the component op_CallIndirect at /m3_exec.h.
 - [Live-Hack-CVE/CVE-2022-44874](https://github.com/Live-Hack-CVE/CVE-2022-44874)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44874">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44874">
+
+---
+## CVE-2022-44832 (2022-12-14T15:15:00)
+> D-Link DIR-3040 device with firmware 120B03 was discovered to contain a command injection vulnerability via the SetTriggerLEDBlink function.
+- [Live-Hack-CVE/CVE-2022-44832](https://github.com/Live-Hack-CVE/CVE-2022-44832)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44832">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44832">
 
 ---
 ## CVE-2022-44830 (2022-11-21T18:15:00)
@@ -13375,6 +13395,7 @@
 > An issue was discovered in the Linux kernel through 5.16-rc6. mtk_vcodec_fw_vpu_init in drivers/media/platform/mtk-vcodec/mtk_vcodec_fw_vpu.c lacks check of the return value of devm_kzalloc() and will cause the null pointer dereference.
 - [Live-Hack-CVE/CVE-2022-3113](https://github.com/Live-Hack-CVE/CVE-2022-3113)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3113">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3113">
 - [Live-Hack-CVE/CVE-2022-3113](https://github.com/Live-Hack-CVE/CVE-2022-3113)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3113">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3113">
+- [ly1g3/Mailcow-CVE-2022-31138](https://github.com/ly1g3/Mailcow-CVE-2022-31138)	<img alt="forks" src="https://img.shields.io/github/forks/ly1g3/Mailcow-CVE-2022-31138">	<img alt="stars" src="https://img.shields.io/github/stars/ly1g3/Mailcow-CVE-2022-31138">
 
 ---
 ## CVE-2022-3112 (2022-12-14T21:15:00)
@@ -16559,6 +16580,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ---
 ## CVE-2022-23527 (2022-12-14T18:15:00)
 > mod_auth_openidc is an OpenID Certified™ authentication and authorization module for the Apache 2.x HTTP server. Versions prior to 2.4.12.2 are vulnerable to Open Redirect. When providing a logout parameter to the redirect URI, the existing code in oidc_validate_redirect_url() does not properly check for URLs that start with /\t, leading to an open redirect. This issue has been patched in version 2.4.12.2. Users unable to upgrade can mitigate the issue by configuring mod_auth_openidc to only allow redirection when the destination matches a given regular expression with OIDCRedirectURLsAllowed.
+- [Live-Hack-CVE/CVE-2022-23527](https://github.com/Live-Hack-CVE/CVE-2022-23527)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23527">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23527">
 - [Live-Hack-CVE/CVE-2022-23527](https://github.com/Live-Hack-CVE/CVE-2022-23527)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23527">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23527">
 
 ---
