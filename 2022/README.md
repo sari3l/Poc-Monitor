@@ -920,11 +920,32 @@
 ## CVE-2022-4614 (2022-12-19T20:15:00)
 > Cross-site Scripting (XSS) - Stored in GitHub repository alagrede/znote-app prior to 1.7.11.
 - [Live-Hack-CVE/CVE-2022-4614](https://github.com/Live-Hack-CVE/CVE-2022-4614)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4614">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4614">
+- [Live-Hack-CVE/CVE-2022-4614](https://github.com/Live-Hack-CVE/CVE-2022-4614)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4614">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4614">
 
 ---
 ## CVE-2022-46139 (2022-12-20T20:15:00)
 > TP-Link TL-WR940N V4 3.16.9 and earlier allows authenticated attackers to cause a Denial of Service (DoS) via uploading a crafted firmware image during the firmware update process.
 - [Live-Hack-CVE/CVE-2022-46139](https://github.com/Live-Hack-CVE/CVE-2022-46139)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46139">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46139">
+
+---
+## CVE-2022-4613 (2022-12-19T15:15:00)
+> A vulnerability was found in Click Studios Passwordstate and Passwordstate Browser Extension Chrome and classified as critical. This issue affects some unknown processing of the component Browser Extension Provisioning. The manipulation leads to improper authorization. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-216275.
+- [Live-Hack-CVE/CVE-2022-4613](https://github.com/Live-Hack-CVE/CVE-2022-4613)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4613">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4613">
+
+---
+## CVE-2022-4612 (2022-12-19T15:15:00)
+> A vulnerability has been found in Click Studios Passwordstate and Passwordstate Browser Extension Chrome and classified as problematic. This vulnerability affects unknown code. The manipulation leads to insufficiently protected credentials. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. It is recommended to upgrade the affected component. VDB-216274 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4612](https://github.com/Live-Hack-CVE/CVE-2022-4612)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4612">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4612">
+
+---
+## CVE-2022-4611 (2022-12-19T15:15:00)
+> A vulnerability, which was classified as problematic, was found in Click Studios Passwordstate and Passwordstate Browser Extension Chrome. This affects an unknown part. The manipulation leads to hard-coded credentials. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. It is recommended to upgrade the affected component. The identifier VDB-216273 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4611](https://github.com/Live-Hack-CVE/CVE-2022-4611)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4611">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4611">
+
+---
+## CVE-2022-4610 (2022-12-19T15:15:00)
+> A vulnerability, which was classified as problematic, has been found in Click Studios Passwordstate and Passwordstate Browser Extension Chrome. Affected by this issue is some unknown functionality. The manipulation leads to risky cryptographic algorithm. Local access is required to approach this attack. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-216272.
+- [Live-Hack-CVE/CVE-2022-4610](https://github.com/Live-Hack-CVE/CVE-2022-4610)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4610">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4610">
 
 ---
 ## CVE-2022-4609 (2022-12-19T12:15:00)
@@ -1170,6 +1191,11 @@
 - [Live-Hack-CVE/CVE-2022-4572](https://github.com/Live-Hack-CVE/CVE-2022-4572)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4572">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4572">
 - [Live-Hack-CVE/CVE-2022-45721](https://github.com/Live-Hack-CVE/CVE-2022-45721)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45721">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45721">
 - [Live-Hack-CVE/CVE-2022-45720](https://github.com/Live-Hack-CVE/CVE-2022-45720)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45720">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45720">
+
+---
+## CVE-2022-45706 (2022-12-23T19:15:00)
+> IP-COM M50 V15.11.0.33(10768) was discovered to contain a buffer overflow via the hostname parameter in the formSetNetCheckTools function.
+- [Live-Hack-CVE/CVE-2022-45706](https://github.com/Live-Hack-CVE/CVE-2022-45706)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45706">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45706">
 
 ---
 ## CVE-2022-45666 (2022-12-20T15:15:00)
@@ -2179,6 +2205,7 @@
 ## CVE-2022-43750 (2022-10-26T04:15:00)
 > drivers/usb/mon/mon_bin.c in usbmon in the Linux kernel before 5.19.15 and 6.x before 6.0.1 allows a user-space client to corrupt the monitor's internal memory.
 - [Live-Hack-CVE/CVE-2022-43750](https://github.com/Live-Hack-CVE/CVE-2022-43750)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43750">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43750">
+- [Live-Hack-CVE/CVE-2022-43750](https://github.com/Live-Hack-CVE/CVE-2022-43750)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43750">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43750">
 
 ---
 ## CVE-2022-43749 (2022-10-26T10:15:00)
@@ -2387,6 +2414,16 @@
 ## CVE-2022-43397 (2022-11-08T11:15:00)
 > A vulnerability has been identified in Parasolid V34.0 (All versions < V34.0.252), Parasolid V34.1 (All versions < V34.1.242), Parasolid V35.0 (All versions < V35.0.170). The affected application contains an out of bounds write past the end of an allocated buffer while parsing specially crafted X_T files. This could allow an attacker to execute code in the context of the current process. (ZDI-CAN-17854)
 - [Live-Hack-CVE/CVE-2022-43397](https://github.com/Live-Hack-CVE/CVE-2022-43397)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43397">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43397">
+
+---
+## CVE-2022-43381 (2022-12-23T19:15:00)
+> IBM AIX 7.1, 7.2, 7.3, and VIOS 3.1could allow a non-privileged local user to exploit a vulnerability in the AIX SMB client to cause a denial of service. IBM X-Force ID: 238639.
+- [Live-Hack-CVE/CVE-2022-43381](https://github.com/Live-Hack-CVE/CVE-2022-43381)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43381">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43381">
+
+---
+## CVE-2022-43380 (2022-12-23T19:15:00)
+> IBM AIX 7.1, 7.2, 7.3, and VIOS 3.1 could allow a non-privileged local user to exploit a vulnerability in the AIX NFS kernel extension to cause a denial of service. IBM X-Force ID: 238640.
+- [Live-Hack-CVE/CVE-2022-43380](https://github.com/Live-Hack-CVE/CVE-2022-43380)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43380">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43380">
 
 ---
 ## CVE-2022-43369 (2022-12-06T19:15:00)
@@ -3423,6 +3460,16 @@
 ## CVE-2022-42344 (2022-10-20T17:15:00)
 > Adobe Commerce versions 2.4.3-p2 (and earlier), 2.3.7-p3 (and earlier) and 2.4.4 (and earlier) are affected by an improper input validation vulnerability. An authenticated attacker can trigger an insecure direct object reference in the `V1/customers/me` endpoint to achieve information exposure and privilege escalation.
 - [Live-Hack-CVE/CVE-2022-42344](https://github.com/Live-Hack-CVE/CVE-2022-42344)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42344">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42344">
+
+---
+## CVE-2022-42329 (2022-12-07T01:15:00)
+> Guests can trigger deadlock in Linux netback driver T[his CNA information record relates to multiple CVEs; the text explains which aspects/vulnerabilities correspond to which CVE.] The patch for XSA-392 introduced another issue which might result in a deadlock when trying to free the SKB of a packet dropped due to the XSA-392 handling (CVE-2022-42328). Additionally when dropping packages for other reasons the same deadlock could occur in case of netpoll being active for the interface the xen-netback driver is connected to (CVE-2022-42329).
+- [Live-Hack-CVE/CVE-2022-42329](https://github.com/Live-Hack-CVE/CVE-2022-42329)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42329">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42329">
+
+---
+## CVE-2022-42328 (2022-12-07T01:15:00)
+> Guests can trigger deadlock in Linux netback driver T[his CNA information record relates to multiple CVEs; the text explains which aspects/vulnerabilities correspond to which CVE.] The patch for XSA-392 introduced another issue which might result in a deadlock when trying to free the SKB of a packet dropped due to the XSA-392 handling (CVE-2022-42328). Additionally when dropping packages for other reasons the same deadlock could occur in case of netpoll being active for the interface the xen-netback driver is connected to (CVE-2022-42329).
+- [Live-Hack-CVE/CVE-2022-42328](https://github.com/Live-Hack-CVE/CVE-2022-42328)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42328">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42328">
 
 ---
 ## CVE-2022-42326 (2022-11-01T13:15:00)
@@ -5218,6 +5265,7 @@
 ## CVE-2022-40768 (2022-09-18T05:15:00)
 > drivers/scsi/stex.c in the Linux kernel through 5.19.9 allows local users to obtain sensitive information from kernel memory because stex_queuecommand_lck lacks a memset for the PASSTHRU_CMD case.
 - [Live-Hack-CVE/CVE-2022-40768](https://github.com/Live-Hack-CVE/CVE-2022-40768)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40768">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40768">
+- [Live-Hack-CVE/CVE-2022-40768](https://github.com/Live-Hack-CVE/CVE-2022-40768)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40768">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40768">
 
 ---
 ## CVE-2022-40756 (2022-09-30T19:15:00)
@@ -5762,6 +5810,11 @@
 ## CVE-2022-40238 (2022-10-26T16:15:00)
 > A Remote Code Injection vulnerability exists in CERT software prior to version 1.50.5. An authenticated attacker can inject arbitrary pickle object as part of a user's profile. This can lead to code execution on the server when the user's profile is accessed.
 - [Live-Hack-CVE/CVE-2022-40238](https://github.com/Live-Hack-CVE/CVE-2022-40238)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40238">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40238">
+
+---
+## CVE-2022-40233 (2022-12-23T19:15:00)
+> IBM AIX 7.1, 7.2, 7.3, and VIOS 3.1 could allow a non-privileged local user to exploit a vulnerability in the AIX TCP/IP kernel extension to cause a denial of service. IBM X-Force ID: 235599.
+- [Live-Hack-CVE/CVE-2022-40233](https://github.com/Live-Hack-CVE/CVE-2022-40233)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40233">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40233">
 
 ---
 ## CVE-2022-40226 (2022-10-11T11:15:00)
@@ -6667,6 +6720,11 @@
 - [Live-Hack-CVE/CVE-2022-39168](https://github.com/Live-Hack-CVE/CVE-2022-39168)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39168">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39168">
 
 ---
+## CVE-2022-39165 (2022-12-23T19:15:00)
+> IBM AIX 7.1, 7.2, 7.3, and VIOS 3.1could allow a non-privileged local user to exploit a vulnerability in CAA to cause a denial of service. IBM X-Force ID: 235183.
+- [Live-Hack-CVE/CVE-2022-39165](https://github.com/Live-Hack-CVE/CVE-2022-39165)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39165">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39165">
+
+---
 ## CVE-2022-39158 (2022-09-13T10:15:00)
 > A vulnerability has been identified in RUGGEDCOM ROS RMC30 V4.X (All versions), RUGGEDCOM ROS RMC8388 V4.X (All versions), RUGGEDCOM ROS RMC8388 V5.X (All versions < V5.6.0), RUGGEDCOM ROS RP110 V4.X (All versions), RUGGEDCOM ROS RS1600 V4.X (All versions), RUGGEDCOM ROS RS1600F V4.X (All versions), RUGGEDCOM ROS RS1600T V4.X (All versions), RUGGEDCOM ROS RS400 V4.X (All versions), RUGGEDCOM ROS RS401 V4.X (All versions), RUGGEDCOM ROS RS416Pv2 V4.X (All versions), RUGGEDCOM ROS RS416Pv2 V5.X (All versions < V5.6.0), RUGGEDCOM ROS RS416v2 V4.X (All versions), RUGGEDCOM ROS RS416v2 V5.X (All versions < V5.6.0), RUGGEDCOM ROS RS8000 V4.X (All versions), RUGGEDCOM ROS RS8000A V4.X (All versions), RUGGEDCOM ROS RS8000H V4.X (All versions), RUGGEDCOM ROS RS8000T V4.X (All versions), RUGGEDCOM ROS RS900 (32M) V4.X (All versions), RUGGEDCOM ROS RS900 (32M) V5.X (All versions < V5.6.0), RUGGEDCOM ROS RS900 V4.X (All versions), RUGGEDCOM ROS RS900G (32M) V4.X (All versions), RUGGEDCOM ROS RS900G (32M) V5.X (All versions < V5.6.0), RUGGEDCOM ROS RS900G V4.X (All versions), RUGGEDCOM ROS RS900GP V4.X (All versions), RUGGEDCOM ROS RS900L V4.X (All versions), RUGGEDCOM ROS RS900M V4.X (All versions), RUGGEDCOM ROS RS900W V4.X (All versions), RUGGEDCOM ROS RS910 V4.X (All versions), RUGGEDCOM ROS RS910L V4.X (All versions), RUGGEDCOM ROS RS910W V4.X (All versions), RUGGEDCOM ROS RS920L V4.X (All versions), RUGGEDCOM ROS RS920W V4.X (All versions), RUGGEDCOM ROS RS930L V4.X (All versions), RUGGEDCOM ROS RS930W V4.X (All versions), RUGGEDCOM ROS RS940G V4.X (All versions), RUGGEDCOM ROS RSG2100 (32M) V4.X (All versions), RUGGEDCOM ROS RSG2100 (32M) V5.X (All versions < V5.6.0), RUGGEDCOM ROS RSG2100 V4.X (All versions), RUGGEDCOM ROS RSG2100P V4.X (All versions), RUGGEDCOM ROS RSG2200 V4.X (All versions), RUGGEDCOM ROS RSG2288 V4.X (All versions), RUGGEDCOM ROS RSG2288 V5.X (All versions < V5.6.0), RUGGEDCOM ROS RSG2300 V4.X (All versions), RUGGEDCOM ROS RSG2300 V5.X (All versions < V5.6.0), RUGGEDCOM ROS RSG2300P V4.X (All versions), RUGGEDCOM ROS RSG2300P V5.X (All versions < V5.6.0), RUGGEDCOM ROS RSG2488 V4.X (All versions), RUGGEDCOM ROS RSG2488 V5.X (All versions < V5.6.0), RUGGEDCOM ROS RSG907R V5.X (All versions < V5.6.0), RUGGEDCOM ROS RSG908C V5.X (All versions < V5.6.0), RUGGEDCOM ROS RSG909R V5.X (All versions < V5.6.0), RUGGEDCOM ROS RSG910C V5.X (All versions < V5.6.0), RUGGEDCOM ROS RSG920P V4.X (All versions), RUGGEDCOM ROS RSG920P V5.X (All versions < V5.6.0), RUGGEDCOM ROS RSL910 V5.X (All versions < V5.6.0), RUGGEDCOM ROS RST2228 V5.X (All versions < V5.6.0), RUGGEDCOM ROS RST2228P V5.X (All versions < V5.6.0), RUGGEDCOM ROS RST916C V5.X (All versions < V5.6.0), RUGGEDCOM ROS RST916P V5.X (All versions < V5.6.0), RUGGEDCOM ROS i800 V4.X (All versions), RUGGEDCOM ROS i801 V4.X (All versions), RUGGEDCOM ROS i802 V4.X (All versions), RUGGEDCOM ROS i803 V4.X (All versions). Affected devices improperly handle partial HTTP requests which makes them vulnerable to slowloris attacks. This could allow a remote attacker to create a denial of service condition that persists until the attack ends.
 - [Live-Hack-CVE/CVE-2022-39158](https://github.com/Live-Hack-CVE/CVE-2022-39158)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39158">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39158">
@@ -7113,6 +7171,11 @@
 ## CVE-2022-38709 (2022-10-06T18:16:00)
 > IBM Robotic Process Automation 21.0.1, 21.0.2, and 21.0.3 for Cloud Pak is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 234291.
 - [Live-Hack-CVE/CVE-2022-38709](https://github.com/Live-Hack-CVE/CVE-2022-38709)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38709">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38709">
+
+---
+## CVE-2022-38708 (2022-12-19T21:15:00)
+> IBM Cognos Analytics 11.1.7 11.2.0, and 11.2.1 could be vulnerable to a Server-Side Request Forgery Attack (SSRF) attack by constructing URLs from user-controlled data. This could enable attackers to make arbitrary requests to the internal network or to the local file system. IBM X-Force ID: 234180.
+- [Live-Hack-CVE/CVE-2022-38708](https://github.com/Live-Hack-CVE/CVE-2022-38708)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38708">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38708">
 
 ---
 ## CVE-2022-38703 (2022-09-23T14:15:00)
@@ -8392,6 +8455,7 @@
 ## CVE-2022-37392 (2022-12-19T11:15:00)
 > Improper Check for Unusual or Exceptional Conditions vulnerability in handling the requests to Apache Traffic Server. This issue affects Apache Traffic Server 8.0.0 to 9.1.2.
 - [Live-Hack-CVE/CVE-2022-37392](https://github.com/Live-Hack-CVE/CVE-2022-37392)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37392">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37392">
+- [Live-Hack-CVE/CVE-2022-37392](https://github.com/Live-Hack-CVE/CVE-2022-37392)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37392">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37392">
 
 ---
 ## CVE-2022-37346 (2022-09-27T23:15:00)
@@ -9397,11 +9461,17 @@
 ## CVE-2022-3649 (2022-10-21T20:15:00)
 > A vulnerability was found in Linux Kernel. It has been classified as problematic. Affected is the function nilfs_new_inode of the file fs/nilfs2/inode.c of the component BPF. The manipulation leads to use after free. It is possible to launch the attack remotely. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-211992.
 - [Live-Hack-CVE/CVE-2022-3649](https://github.com/Live-Hack-CVE/CVE-2022-3649)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3649">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3649">
+- [Live-Hack-CVE/CVE-2022-3649](https://github.com/Live-Hack-CVE/CVE-2022-3649)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3649">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3649">
 
 ---
 ## CVE-2022-36489 (2022-08-25T14:15:00)
 > H3C Magic NX18 Plus NX18PV100R003 was discovered to contain a stack overflow via the function EnableIpv6.
 - [Live-Hack-CVE/CVE-2022-36489](https://github.com/Live-Hack-CVE/CVE-2022-36489)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36489">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36489">
+
+---
+## CVE-2022-3646 (2022-10-21T18:15:00)
+> A vulnerability, which was classified as problematic, has been found in Linux Kernel. This issue affects the function nilfs_attach_log_writer of the file fs/nilfs2/segment.c of the component BPF. The manipulation leads to memory leak. The attack may be initiated remotely. It is recommended to apply a patch to fix this issue. The identifier VDB-211961 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-3646](https://github.com/Live-Hack-CVE/CVE-2022-3646)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3646">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3646">
 
 ---
 ## CVE-2022-36455 (2022-08-25T15:15:00)
@@ -9443,6 +9513,11 @@
 ## CVE-2022-36400 (2022-11-11T16:15:00)
 > Path traversal in the installer software for some Intel(r) NUC Kit Wireless Adapter drivers for Windows 10 before version 22.40 may allow an authenticated user to potentially enable escalation of privilege via local access.
 - [Live-Hack-CVE/CVE-2022-36400](https://github.com/Live-Hack-CVE/CVE-2022-36400)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36400">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36400">
+
+---
+## CVE-2022-3640 (2022-10-21T15:15:00)
+> A vulnerability, which was classified as critical, was found in Linux Kernel. Affected is the function l2cap_conn_del of the file net/bluetooth/l2cap_core.c of the component Bluetooth. The manipulation leads to use after free. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-211944.
+- [Live-Hack-CVE/CVE-2022-3640](https://github.com/Live-Hack-CVE/CVE-2022-3640)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3640">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3640">
 
 ---
 ## CVE-2022-36394 (2022-08-23T16:15:00)
@@ -9614,6 +9689,11 @@
 ## CVE-2022-36223 (2022-12-16T14:15:00)
 > In Emby Server 4.6.7.0, the playlist name field is vulnerable to XSS stored where it is possible to steal the administrator access token and flip or steal the media server administrator account.
 - [Live-Hack-CVE/CVE-2022-36223](https://github.com/Live-Hack-CVE/CVE-2022-36223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36223">
+
+---
+## CVE-2022-3621 (2022-10-20T20:15:00)
+> A vulnerability was found in Linux Kernel. It has been classified as problematic. Affected is the function nilfs_bmap_lookup_at_level of the file fs/nilfs2/inode.c of the component nilfs2. The manipulation leads to null pointer dereference. It is possible to launch the attack remotely. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-211920.
+- [Live-Hack-CVE/CVE-2022-3621](https://github.com/Live-Hack-CVE/CVE-2022-3621)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3621">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3621">
 
 ---
 ## CVE-2022-36201 (2022-08-31T21:15:00)
@@ -9989,6 +10069,11 @@
 - [Live-Hack-CVE/CVE-2022-35948](https://github.com/Live-Hack-CVE/CVE-2022-35948)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35948">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35948">
 
 ---
+## CVE-2022-3594 (2022-10-18T20:15:00)
+> A vulnerability was found in Linux Kernel. It has been declared as problematic. Affected by this vulnerability is the function intr_callback of the file drivers/net/usb/r8152.c of the component BPF. The manipulation leads to logging of excessive data. The attack can be launched remotely. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-211363.
+- [Live-Hack-CVE/CVE-2022-3594](https://github.com/Live-Hack-CVE/CVE-2022-3594)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3594">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3594">
+
+---
 ## CVE-2022-35914 (2022-09-19T16:15:00)
 > /vendor/htmlawed/htmlawed/htmLawedTest.php in the htmlawed module for GLPI through 10.0.2 allows PHP code injection.
 - [cosad3s/CVE-2022-35914-poc](https://github.com/cosad3s/CVE-2022-35914-poc)	<img alt="forks" src="https://img.shields.io/github/forks/cosad3s/CVE-2022-35914-poc">	<img alt="stars" src="https://img.shields.io/github/stars/cosad3s/CVE-2022-35914-poc">
@@ -10181,9 +10266,19 @@
 - [Live-Hack-CVE/CVE-2022-35664](https://github.com/Live-Hack-CVE/CVE-2022-35664)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35664">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35664">
 
 ---
+## CVE-2022-3565 (2022-10-17T19:15:00)
+> A vulnerability, which was classified as critical, has been found in Linux Kernel. Affected by this issue is the function del_timer of the file drivers/isdn/mISDN/l1oip_core.c of the component Bluetooth. The manipulation leads to use after free. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-211088.
+- [Live-Hack-CVE/CVE-2022-3565](https://github.com/Live-Hack-CVE/CVE-2022-3565)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3565">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3565">
+
+---
 ## CVE-2022-35646 (2022-12-22T20:15:00)
 > IBM Security Verify Governance, Identity Manager 10.0.1 software component could allow an authenticated user to modify or cancel any other user's access request using man-in-the-middle techniques. IBM X-Force ID: 231096.
 - [Live-Hack-CVE/CVE-2022-35646](https://github.com/Live-Hack-CVE/CVE-2022-35646)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35646">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35646">
+
+---
+## CVE-2022-3564 (2022-10-17T19:15:00)
+> A vulnerability classified as critical was found in Linux Kernel. Affected by this vulnerability is the function l2cap_reassemble_sdu of the file net/bluetooth/l2cap_core.c of the component Bluetooth. The manipulation leads to use after free. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-211087.
+- [Live-Hack-CVE/CVE-2022-3564](https://github.com/Live-Hack-CVE/CVE-2022-3564)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3564">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3564">
 
 ---
 ## CVE-2022-35637 (2022-09-13T21:15:00)
@@ -10479,6 +10574,11 @@
 - [Live-Hack-CVE/CVE-2022-35246](https://github.com/Live-Hack-CVE/CVE-2022-35246)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35246">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35246">
 
 ---
+## CVE-2022-3524 (2022-10-16T10:15:00)
+> A vulnerability was found in Linux Kernel. It has been declared as problematic. Affected by this vulnerability is the function ipv6_renew_options of the component IPv6 Handler. The manipulation leads to memory leak. The attack can be launched remotely. It is recommended to apply a patch to fix this issue. The identifier VDB-211021 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-3524](https://github.com/Live-Hack-CVE/CVE-2022-3524)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3524">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3524">
+
+---
 ## CVE-2022-35226 (2022-10-11T21:15:00)
 > SAP Data Services Management allows an attacker to copy the data from a request and echoed into the application's immediate response, it will lead to a Cross-Site Scripting vulnerability. The attacker would have to log in to the management console to perform such as an attack, only few of the pages are vulnerable in the DS management console.
 - [Live-Hack-CVE/CVE-2022-35226](https://github.com/Live-Hack-CVE/CVE-2022-35226)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35226">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35226">
@@ -10492,6 +10592,11 @@
 ## CVE-2022-35212 (2022-08-18T20:15:00)
 > osCommerce2 before v2.3.4.1 was discovered to contain a cross-site scripting (XSS) vulnerability via the function tep_db_error().
 - [Live-Hack-CVE/CVE-2022-35212](https://github.com/Live-Hack-CVE/CVE-2022-35212)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35212">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35212">
+
+---
+## CVE-2022-3521 (2022-10-16T10:15:00)
+> A vulnerability has been found in Linux Kernel and classified as problematic. This vulnerability affects the function kcm_tx_work of the file net/kcm/kcmsock.c of the component kcm. The manipulation leads to race condition. It is recommended to apply a patch to fix this issue. VDB-211018 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-3521](https://github.com/Live-Hack-CVE/CVE-2022-3521)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3521">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3521">
 
 ---
 ## CVE-2022-35204 (2022-08-18T19:15:00)
@@ -11902,6 +12007,7 @@
 ---
 ## CVE-2022-32749 (2022-12-19T11:15:00)
 > Improper Check for Unusual or Exceptional Conditions vulnerability handling requests in Apache Traffic Server allows an attacker to crash the server under certain conditions. This issue affects Apache Traffic Server: from 8.0.0 through 9.1.3.
+- [Live-Hack-CVE/CVE-2022-32749](https://github.com/Live-Hack-CVE/CVE-2022-32749)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32749">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32749">
 - [Live-Hack-CVE/CVE-2022-32749](https://github.com/Live-Hack-CVE/CVE-2022-32749)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32749">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32749">
 
 ---
@@ -13557,6 +13663,11 @@
 - [Live-Hack-CVE/CVE-2022-29908](https://github.com/Live-Hack-CVE/CVE-2022-29908)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29908">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29908">
 
 ---
+## CVE-2022-29901 (2022-07-12T19:15:00)
+> Intel microprocessor generations 6 to 8 are affected by a new Spectre variant that is able to bypass their retpoline mitigation in the kernel to leak arbitrary data. An attacker with unprivileged user access can hijack return instructions to achieve arbitrary speculative code execution under certain microarchitecture-dependent conditions.
+- [Live-Hack-CVE/CVE-2022-29901](https://github.com/Live-Hack-CVE/CVE-2022-29901)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29901">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29901">
+
+---
 ## CVE-2022-29885 (2022-05-12T08:15:00)
 > The documentation of Apache Tomcat 10.1.0-M1 to 10.1.0-M14, 10.0.0-M1 to 10.0.20, 9.0.13 to 9.0.62 and 8.5.38 to 8.5.78 for the EncryptInterceptor incorrectly stated it enabled Tomcat clustering to run over an untrusted network. This was not correct. While the EncryptInterceptor does provide confidentiality and integrity protection, it does not protect against all risks associated with running over any untrusted network, particularly DoS risks.
 - [4ra1n/CVE-2022-29885](https://github.com/4ra1n/CVE-2022-29885)	<img alt="forks" src="https://img.shields.io/github/forks/4ra1n/CVE-2022-29885">	<img alt="stars" src="https://img.shields.io/github/stars/4ra1n/CVE-2022-29885">
@@ -13608,6 +13719,11 @@
 > A vulnerability was found in networkd-dispatcher. This flaw exists because no functions are sanitized by the OperationalState or the AdministrativeState of networkd-dispatcher. This attack leads to a directory traversal to escape from the “/etc/networkd-dispatcher” base directory.
 - [Live-Hack-CVE/CVE-2022-29799](https://github.com/Live-Hack-CVE/CVE-2022-29799)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29799">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29799">
 - [Immersive-Labs-Sec/nimbuspwn](https://github.com/Immersive-Labs-Sec/nimbuspwn)	<img alt="forks" src="https://img.shields.io/github/forks/Immersive-Labs-Sec/nimbuspwn">	<img alt="stars" src="https://img.shields.io/github/stars/Immersive-Labs-Sec/nimbuspwn">
+
+---
+## CVE-2022-2978 (2022-08-24T16:15:00)
+> A flaw use after free in the Linux kernel NILFS file system was found in the way user triggers function security_inode_alloc to fail with following call to function nilfs_mdt_destroy. A local user could use this flaw to crash the system or potentially escalate their privileges on the system.
+- [Live-Hack-CVE/CVE-2022-2978](https://github.com/Live-Hack-CVE/CVE-2022-2978)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2978">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2978">
 
 ---
 ## CVE-2022-29774 (2022-06-21T14:15:00)
@@ -17613,6 +17729,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-20386 (2022-09-13T20:15:00)
 > Summary:Product: AndroidVersions: Android SoCAndroid ID: A-238227328
 - [Live-Hack-CVE/CVE-2022-20386](https://github.com/Live-Hack-CVE/CVE-2022-20386)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20386">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20386">
+
+---
+## CVE-2022-20369 (2022-08-11T15:15:00)
+> In v4l2_m2m_querybuf of v4l2-mem2mem.c, there is a possible out of bounds write due to improper input validation. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-223375145References: Upstream kernel
+- [Live-Hack-CVE/CVE-2022-20369](https://github.com/Live-Hack-CVE/CVE-2022-20369)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20369">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20369">
 
 ---
 ## CVE-2022-20364 (2022-09-14T16:15:00)
