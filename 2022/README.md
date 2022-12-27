@@ -178,10 +178,12 @@
 ## CVE-2022-47411 (2022-12-14T21:15:00)
 > An issue was discovered in the fp_newsletter (aka Newsletter subscriber management) extension before 1.1.1, 1.2.0, 2.x before 2.1.2, 2.2.1 through 2.4.0, and 3.x before 3.2.6 for TYPO3. Data about subscribers may be obtained via unsubscribeAction operations.
 - [Live-Hack-CVE/CVE-2022-47411](https://github.com/Live-Hack-CVE/CVE-2022-47411)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47411">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47411">
+- [Live-Hack-CVE/CVE-2022-47411](https://github.com/Live-Hack-CVE/CVE-2022-47411)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47411">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47411">
 
 ---
 ## CVE-2022-47410 (2022-12-14T21:15:00)
 > An issue was discovered in the fp_newsletter (aka Newsletter subscriber management) extension before 1.1.1, 1.2.0, 2.x before 2.1.2, 2.2.1 through 2.4.0, and 3.x before 3.2.6 for TYPO3. Data about subscribers may be obtained via createAction operations.
+- [Live-Hack-CVE/CVE-2022-47410](https://github.com/Live-Hack-CVE/CVE-2022-47410)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47410">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47410">
 - [Live-Hack-CVE/CVE-2022-47410](https://github.com/Live-Hack-CVE/CVE-2022-47410)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47410">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47410">
 
 ---
@@ -205,6 +207,7 @@
 ---
 ## CVE-2022-47407 (2022-12-14T21:15:00)
 > An issue was discovered in the fp_masterquiz (aka Master-Quiz) extension before 2.2.1, and 3.x before 3.5.1, for TYPO3. An attacker can continue the quiz of a different user. In doing so, the attacker can view that user's answers and modify those answers.
+- [Live-Hack-CVE/CVE-2022-47407](https://github.com/Live-Hack-CVE/CVE-2022-47407)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47407">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47407">
 - [Live-Hack-CVE/CVE-2022-47407](https://github.com/Live-Hack-CVE/CVE-2022-47407)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47407">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47407">
 
 ---
@@ -268,15 +271,18 @@
 ## CVE-2022-47210 (2022-12-16T20:15:00)
 > The default console presented to users over telnet (when enabled) is restricted to a subset of commands. Commands issued at this console, however, appear to be fed directly into a system call or other similar function. This allows any authenticated user to execute arbitrary commands on the device.
 - [Live-Hack-CVE/CVE-2022-47210](https://github.com/Live-Hack-CVE/CVE-2022-47210)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47210">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47210">
+- [Live-Hack-CVE/CVE-2022-47210](https://github.com/Live-Hack-CVE/CVE-2022-47210)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47210">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47210">
 
 ---
 ## CVE-2022-47209 (2022-12-16T20:15:00)
 > A support user exists on the device and appears to be a backdoor for Technical Support staff. The default password for this account is “support” and cannot be changed by a user via any normally accessible means.
 - [Live-Hack-CVE/CVE-2022-47209](https://github.com/Live-Hack-CVE/CVE-2022-47209)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47209">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47209">
+- [Live-Hack-CVE/CVE-2022-47209](https://github.com/Live-Hack-CVE/CVE-2022-47209)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47209">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47209">
 
 ---
 ## CVE-2022-47208 (2022-12-16T20:15:00)
 > The “puhttpsniff” service, which runs by default, is susceptible to command injection due to improperly sanitized user input. An unauthenticated attacker on the same network segment as the router can execute arbitrary commands on the device without authentication.
+- [Live-Hack-CVE/CVE-2022-47208](https://github.com/Live-Hack-CVE/CVE-2022-47208)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47208">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47208">
 - [Live-Hack-CVE/CVE-2022-47208](https://github.com/Live-Hack-CVE/CVE-2022-47208)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47208">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47208">
 
 ---
@@ -578,6 +584,7 @@
 ---
 ## CVE-2022-46443 (2022-12-14T18:15:00)
 > mesinkasir Bangresto 1.0 is vulnberable to SQL Injection via the itemqty%5B%5D parameter.
+- [Live-Hack-CVE/CVE-2022-46443](https://github.com/Live-Hack-CVE/CVE-2022-46443)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46443">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46443">
 - [Live-Hack-CVE/CVE-2022-46443](https://github.com/Live-Hack-CVE/CVE-2022-46443)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46443">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46443">
 
 ---
@@ -918,10 +925,12 @@
 ## CVE-2022-46256 (2022-12-14T18:15:00)
 > A path traversal vulnerability was identified in GitHub Enterprise Server that allowed remote code execution when building a GitHub Pages site. To exploit this vulnerability, an attacker would need permission to create and build a GitHub Pages site on the instance. This vulnerability was fixed in versions 3.3.17, 3.4.12, 3.5.9, 3.6.5 and 3.7.2. This vulnerability was reported via the GitHub Bug Bounty program.
 - [Live-Hack-CVE/CVE-2022-46256](https://github.com/Live-Hack-CVE/CVE-2022-46256)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46256">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46256">
+- [Live-Hack-CVE/CVE-2022-46256](https://github.com/Live-Hack-CVE/CVE-2022-46256)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46256">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46256">
 
 ---
 ## CVE-2022-46255 (2022-12-14T18:15:00)
 > An improper limitation of a pathname to a restricted directory vulnerability was identified in GitHub Enterprise Server that enabled remote code execution. A check was added within Pages to ensure the working directory is clean before unpacking new content to prevent an arbitrary file overwrite bug. This vulnerability affected only version 3.7.0 of GitHub Enterprise Server and was fixed in version 3.7.1. This vulnerability was reported via the GitHub Bug Bounty program.
+- [Live-Hack-CVE/CVE-2022-46255](https://github.com/Live-Hack-CVE/CVE-2022-46255)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46255">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46255">
 - [Live-Hack-CVE/CVE-2022-46255](https://github.com/Live-Hack-CVE/CVE-2022-46255)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46255">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46255">
 
 ---
@@ -13016,10 +13025,12 @@
 ## CVE-2022-31703 (2022-12-14T19:15:00)
 > vRealize Network Insight (vRNI) directory traversal vulnerability in vRNI REST API. A malicious actor with network access to the vRNI REST API can read arbitrary files from the server.
 - [Live-Hack-CVE/CVE-2022-31703](https://github.com/Live-Hack-CVE/CVE-2022-31703)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31703">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31703">
+- [Live-Hack-CVE/CVE-2022-31703](https://github.com/Live-Hack-CVE/CVE-2022-31703)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31703">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31703">
 
 ---
 ## CVE-2022-31702 (2022-12-14T19:15:00)
 > vRealize Network Insight (vRNI) contains a command injection vulnerability present in the vRNI REST API. A malicious actor with network access to the vRNI REST API can execute commands without authentication.
+- [Live-Hack-CVE/CVE-2022-31702](https://github.com/Live-Hack-CVE/CVE-2022-31702)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31702">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31702">
 - [Live-Hack-CVE/CVE-2022-31702](https://github.com/Live-Hack-CVE/CVE-2022-31702)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31702">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31702">
 
 ---
@@ -13341,10 +13352,12 @@
 ## CVE-2022-3115 (2022-12-14T21:15:00)
 > An issue was discovered in the Linux kernel through 5.16-rc6. malidp_crtc_reset in drivers/gpu/drm/arm/malidp_crtc.c lacks check of the return value of kzalloc() and will cause the null pointer dereference.
 - [Live-Hack-CVE/CVE-2022-3115](https://github.com/Live-Hack-CVE/CVE-2022-3115)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3115">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3115">
+- [Live-Hack-CVE/CVE-2022-3115](https://github.com/Live-Hack-CVE/CVE-2022-3115)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3115">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3115">
 
 ---
 ## CVE-2022-3114 (2022-12-14T21:15:00)
 > An issue was discovered in the Linux kernel through 5.16-rc6. imx_register_uart_clocks in drivers/clk/imx/clk.c lacks check of the return value of kcalloc() and will cause the null pointer dereference.
+- [Live-Hack-CVE/CVE-2022-3114](https://github.com/Live-Hack-CVE/CVE-2022-3114)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3114">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3114">
 - [Live-Hack-CVE/CVE-2022-3114](https://github.com/Live-Hack-CVE/CVE-2022-3114)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3114">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3114">
 
 ---
@@ -13361,10 +13374,12 @@
 ## CVE-2022-3113 (2022-12-14T21:15:00)
 > An issue was discovered in the Linux kernel through 5.16-rc6. mtk_vcodec_fw_vpu_init in drivers/media/platform/mtk-vcodec/mtk_vcodec_fw_vpu.c lacks check of the return value of devm_kzalloc() and will cause the null pointer dereference.
 - [Live-Hack-CVE/CVE-2022-3113](https://github.com/Live-Hack-CVE/CVE-2022-3113)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3113">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3113">
+- [Live-Hack-CVE/CVE-2022-3113](https://github.com/Live-Hack-CVE/CVE-2022-3113)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3113">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3113">
 
 ---
 ## CVE-2022-3112 (2022-12-14T21:15:00)
 > An issue was discovered in the Linux kernel through 5.16-rc6. amvdec_set_canvases in drivers/staging/media/meson/vdec/vdec_helpers.c lacks check of the return value of kzalloc() and will cause the null pointer dereference.
+- [Live-Hack-CVE/CVE-2022-3112](https://github.com/Live-Hack-CVE/CVE-2022-3112)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3112">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3112">
 - [Live-Hack-CVE/CVE-2022-3112](https://github.com/Live-Hack-CVE/CVE-2022-3112)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3112">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3112">
 
 ---
@@ -13381,6 +13396,7 @@
 ## CVE-2022-3111 (2022-12-14T21:15:00)
 > An issue was discovered in the Linux kernel through 5.16-rc6. free_charger_irq() in drivers/power/supply/wm8350_power.c lacks free of WM8350_IRQ_CHG_FAST_RDY, which is registered in wm8350_init_charger().
 - [Live-Hack-CVE/CVE-2022-3111](https://github.com/Live-Hack-CVE/CVE-2022-3111)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3111">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3111">
+- [Live-Hack-CVE/CVE-2022-3111](https://github.com/Live-Hack-CVE/CVE-2022-3111)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3111">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3111">
 
 ---
 ## CVE-2022-31101 (2022-06-27T23:15:00)
@@ -13392,6 +13408,8 @@
 ## CVE-2022-3110 (2022-12-14T21:15:00)
 > An issue was discovered in the Linux kernel through 5.16-rc6. _rtw_init_xmit_priv in drivers/staging/r8188eu/core/rtw_xmit.c lacks check of the return value of rtw_alloc_hwxmits() and will cause the null pointer dereference.
 - [Live-Hack-CVE/CVE-2022-3110](https://github.com/Live-Hack-CVE/CVE-2022-3110)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3110">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3110">
+- [Live-Hack-CVE/CVE-2022-3110](https://github.com/Live-Hack-CVE/CVE-2022-3110)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3110">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3110">
+- [karthikuj/CVE-2022-31101](https://github.com/karthikuj/CVE-2022-31101)	<img alt="forks" src="https://img.shields.io/github/forks/karthikuj/CVE-2022-31101">	<img alt="stars" src="https://img.shields.io/github/stars/karthikuj/CVE-2022-31101">
 
 ---
 ## CVE-2022-31091 (2022-06-27T22:15:00)
@@ -13408,10 +13426,12 @@
 ## CVE-2022-3108 (2022-12-14T21:15:00)
 > An issue was discovered in the Linux kernel through 5.16-rc6. kfd_parse_subtype_iolink in drivers/gpu/drm/amd/amdkfd/kfd_crat.c lacks check of the return value of kmemdup().
 - [Live-Hack-CVE/CVE-2022-3108](https://github.com/Live-Hack-CVE/CVE-2022-3108)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3108">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3108">
+- [Live-Hack-CVE/CVE-2022-3108](https://github.com/Live-Hack-CVE/CVE-2022-3108)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3108">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3108">
 
 ---
 ## CVE-2022-3107 (2022-12-14T21:15:00)
 > An issue was discovered in the Linux kernel through 5.16-rc6. netvsc_get_ethtool_stats in drivers/net/hyperv/netvsc_drv.c lacks check of the return value of kvmalloc_array() and will cause the null pointer dereference.
+- [Live-Hack-CVE/CVE-2022-3107](https://github.com/Live-Hack-CVE/CVE-2022-3107)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3107">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3107">
 - [Live-Hack-CVE/CVE-2022-3107](https://github.com/Live-Hack-CVE/CVE-2022-3107)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3107">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3107">
 
 ---
@@ -13423,10 +13443,12 @@
 ## CVE-2022-3106 (2022-12-14T21:15:00)
 > An issue was discovered in the Linux kernel through 5.16-rc6. ef100_update_stats in drivers/net/ethernet/sfc/ef100_nic.c lacks check of the return value of kmalloc().
 - [Live-Hack-CVE/CVE-2022-3106](https://github.com/Live-Hack-CVE/CVE-2022-3106)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3106">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3106">
+- [Live-Hack-CVE/CVE-2022-3106](https://github.com/Live-Hack-CVE/CVE-2022-3106)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3106">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3106">
 
 ---
 ## CVE-2022-3105 (2022-12-14T21:15:00)
 > An issue was discovered in the Linux kernel through 5.16-rc6. uapi_finalize in drivers/infiniband/core/uverbs_uapi.c lacks check of kmalloc_array().
+- [Live-Hack-CVE/CVE-2022-3105](https://github.com/Live-Hack-CVE/CVE-2022-3105)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3105">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3105">
 - [Live-Hack-CVE/CVE-2022-3105](https://github.com/Live-Hack-CVE/CVE-2022-3105)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3105">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3105">
 
 ---
@@ -13442,6 +13464,7 @@
 ---
 ## CVE-2022-3104 (2022-12-14T21:15:00)
 > An issue was discovered in the Linux kernel through 5.16-rc6. lkdtm_ARRAY_BOUNDS in drivers/misc/lkdtm/bugs.c lacks check of the return value of kmalloc() and will cause the null pointer dereference.
+- [Live-Hack-CVE/CVE-2022-3104](https://github.com/Live-Hack-CVE/CVE-2022-3104)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3104">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3104">
 - [Live-Hack-CVE/CVE-2022-3104](https://github.com/Live-Hack-CVE/CVE-2022-3104)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3104">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3104">
 
 ---
@@ -14288,6 +14311,7 @@
 ## CVE-2022-2966 (2022-12-16T20:15:00)
 > Out-of-bounds Read vulnerability in Delta Electronics DOPSoft.This issue affects DOPSoft: All Versions.
 - [Live-Hack-CVE/CVE-2022-2966](https://github.com/Live-Hack-CVE/CVE-2022-2966)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2966">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2966">
+- [Live-Hack-CVE/CVE-2022-2966](https://github.com/Live-Hack-CVE/CVE-2022-2966)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2966">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2966">
 
 ---
 ## CVE-2022-2965 (2022-08-23T16:15:00)
@@ -14374,6 +14398,7 @@
 ## CVE-2022-2949 (2022-12-13T21:15:00)
 > Altair HyperView Player versions 2021.1.0.27 and prior are vulnerable to the use of uninitialized memory vulnerability during parsing of H3D files. A DWORD is extracted from an uninitialized buffer and, after sign extension, is used as an index into a stack variable to increment a counter leading to memory corruption.
 - [Live-Hack-CVE/CVE-2022-2949](https://github.com/Live-Hack-CVE/CVE-2022-2949)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2949">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2949">
+- [Live-Hack-CVE/CVE-2022-2949](https://github.com/Live-Hack-CVE/CVE-2022-2949)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2949">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2949">
 
 ---
 ## CVE-2022-29489 (2022-09-16T22:15:00)
@@ -14388,6 +14413,7 @@
 ---
 ## CVE-2022-2947 (2022-12-13T21:15:00)
 > Altair HyperView Player versions 2021.1.0.27 and prior perform operations on a memory buffer but can read from or write to a memory location outside of the intended boundary of the buffer. This hits initially as a read access violation, leading to a memory corruption situation.
+- [Live-Hack-CVE/CVE-2022-2947](https://github.com/Live-Hack-CVE/CVE-2022-2947)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2947">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2947">
 - [Live-Hack-CVE/CVE-2022-2947](https://github.com/Live-Hack-CVE/CVE-2022-2947)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2947">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2947">
 
 ---
@@ -15652,6 +15678,7 @@
 > A buffer overflow was found in grub_font_construct_glyph(). A malicious crafted pf2 font can lead to an overflow when calculating the max_glyph_size value, allocating a smaller than needed buffer for the glyph, this further leads to a buffer overflow and a heap based out-of-bounds write. An attacker may use this vulnerability to circumvent the secure boot mechanism.
 - [zhangboyang/cve-2022-2601](https://github.com/zhangboyang/cve-2022-2601)	<img alt="forks" src="https://img.shields.io/github/forks/zhangboyang/cve-2022-2601">	<img alt="stars" src="https://img.shields.io/github/stars/zhangboyang/cve-2022-2601">
 - [Live-Hack-CVE/CVE-2022-2601](https://github.com/Live-Hack-CVE/CVE-2022-2601)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2601">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2601">
+- [Live-Hack-CVE/CVE-2022-2601](https://github.com/Live-Hack-CVE/CVE-2022-2601)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2601">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2601">
 
 ---
 ## CVE-2022-25999 (2022-08-18T20:15:00)
@@ -16438,6 +16465,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-23741 (2022-12-14T19:15:00)
 > An incorrect authorization vulnerability was identified in GitHub Enterprise Server that allowed a scoped user-to-server token to escalate to full admin/owner privileges. An attacker would require an account with admin access to install a malicious GitHub App. This vulnerability was fixed in versions 3.3.17, 3.4.12, 3.5.9, and 3.6.5. This vulnerability was reported via the GitHub Bug Bounty program.
 - [Live-Hack-CVE/CVE-2022-23741](https://github.com/Live-Hack-CVE/CVE-2022-23741)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23741">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23741">
+- [Live-Hack-CVE/CVE-2022-23741](https://github.com/Live-Hack-CVE/CVE-2022-23741)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23741">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23741">
 
 ---
 ## CVE-2022-23740 (2022-11-23T18:15:00)
@@ -16536,10 +16564,12 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-23520 (2022-12-14T18:15:00)
 > rails-html-sanitizer is responsible for sanitizing HTML fragments in Rails applications. Prior to version 1.4.4, there is a possible XSS vulnerability with certain configurations of Rails::Html::Sanitizer due to an incomplete fix of CVE-2022-32209. Rails::Html::Sanitizer may allow an attacker to inject content if the application developer has overridden the sanitizer's allowed tags to allow both "select" and "style" elements. Code is only impacted if allowed tags are being overridden. This issue is patched in version 1.4.4. All users overriding the allowed tags to include both "select" and "style" should either upgrade or use this workaround: Remove either "select" or "style" from the overridden allowed tags. NOTE: Code is _not_ impacted if allowed tags are overridden using either the :tags option to the Action View helper method sanitize or the :tags option to the instance method SafeListSanitizer#sanitize.
 - [Live-Hack-CVE/CVE-2022-23520](https://github.com/Live-Hack-CVE/CVE-2022-23520)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23520">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23520">
+- [Live-Hack-CVE/CVE-2022-23520](https://github.com/Live-Hack-CVE/CVE-2022-23520)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23520">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23520">
 
 ---
 ## CVE-2022-23519 (2022-12-14T17:15:00)
 > rails-html-sanitizer is responsible for sanitizing HTML fragments in Rails applications. Prior to version 1.4.4, a possible XSS vulnerability with certain configurations of Rails::Html::Sanitizer may allow an attacker to inject content if the application developer has overridden the sanitizer's allowed tags in either of the following ways: allow both "math" and "style" elements, or allow both "svg" and "style" elements. Code is only impacted if allowed tags are being overridden. . This issue is fixed in version 1.4.4. All users overriding the allowed tags to include "math" or "svg" and "style" should either upgrade or use the following workaround immediately: Remove "style" from the overridden allowed tags, or remove "math" and "svg" from the overridden allowed tags.
+- [Live-Hack-CVE/CVE-2022-23519](https://github.com/Live-Hack-CVE/CVE-2022-23519)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23519">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23519">
 - [Live-Hack-CVE/CVE-2022-23519](https://github.com/Live-Hack-CVE/CVE-2022-23519)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23519">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23519">
 
 ---
