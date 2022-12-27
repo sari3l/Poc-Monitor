@@ -620,10 +620,12 @@
 ## CVE-2021-4280 (2022-12-25T20:15:00)
 > A vulnerability was found in styler_praat_scripts. It has been classified as problematic. Affected is an unknown function of the file file_segmenter.praat of the component Slash Handler. The manipulation leads to denial of service. It is possible to launch the attack remotely. The name of the patch is 0cad44aa4a3eb0ecdba071c10eaff16023d8b35f. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-216780.
 - [Live-Hack-CVE/CVE-2021-4280](https://github.com/Live-Hack-CVE/CVE-2021-4280)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4280">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4280">
+- [Live-Hack-CVE/CVE-2021-4280](https://github.com/Live-Hack-CVE/CVE-2021-4280)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4280">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4280">
 
 ---
 ## CVE-2021-4279 (2022-12-25T20:15:00)
 > A vulnerability has been found in Starcounter-Jack JSON-Patch up to 3.1.0 and classified as problematic. This vulnerability affects unknown code. The manipulation leads to improperly controlled modification of object prototype attributes ('prototype pollution'). The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. Upgrading to version 3.1.1 is able to address this issue. The name of the patch is 7ad6af41eabb2d799f698740a91284d762c955c9. It is recommended to upgrade the affected component. VDB-216778 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2021-4279](https://github.com/Live-Hack-CVE/CVE-2021-4279)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4279">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4279">
 - [Live-Hack-CVE/CVE-2021-4279](https://github.com/Live-Hack-CVE/CVE-2021-4279)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4279">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4279">
 
 ---
@@ -633,6 +635,7 @@
 - [Live-Hack-CVE/CVE-2021-42780](https://github.com/Live-Hack-CVE/CVE-2021-42780)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42780">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42780">
 - [Live-Hack-CVE/CVE-2021-42782](https://github.com/Live-Hack-CVE/CVE-2021-42782)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42782">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42782">
 - [Live-Hack-CVE/CVE-2021-42781](https://github.com/Live-Hack-CVE/CVE-2021-42781)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42781">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42781">
+- [Live-Hack-CVE/CVE-2021-4278](https://github.com/Live-Hack-CVE/CVE-2021-4278)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4278">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4278">
 
 ---
 ## CVE-2021-4277 (2022-12-25T11:15:00)
@@ -672,6 +675,11 @@
 ## CVE-2021-42646 (2022-05-11T18:15:00)
 > XML External Entity (XXE) vulnerability in the file based service provider creation feature of the Management Console in WSO2 API Manager 2.6.0, 3.0.0, 3.1.0, 3.2.0, and 4.0.0; and WSO2 IS as Key Manager 5.7.0, 5.9.0, and 5.10.0; and WSO2 Identity Server 5.7.0, 5.8.0, 5.9.0, 5.10.0, and 5.11.0. Allows attackers to gain read access to sensitive information or cause a denial of service via crafted GET requests.
 - [Live-Hack-CVE/CVE-2021-42646](https://github.com/Live-Hack-CVE/CVE-2021-42646)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42646">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42646">
+
+---
+## CVE-2021-4264 (2022-12-21T19:15:00)
+> A vulnerability was found in LinkedIn dustjs up to 2.x and classified as problematic. Affected by this issue is some unknown functionality. The manipulation leads to improperly controlled modification of object prototype attributes ('prototype pollution'). The attack may be launched remotely. The exploit has been disclosed to the public and may be used. Upgrading to version 3.0.0 is able to address this issue. The name of the patch is ddb6523832465d38c9d80189e9de60519ac307c3. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-216464.
+- [Live-Hack-CVE/CVE-2021-4264](https://github.com/Live-Hack-CVE/CVE-2021-4264)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4264">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4264">
 
 ---
 ## CVE-2021-4257 (2022-12-18T22:15:00)

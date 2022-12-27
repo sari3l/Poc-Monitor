@@ -48,6 +48,36 @@
 - [Cedric1314/CVE-2022-48870](https://github.com/Cedric1314/CVE-2022-48870)	<img alt="forks" src="https://img.shields.io/github/forks/Cedric1314/CVE-2022-48870">	<img alt="stars" src="https://img.shields.io/github/stars/Cedric1314/CVE-2022-48870">
 
 ---
+## CVE-2022-47943 (2022-12-23T17:15:00)
+> An issue was discovered in ksmbd in the Linux kernel 5.15 through 5.19 before 5.19.2. There is an out-of-bounds read and OOPS for SMB2_WRITE, when there is a large length in the zero DataOffset case.
+- [Live-Hack-CVE/CVE-2022-47943](https://github.com/Live-Hack-CVE/CVE-2022-47943)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47943">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47943">
+
+---
+## CVE-2022-47942 (2022-12-23T16:15:00)
+> An issue was discovered in ksmbd in the Linux kernel 5.15 through 5.19 before 5.19.2. There is a heap-based buffer overflow in set_ntacl_dacl, related to use of SMB2_QUERY_INFO_HE after a malformed SMB2_SET_INFO_HE command.
+- [Live-Hack-CVE/CVE-2022-47942](https://github.com/Live-Hack-CVE/CVE-2022-47942)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47942">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47942">
+
+---
+## CVE-2022-47941 (2022-12-23T16:15:00)
+> An issue was discovered in ksmbd in the Linux kernel 5.15 through 5.19 before 5.19.2. fs/ksmbd/smb2pdu.c omits a kfree call in certain smb2_handle_negotiate error conditions, aka a memory leak.
+- [Live-Hack-CVE/CVE-2022-47941](https://github.com/Live-Hack-CVE/CVE-2022-47941)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47941">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47941">
+
+---
+## CVE-2022-47940 (2022-12-23T16:15:00)
+> An issue was discovered in ksmbd in the Linux kernel 5.15 through 5.18 before 5.18.18. fs/ksmbd/smb2pdu.c lacks length validation in the non-padding case in smb2_write.
+- [Live-Hack-CVE/CVE-2022-47940](https://github.com/Live-Hack-CVE/CVE-2022-47940)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47940">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47940">
+
+---
+## CVE-2022-47939 (2022-12-23T16:15:00)
+> An issue was discovered in ksmbd in the Linux kernel 5.15 through 5.19 before 5.19.2. fs/ksmbd/smb2pdu.c has a use-after-free and OOPS for SMB2_TREE_DISCONNECT.
+- [Live-Hack-CVE/CVE-2022-47939](https://github.com/Live-Hack-CVE/CVE-2022-47939)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47939">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47939">
+
+---
+## CVE-2022-47938 (2022-12-23T16:15:00)
+> An issue was discovered in ksmbd in the Linux kernel 5.15 through 5.19 before 5.19.2. fs/ksmbd/smb2misc.c has an out-of-bounds read and OOPS for SMB2_TREE_CONNECT.
+- [Live-Hack-CVE/CVE-2022-47938](https://github.com/Live-Hack-CVE/CVE-2022-47938)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47938">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47938">
+
+---
 ## CVE-2022-47931 (2022-12-23T00:15:00)
 > IO FinNet tss-lib before 2.0.0 allows a collision of hash values.
 - [Live-Hack-CVE/CVE-2022-47931](https://github.com/Live-Hack-CVE/CVE-2022-47931)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47931">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47931">
@@ -143,6 +173,7 @@
 - [Live-Hack-CVE/CVE-2022-4741](https://github.com/Live-Hack-CVE/CVE-2022-4741)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4741">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4741">
 - [Live-Hack-CVE/CVE-2022-47411](https://github.com/Live-Hack-CVE/CVE-2022-47411)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47411">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47411">
 - [Live-Hack-CVE/CVE-2022-47410](https://github.com/Live-Hack-CVE/CVE-2022-47410)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47410">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47410">
+- [Live-Hack-CVE/CVE-2022-4741](https://github.com/Live-Hack-CVE/CVE-2022-4741)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4741">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4741">
 
 ---
 ## CVE-2022-47409 (2022-12-14T21:15:00)
@@ -167,15 +198,18 @@
 - [Live-Hack-CVE/CVE-2022-47409](https://github.com/Live-Hack-CVE/CVE-2022-47409)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47409">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47409">
 - [Live-Hack-CVE/CVE-2022-47408](https://github.com/Live-Hack-CVE/CVE-2022-47408)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47408">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47408">
 - [Live-Hack-CVE/CVE-2022-47406](https://github.com/Live-Hack-CVE/CVE-2022-47406)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47406">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47406">
+- [Live-Hack-CVE/CVE-2022-4740](https://github.com/Live-Hack-CVE/CVE-2022-4740)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4740">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4740">
 
 ---
 ## CVE-2022-4739 (2022-12-25T20:15:00)
 > A vulnerability classified as critical was found in SourceCodester School Dormitory Management System 1.0. Affected by this vulnerability is an unknown functionality of the component Admin Login. The manipulation leads to sql injection. The attack can be launched remotely. The associated identifier of this vulnerability is VDB-216775.
 - [Live-Hack-CVE/CVE-2022-4739](https://github.com/Live-Hack-CVE/CVE-2022-4739)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4739">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4739">
+- [Live-Hack-CVE/CVE-2022-4739](https://github.com/Live-Hack-CVE/CVE-2022-4739)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4739">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4739">
 
 ---
 ## CVE-2022-4738 (2022-12-25T20:15:00)
 > A vulnerability classified as problematic has been found in SourceCodester Blood Bank Management System 1.0. Affected is an unknown function of the file index.php?page=users of the component User Registration Handler. The manipulation of the argument Name leads to cross site scripting. It is possible to launch the attack remotely. VDB-216774 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4738](https://github.com/Live-Hack-CVE/CVE-2022-4738)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4738">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4738">
 - [Live-Hack-CVE/CVE-2022-4738](https://github.com/Live-Hack-CVE/CVE-2022-4738)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4738">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4738">
 
 ---
@@ -188,15 +222,18 @@
 > A vulnerability was found in SourceCodester Blood Bank Management System 1.0. It has been rated as critical. This issue affects some unknown processing of the file login.php. The manipulation of the argument username/password leads to sql injection. The attack may be initiated remotely. The identifier VDB-216773 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-4737](https://github.com/Live-Hack-CVE/CVE-2022-4737)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4737">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4737">
 - [Live-Hack-CVE/CVE-2022-47377](https://github.com/Live-Hack-CVE/CVE-2022-47377)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47377">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47377">
+- [Live-Hack-CVE/CVE-2022-4737](https://github.com/Live-Hack-CVE/CVE-2022-4737)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4737">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4737">
 
 ---
 ## CVE-2022-4736 (2022-12-25T20:15:00)
 > A vulnerability was found in Venganzas del Pasado and classified as problematic. Affected by this issue is some unknown functionality. The manipulation of the argument the_title leads to cross site scripting. The attack may be launched remotely. The name of the patch is 62339b2ec445692c710b804bdf07aef4bd247ff7. It is recommended to apply a patch to fix this issue. VDB-216770 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-4736](https://github.com/Live-Hack-CVE/CVE-2022-4736)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4736">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4736">
+- [Live-Hack-CVE/CVE-2022-4736](https://github.com/Live-Hack-CVE/CVE-2022-4736)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4736">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4736">
 
 ---
 ## CVE-2022-4735 (2022-12-25T16:15:00)
 > A vulnerability classified as problematic was found in asrashley dash-live. This vulnerability affects the function ready of the file static/js/media.js of the component DOM Node Handler. The manipulation leads to cross site scripting. The attack can be initiated remotely. The name of the patch is 24d01757a5319cc14c4aa1d8b53d1ab24d48e451. It is recommended to apply a patch to fix this issue. VDB-216766 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4735](https://github.com/Live-Hack-CVE/CVE-2022-4735)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4735">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4735">
 - [Live-Hack-CVE/CVE-2022-4735](https://github.com/Live-Hack-CVE/CVE-2022-4735)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4735">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4735">
 
 ---
@@ -4327,10 +4364,12 @@
 ## CVE-2022-41318 (2022-12-25T19:15:00)
 > A buffer over-read was discovered in libntlmauth in Squid 2.5 through 5.6. Due to incorrect integer-overflow protection, the SSPI and SMB authentication helpers are vulnerable to reading unintended memory locations. In some configurations, cleartext credentials from these locations are sent to a client. This is fixed in 5.7.
 - [Live-Hack-CVE/CVE-2022-41318](https://github.com/Live-Hack-CVE/CVE-2022-41318)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41318">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41318">
+- [Live-Hack-CVE/CVE-2022-41318](https://github.com/Live-Hack-CVE/CVE-2022-41318)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41318">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41318">
 
 ---
 ## CVE-2022-41317 (2022-12-25T19:15:00)
 > An issue was discovered in Squid 4.9 through 4.17 and 5.0.6 through 5.6. Due to inconsistent handling of internal URIs, there can be Exposure of Sensitive Information about clients using the proxy via an HTTPS request to an internal cache manager URL. This is fixed in 5.7.
+- [Live-Hack-CVE/CVE-2022-41317](https://github.com/Live-Hack-CVE/CVE-2022-41317)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41317">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41317">
 - [Live-Hack-CVE/CVE-2022-41317](https://github.com/Live-Hack-CVE/CVE-2022-41317)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41317">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41317">
 
 ---
@@ -5928,6 +5967,7 @@
 ---
 ## CVE-2022-40005 (2022-12-25T19:15:00)
 > Intelbras WiFiber 120AC inMesh before 1-1-220826 allows command injection by authenticated users, as demonstrated by the /boaform/formPing6 and /boaform/formTracert URIs for ping and traceroute.
+- [Live-Hack-CVE/CVE-2022-40005](https://github.com/Live-Hack-CVE/CVE-2022-40005)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40005">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40005">
 - [Live-Hack-CVE/CVE-2022-40005](https://github.com/Live-Hack-CVE/CVE-2022-40005)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40005">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40005">
 
 ---
@@ -8145,6 +8185,7 @@
 - [MaherAzzouzi/CVE-2022-37706-LPE-exploit](https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/MaherAzzouzi/CVE-2022-37706-LPE-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/MaherAzzouzi/CVE-2022-37706-LPE-exploit">
 - [ECU-10525611-Xander/CVE-2022-37706](https://github.com/ECU-10525611-Xander/CVE-2022-37706)	<img alt="forks" src="https://img.shields.io/github/forks/ECU-10525611-Xander/CVE-2022-37706">	<img alt="stars" src="https://img.shields.io/github/stars/ECU-10525611-Xander/CVE-2022-37706">
 - [Live-Hack-CVE/CVE-2022-37706](https://github.com/Live-Hack-CVE/CVE-2022-37706)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37706">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37706">
+- [Live-Hack-CVE/CVE-2022-37706](https://github.com/Live-Hack-CVE/CVE-2022-37706)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37706">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37706">
 
 ---
 ## CVE-2022-37705 ()
@@ -8308,20 +8349,24 @@
 ## CVE-2022-37313 (2022-12-26T02:15:00)
 > OX App Suite through 7.10.6 allows SSRF because the anti-SSRF protection mechanism only checks the first DNS AA or AAAA record.
 - [Live-Hack-CVE/CVE-2022-37313](https://github.com/Live-Hack-CVE/CVE-2022-37313)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37313">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37313">
+- [Live-Hack-CVE/CVE-2022-37313](https://github.com/Live-Hack-CVE/CVE-2022-37313)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37313">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37313">
 
 ---
 ## CVE-2022-37312 (2022-12-26T02:15:00)
 > OX App Suite through 7.10.6 has Uncontrolled Resource Consumption via a large request body containing a redirect URL to the deferrer servlet.
+- [Live-Hack-CVE/CVE-2022-37312](https://github.com/Live-Hack-CVE/CVE-2022-37312)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37312">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37312">
 - [Live-Hack-CVE/CVE-2022-37312](https://github.com/Live-Hack-CVE/CVE-2022-37312)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37312">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37312">
 
 ---
 ## CVE-2022-37311 (2022-12-26T02:15:00)
 > OX App Suite through 7.10.6 has Uncontrolled Resource Consumption via a large location request parameter to the redirect servlet.
 - [Live-Hack-CVE/CVE-2022-37311](https://github.com/Live-Hack-CVE/CVE-2022-37311)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37311">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37311">
+- [Live-Hack-CVE/CVE-2022-37311](https://github.com/Live-Hack-CVE/CVE-2022-37311)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37311">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37311">
 
 ---
 ## CVE-2022-37307 (2022-12-26T02:15:00)
 > OX App Suite through 7.10.6 allows XSS via XHTML CDATA for a snippet, as demonstrated by the onerror attribute of an IMG element within an e-mail signature.
+- [Live-Hack-CVE/CVE-2022-37307](https://github.com/Live-Hack-CVE/CVE-2022-37307)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37307">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37307">
 - [Live-Hack-CVE/CVE-2022-37307](https://github.com/Live-Hack-CVE/CVE-2022-37307)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37307">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37307">
 
 ---

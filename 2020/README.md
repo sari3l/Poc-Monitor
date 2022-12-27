@@ -646,15 +646,18 @@
 ## CVE-2020-36632 (2022-12-25T20:15:00)
 > A vulnerability, which was classified as critical, was found in hughsk flat up to 5.0.0. This affects the function unflatten of the file index.js. The manipulation leads to improperly controlled modification of object prototype attributes ('prototype pollution'). It is possible to initiate the attack remotely. Upgrading to version 5.0.1 is able to address this issue. The name of the patch is 20ef0ef55dfa028caddaedbcb33efbdb04d18e13. It is recommended to upgrade the affected component. The identifier VDB-216777 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2020-36632](https://github.com/Live-Hack-CVE/CVE-2020-36632)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36632">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36632">
+- [Live-Hack-CVE/CVE-2020-36632](https://github.com/Live-Hack-CVE/CVE-2020-36632)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36632">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36632">
 
 ---
 ## CVE-2020-36631 (2022-12-25T20:15:00)
 > A vulnerability was found in barronwaffles dwc_network_server_emulator. It has been declared as critical. This vulnerability affects the function update_profile of the file gamespy/gs_database.py. The manipulation of the argument firstname/lastname leads to sql injection. The attack can be initiated remotely. The name of the patch is f70eb21394f75019886fbc2fb536de36161ba422. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-216772.
 - [Live-Hack-CVE/CVE-2020-36631](https://github.com/Live-Hack-CVE/CVE-2020-36631)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36631">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36631">
+- [Live-Hack-CVE/CVE-2020-36631](https://github.com/Live-Hack-CVE/CVE-2020-36631)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36631">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36631">
 
 ---
 ## CVE-2020-36630 (2022-12-25T20:15:00)
 > A vulnerability was found in FreePBX cdr 14.0. It has been classified as critical. This affects the function ajaxHandler of the file ucp/Cdr.class.php. The manipulation of the argument limit/offset leads to sql injection. Upgrading to version 14.0.5.21 is able to address this issue. The name of the patch is f1a9eea2dfff30fb99d825bac194a676a82b9ec8. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-216771.
+- [Live-Hack-CVE/CVE-2020-36630](https://github.com/Live-Hack-CVE/CVE-2020-36630)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36630">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36630">
 - [Live-Hack-CVE/CVE-2020-36630](https://github.com/Live-Hack-CVE/CVE-2020-36630)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36630">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36630">
 
 ---
