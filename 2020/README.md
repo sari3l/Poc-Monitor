@@ -21,6 +21,7 @@
 - [WonjunChun/CVE-2020-9715](https://github.com/WonjunChun/CVE-2020-9715)	<img alt="forks" src="https://img.shields.io/github/forks/WonjunChun/CVE-2020-9715">	<img alt="stars" src="https://img.shields.io/github/stars/WonjunChun/CVE-2020-9715">
 - [lsw29475/CVE-2020-9715](https://github.com/lsw29475/CVE-2020-9715)	<img alt="forks" src="https://img.shields.io/github/forks/lsw29475/CVE-2020-9715">	<img alt="stars" src="https://img.shields.io/github/stars/lsw29475/CVE-2020-9715">
 - [Live-Hack-CVE/CVE-2020-9715](https://github.com/Live-Hack-CVE/CVE-2020-9715)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9715">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9715">
+- [Live-Hack-CVE/CVE-2020-9715](https://github.com/Live-Hack-CVE/CVE-2020-9715)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9715">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9715">
 
 ---
 ## CVE-2020-9496 (2020-07-15T16:15:00)
@@ -731,6 +732,7 @@
 ## CVE-2020-36244 (2021-02-10T07:15:00)
 > The daemon in GENIVI diagnostic log and trace (DLT), is vulnerable to a heap-based buffer overflow that could allow an attacker to remotely execute arbitrary code on the DLT-Daemon (versions prior to 2.18.6).
 - [Live-Hack-CVE/CVE-2020-36244](https://github.com/Live-Hack-CVE/CVE-2020-36244)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36244">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36244">
+- [Live-Hack-CVE/CVE-2020-36244](https://github.com/Live-Hack-CVE/CVE-2020-36244)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36244">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36244">
 
 ---
 ## CVE-2020-36188 (2021-01-06T23:15:00)
@@ -941,6 +943,7 @@
 ---
 ## CVE-2020-29394 (2020-11-30T19:15:00)
 > A buffer overflow in the dlt_filter_load function in dlt_common.c from dlt-daemon through 2.18.5 (GENIVI Diagnostic Log and Trace) allows arbitrary code execution because fscanf is misused (no limit on the number of characters to be read in the format argument).
+- [Live-Hack-CVE/CVE-2020-29394](https://github.com/Live-Hack-CVE/CVE-2020-29394)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-29394">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-29394">
 - [Live-Hack-CVE/CVE-2020-29394](https://github.com/Live-Hack-CVE/CVE-2020-29394)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-29394">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-29394">
 
 ---
