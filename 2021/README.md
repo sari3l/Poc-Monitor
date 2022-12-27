@@ -1067,6 +1067,11 @@
 - [efchatz/easy-exploits](https://github.com/efchatz/easy-exploits)	<img alt="forks" src="https://img.shields.io/github/forks/efchatz/easy-exploits">	<img alt="stars" src="https://img.shields.io/github/stars/efchatz/easy-exploits">
 
 ---
+## CVE-2021-4140 (2022-12-22T20:15:00)
+> It was possible to construct specific XSLT markup that would be able to bypass an iframe sandbox. This vulnerability affects Firefox ESR < 91.5, Firefox < 96, and Thunderbird < 91.5.
+- [Live-Hack-CVE/CVE-2021-4140](https://github.com/Live-Hack-CVE/CVE-2021-4140)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4140">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4140">
+
+---
 ## CVE-2021-41381 (2021-09-23T15:15:00)
 > Payara Micro Community 5.2021.6 and below allows Directory Traversal.
 - [Live-Hack-CVE/CVE-2021-41381](https://github.com/Live-Hack-CVE/CVE-2021-41381)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41381">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41381">
@@ -1089,6 +1094,11 @@
 - [Live-Hack-CVE/CVE-2021-41313](https://github.com/Live-Hack-CVE/CVE-2021-41313)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41313">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41313">
 
 ---
+## CVE-2021-4128 (2022-12-22T20:15:00)
+> When transitioning in and out of fullscreen mode, a graphics object was not correctly protected; resulting in memory corruption and a potentially exploitable crash.<br>*This bug only affects Firefox on MacOS. Other operating systems are unaffected.*. This vulnerability affects Firefox < 95.
+- [Live-Hack-CVE/CVE-2021-4128](https://github.com/Live-Hack-CVE/CVE-2021-4128)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4128">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4128">
+
+---
 ## CVE-2021-41277 (2021-11-17T20:15:00)
 > Metabase is an open source data analytics platform. In affected versions a security issue has been discovered with the custom GeoJSON map (`admin->settings->maps->custom maps->add a map`) support and potential local file inclusion (including environment variables). URLs were not validated prior to being loaded. This issue is fixed in a new maintenance release (0.40.5 and 1.40.5), and any subsequent release after that. If youâ€™re unable to upgrade immediately, you can mitigate this by including rules in your reverse proxy or load balancer or WAF to provide a validation filter before the application.
 - [Vulnmachines/Metabase_CVE-2021-41277](https://github.com/Vulnmachines/Metabase_CVE-2021-41277)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/Metabase_CVE-2021-41277">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/Metabase_CVE-2021-41277">
@@ -1103,6 +1113,16 @@
 - [kap1ush0n/CVE-2021-41277](https://github.com/kap1ush0n/CVE-2021-41277)	<img alt="forks" src="https://img.shields.io/github/forks/kap1ush0n/CVE-2021-41277">	<img alt="stars" src="https://img.shields.io/github/stars/kap1ush0n/CVE-2021-41277">
 - [Seals6/CVE-2021-41277](https://github.com/Seals6/CVE-2021-41277)	<img alt="forks" src="https://img.shields.io/github/forks/Seals6/CVE-2021-41277">	<img alt="stars" src="https://img.shields.io/github/stars/Seals6/CVE-2021-41277">
 - [Henry4E36/Metabase-cve-2021-41277](https://github.com/Henry4E36/Metabase-cve-2021-41277)	<img alt="forks" src="https://img.shields.io/github/forks/Henry4E36/Metabase-cve-2021-41277">	<img alt="stars" src="https://img.shields.io/github/stars/Henry4E36/Metabase-cve-2021-41277">
+
+---
+## CVE-2021-4127 (2022-12-22T20:15:00)
+> An out of date graphics library (Angle) likely contained vulnerabilities that could potentially be exploited. This vulnerability affects Thunderbird < 78.9 and Firefox ESR < 78.9.
+- [Live-Hack-CVE/CVE-2021-4127](https://github.com/Live-Hack-CVE/CVE-2021-4127)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4127">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4127">
+
+---
+## CVE-2021-4126 (2022-12-22T20:15:00)
+> When receiving an OpenPGP/MIME signed email message that contains an additional outer MIME message layer, for example a message footer added by a mailing list gateway, Thunderbird only considered the inner signed message for the signature validity. This gave the false impression that the additional contents were also covered by the digital signature. Starting with Thunderbird version 91.4.1, only the signature that belongs to the top level MIME part will be considered for the displayed status. This vulnerability affects Thunderbird < 91.4.1.
+- [Live-Hack-CVE/CVE-2021-4126](https://github.com/Live-Hack-CVE/CVE-2021-4126)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4126">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4126">
 
 ---
 ## CVE-2021-41253 (2021-11-08T22:15:00)

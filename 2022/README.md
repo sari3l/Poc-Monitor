@@ -863,6 +863,11 @@
 - [Live-Hack-CVE/CVE-2022-46171](https://github.com/Live-Hack-CVE/CVE-2022-46171)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46171">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46171">
 
 ---
+## CVE-2022-46170 (2022-12-22T19:15:00)
+> CodeIgniter is a PHP full-stack web framework. When an application uses (1) multiple session cookies (e.g., one for user pages and one for admin pages) and (2) a session handler is set to `DatabaseHandler`, `MemcachedHandler`, or `RedisHandler`, then if an attacker gets one session cookie (e.g., one for user pages), they may be able to access pages that require another session cookie (e.g., for admin pages). This issue has been patched, please upgrade to version 4.2.11 or later. As a workaround, use only one session cookie.
+- [Live-Hack-CVE/CVE-2022-46170](https://github.com/Live-Hack-CVE/CVE-2022-46170)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46170">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46170">
+
+---
 ## CVE-2022-46169 (2022-12-05T21:15:00)
 > Cacti is an open source platform which provides a robust and extensible operational monitoring and fault management framework for users. In affected versions a command injection vulnerability allows an unauthenticated user to execute arbitrary code on a server running Cacti, if a specific data source was selected for any monitored device. The vulnerability resides in the `remote_agent.php` file. This file can be accessed without authentication. This function retrieves the IP address of the client via `get_client_addr` and resolves this IP address to the corresponding hostname via `gethostbyaddr`. After this, it is verified that an entry within the `poller` table exists, where the hostname corresponds to the resolved hostname. If such an entry was found, the function returns `true` and the client is authorized. This authorization can be bypassed due to the implementation of the `get_client_addr` function. The function is defined in the file `lib/functions.php` and checks serval `$_SERVER` variables to determine the IP address of the client. The variables beginning with `HTTP_` can be arbitrarily set by an attacker. Since there is a default entry in the `poller` table with the hostname of the server running Cacti, an attacker can bypass the authentication e.g. by providing the header `Forwarded-For: <TARGETIP>`. This way the function `get_client_addr` returns the IP address of the server running Cacti. The following call to `gethostbyaddr` will resolve this IP address to the hostname of the server, which will pass the `poller` hostname check because of the default entry. After the authorization of the `remote_agent.php` file is bypassed, an attacker can trigger different actions. One of these actions is called `polldata`. The called function `poll_for_data` retrieves a few request parameters and loads the corresponding `poller_item` entries from the database. If the `action` of a `poller_item` equals `POLLER_ACTION_SCRIPT_PHP`, the function `proc_open` is used to execute a PHP script. The attacker-controlled parameter `$poller_id` is retrieved via the function `get_nfilter_request_var`, which allows arbitrary strings. This variable is later inserted into the string passed to `proc_open`, which leads to a command injection vulnerability. By e.g. providing the `poller_id=;id` the `id` command is executed. In order to reach the vulnerable call, the attacker must provide a `host_id` and `local_data_id`, where the `action` of the corresponding `poller_item` is set to `POLLER_ACTION_SCRIPT_PHP`. Both of these ids (`host_id` and `local_data_id`) can easily be bruteforced. The only requirement is that a `poller_item` with an `POLLER_ACTION_SCRIPT_PHP` action exists. This is very likely on a productive instance because this action is added by some predefined templates like `Device - Uptime` or `Device - Polling Time`. This command injection vulnerability allows an unauthenticated user to execute arbitrary commands if a `poller_item` with the `action` type `POLLER_ACTION_SCRIPT_PHP` (`2`) is configured. The authorization bypass should be prevented by not allowing an attacker to make `get_client_addr` (file `lib/functions.php`) return an arbitrary IP address. This could be done by not honoring the `HTTP_...` `$_SERVER` variables. If these should be kept for compatibility reasons it should at least be prevented to fake the IP address of the server running Cacti. This vulnerability has been addressed in both the 1.2.x and 1.3.x release branches with `1.2.23` being the first release containing the patch.
 - [imjdl/CVE-2022-46169](https://github.com/imjdl/CVE-2022-46169)	<img alt="forks" src="https://img.shields.io/github/forks/imjdl/CVE-2022-46169">	<img alt="stars" src="https://img.shields.io/github/stars/imjdl/CVE-2022-46169">
@@ -1344,8 +1349,74 @@
 - [alfarom256/CVE-2022-45451](https://github.com/alfarom256/CVE-2022-45451)	<img alt="forks" src="https://img.shields.io/github/forks/alfarom256/CVE-2022-45451">	<img alt="stars" src="https://img.shields.io/github/stars/alfarom256/CVE-2022-45451">
 
 ---
+## CVE-2022-45420 (2022-12-22T20:15:00)
+> Use tables inside of an iframe, an attacker could have caused iframe contents to be rendered outside the boundaries of the iframe, resulting in potential user confusion or spoofing attacks. This vulnerability affects Firefox ESR < 102.5, Thunderbird < 102.5, and Firefox < 107.
+- [Live-Hack-CVE/CVE-2022-45420](https://github.com/Live-Hack-CVE/CVE-2022-45420)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45420">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45420">
+
+---
+## CVE-2022-45418 (2022-12-22T20:15:00)
+> If a custom mouse cursor is specified in CSS, under certain circumstances the cursor could have been drawn over the browser UI, resulting in potential user confusion or spoofing attacks. This vulnerability affects Firefox ESR < 102.5, Thunderbird < 102.5, and Firefox < 107.
+- [Live-Hack-CVE/CVE-2022-45418](https://github.com/Live-Hack-CVE/CVE-2022-45418)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45418">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45418">
+
+---
+## CVE-2022-45417 (2022-12-22T20:15:00)
+> Service Workers did not detect Private Browsing Mode correctly in all cases, which could have led to Service Workers being written to disk for websites visited in Private Browsing Mode. This would not have persisted them in a state where they would run again, but it would have leaked Private Browsing Mode details to disk. This vulnerability affects Firefox < 107.
+- [Live-Hack-CVE/CVE-2022-45417](https://github.com/Live-Hack-CVE/CVE-2022-45417)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45417">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45417">
+
+---
+## CVE-2022-45416 (2022-12-22T20:15:00)
+> Keyboard events reference strings like "KeyA" that were at fixed, known, and widely-spread addresses. Cache-based timing attacks such as Prime+Probe could have possibly figured out which keys were being pressed. This vulnerability affects Firefox ESR < 102.5, Thunderbird < 102.5, and Firefox < 107.
+- [Live-Hack-CVE/CVE-2022-45416](https://github.com/Live-Hack-CVE/CVE-2022-45416)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45416">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45416">
+
+---
+## CVE-2022-45415 (2022-12-22T20:15:00)
+> When downloading an HTML file, if the title of the page was formatted as a filename with a malicious extension, Firefox may have saved the file with that extension, leading to possible system compromise if the downloaded file was later ran. This vulnerability affects Firefox < 107.
+- [Live-Hack-CVE/CVE-2022-45415](https://github.com/Live-Hack-CVE/CVE-2022-45415)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45415">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45415">
+
+---
+## CVE-2022-45414 (2022-12-22T20:15:00)
+> If a Thunderbird user quoted from an HTML email, for example by replying to the email, and the email contained either a VIDEO tag with the POSTER attribute or an OBJECT tag with a DATA attribute, a network request to the referenced remote URL was performed, regardless of a configuration to block remote content. An image loaded from the POSTER attribute was shown in the composer window. These issues could have given an attacker additional capabilities when targetting releases that did not yet have a fix for CVE-2022-3033 which was reported around three months ago. This vulnerability affects Thunderbird < 102.5.1.
+- [Live-Hack-CVE/CVE-2022-45414](https://github.com/Live-Hack-CVE/CVE-2022-45414)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45414">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45414">
+
+---
+## CVE-2022-45413 (2022-12-22T20:15:00)
+> Using the <code>S.browser_fallback_url parameter</code> parameter, an attacker could redirect a user to a URL and cause SameSite=Strict cookies to be sent.<br>*This issue only affects Firefox for Android. Other operating systems are not affected.*. This vulnerability affects Firefox < 107.
+- [Live-Hack-CVE/CVE-2022-45413](https://github.com/Live-Hack-CVE/CVE-2022-45413)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45413">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45413">
+
+---
+## CVE-2022-45411 (2022-12-22T20:15:00)
+> Cross-Site Tracing occurs when a server will echo a request back via the Trace method, allowing an XSS attack to access to authorization headers and cookies inaccessible to JavaScript (such as cookies protected by HTTPOnly). To mitigate this attack, browsers placed limits on <code>fetch()</code> and XMLHttpRequest; however some webservers have implemented non-standard headers such as <code>X-Http-Method-Override</code> that override the HTTP method, and made this attack possible again. Thunderbird has applied the same mitigations to the use of this and similar headers. This vulnerability affects Firefox ESR < 102.5, Thunderbird < 102.5, and Firefox < 107.
+- [Live-Hack-CVE/CVE-2022-45411](https://github.com/Live-Hack-CVE/CVE-2022-45411)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45411">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45411">
+
+---
+## CVE-2022-45410 (2022-12-22T20:15:00)
+> When a ServiceWorker intercepted a request with <code>FetchEvent</code>, the origin of the request was lost after the ServiceWorker took ownership of it. This had the effect of negating SameSite cookie protections. This was addressed in the spec and then in browsers. This vulnerability affects Firefox ESR < 102.5, Thunderbird < 102.5, and Firefox < 107.
+- [Live-Hack-CVE/CVE-2022-45410](https://github.com/Live-Hack-CVE/CVE-2022-45410)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45410">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45410">
+
+---
+## CVE-2022-45407 (2022-12-22T20:15:00)
+> If an attacker loaded a font using <code>FontFace()</code> on a background worker, a use-after-free could have occurred, leading to a potentially exploitable crash. This vulnerability affects Firefox < 107.
+- [Live-Hack-CVE/CVE-2022-45407](https://github.com/Live-Hack-CVE/CVE-2022-45407)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45407">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45407">
+
+---
+## CVE-2022-45406 (2022-12-22T20:15:00)
+> If an out-of-memory condition occurred when creating a JavaScript global, a JavaScript realm may be deleted while references to it lived on in a BaseShape. This could lead to a use-after-free causing a potentially exploitable crash. This vulnerability affects Firefox ESR < 102.5, Thunderbird < 102.5, and Firefox < 107.
+- [Live-Hack-CVE/CVE-2022-45406](https://github.com/Live-Hack-CVE/CVE-2022-45406)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45406">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45406">
+
+---
+## CVE-2022-45405 (2022-12-22T20:15:00)
+> Freeing arbitrary <code>nsIInputStream</code>'s on a different thread than creation could have led to a use-after-free and potentially exploitable crash. This vulnerability affects Firefox ESR < 102.5, Thunderbird < 102.5, and Firefox < 107.
+- [Live-Hack-CVE/CVE-2022-45405](https://github.com/Live-Hack-CVE/CVE-2022-45405)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45405">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45405">
+
+---
+## CVE-2022-45404 (2022-12-22T20:15:00)
+> Through a series of popup and <code>window.print()</code> calls, an attacker can cause a window to go fullscreen without the user seeing the notification prompt, resulting in potential user confusion or spoofing attacks. This vulnerability affects Firefox ESR < 102.5, Thunderbird < 102.5, and Firefox < 107.
+- [Live-Hack-CVE/CVE-2022-45404](https://github.com/Live-Hack-CVE/CVE-2022-45404)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45404">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45404">
+
+---
 ## CVE-2022-45403 (2022-12-22T20:15:00)
 > Service Workers should not be able to infer information about opaque cross-origin responses; but timing information for cross-origin media combined with Range requests might have allowed them to determine the presence or length of a media file. This vulnerability affects Firefox ESR < 102.5, Thunderbird < 102.5, and Firefox < 107.
+- [Live-Hack-CVE/CVE-2022-45403](https://github.com/Live-Hack-CVE/CVE-2022-45403)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45403">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45403">
 - [Live-Hack-CVE/CVE-2022-45403](https://github.com/Live-Hack-CVE/CVE-2022-45403)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45403">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45403">
 
 ---
@@ -2879,30 +2950,36 @@
 ## CVE-2022-42932 (2022-12-22T20:15:00)
 > Mozilla developers Ashley Hale and the Mozilla Fuzzing Team reported memory safety bugs present in Thunderbird 102.3. Some of these bugs showed evidence of memory corruption and we presume that with enough effort some of these could have been exploited to run arbitrary code. This vulnerability affects Thunderbird < 102.4, Firefox ESR < 102.4, and Firefox < 106.
 - [Live-Hack-CVE/CVE-2022-42932](https://github.com/Live-Hack-CVE/CVE-2022-42932)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42932">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42932">
+- [Live-Hack-CVE/CVE-2022-42932](https://github.com/Live-Hack-CVE/CVE-2022-42932)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42932">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42932">
 
 ---
 ## CVE-2022-42931 (2022-12-22T20:15:00)
 > Logins saved by Firefox should be managed by the Password Manager component which uses encryption to save files on-disk. Instead, the username (not password) was saved by the Form Manager to an unencrypted file on disk. This vulnerability affects Firefox < 106.
+- [Live-Hack-CVE/CVE-2022-42931](https://github.com/Live-Hack-CVE/CVE-2022-42931)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42931">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42931">
 - [Live-Hack-CVE/CVE-2022-42931](https://github.com/Live-Hack-CVE/CVE-2022-42931)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42931">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42931">
 
 ---
 ## CVE-2022-42930 (2022-12-22T20:15:00)
 > If two Workers were simultaneously initializing their CacheStorage, a data race could have occurred in the <code>ThirdPartyUtil</code> component. This vulnerability affects Firefox < 106.
 - [Live-Hack-CVE/CVE-2022-42930](https://github.com/Live-Hack-CVE/CVE-2022-42930)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42930">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42930">
+- [Live-Hack-CVE/CVE-2022-42930](https://github.com/Live-Hack-CVE/CVE-2022-42930)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42930">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42930">
 
 ---
 ## CVE-2022-42929 (2022-12-22T20:15:00)
 > If a website called <code>window.print()</code> in a particular way, it could cause a denial of service of the browser, which may persist beyond browser restart depending on the user's session restore settings. This vulnerability affects Thunderbird < 102.4, Firefox ESR < 102.4, and Firefox < 106.
+- [Live-Hack-CVE/CVE-2022-42929](https://github.com/Live-Hack-CVE/CVE-2022-42929)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42929">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42929">
 - [Live-Hack-CVE/CVE-2022-42929](https://github.com/Live-Hack-CVE/CVE-2022-42929)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42929">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42929">
 
 ---
 ## CVE-2022-42928 (2022-12-22T20:15:00)
 > Certain types of allocations were missing annotations that, if the Garbage Collector was in a specific state, could have lead to memory corruption and a potentially exploitable crash. This vulnerability affects Thunderbird < 102.4, Firefox ESR < 102.4, and Firefox < 106.
 - [Live-Hack-CVE/CVE-2022-42928](https://github.com/Live-Hack-CVE/CVE-2022-42928)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42928">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42928">
+- [Live-Hack-CVE/CVE-2022-42928](https://github.com/Live-Hack-CVE/CVE-2022-42928)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42928">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42928">
 
 ---
 ## CVE-2022-42927 (2022-12-22T20:15:00)
 > A same-origin policy violation could have allowed the theft of cross-origin URL entries, leaking the result of a redirect, via <code>performance.getEntries()</code>. This vulnerability affects Thunderbird < 102.4, Firefox ESR < 102.4, and Firefox < 106.
+- [Live-Hack-CVE/CVE-2022-42927](https://github.com/Live-Hack-CVE/CVE-2022-42927)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42927">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42927">
 - [Live-Hack-CVE/CVE-2022-42927](https://github.com/Live-Hack-CVE/CVE-2022-42927)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42927">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42927">
 
 ---
@@ -16028,9 +16105,19 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-23608](https://github.com/Live-Hack-CVE/CVE-2022-23608)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23608">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23608">
 
 ---
+## CVE-2022-23556 (2022-12-22T19:15:00)
+> CodeIgniter is a PHP full-stack web framework. This vulnerability may allow attackers to spoof their IP address when the server is behind a reverse proxy. This issue has been patched, please upgrade to version 4.2.11 or later, and configure `Config\App::$proxyIPs`. As a workaround, do not use `$request->getIPAddress()`.
+- [Live-Hack-CVE/CVE-2022-23556](https://github.com/Live-Hack-CVE/CVE-2022-23556)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23556">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23556">
+
+---
 ## CVE-2022-23543 (2022-12-19T22:15:00)
 > Silverware Games is a social network where people can play games online. Users can attach URLs to YouTube videos, the site will generate related `<iframe>` when the post will be published. The handler has some sort of protection so non-YouTube links can't be posted, as well as HTML tags are being stripped. However, it was still possible to add custom HTML attributes (e.g. `onclick=alert("xss")`) to the `<iframe>'. This issue was fixed in the version `1.1.34` and does not require any extra actions from our members. There has been no evidence that this vulnerability was used by anyone at this time.
 - [Live-Hack-CVE/CVE-2022-23543](https://github.com/Live-Hack-CVE/CVE-2022-23543)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23543">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23543">
+
+---
+## CVE-2022-23540 (2022-12-22T19:15:00)
+> In versions `<=8.5.1` of `jsonwebtoken` library, lack of algorithm definition in the `jwt.verify()` function can lead to signature validation bypass due to defaulting to the `none` algorithm for signature verification. Users are affected if you do not specify algorithms in the `jwt.verify()` function. This issue has been fixed, please update to version 9.0.0 which removes the default support for the none algorithm in the `jwt.verify()` method. There will be no impact, if you update to version 9.0.0 and you don’t need to allow for the `none` algorithm. If you need 'none' algorithm, you have to explicitly specify that in `jwt.verify()` options.
+- [Live-Hack-CVE/CVE-2022-23540](https://github.com/Live-Hack-CVE/CVE-2022-23540)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23540">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23540">
 
 ---
 ## CVE-2022-23537 (2022-12-20T19:15:00)
@@ -18656,6 +18743,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1232 (2022-07-25T14:15:00)
 > Type confusion in V8 in Google Chrome prior to 100.0.4896.75 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
 - [Live-Hack-CVE/CVE-2022-1232](https://github.com/Live-Hack-CVE/CVE-2022-1232)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1232">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1232">
+
+---
+## CVE-2022-1196 (2022-12-22T20:15:00)
+> After a VR Process is destroyed, a reference to it may have been retained and used, leading to a use-after-free and potentially exploitable crash. This vulnerability affects Thunderbird < 91.8 and Firefox ESR < 91.8.
+- [Live-Hack-CVE/CVE-2022-1196](https://github.com/Live-Hack-CVE/CVE-2022-1196)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1196">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1196">
 
 ---
 ## CVE-2022-1195 (2022-04-29T16:15:00)

@@ -1997,6 +1997,16 @@
 - [Live-Hack-CVE/CVE-2020-16211](https://github.com/Live-Hack-CVE/CVE-2020-16211)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-16211">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-16211">
 
 ---
+## CVE-2020-15685 (2022-12-22T20:15:00)
+> During the plaintext phase of the STARTTLS connection setup, protocol commands could have been injected and evaluated within the encrypted session. This vulnerability affects Thunderbird < 78.7.
+- [Live-Hack-CVE/CVE-2020-15685](https://github.com/Live-Hack-CVE/CVE-2020-15685)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15685">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15685">
+
+---
+## CVE-2020-15679 (2022-12-22T20:15:00)
+> An OAuth session fixation vulnerability existed in the VPN login flow, where an attacker could craft a custom login URL, convince a VPN user to login via that URL, and obtain authenticated access as that user. This issue is limited to cases where attacker and victim are sharing the same source IP and could allow the ability to view session states and disconnect VPN sessions. This vulnerability affects Mozilla VPN iOS 1.0.7 < (929), Mozilla VPN Windows < 1.2.2, and Mozilla VPN Android 1.1.0 < (1360).
+- [Live-Hack-CVE/CVE-2020-15679](https://github.com/Live-Hack-CVE/CVE-2020-15679)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15679">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15679">
+
+---
 ## CVE-2020-15678 (2020-10-01T19:15:00)
 > When recursing through graphical layers while scrolling, an iterator may have become invalid, resulting in a potential use-after-free. This occurs because the function APZCTreeManager::ComputeClippedCompositionBounds did not follow iterator invalidation rules. This vulnerability affects Firefox < 81, Thunderbird < 78.3, and Firefox ESR < 78.3.
 - [Live-Hack-CVE/CVE-2020-15678](https://github.com/Live-Hack-CVE/CVE-2020-15678)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15678">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15678">
