@@ -3789,6 +3789,11 @@
 - [Live-Hack-CVE/CVE-2022-41992](https://github.com/Live-Hack-CVE/CVE-2022-41992)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41992">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41992">
 
 ---
+## CVE-2022-41988 (2022-12-22T22:15:00)
+> An information disclosure vulnerability exists in the OpenImageIO::decode_iptc_iim() functionality of OpenImageIO Project OpenImageIO v2.3.19.0. A specially-crafted TIFF file can lead to a disclosure of sensitive information. An attacker can provide a malicious file to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-41988](https://github.com/Live-Hack-CVE/CVE-2022-41988)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41988">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41988">
+
+---
 ## CVE-2022-41983 (2022-10-19T22:15:00)
 > On specific hardware platforms, on BIG-IP versions 16.1.x before 16.1.3.1, 15.1.x before 15.1.7, 14.1.x before 14.1.5.1, and all versions of 13.1.x, while Intel QAT (QuickAssist Technology) and the AES-GCM/CCM cipher is in use, undisclosed conditions can cause BIG-IP to send data unencrypted even with an SSL Profile applied.
 - [Live-Hack-CVE/CVE-2022-41983](https://github.com/Live-Hack-CVE/CVE-2022-41983)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41983">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41983">
