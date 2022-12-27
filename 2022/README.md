@@ -351,6 +351,11 @@
 - [Live-Hack-CVE/CVE-2022-46771](https://github.com/Live-Hack-CVE/CVE-2022-46771)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46771">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46771">
 
 ---
+## CVE-2022-46763 (2022-12-27T01:15:00)
+> A SQL injection issue in a database stored function in TrueConf Server 5.2.0.10225 allows a low-privileged database user to execute arbitrary SQL commands as the database administrator, resulting in execution of arbitrary code.
+- [Live-Hack-CVE/CVE-2022-46763](https://github.com/Live-Hack-CVE/CVE-2022-46763)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46763">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46763">
+
+---
 ## CVE-2022-46742 (2022-12-07T09:15:00)
 > Code injection in paddle.audio.functional.get_window in PaddlePaddle 2.4.0-rc0 allows arbitrary code execution.
 - [Live-Hack-CVE/CVE-2022-46742](https://github.com/Live-Hack-CVE/CVE-2022-46742)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46742">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46742">
