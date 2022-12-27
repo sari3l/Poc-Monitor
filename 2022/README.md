@@ -753,6 +753,11 @@
 - [Live-Hack-CVE/CVE-2022-46364](https://github.com/Live-Hack-CVE/CVE-2022-46364)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46364">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46364">
 
 ---
+## CVE-2022-46363 (2022-12-13T15:15:00)
+> A vulnerability in Apache CXF before versions 3.5.5 and 3.4.10 allows an attacker to perform a remote directory listing or code exfiltration. The vulnerability only applies when the CXFServlet is configured with both the static-resources-list and redirect-query-check attributes. These attributes are not supposed to be used together, and so the vulnerability can only arise if the CXF service is misconfigured.
+- [Live-Hack-CVE/CVE-2022-46363](https://github.com/Live-Hack-CVE/CVE-2022-46363)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46363">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46363">
+
+---
 ## CVE-2022-46351 (2022-12-13T16:15:00)
 > A vulnerability has been identified in SCALANCE X204RNA (HSR) (All versions < V3.2.7), SCALANCE X204RNA (PRP) (All versions < V3.2.7), SCALANCE X204RNA EEC (HSR) (All versions < V3.2.7), SCALANCE X204RNA EEC (PRP) (All versions < V3.2.7), SCALANCE X204RNA EEC (PRP/HSR) (All versions < V3.2.7). Specially crafted PROFINET DCP packets could cause a denial of service condition of affected products on a local Ethernet segment (Layer 2).
 - [Live-Hack-CVE/CVE-2022-46351](https://github.com/Live-Hack-CVE/CVE-2022-46351)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46351">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46351">
@@ -1052,6 +1057,21 @@
 - [Live-Hack-CVE/CVE-2022-4613](https://github.com/Live-Hack-CVE/CVE-2022-4613)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4613">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4613">
 
 ---
+## CVE-2022-46127 (2022-12-14T17:15:00)
+> Helmet Store Showroom Site v1.0 is vulnerable to SQL Injection via /hss/classes/Master.php?f=delete_product.
+- [Live-Hack-CVE/CVE-2022-46127](https://github.com/Live-Hack-CVE/CVE-2022-46127)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46127">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46127">
+
+---
+## CVE-2022-46126 (2022-12-14T17:15:00)
+> Helmet Store Showroom Site v1.0 is vulnerable to SQL Injection via /hss/admin/brands/manage_brand.php?id=.
+- [Live-Hack-CVE/CVE-2022-46126](https://github.com/Live-Hack-CVE/CVE-2022-46126)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46126">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46126">
+
+---
+## CVE-2022-46125 (2022-12-14T17:15:00)
+> Helmet Store Showroom Site v1.0 is vulnerable to SQL Injection via /hss/admin/?page=client/manage_client&id=.
+- [Live-Hack-CVE/CVE-2022-46125](https://github.com/Live-Hack-CVE/CVE-2022-46125)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46125">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46125">
+
+---
 ## CVE-2022-4612 (2022-12-19T15:15:00)
 > A vulnerability has been found in Click Studios Passwordstate and Passwordstate Browser Extension Chrome and classified as problematic. This vulnerability affects unknown code. The manipulation leads to insufficiently protected credentials. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. It is recommended to upgrade the affected component. VDB-216274 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-4612](https://github.com/Live-Hack-CVE/CVE-2022-4612)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4612">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4612">
@@ -1078,6 +1098,26 @@
 - [Live-Hack-CVE/CVE-2022-46076](https://github.com/Live-Hack-CVE/CVE-2022-46076)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46076">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46076">
 
 ---
+## CVE-2022-46074 (2022-12-14T17:15:00)
+> Helmet Store Showroom 1.0 is vulnerable to Cross Site Request Forgery (CSRF). An unauthenticated user can add an admin account due to missing CSRF protection.
+- [Live-Hack-CVE/CVE-2022-46074](https://github.com/Live-Hack-CVE/CVE-2022-46074)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46074">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46074">
+
+---
+## CVE-2022-46073 (2022-12-14T17:15:00)
+> Helmet Store Showroom 1.0 is vulnerable to Cross Site Scripting (XSS).
+- [Live-Hack-CVE/CVE-2022-46073](https://github.com/Live-Hack-CVE/CVE-2022-46073)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46073">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46073">
+
+---
+## CVE-2022-46072 (2022-12-14T18:15:00)
+> Helmet Store Showroom v1.0 vulnerable to unauthenticated SQL Injection.
+- [Live-Hack-CVE/CVE-2022-46072](https://github.com/Live-Hack-CVE/CVE-2022-46072)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46072">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46072">
+
+---
+## CVE-2022-46071 (2022-12-14T18:15:00)
+> There is SQL Injection vulnerability at Helmet Store Showroom v1.0 Login Page. This vulnerability can be exploited to bypass admin access.
+- [Live-Hack-CVE/CVE-2022-46071](https://github.com/Live-Hack-CVE/CVE-2022-46071)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46071">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46071">
+
+---
 ## CVE-2022-4607 (2022-12-18T22:15:00)
 > A vulnerability was found in 3D City Database OGC Web Feature Service up to 5.2.1. It has been rated as problematic. This issue affects some unknown processing. The manipulation leads to xml external entity reference. Upgrading to version 5.3.0 is able to address this issue. The name of the patch is 246f4e2a97ad81491c00a7ed72ce5e7c7f75050a. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-216215.
 - [Live-Hack-CVE/CVE-2022-4607](https://github.com/Live-Hack-CVE/CVE-2022-4607)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4607">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4607">
@@ -1086,6 +1126,11 @@
 ## CVE-2022-46062 (2022-12-13T17:15:00)
 > Gym Management System v0.0.1 is vulnerable to Cross Site Request Forgery (CSRF).
 - [Live-Hack-CVE/CVE-2022-46062](https://github.com/Live-Hack-CVE/CVE-2022-46062)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46062">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46062">
+
+---
+## CVE-2022-46059 (2022-12-13T15:15:00)
+> AeroCMS v0.0.1 is vulnerable to Cross Site Request Forgery (CSRF).
+- [Live-Hack-CVE/CVE-2022-46059](https://github.com/Live-Hack-CVE/CVE-2022-46059)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46059">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46059">
 
 ---
 ## CVE-2022-46020 (2022-12-20T16:15:00)
@@ -1205,6 +1250,11 @@
 - [Live-Hack-CVE/CVE-2022-45917](https://github.com/Live-Hack-CVE/CVE-2022-45917)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45917">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45917">
 - [Live-Hack-CVE/CVE-2022-45915](https://github.com/Live-Hack-CVE/CVE-2022-45915)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45915">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45915">
 - [Live-Hack-CVE/CVE-2022-45910](https://github.com/Live-Hack-CVE/CVE-2022-45910)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45910">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45910">
+
+---
+## CVE-2022-45871 (2022-12-13T15:15:00)
+> A Denial-of-Service (DoS) vulnerability was discovered in the fsicapd component used in WithSecure products whereby the service may crash while parsing ICAP request. The exploit can be triggered remotely by an attacker.
+- [Live-Hack-CVE/CVE-2022-45871](https://github.com/Live-Hack-CVE/CVE-2022-45871)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45871">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45871">
 
 ---
 ## CVE-2022-4587 (2022-12-17T13:15:00)
@@ -1989,6 +2039,37 @@
 ## CVE-2022-44699 (2022-12-13T19:15:00)
 > Azure Network Watcher Agent Security Feature Bypass Vulnerability.
 - [Live-Hack-CVE/CVE-2022-44699](https://github.com/Live-Hack-CVE/CVE-2022-44699)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44699">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44699">
+
+---
+## CVE-2022-44696 (2022-12-13T19:15:00)
+> Microsoft Office Visio Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-44694, CVE-2022-44695.
+- [Live-Hack-CVE/CVE-2022-44696](https://github.com/Live-Hack-CVE/CVE-2022-44696)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44696">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44696">
+- [Live-Hack-CVE/CVE-2022-44695](https://github.com/Live-Hack-CVE/CVE-2022-44695)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44695">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44695">
+
+---
+## CVE-2022-44695 (2022-12-13T19:15:00)
+> Microsoft Office Visio Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-44694, CVE-2022-44696.
+- [Live-Hack-CVE/CVE-2022-44695](https://github.com/Live-Hack-CVE/CVE-2022-44695)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44695">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44695">
+
+---
+## CVE-2022-44693 (2022-12-13T19:15:00)
+> Microsoft SharePoint Server Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-44690.
+- [Live-Hack-CVE/CVE-2022-44693](https://github.com/Live-Hack-CVE/CVE-2022-44693)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44693">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44693">
+
+---
+## CVE-2022-44692 (2022-12-13T19:15:00)
+> Microsoft Office Graphics Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-26804, CVE-2022-26805, CVE-2022-26806, CVE-2022-47211, CVE-2022-47212, CVE-2022-47213.
+- [Live-Hack-CVE/CVE-2022-44692](https://github.com/Live-Hack-CVE/CVE-2022-44692)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44692">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44692">
+
+---
+## CVE-2022-44691 (2022-12-13T19:15:00)
+> Microsoft Office OneNote Remote Code Execution Vulnerability.
+- [Live-Hack-CVE/CVE-2022-44691](https://github.com/Live-Hack-CVE/CVE-2022-44691)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44691">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44691">
+
+---
+## CVE-2022-44678 (2022-12-13T19:15:00)
+> Windows Print Spooler Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-44681.
+- [Live-Hack-CVE/CVE-2022-44678](https://github.com/Live-Hack-CVE/CVE-2022-44678)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44678">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44678">
 
 ---
 ## CVE-2022-44650 (2022-12-12T13:15:00)
@@ -4363,6 +4444,11 @@
 - [Live-Hack-CVE/CVE-2022-41878](https://github.com/Live-Hack-CVE/CVE-2022-41878)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41878">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41878">
 
 ---
+## CVE-2022-41877 (2022-11-16T20:15:00)
+> FreeRDP is a free remote desktop protocol library and clients. Affected versions of FreeRDP are missing input length validation in `drive` channel. A malicious server can trick a FreeRDP based client to read out of bound data and send it back to the server. This issue has been addressed in version 2.9.0 and all users are advised to upgrade. Users unable to upgrade should not use the drive redirection channel - command line options `/drive`, `+drives` or `+home-drive`.
+- [Live-Hack-CVE/CVE-2022-41877](https://github.com/Live-Hack-CVE/CVE-2022-41877)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41877">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41877">
+
+---
 ## CVE-2022-41876 (2022-11-10T21:15:00)
 > ezplatform-graphql is a GraphQL server implementation for Ibexa DXP and Ibexa Open Source. Versions prior to 2.3.12 and 1.0.13 are subject to Insecure Storage of Sensitive Information. Unauthenticated GraphQL queries for user accounts can expose password hashes of users that have created or modified content, typically administrators and editors. This issue has been patched in versions 2.3.12, and 1.0.13 on the 1.X branch. Users unable to upgrade can remove the "passwordHash" entry from "src/bundle/Resources/config/graphql/User.types.yaml" in the GraphQL package, and other properties like hash type, email, login if you prefer.
 - [Live-Hack-CVE/CVE-2022-41876](https://github.com/Live-Hack-CVE/CVE-2022-41876)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41876">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41876">
@@ -4759,6 +4845,21 @@
 - [Live-Hack-CVE/CVE-2022-4157](https://github.com/Live-Hack-CVE/CVE-2022-4157)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4157">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4157">
 
 ---
+## CVE-2022-41563 (2022-12-13T19:15:00)
+> The Dashboard component of TIBCO Software Inc.'s TIBCO JasperReports Server, TIBCO JasperReports Server, TIBCO JasperReports Server - Developer Edition, TIBCO JasperReports Server for AWS Marketplace, TIBCO JasperReports Server for AWS Marketplace, TIBCO JasperReports Server for Microsoft Azure, and TIBCO JasperReports Server for Microsoft Azure contains an easily exploitable vulnerability that allows a low privileged attacker with network access to execute Stored Cross Site Scripting (XSS) on the affected system. A successful attack using this vulnerability requires human interaction from a person other than the attacker. Affected releases are TIBCO Software Inc.'s TIBCO JasperReports Server: versions 8.0.2 and below, TIBCO JasperReports Server: version 8.1.0, TIBCO JasperReports Server - Developer Edition: versions 8.1.0 and below, TIBCO JasperReports Server for AWS Marketplace: versions 8.0.2 and below, TIBCO JasperReports Server for AWS Marketplace: version 8.1.0, TIBCO JasperReports Server for Microsoft Azure: versions 8.0.2 and below, and TIBCO JasperReports Server for Microsoft Azure: version 8.1.0.
+- [Live-Hack-CVE/CVE-2022-41563](https://github.com/Live-Hack-CVE/CVE-2022-41563)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41563">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41563">
+
+---
+## CVE-2022-41562 (2022-12-13T19:15:00)
+> The HTML escaping component of TIBCO Software Inc.'s TIBCO JasperReports Server, TIBCO JasperReports Server, TIBCO JasperReports Server - Community Edition, TIBCO JasperReports Server - Developer Edition, TIBCO JasperReports Server for AWS Marketplace, TIBCO JasperReports Server for AWS Marketplace, TIBCO JasperReports Server for Microsoft Azure, and TIBCO JasperReports Server for Microsoft Azure contains an easily exploitable vulnerability that allows a privileged/administrative attacker with network access to execute an XSS attack on the affected system. A successful attack using this vulnerability requires human interaction from a person other than the attacker. Affected releases are TIBCO Software Inc.'s TIBCO JasperReports Server: versions 8.0.2 and below, TIBCO JasperReports Server: version 8.1.0, TIBCO JasperReports Server - Community Edition: versions 8.1.0 and below, TIBCO JasperReports Server - Developer Edition: versions 8.1.0 and below, TIBCO JasperReports Server for AWS Marketplace: versions 8.0.2 and below, TIBCO JasperReports Server for AWS Marketplace: version 8.1.0, TIBCO JasperReports Server for Microsoft Azure: versions 8.0.2 and below, and TIBCO JasperReports Server for Microsoft Azure: version 8.1.0.
+- [Live-Hack-CVE/CVE-2022-41562](https://github.com/Live-Hack-CVE/CVE-2022-41562)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41562">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41562">
+
+---
+## CVE-2022-41561 (2022-12-13T19:15:00)
+> The JNDI Data Sources component of TIBCO Software Inc.'s TIBCO JasperReports Server, TIBCO JasperReports Server, TIBCO JasperReports Server - Community Edition, TIBCO JasperReports Server - Developer Edition, TIBCO JasperReports Server for AWS Marketplace, TIBCO JasperReports Server for AWS Marketplace, TIBCO JasperReports Server for Microsoft Azure, and TIBCO JasperReports Server for Microsoft Azure contains an easily exploitable vulnerability that allows a privileged/administrative attacker with network access to execute Remote Code Execution to obtain a reverse shell on the affected system. Affected releases are TIBCO Software Inc.'s TIBCO JasperReports Server: versions 8.0.2 and below, TIBCO JasperReports Server: version 8.1.0, TIBCO JasperReports Server - Community Edition: versions 8.1.0 and below, TIBCO JasperReports Server - Developer Edition: versions 8.1.0 and below, TIBCO JasperReports Server for AWS Marketplace: versions 8.0.2 and below, TIBCO JasperReports Server for AWS Marketplace: version 8.1.0, TIBCO JasperReports Server for Microsoft Azure: versions 8.0.2 and below, and TIBCO JasperReports Server for Microsoft Azure: version 8.1.0.
+- [Live-Hack-CVE/CVE-2022-41561](https://github.com/Live-Hack-CVE/CVE-2022-41561)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41561">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41561">
+
+---
 ## CVE-2022-41560 (2022-12-06T19:15:00)
 > The Statement Set Upload via the Web Client component of TIBCO Software Inc.'s TIBCO Nimbus contains an easily exploitable vulnerability that allows a low privileged attacker with network access to execute a Denial of Service Attack on the affected system. Affected releases are TIBCO Software Inc.'s TIBCO Nimbus: version 10.5.0.
 - [Live-Hack-CVE/CVE-2022-41560](https://github.com/Live-Hack-CVE/CVE-2022-41560)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41560">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41560">
@@ -5051,6 +5152,11 @@
 - [Live-Hack-CVE/CVE-2022-41278](https://github.com/Live-Hack-CVE/CVE-2022-41278)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41278">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41278">
 
 ---
+## CVE-2022-41274 (2022-12-13T04:15:00)
+> SAP Disclosure Management - version 10.1, allows an authenticated attacker to exploit certain misconfigured application endpoints to read sensitive data. These endpoints are normally exposed over the network and successful exploitation can lead to the exposure of data like financial reports.
+- [Live-Hack-CVE/CVE-2022-41274](https://github.com/Live-Hack-CVE/CVE-2022-41274)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41274">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41274">
+
+---
 ## CVE-2022-41273 (2022-12-13T04:15:00)
 > Due to improper input sanitization in SAP Sourcing and SAP Contract Lifecycle Management - version 1100, an attacker can redirect a user to a malicious website. In order to perform this attack, the attacker sends an email to the victim with a manipulated link that appears to be a legitimate SAP Sourcing URL, since the victim doesn’t suspect the threat, they click on the link, log in to SAP Sourcing and CLM and at this point, they get redirected to a malicious website.
 - [Live-Hack-CVE/CVE-2022-41273](https://github.com/Live-Hack-CVE/CVE-2022-41273)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41273">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41273">
@@ -5065,6 +5171,11 @@
 ## CVE-2022-41271 (2022-12-13T03:15:00)
 > An unauthenticated user can attach to an open interface exposed through JNDI by the Messaging System of SAP NetWeaver Process Integration (PI) - version 7.50. This user can make use of an open naming and directory API to access services that could perform unauthorized operations. The vulnerability affects local users and data, leading to a considerable impact on confidentiality as well as availability and a limited impact on the integrity of the application. These operations can be used to: * Read any information * Modify sensitive information * Denial of Service attacks (DoS) * SQL Injection
 - [Live-Hack-CVE/CVE-2022-41271](https://github.com/Live-Hack-CVE/CVE-2022-41271)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41271">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41271">
+
+---
+## CVE-2022-41262 (2022-12-12T22:15:00)
+> Due to insufficient input validation, SAP NetWeaver AS Java (HTTP Provider Service) - version 7.50, allows an unauthenticated attacker to inject a script into a web request header. On successful exploitation, an attacker can view or modify information causing a limited impact on the confidentiality and integrity of the application.
+- [Live-Hack-CVE/CVE-2022-41262](https://github.com/Live-Hack-CVE/CVE-2022-41262)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41262">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41262">
 
 ---
 ## CVE-2022-41235 (2022-09-21T16:15:00)
@@ -6901,6 +7012,11 @@
 - [Live-Hack-CVE/CVE-2022-39358](https://github.com/Live-Hack-CVE/CVE-2022-39358)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39358">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39358">
 
 ---
+## CVE-2022-39347 (2022-11-16T20:15:00)
+> FreeRDP is a free remote desktop protocol library and clients. Affected versions of FreeRDP are missing path canonicalization and base path check for `drive` channel. A malicious server can trick a FreeRDP based client to read files outside the shared directory. This issue has been addressed in version 2.9.0 and all users are advised to upgrade. Users unable to upgrade should not use the `/drive`, `/drives` or `+home-drive` redirection switch.
+- [Live-Hack-CVE/CVE-2022-39347](https://github.com/Live-Hack-CVE/CVE-2022-39347)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39347">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39347">
+
+---
 ## CVE-2022-39345 (2022-10-25T17:15:00)
 > Gin-vue-admin is a backstage management system based on vue and gin, which separates the front and rear of the full stack. Gin-vue-admin prior to 2.5.4 is vulnerable to path traversal, which leads to file upload vulnerabilities. Version 2.5.4 contains a patch for this issue. There are no workarounds aside from upgrading to a patched version.
 - [Live-Hack-CVE/CVE-2022-39345](https://github.com/Live-Hack-CVE/CVE-2022-39345)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39345">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39345">
@@ -6931,6 +7047,31 @@
 - [Live-Hack-CVE/CVE-2022-39338](https://github.com/Live-Hack-CVE/CVE-2022-39338)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39338">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39338">
 
 ---
+## CVE-2022-39320 (2022-11-16T20:15:00)
+> FreeRDP is a free remote desktop protocol library and clients. Affected versions of FreeRDP may attempt integer addition on too narrow types leads to allocation of a buffer too small holding the data written. A malicious server can trick a FreeRDP based client to read out of bound data and send it back to the server. This issue has been addressed in version 2.9.0 and all users are advised to upgrade. Users unable to upgrade should not use the `/usb` redirection switch.
+- [Live-Hack-CVE/CVE-2022-39320](https://github.com/Live-Hack-CVE/CVE-2022-39320)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39320">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39320">
+
+---
+## CVE-2022-39319 (2022-11-16T21:15:00)
+> FreeRDP is a free remote desktop protocol library and clients. Affected versions of FreeRDP are missing input length validation in the `urbdrc` channel. A malicious server can trick a FreeRDP based client to read out of bound data and send it back to the server. This issue has been addressed in version 2.9.0 and all users are advised to upgrade. Users unable to upgrade should not use the `/usb` redirection switch.
+- [Live-Hack-CVE/CVE-2022-39319](https://github.com/Live-Hack-CVE/CVE-2022-39319)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39319">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39319">
+
+---
+## CVE-2022-39318 (2022-11-16T21:15:00)
+> FreeRDP is a free remote desktop protocol library and clients. Affected versions of FreeRDP are missing input validation in `urbdrc` channel. A malicious server can trick a FreeRDP based client to crash with division by zero. This issue has been addressed in version 2.9.0. All users are advised to upgrade. Users unable to upgrade should not use the `/usb` redirection switch.
+- [Live-Hack-CVE/CVE-2022-39318](https://github.com/Live-Hack-CVE/CVE-2022-39318)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39318">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39318">
+
+---
+## CVE-2022-39317 (2022-11-16T21:15:00)
+> FreeRDP is a free remote desktop protocol library and clients. Affected versions of FreeRDP are missing a range check for input offset index in ZGFX decoder. A malicious server can trick a FreeRDP based client to read out of bound data and try to decode it. This issue has been addressed in version 2.9.0. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-39317](https://github.com/Live-Hack-CVE/CVE-2022-39317)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39317">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39317">
+
+---
+## CVE-2022-39316 (2022-11-16T20:15:00)
+> FreeRDP is a free remote desktop protocol library and clients. In affected versions there is an out of bound read in ZGFX decoder component of FreeRDP. A malicious server can trick a FreeRDP based client to read out of bound data and try to decode it likely resulting in a crash. This issue has been addressed in the 2.9.0 release. Users are advised to upgrade.
+- [Live-Hack-CVE/CVE-2022-39316](https://github.com/Live-Hack-CVE/CVE-2022-39316)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39316">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39316">
+
+---
 ## CVE-2022-39315 (2022-10-25T17:15:00)
 > Kirby is a Content Management System. Prior to versions 3.5.8.2, 3.6.6.2, 3.7.5.1, and 3.8.1, a user enumeration vulnerability affects all Kirby sites with user accounts unless Kirby's API and Panel are disabled in the config. It can only be exploited for targeted attacks because the attack does not scale to brute force. The problem has been patched in Kirby 3.5.8.2, Kirby 3.6.6.2, Kirby 3.7.5.1, and Kirby 3.8.1. In all of the mentioned releases, the maintainers have rewritten the affected code so that the delay is also inserted after the brute force limit is reached.
 - [Live-Hack-CVE/CVE-2022-39315](https://github.com/Live-Hack-CVE/CVE-2022-39315)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39315">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39315">
@@ -6949,6 +7090,16 @@
 ## CVE-2022-39300 (2022-10-13T22:15:00)
 > node SAML is a SAML 2.0 library based on the SAML implementation of passport-saml. A remote attacker may be able to bypass SAML authentication on a website using passport-saml. A successful attack requires that the attacker is in possession of an arbitrary IDP signed XML element. Depending on the IDP used, fully unauthenticated attacks (e.g without access to a valid user) might also be feasible if generation of a signed message can be triggered. Users should upgrade to node-saml version 4.0.0-beta5 or newer. Disabling SAML authentication may be done as a workaround.
 - [Live-Hack-CVE/CVE-2022-39300](https://github.com/Live-Hack-CVE/CVE-2022-39300)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39300">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39300">
+
+---
+## CVE-2022-39283 (2022-10-12T23:15:00)
+> FreeRDP is a free remote desktop protocol library and clients. All FreeRDP based clients when using the `/video` command line switch might read uninitialized data, decode it as audio/video and display the result. FreeRDP based server implementations are not affected. This issue has been patched in version 2.8.1. If you cannot upgrade do not use the `/video` switch.
+- [Live-Hack-CVE/CVE-2022-39283](https://github.com/Live-Hack-CVE/CVE-2022-39283)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39283">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39283">
+
+---
+## CVE-2022-39282 (2022-10-12T23:15:00)
+> FreeRDP is a free remote desktop protocol library and clients. FreeRDP based clients on unix systems using `/parallel` command line switch might read uninitialized data and send it to the server the client is currently connected to. FreeRDP based server implementations are not affected. Please upgrade to 2.8.1 where this issue is patched. If unable to upgrade, do not use parallel port redirection (`/parallel` command line switch) as a workaround.
+- [Live-Hack-CVE/CVE-2022-39282](https://github.com/Live-Hack-CVE/CVE-2022-39282)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39282">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39282">
 
 ---
 ## CVE-2022-39280 (2022-10-06T18:16:00)
