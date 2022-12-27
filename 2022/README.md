@@ -13444,6 +13444,7 @@
 > An issue was discovered in the Linux kernel through 5.16-rc6. ef100_update_stats in drivers/net/ethernet/sfc/ef100_nic.c lacks check of the return value of kmalloc().
 - [Live-Hack-CVE/CVE-2022-3106](https://github.com/Live-Hack-CVE/CVE-2022-3106)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3106">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3106">
 - [Live-Hack-CVE/CVE-2022-3106](https://github.com/Live-Hack-CVE/CVE-2022-3106)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3106">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3106">
+- [Wangyanan131/CVE-2022-31061](https://github.com/Wangyanan131/CVE-2022-31061)	<img alt="forks" src="https://img.shields.io/github/forks/Wangyanan131/CVE-2022-31061">	<img alt="stars" src="https://img.shields.io/github/stars/Wangyanan131/CVE-2022-31061">
 
 ---
 ## CVE-2022-3105 (2022-12-14T21:15:00)
