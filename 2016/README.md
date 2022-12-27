@@ -534,6 +534,8 @@
 ## CVE-2016-2107 (2016-05-05T01:59:00)
 > The AES-NI implementation in OpenSSL before 1.0.1t and 1.0.2 before 1.0.2h does not consider memory allocation during a certain padding check, which allows remote attackers to obtain sensitive cleartext information via a padding-oracle attack against an AES CBC session. NOTE: this vulnerability exists because of an incorrect fix for CVE-2013-0169.
 - [Live-Hack-CVE/CVE-2016-2107](https://github.com/Live-Hack-CVE/CVE-2016-2107)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-2107">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-2107">
+- [FiloSottile/CVE-2016-2107](https://github.com/FiloSottile/CVE-2016-2107)	<img alt="forks" src="https://img.shields.io/github/forks/FiloSottile/CVE-2016-2107">	<img alt="stars" src="https://img.shields.io/github/stars/FiloSottile/CVE-2016-2107">
+- [tmiklas/docker-cve-2016-2107](https://github.com/tmiklas/docker-cve-2016-2107)	<img alt="forks" src="https://img.shields.io/github/forks/tmiklas/docker-cve-2016-2107">	<img alt="stars" src="https://img.shields.io/github/stars/tmiklas/docker-cve-2016-2107">
 
 ---
 ## CVE-2016-2105 (2016-05-05T01:59:00)
