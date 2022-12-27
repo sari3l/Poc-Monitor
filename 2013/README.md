@@ -14,20 +14,24 @@
 ## CVE-2013-5843 (2013-10-16T17:55:00)
 > Unspecified vulnerability in Oracle Java SE 7u40 and earlier, Java SE 6u60 and earlier, Java SE 5.0u51 and earlier, JavaFX 2.2.40 and earlier, and Java SE Embedded 7u40 and earlier allows remote attackers to affect confidentiality, integrity, and availability via unknown vectors related to 2D.
 - [Live-Hack-CVE/CVE-2013-5843](https://github.com/Live-Hack-CVE/CVE-2013-5843)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-5843">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-5843">
+- [Live-Hack-CVE/CVE-2013-5843](https://github.com/Live-Hack-CVE/CVE-2013-5843)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-5843">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-5843">
 
 ---
 ## CVE-2013-5842 (2013-10-16T17:55:00)
 > Unspecified vulnerability in Oracle Java SE 7u40 and earlier, Java SE 6u60 and earlier, Java SE 5.0u51 and earlier, and Java SE Embedded 7u40 and earlier allows remote attackers to affect confidentiality, integrity, and availability via unknown vectors related to Libraries, a different vulnerability than CVE-2013-5850.
+- [Live-Hack-CVE/CVE-2013-5842](https://github.com/Live-Hack-CVE/CVE-2013-5842)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-5842">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-5842">
 - [Live-Hack-CVE/CVE-2013-5842](https://github.com/Live-Hack-CVE/CVE-2013-5842)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-5842">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-5842">
 
 ---
 ## CVE-2013-5830 (2013-10-16T17:55:00)
 > Unspecified vulnerability in Oracle Java SE 7u40 and earlier, Java SE 6u60 and earlier, Java SE 5.0u51 and earlier, JRockit R28.2.8 and earlier, JRockit R27.7.6 and earlier, and Java SE Embedded 7u40 and earlier allows remote attackers to affect confidentiality, integrity, and availability via unknown vectors related to Libraries.
 - [Live-Hack-CVE/CVE-2013-5830](https://github.com/Live-Hack-CVE/CVE-2013-5830)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-5830">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-5830">
+- [Live-Hack-CVE/CVE-2013-5830](https://github.com/Live-Hack-CVE/CVE-2013-5830)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-5830">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-5830">
 
 ---
 ## CVE-2013-5829 (2013-10-16T17:55:00)
 > Unspecified vulnerability in Oracle Java SE 7u40 and earlier, Java SE 6u60 and earlier, Java SE 5.0u51 and earlier, and Java SE Embedded 7u40 and earlier allows remote attackers to affect confidentiality, integrity, and availability via unknown vectors related to 2D, a different vulnerability than CVE-2013-5809.
+- [Live-Hack-CVE/CVE-2013-5829](https://github.com/Live-Hack-CVE/CVE-2013-5829)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-5829">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-5829">
 - [Live-Hack-CVE/CVE-2013-5829](https://github.com/Live-Hack-CVE/CVE-2013-5829)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-5829">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-5829">
 
 ---

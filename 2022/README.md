@@ -411,6 +411,16 @@
 - [Live-Hack-CVE/CVE-2022-46741](https://github.com/Live-Hack-CVE/CVE-2022-46741)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46741">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46741">
 
 ---
+## CVE-2022-46701 (2022-12-15T19:15:00)
+> The issue was addressed with improved bounds checks. This issue is fixed in iOS 16.2 and iPadOS 16.2, macOS Ventura 13.1, tvOS 16.2. Connecting to a malicious NFS server may lead to arbitrary code execution with kernel privileges.
+- [Live-Hack-CVE/CVE-2022-46701](https://github.com/Live-Hack-CVE/CVE-2022-46701)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46701">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46701">
+
+---
+## CVE-2022-46697 (2022-12-15T19:15:00)
+> An out-of-bounds access issue was addressed with improved bounds checking. This issue is fixed in macOS Ventura 13.1. An app may be able to execute arbitrary code with kernel privileges.
+- [Live-Hack-CVE/CVE-2022-46697](https://github.com/Live-Hack-CVE/CVE-2022-46697)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46697">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46697">
+
+---
 ## CVE-2022-46695 (2022-12-15T19:15:00)
 > A spoofing issue existed in the handling of URLs. This issue was addressed with improved input validation. This issue is fixed in tvOS 16.2, macOS Ventura 13.1, iOS 15.7.2 and iPadOS 15.7.2, iOS 16.2 and iPadOS 16.2, watchOS 9.2. Visiting a website that frames malicious content may lead to UI spoofing.
 - [Live-Hack-CVE/CVE-2022-46695](https://github.com/Live-Hack-CVE/CVE-2022-46695)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46695">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46695">
@@ -460,6 +470,16 @@
 ## CVE-2022-46641 (2022-12-23T15:15:00)
 > D-Link DIR-846 A1_FW100A43 was discovered to contain a command injection vulnerability via the lan(0)_dhcps_staticlist parameter in the SetIpMacBindSettings function.
 - [Live-Hack-CVE/CVE-2022-46641](https://github.com/Live-Hack-CVE/CVE-2022-46641)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46641">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46641">
+
+---
+## CVE-2022-46634 (2022-12-15T22:15:00)
+> TOTOlink A7100RU V7.4cu.2313_B20191024 was discovered to contain a command injection vulnerability via the wscDisabled parameter in the setting/setWiFiWpsCfg function.
+- [Live-Hack-CVE/CVE-2022-46634](https://github.com/Live-Hack-CVE/CVE-2022-46634)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46634">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46634">
+
+---
+## CVE-2022-46631 (2022-12-15T22:15:00)
+> TOTOlink A7100RU V7.4cu.2313_B20191024 was discovered to contain a command injection vulnerability via the wscDisabled parameter in the setting/setWiFiSignalCfg function.
+- [Live-Hack-CVE/CVE-2022-46631](https://github.com/Live-Hack-CVE/CVE-2022-46631)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46631">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46631">
 
 ---
 ## CVE-2022-4662 (2022-12-22T22:15:00)
@@ -625,6 +645,11 @@
 ## CVE-2022-46393 (2022-12-15T23:15:00)
 > An issue was discovered in Mbed TLS before 2.28.2 and 3.x before 3.3.0. There is a potential heap-based buffer overflow and heap-based buffer over-read in DTLS if MBEDTLS_SSL_DTLS_CONNECTION_ID is enabled and MBEDTLS_SSL_CID_IN_LEN_MAX > 2 * MBEDTLS_SSL_CID_OUT_LEN_MAX.
 - [Live-Hack-CVE/CVE-2022-46393](https://github.com/Live-Hack-CVE/CVE-2022-46393)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46393">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46393">
+
+---
+## CVE-2022-46392 (2022-12-15T23:15:00)
+> An issue was discovered in Mbed TLS before 2.28.2 and 3.x before 3.3.0. An adversary with access to precise enough information about memory accesses (typically, an untrusted operating system attacking a secure enclave) can recover an RSA private key after observing the victim performing a single private-key operation, if the window size (MBEDTLS_MPI_WINDOW_SIZE) used for the exponentiation is 3 or smaller.
+- [Live-Hack-CVE/CVE-2022-46392](https://github.com/Live-Hack-CVE/CVE-2022-46392)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46392">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46392">
 
 ---
 ## CVE-2022-46391 (2022-12-04T03:15:00)
@@ -1459,6 +1484,11 @@
 ## CVE-2022-45343 (2022-11-29T16:15:00)
 > GPAC v2.1-DEV-rev478-g696e6f868-master was discovered to contain a heap use-after-free via the Q_IsTypeOn function at /gpac/src/bifs/unquantize.c.
 - [Live-Hack-CVE/CVE-2022-45343](https://github.com/Live-Hack-CVE/CVE-2022-45343)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45343">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45343">
+
+---
+## CVE-2022-45338 (2022-12-15T23:15:00)
+> An arbitrary file upload vulnerability in the profile picture upload function of Exact Synergy Enterprise 267 before 267SP13 and Exact Synergy Enterprise 500 before 500SP6 allows attackers to execute arbitrary code via a crafted SVG file.
+- [Live-Hack-CVE/CVE-2022-45338](https://github.com/Live-Hack-CVE/CVE-2022-45338)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45338">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45338">
 
 ---
 ## CVE-2022-45331 (2022-11-22T21:15:00)
@@ -3728,6 +3758,11 @@
 - [Live-Hack-CVE/CVE-2022-4226](https://github.com/Live-Hack-CVE/CVE-2022-4226)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4226">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4226">
 
 ---
+## CVE-2022-42252 (2022-11-01T09:15:00)
+> If Apache Tomcat 8.5.0 to 8.5.82, 9.0.0-M1 to 9.0.67, 10.0.0-M1 to 10.0.26 or 10.1.0-M1 to 10.1.0 was configured to ignore invalid HTTP headers via setting rejectIllegalHeader to false (the default for 8.5.x only), Tomcat did not reject a request containing an invalid Content-Length header making a request smuggling attack possible if Tomcat was located behind a reverse proxy that also failed to reject the request with the invalid header.
+- [Live-Hack-CVE/CVE-2022-42252](https://github.com/Live-Hack-CVE/CVE-2022-42252)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42252">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42252">
+
+---
 ## CVE-2022-42250 (2022-10-06T18:18:00)
 > Simple Cold Storage Management System v1.0 is vulnerable to SQL injection via /csms/admin/inquiries/view_details.php?id=.
 - [Live-Hack-CVE/CVE-2022-42250](https://github.com/Live-Hack-CVE/CVE-2022-42250)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42250">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42250">
@@ -4085,6 +4120,11 @@
 ## CVE-2022-4192 (2022-11-30T00:15:00)
 > Use after free in Live Caption in Google Chrome prior to 108.0.5359.71 allowed a remote attacker who convinced a user to engage in specific UI interaction to potentially exploit heap corruption via UI interaction. (Chromium security severity: Medium)
 - [Live-Hack-CVE/CVE-2022-4192](https://github.com/Live-Hack-CVE/CVE-2022-4192)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4192">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4192">
+
+---
+## CVE-2022-41915 (2022-12-13T07:15:00)
+> Netty project is an event-driven asynchronous network application framework. In versions prior to 4.1.86.Final, when calling `DefaultHttpHeadesr.set` with an _iterator_ of values, header value validation was not performed, allowing malicious header values in the iterator to perform HTTP Response Splitting. This issue has been patched in version 4.1.86.Final. Integrators can work around the issue by changing the `DefaultHttpHeaders.set(CharSequence, Iterator<?>)` call, into a `remove()` call, and call `add()` in a loop over the iterator of values.
+- [Live-Hack-CVE/CVE-2022-41915](https://github.com/Live-Hack-CVE/CVE-2022-41915)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41915">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41915">
 
 ---
 ## CVE-2022-41911 (2022-11-18T22:15:00)
@@ -6332,6 +6372,11 @@
 > Intelbras WiFiber 120AC inMesh before 1-1-220826 allows command injection by authenticated users, as demonstrated by the /boaform/formPing6 and /boaform/formTracert URIs for ping and traceroute.
 - [Live-Hack-CVE/CVE-2022-40005](https://github.com/Live-Hack-CVE/CVE-2022-40005)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40005">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40005">
 - [Live-Hack-CVE/CVE-2022-40005](https://github.com/Live-Hack-CVE/CVE-2022-40005)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40005">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40005">
+
+---
+## CVE-2022-40004 (2022-12-15T23:15:00)
+> Cross Site Scripting (XSS) vulnerability in Things Board 3.4.1 allows remote attackers to escalate privilege via crafted URL to the Audit Log.
+- [Live-Hack-CVE/CVE-2022-40004](https://github.com/Live-Hack-CVE/CVE-2022-40004)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40004">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40004">
 
 ---
 ## CVE-2022-39975 (2022-09-22T00:15:00)
@@ -17740,6 +17785,16 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-20607](https://github.com/Live-Hack-CVE/CVE-2022-20607)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20607">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20607">
 
 ---
+## CVE-2022-20606 (2022-12-16T16:15:00)
+> In SAEMM_MiningCodecTableWithMsgIE of SAEMM_RadioMessageCodec.c, there is a possible out of bounds read due to a missing bounds check. This could lead to remote information disclosure with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-233230674References: N/A
+- [Live-Hack-CVE/CVE-2022-20606](https://github.com/Live-Hack-CVE/CVE-2022-20606)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20606">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20606">
+
+---
+## CVE-2022-20605 (2022-12-16T16:15:00)
+> In SAECOMM_CopyBufferBytes of SAECOMM_Utility.c, there is a possible out of bounds read due to an incorrect bounds check. This could lead to remote information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-231722405References: N/A
+- [Live-Hack-CVE/CVE-2022-20605](https://github.com/Live-Hack-CVE/CVE-2022-20605)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20605">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20605">
+
+---
 ## CVE-2022-20604 (2022-12-16T16:15:00)
 > In SAECOMM_SetDcnIdForPlmn of SAECOMM_DbManagement.c, there is a possible out of bounds read due to a missing bounds check. This could lead to remote information disclosure from a single device with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-230463606References: N/A
 - [Live-Hack-CVE/CVE-2022-20604](https://github.com/Live-Hack-CVE/CVE-2022-20604)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20604">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20604">
@@ -17907,25 +17962,30 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-20574 (2022-12-16T16:15:00)
 > In sec_sysmmu_info of drm_fw.c, there is a possible out of bounds read due to improper input validation. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-237582191References: N/A
 - [Live-Hack-CVE/CVE-2022-20574](https://github.com/Live-Hack-CVE/CVE-2022-20574)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20574">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20574">
+- [Live-Hack-CVE/CVE-2022-20574](https://github.com/Live-Hack-CVE/CVE-2022-20574)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20574">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20574">
 
 ---
 ## CVE-2022-20572 (2022-12-16T16:15:00)
 > In verity_target of dm-verity-target.c, there is a possible way to modify read-only files due to a missing permission check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-234475629References: Upstream kernel
+- [Live-Hack-CVE/CVE-2022-20572](https://github.com/Live-Hack-CVE/CVE-2022-20572)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20572">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20572">
 - [Live-Hack-CVE/CVE-2022-20572](https://github.com/Live-Hack-CVE/CVE-2022-20572)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20572">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20572">
 
 ---
 ## CVE-2022-20571 (2022-12-16T16:15:00)
 > In extract_metadata of dm-android-verity.c, there is a possible way to corrupt kernel memory due to a use after free. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-234030265References: Upstream kernel
 - [Live-Hack-CVE/CVE-2022-20571](https://github.com/Live-Hack-CVE/CVE-2022-20571)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20571">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20571">
+- [Live-Hack-CVE/CVE-2022-20571](https://github.com/Live-Hack-CVE/CVE-2022-20571)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20571">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20571">
 
 ---
 ## CVE-2022-20569 (2022-12-16T16:15:00)
 > In thermal_cooling_device_stats_update of thermal_sysfs.c, there is a possible out of bounds write due to improper input validation. This could lead to local escalation of privilege in the kernel with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-229258234References: N/A
 - [Live-Hack-CVE/CVE-2022-20569](https://github.com/Live-Hack-CVE/CVE-2022-20569)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20569">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20569">
+- [Live-Hack-CVE/CVE-2022-20569](https://github.com/Live-Hack-CVE/CVE-2022-20569)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20569">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20569">
 
 ---
 ## CVE-2022-20567 (2022-12-16T16:15:00)
 > In pppol2tp_create of l2tp_ppp.c, there is a possible use after free due to a race condition. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-186777253References: Upstream kernel
+- [Live-Hack-CVE/CVE-2022-20567](https://github.com/Live-Hack-CVE/CVE-2022-20567)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20567">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20567">
 - [Live-Hack-CVE/CVE-2022-20567](https://github.com/Live-Hack-CVE/CVE-2022-20567)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20567">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20567">
 
 ---
@@ -17979,6 +18039,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-20553](https://github.com/Live-Hack-CVE/CVE-2022-20553)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20553">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20553">
 
 ---
+## CVE-2022-20552 (2022-12-16T16:15:00)
+> In btif_a2dp_sink_command_ready of btif_a2dp_sink.cc, there is a possible out of bounds read due to a use after free. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-243922806
+- [Live-Hack-CVE/CVE-2022-20552](https://github.com/Live-Hack-CVE/CVE-2022-20552)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20552">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20552">
+
+---
 ## CVE-2022-20550 (2022-12-16T16:15:00)
 > In Multiple Locations, there is a possibility to launch arbitrary protected activities due to a confused deputy. This could lead to local escalation of privilege with User execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-242845514
 - [Live-Hack-CVE/CVE-2022-20550](https://github.com/Live-Hack-CVE/CVE-2022-20550)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20550">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20550">
@@ -17992,15 +18057,18 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-20537 (2022-12-16T16:15:00)
 > In createDialog of WifiScanModeActivity.java, there is a possible way for a Guest user to enable location-sensitive settings due to a missing permission check. This could lead to local escalation of privilege from the Guest user with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-235601169
 - [Live-Hack-CVE/CVE-2022-20537](https://github.com/Live-Hack-CVE/CVE-2022-20537)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20537">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20537">
+- [Live-Hack-CVE/CVE-2022-20537](https://github.com/Live-Hack-CVE/CVE-2022-20537)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20537">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20537">
 
 ---
 ## CVE-2022-20536 (2022-12-16T16:15:00)
 > In registerBroadcastReceiver of RcsService.java, there is a possible way to change preferred TTY mode due to a missing permission check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-235100180
 - [Live-Hack-CVE/CVE-2022-20536](https://github.com/Live-Hack-CVE/CVE-2022-20536)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20536">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20536">
+- [Live-Hack-CVE/CVE-2022-20536](https://github.com/Live-Hack-CVE/CVE-2022-20536)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20536">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20536">
 
 ---
 ## CVE-2022-20535 (2022-12-16T16:15:00)
 > In registerLocalOnlyHotspotSoftApCallback of WifiManager.java, there is a possible way to determine whether an app is installed, without query permissions, due to side channel information disclosure. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-233605242
+- [Live-Hack-CVE/CVE-2022-20535](https://github.com/Live-Hack-CVE/CVE-2022-20535)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20535">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20535">
 - [Live-Hack-CVE/CVE-2022-20535](https://github.com/Live-Hack-CVE/CVE-2022-20535)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20535">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20535">
 
 ---
@@ -18064,9 +18132,19 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-20511](https://github.com/Live-Hack-CVE/CVE-2022-20511)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20511">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20511">
 
 ---
+## CVE-2022-20510 (2022-12-16T16:15:00)
+> In getNearbyNotificationStreamingPolicy of DevicePolicyManagerService.java, there is a possible way to learn about the notification streaming policy of other users due to a permissions bypass. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-235822336
+- [Live-Hack-CVE/CVE-2022-20510](https://github.com/Live-Hack-CVE/CVE-2022-20510)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20510">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20510">
+
+---
 ## CVE-2022-20509 (2022-12-16T16:15:00)
 > In mapGrantorDescr of MessageQueueBase.h, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-244713317
 - [Live-Hack-CVE/CVE-2022-20509](https://github.com/Live-Hack-CVE/CVE-2022-20509)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20509">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20509">
+
+---
+## CVE-2022-20508 (2022-12-16T16:15:00)
+> In onAttach of ConfigureWifiSettings.java, there is a possible way for a guest user to change WiFi settings due to a permissions bypass. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-218679614
+- [Live-Hack-CVE/CVE-2022-20508](https://github.com/Live-Hack-CVE/CVE-2022-20508)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20508">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20508">
 
 ---
 ## CVE-2022-20507 (2022-12-16T16:15:00)

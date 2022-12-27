@@ -9,6 +9,9 @@
 ## CVE-2012-4681 (2012-08-28T00:55:00)
 > Multiple vulnerabilities in the Java Runtime Environment (JRE) component in Oracle Java SE 7 Update 6 and earlier allow remote attackers to execute arbitrary code via a crafted applet that bypasses SecurityManager restrictions by (1) using com.sun.beans.finder.ClassFinder.findClass and leveraging an exception with the forName method to access restricted classes from arbitrary packages such as sun.awt.SunToolkit, then (2) using "reflection with a trusted immediate caller" to leverage the getField method to access and modify private fields, as exploited in the wild in August 2012 using Gondzz.class and Gondvv.class.
 - [Live-Hack-CVE/CVE-2012-4681](https://github.com/Live-Hack-CVE/CVE-2012-4681)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-4681">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-4681">
+- [Live-Hack-CVE/CVE-2012-4681](https://github.com/Live-Hack-CVE/CVE-2012-4681)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-4681">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-4681">
+- [ZH3FENG/PoCs-CVE_2012_4681](https://github.com/ZH3FENG/PoCs-CVE_2012_4681)	<img alt="forks" src="https://img.shields.io/github/forks/ZH3FENG/PoCs-CVE_2012_4681">	<img alt="stars" src="https://img.shields.io/github/stars/ZH3FENG/PoCs-CVE_2012_4681">
+- [benjholla/CVE-2012-4681-Armoring](https://github.com/benjholla/CVE-2012-4681-Armoring)	<img alt="forks" src="https://img.shields.io/github/forks/benjholla/CVE-2012-4681-Armoring">	<img alt="stars" src="https://img.shields.io/github/stars/benjholla/CVE-2012-4681-Armoring">
 
 ---
 ## CVE-2012-4244 (2012-09-14T10:33:00)
