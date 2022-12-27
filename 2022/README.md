@@ -156,6 +156,7 @@
 ## CVE-2022-47500 (2022-12-19T11:15:00)
 > URL Redirection to Untrusted Site ('Open Redirect') vulnerability in Apache Software Foundation Apache Helix UI component.This issue affects Apache Helix all releases from 0.8.0 to 1.0.4. Solution: removed the the forward component since it was improper designed for UI embedding. User please upgrade to 1.1.0 to fix this issue.
 - [Live-Hack-CVE/CVE-2022-47500](https://github.com/Live-Hack-CVE/CVE-2022-47500)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47500">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47500">
+- [Live-Hack-CVE/CVE-2022-47500](https://github.com/Live-Hack-CVE/CVE-2022-47500)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47500">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47500">
 
 ---
 ## CVE-2022-47411 (2022-12-14T21:15:00)
@@ -454,6 +455,16 @@
 - [Live-Hack-CVE/CVE-2022-46641](https://github.com/Live-Hack-CVE/CVE-2022-46641)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46641">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46641">
 
 ---
+## CVE-2022-46551 (2022-12-20T15:15:00)
+> Tenda F1203 V2.0.1.6 was discovered to contain a buffer overflow via the time parameter at /goform/saveParentControlInfo.
+- [Live-Hack-CVE/CVE-2022-46551](https://github.com/Live-Hack-CVE/CVE-2022-46551)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46551">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46551">
+
+---
+## CVE-2022-46550 (2022-12-20T15:15:00)
+> Tenda F1203 V2.0.1.6 was discovered to contain a buffer overflow via the urls parameter at /goform/saveParentControlInfo.
+- [Live-Hack-CVE/CVE-2022-46550](https://github.com/Live-Hack-CVE/CVE-2022-46550)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46550">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46550">
+
+---
 ## CVE-2022-46549 (2022-12-20T15:15:00)
 > Tenda F1203 V2.0.1.6 was discovered to contain a buffer overflow via the deviceId parameter at /goform/saveParentControlInfo.
 - [Live-Hack-CVE/CVE-2022-46549](https://github.com/Live-Hack-CVE/CVE-2022-46549)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46549">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46549">
@@ -482,6 +493,16 @@
 ## CVE-2022-46544 (2022-12-20T15:15:00)
 > Tenda F1203 V2.0.1.6 was discovered to contain a buffer overflow via the cmdinput parameter at /goform/exeCommand.
 - [Live-Hack-CVE/CVE-2022-46544](https://github.com/Live-Hack-CVE/CVE-2022-46544)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46544">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46544">
+
+---
+## CVE-2022-46533 (2022-12-20T15:15:00)
+> Tenda F1203 V2.0.1.6 was discovered to contain a buffer overflow via the limitSpeed parameter at /goform/SetClientState.
+- [Live-Hack-CVE/CVE-2022-46533](https://github.com/Live-Hack-CVE/CVE-2022-46533)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46533">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46533">
+
+---
+## CVE-2022-46532 (2022-12-20T15:15:00)
+> Tenda F1203 V2.0.1.6 was discovered to contain a buffer overflow via the deviceMac parameter at /goform/addWifiMacFilter.
+- [Live-Hack-CVE/CVE-2022-46532](https://github.com/Live-Hack-CVE/CVE-2022-46532)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46532">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46532">
 
 ---
 ## CVE-2022-46493 (2022-12-22T23:15:00)
@@ -695,45 +716,54 @@
 ## CVE-2022-46328 (2022-12-20T21:15:00)
 > Some smartphones have the input validation vulnerability. Successful exploitation of this vulnerability may affect data confidentiality.
 - [Live-Hack-CVE/CVE-2022-46328](https://github.com/Live-Hack-CVE/CVE-2022-46328)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46328">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46328">
+- [Live-Hack-CVE/CVE-2022-46328](https://github.com/Live-Hack-CVE/CVE-2022-46328)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46328">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46328">
 
 ---
 ## CVE-2022-46327 (2022-12-20T21:15:00)
 > Some smartphones have configuration issues. Successful exploitation of this vulnerability may cause privilege escalation, which results in system service exceptions.
+- [Live-Hack-CVE/CVE-2022-46327](https://github.com/Live-Hack-CVE/CVE-2022-46327)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46327">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46327">
 - [Live-Hack-CVE/CVE-2022-46327](https://github.com/Live-Hack-CVE/CVE-2022-46327)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46327">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46327">
 
 ---
 ## CVE-2022-46326 (2022-12-20T21:15:00)
 > Some smartphones have the out-of-bounds write vulnerability. Successful exploitation of this vulnerability may cause system service exceptions.
 - [Live-Hack-CVE/CVE-2022-46326](https://github.com/Live-Hack-CVE/CVE-2022-46326)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46326">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46326">
+- [Live-Hack-CVE/CVE-2022-46326](https://github.com/Live-Hack-CVE/CVE-2022-46326)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46326">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46326">
 
 ---
 ## CVE-2022-46325 (2022-12-20T21:15:00)
 > Some smartphones have the out-of-bounds write vulnerability.Successful exploitation of this vulnerability may cause system service exceptions.
+- [Live-Hack-CVE/CVE-2022-46325](https://github.com/Live-Hack-CVE/CVE-2022-46325)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46325">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46325">
 - [Live-Hack-CVE/CVE-2022-46325](https://github.com/Live-Hack-CVE/CVE-2022-46325)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46325">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46325">
 
 ---
 ## CVE-2022-46324 (2022-12-20T21:15:00)
 > Some smartphones have the out-of-bounds write vulnerability. Successful exploitation of this vulnerability may cause system service exceptions.
 - [Live-Hack-CVE/CVE-2022-46324](https://github.com/Live-Hack-CVE/CVE-2022-46324)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46324">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46324">
+- [Live-Hack-CVE/CVE-2022-46324](https://github.com/Live-Hack-CVE/CVE-2022-46324)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46324">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46324">
 
 ---
 ## CVE-2022-46323 (2022-12-20T21:15:00)
 > Some smartphones have the out-of-bounds write vulnerability.Successful exploitation of this vulnerability may cause system service exceptions.
+- [Live-Hack-CVE/CVE-2022-46323](https://github.com/Live-Hack-CVE/CVE-2022-46323)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46323">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46323">
 - [Live-Hack-CVE/CVE-2022-46323](https://github.com/Live-Hack-CVE/CVE-2022-46323)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46323">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46323">
 
 ---
 ## CVE-2022-46322 (2022-12-20T21:15:00)
 > Some smartphones have the out-of-bounds write vulnerability. Successful exploitation of this vulnerability may cause system service exceptions.
 - [Live-Hack-CVE/CVE-2022-46322](https://github.com/Live-Hack-CVE/CVE-2022-46322)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46322">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46322">
+- [Live-Hack-CVE/CVE-2022-46322](https://github.com/Live-Hack-CVE/CVE-2022-46322)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46322">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46322">
 
 ---
 ## CVE-2022-46321 (2022-12-20T21:15:00)
 > The Wi-Fi module has a vulnerability in permission verification. Successful exploitation of this vulnerability may affect data confidentiality.
 - [Live-Hack-CVE/CVE-2022-46321](https://github.com/Live-Hack-CVE/CVE-2022-46321)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46321">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46321">
+- [Live-Hack-CVE/CVE-2022-46321](https://github.com/Live-Hack-CVE/CVE-2022-46321)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46321">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46321">
 
 ---
 ## CVE-2022-46320 (2022-12-20T21:15:00)
 > The kernel module has an out-of-bounds read vulnerability. Successful exploitation of this vulnerability may cause memory overwriting.
+- [Live-Hack-CVE/CVE-2022-46320](https://github.com/Live-Hack-CVE/CVE-2022-46320)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46320">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46320">
 - [Live-Hack-CVE/CVE-2022-46320](https://github.com/Live-Hack-CVE/CVE-2022-46320)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46320">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46320">
 
 ---
@@ -745,6 +775,52 @@
 ## CVE-2022-46319 (2022-12-20T21:15:00)
 > Fingerprint calibration has a vulnerability of lacking boundary judgment. Successful exploitation of this vulnerability may cause out-of-bounds write.
 - [Live-Hack-CVE/CVE-2022-46319](https://github.com/Live-Hack-CVE/CVE-2022-46319)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46319">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46319">
+- [Live-Hack-CVE/CVE-2022-46319](https://github.com/Live-Hack-CVE/CVE-2022-46319)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46319">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46319">
+
+---
+## CVE-2022-46318 (2022-12-20T21:15:00)
+> The HAware module has a function logic error. Successful exploitation of this vulnerability will affect the account removal function in Settings.
+- [Live-Hack-CVE/CVE-2022-46318](https://github.com/Live-Hack-CVE/CVE-2022-46318)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46318">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46318">
+
+---
+## CVE-2022-46317 (2022-12-20T21:15:00)
+> The power consumption module has an out-of-bounds read vulnerability. Successful exploitation of this vulnerability may affect system availability.
+- [Live-Hack-CVE/CVE-2022-46317](https://github.com/Live-Hack-CVE/CVE-2022-46317)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46317">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46317">
+
+---
+## CVE-2022-46316 (2022-12-20T21:15:00)
+> A thread security vulnerability exists in the authentication process. Successful exploitation of this vulnerability may affect data integrity, confidentiality, and availability.
+- [Live-Hack-CVE/CVE-2022-46316](https://github.com/Live-Hack-CVE/CVE-2022-46316)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46316">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46316">
+
+---
+## CVE-2022-46315 (2022-12-20T21:15:00)
+> The ProfileSDK has defects introduced in the design process. Successful exploitation of this vulnerability may affect system availability.
+- [Live-Hack-CVE/CVE-2022-46315](https://github.com/Live-Hack-CVE/CVE-2022-46315)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46315">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46315">
+
+---
+## CVE-2022-46314 (2022-12-20T21:15:00)
+> The IPC module has defects introduced in the design process. Successful exploitation of this vulnerability may affect system availability.
+- [Live-Hack-CVE/CVE-2022-46314](https://github.com/Live-Hack-CVE/CVE-2022-46314)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46314">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46314">
+
+---
+## CVE-2022-46313 (2022-12-20T21:15:00)
+> The sensor privacy module has an authentication vulnerability. Successful exploitation of this vulnerability may cause unavailability of the smartphone's camera and microphone.
+- [Live-Hack-CVE/CVE-2022-46313](https://github.com/Live-Hack-CVE/CVE-2022-46313)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46313">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46313">
+
+---
+## CVE-2022-46312 (2022-12-20T21:15:00)
+> The application management module has a vulnerability in permission verification. Successful exploitation of this vulnerability causes unexpected clear of device applications.
+- [Live-Hack-CVE/CVE-2022-46312](https://github.com/Live-Hack-CVE/CVE-2022-46312)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46312">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46312">
+
+---
+## CVE-2022-46311 (2022-12-20T21:15:00)
+> The contacts component has a free (undefined) provider vulnerability. Successful exploitation of this vulnerability may affect data integrity.
+- [Live-Hack-CVE/CVE-2022-46311](https://github.com/Live-Hack-CVE/CVE-2022-46311)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46311">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46311">
+
+---
+## CVE-2022-46310 (2022-12-20T21:15:00)
+> The TelephonyProvider module has a vulnerability in obtaining values.Successful exploitation of this vulnerability may affect data confidentiality.
+- [Live-Hack-CVE/CVE-2022-46310](https://github.com/Live-Hack-CVE/CVE-2022-46310)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46310">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46310">
 
 ---
 ## CVE-2022-4631 (2022-12-21T19:15:00)
@@ -1096,6 +1172,16 @@
 - [Live-Hack-CVE/CVE-2022-45720](https://github.com/Live-Hack-CVE/CVE-2022-45720)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45720">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45720">
 
 ---
+## CVE-2022-45666 (2022-12-20T15:15:00)
+> Tenda i22 V1.0.0.3(4687) was discovered to contain a buffer overflow via the list parameter in the formwrlSSIDset function.
+- [Live-Hack-CVE/CVE-2022-45666](https://github.com/Live-Hack-CVE/CVE-2022-45666)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45666">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45666">
+
+---
+## CVE-2022-45665 (2022-12-20T15:15:00)
+> Tenda i22 V1.0.0.3(4687) was discovered to contain a buffer overflow via the funcpara1 parameter in the formSetCfm function.
+- [Live-Hack-CVE/CVE-2022-45665](https://github.com/Live-Hack-CVE/CVE-2022-45665)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45665">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45665">
+
+---
 ## CVE-2022-45645 (2022-12-02T18:15:00)
 > Tenda AC6V1.0 V15.03.05.19 was discovered to contain a buffer overflow via the deviceMac parameter in the addWifiMacFilter function.
 - [Live-Hack-CVE/CVE-2022-45645](https://github.com/Live-Hack-CVE/CVE-2022-45645)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45645">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45645">
@@ -1401,6 +1487,7 @@
 ---
 ## CVE-2022-45061 (2022-11-09T07:15:00)
 > An issue was discovered in Python before 3.11.1. An unnecessary quadratic algorithm exists in one path when processing some inputs to the IDNA (RFC 3490) decoder, such that a crafted, unreasonably long name being presented to the decoder could lead to a CPU denial of service. Hostnames are often supplied by remote servers that could be controlled by a malicious actor; in such a scenario, they could trigger excessive CPU consumption on the client attempting to make use of an attacker-supplied supposed hostname. For example, the attack payload could be placed in the Location header of an HTTP response with status code 302. A fix is planned in 3.11.1, 3.10.9, 3.9.16, 3.8.16, and 3.7.16.
+- [Live-Hack-CVE/CVE-2022-45061](https://github.com/Live-Hack-CVE/CVE-2022-45061)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45061">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45061">
 - [Live-Hack-CVE/CVE-2022-45061](https://github.com/Live-Hack-CVE/CVE-2022-45061)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45061">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45061">
 
 ---
@@ -4117,6 +4204,16 @@
 - [Live-Hack-CVE/CVE-2022-4160](https://github.com/Live-Hack-CVE/CVE-2022-4160)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4160">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4160">
 
 ---
+## CVE-2022-41599 (2022-12-20T21:15:00)
+> The system service has a vulnerability that causes incorrect return values. Successful exploitation of this vulnerability may affect data confidentiality.
+- [Live-Hack-CVE/CVE-2022-41599](https://github.com/Live-Hack-CVE/CVE-2022-41599)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41599">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41599">
+
+---
+## CVE-2022-41596 (2022-12-20T21:15:00)
+> The system tool has inconsistent serialization and deserialization. Successful exploitation of this vulnerability will cause unauthorized startup of components.
+- [Live-Hack-CVE/CVE-2022-41596](https://github.com/Live-Hack-CVE/CVE-2022-41596)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41596">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41596">
+
+---
 ## CVE-2022-4159 (2022-12-26T13:15:00)
 > The Contest Gallery WordPress plugin before 19.1.5.1, Contest Gallery Pro WordPress plugin before 19.1.5.1 do not escape the cg_id POST parameter before concatenating it to an SQL query in 0_change-gallery.php. This may allow malicious users with at least author privilege to leak sensitive information from the site's database.
 - [Live-Hack-CVE/CVE-2022-4159](https://github.com/Live-Hack-CVE/CVE-2022-4159)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4159">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4159">
@@ -5145,6 +5242,7 @@
 ---
 ## CVE-2022-40743 (2022-12-19T12:15:00)
 > Improper Input Validation vulnerability for the xdebug plugin in Apache Software Foundation Apache Traffic Server can lead to cross site scripting and cache poisoning attacks.This issue affects Apache Traffic Server: 9.0.0 to 9.1.3. Users should upgrade to 9.1.4 or later versions.
+- [Live-Hack-CVE/CVE-2022-40743](https://github.com/Live-Hack-CVE/CVE-2022-40743)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40743">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40743">
 - [Live-Hack-CVE/CVE-2022-40743](https://github.com/Live-Hack-CVE/CVE-2022-40743)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40743">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40743">
 
 ---
