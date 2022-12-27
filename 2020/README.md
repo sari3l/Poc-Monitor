@@ -826,6 +826,11 @@
 - [Live-Hack-CVE/CVE-2020-35527](https://github.com/Live-Hack-CVE/CVE-2020-35527)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35527">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35527">
 
 ---
+## CVE-2020-35511 (2022-08-23T20:15:00)
+> A global buffer overflow was discovered in pngcheck function in pngcheck-2.4.0(5 patches applied) via a crafted png file.
+- [Live-Hack-CVE/CVE-2020-35511](https://github.com/Live-Hack-CVE/CVE-2020-35511)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35511">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35511">
+
+---
 ## CVE-2020-35505 (2021-05-28T11:15:00)
 > A NULL pointer dereference flaw was found in the am53c974 SCSI host bus adapter emulation of QEMU in versions before 6.0.0. This issue occurs while handling the 'Information Transfer' command. This flaw allows a privileged guest user to crash the QEMU process on the host, resulting in a denial of service. The highest threat from this vulnerability is to system availability.
 - [Live-Hack-CVE/CVE-2020-35505](https://github.com/Live-Hack-CVE/CVE-2020-35505)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35505">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35505">

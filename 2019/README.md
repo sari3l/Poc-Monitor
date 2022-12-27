@@ -696,6 +696,16 @@
 - [Live-Hack-CVE/CVE-2019-3692](https://github.com/Live-Hack-CVE/CVE-2019-3692)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-3692">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-3692">
 
 ---
+## CVE-2019-3638 (2019-09-12T16:15:00)
+> Reflected Cross Site Scripting vulnerability in Administrators web console in McAfee Web Gateway (MWG) 7.8.x prior to 7.8.2.13 allows remote attackers to collect sensitive information or execute commands with the MWG administrator's credentials via tricking the administrator to click on a carefully constructed malicious link.
+- [Live-Hack-CVE/CVE-2019-3638](https://github.com/Live-Hack-CVE/CVE-2019-3638)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-3638">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-3638">
+
+---
+## CVE-2019-3635 (2019-08-14T17:15:00)
+> Exfiltration of Data in McAfee Web Gateway (MWG) 7.8.2.x prior to 7.8.2.12 allows attackers to obtain sensitive data via crafting a complex webpage that will trigger the Web Gateway to block the user accessing an iframe.
+- [Live-Hack-CVE/CVE-2019-3635](https://github.com/Live-Hack-CVE/CVE-2019-3635)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-3635">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-3635">
+
+---
 ## CVE-2019-3560 (2019-04-29T16:29:00)
 > An improperly performed length calculation on a buffer in PlaintextRecordLayer could lead to an infinite loop and denial-of-service based on user input. This issue affected versions of fizz prior to v2019.03.04.00.
 - [ahaShiyu/CVE-2019-3560](https://github.com/ahaShiyu/CVE-2019-3560)	<img alt="forks" src="https://img.shields.io/github/forks/ahaShiyu/CVE-2019-3560">	<img alt="stars" src="https://img.shields.io/github/stars/ahaShiyu/CVE-2019-3560">

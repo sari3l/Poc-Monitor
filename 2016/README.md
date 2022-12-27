@@ -92,6 +92,31 @@
 - [Live-Hack-CVE/CVE-2016-8730](https://github.com/Live-Hack-CVE/CVE-2016-8730)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-8730">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-8730">
 
 ---
+## CVE-2016-8728 (2018-04-24T19:29:00)
+> An exploitable heap out of bounds write vulnerability exists in the Fitz graphical library part of the MuPDF renderer. A specially crafted PDF file can cause a out of bounds write resulting in heap metadata and sensitive process memory corruption leading to potential code execution. Victim needs to open the specially crafted file in a vulnerable reader in order to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2016-8728](https://github.com/Live-Hack-CVE/CVE-2016-8728)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-8728">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-8728">
+
+---
+## CVE-2016-8726 (2017-04-13T19:59:00)
+> An exploitable null pointer dereference vulnerability exists in the Web Application /forms/web_runScript iw_filename functionality of Moxa AWK-3131A Wireless Access Point running firmware 1.1. An HTTP POST request with a blank line in the header will cause a segmentation fault in the web server.
+- [Live-Hack-CVE/CVE-2016-8726](https://github.com/Live-Hack-CVE/CVE-2016-8726)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-8726">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-8726">
+
+---
+## CVE-2016-8725 (2017-04-13T19:59:00)
+> An exploitable information disclosure vulnerability exists in the Web Application functionality of the Moxa AWK-3131A wireless access point running firmware 1.1. Retrieving a specific URL without authentication can reveal sensitive information to an attacker.
+- [Live-Hack-CVE/CVE-2016-8725](https://github.com/Live-Hack-CVE/CVE-2016-8725)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-8725">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-8725">
+
+---
+## CVE-2016-8724 (2017-04-13T19:59:00)
+> An exploitable information disclosure vulnerability exists in the serviceAgent functionality of Moxa AWK-3131A Wireless Access Point running firmware 1.1. A specially crafted TCP query will allow an attacker to retrieve potentially sensitive information.
+- [Live-Hack-CVE/CVE-2016-8724](https://github.com/Live-Hack-CVE/CVE-2016-8724)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-8724">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-8724">
+
+---
+## CVE-2016-8723 (2017-04-13T19:59:00)
+> An exploitable null pointer dereference exists in the Web Application functionality of Moxa AWK-3131A Wireless Access Point running firmware 1.1. Any HTTP GET request not preceded by an '/' will cause a segmentation fault in the web server. An attacker can send any of a multitude of potentially unexpected HTTP get requests to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2016-8723](https://github.com/Live-Hack-CVE/CVE-2016-8723)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-8723">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-8723">
+
+---
 ## CVE-2016-8722 (2017-04-13T19:59:00)
 > An exploitable Information Disclosure vulnerability exists in the Web Application functionality of Moxa AWK-3131A Series Industrial IEEE 802.11a/b/g/n wireless AP/bridge/client. Retrieving a specific URL without authentication can reveal sensitive information to an attacker.
 - [Live-Hack-CVE/CVE-2016-8722](https://github.com/Live-Hack-CVE/CVE-2016-8722)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-8722">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-8722">

@@ -2279,6 +2279,11 @@
 - [Live-Hack-CVE/CVE-2022-4446](https://github.com/Live-Hack-CVE/CVE-2022-4446)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4446">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4446">
 
 ---
+## CVE-2022-44457 (2022-11-08T11:15:00)
+> A vulnerability has been identified in Mendix SAML (Mendix 7 compatible) (All versions < V1.17.0), Mendix SAML (Mendix 7 compatible) (All versions >= V1.17.0 < V1.17.2), Mendix SAML (Mendix 8 compatible) (All versions < V2.3.0), Mendix SAML (Mendix 8 compatible) (All versions >= V2.3.0 < V2.3.2), Mendix SAML (Mendix 9 compatible, New Track) (All versions < V3.3.1), Mendix SAML (Mendix 9 compatible, New Track) (All versions >= V3.3.1 < V3.3.5), Mendix SAML (Mendix 9 compatible, Upgrade Track) (All versions < V3.3.0), Mendix SAML (Mendix 9 compatible, Upgrade Track) (All versions >= V3.3.0 < V3.3.4). Affected versions of the module insufficiently protect from packet capture replay, only when the not recommended, non default configuration option `'Allow Idp Initiated Authentication'` is enabled. This CVE entry describes the incomplete fix for CVE-2022-37011 in a specific non default configuration.
+- [Live-Hack-CVE/CVE-2022-44457](https://github.com/Live-Hack-CVE/CVE-2022-44457)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44457">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44457">
+
+---
 ## CVE-2022-4444 (2022-12-13T09:15:00)
 > A vulnerability was found in ipti br.tag. It has been declared as problematic. Affected by this vulnerability is an unknown functionality. The manipulation leads to cross site scripting. The attack can be launched remotely. Upgrading to version 2.13.0 is able to address this issue. The name of the patch is 7e311be22d3a0a1b53e61cb987ba13d681d85f06. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-215431.
 - [Live-Hack-CVE/CVE-2022-4444](https://github.com/Live-Hack-CVE/CVE-2022-4444)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4444">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4444">
@@ -4822,6 +4827,31 @@
 ## CVE-2022-41684 (2022-12-22T22:15:00)
 > A heap out of bounds read vulnerability exists in the OpenImageIO master-branch-9aeece7a when parsing the image file directory part of a PSD image file. A specially-crafted .psd file can cause a read of arbitrary memory address which can lead to denial of service. An attacker can provide a malicious file to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2022-41684](https://github.com/Live-Hack-CVE/CVE-2022-41684)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41684">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41684">
+
+---
+## CVE-2022-41664 (2022-11-08T11:15:00)
+> A vulnerability has been identified in JT2Go (All versions < V14.1.0.4), Teamcenter Visualization V13.3 (All versions < V13.3.0.7), Teamcenter Visualization V14.0 (All versions < V14.0.0.3), Teamcenter Visualization V14.1 (All versions < V14.1.0.4). The affected application contains a stack-based buffer overflow vulnerability that could be triggered while parsing specially crafted PDF files. This could allow an attacker to execute code in the context of the current process.
+- [Live-Hack-CVE/CVE-2022-41664](https://github.com/Live-Hack-CVE/CVE-2022-41664)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41664">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41664">
+
+---
+## CVE-2022-41663 (2022-11-08T11:15:00)
+> A vulnerability has been identified in JT2Go (All versions < V14.1.0.4), Teamcenter Visualization V13.3 (All versions < V13.3.0.7), Teamcenter Visualization V14.0 (All versions < V14.0.0.3), Teamcenter Visualization V14.1 (All versions < V14.1.0.4). The affected applications contain a use-after-free vulnerability that could be triggered while parsing specially crafted CGM files. An attacker could leverage this vulnerability to execute code in the context of the current process.
+- [Live-Hack-CVE/CVE-2022-41663](https://github.com/Live-Hack-CVE/CVE-2022-41663)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41663">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41663">
+
+---
+## CVE-2022-41662 (2022-11-08T11:15:00)
+> A vulnerability has been identified in JT2Go (All versions < V14.1.0.4), Teamcenter Visualization V13.3 (All versions < V13.3.0.7), Teamcenter Visualization V14.0 (All versions < V14.0.0.3), Teamcenter Visualization V14.1 (All versions < V14.1.0.4). The affected products contain an out of bounds read vulnerability when parsing a CGM file. An attacker can leverage this vulnerability to execute code in the context of the current process.
+- [Live-Hack-CVE/CVE-2022-41662](https://github.com/Live-Hack-CVE/CVE-2022-41662)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41662">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41662">
+
+---
+## CVE-2022-41661 (2022-11-08T11:15:00)
+> A vulnerability has been identified in JT2Go (All versions < V14.1.0.4), Teamcenter Visualization V13.3 (All versions < V13.3.0.7), Teamcenter Visualization V14.0 (All versions < V14.0.0.3), Teamcenter Visualization V14.1 (All versions < V14.1.0.4). The affected products contain an out of bounds read vulnerability when parsing a CGM file. An attacker can leverage this vulnerability to execute code in the context of the current process.
+- [Live-Hack-CVE/CVE-2022-41661](https://github.com/Live-Hack-CVE/CVE-2022-41661)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41661">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41661">
+
+---
+## CVE-2022-41660 (2022-11-08T11:15:00)
+> A vulnerability has been identified in JT2Go (All versions < V14.1.0.4), Teamcenter Visualization V13.3 (All versions < V13.3.0.7), Teamcenter Visualization V14.0 (All versions < V14.0.0.3), Teamcenter Visualization V14.1 (All versions < V14.1.0.4). The affected products contain an out of bounds write vulnerability when parsing a CGM file. An attacker can leverage this vulnerability to execute code in the context of the current process.
+- [Live-Hack-CVE/CVE-2022-41660](https://github.com/Live-Hack-CVE/CVE-2022-41660)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41660">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41660">
 
 ---
 ## CVE-2022-4166 (2022-12-26T13:15:00)
@@ -7557,6 +7587,11 @@
 - [Live-Hack-CVE/CVE-2022-39157](https://github.com/Live-Hack-CVE/CVE-2022-39157)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39157">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39157">
 
 ---
+## CVE-2022-39136 (2022-11-08T11:15:00)
+> A vulnerability has been identified in JT2Go (All versions < V14.1.0.4), Teamcenter Visualization V13.3 (All versions < V13.3.0.7), Teamcenter Visualization V13.3 (All versions >= V13.3.0.7 < V13.3.0.8), Teamcenter Visualization V14.0 (All versions < V14.0.0.3), Teamcenter Visualization V14.1 (All versions < V14.1.0.4). The affected application is vulnerable to fixed-length heap-based buffer while parsing specially crafted TIF files. An attacker could leverage this vulnerability to execute code in the context of the current process.
+- [Live-Hack-CVE/CVE-2022-39136](https://github.com/Live-Hack-CVE/CVE-2022-39136)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39136">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39136">
+
+---
 ## CVE-2022-39135 (2022-09-11T12:15:00)
 > In Apache Calcite prior to version 1.32.0 the SQL operators EXISTS_NODE, EXTRACT_XML, XML_TRANSFORM and EXTRACT_VALUE do not restrict XML External Entity references in their configuration, which makes them vulnerable to a potential XML External Entity (XXE) attack. Therefore any client exposing these operators, typically by using Oracle dialect (the first three) or MySQL dialect (the last one), is affected by this vulnerability (the extent of it will depend on the user under which the application is running). From Apache Calcite 1.32.0 onwards, Document Type Declarations and XML External Entity resolution are disabled on the impacted operators.
 - [Live-Hack-CVE/CVE-2022-39135](https://github.com/Live-Hack-CVE/CVE-2022-39135)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39135">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39135">
@@ -9838,6 +9873,11 @@
 ## CVE-2022-37017 (2022-12-01T14:15:00)
 > Symantec Endpoint Protection (Windows) agent, prior to 14.3 RU6/14.3 RU5 Patch 1, may be susceptible to a Security Control Bypass vulnerability, which is a type of issue that can potentially allow a threat actor to circumvent existing security controls. This CVE applies narrowly to the Client User Interface Password protection and Policy Import/Export Password protection, if it has been enabled.
 - [Live-Hack-CVE/CVE-2022-37017](https://github.com/Live-Hack-CVE/CVE-2022-37017)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37017">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37017">
+
+---
+## CVE-2022-37011 (2022-09-13T10:15:00)
+> A vulnerability has been identified in Mendix SAML (Mendix 7 compatible) (All versions < V1.17.0), Mendix SAML (Mendix 8 compatible) (All versions < V2.3.0), Mendix SAML (Mendix 9 compatible, New Track) (All versions < V3.3.1), Mendix SAML (Mendix 9 compatible, Upgrade Track) (All versions < V3.3.0). Affected versions of the module insufficiently protect from packet capture replay. This could allow unauthorized remote attackers to bypass authentication and get access to the application. For compatibility reasons, fix versions still contain this issue, but only when the not recommended, non default configuration option `'Allow Idp Initiated Authentication'` is enabled.
+- [Live-Hack-CVE/CVE-2022-37011](https://github.com/Live-Hack-CVE/CVE-2022-37011)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37011">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37011">
 
 ---
 ## CVE-2022-3699 ()
@@ -13490,6 +13530,11 @@
 - [Live-Hack-CVE/CVE-2022-31773](https://github.com/Live-Hack-CVE/CVE-2022-31773)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31773">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31773">
 
 ---
+## CVE-2022-31765 (2022-10-11T11:15:00)
+> Affected devices do not properly authorize the change password function of the web interface. This could allow low privileged users to escalate their privileges.
+- [Live-Hack-CVE/CVE-2022-31765](https://github.com/Live-Hack-CVE/CVE-2022-31765)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31765">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31765">
+
+---
 ## CVE-2022-31749 ()
 > 
 - [iveresk/cve-2022-31749](https://github.com/iveresk/cve-2022-31749)	<img alt="forks" src="https://img.shields.io/github/forks/iveresk/cve-2022-31749">	<img alt="stars" src="https://img.shields.io/github/stars/iveresk/cve-2022-31749">
@@ -14185,6 +14230,11 @@
 ## CVE-2022-30698 (2022-08-01T15:15:00)
 > NLnet Labs Unbound, up to and including version 1.16.1 is vulnerable to a novel type of the "ghost domain names" attack. The vulnerability works by targeting an Unbound instance. Unbound is queried for a subdomain of a rogue domain name. The rogue nameserver returns delegation information for the subdomain that updates Unbound's delegation cache. This action can be repeated before expiry of the delegation information by querying Unbound for a second level subdomain which the rogue nameserver provides new delegation information. Since Unbound is a child-centric resolver, the ever-updating child delegation information can keep a rogue domain name resolvable long after revocation. From version 1.16.2 on, Unbound checks the validity of parent delegation records before using cached delegation information.
 - [Live-Hack-CVE/CVE-2022-30698](https://github.com/Live-Hack-CVE/CVE-2022-30698)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30698">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30698">
+
+---
+## CVE-2022-30694 (2022-11-08T11:15:00)
+> A vulnerability has been identified in SIMATIC Drive Controller family (All versions < V3.0.1), SIMATIC ET 200S IM151-8 PN/DP CPU (All versions < V3.2.19), SIMATIC ET 200S IM151-8F PN/DP CPU (All versions < V3.2.19), SIMATIC ET 200pro IM154-8 PN/DP CPU (All versions < V3.2.19), SIMATIC ET 200pro IM154-8F PN/DP CPU (All versions < V3.2.19), SIMATIC ET 200pro IM154-8FX PN/DP CPU (All versions < V3.2.19), SIMATIC PC Station (All versions >= V2.1), SIMATIC S7-1200 CPU family (incl. SIPLUS variants) (All versions < V4.6.0), SIMATIC S7-1500 CPU family (incl. related ET200 CPUs and SIPLUS variants) (All versions < V3.0.1), SIMATIC S7-1500 Software Controller (All versions), SIMATIC S7-300 CPU 314C-2 PN/DP (All versions < V3.3.19), SIMATIC S7-300 CPU 315-2 PN/DP (All versions < V3.2.19), SIMATIC S7-300 CPU 315F-2 PN/DP (All versions < V3.2.19), SIMATIC S7-300 CPU 315T-3 PN/DP (All versions < V3.2.19), SIMATIC S7-300 CPU 317-2 PN/DP (All versions < V3.2.19), SIMATIC S7-300 CPU 317F-2 PN/DP (All versions < V3.2.19), SIMATIC S7-300 CPU 317T-3 PN/DP (All versions < V3.2.19), SIMATIC S7-300 CPU 317TF-3 PN/DP (All versions < V3.2.19), SIMATIC S7-300 CPU 319-3 PN/DP (All versions < V3.2.19), SIMATIC S7-300 CPU 319F-3 PN/DP (All versions < V3.2.19), SIMATIC S7-400 PN/DP V6 CPU family (incl. SIPLUS variants) (All versions), SIMATIC S7-400 PN/DP V7 CPU family (incl. SIPLUS variants) (All versions), SIMATIC S7-PLCSIM Advanced (All versions < V5.0), SIMATIC WinCC Runtime Advanced (All versions), SINUMERIK ONE (All versions), SIPLUS ET 200S IM151-8 PN/DP CPU (All versions < V3.2.19), SIPLUS ET 200S IM151-8F PN/DP CPU (All versions < V3.2.19), SIPLUS S7-300 CPU 314C-2 PN/DP (All versions < V3.3.19), SIPLUS S7-300 CPU 315-2 PN/DP (All versions < V3.2.19), SIPLUS S7-300 CPU 315F-2 PN/DP (All versions < V3.2.19), SIPLUS S7-300 CPU 317-2 PN/DP (All versions < V3.2.19), SIPLUS S7-300 CPU 317F-2 PN/DP (All versions < V3.2.19). The login endpoint /FormLogin in affected web services does not apply proper origin checking. This could allow authenticated remote attackers to track the activities of other users via a login cross-site request forgery attack.
+- [Live-Hack-CVE/CVE-2022-30694](https://github.com/Live-Hack-CVE/CVE-2022-30694)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30694">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30694">
 
 ---
 ## CVE-2022-3069 (2022-09-26T13:15:00)
@@ -19564,6 +19614,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 > In kbase_mem_alias of mali_kbase_mem_linux.c, there is a possible arbitrary code execution due to improper input validation. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-215001024References: N/A
 - [s1204-inspect/CVE-2022-20186_CTXZ](https://github.com/s1204-inspect/CVE-2022-20186_CTXZ)	<img alt="forks" src="https://img.shields.io/github/forks/s1204-inspect/CVE-2022-20186_CTXZ">	<img alt="stars" src="https://img.shields.io/github/stars/s1204-inspect/CVE-2022-20186_CTXZ">
 - [SmileTabLabo/CVE-2022-20186_CTXZ](https://github.com/SmileTabLabo/CVE-2022-20186_CTXZ)	<img alt="forks" src="https://img.shields.io/github/forks/SmileTabLabo/CVE-2022-20186_CTXZ">	<img alt="stars" src="https://img.shields.io/github/stars/SmileTabLabo/CVE-2022-20186_CTXZ">
+
+---
+## CVE-2022-20144 (2022-06-15T14:15:00)
+> In multiple functions of AvatarPhotoController.java, there is a possible access to content owned by system content providers due to a confused deputy. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11Android ID: A-250637906
+- [Live-Hack-CVE/CVE-2022-20144](https://github.com/Live-Hack-CVE/CVE-2022-20144)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20144">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20144">
 
 ---
 ## CVE-2022-20142 (2022-06-15T14:15:00)
