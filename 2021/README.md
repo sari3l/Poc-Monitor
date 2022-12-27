@@ -1609,6 +1609,16 @@
 - [nidhi7598/system_bt_AOSP_10_r33_CVE-2021-39674](https://github.com/nidhi7598/system_bt_AOSP_10_r33_CVE-2021-39674)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/system_bt_AOSP_10_r33_CVE-2021-39674">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/system_bt_AOSP_10_r33_CVE-2021-39674">
 
 ---
+## CVE-2021-39660 (2022-12-13T16:15:00)
+> In TBD of TBD, there is a possible way to archive arbitrary code execution in kernel due to a race condition. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android SoCAndroid ID: A-254742984
+- [Live-Hack-CVE/CVE-2021-39660](https://github.com/Live-Hack-CVE/CVE-2021-39660)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39660">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39660">
+
+---
+## CVE-2021-39617 (2022-12-13T16:15:00)
+> In the user interface buttons of PermissionController, there is a possible way to bypass permissions dialogs due to a tapjacking/overlay attack. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is needed for exploitation.Product: AndroidVersions: Android-11 Android-12 Android-12LAndroid ID: A-175190844
+- [Live-Hack-CVE/CVE-2021-39617](https://github.com/Live-Hack-CVE/CVE-2021-39617)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39617">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39617">
+
+---
 ## CVE-2021-3948 (2022-02-18T18:15:00)
 > An incorrect default permissions vulnerability was found in the mig-controller. Due to an incorrect cluster namespaces handling an attacker may be able to migrate a malicious workload to the target cluster, impacting confidentiality, integrity, and availability of the services located on that cluster.
 - [Live-Hack-CVE/CVE-2021-3948](https://github.com/Live-Hack-CVE/CVE-2021-3948)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3948">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3948">
@@ -4774,6 +4784,11 @@
 ## CVE-2021-0946 (2022-08-24T14:15:00)
 > The method PVRSRVBridgePMRPDumpSymbolicAddr allocates puiMemspaceNameInt on the heap, fills the contents of the buffer via PMR_PDumpSymbolicAddr, and then copies the buffer to userspace. The method PMR_PDumpSymbolicAddr may fail, and if it does the buffer will be left uninitialized and despite the error will still be copied to userspace. Kernel leak of uninitialized heap data with no privs required.Product: AndroidVersions: Android SoCAndroid ID: A-236846966
 - [Live-Hack-CVE/CVE-2021-0946](https://github.com/Live-Hack-CVE/CVE-2021-0946)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-0946">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-0946">
+
+---
+## CVE-2021-0934 (2022-12-13T16:15:00)
+> In findAllDeAccounts of AccountsDb.java, there is a possible denial of service due to resource exhaustion. This could lead to local denial of service with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-169762606
+- [Live-Hack-CVE/CVE-2021-0934](https://github.com/Live-Hack-CVE/CVE-2021-0934)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-0934">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-0934">
 
 ---
 ## CVE-2021-09 ()

@@ -1143,9 +1143,19 @@
 - [Live-Hack-CVE/CVE-2022-46059](https://github.com/Live-Hack-CVE/CVE-2022-46059)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46059">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46059">
 
 ---
+## CVE-2022-46058 (2022-12-13T14:15:00)
+> AeroCMS v0.0.1 was discovered to contain a cross-site scripting (XSS) vulnerability via add_post.php. This vulnerability allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Comments text field.
+- [Live-Hack-CVE/CVE-2022-46058](https://github.com/Live-Hack-CVE/CVE-2022-46058)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46058">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46058">
+
+---
 ## CVE-2022-46051 (2022-12-13T16:15:00)
 > The approve parameter from the AeroCMS-v0.0.1 CMS system is vulnerable to SQL injection attacks.
 - [Live-Hack-CVE/CVE-2022-46051](https://github.com/Live-Hack-CVE/CVE-2022-46051)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46051">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46051">
+
+---
+## CVE-2022-46047 (2022-12-13T14:15:00)
+> AeroCMS v0.0.1 is vulnerable to SQL Injection via the delete parameter.
+- [Live-Hack-CVE/CVE-2022-46047](https://github.com/Live-Hack-CVE/CVE-2022-46047)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46047">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46047">
 
 ---
 ## CVE-2022-46020 (2022-12-20T16:15:00)
@@ -6825,6 +6835,11 @@
 ## CVE-2022-40004 (2022-12-15T23:15:00)
 > Cross Site Scripting (XSS) vulnerability in Things Board 3.4.1 allows remote attackers to escalate privilege via crafted URL to the Audit Log.
 - [Live-Hack-CVE/CVE-2022-40004](https://github.com/Live-Hack-CVE/CVE-2022-40004)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40004">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40004">
+
+---
+## CVE-2022-3999 (2022-12-12T18:15:00)
+> The WooCommerce Shipping WordPress plugin through 1.2.11 does not have authorisation and CRSF in an AJAX action, which could allow any authenticated users, such as subscriber to delete arbitrary options from the blog, which could make the blog unavailable.
+- [Live-Hack-CVE/CVE-2022-3999](https://github.com/Live-Hack-CVE/CVE-2022-3999)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3999">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3999">
 
 ---
 ## CVE-2022-39975 (2022-09-22T00:15:00)
@@ -19037,6 +19052,106 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-20487](https://github.com/Live-Hack-CVE/CVE-2022-20487)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20487">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20487">
 
 ---
+## CVE-2022-20486 (2022-12-13T16:15:00)
+> In NotificationChannel of NotificationChannel.java, there is a possible failure to persist permissions settings due to resource exhaustion. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-242703118
+- [Live-Hack-CVE/CVE-2022-20486](https://github.com/Live-Hack-CVE/CVE-2022-20486)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20486">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20486">
+
+---
+## CVE-2022-20485 (2022-12-13T16:15:00)
+> In NotificationChannel of NotificationChannel.java, there is a possible failure to persist permissions settings due to resource exhaustion. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-242702935
+- [Live-Hack-CVE/CVE-2022-20485](https://github.com/Live-Hack-CVE/CVE-2022-20485)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20485">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20485">
+
+---
+## CVE-2022-20484 (2022-12-13T16:15:00)
+> In NotificationChannel of NotificationChannel.java, there is a possible failure to persist permissions settings due to resource exhaustion. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-242702851
+- [Live-Hack-CVE/CVE-2022-20484](https://github.com/Live-Hack-CVE/CVE-2022-20484)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20484">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20484">
+
+---
+## CVE-2022-20483 (2022-12-13T16:15:00)
+> In several functions that parse avrc response in avrc_pars_ct.cc and related files, there are possible out of bounds reads due to integer overflows. This could lead to remote information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-242459126
+- [Live-Hack-CVE/CVE-2022-20483](https://github.com/Live-Hack-CVE/CVE-2022-20483)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20483">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20483">
+
+---
+## CVE-2022-20482 (2022-12-13T16:15:00)
+> In createNotificationChannel of NotificationManager.java, there is a possible way to make the device unusable and require factory reset due to resource exhaustion. This could lead to local denial of service with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-12 Android-12L Android-13Android ID: A-240422263
+- [Live-Hack-CVE/CVE-2022-20482](https://github.com/Live-Hack-CVE/CVE-2022-20482)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20482">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20482">
+
+---
+## CVE-2022-20480 (2022-12-13T16:15:00)
+> In NotificationChannel of NotificationChannel.java, there is a possible failure to persist permissions settings due to resource exhaustion. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-241764350
+- [Live-Hack-CVE/CVE-2022-20480](https://github.com/Live-Hack-CVE/CVE-2022-20480)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20480">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20480">
+
+---
+## CVE-2022-20479 (2022-12-13T16:15:00)
+> In NotificationChannel of NotificationChannel.java, there is a possible failure to persist permissions settings due to resource exhaustion. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-241764340
+- [Live-Hack-CVE/CVE-2022-20479](https://github.com/Live-Hack-CVE/CVE-2022-20479)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20479">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20479">
+
+---
+## CVE-2022-20478 (2022-12-13T16:15:00)
+> In NotificationChannel of NotificationChannel.java, there is a possible failure to persist permissions settings due to resource exhaustion. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-241764135
+- [Live-Hack-CVE/CVE-2022-20478](https://github.com/Live-Hack-CVE/CVE-2022-20478)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20478">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20478">
+
+---
+## CVE-2022-20477 (2022-12-13T16:15:00)
+> In shouldHideNotification of KeyguardNotificationVisibilityProvider.kt, there is a possible way to show hidden notifications due to a logic error in the code. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-241611867
+- [Live-Hack-CVE/CVE-2022-20477](https://github.com/Live-Hack-CVE/CVE-2022-20477)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20477">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20477">
+
+---
+## CVE-2022-20476 (2022-12-13T16:15:00)
+> In setEnabledSetting of PackageManager.java, there is a possible way to get the device into an infinite reboot loop due to resource exhaustion. This could lead to local denial of service with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12LAndroid ID: A-240936919
+- [Live-Hack-CVE/CVE-2022-20476](https://github.com/Live-Hack-CVE/CVE-2022-20476)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20476">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20476">
+
+---
+## CVE-2022-20475 (2022-12-13T16:15:00)
+> In test of ResetTargetTaskHelper.java, there is a possible hijacking of any app which sets allowTaskReparenting="true" due to a confused deputy. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-11 Android-12 Android-12L Android-13Android ID: A-240663194
+- [Live-Hack-CVE/CVE-2022-20475](https://github.com/Live-Hack-CVE/CVE-2022-20475)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20475">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20475">
+
+---
+## CVE-2022-20474 (2022-12-13T16:15:00)
+> In readLazyValue of Parcel.java, there is a possible loading of arbitrary code into the System Settings app due to a confused deputy. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-240138294
+- [Live-Hack-CVE/CVE-2022-20474](https://github.com/Live-Hack-CVE/CVE-2022-20474)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20474">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20474">
+
+---
+## CVE-2022-20473 (2022-12-13T16:15:00)
+> In toLanguageTag of LocaleListCache.cpp, there is a possible out of bounds read due to an incorrect bounds check. This could lead to remote code execution with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-239267173
+- [Live-Hack-CVE/CVE-2022-20473](https://github.com/Live-Hack-CVE/CVE-2022-20473)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20473">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20473">
+
+---
+## CVE-2022-20472 (2022-12-13T16:15:00)
+> In toLanguageTag of LocaleListCache.cpp, there is a possible out of bounds read due to an incorrect bounds check. This could lead to remote code execution with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-239210579
+- [Live-Hack-CVE/CVE-2022-20472](https://github.com/Live-Hack-CVE/CVE-2022-20472)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20472">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20472">
+
+---
+## CVE-2022-20471 (2022-12-13T16:15:00)
+> In SendIncDecRestoreCmdPart2 of NxpMfcReader.cc, there is a possible out of bounds read due to a missing bounds check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-11 Android-12 Android-12L Android-13Android ID: A-238177877
+- [Live-Hack-CVE/CVE-2022-20471](https://github.com/Live-Hack-CVE/CVE-2022-20471)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20471">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20471">
+
+---
+## CVE-2022-20470 (2022-12-13T16:15:00)
+> In bindRemoteViewsService of AppWidgetServiceImpl.java, there is a possible way to bypass background activity launch due to improper input validation. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-234013191
+- [Live-Hack-CVE/CVE-2022-20470](https://github.com/Live-Hack-CVE/CVE-2022-20470)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20470">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20470">
+
+---
+## CVE-2022-20469 (2022-12-13T16:15:00)
+> In avct_lcb_msg_asmbl of avct_lcb_act.cc, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege over Bluetooth with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-230867224
+- [Live-Hack-CVE/CVE-2022-20469](https://github.com/Live-Hack-CVE/CVE-2022-20469)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20469">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20469">
+
+---
+## CVE-2022-20468 (2022-12-13T16:15:00)
+> In BNEP_ConnectResp of bnep_api.cc, there is a possible out of bounds read due to an incorrect bounds check. This could lead to local information disclosure over Bluetooth with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-228450451
+- [Live-Hack-CVE/CVE-2022-20468](https://github.com/Live-Hack-CVE/CVE-2022-20468)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20468">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20468">
+
+---
+## CVE-2022-20466 (2022-12-13T16:15:00)
+> In applyKeyguardFlags of NotificationShadeWindowControllerImpl.java, there is a possible way to observe the user's password on a secondary display due to an insecure default value. This could lead to local information disclosure with no additional execution privileges needed. User interaction is needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-179725730
+- [Live-Hack-CVE/CVE-2022-20466](https://github.com/Live-Hack-CVE/CVE-2022-20466)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20466">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20466">
+
+---
+## CVE-2022-20449 (2022-12-13T16:15:00)
+> In writeApplicationRestrictionsLAr of UserManagerService.java, there is a possible overwrite of system files due to a path traversal error. This could lead to local denial of service with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-239701237
+- [Live-Hack-CVE/CVE-2022-20449](https://github.com/Live-Hack-CVE/CVE-2022-20449)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20449">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20449">
+
+---
 ## CVE-2022-20448 (2022-11-08T22:15:00)
 > In buzzBeepBlinkLocked of NotificationManagerService.java, there is a possible way to share data across users due to a permissions bypass. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-237540408
 - [Live-Hack-CVE/CVE-2022-20448](https://github.com/Live-Hack-CVE/CVE-2022-20448)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20448">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20448">
@@ -19045,6 +19160,16 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-20447 (2022-11-08T22:15:00)
 > In PAN_WriteBuf of pan_api.cc, there is a possible out of bounds read due to a use after free. This could lead to remote information disclosure over Bluetooth with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-233604485
 - [Live-Hack-CVE/CVE-2022-20447](https://github.com/Live-Hack-CVE/CVE-2022-20447)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20447">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20447">
+
+---
+## CVE-2022-20444 (2022-12-13T16:15:00)
+> In several functions of inputDispatcher.cpp, there is a possible way to make toasts clickable due to a tapjacking/overlay attack. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-11 Android-12Android ID: A-197296414
+- [Live-Hack-CVE/CVE-2022-20444](https://github.com/Live-Hack-CVE/CVE-2022-20444)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20444">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20444">
+
+---
+## CVE-2022-20442 (2022-12-13T16:15:00)
+> In onCreate of ReviewPermissionsActivity.java, there is a possible way to grant permissions for a separate app with API level < 23 due to a tapjacking/overlay attack. This could lead to local escalation of privilege with User execution privileges needed. User interaction is needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12LAndroid ID: A-176094367
+- [Live-Hack-CVE/CVE-2022-20442](https://github.com/Live-Hack-CVE/CVE-2022-20442)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20442">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20442">
 
 ---
 ## CVE-2022-20441 (2022-11-08T22:15:00)
@@ -19095,6 +19220,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-20419 (2022-10-11T20:15:00)
 > In setOptions of ActivityRecord.java, there is a possible load any arbitrary Java code into launcher process due to a logic error in the code. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-12L Android-13Android ID: A-237290578
 - [Live-Hack-CVE/CVE-2022-20419](https://github.com/Live-Hack-CVE/CVE-2022-20419)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20419">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20419">
+
+---
+## CVE-2022-20411 (2022-12-13T16:15:00)
+> In avdt_msg_asmbl of avdt_msg.cc, there is a possible out of bounds write due to a missing bounds check. This could lead to remote code execution over Bluetooth with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-232023771
+- [Live-Hack-CVE/CVE-2022-20411](https://github.com/Live-Hack-CVE/CVE-2022-20411)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20411">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20411">
 
 ---
 ## CVE-2022-20391 (2022-09-13T20:15:00)
@@ -19228,6 +19358,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-20280 (2022-08-12T15:15:00)
 > In MMSProvider, there is a possible read of protected data due to improper input validationSQL injection. This could lead to local information disclosure of sms/mms data with User execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-204117261
 - [Live-Hack-CVE/CVE-2022-20280](https://github.com/Live-Hack-CVE/CVE-2022-20280)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20280">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20280">
+
+---
+## CVE-2022-20240 (2022-12-13T16:15:00)
+> In sOpAllowSystemRestrictionBypass of AppOpsManager.java, there is a possible leak of location information due to a missing permission check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-12 Android-12LAndroid ID: A-231496105
+- [Live-Hack-CVE/CVE-2022-20240](https://github.com/Live-Hack-CVE/CVE-2022-20240)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20240">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20240">
 
 ---
 ## CVE-2022-20239 (2022-08-10T20:15:00)
