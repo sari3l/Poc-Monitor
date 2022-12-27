@@ -7047,9 +7047,34 @@
 - [Live-Hack-CVE/CVE-2022-39912](https://github.com/Live-Hack-CVE/CVE-2022-39912)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39912">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39912">
 
 ---
+## CVE-2022-39910 (2022-12-08T16:15:00)
+> Improper access control vulnerability in Samsung Pass prior to version 4.0.06.7 allow physical attackers to access data of Samsung Pass on a certain state of an unlocked device using pop-up view.
+- [Live-Hack-CVE/CVE-2022-39910](https://github.com/Live-Hack-CVE/CVE-2022-39910)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39910">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39910">
+
+---
+## CVE-2022-39909 (2022-12-08T16:15:00)
+> Insufficient verification of data authenticity vulnerability in Samsung Gear IconX PC Manager prior to version 2.1.221019.51 allows local attackers to create arbitrary file using symbolic link.
+- [Live-Hack-CVE/CVE-2022-39909](https://github.com/Live-Hack-CVE/CVE-2022-39909)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39909">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39909">
+
+---
+## CVE-2022-39908 (2022-12-08T16:15:00)
+> TOCTOU vulnerability in Samsung decoding library for video thumbnails prior to SMR Dec-2022 Release 1 allows local attacker to perform Out-Of-Bounds Write.
+- [Live-Hack-CVE/CVE-2022-39908](https://github.com/Live-Hack-CVE/CVE-2022-39908)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39908">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39908">
+
+---
+## CVE-2022-39906 (2022-12-08T16:15:00)
+> Improper access control vulnerability in SecTelephonyProvider prior to SMR Dec-2022 Release 1 allows attackers to access message information.
+- [Live-Hack-CVE/CVE-2022-39906](https://github.com/Live-Hack-CVE/CVE-2022-39906)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39906">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39906">
+
+---
 ## CVE-2022-39905 (2022-12-08T16:15:00)
 > Implicit intent hijacking vulnerability in Telecom application prior to SMR Dec-2022 Release 1 allows attacker to access sensitive information via implicit intent.
 - [Live-Hack-CVE/CVE-2022-39905](https://github.com/Live-Hack-CVE/CVE-2022-39905)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39905">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39905">
+
+---
+## CVE-2022-39904 (2022-12-08T16:15:00)
+> Exposure of Sensitive Information vulnerability in Samsung Settings prior to SMR Dec-2022 Release 1 allows local attackers to access the Network Access Identifier via log.
+- [Live-Hack-CVE/CVE-2022-39904](https://github.com/Live-Hack-CVE/CVE-2022-39904)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39904">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39904">
 
 ---
 ## CVE-2022-39902 (2022-12-08T16:15:00)
