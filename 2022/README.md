@@ -2511,6 +2511,16 @@
 - [wh-gov/CVE-2022-44215](https://github.com/wh-gov/CVE-2022-44215)	<img alt="forks" src="https://img.shields.io/github/forks/wh-gov/CVE-2022-44215">	<img alt="stars" src="https://img.shields.io/github/stars/wh-gov/CVE-2022-44215">
 
 ---
+## CVE-2022-44212 (2022-12-01T22:15:00)
+> In GL.iNet Goodcloud 1.0, insecure design allows remote attacker to access devices' admin panel.
+- [Live-Hack-CVE/CVE-2022-44212](https://github.com/Live-Hack-CVE/CVE-2022-44212)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44212">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44212">
+
+---
+## CVE-2022-44211 (2022-12-01T22:15:00)
+> In GL.iNet Goodcloud 1.1 Incorrect access control allows a remote attacker to access/change devices' settings.
+- [Live-Hack-CVE/CVE-2022-44211](https://github.com/Live-Hack-CVE/CVE-2022-44211)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44211">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44211">
+
+---
 ## CVE-2022-4421 (2022-12-12T14:15:00)
 > A vulnerability was found in rAthena FluxCP. It has been classified as problematic. Affected is an unknown function of the file themes/default/servicedesk/view.php of the component Service Desk Image URL Handler. The manipulation of the argument sslink leads to cross site scripting. It is possible to launch the attack remotely. The name of the patch is 8a39b2b2bf28353b3503ff1421862393db15aa7e. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-215304.
 - [Live-Hack-CVE/CVE-2022-4421](https://github.com/Live-Hack-CVE/CVE-2022-4421)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4421">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4421">
