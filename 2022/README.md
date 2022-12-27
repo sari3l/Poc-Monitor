@@ -3077,6 +3077,7 @@
 ## CVE-2022-4336 (2022-12-09T18:15:00)
 > In BAOTA linux panel there exists a stored xss vulnerability attackers can use to obtain sensitive information via the log analysis feature.
 - [Live-Hack-CVE/CVE-2022-4336](https://github.com/Live-Hack-CVE/CVE-2022-4336)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4336">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4336">
+- [sudoninja-noob/CVE-2022-43369](https://github.com/sudoninja-noob/CVE-2022-43369)	<img alt="forks" src="https://img.shields.io/github/forks/sudoninja-noob/CVE-2022-43369">	<img alt="stars" src="https://img.shields.io/github/stars/sudoninja-noob/CVE-2022-43369">
 
 ---
 ## CVE-2022-43355 (2022-11-01T01:15:00)
@@ -14893,6 +14894,7 @@
 ## CVE-2022-2993 (2022-12-09T20:15:00)
 > There is an error in the condition of the last if-statement in the function smp_check_keys. It was rejecting current keys if all requirements were unmet.
 - [Live-Hack-CVE/CVE-2022-2993](https://github.com/Live-Hack-CVE/CVE-2022-2993)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2993">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2993">
+- [Off3nS3c/CVE-2022-29932](https://github.com/Off3nS3c/CVE-2022-29932)	<img alt="forks" src="https://img.shields.io/github/forks/Off3nS3c/CVE-2022-29932">	<img alt="stars" src="https://img.shields.io/github/stars/Off3nS3c/CVE-2022-29932">
 
 ---
 ## CVE-2022-2992 (2022-10-17T16:15:00)

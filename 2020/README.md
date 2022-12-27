@@ -2319,6 +2319,11 @@
 - [Live-Hack-CVE/CVE-2020-12862](https://github.com/Live-Hack-CVE/CVE-2020-12862)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12862">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12862">
 
 ---
+## CVE-2020-12800 (2020-06-08T17:15:00)
+> The drag-and-drop-multiple-file-upload-contact-form-7 plugin before 1.3.3.3 for WordPress allows Unrestricted File Upload and remote code execution by setting supported_type to php% and uploading a .php% file.
+- [amartinsec/CVE-2020-12800](https://github.com/amartinsec/CVE-2020-12800)	<img alt="forks" src="https://img.shields.io/github/forks/amartinsec/CVE-2020-12800">	<img alt="stars" src="https://img.shields.io/github/stars/amartinsec/CVE-2020-12800">
+
+---
 ## CVE-2020-12783 (2020-05-11T14:15:00)
 > Exim through 4.93 has an out-of-bounds read in the SPA authenticator that could result in SPA/NTLM authentication bypass in auths/spa.c and auths/auth-spa.c.
 - [Live-Hack-CVE/CVE-2020-12783](https://github.com/Live-Hack-CVE/CVE-2020-12783)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12783">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12783">
