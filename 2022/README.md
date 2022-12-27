@@ -1544,6 +1544,7 @@
 ## CVE-2022-4522 (2022-12-15T21:15:00)
 > A vulnerability classified as problematic was found in CalendarXP up to 10.0.1. This vulnerability affects unknown code. The manipulation leads to cross site scripting. The attack can be initiated remotely. Upgrading to version 10.0.2 is able to address this issue. The name of the patch is e3715b2228ddefe00113296069969f9e184836da. It is recommended to upgrade the affected component. VDB-215902 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-4522](https://github.com/Live-Hack-CVE/CVE-2022-4522)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4522">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4522">
+- [Live-Hack-CVE/CVE-2022-4522](https://github.com/Live-Hack-CVE/CVE-2022-4522)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4522">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4522">
 
 ---
 ## CVE-2022-45217 (2022-12-07T14:15:00)
@@ -1575,6 +1576,7 @@
 ---
 ## CVE-2022-4520 (2022-12-15T21:15:00)
 > A vulnerability was found in WSO2 carbon-registry up to 4.8.11. It has been rated as problematic. Affected by this issue is some unknown functionality of the file components/registry/org.wso2.carbon.registry.search.ui/src/main/resources/web/search/advancedSearchForm-ajaxprocessor.jsp of the component Advanced Search. The manipulation of the argument mediaType/rightOp/leftOp/rightPropertyValue/leftPropertyValue leads to cross site scripting. The attack may be launched remotely. Upgrading to version 4.8.12 is able to address this issue. The name of the patch is 0c827cc1b14b82d8eb86117ab2e43c34bb91ddb4. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-215900.
+- [Live-Hack-CVE/CVE-2022-4520](https://github.com/Live-Hack-CVE/CVE-2022-4520)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4520">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4520">
 - [Live-Hack-CVE/CVE-2022-4520](https://github.com/Live-Hack-CVE/CVE-2022-4520)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4520">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4520">
 
 ---
@@ -1610,6 +1612,7 @@
 ---
 ## CVE-2022-4514 (2022-12-15T20:15:00)
 > A vulnerability, which was classified as problematic, was found in Opencaching Deutschland oc-server3. Affected is an unknown function of the file htdocs/lang/de/ocstyle/varset.inc.php. The manipulation of the argument varvalue leads to cross site scripting. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The name of the patch is 4bdd6a0e7b7760cea03b91812cbb80d7b16e3b5f. It is recommended to apply a patch to fix this issue. VDB-215886 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4514](https://github.com/Live-Hack-CVE/CVE-2022-4514)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4514">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4514">
 - [Live-Hack-CVE/CVE-2022-4514](https://github.com/Live-Hack-CVE/CVE-2022-4514)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4514">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4514">
 
 ---
@@ -1898,6 +1901,7 @@
 ---
 ## CVE-2022-44643 (2022-12-20T15:15:00)
 > A vulnerability in the label-based access control of Grafana Labs Grafana Enterprise Metrics allows an attacker more access than intended. If an access policy which has label selector restrictions also has been granted access to all tenants in the system, the label selector restrictions will not be applied when using this policy with the affected versions of the software. This issue affects: Grafana Labs Grafana Enterprise Metrics GEM 1.X versions prior to 1.7.1 on AMD64; GEM 2.X versions prior to 2.3.1 on AMD64.
+- [Live-Hack-CVE/CVE-2022-44643](https://github.com/Live-Hack-CVE/CVE-2022-44643)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44643">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44643">
 - [Live-Hack-CVE/CVE-2022-44643](https://github.com/Live-Hack-CVE/CVE-2022-44643)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44643">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44643">
 
 ---
@@ -4506,6 +4510,16 @@
 ## CVE-2022-41596 (2022-12-20T21:15:00)
 > The system tool has inconsistent serialization and deserialization. Successful exploitation of this vulnerability will cause unauthorized startup of components.
 - [Live-Hack-CVE/CVE-2022-41596](https://github.com/Live-Hack-CVE/CVE-2022-41596)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41596">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41596">
+
+---
+## CVE-2022-41591 (2022-12-20T21:15:00)
+> The backup module has a path traversal vulnerability. Successful exploitation of this vulnerability causes unauthorized access to other system files.
+- [Live-Hack-CVE/CVE-2022-41591](https://github.com/Live-Hack-CVE/CVE-2022-41591)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41591">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41591">
+
+---
+## CVE-2022-41590 (2022-12-20T21:15:00)
+> Some smartphones have authentication-related (including session management) vulnerabilities as the setup wizard is bypassed. Successful exploitation of this vulnerability affects the smartphone availability.
+- [Live-Hack-CVE/CVE-2022-41590](https://github.com/Live-Hack-CVE/CVE-2022-41590)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41590">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41590">
 
 ---
 ## CVE-2022-4159 (2022-12-26T13:15:00)
@@ -7413,6 +7427,11 @@
 ## CVE-2022-38744 (2022-10-27T14:15:00)
 > An unauthenticated attacker with network access to a victim's Rockwell Automation FactoryTalk Alarm and Events service could open a connection, causing the service to fault and become unavailable. The affected port could be used as a server ping port and uses messages structured with XML.
 - [Live-Hack-CVE/CVE-2022-38744](https://github.com/Live-Hack-CVE/CVE-2022-38744)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38744">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38744">
+
+---
+## CVE-2022-38733 (2022-12-20T21:15:00)
+> OnCommand Insight versions 7.3.1 through 7.3.14 are susceptible to an authentication bypass vulnerability in the Data Warehouse component.
+- [Live-Hack-CVE/CVE-2022-38733](https://github.com/Live-Hack-CVE/CVE-2022-38733)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38733">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38733">
 
 ---
 ## CVE-2022-3873 (2022-11-07T11:15:00)
@@ -16294,6 +16313,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-23543](https://github.com/Live-Hack-CVE/CVE-2022-23543)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23543">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23543">
 
 ---
+## CVE-2022-23542 (2022-12-20T21:15:00)
+> OpenFGA is an authorization/permission engine built for developers and inspired by Google Zanzibar. During an internal security assessment, it was discovered that OpenFGA version 0.3.0 is vulnerable to authorization bypass under certain conditions. This issue has been patched in version 0.3.1 and is backward compatible.
+- [Live-Hack-CVE/CVE-2022-23542](https://github.com/Live-Hack-CVE/CVE-2022-23542)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23542">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23542">
+
+---
 ## CVE-2022-23540 (2022-12-22T19:15:00)
 > In versions `<=8.5.1` of `jsonwebtoken` library, lack of algorithm definition in the `jwt.verify()` function can lead to signature validation bypass due to defaulting to the `none` algorithm for signature verification. Users are affected if you do not specify algorithms in the `jwt.verify()` function. This issue has been fixed, please update to version 9.0.0 which removes the default support for the none algorithm in the `jwt.verify()` method. There will be no impact, if you update to version 9.0.0 and you don’t need to allow for the `none` algorithm. If you need 'none' algorithm, you have to explicitly specify that in `jwt.verify()` options.
 - [Live-Hack-CVE/CVE-2022-23540](https://github.com/Live-Hack-CVE/CVE-2022-23540)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23540">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23540">
@@ -17977,10 +18001,20 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-20571](https://github.com/Live-Hack-CVE/CVE-2022-20571)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20571">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20571">
 
 ---
+## CVE-2022-20570 (2022-12-16T16:15:00)
+> Product: AndroidVersions: Android kernelAndroid ID: A-230660904References: N/A
+- [Live-Hack-CVE/CVE-2022-20570](https://github.com/Live-Hack-CVE/CVE-2022-20570)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20570">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20570">
+
+---
 ## CVE-2022-20569 (2022-12-16T16:15:00)
 > In thermal_cooling_device_stats_update of thermal_sysfs.c, there is a possible out of bounds write due to improper input validation. This could lead to local escalation of privilege in the kernel with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-229258234References: N/A
 - [Live-Hack-CVE/CVE-2022-20569](https://github.com/Live-Hack-CVE/CVE-2022-20569)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20569">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20569">
 - [Live-Hack-CVE/CVE-2022-20569](https://github.com/Live-Hack-CVE/CVE-2022-20569)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20569">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20569">
+
+---
+## CVE-2022-20568 (2022-12-16T16:15:00)
+> In (TBD) of (TBD), there is a possible way to corrupt kernel memory due to a use after free. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-220738351References: Upstream kernel
+- [Live-Hack-CVE/CVE-2022-20568](https://github.com/Live-Hack-CVE/CVE-2022-20568)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20568">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20568">
 
 ---
 ## CVE-2022-20567 (2022-12-16T16:15:00)
@@ -17989,9 +18023,19 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-20567](https://github.com/Live-Hack-CVE/CVE-2022-20567)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20567">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20567">
 
 ---
+## CVE-2022-20566 (2022-12-16T16:15:00)
+> In l2cap_chan_put of l2cap_core, there is a possible use after free due to improper locking. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-165329981References: Upstream kernel
+- [Live-Hack-CVE/CVE-2022-20566](https://github.com/Live-Hack-CVE/CVE-2022-20566)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20566">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20566">
+
+---
 ## CVE-2022-20564 (2022-12-16T16:15:00)
 > In _ufdt_output_strtab_to_fdt of ufdt_convert.c, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-243798789References: N/A
 - [Live-Hack-CVE/CVE-2022-20564](https://github.com/Live-Hack-CVE/CVE-2022-20564)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20564">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20564">
+
+---
+## CVE-2022-20563 (2022-12-16T16:15:00)
+> In TBD of ufdt_convert, there is a possible out of bounds read due to memory corruption. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-242067561References: N/A
+- [Live-Hack-CVE/CVE-2022-20563](https://github.com/Live-Hack-CVE/CVE-2022-20563)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20563">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20563">
 
 ---
 ## CVE-2022-20562 (2022-12-16T16:15:00)
@@ -17999,13 +18043,20 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-20562](https://github.com/Live-Hack-CVE/CVE-2022-20562)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20562">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20562">
 
 ---
+## CVE-2022-20561 (2022-12-16T16:15:00)
+> In TBD of aud_hal_tunnel.c, there is a possible memory corruption due to a use after free. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-222162870References: N/A
+- [Live-Hack-CVE/CVE-2022-20561](https://github.com/Live-Hack-CVE/CVE-2022-20561)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20561">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20561">
+
+---
 ## CVE-2022-20560 (2022-12-16T16:15:00)
 > Product: AndroidVersions: Android kernelAndroid ID: A-212623833References: N/A
+- [Live-Hack-CVE/CVE-2022-20560](https://github.com/Live-Hack-CVE/CVE-2022-20560)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20560">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20560">
 - [Live-Hack-CVE/CVE-2022-20560](https://github.com/Live-Hack-CVE/CVE-2022-20560)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20560">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20560">
 
 ---
 ## CVE-2022-20559 (2022-12-16T16:15:00)
 > In revokeOwnPermissionsOnKill of PermissionManager.java, there is a possible way to determine whether an app is installed, without query permissions, due to side channel information disclosure. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-219739967
+- [Live-Hack-CVE/CVE-2022-20559](https://github.com/Live-Hack-CVE/CVE-2022-20559)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20559">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20559">
 - [Live-Hack-CVE/CVE-2022-20559](https://github.com/Live-Hack-CVE/CVE-2022-20559)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20559">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20559">
 
 ---
@@ -18017,10 +18068,12 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-20557 (2022-12-16T16:15:00)
 > In MessageQueueBase of MessageQueueBase.h, there is a possible out of bounds read due to a missing bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-247092734
 - [Live-Hack-CVE/CVE-2022-20557](https://github.com/Live-Hack-CVE/CVE-2022-20557)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20557">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20557">
+- [Live-Hack-CVE/CVE-2022-20557](https://github.com/Live-Hack-CVE/CVE-2022-20557)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20557">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20557">
 
 ---
 ## CVE-2022-20556 (2022-12-16T16:15:00)
 > In launchConfigNewNetworkFragment of NetworkProviderSettings.java, there is a possible way for the guest user to add a new WiFi network due to a missing permission check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-246301667
+- [Live-Hack-CVE/CVE-2022-20556](https://github.com/Live-Hack-CVE/CVE-2022-20556)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20556">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20556">
 - [Live-Hack-CVE/CVE-2022-20556](https://github.com/Live-Hack-CVE/CVE-2022-20556)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20556">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20556">
 
 ---
@@ -18031,6 +18084,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ---
 ## CVE-2022-20554 (2022-12-16T16:15:00)
 > In removeEventHubDevice of InputDevice.cpp, there is a possible OOB read due to a use after free. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-245770596
+- [Live-Hack-CVE/CVE-2022-20554](https://github.com/Live-Hack-CVE/CVE-2022-20554)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20554">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20554">
 - [Live-Hack-CVE/CVE-2022-20554](https://github.com/Live-Hack-CVE/CVE-2022-20554)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20554">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20554">
 
 ---
@@ -18047,10 +18101,12 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-20550 (2022-12-16T16:15:00)
 > In Multiple Locations, there is a possibility to launch arbitrary protected activities due to a confused deputy. This could lead to local escalation of privilege with User execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-242845514
 - [Live-Hack-CVE/CVE-2022-20550](https://github.com/Live-Hack-CVE/CVE-2022-20550)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20550">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20550">
+- [Live-Hack-CVE/CVE-2022-20550](https://github.com/Live-Hack-CVE/CVE-2022-20550)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20550">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20550">
 
 ---
 ## CVE-2022-20549 (2022-12-16T16:15:00)
 > In authToken2AidlVec of KeyMintUtils.cpp, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-242702451
+- [Live-Hack-CVE/CVE-2022-20549](https://github.com/Live-Hack-CVE/CVE-2022-20549)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20549">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20549">
 - [Live-Hack-CVE/CVE-2022-20549](https://github.com/Live-Hack-CVE/CVE-2022-20549)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20549">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20549">
 
 ---
@@ -18124,6 +18180,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ---
 ## CVE-2022-20512 (2022-12-16T16:15:00)
 > In navigateUpTo of Task.java, there is a possible way to launch an intent handler with a mismatched intent due to improper input validation. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-238602879
+- [Live-Hack-CVE/CVE-2022-20512](https://github.com/Live-Hack-CVE/CVE-2022-20512)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20512">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20512">
 - [Live-Hack-CVE/CVE-2022-20512](https://github.com/Live-Hack-CVE/CVE-2022-20512)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20512">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20512">
 
 ---

@@ -1,6 +1,11 @@
 # 2021 List
 
 ---
+## CVE-2021-46856 (2022-12-20T21:15:00)
+> The multi-screen collaboration module has a path traversal vulnerability. Successful exploitation of this vulnerability may affect data confidentiality.
+- [Live-Hack-CVE/CVE-2021-46856](https://github.com/Live-Hack-CVE/CVE-2021-46856)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46856">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46856">
+
+---
 ## CVE-2021-46852 (2022-11-09T21:15:00)
 > The memory management module has the logic bypass vulnerability. Successful exploitation of this vulnerability may affect data confidentiality.
 - [Live-Hack-CVE/CVE-2021-46852](https://github.com/Live-Hack-CVE/CVE-2021-46852)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46852">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46852">
@@ -1641,6 +1646,11 @@
 ## CVE-2021-39175 (2021-08-30T21:15:00)
 > HedgeDoc is a platform to write and share markdown. In versions prior to 1.9.0, an unauthenticated attacker can inject arbitrary JavaScript into the speaker-notes of the slide-mode feature by embedding an iframe hosting the malicious code into the slides or by embedding the HedgeDoc instance into another page. The problem is patched in version 1.9.0. There are no known workarounds aside from upgrading.
 - [Live-Hack-CVE/CVE-2021-39175](https://github.com/Live-Hack-CVE/CVE-2021-39175)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39175">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39175">
+
+---
+## CVE-2021-39173 (2021-08-27T23:15:00)
+> Cachet is an open source status page system. Prior to version 2.5.1 authenticated users, regardless of their privileges (User or Admin), can trick Cachet and install the instance again, leading to arbitrary code execution on the server. This issue was addressed in version 2.5.1 by improving the middleware `ReadyForUse`, which now performs a stricter validation of the instance name. As a workaround, only allow trusted source IP addresses to access to the administration dashboard.
+- [Live-Hack-CVE/CVE-2021-39173](https://github.com/Live-Hack-CVE/CVE-2021-39173)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39173">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39173">
 
 ---
 ## CVE-2021-39172 (2021-08-27T23:15:00)
@@ -3760,6 +3770,7 @@
 ## CVE-2021-24728 (2021-09-13T18:15:00)
 > The Membership & Content Restriction – Paid Member Subscriptions WordPress plugin before 2.4.2 did not sanitise, validate or escape its order and orderby parameters before using them in SQL statement, leading to Authenticated SQL Injections in the Members and Payments pages.
 - [Live-Hack-CVE/CVE-2021-24728](https://github.com/Live-Hack-CVE/CVE-2021-24728)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24728">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24728">
+- [Live-Hack-CVE/CVE-2021-24728](https://github.com/Live-Hack-CVE/CVE-2021-24728)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24728">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24728">
 
 ---
 ## CVE-2021-24703 (2021-11-23T20:15:00)
@@ -3817,9 +3828,19 @@
 - [Live-Hack-CVE/CVE-2021-24595](https://github.com/Live-Hack-CVE/CVE-2021-24595)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24595">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24595">
 
 ---
+## CVE-2021-24586 (2021-09-13T18:15:00)
+> The Per page add to head WordPress plugin before 1.4.4 is lacking any CSRF check when saving its settings, which could allow attackers to make a logged in admin change them. Furthermore, as the plugin allows arbitrary HTML to be inserted in one of the setting (feature mentioned by the plugin), this could lead to Stored XSS issue which will be triggered either in the backend, frontend or both depending on the payload used.
+- [Live-Hack-CVE/CVE-2021-24586](https://github.com/Live-Hack-CVE/CVE-2021-24586)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24586">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24586">
+
+---
 ## CVE-2021-24584 (2021-09-20T10:15:00)
 > The Timetable and Event Schedule WordPress plugin before 2.4.2 does not have proper access control when updating a timeslot, allowing any user with the edit_posts capability (contributor+) to update arbitrary timeslot from any events. Furthermore, no CSRF check is in place as well, allowing such attack to be perform via CSRF against a logged in with such capability. In versions before 2.3.19, the lack of sanitisation and escaping in some of the fields, like the descritption could also lead to Stored XSS issues
 - [Live-Hack-CVE/CVE-2021-24584](https://github.com/Live-Hack-CVE/CVE-2021-24584)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24584">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24584">
+
+---
+## CVE-2021-24581 (2021-08-30T15:15:00)
+> The Blue Admin WordPress plugin through 21.06.01 does not sanitise or escape its "Logo Title" setting before outputting in a page, leading to a Stored Cross-Site Scripting issue. Furthermore, the plugin does not have CSRF check in place when saving its settings, allowing the issue to be exploited via a CSRF attack.
+- [Live-Hack-CVE/CVE-2021-24581](https://github.com/Live-Hack-CVE/CVE-2021-24581)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24581">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24581">
 
 ---
 ## CVE-2021-24570 (2021-11-01T09:15:00)
