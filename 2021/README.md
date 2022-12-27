@@ -1644,6 +1644,11 @@
 - [Live-Hack-CVE/CVE-2021-39191](https://github.com/Live-Hack-CVE/CVE-2021-39191)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39191">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39191">
 
 ---
+## CVE-2021-3919 (2022-12-12T13:15:00)
+> A potential security vulnerability has been identified in OMEN Gaming Hub and in HP Command Center which may allow escalation of privilege and/or denial of service. HP has released software updates to mitigate the potential vulnerability.
+- [Live-Hack-CVE/CVE-2021-3919](https://github.com/Live-Hack-CVE/CVE-2021-3919)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3919">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3919">
+
+---
 ## CVE-2021-39175 (2021-08-30T21:15:00)
 > HedgeDoc is a platform to write and share markdown. In versions prior to 1.9.0, an unauthenticated attacker can inject arbitrary JavaScript into the speaker-notes of the slide-mode feature by embedding an iframe hosting the malicious code into the slides or by embedding the HedgeDoc instance into another page. The problem is patched in version 1.9.0. There are no known workarounds aside from upgrading.
 - [Live-Hack-CVE/CVE-2021-39175](https://github.com/Live-Hack-CVE/CVE-2021-39175)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39175">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39175">
@@ -2040,6 +2045,11 @@
 ## CVE-2021-36631 (2022-12-22T02:15:00)
 > Untrusted search path vulnerability in Baidunetdisk Version 7.4.3 and earlier allows an attacker to gain privileges via a Trojan horse DLL in an unspecified directory.
 - [Live-Hack-CVE/CVE-2021-36631](https://github.com/Live-Hack-CVE/CVE-2021-36631)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36631">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36631">
+
+---
+## CVE-2021-3661 (2022-12-12T13:15:00)
+> A potential security vulnerability has been identified in certain HP Workstation BIOS (UEFI firmware) which may allow arbitrary code execution. HP is releasing firmware mitigations for the potential vulnerability.
+- [Live-Hack-CVE/CVE-2021-3661](https://github.com/Live-Hack-CVE/CVE-2021-3661)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3661">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3661">
 
 ---
 ## CVE-2021-36573 (2022-12-15T19:15:00)
@@ -2632,6 +2642,12 @@
 ## CVE-2021-34402 (2022-01-18T18:15:00)
 > NVIDIA Tegra kernel driver contains a vulnerability in NVIDIA NVDEC, where a user with high privileges might be able to read from or write to a memory location that is outside the intended boundary of the buffer, which may lead to denial of service, Information disclosure, loss of Integrity, or possible escalation of privileges.
 - [Live-Hack-CVE/CVE-2021-34402](https://github.com/Live-Hack-CVE/CVE-2021-34402)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34402">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34402">
+
+---
+## CVE-2021-3437 (2022-12-12T13:15:00)
+> Potential security vulnerabilities have been identified in an OMEN Gaming Hub SDK package which may allow escalation of privilege and/or denial of service. HP is releasing software updates to mitigate the potential vulnerabilities.
+- [Live-Hack-CVE/CVE-2021-3437](https://github.com/Live-Hack-CVE/CVE-2021-3437)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3437">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3437">
+- [zwjjustdoit/CVE-2021-34371.jar](https://github.com/zwjjustdoit/CVE-2021-34371.jar)	<img alt="forks" src="https://img.shields.io/github/forks/zwjjustdoit/CVE-2021-34371.jar">	<img alt="stars" src="https://img.shields.io/github/stars/zwjjustdoit/CVE-2021-34371.jar">
 
 ---
 ## CVE-2021-34326 (2021-07-13T11:15:00)

@@ -1712,6 +1712,11 @@
 - [Live-Hack-CVE/CVE-2020-2152](https://github.com/Live-Hack-CVE/CVE-2020-2152)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2152">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2152">
 
 ---
+## CVE-2020-21219 (2022-12-15T19:15:00)
+> Cross Site Scripting (XSS) vulnerability in Netgate pf Sense 2.4.4-Release-p3 and Netgate ACME package 0.6.3 allows remote attackers to to run arbitrary code via the RootFolder field to acme_certificate_edit.php page of the ACME package.
+- [Live-Hack-CVE/CVE-2020-21219](https://github.com/Live-Hack-CVE/CVE-2020-21219)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-21219">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-21219">
+
+---
 ## CVE-2020-21016 (2022-10-31T13:15:00)
 > D-Link DIR-846 devices with firmware 100A35 allow remote attackers to execute arbitrary code as root via HNAP1/control/SetGuestWLanSettings.php.
 - [Live-Hack-CVE/CVE-2020-21016](https://github.com/Live-Hack-CVE/CVE-2020-21016)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-21016">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-21016">
