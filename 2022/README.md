@@ -1381,6 +1381,11 @@
 - [Live-Hack-CVE/CVE-2022-45706](https://github.com/Live-Hack-CVE/CVE-2022-45706)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45706">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45706">
 
 ---
+## CVE-2022-45688 (2022-12-13T15:15:00)
+> A stack overflow in the XML.toJSONObject component of hutool-json v5.8.10 allows attackers to cause a Denial of Service (DoS) via crafted JSON or XML data.
+- [Live-Hack-CVE/CVE-2022-45688](https://github.com/Live-Hack-CVE/CVE-2022-45688)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45688">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45688">
+
+---
 ## CVE-2022-45666 (2022-12-20T15:15:00)
 > Tenda i22 V1.0.0.3(4687) was discovered to contain a buffer overflow via the list parameter in the formwrlSSIDset function.
 - [Live-Hack-CVE/CVE-2022-45666](https://github.com/Live-Hack-CVE/CVE-2022-45666)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45666">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45666">
@@ -2213,6 +2218,11 @@
 - [Live-Hack-CVE/CVE-2022-44462](https://github.com/Live-Hack-CVE/CVE-2022-44462)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44462">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44462">
 
 ---
+## CVE-2022-4446 (2022-12-13T12:15:00)
+> PHP Remote File Inclusion in GitHub repository tsolucio/corebos prior to 8.0.
+- [Live-Hack-CVE/CVE-2022-4446](https://github.com/Live-Hack-CVE/CVE-2022-4446)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4446">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4446">
+
+---
 ## CVE-2022-4440 (2022-12-14T06:15:00)
 > Use after free in Profiles in Google Chrome prior to 108.0.5359.124 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: Medium)
 - [Live-Hack-CVE/CVE-2022-4440](https://github.com/Live-Hack-CVE/CVE-2022-4440)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4440">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4440">
@@ -2271,6 +2281,11 @@
 ## CVE-2022-44351 (2022-12-07T19:15:00)
 > Skycaiji v2.5.1 was discovered to contain a deserialization vulnerability via /SkycaijiApp/admin/controller/Mystore.php.
 - [Live-Hack-CVE/CVE-2022-44351](https://github.com/Live-Hack-CVE/CVE-2022-44351)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44351">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44351">
+
+---
+## CVE-2022-44303 (2022-12-13T15:15:00)
+> Resque Scheduler version 1.27.4 is vulnerable to Cross-site scripting (XSS). A remote attacker could inject javascript code to the "{schedule_job}" or "args" parameter in /resque/delayed/jobs/{schedule_job}?args={args_id} to execute javascript at client side.
+- [Live-Hack-CVE/CVE-2022-44303](https://github.com/Live-Hack-CVE/CVE-2022-44303)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44303">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44303">
 
 ---
 ## CVE-2022-44289 (2022-12-06T16:15:00)
@@ -8346,6 +8361,11 @@
 ## CVE-2022-38138 (2022-10-11T21:15:00)
 > The Triangle Microworks IEC 61850 Library (Any client or server using the C language library with a version number of 11.2.0 or earlier and any client or server using the C++, C#, or Java language library with a version number of 5.0.1 or earlier) and 60870-6 (ICCP/TASE.2) Library (Any client or server using a C++ language library with a version number of 4.4.3 or earlier) are vulnerable to access given to a small number of uninitialized pointers within their code. This could allow an attacker to target any client or server using the affected libraries to cause a denial-of-service condition.
 - [Live-Hack-CVE/CVE-2022-38138](https://github.com/Live-Hack-CVE/CVE-2022-38138)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38138">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38138">
+
+---
+## CVE-2022-38124 (2022-12-13T14:15:00)
+> Debug tool in Secomea SiteManager allows logged-in administrator to modify system state in an unintended manner.
+- [Live-Hack-CVE/CVE-2022-38124](https://github.com/Live-Hack-CVE/CVE-2022-38124)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38124">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38124">
 
 ---
 ## CVE-2022-38123 (2022-12-06T16:15:00)
