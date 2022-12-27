@@ -2112,6 +2112,16 @@
 - [Live-Hack-CVE/CVE-2022-44678](https://github.com/Live-Hack-CVE/CVE-2022-44678)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44678">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44678">
 
 ---
+## CVE-2022-44654 (2022-12-12T13:15:00)
+> Affected builds of Trend Micro Apex One and Apex One as a Service contain a monitor engine component that is complied without the /SAFESEH memory protection mechanism which helps to monitor for malicious payloads. The affected component's memory protection mechanism has been updated to enhance product security.
+- [Live-Hack-CVE/CVE-2022-44654](https://github.com/Live-Hack-CVE/CVE-2022-44654)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44654">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44654">
+
+---
+## CVE-2022-44653 (2022-12-12T13:15:00)
+> A security agent directory traversal vulnerability in Trend Micro Apex One and Apex One as a Service could allow a local attacker to escalate privileges on affected installations. Please note: an attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability.
+- [Live-Hack-CVE/CVE-2022-44653](https://github.com/Live-Hack-CVE/CVE-2022-44653)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44653">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44653">
+
+---
 ## CVE-2022-44650 (2022-12-12T13:15:00)
 > A memory corruption vulnerability in the Unauthorized Change Prevention service of Trend Micro Apex One and Apex One as a Service could allow a local attacker to elevate privileges on affected installations. Please note: an attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability.
 - [Live-Hack-CVE/CVE-2022-44650](https://github.com/Live-Hack-CVE/CVE-2022-44650)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44650">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44650">
@@ -8924,6 +8934,7 @@
 ## CVE-2022-37928 (2022-12-12T13:15:00)
 > Insufficient Verification of Data Authenticity vulnerability in Hewlett Packard Enterprise HPE Nimble Storage Hybrid Flash Arrays and Nimble Storage Secondary Flash Arrays.
 - [Live-Hack-CVE/CVE-2022-37928](https://github.com/Live-Hack-CVE/CVE-2022-37928)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37928">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37928">
+- [Live-Hack-CVE/CVE-2022-37928](https://github.com/Live-Hack-CVE/CVE-2022-37928)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37928">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37928">
 
 ---
 ## CVE-2022-37913 (2022-10-28T02:15:00)
@@ -11359,6 +11370,7 @@
 ---
 ## CVE-2022-35295 (2022-09-13T16:15:00)
 > In SAP Host Agent (SAPOSCOL) - version 7.22, an attacker may use files created by saposcol to escalate privileges for themselves.
+- [Live-Hack-CVE/CVE-2022-35295](https://github.com/Live-Hack-CVE/CVE-2022-35295)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35295">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35295">
 - [Live-Hack-CVE/CVE-2022-35295](https://github.com/Live-Hack-CVE/CVE-2022-35295)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35295">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35295">
 
 ---
@@ -14391,6 +14403,7 @@
 ## CVE-2022-30284 (2022-05-04T22:15:00)
 > ** DISPUTED ** In the python-libnmap package through 0.7.2 for Python, remote command execution can occur (if used in a client application that does not validate arguments). NOTE: the vendor believes it would be unrealistic for an application to call NmapProcess with arguments taken from input data that arrived over an untrusted network, and thus the CVSS score corresponds to an unrealistic use case. None of the NmapProcess documentation implies that this is an expected use case.
 - [Live-Hack-CVE/CVE-2022-30284](https://github.com/Live-Hack-CVE/CVE-2022-30284)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30284">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30284">
+- [Live-Hack-CVE/CVE-2022-30284](https://github.com/Live-Hack-CVE/CVE-2022-30284)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30284">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30284">
 
 ---
 ## CVE-2022-30283 (2022-11-15T21:15:00)
@@ -16191,10 +16204,12 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-25837 (2022-12-12T04:15:00)
 > Bluetooth® Pairing in Bluetooth Core Specification v1.0B through v5.3 may permit an unauthenticated MITM to acquire credentials with two pairing devices via adjacent access when at least one device supports BR/EDR Secure Connections pairing and the other BR/EDR Legacy PIN code pairing if the MITM negotiates BR/EDR Secure Simple Pairing in Secure Connections mode using the Passkey association model with the pairing Initiator and BR/EDR Legacy PIN code pairing with the pairing Responder and brute forces the Passkey entered by the user into the Responder as a 6-digit PIN code. The MITM attacker can use the identified PIN code value as the Passkey value to complete authentication with the Initiator via Bluetooth pairing method confusion.
 - [Live-Hack-CVE/CVE-2022-25837](https://github.com/Live-Hack-CVE/CVE-2022-25837)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25837">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25837">
+- [Live-Hack-CVE/CVE-2022-25837](https://github.com/Live-Hack-CVE/CVE-2022-25837)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25837">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25837">
 
 ---
 ## CVE-2022-25836 (2022-12-12T04:15:00)
 > Bluetooth® Low Energy Pairing in Bluetooth Core Specification v4.0 through v5.3 may permit an unauthenticated MITM to acquire credentials with two pairing devices via adjacent access when the MITM negotiates Legacy Passkey Pairing with the pairing Initiator and Secure Connections Passkey Pairing with the pairing Responder and brute forces the Passkey entered by the user into the Initiator. The MITM attacker can use the identified Passkey value to complete authentication with the Responder via Bluetooth pairing method confusion.
+- [Live-Hack-CVE/CVE-2022-25836](https://github.com/Live-Hack-CVE/CVE-2022-25836)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25836">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25836">
 - [Live-Hack-CVE/CVE-2022-25836](https://github.com/Live-Hack-CVE/CVE-2022-25836)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25836">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25836">
 
 ---
@@ -19942,6 +19957,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1353 (2022-04-29T16:15:00)
 > A vulnerability was found in the pfkey_register function in net/key/af_key.c in the Linux kernel. This flaw allows a local, unprivileged user to gain access to kernel memory, leading to a system crash or a leak of internal kernel information.
 - [Live-Hack-CVE/CVE-2022-1353](https://github.com/Live-Hack-CVE/CVE-2022-1353)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1353">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1353">
+- [Live-Hack-CVE/CVE-2022-1353](https://github.com/Live-Hack-CVE/CVE-2022-1353)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1353">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1353">
 
 ---
 ## CVE-2022-1348 (2022-05-25T16:15:00)
@@ -20043,6 +20059,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ---
 ## CVE-2022-1195 (2022-04-29T16:15:00)
 > A use-after-free vulnerability was found in the Linux kernel in drivers/net/hamradio. This flaw allows a local attacker with a user privilege to cause a denial of service (DOS) when the mkiss or sixpack device is detached and reclaim resources early.
+- [Live-Hack-CVE/CVE-2022-1195](https://github.com/Live-Hack-CVE/CVE-2022-1195)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1195">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1195">
 - [Live-Hack-CVE/CVE-2022-1195](https://github.com/Live-Hack-CVE/CVE-2022-1195)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1195">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1195">
 
 ---

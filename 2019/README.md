@@ -513,6 +513,7 @@
 ## CVE-2019-4231 (2019-12-20T17:15:00)
 > IBM Cognos Analytics 11.0 and 11.1 is vulnerable to cross-site request forgery which could allow an attacker to execute malicious and unauthorized actions transmitted from a user that the website trusts. IBM X-Force ID: 159356.
 - [Live-Hack-CVE/CVE-2019-4231](https://github.com/Live-Hack-CVE/CVE-2019-4231)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4231">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4231">
+- [Live-Hack-CVE/CVE-2019-4231](https://github.com/Live-Hack-CVE/CVE-2019-4231)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4231">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4231">
 
 ---
 ## CVE-2019-4227 (2019-10-04T14:15:00)
@@ -825,10 +826,12 @@
 ## CVE-2019-19920 (2019-12-22T18:15:00)
 > sa-exim 4.2.1 allows attackers to execute arbitrary code if they can write a .cf file or a rule. This occurs because Greylisting.pm relies on eval (rather than direct parsing and/or use of the taint feature). This issue is similar to CVE-2018-11805.
 - [Live-Hack-CVE/CVE-2019-19920](https://github.com/Live-Hack-CVE/CVE-2019-19920)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19920">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19920">
+- [Live-Hack-CVE/CVE-2019-19920](https://github.com/Live-Hack-CVE/CVE-2019-19920)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19920">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19920">
 
 ---
 ## CVE-2019-19918 (2019-12-20T20:15:00)
 > Lout 3.40 has a heap-based buffer overflow in the srcnext() function in z02.c.
+- [Live-Hack-CVE/CVE-2019-19918](https://github.com/Live-Hack-CVE/CVE-2019-19918)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19918">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19918">
 - [Live-Hack-CVE/CVE-2019-19918](https://github.com/Live-Hack-CVE/CVE-2019-19918)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19918">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19918">
 
 ---
@@ -986,6 +989,7 @@
 - [HynekPetrak/log4shell-finder](https://github.com/HynekPetrak/log4shell-finder)	<img alt="forks" src="https://img.shields.io/github/forks/HynekPetrak/log4shell-finder">	<img alt="stars" src="https://img.shields.io/github/stars/HynekPetrak/log4shell-finder">
 - [Al1ex/CVE-2019-17571](https://github.com/Al1ex/CVE-2019-17571)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/CVE-2019-17571">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/CVE-2019-17571">
 - [shadow-horse/CVE-2019-17571](https://github.com/shadow-horse/CVE-2019-17571)	<img alt="forks" src="https://img.shields.io/github/forks/shadow-horse/CVE-2019-17571">	<img alt="stars" src="https://img.shields.io/github/stars/shadow-horse/CVE-2019-17571">
+- [Live-Hack-CVE/CVE-2019-17571](https://github.com/Live-Hack-CVE/CVE-2019-17571)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17571">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17571">
 
 ---
 ## CVE-2019-17570 (2020-01-23T22:15:00)

@@ -779,6 +779,7 @@
 ## CVE-2020-35895 (2020-12-31T10:15:00)
 > An issue was discovered in the stack crate before 0.3.1 for Rust. ArrayVec has an out-of-bounds write via element insertion.
 - [Live-Hack-CVE/CVE-2020-35895](https://github.com/Live-Hack-CVE/CVE-2020-35895)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35895">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35895">
+- [Live-Hack-CVE/CVE-2020-35895](https://github.com/Live-Hack-CVE/CVE-2020-35895)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35895">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35895">
 
 ---
 ## CVE-2020-3580 (2020-10-21T19:15:00)

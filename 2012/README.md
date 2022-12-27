@@ -76,6 +76,7 @@
 ## CVE-2012-0777 (2012-04-10T23:55:00)
 > The JavaScript API in Adobe Reader and Acrobat 9.x before 9.5.1 and 10.x before 10.1.3 on Mac OS X and Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors.
 - [Live-Hack-CVE/CVE-2012-0777](https://github.com/Live-Hack-CVE/CVE-2012-0777)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-0777">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-0777">
+- [Live-Hack-CVE/CVE-2012-0777](https://github.com/Live-Hack-CVE/CVE-2012-0777)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-0777">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-0777">
 
 ---
 ## CVE-2012-0578 (2013-01-17T01:55:00)

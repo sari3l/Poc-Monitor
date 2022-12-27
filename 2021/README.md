@@ -850,6 +850,7 @@
 ## CVE-2021-42192 (2022-05-04T11:15:00)
 > Konga v0.14.9 is affected by an incorrect access control vulnerability where a specially crafted request can lead to privilege escalation.
 - [Live-Hack-CVE/CVE-2021-42192](https://github.com/Live-Hack-CVE/CVE-2021-42192)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42192">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42192">
+- [Live-Hack-CVE/CVE-2021-42192](https://github.com/Live-Hack-CVE/CVE-2021-42192)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42192">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42192">
 
 ---
 ## CVE-2021-4218 (2022-08-24T16:15:00)
@@ -3767,6 +3768,7 @@
 ---
 ## CVE-2021-25086 (2022-05-02T16:15:00)
 > The Advanced Page Visit Counter WordPress plugin before 6.1.2 does not sanitise and escape some input before outputting it in an admin dashboard page, allowing unauthenticated attackers to perform Cross-Site Scripting attacks against admins viewing it
+- [Live-Hack-CVE/CVE-2021-25086](https://github.com/Live-Hack-CVE/CVE-2021-25086)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25086">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25086">
 - [Live-Hack-CVE/CVE-2021-25086](https://github.com/Live-Hack-CVE/CVE-2021-25086)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25086">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25086">
 
 ---
