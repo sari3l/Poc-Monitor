@@ -708,6 +708,7 @@
 ## CVE-2022-46414 (2022-12-04T05:15:00)
 > An issue was discovered in Veritas NetBackup Flex Scale through 3.0 and Access Appliance through 8.0.100. Unauthenticated remote command execution can occur via the management portal.
 - [Live-Hack-CVE/CVE-2022-46414](https://github.com/Live-Hack-CVE/CVE-2022-46414)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46414">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46414">
+- [Live-Hack-CVE/CVE-2022-46414](https://github.com/Live-Hack-CVE/CVE-2022-46414)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46414">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46414">
 
 ---
 ## CVE-2022-46413 (2022-12-04T05:15:00)
@@ -723,10 +724,12 @@
 ## CVE-2022-46411 (2022-12-04T05:15:00)
 > An issue was discovered in Veritas NetBackup Flex Scale through 3.0 and Access Appliance through 8.0.100. A default password is persisted after installation and may be discovered and used to escalate privileges.
 - [Live-Hack-CVE/CVE-2022-46411](https://github.com/Live-Hack-CVE/CVE-2022-46411)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46411">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46411">
+- [Live-Hack-CVE/CVE-2022-46411](https://github.com/Live-Hack-CVE/CVE-2022-46411)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46411">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46411">
 
 ---
 ## CVE-2022-46410 (2022-12-04T05:15:00)
 > An issue was discovered in Veritas NetBackup Flex Scale through 3.0. An attacker with non-root privileges may escalate privileges to root by using specific commands.
+- [Live-Hack-CVE/CVE-2022-46410](https://github.com/Live-Hack-CVE/CVE-2022-46410)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46410">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46410">
 - [Live-Hack-CVE/CVE-2022-46410](https://github.com/Live-Hack-CVE/CVE-2022-46410)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46410">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46410">
 
 ---
@@ -778,6 +781,7 @@
 ---
 ## CVE-2022-46391 (2022-12-04T03:15:00)
 > AWStats 7.x through 7.8 allows XSS in the hostinfo plugin due to printing a response from Net::XWhois without proper checks.
+- [Live-Hack-CVE/CVE-2022-46391](https://github.com/Live-Hack-CVE/CVE-2022-46391)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46391">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46391">
 - [Live-Hack-CVE/CVE-2022-46391](https://github.com/Live-Hack-CVE/CVE-2022-46391)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46391">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46391">
 
 ---
@@ -1046,6 +1050,11 @@
 - [Live-Hack-CVE/CVE-2022-46169](https://github.com/Live-Hack-CVE/CVE-2022-46169)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46169">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46169">
 
 ---
+## CVE-2022-46167 (2022-12-02T19:15:00)
+> Capsule is a multi-tenancy and policy-based framework for Kubernetes. Prior to version 0.1.3, a ServiceAccount deployed in a Tenant Namespace, when granted with `PATCH` capabilities on its own Namespace, is able to edit it and remove the Owner Reference, breaking the reconciliation of the Capsule Operator and removing all the enforcement like Pod Security annotations, Network Policies, Limit Range and Resource Quota items. An attacker could detach the Namespace from a Tenant that is forbidding starting privileged Pods using the Pod Security labels by removing the OwnerReference, removing the enforcement labels, and being able to start privileged containers that would be able to start a generic Kubernetes privilege escalation. Patches have been released for version 0.1.3. No known workarounds are available.
+- [Live-Hack-CVE/CVE-2022-46167](https://github.com/Live-Hack-CVE/CVE-2022-46167)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46167">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46167">
+
+---
 ## CVE-2022-46164 (2022-12-05T21:15:00)
 > NodeBB is an open source Node.js based forum software. Due to a plain object with a prototype being used in socket.io message handling a specially crafted payload can be used to impersonate other users and takeover accounts. This vulnerability has been patched in version 2.6.1. Users are advised to upgrade. Users unable to upgrade may cherry-pick commit `48d143921753914da45926cca6370a92ed0c46b8` into their codebase to patch the exploit.
 - [Live-Hack-CVE/CVE-2022-46164](https://github.com/Live-Hack-CVE/CVE-2022-46164)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46164">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46164">
@@ -1096,6 +1105,11 @@
 ## CVE-2022-46148 (2022-11-29T17:15:00)
 > Discourse is an open-source messaging platform. In versions 2.8.10 and prior on the `stable` branch and versions 2.9.0.beta11 and prior on the `beta` and `tests-passed` branches, users composing malicious messages and navigating to drafts page could self-XSS. This vulnerability can lead to a full XSS on sites which have modified or disabled Discourse’s default Content Security Policy. This issue is patched in the latest stable, beta and tests-passed versions of Discourse.
 - [Live-Hack-CVE/CVE-2022-46148](https://github.com/Live-Hack-CVE/CVE-2022-46148)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46148">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46148">
+
+---
+## CVE-2022-46145 (2022-12-02T18:15:00)
+> authentik is an open-source identity provider. Versions prior to 2022.11.2 and 2022.10.2 are vulnerable to unauthorized user creation and potential account takeover. With the default flows, unauthenticated users can create new accounts in authentik. If a flow exists that allows for email-verified password recovery, this can be used to overwrite the email address of admin accounts and take over their accounts. authentik 2022.11.2 and 2022.10.2 fix this issue. As a workaround, a policy can be created and bound to the `default-user-settings-flow flow` with the contents `return request.user.is_authenticated`.
+- [Live-Hack-CVE/CVE-2022-46145](https://github.com/Live-Hack-CVE/CVE-2022-46145)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46145">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46145">
 
 ---
 ## CVE-2022-46144 (2022-12-13T16:15:00)
@@ -1987,6 +2001,46 @@
 - [Live-Hack-CVE/CVE-2022-45005](https://github.com/Live-Hack-CVE/CVE-2022-45005)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45005">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45005">
 
 ---
+## CVE-2022-44961 (2022-12-02T20:15:00)
+> webtareas 2.4p5 was discovered to contain a cross-site scripting (XSS) vulnerability in the component /forums/editforum.php. This vulnerability allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Name field.
+- [Live-Hack-CVE/CVE-2022-44961](https://github.com/Live-Hack-CVE/CVE-2022-44961)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44961">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44961">
+
+---
+## CVE-2022-44960 (2022-12-02T20:15:00)
+> webtareas 2.4p5 was discovered to contain a cross-site scripting (XSS) vulnerability in the component /general/search.php?searchtype=simple. This vulnerability allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Search field.
+- [Live-Hack-CVE/CVE-2022-44960](https://github.com/Live-Hack-CVE/CVE-2022-44960)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44960">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44960">
+
+---
+## CVE-2022-44959 (2022-12-02T20:15:00)
+> webtareas 2.4p5 was discovered to contain a cross-site scripting (XSS) vulnerability in the component /meetings/listmeetings.php. This vulnerability allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Name field.
+- [Live-Hack-CVE/CVE-2022-44959](https://github.com/Live-Hack-CVE/CVE-2022-44959)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44959">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44959">
+
+---
+## CVE-2022-44957 (2022-12-02T20:15:00)
+> webtareas 2.4p5 was discovered to contain a cross-site scripting (XSS) vulnerability in the component /clients/listclients.php. This vulnerability allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Name field.
+- [Live-Hack-CVE/CVE-2022-44957](https://github.com/Live-Hack-CVE/CVE-2022-44957)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44957">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44957">
+
+---
+## CVE-2022-44956 (2022-12-02T20:15:00)
+> webtareas 2.4p5 was discovered to contain a cross-site scripting (XSS) vulnerability in the component /projects/listprojects.php. This vulnerability allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Name field.
+- [Live-Hack-CVE/CVE-2022-44956](https://github.com/Live-Hack-CVE/CVE-2022-44956)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44956">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44956">
+
+---
+## CVE-2022-44955 (2022-12-02T20:15:00)
+> webtareas 2.4p5 was discovered to contain a cross-site scripting (XSS) vulnerability in the Chat function. This vulnerability allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Messages field.
+- [Live-Hack-CVE/CVE-2022-44955](https://github.com/Live-Hack-CVE/CVE-2022-44955)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44955">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44955">
+
+---
+## CVE-2022-44954 (2022-12-02T20:15:00)
+> webtareas 2.4p5 was discovered to contain a cross-site scripting (XSS) vulnerability in the component /contacts/listcontacts.php. This vulnerability allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Last Name field after clicking "Add".
+- [Live-Hack-CVE/CVE-2022-44954](https://github.com/Live-Hack-CVE/CVE-2022-44954)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44954">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44954">
+
+---
+## CVE-2022-44953 (2022-12-02T20:15:00)
+> webtareas 2.4p5 was discovered to contain a cross-site scripting (XSS) vulnerability in the component /linkedcontent/listfiles.php. This vulnerability allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Name field after clicking "Add".
+- [Live-Hack-CVE/CVE-2022-44953](https://github.com/Live-Hack-CVE/CVE-2022-44953)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44953">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44953">
+
+---
 ## CVE-2022-44947 (2022-12-02T20:15:00)
 > Rukovoditel v3.2.1 was discovered to contain a stored cross-site scripting (XSS) vulnerability in the Highlight Row feature at /index.php?module=entities/listing_types&entities_id=24. This vulnerability allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Note field after clicking "Add".
 - [Live-Hack-CVE/CVE-2022-44947](https://github.com/Live-Hack-CVE/CVE-2022-44947)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44947">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44947">
@@ -1995,6 +2049,11 @@
 ## CVE-2022-44946 (2022-12-02T20:15:00)
 > Rukovoditel v3.2.1 was discovered to contain a stored cross-site scripting (XSS) vulnerability in the Add Page function at /index.php?module=help_pages/pages&entities_id=24. This vulnerability allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Title field.
 - [Live-Hack-CVE/CVE-2022-44946](https://github.com/Live-Hack-CVE/CVE-2022-44946)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44946">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44946">
+
+---
+## CVE-2022-44945 (2022-12-02T20:15:00)
+> Rukovoditel v3.2.1 was discovered to contain a SQL injection vulnerability via the heading_field_id parameter.
+- [Live-Hack-CVE/CVE-2022-44945](https://github.com/Live-Hack-CVE/CVE-2022-44945)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44945">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44945">
 
 ---
 ## CVE-2022-44944 (2022-12-02T20:15:00)
@@ -2473,6 +2532,16 @@
 ## CVE-2022-44303 (2022-12-13T15:15:00)
 > Resque Scheduler version 1.27.4 is vulnerable to Cross-site scripting (XSS). A remote attacker could inject javascript code to the "{schedule_job}" or "args" parameter in /resque/delayed/jobs/{schedule_job}?args={args_id} to execute javascript at client side.
 - [Live-Hack-CVE/CVE-2022-44303](https://github.com/Live-Hack-CVE/CVE-2022-44303)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44303">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44303">
+
+---
+## CVE-2022-44291 (2022-12-02T20:15:00)
+> webTareas 2.4p5 was discovered to contain a SQL injection vulnerability via the id parameter in phasesets.php.
+- [Live-Hack-CVE/CVE-2022-44291](https://github.com/Live-Hack-CVE/CVE-2022-44291)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44291">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44291">
+
+---
+## CVE-2022-44290 (2022-12-02T20:15:00)
+> webTareas 2.4p5 was discovered to contain a SQL injection vulnerability via the id parameter in deleteapprovalstages.php.
+- [Live-Hack-CVE/CVE-2022-44290](https://github.com/Live-Hack-CVE/CVE-2022-44290)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44290">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44290">
 
 ---
 ## CVE-2022-44289 (2022-12-06T16:15:00)
@@ -3816,6 +3885,11 @@
 - [Live-Hack-CVE/CVE-2022-42805](https://github.com/Live-Hack-CVE/CVE-2022-42805)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42805">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42805">
 
 ---
+## CVE-2022-4279 (2022-12-03T18:15:00)
+> A vulnerability classified as problematic has been found in SourceCodester Human Resource Management System 1.0. Affected is an unknown function of the file /hrm/employeeview.php. The manipulation of the argument search leads to cross site scripting. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-214776.
+- [Live-Hack-CVE/CVE-2022-4279](https://github.com/Live-Hack-CVE/CVE-2022-4279)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4279">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4279">
+
+---
 ## CVE-2022-42781 (2022-12-06T07:15:00)
 > In wlan driver, there is a possible missing bounds check, This could lead to local denial of service in wlan services.
 - [Live-Hack-CVE/CVE-2022-42781](https://github.com/Live-Hack-CVE/CVE-2022-42781)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42781">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42781">
@@ -3823,6 +3897,14 @@
 ---
 ## CVE-2022-42780 (2022-12-06T07:15:00)
 > In wlan driver, there is a possible missing bounds check, This could lead to local denial of service in wlan services.
+- [Live-Hack-CVE/CVE-2022-42780](https://github.com/Live-Hack-CVE/CVE-2022-42780)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42780">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42780">
+
+---
+## CVE-2022-4278 (2022-12-03T18:15:00)
+> A vulnerability was found in SourceCodester Human Resource Management System 1.0. It has been rated as critical. This issue affects some unknown processing of the file /hrm/employeeadd.php. The manipulation of the argument empid leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-214775.
+- [Live-Hack-CVE/CVE-2022-4278](https://github.com/Live-Hack-CVE/CVE-2022-4278)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4278">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4278">
+- [Live-Hack-CVE/CVE-2022-42782](https://github.com/Live-Hack-CVE/CVE-2022-42782)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42782">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42782">
+- [Live-Hack-CVE/CVE-2022-42781](https://github.com/Live-Hack-CVE/CVE-2022-42781)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42781">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42781">
 - [Live-Hack-CVE/CVE-2022-42780](https://github.com/Live-Hack-CVE/CVE-2022-42780)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42780">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42780">
 
 ---
@@ -3861,6 +3943,11 @@
 - [Live-Hack-CVE/CVE-2022-42770](https://github.com/Live-Hack-CVE/CVE-2022-42770)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42770">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42770">
 
 ---
+## CVE-2022-4277 (2022-12-03T18:15:00)
+> A vulnerability was found in Shaoxing Background Management System. It has been declared as critical. This vulnerability affects unknown code of the file /Default/Bd. The manipulation of the argument id leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB-214774 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4277](https://github.com/Live-Hack-CVE/CVE-2022-4277)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4277">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4277">
+
+---
 ## CVE-2022-42769 (2022-12-06T07:15:00)
 > In wlan driver, there is a possible missing bounds check, This could lead to local denial of service in wlan services.
 - [Live-Hack-CVE/CVE-2022-42769](https://github.com/Live-Hack-CVE/CVE-2022-42769)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42769">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42769">
@@ -3894,6 +3981,11 @@
 ## CVE-2022-42760 (2022-12-06T07:15:00)
 > In wlan driver, there is a possible missing bounds check, This could lead to local denial of service in wlan services.
 - [Live-Hack-CVE/CVE-2022-42760](https://github.com/Live-Hack-CVE/CVE-2022-42760)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42760">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42760">
+
+---
+## CVE-2022-4276 (2022-12-03T16:15:00)
+> A vulnerability was found in House Rental System and classified as critical. Affected by this issue is some unknown functionality of the file tenant-engine.php of the component POST Request Handler. The manipulation of the argument id_photo leads to unrestricted upload. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-214772.
+- [Live-Hack-CVE/CVE-2022-4276](https://github.com/Live-Hack-CVE/CVE-2022-4276)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4276">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4276">
 
 ---
 ## CVE-2022-42759 (2022-12-06T07:15:00)
@@ -3930,13 +4022,29 @@
 - [Live-Hack-CVE/CVE-2022-42754](https://github.com/Live-Hack-CVE/CVE-2022-42754)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42754">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42754">
 
 ---
+## CVE-2022-4275 (2022-12-03T16:15:00)
+> A vulnerability has been found in House Rental System and classified as critical. Affected by this vulnerability is an unknown functionality of the file search-property.php of the component POST Request Handler. The manipulation of the argument search_property leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-214771.
+- [Live-Hack-CVE/CVE-2022-4275](https://github.com/Live-Hack-CVE/CVE-2022-4275)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4275">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4275">
+
+---
+## CVE-2022-4274 (2022-12-03T16:15:00)
+> A vulnerability, which was classified as critical, was found in House Rental System. Affected is an unknown function of the file /view-property.php. The manipulation of the argument property_id leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. VDB-214770 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4274](https://github.com/Live-Hack-CVE/CVE-2022-4274)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4274">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4274">
+
+---
 ## CVE-2022-42731 (2022-10-11T14:15:00)
 > mfa/FIDO2.py in django-mfa2 before 2.5.1 and 2.6.x before 2.6.1 allows a replay attack that could be used to register another device for a user. The device registration challenge is not invalidated after usage.
 - [Live-Hack-CVE/CVE-2022-42731](https://github.com/Live-Hack-CVE/CVE-2022-42731)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42731">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42731">
 
 ---
+## CVE-2022-4273 (2022-12-03T09:15:00)
+> A vulnerability, which was classified as critical, has been found in SourceCodester Human Resource Management System 1.0. This issue affects some unknown processing of the file /hrm/controller/employee.php of the component Content-Type Handler. The manipulation of the argument pfimg leads to unrestricted upload. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-214769 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4273](https://github.com/Live-Hack-CVE/CVE-2022-4273)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4273">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4273">
+
+---
 ## CVE-2022-4272 (2022-12-03T09:15:00)
 > A vulnerability, which was classified as critical, has been found in FeMiner wms. Affected by this issue is some unknown functionality of the file /product/savenewproduct.php?flag=1. The manipulation of the argument upfile leads to unrestricted upload. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-214760.
+- [Live-Hack-CVE/CVE-2022-4272](https://github.com/Live-Hack-CVE/CVE-2022-4272)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4272">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4272">
 - [Live-Hack-CVE/CVE-2022-4272](https://github.com/Live-Hack-CVE/CVE-2022-4272)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4272">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4272">
 
 ---
@@ -12020,6 +12128,11 @@
 - [Live-Hack-CVE/CVE-2022-35204](https://github.com/Live-Hack-CVE/CVE-2022-35204)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35204">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35204">
 
 ---
+## CVE-2022-3520 (2022-12-02T19:15:00)
+> Heap-based Buffer Overflow in GitHub repository vim/vim prior to 9.0.0765.
+- [Live-Hack-CVE/CVE-2022-3520](https://github.com/Live-Hack-CVE/CVE-2022-3520)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3520">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3520">
+
+---
 ## CVE-2022-35198 (2022-08-18T06:15:00)
 > Contract Management System v2.0 contains a weak default password which gives attackers to access database connection information.
 - [Live-Hack-CVE/CVE-2022-35198](https://github.com/Live-Hack-CVE/CVE-2022-35198)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35198">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35198">
@@ -12435,6 +12548,11 @@
 ## CVE-2022-34916 (2022-08-21T09:15:00)
 > Apache Flume versions 1.4.0 through 1.10.0 are vulnerable to a remote code execution (RCE) attack when a configuration uses a JMS Source with a JNDI LDAP data source URI when an attacker has control of the target LDAP server. This issue is fixed by limiting JNDI to allow only the use of the java protocol or no protocol.
 - [Live-Hack-CVE/CVE-2022-34916](https://github.com/Live-Hack-CVE/CVE-2022-34916)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34916">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34916">
+
+---
+## CVE-2022-3491 (2022-12-03T13:15:00)
+> Heap-based Buffer Overflow in GitHub repository vim/vim prior to 9.0.0742.
+- [Live-Hack-CVE/CVE-2022-3491](https://github.com/Live-Hack-CVE/CVE-2022-3491)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3491">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3491">
 
 ---
 ## CVE-2022-34881 (2022-12-06T02:15:00)
@@ -16569,15 +16687,18 @@
 ## CVE-2022-2642 (2022-12-02T20:15:00)
 > Horner Automation’s RCC 972 firmware version 15.40 contains global variables. This could allow an attacker to read out sensitive values and variable keys from the device.
 - [Live-Hack-CVE/CVE-2022-2642](https://github.com/Live-Hack-CVE/CVE-2022-2642)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2642">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2642">
+- [Live-Hack-CVE/CVE-2022-2642](https://github.com/Live-Hack-CVE/CVE-2022-2642)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2642">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2642">
 
 ---
 ## CVE-2022-2641 (2022-12-02T20:15:00)
 > Horner Automation’s RCC 972 with firmware version 15.40 has a static encryption key on the device. This could allow an attacker to perform unauthorized changes to the device, remotely execute arbitrary code, or cause a denial-of-service condition.
 - [Live-Hack-CVE/CVE-2022-2641](https://github.com/Live-Hack-CVE/CVE-2022-2641)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2641">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2641">
+- [Live-Hack-CVE/CVE-2022-2641](https://github.com/Live-Hack-CVE/CVE-2022-2641)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2641">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2641">
 
 ---
 ## CVE-2022-2640 (2022-12-02T20:15:00)
 > The Config-files of Horner Automation’s RCC 972 with firmware version 15.40 are encrypted with weak XOR encryption vulnerable to reverse engineering. This could allow an attacker to obtain credentials to run services such as File Transfer Protocol (FTP) and Hypertext Transfer Protocol (HTTP).
+- [Live-Hack-CVE/CVE-2022-2640](https://github.com/Live-Hack-CVE/CVE-2022-2640)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2640">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2640">
 - [Live-Hack-CVE/CVE-2022-2640](https://github.com/Live-Hack-CVE/CVE-2022-2640)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2640">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2640">
 
 ---
