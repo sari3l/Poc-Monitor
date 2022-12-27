@@ -731,6 +731,26 @@
 - [black-mirror/Weblogic](https://github.com/black-mirror/Weblogic)	<img alt="forks" src="https://img.shields.io/github/forks/black-mirror/Weblogic">	<img alt="stars" src="https://img.shields.io/github/stars/black-mirror/Weblogic">
 
 ---
+## CVE-2019-25089 (2022-12-27T12:15:00)
+> A vulnerability has been found in Morgawr Muon 0.1.1 and classified as problematic. Affected by this vulnerability is an unknown functionality of the file src/muon/handler.clj. The manipulation leads to insufficiently random values. The attack can be launched remotely. Upgrading to version 0.2.0-indev is able to address this issue. The name of the patch is c09ed972c020f759110c707b06ca2644f0bacd7f. It is recommended to upgrade the affected component. The identifier VDB-216877 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2019-25089](https://github.com/Live-Hack-CVE/CVE-2019-25089)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25089">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25089">
+
+---
+## CVE-2019-25088 (2022-12-27T10:15:00)
+> A vulnerability was found in ytti Oxidized Web. It has been classified as problematic. Affected is an unknown function of the file lib/oxidized/web/views/conf_search.haml. The manipulation of the argument to_research leads to cross site scripting. It is possible to launch the attack remotely. The name of the patch is 55ab9bdc68b03ebce9280b8746ef31d7fdedcc45. It is recommended to apply a patch to fix this issue. VDB-216870 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2019-25088](https://github.com/Live-Hack-CVE/CVE-2019-25088)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25088">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25088">
+
+---
+## CVE-2019-25087 (2022-12-27T09:15:00)
+> A vulnerability was found in RamseyK httpserver. It has been rated as critical. This issue affects the function ResourceHost::getResource of the file src/ResourceHost.cpp of the component URI Handler. The manipulation of the argument uri leads to path traversal: '../filedir'. The attack may be initiated remotely. The name of the patch is 1a0de56e4dafff9c2f9c8f6b130a764f7a50df52. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-216863.
+- [Live-Hack-CVE/CVE-2019-25087](https://github.com/Live-Hack-CVE/CVE-2019-25087)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25087">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25087">
+
+---
+## CVE-2019-25086 (2022-12-27T09:15:00)
+> A vulnerability was found in IET-OU Open Media Player up to 1.5.0. It has been declared as problematic. This vulnerability affects the function webvtt of the file application/controllers/timedtext.php. The manipulation of the argument ttml_url leads to cross site scripting. The attack can be initiated remotely. Upgrading to version 1.5.1 is able to address this issue. The name of the patch is 3f39f2d68d11895929c04f7b49b97a734ae7cd1f. It is recommended to upgrade the affected component. VDB-216862 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2019-25086](https://github.com/Live-Hack-CVE/CVE-2019-25086)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25086">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25086">
+
+---
 ## CVE-2019-25084 (2022-12-25T18:15:00)
 > A vulnerability, which was classified as problematic, has been found in Hide Files on GitHub up to 2.x. This issue affects the function addEventListener of the file extension/options.js. The manipulation leads to cross site scripting. The attack may be initiated remotely. Upgrading to version 3.0.0 is able to address this issue. The name of the patch is 9de0c57df81db1178e0e79431d462f6d9842742e. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-216767.
 - [Live-Hack-CVE/CVE-2019-25084](https://github.com/Live-Hack-CVE/CVE-2019-25084)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25084">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25084">

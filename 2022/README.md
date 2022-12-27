@@ -113,6 +113,12 @@
 - [Live-Hack-CVE/CVE-2022-47551](https://github.com/Live-Hack-CVE/CVE-2022-47551)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47551">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47551">
 
 ---
+## CVE-2022-4755 (2022-12-27T10:15:00)
+> A vulnerability was found in FlatPress and classified as problematic. This issue affects the function main of the file fp-plugins/mediamanager/panels/panel.mediamanager.file.php of the component Media Manager Plugin. The manipulation of the argument mm-newgallery-name leads to cross site scripting. The attack may be initiated remotely. The name of the patch is d3f329496536dc99f9707f2f295d571d65a496f5. It is recommended to apply a patch to fix this issue. The identifier VDB-216869 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4755](https://github.com/Live-Hack-CVE/CVE-2022-4755)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4755">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4755">
+- [Live-Hack-CVE/CVE-2022-47551](https://github.com/Live-Hack-CVE/CVE-2022-47551)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47551">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47551">
+
+---
 ## CVE-2022-47549 (2022-12-19T09:15:00)
 > An unprotected memory-access operation in optee_os in TrustedFirmware Open Portable Trusted Execution Environment (OP-TEE) before 3.20 allows a physically proximate adversary to bypass signature verification and install malicious trusted applications via electromagnetic fault injections.
 - [Live-Hack-CVE/CVE-2022-47549](https://github.com/Live-Hack-CVE/CVE-2022-47549)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47549">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47549">
@@ -173,6 +179,11 @@
 > URL Redirection to Untrusted Site ('Open Redirect') vulnerability in Apache Software Foundation Apache Helix UI component.This issue affects Apache Helix all releases from 0.8.0 to 1.0.4. Solution: removed the the forward component since it was improper designed for UI embedding. User please upgrade to 1.1.0 to fix this issue.
 - [Live-Hack-CVE/CVE-2022-47500](https://github.com/Live-Hack-CVE/CVE-2022-47500)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47500">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47500">
 - [Live-Hack-CVE/CVE-2022-47500](https://github.com/Live-Hack-CVE/CVE-2022-47500)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47500">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47500">
+
+---
+## CVE-2022-4748 (2022-12-27T09:15:00)
+> A vulnerability was found in FlatPress. It has been classified as critical. This affects the function doItemActions of the file fp-plugins/mediamanager/panels/panel.mediamanager.file.php of the component File Delete Handler. The manipulation of the argument deletefile leads to path traversal. The name of the patch is 5d5c7f6d8f072d14926fc2c3a97cdd763802f170. It is recommended to apply a patch to fix this issue. The identifier VDB-216861 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4748](https://github.com/Live-Hack-CVE/CVE-2022-4748)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4748">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4748">
 
 ---
 ## CVE-2022-47411 (2022-12-14T21:15:00)
@@ -265,6 +276,7 @@
 ---
 ## CVE-2022-47211 (2022-12-13T19:15:00)
 > Microsoft Office Graphics Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-26804, CVE-2022-26805, CVE-2022-26806, CVE-2022-44692, CVE-2022-47212, CVE-2022-47213.
+- [Live-Hack-CVE/CVE-2022-47211](https://github.com/Live-Hack-CVE/CVE-2022-47211)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47211">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47211">
 - [Live-Hack-CVE/CVE-2022-47211](https://github.com/Live-Hack-CVE/CVE-2022-47211)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47211">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47211">
 
 ---
@@ -727,6 +739,7 @@
 ## CVE-2022-46381 (2022-12-13T22:15:00)
 > Certain Linear eMerge E3-Series devices are vulnerable to XSS via the type parameter (e.g., to the badging/badge_template_v0.php component). This affects 0.32-08f, 0.32-07p, 0.32-07e, 0.32-09c, 0.32-09b, 0.32-09a, and 0.32-08e.
 - [amitlttwo/CVE-2022-46381](https://github.com/amitlttwo/CVE-2022-46381)	<img alt="forks" src="https://img.shields.io/github/forks/amitlttwo/CVE-2022-46381">	<img alt="stars" src="https://img.shields.io/github/stars/amitlttwo/CVE-2022-46381">
+- [Live-Hack-CVE/CVE-2022-46381](https://github.com/Live-Hack-CVE/CVE-2022-46381)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46381">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46381">
 - [Live-Hack-CVE/CVE-2022-46381](https://github.com/Live-Hack-CVE/CVE-2022-46381)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46381">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46381">
 
 ---
@@ -1286,6 +1299,7 @@
 ## CVE-2022-45796 (2022-12-16T16:15:00)
 > Command injection vulnerability in nw_interface.html in SHARP multifunction printers (MFPs)'s Digital Full-color Multifunctional System 202 or earlier, 120 or earlier, 600 or earlier, 121 or earlier, 500 or earlier, 402 or earlier, 790 or earlier, and Digital Multifunctional System (Monochrome) 200 or earlier, 211 or earlier, 102 or earlier, 453 or earlier, 400 or earlier, 202 or earlier, 602 or earlier, 500 or earlier, 401 or earlier allows remote attackers to execute arbitrary commands via unspecified vectors.
 - [Live-Hack-CVE/CVE-2022-45796](https://github.com/Live-Hack-CVE/CVE-2022-45796)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45796">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45796">
+- [Live-Hack-CVE/CVE-2022-45796](https://github.com/Live-Hack-CVE/CVE-2022-45796)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45796">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45796">
 
 ---
 ## CVE-2022-45771 (2022-12-05T20:15:00)
@@ -1768,6 +1782,7 @@
 ## CVE-2022-45005 (2022-12-13T19:15:00)
 > IP-COM EW9 V15.11.0.14(9732) was discovered to contain a command injection vulnerability in the cmd_get_ping_output function.
 - [Live-Hack-CVE/CVE-2022-45005](https://github.com/Live-Hack-CVE/CVE-2022-45005)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45005">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45005">
+- [Live-Hack-CVE/CVE-2022-45005](https://github.com/Live-Hack-CVE/CVE-2022-45005)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45005">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45005">
 
 ---
 ## CVE-2022-44947 (2022-12-02T20:15:00)
@@ -1833,6 +1848,7 @@
 ---
 ## CVE-2022-44874 (2022-12-13T23:15:00)
 > wasm3 commit 7890a2097569fde845881e0b352d813573e371f9 was discovered to contain a segmentation fault via the component op_CallIndirect at /m3_exec.h.
+- [Live-Hack-CVE/CVE-2022-44874](https://github.com/Live-Hack-CVE/CVE-2022-44874)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44874">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44874">
 - [Live-Hack-CVE/CVE-2022-44874](https://github.com/Live-Hack-CVE/CVE-2022-44874)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44874">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44874">
 
 ---
@@ -1966,6 +1982,7 @@
 ---
 ## CVE-2022-44702 (2022-12-13T19:15:00)
 > Windows Terminal Remote Code Execution Vulnerability.
+- [Live-Hack-CVE/CVE-2022-44702](https://github.com/Live-Hack-CVE/CVE-2022-44702)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44702">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44702">
 - [Live-Hack-CVE/CVE-2022-44702](https://github.com/Live-Hack-CVE/CVE-2022-44702)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44702">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44702">
 
 ---
@@ -2410,6 +2427,7 @@
 ---
 ## CVE-2022-43996 (2022-12-13T22:15:00)
 > The csaf_provider package before 0.8.2 allows XSS via a crafted CSAF document uploaded as text/html. The endpoint upload allows valid CSAF advisories (JSON format) to be uploaded with Content-Type text/html and filenames ending in .html. When subsequently accessed via web browser, these advisories are served and interpreted as HTML pages. Such uploaded advisories can contain JavaScript code that will execute within the browser context of users inspecting the advisory.
+- [Live-Hack-CVE/CVE-2022-43996](https://github.com/Live-Hack-CVE/CVE-2022-43996)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43996">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43996">
 - [Live-Hack-CVE/CVE-2022-43996](https://github.com/Live-Hack-CVE/CVE-2022-43996)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43996">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43996">
 
 ---
@@ -3992,15 +4010,18 @@
 ## CVE-2022-42141 (2022-12-14T00:15:00)
 > Delta Electronics DX-2100-L1-CN 2.42 is vulnerable to Cross Site Scripting (XSS) via lform/urlfilter.
 - [Live-Hack-CVE/CVE-2022-42141](https://github.com/Live-Hack-CVE/CVE-2022-42141)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42141">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42141">
+- [Live-Hack-CVE/CVE-2022-42141](https://github.com/Live-Hack-CVE/CVE-2022-42141)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42141">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42141">
 
 ---
 ## CVE-2022-42140 (2022-12-14T00:15:00)
 > Delta Electronics DX-2100-L1-CN 2.42 is vulnerable to Command Injection via lform/net_diagnose.
 - [Live-Hack-CVE/CVE-2022-42140](https://github.com/Live-Hack-CVE/CVE-2022-42140)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42140">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42140">
+- [Live-Hack-CVE/CVE-2022-42140](https://github.com/Live-Hack-CVE/CVE-2022-42140)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42140">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42140">
 
 ---
 ## CVE-2022-42139 (2022-12-14T00:15:00)
 > Delta Electronics DVW-W02W2-E2 1.5.0.10 is vulnerable to Command Injection via Crafted URL.
+- [Live-Hack-CVE/CVE-2022-42139](https://github.com/Live-Hack-CVE/CVE-2022-42139)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42139">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42139">
 - [Live-Hack-CVE/CVE-2022-42139](https://github.com/Live-Hack-CVE/CVE-2022-42139)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42139">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42139">
 
 ---
@@ -4594,6 +4615,7 @@
 ---
 ## CVE-2022-41653 (2022-12-13T22:15:00)
 > Daikin SVMPC1 version 2.1.22 and prior and SVMPC2 version 1.2.3 and prior are vulnerable to an attacker obtaining user login credentials and control the system.
+- [Live-Hack-CVE/CVE-2022-41653](https://github.com/Live-Hack-CVE/CVE-2022-41653)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41653">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41653">
 - [Live-Hack-CVE/CVE-2022-41653](https://github.com/Live-Hack-CVE/CVE-2022-41653)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41653">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41653">
 
 ---
@@ -7886,6 +7908,7 @@
 ## CVE-2022-38355 (2022-12-13T22:15:00)
 > Daikin SVMPC1 version 2.1.22 and prior and SVMPC2 version 1.2.3 and prior are vulnerable to attackers with access to the local area network (LAN) to disclose sensitive information stored by the affected product without requiring authentication.
 - [Live-Hack-CVE/CVE-2022-38355](https://github.com/Live-Hack-CVE/CVE-2022-38355)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38355">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38355">
+- [Live-Hack-CVE/CVE-2022-38355](https://github.com/Live-Hack-CVE/CVE-2022-38355)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38355">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38355">
 
 ---
 ## CVE-2022-3835 (2022-12-26T13:15:00)
@@ -9159,6 +9182,7 @@
 ---
 ## CVE-2022-37155 (2022-12-14T00:15:00)
 > RCE in SPIP 3.1.13 through 4.1.2 allows remote authenticated users to execute arbitrary code via a GET parameter
+- [Live-Hack-CVE/CVE-2022-37155](https://github.com/Live-Hack-CVE/CVE-2022-37155)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37155">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37155">
 - [Live-Hack-CVE/CVE-2022-37155](https://github.com/Live-Hack-CVE/CVE-2022-37155)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37155">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37155">
 
 ---
@@ -15122,6 +15146,7 @@
 ## CVE-2022-2757 (2022-12-13T22:15:00)
 > Due to the lack of adequately implemented access-control rules, all versions Kingspan TMS300 CS are vulnerable to an attacker viewing and modifying the application settings without authenticating by accessing a specific uniform resource locator (URL) on the webserver.
 - [Live-Hack-CVE/CVE-2022-2757](https://github.com/Live-Hack-CVE/CVE-2022-2757)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2757">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2757">
+- [Live-Hack-CVE/CVE-2022-2757](https://github.com/Live-Hack-CVE/CVE-2022-2757)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2757">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2757">
 
 ---
 ## CVE-2022-2756 (2022-08-10T16:15:00)
@@ -16628,6 +16653,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ---
 ## CVE-2022-23499 (2022-12-13T21:15:00)
 > HTML sanitizer is written in PHP, aiming to provide XSS-safe markup based on explicitly allowed tags, attributes and values. In versions prior to 1.5.0 or 2.1.1, malicious markup used in a sequence with special HTML CDATA sections cannot be filtered and sanitized due to a parsing issue in the upstream package masterminds/html5. This allows bypassing the cross-site scripting mechanism of typo3/html-sanitizer. The upstream package masterminds/html5 provides HTML raw text elements (`script`, `style`, `noframes`, `noembed` and `iframe`) as DOMText nodes, which were not processed and sanitized further. None of the mentioned elements were defined in the default builder configuration, that's why only custom behaviors, using one of those tag names, were vulnerable to cross-site scripting. This issue has been fixed in versions 1.5.0 and 2.1.1.
+- [Live-Hack-CVE/CVE-2022-23499](https://github.com/Live-Hack-CVE/CVE-2022-23499)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23499">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23499">
 - [Live-Hack-CVE/CVE-2022-23499](https://github.com/Live-Hack-CVE/CVE-2022-23499)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23499">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23499">
 
 ---

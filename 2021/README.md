@@ -622,6 +622,36 @@
 - [Live-Hack-CVE/CVE-2021-43019](https://github.com/Live-Hack-CVE/CVE-2021-43019)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43019">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43019">
 
 ---
+## CVE-2021-4287 (2022-12-27T11:15:00)
+> A vulnerability, which was classified as problematic, was found in ReFirm Labs binwalk up to 2.3.2. Affected is an unknown function of the file src/binwalk/modules/extractor.py of the component Archive Extraction Handler. The manipulation leads to symlink following. It is possible to launch the attack remotely. Upgrading to version 2.3.3 is able to address this issue. The name of the patch is fa0c0bd59b8588814756942fe4cb5452e76c1dcd. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-216876.
+- [Live-Hack-CVE/CVE-2021-4287](https://github.com/Live-Hack-CVE/CVE-2021-4287)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4287">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4287">
+
+---
+## CVE-2021-4286 (2022-12-27T11:15:00)
+> A vulnerability, which was classified as problematic, has been found in cocagne pysrp up to 1.0.16. This issue affects the function calculate_x of the file srp/_ctsrp.py. The manipulation leads to information exposure through discrepancy. Upgrading to version 1.0.17 is able to address this issue. The name of the patch is dba52642f5e95d3da7af1780561213ee6053195f. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-216875.
+- [Live-Hack-CVE/CVE-2021-4286](https://github.com/Live-Hack-CVE/CVE-2021-4286)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4286">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4286">
+
+---
+## CVE-2021-4285 (2022-12-27T11:15:00)
+> A vulnerability classified as problematic was found in Nagios NCPA. This vulnerability affects unknown code of the file agent/listener/templates/tail.html. The manipulation of the argument name leads to cross site scripting. The attack can be initiated remotely. Upgrading to version 2.4.0 is able to address this issue. The name of the patch is 5abbcd7aa26e0fc815e6b2b0ffe1c15ef3e8fab5. It is recommended to upgrade the affected component. VDB-216874 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2021-4285](https://github.com/Live-Hack-CVE/CVE-2021-4285)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4285">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4285">
+
+---
+## CVE-2021-4284 (2022-12-27T10:15:00)
+> A vulnerability classified as problematic has been found in OpenMRS HTML Form Entry UI Framework Integration Module up to 1.x. This affects an unknown part. The manipulation leads to cross site scripting. It is possible to initiate the attack remotely. Upgrading to version 2.0.0 is able to address this issue. The name of the patch is 811990972ea07649ae33c4b56c61c3b520895f07. It is recommended to upgrade the affected component. The identifier VDB-216873 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2021-4284](https://github.com/Live-Hack-CVE/CVE-2021-4284)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4284">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4284">
+
+---
+## CVE-2021-4283 (2022-12-27T10:15:00)
+> A vulnerability was found in FreeBPX voicemail. It has been rated as problematic. Affected by this issue is some unknown functionality of the file views/ssettings.php of the component Settings Handler. The manipulation of the argument key leads to cross site scripting. The attack may be launched remotely. Upgrading to version 14.0.6.25 is able to address this issue. The name of the patch is ffce4882016076acd16fe0f676246905aa3cb2f3. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-216872.
+- [Live-Hack-CVE/CVE-2021-4283](https://github.com/Live-Hack-CVE/CVE-2021-4283)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4283">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4283">
+
+---
+## CVE-2021-4282 (2022-12-27T10:15:00)
+> A vulnerability was found in FreePBX voicemail. It has been declared as problematic. Affected by this vulnerability is an unknown functionality of the file page.voicemail.php. The manipulation leads to cross site scripting. The attack can be launched remotely. Upgrading to version 14.0.6.25 is able to address this issue. The name of the patch is 12e1469ef9208eda9d8955206e78345949236ee6. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-216871.
+- [Live-Hack-CVE/CVE-2021-4282](https://github.com/Live-Hack-CVE/CVE-2021-4282)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4282">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4282">
+
+---
 ## CVE-2021-4280 (2022-12-25T20:15:00)
 > A vulnerability was found in styler_praat_scripts. It has been classified as problematic. Affected is an unknown function of the file file_segmenter.praat of the component Slash Handler. The manipulation leads to denial of service. It is possible to launch the attack remotely. The name of the patch is 0cad44aa4a3eb0ecdba071c10eaff16023d8b35f. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-216780.
 - [Live-Hack-CVE/CVE-2021-4280](https://github.com/Live-Hack-CVE/CVE-2021-4280)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4280">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4280">
@@ -2867,6 +2897,11 @@
 > Windows NTFS Elevation of Privilege Vulnerability
 - [Y3A/CVE-2021-31956](https://github.com/Y3A/CVE-2021-31956)	<img alt="forks" src="https://img.shields.io/github/forks/Y3A/CVE-2021-31956">	<img alt="stars" src="https://img.shields.io/github/stars/Y3A/CVE-2021-31956">
 - [aazhuliang/CVE-2021-31956-EXP](https://github.com/aazhuliang/CVE-2021-31956-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/aazhuliang/CVE-2021-31956-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/aazhuliang/CVE-2021-31956-EXP">
+
+---
+## CVE-2021-31875 (2021-04-29T02:15:00)
+> ** DISPUTED ** In mjs_json.c in Cesanta MongooseOS mJS 1.26, a maliciously formed JSON string can trigger an off-by-one heap-based buffer overflow in mjs_json_parse, which can potentially lead to redirection of control flow. NOTE: the original reporter disputes the significance of this finding because "there isn’t very much of an opportunity to exploit this reliably for an information leak, so there isn’t any real security impact."
+- [Live-Hack-CVE/CVE-2021-31875](https://github.com/Live-Hack-CVE/CVE-2021-31875)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31875">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31875">
 
 ---
 ## CVE-2021-31838 (2021-06-29T10:15:00)
