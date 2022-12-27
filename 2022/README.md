@@ -1555,6 +1555,7 @@
 ## CVE-2022-45548 (2022-12-06T19:15:00)
 > AyaCMS v3.1.2 has an Arbitrary File Upload vulnerability.
 - [Live-Hack-CVE/CVE-2022-45548](https://github.com/Live-Hack-CVE/CVE-2022-45548)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45548">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45548">
+- [Live-Hack-CVE/CVE-2022-45548](https://github.com/Live-Hack-CVE/CVE-2022-45548)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45548">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45548">
 
 ---
 ## CVE-2022-45536 (2022-11-22T21:15:00)
@@ -1701,6 +1702,11 @@
 ## CVE-2022-45381 (2022-11-15T20:15:00)
 > Jenkins Pipeline Utility Steps Plugin 2.13.1 and earlier does not restrict the set of enabled prefix interpolators and bundles versions of Apache Commons Configuration library that enable the 'file:' prefix interpolator by default, allowing attackers able to configure Pipelines to read arbitrary files from the Jenkins controller file system.
 - [Live-Hack-CVE/CVE-2022-45381](https://github.com/Live-Hack-CVE/CVE-2022-45381)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45381">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45381">
+
+---
+## CVE-2022-45359 (2022-12-06T21:15:00)
+> Unauth. Arbitrary File Upload vulnerability in YITH WooCommerce Gift Cards premium plugin <= 3.19.0 on WordPress.
+- [Live-Hack-CVE/CVE-2022-45359](https://github.com/Live-Hack-CVE/CVE-2022-45359)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45359">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45359">
 
 ---
 ## CVE-2022-45347 (2022-12-22T11:15:00)
@@ -4652,6 +4658,11 @@
 - [Live-Hack-CVE/CVE-2022-41911](https://github.com/Live-Hack-CVE/CVE-2022-41911)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41911">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41911">
 
 ---
+## CVE-2022-41910 (2022-12-06T22:15:00)
+> TensorFlow is an open source platform for machine learning. The function MakeGrapplerFunctionItem takes arguments that determine the sizes of inputs and outputs. If the inputs given are greater than or equal to the sizes of the outputs, an out-of-bounds memory read or a crash is triggered. We have patched the issue in GitHub commit a65411a1d69edfb16b25907ffb8f73556ce36bb7. The fix will be included in TensorFlow 2.11.0. We will also cherrypick this commit on TensorFlow 2.8.4, 2.9.3, and 2.10.1.
+- [Live-Hack-CVE/CVE-2022-41910](https://github.com/Live-Hack-CVE/CVE-2022-41910)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41910">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41910">
+
+---
 ## CVE-2022-4191 (2022-11-30T00:15:00)
 > Use after free in Sign-In in Google Chrome prior to 108.0.5359.71 allowed a remote attacker who convinced a user to engage in specific UI interaction to potentially exploit heap corruption via profile destruction. (Chromium security severity: Medium)
 - [Live-Hack-CVE/CVE-2022-4191](https://github.com/Live-Hack-CVE/CVE-2022-4191)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4191">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4191">
@@ -4665,6 +4676,11 @@
 ## CVE-2022-41904 (2022-11-11T19:15:00)
 > Element iOS is an iOS Matrix client provided by Element. It is based on MatrixSDK. Prior to version 1.9.7, events encrypted using Megolm for which trust could not be established did not get decorated accordingly (with warning shields). Therefore a malicious homeserver could inject messages into the room without the user being alerted that the messages were not sent by a verified group member, even if the user has previously verified all group members. This issue has been patched in Element iOS 1.9.7. There are currently no known workarounds.
 - [Live-Hack-CVE/CVE-2022-41904](https://github.com/Live-Hack-CVE/CVE-2022-41904)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41904">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41904">
+
+---
+## CVE-2022-41902 (2022-12-06T22:15:00)
+> TensorFlow is an open source platform for machine learning. The function MakeGrapplerFunctionItem takes arguments that determine the sizes of inputs and outputs. If the inputs given are greater than or equal to the sizes of the outputs, an out-of-bounds memory read or a crash is triggered. We have patched the issue in GitHub commit a65411a1d69edfb16b25907ffb8f73556ce36bb7. The fix will be included in TensorFlow 2.11.0. We will also cherrypick this commit on TensorFlow 2.8.4, 2.9.3, and 2.10.1.
+- [Live-Hack-CVE/CVE-2022-41902](https://github.com/Live-Hack-CVE/CVE-2022-41902)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41902">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41902">
 
 ---
 ## CVE-2022-4190 (2022-11-30T00:15:00)
@@ -6325,6 +6341,7 @@
 ---
 ## CVE-2022-40680 (2022-12-06T17:15:00)
 > A improper neutralization of input during web page generation ('cross-site scripting') in Fortinet FortiOS 6.0.7 - 6.0.15, 6.2.2 - 6.2.12, 6.4.0 - 6.4.9 and 7.0.0 - 7.0.3 allows a privileged attacker to execute unauthorized code or commands via storing malicious payloads in replacement messages.
+- [Live-Hack-CVE/CVE-2022-40680](https://github.com/Live-Hack-CVE/CVE-2022-40680)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40680">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40680">
 - [Live-Hack-CVE/CVE-2022-40680](https://github.com/Live-Hack-CVE/CVE-2022-40680)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40680">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40680">
 
 ---
@@ -8515,6 +8532,7 @@
 ---
 ## CVE-2022-38379 (2022-12-06T17:15:00)
 > Improper neutralization of input during web page generation [CWE-79] in FortiSOAR 7.0.0 through 7.0.3 and 7.2.0 may allow an authenticated attacker to inject HTML tags via input fields of various components within FortiSOAR.
+- [Live-Hack-CVE/CVE-2022-38379](https://github.com/Live-Hack-CVE/CVE-2022-38379)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38379">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38379">
 - [Live-Hack-CVE/CVE-2022-38379](https://github.com/Live-Hack-CVE/CVE-2022-38379)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38379">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38379">
 
 ---
@@ -12813,6 +12831,7 @@
 ## CVE-2022-33876 (2022-12-06T17:15:00)
 > Multiple instances of improper input validation vulnerability in Fortinet FortiADC version 7.1.0, version 7.0.0 through 7.0.2 and version 6.2.4 and below allows an authenticated attacker to retrieve files with specific extension from the underlying Linux system via crafted HTTP requests.
 - [Live-Hack-CVE/CVE-2022-33876](https://github.com/Live-Hack-CVE/CVE-2022-33876)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33876">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33876">
+- [Live-Hack-CVE/CVE-2022-33876](https://github.com/Live-Hack-CVE/CVE-2022-33876)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33876">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33876">
 
 ---
 ## CVE-2022-33875 (2022-12-06T17:15:00)
@@ -14395,11 +14414,17 @@
 ## CVE-2022-3088 (2022-11-28T22:15:00)
 > UC-8100A-ME-T System Image: Versions v1.0 to v1.6, UC-2100 System Image: Versions v1.0 to v1.12, UC-2100-W System Image: Versions v1.0 to v 1.12,&nbsp;UC-3100 System Image: Versions v1.0 to v1.6,&nbsp;UC-5100 System Image: Versions v1.0 to v1.4, UC-8100 System Image: Versions v3.0 to v3.5, UC-8100-ME-T System Image: Versions v3.0 and v3.1, UC-8200 System Image: v1.0 to v1.5, AIG-300 System Image: v1.0 to v1.4, UC-8410A with Debian 9 System Image: Versions v4.0.2 and v4.1.2, UC-8580 with Debian 9 System Image: Versions v2.0 and v2.1, UC-8540 with Debian 9 System Image: Versions v2.0 and v2.1, and DA-662C-16-LX (GLB) System Image: Versions v1.0.2 to v1.1.2 of Moxa's ARM-based computers have an execution with unnecessary privileges vulnerability, which could allow an attacker with user-level privileges to gain root privileges.
 - [Live-Hack-CVE/CVE-2022-3088](https://github.com/Live-Hack-CVE/CVE-2022-3088)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3088">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3088">
+- [Live-Hack-CVE/CVE-2022-3088](https://github.com/Live-Hack-CVE/CVE-2022-3088)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3088">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3088">
 
 ---
 ## CVE-2022-30875 (2022-06-08T17:15:00)
 > Dolibarr 12.0.5 is vulnerable to Cross Site Scripting (XSS) via Sql Error Page.
 - [Live-Hack-CVE/CVE-2022-30875](https://github.com/Live-Hack-CVE/CVE-2022-30875)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30875">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30875">
+
+---
+## CVE-2022-3086 (2022-12-02T20:15:00)
+> Cradlepoint IBR600 NCOS versions 6.5.0.160bc2e and prior are vulnerable to shell escape, which enables local attackers with non-superuser credentials to gain full, unrestrictive shell access which may allow an attacker to execute arbitrary code.
+- [Live-Hack-CVE/CVE-2022-3086](https://github.com/Live-Hack-CVE/CVE-2022-3086)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3086">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3086">
 
 ---
 ## CVE-2022-3082 (2022-10-17T12:15:00)
@@ -21056,6 +21081,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ---
 ## CVE-2022-0135 (2022-08-25T18:15:00)
 > An out-of-bounds write issue was found in the VirGL virtual OpenGL renderer (virglrenderer). This flaw allows a malicious guest to create a specially crafted virgil resource and then issue a VIRTGPU_EXECBUFFER ioctl, leading to a denial of service or possible code execution.
+- [Live-Hack-CVE/CVE-2022-0135](https://github.com/Live-Hack-CVE/CVE-2022-0135)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0135">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0135">
 - [Live-Hack-CVE/CVE-2022-0135](https://github.com/Live-Hack-CVE/CVE-2022-0135)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0135">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0135">
 
 ---

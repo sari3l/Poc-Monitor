@@ -1987,6 +1987,7 @@
 > vim is vulnerable to Heap-based Buffer Overflow
 - [Live-Hack-CVE/CVE-2021-3770](https://github.com/Live-Hack-CVE/CVE-2021-3770)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3770">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3770">
 - [Live-Hack-CVE/CVE-2021-37701](https://github.com/Live-Hack-CVE/CVE-2021-37701)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37701">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37701">
+- [Live-Hack-CVE/CVE-2021-3770](https://github.com/Live-Hack-CVE/CVE-2021-3770)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3770">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3770">
 
 ---
 ## CVE-2021-37652 (2021-08-12T22:15:00)
@@ -2323,6 +2324,7 @@
 ---
 ## CVE-2021-35940 (2021-08-23T10:15:00)
 > An out-of-bounds array read in the apr_time_exp*() functions was fixed in the Apache Portable Runtime 1.6.3 release (CVE-2017-12613). The fix for this issue was not carried forward to the APR 1.7.x branch, and hence version 1.7.0 regressed compared to 1.6.3 and is vulnerable to the same issue.
+- [Live-Hack-CVE/CVE-2021-35940](https://github.com/Live-Hack-CVE/CVE-2021-35940)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35940">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35940">
 - [Live-Hack-CVE/CVE-2021-35940](https://github.com/Live-Hack-CVE/CVE-2021-35940)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35940">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35940">
 
 ---
@@ -2830,6 +2832,7 @@
 > Boa 0.94.13 allows remote attackers to obtain sensitive information via a misconfiguration involving backup.html, preview.html, js/log.js, log.html, email.html, online-users.html, and config.js.
 - [anldori/CVE-2021-33558](https://github.com/anldori/CVE-2021-33558)	<img alt="forks" src="https://img.shields.io/github/forks/anldori/CVE-2021-33558">	<img alt="stars" src="https://img.shields.io/github/stars/anldori/CVE-2021-33558">
 - [mdanzaruddin/CVE-2021-33558.](https://github.com/mdanzaruddin/CVE-2021-33558.)	<img alt="forks" src="https://img.shields.io/github/forks/mdanzaruddin/CVE-2021-33558.">	<img alt="stars" src="https://img.shields.io/github/stars/mdanzaruddin/CVE-2021-33558.">
+- [Live-Hack-CVE/CVE-2021-33558](https://github.com/Live-Hack-CVE/CVE-2021-33558)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33558">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33558">
 - [Live-Hack-CVE/CVE-2021-33558](https://github.com/Live-Hack-CVE/CVE-2021-33558)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33558">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33558">
 
 ---
@@ -4020,6 +4023,7 @@
 ---
 ## CVE-2021-24431 (2021-09-13T18:15:00)
 > The Language Bar Flags WordPress plugin through 1.0.8 does not have any CSRF in place when saving its settings and did not sanitise or escape them when generating the flag bar in the frontend. This could allow attackers to make a logged in admin change the settings, and set Cross-Site Scripting payload in them, which will be executed in the frontend for all users
+- [Live-Hack-CVE/CVE-2021-24431](https://github.com/Live-Hack-CVE/CVE-2021-24431)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24431">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24431">
 - [Live-Hack-CVE/CVE-2021-24431](https://github.com/Live-Hack-CVE/CVE-2021-24431)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24431">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24431">
 
 ---
