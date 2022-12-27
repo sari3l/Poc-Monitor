@@ -711,6 +711,11 @@
 - [Live-Hack-CVE/CVE-2020-36521](https://github.com/Live-Hack-CVE/CVE-2020-36521)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36521">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36521">
 
 ---
+## CVE-2020-36430 (2021-07-20T07:15:00)
+> libass 0.15.x before 0.15.1 has a heap-based buffer overflow in decode_chars (called from decode_font and process_text) because the wrong integer data type is used for subtraction.
+- [Live-Hack-CVE/CVE-2020-36430](https://github.com/Live-Hack-CVE/CVE-2020-36430)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36430">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36430">
+
+---
 ## CVE-2020-36322 (2021-04-14T06:15:00)
 > An issue was discovered in the FUSE filesystem implementation in the Linux kernel before 5.10.6, aka CID-5d069dbe8aaf. fuse_do_getattr() calls make_bad_inode() in inappropriate situations, causing a system crash. NOTE: the original fix for this vulnerability was incomplete, and its incompleteness is tracked as CVE-2021-28950.
 - [Live-Hack-CVE/CVE-2020-36322](https://github.com/Live-Hack-CVE/CVE-2020-36322)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36322">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36322">

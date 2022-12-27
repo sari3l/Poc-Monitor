@@ -448,6 +448,7 @@
 ## CVE-2019-4280 (2019-09-30T16:15:00)
 > IBM Sterling File Gateway 2.2.0.0 through 6.0.1.0 displays sensitive information in HTTP requests which could be used in further attacks against the system. IBM X-Force ID: 160503.
 - [Live-Hack-CVE/CVE-2019-4280](https://github.com/Live-Hack-CVE/CVE-2019-4280)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4280">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4280">
+- [Live-Hack-CVE/CVE-2019-4280](https://github.com/Live-Hack-CVE/CVE-2019-4280)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4280">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4280">
 
 ---
 ## CVE-2019-4275 (2019-08-02T14:15:00)
@@ -458,20 +459,24 @@
 ## CVE-2019-4271 (2019-09-17T19:15:00)
 > IBM WebSphere Application Server 7.0, 8.0, 8.5, and 9.0 Admin console is vulnerable to a Client-side HTTP parameter pollution vulnerability. IBM X-Force ID: 160243.
 - [Live-Hack-CVE/CVE-2019-4271](https://github.com/Live-Hack-CVE/CVE-2019-4271)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4271">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4271">
+- [Live-Hack-CVE/CVE-2019-4271](https://github.com/Live-Hack-CVE/CVE-2019-4271)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4271">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4271">
 
 ---
 ## CVE-2019-4270 (2019-09-17T19:15:00)
 > IBM WebSphere Application Server 7.0, 8.0, 8.5, and 9.0 Admin Console is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 160203.
+- [Live-Hack-CVE/CVE-2019-4270](https://github.com/Live-Hack-CVE/CVE-2019-4270)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4270">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4270">
 - [Live-Hack-CVE/CVE-2019-4270](https://github.com/Live-Hack-CVE/CVE-2019-4270)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4270">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4270">
 
 ---
 ## CVE-2019-4268 (2019-09-17T19:15:00)
 > IBM WebSphere Application Server 7.0, 8.0, 8.5, and 9.0 could allow a remote attacker to traverse directories on the system. An attacker could send a specially-crafted URL containing "dot dot" sequences (/../) to view arbitrary files on the system. IBM X-Force ID: 160201.
 - [Live-Hack-CVE/CVE-2019-4268](https://github.com/Live-Hack-CVE/CVE-2019-4268)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4268">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4268">
+- [Live-Hack-CVE/CVE-2019-4268](https://github.com/Live-Hack-CVE/CVE-2019-4268)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4268">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4268">
 
 ---
 ## CVE-2019-4267 (2019-07-22T14:15:00)
 > The IBM Spectrum Protect 7.1 and 8.1 Backup-Archive Client is vulnerable to a buffer overflow. This could allow execution of arbitrary code on the local system or the application to crash. IBM X-Force ID: 160200.
+- [Live-Hack-CVE/CVE-2019-4267](https://github.com/Live-Hack-CVE/CVE-2019-4267)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4267">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4267">
 - [Live-Hack-CVE/CVE-2019-4267](https://github.com/Live-Hack-CVE/CVE-2019-4267)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4267">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4267">
 
 ---
@@ -534,20 +539,24 @@
 ## CVE-2019-4194 (2019-07-17T14:15:00)
 > IBM Jazz for Service Management 1.1.3, 1.1.3.1, and 1.1.3.2 is missing function level access control that could allow a user to delete authorized resources. IBM X-Force ID: 159033.
 - [Live-Hack-CVE/CVE-2019-4194](https://github.com/Live-Hack-CVE/CVE-2019-4194)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4194">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4194">
+- [Live-Hack-CVE/CVE-2019-4194](https://github.com/Live-Hack-CVE/CVE-2019-4194)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4194">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4194">
 
 ---
 ## CVE-2019-4186 (2019-09-05T15:15:00)
 > IBM Jazz for Service Management 1.1.3 is vulnerable to HTTP header injection, caused by incorrect trust in the HTTP Host header during caching. By sending a specially crafted HTTP GET request, a remote attacker could exploit this vulnerability to inject arbitrary HTTP headers, which will allow the attacker to conduct various attacks against the vulnerable system, including cross-site scripting, cache poisoning or session hijacking. IBM X-force ID: 158976.
+- [Live-Hack-CVE/CVE-2019-4186](https://github.com/Live-Hack-CVE/CVE-2019-4186)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4186">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4186">
 - [Live-Hack-CVE/CVE-2019-4186](https://github.com/Live-Hack-CVE/CVE-2019-4186)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4186">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4186">
 
 ---
 ## CVE-2019-4175 (2019-09-17T19:15:00)
 > IBM Cognos Controller 10.3.0, 10.3.1, 10.4.0, and 10.4.1 uses weaker than expected cryptographic algorithms that could allow an attacker to decrypt highly sensitive information. IBM X-Force ID: 158880.
 - [Live-Hack-CVE/CVE-2019-4175](https://github.com/Live-Hack-CVE/CVE-2019-4175)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4175">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4175">
+- [Live-Hack-CVE/CVE-2019-4175](https://github.com/Live-Hack-CVE/CVE-2019-4175)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4175">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4175">
 
 ---
 ## CVE-2019-4171 (2019-09-17T19:15:00)
 > IBM Cognos Controller 10.3.0, 10.3.1, 10.4.0, and 10.4.1 does not set the secure attribute on authorization tokens or session cookies. This could allow an attacker to obtain sensitive information using man in the middle techniques. IBM X-Force ID: 158876.
+- [Live-Hack-CVE/CVE-2019-4171](https://github.com/Live-Hack-CVE/CVE-2019-4171)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4171">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4171">
 - [Live-Hack-CVE/CVE-2019-4171](https://github.com/Live-Hack-CVE/CVE-2019-4171)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4171">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4171">
 
 ---
@@ -559,10 +568,12 @@
 ## CVE-2019-4147 (2019-09-16T19:15:00)
 > IBM Sterling File Gateway 2.2.0.0 through 6.0.1.0 is vulnerable to SQL injection. A remote attacker could send specially-crafted SQL statements, which could allow the attacker to view, add, modify or delete information in the back-end database. IBM X-Force ID: 158413.
 - [Live-Hack-CVE/CVE-2019-4147](https://github.com/Live-Hack-CVE/CVE-2019-4147)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4147">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4147">
+- [Live-Hack-CVE/CVE-2019-4147](https://github.com/Live-Hack-CVE/CVE-2019-4147)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4147">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4147">
 
 ---
 ## CVE-2019-4141 (2019-09-27T14:15:00)
 > IBM MQ 7.1.0.0 - 7.1.0.9, 7.5.0.0 - 7.5.0.9, 8.0.0.0 - 8.0.0.11, 9.0.0.0 - 9.0.0.6, 9.1.0.0 - 9.1.0.2, and 9.1.1 - 9.1.2 is vulnerable to a denial of service attack caused by a memory leak in the clustering code. IBM X-Force ID: 158337.
+- [Live-Hack-CVE/CVE-2019-4141](https://github.com/Live-Hack-CVE/CVE-2019-4141)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4141">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4141">
 - [Live-Hack-CVE/CVE-2019-4141](https://github.com/Live-Hack-CVE/CVE-2019-4141)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4141">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4141">
 
 ---
@@ -644,6 +655,11 @@
 ## CVE-2019-4073 (2019-04-25T15:29:00)
 > IBM Sterling B2B Integrator Standard Edition 6.0.0.0 and 6.0.0.1 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 157107.
 - [Live-Hack-CVE/CVE-2019-4073](https://github.com/Live-Hack-CVE/CVE-2019-4073)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4073">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4073">
+
+---
+## CVE-2019-4072 (2019-05-09T15:29:00)
+> IBM Tivoli Storage Productivity Center (IBM Spectrum Control Standard Edition 5.2.1 through 5.2.17) allows users to remain idle within the application even when a user has logged out. Utilizing the application back button users can remain logged in as the current user for a short period of time, therefore users are presented with information for Spectrum Control Application. IBM X-Force ID: 157064.
+- [Live-Hack-CVE/CVE-2019-4072](https://github.com/Live-Hack-CVE/CVE-2019-4072)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4072">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4072">
 
 ---
 ## CVE-2019-4054 (2019-07-17T14:15:00)

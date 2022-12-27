@@ -1552,10 +1552,12 @@
 ## CVE-2021-3996 (2022-08-23T20:15:00)
 > A logic error was found in the libmount library of util-linux in the function that allows an unprivileged user to unmount a FUSE filesystem. This flaw allows a local user on a vulnerable system to unmount other users' filesystems that are either world-writable themselves (like /tmp) or mounted in a world-writable directory. An attacker may use this flaw to cause a denial of service to applications that use the affected filesystems.
 - [Live-Hack-CVE/CVE-2021-3996](https://github.com/Live-Hack-CVE/CVE-2021-3996)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3996">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3996">
+- [Live-Hack-CVE/CVE-2021-3996](https://github.com/Live-Hack-CVE/CVE-2021-3996)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3996">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3996">
 
 ---
 ## CVE-2021-3995 (2022-08-23T20:15:00)
 > A logic error was found in the libmount library of util-linux in the function that allows an unprivileged user to unmount a FUSE filesystem. This flaw allows an unprivileged local attacker to unmount FUSE filesystems that belong to certain other users who have a UID that is a prefix of the UID of the attacker in its string form. An attacker may use this flaw to cause a denial of service to applications that use the affected filesystems.
+- [Live-Hack-CVE/CVE-2021-3995](https://github.com/Live-Hack-CVE/CVE-2021-3995)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3995">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3995">
 - [Live-Hack-CVE/CVE-2021-3995](https://github.com/Live-Hack-CVE/CVE-2021-3995)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3995">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3995">
 
 ---
@@ -2752,6 +2754,15 @@
 - [Live-Hack-CVE/CVE-2021-34181](https://github.com/Live-Hack-CVE/CVE-2021-34181)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34181">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34181">
 
 ---
+## CVE-2021-33909 (2021-07-20T19:15:00)
+> fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.
+- [Live-Hack-CVE/CVE-2021-33909](https://github.com/Live-Hack-CVE/CVE-2021-33909)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33909">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33909">
+- [ChrisTheCoolHut/CVE-2021-33909](https://github.com/ChrisTheCoolHut/CVE-2021-33909)	<img alt="forks" src="https://img.shields.io/github/forks/ChrisTheCoolHut/CVE-2021-33909">	<img alt="stars" src="https://img.shields.io/github/stars/ChrisTheCoolHut/CVE-2021-33909">
+- [bbinfosec43/CVE-2021-33909](https://github.com/bbinfosec43/CVE-2021-33909)	<img alt="forks" src="https://img.shields.io/github/forks/bbinfosec43/CVE-2021-33909">	<img alt="stars" src="https://img.shields.io/github/stars/bbinfosec43/CVE-2021-33909">
+- [baerwolf/cve-2021-33909](https://github.com/baerwolf/cve-2021-33909)	<img alt="forks" src="https://img.shields.io/github/forks/baerwolf/cve-2021-33909">	<img alt="stars" src="https://img.shields.io/github/stars/baerwolf/cve-2021-33909">
+- [Liang2580/CVE-2021-33909](https://github.com/Liang2580/CVE-2021-33909)	<img alt="forks" src="https://img.shields.io/github/forks/Liang2580/CVE-2021-33909">	<img alt="stars" src="https://img.shields.io/github/stars/Liang2580/CVE-2021-33909">
+
+---
 ## CVE-2021-33900 (2021-07-26T07:15:00)
 > While investigating DIRSTUDIO-1219 it was noticed that configured StartTLS encryption was not applied when any SASL authentication mechanism (DIGEST-MD5, GSSAPI) was used. While investigating DIRSTUDIO-1220 it was noticed that any configured SASL confidentiality layer was not applied. This issue affects Apache Directory Studio version 2.0.0.v20210213-M16 and prior versions.
 - [Live-Hack-CVE/CVE-2021-33900](https://github.com/Live-Hack-CVE/CVE-2021-33900)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33900">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33900">
@@ -3197,35 +3208,42 @@
 ## CVE-2021-29988 (2021-08-17T20:15:00)
 > Firefox incorrectly treated an inline list-item element as a block element, resulting in an out of bounds read or memory corruption, and a potentially exploitable crash. This vulnerability affects Thunderbird < 78.13, Thunderbird < 91, Firefox ESR < 78.13, and Firefox < 91.
 - [Live-Hack-CVE/CVE-2021-29988](https://github.com/Live-Hack-CVE/CVE-2021-29988)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29988">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29988">
+- [Live-Hack-CVE/CVE-2021-29988](https://github.com/Live-Hack-CVE/CVE-2021-29988)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29988">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29988">
 
 ---
 ## CVE-2021-29985 (2021-08-17T20:15:00)
 > A use-after-free vulnerability in media channels could have led to memory corruption and a potentially exploitable crash. This vulnerability affects Thunderbird < 78.13, Thunderbird < 91, Firefox ESR < 78.13, and Firefox < 91.
+- [Live-Hack-CVE/CVE-2021-29985](https://github.com/Live-Hack-CVE/CVE-2021-29985)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29985">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29985">
 - [Live-Hack-CVE/CVE-2021-29985](https://github.com/Live-Hack-CVE/CVE-2021-29985)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29985">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29985">
 
 ---
 ## CVE-2021-29984 (2021-08-17T20:15:00)
 > Instruction reordering resulted in a sequence of instructions that would cause an object to be incorrectly considered during garbage collection. This led to memory corruption and a potentially exploitable crash. This vulnerability affects Thunderbird < 78.13, Thunderbird < 91, Firefox ESR < 78.13, and Firefox < 91.
 - [Live-Hack-CVE/CVE-2021-29984](https://github.com/Live-Hack-CVE/CVE-2021-29984)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29984">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29984">
+- [Live-Hack-CVE/CVE-2021-29984](https://github.com/Live-Hack-CVE/CVE-2021-29984)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29984">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29984">
 
 ---
 ## CVE-2021-29980 (2021-08-17T20:15:00)
 > Uninitialized memory in a canvas object could have caused an incorrect free() leading to memory corruption and a potentially exploitable crash. This vulnerability affects Thunderbird < 78.13, Thunderbird < 91, Firefox ESR < 78.13, and Firefox < 91.
+- [Live-Hack-CVE/CVE-2021-29980](https://github.com/Live-Hack-CVE/CVE-2021-29980)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29980">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29980">
 - [Live-Hack-CVE/CVE-2021-29980](https://github.com/Live-Hack-CVE/CVE-2021-29980)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29980">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29980">
 
 ---
 ## CVE-2021-29976 (2021-08-05T20:15:00)
 > Mozilla developers reported memory safety bugs present in code shared between Firefox and Thunderbird. Some of these bugs showed evidence of memory corruption and we presume that with enough effort some of these could have been exploited to run arbitrary code. This vulnerability affects Thunderbird < 78.12, Firefox ESR < 78.12, and Firefox < 90.
 - [Live-Hack-CVE/CVE-2021-29976](https://github.com/Live-Hack-CVE/CVE-2021-29976)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29976">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29976">
+- [Live-Hack-CVE/CVE-2021-29976](https://github.com/Live-Hack-CVE/CVE-2021-29976)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29976">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29976">
 
 ---
 ## CVE-2021-29970 (2021-08-05T20:15:00)
 > A malicious webpage could have triggered a use-after-free, memory corruption, and a potentially exploitable crash. *This bug could only be triggered when accessibility was enabled.*. This vulnerability affects Thunderbird < 78.12, Firefox ESR < 78.12, and Firefox < 90.
 - [Live-Hack-CVE/CVE-2021-29970](https://github.com/Live-Hack-CVE/CVE-2021-29970)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29970">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29970">
+- [Live-Hack-CVE/CVE-2021-29970](https://github.com/Live-Hack-CVE/CVE-2021-29970)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29970">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29970">
 
 ---
 ## CVE-2021-29969 (2021-08-05T20:15:00)
 > If Thunderbird was configured to use STARTTLS for an IMAP connection, and an attacker injected IMAP server responses prior to the completion of the STARTTLS handshake, then Thunderbird didn't ignore the injected data. This could have resulted in Thunderbird showing incorrect information, for example the attacker could have tricked Thunderbird to show folders that didn't exist on the IMAP server. This vulnerability affects Thunderbird < 78.12.
+- [Live-Hack-CVE/CVE-2021-29969](https://github.com/Live-Hack-CVE/CVE-2021-29969)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29969">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29969">
 - [Live-Hack-CVE/CVE-2021-29969](https://github.com/Live-Hack-CVE/CVE-2021-29969)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29969">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29969">
 
 ---
@@ -3782,6 +3800,7 @@
 ---
 ## CVE-2021-25095 (2022-02-07T16:15:00)
 > The IP2Location Country Blocker WordPress plugin before 2.26.5 does not have authorisation and CSRF checks in the ip2location_country_blocker_save_rules AJAX action, allowing any authenticated users, such as subscriber to call it and block arbitrary country, or block all of them at once, preventing users from accessing the frontend.
+- [Live-Hack-CVE/CVE-2021-25095](https://github.com/Live-Hack-CVE/CVE-2021-25095)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25095">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25095">
 - [Live-Hack-CVE/CVE-2021-25095](https://github.com/Live-Hack-CVE/CVE-2021-25095)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25095">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25095">
 
 ---

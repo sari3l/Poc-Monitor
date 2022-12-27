@@ -4175,6 +4175,7 @@
 ## CVE-2022-42324 (2022-11-01T13:15:00)
 > Oxenstored 32->31 bit integer truncation issues Integers in Ocaml are 63 or 31 bits of signed precision. The Ocaml Xenbus library takes a C uint32_t out of the ring and casts it directly to an Ocaml integer. In 64-bit Ocaml builds this is fine, but in 32-bit builds, it truncates off the most significant bit, and then creates unsigned/signed confusion in the remainder. This in turn can feed a negative value into logic not expecting a negative value, resulting in unexpected exceptions being thrown. The unexpected exception is not handled suitably, creating a busy-loop trying (and failing) to take the bad packet out of the xenstore ring.
 - [Live-Hack-CVE/CVE-2022-42324](https://github.com/Live-Hack-CVE/CVE-2022-42324)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42324">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42324">
+- [Live-Hack-CVE/CVE-2022-42324](https://github.com/Live-Hack-CVE/CVE-2022-42324)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42324">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42324">
 
 ---
 ## CVE-2022-42320 (2022-11-01T13:15:00)
@@ -6645,6 +6646,7 @@
 > ** DISPUTED ** UBports Ubuntu Touch 16.04 allows the screen-unlock passcode to be used for a privileged shell via Sudo. This passcode is only four digits, far below typical length/complexity for a user account's password. NOTE: a third party states "The described attack cannot be executed as demonstrated."
 - [Live-Hack-CVE/CVE-2022-40297](https://github.com/Live-Hack-CVE/CVE-2022-40297)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40297">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40297">
 - [filipkarc/PoC-ubuntutouch-pin-privesc](https://github.com/filipkarc/PoC-ubuntutouch-pin-privesc)	<img alt="forks" src="https://img.shields.io/github/forks/filipkarc/PoC-ubuntutouch-pin-privesc">	<img alt="stars" src="https://img.shields.io/github/stars/filipkarc/PoC-ubuntutouch-pin-privesc">
+- [Live-Hack-CVE/CVE-2022-40297](https://github.com/Live-Hack-CVE/CVE-2022-40297)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40297">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40297">
 
 ---
 ## CVE-2022-40284 (2022-11-06T23:15:00)
@@ -11048,6 +11050,11 @@
 - [Live-Hack-CVE/CVE-2022-36027](https://github.com/Live-Hack-CVE/CVE-2022-36027)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36027">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36027">
 
 ---
+## CVE-2022-36024 (2022-08-18T15:15:00)
+> py-cord is a an API wrapper for Discord written in Python. Bots creating using py-cord version 2.0.0 are vulnerable to remote shutdown if they are added to the server with the `application.commands` scope without the `bot` scope. Currently, it appears that all public bots that use slash commands are affected. This issue has been patched in version 2.0.1. There are currently no recommended workarounds - please upgrade to a patched version.
+- [Live-Hack-CVE/CVE-2022-36024](https://github.com/Live-Hack-CVE/CVE-2022-36024)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36024">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36024">
+
+---
 ## CVE-2022-36023 (2022-08-18T16:15:00)
 > Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. If a gateway client application sends a malformed request to a gateway peer it may crash the peer node. Version 2.4.6 checks for the malformed gateway request and returns an error to the gateway client. There are no known workarounds, users must upgrade to version 2.4.6.
 - [Live-Hack-CVE/CVE-2022-36023](https://github.com/Live-Hack-CVE/CVE-2022-36023)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36023">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36023">
@@ -12746,6 +12753,7 @@
 ---
 ## CVE-2022-33747 (2022-10-11T13:15:00)
 > Arm: unbounded memory consumption for 2nd-level page tables Certain actions require e.g. removing pages from a guest's P2M (Physical-to-Machine) mapping. When large pages are in use to map guest pages in the 2nd-stage page tables, such a removal operation may incur a memory allocation (to replace a large mapping with individual smaller ones). These memory allocations are taken from the global memory pool. A malicious guest might be able to cause the global memory pool to be exhausted by manipulating its own P2M mappings.
+- [Live-Hack-CVE/CVE-2022-33747](https://github.com/Live-Hack-CVE/CVE-2022-33747)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33747">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33747">
 - [Live-Hack-CVE/CVE-2022-33747](https://github.com/Live-Hack-CVE/CVE-2022-33747)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33747">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33747">
 
 ---
@@ -20202,6 +20210,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1421 (2022-06-08T10:15:00)
 > The Discy WordPress theme before 5.2 lacks CSRF checks in some AJAX actions, allowing an attacker to make a logged in admin change arbitrary 's settings including payment methods via a CSRF attack
 - [nb1b3k/CVE-2022-1421](https://github.com/nb1b3k/CVE-2022-1421)	<img alt="forks" src="https://img.shields.io/github/forks/nb1b3k/CVE-2022-1421">	<img alt="stars" src="https://img.shields.io/github/stars/nb1b3k/CVE-2022-1421">
+
+---
+## CVE-2022-1419 (2022-06-02T14:15:00)
+> The root cause of this vulnerability is that the ioctl$DRM_IOCTL_MODE_DESTROY_DUMB can decrease refcount of *drm_vgem_gem_object *(created in *vgem_gem_dumb_create*) concurrently, and *vgem_gem_dumb_create *will access the freed drm_vgem_gem_object.
+- [Live-Hack-CVE/CVE-2022-1419](https://github.com/Live-Hack-CVE/CVE-2022-1419)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1419">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1419">
 
 ---
 ## CVE-2022-1414 (2022-10-19T18:15:00)
