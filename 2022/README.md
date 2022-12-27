@@ -5974,6 +5974,11 @@
 - [Live-Hack-CVE/CVE-2022-40440](https://github.com/Live-Hack-CVE/CVE-2022-40440)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40440">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40440">
 
 ---
+## CVE-2022-40435 (2022-12-19T17:15:00)
+> Employee Performance Evaluation System v1.0 was discovered to contain a persistent cross-site scripting (XSS) vulnerability via adding new entries under the Departments and Designations module.
+- [Live-Hack-CVE/CVE-2022-40435](https://github.com/Live-Hack-CVE/CVE-2022-40435)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40435">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40435">
+
+---
 ## CVE-2022-40434 (2022-12-19T22:15:00)
 > Softr v2.0 was discovered to be vulnerable to HTML injection via the Name field of the Account page.
 - [Live-Hack-CVE/CVE-2022-40434](https://github.com/Live-Hack-CVE/CVE-2022-40434)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40434">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40434">
@@ -11758,6 +11763,11 @@
 ## CVE-2022-34305 (2022-06-23T11:15:00)
 > In Apache Tomcat 10.1.0-M1 to 10.1.0-M16, 10.0.0-M1 to 10.0.22, 9.0.30 to 9.0.64 and 8.5.50 to 8.5.81 the Form authentication example in the examples web application displayed user provided data without filtering, exposing a XSS vulnerability.
 - [zeroc00I/CVE-2022-34305](https://github.com/zeroc00I/CVE-2022-34305)	<img alt="forks" src="https://img.shields.io/github/forks/zeroc00I/CVE-2022-34305">	<img alt="stars" src="https://img.shields.io/github/stars/zeroc00I/CVE-2022-34305">
+
+---
+## CVE-2022-3427 (2022-12-15T19:15:00)
+> The Corner Ad plugin for WordPress is vulnerable to Cross-Site Request Forgery in versions up to, and including, 1.0.56. This is due to missing or incorrect nonce validation on its corner_ad_settings_page function. This makes it possible for unauthenticated attackers to trigger the deletion of ads via forged request granted they can trick a site administrator into performing an action such as clicking on a link.
+- [Live-Hack-CVE/CVE-2022-3427](https://github.com/Live-Hack-CVE/CVE-2022-3427)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3427">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3427">
 
 ---
 ## CVE-2022-34265 (2022-07-04T16:15:00)
@@ -18217,6 +18227,36 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 > In authToken2AidlVec of KeyMintUtils.cpp, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-242702451
 - [Live-Hack-CVE/CVE-2022-20549](https://github.com/Live-Hack-CVE/CVE-2022-20549)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20549">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20549">
 - [Live-Hack-CVE/CVE-2022-20549](https://github.com/Live-Hack-CVE/CVE-2022-20549)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20549">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20549">
+
+---
+## CVE-2022-20544 (2022-12-16T16:15:00)
+> In onOptionsItemSelected of ManageApplications.java, there is a possible bypass of profile owner restrictions due to a missing permission check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-238745070
+- [Live-Hack-CVE/CVE-2022-20544](https://github.com/Live-Hack-CVE/CVE-2022-20544)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20544">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20544">
+
+---
+## CVE-2022-20543 (2022-12-16T16:15:00)
+> In multiple locations, there is a possible display crash loop due to improper input validation. This could lead to local denial of service with system execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-238178261
+- [Live-Hack-CVE/CVE-2022-20543](https://github.com/Live-Hack-CVE/CVE-2022-20543)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20543">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20543">
+
+---
+## CVE-2022-20541 (2022-12-16T16:15:00)
+> In phNxpNciHal_ioctl of phNxpNciHal.cc, there is a possible out of bounds read due to a missing bounds check. This could lead to local information disclosure with System execution privileges needed. User interaction is needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-238083126
+- [Live-Hack-CVE/CVE-2022-20541](https://github.com/Live-Hack-CVE/CVE-2022-20541)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20541">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20541">
+
+---
+## CVE-2022-20540 (2022-12-16T16:15:00)
+> In SurfaceFlinger::doDump of SurfaceFlinger.cpp, there is possible arbitrary code execution due to a use after free. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-237291506
+- [Live-Hack-CVE/CVE-2022-20540](https://github.com/Live-Hack-CVE/CVE-2022-20540)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20540">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20540">
+
+---
+## CVE-2022-20539 (2022-12-16T16:15:00)
+> In parameterToHal of Effect.cpp, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege in the audio server with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-237291425
+- [Live-Hack-CVE/CVE-2022-20539](https://github.com/Live-Hack-CVE/CVE-2022-20539)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20539">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20539">
+
+---
+## CVE-2022-20538 (2022-12-16T16:15:00)
+> In getSmsRoleHolder of RoleService.java, there is a possible way to determine whether an app is installed, without query permissions, due to side channel information disclosure. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-235601770
+- [Live-Hack-CVE/CVE-2022-20538](https://github.com/Live-Hack-CVE/CVE-2022-20538)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20538">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20538">
 
 ---
 ## CVE-2022-20537 (2022-12-16T16:15:00)
