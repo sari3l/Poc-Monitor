@@ -1491,6 +1491,11 @@
 - [Live-Hack-CVE/CVE-2022-45665](https://github.com/Live-Hack-CVE/CVE-2022-45665)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45665">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45665">
 
 ---
+## CVE-2022-45649 (2022-12-02T18:15:00)
+> Tenda AC6V1.0 V15.03.05.19 was discovered to contain a buffer overflow via the endIp parameter in the formSetPPTPServer function.
+- [Live-Hack-CVE/CVE-2022-45649](https://github.com/Live-Hack-CVE/CVE-2022-45649)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45649">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45649">
+
+---
 ## CVE-2022-45645 (2022-12-02T18:15:00)
 > Tenda AC6V1.0 V15.03.05.19 was discovered to contain a buffer overflow via the deviceMac parameter in the addWifiMacFilter function.
 - [Live-Hack-CVE/CVE-2022-45645](https://github.com/Live-Hack-CVE/CVE-2022-45645)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45645">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45645">
@@ -2738,6 +2743,16 @@
 - [Live-Hack-CVE/CVE-2022-43945](https://github.com/Live-Hack-CVE/CVE-2022-43945)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43945">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43945">
 
 ---
+## CVE-2022-43901 (2022-12-01T19:15:00)
+> IBM WebSphere Automation for IBM Cloud Pak for Watson AIOps 1.4.3 could disclose sensitive information. An authenticated local attacker could exploit this vulnerability to possibly gain information to other IBM WebSphere Automation for IBM Cloud Pak for Watson AIOps components. IBM X-Force ID: 240829.
+- [Live-Hack-CVE/CVE-2022-43901](https://github.com/Live-Hack-CVE/CVE-2022-43901)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43901">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43901">
+
+---
+## CVE-2022-43900 (2022-12-01T19:15:00)
+> IBM WebSphere Automation for IBM Cloud Pak for Watson AIOps 1.4.2 could provide a weaker than expected security. A local attacker can create an outbound network connection to another system. IBM X-Force ID: 240827.
+- [Live-Hack-CVE/CVE-2022-43900](https://github.com/Live-Hack-CVE/CVE-2022-43900)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43900">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43900">
+
+---
 ## CVE-2022-43887 (2022-12-19T21:15:00)
 > IBM Cognos Analytics 11.1.7, 11.2.0, and 11.2.1 could be vulnerable to sensitive information exposure by passing API keys to log files. If these keys contain sensitive information, it could lead to further attacks. IBM X-Force ID: 240450.
 - [Live-Hack-CVE/CVE-2022-43887](https://github.com/Live-Hack-CVE/CVE-2022-43887)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43887">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43887">
@@ -3047,6 +3062,11 @@
 ## CVE-2022-43479 (2022-12-05T04:15:00)
 > Open redirect vulnerability in SHIRASAGI v1.14.4 to v1.15.0 allows a remote unauthenticated attacker to redirect users to an arbitrary web site and conduct a phishing attack.
 - [Live-Hack-CVE/CVE-2022-43479](https://github.com/Live-Hack-CVE/CVE-2022-43479)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43479">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43479">
+
+---
+## CVE-2022-43470 (2022-12-05T04:15:00)
+> Cross-site request forgery (CSRF) vulnerability in +F FS040U software versions v2.3.4 and earlier, +F FS020W software versions v4.0.0 and earlier, +F FS030W software versions v3.3.5 and earlier, and +F FS040W software versions v1.4.1 and earlier allows an adjacent attacker to hijack the authentication of an administrator and user's unintended operations such as to reboot the product and/or reset the configuration to the initial set-up may be performed.
+- [Live-Hack-CVE/CVE-2022-43470](https://github.com/Live-Hack-CVE/CVE-2022-43470)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43470">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43470">
 
 ---
 ## CVE-2022-43463 (2022-11-18T19:15:00)
@@ -3764,6 +3784,11 @@
 - [Live-Hack-CVE/CVE-2022-42821](https://github.com/Live-Hack-CVE/CVE-2022-42821)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42821">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42821">
 
 ---
+## CVE-2022-4282 (2022-12-05T10:15:00)
+> A vulnerability was found in SpringBootCMS and classified as critical. Affected by this issue is some unknown functionality of the component Template Management. The manipulation leads to injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. VDB-214790 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4282](https://github.com/Live-Hack-CVE/CVE-2022-4282)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4282">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4282">
+
+---
 ## CVE-2022-42818 (2022-11-01T20:15:00)
 > This issue was addressed with improved data protection. This issue is fixed in macOS Ventura 13. A user in a privileged network position may be able to track user activity.
 - [Live-Hack-CVE/CVE-2022-42818](https://github.com/Live-Hack-CVE/CVE-2022-42818)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42818">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42818">
@@ -4279,6 +4304,11 @@
 ## CVE-2022-42310 (2022-11-01T13:15:00)
 > Xenstore: Guests can create orphaned Xenstore nodes By creating multiple nodes inside a transaction resulting in an error, a malicious guest can create orphaned nodes in the Xenstore data base, as the cleanup after the error will not remove all nodes already created. When the transaction is committed after this situation, nodes without a valid parent can be made permanent in the data base.
 - [Live-Hack-CVE/CVE-2022-42310](https://github.com/Live-Hack-CVE/CVE-2022-42310)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42310">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42310">
+
+---
+## CVE-2022-4231 (2022-11-30T12:15:00)
+> A vulnerability, which was classified as problematic, has been found in Tribal Systems Zenario CMS 9.3.57595. This issue affects some unknown processing of the component Remember Me Handler. The manipulation leads to session fixiation. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-214589 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4231](https://github.com/Live-Hack-CVE/CVE-2022-4231)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4231">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4231">
 
 ---
 ## CVE-2022-42309 (2022-11-01T13:15:00)
@@ -4874,6 +4904,11 @@
 - [Live-Hack-CVE/CVE-2022-41802](https://github.com/Live-Hack-CVE/CVE-2022-41802)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41802">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41802">
 
 ---
+## CVE-2022-41798 (2022-12-05T04:15:00)
+> Session information easily guessable vulnerability exists in Kyocera Document Solutions MFPs and printers, which may allow a network-adjacent attacker to log in to the product by spoofing a user with guessed session information. Affected products/versions are as follows: TASKalfa 7550ci/6550ci, TASKalfa 5550ci/4550ci/3550ci/3050ci, TASKalfa 255c/205c, TASKalfa 256ci/206ci, ECOSYS M6526cdn/M6526cidn, FS-C2126MFP/C2126MFP+/C2026MFP/C2026MFP+, TASKalfa 8000i/6500i, TASKalfa 5500i/4500i/3500i, TASKalfa 305/255, TASKalfa 306i/256i, LS-3140MFP/3140MFP+/3640MFP, ECOSYS M2535dn, LS-1135MFP/1035MFP, LS-C8650DN/C8600DN, ECOSYS P6026cdn, FS-C5250DN, LS-4300DN/4200DN/2100DN, ECOSYS P4040dn, ECOSYS P2135dn, and FS-1370DN.
+- [Live-Hack-CVE/CVE-2022-41798](https://github.com/Live-Hack-CVE/CVE-2022-41798)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41798">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41798">
+
+---
 ## CVE-2022-41794 (2022-12-22T22:15:00)
 > A heap based buffer overflow vulnerability exists in the PSD thumbnail resource parsing code of OpenImageIO 2.3.19.0. A specially-crafted PSD file can lead to arbitrary code execution. An attacker can provide a malicious file to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2022-41794](https://github.com/Live-Hack-CVE/CVE-2022-41794)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41794">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41794">
@@ -4904,6 +4939,11 @@
 > Use after free in Mojo in Google Chrome prior to 108.0.5359.71 allowed a remote attacker who had compromised the renderer process to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [Live-Hack-CVE/CVE-2022-4178](https://github.com/Live-Hack-CVE/CVE-2022-4178)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4178">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4178">
 - [Live-Hack-CVE/CVE-2022-41783](https://github.com/Live-Hack-CVE/CVE-2022-41783)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41783">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41783">
+
+---
+## CVE-2022-41777 (2022-12-05T04:15:00)
+> Improper check or handling of exceptional conditions vulnerability in Nako3edit, editor component of nadesiko3 (PC Version) v3.3.74 and earlier allows a remote attacker to inject an invalid value to decodeURIComponent of nako3edit, which may lead the server to crash.
+- [Live-Hack-CVE/CVE-2022-41777](https://github.com/Live-Hack-CVE/CVE-2022-41777)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41777">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41777">
 
 ---
 ## CVE-2022-4177 (2022-11-30T00:15:00)
@@ -8436,10 +8476,20 @@
 - [Live-Hack-CVE/CVE-2022-38580](https://github.com/Live-Hack-CVE/CVE-2022-38580)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38580">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38580">
 
 ---
+## CVE-2022-3858 (2022-12-05T17:15:00)
+> The Floating Chat Widget: Contact Chat Icons, Telegram Chat, Line, WeChat, Email, SMS, Call Button WordPress plugin before 3.0.3 does not properly sanitise and escape a parameter before using it in a SQL statement, leading to a SQL injection exploitable by users with a role as low as admin.
+- [Live-Hack-CVE/CVE-2022-3858](https://github.com/Live-Hack-CVE/CVE-2022-3858)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3858">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3858">
+
+---
 ## CVE-2022-38577 (2022-09-19T16:15:00)
 > ProcessMaker before v3.5.4 was discovered to contain insecure permissions in the user profile page. This vulnerability allows attackers to escalate normal users to Administrators.
 - [sornram9254/CVE-2022-38577-Processmaker](https://github.com/sornram9254/CVE-2022-38577-Processmaker)	<img alt="forks" src="https://img.shields.io/github/forks/sornram9254/CVE-2022-38577-Processmaker">	<img alt="stars" src="https://img.shields.io/github/stars/sornram9254/CVE-2022-38577-Processmaker">
 - [Live-Hack-CVE/CVE-2022-38577](https://github.com/Live-Hack-CVE/CVE-2022-38577)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38577">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38577">
+
+---
+## CVE-2022-3856 (2022-12-05T17:15:00)
+> The Comic Book Management System WordPress plugin before 2.2.0 does not sanitize and escape a parameter before using it in a SQL statement, leading to a SQL injection exploitable by users with a role as low as Admin.
+- [Live-Hack-CVE/CVE-2022-3856](https://github.com/Live-Hack-CVE/CVE-2022-3856)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3856">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3856">
 
 ---
 ## CVE-2022-38553 (2022-09-26T10:15:00)
@@ -10331,6 +10381,11 @@
 ## CVE-2022-36773 (2022-09-01T19:15:00)
 > IBM Cognos Analytics 11.1.7, 11.2.0, and 11.2.1 is vulnerable to an XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 233571.
 - [Live-Hack-CVE/CVE-2022-36773](https://github.com/Live-Hack-CVE/CVE-2022-36773)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36773">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36773">
+
+---
+## CVE-2022-3677 (2022-12-05T17:15:00)
+> The Advanced Import WordPress plugin before 1.3.8 does not have CSRF check when installing and activating plugins, which could allow attackers to make a logged in admin install arbitrary plugins from WordPress.org, and activate arbitrary ones from the blog via CSRF attacks
+- [Live-Hack-CVE/CVE-2022-3677](https://github.com/Live-Hack-CVE/CVE-2022-3677)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3677">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3677">
 
 ---
 ## CVE-2022-36768 (2022-09-13T21:15:00)
@@ -12707,6 +12762,11 @@
 - [coco0x0a/CTF_CVE-2022-34265](https://github.com/coco0x0a/CTF_CVE-2022-34265)	<img alt="forks" src="https://img.shields.io/github/forks/coco0x0a/CTF_CVE-2022-34265">	<img alt="stars" src="https://img.shields.io/github/stars/coco0x0a/CTF_CVE-2022-34265">
 
 ---
+## CVE-2022-3426 (2022-12-05T17:15:00)
+> The Advanced WP Columns WordPress plugin through 2.0.6 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup).
+- [Live-Hack-CVE/CVE-2022-3426](https://github.com/Live-Hack-CVE/CVE-2022-3426)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3426">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3426">
+
+---
 ## CVE-2022-34256 (2022-08-16T21:15:00)
 > Adobe Commerce versions 2.4.3-p2 (and earlier), 2.3.7-p3 (and earlier) and 2.4.4 (and earlier) are affected by an Improper Authorization vulnerability that could result in Privilege escalation. An attacker could leverage this vulnerability to access other user's data. Exploitation of this issue does not require user interaction.
 - [Live-Hack-CVE/CVE-2022-34256](https://github.com/Live-Hack-CVE/CVE-2022-34256)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34256">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34256">
@@ -13425,6 +13485,76 @@
 - [Live-Hack-CVE/CVE-2022-3266](https://github.com/Live-Hack-CVE/CVE-2022-3266)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3266">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3266">
 
 ---
+## CVE-2022-32634 (2022-12-05T15:15:00)
+> In ccci, there is a possible out of bounds write due to improper input validation. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07138646; Issue ID: ALPS07138646.
+- [Live-Hack-CVE/CVE-2022-32634](https://github.com/Live-Hack-CVE/CVE-2022-32634)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32634">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32634">
+
+---
+## CVE-2022-32630 (2022-12-05T15:15:00)
+> In throttling, there is a possible out of bounds write due to an incorrect calculation of buffer size. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07405966; Issue ID: ALPS07405966.
+- [Live-Hack-CVE/CVE-2022-32630](https://github.com/Live-Hack-CVE/CVE-2022-32630)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32630">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32630">
+
+---
+## CVE-2022-32629 (2022-12-05T15:15:00)
+> In isp, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07310774; Issue ID: ALPS07310774.
+- [Live-Hack-CVE/CVE-2022-32629](https://github.com/Live-Hack-CVE/CVE-2022-32629)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32629">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32629">
+
+---
+## CVE-2022-32628 (2022-12-05T15:15:00)
+> In isp, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07310780; Issue ID: ALPS07310780.
+- [Live-Hack-CVE/CVE-2022-32628](https://github.com/Live-Hack-CVE/CVE-2022-32628)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32628">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32628">
+
+---
+## CVE-2022-32626 (2022-12-05T15:15:00)
+> In display, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07326239; Issue ID: ALPS07326239.
+- [Live-Hack-CVE/CVE-2022-32626](https://github.com/Live-Hack-CVE/CVE-2022-32626)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32626">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32626">
+
+---
+## CVE-2022-32625 (2022-12-05T15:15:00)
+> In display, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07326216; Issue ID: ALPS07326216.
+- [Live-Hack-CVE/CVE-2022-32625](https://github.com/Live-Hack-CVE/CVE-2022-32625)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32625">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32625">
+
+---
+## CVE-2022-32624 (2022-12-05T15:15:00)
+> In throttling, there is a possible out of bounds write due to an incorrect calculation of buffer size. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07405923; Issue ID: ALPS07405923.
+- [Live-Hack-CVE/CVE-2022-32624](https://github.com/Live-Hack-CVE/CVE-2022-32624)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32624">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32624">
+
+---
+## CVE-2022-32622 (2022-12-05T15:15:00)
+> In gz, there is a possible memory corruption due to a missing bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07363786; Issue ID: ALPS07363786.
+- [Live-Hack-CVE/CVE-2022-32622](https://github.com/Live-Hack-CVE/CVE-2022-32622)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32622">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32622">
+
+---
+## CVE-2022-32621 (2022-12-05T15:15:00)
+> In isp, there is a possible out of bounds write due to a race condition. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07310829; Issue ID: ALPS07310829.
+- [Live-Hack-CVE/CVE-2022-32621](https://github.com/Live-Hack-CVE/CVE-2022-32621)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32621">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32621">
+
+---
+## CVE-2022-32620 (2022-12-05T15:15:00)
+> In mpu, there is a possible memory corruption due to a logic error. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07541753; Issue ID: ALPS07541753.
+- [Live-Hack-CVE/CVE-2022-32620](https://github.com/Live-Hack-CVE/CVE-2022-32620)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32620">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32620">
+
+---
+## CVE-2022-32619 (2022-12-05T15:15:00)
+> In keyinstall, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07439659; Issue ID: ALPS07439659.
+- [Live-Hack-CVE/CVE-2022-32619](https://github.com/Live-Hack-CVE/CVE-2022-32619)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32619">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32619">
+
+---
+## CVE-2022-32598 (2022-12-05T15:15:00)
+> In widevine, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07446228; Issue ID: ALPS07446228.
+- [Live-Hack-CVE/CVE-2022-32598](https://github.com/Live-Hack-CVE/CVE-2022-32598)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32598">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32598">
+
+---
+## CVE-2022-32597 (2022-12-05T15:15:00)
+> In widevine, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07446228; Issue ID: ALPS07446228.
+- [Live-Hack-CVE/CVE-2022-32597](https://github.com/Live-Hack-CVE/CVE-2022-32597)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32597">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32597">
+
+---
+## CVE-2022-32596 (2022-12-05T15:15:00)
+> In widevine, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07446213; Issue ID: ALPS07446213.
+- [Live-Hack-CVE/CVE-2022-32596](https://github.com/Live-Hack-CVE/CVE-2022-32596)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32596">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32596">
+
+---
 ## CVE-2022-32593 (2022-10-07T20:15:00)
 > In vowe, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07138493; Issue ID: ALPS07138493.
 - [Live-Hack-CVE/CVE-2022-32593](https://github.com/Live-Hack-CVE/CVE-2022-32593)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32593">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32593">
@@ -13508,6 +13638,11 @@
 ## CVE-2022-32491 (2022-10-12T20:15:00)
 > Dell Client BIOS contains a Buffer Overflow vulnerability. A local authenticated malicious user may potentially exploit this vulnerability by manipulating an SMI to cause an arbitrary write during SMM.
 - [Live-Hack-CVE/CVE-2022-32491](https://github.com/Live-Hack-CVE/CVE-2022-32491)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32491">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32491">
+
+---
+## CVE-2022-3249 (2022-12-05T17:15:00)
+> The WP CSV Exporter WordPress plugin before 1.3.7 does not properly sanitise and escape some parameters before using them in a SQL statement, allowing high privilege users such as admin to perform SQL injection attacks
+- [Live-Hack-CVE/CVE-2022-3249](https://github.com/Live-Hack-CVE/CVE-2022-3249)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3249">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3249">
 
 ---
 ## CVE-2022-32489 (2022-10-12T20:15:00)
@@ -15187,6 +15322,11 @@
 ## CVE-2022-29851 (2022-10-25T17:15:00)
 > documentconverter in OX App Suite through 7.10.6, in a non-default configuration with ghostscript, allows OS Command Injection because file conversion may occur for an EPS document that is disguised as a PDF document.
 - [Live-Hack-CVE/CVE-2022-29851](https://github.com/Live-Hack-CVE/CVE-2022-29851)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29851">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29851">
+
+---
+## CVE-2022-29837 (2022-12-01T17:15:00)
+> A path traversal vulnerability was addressed in Western Digital My Cloud Home, My Cloud Home Duo and SanDisk ibi which could allow an attacker to initiate installation of custom ZIP packages and overwrite system files. This could potentially lead to a code execution.
+- [Live-Hack-CVE/CVE-2022-29837](https://github.com/Live-Hack-CVE/CVE-2022-29837)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29837">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29837">
 
 ---
 ## CVE-2022-29836 (2022-11-09T21:15:00)
@@ -20348,6 +20488,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1552 (2022-08-31T16:15:00)
 > A flaw was found in PostgreSQL. There is an issue with incomplete efforts to operate safely when a privileged user is maintaining another user's objects. The Autovacuum, REINDEX, CREATE INDEX, REFRESH MATERIALIZED VIEW, CLUSTER, and pg_amcheck commands activated relevant protections too late or not at all during the process. This flaw allows an attacker with permission to create non-temporary objects in at least one schema to execute arbitrary SQL functions under a superuser identity.
 - [Live-Hack-CVE/CVE-2022-1552](https://github.com/Live-Hack-CVE/CVE-2022-1552)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1552">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1552">
+
+---
+## CVE-2022-1540 (2022-12-05T17:15:00)
+> The PostmagThemes Demo Import WordPress plugin through 1.0.7 does not validate the imported file, allowing high-privilege users such as admin to upload arbitrary files (such as PHP) leading to RCE.
+- [Live-Hack-CVE/CVE-2022-1540](https://github.com/Live-Hack-CVE/CVE-2022-1540)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1540">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1540">
 
 ---
 ## CVE-2022-1523 (2022-10-19T18:15:00)

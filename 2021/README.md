@@ -4378,6 +4378,11 @@
 - [Live-Hack-CVE/CVE-2021-22044](https://github.com/Live-Hack-CVE/CVE-2021-22044)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22044">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22044">
 
 ---
+## CVE-2021-22015 (2021-09-23T13:15:00)
+> The vCenter Server contains multiple local privilege escalation vulnerabilities due to improper permissions of files and directories. An authenticated local user with non-administrative privilege may exploit these issues to elevate their privileges to root on vCenter Server Appliance.
+- [Live-Hack-CVE/CVE-2021-22015](https://github.com/Live-Hack-CVE/CVE-2021-22015)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22015">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22015">
+
+---
 ## CVE-2021-22005 (2021-09-23T12:15:00)
 > The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.
 - [InventorMAO/cve-2021-22005](https://github.com/InventorMAO/cve-2021-22005)	<img alt="forks" src="https://img.shields.io/github/forks/InventorMAO/cve-2021-22005">	<img alt="stars" src="https://img.shields.io/github/stars/InventorMAO/cve-2021-22005">
