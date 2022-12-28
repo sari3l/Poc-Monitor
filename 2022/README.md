@@ -15409,12 +15409,38 @@
 > The issue was addressed with improved memory handling. This issue is fixed in iOS 15.6 and iPadOS 15.6, macOS Big Sur 11.6.8, watchOS 8.7, tvOS 15.6, macOS Monterey 12.5, Security Update 2022-005 Catalina. An app with root privileges may be able to execute arbitrary code with kernel privileges.
 - [Muirey03/CVE-2022-32832](https://github.com/Muirey03/CVE-2022-32832)	<img alt="forks" src="https://img.shields.io/github/forks/Muirey03/CVE-2022-32832">	<img alt="stars" src="https://img.shields.io/github/stars/Muirey03/CVE-2022-32832">
 - [AkbarTrilaksana/CVE-2022-32832](https://github.com/AkbarTrilaksana/CVE-2022-32832)	<img alt="forks" src="https://img.shields.io/github/forks/AkbarTrilaksana/CVE-2022-32832">	<img alt="stars" src="https://img.shields.io/github/stars/AkbarTrilaksana/CVE-2022-32832">
+- [Live-Hack-CVE/CVE-2022-32832](https://github.com/Live-Hack-CVE/CVE-2022-32832)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32832">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32832">
+
+---
+## CVE-2022-32831 (2022-09-23T19:15:00)
+> An out-of-bounds read was addressed with improved bounds checking. This issue is fixed in Security Update 2022-005 Catalina, macOS Big Sur 11.6.8, macOS Monterey 12.5. Processing a maliciously crafted AppleScript binary may result in unexpected termination or disclosure of process memory.
+- [Live-Hack-CVE/CVE-2022-32831](https://github.com/Live-Hack-CVE/CVE-2022-32831)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32831">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32831">
 
 ---
 ## CVE-2022-32827 (2022-11-01T20:15:00)
 > A memory corruption issue was addressed with improved state management. This issue is fixed in iOS 16, macOS Ventura 13. An app may be able to cause a denial-of-service.
 - [Live-Hack-CVE/CVE-2022-32827](https://github.com/Live-Hack-CVE/CVE-2022-32827)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32827">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32827">
 - [Live-Hack-CVE/CVE-2022-32827](https://github.com/Live-Hack-CVE/CVE-2022-32827)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32827">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32827">
+
+---
+## CVE-2022-32826 (2022-09-23T19:15:00)
+> An authorization issue was addressed with improved state management. This issue is fixed in iOS 15.6 and iPadOS 15.6, macOS Big Sur 11.6.8, watchOS 8.7, tvOS 15.6, macOS Monterey 12.5, Security Update 2022-005 Catalina. An app may be able to gain root privileges.
+- [Live-Hack-CVE/CVE-2022-32826](https://github.com/Live-Hack-CVE/CVE-2022-32826)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32826">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32826">
+
+---
+## CVE-2022-32823 (2022-09-23T19:15:00)
+> A memory initialization issue was addressed with improved memory handling. This issue is fixed in iOS 15.6 and iPadOS 15.6, macOS Big Sur 11.6.8, watchOS 8.7, tvOS 15.6, macOS Monterey 12.5, Security Update 2022-005 Catalina. An app may be able to leak sensitive user information.
+- [Live-Hack-CVE/CVE-2022-32823](https://github.com/Live-Hack-CVE/CVE-2022-32823)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32823">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32823">
+
+---
+## CVE-2022-32820 (2022-09-23T19:15:00)
+> An out-of-bounds write issue was addressed with improved input validation. This issue is fixed in iOS 15.6 and iPadOS 15.6, macOS Big Sur 11.6.8, watchOS 8.7, tvOS 15.6, macOS Monterey 12.5, Security Update 2022-005 Catalina. An app may be able to execute arbitrary code with kernel privileges.
+- [Live-Hack-CVE/CVE-2022-32820](https://github.com/Live-Hack-CVE/CVE-2022-32820)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32820">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32820">
+
+---
+## CVE-2022-32819 (2022-09-23T19:15:00)
+> A logic issue was addressed with improved state management. This issue is fixed in iOS 15.6 and iPadOS 15.6, macOS Big Sur 11.6.8, watchOS 8.7, tvOS 15.6, macOS Monterey 12.5, Security Update 2022-005 Catalina. An app may be able to gain root privileges.
+- [Live-Hack-CVE/CVE-2022-32819](https://github.com/Live-Hack-CVE/CVE-2022-32819)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32819">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32819">
 
 ---
 ## CVE-2022-32815 (2022-09-23T19:15:00)
@@ -15430,6 +15456,16 @@
 ## CVE-2022-32807 (2022-09-23T19:15:00)
 > This issue was addressed with improved file handling. This issue is fixed in Security Update 2022-005 Catalina, macOS Big Sur 11.6.8, macOS Monterey 12.5. An app may be able to overwrite arbitrary files.
 - [Live-Hack-CVE/CVE-2022-32807](https://github.com/Live-Hack-CVE/CVE-2022-32807)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32807">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32807">
+
+---
+## CVE-2022-32805 (2022-09-23T19:15:00)
+> The issue was addressed with improved handling of caches. This issue is fixed in Security Update 2022-005 Catalina, macOS Big Sur 11.6.8, macOS Monterey 12.5. An app may be able to access sensitive user information.
+- [Live-Hack-CVE/CVE-2022-32805](https://github.com/Live-Hack-CVE/CVE-2022-32805)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32805">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32805">
+
+---
+## CVE-2022-32800 (2022-09-23T19:15:00)
+> This issue was addressed with improved checks. This issue is fixed in Security Update 2022-005 Catalina, macOS Big Sur 11.6.8, macOS Monterey 12.5. An app may be able to modify protected parts of the file system.
+- [Live-Hack-CVE/CVE-2022-32800](https://github.com/Live-Hack-CVE/CVE-2022-32800)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32800">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32800">
 
 ---
 ## CVE-2022-3280 (2022-11-09T23:15:00)
