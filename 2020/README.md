@@ -2020,6 +2020,16 @@
 - [Live-Hack-CVE/CVE-2020-22033](https://github.com/Live-Hack-CVE/CVE-2020-22033)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-22033">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-22033">
 
 ---
+## CVE-2020-22032 (2021-05-27T19:15:00)
+> A heap-based Buffer Overflow vulnerability exists FFmpeg 4.2 at libavfilter/vf_edgedetect.c in gaussian_blur, which might lead to memory corruption and other potential consequences.
+- [Live-Hack-CVE/CVE-2020-22032](https://github.com/Live-Hack-CVE/CVE-2020-22032)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-22032">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-22032">
+
+---
+## CVE-2020-22025 (2021-05-27T19:15:00)
+> A heap-based Buffer Overflow vulnerability exists in gaussian_blur at libavfilter/vf_edgedetect.c, which might lead to memory corruption and other potential consequences.
+- [Live-Hack-CVE/CVE-2020-22025](https://github.com/Live-Hack-CVE/CVE-2020-22025)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-22025">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-22025">
+
+---
 ## CVE-2020-21997 (2021-04-29T15:15:00)
 > Smartwares HOME easy <=1.0.9 is vulnerable to an unauthenticated database backup download and information disclosure vulnerability. An attacker could disclose sensitive and clear-text information resulting in authentication bypass, session hijacking and full system control.
 - [Live-Hack-CVE/CVE-2020-21997](https://github.com/Live-Hack-CVE/CVE-2020-21997)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-21997">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-21997">

@@ -20460,6 +20460,16 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-24921](https://github.com/Live-Hack-CVE/CVE-2022-24921)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24921">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24921">
 
 ---
+## CVE-2022-24889 (2022-04-27T15:15:00)
+> Nextcloud Server is the file server software for Nextcloud, a self-hosted productivity platform. Prior to versions 21.0.8, 22.2.4, and 23.0.1, it is possible to trick administrators into enabling "recommended" apps for the Nextcloud server that they do not need, thus expanding their attack surface unnecessarily. This issue is fixed in versions 21.0.8 , 22.2.4, and 23.0.1.
+- [Live-Hack-CVE/CVE-2022-24889](https://github.com/Live-Hack-CVE/CVE-2022-24889)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24889">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24889">
+
+---
+## CVE-2022-24888 (2022-04-27T15:15:00)
+> Nextcloud Server is the file server software for Nextcloud, a self-hosted productivity platform. Prior to versions 20.0.14.4, 21.0.8, 22.2.4, and 23.0.1, it is possible to create files and folders that have leading and trailing \n, \r, \t, and \v characters. The server rejects files and folders that have these characters in the middle of their names, so this might be an opportunity for injection. This issue is fixed in versions 20.0.14.4, 21.0.8, 22.2.4, and 23.0.1. There are currently no known workarounds.
+- [Live-Hack-CVE/CVE-2022-24888](https://github.com/Live-Hack-CVE/CVE-2022-24888)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24888">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24888">
+
+---
 ## CVE-2022-24853 (2022-04-14T22:15:00)
 > Metabase is an open source business intelligence and analytics application. Metabase has a proxy to load arbitrary URLs for JSON maps as part of our GeoJSON support. While we do validation to not return contents of arbitrary URLs, there is a case where a particularly crafted request could result in file access on windows, which allows enabling an `NTLM relay attack`, potentially allowing an attacker to receive the system password hash. If you use Windows and are on this version of Metabase, please upgrade immediately. The following patches (or greater versions) are available: 0.42.4 and 1.42.4, 0.41.7 and 1.41.7, 0.40.8 and 1.40.8.
 - [secure-77/CVE-2022-24853](https://github.com/secure-77/CVE-2022-24853)	<img alt="forks" src="https://img.shields.io/github/forks/secure-77/CVE-2022-24853">	<img alt="stars" src="https://img.shields.io/github/stars/secure-77/CVE-2022-24853">
@@ -20514,6 +20524,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 > Haas Controller version 100.20.000.1110 has insufficient granularity of access control when using the "Ethernet Q Commands" service. Any user is able to write macros into registers outside of the authorized accessible range. This could allow a user to access privileged resources or resources out of context.
 - [Live-Hack-CVE/CVE-2022-2475](https://github.com/Live-Hack-CVE/CVE-2022-2475)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2475">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2475">
 - [Live-Hack-CVE/CVE-2022-24754](https://github.com/Live-Hack-CVE/CVE-2022-24754)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24754">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24754">
+
+---
+## CVE-2022-24741 (2022-03-09T22:15:00)
+> Nextcloud server is an open source, self hosted cloud style services platform. In affected versions an attacker can cause a denial of service by uploading specially crafted files which will cause the server to allocate too much memory / CPU. It is recommended that the Nextcloud Server is upgraded to 21.0.8 , 22.2.4 or 23.0.1. Users unable to upgrade should disable preview generation with the `'enable_previews'` config flag.
+- [Live-Hack-CVE/CVE-2022-24741](https://github.com/Live-Hack-CVE/CVE-2022-24741)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24741">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24741">
 
 ---
 ## CVE-2022-2474 (2022-10-28T18:15:00)
