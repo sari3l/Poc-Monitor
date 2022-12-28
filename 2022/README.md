@@ -19276,16 +19276,34 @@
 ## CVE-2022-26908 (2022-04-05T20:15:00)
 > Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-24475, CVE-2022-26891, CVE-2022-26894, CVE-2022-26895, CVE-2022-26900, CVE-2022-26909, CVE-2022-26912.
 - [Live-Hack-CVE/CVE-2022-26908](https://github.com/Live-Hack-CVE/CVE-2022-26908)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26908">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26908">
+- [Live-Hack-CVE/CVE-2022-26912](https://github.com/Live-Hack-CVE/CVE-2022-26912)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26912">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26912">
+- [Live-Hack-CVE/CVE-2022-26909](https://github.com/Live-Hack-CVE/CVE-2022-26909)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26909">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26909">
+- [Live-Hack-CVE/CVE-2022-26900](https://github.com/Live-Hack-CVE/CVE-2022-26900)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26900">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26900">
+- [Live-Hack-CVE/CVE-2022-26895](https://github.com/Live-Hack-CVE/CVE-2022-26895)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26895">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26895">
+- [Live-Hack-CVE/CVE-2022-26894](https://github.com/Live-Hack-CVE/CVE-2022-26894)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26894">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26894">
+- [Live-Hack-CVE/CVE-2022-24475](https://github.com/Live-Hack-CVE/CVE-2022-24475)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24475">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24475">
 
 ---
 ## CVE-2022-26900 (2022-04-05T20:15:00)
 > Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-24475, CVE-2022-26891, CVE-2022-26894, CVE-2022-26895, CVE-2022-26908, CVE-2022-26909, CVE-2022-26912.
 - [Live-Hack-CVE/CVE-2022-26900](https://github.com/Live-Hack-CVE/CVE-2022-26900)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26900">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26900">
+- [Live-Hack-CVE/CVE-2022-26912](https://github.com/Live-Hack-CVE/CVE-2022-26912)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26912">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26912">
+- [Live-Hack-CVE/CVE-2022-26909](https://github.com/Live-Hack-CVE/CVE-2022-26909)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26909">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26909">
+- [Live-Hack-CVE/CVE-2022-26908](https://github.com/Live-Hack-CVE/CVE-2022-26908)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26908">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26908">
+- [Live-Hack-CVE/CVE-2022-26895](https://github.com/Live-Hack-CVE/CVE-2022-26895)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26895">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26895">
+- [Live-Hack-CVE/CVE-2022-26894](https://github.com/Live-Hack-CVE/CVE-2022-26894)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26894">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26894">
+- [Live-Hack-CVE/CVE-2022-24475](https://github.com/Live-Hack-CVE/CVE-2022-24475)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24475">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24475">
 
 ---
 ## CVE-2022-26895 (2022-04-05T20:15:00)
 > Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-24475, CVE-2022-26891, CVE-2022-26894, CVE-2022-26900, CVE-2022-26908, CVE-2022-26909, CVE-2022-26912.
 - [Live-Hack-CVE/CVE-2022-26895](https://github.com/Live-Hack-CVE/CVE-2022-26895)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26895">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26895">
+- [Live-Hack-CVE/CVE-2022-26912](https://github.com/Live-Hack-CVE/CVE-2022-26912)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26912">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26912">
+- [Live-Hack-CVE/CVE-2022-26909](https://github.com/Live-Hack-CVE/CVE-2022-26909)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26909">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26909">
+- [Live-Hack-CVE/CVE-2022-26908](https://github.com/Live-Hack-CVE/CVE-2022-26908)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26908">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26908">
+- [Live-Hack-CVE/CVE-2022-26900](https://github.com/Live-Hack-CVE/CVE-2022-26900)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26900">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26900">
+- [Live-Hack-CVE/CVE-2022-26894](https://github.com/Live-Hack-CVE/CVE-2022-26894)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26894">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26894">
+- [Live-Hack-CVE/CVE-2022-24475](https://github.com/Live-Hack-CVE/CVE-2022-24475)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24475">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24475">
 
 ---
 ## CVE-2022-26894 (2022-04-05T20:15:00)
@@ -20487,6 +20505,12 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-24475 (2022-04-05T20:15:00)
 > Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-26891, CVE-2022-26894, CVE-2022-26895, CVE-2022-26900, CVE-2022-26908, CVE-2022-26909, CVE-2022-26912.
 - [Live-Hack-CVE/CVE-2022-24475](https://github.com/Live-Hack-CVE/CVE-2022-24475)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24475">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24475">
+- [Live-Hack-CVE/CVE-2022-26912](https://github.com/Live-Hack-CVE/CVE-2022-26912)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26912">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26912">
+- [Live-Hack-CVE/CVE-2022-26909](https://github.com/Live-Hack-CVE/CVE-2022-26909)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26909">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26909">
+- [Live-Hack-CVE/CVE-2022-26908](https://github.com/Live-Hack-CVE/CVE-2022-26908)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26908">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26908">
+- [Live-Hack-CVE/CVE-2022-26900](https://github.com/Live-Hack-CVE/CVE-2022-26900)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26900">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26900">
+- [Live-Hack-CVE/CVE-2022-26895](https://github.com/Live-Hack-CVE/CVE-2022-26895)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26895">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26895">
+- [Live-Hack-CVE/CVE-2022-26894](https://github.com/Live-Hack-CVE/CVE-2022-26894)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26894">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26894">
 
 ---
 ## CVE-2022-24472 (2022-04-15T19:15:00)
