@@ -3981,10 +3981,35 @@
 - [Live-Hack-CVE/CVE-2022-43234](https://github.com/Live-Hack-CVE/CVE-2022-43234)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43234">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43234">
 
 ---
+## CVE-2022-43233 (2022-10-28T18:15:00)
+> Canteen Management System v1.0 was discovered to contain a SQL injection vulnerability via the userid parameter at /php_action/fetchSelectedUser.php.
+- [Live-Hack-CVE/CVE-2022-43233](https://github.com/Live-Hack-CVE/CVE-2022-43233)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43233">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43233">
+
+---
+## CVE-2022-43232 (2022-10-28T18:15:00)
+> Canteen Management System v1.0 was discovered to contain a SQL injection vulnerability via the userid parameter at /php_action/fetchOrderData.php.
+- [Live-Hack-CVE/CVE-2022-43232](https://github.com/Live-Hack-CVE/CVE-2022-43232)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43232">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43232">
+
+---
+## CVE-2022-43231 (2022-10-28T18:15:00)
+> Canteen Management System v1.0 was discovered to contain an arbitrary file upload vulnerability via /youthappam/manage_website.php. This vulnerability allows attackers to execute arbitrary code via a crafted PHP file.
+- [Live-Hack-CVE/CVE-2022-43231](https://github.com/Live-Hack-CVE/CVE-2022-43231)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43231">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43231">
+
+---
+## CVE-2022-43230 (2022-10-28T18:15:00)
+> Simple Cold Storage Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /admin/?page=bookings/view_details.
+- [Live-Hack-CVE/CVE-2022-43230](https://github.com/Live-Hack-CVE/CVE-2022-43230)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43230">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43230">
+
+---
 ## CVE-2022-43229 (2022-10-28T18:15:00)
 > Simple Cold Storage Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /bookings/update_status.php.
 - [Live-Hack-CVE/CVE-2022-43229](https://github.com/Live-Hack-CVE/CVE-2022-43229)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43229">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43229">
 - [Live-Hack-CVE/CVE-2022-43229](https://github.com/Live-Hack-CVE/CVE-2022-43229)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43229">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43229">
+
+---
+## CVE-2022-43228 (2022-10-28T18:15:00)
+> Barangay Management System v1.0 was discovered to contain a SQL injection vulnerability via the hidden_id parameter at /clearance/clearance.php.
+- [Live-Hack-CVE/CVE-2022-43228](https://github.com/Live-Hack-CVE/CVE-2022-43228)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43228">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43228">
 
 ---
 ## CVE-2022-43226 (2022-11-02T17:15:00)
@@ -4271,6 +4296,11 @@
 ## CVE-2022-42998 (2022-10-26T19:15:00)
 > D-Link DIR-816 A2 1.10 B05 was discovered to contain a stack overflow via the srcip parameter at /goform/form2IPQoSTcAdd.
 - [Live-Hack-CVE/CVE-2022-42998](https://github.com/Live-Hack-CVE/CVE-2022-42998)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42998">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42998">
+
+---
+## CVE-2022-42992 (2022-10-27T12:15:00)
+> Multiple stored cross-site scripting (XSS) vulnerabilities in Train Scheduler App v1.0 allow attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Train Code, Train Name, and Destination text fields.
+- [Live-Hack-CVE/CVE-2022-42992](https://github.com/Live-Hack-CVE/CVE-2022-42992)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42992">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42992">
 
 ---
 ## CVE-2022-42990 (2022-11-07T16:15:00)
@@ -7594,6 +7624,11 @@
 - [Live-Hack-CVE/CVE-2022-40707](https://github.com/Live-Hack-CVE/CVE-2022-40707)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40707">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40707">
 
 ---
+## CVE-2022-40703 (2022-10-26T21:15:00)
+> CWE-302 Authentication Bypass by Assumed-Immutable Data in AliveCor Kardia App version 5.17.1-754993421 and prior on Android allows an unauthenticated attacker with physical access to the Android device containing the app to bypass application authentication and alter information in the app.
+- [Live-Hack-CVE/CVE-2022-40703](https://github.com/Live-Hack-CVE/CVE-2022-40703)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40703">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40703">
+
+---
 ## CVE-2022-4070 (2022-11-20T05:15:00)
 > Insufficient Session Expiration in GitHub repository librenms/librenms prior to 22.10.0.
 - [Live-Hack-CVE/CVE-2022-4070](https://github.com/Live-Hack-CVE/CVE-2022-4070)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4070">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4070">
@@ -8935,6 +8970,21 @@
 - [Live-Hack-CVE/CVE-2022-39358](https://github.com/Live-Hack-CVE/CVE-2022-39358)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39358">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39358">
 
 ---
+## CVE-2022-39357 (2022-10-26T15:15:00)
+> Winter is a free, open-source content management system based on the Laravel PHP framework. The Snowboard framework in versions 1.1.8, 1.1.9, and 1.2.0 is vulnerable to prototype pollution in the main Snowboard class as well as its plugin loader. The 1.0 branch of Winter is not affected, as it does not contain the Snowboard framework. This issue has been patched in v1.1.10 and v1.2.1. As a workaround, one may avoid this issue by following some common security practices for JavaScript, including implementing a content security policy and auditing scripts.
+- [Live-Hack-CVE/CVE-2022-39357](https://github.com/Live-Hack-CVE/CVE-2022-39357)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39357">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39357">
+
+---
+## CVE-2022-39355 (2022-10-26T20:15:00)
+> Discourse Patreon enables syncronization between Discourse Groups and Patreon rewards. On sites with Patreon login enabled, an improper authentication vulnerability could be used to take control of a victim's forum account. This vulnerability is patched in commit number 846d012151514b35ce42a1636c7d70f6dcee879e of the discourse-patreon plugin. Out of an abundance of caution, any Discourse accounts which have logged in with an unverified-email Patreon account will be logged out and asked to verify their email address on their next login. As a workaround, disable the patreon integration and log out all users with associated Patreon accounts.
+- [Live-Hack-CVE/CVE-2022-39355](https://github.com/Live-Hack-CVE/CVE-2022-39355)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39355">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39355">
+
+---
+## CVE-2022-39354 (2022-10-25T19:15:00)
+> SputnikVM, also called evm, is a Rust implementation of Ethereum Virtual Machine. A custom stateful precompile can use the `is_static` parameter to determine if the call is executed in a static context (via `STATICCALL`), and thus decide if stateful operations should be done. Prior to version 0.36.0, the passed `is_static` parameter was incorrect -- it was only set to `true` if the call came from a direct `STATICCALL` opcode. However, once a static call context is entered, it should stay static. The issue only impacts custom precompiles that actually uses `is_static`. For those affected, the issue can lead to possible incorrect state transitions. Version 0.36.0 contains a patch. There are no known workarounds.
+- [Live-Hack-CVE/CVE-2022-39354](https://github.com/Live-Hack-CVE/CVE-2022-39354)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39354">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39354">
+
+---
 ## CVE-2022-39353 (2022-11-02T17:15:00)
 > xmldom is a pure JavaScript W3C standard-based (XML DOM Level 2 Core) `DOMParser` and `XMLSerializer` module. xmldom parses XML that is not well-formed because it contains multiple top level elements, and adds all root nodes to the `childNodes` collection of the `Document`, without reporting any error or throwing. This breaks the assumption that there is only a single root node in the tree, which led to issuance of CVE-2022-39299 as it is a potential issue for dependents. Update to @xmldom/xmldom@~0.7.7, @xmldom/xmldom@~0.8.4 (dist-tag latest) or @xmldom/xmldom@>=0.9.0-beta.4 (dist-tag next). As a workaround, please one of the following approaches depending on your use case: instead of searching for elements in the whole DOM, only search in the `documentElement`or reject a document with a document that has more then 1 `childNode`.
 - [Live-Hack-CVE/CVE-2022-39353](https://github.com/Live-Hack-CVE/CVE-2022-39353)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39353">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39353">
@@ -9780,6 +9830,11 @@
 - [Live-Hack-CVE/CVE-2022-38788](https://github.com/Live-Hack-CVE/CVE-2022-38788)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38788">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38788">
 
 ---
+## CVE-2022-38784 (2022-08-30T03:15:00)
+> Poppler prior to and including 22.08.0 contains an integer overflow in the JBIG2 decoder (JBIG2Stream::readTextRegionSeg() in JBIGStream.cc). Processing a specially crafted PDF file or JBIG2 image could lead to a crash or the execution of arbitrary code. This is similar to the vulnerability described by CVE-2022-38171 in Xpdf.
+- [Live-Hack-CVE/CVE-2022-38784](https://github.com/Live-Hack-CVE/CVE-2022-38784)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38784">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38784">
+
+---
 ## CVE-2022-3878 (2022-11-07T16:15:00)
 > A vulnerability classified as critical has been found in Maxon ERP. This affects an unknown part of the file /index.php/purchase_order/browse_data. The manipulation of the argument tb_search leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-213039.
 - [Live-Hack-CVE/CVE-2022-3878](https://github.com/Live-Hack-CVE/CVE-2022-3878)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3878">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3878">
@@ -10372,6 +10427,11 @@
 > A cross site scripting vulnerability exists in some map service configurations of ArcGIS Server versions 10.8.1 and 10.7.1. Specifically crafted web requests can execute arbitrary JavaScript in the context of the victim's browser.
 - [Live-Hack-CVE/CVE-2022-38200](https://github.com/Live-Hack-CVE/CVE-2022-38200)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38200">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38200">
 - [Live-Hack-CVE/CVE-2022-38200](https://github.com/Live-Hack-CVE/CVE-2022-38200)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38200">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38200">
+
+---
+## CVE-2022-38199 (2022-10-25T17:15:00)
+> A remote file download issue can occur in some capabilities of Esri ArcGIS Server web services that may in some edge cases allow a remote, unauthenticated attacker to induce an unsuspecting victim to launch a process in the victim's PATH environment. Current browsers provide users with warnings against running unsigned executables downloaded from the internet.
+- [Live-Hack-CVE/CVE-2022-38199](https://github.com/Live-Hack-CVE/CVE-2022-38199)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38199">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38199">
 
 ---
 ## CVE-2022-38198 (2022-10-25T17:15:00)
@@ -13417,6 +13477,11 @@
 - [Live-Hack-CVE/CVE-2022-3574](https://github.com/Live-Hack-CVE/CVE-2022-3574)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3574">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3574">
 
 ---
+## CVE-2022-35739 (2022-10-25T17:15:00)
+> PRTG Network Monitor through 22.2.77.2204 does not prevent custom input for a device’s icon, which can be modified to insert arbitrary content into the style tag for that device. When the device page loads, the arbitrary Cascading Style Sheets (CSS) data is inserted into the style tag, loading malicious content. Due to PRTG Network Monitor preventing “characters, and from modern browsers disabling JavaScript support in style tags, this vulnerability could not be escalated into a Cross-Site Scripting vulnerability.
+- [Live-Hack-CVE/CVE-2022-35739](https://github.com/Live-Hack-CVE/CVE-2022-35739)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35739">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35739">
+
+---
 ## CVE-2022-35733 (2022-08-23T02:15:00)
 > Missing authentication for critical function vulnerability in UNIMO Technology digital video recorders (UDR-JA1004/JA1008/JA1016 firmware versions v1.0.20.13 and earlier, and UDR-JA1016 firmware versions v2.0.20.13 and earlier) allows a remote unauthenticated attacker to execute an arbitrary OS command by sending a specially crafted request to the affected device web interface.
 - [Live-Hack-CVE/CVE-2022-35733](https://github.com/Live-Hack-CVE/CVE-2022-35733)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35733">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35733">
@@ -15034,6 +15099,11 @@
 ## CVE-2022-3380 (2022-10-31T16:15:00)
 > The Customizer Export/Import WordPress plugin before 0.9.5 unserializes the content of an imported file, which could lead to PHP object injection issues when an admin imports (intentionally or not) a malicious file and a suitable gadget chain is present on the blog.
 - [Live-Hack-CVE/CVE-2022-3380](https://github.com/Live-Hack-CVE/CVE-2022-3380)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3380">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3380">
+
+---
+## CVE-2022-33757 (2022-10-25T17:15:00)
+> An authenticated attacker could read Nessus Debug Log file attachments from the web UI without having the correct privileges to do so. This may lead to the disclosure of information on the scan target and/or the Nessus scan to unauthorized parties able to reach the Nessus instance.
+- [Live-Hack-CVE/CVE-2022-33757](https://github.com/Live-Hack-CVE/CVE-2022-33757)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33757">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33757">
 
 ---
 ## CVE-2022-33749 (2022-10-11T13:15:00)
@@ -18639,6 +18709,11 @@
 - [Live-Hack-CVE/CVE-2022-2783](https://github.com/Live-Hack-CVE/CVE-2022-2783)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2783">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2783">
 
 ---
+## CVE-2022-2782 (2022-10-27T10:15:00)
+> In affected versions of Octopus Server it is possible for a session token to be valid indefinitely due to improper validation of the session token parameters.
+- [Live-Hack-CVE/CVE-2022-2782](https://github.com/Live-Hack-CVE/CVE-2022-2782)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2782">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2782">
+
+---
 ## CVE-2022-27815 (2022-03-30T00:15:00)
 > SWHKD 1.1.5 unsafely uses the /tmp/swhkd.pid pathname. There can be an information leak or denial of service.
 - [Live-Hack-CVE/CVE-2022-27815](https://github.com/Live-Hack-CVE/CVE-2022-27815)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27815">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27815">
@@ -19398,6 +19473,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-25932](https://github.com/Live-Hack-CVE/CVE-2022-25932)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25932">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25932">
 
 ---
+## CVE-2022-25918 (2022-10-27T10:15:00)
+> The package shescape from 1.5.10 and before 1.6.1 are vulnerable to Regular Expression Denial of Service (ReDoS) via the escape function in index.js, due to the usage of insecure regex in the escapeArgBash function.
+- [Live-Hack-CVE/CVE-2022-25918](https://github.com/Live-Hack-CVE/CVE-2022-25918)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25918">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25918">
+
+---
 ## CVE-2022-25912 (2022-12-06T05:15:00)
 > The package simple-git before 3.15.0 are vulnerable to Remote Code Execution (RCE) when enabling the ext transport protocol, which makes it exploitable via clone() method. This vulnerability exists due to an incomplete fix of [CVE-2022-24066](https://security.snyk.io/vuln/SNYK-JS-SIMPLEGIT-2434306).
 - [Live-Hack-CVE/CVE-2022-25912](https://github.com/Live-Hack-CVE/CVE-2022-25912)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25912">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25912">
@@ -19826,6 +19906,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-25089](https://github.com/Live-Hack-CVE/CVE-2022-25089)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25089">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25089">
 
 ---
+## CVE-2022-2508 (2022-10-27T10:15:00)
+> In affected versions of Octopus Server it is possible to reveal the existence of resources in a space that the user does not have access to due to verbose error messaging.
+- [Live-Hack-CVE/CVE-2022-2508](https://github.com/Live-Hack-CVE/CVE-2022-2508)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2508">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2508">
+
+---
 ## CVE-2022-2505 (2022-12-22T20:15:00)
 > Mozilla developers and the Mozilla Fuzzing Team reported memory safety bugs present in Firefox 102. Some of these bugs showed evidence of memory corruption and we presume that with enough effort some of these could have been exploited to run arbitrary code. This vulnerability affects Firefox ESR < 102.1, Firefox < 103, and Thunderbird < 102.1.
 - [Live-Hack-CVE/CVE-2022-2505](https://github.com/Live-Hack-CVE/CVE-2022-2505)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2505">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2505">
@@ -20142,6 +20227,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-24107 (2022-08-30T04:15:00)
 > Xpdf prior to 4.04 lacked an integer overflow check in JPXStream.cc.
 - [Live-Hack-CVE/CVE-2022-24107](https://github.com/Live-Hack-CVE/CVE-2022-24107)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24107">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24107">
+
+---
+## CVE-2022-24106 (2022-08-30T04:15:00)
+> In Xpdf prior to 4.04, the DCT (JPEG) decoder was incorrectly allowing the 'interleaved' flag to be changed after the first scan of the image, leading to an unknown integer-related vulnerability in Stream.cc.
+- [Live-Hack-CVE/CVE-2022-24106](https://github.com/Live-Hack-CVE/CVE-2022-24106)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24106">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24106">
 
 ---
 ## CVE-2022-24086 (2022-02-16T17:15:00)
@@ -23787,6 +23877,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1012 (2022-08-05T16:15:00)
 > A memory leak problem was found in the TCP source port generation algorithm in net/ipv4/tcp.c due to the small table perturb size. This flaw may allow an attacker to information leak and may cause a denial of service problem.
 - [nanopathi/Linux-4.19.72_CVE-2022-1012](https://github.com/nanopathi/Linux-4.19.72_CVE-2022-1012)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/Linux-4.19.72_CVE-2022-1012">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/Linux-4.19.72_CVE-2022-1012">
+- [Live-Hack-CVE/CVE-2022-1012](https://github.com/Live-Hack-CVE/CVE-2022-1012)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1012">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1012">
 
 ---
 ## CVE-2022-1000 (2022-03-17T11:15:00)

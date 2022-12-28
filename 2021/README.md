@@ -1709,6 +1709,16 @@
 - [Live-Hack-CVE/CVE-2021-3995](https://github.com/Live-Hack-CVE/CVE-2021-3995)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3995">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3995">
 
 ---
+## CVE-2021-39929 (2021-11-19T17:15:00)
+> Uncontrolled Recursion in the Bluetooth DHT dissector in Wireshark 3.4.0 to 3.4.9 and 3.2.0 to 3.2.17 allows denial of service via packet injection or crafted capture file
+- [Live-Hack-CVE/CVE-2021-39929](https://github.com/Live-Hack-CVE/CVE-2021-39929)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39929">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39929">
+
+---
+## CVE-2021-39928 (2021-11-18T19:15:00)
+> NULL pointer exception in the IEEE 802.11 dissector in Wireshark 3.4.0 to 3.4.9 and 3.2.0 to 3.2.17 allows denial of service via packet injection or crafted capture file
+- [Live-Hack-CVE/CVE-2021-39928](https://github.com/Live-Hack-CVE/CVE-2021-39928)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39928">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39928">
+
+---
 ## CVE-2021-39927 (2022-01-18T17:15:00)
 > Server side request forgery protections in GitLab CE/EE versions between 8.4 and 14.4.4, between 14.5.0 and 14.5.2, and between 14.6.0 and 14.6.1 would fail to protect against attacks sending requests to localhost on port 80 or 443 if GitLab was configured to run on a port other than 80 or 443
 - [Live-Hack-CVE/CVE-2021-39927](https://github.com/Live-Hack-CVE/CVE-2021-39927)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39927">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39927">
@@ -1717,26 +1727,36 @@
 ## CVE-2021-39926 (2021-11-19T17:15:00)
 > Buffer overflow in the Bluetooth HCI_ISO dissector in Wireshark 3.4.0 to 3.4.9 allows denial of service via packet injection or crafted capture file
 - [Live-Hack-CVE/CVE-2021-39926](https://github.com/Live-Hack-CVE/CVE-2021-39926)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39926">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39926">
+- [Live-Hack-CVE/CVE-2021-39926](https://github.com/Live-Hack-CVE/CVE-2021-39926)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39926">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39926">
 
 ---
 ## CVE-2021-39925 (2021-11-19T17:15:00)
 > Buffer overflow in the Bluetooth SDP dissector in Wireshark 3.4.0 to 3.4.9 and 3.2.0 to 3.2.17 allows denial of service via packet injection or crafted capture file
+- [Live-Hack-CVE/CVE-2021-39925](https://github.com/Live-Hack-CVE/CVE-2021-39925)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39925">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39925">
 - [Live-Hack-CVE/CVE-2021-39925](https://github.com/Live-Hack-CVE/CVE-2021-39925)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39925">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39925">
 
 ---
 ## CVE-2021-39924 (2021-11-19T17:15:00)
 > Large loop in the Bluetooth DHT dissector in Wireshark 3.4.0 to 3.4.9 and 3.2.0 to 3.2.17 allows denial of service via packet injection or crafted capture file
 - [Live-Hack-CVE/CVE-2021-39924](https://github.com/Live-Hack-CVE/CVE-2021-39924)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39924">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39924">
+- [Live-Hack-CVE/CVE-2021-39924](https://github.com/Live-Hack-CVE/CVE-2021-39924)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39924">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39924">
 
 ---
 ## CVE-2021-39922 (2021-11-19T17:15:00)
 > Buffer overflow in the C12.22 dissector in Wireshark 3.4.0 to 3.4.9 and 3.2.0 to 3.2.17 allows denial of service via packet injection or crafted capture file
+- [Live-Hack-CVE/CVE-2021-39922](https://github.com/Live-Hack-CVE/CVE-2021-39922)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39922">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39922">
 - [Live-Hack-CVE/CVE-2021-39922](https://github.com/Live-Hack-CVE/CVE-2021-39922)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39922">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39922">
 
 ---
 ## CVE-2021-39921 (2021-11-19T17:15:00)
 > NULL pointer exception in the Modbus dissector in Wireshark 3.4.0 to 3.4.9 and 3.2.0 to 3.2.17 allows denial of service via packet injection or crafted capture file
 - [Live-Hack-CVE/CVE-2021-39921](https://github.com/Live-Hack-CVE/CVE-2021-39921)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39921">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39921">
+- [Live-Hack-CVE/CVE-2021-39921](https://github.com/Live-Hack-CVE/CVE-2021-39921)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39921">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39921">
+
+---
+## CVE-2021-39920 (2021-11-18T19:15:00)
+> NULL pointer exception in the IPPUSB dissector in Wireshark 3.4.0 to 3.4.9 allows denial of service via packet injection or crafted capture file
+- [Live-Hack-CVE/CVE-2021-39920](https://github.com/Live-Hack-CVE/CVE-2021-39920)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39920">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39920">
 
 ---
 ## CVE-2021-3984 (2021-12-01T11:15:00)
@@ -3571,6 +3591,11 @@
 > If Thunderbird was configured to use STARTTLS for an IMAP connection, and an attacker injected IMAP server responses prior to the completion of the STARTTLS handshake, then Thunderbird didn't ignore the injected data. This could have resulted in Thunderbird showing incorrect information, for example the attacker could have tricked Thunderbird to show folders that didn't exist on the IMAP server. This vulnerability affects Thunderbird < 78.12.
 - [Live-Hack-CVE/CVE-2021-29969](https://github.com/Live-Hack-CVE/CVE-2021-29969)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29969">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29969">
 - [Live-Hack-CVE/CVE-2021-29969](https://github.com/Live-Hack-CVE/CVE-2021-29969)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29969">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29969">
+
+---
+## CVE-2021-29768 (2022-06-24T16:15:00)
+> IBM Cognos Analytics 11.1.7, 11.2.0, and 11.2.1 could allow a low level user to obtain sensitive information from the details of the 'Cloud Storage' page for which they should not have access. IBM X-Force ID: 202682.
+- [Live-Hack-CVE/CVE-2021-29768](https://github.com/Live-Hack-CVE/CVE-2021-29768)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29768">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29768">
 
 ---
 ## CVE-2021-29752 (2021-09-16T16:15:00)

@@ -1419,6 +1419,11 @@
 - [Live-Hack-CVE/CVE-2020-27652](https://github.com/Live-Hack-CVE/CVE-2020-27652)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27652">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27652">
 
 ---
+## CVE-2020-27618 (2021-02-26T23:15:00)
+> The iconv function in the GNU C Library (aka glibc or libc6) 2.32 and earlier, when processing invalid multi-byte input sequences in IBM1364, IBM1371, IBM1388, IBM1390, and IBM1399 encodings, fails to advance the input state, which could lead to an infinite loop in applications, resulting in a denial of service, a different vulnerability from CVE-2016-10228.
+- [Live-Hack-CVE/CVE-2020-27618](https://github.com/Live-Hack-CVE/CVE-2020-27618)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27618">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27618">
+
+---
 ## CVE-2020-2757 (2020-04-15T14:15:00)
 > Vulnerability in the Java SE, Java SE Embedded product of Oracle Java SE (component: Serialization). Supported versions that are affected are Java SE: 7u251, 8u241, 11.0.6 and 14; Java SE Embedded: 8u241. Difficult to exploit vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise Java SE, Java SE Embedded. Successful attacks of this vulnerability can result in unauthorized ability to cause a partial denial of service (partial DOS) of Java SE, Java SE Embedded. Note: Applies to client and server deployment of Java. This vulnerability can be exploited through sandboxed Java Web Start applications and sandboxed Java applets. It can also be exploited by supplying data to APIs in the specified Component without using sandboxed Java Web Start applications or sandboxed Java applets, such as through a web service. CVSS 3.0 Base Score 3.7 (Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:L).
 - [Live-Hack-CVE/CVE-2020-2757](https://github.com/Live-Hack-CVE/CVE-2020-2757)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2757">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2757">
@@ -2229,6 +2234,11 @@
 - [154802388/CVE-2020-17531](https://github.com/154802388/CVE-2020-17531)	<img alt="forks" src="https://img.shields.io/github/forks/154802388/CVE-2020-17531">	<img alt="stars" src="https://img.shields.io/github/stars/154802388/CVE-2020-17531">
 - [pangyu360es/CVE-2020-17530](https://github.com/pangyu360es/CVE-2020-17530)	<img alt="forks" src="https://img.shields.io/github/forks/pangyu360es/CVE-2020-17530">	<img alt="stars" src="https://img.shields.io/github/stars/pangyu360es/CVE-2020-17530">
 - [pazeray/CVE-2020-17533](https://github.com/pazeray/CVE-2020-17533)	<img alt="forks" src="https://img.shields.io/github/forks/pazeray/CVE-2020-17533">	<img alt="stars" src="https://img.shields.io/github/stars/pazeray/CVE-2020-17533">
+
+---
+## CVE-2020-1752 (2020-04-30T17:15:00)
+> A use-after-free vulnerability introduced in glibc upstream version 2.14 was found in the way the tilde expansion was carried out. Directory paths containing an initial tilde followed by a valid username were affected by this issue. A local attacker could exploit this flaw by creating a specially crafted path that, when processed by the glob function, would potentially lead to arbitrary code execution. This was fixed in version 2.32.
+- [Live-Hack-CVE/CVE-2020-1752](https://github.com/Live-Hack-CVE/CVE-2020-1752)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1752">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1752">
 
 ---
 ## CVE-2020-17519 (2021-01-05T12:15:00)
