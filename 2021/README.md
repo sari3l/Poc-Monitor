@@ -514,6 +514,11 @@
 - [Live-Hack-CVE/CVE-2021-43767](https://github.com/Live-Hack-CVE/CVE-2021-43767)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43767">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43767">
 
 ---
+## CVE-2021-43674 (2021-12-03T13:15:00)
+> ** UNSUPPORTED WHEN ASSIGNED ** ThinkUp 2.0-beta.10 is affected by a path manipulation vulnerability in Smarty.class.php. NOTE: This vulnerability only affects products that are no longer supported by the maintainer.
+- [Live-Hack-CVE/CVE-2021-43674](https://github.com/Live-Hack-CVE/CVE-2021-43674)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43674">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43674">
+
+---
 ## CVE-2021-43657 (2022-12-22T02:15:00)
 > A Stored Cross-site scripting (XSS) vulnerability via MAster.php in Sourcecodetester Simple Client Management System (SCMS) 1.0 allows remote attackers to inject arbitrary web script or HTML via the vulnerable input fields.
 - [c0n5n3d/CVE-2021-43657](https://github.com/c0n5n3d/CVE-2021-43657)	<img alt="forks" src="https://img.shields.io/github/forks/c0n5n3d/CVE-2021-43657">	<img alt="stars" src="https://img.shields.io/github/stars/c0n5n3d/CVE-2021-43657">
@@ -2317,6 +2322,11 @@
 - [Live-Hack-CVE/CVE-2021-3671](https://github.com/Live-Hack-CVE/CVE-2021-3671)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3671">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3671">
 
 ---
+## CVE-2021-36690 (2021-08-24T14:15:00)
+> ** DISPUTED ** A segmentation fault can occur in the sqlite3.exe command-line component of SQLite 3.36.0 via the idxGetTableInfo function when there is a crafted SQL query. NOTE: the vendor disputes the relevance of this report because a sqlite3.exe user already has full privileges (e.g., is intentionally allowed to execute commands). This report does NOT imply any problem in the SQLite library.
+- [Live-Hack-CVE/CVE-2021-36690](https://github.com/Live-Hack-CVE/CVE-2021-36690)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36690">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36690">
+
+---
 ## CVE-2021-3667 (2022-03-02T23:15:00)
 > An improper locking issue was found in the virStoragePoolLookupByTargetPath API of libvirt. It occurs in the storagePoolLookupByTargetPath function where a locked virStoragePoolObj object is not properly released on ACL permission failure. Clients connecting to the read-write socket with limited ACL permissions could use this flaw to acquire the lock and prevent other users from accessing storage pool/volume APIs, resulting in a denial of service condition. The highest threat from this vulnerability is to system availability.
 - [Live-Hack-CVE/CVE-2021-3667](https://github.com/Live-Hack-CVE/CVE-2021-3667)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3667">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3667">
@@ -3033,6 +3043,16 @@
 - [Live-Hack-CVE/CVE-2021-33713](https://github.com/Live-Hack-CVE/CVE-2021-33713)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33713">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33713">
 
 ---
+## CVE-2021-33656 (2022-07-18T15:15:00)
+> When setting font with malicous data by ioctl cmd PIO_FONT,kernel will write memory out of bounds.
+- [Live-Hack-CVE/CVE-2021-33656](https://github.com/Live-Hack-CVE/CVE-2021-33656)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33656">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33656">
+
+---
+## CVE-2021-33655 (2022-07-18T15:15:00)
+> When sending malicous data to kernel by ioctl cmd FBIOPUT_VSCREENINFO,kernel will write memory out of bounds.
+- [Live-Hack-CVE/CVE-2021-33655](https://github.com/Live-Hack-CVE/CVE-2021-33655)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33655">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33655">
+
+---
 ## CVE-2021-33640 (2022-12-19T16:15:00)
 > After tar_close(), libtar.c releases the memory pointed to by pointer t. After tar_close() is called in the list() function, it continues to use pointer t: free_longlink_longname(t->th_buf) . As a result, the released memory is used (use-after-free).
 - [Live-Hack-CVE/CVE-2021-33640](https://github.com/Live-Hack-CVE/CVE-2021-33640)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33640">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33640">
@@ -3132,6 +3152,11 @@
 ## CVE-2021-33069 (2022-05-12T17:15:00)
 > Improper resource shutdown or release in firmware for some Intel(R) SSD, Intel(R) SSD DC, Intel(R) Optane(TM) SSD and Intel(R) Optane(TM) SSD DC may allow a privileged user to potentially enable denial of service via local access.
 - [Live-Hack-CVE/CVE-2021-33069](https://github.com/Live-Hack-CVE/CVE-2021-33069)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33069">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33069">
+
+---
+## CVE-2021-33060 (2022-08-18T20:15:00)
+> Out-of-bounds write in the BIOS firmware for some Intel(R) Processors may allow an authenticated user to potentially enable escalation of privilege via local access.
+- [Live-Hack-CVE/CVE-2021-33060](https://github.com/Live-Hack-CVE/CVE-2021-33060)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33060">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33060">
 
 ---
 ## CVE-2021-33013 (2022-05-13T16:15:00)
@@ -3680,6 +3705,11 @@
 - [murataydemir/CVE-2021-27905](https://github.com/murataydemir/CVE-2021-27905)	<img alt="forks" src="https://img.shields.io/github/forks/murataydemir/CVE-2021-27905">	<img alt="stars" src="https://img.shields.io/github/stars/murataydemir/CVE-2021-27905">
 - [W2Ning/Solr-SSRF](https://github.com/W2Ning/Solr-SSRF)	<img alt="forks" src="https://img.shields.io/github/forks/W2Ning/Solr-SSRF">	<img alt="stars" src="https://img.shields.io/github/stars/W2Ning/Solr-SSRF">
 - [Henry4E36/Solr-SSRF](https://github.com/Henry4E36/Solr-SSRF)	<img alt="forks" src="https://img.shields.io/github/forks/Henry4E36/Solr-SSRF">	<img alt="stars" src="https://img.shields.io/github/stars/Henry4E36/Solr-SSRF">
+
+---
+## CVE-2021-27855 (2021-12-15T20:15:00)
+> FatPipe WARP, IPVPN, and MPVPN software prior to versions 10.1.2r60p91 and 10.2.2r42 allows a remote, authenticated attacker with read-only privileges to grant themselves administrative privileges. Older versions of FatPipe software may also be vulnerable. The FatPipe advisory identifier for this vulnerability is FPSA001.
+- [Live-Hack-CVE/CVE-2021-27855](https://github.com/Live-Hack-CVE/CVE-2021-27855)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27855">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27855">
 
 ---
 ## CVE-2021-27850 (2021-04-15T08:15:00)

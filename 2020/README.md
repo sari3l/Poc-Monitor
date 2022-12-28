@@ -397,6 +397,11 @@
 - [Live-Hack-CVE/CVE-2020-7679](https://github.com/Live-Hack-CVE/CVE-2020-7679)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7679">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7679">
 
 ---
+## CVE-2020-7677 (2022-07-25T14:15:00)
+> This affects the package thenify before 3.3.1. The name argument provided to the package can be controlled by users without any sanitization, and this is provided to the eval function without any sanitization.
+- [Live-Hack-CVE/CVE-2020-7677](https://github.com/Live-Hack-CVE/CVE-2020-7677)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7677">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7677">
+
+---
 ## CVE-2020-7644 (2020-04-28T19:15:00)
 > fun-map through 3.3.1 is vulnerable to Prototype Pollution. The function assocInM could be tricked into adding or modifying properties of 'Object.prototype' using a '__proto__' payload.
 - [Live-Hack-CVE/CVE-2020-7644](https://github.com/Live-Hack-CVE/CVE-2020-7644)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7644">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7644">
