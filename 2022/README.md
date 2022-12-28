@@ -2592,6 +2592,61 @@
 - [Live-Hack-CVE/CVE-2022-4427](https://github.com/Live-Hack-CVE/CVE-2022-4427)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4427">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4427">
 
 ---
+## CVE-2022-44260 (2022-11-23T16:15:00)
+> TOTOLINK LR350 V9.3.5u.6369_B20220309 contains a post-authentication buffer overflow via parameter sPort/ePort in the setIpPortFilterRules function.
+- [Live-Hack-CVE/CVE-2022-44260](https://github.com/Live-Hack-CVE/CVE-2022-44260)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44260">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44260">
+
+---
+## CVE-2022-44259 (2022-11-23T16:15:00)
+> TOTOLINK LR350 V9.3.5u.6369_B20220309 contains a post-authentication buffer overflow via parameter week, sTime, and eTime in the setParentalRules function.
+- [Live-Hack-CVE/CVE-2022-44259](https://github.com/Live-Hack-CVE/CVE-2022-44259)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44259">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44259">
+
+---
+## CVE-2022-44258 (2022-11-23T16:15:00)
+> TOTOLINK LR350 V9.3.5u.6369_B20220309 contains a post-authentication buffer overflow via parameter command in the setTracerouteCfg function.
+- [Live-Hack-CVE/CVE-2022-44258](https://github.com/Live-Hack-CVE/CVE-2022-44258)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44258">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44258">
+
+---
+## CVE-2022-44257 (2022-11-23T16:15:00)
+> TOTOLINK LR350 V9.3.5u.6369_B20220309 contains a post-authentication buffer overflow via parameter pppoeUser in the setOpModeCfg function.
+- [Live-Hack-CVE/CVE-2022-44257](https://github.com/Live-Hack-CVE/CVE-2022-44257)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44257">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44257">
+
+---
+## CVE-2022-44256 (2022-11-23T16:15:00)
+> TOTOLINK LR350 V9.3.5u.6369_B20220309 contains a post-authentication buffer overflow via parameter lang in the setLanguageCfg function.
+- [Live-Hack-CVE/CVE-2022-44256](https://github.com/Live-Hack-CVE/CVE-2022-44256)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44256">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44256">
+
+---
+## CVE-2022-44255 (2022-11-23T16:15:00)
+> TOTOLINK LR350 V9.3.5u.6369_B20220309 contains a pre-authentication buffer overflow in the main function via long post data.
+- [Live-Hack-CVE/CVE-2022-44255](https://github.com/Live-Hack-CVE/CVE-2022-44255)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44255">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44255">
+
+---
+## CVE-2022-44254 (2022-11-23T16:15:00)
+> TOTOLINK LR350 V9.3.5u.6369_B20220309 contains a post-authentication buffer overflow via parameter text in the setSmsCfg function.
+- [Live-Hack-CVE/CVE-2022-44254](https://github.com/Live-Hack-CVE/CVE-2022-44254)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44254">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44254">
+
+---
+## CVE-2022-44253 (2022-11-23T16:15:00)
+> TOTOLINK LR350 V9.3.5u.6369_B20220309 contains a post-authentication buffer overflow via parameter ip in the setDiagnosisCfg function.
+- [Live-Hack-CVE/CVE-2022-44253](https://github.com/Live-Hack-CVE/CVE-2022-44253)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44253">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44253">
+
+---
+## CVE-2022-44252 (2022-11-23T16:15:00)
+> TOTOLINK NR1800X V9.1.0u.6279_B20210910 contains a command injection via the FileName parameter in the setUploadSetting function.
+- [Live-Hack-CVE/CVE-2022-44252](https://github.com/Live-Hack-CVE/CVE-2022-44252)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44252">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44252">
+
+---
+## CVE-2022-44251 (2022-11-23T16:15:00)
+> TOTOLINK NR1800X V9.1.0u.6279_B20210910 contains a command injection via the ussd parameter in the setUssd function.
+- [Live-Hack-CVE/CVE-2022-44251](https://github.com/Live-Hack-CVE/CVE-2022-44251)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44251">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44251">
+
+---
+## CVE-2022-44250 (2022-11-23T16:15:00)
+> TOTOLINK NR1800X V9.1.0u.6279_B20210910 contains a command injection via the hostName parameter in the setOpModeCfg function.
+- [Live-Hack-CVE/CVE-2022-44250](https://github.com/Live-Hack-CVE/CVE-2022-44250)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44250">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44250">
+
+---
 ## CVE-2022-44236 (2022-12-15T19:15:00)
 > Beijing Zed-3 Technologies Co.,Ltd VoIP simpliclty ASG 8.5.0.17807 (20181130-16:12) has a Weak password vulnerability.
 - [Live-Hack-CVE/CVE-2022-44236](https://github.com/Live-Hack-CVE/CVE-2022-44236)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44236">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44236">
@@ -2626,45 +2681,55 @@
 ## CVE-2022-44183 (2022-11-21T18:15:00)
 > Tenda AC18 V15.03.05.19 is vulnerable to Buffer Overflow via function formSetWifiGuestBasic.
 - [Live-Hack-CVE/CVE-2022-44183](https://github.com/Live-Hack-CVE/CVE-2022-44183)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44183">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44183">
+- [Live-Hack-CVE/CVE-2022-44183](https://github.com/Live-Hack-CVE/CVE-2022-44183)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44183">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44183">
+- [FuHaoPing/CVE-2022-44183](https://github.com/FuHaoPing/CVE-2022-44183)	<img alt="forks" src="https://img.shields.io/github/forks/FuHaoPing/CVE-2022-44183">	<img alt="stars" src="https://img.shields.io/github/stars/FuHaoPing/CVE-2022-44183">
 
 ---
 ## CVE-2022-44180 (2022-11-21T18:15:00)
 > Tenda AC18 V15.03.05.19 is vulnerable to Buffer Overflow via function addWifiMacFilter.
+- [Live-Hack-CVE/CVE-2022-44180](https://github.com/Live-Hack-CVE/CVE-2022-44180)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44180">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44180">
 - [Live-Hack-CVE/CVE-2022-44180](https://github.com/Live-Hack-CVE/CVE-2022-44180)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44180">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44180">
 
 ---
 ## CVE-2022-44178 (2022-11-21T18:15:00)
 > Tenda AC18 V15.03.05.19 is vulnerable to Buffer Overflow. via function formWifiWpsOOB.
 - [Live-Hack-CVE/CVE-2022-44178](https://github.com/Live-Hack-CVE/CVE-2022-44178)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44178">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44178">
+- [Live-Hack-CVE/CVE-2022-44178](https://github.com/Live-Hack-CVE/CVE-2022-44178)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44178">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44178">
 
 ---
 ## CVE-2022-44177 (2022-11-21T18:15:00)
 > Tenda AC18 V15.03.05.19 is vulnerable to Buffer Overflow via function formWifiWpsStart.
+- [Live-Hack-CVE/CVE-2022-44177](https://github.com/Live-Hack-CVE/CVE-2022-44177)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44177">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44177">
 - [Live-Hack-CVE/CVE-2022-44177](https://github.com/Live-Hack-CVE/CVE-2022-44177)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44177">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44177">
 
 ---
 ## CVE-2022-44176 (2022-11-21T18:15:00)
 > Tenda AC18 V15.03.05.19 is vulnerable to Buffer Overflow via function fromSetRouteStatic.
 - [Live-Hack-CVE/CVE-2022-44176](https://github.com/Live-Hack-CVE/CVE-2022-44176)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44176">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44176">
+- [Live-Hack-CVE/CVE-2022-44176](https://github.com/Live-Hack-CVE/CVE-2022-44176)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44176">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44176">
 
 ---
 ## CVE-2022-44175 (2022-11-21T18:15:00)
 > Tenda AC18 V15.03.05.19 is vulnerable to Buffer Overflow via function formSetMacFilterCfg.
+- [Live-Hack-CVE/CVE-2022-44175](https://github.com/Live-Hack-CVE/CVE-2022-44175)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44175">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44175">
 - [Live-Hack-CVE/CVE-2022-44175](https://github.com/Live-Hack-CVE/CVE-2022-44175)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44175">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44175">
 
 ---
 ## CVE-2022-44174 (2022-11-21T18:15:00)
 > Tenda AC18 V15.03.05.05 is vulnerable to Buffer Overflow via function formSetDeviceName.
 - [Live-Hack-CVE/CVE-2022-44174](https://github.com/Live-Hack-CVE/CVE-2022-44174)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44174">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44174">
+- [Live-Hack-CVE/CVE-2022-44174](https://github.com/Live-Hack-CVE/CVE-2022-44174)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44174">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44174">
 
 ---
 ## CVE-2022-44172 (2022-11-21T18:15:00)
 > Tenda AC18 V15.03.05.19 is vulnerable to Buffer Overflow via function R7WebsSecurityHandler.
 - [Live-Hack-CVE/CVE-2022-44172](https://github.com/Live-Hack-CVE/CVE-2022-44172)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44172">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44172">
+- [Live-Hack-CVE/CVE-2022-44172](https://github.com/Live-Hack-CVE/CVE-2022-44172)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44172">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44172">
 
 ---
 ## CVE-2022-44171 (2022-11-21T18:15:00)
 > Tenda AC18 V15.03.05.19 is vulnerable to Buffer Overflow via function form_fast_setting_wifi_set.
+- [Live-Hack-CVE/CVE-2022-44171](https://github.com/Live-Hack-CVE/CVE-2022-44171)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44171">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44171">
 - [Live-Hack-CVE/CVE-2022-44171](https://github.com/Live-Hack-CVE/CVE-2022-44171)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44171">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44171">
 
 ---
@@ -3760,6 +3825,16 @@
 - [Live-Hack-CVE/CVE-2022-42898](https://github.com/Live-Hack-CVE/CVE-2022-42898)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42898">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42898">
 
 ---
+## CVE-2022-42896 (2022-11-23T15:15:00)
+> There are use-after-free vulnerabilities in the Linux kernel's net/bluetooth/l2cap_core.c's l2cap_connect and l2cap_le_connect_req functions which may allow code execution and leaking kernel memory (respectively) remotely via Bluetooth. A remote attacker could execute code leaking kernel memory via Bluetooth if within proximity of the victim. We recommend upgrading past commit https://www.google.com/url https://github.com/torvalds/linux/commit/711f8c3fb3db61897080468586b970c87c61d9e4 https://www.google.com/url
+- [Live-Hack-CVE/CVE-2022-42896](https://github.com/Live-Hack-CVE/CVE-2022-42896)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42896">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42896">
+
+---
+## CVE-2022-42895 (2022-11-23T15:15:00)
+> There is an infoleak vulnerability in the Linux kernel's net/bluetooth/l2cap_core.c's l2cap_parse_conf_req function which can be used to leak kernel pointers remotely. We recommend upgrading past commit https://github.com/torvalds/linux/commit/b1a2cd50c0357f243b7435a732b4e62ba3157a2e https://www.google.com/url
+- [Live-Hack-CVE/CVE-2022-42895](https://github.com/Live-Hack-CVE/CVE-2022-42895)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42895">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42895">
+
+---
 ## CVE-2022-42890 (2022-10-25T17:15:00)
 > A vulnerability in Batik of Apache XML Graphics allows an attacker to run Java code from untrusted SVG via JavaScript. This issue affects Apache XML Graphics prior to 1.16. Users are recommended to upgrade to version 1.16.
 - [Live-Hack-CVE/CVE-2022-42890](https://github.com/Live-Hack-CVE/CVE-2022-42890)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42890">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42890">
@@ -4820,6 +4895,7 @@
 ---
 ## CVE-2022-41945 (2022-11-21T23:15:00)
 > super-xray is a vulnerability scanner (xray) GUI launcher. In version 0.1-beta, the URL is not filtered and directly spliced ??into the command, resulting in a possible RCE vulnerability. Users should upgrade to super-xray 0.2-beta.
+- [Live-Hack-CVE/CVE-2022-41945](https://github.com/Live-Hack-CVE/CVE-2022-41945)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41945">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41945">
 - [Live-Hack-CVE/CVE-2022-41945](https://github.com/Live-Hack-CVE/CVE-2022-41945)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41945">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41945">
 
 ---
@@ -6727,6 +6803,7 @@
 ---
 ## CVE-2022-4066 (2022-11-19T19:15:00)
 > A vulnerability was found in davidmoreno onion. It has been rated as problematic. Affected by this issue is the function onion_response_flush of the file src/onion/response.c of the component Log Handler. The manipulation leads to allocation of resources. The name of the patch is de8ea938342b36c28024fd8393ebc27b8442a161. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-214028.
+- [Live-Hack-CVE/CVE-2022-4066](https://github.com/Live-Hack-CVE/CVE-2022-4066)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4066">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4066">
 - [Live-Hack-CVE/CVE-2022-4066](https://github.com/Live-Hack-CVE/CVE-2022-4066)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4066">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4066">
 
 ---
@@ -9913,6 +9990,11 @@
 - [Live-Hack-CVE/CVE-2022-37781](https://github.com/Live-Hack-CVE/CVE-2022-37781)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37781">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37781">
 
 ---
+## CVE-2022-37772 (2022-11-23T02:15:00)
+> Maarch RM 2.8.3 solution contains an improper restriction of excessive authentication attempts due to excessive verbose responses from the application. An unauthenticated remote attacker could potentially exploit this vulnerability, leading to compromised accounts.
+- [Live-Hack-CVE/CVE-2022-37772](https://github.com/Live-Hack-CVE/CVE-2022-37772)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37772">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37772">
+
+---
 ## CVE-2022-3775 (2022-12-19T20:15:00)
 > When rendering certain unicode sequences, grub2's font code doesn't proper validate if the informed glyph's width and height is constrained within bitmap size. As consequence an attacker can craft an input which will lead to a out-of-bounds write into grub2's heap, leading to memory corruption and availability issues. Although complex, arbitrary code execution could not be discarded.
 - [Live-Hack-CVE/CVE-2022-3775](https://github.com/Live-Hack-CVE/CVE-2022-3775)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3775">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3775">
@@ -11372,6 +11454,7 @@
 ## CVE-2022-36179 (2022-11-22T01:15:00)
 > Fusiondirectory 1.3 suffers from Improper Session Handling.
 - [Live-Hack-CVE/CVE-2022-36179](https://github.com/Live-Hack-CVE/CVE-2022-36179)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36179">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36179">
+- [Live-Hack-CVE/CVE-2022-36179](https://github.com/Live-Hack-CVE/CVE-2022-36179)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36179">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36179">
 
 ---
 ## CVE-2022-36174 (2022-09-12T21:15:00)
@@ -11457,6 +11540,11 @@
 ## CVE-2022-36123 (2022-07-29T14:15:00)
 > The Linux kernel before 5.18.13 lacks a certain clear operation for the block starting symbol (.bss). This allows Xen PV guest OS users to cause a denial of service or gain privileges.
 - [Live-Hack-CVE/CVE-2022-36123](https://github.com/Live-Hack-CVE/CVE-2022-36123)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36123">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36123">
+
+---
+## CVE-2022-36111 (2022-11-23T18:15:00)
+> immudb is a database with built-in cryptographic proof and verification. In versions prior to 1.4.1, a malicious immudb server can provide a falsified proof that will be accepted by the client SDK signing a falsified transaction replacing the genuine one. This situation can not be triggered by a genuine immudb server and requires the client to perform a specific list of verified operations resulting in acceptance of an invalid state value. This vulnerability only affects immudb client SDKs, the immudb server itself is not affected by this vulnerability. This issue has been patched in version 1.4.1.
+- [Live-Hack-CVE/CVE-2022-36111](https://github.com/Live-Hack-CVE/CVE-2022-36111)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36111">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36111">
 
 ---
 ## CVE-2022-36108 (2022-09-13T18:15:00)
@@ -12803,6 +12891,11 @@
 ## CVE-2022-34836 (2022-08-24T16:15:00)
 > Relative Path Traversal vulnerability in ABB Zenon 8.20 allows the user to access files on the Zenon system and user also can add own log messages and e.g., flood the log entries. An attacker who successfully exploit the vulnerability could access the Zenon runtime activities such as the start and stop of various activity and the last error code etc.
 - [Live-Hack-CVE/CVE-2022-34836](https://github.com/Live-Hack-CVE/CVE-2022-34836)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34836">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34836">
+
+---
+## CVE-2022-34830 (2022-11-23T03:15:00)
+> An Arm product family through 2022-06-29 has a TOCTOU Race Condition that allows non-privileged user to make improper GPU processing operations to gain access to already freed memory.
+- [Live-Hack-CVE/CVE-2022-34830](https://github.com/Live-Hack-CVE/CVE-2022-34830)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34830">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34830">
 
 ---
 ## CVE-2022-3483 (2022-11-09T23:15:00)
@@ -21196,6 +21289,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [greek0x0/CVE-2022-1292](https://github.com/greek0x0/CVE-2022-1292)	<img alt="forks" src="https://img.shields.io/github/forks/greek0x0/CVE-2022-1292">	<img alt="stars" src="https://img.shields.io/github/stars/greek0x0/CVE-2022-1292">
 - [und3sc0n0c1d0/CVE-2022-1292](https://github.com/und3sc0n0c1d0/CVE-2022-1292)	<img alt="forks" src="https://img.shields.io/github/forks/und3sc0n0c1d0/CVE-2022-1292">	<img alt="stars" src="https://img.shields.io/github/stars/und3sc0n0c1d0/CVE-2022-1292">
 - [Live-Hack-CVE/CVE-2022-1292](https://github.com/Live-Hack-CVE/CVE-2022-1292)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1292">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1292">
+
+---
+## CVE-2022-1270 (2022-09-28T20:15:00)
+> In GraphicsMagick, a heap buffer overflow was found when parsing MIFF.
+- [Live-Hack-CVE/CVE-2022-1270](https://github.com/Live-Hack-CVE/CVE-2022-1270)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1270">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1270">
 
 ---
 ## CVE-2022-1269 (2022-05-02T16:15:00)
