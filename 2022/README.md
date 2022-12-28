@@ -16950,6 +16950,7 @@
 ## CVE-2022-2881 (2022-09-21T11:15:00)
 > The underlying bug might cause read past end of the buffer and either read memory it should not read, or crash the process.
 - [Live-Hack-CVE/CVE-2022-2881](https://github.com/Live-Hack-CVE/CVE-2022-2881)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2881">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2881">
+- [Live-Hack-CVE/CVE-2022-28813](https://github.com/Live-Hack-CVE/CVE-2022-28813)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28813">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28813">
 
 ---
 ## CVE-2022-28805 (2022-04-08T06:15:00)
