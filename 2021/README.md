@@ -1636,6 +1636,7 @@
 ## CVE-2021-3948 (2022-02-18T18:15:00)
 > An incorrect default permissions vulnerability was found in the mig-controller. Due to an incorrect cluster namespaces handling an attacker may be able to migrate a malicious workload to the target cluster, impacting confidentiality, integrity, and availability of the services located on that cluster.
 - [Live-Hack-CVE/CVE-2021-3948](https://github.com/Live-Hack-CVE/CVE-2021-3948)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3948">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3948">
+- [Live-Hack-CVE/CVE-2021-3948](https://github.com/Live-Hack-CVE/CVE-2021-3948)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3948">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3948">
 
 ---
 ## CVE-2021-39473 (2022-11-04T19:15:00)
@@ -2473,6 +2474,14 @@
 ## CVE-2021-35236 (2021-10-27T01:15:00)
 > The Secure flag is not set in the SSL Cookie of Kiwi Syslog Server 9.7.2 and previous versions. The Secure attribute tells the browser to only send the cookie if the request is being sent over a secure channel such as HTTPS. This will help protect the cookie from being passed over unencrypted requests. If the application can be accessed over both HTTP, there is a potential for the cookie can be sent in clear text.
 - [Live-Hack-CVE/CVE-2021-35236](https://github.com/Live-Hack-CVE/CVE-2021-35236)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35236">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35236">
+
+---
+## CVE-2021-3521 (2022-08-22T15:15:00)
+> There is a flaw in RPM's signature functionality. OpenPGP subkeys are associated with a primary key via a "binding signature." RPM does not check the binding signature of subkeys prior to importing them. If an attacker is able to add or socially engineer another party to add a malicious subkey to a legitimate public key, RPM could wrongly trust a malicious signature. The greatest impact of this flaw is to data integrity. To exploit this flaw, an attacker must either compromise an RPM repository or convince an administrator to install an untrusted RPM or public key. It is strongly recommended to only use RPMs and public keys from trusted sources.
+- [Live-Hack-CVE/CVE-2021-3521](https://github.com/Live-Hack-CVE/CVE-2021-3521)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3521">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3521">
+- [BishopFox/CVE-2021-35211](https://github.com/BishopFox/CVE-2021-35211)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/CVE-2021-35211">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/CVE-2021-35211">
+- [Y4er/CVE-2021-35215](https://github.com/Y4er/CVE-2021-35215)	<img alt="forks" src="https://img.shields.io/github/forks/Y4er/CVE-2021-35215">	<img alt="stars" src="https://img.shields.io/github/stars/Y4er/CVE-2021-35215">
+- [NattiSamson/Serv-U-CVE-2021-35211](https://github.com/NattiSamson/Serv-U-CVE-2021-35211)	<img alt="forks" src="https://img.shields.io/github/forks/NattiSamson/Serv-U-CVE-2021-35211">	<img alt="stars" src="https://img.shields.io/github/stars/NattiSamson/Serv-U-CVE-2021-35211">
 
 ---
 ## CVE-2021-3520 (2021-06-02T13:15:00)
@@ -3695,6 +3704,11 @@
 - [DShankle/VLC_CVE-2021-25804_Analysis](https://github.com/DShankle/VLC_CVE-2021-25804_Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/DShankle/VLC_CVE-2021-25804_Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/DShankle/VLC_CVE-2021-25804_Analysis">
 
 ---
+## CVE-2021-25746 (2022-05-06T01:15:00)
+> A security issue was discovered in ingress-nginx where a user that can create or update ingress objects can use .metadata.annotations in an Ingress object (in the networking.k8s.io or extensions API group) to obtain the credentials of the ingress-nginx controller. In the default configuration, that credential has access to all secrets in the cluster.
+- [Live-Hack-CVE/CVE-2021-25746](https://github.com/Live-Hack-CVE/CVE-2021-25746)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25746">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25746">
+
+---
 ## CVE-2021-25738 (2021-10-11T19:15:00)
 > Loading specially-crafted yaml with the Kubernetes Java Client library can lead to code execution.
 - [Live-Hack-CVE/CVE-2021-25738](https://github.com/Live-Hack-CVE/CVE-2021-25738)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25738">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25738">
@@ -4695,6 +4709,7 @@
 ---
 ## CVE-2021-20315 (2022-02-18T18:15:00)
 > A locking protection bypass flaw was found in some versions of gnome-shell as shipped within CentOS Stream 8, when the "Application menu" or "Window list" GNOME extensions are enabled. This flaw allows a physical attacker who has access to a locked system to kill existing applications and start new ones as the locked user, even if the session is still locked.
+- [Live-Hack-CVE/CVE-2021-20315](https://github.com/Live-Hack-CVE/CVE-2021-20315)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20315">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20315">
 - [Live-Hack-CVE/CVE-2021-20315](https://github.com/Live-Hack-CVE/CVE-2021-20315)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20315">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20315">
 
 ---

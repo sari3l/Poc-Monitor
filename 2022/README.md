@@ -3375,6 +3375,7 @@
 ## CVE-2022-43229 (2022-10-28T18:15:00)
 > Simple Cold Storage Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /bookings/update_status.php.
 - [Live-Hack-CVE/CVE-2022-43229](https://github.com/Live-Hack-CVE/CVE-2022-43229)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43229">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43229">
+- [Live-Hack-CVE/CVE-2022-43229](https://github.com/Live-Hack-CVE/CVE-2022-43229)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43229">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43229">
 
 ---
 ## CVE-2022-43223 (2022-11-01T14:15:00)
@@ -3599,6 +3600,7 @@
 ---
 ## CVE-2022-42968 (2022-10-16T04:15:00)
 > Gitea before 1.17.3 does not sanitize and escape refs in the git backend. Arguments to git commands are mishandled.
+- [Live-Hack-CVE/CVE-2022-42968](https://github.com/Live-Hack-CVE/CVE-2022-42968)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42968">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42968">
 - [Live-Hack-CVE/CVE-2022-42968](https://github.com/Live-Hack-CVE/CVE-2022-42968)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42968">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42968">
 
 ---
@@ -4417,6 +4419,7 @@
 ## CVE-2022-42311 (2022-11-01T13:15:00)
 > Xenstore: guests can let run xenstored out of memory T[his CNA information record relates to multiple CVEs; the text explains which aspects/vulnerabilities correspond to which CVE.] Malicious guests can cause xenstored to allocate vast amounts of memory, eventually resulting in a Denial of Service (DoS) of xenstored. There are multiple ways how guests can cause large memory allocations in xenstored: - - by issuing new requests to xenstored without reading the responses, causing the responses to be buffered in memory - - by causing large number of watch events to be generated via setting up multiple xenstore watches and then e.g. deleting many xenstore nodes below the watched path - - by creating as many nodes as allowed with the maximum allowed size and path length in as many transactions as possible - - by accessing many nodes inside a transaction
 - [Live-Hack-CVE/CVE-2022-42311](https://github.com/Live-Hack-CVE/CVE-2022-42311)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42311">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42311">
+- [Live-Hack-CVE/CVE-2022-42311](https://github.com/Live-Hack-CVE/CVE-2022-42311)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42311">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42311">
 
 ---
 ## CVE-2022-42310 (2022-11-01T13:15:00)
@@ -4501,6 +4504,7 @@
 ---
 ## CVE-2022-42227 (2022-10-19T18:15:00)
 > jsonlint 1.0 is vulnerable to heap-buffer-overflow via /home/hjsz/jsonlint/src/lexer.
+- [Live-Hack-CVE/CVE-2022-42227](https://github.com/Live-Hack-CVE/CVE-2022-42227)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42227">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42227">
 - [Live-Hack-CVE/CVE-2022-42227](https://github.com/Live-Hack-CVE/CVE-2022-42227)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42227">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42227">
 
 ---
@@ -4748,6 +4752,11 @@
 ## CVE-2022-41957 (2022-11-28T15:15:00)
 > Muhammara is a node module with c/cpp bindings to modify PDF with JavaScript for node or electron. The package muhammara before 2.6.2 and from 3.0.0 and before 3.3.0, as well as all versions of muhammara's predecessor package hummus, are vulnerable to Denial of Service (DoS) when supplied with a maliciously crafted PDF file to be parsed. The issue has been patched in muhammara version 3.4.0 and the fix has been backported to version 2.6.2. As a workaround, do not process files from untrusted sources. If using hummus, replace the package with muhammara.
 - [Live-Hack-CVE/CVE-2022-41957](https://github.com/Live-Hack-CVE/CVE-2022-41957)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41957">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41957">
+
+---
+## CVE-2022-41946 (2022-11-23T20:15:00)
+> pgjdbc is an open source postgresql JDBC Driver. In affected versions a prepared statement using either `PreparedStatement.setText(int, InputStream)` or `PreparedStatemet.setBytea(int, InputStream)` will create a temporary file if the InputStream is larger than 2k. This will create a temporary file which is readable by other users on Unix like systems, but not MacOS. On Unix like systems, the system's temporary directory is shared between all users on that system. Because of this, when files and directories are written into this directory they are, by default, readable by other users on that same system. This vulnerability does not allow other users to overwrite the contents of these directories or files. This is purely an information disclosure vulnerability. Because certain JDK file system APIs were only added in JDK 1.7, this this fix is dependent upon the version of the JDK you are using. Java 1.7 and higher users: this vulnerability is fixed in 4.5.0. Java 1.6 and lower users: no patch is available. If you are unable to patch, or are stuck running on Java 1.6, specifying the java.io.tmpdir system environment variable to a directory that is exclusively owned by the executing user will mitigate this vulnerability.
+- [Live-Hack-CVE/CVE-2022-41946](https://github.com/Live-Hack-CVE/CVE-2022-41946)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41946">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41946">
 
 ---
 ## CVE-2022-41945 (2022-11-21T23:15:00)
@@ -5097,6 +5106,7 @@
 ## CVE-2022-41741 (2022-10-19T22:15:00)
 > NGINX Open Source before versions 1.23.2 and 1.22.1, NGINX Open Source Subscription before versions R2 P1 and R1 P1, and NGINX Plus before versions R27 P1 and R26 P1 have a vulnerability in the module ngx_http_mp4_module that might allow a local attacker to corrupt NGINX worker memory, resulting in its termination or potential other impact using a specially crafted audio or video file. The issue affects only NGINX products that are built with the ngx_http_mp4_module, when the mp4 directive is used in the configuration file. Further, the attack is possible only if an attacker can trigger processing of a specially crafted audio or video file with the module ngx_http_mp4_module.
 - [Live-Hack-CVE/CVE-2022-41741](https://github.com/Live-Hack-CVE/CVE-2022-41741)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41741">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41741">
+- [Live-Hack-CVE/CVE-2022-41741](https://github.com/Live-Hack-CVE/CVE-2022-41741)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41741">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41741">
 
 ---
 ## CVE-2022-4174 (2022-11-30T00:15:00)
@@ -5384,6 +5394,11 @@
 > The Web Client component of TIBCO Software Inc.'s TIBCO Nimbus contains an easily exploitable vulnerability that allows an unauthenticated attacker with network access to exploit an open redirect on the affected system. A successful attack using this vulnerability requires human interaction from a person other than the attacker. Affected releases are TIBCO Software Inc.'s TIBCO Nimbus: version 10.5.0.
 - [Live-Hack-CVE/CVE-2022-41559](https://github.com/Live-Hack-CVE/CVE-2022-41559)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41559">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41559">
 - [Live-Hack-CVE/CVE-2022-41559](https://github.com/Live-Hack-CVE/CVE-2022-41559)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41559">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41559">
+
+---
+## CVE-2022-41556 (2022-10-06T18:17:00)
+> A resource leak in gw_backend.c in lighttpd 1.4.56 through 1.4.66 could lead to a denial of service (connection-slot exhaustion) after a large amount of anomalous TCP behavior by clients. It is related to RDHUP mishandling in certain HTTP/1.1 chunked situations. Use of mod_fastcgi is, for example, affected. This is fixed in 1.4.67.
+- [Live-Hack-CVE/CVE-2022-41556](https://github.com/Live-Hack-CVE/CVE-2022-41556)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41556">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41556">
 
 ---
 ## CVE-2022-4155 (2022-12-26T13:15:00)
@@ -7810,10 +7825,12 @@
 ## CVE-2022-39251 (2022-09-28T20:15:00)
 > Matrix Javascript SDK is the Matrix Client-Server SDK for JavaScript. Prior to version 19.7.0, an attacker cooperating with a malicious homeserver can construct messages that legitimately appear to have come from another person, without any indication such as a grey shield. Additionally, a sophisticated attacker cooperating with a malicious homeserver could employ this vulnerability to perform a targeted attack in order to send fake to-device messages appearing to originate from another user. This can allow, for example, to inject the key backup secret during a self-verification, to make a targeted device start using a malicious key backup spoofed by the homeserver. These attacks are possible due to a protocol confusion vulnerability that accepts to-device messages encrypted with Megolm instead of Olm. Starting with version 19.7.0, matrix-js-sdk has been modified to only accept Olm-encrypted to-device messages. Out of caution, several other checks have been audited or added. This attack requires coordination between a malicious home server and an attacker, so those who trust their home servers do not need a workaround.
 - [Live-Hack-CVE/CVE-2022-39251](https://github.com/Live-Hack-CVE/CVE-2022-39251)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39251">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39251">
+- [Live-Hack-CVE/CVE-2022-39251](https://github.com/Live-Hack-CVE/CVE-2022-39251)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39251">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39251">
 
 ---
 ## CVE-2022-39250 (2022-09-29T13:15:00)
 > Matrix JavaScript SDK is the Matrix Client-Server software development kit (SDK) for JavaScript. Prior to version 19.7.0, an attacker cooperating with a malicious homeserver could interfere with the verification flow between two users, injecting its own cross-signing user identity in place of one of the users’ identities. This would lead to the other device trusting/verifying the user identity under the control of the homeserver instead of the intended one. The vulnerability is a bug in the matrix-js-sdk, caused by checking and signing user identities and devices in two separate steps, and inadequately fixing the keys to be signed between those steps. Even though the attack is partly made possible due to the design decision of treating cross-signing user identities as Matrix devices on the server side (with their device ID set to the public part of the user identity key), no other examined implementations were vulnerable. Starting with version 19.7.0, the matrix-js-sdk has been modified to double check that the key signed is the one that was verified instead of just referencing the key by ID. An additional check has been made to report an error when one of the device ID matches a cross-signing key. As this attack requires coordination between a malicious homeserver and an attacker, those who trust their homeservers do not need a particular workaround.
+- [Live-Hack-CVE/CVE-2022-39250](https://github.com/Live-Hack-CVE/CVE-2022-39250)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39250">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39250">
 - [Live-Hack-CVE/CVE-2022-39250](https://github.com/Live-Hack-CVE/CVE-2022-39250)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39250">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39250">
 
 ---
@@ -7972,6 +7989,11 @@
 ## CVE-2022-39177 (2022-09-02T04:15:00)
 > BlueZ before 5.59 allows physically proximate attackers to cause a denial of service because malformed and invalid capabilities can be processed in profiles/audio/avdtp.c.
 - [Live-Hack-CVE/CVE-2022-39177](https://github.com/Live-Hack-CVE/CVE-2022-39177)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39177">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39177">
+
+---
+## CVE-2022-39173 (2022-09-29T01:15:00)
+> In wolfSSL before 5.5.1, malicious clients can cause a buffer overflow during a TLS 1.3 handshake. This occurs when an attacker supposedly resumes a previous TLS session. During the resumption Client Hello a Hello Retry Request must be triggered. Both Client Hellos are required to contain a list of duplicate cipher suites to trigger the buffer overflow. In total, two Client Hellos have to be sent: one in the resumed session, and a second one as a response to a Hello Retry Request message.
+- [Live-Hack-CVE/CVE-2022-39173](https://github.com/Live-Hack-CVE/CVE-2022-39173)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39173">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39173">
 
 ---
 ## CVE-2022-3917 (2022-12-14T22:15:00)
@@ -8984,6 +9006,11 @@
 - [Live-Hack-CVE/CVE-2022-38183](https://github.com/Live-Hack-CVE/CVE-2022-38183)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38183">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38183">
 
 ---
+## CVE-2022-38178 (2022-09-21T11:15:00)
+> By spoofing the target resolver with responses that have a malformed EdDSA signature, an attacker can trigger a small memory leak. It is possible to gradually erode available memory to the point where named crashes for lack of resources.
+- [Live-Hack-CVE/CVE-2022-38178](https://github.com/Live-Hack-CVE/CVE-2022-38178)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38178">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38178">
+
+---
 ## CVE-2022-38172 (2022-08-23T19:15:00)
 > ServiceNow through San Diego Patch 3 allows XSS via the name field during creation of a new dashboard for the Performance Analytics dashboard.
 - [Live-Hack-CVE/CVE-2022-38172](https://github.com/Live-Hack-CVE/CVE-2022-38172)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38172">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38172">
@@ -9709,6 +9736,11 @@
 ## CVE-2022-37798 (2022-08-25T15:15:00)
 > Tenda AC1206 V15.03.06.23 was discovered to contain a stack overflow via the list parameter at the function formSetVirtualSer.
 - [Live-Hack-CVE/CVE-2022-37798](https://github.com/Live-Hack-CVE/CVE-2022-37798)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37798">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37798">
+
+---
+## CVE-2022-37797 (2022-09-12T15:15:00)
+> In lighttpd 1.4.65, mod_wstunnel does not initialize a handler function pointer if an invalid HTTP request (websocket handshake) is received. It leads to null pointer dereference which crashes the server. It could be used by an external attacker to cause denial of service condition.
+- [Live-Hack-CVE/CVE-2022-37797](https://github.com/Live-Hack-CVE/CVE-2022-37797)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37797">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37797">
 
 ---
 ## CVE-2022-37794 (2022-09-12T00:15:00)
@@ -13059,6 +13091,7 @@
 ## CVE-2022-33890 (2022-10-03T15:15:00)
 > A maliciously crafted PCT or DWF file when consumed through DesignReview.exe application could lead to memory corruption vulnerability by read access violation. This vulnerability in conjunction with other vulnerabilities could lead to code execution in the context of the current process.
 - [Live-Hack-CVE/CVE-2022-33890](https://github.com/Live-Hack-CVE/CVE-2022-33890)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33890">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33890">
+- [Live-Hack-CVE/CVE-2022-33890](https://github.com/Live-Hack-CVE/CVE-2022-33890)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33890">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33890">
 
 ---
 ## CVE-2022-3388 (2022-11-21T19:15:00)
@@ -14053,6 +14086,7 @@
 > Insufficient validation of untrusted input in DevTools in Google Chrome on Chrome OS prior to 105.0.5195.125 allowed an attacker who convinced a user to install a malicious extension to bypass navigation restrictions via a crafted HTML page. (Chromium security severity: High)
 - [Live-Hack-CVE/CVE-2022-3201](https://github.com/Live-Hack-CVE/CVE-2022-3201)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3201">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3201">
 - [heavenswill/CVE-2022-32013](https://github.com/heavenswill/CVE-2022-32013)	<img alt="forks" src="https://img.shields.io/github/forks/heavenswill/CVE-2022-32013">	<img alt="stars" src="https://img.shields.io/github/stars/heavenswill/CVE-2022-32013">
+- [Live-Hack-CVE/CVE-2022-3201](https://github.com/Live-Hack-CVE/CVE-2022-3201)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3201">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3201">
 
 ---
 ## CVE-2022-3199 (2022-09-26T16:15:00)
@@ -14665,6 +14699,11 @@
 - [gscharf/CVE-2022-31007-Python-POC](https://github.com/gscharf/CVE-2022-31007-Python-POC)	<img alt="forks" src="https://img.shields.io/github/forks/gscharf/CVE-2022-31007-Python-POC">	<img alt="stars" src="https://img.shields.io/github/stars/gscharf/CVE-2022-31007-Python-POC">
 
 ---
+## CVE-2022-31003 (2022-05-31T20:15:00)
+> Sofia-SIP is an open-source Session Initiation Protocol (SIP) User-Agent library. Prior to version 1.13.8, when parsing each line of a sdp message, `rest = record + 2` will access the memory behind `\0` and cause an out-of-bounds write. An attacker can send a message with evil sdp to FreeSWITCH, causing a crash or more serious consequence, such as remote code execution. Version 1.13.8 contains a patch for this issue.
+- [Live-Hack-CVE/CVE-2022-31003](https://github.com/Live-Hack-CVE/CVE-2022-31003)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31003">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31003">
+
+---
 ## CVE-2022-3099 (2022-09-03T16:15:00)
 > Use After Free in GitHub repository vim/vim prior to 9.0.0360.
 - [Live-Hack-CVE/CVE-2022-3099](https://github.com/Live-Hack-CVE/CVE-2022-3099)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3099">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3099">
@@ -14756,6 +14795,11 @@
 ## CVE-2022-3082 (2022-10-17T12:15:00)
 > The miniOrange Discord Integration WordPress plugin before 2.1.6 does not have authorisation and CSRF in some of its AJAX actions, allowing any logged in users, such as subscriber to call them, and disable the app for example
 - [Live-Hack-CVE/CVE-2022-3082](https://github.com/Live-Hack-CVE/CVE-2022-3082)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3082">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3082">
+
+---
+## CVE-2022-3080 (2022-09-21T11:15:00)
+> By sending specific queries to the resolver, an attacker can cause named to crash.
+- [Live-Hack-CVE/CVE-2022-3080](https://github.com/Live-Hack-CVE/CVE-2022-3080)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3080">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3080">
 
 ---
 ## CVE-2022-30792 (2022-07-11T11:15:00)
@@ -15796,6 +15840,11 @@
 > The ejs (aka Embedded JavaScript templates) package 3.1.6 for Node.js allows server-side template injection in settings[view options][outputFunctionName]. This is parsed as an internal option, and overwrites the outputFunctionName option with an arbitrary OS command (which is executed upon template compilation).
 - [miko550/CVE-2022-29078](https://github.com/miko550/CVE-2022-29078)	<img alt="forks" src="https://img.shields.io/github/forks/miko550/CVE-2022-29078">	<img alt="stars" src="https://img.shields.io/github/stars/miko550/CVE-2022-29078">
 - [Live-Hack-CVE/CVE-2022-29078](https://github.com/Live-Hack-CVE/CVE-2022-29078)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29078">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29078">
+
+---
+## CVE-2022-2906 (2022-09-21T11:15:00)
+> An attacker can leverage this flaw to gradually erode available memory to the point where named crashes for lack of resources. Upon restart the attacker would have to begin again, but nevertheless there is the potential to deny service.
+- [Live-Hack-CVE/CVE-2022-2906](https://github.com/Live-Hack-CVE/CVE-2022-2906)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2906">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2906">
 
 ---
 ## CVE-2022-29048 (2022-04-12T20:15:00)
@@ -18029,6 +18078,16 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [FridayOrtiz/CVE-2022-23222](https://github.com/FridayOrtiz/CVE-2022-23222)	<img alt="forks" src="https://img.shields.io/github/forks/FridayOrtiz/CVE-2022-23222">	<img alt="stars" src="https://img.shields.io/github/stars/FridayOrtiz/CVE-2022-23222">
 - [tr3ee/CVE-2022-23222](https://github.com/tr3ee/CVE-2022-23222)	<img alt="forks" src="https://img.shields.io/github/forks/tr3ee/CVE-2022-23222">	<img alt="stars" src="https://img.shields.io/github/stars/tr3ee/CVE-2022-23222">
 - [Live-Hack-CVE/CVE-2022-23222](https://github.com/Live-Hack-CVE/CVE-2022-23222)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23222">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23222">
+
+---
+## CVE-2022-2320 (2022-09-01T21:15:00)
+> A flaw was found in the Xorg-x11-server. The specific flaw exists within the handling of ProcXkbSetDeviceInfo requests. The issue results from the lack of proper validation of user-supplied data, which can result in a memory access past the end of an allocated buffer. This flaw allows an attacker to escalate privileges and execute arbitrary code in the context of root.
+- [Live-Hack-CVE/CVE-2022-2320](https://github.com/Live-Hack-CVE/CVE-2022-2320)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2320">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2320">
+
+---
+## CVE-2022-2319 (2022-09-01T21:15:00)
+> A flaw was found in the Xorg-x11-server. An out-of-bounds access issue can occur in the ProcXkbSetGeometry function due to improper validation of the request length.
+- [Live-Hack-CVE/CVE-2022-2319](https://github.com/Live-Hack-CVE/CVE-2022-2319)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2319">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2319">
 
 ---
 ## CVE-2022-2315 (2022-09-21T08:15:00)
@@ -20552,6 +20611,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1664 (2022-05-26T14:15:00)
 > Dpkg::Source::Archive in dpkg, the Debian package management system, before version 1.21.8, 1.20.10, 1.19.8, 1.18.26 is prone to a directory traversal vulnerability. When extracting untrusted source packages in v2 and v3 source package formats that include a debian.tar, the in-place extraction can lead to directory traversal situations on specially crafted orig.tar and debian.tar tarballs.
 - [Live-Hack-CVE/CVE-2022-1664](https://github.com/Live-Hack-CVE/CVE-2022-1664)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1664">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1664">
+- [Live-Hack-CVE/CVE-2022-1664](https://github.com/Live-Hack-CVE/CVE-2022-1664)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1664">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1664">
 
 ---
 ## CVE-2022-1652 (2022-06-02T14:15:00)
@@ -20589,9 +20649,19 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-1629](https://github.com/Live-Hack-CVE/CVE-2022-1629)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1629">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1629">
 
 ---
+## CVE-2022-1623 (2022-05-11T15:15:00)
+> LibTIFF master branch has an out-of-bounds read in LZWDecode in libtiff/tif_lzw.c:624, allowing attackers to cause a denial-of-service via a crafted tiff file. For users that compile libtiff from sources, the fix is available with commit b4e79bfa.
+- [Live-Hack-CVE/CVE-2022-1623](https://github.com/Live-Hack-CVE/CVE-2022-1623)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1623">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1623">
+
+---
 ## CVE-2022-1621 (2022-05-10T14:15:00)
 > Heap buffer overflow in vim_strncpy find_word in GitHub repository vim/vim prior to 8.2.4919. This vulnerability is capable of crashing software, Bypass Protection Mechanism, Modify Memory, and possible remote execution
 - [Live-Hack-CVE/CVE-2022-1621](https://github.com/Live-Hack-CVE/CVE-2022-1621)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1621">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1621">
+
+---
+## CVE-2022-1619 (2022-05-08T10:15:00)
+> Heap-based Buffer Overflow in function cmdline_erase_chars in GitHub repository vim/vim prior to 8.2.4899. This vulnerabilities are capable of crashing software, modify memory, and possible remote execution
+- [Live-Hack-CVE/CVE-2022-1619](https://github.com/Live-Hack-CVE/CVE-2022-1619)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1619">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1619">
 
 ---
 ## CVE-2022-1616 (2022-05-07T19:15:00)
