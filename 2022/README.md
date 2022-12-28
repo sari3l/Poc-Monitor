@@ -1743,9 +1743,24 @@
 - [Live-Hack-CVE/CVE-2022-45403](https://github.com/Live-Hack-CVE/CVE-2022-45403)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45403">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45403">
 
 ---
+## CVE-2022-45401 (2022-11-15T20:15:00)
+> Jenkins Associated Files Plugin 0.2.1 and earlier does not escape names of associated files, resulting in a stored cross-site scripting (XSS) vulnerability exploitable by attackers with Item/Configure permission.
+- [Live-Hack-CVE/CVE-2022-45401](https://github.com/Live-Hack-CVE/CVE-2022-45401)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45401">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45401">
+
+---
 ## CVE-2022-45400 (2022-11-15T20:15:00)
 > Jenkins JAPEX Plugin 1.7 and earlier does not configure its XML parser to prevent XML external entity (XXE) attacks.
 - [Live-Hack-CVE/CVE-2022-45400](https://github.com/Live-Hack-CVE/CVE-2022-45400)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45400">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45400">
+
+---
+## CVE-2022-45399 (2022-11-15T20:15:00)
+> A missing permission check in Jenkins Cluster Statistics Plugin 0.4.6 and earlier allows attackers to delete recorded Jenkins Cluster Statistics.
+- [Live-Hack-CVE/CVE-2022-45399](https://github.com/Live-Hack-CVE/CVE-2022-45399)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45399">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45399">
+
+---
+## CVE-2022-45398 (2022-11-15T20:15:00)
+> A cross-site request forgery (CSRF) vulnerability in Jenkins Cluster Statistics Plugin 0.4.6 and earlier allows attackers to delete recorded Jenkins Cluster Statistics.
+- [Live-Hack-CVE/CVE-2022-45398](https://github.com/Live-Hack-CVE/CVE-2022-45398)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45398">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45398">
 
 ---
 ## CVE-2022-45397 (2022-11-15T20:15:00)
@@ -1761,6 +1776,41 @@
 ## CVE-2022-45395 (2022-11-15T20:15:00)
 > Jenkins CCCC Plugin 0.6 and earlier does not configure its XML parser to prevent XML external entity (XXE) attacks.
 - [Live-Hack-CVE/CVE-2022-45395](https://github.com/Live-Hack-CVE/CVE-2022-45395)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45395">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45395">
+
+---
+## CVE-2022-45394 (2022-11-15T20:15:00)
+> A missing permission check in Jenkins Delete log Plugin 1.0 and earlier allows attackers with Item/Read permission to delete build logs.
+- [Live-Hack-CVE/CVE-2022-45394](https://github.com/Live-Hack-CVE/CVE-2022-45394)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45394">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45394">
+
+---
+## CVE-2022-45393 (2022-11-15T20:15:00)
+> A cross-site request forgery (CSRF) vulnerability in Jenkins Delete log Plugin 1.0 and earlier allows attackers to delete build logs.
+- [Live-Hack-CVE/CVE-2022-45393](https://github.com/Live-Hack-CVE/CVE-2022-45393)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45393">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45393">
+
+---
+## CVE-2022-45392 (2022-11-15T20:15:00)
+> Jenkins NS-ND Integration Performance Publisher Plugin 4.8.0.143 and earlier stores passwords unencrypted in job config.xml files on the Jenkins controller where they can be viewed by attackers with Extended Read permission, or access to the Jenkins controller file system.
+- [Live-Hack-CVE/CVE-2022-45392](https://github.com/Live-Hack-CVE/CVE-2022-45392)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45392">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45392">
+
+---
+## CVE-2022-45391 (2022-11-15T20:15:00)
+> Jenkins NS-ND Integration Performance Publisher Plugin 4.8.0.143 and earlier globally and unconditionally disables SSL/TLS certificate and hostname validation for the entire Jenkins controller JVM.
+- [Live-Hack-CVE/CVE-2022-45391](https://github.com/Live-Hack-CVE/CVE-2022-45391)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45391">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45391">
+
+---
+## CVE-2022-45390 (2022-11-15T20:15:00)
+> A missing permission check in Jenkins loader.io Plugin 1.0.1 and earlier allows attackers with Overall/Read permission to enumerate credentials IDs of credentials stored in Jenkins.
+- [Live-Hack-CVE/CVE-2022-45390](https://github.com/Live-Hack-CVE/CVE-2022-45390)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45390">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45390">
+
+---
+## CVE-2022-45389 (2022-11-15T20:15:00)
+> A missing permission check in Jenkins XP-Dev Plugin 1.0 and earlier allows unauthenticated attackers to trigger builds of jobs corresponding to an attacker-specified repository.
+- [Live-Hack-CVE/CVE-2022-45389](https://github.com/Live-Hack-CVE/CVE-2022-45389)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45389">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45389">
+
+---
+## CVE-2022-45388 (2022-11-15T20:15:00)
+> Jenkins Config Rotator Plugin 2.0.1 and earlier does not restrict a file name query parameter in an HTTP endpoint, allowing unauthenticated attackers to read arbitrary files with '.xml' extension on the Jenkins controller file system.
+- [Live-Hack-CVE/CVE-2022-45388](https://github.com/Live-Hack-CVE/CVE-2022-45388)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45388">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45388">
 
 ---
 ## CVE-2022-45384 (2022-11-15T20:15:00)
@@ -3746,6 +3796,16 @@
 > Inhabit Systems Pty Ltd Move CRM version 4, build 260 was discovered to contain a cross-site scripting (XSS) vulnerability via the User profile component.
 - [SecurityWillCheck/CVE-2022-43271](https://github.com/SecurityWillCheck/CVE-2022-43271)	<img alt="forks" src="https://img.shields.io/github/forks/SecurityWillCheck/CVE-2022-43271">	<img alt="stars" src="https://img.shields.io/github/stars/SecurityWillCheck/CVE-2022-43271">
 - [Live-Hack-CVE/CVE-2022-43271](https://github.com/Live-Hack-CVE/CVE-2022-43271)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43271">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43271">
+
+---
+## CVE-2022-43264 (2022-11-16T15:15:00)
+> Arobas Music Guitar Pro for iPad and iPhone before v1.10.2 allows attackers to perform directory traversal and download arbitrary files via a crafted web request.
+- [Live-Hack-CVE/CVE-2022-43264](https://github.com/Live-Hack-CVE/CVE-2022-43264)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43264">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43264">
+
+---
+## CVE-2022-43234 (2022-11-16T15:15:00)
+> An arbitrary file upload vulnerability in the /attachments component of Hoosk v1.8 allows attackers to execute arbitrary code via a crafted PHP file.
+- [Live-Hack-CVE/CVE-2022-43234](https://github.com/Live-Hack-CVE/CVE-2022-43234)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43234">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43234">
 
 ---
 ## CVE-2022-43229 (2022-10-28T18:15:00)
@@ -7552,6 +7612,12 @@
 - [Live-Hack-CVE/CVE-2022-40223](https://github.com/Live-Hack-CVE/CVE-2022-40223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40223">
 
 ---
+## CVE-2022-4022 (2022-11-16T14:15:00)
+> The SVG Support plugin for WordPress defaults to insecure settings in version 2.5 and 2.5.1. SVG files containing malicious javascript are not sanitized. While version 2.5 adds the ability to sanitize image as they are uploaded, the plugin defaults to disable sanitization and does not restrict SVG upload to only administrators. This allows authenticated attackers, with author-level privileges and higher, to upload malicious SVG files that can be embedded in posts and pages by higher privileged users. Additionally, the embedded JavaScript is also triggered on visiting the image URL, which allows an attacker to execute malicious code in browsers visiting that URL.
+- [Live-Hack-CVE/CVE-2022-4022](https://github.com/Live-Hack-CVE/CVE-2022-4022)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4022">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4022">
+- [Live-Hack-CVE/CVE-2022-40228](https://github.com/Live-Hack-CVE/CVE-2022-40228)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40228">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40228">
+
+---
 ## CVE-2022-40219 (2022-09-21T19:15:00)
 > Cross-Site Request Forgery (CSRF) vulnerability in SedLex FavIcon Switcher plugin <= 1.2.11 at WordPress allows plugin settings change.
 - [Live-Hack-CVE/CVE-2022-40219](https://github.com/Live-Hack-CVE/CVE-2022-40219)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40219">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40219">
@@ -7570,6 +7636,11 @@
 ## CVE-2022-40213 (2022-09-23T14:15:00)
 > Multiple Authenticated (contributor+) Stored Cross-Site Scripting (XSS) vulnerabilities in GS Testimonial Slider plugin <= 1.9.6 at WordPress.
 - [Live-Hack-CVE/CVE-2022-40213](https://github.com/Live-Hack-CVE/CVE-2022-40213)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40213">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40213">
+
+---
+## CVE-2022-4021 (2022-11-16T14:15:00)
+> The Permalink Manager Lite plugin for WordPress is vulnerable to Cross-Site Request Forgery in versions up to, and including, 2.2.20.1. This is due to missing or incorrect nonce validation on the extra_actions function. This makes it possible for unauthenticated attackers to change plugin settings including permalinks and site maps, via forged request granted they can trick a site administrator into performing an action such as clicking on a link.
+- [Live-Hack-CVE/CVE-2022-4021](https://github.com/Live-Hack-CVE/CVE-2022-4021)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4021">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4021">
 
 ---
 ## CVE-2022-40209 (2022-12-06T15:15:00)
@@ -7637,6 +7708,11 @@
 ## CVE-2022-40183 (2022-10-27T17:15:00)
 > An error in the URL handler of the VIDEOJET multi 4000 may lead to a reflected cross site scripting (XSS) in the web-based interface. An attacker with knowledge of the encoder address can send a crafted link to a user, which will execute JavaScript code in the context of the user.
 - [Live-Hack-CVE/CVE-2022-40183](https://github.com/Live-Hack-CVE/CVE-2022-40183)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40183">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40183">
+
+---
+## CVE-2022-4018 (2022-11-16T13:15:00)
+> Missing Authentication for Critical Function in GitHub repository ikus060/rdiffweb prior to 2.5.0a6.
+- [Live-Hack-CVE/CVE-2022-4018](https://github.com/Live-Hack-CVE/CVE-2022-4018)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4018">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4018">
 
 ---
 ## CVE-2022-40179 (2022-10-11T11:15:00)
@@ -8092,6 +8168,11 @@
 ## CVE-2022-39800 (2022-10-11T21:15:00)
 > SAP BusinessObjects BI LaunchPad - versions 420, 430, is susceptible to script execution attack by an unauthenticated attacker due to improper sanitization of the user inputs while interacting on the network. On successful exploitation, an attacker can view or modify information causing a limited impact on confidentiality and integrity of the application.
 - [Live-Hack-CVE/CVE-2022-39800](https://github.com/Live-Hack-CVE/CVE-2022-39800)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39800">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39800">
+
+---
+## CVE-2022-3980 (2022-11-16T13:15:00)
+> An XML External Entity (XEE) vulnerability allows server-side request forgery (SSRF) and potential code execution in Sophos Mobile managed on-premises between versions 5.0.0 and 9.7.4.
+- [Live-Hack-CVE/CVE-2022-3980](https://github.com/Live-Hack-CVE/CVE-2022-3980)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3980">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3980">
 
 ---
 ## CVE-2022-3971 (2022-11-13T10:15:00)
@@ -14078,14 +14159,34 @@
 - [Live-Hack-CVE/CVE-2022-3324](https://github.com/Live-Hack-CVE/CVE-2022-3324)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3324">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3324">
 
 ---
+## CVE-2022-33239 (2022-11-15T10:15:00)
+> Transient DOS due to loop with unreachable exit condition in WLAN firmware while parsing IPV6 extension header. in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer Electronics Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables, Snapdragon Wired Infrastructure and Networking
+- [Live-Hack-CVE/CVE-2022-33239](https://github.com/Live-Hack-CVE/CVE-2022-33239)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33239">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33239">
+
+---
 ## CVE-2022-33238 (2022-12-13T16:15:00)
 > Transient DOS due to loop with unreachable exit condition in WLAN while processing an incoming FTM frames. in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer Electronics Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon IoT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables, Snapdragon Wired Infrastructure and Networking
 - [Live-Hack-CVE/CVE-2022-33238](https://github.com/Live-Hack-CVE/CVE-2022-33238)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33238">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33238">
 
 ---
+## CVE-2022-33237 (2022-11-15T10:15:00)
+> Transient DOS due to buffer over-read in WLAN firmware while processing PPE threshold. in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer Electronics Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables, Snapdragon Wired Infrastructure and Networking
+- [Live-Hack-CVE/CVE-2022-33237](https://github.com/Live-Hack-CVE/CVE-2022-33237)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33237">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33237">
+
+---
+## CVE-2022-33236 (2022-11-15T10:15:00)
+> Transient DOS due to buffer over-read in WLAN firmware while parsing cipher suite info attributes. in Snapdragon Compute, Snapdragon Connectivity, Snapdragon Mobile, Snapdragon Wired Infrastructure and Networking
+- [Live-Hack-CVE/CVE-2022-33236](https://github.com/Live-Hack-CVE/CVE-2022-33236)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33236">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33236">
+
+---
 ## CVE-2022-33235 (2022-12-13T16:15:00)
 > Information disclosure due to buffer over-read in WLAN firmware while parsing security context info attributes. in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer Electronics Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables, Snapdragon Wired Infrastructure and Networking
 - [Live-Hack-CVE/CVE-2022-33235](https://github.com/Live-Hack-CVE/CVE-2022-33235)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33235">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33235">
+
+---
+## CVE-2022-33234 (2022-11-15T10:15:00)
+> Memory corruption in video due to configuration weakness. in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Wearables
+- [Live-Hack-CVE/CVE-2022-33234](https://github.com/Live-Hack-CVE/CVE-2022-33234)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33234">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33234">
 
 ---
 ## CVE-2022-3323 (2022-09-27T23:15:00)
@@ -15667,6 +15768,11 @@
 ## CVE-2022-30770 (2022-05-16T03:15:00)
 > Terminalfour versions 8.3.7, 8.3.x versions prior to version 8.3.8 and r 8.2.x versions prior to version 8.2.18.5 or 8.2.18.2.1 are vulnerable to (XSS) vulnerability that could be exploited by an attacker to mislead an administrator and steal their credentials.
 - [Live-Hack-CVE/CVE-2022-30770](https://github.com/Live-Hack-CVE/CVE-2022-30770)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30770">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30770">
+
+---
+## CVE-2022-30768 (2022-11-15T22:15:00)
+> A Stored Cross Site Scripting (XSS) issue in ZoneMinder 1.36.12 allows an attacker to execute HTML or JavaScript code via the Username field when an Admin (or non-Admin users that can see other users logged into the platform) clicks on Logout. NOTE: this exists in later versions than CVE-2019-7348 and requires a different attack method.
+- [Live-Hack-CVE/CVE-2022-30768](https://github.com/Live-Hack-CVE/CVE-2022-30768)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30768">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30768">
 
 ---
 ## CVE-2022-30767 (2022-05-16T03:15:00)
@@ -17908,6 +18014,21 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-25748](https://github.com/Live-Hack-CVE/CVE-2022-25748)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25748">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25748">
 
 ---
+## CVE-2022-25743 (2022-11-15T10:15:00)
+> Memory corruption in graphics due to use-after-free while importing graphics buffer in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables
+- [Live-Hack-CVE/CVE-2022-25743](https://github.com/Live-Hack-CVE/CVE-2022-25743)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25743">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25743">
+
+---
+## CVE-2022-25742 (2022-11-15T10:15:00)
+> Denial of service in modem due to infinite loop while parsing IGMPv2 packet from server in Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Voice & Music
+- [Live-Hack-CVE/CVE-2022-25742](https://github.com/Live-Hack-CVE/CVE-2022-25742)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25742">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25742">
+
+---
+## CVE-2022-25741 (2022-11-15T10:15:00)
+> Denial of service in WLAN due to potential null pointer dereference while accessing the memory location in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Wearables
+- [Live-Hack-CVE/CVE-2022-25741](https://github.com/Live-Hack-CVE/CVE-2022-25741)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25741">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25741">
+
+---
 ## CVE-2022-2574 (2022-10-17T12:15:00)
 > The Meks Easy Social Share WordPress plugin before 1.2.8 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup)
 - [Live-Hack-CVE/CVE-2022-2574](https://github.com/Live-Hack-CVE/CVE-2022-2574)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2574">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2574">
@@ -17919,6 +18040,16 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-25736 (2022-10-19T11:15:00)
 > Denial of service in WLAN due to out-of-bound read happens while processing VHT action frame in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer Electronics Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables, Snapdragon Wired Infrastructure and Networking
 - [Live-Hack-CVE/CVE-2022-25736](https://github.com/Live-Hack-CVE/CVE-2022-25736)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25736">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25736">
+
+---
+## CVE-2022-25727 (2022-11-15T10:15:00)
+> Memory Corruption in modem due to improper length check while copying into memory in Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Voice & Music
+- [Live-Hack-CVE/CVE-2022-25727](https://github.com/Live-Hack-CVE/CVE-2022-25727)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25727">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25727">
+
+---
+## CVE-2022-25724 (2022-11-15T10:15:00)
+> Memory corruption in graphics due to buffer overflow while validating the user address in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables
+- [Live-Hack-CVE/CVE-2022-25724](https://github.com/Live-Hack-CVE/CVE-2022-25724)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25724">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25724">
 
 ---
 ## CVE-2022-25723 (2022-10-19T11:15:00)
@@ -18006,9 +18137,19 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-25677](https://github.com/Live-Hack-CVE/CVE-2022-25677)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25677">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25677">
 
 ---
+## CVE-2022-25676 (2022-11-15T10:15:00)
+> Information disclosure in video due to buffer over-read while parsing avi files in Snapdragon Auto, Snapdragon Compute, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Wearables
+- [Live-Hack-CVE/CVE-2022-25676](https://github.com/Live-Hack-CVE/CVE-2022-25676)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25676">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25676">
+
+---
 ## CVE-2022-25675 (2022-12-13T16:15:00)
 > Denial of service due to reachable assertion in modem while processing filter rule from application client in Snapdragon Compute, Snapdragon Industrial IOT, Snapdragon Mobile
 - [Live-Hack-CVE/CVE-2022-25675](https://github.com/Live-Hack-CVE/CVE-2022-25675)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25675">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25675">
+
+---
+## CVE-2022-25674 (2022-11-15T10:15:00)
+> Cryptographic issues in WLAN during the group key handshake of the WPA/WPA2 protocol in Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Voice & Music
+- [Live-Hack-CVE/CVE-2022-25674](https://github.com/Live-Hack-CVE/CVE-2022-25674)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25674">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25674">
 
 ---
 ## CVE-2022-25673 (2022-12-13T16:15:00)
@@ -18021,9 +18162,19 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-25672](https://github.com/Live-Hack-CVE/CVE-2022-25672)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25672">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25672">
 
 ---
+## CVE-2022-25671 (2022-11-15T10:15:00)
+> Denial of service in MODEM due to reachable assertion in Snapdragon Mobile
+- [Live-Hack-CVE/CVE-2022-25671](https://github.com/Live-Hack-CVE/CVE-2022-25671)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25671">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25671">
+
+---
 ## CVE-2022-25668 (2022-09-02T12:15:00)
 > Memory corruption in video driver due to double free while parsing ASF clip in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables
 - [Live-Hack-CVE/CVE-2022-25668](https://github.com/Live-Hack-CVE/CVE-2022-25668)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25668">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25668">
+
+---
+## CVE-2022-25667 (2022-11-15T10:15:00)
+> Information disclosure in kernel due to improper handling of ICMP requests in Snapdragon Wired Infrastructure and Networking
+- [Live-Hack-CVE/CVE-2022-25667](https://github.com/Live-Hack-CVE/CVE-2022-25667)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25667">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25667">
 
 ---
 ## CVE-2022-25665 (2022-10-19T11:15:00)
