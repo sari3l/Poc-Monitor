@@ -18662,6 +18662,8 @@
 ## CVE-2022-26717 (2022-11-01T20:15:00)
 > A use after free issue was addressed with improved memory management. This issue is fixed in tvOS 15.5, watchOS 8.6, iOS 15.5 and iPadOS 15.5, macOS Monterey 12.4, Safari 15.5, iTunes 12.12.4 for Windows. Processing maliciously crafted web content may lead to arbitrary code execution.
 - [Live-Hack-CVE/CVE-2022-26717](https://github.com/Live-Hack-CVE/CVE-2022-26717)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26717">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26717">
+- [trhacknon/CVE-2022-26717-Safari-WebGL-Exploit](https://github.com/trhacknon/CVE-2022-26717-Safari-WebGL-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-26717-Safari-WebGL-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-26717-Safari-WebGL-Exploit">
+- [theori-io/CVE-2022-26717-Safari-WebGL-Exploit](https://github.com/theori-io/CVE-2022-26717-Safari-WebGL-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/theori-io/CVE-2022-26717-Safari-WebGL-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/theori-io/CVE-2022-26717-Safari-WebGL-Exploit">
 
 ---
 ## CVE-2022-26707 (2022-09-23T19:15:00)
