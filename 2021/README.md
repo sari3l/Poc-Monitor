@@ -1016,9 +1016,34 @@
 - [Live-Hack-CVE/CVE-2021-4192](https://github.com/Live-Hack-CVE/CVE-2021-4192)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4192">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4192">
 
 ---
+## CVE-2021-4190 (2021-12-30T22:15:00)
+> Large loop in the Kafka dissector in Wireshark 3.6.0 allows denial of service via packet injection or crafted capture file
+- [Live-Hack-CVE/CVE-2021-4190](https://github.com/Live-Hack-CVE/CVE-2021-4190)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4190">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4190">
+
+---
 ## CVE-2021-4189 (2022-08-24T16:15:00)
 > A flaw was found in Python, specifically in the FTP (File Transfer Protocol) client library in PASV (passive) mode. The issue is how the FTP client trusts the host from the PASV response by default. This flaw allows an attacker to set up a malicious FTP server that can trick FTP clients into connecting back to a given IP address and port. This vulnerability could lead to FTP client scanning ports, which otherwise would not have been possible.
 - [Live-Hack-CVE/CVE-2021-4189](https://github.com/Live-Hack-CVE/CVE-2021-4189)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4189">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4189">
+
+---
+## CVE-2021-4186 (2021-12-30T22:15:00)
+> Crash in the Gryphon dissector in Wireshark 3.4.0 to 3.4.10 allows denial of service via packet injection or crafted capture file
+- [Live-Hack-CVE/CVE-2021-4186](https://github.com/Live-Hack-CVE/CVE-2021-4186)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4186">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4186">
+
+---
+## CVE-2021-4184 (2021-12-30T22:15:00)
+> Infinite loop in the BitTorrent DHT dissector in Wireshark 3.6.0 and 3.4.0 to 3.4.10 allows denial of service via packet injection or crafted capture file
+- [Live-Hack-CVE/CVE-2021-4184](https://github.com/Live-Hack-CVE/CVE-2021-4184)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4184">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4184">
+
+---
+## CVE-2021-4183 (2021-12-30T22:15:00)
+> Crash in the pcapng file parser in Wireshark 3.6.0 allows denial of service via crafted capture file
+- [Live-Hack-CVE/CVE-2021-4183](https://github.com/Live-Hack-CVE/CVE-2021-4183)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4183">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4183">
+
+---
+## CVE-2021-4182 (2021-12-30T22:15:00)
+> Crash in the RFC 7468 dissector in Wireshark 3.6.0 and 3.4.0 to 3.4.10 allows denial of service via packet injection or crafted capture file
+- [Live-Hack-CVE/CVE-2021-4182](https://github.com/Live-Hack-CVE/CVE-2021-4182)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4182">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4182">
 
 ---
 ## CVE-2021-41819 (2022-01-01T06:15:00)
@@ -1034,6 +1059,11 @@
 ## CVE-2021-41816 (2022-02-06T21:15:00)
 > CGI.escape_html in Ruby before 2.7.5 and 3.x before 3.0.3 has an integer overflow and resultant buffer overflow via a long string on platforms (such as Windows) where size_t and long have different numbers of bytes. This also affects the CGI gem before 0.3.1 for Ruby.
 - [Live-Hack-CVE/CVE-2021-41816](https://github.com/Live-Hack-CVE/CVE-2021-41816)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41816">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41816">
+
+---
+## CVE-2021-4181 (2021-12-30T22:15:00)
+> Crash in the Sysdig Event dissector in Wireshark 3.6.0 and 3.4.0 to 3.4.10 allows denial of service via packet injection or crafted capture file
+- [Live-Hack-CVE/CVE-2021-4181](https://github.com/Live-Hack-CVE/CVE-2021-4181)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4181">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4181">
 
 ---
 ## CVE-2021-41805 (2021-12-12T05:15:00)
@@ -3027,6 +3057,11 @@
 - [Live-Hack-CVE/CVE-2021-33543](https://github.com/Live-Hack-CVE/CVE-2021-33543)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33543">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33543">
 
 ---
+## CVE-2021-3326 (2021-01-27T20:15:00)
+> The iconv function in the GNU C Library (aka glibc or libc6) 2.32 and earlier, when processing invalid input sequences in the ISO-2022-JP-3 encoding, fails an assertion in the code path and aborts the program, potentially resulting in a denial of service.
+- [Live-Hack-CVE/CVE-2021-3326](https://github.com/Live-Hack-CVE/CVE-2021-3326)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3326">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3326">
+
+---
 ## CVE-2021-33236 (2022-08-15T20:15:00)
 > Buffer Overflow vulnerability in write_header in htmldoc through 1.9.11 allows attackers to casue a denial of service via /htmldoc/htmldoc/html.cxx:273.
 - [Live-Hack-CVE/CVE-2021-33236](https://github.com/Live-Hack-CVE/CVE-2021-33236)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33236">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33236">
@@ -3646,6 +3681,11 @@
 ## CVE-2021-27663 (2021-08-30T18:15:00)
 > A vulnerability in versions 10.1 through 10.5 of Johnson Controls CEM Systems AC2000 allows a remote attacker to access to the system without adequate authorization. This issue affects: Johnson Controls CEM Systems AC2000 10.1; 10.2; 10.3; 10.4; 10.5.
 - [Live-Hack-CVE/CVE-2021-27663](https://github.com/Live-Hack-CVE/CVE-2021-27663)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27663">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27663">
+
+---
+## CVE-2021-27645 (2021-02-24T15:15:00)
+> The nameserver caching daemon (nscd) in the GNU C Library (aka glibc or libc6) 2.29 through 2.33, when processing a request for netgroup lookup, may crash due to a double-free, potentially resulting in degraded service or Denial of Service on the local system. This is related to netgroupcache.c.
+- [Live-Hack-CVE/CVE-2021-27645](https://github.com/Live-Hack-CVE/CVE-2021-27645)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27645">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27645">
 
 ---
 ## CVE-2021-27634 (2021-06-09T14:15:00)

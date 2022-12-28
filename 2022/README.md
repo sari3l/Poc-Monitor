@@ -4651,6 +4651,21 @@
 - [Live-Hack-CVE/CVE-2022-4275](https://github.com/Live-Hack-CVE/CVE-2022-4275)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4275">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4275">
 
 ---
+## CVE-2022-42745 (2022-11-03T20:15:00)
+> CandidATS version 3.0.0 allows an external attacker to read arbitrary files from the server. This is possible because the application is vulnerable to XXE.
+- [Live-Hack-CVE/CVE-2022-42745](https://github.com/Live-Hack-CVE/CVE-2022-42745)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42745">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42745">
+
+---
+## CVE-2022-42744 (2022-11-03T20:15:00)
+> CandidATS version 3.0.0 allows an external attacker to perform CRUD operations on the application databases. This is possible because the application does not correctly validate the entriesPerPage parameter against SQLi attacks.
+- [Live-Hack-CVE/CVE-2022-42744](https://github.com/Live-Hack-CVE/CVE-2022-42744)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42744">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42744">
+
+---
+## CVE-2022-42743 (2022-11-03T20:15:00)
+> deep-parse-json version 1.0.2 allows an external attacker to edit or add new properties to an object. This is possible because the application does not correctly validate the incoming JSON keys, thus allowing the '__proto__' property to be edited.
+- [Live-Hack-CVE/CVE-2022-42743](https://github.com/Live-Hack-CVE/CVE-2022-42743)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42743">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42743">
+
+---
 ## CVE-2022-4274 (2022-12-03T16:15:00)
 > A vulnerability, which was classified as critical, was found in House Rental System. Affected is an unknown function of the file /view-property.php. The manipulation of the argument property_id leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. VDB-214770 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-4274](https://github.com/Live-Hack-CVE/CVE-2022-4274)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4274">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4274">
@@ -5836,6 +5851,16 @@
 - [Live-Hack-CVE/CVE-2022-41719](https://github.com/Live-Hack-CVE/CVE-2022-41719)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41719">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41719">
 
 ---
+## CVE-2022-41714 (2022-11-03T20:15:00)
+> fastest-json-copy version 1.0.1 allows an external attacker to edit or add new properties to an object. This is possible because the application does not correctly validate the incoming JSON keys, thus allowing the '__proto__' property to be edited.
+- [Live-Hack-CVE/CVE-2022-41714](https://github.com/Live-Hack-CVE/CVE-2022-41714)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41714">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41714">
+
+---
+## CVE-2022-41713 (2022-11-03T20:15:00)
+> deep-object-diff version 1.1.0 allows an external attacker to edit or add new properties to an object. This is possible because the application does not properly validate incoming JSON keys, thus allowing the '__proto__' property to be edited.
+- [Live-Hack-CVE/CVE-2022-41713](https://github.com/Live-Hack-CVE/CVE-2022-41713)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41713">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41713">
+
+---
 ## CVE-2022-41712 (2022-11-25T18:15:00)
 > Frappe version 14.10.0 allows an external attacker to remotely obtain arbitrary local files. This is possible because the application does not correctly validate the information injected by the user in the import_file parameter.
 - [Live-Hack-CVE/CVE-2022-41712](https://github.com/Live-Hack-CVE/CVE-2022-41712)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41712">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41712">
@@ -6195,6 +6220,11 @@
 ## CVE-2022-41485 (2022-10-13T19:15:00)
 > Tenda AC1200 US_AC6V2.0RTL_V15.03.06.51_multi_TDE01 was discovered to contain a buffer overflow in the 0x47ce00 function. This vulnerability allows attackers to cause a Denial of Service (DoS) via a crafted request.
 - [Live-Hack-CVE/CVE-2022-41485](https://github.com/Live-Hack-CVE/CVE-2022-41485)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41485">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41485">
+
+---
+## CVE-2022-41483 (2022-10-13T19:15:00)
+> Tenda AC1200 US_AC6V2.0RTL_V15.03.06.51_multi_TDE01 was discovered to contain a buffer overflow in the 0x4a12cc function. This vulnerability allows attackers to cause a Denial of Service (DoS) via a crafted request.
+- [Live-Hack-CVE/CVE-2022-41483](https://github.com/Live-Hack-CVE/CVE-2022-41483)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41483">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41483">
 
 ---
 ## CVE-2022-41481 (2022-10-13T19:15:00)
@@ -7783,6 +7813,11 @@
 ## CVE-2022-40279 (2022-09-29T03:15:00)
 > An issue was discovered in Samsung TizenRT through 3.0_GBM (and 3.1_PRE). l2_packet_receive_timeout in wpa_supplicant/src/l2_packet/l2_packet_pcap.c has a missing check on the return value of pcap_dispatch, leading to a denial of service (malfunction).
 - [Live-Hack-CVE/CVE-2022-40279](https://github.com/Live-Hack-CVE/CVE-2022-40279)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40279">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40279">
+
+---
+## CVE-2022-40276 (2022-11-03T20:15:00)
+> Zettlr version 2.3.0 allows an external attacker to remotely obtain arbitrary local files on any client that attempts to view a malicious markdown file through Zettlr. This is possible because the application does not have a CSP policy (or at least not strict enough) and/or does not properly validate the contents of markdown files before rendering them.
+- [Live-Hack-CVE/CVE-2022-40276](https://github.com/Live-Hack-CVE/CVE-2022-40276)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40276">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40276">
 
 ---
 ## CVE-2022-4027 (2022-11-29T21:15:00)
@@ -12615,6 +12650,7 @@
 - [rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc](https://github.com/rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc)	<img alt="forks" src="https://img.shields.io/github/forks/rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc">	<img alt="stars" src="https://img.shields.io/github/stars/rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc">
 - [cybersecurityworks553/CVE-2022-3602-and-CVE-2022-3786](https://github.com/cybersecurityworks553/CVE-2022-3602-and-CVE-2022-3786)	<img alt="forks" src="https://img.shields.io/github/forks/cybersecurityworks553/CVE-2022-3602-and-CVE-2022-3786">	<img alt="stars" src="https://img.shields.io/github/stars/cybersecurityworks553/CVE-2022-3602-and-CVE-2022-3786">
 - [corelight/CVE-2022-3602](https://github.com/corelight/CVE-2022-3602)	<img alt="forks" src="https://img.shields.io/github/forks/corelight/CVE-2022-3602">	<img alt="stars" src="https://img.shields.io/github/stars/corelight/CVE-2022-3602">
+- [Live-Hack-CVE/CVE-2022-3602](https://github.com/Live-Hack-CVE/CVE-2022-3602)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3602">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3602">
 
 ---
 ## CVE-2022-36017 (2022-09-16T23:15:00)
@@ -12892,6 +12928,11 @@
 ## CVE-2022-3576 (2022-10-20T06:15:00)
 > A vulnerability regarding out-of-bounds read is found in the session processing functionality of Out-of-Band (OOB) Management. This allows remote attackers to obtain sensitive information via unspecified vectors. The following models with Synology DiskStation Manager (DSM) versions before 7.1.1-42962-2 may be affected: DS3622xs+, FS3410, and HD6500.
 - [Live-Hack-CVE/CVE-2022-3576](https://github.com/Live-Hack-CVE/CVE-2022-3576)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3576">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3576">
+
+---
+## CVE-2022-3575 (2022-11-02T17:15:00)
+> Frauscher Sensortechnik GmbH FDS102 for FAdC R2 and FAdCi R2 v2.8.0 to v2.9.1 are vulnerable to malicious code upload without authentication by using the configuration upload function. This could lead to a complete compromise of the FDS102 device.
+- [Live-Hack-CVE/CVE-2022-3575](https://github.com/Live-Hack-CVE/CVE-2022-3575)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3575">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3575">
 
 ---
 ## CVE-2022-35740 (2022-11-10T21:15:00)
@@ -14336,6 +14377,11 @@
 ## CVE-2022-34027 (2022-07-18T21:15:00)
 > Nginx NJS v0.7.4 was discovered to contain a segmentation violation via njs_value_property at njs_value.c.
 - [Live-Hack-CVE/CVE-2022-34027](https://github.com/Live-Hack-CVE/CVE-2022-34027)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34027">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34027">
+
+---
+## CVE-2022-34020 (2022-10-13T01:15:00)
+> Cross Site Request Forgery (CSRF) vulnerability in ResIOT ResIOT IOT Platform + LoRaWAN Network Server through 4.1.1000114 allows attackers to add new admin users to the platform or other unspecified impacts.
+- [Live-Hack-CVE/CVE-2022-34020](https://github.com/Live-Hack-CVE/CVE-2022-34020)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34020">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34020">
 
 ---
 ## CVE-2022-33991 (2022-08-15T13:15:00)
@@ -17791,6 +17837,11 @@
 ## CVE-2022-2790 (2022-08-19T23:15:00)
 > Emerson Electric's Proficy Machine Edition Version 9.00 and prior is vulenrable to CWE-347 Improper Verification of Cryptographic Signature, and does not properly verify compiled logic (PDT files) and data blocks data (BLD/BLK files).
 - [Live-Hack-CVE/CVE-2022-2790](https://github.com/Live-Hack-CVE/CVE-2022-2790)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2790">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2790">
+
+---
+## CVE-2022-27894 (2022-11-04T18:15:00)
+> The Foundry Blobster service was found to have a cross-site scripting (XSS) vulnerability that could have allowed an attacker with access to Foundry to launch attacks against other users. This vulnerability is resolved in Blobster 3.228.0.
+- [Live-Hack-CVE/CVE-2022-27894](https://github.com/Live-Hack-CVE/CVE-2022-27894)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27894">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27894">
 
 ---
 ## CVE-2022-27874 (2022-11-11T16:15:00)
@@ -23178,6 +23229,21 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 > The Professional Social Sharing Buttons, Icons & Related Posts WordPress plugin before 9.7.6 does not have proper authorisation check in one of the AJAX action, available to unauthenticated (in v < 9.7.5) and author+ (in v9.7.5) users, allowing them to call it and retrieve various information such as the list of active plugins, various version like PHP, cURL, WP etc.
 - [Live-Hack-CVE/CVE-2022-0594](https://github.com/Live-Hack-CVE/CVE-2022-0594)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0594">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0594">
 - [Live-Hack-CVE/CVE-2022-0594](https://github.com/Live-Hack-CVE/CVE-2022-0594)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0594">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0594">
+
+---
+## CVE-2022-0586 (2022-02-14T22:15:00)
+> Infinite loop in RTMPT protocol dissector in Wireshark 3.6.0 to 3.6.1 and 3.4.0 to 3.4.11 allows denial of service via packet injection or crafted capture file
+- [Live-Hack-CVE/CVE-2022-0586](https://github.com/Live-Hack-CVE/CVE-2022-0586)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0586">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0586">
+
+---
+## CVE-2022-0585 (2022-02-18T18:15:00)
+> Large loops in multiple protocol dissectors in Wireshark 3.6.0 to 3.6.1 and 3.4.0 to 3.4.11 allow denial of service via packet injection or crafted capture file
+- [Live-Hack-CVE/CVE-2022-0585](https://github.com/Live-Hack-CVE/CVE-2022-0585)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0585">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0585">
+
+---
+## CVE-2022-0582 (2022-02-14T22:15:00)
+> Unaligned access in the CSN.1 protocol dissector in Wireshark 3.6.0 to 3.6.1 and 3.4.0 to 3.4.11 allows denial of service via packet injection or crafted capture file
+- [Live-Hack-CVE/CVE-2022-0582](https://github.com/Live-Hack-CVE/CVE-2022-0582)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0582">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0582">
 
 ---
 ## CVE-2022-0566 (2022-12-22T20:15:00)
