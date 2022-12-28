@@ -2412,18 +2412,26 @@
 - [Live-Hack-CVE/CVE-2022-44748](https://github.com/Live-Hack-CVE/CVE-2022-44748)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44748">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44748">
 
 ---
+## CVE-2022-44747 (2022-11-07T20:15:00)
+> Local privilege escalation due to improper soft link handling. The following products are affected: Acronis Cyber Protect Home Office (Windows) before build 40107.
+- [Live-Hack-CVE/CVE-2022-44747](https://github.com/Live-Hack-CVE/CVE-2022-44747)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44747">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44747">
+
+---
 ## CVE-2022-44746 (2022-11-07T20:15:00)
 > Sensitive information disclosure due to insecure folder permissions. The following products are affected: Acronis Cyber Protect Home Office (Windows) before build 40107.
+- [Live-Hack-CVE/CVE-2022-44746](https://github.com/Live-Hack-CVE/CVE-2022-44746)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44746">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44746">
 - [Live-Hack-CVE/CVE-2022-44746](https://github.com/Live-Hack-CVE/CVE-2022-44746)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44746">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44746">
 
 ---
 ## CVE-2022-44745 (2022-11-07T20:15:00)
 > Sensitive information leak through log files. The following products are affected: Acronis Cyber Protect Home Office (Windows) before build 40107.
 - [Live-Hack-CVE/CVE-2022-44745](https://github.com/Live-Hack-CVE/CVE-2022-44745)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44745">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44745">
+- [Live-Hack-CVE/CVE-2022-44745](https://github.com/Live-Hack-CVE/CVE-2022-44745)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44745">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44745">
 
 ---
 ## CVE-2022-44744 (2022-11-07T20:15:00)
 > Local privilege escalation due to DLL hijacking vulnerability. The following products are affected: Acronis Cyber Protect Home Office (Windows) before build 40107.
+- [Live-Hack-CVE/CVE-2022-44744](https://github.com/Live-Hack-CVE/CVE-2022-44744)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44744">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44744">
 - [Live-Hack-CVE/CVE-2022-44744](https://github.com/Live-Hack-CVE/CVE-2022-44744)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44744">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44744">
 
 ---
@@ -2820,6 +2828,26 @@
 ## CVE-2022-44351 (2022-12-07T19:15:00)
 > Skycaiji v2.5.1 was discovered to contain a deserialization vulnerability via /SkycaijiApp/admin/controller/Mystore.php.
 - [Live-Hack-CVE/CVE-2022-44351](https://github.com/Live-Hack-CVE/CVE-2022-44351)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44351">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44351">
+
+---
+## CVE-2022-44321 (2022-11-08T15:15:00)
+> PicoC Version 3.2.2 was discovered to contain a heap buffer overflow in the LexSkipComment function in lex.c when called from LexScanGetToken.
+- [Live-Hack-CVE/CVE-2022-44321](https://github.com/Live-Hack-CVE/CVE-2022-44321)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44321">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44321">
+
+---
+## CVE-2022-44319 (2022-11-08T15:15:00)
+> PicoC Version 3.2.2 was discovered to contain a heap buffer overflow in the StdioBasePrintf function in cstdlib/string.c when called from ExpressionParseFunctionCall.
+- [Live-Hack-CVE/CVE-2022-44319](https://github.com/Live-Hack-CVE/CVE-2022-44319)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44319">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44319">
+
+---
+## CVE-2022-44318 (2022-11-08T15:15:00)
+> PicoC Version 3.2.2 was discovered to contain a heap buffer overflow in the StringStrcat function in cstdlib/string.c when called from ExpressionParseFunctionCall.
+- [Live-Hack-CVE/CVE-2022-44318](https://github.com/Live-Hack-CVE/CVE-2022-44318)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44318">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44318">
+
+---
+## CVE-2022-44312 (2022-11-08T15:15:00)
+> PicoC Version 3.2.2 was discovered to contain a heap buffer overflow in the ExpressionCoerceInteger function in expression.c when called from ExpressionInfixOperator.
+- [Live-Hack-CVE/CVE-2022-44312](https://github.com/Live-Hack-CVE/CVE-2022-44312)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44312">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44312">
 
 ---
 ## CVE-2022-44303 (2022-12-13T15:15:00)
@@ -3491,6 +3519,7 @@
 ## CVE-2022-43572 (2022-11-04T23:15:00)
 > In Splunk Enterprise versions below 8.2.9, 8.1.12, and 9.0.2, sending a malformed file through the Splunk-to-Splunk (S2S) or HTTP Event Collector (HEC) protocols to an indexer results in a blockage or denial-of-service preventing further indexing.
 - [Live-Hack-CVE/CVE-2022-43572](https://github.com/Live-Hack-CVE/CVE-2022-43572)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43572">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43572">
+- [Live-Hack-CVE/CVE-2022-43572](https://github.com/Live-Hack-CVE/CVE-2022-43572)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43572">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43572">
 
 ---
 ## CVE-2022-43571 (2022-11-03T23:15:00)
@@ -3501,6 +3530,17 @@
 ## CVE-2022-43570 (2022-11-04T23:15:00)
 > In Splunk Enterprise versions below 8.1.12, 8.2.9, and 9.0.2, an authenticated user can perform an extensible markup language (XML) external entity (XXE) injection via a custom View. The XXE injection causes Splunk Web to embed incorrect documents into an error.
 - [Live-Hack-CVE/CVE-2022-43570](https://github.com/Live-Hack-CVE/CVE-2022-43570)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43570">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43570">
+- [Live-Hack-CVE/CVE-2022-43570](https://github.com/Live-Hack-CVE/CVE-2022-43570)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43570">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43570">
+
+---
+## CVE-2022-43569 (2022-11-04T23:15:00)
+> In Splunk Enterprise versions below 8.1.12, 8.2.9, and 9.0.2, an authenticated user can inject and store arbitrary scripts that can lead to persistent cross-site scripting (XSS) in the object name of a Data Model.
+- [Live-Hack-CVE/CVE-2022-43569](https://github.com/Live-Hack-CVE/CVE-2022-43569)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43569">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43569">
+
+---
+## CVE-2022-43567 (2022-11-04T23:15:00)
+> In Splunk Enterprise versions below 8.2.9, 8.1.12, and 9.0.2, an authenticated user can run arbitrary operating system commands remotely through the use of specially crafted requests to the mobile alerts feature in the Splunk Secure Gateway app.
+- [Live-Hack-CVE/CVE-2022-43567](https://github.com/Live-Hack-CVE/CVE-2022-43567)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43567">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43567">
 
 ---
 ## CVE-2022-43557 (2022-12-05T22:15:00)
@@ -3722,6 +3762,11 @@
 - [sudoninja-noob/CVE-2022-43369](https://github.com/sudoninja-noob/CVE-2022-43369)	<img alt="forks" src="https://img.shields.io/github/forks/sudoninja-noob/CVE-2022-43369">	<img alt="stars" src="https://img.shields.io/github/stars/sudoninja-noob/CVE-2022-43369">
 
 ---
+## CVE-2022-43359 (2022-11-07T23:15:00)
+> Gifdec commit 1dcbae19363597314f6623010cc80abad4e47f7c was discovered to contain an out-of-bounds read in the function read_image_data. This vulnerability is triggered when parsing a crafted Gif file.
+- [Live-Hack-CVE/CVE-2022-43359](https://github.com/Live-Hack-CVE/CVE-2022-43359)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43359">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43359">
+
+---
 ## CVE-2022-43355 (2022-11-01T01:15:00)
 > Sanitization Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /php-sms/classes/Master.php?f=delete_service.
 - [Live-Hack-CVE/CVE-2022-43355](https://github.com/Live-Hack-CVE/CVE-2022-43355)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43355">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43355">
@@ -3754,6 +3799,7 @@
 ---
 ## CVE-2022-43343 (2022-11-08T15:15:00)
 > N-Prolog v1.91 was discovered to contain a global buffer overflow vulnerability in the function gettoken() at Main.c.
+- [Live-Hack-CVE/CVE-2022-43343](https://github.com/Live-Hack-CVE/CVE-2022-43343)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43343">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43343">
 - [Live-Hack-CVE/CVE-2022-43343](https://github.com/Live-Hack-CVE/CVE-2022-43343)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43343">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43343">
 
 ---
@@ -16837,6 +16883,7 @@
 > The documentation of Apache Tomcat 10.1.0-M1 to 10.1.0-M14, 10.0.0-M1 to 10.0.20, 9.0.13 to 9.0.62 and 8.5.38 to 8.5.78 for the EncryptInterceptor incorrectly stated it enabled Tomcat clustering to run over an untrusted network. This was not correct. While the EncryptInterceptor does provide confidentiality and integrity protection, it does not protect against all risks associated with running over any untrusted network, particularly DoS risks.
 - [4ra1n/CVE-2022-29885](https://github.com/4ra1n/CVE-2022-29885)	<img alt="forks" src="https://img.shields.io/github/forks/4ra1n/CVE-2022-29885">	<img alt="stars" src="https://img.shields.io/github/stars/4ra1n/CVE-2022-29885">
 - [iveresk/CVE-2022-29885](https://github.com/iveresk/CVE-2022-29885)	<img alt="forks" src="https://img.shields.io/github/forks/iveresk/CVE-2022-29885">	<img alt="stars" src="https://img.shields.io/github/stars/iveresk/CVE-2022-29885">
+- [Live-Hack-CVE/CVE-2022-29885](https://github.com/Live-Hack-CVE/CVE-2022-29885)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29885">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29885">
 
 ---
 ## CVE-2022-2986 (2022-10-06T18:16:00)
@@ -17067,6 +17114,11 @@
 ## CVE-2022-2946 (2022-08-23T17:15:00)
 > Use After Free in GitHub repository vim/vim prior to 9.0.0246.
 - [Live-Hack-CVE/CVE-2022-2946](https://github.com/Live-Hack-CVE/CVE-2022-2946)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2946">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2946">
+
+---
+## CVE-2022-29458 (2022-04-18T21:15:00)
+> ncurses 6.3 before patch 20220416 has an out-of-bounds read and segmentation violation in convert_strings in tinfo/read_entry.c in the terminfo library.
+- [Live-Hack-CVE/CVE-2022-29458](https://github.com/Live-Hack-CVE/CVE-2022-29458)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29458">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29458">
 
 ---
 ## CVE-2022-29455 (2022-06-13T17:15:00)
@@ -17359,6 +17411,7 @@
 ---
 ## CVE-2022-28739 (2022-05-09T18:15:00)
 > There is a buffer over-read in Ruby before 2.6.10, 2.7.x before 2.7.6, 3.x before 3.0.4, and 3.1.x before 3.1.2. It occurs in String-to-Float conversion, including Kernel#Float and String#to_f.
+- [Live-Hack-CVE/CVE-2022-28739](https://github.com/Live-Hack-CVE/CVE-2022-28739)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28739">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28739">
 - [Live-Hack-CVE/CVE-2022-28739](https://github.com/Live-Hack-CVE/CVE-2022-28739)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28739">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28739">
 
 ---
@@ -17666,6 +17719,7 @@
 ## CVE-2022-2783 (2022-10-06T18:15:00)
 > In affected versions of Octopus Server it was identified that a session cookie could be used as the CSRF token
 - [Live-Hack-CVE/CVE-2022-2783](https://github.com/Live-Hack-CVE/CVE-2022-2783)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2783">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2783">
+- [Live-Hack-CVE/CVE-2022-2783](https://github.com/Live-Hack-CVE/CVE-2022-2783)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2783">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2783">
 
 ---
 ## CVE-2022-27815 (2022-03-30T00:15:00)
@@ -17839,6 +17893,7 @@
 ---
 ## CVE-2022-27380 (2022-04-12T20:15:00)
 > An issue in the component my_decimal::operator= of MariaDB Server v10.6.3 and below was discovered to allow attackers to cause a Denial of Service (DoS) via specially crafted SQL statements.
+- [Live-Hack-CVE/CVE-2022-27380](https://github.com/Live-Hack-CVE/CVE-2022-27380)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27380">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27380">
 - [Live-Hack-CVE/CVE-2022-27380](https://github.com/Live-Hack-CVE/CVE-2022-27380)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27380">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27380">
 
 ---
@@ -18197,6 +18252,11 @@
 ## CVE-2022-26374 (2022-08-18T20:15:00)
 > Uncontrolled search path in the installation binaries for Intel(R) SEAPI all versions may allow an authenticated user to potentially enable escalation of privilege via local access.
 - [Live-Hack-CVE/CVE-2022-26374](https://github.com/Live-Hack-CVE/CVE-2022-26374)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26374">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26374">
+
+---
+## CVE-2022-2637 (2022-10-06T18:15:00)
+> Incorrect Privilege Assignment vulnerability in Hitachi Storage Plug-in for VMware vCenter allows remote authenticated users to cause privilege escalation. This issue affects: Hitachi Storage Plug-in for VMware vCenter 04.8.0.
+- [Live-Hack-CVE/CVE-2022-2637](https://github.com/Live-Hack-CVE/CVE-2022-2637)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2637">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2637">
 
 ---
 ## CVE-2022-26364 (2022-06-09T17:15:00)
@@ -20080,6 +20140,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-22503 (2022-10-06T18:15:00)
 > IBM Robotic Process Automation 21.0.0 could allow a remote attacker to hijack the clicking action of the victim. By persuading a victim to visit a malicious Web site, a remote attacker could exploit this vulnerability to hijack the victim's click actions and possibly launch further attacks against the victim. IBM X-Force ID: 227125.
 - [Live-Hack-CVE/CVE-2022-22503](https://github.com/Live-Hack-CVE/CVE-2022-22503)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22503">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22503">
+- [Live-Hack-CVE/CVE-2022-22503](https://github.com/Live-Hack-CVE/CVE-2022-22503)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22503">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22503">
 
 ---
 ## CVE-2022-2249 (2022-10-12T19:15:00)
@@ -20601,6 +20662,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ---
 ## CVE-2022-21595 (2022-10-18T21:15:00)
 > Vulnerability in the MySQL Server product of Oracle MySQL (component: C API). Supported versions that are affected are 5.7.36 and prior and 8.0.27 and prior. Difficult to exploit vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.1 Base Score 4.4 (Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:H/PR:H/UI:N/S:U/C:N/I:N/A:H).
+- [Live-Hack-CVE/CVE-2022-21595](https://github.com/Live-Hack-CVE/CVE-2022-21595)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21595">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21595">
 - [Live-Hack-CVE/CVE-2022-21595](https://github.com/Live-Hack-CVE/CVE-2022-21595)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21595">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21595">
 
 ---
@@ -21670,6 +21732,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-2042 (2022-06-10T19:15:00)
 > Use After Free in GitHub repository vim/vim prior to 8.2.
 - [Live-Hack-CVE/CVE-2022-2042](https://github.com/Live-Hack-CVE/CVE-2022-2042)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2042">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2042">
+- [Live-Hack-CVE/CVE-2022-2042](https://github.com/Live-Hack-CVE/CVE-2022-2042)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2042">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2042">
 
 ---
 ## CVE-2022-20419 (2022-10-11T20:15:00)
@@ -22465,6 +22528,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1348 (2022-05-25T16:15:00)
 > A vulnerability was found in logrotate in how the state file is created. The state file is used to prevent parallel executions of multiple instances of logrotate by acquiring and releasing a file lock. When the state file does not exist, it is created with world-readable permission, allowing an unprivileged user to lock the state file, stopping any rotation. This flaw affects logrotate versions before 3.20.0.
 - [Live-Hack-CVE/CVE-2022-1348](https://github.com/Live-Hack-CVE/CVE-2022-1348)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1348">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1348">
+
+---
+## CVE-2022-1329 (2022-04-19T21:15:00)
+> The Elementor Website Builder plugin for WordPress is vulnerable to unauthorized execution of several AJAX actions due to a missing capability check in the ~/core/app/modules/onboarding/module.php file that make it possible for attackers to modify site data in addition to uploading malicious files that can be used to obtain remote code execution, in versions 3.6.0 to 3.6.2.
+- [Live-Hack-CVE/CVE-2022-1329](https://github.com/Live-Hack-CVE/CVE-2022-1329)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1329">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1329">
 
 ---
 ## CVE-2022-1328 (2022-04-14T21:15:00)
