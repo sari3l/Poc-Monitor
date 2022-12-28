@@ -1557,6 +1557,11 @@
 - [Live-Hack-CVE/CVE-2021-40289](https://github.com/Live-Hack-CVE/CVE-2021-40289)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40289">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40289">
 
 ---
+## CVE-2021-40272 (2022-11-14T16:15:00)
+> OP5 Monitor 8.3.1, 8.3.2, and OP5 8.3.3 are vulnerable to Cross Site Scripting (XSS).
+- [Live-Hack-CVE/CVE-2021-40272](https://github.com/Live-Hack-CVE/CVE-2021-40272)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40272">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40272">
+
+---
 ## CVE-2021-40226 (2022-11-10T18:15:00)
 > xpdfreader 4.03 is vulnerable to Buffer Overflow.
 - [Live-Hack-CVE/CVE-2021-40226](https://github.com/Live-Hack-CVE/CVE-2021-40226)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40226">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40226">

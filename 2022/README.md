@@ -3702,6 +3702,11 @@
 - [Live-Hack-CVE/CVE-2022-43343](https://github.com/Live-Hack-CVE/CVE-2022-43343)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43343">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43343">
 
 ---
+## CVE-2022-43342 (2022-11-14T16:15:00)
+> A stored cross-site scripting (XSS) vulnerability in the Add function of Eramba GRC Software c2.8.1 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the KPI Title text field.
+- [Live-Hack-CVE/CVE-2022-43342](https://github.com/Live-Hack-CVE/CVE-2022-43342)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43342">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43342">
+
+---
 ## CVE-2022-43333 (2022-12-01T22:15:00)
 > Telenia Software s.r.l TVox before v22.0.17 was discovered to contain a remote code execution (RCE) vulnerability in the component action_export_control.php.
 - [Live-Hack-CVE/CVE-2022-43333](https://github.com/Live-Hack-CVE/CVE-2022-43333)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43333">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43333">
@@ -3762,6 +3767,11 @@
 ## CVE-2022-43294 (2022-11-14T22:15:00)
 > Tasmota before commit 066878da4d4762a9b6cb169fdf353e804d735cfd was discovered to contain a stack overflow via the ClientPortPtr parameter at lib/libesp32/rtsp/CRtspSession.cpp.
 - [Live-Hack-CVE/CVE-2022-43294](https://github.com/Live-Hack-CVE/CVE-2022-43294)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43294">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43294">
+
+---
+## CVE-2022-43288 (2022-11-14T15:16:00)
+> Rukovoditel v3.2.1 was discovered to contain a SQL injection vulnerability via the order_by parameter at /rukovoditel/index.php?module=logs/view&type=php.
+- [Live-Hack-CVE/CVE-2022-43288](https://github.com/Live-Hack-CVE/CVE-2022-43288)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43288">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43288">
 
 ---
 ## CVE-2022-43285 (2022-10-28T21:15:00)
@@ -9228,6 +9238,11 @@
 - [Live-Hack-CVE/CVE-2022-38708](https://github.com/Live-Hack-CVE/CVE-2022-38708)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38708">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38708">
 
 ---
+## CVE-2022-38705 (2022-11-14T18:15:00)
+> IBM CICS TX 11.1 Standard and Advanced could allow a remote attacker to bypass security restrictions, caused by a reverse tabnabbing flaw. An attacker could exploit this vulnerability and redirect a victim to a phishing site. IBM X-Force ID: 234172.
+- [Live-Hack-CVE/CVE-2022-38705](https://github.com/Live-Hack-CVE/CVE-2022-38705)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38705">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38705">
+
+---
 ## CVE-2022-38703 (2022-09-23T14:15:00)
 > Authenticated (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Max Foundry Button Plugin MaxButtons plugin <= 9.2 at WordPress
 - [Live-Hack-CVE/CVE-2022-38703](https://github.com/Live-Hack-CVE/CVE-2022-38703)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38703">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38703">
@@ -11891,6 +11906,11 @@
 - [Live-Hack-CVE/CVE-2022-3633](https://github.com/Live-Hack-CVE/CVE-2022-3633)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3633">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3633">
 
 ---
+## CVE-2022-3632 (2022-11-14T15:15:00)
+> The OAuth Client by DigitialPixies WordPress plugin through 1.1.0 does not have CSRF checks in some places, which could allow attackers to make logged-in users perform unwanted actions.
+- [Live-Hack-CVE/CVE-2022-3632](https://github.com/Live-Hack-CVE/CVE-2022-3632)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3632">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3632">
+
+---
 ## CVE-2022-36319 (2022-12-22T20:15:00)
 > When combining CSS properties for overflow and transform, the mouse cursor could interact with different coordinates than displayed. This vulnerability affects Firefox ESR < 102.1, Firefox ESR < 91.12, Firefox < 103, Thunderbird < 102.1, and Thunderbird < 91.12.
 - [Live-Hack-CVE/CVE-2022-36319](https://github.com/Live-Hack-CVE/CVE-2022-36319)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36319">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36319">
@@ -12538,6 +12558,11 @@
 ## CVE-2022-35721 (2022-09-23T18:15:00)
 > IBM Jazz for Service Management 1.1.3 is vulnerable to stored cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 231380.
 - [Live-Hack-CVE/CVE-2022-35721](https://github.com/Live-Hack-CVE/CVE-2022-35721)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35721">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35721">
+
+---
+## CVE-2022-35719 (2022-11-14T17:15:00)
+> IBM MQ Internet Pass-Thru 2.1, 9.2 LTS and 9.2 CD stores potentially sensitive information in trace files that could be read by a local user.
+- [Live-Hack-CVE/CVE-2022-35719](https://github.com/Live-Hack-CVE/CVE-2022-35719)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35719">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35719">
 
 ---
 ## CVE-2022-35714 (2022-08-26T18:15:00)
@@ -13743,9 +13768,39 @@
 - [Live-Hack-CVE/CVE-2022-34336](https://github.com/Live-Hack-CVE/CVE-2022-34336)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34336">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34336">
 
 ---
+## CVE-2022-34329 (2022-11-14T18:15:00)
+> IBM CICS TX 11.7 could allow an attacker to obtain sensitive information from HTTP response headers. IBM X-Force ID: 229467.
+- [Live-Hack-CVE/CVE-2022-34329](https://github.com/Live-Hack-CVE/CVE-2022-34329)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34329">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34329">
+
+---
+## CVE-2022-34319 (2022-11-14T18:15:00)
+> IBM CICS TX 11.7 uses weaker than expected cryptographic algorithms that could allow an attacker to decrypt highly sensitive information. IBM X-Force ID: 229463.
+- [Live-Hack-CVE/CVE-2022-34319](https://github.com/Live-Hack-CVE/CVE-2022-34319)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34319">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34319">
+
+---
 ## CVE-2022-34316 (2022-11-14T19:15:00)
 > IBM CICS TX 11.1 does not neutralize or incorrectly neutralizes web scripting syntax in HTTP headers that can be used by web browser components that can process raw headers. IBM X-Force ID: 229452.
 - [Live-Hack-CVE/CVE-2022-34316](https://github.com/Live-Hack-CVE/CVE-2022-34316)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34316">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34316">
+
+---
+## CVE-2022-34315 (2022-11-14T19:15:00)
+> IBM CICS TX 11.1 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 229451.
+- [Live-Hack-CVE/CVE-2022-34315](https://github.com/Live-Hack-CVE/CVE-2022-34315)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34315">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34315">
+
+---
+## CVE-2022-34314 (2022-11-14T19:15:00)
+> IBM CICS TX 11.1 could disclose sensitive information to a local user due to insecure permission settings. IBM X-Force ID: 229450.
+- [Live-Hack-CVE/CVE-2022-34314](https://github.com/Live-Hack-CVE/CVE-2022-34314)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34314">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34314">
+
+---
+## CVE-2022-34313 (2022-11-14T18:15:00)
+> IBM CICS TX 11.1 does not set the secure attribute on authorization tokens or session cookies. Attackers may be able to get the cookie values by sending a http:// link to a user or by planting this link in a site the user goes to. The cookie will be sent to the insecure link and the attacker can then obtain the cookie value by snooping the traffic. X-Force ID: 229449.
+- [Live-Hack-CVE/CVE-2022-34313](https://github.com/Live-Hack-CVE/CVE-2022-34313)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34313">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34313">
+
+---
+## CVE-2022-34312 (2022-11-14T18:15:00)
+> IBM CICS TX 11.1 allows web pages to be stored locally which can be read by another user on the system. IBM X-Force ID: 229447.
+- [Live-Hack-CVE/CVE-2022-34312](https://github.com/Live-Hack-CVE/CVE-2022-34312)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34312">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34312">
 
 ---
 ## CVE-2022-34305 (2022-06-23T11:15:00)
@@ -16892,6 +16947,11 @@
 - [Live-Hack-CVE/CVE-2022-28815](https://github.com/Live-Hack-CVE/CVE-2022-28815)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28815">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28815">
 
 ---
+## CVE-2022-2881 (2022-09-21T11:15:00)
+> The underlying bug might cause read past end of the buffer and either read memory it should not read, or crash the process.
+- [Live-Hack-CVE/CVE-2022-2881](https://github.com/Live-Hack-CVE/CVE-2022-2881)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2881">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2881">
+
+---
 ## CVE-2022-28805 (2022-04-08T06:15:00)
 > singlevar in lparser.c in Lua from (including) 5.4.0 up to (excluding) 5.4.4 lacks a certain luaK_exp2anyregup call, leading to a heap-based buffer over-read that might affect a system that compiles untrusted Lua code.
 - [Live-Hack-CVE/CVE-2022-28805](https://github.com/Live-Hack-CVE/CVE-2022-28805)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28805">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28805">
@@ -17211,6 +17271,11 @@
 ## CVE-2022-27874 (2022-11-11T16:15:00)
 > Improper authentication in some Intel(R) XMM(TM) 7560 Modem software before version M2_7560_R_01.2146.00 may allow a privileged user to potentially enable escalation of privilege via physical access.
 - [Live-Hack-CVE/CVE-2022-27874](https://github.com/Live-Hack-CVE/CVE-2022-27874)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27874">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27874">
+
+---
+## CVE-2022-2787 (2022-08-27T12:15:00)
+> Schroot before 1.6.13 had too permissive rules on chroot or session names, allowing a denial of service on the schroot service for all users that may start a schroot session.
+- [Live-Hack-CVE/CVE-2022-2787](https://github.com/Live-Hack-CVE/CVE-2022-2787)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2787">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2787">
 
 ---
 ## CVE-2022-27858 (2022-11-08T19:15:00)
