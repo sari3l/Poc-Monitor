@@ -3702,6 +3702,11 @@
 - [Live-Hack-CVE/CVE-2022-43303](https://github.com/Live-Hack-CVE/CVE-2022-43303)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43303">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43303">
 
 ---
+## CVE-2022-43294 (2022-11-14T22:15:00)
+> Tasmota before commit 066878da4d4762a9b6cb169fdf353e804d735cfd was discovered to contain a stack overflow via the ClientPortPtr parameter at lib/libesp32/rtsp/CRtspSession.cpp.
+- [Live-Hack-CVE/CVE-2022-43294](https://github.com/Live-Hack-CVE/CVE-2022-43294)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43294">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43294">
+
+---
 ## CVE-2022-43285 (2022-10-28T21:15:00)
 > ** DISPUTED ** Nginx NJS v0.7.4 was discovered to contain a segmentation violation in njs_promise_reaction_job. NOTE: the vendor disputes the significance of this report because NJS does not operate on untrusted input.
 - [Live-Hack-CVE/CVE-2022-43285](https://github.com/Live-Hack-CVE/CVE-2022-43285)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43285">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43285">
@@ -4974,6 +4979,21 @@
 - [Live-Hack-CVE/CVE-2022-42139](https://github.com/Live-Hack-CVE/CVE-2022-42139)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42139">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42139">
 
 ---
+## CVE-2022-42131 (2022-11-15T02:15:00)
+> Certain Liferay products are affected by: Missing SSL Certificate Validation in the Dynamic Data Mapping module's REST data providers. This affects Liferay Portal 7.1.0 through 7.4.2 and Liferay DXP 7.1 before fix pack 27, 7.2 before fix pack 17, and 7.3 before service pack 3.
+- [Live-Hack-CVE/CVE-2022-42131](https://github.com/Live-Hack-CVE/CVE-2022-42131)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42131">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42131">
+
+---
+## CVE-2022-42130 (2022-11-15T02:15:00)
+> The Dynamic Data Mapping module in Liferay Portal 7.1.0 through 7.4.3.4, and Liferay DXP 7.1 before fix pack 27, 7.2 before fix pack 19, 7.3 before update 4, and 7.4 GA does not properly check permission of form entries, which allows remote authenticated users to view and access all form entries.
+- [Live-Hack-CVE/CVE-2022-42130](https://github.com/Live-Hack-CVE/CVE-2022-42130)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42130">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42130">
+
+---
+## CVE-2022-42129 (2022-11-15T02:15:00)
+> An Insecure direct object reference (IDOR) vulnerability in the Dynamic Data Mapping module in Liferay Portal 7.3.2 through 7.4.3.4, and Liferay DXP 7.3 before update 4, and 7.4 GA allows remote authenticated users to view and access form entries via the `formInstanceRecordId` parameter.
+- [Live-Hack-CVE/CVE-2022-42129](https://github.com/Live-Hack-CVE/CVE-2022-42129)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42129">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42129">
+
+---
 ## CVE-2022-42128 (2022-11-15T01:15:00)
 > The Hypermedia REST APIs module in Liferay Portal 7.4.1 through 7.4.3.4, and Liferay DXP 7.4 GA does not properly check permissions, which allows remote attackers to obtain a WikiNode object via the WikiNodeResource.getSiteWikiNodeByExternalReferenceCode API.
 - [Live-Hack-CVE/CVE-2022-42128](https://github.com/Live-Hack-CVE/CVE-2022-42128)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42128">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42128">
@@ -5002,6 +5022,11 @@
 > ReDoS vulnerability in LayoutPageTemplateEntryUpgradeProcess in Liferay Portal 7.3.2 through 7.4.3.4 and Liferay DXP 7.2 fix pack 9 through fix pack 18, 7.3 before update 4, and DXP 7.4 GA allows remote attackers to consume an excessive amount of server resources via a crafted payload injected into the 'name' field of a layout prototype.
 - [Live-Hack-CVE/CVE-2022-42124](https://github.com/Live-Hack-CVE/CVE-2022-42124)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42124">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42124">
 - [Live-Hack-CVE/CVE-2022-42124](https://github.com/Live-Hack-CVE/CVE-2022-42124)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42124">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42124">
+
+---
+## CVE-2022-42123 (2022-11-15T01:15:00)
+> A Zip slip vulnerability in the Elasticsearch Connector in Liferay Portal 7.3.3 through 7.4.3.18, and Liferay DXP 7.3 before update 6, and 7.4 before update 19 allows attackers to create or overwrite existing files on the filesystem via the installation of a malicious Elasticsearch Sidecar plugin.
+- [Live-Hack-CVE/CVE-2022-42123](https://github.com/Live-Hack-CVE/CVE-2022-42123)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42123">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42123">
 
 ---
 ## CVE-2022-42098 (2022-11-22T13:15:00)
@@ -13760,6 +13785,16 @@
 - [Live-Hack-CVE/CVE-2022-33991](https://github.com/Live-Hack-CVE/CVE-2022-33991)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33991">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33991">
 
 ---
+## CVE-2022-33983 (2022-11-15T00:15:00)
+> DMA transactions which are targeted at input buffers used for the NvmExpressLegacy software SMI handler could cause SMRAM corruption through a TOCTOU attack. DMA transactions which are targeted at input buffers used for the software SMI handler used by the NvmExpressLegacy driver could cause SMRAM corruption through a TOCTOU attack. This issue was discovered by Insyde engineering based on the general description provided by Intel's iSTARE group. This issue was fixed in kernel 5.2: 05.27.25, kernel 5.3: 05.36.25, kernel 5.4: 05.44.25, kernel 5.5: 05.52.25 https://www.insyde.com/security-pledge/SA-2022053
+- [Live-Hack-CVE/CVE-2022-33983](https://github.com/Live-Hack-CVE/CVE-2022-33983)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33983">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33983">
+
+---
+## CVE-2022-33982 (2022-11-14T23:15:00)
+> DMA attacks on the parameter buffer used by the Int15ServiceSmm software SMI handler could lead to a TOCTOU attack on the SMI handler and lead to corruption of SMRAM. DMA attacks on the parameter buffer used by the software SMI handler used by the driver Int15ServiceSmm could lead to a TOCTOU attack on the SMI handler and lead to corruption of SMRAM. This issue was discovered by Insyde engineering during a security review. This issue is fixed in Kernel 5.2: 05.27.23, Kernel 5.3: 05.36.23, Kernel 5.4: 05.44.23 and Kernel 5.5: 05.52.23 CWE-367
+- [Live-Hack-CVE/CVE-2022-33982](https://github.com/Live-Hack-CVE/CVE-2022-33982)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33982">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33982">
+
+---
 ## CVE-2022-33981 (2022-06-18T16:15:00)
 > drivers/block/floppy.c in the Linux kernel before 5.17.6 is vulnerable to a denial of service, because of a concurrency use-after-free flaw after deallocating raw_cmd in the raw_cmd_ioctl function.
 - [Live-Hack-CVE/CVE-2022-33981](https://github.com/Live-Hack-CVE/CVE-2022-33981)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33981">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33981">
@@ -13803,6 +13838,11 @@
 ## CVE-2022-3391 (2022-10-25T17:15:00)
 > The Retain Live Chat WordPress plugin through 0.1 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup)
 - [Live-Hack-CVE/CVE-2022-3391](https://github.com/Live-Hack-CVE/CVE-2022-3391)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3391">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3391">
+
+---
+## CVE-2022-33907 (2022-11-14T23:15:00)
+> DMA transactions which are targeted at input buffers used for the software SMI handler used by the IdeBusDxe driver could cause SMRAM corruption through a TOCTOU attack... DMA transactions which are targeted at input buffers used for the software SMI handler used by the IdeBusDxe driver could cause SMRAM corruption through a TOCTOU attack. This issue was discovered by Insyde engineering based on the general description provided by Intel's iSTARE group. Fixed in kernel 5.2: 05.27.25, kernel 5.3: 05.36.25, kernel 5.4: 05.44.25 https://www.insyde.com/security-pledge/SA-2022049
+- [Live-Hack-CVE/CVE-2022-33907](https://github.com/Live-Hack-CVE/CVE-2022-33907)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33907">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33907">
 
 ---
 ## CVE-2022-33891 (2022-07-18T07:15:00)
@@ -14649,6 +14689,16 @@
 - [Live-Hack-CVE/CVE-2022-32268](https://github.com/Live-Hack-CVE/CVE-2022-32268)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32268">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32268">
 
 ---
+## CVE-2022-32267 (2022-11-15T00:15:00)
+> DMA transactions which are targeted at input buffers used for the SmmResourceCheckDxe software SMI handler cause SMRAM corruption (a TOCTOU attack) DMA transactions which are targeted at input buffers used for the software SMI handler used by the SmmResourceCheckDxe driver could cause SMRAM corruption through a TOCTOU attack... This issue was discovered by Insyde engineering. Fixed in kernel Kernel 5.2: 05.27.23. Kernel 5.3: 05.36.23. Kernel 5.4: 05.44.23. Kernel 5.5: 05.52.23 https://www.insyde.com/security-pledge/SA-2022046
+- [Live-Hack-CVE/CVE-2022-32267](https://github.com/Live-Hack-CVE/CVE-2022-32267)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32267">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32267">
+
+---
+## CVE-2022-32266 (2022-11-14T22:15:00)
+> DMA attacks on the parameter buffer used by a software SMI handler used by the driver PcdSmmDxe could lead to a TOCTOU attack on the SMI handler and lead to corruption of other ACPI fields and adjacent memory fields. DMA attacks on the parameter buffer used by a software SMI handler used by the driver PcdSmmDxe could lead to a TOCTOU attack on the SMI handler and lead to corruption of other ACPI fields and adjacent memory fields. The attack would require detailed knowledge of the PCD database contents on the current platform. This issue was discovered by Insyde engineering during a security review. This issue is fixed in Kernel 5.3: 05.36.23, Kernel 5.4: 05.44.23, Kernel 5.5: 05.52.23. Kernel 5.2 is unaffected. CWE-787 An issue was discovered in Insyde InsydeH2O with kernel 5.0 through 5.5. DMA attacks on the parameter buffer that is used by a software SMI handler (used by the PcdSmmDxe driver) could lead to a TOCTOU race-condition attack on the SMI handler, and lead to corruption of other ACPI fields and adjacent memory fields. The attack would require detailed knowledge of the PCD database contents on the current platform.
+- [Live-Hack-CVE/CVE-2022-32266](https://github.com/Live-Hack-CVE/CVE-2022-32266)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32266">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32266">
+
+---
 ## CVE-2022-3226 (2022-12-01T18:15:00)
 > An OS command injection vulnerability allows admins to execute code via SSL VPN configuration uploads in Sophos Firewall releases older than version 19.5 GA.
 - [Live-Hack-CVE/CVE-2022-3226](https://github.com/Live-Hack-CVE/CVE-2022-3226)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3226">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3226">
@@ -15259,6 +15309,11 @@
 - [ly1g3/Mailcow-CVE-2022-31245](https://github.com/ly1g3/Mailcow-CVE-2022-31245)	<img alt="forks" src="https://img.shields.io/github/forks/ly1g3/Mailcow-CVE-2022-31245">	<img alt="stars" src="https://img.shields.io/github/stars/ly1g3/Mailcow-CVE-2022-31245">
 
 ---
+## CVE-2022-31243 (2022-11-15T00:15:00)
+> Update description and links DMA transactions which are targeted at input buffers used for the software SMI handler used by the FvbServicesRuntimeDxe driver could cause SMRAM corruption through a TOCTOU attack.. "DMA transactions which are targeted at input buffers used for the software SMI handler used by the FvbServicesRuntimeDxe driver could cause SMRAM corruption. This issue was discovered by Insyde engineering based on the general description provided by Intel's iSTARE group. Fixed in Kernel 5.2: 05.27.21. Kernel 5.3: 05.36.21. Kernel 5.4: 05.44.21. Kernel 5.5: 05.52.21 https://www.insyde.com/security-pledge/SA-2022044
+- [Live-Hack-CVE/CVE-2022-31243](https://github.com/Live-Hack-CVE/CVE-2022-31243)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31243">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31243">
+
+---
 ## CVE-2022-31239 (2022-10-21T18:15:00)
 > Dell PowerScale OneFS, versions 9.0.0 up to and including 9.1.0.19, 9.2.1.12, and 9.3.0.6, contain sensitive data in log files vulnerability. A privileged local user may potentially exploit this vulnerability, leading to disclosure of this sensitive data.
 - [Live-Hack-CVE/CVE-2022-31239](https://github.com/Live-Hack-CVE/CVE-2022-31239)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31239">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31239">
@@ -15587,6 +15642,16 @@
 ## CVE-2022-30778 (2022-05-16T04:15:00)
 > ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was withdrawn by its CNA. Further investigation showed that it was not a security issue. Notes: none.
 - [kang8/CVE-2022-30778](https://github.com/kang8/CVE-2022-30778)	<img alt="forks" src="https://img.shields.io/github/forks/kang8/CVE-2022-30778">	<img alt="stars" src="https://img.shields.io/github/stars/kang8/CVE-2022-30778">
+
+---
+## CVE-2022-30774 (2022-11-15T00:15:00)
+> DMA attacks on the parameter buffer used by the PnpSmm driver could change the contents after parameter values have been checked but before they are used (a TOCTOU attack) DMA attacks on the parameter buffer used by the PnpSmm driver could change the contents after parameter values have been checked but before they are used (a TOCTOU attack) . This issue was discovered by Insyde engineering during a security review. This iss was fixed in Kernel 5.2: 05.27.29, Kernel 5.3: 05.36.25, Kernel 5.4: 05.44.25, Kernel 5.5: 05.52.25. CWE-367 https://www.insyde.com/security-pledge/SA-2022043
+- [Live-Hack-CVE/CVE-2022-30774](https://github.com/Live-Hack-CVE/CVE-2022-30774)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30774">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30774">
+
+---
+## CVE-2022-30773 (2022-11-14T22:15:00)
+> DMA attacks on the parameter buffer used by the IhisiSmm driver could change the contents after parameter values have been checked but before they are used (a TOCTOU attack). DMA attacks on the parameter buffer used by the IhisiSmm driver could change the contents after parameter values have been checked but before they are used (a TOCTOU attack). This issue was discovered by Insyde engineering. This issue is fixed in Kernel 5.4: 05.44.23 and Kernel 5.5: 05.52.23. CWE-367
+- [Live-Hack-CVE/CVE-2022-30773](https://github.com/Live-Hack-CVE/CVE-2022-30773)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30773">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30773">
 
 ---
 ## CVE-2022-30772 (2022-11-15T21:15:00)
@@ -19719,8 +19784,14 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-21724](https://github.com/Live-Hack-CVE/CVE-2022-21724)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21724">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21724">
 
 ---
+## CVE-2022-21723 (2022-01-27T00:15:00)
+> PJSIP is a free and open source multimedia communication library written in C language implementing standard based protocols such as SIP, SDP, RTP, STUN, TURN, and ICE. In versions 2.11.1 and prior, parsing an incoming SIP message that contains a malformed multipart can potentially cause out-of-bound read access. This issue affects all PJSIP users that accept SIP multipart. The patch is available as commit in the `master` branch. There are no known workarounds.
+- [Live-Hack-CVE/CVE-2022-21723](https://github.com/Live-Hack-CVE/CVE-2022-21723)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21723">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21723">
+
+---
 ## CVE-2022-21722 (2022-01-27T00:15:00)
 > PJSIP is a free and open source multimedia communication library written in C language implementing standard based protocols such as SIP, SDP, RTP, STUN, TURN, and ICE. In version 2.11.1 and prior, there are various cases where it is possible that certain incoming RTP/RTCP packets can potentially cause out-of-bound read access. This issue affects all users that use PJMEDIA and accept incoming RTP/RTCP. A patch is available as a commit in the `master` branch. There are no known workarounds.
+- [Live-Hack-CVE/CVE-2022-21722](https://github.com/Live-Hack-CVE/CVE-2022-21722)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21722">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21722">
 - [Live-Hack-CVE/CVE-2022-21722](https://github.com/Live-Hack-CVE/CVE-2022-21722)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21722">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21722">
 
 ---
@@ -20164,6 +20235,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Zerf0X/CVE-2022-20841-RCE](https://github.com/Zerf0X/CVE-2022-20841-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Zerf0X/CVE-2022-20841-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Zerf0X/CVE-2022-20841-RCE">
 - [expl0despl0it/CVE-2022-20841](https://github.com/expl0despl0it/CVE-2022-20841)	<img alt="forks" src="https://img.shields.io/github/forks/expl0despl0it/CVE-2022-20841">	<img alt="stars" src="https://img.shields.io/github/stars/expl0despl0it/CVE-2022-20841">
 - [c0resploit/CVE-2022-20841](https://github.com/c0resploit/CVE-2022-20841)	<img alt="forks" src="https://img.shields.io/github/forks/c0resploit/CVE-2022-20841">	<img alt="stars" src="https://img.shields.io/github/stars/c0resploit/CVE-2022-20841">
+
+---
+## CVE-2022-20831 (2022-11-15T21:15:00)
+> Multiple vulnerabilities in the web-based management interface of Cisco Firepower Management Center (FMC) Software could allow an authenticated, remote attacker to conduct a stored cross-site scripting (XSS) attack against a user of the interface of an affected device. These vulnerabilities are due to insufficient validation of user-supplied input by the web-based management interface. An attacker could exploit these vulnerabilities by inserting crafted input into various data fields in an affected interface. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface, or access sensitive, browser-based information. In some cases, it is also possible to cause a temporary availability impact to portions of the FMC Dashboard.
+- [Live-Hack-CVE/CVE-2022-20831](https://github.com/Live-Hack-CVE/CVE-2022-20831)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20831">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20831">
 
 ---
 ## CVE-2022-2083 (2022-09-05T13:15:00)

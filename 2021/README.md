@@ -433,9 +433,19 @@
 - [yonggui-li/CVE-2021-43890_poc](https://github.com/yonggui-li/CVE-2021-43890_poc)	<img alt="forks" src="https://img.shields.io/github/forks/yonggui-li/CVE-2021-43890_poc">	<img alt="stars" src="https://img.shields.io/github/stars/yonggui-li/CVE-2021-43890_poc">
 
 ---
+## CVE-2021-43845 (2021-12-27T18:15:00)
+> PJSIP is a free and open source multimedia communication library. In version 2.11.1 and prior, if incoming RTCP XR message contain block, the data field is not checked against the received packet size, potentially resulting in an out-of-bound read access. This affects all users that use PJMEDIA and RTCP XR. A malicious actor can send a RTCP XR message with an invalid packet size.
+- [Live-Hack-CVE/CVE-2021-43845](https://github.com/Live-Hack-CVE/CVE-2021-43845)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43845">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43845">
+
+---
 ## CVE-2021-43811 (2021-12-08T23:15:00)
 > Sockeye is an open-source sequence-to-sequence framework for Neural Machine Translation built on PyTorch. Sockeye uses YAML to store model and data configurations on disk. Versions below 2.3.24 use unsafe YAML loading, which can be made to execute arbitrary code embedded in config files. An attacker can add malicious code to the config file of a trained model and attempt to convince users to download and run it. If users run the model, the embedded code will run locally. The issue is fixed in version 2.3.24.
 - [s-index/CVE-2021-43811](https://github.com/s-index/CVE-2021-43811)	<img alt="forks" src="https://img.shields.io/github/forks/s-index/CVE-2021-43811">	<img alt="stars" src="https://img.shields.io/github/stars/s-index/CVE-2021-43811">
+
+---
+## CVE-2021-43804 (2021-12-22T18:15:00)
+> PJSIP is a free and open source multimedia communication library written in C language implementing standard based protocols such as SIP, SDP, RTP, STUN, TURN, and ICE. In affected versions if the incoming RTCP BYE message contains a reason's length, this declared length is not checked against the actual received packet size, potentially resulting in an out-of-bound read access. This issue affects all users that use PJMEDIA and RTCP. A malicious actor can send a RTCP BYE message with an invalid reason length. Users are advised to upgrade as soon as possible. There are no known workarounds.
+- [Live-Hack-CVE/CVE-2021-43804](https://github.com/Live-Hack-CVE/CVE-2021-43804)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43804">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43804">
 
 ---
 ## CVE-2021-43798 (2021-12-07T19:15:00)
@@ -590,15 +600,18 @@
 ## CVE-2021-43303 (2022-02-16T21:15:00)
 > Buffer overflow in PJSUA API when calling pjsua_call_dump. An attacker-controlled 'buffer' argument may cause a buffer overflow, since supplying an output buffer smaller than 128 characters may overflow the output buffer, regardless of the 'maxlen' argument supplied
 - [Live-Hack-CVE/CVE-2021-43303](https://github.com/Live-Hack-CVE/CVE-2021-43303)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43303">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43303">
+- [Live-Hack-CVE/CVE-2021-43303](https://github.com/Live-Hack-CVE/CVE-2021-43303)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43303">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43303">
 
 ---
 ## CVE-2021-43302 (2022-02-16T21:15:00)
 > Read out-of-bounds in PJSUA API when calling pjsua_recorder_create. An attacker-controlled 'filename' argument may cause an out-of-bounds read when the filename is shorter than 4 characters.
 - [Live-Hack-CVE/CVE-2021-43302](https://github.com/Live-Hack-CVE/CVE-2021-43302)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43302">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43302">
+- [Live-Hack-CVE/CVE-2021-43302](https://github.com/Live-Hack-CVE/CVE-2021-43302)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43302">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43302">
 
 ---
 ## CVE-2021-43301 (2022-02-16T21:15:00)
 > Stack overflow in PJSUA API when calling pjsua_playlist_create. An attacker-controlled 'file_names' argument may cause a buffer overflow since it is copied to a fixed-size stack buffer without any size validation.
+- [Live-Hack-CVE/CVE-2021-43301](https://github.com/Live-Hack-CVE/CVE-2021-43301)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43301">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43301">
 - [Live-Hack-CVE/CVE-2021-43301](https://github.com/Live-Hack-CVE/CVE-2021-43301)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43301">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43301">
 
 ---
@@ -2017,6 +2030,11 @@
 ## CVE-2021-37708 (2021-08-16T20:15:00)
 > Shopware is an open source eCommerce platform. Versions prior to 6.4.3.1 contain a command injection vulnerability in mail agent settings. Version 6.4.3.1 contains a patch. As workarounds for older versions of 6.1, 6.2, and 6.3, corresponding security measures are also available via a plugin.
 - [Live-Hack-CVE/CVE-2021-37708](https://github.com/Live-Hack-CVE/CVE-2021-37708)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37708">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37708">
+
+---
+## CVE-2021-37706 (2021-12-22T18:15:00)
+> PJSIP is a free and open source multimedia communication library written in C language implementing standard based protocols such as SIP, SDP, RTP, STUN, TURN, and ICE. In affected versions if the incoming STUN message contains an ERROR-CODE attribute, the header length is not checked before performing a subtraction operation, potentially resulting in an integer underflow scenario. This issue affects all users that use STUN. A malicious actor located within the victim’s network may forge and send a specially crafted UDP (STUN) message that could remotely execute arbitrary code on the victim’s machine. Users are advised to upgrade as soon as possible. There are no known workarounds.
+- [Live-Hack-CVE/CVE-2021-37706](https://github.com/Live-Hack-CVE/CVE-2021-37706)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37706">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37706">
 
 ---
 ## CVE-2021-37701 (2021-08-31T17:15:00)
