@@ -18749,6 +18749,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [ClemExp/CVE-2022-22965-PoC](https://github.com/ClemExp/CVE-2022-22965-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ClemExp/CVE-2022-22965-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ClemExp/CVE-2022-22965-PoC">
 - [clemoregan/SSE4-CVE-2022-22965](https://github.com/clemoregan/SSE4-CVE-2022-22965)	<img alt="forks" src="https://img.shields.io/github/forks/clemoregan/SSE4-CVE-2022-22965">	<img alt="stars" src="https://img.shields.io/github/stars/clemoregan/SSE4-CVE-2022-22965">
 - [devengpk/CVE-2022-22965](https://github.com/devengpk/CVE-2022-22965)	<img alt="forks" src="https://img.shields.io/github/forks/devengpk/CVE-2022-22965">	<img alt="stars" src="https://img.shields.io/github/stars/devengpk/CVE-2022-22965">
+- [zangcc/CVE-2022-22965-rexbb](https://github.com/zangcc/CVE-2022-22965-rexbb)	<img alt="forks" src="https://img.shields.io/github/forks/zangcc/CVE-2022-22965-rexbb">	<img alt="stars" src="https://img.shields.io/github/stars/zangcc/CVE-2022-22965-rexbb">
 
 ---
 ## CVE-2022-22963 (2022-04-01T23:15:00)
