@@ -10569,40 +10569,53 @@
 ## CVE-2022-37896 (2022-10-07T19:15:00)
 > A vulnerability in the Aruba InstantOS and ArubaOS 10 web management interface could allow a remote attacker to conduct a reflected cross-site scripting (XSS) attack against a user of the interface. A successful exploit could allow an attacker to execute arbitrary script code in a victim’s browser in the context of the affected interface of Aruba InstantOS 6.4.x: 6.4.4.8-4.2.4.20 and below; Aruba InstantOS 6.5.x: 6.5.4.23 and below; Aruba InstantOS 8.6.x: 8.6.0.18 and below; Aruba InstantOS 8.7.x: 8.7.1.9 and below; Aruba InstantOS 8.10.x: 8.10.0.1 and below; ArubaOS 10.3.x: 10.3.1.0 and below; Aruba has released upgrades for Aruba InstantOS that address this security vulnerability.
 - [Live-Hack-CVE/CVE-2022-37896](https://github.com/Live-Hack-CVE/CVE-2022-37896)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37896">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37896">
+- [Live-Hack-CVE/CVE-2022-37896](https://github.com/Live-Hack-CVE/CVE-2022-37896)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37896">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37896">
 
 ---
 ## CVE-2022-37895 (2022-10-07T19:15:00)
 > An unauthenticated Denial of Service (DoS) vulnerability exists in the handling of certain SSID strings by Aruba InstantOS and ArubaOS 10. Successful exploitation of this vulnerability results in the ability to interrupt the normal operation of the affected AP of Aruba InstantOS 6.4.x: 6.4.4.8-4.2.4.20 and below; Aruba InstantOS 6.5.x: 6.5.4.23 and below; Aruba InstantOS 8.6.x: 8.6.0.18 and below; Aruba InstantOS 8.7.x: 8.7.1.9 and below; Aruba InstantOS 8.10.x: 8.10.0.1 and below; ArubaOS 10.3.x: 10.3.1.0 and below; Aruba has released upgrades for Aruba InstantOS that address this security vulnerability.
+- [Live-Hack-CVE/CVE-2022-37895](https://github.com/Live-Hack-CVE/CVE-2022-37895)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37895">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37895">
 - [Live-Hack-CVE/CVE-2022-37895](https://github.com/Live-Hack-CVE/CVE-2022-37895)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37895">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37895">
 
 ---
 ## CVE-2022-37894 (2022-10-07T19:15:00)
 > An unauthenticated Denial of Service (DoS) vulnerability exists in the handling of certain SSID strings by Aruba InstantOS and ArubaOS 10. Successful exploitation of this vulnerability results in the ability to interrupt the normal operation of the affected AP of Aruba InstantOS 6.4.x: 6.4.4.8-4.2.4.20 and below; Aruba InstantOS 6.5.x: 6.5.4.23 and below; Aruba InstantOS 8.6.x: 8.6.0.18 and below; Aruba InstantOS 8.7.x: 8.7.1.9 and below; Aruba InstantOS 8.10.x: 8.10.0.1 and below; ArubaOS 10.3.x: 10.3.1.0 and below; Aruba has released upgrades for Aruba InstantOS that address this security vulnerability.
 - [Live-Hack-CVE/CVE-2022-37894](https://github.com/Live-Hack-CVE/CVE-2022-37894)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37894">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37894">
+- [Live-Hack-CVE/CVE-2022-37894](https://github.com/Live-Hack-CVE/CVE-2022-37894)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37894">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37894">
 
 ---
 ## CVE-2022-37893 (2022-10-07T19:15:00)
 > An authenticated command injection vulnerability exists in the Aruba InstantOS and ArubaOS 10 command line interface. Successful exploitation of this vulnerability results in the ability to execute arbitrary commands as a privileged user on the underlying operating system of Aruba InstantOS 6.4.x: 6.4.4.8-4.2.4.20 and below; Aruba InstantOS 6.5.x: 6.5.4.23 and below; Aruba InstantOS 8.6.x: 8.6.0.18 and below; Aruba InstantOS 8.7.x: 8.7.1.9 and below; Aruba InstantOS 8.10.x: 8.10.0.1 and below; ArubaOS 10.3.x: 10.3.1.0 and below; Aruba has released upgrades for Aruba InstantOS that address this security vulnerability.
 - [Live-Hack-CVE/CVE-2022-37893](https://github.com/Live-Hack-CVE/CVE-2022-37893)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37893">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37893">
+- [Live-Hack-CVE/CVE-2022-37893](https://github.com/Live-Hack-CVE/CVE-2022-37893)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37893">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37893">
+
+---
+## CVE-2022-37892 (2022-10-07T18:15:00)
+> A vulnerability in the Aruba InstantOS and ArubaOS 10 web management interface could allow an unauthenticated remote attacker to conduct a stored cross-site scripting (XSS) attack against a user of the interface. A successful exploit could allow an attacker to execute arbitrary script code in a victim’s browser in the context of the affected interface of Aruba InstantOS 6.4.x: 6.4.4.8-4.2.4.20 and below; Aruba InstantOS 6.5.x: 6.5.4.23 and below; Aruba InstantOS 8.6.x: 8.6.0.18 and below; Aruba InstantOS 8.7.x: 8.7.1.9 and below; Aruba InstantOS 8.10.x: 8.10.0.1 and below; ArubaOS 10.3.x: 10.3.1.0 and below; Aruba has released upgrades for Aruba InnstantOS that address this security vulnerability.
+- [Live-Hack-CVE/CVE-2022-37892](https://github.com/Live-Hack-CVE/CVE-2022-37892)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37892">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37892">
 
 ---
 ## CVE-2022-37891 (2022-10-07T18:15:00)
 > Unauthenticated buffer overflow vulnerabilities exist within the Aruba InstantOS and ArubaOS 10 web management interface. Successful exploitation results in the execution of arbitrary commands on the underlying operating system of Aruba InstantOS 6.4.x: 6.4.4.8-4.2.4.20 and below; Aruba InstantOS 6.5.x: 6.5.4.23 and below; Aruba InstantOS 8.6.x: 8.6.0.18 and below; Aruba InstantOS 8.7.x: 8.7.1.9 and below; Aruba InstantOS 8.10.x: 8.10.0.1 and below; ArubaOS 10.3.x: 10.3.1.0 and below; Aruba has released upgrades for Aruba InnstantOS that address these security vulnerabilities.
+- [Live-Hack-CVE/CVE-2022-37891](https://github.com/Live-Hack-CVE/CVE-2022-37891)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37891">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37891">
 - [Live-Hack-CVE/CVE-2022-37891](https://github.com/Live-Hack-CVE/CVE-2022-37891)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37891">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37891">
 
 ---
 ## CVE-2022-37890 (2022-10-07T18:15:00)
 > Unauthenticated buffer overflow vulnerabilities exist within the Aruba InstantOS and ArubaOS 10 web management interface. Successful exploitation results in the execution of arbitrary commands on the underlying operating system of Aruba InstantOS 6.4.x: 6.4.4.8-4.2.4.20 and below; Aruba InstantOS 6.5.x: 6.5.4.23 and below; Aruba InstantOS 8.6.x: 8.6.0.18 and below; Aruba InstantOS 8.7.x: 8.7.1.9 and below; Aruba InstantOS 8.10.x: 8.10.0.1 and below; ArubaOS 10.3.x: 10.3.1.0 and below; Aruba has released upgrades for Aruba InnstantOS that address these security vulnerabilities.
 - [Live-Hack-CVE/CVE-2022-37890](https://github.com/Live-Hack-CVE/CVE-2022-37890)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37890">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37890">
+- [Live-Hack-CVE/CVE-2022-37890](https://github.com/Live-Hack-CVE/CVE-2022-37890)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37890">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37890">
 
 ---
 ## CVE-2022-37889 (2022-10-07T18:15:00)
 > There are buffer overflow vulnerabilities in multiple underlying services that could lead to unauthenticated remote code execution by sending specially crafted packets destined to the PAPI (Aruba Networks AP management protocol) UDP port (8211). Successful exploitation of these vulnerabilities results in the ability to execute arbitrary code as a privileged user on the underlying operating system of Aruba InstantOS 6.4.x: 6.4.4.8-4.2.4.20 and below; Aruba InstantOS 6.5.x: 6.5.4.23 and below; Aruba InstantOS 8.6.x: 8.6.0.18 and below; Aruba InstantOS 8.7.x: 8.7.1.9 and below; Aruba InstantOS 8.10.x: 8.10.0.1 and below; ArubaOS 10.3.x: 10.3.1.0 and below; Aruba has released upgrades for Aruba InnstantOS that address these security vulnerabilities.
 - [Live-Hack-CVE/CVE-2022-37889](https://github.com/Live-Hack-CVE/CVE-2022-37889)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37889">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37889">
+- [Live-Hack-CVE/CVE-2022-37889](https://github.com/Live-Hack-CVE/CVE-2022-37889)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37889">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37889">
 
 ---
 ## CVE-2022-37887 (2022-10-07T18:15:00)
 > There are buffer overflow vulnerabilities in multiple underlying services that could lead to unauthenticated remote code execution by sending specially crafted packets destined to the PAPI (Aruba Networks AP management protocol) UDP port (8211). Successful exploitation of these vulnerabilities results in the ability to execute arbitrary code as a privileged user on the underlying operating system of Aruba InstantOS 6.4.x: 6.4.4.8-4.2.4.20 and below; Aruba InstantOS 6.5.x: 6.5.4.23 and below; Aruba InstantOS 8.6.x: 8.6.0.18 and below; Aruba InstantOS 8.7.x: 8.7.1.9 and below; Aruba InstantOS 8.10.x: 8.10.0.1 and below; ArubaOS 10.3.x: 10.3.1.0 and below; Aruba has released upgrades for Aruba InnstantOS that address these security vulnerabilities.
+- [Live-Hack-CVE/CVE-2022-37887](https://github.com/Live-Hack-CVE/CVE-2022-37887)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37887">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37887">
 - [Live-Hack-CVE/CVE-2022-37887](https://github.com/Live-Hack-CVE/CVE-2022-37887)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37887">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37887">
 
 ---
@@ -23066,6 +23079,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-0382](https://github.com/Live-Hack-CVE/CVE-2022-0382)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0382">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0382">
 
 ---
+## CVE-2022-0368 (2022-01-26T18:15:00)
+> Out-of-bounds Read in GitHub repository vim/vim prior to 8.2.
+- [Live-Hack-CVE/CVE-2022-0368](https://github.com/Live-Hack-CVE/CVE-2022-0368)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0368">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0368">
+
+---
 ## CVE-2022-0361 (2022-01-26T13:15:00)
 > Heap-based Buffer Overflow in GitHub repository vim/vim prior to 8.2.
 - [Live-Hack-CVE/CVE-2022-0361](https://github.com/Live-Hack-CVE/CVE-2022-0361)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0361">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0361">
@@ -23086,9 +23104,24 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera](https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera)	<img alt="forks" src="https://img.shields.io/github/forks/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera">	<img alt="stars" src="https://img.shields.io/github/stars/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera">
 
 ---
+## CVE-2022-0319 (2022-01-21T14:15:00)
+> Out-of-bounds Read in vim/vim prior to 8.2.
+- [Live-Hack-CVE/CVE-2022-0319](https://github.com/Live-Hack-CVE/CVE-2022-0319)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0319">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0319">
+
+---
+## CVE-2022-0261 (2022-01-18T16:15:00)
+> Heap-based Buffer Overflow in GitHub repository vim/vim prior to 8.2.
+- [Live-Hack-CVE/CVE-2022-0261](https://github.com/Live-Hack-CVE/CVE-2022-0261)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0261">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0261">
+
+---
 ## CVE-2022-0224 (2022-01-14T18:15:00)
 > dolibarr is vulnerable to Improper Neutralization of Special Elements used in an SQL Command
 - [Live-Hack-CVE/CVE-2022-0224](https://github.com/Live-Hack-CVE/CVE-2022-0224)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0224">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0224">
+
+---
+## CVE-2022-0213 (2022-01-14T13:15:00)
+> vim is vulnerable to Heap-based Buffer Overflow
+- [Live-Hack-CVE/CVE-2022-0213](https://github.com/Live-Hack-CVE/CVE-2022-0213)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0213">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0213">
 
 ---
 ## CVE-2022-0185 (2022-02-11T18:15:00)

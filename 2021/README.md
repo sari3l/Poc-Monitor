@@ -1001,6 +1001,16 @@
 - [Live-Hack-CVE/CVE-2021-41943](https://github.com/Live-Hack-CVE/CVE-2021-41943)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41943">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41943">
 
 ---
+## CVE-2021-4193 (2021-12-31T16:15:00)
+> vim is vulnerable to Out-of-bounds Read
+- [Live-Hack-CVE/CVE-2021-4193](https://github.com/Live-Hack-CVE/CVE-2021-4193)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4193">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4193">
+
+---
+## CVE-2021-4192 (2021-12-31T15:15:00)
+> vim is vulnerable to Use After Free
+- [Live-Hack-CVE/CVE-2021-4192](https://github.com/Live-Hack-CVE/CVE-2021-4192)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4192">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4192">
+
+---
 ## CVE-2021-4189 (2022-08-24T16:15:00)
 > A flaw was found in Python, specifically in the FTP (File Transfer Protocol) client library in PASV (passive) mode. The issue is how the FTP client trusts the host from the PASV response by default. This flaw allows an attacker to set up a malicious FTP server that can trick FTP clients into connecting back to a given IP address and port. This vulnerability could lead to FTP client scanning ports, which otherwise would not have been possible.
 - [Live-Hack-CVE/CVE-2021-4189](https://github.com/Live-Hack-CVE/CVE-2021-4189)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4189">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4189">
@@ -1340,6 +1350,11 @@
 - [Live-Hack-CVE/CVE-2021-40691](https://github.com/Live-Hack-CVE/CVE-2021-40691)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40691">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40691">
 
 ---
+## CVE-2021-4069 (2021-12-06T12:15:00)
+> vim is vulnerable to Use After Free
+- [Live-Hack-CVE/CVE-2021-4069](https://github.com/Live-Hack-CVE/CVE-2021-4069)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4069">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4069">
+
+---
 ## CVE-2021-40661 (2022-10-31T12:15:00)
 > A remote, unauthenticated, directory traversal vulnerability was identified within the web interface used by IND780 Advanced Weighing Terminals Build 8.0.07 March 19, 2018 (SS Label 'IND780_8.0.07'), Version 7.2.10 June 18, 2012 (SS Label 'IND780_7.2.10'). It was possible to traverse the folders of the affected host by providing a traversal path to the 'webpage' parameter in AutoCE.ini This could allow a remote unauthenticated adversary to access additional files on the affected system. This could also allow the adversary to perform further enumeration against the affected host to identify the versions of the systems in use, in order to launch further attacks in future.
 - [Live-Hack-CVE/CVE-2021-40661](https://github.com/Live-Hack-CVE/CVE-2021-40661)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40661">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40661">
@@ -1590,6 +1605,11 @@
 - [Live-Hack-CVE/CVE-2021-4022](https://github.com/Live-Hack-CVE/CVE-2021-4022)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4022">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4022">
 
 ---
+## CVE-2021-4019 (2021-12-01T10:15:00)
+> vim is vulnerable to Heap-based Buffer Overflow
+- [Live-Hack-CVE/CVE-2021-4019](https://github.com/Live-Hack-CVE/CVE-2021-4019)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4019">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4019">
+
+---
 ## CVE-2021-40113 (2021-11-04T16:15:00)
 > Multiple vulnerabilities in the web-based management interface of the Cisco Catalyst Passive Optical Network (PON) Series Switches Optical Network Terminal (ONT) could allow an unauthenticated, remote attacker to perform the following actions: Log in with a default credential if the Telnet protocol is enabled Perform command injection Modify the configuration For more information about these vulnerabilities, see the Details section of this advisory.
 - [Live-Hack-CVE/CVE-2021-40113](https://github.com/Live-Hack-CVE/CVE-2021-40113)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40113">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40113">
@@ -1652,6 +1672,11 @@
 - [Live-Hack-CVE/CVE-2021-39921](https://github.com/Live-Hack-CVE/CVE-2021-39921)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39921">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39921">
 
 ---
+## CVE-2021-3984 (2021-12-01T11:15:00)
+> vim is vulnerable to Heap-based Buffer Overflow
+- [Live-Hack-CVE/CVE-2021-3984](https://github.com/Live-Hack-CVE/CVE-2021-3984)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3984">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3984">
+
+---
 ## CVE-2021-39815 (2022-08-24T14:15:00)
 > The PowerVR GPU driver allows unprivileged apps to allocated pinned memory, unpin it (which makes it available to be freed), and continue using the page in GPU calls. No privileges required and this results in kernel memory corruption.Product: AndroidVersions: Android SoCAndroid ID: A-232440670
 - [Live-Hack-CVE/CVE-2021-39815](https://github.com/Live-Hack-CVE/CVE-2021-39815)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39815">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39815">
@@ -1660,6 +1685,11 @@
 ## CVE-2021-3975 (2022-08-23T20:15:00)
 > A use-after-free flaw was found in libvirt. The qemuMonitorUnregister() function in qemuProcessHandleMonitorEOF is called using multiple threads without being adequately protected by a monitor lock. This flaw could be triggered by the virConnectGetAllDomainStats API when the guest is shutting down. An unprivileged client with a read-only connection could use this flaw to perform a denial of service attack by causing the libvirt daemon to crash.
 - [Live-Hack-CVE/CVE-2021-3975](https://github.com/Live-Hack-CVE/CVE-2021-3975)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3975">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3975">
+
+---
+## CVE-2021-3974 (2021-11-19T11:15:00)
+> vim is vulnerable to Use After Free
+- [Live-Hack-CVE/CVE-2021-3974](https://github.com/Live-Hack-CVE/CVE-2021-3974)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3974">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3974">
 
 ---
 ## CVE-2021-39696 (2022-08-10T20:15:00)
@@ -1742,6 +1772,11 @@
 ## CVE-2021-3929 (2022-08-25T20:15:00)
 > A DMA reentrancy issue was found in the NVM Express Controller (NVME) emulation in QEMU. This CVE is similar to CVE-2021-3750 and, just like it, when the reentrancy write triggers the reset function nvme_ctrl_reset(), data structs will be freed leading to a use-after-free issue. A malicious guest could use this flaw to crash the QEMU process on the host, resulting in a denial of service condition or, potentially, executing arbitrary code within the context of the QEMU process on the host.
 - [Live-Hack-CVE/CVE-2021-3929](https://github.com/Live-Hack-CVE/CVE-2021-3929)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3929">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3929">
+
+---
+## CVE-2021-3928 (2021-11-05T15:15:00)
+> vim is vulnerable to Use of Uninitialized Variable
+- [Live-Hack-CVE/CVE-2021-3928](https://github.com/Live-Hack-CVE/CVE-2021-3928)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3928">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3928">
 
 ---
 ## CVE-2021-39227 (2021-09-17T14:15:00)
@@ -2989,6 +3024,11 @@
 - [Live-Hack-CVE/CVE-2021-33235](https://github.com/Live-Hack-CVE/CVE-2021-33235)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33235">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33235">
 
 ---
+## CVE-2021-33196 (2021-08-02T19:15:00)
+> In archive/zip in Go before 1.15.13 and 1.16.x before 1.16.5, a crafted file count (in an archive's header) can cause a NewReader or OpenReader panic.
+- [Live-Hack-CVE/CVE-2021-33196](https://github.com/Live-Hack-CVE/CVE-2021-33196)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33196">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33196">
+
+---
 ## CVE-2021-33128 (2022-08-18T20:15:00)
 > Improper access control in the firmware for some Intel(R) E810 Ethernet Controllers before version 1.6.0.6 may allow a privileged user to potentially enable denial of service via local access.
 - [Live-Hack-CVE/CVE-2021-33128](https://github.com/Live-Hack-CVE/CVE-2021-33128)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33128">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33128">
@@ -3085,6 +3125,11 @@
 - [Live-Hack-CVE/CVE-2021-32686](https://github.com/Live-Hack-CVE/CVE-2021-32686)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32686">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32686">
 
 ---
+## CVE-2021-32682 (2021-06-14T17:15:00)
+> elFinder is an open-source file manager for web, written in JavaScript using jQuery UI. Several vulnerabilities affect elFinder 2.1.58. These vulnerabilities can allow an attacker to execute arbitrary code and commands on the server hosting the elFinder PHP connector, even with minimal configuration. The issues were patched in version 2.1.59. As a workaround, ensure the connector is not exposed without authentication.
+- [Live-Hack-CVE/CVE-2021-32682](https://github.com/Live-Hack-CVE/CVE-2021-32682)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32682">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32682">
+
+---
 ## CVE-2021-32658 (2021-06-08T19:15:00)
 > Nextcloud Android is the Android client for the Nextcloud open source home cloud system. Due to a timeout issue the Android client may not properly clean all sensitive data on account removal. This could include sensitive key material such as the End-to-End encryption keys. It is recommended that the Nextcloud Android App is upgraded to 3.16.1
 - [Live-Hack-CVE/CVE-2021-32658](https://github.com/Live-Hack-CVE/CVE-2021-32658)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32658">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32658">
@@ -3093,6 +3138,16 @@
 ## CVE-2021-32656 (2021-06-01T22:15:00)
 > Nextcloud Server is a Nextcloud package that handles data storage. A vulnerability in federated share exists in versions prior to 19.0.11, 20.0.10, and 21.0.2. An attacker can gain access to basic information about users of a server by accessing a public link that a legitimate server user added as a federated share. This happens because Nextcloud supports sharing registered users with other Nextcloud servers, which can be done automatically when selecting the "Add server automatically once a federated share was created successfully" setting. The vulnerability is patched in versions 19.0.11, 20.0.10, and 21.0.2 As a workaround, disable "Add server automatically once a federated share was created successfully" in the Nextcloud settings.
 - [Live-Hack-CVE/CVE-2021-32656](https://github.com/Live-Hack-CVE/CVE-2021-32656)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32656">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32656">
+
+---
+## CVE-2021-32608 (2021-05-12T15:15:00)
+> An issue was discovered in Smartstore (aka SmartStoreNET) through 4.1.1. Views/Boards/Partials/_ForumPost.cshtml does not call HtmlUtils.SanitizeHtml on certain text for a forum post.
+- [Live-Hack-CVE/CVE-2021-32608](https://github.com/Live-Hack-CVE/CVE-2021-32608)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32608">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32608">
+
+---
+## CVE-2021-32607 (2021-05-12T15:15:00)
+> An issue was discovered in Smartstore (aka SmartStoreNET) through 4.1.1. Views/PrivateMessages/View.cshtml does not call HtmlUtils.SanitizeHtml on a private message.
+- [Live-Hack-CVE/CVE-2021-32607](https://github.com/Live-Hack-CVE/CVE-2021-32607)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32607">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32607">
 
 ---
 ## CVE-2021-32503 (2022-04-01T23:15:00)
@@ -3221,6 +3276,11 @@
 - [meowhua15/CVE-2021-3156](https://github.com/meowhua15/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/meowhua15/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/meowhua15/CVE-2021-3156">
 - [Live-Hack-CVE/CVE-2021-31566](https://github.com/Live-Hack-CVE/CVE-2021-31566)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31566">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31566">
 - [Live-Hack-CVE/CVE-2021-3156](https://github.com/Live-Hack-CVE/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3156">
+
+---
+## CVE-2021-31525 (2021-05-27T13:15:00)
+> net/http in Go before 1.15.12 and 1.16.x before 1.16.4 allows remote attackers to cause a denial of service (panic) via a large header to ReadRequest or ReadResponse. Server, Transport, and Client can each be affected in some configurations.
+- [Live-Hack-CVE/CVE-2021-31525](https://github.com/Live-Hack-CVE/CVE-2021-31525)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31525">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31525">
 
 ---
 ## CVE-2021-31356 (2021-10-19T19:15:00)
@@ -3448,6 +3508,11 @@
 - [Abdulazizalsewedy/CVE-2021-29447](https://github.com/Abdulazizalsewedy/CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/Abdulazizalsewedy/CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/Abdulazizalsewedy/CVE-2021-29447">
 - [Live-Hack-CVE/CVE-2021-29447](https://github.com/Live-Hack-CVE/CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29447">
 - [Ki11i0n4ir3/CVE-2021-29447](https://github.com/Ki11i0n4ir3/CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/Ki11i0n4ir3/CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/Ki11i0n4ir3/CVE-2021-29447">
+
+---
+## CVE-2021-29440 (2021-04-13T20:15:00)
+> Grav is a file based Web-platform. Twig processing of static pages can be enabled in the front matter by any administrative user allowed to create or edit pages. As the Twig processor runs unsandboxed, this behavior can be used to gain arbitrary code execution and elevate privileges on the instance. The issue was addressed in version 1.7.11.
+- [Live-Hack-CVE/CVE-2021-29440](https://github.com/Live-Hack-CVE/CVE-2021-29440)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29440">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29440">
 
 ---
 ## CVE-2021-29421 (2021-04-01T20:15:00)
@@ -4201,6 +4266,11 @@
 - [Live-Hack-CVE/CVE-2021-2454](https://github.com/Live-Hack-CVE/CVE-2021-2454)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-2454">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-2454">
 
 ---
+## CVE-2021-24504 (2021-08-02T11:15:00)
+> The WP LMS â€“ Best WordPress LMS Plugin WordPress plugin through 1.1.2 does not properly sanitise or validate its User Field Titles, allowing XSS payload to be used in them. Furthermore, no CSRF and capability checks were in place, allowing such attack to be performed either via CSRF or as any user (including unauthenticated)
+- [Live-Hack-CVE/CVE-2021-24504](https://github.com/Live-Hack-CVE/CVE-2021-24504)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24504">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24504">
+
+---
 ## CVE-2021-24500 (2021-08-09T10:15:00)
 > Several AJAX actions available in the Workreap WordPress theme before 2.2.2 lacked CSRF protections, as well as allowing insecure direct object references that were not validated. This allows an attacker to trick a logged in user to submit a POST request to the vulnerable site, potentially modifying or deleting arbitrary objects on the target site.
 - [Live-Hack-CVE/CVE-2021-24500](https://github.com/Live-Hack-CVE/CVE-2021-24500)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24500">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24500">
@@ -4215,6 +4285,16 @@
 > The Language Bar Flags WordPress plugin through 1.0.8 does not have any CSRF in place when saving its settings and did not sanitise or escape them when generating the flag bar in the frontend. This could allow attackers to make a logged in admin change the settings, and set Cross-Site Scripting payload in them, which will be executed in the frontend for all users
 - [Live-Hack-CVE/CVE-2021-24431](https://github.com/Live-Hack-CVE/CVE-2021-24431)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24431">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24431">
 - [Live-Hack-CVE/CVE-2021-24431](https://github.com/Live-Hack-CVE/CVE-2021-24431)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24431">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24431">
+
+---
+## CVE-2021-24349 (2021-06-14T14:15:00)
+> This Gallery from files WordPress plugin through 1.6.0 gives the functionality of uploading images to the server. But filenames are not properly sanitized before being output in an error message when they have an invalid extension, leading to a reflected Cross-Site Scripting issue. Due to the lack of CSRF check, the attack could also be performed via such vector.
+- [Live-Hack-CVE/CVE-2021-24349](https://github.com/Live-Hack-CVE/CVE-2021-24349)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24349">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24349">
+
+---
+## CVE-2021-24347 (2021-06-14T14:15:00)
+> The SP Project & Document Manager WordPress plugin before 4.22 allows users to upload files, however, the plugin attempts to prevent php and other similar files that could be executed on the server from being uploaded by checking the file extension. It was discovered that php files could still be uploaded by changing the file extension's case, for example, from "php" to "pHP".
+- [Live-Hack-CVE/CVE-2021-24347](https://github.com/Live-Hack-CVE/CVE-2021-24347)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24347">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24347">
 
 ---
 ## CVE-2021-24188 (2021-05-14T12:15:00)
@@ -4281,6 +4361,11 @@
 ## CVE-2021-23437 (2021-09-03T16:15:00)
 > The package pillow 5.2.0 and before 8.3.2 are vulnerable to Regular Expression Denial of Service (ReDoS) via the getrgb function.
 - [Live-Hack-CVE/CVE-2021-23437](https://github.com/Live-Hack-CVE/CVE-2021-23437)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23437">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23437">
+
+---
+## CVE-2021-23394 (2021-06-13T11:15:00)
+> The package studio-42/elfinder before 2.1.58 are vulnerable to Remote Code Execution (RCE) via execution of PHP code in a .phar file. NOTE: This only applies if the server parses .phar files as PHP.
+- [Live-Hack-CVE/CVE-2021-23394](https://github.com/Live-Hack-CVE/CVE-2021-23394)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23394">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23394">
 
 ---
 ## CVE-2021-23265 (2022-05-16T17:15:00)
