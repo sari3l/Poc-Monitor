@@ -3730,6 +3730,16 @@
 - [Live-Hack-CVE/CVE-2022-43449](https://github.com/Live-Hack-CVE/CVE-2022-43449)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43449">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43449">
 
 ---
+## CVE-2022-43435 (2022-10-19T16:15:00)
+> Jenkins 360 FireLine Plugin 1.7.2 and earlier programmatically disables Content-Security-Policy protection for user-generated content in workspaces, archived artifacts, etc. that Jenkins offers for download.
+- [Live-Hack-CVE/CVE-2022-43435](https://github.com/Live-Hack-CVE/CVE-2022-43435)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43435">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43435">
+
+---
+## CVE-2022-43434 (2022-10-19T16:15:00)
+> Jenkins NeuVector Vulnerability Scanner Plugin 1.20 and earlier programmatically disables Content-Security-Policy protection for user-generated content in workspaces, archived artifacts, etc. that Jenkins offers for download.
+- [Live-Hack-CVE/CVE-2022-43434](https://github.com/Live-Hack-CVE/CVE-2022-43434)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43434">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43434">
+
+---
 ## CVE-2022-43416 (2022-10-19T16:15:00)
 > Jenkins Katalon Plugin 1.0.32 and earlier implements an agent/controller message that does not limit where it can be executed and allows invoking Katalon with configurable arguments, allowing attackers able to control agent processes to invoke Katalon on the Jenkins controller with attacker-controlled version, install location, and arguments, and attackers additionally able to create files on the Jenkins controller (e.g., attackers with Item/Configure permission could archive artifacts) to invoke arbitrary OS commands.
 - [Live-Hack-CVE/CVE-2022-43416](https://github.com/Live-Hack-CVE/CVE-2022-43416)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43416">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43416">
@@ -4368,6 +4378,66 @@
 ## CVE-2022-42945 (2022-12-19T16:15:00)
 > DWG TrueViewTM 2023 version has a DLL Search Order Hijacking vulnerability. Successful exploitation by a malicious attacker could result in remote code execution on the target system.
 - [Live-Hack-CVE/CVE-2022-42945](https://github.com/Live-Hack-CVE/CVE-2022-42945)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42945">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42945">
+
+---
+## CVE-2022-42944 (2022-10-21T16:15:00)
+> A malicious crafted dwf or .pct file when consumed through DesignReview.exe application could lead to memory corruption vulnerability by read access violation. This vulnerability in conjunction with other vulnerabilities could lead to code execution in the context of the current process.
+- [Live-Hack-CVE/CVE-2022-42944](https://github.com/Live-Hack-CVE/CVE-2022-42944)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42944">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42944">
+
+---
+## CVE-2022-42943 (2022-10-21T16:15:00)
+> A malicious crafted dwf or .pct file when consumed through DesignReview.exe application could lead to memory corruption vulnerability by read access violation. This vulnerability in conjunction with other vulnerabilities could lead to code execution in the context of the current process.
+- [Live-Hack-CVE/CVE-2022-42943](https://github.com/Live-Hack-CVE/CVE-2022-42943)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42943">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42943">
+
+---
+## CVE-2022-42942 (2022-10-21T16:15:00)
+> A malicious crafted dwf or .pct file when consumed through DesignReview.exe application could lead to memory corruption vulnerability by read access violation. This vulnerability in conjunction with other vulnerabilities could lead to code execution in the context of the current process.
+- [Live-Hack-CVE/CVE-2022-42942](https://github.com/Live-Hack-CVE/CVE-2022-42942)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42942">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42942">
+
+---
+## CVE-2022-42941 (2022-10-21T16:15:00)
+> A malicious crafted dwf or .pct file when consumed through DesignReview.exe application could lead to memory corruption vulnerability by read access violation. This vulnerability in conjunction with other vulnerabilities could lead to code execution in the context of the current process.
+- [Live-Hack-CVE/CVE-2022-42941](https://github.com/Live-Hack-CVE/CVE-2022-42941)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42941">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42941">
+
+---
+## CVE-2022-42940 (2022-10-21T16:15:00)
+> A malicious crafted TGA file when consumed through DesignReview.exe application could lead to memory corruption vulnerability. This vulnerability in conjunction with other vulnerabilities could lead to code execution in the context of the current process.
+- [Live-Hack-CVE/CVE-2022-42940](https://github.com/Live-Hack-CVE/CVE-2022-42940)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42940">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42940">
+
+---
+## CVE-2022-42939 (2022-10-21T16:15:00)
+> A malicious crafted TGA file when consumed through DesignReview.exe application could lead to memory corruption vulnerability. This vulnerability in conjunction with other vulnerabilities could lead to code execution in the context of the current process.
+- [Live-Hack-CVE/CVE-2022-42939](https://github.com/Live-Hack-CVE/CVE-2022-42939)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42939">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42939">
+
+---
+## CVE-2022-42938 (2022-10-21T16:15:00)
+> A malicious crafted TGA file when consumed through DesignReview.exe application could lead to memory corruption vulnerability. This vulnerability in conjunction with other vulnerabilities could lead to code execution in the context of the current process.
+- [Live-Hack-CVE/CVE-2022-42938](https://github.com/Live-Hack-CVE/CVE-2022-42938)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42938">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42938">
+
+---
+## CVE-2022-42937 (2022-10-21T16:15:00)
+> A malicious crafted .dwf or .pct file when consumed through DesignReview.exe application could lead to memory corruption vulnerability by write access violation. This vulnerability in conjunction with other vulnerabilities could lead to code execution in the context of the current process.
+- [Live-Hack-CVE/CVE-2022-42937](https://github.com/Live-Hack-CVE/CVE-2022-42937)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42937">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42937">
+
+---
+## CVE-2022-42936 (2022-10-21T16:15:00)
+> A malicious crafted .dwf or .pct file when consumed through DesignReview.exe application could lead to memory corruption vulnerability by write access violation. This vulnerability in conjunction with other vulnerabilities could lead to code execution in the context of the current process.
+- [Live-Hack-CVE/CVE-2022-42936](https://github.com/Live-Hack-CVE/CVE-2022-42936)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42936">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42936">
+
+---
+## CVE-2022-42935 (2022-10-21T16:15:00)
+> A malicious crafted .dwf or .pct file when consumed through DesignReview.exe application could lead to memory corruption vulnerability by write access violation. This vulnerability in conjunction with other vulnerabilities could lead to code execution in the context of the current process.
+- [Live-Hack-CVE/CVE-2022-42935](https://github.com/Live-Hack-CVE/CVE-2022-42935)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42935">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42935">
+
+---
+## CVE-2022-42934 (2022-10-21T16:15:00)
+> A malicious crafted .dwf or .pct file when consumed through DesignReview.exe application could lead to memory corruption vulnerability by write access violation. This vulnerability in conjunction with other vulnerabilities could lead to code execution in the context of the current process.
+- [Live-Hack-CVE/CVE-2022-42934](https://github.com/Live-Hack-CVE/CVE-2022-42934)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42934">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42934">
+
+---
+## CVE-2022-42933 (2022-10-21T16:15:00)
+> A malicious crafted .dwf or .pct file when consumed through DesignReview.exe application could lead to memory corruption vulnerability by write access violation. This vulnerability in conjunction with other vulnerabilities could lead to code execution in the context of the current process.
+- [Live-Hack-CVE/CVE-2022-42933](https://github.com/Live-Hack-CVE/CVE-2022-42933)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42933">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42933">
 
 ---
 ## CVE-2022-42932 (2022-12-22T20:15:00)
@@ -5359,6 +5429,11 @@
 - [Live-Hack-CVE/CVE-2022-42234](https://github.com/Live-Hack-CVE/CVE-2022-42234)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42234">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42234">
 
 ---
+## CVE-2022-42233 (2022-10-20T17:15:00)
+> Tenda 11N with firmware version V5.07.33_cn suffers from an Authentication Bypass vulnerability.
+- [Live-Hack-CVE/CVE-2022-42233](https://github.com/Live-Hack-CVE/CVE-2022-42233)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42233">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42233">
+
+---
 ## CVE-2022-42232 (2022-10-14T17:15:00)
 > Simple Cold Storage Management System v1.0 is vulnerable to SQL Injection via /csms/classes/Master.php?f=delete_storage.
 - [Live-Hack-CVE/CVE-2022-42232](https://github.com/Live-Hack-CVE/CVE-2022-42232)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42232">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42232">
@@ -5956,6 +6031,11 @@
 - [Live-Hack-CVE/CVE-2022-41833](https://github.com/Live-Hack-CVE/CVE-2022-41833)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41833">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41833">
 
 ---
+## CVE-2022-41832 (2022-10-19T22:15:00)
+> In BIG-IP versions 17.0.x before 17.0.0.1, 16.1.x before 16.1.3.1, 15.1.x before 15.1.6.1, 14.1.x before 14.1.5.1, and 13.1.x before 13.1.5.1, when a SIP profile is configured on a virtual server, undisclosed messages can cause an increase in memory resource utilization.
+- [Live-Hack-CVE/CVE-2022-41832](https://github.com/Live-Hack-CVE/CVE-2022-41832)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41832">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41832">
+
+---
 ## CVE-2022-4183 (2022-11-30T00:15:00)
 > Insufficient policy enforcement in Popup Blocker in Google Chrome prior to 108.0.5359.71 allowed a remote attacker to bypass navigation restrictions via a crafted HTML page. (Chromium security severity: Medium)
 - [Live-Hack-CVE/CVE-2022-4183](https://github.com/Live-Hack-CVE/CVE-2022-4183)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4183">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4183">
@@ -5966,9 +6046,19 @@
 - [Live-Hack-CVE/CVE-2022-4182](https://github.com/Live-Hack-CVE/CVE-2022-4182)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4182">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4182">
 
 ---
+## CVE-2022-41813 (2022-10-19T22:15:00)
+> In versions 16.1.x before 16.1.3.1, 15.1.x before 15.1.6.1, 14.1.x before 14.1.5, and all versions of 13.1.x, when BIG-IP is provisioned with PEM or AFM module, an undisclosed input can cause Traffic Management Microkernel (TMM) to terminate.
+- [Live-Hack-CVE/CVE-2022-41813](https://github.com/Live-Hack-CVE/CVE-2022-41813)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41813">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41813">
+
+---
 ## CVE-2022-4181 (2022-11-30T00:15:00)
 > Use after free in Forms in Google Chrome prior to 108.0.5359.71 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [Live-Hack-CVE/CVE-2022-4181](https://github.com/Live-Hack-CVE/CVE-2022-4181)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4181">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4181">
+
+---
+## CVE-2022-41806 (2022-10-19T22:15:00)
+> In versions 16.1.x before 16.1.3.2 and 15.1.x before 15.1.5.1, when BIG-IP AFM Network Address Translation policy with IPv6/IPv4 translation rules is configured on a virtual server, undisclosed requests can cause an increase in memory resource utilization.
+- [Live-Hack-CVE/CVE-2022-41806](https://github.com/Live-Hack-CVE/CVE-2022-41806)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41806">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41806">
 
 ---
 ## CVE-2022-41805 (2022-11-18T19:15:00)
@@ -6023,9 +6113,19 @@
 - [Live-Hack-CVE/CVE-2022-41788](https://github.com/Live-Hack-CVE/CVE-2022-41788)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41788">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41788">
 
 ---
+## CVE-2022-41787 (2022-10-19T22:15:00)
+> In BIG-IP versions 17.0.x before 17.0.0.1, 16.1.x before 16.1.3.1, 15.1.x before 15.1.6.1, 14.1.x before 14.1.5.1, and 13.1.x before 13.1.5.1, when DNS profile is configured on a virtual server with DNS Express enabled, undisclosed DNS queries with DNSSEC can cause TMM to terminate.
+- [Live-Hack-CVE/CVE-2022-41787](https://github.com/Live-Hack-CVE/CVE-2022-41787)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41787">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41787">
+
+---
 ## CVE-2022-41783 (2022-12-07T04:15:00)
 > tdpServer of TP-Link RE300 V1 improperly processes its input, which may allow an attacker to cause a denial-of-service (DoS) condition of the product's OneMesh function.
 - [Live-Hack-CVE/CVE-2022-41783](https://github.com/Live-Hack-CVE/CVE-2022-41783)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41783">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41783">
+
+---
+## CVE-2022-41780 (2022-10-19T22:15:00)
+> In F5OS-A version 1.x before 1.1.0 and F5OS-C version 1.x before 1.4.0, a directory traversal vulnerability exists in an undisclosed location of the F5OS CLI that allows an attacker to read arbitrary files.
+- [Live-Hack-CVE/CVE-2022-41780](https://github.com/Live-Hack-CVE/CVE-2022-41780)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41780">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41780">
 
 ---
 ## CVE-2022-4178 (2022-11-30T00:15:00)
@@ -6052,6 +6152,11 @@
 ## CVE-2022-41772 (2022-10-31T20:15:00)
 > Delta Electronics InfraSuite Device Master Versions 00.00.01a and prior mishandle .ZIP archives containing characters used in path traversal. This path traversal could result in remote code execution.
 - [Live-Hack-CVE/CVE-2022-41772](https://github.com/Live-Hack-CVE/CVE-2022-41772)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41772">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41772">
+
+---
+## CVE-2022-41770 (2022-10-19T22:15:00)
+> In BIG-IP versions 17.0.x before 17.0.0.1, 16.1.x before 16.1.3.1, 15.1.x before 15.1.7, 14.1.x before 14.1.5.1, and all versions of 13.1.x, and BIG-IQ all versions of 8.x and 7.x, an authenticated iControl REST user can cause an increase in memory resource utilization, via undisclosed requests.
+- [Live-Hack-CVE/CVE-2022-41770](https://github.com/Live-Hack-CVE/CVE-2022-41770)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41770">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41770">
 
 ---
 ## CVE-2022-4177 (2022-11-30T00:15:00)
@@ -6389,6 +6494,11 @@
 - [Live-Hack-CVE/CVE-2022-41578](https://github.com/Live-Hack-CVE/CVE-2022-41578)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41578">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41578">
 
 ---
+## CVE-2022-41575 (2022-10-21T12:15:00)
+> A credential-exposure vulnerability in the support-bundle mechanism in Gradle Enterprise 2022.3 through 2022.3.3 allows remote attackers to access a subset of application data (e.g., cleartext credentials). This is fixed in 2022.3.3.
+- [Live-Hack-CVE/CVE-2022-41575](https://github.com/Live-Hack-CVE/CVE-2022-41575)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41575">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41575">
+
+---
 ## CVE-2022-4157 (2022-12-26T13:15:00)
 > The Contest Gallery WordPress plugin before 19.1.5.1, Contest Gallery Pro WordPress plugin before 19.1.5.1 do not escape the cg_option_id POST parameter before concatenating it to an SQL query in export-votes-all.php. This may allow malicious users with administrator privileges (i.e. on multisite WordPress configurations) to leak sensitive information from the site's database.
 - [Live-Hack-CVE/CVE-2022-4157](https://github.com/Live-Hack-CVE/CVE-2022-4157)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4157">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4157">
@@ -6659,6 +6769,11 @@
 > Auth. Stored Cross-Site Scripting (XSS) vulnerability in Ezoic plugin <= 2.8.8 on WordPress.
 - [Live-Hack-CVE/CVE-2022-41315](https://github.com/Live-Hack-CVE/CVE-2022-41315)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41315">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41315">
 - [Live-Hack-CVE/CVE-2022-41315](https://github.com/Live-Hack-CVE/CVE-2022-41315)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41315">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41315">
+
+---
+## CVE-2022-41309 (2022-10-21T16:15:00)
+> A malicious crafted .dwf or .pct file when consumed through DesignReview.exe application could lead to memory corruption vulnerability by write access violation. This vulnerability in conjunction with other vulnerabilities could lead to code execution in the context of the current process.
+- [Live-Hack-CVE/CVE-2022-41309](https://github.com/Live-Hack-CVE/CVE-2022-41309)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41309">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41309">
 
 ---
 ## CVE-2022-41308 (2022-10-14T17:15:00)
@@ -13079,6 +13194,11 @@
 - [afaq1337/CVE-2022-36200](https://github.com/afaq1337/CVE-2022-36200)	<img alt="forks" src="https://img.shields.io/github/forks/afaq1337/CVE-2022-36200">	<img alt="stars" src="https://img.shields.io/github/stars/afaq1337/CVE-2022-36200">
 
 ---
+## CVE-2022-3619 (2022-10-20T20:15:00)
+> A vulnerability has been found in Linux Kernel and classified as problematic. This vulnerability affects the function l2cap_recv_acldata of the file net/bluetooth/l2cap_core.c of the component Bluetooth. The manipulation leads to memory leak. It is recommended to apply a patch to fix this issue. VDB-211918 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-3619](https://github.com/Live-Hack-CVE/CVE-2022-3619)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3619">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3619">
+
+---
 ## CVE-2022-36182 (2022-10-27T13:15:00)
 > Hashicorp Boundary v0.8.0 is vulnerable to Clickjacking which allow for the interception of login credentials, re-direction of users to malicious sites, or causing users to perform malicious actions on the site.
 - [Live-Hack-CVE/CVE-2022-36182](https://github.com/Live-Hack-CVE/CVE-2022-36182)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36182">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36182">
@@ -13656,6 +13776,11 @@
 ## CVE-2022-35770 (2022-10-11T19:15:00)
 > Windows NTLM Spoofing Vulnerability.
 - [Live-Hack-CVE/CVE-2022-35770](https://github.com/Live-Hack-CVE/CVE-2022-35770)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35770">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35770">
+
+---
+## CVE-2022-3577 (2022-10-20T17:15:00)
+> An out-of-bounds memory write flaw was found in the Linux kernel’s Kid-friendly Wired Controller driver. This flaw allows a local user to crash or potentially escalate their privileges on the system. It is in bigben_probe of drivers/hid/hid-bigbenff.c. The reason is incorrect assumption - bigben devices all have inputs. However, malicious devices can break this assumption, leaking to out-of-bound write.
+- [Live-Hack-CVE/CVE-2022-3577](https://github.com/Live-Hack-CVE/CVE-2022-3577)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3577">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3577">
 
 ---
 ## CVE-2022-3576 (2022-10-20T06:15:00)

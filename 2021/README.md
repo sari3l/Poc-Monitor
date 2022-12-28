@@ -3116,6 +3116,11 @@
 - [Live-Hack-CVE/CVE-2021-34864](https://github.com/Live-Hack-CVE/CVE-2021-34864)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34864">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34864">
 
 ---
+## CVE-2021-34859 (2021-10-25T17:15:00)
+> This vulnerability allows remote attackers to execute arbitrary code on affected installations of TeamViewer 15.16.8.0. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of TVS files. The issue results from the lack of proper validation of user-supplied data, which can result in a memory corruption condition. An attacker can leverage this vulnerability to execute code in the context of the current process. Was ZDI-CAN-13697.
+- [Live-Hack-CVE/CVE-2021-34859](https://github.com/Live-Hack-CVE/CVE-2021-34859)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34859">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34859">
+
+---
 ## CVE-2021-34824 (2021-06-29T14:15:00)
 > Istio (1.8.x, 1.9.0-1.9.5 and 1.10.0-1.10.1) contains a remotely exploitable vulnerability where credentials specified in the Gateway and DestinationRule credentialName field can be accessed from different namespaces.
 - [rsalmond/CVE-2021-34824](https://github.com/rsalmond/CVE-2021-34824)	<img alt="forks" src="https://img.shields.io/github/forks/rsalmond/CVE-2021-34824">	<img alt="stars" src="https://img.shields.io/github/stars/rsalmond/CVE-2021-34824">
@@ -3130,6 +3135,11 @@
 ## CVE-2021-34798 (2021-09-16T15:15:00)
 > Malformed requests may cause the server to dereference a NULL pointer. This issue affects Apache HTTP Server 2.4.48 and earlier.
 - [Live-Hack-CVE/CVE-2021-34798](https://github.com/Live-Hack-CVE/CVE-2021-34798)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34798">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34798">
+
+---
+## CVE-2021-34792 (2021-10-27T19:15:00)
+> A vulnerability in the memory management of Cisco Adaptive Security Appliance (ASA) Software and Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to cause a denial of service (DoS) condition on an affected device. This vulnerability is due to improper resource management when connection rates are high. An attacker could exploit this vulnerability by opening a significant number of connections on an affected device. A successful exploit could allow the attacker to cause the device to reload, resulting in a DoS condition.
+- [Live-Hack-CVE/CVE-2021-34792](https://github.com/Live-Hack-CVE/CVE-2021-34792)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34792">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34792">
 
 ---
 ## CVE-2021-34791 (2021-10-27T19:15:00)
@@ -3164,6 +3174,11 @@
 > A flaw was found in OpenEXR's B44 uncompression functionality in versions before 3.0.0-beta. An attacker who is able to submit a crafted file to OpenEXR could trigger shift overflows, potentially affecting application availability.
 - [Live-Hack-CVE/CVE-2021-3476](https://github.com/Live-Hack-CVE/CVE-2021-3476)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3476">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3476">
 - [lukejenkins/CVE-2021-34767](https://github.com/lukejenkins/CVE-2021-34767)	<img alt="forks" src="https://img.shields.io/github/forks/lukejenkins/CVE-2021-34767">	<img alt="stars" src="https://img.shields.io/github/stars/lukejenkins/CVE-2021-34767">
+
+---
+## CVE-2021-34756 (2021-10-27T19:15:00)
+> Multiple vulnerabilities in the CLI of Cisco Firepower Threat Defense (FTD) Software could allow an authenticated, local attacker to execute arbitrary commands with root privileges. For more information about these vulnerabilities, see the Details section of this advisory.
+- [Live-Hack-CVE/CVE-2021-34756](https://github.com/Live-Hack-CVE/CVE-2021-34756)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34756">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34756">
 
 ---
 ## CVE-2021-34755 (2021-10-27T19:15:00)
@@ -4093,6 +4108,11 @@
 ## CVE-2021-30140 (2021-04-06T16:15:00)
 > LiquidFiles 3.4.15 has stored XSS through the "send email" functionality when sending a file via email to an administrator. When a file has no extension and contains malicious HTML / JavaScript content (such as SVG with HTML content), the payload is executed upon a click. This is fixed in 3.5.
 - [Live-Hack-CVE/CVE-2021-30140](https://github.com/Live-Hack-CVE/CVE-2021-30140)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30140">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30140">
+
+---
+## CVE-2021-30071 (2022-08-18T05:15:00)
+> A cross-site scripting (XSS) vulnerability in /admin/list_key.html of HestiaCP before v1.3.5 allows attackers to execute arbitrary web scripts or HTML via a crafted payload.
+- [Live-Hack-CVE/CVE-2021-30071](https://github.com/Live-Hack-CVE/CVE-2021-30071)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30071">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30071">
 
 ---
 ## CVE-2021-30045 (2021-04-06T13:15:00)

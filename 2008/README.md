@@ -22,3 +22,8 @@
 - [badkeys/debianopenssl](https://github.com/badkeys/debianopenssl)	<img alt="forks" src="https://img.shields.io/github/forks/badkeys/debianopenssl">	<img alt="stars" src="https://img.shields.io/github/stars/badkeys/debianopenssl">
 - [avarx/vulnkeys](https://github.com/avarx/vulnkeys)	<img alt="forks" src="https://img.shields.io/github/forks/avarx/vulnkeys">	<img alt="stars" src="https://img.shields.io/github/stars/avarx/vulnkeys">
 - [g0tmi1k/debian-ssh](https://github.com/g0tmi1k/debian-ssh)	<img alt="forks" src="https://img.shields.io/github/forks/g0tmi1k/debian-ssh">	<img alt="stars" src="https://img.shields.io/github/stars/g0tmi1k/debian-ssh">
+
+---
+## CVE-2008-0132 (2008-01-08T11:46:00)
+> Pragma FortressSSH 5.0 Build 4 Revision 293 and earlier handles long input to sshd.exe by creating an error-message window and waiting for the administrator to click in this window before terminating the sshd.exe process, which allows remote attackers to cause a denial of service (connection slot exhaustion) via a flood of SSH connections with long data objects, as demonstrated by (1) a long list of keys and (2) a long username.
+- [Live-Hack-CVE/CVE-2008-0132](https://github.com/Live-Hack-CVE/CVE-2008-0132)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2008-0132">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2008-0132">
