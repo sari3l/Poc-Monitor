@@ -1774,6 +1774,7 @@
 ## CVE-2020-24987 (2020-09-04T20:15:00)
 > Tenda AC18 Router through V15.03.05.05_EN and through V15.03.05.19(6318) CN devices could cause a remote code execution due to incorrect authentication handling of vulnerable logincheck() function in /usr/lib/lua/ngx_authserver/ngx_wdas.lua file if the administrator UI Interface is set to "radius".
 - [Live-Hack-CVE/CVE-2020-24987](https://github.com/Live-Hack-CVE/CVE-2020-24987)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24987">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24987">
+- [Live-Hack-CVE/CVE-2020-24987](https://github.com/Live-Hack-CVE/CVE-2020-24987)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24987">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24987">
 
 ---
 ## CVE-2020-24939 (2021-06-16T16:15:00)
@@ -1783,6 +1784,7 @@
 ---
 ## CVE-2020-24771 (2022-03-30T02:15:00)
 > Incorrect access control in NexusPHP 1.5.beta5.20120707 allows unauthorized attackers to access published content.
+- [Live-Hack-CVE/CVE-2020-24771](https://github.com/Live-Hack-CVE/CVE-2020-24771)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24771">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24771">
 - [Live-Hack-CVE/CVE-2020-24771](https://github.com/Live-Hack-CVE/CVE-2020-24771)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24771">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24771">
 
 ---
@@ -2031,15 +2033,18 @@
 ## CVE-2020-20248 (2021-07-19T18:15:00)
 > Mikrotik RouterOs before stable 6.47 suffers from an uncontrolled resource consumption in the memtest process. An authenticated remote attacker can cause a Denial of Service due to overloading the systems CPU.
 - [Live-Hack-CVE/CVE-2020-20248](https://github.com/Live-Hack-CVE/CVE-2020-20248)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-20248">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-20248">
+- [Live-Hack-CVE/CVE-2020-20248](https://github.com/Live-Hack-CVE/CVE-2020-20248)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-20248">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-20248">
 
 ---
 ## CVE-2020-20217 (2021-07-08T12:15:00)
 > Mikrotik RouterOs before 6.47 (stable tree) suffers from an uncontrolled resource consumption vulnerability in the /nova/bin/route process. An authenticated remote attacker can cause a Denial of Service due to overloading the systems CPU.
 - [Live-Hack-CVE/CVE-2020-20217](https://github.com/Live-Hack-CVE/CVE-2020-20217)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-20217">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-20217">
+- [Live-Hack-CVE/CVE-2020-20217](https://github.com/Live-Hack-CVE/CVE-2020-20217)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-20217">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-20217">
 
 ---
 ## CVE-2020-20213 (2021-07-07T14:15:00)
 > Mikrotik RouterOs 6.44.5 (long-term tree) suffers from an stack exhaustion vulnerability in the /nova/bin/net process. An authenticated remote attacker can cause a Denial of Service due to overloading the systems CPU.
+- [Live-Hack-CVE/CVE-2020-20213](https://github.com/Live-Hack-CVE/CVE-2020-20213)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-20213">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-20213">
 - [Live-Hack-CVE/CVE-2020-20213](https://github.com/Live-Hack-CVE/CVE-2020-20213)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-20213">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-20213">
 
 ---
@@ -2129,6 +2134,7 @@
 ---
 ## CVE-2020-17541 (2021-06-01T15:15:00)
 > Libjpeg-turbo all version have a stack-based buffer overflow in the "transform" component. A remote attacker can send a malformed jpeg file to the service and cause arbitrary code execution or denial of service of the target service.
+- [Live-Hack-CVE/CVE-2020-17541](https://github.com/Live-Hack-CVE/CVE-2020-17541)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-17541">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-17541">
 - [Live-Hack-CVE/CVE-2020-17541](https://github.com/Live-Hack-CVE/CVE-2020-17541)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-17541">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-17541">
 
 ---
@@ -2560,6 +2566,7 @@
 ---
 ## CVE-2020-13882 (2020-06-18T18:15:00)
 > CISOfy Lynis before 3.0.0 has Incorrect Access Control because of a TOCTOU race condition. The routine to check the log and report file permissions was not working as intended and could be bypassed locally. Because of the race, an unprivileged attacker can set up a log and report file, and control that up to the point where the specific routine is doing its check. After that, the file can be removed, recreated, and used for additional attacks.
+- [Live-Hack-CVE/CVE-2020-13882](https://github.com/Live-Hack-CVE/CVE-2020-13882)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13882">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13882">
 - [Live-Hack-CVE/CVE-2020-13882](https://github.com/Live-Hack-CVE/CVE-2020-13882)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13882">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13882">
 
 ---

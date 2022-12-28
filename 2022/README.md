@@ -3638,6 +3638,7 @@
 ## CVE-2022-43495 (2022-11-03T20:15:00)
 > OpenHarmony-v3.1.2 and prior versions had a DOS vulnerability in distributedhardware_device_manager when joining a network. Network attakcers can send an abonormal packet when joining a network, cause a nullptr reference and device reboot.
 - [Live-Hack-CVE/CVE-2022-43495](https://github.com/Live-Hack-CVE/CVE-2022-43495)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43495">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43495">
+- [Live-Hack-CVE/CVE-2022-43495](https://github.com/Live-Hack-CVE/CVE-2022-43495)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43495">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43495">
 
 ---
 ## CVE-2022-43491 (2022-11-08T19:15:00)
@@ -3678,10 +3679,12 @@
 ## CVE-2022-43451 (2022-11-03T20:15:00)
 > OpenHarmony-v3.1.2 and prior versions had an Multiple path traversal vulnerability in appspawn and nwebspawn services. Local attackers can create arbitrary directories or escape application sandbox.If chained with other vulnerabilities it would allow an unprivileged process to gain full root privileges.
 - [Live-Hack-CVE/CVE-2022-43451](https://github.com/Live-Hack-CVE/CVE-2022-43451)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43451">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43451">
+- [Live-Hack-CVE/CVE-2022-43451](https://github.com/Live-Hack-CVE/CVE-2022-43451)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43451">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43451">
 
 ---
 ## CVE-2022-43449 (2022-11-03T20:15:00)
 > OpenHarmony-v3.1.2 and prior versions had an Arbitrary file read vulnerability via download_server. Local attackers can install an malicious application on the device and reveal any file from the filesystem that is accessible to download_server service which run with UID 1000.
+- [Live-Hack-CVE/CVE-2022-43449](https://github.com/Live-Hack-CVE/CVE-2022-43449)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43449">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43449">
 - [Live-Hack-CVE/CVE-2022-43449](https://github.com/Live-Hack-CVE/CVE-2022-43449)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43449">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43449">
 
 ---
@@ -8936,6 +8939,7 @@
 ## CVE-2022-39177 (2022-09-02T04:15:00)
 > BlueZ before 5.59 allows physically proximate attackers to cause a denial of service because malformed and invalid capabilities can be processed in profiles/audio/avdtp.c.
 - [Live-Hack-CVE/CVE-2022-39177](https://github.com/Live-Hack-CVE/CVE-2022-39177)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39177">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39177">
+- [Live-Hack-CVE/CVE-2022-39177](https://github.com/Live-Hack-CVE/CVE-2022-39177)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39177">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39177">
 
 ---
 ## CVE-2022-39173 (2022-09-29T01:15:00)
@@ -13163,6 +13167,7 @@
 ## CVE-2022-35411 (2022-07-08T19:15:00)
 > rpc.py through 0.6.0 allows Remote Code Execution because an unpickle occurs when the "serializer: pickle" HTTP header is sent. In other words, although JSON (not Pickle) is the default data format, an unauthenticated client can cause the data to be processed with unpickle.
 - [Live-Hack-CVE/CVE-2022-35411](https://github.com/Live-Hack-CVE/CVE-2022-35411)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35411">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35411">
+- [Live-Hack-CVE/CVE-2022-35411](https://github.com/Live-Hack-CVE/CVE-2022-35411)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35411">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35411">
 
 ---
 ## CVE-2022-3541 (2022-10-17T12:15:00)
@@ -13179,6 +13184,7 @@
 > Zoho ManageEngine Password Manager Pro before 12101 and PAM360 before 5510 are vulnerable to unauthenticated remote code execution. (This also affects ManageEngine Access Manager Plus before 4303 with authentication.)
 - [viniciuspereiras/CVE-2022-35405](https://github.com/viniciuspereiras/CVE-2022-35405)	<img alt="forks" src="https://img.shields.io/github/forks/viniciuspereiras/CVE-2022-35405">	<img alt="stars" src="https://img.shields.io/github/stars/viniciuspereiras/CVE-2022-35405">
 - [OneByt3/CVE-2022-35405](https://github.com/OneByt3/CVE-2022-35405)	<img alt="forks" src="https://img.shields.io/github/forks/OneByt3/CVE-2022-35405">	<img alt="stars" src="https://img.shields.io/github/stars/OneByt3/CVE-2022-35405">
+- [Live-Hack-CVE/CVE-2022-35405](https://github.com/Live-Hack-CVE/CVE-2022-35405)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35405">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35405">
 - [Live-Hack-CVE/CVE-2022-35405](https://github.com/Live-Hack-CVE/CVE-2022-35405)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35405">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35405">
 
 ---
@@ -14310,6 +14316,7 @@
 ## CVE-2022-33981 (2022-06-18T16:15:00)
 > drivers/block/floppy.c in the Linux kernel before 5.17.6 is vulnerable to a denial of service, because of a concurrency use-after-free flaw after deallocating raw_cmd in the raw_cmd_ioctl function.
 - [Live-Hack-CVE/CVE-2022-33981](https://github.com/Live-Hack-CVE/CVE-2022-33981)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33981">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33981">
+- [Live-Hack-CVE/CVE-2022-33981](https://github.com/Live-Hack-CVE/CVE-2022-33981)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33981">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33981">
 
 ---
 ## CVE-2022-33980 (2022-07-06T13:15:00)
@@ -14435,6 +14442,7 @@
 ---
 ## CVE-2022-33743 (2022-07-05T13:15:00)
 > network backend may cause Linux netfront to use freed SKBs While adding logic to support XDP (eXpress Data Path), a code label was moved in a way allowing for SKBs having references (pointers) retained for further processing to nevertheless be freed.
+- [Live-Hack-CVE/CVE-2022-33743](https://github.com/Live-Hack-CVE/CVE-2022-33743)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33743">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33743">
 - [Live-Hack-CVE/CVE-2022-33743](https://github.com/Live-Hack-CVE/CVE-2022-33743)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33743">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33743">
 
 ---
@@ -14711,6 +14719,7 @@
 ## CVE-2022-33099 (2022-07-01T12:15:00)
 > An issue in the component luaG_runerror of Lua v5.4.4 and below leads to a heap-buffer overflow when a recursive error occurs.
 - [Live-Hack-CVE/CVE-2022-33099](https://github.com/Live-Hack-CVE/CVE-2022-33099)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33099">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33099">
+- [Live-Hack-CVE/CVE-2022-33099](https://github.com/Live-Hack-CVE/CVE-2022-33099)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33099">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33099">
 
 ---
 ## CVE-2022-33079 ()
@@ -14801,6 +14810,7 @@
 ---
 ## CVE-2022-32893 (2022-08-24T20:15:00)
 > An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in iOS 15.6.1 and iPadOS 15.6.1, macOS Monterey 12.5.1, Safari 15.6.1. Processing maliciously crafted web content may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited.
+- [Live-Hack-CVE/CVE-2022-32893](https://github.com/Live-Hack-CVE/CVE-2022-32893)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32893">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32893">
 - [Live-Hack-CVE/CVE-2022-32893](https://github.com/Live-Hack-CVE/CVE-2022-32893)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32893">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32893">
 
 ---
@@ -15976,6 +15986,7 @@
 ## CVE-2022-31137 (2022-07-08T20:15:00)
 > Roxy-WI is a web interface for managing Haproxy, Nginx, Apache and Keepalived servers. Versions prior to 6.1.1.0 are subject to a remote code execution vulnerability. System commands can be run remotely via the subprocess_execute function without processing the inputs received from the user in the /app/options.py file. Attackers need not be authenticated to exploit this vulnerability. Users are advised to upgrade. There are no known workarounds for this vulnerability.
 - [Live-Hack-CVE/CVE-2022-31137](https://github.com/Live-Hack-CVE/CVE-2022-31137)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31137">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31137">
+- [Live-Hack-CVE/CVE-2022-31137](https://github.com/Live-Hack-CVE/CVE-2022-31137)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31137">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31137">
 
 ---
 ## CVE-2022-3113 (2022-12-14T21:15:00)
@@ -15994,10 +16005,12 @@
 ## CVE-2022-31117 (2022-07-05T18:15:00)
 > UltraJSON is a fast JSON encoder and decoder written in pure C with bindings for Python 3.7+. In versions prior to 5.4.0 an error occurring while reallocating a buffer for string decoding can cause the buffer to get freed twice. Due to how UltraJSON uses the internal decoder, this double free is impossible to trigger from Python. This issue has been resolved in version 5.4.0 and all users should upgrade to UltraJSON 5.4.0. There are no known workarounds for this issue.
 - [Live-Hack-CVE/CVE-2022-31117](https://github.com/Live-Hack-CVE/CVE-2022-31117)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31117">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31117">
+- [Live-Hack-CVE/CVE-2022-31117](https://github.com/Live-Hack-CVE/CVE-2022-31117)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31117">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31117">
 
 ---
 ## CVE-2022-31116 (2022-07-05T18:15:00)
 > UltraJSON is a fast JSON encoder and decoder written in pure C with bindings for Python 3.7+. Affected versions were found to improperly decode certain characters. JSON strings that contain escaped surrogate characters not part of a proper surrogate pair were decoded incorrectly. Besides corrupting strings, this allowed for potential key confusion and value overwriting in dictionaries. All users parsing JSON from untrusted sources are vulnerable. From version 5.4.0, UltraJSON decodes lone surrogates in the same way as the standard library's `json` module does, preserving them in the parsed output. Users are advised to upgrade. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-31116](https://github.com/Live-Hack-CVE/CVE-2022-31116)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31116">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31116">
 - [Live-Hack-CVE/CVE-2022-31116](https://github.com/Live-Hack-CVE/CVE-2022-31116)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31116">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31116">
 
 ---
@@ -16839,6 +16852,7 @@
 ## CVE-2022-29931 (2022-06-25T19:15:00)
 > The administration interface of the Raytion Custom Security Manager (Raytion CSM) in Version 7.2.0 allows reflected Cross-site Scripting (XSS).
 - [Live-Hack-CVE/CVE-2022-29931](https://github.com/Live-Hack-CVE/CVE-2022-29931)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29931">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29931">
+- [Live-Hack-CVE/CVE-2022-29931](https://github.com/Live-Hack-CVE/CVE-2022-29931)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29931">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29931">
 
 ---
 ## CVE-2022-2993 (2022-12-09T20:15:00)
@@ -16967,6 +16981,7 @@
 ## CVE-2022-29774 (2022-06-21T14:15:00)
 > iSpy v7.2.2.0 is vulnerable to remote command execution via path traversal.
 - [Live-Hack-CVE/CVE-2022-29774](https://github.com/Live-Hack-CVE/CVE-2022-29774)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29774">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29774">
+- [Live-Hack-CVE/CVE-2022-29774](https://github.com/Live-Hack-CVE/CVE-2022-29774)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29774">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29774">
 
 ---
 ## CVE-2022-2969 (2022-12-01T18:15:00)
@@ -16999,6 +17014,7 @@
 ## CVE-2022-29593 (2022-07-14T15:15:00)
 > relay_cgi.cgi on Dingtian DT-R002 2CH relay devices with firmware 3.1.276A allows an attacker to replay HTTP post requests without the need for authentication or a valid signed/authorized request.
 - [9lyph/CVE-2022-29593](https://github.com/9lyph/CVE-2022-29593)	<img alt="forks" src="https://img.shields.io/github/forks/9lyph/CVE-2022-29593">	<img alt="stars" src="https://img.shields.io/github/stars/9lyph/CVE-2022-29593">
+- [Live-Hack-CVE/CVE-2022-29593](https://github.com/Live-Hack-CVE/CVE-2022-29593)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29593">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29593">
 - [Live-Hack-CVE/CVE-2022-29593](https://github.com/Live-Hack-CVE/CVE-2022-29593)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29593">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29593">
 
 ---
@@ -20079,6 +20095,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-2268 (2022-07-04T13:15:00)
 > The Import any XML or CSV File to WordPress plugin before 3.6.8 accepts all zip files and automatically extracts the zip file without validating the extracted file type. Allowing high privilege users such as admin to upload an arbitrary file like PHP, leading to RCE
 - [Live-Hack-CVE/CVE-2022-2268](https://github.com/Live-Hack-CVE/CVE-2022-2268)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2268">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2268">
+- [Live-Hack-CVE/CVE-2022-2268](https://github.com/Live-Hack-CVE/CVE-2022-2268)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2268">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2268">
 
 ---
 ## CVE-2022-22665 (2022-03-18T18:15:00)
@@ -21912,6 +21929,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-20239 (2022-08-10T20:15:00)
 > remap_pfn_range' here may map out of size kernel memory (for example, may map the kernel area), and because the 'vma->vm_page_prot' can also be controlled by userspace, so userspace may map the kernel area to be writable, which is easy to be exploitedProduct: AndroidVersions: Android SoCAndroid ID: A-233972091
 - [Live-Hack-CVE/CVE-2022-20239](https://github.com/Live-Hack-CVE/CVE-2022-20239)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20239">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20239">
+- [Live-Hack-CVE/CVE-2022-20239](https://github.com/Live-Hack-CVE/CVE-2022-20239)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20239">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20239">
 
 ---
 ## CVE-2022-20231 (2022-09-14T16:15:00)
@@ -23088,6 +23106,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ---
 ## CVE-2022-0594 (2022-07-25T13:15:00)
 > The Professional Social Sharing Buttons, Icons & Related Posts WordPress plugin before 9.7.6 does not have proper authorisation check in one of the AJAX action, available to unauthenticated (in v < 9.7.5) and author+ (in v9.7.5) users, allowing them to call it and retrieve various information such as the list of active plugins, various version like PHP, cURL, WP etc.
+- [Live-Hack-CVE/CVE-2022-0594](https://github.com/Live-Hack-CVE/CVE-2022-0594)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0594">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0594">
 - [Live-Hack-CVE/CVE-2022-0594](https://github.com/Live-Hack-CVE/CVE-2022-0594)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0594">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0594">
 
 ---

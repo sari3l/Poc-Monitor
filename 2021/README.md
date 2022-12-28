@@ -1733,6 +1733,7 @@
 ## CVE-2021-39473 (2022-11-04T19:15:00)
 > Saibamen HotelManager v1.2 is vulnerable to Cross Site Scripting (XSS) due to improper sanitization of comment and contact fields.
 - [Live-Hack-CVE/CVE-2021-39473](https://github.com/Live-Hack-CVE/CVE-2021-39473)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39473">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39473">
+- [Live-Hack-CVE/CVE-2021-39473](https://github.com/Live-Hack-CVE/CVE-2021-39473)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39473">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39473">
 
 ---
 ## CVE-2021-39434 (2022-12-06T00:15:00)
@@ -1742,6 +1743,7 @@
 ---
 ## CVE-2021-39432 (2022-11-04T17:15:00)
 > diplib v3.0.0 is vulnerable to Double Free.
+- [Live-Hack-CVE/CVE-2021-39432](https://github.com/Live-Hack-CVE/CVE-2021-39432)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39432">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39432">
 - [Live-Hack-CVE/CVE-2021-39432](https://github.com/Live-Hack-CVE/CVE-2021-39432)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39432">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39432">
 
 ---
@@ -4049,6 +4051,7 @@
 ---
 ## CVE-2021-25121 (2022-06-20T11:15:00)
 > The Rating by BestWebSoft WordPress plugin before 1.6 does not validate the submitted rating, allowing submission of long integer, causing a Denial of Service on the post/page when a user submit such rating
+- [Live-Hack-CVE/CVE-2021-25121](https://github.com/Live-Hack-CVE/CVE-2021-25121)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25121">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25121">
 - [Live-Hack-CVE/CVE-2021-25121](https://github.com/Live-Hack-CVE/CVE-2021-25121)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25121">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25121">
 
 ---

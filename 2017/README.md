@@ -382,6 +382,7 @@
 ## CVE-2017-20052 (2022-06-16T07:15:00)
 > A vulnerability classified as problematic was found in Python 2.7.13. This vulnerability affects unknown code of the component pgAdmin4. The manipulation leads to uncontrolled search path. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used.
 - [Live-Hack-CVE/CVE-2017-20052](https://github.com/Live-Hack-CVE/CVE-2017-20052)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20052">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20052">
+- [Live-Hack-CVE/CVE-2017-20052](https://github.com/Live-Hack-CVE/CVE-2017-20052)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20052">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20052">
 
 ---
 ## CVE-2017-20049 (2022-06-15T18:15:00)
