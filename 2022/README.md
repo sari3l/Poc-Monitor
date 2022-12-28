@@ -7377,6 +7377,16 @@
 - [Live-Hack-CVE/CVE-2022-40890](https://github.com/Live-Hack-CVE/CVE-2022-40890)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40890">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40890">
 
 ---
+## CVE-2022-40885 (2022-10-19T18:15:00)
+> Bento4 v1.6.0-639 has a memory allocation issue that can cause denial of service.
+- [Live-Hack-CVE/CVE-2022-40885](https://github.com/Live-Hack-CVE/CVE-2022-40885)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40885">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40885">
+
+---
+## CVE-2022-40884 (2022-10-19T18:15:00)
+> Bento4 1.6.0 has memory leaks via the mp4fragment.
+- [Live-Hack-CVE/CVE-2022-40884](https://github.com/Live-Hack-CVE/CVE-2022-40884)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40884">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40884">
+
+---
 ## CVE-2022-40871 (2022-10-12T12:15:00)
 > Dolibarr ERP & CRM <=15.0.3 is vulnerable to Eval injection. By default, any administrator can be added to the installation page of dolibarr, and if successfully added, malicious code can be inserted into the database and then execute it by eval.
 - [Live-Hack-CVE/CVE-2022-40871](https://github.com/Live-Hack-CVE/CVE-2022-40871)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40871">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40871">
@@ -14058,6 +14068,11 @@
 - [Live-Hack-CVE/CVE-2022-35246](https://github.com/Live-Hack-CVE/CVE-2022-35246)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35246">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35246">
 
 ---
+## CVE-2022-35244 (2022-10-25T17:15:00)
+> A format string injection vulnerability exists in the XCMD getVarHA functionality of abode systems, inc. iota All-In-One Security Kit 6.9X and 6.9Z. A specially-crafted XCMD can lead to memory corruption, information disclosure, and denial of service. An attacker can send a malicious XML payload to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-35244](https://github.com/Live-Hack-CVE/CVE-2022-35244)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35244">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35244">
+
+---
 ## CVE-2022-3524 (2022-10-16T10:15:00)
 > A vulnerability was found in Linux Kernel. It has been declared as problematic. Affected by this vulnerability is the function ipv6_renew_options of the component IPv6 Handler. The manipulation leads to memory leak. The attack can be launched remotely. It is recommended to apply a patch to fix this issue. The identifier VDB-211021 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-3524](https://github.com/Live-Hack-CVE/CVE-2022-3524)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3524">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3524">
@@ -15132,6 +15147,11 @@
 - [Live-Hack-CVE/CVE-2022-33973](https://github.com/Live-Hack-CVE/CVE-2022-33973)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33973">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33973">
 
 ---
+## CVE-2022-33938 (2022-10-25T17:15:00)
+> A format string injection vulnerability exists in the ghome_process_control_packet functionality of Abode Systems, Inc. iota All-In-One Security Kit 6.9Z and 6.9X. A specially-crafted XCMD can lead to memory corruption, information disclosure and denial of service. An attacker can send a malicious XML payload to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-33938](https://github.com/Live-Hack-CVE/CVE-2022-33938)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33938">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33938">
+
+---
 ## CVE-2022-33932 (2022-08-22T17:15:00)
 > Dell PowerScale OneFS, versions 9.0.0 up to and including 9.1.0.19, 9.2.1.12, 9.3.0.6, and 9.4.0.2, contain an unprotected primary channel vulnerability. An unauthenticated network malicious attacker may potentially exploit this vulnerability, leading to a denial of filesystem services.
 - [Live-Hack-CVE/CVE-2022-33932](https://github.com/Live-Hack-CVE/CVE-2022-33932)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33932">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33932">
@@ -15489,6 +15509,11 @@
 - [Live-Hack-CVE/CVE-2022-3321](https://github.com/Live-Hack-CVE/CVE-2022-3321)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3321">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3321">
 
 ---
+## CVE-2022-33189 (2022-10-25T17:15:00)
+> An OS command injection vulnerability exists in the XCMD setAlexa functionality of Abode Systems, Inc. iota All-In-One Security Kit 6.9Z. A specially-crafted XCMD can lead to arbitrary command execution. An attacker can send a malicious XML payload to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-33189](https://github.com/Live-Hack-CVE/CVE-2022-33189)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33189">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33189">
+
+---
 ## CVE-2022-33187 (2022-12-09T02:15:00)
 > Brocade SANnav before v2.2.1 logs usernames and encoded passwords in debug-enabled logs. The vulnerability could allow an attacker with admin privilege to read sensitive information.
 - [Live-Hack-CVE/CVE-2022-33187](https://github.com/Live-Hack-CVE/CVE-2022-33187)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33187">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33187">
@@ -15546,6 +15571,11 @@
 - [Live-Hack-CVE/CVE-2022-3317](https://github.com/Live-Hack-CVE/CVE-2022-3317)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3317">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3317">
 - [Henry4E36/CVE-2022-33174](https://github.com/Henry4E36/CVE-2022-33174)	<img alt="forks" src="https://img.shields.io/github/forks/Henry4E36/CVE-2022-33174">	<img alt="stars" src="https://img.shields.io/github/stars/Henry4E36/CVE-2022-33174">
 - [Live-Hack-CVE/CVE-2022-3317](https://github.com/Live-Hack-CVE/CVE-2022-3317)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3317">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3317">
+
+---
+## CVE-2022-33150 (2022-10-25T17:15:00)
+> An OS command injection vulnerability exists in the js_package install functionality of Robustel R1510 3.1.16. A specially-crafted network request can lead to arbitrary command execution. An attacker can send a sequence of requests to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-33150](https://github.com/Live-Hack-CVE/CVE-2022-33150)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33150">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33150">
 
 ---
 ## CVE-2022-3315 (2022-11-01T20:15:00)
@@ -15976,6 +16006,16 @@
 - [Live-Hack-CVE/CVE-2022-32777](https://github.com/Live-Hack-CVE/CVE-2022-32777)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32777">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32777">
 
 ---
+## CVE-2022-32775 (2022-10-25T17:15:00)
+> An integer overflow vulnerability exists in the web interface /action/ipcamRecordPost functionality of Abode Systems, Inc. iota All-In-One Security Kit 6.9X and 6.9Z. A specially-crafted HTTP request can lead to memory corruption. An attacker can make an authenticated HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-32775](https://github.com/Live-Hack-CVE/CVE-2022-32775)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32775">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32775">
+
+---
+## CVE-2022-32773 (2022-10-25T17:15:00)
+> An OS command injection vulnerability exists in the XCMD doDebug functionality of Abode Systems, Inc. iota All-In-One Security Kit 6.9X and 6.9Z. A specially-crafted XCMD can lead to arbitrary command execution. An attacker can send a malicious XML payload to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-32773](https://github.com/Live-Hack-CVE/CVE-2022-32773)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32773">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32773">
+
+---
 ## CVE-2022-32772 (2022-08-22T19:15:00)
 > A cross-site scripting (xss) vulnerability exists in the footer alerts functionality of WWBN AVideo 11.6 and dev master commit 3f7c0364. A specially-crafted HTTP request can lead to arbitrary Javascript execution. An attacker can get an authenticated user to send a crafted HTTP request to trigger this vulnerability.This vulnerability arrises from the "msg" parameter which is inserted into the document with insufficient sanitization.
 - [Live-Hack-CVE/CVE-2022-32772](https://github.com/Live-Hack-CVE/CVE-2022-32772)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32772">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32772">
@@ -15989,6 +16029,16 @@
 ## CVE-2022-32770 (2022-08-22T19:15:00)
 > A cross-site scripting (xss) vulnerability exists in the footer alerts functionality of WWBN AVideo 11.6 and dev master commit 3f7c0364. A specially-crafted HTTP request can lead to arbitrary Javascript execution. An attacker can get an authenticated user to send a crafted HTTP request to trigger this vulnerability.This vulnerability arrises from the "toast" parameter which is inserted into the document with insufficient sanitization.
 - [Live-Hack-CVE/CVE-2022-32770](https://github.com/Live-Hack-CVE/CVE-2022-32770)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32770">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32770">
+
+---
+## CVE-2022-32765 (2022-10-25T17:15:00)
+> An OS command injection vulnerability exists in the sysupgrade command injection functionality of Robustel R1510 3.1.16 and 3.3.0. A specially-crafted network request can lead to arbitrary command execution. An attacker can send a sequence of requests to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-32765](https://github.com/Live-Hack-CVE/CVE-2022-32765)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32765">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32765">
+
+---
+## CVE-2022-32760 (2022-10-25T17:15:00)
+> A denial of service vulnerability exists in the XCMD doDebug functionality of Abode Systems, Inc. iota All-In-One Security Kit 6.9X and 6.9Z. A specially-crafted XCMD can lead to denial of service. An attacker can send a malicious XML payload to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-32760](https://github.com/Live-Hack-CVE/CVE-2022-32760)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32760">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32760">
 
 ---
 ## CVE-2022-3275 (2022-10-07T21:15:00)
@@ -16140,6 +16190,16 @@
 ## CVE-2022-32589 (2022-10-07T20:15:00)
 > In Wi-Fi driver, there is a possible way to disconnect Wi-Fi due to an improper resource release. This could lead to remote denial of service with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07030600; Issue ID: ALPS07030600.
 - [Live-Hack-CVE/CVE-2022-32589](https://github.com/Live-Hack-CVE/CVE-2022-32589)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32589">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32589">
+
+---
+## CVE-2022-32586 (2022-10-25T17:15:00)
+> An OS command injection vulnerability exists in the web interface /action/ipcamRecordPost functionality of Abode Systems, Inc. iota All-In-One Security Kit 6.9X and 6.9Z. A specially-crafted HTTP request can lead to arbitrary command execution. An attacker can make an authenticated HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-32586](https://github.com/Live-Hack-CVE/CVE-2022-32586)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32586">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32586">
+
+---
+## CVE-2022-32574 (2022-10-25T17:15:00)
+> A double-free vulnerability exists in the web interface /action/ipcamSetParamPost functionality of Abode Systems, Inc. iota All-In-One Security Kit 6.9X and 6.9Z. A specially-crafted HTTP request can lead to memory corruption. An attacker can make an authenticated HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-32574](https://github.com/Live-Hack-CVE/CVE-2022-32574)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32574">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32574">
 
 ---
 ## CVE-2022-32569 (2022-11-11T16:15:00)
@@ -16429,6 +16489,11 @@
 > In "Gin-Vue-Admin", versions v2.5.1 through v2.5.3beta are vulnerable to Unrestricted File Upload that leads to execution of javascript code, through the 'Normal Upload' functionality to the Media Library. When an admin user views the uploaded file, a low privilege attacker will get access to the admin’s cookie leading to account takeover.
 - [Live-Hack-CVE/CVE-2022-32177](https://github.com/Live-Hack-CVE/CVE-2022-32177)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32177">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32177">
 - [Live-Hack-CVE/CVE-2022-32177](https://github.com/Live-Hack-CVE/CVE-2022-32177)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32177">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32177">
+
+---
+## CVE-2022-32175 (2022-10-11T15:15:00)
+> In AdGuardHome, versions v0.95 through v0.108.0-b.13 are vulnerable to Cross-Site Request Forgery (CSRF), in the custom filtering rules functionality. An attacker can persuade an authorized user to follow a malicious link, resulting in deleting/modifying the custom filtering rules.
+- [Live-Hack-CVE/CVE-2022-32175](https://github.com/Live-Hack-CVE/CVE-2022-32175)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32175">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32175">
 
 ---
 ## CVE-2022-32170 (2022-09-28T10:15:00)
@@ -18279,6 +18344,16 @@
 - [Live-Hack-CVE/CVE-2022-29476](https://github.com/Live-Hack-CVE/CVE-2022-29476)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29476">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29476">
 
 ---
+## CVE-2022-29475 (2022-10-25T17:15:00)
+> An information disclosure vulnerability exists in the XFINDER functionality of Abode Systems, Inc. iota All-In-One Security Kit 6.9X and 6.9Z. A specially-crafted man-in-the-middle attack can lead to increased privileges. An attacker can perform a man-in-the-middle attack to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-29475](https://github.com/Live-Hack-CVE/CVE-2022-29475)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29475">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29475">
+
+---
+## CVE-2022-29472 (2022-10-25T17:15:00)
+> An OS command injection vulnerability exists in the web interface util_set_serial_mac functionality of Abode Systems, Inc. iota All-In-One Security Kit 6.9X and 6.9Z. A specially-crafted HTTP request can lead to arbitrary command execution. An attacker can send an HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-29472](https://github.com/Live-Hack-CVE/CVE-2022-29472)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29472">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29472">
+
+---
 ## CVE-2022-2947 (2022-12-13T21:15:00)
 > Altair HyperView Player versions 2021.1.0.27 and prior perform operations on a memory buffer but can read from or write to a memory location outside of the intended boundary of the buffer. This hits initially as a read access violation, leading to a memory corruption situation.
 - [Live-Hack-CVE/CVE-2022-2947](https://github.com/Live-Hack-CVE/CVE-2022-2947)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2947">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2947">
@@ -19031,6 +19106,16 @@
 ## CVE-2022-27639 (2022-11-11T16:15:00)
 > Incomplete cleanup in some Intel(R) XMM(TM) 7560 Modem software before version M2_7560_R_01.2146.00 may allow a privileged user to potentially enable escalation of privilege via adjacent access.
 - [Live-Hack-CVE/CVE-2022-27639](https://github.com/Live-Hack-CVE/CVE-2022-27639)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27639">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27639">
+
+---
+## CVE-2022-27623 (2022-10-25T17:15:00)
+> Missing authentication for critical function vulnerability in iSCSI management functionality in Synology DiskStation Manager (DSM) before 7.1-42661 allows remote attackers to read or write arbitrary files via unspecified vectors.
+- [Live-Hack-CVE/CVE-2022-27623](https://github.com/Live-Hack-CVE/CVE-2022-27623)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27623">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27623">
+
+---
+## CVE-2022-27622 (2022-10-25T17:15:00)
+> Server-Side Request Forgery (SSRF) vulnerability in Package Center functionality in Synology DiskStation Manager (DSM) before 7.1-42661 allows remote authenticated users to access intranet resources via unspecified vectors.
+- [Live-Hack-CVE/CVE-2022-27622](https://github.com/Live-Hack-CVE/CVE-2022-27622)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27622">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27622">
 
 ---
 ## CVE-2022-2762 (2022-10-25T17:15:00)
@@ -21570,6 +21655,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-22577](https://github.com/Live-Hack-CVE/CVE-2022-22577)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22577">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22577">
 
 ---
+## CVE-2022-22538 (2022-02-09T23:15:00)
+> When a user opens a manipulated Adobe Illustrator file format (.ai, ai.x3d) received from untrusted sources in SAP 3D Visual Enterprise Viewer - version 9.0, the application crashes and becomes temporarily unavailable to the user until restart of the application. The file format details along with their CVE relevant information can be found below.
+- [Live-Hack-CVE/CVE-2022-22538](https://github.com/Live-Hack-CVE/CVE-2022-22538)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22538">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22538">
+
+---
 ## CVE-2022-22536 (2022-02-09T23:15:00)
 > SAP NetWeaver Application Server ABAP, SAP NetWeaver Application Server Java, ABAP Platform, SAP Content Server 7.53 and SAP Web Dispatcher are vulnerable for request smuggling and request concatenation. An unauthenticated attacker can prepend a victim's request with arbitrary data. This way, the attacker can execute functions impersonating the victim or poison intermediary Web caches. A successful attack could result in complete compromise of Confidentiality, Integrity and Availability of the system.
 - [Live-Hack-CVE/CVE-2022-22536](https://github.com/Live-Hack-CVE/CVE-2022-22536)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22536">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22536">
@@ -23696,6 +23786,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1748 (2022-08-17T21:15:00)
 > Softing OPC UA C++ Server SDK, Secure Integration Server, edgeConnector, edgeAggregator, OPC Suite, and uaGate are affected by a NULL pointer dereference vulnerability.
 - [Live-Hack-CVE/CVE-2022-1748](https://github.com/Live-Hack-CVE/CVE-2022-1748)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1748">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1748">
+
+---
+## CVE-2022-1739 (2022-06-24T15:15:00)
+> The tested version of Dominion Voting Systems ImageCast X does not validate application signatures to a trusted root certificate. Use of a trusted root certificate ensures software installed on a device is traceable to, or verifiable against, a cryptographic key provided by the manufacturer to detect tampering. An attacker could leverage this vulnerability to install malicious code, which could also be spread to other vulnerable ImageCast X devices via removable media.
+- [Live-Hack-CVE/CVE-2022-1739](https://github.com/Live-Hack-CVE/CVE-2022-1739)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1739">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1739">
 
 ---
 ## CVE-2022-1735 (2022-05-17T19:15:00)

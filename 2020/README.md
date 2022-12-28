@@ -1894,6 +1894,11 @@
 - [jet-pentest/CVE-2020-24032](https://github.com/jet-pentest/CVE-2020-24032)	<img alt="forks" src="https://img.shields.io/github/forks/jet-pentest/CVE-2020-24032">	<img alt="stars" src="https://img.shields.io/github/stars/jet-pentest/CVE-2020-24032">
 
 ---
+## CVE-2020-23707 (2021-07-15T22:15:00)
+> A heap-based buffer overflow vulnerability in the function ok_jpg_decode_block_progressive() at ok_jpg.c:1054 of ok-file-formats through 2020-06-26 allows attackers to cause a Denial of Service (DOS) via a crafted jpeg file.
+- [Live-Hack-CVE/CVE-2020-23707](https://github.com/Live-Hack-CVE/CVE-2020-23707)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-23707">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-23707">
+
+---
 ## CVE-2020-23648 (2022-10-19T11:15:00)
 > Asus RT-N12E 2.0.0.39 is affected by an incorrect access control vulnerability. Through system.asp / start_apply.htm, an attacker can change the administrator password without any authentication.
 - [Live-Hack-CVE/CVE-2020-23648](https://github.com/Live-Hack-CVE/CVE-2020-23648)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-23648">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-23648">
@@ -2018,6 +2023,26 @@
 ## CVE-2020-21997 (2021-04-29T15:15:00)
 > Smartwares HOME easy <=1.0.9 is vulnerable to an unauthenticated database backup download and information disclosure vulnerability. An attacker could disclose sensitive and clear-text information resulting in authentication bypass, session hijacking and full system control.
 - [Live-Hack-CVE/CVE-2020-21997](https://github.com/Live-Hack-CVE/CVE-2020-21997)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-21997">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-21997">
+
+---
+## CVE-2020-21996 (2021-04-28T15:15:00)
+> AVE DOMINAplus <=1.10.x suffers from an unauthenticated reboot command execution. Attackers can exploit this issue to cause a denial of service scenario.
+- [Live-Hack-CVE/CVE-2020-21996](https://github.com/Live-Hack-CVE/CVE-2020-21996)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-21996">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-21996">
+
+---
+## CVE-2020-21994 (2021-04-28T15:15:00)
+> AVE DOMINAplus <=1.10.x suffers from clear-text credentials disclosure vulnerability that allows an unauthenticated attacker to issue a request to an unprotected directory that hosts an XML file '/xml/authClients.xml' and obtain administrative login information that allows for a successful authentication bypass attack.
+- [Live-Hack-CVE/CVE-2020-21994](https://github.com/Live-Hack-CVE/CVE-2020-21994)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-21994">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-21994">
+
+---
+## CVE-2020-21839 (2021-05-17T21:15:00)
+> An issue was discovered in GNU LibreDWG 0.10. Crafted input will lead to an memory leak in dwg_decode_eed ../../src/decode.c:3638.
+- [Live-Hack-CVE/CVE-2020-21839](https://github.com/Live-Hack-CVE/CVE-2020-21839)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-21839">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-21839">
+
+---
+## CVE-2020-21827 (2021-05-17T20:15:00)
+> A heap based buffer overflow vulnerability exists in GNU LibreDWG 0.10 via read_2004_compressed_section ../../src/decode.c:2379.
+- [Live-Hack-CVE/CVE-2020-21827](https://github.com/Live-Hack-CVE/CVE-2020-21827)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-21827">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-21827">
 
 ---
 ## CVE-2020-21784 (2021-06-24T16:15:00)
@@ -2259,6 +2284,11 @@
 ## CVE-2020-17498 (2020-08-13T16:15:00)
 > In Wireshark 3.2.0 to 3.2.5, the Kafka protocol dissector could crash. This was addressed in epan/dissectors/packet-kafka.c by avoiding a double free during LZ4 decompression.
 - [Live-Hack-CVE/CVE-2020-17498](https://github.com/Live-Hack-CVE/CVE-2020-17498)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-17498">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-17498">
+
+---
+## CVE-2020-17463 (2020-08-13T13:15:00)
+> FUEL CMS 1.4.7 allows SQL Injection via the col parameter to /pages/items, /permissions/items, or /navigation/items.
+- [Live-Hack-CVE/CVE-2020-17463](https://github.com/Live-Hack-CVE/CVE-2020-17463)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-17463">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-17463">
 
 ---
 ## CVE-2020-1744 (2020-03-24T14:15:00)
