@@ -286,15 +286,18 @@
 ## CVE-2016-6983 (2016-10-13T19:59:00)
 > Adobe Flash Player before 18.0.0.382 and 19.x through 23.x before 23.0.0.185 on Windows and OS X and before 11.2.202.637 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-4273, CVE-2016-6982, CVE-2016-6984, CVE-2016-6985, CVE-2016-6986, CVE-2016-6989, and CVE-2016-6990.
 - [Live-Hack-CVE/CVE-2016-6983](https://github.com/Live-Hack-CVE/CVE-2016-6983)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-6983">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-6983">
+- [Live-Hack-CVE/CVE-2016-6983](https://github.com/Live-Hack-CVE/CVE-2016-6983)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-6983">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-6983">
 
 ---
 ## CVE-2016-6982 (2016-10-13T19:59:00)
 > Adobe Flash Player before 18.0.0.382 and 19.x through 23.x before 23.0.0.185 on Windows and OS X and before 11.2.202.637 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-4273, CVE-2016-6983, CVE-2016-6984, CVE-2016-6985, CVE-2016-6986, CVE-2016-6989, and CVE-2016-6990.
 - [Live-Hack-CVE/CVE-2016-6982](https://github.com/Live-Hack-CVE/CVE-2016-6982)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-6982">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-6982">
+- [Live-Hack-CVE/CVE-2016-6982](https://github.com/Live-Hack-CVE/CVE-2016-6982)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-6982">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-6982">
 
 ---
 ## CVE-2016-6981 (2016-10-13T19:59:00)
 > Use-after-free vulnerability in Adobe Flash Player before 18.0.0.382 and 19.x through 23.x before 23.0.0.185 on Windows and OS X and before 11.2.202.637 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-6987.
+- [Live-Hack-CVE/CVE-2016-6981](https://github.com/Live-Hack-CVE/CVE-2016-6981)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-6981">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-6981">
 - [Live-Hack-CVE/CVE-2016-6981](https://github.com/Live-Hack-CVE/CVE-2016-6981)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-6981">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-6981">
 
 ---
@@ -402,6 +405,7 @@
 ---
 ## CVE-2016-4273 (2016-10-13T19:59:00)
 > Adobe Flash Player before 18.0.0.382 and 19.x through 23.x before 23.0.0.185 on Windows and OS X and before 11.2.202.637 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-6982, CVE-2016-6983, CVE-2016-6984, CVE-2016-6985, CVE-2016-6986, CVE-2016-6989, and CVE-2016-6990.
+- [Live-Hack-CVE/CVE-2016-4273](https://github.com/Live-Hack-CVE/CVE-2016-4273)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-4273">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-4273">
 - [Live-Hack-CVE/CVE-2016-4273](https://github.com/Live-Hack-CVE/CVE-2016-4273)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-4273">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-4273">
 
 ---

@@ -29,6 +29,7 @@
 ## CVE-2021-46837 (2022-08-30T07:15:00)
 > res_pjsip_t38 in Sangoma Asterisk 16.x before 16.16.2, 17.x before 17.9.3, and 18.x before 18.2.2, and Certified Asterisk before 16.8-cert7, allows an attacker to trigger a crash by sending an m=image line and zero port in a response to a T.38 re-invite initiated by Asterisk. This is a re-occurrence of the CVE-2019-15297 symptoms but not for exactly the same reason. The crash occurs because there is an append operation relative to the active topology, but this should instead be a replace operation.
 - [Live-Hack-CVE/CVE-2021-46837](https://github.com/Live-Hack-CVE/CVE-2021-46837)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46837">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46837">
+- [Live-Hack-CVE/CVE-2021-46837](https://github.com/Live-Hack-CVE/CVE-2021-46837)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46837">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46837">
 
 ---
 ## CVE-2021-46835 (2022-09-20T20:15:00)
@@ -604,10 +605,12 @@
 ## CVE-2021-43300 (2022-02-16T21:15:00)
 > Stack overflow in PJSUA API when calling pjsua_recorder_create. An attacker-controlled 'filename' argument may cause a buffer overflow since it is copied to a fixed-size stack buffer without any size validation.
 - [Live-Hack-CVE/CVE-2021-43300](https://github.com/Live-Hack-CVE/CVE-2021-43300)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43300">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43300">
+- [Live-Hack-CVE/CVE-2021-43300](https://github.com/Live-Hack-CVE/CVE-2021-43300)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43300">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43300">
 
 ---
 ## CVE-2021-43299 (2022-02-16T21:15:00)
 > Stack overflow in PJSUA API when calling pjsua_player_create. An attacker-controlled 'filename' argument may cause a buffer overflow since it is copied to a fixed-size stack buffer without any size validation.
+- [Live-Hack-CVE/CVE-2021-43299](https://github.com/Live-Hack-CVE/CVE-2021-43299)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43299">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43299">
 - [Live-Hack-CVE/CVE-2021-43299](https://github.com/Live-Hack-CVE/CVE-2021-43299)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43299">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43299">
 
 ---
