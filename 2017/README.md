@@ -72,6 +72,7 @@
 ## CVE-2017-8879 (2017-05-10T14:29:00)
 > Dolibarr ERP/CRM 4.0.4 allows password changes without supplying the current password, which makes it easier for physically proximate attackers to obtain access via an unattended workstation.
 - [Live-Hack-CVE/CVE-2017-8879](https://github.com/Live-Hack-CVE/CVE-2017-8879)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-8879">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-8879">
+- [Live-Hack-CVE/CVE-2017-8879](https://github.com/Live-Hack-CVE/CVE-2017-8879)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-8879">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-8879">
 
 ---
 ## CVE-2017-8529 (2017-06-15T01:29:00)
@@ -90,6 +91,21 @@
 - [BurnyMcDull/CVE-2017-7921](https://github.com/BurnyMcDull/CVE-2017-7921)	<img alt="forks" src="https://img.shields.io/github/forks/BurnyMcDull/CVE-2017-7921">	<img alt="stars" src="https://img.shields.io/github/stars/BurnyMcDull/CVE-2017-7921">
 - [JrDw0/CVE-2017-7921-EXP](https://github.com/JrDw0/CVE-2017-7921-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/JrDw0/CVE-2017-7921-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/JrDw0/CVE-2017-7921-EXP">
 - [inj3ction/CVE-2017-7921-EXP](https://github.com/inj3ction/CVE-2017-7921-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/inj3ction/CVE-2017-7921-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/inj3ction/CVE-2017-7921-EXP">
+
+---
+## CVE-2017-7888 (2017-05-10T14:29:00)
+> Dolibarr ERP/CRM 4.0.4 stores passwords with the MD5 algorithm, which makes brute-force attacks easier.
+- [Live-Hack-CVE/CVE-2017-7888](https://github.com/Live-Hack-CVE/CVE-2017-7888)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-7888">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-7888">
+
+---
+## CVE-2017-7887 (2017-05-10T14:29:00)
+> Dolibarr ERP/CRM 4.0.4 has XSS in doli/societe/list.php via the sall parameter.
+- [Live-Hack-CVE/CVE-2017-7887](https://github.com/Live-Hack-CVE/CVE-2017-7887)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-7887">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-7887">
+
+---
+## CVE-2017-7886 (2017-05-10T14:29:00)
+> Dolibarr ERP/CRM 4.0.4 has SQL Injection in doli/theme/eldy/style.css.php via the lang parameter.
+- [Live-Hack-CVE/CVE-2017-7886](https://github.com/Live-Hack-CVE/CVE-2017-7886)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-7886">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-7886">
 
 ---
 ## CVE-2017-7605 (2017-04-09T14:59:00)
@@ -372,6 +388,11 @@
 ## CVE-2017-18926 (2020-11-06T18:15:00)
 > raptor_xml_writer_start_element_common in raptor_xml_writer.c in Raptor RDF Syntax Library 2.0.15 miscalculates the maximum nspace declarations for the XML writer, leading to heap-based buffer overflows (sometimes seen in raptor_qname_format_as_xml).
 - [Live-Hack-CVE/CVE-2017-18926](https://github.com/Live-Hack-CVE/CVE-2017-18926)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-18926">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-18926">
+
+---
+## CVE-2017-17898 (2017-12-27T17:08:00)
+> Dolibarr ERP/CRM version 6.0.4 does not block direct requests to *.tpl.php files, which allows remote attackers to obtain sensitive information.
+- [Live-Hack-CVE/CVE-2017-17898](https://github.com/Live-Hack-CVE/CVE-2017-17898)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-17898">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-17898">
 
 ---
 ## CVE-2017-17736 (2018-03-23T15:29:00)

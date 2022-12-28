@@ -96,6 +96,11 @@
 - [Live-Hack-CVE/CVE-2020-9059](https://github.com/Live-Hack-CVE/CVE-2020-9059)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9059">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9059">
 
 ---
+## CVE-2020-9016 (2020-02-16T22:15:00)
+> Dolibarr 11.0 allows XSS via the joinfiles, topic, or code parameter, or the HTTP Referer header.
+- [Live-Hack-CVE/CVE-2020-9016](https://github.com/Live-Hack-CVE/CVE-2020-9016)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9016">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9016">
+
+---
 ## CVE-2020-9006 (2020-02-17T15:15:00)
 > The Popup Builder plugin 2.2.8 through 2.6.7.6 for WordPress is vulnerable to SQL injection (in the sgImportPopups function in sg_popup_ajax.php) via PHP Deserialization on attacker-controlled data with the attachmentUrl POST variable. This allows creation of an arbitrary WordPress Administrator account, leading to possible Remote Code Execution because Administrators can run PHP code on Wordpress instances. (This issue has been fixed in the 3.x branch of popup-builder.)
 - [s3rgeym/cve-2020-9006](https://github.com/s3rgeym/cve-2020-9006)	<img alt="forks" src="https://img.shields.io/github/forks/s3rgeym/cve-2020-9006">	<img alt="stars" src="https://img.shields.io/github/stars/s3rgeym/cve-2020-9006">
@@ -209,8 +214,19 @@
 - [Live-Hack-CVE/CVE-2020-8002](https://github.com/Live-Hack-CVE/CVE-2020-8002)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8002">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8002">
 
 ---
+## CVE-2020-7996 (2020-01-26T23:15:00)
+> htdocs/user/passwordforgotten.php in Dolibarr 10.0.6 allows XSS via the Referer HTTP header.
+- [Live-Hack-CVE/CVE-2020-7996](https://github.com/Live-Hack-CVE/CVE-2020-7996)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7996">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7996">
+
+---
+## CVE-2020-7995 (2020-01-26T23:15:00)
+> The htdocs/index.php?mainmenu=home login page in Dolibarr 10.0.6 allows an unlimited rate of failed authentication attempts.
+- [Live-Hack-CVE/CVE-2020-7995](https://github.com/Live-Hack-CVE/CVE-2020-7995)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7995">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7995">
+
+---
 ## CVE-2020-7994 (2020-01-26T23:15:00)
 > Multiple cross-site scripting (XSS) vulnerabilities in Dolibarr 10.0.6 allow remote attackers to inject arbitrary web script or HTML via the (1) label[libelle] parameter to the /htdocs/admin/dict.php?id=3 page; the (2) name[constname] parameter to the /htdocs/admin/const.php?mainmenu=home page; the (3) note[note] parameter to the /htdocs/admin/dict.php?id=10 page; the (4) zip[MAIN_INFO_SOCIETE_ZIP] or email[mail] parameter to the /htdocs/admin/company.php page; the (5) url[defaulturl], field[defaultkey], or value[defaultvalue] parameter to the /htdocs/admin/defaultvalues.php page; the (6) key[transkey] or key[transvalue] parameter to the /htdocs/admin/translation.php page; or the (7) [main_motd] or [main_home] parameter to the /htdocs/admin/ihm.php page.
+- [Live-Hack-CVE/CVE-2020-7994](https://github.com/Live-Hack-CVE/CVE-2020-7994)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7994">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7994">
 - [Live-Hack-CVE/CVE-2020-7994](https://github.com/Live-Hack-CVE/CVE-2020-7994)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7994">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7994">
 
 ---
@@ -947,6 +963,7 @@
 ---
 ## CVE-2020-35136 (2020-12-23T15:15:00)
 > Dolibarr 12.0.3 is vulnerable to authenticated Remote Code Execution. An attacker who has the access the admin dashboard can manipulate the backup function by inserting a payload into the filename for the zipfilename_template parameter to admin/tools/dolibarr_export.php.
+- [Live-Hack-CVE/CVE-2020-35136](https://github.com/Live-Hack-CVE/CVE-2020-35136)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35136">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35136">
 - [Live-Hack-CVE/CVE-2020-35136](https://github.com/Live-Hack-CVE/CVE-2020-35136)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35136">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35136">
 
 ---

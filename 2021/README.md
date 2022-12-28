@@ -2868,6 +2868,7 @@
 ## CVE-2021-33816 (2021-11-10T23:15:00)
 > The website builder module in Dolibarr 13.0.2 allows remote PHP code execution because of an incomplete protection mechanism in which system, exec, and shell_exec are blocked but backticks are not blocked.
 - [Live-Hack-CVE/CVE-2021-33816](https://github.com/Live-Hack-CVE/CVE-2021-33816)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33816">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33816">
+- [Live-Hack-CVE/CVE-2021-33816](https://github.com/Live-Hack-CVE/CVE-2021-33816)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33816">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33816">
 
 ---
 ## CVE-2021-33716 (2021-09-14T11:15:00)
@@ -2888,6 +2889,7 @@
 ---
 ## CVE-2021-33618 (2021-11-10T23:15:00)
 > Dolibarr ERP and CRM 13.0.2 allows XSS via object details, as demonstrated by > and < characters in the onpointermove attribute of a BODY element to the user-management feature.
+- [Live-Hack-CVE/CVE-2021-33618](https://github.com/Live-Hack-CVE/CVE-2021-33618)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33618">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33618">
 - [Live-Hack-CVE/CVE-2021-33618](https://github.com/Live-Hack-CVE/CVE-2021-33618)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33618">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33618">
 
 ---
@@ -3745,6 +3747,7 @@
 ---
 ## CVE-2021-25956 (2021-08-17T15:15:00)
 > In “Dolibarr” application, v3.3.beta1_20121221 to v13.0.2 have “Modify” access for admin level users to change other user’s details but fails to validate already existing “Login” name, while renaming the user “Login”. This leads to complete account takeover of the victim user. This happens since the password gets overwritten for the victim user having a similar login name.
+- [Live-Hack-CVE/CVE-2021-25956](https://github.com/Live-Hack-CVE/CVE-2021-25956)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25956">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25956">
 - [Live-Hack-CVE/CVE-2021-25956](https://github.com/Live-Hack-CVE/CVE-2021-25956)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25956">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25956">
 
 ---

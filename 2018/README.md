@@ -337,6 +337,31 @@
 - [yilin1203/CVE-2018-20062](https://github.com/yilin1203/CVE-2018-20062)	<img alt="forks" src="https://img.shields.io/github/forks/yilin1203/CVE-2018-20062">	<img alt="stars" src="https://img.shields.io/github/stars/yilin1203/CVE-2018-20062">
 
 ---
+## CVE-2018-19998 (2019-01-03T19:29:00)
+> SQL injection vulnerability in user/card.php in Dolibarr version 8.0.2 allows remote authenticated users to execute arbitrary SQL commands via the employee parameter.
+- [Live-Hack-CVE/CVE-2018-19998](https://github.com/Live-Hack-CVE/CVE-2018-19998)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-19998">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-19998">
+
+---
+## CVE-2018-19995 (2019-01-03T19:29:00)
+> A stored cross-site scripting (XSS) vulnerability in Dolibarr 8.0.2 allows remote authenticated users to inject arbitrary web script or HTML via the "address" (POST) or "town" (POST) parameter to user/card.php.
+- [Live-Hack-CVE/CVE-2018-19995](https://github.com/Live-Hack-CVE/CVE-2018-19995)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-19995">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-19995">
+
+---
+## CVE-2018-19994 (2019-01-03T19:29:00)
+> An error-based SQL injection vulnerability in product/card.php in Dolibarr version 8.0.2 allows remote authenticated users to execute arbitrary SQL commands via the desiredstock parameter.
+- [Live-Hack-CVE/CVE-2018-19994](https://github.com/Live-Hack-CVE/CVE-2018-19994)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-19994">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-19994">
+
+---
+## CVE-2018-19993 (2019-01-03T19:29:00)
+> A reflected cross-site scripting (XSS) vulnerability in Dolibarr 8.0.2 allows remote attackers to inject arbitrary web script or HTML via the transphrase parameter to public/notice.php.
+- [Live-Hack-CVE/CVE-2018-19993](https://github.com/Live-Hack-CVE/CVE-2018-19993)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-19993">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-19993">
+
+---
+## CVE-2018-19992 (2019-01-03T19:29:00)
+> A stored cross-site scripting (XSS) vulnerability in Dolibarr 8.0.2 allows remote authenticated users to inject arbitrary web script or HTML via the "address" (POST) or "town" (POST) parameter to adherents/type.php.
+- [Live-Hack-CVE/CVE-2018-19992](https://github.com/Live-Hack-CVE/CVE-2018-19992)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-19992">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-19992">
+
+---
 ## CVE-2018-19956 (2020-11-02T16:15:00)
 > The cross-site scripting vulnerability has been reported to affect earlier versions of Photo Station. If exploited, the vulnerability could allow remote attackers to inject malicious code. This issue affects: QNAP Systems Inc. Photo Station versions prior to 5.7.11; versions prior to 6.0.10.
 - [Live-Hack-CVE/CVE-2018-19956](https://github.com/Live-Hack-CVE/CVE-2018-19956)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-19956">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-19956">

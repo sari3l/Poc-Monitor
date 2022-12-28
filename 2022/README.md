@@ -1966,6 +1966,7 @@
 ## CVE-2022-45196 (2022-11-12T20:15:00)
 > Hyperledger Fabric 2.3 allows attackers to cause a denial of service (orderer crash) by repeatedly sending a crafted channel tx with the same Channel name. NOTE: the official Fabric with Raft prevents exploitation via a locking mechanism and a check for names that already exist.
 - [Live-Hack-CVE/CVE-2022-45196](https://github.com/Live-Hack-CVE/CVE-2022-45196)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45196">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45196">
+- [Live-Hack-CVE/CVE-2022-45196](https://github.com/Live-Hack-CVE/CVE-2022-45196)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45196">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45196">
 
 ---
 ## CVE-2022-4519 (2022-12-15T21:15:00)
@@ -8187,6 +8188,7 @@
 ---
 ## CVE-2022-3963 (2022-11-12T22:15:00)
 > A vulnerability was found in gnuboard5. It has been classified as problematic. Affected is an unknown function of the file bbs/faq.php of the component FAQ Key ID Handler. The manipulation of the argument fm_id leads to cross site scripting. It is possible to launch the attack remotely. Upgrading to version 5.5.8.2.1 is able to address this issue. The name of the patch is ba062ca5b62809106d5a2f7df942ffcb44ecb5a9. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-213540.
+- [Live-Hack-CVE/CVE-2022-3963](https://github.com/Live-Hack-CVE/CVE-2022-3963)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3963">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3963">
 - [Live-Hack-CVE/CVE-2022-3963](https://github.com/Live-Hack-CVE/CVE-2022-3963)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3963">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3963">
 
 ---
@@ -15693,6 +15695,7 @@
 ## CVE-2022-30875 (2022-06-08T17:15:00)
 > Dolibarr 12.0.5 is vulnerable to Cross Site Scripting (XSS) via Sql Error Page.
 - [Live-Hack-CVE/CVE-2022-30875](https://github.com/Live-Hack-CVE/CVE-2022-30875)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30875">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30875">
+- [Live-Hack-CVE/CVE-2022-30875](https://github.com/Live-Hack-CVE/CVE-2022-30875)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30875">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30875">
 
 ---
 ## CVE-2022-3086 (2022-12-02T20:15:00)
@@ -19631,6 +19634,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ---
 ## CVE-2022-22293 (2022-01-02T00:15:00)
 > admin/limits.php in Dolibarr 7.0.2 allows HTML injection, as demonstrated by the MAIN_MAX_DECIMALS_TOT parameter.
+- [Live-Hack-CVE/CVE-2022-22293](https://github.com/Live-Hack-CVE/CVE-2022-22293)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22293">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22293">
 - [Live-Hack-CVE/CVE-2022-22293](https://github.com/Live-Hack-CVE/CVE-2022-22293)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22293">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22293">
 
 ---

@@ -1101,6 +1101,11 @@
 - [Live-Hack-CVE/CVE-2019-19221](https://github.com/Live-Hack-CVE/CVE-2019-19221)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19221">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19221">
 
 ---
+## CVE-2019-19206 (2019-11-26T15:15:00)
+> Dolibarr CRM/ERP 10.0.3 allows viewimage.php?file= Stored XSS due to JavaScript execution in an SVG image for a profile picture.
+- [Live-Hack-CVE/CVE-2019-19206](https://github.com/Live-Hack-CVE/CVE-2019-19206)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19206">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19206">
+
+---
 ## CVE-2019-19054 (2019-11-18T06:15:00)
 > A memory leak in the cx23888_ir_probe() function in drivers/media/pci/cx23885/cx23888-ir.c in the Linux kernel through 5.3.11 allows attackers to cause a denial of service (memory consumption) by triggering kfifo_alloc() failures, aka CID-a7b2df76b42b.
 - [Live-Hack-CVE/CVE-2019-19054](https://github.com/Live-Hack-CVE/CVE-2019-19054)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19054">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19054">
@@ -1192,9 +1197,20 @@
 - [s1kr10s/D-Link-DIR-859-RCE](https://github.com/s1kr10s/D-Link-DIR-859-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/s1kr10s/D-Link-DIR-859-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/s1kr10s/D-Link-DIR-859-RCE">
 
 ---
+## CVE-2019-17578 (2019-10-16T18:15:00)
+> An issue was discovered in Dolibarr 10.0.2. It has XSS via the "outgoing email setup" feature in the admin/mails.php?action=edit URI via the "Sender email for automatic emails (default value in php.ini: Undefined)" field.
+- [Live-Hack-CVE/CVE-2019-17578](https://github.com/Live-Hack-CVE/CVE-2019-17578)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17578">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17578">
+
+---
 ## CVE-2019-17577 (2019-10-16T18:15:00)
 > An issue was discovered in Dolibarr 10.0.2. It has XSS via the "outgoing email setup" feature in the admin/mails.php?action=edit URI via the "Email used for error returns emails (fields 'Errors-To' in emails sent)" field.
 - [Live-Hack-CVE/CVE-2019-17577](https://github.com/Live-Hack-CVE/CVE-2019-17577)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17577">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17577">
+- [Live-Hack-CVE/CVE-2019-17577](https://github.com/Live-Hack-CVE/CVE-2019-17577)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17577">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17577">
+
+---
+## CVE-2019-17576 (2019-10-16T18:15:00)
+> An issue was discovered in Dolibarr 10.0.2. It has XSS via the "outgoing email setup" feature in the /admin/mails.php?action=edit URI via the "Send all emails to (instead of real recipients, for test purposes)" field.
+- [Live-Hack-CVE/CVE-2019-17576](https://github.com/Live-Hack-CVE/CVE-2019-17576)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17576">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17576">
 
 ---
 ## CVE-2019-17571 (2019-12-20T17:15:00)
@@ -1247,6 +1263,7 @@
 ## CVE-2019-17223 (2019-10-15T12:15:00)
 > There is HTML Injection in the Note field in Dolibarr ERP/CRM 10.0.2 via user/note.php.
 - [Live-Hack-CVE/CVE-2019-17223](https://github.com/Live-Hack-CVE/CVE-2019-17223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17223">
+- [Live-Hack-CVE/CVE-2019-17223](https://github.com/Live-Hack-CVE/CVE-2019-17223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17223">
 
 ---
 ## CVE-2019-17060 (2020-02-10T21:51:00)
@@ -1272,6 +1289,21 @@
 ## CVE-2019-16770 (2019-12-05T20:15:00)
 > In Puma before versions 3.12.2 and 4.3.1, a poorly-behaved client could use keepalive requests to monopolize Puma's reactor and create a denial of service attack. If more keepalive connections to Puma are opened than there are threads available, additional connections will wait permanently if the attacker sends requests frequently enough. This vulnerability is patched in Puma 4.3.1 and 3.12.2.
 - [Live-Hack-CVE/CVE-2019-16770](https://github.com/Live-Hack-CVE/CVE-2019-16770)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16770">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16770">
+
+---
+## CVE-2019-16688 (2019-09-27T20:15:00)
+> Dolibarr 9.0.5 has stored XSS in an Email Template section to mails_templates.php. A user with no privileges can inject script to attack the admin. (This stored XSS can affect all types of user privilege from Admin to users with no permissions.)
+- [Live-Hack-CVE/CVE-2019-16688](https://github.com/Live-Hack-CVE/CVE-2019-16688)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16688">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16688">
+
+---
+## CVE-2019-16686 (2019-09-27T20:15:00)
+> Dolibarr 9.0.5 has stored XSS in a User Note section to note.php. A user with no privileges can inject script to attack the admin.
+- [Live-Hack-CVE/CVE-2019-16686](https://github.com/Live-Hack-CVE/CVE-2019-16686)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16686">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16686">
+
+---
+## CVE-2019-16685 (2019-09-27T20:15:00)
+> Dolibarr 9.0.5 has stored XSS vulnerability via a User Group Description section to card.php. A user with the "Create/modify other users, groups and permissions" privilege can inject script and can also achieve privilege escalation.
+- [Live-Hack-CVE/CVE-2019-16685](https://github.com/Live-Hack-CVE/CVE-2019-16685)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16685">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16685">
 
 ---
 ## CVE-2019-1649 (2019-05-13T19:29:00)
