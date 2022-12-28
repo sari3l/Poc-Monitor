@@ -104,6 +104,7 @@
 ## CVE-2019-7671 (2019-06-05T19:29:00)
 > Prima Systems FlexAir, Versions 2.3.38 and prior. Parameters sent to scripts are not properly sanitized before being returned to the user, which may allow an attacker to execute arbitrary code in a user’s browser session in context of an affected site.
 - [Live-Hack-CVE/CVE-2019-7671](https://github.com/Live-Hack-CVE/CVE-2019-7671)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7671">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7671">
+- [Live-Hack-CVE/CVE-2019-7671](https://github.com/Live-Hack-CVE/CVE-2019-7671)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7671">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7671">
 
 ---
 ## CVE-2019-7670 (2019-07-01T19:15:00)
@@ -123,6 +124,7 @@
 ---
 ## CVE-2019-7666 (2019-07-01T19:15:00)
 > Prima Systems FlexAir, Versions 2.3.38 and prior. The application allows improper authentication using the MD5 hash value of the password, which may allow an attacker with access to the database to login as admin without decrypting the password.
+- [Live-Hack-CVE/CVE-2019-7666](https://github.com/Live-Hack-CVE/CVE-2019-7666)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7666">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7666">
 - [Live-Hack-CVE/CVE-2019-7666](https://github.com/Live-Hack-CVE/CVE-2019-7666)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7666">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7666">
 
 ---
@@ -144,10 +146,12 @@
 ## CVE-2019-7281 (2019-07-01T19:15:00)
 > Prima Systems FlexAir, Versions 2.3.38 and prior. An unauthenticated user can send unverified HTTP requests, which may allow the attacker to perform certain actions with administrative privileges if a logged-in user visits a malicious website.
 - [Live-Hack-CVE/CVE-2019-7281](https://github.com/Live-Hack-CVE/CVE-2019-7281)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7281">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7281">
+- [Live-Hack-CVE/CVE-2019-7281](https://github.com/Live-Hack-CVE/CVE-2019-7281)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7281">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7281">
 
 ---
 ## CVE-2019-7280 (2019-07-01T19:15:00)
 > Prima Systems FlexAir, Versions 2.3.38 and prior. The session-ID is of an insufficient length and can be exploited by brute force, which may allow a remote attacker to obtain a valid session and bypass authentication.
+- [Live-Hack-CVE/CVE-2019-7280](https://github.com/Live-Hack-CVE/CVE-2019-7280)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7280">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7280">
 - [Live-Hack-CVE/CVE-2019-7280](https://github.com/Live-Hack-CVE/CVE-2019-7280)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7280">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7280">
 
 ---
