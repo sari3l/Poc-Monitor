@@ -3960,6 +3960,11 @@
 - [Live-Hack-CVE/CVE-2022-43229](https://github.com/Live-Hack-CVE/CVE-2022-43229)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43229">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43229">
 
 ---
+## CVE-2022-43226 (2022-11-02T17:15:00)
+> Online Diagnostic Lab Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /odlms/?page=appointments/view_appointment.
+- [Live-Hack-CVE/CVE-2022-43226](https://github.com/Live-Hack-CVE/CVE-2022-43226)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43226">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43226">
+
+---
 ## CVE-2022-43223 (2022-11-01T14:15:00)
 > open5gs v2.4.11 was discovered to contain a memory leak in the component ngap-handler.c. This vulnerability allows attackers to cause a Denial of Service (DoS) via a crafted UE attachment.
 - [Live-Hack-CVE/CVE-2022-43223](https://github.com/Live-Hack-CVE/CVE-2022-43223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43223">
@@ -4114,6 +4119,11 @@
 ## CVE-2022-43074 (2022-11-10T20:15:00)
 > AyaCMS v3.1.2 was discovered to contain an arbitrary file upload vulnerability via the component /admin/fst_upload.inc.php. This vulnerability allows attackers to execute arbitrary code via a crafted PHP file.
 - [Live-Hack-CVE/CVE-2022-43074](https://github.com/Live-Hack-CVE/CVE-2022-43074)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43074">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43074">
+
+---
+## CVE-2022-43066 (2022-11-02T20:15:00)
+> Online Diagnostic Lab Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /odlms/classes/Master.php?f=delete_message.
+- [Live-Hack-CVE/CVE-2022-43066](https://github.com/Live-Hack-CVE/CVE-2022-43066)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43066">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43066">
 
 ---
 ## CVE-2022-43046 (2022-11-07T21:15:00)
@@ -4552,14 +4562,69 @@
 - [Live-Hack-CVE/CVE-2022-42821](https://github.com/Live-Hack-CVE/CVE-2022-42821)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42821">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42821">
 
 ---
+## CVE-2022-42820 (2022-11-01T20:15:00)
+> A memory corruption issue was addressed with improved state management. This issue is fixed in iOS 16.1 and iPadOS 16, macOS Ventura 13. An app may cause unexpected app termination or arbitrary code execution.
+- [Live-Hack-CVE/CVE-2022-42820](https://github.com/Live-Hack-CVE/CVE-2022-42820)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42820">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42820">
+
+---
 ## CVE-2022-4282 (2022-12-05T10:15:00)
 > A vulnerability was found in SpringBootCMS and classified as critical. Affected by this issue is some unknown functionality of the component Template Management. The manipulation leads to injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. VDB-214790 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-4282](https://github.com/Live-Hack-CVE/CVE-2022-4282)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4282">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4282">
 
 ---
+## CVE-2022-42819 (2022-11-01T20:15:00)
+> An access issue was addressed with improved access restrictions. This issue is fixed in macOS Big Sur 11.7, macOS Ventura 13, macOS Monterey 12.6. An app may be able to read sensitive location information.
+- [Live-Hack-CVE/CVE-2022-42819](https://github.com/Live-Hack-CVE/CVE-2022-42819)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42819">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42819">
+
+---
 ## CVE-2022-42818 (2022-11-01T20:15:00)
 > This issue was addressed with improved data protection. This issue is fixed in macOS Ventura 13. A user in a privileged network position may be able to track user activity.
 - [Live-Hack-CVE/CVE-2022-42818](https://github.com/Live-Hack-CVE/CVE-2022-42818)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42818">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42818">
+
+---
+## CVE-2022-42817 (2022-11-01T20:15:00)
+> A logic issue was addressed with improved state management. This issue is fixed in iOS 15.7.1 and iPadOS 15.7.1, iOS 16.1 and iPadOS 16, watchOS 9.1. Visiting a maliciously crafted website may leak sensitive data.
+- [Live-Hack-CVE/CVE-2022-42817](https://github.com/Live-Hack-CVE/CVE-2022-42817)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42817">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42817">
+
+---
+## CVE-2022-42815 (2022-11-01T20:15:00)
+> This issue was addressed with improved data protection. This issue is fixed in macOS Ventura 13. An app may be able to access user-sensitive data.
+- [Live-Hack-CVE/CVE-2022-42815](https://github.com/Live-Hack-CVE/CVE-2022-42815)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42815">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42815">
+
+---
+## CVE-2022-42814 (2022-11-01T20:15:00)
+> A logic issue was addressed with improved checks. This issue is fixed in macOS Ventura 13. An app may be able to access user-sensitive data.
+- [Live-Hack-CVE/CVE-2022-42814](https://github.com/Live-Hack-CVE/CVE-2022-42814)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42814">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42814">
+
+---
+## CVE-2022-42813 (2022-11-01T20:15:00)
+> A certificate validation issue existed in the handling of WKWebView. This issue was addressed with improved validation. This issue is fixed in tvOS 16.1, iOS 16.1 and iPadOS 16, macOS Ventura 13, watchOS 9.1. Processing a maliciously crafted certificate may lead to arbitrary code execution.
+- [Live-Hack-CVE/CVE-2022-42813](https://github.com/Live-Hack-CVE/CVE-2022-42813)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42813">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42813">
+
+---
+## CVE-2022-42811 (2022-11-01T20:15:00)
+> An access issue was addressed with additional sandbox restrictions. This issue is fixed in tvOS 16.1, iOS 16.1 and iPadOS 16, macOS Ventura 13, watchOS 9.1. An app may be able to access user-sensitive data.
+- [Live-Hack-CVE/CVE-2022-42811](https://github.com/Live-Hack-CVE/CVE-2022-42811)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42811">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42811">
+
+---
+## CVE-2022-42810 (2022-11-01T20:15:00)
+> The issue was addressed with improved memory handling. This issue is fixed in iOS 15.7.1 and iPadOS 15.7.1, tvOS 16.1, iOS 16.1 and iPadOS 16, macOS Ventura 13. Processing a maliciously crafted USD file may disclose memory contents.
+- [Live-Hack-CVE/CVE-2022-42810](https://github.com/Live-Hack-CVE/CVE-2022-42810)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42810">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42810">
+
+---
+## CVE-2022-42809 (2022-11-01T20:15:00)
+> The issue was addressed with improved memory handling. This issue is fixed in macOS Ventura 13. Processing a maliciously crafted gcx file may lead to unexpected app termination or arbitrary code execution.
+- [Live-Hack-CVE/CVE-2022-42809](https://github.com/Live-Hack-CVE/CVE-2022-42809)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42809">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42809">
+
+---
+## CVE-2022-42808 (2022-11-01T20:15:00)
+> An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in tvOS 16.1, iOS 16.1 and iPadOS 16, macOS Ventura 13, watchOS 9.1. A remote user may be able to cause kernel code execution.
+- [Live-Hack-CVE/CVE-2022-42808](https://github.com/Live-Hack-CVE/CVE-2022-42808)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42808">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42808">
+
+---
+## CVE-2022-42806 (2022-11-01T20:15:00)
+> A race condition was addressed with improved locking. This issue is fixed in iOS 16.1 and iPadOS 16, macOS Ventura 13. An app may be able to execute arbitrary code with kernel privileges.
+- [Live-Hack-CVE/CVE-2022-42806](https://github.com/Live-Hack-CVE/CVE-2022-42806)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42806">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42806">
 
 ---
 ## CVE-2022-42805 (2022-12-15T19:15:00)
@@ -4568,10 +4633,35 @@
 - [Live-Hack-CVE/CVE-2022-42805](https://github.com/Live-Hack-CVE/CVE-2022-42805)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42805">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42805">
 
 ---
+## CVE-2022-42803 (2022-11-01T20:15:00)
+> A race condition was addressed with improved locking. This issue is fixed in tvOS 16.1, iOS 15.7.1 and iPadOS 15.7.1, macOS Ventura 13, watchOS 9.1, iOS 16.1 and iPadOS 16, macOS Monterey 12.6.1. An app may be able to execute arbitrary code with kernel privileges.
+- [Live-Hack-CVE/CVE-2022-42803](https://github.com/Live-Hack-CVE/CVE-2022-42803)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42803">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42803">
+
+---
+## CVE-2022-42800 (2022-11-01T20:15:00)
+> This issue was addressed with improved checks. This issue is fixed in iOS 15.7.1 and iPadOS 15.7.1, macOS Ventura 13, watchOS 9.1, iOS 16.1 and iPadOS 16, macOS Monterey 12.6.1, macOS Big Sur 11.7.1. A user may be able to cause unexpected app termination or arbitrary code execution.
+- [Live-Hack-CVE/CVE-2022-42800](https://github.com/Live-Hack-CVE/CVE-2022-42800)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42800">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42800">
+
+---
 ## CVE-2022-4280 (2022-12-03T18:15:00)
 > A vulnerability, which was classified as problematic, has been found in Dot Tech Smart Campus System. Affected by this issue is some unknown functionality of the file /services/Card/findUser. The manipulation leads to information disclosure. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. VDB-214778 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-4280](https://github.com/Live-Hack-CVE/CVE-2022-4280)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4280">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4280">
 - [Live-Hack-CVE/CVE-2022-42805](https://github.com/Live-Hack-CVE/CVE-2022-42805)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42805">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42805">
+
+---
+## CVE-2022-42798 (2022-11-01T20:15:00)
+> The issue was addressed with improved memory handling. This issue is fixed in tvOS 16.1, iOS 15.7.1 and iPadOS 15.7.1, macOS Ventura 13, watchOS 9.1, iOS 16.1 and iPadOS 16, macOS Monterey 12.6.1, macOS Big Sur 11.7.1. Parsing a maliciously crafted audio file may lead to disclosure of user information.
+- [Live-Hack-CVE/CVE-2022-42798](https://github.com/Live-Hack-CVE/CVE-2022-42798)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42798">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42798">
+
+---
+## CVE-2022-42796 (2022-11-01T20:15:00)
+> This issue was addressed by removing the vulnerable code. This issue is fixed in iOS 15.7 and iPadOS 15.7, macOS Ventura 13. An app may be able to gain elevated privileges.
+- [Live-Hack-CVE/CVE-2022-42796](https://github.com/Live-Hack-CVE/CVE-2022-42796)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42796">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42796">
+
+---
+## CVE-2022-42793 (2022-11-01T20:15:00)
+> An issue in code signature validation was addressed with improved checks. This issue is fixed in macOS Big Sur 11.7, macOS Ventura 13, iOS 16, iOS 15.7 and iPadOS 15.7, macOS Monterey 12.6. An app may be able to bypass code signing checks.
+- [Live-Hack-CVE/CVE-2022-42793](https://github.com/Live-Hack-CVE/CVE-2022-42793)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42793">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42793">
 
 ---
 ## CVE-2022-4279 (2022-12-03T18:15:00)
@@ -6225,6 +6315,11 @@
 ## CVE-2022-41556 (2022-10-06T18:17:00)
 > A resource leak in gw_backend.c in lighttpd 1.4.56 through 1.4.66 could lead to a denial of service (connection-slot exhaustion) after a large amount of anomalous TCP behavior by clients. It is related to RDHUP mishandling in certain HTTP/1.1 chunked situations. Use of mod_fastcgi is, for example, affected. This is fixed in 1.4.67.
 - [Live-Hack-CVE/CVE-2022-41556](https://github.com/Live-Hack-CVE/CVE-2022-41556)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41556">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41556">
+
+---
+## CVE-2022-41551 (2022-11-02T16:15:00)
+> Garage Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /garage/editorder.php.
+- [Live-Hack-CVE/CVE-2022-41551](https://github.com/Live-Hack-CVE/CVE-2022-41551)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41551">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41551">
 
 ---
 ## CVE-2022-4155 (2022-12-26T13:15:00)
@@ -15112,6 +15207,11 @@
 - [Live-Hack-CVE/CVE-2022-32911](https://github.com/Live-Hack-CVE/CVE-2022-32911)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32911">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32911">
 
 ---
+## CVE-2022-32910 (2022-11-01T20:15:00)
+> A logic issue was addressed with improved checks. This issue is fixed in macOS Big Sur 11.6.8, macOS Monterey 12.5, Security Update 2022-005 Catalina. An archive may be able to bypass Gatekeeper.
+- [Live-Hack-CVE/CVE-2022-32910](https://github.com/Live-Hack-CVE/CVE-2022-32910)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32910">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32910">
+
+---
 ## CVE-2022-32908 (2022-09-20T21:15:00)
 > A memory corruption issue was addressed with improved input validation. This issue is fixed in macOS Monterey 12.6, iOS 15.7 and iPadOS 15.7, iOS 16, macOS Big Sur 11.7. A user may be able to elevate privileges.
 - [Live-Hack-CVE/CVE-2022-32908](https://github.com/Live-Hack-CVE/CVE-2022-32908)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32908">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32908">
@@ -15131,6 +15231,11 @@
 ## CVE-2022-3290 (2022-09-26T19:15:00)
 > Improper Handling of Length Parameter Inconsistency in GitHub repository ikus060/rdiffweb prior to 2.4.8.
 - [Live-Hack-CVE/CVE-2022-3290](https://github.com/Live-Hack-CVE/CVE-2022-3290)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3290">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3290">
+
+---
+## CVE-2022-32899 (2022-11-01T20:15:00)
+> The issue was addressed with improved memory handling. This issue is fixed in iOS 15.7 and iPadOS 15.7, iOS 16, macOS Ventura 13, watchOS 9. An app may be able to execute arbitrary code with kernel privileges.
+- [Live-Hack-CVE/CVE-2022-32899](https://github.com/Live-Hack-CVE/CVE-2022-32899)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32899">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32899">
 
 ---
 ## CVE-2022-32898 (2022-11-01T20:15:00)
@@ -15169,15 +15274,30 @@
 - [Live-Hack-CVE/CVE-2022-32888](https://github.com/Live-Hack-CVE/CVE-2022-32888)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32888">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32888">
 
 ---
+## CVE-2022-32887 (2022-11-01T20:15:00)
+> The issue was addressed with improved memory handling. This issue is fixed in iOS 16. An app may be able to execute arbitrary code with kernel privileges.
+- [Live-Hack-CVE/CVE-2022-32887](https://github.com/Live-Hack-CVE/CVE-2022-32887)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32887">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32887">
+
+---
 ## CVE-2022-32883 (2022-09-20T21:15:00)
 > A logic issue was addressed with improved restrictions. This issue is fixed in macOS Monterey 12.6, iOS 15.7 and iPadOS 15.7, iOS 16, macOS Big Sur 11.7. An app may be able to read sensitive location information.
 - [breakpointHQ/CVE-2022-32883](https://github.com/breakpointHQ/CVE-2022-32883)	<img alt="forks" src="https://img.shields.io/github/forks/breakpointHQ/CVE-2022-32883">	<img alt="stars" src="https://img.shields.io/github/stars/breakpointHQ/CVE-2022-32883">
 - [Live-Hack-CVE/CVE-2022-32883](https://github.com/Live-Hack-CVE/CVE-2022-32883)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32883">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32883">
 
 ---
+## CVE-2022-32881 (2022-11-01T20:15:00)
+> A logic issue was addressed with improved restrictions. This issue is fixed in macOS Big Sur 11.7, macOS Ventura 13, iOS 16, watchOS 9, macOS Monterey 12.6, tvOS 16. An app may be able to modify protected parts of the file system.
+- [Live-Hack-CVE/CVE-2022-32881](https://github.com/Live-Hack-CVE/CVE-2022-32881)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32881">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32881">
+
+---
 ## CVE-2022-32879 (2022-11-01T20:15:00)
 > A logic issue was addressed with improved state management. This issue is fixed in macOS Ventura 13, iOS 16, iOS 15.7 and iPadOS 15.7, watchOS 9, tvOS 16. A user with physical access to a device may be able to access contacts from the lock screen.
 - [Live-Hack-CVE/CVE-2022-32879](https://github.com/Live-Hack-CVE/CVE-2022-32879)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32879">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32879">
+
+---
+## CVE-2022-32877 (2022-11-01T20:15:00)
+> A configuration issue was addressed with additional restrictions. This issue is fixed in macOS Big Sur 11.7, macOS Monterey 12.6. An app may be able to access user-sensitive data.
+- [Live-Hack-CVE/CVE-2022-32877](https://github.com/Live-Hack-CVE/CVE-2022-32877)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32877">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32877">
 
 ---
 ## CVE-2022-32875 (2022-11-01T20:15:00)
@@ -15213,6 +15333,21 @@
 ## CVE-2022-32864 (2022-09-20T21:15:00)
 > The issue was addressed with improved memory handling. This issue is fixed in macOS Monterey 12.6, iOS 15.7 and iPadOS 15.7, iOS 16, macOS Big Sur 11.7. An app may be able to disclose kernel memory.
 - [Live-Hack-CVE/CVE-2022-32864](https://github.com/Live-Hack-CVE/CVE-2022-32864)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32864">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32864">
+
+---
+## CVE-2022-32862 (2022-11-01T20:15:00)
+> This issue was addressed with improved data protection. This issue is fixed in macOS Big Sur 11.7.1, macOS Ventura 13, macOS Monterey 12.6.1. An app with root privileges may be able to access private information.
+- [Live-Hack-CVE/CVE-2022-32862](https://github.com/Live-Hack-CVE/CVE-2022-32862)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32862">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32862">
+
+---
+## CVE-2022-32859 (2022-11-01T20:15:00)
+> A logic issue was addressed with improved state management. This issue is fixed in iOS 16. Deleted contacts may still appear in spotlight search results.
+- [Live-Hack-CVE/CVE-2022-32859](https://github.com/Live-Hack-CVE/CVE-2022-32859)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32859">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32859">
+
+---
+## CVE-2022-32858 (2022-11-01T20:15:00)
+> The issue was addressed with improved memory handling. This issue is fixed in iOS 16, macOS Ventura 13, watchOS 9. An app may be able to leak sensitive kernel state.
+- [Live-Hack-CVE/CVE-2022-32858](https://github.com/Live-Hack-CVE/CVE-2022-32858)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32858">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32858">
 
 ---
 ## CVE-2022-3285 (2022-11-09T23:15:00)
@@ -18508,10 +18643,25 @@
 - [Live-Hack-CVE/CVE-2022-26768](https://github.com/Live-Hack-CVE/CVE-2022-26768)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26768">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26768">
 
 ---
+## CVE-2022-26762 (2022-11-01T20:15:00)
+> A memory corruption issue was addressed with improved memory handling. This issue is fixed in macOS Monterey 12.4, iOS 15.5 and iPadOS 15.5. A malicious application may be able to execute arbitrary code with system privileges.
+- [Live-Hack-CVE/CVE-2022-26762](https://github.com/Live-Hack-CVE/CVE-2022-26762)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26762">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26762">
+
+---
 ## CVE-2022-26726 (2022-05-26T19:15:00)
 > This issue was addressed with improved checks. This issue is fixed in Security Update 2022-004 Catalina, watchOS 8.6, macOS Monterey 12.4, macOS Big Sur 11.6.6. An app may be able to capture a user's screen.
 - [acheong08/CVE-2022-26726-POC](https://github.com/acheong08/CVE-2022-26726-POC)	<img alt="forks" src="https://img.shields.io/github/forks/acheong08/CVE-2022-26726-POC">	<img alt="stars" src="https://img.shields.io/github/stars/acheong08/CVE-2022-26726-POC">
 - [XmasSnowISBACK/CVE-2022-26726](https://github.com/XmasSnowISBACK/CVE-2022-26726)	<img alt="forks" src="https://img.shields.io/github/forks/XmasSnowISBACK/CVE-2022-26726">	<img alt="stars" src="https://img.shields.io/github/stars/XmasSnowISBACK/CVE-2022-26726">
+
+---
+## CVE-2022-26719 (2022-11-01T20:15:00)
+> A memory corruption issue was addressed with improved state management. This issue is fixed in tvOS 15.5, iOS 15.5 and iPadOS 15.5, watchOS 8.6, macOS Monterey 12.4, Safari 15.5. Processing maliciously crafted web content may lead to arbitrary code execution.
+- [Live-Hack-CVE/CVE-2022-26719](https://github.com/Live-Hack-CVE/CVE-2022-26719)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26719">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26719">
+
+---
+## CVE-2022-26717 (2022-11-01T20:15:00)
+> A use after free issue was addressed with improved memory management. This issue is fixed in tvOS 15.5, watchOS 8.6, iOS 15.5 and iPadOS 15.5, macOS Monterey 12.4, Safari 15.5, iTunes 12.12.4 for Windows. Processing maliciously crafted web content may lead to arbitrary code execution.
+- [Live-Hack-CVE/CVE-2022-26717](https://github.com/Live-Hack-CVE/CVE-2022-26717)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26717">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26717">
 
 ---
 ## CVE-2022-26707 (2022-09-23T19:15:00)
