@@ -4003,6 +4003,11 @@
 - [Live-Hack-CVE/CVE-2021-24651](https://github.com/Live-Hack-CVE/CVE-2021-24651)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24651">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24651">
 
 ---
+## CVE-2021-24649 (2022-11-21T11:15:00)
+> The WP User Frontend WordPress plugin before 3.5.29 uses a user supplied argument called urhidden in its registration form, which contains the role for the account to be created with, encrypted via wpuf_encryption(). This could allow an attacker having access to the AUTH_KEY and AUTH_SALT constant (via an arbitrary file access issue for example, or if the blog is using the default keys) to create an account with any role they want, such as admin
+- [Live-Hack-CVE/CVE-2021-24649](https://github.com/Live-Hack-CVE/CVE-2021-24649)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24649">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24649">
+
+---
 ## CVE-2021-24642 (2021-10-18T14:15:00)
 > The Scroll Baner WordPress plugin through 1.0 does not have CSRF check in place when saving its settings, nor perform any sanitisation, escaping or validation on them. This could allow attackers to make logged in admin change them and could lead to RCE (via a file upload) as well as XSS
 - [Live-Hack-CVE/CVE-2021-24642](https://github.com/Live-Hack-CVE/CVE-2021-24642)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24642">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24642">
