@@ -1021,6 +1021,7 @@
 ## CVE-2019-19947 (2019-12-24T00:15:00)
 > In the Linux kernel through 5.4.6, there are information leaks of uninitialized memory to a USB device in the drivers/net/can/usb/kvaser_usb/kvaser_usb_leaf.c driver, aka CID-da2311a6385c.
 - [Live-Hack-CVE/CVE-2019-19947](https://github.com/Live-Hack-CVE/CVE-2019-19947)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19947">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19947">
+- [Live-Hack-CVE/CVE-2019-19947](https://github.com/Live-Hack-CVE/CVE-2019-19947)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19947">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19947">
 
 ---
 ## CVE-2019-19945 (2020-03-16T18:15:00)
@@ -1397,15 +1398,18 @@
 ## CVE-2019-14591 (2019-11-14T20:15:00)
 > Improper input validation in the API for Intel(R) Graphics Driver versions before 26.20.100.7209 may allow an authenticated user to potentially enable denial of service via local access.
 - [Live-Hack-CVE/CVE-2019-14591](https://github.com/Live-Hack-CVE/CVE-2019-14591)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14591">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14591">
+- [Live-Hack-CVE/CVE-2019-14591](https://github.com/Live-Hack-CVE/CVE-2019-14591)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14591">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14591">
 
 ---
 ## CVE-2019-14590 (2019-11-14T20:15:00)
 > Improper access control in the API for the Intel(R) Graphics Driver versions before 26.20.100.7209 may allow an authenticated user to potentially enable information disclosure via local access.
 - [Live-Hack-CVE/CVE-2019-14590](https://github.com/Live-Hack-CVE/CVE-2019-14590)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14590">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14590">
+- [Live-Hack-CVE/CVE-2019-14590](https://github.com/Live-Hack-CVE/CVE-2019-14590)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14590">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14590">
 
 ---
 ## CVE-2019-14574 (2019-11-14T20:15:00)
 > Out of bounds read in a subsystem for Intel(R) Graphics Driver versions before 26.20.100.7209 may allow an authenticated user to potentially enable denial of service via local access.
+- [Live-Hack-CVE/CVE-2019-14574](https://github.com/Live-Hack-CVE/CVE-2019-14574)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14574">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14574">
 - [Live-Hack-CVE/CVE-2019-14574](https://github.com/Live-Hack-CVE/CVE-2019-14574)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14574">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14574">
 
 ---
@@ -1534,15 +1538,18 @@
 ## CVE-2019-11113 (2019-11-14T20:15:00)
 > Buffer overflow in Kernel Mode module for Intel(R) Graphics Driver before version 25.20.100.6618 (DCH) or 21.20.x.5077 (aka15.45.5077) may allow a privileged user to potentially enable information disclosure via local access.
 - [Live-Hack-CVE/CVE-2019-11113](https://github.com/Live-Hack-CVE/CVE-2019-11113)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11113">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11113">
+- [Live-Hack-CVE/CVE-2019-11113](https://github.com/Live-Hack-CVE/CVE-2019-11113)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11113">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11113">
 
 ---
 ## CVE-2019-11111 (2019-11-14T20:15:00)
 > Pointer corruption in the Unified Shader Compiler in Intel(R) Graphics Drivers before 10.18.14.5074 (aka 15.36.x.5074) may allow an authenticated user to potentially enable escalation of privilege via local access.
 - [Live-Hack-CVE/CVE-2019-11111](https://github.com/Live-Hack-CVE/CVE-2019-11111)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11111">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11111">
+- [Live-Hack-CVE/CVE-2019-11111](https://github.com/Live-Hack-CVE/CVE-2019-11111)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11111">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11111">
 
 ---
 ## CVE-2019-11089 (2019-11-14T20:15:00)
 > Insufficient input validation in Kernel Mode module for Intel(R) Graphics Driver before version 25.20.100.6519 may allow an authenticated user to potentially enable denial of service via local access.
+- [Live-Hack-CVE/CVE-2019-11089](https://github.com/Live-Hack-CVE/CVE-2019-11089)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11089">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11089">
 - [Live-Hack-CVE/CVE-2019-11089](https://github.com/Live-Hack-CVE/CVE-2019-11089)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11089">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11089">
 
 ---

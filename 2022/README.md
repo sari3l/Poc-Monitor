@@ -8519,6 +8519,11 @@
 - [Live-Hack-CVE/CVE-2022-39358](https://github.com/Live-Hack-CVE/CVE-2022-39358)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39358">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39358">
 
 ---
+## CVE-2022-39352 (2022-11-08T08:15:00)
+> OpenFGA is a high-performance authorization/permission engine inspired by Google Zanzibar. Versions prior to 0.2.5 are vulnerable to authorization bypass under certain conditions. You are affected by this vulnerability if you added a tuple with a wildcard (*) assigned to a tupleset relation (the right hand side of a â€˜fromâ€™ statement). This issue has been patched in version v0.2.5. This update is not backward compatible with any authorization model that uses wildcard on a tupleset relation.
+- [Live-Hack-CVE/CVE-2022-39352](https://github.com/Live-Hack-CVE/CVE-2022-39352)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39352">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39352">
+
+---
 ## CVE-2022-39347 (2022-11-16T20:15:00)
 > FreeRDP is a free remote desktop protocol library and clients. Affected versions of FreeRDP are missing path canonicalization and base path check for `drive` channel. A malicious server can trick a FreeRDP based client to read files outside the shared directory. This issue has been addressed in version 2.9.0 and all users are advised to upgrade. Users unable to upgrade should not use the `/drive`, `/drives` or `+home-drive` redirection switch.
 - [Live-Hack-CVE/CVE-2022-39347](https://github.com/Live-Hack-CVE/CVE-2022-39347)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39347">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39347">
@@ -8527,6 +8532,11 @@
 ## CVE-2022-39345 (2022-10-25T17:15:00)
 > Gin-vue-admin is a backstage management system based on vue and gin, which separates the front and rear of the full stack. Gin-vue-admin prior to 2.5.4 is vulnerable to path traversal, which leads to file upload vulnerabilities. Version 2.5.4 contains a patch for this issue. There are no workarounds aside from upgrading to a patched version.
 - [Live-Hack-CVE/CVE-2022-39345](https://github.com/Live-Hack-CVE/CVE-2022-39345)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39345">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39345">
+
+---
+## CVE-2022-39343 (2022-11-08T08:15:00)
+> Azure RTOS FileX is a FAT-compatible file system thatâ€™s fully integrated with Azure RTOS ThreadX. In versions before 6.2.0, the Fault Tolerant feature of Azure RTOS FileX includes integer under and overflows which may be exploited to achieve buffer overflow and modify memory contents. When a valid log file with correct ID and checksum is detected by the `_fx_fault_tolerant_enable` function an attempt to recover the previous failed write operation is taken by call of `_fx_fault_tolerant_apply_logs`. This function iterates through the log entries and performs required recovery operations. When properly crafted a log including entries of type `FX_FAULT_TOLERANT_DIR_LOG_TYPE` may be utilized to introduce unexpected behavior. This issue has been patched in version 6.2.0. A workaround to fix line 218 in fx_fault_tolerant_apply_logs.c is documented in the GHSA.
+- [Live-Hack-CVE/CVE-2022-39343](https://github.com/Live-Hack-CVE/CVE-2022-39343)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39343">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39343">
 
 ---
 ## CVE-2022-39342 (2022-10-25T17:15:00)
@@ -15300,6 +15310,11 @@
 - [Live-Hack-CVE/CVE-2022-3199](https://github.com/Live-Hack-CVE/CVE-2022-3199)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3199">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3199">
 
 ---
+## CVE-2022-3195 (2022-09-26T16:15:00)
+> Out of bounds write in Storage in Google Chrome prior to 105.0.5195.125 allowed a remote attacker to perform an out of bounds memory write via a crafted HTML page. (Chromium security severity: High)
+- [Live-Hack-CVE/CVE-2022-3195](https://github.com/Live-Hack-CVE/CVE-2022-3195)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3195">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3195">
+
+---
 ## CVE-2022-31901 ()
 > 
 - [CDACesec/CVE-2022-31901](https://github.com/CDACesec/CVE-2022-31901)	<img alt="forks" src="https://img.shields.io/github/forks/CDACesec/CVE-2022-31901">	<img alt="stars" src="https://img.shields.io/github/stars/CDACesec/CVE-2022-31901">
@@ -17649,6 +17664,16 @@
 - [Live-Hack-CVE/CVE-2022-27536](https://github.com/Live-Hack-CVE/CVE-2022-27536)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27536">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27536">
 
 ---
+## CVE-2022-27513 (2022-11-08T22:15:00)
+> Remote desktop takeover via phishing
+- [Live-Hack-CVE/CVE-2022-27513](https://github.com/Live-Hack-CVE/CVE-2022-27513)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27513">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27513">
+
+---
+## CVE-2022-27510 (2022-11-08T22:15:00)
+> Unauthorized access to Gateway user capabilities
+- [Live-Hack-CVE/CVE-2022-27510](https://github.com/Live-Hack-CVE/CVE-2022-27510)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27510">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27510">
+
+---
 ## CVE-2022-27502 (2022-06-10T13:15:00)
 > RealVNC VNC Server 6.9.0 through 5.1.0 for Windows allows local privilege escalation because an installer repair operation executes %TEMP% files as SYSTEM.
 - [alirezac0/CVE-2022-27502](https://github.com/alirezac0/CVE-2022-27502)	<img alt="forks" src="https://img.shields.io/github/forks/alirezac0/CVE-2022-27502">	<img alt="stars" src="https://img.shields.io/github/stars/alirezac0/CVE-2022-27502">
@@ -19093,10 +19118,12 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [danbudris/CVE-2022-23773-repro-target](https://github.com/danbudris/CVE-2022-23773-repro-target)	<img alt="forks" src="https://img.shields.io/github/forks/danbudris/CVE-2022-23773-repro-target">	<img alt="stars" src="https://img.shields.io/github/stars/danbudris/CVE-2022-23773-repro-target">
 - [danbudris/CVE-2022-23773-repro](https://github.com/danbudris/CVE-2022-23773-repro)	<img alt="forks" src="https://img.shields.io/github/forks/danbudris/CVE-2022-23773-repro">	<img alt="stars" src="https://img.shields.io/github/stars/danbudris/CVE-2022-23773-repro">
 - [Live-Hack-CVE/CVE-2022-23773](https://github.com/Live-Hack-CVE/CVE-2022-23773)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23773">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23773">
+- [Live-Hack-CVE/CVE-2022-23773](https://github.com/Live-Hack-CVE/CVE-2022-23773)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23773">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23773">
 
 ---
 ## CVE-2022-23772 (2022-02-11T01:15:00)
 > Rat.SetString in math/big in Go before 1.16.14 and 1.17.x before 1.17.7 has an overflow that can lead to Uncontrolled Memory Consumption.
+- [Live-Hack-CVE/CVE-2022-23772](https://github.com/Live-Hack-CVE/CVE-2022-23772)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23772">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23772">
 - [Live-Hack-CVE/CVE-2022-23772](https://github.com/Live-Hack-CVE/CVE-2022-23772)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23772">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23772">
 
 ---
@@ -20265,6 +20292,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-21824 (2022-02-24T19:15:00)
 > Due to the formatting logic of the "console.table()" function it was not safe to allow user controlled input to be passed to the "properties" parameter while simultaneously passing a plain object with at least one property as the first parameter, which could be "__proto__". The prototype pollution has very limited control, in that it only allows an empty string to be assigned to numerical keys of the object prototype.Node.js >= 12.22.9, >= 14.18.3, >= 16.13.2, and >= 17.3.1 use a null protoype for the object these properties are being assigned to.
 - [Live-Hack-CVE/CVE-2022-21824](https://github.com/Live-Hack-CVE/CVE-2022-21824)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21824">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21824">
+- [Live-Hack-CVE/CVE-2022-21824](https://github.com/Live-Hack-CVE/CVE-2022-21824)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21824">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21824">
 
 ---
 ## CVE-2022-21814 (2022-02-07T20:15:00)
@@ -20295,6 +20323,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ---
 ## CVE-2022-21724 (2022-02-02T12:15:00)
 > pgjdbc is the offical PostgreSQL JDBC Driver. A security hole was found in the jdbc driver for postgresql database while doing security research. The system using the postgresql library will be attacked when attacker control the jdbc url or properties. pgjdbc instantiates plugin instances based on class names provided via `authenticationPluginClassName`, `sslhostnameverifier`, `socketFactory`, `sslfactory`, `sslpasswordcallback` connection properties. However, the driver did not verify if the class implements the expected interface before instantiating the class. This can lead to code execution loaded via arbitrary classes. Users using plugins are advised to upgrade. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-21724](https://github.com/Live-Hack-CVE/CVE-2022-21724)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21724">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21724">
 - [Live-Hack-CVE/CVE-2022-21724](https://github.com/Live-Hack-CVE/CVE-2022-21724)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21724">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21724">
 
 ---
@@ -20764,6 +20793,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-20812 (2022-07-06T21:15:00)
 > Multiple vulnerabilities in the API and in the web-based management interface of Cisco Expressway Series and Cisco TelePresence Video Communication Server (VCS) could allow a remote attacker to overwrite arbitrary files or conduct null byte poisoning attacks on an affected device. Note: Cisco Expressway Series refers to the Expressway Control (Expressway-C) device and the Expressway Edge (Expressway-E) device. For more information about these vulnerabilities, see the Details section of this advisory.
 - [Live-Hack-CVE/CVE-2022-20812](https://github.com/Live-Hack-CVE/CVE-2022-20812)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20812">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20812">
+- [Live-Hack-CVE/CVE-2022-20812](https://github.com/Live-Hack-CVE/CVE-2022-20812)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20812">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20812">
 
 ---
 ## CVE-2022-2078 (2022-06-30T13:15:00)
@@ -20773,6 +20803,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ---
 ## CVE-2022-20775 (2022-09-30T19:15:00)
 > Multiple vulnerabilities in the CLI of Cisco SD-WAN Software could allow an authenticated, local attacker to gain elevated privileges. These vulnerabilities are due to improper access controls on commands within the application CLI. An attacker could exploit these vulnerabilities by running a malicious command on the application CLI. A successful exploit could allow the attacker to execute arbitrary commands as the root user.
+- [Live-Hack-CVE/CVE-2022-20775](https://github.com/Live-Hack-CVE/CVE-2022-20775)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20775">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20775">
 - [Live-Hack-CVE/CVE-2022-20775](https://github.com/Live-Hack-CVE/CVE-2022-20775)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20775">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20775">
 
 ---
