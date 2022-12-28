@@ -17588,6 +17588,7 @@
 > Use after free in Passwords in Google Chrome prior to 105.0.5195.52 allowed a remote attacker who convinced a user to engage in specific UI interactions to potentially exploit heap corruption via a crafted HTML page.
 - [Live-Hack-CVE/CVE-2022-3055](https://github.com/Live-Hack-CVE/CVE-2022-3055)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3055">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3055">
 - [Live-Hack-CVE/CVE-2022-3055](https://github.com/Live-Hack-CVE/CVE-2022-3055)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3055">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3055">
+- [Live-Hack-CVE/CVE-2022-30550](https://github.com/Live-Hack-CVE/CVE-2022-30550)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30550">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30550">
 
 ---
 ## CVE-2022-30545 (2022-11-08T19:15:00)
@@ -18661,6 +18662,11 @@
 - [Live-Hack-CVE/CVE-2022-28598](https://github.com/Live-Hack-CVE/CVE-2022-28598)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28598">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28598">
 
 ---
+## CVE-2022-2852 (2022-09-26T16:15:00)
+> Use after free in FedCM in Google Chrome prior to 104.0.5112.101 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-2852](https://github.com/Live-Hack-CVE/CVE-2022-2852)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2852">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2852">
+
+---
 ## CVE-2022-28487 (2022-05-04T15:15:00)
 > Tcpreplay version 4.4.1 contains a memory leakage flaw in fix_ipv6_checksums() function. The highest threat from this vulnerability is to data confidentiality.
 - [Live-Hack-CVE/CVE-2022-28487](https://github.com/Live-Hack-CVE/CVE-2022-28487)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28487">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28487">
@@ -19552,6 +19558,7 @@
 ## CVE-2022-2618 (2022-08-12T20:15:00)
 > Insufficient validation of untrusted input in Internals in Google Chrome prior to 104.0.5112.79 allowed a remote attacker to bypass download restrictions via a malicious file .
 - [Live-Hack-CVE/CVE-2022-2618](https://github.com/Live-Hack-CVE/CVE-2022-2618)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2618">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2618">
+- [Live-Hack-CVE/CVE-2022-2618](https://github.com/Live-Hack-CVE/CVE-2022-2618)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2618">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2618">
 
 ---
 ## CVE-2022-26138 (2022-07-20T18:15:00)
@@ -20050,6 +20057,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ---
 ## CVE-2022-25486 (2022-03-15T18:15:00)
 > CuppaCMS v1.0 was discovered to contain a local file inclusion via the url parameter in /alerts/alertConfigField.php.
+- [Live-Hack-CVE/CVE-2022-25486](https://github.com/Live-Hack-CVE/CVE-2022-25486)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25486">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25486">
 - [Live-Hack-CVE/CVE-2022-25486](https://github.com/Live-Hack-CVE/CVE-2022-25486)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25486">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25486">
 
 ---

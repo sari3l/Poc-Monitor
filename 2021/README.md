@@ -4337,6 +4337,7 @@
 ## CVE-2021-24761 (2022-02-01T13:15:00)
 > The Error Log Viewer WordPress plugin before 1.1.2 does not perform nonce check when deleting a log file and does not have path traversal prevention, which could allow attackers to make a logged in admin delete arbitrary text files on the web server.
 - [Live-Hack-CVE/CVE-2021-24761](https://github.com/Live-Hack-CVE/CVE-2021-24761)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24761">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24761">
+- [Live-Hack-CVE/CVE-2021-24761](https://github.com/Live-Hack-CVE/CVE-2021-24761)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24761">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24761">
 
 ---
 ## CVE-2021-24752 (2021-10-18T14:15:00)
