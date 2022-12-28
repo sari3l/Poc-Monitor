@@ -16348,6 +16348,7 @@
 ## CVE-2022-32222 (2022-07-14T15:15:00)
 > A cryptographic vulnerability exists on Node.js on linux in versions of 18.x prior to 18.40.0 which allowed a default path for openssl.cnf that might be accessible under some circumstances to a non-admin user instead of /etc/ssl as was the case in versions prior to the upgrade to OpenSSL 3.
 - [Live-Hack-CVE/CVE-2022-32222](https://github.com/Live-Hack-CVE/CVE-2022-32222)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32222">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32222">
+- [Live-Hack-CVE/CVE-2022-32222](https://github.com/Live-Hack-CVE/CVE-2022-32222)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32222">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32222">
 
 ---
 ## CVE-2022-32221 (2022-12-05T22:15:00)
@@ -17228,6 +17229,7 @@
 ---
 ## CVE-2022-30973 (2022-05-31T14:15:00)
 > We failed to apply the fix for CVE-2022-30126 to the 1.x branch in the 1.28.2 release. In Apache Tika, a regular expression in the StandardsText class, used by the StandardsExtractingContentHandler could lead to a denial of service caused by backtracking on a specially crafted file. This only affects users who are running the StandardsExtractingContentHandler, which is a non-standard handler. This is fixed in 1.28.3.
+- [Live-Hack-CVE/CVE-2022-30973](https://github.com/Live-Hack-CVE/CVE-2022-30973)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30973">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30973">
 - [Live-Hack-CVE/CVE-2022-30973](https://github.com/Live-Hack-CVE/CVE-2022-30973)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30973">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30973">
 
 ---
@@ -18440,10 +18442,12 @@
 ## CVE-2022-29048 (2022-04-12T20:15:00)
 > A cross-site request forgery (CSRF) vulnerability in Jenkins Subversion Plugin 2.15.3 and earlier allows attackers to connect to an attacker-specified URL.
 - [Live-Hack-CVE/CVE-2022-29048](https://github.com/Live-Hack-CVE/CVE-2022-29048)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29048">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29048">
+- [Live-Hack-CVE/CVE-2022-29048](https://github.com/Live-Hack-CVE/CVE-2022-29048)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29048">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29048">
 
 ---
 ## CVE-2022-29046 (2022-04-12T20:15:00)
 > Jenkins Subversion Plugin 2.15.3 and earlier does not escape the name and description of List Subversion tags (and more) parameters on views displaying parameters, resulting in a stored cross-site scripting (XSS) vulnerability exploitable by attackers with Item/Configure permission.
+- [Live-Hack-CVE/CVE-2022-29046](https://github.com/Live-Hack-CVE/CVE-2022-29046)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29046">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29046">
 - [Live-Hack-CVE/CVE-2022-29046](https://github.com/Live-Hack-CVE/CVE-2022-29046)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29046">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29046">
 
 ---
@@ -19300,10 +19304,12 @@
 ## CVE-2022-26777 (2022-04-16T16:15:00)
 > Zoho ManageEngine Remote Access Plus before 10.1.2137.15 allows guest users to view license details.
 - [Live-Hack-CVE/CVE-2022-26777](https://github.com/Live-Hack-CVE/CVE-2022-26777)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26777">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26777">
+- [Live-Hack-CVE/CVE-2022-26777](https://github.com/Live-Hack-CVE/CVE-2022-26777)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26777">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26777">
 
 ---
 ## CVE-2022-26768 (2022-05-26T20:15:00)
 > A memory corruption issue was addressed with improved state management. This issue is fixed in macOS Monterey 12.4, watchOS 8.6, tvOS 15.5, macOS Big Sur 11.6.6. An application may be able to execute arbitrary code with kernel privileges.
+- [Live-Hack-CVE/CVE-2022-26768](https://github.com/Live-Hack-CVE/CVE-2022-26768)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26768">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26768">
 - [Live-Hack-CVE/CVE-2022-26768](https://github.com/Live-Hack-CVE/CVE-2022-26768)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26768">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26768">
 
 ---
@@ -19362,6 +19368,7 @@
 ---
 ## CVE-2022-26653 (2022-04-16T16:15:00)
 > Zoho ManageEngine Remote Access Plus before 10.1.2137.15 allows guest users to view domain details (such as the username and GUID of an administrator).
+- [Live-Hack-CVE/CVE-2022-26653](https://github.com/Live-Hack-CVE/CVE-2022-26653)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26653">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26653">
 - [Live-Hack-CVE/CVE-2022-26653](https://github.com/Live-Hack-CVE/CVE-2022-26653)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26653">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26653">
 
 ---
@@ -23466,6 +23473,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1882 (2022-05-26T17:15:00)
 > A use-after-free flaw was found in the Linux kernel’s pipes functionality in how a user performs manipulations with the pipe post_one_notification() after free_pipe_info() that is already called. This flaw allows a local user to crash or potentially escalate their privileges on the system.
 - [Live-Hack-CVE/CVE-2022-1882](https://github.com/Live-Hack-CVE/CVE-2022-1882)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1882">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1882">
+- [Live-Hack-CVE/CVE-2022-1882](https://github.com/Live-Hack-CVE/CVE-2022-1882)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1882">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1882">
 
 ---
 ## CVE-2022-1855 (2022-07-27T22:15:00)
@@ -23511,6 +23519,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ---
 ## CVE-2022-1786 (2022-06-02T14:15:00)
 > A use-after-free flaw was found in the Linux kernel’s io_uring subsystem in the way a user sets up a ring with IORING_SETUP_IOPOLL with more than one task completing submissions on this ring. This flaw allows a local user to crash or escalate their privileges on the system.
+- [Live-Hack-CVE/CVE-2022-1786](https://github.com/Live-Hack-CVE/CVE-2022-1786)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1786">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1786">
 - [Live-Hack-CVE/CVE-2022-1786](https://github.com/Live-Hack-CVE/CVE-2022-1786)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1786">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1786">
 
 ---
@@ -23579,6 +23588,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1678 (2022-05-25T15:15:00)
 > An issue was discovered in the Linux Kernel from 4.18 to 4.19, an improper update of sock reference in TCP pacing can lead to memory/netns leak, which can be used by remote clients.
 - [Live-Hack-CVE/CVE-2022-1678](https://github.com/Live-Hack-CVE/CVE-2022-1678)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1678">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1678">
+- [Live-Hack-CVE/CVE-2022-1678](https://github.com/Live-Hack-CVE/CVE-2022-1678)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1678">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1678">
 
 ---
 ## CVE-2022-1671 (2022-07-26T17:15:00)
@@ -23594,6 +23604,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ---
 ## CVE-2022-1652 (2022-06-02T14:15:00)
 > Linux Kernel could allow a local attacker to execute arbitrary code on the system, caused by a concurrency use-after-free flaw in the bad_flp_intr function. By executing a specially-crafted program, an attacker could exploit this vulnerability to execute arbitrary code or cause a denial of service condition on the system.
+- [Live-Hack-CVE/CVE-2022-1652](https://github.com/Live-Hack-CVE/CVE-2022-1652)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1652">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1652">
 - [Live-Hack-CVE/CVE-2022-1652](https://github.com/Live-Hack-CVE/CVE-2022-1652)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1652">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1652">
 
 ---
