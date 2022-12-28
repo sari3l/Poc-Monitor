@@ -19263,6 +19263,36 @@
 - [r1skkam/TryHackMe-CVE-2022-26923](https://github.com/r1skkam/TryHackMe-CVE-2022-26923)	<img alt="forks" src="https://img.shields.io/github/forks/r1skkam/TryHackMe-CVE-2022-26923">	<img alt="stars" src="https://img.shields.io/github/stars/r1skkam/TryHackMe-CVE-2022-26923">
 
 ---
+## CVE-2022-26912 (2022-04-05T20:15:00)
+> Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-24475, CVE-2022-26891, CVE-2022-26894, CVE-2022-26895, CVE-2022-26900, CVE-2022-26908, CVE-2022-26909.
+- [Live-Hack-CVE/CVE-2022-26912](https://github.com/Live-Hack-CVE/CVE-2022-26912)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26912">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26912">
+
+---
+## CVE-2022-26909 (2022-04-05T20:15:00)
+> Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-24475, CVE-2022-26891, CVE-2022-26894, CVE-2022-26895, CVE-2022-26900, CVE-2022-26908, CVE-2022-26912.
+- [Live-Hack-CVE/CVE-2022-26909](https://github.com/Live-Hack-CVE/CVE-2022-26909)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26909">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26909">
+
+---
+## CVE-2022-26908 (2022-04-05T20:15:00)
+> Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-24475, CVE-2022-26891, CVE-2022-26894, CVE-2022-26895, CVE-2022-26900, CVE-2022-26909, CVE-2022-26912.
+- [Live-Hack-CVE/CVE-2022-26908](https://github.com/Live-Hack-CVE/CVE-2022-26908)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26908">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26908">
+
+---
+## CVE-2022-26900 (2022-04-05T20:15:00)
+> Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-24475, CVE-2022-26891, CVE-2022-26894, CVE-2022-26895, CVE-2022-26908, CVE-2022-26909, CVE-2022-26912.
+- [Live-Hack-CVE/CVE-2022-26900](https://github.com/Live-Hack-CVE/CVE-2022-26900)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26900">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26900">
+
+---
+## CVE-2022-26895 (2022-04-05T20:15:00)
+> Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-24475, CVE-2022-26891, CVE-2022-26894, CVE-2022-26900, CVE-2022-26908, CVE-2022-26909, CVE-2022-26912.
+- [Live-Hack-CVE/CVE-2022-26895](https://github.com/Live-Hack-CVE/CVE-2022-26895)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26895">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26895">
+
+---
+## CVE-2022-26894 (2022-04-05T20:15:00)
+> Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-24475, CVE-2022-26891, CVE-2022-26895, CVE-2022-26900, CVE-2022-26908, CVE-2022-26909, CVE-2022-26912.
+- [Live-Hack-CVE/CVE-2022-26894](https://github.com/Live-Hack-CVE/CVE-2022-26894)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26894">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26894">
+
+---
 ## CVE-2022-26891 (2022-04-05T20:15:00)
 > Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-24475, CVE-2022-26894, CVE-2022-26895, CVE-2022-26900, CVE-2022-26908, CVE-2022-26909, CVE-2022-26912.
 - [Live-Hack-CVE/CVE-2022-26891](https://github.com/Live-Hack-CVE/CVE-2022-26891)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26891">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26891">
@@ -20409,6 +20439,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-24562](https://github.com/Live-Hack-CVE/CVE-2022-24562)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24562">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24562">
 
 ---
+## CVE-2022-24523 (2022-04-05T20:15:00)
+> Microsoft Edge (Chromium-based) Spoofing Vulnerability.
+- [Live-Hack-CVE/CVE-2022-24523](https://github.com/Live-Hack-CVE/CVE-2022-24523)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24523">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24523">
+
+---
 ## CVE-2022-24504 (2022-10-11T19:15:00)
 > Windows Point-to-Point Tunneling Protocol Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-22035, CVE-2022-30198, CVE-2022-33634, CVE-2022-38000, CVE-2022-38047, CVE-2022-41081.
 - [Live-Hack-CVE/CVE-2022-24504](https://github.com/Live-Hack-CVE/CVE-2022-24504)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24504">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24504">
@@ -20447,6 +20482,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-24480 (2022-12-13T19:15:00)
 > Outlook for Android Elevation of Privilege Vulnerability.
 - [Live-Hack-CVE/CVE-2022-24480](https://github.com/Live-Hack-CVE/CVE-2022-24480)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24480">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24480">
+
+---
+## CVE-2022-24475 (2022-04-05T20:15:00)
+> Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-26891, CVE-2022-26894, CVE-2022-26895, CVE-2022-26900, CVE-2022-26908, CVE-2022-26909, CVE-2022-26912.
+- [Live-Hack-CVE/CVE-2022-24475](https://github.com/Live-Hack-CVE/CVE-2022-24475)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24475">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24475">
 
 ---
 ## CVE-2022-24472 (2022-04-15T19:15:00)
@@ -21500,9 +21540,34 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-22577](https://github.com/Live-Hack-CVE/CVE-2022-22577)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22577">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22577">
 
 ---
+## CVE-2022-22536 (2022-02-09T23:15:00)
+> SAP NetWeaver Application Server ABAP, SAP NetWeaver Application Server Java, ABAP Platform, SAP Content Server 7.53 and SAP Web Dispatcher are vulnerable for request smuggling and request concatenation. An unauthenticated attacker can prepend a victim's request with arbitrary data. This way, the attacker can execute functions impersonating the victim or poison intermediary Web caches. A successful attack could result in complete compromise of Confidentiality, Integrity and Availability of the system.
+- [Live-Hack-CVE/CVE-2022-22536](https://github.com/Live-Hack-CVE/CVE-2022-22536)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22536">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22536">
+
+---
+## CVE-2022-22535 (2022-02-09T23:15:00)
+> SAP ERP HCM Portugal - versions 600, 604, 608, does not perform necessary authorization checks for a report that reads the payroll data of employees in a certain area. Since the affected report only reads the payroll information, the attacker can neither modify any information nor cause availability impacts.
+- [Live-Hack-CVE/CVE-2022-22535](https://github.com/Live-Hack-CVE/CVE-2022-22535)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22535">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22535">
+
+---
+## CVE-2022-22534 (2022-02-09T23:15:00)
+> Due to insufficient encoding of user input, SAP NetWeaver allows an unauthenticated attacker to inject code that may expose sensitive data like user ID and password. These endpoints are normally exposed over the network and successful exploitation can partially impact confidentiality of the application.
+- [Live-Hack-CVE/CVE-2022-22534](https://github.com/Live-Hack-CVE/CVE-2022-22534)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22534">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22534">
+
+---
+## CVE-2022-22533 (2022-02-09T23:15:00)
+> Due to improper error handling in SAP NetWeaver Application Server Java - versions KRNL64NUC 7.22, 7.22EXT, 7.49, KRNL64UC, 7.22, 7.22EXT, 7.49, 7.53, KERNEL 7.22, 7.49, 7.53, an attacker could submit multiple HTTP server requests resulting in errors, such that it consumes the memory buffer. This could result in system shutdown rendering the system unavailable.
+- [Live-Hack-CVE/CVE-2022-22533](https://github.com/Live-Hack-CVE/CVE-2022-22533)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22533">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22533">
+
+---
 ## CVE-2022-22532 (2022-02-09T23:15:00)
 > In SAP NetWeaver Application Server Java - versions KRNL64NUC 7.22, 7.22EXT, 7.49, KRNL64UC, 7.22, 7.22EXT, 7.49, 7.53, KERNEL 7.22, 7.49, 7.53, an unauthenticated attacker could submit a crafted HTTP server request which triggers improper shared memory buffer handling. This could allow the malicious payload to be executed and hence execute functions that could be impersonating the victim or even steal the victim's logon session.
 - [Live-Hack-CVE/CVE-2022-22532](https://github.com/Live-Hack-CVE/CVE-2022-22532)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22532">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22532">
+
+---
+## CVE-2022-22528 (2022-02-09T23:15:00)
+> SAP Adaptive Server Enterprise (ASE) - version 16.0, installation makes an entry in the system PATH environment variable in Windows platform which, under certain conditions, allows a Standard User to execute malicious Windows binaries which may lead to privilege escalation on the local system. The issue is with the ASE installer and does not impact other ASE binaries.
+- [Live-Hack-CVE/CVE-2022-22528](https://github.com/Live-Hack-CVE/CVE-2022-22528)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22528">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22528">
 
 ---
 ## CVE-2022-22503 (2022-10-06T18:15:00)

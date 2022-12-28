@@ -898,6 +898,11 @@
 - [Live-Hack-CVE/CVE-2021-42371](https://github.com/Live-Hack-CVE/CVE-2021-42371)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42371">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42371">
 
 ---
+## CVE-2021-42340 (2021-10-14T20:15:00)
+> The fix for bug 63362 present in Apache Tomcat 10.1.0-M1 to 10.1.0-M5, 10.0.0-M1 to 10.0.11, 9.0.40 to 9.0.53 and 8.5.60 to 8.5.71 introduced a memory leak. The object introduced to collect metrics for HTTP upgrade connections was not released for WebSocket connections once the connection was closed. This created a memory leak that, over time, could lead to a denial of service via an OutOfMemoryError.
+- [Live-Hack-CVE/CVE-2021-42340](https://github.com/Live-Hack-CVE/CVE-2021-42340)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42340">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42340">
+
+---
 ## CVE-2021-42327 (2021-10-21T17:15:00)
 > dp_link_settings_write in drivers/gpu/drm/amd/display/amdgpu_dm/amdgpu_dm_debugfs.c in the Linux kernel through 5.14.14 allows a heap-based buffer overflow by an attacker who can write a string to the AMD GPU display drivers debug filesystem. There are no checks on size within parse_write_buffer_into_params when it uses the size of copy_from_user to copy a userspace buffer into a 40-byte heap buffer.
 - [docfate111/CVE-2021-42327](https://github.com/docfate111/CVE-2021-42327)	<img alt="forks" src="https://img.shields.io/github/forks/docfate111/CVE-2021-42327">	<img alt="stars" src="https://img.shields.io/github/stars/docfate111/CVE-2021-42327">
@@ -2022,6 +2027,11 @@
 - [midoxnet/CVE-2021-38647](https://github.com/midoxnet/CVE-2021-38647)	<img alt="forks" src="https://img.shields.io/github/forks/midoxnet/CVE-2021-38647">	<img alt="stars" src="https://img.shields.io/github/stars/midoxnet/CVE-2021-38647">
 
 ---
+## CVE-2021-38542 (2022-01-04T09:15:00)
+> Apache James prior to release 3.6.1 is vulnerable to a buffering attack relying on the use of the STARTTLS command. This can result in Man-in -the-middle command injection attacks, leading potentially to leakage of sensible information.
+- [Live-Hack-CVE/CVE-2021-38542](https://github.com/Live-Hack-CVE/CVE-2021-38542)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38542">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38542">
+
+---
 ## CVE-2021-38509 (2021-12-08T22:15:00)
 > Due to an unusual sequence of attacker-controlled events, a Javascript alert() dialog with arbitrary (although unstyled) contents could be displayed over top an uncontrolled webpage of the attacker's choosing. This vulnerability affects Firefox < 94, Thunderbird < 91.3, and Firefox ESR < 91.3.
 - [Live-Hack-CVE/CVE-2021-38509](https://github.com/Live-Hack-CVE/CVE-2021-38509)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38509">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38509">
@@ -2050,6 +2060,17 @@
 > The iframe sandbox rules were not correctly applied to XSLT stylesheets, allowing an iframe to bypass restrictions such as executing scripts or navigating the top-level frame. This vulnerability affects Firefox < 94, Thunderbird < 91.3, and Firefox ESR < 91.3.
 - [Live-Hack-CVE/CVE-2021-38503](https://github.com/Live-Hack-CVE/CVE-2021-38503)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38503">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38503">
 - [Live-Hack-CVE/CVE-2021-38503](https://github.com/Live-Hack-CVE/CVE-2021-38503)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38503">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38503">
+
+---
+## CVE-2021-3850 (2022-01-25T15:15:00)
+> Authentication Bypass by Primary Weakness in GitHub repository adodb/adodb prior to 5.20.21.
+- [Live-Hack-CVE/CVE-2021-3850](https://github.com/Live-Hack-CVE/CVE-2021-3850)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3850">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3850">
+- [Live-Hack-CVE/CVE-2021-38503](https://github.com/Live-Hack-CVE/CVE-2021-38503)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38503">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38503">
+- [Live-Hack-CVE/CVE-2021-38509](https://github.com/Live-Hack-CVE/CVE-2021-38509)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38509">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38509">
+- [Live-Hack-CVE/CVE-2021-38504](https://github.com/Live-Hack-CVE/CVE-2021-38504)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38504">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38504">
+- [Live-Hack-CVE/CVE-2021-38506](https://github.com/Live-Hack-CVE/CVE-2021-38506)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38506">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38506">
+- [Live-Hack-CVE/CVE-2021-38508](https://github.com/Live-Hack-CVE/CVE-2021-38508)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38508">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38508">
+- [Live-Hack-CVE/CVE-2021-38507](https://github.com/Live-Hack-CVE/CVE-2021-38507)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38507">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38507">
 
 ---
 ## CVE-2021-3849 (2022-04-22T21:15:00)
@@ -2123,6 +2144,13 @@
 - [Live-Hack-CVE/CVE-2021-38374](https://github.com/Live-Hack-CVE/CVE-2021-38374)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38374">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38374">
 
 ---
+## CVE-2021-3837 (2022-01-03T15:15:00)
+> openwhyd is vulnerable to Improper Authorization
+- [Live-Hack-CVE/CVE-2021-3837](https://github.com/Live-Hack-CVE/CVE-2021-3837)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3837">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3837">
+- [Live-Hack-CVE/CVE-2021-38374](https://github.com/Live-Hack-CVE/CVE-2021-38374)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38374">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38374">
+- [Live-Hack-CVE/CVE-2021-38370](https://github.com/Live-Hack-CVE/CVE-2021-38370)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38370">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38370">
+
+---
 ## CVE-2021-38314 (2021-09-02T17:15:00)
 > The Gutenberg Template Library & Redux Framework plugin <= 4.2.11 for WordPress registered several AJAX actions available to unauthenticated users in the `includes` function in `redux-core/class-redux-core.php` that were unique to a given site but deterministic and predictable given that they were based on an md5 hash of the site URL with a known salt value of '-redux' and an md5 hash of the previous hash with a known salt value of '-support'. These AJAX actions could be used to retrieve a list of active plugins and their versions, the site's PHP version, and an unsalted md5 hash of site’s `AUTH_KEY` concatenated with the `SECURE_AUTH_KEY`.
 - [c0ff33b34n/CVE-2021-38314](https://github.com/c0ff33b34n/CVE-2021-38314)	<img alt="forks" src="https://img.shields.io/github/forks/c0ff33b34n/CVE-2021-38314">	<img alt="stars" src="https://img.shields.io/github/stars/c0ff33b34n/CVE-2021-38314">
@@ -2163,6 +2191,11 @@
 - [Live-Hack-CVE/CVE-2021-38161](https://github.com/Live-Hack-CVE/CVE-2021-38161)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38161">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38161">
 
 ---
+## CVE-2021-3813 (2022-02-09T15:15:00)
+> Improper Privilege Management in GitHub repository chatwoot/chatwoot prior to v2.2.
+- [Live-Hack-CVE/CVE-2021-3813](https://github.com/Live-Hack-CVE/CVE-2021-3813)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3813">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3813">
+
+---
 ## CVE-2021-3796 (2021-09-15T13:15:00)
 > vim is vulnerable to Use After Free
 - [Live-Hack-CVE/CVE-2021-3796](https://github.com/Live-Hack-CVE/CVE-2021-3796)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3796">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3796">
@@ -2185,6 +2218,11 @@
 > A vulnerability was reported in some Motorola-branded Binatone Hubble Cameras that could allow an attacker with local access to obtain the MQTT credentials that could result in unauthorized access to backend Hubble services.
 - [Live-Hack-CVE/CVE-2021-3787](https://github.com/Live-Hack-CVE/CVE-2021-3787)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3787">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3787">
 - [Live-Hack-CVE/CVE-2021-3787](https://github.com/Live-Hack-CVE/CVE-2021-3787)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3787">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3787">
+
+---
+## CVE-2021-37864 (2022-01-18T17:15:00)
+> Mattermost 6.1 and earlier fails to sufficiently validate permissions while viewing archived channels, which allows authenticated users to view contents of archived channels even when this is denied by system administrators by directly accessing the APIs.
+- [Live-Hack-CVE/CVE-2021-37864](https://github.com/Live-Hack-CVE/CVE-2021-37864)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37864">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37864">
 
 ---
 ## CVE-2021-37823 (2022-11-03T17:15:00)
@@ -2372,8 +2410,14 @@
 - [Live-Hack-CVE/CVE-2021-36782](https://github.com/Live-Hack-CVE/CVE-2021-36782)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36782">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36782">
 
 ---
+## CVE-2021-36776 (2022-04-04T13:15:00)
+> A Improper Access Control vulnerability in SUSE Rancher allows remote attackers impersonate arbitrary users. This issue affects: SUSE Rancher Rancher versions prior to 2.5.10.
+- [Live-Hack-CVE/CVE-2021-36776](https://github.com/Live-Hack-CVE/CVE-2021-36776)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36776">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36776">
+
+---
 ## CVE-2021-36775 (2022-04-04T13:15:00)
 > a Improper Access Control vulnerability in SUSE Rancher allows users to keep privileges that should have been revoked. This issue affects: SUSE Rancher Rancher versions prior to 2.4.18; Rancher versions prior to 2.5.12; Rancher versions prior to 2.6.3.
+- [Live-Hack-CVE/CVE-2021-36775](https://github.com/Live-Hack-CVE/CVE-2021-36775)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36775">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36775">
 - [Live-Hack-CVE/CVE-2021-36775](https://github.com/Live-Hack-CVE/CVE-2021-36775)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36775">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36775">
 
 ---
@@ -2489,6 +2533,11 @@
 ## CVE-2021-3634 (2021-08-31T17:15:00)
 > A flaw has been found in libssh in versions prior to 0.9.6. The SSH protocol keeps track of two shared secrets during the lifetime of the session. One of them is called secret_hash and the other session_id. Initially, both of them are the same, but after key re-exchange, previous session_id is kept and used as an input to new secret_hash. Historically, both of these buffers had shared length variable, which worked as long as these buffers were same. But the key re-exchange operation can also change the key exchange method, which can be based on hash of different size, eventually creating "secret_hash" of different size than the session_id has. This becomes an issue when the session_id memory is zeroed or when it is used again during second key re-exchange.
 - [Live-Hack-CVE/CVE-2021-3634](https://github.com/Live-Hack-CVE/CVE-2021-3634)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3634">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3634">
+
+---
+## CVE-2021-36339 (2022-01-21T21:15:00)
+> The Dell EMC Virtual Appliances before 9.2.2.2 contain undocumented user accounts. A local malicious user may potentially exploit this vulnerability to get privileged access to the virtual appliance.
+- [Live-Hack-CVE/CVE-2021-36339](https://github.com/Live-Hack-CVE/CVE-2021-36339)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36339">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36339">
 
 ---
 ## CVE-2021-36322 (2021-11-20T02:15:00)
@@ -2817,6 +2866,11 @@
 - [fei9747/CVE-2021-3493](https://github.com/fei9747/CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/fei9747/CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/fei9747/CVE-2021-3493">
 
 ---
+## CVE-2021-34865 (2022-01-25T16:15:00)
+> This vulnerability allows network-adjacent attackers to bypass authentication on affected installations of multiple NETGEAR routers. Authentication is not required to exploit this vulnerability. The specific flaw exists within the mini_httpd service, which listens on TCP port 80 by default. The issue results from incorrect string matching logic when accessing protected pages. An attacker can leverage this vulnerability to escalate privileges and execute arbitrary code in the context of root. Was ZDI-CAN-13313.
+- [Live-Hack-CVE/CVE-2021-34865](https://github.com/Live-Hack-CVE/CVE-2021-34865)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34865">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34865">
+
+---
 ## CVE-2021-34864 (2021-10-25T17:15:00)
 > This vulnerability allows local attackers to escalate privileges on affected installations of Parallels Desktop 16.1.3 (49160). An attacker must first obtain the ability to execute low-privileged code on the target guest system in order to exploit this vulnerability. The specific flaw exists within the WinAppHelper component. The issue results from the lack of proper access control. An attacker can leverage this vulnerability to escalate privileges and execute arbitrary code in the context of the hypervisor. Was ZDI-CAN-13543.
 - [Live-Hack-CVE/CVE-2021-34864](https://github.com/Live-Hack-CVE/CVE-2021-34864)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34864">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34864">
@@ -3142,6 +3196,11 @@
 - [Live-Hack-CVE/CVE-2021-33844](https://github.com/Live-Hack-CVE/CVE-2021-33844)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33844">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33844">
 
 ---
+## CVE-2021-33843 (2022-01-21T19:15:00)
+> Fresenius Kabi Agilia SP MC WiFi vD25 and prior has a default configuration page accessible without authentication. An attacker may use this functionality to change the exposed configuration values such as network settings.
+- [Live-Hack-CVE/CVE-2021-33843](https://github.com/Live-Hack-CVE/CVE-2021-33843)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33843">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33843">
+
+---
 ## CVE-2021-33816 (2021-11-10T23:15:00)
 > The website builder module in Dolibarr 13.0.2 allows remote PHP code execution because of an incomplete protection mechanism in which system, exec, and shell_exec are blocked but backticks are not blocked.
 - [Live-Hack-CVE/CVE-2021-33816](https://github.com/Live-Hack-CVE/CVE-2021-33816)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33816">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33816">
@@ -3282,6 +3341,11 @@
 ## CVE-2021-33060 (2022-08-18T20:15:00)
 > Out-of-bounds write in the BIOS firmware for some Intel(R) Processors may allow an authenticated user to potentially enable escalation of privilege via local access.
 - [Live-Hack-CVE/CVE-2021-33060](https://github.com/Live-Hack-CVE/CVE-2021-33060)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33060">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33060">
+
+---
+## CVE-2021-33037 (2021-07-12T15:15:00)
+> Apache Tomcat 10.0.0-M1 to 10.0.6, 9.0.0.M1 to 9.0.46 and 8.5.0 to 8.5.66 did not correctly parse the HTTP transfer-encoding request header in some circumstances leading to the possibility to request smuggling when used with a reverse proxy. Specifically: - Tomcat incorrectly ignored the transfer encoding header if the client declared it would only accept an HTTP/1.0 response; - Tomcat honoured the identify encoding; and - Tomcat did not ensure that, if present, the chunked encoding was the final encoding.
+- [Live-Hack-CVE/CVE-2021-33037](https://github.com/Live-Hack-CVE/CVE-2021-33037)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33037">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33037">
 
 ---
 ## CVE-2021-33036 (2022-06-15T15:15:00)
@@ -3633,6 +3697,16 @@
 ## CVE-2021-30844 (2021-10-19T14:15:00)
 > A logic issue was addressed with improved state management. This issue is fixed in Security Update 2021-005 Catalina, macOS Big Sur 11.6. A remote attacker may be able to leak memory.
 - [Live-Hack-CVE/CVE-2021-30844](https://github.com/Live-Hack-CVE/CVE-2021-30844)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30844">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30844">
+
+---
+## CVE-2021-30640 (2021-07-12T15:15:00)
+> A vulnerability in the JNDI Realm of Apache Tomcat allows an attacker to authenticate using variations of a valid user name and/or to bypass some of the protection provided by the LockOut Realm. This issue affects Apache Tomcat 10.0.0-M1 to 10.0.5; 9.0.0.M1 to 9.0.45; 8.5.0 to 8.5.65.
+- [Live-Hack-CVE/CVE-2021-30640](https://github.com/Live-Hack-CVE/CVE-2021-30640)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30640">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30640">
+
+---
+## CVE-2021-30639 (2021-07-12T15:15:00)
+> A vulnerability in Apache Tomcat allows an attacker to remotely trigger a denial of service. An error introduced as part of a change to improve error handling during non-blocking I/O meant that the error flag associated with the Request object was not reset between requests. This meant that once a non-blocking I/O error occurred, all future requests handled by that request object would fail. Users were able to trigger non-blocking I/O errors, e.g. by dropping a connection, thereby creating the possibility of triggering a DoS. Applications that do not use non-blocking I/O are not exposed to this vulnerability. This issue affects Apache Tomcat 10.0.3 to 10.0.4; 9.0.44; 8.5.64.
+- [Live-Hack-CVE/CVE-2021-30639](https://github.com/Live-Hack-CVE/CVE-2021-30639)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30639">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30639">
 
 ---
 ## CVE-2021-3060 (2021-11-10T17:15:00)
@@ -4286,6 +4360,11 @@
 ## CVE-2021-25340 (2021-03-04T22:15:00)
 > Improper access control vulnerability in Samsung keyboard version prior to SMR Feb-2021 Release 1 allows physically proximate attackers to change in arbitrary settings during Initialization State.
 - [Live-Hack-CVE/CVE-2021-25340](https://github.com/Live-Hack-CVE/CVE-2021-25340)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25340">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25340">
+
+---
+## CVE-2021-25329 (2021-03-01T12:15:00)
+> The fix for CVE-2020-9484 was incomplete. When using Apache Tomcat 10.0.0-M1 to 10.0.0, 9.0.0.M1 to 9.0.41, 8.5.0 to 8.5.61 or 7.0.0. to 7.0.107 with a configuration edge case that was highly unlikely to be used, the Tomcat instance was still vulnerable to CVE-2020-9494. Note that both the previously published prerequisites for CVE-2020-9484 and the previously published mitigations for CVE-2020-9484 also apply to this issue.
+- [Live-Hack-CVE/CVE-2021-25329](https://github.com/Live-Hack-CVE/CVE-2021-25329)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25329">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25329">
 
 ---
 ## CVE-2021-25320 (2021-07-15T09:15:00)
