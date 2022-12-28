@@ -3467,6 +3467,11 @@
 - [Live-Hack-CVE/CVE-2022-43679](https://github.com/Live-Hack-CVE/CVE-2022-43679)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43679">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43679">
 
 ---
+## CVE-2022-43677 (2022-10-24T14:15:00)
+> In free5GC 3.2.1, a malformed NGAP message can crash the AMF and NGAP decoders via an index-out-of-range panic in aper.GetBitString.
+- [Live-Hack-CVE/CVE-2022-43677](https://github.com/Live-Hack-CVE/CVE-2022-43677)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43677">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43677">
+
+---
 ## CVE-2022-43672 (2022-11-12T04:15:00)
 > Zoho ManageEngine Password Manager Pro before 12122, PAM360 before 5711, and Access Manager Plus before 4306 allow SQL Injection (in a different software component relative to CVE-2022-43671.
 - [Live-Hack-CVE/CVE-2022-43672](https://github.com/Live-Hack-CVE/CVE-2022-43672)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43672">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43672">
@@ -5566,6 +5571,11 @@
 - [Live-Hack-CVE/CVE-2022-41988](https://github.com/Live-Hack-CVE/CVE-2022-41988)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41988">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41988">
 
 ---
+## CVE-2022-41986 (2022-10-24T14:15:00)
+> Information disclosure vulnerability in Android App 'IIJ SmartKey' versions prior to 2.1.4 allows an attacker to obtain a one-time password issued by the product under certain conditions.
+- [Live-Hack-CVE/CVE-2022-41986](https://github.com/Live-Hack-CVE/CVE-2022-41986)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41986">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41986">
+
+---
 ## CVE-2022-41983 (2022-10-19T22:15:00)
 > On specific hardware platforms, on BIG-IP versions 16.1.x before 16.1.3.1, 15.1.x before 15.1.7, 14.1.x before 14.1.5.1, and all versions of 13.1.x, while Intel QAT (QuickAssist Technology) and the AES-GCM/CCM cipher is in use, undisclosed conditions can cause BIG-IP to send data unencrypted even with an SSL Profile applied.
 - [Live-Hack-CVE/CVE-2022-41983](https://github.com/Live-Hack-CVE/CVE-2022-41983)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41983">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41983">
@@ -5978,6 +5988,11 @@
 ## CVE-2022-41798 (2022-12-05T04:15:00)
 > Session information easily guessable vulnerability exists in Kyocera Document Solutions MFPs and printers, which may allow a network-adjacent attacker to log in to the product by spoofing a user with guessed session information. Affected products/versions are as follows: TASKalfa 7550ci/6550ci, TASKalfa 5550ci/4550ci/3550ci/3050ci, TASKalfa 255c/205c, TASKalfa 256ci/206ci, ECOSYS M6526cdn/M6526cidn, FS-C2126MFP/C2126MFP+/C2026MFP/C2026MFP+, TASKalfa 8000i/6500i, TASKalfa 5500i/4500i/3500i, TASKalfa 305/255, TASKalfa 306i/256i, LS-3140MFP/3140MFP+/3640MFP, ECOSYS M2535dn, LS-1135MFP/1035MFP, LS-C8650DN/C8600DN, ECOSYS P6026cdn, FS-C5250DN, LS-4300DN/4200DN/2100DN, ECOSYS P4040dn, ECOSYS P2135dn, and FS-1370DN.
 - [Live-Hack-CVE/CVE-2022-41798](https://github.com/Live-Hack-CVE/CVE-2022-41798)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41798">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41798">
+
+---
+## CVE-2022-41797 (2022-10-24T14:15:00)
+> Improper authorization in handler for custom URL scheme vulnerability in Lemon8 App for Android versions prior to 3.3.5 and Lemon8 App for iOS versions prior to 3.3.5 allows a remote attacker to lead a user to access an arbitrary website via the vulnerable App. As a result, the user may become a victim of a phishing attack.
+- [Live-Hack-CVE/CVE-2022-41797](https://github.com/Live-Hack-CVE/CVE-2022-41797)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41797">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41797">
 
 ---
 ## CVE-2022-41794 (2022-12-22T22:15:00)
@@ -7229,6 +7244,11 @@
 - [CentarisCyber/CVE-2022-41040_Mitigation](https://github.com/CentarisCyber/CVE-2022-41040_Mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/CentarisCyber/CVE-2022-41040_Mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/CentarisCyber/CVE-2022-41040_Mitigation">
 - [b3w7/CVE-2022-41082-Scanner](https://github.com/b3w7/CVE-2022-41082-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/b3w7/CVE-2022-41082-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/b3w7/CVE-2022-41082-Scanner">
 - [numanturle/CVE-2022-41040](https://github.com/numanturle/CVE-2022-41040)	<img alt="forks" src="https://img.shields.io/github/forks/numanturle/CVE-2022-41040">	<img alt="stars" src="https://img.shields.io/github/stars/numanturle/CVE-2022-41040">
+
+---
+## CVE-2022-40984 (2022-10-24T14:15:00)
+> Stack-based buffer overflow in WTViewerE series WTViewerE 761941 from 1.31 to 1.61 and WTViewerEfree from 1.01 to 1.52 allows an attacker to cause the product to crash by processing a long file name.
+- [Live-Hack-CVE/CVE-2022-40984](https://github.com/Live-Hack-CVE/CVE-2022-40984)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40984">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40984">
 
 ---
 ## CVE-2022-4098 (2022-12-13T08:15:00)
@@ -9139,6 +9159,11 @@
 - [Live-Hack-CVE/CVE-2022-39315](https://github.com/Live-Hack-CVE/CVE-2022-39315)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39315">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39315">
 
 ---
+## CVE-2022-39314 (2022-10-24T14:15:00)
+> Kirby is a flat-file CMS. In versions prior to 3.5.8.2, 3.6.6.2, 3.7.5.1, and 3.8.1, Kirby is subject to user enumeration due to Improper Restriction of Excessive Authentication Attempts. This vulnerability affects you only if you are using the `code` or `password-reset` auth method with the `auth.methods` option or if you have enabled the `debug` option in production. By using two or more IP addresses and multiple login attempts, valid user accounts will lock, but invalid accounts will not, leading to account enumeration. This issue has been patched in versions 3.5.8.2, 3.6.6.2, 3.7.5.1, and 3.8.1. If you cannot update immediately, you can work around the issue by setting the `auth.methods` option to `password`, which disables the code-based login and password reset forms.
+- [Live-Hack-CVE/CVE-2022-39314](https://github.com/Live-Hack-CVE/CVE-2022-39314)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39314">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39314">
+
+---
 ## CVE-2022-39309 (2022-10-14T20:15:00)
 > GoCD is a continuous delivery server. GoCD helps you automate and streamline the build-test-release cycle for continuous delivery of your product. GoCD versions prior to 21.1.0 leak the symmetric key used to encrypt/decrypt any secure variables/secrets in GoCD configuration to authenticated agents. A malicious/compromised agent may then expose that key from memory, and potentially allow an attacker the ability to decrypt secrets intended for other agents/environments if they also are able to obtain access to encrypted configuration values from the GoCD server. This issue is fixed in GoCD version 21.1.0. There are currently no known workarounds.
 - [Live-Hack-CVE/CVE-2022-39309](https://github.com/Live-Hack-CVE/CVE-2022-39309)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39309">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39309">
@@ -10675,6 +10700,11 @@
 > UPSMON Pro login function has insufficient authentication. An unauthenticated remote attacker can exploit this vulnerability to bypass authentication and get administrator privilege to access, control system or disrupt service.
 - [Live-Hack-CVE/CVE-2022-38119](https://github.com/Live-Hack-CVE/CVE-2022-38119)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38119">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38119">
 - [Live-Hack-CVE/CVE-2022-38119](https://github.com/Live-Hack-CVE/CVE-2022-38119)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38119">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38119">
+
+---
+## CVE-2022-38117 (2022-10-24T14:15:00)
+> Juiker app hard-coded its AES key in the source code. A physical attacker, after getting the Android root privilege, can use the AES key to decrypt users’ ciphertext and tamper with it.
+- [Live-Hack-CVE/CVE-2022-38117](https://github.com/Live-Hack-CVE/CVE-2022-38117)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38117">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38117">
 
 ---
 ## CVE-2022-38108 (2022-10-20T21:15:00)
@@ -12311,6 +12341,11 @@
 - [Live-Hack-CVE/CVE-2022-36768](https://github.com/Live-Hack-CVE/CVE-2022-36768)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36768">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36768">
 
 ---
+## CVE-2022-3676 (2022-10-24T14:15:00)
+> In Eclipse Openj9 before version 0.35.0, interface calls can be inlined without a runtime type check. Malicious bytecode could make use of this inlining to access or modify memory via an incompatible type.
+- [Live-Hack-CVE/CVE-2022-3676](https://github.com/Live-Hack-CVE/CVE-2022-3676)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3676">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3676">
+
+---
 ## CVE-2022-36747 (2022-08-30T22:15:00)
 > Razor v0.8.0 was discovered to contain a cross-site scripting (XSS) vulnerability via the function uploadchannel().
 - [Live-Hack-CVE/CVE-2022-36747](https://github.com/Live-Hack-CVE/CVE-2022-36747)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36747">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36747">
@@ -12855,6 +12890,11 @@
 ## CVE-2022-3637 (2022-10-21T11:15:00)
 > A vulnerability has been found in Linux Kernel and classified as problematic. This vulnerability affects the function jlink_init of the file monitor/jlink.c of the component BlueZ. The manipulation leads to denial of service. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-211936.
 - [Live-Hack-CVE/CVE-2022-3637](https://github.com/Live-Hack-CVE/CVE-2022-3637)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3637">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3637">
+
+---
+## CVE-2022-36368 (2022-10-24T14:15:00)
+> Multiple stored cross-site scripting vulnerabilities in the web user interface of IPFire versions prior to 2.27 allows a remote authenticated attacker with administrative privilege to inject an arbitrary script.
+- [Live-Hack-CVE/CVE-2022-36368](https://github.com/Live-Hack-CVE/CVE-2022-36368)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36368">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36368">
 
 ---
 ## CVE-2022-36365 (2022-09-21T20:15:00)
