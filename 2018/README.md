@@ -316,6 +316,11 @@
 - [afine-com/CVE-2018-25031](https://github.com/afine-com/CVE-2018-25031)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2018-25031">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2018-25031">
 
 ---
+## CVE-2018-21010 (2019-09-05T13:15:00)
+> OpenJPEG before 2.3.1 has a heap buffer overflow in color_apply_icc_profile in bin/common/color.c.
+- [Live-Hack-CVE/CVE-2018-21010](https://github.com/Live-Hack-CVE/CVE-2018-21010)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-21010">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-21010">
+
+---
 ## CVE-2018-20580 (2019-05-03T20:29:00)
 > The WSDL import functionality in SmartBear ReadyAPI 2.5.0 and 2.6.0 allows remote attackers to execute arbitrary Java code via a crafted request parameter in a WSDL file.
 - [gscamelo/CVE-2018-20580](https://github.com/gscamelo/CVE-2018-20580)	<img alt="forks" src="https://img.shields.io/github/forks/gscamelo/CVE-2018-20580">	<img alt="stars" src="https://img.shields.io/github/stars/gscamelo/CVE-2018-20580">

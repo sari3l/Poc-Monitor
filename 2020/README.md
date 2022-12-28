@@ -81,6 +81,16 @@
 - [Live-Hack-CVE/CVE-2020-9402](https://github.com/Live-Hack-CVE/CVE-2020-9402)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9402">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9402">
 
 ---
+## CVE-2020-9383 (2020-02-25T16:15:00)
+> An issue was discovered in the Linux kernel 3.16 through 5.5.6. set_fdc in drivers/block/floppy.c leads to a wait_til_ready out-of-bounds read because the FDC index is not checked for errors before assigning it, aka CID-2e90ca68b0d2.
+- [Live-Hack-CVE/CVE-2020-9383](https://github.com/Live-Hack-CVE/CVE-2020-9383)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9383">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9383">
+
+---
+## CVE-2020-9296 (2020-06-16T14:15:00)
+> Netflix Titus uses Java Bean Validation (JSR 380) custom constraint validators. When building custom constraint violation error messages, different types of interpolation are supported, including Java EL expressions. If an attacker can inject arbitrary data in the error message template being passed to ConstraintValidatorContext.buildConstraintViolationWithTemplate() argument, they will be able to run arbitrary Java code.
+- [Live-Hack-CVE/CVE-2020-9296](https://github.com/Live-Hack-CVE/CVE-2020-9296)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9296">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9296">
+
+---
 ## CVE-2020-9274 (2020-02-26T16:15:00)
 > An issue was discovered in Pure-FTPd 1.0.49. An uninitialized pointer vulnerability has been detected in the diraliases linked list. When the *lookup_alias(const char alias) or print_aliases(void) function is called, they fail to correctly detect the end of the linked list and try to access a non-existent list member. This is related to init_aliases in diraliases.c.
 - [Live-Hack-CVE/CVE-2020-9274](https://github.com/Live-Hack-CVE/CVE-2020-9274)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9274">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9274">
@@ -94,6 +104,11 @@
 ## CVE-2020-9059 (2022-01-10T14:10:00)
 > Z-Wave devices based on Silicon Labs 500 series chipsets using S0 authentication are susceptible to uncontrolled resource consumption leading to battery exhaustion. As an example, the Schlage BE468 version 3.42 door lock is vulnerable and fails open at a low battery level.
 - [Live-Hack-CVE/CVE-2020-9059](https://github.com/Live-Hack-CVE/CVE-2020-9059)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9059">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9059">
+
+---
+## CVE-2020-9048 (2020-10-08T18:15:00)
+> A vulnerability in specified versions of American Dynamics victor Web Client and Software House CCURE Web Client could allow a remote unauthenticated attacker on the network to delete arbitrary files on the system or render the system unusable by conducting a Denial of Service attack.
+- [Live-Hack-CVE/CVE-2020-9048](https://github.com/Live-Hack-CVE/CVE-2020-9048)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9048">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9048">
 
 ---
 ## CVE-2020-9016 (2020-02-16T22:15:00)
@@ -154,6 +169,16 @@
 ## CVE-2020-8555 (2020-06-05T17:15:00)
 > The Kubernetes kube-controller-manager in versions v1.0-1.14, versions prior to v1.15.12, v1.16.9, v1.17.5, and version v1.18.0 are vulnerable to a Server Side Request Forgery (SSRF) that allows certain authorized users to leak up to 500 bytes of arbitrary information from unprotected endpoints within the master's host network (such as link-local or loopback services).
 - [Live-Hack-CVE/CVE-2020-8555](https://github.com/Live-Hack-CVE/CVE-2020-8555)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8555">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8555">
+
+---
+## CVE-2020-8554 (2021-01-21T17:15:00)
+> Kubernetes API server in all versions allow an attacker who is able to create a ClusterIP service and set the spec.externalIPs field, to intercept traffic to that IP address. Additionally, an attacker who is able to patch the status (which is considered a privileged operation and should not typically be granted to users) of a LoadBalancer service can set the status.loadBalancer.ingress.ip to similar effect.
+- [Live-Hack-CVE/CVE-2020-8554](https://github.com/Live-Hack-CVE/CVE-2020-8554)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8554">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8554">
+- [rancher/externalip-webhook](https://github.com/rancher/externalip-webhook)	<img alt="forks" src="https://img.shields.io/github/forks/rancher/externalip-webhook">	<img alt="stars" src="https://img.shields.io/github/stars/rancher/externalip-webhook">
+- [alebedev87/gatekeeper-cve-2020-8554](https://github.com/alebedev87/gatekeeper-cve-2020-8554)	<img alt="forks" src="https://img.shields.io/github/forks/alebedev87/gatekeeper-cve-2020-8554">	<img alt="stars" src="https://img.shields.io/github/stars/alebedev87/gatekeeper-cve-2020-8554">
+- [jrmurray000/CVE-2020-8554](https://github.com/jrmurray000/CVE-2020-8554)	<img alt="forks" src="https://img.shields.io/github/forks/jrmurray000/CVE-2020-8554">	<img alt="stars" src="https://img.shields.io/github/stars/jrmurray000/CVE-2020-8554">
+- [Dviejopomata/CVE-2020-8554](https://github.com/Dviejopomata/CVE-2020-8554)	<img alt="forks" src="https://img.shields.io/github/forks/Dviejopomata/CVE-2020-8554">	<img alt="stars" src="https://img.shields.io/github/stars/Dviejopomata/CVE-2020-8554">
+- [twistlock/k8s-cve-2020-8554-mitigations](https://github.com/twistlock/k8s-cve-2020-8554-mitigations)	<img alt="forks" src="https://img.shields.io/github/forks/twistlock/k8s-cve-2020-8554-mitigations">	<img alt="stars" src="https://img.shields.io/github/stars/twistlock/k8s-cve-2020-8554-mitigations">
 
 ---
 ## CVE-2020-8515 (2020-02-01T13:15:00)
@@ -998,6 +1023,11 @@
 - [Live-Hack-CVE/CVE-2020-35136](https://github.com/Live-Hack-CVE/CVE-2020-35136)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35136">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35136">
 
 ---
+## CVE-2020-3499 (2020-10-21T19:15:00)
+> A vulnerability in the licensing service of Cisco Firepower Management Center (FMC) Software could allow an unauthenticated, remote attacker to cause a denial of service (DoS) condition.The vulnerability is due to improper handling of system resource values by the affected system. An attacker could exploit this vulnerability by sending malicious requests to the targeted system. A successful exploit could allow the attacker to cause the affected system to become unresponsive, resulting in a DoS condition and preventing the management of dependent devices.
+- [Live-Hack-CVE/CVE-2020-3499](https://github.com/Live-Hack-CVE/CVE-2020-3499)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-3499">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-3499">
+
+---
 ## CVE-2020-29659 (2020-12-09T17:15:00)
 > A buffer overflow in the web server of Flexense DupScout Enterprise 10.0.18 allows a remote anonymous attacker to execute code as SYSTEM by overflowing the sid parameter via a GET /settings&sid= attack.
 - [Live-Hack-CVE/CVE-2020-29659](https://github.com/Live-Hack-CVE/CVE-2020-29659)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-29659">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-29659">
@@ -1409,6 +1439,11 @@
 - [swzhouu/CVE-2020-27368](https://github.com/swzhouu/CVE-2020-27368)	<img alt="forks" src="https://img.shields.io/github/forks/swzhouu/CVE-2020-27368">	<img alt="stars" src="https://img.shields.io/github/stars/swzhouu/CVE-2020-27368">
 
 ---
+## CVE-2020-27350 (2020-12-10T04:15:00)
+> APT had several integer overflows and underflows while parsing .deb packages, aka GHSL-2020-168 GHSL-2020-169, in files apt-pkg/contrib/extracttar.cc, apt-pkg/deb/debfile.cc, and apt-pkg/contrib/arfile.cc. This issue affects: apt 1.2.32ubuntu0 versions prior to 1.2.32ubuntu0.2; 1.6.12ubuntu0 versions prior to 1.6.12ubuntu0.2; 2.0.2ubuntu0 versions prior to 2.0.2ubuntu0.2; 2.1.10ubuntu0 versions prior to 2.1.10ubuntu0.1;
+- [Live-Hack-CVE/CVE-2020-27350](https://github.com/Live-Hack-CVE/CVE-2020-27350)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27350">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27350">
+
+---
 ## CVE-2020-2731 (2020-01-15T17:15:00)
 > Vulnerability in the Core RDBMS component of Oracle Database Server. Supported versions that are affected are 12.1.0.2, 12.2.0.1, 18c and 19c. Easily exploitable vulnerability allows low privileged attacker having Local Logon privilege with logon to the infrastructure where Core RDBMS executes to compromise Core RDBMS. Successful attacks require human interaction from a person other than the attacker. Successful attacks of this vulnerability can result in unauthorized update, insert or delete access to some of Core RDBMS accessible data and unauthorized ability to cause a partial denial of service (partial DOS) of Core RDBMS. CVSS 3.0 Base Score 3.9 (Integrity and Availability impacts). CVSS Vector: (CVSS:3.0/AV:L/AC:L/PR:L/UI:R/S:U/C:N/I:L/A:L).
 - [Live-Hack-CVE/CVE-2020-2731](https://github.com/Live-Hack-CVE/CVE-2020-2731)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2731">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2731">
@@ -1560,6 +1595,11 @@
 - [Live-Hack-CVE/CVE-2020-26140](https://github.com/Live-Hack-CVE/CVE-2020-26140)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-26140">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-26140">
 
 ---
+## CVE-2020-2604 (2020-01-15T17:15:00)
+> Vulnerability in the Java SE, Java SE Embedded product of Oracle Java SE (component: Serialization). Supported versions that are affected are Java SE: 7u241, 8u231, 11.0.5 and 13.0.1; Java SE Embedded: 8u231. Difficult to exploit vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise Java SE, Java SE Embedded. Successful attacks of this vulnerability can result in takeover of Java SE, Java SE Embedded. Note: This vulnerability applies to Java deployments, typically in clients running sandboxed Java Web Start applications or sandboxed Java applets (in Java SE 8), that load and run untrusted code (e.g., code that comes from the internet) and rely on the Java sandbox for security. This vulnerability can also be exploited by using APIs in the specified Component, e.g., through a web service which supplies data to the APIs. CVSS v3.0 Base Score 8.1 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H).
+- [Live-Hack-CVE/CVE-2020-2604](https://github.com/Live-Hack-CVE/CVE-2020-2604)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2604">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2604">
+
+---
 ## CVE-2020-2592 (2020-01-15T17:15:00)
 > Vulnerability in the Oracle AutoVue product of Oracle Supply Chain (component: Security). The supported version that is affected is 21.0.2. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle AutoVue. Successful attacks of this vulnerability can result in unauthorized read access to a subset of Oracle AutoVue accessible data. CVSS 3.0 Base Score 5.3 (Confidentiality impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N).
 - [Live-Hack-CVE/CVE-2020-2592](https://github.com/Live-Hack-CVE/CVE-2020-2592)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2592">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2592">
@@ -1593,6 +1633,11 @@
 ## CVE-2020-25713 (2021-05-13T15:15:00)
 > A malformed input file can lead to a segfault due to an out of bounds array access in raptor_xml_writer_start_element_common.
 - [Live-Hack-CVE/CVE-2020-25713](https://github.com/Live-Hack-CVE/CVE-2020-25713)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25713">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25713">
+
+---
+## CVE-2020-25708 (2020-11-27T18:15:00)
+> A divide by zero issue was found to occur in libvncserver-0.9.12. A malicious client could use this flaw to send a specially crafted message that, when processed by the VNC server, would lead to a floating point exception, resulting in a denial of service.
+- [Live-Hack-CVE/CVE-2020-25708](https://github.com/Live-Hack-CVE/CVE-2020-25708)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25708">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25708">
 
 ---
 ## CVE-2020-25692 (2020-12-08T01:15:00)
@@ -2169,6 +2214,23 @@
 - [Live-Hack-CVE/CVE-2020-17541](https://github.com/Live-Hack-CVE/CVE-2020-17541)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-17541">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-17541">
 
 ---
+## CVE-2020-1753 (2020-03-16T15:15:00)
+> A security flaw was found in Ansible Engine, all Ansible 2.7.x versions prior to 2.7.17, all Ansible 2.8.x versions prior to 2.8.11 and all Ansible 2.9.x versions prior to 2.9.7, when managing kubernetes using the k8s module. Sensitive parameters such as passwords and tokens are passed to kubectl from the command line, not using an environment variable or an input configuration file. This will disclose passwords and tokens from process list and no_log directive from debug module would not have any effect making these secrets being disclosed on stdout and log files.
+- [Live-Hack-CVE/CVE-2020-1753](https://github.com/Live-Hack-CVE/CVE-2020-1753)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1753">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1753">
+- [Live-Hack-CVE/CVE-2020-17531](https://github.com/Live-Hack-CVE/CVE-2020-17531)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-17531">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-17531">
+- [killmonday/CVE-2020-17530-s2-061](https://github.com/killmonday/CVE-2020-17530-s2-061)	<img alt="forks" src="https://img.shields.io/github/forks/killmonday/CVE-2020-17530-s2-061">	<img alt="stars" src="https://img.shields.io/github/stars/killmonday/CVE-2020-17530-s2-061">
+- [uzzzval/CVE-2020-17530](https://github.com/uzzzval/CVE-2020-17530)	<img alt="forks" src="https://img.shields.io/github/forks/uzzzval/CVE-2020-17530">	<img alt="stars" src="https://img.shields.io/github/stars/uzzzval/CVE-2020-17530">
+- [CyborgSecurity/CVE-2020-17530](https://github.com/CyborgSecurity/CVE-2020-17530)	<img alt="forks" src="https://img.shields.io/github/forks/CyborgSecurity/CVE-2020-17530">	<img alt="stars" src="https://img.shields.io/github/stars/CyborgSecurity/CVE-2020-17530">
+- [Al1ex/CVE-2020-17530](https://github.com/Al1ex/CVE-2020-17530)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/CVE-2020-17530">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/CVE-2020-17530">
+- [wuzuowei/CVE-2020-17530](https://github.com/wuzuowei/CVE-2020-17530)	<img alt="forks" src="https://img.shields.io/github/forks/wuzuowei/CVE-2020-17530">	<img alt="stars" src="https://img.shields.io/github/stars/wuzuowei/CVE-2020-17530">
+- [fengziHK/CVE-2020-17530-strust2-061](https://github.com/fengziHK/CVE-2020-17530-strust2-061)	<img alt="forks" src="https://img.shields.io/github/forks/fengziHK/CVE-2020-17530-strust2-061">	<img alt="stars" src="https://img.shields.io/github/stars/fengziHK/CVE-2020-17530-strust2-061">
+- [ka1n4t/CVE-2020-17530](https://github.com/ka1n4t/CVE-2020-17530)	<img alt="forks" src="https://img.shields.io/github/forks/ka1n4t/CVE-2020-17530">	<img alt="stars" src="https://img.shields.io/github/stars/ka1n4t/CVE-2020-17530">
+- [phil-fly/CVE-2020-17530](https://github.com/phil-fly/CVE-2020-17530)	<img alt="forks" src="https://img.shields.io/github/forks/phil-fly/CVE-2020-17530">	<img alt="stars" src="https://img.shields.io/github/stars/phil-fly/CVE-2020-17530">
+- [154802388/CVE-2020-17531](https://github.com/154802388/CVE-2020-17531)	<img alt="forks" src="https://img.shields.io/github/forks/154802388/CVE-2020-17531">	<img alt="stars" src="https://img.shields.io/github/stars/154802388/CVE-2020-17531">
+- [pangyu360es/CVE-2020-17530](https://github.com/pangyu360es/CVE-2020-17530)	<img alt="forks" src="https://img.shields.io/github/forks/pangyu360es/CVE-2020-17530">	<img alt="stars" src="https://img.shields.io/github/stars/pangyu360es/CVE-2020-17530">
+- [pazeray/CVE-2020-17533](https://github.com/pazeray/CVE-2020-17533)	<img alt="forks" src="https://img.shields.io/github/forks/pazeray/CVE-2020-17533">	<img alt="stars" src="https://img.shields.io/github/stars/pazeray/CVE-2020-17533">
+
+---
 ## CVE-2020-17519 (2021-01-05T12:15:00)
 > A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.
 - [trhacknon/CVE-2020-17519](https://github.com/trhacknon/CVE-2020-17519)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2020-17519">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2020-17519">
@@ -2198,6 +2260,11 @@
 ## CVE-2020-17380 (2021-01-30T06:15:00)
 > A heap-based buffer overflow was found in QEMU through 5.0.0 in the SDHCI device emulation support. It could occur while doing a multi block SDMA transfer via the sdhci_sdma_transfer_multi_blocks() routine in hw/sd/sdhci.c. A guest user or process could use this flaw to crash the QEMU process on the host, resulting in a denial of service condition, or potentially execute arbitrary code with privileges of the QEMU process on the host.
 - [Live-Hack-CVE/CVE-2020-17380](https://github.com/Live-Hack-CVE/CVE-2020-17380)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-17380">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-17380">
+
+---
+## CVE-2020-17368 (2020-08-11T16:15:00)
+> Firejail through 0.9.62 mishandles shell metacharacters during use of the --output or --output-stderr option, which may lead to command injection.
+- [Live-Hack-CVE/CVE-2020-17368](https://github.com/Live-Hack-CVE/CVE-2020-17368)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-17368">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-17368">
 
 ---
 ## CVE-2020-1730 (2020-04-13T19:15:00)
@@ -2507,6 +2574,11 @@
 - [Live-Hack-CVE/CVE-2020-14385](https://github.com/Live-Hack-CVE/CVE-2020-14385)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14385">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14385">
 
 ---
+## CVE-2020-14374 (2020-09-30T20:15:00)
+> A flaw was found in dpdk in versions before 18.11.10 and before 19.11.5. A flawed bounds checking in the copy_data function leads to a buffer overflow allowing an attacker in a virtual machine to write arbitrary data to any address in the vhost_crypto application. The highest threat from this vulnerability is to data confidentiality and integrity as well as system availability.
+- [Live-Hack-CVE/CVE-2020-14374](https://github.com/Live-Hack-CVE/CVE-2020-14374)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14374">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14374">
+
+---
 ## CVE-2020-14367 (2020-08-24T15:15:00)
 > A flaw was found in chrony versions before 3.5.1 when creating the PID file under the /var/run/chrony folder. The file is created during chronyd startup while still running as the root user, and when it's opened for writing, chronyd does not check for an existing symbolic link with the same file name. This flaw allows an attacker with privileged access to create a symlink with the default PID file name pointing to any destination file in the system, resulting in data loss and a denial of service due to the path traversal.
 - [Live-Hack-CVE/CVE-2020-14367](https://github.com/Live-Hack-CVE/CVE-2020-14367)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14367">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14367">
@@ -2576,6 +2648,11 @@
 ## CVE-2020-14043 (2020-08-24T16:15:00)
 > ** PRODUCT NOT SUPPORTED WHEN ASSIGNED ** A Cross Side Request Forgery (CSRF) vulnerability was found in Codiad v1.7.8 and later. The request to download a plugin from the marketplace is only available to admin users and it isn't CSRF protected in components/market/controller.php. This might cause admins to make a vulnerable request without them knowing and result in remote code execution. NOTE: the vendor states "Codiad is no longer under active maintenance by core contributors."
 - [Live-Hack-CVE/CVE-2020-14043](https://github.com/Live-Hack-CVE/CVE-2020-14043)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14043">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14043">
+
+---
+## CVE-2020-14005 (2020-06-24T14:15:00)
+> Solarwinds Orion (with Web Console WPM 2019.4.1, and Orion Platform HF4 or NPM HF2 2019.4) allows remote attackers to execute arbitrary code via a defined event.
+- [Live-Hack-CVE/CVE-2020-14005](https://github.com/Live-Hack-CVE/CVE-2020-14005)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14005">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14005">
 
 ---
 ## CVE-2020-13963 (2021-03-21T21:15:00)
@@ -2686,6 +2763,11 @@
 - [Live-Hack-CVE/CVE-2020-1319](https://github.com/Live-Hack-CVE/CVE-2020-1319)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1319">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1319">
 
 ---
+## CVE-2020-13143 (2020-05-18T18:15:00)
+> gadget_dev_desc_UDC_store in drivers/usb/gadget/configfs.c in the Linux kernel 3.16 through 5.6.13 relies on kstrdup without considering the possibility of an internal '\0' value, which allows attackers to trigger an out-of-bounds read, aka CID-15753588bcd4.
+- [Live-Hack-CVE/CVE-2020-13143](https://github.com/Live-Hack-CVE/CVE-2020-13143)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13143">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13143">
+
+---
 ## CVE-2020-13101 (2020-08-24T08:15:00)
 > In OASIS Digital Signature Services (DSS) 1.0, an attacker can control the validation outcome (i.e., trigger either a valid or invalid outcome for a valid or invalid signature) via a crafted XML signature, when the InlineXML option is used. This defeats the expectation of non-repudiation.
 - [Live-Hack-CVE/CVE-2020-13101](https://github.com/Live-Hack-CVE/CVE-2020-13101)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13101">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13101">
@@ -2785,6 +2867,11 @@
 - [Live-Hack-CVE/CVE-2020-12137](https://github.com/Live-Hack-CVE/CVE-2020-12137)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12137">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12137">
 
 ---
+## CVE-2020-12100 (2020-08-12T16:15:00)
+> In Dovecot before 2.3.11.3, uncontrolled recursion in submission, lmtp, and lda allows remote attackers to cause a denial of service (resource consumption) via a crafted e-mail message with deeply nested MIME parts.
+- [Live-Hack-CVE/CVE-2020-12100](https://github.com/Live-Hack-CVE/CVE-2020-12100)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12100">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12100">
+
+---
 ## CVE-2020-12079 (2020-04-23T04:15:00)
 > Beaker before 0.8.9 allows a sandbox escape, enabling system access and code execution. This occurs because Electron context isolation is not used, and therefore an attacker can conduct a prototype-pollution attack against the Electron internal messaging API.
 - [Live-Hack-CVE/CVE-2020-12079](https://github.com/Live-Hack-CVE/CVE-2020-12079)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12079">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12079">
@@ -2793,6 +2880,11 @@
 ## CVE-2020-12061 (2021-05-21T12:15:00)
 > An issue was discovered in Nitrokey FIDO U2F firmware through 1.1. Communication between the microcontroller and the secure element transmits credentials in plain. This allows an adversary to eavesdrop the communication and derive the secrets stored in the microcontroller. As a result, the attacker is able to arbitrarily manipulate the firmware of the microcontroller.
 - [Live-Hack-CVE/CVE-2020-12061](https://github.com/Live-Hack-CVE/CVE-2020-12061)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12061">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12061">
+
+---
+## CVE-2020-11884 (2020-04-29T13:15:00)
+> In the Linux kernel 4.19 through 5.6.7 on the s390 platform, code execution may occur because of a race condition, as demonstrated by code in enable_sacf_uaccess in arch/s390/lib/uaccess.c that fails to protect against a concurrent page table upgrade, aka CID-3f777e19d171. A crash could also occur.
+- [Live-Hack-CVE/CVE-2020-11884](https://github.com/Live-Hack-CVE/CVE-2020-11884)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-11884">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-11884">
 
 ---
 ## CVE-2020-11858 (2020-10-27T17:15:00)
@@ -2847,6 +2939,11 @@
 - [DanielRuf/snyk-js-jquery-565129](https://github.com/DanielRuf/snyk-js-jquery-565129)	<img alt="forks" src="https://img.shields.io/github/forks/DanielRuf/snyk-js-jquery-565129">	<img alt="stars" src="https://img.shields.io/github/stars/DanielRuf/snyk-js-jquery-565129">
 - [Snorlyd/https-nj.gov---CVE-2020-11022](https://github.com/Snorlyd/https-nj.gov---CVE-2020-11022)	<img alt="forks" src="https://img.shields.io/github/forks/Snorlyd/https-nj.gov---CVE-2020-11022">	<img alt="stars" src="https://img.shields.io/github/stars/Snorlyd/https-nj.gov---CVE-2020-11022">
 - [ossf-cve-benchmark/CVE-2020-11022](https://github.com/ossf-cve-benchmark/CVE-2020-11022)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2020-11022">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2020-11022">
+
+---
+## CVE-2020-11015 (2020-04-30T18:15:00)
+> A vulnerability has been disclosed in thinx-device-api IoT Device Management Server before version 2.5.0. Device MAC address can be spoofed. This means initial registration requests without UDID and spoofed MAC address may pass to create new UDID with same MAC address. Full impact needs to be reviewed further. Applies to all (mostly ESP8266/ESP32) users. This has been fixed in firmware version 2.5.0.
+- [Live-Hack-CVE/CVE-2020-11015](https://github.com/Live-Hack-CVE/CVE-2020-11015)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-11015">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-11015">
 
 ---
 ## CVE-2020-10936 (2020-05-27T18:15:00)

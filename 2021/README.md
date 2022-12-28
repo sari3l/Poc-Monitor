@@ -596,6 +596,11 @@
 - [Live-Hack-CVE/CVE-2021-43403](https://github.com/Live-Hack-CVE/CVE-2021-43403)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43403">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43403">
 
 ---
+## CVE-2021-43362 (2021-11-16T16:15:00)
+> Due to improper sanitization MedData HBYS software suffers from a remote SQL injection vulnerability. An unauthenticated attacker with the web access is able to extract critical information from the system.
+- [Live-Hack-CVE/CVE-2021-43362](https://github.com/Live-Hack-CVE/CVE-2021-43362)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43362">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43362">
+
+---
 ## CVE-2021-43329 (2022-08-25T22:15:00)
 > A SQL injection vulnerability in license_update.php in Mumara Classic through 2.93 allows a remote unauthenticated attacker to execute arbitrary SQL commands via the license parameter.
 - [Live-Hack-CVE/CVE-2021-43329](https://github.com/Live-Hack-CVE/CVE-2021-43329)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43329">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43329">
@@ -4916,6 +4921,11 @@
 - [Live-Hack-CVE/CVE-2021-21707](https://github.com/Live-Hack-CVE/CVE-2021-21707)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21707">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21707">
 
 ---
+## CVE-2021-21703 (2021-10-25T06:15:00)
+> In PHP versions 7.3.x up to and including 7.3.31, 7.4.x below 7.4.25 and 8.0.x below 8.0.12, when running PHP FPM SAPI with main FPM daemon process running as root and child worker processes running as lower-privileged users, it is possible for the child processes to access memory shared with the main process and write to it, modifying it in a way that would cause the root process to conduct invalid memory reads and writes, which can be used to escalate privileges from local unprivileged user to the root user.
+- [Live-Hack-CVE/CVE-2021-21703](https://github.com/Live-Hack-CVE/CVE-2021-21703)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21703">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21703">
+
+---
 ## CVE-2021-21695 (2021-11-04T17:15:00)
 > FilePath#listFiles lists files outside directories that agents are allowed to access when following symbolic links in Jenkins 2.318 and earlier, LTS 2.303.2 and earlier.
 - [Live-Hack-CVE/CVE-2021-21695](https://github.com/Live-Hack-CVE/CVE-2021-21695)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21695">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21695">
@@ -5184,6 +5194,11 @@
 ## CVE-2021-1382 (2021-03-24T20:15:00)
 > A vulnerability in the CLI of Cisco IOS XE SD-WAN Software could allow an authenticated, local attacker to inject arbitrary commands to be executed with root privileges on the underlying operating system. This vulnerability is due to insufficient input validation on certain CLI commands. An attacker could exploit this vulnerability by authenticating to the device and submitting crafted input to the CLI. The attacker must be authenticated as an administrative user to execute the affected commands. A successful exploit could allow the attacker to execute commands with root privileges.
 - [Live-Hack-CVE/CVE-2021-1382](https://github.com/Live-Hack-CVE/CVE-2021-1382)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-1382">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-1382">
+
+---
+## CVE-2021-1357 (2021-01-20T20:15:00)
+> Multiple vulnerabilities in Cisco Unified Communications Manager IM &amp; Presence Service (Unified CM IM&amp;P) could allow an attacker to conduct path traversal attacks and SQL injection attacks on an affected system. One of the SQL injection vulnerabilities that affects Unified CM IM&amp;P also affects Cisco Unified Communications Manager (Unified CM) and Cisco Unified Communications Manager Session Management Edition (Unified CM SME) and could allow an attacker to conduct SQL injection attacks on an affected system. For more information about these vulnerabilities, see the Details section of this advisory.
+- [Live-Hack-CVE/CVE-2021-1357](https://github.com/Live-Hack-CVE/CVE-2021-1357)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-1357">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-1357">
 
 ---
 ## CVE-2021-1352 (2021-03-24T21:15:00)
