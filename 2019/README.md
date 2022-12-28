@@ -136,6 +136,11 @@
 - [Live-Hack-CVE/CVE-2019-7654](https://github.com/Live-Hack-CVE/CVE-2019-7654)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7654">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7654">
 
 ---
+## CVE-2019-7304 (2019-04-23T16:29:00)
+> Canonical snapd before version 2.37.1 incorrectly performed socket owner validation, allowing an attacker to run arbitrary commands as root. This issue affects: Canonical snapd versions prior to 2.37.1.
+- [Live-Hack-CVE/CVE-2019-7304](https://github.com/Live-Hack-CVE/CVE-2019-7304)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7304">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7304">
+
+---
 ## CVE-2019-7281 (2019-07-01T19:15:00)
 > Prima Systems FlexAir, Versions 2.3.38 and prior. An unauthenticated user can send unverified HTTP requests, which may allow the attacker to perform certain actions with administrative privileges if a logged-in user visits a malicious website.
 - [Live-Hack-CVE/CVE-2019-7281](https://github.com/Live-Hack-CVE/CVE-2019-7281)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7281">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7281">
@@ -146,6 +151,36 @@
 - [Live-Hack-CVE/CVE-2019-7280](https://github.com/Live-Hack-CVE/CVE-2019-7280)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7280">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7280">
 
 ---
+## CVE-2019-7232 (2019-06-24T17:15:00)
+> The ABB IDAL HTTP server is vulnerable to a buffer overflow when a long Host header is sent in a web request. The Host header value overflows a buffer and overwrites a Structured Exception Handler (SEH) address. An unauthenticated attacker can submit a Host header value of 2047 bytes or more to overflow the buffer and overwrite the SEH address, which can then be leveraged to execute attacker-controlled code on the server.
+- [Live-Hack-CVE/CVE-2019-7232](https://github.com/Live-Hack-CVE/CVE-2019-7232)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7232">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7232">
+
+---
+## CVE-2019-7231 (2019-06-24T20:15:00)
+> The ABB IDAL FTP server is vulnerable to a buffer overflow when a long string is sent by an authenticated attacker. This overflow is handled, but terminates the process. An authenticated attacker can send a FTP command string of 472 bytes or more to overflow a buffer, causing an exception that terminates the server.
+- [Live-Hack-CVE/CVE-2019-7231](https://github.com/Live-Hack-CVE/CVE-2019-7231)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7231">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7231">
+
+---
+## CVE-2019-7230 (2019-06-24T17:15:00)
+> The ABB IDAL FTP server mishandles format strings in a username during the authentication process. Attempting to authenticate with the username %s%p%x%d will crash the server. Sending %08x.AAAA.%08x.%08x will log memory content from the stack.
+- [Live-Hack-CVE/CVE-2019-7230](https://github.com/Live-Hack-CVE/CVE-2019-7230)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7230">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7230">
+
+---
+## CVE-2019-7228 (2019-06-27T15:15:00)
+> The ABB IDAL HTTP server mishandles format strings in a username or cookie during the authentication process. Attempting to authenticate with the username %25s%25p%25x%25n will crash the server. Sending %08x.AAAA.%08x.%08x will log memory content from the stack.
+- [Live-Hack-CVE/CVE-2019-7228](https://github.com/Live-Hack-CVE/CVE-2019-7228)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7228">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7228">
+
+---
+## CVE-2019-7227 (2019-06-27T16:15:00)
+> In the ABB IDAL FTP server, an authenticated attacker can traverse to arbitrary directories on the hard disk with "CWD ../" and then use the FTP server functionality to download and upload files. An unauthenticated attacker can take advantage of the hardcoded or default credential pair exor/exor to become an authenticated attacker.
+- [Live-Hack-CVE/CVE-2019-7227](https://github.com/Live-Hack-CVE/CVE-2019-7227)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7227">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7227">
+
+---
+## CVE-2019-7226 (2019-06-27T16:15:00)
+> The ABB IDAL HTTP server CGI interface contains a URL that allows an unauthenticated attacker to bypass authentication and gain access to privileged functions. Specifically, /cgi/loginDefaultUser creates a session in an authenticated state and returns the session ID along with what may be the username and cleartext password of the user. An attacker can then supply an IDALToken value in a cookie, which will allow them to perform privileged operations such as restarting the service with /cgi/restart. A GET request to /cgi/loginDefaultUser may result in "1 #S_OK IDALToken=532c8632b86694f0232a68a0897a145c admin admin" or a similar response.
+- [Live-Hack-CVE/CVE-2019-7226](https://github.com/Live-Hack-CVE/CVE-2019-7226)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7226">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7226">
+
+---
 ## CVE-2019-7213 (2019-04-24T15:29:00)
 > SmarterTools SmarterMail 16.x before build 6985 allows directory traversal. An authenticated user could delete arbitrary files or could create files in new folders in arbitrary locations on the mail server. This could lead to command execution on the server for instance by putting files inside the web directories.
 - [secunnix/CVE-2019-7213](https://github.com/secunnix/CVE-2019-7213)	<img alt="forks" src="https://img.shields.io/github/forks/secunnix/CVE-2019-7213">	<img alt="stars" src="https://img.shields.io/github/stars/secunnix/CVE-2019-7213">
@@ -154,6 +189,26 @@
 ## CVE-2019-7061 (2019-05-23T18:29:00)
 > Adobe Acrobat and Reader versions 2019.010.20098 and earlier, 2019.010.20098 and earlier, 2017.011.30127 and earlier version, and 2015.006.30482 and earlier have an out-of-bounds read vulnerability. Successful exploitation could lead to information disclosure .
 - [Live-Hack-CVE/CVE-2019-7061](https://github.com/Live-Hack-CVE/CVE-2019-7061)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7061">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7061">
+
+---
+## CVE-2019-6957 (2019-05-29T19:29:00)
+> A recently discovered security vulnerability affects all Bosch Video Management System (BVMS) versions 9.0 and below, DIVAR IP 2000, 3000, 5000 and 7000, Video Recording Manager (VRM), Video Streaming Gateway (VSG), Configuration Manager, Building Integration System (BIS) with Video Engine, Access Professional Edition (APE), Access Easy Controller (AEC), Bosch Video Client (BVC) and Video SDK (VSDK). The vulnerability potentially allows the unauthorized execution of code in the system via the network interface.
+- [Live-Hack-CVE/CVE-2019-6957](https://github.com/Live-Hack-CVE/CVE-2019-6957)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6957">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6957">
+
+---
+## CVE-2019-6840 (2019-09-17T20:15:00)
+> A Format String: CWE-134 vulnerability exists in U.motion Server (MEG6501-0001 - U.motion KNX server, MEG6501-0002 - U.motion KNX Server Plus, MEG6260-0410 - U.motion KNX Server Plus, Touch 10, MEG6260-0415 - U.motion KNX Server Plus, Touch 15), which could allow an attacker to send a crafted message to the target server, thereby causing arbitrary commands to be executed.
+- [Live-Hack-CVE/CVE-2019-6840](https://github.com/Live-Hack-CVE/CVE-2019-6840)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6840">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6840">
+
+---
+## CVE-2019-6837 (2019-09-17T20:15:00)
+> A Server-Side Request Forgery (SSRF): CWE-918 vulnerability exists in U.motion Server (MEG6501-0001 - U.motion KNX server, MEG6501-0002 - U.motion KNX Server Plus, MEG6260-0410 - U.motion KNX Server Plus, Touch 10, MEG6260-0415 - U.motion KNX Server Plus, Touch 15), which could cause server configuration data to be exposed when an attacker modifies a URL.
+- [Live-Hack-CVE/CVE-2019-6837](https://github.com/Live-Hack-CVE/CVE-2019-6837)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6837">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6837">
+
+---
+## CVE-2019-6835 (2019-09-17T20:15:00)
+> A Cross-Site Scripting (XSS) CWE-79 vulnerability exists in U.motion Server (MEG6501-0001 - U.motion KNX server, MEG6501-0002 - U.motion KNX Server Plus, MEG6260-0410 - U.motion KNX Server Plus, Touch 10, MEG6260-0415 - U.motion KNX Server Plus, Touch 15), which could allow an attacker to inject client-side script when a user visits a web page.
+- [Live-Hack-CVE/CVE-2019-6835](https://github.com/Live-Hack-CVE/CVE-2019-6835)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6835">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6835">
 
 ---
 ## CVE-2019-6832 (2019-09-17T20:15:00)
@@ -191,6 +246,11 @@
 - [Live-Hack-CVE/CVE-2019-6812](https://github.com/Live-Hack-CVE/CVE-2019-6812)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6812">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6812">
 
 ---
+## CVE-2019-6811 (2019-09-17T20:15:00)
+> An Improper Check for Unusual or Exceptional Conditions (CWE-754) vulnerability exists in Modicon Quantum 140 NOE771x1 version 6.9 and earlier, which could cause denial of service when the module receives an IP fragmented packet with a length greater than 65535 bytes. The module then requires a power cycle to recover.
+- [Live-Hack-CVE/CVE-2019-6811](https://github.com/Live-Hack-CVE/CVE-2019-6811)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6811">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6811">
+
+---
 ## CVE-2019-6757 (2019-06-03T19:29:00)
 > This vulnerability allows remote attackers to execute arbitrary code on vulnerable installations of Foxit Reader 9.4.16811. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within ConvertToPDF_x86.dll. The issue results from the lack of validating the existence of an object prior to performing operations on the object. An attacker can leverage this vulnerability to execute code in the context of the current process. Was ZDI-CAN-7696.
 - [Live-Hack-CVE/CVE-2019-6757](https://github.com/Live-Hack-CVE/CVE-2019-6757)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6757">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6757">
@@ -224,6 +284,26 @@
 ## CVE-2019-6706 (2019-01-23T19:29:00)
 > Lua 5.3.5 has a use-after-free in lua_upvaluejoin in lapi.c. For example, a crash outcome might be achieved by an attacker who is able to trigger a debug.upvaluejoin call in which the arguments have certain relationships.
 - [Live-Hack-CVE/CVE-2019-6706](https://github.com/Live-Hack-CVE/CVE-2019-6706)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6706">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6706">
+
+---
+## CVE-2019-6557 (2019-03-05T20:29:00)
+> Several buffer overflow vulnerabilities have been identified in Moxa IKS and EDS, which may allow remote code execution.
+- [Live-Hack-CVE/CVE-2019-6557](https://github.com/Live-Hack-CVE/CVE-2019-6557)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6557">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6557">
+
+---
+## CVE-2019-6548 (2019-05-09T15:29:00)
+> GE Communicator, all versions prior to 4.0.517, contains two backdoor accounts with hardcoded credentials, which may allow control over the database. This service is inaccessible to attackers if Windows default firewall settings are used by the end user.
+- [Live-Hack-CVE/CVE-2019-6548](https://github.com/Live-Hack-CVE/CVE-2019-6548)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6548">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6548">
+
+---
+## CVE-2019-6547 (2019-02-28T21:29:00)
+> Delta Industrial Automation CNCSoft, CNCSoft ScreenEditor Version 1.00.84 and prior. An out-of-bounds read vulnerability may cause the software to crash due to lacking user input validation for processing project files.
+- [Live-Hack-CVE/CVE-2019-6547](https://github.com/Live-Hack-CVE/CVE-2019-6547)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6547">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6547">
+
+---
+## CVE-2019-6546 (2019-05-09T15:29:00)
+> GE Communicator, all versions prior to 4.0.517, allows an attacker to place malicious files within the working directory of the program, which may allow an attacker to manipulate widgets and UI elements.
+- [Live-Hack-CVE/CVE-2019-6546](https://github.com/Live-Hack-CVE/CVE-2019-6546)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6546">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6546">
 
 ---
 ## CVE-2019-6447 (2019-01-16T14:29:00)
@@ -765,9 +845,24 @@
 - [Live-Hack-CVE/CVE-2019-3928](https://github.com/Live-Hack-CVE/CVE-2019-3928)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-3928">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-3928">
 
 ---
+## CVE-2019-3901 (2019-04-22T16:29:00)
+> A race condition in perf_event_open() allows local attackers to leak sensitive data from setuid programs. As no relevant locks (in particular the cred_guard_mutex) are held during the ptrace_may_access() call, it is possible for the specified target task to perform an execve() syscall with setuid execution before perf_event_alloc() actually attaches to it, allowing an attacker to bypass the ptrace_may_access() check and the perf_event_exit_task(current) call that is performed in install_exec_creds() during privileged execve() calls. This issue affects kernel versions before 4.8.
+- [Live-Hack-CVE/CVE-2019-3901](https://github.com/Live-Hack-CVE/CVE-2019-3901)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-3901">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-3901">
+
+---
+## CVE-2019-3893 (2019-04-09T16:29:00)
+> In Foreman it was discovered that the delete compute resource operation, when executed from the Foreman API, leads to the disclosure of the plaintext password or token for the affected compute resource. A malicious user with the "delete_compute_resource" permission can use this flaw to take control over compute resources managed by foreman. Versions before 1.20.3, 1.21.1, 1.22.0 are vulnerable.
+- [Live-Hack-CVE/CVE-2019-3893](https://github.com/Live-Hack-CVE/CVE-2019-3893)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-3893">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-3893">
+
+---
 ## CVE-2019-3886 (2019-04-04T16:29:00)
 > An incorrect permissions check was discovered in libvirt 4.8.0 and above. The readonly permission was allowed to invoke APIs depending on the guest agent, which could lead to potentially disclosing unintended information or denial of service by causing libvirt to block.
 - [Live-Hack-CVE/CVE-2019-3886](https://github.com/Live-Hack-CVE/CVE-2019-3886)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-3886">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-3886">
+
+---
+## CVE-2019-3876 (2019-04-01T15:29:00)
+> A flaw was found in the /oauth/token/request custom endpoint of the OpenShift OAuth server allowing for XSS generation of CLI tokens due to missing X-Frame-Options and CSRF protections. If not otherwise prevented, a separate XSS vulnerability via JavaScript could further allow for the extraction of these tokens.
+- [Live-Hack-CVE/CVE-2019-3876](https://github.com/Live-Hack-CVE/CVE-2019-3876)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-3876">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-3876">
 
 ---
 ## CVE-2019-3865 (2020-06-22T19:15:00)
@@ -1247,6 +1342,16 @@
 - [Live-Hack-CVE/CVE-2019-14907](https://github.com/Live-Hack-CVE/CVE-2019-14907)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14907">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14907">
 
 ---
+## CVE-2019-14842 (2019-11-26T16:15:00)
+> Structured reply is a feature of the newstyle NBD protocol allowing the server to send a reply in chunks. A bounds check which was supposed to test for chunk offsets smaller than the beginning of the request did not work because of signed/unsigned confusion. If one of these chunks contains a negative offset then data under control of the server is written to memory before the read buffer supplied by the client. If the read buffer is located on the stack then this allows the stack return address from nbd_pread() to be trivially modified, allowing arbitrary code execution under the control of the server. If the buffer is located on the heap then other memory objects before the buffer can be overwritten, which again would usually lead to arbitrary code execution.
+- [Live-Hack-CVE/CVE-2019-14842](https://github.com/Live-Hack-CVE/CVE-2019-14842)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14842">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14842">
+
+---
+## CVE-2019-14824 (2019-11-08T15:15:00)
+> A flaw was found in the 'deref' plugin of 389-ds-base where it could use the 'search' permission to display attribute values. In some configurations, this could allow an authenticated attacker to view private attributes, such as password hashes.
+- [Live-Hack-CVE/CVE-2019-14824](https://github.com/Live-Hack-CVE/CVE-2019-14824)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14824">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14824">
+
+---
 ## CVE-2019-14591 (2019-11-14T20:15:00)
 > Improper input validation in the API for Intel(R) Graphics Driver versions before 26.20.100.7209 may allow an authenticated user to potentially enable denial of service via local access.
 - [Live-Hack-CVE/CVE-2019-14591](https://github.com/Live-Hack-CVE/CVE-2019-14591)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14591">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14591">
@@ -1468,6 +1573,11 @@
 - [Live-Hack-CVE/CVE-2019-10433](https://github.com/Live-Hack-CVE/CVE-2019-10433)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10433">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10433">
 
 ---
+## CVE-2019-10222 (2019-11-08T15:15:00)
+> A flaw was found in the Ceph RGW configuration with Beast as the front end handling client requests. An unauthenticated attacker could crash the Ceph RGW server by sending valid HTTP headers and terminating the connection, resulting in a remote denial of service for Ceph RGW clients.
+- [Live-Hack-CVE/CVE-2019-10222](https://github.com/Live-Hack-CVE/CVE-2019-10222)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10222">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10222">
+
+---
 ## CVE-2019-10220 (2019-11-27T16:15:00)
 > Linux kernel CIFS implementation, version 4.9.0 is vulnerable to a relative paths injection in directory entry lists.
 - [nidhi7598/linux-4.1.15_CVE-2019-10220](https://github.com/nidhi7598/linux-4.1.15_CVE-2019-10220)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.1.15_CVE-2019-10220">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.1.15_CVE-2019-10220">
@@ -1476,6 +1586,16 @@
 - [Trinadh465/linux-4.19.72_CVE-2019-10220](https://github.com/Trinadh465/linux-4.19.72_CVE-2019-10220)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux-4.19.72_CVE-2019-10220">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux-4.19.72_CVE-2019-10220">
 - [Trinadh465/linux_3.0.35_CVE-2019-10220](https://github.com/Trinadh465/linux_3.0.35_CVE-2019-10220)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux_3.0.35_CVE-2019-10220">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux_3.0.35_CVE-2019-10220">
 - [Trinadh465/linux-3.0.35_CVE-2019-10220](https://github.com/Trinadh465/linux-3.0.35_CVE-2019-10220)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux-3.0.35_CVE-2019-10220">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux-3.0.35_CVE-2019-10220">
+
+---
+## CVE-2019-10203 (2019-11-22T13:15:00)
+> PowerDNS Authoritative daemon , pdns versions 4.0.x before 4.0.9, 4.1.x before 4.1.11, exiting when encountering a serial between 2^31 and 2^32-1 while trying to notify a slave leads to DoS.
+- [Live-Hack-CVE/CVE-2019-10203](https://github.com/Live-Hack-CVE/CVE-2019-10203)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10203">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10203">
+
+---
+## CVE-2019-10171 (2019-08-02T14:15:00)
+> It was found that the fix for CVE-2018-14648 in 389-ds-base, versions 1.4.0.x before 1.4.0.17, was incorrectly applied in RHEL 7.5. An attacker would still be able to provoke excessive CPU consumption leading to a denial of service.
+- [Live-Hack-CVE/CVE-2019-10171](https://github.com/Live-Hack-CVE/CVE-2019-10171)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10171">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10171">
 
 ---
 ## CVE-2019-1010319 (2019-07-11T20:15:00)

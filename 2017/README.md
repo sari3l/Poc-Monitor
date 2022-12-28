@@ -344,6 +344,11 @@
 - [Davi-afk/jenkins-cve-CVE-2017-2606](https://github.com/Davi-afk/jenkins-cve-CVE-2017-2606)	<img alt="forks" src="https://img.shields.io/github/forks/Davi-afk/jenkins-cve-CVE-2017-2606">	<img alt="stars" src="https://img.shields.io/github/stars/Davi-afk/jenkins-cve-CVE-2017-2606">
 
 ---
+## CVE-2017-2599 (2018-04-11T16:29:00)
+> Jenkins before versions 2.44 and 2.32.2 is vulnerable to an insufficient permission check. This allows users with permissions to create new items (e.g. jobs) to overwrite existing items they don't have access to (SECURITY-321).
+- [Live-Hack-CVE/CVE-2017-2599](https://github.com/Live-Hack-CVE/CVE-2017-2599)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-2599">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-2599">
+
+---
 ## CVE-2017-20135 (2022-07-16T07:15:00)
 > A vulnerability classified as critical was found in Itech Dating Script 3.26. Affected by this vulnerability is an unknown functionality of the file /see_more_details.php. The manipulation of the argument id leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.
 - [Live-Hack-CVE/CVE-2017-20135](https://github.com/Live-Hack-CVE/CVE-2017-20135)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20135">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20135">

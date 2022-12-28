@@ -416,6 +416,11 @@
 - [Live-Hack-CVE/CVE-2018-16877](https://github.com/Live-Hack-CVE/CVE-2018-16877)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-16877">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-16877">
 
 ---
+## CVE-2018-16868 (2018-12-03T14:29:00)
+> A Bleichenbacher type side-channel based padding oracle attack was found in the way gnutls handles verification of RSA decrypted PKCS#1 v1.5 data. An attacker who is able to run process on the same physical core as the victim process, could use this to extract plaintext or in some cases downgrade any TLS connections to a vulnerable server.
+- [Live-Hack-CVE/CVE-2018-16868](https://github.com/Live-Hack-CVE/CVE-2018-16868)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-16868">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-16868">
+
+---
 ## CVE-2018-16858 (2019-03-25T18:29:00)
 > It was found that libreoffice before versions 6.0.7 and 6.1.3 was vulnerable to a directory traversal attack which could be used to execute arbitrary macros bundled with a document. An attacker could craft a document, which when opened by LibreOffice, would execute a Python method from a script in any arbitrary file system location, specified relative to the LibreOffice install location.
 - [bantu2301/CVE-2018-16858](https://github.com/bantu2301/CVE-2018-16858)	<img alt="forks" src="https://img.shields.io/github/forks/bantu2301/CVE-2018-16858">	<img alt="stars" src="https://img.shields.io/github/stars/bantu2301/CVE-2018-16858">
@@ -611,6 +616,11 @@
 - [Kiss-sh0t/CVE-2018-11235-poc](https://github.com/Kiss-sh0t/CVE-2018-11235-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Kiss-sh0t/CVE-2018-11235-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Kiss-sh0t/CVE-2018-11235-poc">
 - [Choihosu/cve-2018-11235](https://github.com/Choihosu/cve-2018-11235)	<img alt="forks" src="https://img.shields.io/github/forks/Choihosu/cve-2018-11235">	<img alt="stars" src="https://img.shields.io/github/stars/Choihosu/cve-2018-11235">
 - [vmotos/CVE-2018-11235](https://github.com/vmotos/CVE-2018-11235)	<img alt="forks" src="https://img.shields.io/github/forks/vmotos/CVE-2018-11235">	<img alt="stars" src="https://img.shields.io/github/stars/vmotos/CVE-2018-11235">
+
+---
+## CVE-2018-1115 (2018-05-10T19:29:00)
+> postgresql before versions 10.4, 9.6.9 is vulnerable in the adminpack extension, the pg_catalog.pg_logfile_rotate() function doesn't follow the same ACLs than pg_rorate_logfile. If the adminpack is added to a database, an attacker able to connect to it could exploit this to force log rotation.
+- [Live-Hack-CVE/CVE-2018-1115](https://github.com/Live-Hack-CVE/CVE-2018-1115)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-1115">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-1115">
 
 ---
 ## CVE-2018-1108 (2018-05-21T21:29:00)

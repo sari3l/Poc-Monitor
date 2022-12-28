@@ -6306,6 +6306,13 @@
 - [whitej3rry/CVE-2022-40916](https://github.com/whitej3rry/CVE-2022-40916)	<img alt="forks" src="https://img.shields.io/github/forks/whitej3rry/CVE-2022-40916">	<img alt="stars" src="https://img.shields.io/github/stars/whitej3rry/CVE-2022-40916">
 
 ---
+## CVE-2022-4091 (2022-11-25T08:15:00)
+> A vulnerability was found in SourceCodester Canteen Management System. It has been classified as problematic. This affects the function query of the file food.php. The manipulation of the argument product_name leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-214359.
+- [Live-Hack-CVE/CVE-2022-4091](https://github.com/Live-Hack-CVE/CVE-2022-4091)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4091">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4091">
+- [Live-Hack-CVE/CVE-2022-40918](https://github.com/Live-Hack-CVE/CVE-2022-40918)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40918">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40918">
+- [whitej3rry/CVE-2022-40916](https://github.com/whitej3rry/CVE-2022-40916)	<img alt="forks" src="https://img.shields.io/github/forks/whitej3rry/CVE-2022-40916">	<img alt="stars" src="https://img.shields.io/github/stars/whitej3rry/CVE-2022-40916">
+
+---
 ## CVE-2022-40899 (2022-12-23T00:15:00)
 > An issue discovered in Python Charmers Future 0.18.2 and earlier allows remote attackers to cause a denial of service via crafted Set-Cookie header from malicious web server.
 - [Live-Hack-CVE/CVE-2022-40899](https://github.com/Live-Hack-CVE/CVE-2022-40899)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40899">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40899">
@@ -9103,6 +9110,11 @@
 - [Live-Hack-CVE/CVE-2022-38171](https://github.com/Live-Hack-CVE/CVE-2022-38171)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38171">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38171">
 
 ---
+## CVE-2022-38166 (2022-11-25T15:15:00)
+> In F-Secure Endpoint Protection for Windows and macOS before channel with Capricorn database 2022-11-22_07, the aerdl.dll unpacker handler crashes. This can lead to a scanning engine crash, triggerable remotely by an attacker for denial of service.
+- [Live-Hack-CVE/CVE-2022-38166](https://github.com/Live-Hack-CVE/CVE-2022-38166)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38166">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38166">
+
+---
 ## CVE-2022-38165 (2022-11-17T23:15:00)
 > Arbitrary file write in F-Secure Policy Manager through 2022-08-10 allows unauthenticated users to write the file with the contents in arbitrary locations on the F-Secure Policy Manager Server.
 - [Live-Hack-CVE/CVE-2022-38165](https://github.com/Live-Hack-CVE/CVE-2022-38165)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38165">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38165">
@@ -11359,6 +11371,11 @@
 ## CVE-2022-36139 (2022-08-16T21:15:00)
 > SWFMill commit 53d7690 was discovered to contain a heap-buffer overflow via SWF::Writer::writeByte(unsigned char).
 - [Live-Hack-CVE/CVE-2022-36139](https://github.com/Live-Hack-CVE/CVE-2022-36139)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36139">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36139">
+
+---
+## CVE-2022-36133 (2022-11-25T06:15:00)
+> The WebConfig functionality of Epson TM-C3500 and TM-C7500 devices with firmware version WAM31500 allows authentication bypass.
+- [Live-Hack-CVE/CVE-2022-36133](https://github.com/Live-Hack-CVE/CVE-2022-36133)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36133">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36133">
 
 ---
 ## CVE-2022-36123 (2022-07-29T14:15:00)
