@@ -13197,6 +13197,7 @@
 ## CVE-2022-3619 (2022-10-20T20:15:00)
 > A vulnerability has been found in Linux Kernel and classified as problematic. This vulnerability affects the function l2cap_recv_acldata of the file net/bluetooth/l2cap_core.c of the component Bluetooth. The manipulation leads to memory leak. It is recommended to apply a patch to fix this issue. VDB-211918 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-3619](https://github.com/Live-Hack-CVE/CVE-2022-3619)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3619">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3619">
+- [Live-Hack-CVE/CVE-2022-36193](https://github.com/Live-Hack-CVE/CVE-2022-36193)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36193">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36193">
 
 ---
 ## CVE-2022-36182 (2022-10-27T13:15:00)
