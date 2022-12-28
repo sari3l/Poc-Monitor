@@ -1840,6 +1840,7 @@
 ## CVE-2020-23583 (2022-11-23T01:15:00)
 > OPTILINK OP-XT71000N V2.2 is vulnerable to Remote Code Execution. The issue occurs when the attacker sends an arbitrary code on "/diag_ping_admin.asp" to "PingTest" interface that leads to COMMAND EXECUTION. An attacker can successfully trigger the COMMAND and can compromise full system.
 - [huzaifahussain98/CVE-2020-23583](https://github.com/huzaifahussain98/CVE-2020-23583)	<img alt="forks" src="https://img.shields.io/github/forks/huzaifahussain98/CVE-2020-23583">	<img alt="stars" src="https://img.shields.io/github/stars/huzaifahussain98/CVE-2020-23583">
+- [Live-Hack-CVE/CVE-2020-23583](https://github.com/Live-Hack-CVE/CVE-2020-23583)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-23583">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-23583">
 
 ---
 ## CVE-2020-23582 (2022-11-21T21:15:00)
