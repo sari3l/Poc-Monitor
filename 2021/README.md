@@ -3683,6 +3683,11 @@
 - [Live-Hack-CVE/CVE-2021-27807](https://github.com/Live-Hack-CVE/CVE-2021-27807)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27807">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27807">
 
 ---
+## CVE-2021-27784 (2022-10-31T22:15:00)
+> The provided HCL Launch Container images contain non-unique HTTPS certificates and a database encryption key. The fix provides directions and tools to replace the non-unique keys and certificates. This does not affect the standard installer packages.
+- [Live-Hack-CVE/CVE-2021-27784](https://github.com/Live-Hack-CVE/CVE-2021-27784)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27784">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27784">
+
+---
 ## CVE-2021-27663 (2021-08-30T18:15:00)
 > A vulnerability in versions 10.1 through 10.5 of Johnson Controls CEM Systems AC2000 allows a remote attacker to access to the system without adequate authorization. This issue affects: Johnson Controls CEM Systems AC2000 10.1; 10.2; 10.3; 10.4; 10.5.
 - [Live-Hack-CVE/CVE-2021-27663](https://github.com/Live-Hack-CVE/CVE-2021-27663)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27663">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27663">

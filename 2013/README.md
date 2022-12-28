@@ -84,6 +84,7 @@
 > The WinVerifyTrust function in Microsoft Windows XP SP2 and SP3, Windows Server 2003 SP2, Windows Vista SP2, Windows Server 2008 SP2 and R2 SP1, Windows 7 SP1, Windows 8, Windows 8.1, Windows Server 2012 Gold and R2, and Windows RT Gold and 8.1 does not properly validate PE file digests during Authenticode signature verification, which allows remote attackers to execute arbitrary code via a crafted PE file, aka "WinVerifyTrust Signature Validation Vulnerability."
 - [snoopopsec/vulnerability-CVE-2013-3900](https://github.com/snoopopsec/vulnerability-CVE-2013-3900)	<img alt="forks" src="https://img.shields.io/github/forks/snoopopsec/vulnerability-CVE-2013-3900">	<img alt="stars" src="https://img.shields.io/github/stars/snoopopsec/vulnerability-CVE-2013-3900">
 - [Live-Hack-CVE/CVE-2013-3900](https://github.com/Live-Hack-CVE/CVE-2013-3900)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-3900">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-3900">
+- [Live-Hack-CVE/CVE-2013-3900](https://github.com/Live-Hack-CVE/CVE-2013-3900)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-3900">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-3900">
 
 ---
 ## CVE-2013-2882 (2013-07-31T13:20:00)
