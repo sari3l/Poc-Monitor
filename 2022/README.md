@@ -5883,6 +5883,21 @@
 - [Live-Hack-CVE/CVE-2022-41684](https://github.com/Live-Hack-CVE/CVE-2022-41684)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41684">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41684">
 
 ---
+## CVE-2022-41668 (2022-11-04T12:15:00)
+> A CWE-704: Incorrect Project Conversion vulnerability exists that allows adversaries with local user privileges to load a project file from an adversary-controlled network share which could result in execution of malicious code. Affected Products: EcoStruxure Operator Terminal Expert(V3.3 Hotfix 1 or prior), Pro-face BLUE(V3.3 Hotfix1 or prior).
+- [Live-Hack-CVE/CVE-2022-41668](https://github.com/Live-Hack-CVE/CVE-2022-41668)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41668">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41668">
+
+---
+## CVE-2022-41667 (2022-11-04T12:15:00)
+> A CWE-22: Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability exists that allows adversaries with local user privileges to load a malicious DLL which could lead to execution of malicious code. Affected Products: EcoStruxure Operator Terminal Expert(V3.3 Hotfix 1 or prior), Pro-face BLUE(V3.3 Hotfix1 or prior).
+- [Live-Hack-CVE/CVE-2022-41667](https://github.com/Live-Hack-CVE/CVE-2022-41667)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41667">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41667">
+
+---
+## CVE-2022-41666 (2022-11-04T05:15:00)
+> A CWE-347: Improper Verification of Cryptographic Signature vulnerability exists that allows adversaries with local user privileges to load a malicious DLL which could lead to execution of malicious code. Affected Products: EcoStruxure Operator Terminal Expert(V3.3 Hotfix 1 or prior), Pro-face BLUE(V3.3 Hotfix1 or prior).
+- [Live-Hack-CVE/CVE-2022-41666](https://github.com/Live-Hack-CVE/CVE-2022-41666)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41666">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41666">
+
+---
 ## CVE-2022-41664 (2022-11-08T11:15:00)
 > A vulnerability has been identified in JT2Go (All versions < V14.1.0.4), Teamcenter Visualization V13.3 (All versions < V13.3.0.7), Teamcenter Visualization V14.0 (All versions < V14.0.0.3), Teamcenter Visualization V14.1 (All versions < V14.1.0.4). The affected application contains a stack-based buffer overflow vulnerability that could be triggered while parsing specially crafted PDF files. This could allow an attacker to execute code in the context of the current process.
 - [Live-Hack-CVE/CVE-2022-41664](https://github.com/Live-Hack-CVE/CVE-2022-41664)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41664">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41664">
@@ -11126,6 +11141,11 @@
 - [AgainstTheLight/CVE-2022-37210](https://github.com/AgainstTheLight/CVE-2022-37210)	<img alt="forks" src="https://img.shields.io/github/forks/AgainstTheLight/CVE-2022-37210">	<img alt="stars" src="https://img.shields.io/github/stars/AgainstTheLight/CVE-2022-37210">
 
 ---
+## CVE-2022-3721 (2022-11-04T13:15:00)
+> Code Injection in GitHub repository froxlor/froxlor prior to 0.10.39.
+- [Live-Hack-CVE/CVE-2022-3721](https://github.com/Live-Hack-CVE/CVE-2022-3721)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3721">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3721">
+
+---
 ## CVE-2022-37209 (2022-09-27T23:15:00)
 > JFinal CMS 5.1.0 is affected by: SQL Injection. These interfaces do not use the same component, nor do they have filters, but each uses its own SQL concatenation method, resulting in SQL injection.
 - [AgainstTheLight/CVE-2022-37209](https://github.com/AgainstTheLight/CVE-2022-37209)	<img alt="forks" src="https://img.shields.io/github/forks/AgainstTheLight/CVE-2022-37209">	<img alt="stars" src="https://img.shields.io/github/stars/AgainstTheLight/CVE-2022-37209">
@@ -14220,6 +14240,26 @@
 - [Live-Hack-CVE/CVE-2022-3418](https://github.com/Live-Hack-CVE/CVE-2022-3418)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3418">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3418">
 
 ---
+## CVE-2022-34173 (2022-06-23T17:15:00)
+> In Jenkins 2.340 through 2.355 (both inclusive) the tooltip of the build button in list views supports HTML without escaping the job display name, resulting in a cross-site scripting (XSS) vulnerability exploitable by attackers with Job/Configure permission.
+- [Live-Hack-CVE/CVE-2022-34173](https://github.com/Live-Hack-CVE/CVE-2022-34173)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34173">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34173">
+
+---
+## CVE-2022-34172 (2022-06-23T17:15:00)
+> In Jenkins 2.340 through 2.355 (both inclusive) symbol-based icons unescape previously escaped values of 'tooltip' parameters, resulting in a cross-site scripting (XSS) vulnerability.
+- [Live-Hack-CVE/CVE-2022-34172](https://github.com/Live-Hack-CVE/CVE-2022-34172)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34172">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34172">
+
+---
+## CVE-2022-34171 (2022-06-23T17:15:00)
+> In Jenkins 2.321 through 2.355 (both inclusive) and LTS 2.332.1 through LTS 2.332.3 (both inclusive) the HTML output generated for new symbol-based SVG icons includes the 'title' attribute of 'l:ionicon' (until Jenkins 2.334) and 'alt' attribute of 'l:icon' (since Jenkins 2.335) without further escaping, resulting in a cross-site scripting (XSS) vulnerability.
+- [Live-Hack-CVE/CVE-2022-34171](https://github.com/Live-Hack-CVE/CVE-2022-34171)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34171">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34171">
+
+---
+## CVE-2022-34170 (2022-06-23T17:15:00)
+> In Jenkins 2.320 through 2.355 (both inclusive) and LTS 2.332.1 through LTS 2.332.3 (both inclusive) the help icon does not escape the feature name that is part of its tooltip, effectively undoing the fix for SECURITY-1955, resulting in a cross-site scripting (XSS) vulnerability exploitable by attackers with Job/Configure permission.
+- [Live-Hack-CVE/CVE-2022-34170](https://github.com/Live-Hack-CVE/CVE-2022-34170)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34170">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34170">
+
+---
 ## CVE-2022-34169 (2022-07-19T18:15:00)
 > The Apache Xalan Java XSLT library is vulnerable to an integer truncation issue when processing malicious XSLT stylesheets. This can be used to corrupt Java class files generated by the internal XSLTC compiler and execute arbitrary Java bytecode. The Apache Xalan Java project is dormant and in the process of being retired. No future releases of Apache Xalan Java to address this issue are expected. Note: Java runtimes (such as OpenJDK) include repackaged copies of Xalan.
 - [bor8/CVE-2022-34169](https://github.com/bor8/CVE-2022-34169)	<img alt="forks" src="https://img.shields.io/github/forks/bor8/CVE-2022-34169">	<img alt="stars" src="https://img.shields.io/github/stars/bor8/CVE-2022-34169">
@@ -15737,6 +15777,21 @@
 - [Live-Hack-CVE/CVE-2022-31625](https://github.com/Live-Hack-CVE/CVE-2022-31625)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31625">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31625">
 
 ---
+## CVE-2022-31624 (2022-05-25T21:15:00)
+> MariaDB Server before 10.7 is vulnerable to Denial of Service. While executing the plugin/server_audit/server_audit.c method log_statement_ex, the held lock lock_bigbuffer is not released correctly, which allows local users to trigger a denial of service due to the deadlock.
+- [Live-Hack-CVE/CVE-2022-31624](https://github.com/Live-Hack-CVE/CVE-2022-31624)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31624">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31624">
+
+---
+## CVE-2022-31622 (2022-05-25T21:15:00)
+> MariaDB Server before 10.7 is vulnerable to Denial of Service. In extra/mariabackup/ds_compress.cc, when an error occurs (pthread_create returns a nonzero value) while executing the method create_worker_threads, the held lock is not released correctly, which allows local users to trigger a denial of service due to the deadlock.
+- [Live-Hack-CVE/CVE-2022-31622](https://github.com/Live-Hack-CVE/CVE-2022-31622)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31622">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31622">
+
+---
+## CVE-2022-31621 (2022-05-25T21:15:00)
+> MariaDB Server before 10.7 is vulnerable to Denial of Service. In extra/mariabackup/ds_xbstream.cc, when an error occurs (stream_ctxt->dest_file == NULL) while executing the method xbstream_open, the held lock is not released correctly, which allows local users to trigger a denial of service due to the deadlock.
+- [Live-Hack-CVE/CVE-2022-31621](https://github.com/Live-Hack-CVE/CVE-2022-31621)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31621">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31621">
+
+---
 ## CVE-2022-31596 (2022-12-12T04:15:00)
 > Under certain conditions, an attacker authenticated as a CMS administrator and with high privileges access to the Network in SAP BusinessObjects Business Intelligence Platform (Monitoring DB) - version 430, can access BOE Monitoring database to retrieve and modify (non-personal) system data which would otherwise be restricted. Also, a potential attack could be used to leave the CMS's scope and impact the database. A successful attack could have a low impact on confidentiality, a high impact on integrity, and a low impact on availability.
 - [Live-Hack-CVE/CVE-2022-31596](https://github.com/Live-Hack-CVE/CVE-2022-31596)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31596">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31596">
@@ -16658,6 +16713,11 @@
 - [Live-Hack-CVE/CVE-2022-30256](https://github.com/Live-Hack-CVE/CVE-2022-30256)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30256">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30256">
 - [Live-Hack-CVE/CVE-2022-30258](https://github.com/Live-Hack-CVE/CVE-2022-30258)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30258">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30258">
 - [Live-Hack-CVE/CVE-2022-30257](https://github.com/Live-Hack-CVE/CVE-2022-30257)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30257">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30257">
+
+---
+## CVE-2022-3023 (2022-11-04T12:15:00)
+> Use of Externally-Controlled Format String in GitHub repository pingcap/tidb prior to 6.4.0, 6.1.3.
+- [Live-Hack-CVE/CVE-2022-3023](https://github.com/Live-Hack-CVE/CVE-2022-3023)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3023">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3023">
 
 ---
 ## CVE-2022-30211 (2022-07-12T23:15:00)
@@ -22118,6 +22178,16 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1941 (2022-09-22T15:15:00)
 > A parsing vulnerability for the MessageSet type in the ProtocolBuffers versions prior to and including 3.16.1, 3.17.3, 3.18.2, 3.19.4, 3.20.1 and 3.21.5 for protobuf-cpp, and versions prior to and including 3.16.1, 3.17.3, 3.18.2, 3.19.4, 3.20.1 and 4.21.5 for protobuf-python can lead to out of memory failures. A specially crafted message with multiple key-value per elements creates parsing issues, and can lead to a Denial of Service against services receiving unsanitized input. We recommend upgrading to versions 3.18.3, 3.19.5, 3.20.2, 3.21.6 for protobuf-cpp and 3.18.3, 3.19.5, 3.20.2, 4.21.6 for protobuf-python. Versions for 3.16 and 3.17 are no longer updated.
 - [Live-Hack-CVE/CVE-2022-1941](https://github.com/Live-Hack-CVE/CVE-2022-1941)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1941">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1941">
+
+---
+## CVE-2022-1938 (2022-07-11T13:15:00)
+> The Awin Data Feed WordPress plugin before 1.8 does not sanitise and escape a header when processing request to generate analytics data, allowing unauthenticated users to perform Stored Cross-Site Scripting attacks against a logged in admin viewing the plugin's settings
+- [Live-Hack-CVE/CVE-2022-1938](https://github.com/Live-Hack-CVE/CVE-2022-1938)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1938">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1938">
+
+---
+## CVE-2022-1937 (2022-07-11T13:15:00)
+> The Awin Data Feed WordPress plugin before 1.8 does not sanitise and escape a parameter before outputting it back via an AJAX action (available to both unauthenticated and authenticated users), leading to a Reflected Cross-Site Scripting
+- [Live-Hack-CVE/CVE-2022-1937](https://github.com/Live-Hack-CVE/CVE-2022-1937)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1937">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1937">
 
 ---
 ## CVE-2022-1927 (2022-05-29T14:15:00)

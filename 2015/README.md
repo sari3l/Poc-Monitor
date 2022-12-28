@@ -6,6 +6,11 @@
 - [Live-Hack-CVE/CVE-2015-8994](https://github.com/Live-Hack-CVE/CVE-2015-8994)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-8994">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-8994">
 
 ---
+## CVE-2015-8873 (2016-05-16T10:59:00)
+> Stack consumption vulnerability in Zend/zend_exceptions.c in PHP before 5.4.44, 5.5.x before 5.5.28, and 5.6.x before 5.6.12 allows remote attackers to cause a denial of service (segmentation fault) via recursive method calls.
+- [Live-Hack-CVE/CVE-2015-8873](https://github.com/Live-Hack-CVE/CVE-2015-8873)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-8873">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-8873">
+
+---
 ## CVE-2015-8562 (2015-12-16T21:59:00)
 > Joomla! 1.5.x, 2.x, and 3.x before 3.4.6 allow remote attackers to conduct PHP object injection attacks and execute arbitrary PHP code via the HTTP User-Agent header, as exploited in the wild in December 2015.
 - [Caihuar/Joomla-cve-2015-8562](https://github.com/Caihuar/Joomla-cve-2015-8562)	<img alt="forks" src="https://img.shields.io/github/forks/Caihuar/Joomla-cve-2015-8562">	<img alt="stars" src="https://img.shields.io/github/stars/Caihuar/Joomla-cve-2015-8562">
@@ -232,6 +237,11 @@
 ## CVE-2015-1421 (2015-03-16T10:59:00)
 > Use-after-free vulnerability in the sctp_assoc_update function in net/sctp/associola.c in the Linux kernel before 3.18.8 allows remote attackers to cause a denial of service (slab corruption and panic) or possibly have unspecified other impact by triggering an INIT collision that leads to improper handling of shared-key data.
 - [Live-Hack-CVE/CVE-2015-1421](https://github.com/Live-Hack-CVE/CVE-2015-1421)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-1421">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-1421">
+
+---
+## CVE-2015-1352 (2015-03-30T10:59:00)
+> The build_tablename function in pgsql.c in the PostgreSQL (aka pgsql) extension in PHP through 5.6.7 does not validate token extraction for table names, which allows remote attackers to cause a denial of service (NULL pointer dereference and application crash) via a crafted name.
+- [Live-Hack-CVE/CVE-2015-1352](https://github.com/Live-Hack-CVE/CVE-2015-1352)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-1352">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-1352">
 
 ---
 ## CVE-2015-1328 (2016-11-28T03:59:00)

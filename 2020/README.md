@@ -1895,9 +1895,24 @@
 - [huzaifahussain98/CVE-2020-23582](https://github.com/huzaifahussain98/CVE-2020-23582)	<img alt="forks" src="https://img.shields.io/github/forks/huzaifahussain98/CVE-2020-23582">	<img alt="stars" src="https://img.shields.io/github/stars/huzaifahussain98/CVE-2020-23582">
 
 ---
+## CVE-2020-23533 (2021-04-06T16:15:00)
+> Union Pay up to 1.2.0, for web based versions contains a CWE-347: Improper Verification of Cryptographic Signature vulnerability, allows attackers to shop for free in merchants' websites and mobile apps, via a crafted authentication code (MAC) which is generated based on a secret key which is NULL.
+- [Live-Hack-CVE/CVE-2020-23533](https://github.com/Live-Hack-CVE/CVE-2020-23533)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-23533">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-23533">
+
+---
 ## CVE-2020-23466 (2022-08-19T02:15:00)
 > Cross Site Scripting (XSS) vulnerability exists in the phpgurukul Online Marriage Registration System 1.0 allows attackers to run arbitrary code via the wzipcode field.
 - [Live-Hack-CVE/CVE-2020-23466](https://github.com/Live-Hack-CVE/CVE-2020-23466)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-23466">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-23466">
+
+---
+## CVE-2020-23050 (2021-10-22T20:15:00)
+> TAO Open Source Assessment Platform v3.3.0 RC02 was discovered to contain a HTML injection vulnerability in the userFirstName parameter of the user account input field. This vulnerability allows attackers to execute phishing attacks, external redirects, and arbitrary code.
+- [Live-Hack-CVE/CVE-2020-23050](https://github.com/Live-Hack-CVE/CVE-2020-23050)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-23050">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-23050">
+
+---
+## CVE-2020-23036 (2021-10-22T20:15:00)
+> MEDIA NAVI Inc SMACom v1.2 was discovered to contain an insecure session validation vulnerability in the session handling of the `password` authentication parameter of the wifi photo transfer module. This vulnerability allows attackers with network access privileges or on public wifi networks to read the authentication credentials and follow-up requests containing the user password via a man in the middle attack.
+- [Live-Hack-CVE/CVE-2020-23036](https://github.com/Live-Hack-CVE/CVE-2020-23036)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-23036">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-23036">
 
 ---
 ## CVE-2020-22864 (2021-10-26T22:15:00)
@@ -2547,6 +2562,11 @@
 - [Live-Hack-CVE/CVE-2020-14043](https://github.com/Live-Hack-CVE/CVE-2020-14043)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14043">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14043">
 
 ---
+## CVE-2020-13963 (2021-03-21T21:15:00)
+> SOPlanning before 1.47 has Incorrect Access Control because certain secret key information, and the related authentication algorithm, is public. The key for admin is hardcoded in the installation code, and there is no key for publicsp (which is a guest account).
+- [Live-Hack-CVE/CVE-2020-13963](https://github.com/Live-Hack-CVE/CVE-2020-13963)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13963">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13963">
+
+---
 ## CVE-2020-13948 (2020-09-17T13:15:00)
 > While investigating a bug report on Apache Superset, it was determined that an authenticated user could craft requests via a number of templated text fields in the product that would allow arbitrary access to Python’s `os` package in the web application process in versions < 0.37.1. It was thus possible for an authenticated user to list and access files, environment variables, and process information. Additionally it was possible to set environment variables for the current process, create and update files in folders writable by the web process, and execute arbitrary programs accessible by the web process. All other operations available to the `os` package in Python were also available, even if not explicitly enumerated in this CVE.
 - [Live-Hack-CVE/CVE-2020-13948](https://github.com/Live-Hack-CVE/CVE-2020-13948)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13948">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13948">
@@ -2613,6 +2633,16 @@
 ## CVE-2020-13497 (2020-12-02T18:15:00)
 > An exploitable vulnerability exists in the way Pixar OpenUSD 20.05 handles parses certain encoded types. A specially crafted malformed file can trigger an arbitrary out of bounds memory access in String Type Index. This vulnerability could be used to bypass mitigations and aid further exploitation. To trigger this vulnerability, the victim needs to access an attacker-provided malformed file.
 - [Live-Hack-CVE/CVE-2020-13497](https://github.com/Live-Hack-CVE/CVE-2020-13497)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13497">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13497">
+
+---
+## CVE-2020-13422 (2021-04-06T21:15:00)
+> OpenIAM before 4.2.0.3 does not verify if a user has permissions to perform /webconsole/rest/api/* administrative actions.
+- [Live-Hack-CVE/CVE-2020-13422](https://github.com/Live-Hack-CVE/CVE-2020-13422)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13422">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13422">
+
+---
+## CVE-2020-13410 (2020-08-26T15:15:00)
+> An issue was discovered in MoscaJS Aedes 0.42.0. lib/write.js does not properly consider exceptions during the writing of an invalid packet to a stream.
+- [Live-Hack-CVE/CVE-2020-13410](https://github.com/Live-Hack-CVE/CVE-2020-13410)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13410">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13410">
 
 ---
 ## CVE-2020-13383 (2020-07-01T15:15:00)

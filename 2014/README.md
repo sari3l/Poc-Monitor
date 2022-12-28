@@ -62,6 +62,11 @@
 - [Live-Hack-CVE/CVE-2014-4049](https://github.com/Live-Hack-CVE/CVE-2014-4049)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-4049">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-4049">
 
 ---
+## CVE-2014-3710 (2014-11-05T11:55:00)
+> The donote function in readelf.c in file through 5.20, as used in the Fileinfo component in PHP 5.4.34, does not ensure that sufficient note headers are present, which allows remote attackers to cause a denial of service (out-of-bounds read and application crash) via a crafted ELF file.
+- [Live-Hack-CVE/CVE-2014-3710](https://github.com/Live-Hack-CVE/CVE-2014-3710)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-3710">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-3710">
+
+---
 ## CVE-2014-3166 (2014-08-13T04:57:00)
 > The Public Key Pinning (PKP) implementation in Google Chrome before 36.0.1985.143 on Windows, OS X, and Linux, and before 36.0.1985.135 on Android, does not correctly consider the properties of SPDY connections, which allows remote attackers to obtain sensitive information by leveraging the use of multiple domain names.
 - [Live-Hack-CVE/CVE-2014-3166](https://github.com/Live-Hack-CVE/CVE-2014-3166)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-3166">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-3166">
