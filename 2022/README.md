@@ -3806,6 +3806,8 @@
 - [adarshpv9746/Text4shell--Automated-exploit---CVE-2022-42889](https://github.com/adarshpv9746/Text4shell--Automated-exploit---CVE-2022-42889)	<img alt="forks" src="https://img.shields.io/github/forks/adarshpv9746/Text4shell--Automated-exploit---CVE-2022-42889">	<img alt="stars" src="https://img.shields.io/github/stars/adarshpv9746/Text4shell--Automated-exploit---CVE-2022-42889">
 - [pwnb0y/Text4shell-exploit](https://github.com/pwnb0y/Text4shell-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/pwnb0y/Text4shell-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/pwnb0y/Text4shell-exploit">
 - [Live-Hack-CVE/CVE-2022-42889](https://github.com/Live-Hack-CVE/CVE-2022-42889)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42889">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42889">
+- [gokul-ramesh/text4shell-exploit](https://github.com/gokul-ramesh/text4shell-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/gokul-ramesh/text4shell-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/gokul-ramesh/text4shell-exploit">
+- [f0ng/text4shellburpscanner](https://github.com/f0ng/text4shellburpscanner)	<img alt="forks" src="https://img.shields.io/github/forks/f0ng/text4shellburpscanner">	<img alt="stars" src="https://img.shields.io/github/stars/f0ng/text4shellburpscanner">
 
 ---
 ## CVE-2022-4287 (2022-12-21T17:15:00)
