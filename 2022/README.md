@@ -17672,6 +17672,7 @@
 > Use after free in Browser Tag in Google Chrome prior to 105.0.5195.52 allowed an attacker who convinced a user to install a malicious extension to potentially exploit heap corruption via a crafted HTML page.
 - [Live-Hack-CVE/CVE-2022-3046](https://github.com/Live-Hack-CVE/CVE-2022-3046)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3046">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3046">
 - [Live-Hack-CVE/CVE-2022-3046](https://github.com/Live-Hack-CVE/CVE-2022-3046)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3046">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3046">
+- [Live-Hack-CVE/CVE-2022-30464](https://github.com/Live-Hack-CVE/CVE-2022-30464)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30464">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30464">
 
 ---
 ## CVE-2022-3045 (2022-09-26T16:15:00)
