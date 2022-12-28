@@ -2157,6 +2157,11 @@
 - [aegistudio/RingBufferDetonator](https://github.com/aegistudio/RingBufferDetonator)	<img alt="forks" src="https://img.shields.io/github/forks/aegistudio/RingBufferDetonator">	<img alt="stars" src="https://img.shields.io/github/stars/aegistudio/RingBufferDetonator">
 
 ---
+## CVE-2021-36783 (2022-09-07T09:15:00)
+> A Insufficiently Protected Credentials vulnerability in SUSE Rancher allows authenticated Cluster Owners, Cluster Members, Project Owners and Project Members to read credentials, passwords and API tokens that have been stored in cleartext and exposed via API endpoints. This issue affects: SUSE Rancher Rancher versions prior to 2.6.4; Rancher versions prior to 2.5.13.
+- [Live-Hack-CVE/CVE-2021-36783](https://github.com/Live-Hack-CVE/CVE-2021-36783)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36783">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36783">
+
+---
 ## CVE-2021-36782 (2022-09-07T09:15:00)
 > A Cleartext Storage of Sensitive Information vulnerability in SUSE Rancher allows authenticated Cluster Owners, Cluster Members, Project Owners, Project Members and User Base to use the Kubernetes API to retrieve plaintext version of sensitive data. This issue affects: SUSE Rancher Rancher versions prior to 2.5.16; Rancher versions prior to 2.6.7.
 - [fe-ax/tf-cve-2021-36782](https://github.com/fe-ax/tf-cve-2021-36782)	<img alt="forks" src="https://img.shields.io/github/forks/fe-ax/tf-cve-2021-36782">	<img alt="stars" src="https://img.shields.io/github/stars/fe-ax/tf-cve-2021-36782">
@@ -3095,6 +3100,11 @@
 > A flaw was found in postgresql in versions before 13.3, before 12.7, before 11.12, before 10.17 and before 9.6.22. While modifying certain SQL array values, missing bounds checks let authenticated database users write arbitrary bytes to a wide area of server memory. The highest threat from this vulnerability is to data confidentiality and integrity as well as system availability.
 - [Live-Hack-CVE/CVE-2021-32027](https://github.com/Live-Hack-CVE/CVE-2021-32027)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32027">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32027">
 - [Live-Hack-CVE/CVE-2021-32027](https://github.com/Live-Hack-CVE/CVE-2021-32027)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32027">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32027">
+
+---
+## CVE-2021-32001 (2021-07-28T10:15:00)
+> K3s in SUSE Rancher allows any user with direct access to the datastore, or a copy of a datastore backup, to extract the cluster's confidential keying material (cluster certificate authority private keys, secrets encryption configuration passphrase, etc.) and decrypt it, without having to know the token value. This issue affects: SUSE Rancher K3s version v1.19.12+k3s1, v1.20.8+k3s1, v1.21.2+k3s1 and prior versions; RKE2 version v1.19.12+rke2r1, v1.20.8+rke2r1, v1.21.2+rke2r1 and prior versions.
+- [Live-Hack-CVE/CVE-2021-32001](https://github.com/Live-Hack-CVE/CVE-2021-32001)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32001">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32001">
 
 ---
 ## CVE-2021-31997 (2021-06-10T12:15:00)

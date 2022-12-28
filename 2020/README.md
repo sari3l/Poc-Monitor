@@ -2604,6 +2604,7 @@
 ## CVE-2020-12888 (2020-05-15T18:15:00)
 > The VFIO PCI driver in the Linux kernel through 5.6.13 mishandles attempts to access disabled memory space.
 - [Live-Hack-CVE/CVE-2020-12888](https://github.com/Live-Hack-CVE/CVE-2020-12888)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12888">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12888">
+- [Live-Hack-CVE/CVE-2020-12888](https://github.com/Live-Hack-CVE/CVE-2020-12888)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12888">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12888">
 
 ---
 ## CVE-2020-12865 (2020-06-24T13:15:00)
@@ -2634,6 +2635,16 @@
 ## CVE-2020-12783 (2020-05-11T14:15:00)
 > Exim through 4.93 has an out-of-bounds read in the SPA authenticator that could result in SPA/NTLM authentication bypass in auths/spa.c and auths/auth-spa.c.
 - [Live-Hack-CVE/CVE-2020-12783](https://github.com/Live-Hack-CVE/CVE-2020-12783)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12783">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12783">
+
+---
+## CVE-2020-12762 (2020-05-09T18:15:00)
+> json-c through 0.14 has an integer overflow and out-of-bounds write via a large JSON file, as demonstrated by printbuf_memappend.
+- [Live-Hack-CVE/CVE-2020-12762](https://github.com/Live-Hack-CVE/CVE-2020-12762)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12762">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12762">
+
+---
+## CVE-2020-12672 (2020-05-06T03:15:00)
+> GraphicsMagick through 1.3.35 has a heap-based buffer overflow in ReadMNGImage in coders/png.c.
+- [Live-Hack-CVE/CVE-2020-12672](https://github.com/Live-Hack-CVE/CVE-2020-12672)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12672">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12672">
 
 ---
 ## CVE-2020-12527 (2021-03-02T22:15:00)
@@ -2702,9 +2713,24 @@
 - [Live-Hack-CVE/CVE-2020-11763](https://github.com/Live-Hack-CVE/CVE-2020-11763)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-11763">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-11763">
 
 ---
+## CVE-2020-11762 (2020-04-14T23:15:00)
+> An issue was discovered in OpenEXR before 2.4.1. There is an out-of-bounds read and write in DwaCompressor::uncompress in ImfDwaCompressor.cpp when handling the UNKNOWN compression case.
+- [Live-Hack-CVE/CVE-2020-11762](https://github.com/Live-Hack-CVE/CVE-2020-11762)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-11762">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-11762">
+
+---
+## CVE-2020-11761 (2020-04-14T23:15:00)
+> An issue was discovered in OpenEXR before 2.4.1. There is an out-of-bounds read during Huffman uncompression, as demonstrated by FastHufDecoder::refill in ImfFastHuf.cpp.
+- [Live-Hack-CVE/CVE-2020-11761](https://github.com/Live-Hack-CVE/CVE-2020-11761)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-11761">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-11761">
+
+---
 ## CVE-2020-11760 (2020-04-14T23:15:00)
 > An issue was discovered in OpenEXR before 2.4.1. There is an out-of-bounds read during RLE uncompression in rleUncompress in ImfRle.cpp.
 - [Live-Hack-CVE/CVE-2020-11760](https://github.com/Live-Hack-CVE/CVE-2020-11760)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-11760">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-11760">
+
+---
+## CVE-2020-11759 (2020-04-14T23:15:00)
+> An issue was discovered in OpenEXR before 2.4.1. Because of integer overflows in CompositeDeepScanLine::Data::handleDeepFrameBuffer and readSampleCountForLineBlock, an attacker can write to an out-of-bounds pointer.
+- [Live-Hack-CVE/CVE-2020-11759](https://github.com/Live-Hack-CVE/CVE-2020-11759)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-11759">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-11759">
 
 ---
 ## CVE-2020-11066 (2020-05-14T00:15:00)

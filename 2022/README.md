@@ -2327,6 +2327,11 @@
 - [Live-Hack-CVE/CVE-2022-44801](https://github.com/Live-Hack-CVE/CVE-2022-44801)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44801">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44801">
 
 ---
+## CVE-2022-44797 (2022-11-07T04:15:00)
+> btcd before 0.23.2, as used in Lightning Labs lnd before 0.15.2-beta and other Bitcoin-related products, mishandles witness size checking.
+- [Live-Hack-CVE/CVE-2022-44797](https://github.com/Live-Hack-CVE/CVE-2022-44797)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44797">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44797">
+
+---
 ## CVE-2022-44796 (2022-11-07T04:15:00)
 > An issue was discovered in Object First 1.0.7.712. The authorization service has a flow that allows getting access to the Web UI without knowing credentials. For signing, the JWT token uses a secret key that is generated through a function that doesn't produce cryptographically strong sequences. An attacker can predict these sequences and generate a JWT token. As a result, an attacker can get access to the Web UI. This is fixed in 1.0.13.1611.
 - [Live-Hack-CVE/CVE-2022-44796](https://github.com/Live-Hack-CVE/CVE-2022-44796)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44796">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44796">
@@ -2585,6 +2590,46 @@
 ## CVE-2022-44562 (2022-11-09T21:15:00)
 > The system framework layer has a vulnerability of serialization/deserialization mismatch. Successful exploitation of this vulnerability may cause privilege escalation.
 - [Live-Hack-CVE/CVE-2022-44562](https://github.com/Live-Hack-CVE/CVE-2022-44562)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44562">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44562">
+
+---
+## CVE-2022-44559 (2022-11-09T21:15:00)
+> The AMS module has a vulnerability of serialization/deserialization mismatch. Successful exploitation of this vulnerability may cause privilege escalation.
+- [Live-Hack-CVE/CVE-2022-44559](https://github.com/Live-Hack-CVE/CVE-2022-44559)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44559">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44559">
+
+---
+## CVE-2022-44558 (2022-11-09T21:15:00)
+> The AMS module has a vulnerability of serialization/deserialization mismatch. Successful exploitation of this vulnerability may cause privilege escalation.
+- [Live-Hack-CVE/CVE-2022-44558](https://github.com/Live-Hack-CVE/CVE-2022-44558)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44558">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44558">
+
+---
+## CVE-2022-44557 (2022-11-09T21:15:00)
+> The SmartTrimProcessEvent module has a vulnerability of obtaining the read and write permissions on arbitrary system files. Successful exploitation of this vulnerability may affect data confidentiality.
+- [Live-Hack-CVE/CVE-2022-44557](https://github.com/Live-Hack-CVE/CVE-2022-44557)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44557">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44557">
+
+---
+## CVE-2022-44555 (2022-11-09T21:15:00)
+> The DDMP/ODMF module has a service hijacking vulnerability. Successful exploit of this vulnerability may cause services to be unavailable.
+- [Live-Hack-CVE/CVE-2022-44555](https://github.com/Live-Hack-CVE/CVE-2022-44555)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44555">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44555">
+
+---
+## CVE-2022-44554 (2022-11-09T21:15:00)
+> The power module has a vulnerability in permission verification. Successful exploitation of this vulnerability may cause abnormal status of a module on the device.
+- [Live-Hack-CVE/CVE-2022-44554](https://github.com/Live-Hack-CVE/CVE-2022-44554)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44554">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44554">
+
+---
+## CVE-2022-44553 (2022-11-09T21:15:00)
+> The HiView module has a vulnerability of not filtering third-party apps out when the HiView module traverses to invoke the system provider. Successful exploitation of this vulnerability may cause third-party apps to start periodically.
+- [Live-Hack-CVE/CVE-2022-44553](https://github.com/Live-Hack-CVE/CVE-2022-44553)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44553">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44553">
+
+---
+## CVE-2022-44552 (2022-11-09T21:15:00)
+> The lock screen module has defects introduced in the design process. Successful exploitation of this vulnerability may affect system availability.
+- [Live-Hack-CVE/CVE-2022-44552](https://github.com/Live-Hack-CVE/CVE-2022-44552)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44552">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44552">
+
+---
+## CVE-2022-44551 (2022-11-09T21:15:00)
+> The iaware module has a vulnerability in thread security. Successful exploitation of this vulnerability will affect confidentiality, integrity, and availability.
+- [Live-Hack-CVE/CVE-2022-44551](https://github.com/Live-Hack-CVE/CVE-2022-44551)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44551">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44551">
 
 ---
 ## CVE-2022-44550 (2022-11-09T21:15:00)
@@ -6498,6 +6543,7 @@
 ## CVE-2022-41102 (2022-11-09T22:15:00)
 > Windows Overlay Filter Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41101.
 - [Live-Hack-CVE/CVE-2022-41102](https://github.com/Live-Hack-CVE/CVE-2022-41102)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41102">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41102">
+- [Live-Hack-CVE/CVE-2022-41102](https://github.com/Live-Hack-CVE/CVE-2022-41102)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41102">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41102">
 
 ---
 ## CVE-2022-41101 (2022-11-09T22:15:00)
@@ -6520,6 +6566,11 @@
 ## CVE-2022-41097 (2022-11-09T22:15:00)
 > Network Policy Server (NPS) RADIUS Protocol Information Disclosure Vulnerability.
 - [Live-Hack-CVE/CVE-2022-41097](https://github.com/Live-Hack-CVE/CVE-2022-41097)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41097">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41097">
+
+---
+## CVE-2022-41085 (2022-11-09T22:15:00)
+> Azure CycleCloud Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2022-41085](https://github.com/Live-Hack-CVE/CVE-2022-41085)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41085">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41085">
 
 ---
 ## CVE-2022-41083 (2022-10-11T19:15:00)
@@ -6605,6 +6656,11 @@
 - [Live-Hack-CVE/CVE-2022-41074](https://github.com/Live-Hack-CVE/CVE-2022-41074)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41074">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41074">
 
 ---
+## CVE-2022-41073 (2022-11-09T22:15:00)
+> Windows Print Spooler Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2022-41073](https://github.com/Live-Hack-CVE/CVE-2022-41073)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41073">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41073">
+
+---
 ## CVE-2022-41066 (2022-11-09T22:15:00)
 > Microsoft Business Central Information Disclosure Vulnerability.
 - [Live-Hack-CVE/CVE-2022-41066](https://github.com/Live-Hack-CVE/CVE-2022-41066)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41066">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41066">
@@ -6613,6 +6669,16 @@
 ## CVE-2022-41064 (2022-11-09T22:15:00)
 > .NET Framework Information Disclosure Vulnerability.
 - [Live-Hack-CVE/CVE-2022-41064](https://github.com/Live-Hack-CVE/CVE-2022-41064)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41064">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41064">
+
+---
+## CVE-2022-41063 (2022-11-09T22:15:00)
+> Microsoft Excel Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-41106.
+- [Live-Hack-CVE/CVE-2022-41063](https://github.com/Live-Hack-CVE/CVE-2022-41063)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41063">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41063">
+
+---
+## CVE-2022-41062 (2022-11-09T22:15:00)
+> Microsoft SharePoint Server Remote Code Execution Vulnerability.
+- [Live-Hack-CVE/CVE-2022-41062](https://github.com/Live-Hack-CVE/CVE-2022-41062)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41062">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41062">
 
 ---
 ## CVE-2022-41061 (2022-11-09T22:15:00)
@@ -8547,6 +8613,11 @@
 ## CVE-2022-39300 (2022-10-13T22:15:00)
 > node SAML is a SAML 2.0 library based on the SAML implementation of passport-saml. A remote attacker may be able to bypass SAML authentication on a website using passport-saml. A successful attack requires that the attacker is in possession of an arbitrary IDP signed XML element. Depending on the IDP used, fully unauthenticated attacks (e.g without access to a valid user) might also be feasible if generation of a signed message can be triggered. Users should upgrade to node-saml version 4.0.0-beta5 or newer. Disabling SAML authentication may be done as a workaround.
 - [Live-Hack-CVE/CVE-2022-39300](https://github.com/Live-Hack-CVE/CVE-2022-39300)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39300">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39300">
+
+---
+## CVE-2022-39299 (2022-10-12T21:15:00)
+> Passport-SAML is a SAML 2.0 authentication provider for Passport, the Node.js authentication library. A remote attacker may be able to bypass SAML authentication on a website using passport-saml. A successful attack requires that the attacker is in possession of an arbitrary IDP signed XML element. Depending on the IDP used, fully unauthenticated attacks (e.g without access to a valid user) might also be feasible if generation of a signed message can be triggered. Users should upgrade to passport-saml version 3.2.2 or newer. The issue was also present in the beta releases of `node-saml` before version 4.0.0-beta.5. If you cannot upgrade, disabling SAML authentication may be done as a workaround.
+- [Live-Hack-CVE/CVE-2022-39299](https://github.com/Live-Hack-CVE/CVE-2022-39299)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39299">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39299">
 
 ---
 ## CVE-2022-39283 (2022-10-12T23:15:00)
@@ -15118,6 +15189,11 @@
 - [Live-Hack-CVE/CVE-2022-32169](https://github.com/Live-Hack-CVE/CVE-2022-32169)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32169">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32169">
 
 ---
+## CVE-2022-32156 (2022-06-15T17:15:00)
+> In Splunk Enterprise and Universal Forwarder versions before 9.0, the Splunk command-line interface (CLI) did not validate TLS certificates while connecting to a remote Splunk platform instance by default. After updating to version 9.0, see Configure TLS host name validation for the Splunk CLI https://docs.splunk.com/Documentation/Splunk/9.0.0/Security/EnableTLSCertHostnameValidation#Configure_TLS_host_name_validation_for_the_Splunk_CLI to enable the remediation. The vulnerability does not affect the Splunk Cloud Platform. At the time of publishing, we have no evidence of exploitation of this vulnerability by external parties. The issue requires conditions beyond the control of a potential bad actor such as a machine-in-the-middle attack. Hence, Splunk rates the complexity of the attack as High.
+- [Live-Hack-CVE/CVE-2022-32156](https://github.com/Live-Hack-CVE/CVE-2022-32156)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32156">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32156">
+
+---
 ## CVE-2022-32148 (2022-08-10T20:15:00)
 > Improper exposure of client IP addresses in net/http before Go 1.17.12 and Go 1.18.4 can be triggered by calling httputil.ReverseProxy.ServeHTTP with a Request.Header map containing a nil value for the X-Forwarded-For header, which causes ReverseProxy to set the client IP as the value of the X-Forwarded-For header.
 - [Live-Hack-CVE/CVE-2022-32148](https://github.com/Live-Hack-CVE/CVE-2022-32148)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32148">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32148">
@@ -16647,6 +16723,11 @@
 ## CVE-2022-29835 (2022-09-19T20:15:00)
 > WD Discovery software executable files were signed with an unsafe SHA-1 hashing algorithm. An attacker could use this weakness to create forged certificate signatures due to the use of a hashing algorithm that is not collision-free. This could thereby impact the confidentiality of user content. This issue affects: Western Digital WD Discovery WD Discovery Desktop App versions prior to 4.4.396 on Mac; WD Discovery Desktop App versions prior to 4.4.396 on Windows.
 - [Live-Hack-CVE/CVE-2022-29835](https://github.com/Live-Hack-CVE/CVE-2022-29835)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29835">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29835">
+
+---
+## CVE-2022-29824 (2022-05-03T03:15:00)
+> In libxml2 before 2.9.14, several buffer handling functions in buf.c (xmlBuf*) and tree.c (xmlBuffer*) don't check for integer overflows. This can result in out-of-bounds memory writes. Exploitation requires a victim to open a crafted, multi-gigabyte XML file. Other software using libxml2's buffer functions, for example libxslt through 1.1.35, is affected as well.
+- [Live-Hack-CVE/CVE-2022-29824](https://github.com/Live-Hack-CVE/CVE-2022-29824)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29824">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29824">
 
 ---
 ## CVE-2022-29810 (2022-04-27T06:15:00)
