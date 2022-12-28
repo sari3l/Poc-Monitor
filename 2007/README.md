@@ -1,6 +1,11 @@
 # 2007 List
 
 ---
+## CVE-2007-6755 (2013-10-11T22:55:00)
+> The NIST SP 800-90A default statement of the Dual Elliptic Curve Deterministic Random Bit Generation (Dual_EC_DRBG) algorithm contains point Q constants with a possible relationship to certain "skeleton key" values, which might allow context-dependent attackers to defeat cryptographic protection mechanisms by leveraging knowledge of those values.  NOTE: this is a preliminary CVE for Dual_EC_DRBG; future research may provide additional details about point Q and associated attacks, and could potentially lead to a RECAST or REJECT of this CVE.
+- [Live-Hack-CVE/CVE-2007-6755](https://github.com/Live-Hack-CVE/CVE-2007-6755)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2007-6755">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2007-6755">
+
+---
 ## CVE-2007-5536 (2007-10-18T00:17:00)
 > Unspecified vulnerability in OpenSSL before A.00.09.07l on HP-UX B.11.11, B.11.23, and B.11.31 allows local users to cause a denial of service via unspecified vectors.
 - [Live-Hack-CVE/CVE-2007-5536](https://github.com/Live-Hack-CVE/CVE-2007-5536)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2007-5536">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2007-5536">

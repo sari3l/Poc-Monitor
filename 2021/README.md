@@ -181,6 +181,7 @@
 ## CVE-2021-45710 (2021-12-27T00:15:00)
 > An issue was discovered in the tokio crate before 1.8.4, and 1.9.x through 1.13.x before 1.13.1, for Rust. In certain circumstances involving a closed oneshot channel, there is a data race and memory corruption.
 - [Live-Hack-CVE/CVE-2021-45710](https://github.com/Live-Hack-CVE/CVE-2021-45710)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45710">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45710">
+- [Live-Hack-CVE/CVE-2021-45710](https://github.com/Live-Hack-CVE/CVE-2021-45710)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45710">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45710">
 
 ---
 ## CVE-2021-45707 (2021-12-27T00:15:00)
@@ -1640,6 +1641,11 @@
 - [Live-Hack-CVE/CVE-2021-40272](https://github.com/Live-Hack-CVE/CVE-2021-40272)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40272">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40272">
 
 ---
+## CVE-2021-40241 (2022-10-31T16:15:00)
+> xfig 3.2.7 is vulnerable to Buffer Overflow.
+- [Live-Hack-CVE/CVE-2021-40241](https://github.com/Live-Hack-CVE/CVE-2021-40241)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40241">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40241">
+
+---
 ## CVE-2021-40226 (2022-11-10T18:15:00)
 > xpdfreader 4.03 is vulnerable to Buffer Overflow.
 - [Live-Hack-CVE/CVE-2021-40226](https://github.com/Live-Hack-CVE/CVE-2021-40226)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40226">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40226">
@@ -2435,6 +2441,7 @@
 ---
 ## CVE-2021-36206 (2022-10-28T02:15:00)
 > All versions of CEVAS prior to 1.01.46 do not sufficiently validate user-controllable input and could allow a user to bypass authentication and retrieve data with specially crafted SQL queries.
+- [Live-Hack-CVE/CVE-2021-36206](https://github.com/Live-Hack-CVE/CVE-2021-36206)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36206">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36206">
 - [Live-Hack-CVE/CVE-2021-36206](https://github.com/Live-Hack-CVE/CVE-2021-36206)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36206">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36206">
 
 ---

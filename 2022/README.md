@@ -3248,6 +3248,21 @@
 - [Live-Hack-CVE/CVE-2022-44038](https://github.com/Live-Hack-CVE/CVE-2022-44038)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44038">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44038">
 
 ---
+## CVE-2022-44034 (2022-10-30T01:15:00)
+> An issue was discovered in the Linux kernel through 6.0.6. drivers/char/pcmcia/scr24x_cs.c has a race condition and resultant use-after-free if a physically proximate attacker removes a PCMCIA device while calling open(), aka a race condition between scr24x_open() and scr24x_remove().
+- [Live-Hack-CVE/CVE-2022-44034](https://github.com/Live-Hack-CVE/CVE-2022-44034)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44034">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44034">
+
+---
+## CVE-2022-44033 (2022-10-30T01:15:00)
+> An issue was discovered in the Linux kernel through 6.0.6. drivers/char/pcmcia/cm4040_cs.c has a race condition and resultant use-after-free if a physically proximate attacker removes a PCMCIA device while calling open(), aka a race condition between cm4040_open() and reader_detach().
+- [Live-Hack-CVE/CVE-2022-44033](https://github.com/Live-Hack-CVE/CVE-2022-44033)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44033">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44033">
+
+---
+## CVE-2022-44032 (2022-10-30T01:15:00)
+> An issue was discovered in the Linux kernel through 6.0.6. drivers/char/pcmcia/cm4000_cs.c has a race condition and resultant use-after-free if a physically proximate attacker removes a PCMCIA device while calling open(), aka a race condition between cmm_open() and cm4000_detach().
+- [Live-Hack-CVE/CVE-2022-44032](https://github.com/Live-Hack-CVE/CVE-2022-44032)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44032">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44032">
+
+---
 ## CVE-2022-44030 (2022-12-06T23:15:00)
 > Redmine 5.x before 5.0.4 allows downloading of file attachments of any Issue or any Wiki page due to insufficient permission checks. Depending on the configuration, this may require login as a registered user.
 - [Live-Hack-CVE/CVE-2022-44030](https://github.com/Live-Hack-CVE/CVE-2022-44030)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44030">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44030">
@@ -5495,6 +5510,11 @@
 - [Live-Hack-CVE/CVE-2022-41999](https://github.com/Live-Hack-CVE/CVE-2022-41999)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41999">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41999">
 
 ---
+## CVE-2022-41996 (2022-10-27T17:15:00)
+> Cross-Site Request Forgery (CSRF) vulnerability in ThemeFusion Avada premium theme versions <= 7.8.1 on WordPress leading to arbitrary plugin installation/activation.
+- [Live-Hack-CVE/CVE-2022-41996](https://github.com/Live-Hack-CVE/CVE-2022-41996)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41996">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41996">
+
+---
 ## CVE-2022-41994 (2022-12-07T04:15:00)
 > Stored cross-site scripting vulnerability in Permission Settings of baserCMS versions prior to 4.7.2 allows a remote authenticated attacker with an administrative privilege to inject an arbitrary script.
 - [Live-Hack-CVE/CVE-2022-41994](https://github.com/Live-Hack-CVE/CVE-2022-41994)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41994">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41994">
@@ -7496,6 +7516,16 @@
 > Improper Input Validation vulnerability for the xdebug plugin in Apache Software Foundation Apache Traffic Server can lead to cross site scripting and cache poisoning attacks.This issue affects Apache Traffic Server: 9.0.0 to 9.1.3. Users should upgrade to 9.1.4 or later versions.
 - [Live-Hack-CVE/CVE-2022-40743](https://github.com/Live-Hack-CVE/CVE-2022-40743)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40743">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40743">
 - [Live-Hack-CVE/CVE-2022-40743](https://github.com/Live-Hack-CVE/CVE-2022-40743)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40743">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40743">
+
+---
+## CVE-2022-40742 (2022-10-31T07:15:00)
+> Mail SQR Expert system has a Local File Inclusion vulnerability. An unauthenticated remote attacker can exploit this vulnerability to execute arbitrary PHP file with .asp file extension under specific system paths, to access and modify partial system information but does not affect service availability.
+- [Live-Hack-CVE/CVE-2022-40742](https://github.com/Live-Hack-CVE/CVE-2022-40742)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40742">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40742">
+
+---
+## CVE-2022-40741 (2022-10-31T07:15:00)
+> Mail SQR Expert’s specific function has insufficient filtering for special characters. An unauthenticated remote attacker can exploit this vulnerability to perform arbitrary system command and disrupt service.
+- [Live-Hack-CVE/CVE-2022-40741](https://github.com/Live-Hack-CVE/CVE-2022-40741)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40741">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40741">
 
 ---
 ## CVE-2022-40735 (2022-11-14T23:15:00)
@@ -10920,8 +10950,19 @@
 - [Live-Hack-CVE/CVE-2022-37919](https://github.com/Live-Hack-CVE/CVE-2022-37919)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37919">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37919">
 
 ---
+## CVE-2022-37915 (2022-10-28T02:15:00)
+> A vulnerability in the web-based management interface of Aruba EdgeConnect Enterprise Orchestrator could allow an unauthenticated remote attacker to run arbitrary commands on the underlying host. Successful exploitation of this vulnerability could allow an attacker to execute arbitrary commands on the underlying operating system leading to a complete system compromise of Aruba EdgeConnect Enterprise Orchestration with versions 9.1.x branch only, Any 9.1.x Orchestrator instantiated as a new machine with a release prior to 9.1.3.40197, Orchestrators upgraded to 9.1.x were not affected.
+- [Live-Hack-CVE/CVE-2022-37915](https://github.com/Live-Hack-CVE/CVE-2022-37915)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37915">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37915">
+
+---
+## CVE-2022-37914 (2022-10-28T02:15:00)
+> Vulnerabilities in the web-based management interface of Aruba EdgeConnect Enterprise Orchestrator could allow an unauthenticated remote attacker to bypass authentication. Successful exploitation of these vulnerabilities could allow an attacker to gain administrative privileges leading to a complete compromise of the Aruba EdgeConnect Enterprise Orchestrator with versions 9.1.2.40051 and below, 9.0.7.40108 and below, 8.10.23.40009 and below, and any older branches of Orchestrator not specifically mentioned.
+- [Live-Hack-CVE/CVE-2022-37914](https://github.com/Live-Hack-CVE/CVE-2022-37914)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37914">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37914">
+
+---
 ## CVE-2022-37913 (2022-10-28T02:15:00)
 > Vulnerabilities in the web-based management interface of Aruba EdgeConnect Enterprise Orchestrator could allow an unauthenticated remote attacker to bypass authentication. Successful exploitation of these vulnerabilities could allow an attacker to gain administrative privileges leading to a complete compromise of the Aruba EdgeConnect Enterprise Orchestrator with versions 9.1.2.40051 and below, 9.0.7.40108 and below, 8.10.23.40009 and below, and any older branches of Orchestrator not specifically mentioned.
+- [Live-Hack-CVE/CVE-2022-37913](https://github.com/Live-Hack-CVE/CVE-2022-37913)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37913">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37913">
 - [Live-Hack-CVE/CVE-2022-37913](https://github.com/Live-Hack-CVE/CVE-2022-37913)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37913">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37913">
 
 ---
@@ -11242,6 +11283,11 @@
 ## CVE-2022-37710 (2022-11-07T00:15:00)
 > Patterson Dental Eaglesoft 21 has AES-256 encryption but there are two ways to obtain a keyfile: (1) keybackup.data > License > Encryption Key or (2) Eaglesoft.Server.Configuration.data > DbEncryptKeyPrimary > Encryption Key. Applicable files are encrypted with keys and salt that are hardcoded into a DLL or EXE file.
 - [Live-Hack-CVE/CVE-2022-37710](https://github.com/Live-Hack-CVE/CVE-2022-37710)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37710">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37710">
+
+---
+## CVE-2022-3771 (2022-10-31T14:15:00)
+> A vulnerability, which was classified as critical, has been found in easyii CMS. This issue affects the function file of the file helpers/Upload.php of the component File Upload Management. The manipulation leads to unrestricted upload. The attack may be initiated remotely. The identifier VDB-212501 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-3771](https://github.com/Live-Hack-CVE/CVE-2022-3771)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3771">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3771">
 
 ---
 ## CVE-2022-37706 (2022-12-25T19:15:00)
@@ -14556,6 +14602,12 @@
 ## CVE-2022-3441 (2022-10-31T16:15:00)
 > The Rock Convert WordPress plugin before 2.11.0 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup)
 - [Live-Hack-CVE/CVE-2022-3441](https://github.com/Live-Hack-CVE/CVE-2022-3441)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3441">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3441">
+- [Live-Hack-CVE/CVE-2022-3441](https://github.com/Live-Hack-CVE/CVE-2022-3441)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3441">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3441">
+
+---
+## CVE-2022-3440 (2022-10-31T16:15:00)
+> The Rock Convert WordPress plugin before 2.11.0 does not sanitise and escape an URL before outputting it back in an attribute when a specific widget is present on a page, leading to a Reflected Cross-Site Scripting
+- [Live-Hack-CVE/CVE-2022-3440](https://github.com/Live-Hack-CVE/CVE-2022-3440)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3440">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3440">
 
 ---
 ## CVE-2022-34361 (2022-12-06T18:15:00)
@@ -14667,8 +14719,14 @@
 - [Live-Hack-CVE/CVE-2022-34218](https://github.com/Live-Hack-CVE/CVE-2022-34218)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34218">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34218">
 
 ---
+## CVE-2022-3420 (2022-10-31T16:15:00)
+> The Official Integration for Billingo WordPress plugin before 3.4.0 does not sanitise and escape some of its settings, which could allow high privilege users with a role as low as Shop Manager to perform Stored Cross-Site Scripting attacks.
+- [Live-Hack-CVE/CVE-2022-3420](https://github.com/Live-Hack-CVE/CVE-2022-3420)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3420">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3420">
+
+---
 ## CVE-2022-3419 (2022-10-31T16:15:00)
 > The Automatic User Roles Switcher WordPress plugin before 1.1.2 does not have authorisation and proper CSRF checks, allowing any authenticated users like subscriber to add any role to themselves, such as administrator
+- [Live-Hack-CVE/CVE-2022-3419](https://github.com/Live-Hack-CVE/CVE-2022-3419)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3419">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3419">
 - [Live-Hack-CVE/CVE-2022-3419](https://github.com/Live-Hack-CVE/CVE-2022-3419)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3419">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3419">
 
 ---
@@ -14923,6 +14981,11 @@
 - [Live-Hack-CVE/CVE-2022-3382](https://github.com/Live-Hack-CVE/CVE-2022-3382)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3382">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3382">
 
 ---
+## CVE-2022-3380 (2022-10-31T16:15:00)
+> The Customizer Export/Import WordPress plugin before 0.9.5 unserializes the content of an imported file, which could lead to PHP object injection issues when an admin imports (intentionally or not) a malicious file and a suitable gadget chain is present on the blog.
+- [Live-Hack-CVE/CVE-2022-3380](https://github.com/Live-Hack-CVE/CVE-2022-3380)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3380">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3380">
+
+---
 ## CVE-2022-33749 (2022-10-11T13:15:00)
 > XAPI open file limit DoS It is possible for an unauthenticated client on the network to cause XAPI to hit its file-descriptor limit. This causes XAPI to be unable to accept new requests for other (trusted) clients, and blocks XAPI from carrying out any tasks that require the opening of file descriptors.
 - [Live-Hack-CVE/CVE-2022-33749](https://github.com/Live-Hack-CVE/CVE-2022-33749)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33749">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33749">
@@ -14998,6 +15061,11 @@
 - [Live-Hack-CVE/CVE-2022-33676](https://github.com/Live-Hack-CVE/CVE-2022-33676)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33676">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33676">
 
 ---
+## CVE-2022-3366 (2022-10-31T16:15:00)
+> The PublishPress Capabilities WordPress plugin before 2.5.2, PublishPress Capabilities Pro WordPress plugin before 2.5.2 unserializes the content of imported files, which could lead to PHP object injection attacks by administrators, on multisite WordPress configurations. Successful exploitation in this case requires other plugins with a suitable gadget chain to be present on the site.
+- [Live-Hack-CVE/CVE-2022-3366](https://github.com/Live-Hack-CVE/CVE-2022-3366)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3366">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3366">
+
+---
 ## CVE-2022-33658 (2022-07-12T23:15:00)
 > Azure Site Recovery Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-30181, CVE-2022-33641, CVE-2022-33642, CVE-2022-33643, CVE-2022-33650, CVE-2022-33651, CVE-2022-33652, CVE-2022-33653, CVE-2022-33654, CVE-2022-33655, CVE-2022-33656, CVE-2022-33657, CVE-2022-33659, CVE-2022-33660, CVE-2022-33661, CVE-2022-33662, CVE-2022-33663, CVE-2022-33664, CVE-2022-33665, CVE-2022-33666, CVE-2022-33667, CVE-2022-33668, CVE-2022-33669, CVE-2022-33671, CVE-2022-33672, CVE-2022-33673, CVE-2022-33674, CVE-2022-33675, CVE-2022-33677.
 - [Live-Hack-CVE/CVE-2022-33658](https://github.com/Live-Hack-CVE/CVE-2022-33658)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33658">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33658">
@@ -15028,10 +15096,21 @@
 - [Live-Hack-CVE/CVE-2022-33634](https://github.com/Live-Hack-CVE/CVE-2022-33634)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33634">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33634">
 
 ---
+## CVE-2022-3363 (2022-10-26T21:15:00)
+> Business Logic Errors in GitHub repository ikus060/rdiffweb prior to 2.5.0a7.
+- [Live-Hack-CVE/CVE-2022-3363](https://github.com/Live-Hack-CVE/CVE-2022-3363)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3363">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3363">
+- [Live-Hack-CVE/CVE-2022-33639](https://github.com/Live-Hack-CVE/CVE-2022-33639)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33639">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33639">
+
+---
 ## CVE-2022-3361 (2022-11-29T21:15:00)
 > The Ultimate Member plugin for WordPress is vulnerable to directory traversal in versions up to, and including 2.5.0 due to insufficient input validation on the 'template' attribute used in shortcodes. This makes it possible for attackers with administrative privileges to supply arbitrary paths using traversal (../../) to access and include files outside of the intended directory. If an attacker can successfully upload a php file then remote code execution via inclusion may also be possible. Note: for users with less than administrative capabilities, /wp-admin access needs to be enabled for that user in order for this to be exploitable by those users.
 - [Live-Hack-CVE/CVE-2022-3361](https://github.com/Live-Hack-CVE/CVE-2022-3361)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3361">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3361">
 - [Live-Hack-CVE/CVE-2022-3361](https://github.com/Live-Hack-CVE/CVE-2022-3361)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3361">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3361">
+
+---
+## CVE-2022-3360 (2022-10-31T16:15:00)
+> The LearnPress WordPress plugin before 4.1.7.2 unserialises user input in a REST API endpoint available to unauthenticated users, which could lead to PHP Object Injection when a suitable gadget is present, leadint to remote code execution (RCE). To successfully exploit this vulnerability attackers must have knowledge of the site secrets, allowing them to generate a valid hash via the wp_hash() function.
+- [Live-Hack-CVE/CVE-2022-3360](https://github.com/Live-Hack-CVE/CVE-2022-3360)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3360">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3360">
 
 ---
 ## CVE-2022-3359 (2022-12-12T18:15:00)
@@ -15072,6 +15151,11 @@
 ## CVE-2022-3335 (2022-10-25T17:15:00)
 > The Kadence WooCommerce Email Designer WordPress plugin before 1.5.7 unserialises the content of an imported file, which could lead to PHP object injections issues when an admin import (intentionally or not) a malicious file and a suitable gadget chain is present on the blog.
 - [Live-Hack-CVE/CVE-2022-3335](https://github.com/Live-Hack-CVE/CVE-2022-3335)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3335">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3335">
+
+---
+## CVE-2022-3334 (2022-10-31T16:15:00)
+> The Easy WP SMTP WordPress plugin before 1.5.0 unserialises the content of an imported file, which could lead to PHP object injection issue when an admin import (intentionally or not) a malicious file and a suitable gadget chain is present on the blog.
+- [Live-Hack-CVE/CVE-2022-3334](https://github.com/Live-Hack-CVE/CVE-2022-3334)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3334">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3334">
 
 ---
 ## CVE-2022-33324 (2022-12-23T03:15:00)
@@ -15795,6 +15879,11 @@
 - [n4rmex/CVE-2022-32548-RCE-POC](https://github.com/n4rmex/CVE-2022-32548-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/n4rmex/CVE-2022-32548-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/n4rmex/CVE-2022-32548-RCE-POC">
 
 ---
+## CVE-2022-3254 (2022-10-31T16:15:00)
+> The WordPress Classifieds Plugin WordPress plugin before 4.3 does not properly sanitise and escape some parameters before using them in a SQL statement via an AJAX action available to unauthenticated users and when a specific premium module is active, leading to a SQL injection
+- [Live-Hack-CVE/CVE-2022-3254](https://github.com/Live-Hack-CVE/CVE-2022-3254)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3254">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3254">
+
+---
 ## CVE-2022-32532 (2022-06-29T00:15:00)
 > Apache Shiro before 1.9.1, A RegexRequestMatcher can be misconfigured to be bypassed on some servlet containers. Applications using RegExPatternMatcher with `.` in the regular expression are possibly vulnerable to an authorization bypass.
 - [4ra1n/CVE-2022-32532](https://github.com/4ra1n/CVE-2022-32532)	<img alt="forks" src="https://img.shields.io/github/forks/4ra1n/CVE-2022-32532">	<img alt="stars" src="https://img.shields.io/github/stars/4ra1n/CVE-2022-32532">
@@ -15878,6 +15967,11 @@
 ## CVE-2022-3245 (2022-09-20T14:15:00)
 > HTML injection attack is closely related to Cross-site Scripting (XSS). HTML injection uses HTML to deface the page. XSS, as the name implies, injects JavaScript into the page. Both attacks exploit insufficient validation of user input.
 - [Live-Hack-CVE/CVE-2022-3245](https://github.com/Live-Hack-CVE/CVE-2022-3245)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3245">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3245">
+
+---
+## CVE-2022-3237 (2022-10-31T16:15:00)
+> The WP Contact Slider WordPress plugin before 2.4.8 does not sanitize and escape its settings, allowing high privilege users such as admin to perform cross-Site Scripting attacks even when the unfiltered_html capability is disallowed.
+- [Live-Hack-CVE/CVE-2022-3237](https://github.com/Live-Hack-CVE/CVE-2022-3237)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3237">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3237">
 
 ---
 ## CVE-2022-3236 (2022-09-23T13:15:00)
@@ -16851,6 +16945,11 @@
 - [Live-Hack-CVE/CVE-2022-3097](https://github.com/Live-Hack-CVE/CVE-2022-3097)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3097">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3097">
 - [Live-Hack-CVE/CVE-2022-30975](https://github.com/Live-Hack-CVE/CVE-2022-30975)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30975">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30975">
 - [Live-Hack-CVE/CVE-2022-30974](https://github.com/Live-Hack-CVE/CVE-2022-30974)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30974">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30974">
+
+---
+## CVE-2022-3096 (2022-10-31T16:15:00)
+> The WP Total Hacks WordPress plugin through 4.7.2 does not prevent low privilege users from modifying the plugin's settings. This could allow users such as subscribers to perform Stored Cross-Site Scripting attacks against other users, like administrators, due to the lack of sanitisation and escaping as well.
+- [Live-Hack-CVE/CVE-2022-3096](https://github.com/Live-Hack-CVE/CVE-2022-3096)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3096">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3096">
 
 ---
 ## CVE-2022-30945 (2022-05-17T15:15:00)
@@ -19062,6 +19161,11 @@
 - [Live-Hack-CVE/CVE-2022-26291](https://github.com/Live-Hack-CVE/CVE-2022-26291)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26291">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26291">
 
 ---
+## CVE-2022-2627 (2022-10-31T16:15:00)
+> The Newspaper WordPress theme before 12 does not sanitise a parameter before outputting it back in an HTML attribute via an AJAX action, leading to a Reflected Cross-Site Scripting.
+- [Live-Hack-CVE/CVE-2022-2627](https://github.com/Live-Hack-CVE/CVE-2022-2627)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2627">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2627">
+
+---
 ## CVE-2022-26269 (2022-03-29T01:15:00)
 > Suzuki Connect v1.0.15 allows attackers to tamper with displayed messages via spoofed CAN messages.
 - [nsbogam/CVE-2022-26269](https://github.com/nsbogam/CVE-2022-26269)	<img alt="forks" src="https://img.shields.io/github/forks/nsbogam/CVE-2022-26269">	<img alt="stars" src="https://img.shields.io/github/stars/nsbogam/CVE-2022-26269">
@@ -21197,6 +21301,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-21906](https://github.com/Live-Hack-CVE/CVE-2022-21906)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21906">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21906">
 
 ---
+## CVE-2022-2190 (2022-10-31T16:15:00)
+> The Gallery Plugin for WordPress plugin before 1.8.4.7 does not escape the $_SERVER['REQUEST_URI'] parameter before outputting it back in an attribute, which could lead to Reflected Cross-Site Scripting in old web browsers
+- [Live-Hack-CVE/CVE-2022-2190](https://github.com/Live-Hack-CVE/CVE-2022-2190)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2190">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2190">
+
+---
 ## CVE-2022-21894 (2022-01-11T21:15:00)
 > Secure Boot Security Feature Bypass Vulnerability.
 - [Wack0/CVE-2022-21894](https://github.com/Wack0/CVE-2022-21894)	<img alt="forks" src="https://img.shields.io/github/forks/Wack0/CVE-2022-21894">	<img alt="stars" src="https://img.shields.io/github/stars/Wack0/CVE-2022-21894">
@@ -21325,6 +21434,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-21680 (2022-01-14T17:15:00)
 > Marked is a markdown parser and compiler. Prior to version 4.0.10, the regular expression `block.def` may cause catastrophic backtracking against some strings and lead to a regular expression denial of service (ReDoS). Anyone who runs untrusted markdown through a vulnerable version of marked and does not use a worker with a time limit may be affected. This issue is patched in version 4.0.10. As a workaround, avoid running untrusted markdown through marked or run marked on a worker thread and set a reasonable time limit to prevent draining resources.
 - [Live-Hack-CVE/CVE-2022-21680](https://github.com/Live-Hack-CVE/CVE-2022-21680)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21680">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21680">
+
+---
+## CVE-2022-2167 (2022-10-31T16:15:00)
+> The Newspaper WordPress theme before 12 does not sanitise a parameter before outputting it back in an HTML attribute via an AJAX action, leading to a Reflected Cross-Site Scripting
+- [Live-Hack-CVE/CVE-2022-2167](https://github.com/Live-Hack-CVE/CVE-2022-2167)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2167">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2167">
 
 ---
 ## CVE-2022-21661 (2022-01-06T23:15:00)
