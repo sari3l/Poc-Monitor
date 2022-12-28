@@ -2706,10 +2706,12 @@
 ## CVE-2022-44389 (2022-11-14T20:15:00)
 > EyouCMS V1.5.9-UTF8-SP1 was discovered to contain a Cross-Site Request Forgery (CSRF) via the Edit Admin Profile module. This vulnerability allows attackers to arbitrarily change Administrator account information.
 - [Live-Hack-CVE/CVE-2022-44389](https://github.com/Live-Hack-CVE/CVE-2022-44389)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44389">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44389">
+- [Live-Hack-CVE/CVE-2022-44389](https://github.com/Live-Hack-CVE/CVE-2022-44389)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44389">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44389">
 
 ---
 ## CVE-2022-44387 (2022-11-14T20:15:00)
 > EyouCMS V1.5.9-UTF8-SP1 was discovered to contain a Cross-Site Request Forgery (CSRF) via the Basic Information component under the Edit Member module.
+- [Live-Hack-CVE/CVE-2022-44387](https://github.com/Live-Hack-CVE/CVE-2022-44387)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44387">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44387">
 - [Live-Hack-CVE/CVE-2022-44387](https://github.com/Live-Hack-CVE/CVE-2022-44387)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44387">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44387">
 
 ---
@@ -3313,10 +3315,12 @@
 ## CVE-2022-43694 (2022-11-14T19:15:00)
 > Concrete CMS (formerly concrete5) below 8.5.10 and between 9.0.0 and 9.1.2 is vulnerable to Reflected XSS in the image manipulation library due to un-sanitized output.
 - [Live-Hack-CVE/CVE-2022-43694](https://github.com/Live-Hack-CVE/CVE-2022-43694)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43694">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43694">
+- [Live-Hack-CVE/CVE-2022-43694](https://github.com/Live-Hack-CVE/CVE-2022-43694)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43694">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43694">
 
 ---
 ## CVE-2022-43692 (2022-11-14T19:15:00)
 > Concrete CMS (formerly concrete5) below 8.5.10 and between 9.0.0 and 9.1.2 is vulnerable to Reflected XSS - user can cause an administrator to trigger reflected XSS with a url if the targeted administrator is using an old browser that lacks XSS protection. Remediate by updating to Concrete CMS 9.1.3+ or 8.5.10+.
+- [Live-Hack-CVE/CVE-2022-43692](https://github.com/Live-Hack-CVE/CVE-2022-43692)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43692">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43692">
 - [Live-Hack-CVE/CVE-2022-43692](https://github.com/Live-Hack-CVE/CVE-2022-43692)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43692">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43692">
 
 ---
@@ -3345,6 +3349,7 @@
 ---
 ## CVE-2022-43672 (2022-11-12T04:15:00)
 > Zoho ManageEngine Password Manager Pro before 12122, PAM360 before 5711, and Access Manager Plus before 4306 allow SQL Injection (in a different software component relative to CVE-2022-43671.
+- [Live-Hack-CVE/CVE-2022-43672](https://github.com/Live-Hack-CVE/CVE-2022-43672)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43672">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43672">
 - [Live-Hack-CVE/CVE-2022-43672](https://github.com/Live-Hack-CVE/CVE-2022-43672)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43672">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43672">
 
 ---
@@ -3715,6 +3720,7 @@
 ---
 ## CVE-2022-43323 (2022-11-14T20:15:00)
 > EyouCMS V1.5.9-UTF8-SP1 was discovered to contain a Cross-Site Request Forgery (CSRF) via the Top Up Balance component under the Edit Member module.
+- [Live-Hack-CVE/CVE-2022-43323](https://github.com/Live-Hack-CVE/CVE-2022-43323)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43323">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43323">
 - [Live-Hack-CVE/CVE-2022-43323](https://github.com/Live-Hack-CVE/CVE-2022-43323)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43323">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43323">
 
 ---
@@ -9280,15 +9286,18 @@
 ## CVE-2022-38652 (2022-11-12T05:15:00)
 > ** UNSUPPORTED WHEN ASSIGNED ** A remote insecure deserialization vulnerability exixsts in VMWare Hyperic Agent 5.8.6. Exploitation of this vulnerability enables a malicious authenticated user to run arbitrary code or malware within a Hyperic Agent instance and its host operating system with the privileges of the Hyperic Agent process (often SYSTEM on Windows platforms). NOTE: prior exploitation of CVE-2022-38650 results in the disclosure of the authentication material required to exploit this vulnerability. NOTE: This vulnerability only affects products that are no longer supported by the maintainer.
 - [Live-Hack-CVE/CVE-2022-38652](https://github.com/Live-Hack-CVE/CVE-2022-38652)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38652">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38652">
+- [Live-Hack-CVE/CVE-2022-38652](https://github.com/Live-Hack-CVE/CVE-2022-38652)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38652">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38652">
 
 ---
 ## CVE-2022-38651 (2022-11-12T05:15:00)
 > ** UNSUPPORTED WHEN ASSIGNED ** A security filter misconfiguration exists in VMware Hyperic Server 5.8.6. Exploitation of this vulnerability enables a malicious party to bypass some authentication requirements when issuing requests to Hyperic Server. NOTE: This vulnerability only affects products that are no longer supported by the maintainer.
 - [Live-Hack-CVE/CVE-2022-38651](https://github.com/Live-Hack-CVE/CVE-2022-38651)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38651">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38651">
+- [Live-Hack-CVE/CVE-2022-38651](https://github.com/Live-Hack-CVE/CVE-2022-38651)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38651">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38651">
 
 ---
 ## CVE-2022-38650 (2022-11-12T05:15:00)
 > ** UNSUPPORTED WHEN ASSIGNED ** A remote unauthenticated insecure deserialization vulnerability exists in VMware Hyperic Server 5.8.6. Exploitation of this vulnerability enables a malicious party to run arbitrary code or malware within Hyperic Server and the host operating system with the privileges of the Hyperic server process. NOTE: This vulnerability only affects products that are no longer supported by the maintainer.
+- [Live-Hack-CVE/CVE-2022-38650](https://github.com/Live-Hack-CVE/CVE-2022-38650)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38650">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38650">
 - [Live-Hack-CVE/CVE-2022-38650](https://github.com/Live-Hack-CVE/CVE-2022-38650)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38650">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38650">
 
 ---
@@ -17236,6 +17245,7 @@
 ---
 ## CVE-2022-27674 (2022-11-09T21:15:00)
 > Insufficient validation in the IOCTL input/output buffer in AMD ?Prof may allow an attacker to bypass bounds checks potentially leading to a Windows kernel crash resulting in denial of service.
+- [Live-Hack-CVE/CVE-2022-27674](https://github.com/Live-Hack-CVE/CVE-2022-27674)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27674">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27674">
 - [Live-Hack-CVE/CVE-2022-27674](https://github.com/Live-Hack-CVE/CVE-2022-27674)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27674">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27674">
 
 ---
