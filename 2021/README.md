@@ -703,6 +703,11 @@
 - [Live-Hack-CVE/CVE-2021-4278](https://github.com/Live-Hack-CVE/CVE-2021-4278)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4278">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4278">
 
 ---
+## CVE-2021-42777 (2022-10-29T17:15:00)
+> Stimulsoft (aka Stimulsoft Reports) 2013.1.1600.0, when Compilation Mode is used, allows an attacker to execute arbitrary C# code on any machine that renders a report, including the application server or a user's local machine, as demonstrated by System.Diagnostics.Process.Start.
+- [Live-Hack-CVE/CVE-2021-42777](https://github.com/Live-Hack-CVE/CVE-2021-42777)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42777">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42777">
+
+---
 ## CVE-2021-4277 (2022-12-25T11:15:00)
 > A vulnerability, which was classified as problematic, has been found in fredsmith utils. This issue affects some unknown processing of the file screenshot_sync of the component Filename Handler. The manipulation leads to predictable from observable state. The name of the patch is dbab1b66955eeb3d76b34612b358307f5c4e3944. It is recommended to apply a patch to fix this issue. The identifier VDB-216749 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2021-4277](https://github.com/Live-Hack-CVE/CVE-2021-4277)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4277">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4277">
