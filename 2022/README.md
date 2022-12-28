@@ -5985,6 +5985,11 @@
 - [Live-Hack-CVE/CVE-2022-41802](https://github.com/Live-Hack-CVE/CVE-2022-41802)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41802">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41802">
 
 ---
+## CVE-2022-41799 (2022-10-24T14:15:00)
+> Improper access control vulnerability in GROWI prior to v5.1.4 (v5 series) and versions prior to v4.5.25 (v4 series) allows a remote authenticated attacker to bypass access restriction and download the markdown data from the pages set to private by the other users.
+- [Live-Hack-CVE/CVE-2022-41799](https://github.com/Live-Hack-CVE/CVE-2022-41799)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41799">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41799">
+
+---
 ## CVE-2022-41798 (2022-12-05T04:15:00)
 > Session information easily guessable vulnerability exists in Kyocera Document Solutions MFPs and printers, which may allow a network-adjacent attacker to log in to the product by spoofing a user with guessed session information. Affected products/versions are as follows: TASKalfa 7550ci/6550ci, TASKalfa 5550ci/4550ci/3550ci/3050ci, TASKalfa 255c/205c, TASKalfa 256ci/206ci, ECOSYS M6526cdn/M6526cidn, FS-C2126MFP/C2126MFP+/C2026MFP/C2026MFP+, TASKalfa 8000i/6500i, TASKalfa 5500i/4500i/3500i, TASKalfa 305/255, TASKalfa 306i/256i, LS-3140MFP/3140MFP+/3640MFP, ECOSYS M2535dn, LS-1135MFP/1035MFP, LS-C8650DN/C8600DN, ECOSYS P6026cdn, FS-C5250DN, LS-4300DN/4200DN/2100DN, ECOSYS P4040dn, ECOSYS P2135dn, and FS-1370DN.
 - [Live-Hack-CVE/CVE-2022-41798](https://github.com/Live-Hack-CVE/CVE-2022-41798)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41798">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41798">
@@ -9164,6 +9169,11 @@
 - [Live-Hack-CVE/CVE-2022-39314](https://github.com/Live-Hack-CVE/CVE-2022-39314)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39314">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39314">
 
 ---
+## CVE-2022-39313 (2022-10-24T14:15:00)
+> Parse Server is an open source backend that can be deployed to any infrastructure that can run Node.js. Versions prior to 4.10.17, and prior to 5.2.8 on the 5.x branch, crash when a file download request is received with an invalid byte range, resulting in a Denial of Service. This issue has been patched in versions 4.10.17, and 5.2.8. There are no known workarounds.
+- [Live-Hack-CVE/CVE-2022-39313](https://github.com/Live-Hack-CVE/CVE-2022-39313)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39313">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39313">
+
+---
 ## CVE-2022-39309 (2022-10-14T20:15:00)
 > GoCD is a continuous delivery server. GoCD helps you automate and streamline the build-test-release cycle for continuous delivery of your product. GoCD versions prior to 21.1.0 leak the symmetric key used to encrypt/decrypt any secure variables/secrets in GoCD configuration to authenticated agents. A malicious/compromised agent may then expose that key from memory, and potentially allow an attacker the ability to decrypt secrets intended for other agents/environments if they also are able to obtain access to encrypted configuration values from the GoCD server. This issue is fixed in GoCD version 21.1.0. There are currently no known workarounds.
 - [Live-Hack-CVE/CVE-2022-39309](https://github.com/Live-Hack-CVE/CVE-2022-39309)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39309">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39309">
@@ -9217,6 +9227,11 @@
 ## CVE-2022-39273 (2022-10-06T18:16:00)
 > FlyteAdmin is the control plane for the data processing platform Flyte. Users who enable the default Flyte’s authorization server without changing the default clientid hashes will be exposed to the public internet. In an effort to make enabling authentication easier for Flyte administrators, the default configuration for Flyte Admin allows access for Flyte Propeller even after turning on authentication via a hardcoded hashed password. This password is also set on the default Flyte Propeller configmap in the various Flyte Helm charts. Users who enable auth but do not override this setting in Flyte Admin’s configuration may unbeknownst to them be allowing public traffic in by way of this default password with attackers effectively impersonating propeller. This only applies to users who have not specified the ExternalAuthorizationServer setting. Usage of an external auth server automatically turns off this default configuration and are not susceptible to this vulnerability. This issue has been addressed in version 1.1.44. Users should manually set the staticClients in the selfAuthServer section of their configuration if they intend to rely on Admin’s internal auth server. Again, users who use an external auth server are automatically protected from this vulnerability.
 - [Live-Hack-CVE/CVE-2022-39273](https://github.com/Live-Hack-CVE/CVE-2022-39273)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39273">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39273">
+
+---
+## CVE-2022-39272 (2022-10-22T00:15:00)
+> Flux is an open and extensible continuous delivery solution for Kubernetes. Versions prior to 0.35.0 are subject to a Denial of Service. Users that have permissions to change Fluxâ€™s objects, either through a Flux source or directly within a cluster, can provide invalid data to fields `.spec.interval` or `.spec.timeout` (and structured variations of these fields), causing the entire object type to stop being processed. This issue is patched in version 0.35.0. As a workaround, Admission controllers can be employed to restrict the values that can be used for fields `.spec.interval` and `.spec.timeout`, however upgrading to the latest versions is still the recommended mitigation.
+- [Live-Hack-CVE/CVE-2022-39272](https://github.com/Live-Hack-CVE/CVE-2022-39272)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39272">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39272">
 
 ---
 ## CVE-2022-39270 (2022-10-06T18:16:00)
@@ -13023,6 +13038,11 @@
 - [Live-Hack-CVE/CVE-2022-36254](https://github.com/Live-Hack-CVE/CVE-2022-36254)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36254">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36254">
 
 ---
+## CVE-2022-3624 (2022-10-21T06:15:00)
+> A vulnerability was found in Linux Kernel and classified as problematic. Affected by this issue is the function rlb_arp_xmit of the file drivers/net/bonding/bond_alb.c of the component IPsec. The manipulation leads to memory leak. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-211928.
+- [Live-Hack-CVE/CVE-2022-3624](https://github.com/Live-Hack-CVE/CVE-2022-3624)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3624">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3624">
+
+---
 ## CVE-2022-36231 ()
 > 
 - [affix/CVE-2022-36231](https://github.com/affix/CVE-2022-36231)	<img alt="forks" src="https://img.shields.io/github/forks/affix/CVE-2022-36231">	<img alt="stars" src="https://img.shields.io/github/stars/affix/CVE-2022-36231">
@@ -13158,6 +13178,11 @@
 ## CVE-2022-36123 (2022-07-29T14:15:00)
 > The Linux kernel before 5.18.13 lacks a certain clear operation for the block starting symbol (.bss). This allows Xen PV guest OS users to cause a denial of service or gain privileges.
 - [Live-Hack-CVE/CVE-2022-36123](https://github.com/Live-Hack-CVE/CVE-2022-36123)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36123">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36123">
+
+---
+## CVE-2022-36122 (2022-10-21T12:15:00)
+> The Automox Agent before 40 on Windows incorrectly sets permissions on key files.
+- [Live-Hack-CVE/CVE-2022-36122](https://github.com/Live-Hack-CVE/CVE-2022-36122)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36122">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36122">
 
 ---
 ## CVE-2022-36111 (2022-11-23T18:15:00)
@@ -17278,6 +17303,11 @@
 ## CVE-2022-31091 (2022-06-27T22:15:00)
 > Guzzle, an extensible PHP HTTP client. `Authorization` and `Cookie` headers on requests are sensitive information. In affected versions on making a request which responds with a redirect to a URI with a different port, if we choose to follow it, we should remove the `Authorization` and `Cookie` headers from the request, before containing. Previously, we would only consider a change in host or scheme. Affected Guzzle 7 users should upgrade to Guzzle 7.4.5 as soon as possible. Affected users using any earlier series of Guzzle should upgrade to Guzzle 6.5.8 or 7.4.5. Note that a partial fix was implemented in Guzzle 7.4.2, where a change in host would trigger removal of the curl-added Authorization header, however this earlier fix did not cover change in scheme or change in port. An alternative approach would be to use your own redirect middleware, rather than ours, if you are unable to upgrade. If you do not require or expect redirects to be followed, one should simply disable redirects all together.
 - [Live-Hack-CVE/CVE-2022-31091](https://github.com/Live-Hack-CVE/CVE-2022-31091)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31091">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31091">
+
+---
+## CVE-2022-31090 (2022-06-27T22:15:00)
+> Guzzle, an extensible PHP HTTP client. `Authorization` headers on requests are sensitive information. In affected versions when using our Curl handler, it is possible to use the `CURLOPT_HTTPAUTH` option to specify an `Authorization` header. On making a request which responds with a redirect to a URI with a different origin (change in host, scheme or port), if we choose to follow it, we should remove the `CURLOPT_HTTPAUTH` option before continuing, stopping curl from appending the `Authorization` header to the new request. Affected Guzzle 7 users should upgrade to Guzzle 7.4.5 as soon as possible. Affected users using any earlier series of Guzzle should upgrade to Guzzle 6.5.8 or 7.4.5. Note that a partial fix was implemented in Guzzle 7.4.2, where a change in host would trigger removal of the curl-added Authorization header, however this earlier fix did not cover change in scheme or change in port. If you do not require or expect redirects to be followed, one should simply disable redirects all together. Alternatively, one can specify to use the Guzzle steam handler backend, rather than curl.
+- [Live-Hack-CVE/CVE-2022-31090](https://github.com/Live-Hack-CVE/CVE-2022-31090)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31090">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31090">
 
 ---
 ## CVE-2022-3109 (2022-12-16T15:15:00)
