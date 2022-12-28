@@ -319,6 +319,71 @@
 - [Live-Hack-CVE/CVE-2021-44425](https://github.com/Live-Hack-CVE/CVE-2021-44425)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44425">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44425">
 
 ---
+## CVE-2021-44371 (2022-01-28T22:15:00)
+> A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC-410W v3.0.0.136_20121102. A specially-crafted HTTP request can lead to a reboot. SetEmail param is not object. An attacker can send an HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-44371](https://github.com/Live-Hack-CVE/CVE-2021-44371)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44371">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44371">
+
+---
+## CVE-2021-44370 (2022-01-28T22:15:00)
+> A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC-410W v3.0.0.136_20121102. A specially-crafted HTTP request can lead to a reboot. SetFtp param is not object. An attacker can send an HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-44370](https://github.com/Live-Hack-CVE/CVE-2021-44370)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44370">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44370">
+
+---
+## CVE-2021-44369 (2022-01-28T22:15:00)
+> A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC-410W v3.0.0.136_20121102. A specially-crafted HTTP request can lead to a reboot. SetNtp param is not object. An attacker can send an HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-44369](https://github.com/Live-Hack-CVE/CVE-2021-44369)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44369">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44369">
+
+---
+## CVE-2021-44368 (2022-01-28T22:15:00)
+> A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC-410W v3.0.0.136_20121102. A specially-crafted HTTP request can lead to a reboot. SetNetPort param is not object. An attacker can send an HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-44368](https://github.com/Live-Hack-CVE/CVE-2021-44368)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44368">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44368">
+
+---
+## CVE-2021-44367 (2022-01-28T22:15:00)
+> A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC-410W v3.0.0.136_20121102. A specially-crafted HTTP request can lead to a reboot. SetUpnp param is not object. An attacker can send an HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-44367](https://github.com/Live-Hack-CVE/CVE-2021-44367)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44367">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44367">
+
+---
+## CVE-2021-44365 (2022-01-28T22:15:00)
+> A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC-410W v3.0.0.136_20121102. A specially-crafted HTTP request can lead to a reboot. SetDevName param is not object. An attacker can send an HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-44365](https://github.com/Live-Hack-CVE/CVE-2021-44365)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44365">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44365">
+
+---
+## CVE-2021-44364 (2022-01-28T22:15:00)
+> A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC-410W v3.0.0.136_20121102. A specially-crafted HTTP request can lead to a reboot. SetWifi param is not object. An attacker can send an HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-44364](https://github.com/Live-Hack-CVE/CVE-2021-44364)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44364">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44364">
+
+---
+## CVE-2021-44363 (2022-01-28T22:15:00)
+> A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC-410W v3.0.0.136_20121102. A specially-crafted HTTP request can lead to a reboot. SetPush param is not object. An attacker can send an HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-44363](https://github.com/Live-Hack-CVE/CVE-2021-44363)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44363">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44363">
+
+---
+## CVE-2021-44362 (2022-01-28T22:15:00)
+> A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC-410W v3.0.0.136_20121102. A specially-crafted HTTP request can lead to a reboot. SetCloudSchedule param is not object. An attacker can send an HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-44362](https://github.com/Live-Hack-CVE/CVE-2021-44362)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44362">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44362">
+
+---
+## CVE-2021-44361 (2022-01-28T22:15:00)
+> A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC-410W v3.0.0.136_20121102. A specially-crafted HTTP request can lead to a reboot. Set3G param is not object. An attacker can send an HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-44361](https://github.com/Live-Hack-CVE/CVE-2021-44361)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44361">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44361">
+
+---
+## CVE-2021-44360 (2022-01-28T22:15:00)
+> A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC-410W v3.0.0.136_20121102. A specially-crafted HTTP request can lead to a reboot. SetNorm param is not object. An attacker can send an HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-44360](https://github.com/Live-Hack-CVE/CVE-2021-44360)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44360">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44360">
+
+---
+## CVE-2021-44359 (2022-01-28T22:15:00)
+> A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC-410W v3.0.0.136_20121102. A specially-crafted HTTP request can lead to a reboot. SetCrop param is not object. An attacker can send an HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-44359](https://github.com/Live-Hack-CVE/CVE-2021-44359)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44359">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44359">
+
+---
+## CVE-2021-44358 (2022-01-28T22:15:00)
+> A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC-410W v3.0.0.136_20121102. A specially-crafted HTTP request can lead to a reboot. SetRec param is not object. An attacker can send an HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-44358](https://github.com/Live-Hack-CVE/CVE-2021-44358)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44358">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44358">
+
+---
 ## CVE-2021-44228 (2021-12-10T10:15:00)
 > Apache Log4j2 2.0-beta9 through 2.15.0 (excluding security releases 2.12.2, 2.12.3, and 2.3.1) JNDI features used in configuration, log messages, and parameters do not protect against attacker controlled LDAP and other JNDI related endpoints. An attacker who can control log messages or log message parameters can execute arbitrary code loaded from LDAP servers when message lookup substitution is enabled. From log4j 2.15.0, this behavior has been disabled by default. From version 2.16.0 (along with 2.12.2, 2.12.3, and 2.3.1), this functionality has been completely removed. Note that this vulnerability is specific to log4j-core and does not affect log4net, log4cxx, or other Apache Logging Services projects.
 - [aws-samples/kubernetes-log4j-cve-2021-44228-node-agent](https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent)	<img alt="forks" src="https://img.shields.io/github/forks/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent">	<img alt="stars" src="https://img.shields.io/github/stars/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent">
@@ -1963,6 +2028,16 @@
 ## CVE-2021-39164 (2021-08-31T17:15:00)
 > Matrix is an ecosystem for open federated Instant Messaging and Voice over IP. In versions 1.41.0 and prior, unauthorised users can access the membership (list of members, with their display names) of a room if they know the ID of the room. The vulnerability is limited to rooms with `shared` history visibility. Furthermore, the unauthorised user must be using an account on a vulnerable homeserver that is in the room. Server administrators should upgrade to 1.41.1 or later in order to receive the patch. One workaround is available. Administrators of servers that use a reverse proxy could, with potentially unacceptable loss of functionality, block the endpoints: `/_matrix/client/r0/rooms/{room_id}/members` with `at` query parameter, and `/_matrix/client/unstable/rooms/{room_id}/members` with `at` query parameter.
 - [Live-Hack-CVE/CVE-2021-39164](https://github.com/Live-Hack-CVE/CVE-2021-39164)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39164">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39164">
+
+---
+## CVE-2021-39160 (2021-08-25T18:15:00)
+> nbgitpuller is a Jupyter server extension to sync a git repository one-way to a local path. Due to unsanitized input, visiting maliciously crafted links could result in arbitrary code execution in the user environment. This has been resolved in version 0.10.2 and all users are advised to upgrade. No work around exist for users who can not upgrade.
+- [Live-Hack-CVE/CVE-2021-39160](https://github.com/Live-Hack-CVE/CVE-2021-39160)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39160">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39160">
+
+---
+## CVE-2021-39159 (2021-08-25T19:15:00)
+> BinderHub is a kubernetes-based cloud service that allows users to share reproducible interactive computing environments from code repositories. In affected versions a remote code execution vulnerability has been identified in BinderHub, where providing BinderHub with maliciously crafted input could execute code in the BinderHub context, with the potential to egress credentials of the BinderHub deployment, including JupyterHub API tokens, kubernetes service accounts, and docker registry credentials. This may provide the ability to manipulate images and other user created pods in the deployment, with the potential to escalate to the host depending on the underlying kubernetes configuration. Users are advised to update to version 0.2.0-n653. If users are unable to update they may disable the git repo provider by specifying the `BinderHub.repo_providers` as a workaround.
+- [Live-Hack-CVE/CVE-2021-39159](https://github.com/Live-Hack-CVE/CVE-2021-39159)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39159">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39159">
 
 ---
 ## CVE-2021-39144 (2021-08-23T18:15:00)
@@ -4731,6 +4806,11 @@
 > The Wechat Reward WordPress plugin through 1.7 does not sanitise or escape its QR settings, nor has any CSRF check in place, allowing attackers to make a logged in admin change the settings and perform Cross-Site Scripting attacks.
 - [Live-Hack-CVE/CVE-2021-24615](https://github.com/Live-Hack-CVE/CVE-2021-24615)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24615">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24615">
 - [Live-Hack-CVE/CVE-2021-24615](https://github.com/Live-Hack-CVE/CVE-2021-24615)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24615">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24615">
+
+---
+## CVE-2021-24602 (2021-08-23T12:15:00)
+> The HM Multiple Roles WordPress plugin before 1.3 does not have any access control to prevent low privilege users to set themselves as admin via their profile page
+- [Live-Hack-CVE/CVE-2021-24602](https://github.com/Live-Hack-CVE/CVE-2021-24602)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24602">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24602">
 
 ---
 ## CVE-2021-24595 (2021-10-18T14:15:00)
