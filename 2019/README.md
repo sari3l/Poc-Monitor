@@ -967,6 +967,11 @@
 - [Live-Hack-CVE/CVE-2019-20892](https://github.com/Live-Hack-CVE/CVE-2019-20892)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20892">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20892">
 
 ---
+## CVE-2019-20798 (2020-05-18T00:15:00)
+> An XSS issue was discovered in handler_server_info.c in Cherokee through 1.2.104. The requested URL is improperly displayed on the About page in the default configuration of the web server and its administrator panel. The XSS in the administrator panel can be used to reconfigure the server and execute arbitrary commands.
+- [Live-Hack-CVE/CVE-2019-20798](https://github.com/Live-Hack-CVE/CVE-2019-20798)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20798">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20798">
+
+---
 ## CVE-2019-20790 (2020-04-27T14:15:00)
 > OpenDMARC through 1.3.2 and 1.4.x, when used with pypolicyd-spf 2.0.2, allows attacks that bypass SPF and DMARC authentication in situations where the HELO field is inconsistent with the MAIL FROM field.
 - [Live-Hack-CVE/CVE-2019-20790](https://github.com/Live-Hack-CVE/CVE-2019-20790)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20790">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20790">

@@ -2087,6 +2087,11 @@
 - [trhacknon/CVE-2020-17519](https://github.com/trhacknon/CVE-2020-17519)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2020-17519">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2020-17519">
 
 ---
+## CVE-2020-17506 (2020-08-12T17:15:00)
+> Artica Web Proxy 4.30.00000000 allows remote attacker to bypass privilege detection and gain web backend administrator privileges through SQL injection of the apikey parameter in fw.login.php.
+- [Live-Hack-CVE/CVE-2020-17506](https://github.com/Live-Hack-CVE/CVE-2020-17506)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-17506">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-17506">
+
+---
 ## CVE-2020-17498 (2020-08-13T16:15:00)
 > In Wireshark 3.2.0 to 3.2.5, the Kafka protocol dissector could crash. This was addressed in epan/dissectors/packet-kafka.c by avoiding a double free during LZ4 decompression.
 - [Live-Hack-CVE/CVE-2020-17498](https://github.com/Live-Hack-CVE/CVE-2020-17498)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-17498">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-17498">
@@ -2261,6 +2266,11 @@
 ## CVE-2020-15229 (2020-10-14T19:15:00)
 > Singularity (an open source container platform) from version 3.1.1 through 3.6.3 has a vulnerability. Due to insecure handling of path traversal and the lack of path sanitization within `unsquashfs`, it is possible to overwrite/create any files on the host filesystem during the extraction with a crafted squashfs filesystem. The extraction occurs automatically for unprivileged (either installation or with `allow setuid = no`) run of Singularity when a user attempt to run an image which is a local SIF image or a single file containing a squashfs filesystem and is coming from remote sources `library://` or `shub://`. Image build is also impacted in a more serious way as it can be used by a root user, allowing an attacker to overwrite/create files leading to a system compromise, so far bootstrap methods `library`, `shub` and `localimage` are triggering the squashfs extraction. This issue is addressed in Singularity 3.6.4. All users are advised to upgrade to 3.6.4 especially if they use Singularity mainly for building image as root user. There is no solid workaround except to temporary avoid to use unprivileged mode with single file images in favor of sandbox images instead. Regarding image build, temporary avoid to build from `library` and `shub` sources and as much as possible use `--fakeroot` or a VM for that.
 - [Live-Hack-CVE/CVE-2020-15229](https://github.com/Live-Hack-CVE/CVE-2020-15229)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15229">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15229">
+
+---
+## CVE-2020-15115 (2020-08-06T22:15:00)
+> etcd before versions 3.3.23 and 3.4.10 does not perform any password length validation, which allows for very short passwords, such as those with a length of one. This may allow an attacker to guess or brute-force users' passwords with little computational effort.
+- [Live-Hack-CVE/CVE-2020-15115](https://github.com/Live-Hack-CVE/CVE-2020-15115)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15115">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15115">
 
 ---
 ## CVE-2020-15113 (2020-08-05T20:15:00)
@@ -2950,6 +2960,11 @@
 - [Live-Hack-CVE/CVE-2020-10388](https://github.com/Live-Hack-CVE/CVE-2020-10388)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10388">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10388">
 
 ---
+## CVE-2020-10382 (2020-04-14T17:15:00)
+> An issue was discovered in the MB CONNECT LINE mymbCONNECT24 and mbCONNECT24 software in all versions through 2.5.0. There is an authenticated remote code execution in the backup-scheduler.
+- [Live-Hack-CVE/CVE-2020-10382](https://github.com/Live-Hack-CVE/CVE-2020-10382)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10382">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10382">
+
+---
 ## CVE-2020-10381 (2020-04-14T17:15:00)
 > An issue was discovered in the MB CONNECT LINE mymbCONNECT24 and mbCONNECT24 software in all versions through 2.5.0. There is an unauthenticated SQL injection in DATA24, allowing attackers to discover database and table names.
 - [Live-Hack-CVE/CVE-2020-10381](https://github.com/Live-Hack-CVE/CVE-2020-10381)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10381">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10381">
@@ -3019,6 +3034,11 @@
 ## CVE-2020-10006 (2020-12-08T20:15:00)
 > This issue was addressed with improved entitlements. This issue is fixed in macOS Big Sur 11.0.1. A malicious application may be able to access restricted files.
 - [Live-Hack-CVE/CVE-2020-10006](https://github.com/Live-Hack-CVE/CVE-2020-10006)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10006">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10006">
+
+---
+## CVE-2020-0971 (2020-04-15T15:15:00)
+> A remote code execution vulnerability exists in Microsoft SharePoint when the software fails to check the source markup of an application package, aka 'Microsoft SharePoint Remote Code Execution Vulnerability'. This CVE ID is unique from CVE-2020-0920, CVE-2020-0929, CVE-2020-0931, CVE-2020-0932, CVE-2020-0974.
+- [Live-Hack-CVE/CVE-2020-0971](https://github.com/Live-Hack-CVE/CVE-2020-0971)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-0971">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-0971">
 
 ---
 ## CVE-2020-0951 (2020-09-11T17:15:00)

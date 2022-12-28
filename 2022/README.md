@@ -1657,6 +1657,11 @@
 - [nicbrinkley/CVE-2022-45472](https://github.com/nicbrinkley/CVE-2022-45472)	<img alt="forks" src="https://img.shields.io/github/forks/nicbrinkley/CVE-2022-45472">	<img alt="stars" src="https://img.shields.io/github/stars/nicbrinkley/CVE-2022-45472">
 
 ---
+## CVE-2022-45471 (2022-11-18T15:15:00)
+> In JetBrains Hub before 2022.3.15181 Throttling was missed when sending emails to a particular email address
+- [Live-Hack-CVE/CVE-2022-45471](https://github.com/Live-Hack-CVE/CVE-2022-45471)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45471">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45471">
+
+---
 ## CVE-2022-45451 ()
 > 
 - [alfarom256/CVE-2022-45451](https://github.com/alfarom256/CVE-2022-45451)	<img alt="forks" src="https://img.shields.io/github/forks/alfarom256/CVE-2022-45451">	<img alt="stars" src="https://img.shields.io/github/stars/alfarom256/CVE-2022-45451">
@@ -2005,6 +2010,36 @@
 ## CVE-2022-45019 (2022-12-05T23:15:00)
 > SLiMS 9 Bulian v9.5.0 was discovered to contain a SQL injection vulnerability via the keywords parameter.
 - [Live-Hack-CVE/CVE-2022-45019](https://github.com/Live-Hack-CVE/CVE-2022-45019)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45019">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45019">
+
+---
+## CVE-2022-45017 (2022-11-21T15:15:00)
+> A cross-site scripting (XSS) vulnerability in the Overview Page settings module of WBCE CMS v1.5.4 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Post Loop field.
+- [Live-Hack-CVE/CVE-2022-45017](https://github.com/Live-Hack-CVE/CVE-2022-45017)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45017">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45017">
+
+---
+## CVE-2022-45016 (2022-11-21T15:15:00)
+> A cross-site scripting (XSS) vulnerability in the Search Settings module of WBCE CMS v1.5.4 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Footer field.
+- [Live-Hack-CVE/CVE-2022-45016](https://github.com/Live-Hack-CVE/CVE-2022-45016)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45016">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45016">
+
+---
+## CVE-2022-45015 (2022-11-21T15:15:00)
+> A cross-site scripting (XSS) vulnerability in the Search Settings module of WBCE CMS v1.5.4 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Results Footer field.
+- [Live-Hack-CVE/CVE-2022-45015](https://github.com/Live-Hack-CVE/CVE-2022-45015)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45015">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45015">
+
+---
+## CVE-2022-45014 (2022-11-21T15:15:00)
+> A cross-site scripting (XSS) vulnerability in the Search Settings module of WBCE CMS v1.5.4 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Results Header field.
+- [Live-Hack-CVE/CVE-2022-45014](https://github.com/Live-Hack-CVE/CVE-2022-45014)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45014">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45014">
+
+---
+## CVE-2022-45013 (2022-11-21T15:15:00)
+> A cross-site scripting (XSS) vulnerability in the Show Advanced Option module of WBCE CMS v1.5.4 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Section Header field.
+- [Live-Hack-CVE/CVE-2022-45013](https://github.com/Live-Hack-CVE/CVE-2022-45013)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45013">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45013">
+
+---
+## CVE-2022-45012 (2022-11-21T15:15:00)
+> A cross-site scripting (XSS) vulnerability in the Modify Page module of WBCE CMS v1.5.4 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Source field.
+- [Live-Hack-CVE/CVE-2022-45012](https://github.com/Live-Hack-CVE/CVE-2022-45012)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45012">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45012">
 
 ---
 ## CVE-2022-45010 (2022-12-07T02:15:00)
@@ -2727,6 +2762,11 @@
 - [Live-Hack-CVE/CVE-2022-4421](https://github.com/Live-Hack-CVE/CVE-2022-4421)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4421">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4421">
 
 ---
+## CVE-2022-44204 (2022-11-18T17:15:00)
+> D-Link DIR3060 DIR3060A1_FW111B04.bin is vulnerable to Buffer Overflow.
+- [Live-Hack-CVE/CVE-2022-44204](https://github.com/Live-Hack-CVE/CVE-2022-44204)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44204">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44204">
+
+---
 ## CVE-2022-44202 (2022-11-22T15:15:00)
 > D-Link DIR878 1.02B04 and 1.02B05 are vulnerable to Buffer Overflow.
 - [Live-Hack-CVE/CVE-2022-44202](https://github.com/Live-Hack-CVE/CVE-2022-44202)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44202">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44202">
@@ -2835,6 +2875,21 @@
 > Tenda AC18 V15.03.05.19 is vulnerable to Buffer Overflow via function form_fast_setting_wifi_set.
 - [Live-Hack-CVE/CVE-2022-44171](https://github.com/Live-Hack-CVE/CVE-2022-44171)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44171">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44171">
 - [Live-Hack-CVE/CVE-2022-44171](https://github.com/Live-Hack-CVE/CVE-2022-44171)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44171">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44171">
+
+---
+## CVE-2022-44169 (2022-11-21T15:15:00)
+> Tenda AC15 V15.03.05.18 is vulnerable to Buffer Overflow via function formSetVirtualSer.
+- [Live-Hack-CVE/CVE-2022-44169](https://github.com/Live-Hack-CVE/CVE-2022-44169)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44169">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44169">
+
+---
+## CVE-2022-44168 (2022-11-21T15:15:00)
+> Tenda AC15 V15.03.05.18 is vulnerable to Buffer Overflow via function fromSetRouteStatic..
+- [Live-Hack-CVE/CVE-2022-44168](https://github.com/Live-Hack-CVE/CVE-2022-44168)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44168">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44168">
+
+---
+## CVE-2022-44167 (2022-11-21T15:15:00)
+> Tenda AC15 V15.03.05.18 is avulnerable to Buffer Overflow via function formSetPPTPServer.
+- [Live-Hack-CVE/CVE-2022-44167](https://github.com/Live-Hack-CVE/CVE-2022-44167)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44167">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44167">
 
 ---
 ## CVE-2022-44163 (2022-11-21T16:15:00)
@@ -3654,6 +3709,11 @@
 - [Live-Hack-CVE/CVE-2022-43183](https://github.com/Live-Hack-CVE/CVE-2022-43183)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43183">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43183">
 
 ---
+## CVE-2022-43171 (2022-11-17T23:15:00)
+> A heap buffer overflow in the LIEF::MachO::BinaryParser::parse_dyldinfo_generic_bind function of LIEF v0.12.1 allows attackers to cause a Denial of Service (DoS) via a crafted MachO file.
+- [Live-Hack-CVE/CVE-2022-43171](https://github.com/Live-Hack-CVE/CVE-2022-43171)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43171">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43171">
+
+---
 ## CVE-2022-43167 (2022-10-28T17:15:00)
 > A stored cross-site scripting (XSS) vulnerability in the Users Alerts feature (/index.php?module=users_alerts/users_alerts) of Rukovoditel v3.2.1 allows authenticated attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Title parameter after clicking "Add".
 - [Live-Hack-CVE/CVE-2022-43167](https://github.com/Live-Hack-CVE/CVE-2022-43167)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43167">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43167">
@@ -3696,6 +3756,7 @@
 ## CVE-2022-43096 (2022-11-17T23:15:00)
 > Mediatrix 4102 before v48.5.2718 allows local attackers to gain root access via the UART port.
 - [ProxyStaffy/Mediatrix-CVE-2022-43096](https://github.com/ProxyStaffy/Mediatrix-CVE-2022-43096)	<img alt="forks" src="https://img.shields.io/github/forks/ProxyStaffy/Mediatrix-CVE-2022-43096">	<img alt="stars" src="https://img.shields.io/github/stars/ProxyStaffy/Mediatrix-CVE-2022-43096">
+- [Live-Hack-CVE/CVE-2022-43096](https://github.com/Live-Hack-CVE/CVE-2022-43096)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43096">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43096">
 - [Live-Hack-CVE/CVE-2022-43096](https://github.com/Live-Hack-CVE/CVE-2022-43096)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43096">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43096">
 
 ---
@@ -4346,6 +4407,7 @@
 ---
 ## CVE-2022-42533 (2022-11-17T23:15:00)
 > In shared_metadata_init of SharedMetadata.cpp, there is a possible out of bounds write due to an integer overflow. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-239415718References: N/A
+- [Live-Hack-CVE/CVE-2022-42533](https://github.com/Live-Hack-CVE/CVE-2022-42533)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42533">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42533">
 - [Live-Hack-CVE/CVE-2022-42533](https://github.com/Live-Hack-CVE/CVE-2022-42533)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42533">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42533">
 
 ---
@@ -5125,6 +5187,11 @@
 - [Live-Hack-CVE/CVE-2022-41915](https://github.com/Live-Hack-CVE/CVE-2022-41915)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41915">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41915">
 
 ---
+## CVE-2022-41914 (2022-11-16T20:15:00)
+> Zulip is an open-source team collaboration tool. For organizations with System for Cross-domain Identity Management(SCIM) account management enabled, Zulip Server 5.0 through 5.6 checked the SCIM bearer token using a comparator that did not run in constant time. Therefore, it might theoretically be possible for an attacker to infer the value of the token by performing a sophisticated timing analysis on a large number of failing requests. If successful, this would allow the attacker to impersonate the SCIM client for its abilities to read and update user accounts in the Zulip organization. Organizations where SCIM account management has not been enabled are not affected.
+- [Live-Hack-CVE/CVE-2022-41914](https://github.com/Live-Hack-CVE/CVE-2022-41914)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41914">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41914">
+
+---
 ## CVE-2022-41912 (2022-11-28T15:15:00)
 > The crewjam/saml go library prior to version 0.4.9 is vulnerable to an authentication bypass when processing SAML responses containing multiple Assertion elements. This issue has been corrected in version 0.4.9. There are no workarounds other than upgrading to a fixed version.
 - [Live-Hack-CVE/CVE-2022-41912](https://github.com/Live-Hack-CVE/CVE-2022-41912)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41912">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41912">
@@ -5330,6 +5397,7 @@
 ---
 ## CVE-2022-41791 (2022-11-17T23:15:00)
 > Auth. (subscriber+) CSV Injection vulnerability in ProfileGrid plugin <= 5.1.6 on WordPress.
+- [Live-Hack-CVE/CVE-2022-41791](https://github.com/Live-Hack-CVE/CVE-2022-41791)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41791">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41791">
 - [Live-Hack-CVE/CVE-2022-41791](https://github.com/Live-Hack-CVE/CVE-2022-41791)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41791">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41791">
 
 ---
@@ -5892,6 +5960,7 @@
 ---
 ## CVE-2022-41315 (2022-11-17T23:15:00)
 > Auth. Stored Cross-Site Scripting (XSS) vulnerability in Ezoic plugin <= 2.8.8 on WordPress.
+- [Live-Hack-CVE/CVE-2022-41315](https://github.com/Live-Hack-CVE/CVE-2022-41315)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41315">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41315">
 - [Live-Hack-CVE/CVE-2022-41315](https://github.com/Live-Hack-CVE/CVE-2022-41315)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41315">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41315">
 
 ---
@@ -6756,6 +6825,7 @@
 ---
 ## CVE-2022-40735 (2022-11-14T23:15:00)
 > The Diffie-Hellman Key Agreement Protocol allows use of long exponents that arguably make certain calculations unnecessarily expensive, because the 1996 van Oorschot and Wiener paper found that "(appropriately) short exponents" can be used when there are adequate subgroup constraints, and these short exponents can lead to less expensive calculations than for long exponents. This issue is different from CVE-2002-20001 because it is based on an observation about exponent size, rather than an observation about numbers that are not public keys. The specific situations in which calculation expense would constitute a server-side vulnerability depend on the protocol (e.g., TLS, SSH, or IKE) and the DHE implementation details. In general, there might be an availability concern because of server-side resource consumption from DHE modular-exponentiation calculations. Finally, it is possible for an attacker to exploit this vulnerability and CVE-2002-20001 together.
+- [Live-Hack-CVE/CVE-2022-40735](https://github.com/Live-Hack-CVE/CVE-2022-40735)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40735">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40735">
 - [Live-Hack-CVE/CVE-2022-40735](https://github.com/Live-Hack-CVE/CVE-2022-40735)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40735">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40735">
 
 ---
@@ -8396,6 +8466,7 @@
 ---
 ## CVE-2022-39135 (2022-09-11T12:15:00)
 > In Apache Calcite prior to version 1.32.0 the SQL operators EXISTS_NODE, EXTRACT_XML, XML_TRANSFORM and EXTRACT_VALUE do not restrict XML External Entity references in their configuration, which makes them vulnerable to a potential XML External Entity (XXE) attack. Therefore any client exposing these operators, typically by using Oracle dialect (the first three) or MySQL dialect (the last one), is affected by this vulnerability (the extent of it will depend on the user under which the application is running). From Apache Calcite 1.32.0 onwards, Document Type Declarations and XML External Entity resolution are disabled on the impacted operators.
+- [Live-Hack-CVE/CVE-2022-39135](https://github.com/Live-Hack-CVE/CVE-2022-39135)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39135">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39135">
 - [Live-Hack-CVE/CVE-2022-39135](https://github.com/Live-Hack-CVE/CVE-2022-39135)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39135">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39135">
 
 ---
