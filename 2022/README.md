@@ -4265,20 +4265,24 @@
 ## CVE-2022-43003 (2022-10-26T19:15:00)
 > D-Link DIR-816 A2 1.10 B05 was discovered to contain a stack overflow via the pskValue parameter in the setRepeaterSecurity function.
 - [Live-Hack-CVE/CVE-2022-43003](https://github.com/Live-Hack-CVE/CVE-2022-43003)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43003">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43003">
+- [Live-Hack-CVE/CVE-2022-43003](https://github.com/Live-Hack-CVE/CVE-2022-43003)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43003">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43003">
 
 ---
 ## CVE-2022-43002 (2022-10-26T19:15:00)
 > D-Link DIR-816 A2 1.10 B05 was discovered to contain a stack overflow via the wizardstep54_pskpwd parameter at /goform/form2WizardStep54.
+- [Live-Hack-CVE/CVE-2022-43002](https://github.com/Live-Hack-CVE/CVE-2022-43002)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43002">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43002">
 - [Live-Hack-CVE/CVE-2022-43002](https://github.com/Live-Hack-CVE/CVE-2022-43002)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43002">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43002">
 
 ---
 ## CVE-2022-43001 (2022-10-26T19:15:00)
 > D-Link DIR-816 A2 1.10 B05 was discovered to contain a stack overflow via the pskValue parameter in the setSecurity function.
 - [Live-Hack-CVE/CVE-2022-43001](https://github.com/Live-Hack-CVE/CVE-2022-43001)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43001">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43001">
+- [Live-Hack-CVE/CVE-2022-43001](https://github.com/Live-Hack-CVE/CVE-2022-43001)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43001">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43001">
 
 ---
 ## CVE-2022-43000 (2022-10-26T19:15:00)
 > D-Link DIR-816 A2 1.10 B05 was discovered to contain a stack overflow via the wizardstep4_pskpwd parameter at /goform/form2WizardStep4.
+- [Live-Hack-CVE/CVE-2022-43000](https://github.com/Live-Hack-CVE/CVE-2022-43000)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43000">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43000">
 - [Live-Hack-CVE/CVE-2022-43000](https://github.com/Live-Hack-CVE/CVE-2022-43000)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43000">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43000">
 
 ---
@@ -4290,6 +4294,7 @@
 ---
 ## CVE-2022-42999 (2022-10-26T19:15:00)
 > D-Link DIR-816 A2 1.10 B05 was discovered to contain multiple command injection vulnerabilities via the admuser and admpass parameters at /goform/setSysAdm.
+- [Live-Hack-CVE/CVE-2022-42999](https://github.com/Live-Hack-CVE/CVE-2022-42999)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42999">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42999">
 - [Live-Hack-CVE/CVE-2022-42999](https://github.com/Live-Hack-CVE/CVE-2022-42999)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42999">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42999">
 
 ---
@@ -8975,13 +8980,30 @@
 - [Live-Hack-CVE/CVE-2022-39364](https://github.com/Live-Hack-CVE/CVE-2022-39364)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39364">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39364">
 
 ---
+## CVE-2022-39362 (2022-10-26T19:15:00)
+> Metabase is data visualization software. Prior to versions 0.44.5, 1.44.5, 0.43.7, 1.43.7, 0.42.6, 1.42.6, 0.41.9, and 1.41.9, unsaved SQL queries are auto-executed, which could pose a possible attack vector. This issue is patched in versions 0.44.5, 1.44.5, 0.43.7, 1.43.7, 0.42.6, 1.42.6, 0.41.9, and 1.41.9. Metabase no longer automatically executes ad-hoc native queries. Now the native editor shows the query and gives the user the option to manually run the query if they want.
+- [Live-Hack-CVE/CVE-2022-39362](https://github.com/Live-Hack-CVE/CVE-2022-39362)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39362">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39362">
+
+---
+## CVE-2022-39361 (2022-10-26T19:15:00)
+> Metabase is data visualization software. Prior to versions 0.44.5, 1.44.5, 0.43.7, 1.43.7, 0.42.6, 1.42.6, 0.41.9, and 1.41.9, H2 (Sample Database) could allow Remote Code Execution (RCE), which can be abused by users able to write SQL queries on H2 databases. This issue is patched in versions 0.44.5, 1.44.5, 0.43.7, 1.43.7, 0.42.6, 1.42.6, 0.41.9, and 1.41.9. Metabase no longer allows DDL statements in H2 native queries.
+- [Live-Hack-CVE/CVE-2022-39361](https://github.com/Live-Hack-CVE/CVE-2022-39361)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39361">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39361">
+
+---
+## CVE-2022-39360 (2022-10-26T19:15:00)
+> Metabase is data visualization software. Prior to versions 0.44.5, 1.44.5, 0.43.7, 1.43.7, 0.42.6, 1.42.6, 0.41.9, and 1.41.9 single sign on (SSO) users were able to do password resets on Metabase, which could allow a user access without going through the SSO IdP. This issue is patched in versions 0.44.5, 1.44.5, 0.43.7, 1.43.7, 0.42.6, 1.42.6, 0.41.9, and 1.41.9. Metabase now blocks password reset for all users who use SSO for their Metabase login.
+- [Live-Hack-CVE/CVE-2022-39360](https://github.com/Live-Hack-CVE/CVE-2022-39360)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39360">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39360">
+
+---
 ## CVE-2022-39359 (2022-10-26T19:15:00)
 > Metabase is data visualization software. Prior to versions 0.44.5, 1.44.5, 0.43.7, 1.43.7, 0.42.6, 1.42.6, 0.41.9, and 1.41.9, custom GeoJSON map URL address would follow redirects to addresses that were otherwise disallowed, like link-local or private-network. This issue is patched in versions 0.44.5, 1.44.5, 0.43.7, 1.43.7, 0.42.6, 1.42.6, 0.41.9, and 1.41.9. Metabase no longer follow redirects on GeoJSON map URLs. An environment variable `MB_CUSTOM_GEOJSON_ENABLED` was also added to disable custom GeoJSON completely (`true` by default).
+- [Live-Hack-CVE/CVE-2022-39359](https://github.com/Live-Hack-CVE/CVE-2022-39359)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39359">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39359">
 - [Live-Hack-CVE/CVE-2022-39359](https://github.com/Live-Hack-CVE/CVE-2022-39359)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39359">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39359">
 
 ---
 ## CVE-2022-39358 (2022-10-26T19:15:00)
 > Metabase is data visualization software. Prior to versions 0.44.5, 1.44.5, 0.43.7, 1.43.7, 0.42.6, and 1.42.6, it was possible to circumvent locked parameters when requesting data for a question in an embedded dashboard by constructing a malicious request to the backend. This issue is patched in versions 0.44.5, 1.44.5, 0.43.7, 1.43.7, 0.42.6, and 1.42.6.
+- [Live-Hack-CVE/CVE-2022-39358](https://github.com/Live-Hack-CVE/CVE-2022-39358)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39358">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39358">
 - [Live-Hack-CVE/CVE-2022-39358](https://github.com/Live-Hack-CVE/CVE-2022-39358)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39358">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39358">
 
 ---
@@ -12335,6 +12357,7 @@
 ## CVE-2022-3670 (2022-10-26T19:15:00)
 > A vulnerability was found in Axiomatic Bento4. It has been classified as critical. Affected is the function WriteSample of the component mp42hevc. The manipulation leads to heap-based buffer overflow. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. VDB-212010 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-3670](https://github.com/Live-Hack-CVE/CVE-2022-3670)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3670">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3670">
+- [Live-Hack-CVE/CVE-2022-3670](https://github.com/Live-Hack-CVE/CVE-2022-3670)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3670">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3670">
 
 ---
 ## CVE-2022-36698 (2022-08-25T21:15:00)
@@ -12360,6 +12383,7 @@
 ## CVE-2022-3669 (2022-10-26T19:15:00)
 > A vulnerability was found in Axiomatic Bento4 and classified as problematic. This issue affects the function AP4_AvccAtom::Create of the component mp4edit. The manipulation leads to memory leak. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-212009 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-3669](https://github.com/Live-Hack-CVE/CVE-2022-3669)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3669">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3669">
+- [Live-Hack-CVE/CVE-2022-3669](https://github.com/Live-Hack-CVE/CVE-2022-3669)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3669">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3669">
 
 ---
 ## CVE-2022-36683 (2022-08-26T13:15:00)
@@ -12384,6 +12408,7 @@
 ---
 ## CVE-2022-3668 (2022-10-26T19:15:00)
 > A vulnerability has been found in Axiomatic Bento4 and classified as problematic. This vulnerability affects the function AP4_AtomFactory::CreateAtomFromStream of the component mp4edit. The manipulation leads to memory leak. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-212008.
+- [Live-Hack-CVE/CVE-2022-3668](https://github.com/Live-Hack-CVE/CVE-2022-3668)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3668">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3668">
 - [Live-Hack-CVE/CVE-2022-3668](https://github.com/Live-Hack-CVE/CVE-2022-3668)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3668">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3668">
 
 ---
@@ -12431,10 +12456,12 @@
 ## CVE-2022-3665 (2022-10-26T19:15:00)
 > A vulnerability classified as critical was found in Axiomatic Bento4. Affected by this vulnerability is an unknown functionality of the file AvcInfo.cpp of the component avcinfo. The manipulation leads to heap-based buffer overflow. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-212005 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-3665](https://github.com/Live-Hack-CVE/CVE-2022-3665)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3665">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3665">
+- [Live-Hack-CVE/CVE-2022-3665](https://github.com/Live-Hack-CVE/CVE-2022-3665)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3665">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3665">
 
 ---
 ## CVE-2022-3664 (2022-10-26T19:15:00)
 > A vulnerability classified as critical has been found in Axiomatic Bento4. Affected is the function AP4_BitStream::WriteBytes of the file Ap4BitStream.cpp of the component avcinfo. The manipulation leads to heap-based buffer overflow. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-212004.
+- [Live-Hack-CVE/CVE-2022-3664](https://github.com/Live-Hack-CVE/CVE-2022-3664)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3664">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3664">
 - [Live-Hack-CVE/CVE-2022-3664](https://github.com/Live-Hack-CVE/CVE-2022-3664)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3664">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3664">
 
 ---
@@ -17204,6 +17231,7 @@
 ## CVE-2022-30885 (2022-06-24T21:15:00)
 > The pyesasky for python, as distributed on PyPI, included a code-execution backdoor inserted by a third party. The current version, without this backdoor, is 1.2.0-1.4.2.
 - [Live-Hack-CVE/CVE-2022-30885](https://github.com/Live-Hack-CVE/CVE-2022-30885)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30885">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30885">
+- [Live-Hack-CVE/CVE-2022-30885](https://github.com/Live-Hack-CVE/CVE-2022-30885)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30885">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30885">
 
 ---
 ## CVE-2022-3088 (2022-11-28T22:15:00)
@@ -17496,6 +17524,7 @@
 ---
 ## CVE-2022-30550 (2022-07-17T19:15:00)
 > An issue was discovered in the auth component in Dovecot 2.2 and 2.3 before 2.3.20. When two passdb configuration entries exist with the same driver and args settings, incorrect username_filter and mechanism settings can be applied to passdb definitions. These incorrectly applied settings can lead to an unintended security configuration and can permit privilege escalation in certain configurations. The documentation does not advise against the use of passdb definitions that have the same driver and args settings. One such configuration would be where an administrator wishes to use the same PAM configuration or passwd file for both normal and master users but use the username_filter setting to restrict which of the users is able to be a master user.
+- [Live-Hack-CVE/CVE-2022-30550](https://github.com/Live-Hack-CVE/CVE-2022-30550)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30550">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30550">
 - [Live-Hack-CVE/CVE-2022-30550](https://github.com/Live-Hack-CVE/CVE-2022-30550)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30550">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30550">
 
 ---
@@ -18587,6 +18616,7 @@
 ## CVE-2022-28366 (2022-04-21T23:15:00)
 > Certain Neko-related HTML parsers allow a denial of service via crafted Processing Instruction (PI) input that causes excessive heap memory consumption. In particular, this issue exists in HtmlUnit-Neko through 2.26, and is fixed in 2.27. This issue also exists in CyberNeko HTML through 1.9.22 (also affecting OWASP AntiSamy before 1.6.6), but 1.9.22 is the last version of CyberNeko HTML. NOTE: this may be related to CVE-2022-24839.
 - [Live-Hack-CVE/CVE-2022-28366](https://github.com/Live-Hack-CVE/CVE-2022-28366)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28366">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28366">
+- [Live-Hack-CVE/CVE-2022-28366](https://github.com/Live-Hack-CVE/CVE-2022-28366)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28366">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28366">
 
 ---
 ## CVE-2022-28347 (2022-04-12T05:15:00)
@@ -19062,6 +19092,7 @@
 ---
 ## CVE-2022-26981 (2022-03-13T18:15:00)
 > Liblouis through 3.21.0 has a buffer overflow in compilePassOpcode in compileTranslationTable.c (called, indirectly, by tools/lou_checktable.c).
+- [Live-Hack-CVE/CVE-2022-26981](https://github.com/Live-Hack-CVE/CVE-2022-26981)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26981">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26981">
 - [Live-Hack-CVE/CVE-2022-26981](https://github.com/Live-Hack-CVE/CVE-2022-26981)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26981">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26981">
 
 ---
@@ -19985,6 +20016,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-2521](https://github.com/Live-Hack-CVE/CVE-2022-2521)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2521">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2521">
 
 ---
+## CVE-2022-25193 (2022-02-15T17:15:00)
+> Missing permission checks in Jenkins Snow Commander Plugin 1.10 and earlier allow attackers with Overall/Read permission to connect to an attacker-specified webserver using attacker-specified credentials IDs obtained through another method, capturing credentials stored in Jenkins.
+- [Live-Hack-CVE/CVE-2022-25193](https://github.com/Live-Hack-CVE/CVE-2022-25193)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25193">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25193">
+
+---
 ## CVE-2022-25192 (2022-02-15T17:15:00)
 > A cross-site request forgery (CSRF) vulnerability in Jenkins Snow Commander Plugin 1.10 and earlier allows attackers to connect to an attacker-specified webserver using attacker-specified credentials IDs obtained through another method, capturing credentials stored in Jenkins.
 - [Live-Hack-CVE/CVE-2022-25192](https://github.com/Live-Hack-CVE/CVE-2022-25192)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25192">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25192">
@@ -19992,6 +20028,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ---
 ## CVE-2022-25175 (2022-02-15T17:15:00)
 > Jenkins Pipeline: Multibranch Plugin 706.vd43c65dec013 and earlier uses the same checkout directories for distinct SCMs for the readTrusted step, allowing attackers with Item/Configure permission to invoke arbitrary OS commands on the controller through crafted SCM contents.
+- [Live-Hack-CVE/CVE-2022-25175](https://github.com/Live-Hack-CVE/CVE-2022-25175)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25175">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25175">
 - [Live-Hack-CVE/CVE-2022-25175](https://github.com/Live-Hack-CVE/CVE-2022-25175)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25175">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25175">
 
 ---

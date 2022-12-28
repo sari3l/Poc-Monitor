@@ -1,6 +1,17 @@
 # 2017 List
 
 ---
+## CVE-2017-9947 (2017-10-23T08:29:00)
+> A vulnerability has been identified in Siemens APOGEE PXC and TALON TC BACnet Automation Controllers in all versions <V3.5. A directory traversal vulnerability could allow a remote attacker with network access to the integrated web server (80/tcp and 443/tcp) to obtain information on the structure of the file system of the affected devices.
+- [Live-Hack-CVE/CVE-2017-9947](https://github.com/Live-Hack-CVE/CVE-2017-9947)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-9947">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-9947">
+- [RoseSecurity/APOLOGEE](https://github.com/RoseSecurity/APOLOGEE)	<img alt="forks" src="https://img.shields.io/github/forks/RoseSecurity/APOLOGEE">	<img alt="stars" src="https://img.shields.io/github/stars/RoseSecurity/APOLOGEE">
+
+---
+## CVE-2017-9946 (2017-10-23T08:29:00)
+> A vulnerability has been identified in Siemens APOGEE PXC and TALON TC BACnet Automation Controllers in all versions <V3.5. An attacker with network access to the integrated web server (80/tcp and 443/tcp) could bypass the authentication and download sensitive information from the device.
+- [Live-Hack-CVE/CVE-2017-9946](https://github.com/Live-Hack-CVE/CVE-2017-9946)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-9946">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-9946">
+
+---
 ## CVE-2017-9929 (2017-06-26T07:29:00)
 > In lrzip 0.631, a stack buffer overflow was found in the function get_fileinfo in lrzip.c:1074, which allows attackers to cause a denial of service via a crafted file.
 - [Live-Hack-CVE/CVE-2017-9929](https://github.com/Live-Hack-CVE/CVE-2017-9929)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-9929">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-9929">
