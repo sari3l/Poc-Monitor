@@ -1161,6 +1161,7 @@
 > Payara Micro Community 5.2021.6 and below allows Directory Traversal.
 - [Live-Hack-CVE/CVE-2021-41381](https://github.com/Live-Hack-CVE/CVE-2021-41381)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41381">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41381">
 - [Net-hunter121/CVE-2021-41381](https://github.com/Net-hunter121/CVE-2021-41381)	<img alt="forks" src="https://img.shields.io/github/forks/Net-hunter121/CVE-2021-41381">	<img alt="stars" src="https://img.shields.io/github/stars/Net-hunter121/CVE-2021-41381">
+- [Live-Hack-CVE/CVE-2021-41381](https://github.com/Live-Hack-CVE/CVE-2021-41381)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41381">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41381">
 
 ---
 ## CVE-2021-41349 (2021-11-10T01:19:00)
@@ -1566,6 +1567,7 @@
 ## CVE-2021-40226 (2022-11-10T18:15:00)
 > xpdfreader 4.03 is vulnerable to Buffer Overflow.
 - [Live-Hack-CVE/CVE-2021-40226](https://github.com/Live-Hack-CVE/CVE-2021-40226)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40226">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40226">
+- [Live-Hack-CVE/CVE-2021-40226](https://github.com/Live-Hack-CVE/CVE-2021-40226)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40226">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40226">
 
 ---
 ## CVE-2021-4022 (2022-08-25T18:15:00)
@@ -1786,6 +1788,7 @@
 > XStream is a simple library to serialize objects to XML and back again. In affected versions this vulnerability may allow a remote attacker has sufficient rights to execute commands of the host only by manipulating the processed input stream. No user is affected, who followed the recommendation to setup XStream's security framework with a whitelist limited to the minimal required types. XStream 1.4.18 uses no longer a blacklist by default, since it cannot be secured for general purpose.
 - [b3wT/CVE-2021-39144-XSTREAM-RCE](https://github.com/b3wT/CVE-2021-39144-XSTREAM-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/b3wT/CVE-2021-39144-XSTREAM-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/b3wT/CVE-2021-39144-XSTREAM-RCE">
 - [zwjjustdoit/Xstream-1.4.17](https://github.com/zwjjustdoit/Xstream-1.4.17)	<img alt="forks" src="https://img.shields.io/github/forks/zwjjustdoit/Xstream-1.4.17">	<img alt="stars" src="https://img.shields.io/github/stars/zwjjustdoit/Xstream-1.4.17">
+- [Live-Hack-CVE/CVE-2021-39144](https://github.com/Live-Hack-CVE/CVE-2021-39144)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39144">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39144">
 - [Live-Hack-CVE/CVE-2021-39144](https://github.com/Live-Hack-CVE/CVE-2021-39144)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39144">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39144">
 
 ---
