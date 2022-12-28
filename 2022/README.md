@@ -13498,6 +13498,26 @@
 - [Live-Hack-CVE/CVE-2022-35882](https://github.com/Live-Hack-CVE/CVE-2022-35882)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35882">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35882">
 
 ---
+## CVE-2022-35881 (2022-10-25T17:15:00)
+> Four format string injection vulnerabilities exist in the UPnP logging functionality of Abode Systems, Inc. iota All-In-One Security Kit 6.9Z and 6.9X. A specially-crafted UPnP negotiation can lead to memory corruption, information disclosure, and denial of service. An attacker can host a malicious UPnP service to trigger these vulnerabilities.This vulnerability arises from format string injection via `errorCode` and `errorDescription` XML tags, as used within the `DoUpdateUPnPbyService` action handler.
+- [Live-Hack-CVE/CVE-2022-35881](https://github.com/Live-Hack-CVE/CVE-2022-35881)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35881">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35881">
+
+---
+## CVE-2022-35880 (2022-10-25T17:15:00)
+> Four format string injection vulnerabilities exist in the UPnP logging functionality of Abode Systems, Inc. iota All-In-One Security Kit 6.9Z and 6.9X. A specially-crafted UPnP negotiation can lead to memory corruption, information disclosure, and denial of service. An attacker can host a malicious UPnP service to trigger these vulnerabilities.This vulnerability arises from format string injection via `NewInternalClient` XML tag, as used within the `DoUpdateUPnPbyService` action handler.
+- [Live-Hack-CVE/CVE-2022-35880](https://github.com/Live-Hack-CVE/CVE-2022-35880)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35880">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35880">
+
+---
+## CVE-2022-35879 (2022-10-25T17:15:00)
+> Four format string injection vulnerabilities exist in the UPnP logging functionality of Abode Systems, Inc. iota All-In-One Security Kit 6.9Z and 6.9X. A specially-crafted UPnP negotiation can lead to memory corruption, information disclosure, and denial of service. An attacker can host a malicious UPnP service to trigger these vulnerabilities.This vulnerability arises from format string injection via `controlURL` XML tag, as used within the `DoUpdateUPnPbyService` action handler.
+- [Live-Hack-CVE/CVE-2022-35879](https://github.com/Live-Hack-CVE/CVE-2022-35879)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35879">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35879">
+
+---
+## CVE-2022-35878 (2022-10-25T17:15:00)
+> Four format string injection vulnerabilities exist in the UPnP logging functionality of Abode Systems, Inc. iota All-In-One Security Kit 6.9Z and 6.9X. A specially-crafted UPnP negotiation can lead to memory corruption, information disclosure, and denial of service. An attacker can host a malicious UPnP service to trigger these vulnerabilities.This vulnerability arises from format string injection via `ST` and `Location` HTTP response headers, as used within the `DoEnumUPnPService` action handler.
+- [Live-Hack-CVE/CVE-2022-35878](https://github.com/Live-Hack-CVE/CVE-2022-35878)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35878">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35878">
+
+---
 ## CVE-2022-35860 (2022-10-19T02:15:00)
 > Missing AES encryption in Corsair K63 Wireless 3.1.3 allows physically proximate attackers to inject and sniff keystrokes via 2.4 GHz radio transmissions.
 - [Live-Hack-CVE/CVE-2022-35860](https://github.com/Live-Hack-CVE/CVE-2022-35860)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35860">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35860">
@@ -17012,6 +17032,11 @@
 - [Live-Hack-CVE/CVE-2022-3122](https://github.com/Live-Hack-CVE/CVE-2022-3122)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3122">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3122">
 
 ---
+## CVE-2022-31214 (2022-06-09T16:15:00)
+> A Privilege Context Switching issue was discovered in join.c in Firejail 0.9.68. By crafting a bogus Firejail container that is accepted by the Firejail setuid-root program as a join target, a local attacker can enter an environment in which the Linux user namespace is still the initial user namespace, the NO_NEW_PRIVS prctl is not activated, and the entered mount namespace is under the attacker's control. In this way, the filesystem layout can be adjusted to gain root privileges through execution of available setuid-root binaries such as su or sudo.
+- [Live-Hack-CVE/CVE-2022-31214](https://github.com/Live-Hack-CVE/CVE-2022-31214)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31214">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31214">
+
+---
 ## CVE-2022-31199 (2022-11-08T01:15:00)
 > Remote code execution vulnerabilities exist in the Netwrix Auditor User Activity Video Recording component affecting both the Netwrix Auditor server and agents installed on monitored systems. The remote code execution vulnerabilities exist within the underlying protocol used by the component, and potentially allow an unauthenticated remote attacker to execute arbitrary code as the NT AUTHORITY\SYSTEM user on affected systems, including on systems Netwrix Auditor monitors.
 - [Live-Hack-CVE/CVE-2022-31199](https://github.com/Live-Hack-CVE/CVE-2022-31199)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31199">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31199">
@@ -17863,6 +17888,16 @@
 - [dianaross20/Cve-2022-30190](https://github.com/dianaross20/Cve-2022-30190)	<img alt="forks" src="https://img.shields.io/github/forks/dianaross20/Cve-2022-30190">	<img alt="stars" src="https://img.shields.io/github/stars/dianaross20/Cve-2022-30190">
 
 ---
+## CVE-2022-30166 (2022-06-15T22:15:00)
+> Local Security Authority Subsystem Service Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2022-30166](https://github.com/Live-Hack-CVE/CVE-2022-30166)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30166">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30166">
+
+---
+## CVE-2022-30155 (2022-06-15T22:15:00)
+> Windows Kernel Denial of Service Vulnerability.
+- [Live-Hack-CVE/CVE-2022-30155](https://github.com/Live-Hack-CVE/CVE-2022-30155)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30155">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30155">
+
+---
 ## CVE-2022-30150 (2022-06-15T22:15:00)
 > Windows Defender Remote Credential Guard Elevation of Privilege Vulnerability.
 - [Live-Hack-CVE/CVE-2022-30150](https://github.com/Live-Hack-CVE/CVE-2022-30150)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30150">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30150">
@@ -18369,6 +18404,11 @@
 ## CVE-2022-29247 (2022-06-13T21:15:00)
 > Electron is a framework for writing cross-platform desktop applications using JavaScript (JS), HTML, and CSS. A vulnerability in versions prior to 18.0.0-beta.6, 17.2.0, 16.2.6, and 15.5.5 allows a renderer with JS execution to obtain access to a new renderer process with `nodeIntegrationInSubFrames` enabled which in turn allows effective access to `ipcRenderer`. The `nodeIntegrationInSubFrames` option does not implicitly grant Node.js access. Rather, it depends on the existing sandbox setting. If an application is sandboxed, then `nodeIntegrationInSubFrames` just gives access to the sandboxed renderer APIs, which include `ipcRenderer`. If the application then additionally exposes IPC messages without IPC `senderFrame` validation that perform privileged actions or return confidential data this access to `ipcRenderer` can in turn compromise your application / user even with the sandbox enabled. Electron versions 18.0.0-beta.6, 17.2.0, 16.2.6, and 15.5.5 contain a fix for this issue. As a workaround, ensure that all IPC message handlers appropriately validate `senderFrame`.
 - [a1ise/CVE-2022-29247](https://github.com/a1ise/CVE-2022-29247)	<img alt="forks" src="https://img.shields.io/github/forks/a1ise/CVE-2022-29247">	<img alt="stars" src="https://img.shields.io/github/stars/a1ise/CVE-2022-29247">
+
+---
+## CVE-2022-29244 (2022-06-13T14:15:00)
+> npm pack ignores root-level .gitignore and .npmignore file exclusion directives when run in a workspace or with a workspace flag (ie. `--workspaces`, `--workspace=<name>`). Anyone who has run `npm pack` or `npm publish` inside a workspace, as of v7.9.0 and v7.13.0 respectively, may be affected and have published files into the npm registry they did not intend to include. Users should upgrade to the latest, patched version of npm v8.11.0, run: npm i -g npm@latest . Node.js versions v16.15.1, v17.19.1, and v18.3.0 include the patched v8.11.0 version of npm.
+- [Live-Hack-CVE/CVE-2022-29244](https://github.com/Live-Hack-CVE/CVE-2022-29244)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29244">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29244">
 
 ---
 ## CVE-2022-2924 (2022-09-20T06:15:00)
@@ -20364,6 +20404,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-24577](https://github.com/Live-Hack-CVE/CVE-2022-24577)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24577">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24577">
 
 ---
+## CVE-2022-24562 (2022-06-16T19:15:00)
+> In IOBit IOTransfer 4.3.1.1561, an unauthenticated attacker can send GET and POST requests to Airserv and gain arbitrary read/write access to the entire file-system (with admin privileges) on the victim's endpoint, which can result in data theft and remote code execution.
+- [Live-Hack-CVE/CVE-2022-24562](https://github.com/Live-Hack-CVE/CVE-2022-24562)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24562">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24562">
+
+---
 ## CVE-2022-24504 (2022-10-11T19:15:00)
 > Windows Point-to-Point Tunneling Protocol Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-22035, CVE-2022-30198, CVE-2022-33634, CVE-2022-38000, CVE-2022-38047, CVE-2022-41081.
 - [Live-Hack-CVE/CVE-2022-24504](https://github.com/Live-Hack-CVE/CVE-2022-24504)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24504">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24504">
@@ -22266,6 +22311,16 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [CiscoPSIRT/CVE-2022-20866](https://github.com/CiscoPSIRT/CVE-2022-20866)	<img alt="forks" src="https://img.shields.io/github/forks/CiscoPSIRT/CVE-2022-20866">	<img alt="stars" src="https://img.shields.io/github/stars/CiscoPSIRT/CVE-2022-20866">
 
 ---
+## CVE-2022-20856 (2022-09-30T19:15:00)
+> A vulnerability in the processing of Control and Provisioning of Wireless Access Points (CAPWAP) Mobility messages in Cisco IOS XE Wireless Controller Software for the Catalyst 9000 Family could allow an unauthenticated, remote attacker to cause a denial of service (DoS) condition on an affected device. This vulnerability is due to a logic error and improper management of resources related to the handling of CAPWAP Mobility messages. An attacker could exploit this vulnerability by sending crafted CAPWAP Mobility packets to an affected device. A successful exploit could allow the attacker to exhaust resources on the affected device. This would cause the device to reload, resulting in a DoS condition.
+- [Live-Hack-CVE/CVE-2022-20856](https://github.com/Live-Hack-CVE/CVE-2022-20856)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20856">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20856">
+
+---
+## CVE-2022-20851 (2022-09-30T19:15:00)
+> A vulnerability in the web UI feature of Cisco IOS XE Software could allow an authenticated, remote attacker to perform an injection attack against an affected device. This vulnerability is due to insufficient input validation. An attacker could exploit this vulnerability by sending crafted input to the web UI API. A successful exploit could allow the attacker to execute arbitrary commands on the underlying operating system with root privileges. To exploit this vulnerability, an attacker must have valid Administrator privileges on the affected device.
+- [Live-Hack-CVE/CVE-2022-20851](https://github.com/Live-Hack-CVE/CVE-2022-20851)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20851">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20851">
+
+---
 ## CVE-2022-20850 (2022-09-30T19:15:00)
 > A vulnerability in the CLI of stand-alone Cisco IOS XE SD-WAN Software and Cisco SD-WAN Software could allow an authenticated, local attacker to delete arbitrary files from the file system of an affected device. This vulnerability is due to insufficient input validation. An attacker could exploit this vulnerability by injecting arbitrary file path information when using commands in the CLI of an affected device. A successful exploit could allow the attacker to delete arbitrary files from the file system of the affected device.
 - [Live-Hack-CVE/CVE-2022-20850](https://github.com/Live-Hack-CVE/CVE-2022-20850)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20850">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20850">
@@ -22303,6 +22358,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 > Multiple vulnerabilities in the API and in the web-based management interface of Cisco Expressway Series and Cisco TelePresence Video Communication Server (VCS) could allow a remote attacker to overwrite arbitrary files or conduct null byte poisoning attacks on an affected device. Note: Cisco Expressway Series refers to the Expressway Control (Expressway-C) device and the Expressway Edge (Expressway-E) device. For more information about these vulnerabilities, see the Details section of this advisory.
 - [Live-Hack-CVE/CVE-2022-20812](https://github.com/Live-Hack-CVE/CVE-2022-20812)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20812">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20812">
 - [Live-Hack-CVE/CVE-2022-20812](https://github.com/Live-Hack-CVE/CVE-2022-20812)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20812">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20812">
+
+---
+## CVE-2022-20810 (2022-09-30T19:15:00)
+> A vulnerability in the Simple Network Management Protocol (SNMP) of Cisco IOS XE Wireless Controller Software for the Catalyst 9000 Family could allow an authenticated, remote attacker to access sensitive information. This vulnerability is due to insufficient restrictions that allow a sensitive configuration detail to be disclosed. An attacker could exploit this vulnerability by retrieving data through SNMP read-only community access. A successful exploit could allow the attacker to view Service Set Identifier (SSID) preshared keys (PSKs) that are configured on the affected device.
+- [Live-Hack-CVE/CVE-2022-20810](https://github.com/Live-Hack-CVE/CVE-2022-20810)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20810">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20810">
 
 ---
 ## CVE-2022-2078 (2022-06-30T13:15:00)
@@ -24108,6 +24168,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1059 (2022-10-21T16:15:00)
 > Aethon TUG Home Base Server versions prior to version 24 are affected by un unauthenticated attacker who can freely access hashed user credentials.
 - [Live-Hack-CVE/CVE-2022-1059](https://github.com/Live-Hack-CVE/CVE-2022-1059)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1059">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1059">
+
+---
+## CVE-2022-1049 (2022-03-25T19:15:00)
+> A flaw was found in the Pacemaker configuration tool (pcs). The pcs daemon was allowing expired accounts, and accounts with expired passwords to login when using PAM authentication. Therefore, unprivileged expired accounts that have been denied access could still login.
+- [Live-Hack-CVE/CVE-2022-1049](https://github.com/Live-Hack-CVE/CVE-2022-1049)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1049">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1049">
 
 ---
 ## CVE-2022-1048 (2022-04-29T16:15:00)

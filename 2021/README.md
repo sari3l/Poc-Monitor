@@ -2067,9 +2067,24 @@
 - [Live-Hack-CVE/CVE-2021-38465](https://github.com/Live-Hack-CVE/CVE-2021-38465)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38465">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38465">
 
 ---
+## CVE-2021-38463 (2021-10-22T12:15:00)
+> The affected product does not properly control the allocation of resources. A user may be able to allocate unlimited memory buffers using API functions.
+- [Live-Hack-CVE/CVE-2021-38463](https://github.com/Live-Hack-CVE/CVE-2021-38463)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38463">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38463">
+
+---
+## CVE-2021-38461 (2021-10-22T12:15:00)
+> The affected product uses a hard-coded blowfish key for encryption/decryption processes. The key can be easily extracted from binaries.
+- [Live-Hack-CVE/CVE-2021-38461](https://github.com/Live-Hack-CVE/CVE-2021-38461)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38461">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38461">
+
+---
 ## CVE-2021-38460 (2021-10-12T14:15:00)
 > A path traversal vulnerability in the Moxa MXview Network Management software Versions 3.x to 3.2.2 may allow an attacker to create or overwrite critical files used to execute code, such as programs or libraries.
 - [Live-Hack-CVE/CVE-2021-38460](https://github.com/Live-Hack-CVE/CVE-2021-38460)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38460">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38460">
+
+---
+## CVE-2021-38457 (2021-10-22T12:15:00)
+> The server permits communication without any authentication procedure, allowing the attacker to initiate a session with the server without providing any form of authentication.
+- [Live-Hack-CVE/CVE-2021-38457](https://github.com/Live-Hack-CVE/CVE-2021-38457)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38457">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38457">
 
 ---
 ## CVE-2021-38454 (2021-10-12T14:15:00)
@@ -2257,6 +2272,11 @@
 ## CVE-2021-37533 (2022-12-03T15:15:00)
 > Prior to Apache Commons Net 3.9.0, Net's FTP client trusts the host from PASV response by default. A malicious server can redirect the Commons Net code to use a different host, but the user has to connect to the malicious server in the first place. This may lead to leakage of information about services running on the private network of the client. The default in version 3.9.0 is now false to ignore such hosts, as cURL does. See https://issues.apache.org/jira/browse/NET-711.
 - [Live-Hack-CVE/CVE-2021-37533](https://github.com/Live-Hack-CVE/CVE-2021-37533)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37533">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37533">
+
+---
+## CVE-2021-37404 (2022-06-13T07:15:00)
+> There is a potential heap buffer overflow in Apache Hadoop libhdfs native code. Opening a file path provided by user without validation may result in a denial of service or arbitrary code execution. Users should upgrade to Apache Hadoop 2.10.2, 3.2.3, 3.3.2 or higher.
+- [Live-Hack-CVE/CVE-2021-37404](https://github.com/Live-Hack-CVE/CVE-2021-37404)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37404">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37404">
 
 ---
 ## CVE-2021-3732 (2022-03-10T17:42:00)
@@ -3194,6 +3214,11 @@
 - [Live-Hack-CVE/CVE-2021-33477](https://github.com/Live-Hack-CVE/CVE-2021-33477)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33477">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33477">
 
 ---
+## CVE-2021-33473 (2022-06-02T20:15:00)
+> An argument injection vulnerability in Dragonfly Ruby Gem v1.3.0 allows attackers to read and write arbitrary files when the verify_url option is disabled. This vulnerability is exploited via a crafted URL.
+- [Live-Hack-CVE/CVE-2021-33473](https://github.com/Live-Hack-CVE/CVE-2021-33473)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33473">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33473">
+
+---
 ## CVE-2021-3326 (2021-01-27T20:15:00)
 > The iconv function in the GNU C Library (aka glibc or libc6) 2.32 and earlier, when processing invalid input sequences in the ISO-2022-JP-3 encoding, fails an assertion in the code path and aborts the program, potentially resulting in a denial of service.
 - [Live-Hack-CVE/CVE-2021-3326](https://github.com/Live-Hack-CVE/CVE-2021-3326)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3326">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3326">
@@ -3257,6 +3282,11 @@
 ## CVE-2021-33060 (2022-08-18T20:15:00)
 > Out-of-bounds write in the BIOS firmware for some Intel(R) Processors may allow an authenticated user to potentially enable escalation of privilege via local access.
 - [Live-Hack-CVE/CVE-2021-33060](https://github.com/Live-Hack-CVE/CVE-2021-33060)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33060">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33060">
+
+---
+## CVE-2021-33036 (2022-06-15T15:15:00)
+> In Apache Hadoop 2.2.0 to 2.10.1, 3.0.0-alpha1 to 3.1.4, 3.2.0 to 3.2.2, and 3.3.0 to 3.3.1, a user who can escalate to yarn user can possibly run arbitrary commands as root user. Users should upgrade to Apache Hadoop 2.10.2, 3.2.3, 3.3.2 or higher.
+- [Live-Hack-CVE/CVE-2021-33036](https://github.com/Live-Hack-CVE/CVE-2021-33036)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33036">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33036">
 
 ---
 ## CVE-2021-33026 (2021-05-13T23:15:00)
@@ -3476,6 +3506,11 @@
 ## CVE-2021-31525 (2021-05-27T13:15:00)
 > net/http in Go before 1.15.12 and 1.16.x before 1.16.4 allows remote attackers to cause a denial of service (panic) via a large header to ReadRequest or ReadResponse. Server, Transport, and Client can each be affected in some configurations.
 - [Live-Hack-CVE/CVE-2021-31525](https://github.com/Live-Hack-CVE/CVE-2021-31525)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31525">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31525">
+
+---
+## CVE-2021-31375 (2021-10-19T19:15:00)
+> An Improper Input Validation vulnerability in routing process daemon (RPD) of Juniper Networks Junos OS devices configured with BGP origin validation using Resource Public Key Infrastructure (RPKI), allows an attacker to send a specific BGP update which may cause RPKI policy-checks to be bypassed. This, in turn, may allow a spoofed advertisement to be accepted or propagated. This issue affects: Juniper Networks Junos OS 12.3 versions prior to 12.3R12-S18; 15.1 versions prior to 15.1R7-S9; 17.2 versions prior to 17.2R3-S3; 17.3 versions prior to 17.3R3-S7; 17.4 versions prior to 17.4R2-S9, 17.4R3; 18.1 versions prior to 18.1R3-S13; 18.2 versions prior to 18.2R3-S3; 18.3 versions prior to 18.3R3-S1; 18.4 versions prior to 18.4R3; 19.1 versions prior to 19.1R2; 19.2 versions prior to 19.2R2; 19.3 versions prior to 19.3R2.
+- [Live-Hack-CVE/CVE-2021-31375](https://github.com/Live-Hack-CVE/CVE-2021-31375)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31375">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31375">
 
 ---
 ## CVE-2021-31361 (2021-10-19T19:15:00)
