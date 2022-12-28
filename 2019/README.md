@@ -1112,14 +1112,40 @@
 - [Live-Hack-CVE/CVE-2019-19206](https://github.com/Live-Hack-CVE/CVE-2019-19206)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19206">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19206">
 
 ---
+## CVE-2019-19126 (2019-11-19T22:15:00)
+> On the x86-64 architecture, the GNU C Library (aka glibc) before 2.31 fails to ignore the LD_PREFER_MAP_32BIT_EXEC environment variable during program execution after a security transition, allowing local attackers to restrict the possible mapping addresses for loaded libraries and thus bypass ASLR for a setuid program.
+- [Live-Hack-CVE/CVE-2019-19126](https://github.com/Live-Hack-CVE/CVE-2019-19126)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19126">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19126">
+
+---
+## CVE-2019-19061 (2019-11-18T06:15:00)
+> A memory leak in the adis_update_scan_mode_burst() function in drivers/iio/imu/adis_buffer.c in the Linux kernel before 5.3.9 allows attackers to cause a denial of service (memory consumption), aka CID-9c0530e898f3.
+- [Live-Hack-CVE/CVE-2019-19061](https://github.com/Live-Hack-CVE/CVE-2019-19061)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19061">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19061">
+
+---
+## CVE-2019-19060 (2019-11-18T06:15:00)
+> A memory leak in the adis_update_scan_mode() function in drivers/iio/imu/adis_buffer.c in the Linux kernel before 5.3.9 allows attackers to cause a denial of service (memory consumption), aka CID-ab612b1daf41.
+- [Live-Hack-CVE/CVE-2019-19060](https://github.com/Live-Hack-CVE/CVE-2019-19060)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19060">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19060">
+
+---
 ## CVE-2019-19054 (2019-11-18T06:15:00)
 > A memory leak in the cx23888_ir_probe() function in drivers/media/pci/cx23885/cx23888-ir.c in the Linux kernel through 5.3.11 allows attackers to cause a denial of service (memory consumption) by triggering kfifo_alloc() failures, aka CID-a7b2df76b42b.
 - [Live-Hack-CVE/CVE-2019-19054](https://github.com/Live-Hack-CVE/CVE-2019-19054)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19054">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19054">
+- [Live-Hack-CVE/CVE-2019-19054](https://github.com/Live-Hack-CVE/CVE-2019-19054)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19054">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19054">
+
+---
+## CVE-2019-19052 (2019-11-18T06:15:00)
+> A memory leak in the gs_can_open() function in drivers/net/can/usb/gs_usb.c in the Linux kernel before 5.3.11 allows attackers to cause a denial of service (memory consumption) by triggering usb_submit_urb() failures, aka CID-fb5be6a7b486.
+- [Live-Hack-CVE/CVE-2019-19052](https://github.com/Live-Hack-CVE/CVE-2019-19052)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19052">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19052">
 
 ---
 ## CVE-2019-18901 (2020-03-02T16:15:00)
 > A UNIX Symbolic Link (Symlink) Following vulnerability in the mysql-systemd-helper of the mariadb packaging of SUSE Linux Enterprise Server 12, SUSE Linux Enterprise Server 15 allows local attackers to change the permissions of arbitrary files to 0640. This issue affects: SUSE Linux Enterprise Server 12 mariadb versions prior to 10.2.31-3.25.1. SUSE Linux Enterprise Server 15 mariadb versions prior to 10.2.31-3.26.1.
 - [Live-Hack-CVE/CVE-2019-18901](https://github.com/Live-Hack-CVE/CVE-2019-18901)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-18901">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-18901">
+
+---
+## CVE-2019-18899 (2020-01-23T15:15:00)
+> The apt-cacher-ng package of openSUSE Leap 15.1 runs operations in user owned directory /run/apt-cacher-ng with root privileges. This can allow local attackers to influence the outcome of these operations. This issue affects: openSUSE Leap 15.1 apt-cacher-ng versions prior to 3.1-lp151.3.3.1.
+- [Live-Hack-CVE/CVE-2019-18899](https://github.com/Live-Hack-CVE/CVE-2019-18899)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-18899">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-18899">
 
 ---
 ## CVE-2019-18897 (2020-03-02T16:15:00)
@@ -1390,9 +1416,19 @@
 - [Live-Hack-CVE/CVE-2019-14907](https://github.com/Live-Hack-CVE/CVE-2019-14907)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14907">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14907">
 
 ---
+## CVE-2019-14886 (2020-03-05T18:15:00)
+> A vulnerability was found in business-central, as shipped in rhdm-7.5.1 and rhpam-7.5.1, where encoded passwords are stored in errai_security_context. The encoding used for storing the passwords is Base64, not an encryption algorithm, and any recovery of these passwords could lead to user passwords being exposed.
+- [Live-Hack-CVE/CVE-2019-14886](https://github.com/Live-Hack-CVE/CVE-2019-14886)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14886">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14886">
+
+---
 ## CVE-2019-14870 (2019-12-10T23:15:00)
 > All Samba versions 4.x.x before 4.9.17, 4.10.x before 4.10.11 and 4.11.x before 4.11.3 have an issue, where the S4U (MS-SFU) Kerberos delegation model includes a feature allowing for a subset of clients to be opted out of constrained delegation in any way, either S4U2Self or regular Kerberos authentication, by forcing all tickets for these clients to be non-forwardable. In AD this is implemented by a user attribute delegation_not_allowed (aka not-delegated), which translates to disallow-forwardable. However the Samba AD DC does not do that for S4U2Self and does set the forwardable flag even if the impersonated client has the not-delegated flag set.
 - [Live-Hack-CVE/CVE-2019-14870](https://github.com/Live-Hack-CVE/CVE-2019-14870)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14870">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14870">
+
+---
+## CVE-2019-14855 (2020-03-20T16:15:00)
+> A flaw was found in the way certificate signatures could be forged using collisions found in the SHA-1 algorithm. An attacker could use this weakness to create forged certificate signatures. This issue affects GnuPG versions before 2.2.18.
+- [Live-Hack-CVE/CVE-2019-14855](https://github.com/Live-Hack-CVE/CVE-2019-14855)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14855">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14855">
 
 ---
 ## CVE-2019-14842 (2019-11-26T16:15:00)
@@ -1619,6 +1655,11 @@
 ## CVE-2019-10808 (2020-03-11T23:15:00)
 > utilitify prior to 1.0.3 allows modification of object properties. The merge method could be tricked into adding or modifying properties of the Object.prototype.
 - [Live-Hack-CVE/CVE-2019-10808](https://github.com/Live-Hack-CVE/CVE-2019-10808)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10808">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10808">
+
+---
+## CVE-2019-10800 (2022-07-13T12:15:00)
+> This affects the package codecov before 2.0.16. The vulnerability occurs due to not sanitizing gcov arguments before being being provided to the popen method.
+- [Live-Hack-CVE/CVE-2019-10800](https://github.com/Live-Hack-CVE/CVE-2019-10800)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10800">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10800">
 
 ---
 ## CVE-2019-10742 (2019-05-07T19:29:00)

@@ -479,8 +479,14 @@
 - [Live-Hack-CVE/CVE-2020-6627](https://github.com/Live-Hack-CVE/CVE-2020-6627)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6627">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6627">
 
 ---
+## CVE-2020-6625 (2020-01-09T01:15:00)
+> jhead through 3.04 has a heap-based buffer over-read in Get32s when called from ProcessGpsInfo in gpsinfo.c.
+- [Live-Hack-CVE/CVE-2020-6625](https://github.com/Live-Hack-CVE/CVE-2020-6625)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6625">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6625">
+
+---
 ## CVE-2020-6624 (2020-01-09T01:15:00)
 > jhead through 3.04 has a heap-based buffer over-read in process_DQT in jpgqguess.c.
+- [Live-Hack-CVE/CVE-2020-6624](https://github.com/Live-Hack-CVE/CVE-2020-6624)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6624">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6624">
 - [Live-Hack-CVE/CVE-2020-6624](https://github.com/Live-Hack-CVE/CVE-2020-6624)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6624">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6624">
 
 ---
@@ -1982,6 +1988,11 @@
 - [Live-Hack-CVE/CVE-2020-20951](https://github.com/Live-Hack-CVE/CVE-2020-20951)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-20951">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-20951">
 
 ---
+## CVE-2020-2091 (2020-01-15T16:15:00)
+> A missing permission check in Jenkins Amazon EC2 Plugin 1.47 and earlier allows attackers with Overall/Read permission to connect to an attacker-specified URL within the AWS region using attacker-specified credentials IDs obtained through another method.
+- [Live-Hack-CVE/CVE-2020-2091](https://github.com/Live-Hack-CVE/CVE-2020-2091)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2091">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2091">
+
+---
 ## CVE-2020-20907 (2021-05-24T18:15:00)
 > MetInfo 7.0 beta is affected by a file modification vulnerability. Attackers can delete and modify ini files in app/system/language/admin/language_general.class.php and app/system/include/function/file.func.php.
 - [Live-Hack-CVE/CVE-2020-20907](https://github.com/Live-Hack-CVE/CVE-2020-20907)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-20907">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-20907">
@@ -2155,6 +2166,21 @@
 ## CVE-2020-1730 (2020-04-13T19:15:00)
 > A flaw was found in libssh versions before 0.8.9 and before 0.9.4 in the way it handled AES-CTR (or DES ciphers if enabled) ciphers. The server or client could crash when the connection hasn't been fully initialized and the system tries to cleanup the ciphers when closing the connection. The biggest threat from this vulnerability is system availability.
 - [Live-Hack-CVE/CVE-2020-1730](https://github.com/Live-Hack-CVE/CVE-2020-1730)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1730">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1730">
+
+---
+## CVE-2020-1709 (2020-03-20T15:15:00)
+> A vulnerability was found in all openshift/mediawiki 4.x.x versions prior to 4.3.0, where an insecure modification vulnerability in the /etc/passwd file was found in the openshift/mediawiki. An attacker with access to the container could use this flaw to modify /etc/passwd and escalate their privileges.
+- [Live-Hack-CVE/CVE-2020-1709](https://github.com/Live-Hack-CVE/CVE-2020-1709)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1709">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1709">
+
+---
+## CVE-2020-1707 (2020-03-20T15:15:00)
+> A vulnerability was found in all openshift/postgresql-apb 4.x.x versions prior to 4.3.0, where an insecure modification vulnerability in the /etc/passwd file was found in the container openshift/postgresql-apb. An attacker with access to the container could use this flaw to modify /etc/passwd and escalate their privileges.
+- [Live-Hack-CVE/CVE-2020-1707](https://github.com/Live-Hack-CVE/CVE-2020-1707)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1707">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1707">
+
+---
+## CVE-2020-1706 (2020-03-09T16:15:00)
+> It has been found that in openshift-enterprise version 3.11 and openshift-enterprise versions 4.1 up to, including 4.3, multiple containers modify the permissions of /etc/passwd to make them modifiable by users other than root. An attacker with access to the running container can exploit this to modify /etc/passwd to add a user and escalate their privileges. This CVE is specific to the openshift/apb-tools-container.
+- [Live-Hack-CVE/CVE-2020-1706](https://github.com/Live-Hack-CVE/CVE-2020-1706)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1706">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1706">
 
 ---
 ## CVE-2020-17049 (2020-11-11T07:15:00)
@@ -2477,6 +2503,7 @@
 ## CVE-2020-14334 (2020-07-31T13:15:00)
 > A flaw was found in Red Hat Satellite 6 which allows privileged attacker to read cache files. These cache credentials could help attacker to gain complete control of the Satellite instance.
 - [Live-Hack-CVE/CVE-2020-14334](https://github.com/Live-Hack-CVE/CVE-2020-14334)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14334">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14334">
+- [Live-Hack-CVE/CVE-2020-14334](https://github.com/Live-Hack-CVE/CVE-2020-14334)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14334">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14334">
 
 ---
 ## CVE-2020-14307 (2020-07-24T16:15:00)
@@ -2630,15 +2657,18 @@
 ## CVE-2020-12865 (2020-06-24T13:15:00)
 > A heap buffer overflow in SANE Backends before 1.0.30 may allow a malicious device connected to the same local network as the victim to execute arbitrary code, aka GHSL-2020-084.
 - [Live-Hack-CVE/CVE-2020-12865](https://github.com/Live-Hack-CVE/CVE-2020-12865)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12865">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12865">
+- [Live-Hack-CVE/CVE-2020-12865](https://github.com/Live-Hack-CVE/CVE-2020-12865)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12865">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12865">
 
 ---
 ## CVE-2020-12863 (2020-06-24T13:15:00)
 > An out-of-bounds read in SANE Backends before 1.0.30 may allow a malicious device connected to the same local network as the victim to read important information, such as the ASLR offsets of the program, aka GHSL-2020-083.
 - [Live-Hack-CVE/CVE-2020-12863](https://github.com/Live-Hack-CVE/CVE-2020-12863)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12863">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12863">
+- [Live-Hack-CVE/CVE-2020-12863](https://github.com/Live-Hack-CVE/CVE-2020-12863)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12863">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12863">
 
 ---
 ## CVE-2020-12862 (2020-06-24T13:15:00)
 > An out-of-bounds read in SANE Backends before 1.0.30 may allow a malicious device connected to the same local network as the victim to read important information, such as the ASLR offsets of the program, aka GHSL-2020-082.
+- [Live-Hack-CVE/CVE-2020-12862](https://github.com/Live-Hack-CVE/CVE-2020-12862)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12862">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12862">
 - [Live-Hack-CVE/CVE-2020-12862](https://github.com/Live-Hack-CVE/CVE-2020-12862)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12862">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12862">
 
 ---
@@ -2846,6 +2876,11 @@
 ## CVE-2020-10685 (2020-05-11T14:15:00)
 > A flaw was found in Ansible Engine affecting Ansible Engine versions 2.7.x before 2.7.17 and 2.8.x before 2.8.11 and 2.9.x before 2.9.7 as well as Ansible Tower before and including versions 3.4.5 and 3.5.5 and 3.6.3 when using modules which decrypts vault files such as assemble, script, unarchive, win_copy, aws_s3 or copy modules. The temporary directory is created in /tmp leaves the s ts unencrypted. On Operating Systems which /tmp is not a tmpfs but part of the root partition, the directory is only cleared on boot and the decryp emains when the host is switched off. The system will be vulnerable when the system is not running. So decrypted data must be cleared as soon as possible and the data which normally is encrypted ble.
 - [Live-Hack-CVE/CVE-2020-10685](https://github.com/Live-Hack-CVE/CVE-2020-10685)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10685">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10685">
+
+---
+## CVE-2020-10684 (2020-03-24T14:15:00)
+> A flaw was found in Ansible Engine, all versions 2.7.x, 2.8.x and 2.9.x prior to 2.7.17, 2.8.9 and 2.9.6 respectively, when using ansible_facts as a subkey of itself and promoting it to a variable when inject is enabled, overwriting the ansible_facts after the clean. An attacker could take advantage of this by altering the ansible_facts, such as ansible_hosts, users and any other key data which would lead into privilege escalation or code injection.
+- [Live-Hack-CVE/CVE-2020-10684](https://github.com/Live-Hack-CVE/CVE-2020-10684)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10684">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10684">
 
 ---
 ## CVE-2020-10627 (2021-12-01T16:15:00)

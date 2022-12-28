@@ -9647,6 +9647,11 @@
 - [Live-Hack-CVE/CVE-2022-38545](https://github.com/Live-Hack-CVE/CVE-2022-38545)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38545">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38545">
 
 ---
+## CVE-2022-38537 (2022-09-13T15:15:00)
+> Archery v1.4.5 to v1.8.5 was discovered to contain multiple SQL injection vulnerabilities via the start_file, end_file, start_time, and stop_time parameters in the binlog2sql interface.
+- [Live-Hack-CVE/CVE-2022-38537](https://github.com/Live-Hack-CVE/CVE-2022-38537)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38537">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38537">
+
+---
 ## CVE-2022-38533 (2022-08-26T00:15:00)
 > In GNU Binutils before 2.40, there is a heap-buffer-overflow in the error function bfd_getl32 when called from the strip_main function in strip-new via a crafted file.
 - [Live-Hack-CVE/CVE-2022-38533](https://github.com/Live-Hack-CVE/CVE-2022-38533)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38533">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38533">
@@ -12508,6 +12513,7 @@
 - [backcr4t/CVE-2022-36067-MASS-RCE](https://github.com/backcr4t/CVE-2022-36067-MASS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/backcr4t/CVE-2022-36067-MASS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/backcr4t/CVE-2022-36067-MASS-RCE">
 - [Prathamrajgor/Exploit-For-CVE-2022-36067](https://github.com/Prathamrajgor/Exploit-For-CVE-2022-36067)	<img alt="forks" src="https://img.shields.io/github/forks/Prathamrajgor/Exploit-For-CVE-2022-36067">	<img alt="stars" src="https://img.shields.io/github/stars/Prathamrajgor/Exploit-For-CVE-2022-36067">
 - [0x1nsomnia/CVE-2022-36067-vm2-POC-webapp](https://github.com/0x1nsomnia/CVE-2022-36067-vm2-POC-webapp)	<img alt="forks" src="https://img.shields.io/github/forks/0x1nsomnia/CVE-2022-36067-vm2-POC-webapp">	<img alt="stars" src="https://img.shields.io/github/stars/0x1nsomnia/CVE-2022-36067-vm2-POC-webapp">
+- [Live-Hack-CVE/CVE-2022-36067](https://github.com/Live-Hack-CVE/CVE-2022-36067)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36067">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36067">
 
 ---
 ## CVE-2022-36066 (2022-09-29T20:15:00)
@@ -12837,6 +12843,11 @@
 ## CVE-2022-35821 (2022-08-09T20:15:00)
 > Azure Sphere Information Disclosure Vulnerability.
 - [Live-Hack-CVE/CVE-2022-35821](https://github.com/Live-Hack-CVE/CVE-2022-35821)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35821">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35821">
+
+---
+## CVE-2022-35812 (2022-08-09T20:15:00)
+> Azure Site Recovery Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-35774, CVE-2022-35775, CVE-2022-35780, CVE-2022-35781, CVE-2022-35782, CVE-2022-35783, CVE-2022-35784, CVE-2022-35785, CVE-2022-35786, CVE-2022-35787, CVE-2022-35788, CVE-2022-35789, CVE-2022-35790, CVE-2022-35791, CVE-2022-35799, CVE-2022-35800, CVE-2022-35801, CVE-2022-35802, CVE-2022-35807, CVE-2022-35808, CVE-2022-35809, CVE-2022-35810, CVE-2022-35811, CVE-2022-35813, CVE-2022-35814, CVE-2022-35815, CVE-2022-35816, CVE-2022-35817, CVE-2022-35818, CVE-2022-35819.
+- [Live-Hack-CVE/CVE-2022-35812](https://github.com/Live-Hack-CVE/CVE-2022-35812)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35812">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35812">
 
 ---
 ## CVE-2022-35805 (2022-09-13T19:15:00)
@@ -14493,6 +14504,11 @@
 ## CVE-2022-33645 (2022-10-11T19:15:00)
 > Windows TCP/IP Driver Denial of Service Vulnerability.
 - [Live-Hack-CVE/CVE-2022-33645](https://github.com/Live-Hack-CVE/CVE-2022-33645)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33645">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33645">
+
+---
+## CVE-2022-33639 (2022-06-29T17:15:00)
+> Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-30192, CVE-2022-33638.
+- [Live-Hack-CVE/CVE-2022-33639](https://github.com/Live-Hack-CVE/CVE-2022-33639)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33639">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33639">
 
 ---
 ## CVE-2022-33635 (2022-10-11T19:15:00)
@@ -17512,6 +17528,11 @@
 ## CVE-2022-28366 (2022-04-21T23:15:00)
 > Certain Neko-related HTML parsers allow a denial of service via crafted Processing Instruction (PI) input that causes excessive heap memory consumption. In particular, this issue exists in HtmlUnit-Neko through 2.26, and is fixed in 2.27. This issue also exists in CyberNeko HTML through 1.9.22 (also affecting OWASP AntiSamy before 1.6.6), but 1.9.22 is the last version of CyberNeko HTML. NOTE: this may be related to CVE-2022-24839.
 - [Live-Hack-CVE/CVE-2022-28366](https://github.com/Live-Hack-CVE/CVE-2022-28366)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28366">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28366">
+
+---
+## CVE-2022-28347 (2022-04-12T05:15:00)
+> A SQL injection issue was discovered in QuerySet.explain() in Django 2.2 before 2.2.28, 3.2 before 3.2.13, and 4.0 before 4.0.4. This occurs by passing a crafted dictionary (with dictionary expansion) as the **options argument, and placing the injection payload in an option name.
+- [Live-Hack-CVE/CVE-2022-28347](https://github.com/Live-Hack-CVE/CVE-2022-28347)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28347">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28347">
 
 ---
 ## CVE-2022-2834 (2022-10-17T12:15:00)
@@ -21745,6 +21766,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-20411](https://github.com/Live-Hack-CVE/CVE-2022-20411)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20411">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20411">
 
 ---
+## CVE-2022-20409 (2022-10-11T20:15:00)
+> In io_identity_cow of io_uring.c, there is a possible way to corrupt memory due to a use after free. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-238177383References: Upstream kernel
+- [Live-Hack-CVE/CVE-2022-20409](https://github.com/Live-Hack-CVE/CVE-2022-20409)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20409">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20409">
+
+---
 ## CVE-2022-20391 (2022-09-13T20:15:00)
 > Summary:Product: AndroidVersions: Android SoCAndroid ID: A-238257000
 - [Live-Hack-CVE/CVE-2022-20391](https://github.com/Live-Hack-CVE/CVE-2022-20391)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20391">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20391">
@@ -23202,6 +23228,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [shahparkhan/cve-2022-0185](https://github.com/shahparkhan/cve-2022-0185)	<img alt="forks" src="https://img.shields.io/github/forks/shahparkhan/cve-2022-0185">	<img alt="stars" src="https://img.shields.io/github/stars/shahparkhan/cve-2022-0185">
 - [khaclep007/CVE-2022-0185](https://github.com/khaclep007/CVE-2022-0185)	<img alt="forks" src="https://img.shields.io/github/forks/khaclep007/CVE-2022-0185">	<img alt="stars" src="https://img.shields.io/github/stars/khaclep007/CVE-2022-0185">
 - [discordianfish/cve-2022-0185-crash-poc](https://github.com/discordianfish/cve-2022-0185-crash-poc)	<img alt="forks" src="https://img.shields.io/github/forks/discordianfish/cve-2022-0185-crash-poc">	<img alt="stars" src="https://img.shields.io/github/stars/discordianfish/cve-2022-0185-crash-poc">
+
+---
+## CVE-2022-0175 (2022-08-26T18:15:00)
+> A flaw was found in the VirGL virtual OpenGL renderer (virglrenderer). The virgl did not properly initialize memory when allocating a host-backed memory resource. A malicious guest could use this flaw to mmap from the guest kernel and read this uninitialized memory from the host, possibly leading to information disclosure.
+- [Live-Hack-CVE/CVE-2022-0175](https://github.com/Live-Hack-CVE/CVE-2022-0175)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0175">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0175">
 
 ---
 ## CVE-2022-0174 (2022-01-10T18:15:00)

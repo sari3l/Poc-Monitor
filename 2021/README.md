@@ -903,6 +903,11 @@
 - [Live-Hack-CVE/CVE-2021-4218](https://github.com/Live-Hack-CVE/CVE-2021-4218)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4218">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4218">
 
 ---
+## CVE-2021-4214 (2022-08-24T16:15:00)
+> A heap overflow flaw was found in libpngs' pngimage.c program. This flaw allows an attacker with local network access to pass a specially crafted PNG file to the pngimage utility, causing an application to crash, leading to a denial of service.
+- [Live-Hack-CVE/CVE-2021-4214](https://github.com/Live-Hack-CVE/CVE-2021-4214)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4214">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4214">
+
+---
 ## CVE-2021-4213 (2022-08-24T16:15:00)
 > A flaw was found in JSS, where it did not properly free up all memory. Over time, the wasted memory builds up in the server memory, saturating the server’s RAM. This flaw allows an attacker to force the invocation of an out-of-memory process, causing a denial of service.
 - [Live-Hack-CVE/CVE-2021-4213](https://github.com/Live-Hack-CVE/CVE-2021-4213)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4213">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4213">
@@ -1514,6 +1519,7 @@
 ## CVE-2021-40345 (2021-10-26T11:15:00)
 > An issue was discovered in Nagios XI 5.8.5. In the Manage Dashlets section of the Admin panel, an administrator can upload ZIP files. A command injection (within the name of the first file in the archive) allows an attacker to execute system commands.
 - [Live-Hack-CVE/CVE-2021-40345](https://github.com/Live-Hack-CVE/CVE-2021-40345)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40345">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40345">
+- [Live-Hack-CVE/CVE-2021-40345](https://github.com/Live-Hack-CVE/CVE-2021-40345)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40345">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40345">
 
 ---
 ## CVE-2021-4034 (2022-01-28T20:15:00)
@@ -1628,6 +1634,11 @@
 ## CVE-2021-4001 (2022-01-21T19:15:00)
 > A race condition was found in the Linux kernel's ebpf verifier between bpf_map_update_elem and bpf_map_freeze due to a missing lock in kernel/bpf/syscall.c. In this flaw, a local user with a special privilege (cap_sys_admin or cap_bpf) can modify the frozen mapped address space. This flaw affects kernel versions prior to 5.16 rc2.
 - [Live-Hack-CVE/CVE-2021-4001](https://github.com/Live-Hack-CVE/CVE-2021-4001)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4001">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4001">
+
+---
+## CVE-2021-3998 (2022-08-24T16:15:00)
+> A flaw was found in glibc. The realpath() function can mistakenly return an unexpected value, potentially leading to information leakage and disclosure of sensitive data.
+- [Live-Hack-CVE/CVE-2021-3998](https://github.com/Live-Hack-CVE/CVE-2021-3998)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3998">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3998">
 
 ---
 ## CVE-2021-3996 (2022-08-23T20:15:00)
