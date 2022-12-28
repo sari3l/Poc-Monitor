@@ -819,6 +819,16 @@
 - [Live-Hack-CVE/CVE-2021-4243](https://github.com/Live-Hack-CVE/CVE-2021-4243)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4243">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4243">
 
 ---
+## CVE-2021-4241 (2022-11-15T23:15:00)
+> A vulnerability, which was classified as problematic, was found in phpservermon. Affected is the function setUserLoggedIn of the file src/psm/Service/User.php. The manipulation leads to use of predictable algorithm in random number generator. The exploit has been disclosed to the public and may be used. The name of the patch is bb10a5f3c68527c58073258cb12446782d223bc3. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-213744.
+- [Live-Hack-CVE/CVE-2021-4241](https://github.com/Live-Hack-CVE/CVE-2021-4241)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4241">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4241">
+
+---
+## CVE-2021-4240 (2022-11-15T23:15:00)
+> A vulnerability, which was classified as problematic, was found in phpservermon. This affects the function generatePasswordResetToken of the file src/psm/Service/User.php. The manipulation leads to use of predictable algorithm in random number generator. The exploit has been disclosed to the public and may be used. The name of the patch is 3daa804d5f56c55b3ae13bfac368bb84ec632193. It is recommended to apply a patch to fix this issue. The identifier VDB-213717 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2021-4240](https://github.com/Live-Hack-CVE/CVE-2021-4240)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4240">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4240">
+
+---
 ## CVE-2021-42392 (2022-01-10T14:10:00)
 > The org.h2.util.JdbcUtils.getConnection method of the H2 database takes as parameters the class name of the driver and URL of the database. An attacker may pass a JNDI driver name and a URL leading to a LDAP or RMI servers, causing remote code execution. This can be exploited through various attack vectors, most notably through the H2 Console which leads to unauthenticated remote code execution.
 - [Live-Hack-CVE/CVE-2021-42392](https://github.com/Live-Hack-CVE/CVE-2021-42392)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42392">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42392">
@@ -1944,6 +1954,11 @@
 - [Live-Hack-CVE/CVE-2021-38161](https://github.com/Live-Hack-CVE/CVE-2021-38161)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38161">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38161">
 
 ---
+## CVE-2021-3796 (2021-09-15T13:15:00)
+> vim is vulnerable to Use After Free
+- [Live-Hack-CVE/CVE-2021-3796](https://github.com/Live-Hack-CVE/CVE-2021-3796)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3796">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3796">
+
+---
 ## CVE-2021-3793 (2021-11-12T22:15:00)
 > An improper access control vulnerability was reported in some Motorola-branded Binatone Hubble Cameras which could allow an unauthenticated attacker on the same network as the device to access administrative pages that could result in information disclosure or device firmware update with verified firmware.
 - [Live-Hack-CVE/CVE-2021-3793](https://github.com/Live-Hack-CVE/CVE-2021-3793)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3793">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3793">
@@ -1968,6 +1983,11 @@
 ## CVE-2021-3781 (2022-02-16T19:15:00)
 > A trivial sandbox (enabled with the `-dSAFER` option) escape flaw was found in the ghostscript interpreter by injecting a specially crafted pipe command. This flaw allows a specially crafted document to execute arbitrary commands on the system in the context of the ghostscript interpreter. The highest threat from this vulnerability is to confidentiality, integrity, as well as system availability.
 - [Live-Hack-CVE/CVE-2021-3781](https://github.com/Live-Hack-CVE/CVE-2021-3781)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3781">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3781">
+
+---
+## CVE-2021-3778 (2021-09-15T08:15:00)
+> vim is vulnerable to Heap-based Buffer Overflow
+- [Live-Hack-CVE/CVE-2021-3778](https://github.com/Live-Hack-CVE/CVE-2021-3778)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3778">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3778">
 
 ---
 ## CVE-2021-37740 (2022-04-20T20:15:00)

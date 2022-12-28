@@ -92,6 +92,56 @@
 - [Live-Hack-CVE/CVE-2013-1824](https://github.com/Live-Hack-CVE/CVE-2013-1824)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-1824">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-1824">
 
 ---
+## CVE-2013-0900 (2013-02-23T21:55:00)
+> Race condition in the International Components for Unicode (ICU) functionality in Google Chrome before 25.0.1364.97 on Windows and Linux, and before 25.0.1364.99 on Mac OS X, allows remote attackers to cause a denial of service or possibly have unspecified other impact via unknown vectors.
+- [Live-Hack-CVE/CVE-2013-0900](https://github.com/Live-Hack-CVE/CVE-2013-0900)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-0900">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-0900">
+
+---
+## CVE-2013-0897 (2013-02-23T21:55:00)
+> Off-by-one error in the PDF functionality in Google Chrome before 25.0.1364.97 on Windows and Linux, and before 25.0.1364.99 on Mac OS X, allows remote attackers to cause a denial of service via a crafted document.
+- [Live-Hack-CVE/CVE-2013-0897](https://github.com/Live-Hack-CVE/CVE-2013-0897)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-0897">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-0897">
+
+---
+## CVE-2013-0896 (2013-02-23T21:55:00)
+> Google Chrome before 25.0.1364.97 on Windows and Linux, and before 25.0.1364.99 on Mac OS X, does not properly manage memory during message handling for plug-ins, which allows remote attackers to cause a denial of service or possibly have unspecified other impact via unknown vectors.
+- [Live-Hack-CVE/CVE-2013-0896](https://github.com/Live-Hack-CVE/CVE-2013-0896)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-0896">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-0896">
+
+---
+## CVE-2013-0895 (2013-02-23T21:55:00)
+> Google Chrome before 25.0.1364.97 on Linux, and before 25.0.1364.99 on Mac OS X, does not properly handle pathnames during copy operations, which might make it easier for remote attackers to execute arbitrary programs via unspecified vectors.
+- [Live-Hack-CVE/CVE-2013-0895](https://github.com/Live-Hack-CVE/CVE-2013-0895)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-0895">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-0895">
+
+---
+## CVE-2013-0893 (2013-02-23T21:55:00)
+> Race condition in Google Chrome before 25.0.1364.97 on Windows and Linux, and before 25.0.1364.99 on Mac OS X, allows remote attackers to cause a denial of service or possibly have unspecified other impact via vectors related to media.
+- [Live-Hack-CVE/CVE-2013-0893](https://github.com/Live-Hack-CVE/CVE-2013-0893)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-0893">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-0893">
+
+---
+## CVE-2013-0892 (2013-02-23T21:55:00)
+> Multiple unspecified vulnerabilities in the IPC layer in Google Chrome before 25.0.1364.97 on Windows and Linux, and before 25.0.1364.99 on Mac OS X, allow remote attackers to cause a denial of service or possibly have other impact via unknown vectors.
+- [Live-Hack-CVE/CVE-2013-0892](https://github.com/Live-Hack-CVE/CVE-2013-0892)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-0892">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-0892">
+
+---
+## CVE-2013-0891 (2013-02-23T21:55:00)
+> Integer overflow in Google Chrome before 25.0.1364.97 on Windows and Linux, and before 25.0.1364.99 on Mac OS X, allows remote attackers to cause a denial of service or possibly have unspecified other impact via a blob.
+- [Live-Hack-CVE/CVE-2013-0891](https://github.com/Live-Hack-CVE/CVE-2013-0891)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-0891">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-0891">
+
+---
+## CVE-2013-0887 (2013-02-23T21:55:00)
+> The developer-tools process in Google Chrome before 25.0.1364.97 on Windows and Linux, and before 25.0.1364.99 on Mac OS X, does not properly restrict privileges during interaction with a connected server, which has unspecified impact and attack vectors.
+- [Live-Hack-CVE/CVE-2013-0887](https://github.com/Live-Hack-CVE/CVE-2013-0887)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-0887">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-0887">
+
+---
+## CVE-2013-0885 (2013-02-23T21:55:00)
+> Google Chrome before 25.0.1364.97 on Windows and Linux, and before 25.0.1364.99 on Mac OS X, does not properly restrict API privileges during interaction with the Chrome Web Store, which has unspecified impact and attack vectors.
+- [Live-Hack-CVE/CVE-2013-0885](https://github.com/Live-Hack-CVE/CVE-2013-0885)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-0885">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-0885">
+
+---
+## CVE-2013-0884 (2013-02-23T21:55:00)
+> Google Chrome before 25.0.1364.97 on Windows and Linux, and before 25.0.1364.99 on Mac OS X, does not properly load Native Client (aka NaCl) code, which has unspecified impact and attack vectors.
+- [Live-Hack-CVE/CVE-2013-0884](https://github.com/Live-Hack-CVE/CVE-2013-0884)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-0884">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-0884">
+
+---
 ## CVE-2013-0791 (2013-04-03T11:56:00)
 > The CERT_DecodeCertPackage function in Mozilla Network Security Services (NSS), as used in Mozilla Firefox before 20.0, Firefox ESR 17.x before 17.0.5, Thunderbird before 17.0.5, Thunderbird ESR 17.x before 17.0.5, SeaMonkey before 2.17, and other products, allows remote attackers to cause a denial of service (out-of-bounds read and memory corruption) via a crafted certificate.
 - [Live-Hack-CVE/CVE-2013-0791](https://github.com/Live-Hack-CVE/CVE-2013-0791)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-0791">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-0791">
