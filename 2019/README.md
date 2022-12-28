@@ -1182,6 +1182,11 @@
 - [Live-Hack-CVE/CVE-2019-18265](https://github.com/Live-Hack-CVE/CVE-2019-18265)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-18265">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-18265">
 
 ---
+## CVE-2019-18218 (2019-10-21T05:15:00)
+> cdf_read_property_info in cdf.c in file through 5.37 does not restrict the number of CDF_VECTOR elements, which allows a heap-based buffer overflow (4-byte out-of-bounds write).
+- [Live-Hack-CVE/CVE-2019-18218](https://github.com/Live-Hack-CVE/CVE-2019-18218)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-18218">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-18218">
+
+---
 ## CVE-2019-17662 (2019-10-16T18:15:00)
 > ThinVNC 1.0b1 is vulnerable to arbitrary file read, which leads to a compromise of the VNC server. The vulnerability exists even when authentication is turned on during the deployment of the VNC server. The password for authentication is stored in cleartext in a file that can be read via a ../../ThinVnc.ini directory traversal attack vector.
 - [Tamagaft/CVE-2019-17662](https://github.com/Tamagaft/CVE-2019-17662)	<img alt="forks" src="https://img.shields.io/github/forks/Tamagaft/CVE-2019-17662">	<img alt="stars" src="https://img.shields.io/github/stars/Tamagaft/CVE-2019-17662">

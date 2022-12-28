@@ -929,6 +929,11 @@
 - [glowbase/CVE-2020-35476](https://github.com/glowbase/CVE-2020-35476)	<img alt="forks" src="https://img.shields.io/github/forks/glowbase/CVE-2020-35476">	<img alt="stars" src="https://img.shields.io/github/stars/glowbase/CVE-2020-35476">
 
 ---
+## CVE-2020-35473 (2022-11-08T06:15:00)
+> An information leakage vulnerability in the Bluetooth Low Energy advertisement scan response in Bluetooth Core Specifications 4.0 through 5.2, and extended scan response in Bluetooth Core Specifications 5.0 through 5.2, may be used to identify devices using Resolvable Private Addressing (RPA) by their response or non-response to specific scan requests from remote addresses. RPAs that have been associated with a specific remote device may also be used to identify a peer in the same manner by using its reaction to an active scan request. This has also been called an allowlist-based side channel.
+- [Live-Hack-CVE/CVE-2020-35473](https://github.com/Live-Hack-CVE/CVE-2020-35473)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35473">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35473">
+
+---
 ## CVE-2020-35314 (2021-04-20T20:15:00)
 > A remote code execution vulnerability in the installUpdateThemePluginAction function in index.php in WonderCMS 3.1.3, allows remote attackers to upload a custom plugin which can contain arbitrary code and obtain a webshell via the theme/plugin installer.
 - [AkashLingayat/WonderCMS-CVE-2020-35314](https://github.com/AkashLingayat/WonderCMS-CVE-2020-35314)	<img alt="forks" src="https://img.shields.io/github/forks/AkashLingayat/WonderCMS-CVE-2020-35314">	<img alt="stars" src="https://img.shields.io/github/stars/AkashLingayat/WonderCMS-CVE-2020-35314">

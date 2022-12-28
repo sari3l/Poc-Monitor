@@ -887,6 +887,11 @@
 - [ItsIgnacioPortal/CVE-2021-42237](https://github.com/ItsIgnacioPortal/CVE-2021-42237)	<img alt="forks" src="https://img.shields.io/github/forks/ItsIgnacioPortal/CVE-2021-42237">	<img alt="stars" src="https://img.shields.io/github/stars/ItsIgnacioPortal/CVE-2021-42237">
 
 ---
+## CVE-2021-42205 (2022-11-07T16:15:00)
+> ELAN Miniport touchpad Windows driver before 24.21.51.2, as used in PC hardware from multiple manufacturers, allows local users to cause a system crash by sending a certain IOCTL request, because that request is handled twice.
+- [Live-Hack-CVE/CVE-2021-42205](https://github.com/Live-Hack-CVE/CVE-2021-42205)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42205">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42205">
+
+---
 ## CVE-2021-42192 (2022-05-04T11:15:00)
 > Konga v0.14.9 is affected by an incorrect access control vulnerability where a specially crafted request can lead to privilege escalation.
 - [Live-Hack-CVE/CVE-2021-42192](https://github.com/Live-Hack-CVE/CVE-2021-42192)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42192">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42192">
@@ -1122,6 +1127,11 @@
 ## CVE-2021-41652 (2022-03-01T23:15:00)
 > Insecure permissions in the file database.sdb of BatFlat CMS v1.3.6 allows attackers to dump the entire database.
 - [deathflash1411/CVE-2021-41652](https://github.com/deathflash1411/CVE-2021-41652)	<img alt="forks" src="https://img.shields.io/github/forks/deathflash1411/CVE-2021-41652">	<img alt="stars" src="https://img.shields.io/github/stars/deathflash1411/CVE-2021-41652">
+
+---
+## CVE-2021-4160 (2022-01-28T22:15:00)
+> There is a carry propagation bug in the MIPS32 and MIPS64 squaring procedure. Many EC algorithms are affected, including some of the TLS 1.3 default curves. Impact was not analyzed in detail, because the pre-requisites for attack are considered unlikely and include reusing private keys. Analysis suggests that attacks against RSA and DSA as a result of this defect would be very difficult to perform and are not believed likely. Attacks against DH are considered just feasible (although very difficult) because most of the work necessary to deduce information about a private key may be performed offline. The amount of resources required for such an attack would be significant. However, for an attack on TLS to be meaningful, the server would have to share the DH private key among multiple clients, which is no longer an option since CVE-2016-0701. This issue affects OpenSSL versions 1.0.2, 1.1.1 and 3.0.0. It was addressed in the releases of 1.1.1m and 3.0.1 on the 15th of December 2021. For the 1.0.2 release it is addressed in git commit 6fc1aaaf3 that is available to premium support customers only. It will be made available in 1.0.2zc when it is released. The issue only affects OpenSSL on MIPS platforms. Fixed in OpenSSL 3.0.1 (Affected 3.0.0). Fixed in OpenSSL 1.1.1m (Affected 1.1.1-1.1.1l). Fixed in OpenSSL 1.0.2zc-dev (Affected 1.0.2-1.0.2zb).
+- [Live-Hack-CVE/CVE-2021-4160](https://github.com/Live-Hack-CVE/CVE-2021-4160)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4160">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4160">
 
 ---
 ## CVE-2021-4159 (2022-08-24T16:15:00)
@@ -4174,6 +4184,11 @@
 ## CVE-2021-24570 (2021-11-01T09:15:00)
 > The Accept Donations with PayPal WordPress plugin before 1.3.1 offers a function to create donation buttons, which internally are posts. The process to create a new button is lacking a CSRF check. An attacker could use this to make an authenticated admin create a new button. Furthermore, one of the Button field is not escaped before being output in an attribute when editing a Button, leading to a Stored Cross-Site Scripting issue as well.
 - [Live-Hack-CVE/CVE-2021-24570](https://github.com/Live-Hack-CVE/CVE-2021-24570)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24570">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24570">
+
+---
+## CVE-2021-24555 (2021-08-23T12:15:00)
+> The daac_delete_booking_callback function, hooked to the daac_delete_booking AJAX action, takes the id POST parameter which is passed into the SQL statement without proper sanitisation, validation or escaping, leading to a SQL Injection issue. Furthermore, the ajax action is lacking any CSRF and capability check, making it available to any authenticated user.
+- [Live-Hack-CVE/CVE-2021-24555](https://github.com/Live-Hack-CVE/CVE-2021-24555)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24555">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24555">
 
 ---
 ## CVE-2021-24543 (2021-10-25T14:15:00)
