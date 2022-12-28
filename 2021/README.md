@@ -1253,6 +1253,7 @@
 ## CVE-2021-41141 (2022-01-04T19:15:00)
 > PJSIP is a free and open source multimedia communication library written in the C language implementing standard based protocols such as SIP, SDP, RTP, STUN, TURN, and ICE. In various parts of PJSIP, when error/failure occurs, it is found that the function returns without releasing the currently held locks. This could result in a system deadlock, which cause a denial of service for the users. No release has yet been made which contains the linked fix commit. All versions up to an including 2.11.1 are affected. Users may need to manually apply the patch.
 - [Live-Hack-CVE/CVE-2021-41141](https://github.com/Live-Hack-CVE/CVE-2021-41141)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41141">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41141">
+- [Live-Hack-CVE/CVE-2021-41141](https://github.com/Live-Hack-CVE/CVE-2021-41141)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41141">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41141">
 
 ---
 ## CVE-2021-4112 (2022-08-25T20:15:00)
@@ -1812,10 +1813,12 @@
 ## CVE-2021-38828 (2022-11-14T02:15:00)
 > Xiongmai Camera XM-JPR2-LX V4.02.R12.A6420987.10002.147502.00000 is vulnerable to plain-text traffic sniffing.
 - [Live-Hack-CVE/CVE-2021-38828](https://github.com/Live-Hack-CVE/CVE-2021-38828)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38828">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38828">
+- [Live-Hack-CVE/CVE-2021-38828](https://github.com/Live-Hack-CVE/CVE-2021-38828)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38828">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38828">
 
 ---
 ## CVE-2021-38827 (2022-11-14T02:15:00)
 > Xiongmai Camera XM-JPR2-LX V4.02.R12.A6420987.10002.147502.00000 is vulnerable to account takeover.
+- [Live-Hack-CVE/CVE-2021-38827](https://github.com/Live-Hack-CVE/CVE-2021-38827)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38827">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38827">
 - [Live-Hack-CVE/CVE-2021-38827](https://github.com/Live-Hack-CVE/CVE-2021-38827)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38827">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38827">
 
 ---
@@ -3029,6 +3032,7 @@
 ---
 ## CVE-2021-32686 (2021-07-23T22:15:00)
 > PJSIP is a free and open source multimedia communication library written in C language implementing standard based protocols such as SIP, SDP, RTP, STUN, TURN, and ICE. In PJSIP before version 2.11.1, there are a couple of issues found in the SSL socket. First, a race condition between callback and destroy, due to the accepted socket having no group lock. Second, the SSL socket parent/listener may get destroyed during handshake. Both issues were reported to happen intermittently in heavy load TLS connections. They cause a crash, resulting in a denial of service. These are fixed in version 2.11.1.
+- [Live-Hack-CVE/CVE-2021-32686](https://github.com/Live-Hack-CVE/CVE-2021-32686)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32686">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32686">
 - [Live-Hack-CVE/CVE-2021-32686](https://github.com/Live-Hack-CVE/CVE-2021-32686)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32686">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32686">
 
 ---
@@ -4802,6 +4806,7 @@
 ---
 ## CVE-2021-20227 (2021-03-23T17:15:00)
 > A flaw was found in SQLite's SELECT query functionality (src/select.c). This flaw allows an attacker who is capable of running SQL queries locally on the SQLite database to cause a denial of service or possible code execution by triggering a use-after-free. The highest threat from this vulnerability is to system availability.
+- [Live-Hack-CVE/CVE-2021-20227](https://github.com/Live-Hack-CVE/CVE-2021-20227)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20227">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20227">
 - [Live-Hack-CVE/CVE-2021-20227](https://github.com/Live-Hack-CVE/CVE-2021-20227)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20227">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20227">
 
 ---

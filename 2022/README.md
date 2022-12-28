@@ -1977,10 +1977,12 @@
 ## CVE-2022-45184 (2022-11-14T08:15:00)
 > The Web Server in Ironman Software PowerShell Universal v3.x and v2.x allows for directory traversal outside of the configuration directory, which allows a remote attacker with administrator privilege to create, delete, update, and display files outside of the configuration directory via a crafted HTTP request to particular endpoints in the web server. Patched Versions are 3.5.3 and 3.4.7.
 - [Live-Hack-CVE/CVE-2022-45184](https://github.com/Live-Hack-CVE/CVE-2022-45184)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45184">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45184">
+- [Live-Hack-CVE/CVE-2022-45184](https://github.com/Live-Hack-CVE/CVE-2022-45184)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45184">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45184">
 
 ---
 ## CVE-2022-45183 (2022-11-14T08:15:00)
 > Escalation of privileges in the Web Server in Ironman Software PowerShell Universal 2.x and 3.x allows an attacker with a valid app token to retrieve other app tokens by ID via an HTTP web request. Patched Versions are 3.5.3, 3.4.7, and 2.12.6.
+- [Live-Hack-CVE/CVE-2022-45183](https://github.com/Live-Hack-CVE/CVE-2022-45183)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45183">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45183">
 - [Live-Hack-CVE/CVE-2022-45183](https://github.com/Live-Hack-CVE/CVE-2022-45183)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45183">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45183">
 
 ---
@@ -7795,6 +7797,7 @@
 > A vulnerability in Example Dags of Apache Airflow allows an attacker with UI access who can trigger DAGs, to execute arbitrary commands via manually provided run_id parameter. This issue affects Apache Airflow Apache Airflow versions prior to 2.4.0.
 - [Mr-xn/CVE-2022-40127](https://github.com/Mr-xn/CVE-2022-40127)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2022-40127">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2022-40127">
 - [Live-Hack-CVE/CVE-2022-40127](https://github.com/Live-Hack-CVE/CVE-2022-40127)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40127">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40127">
+- [Live-Hack-CVE/CVE-2022-40127](https://github.com/Live-Hack-CVE/CVE-2022-40127)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40127">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40127">
 
 ---
 ## CVE-2022-40126 (2022-09-29T12:15:00)
@@ -8091,6 +8094,7 @@
 ---
 ## CVE-2022-3988 (2022-11-14T11:15:00)
 > A vulnerability was found in Frappe. It has been rated as problematic. Affected by this issue is some unknown functionality of the file frappe/templates/includes/navbar/navbar_search.html of the component Search. The manipulation of the argument q leads to cross site scripting. The attack may be launched remotely. The name of the patch is bfab7191543961c6cb77fe267063877c31b616ce. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-213560.
+- [Live-Hack-CVE/CVE-2022-3988](https://github.com/Live-Hack-CVE/CVE-2022-3988)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3988">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3988">
 - [Live-Hack-CVE/CVE-2022-3988](https://github.com/Live-Hack-CVE/CVE-2022-3988)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3988">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3988">
 
 ---
@@ -10398,6 +10402,7 @@
 ## CVE-2022-37860 (2022-09-12T18:15:00)
 > The web configuration interface of the TP-Link M7350 V3 with firmware version 190531 is affected by a pre-authentication command injection vulnerability.
 - [Live-Hack-CVE/CVE-2022-37860](https://github.com/Live-Hack-CVE/CVE-2022-37860)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37860">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37860">
+- [Live-Hack-CVE/CVE-2022-37860](https://github.com/Live-Hack-CVE/CVE-2022-37860)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37860">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37860">
 
 ---
 ## CVE-2022-3786 (2022-11-01T18:15:00)
@@ -12530,6 +12535,11 @@
 - [Live-Hack-CVE/CVE-2022-35805](https://github.com/Live-Hack-CVE/CVE-2022-35805)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35805">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35805">
 
 ---
+## CVE-2022-3578 (2022-11-14T15:15:00)
+> The ProfileGrid WordPress plugin before 5.1.1 does not sanitise and escape a parameter before outputting it back in the page, leading to a Reflected Cross-Site Scripting
+- [Live-Hack-CVE/CVE-2022-3578](https://github.com/Live-Hack-CVE/CVE-2022-3578)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3578">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3578">
+
+---
 ## CVE-2022-35770 (2022-10-11T19:15:00)
 > Windows NTLM Spoofing Vulnerability.
 - [Live-Hack-CVE/CVE-2022-35770](https://github.com/Live-Hack-CVE/CVE-2022-35770)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35770">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35770">
@@ -12542,6 +12552,7 @@
 ---
 ## CVE-2022-3574 (2022-11-14T15:15:00)
 > The WPForms Pro WordPress plugin before 1.7.7 does not validate its form data when generating the exported CSV, which could lead to CSV injection.
+- [Live-Hack-CVE/CVE-2022-3574](https://github.com/Live-Hack-CVE/CVE-2022-3574)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3574">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3574">
 - [Live-Hack-CVE/CVE-2022-3574](https://github.com/Live-Hack-CVE/CVE-2022-3574)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3574">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3574">
 
 ---
@@ -12849,10 +12860,12 @@
 ## CVE-2022-3539 (2022-11-14T15:15:00)
 > The Testimonials WordPress plugin before 2.7, super-testimonial-pro WordPress plugin before 1.0.8 do not sanitize and escape its settings, allowing high privilege users such as admin to perform cross-Site Scripting attacks even when the unfiltered_html capability is disallowed.
 - [Live-Hack-CVE/CVE-2022-3539](https://github.com/Live-Hack-CVE/CVE-2022-3539)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3539">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3539">
+- [Live-Hack-CVE/CVE-2022-3539](https://github.com/Live-Hack-CVE/CVE-2022-3539)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3539">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3539">
 
 ---
 ## CVE-2022-3538 (2022-11-14T15:15:00)
 > The Webmaster Tools Verification WordPress plugin through 1.2 does not have authorisation and CSRF checks when disabling plugins, allowing unauthenticated users to disable arbitrary plugins
+- [Live-Hack-CVE/CVE-2022-3538](https://github.com/Live-Hack-CVE/CVE-2022-3538)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3538">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3538">
 - [Live-Hack-CVE/CVE-2022-3538](https://github.com/Live-Hack-CVE/CVE-2022-3538)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3538">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3538">
 
 ---
@@ -12884,6 +12897,7 @@
 ---
 ## CVE-2022-35276 (2022-11-11T16:15:00)
 > Improper access control in BIOS firmware for some Intel(R) NUC 8 Compute Elements before version CBWHL357.0096 may allow a privileged user to potentially enable escalation of privilege via local access.
+- [Live-Hack-CVE/CVE-2022-35276](https://github.com/Live-Hack-CVE/CVE-2022-35276)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35276">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35276">
 - [Live-Hack-CVE/CVE-2022-35276](https://github.com/Live-Hack-CVE/CVE-2022-35276)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35276">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35276">
 
 ---
@@ -13464,6 +13478,7 @@
 ## CVE-2022-3484 (2022-11-14T15:15:00)
 > The WPB Show Core WordPress plugin through TODO does not sanitise and escape a parameter before outputting it back in the page, leading to a Reflected Cross-Site Scripting
 - [Live-Hack-CVE/CVE-2022-3484](https://github.com/Live-Hack-CVE/CVE-2022-3484)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3484">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3484">
+- [Live-Hack-CVE/CVE-2022-3484](https://github.com/Live-Hack-CVE/CVE-2022-3484)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3484">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3484">
 
 ---
 ## CVE-2022-34838 (2022-08-24T16:15:00)
@@ -13535,6 +13550,7 @@
 ## CVE-2022-3477 (2022-11-14T15:15:00)
 > The tagDiv Composer WordPress plugin before 3.5, required by the Newspaper WordPress theme before 12.1 and Newsmag WordPress theme before 5.2.2, does not properly implement the Facebook login feature, allowing unauthenticated attackers to login as any user by just knowing their email address
 - [Live-Hack-CVE/CVE-2022-3477](https://github.com/Live-Hack-CVE/CVE-2022-3477)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3477">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3477">
+- [Live-Hack-CVE/CVE-2022-3477](https://github.com/Live-Hack-CVE/CVE-2022-3477)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3477">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3477">
 
 ---
 ## CVE-2022-34733 (2022-09-13T19:15:00)
@@ -13597,6 +13613,7 @@
 ---
 ## CVE-2022-3469 (2022-11-14T15:15:00)
 > The WP Attachments WordPress plugin before 5.0.5 does not sanitize and escapes some of its settings, which could allow high-privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example, in multisite setup).
+- [Live-Hack-CVE/CVE-2022-3469](https://github.com/Live-Hack-CVE/CVE-2022-3469)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3469">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3469">
 - [Live-Hack-CVE/CVE-2022-3469](https://github.com/Live-Hack-CVE/CVE-2022-3469)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3469">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3469">
 
 ---
@@ -13781,6 +13798,7 @@
 ## CVE-2022-34316 (2022-11-14T19:15:00)
 > IBM CICS TX 11.1 does not neutralize or incorrectly neutralizes web scripting syntax in HTTP headers that can be used by web browser components that can process raw headers. IBM X-Force ID: 229452.
 - [Live-Hack-CVE/CVE-2022-34316](https://github.com/Live-Hack-CVE/CVE-2022-34316)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34316">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34316">
+- [Live-Hack-CVE/CVE-2022-34316](https://github.com/Live-Hack-CVE/CVE-2022-34316)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34316">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34316">
 
 ---
 ## CVE-2022-34315 (2022-11-14T19:15:00)
@@ -13860,10 +13878,12 @@
 ## CVE-2022-34152 (2022-11-11T16:15:00)
 > Improper input validation in BIOS firmware for some Intel(R) NUC Boards, Intel(R) NUC Kits before version TY0070 may allow a privileged user to potentially enable escalation of privilege via local access.
 - [Live-Hack-CVE/CVE-2022-34152](https://github.com/Live-Hack-CVE/CVE-2022-34152)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34152">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34152">
+- [Live-Hack-CVE/CVE-2022-34152](https://github.com/Live-Hack-CVE/CVE-2022-34152)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34152">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34152">
 
 ---
 ## CVE-2022-3415 (2022-11-14T15:15:00)
 > The Chat Bubble WordPress plugin before 2.3 does not sanitise and escape some contact parameters, which could allow unauthenticated attackers to set Stored Cross-Site Scripting payloads in them, which will trigger when an admin view the related contact message
+- [Live-Hack-CVE/CVE-2022-3415](https://github.com/Live-Hack-CVE/CVE-2022-3415)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3415">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3415">
 - [Live-Hack-CVE/CVE-2022-3415](https://github.com/Live-Hack-CVE/CVE-2022-3415)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3415">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3415">
 
 ---
@@ -14277,6 +14297,7 @@
 ---
 ## CVE-2022-33176 (2022-11-11T16:15:00)
 > Improper input validation in BIOS firmware for some Intel(R) NUC 11 Performance kits and Intel(R) NUC 11 Performance Mini PCs before version PATGL357.0042 may allow a privileged user to potentially enable escalation of privilege via local access.
+- [Live-Hack-CVE/CVE-2022-33176](https://github.com/Live-Hack-CVE/CVE-2022-33176)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33176">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33176">
 - [Live-Hack-CVE/CVE-2022-33176](https://github.com/Live-Hack-CVE/CVE-2022-33176)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33176">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33176">
 
 ---
@@ -14694,6 +14715,7 @@
 ---
 ## CVE-2022-32569 (2022-11-11T16:15:00)
 > Improper buffer restrictions in BIOS firmware for some Intel(R) NUC M15 Laptop Kits before version BCTGL357.0074 may allow a privileged user to potentially enable escalation of privilege via local access.
+- [Live-Hack-CVE/CVE-2022-32569](https://github.com/Live-Hack-CVE/CVE-2022-32569)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32569">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32569">
 - [Live-Hack-CVE/CVE-2022-32569](https://github.com/Live-Hack-CVE/CVE-2022-32569)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32569">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32569">
 
 ---
@@ -15717,6 +15739,7 @@
 ---
 ## CVE-2022-30945 (2022-05-17T15:15:00)
 > Jenkins Pipeline: Groovy Plugin 2689.v434009a_31b_f1 and earlier allows loading any Groovy source files on the classpath of Jenkins and Jenkins plugins in sandboxed pipelines.
+- [Live-Hack-CVE/CVE-2022-30945](https://github.com/Live-Hack-CVE/CVE-2022-30945)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30945">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30945">
 - [Live-Hack-CVE/CVE-2022-30945](https://github.com/Live-Hack-CVE/CVE-2022-30945)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30945">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30945">
 
 ---
@@ -17209,6 +17232,7 @@
 ## CVE-2022-27949 (2022-11-14T10:15:00)
 > A vulnerability in UI of Apache Airflow allows an attacker to view unmasked secrets in rendered template values for tasks which were not executed (for example when they were depending on past and previous instances of the task failed). This issue affects Apache Airflow prior to 2.3.1.
 - [Live-Hack-CVE/CVE-2022-27949](https://github.com/Live-Hack-CVE/CVE-2022-27949)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27949">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27949">
+- [Live-Hack-CVE/CVE-2022-27949](https://github.com/Live-Hack-CVE/CVE-2022-27949)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27949">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27949">
 
 ---
 ## CVE-2022-27942 (2022-03-26T13:15:00)
@@ -18620,6 +18644,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-2450 (2022-11-14T15:15:00)
 > The reSmush.it : the only free Image Optimizer & compress plugin WordPress plugin before 0.4.4 lacks authorization in various AJAX actions, allowing any logged-in users, such as subscribers to call them.
 - [Live-Hack-CVE/CVE-2022-2450](https://github.com/Live-Hack-CVE/CVE-2022-2450)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2450">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2450">
+- [Live-Hack-CVE/CVE-2022-2450](https://github.com/Live-Hack-CVE/CVE-2022-2450)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2450">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2450">
 
 ---
 ## CVE-2022-24497 (2022-04-15T19:15:00)
@@ -18635,6 +18660,9 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-2449 (2022-11-14T15:15:00)
 > The reSmush.it : the only free Image Optimizer & compress plugin WordPress plugin before 0.4.4 does not perform CSRF checks for any of its AJAX actions, allowing an attackers to trick logged in users to perform various actions on their behalf on the site.
 - [Live-Hack-CVE/CVE-2022-2449](https://github.com/Live-Hack-CVE/CVE-2022-2449)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2449">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2449">
+- [Live-Hack-CVE/CVE-2022-2449](https://github.com/Live-Hack-CVE/CVE-2022-2449)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2449">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2449">
+- [corelight/CVE-2022-24491](https://github.com/corelight/CVE-2022-24491)	<img alt="forks" src="https://img.shields.io/github/forks/corelight/CVE-2022-24491">	<img alt="stars" src="https://img.shields.io/github/stars/corelight/CVE-2022-24491">
+- [corelight/CVE-2022-24497](https://github.com/corelight/CVE-2022-24497)	<img alt="forks" src="https://img.shields.io/github/forks/corelight/CVE-2022-24497">	<img alt="stars" src="https://img.shields.io/github/stars/corelight/CVE-2022-24497">
 
 ---
 ## CVE-2022-24480 (2022-12-13T19:15:00)
@@ -19448,6 +19476,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ---
 ## CVE-2022-22844 (2022-01-10T14:12:00)
 > LibTIFF 4.3.0 has an out-of-bounds read in _TIFFmemcpy in tif_unix.c in certain situations involving a custom tag and 0x0200 as the second word of the DE field.
+- [Live-Hack-CVE/CVE-2022-22844](https://github.com/Live-Hack-CVE/CVE-2022-22844)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22844">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22844">
 - [Live-Hack-CVE/CVE-2022-22844](https://github.com/Live-Hack-CVE/CVE-2022-22844)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22844">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22844">
 
 ---
@@ -22573,6 +22602,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-0561 (2022-02-11T18:15:00)
 > Null source pointer passed as an argument to memcpy() function within TIFFFetchStripThing() in tif_dirread.c in libtiff versions from 3.9.0 to 4.3.0 could lead to Denial of Service via crafted TIFF file. For users that compile libtiff from sources, the fix is available with commit eecb0712.
 - [Live-Hack-CVE/CVE-2022-0561](https://github.com/Live-Hack-CVE/CVE-2022-0561)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0561">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0561">
+- [Live-Hack-CVE/CVE-2022-0561](https://github.com/Live-Hack-CVE/CVE-2022-0561)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0561">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0561">
 
 ---
 ## CVE-2022-0543 (2022-02-18T20:15:00)
@@ -22637,6 +22667,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ---
 ## CVE-2022-0391 (2022-02-09T23:15:00)
 > A flaw was found in Python, specifically within the urllib.parse module. This module helps break Uniform Resource Locator (URL) strings into components. The issue involves how the urlparse method does not sanitize input and allows characters like '\r' and '\n' in the URL path. This flaw allows an attacker to input a crafted URL, leading to injection attacks. This flaw affects Python versions prior to 3.10.0b1, 3.9.5, 3.8.11, 3.7.11 and 3.6.14.
+- [Live-Hack-CVE/CVE-2022-0391](https://github.com/Live-Hack-CVE/CVE-2022-0391)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0391">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0391">
 - [Live-Hack-CVE/CVE-2022-0391](https://github.com/Live-Hack-CVE/CVE-2022-0391)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0391">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0391">
 
 ---
