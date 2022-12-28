@@ -10516,6 +10516,11 @@
 - [Live-Hack-CVE/CVE-2022-3819](https://github.com/Live-Hack-CVE/CVE-2022-3819)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3819">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3819">
 
 ---
+## CVE-2022-38189 (2022-08-16T18:15:00)
+> A stored Cross Site Scripting (XSS) vulnerability in Esri Portal for ArcGIS may allow a remote, authenticated attacker to pass and store malicious strings via crafted queries which when accessed could potentially execute arbitrary JavaScript code in the user’s browser.
+- [Live-Hack-CVE/CVE-2022-38189](https://github.com/Live-Hack-CVE/CVE-2022-38189)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38189">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38189">
+
+---
 ## CVE-2022-38184 (2022-08-16T18:15:00)
 > There is an improper access control vulnerability in Portal for ArcGIS versions 10.8.1 and below which could allow a remote, unauthenticated attacker to access an API that may induce Esri Portal for ArcGIS to read arbitrary URLs.
 - [Live-Hack-CVE/CVE-2022-38184](https://github.com/Live-Hack-CVE/CVE-2022-38184)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38184">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38184">
@@ -11548,6 +11553,11 @@
 - [Live-Hack-CVE/CVE-2022-37454](https://github.com/Live-Hack-CVE/CVE-2022-37454)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37454">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37454">
 
 ---
+## CVE-2022-37452 (2022-08-07T18:15:00)
+> Exim before 4.95 has a heap-based buffer overflow for the alias list in host_name_lookup in host.c when sender_host_name is set.
+- [Live-Hack-CVE/CVE-2022-37452](https://github.com/Live-Hack-CVE/CVE-2022-37452)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37452">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37452">
+
+---
 ## CVE-2022-37434 (2022-08-05T07:15:00)
 > zlib through 1.2.12 has a heap-based buffer over-read or buffer overflow in inflate in inflate.c via a large gzip header extra field. NOTE: only applications that call inflateGetHeader are affected. Some common applications bundle the affected zlib source code but may be unable to call inflateGetHeader (e.g., see the nodejs/node reference).
 - [nidhi7598/external_zlib-1.2.11_AOSP_10_r33_CVE-2022-37434](https://github.com/nidhi7598/external_zlib-1.2.11_AOSP_10_r33_CVE-2022-37434)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/external_zlib-1.2.11_AOSP_10_r33_CVE-2022-37434">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/external_zlib-1.2.11_AOSP_10_r33_CVE-2022-37434">
@@ -12059,6 +12069,7 @@
 - [GreyNoise-Intelligence/Zimbra_CVE-2022-37042-_CVE-2022-27925](https://github.com/GreyNoise-Intelligence/Zimbra_CVE-2022-37042-_CVE-2022-27925)	<img alt="forks" src="https://img.shields.io/github/forks/GreyNoise-Intelligence/Zimbra_CVE-2022-37042-_CVE-2022-27925">	<img alt="stars" src="https://img.shields.io/github/stars/GreyNoise-Intelligence/Zimbra_CVE-2022-37042-_CVE-2022-27925">
 - [aels/CVE-2022-37042](https://github.com/aels/CVE-2022-37042)	<img alt="forks" src="https://img.shields.io/github/forks/aels/CVE-2022-37042">	<img alt="stars" src="https://img.shields.io/github/stars/aels/CVE-2022-37042">
 - [0xf4n9x/CVE-2022-37042](https://github.com/0xf4n9x/CVE-2022-37042)	<img alt="forks" src="https://img.shields.io/github/forks/0xf4n9x/CVE-2022-37042">	<img alt="stars" src="https://img.shields.io/github/stars/0xf4n9x/CVE-2022-37042">
+- [Live-Hack-CVE/CVE-2022-37042](https://github.com/Live-Hack-CVE/CVE-2022-37042)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37042">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37042">
 
 ---
 ## CVE-2022-3704 (2022-10-26T20:15:00)
@@ -15161,6 +15172,7 @@
 ## CVE-2022-33879 (2022-06-27T22:15:00)
 > The initial fixes in CVE-2022-30126 and CVE-2022-30973 for regexes in the StandardsExtractingContentHandler were insufficient, and we found a separate, new regex DoS in a different regex in the StandardsExtractingContentHandler. These are now fixed in 1.28.4 and 2.4.1.
 - [Live-Hack-CVE/CVE-2022-33879](https://github.com/Live-Hack-CVE/CVE-2022-33879)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33879">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33879">
+- [Live-Hack-CVE/CVE-2022-33879](https://github.com/Live-Hack-CVE/CVE-2022-33879)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33879">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33879">
 
 ---
 ## CVE-2022-33876 (2022-12-06T17:15:00)
@@ -15461,9 +15473,35 @@
 - [Live-Hack-CVE/CVE-2022-33187](https://github.com/Live-Hack-CVE/CVE-2022-33187)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33187">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33187">
 
 ---
+## CVE-2022-33185 (2022-10-25T21:15:00)
+> Several commands in Brocade Fabric OS before Brocade Fabric OS v.9.0.1e, and v9.1.0 use unsafe string functions to process user input. Authenticated local attackers could abuse these vulnerabilities to exploit stack-based buffer overflows, allowing arbitrary code execution as the root user account.
+- [Live-Hack-CVE/CVE-2022-33185](https://github.com/Live-Hack-CVE/CVE-2022-33185)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33185">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33185">
+
+---
+## CVE-2022-33184 (2022-10-25T21:15:00)
+> A vulnerability in fab_seg.c.h libraries of all Brocade Fabric OS versions before Brocade Fabric OS v9.1.1, v9.0.1e, v8.2.3c, v8.2.0_cbn5, 7.4.2j could allow local authenticated attackers to exploit stack-based buffer overflows and execute arbitrary code as the root user account.
+- [Live-Hack-CVE/CVE-2022-33184](https://github.com/Live-Hack-CVE/CVE-2022-33184)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33184">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33184">
+
+---
 ## CVE-2022-33183 (2022-10-25T21:15:00)
 > A vulnerability in Brocade Fabric OS CLI before Brocade Fabric OS v9.1.0, 9.0.1e, 8.2.3c, 8.2.0cbn5, 7.4.2.j could allow a remote authenticated attacker to perform stack buffer overflow using in “firmwaredownload” and “diagshow” commands.
 - [Live-Hack-CVE/CVE-2022-33183](https://github.com/Live-Hack-CVE/CVE-2022-33183)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33183">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33183">
+- [Live-Hack-CVE/CVE-2022-33183](https://github.com/Live-Hack-CVE/CVE-2022-33183)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33183">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33183">
+
+---
+## CVE-2022-33182 (2022-10-25T21:15:00)
+> A privilege escalation vulnerability in Brocade Fabric OS CLI before Brocade Fabric OS v9.1.0, 9.0.1e, 8.2.3c, 8.2.0cbn5, could allow a local authenticated user to escalate its privilege to root using switch commands “supportlink”, “firmwaredownload”, “portcfgupload, license, and “fosexec”.
+- [Live-Hack-CVE/CVE-2022-33182](https://github.com/Live-Hack-CVE/CVE-2022-33182)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33182">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33182">
+
+---
+## CVE-2022-33181 (2022-10-25T21:15:00)
+> An information disclosure vulnerability in Brocade Fabric OS CLI before Brocade Fabric OS v9.1.0, 9.0.1e, 8.2.3c, 8.2.0cbn5, 7.4.2.j could allow a local authenticated attacker to read sensitive files using switch commands “configshow” and “supportlink”.
+- [Live-Hack-CVE/CVE-2022-33181](https://github.com/Live-Hack-CVE/CVE-2022-33181)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33181">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33181">
+
+---
+## CVE-2022-33180 (2022-10-25T21:15:00)
+> A vulnerability in Brocade Fabric OS CLI before Brocade Fabric OS v9.1.0, 9.0.1e, 8.2.3c, 8.2.0cbn5 could allow a local authenticated attacker to export out sensitive files with “seccryptocfg”, “configupload”.
+- [Live-Hack-CVE/CVE-2022-33180](https://github.com/Live-Hack-CVE/CVE-2022-33180)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33180">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33180">
 
 ---
 ## CVE-2022-33178 (2022-10-25T21:15:00)
@@ -15553,6 +15591,11 @@
 ## CVE-2022-33070 (2022-06-23T17:15:00)
 > Protobuf-c v1.4.0 was discovered to contain an invalid arithmetic shift via the function parse_tag_and_wiretype in protobuf-c/protobuf-c.c. This vulnerability allows attackers to cause a Denial of Service (DoS) via unspecified vectors.
 - [Live-Hack-CVE/CVE-2022-33070](https://github.com/Live-Hack-CVE/CVE-2022-33070)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33070">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33070">
+
+---
+## CVE-2022-33068 (2022-06-23T17:15:00)
+> An integer overflow in the component hb-ot-shape-fallback.cc of Harfbuzz v4.3.0 allows attackers to cause a Denial of Service (DoS) via unspecified vectors.
+- [Live-Hack-CVE/CVE-2022-33068](https://github.com/Live-Hack-CVE/CVE-2022-33068)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33068">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33068">
 
 ---
 ## CVE-2022-3303 (2022-09-27T23:15:00)
@@ -16912,6 +16955,7 @@
 ## CVE-2022-31262 (2022-08-17T15:15:00)
 > An exploitable local privilege escalation vulnerability exists in GOG Galaxy 2.0.46. Due to insufficient folder permissions, an attacker can hijack the %ProgramData%\GOG.com folder structure and change the GalaxyCommunication service executable to a malicious file, resulting in code execution as SYSTEM.
 - [secure-77/CVE-2022-31262](https://github.com/secure-77/CVE-2022-31262)	<img alt="forks" src="https://img.shields.io/github/forks/secure-77/CVE-2022-31262">	<img alt="stars" src="https://img.shields.io/github/stars/secure-77/CVE-2022-31262">
+- [Live-Hack-CVE/CVE-2022-31262](https://github.com/Live-Hack-CVE/CVE-2022-31262)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31262">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31262">
 
 ---
 ## CVE-2022-3126 (2022-10-17T12:15:00)
@@ -18694,6 +18738,11 @@
 - [Live-Hack-CVE/CVE-2022-28173](https://github.com/Live-Hack-CVE/CVE-2022-28173)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28173">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28173">
 
 ---
+## CVE-2022-28170 (2022-10-25T21:15:00)
+> Brocade Fabric OS Web Application services before Brocade Fabric v9.1.0, v9.0.1e, v8.2.3c, v7.4.2j store server and user passwords in the debug statements. This could allow a local user to extract the passwords from a debug file.
+- [Live-Hack-CVE/CVE-2022-28170](https://github.com/Live-Hack-CVE/CVE-2022-28170)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28170">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28170">
+
+---
 ## CVE-2022-28169 (2022-10-25T21:15:00)
 > Brocade Webtools in Brocade Fabric OS versions before Brocade Fabric OS versions v9.1.1, v9.0.1e, and v8.2.3c could allow a low privilege webtools, user, to gain elevated admin rights, or privileges, beyond what is intended or entitled for that user. By exploiting this vulnerability, a user whose role is not an admin can create a new user with an admin role using the operator session id. The issue was replicated after intercepting the admin, and operator authorization headers sent unencrypted and editing a user addition request to use the operator's authorization header.
 - [Live-Hack-CVE/CVE-2022-28169](https://github.com/Live-Hack-CVE/CVE-2022-28169)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28169">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28169">
@@ -18877,6 +18926,11 @@
 ## CVE-2022-27673 (2022-11-09T21:15:00)
 > Insufficient access controls in the AMD Link Android app may potentially result in information disclosure.
 - [Live-Hack-CVE/CVE-2022-27673](https://github.com/Live-Hack-CVE/CVE-2022-27673)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27673">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27673">
+
+---
+## CVE-2022-27664 (2022-09-06T18:15:00)
+> In net/http in Go before 1.18.6 and 1.19.x before 1.19.1, attackers can cause a denial of service because an HTTP/2 connection can hang during closing if shutdown were preempted by a fatal error.
+- [Live-Hack-CVE/CVE-2022-27664](https://github.com/Live-Hack-CVE/CVE-2022-27664)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27664">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27664">
 
 ---
 ## CVE-2022-27651 (2022-04-04T20:15:00)
@@ -22043,6 +22097,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-2124 (2022-06-19T10:15:00)
 > Buffer Over-read in GitHub repository vim/vim prior to 8.2.
 - [Live-Hack-CVE/CVE-2022-2124](https://github.com/Live-Hack-CVE/CVE-2022-2124)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2124">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2124">
+
+---
+## CVE-2022-21233 (2022-08-18T20:15:00)
+> Improper isolation of shared resources in some Intel(R) Processors may allow a privileged user to potentially enable information disclosure via local access.
+- [Live-Hack-CVE/CVE-2022-21233](https://github.com/Live-Hack-CVE/CVE-2022-21233)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21233">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21233">
 
 ---
 ## CVE-2022-21225 (2022-08-18T20:15:00)
