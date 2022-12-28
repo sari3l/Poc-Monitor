@@ -166,10 +166,12 @@
 ## CVE-2021-45845 (2022-01-25T13:15:00)
 > The Path Sanity Check script of FreeCAD 0.19 is vulnerable to OS command injection, allowing an attacker to execute arbitrary commands via a crafted FCStd document.
 - [Live-Hack-CVE/CVE-2021-45845](https://github.com/Live-Hack-CVE/CVE-2021-45845)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45845">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45845">
+- [Live-Hack-CVE/CVE-2021-45845](https://github.com/Live-Hack-CVE/CVE-2021-45845)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45845">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45845">
 
 ---
 ## CVE-2021-45844 (2022-01-25T13:15:00)
 > Improper sanitization in the invocation of ODA File Converter from FreeCAD 0.19 allows an attacker to inject OS commands via a crafted filename.
+- [Live-Hack-CVE/CVE-2021-45844](https://github.com/Live-Hack-CVE/CVE-2021-45844)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45844">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45844">
 - [Live-Hack-CVE/CVE-2021-45844](https://github.com/Live-Hack-CVE/CVE-2021-45844)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45844">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45844">
 
 ---
@@ -502,10 +504,12 @@
 ## CVE-2021-43788 (2021-11-29T20:15:00)
 > Nodebb is an open source Node.js based forum software. Prior to v1.18.5, a path traversal vulnerability was present that allowed users to access JSON files outside of the expected `languages/` directory. The vulnerability has been patched as of v1.18.5. Users are advised to upgrade as soon as possible.
 - [Live-Hack-CVE/CVE-2021-43788](https://github.com/Live-Hack-CVE/CVE-2021-43788)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43788">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43788">
+- [Live-Hack-CVE/CVE-2021-43788](https://github.com/Live-Hack-CVE/CVE-2021-43788)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43788">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43788">
 
 ---
 ## CVE-2021-43787 (2021-11-29T20:15:00)
 > Nodebb is an open source Node.js based forum software. In affected versions a prototype pollution vulnerability in the uploader module allowed a malicious user to inject arbitrary data (i.e. javascript) into the DOM, theoretically allowing for an account takeover when used in conjunction with a path traversal vulnerability disclosed at the same time as this report. The vulnerability has been patched as of v1.18.5. Users are advised to upgrade as soon as possible.
+- [Live-Hack-CVE/CVE-2021-43787](https://github.com/Live-Hack-CVE/CVE-2021-43787)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43787">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43787">
 - [Live-Hack-CVE/CVE-2021-43787](https://github.com/Live-Hack-CVE/CVE-2021-43787)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43787">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43787">
 
 ---

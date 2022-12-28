@@ -412,6 +412,7 @@
 ## CVE-2019-5815 (2019-12-11T01:15:00)
 > Type confusion in xsltNumberFormatGetMultipleLevel prior to libxslt 1.1.33 could allow attackers to potentially exploit heap corruption via crafted XML data.
 - [Live-Hack-CVE/CVE-2019-5815](https://github.com/Live-Hack-CVE/CVE-2019-5815)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5815">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5815">
+- [Live-Hack-CVE/CVE-2019-5815](https://github.com/Live-Hack-CVE/CVE-2019-5815)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5815">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5815">
 
 ---
 ## CVE-2019-5797 (2022-09-29T02:15:00)
