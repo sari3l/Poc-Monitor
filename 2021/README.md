@@ -319,6 +319,81 @@
 - [Live-Hack-CVE/CVE-2021-44425](https://github.com/Live-Hack-CVE/CVE-2021-44425)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44425">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44425">
 
 ---
+## CVE-2021-44388 (2022-01-28T22:15:00)
+> A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC-410W v3.0.0.136_20121102. A specially-crafted HTTP request can lead to a reboot. Login param is not object. An attacker can send an HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-44388](https://github.com/Live-Hack-CVE/CVE-2021-44388)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44388">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44388">
+
+---
+## CVE-2021-44387 (2022-01-28T22:15:00)
+> A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC-410W v3.0.0.136_20121102. A specially-crafted HTTP request can lead to a reboot. SetPtzPreset param is not object. An attacker can send an HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-44387](https://github.com/Live-Hack-CVE/CVE-2021-44387)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44387">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44387">
+
+---
+## CVE-2021-44386 (2022-01-28T22:15:00)
+> A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC-410W v3.0.0.136_20121102. A specially-crafted HTTP request can lead to a reboot. SetPtzPatrol param is not object. An attacker can send an HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-44386](https://github.com/Live-Hack-CVE/CVE-2021-44386)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44386">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44386">
+
+---
+## CVE-2021-44384 (2022-01-28T22:15:00)
+> A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC-410W v3.0.0.136_20121102. A specially-crafted HTTP request can lead to a reboot. SetPtzTattern param is not object. An attacker can send an HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-44384](https://github.com/Live-Hack-CVE/CVE-2021-44384)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44384">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44384">
+
+---
+## CVE-2021-44383 (2022-01-28T22:15:00)
+> A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC-410W v3.0.0.136_20121102. A specially-crafted HTTP request can lead to a reboot. SetAutoUpgrade param is not object. An attacker can send an HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-44383](https://github.com/Live-Hack-CVE/CVE-2021-44383)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44383">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44383">
+
+---
+## CVE-2021-44382 (2022-01-28T22:15:00)
+> A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC-410W v3.0.0.136_20121102. A specially-crafted HTTP request can lead to a reboot.SetIrLights param is not object. An attacker can send an HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-44382](https://github.com/Live-Hack-CVE/CVE-2021-44382)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44382">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44382">
+
+---
+## CVE-2021-44381 (2022-01-28T22:15:00)
+> A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC-410W v3.0.0.136_20121102. A specially-crafted HTTP request can lead to a reboot. SetPowerLed param is not object. An attacker can send an HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-44381](https://github.com/Live-Hack-CVE/CVE-2021-44381)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44381">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44381">
+
+---
+## CVE-2021-44380 (2022-01-28T22:15:00)
+> A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC-410W v3.0.0.136_20121102. A specially-crafted HTTP request can lead to a reboot. SetTime param is not object. An attacker can send an HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-44380](https://github.com/Live-Hack-CVE/CVE-2021-44380)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44380">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44380">
+
+---
+## CVE-2021-44379 (2022-01-28T22:15:00)
+> A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC-410W v3.0.0.136_20121102. A specially-crafted HTTP request can lead to a reboot. SetAutoMaint param is not object. An attacker can send an HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-44379](https://github.com/Live-Hack-CVE/CVE-2021-44379)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44379">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44379">
+
+---
+## CVE-2021-44378 (2022-01-28T22:15:00)
+> A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC-410W v3.0.0.136_20121102. A specially-crafted HTTP request can lead to a reboot. SetEnc param is not object. An attacker can send an HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-44378](https://github.com/Live-Hack-CVE/CVE-2021-44378)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44378">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44378">
+
+---
+## CVE-2021-44377 (2022-01-28T22:15:00)
+> A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC-410W v3.0.0.136_20121102. A specially-crafted HTTP request can lead to a reboot. SetImage param is not object. An attacker can send an HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-44377](https://github.com/Live-Hack-CVE/CVE-2021-44377)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44377">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44377">
+
+---
+## CVE-2021-44376 (2022-01-28T22:15:00)
+> A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC-410W v3.0.0.136_20121102. A specially-crafted HTTP request can lead to a reboot. SetIsp param is not object. An attacker can send an HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-44376](https://github.com/Live-Hack-CVE/CVE-2021-44376)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44376">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44376">
+
+---
+## CVE-2021-44374 (2022-01-28T22:15:00)
+> A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC-410W v3.0.0.136_20121102. A specially-crafted HTTP request can lead to a reboot. SetMask param is not object. An attacker can send an HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-44374](https://github.com/Live-Hack-CVE/CVE-2021-44374)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44374">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44374">
+
+---
+## CVE-2021-44373 (2022-01-28T22:15:00)
+> A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC-410W v3.0.0.136_20121102. A specially-crafted HTTP request can lead to a reboot. SetAutoFocus param is not object. An attacker can send an HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-44373](https://github.com/Live-Hack-CVE/CVE-2021-44373)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44373">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44373">
+
+---
+## CVE-2021-44372 (2022-01-28T22:15:00)
+> A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC-410W v3.0.0.136_20121102. A specially-crafted HTTP request can lead to a reboot. SetLocalLink param is not object. An attacker can send an HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-44372](https://github.com/Live-Hack-CVE/CVE-2021-44372)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44372">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44372">
+
+---
 ## CVE-2021-44371 (2022-01-28T22:15:00)
 > A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC-410W v3.0.0.136_20121102. A specially-crafted HTTP request can lead to a reboot. SetEmail param is not object. An attacker can send an HTTP request to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2021-44371](https://github.com/Live-Hack-CVE/CVE-2021-44371)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44371">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44371">
