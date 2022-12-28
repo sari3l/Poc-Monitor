@@ -6,6 +6,26 @@
 - [Live-Hack-CVE/CVE-2013-6668](https://github.com/Live-Hack-CVE/CVE-2013-6668)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-6668">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-6668">
 
 ---
+## CVE-2013-6646 (2014-01-16T12:17:00)
+> Use-after-free vulnerability in the Web Workers implementation in Google Chrome before 32.0.1700.76 on Windows and before 32.0.1700.77 on Mac OS X and Linux allows remote attackers to cause a denial of service or possibly have unspecified other impact via vectors related to the shutting down of a worker process.
+- [Live-Hack-CVE/CVE-2013-6646](https://github.com/Live-Hack-CVE/CVE-2013-6646)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-6646">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-6646">
+
+---
+## CVE-2013-6645 (2014-01-16T12:17:00)
+> Use-after-free vulnerability in the OnWindowRemovingFromRootWindow function in content/browser/web_contents/web_contents_view_aura.cc in Google Chrome before 32.0.1700.76 on Windows and before 32.0.1700.77 on Mac OS X and Linux allows user-assisted remote attackers to cause a denial of service or possibly have unspecified other impact via vectors involving certain print-preview and tab-switch actions that interact with a speech input element.
+- [Live-Hack-CVE/CVE-2013-6645](https://github.com/Live-Hack-CVE/CVE-2013-6645)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-6645">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-6645">
+
+---
+## CVE-2013-6644 (2014-01-16T12:17:00)
+> Multiple unspecified vulnerabilities in Google Chrome before 32.0.1700.76 on Windows and before 32.0.1700.77 on Mac OS X and Linux allow attackers to cause a denial of service or possibly have other impact via unknown vectors.
+- [Live-Hack-CVE/CVE-2013-6644](https://github.com/Live-Hack-CVE/CVE-2013-6644)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-6644">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-6644">
+
+---
+## CVE-2013-6641 (2014-01-16T12:17:00)
+> Use-after-free vulnerability in the FormAssociatedElement::formRemovedFromTree function in core/html/FormAssociatedElement.cpp in Blink, as used in Google Chrome before 32.0.1700.76 on Windows and before 32.0.1700.77 on Mac OS X and Linux, allows remote attackers to cause a denial of service or possibly have unspecified other impact by leveraging improper handling of the past names map of a FORM element.
+- [Live-Hack-CVE/CVE-2013-6641](https://github.com/Live-Hack-CVE/CVE-2013-6641)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-6641">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-6641">
+
+---
 ## CVE-2013-6490 (2014-02-06T17:00:00)
 > The SIMPLE protocol functionality in Pidgin before 2.10.8 allows remote attackers to have an unspecified impact via a negative Content-Length header, which triggers a buffer overflow.
 - [Everdoh/CVE-2013-6490](https://github.com/Everdoh/CVE-2013-6490)	<img alt="forks" src="https://img.shields.io/github/forks/Everdoh/CVE-2013-6490">	<img alt="stars" src="https://img.shields.io/github/stars/Everdoh/CVE-2013-6490">

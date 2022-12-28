@@ -2575,6 +2575,7 @@
 ## CVE-2022-44590 (2022-11-09T22:15:00)
 > Auth. (contributor+) Stored Cross-Site Scripting (XSS) vulnerability in James Lao's Simple Video Embedder plugin <= 2.2 on WordPress.
 - [Live-Hack-CVE/CVE-2022-44590](https://github.com/Live-Hack-CVE/CVE-2022-44590)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44590">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44590">
+- [Live-Hack-CVE/CVE-2022-44590](https://github.com/Live-Hack-CVE/CVE-2022-44590)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44590">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44590">
 
 ---
 ## CVE-2022-44588 (2022-12-15T19:15:00)
@@ -9921,6 +9922,7 @@
 > An uncontrolled resource consumption issue when parsing URLs in GitLab CE/EE affecting all versions prior to 15.3.5, 15.4 prior to 15.4.4, and 15.5 prior to 15.5.2 allows an attacker to cause performance issues and potentially a denial of service on the GitLab instance.
 - [Live-Hack-CVE/CVE-2022-3818](https://github.com/Live-Hack-CVE/CVE-2022-3818)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3818">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3818">
 - [Live-Hack-CVE/CVE-2022-38183](https://github.com/Live-Hack-CVE/CVE-2022-38183)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38183">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38183">
+- [Live-Hack-CVE/CVE-2022-3818](https://github.com/Live-Hack-CVE/CVE-2022-3818)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3818">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3818">
 
 ---
 ## CVE-2022-38178 (2022-09-21T11:15:00)
@@ -10407,6 +10409,14 @@
 ## CVE-2022-37931 (2022-11-22T05:15:00)
 > A vulnerability in NetBatch-Plus software allows unauthorized access to the application. HPE has provided a workaround and fix. Please refer to HPE Security Bulletin HPESBNS04388 for details.
 - [Live-Hack-CVE/CVE-2022-37931](https://github.com/Live-Hack-CVE/CVE-2022-37931)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37931">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37931">
+
+---
+## CVE-2022-3793 (2022-11-10T00:15:00)
+> An improper authorization issue in GitLab CE/EE affecting all versions from 14.4 prior to 15.3.5, 15.4 prior to 15.4.4, and 15.5 prior to 15.5.2 allows an attacker to read variables set directly in a GitLab CI/CD configuration file they don't have access to.
+- [Live-Hack-CVE/CVE-2022-3793](https://github.com/Live-Hack-CVE/CVE-2022-3793)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3793">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3793">
+- [Live-Hack-CVE/CVE-2022-37931](https://github.com/Live-Hack-CVE/CVE-2022-37931)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37931">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37931">
+- [Live-Hack-CVE/CVE-2022-37930](https://github.com/Live-Hack-CVE/CVE-2022-37930)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37930">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37930">
+- [Live-Hack-CVE/CVE-2022-37932](https://github.com/Live-Hack-CVE/CVE-2022-37932)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37932">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37932">
 
 ---
 ## CVE-2022-37928 (2022-12-12T13:15:00)
@@ -14817,6 +14827,11 @@
 - [Live-Hack-CVE/CVE-2022-3266](https://github.com/Live-Hack-CVE/CVE-2022-3266)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3266">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3266">
 
 ---
+## CVE-2022-3265 (2022-11-09T23:15:00)
+> A cross-site scripting issue has been discovered in GitLab CE/EE affecting all versions prior to 15.3.5, 15.4 prior to 15.4.4, and 15.5 prior to 15.5.2. It was possible to exploit a vulnerability in setting the labels colour feature which could lead to a stored XSS that allowed attackers to perform arbitrary actions on behalf of victims at client side.
+- [Live-Hack-CVE/CVE-2022-3265](https://github.com/Live-Hack-CVE/CVE-2022-3265)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3265">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3265">
+
+---
 ## CVE-2022-32634 (2022-12-05T15:15:00)
 > In ccci, there is a possible out of bounds write due to improper input validation. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07138646; Issue ID: ALPS07138646.
 - [Live-Hack-CVE/CVE-2022-32634](https://github.com/Live-Hack-CVE/CVE-2022-32634)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32634">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32634">
@@ -15462,6 +15477,31 @@
 - [SpindleSec/CVE-2022-31691](https://github.com/SpindleSec/CVE-2022-31691)	<img alt="forks" src="https://img.shields.io/github/forks/SpindleSec/CVE-2022-31691">	<img alt="stars" src="https://img.shields.io/github/stars/SpindleSec/CVE-2022-31691">
 - [SpindleSec/cve-2022-31692](https://github.com/SpindleSec/cve-2022-31692)	<img alt="forks" src="https://img.shields.io/github/forks/SpindleSec/cve-2022-31692">	<img alt="stars" src="https://img.shields.io/github/stars/SpindleSec/cve-2022-31692">
 - [Live-Hack-CVE/CVE-2022-3169](https://github.com/Live-Hack-CVE/CVE-2022-3169)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3169">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3169">
+
+---
+## CVE-2022-31689 (2022-11-09T21:15:00)
+> VMware Workspace ONE Assist prior to 22.10 contains a Session fixation vulnerability. A malicious actor who obtains a valid session token may be able to authenticate to the application using that token.
+- [Live-Hack-CVE/CVE-2022-31689](https://github.com/Live-Hack-CVE/CVE-2022-31689)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31689">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31689">
+
+---
+## CVE-2022-31688 (2022-11-09T21:15:00)
+> VMware Workspace ONE Assist prior to 22.10 contains a Reflected cross-site scripting (XSS) vulnerability. Due to improper user input sanitization, a malicious actor with some user interaction may be able to inject javascript code in the target user's window.
+- [Live-Hack-CVE/CVE-2022-31688](https://github.com/Live-Hack-CVE/CVE-2022-31688)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31688">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31688">
+
+---
+## CVE-2022-31687 (2022-11-09T21:15:00)
+> VMware Workspace ONE Assist prior to 22.10 contains a Broken Access Control vulnerability. A malicious actor with network access to Workspace ONE Assist may be able to obtain administrative access without the need to authenticate to the application.
+- [Live-Hack-CVE/CVE-2022-31687](https://github.com/Live-Hack-CVE/CVE-2022-31687)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31687">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31687">
+
+---
+## CVE-2022-31686 (2022-11-09T21:15:00)
+> VMware Workspace ONE Assist prior to 22.10 contains a Broken Authentication Method vulnerability. A malicious actor with network access to Workspace ONE Assist may be able to obtain administrative access without the need to authenticate to the application.
+- [Live-Hack-CVE/CVE-2022-31686](https://github.com/Live-Hack-CVE/CVE-2022-31686)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31686">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31686">
+
+---
+## CVE-2022-31685 (2022-11-09T21:15:00)
+> VMware Workspace ONE Assist prior to 22.10 contains an Authentication Bypass vulnerability. A malicious actor with network access to Workspace ONE Assist may be able to obtain administrative access without the need to authenticate to the application.
+- [Live-Hack-CVE/CVE-2022-31685](https://github.com/Live-Hack-CVE/CVE-2022-31685)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31685">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31685">
 
 ---
 ## CVE-2022-31683 (2022-12-19T16:15:00)
@@ -17574,6 +17614,7 @@
 ---
 ## CVE-2022-2761 (2022-11-09T23:15:00)
 > An information disclosure issue in GitLab CE/EE affecting all versions from 14.4 prior to 15.3.5, 15.4 prior to 15.4.4, and 15.5 prior to 15.5.2 allows an attacker to use GitLab Flavored Markdown (GFM) references in a Jira issue to disclose the names of resources they don't have access to.
+- [Live-Hack-CVE/CVE-2022-2761](https://github.com/Live-Hack-CVE/CVE-2022-2761)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2761">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2761">
 - [Live-Hack-CVE/CVE-2022-2761](https://github.com/Live-Hack-CVE/CVE-2022-2761)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2761">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2761">
 
 ---
@@ -19729,6 +19770,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ---
 ## CVE-2022-22808 (2022-02-09T23:15:00)
 > A CWE-352: Cross-Site Request Forgery (CSRF) exists that could cause a remote attacker to gain unauthorized access to the product when conducting cross-domain attacks based on same-origin policy or cross-site request forgery protections bypass. Affected Product: EcoStruxure EV Charging Expert (formerly known as EVlink Load Management System): (HMIBSCEA53D1EDB, HMIBSCEA53D1EDS, HMIBSCEA53D1EDM, HMIBSCEA53D1EDL, HMIBSCEA53D1ESS, HMIBSCEA53D1ESM, HMIBSCEA53D1EML) (All Versions prior to SP8 (Version 01) V4.0.0.13)
+- [Live-Hack-CVE/CVE-2022-22808](https://github.com/Live-Hack-CVE/CVE-2022-22808)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22808">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22808">
 - [Live-Hack-CVE/CVE-2022-22808](https://github.com/Live-Hack-CVE/CVE-2022-22808)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22808">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22808">
 
 ---

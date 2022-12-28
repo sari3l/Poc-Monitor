@@ -9,10 +9,12 @@
 ## CVE-2021-46852 (2022-11-09T21:15:00)
 > The memory management module has the logic bypass vulnerability. Successful exploitation of this vulnerability may affect data confidentiality.
 - [Live-Hack-CVE/CVE-2021-46852](https://github.com/Live-Hack-CVE/CVE-2021-46852)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46852">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46852">
+- [Live-Hack-CVE/CVE-2021-46852](https://github.com/Live-Hack-CVE/CVE-2021-46852)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46852">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46852">
 
 ---
 ## CVE-2021-46851 (2022-11-09T21:15:00)
 > The DRM module has a vulnerability in verifying the secure memory attributes. Successful exploitation of this vulnerability may cause abnormal video playback.
+- [Live-Hack-CVE/CVE-2021-46851](https://github.com/Live-Hack-CVE/CVE-2021-46851)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46851">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46851">
 - [Live-Hack-CVE/CVE-2021-46851](https://github.com/Live-Hack-CVE/CVE-2021-46851)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46851">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46851">
 
 ---
@@ -4421,6 +4423,7 @@
 ---
 ## CVE-2021-22737 (2021-05-26T20:15:00)
 > Insufficiently Protected Credentials vulnerability exists in homeLYnk (Wiser For KNX) and spaceLYnk V2.60 and prior that could cause unauthorized access of when credentials are discovered after a brute force attack.
+- [Live-Hack-CVE/CVE-2021-22737](https://github.com/Live-Hack-CVE/CVE-2021-22737)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22737">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22737">
 - [Live-Hack-CVE/CVE-2021-22737](https://github.com/Live-Hack-CVE/CVE-2021-22737)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22737">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22737">
 
 ---

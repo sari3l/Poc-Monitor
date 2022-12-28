@@ -99,6 +99,16 @@
 - [Live-Hack-CVE/CVE-2014-1734](https://github.com/Live-Hack-CVE/CVE-2014-1734)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-1734">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-1734">
 
 ---
+## CVE-2014-1733 (2014-04-26T10:55:00)
+> The PointerCompare function in codegen.cc in Seccomp-BPF, as used in Google Chrome before 34.0.1847.131 on Windows and OS X and before 34.0.1847.132 on Linux, does not properly merge blocks, which might allow remote attackers to bypass intended sandbox restrictions by leveraging renderer access.
+- [Live-Hack-CVE/CVE-2014-1733](https://github.com/Live-Hack-CVE/CVE-2014-1733)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-1733">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-1733">
+
+---
+## CVE-2014-1732 (2014-04-26T10:55:00)
+> Use-after-free vulnerability in browser/ui/views/speech_recognition_bubble_views.cc in Google Chrome before 34.0.1847.131 on Windows and OS X and before 34.0.1847.132 on Linux allows remote attackers to cause a denial of service or possibly have unspecified other impact via an INPUT element that triggers the presence of a Speech Recognition Bubble window for an incorrect duration.
+- [Live-Hack-CVE/CVE-2014-1732](https://github.com/Live-Hack-CVE/CVE-2014-1732)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-1732">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-1732">
+
+---
 ## CVE-2014-1731 (2014-04-26T10:55:00)
 > core/html/HTMLSelectElement.cpp in the DOM implementation in Blink, as used in Google Chrome before 34.0.1847.131 on Windows and OS X and before 34.0.1847.132 on Linux, does not properly check renderer state upon a focus event, which allows remote attackers to cause a denial of service or possibly have unspecified other impact via vectors that leverage "type confusion" for SELECT elements.
 - [Live-Hack-CVE/CVE-2014-1731](https://github.com/Live-Hack-CVE/CVE-2014-1731)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-1731">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-1731">
