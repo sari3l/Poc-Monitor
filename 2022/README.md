@@ -14153,6 +14153,11 @@
 - [Live-Hack-CVE/CVE-2022-35155](https://github.com/Live-Hack-CVE/CVE-2022-35155)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35155">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35155">
 
 ---
+## CVE-2022-35132 (2022-10-25T17:15:00)
+> Usermin through 1.850 allows a remote authenticated user to execute OS commands via command injection in a filename for the GPG module.
+- [Live-Hack-CVE/CVE-2022-35132](https://github.com/Live-Hack-CVE/CVE-2022-35132)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35132">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35132">
+
+---
 ## CVE-2022-35131 (2022-07-25T21:15:00)
 > Joplin v2.8.8 allows attackers to execute arbitrary commands via a crafted payload injected into the Node titles.
 - [ly1g3/Joplin-CVE-2022-35131](https://github.com/ly1g3/Joplin-CVE-2022-35131)	<img alt="forks" src="https://img.shields.io/github/forks/ly1g3/Joplin-CVE-2022-35131">	<img alt="stars" src="https://img.shields.io/github/stars/ly1g3/Joplin-CVE-2022-35131">
@@ -14546,9 +14551,24 @@
 - [Live-Hack-CVE/CVE-2022-34881](https://github.com/Live-Hack-CVE/CVE-2022-34881)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34881">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34881">
 
 ---
+## CVE-2022-34870 (2022-10-25T17:15:00)
+> Apache Geode versions up to 1.15.0 are vulnerable to a Cross-Site Scripting (XSS) via data injection when using Pulse web application to view Region entries.
+- [Live-Hack-CVE/CVE-2022-34870](https://github.com/Live-Hack-CVE/CVE-2022-34870)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34870">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34870">
+
+---
 ## CVE-2022-3486 (2022-11-09T23:15:00)
 > An open redirect vulnerability in GitLab EE/CE affecting all versions from 9.3 prior to 15.3.5, 15.4 prior to 15.4.4, and 15.5 prior to 15.5.2, allows an attacker to redirect users to an arbitrary location if they trust the URL.
 - [Live-Hack-CVE/CVE-2022-3486](https://github.com/Live-Hack-CVE/CVE-2022-3486)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3486">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3486">
+
+---
+## CVE-2022-34850 (2022-10-25T17:15:00)
+> An OS command injection vulnerability exists in the web_server /action/import_authorized_keys/ functionality of Robustel R1510 3.1.16 and 3.3.0. A specially-crafted network request can lead to arbitrary command execution. An attacker can send a sequence of requests to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-34850](https://github.com/Live-Hack-CVE/CVE-2022-34850)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34850">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34850">
+
+---
+## CVE-2022-34845 (2022-10-25T17:15:00)
+> A firmware update vulnerability exists in the sysupgrade functionality of Robustel R1510 3.1.16 and 3.3.0. A specially-crafted network packet can lead to arbitrary firmware update. An attacker can send a sequence of requests to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-34845](https://github.com/Live-Hack-CVE/CVE-2022-34845)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34845">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34845">
 
 ---
 ## CVE-2022-3484 (2022-11-14T15:15:00)
@@ -15181,6 +15201,11 @@
 ## CVE-2022-33907 (2022-11-14T23:15:00)
 > DMA transactions which are targeted at input buffers used for the software SMI handler used by the IdeBusDxe driver could cause SMRAM corruption through a TOCTOU attack... DMA transactions which are targeted at input buffers used for the software SMI handler used by the IdeBusDxe driver could cause SMRAM corruption through a TOCTOU attack. This issue was discovered by Insyde engineering based on the general description provided by Intel's iSTARE group. Fixed in kernel 5.2: 05.27.25, kernel 5.3: 05.36.25, kernel 5.4: 05.44.25 https://www.insyde.com/security-pledge/SA-2022049
 - [Live-Hack-CVE/CVE-2022-33907](https://github.com/Live-Hack-CVE/CVE-2022-33907)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33907">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33907">
+
+---
+## CVE-2022-33897 (2022-10-25T17:15:00)
+> A directory traversal vulnerability exists in the web_server /ajax/remove/ functionality of Robustel R1510 3.1.16. A specially-crafted network request can lead to arbitrary file deletion. An attacker can send a sequence of requests to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-33897](https://github.com/Live-Hack-CVE/CVE-2022-33897)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33897">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33897">
 
 ---
 ## CVE-2022-33891 (2022-07-18T07:15:00)
@@ -16670,6 +16695,11 @@
 - [xpgdgit/CVE-2022-31793](https://github.com/xpgdgit/CVE-2022-31793)	<img alt="forks" src="https://img.shields.io/github/forks/xpgdgit/CVE-2022-31793">	<img alt="stars" src="https://img.shields.io/github/stars/xpgdgit/CVE-2022-31793">
 
 ---
+## CVE-2022-31780 (2022-08-10T06:15:00)
+> Improper Input Validation vulnerability in HTTP/2 frame handling of Apache Traffic Server allows an attacker to smuggle requests. This issue affects Apache Traffic Server 8.0.0 to 9.1.2.
+- [Live-Hack-CVE/CVE-2022-31780](https://github.com/Live-Hack-CVE/CVE-2022-31780)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31780">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31780">
+
+---
 ## CVE-2022-3178 (2022-09-12T17:15:00)
 > Buffer Over-read in GitHub repository gpac/gpac prior to 2.1.0-DEV.
 - [Live-Hack-CVE/CVE-2022-3178](https://github.com/Live-Hack-CVE/CVE-2022-3178)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3178">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3178">
@@ -16678,6 +16708,11 @@
 ## CVE-2022-31779 (2022-08-10T06:15:00)
 > Improper Input Validation vulnerability in HTTP/2 header parsing of Apache Traffic Server allows an attacker to smuggle requests. This issue affects Apache Traffic Server 8.0.0 to 9.1.2.
 - [Live-Hack-CVE/CVE-2022-31779](https://github.com/Live-Hack-CVE/CVE-2022-31779)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31779">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31779">
+
+---
+## CVE-2022-31778 (2022-08-10T06:15:00)
+> Improper Input Validation vulnerability in handling the Transfer-Encoding header of Apache Traffic Server allows an attacker to poison the cache. This issue affects Apache Traffic Server 8.0.0 to 9.0.2.
+- [Live-Hack-CVE/CVE-2022-31778](https://github.com/Live-Hack-CVE/CVE-2022-31778)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31778">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31778">
 
 ---
 ## CVE-2022-31777 (2022-11-01T16:15:00)
@@ -17688,6 +17723,11 @@
 - [Live-Hack-CVE/CVE-2022-30545](https://github.com/Live-Hack-CVE/CVE-2022-30545)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30545">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30545">
 
 ---
+## CVE-2022-30541 (2022-10-25T17:15:00)
+> An OS command injection vulnerability exists in the XCMD setUPnP functionality of Abode Systems, Inc. iota All-In-One Security Kit 6.9X and 6.9Z. A specially-crafted XCMD can lead to arbitrary command execution. An attacker can send a malicious XML payload to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-30541](https://github.com/Live-Hack-CVE/CVE-2022-30541)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30541">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30541">
+
+---
 ## CVE-2022-3054 (2022-09-26T16:15:00)
 > Insufficient policy enforcement in DevTools in Google Chrome prior to 105.0.5195.52 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
 - [Live-Hack-CVE/CVE-2022-3054](https://github.com/Live-Hack-CVE/CVE-2022-3054)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3054">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3054">
@@ -18147,6 +18187,11 @@
 ## CVE-2022-29901 (2022-07-12T19:15:00)
 > Intel microprocessor generations 6 to 8 are affected by a new Spectre variant that is able to bypass their retpoline mitigation in the kernel to leak arbitrary data. An attacker with unprivileged user access can hijack return instructions to achieve arbitrary speculative code execution under certain microarchitecture-dependent conditions.
 - [Live-Hack-CVE/CVE-2022-29901](https://github.com/Live-Hack-CVE/CVE-2022-29901)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29901">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29901">
+
+---
+## CVE-2022-29889 (2022-10-25T17:15:00)
+> A hard-coded password vulnerability exists in the telnet functionality of Abode Systems, Inc. iota All-In-One Security Kit 6.9Z. Use of a hard-coded root password can lead to arbitrary command execution. An attacker can authenticate with hard-coded credentials to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-29889](https://github.com/Live-Hack-CVE/CVE-2022-29889)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29889">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29889">
 
 ---
 ## CVE-2022-29885 (2022-05-12T08:15:00)
@@ -18924,6 +18969,11 @@
 - [Live-Hack-CVE/CVE-2022-28137](https://github.com/Live-Hack-CVE/CVE-2022-28137)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28137">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28137">
 
 ---
+## CVE-2022-28129 (2022-08-10T06:15:00)
+> Improper Input Validation vulnerability in HTTP/1.1 header parsing of Apache Traffic Server allows an attacker to send invalid headers. This issue affects Apache Traffic Server 8.0.0 to 9.1.2.
+- [Live-Hack-CVE/CVE-2022-28129](https://github.com/Live-Hack-CVE/CVE-2022-28129)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28129">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28129">
+
+---
 ## CVE-2022-28126 (2022-11-11T16:15:00)
 > Improper input validation in some Intel(R) XMM(TM) 7560 Modem software before version M2_7560_R_01.2146.00 may allow a privileged user to potentially enable escalation of privilege via local access.
 - [Live-Hack-CVE/CVE-2022-28126](https://github.com/Live-Hack-CVE/CVE-2022-28126)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28126">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28126">
@@ -19021,6 +19071,11 @@
 - [Live-Hack-CVE/CVE-2022-27914](https://github.com/Live-Hack-CVE/CVE-2022-27914)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27914">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27914">
 
 ---
+## CVE-2022-27912 (2022-10-25T19:15:00)
+> An issue was discovered in Joomla! 4.0.0 through 4.2.3. Sites with publicly enabled debug mode exposed data of previous requests.
+- [Live-Hack-CVE/CVE-2022-27912](https://github.com/Live-Hack-CVE/CVE-2022-27912)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27912">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27912">
+
+---
 ## CVE-2022-2790 (2022-08-19T23:15:00)
 > Emerson Electric's Proficy Machine Edition Version 9.00 and prior is vulenrable to CWE-347 Improper Verification of Cryptographic Signature, and does not properly verify compiled logic (PDT files) and data blocks data (BLD/BLK files).
 - [Live-Hack-CVE/CVE-2022-2790](https://github.com/Live-Hack-CVE/CVE-2022-2790)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2790">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2790">
@@ -19075,6 +19130,16 @@
 ## CVE-2022-2781 (2022-10-06T18:15:00)
 > In affected versions of Octopus Server it was identified that the same encryption process was used for both encrypting session cookies and variables.
 - [Live-Hack-CVE/CVE-2022-2781](https://github.com/Live-Hack-CVE/CVE-2022-2781)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2781">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2781">
+
+---
+## CVE-2022-27805 (2022-10-25T17:15:00)
+> An authentication bypass vulnerability exists in the GHOME control functionality of Abode Systems, Inc. iota All-In-One Security Kit 6.9X and 6.9Z. A specially-crafted network request can lead to arbitrary XCMD execution. An attacker can send a malicious XML payload to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-27805](https://github.com/Live-Hack-CVE/CVE-2022-27805)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27805">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27805">
+
+---
+## CVE-2022-27804 (2022-10-25T17:15:00)
+> An os command injection vulnerability exists in the web interface util_set_abode_code functionality of Abode Systems, Inc. iota All-In-One Security Kit 6.9X and 6.9Z. A specially-crafted HTTP request can lead to arbitrary command execution. An attacker can send an HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-27804](https://github.com/Live-Hack-CVE/CVE-2022-27804)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27804">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27804">
 
 ---
 ## CVE-2022-27674 (2022-11-09T21:15:00)
@@ -20518,6 +20583,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-24654 (2022-08-15T19:15:00)
 > Authenticated stored cross-site scripting (XSS) vulnerability in "Field Server Address" field in INTELBRAS ATA 200 Firmware 74.19.10.21 allows attackers to inject JavaScript code through a crafted payload.
 - [leonardobg/CVE-2022-24654](https://github.com/leonardobg/CVE-2022-24654)	<img alt="forks" src="https://img.shields.io/github/forks/leonardobg/CVE-2022-24654">	<img alt="stars" src="https://img.shields.io/github/stars/leonardobg/CVE-2022-24654">
+- [Live-Hack-CVE/CVE-2022-24654](https://github.com/Live-Hack-CVE/CVE-2022-24654)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24654">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24654">
 
 ---
 ## CVE-2022-24637 (2022-03-18T16:15:00)
@@ -23680,6 +23746,26 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-1927](https://github.com/Live-Hack-CVE/CVE-2022-1927)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1927">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1927">
 
 ---
+## CVE-2022-1925 (2022-07-19T20:15:00)
+> DOS / potential heap overwrite in mkv demuxing using HEADERSTRIP decompression. Integer overflow in matroskaparse element in gst_matroska_decompress_data function which causes a heap overflow. Due to restrictions on chunk sizes in the matroskademux element, the overflow can't be triggered, however the matroskaparse element has no size checks.
+- [Live-Hack-CVE/CVE-2022-1925](https://github.com/Live-Hack-CVE/CVE-2022-1925)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1925">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1925">
+
+---
+## CVE-2022-1924 (2022-07-19T20:15:00)
+> DOS / potential heap overwrite in mkv demuxing using lzo decompression. Integer overflow in matroskademux element in lzo decompression function which causes a segfault, or could cause a heap overwrite, depending on libc and OS. Depending on the libc used, and the underlying OS capabilities, it could be just a segfault or a heap overwrite. If the libc uses mmap for large chunks, and the OS supports mmap, then it is just a segfault (because the realloc before the integer overflow will use mremap to reduce the size of the chunk, and it will start to write to unmapped memory). However, if using a libc implementation that does not use mmap, or if the OS does not support mmap while using libc, then this could result in a heap overwrite.
+- [Live-Hack-CVE/CVE-2022-1924](https://github.com/Live-Hack-CVE/CVE-2022-1924)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1924">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1924">
+
+---
+## CVE-2022-1923 (2022-07-19T20:15:00)
+> DOS / potential heap overwrite in mkv demuxing using bzip decompression. Integer overflow in matroskademux element in bzip decompression function which causes a segfault, or could cause a heap overwrite, depending on libc and OS. Depending on the libc used, and the underlying OS capabilities, it could be just a segfault or a heap overwrite. If the libc uses mmap for large chunks, and the OS supports mmap, then it is just a segfault (because the realloc before the integer overflow will use mremap to reduce the size of the chunk, and it will start to write to unmapped memory). However, if using a libc implementation that does not use mmap, or if the OS does not support mmap while using libc, then this could result in a heap overwrite.
+- [Live-Hack-CVE/CVE-2022-1923](https://github.com/Live-Hack-CVE/CVE-2022-1923)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1923">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1923">
+
+---
+## CVE-2022-1922 (2022-07-19T20:15:00)
+> DOS / potential heap overwrite in mkv demuxing using zlib decompression. Integer overflow in matroskademux element in gst_matroska_decompress_data function which causes a segfault, or could cause a heap overwrite, depending on libc and OS. Depending on the libc used, and the underlying OS capabilities, it could be just a segfault or a heap overwrite. If the libc uses mmap for large chunks, and the OS supports mmap, then it is just a segfault (because the realloc before the integer overflow will use mremap to reduce the size of the chunk, and it will start to write to unmapped memory). However, if using a libc implementation that does not use mmap, or if the OS does not support mmap while using libc, then this could result in a heap overwrite.
+- [Live-Hack-CVE/CVE-2022-1922](https://github.com/Live-Hack-CVE/CVE-2022-1922)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1922">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1922">
+
+---
 ## CVE-2022-1920 (2022-07-19T20:15:00)
 > Integer overflow in matroskademux element in gst_matroska_demux_add_wvpk_header function which allows a heap overwrite while parsing matroska files. Potential for arbitrary code execution through heap overwrite.
 - [Live-Hack-CVE/CVE-2022-1920](https://github.com/Live-Hack-CVE/CVE-2022-1920)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1920">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1920">
@@ -23719,6 +23805,26 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 > A use-after-free flaw was found in the Linux kernel’s pipes functionality in how a user performs manipulations with the pipe post_one_notification() after free_pipe_info() that is already called. This flaw allows a local user to crash or potentially escalate their privileges on the system.
 - [Live-Hack-CVE/CVE-2022-1882](https://github.com/Live-Hack-CVE/CVE-2022-1882)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1882">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1882">
 - [Live-Hack-CVE/CVE-2022-1882](https://github.com/Live-Hack-CVE/CVE-2022-1882)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1882">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1882">
+
+---
+## CVE-2022-1870 (2022-07-27T22:15:00)
+> Use after free in App Service in Google Chrome prior to 102.0.5005.61 allowed an attacker who convinced a user to install a malicious extension to potentially exploit heap corruption via a crafted Chrome Extension.
+- [Live-Hack-CVE/CVE-2022-1870](https://github.com/Live-Hack-CVE/CVE-2022-1870)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1870">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1870">
+
+---
+## CVE-2022-1869 (2022-07-27T22:15:00)
+> Type Confusion in V8 in Google Chrome prior to 102.0.5005.61 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-1869](https://github.com/Live-Hack-CVE/CVE-2022-1869)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1869">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1869">
+
+---
+## CVE-2022-1868 (2022-07-27T22:15:00)
+> Inappropriate implementation in Extensions API in Google Chrome prior to 102.0.5005.61 allowed an attacker who convinced a user to install a malicious extension to bypass navigation restrictions via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-1868](https://github.com/Live-Hack-CVE/CVE-2022-1868)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1868">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1868">
+
+---
+## CVE-2022-1867 (2022-07-27T22:15:00)
+> Insufficient validation of untrusted input in Data Transfer in Google Chrome prior to 102.0.5005.61 allowed a remote attacker to bypass same origin policy via a crafted clipboard content.
+- [Live-Hack-CVE/CVE-2022-1867](https://github.com/Live-Hack-CVE/CVE-2022-1867)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1867">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1867">
 
 ---
 ## CVE-2022-1855 (2022-07-27T22:15:00)

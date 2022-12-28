@@ -282,6 +282,11 @@
 - [Live-Hack-CVE/CVE-2021-44731](https://github.com/Live-Hack-CVE/CVE-2021-44731)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44731">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44731">
 
 ---
+## CVE-2021-44717 (2022-01-01T05:15:00)
+> Go before 1.16.12 and 1.17.x before 1.17.5 on UNIX allows write operations to an unintended file or unintended network connection as a consequence of erroneous closing of file descriptor 0 after file-descriptor exhaustion.
+- [Live-Hack-CVE/CVE-2021-44717](https://github.com/Live-Hack-CVE/CVE-2021-44717)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44717">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44717">
+
+---
 ## CVE-2021-44716 (2022-01-01T05:15:00)
 > net/http in Go before 1.16.12 and 1.17.x before 1.17.5 allows uncontrolled memory consumption in the header canonicalization cache via HTTP/2 requests.
 - [Live-Hack-CVE/CVE-2021-44716](https://github.com/Live-Hack-CVE/CVE-2021-44716)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44716">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44716">
@@ -2317,9 +2322,19 @@
 - [Live-Hack-CVE/CVE-2021-37533](https://github.com/Live-Hack-CVE/CVE-2021-37533)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37533">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37533">
 
 ---
+## CVE-2021-3748 (2022-03-23T20:15:00)
+> A use-after-free vulnerability was found in the virtio-net device of QEMU. It could occur when the descriptor's address belongs to the non direct access region, due to num_buffers being set after the virtqueue elem has been unmapped. A malicious guest could use this flaw to crash QEMU, resulting in a denial of service condition, or potentially execute code on the host with the privileges of the QEMU process.
+- [Live-Hack-CVE/CVE-2021-3748](https://github.com/Live-Hack-CVE/CVE-2021-3748)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3748">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3748">
+
+---
 ## CVE-2021-37404 (2022-06-13T07:15:00)
 > There is a potential heap buffer overflow in Apache Hadoop libhdfs native code. Opening a file path provided by user without validation may result in a denial of service or arbitrary code execution. Users should upgrade to Apache Hadoop 2.10.2, 3.2.3, 3.3.2 or higher.
 - [Live-Hack-CVE/CVE-2021-37404](https://github.com/Live-Hack-CVE/CVE-2021-37404)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37404">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37404">
+
+---
+## CVE-2021-3733 (2022-03-10T17:42:00)
+> There's a flaw in urllib's AbstractBasicAuthHandler class. An attacker who controls a malicious HTTP server that an HTTP client (such as web browser) connects to, could trigger a Regular Expression Denial of Service (ReDOS) during an authentication request with a specially crafted payload that is sent by the server to the client. The greatest threat that this flaw poses is to application availability.
+- [Live-Hack-CVE/CVE-2021-3733](https://github.com/Live-Hack-CVE/CVE-2021-3733)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3733">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3733">
 
 ---
 ## CVE-2021-3732 (2022-03-10T17:42:00)
@@ -2330,6 +2345,11 @@
 ## CVE-2021-3717 (2022-05-24T19:15:00)
 > A flaw was found in Wildfly. An incorrect JBOSS_LOCAL_USER challenge location when using the elytron configuration may lead to JBOSS_LOCAL_USER access to all users on the machine. The highest threat from this vulnerability is to confidentiality, integrity, and availability. This flaw affects wildfly-core versions prior to 17.0.
 - [Live-Hack-CVE/CVE-2021-3717](https://github.com/Live-Hack-CVE/CVE-2021-3717)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3717">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3717">
+
+---
+## CVE-2021-37150 (2022-08-10T06:15:00)
+> Improper Input Validation vulnerability in header parsing of Apache Traffic Server allows an attacker to request secure resources. This issue affects Apache Traffic Server 8.0.0 to 9.1.2.
+- [Live-Hack-CVE/CVE-2021-37150](https://github.com/Live-Hack-CVE/CVE-2021-37150)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37150">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37150">
 
 ---
 ## CVE-2021-37149 (2021-11-03T16:15:00)
@@ -2488,6 +2508,11 @@
 - [Live-Hack-CVE/CVE-2021-36573](https://github.com/Live-Hack-CVE/CVE-2021-36573)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36573">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36573">
 
 ---
+## CVE-2021-3657 (2022-02-18T18:15:00)
+> A flaw was found in mbsync versions prior to 1.4.4. Due to inadequate handling of extremely large (>=2GiB) IMAP literals, malicious or compromised IMAP servers, and hypothetically even external email senders, could cause several different buffer overflows, which could conceivably be exploited for remote code execution.
+- [Live-Hack-CVE/CVE-2021-3657](https://github.com/Live-Hack-CVE/CVE-2021-3657)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3657">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3657">
+
+---
 ## CVE-2021-36563 (2021-07-26T18:15:00)
 > The CheckMK management web console (versions 1.5.0 to 2.0.0) does not sanitise user input in various parameters of the WATO module. This allows an attacker to open a backdoor on the device with HTML content and interpreted by the browser (such as JavaScript or other client-side scripts), the XSS payload will be triggered when the user accesses some specific sections of the application. In the same sense a very dangerous potential way would be when an attacker who has the monitor role (not administrator) manages to get a stored XSS to steal the secretAutomation (for the use of the API in administrator mode) and thus be able to create another administrator user who has high privileges on the CheckMK monitoring web console. Another way is that persistent XSS allows an attacker to modify the displayed content or change the victim's information. Successful exploitation requires access to the web management interface, either with valid credentials or with a hijacked session.
 - [Edgarloyola/CVE-2021-36563](https://github.com/Edgarloyola/CVE-2021-36563)	<img alt="forks" src="https://img.shields.io/github/forks/Edgarloyola/CVE-2021-36563">	<img alt="stars" src="https://img.shields.io/github/stars/Edgarloyola/CVE-2021-36563">
@@ -2613,9 +2638,19 @@
 - [Live-Hack-CVE/CVE-2021-36097](https://github.com/Live-Hack-CVE/CVE-2021-36097)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36097">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36097">
 
 ---
+## CVE-2021-3608 (2022-02-24T19:15:00)
+> A flaw was found in the QEMU implementation of VMWare's paravirtual RDMA device in versions prior to 6.1.0. The issue occurs while handling a "PVRDMA_REG_DSRHIGH" write from the guest and may result in a crash of QEMU or cause undefined behavior due to the access of an uninitialized pointer. The highest threat from this vulnerability is to system availability.
+- [Live-Hack-CVE/CVE-2021-3608](https://github.com/Live-Hack-CVE/CVE-2021-3608)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3608">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3608">
+
+---
 ## CVE-2021-36070 (2021-09-01T15:15:00)
 > Adobe Media Encoder version 15.1 (and earlier) is affected by an improper memory access vulnerability when parsing a crafted .SVG file. An attacker could leverage this vulnerability to execute code in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
 - [Live-Hack-CVE/CVE-2021-36070](https://github.com/Live-Hack-CVE/CVE-2021-36070)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36070">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36070">
+
+---
+## CVE-2021-3607 (2022-02-24T19:15:00)
+> An integer overflow was found in the QEMU implementation of VMWare's paravirtual RDMA device in versions prior to 6.1.0. The issue occurs while handling a "PVRDMA_REG_DSRHIGH" write from the guest due to improper input validation. This flaw allows a privileged guest user to make QEMU allocate a large amount of memory, resulting in a denial of service. The highest threat from this vulnerability is to system availability.
+- [Live-Hack-CVE/CVE-2021-3607](https://github.com/Live-Hack-CVE/CVE-2021-3607)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3607">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3607">
 
 ---
 ## CVE-2021-36052 (2021-09-01T15:15:00)
