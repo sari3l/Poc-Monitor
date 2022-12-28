@@ -4331,6 +4331,11 @@
 - [Live-Hack-CVE/CVE-2021-22737](https://github.com/Live-Hack-CVE/CVE-2021-22737)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22737">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22737">
 
 ---
+## CVE-2021-22716 (2021-04-13T19:15:00)
+> A CWE-732: Incorrect Permission Assignment for Critical Resource vulnerability exists that could allow remote code execution when an unprivileged user modifies a file. Affected Product: C-Bus Toolkit (V1.15.9 and prior)
+- [Live-Hack-CVE/CVE-2021-22716](https://github.com/Live-Hack-CVE/CVE-2021-22716)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22716">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22716">
+
+---
 ## CVE-2021-22262 (2021-10-05T14:15:00)
 > Missing access control in all GitLab versions starting from 13.12 before 14.0.9, all versions starting from 14.1 before 14.1.4, and all versions starting from 14.2 before 14.2.2 with Jira Cloud integration enabled allows Jira users without administrative privileges to add and remove Jira Connect Namespaces via the GitLab.com for Jira Cloud application configuration page
 - [Live-Hack-CVE/CVE-2021-22262](https://github.com/Live-Hack-CVE/CVE-2021-22262)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22262">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22262">
