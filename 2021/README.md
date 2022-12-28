@@ -2716,6 +2716,26 @@
 - [Live-Hack-CVE/CVE-2021-34579](https://github.com/Live-Hack-CVE/CVE-2021-34579)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34579">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34579">
 
 ---
+## CVE-2021-34569 (2022-11-09T16:15:00)
+> In WAGO I/O-Check Service in multiple products an attacker can send a specially crafted packet containing OS commands to crash the diagnostic tool and write memory.
+- [Live-Hack-CVE/CVE-2021-34569](https://github.com/Live-Hack-CVE/CVE-2021-34569)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34569">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34569">
+
+---
+## CVE-2021-34568 (2022-11-09T16:15:00)
+> In WAGO I/O-Check Service in multiple products an unauthenticated remote attacker can send a specially crafted packet containing OS commands to provoke a denial of service.
+- [Live-Hack-CVE/CVE-2021-34568](https://github.com/Live-Hack-CVE/CVE-2021-34568)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34568">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34568">
+
+---
+## CVE-2021-34567 (2022-11-09T16:15:00)
+> In WAGO I/O-Check Service in multiple products an unauthenticated remote attacker can send a specially crafted packet containing OS commands to provoke a denial of service and an limited out-of-bounds read.
+- [Live-Hack-CVE/CVE-2021-34567](https://github.com/Live-Hack-CVE/CVE-2021-34567)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34567">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34567">
+
+---
+## CVE-2021-34566 (2022-11-09T16:15:00)
+> In WAGO I/O-Check Service in multiple products an unauthenticated remote attacker can send a specially crafted packet containing OS commands to crash the iocheck process and write memory resulting in loss of integrity and DoS.
+- [Live-Hack-CVE/CVE-2021-34566](https://github.com/Live-Hack-CVE/CVE-2021-34566)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34566">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34566">
+
+---
 ## CVE-2021-34565 (2021-08-31T11:15:00)
 > In PEPPERL+FUCHS WirelessHART-Gateway 3.0.7 to 3.0.9 the SSH and telnet services are active with hard-coded credentials.
 - [Live-Hack-CVE/CVE-2021-34565](https://github.com/Live-Hack-CVE/CVE-2021-34565)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34565">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34565">

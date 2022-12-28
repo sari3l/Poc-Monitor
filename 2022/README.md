@@ -7053,6 +7053,7 @@
 ## CVE-2022-40750 (2022-11-11T19:15:00)
 > IBM WebSphere Application Server 8.5, and 9.0 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 236588.
 - [Live-Hack-CVE/CVE-2022-40750](https://github.com/Live-Hack-CVE/CVE-2022-40750)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40750">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40750">
+- [Live-Hack-CVE/CVE-2022-40750](https://github.com/Live-Hack-CVE/CVE-2022-40750)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40750">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40750">
 
 ---
 ## CVE-2022-40746 (2022-11-21T18:15:00)
@@ -8212,9 +8213,34 @@
 - [Live-Hack-CVE/CVE-2022-3963](https://github.com/Live-Hack-CVE/CVE-2022-3963)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3963">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3963">
 
 ---
+## CVE-2022-3959 (2022-11-11T16:15:00)
+> A vulnerability, which was classified as problematic, has been found in drogon up to 1.8.1. Affected by this issue is some unknown functionality of the component Session Hash Handler. The manipulation leads to small space of random values. The attack may be launched remotely. Upgrading to version 1.8.2 is able to address this issue. The name of the patch is c0d48da99f66aaada17bcd28b07741cac8697647. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-213464.
+- [Live-Hack-CVE/CVE-2022-3959](https://github.com/Live-Hack-CVE/CVE-2022-3959)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3959">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3959">
+
+---
+## CVE-2022-3957 (2022-11-11T16:15:00)
+> A vulnerability classified as problematic was found in GPAC. Affected by this vulnerability is the function svg_parse_preserveaspectratio of the file scenegraph/svg_attributes.c of the component SVG Parser. The manipulation leads to memory leak. The attack can be launched remotely. The name of the patch is 2191e66aa7df750e8ef01781b1930bea87b713bb. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-213463.
+- [Live-Hack-CVE/CVE-2022-3957](https://github.com/Live-Hack-CVE/CVE-2022-3957)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3957">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3957">
+
+---
+## CVE-2022-3956 (2022-11-11T16:15:00)
+> A vulnerability classified as critical has been found in tsruban HHIMS 2.1. Affected is an unknown function of the component Patient Portrait Handler. The manipulation of the argument PID leads to sql injection. It is possible to launch the attack remotely. It is recommended to apply a patch to fix this issue. VDB-213462 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-3956](https://github.com/Live-Hack-CVE/CVE-2022-3956)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3956">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3956">
+
+---
+## CVE-2022-3955 (2022-11-11T16:15:00)
+> A vulnerability was found in tholum crm42. It has been rated as critical. This issue affects some unknown processing of the file crm42\class\class.user.php of the component Login. The manipulation of the argument user_name leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-213461 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-3955](https://github.com/Live-Hack-CVE/CVE-2022-3955)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3955">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3955">
+
+---
 ## CVE-2022-3949 (2022-11-11T13:15:00)
 > A vulnerability, which was classified as problematic, has been found in Sourcecodester Simple Cashiering System. This issue affects some unknown processing of the component User Account Handler. The manipulation of the argument fullname leads to cross site scripting. The attack may be initiated remotely. The associated identifier of this vulnerability is VDB-213455.
 - [maikroservice/CVE-2022-3949](https://github.com/maikroservice/CVE-2022-3949)	<img alt="forks" src="https://img.shields.io/github/forks/maikroservice/CVE-2022-3949">	<img alt="stars" src="https://img.shields.io/github/stars/maikroservice/CVE-2022-3949">
+
+---
+## CVE-2022-3945 (2022-11-11T12:15:00)
+> Improper Restriction of Excessive Authentication Attempts in GitHub repository kareadita/kavita prior to 0.6.0.3.
+- [Live-Hack-CVE/CVE-2022-3945](https://github.com/Live-Hack-CVE/CVE-2022-3945)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3945">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3945">
 
 ---
 ## CVE-2022-39428 (2022-10-18T21:15:00)
@@ -11809,6 +11835,7 @@
 ## CVE-2022-36400 (2022-11-11T16:15:00)
 > Path traversal in the installer software for some Intel(r) NUC Kit Wireless Adapter drivers for Windows 10 before version 22.40 may allow an authenticated user to potentially enable escalation of privilege via local access.
 - [Live-Hack-CVE/CVE-2022-36400](https://github.com/Live-Hack-CVE/CVE-2022-36400)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36400">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36400">
+- [Live-Hack-CVE/CVE-2022-36400](https://github.com/Live-Hack-CVE/CVE-2022-36400)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36400">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36400">
 
 ---
 ## CVE-2022-3640 (2022-10-21T15:15:00)
@@ -11841,9 +11868,19 @@
 - [Live-Hack-CVE/CVE-2022-36386](https://github.com/Live-Hack-CVE/CVE-2022-36386)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36386">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36386">
 
 ---
+## CVE-2022-36384 (2022-11-11T16:15:00)
+> Unquoted search path in the installer software for some Intel(r) NUC Kit Wireless Adapter drivers for Windows 10 before version 22.40 may allow an authenticated user to potentially enable escalation of privilege via local access.
+- [Live-Hack-CVE/CVE-2022-36384](https://github.com/Live-Hack-CVE/CVE-2022-36384)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36384">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36384">
+
+---
 ## CVE-2022-36383 (2022-09-21T20:15:00)
 > Multiple Authenticated (contributor+) Stored Cross-Site Scripting (XSS) vulnerabilities in WHA Word Search Puzzles game plugin <= 2.0.1 at WordPress.
 - [Live-Hack-CVE/CVE-2022-36383](https://github.com/Live-Hack-CVE/CVE-2022-36383)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36383">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36383">
+
+---
+## CVE-2022-36380 (2022-11-11T16:15:00)
+> Uncontrolled search path in the installer software for some Intel(r) NUC Kit Wireless Adapter drivers for Windows 10 before version 22.40 may allow an authenticated user to potentially enable escalation of privilege via local access.
+- [Live-Hack-CVE/CVE-2022-36380](https://github.com/Live-Hack-CVE/CVE-2022-36380)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36380">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36380">
 
 ---
 ## CVE-2022-36379 (2022-08-23T16:15:00)
@@ -11853,6 +11890,7 @@
 ---
 ## CVE-2022-36377 (2022-11-11T16:15:00)
 > Incorrect default permissions in the installer software for some Intel(r) NUC Kit Wireless Adapter drivers for Windows 10 before version 22.40 may allow an authenticated user to potentially enable escalation of privilege via local access.
+- [Live-Hack-CVE/CVE-2022-36377](https://github.com/Live-Hack-CVE/CVE-2022-36377)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36377">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36377">
 - [Live-Hack-CVE/CVE-2022-36377](https://github.com/Live-Hack-CVE/CVE-2022-36377)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36377">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36377">
 
 ---
