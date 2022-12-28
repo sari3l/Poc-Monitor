@@ -2010,6 +2010,7 @@
 ## CVE-2022-45130 (2022-11-10T06:15:00)
 > Plesk Obsidian allows a CSRF attack, e.g., via the /api/v2/cli/commands REST API to change an Admin password. NOTE: Obsidian is a specific version of the Plesk product: version numbers were used through version 12, and then the convention was changed so that versions are identified by names ("Obsidian"), not numbers.
 - [Live-Hack-CVE/CVE-2022-45130](https://github.com/Live-Hack-CVE/CVE-2022-45130)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45130">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45130">
+- [Live-Hack-CVE/CVE-2022-45130](https://github.com/Live-Hack-CVE/CVE-2022-45130)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45130">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45130">
 
 ---
 ## CVE-2022-4513 (2022-12-15T20:15:00)
@@ -3095,6 +3096,7 @@
 ---
 ## CVE-2022-44088 (2022-11-10T15:15:00)
 > ESPCMS P8.21120101 was discovered to contain a remote code execution (RCE) vulnerability in the component INPUT_ISDESCRIPTION.
+- [Live-Hack-CVE/CVE-2022-44088](https://github.com/Live-Hack-CVE/CVE-2022-44088)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44088">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44088">
 - [Live-Hack-CVE/CVE-2022-44088](https://github.com/Live-Hack-CVE/CVE-2022-44088)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44088">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44088">
 
 ---
@@ -6447,6 +6449,7 @@
 ## CVE-2022-41116 (2022-11-09T22:15:00)
 > Windows Point-to-Point Tunneling Protocol Denial of Service Vulnerability. This CVE ID is unique from CVE-2022-41090.
 - [Live-Hack-CVE/CVE-2022-41116](https://github.com/Live-Hack-CVE/CVE-2022-41116)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41116">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41116">
+- [Live-Hack-CVE/CVE-2022-41116](https://github.com/Live-Hack-CVE/CVE-2022-41116)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41116">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41116">
 
 ---
 ## CVE-2022-41115 (2022-12-13T19:15:00)
@@ -6457,15 +6460,18 @@
 ## CVE-2022-41114 (2022-11-09T22:15:00)
 > Windows Bind Filter Driver Elevation of Privilege Vulnerability.
 - [Live-Hack-CVE/CVE-2022-41114](https://github.com/Live-Hack-CVE/CVE-2022-41114)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41114">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41114">
+- [Live-Hack-CVE/CVE-2022-41114](https://github.com/Live-Hack-CVE/CVE-2022-41114)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41114">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41114">
 
 ---
 ## CVE-2022-41113 (2022-11-09T22:15:00)
 > Windows Win32 Kernel Subsystem Elevation of Privilege Vulnerability.
 - [Live-Hack-CVE/CVE-2022-41113](https://github.com/Live-Hack-CVE/CVE-2022-41113)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41113">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41113">
+- [Live-Hack-CVE/CVE-2022-41113](https://github.com/Live-Hack-CVE/CVE-2022-41113)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41113">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41113">
 
 ---
 ## CVE-2022-41109 (2022-11-09T22:15:00)
 > Windows Win32k Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41092.
+- [Live-Hack-CVE/CVE-2022-41109](https://github.com/Live-Hack-CVE/CVE-2022-41109)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41109">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41109">
 - [Live-Hack-CVE/CVE-2022-41109](https://github.com/Live-Hack-CVE/CVE-2022-41109)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41109">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41109">
 
 ---
@@ -6497,10 +6503,12 @@
 ## CVE-2022-41101 (2022-11-09T22:15:00)
 > Windows Overlay Filter Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41102.
 - [Live-Hack-CVE/CVE-2022-41101](https://github.com/Live-Hack-CVE/CVE-2022-41101)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41101">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41101">
+- [Live-Hack-CVE/CVE-2022-41101](https://github.com/Live-Hack-CVE/CVE-2022-41101)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41101">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41101">
 
 ---
 ## CVE-2022-41100 (2022-11-09T22:15:00)
 > Windows Advanced Local Procedure Call (ALPC) Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41045, CVE-2022-41093.
+- [Live-Hack-CVE/CVE-2022-41100](https://github.com/Live-Hack-CVE/CVE-2022-41100)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41100">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41100">
 - [Live-Hack-CVE/CVE-2022-41100](https://github.com/Live-Hack-CVE/CVE-2022-41100)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41100">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41100">
 
 ---
@@ -6610,10 +6618,12 @@
 ## CVE-2022-41061 (2022-11-09T22:15:00)
 > Microsoft Word Remote Code Execution Vulnerability.
 - [Live-Hack-CVE/CVE-2022-41061](https://github.com/Live-Hack-CVE/CVE-2022-41061)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41061">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41061">
+- [Live-Hack-CVE/CVE-2022-41061](https://github.com/Live-Hack-CVE/CVE-2022-41061)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41061">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41061">
 
 ---
 ## CVE-2022-41060 (2022-11-09T22:15:00)
 > Microsoft Word Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-41103.
+- [Live-Hack-CVE/CVE-2022-41060](https://github.com/Live-Hack-CVE/CVE-2022-41060)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41060">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41060">
 - [Live-Hack-CVE/CVE-2022-41060](https://github.com/Live-Hack-CVE/CVE-2022-41060)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41060">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41060">
 
 ---
@@ -6640,31 +6650,37 @@
 ## CVE-2022-41054 (2022-11-09T22:15:00)
 > Windows Resilient File System (ReFS) Elevation of Privilege Vulnerability.
 - [Live-Hack-CVE/CVE-2022-41054](https://github.com/Live-Hack-CVE/CVE-2022-41054)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41054">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41054">
+- [Live-Hack-CVE/CVE-2022-41054](https://github.com/Live-Hack-CVE/CVE-2022-41054)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41054">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41054">
 
 ---
 ## CVE-2022-41053 (2022-11-09T22:15:00)
 > Windows Kerberos Denial of Service Vulnerability.
+- [Live-Hack-CVE/CVE-2022-41053](https://github.com/Live-Hack-CVE/CVE-2022-41053)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41053">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41053">
 - [Live-Hack-CVE/CVE-2022-41053](https://github.com/Live-Hack-CVE/CVE-2022-41053)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41053">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41053">
 
 ---
 ## CVE-2022-41052 (2022-11-09T22:15:00)
 > Windows Graphics Component Remote Code Execution Vulnerability.
 - [Live-Hack-CVE/CVE-2022-41052](https://github.com/Live-Hack-CVE/CVE-2022-41052)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41052">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41052">
+- [Live-Hack-CVE/CVE-2022-41052](https://github.com/Live-Hack-CVE/CVE-2022-41052)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41052">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41052">
 
 ---
 ## CVE-2022-41051 (2022-11-09T22:15:00)
 > Azure RTOS GUIX Studio Remote Code Execution Vulnerability.
+- [Live-Hack-CVE/CVE-2022-41051](https://github.com/Live-Hack-CVE/CVE-2022-41051)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41051">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41051">
 - [Live-Hack-CVE/CVE-2022-41051](https://github.com/Live-Hack-CVE/CVE-2022-41051)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41051">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41051">
 
 ---
 ## CVE-2022-41050 (2022-11-09T22:15:00)
 > Windows Extensible File Allocation Table Elevation of Privilege Vulnerability.
 - [Live-Hack-CVE/CVE-2022-41050](https://github.com/Live-Hack-CVE/CVE-2022-41050)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41050">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41050">
+- [Live-Hack-CVE/CVE-2022-41050](https://github.com/Live-Hack-CVE/CVE-2022-41050)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41050">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41050">
 
 ---
 ## CVE-2022-41049 (2022-11-09T22:15:00)
 > Windows Mark of the Web Security Feature Bypass Vulnerability. This CVE ID is unique from CVE-2022-41091.
 - [NathanScottGithub/CVE-2022-41049-POC](https://github.com/NathanScottGithub/CVE-2022-41049-POC)	<img alt="forks" src="https://img.shields.io/github/forks/NathanScottGithub/CVE-2022-41049-POC">	<img alt="stars" src="https://img.shields.io/github/stars/NathanScottGithub/CVE-2022-41049-POC">
+- [Live-Hack-CVE/CVE-2022-41049](https://github.com/Live-Hack-CVE/CVE-2022-41049)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41049">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41049">
 
 ---
 ## CVE-2022-41048 (2022-11-09T22:15:00)
@@ -8975,11 +8991,18 @@
 ## CVE-2022-39038 (2022-11-10T15:15:00)
 > Agentflow BPM enterprise management system has improper authentication. A remote attacker with general user privilege can change the name of the user account to acquire arbitrary account privilege, and access, manipulate system or disrupt service.
 - [Live-Hack-CVE/CVE-2022-39038](https://github.com/Live-Hack-CVE/CVE-2022-39038)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39038">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39038">
+- [Live-Hack-CVE/CVE-2022-39038](https://github.com/Live-Hack-CVE/CVE-2022-39038)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39038">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39038">
 
 ---
 ## CVE-2022-39037 (2022-11-10T15:15:00)
 > Agentflow BPM file download function has a path traversal vulnerability. An unauthenticated remote attacker can exploit this vulnerability to bypass authentication and download arbitrary system files.
 - [Live-Hack-CVE/CVE-2022-39037](https://github.com/Live-Hack-CVE/CVE-2022-39037)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39037">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39037">
+- [Live-Hack-CVE/CVE-2022-39037](https://github.com/Live-Hack-CVE/CVE-2022-39037)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39037">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39037">
+
+---
+## CVE-2022-39036 (2022-11-10T15:15:00)
+> The file upload function of Agentflow BPM has insufficient filtering for special characters in URLs. An unauthenticated remote attacker can exploit this vulnerability to upload arbitrary file and execute arbitrary code to manipulate system or disrupt service.
+- [Live-Hack-CVE/CVE-2022-39036](https://github.com/Live-Hack-CVE/CVE-2022-39036)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39036">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39036">
 
 ---
 ## CVE-2022-39030 (2022-09-28T04:15:00)
@@ -9327,6 +9350,7 @@
 ## CVE-2022-3867 (2022-11-10T06:15:00)
 > HashiCorp Nomad and Nomad Enterprise 1.4.0 up to 1.4.1 event stream subscribers using a token with TTL receive updates until token garbage is collected. Fixed in 1.4.2.
 - [Live-Hack-CVE/CVE-2022-3867](https://github.com/Live-Hack-CVE/CVE-2022-3867)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3867">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3867">
+- [Live-Hack-CVE/CVE-2022-3867](https://github.com/Live-Hack-CVE/CVE-2022-3867)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3867">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3867">
 
 ---
 ## CVE-2022-38666 (2022-11-15T20:15:00)
@@ -9352,6 +9376,10 @@
 ## CVE-2022-3866 (2022-11-10T06:15:00)
 > HashiCorp Nomad and Nomad Enterprise 1.4.0 up to 1.4.1 workload identity token can list non-sensitive metadata for paths under nomad/ that belong to other jobs in the same namespace. Fixed in 1.4.2.
 - [Live-Hack-CVE/CVE-2022-3866](https://github.com/Live-Hack-CVE/CVE-2022-3866)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3866">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3866">
+- [Live-Hack-CVE/CVE-2022-3866](https://github.com/Live-Hack-CVE/CVE-2022-3866)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3866">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3866">
+- [Live-Hack-CVE/CVE-2022-38666](https://github.com/Live-Hack-CVE/CVE-2022-38666)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38666">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38666">
+- [Live-Hack-CVE/CVE-2022-38661](https://github.com/Live-Hack-CVE/CVE-2022-38661)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38661">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38661">
+- [Live-Hack-CVE/CVE-2022-38662](https://github.com/Live-Hack-CVE/CVE-2022-38662)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38662">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38662">
 
 ---
 ## CVE-2022-38655 (2022-12-21T17:15:00)
@@ -15077,6 +15105,7 @@
 ## CVE-2022-32177 (2022-10-14T07:15:00)
 > In "Gin-Vue-Admin", versions v2.5.1 through v2.5.3beta are vulnerable to Unrestricted File Upload that leads to execution of javascript code, through the 'Normal Upload' functionality to the Media Library. When an admin user views the uploaded file, a low privilege attacker will get access to the admin’s cookie leading to account takeover.
 - [Live-Hack-CVE/CVE-2022-32177](https://github.com/Live-Hack-CVE/CVE-2022-32177)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32177">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32177">
+- [Live-Hack-CVE/CVE-2022-32177](https://github.com/Live-Hack-CVE/CVE-2022-32177)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32177">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32177">
 
 ---
 ## CVE-2022-32170 (2022-09-28T10:15:00)
@@ -15620,6 +15649,7 @@
 ---
 ## CVE-2022-3122 (2022-09-05T14:15:00)
 > A vulnerability was found in SourceCodester Clinics Patient Management System 1.0. It has been rated as critical. Affected by this issue is some unknown functionality of the file medicine_details.php. The manipulation of the argument medicine leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. VDB-207854 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-3122](https://github.com/Live-Hack-CVE/CVE-2022-3122)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3122">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3122">
 - [Live-Hack-CVE/CVE-2022-3122](https://github.com/Live-Hack-CVE/CVE-2022-3122)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3122">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3122">
 
 ---
@@ -18106,6 +18136,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ---
 ## CVE-2022-25932 (2022-11-09T18:15:00)
 > The firmware of InHand Networks InRouter302 V3.5.45 introduces fixes for TALOS-2022-1472 and TALOS-2022-1474. The fixes are incomplete. An attacker can still perform, respectively, a privilege escalation and an information disclosure vulnerability.
+- [Live-Hack-CVE/CVE-2022-25932](https://github.com/Live-Hack-CVE/CVE-2022-25932)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25932">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25932">
 - [Live-Hack-CVE/CVE-2022-25932](https://github.com/Live-Hack-CVE/CVE-2022-25932)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25932">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25932">
 
 ---

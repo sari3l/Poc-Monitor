@@ -417,6 +417,11 @@
 - [Live-Hack-CVE/CVE-2020-7616](https://github.com/Live-Hack-CVE/CVE-2020-7616)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7616">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7616">
 
 ---
+## CVE-2020-7608 (2020-03-16T20:15:00)
+> yargs-parser could be tricked into adding or modifying properties of Object.prototype using a "__proto__" payload.
+- [Live-Hack-CVE/CVE-2020-7608](https://github.com/Live-Hack-CVE/CVE-2020-7608)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7608">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7608">
+
+---
 ## CVE-2020-7573 (2020-11-19T22:15:00)
 > A CWE-284 Improper Access Control vulnerability exists in EcoStruxure Building Operation WebReports V1.9 - V3.1 that could cause a remote attacker being able to access a restricted web resources due to improper access control.
 - [Live-Hack-CVE/CVE-2020-7573](https://github.com/Live-Hack-CVE/CVE-2020-7573)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7573">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7573">

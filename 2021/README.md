@@ -1557,6 +1557,7 @@
 ## CVE-2021-40289 (2022-11-10T18:15:00)
 > mm-wki v0.2.1 is vulnerable to Cross Site Scripting (XSS).
 - [Live-Hack-CVE/CVE-2021-40289](https://github.com/Live-Hack-CVE/CVE-2021-40289)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40289">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40289">
+- [Live-Hack-CVE/CVE-2021-40289](https://github.com/Live-Hack-CVE/CVE-2021-40289)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40289">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40289">
 
 ---
 ## CVE-2021-40272 (2022-11-14T16:15:00)
@@ -2717,6 +2718,12 @@
 ## CVE-2021-34579 (2022-11-09T17:15:00)
 > In Phoenix Contact: FL MGUARD DM version 1.12.0 and 1.13.0 access to the Apache web server being installed as part of the FL MGUARD DM on Microsoft Windows does not require login credentials even if configured during installation.Attackers with network access to the Apache web server can download and therefore read mGuard configuration profiles (“ATV profiles”). Such configuration profiles may contain sensitive information, e.g. private keys associated with IPsec VPN connections.
 - [Live-Hack-CVE/CVE-2021-34579](https://github.com/Live-Hack-CVE/CVE-2021-34579)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34579">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34579">
+- [Live-Hack-CVE/CVE-2021-34579](https://github.com/Live-Hack-CVE/CVE-2021-34579)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34579">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34579">
+
+---
+## CVE-2021-34577 (2022-11-09T17:15:00)
+> In the Kaden PICOFLUX AiR water meter an adversary can read the values through wireless M-Bus mode 5 with a hardcoded shared key while being adjacent to the device.
+- [Live-Hack-CVE/CVE-2021-34577](https://github.com/Live-Hack-CVE/CVE-2021-34577)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34577">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34577">
 
 ---
 ## CVE-2021-34569 (2022-11-09T16:15:00)
