@@ -20750,6 +20750,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-20472 (2022-12-13T16:15:00)
 > In toLanguageTag of LocaleListCache.cpp, there is a possible out of bounds read due to an incorrect bounds check. This could lead to remote code execution with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-239210579
 - [Live-Hack-CVE/CVE-2022-20472](https://github.com/Live-Hack-CVE/CVE-2022-20472)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20472">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20472">
+- [nidhi7598/frameworks_minikin_AOSP_10_r33_CVE-2022-20472](https://github.com/nidhi7598/frameworks_minikin_AOSP_10_r33_CVE-2022-20472)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_minikin_AOSP_10_r33_CVE-2022-20472">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_minikin_AOSP_10_r33_CVE-2022-20472">
 
 ---
 ## CVE-2022-20471 (2022-12-13T16:15:00)
