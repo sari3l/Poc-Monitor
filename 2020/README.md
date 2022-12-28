@@ -674,6 +674,11 @@
 - [silentsignal/WebSphere-WSIF-gadget](https://github.com/silentsignal/WebSphere-WSIF-gadget)	<img alt="forks" src="https://img.shields.io/github/forks/silentsignal/WebSphere-WSIF-gadget">	<img alt="stars" src="https://img.shields.io/github/stars/silentsignal/WebSphere-WSIF-gadget">
 
 ---
+## CVE-2020-4099 (2022-11-01T18:15:00)
+> The application was signed using a key length less than or equal to 1024 bits, making it potentially vulnerable to forged digital signatures. An attacker could forge the same digital signature of the app after maliciously modifying the app.
+- [Live-Hack-CVE/CVE-2020-4099](https://github.com/Live-Hack-CVE/CVE-2020-4099)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-4099">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-4099">
+
+---
 ## CVE-2020-4062 (2020-06-22T16:15:00)
 > In Conjur OSS Helm Chart before 2.0.0, a recently identified critical vulnerability resulted in the installation of the Conjur Postgres database with an open port. This allows an attacker to gain full read & write access to the Conjur Postgres database, including escalating the attacker's privileges to assume full control. A malicious actor who knows the IP address and port number of the Postgres database and has access into the Kubernetes cluster where Conjur runs can gain full read & write access to the Postgres database. This enables the attacker to write a policy that allows full access to retrieve any secret. This Helm chart is a method to install Conjur OSS into a Kubernetes environment. Hence, the systems impacted are only Conjur OSS systems that were deployed using this chart. Other deployments including Docker and the CyberArk Dynamic Access Provider (DAP) are not affected. To remediate this vulnerability, clone the latest Helm Chart and follow the upgrade instructions. If you are not able to fully remediate this vulnerability immediately, you can mitigate some of the risk by making sure Conjur OSS is deployed on an isolated Kubernetes cluster or namespace. The term "isolated" refers to: - No other workloads besides Conjur OSS and its backend database are running in that Kubernetes cluster/namespace. - Kubernetes and helm access to the cluster/namespace is limited to security administrators via Role-Based Access Control (RBAC).
 - [Live-Hack-CVE/CVE-2020-4062](https://github.com/Live-Hack-CVE/CVE-2020-4062)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-4062">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-4062">
@@ -736,6 +741,11 @@
 ## CVE-2020-36617 (2022-12-18T15:15:00)
 > ** DISPUTED ** A vulnerability was found in ewxrjk sftpserver. It has been declared as problematic. Affected by this vulnerability is the function sftp_parse_path of the file parse.c. The manipulation leads to uninitialized pointer. The real existence of this vulnerability is still doubted at the moment. The name of the patch is bf4032f34832ee11d79aa60a226cc018e7ec5eed. It is recommended to apply a patch to fix this issue. The identifier VDB-216205 was assigned to this vulnerability. NOTE: In some deployment models this would be a vulnerability. README specifically warns about avoiding such deployment models.
 - [Live-Hack-CVE/CVE-2020-36617](https://github.com/Live-Hack-CVE/CVE-2020-36617)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36617">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36617">
+
+---
+## CVE-2020-36608 (2022-11-02T19:15:00)
+> A vulnerability, which was classified as problematic, has been found in Tribal Systems Zenario CMS. Affected by this issue is some unknown functionality of the file admin_organizer.js of the component Error Log Module. The manipulation leads to cross site scripting. The attack may be launched remotely. The name of the patch is dfd0afacb26c3682a847bea7b49ea440b63f3baa. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-212816.
+- [Live-Hack-CVE/CVE-2020-36608](https://github.com/Live-Hack-CVE/CVE-2020-36608)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36608">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36608">
 
 ---
 ## CVE-2020-36607 (2022-12-15T19:15:00)
