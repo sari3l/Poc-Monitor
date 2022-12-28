@@ -2840,6 +2840,7 @@
 ## CVE-2022-44163 (2022-11-21T16:15:00)
 > Tenda AC21 V16.03.08.15 is vulnerable to Buffer Overflow via function formSetMacFilterCfg.
 - [Live-Hack-CVE/CVE-2022-44163](https://github.com/Live-Hack-CVE/CVE-2022-44163)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44163">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44163">
+- [Live-Hack-CVE/CVE-2022-44163](https://github.com/Live-Hack-CVE/CVE-2022-44163)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44163">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44163">
 
 ---
 ## CVE-2022-4416 (2022-12-12T07:15:00)
@@ -2850,10 +2851,12 @@
 ## CVE-2022-44158 (2022-11-21T16:15:00)
 > Tenda AC21 V16.03.08.15 is vulnerable to Buffer Overflow via function via set_device_name.
 - [Live-Hack-CVE/CVE-2022-44158](https://github.com/Live-Hack-CVE/CVE-2022-44158)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44158">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44158">
+- [Live-Hack-CVE/CVE-2022-44158](https://github.com/Live-Hack-CVE/CVE-2022-44158)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44158">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44158">
 
 ---
 ## CVE-2022-44156 (2022-11-21T16:15:00)
 > Tenda AC15 V15.03.05.19 is vulnerable to Buffer Overflow via function formSetIpMacBind.
+- [Live-Hack-CVE/CVE-2022-44156](https://github.com/Live-Hack-CVE/CVE-2022-44156)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44156">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44156">
 - [Live-Hack-CVE/CVE-2022-44156](https://github.com/Live-Hack-CVE/CVE-2022-44156)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44156">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44156">
 
 ---
@@ -6103,6 +6106,7 @@
 ## CVE-2022-41132 (2022-11-17T23:15:00)
 > Unauthenticated Plugin Settings Change Leading To Stored XSS Vulnerability in Ezoic plugin <= 2.8.8 on WordPress.
 - [Live-Hack-CVE/CVE-2022-41132](https://github.com/Live-Hack-CVE/CVE-2022-41132)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41132">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41132">
+- [Live-Hack-CVE/CVE-2022-41132](https://github.com/Live-Hack-CVE/CVE-2022-41132)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41132">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41132">
 
 ---
 ## CVE-2022-41131 (2022-11-22T10:15:00)
@@ -6818,6 +6822,7 @@
 ## CVE-2022-40694 (2022-11-17T23:15:00)
 > Auth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in News Announcement Scroll plugin <= 8.8.8 on WordPress.
 - [Live-Hack-CVE/CVE-2022-40694](https://github.com/Live-Hack-CVE/CVE-2022-40694)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40694">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40694">
+- [Live-Hack-CVE/CVE-2022-40694](https://github.com/Live-Hack-CVE/CVE-2022-40694)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40694">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40694">
 
 ---
 ## CVE-2022-40690 (2022-10-24T14:15:00)
@@ -7064,6 +7069,7 @@
 ## CVE-2022-40470 (2022-11-21T16:15:00)
 > Phpgurukul Blood Donor Management System 1.0 allows Cross Site Scripting via Add Blood Group Name Feature.
 - [RashidKhanPathan/CVE-2022-40470](https://github.com/RashidKhanPathan/CVE-2022-40470)	<img alt="forks" src="https://img.shields.io/github/forks/RashidKhanPathan/CVE-2022-40470">	<img alt="stars" src="https://img.shields.io/github/stars/RashidKhanPathan/CVE-2022-40470">
+- [Live-Hack-CVE/CVE-2022-40470](https://github.com/Live-Hack-CVE/CVE-2022-40470)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40470">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40470">
 - [Live-Hack-CVE/CVE-2022-40470](https://github.com/Live-Hack-CVE/CVE-2022-40470)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40470">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40470">
 
 ---
@@ -7350,6 +7356,7 @@
 ## CVE-2022-40200 (2022-11-17T23:15:00)
 > Auth. (subscriber+) Arbitrary File Upload vulnerability in wpForo Forum plugin <= 2.0.9 on WordPress.
 - [Live-Hack-CVE/CVE-2022-40200](https://github.com/Live-Hack-CVE/CVE-2022-40200)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40200">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40200">
+- [Live-Hack-CVE/CVE-2022-40200](https://github.com/Live-Hack-CVE/CVE-2022-40200)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40200">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40200">
 
 ---
 ## CVE-2022-4020 (2022-11-28T13:15:00)
@@ -7374,6 +7381,7 @@
 ---
 ## CVE-2022-40192 (2022-11-17T23:15:00)
 > Cross-Site Request Forgery (CSRF) vulnerability in wpForo Forum plugin <= 2.0.9 on WordPress.
+- [Live-Hack-CVE/CVE-2022-40192](https://github.com/Live-Hack-CVE/CVE-2022-40192)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40192">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40192">
 - [Live-Hack-CVE/CVE-2022-40192](https://github.com/Live-Hack-CVE/CVE-2022-40192)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40192">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40192">
 
 ---
@@ -7446,6 +7454,7 @@
 ---
 ## CVE-2022-40129 (2022-11-21T16:15:00)
 > A use-after-free vulnerability exists in the JavaScript engine of Foxit Software's PDF Reader, version 12.0.1.12430. A specially-crafted PDF document can trigger the reuse of previously freed memory via misusing Optional Content Group API, which can lead to arbitrary code execution. An attacker needs to trick the user into opening the malicious file to trigger this vulnerability. Exploitation is also possible if a user visits a specially-crafted, malicious site if the browser plugin extension is enabled.
+- [Live-Hack-CVE/CVE-2022-40129](https://github.com/Live-Hack-CVE/CVE-2022-40129)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40129">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40129">
 - [Live-Hack-CVE/CVE-2022-40129](https://github.com/Live-Hack-CVE/CVE-2022-40129)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40129">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40129">
 
 ---
@@ -8340,6 +8349,7 @@
 ---
 ## CVE-2022-39178 (2022-11-17T23:15:00)
 > Webvendome - Webvendome Internal Server IP Disclosure. Send GET Request to the request which is shown in the picture. Internal Server IP and Full path disclosure.
+- [Live-Hack-CVE/CVE-2022-39178](https://github.com/Live-Hack-CVE/CVE-2022-39178)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39178">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39178">
 - [Live-Hack-CVE/CVE-2022-39178](https://github.com/Live-Hack-CVE/CVE-2022-39178)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39178">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39178">
 
 ---
@@ -9407,6 +9417,7 @@
 ## CVE-2022-38165 (2022-11-17T23:15:00)
 > Arbitrary file write in F-Secure Policy Manager through 2022-08-10 allows unauthenticated users to write the file with the contents in arbitrary locations on the F-Secure Policy Manager Server.
 - [Live-Hack-CVE/CVE-2022-38165](https://github.com/Live-Hack-CVE/CVE-2022-38165)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38165">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38165">
+- [Live-Hack-CVE/CVE-2022-38165](https://github.com/Live-Hack-CVE/CVE-2022-38165)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38165">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38165">
 
 ---
 ## CVE-2022-38163 (2022-11-07T15:15:00)
@@ -9442,6 +9453,7 @@
 ## CVE-2022-38148 (2022-11-21T16:15:00)
 > Silverstripe silverstripe/framework through 4.11 allows SQL Injection.
 - [Live-Hack-CVE/CVE-2022-38148](https://github.com/Live-Hack-CVE/CVE-2022-38148)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38148">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38148">
+- [Live-Hack-CVE/CVE-2022-38148](https://github.com/Live-Hack-CVE/CVE-2022-38148)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38148">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38148">
 
 ---
 ## CVE-2022-38147 (2022-11-23T03:15:00)
@@ -9451,6 +9463,7 @@
 ---
 ## CVE-2022-38146 (2022-11-21T16:15:00)
 > Silverstripe silverstripe/framework through 4.11 allows XSS (issue 2 of 3).
+- [Live-Hack-CVE/CVE-2022-38146](https://github.com/Live-Hack-CVE/CVE-2022-38146)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38146">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38146">
 - [Live-Hack-CVE/CVE-2022-38146](https://github.com/Live-Hack-CVE/CVE-2022-38146)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38146">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38146">
 
 ---
@@ -10854,6 +10867,7 @@
 ## CVE-2022-36924 (2022-11-17T23:15:00)
 > The Zoom Rooms Installer for Windows prior to 5.12.6 contains a local privilege escalation vulnerability. A local low-privileged user could exploit this vulnerability during the install process to escalate their privileges to the SYSTEM user.
 - [Live-Hack-CVE/CVE-2022-36924](https://github.com/Live-Hack-CVE/CVE-2022-36924)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36924">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36924">
+- [Live-Hack-CVE/CVE-2022-36924](https://github.com/Live-Hack-CVE/CVE-2022-36924)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36924">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36924">
 
 ---
 ## CVE-2022-3691 (2022-11-21T11:15:00)
@@ -10948,6 +10962,7 @@
 ---
 ## CVE-2022-36787 (2022-11-17T23:15:00)
 > Webvendome - Webvendome SQL Injection. SQL Injection in the Parameter " DocNumber" Request : Get Request : /webvendome/showfiles.aspx?jobnumber=nullDoc Number=HERE.
+- [Live-Hack-CVE/CVE-2022-36787](https://github.com/Live-Hack-CVE/CVE-2022-36787)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36787">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36787">
 - [Live-Hack-CVE/CVE-2022-36787](https://github.com/Live-Hack-CVE/CVE-2022-36787)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36787">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36787">
 
 ---
@@ -13760,10 +13775,12 @@
 ## CVE-2022-33322 (2022-11-08T20:15:00)
 > Cross-site scripting vulnerability in Mitsubishi Electric consumer electronics products (Air Conditioning, Wi-Fi Interface, Refrigerator, HEMS adapter, Remote control with Wi-Fi Interface, BATHROOM THERMO VENTILATOR, Rice cooker, Mitsubishi Electric HEMS control adapter, Energy Recovery Ventilator, Smart Switch and Air Purifier) allows a remote unauthenticated attacker to execute an malicious script on a user's browser to disclose information, etc. The wide range of models/versions of Mitsubishi Electric consumer electronics products are affected by this vulnerability. As for the affected product models/versions, see the Mitsubishi Electric's advisory which is listed in [References] section.
 - [Live-Hack-CVE/CVE-2022-33322](https://github.com/Live-Hack-CVE/CVE-2022-33322)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33322">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33322">
+- [Live-Hack-CVE/CVE-2022-33322](https://github.com/Live-Hack-CVE/CVE-2022-33322)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33322">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33322">
 
 ---
 ## CVE-2022-33321 (2022-11-08T20:15:00)
 > Cleartext Transmission of Sensitive Information vulnerability due to the use of Basic Authentication for HTTP connections in Mitsubishi Electric consumer electronics products (PHOTOVOLTAIC COLOR MONITOR ECO-GUIDE, HEMS adapter, Wi-Fi Interface, Air Conditioning, Induction hob, Mitsubishi Electric HEMS Energy Measurement Unit, Refrigerator, Remote control with Wi-Fi Interface, BATHROOM THERMO VENTILATOR, Rice cooker, Mitsubishi Electric HEMS control adapter, Energy Recovery Ventilator, Smart Switch, Ventilating Fan, Range hood fan, Energy Measurement Unit and Air Purifier) allows a remote unauthenticated attacker to disclose information in the products or cause a denial of service (DoS) condition as a result by sniffing credential information (username and password). The wide range of models/versions of Mitsubishi Electric consumer electronics products are affected by this vulnerability. As for the affected product models/versions, see the Mitsubishi Electric's advisory which is listed in [References] section.
+- [Live-Hack-CVE/CVE-2022-33321](https://github.com/Live-Hack-CVE/CVE-2022-33321)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33321">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33321">
 - [Live-Hack-CVE/CVE-2022-33321](https://github.com/Live-Hack-CVE/CVE-2022-33321)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33321">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33321">
 
 ---
@@ -18897,6 +18914,21 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-22822](https://github.com/Live-Hack-CVE/CVE-2022-22822)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22822">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22822">
 
 ---
+## CVE-2022-22817 (2022-01-10T14:12:00)
+> PIL.ImageMath.eval in Pillow before 9.0.0 allows evaluation of arbitrary expressions, such as ones that use the Python exec method. A lambda expression could also be used,
+- [Live-Hack-CVE/CVE-2022-22817](https://github.com/Live-Hack-CVE/CVE-2022-22817)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22817">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22817">
+
+---
+## CVE-2022-22816 (2022-01-10T14:12:00)
+> path_getbbox in path.c in Pillow before 9.0.0 has a buffer over-read during initialization of ImagePath.Path.
+- [Live-Hack-CVE/CVE-2022-22816](https://github.com/Live-Hack-CVE/CVE-2022-22816)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22816">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22816">
+
+---
+## CVE-2022-22815 (2022-01-10T14:12:00)
+> path_getbbox in path.c in Pillow before 9.0.0 improperly initializes ImagePath.Path.
+- [Live-Hack-CVE/CVE-2022-22815](https://github.com/Live-Hack-CVE/CVE-2022-22815)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22815">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22815">
+
+---
 ## CVE-2022-22811 (2022-02-09T23:15:00)
 > A CWE-352: Cross-Site Request Forgery (CSRF) vulnerability exists that could induce users to perform unintended actions, leading to the override of the system?s configurations when an attacker persuades a user to visit a rogue website. Affected Product: spaceLYnk (V2.6.2 and prior), Wiser for KNX (formerly homeLYnk) (V2.6.2 and prior), fellerLYnk (V2.6.2 and prior)
 - [Live-Hack-CVE/CVE-2022-22811](https://github.com/Live-Hack-CVE/CVE-2022-22811)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22811">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22811">
@@ -19823,20 +19855,24 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-20926 (2022-11-15T21:15:00)
 > A vulnerability in the web management interface of the Cisco Firepower Management Center (FMC) Software could allow an authenticated, remote attacker to execute arbitrary commands on the underlying operating system. The vulnerability is due to insufficient validation of user-supplied parameters for certain API endpoints. An attacker could exploit this vulnerability by sending crafted input to an affected API endpoint. A successful exploit could allow an attacker to execute arbitrary commands on the device with low system privileges. To successfully exploit this vulnerability, an attacker would need valid credentials for a user with Device permissions: by default, only Administrators, Security Approvers and Network Admins user accounts have these permissions.
 - [Live-Hack-CVE/CVE-2022-20926](https://github.com/Live-Hack-CVE/CVE-2022-20926)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20926">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20926">
+- [Live-Hack-CVE/CVE-2022-20926](https://github.com/Live-Hack-CVE/CVE-2022-20926)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20926">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20926">
 
 ---
 ## CVE-2022-20925 (2022-11-15T21:15:00)
 > A vulnerability in the web management interface of the Cisco Firepower Management Center (FMC) Software could allow an authenticated, remote attacker to execute arbitrary commands on the underlying operating system. The vulnerability is due to insufficient validation of user-supplied parameters for certain API endpoints. An attacker could exploit this vulnerability by sending crafted input to an affected API endpoint. A successful exploit could allow an attacker to execute arbitrary commands on the device with low system privileges. To successfully exploit this vulnerability, an attacker would need valid credentials for a user with Device permissions: by default, only Administrators, Security Approvers and Network Admins user accounts have these permissions.
+- [Live-Hack-CVE/CVE-2022-20925](https://github.com/Live-Hack-CVE/CVE-2022-20925)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20925">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20925">
 - [Live-Hack-CVE/CVE-2022-20925](https://github.com/Live-Hack-CVE/CVE-2022-20925)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20925">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20925">
 
 ---
 ## CVE-2022-20922 (2022-11-15T21:15:00)
 > Multiple vulnerabilities in the Server Message Block Version 2 (SMB2) processor of the Snort detection engine on multiple Cisco products could allow an unauthenticated, remote attacker to bypass the configured policies or cause a denial of service (DoS) condition on an affected device. These vulnerabilities are due to improper management of system resources when the Snort detection engine is processing SMB2 traffic. An attacker could exploit these vulnerabilities by sending a high rate of certain types of SMB2 packets through an affected device. A successful exploit could allow the attacker to trigger a reload of the Snort process, resulting in a DoS condition. Note: When the snort preserve-connection option is enabled for the Snort detection engine, a successful exploit could also allow the attacker to bypass the configured policies and deliver a malicious payload to the protected network. The snort preserve-connection setting is enabled by default. See the Details ["#details"] section of this advisory for more information. Note: Only products that have Snort 3 configured are affected. Products that are configured with Snort 2 are not affected.
 - [Live-Hack-CVE/CVE-2022-20922](https://github.com/Live-Hack-CVE/CVE-2022-20922)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20922">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20922">
+- [Live-Hack-CVE/CVE-2022-20922](https://github.com/Live-Hack-CVE/CVE-2022-20922)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20922">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20922">
 
 ---
 ## CVE-2022-20918 (2022-11-15T21:15:00)
 > A vulnerability in the Simple Network Management Protocol (SNMP) access controls for Cisco FirePOWER Software for Adaptive Security Appliance (ASA) FirePOWER module, Cisco Firepower Management Center (FMC) Software, and Cisco Next-Generation Intrusion Prevention System (NGIPS) Software could allow an unauthenticated, remote attacker to perform an SNMP GET request using a default credential. This vulnerability is due to the presence of a default credential for SNMP version 1 (SNMPv1) and SNMP version 2 (SNMPv2). An attacker could exploit this vulnerability by sending an SNMPv1 or SNMPv2 GET request to an affected device. A successful exploit could allow the attacker to retrieve sensitive information from the device using the default credential. This attack will only be successful if SNMP is configured, and the attacker can only perform SNMP GET requests; write access using SNMP is not allowed.
+- [Live-Hack-CVE/CVE-2022-20918](https://github.com/Live-Hack-CVE/CVE-2022-20918)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20918">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20918">
 - [Live-Hack-CVE/CVE-2022-20918](https://github.com/Live-Hack-CVE/CVE-2022-20918)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20918">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20918">
 
 ---
