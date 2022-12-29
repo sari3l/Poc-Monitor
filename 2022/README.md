@@ -18965,6 +18965,7 @@
 ## CVE-2022-29950 (2022-05-04T15:15:00)
 > ** DISPUTED ** Experian Hunter 1.16 allows remote authenticated users to modify assumed-immutable elements via the (1) rule name parameter to the Rules page or the (2) subrule name or (3) categories name parameter to the Subrules page. NOTE: the vendor disputes this because version 1.16 has never existed.
 - [Live-Hack-CVE/CVE-2022-29950](https://github.com/Live-Hack-CVE/CVE-2022-29950)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29950">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29950">
+- [Live-Hack-CVE/CVE-2022-29950](https://github.com/Live-Hack-CVE/CVE-2022-29950)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29950">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29950">
 
 ---
 ## CVE-2022-29931 (2022-06-25T19:15:00)
@@ -19410,6 +19411,7 @@
 ## CVE-2022-29155 (2022-05-04T20:15:00)
 > In OpenLDAP 2.x before 2.5.12 and 2.6.x before 2.6.2, a SQL injection vulnerability exists in the experimental back-sql backend to slapd, via a SQL statement within an LDAP query. This can occur during an LDAP search operation when the search filter is processed, due to a lack of proper escaping.
 - [Live-Hack-CVE/CVE-2022-29155](https://github.com/Live-Hack-CVE/CVE-2022-29155)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29155">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29155">
+- [Live-Hack-CVE/CVE-2022-29155](https://github.com/Live-Hack-CVE/CVE-2022-29155)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29155">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29155">
 
 ---
 ## CVE-2022-29154 (2022-08-02T15:15:00)
@@ -19420,6 +19422,7 @@
 ---
 ## CVE-2022-29145 (2022-05-10T21:15:00)
 > .NET and Visual Studio Denial of Service Vulnerability. This CVE ID is unique from CVE-2022-23267, CVE-2022-29117.
+- [Live-Hack-CVE/CVE-2022-29145](https://github.com/Live-Hack-CVE/CVE-2022-29145)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29145">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29145">
 - [Live-Hack-CVE/CVE-2022-29145](https://github.com/Live-Hack-CVE/CVE-2022-29145)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29145">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29145">
 
 ---
@@ -19523,6 +19526,7 @@
 ---
 ## CVE-2022-28919 (2022-05-12T16:15:00)
 > HTMLCreator release_stable_2020-07-29 was discovered to contain a cross-site scripting (XSS) vulnerability via the function _generateFilename.
+- [Live-Hack-CVE/CVE-2022-28919](https://github.com/Live-Hack-CVE/CVE-2022-28919)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28919">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28919">
 - [Live-Hack-CVE/CVE-2022-28919](https://github.com/Live-Hack-CVE/CVE-2022-28919)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28919">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28919">
 
 ---
@@ -19695,6 +19699,11 @@
 ## CVE-2022-28487 (2022-05-04T15:15:00)
 > Tcpreplay version 4.4.1 contains a memory leakage flaw in fix_ipv6_checksums() function. The highest threat from this vulnerability is to data confidentiality.
 - [Live-Hack-CVE/CVE-2022-28487](https://github.com/Live-Hack-CVE/CVE-2022-28487)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28487">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28487">
+
+---
+## CVE-2022-2846 (2022-08-16T19:15:00)
+> The Calendar Event Multi View WordPress plugin before 1.4.07 does not have any authorisation and CSRF checks in place when creating an event, and is also lacking sanitisation as well as escaping in some of the event fields. This could allow unauthenticated attackers to create arbitrary events and put Cross-Site Scripting payloads in it.
+- [Live-Hack-CVE/CVE-2022-2846](https://github.com/Live-Hack-CVE/CVE-2022-2846)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2846">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2846">
 
 ---
 ## CVE-2022-2842 (2022-08-22T19:15:00)
@@ -20007,6 +20016,7 @@
 ---
 ## CVE-2022-27815 (2022-03-30T00:15:00)
 > SWHKD 1.1.5 unsafely uses the /tmp/swhkd.pid pathname. There can be an information leak or denial of service.
+- [Live-Hack-CVE/CVE-2022-27815](https://github.com/Live-Hack-CVE/CVE-2022-27815)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27815">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27815">
 - [Live-Hack-CVE/CVE-2022-27815](https://github.com/Live-Hack-CVE/CVE-2022-27815)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27815">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27815">
 
 ---
@@ -22651,6 +22661,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ---
 ## CVE-2022-22665 (2022-03-18T18:15:00)
 > A logic issue was addressed with improved validation. This issue is fixed in macOS Monterey 12.3. A malicious application may be able to gain root privileges.
+- [Live-Hack-CVE/CVE-2022-22665](https://github.com/Live-Hack-CVE/CVE-2022-22665)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22665">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22665">
 - [Live-Hack-CVE/CVE-2022-22665](https://github.com/Live-Hack-CVE/CVE-2022-22665)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22665">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22665">
 
 ---
