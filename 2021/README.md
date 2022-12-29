@@ -1742,6 +1742,16 @@
 - [vulnz/CVE-2021-40903](https://github.com/vulnz/CVE-2021-40903)	<img alt="forks" src="https://img.shields.io/github/forks/vulnz/CVE-2021-40903">	<img alt="stars" src="https://img.shields.io/github/stars/vulnz/CVE-2021-40903">
 
 ---
+## CVE-2021-4079 (2021-12-23T01:15:00)
+> Out of bounds write in WebRTC in Google Chrome prior to 96.0.4664.93 allowed a remote attacker to potentially exploit heap corruption via crafted WebRTC packets.
+- [Live-Hack-CVE/CVE-2021-4079](https://github.com/Live-Hack-CVE/CVE-2021-4079)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4079">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4079">
+
+---
+## CVE-2021-4078 (2021-12-23T01:15:00)
+> Type confusion in V8 in Google Chrome prior to 96.0.4664.93 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2021-4078](https://github.com/Live-Hack-CVE/CVE-2021-4078)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4078">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4078">
+
+---
 ## CVE-2021-40695 (2022-09-29T03:15:00)
 > It was possible for a student to view their quiz grade before it had been released, using a quiz web service.
 - [Live-Hack-CVE/CVE-2021-40695](https://github.com/Live-Hack-CVE/CVE-2021-40695)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40695">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40695">
@@ -1774,9 +1784,24 @@
 - [Live-Hack-CVE/CVE-2021-4069](https://github.com/Live-Hack-CVE/CVE-2021-4069)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4069">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4069">
 
 ---
+## CVE-2021-4068 (2021-12-23T01:15:00)
+> Insufficient data validation in new tab page in Google Chrome prior to 96.0.4664.93 allowed a remote attacker to leak cross-origin data via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2021-4068](https://github.com/Live-Hack-CVE/CVE-2021-4068)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4068">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4068">
+
+---
+## CVE-2021-4067 (2021-12-23T01:15:00)
+> Use after free in window manager in Google Chrome on ChromeOS prior to 96.0.4664.93 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2021-4067](https://github.com/Live-Hack-CVE/CVE-2021-4067)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4067">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4067">
+
+---
 ## CVE-2021-40661 (2022-10-31T12:15:00)
 > A remote, unauthenticated, directory traversal vulnerability was identified within the web interface used by IND780 Advanced Weighing Terminals Build 8.0.07 March 19, 2018 (SS Label 'IND780_8.0.07'), Version 7.2.10 June 18, 2012 (SS Label 'IND780_7.2.10'). It was possible to traverse the folders of the affected host by providing a traversal path to the 'webpage' parameter in AutoCE.ini This could allow a remote unauthenticated adversary to access additional files on the affected system. This could also allow the adversary to perform further enumeration against the affected host to identify the versions of the systems in use, in order to launch further attacks in future.
 - [Live-Hack-CVE/CVE-2021-40661](https://github.com/Live-Hack-CVE/CVE-2021-40661)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40661">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40661">
+
+---
+## CVE-2021-4066 (2021-12-23T01:15:00)
+> Integer underflow in ANGLE in Google Chrome prior to 96.0.4664.93 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2021-4066](https://github.com/Live-Hack-CVE/CVE-2021-4066)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4066">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4066">
 
 ---
 ## CVE-2021-40650 (2022-06-14T10:15:00)
@@ -1787,6 +1812,11 @@
 ## CVE-2021-40649 (2022-06-14T10:15:00)
 > In Connx Version 6.2.0.1269 (20210623), a cookie can be issued by the application and not have the HttpOnly flag set.
 - [l00neyhacker/CVE-2021-40649](https://github.com/l00neyhacker/CVE-2021-40649)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2021-40649">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2021-40649">
+
+---
+## CVE-2021-4063 (2021-12-23T01:15:00)
+> Use after free in developer tools in Google Chrome prior to 96.0.4664.93 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2021-4063](https://github.com/Live-Hack-CVE/CVE-2021-4063)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4063">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4063">
 
 ---
 ## CVE-2021-40529 (2021-09-06T19:15:00)

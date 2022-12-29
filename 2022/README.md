@@ -7790,6 +7790,21 @@
 - [Live-Hack-CVE/CVE-2022-40931](https://github.com/Live-Hack-CVE/CVE-2022-40931)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40931">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40931">
 
 ---
+## CVE-2022-40928 (2022-09-26T13:15:00)
+> Online Leave Management System v1.0 is vulnerable to SQL Injection via /leave_system/classes/Master.php?f=delete_application.
+- [Live-Hack-CVE/CVE-2022-40928](https://github.com/Live-Hack-CVE/CVE-2022-40928)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40928">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40928">
+
+---
+## CVE-2022-40927 (2022-09-26T13:15:00)
+> Online Leave Management System v1.0 is vulnerable to SQL Injection via /leave_system/classes/Master.php?f=delete_designation.
+- [Live-Hack-CVE/CVE-2022-40927](https://github.com/Live-Hack-CVE/CVE-2022-40927)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40927">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40927">
+
+---
+## CVE-2022-40926 (2022-09-26T13:15:00)
+> Online Leave Management System v1.0 is vulnerable to SQL Injection via /leave_system/classes/Master.php?f=delete_leave_type.
+- [Live-Hack-CVE/CVE-2022-40926](https://github.com/Live-Hack-CVE/CVE-2022-40926)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40926">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40926">
+
+---
 ## CVE-2022-40925 (2022-09-26T13:15:00)
 > Zoo Management System v1.0 has an arbitrary file upload vulnerability in the picture upload point of the "save_event" file of the "Events" module in the background management system.
 - [Live-Hack-CVE/CVE-2022-40925](https://github.com/Live-Hack-CVE/CVE-2022-40925)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40925">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40925">
@@ -8420,6 +8435,21 @@
 ## CVE-2022-40486 (2022-09-28T13:15:00)
 > TP Link Archer AX10 V1 Firmware Version 1.3.1 Build 20220401 Rel. 57450(5553) was discovered to allow authenticated attackers to execute arbitrary code via a crafted backup file.
 - [Live-Hack-CVE/CVE-2022-40486](https://github.com/Live-Hack-CVE/CVE-2022-40486)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40486">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40486">
+
+---
+## CVE-2022-40485 (2022-09-26T14:15:00)
+> Wedding Planner v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /package_detail.php.
+- [Live-Hack-CVE/CVE-2022-40485](https://github.com/Live-Hack-CVE/CVE-2022-40485)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40485">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40485">
+
+---
+## CVE-2022-40484 (2022-09-26T14:15:00)
+> Wedding Planner v1.0 was discovered to contain a SQL injection vulnerability via the booking parameter at /admin/client_edit.php.
+- [Live-Hack-CVE/CVE-2022-40484](https://github.com/Live-Hack-CVE/CVE-2022-40484)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40484">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40484">
+
+---
+## CVE-2022-40483 (2022-09-26T14:15:00)
+> Wedding Planner v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /wedding_details.php.
+- [Live-Hack-CVE/CVE-2022-40483](https://github.com/Live-Hack-CVE/CVE-2022-40483)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40483">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40483">
 
 ---
 ## CVE-2022-40475 (2022-09-29T12:15:00)
@@ -14074,6 +14104,36 @@
 - [Live-Hack-CVE/CVE-2022-3605](https://github.com/Live-Hack-CVE/CVE-2022-3605)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3605">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3605">
 
 ---
+## CVE-2022-36044 (2022-09-06T20:15:00)
+> Rizin is a UNIX-like reverse engineering framework and command-line toolset. Versions 0.4.0 and prior are vulnerable to an out-of-bounds write when getting data from Luac files. A user opening a malicious Luac file could be affected by this vulnerability, allowing an attacker to execute code on the user's machine. Commits 07b43bc8aa1ffebd9b68d60624c9610cf7e460c7 and 05bbd147caccc60162d6fba9baaaf24befa281cd contain fixes for the issue.
+- [Live-Hack-CVE/CVE-2022-36044](https://github.com/Live-Hack-CVE/CVE-2022-36044)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36044">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36044">
+
+---
+## CVE-2022-36043 (2022-09-06T20:15:00)
+> Rizin is a UNIX-like reverse engineering framework and command-line toolset. Versions 0.4.0 and prior are vulnerable to a double free in bobj.c:rz_bin_reloc_storage_free() when freeing relocations generated from qnx binary plugin. A user opening a malicious qnx binary could be affected by this vulnerability, allowing an attacker to execute code on the user's machine. Commit number a3d50c1ea185f3f642f2d8180715f82d98840784 contains a patch for this issue.
+- [Live-Hack-CVE/CVE-2022-36043](https://github.com/Live-Hack-CVE/CVE-2022-36043)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36043">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36043">
+
+---
+## CVE-2022-36042 (2022-09-06T19:15:00)
+> Rizin is a UNIX-like reverse engineering framework and command-line toolset. Versions 0.4.0 and prior are vulnerable to an out-of-bounds write when getting data from dyld cache files. A user opening a malicious dyld cache file could be affected by this vulnerability, allowing an attacker to execute code on the user's machine. Commit number 556ca2f9eef01ec0f4a76d1fbacfcf3a87a44810 contains a patch.
+- [Live-Hack-CVE/CVE-2022-36042](https://github.com/Live-Hack-CVE/CVE-2022-36042)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36042">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36042">
+
+---
+## CVE-2022-36041 (2022-09-06T20:15:00)
+> Rizin is a UNIX-like reverse engineering framework and command-line toolset. Versions 0.4.0 and prior are vulnerable to an out-of-bounds write when parsing Mach-O files. A user opening a malicious Mach-O file could be affected by this vulnerability, allowing an attacker to execute code on the user's machine. Commit number 7323e64d68ecccfb0ed3ee480f704384c38676b2 contains a patch.
+- [Live-Hack-CVE/CVE-2022-36041](https://github.com/Live-Hack-CVE/CVE-2022-36041)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36041">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36041">
+
+---
+## CVE-2022-36040 (2022-09-06T20:15:00)
+> Rizin is a UNIX-like reverse engineering framework and command-line toolset. Versions 0.4.0 and prior are vulnerable to an out-of-bounds write when getting data from PYC(python) files. A user opening a malicious PYC file could be affected by this vulnerability, allowing an attacker to execute code on the user's machine. Commit number 68948017423a12786704e54227b8b2f918c2fd27 contains a patch.
+- [Live-Hack-CVE/CVE-2022-36040](https://github.com/Live-Hack-CVE/CVE-2022-36040)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36040">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36040">
+
+---
+## CVE-2022-36039 (2022-09-06T19:15:00)
+> Rizin is a UNIX-like reverse engineering framework and command-line toolset. Versions 0.4.0 and prior are vulnerable to out-of-bounds write when parsing DEX files. A user opening a malicious DEX file could be affected by this vulnerability, allowing an attacker to execute code on the user's machine. A patch is available on the `dev` branch of the repository.
+- [Live-Hack-CVE/CVE-2022-36039](https://github.com/Live-Hack-CVE/CVE-2022-36039)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36039">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36039">
+
+---
 ## CVE-2022-36037 (2022-08-29T18:15:00)
 > kirby is a content management system (CMS) that adapts to many different projects and helps you build your own ideal interface. Cross-site scripting (XSS) is a type of vulnerability that allows execution of any kind of JavaScript code inside the Panel session of the same or other users. In the Panel, a harmful script can for example trigger requests to Kirby's API with the permissions of the victim. If bad actors gain access to your group of authenticated Panel users they can escalate their privileges via the Panel session of an admin user. Depending on your site, other JavaScript-powered attacks are possible. The multiselect field allows selection of tags from an autocompleted list. Unfortunately, the Panel in Kirby 3.5 used HTML rendering for the raw option value. This allowed **attackers with influence on the options source** to store HTML code. The browser of the victim who visited a page with manipulated multiselect options in the Panel will then have rendered this malicious HTML code when the victim opened the autocomplete dropdown. Users are *not* affected by this vulnerability if you don't use the multiselect field or don't use it with options that can be manipulated by attackers. The problem has been patched in Kirby 3.5.8.1.
 - [Live-Hack-CVE/CVE-2022-36037](https://github.com/Live-Hack-CVE/CVE-2022-36037)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36037">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36037">
@@ -15725,6 +15785,11 @@
 - [Live-Hack-CVE/CVE-2022-3462](https://github.com/Live-Hack-CVE/CVE-2022-3462)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3462">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3462">
 
 ---
+## CVE-2022-34612 (2022-07-27T02:15:00)
+> Rizin v0.4.0 and below was discovered to contain an integer overflow via the function get_long_object(). This vulnerability allows attackers to cause a Denial of Service (DoS) via a crafted binary.
+- [Live-Hack-CVE/CVE-2022-34612](https://github.com/Live-Hack-CVE/CVE-2022-34612)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34612">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34612">
+
+---
 ## CVE-2022-3458 (2022-10-12T07:15:00)
 > A vulnerability has been found in SourceCodester Human Resource Management System 1.0 and classified as critical. Affected by this vulnerability is an unknown functionality of the file /employeeview.php of the component Image File Handler. The manipulation leads to unrestricted upload. The attack can be launched remotely. The associated identifier of this vulnerability is VDB-210559.
 - [Live-Hack-CVE/CVE-2022-3458](https://github.com/Live-Hack-CVE/CVE-2022-3458)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3458">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3458">
@@ -16911,6 +16976,11 @@
 - [Live-Hack-CVE/CVE-2022-32858](https://github.com/Live-Hack-CVE/CVE-2022-32858)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32858">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32858">
 
 ---
+## CVE-2022-32852 (2022-09-23T19:15:00)
+> An out-of-bounds read issue was addressed with improved input validation. This issue is fixed in macOS Monterey 12.5. Processing a maliciously crafted AppleScript binary may result in unexpected termination or disclosure of process memory.
+- [Live-Hack-CVE/CVE-2022-32852](https://github.com/Live-Hack-CVE/CVE-2022-32852)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32852">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32852">
+
+---
 ## CVE-2022-3285 (2022-11-09T23:15:00)
 > Bypass of healthcheck endpoint allow list affecting all versions from 12.0 prior to 15.2.5, 15.3 prior to 15.3.4, and 15.4 prior to 15.4.1 allows an unauthorized attacker to prevent access to GitLab
 - [Live-Hack-CVE/CVE-2022-3285](https://github.com/Live-Hack-CVE/CVE-2022-3285)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3285">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3285">
@@ -16920,6 +16990,11 @@
 ## CVE-2022-32849 (2022-09-23T19:15:00)
 > An information disclosure issue was addressed by removing the vulnerable code. This issue is fixed in iOS 15.6 and iPadOS 15.6, macOS Big Sur 11.6.8, tvOS 15.6, macOS Monterey 12.5, Security Update 2022-005 Catalina. An app may be able to access sensitive user information.
 - [Live-Hack-CVE/CVE-2022-32849](https://github.com/Live-Hack-CVE/CVE-2022-32849)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32849">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32849">
+
+---
+## CVE-2022-32848 (2022-09-23T19:15:00)
+> A logic issue was addressed with improved checks. This issue is fixed in macOS Big Sur 11.6.8, macOS Monterey 12.5. An app may be able to capture a user’s screen.
+- [Live-Hack-CVE/CVE-2022-32848](https://github.com/Live-Hack-CVE/CVE-2022-32848)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32848">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32848">
 
 ---
 ## CVE-2022-32832 (2022-09-23T19:15:00)
@@ -16960,6 +17035,16 @@
 - [Live-Hack-CVE/CVE-2022-32819](https://github.com/Live-Hack-CVE/CVE-2022-32819)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32819">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32819">
 
 ---
+## CVE-2022-32818 (2022-09-23T19:15:00)
+> The issue was addressed with improved memory handling. This issue is fixed in macOS Monterey 12.5. An app may be able to leak sensitive kernel state.
+- [Live-Hack-CVE/CVE-2022-32818](https://github.com/Live-Hack-CVE/CVE-2022-32818)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32818">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32818">
+
+---
+## CVE-2022-32816 (2022-09-23T19:15:00)
+> The issue was addressed with improved UI handling. This issue is fixed in watchOS 8.7, tvOS 15.6, iOS 15.6 and iPadOS 15.6, macOS Monterey 12.5. Visiting a website that frames malicious content may lead to UI spoofing.
+- [Live-Hack-CVE/CVE-2022-32816](https://github.com/Live-Hack-CVE/CVE-2022-32816)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32816">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32816">
+
+---
 ## CVE-2022-32815 (2022-09-23T19:15:00)
 > The issue was addressed with improved memory handling. This issue is fixed in iOS 15.6 and iPadOS 15.6, macOS Big Sur 11.6.8, watchOS 8.7, tvOS 15.6, macOS Monterey 12.5, Security Update 2022-005 Catalina. An app with root privileges may be able to execute arbitrary code with kernel privileges.
 - [Live-Hack-CVE/CVE-2022-32815](https://github.com/Live-Hack-CVE/CVE-2022-32815)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32815">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32815">
@@ -16980,6 +17065,11 @@
 - [Live-Hack-CVE/CVE-2022-32805](https://github.com/Live-Hack-CVE/CVE-2022-32805)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32805">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32805">
 
 ---
+## CVE-2022-32801 (2022-09-23T19:15:00)
+> This issue was addressed with improved checks. This issue is fixed in macOS Monterey 12.5. An app may be able to gain root privileges.
+- [Live-Hack-CVE/CVE-2022-32801](https://github.com/Live-Hack-CVE/CVE-2022-32801)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32801">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32801">
+
+---
 ## CVE-2022-32800 (2022-09-23T19:15:00)
 > This issue was addressed with improved checks. This issue is fixed in Security Update 2022-005 Catalina, macOS Big Sur 11.6.8, macOS Monterey 12.5. An app may be able to modify protected parts of the file system.
 - [Live-Hack-CVE/CVE-2022-32800](https://github.com/Live-Hack-CVE/CVE-2022-32800)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32800">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32800">
@@ -16998,6 +17088,16 @@
 ## CVE-2022-32797 (2022-09-23T19:15:00)
 > This issue was addressed with improved checks. This issue is fixed in Security Update 2022-005 Catalina, macOS Big Sur 11.6.8, macOS Monterey 12.5. Processing a maliciously crafted AppleScript binary may result in unexpected termination or disclosure of process memory.
 - [Live-Hack-CVE/CVE-2022-32797](https://github.com/Live-Hack-CVE/CVE-2022-32797)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32797">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32797">
+
+---
+## CVE-2022-32796 (2022-09-23T19:15:00)
+> A memory corruption issue was addressed with improved state management. This issue is fixed in macOS Monterey 12.5. An app may be able to execute arbitrary code with kernel privileges.
+- [Live-Hack-CVE/CVE-2022-32796](https://github.com/Live-Hack-CVE/CVE-2022-32796)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32796">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32796">
+
+---
+## CVE-2022-32792 (2022-09-23T19:15:00)
+> An out-of-bounds write issue was addressed with improved input validation. This issue is fixed in iOS 15.6 and iPadOS 15.6, watchOS 8.7, tvOS 15.6, macOS Monterey 12.5, Safari 15.6. Processing maliciously crafted web content may lead to arbitrary code execution.
+- [Live-Hack-CVE/CVE-2022-32792](https://github.com/Live-Hack-CVE/CVE-2022-32792)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32792">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32792">
 
 ---
 ## CVE-2022-32790 (2022-09-23T19:15:00)
@@ -17154,6 +17254,11 @@
 ## CVE-2022-32630 (2022-12-05T15:15:00)
 > In throttling, there is a possible out of bounds write due to an incorrect calculation of buffer size. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07405966; Issue ID: ALPS07405966.
 - [Live-Hack-CVE/CVE-2022-32630](https://github.com/Live-Hack-CVE/CVE-2022-32630)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32630">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32630">
+
+---
+## CVE-2022-3263 (2022-09-23T19:15:00)
+> The security descriptor of Measuresoft ScadaPro Server version 6.7 has inconsistent permissions, which could allow a local user with limited privileges to modify the service binary path and start malicious commands with SYSTEM privileges.
+- [Live-Hack-CVE/CVE-2022-3263](https://github.com/Live-Hack-CVE/CVE-2022-3263)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3263">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3263">
 
 ---
 ## CVE-2022-32629 (2022-12-05T15:15:00)
@@ -18519,9 +18624,19 @@
 - [Live-Hack-CVE/CVE-2022-30787](https://github.com/Live-Hack-CVE/CVE-2022-30787)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30787">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30787">
 
 ---
+## CVE-2022-30786 (2022-05-26T16:15:00)
+> A crafted NTFS image can cause a heap-based buffer overflow in ntfs_names_full_collate in NTFS-3G through 2021.8.22.
+- [Live-Hack-CVE/CVE-2022-30786](https://github.com/Live-Hack-CVE/CVE-2022-30786)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30786">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30786">
+
+---
 ## CVE-2022-30785 (2022-05-26T16:15:00)
 > A file handle created in fuse_lib_opendir, and later used in fuse_lib_readdir, enables arbitrary memory read and write operations in NTFS-3G through 2021.8.22 when using libfuse-lite.
 - [Live-Hack-CVE/CVE-2022-30785](https://github.com/Live-Hack-CVE/CVE-2022-30785)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30785">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30785">
+
+---
+## CVE-2022-30784 (2022-05-26T16:15:00)
+> A crafted NTFS image can cause heap exhaustion in ntfs_get_attribute_value in NTFS-3G through 2021.8.22.
+- [Live-Hack-CVE/CVE-2022-30784](https://github.com/Live-Hack-CVE/CVE-2022-30784)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30784">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30784">
 
 ---
 ## CVE-2022-30783 (2022-05-26T16:15:00)
@@ -22457,6 +22572,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-23462 (2022-10-21T22:15:00)
 > IOWOW is a C utility library and persistent key/value storage engine. Versions 1.4.15 and prior contain a stack buffer overflow vulnerability that allows for Denial of Service (DOS) when it parses scientific notation numbers present in JSON. A patch for this issue is available at commit a79d31e4cff1d5a08f665574b29fd885897a28fd in the `master` branch of the repository. There are no workarounds other than applying the patch.
 - [Live-Hack-CVE/CVE-2022-23462](https://github.com/Live-Hack-CVE/CVE-2022-23462)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23462">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23462">
+
+---
+## CVE-2022-23461 (2022-09-24T03:15:00)
+> Jodit Editor is a WYSIWYG editor written in pure TypeScript without the use of additional libraries. Jodit Editor is vulnerable to XSS attacks when pasting specially constructed input. This issue has not been fully patched. There are no known workarounds.
+- [Live-Hack-CVE/CVE-2022-23461](https://github.com/Live-Hack-CVE/CVE-2022-23461)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23461">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23461">
 
 ---
 ## CVE-2022-2338 (2022-08-17T21:15:00)
