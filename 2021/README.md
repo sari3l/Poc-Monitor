@@ -31,6 +31,7 @@
 ## CVE-2021-46839 (2022-10-14T16:15:00)
 > The HW_KEYMASTER module has a vulnerability of missing bounds check on length.Successful exploitation of this vulnerability may cause malicious construction of data, which results in out-of-bounds access.
 - [Live-Hack-CVE/CVE-2021-46839](https://github.com/Live-Hack-CVE/CVE-2021-46839)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46839">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46839">
+- [Live-Hack-CVE/CVE-2021-46839](https://github.com/Live-Hack-CVE/CVE-2021-46839)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46839">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46839">
 
 ---
 ## CVE-2021-46837 (2022-08-30T07:15:00)
@@ -592,6 +593,7 @@
 ## CVE-2021-43896 (2021-12-15T15:15:00)
 > Microsoft PowerShell Spoofing Vulnerability
 - [Live-Hack-CVE/CVE-2021-43896](https://github.com/Live-Hack-CVE/CVE-2021-43896)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43896">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43896">
+- [Live-Hack-CVE/CVE-2021-43896](https://github.com/Live-Hack-CVE/CVE-2021-43896)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43896">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43896">
 
 ---
 ## CVE-2021-43890 (2021-12-15T15:15:00)
@@ -693,6 +695,12 @@
 > Laravel Framework through 8.70.2 does not sufficiently block the upload of executable PHP content because Illuminate/Validation/Concerns/ValidatesAttributes.php lacks a check for .phar files, which are handled as application/x-httpd-php on systems based on Debian. NOTE: this CVE Record is for Laravel Framework, and is unrelated to any reports concerning incorrectly written user applications for image upload.
 - [aweiiy/CVE-2021-43617](https://github.com/aweiiy/CVE-2021-43617)	<img alt="forks" src="https://img.shields.io/github/forks/aweiiy/CVE-2021-43617">	<img alt="stars" src="https://img.shields.io/github/stars/aweiiy/CVE-2021-43617">
 - [kombat1/CVE-2021-43617](https://github.com/kombat1/CVE-2021-43617)	<img alt="forks" src="https://img.shields.io/github/forks/kombat1/CVE-2021-43617">	<img alt="stars" src="https://img.shields.io/github/stars/kombat1/CVE-2021-43617">
+
+---
+## CVE-2021-43616 (2021-11-13T18:15:00)
+> ** DISPUTED ** The npm ci command in npm 7.x and 8.x through 8.1.3 proceeds with an installation even if dependency information in package-lock.json differs from package.json. This behavior is inconsistent with the documentation, and makes it easier for attackers to install malware that was supposed to have been blocked by an exact version match requirement in package-lock.json. NOTE: The npm team believes this is not a vulnerability. It would require someone to socially engineer package.json which has different dependencies than package-lock.json. That user would have to have file system or write access to change dependencies. The npm team states preventing malicious actors from socially engineering or gaining file system access is outside the scope of the npm CLI.
+- [Live-Hack-CVE/CVE-2021-43616](https://github.com/Live-Hack-CVE/CVE-2021-43616)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43616">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43616">
+- [icatalina/CVE-2021-43616](https://github.com/icatalina/CVE-2021-43616)	<img alt="forks" src="https://img.shields.io/github/forks/icatalina/CVE-2021-43616">	<img alt="stars" src="https://img.shields.io/github/stars/icatalina/CVE-2021-43616">
 
 ---
 ## CVE-2021-43566 (2022-01-11T16:15:00)
@@ -2691,6 +2699,7 @@
 > A flaw was found in c-ares library, where a missing input validation check of host names returned by DNS (Domain Name Servers) can lead to output of wrong hostnames which might potentially lead to Domain Hijacking. The highest threat from this vulnerability is to confidentiality and integrity as well as system availability.
 - [Live-Hack-CVE/CVE-2021-3672](https://github.com/Live-Hack-CVE/CVE-2021-3672)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3672">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3672">
 - [Live-Hack-CVE/CVE-2021-36723](https://github.com/Live-Hack-CVE/CVE-2021-36723)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36723">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36723">
+- [Live-Hack-CVE/CVE-2021-3672](https://github.com/Live-Hack-CVE/CVE-2021-3672)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3672">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3672">
 
 ---
 ## CVE-2021-3671 (2021-10-12T18:15:00)
@@ -4543,6 +4552,7 @@
 ---
 ## CVE-2021-27406 (2022-10-14T17:15:00)
 > An attacker can take leverage on PerFact OpenVPN-Client versions 1.4.1.0 and prior to send the config command from any application running on the local host machine to force the back-end server into initializing a new open-VPN instance with arbitrary open-VPN configuration. This could result in the attacker achieving execution with privileges of a SYSTEM user.
+- [Live-Hack-CVE/CVE-2021-27406](https://github.com/Live-Hack-CVE/CVE-2021-27406)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27406">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27406">
 - [Live-Hack-CVE/CVE-2021-27406](https://github.com/Live-Hack-CVE/CVE-2021-27406)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27406">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27406">
 
 ---

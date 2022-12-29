@@ -89,6 +89,9 @@
 ## CVE-2017-8529 (2017-06-15T01:29:00)
 > Internet Explorer in Microsoft Windows 7 SP1, Windows Server 2008 R2 SP1, Windows 8.1 and Windows RT 8.1, and Windows Server 2012 and R2 allow an attacker to detect specific files on the user's computer when affected Microsoft scripting engines do not properly handle objects in memory, aka "Microsoft Browser Information Disclosure Vulnerability".
 - [Live-Hack-CVE/CVE-2017-8529](https://github.com/Live-Hack-CVE/CVE-2017-8529)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-8529">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-8529">
+- [Live-Hack-CVE/CVE-2017-8529](https://github.com/Live-Hack-CVE/CVE-2017-8529)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-8529">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-8529">
+- [sfitpro/cve-2017-8529](https://github.com/sfitpro/cve-2017-8529)	<img alt="forks" src="https://img.shields.io/github/forks/sfitpro/cve-2017-8529">	<img alt="stars" src="https://img.shields.io/github/stars/sfitpro/cve-2017-8529">
+- [Lynggaard91/windows2016fixCVE-2017-8529](https://github.com/Lynggaard91/windows2016fixCVE-2017-8529)	<img alt="forks" src="https://img.shields.io/github/forks/Lynggaard91/windows2016fixCVE-2017-8529">	<img alt="stars" src="https://img.shields.io/github/stars/Lynggaard91/windows2016fixCVE-2017-8529">
 
 ---
 ## CVE-2017-8516 (2017-08-08T21:29:00)
