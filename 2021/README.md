@@ -3618,6 +3618,11 @@
 - [Live-Hack-CVE/CVE-2021-3515](https://github.com/Live-Hack-CVE/CVE-2021-3515)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3515">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3515">
 
 ---
+## CVE-2021-35134 (2022-09-02T12:15:00)
+> Due to insufficient validation of ELF headers, an Incorrect Calculation of Buffer Size can occur in Boot leading to memory corruption in Snapdragon Connectivity, Snapdragon Industrial IOT, Snapdragon Mobile
+- [Live-Hack-CVE/CVE-2021-35134](https://github.com/Live-Hack-CVE/CVE-2021-35134)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35134">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35134">
+
+---
 ## CVE-2021-35133 (2022-09-02T12:15:00)
 > Use after free in the synx driver issue while performing other functions during multiple invocation of synx release calls in Snapdragon Connectivity, Snapdragon Industrial IOT, Snapdragon Mobile
 - [Live-Hack-CVE/CVE-2021-35133](https://github.com/Live-Hack-CVE/CVE-2021-35133)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35133">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35133">
