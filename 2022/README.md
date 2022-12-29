@@ -6939,6 +6939,11 @@
 - [Live-Hack-CVE/CVE-2022-41358](https://github.com/Live-Hack-CVE/CVE-2022-41358)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41358">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41358">
 
 ---
+## CVE-2022-41355 (2022-10-06T20:15:00)
+> Online Leave Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /leave_system/classes/Master.php?f=delete_department.
+- [Live-Hack-CVE/CVE-2022-41355](https://github.com/Live-Hack-CVE/CVE-2022-41355)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41355">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41355">
+
+---
 ## CVE-2022-41352 (2022-09-26T02:15:00)
 > An issue was discovered in Zimbra Collaboration (ZCS) 8.8.15 and 9.0. An attacker can upload arbitrary files through amavisd via a cpio loophole (extraction to /opt/zimbra/jetty/webapps/zimbra/public) that can lead to incorrect access to any other user accounts. Zimbra recommends pax over cpio. Also, pax is in the prerequisites of Zimbra on Ubuntu; however, pax is no longer part of a default Red Hat installation after RHEL 6 (or CentOS 6). Once pax is installed, amavisd automatically prefers it over cpio.
 - [segfault-it/cve-2022-41352](https://github.com/segfault-it/cve-2022-41352)	<img alt="forks" src="https://img.shields.io/github/forks/segfault-it/cve-2022-41352">	<img alt="stars" src="https://img.shields.io/github/stars/segfault-it/cve-2022-41352">
@@ -7791,6 +7796,11 @@
 - [Live-Hack-CVE/CVE-2022-40897](https://github.com/Live-Hack-CVE/CVE-2022-40897)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40897">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40897">
 
 ---
+## CVE-2022-40895 (2022-10-06T18:16:00)
+> In certain Nedi products, a vulnerability in the web UI of NeDi login & Community login could allow an unauthenticated, remote attacker to affect the integrity of a device via a User Enumeration vulnerability. The vulnerability is due to insecure design, where a difference in forgot password utility could allow an attacker to determine if the user is valid or not, enabling a brute force attack with valid users. This affects NeDi 1.0.7 for OS X 1.0.7 <= and NeDi for Suse 1.0.7 <= and NeDi for FreeBSD 1.0.7 <=.
+- [Live-Hack-CVE/CVE-2022-40895](https://github.com/Live-Hack-CVE/CVE-2022-40895)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40895">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40895">
+
+---
 ## CVE-2022-40890 (2022-09-29T13:15:00)
 > A vulnerability in /src/amf/amf-context.c in Open5GS 2.4.10 and earlier leads to AMF denial of service.
 - [Live-Hack-CVE/CVE-2022-40890](https://github.com/Live-Hack-CVE/CVE-2022-40890)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40890">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40890">
@@ -7809,6 +7819,11 @@
 ## CVE-2022-40884 (2022-10-19T18:15:00)
 > Bento4 1.6.0 has memory leaks via the mp4fragment.
 - [Live-Hack-CVE/CVE-2022-40884](https://github.com/Live-Hack-CVE/CVE-2022-40884)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40884">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40884">
+
+---
+## CVE-2022-40872 (2022-10-07T11:15:00)
+> An SQL injection vulnerability issue was discovered in Sourcecodester Simple E-Learning System 1.0., in /vcs/classRoom.php?classCode=, classCode.
+- [Live-Hack-CVE/CVE-2022-40872](https://github.com/Live-Hack-CVE/CVE-2022-40872)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40872">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40872">
 
 ---
 ## CVE-2022-40871 (2022-10-12T12:15:00)
@@ -15748,6 +15763,16 @@
 - [Live-Hack-CVE/CVE-2022-34255](https://github.com/Live-Hack-CVE/CVE-2022-34255)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34255">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34255">
 
 ---
+## CVE-2022-3423 (2022-10-07T11:15:00)
+> Denial of Service in GitHub repository nocodb/nocodb prior to 0.92.0.
+- [Live-Hack-CVE/CVE-2022-3423](https://github.com/Live-Hack-CVE/CVE-2022-3423)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3423">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3423">
+
+---
+## CVE-2022-3422 (2022-10-07T11:15:00)
+> Account Takeover :: when see the info i can see the hash pass i can creaked it ............... Account Takeover :: when see the info i can see the forgot_password_token the hacker can send the request and changed the pass
+- [Live-Hack-CVE/CVE-2022-3422](https://github.com/Live-Hack-CVE/CVE-2022-3422)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3422">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3422">
+
+---
 ## CVE-2022-34218 (2022-09-16T18:15:00)
 > Adobe Experience Manager versions 6.5.13.0 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser. Exploitation of this issue requires low-privilege access to AEM.
 - [Live-Hack-CVE/CVE-2022-34218](https://github.com/Live-Hack-CVE/CVE-2022-34218)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34218">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34218">
@@ -15815,6 +15840,11 @@
 ## CVE-2022-34140 (2022-07-28T00:15:00)
 > A stored cross-site scripting (XSS) vulnerability in /index.php?r=site%2Fsignup of Feehi CMS v2.1.1 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the username field.
 - [Live-Hack-CVE/CVE-2022-34140](https://github.com/Live-Hack-CVE/CVE-2022-34140)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34140">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34140">
+
+---
+## CVE-2022-3414 (2022-10-07T06:15:00)
+> A vulnerability was found in SourceCodester Web-Based Student Clearance System. It has been classified as critical. Affected is an unknown function of the file /Admin/login.php of the component POST Parameter Handler. The manipulation of the argument txtusername leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. VDB-210246 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-3414](https://github.com/Live-Hack-CVE/CVE-2022-3414)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3414">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3414">
 
 ---
 ## CVE-2022-3413 (2022-11-10T00:15:00)

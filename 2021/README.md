@@ -2953,6 +2953,41 @@
 - [Live-Hack-CVE/CVE-2021-36022](https://github.com/Live-Hack-CVE/CVE-2021-36022)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36022">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36022">
 
 ---
+## CVE-2021-36017 (2021-09-02T17:15:00)
+> Adobe After Effects version 18.2.1 (and earlier) is affected by a memory corruption vulnerability when parsing a specially crafted file. An unauthenticated attacker could leverage this vulnerability to achieve arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2021-36017](https://github.com/Live-Hack-CVE/CVE-2021-36017)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36017">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36017">
+
+---
+## CVE-2021-36015 (2021-08-20T19:15:00)
+> Adobe Media Encoder version 15.2 (and earlier) is affected by a memory corruption vulnerability when parsing a specially crafted file. An unauthenticated attacker could leverage this vulnerability to achieve arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2021-36015](https://github.com/Live-Hack-CVE/CVE-2021-36015)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36015">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36015">
+
+---
+## CVE-2021-36009 (2021-08-20T19:15:00)
+> Adobe Illustrator version 25.2.3 (and earlier) is affected by an memory corruption vulnerability when parsing a specially crafted file. An unauthenticated attacker could leverage this vulnerability to achieve arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2021-36009](https://github.com/Live-Hack-CVE/CVE-2021-36009)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36009">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36009">
+
+---
+## CVE-2021-36000 (2021-08-20T19:15:00)
+> Adobe Character Animator version 4.2 (and earlier) is affected by a memory corruption vulnerability when parsing a specially crafted file. An unauthenticated attacker could leverage this vulnerability to achieve arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2021-36000](https://github.com/Live-Hack-CVE/CVE-2021-36000)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36000">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36000">
+
+---
+## CVE-2021-35999 (2021-08-20T19:15:00)
+> Adobe Prelude version 10.0 (and earlier) is affected by a memory corruption vulnerability when parsing a specially crafted file. An unauthenticated attacker could leverage this vulnerability to achieve arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2021-35999](https://github.com/Live-Hack-CVE/CVE-2021-35999)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35999">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35999">
+
+---
+## CVE-2021-35997 (2021-08-20T19:15:00)
+> Adobe Premiere Pro version 15.2 (and earlier) is affected by a memory corruption vulnerability when parsing a specially crafted file. An unauthenticated attacker could leverage this vulnerability to achieve arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2021-35997](https://github.com/Live-Hack-CVE/CVE-2021-35997)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35997">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35997">
+
+---
+## CVE-2021-35996 (2021-09-02T17:15:00)
+> Adobe After Effects version 18.2.1 (and earlier) is affected by a memory corruption vulnerability when parsing a specially crafted file. An unauthenticated attacker could leverage this vulnerability to achieve arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2021-35996](https://github.com/Live-Hack-CVE/CVE-2021-35996)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35996">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35996">
+
+---
 ## CVE-2021-3598 (2021-07-06T15:15:00)
 > There's a flaw in OpenEXR's ImfDeepScanLineInputFile functionality in versions prior to 3.0.5. An attacker who is able to submit a crafted file to an application linked with OpenEXR could cause an out-of-bounds read. The greatest risk from this flaw is to application availability.
 - [Live-Hack-CVE/CVE-2021-3598](https://github.com/Live-Hack-CVE/CVE-2021-3598)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3598">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3598">
@@ -2990,14 +3025,44 @@
 - [Live-Hack-CVE/CVE-2021-35938](https://github.com/Live-Hack-CVE/CVE-2021-35938)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35938">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35938">
 
 ---
+## CVE-2021-35936 (2021-08-16T08:15:00)
+> If remote logging is not used, the worker (in the case of CeleryExecutor) or the scheduler (in the case of LocalExecutor) runs a Flask logging server and is listening on a specific port and also binds on 0.0.0.0 by default. This logging server had no authentication and allows reading log files of DAG jobs. This issue affects Apache Airflow < 2.1.2.
+- [Live-Hack-CVE/CVE-2021-35936](https://github.com/Live-Hack-CVE/CVE-2021-35936)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35936">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35936">
+
+---
+## CVE-2021-3583 (2021-09-22T12:15:00)
+> A flaw was found in Ansible, where a user's controller is vulnerable to template injection. This issue can occur through facts used in the template if the user is trying to put templates in multi-line YAML strings and the facts being handled do not routinely include special template characters. This flaw allows attackers to perform command injection, which discloses sensitive information. The highest threat from this vulnerability is to confidentiality and integrity.
+- [Live-Hack-CVE/CVE-2021-3583](https://github.com/Live-Hack-CVE/CVE-2021-3583)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3583">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3583">
+
+---
 ## CVE-2021-3578 (2022-02-16T19:15:00)
 > A flaw was found in mbsync before v1.3.6 and v1.4.2, where an unchecked pointer cast allows a malicious or compromised server to write an arbitrary integer value past the end of a heap-allocated structure by issuing an unexpected APPENDUID response. This could be plausibly exploited for remote code execution on the client.
 - [Live-Hack-CVE/CVE-2021-3578](https://github.com/Live-Hack-CVE/CVE-2021-3578)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3578">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3578">
 
 ---
+## CVE-2021-3571 (2021-07-09T11:15:00)
+> A flaw was found in the ptp4l program of the linuxptp package. When ptp4l is operating on a little-endian architecture as a PTP transparent clock, a remote attacker could send a crafted one-step sync message to cause an information leak or crash. The highest threat from this vulnerability is to data confidentiality and system availability. This flaw affects linuxptp versions before 3.1.1 and before 2.0.1.
+- [Live-Hack-CVE/CVE-2021-3571](https://github.com/Live-Hack-CVE/CVE-2021-3571)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3571">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3571">
+
+---
+## CVE-2021-3570 (2021-07-09T11:15:00)
+> A flaw was found in the ptp4l program of the linuxptp package. A missing length check when forwarding a PTP message between ports allows a remote attacker to cause an information leak, crash, or potentially remote code execution. The highest threat from this vulnerability is to data confidentiality and integrity as well as system availability. This flaw affects linuxptp versions before 3.1.1, before 2.0.1, before 1.9.3, before 1.8.1, before 1.7.1, before 1.6.1 and before 1.5.1.
+- [Live-Hack-CVE/CVE-2021-3570](https://github.com/Live-Hack-CVE/CVE-2021-3570)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3570">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3570">
+
+---
+## CVE-2021-3569 (2021-06-03T12:15:00)
+> A stack corruption bug was found in libtpms in versions before 0.7.2 and before 0.8.0 while decrypting data using RSA. This flaw could result in a SIGBUS (bad memory access) and termination of swtpm. The highest threat from this vulnerability is to system availability.
+- [Live-Hack-CVE/CVE-2021-3569](https://github.com/Live-Hack-CVE/CVE-2021-3569)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3569">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3569">
+
+---
 ## CVE-2021-3563 (2022-08-26T16:15:00)
 > A flaw was found in openstack-keystone. Only the first 72 characters of an application secret are verified allowing attackers bypass some password complexity which administrators may be counting on. The highest threat from this vulnerability is to data confidentiality and integrity.
 - [Live-Hack-CVE/CVE-2021-3563](https://github.com/Live-Hack-CVE/CVE-2021-3563)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3563">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3563">
+
+---
+## CVE-2021-3561 (2021-05-26T22:15:00)
+> An Out of Bounds flaw was found fig2dev version 3.2.8a. A flawed bounds check in read_objects() could allow an attacker to provide a crafted malicious input causing the application to either crash or in some cases cause memory corruption. The highest threat from this vulnerability is to integrity as well as system availability.
+- [Live-Hack-CVE/CVE-2021-3561](https://github.com/Live-Hack-CVE/CVE-2021-3561)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3561">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3561">
 
 ---
 ## CVE-2021-3560 (2022-02-16T19:15:00)
@@ -3045,6 +3110,11 @@
 - [Live-Hack-CVE/CVE-2021-35530](https://github.com/Live-Hack-CVE/CVE-2021-35530)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35530">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35530">
 
 ---
+## CVE-2021-3549 (2021-05-26T21:15:00)
+> An out of bounds flaw was found in GNU binutils objdump utility version 2.36. An attacker could use this flaw and pass a large section to avr_elf32_load_records_from_section() probably resulting in a crash or in some cases memory corruption. The highest threat from this vulnerability is to integrity as well as system availability.
+- [Live-Hack-CVE/CVE-2021-3549](https://github.com/Live-Hack-CVE/CVE-2021-3549)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3549">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3549">
+
+---
 ## CVE-2021-35475 (2021-06-25T11:15:00)
 > SAS Environment Manager 2.5 allows XSS through the Name field when creating/editing a server. The XSS will prompt when editing the Configuration Properties.
 - [saitamang/CVE-2021-35475](https://github.com/saitamang/CVE-2021-35475)	<img alt="forks" src="https://img.shields.io/github/forks/saitamang/CVE-2021-35475">	<img alt="stars" src="https://img.shields.io/github/stars/saitamang/CVE-2021-35475">
@@ -3075,6 +3145,11 @@
 ## CVE-2021-35368 (2021-11-05T18:15:00)
 > OWASP ModSecurity Core Rule Set 3.1.x before 3.1.2, 3.2.x before 3.2.1, and 3.3.x before 3.3.2 is affected by a Request Body Bypass via a trailing pathname.
 - [Live-Hack-CVE/CVE-2021-35368](https://github.com/Live-Hack-CVE/CVE-2021-35368)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35368">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35368">
+
+---
+## CVE-2021-3532 (2021-06-09T12:15:00)
+> A flaw was found in Ansible where the secret information present in async_files are getting disclosed when the user changes the jobdir to a world readable directory. Any secret information in an async status file will be readable by a malicious user on that system. This flaw affects Ansible Tower 3.7 and Ansible Automation Platform 1.2.
+- [Live-Hack-CVE/CVE-2021-3532](https://github.com/Live-Hack-CVE/CVE-2021-3532)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3532">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3532">
 
 ---
 ## CVE-2021-3531 (2021-05-18T12:15:00)
@@ -3123,6 +3198,11 @@
 - [Live-Hack-CVE/CVE-2021-35236](https://github.com/Live-Hack-CVE/CVE-2021-35236)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35236">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35236">
 
 ---
+## CVE-2021-35234 (2021-12-20T21:15:00)
+> Numerous exposed dangerous functions within Orion Core has allows for read-only SQL injection leading to privileged escalation. An attacker with low-user privileges may steal password hashes and password salt information.
+- [Live-Hack-CVE/CVE-2021-35234](https://github.com/Live-Hack-CVE/CVE-2021-35234)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35234">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35234">
+
+---
 ## CVE-2021-3521 (2022-08-22T15:15:00)
 > There is a flaw in RPM's signature functionality. OpenPGP subkeys are associated with a primary key via a "binding signature." RPM does not check the binding signature of subkeys prior to importing them. If an attacker is able to add or socially engineer another party to add a malicious subkey to a legitimate public key, RPM could wrongly trust a malicious signature. The greatest impact of this flaw is to data integrity. To exploit this flaw, an attacker must either compromise an RPM repository or convince an administrator to install an untrusted RPM or public key. It is strongly recommended to only use RPMs and public keys from trusted sources.
 - [Live-Hack-CVE/CVE-2021-3521](https://github.com/Live-Hack-CVE/CVE-2021-3521)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3521">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3521">
@@ -3136,9 +3216,19 @@
 - [Live-Hack-CVE/CVE-2021-3520](https://github.com/Live-Hack-CVE/CVE-2021-3520)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3520">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3520">
 
 ---
+## CVE-2021-3515 (2021-06-01T14:15:00)
+> A shell injection flaw was found in pglogical in versions before 2.3.4 and before 3.6.26. An attacker with CREATEDB privileges on a PostgreSQL server can craft a database name that allows execution of shell commands as the postgresql user when calling pglogical.create_subscription().
+- [Live-Hack-CVE/CVE-2021-3515](https://github.com/Live-Hack-CVE/CVE-2021-3515)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3515">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3515">
+
+---
 ## CVE-2021-35133 (2022-09-02T12:15:00)
 > Use after free in the synx driver issue while performing other functions during multiple invocation of synx release calls in Snapdragon Connectivity, Snapdragon Industrial IOT, Snapdragon Mobile
 - [Live-Hack-CVE/CVE-2021-35133](https://github.com/Live-Hack-CVE/CVE-2021-35133)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35133">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35133">
+
+---
+## CVE-2021-3507 (2021-05-06T16:15:00)
+> A heap buffer overflow was found in the floppy disk emulator of QEMU up to 6.0.0 (including). It could occur in fdctrl_transfer_handler() in hw/block/fdc.c while processing DMA read data transfers from the floppy drive to the guest system. A privileged guest user could use this flaw to crash the QEMU process on the host resulting in DoS scenario, or potential information leakage from the host memory.
+- [Live-Hack-CVE/CVE-2021-3507](https://github.com/Live-Hack-CVE/CVE-2021-3507)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3507">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3507">
 
 ---
 ## CVE-2021-35036 (2022-03-01T07:15:00)
@@ -3492,14 +3582,44 @@
 - [zwjjustdoit/CVE-2021-34371.jar](https://github.com/zwjjustdoit/CVE-2021-34371.jar)	<img alt="forks" src="https://img.shields.io/github/forks/zwjjustdoit/CVE-2021-34371.jar">	<img alt="stars" src="https://img.shields.io/github/stars/zwjjustdoit/CVE-2021-34371.jar">
 
 ---
+## CVE-2021-34329 (2021-07-13T11:15:00)
+> A vulnerability has been identified in JT2Go (All versions < V13.2), Solid Edge SE2021 (All Versions < SE2021MP5), Teamcenter Visualization (All versions < V13.2). The plmxmlAdapterSE70.dll library in affected applications lacks proper validation of user-supplied data when parsing PAR files. This could result in an out of bounds write past the fixed-length heap-based buffer. An attacker could leverage this vulnerability to execute code in the context of the current process. (ZDI-CAN-13427)
+- [Live-Hack-CVE/CVE-2021-34329](https://github.com/Live-Hack-CVE/CVE-2021-34329)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34329">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34329">
+
+---
+## CVE-2021-34328 (2021-07-13T11:15:00)
+> A vulnerability has been identified in JT2Go (All versions < V13.2), Solid Edge SE2021 (All Versions < SE2021MP5), Teamcenter Visualization (All versions < V13.2). The plmxmlAdapterSE70.dll library in affected applications lacks proper validation of user-supplied data when parsing PAR files. This could result in an out of bounds write past the fixed-length heap-based buffer. An attacker could leverage this vulnerability to execute code in the context of the current process. (ZDI-CAN-13424)
+- [Live-Hack-CVE/CVE-2021-34328](https://github.com/Live-Hack-CVE/CVE-2021-34328)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34328">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34328">
+
+---
 ## CVE-2021-34326 (2021-07-13T11:15:00)
 > A vulnerability has been identified in JT2Go (All versions < V13.2), Solid Edge SE2021 (All Versions < SE2021MP5), Teamcenter Visualization (All versions < V13.2). The plmxmlAdapterSE70.dll library in affected applications lacks proper validation of user-supplied data when parsing PAR files. This could result in an out of bounds write past the fixed-length heap-based buffer. An attacker could leverage this vulnerability to execute code in the context of the current process. (ZDI-CAN-13422)
 - [Live-Hack-CVE/CVE-2021-34326](https://github.com/Live-Hack-CVE/CVE-2021-34326)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34326">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34326">
 
 ---
+## CVE-2021-34313 (2021-07-13T11:15:00)
+> A vulnerability has been identified in JT2Go (All versions < V13.2), Teamcenter Visualization (All versions < V13.2). The Tiff_loader.dll library in affected applications lacks proper validation of user-supplied data when parsing TIFF files. This could result in an out of bounds write past the fixed-length heap-based buffer. An attacker could leverage this vulnerability to execute code in the context of the current process. (ZDI-CAN-13354)
+- [Live-Hack-CVE/CVE-2021-34313](https://github.com/Live-Hack-CVE/CVE-2021-34313)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34313">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34313">
+
+---
+## CVE-2021-34308 (2021-07-13T11:15:00)
+> A vulnerability has been identified in JT2Go (All versions < V13.2), Teamcenter Visualization (All versions < V13.2). The BMP_Loader.dll library in affected applications lacks proper validation of user-supplied data when parsing BMP files. This could result in an out of bounds read past the end of an allocated buffer. An attacker could leverage this vulnerability to leak information in the context of the current process. (ZDI-CAN-13344)
+- [Live-Hack-CVE/CVE-2021-34308](https://github.com/Live-Hack-CVE/CVE-2021-34308)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34308">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34308">
+
+---
 ## CVE-2021-34307 (2021-07-13T11:15:00)
 > A vulnerability has been identified in JT2Go (All versions < V13.2), Teamcenter Visualization (All versions < V13.2). The Tiff_Loader.dll library in affected applications lacks proper validation of user-supplied data when parsing TIFF files. This could result in an out of bounds read past the end of an allocated buffer. An attacker could leverage this vulnerability to leak information in the context of the current process. (ZDI-CAN-13343)
 - [Live-Hack-CVE/CVE-2021-34307](https://github.com/Live-Hack-CVE/CVE-2021-34307)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34307">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34307">
+
+---
+## CVE-2021-34306 (2021-07-13T11:15:00)
+> A vulnerability has been identified in JT2Go (All versions < V13.2), Teamcenter Visualization (All versions < V13.2). The BMP_Loader.dll library in affected applications lacks proper validation of user-supplied data when parsing BMP files. This could result in a memory corruption condition. An attacker could leverage this vulnerability to execute code in the context of the current process. (ZDI-CAN-13342)
+- [Live-Hack-CVE/CVE-2021-34306](https://github.com/Live-Hack-CVE/CVE-2021-34306)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34306">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34306">
+
+---
+## CVE-2021-34304 (2021-07-13T11:15:00)
+> A vulnerability has been identified in JT2Go (All versions < V13.2), Teamcenter Visualization (All versions < V13.2). The Tiff_Loader.dll library in affected applications lacks proper validation of user-supplied data when parsing TIFF files. This could result in an out of bounds read past the end of an allocated buffer. An attacker could leverage this vulnerability to leak information in the context of the current process. (ZDI-CAN-13199)
+- [Live-Hack-CVE/CVE-2021-34304](https://github.com/Live-Hack-CVE/CVE-2021-34304)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34304">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34304">
 
 ---
 ## CVE-2021-3427 (2022-08-26T16:15:00)
