@@ -13961,6 +13961,7 @@
 ## CVE-2022-36532 (2022-09-16T03:15:00)
 > Bolt CMS contains a vulnerability in version 5.1.12 and below that allows an authenticated user with the ROLE_EDITOR privileges to upload and rename a malicious file to achieve remote code execution.
 - [Live-Hack-CVE/CVE-2022-36532](https://github.com/Live-Hack-CVE/CVE-2022-36532)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36532">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36532">
+- [lutrasecurity/CVE-2022-36532](https://github.com/lutrasecurity/CVE-2022-36532)	<img alt="forks" src="https://img.shields.io/github/forks/lutrasecurity/CVE-2022-36532">	<img alt="stars" src="https://img.shields.io/github/stars/lutrasecurity/CVE-2022-36532">
 
 ---
 ## CVE-2022-36530 (2022-08-16T13:15:00)

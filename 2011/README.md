@@ -14,6 +14,10 @@
 ## CVE-2011-3192 (2011-08-29T15:55:00)
 > The byterange filter in the Apache HTTP Server 1.3.x, 2.0.x through 2.0.64, and 2.2.x through 2.2.19 allows remote attackers to cause a denial of service (memory and CPU consumption) via a Range header that expresses multiple overlapping ranges, as exploited in the wild in August 2011, a different vulnerability than CVE-2007-0086.
 - [Live-Hack-CVE/CVE-2011-3192](https://github.com/Live-Hack-CVE/CVE-2011-3192)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-3192">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-3192">
+- [warmilk/http-Dos-Attack-Detection](https://github.com/warmilk/http-Dos-Attack-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/warmilk/http-Dos-Attack-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/warmilk/http-Dos-Attack-Detection">
+- [stcmjp/cve-2011-3192](https://github.com/stcmjp/cve-2011-3192)	<img alt="forks" src="https://img.shields.io/github/forks/stcmjp/cve-2011-3192">	<img alt="stars" src="https://img.shields.io/github/stars/stcmjp/cve-2011-3192">
+- [limkokholefork/CVE-2011-3192](https://github.com/limkokholefork/CVE-2011-3192)	<img alt="forks" src="https://img.shields.io/github/forks/limkokholefork/CVE-2011-3192">	<img alt="stars" src="https://img.shields.io/github/stars/limkokholefork/CVE-2011-3192">
+- [tkisason/KillApachePy](https://github.com/tkisason/KillApachePy)	<img alt="forks" src="https://img.shields.io/github/forks/tkisason/KillApachePy">	<img alt="stars" src="https://img.shields.io/github/stars/tkisason/KillApachePy">
 
 ---
 ## CVE-2011-2523 (2019-11-27T21:15:00)
