@@ -3562,26 +3562,40 @@
 ## CVE-2020-10012 (2020-12-08T20:15:00)
 > An access issue was addressed with improved access restrictions. This issue is fixed in macOS Big Sur 11.0.1. Processing a maliciously crafted document may lead to a cross site scripting attack.
 - [Live-Hack-CVE/CVE-2020-10012](https://github.com/Live-Hack-CVE/CVE-2020-10012)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10012">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10012">
+- [Live-Hack-CVE/CVE-2020-10012](https://github.com/Live-Hack-CVE/CVE-2020-10012)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10012">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10012">
+
+---
+## CVE-2020-10011 (2020-12-08T20:15:00)
+> An out-of-bounds read was addressed with improved bounds checking. This issue is fixed in iOS 14.2 and iPadOS 14.2, macOS Catalina 10.15.7, Security Update 2020-005 High Sierra, Security Update 2020-005 Mojave. Processing a maliciously crafted USD file may lead to unexpected application termination or arbitrary code execution.
+- [Live-Hack-CVE/CVE-2020-10011](https://github.com/Live-Hack-CVE/CVE-2020-10011)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10011">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10011">
 
 ---
 ## CVE-2020-10010 (2020-12-08T20:15:00)
 > A path handling issue was addressed with improved validation. This issue is fixed in macOS Big Sur 11.0.1, iOS 14.2 and iPadOS 14.2, tvOS 14.2, watchOS 7.1. A local attacker may be able to elevate their privileges.
+- [Live-Hack-CVE/CVE-2020-10010](https://github.com/Live-Hack-CVE/CVE-2020-10010)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10010">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10010">
 - [Live-Hack-CVE/CVE-2020-10010](https://github.com/Live-Hack-CVE/CVE-2020-10010)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10010">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10010">
 
 ---
 ## CVE-2020-10009 (2020-12-08T20:15:00)
 > A logic issue was addressed with improved state management. This issue is fixed in macOS Big Sur 11.0.1. A sandboxed process may be able to circumvent sandbox restrictions.
 - [Live-Hack-CVE/CVE-2020-10009](https://github.com/Live-Hack-CVE/CVE-2020-10009)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10009">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10009">
+- [Live-Hack-CVE/CVE-2020-10009](https://github.com/Live-Hack-CVE/CVE-2020-10009)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10009">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10009">
 
 ---
 ## CVE-2020-10007 (2020-12-08T20:15:00)
 > A logic issue was addressed with improved state management. This issue is fixed in macOS Big Sur 11.0.1. A malicious application may be able to determine kernel memory layout.
+- [Live-Hack-CVE/CVE-2020-10007](https://github.com/Live-Hack-CVE/CVE-2020-10007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10007">
 - [Live-Hack-CVE/CVE-2020-10007](https://github.com/Live-Hack-CVE/CVE-2020-10007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10007">
 
 ---
 ## CVE-2020-10006 (2020-12-08T20:15:00)
 > This issue was addressed with improved entitlements. This issue is fixed in macOS Big Sur 11.0.1. A malicious application may be able to access restricted files.
 - [Live-Hack-CVE/CVE-2020-10006](https://github.com/Live-Hack-CVE/CVE-2020-10006)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10006">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10006">
+
+---
+## CVE-2020-10002 (2020-12-08T20:15:00)
+> A logic issue was addressed with improved state management. This issue is fixed in macOS Big Sur 11.0.1, watchOS 7.1, iOS 14.2 and iPadOS 14.2, iCloud for Windows 11.5, tvOS 14.2, iTunes 12.11 for Windows. A local user may be able to read arbitrary files.
+- [Live-Hack-CVE/CVE-2020-10002](https://github.com/Live-Hack-CVE/CVE-2020-10002)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10002">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10002">
 
 ---
 ## CVE-2020-0971 (2020-04-15T15:15:00)
@@ -3690,6 +3704,7 @@
 > In exif_data_load_data_content of exif-data.c, there is a possible UBSAN abort due to an integer overflow. This could lead to remote denial of service with no additional execution privileges needed. User interaction is needed for exploitation.Product: AndroidVersions: Android-10Android ID: A-146428941
 - [Live-Hack-CVE/CVE-2020-0198](https://github.com/Live-Hack-CVE/CVE-2020-0198)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-0198">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-0198">
 - [Trinadh465/external_libexif_AOSP10_r33_CVE-2020-0198](https://github.com/Trinadh465/external_libexif_AOSP10_r33_CVE-2020-0198)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/external_libexif_AOSP10_r33_CVE-2020-0198">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/external_libexif_AOSP10_r33_CVE-2020-0198">
+- [Live-Hack-CVE/CVE-2020-0198](https://github.com/Live-Hack-CVE/CVE-2020-0198)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-0198">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-0198">
 
 ---
 ## CVE-2020-0188 (2020-06-11T15:15:00)
@@ -3706,6 +3721,8 @@
 ## CVE-2020-0181 (2020-06-11T15:15:00)
 > In exif_data_load_data_thumbnail of exif-data.c, there is a possible denial of service due to an integer overflow. This could lead to remote denial of service with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10Android ID: A-145075076
 - [Live-Hack-CVE/CVE-2020-0181](https://github.com/Live-Hack-CVE/CVE-2020-0181)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-0181">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-0181">
+- [Live-Hack-CVE/CVE-2020-0181](https://github.com/Live-Hack-CVE/CVE-2020-0181)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-0181">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-0181">
+- [Trinadh465/external_libexif_AOSP10_r33_CVE-2020-0181](https://github.com/Trinadh465/external_libexif_AOSP10_r33_CVE-2020-0181)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/external_libexif_AOSP10_r33_CVE-2020-0181">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/external_libexif_AOSP10_r33_CVE-2020-0181">
 
 ---
 ## CVE-2020-0137 (2020-06-11T15:15:00)
@@ -3722,8 +3739,15 @@
 ## CVE-2020-0093 (2020-05-14T21:15:00)
 > In exif_data_save_data_entry of exif-data.c, there is a possible out of bounds read due to a missing bounds check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is needed for exploitation.Product: AndroidVersions: Android-8.0 Android-8.1 Android-9 Android-10Android ID: A-148705132
 - [Live-Hack-CVE/CVE-2020-0093](https://github.com/Live-Hack-CVE/CVE-2020-0093)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-0093">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-0093">
+- [Live-Hack-CVE/CVE-2020-0093](https://github.com/Live-Hack-CVE/CVE-2020-0093)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-0093">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-0093">
+
+---
+## CVE-2020-0009 (2020-01-08T16:15:00)
+> In calc_vm_may_flags of ashmem.c, there is a possible arbitrary write to shared memory due to a permissions bypass. This could lead to local escalation of privilege by corrupting memory shared between processes, with no additional execution privileges needed. User interaction is not needed for exploitation. Product: Android Versions: Android kernel Android ID: A-142938932
+- [Live-Hack-CVE/CVE-2020-0009](https://github.com/Live-Hack-CVE/CVE-2020-0009)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-0009">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-0009">
 
 ---
 ## CVE-2020-0003 (2020-01-08T19:15:00)
 > In onCreate of InstallStart.java, there is a possible package validation bypass due to a time-of-check time-of-use vulnerability. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is needed for exploitation. Product: Android Versions: Android-8.0 Android ID: A-140195904
+- [Live-Hack-CVE/CVE-2020-0003](https://github.com/Live-Hack-CVE/CVE-2020-0003)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-0003">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-0003">
 - [Live-Hack-CVE/CVE-2020-0003](https://github.com/Live-Hack-CVE/CVE-2020-0003)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-0003">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-0003">

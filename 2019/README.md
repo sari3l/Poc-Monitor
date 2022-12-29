@@ -61,6 +61,41 @@
 - [Live-Hack-CVE/CVE-2019-9591](https://github.com/Live-Hack-CVE/CVE-2019-9591)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9591">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9591">
 
 ---
+## CVE-2019-9433 (2019-09-27T19:15:00)
+> In libvpx, there is a possible information disclosure due to improper input validation. This could lead to remote information disclosure with no additional execution privileges needed. User interaction is needed for exploitation. Product: AndroidVersions: Android-10Android ID: A-80479354
+- [Live-Hack-CVE/CVE-2019-9433](https://github.com/Live-Hack-CVE/CVE-2019-9433)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9433">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9433">
+
+---
+## CVE-2019-9423 (2019-09-27T19:15:00)
+> In opencv calls that use libpng, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege with no additional execution privileges required. User interaction is not required for exploitation. Product: AndroidVersions: Android-10Android ID: A-110986616
+- [Live-Hack-CVE/CVE-2019-9423](https://github.com/Live-Hack-CVE/CVE-2019-9423)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9423">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9423">
+
+---
+## CVE-2019-9371 (2019-09-27T19:15:00)
+> In libvpx, there is a possible resource exhaustion due to improper input validation. This could lead to remote denial of service with no additional execution privileges needed. User interaction is needed for exploitation. Product: AndroidVersions: Android-10Android ID: A-132783254
+- [Live-Hack-CVE/CVE-2019-9371](https://github.com/Live-Hack-CVE/CVE-2019-9371)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9371">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9371">
+
+---
+## CVE-2019-9325 (2019-09-27T19:15:00)
+> In libvpx, there is a possible out of bounds read due to a missing bounds check. This could lead to remote information disclosure with no additional execution privileges needed. User interaction is needed for exploitation. Product: AndroidVersions: Android-10Android ID: A-112001302
+- [Live-Hack-CVE/CVE-2019-9325](https://github.com/Live-Hack-CVE/CVE-2019-9325)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9325">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9325">
+
+---
+## CVE-2019-9288 (2019-09-27T19:15:00)
+> In libhidcommand_jni, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege in the USB service with no additional execution privileges needed. User interaction is not needed for exploitation.Product: Android Versions: Android-10 Android ID: A-111363077
+- [Live-Hack-CVE/CVE-2019-9288](https://github.com/Live-Hack-CVE/CVE-2019-9288)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9288">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9288">
+
+---
+## CVE-2019-9278 (2019-09-27T19:15:00)
+> In libexif, there is a possible out of bounds write due to an integer overflow. This could lead to remote escalation of privilege in the media content provider with no additional execution privileges needed. User interaction is needed for exploitation. Product: AndroidVersions: Android-10Android ID: A-112537774
+- [Live-Hack-CVE/CVE-2019-9278](https://github.com/Live-Hack-CVE/CVE-2019-9278)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9278">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9278">
+
+---
+## CVE-2019-9232 (2019-09-27T19:15:00)
+> In libvpx, there is a possible out of bounds read due to a missing bounds check. This could lead to remote information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation. Product: AndroidVersions: Android-10Android ID: A-122675483
+- [Live-Hack-CVE/CVE-2019-9232](https://github.com/Live-Hack-CVE/CVE-2019-9232)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9232">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9232">
+
+---
 ## CVE-2019-9193 (2019-04-01T21:30:00)
 > ** DISPUTED ** In PostgreSQL 9.3 through 11.2, the "COPY TO/FROM PROGRAM" function allows superusers and users in the 'pg_execute_server_program' group to execute arbitrary code in the context of the database's operating system user. This functionality is enabled by default and can be abused to run arbitrary operating system commands on Windows, Linux, and macOS. NOTE: Third parties claim/state this is not an issue because PostgreSQL functionality for ‘COPY TO/FROM PROGRAM’ is acting as intended. References state that in PostgreSQL, a superuser can execute commands as the server user without using the ‘COPY FROM PROGRAM’.
 - [chromanite/CVE-2019-9193-PostgreSQL-9.3-11.7](https://github.com/chromanite/CVE-2019-9193-PostgreSQL-9.3-11.7)	<img alt="forks" src="https://img.shields.io/github/forks/chromanite/CVE-2019-9193-PostgreSQL-9.3-11.7">	<img alt="stars" src="https://img.shields.io/github/stars/chromanite/CVE-2019-9193-PostgreSQL-9.3-11.7">
@@ -89,6 +124,41 @@
 ## CVE-2019-8985 (2019-02-21T19:29:00)
 > On Netis WF2411 with firmware 2.1.36123 and other Netis WF2xxx devices (possibly WF2411 through WF2880), there is a stack-based buffer overflow that does not require authentication. This can cause denial of service (device restart) or remote code execution. This vulnerability can be triggered by a GET request with a long HTTP "Authorization: Basic" header that is mishandled by user_auth->user_ok in /bin/boa.
 - [Ler2sq/CVE-2019-8985](https://github.com/Ler2sq/CVE-2019-8985)	<img alt="forks" src="https://img.shields.io/github/forks/Ler2sq/CVE-2019-8985">	<img alt="stars" src="https://img.shields.io/github/stars/Ler2sq/CVE-2019-8985">
+
+---
+## CVE-2019-8813 (2019-12-18T18:15:00)
+> A logic issue was addressed with improved state management. This issue is fixed in iOS 13.2 and iPadOS 13.2, tvOS 13.2, Safari 13.0.3, iTunes for Windows 12.10.2, iCloud for Windows 11.0. Processing maliciously crafted web content may lead to universal cross site scripting.
+- [Live-Hack-CVE/CVE-2019-8813](https://github.com/Live-Hack-CVE/CVE-2019-8813)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-8813">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-8813">
+
+---
+## CVE-2019-8764 (2019-12-18T18:15:00)
+> A logic issue was addressed with improved state management. This issue is fixed in watchOS 6.1. Processing maliciously crafted web content may lead to universal cross site scripting.
+- [Live-Hack-CVE/CVE-2019-8764](https://github.com/Live-Hack-CVE/CVE-2019-8764)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-8764">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-8764">
+
+---
+## CVE-2019-8719 (2019-12-18T18:15:00)
+> A logic issue was addressed with improved state management. This issue is fixed in tvOS 13, iTunes for Windows 12.10.1, iCloud for Windows 10.7, iCloud for Windows 7.14. Processing maliciously crafted web content may lead to universal cross site scripting.
+- [Live-Hack-CVE/CVE-2019-8719](https://github.com/Live-Hack-CVE/CVE-2019-8719)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-8719">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-8719">
+
+---
+## CVE-2019-8674 (2019-12-18T18:15:00)
+> A logic issue was addressed with improved state management. This issue is fixed in iOS 13, Safari 13. Processing maliciously crafted web content may lead to universal cross site scripting.
+- [Live-Hack-CVE/CVE-2019-8674](https://github.com/Live-Hack-CVE/CVE-2019-8674)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-8674">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-8674">
+
+---
+## CVE-2019-8634 (2019-12-18T18:15:00)
+> An authentication issue was addressed with improved state management. This issue is fixed in macOS Mojave 10.14.5. A user may be unexpectedly logged in to another user’s account.
+- [Live-Hack-CVE/CVE-2019-8634](https://github.com/Live-Hack-CVE/CVE-2019-8634)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-8634">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-8634">
+
+---
+## CVE-2019-8625 (2019-12-18T18:15:00)
+> A logic issue was addressed with improved state management. This issue is fixed in tvOS 13, iTunes for Windows 12.10.1, iCloud for Windows 10.7, iCloud for Windows 7.14. Processing maliciously crafted web content may lead to universal cross site scripting.
+- [Live-Hack-CVE/CVE-2019-8625](https://github.com/Live-Hack-CVE/CVE-2019-8625)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-8625">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-8625">
+
+---
+## CVE-2019-8550 (2019-12-18T18:15:00)
+> An issue existed in the pausing of FaceTime video. The issue was resolved with improved logic. This issue is fixed in iOS 12.2, macOS Mojave 10.14.4, watchOS 5.2. A user’s video may not be paused in a FaceTime call if they exit the FaceTime app while the call is ringing.
+- [Live-Hack-CVE/CVE-2019-8550](https://github.com/Live-Hack-CVE/CVE-2019-8550)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-8550">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-8550">
 
 ---
 ## CVE-2019-8292 (2019-10-01T20:15:00)
@@ -253,6 +323,16 @@
 ## CVE-2019-6811 (2019-09-17T20:15:00)
 > An Improper Check for Unusual or Exceptional Conditions (CWE-754) vulnerability exists in Modicon Quantum 140 NOE771x1 version 6.9 and earlier, which could cause denial of service when the module receives an IP fragmented packet with a length greater than 65535 bytes. The module then requires a power cycle to recover.
 - [Live-Hack-CVE/CVE-2019-6811](https://github.com/Live-Hack-CVE/CVE-2019-6811)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6811">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6811">
+
+---
+## CVE-2019-6775 (2019-10-04T18:15:00)
+> This vulnerability allows remote attackers to execute arbitrary code on affected installations of Foxit Reader 9.5.0.20723. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the exportValues method within a AcroForm. The issue results from the lack of validating the existence of an object prior to performing operations on the object. An attacker can leverage this vulnerability to execute code in the context of the current process. Was ZDI-CAN-8491.
+- [Live-Hack-CVE/CVE-2019-6775](https://github.com/Live-Hack-CVE/CVE-2019-6775)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6775">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6775">
+
+---
+## CVE-2019-6774 (2019-10-04T18:15:00)
+> This vulnerability allows remote attackers to execute arbitrary code on affected installations of Foxit Reader 9.4.1.16828. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the deleteItemAt method when processing AcroForms. The issue results from the lack of validating the existence of an object prior to performing operations on the object. An attacker can leverage this vulnerability to execute code in the context of the current process. Was ZDI-CAN-8295.
+- [Live-Hack-CVE/CVE-2019-6774](https://github.com/Live-Hack-CVE/CVE-2019-6774)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6774">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6774">
 
 ---
 ## CVE-2019-6757 (2019-06-03T19:29:00)

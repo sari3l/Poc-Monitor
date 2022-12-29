@@ -19542,6 +19542,11 @@
 - [Live-Hack-CVE/CVE-2022-28202](https://github.com/Live-Hack-CVE/CVE-2022-28202)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28202">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28202">
 
 ---
+## CVE-2022-28197 (2022-04-27T18:15:00)
+> NVIDIA Jetson Linux Driver Package contains a vulnerability in the Cboot ext4_mount function, where Insufficient validation of untrusted data may allow a highly privileged local attacker to cause an integer overflow. This difficult-to-exploit vulnerability may lead to code execution, escalation of privileges, limited denial of service, and some impact to confidentiality and integrity. The scope of impact can extend to other components.
+- [Live-Hack-CVE/CVE-2022-28197](https://github.com/Live-Hack-CVE/CVE-2022-28197)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28197">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28197">
+
+---
 ## CVE-2022-28195 (2022-04-27T18:15:00)
 > NVIDIA Jetson Linux Driver Package contains a vulnerability in the Cboot ext4_read_file function, where insufficient validation of untrusted data may allow a highly privileged local attacker to cause a integer overflow, which may lead to code execution, escalation of privileges, limited denial of service, and some impact to confidentiality and integrity. The scope of impact can extend to other components.
 - [Live-Hack-CVE/CVE-2022-28195](https://github.com/Live-Hack-CVE/CVE-2022-28195)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28195">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28195">
@@ -19550,6 +19555,11 @@
 ## CVE-2022-28194 (2022-04-27T18:15:00)
 > NVIDIA Jetson Linux Driver Package contains a vulnerability in the Cboot module tegrabl_cbo.c, where, if TFTP is enabled, a local attacker with elevated privileges can cause a memory buffer overflow, which may lead to code execution, loss of Integrity, limited denial of service, and some impact to confidentiality.
 - [Live-Hack-CVE/CVE-2022-28194](https://github.com/Live-Hack-CVE/CVE-2022-28194)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28194">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28194">
+
+---
+## CVE-2022-28193 (2022-04-27T18:15:00)
+> NVIDIA Jetson Linux Driver Package contains a vulnerability in the Cboot module tegrabl_cbo.c, where insufficient validation of untrusted data may allow a local attacker with elevated privileges to cause a memory buffer overflow, which may lead to code execution, loss of integrity, limited denial of service, and some impact to confidentiality.
+- [Live-Hack-CVE/CVE-2022-28193](https://github.com/Live-Hack-CVE/CVE-2022-28193)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28193">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28193">
 
 ---
 ## CVE-2022-28173 (2022-12-19T16:15:00)
@@ -24765,6 +24775,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1566 (2022-05-30T09:15:00)
 > The Quotes llama WordPress plugin before 1.0.0 does not sanitise and escape Quotes, which could allow high privilege users such as admin to perform Cross-Site Scripting attacks even when unfiltered_html is disallowed. The attack could also be performed by tricking an admin to import a malicious CSV file
 - [Live-Hack-CVE/CVE-2022-1566](https://github.com/Live-Hack-CVE/CVE-2022-1566)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1566">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1566">
+
+---
+## CVE-2022-1560 (2022-05-16T15:15:00)
+> The Amministrazione Aperta WordPress plugin before 3.8 does not validate the open parameter before using it in an include statement, leading to a Local File Inclusion issue. The original advisory mentions that unauthenticated users can exploit this, however the affected file generates a fatal error when accessed directly and the affected code is not reached. The issue can be exploited via the dashboard when logged in as an admin, or by making a logged in admin open a malicious link
+- [Live-Hack-CVE/CVE-2022-1560](https://github.com/Live-Hack-CVE/CVE-2022-1560)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1560">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1560">
 
 ---
 ## CVE-2022-1552 (2022-08-31T16:15:00)
