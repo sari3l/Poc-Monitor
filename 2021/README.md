@@ -394,6 +394,16 @@
 - [Live-Hack-CVE/CVE-2021-44693](https://github.com/Live-Hack-CVE/CVE-2021-44693)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44693">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44693">
 
 ---
+## CVE-2021-44596 (2022-04-29T12:15:00)
+> Wondershare LTD Dr. Fone as of 2021-12-06 version is affected by Remote code execution. Due to software design flaws an unauthenticated user can communicate over UDP with the "InstallAssistService.exe" service(the service is running under SYSTEM privileges) and manipulate it to execute malicious executable without any validation from a remote location and gain SYSTEM privileges
+- [Live-Hack-CVE/CVE-2021-44596](https://github.com/Live-Hack-CVE/CVE-2021-44596)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44596">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44596">
+
+---
+## CVE-2021-44595 (2022-04-29T12:15:00)
+> Wondershare Dr. Fone Latest version as of 2021-12-06 is vulnerable to Incorrect Access Control. A normal user can send manually crafted packets to the ElevationService.exe and execute arbitrary code without any validation with SYSTEM privileges.
+- [Live-Hack-CVE/CVE-2021-44595](https://github.com/Live-Hack-CVE/CVE-2021-44595)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44595">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44595">
+
+---
 ## CVE-2021-44537 (2022-01-15T21:15:00)
 > ownCloud owncloud/client before 2.9.2 allows Resource Injection by a server into the desktop client via a URL, leading to remote code execution.
 - [Live-Hack-CVE/CVE-2021-44537](https://github.com/Live-Hack-CVE/CVE-2021-44537)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44537">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44537">
@@ -558,6 +568,11 @@
 ## CVE-2021-44358 (2022-01-28T22:15:00)
 > A denial of service vulnerability exists in the cgiserver.cgi JSON command parser functionality of reolink RLC-410W v3.0.0.136_20121102. A specially-crafted HTTP request can lead to a reboot. SetRec param is not object. An attacker can send an HTTP request to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2021-44358](https://github.com/Live-Hack-CVE/CVE-2021-44358)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44358">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44358">
+
+---
+## CVE-2021-44269 (2022-03-10T17:44:00)
+> An out of bounds read was found in Wavpack 5.4.0 in processing *.WAV files. This issue triggered in function WavpackPackSamples of file src/pack_utils.c, tainted variable cnt is too large, that makes pointer sptr read beyond heap bound.
+- [Live-Hack-CVE/CVE-2021-44269](https://github.com/Live-Hack-CVE/CVE-2021-44269)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44269">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44269">
 
 ---
 ## CVE-2021-44231 (2021-12-14T16:15:00)
@@ -5038,6 +5053,11 @@
 ## CVE-2021-28500 (2022-01-14T20:15:00)
 > An issue has recently been discovered in Arista EOS where the incorrect use of EOS's AAA API’s by the OpenConfig and TerminAttr agents could result in unrestricted access to the device for local users with nopassword configuration.
 - [Live-Hack-CVE/CVE-2021-28500](https://github.com/Live-Hack-CVE/CVE-2021-28500)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28500">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28500">
+
+---
+## CVE-2021-28398 (2022-09-05T17:15:00)
+> A privileged attacker in GeoNetwork before 3.12.0 and 4.x before 4.0.4 can use the directory harvester before-script to execute arbitrary OS commands remotely on the hosting infrastructure. A User Administrator or Administrator account is required to perform this. This occurs in the runBeforeScript method in harvesters/src/main/java/org/fao/geonet/kernel/harvest/harvester/localfilesystem/LocalFilesystemHarvester.java. The earliest affected version is 3.4.0.
+- [Live-Hack-CVE/CVE-2021-28398](https://github.com/Live-Hack-CVE/CVE-2021-28398)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28398">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28398">
 
 ---
 ## CVE-2021-28169 (2021-06-09T02:15:00)

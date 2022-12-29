@@ -1623,6 +1623,11 @@
 - [kiks7/CVE-2020-27786-Kernel-Exploit](https://github.com/kiks7/CVE-2020-27786-Kernel-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/kiks7/CVE-2020-27786-Kernel-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/kiks7/CVE-2020-27786-Kernel-Exploit">
 
 ---
+## CVE-2020-27784 (2022-09-01T18:15:00)
+> A vulnerability was found in the Linux kernel, where accessing a deallocated instance in printer_ioctl() printer_ioctl() tries to access of a printer_dev instance. However, use-after-free arises because it had been freed by gprinter_free().
+- [Live-Hack-CVE/CVE-2020-27784](https://github.com/Live-Hack-CVE/CVE-2020-27784)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27784">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27784">
+
+---
 ## CVE-2020-27779 (2021-03-03T17:15:00)
 > A flaw was found in grub2 in versions prior to 2.06. The cutmem command does not honor secure boot locking allowing an privileged attacker to remove address ranges from memory creating an opportunity to circumvent SecureBoot protections after proper triage about grub's memory layout. The highest threat from this vulnerability is to data confidentiality and integrity as well as system availability.
 - [Live-Hack-CVE/CVE-2020-27779](https://github.com/Live-Hack-CVE/CVE-2020-27779)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27779">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27779">

