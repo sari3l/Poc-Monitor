@@ -136,6 +136,11 @@
 - [Live-Hack-CVE/CVE-2020-8974](https://github.com/Live-Hack-CVE/CVE-2020-8974)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8974">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8974">
 
 ---
+## CVE-2020-8973 (2022-10-17T22:15:00)
+> ZGR TPS200 NG in its 2.00 firmware version and 1.01 hardware version, does not properly accept specially constructed requests. This allows an attacker with access to the network where the affected asset is located, to operate and change several parameters without having to be registered as a user on the web that owns the device.
+- [Live-Hack-CVE/CVE-2020-8973](https://github.com/Live-Hack-CVE/CVE-2020-8973)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8973">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8973">
+
+---
 ## CVE-2020-8968 (2021-12-17T17:15:00)
 > Parallels Remote Application Server (RAS) allows a local attacker to retrieve certain profile password in clear text format by uploading a previously stored cyphered file by Parallels RAS. The confidentiality, availability and integrity of the information of the user could be compromised if an attacker is able to recover the profile password.
 - [Live-Hack-CVE/CVE-2020-8968](https://github.com/Live-Hack-CVE/CVE-2020-8968)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8968">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8968">
@@ -1593,6 +1598,11 @@
 - [Live-Hack-CVE/CVE-2020-26257](https://github.com/Live-Hack-CVE/CVE-2020-26257)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-26257">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-26257">
 
 ---
+## CVE-2020-26247 (2020-12-30T19:15:00)
+> Nokogiri is a Rubygem providing HTML, XML, SAX, and Reader parsers with XPath and CSS selector support. In Nokogiri before version 1.11.0.rc4 there is an XXE vulnerability. XML Schemas parsed by Nokogiri::XML::Schema are trusted by default, allowing external resources to be accessed over the network, potentially enabling XXE or SSRF attacks. This behavior is counter to the security policy followed by Nokogiri maintainers, which is to treat all input as untrusted by default whenever possible. This is fixed in Nokogiri version 1.11.0.rc4.
+- [Live-Hack-CVE/CVE-2020-26247](https://github.com/Live-Hack-CVE/CVE-2020-26247)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-26247">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-26247">
+
+---
 ## CVE-2020-26233 (2020-12-08T20:15:00)
 > Git Credential Manager Core (GCM Core) is a secure Git credential helper built on .NET Core that runs on Windows and macOS. In Git Credential Manager Core before version 2.0.289, when recursively cloning a Git repository on Windows with submodules, Git will first clone the top-level repository and then recursively clone all submodules by starting new Git processes from the top-level working directory. If a malicious git.exe executable is present in the top-level repository then this binary will be started by Git Credential Manager Core when attempting to read configuration, and not git.exe as found on the %PATH%. This only affects GCM Core on Windows, not macOS or Linux-based distributions. GCM Core version 2.0.289 contains the fix for this vulnerability, and is available from the project's GitHub releases page. GCM Core 2.0.289 is also bundled in the latest Git for Windows release; version 2.29.2(3). As a workaround, users should avoid recursively cloning untrusted repositories with the --recurse-submodules option.
 - [an1p3lg5/CVE-2020-26233](https://github.com/an1p3lg5/CVE-2020-26233)	<img alt="forks" src="https://img.shields.io/github/forks/an1p3lg5/CVE-2020-26233">	<img alt="stars" src="https://img.shields.io/github/stars/an1p3lg5/CVE-2020-26233">
@@ -2535,6 +2545,11 @@
 > Devices supporting Bluetooth before 5.1 may allow man-in-the-middle attacks, aka BLURtooth. Cross Transport Key Derivation in Bluetooth Core Specification v4.2 and v5.0 may permit an unauthenticated user to establish a bonding with one transport, either LE or BR/EDR, and replace a bonding already established on the opposing transport, BR/EDR or LE, potentially overwriting an authenticated key with an unauthenticated key, or a key with greater entropy with one with less.
 - [Live-Hack-CVE/CVE-2020-15802](https://github.com/Live-Hack-CVE/CVE-2020-15802)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15802">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15802">
 - [francozappa/blur](https://github.com/francozappa/blur)	<img alt="forks" src="https://img.shields.io/github/forks/francozappa/blur">	<img alt="stars" src="https://img.shields.io/github/stars/francozappa/blur">
+
+---
+## CVE-2020-15798 (2021-02-09T17:15:00)
+> A vulnerability has been identified in SIMATIC HMI Comfort Panels (incl. SIPLUS variants) (All versions < V16 Update 3a), SIMATIC HMI KTP Mobile Panels (All versions < V16 Update 3a), SINAMICS GH150 (All versions), SINAMICS GL150 (with option X30) (All versions), SINAMICS GM150 (with option X30) (All versions), SINAMICS SH150 (All versions), SINAMICS SL150 (All versions), SINAMICS SM120 (All versions), SINAMICS SM150 (All versions), SINAMICS SM150i (All versions). Affected devices with enabled telnet service do not require authentication for this service. This could allow a remote attacker to gain full access to the device. (ZDI-CAN-12046)
+- [Live-Hack-CVE/CVE-2020-15798](https://github.com/Live-Hack-CVE/CVE-2020-15798)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15798">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15798">
 
 ---
 ## CVE-2020-15685 (2022-12-22T20:15:00)
@@ -3567,6 +3582,16 @@
 - [Yt1g3r/CVE-2020-0688_EXP](https://github.com/Yt1g3r/CVE-2020-0688_EXP)	<img alt="forks" src="https://img.shields.io/github/forks/Yt1g3r/CVE-2020-0688_EXP">	<img alt="stars" src="https://img.shields.io/github/stars/Yt1g3r/CVE-2020-0688_EXP">
 - [Jumbo-WJB/CVE-2020-0688](https://github.com/Jumbo-WJB/CVE-2020-0688)	<img alt="forks" src="https://img.shields.io/github/forks/Jumbo-WJB/CVE-2020-0688">	<img alt="stars" src="https://img.shields.io/github/stars/Jumbo-WJB/CVE-2020-0688">
 - [random-robbie/cve-2020-0688](https://github.com/random-robbie/cve-2020-0688)	<img alt="forks" src="https://img.shields.io/github/forks/random-robbie/cve-2020-0688">	<img alt="stars" src="https://img.shields.io/github/stars/random-robbie/cve-2020-0688">
+
+---
+## CVE-2020-0590 (2020-11-12T18:15:00)
+> Improper input validation in BIOS firmware for some Intel(R) Processors may allow an authenticated user to potentially enable escalation of privilege via local access.
+- [Live-Hack-CVE/CVE-2020-0590](https://github.com/Live-Hack-CVE/CVE-2020-0590)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-0590">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-0590">
+
+---
+## CVE-2020-0569 (2020-11-23T17:15:00)
+> Out of bounds write in Intel(R) PROSet/Wireless WiFi products on Windows 10 may allow an authenticated user to potentially enable denial of service via local access.
+- [Live-Hack-CVE/CVE-2020-0569](https://github.com/Live-Hack-CVE/CVE-2020-0569)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-0569">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-0569">
 
 ---
 ## CVE-2020-0427 (2020-09-17T19:15:00)

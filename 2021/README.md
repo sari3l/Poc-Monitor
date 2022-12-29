@@ -1745,6 +1745,11 @@
 - [Live-Hack-CVE/CVE-2021-40365](https://github.com/Live-Hack-CVE/CVE-2021-40365)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40365">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40365">
 
 ---
+## CVE-2021-40358 (2021-11-09T12:15:00)
+> A vulnerability has been identified in SIMATIC PCS 7 V8.2 (All versions), SIMATIC PCS 7 V9.0 (All versions < V9.0 SP3 UC04), SIMATIC PCS 7 V9.1 (All versions < V9.1 SP1), SIMATIC WinCC V15 and earlier (All versions < V15 SP1 Update 7), SIMATIC WinCC V16 (All versions < V16 Update 5), SIMATIC WinCC V17 (All versions < V17 Update 2), SIMATIC WinCC V7.4 (All versions < V7.4 SP1 Update 19), SIMATIC WinCC V7.5 (All versions < V7.5 SP2 Update 5). Legitimate file operations on the web server of the affected systems do not properly neutralize special elements within the pathname. An attacker could then cause the pathname to resolve to a location outside of the restricted directory on the server and read, write or delete unexpected critical files.
+- [Live-Hack-CVE/CVE-2021-40358](https://github.com/Live-Hack-CVE/CVE-2021-40358)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40358">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40358">
+
+---
 ## CVE-2021-40346 (2021-09-08T17:15:00)
 > An integer overflow exists in HAProxy 2.0 through 2.5 in htx_add_header that can be exploited to perform an HTTP request smuggling attack, allowing an attacker to bypass all configured http-request HAProxy ACLs and possibly other ACLs.
 - [Vulnmachines/HAProxy_CVE-2021-40346](https://github.com/Vulnmachines/HAProxy_CVE-2021-40346)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/HAProxy_CVE-2021-40346">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/HAProxy_CVE-2021-40346">
@@ -1944,6 +1949,11 @@
 ## CVE-2021-39920 (2021-11-18T19:15:00)
 > NULL pointer exception in the IPPUSB dissector in Wireshark 3.4.0 to 3.4.9 allows denial of service via packet injection or crafted capture file
 - [Live-Hack-CVE/CVE-2021-39920](https://github.com/Live-Hack-CVE/CVE-2021-39920)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39920">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39920">
+
+---
+## CVE-2021-39880 (2021-10-05T15:15:00)
+> A Denial Of Service vulnerability in the apollo_upload_server Ruby gem in GitLab CE/EE all versions starting from 11.9 before 14.0.9, all versions starting from 14.1 before 14.1.4, and all versions starting from 14.2 before 14.2.2 allows an attacker to deny access to all users via specially crafted requests to the apollo_upload_server middleware.
+- [Live-Hack-CVE/CVE-2021-39880](https://github.com/Live-Hack-CVE/CVE-2021-39880)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39880">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39880">
 
 ---
 ## CVE-2021-3984 (2021-12-01T11:15:00)
@@ -2599,6 +2609,11 @@
 ## CVE-2021-36909 (2021-11-18T15:15:00)
 > Authenticated Database Reset vulnerability in WordPress WP Reset PRO Premium plugin (versions <= 5.98) allows any authenticated user to wipe the entire database regardless of their authorization. It leads to a complete website reset and takeover.
 - [Live-Hack-CVE/CVE-2021-36909](https://github.com/Live-Hack-CVE/CVE-2021-36909)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36909">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36909">
+
+---
+## CVE-2021-36833 (2022-05-20T20:15:00)
+> Authenticated (admin or higher user role) Stored Cross-Site Scripting (XSS) vulnerability in ibericode's MC4WP plugin <= 4.8.6 at WordPress.
+- [Live-Hack-CVE/CVE-2021-36833](https://github.com/Live-Hack-CVE/CVE-2021-36833)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36833">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36833">
 
 ---
 ## CVE-2021-3680 (2021-08-04T13:15:00)
@@ -4651,6 +4666,11 @@
 - [Live-Hack-CVE/CVE-2021-25738](https://github.com/Live-Hack-CVE/CVE-2021-25738)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25738">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25738">
 
 ---
+## CVE-2021-25667 (2021-03-15T17:15:00)
+> A vulnerability has been identified in RUGGEDCOM RM1224 (All versions >= V4.3 and < V6.4), SCALANCE M-800 (All versions >= V4.3 and < V6.4), SCALANCE S615 (All versions >= V4.3 and < V6.4), SCALANCE SC-600 Family (All versions >= V2.0 and < V2.1.3), SCALANCE XB-200 (All versions < V4.1), SCALANCE XC-200 (All versions < V4.1), SCALANCE XF-200BA (All versions < V4.1), SCALANCE XM400 (All versions < V6.2), SCALANCE XP-200 (All versions < V4.1), SCALANCE XR-300WG (All versions < V4.1), SCALANCE XR500 (All versions < V6.2). Affected devices contain a stack-based buffer overflow vulnerability in the handling of STP BPDU frames that could allow a remote attacker to trigger a denial-of-service condition or potentially remote code execution. Successful exploitation requires the passive listening feature of the device to be active.
+- [Live-Hack-CVE/CVE-2021-25667](https://github.com/Live-Hack-CVE/CVE-2021-25667)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25667">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25667">
+
+---
 ## CVE-2021-25652 (2021-06-24T09:15:00)
 > An information disclosure vulnerability was discovered in the directory and file management of Avaya Aura Appliance Virtualization Platform Utilities (AVPU). This vulnerability may potentially allow any local user to access system functionality and configuration information that should only be available to a privileged user. Affects versions 8.0.0.0 through 8.1.3.1 of AVPU.
 - [Live-Hack-CVE/CVE-2021-25652](https://github.com/Live-Hack-CVE/CVE-2021-25652)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25652">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25652">
@@ -5890,10 +5910,20 @@
 - [Live-Hack-CVE/CVE-2021-21296](https://github.com/Live-Hack-CVE/CVE-2021-21296)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21296">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21296">
 
 ---
+## CVE-2021-21277 (2021-02-01T15:15:00)
+> angular-expressions is "angular's nicest part extracted as a standalone module for the browser and node". In angular-expressions before version 1.1.2 there is a vulnerability which allows Remote Code Execution if you call "expressions.compile(userControlledInput)" where "userControlledInput" is text that comes from user input. The security of the package could be bypassed by using a more complex payload, using a ".constructor.constructor" technique. In terms of impact: If running angular-expressions in the browser, an attacker could run any browser script when the application code calls expressions.compile(userControlledInput). If running angular-expressions on the server, an attacker could run any Javascript expression, thus gaining Remote Code Execution. This is fixed in version 1.1.2 of angular-expressions A temporary workaround might be either to disable user-controlled input that will be fed into angular-expressions in your application or allow only following characters in the userControlledInput.
+- [Live-Hack-CVE/CVE-2021-21277](https://github.com/Live-Hack-CVE/CVE-2021-21277)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21277">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21277">
+
+---
 ## CVE-2021-21272 (2021-01-25T19:15:00)
 > ORAS is open source software which enables a way to push OCI Artifacts to OCI Conformant registries. ORAS is both a CLI for initial testing and a Go Module. In ORAS from version 0.4.0 and before version 0.9.0, there is a "zip-slip" vulnerability. The directory support feature allows the downloaded gzipped tarballs to be automatically extracted to the user-specified directory where the tarball can have symbolic links and hard links. A well-crafted tarball or tarballs allow malicious artifact providers linking, writing, or overwriting specific files on the host filesystem outside of the user-specified directory unexpectedly with the same permissions as the user who runs `oras pull`. Users of the affected versions are impacted if they are `oras` CLI users who runs `oras pull`, or if they are Go programs, which invoke `github.com/deislabs/oras/pkg/content.FileStore`. The problem has been fixed in version 0.9.0. For `oras` CLI users, there is no workarounds other than pulling from a trusted artifact provider. For `oras` package users, the workaround is to not use `github.com/deislabs/oras/pkg/content.FileStore`, and use other content stores instead, or pull from a trusted artifact provider.
 - [Live-Hack-CVE/CVE-2021-21272](https://github.com/Live-Hack-CVE/CVE-2021-21272)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21272">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21272">
 - [Live-Hack-CVE/CVE-2021-21272](https://github.com/Live-Hack-CVE/CVE-2021-21272)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21272">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21272">
+
+---
+## CVE-2021-21264 (2021-05-03T16:15:00)
+> October is a free, open-source, self-hosted CMS platform based on the Laravel PHP Framework. A bypass of CVE-2020-26231 (fixed in 1.0.470/471 and 1.1.1) was discovered that has the same impact as CVE-2020-26231 & CVE-2020-15247. An authenticated backend user with the `cms.manage_pages`, `cms.manage_layouts`, or `cms.manage_partials` permissions who would **normally** not be permitted to provide PHP code to be executed by the CMS due to `cms.enableSafeMode` being enabled is able to write specific Twig code to escape the Twig sandbox and execute arbitrary PHP. This is not a problem for anyone that trusts their users with those permissions to normally write & manage PHP within the CMS by not having `cms.enableSafeMode` enabled, but would be a problem for anyone relying on `cms.enableSafeMode` to ensure that users with those permissions in production do not have access to write & execute arbitrary PHP. Issue has been patched in Build 472 (v1.0.472) and v1.1.2. As a workaround, apply https://github.com/octobercms/october/commit/f63519ff1e8d375df30deba63156a2fc97aa9ee7 to your installation manually if unable to upgrade to Build 472 or v1.1.2.
+- [Live-Hack-CVE/CVE-2021-21264](https://github.com/Live-Hack-CVE/CVE-2021-21264)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21264">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21264">
 
 ---
 ## CVE-2021-21255 (2021-03-02T20:15:00)

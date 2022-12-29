@@ -5516,6 +5516,21 @@
 - [Live-Hack-CVE/CVE-2022-42149](https://github.com/Live-Hack-CVE/CVE-2022-42149)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42149">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42149">
 
 ---
+## CVE-2022-42147 (2022-10-17T21:15:00)
+> kkFileView 4.0 is vulnerable to Cross Site Scripting (XSS) via controller\ Filecontroller.java.
+- [Live-Hack-CVE/CVE-2022-42147](https://github.com/Live-Hack-CVE/CVE-2022-42147)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42147">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42147">
+
+---
+## CVE-2022-42143 (2022-10-17T21:15:00)
+> Open Source SACCO Management System v1.0 is vulnerable to SQL Injection via /sacco_shield/manage_payment.php.
+- [Live-Hack-CVE/CVE-2022-42143](https://github.com/Live-Hack-CVE/CVE-2022-42143)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42143">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42143">
+
+---
+## CVE-2022-42142 (2022-10-17T21:15:00)
+> Online Tours & Travels Management System v1.0 is vulnerable to Arbitrary code execution via ip/tour/admin/operations/update_settings.php.
+- [Live-Hack-CVE/CVE-2022-42142](https://github.com/Live-Hack-CVE/CVE-2022-42142)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42142">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42142">
+
+---
 ## CVE-2022-42141 (2022-12-14T00:15:00)
 > Delta Electronics DX-2100-L1-CN 2.42 is vulnerable to Cross Site Scripting (XSS) via lform/urlfilter.
 - [Live-Hack-CVE/CVE-2022-42141](https://github.com/Live-Hack-CVE/CVE-2022-42141)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42141">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42141">
@@ -11632,6 +11647,11 @@
 - [Live-Hack-CVE/CVE-2022-37772](https://github.com/Live-Hack-CVE/CVE-2022-37772)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37772">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37772">
 
 ---
+## CVE-2022-37767 (2022-09-12T14:15:00)
+> ** DISPUTED ** Pebble Templates 3.1.5 allows attackers to bypass a protection mechanism and implement arbitrary code execution with springbok. NOTE: the vendor disputes this because input to the Pebble templating engine is intended to include arbitrary Java code, and thus either the input should not arrive from an untrusted source, or else the application using the engine should apply restrictions to the input. The engine is not responsible for validating the input.
+- [Live-Hack-CVE/CVE-2022-37767](https://github.com/Live-Hack-CVE/CVE-2022-37767)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37767">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37767">
+
+---
 ## CVE-2022-3776 (2022-11-03T17:15:00)
 > The Restaurant Menu – Food Ordering System – Table Reservation plugin for WordPress is vulnerable to Cross-Site Request Forgery in versions up to, and including, 2.3.1. This is due to missing or incorrect nonce validation on several functions called via AJAX actions such as forms_action, set_option, & chosen_options to name a few . This makes it possible for unauthenticated attackers to perform a variety of administrative actions like modifying forms, via a forged request granted they can trick a site administrator into performing an action such as clicking on a link.
 - [Live-Hack-CVE/CVE-2022-3776](https://github.com/Live-Hack-CVE/CVE-2022-3776)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3776">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3776">
@@ -15237,6 +15257,11 @@
 - [Live-Hack-CVE/CVE-2022-34218](https://github.com/Live-Hack-CVE/CVE-2022-34218)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34218">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34218">
 
 ---
+## CVE-2022-3421 (2022-10-17T20:15:00)
+> An attacker can pre-create the `/Applications/Google\ Drive.app/Contents/MacOS` directory which is expected to be owned by root to be owned by a non-root user. When the Drive for Desktop installer is run for the first time, it will place a binary in that directory with execute permissions and set its setuid bit. Since the attacker owns the directory, the attacker can replace the binary with a symlink, causing the installer to set the setuid bit on the symlink. When the symlink is executed, it will run with root permissions. We recommend upgrading past version 64.0
+- [Live-Hack-CVE/CVE-2022-3421](https://github.com/Live-Hack-CVE/CVE-2022-3421)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3421">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3421">
+
+---
 ## CVE-2022-3420 (2022-10-31T16:15:00)
 > The Official Integration for Billingo WordPress plugin before 3.4.0 does not sanitise and escape some of its settings, which could allow high privilege users with a role as low as Shop Manager to perform Stored Cross-Site Scripting attacks.
 - [Live-Hack-CVE/CVE-2022-3420](https://github.com/Live-Hack-CVE/CVE-2022-3420)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3420">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3420">
@@ -16675,6 +16700,11 @@
 - [Live-Hack-CVE/CVE-2022-3225](https://github.com/Live-Hack-CVE/CVE-2022-3225)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3225">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3225">
 
 ---
+## CVE-2022-32239 (2022-06-14T20:15:00)
+> When a user opens manipulated JPEG 2000 (.jp2, jp2k.x3d) files received from untrusted sources in SAP 3D Visual Enterprise Viewer, the application crashes and becomes temporarily unavailable to the user until restart of the application.
+- [Live-Hack-CVE/CVE-2022-32239](https://github.com/Live-Hack-CVE/CVE-2022-32239)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32239">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32239">
+
+---
 ## CVE-2022-32234 (2022-10-11T01:15:00)
 > An out of bounds write in hermes, while handling large arrays, prior to commit 06eaec767e376bfdb883d912cb15e987ddf2bda1 allows attackers to potentially execute arbitrary code via crafted JavaScript. Note that this is only exploitable if the application using Hermes permits evaluation of untrusted JavaScript. Hence, most React Native applications are not affected.
 - [Live-Hack-CVE/CVE-2022-32234](https://github.com/Live-Hack-CVE/CVE-2022-32234)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32234">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32234">
@@ -18017,6 +18047,7 @@
 - [shuai06/CVE-2022-30525](https://github.com/shuai06/CVE-2022-30525)	<img alt="forks" src="https://img.shields.io/github/forks/shuai06/CVE-2022-30525">	<img alt="stars" src="https://img.shields.io/github/stars/shuai06/CVE-2022-30525">
 - [Henry4E36/CVE-2022-30525](https://github.com/Henry4E36/CVE-2022-30525)	<img alt="forks" src="https://img.shields.io/github/forks/Henry4E36/CVE-2022-30525">	<img alt="stars" src="https://img.shields.io/github/stars/Henry4E36/CVE-2022-30525">
 - [jbaines-r7/victorian_machinery](https://github.com/jbaines-r7/victorian_machinery)	<img alt="forks" src="https://img.shields.io/github/forks/jbaines-r7/victorian_machinery">	<img alt="stars" src="https://img.shields.io/github/stars/jbaines-r7/victorian_machinery">
+- [Live-Hack-CVE/CVE-2022-30525](https://github.com/Live-Hack-CVE/CVE-2022-30525)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30525">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30525">
 
 ---
 ## CVE-2022-30507 ()
@@ -18564,6 +18595,11 @@
 - [Live-Hack-CVE/CVE-2022-2959](https://github.com/Live-Hack-CVE/CVE-2022-2959)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2959">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2959">
 
 ---
+## CVE-2022-29587 (2022-05-16T06:15:00)
+> Konica Minolta bizhub MFP devices before 2022-04-14 have an internal Chromium browser that executes with root (aka superuser) access privileges.
+- [Live-Hack-CVE/CVE-2022-29587](https://github.com/Live-Hack-CVE/CVE-2022-29587)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29587">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29587">
+
+---
 ## CVE-2022-29586 (2022-05-16T06:15:00)
 > Konica Minolta bizhub MFP devices before 2022-04-14 allow a Sandbox Escape. An attacker must attach a keyboard to a USB port, press F12, and then escape from the kiosk mode.
 - [Live-Hack-CVE/CVE-2022-29586](https://github.com/Live-Hack-CVE/CVE-2022-29586)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29586">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29586">
@@ -18581,6 +18617,7 @@
 - [Nidhi77777/linux-4.19.72_CVE-2022-29581](https://github.com/Nidhi77777/linux-4.19.72_CVE-2022-29581)	<img alt="forks" src="https://img.shields.io/github/forks/Nidhi77777/linux-4.19.72_CVE-2022-29581">	<img alt="stars" src="https://img.shields.io/github/stars/Nidhi77777/linux-4.19.72_CVE-2022-29581">
 - [Nidhi77777/linux-4.19.72_CVE-2022-29581](https://github.com/Nidhi77777/linux-4.19.72_CVE-2022-29581)	<img alt="forks" src="https://img.shields.io/github/forks/Nidhi77777/linux-4.19.72_CVE-2022-29581">	<img alt="stars" src="https://img.shields.io/github/stars/Nidhi77777/linux-4.19.72_CVE-2022-29581">
 - [nidhihcl/linux-4.19.72_CVE-2022-29581](https://github.com/nidhihcl/linux-4.19.72_CVE-2022-29581)	<img alt="forks" src="https://img.shields.io/github/forks/nidhihcl/linux-4.19.72_CVE-2022-29581">	<img alt="stars" src="https://img.shields.io/github/stars/nidhihcl/linux-4.19.72_CVE-2022-29581">
+- [Live-Hack-CVE/CVE-2022-29581](https://github.com/Live-Hack-CVE/CVE-2022-29581)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29581">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29581">
 
 ---
 ## CVE-2022-29580 (2022-12-13T15:15:00)
@@ -20211,6 +20248,12 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-25932](https://github.com/Live-Hack-CVE/CVE-2022-25932)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25932">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25932">
 
 ---
+## CVE-2022-2592 (2022-10-17T16:15:00)
+> A lack of length validation in Snippet descriptions in GitLab CE/EE affecting all versions prior to 15.1.6, 15.2 prior to 15.2.4 and 15.3 prior to 15.3.2 allows an authenticated attacker to create a maliciously large Snippet which when requested with or without authentication places excessive load on the server, potential leading to Denial of Service.
+- [Live-Hack-CVE/CVE-2022-2592](https://github.com/Live-Hack-CVE/CVE-2022-2592)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2592">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2592">
+- [Live-Hack-CVE/CVE-2022-25929](https://github.com/Live-Hack-CVE/CVE-2022-25929)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25929">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25929">
+
+---
 ## CVE-2022-25918 (2022-10-27T10:15:00)
 > The package shescape from 1.5.10 and before 1.6.1 are vulnerable to Regular Expression Denial of Service (ReDoS) via the escape function in index.js, due to the usage of insecure regex in the escapeArgBash function.
 - [Live-Hack-CVE/CVE-2022-25918](https://github.com/Live-Hack-CVE/CVE-2022-25918)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25918">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25918">
@@ -20590,6 +20633,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-25302](https://github.com/Live-Hack-CVE/CVE-2022-25302)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25302">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25302">
 
 ---
+## CVE-2022-2527 (2022-10-17T16:15:00)
+> An issue in Incident Timelines has been discovered in GitLab CE/EE affecting all versions starting from 14.9 before 15.1.6, all versions starting from 15.2 before 15.2.4, all versions starting from 15.3 before 15.3.2.which allowed an authenticated attacker to inject arbitrary content. A victim interacting with this content could lead to arbitrary requests.
+- [Live-Hack-CVE/CVE-2022-2527](https://github.com/Live-Hack-CVE/CVE-2022-2527)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2527">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2527">
+
+---
 ## CVE-2022-25262 (2022-02-25T20:15:00)
 > In JetBrains Hub before 2022.1.14434, SAML request takeover was possible.
 - [yuriisanin/CVE-2022-25262](https://github.com/yuriisanin/CVE-2022-25262)	<img alt="forks" src="https://img.shields.io/github/forks/yuriisanin/CVE-2022-25262">	<img alt="stars" src="https://img.shields.io/github/stars/yuriisanin/CVE-2022-25262">
@@ -20880,6 +20928,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-24562](https://github.com/Live-Hack-CVE/CVE-2022-24562)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24562">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24562">
 
 ---
+## CVE-2022-2455 (2022-10-17T16:15:00)
+> A business logic issue in the handling of large repositories in all versions of GitLab CE/EE from 10.0 before 15.1.6, all versions starting from 15.2 before 15.2.4, all versions starting from 15.3 before 15.3.2 allowed an authenticated and authorized user to exhaust server resources by importing a malicious project.
+- [Live-Hack-CVE/CVE-2022-2455](https://github.com/Live-Hack-CVE/CVE-2022-2455)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2455">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2455">
+
+---
 ## CVE-2022-24523 (2022-04-05T20:15:00)
 > Microsoft Edge (Chromium-based) Spoofing Vulnerability.
 - [Live-Hack-CVE/CVE-2022-24523](https://github.com/Live-Hack-CVE/CVE-2022-24523)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24523">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24523">
@@ -20974,6 +21027,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-24280 (2022-09-23T10:15:00)
 > Improper Input Validation vulnerability in Proxy component of Apache Pulsar allows an attacker to make TCP/IP connection attempts that originate from the Pulsar Proxy's IP address. When the Apache Pulsar Proxy component is used, it is possible to attempt to open TCP/IP connections to any IP address and port that the Pulsar Proxy can connect to. An attacker could use this as a way for DoS attacks that originate from the Pulsar Proxy's IP address. It hasn’t been detected that the Pulsar Proxy authentication can be bypassed. The attacker will have to have a valid token to a properly secured Pulsar Proxy. This issue affects Apache Pulsar Proxy versions 2.7.0 to 2.7.4; 2.8.0 to 2.8.2; 2.9.0 to 2.9.1; 2.6.4 and earlier.
 - [Live-Hack-CVE/CVE-2022-24280](https://github.com/Live-Hack-CVE/CVE-2022-24280)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24280">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24280">
+
+---
+## CVE-2022-2428 (2022-10-17T16:15:00)
+> A crafted tag in the Jupyter Notebook viewer in GitLab EE/CE affecting all versions before 15.1.6, 15.2 to 15.2.4, and 15.3 to 15.3.2 allows an attacker to issue arbitrary HTTP requests
+- [Live-Hack-CVE/CVE-2022-2428](https://github.com/Live-Hack-CVE/CVE-2022-2428)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2428">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2428">
 
 ---
 ## CVE-2022-2422 (2022-10-26T10:15:00)
@@ -22598,6 +22656,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-21601 (2022-10-18T21:15:00)
 > Vulnerability in the Oracle Communications Billing and Revenue Management product of Oracle Communications Applications (component: Connection Manager). Supported versions that are affected are 12.0.0.4.0-12.0.0.7.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via TCP to compromise Oracle Communications Billing and Revenue Management. Successful attacks of this vulnerability can result in unauthorized read access to a subset of Oracle Communications Billing and Revenue Management accessible data and unauthorized ability to cause a partial denial of service (partial DOS) of Oracle Communications Billing and Revenue Management. CVSS 3.1 Base Score 6.5 (Confidentiality and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:L).
 - [Live-Hack-CVE/CVE-2022-21601](https://github.com/Live-Hack-CVE/CVE-2022-21601)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21601">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21601">
+
+---
+## CVE-2022-21597 (2022-10-18T21:15:00)
+> Vulnerability in the Oracle GraalVM Enterprise Edition product of Oracle Java SE (component: JavaScript). Supported versions that are affected are Oracle GraalVM Enterprise Edition: 20.3.7, 21.3.3 and 22.2.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle GraalVM Enterprise Edition. Successful attacks of this vulnerability can result in unauthorized read access to a subset of Oracle GraalVM Enterprise Edition accessible data. CVSS 3.1 Base Score 5.3 (Confidentiality impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N).
+- [Live-Hack-CVE/CVE-2022-21597](https://github.com/Live-Hack-CVE/CVE-2022-21597)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21597">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21597">
 
 ---
 ## CVE-2022-21595 (2022-10-18T21:15:00)
@@ -24467,6 +24530,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [hkzck/CVE-2022-14733](https://github.com/hkzck/CVE-2022-14733)	<img alt="forks" src="https://img.shields.io/github/forks/hkzck/CVE-2022-14733">	<img alt="stars" src="https://img.shields.io/github/stars/hkzck/CVE-2022-14733">
 
 ---
+## CVE-2022-1473 (2022-05-03T16:15:00)
+> The OPENSSL_LH_flush() function, which empties a hash table, contains a bug that breaks reuse of the memory occuppied by the removed hash table entries. This function is used when decoding certificates or keys. If a long lived process periodically decodes certificates or keys its memory usage will expand without bounds and the process might be terminated by the operating system causing a denial of service. Also traversing the empty hash table entries will take increasingly more time. Typically such long lived processes might be TLS clients or TLS servers configured to accept client certificate authentication. The function was added in the OpenSSL 3.0 version thus older releases are not affected by the issue. Fixed in OpenSSL 3.0.3 (Affected 3.0.0,3.0.1,3.0.2).
+- [Live-Hack-CVE/CVE-2022-1473](https://github.com/Live-Hack-CVE/CVE-2022-1473)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1473">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1473">
+
+---
 ## CVE-2022-1471 (2022-12-01T11:15:00)
 > SnakeYaml's Constructor() class does not restrict types which can be instantiated during deserialization. Deserializing yaml content provided by an attacker can lead to remote code execution. We recommend using SnakeYaml's SafeConsturctor when parsing untrusted content to restrict deserialization.
 - [Live-Hack-CVE/CVE-2022-1471](https://github.com/Live-Hack-CVE/CVE-2022-1471)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1471">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1471">
@@ -24553,6 +24621,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1348 (2022-05-25T16:15:00)
 > A vulnerability was found in logrotate in how the state file is created. The state file is used to prevent parallel executions of multiple instances of logrotate by acquiring and releasing a file lock. When the state file does not exist, it is created with world-readable permission, allowing an unprivileged user to lock the state file, stopping any rotation. This flaw affects logrotate versions before 3.20.0.
 - [Live-Hack-CVE/CVE-2022-1348](https://github.com/Live-Hack-CVE/CVE-2022-1348)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1348">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1348">
+
+---
+## CVE-2022-1343 (2022-05-03T16:15:00)
+> The function `OCSP_basic_verify` verifies the signer certificate on an OCSP response. In the case where the (non-default) flag OCSP_NOCHECKS is used then the response will be positive (meaning a successful verification) even in the case where the response signing certificate fails to verify. It is anticipated that most users of `OCSP_basic_verify` will not use the OCSP_NOCHECKS flag. In this case the `OCSP_basic_verify` function will return a negative value (indicating a fatal error) in the case of a certificate verification failure. The normal expected return value in this case would be 0. This issue also impacts the command line OpenSSL "ocsp" application. When verifying an ocsp response with the "-no_cert_checks" option the command line application will report that the verification is successful even though it has in fact failed. In this case the incorrect successful response will also be accompanied by error messages showing the failure and contradicting the apparently successful result. Fixed in OpenSSL 3.0.3 (Affected 3.0.0,3.0.1,3.0.2).
+- [Live-Hack-CVE/CVE-2022-1343](https://github.com/Live-Hack-CVE/CVE-2022-1343)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1343">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1343">
 
 ---
 ## CVE-2022-1329 (2022-04-19T21:15:00)
