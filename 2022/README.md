@@ -7994,6 +7994,11 @@
 - [Live-Hack-CVE/CVE-2022-40768](https://github.com/Live-Hack-CVE/CVE-2022-40768)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40768">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40768">
 
 ---
+## CVE-2022-40764 (2022-10-03T15:15:00)
+> Snyk CLI before 1.996.0 allows arbitrary command execution, affecting Snyk IDE plugins and the snyk npm package. Exploitation could follow from the common practice of viewing untrusted files in the Visual Studio Code editor, for example. The original demonstration was with shell metacharacters in the vendor.json ignore field, affecting snyk-go-plugin before 1.19.1. This affects, for example, the Snyk TeamCity plugin (which does not update automatically) before 20220930.142957.
+- [Live-Hack-CVE/CVE-2022-40764](https://github.com/Live-Hack-CVE/CVE-2022-40764)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40764">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40764">
+
+---
 ## CVE-2022-40756 (2022-09-30T19:15:00)
 > If folder security is misconfigured for Actian Zen PSQL BEFORE Patch Update 1 for Zen 15 SP1 (v15.11.005), Patch Update 4 for Zen 15 (v15.01.017), or Patch Update 5 for Zen 14 SP2 (v14.21.022), it can allow an attacker (with file read/write access) to remove specific security files in order to reset the master password and gain access to the database.
 - [Live-Hack-CVE/CVE-2022-40756](https://github.com/Live-Hack-CVE/CVE-2022-40756)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40756">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40756">
@@ -21599,6 +21604,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-24681](https://github.com/Live-Hack-CVE/CVE-2022-24681)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24681">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24681">
 
 ---
+## CVE-2022-24675 (2022-04-20T10:15:00)
+> encoding/pem in Go before 1.17.9 and 1.18.x before 1.18.1 has a Decode stack overflow via a large amount of PEM data.
+- [Live-Hack-CVE/CVE-2022-24675](https://github.com/Live-Hack-CVE/CVE-2022-24675)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24675">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24675">
+
+---
 ## CVE-2022-24670 (2022-10-27T17:15:00)
 > An attacker can use the unrestricted LDAP queries to determine configuration entries
 - [Live-Hack-CVE/CVE-2022-24670](https://github.com/Live-Hack-CVE/CVE-2022-24670)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24670">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24670">
@@ -22108,6 +22118,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-23520](https://github.com/Live-Hack-CVE/CVE-2022-23520)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23520">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23520">
 
 ---
+## CVE-2022-2352 (2022-09-26T13:15:00)
+> The Post SMTP Mailer/Email Log WordPress plugin before 2.1.7 does not have proper authorisation in some AJAX actions, which could allow high privilege users such as admin to perform blind SSRF on multisite installations for example.
+- [Live-Hack-CVE/CVE-2022-2352](https://github.com/Live-Hack-CVE/CVE-2022-2352)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2352">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2352">
+
+---
 ## CVE-2022-23519 (2022-12-14T17:15:00)
 > rails-html-sanitizer is responsible for sanitizing HTML fragments in Rails applications. Prior to version 1.4.4, a possible XSS vulnerability with certain configurations of Rails::Html::Sanitizer may allow an attacker to inject content if the application developer has overridden the sanitizer's allowed tags in either of the following ways: allow both "math" and "style" elements, or allow both "svg" and "style" elements. Code is only impacted if allowed tags are being overridden. . This issue is fixed in version 1.4.4. All users overriding the allowed tags to include "math" or "svg" and "style" should either upgrade or use the following workaround immediately: Remove "style" from the overridden allowed tags, or remove "math" and "svg" from the overridden allowed tags.
 - [Live-Hack-CVE/CVE-2022-23519](https://github.com/Live-Hack-CVE/CVE-2022-23519)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23519">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23519">
@@ -22132,6 +22147,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-23513 (2022-12-23T00:15:00)
 > Pi-Hole is a network-wide ad blocking via your own Linux hardware, AdminLTE is a Pi-hole Dashboard for stats and more. In case of an attack, the threat actor will obtain the ability to perform an unauthorized query for blocked domains on `queryads` endpoint. In the case of application, this vulnerability exists because of a lack of validation in code on a root server path: `/admin/scripts/pi-hole/phpqueryads.php.` Potential threat actor(s) are able to perform an unauthorized query search in blocked domain lists. This could lead to the disclosure for any victims' personal blacklists.
 - [Live-Hack-CVE/CVE-2022-23513](https://github.com/Live-Hack-CVE/CVE-2022-23513)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23513">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23513">
+
+---
+## CVE-2022-2351 (2022-09-16T09:15:00)
+> The Post SMTP Mailer/Email Log WordPress plugin before 2.1.4 does not escape some of its settings before outputting them in the admins dashboard, allowing high privilege users to perform Cross-Site Scripting attacks against other users even when the unfiltered_html capability is disallowed.
+- [Live-Hack-CVE/CVE-2022-2351](https://github.com/Live-Hack-CVE/CVE-2022-2351)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2351">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2351">
 
 ---
 ## CVE-2022-23505 (2022-12-13T08:15:00)
@@ -22400,6 +22420,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-22971 (2022-05-12T20:15:00)
 > In spring framework versions prior to 5.3.20+ , 5.2.22+ and old unsupported versions, application with a STOMP over WebSocket endpoint is vulnerable to a denial of service attack by an authenticated user.
 - [tchize/CVE-2022-22971](https://github.com/tchize/CVE-2022-22971)	<img alt="forks" src="https://img.shields.io/github/forks/tchize/CVE-2022-22971">	<img alt="stars" src="https://img.shields.io/github/stars/tchize/CVE-2022-22971">
+- [Live-Hack-CVE/CVE-2022-22971](https://github.com/Live-Hack-CVE/CVE-2022-22971)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22971">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22971">
 
 ---
 ## CVE-2022-22970 (2022-05-12T20:15:00)
@@ -26167,6 +26188,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-0319 (2022-01-21T14:15:00)
 > Out-of-bounds Read in vim/vim prior to 8.2.
 - [Live-Hack-CVE/CVE-2022-0319](https://github.com/Live-Hack-CVE/CVE-2022-0319)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0319">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0319">
+
+---
+## CVE-2022-0283 (2022-03-28T19:15:00)
+> An issue has been discovered affecting GitLab versions prior to 13.5. An open redirect vulnerability was fixed in GitLab integration with Jira that a could cause the web application to redirect the request to the attacker specified URL.
+- [Live-Hack-CVE/CVE-2022-0283](https://github.com/Live-Hack-CVE/CVE-2022-0283)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0283">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0283">
 
 ---
 ## CVE-2022-0261 (2022-01-18T16:15:00)

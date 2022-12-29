@@ -1251,6 +1251,7 @@
 - [systemcaller/CVE-2021-41773](https://github.com/systemcaller/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/systemcaller/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/systemcaller/CVE-2021-41773">
 - [sne4ker/apache-CVE-2021-41773-CVE-2021-42013](https://github.com/sne4ker/apache-CVE-2021-41773-CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/sne4ker/apache-CVE-2021-41773-CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/sne4ker/apache-CVE-2021-41773-CVE-2021-42013">
 - [blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution](https://github.com/blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution">
+- [Live-Hack-CVE/CVE-2021-42013](https://github.com/Live-Hack-CVE/CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42013">
 
 ---
 ## CVE-2021-42010 (2022-10-24T14:15:00)
@@ -1266,6 +1267,11 @@
 ## CVE-2021-41992 (2022-04-30T22:15:00)
 > A misconfiguration of RSA in PingID Windows Login prior to 2.7 is vulnerable to pre-computed dictionary attacks, leading to an offline MFA bypass.
 - [Live-Hack-CVE/CVE-2021-41992](https://github.com/Live-Hack-CVE/CVE-2021-41992)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41992">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41992">
+
+---
+## CVE-2021-4197 (2022-03-23T20:15:00)
+> An unprivileged write to the file handler flaw in the Linux kernel's control groups and namespaces subsystem was found in the way users have access to some less privileged process that are controlled by cgroups and have higher privileged parent process. It is actually both for cgroup2 and cgroup1 versions of control groups. A local user could use this flaw to crash the system or escalate their privileges on the system.
+- [Live-Hack-CVE/CVE-2021-4197](https://github.com/Live-Hack-CVE/CVE-2021-4197)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4197">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4197">
 
 ---
 ## CVE-2021-41946 (2022-05-18T11:15:00)
@@ -1642,6 +1648,19 @@
 ## CVE-2021-41078 (2021-10-26T13:15:00)
 > Nameko through 2.13.0 can be tricked into performing arbitrary code execution when deserializing the config file.
 - [s-index/CVE-2021-41078](https://github.com/s-index/CVE-2021-41078)	<img alt="forks" src="https://img.shields.io/github/forks/s-index/CVE-2021-41078">	<img alt="stars" src="https://img.shields.io/github/stars/s-index/CVE-2021-41078">
+
+---
+## CVE-2021-4104 (2021-12-14T12:15:00)
+> JMSAppender in Log4j 1.2 is vulnerable to deserialization of untrusted data when the attacker has write access to the Log4j configuration. The attacker can provide TopicBindingName and TopicConnectionFactoryBindingName configurations causing JMSAppender to perform JNDI requests that result in remote code execution in a similar fashion to CVE-2021-44228. Note this issue only affects Log4j 1.2 when specifically configured to use JMSAppender, which is not the default. Apache Log4j 1.2 reached end of life in August 2015. Users should upgrade to Log4j 2 as it addresses numerous other issues from the previous versions.
+- [Live-Hack-CVE/CVE-2021-4104](https://github.com/Live-Hack-CVE/CVE-2021-4104)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4104">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4104">
+- [NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell)	<img alt="forks" src="https://img.shields.io/github/forks/NCSC-NL/log4shell">	<img alt="stars" src="https://img.shields.io/github/stars/NCSC-NL/log4shell">
+- [logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/logpresso/CVE-2021-44228-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/logpresso/CVE-2021-44228-Scanner">
+- [Qualys/log4jscanwin](https://github.com/Qualys/log4jscanwin)	<img alt="forks" src="https://img.shields.io/github/forks/Qualys/log4jscanwin">	<img alt="stars" src="https://img.shields.io/github/stars/Qualys/log4jscanwin">
+- [HynekPetrak/log4shell-finder](https://github.com/HynekPetrak/log4shell-finder)	<img alt="forks" src="https://img.shields.io/github/forks/HynekPetrak/log4shell-finder">	<img alt="stars" src="https://img.shields.io/github/stars/HynekPetrak/log4shell-finder">
+- [thl-cmk/CVE-log4j-check_mk-plugin](https://github.com/thl-cmk/CVE-log4j-check_mk-plugin)	<img alt="forks" src="https://img.shields.io/github/forks/thl-cmk/CVE-log4j-check_mk-plugin">	<img alt="stars" src="https://img.shields.io/github/stars/thl-cmk/CVE-log4j-check_mk-plugin">
+- [open-AIMS/log4j](https://github.com/open-AIMS/log4j)	<img alt="forks" src="https://img.shields.io/github/forks/open-AIMS/log4j">	<img alt="stars" src="https://img.shields.io/github/stars/open-AIMS/log4j">
+- [TheInterception/Log4J-Simulation-Tool](https://github.com/TheInterception/Log4J-Simulation-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/TheInterception/Log4J-Simulation-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/TheInterception/Log4J-Simulation-Tool">
+- [cckuailong/log4shell_1.x](https://github.com/cckuailong/log4shell_1.x)	<img alt="forks" src="https://img.shields.io/github/forks/cckuailong/log4shell_1.x">	<img alt="stars" src="https://img.shields.io/github/stars/cckuailong/log4shell_1.x">
 
 ---
 ## CVE-2021-40978 (2021-10-07T14:15:00)
@@ -2533,6 +2552,11 @@
 - [Live-Hack-CVE/CVE-2021-38161](https://github.com/Live-Hack-CVE/CVE-2021-38161)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38161">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38161">
 
 ---
+## CVE-2021-38153 (2021-09-22T09:15:00)
+> Some components in Apache Kafka use `Arrays.equals` to validate a password or key, which is vulnerable to timing attacks that make brute force attacks for such credentials more likely to be successful. Users should upgrade to 2.8.1 or higher, or 3.0.0 or higher where this vulnerability has been fixed. The affected versions include Apache Kafka 2.0.0, 2.0.1, 2.1.0, 2.1.1, 2.2.0, 2.2.1, 2.2.2, 2.3.0, 2.3.1, 2.4.0, 2.4.1, 2.5.0, 2.5.1, 2.6.0, 2.6.1, 2.6.2, 2.7.0, 2.7.1, and 2.8.0.
+- [Live-Hack-CVE/CVE-2021-38153](https://github.com/Live-Hack-CVE/CVE-2021-38153)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38153">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38153">
+
+---
 ## CVE-2021-3813 (2022-02-09T15:15:00)
 > Improper Privilege Management in GitHub repository chatwoot/chatwoot prior to v2.2.
 - [Live-Hack-CVE/CVE-2021-3813](https://github.com/Live-Hack-CVE/CVE-2021-3813)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3813">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3813">
@@ -2707,6 +2731,11 @@
 ## CVE-2021-37147 (2021-11-03T16:15:00)
 > Improper input validation vulnerability in header parsing of Apache Traffic Server allows an attacker to smuggle requests. This issue affects Apache Traffic Server 8.0.0 to 8.1.2 and 9.0.0 to 9.1.0.
 - [Live-Hack-CVE/CVE-2021-37147](https://github.com/Live-Hack-CVE/CVE-2021-37147)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37147">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37147">
+
+---
+## CVE-2021-37137 (2021-10-19T15:15:00)
+> The Snappy frame decoder function doesn't restrict the chunk length which may lead to excessive memory usage. Beside this it also may buffer reserved skippable chunks until the whole chunk was received which may lead to excessive memory usage as well. This vulnerability can be triggered by supplying malicious input that decompresses to a very big size (via a network stream or a file) or by sending a huge skippable chunk.
+- [Live-Hack-CVE/CVE-2021-37137](https://github.com/Live-Hack-CVE/CVE-2021-37137)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37137">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37137">
 
 ---
 ## CVE-2021-3707 (2021-08-16T05:15:00)
@@ -3132,6 +3161,11 @@
 ## CVE-2021-3583 (2021-09-22T12:15:00)
 > A flaw was found in Ansible, where a user's controller is vulnerable to template injection. This issue can occur through facts used in the template if the user is trying to put templates in multi-line YAML strings and the facts being handled do not routinely include special template characters. This flaw allows attackers to perform command injection, which discloses sensitive information. The highest threat from this vulnerability is to confidentiality and integrity.
 - [Live-Hack-CVE/CVE-2021-3583](https://github.com/Live-Hack-CVE/CVE-2021-3583)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3583">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3583">
+
+---
+## CVE-2021-3582 (2022-03-25T19:15:00)
+> A flaw was found in the QEMU implementation of VMWare's paravirtual RDMA device. The issue occurs while handling a "PVRDMA_CMD_CREATE_MR" command due to improper memory remapping (mremap). This flaw allows a malicious guest to crash the QEMU process on the host. The highest threat from this vulnerability is to system availability.
+- [Live-Hack-CVE/CVE-2021-3582](https://github.com/Live-Hack-CVE/CVE-2021-3582)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3582">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3582">
 
 ---
 ## CVE-2021-3578 (2022-02-16T19:15:00)
@@ -6028,6 +6062,11 @@
 ## CVE-2021-21955 (2021-12-09T16:15:00)
 > An authentication bypass vulnerability exists in the get_aes_key_info_by_packetid() function of the home_security binary of Anker Eufy Homebase 2 2.1.6.9h. Generic network sniffing can lead to password recovery. An attacker can sniff network traffic to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2021-21955](https://github.com/Live-Hack-CVE/CVE-2021-21955)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21955">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21955">
+
+---
+## CVE-2021-21912 (2021-12-22T19:15:00)
+> A privilege escalation vulnerability exists in the Windows version of installation for Advantech R-SeeNet Advantech R-SeeNet 2.4.15 (30.07.2021). A specially-crafted file can be replaced in the system to escalate privileges to NT SYSTEM authority. An attacker can provide a malicious file to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-21912](https://github.com/Live-Hack-CVE/CVE-2021-21912)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21912">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21912">
 
 ---
 ## CVE-2021-21897 (2021-09-08T16:15:00)

@@ -536,6 +536,16 @@
 - [Live-Hack-CVE/CVE-2020-6624](https://github.com/Live-Hack-CVE/CVE-2020-6624)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6624">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6624">
 
 ---
+## CVE-2020-6564 (2020-09-21T20:15:00)
+> Inappropriate implementation in permissions in Google Chrome prior to 85.0.4183.83 allowed a remote attacker to spoof the contents of a permission dialog via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2020-6564](https://github.com/Live-Hack-CVE/CVE-2020-6564)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6564">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6564">
+
+---
+## CVE-2020-6563 (2020-09-21T20:15:00)
+> Insufficient policy enforcement in intent handling in Google Chrome on Android prior to 85.0.4183.83 allowed a remote attacker to obtain potentially sensitive information from disk via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2020-6563](https://github.com/Live-Hack-CVE/CVE-2020-6563)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6563">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6563">
+
+---
 ## CVE-2020-6498 (2020-06-03T23:15:00)
 > Incorrect implementation in user interface in Google Chrome on iOS prior to 83.0.4103.88 allowed a remote attacker to perform domain spoofing via a crafted HTML page.
 - [Live-Hack-CVE/CVE-2020-6498](https://github.com/Live-Hack-CVE/CVE-2020-6498)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6498">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6498">
@@ -1971,6 +1981,11 @@
 - [santokum/CVE-2020-25478--ASUS-RT-AC87U-TFTP-is-vulnerable-to-Denial-of-Service-DoS-attack](https://github.com/santokum/CVE-2020-25478--ASUS-RT-AC87U-TFTP-is-vulnerable-to-Denial-of-Service-DoS-attack)	<img alt="forks" src="https://img.shields.io/github/forks/santokum/CVE-2020-25478--ASUS-RT-AC87U-TFTP-is-vulnerable-to-Denial-of-Service-DoS-attack">	<img alt="stars" src="https://img.shields.io/github/stars/santokum/CVE-2020-25478--ASUS-RT-AC87U-TFTP-is-vulnerable-to-Denial-of-Service-DoS-attack">
 
 ---
+## CVE-2020-25359 (2021-08-20T19:15:00)
+> An arbitrary file deletion vulnerability in rConfig 3.9.5 has been fixed for 3.9.6. This vulnerability gave attackers the ability to send a crafted request to /lib/ajaxHandlers/ajaxDeleteAllLoggingFiles.php by specifying a path in the path parameter and an extension in the ext parameter and delete all the files with that extension in that path.
+- [Live-Hack-CVE/CVE-2020-25359](https://github.com/Live-Hack-CVE/CVE-2020-25359)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25359">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25359">
+
+---
 ## CVE-2020-2527 (2020-01-15T17:15:00)
 > Vulnerability in the Core RDBMS component of Oracle Database Server. Supported versions that are affected are 12.1.0.2, 12.2.0.1, 18c and 19c. Easily exploitable vulnerability allows high privileged attacker having Create Index, Create Table privilege with network access via OracleNet to compromise Core RDBMS. While the vulnerability is in Core RDBMS, attacks may significantly impact additional products. Successful attacks of this vulnerability can result in unauthorized read access to a subset of Core RDBMS accessible data. CVSS 3.0 Base Score 4.1 (Confidentiality impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:H/UI:N/S:C/C:L/I:N/A:N).
 - [Live-Hack-CVE/CVE-2020-2527](https://github.com/Live-Hack-CVE/CVE-2020-2527)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2527">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2527">
@@ -1983,6 +1998,21 @@
 ## CVE-2020-25238 (2021-02-09T17:15:00)
 > A vulnerability has been identified in PCS neo (Administration Console) (All versions < V3.1), TIA Portal (V15, V15.1 and V16). Manipulating certain files in specific folders could allow a local attacker to execute code with SYSTEM privileges. The security vulnerability could be exploited by an attacker with a valid account and limited access rights on the system.
 - [Live-Hack-CVE/CVE-2020-25238](https://github.com/Live-Hack-CVE/CVE-2020-25238)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25238">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25238">
+
+---
+## CVE-2020-25223 (2020-09-25T04:23:00)
+> A remote code execution vulnerability exists in the WebAdmin of Sophos SG UTM before v9.705 MR5, v9.607 MR7, and v9.511 MR11
+- [Live-Hack-CVE/CVE-2020-25223](https://github.com/Live-Hack-CVE/CVE-2020-25223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25223">
+
+---
+## CVE-2020-25218 (2021-03-29T17:15:00)
+> Grandstream GRP261x VoIP phone running firmware version 1.0.3.6 (Base) allow Authentication Bypass in its administrative web interface.
+- [Live-Hack-CVE/CVE-2020-25218](https://github.com/Live-Hack-CVE/CVE-2020-25218)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25218">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25218">
+
+---
+## CVE-2020-25217 (2021-03-29T17:15:00)
+> Grandstream GRP261x VoIP phone running firmware version 1.0.3.6 (Base) allows Command Injection as root in its administrative web interface.
+- [Live-Hack-CVE/CVE-2020-25217](https://github.com/Live-Hack-CVE/CVE-2020-25217)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25217">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25217">
 
 ---
 ## CVE-2020-25213 (2020-09-09T16:15:00)
@@ -2317,6 +2347,11 @@
 - [Live-Hack-CVE/CVE-2020-20951](https://github.com/Live-Hack-CVE/CVE-2020-20951)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-20951">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-20951">
 
 ---
+## CVE-2020-20944 (2021-12-27T21:15:00)
+> An issue in /admin/index.php?lfj=mysql&action=del of Qibosoft v7 allows attackers to arbitrarily delete files.
+- [Live-Hack-CVE/CVE-2020-20944](https://github.com/Live-Hack-CVE/CVE-2020-20944)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-20944">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-20944">
+
+---
 ## CVE-2020-2094 (2020-01-15T16:15:00)
 > A missing permission check in Jenkins Health Advisor by CloudBees Plugin 3.0 and earlier allows attackers with Overall/Read permission to send a fixed email to an attacker-specific recipient.
 - [Live-Hack-CVE/CVE-2020-2094](https://github.com/Live-Hack-CVE/CVE-2020-2094)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2094">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2094">
@@ -2385,6 +2420,11 @@
 - [Live-Hack-CVE/CVE-2020-19907](https://github.com/Live-Hack-CVE/CVE-2020-19907)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-19907">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-19907">
 
 ---
+## CVE-2020-19861 (2022-01-21T15:15:00)
+> When a zone file in ldns 1.7.1 is parsed, the function ldns_nsec3_salt_data is too trusted for the length value obtained from the zone file. When the memcpy is copied, the 0xfe - ldns_rdf_size(salt_rdf) byte data can be copied, causing heap overflow information leakage.
+- [Live-Hack-CVE/CVE-2020-19861](https://github.com/Live-Hack-CVE/CVE-2020-19861)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-19861">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-19861">
+
+---
 ## CVE-2020-19778 (2021-04-14T14:15:00)
 > Incorrect Access Control in Shopxo v1.4.0 and v1.5.0 allows remote attackers to gain privileges in "/index.php" by manipulating the parameter "user_id" in the HTML request.
 - [Live-Hack-CVE/CVE-2020-19778](https://github.com/Live-Hack-CVE/CVE-2020-19778)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-19778">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-19778">
@@ -2420,6 +2460,11 @@
 > A carefully crafted or corrupt PSD file can cause excessive memory usage in Apache Tika's PSDParser in versions 1.0-1.23.
 - [Live-Hack-CVE/CVE-2020-1950](https://github.com/Live-Hack-CVE/CVE-2020-1950)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1950">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1950">
 - [Live-Hack-CVE/CVE-2020-1950](https://github.com/Live-Hack-CVE/CVE-2020-1950)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1950">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1950">
+
+---
+## CVE-2020-19419 (2021-03-10T18:15:00)
+> Incorrect Access Control in Emerson Smart Wireless Gateway 1420 4.6.59 allows remote attackers to obtain sensitive device information from the administrator console without authentication.
+- [Live-Hack-CVE/CVE-2020-19419](https://github.com/Live-Hack-CVE/CVE-2020-19419)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-19419">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-19419">
 
 ---
 ## CVE-2020-1938 (2020-02-24T22:15:00)
@@ -2466,6 +2511,16 @@
 - [Live-Hack-CVE/CVE-2020-19111](https://github.com/Live-Hack-CVE/CVE-2020-19111)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-19111">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-19111">
 
 ---
+## CVE-2020-18731 (2021-08-23T21:15:00)
+> A segmentation violation in the Iec104_Deal_FirmUpdate function of IEC104 v1.0 allows attackers to cause a denial of service (DOS).
+- [Live-Hack-CVE/CVE-2020-18731](https://github.com/Live-Hack-CVE/CVE-2020-18731)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-18731">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-18731">
+
+---
+## CVE-2020-18730 (2021-08-23T21:15:00)
+> A segmentation violation in the Iec104_Deal_I function of IEC104 v1.0 allows attackers to cause a denial of service (DOS).
+- [Live-Hack-CVE/CVE-2020-18730](https://github.com/Live-Hack-CVE/CVE-2020-18730)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-18730">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-18730">
+
+---
 ## CVE-2020-18648 (2021-06-22T15:15:00)
 > Cross Site Request Forgery (CSRF) in JuQingCMS v1.0 allows remote attackers to gain local privileges via the component "JuQingCMS_v1.0/admin/index.php?c=administrator&a=add".
 - [Live-Hack-CVE/CVE-2020-18648](https://github.com/Live-Hack-CVE/CVE-2020-18648)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-18648">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-18648">
@@ -2479,6 +2534,11 @@
 ## CVE-2020-18151 (2021-07-14T19:15:00)
 > Cross Site Request Forgery (CSRF) vulnerability in ThinkCMF v5.1.0, which can add an admin account.
 - [Live-Hack-CVE/CVE-2020-18151](https://github.com/Live-Hack-CVE/CVE-2020-18151)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-18151">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-18151">
+
+---
+## CVE-2020-18127 (2021-08-30T18:15:00)
+> An issue in the /config/config.php component of Indexhibit 2.1.5 allows attackers to arbitrarily view files.
+- [Live-Hack-CVE/CVE-2020-18127](https://github.com/Live-Hack-CVE/CVE-2020-18127)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-18127">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-18127">
 
 ---
 ## CVE-2020-17541 (2021-06-01T15:15:00)
@@ -3240,9 +3300,24 @@
 - [Live-Hack-CVE/CVE-2020-12061](https://github.com/Live-Hack-CVE/CVE-2020-12061)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12061">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12061">
 
 ---
+## CVE-2020-11946 (2020-04-20T21:15:00)
+> Zoho ManageEngine OpManager before 125120 allows an unauthenticated user to retrieve an API key via a servlet call.
+- [Live-Hack-CVE/CVE-2020-11946](https://github.com/Live-Hack-CVE/CVE-2020-11946)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-11946">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-11946">
+
+---
+## CVE-2020-11922 (2021-04-02T16:15:00)
+> An issue was discovered in WiZ Colors A60 1.14.0. The device sends unnecessary information to the cloud controller server. Although this information is sent encrypted and has low risk in isolation, it decreases the privacy of the end user. The information sent includes the local IP address being used and the SSID of the Wi-Fi network the device is connected to. (Various resources such as wigle.net can be use for mapping of SSIDs to physical locations.)
+- [Live-Hack-CVE/CVE-2020-11922](https://github.com/Live-Hack-CVE/CVE-2020-11922)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-11922">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-11922">
+
+---
 ## CVE-2020-11884 (2020-04-29T13:15:00)
 > In the Linux kernel 4.19 through 5.6.7 on the s390 platform, code execution may occur because of a race condition, as demonstrated by code in enable_sacf_uaccess in arch/s390/lib/uaccess.c that fails to protect against a concurrent page table upgrade, aka CID-3f777e19d171. A crash could also occur.
 - [Live-Hack-CVE/CVE-2020-11884](https://github.com/Live-Hack-CVE/CVE-2020-11884)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-11884">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-11884">
+
+---
+## CVE-2020-11875 (2020-04-17T14:15:00)
+> An issue was discovered on LG mobile devices with Android OS 8.0, 8.1, 9.0, and 10.0 (MTK chipsets) software. The MTK kernel does not properly implement exception handling, allowing an attacker to gain privileges. The LG ID is LVE-SMP-200001 (February 2020).
+- [Live-Hack-CVE/CVE-2020-11875](https://github.com/Live-Hack-CVE/CVE-2020-11875)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-11875">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-11875">
 
 ---
 ## CVE-2020-11858 (2020-10-27T17:15:00)
@@ -3284,6 +3359,16 @@
 ## CVE-2020-11759 (2020-04-14T23:15:00)
 > An issue was discovered in OpenEXR before 2.4.1. Because of integer overflows in CompositeDeepScanLine::Data::handleDeepFrameBuffer and readSampleCountForLineBlock, an attacker can write to an out-of-bounds pointer.
 - [Live-Hack-CVE/CVE-2020-11759](https://github.com/Live-Hack-CVE/CVE-2020-11759)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-11759">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-11759">
+
+---
+## CVE-2020-11753 (2020-04-20T19:15:00)
+> An issue was discovered in Sonatype Nexus Repository Manager in versions 3.21.1 and 3.22.0. It is possible for a user with appropriate privileges to create, modify, and execute scripting tasks without use of the UI or API. NOTE: in 3.22.0, scripting is disabled by default (making this not exploitable).
+- [Live-Hack-CVE/CVE-2020-11753](https://github.com/Live-Hack-CVE/CVE-2020-11753)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-11753">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-11753">
+
+---
+## CVE-2020-11738 (2020-04-13T22:15:00)
+> The Snap Creek Duplicator plugin before 1.3.28 for WordPress (and Duplicator Pro before 3.8.7.1) allows Directory Traversal via ../ in the file parameter to duplicator_download or duplicator_init.
+- [Live-Hack-CVE/CVE-2020-11738](https://github.com/Live-Hack-CVE/CVE-2020-11738)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-11738">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-11738">
 
 ---
 ## CVE-2020-11066 (2020-05-14T00:15:00)
