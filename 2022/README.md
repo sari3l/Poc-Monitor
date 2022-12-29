@@ -21534,6 +21534,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [LightningGod7/CVE-2022-24706-POC](https://github.com/LightningGod7/CVE-2022-24706-POC)	<img alt="forks" src="https://img.shields.io/github/forks/LightningGod7/CVE-2022-24706-POC">	<img alt="stars" src="https://img.shields.io/github/stars/LightningGod7/CVE-2022-24706-POC">
 
 ---
+## CVE-2022-24681 (2022-04-07T22:15:00)
+> Zoho ManageEngine ADSelfService Plus before 6121 allows XSS via the welcome name attribute to the Reset Password, Unlock Account, or User Must Change Password screen.
+- [Live-Hack-CVE/CVE-2022-24681](https://github.com/Live-Hack-CVE/CVE-2022-24681)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24681">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24681">
+
+---
 ## CVE-2022-24670 (2022-10-27T17:15:00)
 > An attacker can use the unrestricted LDAP queries to determine configuration entries
 - [Live-Hack-CVE/CVE-2022-24670](https://github.com/Live-Hack-CVE/CVE-2022-24670)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24670">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24670">
