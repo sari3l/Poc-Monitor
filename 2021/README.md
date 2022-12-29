@@ -1599,6 +1599,11 @@
 - [Live-Hack-CVE/CVE-2021-41177](https://github.com/Live-Hack-CVE/CVE-2021-41177)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41177">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41177">
 
 ---
+## CVE-2021-41165 (2021-11-17T20:15:00)
+> CKEditor4 is an open source WYSIWYG HTML editor. In affected version a vulnerability has been discovered in the core HTML processing module and may affect all plugins used by CKEditor 4. The vulnerability allowed to inject malformed comments HTML bypassing content sanitization, which could result in executing JavaScript code. It affects all users using the CKEditor 4 at version < 4.17.0. The problem has been recognized and patched. The fix will be available in version 4.17.0.
+- [Live-Hack-CVE/CVE-2021-41165](https://github.com/Live-Hack-CVE/CVE-2021-41165)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41165">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41165">
+
+---
 ## CVE-2021-41164 (2021-11-17T19:15:00)
 > CKEditor4 is an open source WYSIWYG HTML editor. In affected versions a vulnerability has been discovered in the Advanced Content Filter (ACF) module and may affect all plugins used by CKEditor 4. The vulnerability allowed to inject malformed HTML bypassing content sanitization, which could result in executing JavaScript code. It affects all users using the CKEditor 4 at version < 4.17.0. The problem has been recognized and patched. The fix will be available in version 4.17.0.
 - [Live-Hack-CVE/CVE-2021-41164](https://github.com/Live-Hack-CVE/CVE-2021-41164)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41164">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41164">
@@ -2215,6 +2220,11 @@
 - [Live-Hack-CVE/CVE-2021-3928](https://github.com/Live-Hack-CVE/CVE-2021-3928)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3928">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3928">
 
 ---
+## CVE-2021-39275 (2021-09-16T15:15:00)
+> ap_escape_quotes() may write beyond the end of a buffer when given malicious input. No included modules pass untrusted data to these functions, but third-party / external modules may. This issue affects Apache HTTP Server 2.4.48 and earlier.
+- [Live-Hack-CVE/CVE-2021-39275](https://github.com/Live-Hack-CVE/CVE-2021-39275)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39275">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39275">
+
+---
 ## CVE-2021-39272 (2021-08-30T06:15:00)
 > Fetchmail before 6.4.22 fails to enforce STARTTLS session encryption in some circumstances, such as a certain situation with IMAP and PREAUTH.
 - [Live-Hack-CVE/CVE-2021-39272](https://github.com/Live-Hack-CVE/CVE-2021-39272)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39272">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39272">
@@ -2283,6 +2293,51 @@
 ## CVE-2021-39159 (2021-08-25T19:15:00)
 > BinderHub is a kubernetes-based cloud service that allows users to share reproducible interactive computing environments from code repositories. In affected versions a remote code execution vulnerability has been identified in BinderHub, where providing BinderHub with maliciously crafted input could execute code in the BinderHub context, with the potential to egress credentials of the BinderHub deployment, including JupyterHub API tokens, kubernetes service accounts, and docker registry credentials. This may provide the ability to manipulate images and other user created pods in the deployment, with the potential to escalate to the host depending on the underlying kubernetes configuration. Users are advised to update to version 0.2.0-n653. If users are unable to update they may disable the git repo provider by specifying the `BinderHub.repo_providers` as a workaround.
 - [Live-Hack-CVE/CVE-2021-39159](https://github.com/Live-Hack-CVE/CVE-2021-39159)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39159">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39159">
+
+---
+## CVE-2021-39154 (2021-08-23T18:15:00)
+> XStream is a simple library to serialize objects to XML and back again. In affected versions this vulnerability may allow a remote attacker to load and execute arbitrary code from a remote host only by manipulating the processed input stream. No user is affected, who followed the recommendation to setup XStream's security framework with a whitelist limited to the minimal required types. XStream 1.4.18 uses no longer a blacklist by default, since it cannot be secured for general purpose.
+- [Live-Hack-CVE/CVE-2021-39154](https://github.com/Live-Hack-CVE/CVE-2021-39154)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39154">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39154">
+
+---
+## CVE-2021-39153 (2021-08-23T18:15:00)
+> XStream is a simple library to serialize objects to XML and back again. In affected versions this vulnerability may allow a remote attacker to load and execute arbitrary code from a remote host only by manipulating the processed input stream, if using the version out of the box with Java runtime version 14 to 8 or with JavaFX installed. No user is affected, who followed the recommendation to setup XStream's security framework with a whitelist limited to the minimal required types. XStream 1.4.18 uses no longer a blacklist by default, since it cannot be secured for general purpose.
+- [Live-Hack-CVE/CVE-2021-39153](https://github.com/Live-Hack-CVE/CVE-2021-39153)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39153">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39153">
+
+---
+## CVE-2021-39152 (2021-08-23T19:15:00)
+> XStream is a simple library to serialize objects to XML and back again. In affected versions this vulnerability may allow a remote attacker to request data from internal resources that are not publicly available only by manipulating the processed input stream with a Java runtime version 14 to 8. No user is affected, who followed the recommendation to setup XStream's security framework with a whitelist limited to the minimal required types. If you rely on XStream's default blacklist of the [Security Framework](https://x-stream.github.io/security.html#framework), you will have to use at least version 1.4.18.
+- [Live-Hack-CVE/CVE-2021-39152](https://github.com/Live-Hack-CVE/CVE-2021-39152)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39152">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39152">
+
+---
+## CVE-2021-39151 (2021-08-23T18:15:00)
+> XStream is a simple library to serialize objects to XML and back again. In affected versions this vulnerability may allow a remote attacker to load and execute arbitrary code from a remote host only by manipulating the processed input stream. No user is affected, who followed the recommendation to setup XStream's security framework with a whitelist limited to the minimal required types. XStream 1.4.18 uses no longer a blacklist by default, since it cannot be secured for general purpose.
+- [Live-Hack-CVE/CVE-2021-39151](https://github.com/Live-Hack-CVE/CVE-2021-39151)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39151">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39151">
+
+---
+## CVE-2021-39150 (2021-08-23T19:15:00)
+> XStream is a simple library to serialize objects to XML and back again. In affected versions this vulnerability may allow a remote attacker to request data from internal resources that are not publicly available only by manipulating the processed input stream with a Java runtime version 14 to 8. No user is affected, who followed the recommendation to setup XStream's security framework with a whitelist limited to the minimal required types. If you rely on XStream's default blacklist of the [Security Framework](https://x-stream.github.io/security.html#framework), you will have to use at least version 1.4.18.
+- [Live-Hack-CVE/CVE-2021-39150](https://github.com/Live-Hack-CVE/CVE-2021-39150)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39150">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39150">
+
+---
+## CVE-2021-39149 (2021-08-23T18:15:00)
+> XStream is a simple library to serialize objects to XML and back again. In affected versions this vulnerability may allow a remote attacker to load and execute arbitrary code from a remote host only by manipulating the processed input stream. No user is affected, who followed the recommendation to setup XStream's security framework with a whitelist limited to the minimal required types. XStream 1.4.18 uses no longer a blacklist by default, since it cannot be secured for general purpose.
+- [Live-Hack-CVE/CVE-2021-39149](https://github.com/Live-Hack-CVE/CVE-2021-39149)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39149">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39149">
+
+---
+## CVE-2021-39148 (2021-08-23T18:15:00)
+> XStream is a simple library to serialize objects to XML and back again. In affected versions this vulnerability may allow a remote attacker to load and execute arbitrary code from a remote host only by manipulating the processed input stream. No user is affected, who followed the recommendation to setup XStream's security framework with a whitelist limited to the minimal required types. XStream 1.4.18 uses no longer a blacklist by default, since it cannot be secured for general purpose.
+- [Live-Hack-CVE/CVE-2021-39148](https://github.com/Live-Hack-CVE/CVE-2021-39148)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39148">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39148">
+
+---
+## CVE-2021-39147 (2021-08-23T18:15:00)
+> XStream is a simple library to serialize objects to XML and back again. In affected versions this vulnerability may allow a remote attacker to load and execute arbitrary code from a remote host only by manipulating the processed input stream. No user is affected, who followed the recommendation to setup XStream's security framework with a whitelist limited to the minimal required types. XStream 1.4.18 uses no longer a blacklist by default, since it cannot be secured for general purpose.
+- [Live-Hack-CVE/CVE-2021-39147](https://github.com/Live-Hack-CVE/CVE-2021-39147)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39147">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39147">
+
+---
+## CVE-2021-39146 (2021-08-23T18:15:00)
+> XStream is a simple library to serialize objects to XML and back again. In affected versions this vulnerability may allow a remote attacker to load and execute arbitrary code from a remote host only by manipulating the processed input stream. No user is affected, who followed the recommendation to setup XStream's security framework with a whitelist limited to the minimal required types. XStream 1.4.18 uses no longer a blacklist by default, since it cannot be secured for general purpose.
+- [Live-Hack-CVE/CVE-2021-39146](https://github.com/Live-Hack-CVE/CVE-2021-39146)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39146">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39146">
 
 ---
 ## CVE-2021-39144 (2021-08-23T18:15:00)
@@ -6087,6 +6142,11 @@
 ## CVE-2021-21955 (2021-12-09T16:15:00)
 > An authentication bypass vulnerability exists in the get_aes_key_info_by_packetid() function of the home_security binary of Anker Eufy Homebase 2 2.1.6.9h. Generic network sniffing can lead to password recovery. An attacker can sniff network traffic to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2021-21955](https://github.com/Live-Hack-CVE/CVE-2021-21955)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21955">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21955">
+
+---
+## CVE-2021-21936 (2021-12-22T19:15:00)
+> A specially-crafted HTTP request can lead to SQL injection. An attacker can make authenticated HTTP requests to trigger this vulnerability at ‘health_alt_filter’ parameter. This can be done as any authenticated user or through cross-site request forgery.
+- [Live-Hack-CVE/CVE-2021-21936](https://github.com/Live-Hack-CVE/CVE-2021-21936)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21936">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21936">
 
 ---
 ## CVE-2021-21912 (2021-12-22T19:15:00)

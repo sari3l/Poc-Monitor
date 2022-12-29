@@ -6872,6 +6872,46 @@
 - [Live-Hack-CVE/CVE-2022-4144](https://github.com/Live-Hack-CVE/CVE-2022-4144)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4144">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4144">
 
 ---
+## CVE-2022-41428 (2022-10-03T14:15:00)
+> Bento4 v1.6.0-639 was discovered to contain a heap overflow via the AP4_BitReader::ReadBits function in mp4mux.
+- [Live-Hack-CVE/CVE-2022-41428](https://github.com/Live-Hack-CVE/CVE-2022-41428)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41428">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41428">
+
+---
+## CVE-2022-41427 (2022-10-03T14:15:00)
+> Bento4 v1.6.0-639 was discovered to contain a memory leak in the AP4_AvcFrameParser::Feed function in mp4mux.
+- [Live-Hack-CVE/CVE-2022-41427](https://github.com/Live-Hack-CVE/CVE-2022-41427)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41427">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41427">
+
+---
+## CVE-2022-41426 (2022-10-03T14:15:00)
+> Bento4 v1.6.0-639 was discovered to contain a memory leak via the AP4_AtomFactory::CreateAtomFromStream function in mp4split.
+- [Live-Hack-CVE/CVE-2022-41426](https://github.com/Live-Hack-CVE/CVE-2022-41426)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41426">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41426">
+
+---
+## CVE-2022-41425 (2022-10-03T14:15:00)
+> Bento4 v1.6.0-639 was discovered to contain a segmentation violation via the AP4_Processor::ProcessFragments function in mp4decrypt.
+- [Live-Hack-CVE/CVE-2022-41425](https://github.com/Live-Hack-CVE/CVE-2022-41425)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41425">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41425">
+
+---
+## CVE-2022-41424 (2022-10-03T14:15:00)
+> Bento4 v1.6.0-639 was discovered to contain a memory leak via the AP4_SttsAtom::Create function in mp42hls.
+- [Live-Hack-CVE/CVE-2022-41424](https://github.com/Live-Hack-CVE/CVE-2022-41424)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41424">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41424">
+
+---
+## CVE-2022-41423 (2022-10-03T14:15:00)
+> Bento4 v1.6.0-639 was discovered to contain a segmentation violation in the mp4fragment component.
+- [Live-Hack-CVE/CVE-2022-41423](https://github.com/Live-Hack-CVE/CVE-2022-41423)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41423">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41423">
+
+---
+## CVE-2022-41420 (2022-10-03T14:15:00)
+> nasm v2.16 was discovered to contain a stack overflow in the Ndisasm component
+- [Live-Hack-CVE/CVE-2022-41420](https://github.com/Live-Hack-CVE/CVE-2022-41420)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41420">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41420">
+
+---
+## CVE-2022-41419 (2022-10-03T14:15:00)
+> Bento4 v1.6.0-639 was discovered to contain a memory leak via the AP4_Processor::Process function in the mp4encrypt binary.
+- [Live-Hack-CVE/CVE-2022-41419](https://github.com/Live-Hack-CVE/CVE-2022-41419)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41419">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41419">
+
+---
 ## CVE-2022-41418 (2022-12-19T20:15:00)
 > An issue in the component BlogEngine/BlogEngine.NET/AppCode/Api/UploadController.cs of BlogEngine.NET v3.3.8.0 allows attackers to execute arbitrary code via uploading a crafted PNG file.
 - [Live-Hack-CVE/CVE-2022-41418](https://github.com/Live-Hack-CVE/CVE-2022-41418)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41418">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41418">
@@ -7764,6 +7804,11 @@
 - [Live-Hack-CVE/CVE-2022-40923](https://github.com/Live-Hack-CVE/CVE-2022-40923)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40923">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40923">
 
 ---
+## CVE-2022-40922 (2022-10-03T13:15:00)
+> A vulnerability in the LIEF::MachO::BinaryParser::init_and_parse function of LIEF v0.12.1 allows attackers to cause a denial of service (DOS) through a segmentation fault via a crafted MachO file.
+- [Live-Hack-CVE/CVE-2022-40922](https://github.com/Live-Hack-CVE/CVE-2022-40922)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40922">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40922">
+
+---
 ## CVE-2022-40921 (2022-10-12T00:15:00)
 > DedeCMS V5.7.99 was discovered to contain an arbitrary file upload vulnerability via the component /dede/file_manage_control.php.
 - [Live-Hack-CVE/CVE-2022-40921](https://github.com/Live-Hack-CVE/CVE-2022-40921)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40921">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40921">
@@ -8533,6 +8578,21 @@
 - [izdiwho/CVE-2022-40317](https://github.com/izdiwho/CVE-2022-40317)	<img alt="forks" src="https://img.shields.io/github/forks/izdiwho/CVE-2022-40317">	<img alt="stars" src="https://img.shields.io/github/stars/izdiwho/CVE-2022-40317">
 
 ---
+## CVE-2022-40316 (2022-09-30T17:15:00)
+> The H5P activity attempts report did not filter by groups, which in separate groups mode could reveal information to non-editing teachers about attempts/users in groups they should not have access to.
+- [Live-Hack-CVE/CVE-2022-40316](https://github.com/Live-Hack-CVE/CVE-2022-40316)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40316">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40316">
+
+---
+## CVE-2022-40315 (2022-09-30T17:15:00)
+> A limited SQL injection risk was identified in the "browse list of users" site administration page.
+- [Live-Hack-CVE/CVE-2022-40315](https://github.com/Live-Hack-CVE/CVE-2022-40315)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40315">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40315">
+
+---
+## CVE-2022-40313 (2022-09-30T17:15:00)
+> Recursive rendering of Mustache template helpers containing user input could, in some cases, result in an XSS risk or a page failing to load.
+- [Live-Hack-CVE/CVE-2022-40313](https://github.com/Live-Hack-CVE/CVE-2022-40313)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40313">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40313">
+
+---
 ## CVE-2022-40311 (2022-10-21T16:15:00)
 > Auth. (admin+) Stored Cross-Site Scripting (XSS) in Fatcat Apps Analytics Cat plugin <= 1.0.9 on WordPress.
 - [Live-Hack-CVE/CVE-2022-40311](https://github.com/Live-Hack-CVE/CVE-2022-40311)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40311">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40311">
@@ -8843,6 +8903,11 @@
 > A misconfiguration in the Service Mode profile directory of Clash for Windows v0.19.9 allows attackers to escalate privileges and execute arbitrary commands when Service Mode is activated.
 - [LovelyWei/CVE-2022-40126](https://github.com/LovelyWei/CVE-2022-40126)	<img alt="forks" src="https://img.shields.io/github/forks/LovelyWei/CVE-2022-40126">	<img alt="stars" src="https://img.shields.io/github/stars/LovelyWei/CVE-2022-40126">
 - [Live-Hack-CVE/CVE-2022-40126](https://github.com/Live-Hack-CVE/CVE-2022-40126)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40126">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40126">
+
+---
+## CVE-2022-40123 (2022-10-03T13:15:00)
+> mojoPortal v2.7 was discovered to contain a path traversal vulnerability via the "f" parameter at /DesignTools/CssEditor.aspx. This vulnerability allows authenticated attackers to read arbitrary files in the system.
+- [Live-Hack-CVE/CVE-2022-40123](https://github.com/Live-Hack-CVE/CVE-2022-40123)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40123">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40123">
 
 ---
 ## CVE-2022-40122 (2022-09-23T22:15:00)
@@ -16097,6 +16162,11 @@
 - [Live-Hack-CVE/CVE-2022-33890](https://github.com/Live-Hack-CVE/CVE-2022-33890)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33890">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33890">
 
 ---
+## CVE-2022-33889 (2022-10-03T15:15:00)
+> A maliciously crafted GIF or JPEG files when parsed through Autodesk Design Review 2018, and AutoCAD 2023 and 2022 could be used to write beyond the allocated heap buffer. This vulnerability could lead to arbitrary code execution.
+- [Live-Hack-CVE/CVE-2022-33889](https://github.com/Live-Hack-CVE/CVE-2022-33889)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33889">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33889">
+
+---
 ## CVE-2022-33882 (2022-10-03T16:15:00)
 > Under certain conditions, an attacker could create an unintended sphere of control through a vulnerability present in file delete operation in Autodesk desktop app (ADA). An attacker could leverage this vulnerability to escalate privileges and execute arbitrary code.
 - [Live-Hack-CVE/CVE-2022-33882](https://github.com/Live-Hack-CVE/CVE-2022-33882)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33882">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33882">
@@ -17935,6 +18005,11 @@
 - [Live-Hack-CVE/CVE-2022-31324](https://github.com/Live-Hack-CVE/CVE-2022-31324)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31324">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31324">
 
 ---
+## CVE-2022-3132 (2022-10-03T14:15:00)
+> The Goolytics WordPress plugin before 1.1.2 does not sanitise and escape some of its settings, which could allow high privilege users to perform Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed.
+- [Live-Hack-CVE/CVE-2022-3132](https://github.com/Live-Hack-CVE/CVE-2022-3132)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3132">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3132">
+
+---
 ## CVE-2022-3131 (2022-10-17T12:15:00)
 > The Search Logger WordPress plugin through 0.9 does not properly sanitise and escape a parameter before using it in a SQL statement, leading to a SQL injection exploitable by high privilege users
 - [Live-Hack-CVE/CVE-2022-3131](https://github.com/Live-Hack-CVE/CVE-2022-3131)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3131">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3131">
@@ -17969,6 +18044,11 @@
 > An issue in dlt_config_file_parser.c of dlt-daemon v2.18.8 allows attackers to cause a double free via crafted TCP packets.
 - [Live-Hack-CVE/CVE-2022-31291](https://github.com/Live-Hack-CVE/CVE-2022-31291)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31291">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31291">
 - [Live-Hack-CVE/CVE-2022-31291](https://github.com/Live-Hack-CVE/CVE-2022-31291)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31291">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31291">
+
+---
+## CVE-2022-3128 (2022-10-03T14:15:00)
+> The Donation Thermometer WordPress plugin before 2.1.3 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup)
+- [Live-Hack-CVE/CVE-2022-3128](https://github.com/Live-Hack-CVE/CVE-2022-3128)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3128">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3128">
 
 ---
 ## CVE-2022-31269 (2022-08-25T22:15:00)
@@ -20161,6 +20241,15 @@
 - [Live-Hack-CVE/CVE-2022-27636](https://github.com/Live-Hack-CVE/CVE-2022-27636)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27636">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27636">
 
 ---
+## CVE-2022-2763 (2022-10-03T14:15:00)
+> The WP Socializer WordPress plugin before 7.3 does not sanitise and escape some of its Icons settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup)
+- [Live-Hack-CVE/CVE-2022-2763](https://github.com/Live-Hack-CVE/CVE-2022-2763)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2763">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2763">
+- [Live-Hack-CVE/CVE-2022-27636](https://github.com/Live-Hack-CVE/CVE-2022-27636)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27636">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27636">
+- [Live-Hack-CVE/CVE-2022-27639](https://github.com/Live-Hack-CVE/CVE-2022-27639)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27639">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27639">
+- [Live-Hack-CVE/CVE-2022-27638](https://github.com/Live-Hack-CVE/CVE-2022-27638)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27638">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27638">
+- [Live-Hack-CVE/CVE-2022-27631](https://github.com/Live-Hack-CVE/CVE-2022-27631)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27631">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27631">
+
+---
 ## CVE-2022-27623 (2022-10-25T17:15:00)
 > Missing authentication for critical function vulnerability in iSCSI management functionality in Synology DiskStation Manager (DSM) before 7.1-42661 allows remote attackers to read or write arbitrary files via unspecified vectors.
 - [Live-Hack-CVE/CVE-2022-27623](https://github.com/Live-Hack-CVE/CVE-2022-27623)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27623">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27623">
@@ -20822,6 +20911,11 @@
 ## CVE-2022-2629 (2022-10-10T21:15:00)
 > The Top Bar WordPress plugin before 3.0.4 does not sanitise and escape some of its settings before outputting them in frontend pages, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup)
 - [Live-Hack-CVE/CVE-2022-2629](https://github.com/Live-Hack-CVE/CVE-2022-2629)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2629">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2629">
+
+---
+## CVE-2022-2628 (2022-10-03T14:15:00)
+> The DSGVO All in one for WP WordPress plugin before 4.2 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup)
+- [Live-Hack-CVE/CVE-2022-2628](https://github.com/Live-Hack-CVE/CVE-2022-2628)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2628">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2628">
 
 ---
 ## CVE-2022-2627 (2022-10-31T16:15:00)
