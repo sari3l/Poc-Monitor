@@ -14685,6 +14685,11 @@
 - [Live-Hack-CVE/CVE-2022-36027](https://github.com/Live-Hack-CVE/CVE-2022-36027)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36027">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36027">
 
 ---
+## CVE-2022-36026 (2022-09-16T22:15:00)
+> TensorFlow is an open source platform for machine learning. If `QuantizeAndDequantizeV3` is given a nonscalar `num_bits` input tensor, it results in a `CHECK` fail that can be used to trigger a denial of service attack. We have patched the issue in GitHub commit f3f9cb38ecfe5a8a703f2c4a8fead434ef291713. The fix will be included in TensorFlow 2.10.0. We will also cherrypick this commit on TensorFlow 2.9.1, TensorFlow 2.8.1, and TensorFlow 2.7.2, as these are also affected and still in supported range. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-36026](https://github.com/Live-Hack-CVE/CVE-2022-36026)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36026">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36026">
+
+---
 ## CVE-2022-36024 (2022-08-18T15:15:00)
 > py-cord is a an API wrapper for Discord written in Python. Bots creating using py-cord version 2.0.0 are vulnerable to remote shutdown if they are added to the server with the `application.commands` scope without the `bot` scope. Currently, it appears that all public bots that use slash commands are affected. This issue has been patched in version 2.0.1. There are currently no recommended workarounds - please upgrade to a patched version.
 - [Live-Hack-CVE/CVE-2022-36024](https://github.com/Live-Hack-CVE/CVE-2022-36024)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36024">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36024">
@@ -14751,35 +14756,42 @@
 ## CVE-2022-36011 (2022-09-16T23:15:00)
 > TensorFlow is an open source platform for machine learning. When `mlir::tfg::ConvertGenericFunctionToFunctionDef` is given empty function attributes, it gives a null dereference. We have patched the issue in GitHub commit 1cf45b831eeb0cab8655c9c7c5d06ec6f45fc41b. The fix will be included in TensorFlow 2.10.0. We will also cherrypick this commit on TensorFlow 2.9.1, TensorFlow 2.8.1, and TensorFlow 2.7.2, as these are also affected and still in supported range. There are no known workarounds for this issue.
 - [Live-Hack-CVE/CVE-2022-36011](https://github.com/Live-Hack-CVE/CVE-2022-36011)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36011">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36011">
+- [Live-Hack-CVE/CVE-2022-36011](https://github.com/Live-Hack-CVE/CVE-2022-36011)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36011">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36011">
 
 ---
 ## CVE-2022-36005 (2022-09-16T23:15:00)
 > TensorFlow is an open source platform for machine learning. When `tf.quantization.fake_quant_with_min_max_vars_gradient` receives input `min` or `max` that is nonscalar, it gives a `CHECK` fail that can trigger a denial of service attack. We have patched the issue in GitHub commit f3cf67ac5705f4f04721d15e485e192bb319feed. The fix will be included in TensorFlow 2.10.0. We will also cherrypick this commit on TensorFlow 2.9.1, TensorFlow 2.8.1, and TensorFlow 2.7.2, as these are also affected and still in supported range. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-36005](https://github.com/Live-Hack-CVE/CVE-2022-36005)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36005">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36005">
 - [Live-Hack-CVE/CVE-2022-36005](https://github.com/Live-Hack-CVE/CVE-2022-36005)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36005">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36005">
 
 ---
 ## CVE-2022-36004 (2022-09-16T23:15:00)
 > TensorFlow is an open source platform for machine learning. When `tf.random.gamma` receives large input shape and rates, it gives a `CHECK` fail that can trigger a denial of service attack. We have patched the issue in GitHub commit 552bfced6ce4809db5f3ca305f60ff80dd40c5a3. The fix will be included in TensorFlow 2.10.0. We will also cherrypick this commit on TensorFlow 2.9.1, TensorFlow 2.8.1, and TensorFlow 2.7.2, as these are also affected and still in supported range. There are no known workarounds for this issue.
 - [Live-Hack-CVE/CVE-2022-36004](https://github.com/Live-Hack-CVE/CVE-2022-36004)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36004">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36004">
+- [Live-Hack-CVE/CVE-2022-36004](https://github.com/Live-Hack-CVE/CVE-2022-36004)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36004">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36004">
 
 ---
 ## CVE-2022-36003 (2022-09-16T23:15:00)
 > TensorFlow is an open source platform for machine learning. When `RandomPoissonV2` receives large input shape and rates, it gives a `CHECK` fail that can trigger a denial of service attack. We have patched the issue in GitHub commit 552bfced6ce4809db5f3ca305f60ff80dd40c5a3. The fix will be included in TensorFlow 2.10.0. We will also cherrypick this commit on TensorFlow 2.9.1, TensorFlow 2.8.1, and TensorFlow 2.7.2, as these are also affected and still in supported range. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-36003](https://github.com/Live-Hack-CVE/CVE-2022-36003)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36003">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36003">
 - [Live-Hack-CVE/CVE-2022-36003](https://github.com/Live-Hack-CVE/CVE-2022-36003)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36003">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36003">
 
 ---
 ## CVE-2022-36002 (2022-09-16T23:15:00)
 > TensorFlow is an open source platform for machine learning. When `Unbatch` receives a nonscalar input `id`, it gives a `CHECK` fail that can trigger a denial of service attack. We have patched the issue in GitHub commit 4419d10d576adefa36b0e0a9425d2569f7c0189f. The fix will be included in TensorFlow 2.10.0. We will also cherrypick this commit on TensorFlow 2.9.1, TensorFlow 2.8.1, and TensorFlow 2.7.2, as these are also affected and still in supported range. There are no known workarounds for this issue.
 - [Live-Hack-CVE/CVE-2022-36002](https://github.com/Live-Hack-CVE/CVE-2022-36002)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36002">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36002">
+- [Live-Hack-CVE/CVE-2022-36002](https://github.com/Live-Hack-CVE/CVE-2022-36002)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36002">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36002">
 
 ---
 ## CVE-2022-36001 (2022-09-16T23:15:00)
 > TensorFlow is an open source platform for machine learning. When `DrawBoundingBoxes` receives an input `boxes` that is not of dtype `float`, it gives a `CHECK` fail that can trigger a denial of service attack. We have patched the issue in GitHub commit da0d65cdc1270038e72157ba35bf74b85d9bda11. The fix will be included in TensorFlow 2.10.0. We will also cherrypick this commit on TensorFlow 2.9.1, TensorFlow 2.8.1, and TensorFlow 2.7.2, as these are also affected and still in supported range. There are no known workarounds for this issue.
 - [Live-Hack-CVE/CVE-2022-36001](https://github.com/Live-Hack-CVE/CVE-2022-36001)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36001">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36001">
+- [Live-Hack-CVE/CVE-2022-36001](https://github.com/Live-Hack-CVE/CVE-2022-36001)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36001">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36001">
 
 ---
 ## CVE-2022-36000 (2022-09-16T23:15:00)
 > TensorFlow is an open source platform for machine learning. When `mlir::tfg::ConvertGenericFunctionToFunctionDef` is given empty function attributes, it gives a null dereference. We have patched the issue in GitHub commit aed36912609fc07229b4d0a7b44f3f48efc00fd0. The fix will be included in TensorFlow 2.10.0. We will also cherrypick this commit on TensorFlow 2.9.1, TensorFlow 2.8.1, and TensorFlow 2.7.2, as these are also affected and still in supported range. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-36000](https://github.com/Live-Hack-CVE/CVE-2022-36000)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36000">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36000">
 - [Live-Hack-CVE/CVE-2022-36000](https://github.com/Live-Hack-CVE/CVE-2022-36000)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36000">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36000">
 
 ---
@@ -14791,21 +14803,50 @@
 ## CVE-2022-35999 (2022-09-16T23:15:00)
 > TensorFlow is an open source platform for machine learning. When `Conv2DBackpropInput` receives empty `out_backprop` inputs (e.g. `[3, 1, 0, 1]`), the current CPU/GPU kernels `CHECK` fail (one with dnnl, the other with cudnn). This can be used to trigger a denial of service attack. We have patched the issue in GitHub commit 27a65a43cf763897fecfa5cdb5cc653fc5dd0346. The fix will be included in TensorFlow 2.10.0. We will also cherrypick this commit on TensorFlow 2.9.1, TensorFlow 2.8.1, and TensorFlow 2.7.2, as these are also affected and still in supported range. There are no known workarounds for this issue.
 - [Live-Hack-CVE/CVE-2022-35999](https://github.com/Live-Hack-CVE/CVE-2022-35999)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35999">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35999">
+- [Live-Hack-CVE/CVE-2022-35999](https://github.com/Live-Hack-CVE/CVE-2022-35999)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35999">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35999">
 
 ---
 ## CVE-2022-35998 (2022-09-16T23:15:00)
 > TensorFlow is an open source platform for machine learning. If `EmptyTensorList` receives an input `element_shape` with more than one dimension, it gives a `CHECK` fail that can be used to trigger a denial of service attack. We have patched the issue in GitHub commit c8ba76d48567aed347508e0552a257641931024d. The fix will be included in TensorFlow 2.10.0. We will also cherrypick this commit on TensorFlow 2.9.1, TensorFlow 2.8.1, and TensorFlow 2.7.2, as these are also affected and still in supported range. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-35998](https://github.com/Live-Hack-CVE/CVE-2022-35998)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35998">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35998">
 - [Live-Hack-CVE/CVE-2022-35998](https://github.com/Live-Hack-CVE/CVE-2022-35998)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35998">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35998">
 
 ---
 ## CVE-2022-35997 (2022-09-16T23:15:00)
 > TensorFlow is an open source platform for machine learning. If `tf.sparse.cross` receives an input `separator` that is not a scalar, it gives a `CHECK` fail that can be used to trigger a denial of service attack. We have patched the issue in GitHub commit 83dcb4dbfa094e33db084e97c4d0531a559e0ebf. The fix will be included in TensorFlow 2.10.0. We will also cherrypick this commit on TensorFlow 2.9.1, TensorFlow 2.8.1, and TensorFlow 2.7.2, as these are also affected and still in supported range. There are no known workarounds for this issue.
 - [Live-Hack-CVE/CVE-2022-35997](https://github.com/Live-Hack-CVE/CVE-2022-35997)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35997">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35997">
+- [Live-Hack-CVE/CVE-2022-35997](https://github.com/Live-Hack-CVE/CVE-2022-35997)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35997">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35997">
 
 ---
 ## CVE-2022-35996 (2022-09-16T23:15:00)
 > TensorFlow is an open source platform for machine learning. If `Conv2D` is given empty `input` and the `filter` and `padding` sizes are valid, the output is all-zeros. This causes division-by-zero floating point exceptions that can be used to trigger a denial of service attack. We have patched the issue in GitHub commit 611d80db29dd7b0cfb755772c69d60ae5bca05f9. The fix will be included in TensorFlow 2.10.0. We will also cherrypick this commit on TensorFlow 2.9.1, TensorFlow 2.8.1, and TensorFlow 2.7.2, as these are also affected and still in supported range. There are no known workarounds for this issue.
 - [Live-Hack-CVE/CVE-2022-35996](https://github.com/Live-Hack-CVE/CVE-2022-35996)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35996">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35996">
+- [Live-Hack-CVE/CVE-2022-35996](https://github.com/Live-Hack-CVE/CVE-2022-35996)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35996">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35996">
+
+---
+## CVE-2022-35995 (2022-09-16T23:15:00)
+> TensorFlow is an open source platform for machine learning. When `AudioSummaryV2` receives an input `sample_rate` with more than one element, it gives a `CHECK` fails that can be used to trigger a denial of service attack. We have patched the issue in GitHub commit bf6b45244992e2ee543c258e519489659c99fb7f. The fix will be included in TensorFlow 2.10.0. We will also cherrypick this commit on TensorFlow 2.9.1, TensorFlow 2.8.1, and TensorFlow 2.7.2, as these are also affected and still in supported range. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-35995](https://github.com/Live-Hack-CVE/CVE-2022-35995)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35995">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35995">
+
+---
+## CVE-2022-35994 (2022-09-16T23:15:00)
+> TensorFlow is an open source platform for machine learning. When `CollectiveGather` receives an scalar input `input`, it gives a `CHECK` fails that can be used to trigger a denial of service attack. We have patched the issue in GitHub commit c1f491817dec39a26be3c574e86a88c30f3c4770. The fix will be included in TensorFlow 2.10.0. We will also cherrypick this commit on TensorFlow 2.9.1, TensorFlow 2.8.1, and TensorFlow 2.7.2, as these are also affected and still in supported range. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-35994](https://github.com/Live-Hack-CVE/CVE-2022-35994)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35994">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35994">
+
+---
+## CVE-2022-35993 (2022-09-16T23:15:00)
+> TensorFlow is an open source platform for machine learning. When `SetSize` receives an input `set_shape` that is not a 1D tensor, it gives a `CHECK` fails that can be used to trigger a denial of service attack. We have patched the issue in GitHub commit cf70b79d2662c0d3c6af74583641e345fc939467. The fix will be included in TensorFlow 2.10.0. We will also cherrypick this commit on TensorFlow 2.9.1, TensorFlow 2.8.1, and TensorFlow 2.7.2, as these are also affected and still in supported range. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-35993](https://github.com/Live-Hack-CVE/CVE-2022-35993)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35993">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35993">
+
+---
+## CVE-2022-35992 (2022-09-16T23:15:00)
+> TensorFlow is an open source platform for machine learning. When `TensorListFromTensor` receives an `element_shape` of a rank greater than one, it gives a `CHECK` fail that can trigger a denial of service attack. We have patched the issue in GitHub commit 3db59a042a38f4338aa207922fa2f476e000a6ee. The fix will be included in TensorFlow 2.10.0. We will also cherrypick this commit on TensorFlow 2.9.1, TensorFlow 2.8.1, and TensorFlow 2.7.2, as these are also affected and still in supported range. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-35992](https://github.com/Live-Hack-CVE/CVE-2022-35992)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35992">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35992">
+
+---
+## CVE-2022-35991 (2022-09-16T23:15:00)
+> TensorFlow is an open source platform for machine learning. When `TensorListScatter` and `TensorListScatterV2` receive an `element_shape` of a rank greater than one, they give a `CHECK` fail that can trigger a denial of service attack. We have patched the issue in GitHub commit bb03fdf4aae944ab2e4b35c7daa051068a8b7f61. The fix will be included in TensorFlow 2.10.0. We will also cherrypick this commit on TensorFlow 2.9.1, TensorFlow 2.8.1, and TensorFlow 2.7.2, as these are also affected and still in supported range. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-35991](https://github.com/Live-Hack-CVE/CVE-2022-35991)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35991">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35991">
 
 ---
 ## CVE-2022-3599 (2022-10-21T16:15:00)
@@ -14813,9 +14854,59 @@
 - [Live-Hack-CVE/CVE-2022-3599](https://github.com/Live-Hack-CVE/CVE-2022-3599)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3599">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3599">
 
 ---
+## CVE-2022-35989 (2022-09-16T22:15:00)
+> TensorFlow is an open source platform for machine learning. When `MaxPool` receives a window size input array `ksize` with dimensions greater than its input tensor `input`, the GPU kernel gives a `CHECK` fail that can be used to trigger a denial of service attack. We have patched the issue in GitHub commit 32d7bd3defd134f21a4e344c8dfd40099aaf6b18. The fix will be included in TensorFlow 2.10.0. We will also cherrypick this commit on TensorFlow 2.9.1, TensorFlow 2.8.1, and TensorFlow 2.7.2, as these are also affected and still in supported range. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-35989](https://github.com/Live-Hack-CVE/CVE-2022-35989)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35989">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35989">
+
+---
+## CVE-2022-35988 (2022-09-16T22:15:00)
+> TensorFlow is an open source platform for machine learning. When `tf.linalg.matrix_rank` receives an empty input `a`, the GPU kernel gives a `CHECK` fail that can be used to trigger a denial of service attack. We have patched the issue in GitHub commit c55b476aa0e0bd4ee99d0f3ad18d9d706cd1260a. The fix will be included in TensorFlow 2.10.0. We will also cherrypick this commit on TensorFlow 2.9.1, TensorFlow 2.8.1, and TensorFlow 2.7.2, as these are also affected and still in supported range. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-35988](https://github.com/Live-Hack-CVE/CVE-2022-35988)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35988">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35988">
+
+---
+## CVE-2022-35987 (2022-09-16T22:15:00)
+> TensorFlow is an open source platform for machine learning. `DenseBincount` assumes its input tensor `weights` to either have the same shape as its input tensor `input` or to be length-0. A different `weights` shape will trigger a `CHECK` fail that can be used to trigger a denial of service attack. We have patched the issue in GitHub commit bf4c14353c2328636a18bfad1e151052c81d5f43. The fix will be included in TensorFlow 2.10.0. We will also cherrypick this commit on TensorFlow 2.9.1, TensorFlow 2.8.1, and TensorFlow 2.7.2, as these are also affected and still in supported range. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-35987](https://github.com/Live-Hack-CVE/CVE-2022-35987)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35987">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35987">
+
+---
+## CVE-2022-35986 (2022-09-16T22:15:00)
+> TensorFlow is an open source platform for machine learning. If `RaggedBincount` is given an empty input tensor `splits`, it results in a segfault that can be used to trigger a denial of service attack. We have patched the issue in GitHub commit 7a4591fd4f065f4fa903593bc39b2f79530a74b8. The fix will be included in TensorFlow 2.10.0. We will also cherrypick this commit on TensorFlow 2.9.1, TensorFlow 2.8.1, and TensorFlow 2.7.2, as these are also affected and still in supported range. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-35986](https://github.com/Live-Hack-CVE/CVE-2022-35986)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35986">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35986">
+
+---
+## CVE-2022-35985 (2022-09-16T22:15:00)
+> TensorFlow is an open source platform for machine learning. If `LRNGrad` is given an `output_image` input tensor that is not 4-D, it results in a `CHECK` fail that can be used to trigger a denial of service attack. We have patched the issue in GitHub commit bd90b3efab4ec958b228cd7cfe9125be1c0cf255. The fix will be included in TensorFlow 2.10.0. We will also cherrypick this commit on TensorFlow 2.9.1, TensorFlow 2.8.1, and TensorFlow 2.7.2, as these are also affected and still in supported range. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-35985](https://github.com/Live-Hack-CVE/CVE-2022-35985)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35985">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35985">
+
+---
+## CVE-2022-35984 (2022-09-16T22:15:00)
+> TensorFlow is an open source platform for machine learning. `ParameterizedTruncatedNormal` assumes `shape` is of type `int32`. A valid `shape` of type `int64` results in a mismatched type `CHECK` fail that can be used to trigger a denial of service attack. We have patched the issue in GitHub commit 72180be03447a10810edca700cbc9af690dfeb51. The fix will be included in TensorFlow 2.10.0. We will also cherrypick this commit on TensorFlow 2.9.1, TensorFlow 2.8.1, and TensorFlow 2.7.2, as these are also affected and still in supported range. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-35984](https://github.com/Live-Hack-CVE/CVE-2022-35984)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35984">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35984">
+
+---
+## CVE-2022-35983 (2022-09-16T22:15:00)
+> TensorFlow is an open source platform for machine learning. If `Save` or `SaveSlices` is run over tensors of an unsupported `dtype`, it results in a `CHECK` fail that can be used to trigger a denial of service attack. We have patched the issue in GitHub commit 5dd7b86b84a864b834c6fa3d7f9f51c87efa99d4. The fix will be included in TensorFlow 2.10.0. We will also cherrypick this commit on TensorFlow 2.9.1, TensorFlow 2.8.1, and TensorFlow 2.7.2, as these are also affected and still in supported range. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-35983](https://github.com/Live-Hack-CVE/CVE-2022-35983)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35983">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35983">
+
+---
+## CVE-2022-35982 (2022-09-16T22:15:00)
+> TensorFlow is an open source platform for machine learning. If `SparseBincount` is given inputs for `indices`, `values`, and `dense_shape` that do not make a valid sparse tensor, it results in a segfault that can be used to trigger a denial of service attack. We have patched the issue in GitHub commit 40adbe4dd15b582b0210dfbf40c243a62f5119fa. The fix will be included in TensorFlow 2.10.0. We will also cherrypick this commit on TensorFlow 2.9.1, TensorFlow 2.8.1, and TensorFlow 2.7.2, as these are also affected and still in supported range. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-35982](https://github.com/Live-Hack-CVE/CVE-2022-35982)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35982">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35982">
+
+---
+## CVE-2022-35981 (2022-09-16T22:15:00)
+> TensorFlow is an open source platform for machine learning. `FractionalMaxPoolGrad` validates its inputs with `CHECK` failures instead of with returning errors. If it gets incorrectly sized inputs, the `CHECK` failure can be used to trigger a denial of service attack. We have patched the issue in GitHub commit 8741e57d163a079db05a7107a7609af70931def4. The fix will be included in TensorFlow 2.10.0. We will also cherrypick this commit on TensorFlow 2.9.1, TensorFlow 2.8.1, and TensorFlow 2.7.2, as these are also affected and still in supported range. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-35981](https://github.com/Live-Hack-CVE/CVE-2022-35981)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35981">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35981">
+
+---
 ## CVE-2022-3598 (2022-10-21T16:15:00)
 > LibTIFF 4.4.0 has an out-of-bounds write in extractContigSamplesShifted24bits in tools/tiffcrop.c:3604, allowing attackers to cause a denial-of-service via a crafted tiff file. For users that compile libtiff from sources, the fix is available with commit cfbb883b.
 - [Live-Hack-CVE/CVE-2022-3598](https://github.com/Live-Hack-CVE/CVE-2022-3598)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3598">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3598">
+
+---
+## CVE-2022-35979 (2022-09-16T22:15:00)
+> TensorFlow is an open source platform for machine learning. If `QuantizedRelu` or `QuantizedRelu6` are given nonscalar inputs for `min_features` or `max_features`, it results in a segfault that can be used to trigger a denial of service attack. We have patched the issue in GitHub commit 49b3824d83af706df0ad07e4e677d88659756d89. The fix will be included in TensorFlow 2.10.0. We will also cherrypick this commit on TensorFlow 2.9.1, TensorFlow 2.8.1, and TensorFlow 2.7.2, as these are also affected and still in supported range. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-35979](https://github.com/Live-Hack-CVE/CVE-2022-35979)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35979">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35979">
 
 ---
 ## CVE-2022-35975 (2022-08-18T18:15:00)
@@ -22233,6 +22324,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-25708 (2022-09-16T06:15:00)
 > Memory corruption in WLAN due to buffer copy without checking size of input while parsing keys in Snapdragon Connectivity, Snapdragon Mobile
 - [Live-Hack-CVE/CVE-2022-25708](https://github.com/Live-Hack-CVE/CVE-2022-25708)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25708">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25708">
+- [Live-Hack-CVE/CVE-2022-25708](https://github.com/Live-Hack-CVE/CVE-2022-25708)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25708">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25708">
 
 ---
 ## CVE-2022-25706 (2022-09-16T06:15:00)
@@ -26809,6 +26901,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ---
 ## CVE-2022-1194 (2022-09-16T09:15:00)
 > The Mobile Events Manager WordPress plugin before 1.4.8 does not properly escape the Enquiry source field when exporting events, or the Paid for field when exporting transactions as CSV, leading to a CSV injection vulnerability.
+- [Live-Hack-CVE/CVE-2022-1194](https://github.com/Live-Hack-CVE/CVE-2022-1194)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1194">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1194">
 - [Live-Hack-CVE/CVE-2022-1194](https://github.com/Live-Hack-CVE/CVE-2022-1194)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1194">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1194">
 
 ---
