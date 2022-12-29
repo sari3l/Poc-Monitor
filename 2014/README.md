@@ -79,6 +79,11 @@
 - [jeffgeiger/es_inject](https://github.com/jeffgeiger/es_inject)	<img alt="forks" src="https://img.shields.io/github/forks/jeffgeiger/es_inject">	<img alt="stars" src="https://img.shields.io/github/stars/jeffgeiger/es_inject">
 
 ---
+## CVE-2014-2497 (2014-03-21T14:55:00)
+> The gdImageCreateFromXpm function in gdxpm.c in libgd, as used in PHP 5.4.26 and earlier, allows remote attackers to cause a denial of service (NULL pointer dereference and application crash) via a crafted color table in an XPM file.
+- [Live-Hack-CVE/CVE-2014-2497](https://github.com/Live-Hack-CVE/CVE-2014-2497)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-2497">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-2497">
+
+---
 ## CVE-2014-2431 (2014-04-16T02:55:00)
 > Unspecified vulnerability in Oracle MySQL Server 5.5.36 and earlier and 5.6.16 and earlier allows remote attackers to affect availability via unknown vectors related to Options.
 - [Live-Hack-CVE/CVE-2014-2431](https://github.com/Live-Hack-CVE/CVE-2014-2431)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-2431">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-2431">
@@ -158,6 +163,11 @@
 - [secretnonempty/CVE-2014-0224](https://github.com/secretnonempty/CVE-2014-0224)	<img alt="forks" src="https://img.shields.io/github/forks/secretnonempty/CVE-2014-0224">	<img alt="stars" src="https://img.shields.io/github/stars/secretnonempty/CVE-2014-0224">
 - [droptables/ccs-eval](https://github.com/droptables/ccs-eval)	<img alt="forks" src="https://img.shields.io/github/forks/droptables/ccs-eval">	<img alt="stars" src="https://img.shields.io/github/stars/droptables/ccs-eval">
 - [iph0n3/CVE-2014-0224](https://github.com/iph0n3/CVE-2014-0224)	<img alt="forks" src="https://img.shields.io/github/forks/iph0n3/CVE-2014-0224">	<img alt="stars" src="https://img.shields.io/github/stars/iph0n3/CVE-2014-0224">
+
+---
+## CVE-2014-0207 (2014-07-09T11:07:00)
+> The cdf_read_short_sector function in cdf.c in file before 5.19, as used in the Fileinfo component in PHP before 5.4.30 and 5.5.x before 5.5.14, allows remote attackers to cause a denial of service (assertion failure and application exit) via a crafted CDF file.
+- [Live-Hack-CVE/CVE-2014-0207](https://github.com/Live-Hack-CVE/CVE-2014-0207)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-0207">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-0207">
 
 ---
 ## CVE-2014-0196 (2014-05-07T10:55:00)

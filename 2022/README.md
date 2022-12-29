@@ -7882,6 +7882,11 @@
 - [Live-Hack-CVE/CVE-2022-40879](https://github.com/Live-Hack-CVE/CVE-2022-40879)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40879">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40879">
 
 ---
+## CVE-2022-40877 (2022-09-27T23:15:00)
+> Exam Reviewer Management System 1.0 is vulnerable to SQL Injection via the ‘id’ parameter.
+- [Live-Hack-CVE/CVE-2022-40877](https://github.com/Live-Hack-CVE/CVE-2022-40877)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40877">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40877">
+
+---
 ## CVE-2022-40872 (2022-10-07T11:15:00)
 > An SQL injection vulnerability issue was discovered in Sourcecodester Simple E-Learning System 1.0., in /vcs/classRoom.php?classCode=, classCode.
 - [Live-Hack-CVE/CVE-2022-40872](https://github.com/Live-Hack-CVE/CVE-2022-40872)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40872">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40872">
@@ -8547,6 +8552,16 @@
 ## CVE-2022-40357 (2022-09-20T21:15:00)
 > A security issue was discovered in Z-BlogPHP <= 1.7.2. A Server-Side Request Forgery (SSRF) vulnerability in the zb_users/plugin/UEditor/php/action_crawler.php file allows remote attackers to force the application to make arbitrary requests via injection of arbitrary URLs into the source parameter.
 - [Live-Hack-CVE/CVE-2022-40357](https://github.com/Live-Hack-CVE/CVE-2022-40357)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40357">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40357">
+
+---
+## CVE-2022-40354 (2022-09-27T23:15:00)
+> Online Tours & Travels Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /admin/update_booking.php.
+- [Live-Hack-CVE/CVE-2022-40354](https://github.com/Live-Hack-CVE/CVE-2022-40354)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40354">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40354">
+
+---
+## CVE-2022-40353 (2022-09-27T23:15:00)
+> Online Tours & Travels Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /admin/up_booking.php.
+- [Live-Hack-CVE/CVE-2022-40353](https://github.com/Live-Hack-CVE/CVE-2022-40353)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40353">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40353">
 
 ---
 ## CVE-2022-4035 (2022-11-29T21:15:00)
@@ -9335,6 +9350,11 @@
 - [jet-pentest/CVE-2022-39838](https://github.com/jet-pentest/CVE-2022-39838)	<img alt="forks" src="https://img.shields.io/github/forks/jet-pentest/CVE-2022-39838">	<img alt="stars" src="https://img.shields.io/github/stars/jet-pentest/CVE-2022-39838">
 
 ---
+## CVE-2022-39835 (2022-09-27T23:15:00)
+> An issue was discovered in Gajim through 1.4.7. The vulnerability allows attackers, via crafted XML stanzas, to correct messages that were not sent by them. The attacker needs to be part of the group chat or single chat. The fixed version is 1.5.0.
+- [Live-Hack-CVE/CVE-2022-39835](https://github.com/Live-Hack-CVE/CVE-2022-39835)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39835">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39835">
+
+---
 ## CVE-2022-39833 (2022-11-23T18:15:00)
 > FileCloud Versions 20.2 and later allows remote attackers to potentially cause unauthorized remote code execution and access to reported API endpoints via a crafted HTTP request.
 - [Live-Hack-CVE/CVE-2022-39833](https://github.com/Live-Hack-CVE/CVE-2022-39833)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39833">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39833">
@@ -9891,6 +9911,16 @@
 > Matrix JavaScript SDK is the Matrix Client-Server software development kit (SDK) for JavaScript. Prior to version 19.7.0, an attacker cooperating with a malicious homeserver could interfere with the verification flow between two users, injecting its own cross-signing user identity in place of one of the users’ identities. This would lead to the other device trusting/verifying the user identity under the control of the homeserver instead of the intended one. The vulnerability is a bug in the matrix-js-sdk, caused by checking and signing user identities and devices in two separate steps, and inadequately fixing the keys to be signed between those steps. Even though the attack is partly made possible due to the design decision of treating cross-signing user identities as Matrix devices on the server side (with their device ID set to the public part of the user identity key), no other examined implementations were vulnerable. Starting with version 19.7.0, the matrix-js-sdk has been modified to double check that the key signed is the one that was verified instead of just referencing the key by ID. An additional check has been made to report an error when one of the device ID matches a cross-signing key. As this attack requires coordination between a malicious homeserver and an attacker, those who trust their homeservers do not need a particular workaround.
 - [Live-Hack-CVE/CVE-2022-39250](https://github.com/Live-Hack-CVE/CVE-2022-39250)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39250">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39250">
 - [Live-Hack-CVE/CVE-2022-39250](https://github.com/Live-Hack-CVE/CVE-2022-39250)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39250">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39250">
+
+---
+## CVE-2022-39248 (2022-09-28T20:15:00)
+> matrix-android-sdk2 is the Matrix SDK for Android. Prior to version 1.5.1, an attacker cooperating with a malicious homeserver can construct messages that legitimately appear to have come from another person, without any indication such as a grey shield. Additionally, a sophisticated attacker cooperating with a malicious homeserver could employ this vulnerability to perform a targeted attack in order to send fake to-device messages appearing to originate from another user. This can allow, for example, to inject the key backup secret during a self-verification, to make a targeted device start using a malicious key backup spoofed by the homeserver. matrix-android-sdk2 would then additionally sign such a key backup with its device key, spilling trust over to other devices trusting the matrix-android-sdk2 device. These attacks are possible due to a protocol confusion vulnerability that accepts to-device messages encrypted with Megolm instead of Olm. matrix-android-sdk2 version 1.5.1 has been modified to only accept Olm-encrypted to-device messages and to stop signing backups on a successful decryption. Out of caution, several other checks have been audited or added. This attack requires coordination between a malicious home server and an attacker, so those who trust their home servers do not need a workaround.
+- [Live-Hack-CVE/CVE-2022-39248](https://github.com/Live-Hack-CVE/CVE-2022-39248)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39248">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39248">
+
+---
+## CVE-2022-39246 (2022-09-28T20:15:00)
+> matrix-android-sdk2 is the Matrix SDK for Android. Prior to version 1.5.1, an attacker cooperating with a malicious homeserver can construct messages appearing to have come from another person. Such messages will be marked with a grey shield on some platforms, but this may be missing in others. This attack is possible due to the key forwarding strategy implemented in the matrix-android-sdk2 that is too permissive. Starting with version 1.5.1, the default policy for accepting key forwards has been made more strict in the matrix-android-sdk2. The matrix-android-sdk2 will now only accept forwarded keys in response to previously issued requests and only from own, verified devices. The SDK now sets a `trusted` flag on the decrypted message upon decryption, based on whether the key used to decrypt the message was received from a trusted source. Clients need to ensure that messages decrypted with a key with `trusted = false` are decorated appropriately (for example, by showing a warning for such messages). As a workaroubnd, current users of the SDK can disable key forwarding in their forks using `CryptoService#enableKeyGossiping(enable: Boolean)`.
+- [Live-Hack-CVE/CVE-2022-39246](https://github.com/Live-Hack-CVE/CVE-2022-39246)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39246">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39246">
 
 ---
 ## CVE-2022-39244 (2022-10-06T18:16:00)
@@ -12195,6 +12225,11 @@
 ## CVE-2022-3774 (2022-10-31T16:15:00)
 > A vulnerability was found in SourceCodester Train Scheduler App 1.0 and classified as critical. Affected by this issue is some unknown functionality of the file /train_scheduler_app/?action=delete. The manipulation of the argument id leads to improper control of resource identifiers. The attack may be launched remotely. The identifier of this vulnerability is VDB-212504.
 - [Live-Hack-CVE/CVE-2022-3774](https://github.com/Live-Hack-CVE/CVE-2022-3774)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3774">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3774">
+
+---
+## CVE-2022-37734 (2022-09-12T14:15:00)
+> graphql-java before19.0 is vulnerable to Denial of Service. An attacker can send a malicious GraphQL query that consumes CPU resources. The fixed versions are 19.0 and later, 18.3, and 17.4, and 0.0.0-2022-07-26T05-45-04-226aabd9.
+- [Live-Hack-CVE/CVE-2022-37734](https://github.com/Live-Hack-CVE/CVE-2022-37734)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37734">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37734">
 
 ---
 ## CVE-2022-37710 (2022-11-07T00:15:00)
@@ -16826,6 +16861,11 @@
 - [Live-Hack-CVE/CVE-2022-32870](https://github.com/Live-Hack-CVE/CVE-2022-32870)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32870">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32870">
 
 ---
+## CVE-2022-3287 (2022-09-28T20:15:00)
+> When creating an OPERATOR user account on the BMC, the redfish plugin saved the auto-generated password to /etc/fwupd/redfish.conf without proper restriction, allowing any user on the system to read the same configuration file.
+- [Live-Hack-CVE/CVE-2022-3287](https://github.com/Live-Hack-CVE/CVE-2022-3287)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3287">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3287">
+
+---
 ## CVE-2022-32868 (2022-09-20T21:15:00)
 > A logic issue was addressed with improved state management. This issue is fixed in Safari 16, iOS 16, iOS 15.7 and iPadOS 15.7. A website may be able to track users through Safari web extensions.
 - [Live-Hack-CVE/CVE-2022-32868](https://github.com/Live-Hack-CVE/CVE-2022-32868)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32868">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32868">
@@ -17527,6 +17567,12 @@
 ---
 ## CVE-2022-32156 (2022-06-15T17:15:00)
 > In Splunk Enterprise and Universal Forwarder versions before 9.0, the Splunk command-line interface (CLI) did not validate TLS certificates while connecting to a remote Splunk platform instance by default. After updating to version 9.0, see Configure TLS host name validation for the Splunk CLI https://docs.splunk.com/Documentation/Splunk/9.0.0/Security/EnableTLSCertHostnameValidation#Configure_TLS_host_name_validation_for_the_Splunk_CLI to enable the remediation. The vulnerability does not affect the Splunk Cloud Platform. At the time of publishing, we have no evidence of exploitation of this vulnerability by external parties. The issue requires conditions beyond the control of a potential bad actor such as a machine-in-the-middle attack. Hence, Splunk rates the complexity of the attack as High.
+- [Live-Hack-CVE/CVE-2022-32156](https://github.com/Live-Hack-CVE/CVE-2022-32156)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32156">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32156">
+
+---
+## CVE-2022-3215 (2022-09-28T20:15:00)
+> NIOHTTP1 and projects using it for generating HTTP responses can be subject to a HTTP Response Injection attack. This occurs when a HTTP/1.1 server accepts user generated input from an incoming request and reflects it into a HTTP/1.1 response header in some form. A malicious user can add newlines to their input (usually in encoded form) and "inject" those newlines into the returned HTTP response. This capability allows users to work around security headers and HTTP/1.1 framing headers by injecting entirely false responses or other new headers. The injected false responses may also be treated as the response to subsequent requests, which can lead to XSS, cache poisoning, and a number of other flaws. This issue was resolved by adding validation to the HTTPHeaders type, ensuring that there's no whitespace incorrectly present in the HTTP headers provided by users. As the existing API surface is non-failable, all invalid characters are replaced by linear whitespace.
+- [Live-Hack-CVE/CVE-2022-3215](https://github.com/Live-Hack-CVE/CVE-2022-3215)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3215">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3215">
 - [Live-Hack-CVE/CVE-2022-32156](https://github.com/Live-Hack-CVE/CVE-2022-32156)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32156">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32156">
 
 ---
@@ -20451,6 +20497,11 @@
 - [Live-Hack-CVE/CVE-2022-27359](https://github.com/Live-Hack-CVE/CVE-2022-27359)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27359">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27359">
 
 ---
+## CVE-2022-27337 (2022-05-05T19:15:00)
+> A logic error in the Hints::Hints function of Poppler v22.03.0 allows attackers to cause a Denial of Service (DoS) via a crafted PDF file.
+- [Live-Hack-CVE/CVE-2022-27337](https://github.com/Live-Hack-CVE/CVE-2022-27337)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27337">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27337">
+
+---
 ## CVE-2022-27255 (2022-08-01T12:15:00)
 > In Realtek eCos RSDK 1.5.7p1 and MSDK 4.9.4p1, the SIP ALG function that rewrites SDP data has a stack-based buffer overflow. This allows an attacker to remotely execute code without authentication via a crafted SIP packet that contains malicious SDP data.
 - [infobyte/cve-2022-27255](https://github.com/infobyte/cve-2022-27255)	<img alt="forks" src="https://img.shields.io/github/forks/infobyte/cve-2022-27255">	<img alt="stars" src="https://img.shields.io/github/stars/infobyte/cve-2022-27255">
@@ -22176,6 +22227,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-23723 (2022-05-02T22:15:00)
 > An MFA bypass vulnerability exists in the PingFederate PingOne MFA Integration Kit when adapter HTML templates are used as part of an authentication flow.
 - [Live-Hack-CVE/CVE-2022-23723](https://github.com/Live-Hack-CVE/CVE-2022-23723)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23723">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23723">
+
+---
+## CVE-2022-23716 (2022-09-28T20:15:00)
+> A flaw was discovered in ECE before 3.1.1 that could lead to the disclosure of the SAML signing private key used for the RBAC features, in deployment logs in the Logging and Monitoring cluster.
+- [Live-Hack-CVE/CVE-2022-23716](https://github.com/Live-Hack-CVE/CVE-2022-23716)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23716">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23716">
 
 ---
 ## CVE-2022-23715 (2022-08-25T18:15:00)
@@ -26121,6 +26177,36 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-0819](https://github.com/Live-Hack-CVE/CVE-2022-0819)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0819">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0819">
 
 ---
+## CVE-2022-0807 (2022-04-05T01:15:00)
+> Inappropriate implementation in Autofill in Google Chrome prior to 99.0.4844.51 allowed a remote attacker to bypass navigation restrictions via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-0807](https://github.com/Live-Hack-CVE/CVE-2022-0807)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0807">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0807">
+
+---
+## CVE-2022-0806 (2022-04-05T01:15:00)
+> Data leak in Canvas in Google Chrome prior to 99.0.4844.51 allowed a remote attacker who convinced a user to engage in screen sharing to potentially leak cross-origin data via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-0806](https://github.com/Live-Hack-CVE/CVE-2022-0806)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0806">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0806">
+
+---
+## CVE-2022-0805 (2022-04-05T01:15:00)
+> Use after free in Browser Switcher in Google Chrome prior to 99.0.4844.51 allowed a remote attacker who convinced a user to engage in specific user interaction to potentially exploit heap corruption via user interaction.
+- [Live-Hack-CVE/CVE-2022-0805](https://github.com/Live-Hack-CVE/CVE-2022-0805)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0805">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0805">
+
+---
+## CVE-2022-0804 (2022-04-05T01:15:00)
+> Inappropriate implementation in Full screen mode in Google Chrome on Android prior to 99.0.4844.51 allowed a remote attacker to hide the contents of the Omnibox (URL bar) via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-0804](https://github.com/Live-Hack-CVE/CVE-2022-0804)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0804">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0804">
+
+---
+## CVE-2022-0803 (2022-04-05T01:15:00)
+> Inappropriate implementation in Permissions in Google Chrome prior to 99.0.4844.51 allowed a remote attacker to tamper with the contents of the Omnibox (URL bar) via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-0803](https://github.com/Live-Hack-CVE/CVE-2022-0803)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0803">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0803">
+
+---
+## CVE-2022-0802 (2022-04-05T01:15:00)
+> Inappropriate implementation in Full screen mode in Google Chrome on Android prior to 99.0.4844.51 allowed a remote attacker to hide the contents of the Omnibox (URL bar) via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-0802](https://github.com/Live-Hack-CVE/CVE-2022-0802)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0802">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0802">
+
+---
 ## CVE-2022-0799 (2022-04-05T01:15:00)
 > Insufficient policy enforcement in Installer in Google Chrome on Windows prior to 99.0.4844.51 allowed a remote attacker to perform local privilege escalation via a crafted offline installer file.
 - [Live-Hack-CVE/CVE-2022-0799](https://github.com/Live-Hack-CVE/CVE-2022-0799)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0799">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0799">
@@ -26154,6 +26240,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-0793 (2022-04-05T01:15:00)
 > Use after free in Cast in Google Chrome prior to 99.0.4844.51 allowed an attacker who convinced a user to install a malicious extension and engage in specific user interaction to potentially exploit heap corruption via a crafted Chrome Extension.
 - [Live-Hack-CVE/CVE-2022-0793](https://github.com/Live-Hack-CVE/CVE-2022-0793)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0793">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0793">
+
+---
+## CVE-2022-0791 (2022-04-05T01:15:00)
+> Use after free in Omnibox in Google Chrome prior to 99.0.4844.51 allowed a remote attacker who convinced a user to engage in specific user interactions to potentially exploit heap corruption via user interactions.
+- [Live-Hack-CVE/CVE-2022-0791](https://github.com/Live-Hack-CVE/CVE-2022-0791)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0791">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0791">
 
 ---
 ## CVE-2022-0789 (2022-04-05T01:15:00)

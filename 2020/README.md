@@ -1581,6 +1581,11 @@
 - [Live-Hack-CVE/CVE-2020-27779](https://github.com/Live-Hack-CVE/CVE-2020-27779)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27779">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27779">
 
 ---
+## CVE-2020-27778 (2020-12-03T17:15:00)
+> A flaw was found in Poppler in the way certain PDF files were converted into HTML. A remote attacker could exploit this flaw by providing a malicious PDF file that, when processed by the 'pdftohtml' program, would crash the application causing a denial of service.
+- [Live-Hack-CVE/CVE-2020-27778](https://github.com/Live-Hack-CVE/CVE-2020-27778)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27778">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27778">
+
+---
 ## CVE-2020-27751 (2020-12-08T22:15:00)
 > A flaw was found in ImageMagick in MagickCore/quantum-export.c. An attacker who submits a crafted file that is processed by ImageMagick could trigger undefined behavior in the form of values outside the range of type `unsigned long long` as well as a shift exponent that is too large for 64-bit type. This would most likely lead to an impact to application availability, but could potentially cause other problems related to undefined behavior. This flaw affects ImageMagick versions prior to 7.0.9-0.
 - [Live-Hack-CVE/CVE-2020-27751](https://github.com/Live-Hack-CVE/CVE-2020-27751)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27751">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27751">
@@ -2990,6 +2995,11 @@
 - [guglia001/MassZeroLogon](https://github.com/guglia001/MassZeroLogon)	<img alt="forks" src="https://img.shields.io/github/forks/guglia001/MassZeroLogon">	<img alt="stars" src="https://img.shields.io/github/stars/guglia001/MassZeroLogon">
 - [Rvn0xsy/ZeroLogon](https://github.com/Rvn0xsy/ZeroLogon)	<img alt="forks" src="https://img.shields.io/github/forks/Rvn0xsy/ZeroLogon">	<img alt="stars" src="https://img.shields.io/github/stars/Rvn0xsy/ZeroLogon">
 - [sv3nbeast/CVE-2020-1472](https://github.com/sv3nbeast/CVE-2020-1472)	<img alt="forks" src="https://img.shields.io/github/forks/sv3nbeast/CVE-2020-1472">	<img alt="stars" src="https://img.shields.io/github/stars/sv3nbeast/CVE-2020-1472">
+
+---
+## CVE-2020-14664 (2020-07-15T18:15:00)
+> Vulnerability in the Java SE product of Oracle Java SE (component: JavaFX). The supported version that is affected is Java SE: 8u251. Difficult to exploit vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise Java SE. Successful attacks require human interaction from a person other than the attacker and while the vulnerability is in Java SE, attacks may significantly impact additional products. Successful attacks of this vulnerability can result in takeover of Java SE. Note: This vulnerability applies to Java deployments, typically in clients running sandboxed Java Web Start applications or sandboxed Java applets, that load and run untrusted code (e.g., code that comes from the internet) and rely on the Java sandbox for security. This vulnerability does not apply to Java deployments, typically in servers, that load and run only trusted code (e.g., code installed by an administrator). CVSS 3.1 Base Score 8.3 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:C/C:H/I:H/A:H).
+- [Live-Hack-CVE/CVE-2020-14664](https://github.com/Live-Hack-CVE/CVE-2020-14664)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14664">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14664">
 
 ---
 ## CVE-2020-14583 (2020-07-15T18:15:00)

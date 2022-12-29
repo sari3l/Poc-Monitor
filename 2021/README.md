@@ -346,6 +346,11 @@
 - [Live-Hack-CVE/CVE-2021-45036](https://github.com/Live-Hack-CVE/CVE-2021-45036)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45036">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45036">
 
 ---
+## CVE-2021-45035 (2022-09-23T16:15:00)
+> Velneo vClient on its 28.1.3 version, does not correctly check the certificate of authenticity by default. This could allow an attacker that has access to the network to perform a MITM attack in order to obtain the user´s credentials.
+- [Live-Hack-CVE/CVE-2021-45035](https://github.com/Live-Hack-CVE/CVE-2021-45035)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45035">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45035">
+
+---
 ## CVE-2021-45010 ()
 > 
 - [BKreisel/CVE-2021-45010](https://github.com/BKreisel/CVE-2021-45010)	<img alt="forks" src="https://img.shields.io/github/forks/BKreisel/CVE-2021-45010">	<img alt="stars" src="https://img.shields.io/github/stars/BKreisel/CVE-2021-45010">
@@ -1539,6 +1544,11 @@
 - [Live-Hack-CVE/CVE-2021-41434](https://github.com/Live-Hack-CVE/CVE-2021-41434)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41434">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41434">
 
 ---
+## CVE-2021-41433 (2022-09-27T23:15:00)
+> SQL Injection vulnerability exists in version 1.0 of the Resumes Management and Job Application Website application login form by EGavilan Media that allows authentication bypass through login.php.
+- [Live-Hack-CVE/CVE-2021-41433](https://github.com/Live-Hack-CVE/CVE-2021-41433)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41433">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41433">
+
+---
 ## CVE-2021-4140 (2022-12-22T20:15:00)
 > It was possible to construct specific XSLT markup that would be able to bypass an iframe sandbox. This vulnerability affects Firefox ESR < 91.5, Firefox < 96, and Thunderbird < 91.5.
 - [Live-Hack-CVE/CVE-2021-4140](https://github.com/Live-Hack-CVE/CVE-2021-4140)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4140">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4140">
@@ -2473,6 +2483,11 @@
 - [midoxnet/CVE-2021-38647](https://github.com/midoxnet/CVE-2021-38647)	<img alt="forks" src="https://img.shields.io/github/forks/midoxnet/CVE-2021-38647">	<img alt="stars" src="https://img.shields.io/github/stars/midoxnet/CVE-2021-38647">
 
 ---
+## CVE-2021-38604 (2021-08-12T16:15:00)
+> In librt in the GNU C Library (aka glibc) through 2.34, sysdeps/unix/sysv/linux/mq_notify.c mishandles certain NOTIFY_REMOVED data, leading to a NULL pointer dereference. NOTE: this vulnerability was introduced as a side effect of the CVE-2021-33574 fix.
+- [Live-Hack-CVE/CVE-2021-38604](https://github.com/Live-Hack-CVE/CVE-2021-38604)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38604">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38604">
+
+---
 ## CVE-2021-38553 (2021-08-13T16:15:00)
 > HashiCorp Vault and Vault Enterprise 1.4.0 through 1.7.3 initialized an underlying database file associated with the Integrated Storage feature with excessively broad filesystem permissions. Fixed in Vault and Vault Enterprise 1.8.0.
 - [Live-Hack-CVE/CVE-2021-38553](https://github.com/Live-Hack-CVE/CVE-2021-38553)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38553">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38553">
@@ -2858,6 +2873,11 @@
 ## CVE-2021-36981 (2021-08-31T04:15:00)
 > In the server in SerNet verinice before 1.22.2, insecure Java deserialization allows remote authenticated attackers to execute arbitrary code.
 - [Live-Hack-CVE/CVE-2021-36981](https://github.com/Live-Hack-CVE/CVE-2021-36981)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36981">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36981">
+
+---
+## CVE-2021-36976 (2021-07-20T07:15:00)
+> libarchive 3.4.1 through 3.5.1 has a use-after-free in copy_string (called from do_uncompress_block and process_block).
+- [Live-Hack-CVE/CVE-2021-36976](https://github.com/Live-Hack-CVE/CVE-2021-36976)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36976">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36976">
 
 ---
 ## CVE-2021-3697 (2022-07-06T16:15:00)
@@ -3400,6 +3420,11 @@
 ## CVE-2021-3531 (2021-05-18T12:15:00)
 > A flaw was found in the Red Hat Ceph Storage RGW in versions before 14.2.21. When processing a GET Request for a swift URL that ends with two slashes it can cause the rgw to crash, resulting in a denial of service. The greatest threat to the system is of availability.
 - [Live-Hack-CVE/CVE-2021-3531](https://github.com/Live-Hack-CVE/CVE-2021-3531)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3531">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3531">
+
+---
+## CVE-2021-3530 (2021-06-02T15:15:00)
+> A flaw was discovered in GNU libiberty within demangle_path() in rust-demangle.c, as distributed in GNU Binutils version 2.36. A crafted symbol can cause stack memory to be exhausted leading to a crash.
+- [Live-Hack-CVE/CVE-2021-3530](https://github.com/Live-Hack-CVE/CVE-2021-3530)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3530">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3530">
 
 ---
 ## CVE-2021-35296 (2021-10-04T17:15:00)
@@ -4001,6 +4026,11 @@
 ## CVE-2021-33538 (2021-06-25T19:15:00)
 > In Weidmueller Industrial WLAN devices in multiple versions an exploitable improper access control vulnerability exists in the iw_webs account settings functionality. A specially crafted user name entry can cause the overwrite of an existing user account password, resulting in remote shell access to the device as that user. An attacker can send commands while authenticated as a low privilege user to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2021-33538](https://github.com/Live-Hack-CVE/CVE-2021-33538)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33538">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33538">
+
+---
+## CVE-2021-33515 (2021-06-28T13:15:00)
+> The submission service in Dovecot before 2.3.15 allows STARTTLS command injection in lib-smtp. Sensitive information can be redirected to an attacker-controlled address.
+- [Live-Hack-CVE/CVE-2021-33515](https://github.com/Live-Hack-CVE/CVE-2021-33515)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33515">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33515">
 
 ---
 ## CVE-2021-33477 (2021-05-20T20:15:00)
@@ -6011,6 +6041,16 @@
 > Insufficiently Protected Credentials vulnerability exists in homeLYnk (Wiser For KNX) and spaceLYnk V2.60 and prior that could cause unauthorized access of when credentials are discovered after a brute force attack.
 - [Live-Hack-CVE/CVE-2021-22737](https://github.com/Live-Hack-CVE/CVE-2021-22737)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22737">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22737">
 - [Live-Hack-CVE/CVE-2021-22737](https://github.com/Live-Hack-CVE/CVE-2021-22737)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22737">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22737">
+
+---
+## CVE-2021-22725 (2022-01-28T20:15:00)
+> A CVE-352 Cross-Site Request Forgery (CSRF) vulnerability exists that could allow an attacker to impersonate the user or carry out actions on their behalf when crafted malicious parameters are submitted in POST requests sent to the charging station web server. Affected Products: EVlink City EVC1S22P4 / EVC1S7P4 (All versions prior to R8 V3.4.0.2 ), EVlink Parking EVW2 / EVF2 / EVP2PE (All versions prior to R8 V3.4.0.2), and EVlink Smart Wallbox EVB1A (All versions prior to R8 V3.4.0.2)
+- [Live-Hack-CVE/CVE-2021-22725](https://github.com/Live-Hack-CVE/CVE-2021-22725)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22725">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22725">
+
+---
+## CVE-2021-22724 (2022-01-28T20:15:00)
+> A CVE-352 Cross-Site Request Forgery (CSRF) vulnerability exists that could allow an attacker to impersonate the user or carry out actions on their behalf when crafted malicious parameters are submitted in POST requests sent to the charging station web server. Affected Products: EVlink City EVC1S22P4 / EVC1S7P4 (All versions prior to R8 V3.4.0.2 ), EVlink Parking EVW2 / EVF2 / EVP2PE (All versions prior to R8 V3.4.0.2), and EVlink Smart Wallbox EVB1A (All versions prior to R8 V3.4.0.2)
+- [Live-Hack-CVE/CVE-2021-22724](https://github.com/Live-Hack-CVE/CVE-2021-22724)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22724">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22724">
 
 ---
 ## CVE-2021-22716 (2021-04-13T19:15:00)
