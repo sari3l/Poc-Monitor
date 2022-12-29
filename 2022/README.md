@@ -3760,6 +3760,11 @@
 - [Live-Hack-CVE/CVE-2022-43409](https://github.com/Live-Hack-CVE/CVE-2022-43409)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43409">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43409">
 
 ---
+## CVE-2022-43408 (2022-10-19T16:15:00)
+> Jenkins Pipeline: Stage View Plugin 2.26 and earlier does not correctly encode the ID of 'input' steps when using it to generate URLs to proceed or abort Pipeline builds, allowing attackers able to configure Pipelines to specify 'input' step IDs resulting in URLs that would bypass the CSRF protection of any target URL in Jenkins.
+- [Live-Hack-CVE/CVE-2022-43408](https://github.com/Live-Hack-CVE/CVE-2022-43408)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43408">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43408">
+
+---
 ## CVE-2022-43406 (2022-10-19T16:15:00)
 > A sandbox bypass vulnerability in Jenkins Pipeline: Deprecated Groovy Libraries Plugin 583.vf3b_454e43966 and earlier allows attackers with permission to define untrusted Pipeline libraries and to define and run sandboxed scripts, including Pipelines, to bypass the sandbox protection and execute arbitrary code in the context of the Jenkins controller JVM.
 - [Live-Hack-CVE/CVE-2022-43406](https://github.com/Live-Hack-CVE/CVE-2022-43406)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43406">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43406">
@@ -5466,6 +5471,31 @@
 - [Live-Hack-CVE/CVE-2022-42205](https://github.com/Live-Hack-CVE/CVE-2022-42205)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42205">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42205">
 
 ---
+## CVE-2022-42201 (2022-10-20T13:15:00)
+> Simple Exam Reviewer Management System v1.0 is vulnerable to Insecure file upload.
+- [Live-Hack-CVE/CVE-2022-42201](https://github.com/Live-Hack-CVE/CVE-2022-42201)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42201">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42201">
+
+---
+## CVE-2022-42200 (2022-10-20T13:15:00)
+> Simple Exam Reviewer Management System v1.0 is vulnerable to Stored Cross Site Scripting (XSS) via the Exam List.
+- [Live-Hack-CVE/CVE-2022-42200](https://github.com/Live-Hack-CVE/CVE-2022-42200)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42200">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42200">
+
+---
+## CVE-2022-42199 (2022-10-20T13:15:00)
+> Simple Exam Reviewer Management System v1.0 is vulnerable to Cross Site Request Forgery (CSRF) via the Exam List.
+- [Live-Hack-CVE/CVE-2022-42199](https://github.com/Live-Hack-CVE/CVE-2022-42199)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42199">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42199">
+
+---
+## CVE-2022-42198 (2022-10-20T13:15:00)
+> In Simple Exam Reviewer Management System v1.0 the User List function suffers from insecure file upload.
+- [Live-Hack-CVE/CVE-2022-42198](https://github.com/Live-Hack-CVE/CVE-2022-42198)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42198">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42198">
+
+---
+## CVE-2022-42197 (2022-10-20T13:15:00)
+> In Simple Exam Reviewer Management System v1.0 the User List function has improper access control that allows low privileged users to modify user permissions to higher privileges.
+- [Live-Hack-CVE/CVE-2022-42197](https://github.com/Live-Hack-CVE/CVE-2022-42197)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42197">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42197">
+
+---
 ## CVE-2022-42176 (2022-10-20T15:15:00)
 > In PCTechSoft PCSecure V5.0.8.xw, use of Hard-coded Credentials in configuration files leads to admin panel access.
 - [soy-oreocato/CVE-2022-42176](https://github.com/soy-oreocato/CVE-2022-42176)	<img alt="forks" src="https://img.shields.io/github/forks/soy-oreocato/CVE-2022-42176">	<img alt="stars" src="https://img.shields.io/github/stars/soy-oreocato/CVE-2022-42176">
@@ -5618,6 +5648,11 @@
 ## CVE-2022-42029 (2022-10-17T18:15:00)
 > Chamilo 1.11.16 is affected by an authenticated local file inclusion vulnerability which allows authenticated users with access to 'big file uploads' to copy/move files from anywhere in the file system into the web directory.
 - [Live-Hack-CVE/CVE-2022-42029](https://github.com/Live-Hack-CVE/CVE-2022-42029)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42029">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42029">
+
+---
+## CVE-2022-42021 (2022-10-20T14:15:00)
+> Best Student Result Management System v1.0 is vulnerable to SQL Injection via /upresult/upresult/notice-details.php?nid=.
+- [Live-Hack-CVE/CVE-2022-42021](https://github.com/Live-Hack-CVE/CVE-2022-42021)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42021">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42021">
 
 ---
 ## CVE-2022-41999 (2022-12-22T22:15:00)
@@ -8619,6 +8654,11 @@
 ## CVE-2022-40092 (2022-09-23T14:15:00)
 > Online Tours & Travels Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /tour/admin/update_payment.php.
 - [Live-Hack-CVE/CVE-2022-40092](https://github.com/Live-Hack-CVE/CVE-2022-40092)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40092">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40092">
+
+---
+## CVE-2022-40084 (2022-10-20T14:15:00)
+> OpenCRX before v5.2.2 was discovered to be vulnerable to password enumeration due to the difference in error messages received during a password reset which could enable an attacker to determine if a username, email or ID is valid.
+- [Live-Hack-CVE/CVE-2022-40084](https://github.com/Live-Hack-CVE/CVE-2022-40084)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40084">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40084">
 
 ---
 ## CVE-2022-40076 (2022-09-19T15:15:00)
@@ -12314,6 +12354,16 @@
 ## CVE-2022-3696 (2022-12-01T18:15:00)
 > A post-auth code injection vulnerability allows admins to execute code in Webadmin of Sophos Firewall releases older than version 19.5 GA.
 - [Live-Hack-CVE/CVE-2022-3696](https://github.com/Live-Hack-CVE/CVE-2022-3696)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3696">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3696">
+
+---
+## CVE-2022-36958 (2022-10-20T21:15:00)
+> SolarWinds Platform was susceptible to the Deserialization of Untrusted Data. This vulnerability allows a remote adversary with valid access to SolarWinds Web Console to execute arbitrary commands.
+- [Live-Hack-CVE/CVE-2022-36958](https://github.com/Live-Hack-CVE/CVE-2022-36958)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36958">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36958">
+
+---
+## CVE-2022-36957 (2022-10-20T21:15:00)
+> SolarWinds Platform was susceptible to the Deserialization of Untrusted Data. This vulnerability allows a remote adversary with Orion admin-level account access to SolarWinds Web Console to execute arbitrary commands.
+- [Live-Hack-CVE/CVE-2022-36957](https://github.com/Live-Hack-CVE/CVE-2022-36957)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36957">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36957">
 
 ---
 ## CVE-2022-36946 (2022-07-27T20:15:00)
@@ -17040,6 +17090,11 @@
 ## CVE-2022-31685 (2022-11-09T21:15:00)
 > VMware Workspace ONE Assist prior to 22.10 contains an Authentication Bypass vulnerability. A malicious actor with network access to Workspace ONE Assist may be able to obtain administrative access without the need to authenticate to the application.
 - [Live-Hack-CVE/CVE-2022-31685](https://github.com/Live-Hack-CVE/CVE-2022-31685)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31685">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31685">
+
+---
+## CVE-2022-31684 (2022-10-19T22:15:00)
+> Reactor Netty HTTP Server, in versions 1.0.11 - 1.0.23, may log request headers in some cases of invalid HTTP requests. The logged headers may reveal valid access tokens to those with access to server logs. This may affect only invalid HTTP requests where logging at WARN level is enabled.
+- [Live-Hack-CVE/CVE-2022-31684](https://github.com/Live-Hack-CVE/CVE-2022-31684)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31684">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31684">
 
 ---
 ## CVE-2022-31683 (2022-12-19T16:15:00)
@@ -22074,9 +22129,19 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-22241](https://github.com/Live-Hack-CVE/CVE-2022-22241)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22241">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22241">
 
 ---
+## CVE-2022-22240 (2022-10-18T03:15:00)
+> An Allocation of Resources Without Limits or Throttling and a Missing Release of Memory after Effective Lifetime vulnerability in the routing protocol daemon (rpd) of Juniper Networks Junos OS and Junos OS Evolved allows a locally authenticated low privileged attacker to cause a Denial of Sevice (DoS). In a high-scaled BGP routing environment with rib-sharding enabled, two issues may occur when executing a specific CLI command. One is a memory leak issue with rpd where the leak rate is not constant, and the other is a temporary spike in rpd memory usage during command execution. This issue affects: Juniper Networks Junos OS 19.4 versions prior to 19.4R3-S9; 20.2 versions prior to 20.2R3-S5; 20.3 versions prior to 20.3R3-S2; 20.4 versions prior to 20.4R3-S1; 21.1 versions prior to 21.1R3; 21.2 versions prior to 21.2R1-S2, 21.2R2-S1, 21.2R3; 21.3 versions prior to 21.3R2. Juniper Networks Junos OS Evolved All versions prior to 20.4R3-S1-EVO; 21.1-EVO version 21.1R1-EVO and later versions; 21.2-EVO versions prior to 21.2R1-S2-EVO, 21.2R3-EVO; 21.3-EVO versions prior to 21.3R2-EVO. This issue does not affect Juniper Networks Junos OS versions prior to 19.2R1.
+- [Live-Hack-CVE/CVE-2022-22240](https://github.com/Live-Hack-CVE/CVE-2022-22240)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22240">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22240">
+
+---
 ## CVE-2022-22239 (2022-10-18T03:15:00)
 > An Execution with Unnecessary Privileges vulnerability in Management Daemon (mgd) of Juniper Networks Junos OS Evolved allows a locally authenticated attacker with low privileges to escalate their privileges on the device and potentially remote systems. This vulnerability allows a locally authenticated attacker with access to the ssh operational command to escalate their privileges on the system to root, or if there is user interaction on the local device to potentially escalate privileges on a remote system to root. This issue affects Juniper Networks Junos OS Evolved: All versions prior to 20.4R3-S5-EVO; 21.1-EVO versions prior to 21.1R3-EVO; 21.2-EVO versions prior to 21.2R2-S1-EVO, 21.2R3-EVO; 21.3-EVO versions prior to 21.3R2-EVO. This issue does not affect Juniper Networks Junos OS.
 - [Live-Hack-CVE/CVE-2022-22239](https://github.com/Live-Hack-CVE/CVE-2022-22239)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22239">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22239">
+
+---
+## CVE-2022-22238 (2022-10-18T03:15:00)
+> An Improper Check for Unusual or Exceptional Conditions vulnerability in the routing protocol daemon (rpd) of Juniper Networks Junos OS and Junos OS Evolved allows an unauthenticated, adjacent attacker to cause a Denial of Service (DoS). When an incoming RESV message corresponding to a protected LSP is malformed it causes an incorrect internal state resulting in an rpd core. This issue affects: Juniper Networks Junos OS All versions prior to 19.2R3-S6; 19.3 versions prior to 19.3R3-S6; 19.4 versions prior to 19.4R3-S8; 20.1 versions prior to 20.1R3-S2; 20.2 versions prior to 20.2R3-S3; 20.3 versions prior to 20.3R3-S2; 20.4 versions prior to 20.4R3-S1; 21.1 versions prior to 21.1R3; 21.2 versions prior to 21.2R1-S2, 21.2R3; 21.3 versions prior to 21.3R2. Juniper Networks Junos OS Evolved All versions prior to 20.2R3-S3-EVO; 20.3-EVO version 20.3R1-EVO and later versions; 20.4-EVO versions prior to 20.4R3-S1-EVO; 21.1-EVO version 21.1R1-EVO and later versions; 21.2-EVO version 21.2R1-EVO and later versions; 21.3-EVO versions prior to 21.3R2-EVO.
+- [Live-Hack-CVE/CVE-2022-22238](https://github.com/Live-Hack-CVE/CVE-2022-22238)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22238">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22238">
 
 ---
 ## CVE-2022-22237 (2022-10-18T03:15:00)
@@ -22084,9 +22149,19 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-22237](https://github.com/Live-Hack-CVE/CVE-2022-22237)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22237">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22237">
 
 ---
+## CVE-2022-22236 (2022-10-18T03:15:00)
+> An Access of Uninitialized Pointer vulnerability in SIP Application Layer Gateway (ALG) of Juniper Networks Junos OS on SRX Series and MX Series allows an unauthenticated, network-based attacker to cause a Denial of Service (DoS). When specific valid SIP packets are received the PFE will crash and restart. This issue affects Juniper Networks Junos OS on SRX Series and MX Series: 20.4 versions prior to 20.4R3-S4; 21.1 versions prior to 21.1R3-S2; 21.2 versions prior to 21.2R3-S2; 21.3 versions prior to 21.3R2-S2, 21.3R3; 21.4 versions prior to 21.4R1-S2, 21.4R2; 22.1 versions prior to 22.1R1-S1, 22.1R2. This issue does not affect Juniper Networks Junos OS versions prior to 20.4R1.
+- [Live-Hack-CVE/CVE-2022-22236](https://github.com/Live-Hack-CVE/CVE-2022-22236)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22236">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22236">
+
+---
 ## CVE-2022-22235 (2022-10-18T03:15:00)
 > An Improper Check for Unusual or Exceptional Conditions vulnerability in the Packet Forwarding Engine (PFE) of Juniper Networks Junos OS on SRX Series allows an unauthenticated, network-based, attacker to cause Denial of Service (DoS). A PFE crash will happen when a GPRS Tunnel Protocol (GTP) packet is received with a malformed field in the IP header of GTP encapsulated General Packet Radio Services (GPRS) traffic. The packet needs to match existing state which is outside the attackers control, so the issue cannot be directly exploited. The issue will only be observed when endpoint address validation is enabled. This issue affects Juniper Networks Junos OS on SRX Series: 20.2 versions prior to 20.2R3-S5; 20.3 versions prior to 20.3R3-S4; 20.4 versions prior to 20.4R3-S3; 21.1 versions prior to 21.1R3-S2; 21.2 versions prior to 21.2R3-S1; 21.3 versions prior to 21.3R3; 21.4 versions prior to 21.4R1-S2, 21.4R2; 22.1 versions prior to 22.1R1-S1, 22.1R2. This issue does not affect Juniper Networks Junos OS versions prior to 20.2R1.
 - [Live-Hack-CVE/CVE-2022-22235](https://github.com/Live-Hack-CVE/CVE-2022-22235)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22235">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22235">
+
+---
+## CVE-2022-22234 (2022-10-18T03:15:00)
+> An Improper Preservation of Consistency Between Independent Representations of Shared State vulnerability in the Packet Forwarding Engine (PFE) of Juniper Networks Junos OS allows a locally authenticated attacker with low privileges to cause a Denial of Service (DoS). If the device is very busy for example while executing a series of show commands on the CLI one or more SFPs might not be detected anymore. The system then changes its state to "unplugged" which is leading to traffic impact and at least a partial DoS. Once the system is less busy the port states return to their actual value. Indicators of compromise are log messages about unplugged SFPs and corresponding syspld messages without any physical or environmental cause. These can be checked by issuing the following commands: user@device# show log messages | match unplugged %PFE-6: fpc0 sfp-0/1/2 SFP unplugged %PFE-6: fpc0 sfp-0/1/3 SFP unplugged The following log messages will also be seen when this issue happens: fpc0 Error tvp_drv_syspld_read: syspld read failed for address <address> fpc0 Error[-1]:tvp_optics_presence_get - Syspld read failed for port <pic/port> fpc0 optics pres failed(-1) for pic <pic> port <port> fpc0 tvp_drv_syspld_read: i2c access retry count 200 This issue affects Juniper Networks Junos OS on EX2300 Series, EX3400 Series: All versions prior to 18.4R3-S11; 19.1 versions prior to 19.1R3-S9; 19.2 versions prior to 19.2R1-S9, 19.2R3-S5; 19.3 versions prior to 19.3R3-S6; 19.4 versions prior to 19.4R2-S7, 19.4R3-S8; 20.1 versions prior to 20.1R3-S4; 20.2 versions prior to 20.2R3-S4; 20.3 versions prior to 20.3R3-S4; 20.4 versions prior to 20.4R3-S3; 21.1 versions prior to 21.1R3-S1; 21.2 versions prior to 21.2R3; 21.3 versions prior to 21.3R2; 21.4 versions prior to 21.4R2.
+- [Live-Hack-CVE/CVE-2022-22234](https://github.com/Live-Hack-CVE/CVE-2022-22234)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22234">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22234">
 
 ---
 ## CVE-2022-22233 (2022-10-18T03:15:00)
@@ -22104,14 +22179,39 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-22231](https://github.com/Live-Hack-CVE/CVE-2022-22231)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22231">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22231">
 
 ---
+## CVE-2022-22227 (2022-10-18T03:15:00)
+> An Improper Check for Unusual or Exceptional Conditions vulnerability in the Packet Forwarding Engine (PFE) of Juniper Networks Junos OS Evolved on ACX7000 Series allows an unauthenticated network-based attacker to cause a partial Denial of Service (DoS). On receipt of specific IPv6 transit traffic, Junos OS Evolved on ACX7100-48L, ACX7100-32C and ACX7509 sends this traffic to the Routing Engine (RE) instead of forwarding it, leading to increased CPU utilization of the RE and a partial DoS. This issue only affects systems configured with IPv6. This issue does not affect ACX7024 which is supported from 22.3R1-EVO onwards where the fix has already been incorporated as indicated in the solution section. This issue affects Juniper Networks Junos OS Evolved on ACX7100-48L, ACX7100-32C, ACX7509: 21.1-EVO versions prior to 21.1R3-S2-EVO; 21.2-EVO versions prior to 21.2R3-S2-EVO; 21.3-EVO versions prior to 21.3R3-EVO; 21.4-EVO versions prior to 21.4R1-S1-EVO, 21.4R2-EVO. This issue does not affect Juniper Networks Junos OS Evolved versions prior to 21.1R1-EVO.
+- [Live-Hack-CVE/CVE-2022-22227](https://github.com/Live-Hack-CVE/CVE-2022-22227)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22227">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22227">
+
+---
+## CVE-2022-22226 (2022-10-18T03:15:00)
+> In VxLAN scenarios on EX4300-MP, EX4600, QFX5000 Series devices an Uncontrolled Memory Allocation vulnerability in the Packet Forwarding Engine (PFE) of Juniper Networks Junos OS allows an unauthenticated adjacently located attacker sending specific packets to cause a Denial of Service (DoS) condition by crashing one or more PFE's when they are received and processed by the device. Upon automatic restart of the PFE, continued processing of these packets will cause the memory leak to reappear. Depending on the volume of packets received the attacker may be able to create a sustained Denial of Service (DoS) condition. This issue affects: Juniper Networks Junos OS on EX4300-MP, EX4600, QFX5000 Series: 17.1 version 17.1R1 and later versions prior to 17.3R3-S12; 17.4 versions prior to 17.4R2-S13, 17.4R3-S5; 18.1 versions prior to 18.1R3-S13; 18.2 versions prior to 18.2R3-S8; 18.3 versions prior to 18.3R3-S5; 18.4 versions prior to 18.4R1-S8, 18.4R2-S6, 18.4R3-S6; 19.1 versions prior to 19.1R3-S4; 19.2 versions prior to 19.2R1-S7, 19.2R3-S1; 19.3 versions prior to 19.3R2-S6, 19.3R3-S1; 19.4 versions prior to 19.4R1-S4, 19.4R2-S4, 19.4R3-S1; 20.1 versions prior to 20.1R2; 20.2 versions prior to 20.2R2-S3, 20.2R3; 20.3 versions prior to 20.3R2. This issue does not affect Junos OS versions prior to 17.1R1.
+- [Live-Hack-CVE/CVE-2022-22226](https://github.com/Live-Hack-CVE/CVE-2022-22226)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22226">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22226">
+
+---
 ## CVE-2022-22224 (2022-10-18T03:15:00)
 > An Improper Check or Handling of Exceptional Conditions vulnerability in the processing of a malformed OSPF TLV in Juniper Networks Junos OS and Junos OS Evolved allows an unauthenticated adjacent attacker to cause the periodic packet management daemon (PPMD) process to go into an infinite loop, which in turn can cause protocols and functions reliant on PPMD such as OSPF neighbor reachability to be impacted, resulting in a sustained Denial of Service (DoS) condition. The DoS condition persists until the PPMD process is manually restarted. This issue affects: Juniper Networks Junos OS: All versions prior to 19.1R3-S9; 19.2 versions prior to 19.2R3-S5; 19.3 versions prior to 19.3R3-S3; 19.4 versions prior to 19.4R3-S9; 20.1 versions prior to 20.1R3; 20.2 versions prior to 20.2R3-S1; 20.3 versions prior to 20.3R3; 20.4 versions prior to 20.4R3; 21.1 versions prior to 21.1R2. Juniper Networks Junos OS Evolved: All versions prior to 20.4R3-S3-EVO; 21.1 versions prior to 21.1R2-EVO.
 - [Live-Hack-CVE/CVE-2022-22224](https://github.com/Live-Hack-CVE/CVE-2022-22224)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22224">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22224">
 
 ---
+## CVE-2022-22223 (2022-10-18T03:15:00)
+> On QFX10000 Series devices using Juniper Networks Junos OS when configured as transit IP/MPLS penultimate hop popping (PHP) nodes with link aggregation group (LAG) interfaces, an Improper Validation of Specified Index, Position, or Offset in Input weakness allows an attacker sending certain IP packets to cause multiple interfaces in the LAG to detach causing a Denial of Service (DoS) condition. Continued receipt and processing of these packets will sustain the Denial of Service. This issue affects IPv4 and IPv6 packets. Packets of either type can cause and sustain the DoS event. These packets can be destined to the device or be transit packets. On devices such as the QFX10008 with line cards, line cards can be restarted to restore service. On devices such as the QFX10002 you can restart the PFE service, or reboot device to restore service. This issue affects: Juniper Networks Junos OS on QFX10000 Series: All versions prior to 15.1R7-S11; 18.4 versions prior to 18.4R2-S10, 18.4R3-S10; 19.1 versions prior to 19.1R3-S8; 19.2 versions prior to 19.2R3-S4; 19.3 versions prior to 19.3R3-S5; 19.4 versions prior to 19.4R2-S6, 19.4R3-S7; 20.1 versions prior to 20.1R3-S3; 20.2 versions prior to 20.2R3-S3; 20.3 versions prior to 20.3R3-S2; 20.4 versions prior to 20.4R3-S4; 21.1 versions prior to 21.1R3; 21.2 versions prior to 21.2R3-S3; 21.3 versions prior to 21.3R3-S1. An indicator of compromise may be seen by issuing the command: request pfe execute target fpc0 command "show jspec pechip[3] registers ps l2_node 10" timeout 0 | refresh 1 | no-more and reviewing for backpressured output; for example: GOT: 0x220702a8 pe.ps.l2_node[10].pkt_cnt 00000076 GOT: 0x220702b4 pe.ps.l2_node[10].backpressured 00000002 <<<< STICKS HERE and requesting detail on the pepic wanio: request pfe execute target fpc0 command "show pepic 0 wanio-info" timeout 0 | no-more | match xe-0/0/0:2 GOT: 3 xe-0/0/0:2 10 6 3 0 1 10 189 10 0x6321b088 <<< LOOK HERE as well as looking for tail drops looking at the interface queue, for example: show interfaces queue xe-0/0/0:2 resulting in: Transmitted: Total-dropped packets: 1094137 0 pps << LOOK HERE
+- [Live-Hack-CVE/CVE-2022-22223](https://github.com/Live-Hack-CVE/CVE-2022-22223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22223">
+
+---
 ## CVE-2022-22220 (2022-10-18T03:15:00)
 > A Time-of-check Time-of-use (TOCTOU) Race Condition vulnerability in Routing Protocol Daemon (rpd) of Juniper Networks Junos OS, Junos OS Evolved allows a network-based unauthenticated attacker to cause a Denial of Service (DoS). When a BGP flow route with redirect IP extended community is received, and the reachability to the next-hop of the corresponding redirect IP is flapping, the rpd process might crash. Whether the crash occurs depends on the timing of the internally processing of these two events and is outside the attackers control. Please note that this issue also affects Route-Reflectors unless 'routing-options flow firewall-install-disable' is configured. This issue affects: Juniper Networks Junos OS: 18.4 versions prior to 18.4R2-S10, 18.4R3-S10; 19.1 versions prior to 19.1R3-S7; 19.2 versions prior to 19.2R1-S8, 19.2R3-S4; 19.4 versions prior to 19.4R3-S8; 20.2 versions prior to 20.2R3-S3; 20.3 versions prior to 20.3R3-S2; 20.4 versions prior to 20.4R3; 21.1 versions prior to 21.1R2. Juniper Networks Junos OS Evolved: All versions prior to 20.4R2-EVO; 21.1-EVO versions prior to 21.1R2-EVO. This issue does not affect Juniper Networks Junos OS versions prior to 18.4R1.
 - [Live-Hack-CVE/CVE-2022-22220](https://github.com/Live-Hack-CVE/CVE-2022-22220)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22220">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22220">
+
+---
+## CVE-2022-22219 (2022-10-18T03:15:00)
+> Due to the Improper Handling of an Unexpected Data Type in the processing of EVPN routes on Juniper Networks Junos OS and Junos OS Evolved, an attacker in direct control of a BGP client connected to a route reflector, or via a machine in the middle (MITM) attack, can send a specific EVPN route contained within a BGP Update, triggering a routing protocol daemon (RPD) crash, leading to a Denial of Service (DoS) condition. Continued receipt and processing of these specific EVPN routes could create a sustained Denial of Service (DoS) condition. This issue only occurs on BGP route reflectors, only within a BGP EVPN multicast environment, and only when one or more BGP clients have 'leave-sync-route-oldstyle' enabled. This issue affects: Juniper Networks Junos OS 21.3 versions prior to 21.3R3-S2; 21.4 versions prior to 21.4R2-S2, 21.4R3; 22.1 versions prior to 22.1R1-S2, 22.1R3; 22.2 versions prior to 22.2R2. Juniper Networks Junos OS Evolved 21.3 version 21.3R1-EVO and later versions prior to 21.4R3-EVO; 22.1 versions prior to 22.1R1-S2-EVO, 22.1R3-EVO; 22.2 versions prior to 22.2R2-EVO. This issue does not affect: Juniper Networks Junos OS versions prior to 21.3R1. Juniper Networks Junos OS Evolved versions prior to 21.3R1-EVO.
+- [Live-Hack-CVE/CVE-2022-22219](https://github.com/Live-Hack-CVE/CVE-2022-22219)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22219">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22219">
+
+---
+## CVE-2022-22211 (2022-10-18T03:15:00)
+> A limitless resource allocation vulnerability in FPC resources of Juniper Networks Junos OS Evolved on PTX Series allows an unprivileged attacker to cause Denial of Service (DoS). Continuously polling the SNMP jnxCosQstatTable causes the FPC to run out of GUID space, causing a Denial of Service to the FPC resources. When the FPC runs out of the GUID space, you will see the following syslog messages. The evo-aftmand-bt process is asserting. fpc1 evo-aftmand-bt[17556]: %USER-3: get_next_guid: Ran out of Guid Space start 1748051689472 end 1752346656767 fpc1 audit[17556]: %AUTH-5: ANOM_ABEND auid=4294967295 uid=0 gid=0 ses=4294967295 pid=17556 comm="EvoAftManBt-mai" exe="/usr/sbin/evo-aftmand-bt" sig=6 fpc1 kernel: %KERN-5: audit: type=1701 audit(1648567505.119:57): auid=4294967295 uid=0 gid=0 ses=4294967295 pid=17556 comm="EvoAftManBt-mai" exe="/usr/sbin/evo-aftmand-bt" sig=6 fpc1 emfd-fpa[14438]: %USER-5: Alarm set: APP color=red, class=CHASSIS, reason=Application evo-aftmand-bt fail on node Fpc1 fpc1 emfd-fpa[14438]: %USER-3-EMF_FPA_ALARM_REP: RaiseAlarm: Alarm(Location: /Chassis[0]/Fpc[1] Module: sysman Object: evo-aftmand-bt:0 Error: 2) reported fpc1 sysepochman[12738]: %USER-5-SYSTEM_REBOOT_EVENT: Reboot [node] [ungraceful reboot] [evo-aftmand-bt exited] The FPC resources can be monitored using the following commands: user@router> start shell [vrf:none] user@router-re0:~$ cli -c "show platform application-info allocations app evo-aftmand-bt" | grep ^fpc | grep -v Route | grep -i -v Nexthop | awk '{total[$1] += $5} END { for (key in total) { print key " " total[key]/4294967296 }}' Once the FPCs become unreachable they must be manually restarted as they do not self-recover. This issue affects Juniper Networks Junos OS Evolved on PTX Series: All versions prior to 20.4R3-S4-EVO; 21.1-EVO version 21.1R1-EVO and later versions; 21.2-EVO version 21.2R1-EVO and later versions; 21.3-EVO versions prior to 21.3R3-EVO; 21.4-EVO versions prior to 21.4R2-EVO; 22.1-EVO versions prior to 22.1R2-EVO.
+- [Live-Hack-CVE/CVE-2022-22211](https://github.com/Live-Hack-CVE/CVE-2022-22211)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22211">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22211">
 
 ---
 ## CVE-2022-22208 (2022-10-18T03:15:00)

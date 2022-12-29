@@ -91,6 +91,11 @@
 - [Live-Hack-CVE/CVE-2020-9296](https://github.com/Live-Hack-CVE/CVE-2020-9296)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9296">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9296">
 
 ---
+## CVE-2020-9285 (2022-10-20T17:15:00)
+> Some versions of Sonos One (1st and 2nd generation) allow partial or full memory access via attacker controlled hardware that can be attached to the Mini-PCI Express slot on the motherboard that hosts the WiFi card on the device.
+- [Live-Hack-CVE/CVE-2020-9285](https://github.com/Live-Hack-CVE/CVE-2020-9285)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9285">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9285">
+
+---
 ## CVE-2020-9274 (2020-02-26T16:15:00)
 > An issue was discovered in Pure-FTPd 1.0.49. An uninitialized pointer vulnerability has been detected in the diraliases linked list. When the *lookup_alias(const char alias) or print_aliases(void) function is called, they fail to correctly detect the end of the linked list and try to access a non-existent list member. This is related to init_aliases in diraliases.c.
 - [Live-Hack-CVE/CVE-2020-9274](https://github.com/Live-Hack-CVE/CVE-2020-9274)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9274">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9274">
@@ -1708,6 +1713,11 @@
 - [Live-Hack-CVE/CVE-2020-25634](https://github.com/Live-Hack-CVE/CVE-2020-25634)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25634">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25634">
 
 ---
+## CVE-2020-25629 (2020-12-08T01:15:00)
+> A vulnerability was found in Moodle where users with "Log in as" capability in a course context (typically, course managers) may gain access to some site administration capabilities by "logging in as" a System manager. This affects 3.9 to 3.9.1, 3.8 to 3.8.4, 3.7 to 3.7.7, 3.5 to 3.5.13 and earlier unsupported versions. This is fixed in 3.9.2, 3.8.5, 3.7.8 and 3.5.14.
+- [Live-Hack-CVE/CVE-2020-25629](https://github.com/Live-Hack-CVE/CVE-2020-25629)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25629">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25629">
+
+---
 ## CVE-2020-25596 (2020-09-23T22:15:00)
 > An issue was discovered in Xen through 4.14.x. x86 PV guest kernels can experience denial of service via SYSENTER. The SYSENTER instruction leaves various state sanitization activities to software. One of Xen's sanitization paths injects a #GP fault, and incorrectly delivers it twice to the guest. This causes the guest kernel to observe a kernel-privilege #GP fault (typically fatal) rather than a user-privilege #GP fault (usually converted into SIGSEGV/etc.). Malicious or buggy userspace can crash the guest kernel, resulting in a VM Denial of Service. All versions of Xen from 3.2 onwards are vulnerable. Only x86 systems are vulnerable. ARM platforms are not vulnerable. Only x86 systems that support the SYSENTER instruction in 64bit mode are vulnerable. This is believed to be Intel, Centaur, and Shanghai CPUs. AMD and Hygon CPUs are not believed to be vulnerable. Only x86 PV guests can exploit the vulnerability. x86 PVH / HVM guests cannot exploit the vulnerability.
 - [Live-Hack-CVE/CVE-2020-25596](https://github.com/Live-Hack-CVE/CVE-2020-25596)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25596">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25596">
@@ -1823,6 +1833,11 @@
 - [Ko-kn3t/CVE-2020-25270](https://github.com/Ko-kn3t/CVE-2020-25270)	<img alt="forks" src="https://img.shields.io/github/forks/Ko-kn3t/CVE-2020-25270">	<img alt="stars" src="https://img.shields.io/github/stars/Ko-kn3t/CVE-2020-25270">
 
 ---
+## CVE-2020-25238 (2021-02-09T17:15:00)
+> A vulnerability has been identified in PCS neo (Administration Console) (All versions < V3.1), TIA Portal (V15, V15.1 and V16). Manipulating certain files in specific folders could allow a local attacker to execute code with SYSTEM privileges. The security vulnerability could be exploited by an attacker with a valid account and limited access rights on the system.
+- [Live-Hack-CVE/CVE-2020-25238](https://github.com/Live-Hack-CVE/CVE-2020-25238)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25238">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25238">
+
+---
 ## CVE-2020-25213 (2020-09-09T16:15:00)
 > The File Manager (wp-file-manager) plugin before 6.9 for WordPress allows remote attackers to upload and execute arbitrary PHP code because it renames an unsafe example elFinder connector file to have the .php extension. This, for example, allows attackers to run the elFinder upload (or mkfile and put) command to write PHP code into the wp-content/plugins/wp-file-manager/lib/files/ directory. This was exploited in the wild in August and September 2020.
 - [b1ackros337/CVE-2020-25213](https://github.com/b1ackros337/CVE-2020-25213)	<img alt="forks" src="https://img.shields.io/github/forks/b1ackros337/CVE-2020-25213">	<img alt="stars" src="https://img.shields.io/github/stars/b1ackros337/CVE-2020-25213">
@@ -1840,9 +1855,19 @@
 - [Live-Hack-CVE/CVE-2020-25206](https://github.com/Live-Hack-CVE/CVE-2020-25206)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25206">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25206">
 
 ---
+## CVE-2020-25193 (2022-03-18T18:15:00)
+> By having access to the hard-coded cryptographic key for GE Reason RT430, RT431 & RT434 GNSS clocks in firmware versions prior to version 08A06, attackers would be able to intercept and decrypt encrypted traffic through an HTTPS connection.
+- [Live-Hack-CVE/CVE-2020-25193](https://github.com/Live-Hack-CVE/CVE-2020-25193)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25193">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25193">
+
+---
 ## CVE-2020-2519 (2020-01-15T17:15:00)
 > Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0 and 12.2.1.4.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks require human interaction from a person other than the attacker. Successful attacks of this vulnerability can result in unauthorized ability to cause a partial denial of service (partial DOS) of Oracle WebLogic Server. CVSS 3.0 Base Score 4.3 (Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:L).
 - [Live-Hack-CVE/CVE-2020-2519](https://github.com/Live-Hack-CVE/CVE-2020-2519)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2519">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2519">
+
+---
+## CVE-2020-25184 (2022-03-18T18:15:00)
+> Rockwell Automation ISaGRAF Runtime Versions 4.x and 5.x stores the password in plaintext in a file that is in the same directory as the executable file. ISaGRAF Runtime reads the file and saves the data in a variable without any additional modification. A local, unauthenticated attacker could compromise the user passwords, resulting in information disclosure.
+- [Live-Hack-CVE/CVE-2020-25184](https://github.com/Live-Hack-CVE/CVE-2020-25184)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25184">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25184">
 
 ---
 ## CVE-2020-2518 (2020-01-15T17:15:00)
@@ -2501,6 +2526,11 @@
 - [Live-Hack-CVE/CVE-2020-16164](https://github.com/Live-Hack-CVE/CVE-2020-16164)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-16164">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-16164">
 
 ---
+## CVE-2020-16122 (2020-11-07T04:15:00)
+> PackageKit's apt backend mistakenly treated all local debs as trusted. The apt security model is based on repository trust and not on the contents of individual files. On sites with configured PolicyKit rules this may allow users to install malicious packages.
+- [Live-Hack-CVE/CVE-2020-16122](https://github.com/Live-Hack-CVE/CVE-2020-16122)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-16122">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-16122">
+
+---
 ## CVE-2020-15802 (2020-09-11T14:15:00)
 > Devices supporting Bluetooth before 5.1 may allow man-in-the-middle attacks, aka BLURtooth. Cross Transport Key Derivation in Bluetooth Core Specification v4.2 and v5.0 may permit an unauthenticated user to establish a bonding with one transport, either LE or BR/EDR, and replace a bonding already established on the opposing transport, BR/EDR or LE, potentially overwriting an authenticated key with an unauthenticated key, or a key with greater entropy with one with less.
 - [Live-Hack-CVE/CVE-2020-15802](https://github.com/Live-Hack-CVE/CVE-2020-15802)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15802">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15802">
@@ -2559,6 +2589,16 @@
 - [Live-Hack-CVE/CVE-2020-15229](https://github.com/Live-Hack-CVE/CVE-2020-15229)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15229">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15229">
 
 ---
+## CVE-2020-15223 (2020-09-24T17:15:00)
+> In ORY Fosite (the security first OAuth2 & OpenID Connect framework for Go) before version 0.34.0, the `TokenRevocationHandler` ignores errors coming from the storage. This can lead to unexpected 200 status codes indicating successful revocation while the token is still valid. Whether an attacker can use this for her advantage depends on the ability to trigger errors in the store. This is fixed in version 0.34.0
+- [Live-Hack-CVE/CVE-2020-15223](https://github.com/Live-Hack-CVE/CVE-2020-15223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15223">
+
+---
+## CVE-2020-15117 (2020-07-15T18:15:00)
+> In Synergy before version 1.12.0, a Synergy server can be crashed by receiving a kMsgHelloBack packet with a client name length set to 0xffffffff (4294967295) if the servers memory is less than 4 GB. It was verified that this issue does not cause a crash through the exception handler if the available memory of the Server is more than 4GB.
+- [Live-Hack-CVE/CVE-2020-15117](https://github.com/Live-Hack-CVE/CVE-2020-15117)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15117">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15117">
+
+---
 ## CVE-2020-15115 (2020-08-06T22:15:00)
 > etcd before versions 3.3.23 and 3.4.10 does not perform any password length validation, which allows for very short passwords, such as those with a length of one. This may allow an attacker to guess or brute-force users' passwords with little computational effort.
 - [Live-Hack-CVE/CVE-2020-15115](https://github.com/Live-Hack-CVE/CVE-2020-15115)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15115">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15115">
@@ -2567,6 +2607,11 @@
 ## CVE-2020-15113 (2020-08-05T20:15:00)
 > In etcd before versions 3.3.23 and 3.4.10, certain directory paths are created (etcd data directory and the directory path when provided to automatically generate self-signed certificates for TLS connections with clients) with restricted access permissions (700) by using the os.MkdirAll. This function does not perform any permission checks when a given directory path exists already. A possible workaround is to ensure the directories have the desired permission (700).
 - [Live-Hack-CVE/CVE-2020-15113](https://github.com/Live-Hack-CVE/CVE-2020-15113)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15113">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15113">
+
+---
+## CVE-2020-15087 (2020-06-30T17:15:00)
+> In Presto before version 337, authenticated users can bypass authorization checks by directly accessing internal APIs. This impacts Presto server installations with secure internal communication configured. This does not affect installations that have not configured secure internal communication, as these installations are inherently insecure. This only affects Presto server installations. This does NOT affect clients such as the CLI or JDBC driver. This vulnerability has been fixed in version 337. Additionally, this issue can be mitigated by blocking network access to internal APIs on the coordinator and workers.
+- [Live-Hack-CVE/CVE-2020-15087](https://github.com/Live-Hack-CVE/CVE-2020-15087)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15087">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15087">
 
 ---
 ## CVE-2020-15025 (2020-06-24T19:15:00)
@@ -2924,6 +2969,11 @@
 ## CVE-2020-12762 (2020-05-09T18:15:00)
 > json-c through 0.14 has an integer overflow and out-of-bounds write via a large JSON file, as demonstrated by printbuf_memappend.
 - [Live-Hack-CVE/CVE-2020-12762](https://github.com/Live-Hack-CVE/CVE-2020-12762)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12762">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12762">
+
+---
+## CVE-2020-12744 (2022-10-20T11:15:00)
+> The MSI installer in Verint Desktop Resources 15.2 allows an unprivileged local user to elevate their privileges during install or repair.
+- [Live-Hack-CVE/CVE-2020-12744](https://github.com/Live-Hack-CVE/CVE-2020-12744)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12744">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12744">
 
 ---
 ## CVE-2020-12672 (2020-05-06T03:15:00)
