@@ -1872,6 +1872,31 @@
 - [Live-Hack-CVE/CVE-2021-4019](https://github.com/Live-Hack-CVE/CVE-2021-4019)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4019">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4019">
 
 ---
+## CVE-2021-40166 (2022-10-07T18:15:00)
+> A maliciously crafted PNG file in Autodesk Image Processing component may be used to attempt to free an object that has already been freed while parsing them. This vulnerability may be exploited by attackers to execute arbitrary code.
+- [Live-Hack-CVE/CVE-2021-40166](https://github.com/Live-Hack-CVE/CVE-2021-40166)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40166">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40166">
+
+---
+## CVE-2021-40165 (2022-10-07T18:15:00)
+> A maliciously crafted TIFF, PICT, TGA, or RLC file in Autodesk Image Processing component may be used to write beyond the allocated buffer while parsing TIFF, PICT, TGA, or RLC files. This vulnerability may be exploited to execute arbitrary code.
+- [Live-Hack-CVE/CVE-2021-40165](https://github.com/Live-Hack-CVE/CVE-2021-40165)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40165">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40165">
+
+---
+## CVE-2021-40164 (2022-10-07T18:15:00)
+> A heap-based buffer overflow could occur while parsing TIFF, PICT, TGA, or RLC files. This vulnerability may be exploited to execute arbitrary code.
+- [Live-Hack-CVE/CVE-2021-40164](https://github.com/Live-Hack-CVE/CVE-2021-40164)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40164">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40164">
+
+---
+## CVE-2021-40163 (2022-10-07T18:15:00)
+> A Memory Corruption vulnerability may lead to code execution through maliciously crafted DLL files through Autodesk Image Processing component.
+- [Live-Hack-CVE/CVE-2021-40163](https://github.com/Live-Hack-CVE/CVE-2021-40163)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40163">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40163">
+
+---
+## CVE-2021-40162 (2022-10-07T18:15:00)
+> A maliciously crafted TIF, PICT, TGA, or RLC files in Autodesk Image Processing component may be forced to read beyond allocated boundaries when parsing the TIFF, PICT, TGA, or RLC files. This vulnerability may be exploited to execute arbitrary code.
+- [Live-Hack-CVE/CVE-2021-40162](https://github.com/Live-Hack-CVE/CVE-2021-40162)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40162">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40162">
+
+---
 ## CVE-2021-40113 (2021-11-04T16:15:00)
 > Multiple vulnerabilities in the web-based management interface of the Cisco Catalyst Passive Optical Network (PON) Series Switches Optical Network Terminal (ONT) could allow an unauthenticated, remote attacker to perform the following actions: Log in with a default credential if the Telnet protocol is enabled Perform command injection Modify the configuration For more information about these vulnerabilities, see the Details section of this advisory.
 - [Live-Hack-CVE/CVE-2021-40113](https://github.com/Live-Hack-CVE/CVE-2021-40113)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40113">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40113">

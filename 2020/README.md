@@ -1728,6 +1728,11 @@
 - [Live-Hack-CVE/CVE-2020-2585](https://github.com/Live-Hack-CVE/CVE-2020-2585)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2585">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2585">
 
 ---
+## CVE-2020-25834 (2020-11-17T01:15:00)
+> Cross-Site Scripting vulnerability on Micro Focus ArcSight Logger product, affecting version 7.1. The vulnerability could be remotely exploited resulting in Cross-Site Scripting (XSS).
+- [Live-Hack-CVE/CVE-2020-25834](https://github.com/Live-Hack-CVE/CVE-2020-25834)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25834">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25834">
+
+---
 ## CVE-2020-25790 (2020-09-19T21:15:00)
 > ** DISPUTED ** Typesetter CMS 5.x through 5.1 allows admins to upload and execute arbitrary PHP code via a .php file inside a ZIP archive. NOTE: the vendor disputes the significance of this report because "admins are considered trustworthy"; however, the behavior "contradicts our security policy" and is being fixed for 5.2.
 - [7Mitu/CVE-2020-25790](https://github.com/7Mitu/CVE-2020-25790)	<img alt="forks" src="https://img.shields.io/github/forks/7Mitu/CVE-2020-25790">	<img alt="stars" src="https://img.shields.io/github/stars/7Mitu/CVE-2020-25790">
