@@ -623,14 +623,54 @@
 - [Live-Hack-CVE/CVE-2020-6425](https://github.com/Live-Hack-CVE/CVE-2020-6425)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6425">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6425">
 
 ---
+## CVE-2020-6371 (2020-10-15T02:15:00)
+> User enumeration vulnerability can be exploited to get a list of user accounts and personal user information can be exposed in SAP NetWeaver Application Server ABAP (POWL test application) versions - 710, 711, 730, 731, 740, 750, leading to Information Disclosure.
+- [Live-Hack-CVE/CVE-2020-6371](https://github.com/Live-Hack-CVE/CVE-2020-6371)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6371">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6371">
+
+---
 ## CVE-2020-6364 (2020-10-15T02:15:00)
 > SAP Solution Manager and SAP Focused Run (update provided in WILY_INTRO_ENTERPRISE 9.7, 10.1, 10.5, 10.7), allows an attacker to modify a cookie in a way that OS commands can be executed and potentially gain control over the host running the CA Introscope Enterprise Manager,leading to Code Injection. With this, the attacker is able to read and modify all system files and also impact system availability.
 - [gquere/CVE-2020-6364](https://github.com/gquere/CVE-2020-6364)	<img alt="forks" src="https://img.shields.io/github/forks/gquere/CVE-2020-6364">	<img alt="stars" src="https://img.shields.io/github/stars/gquere/CVE-2020-6364">
 
 ---
+## CVE-2020-6310 (2020-08-12T14:15:00)
+> Improper access control in SOA Configuration Trace component in SAP NetWeaver (ABAP Server) and ABAP Platform, versions - 702, 730, 731, 740, 750, allows any authenticated user to enumerate all SAP users, leading to Information Disclosure.
+- [Live-Hack-CVE/CVE-2020-6310](https://github.com/Live-Hack-CVE/CVE-2020-6310)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6310">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6310">
+
+---
+## CVE-2020-6299 (2020-08-12T14:15:00)
+> SAP NetWeaver (ABAP Server) and ABAP Platform, versions - 740, 750, 751, 752, 753, 754, 755, allows a business user to access the list of users in the given system using value help, leading to Information Disclosure.
+- [Live-Hack-CVE/CVE-2020-6299](https://github.com/Live-Hack-CVE/CVE-2020-6299)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6299">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6299">
+
+---
+## CVE-2020-6296 (2020-08-12T14:15:00)
+> SAP NetWeaver (ABAP Server) and ABAP Platform, versions - 700, 701, 702, 710, 711, 730, 731, 740, 750, 751, 753, 755, allows an attacker to inject code that can be executed by the application, leading to Code Injection. An attacker could thereby control the behavior of the application.
+- [Live-Hack-CVE/CVE-2020-6296](https://github.com/Live-Hack-CVE/CVE-2020-6296)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6296">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6296">
+
+---
+## CVE-2020-6280 (2020-07-14T13:15:00)
+> SAP NetWeaver (ABAP Server) and ABAP Platform, versions 731, 740, 750, allows an attacker with admin privileges to access certain files which should otherwise be restricted, leading to Information Disclosure.
+- [Live-Hack-CVE/CVE-2020-6280](https://github.com/Live-Hack-CVE/CVE-2020-6280)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6280">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6280">
+
+---
+## CVE-2020-6275 (2020-06-10T13:15:00)
+> SAP Netweaver AS ABAP, versions 700, 701, 702, 710, 711, 730, 731, 740, 750, 751, 752, 753, 754, are vulnerable for Server Side Request Forgery Attack where in an attacker can use inappropriate path names containing malicious server names in the import/export of sessions functionality and coerce the web server into authenticating with the malicious server. Furthermore, if NTLM is setup the attacker can compromise confidentiality, integrity and availability of the SAP database.
+- [Live-Hack-CVE/CVE-2020-6275](https://github.com/Live-Hack-CVE/CVE-2020-6275)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6275">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6275">
+
+---
+## CVE-2020-6270 (2020-06-10T13:15:00)
+> SAP NetWeaver AS ABAP (Banking Services), versions - 710, 711, 740, 750, 751, 752, 75A, 75B, 75C, 75D, 75E, does not perform necessary authorization checks for an authenticated user due to Missing Authorization Check, allowing wrong and unexpected change of individual conditions by a malicious user leading to wrong prices.
+- [Live-Hack-CVE/CVE-2020-6270](https://github.com/Live-Hack-CVE/CVE-2020-6270)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6270">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6270">
+
+---
 ## CVE-2020-6267 (2020-07-14T13:15:00)
 > Some sensitive cookies in SAP Disclosure Management, version 10.1, are missing HttpOnly flag, leading to sensitive cookie without Http Only flag.
 - [Live-Hack-CVE/CVE-2020-6267](https://github.com/Live-Hack-CVE/CVE-2020-6267)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6267">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6267">
+
+---
+## CVE-2020-6240 (2020-05-12T18:15:00)
+> SAP NetWeaver AS ABAP (Web Dynpro ABAP), versions (SAP_UI 750, 752, 753, 754 and SAP_BASIS 700, 710, 730, 731, 804) allows an unauthenticated attacker to prevent legitimate users from accessing a service, either by crashing or flooding the service leading to Denial of Service
+- [Live-Hack-CVE/CVE-2020-6240](https://github.com/Live-Hack-CVE/CVE-2020-6240)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6240">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6240">
 
 ---
 ## CVE-2020-6099 (2022-04-18T17:15:00)
@@ -1668,6 +1708,26 @@
 ## CVE-2020-2687 (2020-01-15T17:15:00)
 > Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Elastic Search). Supported versions that are affected are 8.56 and 8.57. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise PeopleSoft Enterprise PeopleTools. Successful attacks require human interaction from a person other than the attacker. Successful attacks of this vulnerability can result in unauthorized read access to a subset of PeopleSoft Enterprise PeopleTools accessible data. CVSS 3.0 Base Score 4.3 (Confidentiality impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N).
 - [Live-Hack-CVE/CVE-2020-2687](https://github.com/Live-Hack-CVE/CVE-2020-2687)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2687">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2687">
+
+---
+## CVE-2020-26835 (2020-12-09T17:15:00)
+> SAP NetWeaver AS ABAP, versions - 740, 750, 751, 752, 753, 754 , does not sufficiently encode URL which allows an attacker to input malicious java script in the URL which could be executed in the browser resulting in Reflected Cross-Site Scripting (XSS) vulnerability.
+- [Live-Hack-CVE/CVE-2020-26835](https://github.com/Live-Hack-CVE/CVE-2020-26835)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-26835">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-26835">
+
+---
+## CVE-2020-26832 (2020-12-09T17:15:00)
+> SAP AS ABAP (SAP Landscape Transformation), versions - 2011_1_620, 2011_1_640, 2011_1_700, 2011_1_710, 2011_1_730, 2011_1_731, 2011_1_752, 2020 and SAP S4 HANA (SAP Landscape Transformation), versions - 101, 102, 103, 104, 105, allows a high privileged user to execute a RFC function module to which access should be restricted, however due to missing authorization an attacker can get access to some sensitive internal information of vulnerable SAP system or to make vulnerable SAP systems completely unavailable.
+- [Live-Hack-CVE/CVE-2020-26832](https://github.com/Live-Hack-CVE/CVE-2020-26832)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-26832">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-26832">
+
+---
+## CVE-2020-26819 (2020-11-10T17:15:00)
+> SAP NetWeaver AS ABAP (Web Dynpro), versions - 731, 740, 750, 751, 752, 753, 754, 755, 782, allows an authenticated user to access Web Dynpro components, that allows them to read and delete database logfiles because of Improper Access Control.
+- [Live-Hack-CVE/CVE-2020-26819](https://github.com/Live-Hack-CVE/CVE-2020-26819)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-26819">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-26819">
+
+---
+## CVE-2020-26818 (2020-11-10T17:15:00)
+> SAP NetWeaver AS ABAP (Web Dynpro), versions - 731, 740, 750, 751, 752, 753, 754, 755, 782, allows an authenticated user to access Web Dynpro components, which reveals sensitive system information that would otherwise be restricted to highly privileged users because of missing authorization, resulting in Information Disclosure.
+- [Live-Hack-CVE/CVE-2020-26818](https://github.com/Live-Hack-CVE/CVE-2020-26818)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-26818">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-26818">
 
 ---
 ## CVE-2020-26733 (2021-01-14T16:15:00)

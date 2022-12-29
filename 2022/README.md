@@ -5391,6 +5391,11 @@
 - [Live-Hack-CVE/CVE-2022-42309](https://github.com/Live-Hack-CVE/CVE-2022-42309)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42309">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42309">
 
 ---
+## CVE-2022-42302 (2022-10-03T15:15:00)
+> An issue was discovered in Veritas NetBackup through 10.0 and related Veritas products. The NetBackup Primary server is vulnerable to a SQL Injection attack affecting the NBFSMCLIENT service.
+- [Live-Hack-CVE/CVE-2022-42302](https://github.com/Live-Hack-CVE/CVE-2022-42302)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42302">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42302">
+
+---
 ## CVE-2022-4229 (2022-11-30T12:15:00)
 > A vulnerability classified as critical was found in SourceCodester Book Store Management System 1.0. This vulnerability affects unknown code of the file /bsms_ci/index.php. The manipulation leads to improper access controls. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-214588.
 - [Live-Hack-CVE/CVE-2022-4229](https://github.com/Live-Hack-CVE/CVE-2022-4229)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4229">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4229">
@@ -8048,6 +8053,11 @@
 - [Live-Hack-CVE/CVE-2022-40735](https://github.com/Live-Hack-CVE/CVE-2022-40735)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40735">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40735">
 
 ---
+## CVE-2022-40721 (2022-10-03T15:15:00)
+> Arbitrary file upload vulnerability in php uploader
+- [Live-Hack-CVE/CVE-2022-40721](https://github.com/Live-Hack-CVE/CVE-2022-40721)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40721">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40721">
+
+---
 ## CVE-2022-40716 (2022-09-23T12:15:00)
 > HashiCorp Consul and Consul Enterprise up to 1.11.8, 1.12.4, and 1.13.1 do not check for multiple SAN URI values in a CSR on the internal RPC endpoint, enabling leverage of privileged access to bypass service mesh intentions. Fixed in 1.11.9, 1.12.5, and 1.13.2."
 - [Live-Hack-CVE/CVE-2022-40716](https://github.com/Live-Hack-CVE/CVE-2022-40716)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40716">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40716">
@@ -9279,6 +9289,11 @@
 ## CVE-2022-3980 (2022-11-16T13:15:00)
 > An XML External Entity (XEE) vulnerability allows server-side request forgery (SSRF) and potential code execution in Sophos Mobile managed on-premises between versions 5.0.0 and 9.7.4.
 - [Live-Hack-CVE/CVE-2022-3980](https://github.com/Live-Hack-CVE/CVE-2022-3980)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3980">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3980">
+
+---
+## CVE-2022-39799 (2022-09-13T16:15:00)
+> An attacker with no prior authentication could craft and send malicious script to SAP GUI for HTML within Fiori Launchpad, resulting in reflected cross-site scripting attack. This could lead to stealing session information and impersonating the affected user.
+- [Live-Hack-CVE/CVE-2022-39799](https://github.com/Live-Hack-CVE/CVE-2022-39799)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39799">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39799">
 
 ---
 ## CVE-2022-3971 (2022-11-13T10:15:00)
@@ -14691,6 +14706,11 @@
 - [Live-Hack-CVE/CVE-2022-35295](https://github.com/Live-Hack-CVE/CVE-2022-35295)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35295">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35295">
 
 ---
+## CVE-2022-35294 (2022-09-13T16:15:00)
+> An attacker with basic business user privileges could craft and upload a malicious file to SAP NetWeaver Application Server ABAP, which is then downloaded and viewed by other users resulting in a stored Cross-Site-Scripting attack. This could lead to information disclosure including stealing authentication information and impersonating the affected user.
+- [Live-Hack-CVE/CVE-2022-35294](https://github.com/Live-Hack-CVE/CVE-2022-35294)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35294">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35294">
+
+---
 ## CVE-2022-35289 (2022-10-11T02:15:00)
 > A write-what-where condition in hermes caused by an integer overflow, prior to commit 5b6255ae049fa4641791e47fad994e8e8c4da374 allows attackers to potentially execute arbitrary code via crafted JavaScript. Note that this is only exploitable if the application using Hermes permits evaluation of untrusted JavaScript. Hence, most React Native applications are not affected.
 - [Live-Hack-CVE/CVE-2022-35289](https://github.com/Live-Hack-CVE/CVE-2022-35289)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35289">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35289">
@@ -16075,6 +16095,11 @@
 > A maliciously crafted PCT or DWF file when consumed through DesignReview.exe application could lead to memory corruption vulnerability by read access violation. This vulnerability in conjunction with other vulnerabilities could lead to code execution in the context of the current process.
 - [Live-Hack-CVE/CVE-2022-33890](https://github.com/Live-Hack-CVE/CVE-2022-33890)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33890">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33890">
 - [Live-Hack-CVE/CVE-2022-33890](https://github.com/Live-Hack-CVE/CVE-2022-33890)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33890">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33890">
+
+---
+## CVE-2022-33882 (2022-10-03T16:15:00)
+> Under certain conditions, an attacker could create an unintended sphere of control through a vulnerability present in file delete operation in Autodesk desktop app (ADA). An attacker could leverage this vulnerability to escalate privileges and execute arbitrary code.
+- [Live-Hack-CVE/CVE-2022-33882](https://github.com/Live-Hack-CVE/CVE-2022-33882)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33882">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33882">
 
 ---
 ## CVE-2022-3388 (2022-11-21T19:15:00)
@@ -19678,6 +19703,11 @@
 - [Live-Hack-CVE/CVE-2022-2873](https://github.com/Live-Hack-CVE/CVE-2022-2873)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2873">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2873">
 
 ---
+## CVE-2022-28722 (2022-09-26T15:15:00)
+> Certain HP Print Products are potentially vulnerable to Buffer Overflow.
+- [Live-Hack-CVE/CVE-2022-28722](https://github.com/Live-Hack-CVE/CVE-2022-28722)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28722">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28722">
+
+---
 ## CVE-2022-2872 (2022-09-21T10:15:00)
 > Unrestricted Upload of File with Dangerous Type in GitHub repository octoprint/octoprint prior to 1.8.3.
 - [Live-Hack-CVE/CVE-2022-2872](https://github.com/Live-Hack-CVE/CVE-2022-2872)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2872">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2872">
@@ -22832,6 +22862,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-22577 (2022-05-26T17:15:00)
 > An XSS Vulnerability in Action Pack >= 5.2.0 and < 5.2.0 that could allow an attacker to bypass CSP for non HTML like responses.
 - [Live-Hack-CVE/CVE-2022-22577](https://github.com/Live-Hack-CVE/CVE-2022-22577)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22577">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22577">
+
+---
+## CVE-2022-22540 (2022-02-09T23:15:00)
+> SAP NetWeaver AS ABAP (Workplace Server) - versions 700, 701, 702, 731, 740, 750, 751, 752, 753, 754, 755, 756, 787, allows an attacker to execute crafted database queries, that could expose the backend database. Successful attacks could result in disclosure of a table of contents from the system, but no risk of modification possible.
+- [Live-Hack-CVE/CVE-2022-22540](https://github.com/Live-Hack-CVE/CVE-2022-22540)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22540">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22540">
 
 ---
 ## CVE-2022-22538 (2022-02-09T23:15:00)

@@ -2101,6 +2101,11 @@
 - [Live-Hack-CVE/CVE-2019-0845](https://github.com/Live-Hack-CVE/CVE-2019-0845)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-0845">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-0845">
 
 ---
+## CVE-2019-0257 (2019-02-15T18:29:00)
+> Customizing functionality of SAP NetWeaver AS ABAP Platform (fixed in versions from 7.0 to 7.02, from 7.10 to 7.11, 7.30, 7.31, 7.40, from 7.50 to 7.53, from 7.74 to 7.75) does not perform necessary authorization checks for an authenticated user, resulting in escalation of privileges.
+- [Live-Hack-CVE/CVE-2019-0257](https://github.com/Live-Hack-CVE/CVE-2019-0257)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-0257">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-0257">
+
+---
 ## CVE-2019-0230 (2020-09-14T17:15:00)
 > Apache Struts 2.0.0 to 2.5.20 forced double OGNL evaluation, when evaluated on raw user input in tag attributes, may lead to remote code execution.
 - [Live-Hack-CVE/CVE-2019-0230](https://github.com/Live-Hack-CVE/CVE-2019-0230)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-0230">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-0230">

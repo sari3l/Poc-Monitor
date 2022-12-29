@@ -533,6 +533,11 @@
 - [Live-Hack-CVE/CVE-2021-44358](https://github.com/Live-Hack-CVE/CVE-2021-44358)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44358">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44358">
 
 ---
+## CVE-2021-44231 (2021-12-14T16:15:00)
+> Internally used text extraction reports allow an attacker to inject code that can be executed by the application. An attacker could thereby control the behavior of the application.
+- [Live-Hack-CVE/CVE-2021-44231](https://github.com/Live-Hack-CVE/CVE-2021-44231)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44231">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44231">
+
+---
 ## CVE-2021-44228 (2021-12-10T10:15:00)
 > Apache Log4j2 2.0-beta9 through 2.15.0 (excluding security releases 2.12.2, 2.12.3, and 2.3.1) JNDI features used in configuration, log messages, and parameters do not protect against attacker controlled LDAP and other JNDI related endpoints. An attacker who can control log messages or log message parameters can execute arbitrary code loaded from LDAP servers when message lookup substitution is enabled. From log4j 2.15.0, this behavior has been disabled by default. From version 2.16.0 (along with 2.12.2, 2.12.3, and 2.3.1), this functionality has been completely removed. Note that this vulnerability is specific to log4j-core and does not affect log4net, log4cxx, or other Apache Logging Services projects.
 - [aws-samples/kubernetes-log4j-cve-2021-44228-node-agent](https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent)	<img alt="forks" src="https://img.shields.io/github/forks/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent">	<img alt="stars" src="https://img.shields.io/github/stars/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent">
@@ -3826,6 +3831,16 @@
 - [Live-Hack-CVE/CVE-2021-33713](https://github.com/Live-Hack-CVE/CVE-2021-33713)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33713">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33713">
 
 ---
+## CVE-2021-33678 (2021-07-14T12:15:00)
+> A function module of SAP NetWeaver AS ABAP (Reconciliation Framework), versions - 700, 701, 702, 710, 711, 730, 731, 740, 750, 751, 752, 75A, 75B, 75B, 75C, 75D, 75E, 75F, allows a high privileged attacker to inject code that can be executed by the application. An attacker could thereby delete some critical information and could make the SAP system completely unavailable.
+- [Live-Hack-CVE/CVE-2021-33678](https://github.com/Live-Hack-CVE/CVE-2021-33678)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33678">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33678">
+
+---
+## CVE-2021-33663 (2021-06-09T14:15:00)
+> SAP NetWeaver AS ABAP, versions - KRNL32NUC - 7.22,7.22EXT, KRNL32UC - 7.22,7.22EXT, KRNL64NUC - 7.22,7.22EXT,7.49, KRNL64UC - 8.04,7.22,7.22EXT,7.49,7.53,7.73, KERNEL - 7.22,8.04,7.49,7.53,7.73,7.77,7.81,7.82,7.83,7.84, allows an unauthorized attacker to insert cleartext commands due to improper restriction of I/O buffering into encrypted SMTP sessions over the network which can partially impact the integrity of the application.
+- [Live-Hack-CVE/CVE-2021-33663](https://github.com/Live-Hack-CVE/CVE-2021-33663)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33663">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33663">
+
+---
 ## CVE-2021-33656 (2022-07-18T15:15:00)
 > When setting font with malicous data by ioctl cmd PIO_FONT,kernel will write memory out of bounds.
 - [Live-Hack-CVE/CVE-2021-33656](https://github.com/Live-Hack-CVE/CVE-2021-33656)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33656">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33656">
@@ -4872,6 +4887,11 @@
 - [Live-Hack-CVE/CVE-2021-27620](https://github.com/Live-Hack-CVE/CVE-2021-27620)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27620">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27620">
 
 ---
+## CVE-2021-27611 (2021-05-11T15:15:00)
+> SAP NetWeaver AS ABAP, versions - 700, 701, 702, 730, 731, allow a high privileged attacker to inject malicious code by executing an ABAP report when the attacker has access to the local SAP system. The attacker could then get access to data, overwrite them, or execute a denial of service.
+- [Live-Hack-CVE/CVE-2021-27611](https://github.com/Live-Hack-CVE/CVE-2021-27611)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27611">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27611">
+
+---
 ## CVE-2021-27607 (2021-06-09T14:15:00)
 > SAP NetWeaver ABAP Server and ABAP Platform (Dispatcher), versions - KRNL32NUC - 7.22,7.22EXT, KRNL32UC - 7.22,7.22EXT, KRNL64NUC - 7.22,7.22EXT,7.49, KRNL64UC - 8.04,7.22,7.22EXT,7.49,7.53,7.73, KERNEL - 7.22,8.04,7.49,7.53,7.73,7.77,7.81,7.82,7.83, allows an unauthenticated attacker without specific knowledge of the system to send a specially crafted packet over a network which will trigger an internal error in the system due to improper input validation in method ThSncIn() causing the system to crash and rendering it unavailable. In this attack, no data in the system can be viewed or modified.
 - [Live-Hack-CVE/CVE-2021-27607](https://github.com/Live-Hack-CVE/CVE-2021-27607)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27607">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27607">
@@ -4880,6 +4900,11 @@
 ## CVE-2021-27606 (2021-06-09T14:15:00)
 > SAP NetWeaver ABAP Server and ABAP Platform (Enqueue Server), versions - KRNL32NUC - 7.22,7.22EXT, KRNL64NUC - 7.22,7.22EXT,7.49, KRNL64UC - 8.04,7.22,7.22EXT,7.49,7.53,7.73, KERNEL - 7.22,8.04,7.49,7.53,7.73, allows an unauthenticated attacker without specific knowledge of the system to send a specially crafted packet over a network which will trigger an internal error in the system due to improper input validation in method EncOAMParamStore() causing the system to crash and rendering it unavailable. In this attack, no data in the system can be viewed or modified.
 - [Live-Hack-CVE/CVE-2021-27606](https://github.com/Live-Hack-CVE/CVE-2021-27606)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27606">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27606">
+
+---
+## CVE-2021-27603 (2021-04-13T19:15:00)
+> An RFC enabled function module SPI_WAIT_MILLIS in SAP NetWeaver AS ABAP, versions - 731, 740, 750, allows to keep a work process busy for any length of time. An attacker could call this function module multiple times to block all work processes thereby causing Denial of Service and affecting the Availability of the SAP system.
+- [Live-Hack-CVE/CVE-2021-27603](https://github.com/Live-Hack-CVE/CVE-2021-27603)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27603">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27603">
 
 ---
 ## CVE-2021-27597 (2021-06-09T14:15:00)
@@ -6079,6 +6104,16 @@
 - [Live-Hack-CVE/CVE-2021-21893](https://github.com/Live-Hack-CVE/CVE-2021-21893)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21893">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21893">
 
 ---
+## CVE-2021-21877 (2021-12-22T19:15:00)
+> Specially-crafted HTTP requests can lead to arbitrary command execution in “GET” requests. An attacker can make authenticated HTTP requests to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-21877](https://github.com/Live-Hack-CVE/CVE-2021-21877)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21877">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21877">
+
+---
+## CVE-2021-21876 (2021-12-22T19:15:00)
+> Specially-crafted HTTP requests can lead to arbitrary command execution in PUT requests. An attacker can make authenticated HTTP requests to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-21876](https://github.com/Live-Hack-CVE/CVE-2021-21876)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21876">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21876">
+
+---
 ## CVE-2021-21870 (2021-08-05T21:15:00)
 > A use-after-free vulnerability exists in the JavaScript engine of Foxit Software’s PDF Reader, version 10.1.4.37651. A specially crafted PDF document can trigger the reuse of previously free memory, which can lead to arbitrary code execution. An attacker needs to trick the user into opening a malicious file or site to trigger this vulnerability if the browser plugin extension is enabled.
 - [Live-Hack-CVE/CVE-2021-21870](https://github.com/Live-Hack-CVE/CVE-2021-21870)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21870">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21870">
@@ -6247,6 +6282,21 @@
 ## CVE-2021-21510 (2021-03-08T22:15:00)
 > Dell iDRAC8 versions prior to 2.75.100.75 contain a host header injection vulnerability. A remote unauthenticated attacker may potentially exploit this vulnerability by injecting arbitrary ‘Host’ header values to poison a web-cache or trigger redirections.
 - [Live-Hack-CVE/CVE-2021-21510](https://github.com/Live-Hack-CVE/CVE-2021-21510)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21510">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21510">
+
+---
+## CVE-2021-21490 (2021-06-09T14:15:00)
+> SAP NetWeaver AS for ABAP (Web Survey), versions - 700, 702, 710, 711, 730, 731, 750, 750, 752, 75A, 75F, does not sufficiently encode input and output parameters which results in reflected cross site scripting vulnerability, through which a malicious user can access data relating to the current session and use it to impersonate a user and access all information with the same rights as the target user.
+- [Live-Hack-CVE/CVE-2021-21490](https://github.com/Live-Hack-CVE/CVE-2021-21490)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21490">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21490">
+
+---
+## CVE-2021-21473 (2021-06-09T14:15:00)
+> SAP NetWeaver AS ABAP and ABAP Platform, versions - 700, 702, 710, 711, 730, 731, 740, 750, 751, 752, 753, 754, 755, contains function module SRM_RFC_SUBMIT_REPORT which fails to validate authorization of an authenticated user thus allowing an unauthorized user to execute reports in SAP NetWeaver ABAP Platform.
+- [Live-Hack-CVE/CVE-2021-21473](https://github.com/Live-Hack-CVE/CVE-2021-21473)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21473">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21473">
+
+---
+## CVE-2021-21446 (2021-01-12T15:15:00)
+> SAP NetWeaver AS ABAP, versions 740, 750, 751, 752, 753, 754, 755, allows an unauthenticated attacker to prevent legitimate users from accessing a service, either by crashing or flooding the service, this has a high impact on the availability of the service.
+- [Live-Hack-CVE/CVE-2021-21446](https://github.com/Live-Hack-CVE/CVE-2021-21446)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21446">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21446">
 
 ---
 ## CVE-2021-21437 (2021-03-22T09:15:00)
