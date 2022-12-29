@@ -13740,6 +13740,11 @@
 - [Live-Hack-CVE/CVE-2022-37133](https://github.com/Live-Hack-CVE/CVE-2022-37133)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37133">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37133">
 
 ---
+## CVE-2022-37130 (2022-08-31T23:15:00)
+> In D-Link DIR-816 A2_v1.10CNB04.img a command injection vulnerability occurs in /goform/Diagnosis, after the condition is met, setnum will be spliced into v10 by snprintf, and the system will be executed, resulting in a command injection vulnerability
+- [Live-Hack-CVE/CVE-2022-37130](https://github.com/Live-Hack-CVE/CVE-2022-37130)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37130">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37130">
+
+---
 ## CVE-2022-3713 (2022-12-01T18:15:00)
 > A code injection vulnerability allows adjacent attackers to execute code in the Wifi controller of Sophos Firewall releases older than version 19.5 GA.
 - [Live-Hack-CVE/CVE-2022-3713](https://github.com/Live-Hack-CVE/CVE-2022-3713)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3713">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3713">
@@ -13747,6 +13752,7 @@
 ---
 ## CVE-2022-37129 (2022-08-31T23:15:00)
 > D-Link DIR-816 A2_v1.10CNB04.img is vulnerable to Command Injection via /goform/SystemCommand. After the user passes in the command parameter, it will be spliced into byte_4836B0 by snprintf, and finally doSystem(&byte_4836B0); will be executed, resulting in a command injection.
+- [Live-Hack-CVE/CVE-2022-37129](https://github.com/Live-Hack-CVE/CVE-2022-37129)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37129">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37129">
 - [Live-Hack-CVE/CVE-2022-37129](https://github.com/Live-Hack-CVE/CVE-2022-37129)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37129">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37129">
 
 ---
@@ -13762,6 +13768,7 @@
 ---
 ## CVE-2022-37123 (2022-08-31T23:15:00)
 > D-link DIR-816 A2_v1.10CNB04.img is vulnerable to Command injection via /goform/form2userconfig.cgi.
+- [Live-Hack-CVE/CVE-2022-37123](https://github.com/Live-Hack-CVE/CVE-2022-37123)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37123">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37123">
 - [Live-Hack-CVE/CVE-2022-37123](https://github.com/Live-Hack-CVE/CVE-2022-37123)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37123">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37123">
 
 ---
@@ -14230,6 +14237,11 @@
 - [Live-Hack-CVE/CVE-2022-36798](https://github.com/Live-Hack-CVE/CVE-2022-36798)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36798">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36798">
 
 ---
+## CVE-2022-36796 (2022-09-01T17:15:00)
+> Cross-Site Request Forgery (CSRF) vulnerability leading to Stored Cross-Site Scripting (XSS) in CallRail, Inc. CallRail Phone Call Tracking plugin <= 0.4.9 at WordPress.
+- [Live-Hack-CVE/CVE-2022-36796](https://github.com/Live-Hack-CVE/CVE-2022-36796)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36796">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36796">
+
+---
 ## CVE-2022-36793 (2022-09-09T15:15:00)
 > Unauthenticated Plugin Settings Change & Data Deletion vulnerabilities in WP Shop plugin <= 3.9.6 at WordPress.
 - [Live-Hack-CVE/CVE-2022-36793](https://github.com/Live-Hack-CVE/CVE-2022-36793)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36793">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36793">
@@ -14500,6 +14512,16 @@
 - [Live-Hack-CVE/CVE-2022-36638](https://github.com/Live-Hack-CVE/CVE-2022-36638)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36638">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36638">
 
 ---
+## CVE-2022-36637 (2022-09-02T05:15:00)
+> Garage Management System v1.0 was discovered to contain a persistent cross-site scripting (XSS) vulnerability via the brand_name parameter at /brand.php.
+- [Live-Hack-CVE/CVE-2022-36637](https://github.com/Live-Hack-CVE/CVE-2022-36637)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36637">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36637">
+
+---
+## CVE-2022-36636 (2022-09-02T05:15:00)
+> Garage Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /print.php.
+- [Live-Hack-CVE/CVE-2022-36636](https://github.com/Live-Hack-CVE/CVE-2022-36636)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36636">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36636">
+
+---
 ## CVE-2022-36635 (2022-10-07T23:15:00)
 > ZKteco ZKBioSecurity V5000 4.1.3 was discovered to contain a SQL injection vulnerability via the component /baseOpLog.do.
 - [Live-Hack-CVE/CVE-2022-36635](https://github.com/Live-Hack-CVE/CVE-2022-36635)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36635">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36635">
@@ -14530,6 +14552,11 @@
 - [Live-Hack-CVE/CVE-2022-3662](https://github.com/Live-Hack-CVE/CVE-2022-3662)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3662">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3662">
 
 ---
+## CVE-2022-36619 (2022-08-31T23:15:00)
+> In D-link DIR-816 A2_v1.10CNB04.img,the network can be reset without authentication via /goform/setMAC.
+- [Live-Hack-CVE/CVE-2022-36619](https://github.com/Live-Hack-CVE/CVE-2022-36619)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36619">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36619">
+
+---
 ## CVE-2022-36617 (2022-09-09T16:15:00)
 > Arq Backup 7.19.5.0 and below stores backup encryption passwords using reversible encryption. This issue allows attackers with administrative privileges to recover cleartext passwords.
 - [Live-Hack-CVE/CVE-2022-36617](https://github.com/Live-Hack-CVE/CVE-2022-36617)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36617">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36617">
@@ -14540,14 +14567,29 @@
 - [Live-Hack-CVE/CVE-2022-3661](https://github.com/Live-Hack-CVE/CVE-2022-3661)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3661">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3661">
 
 ---
+## CVE-2022-36609 (2022-09-02T05:15:00)
+> Clinic's Patient Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /pms/update_patient.php.
+- [Live-Hack-CVE/CVE-2022-36609](https://github.com/Live-Hack-CVE/CVE-2022-36609)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36609">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36609">
+
+---
 ## CVE-2022-36601 (2022-09-01T21:15:00)
 > The Eclipse TCF debug interface in JasMiner-X4-Server-20220621-090907 and below is open on port 1534. This issue allows unauthenticated attackers to gain root privileges on the affected device and access sensitive data or execute arbitrary commands.
 - [Live-Hack-CVE/CVE-2022-36601](https://github.com/Live-Hack-CVE/CVE-2022-36601)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36601">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36601">
 
 ---
+## CVE-2022-36600 (2022-09-02T05:15:00)
+> BlogEngine v3.3.8.0 was discovered to contain a cross-site scripting (XSS) vulnerability in the component /blogengine/api/posts. This vulnerability allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Description field.
+- [Live-Hack-CVE/CVE-2022-36600](https://github.com/Live-Hack-CVE/CVE-2022-36600)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36600">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36600">
+
+---
 ## CVE-2022-3660 (2022-11-01T23:15:00)
 > Inappropriate implementation in Full screen mode in Google Chrome on Android prior to 107.0.5304.62 allowed a remote attacker to hide the contents of the Omnibox (URL bar) via a crafted HTML page. (Chromium security severity: Medium)
 - [Live-Hack-CVE/CVE-2022-3660](https://github.com/Live-Hack-CVE/CVE-2022-3660)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3660">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3660">
+
+---
+## CVE-2022-36594 (2022-09-02T04:15:00)
+> Mapper v4.0.0 to v4.2.0 was discovered to contain a SQL injection vulnerability via the ids parameter at the selectByIds function.
+- [Live-Hack-CVE/CVE-2022-36594](https://github.com/Live-Hack-CVE/CVE-2022-36594)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36594">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36594">
 
 ---
 ## CVE-2022-36593 (2022-09-02T04:15:00)
@@ -14580,6 +14622,21 @@
 - [Live-Hack-CVE/CVE-2022-36583](https://github.com/Live-Hack-CVE/CVE-2022-36583)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36583">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36583">
 
 ---
+## CVE-2022-36582 (2022-08-31T20:15:00)
+> An arbitrary file upload vulnerability in the component /php_action/createProduct.php of Garage Management System v1.0 allows attackers to execute arbitrary code via a crafted PHP file.
+- [Live-Hack-CVE/CVE-2022-36582](https://github.com/Live-Hack-CVE/CVE-2022-36582)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36582">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36582">
+
+---
+## CVE-2022-36581 (2022-08-31T20:15:00)
+> Online Ordering System v2.3.2 was discovered to contain a SQL injection vulnerability via the user_email parameter at /admin/login.php.
+- [Live-Hack-CVE/CVE-2022-36581](https://github.com/Live-Hack-CVE/CVE-2022-36581)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36581">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36581">
+
+---
+## CVE-2022-36580 (2022-08-31T20:15:00)
+> An arbitrary file upload vulnerability in the component /admin/products/controller.php?action=add of Online Ordering System v2.3.2 allows attackers to execute arbitrary code via a crafted PHP file.
+- [Live-Hack-CVE/CVE-2022-36580](https://github.com/Live-Hack-CVE/CVE-2022-36580)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36580">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36580">
+
+---
 ## CVE-2022-3658 (2022-11-01T23:15:00)
 > Use after free in Feedback service on Chrome OS in Google Chrome on Chrome OS prior to 107.0.5304.62 allowed an attacker who convinced a user to install a malicious extension to potentially exploit heap corruption via specific UI interaction. (Chromium security severity: Medium)
 - [Live-Hack-CVE/CVE-2022-3658](https://github.com/Live-Hack-CVE/CVE-2022-3658)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3658">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3658">
@@ -14590,9 +14647,29 @@
 - [Live-Hack-CVE/CVE-2022-36573](https://github.com/Live-Hack-CVE/CVE-2022-36573)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36573">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36573">
 
 ---
+## CVE-2022-36571 (2022-08-31T20:15:00)
+> Tenda AC9 V15.03.05.19 was discovered to contain a stack overflow via the mask parameter at /goform/WanParameterSetting.
+- [Live-Hack-CVE/CVE-2022-36571](https://github.com/Live-Hack-CVE/CVE-2022-36571)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36571">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36571">
+
+---
+## CVE-2022-36570 (2022-08-31T20:15:00)
+> Tenda AC9 V15.03.05.19 was discovered to contain a stack overflow via the time parameter at /goform/SetLEDCfg.
+- [Live-Hack-CVE/CVE-2022-36570](https://github.com/Live-Hack-CVE/CVE-2022-36570)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36570">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36570">
+
+---
 ## CVE-2022-3657 (2022-11-01T23:15:00)
 > Use after free in Extensions in Google Chrome prior to 107.0.5304.62 allowed an attacker who convinced a user to install a malicious extension to potentially exploit heap corruption via a crafted Chrome Extension. (Chromium security severity: Medium)
 - [Live-Hack-CVE/CVE-2022-3657](https://github.com/Live-Hack-CVE/CVE-2022-3657)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3657">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3657">
+
+---
+## CVE-2022-36569 (2022-08-31T20:15:00)
+> Tenda AC9 V15.03.05.19 was discovered to contain a stack overflow via the deviceList parameter at /goform/setMacFilterCfg.
+- [Live-Hack-CVE/CVE-2022-36569](https://github.com/Live-Hack-CVE/CVE-2022-36569)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36569">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36569">
+
+---
+## CVE-2022-36568 (2022-08-31T20:15:00)
+> Tenda AC9 V15.03.05.19 was discovered to contain a stack overflow via the list parameter at /goform/setPptpUserList.
+- [Live-Hack-CVE/CVE-2022-36568](https://github.com/Live-Hack-CVE/CVE-2022-36568)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36568">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36568">
 
 ---
 ## CVE-2022-36566 (2022-08-31T18:15:00)
@@ -14953,6 +15030,11 @@
 - [Live-Hack-CVE/CVE-2022-36377](https://github.com/Live-Hack-CVE/CVE-2022-36377)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36377">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36377">
 
 ---
+## CVE-2022-36373 (2022-09-01T17:15:00)
+> Multiple Cross-Site Request Forgery (CSRF) vulnerabilities in Simon Ward MP3 jPlayer plugin <= 2.7.3 at WordPress.
+- [Live-Hack-CVE/CVE-2022-36373](https://github.com/Live-Hack-CVE/CVE-2022-36373)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36373">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36373">
+
+---
 ## CVE-2022-3637 (2022-10-21T11:15:00)
 > A vulnerability has been found in Linux Kernel and classified as problematic. This vulnerability affects the function jlink_init of the file monitor/jlink.c of the component BlueZ. The manipulation leads to denial of service. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-211936.
 - [Live-Hack-CVE/CVE-2022-3637](https://github.com/Live-Hack-CVE/CVE-2022-3637)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3637">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3637">
@@ -14967,6 +15049,11 @@
 > Multiple Authenticated (contributor+) Stored Cross-Site Scripting (XSS) vulnerabilities in WHA Crossword plugin <= 1.1.10 at WordPress.
 - [Live-Hack-CVE/CVE-2022-36365](https://github.com/Live-Hack-CVE/CVE-2022-36365)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36365">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36365">
 - [Live-Hack-CVE/CVE-2022-36365](https://github.com/Live-Hack-CVE/CVE-2022-36365)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36365">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36365">
+
+---
+## CVE-2022-36355 (2022-09-01T17:15:00)
+> Authenticated (contributor+) Stored Cross-Site Scripting (XSS) vulnerability in PluginlySpeaking Easy Org Chart plugin <= 3.1 at WordPress.
+- [Live-Hack-CVE/CVE-2022-36355](https://github.com/Live-Hack-CVE/CVE-2022-36355)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36355">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36355">
 
 ---
 ## CVE-2022-36354 (2022-12-22T22:15:00)
@@ -21818,6 +21905,11 @@
 - [Live-Hack-CVE/CVE-2022-28981](https://github.com/Live-Hack-CVE/CVE-2022-28981)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28981">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28981">
 
 ---
+## CVE-2022-2898 (2022-08-31T21:15:00)
+> Measuresoft ScadaPro Server and Client (All Versions) do not properly resolve links before file access; this could allow a denial-of-service condition.
+- [Live-Hack-CVE/CVE-2022-2898](https://github.com/Live-Hack-CVE/CVE-2022-2898)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2898">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2898">
+
+---
 ## CVE-2022-28979 (2022-09-22T00:15:00)
 > Liferay Portal v7.1.0 through v7.4.2 and Liferay DXP 7.1 before fix pack 26, 7.2 before fix pack 15, and 7.3 before service pack 3 was discovered to contain a cross-site scripting (XSS) vulnerability in the Portal Search module's Custom Facet widget. This vulnerability allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Custom Parameter Name text field.
 - [Live-Hack-CVE/CVE-2022-28979](https://github.com/Live-Hack-CVE/CVE-2022-28979)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28979">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28979">
@@ -21836,9 +21928,21 @@
 - [Live-Hack-CVE/CVE-2022-28977](https://github.com/Live-Hack-CVE/CVE-2022-28977)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28977">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28977">
 
 ---
+## CVE-2022-2897 (2022-08-31T21:15:00)
+> Measuresoft ScadaPro Server and Client (All Versions) do not properly resolve links before file access; this could allow privilege escalation..
+- [Live-Hack-CVE/CVE-2022-2897](https://github.com/Live-Hack-CVE/CVE-2022-2897)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2897">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2897">
+
+---
 ## CVE-2022-2896 (2022-08-31T21:15:00)
 > Measuresoft ScadaPro Server (All Versions) allows use after free while processing a specific project file.
 - [Live-Hack-CVE/CVE-2022-2896](https://github.com/Live-Hack-CVE/CVE-2022-2896)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2896">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2896">
+- [Live-Hack-CVE/CVE-2022-2896](https://github.com/Live-Hack-CVE/CVE-2022-2896)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2896">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2896">
+
+---
+## CVE-2022-2895 (2022-08-31T21:15:00)
+> Measuresoft ScadaPro Server (All Versions) uses unmaintained ActiveX controls. These controls may allow two stack-based buffer overflow instances while processing a specific project file.
+- [Live-Hack-CVE/CVE-2022-2895](https://github.com/Live-Hack-CVE/CVE-2022-2895)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2895">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2895">
+- [Live-Hack-CVE/CVE-2022-28958](https://github.com/Live-Hack-CVE/CVE-2022-28958)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28958">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28958">
 
 ---
 ## CVE-2022-28948 (2022-05-19T20:15:00)
@@ -21849,6 +21953,16 @@
 ## CVE-2022-28944 (2022-05-23T18:16:00)
 > Certain EMCO Software products are affected by: CWE-494: Download of Code Without Integrity Check. This affects MSI Package Builder for Windows 9.1.4 and Remote Installer for Windows 6.0.13 and Ping Monitor for Windows 8.0.18 and Remote Shutdown for Windows 7.2.2 and WakeOnLan 2.0.8 and Network Inventory for Windows 5.8.22 and Network Software Scanner for Windows 2.0.8 and UnLock IT for Windows 6.1.1. The impact is: execute arbitrary code (remote). The component is: Updater. The attack vector is: To exploit this vulnerability, a user must trigger an update of an affected installation of EMCO Software. ¶¶ Multiple products from EMCO Software are affected by a remote code execution vulnerability during the update process.
 - [gerr-re/cve-2022-28944](https://github.com/gerr-re/cve-2022-28944)	<img alt="forks" src="https://img.shields.io/github/forks/gerr-re/cve-2022-28944">	<img alt="stars" src="https://img.shields.io/github/stars/gerr-re/cve-2022-28944">
+
+---
+## CVE-2022-2894 (2022-08-31T21:15:00)
+> Measuresoft ScadaPro Server (All Versions) uses unmaintained ActiveX controls. The controls may allow seven untrusted pointer deference instances while processing a specific project file.
+- [Live-Hack-CVE/CVE-2022-2894](https://github.com/Live-Hack-CVE/CVE-2022-2894)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2894">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2894">
+
+---
+## CVE-2022-2892 (2022-08-31T21:15:00)
+> Measuresoft ScadaPro Server (Versions prior to 6.8.0.1) uses an unmaintained ActiveX control, which may allow an out-of-bounds write condition while processing a specific project file.
+- [Live-Hack-CVE/CVE-2022-2892](https://github.com/Live-Hack-CVE/CVE-2022-2892)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2892">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2892">
 
 ---
 ## CVE-2022-28919 (2022-05-12T16:15:00)
@@ -22000,6 +22114,15 @@
 ---
 ## CVE-2022-28664 (2022-08-05T22:15:00)
 > A memory corruption vulnerability exists in the httpd unescape functionality of FreshTomato 2022.1. A specially-crafted HTTP request can lead to memory corruption. An attacker can send a network request to trigger this vulnerability.The `freshtomato-mips` has a vulnerable URL-decoding feature that can lead to memory corruption.
+- [Live-Hack-CVE/CVE-2022-28664](https://github.com/Live-Hack-CVE/CVE-2022-28664)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28664">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28664">
+
+---
+## CVE-2022-2866 (2022-08-31T16:15:00)
+> FATEK FvDesigner version 1.5.103 and prior is vulnerable to an out-of-bounds write while processing project files. If a valid user is tricked into using maliciously crafted project files, an attacker could achieve arbitrary code execution.
+- [Live-Hack-CVE/CVE-2022-2866](https://github.com/Live-Hack-CVE/CVE-2022-2866)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2866">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2866">
+- [Live-Hack-CVE/CVE-2022-28660](https://github.com/Live-Hack-CVE/CVE-2022-28660)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28660">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28660">
+- [Live-Hack-CVE/CVE-2022-28667](https://github.com/Live-Hack-CVE/CVE-2022-28667)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28667">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28667">
+- [Live-Hack-CVE/CVE-2022-28665](https://github.com/Live-Hack-CVE/CVE-2022-28665)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28665">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28665">
 - [Live-Hack-CVE/CVE-2022-28664](https://github.com/Live-Hack-CVE/CVE-2022-28664)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28664">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28664">
 
 ---
@@ -22512,6 +22635,11 @@
 ## CVE-2022-27593 (2022-09-08T11:15:00)
 > An externally controlled reference to a resource vulnerability has been reported to affect QNAP NAS running Photo Station. If exploited, This could allow an attacker to modify system files. We have already fixed the vulnerability in the following versions: QTS 5.0.1: Photo Station 6.1.2 and later QTS 5.0.0/4.5.x: Photo Station 6.0.22 and later QTS 4.3.6: Photo Station 5.7.18 and later QTS 4.3.3: Photo Station 5.4.15 and later QTS 4.2.6: Photo Station 5.2.14 and later
 - [Live-Hack-CVE/CVE-2022-27593](https://github.com/Live-Hack-CVE/CVE-2022-27593)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27593">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27593">
+
+---
+## CVE-2022-2759 (2022-08-31T16:15:00)
+> Delta Electronics Delta Robot Automation Studio (DRAS) versions prior to 1.13.20 are affected by improper restrictions where the software processes an XML document that can contain XML entities with URIs that resolve to documents outside of the intended sphere of control, causing the product to embed incorrect documents into its output. This may allow an attacker to view sensitive documents and information on the affected host.
+- [Live-Hack-CVE/CVE-2022-2759](https://github.com/Live-Hack-CVE/CVE-2022-2759)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2759">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2759">
 
 ---
 ## CVE-2022-27583 (2022-10-31T20:15:00)
