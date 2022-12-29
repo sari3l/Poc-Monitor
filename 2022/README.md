@@ -16864,6 +16864,11 @@
 ## CVE-2022-3287 (2022-09-28T20:15:00)
 > When creating an OPERATOR user account on the BMC, the redfish plugin saved the auto-generated password to /etc/fwupd/redfish.conf without proper restriction, allowing any user on the system to read the same configuration file.
 - [Live-Hack-CVE/CVE-2022-3287](https://github.com/Live-Hack-CVE/CVE-2022-3287)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3287">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3287">
+- [Live-Hack-CVE/CVE-2022-32870](https://github.com/Live-Hack-CVE/CVE-2022-32870)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32870">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32870">
+- [Live-Hack-CVE/CVE-2022-32875](https://github.com/Live-Hack-CVE/CVE-2022-32875)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32875">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32875">
+- [Live-Hack-CVE/CVE-2022-32879](https://github.com/Live-Hack-CVE/CVE-2022-32879)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32879">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32879">
+- [Live-Hack-CVE/CVE-2022-32877](https://github.com/Live-Hack-CVE/CVE-2022-32877)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32877">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32877">
+- [Live-Hack-CVE/CVE-2022-32872](https://github.com/Live-Hack-CVE/CVE-2022-32872)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32872">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32872">
 
 ---
 ## CVE-2022-32868 (2022-09-20T21:15:00)
