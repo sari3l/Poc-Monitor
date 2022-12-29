@@ -6,6 +6,11 @@
 - [lem0nSec/CVE-2010-5301](https://github.com/lem0nSec/CVE-2010-5301)	<img alt="forks" src="https://img.shields.io/github/forks/lem0nSec/CVE-2010-5301">	<img alt="stars" src="https://img.shields.io/github/stars/lem0nSec/CVE-2010-5301">
 
 ---
+## CVE-2010-5250 (2012-09-07T10:32:00)
+> Untrusted search path vulnerability in the pthread_win32_process_attach_np function in pthreadGC2.dll in Pthreads-win32 2.8.0 allows local users to gain privileges via a Trojan horse quserex.dll file in the current working directory.  NOTE: some of these details are obtained from third party information.
+- [Live-Hack-CVE/CVE-2010-5250](https://github.com/Live-Hack-CVE/CVE-2010-5250)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-5250">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-5250">
+
+---
 ## CVE-2010-4606 (2010-12-29T18:00:00)
 > Unspecified vulnerability in the Space Management client in the Hierarchical Storage Management (HSM) component in IBM Tivoli Storage Manager (TSM) 5.4.x before 5.4.3.4, 5.5.x before 5.5.3, 6.1.x before 6.1.4, and 6.2.x before 6.2.2 on Unix and Linux allows remote attackers to execute arbitrary commands via unknown vectors, related to a "script execution vulnerability."
 - [Live-Hack-CVE/CVE-2010-4606](https://github.com/Live-Hack-CVE/CVE-2010-4606)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-4606">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-4606">

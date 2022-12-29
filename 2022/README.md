@@ -13632,6 +13632,11 @@
 - [Live-Hack-CVE/CVE-2022-37184](https://github.com/Live-Hack-CVE/CVE-2022-37184)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37184">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37184">
 
 ---
+## CVE-2022-37183 (2022-08-31T18:15:00)
+> Piwigo 12.3.0 is vulnerable to Cross Site Scripting (XSS) via /search/1940/created-monthly-list.
+- [Live-Hack-CVE/CVE-2022-37183](https://github.com/Live-Hack-CVE/CVE-2022-37183)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37183">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37183">
+
+---
 ## CVE-2022-37181 (2022-08-24T17:15:00)
 > 72crm 9.0 has an Arbitrary file upload vulnerability.
 - [Live-Hack-CVE/CVE-2022-37181](https://github.com/Live-Hack-CVE/CVE-2022-37181)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37181">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37181">
@@ -13646,6 +13651,16 @@
 > HireVue Hiring Platform V1.0 suffers from Use of a Broken or Risky Cryptographic Algorithm.
 - [JC175/CVE-2022-37177](https://github.com/JC175/CVE-2022-37177)	<img alt="forks" src="https://img.shields.io/github/forks/JC175/CVE-2022-37177">	<img alt="stars" src="https://img.shields.io/github/stars/JC175/CVE-2022-37177">
 - [Live-Hack-CVE/CVE-2022-37177](https://github.com/Live-Hack-CVE/CVE-2022-37177)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37177">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37177">
+
+---
+## CVE-2022-37173 (2022-08-30T21:15:00)
+> An issue in the installer of gvim 9.0.0000 allows authenticated attackers to execute arbitrary code via a binary hijacking attack on C:\Program.exe.
+- [Live-Hack-CVE/CVE-2022-37173](https://github.com/Live-Hack-CVE/CVE-2022-37173)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37173">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37173">
+
+---
+## CVE-2022-37172 (2022-08-30T21:15:00)
+> Incorrect access control in the install directory (C:\msys64) of Msys2 v20220603 and below allows authenticated attackers to execute arbitrary code via overwriting binaries located in the directory.
+- [Live-Hack-CVE/CVE-2022-37172](https://github.com/Live-Hack-CVE/CVE-2022-37172)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37172">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37172">
 
 ---
 ## CVE-2022-37163 (2022-09-08T16:15:00)
@@ -13887,6 +13902,16 @@
 > In Erlang/OTP before 23.3.4.15, 24.x before 24.3.4.2, and 25.x before 25.0.2, there is a Client Authentication Bypass in certain client-certification situations for SSL, TLS, and DTLS.
 - [Live-Hack-CVE/CVE-2022-37026](https://github.com/Live-Hack-CVE/CVE-2022-37026)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37026">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37026">
 - [Live-Hack-CVE/CVE-2022-37026](https://github.com/Live-Hack-CVE/CVE-2022-37026)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37026">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37026">
+
+---
+## CVE-2022-37023 (2022-08-31T07:15:00)
+> Apache Geode versions prior to 1.15.0 are vulnerable to a deserialization of untrusted data flaw when using REST API on Java 8 or Java 11. Any user wishing to protect against deserialization attacks involving REST APIs should upgrade to Apache Geode 1.15 and follow the documentation for details on enabling "validate-serializable-objects=true" and specifying any user classes that may be serialized/deserialized with "serializable-object-filter". Enabling "validate-serializable-objects" may impact performance.
+- [Live-Hack-CVE/CVE-2022-37023](https://github.com/Live-Hack-CVE/CVE-2022-37023)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37023">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37023">
+
+---
+## CVE-2022-37022 (2022-08-31T07:15:00)
+> Apache Geode versions up to 1.12.2 and 1.13.2 are vulnerable to a deserialization of untrusted data flaw when using JMX over RMI on Java 11. Any user wishing to protect against deserialization attacks involving JMX or RMI should upgrade to Apache Geode 1.15. Use of 1.15 on Java 11 will automatically protect JMX over RMI against deserialization attacks. This should have no impact on performance since it only affects JMX/RMI which Gfsh uses to communicate with the JMX Manager which is hosted on a Locator.
+- [Live-Hack-CVE/CVE-2022-37022](https://github.com/Live-Hack-CVE/CVE-2022-37022)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37022">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37022">
 
 ---
 ## CVE-2022-37018 (2022-12-12T13:15:00)
@@ -14570,6 +14595,21 @@
 - [Live-Hack-CVE/CVE-2022-3657](https://github.com/Live-Hack-CVE/CVE-2022-3657)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3657">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3657">
 
 ---
+## CVE-2022-36566 (2022-08-31T18:15:00)
+> Rengine v1.3.0 was discovered to contain a command injection vulnerability via the scan engine function.
+- [Live-Hack-CVE/CVE-2022-36566](https://github.com/Live-Hack-CVE/CVE-2022-36566)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36566">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36566">
+
+---
+## CVE-2022-36565 (2022-08-30T21:15:00)
+> Incorrect access control in the install directory (C:\Wamp64) of Wamp v3.2.6 and below allows authenticated attackers to execute arbitrary code via overwriting binaries located in the directory.
+- [Live-Hack-CVE/CVE-2022-36565](https://github.com/Live-Hack-CVE/CVE-2022-36565)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36565">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36565">
+
+---
+## CVE-2022-36564 (2022-08-30T21:15:00)
+> Incorrect access control in the install directory (C:\Strawberry) of StrawberryPerl v5.32.1.1 and below allows authenticated attackers to execute arbitrary code via overwriting binaries located in the directory.
+- [Live-Hack-CVE/CVE-2022-36564](https://github.com/Live-Hack-CVE/CVE-2022-36564)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36564">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36564">
+
+---
 ## CVE-2022-3656 (2022-11-01T23:15:00)
 > Insufficient data validation in File System in Google Chrome prior to 107.0.5304.62 allowed a remote attacker to bypass file system restrictions via a crafted HTML page. (Chromium security severity: Medium)
 - [Live-Hack-CVE/CVE-2022-3656](https://github.com/Live-Hack-CVE/CVE-2022-3656)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3656">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3656">
@@ -15082,6 +15122,16 @@
 - [Live-Hack-CVE/CVE-2022-3621](https://github.com/Live-Hack-CVE/CVE-2022-3621)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3621">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3621">
 
 ---
+## CVE-2022-36203 (2022-08-31T21:15:00)
+> Doctor's Appointment System 1.0 is vulnerable to Cross Site Scripting (XSS) via the admin panel. In addition, it leads to takeover the administrator account by stealing the cookie via XSS.
+- [Live-Hack-CVE/CVE-2022-36203](https://github.com/Live-Hack-CVE/CVE-2022-36203)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36203">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36203">
+
+---
+## CVE-2022-36202 (2022-08-31T21:15:00)
+> Doctor's Appointment System1.0 is vulnerable to Incorrect Access Control via edoc/patient/settings.php. The settings.php is affected by Broken Access Control (IDOR) via id= parameter.
+- [Live-Hack-CVE/CVE-2022-36202](https://github.com/Live-Hack-CVE/CVE-2022-36202)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36202">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36202">
+
+---
 ## CVE-2022-36201 (2022-08-31T21:15:00)
 > Doctor’s Appointment System v1.0 is vulnerable to Blind SQLi via settings.php.
 - [Live-Hack-CVE/CVE-2022-36201](https://github.com/Live-Hack-CVE/CVE-2022-36201)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36201">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36201">
@@ -15405,6 +15455,11 @@
 ## CVE-2022-36046 (2022-08-31T19:15:00)
 > Next.js is a React framework that can provide building blocks to create web applications. All of the following must be true to be affected by this CVE: Next.js version 12.2.3, Node.js version above v15.0.0 being used with strict `unhandledRejection` exiting AND using next start or a [custom server](https://nextjs.org/docs/advanced-features/custom-server). Deployments on Vercel ([vercel.com](https://vercel.com/)) are not affected along with similar environments where `next-server` isn't being shared across requests.
 - [Live-Hack-CVE/CVE-2022-36046](https://github.com/Live-Hack-CVE/CVE-2022-36046)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36046">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36046">
+
+---
+## CVE-2022-36045 (2022-08-31T15:15:00)
+> NodeBB Forum Software is powered by Node.js and supports either Redis, MongoDB, or a PostgreSQL database. It utilizes web sockets for instant interactions and real-time notifications. `utils.generateUUID`, a helper function available in essentially all versions of NodeBB (as far back as v1.0.1 and potentially earlier) used a cryptographically insecure Pseudo-random number generator (`Math.random()`), which meant that a specially crafted script combined with multiple invocations of the password reset functionality could enable an attacker to correctly calculate the reset code for an account they do not have access to. This vulnerability impacts all installations of NodeBB. The vulnerability allows for an attacker to take over any account without the involvement of the victim, and as such, the remediation should be applied immediately (either via NodeBB upgrade or cherry-pick of the specific changeset. The vulnerability has been patched in version 2.x and 1.19.x. There is no known workaround, but the patch sets listed above will fully patch the vulnerability.
+- [Live-Hack-CVE/CVE-2022-36045](https://github.com/Live-Hack-CVE/CVE-2022-36045)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36045">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36045">
 
 ---
 ## CVE-2022-36044 (2022-09-06T20:15:00)
@@ -22480,6 +22535,11 @@
 - [Live-Hack-CVE/CVE-2022-2757](https://github.com/Live-Hack-CVE/CVE-2022-2757)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2757">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2757">
 
 ---
+## CVE-2022-27563 (2022-08-30T22:15:00)
+> An unauthenticated user can overload a part of HCL VersionVault Express and cause a denial of service.
+- [Live-Hack-CVE/CVE-2022-27563](https://github.com/Live-Hack-CVE/CVE-2022-27563)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27563">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27563">
+
+---
 ## CVE-2022-2756 (2022-08-10T16:15:00)
 > Server-Side Request Forgery (SSRF) in GitHub repository kareadita/kavita prior to 0.5.4.1.
 - [Live-Hack-CVE/CVE-2022-2756](https://github.com/Live-Hack-CVE/CVE-2022-2756)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2756">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2756">
@@ -23718,6 +23778,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-25308 (2022-09-06T18:15:00)
 > A stack-based buffer overflow flaw was found in the Fribidi package. This flaw allows an attacker to pass a specially crafted file to the Fribidi application, which leads to a possible memory leak or a denial of service.
 - [Live-Hack-CVE/CVE-2022-25308](https://github.com/Live-Hack-CVE/CVE-2022-25308)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25308">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25308">
+
+---
+## CVE-2022-25304 (2022-08-23T05:15:00)
+> All versions of package opcua; all versions of package asyncua are vulnerable to Denial of Service (DoS) due to a missing limitation on the number of received chunks - per single session or in total for all concurrent sessions. An attacker can exploit this vulnerability by sending an unlimited number of huge chunks (e.g. 2GB each) without sending the Final closing chunk.
+- [Live-Hack-CVE/CVE-2022-25304](https://github.com/Live-Hack-CVE/CVE-2022-25304)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25304">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25304">
 
 ---
 ## CVE-2022-25302 (2022-08-23T05:15:00)
@@ -26104,6 +26169,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Mr-xn/CVE-2022-21371](https://github.com/Mr-xn/CVE-2022-21371)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2022-21371">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2022-21371">
 
 ---
+## CVE-2022-2132 (2022-08-31T16:15:00)
+> A permissive list of allowed inputs flaw was found in DPDK. This issue allows a remote attacker to cause a denial of service triggered by sending a crafted Vhost header to DPDK.
+- [Live-Hack-CVE/CVE-2022-2132](https://github.com/Live-Hack-CVE/CVE-2022-2132)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2132">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2132">
+
+---
 ## CVE-2022-2129 (2022-06-19T19:15:00)
 > Out-of-bounds Write in GitHub repository vim/vim prior to 8.2.
 - [Live-Hack-CVE/CVE-2022-2129](https://github.com/Live-Hack-CVE/CVE-2022-2129)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2129">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2129">
@@ -27036,6 +27106,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20441](https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20441)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20441">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20441">
 
 ---
+## CVE-2022-2044 (2022-08-31T16:15:00)
+> MOXA NPort 5110: Firmware Versions 2.10 is vulnerable to an out-of-bounds write that may allow an attacker to overwrite values in memory, causing a denial-of-service condition or potentially bricking the device.
+- [Live-Hack-CVE/CVE-2022-2044](https://github.com/Live-Hack-CVE/CVE-2022-2044)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2044">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2044">
+
+---
 ## CVE-2022-20439 (2022-10-11T20:15:00)
 > In Messaging, There has unauthorized provider, this could cause Local Deny of Service.Product: AndroidVersions: Android SoCAndroid ID: A-242266172
 - [Live-Hack-CVE/CVE-2022-20439](https://github.com/Live-Hack-CVE/CVE-2022-20439)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20439">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20439">
@@ -27084,6 +27159,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-20430 (2022-10-11T20:15:00)
 > There is an missing authorization issue in the system service. Since the component does not have permission check , resulting in Local Elevation of privilege.Product: AndroidVersions: Android SoCAndroid ID: A-242221233
 - [Live-Hack-CVE/CVE-2022-20430](https://github.com/Live-Hack-CVE/CVE-2022-20430)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20430">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20430">
+
+---
+## CVE-2022-2043 (2022-08-31T16:15:00)
+> MOXA NPort 5110: Firmware Versions 2.10 is vulnerable to an out-of-bounds write that can cause the device to become unresponsive.
+- [Live-Hack-CVE/CVE-2022-2043](https://github.com/Live-Hack-CVE/CVE-2022-2043)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2043">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2043">
 
 ---
 ## CVE-2022-20429 (2022-10-11T20:15:00)
@@ -27219,6 +27299,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-20369 (2022-08-11T15:15:00)
 > In v4l2_m2m_querybuf of v4l2-mem2mem.c, there is a possible out of bounds write due to improper input validation. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-223375145References: Upstream kernel
 - [Live-Hack-CVE/CVE-2022-20369](https://github.com/Live-Hack-CVE/CVE-2022-20369)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20369">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20369">
+
+---
+## CVE-2022-20368 (2022-08-11T15:15:00)
+> Product: AndroidVersions: Android kernelAndroid ID: A-224546354References: Upstream kernel
+- [Live-Hack-CVE/CVE-2022-20368](https://github.com/Live-Hack-CVE/CVE-2022-20368)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20368">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20368">
 
 ---
 ## CVE-2022-20364 (2022-09-14T16:15:00)
@@ -28199,6 +28284,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-1232](https://github.com/Live-Hack-CVE/CVE-2022-1232)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1232">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1232">
 
 ---
+## CVE-2022-1198 (2022-08-29T15:15:00)
+> A use-after-free vulnerabilitity was discovered in drivers/net/hamradio/6pack.c of linux that allows an attacker to crash linux kernel by simulating ax25 device using 6pack driver from user space.
+- [Live-Hack-CVE/CVE-2022-1198](https://github.com/Live-Hack-CVE/CVE-2022-1198)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1198">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1198">
+
+---
 ## CVE-2022-1197 (2022-12-22T20:15:00)
 > When importing a revoked key that specified key compromise as the revocation reason, Thunderbird did not update the existing copy of the key that was not yet revoked, and the existing key was kept as non-revoked. Revocation statements that used another revocation reason, or that didn't specify a revocation reason, were unaffected. This vulnerability affects Thunderbird < 91.8.
 - [Live-Hack-CVE/CVE-2022-1197](https://github.com/Live-Hack-CVE/CVE-2022-1197)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1197">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1197">
@@ -28286,6 +28376,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1117 (2022-08-29T15:15:00)
 > A vulnerability was found in fapolicyd. The vulnerability occurs due to an assumption on how glibc names the runtime linker, a build time regular expression may not correctly detect the runtime linker. The consequence is that the pattern detection for applications launched by the run time linker may fail to detect the pattern and allow execution.
 - [Live-Hack-CVE/CVE-2022-1117](https://github.com/Live-Hack-CVE/CVE-2022-1117)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1117">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1117">
+
+---
+## CVE-2022-1115 (2022-08-29T15:15:00)
+> A heap-buffer-overflow flaw was found in ImageMagick’s PushShortPixel() function of quantum-private.h file. This vulnerability is triggered when an attacker passes a specially crafted TIFF image file to ImageMagick for conversion, potentially leading to a denial of service.
+- [Live-Hack-CVE/CVE-2022-1115](https://github.com/Live-Hack-CVE/CVE-2022-1115)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1115">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1115">
 
 ---
 ## CVE-2022-11111111 ()
@@ -28467,6 +28562,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-0943](https://github.com/Live-Hack-CVE/CVE-2022-0943)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0943">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0943">
 
 ---
+## CVE-2022-0934 (2022-08-29T15:15:00)
+> A single-byte, non-arbitrary write/use-after-free flaw was found in dnsmasq. This flaw allows an attacker who sends a crafted packet processed by dnsmasq, potentially causing a denial of service.
+- [Live-Hack-CVE/CVE-2022-0934](https://github.com/Live-Hack-CVE/CVE-2022-0934)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0934">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0934">
+
+---
 ## CVE-2022-0897 (2022-03-25T19:15:00)
 > A flaw was found in the libvirt nwfilter driver. The virNWFilterObjListNumOfNWFilters method failed to acquire the driver->nwfilters mutex before iterating over virNWFilterObj instances. There was no protection to stop another thread from concurrently modifying the driver->nwfilters object. This flaw allows a malicious, unprivileged user to exploit this issue via libvirt's API virConnectNumOfNWFilters to crash the network filter management daemon (libvirtd/virtnwfilterd).
 - [Live-Hack-CVE/CVE-2022-0897](https://github.com/Live-Hack-CVE/CVE-2022-0897)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0897">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0897">
@@ -28475,6 +28575,21 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-0854 (2022-03-23T20:15:00)
 > A memory leak flaw was found in the Linux kernel’s DMA subsystem, in the way a user calls DMA_FROM_DEVICE. This flaw allows a local user to read random memory from the kernel space.
 - [Live-Hack-CVE/CVE-2022-0854](https://github.com/Live-Hack-CVE/CVE-2022-0854)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0854">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0854">
+
+---
+## CVE-2022-0852 (2022-08-29T15:15:00)
+> There is a flaw in convert2rhel. convert2rhel passes the Red Hat account password to subscription-manager via the command line, which could allow unauthorized users locally on the machine to view the password via the process command line via e.g. htop or ps. The specific impact varies upon the privileges of the Red Hat account in question, but it could affect the integrity, availability, and/or data confidentiality of other systems that are administered by that account. This occurs regardless of how the password is supplied to convert2rhel.
+- [Live-Hack-CVE/CVE-2022-0852](https://github.com/Live-Hack-CVE/CVE-2022-0852)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0852">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0852">
+
+---
+## CVE-2022-0851 (2022-08-29T15:15:00)
+> There is a flaw in convert2rhel. When the --activationkey option is used with convert2rhel, the activation key is subsequently passed to subscription-manager via the command line, which could allow unauthorized users locally on the machine to view the activation key via the process command line via e.g. htop or ps. The specific impact varies upon the subscription, but generally this would allow an attacker to register systems purchased by the victim until discovered; a form of fraud. This could occur regardless of how the activation key is supplied to convert2rhel because it involves how convert2rhel provides it to subscription-manager.
+- [Live-Hack-CVE/CVE-2022-0851](https://github.com/Live-Hack-CVE/CVE-2022-0851)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0851">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0851">
+
+---
+## CVE-2022-0850 (2022-08-29T15:15:00)
+> A vulnerability was found in linux kernel, where an information leak occurs via ext4_extent_header to userspace.
+- [Live-Hack-CVE/CVE-2022-0850](https://github.com/Live-Hack-CVE/CVE-2022-0850)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0850">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0850">
 
 ---
 ## CVE-2022-0848 (2022-03-04T09:15:00)
@@ -28556,6 +28671,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-0819 (2022-03-02T16:15:00)
 > Code Injection in GitHub repository dolibarr/dolibarr prior to 15.0.1.
 - [Live-Hack-CVE/CVE-2022-0819](https://github.com/Live-Hack-CVE/CVE-2022-0819)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0819">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0819">
+
+---
+## CVE-2022-0812 (2022-08-29T15:15:00)
+> An information leak flaw was found in NFS over RDMA in the net/sunrpc/xprtrdma/rpc_rdma.c in the Linux Kernel. This flaw allows an attacker with normal user privileges to leak kernel information.
+- [Live-Hack-CVE/CVE-2022-0812](https://github.com/Live-Hack-CVE/CVE-2022-0812)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0812">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0812">
 
 ---
 ## CVE-2022-0807 (2022-04-05T01:15:00)
