@@ -62,6 +62,21 @@
 - [hahwul/struts2-rce-cve-2017-9805-ruby](https://github.com/hahwul/struts2-rce-cve-2017-9805-ruby)	<img alt="forks" src="https://img.shields.io/github/forks/hahwul/struts2-rce-cve-2017-9805-ruby">	<img alt="stars" src="https://img.shields.io/github/stars/hahwul/struts2-rce-cve-2017-9805-ruby">
 
 ---
+## CVE-2017-9340 (2017-07-17T21:29:00)
+> An attacker is logged in as a normal user and can somehow make admin to delete shared folders in ownCloud Server before 10.0.2.
+- [Live-Hack-CVE/CVE-2017-9340](https://github.com/Live-Hack-CVE/CVE-2017-9340)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-9340">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-9340">
+
+---
+## CVE-2017-9339 (2017-07-17T21:29:00)
+> A logical error in ownCloud Server before 10.0.2 caused disclosure of valid share tokens for public calendars. Thus granting an attacker potentially access to publicly shared calendars without knowing the share token.
+- [Live-Hack-CVE/CVE-2017-9339](https://github.com/Live-Hack-CVE/CVE-2017-9339)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-9339">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-9339">
+
+---
+## CVE-2017-9338 (2017-07-17T21:29:00)
+> Inadequate escaping lead to XSS vulnerability in the search module in ownCloud Server before 8.2.12, 9.0.x before 9.0.10, 9.1.x before 9.1.6, and 10.0.x before 10.0.2. To be exploitable a user has to write or paste malicious content into the search dialogue.
+- [Live-Hack-CVE/CVE-2017-9338](https://github.com/Live-Hack-CVE/CVE-2017-9338)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-9338">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-9338">
+
+---
 ## CVE-2017-8917 (2017-05-17T23:29:00)
 > SQL injection vulnerability in Joomla! 3.7.x before 3.7.1 allows attackers to execute arbitrary SQL commands via unspecified vectors.
 - [Siopy/CVE-2017-8917](https://github.com/Siopy/CVE-2017-8917)	<img alt="forks" src="https://img.shields.io/github/forks/Siopy/CVE-2017-8917">	<img alt="stars" src="https://img.shields.io/github/stars/Siopy/CVE-2017-8917">

@@ -1259,6 +1259,11 @@
 - [Live-Hack-CVE/CVE-2020-28647](https://github.com/Live-Hack-CVE/CVE-2020-28647)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28647">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28647">
 
 ---
+## CVE-2020-28646 (2021-02-26T15:15:00)
+> ownCloud owncloud/client before 2.7 allows DLL Injection. The desktop client loaded development plugins from certain directories when they were present.
+- [Live-Hack-CVE/CVE-2020-28646](https://github.com/Live-Hack-CVE/CVE-2020-28646)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28646">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28646">
+
+---
 ## CVE-2020-28636 (2021-03-04T20:15:00)
 > A code execution vulnerability exists in the Nef polygon-parsing functionality of CGAL libcgal CGAL-5.1.1. An oob read vulnerability exists in Nef_S2/SNC_io_parser.h SNC_io_parser::read_sloop() slh->twin() An attacker can provide malicious input to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2020-28636](https://github.com/Live-Hack-CVE/CVE-2020-28636)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28636">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28636">

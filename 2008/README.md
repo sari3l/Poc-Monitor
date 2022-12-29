@@ -16,6 +16,16 @@
 - [Live-Hack-CVE/CVE-2008-1105](https://github.com/Live-Hack-CVE/CVE-2008-1105)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2008-1105">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2008-1105">
 
 ---
+## CVE-2008-0456 (2008-01-25T01:00:00)
+> CRLF injection vulnerability in the mod_negotiation module in the Apache HTTP Server 2.2.6 and earlier in the 2.2.x series, 2.0.61 and earlier in the 2.0.x series, and 1.3.39 and earlier in the 1.3.x series allows remote authenticated users to inject arbitrary HTTP headers and conduct HTTP response splitting attacks by uploading a file with a multi-line name containing HTTP header sequences and a file extension, which leads to injection within a (1) "406 Not Acceptable" or (2) "300 Multiple Choices" HTTP response when the extension is omitted in a request for the file.
+- [Live-Hack-CVE/CVE-2008-0456](https://github.com/Live-Hack-CVE/CVE-2008-0456)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2008-0456">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2008-0456">
+
+---
+## CVE-2008-0455 (2008-01-25T01:00:00)
+> Cross-site scripting (XSS) vulnerability in the mod_negotiation module in the Apache HTTP Server 2.2.6 and earlier in the 2.2.x series, 2.0.61 and earlier in the 2.0.x series, and 1.3.39 and earlier in the 1.3.x series allows remote authenticated users to inject arbitrary web script or HTML by uploading a file with a name containing XSS sequences and a file extension, which leads to injection within a (1) "406 Not Acceptable" or (2) "300 Multiple Choices" HTTP response when the extension is omitted in a request for the file.
+- [Live-Hack-CVE/CVE-2008-0455](https://github.com/Live-Hack-CVE/CVE-2008-0455)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2008-0455">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2008-0455">
+
+---
 ## CVE-2008-0166 (2008-05-13T17:20:00)
 > OpenSSL 0.9.8c-1 up to versions before 0.9.8g-9 on Debian-based operating systems uses a random number generator that generates predictable numbers, which makes it easier for remote attackers to conduct brute force guessing attacks against cryptographic keys.
 - [demining/Vulnerable-to-Debian-OpenSSL-bug-CVE-2008-0166](https://github.com/demining/Vulnerable-to-Debian-OpenSSL-bug-CVE-2008-0166)	<img alt="forks" src="https://img.shields.io/github/forks/demining/Vulnerable-to-Debian-OpenSSL-bug-CVE-2008-0166">	<img alt="stars" src="https://img.shields.io/github/stars/demining/Vulnerable-to-Debian-OpenSSL-bug-CVE-2008-0166">
@@ -27,3 +37,8 @@
 ## CVE-2008-0132 (2008-01-08T11:46:00)
 > Pragma FortressSSH 5.0 Build 4 Revision 293 and earlier handles long input to sshd.exe by creating an error-message window and waiting for the administrator to click in this window before terminating the sshd.exe process, which allows remote attackers to cause a denial of service (connection slot exhaustion) via a flood of SSH connections with long data objects, as demonstrated by (1) a long list of keys and (2) a long username.
 - [Live-Hack-CVE/CVE-2008-0132](https://github.com/Live-Hack-CVE/CVE-2008-0132)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2008-0132">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2008-0132">
+
+---
+## CVE-2008-0005 (2008-01-12T00:46:00)
+> mod_proxy_ftp in Apache 2.2.x before 2.2.7-dev, 2.0.x before 2.0.62-dev, and 1.3.x before 1.3.40-dev does not define a charset, which allows remote attackers to conduct cross-site scripting (XSS) attacks using UTF-7 encoding.
+- [Live-Hack-CVE/CVE-2008-0005](https://github.com/Live-Hack-CVE/CVE-2008-0005)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2008-0005">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2008-0005">

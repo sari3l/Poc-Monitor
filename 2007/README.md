@@ -11,6 +11,11 @@
 - [Live-Hack-CVE/CVE-2007-5536](https://github.com/Live-Hack-CVE/CVE-2007-5536)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2007-5536">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2007-5536">
 
 ---
+## CVE-2007-3847 (2007-08-23T22:17:00)
+> The date handling code in modules/proxy/proxy_util.c (mod_proxy) in Apache 2.3.0, when using a threaded MPM, allows remote origin servers to cause a denial of service (caching forward proxy process crash) via crafted date headers that trigger a buffer over-read.
+- [Live-Hack-CVE/CVE-2007-3847](https://github.com/Live-Hack-CVE/CVE-2007-3847)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2007-3847">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2007-3847">
+
+---
 ## CVE-2007-3007 (2007-06-04T17:30:00)
 > PHP 5 before 5.2.3 does not enforce the open_basedir or safe_mode restriction in certain cases, which allows context-dependent attackers to determine the existence of arbitrary files by checking if the readfile function returns a string.  NOTE: this issue might also involve the realpath function.
 - [Live-Hack-CVE/CVE-2007-3007](https://github.com/Live-Hack-CVE/CVE-2007-3007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2007-3007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2007-3007">

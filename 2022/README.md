@@ -7705,6 +7705,11 @@
 - [Live-Hack-CVE/CVE-2022-40984](https://github.com/Live-Hack-CVE/CVE-2022-40984)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40984">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40984">
 
 ---
+## CVE-2022-40980 (2022-09-19T18:15:00)
+> A potential unathenticated file deletion vulnerabilty on Trend Micro Mobile Security for Enterprise 9.8 SP5 could allow an attacker with access to the Management Server to delete files. This issue was resolved in 9.8 SP5 Critical Patch 2.
+- [Live-Hack-CVE/CVE-2022-40980](https://github.com/Live-Hack-CVE/CVE-2022-40980)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40980">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40980">
+
+---
 ## CVE-2022-4098 (2022-12-13T08:15:00)
 > Multiple Wiesemann&Theis products of the ComServer Series are prone to an authentication bypass through IP spoofing. During an authenticated session to the WBM of the Com-Server an unauthenticated attacker in the same subnet can obtain the session ID and through IP spoofing change arbitrary settings by crafting modified HTTP Get requests. This may result in a complete takeover of the device.
 - [Live-Hack-CVE/CVE-2022-4098](https://github.com/Live-Hack-CVE/CVE-2022-4098)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4098">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4098">
@@ -8434,6 +8439,11 @@
 - [Live-Hack-CVE/CVE-2022-40616](https://github.com/Live-Hack-CVE/CVE-2022-40616)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40616">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40616">
 
 ---
+## CVE-2022-40608 (2022-09-19T18:15:00)
+> IBM Spectrum Protect Plus 10.1.6 through 10.1.11 Microsoft File Systems restore operation can download any file on the target machine by manipulating the URL with a directory traversal attack. This results in the restore operation gaining access to files which the operator should not have access to. IBM X-Force ID: 235873.
+- [Live-Hack-CVE/CVE-2022-40608](https://github.com/Live-Hack-CVE/CVE-2022-40608)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40608">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40608">
+
+---
 ## CVE-2022-40607 (2022-12-19T20:15:00)
 > IBM Spectrum Scale 5.1 could allow users with permissions to create pod, persistent volume and persistent volume claim to access files and directories outside of the volume, including on the host filesystem. IBM X-Force ID: 235740.
 - [Live-Hack-CVE/CVE-2022-40607](https://github.com/Live-Hack-CVE/CVE-2022-40607)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40607">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40607">
@@ -9002,11 +9012,22 @@
 - [Live-Hack-CVE/CVE-2022-40145](https://github.com/Live-Hack-CVE/CVE-2022-40145)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40145">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40145">
 
 ---
+## CVE-2022-40141 (2022-09-19T18:15:00)
+> A vulnerability in Trend Micro Apex One and Apex One as a Service could allow an attacker to intercept and decode certain communication strings that may contain some identification attributes of a particular Apex One server.
+- [Live-Hack-CVE/CVE-2022-40141](https://github.com/Live-Hack-CVE/CVE-2022-40141)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40141">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40141">
+
+---
 ## CVE-2022-40140 (2022-09-19T18:15:00)
 > An origin validation error vulnerability in Trend Micro Apex One and Apex One as a Service could allow a local attacker to cause a denial-of-service on affected installations. Please note: an attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability.
 - [ipsBruno/CVE-2022-40140-SCANNER](https://github.com/ipsBruno/CVE-2022-40140-SCANNER)	<img alt="forks" src="https://img.shields.io/github/forks/ipsBruno/CVE-2022-40140-SCANNER">	<img alt="stars" src="https://img.shields.io/github/stars/ipsBruno/CVE-2022-40140-SCANNER">
 - [ZephrFish/NotProxyShellScanner](https://github.com/ZephrFish/NotProxyShellScanner)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/NotProxyShellScanner">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/NotProxyShellScanner">
 - [mr-r3b00t/NotProxyShellHunter](https://github.com/mr-r3b00t/NotProxyShellHunter)	<img alt="forks" src="https://img.shields.io/github/forks/mr-r3b00t/NotProxyShellHunter">	<img alt="stars" src="https://img.shields.io/github/stars/mr-r3b00t/NotProxyShellHunter">
+- [Live-Hack-CVE/CVE-2022-40140](https://github.com/Live-Hack-CVE/CVE-2022-40140)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40140">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40140">
+
+---
+## CVE-2022-40139 (2022-09-19T18:15:00)
+> Improper validation of some components used by the rollback mechanism in Trend Micro Apex One and Trend Micro Apex One as a Service clients could allow a Apex One server administrator to instruct affected clients to download an unverified rollback package, which could lead to remote code execution. Please note: an attacker must first obtain Apex One server administration console access in order to exploit this vulnerability.
+- [Live-Hack-CVE/CVE-2022-40139](https://github.com/Live-Hack-CVE/CVE-2022-40139)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40139">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40139">
 
 ---
 ## CVE-2022-40138 (2022-10-11T02:15:00)
@@ -9268,6 +9289,11 @@
 - [Live-Hack-CVE/CVE-2022-39975](https://github.com/Live-Hack-CVE/CVE-2022-39975)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39975">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39975">
 
 ---
+## CVE-2022-39974 (2022-09-20T18:15:00)
+> WASM3 v0.5.0 was discovered to contain a segmentation fault via the component op_Select_i32_srs in wasm3/source/m3_exec.h.
+- [Live-Hack-CVE/CVE-2022-39974](https://github.com/Live-Hack-CVE/CVE-2022-39974)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39974">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39974">
+
+---
 ## CVE-2022-3996 (2022-12-13T16:15:00)
 > If an X.509 certificate contains a malformed policy constraint and policy processing is enabled, then a write lock will be taken twice recursively. On some operating systems (most widely: Windows) this results in a denial of service when the affected process hangs. Policy processing being enabled on a publicly facing server is not considered to be a common setup. Policy processing is enabled by passing the `-policy' argument to the command line utilities or by calling either `X509_VERIFY_PARAM_add0_policy()' or `X509_VERIFY_PARAM_set1_policies()' functions.
 - [Live-Hack-CVE/CVE-2022-3996](https://github.com/Live-Hack-CVE/CVE-2022-3996)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3996">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3996">
@@ -9526,6 +9552,11 @@
 - [redrays-io/CVE-2022-39802](https://github.com/redrays-io/CVE-2022-39802)	<img alt="forks" src="https://img.shields.io/github/forks/redrays-io/CVE-2022-39802">	<img alt="stars" src="https://img.shields.io/github/stars/redrays-io/CVE-2022-39802">
 - [vah13/CVE-2022-39802](https://github.com/vah13/CVE-2022-39802)	<img alt="forks" src="https://img.shields.io/github/forks/vah13/CVE-2022-39802">	<img alt="stars" src="https://img.shields.io/github/stars/vah13/CVE-2022-39802">
 - [Live-Hack-CVE/CVE-2022-39802](https://github.com/Live-Hack-CVE/CVE-2022-39802)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39802">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39802">
+
+---
+## CVE-2022-39801 (2022-09-13T16:15:00)
+> SAP GRC Access control Emergency Access Management allows an authenticated attacker to access a Firefighter session even after it is closed in Firefighter Logon Pad. This attack can be launched only within the firewall. On successful exploitation the attacker can gain access to admin session and completely compromise the application.
+- [Live-Hack-CVE/CVE-2022-39801](https://github.com/Live-Hack-CVE/CVE-2022-39801)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39801">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39801">
 
 ---
 ## CVE-2022-39800 (2022-10-11T21:15:00)
@@ -10650,6 +10681,11 @@
 - [Live-Hack-CVE/CVE-2022-3889](https://github.com/Live-Hack-CVE/CVE-2022-3889)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3889">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3889">
 
 ---
+## CVE-2022-38887 (2022-09-19T16:15:00)
+> The d8s-python for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The democritus-strings package. The affected version is 0.1.0.
+- [Live-Hack-CVE/CVE-2022-38887](https://github.com/Live-Hack-CVE/CVE-2022-38887)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38887">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38887">
+
+---
 ## CVE-2022-38886 (2022-09-19T16:15:00)
 > The d8s-xml for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-strings package. The affected version is 0.1.0.
 - [Live-Hack-CVE/CVE-2022-38886](https://github.com/Live-Hack-CVE/CVE-2022-38886)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38886">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38886">
@@ -10768,6 +10804,11 @@
 ## CVE-2022-38766 ()
 > 
 - [AUTOCRYPT-IVS-VnV/CVE-2022-38766](https://github.com/AUTOCRYPT-IVS-VnV/CVE-2022-38766)	<img alt="forks" src="https://img.shields.io/github/forks/AUTOCRYPT-IVS-VnV/CVE-2022-38766">	<img alt="stars" src="https://img.shields.io/github/stars/AUTOCRYPT-IVS-VnV/CVE-2022-38766">
+
+---
+## CVE-2022-38764 (2022-09-19T18:15:00)
+> A vulnerability on Trend Micro HouseCall version 1.62.1.1133 and below could allow a local attacker to escalate privlieges due to an overly permissive folder om the product installer.
+- [Live-Hack-CVE/CVE-2022-38764](https://github.com/Live-Hack-CVE/CVE-2022-38764)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38764">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38764">
 
 ---
 ## CVE-2022-38757 (2022-12-23T16:15:00)
@@ -11004,6 +11045,11 @@
 - [Live-Hack-CVE/CVE-2022-38577](https://github.com/Live-Hack-CVE/CVE-2022-38577)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38577">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38577">
 
 ---
+## CVE-2022-38576 (2022-09-19T20:15:00)
+> Interview Management System v1.0 was discovered to contain a SQL injection vulnerability via the component /interview/delete.php?action=deletecand&id=.
+- [Live-Hack-CVE/CVE-2022-38576](https://github.com/Live-Hack-CVE/CVE-2022-38576)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38576">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38576">
+
+---
 ## CVE-2022-3856 (2022-12-05T17:15:00)
 > The Comic Book Management System WordPress plugin before 2.2.0 does not sanitize and escape a parameter before using it in a SQL statement, leading to a SQL injection exploitable by users with a role as low as Admin.
 - [Live-Hack-CVE/CVE-2022-3856](https://github.com/Live-Hack-CVE/CVE-2022-3856)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3856">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3856">
@@ -11226,6 +11272,11 @@
 > Daikin SVMPC1 version 2.1.22 and prior and SVMPC2 version 1.2.3 and prior are vulnerable to attackers with access to the local area network (LAN) to disclose sensitive information stored by the affected product without requiring authentication.
 - [Live-Hack-CVE/CVE-2022-38355](https://github.com/Live-Hack-CVE/CVE-2022-38355)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38355">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38355">
 - [Live-Hack-CVE/CVE-2022-38355](https://github.com/Live-Hack-CVE/CVE-2022-38355)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38355">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38355">
+
+---
+## CVE-2022-38351 (2022-09-19T21:15:00)
+> A vulnerability in Suprema BioStar (aka Bio Star) 2 v2.8.16 allows attackers to escalate privileges to System Administrator via a crafted PUT request to the update profile page.
+- [Live-Hack-CVE/CVE-2022-38351](https://github.com/Live-Hack-CVE/CVE-2022-38351)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38351">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38351">
 
 ---
 ## CVE-2022-3835 (2022-12-26T13:15:00)
@@ -12486,6 +12537,11 @@
 > In Amanda 3.5.1, an information leak vulnerability was found in the calcsize SUID binary. An attacker can abuse this vulnerability to know if a directory exists or not anywhere in the fs. The binary will use `opendir()` as root directly without checking the path, letting the attacker provide an arbitrary path.
 - [MaherAzzouzi/CVE-2022-37703](https://github.com/MaherAzzouzi/CVE-2022-37703)	<img alt="forks" src="https://img.shields.io/github/forks/MaherAzzouzi/CVE-2022-37703">	<img alt="stars" src="https://img.shields.io/github/stars/MaherAzzouzi/CVE-2022-37703">
 - [Live-Hack-CVE/CVE-2022-37703](https://github.com/Live-Hack-CVE/CVE-2022-37703)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37703">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37703">
+
+---
+## CVE-2022-37700 (2022-09-19T16:15:00)
+> Zentao Demo15 is vulnerable to Directory Traversal. The impact is: obtain sensitive information (remote). The component is: URL : view-source:https://demo15.zentao.pm/user-login.html/zentao/index.php?mode=getconfig.
+- [Live-Hack-CVE/CVE-2022-37700](https://github.com/Live-Hack-CVE/CVE-2022-37700)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37700">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37700">
 
 ---
 ## CVE-2022-3770 (2022-10-31T14:15:00)
@@ -15540,6 +15596,21 @@
 - [Live-Hack-CVE/CVE-2022-35063](https://github.com/Live-Hack-CVE/CVE-2022-35063)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35063">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35063">
 
 ---
+## CVE-2022-35062 (2022-09-19T22:15:00)
+> OTFCC commit 617837b was discovered to contain a heap buffer overflow via /release-x64/otfccdump+0x6c0bc3.
+- [Live-Hack-CVE/CVE-2022-35062](https://github.com/Live-Hack-CVE/CVE-2022-35062)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35062">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35062">
+
+---
+## CVE-2022-35061 (2022-09-19T22:15:00)
+> OTFCC commit 617837b was discovered to contain a heap buffer overflow via /release-x64/otfccdump+0x6e412a.
+- [Live-Hack-CVE/CVE-2022-35061](https://github.com/Live-Hack-CVE/CVE-2022-35061)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35061">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35061">
+
+---
+## CVE-2022-35060 (2022-09-19T22:15:00)
+> OTFCC commit 617837b was discovered to contain a heap buffer overflow via /release-x64/otfccdump+0x6c0a32.
+- [Live-Hack-CVE/CVE-2022-35060](https://github.com/Live-Hack-CVE/CVE-2022-35060)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35060">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35060">
+
+---
 ## CVE-2022-3506 (2022-10-14T14:15:00)
 > Cross-site Scripting (XSS) - Stored in GitHub repository barrykooij/related-posts-for-wp prior to 2.1.3.
 - [Live-Hack-CVE/CVE-2022-3506](https://github.com/Live-Hack-CVE/CVE-2022-3506)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3506">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3506">
@@ -17815,6 +17886,11 @@
 - [Live-Hack-CVE/CVE-2022-32407](https://github.com/Live-Hack-CVE/CVE-2022-32407)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32407">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32407">
 
 ---
+## CVE-2022-3239 (2022-09-19T20:15:00)
+> A flaw use after free in the Linux kernel video4linux driver was found in the way user triggers em28xx_usb_probe() for the Empia 28xx based TV cards. A local user could use this flaw to crash the system or potentially escalate their privileges on the system.
+- [Live-Hack-CVE/CVE-2022-3239](https://github.com/Live-Hack-CVE/CVE-2022-3239)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3239">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3239">
+
+---
 ## CVE-2022-3237 (2022-10-31T16:15:00)
 > The WP Contact Slider WordPress plugin before 2.4.8 does not sanitize and escape its settings, allowing high privilege users such as admin to perform cross-Site Scripting attacks even when the unfiltered_html capability is disallowed.
 - [Live-Hack-CVE/CVE-2022-3237](https://github.com/Live-Hack-CVE/CVE-2022-3237)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3237">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3237">
@@ -18024,6 +18100,11 @@
 ## CVE-2022-32148 (2022-08-10T20:15:00)
 > Improper exposure of client IP addresses in net/http before Go 1.17.12 and Go 1.18.4 can be triggered by calling httputil.ReverseProxy.ServeHTTP with a Request.Header map containing a nil value for the X-Forwarded-For header, which causes ReverseProxy to set the client IP as the value of the X-Forwarded-For header.
 - [Live-Hack-CVE/CVE-2022-32148](https://github.com/Live-Hack-CVE/CVE-2022-32148)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32148">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32148">
+
+---
+## CVE-2022-3213 (2022-09-19T18:15:00)
+> A heap buffer overflow issue was found in ImageMagick. When an application processes a malformed TIFF file, it could lead to undefined behavior or a crash causing a denial of service.
+- [Live-Hack-CVE/CVE-2022-3213](https://github.com/Live-Hack-CVE/CVE-2022-3213)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3213">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3213">
 
 ---
 ## CVE-2022-32119 (2022-07-15T12:15:00)
@@ -18955,6 +19036,13 @@
 - [Live-Hack-CVE/CVE-2022-30791](https://github.com/Live-Hack-CVE/CVE-2022-30791)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30791">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30791">
 
 ---
+## CVE-2022-3079 (2022-09-20T10:15:00)
+> Festo control block CPX-CEC-C1 and CPX-CMXX in multiple versions allow unauthenticated, remote access to critical webpage functions which may cause a denial of service.
+- [Live-Hack-CVE/CVE-2022-3079](https://github.com/Live-Hack-CVE/CVE-2022-3079)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3079">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3079">
+- [Live-Hack-CVE/CVE-2022-30792](https://github.com/Live-Hack-CVE/CVE-2022-30792)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30792">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30792">
+- [Live-Hack-CVE/CVE-2022-30791](https://github.com/Live-Hack-CVE/CVE-2022-30791)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30791">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30791">
+
+---
 ## CVE-2022-30787 (2022-05-26T16:15:00)
 > An integer underflow in fuse_lib_readdir enables arbitrary memory read operations in NTFS-3G through 2021.8.22 when using libfuse-lite.
 - [Live-Hack-CVE/CVE-2022-30787](https://github.com/Live-Hack-CVE/CVE-2022-30787)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30787">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30787">
@@ -19659,6 +19747,11 @@
 > ** DISPUTED ** Experian Hunter 1.16 allows remote authenticated users to modify assumed-immutable elements via the (1) rule name parameter to the Rules page or the (2) subrule name or (3) categories name parameter to the Subrules page. NOTE: the vendor disputes this because version 1.16 has never existed.
 - [Live-Hack-CVE/CVE-2022-29950](https://github.com/Live-Hack-CVE/CVE-2022-29950)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29950">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29950">
 - [Live-Hack-CVE/CVE-2022-29950](https://github.com/Live-Hack-CVE/CVE-2022-29950)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29950">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29950">
+
+---
+## CVE-2022-2995 (2022-09-19T20:15:00)
+> Incorrect handling of the supplementary groups in the CRI-O container engine might lead to sensitive information disclosure or possible data modification if an attacker has direct access to the affected container where supplementary groups are used to set access permissions and is able to execute a binary code in that container.
+- [Live-Hack-CVE/CVE-2022-2995](https://github.com/Live-Hack-CVE/CVE-2022-2995)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2995">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2995">
 
 ---
 ## CVE-2022-29931 (2022-06-25T19:15:00)
@@ -20538,6 +20631,11 @@
 ## CVE-2022-28215 (2022-04-12T17:15:00)
 > SAP NetWeaver ABAP Server and ABAP Platform - versions 740, 750, 787, allows an unauthenticated attacker to redirect users to a malicious site due to insufficient URL validation. This could lead to the user being tricked to disclose personal information.
 - [Live-Hack-CVE/CVE-2022-28215](https://github.com/Live-Hack-CVE/CVE-2022-28215)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28215">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28215">
+
+---
+## CVE-2022-28204 (2022-09-19T21:15:00)
+> A denial-of-service issue was discovered in MediaWiki 1.37.x before 1.37.2. Rendering of w/index.php?title=Special%3AWhatLinksHere&target=Property%3AP31&namespace=1&invert=1 can take more than thirty seconds. There is a DDoS risk.
+- [Live-Hack-CVE/CVE-2022-28204](https://github.com/Live-Hack-CVE/CVE-2022-28204)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28204">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28204">
 
 ---
 ## CVE-2022-28202 (2022-03-30T06:15:00)
@@ -27055,6 +27153,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-0171 (2022-08-26T18:15:00)
 > A flaw was found in the Linux kernel. The existing KVM SEV API has a vulnerability that allows a non-root (host) user-level application to crash the host kernel by creating a confidential guest VM instance in AMD CPU that supports Secure Encrypted Virtualization (SEV).
 - [Live-Hack-CVE/CVE-2022-0171](https://github.com/Live-Hack-CVE/CVE-2022-0171)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0171">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0171">
+
+---
+## CVE-2022-0143 (2022-09-19T22:15:00)
+> When the LDAP connector is started with StartTLS configured, unauthenticated access is granted. This issue affects: all versions of the LDAP connector prior to 1.5.20.9. The LDAP connector is bundled with Identity Management (IDM) and Remote Connector Server (RCS)
+- [Live-Hack-CVE/CVE-2022-0143](https://github.com/Live-Hack-CVE/CVE-2022-0143)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0143">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0143">
 
 ---
 ## CVE-2022-0135 (2022-08-25T18:15:00)

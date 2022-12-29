@@ -394,6 +394,11 @@
 - [Live-Hack-CVE/CVE-2021-44693](https://github.com/Live-Hack-CVE/CVE-2021-44693)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44693">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44693">
 
 ---
+## CVE-2021-44537 (2022-01-15T21:15:00)
+> ownCloud owncloud/client before 2.9.2 allows Resource Injection by a server into the desktop client via a URL, leading to remote code execution.
+- [Live-Hack-CVE/CVE-2021-44537](https://github.com/Live-Hack-CVE/CVE-2021-44537)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44537">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44537">
+
+---
 ## CVE-2021-44533 (2022-02-24T19:15:00)
 > Node.js < 12.22.9, < 14.18.3, < 16.13.2, and < 17.3.1 did not handle multi-value Relative Distinguished Names correctly. Attackers could craft certificate subjects containing a single-value Relative Distinguished Name that would be interpreted as a multi-value Relative Distinguished Name, for example, in order to inject a Common Name that would allow bypassing the certificate subject verification.Affected versions of Node.js that do not accept multi-value Relative Distinguished Names and are thus not vulnerable to such attacks themselves. However, third-party code that uses node's ambiguous presentation of certificate subjects may be vulnerable.
 - [Live-Hack-CVE/CVE-2021-44533](https://github.com/Live-Hack-CVE/CVE-2021-44533)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44533">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44533">
