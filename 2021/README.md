@@ -931,6 +931,16 @@
 - [Live-Hack-CVE/CVE-2021-43019](https://github.com/Live-Hack-CVE/CVE-2021-43019)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43019">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43019">
 
 ---
+## CVE-2021-42949 (2022-09-16T15:15:00)
+> The component controlla_login function in HotelDruid Hotel Management Software v3.0.3 generates a predictable session token, allowing attackers to bypass authentication via bruteforce attacks.
+- [Live-Hack-CVE/CVE-2021-42949](https://github.com/Live-Hack-CVE/CVE-2021-42949)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42949">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42949">
+
+---
+## CVE-2021-42948 (2022-09-16T16:15:00)
+> HotelDruid Hotel Management Software v3.0.3 and below was discovered to have exposed session tokens in multiple links via GET parameters, allowing attackers to access user session id's.
+- [Live-Hack-CVE/CVE-2021-42948](https://github.com/Live-Hack-CVE/CVE-2021-42948)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42948">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42948">
+
+---
 ## CVE-2021-4287 (2022-12-27T11:15:00)
 > A vulnerability, which was classified as problematic, was found in ReFirm Labs binwalk up to 2.3.2. Affected is an unknown function of the file src/binwalk/modules/extractor.py of the component Archive Extraction Handler. The manipulation leads to symlink following. It is possible to launch the attack remotely. Upgrading to version 2.3.3 is able to address this issue. The name of the patch is fa0c0bd59b8588814756942fe4cb5452e76c1dcd. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-216876.
 - [Live-Hack-CVE/CVE-2021-4287](https://github.com/Live-Hack-CVE/CVE-2021-4287)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4287">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4287">
@@ -2489,6 +2499,11 @@
 ## CVE-2021-38946 (2022-04-22T17:15:00)
 > IBM Cognos Analytics 11.1.7, 11.2.0, and 11.1.7 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 211240.
 - [Live-Hack-CVE/CVE-2021-38946](https://github.com/Live-Hack-CVE/CVE-2021-38946)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38946">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38946">
+
+---
+## CVE-2021-38924 (2022-09-14T17:15:00)
+> IBM Maximo Asset Management 7.6.1.1 and 7.6.1.2 could allow a remote attacker to obtain sensitive information when a detailed technical error message is returned in the browser. This information could be used in further attacks against the system. IBM X-Force ID: 210163.
+- [Live-Hack-CVE/CVE-2021-38924](https://github.com/Live-Hack-CVE/CVE-2021-38924)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38924">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38924">
 
 ---
 ## CVE-2021-38828 (2022-11-14T02:15:00)

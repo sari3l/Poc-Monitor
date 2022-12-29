@@ -2571,6 +2571,7 @@
 ## CVE-2020-19587 (2022-09-14T03:15:00)
 > Cross Site Scripting (XSS) vulnerability in configMap parameters in Yellowfin Business Intelligence 7.3 allows remote attackers to run arbitrary code via MIAdminStyles.i4 Admin UI.
 - [Deepak983/CVE-2020-19587](https://github.com/Deepak983/CVE-2020-19587)	<img alt="forks" src="https://img.shields.io/github/forks/Deepak983/CVE-2020-19587">	<img alt="stars" src="https://img.shields.io/github/stars/Deepak983/CVE-2020-19587">
+- [Live-Hack-CVE/CVE-2020-19587](https://github.com/Live-Hack-CVE/CVE-2020-19587)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-19587">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-19587">
 
 ---
 ## CVE-2020-19586 (2022-09-14T03:15:00)

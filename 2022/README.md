@@ -8554,6 +8554,11 @@
 - [Live-Hack-CVE/CVE-2022-40483](https://github.com/Live-Hack-CVE/CVE-2022-40483)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40483">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40483">
 
 ---
+## CVE-2022-40476 (2022-09-14T21:15:00)
+> A null pointer dereference issue was discovered in fs/io_uring.c in the Linux kernel before 5.15.62. A local user could use this flaw to crash the system or potentially cause a denial of service.
+- [Live-Hack-CVE/CVE-2022-40476](https://github.com/Live-Hack-CVE/CVE-2022-40476)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40476">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40476">
+
+---
 ## CVE-2022-40475 (2022-09-29T12:15:00)
 > TOTOLINK A860R V4.1.2cu.5182_B20201027 was discovered to contain a command injection via the component /cgi-bin/downloadFile.cgi.
 - [Live-Hack-CVE/CVE-2022-40475](https://github.com/Live-Hack-CVE/CVE-2022-40475)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40475">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40475">
@@ -10928,6 +10933,71 @@
 - [Live-Hack-CVE/CVE-2022-3885](https://github.com/Live-Hack-CVE/CVE-2022-3885)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3885">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3885">
 
 ---
+## CVE-2022-38846 (2022-09-16T14:15:00)
+> EspoCRM version 7.1.8 is vulnerable to Missing Secure Flag allowing the browser to send plain text cookies over an insecure channel (HTTP). An attacker may capture the cookie from the insecure channel using MITM attack.
+- [Live-Hack-CVE/CVE-2022-38846](https://github.com/Live-Hack-CVE/CVE-2022-38846)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38846">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38846">
+
+---
+## CVE-2022-38845 (2022-09-16T14:15:00)
+> Cross Site Scripting in Import feature in EspoCRM 7.1.8 allows remote users to run malicious JavaScript in victim s browser via sending crafted csv file containing malicious JavaScript to authenticated user. Any authenticated user importing the crafted CSV file may end up running the malicious JavaScripting in the browser.
+- [Live-Hack-CVE/CVE-2022-38845](https://github.com/Live-Hack-CVE/CVE-2022-38845)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38845">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38845">
+
+---
+## CVE-2022-38844 (2022-09-16T14:15:00)
+> CSV Injection in Create Contacts in EspoCRM 7.1.8 allows remote authenticated users to run system commands via creating contacts with payloads capable of executing system commands. Admin user exporting contacts in CSV file may end up executing the malicious system commands on his system.
+- [Live-Hack-CVE/CVE-2022-38844](https://github.com/Live-Hack-CVE/CVE-2022-38844)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38844">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38844">
+
+---
+## CVE-2022-38843 (2022-09-16T14:15:00)
+> EspoCRM version 7.1.8 is vulnerable to Unrestricted File Upload allowing attackers to upload malicious file with any extension to the server. Attacker may execute these malicious files to run unintended code on the server to compromise the server.
+- [Live-Hack-CVE/CVE-2022-38843](https://github.com/Live-Hack-CVE/CVE-2022-38843)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38843">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38843">
+
+---
+## CVE-2022-38833 (2022-09-16T15:15:00)
+> School Activity Updates with SMS Notification v1.0 is vulnerable to SQL Injection via /activity/admin/modules/modstudent/index.php?view=view&id=.
+- [Live-Hack-CVE/CVE-2022-38833](https://github.com/Live-Hack-CVE/CVE-2022-38833)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38833">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38833">
+
+---
+## CVE-2022-38832 (2022-09-16T15:15:00)
+> School Activity Updates with SMS Notification v1.0 is vulnerable to SQL Injection via /activity/admin/modules/department/index.php?view=edit&id=.
+- [Live-Hack-CVE/CVE-2022-38832](https://github.com/Live-Hack-CVE/CVE-2022-38832)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38832">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38832">
+
+---
+## CVE-2022-38831 (2022-09-16T15:15:00)
+> Tenda RX9_Pro V22.03.02.10 is vulnerable to Buffer Overflow via httpd/SetNetControlList
+- [Live-Hack-CVE/CVE-2022-38831](https://github.com/Live-Hack-CVE/CVE-2022-38831)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38831">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38831">
+
+---
+## CVE-2022-38830 (2022-09-16T15:15:00)
+> Tenda RX9_Pro V22.03.02.10 is vulnerable to Buffer Overflow via httpd/setIPv6Status.
+- [Live-Hack-CVE/CVE-2022-38830](https://github.com/Live-Hack-CVE/CVE-2022-38830)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38830">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38830">
+
+---
+## CVE-2022-38829 (2022-09-16T15:15:00)
+> Tenda RX9_Pro V22.03.02.10 is vulnerable to Buffer Overflow via httpd/setMacFilterCfg.
+- [Live-Hack-CVE/CVE-2022-38829](https://github.com/Live-Hack-CVE/CVE-2022-38829)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38829">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38829">
+
+---
+## CVE-2022-38828 (2022-09-16T15:15:00)
+> TOTOLINK T6 V4.1.5cu.709_B20210518 is vulnerable to command injection via cstecgi.cgi
+- [Live-Hack-CVE/CVE-2022-38828](https://github.com/Live-Hack-CVE/CVE-2022-38828)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38828">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38828">
+
+---
+## CVE-2022-38827 (2022-09-16T15:15:00)
+> TOTOLINK T6 V4.1.5cu.709_B20210518 is vulnerable to Buffer Overflow via cstecgi.cgi
+- [Live-Hack-CVE/CVE-2022-38827](https://github.com/Live-Hack-CVE/CVE-2022-38827)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38827">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38827">
+
+---
+## CVE-2022-38826 (2022-09-16T15:15:00)
+> In TOTOLINK T6 V4.1.5cu.709_B20210518, there is an execute arbitrary command in cstecgi.cgi.
+- [Live-Hack-CVE/CVE-2022-38826](https://github.com/Live-Hack-CVE/CVE-2022-38826)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38826">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38826">
+
+---
+## CVE-2022-38823 (2022-09-16T15:15:00)
+> In TOTOLINK T6 V4.1.5cu.709_B20210518, there is a hard coded password for root in /etc/shadow.sample.
+- [Live-Hack-CVE/CVE-2022-38823](https://github.com/Live-Hack-CVE/CVE-2022-38823)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38823">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38823">
+
+---
 ## CVE-2022-3882 (2022-12-12T18:15:00)
 > The Memory Usage, Memory Limit, PHP and Server Memory Health Check and Fix Plugin WordPress plugin before 2.46 does not have proper authorisation and CSRF in an AJAX action, allowing any authenticated users, such as subscriber to call it and install and activate arbitrary plugins from wordpress.org
 - [Live-Hack-CVE/CVE-2022-3882](https://github.com/Live-Hack-CVE/CVE-2022-3882)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3882">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3882">
@@ -10936,6 +11006,11 @@
 ## CVE-2022-38813 (2022-11-25T17:15:00)
 > PHPGurukul Blood Donor Management System 1.0 does not properly restrict access to admin/dashboard.php, which allows attackers to access all data of users, delete the users, add and manage Blood Group, and Submit Report.
 - [RashidKhanPathan/CVE-2022-38813](https://github.com/RashidKhanPathan/CVE-2022-38813)	<img alt="forks" src="https://img.shields.io/github/forks/RashidKhanPathan/CVE-2022-38813">	<img alt="stars" src="https://img.shields.io/github/stars/RashidKhanPathan/CVE-2022-38813">
+
+---
+## CVE-2022-38808 (2022-09-16T14:15:00)
+> ywoa v6.1 is vulnerable to SQL Injection via backend/oa/visual/exportExcel.do interface.
+- [Live-Hack-CVE/CVE-2022-38808](https://github.com/Live-Hack-CVE/CVE-2022-38808)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38808">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38808">
 
 ---
 ## CVE-2022-38791 (2022-08-27T20:15:00)
@@ -10967,6 +11042,26 @@
 ## CVE-2022-3878 (2022-11-07T16:15:00)
 > A vulnerability classified as critical has been found in Maxon ERP. This affects an unknown part of the file /index.php/purchase_order/browse_data. The manipulation of the argument tb_search leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-213039.
 - [Live-Hack-CVE/CVE-2022-3878](https://github.com/Live-Hack-CVE/CVE-2022-3878)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3878">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3878">
+
+---
+## CVE-2022-38771 (2022-09-13T23:15:00)
+> The mobile application in Transtek Mojodat FAM (Fixed Asset Management) 2.4.6 allows remote attackers to send SCRIPT tags as injected input to the API request.
+- [Live-Hack-CVE/CVE-2022-38771](https://github.com/Live-Hack-CVE/CVE-2022-38771)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38771">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38771">
+
+---
+## CVE-2022-38770 (2022-09-13T23:15:00)
+> The mobile application in Transtek Mojodat FAM (Fixed Asset Management) 2.4.6 allows remote attackers to fetch other users' data upon a successful login request.
+- [Live-Hack-CVE/CVE-2022-38770](https://github.com/Live-Hack-CVE/CVE-2022-38770)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38770">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38770">
+
+---
+## CVE-2022-38769 (2022-09-13T23:15:00)
+> The mobile application in Transtek Mojodat FAM (Fixed Asset Management) 2.4.6 allows remote attackers to fetch cleartext passwords upon a successful login request.
+- [Live-Hack-CVE/CVE-2022-38769](https://github.com/Live-Hack-CVE/CVE-2022-38769)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38769">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38769">
+
+---
+## CVE-2022-38768 (2022-09-13T23:15:00)
+> The mobile application in Transtek Mojodat FAM (Fixed Asset Management) 2.4.6 allows remote attackers to bypass authorization.
+- [Live-Hack-CVE/CVE-2022-38768](https://github.com/Live-Hack-CVE/CVE-2022-38768)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38768">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38768">
 
 ---
 ## CVE-2022-38766 ()
@@ -11585,6 +11680,11 @@
 > LIEF commit 5d1d643 was discovered to contain a segmentation violation via the function LIEF::MachO::SegmentCommand::file_offset() at /MachO/SegmentCommand.cpp.
 - [Live-Hack-CVE/CVE-2022-38307](https://github.com/Live-Hack-CVE/CVE-2022-38307)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38307">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38307">
 - [Live-Hack-CVE/CVE-2022-38307](https://github.com/Live-Hack-CVE/CVE-2022-38307)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38307">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38307">
+
+---
+## CVE-2022-38305 (2022-09-13T23:15:00)
+> AeroCMS v0.0.1 was discovered to contain an arbitrary file upload vulnerability via the component /admin/profile.php. This vulnerability allows attackers to execute arbitrary code via a crafted PHP file.
+- [Live-Hack-CVE/CVE-2022-38305](https://github.com/Live-Hack-CVE/CVE-2022-38305)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38305">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38305">
 
 ---
 ## CVE-2022-38304 (2022-09-12T23:15:00)
@@ -13083,6 +13183,11 @@
 - [Live-Hack-CVE/CVE-2022-37251](https://github.com/Live-Hack-CVE/CVE-2022-37251)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37251">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37251">
 
 ---
+## CVE-2022-37250 (2022-09-16T15:15:00)
+> Craft CMS 4.2.0.1 suffers from Stored Cross Site Scripting (XSS) in /admin/myaccount.
+- [Live-Hack-CVE/CVE-2022-37250](https://github.com/Live-Hack-CVE/CVE-2022-37250)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37250">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37250">
+
+---
 ## CVE-2022-37247 (2022-09-16T22:15:00)
 > Craft CMS 4.2.0.1 is vulnerable to stored a cross-site scripting (XSS) via /admin/settings/fields page.
 - [Live-Hack-CVE/CVE-2022-37247](https://github.com/Live-Hack-CVE/CVE-2022-37247)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37247">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37247">
@@ -13183,6 +13288,11 @@
 ## CVE-2022-37193 (2022-09-27T23:15:00)
 > Chipolo ONE Bluetooth tracker (2020) Chipolo iOS app version 4.13.0 is vulnerable to Incorrect Access Control. Chipolo devices suffer from access revocation evasion attacks once the malicious sharee obtains the access credentials.
 - [Live-Hack-CVE/CVE-2022-37193](https://github.com/Live-Hack-CVE/CVE-2022-37193)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37193">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37193">
+
+---
+## CVE-2022-37191 (2022-09-13T23:15:00)
+> The component "cuppa/api/index.php" of CuppaCMS v1.0 is Vulnerable to LFI. An authenticated user can read system files via crafted POST request using [function] parameter value as LFI payload.
+- [Live-Hack-CVE/CVE-2022-37191](https://github.com/Live-Hack-CVE/CVE-2022-37191)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37191">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37191">
 
 ---
 ## CVE-2022-37189 (2022-09-07T13:15:00)
@@ -13990,6 +14100,11 @@
 ## CVE-2022-36534 (2022-09-16T03:15:00)
 > Super Flexible Software GmbH & Co. KG Syncovery 9 for Linux v9.47x and below was discovered to contain multiple remote code execution (RCE) vulnerabilities via the Job_ExecuteBefore and Job_ExecuteAfter parameters at post_profilesettings.php.
 - [Live-Hack-CVE/CVE-2022-36534](https://github.com/Live-Hack-CVE/CVE-2022-36534)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36534">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36534">
+
+---
+## CVE-2022-36533 (2022-09-16T03:15:00)
+> Super Flexible Software GmbH & Co. KG Syncovery 9 for Linux v9.47x and below was discovered to contain a cross-site scripting (XSS) vulnerability.
+- [Live-Hack-CVE/CVE-2022-36533](https://github.com/Live-Hack-CVE/CVE-2022-36533)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36533">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36533">
 
 ---
 ## CVE-2022-36532 (2022-09-16T03:15:00)
@@ -17792,6 +17907,11 @@
 - [Live-Hack-CVE/CVE-2022-32848](https://github.com/Live-Hack-CVE/CVE-2022-32848)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32848">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32848">
 
 ---
+## CVE-2022-32837 (2022-08-24T20:15:00)
+> This issue was addressed with improved checks. This issue is fixed in macOS Monterey 12.5, tvOS 15.6, iOS 15.6 and iPadOS 15.6. An app may be able to cause unexpected system termination or write kernel memory.
+- [Live-Hack-CVE/CVE-2022-32837](https://github.com/Live-Hack-CVE/CVE-2022-32837)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32837">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32837">
+
+---
 ## CVE-2022-32832 (2022-09-23T19:15:00)
 > The issue was addressed with improved memory handling. This issue is fixed in iOS 15.6 and iPadOS 15.6, macOS Big Sur 11.6.8, watchOS 8.7, tvOS 15.6, macOS Monterey 12.5, Security Update 2022-005 Catalina. An app with root privileges may be able to execute arbitrary code with kernel privileges.
 - [Muirey03/CVE-2022-32832](https://github.com/Muirey03/CVE-2022-32832)	<img alt="forks" src="https://img.shields.io/github/forks/Muirey03/CVE-2022-32832">	<img alt="stars" src="https://img.shields.io/github/stars/Muirey03/CVE-2022-32832">
@@ -18391,6 +18511,11 @@
 ## CVE-2022-32244 (2022-09-13T20:15:00)
 > Under certain conditions an attacker authenticated as a CMS administrator access the BOE Commentary database and retrieve (non-personal) system data, modify system data but can't make the system unavailable. This needs the attacker to have high privilege access to the same physical/logical network to access information which would otherwise be restricted, leading to low impact on confidentiality and high impact on integrity of the application.
 - [Live-Hack-CVE/CVE-2022-32244](https://github.com/Live-Hack-CVE/CVE-2022-32244)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32244">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32244">
+
+---
+## CVE-2022-3224 (2022-09-15T12:15:00)
+> Misinterpretation of Input in GitHub repository ionicabizau/parse-url prior to 8.1.0.
+- [Live-Hack-CVE/CVE-2022-3224](https://github.com/Live-Hack-CVE/CVE-2022-3224)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3224">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3224">
 
 ---
 ## CVE-2022-32239 (2022-06-14T20:15:00)
@@ -21590,6 +21715,11 @@
 ## CVE-2022-27377 (2022-04-12T20:15:00)
 > MariaDB Server v10.6.3 and below was discovered to contain an use-after-free in the component Item_func_in::cleanup(), which is exploited via specially crafted SQL statements.
 - [Live-Hack-CVE/CVE-2022-27377](https://github.com/Live-Hack-CVE/CVE-2022-27377)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27377">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27377">
+
+---
+## CVE-2022-2737 (2022-09-16T09:15:00)
+> The WP STAGING WordPress plugin before 2.9.18 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup)
+- [Live-Hack-CVE/CVE-2022-2737](https://github.com/Live-Hack-CVE/CVE-2022-2737)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2737">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2737">
 
 ---
 ## CVE-2022-27359 (2022-05-05T19:15:00)
