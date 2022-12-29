@@ -352,6 +352,11 @@
 - [Live-Hack-CVE/CVE-2021-45035](https://github.com/Live-Hack-CVE/CVE-2021-45035)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45035">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45035">
 
 ---
+## CVE-2021-45027 (2022-09-01T18:15:00)
+> An arbitrary file download vulnerability in Oliver v5 Library Server Versions < 5.00.008.053 via the FileServlet function allows for arbitrary file download by an attacker using unsanitized user supplied input.
+- [Live-Hack-CVE/CVE-2021-45027](https://github.com/Live-Hack-CVE/CVE-2021-45027)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45027">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45027">
+
+---
 ## CVE-2021-45010 ()
 > 
 - [BKreisel/CVE-2021-45010](https://github.com/BKreisel/CVE-2021-45010)	<img alt="forks" src="https://img.shields.io/github/forks/BKreisel/CVE-2021-45010">	<img alt="stars" src="https://img.shields.io/github/stars/BKreisel/CVE-2021-45010">
@@ -4889,6 +4894,11 @@
 - [Live-Hack-CVE/CVE-2021-29752](https://github.com/Live-Hack-CVE/CVE-2021-29752)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29752">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29752">
 
 ---
+## CVE-2021-29672 (2021-04-26T17:15:00)
+> IBM Spectrum Protect Client 8.1.0.0-8 through 1.11.0 is vulnerable to a stack-based buffer overflow, caused by improper bounds checking when processing the current locale settings. A local attacker could overflow a buffer and execute arbitrary code on the system with elevated privileges or cause the application to crash. IBM X-Force ID: 199479
+- [Live-Hack-CVE/CVE-2021-29672](https://github.com/Live-Hack-CVE/CVE-2021-29672)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29672">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29672">
+
+---
 ## CVE-2021-29624 (2021-05-19T22:15:00)
 > fastify-csrf is an open-source plugin helps developers protect their Fastify server against CSRF attacks. Versions of fastify-csrf prior to 3.1.0 have a "double submit" mechanism using cookies with an application deployed across multiple subdomains, e.g. "heroku"-style platform as a service. Version 3.1.0 of the fastify-csrf fixes it. the vulnerability. The user of the module would need to supply a `userInfo` when generating the CSRF token to fully implement the protection on their end. This is needed only for applications hosted on different subdomains.
 - [Live-Hack-CVE/CVE-2021-29624](https://github.com/Live-Hack-CVE/CVE-2021-29624)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29624">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29624">
@@ -4944,6 +4954,11 @@
 ## CVE-2021-29421 (2021-04-01T20:15:00)
 > models/metadata.py in the pikepdf package 1.3.0 through 2.9.2 for Python allows XXE when parsing XMP metadata entries.
 - [Live-Hack-CVE/CVE-2021-29421](https://github.com/Live-Hack-CVE/CVE-2021-29421)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29421">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29421">
+
+---
+## CVE-2021-29338 (2021-04-14T14:15:00)
+> Integer Overflow in OpenJPEG v2.4.0 allows remote attackers to crash the application, causing a Denial of Service (DoS). This occurs when the attacker uses the command line option "-ImgDir" on a directory that contains 1048576 files.
+- [Live-Hack-CVE/CVE-2021-29338](https://github.com/Live-Hack-CVE/CVE-2021-29338)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29338">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29338">
 
 ---
 ## CVE-2021-29156 (2021-03-25T09:15:00)
