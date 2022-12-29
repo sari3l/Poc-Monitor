@@ -2325,6 +2325,7 @@
 ## CVE-2020-22201 (2021-06-16T17:15:00)
 > phpCMS 2008 sp4 allowas remote malicious users to execute arbitrary php commands via the pagesize parameter to yp/product.php.
 - [Live-Hack-CVE/CVE-2020-22201](https://github.com/Live-Hack-CVE/CVE-2020-22201)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-22201">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-22201">
+- [Live-Hack-CVE/CVE-2020-22201](https://github.com/Live-Hack-CVE/CVE-2020-22201)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-22201">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-22201">
 
 ---
 ## CVE-2020-22034 (2021-05-27T19:15:00)
@@ -2374,6 +2375,7 @@
 ---
 ## CVE-2020-21784 (2021-06-24T16:15:00)
 > phpwcms 1.9.13 is vulnerable to Code Injection via /phpwcms/setup/setup.php.
+- [Live-Hack-CVE/CVE-2020-21784](https://github.com/Live-Hack-CVE/CVE-2020-21784)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-21784">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-21784">
 - [Live-Hack-CVE/CVE-2020-21784](https://github.com/Live-Hack-CVE/CVE-2020-21784)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-21784">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-21784">
 
 ---
@@ -2451,15 +2453,18 @@
 ## CVE-2020-20470 (2021-06-21T05:15:00)
 > White Shark System (WSS) 1.3.2 has web site physical path leakage vulnerability.
 - [Live-Hack-CVE/CVE-2020-20470](https://github.com/Live-Hack-CVE/CVE-2020-20470)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-20470">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-20470">
+- [Live-Hack-CVE/CVE-2020-20470](https://github.com/Live-Hack-CVE/CVE-2020-20470)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-20470">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-20470">
 
 ---
 ## CVE-2020-20467 (2021-06-21T04:15:00)
 > White Shark System (WSS) 1.3.2 is vulnerable to sensitive information disclosure via default_task_add.php, remote attackers can exploit the vulnerability to create a task.
 - [Live-Hack-CVE/CVE-2020-20467](https://github.com/Live-Hack-CVE/CVE-2020-20467)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-20467">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-20467">
+- [Live-Hack-CVE/CVE-2020-20467](https://github.com/Live-Hack-CVE/CVE-2020-20467)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-20467">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-20467">
 
 ---
 ## CVE-2020-20444 (2021-06-16T16:15:00)
 > Jact OpenClinic 0.8.20160412 allows the attacker to read server files after login to the the admin account by an infected 'file' GET parameter in '/shared/view_source.php' which "could" lead to RCE vulnerability .
+- [Live-Hack-CVE/CVE-2020-20444](https://github.com/Live-Hack-CVE/CVE-2020-20444)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-20444">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-20444">
 - [Live-Hack-CVE/CVE-2020-20444](https://github.com/Live-Hack-CVE/CVE-2020-20444)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-20444">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-20444">
 
 ---

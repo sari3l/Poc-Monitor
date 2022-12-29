@@ -199,6 +199,7 @@
 ## CVE-2021-45789 (2022-09-29T03:15:00)
 > An arbitrary file read vulnerability was found in Metersphere v1.15.4, where authenticated users can read any file on the server via the file download function.
 - [Live-Hack-CVE/CVE-2021-45789](https://github.com/Live-Hack-CVE/CVE-2021-45789)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45789">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45789">
+- [Live-Hack-CVE/CVE-2021-45789](https://github.com/Live-Hack-CVE/CVE-2021-45789)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45789">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45789">
 
 ---
 ## CVE-2021-45788 (2022-09-29T03:15:00)
@@ -849,6 +850,7 @@
 ## CVE-2021-43403 (2022-09-29T03:15:00)
 > An issue was discovered in FusionPBX before 4.5.30. The log_viewer.php Log View page allows an authenticated user to choose an arbitrary filename for download (i.e., not necessarily freeswitch.log in the intended directory).
 - [Live-Hack-CVE/CVE-2021-43403](https://github.com/Live-Hack-CVE/CVE-2021-43403)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43403">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43403">
+- [Live-Hack-CVE/CVE-2021-43403](https://github.com/Live-Hack-CVE/CVE-2021-43403)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43403">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43403">
 
 ---
 ## CVE-2021-43362 (2021-11-16T16:15:00)
@@ -1213,6 +1215,7 @@
 ## CVE-2021-42048 (2022-09-29T03:15:00)
 > An issue was discovered in the Growth extension in MediaWiki through 1.36.2. Any admin can add arbitrary JavaScript code to the Newcomer home page footer, which can be executed by viewers with zero edits.
 - [Live-Hack-CVE/CVE-2021-42048](https://github.com/Live-Hack-CVE/CVE-2021-42048)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42048">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42048">
+- [Live-Hack-CVE/CVE-2021-42048](https://github.com/Live-Hack-CVE/CVE-2021-42048)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42048">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42048">
 
 ---
 ## CVE-2021-42047 (2022-09-29T03:15:00)
@@ -1222,6 +1225,7 @@
 ---
 ## CVE-2021-42046 (2022-09-29T03:15:00)
 > An issue was discovered in the GlobalWatchlist extension in MediaWiki through 1.36.2. The rev-deleted-user and ntimes messages were not properly escaped and allowed for users to inject HTML and JavaScript.
+- [Live-Hack-CVE/CVE-2021-42046](https://github.com/Live-Hack-CVE/CVE-2021-42046)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42046">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42046">
 - [Live-Hack-CVE/CVE-2021-42046](https://github.com/Live-Hack-CVE/CVE-2021-42046)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42046">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42046">
 
 ---
@@ -4550,6 +4554,7 @@
 ---
 ## CVE-2021-30860 (2021-08-24T19:15:00)
 > An integer overflow was addressed with improved input validation. This issue is fixed in Security Update 2021-005 Catalina, iOS 14.8 and iPadOS 14.8, macOS Big Sur 11.6, watchOS 7.6.2. Processing a maliciously crafted PDF may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited.
+- [Live-Hack-CVE/CVE-2021-30860](https://github.com/Live-Hack-CVE/CVE-2021-30860)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30860">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30860">
 - [Live-Hack-CVE/CVE-2021-30860](https://github.com/Live-Hack-CVE/CVE-2021-30860)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30860">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30860">
 
 ---

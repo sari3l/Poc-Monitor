@@ -257,10 +257,12 @@
 ## CVE-2017-3318 (2017-01-27T22:59:00)
 > Vulnerability in the MySQL Server component of Oracle MySQL (subcomponent: Server: Error Handling). Supported versions that are affected are 5.5.53 and earlier, 5.6.34 and earlier and 5.7.16 and earlier. Difficult to exploit vulnerability allows high privileged attacker with logon to the infrastructure where MySQL Server executes to compromise MySQL Server. Successful attacks require human interaction from a person other than the attacker. Successful attacks of this vulnerability can result in unauthorized access to critical data or complete access to all MySQL Server accessible data. CVSS v3.0 Base Score 4.0 (Confidentiality impacts).
 - [Live-Hack-CVE/CVE-2017-3318](https://github.com/Live-Hack-CVE/CVE-2017-3318)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-3318">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-3318">
+- [Live-Hack-CVE/CVE-2017-3318](https://github.com/Live-Hack-CVE/CVE-2017-3318)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-3318">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-3318">
 
 ---
 ## CVE-2017-3317 (2017-01-27T22:59:00)
 > Vulnerability in the MySQL Server component of Oracle MySQL (subcomponent: Logging). Supported versions that are affected are 5.5.53 and earlier, 5.6.34 and earlier and 5.7.16 and earlier. Difficult to exploit vulnerability allows high privileged attacker with logon to the infrastructure where MySQL Server executes to compromise MySQL Server. Successful attacks require human interaction from a person other than the attacker. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS v3.0 Base Score 4.0 (Availability impacts).
+- [Live-Hack-CVE/CVE-2017-3317](https://github.com/Live-Hack-CVE/CVE-2017-3317)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-3317">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-3317">
 - [Live-Hack-CVE/CVE-2017-3317](https://github.com/Live-Hack-CVE/CVE-2017-3317)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-3317">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-3317">
 
 ---
@@ -759,6 +761,7 @@
 ---
 ## CVE-2017-10268 (2017-10-19T17:29:00)
 > Vulnerability in the MySQL Server component of Oracle MySQL (subcomponent: Server: Replication). Supported versions that are affected are 5.5.57 and earlier, 5.6.37 and earlier and 5.7.19 and earlier. Difficult to exploit vulnerability allows high privileged attacker with logon to the infrastructure where MySQL Server executes to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized access to critical data or complete access to all MySQL Server accessible data. CVSS 3.0 Base Score 4.1 (Confidentiality impacts). CVSS Vector: (CVSS:3.0/AV:L/AC:H/PR:H/UI:N/S:U/C:H/I:N/A:N).
+- [Live-Hack-CVE/CVE-2017-10268](https://github.com/Live-Hack-CVE/CVE-2017-10268)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-10268">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-10268">
 - [Live-Hack-CVE/CVE-2017-10268](https://github.com/Live-Hack-CVE/CVE-2017-10268)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-10268">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-10268">
 
 ---

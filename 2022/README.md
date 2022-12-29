@@ -7787,6 +7787,7 @@
 ## CVE-2022-40931 (2022-09-29T16:15:00)
 > dutchcoders Transfer.sh 1.4.0 is vulnerable to Cross Site Scripting (XSS).
 - [Live-Hack-CVE/CVE-2022-40931](https://github.com/Live-Hack-CVE/CVE-2022-40931)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40931">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40931">
+- [Live-Hack-CVE/CVE-2022-40931](https://github.com/Live-Hack-CVE/CVE-2022-40931)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40931">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40931">
 
 ---
 ## CVE-2022-40925 (2022-09-26T13:15:00)
@@ -8657,6 +8658,7 @@
 ---
 ## CVE-2022-40279 (2022-09-29T03:15:00)
 > An issue was discovered in Samsung TizenRT through 3.0_GBM (and 3.1_PRE). l2_packet_receive_timeout in wpa_supplicant/src/l2_packet/l2_packet_pcap.c has a missing check on the return value of pcap_dispatch, leading to a denial of service (malfunction).
+- [Live-Hack-CVE/CVE-2022-40279](https://github.com/Live-Hack-CVE/CVE-2022-40279)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40279">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40279">
 - [Live-Hack-CVE/CVE-2022-40279](https://github.com/Live-Hack-CVE/CVE-2022-40279)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40279">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40279">
 
 ---
@@ -10069,6 +10071,7 @@
 ## CVE-2022-39168 (2022-09-29T16:15:00)
 > IBM Robotic Process Automation Clients are vulnerable to proxy credentials being exposed in upgrade logs. IBM X-Force ID: 235422.
 - [Live-Hack-CVE/CVE-2022-39168](https://github.com/Live-Hack-CVE/CVE-2022-39168)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39168">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39168">
+- [Live-Hack-CVE/CVE-2022-39168](https://github.com/Live-Hack-CVE/CVE-2022-39168)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39168">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39168">
 
 ---
 ## CVE-2022-39165 (2022-12-23T19:15:00)
@@ -10436,6 +10439,7 @@
 ---
 ## CVE-2022-38932 (2022-09-27T23:15:00)
 > readelf in ToaruOS 2.0.1 has a global overflow allowing RCE when parsing a crafted ELF file.
+- [Live-Hack-CVE/CVE-2022-38932](https://github.com/Live-Hack-CVE/CVE-2022-38932)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38932">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38932">
 - [Live-Hack-CVE/CVE-2022-38932](https://github.com/Live-Hack-CVE/CVE-2022-38932)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38932">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38932">
 
 ---
@@ -11057,6 +11061,7 @@
 ## CVE-2022-38335 (2022-09-27T23:15:00)
 > Vtiger CRM v7.4.0 was discovered to contain a stored cross-site scripting (XSS) vulnerability via the e-mail template modules.
 - [Live-Hack-CVE/CVE-2022-38335](https://github.com/Live-Hack-CVE/CVE-2022-38335)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38335">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38335">
+- [Live-Hack-CVE/CVE-2022-38335](https://github.com/Live-Hack-CVE/CVE-2022-38335)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38335">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38335">
 
 ---
 ## CVE-2022-38307 (2022-09-13T21:15:00)
@@ -11206,6 +11211,7 @@
 ---
 ## CVE-2022-38222 (2022-09-29T03:15:00)
 > There is a use-after-free issue in JBIG2Stream::close() located in JBIG2Stream.cc in Xpdf 4.04. It can be triggered by sending a crafted PDF file to (for example) the pdfimages binary. It allows an attacker to cause Denial of Service or possibly have unspecified other impact.
+- [Live-Hack-CVE/CVE-2022-38222](https://github.com/Live-Hack-CVE/CVE-2022-38222)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38222">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38222">
 - [Live-Hack-CVE/CVE-2022-38222](https://github.com/Live-Hack-CVE/CVE-2022-38222)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38222">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38222">
 
 ---
@@ -12526,6 +12532,7 @@
 ## CVE-2022-37209 (2022-09-27T23:15:00)
 > JFinal CMS 5.1.0 is affected by: SQL Injection. These interfaces do not use the same component, nor do they have filters, but each uses its own SQL concatenation method, resulting in SQL injection.
 - [AgainstTheLight/CVE-2022-37209](https://github.com/AgainstTheLight/CVE-2022-37209)	<img alt="forks" src="https://img.shields.io/github/forks/AgainstTheLight/CVE-2022-37209">	<img alt="stars" src="https://img.shields.io/github/stars/AgainstTheLight/CVE-2022-37209">
+- [Live-Hack-CVE/CVE-2022-37209](https://github.com/Live-Hack-CVE/CVE-2022-37209)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37209">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37209">
 - [Live-Hack-CVE/CVE-2022-37209](https://github.com/Live-Hack-CVE/CVE-2022-37209)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37209">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37209">
 
 ---
@@ -25333,6 +25340,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ---
 ## CVE-2022-1719 (2022-09-29T03:15:00)
 > Reflected XSS on ticket filter function in GitHub repository polonel/trudesk prior to 1.2.2. This vulnerability is capable of executing a malicious javascript code in web page
+- [Live-Hack-CVE/CVE-2022-1719](https://github.com/Live-Hack-CVE/CVE-2022-1719)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1719">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1719">
 - [Live-Hack-CVE/CVE-2022-1719](https://github.com/Live-Hack-CVE/CVE-2022-1719)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1719">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1719">
 
 ---
