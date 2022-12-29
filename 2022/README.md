@@ -8777,6 +8777,11 @@
 - [Live-Hack-CVE/CVE-2022-4033](https://github.com/Live-Hack-CVE/CVE-2022-4033)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4033">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4033">
 
 ---
+## CVE-2022-40323 (2022-09-11T21:15:00)
+> SysAid Help Desk before 22.1.65 allows XSS in the Password Services module, aka FR# 67241.
+- [Live-Hack-CVE/CVE-2022-40323](https://github.com/Live-Hack-CVE/CVE-2022-40323)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40323">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40323">
+
+---
 ## CVE-2022-4032 (2022-11-29T21:15:00)
 > The Quiz and Survey Master plugin for WordPress is vulnerable to iFrame Injection via the 'question[id]' parameter in versions up to, and including, 8.0.4 due to insufficient input sanitization and output escaping that allowed iframe tags to be injected. This makes it possible for unauthenticated attackers to inject iFrames in pages that will execute whenever a user accesses an injected page.
 - [Live-Hack-CVE/CVE-2022-4032](https://github.com/Live-Hack-CVE/CVE-2022-4032)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4032">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4032">
@@ -8785,6 +8790,7 @@
 ## CVE-2022-40317 (2022-09-09T17:15:00)
 > OpenKM 6.3.11 allows stored XSS related to the javascript&colon; substring in an A element.
 - [izdiwho/CVE-2022-40317](https://github.com/izdiwho/CVE-2022-40317)	<img alt="forks" src="https://img.shields.io/github/forks/izdiwho/CVE-2022-40317">	<img alt="stars" src="https://img.shields.io/github/stars/izdiwho/CVE-2022-40317">
+- [Live-Hack-CVE/CVE-2022-40317](https://github.com/Live-Hack-CVE/CVE-2022-40317)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40317">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40317">
 
 ---
 ## CVE-2022-40316 (2022-09-30T17:15:00)
@@ -9131,6 +9137,11 @@
 ## CVE-2022-40138 (2022-10-11T02:15:00)
 > An integer conversion error in Hermes bytecode generation, prior to commit 6aa825e480d48127b480b08d13adf70033237097, could have been used to perform Out-Of-Bounds operations and subsequently execute arbitrary code. Note that this is only exploitable in cases where Hermes is used to execute untrusted JavaScript. Hence, most React Native applications are not affected.
 - [Live-Hack-CVE/CVE-2022-40138](https://github.com/Live-Hack-CVE/CVE-2022-40138)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40138">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40138">
+
+---
+## CVE-2022-40133 (2022-09-09T15:15:00)
+> A use-after-free(UAF) vulnerability was found in function 'vmw_execbuf_tie_context' in drivers/gpu/vmxgfx/vmxgfx_execbuf.c in Linux kernel's vmwgfx driver with device file '/dev/dri/renderD128 (or Dxxx)'. This flaw allows a local attacker with a user account on the system to gain privilege, causing a denial of service(DoS).
+- [Live-Hack-CVE/CVE-2022-40133](https://github.com/Live-Hack-CVE/CVE-2022-40133)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40133">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40133">
 
 ---
 ## CVE-2022-40132 (2022-09-23T19:15:00)
@@ -9663,6 +9674,16 @@
 ## CVE-2022-39817 (2022-09-13T21:15:00)
 > In NOKIA 1350 OMS R14.2, multiple SQL Injection vulnerabilities occurs. Exploitation requires an authenticated attacker. Through the injection of arbitrary SQL statements, a potential authenticated attacker can modify query syntax and perform unauthorized (and unexpected) operations against the remote database.
 - [Live-Hack-CVE/CVE-2022-39817](https://github.com/Live-Hack-CVE/CVE-2022-39817)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39817">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39817">
+
+---
+## CVE-2022-39810 (2022-09-09T17:15:00)
+> An issue was discovered in WSO2 Enterprise Integrator 6.4.0. A Reflected Cross-Site Scripting (XSS) vulnerability has been identified in the Management Console under /carbon/ndatasource/validateconnection/ajaxprocessor.jsp via the driver parameter. Session hijacking or similar attacks would not be possible.
+- [Live-Hack-CVE/CVE-2022-39810](https://github.com/Live-Hack-CVE/CVE-2022-39810)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39810">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39810">
+
+---
+## CVE-2022-39809 (2022-09-09T17:15:00)
+> An issue was discovered in WSO2 Enterprise Integrator 6.4.0. A Reflected Cross-Site Scripting (XSS) vulnerability has been identified in the Management Console under /carbon/mediation_secure_vault/properties/ajaxprocessor.jsp via the name parameter. Session hijacking or similar attacks would not be possible.
+- [Live-Hack-CVE/CVE-2022-39809](https://github.com/Live-Hack-CVE/CVE-2022-39809)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39809">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39809">
 
 ---
 ## CVE-2022-39802 (2022-10-11T21:15:00)
@@ -10495,6 +10516,11 @@
 - [Live-Hack-CVE/CVE-2022-39120](https://github.com/Live-Hack-CVE/CVE-2022-39120)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39120">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39120">
 
 ---
+## CVE-2022-39119 (2022-09-09T15:15:00)
+> In network service, there is a missing permission check. This could lead to local escalation of privilege with no additional execution privileges needed
+- [Live-Hack-CVE/CVE-2022-39119](https://github.com/Live-Hack-CVE/CVE-2022-39119)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39119">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39119">
+
+---
 ## CVE-2022-39106 (2022-12-06T07:15:00)
 > In sensor driver, there is a possible out of bounds write due to a missing bounds check. This could lead to local denial of service in kernel.
 - [Live-Hack-CVE/CVE-2022-39106](https://github.com/Live-Hack-CVE/CVE-2022-39106)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39106">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39106">
@@ -11296,6 +11322,11 @@
 - [Live-Hack-CVE/CVE-2022-38614](https://github.com/Live-Hack-CVE/CVE-2022-38614)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38614">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38614">
 
 ---
+## CVE-2022-38613 (2022-09-09T16:15:00)
+> A Path Traversal vulnerability in SmartVista Cardgen v3.28.0 allows authenticated attackers to read arbitrary files in the system.
+- [Live-Hack-CVE/CVE-2022-38613](https://github.com/Live-Hack-CVE/CVE-2022-38613)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38613">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38613">
+
+---
 ## CVE-2022-38610 (2022-09-12T21:15:00)
 > Garage Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /garage/editclient.php.
 - [Live-Hack-CVE/CVE-2022-38610](https://github.com/Live-Hack-CVE/CVE-2022-38610)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38610">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38610">
@@ -11841,6 +11872,11 @@
 ## CVE-2022-38266 (2022-09-09T22:15:00)
 > An issue in the Leptonica linked library (v1.79.0) allows attackers to cause an arithmetic exception leading to a Denial of Service (DoS) via a crafted JPEG file.
 - [Live-Hack-CVE/CVE-2022-38266](https://github.com/Live-Hack-CVE/CVE-2022-38266)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38266">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38266">
+
+---
+## CVE-2022-38256 (2022-09-08T18:15:00)
+> TastyIgniter v3.5.0 was discovered to contain a cross-site scripting (XSS) vulnerability which allows attackers to execute arbitrary web scripts or HTML via a crafted payload.
+- [Live-Hack-CVE/CVE-2022-38256](https://github.com/Live-Hack-CVE/CVE-2022-38256)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38256">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38256">
 
 ---
 ## CVE-2022-3825 (2022-11-02T13:15:00)
@@ -14783,6 +14819,16 @@
 - [Live-Hack-CVE/CVE-2022-36103](https://github.com/Live-Hack-CVE/CVE-2022-36103)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36103">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36103">
 
 ---
+## CVE-2022-36100 (2022-09-08T21:15:00)
+> XWiki Platform Applications Tag and XWiki Platform Tag UI are tag applications for XWiki, a generic wiki platform. Starting with version 1.7 in XWiki Platform Applications Tag and prior to 13.10.6 and 14.4 in XWiki Platform Tag UI, the tags document `Main.Tags` in XWiki didn't sanitize user inputs properly. This allowed users with view rights on the document (default in a public wiki or for authenticated users on private wikis) to execute arbitrary Groovy, Python and Velocity code with programming rights. This also allowed bypassing all rights checks and thus both modification and disclosure of all content stored in the XWiki installation. The vulnerability could be used to impact the availability of the wiki. On XWiki versions before 13.10.4 and 14.2, this can be combined with CVE-2022-36092, meaning that no rights are required to perform the attack. The vulnerability has been patched in versions 13.10.6 and 14.4. As a workaround, the patch that fixes the issue can be manually applied to the document `Main.Tags` or the updated version of that document can be imported from version 14.4 of xwiki-platform-tag-ui using the import feature in the administration UI on XWiki 10.9 and later.
+- [Live-Hack-CVE/CVE-2022-36100](https://github.com/Live-Hack-CVE/CVE-2022-36100)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36100">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36100">
+
+---
+## CVE-2022-36099 (2022-09-08T21:15:00)
+> XWiki Platform Wiki UI Main Wiki is software for managing subwikis on XWiki Platform, a generic wiki platform. Starting with version 5.3-milestone-2 and prior to versions 13.10.6 and 14.4, it's possible to inject arbitrary wiki syntax including Groovy, Python and Velocity script macros via the request (URL parameter) using the `XWikiServerClassSheet` if the user has view access to this sheet and another page that has been saved with programming rights, a standard condition on a public read-only XWiki installation or a private XWiki installation where the user has an account. This allows arbitrary Groovy/Python/Velocity code execution which allows bypassing all rights checks and thus both modification and disclosure of all content stored in the XWiki installation. Also, this could be used to impact the availability of the wiki. This has been patched in versions 13.10.6 and 14.4. As a workaround, edit the affected document `XWiki.XWikiServerClassSheet` or `WikiManager.XWikiServerClassSheet` and manually perform the changes from the patch fixing the issue. On XWiki versions 12.0 and later, it is also possible to import the document `XWiki.XWikiServerClassSheet` from the xwiki-platform-wiki-ui-mainwiki package version 14.4 using the import feature of the administration application as there have been no other changes to this document since XWiki 12.0.
+- [Live-Hack-CVE/CVE-2022-36099](https://github.com/Live-Hack-CVE/CVE-2022-36099)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36099">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36099">
+
+---
 ## CVE-2022-36098 (2022-09-08T21:15:00)
 > XWiki Platform Mentions UI is a user interface for mentioning users in wiki content for XWiki Platform, a generic wiki platform. Starting in version 12.5-rc-1 and prior to versions 13.10.6 and 14.4, it's possible to store Javascript or groovy scripts in a mention, macro anchor, or reference field. The stored code is executed by anyone visiting the page with the mention. This issue has been patched on XWiki 14.4 and 13.10.6. As a workaround, one may update `XWiki.Mentions.MentionsMacro` and edit the `Macro code` field of the `XWiki.WikiMacroClass` XObject.
 - [Live-Hack-CVE/CVE-2022-36098](https://github.com/Live-Hack-CVE/CVE-2022-36098)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36098">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36098">
@@ -14801,6 +14847,11 @@
 ## CVE-2022-36094 (2022-09-08T20:15:00)
 > XWiki Platform Web Parent POM contains Web resources for the XWiki platform, a generic wiki platform. Starting with version 1.0 and prior to versions 13.10.6 and 14.30-rc-1, it's possible to store JavaScript which will be executed by anyone viewing the history of an attachment containing javascript in its name. This issue has been patched in XWiki 13.10.6 and 14.3RC1. As a workaround, it is possible to replace `viewattachrev.vm`, the entry point for this attack, by a patched version from the patch without updating XWiki.
 - [Live-Hack-CVE/CVE-2022-36094](https://github.com/Live-Hack-CVE/CVE-2022-36094)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36094">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36094">
+
+---
+## CVE-2022-36093 (2022-09-08T18:15:00)
+> XWiki Platform Web Templates are templates for XWiki Platform, a generic wiki platform. By passing a template of the distribution wizard to the xpart template, user accounts can be created even when user registration is disabled. This also circumvents any email verification. Before versions 14.2 and 13.10.4, this can also be exploited on a private wiki, thus potentially giving the attacker access to the wiki. Depending on the configured default rights of users, this could also give attackers write access to an otherwise read-only public wiki. Users can also be created when an external authentication system like LDAP is configured, but authentication fails unless the authentication system supports a bypass/local accounts are enabled in addition to the external authentication system. This issue has been patched in XWiki 13.10.5 and 14.3RC1. As a workaround, one may replace `xpart.vm`, the entry point for this attack, by a patched version from the patch without updating XWiki.
+- [Live-Hack-CVE/CVE-2022-36093](https://github.com/Live-Hack-CVE/CVE-2022-36093)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36093">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36093">
 
 ---
 ## CVE-2022-36091 (2022-09-08T16:15:00)
@@ -15613,6 +15664,11 @@
 ## CVE-2022-3561 (2022-11-20T05:15:00)
 > Cross-site Scripting (XSS) - Generic in GitHub repository librenms/librenms prior to 22.10.0.
 - [Live-Hack-CVE/CVE-2022-3561](https://github.com/Live-Hack-CVE/CVE-2022-3561)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3561">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3561">
+
+---
+## CVE-2022-35572 (2022-09-12T22:15:00)
+> On Linksys E5350 WiFi Router with firmware version 1.0.00.037 and lower, (and potentially other vendors/devices due to code reuse), the /SysInfo.htm URI does not require a session ID. This web page calls a show_sysinfo function which retrieves WPA passwords, SSIDs, MAC Addresses, serial numbers, WPS Pins, and hardware/firmware versions, and prints this information into the web page. This web page is visible when remote management is enabled. A user who has access to the web interface of the device can extract these secrets. If the device has remote management enabled and is connected directly to the internet, this vulnerability is exploitable over the internet without interaction.
+- [Live-Hack-CVE/CVE-2022-35572](https://github.com/Live-Hack-CVE/CVE-2022-35572)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35572">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35572">
 
 ---
 ## CVE-2022-35540 (2022-08-18T23:15:00)
@@ -17131,6 +17187,11 @@
 > The Apache Xalan Java XSLT library is vulnerable to an integer truncation issue when processing malicious XSLT stylesheets. This can be used to corrupt Java class files generated by the internal XSLTC compiler and execute arbitrary Java bytecode. The Apache Xalan Java project is dormant and in the process of being retired. No future releases of Apache Xalan Java to address this issue are expected. Note: Java runtimes (such as OpenJDK) include repackaged copies of Xalan.
 - [bor8/CVE-2022-34169](https://github.com/bor8/CVE-2022-34169)	<img alt="forks" src="https://img.shields.io/github/forks/bor8/CVE-2022-34169">	<img alt="stars" src="https://img.shields.io/github/stars/bor8/CVE-2022-34169">
 - [Live-Hack-CVE/CVE-2022-34169](https://github.com/Live-Hack-CVE/CVE-2022-34169)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34169">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34169">
+
+---
+## CVE-2022-34165 (2022-09-09T16:15:00)
+> IBM WebSphere Application Server 7.0, 8.0, 8.5, and 9.0 and IBM WebSphere Application Server Liberty 17.0.0.3 through 22.0.0.9 are vulnerable to HTTP header injection, caused by improper validation. This could allow an attacker to conduct various attacks against the vulnerable system, including cache poisoning and cross-site scripting. IBM X-Force ID: 229429.
+- [Live-Hack-CVE/CVE-2022-34165](https://github.com/Live-Hack-CVE/CVE-2022-34165)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34165">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34165">
 
 ---
 ## CVE-2022-34152 (2022-11-11T16:15:00)
@@ -19181,6 +19242,14 @@
 - [Live-Hack-CVE/CVE-2022-31679](https://github.com/Live-Hack-CVE/CVE-2022-31679)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31679">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31679">
 
 ---
+## CVE-2022-3167 (2022-09-08T19:15:00)
+> Improper Restriction of Rendered UI Layers or Frames in GitHub repository ikus060/rdiffweb prior to 2.4.1.
+- [Live-Hack-CVE/CVE-2022-3167](https://github.com/Live-Hack-CVE/CVE-2022-3167)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3167">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3167">
+- [Live-Hack-CVE/CVE-2022-31679](https://github.com/Live-Hack-CVE/CVE-2022-31679)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31679">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31679">
+- [Live-Hack-CVE/CVE-2022-31678](https://github.com/Live-Hack-CVE/CVE-2022-31678)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31678">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31678">
+- [Live-Hack-CVE/CVE-2022-31676](https://github.com/Live-Hack-CVE/CVE-2022-31676)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31676">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31676">
+
+---
 ## CVE-2022-3166 (2022-12-16T20:15:00)
 > Rockwell Automation was made aware that the webservers of the Micrologix 1100 and 1400 controllers contain a vulnerability that may lead to a denial-of-service condition. The security vulnerability could be exploited by an attacker with network access to the affected systems by sending TCP packets to webserver and closing it abruptly which would cause a denial-of-service condition for the web server application on the device
 - [Live-Hack-CVE/CVE-2022-3166](https://github.com/Live-Hack-CVE/CVE-2022-3166)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3166">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3166">
@@ -19298,6 +19367,12 @@
 ## CVE-2022-31474 ()
 > 
 - [Administrative2022/CVE-2022-31474-wordpress](https://github.com/Administrative2022/CVE-2022-31474-wordpress)	<img alt="forks" src="https://img.shields.io/github/forks/Administrative2022/CVE-2022-31474-wordpress">	<img alt="stars" src="https://img.shields.io/github/stars/Administrative2022/CVE-2022-31474-wordpress">
+
+---
+## CVE-2022-3147 (2022-09-09T15:15:00)
+> Mattermost version 7.0.x and earlier fails to sufficiently limit the in-memory sizes of concurrently uploaded JPEG images, which allows authenticated users to cause resource exhaustion on specific system configurations, resulting in server-side Denial of Service.
+- [Live-Hack-CVE/CVE-2022-3147](https://github.com/Live-Hack-CVE/CVE-2022-3147)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3147">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3147">
+- [realyme/CVE-2022-31479-test](https://github.com/realyme/CVE-2022-31479-test)	<img alt="forks" src="https://img.shields.io/github/forks/realyme/CVE-2022-31479-test">	<img alt="stars" src="https://img.shields.io/github/stars/realyme/CVE-2022-31479-test">
 
 ---
 ## CVE-2022-3144 (2022-09-23T14:15:00)
@@ -19491,6 +19566,11 @@
 ## CVE-2022-31176 (2022-09-02T21:15:00)
 > Grafana Image Renderer is a Grafana backend plugin that handles rendering of panels & dashboards to PNGs using a headless browser (Chromium/Chrome). An internal security review identified an unauthorized file disclosure vulnerability. It is possible for a malicious user to retrieve unauthorized files under some network conditions or via a fake datasource (if user has admin permissions in Grafana). All Grafana installations should be upgraded to version 3.6.1 as soon as possible. As a workaround it is possible to [disable HTTP remote rendering](https://grafana.com/docs/grafana/latest/setup-grafana/configure-grafana/#plugingrafana-image-renderer).
 - [Live-Hack-CVE/CVE-2022-31176](https://github.com/Live-Hack-CVE/CVE-2022-31176)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31176">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31176">
+
+---
+## CVE-2022-31167 (2022-09-07T14:15:00)
+> XWiki Platform Security Parent POM contains the security APIs for XWiki Platform, a generic wiki platform. Starting with version 5.0 and prior to 12.10.11, 13.10.1, and 13.4.6, a bug in the security cache stores rules associated to document Page1.Page2 and space Page1.Page2 in the same cache entry. That means that it's possible to overwrite the rights of a space or a document by creating the page of the space with the same name and checking the right of the new one first so that they end up in the security cache and are used for the other too. The problem has been patched in XWiki 12.10.11, 13.10.1, and 13.4.6. There are no known workarounds.
+- [Live-Hack-CVE/CVE-2022-31167](https://github.com/Live-Hack-CVE/CVE-2022-31167)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31167">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31167">
 
 ---
 ## CVE-2022-31160 (2022-07-20T20:15:00)
@@ -21217,6 +21297,21 @@
 ## CVE-2022-28758 (2022-09-16T22:15:00)
 > Zoom On-Premise Meeting Connector MMR before version 4.8.20220815.130 contains an improper access control vulnerability. As a result, a malicious actor could obtain the audio and video feed of a meeting they were not authorized to join and cause other meeting disruptions.
 - [Live-Hack-CVE/CVE-2022-28758](https://github.com/Live-Hack-CVE/CVE-2022-28758)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28758">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28758">
+
+---
+## CVE-2022-28742 (2022-09-09T16:15:00)
+> aEnrich eHRD Learning Management Key Performance Indicator System 5+ has Improper Access Control. The web application does not validate user session when accessing many application pages. This can allow an attacker to gain unauthenticated access to sensitive functionalities in the application
+- [Live-Hack-CVE/CVE-2022-28742](https://github.com/Live-Hack-CVE/CVE-2022-28742)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28742">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28742">
+
+---
+## CVE-2022-28741 (2022-09-09T16:15:00)
+> aEnrich a+HRD 5.x Learning Management Key Performance Indicator System has a local file inclusion (LFI) vulnerability that occurs due to missing input validation in v5.x
+- [Live-Hack-CVE/CVE-2022-28741](https://github.com/Live-Hack-CVE/CVE-2022-28741)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28741">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28741">
+
+---
+## CVE-2022-28740 (2022-09-09T16:15:00)
+> aEnrich eHRD Learning Management Key Performance Indicator System 5+ exposes Sensitive Information to an Unauthorized Actor.
+- [Live-Hack-CVE/CVE-2022-28740](https://github.com/Live-Hack-CVE/CVE-2022-28740)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28740">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28740">
 
 ---
 ## CVE-2022-28739 (2022-05-09T18:15:00)

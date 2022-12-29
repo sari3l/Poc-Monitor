@@ -1060,6 +1060,16 @@
 - [Live-Hack-CVE/CVE-2020-35628](https://github.com/Live-Hack-CVE/CVE-2020-35628)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35628">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35628">
 
 ---
+## CVE-2020-35570 (2021-02-16T16:15:00)
+> An issue was discovered in MB connect line mymbCONNECT24, mbCONNECT24 and Helmholz myREX24 and myREX24.virtual through 2.11.2. An unauthenticated attacker is able to access files (that should have been restricted) via forceful browsing.
+- [Live-Hack-CVE/CVE-2020-35570](https://github.com/Live-Hack-CVE/CVE-2020-35570)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35570">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35570">
+
+---
+## CVE-2020-35558 (2021-02-16T16:15:00)
+> An issue was discovered in MB connect line mymbCONNECT24, mbCONNECT24 and Helmholz myREX24 and myREX24.virtual through 2.11.2. There is an SSRF in the in the MySQL access check, allowing an attacker to scan for open ports and gain some information about possible credentials.
+- [Live-Hack-CVE/CVE-2020-35558](https://github.com/Live-Hack-CVE/CVE-2020-35558)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35558">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35558">
+
+---
 ## CVE-2020-35538 (2022-08-31T16:15:00)
 > A crafted input file could cause a null pointer dereference in jcopy_sample_rows() when processed by libjpeg-turbo.
 - [Live-Hack-CVE/CVE-2020-35538](https://github.com/Live-Hack-CVE/CVE-2020-35538)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35538">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35538">

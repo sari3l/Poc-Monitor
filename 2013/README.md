@@ -31,6 +31,11 @@
 - [Everdoh/CVE-2013-6490](https://github.com/Everdoh/CVE-2013-6490)	<img alt="forks" src="https://img.shields.io/github/forks/Everdoh/CVE-2013-6490">	<img alt="stars" src="https://img.shields.io/github/stars/Everdoh/CVE-2013-6490">
 
 ---
+## CVE-2013-6438 (2014-03-18T05:18:00)
+> The dav_xml_get_cdata function in main/util.c in the mod_dav module in the Apache HTTP Server before 2.4.8 does not properly remove whitespace characters from CDATA sections, which allows remote attackers to cause a denial of service (daemon crash) via a crafted DAV WRITE request.
+- [Live-Hack-CVE/CVE-2013-6438](https://github.com/Live-Hack-CVE/CVE-2013-6438)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-6438">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-6438">
+
+---
 ## CVE-2013-5843 (2013-10-16T17:55:00)
 > Unspecified vulnerability in Oracle Java SE 7u40 and earlier, Java SE 6u60 and earlier, Java SE 5.0u51 and earlier, JavaFX 2.2.40 and earlier, and Java SE Embedded 7u40 and earlier allows remote attackers to affect confidentiality, integrity, and availability via unknown vectors related to 2D.
 - [Live-Hack-CVE/CVE-2013-5843](https://github.com/Live-Hack-CVE/CVE-2013-5843)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-5843">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-5843">
@@ -97,6 +102,11 @@
 - [Live-Hack-CVE/CVE-2013-2882](https://github.com/Live-Hack-CVE/CVE-2013-2882)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-2882">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-2882">
 
 ---
+## CVE-2013-2249 (2013-07-23T17:20:00)
+> mod_session_dbd.c in the mod_session_dbd module in the Apache HTTP Server before 2.4.5 proceeds with save operations for a session without considering the dirty flag and the requirement for a new session ID, which has unspecified impact and remote attack vectors.
+- [Live-Hack-CVE/CVE-2013-2249](https://github.com/Live-Hack-CVE/CVE-2013-2249)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-2249">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-2249">
+
+---
 ## CVE-2013-2028 (2013-07-20T03:37:00)
 > The ngx_http_parse_chunked function in http/ngx_http_parse.c in nginx 1.3.9 through 1.4.0 allows remote attackers to cause a denial of service (crash) and execute arbitrary code via a chunked Transfer-Encoding request with a large chunk size, which triggers an integer signedness error and a stack-based buffer overflow.
 - [Sunqiz/CVE-2013-2028-reproduction](https://github.com/Sunqiz/CVE-2013-2028-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Sunqiz/CVE-2013-2028-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Sunqiz/CVE-2013-2028-reproduction">
@@ -111,6 +121,16 @@
 ## CVE-2013-20004 (2022-02-06T21:15:00)
 > A flaw was found in StarWind iSCSI target. StarWind service does not limit client connections and allocates memory on each connection attempt. An attacker could create a denial of service state by trying to connect a non-existent target multiple times. This affects iSCSI SAN (Windows Native) Version 6.0, build 2013-01-16.
 - [Live-Hack-CVE/CVE-2013-20004](https://github.com/Live-Hack-CVE/CVE-2013-20004)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-20004">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-20004">
+
+---
+## CVE-2013-1896 (2013-07-10T20:55:00)
+> mod_dav.c in the Apache HTTP Server before 2.2.25 does not properly determine whether DAV is enabled for a URI, which allows remote attackers to cause a denial of service (segmentation fault) via a MERGE request in which the URI is configured for handling by the mod_dav_svn module, but a certain href attribute in XML data refers to a non-DAV URI.
+- [Live-Hack-CVE/CVE-2013-1896](https://github.com/Live-Hack-CVE/CVE-2013-1896)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-1896">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-1896">
+
+---
+## CVE-2013-1862 (2013-06-10T17:55:00)
+> mod_rewrite.c in the mod_rewrite module in the Apache HTTP Server 2.2.x before 2.2.25 writes data to a log file without sanitizing non-printable characters, which might allow remote attackers to execute arbitrary commands via an HTTP request containing an escape sequence for a terminal emulator.
+- [Live-Hack-CVE/CVE-2013-1862](https://github.com/Live-Hack-CVE/CVE-2013-1862)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-1862">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-1862">
 
 ---
 ## CVE-2013-1824 (2013-09-16T13:02:00)

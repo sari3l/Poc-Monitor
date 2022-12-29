@@ -6057,6 +6057,7 @@
 > A security issue in nginx resolver was identified, which might allow an attacker who is able to forge UDP packets from the DNS server to cause 1-byte memory overwrite, resulting in worker process crash or potential other impact.
 - [M507/CVE-2021-23017-PoC](https://github.com/M507/CVE-2021-23017-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/M507/CVE-2021-23017-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/M507/CVE-2021-23017-PoC">
 - [niandy/nginx-patch](https://github.com/niandy/nginx-patch)	<img alt="forks" src="https://img.shields.io/github/forks/niandy/nginx-patch">	<img alt="stars" src="https://img.shields.io/github/stars/niandy/nginx-patch">
+- [Live-Hack-CVE/CVE-2021-23017](https://github.com/Live-Hack-CVE/CVE-2021-23017)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23017">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23017">
 
 ---
 ## CVE-2021-22940 (2021-08-16T19:15:00)
