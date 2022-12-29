@@ -2063,6 +2063,11 @@
 - [Live-Hack-CVE/CVE-2020-2550](https://github.com/Live-Hack-CVE/CVE-2020-2550)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2550">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2550">
 
 ---
+## CVE-2020-25491 (2022-09-16T20:15:00)
+> 6Kare Emakin 5.0.341.0 is affected by Cross Site Scripting (XSS) via the /rpc/membership/setProfile DisplayName field, which is mishandled when rendering the Activity Stream page.
+- [Live-Hack-CVE/CVE-2020-25491](https://github.com/Live-Hack-CVE/CVE-2020-25491)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25491">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25491">
+
+---
 ## CVE-2020-2549 (2020-01-15T17:15:00)
 > Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: WLS Core Components). The supported version that is affected is 10.3.6.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.0 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).
 - [Live-Hack-CVE/CVE-2020-2549](https://github.com/Live-Hack-CVE/CVE-2020-2549)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2549">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2549">
