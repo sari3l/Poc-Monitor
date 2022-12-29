@@ -20254,6 +20254,10 @@
 ## CVE-2022-3029 (2022-09-13T16:15:00)
 > In NLnet Labs Routinator 0.9.0 up to and including 0.11.2, due to a mistake in error handling, data in RRDP snapshot and delta files that isnâ€™t correctly base 64 encoded is treated as a fatal error and causes Routinator to exit. Worst case impact of this vulnerability is denial of service for the RPKI data that Routinator provides to routers. This may stop your network from validating route origins based on RPKI data. This vulnerability does not allow an attacker to manipulate RPKI data.
 - [Live-Hack-CVE/CVE-2022-3029](https://github.com/Live-Hack-CVE/CVE-2022-3029)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3029">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3029">
+- [Live-Hack-CVE/CVE-2022-30293](https://github.com/Live-Hack-CVE/CVE-2022-30293)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30293">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30293">
+- [Live-Hack-CVE/CVE-2022-30297](https://github.com/Live-Hack-CVE/CVE-2022-30297)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30297">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30297">
+- [Live-Hack-CVE/CVE-2022-30292](https://github.com/Live-Hack-CVE/CVE-2022-30292)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30292">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30292">
+- [sprushed/CVE-2022-30292](https://github.com/sprushed/CVE-2022-30292)	<img alt="forks" src="https://img.shields.io/github/forks/sprushed/CVE-2022-30292">	<img alt="stars" src="https://img.shields.io/github/stars/sprushed/CVE-2022-30292">
 
 ---
 ## CVE-2022-30287 (2022-07-28T22:15:00)
