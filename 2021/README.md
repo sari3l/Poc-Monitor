@@ -2625,6 +2625,11 @@
 - [Live-Hack-CVE/CVE-2021-36917](https://github.com/Live-Hack-CVE/CVE-2021-36917)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36917">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36917">
 
 ---
+## CVE-2021-36915 (2022-10-11T20:15:00)
+> Cross-Site Request Forgery (CSRF) vulnerability in Cozmoslabs Profile Builder plugin <= 3.6.0 at WordPress allows uploading the JSON file and updating the options. Requires Import and Export add-on.
+- [Live-Hack-CVE/CVE-2021-36915](https://github.com/Live-Hack-CVE/CVE-2021-36915)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36915">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36915">
+
+---
 ## CVE-2021-36909 (2021-11-18T15:15:00)
 > Authenticated Database Reset vulnerability in WordPress WP Reset PRO Premium plugin (versions <= 5.98) allows any authenticated user to wipe the entire database regardless of their authorization. It leads to a complete website reset and takeover.
 - [Live-Hack-CVE/CVE-2021-36909](https://github.com/Live-Hack-CVE/CVE-2021-36909)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36909">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36909">
@@ -6268,6 +6273,11 @@
 - [Live-Hack-CVE/CVE-2021-0981](https://github.com/Live-Hack-CVE/CVE-2021-0981)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-0981">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-0981">
 
 ---
+## CVE-2021-0951 (2022-10-11T20:15:00)
+> In DevmemIntHeapAcquire of TBD, there is a possible arbitrary code execution due to an integer overflow. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android SoCAndroid ID: A-242345085
+- [Live-Hack-CVE/CVE-2021-0951](https://github.com/Live-Hack-CVE/CVE-2021-0951)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-0951">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-0951">
+
+---
 ## CVE-2021-0947 (2022-08-24T14:15:00)
 > The method PVRSRVBridgeTLDiscoverStreams allocates puiStreamsInt on the heap, fills the contents of the buffer via TLServerDiscoverStreamsKM, and then copies the buffer to userspace. The method TLServerDiscoverStreamsKM may fail for several reasons including invalid sizes. If this method fails the buffer will be left uninitialized and despite the error will still be copied to userspace. Kernel leak of uninitialized heap data with no privs required.Product: AndroidVersions: Android SoCAndroid ID: A-236838960
 - [Live-Hack-CVE/CVE-2021-0947](https://github.com/Live-Hack-CVE/CVE-2021-0947)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-0947">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-0947">
@@ -6302,6 +6312,11 @@
 ## CVE-2021-0698 (2022-08-24T14:15:00)
 > In PVRSRVBridgeHeapCfgHeapDetails, there is a possible leak of kernel heap content due to uninitialized data. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android SoCAndroid ID: A-236848165
 - [Live-Hack-CVE/CVE-2021-0698](https://github.com/Live-Hack-CVE/CVE-2021-0698)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-0698">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-0698">
+
+---
+## CVE-2021-0696 (2022-10-11T20:15:00)
+> In dllist_remove_node of TBD, there is a possible use after free bug due to a race condition. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android SoCAndroid ID: A-242344778
+- [Live-Hack-CVE/CVE-2021-0696](https://github.com/Live-Hack-CVE/CVE-2021-0696)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-0696">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-0696">
 
 ---
 ## CVE-2021-0561 (2021-06-22T11:15:00)

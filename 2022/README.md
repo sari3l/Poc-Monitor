@@ -5685,6 +5685,51 @@
 - [ReCryptLLC/CVE-2022-42045](https://github.com/ReCryptLLC/CVE-2022-42045)	<img alt="forks" src="https://img.shields.io/github/forks/ReCryptLLC/CVE-2022-42045">	<img alt="stars" src="https://img.shields.io/github/stars/ReCryptLLC/CVE-2022-42045">
 
 ---
+## CVE-2022-42044 (2022-10-11T22:15:00)
+> The d8s-asns package for Python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-html package. The affected version is 0.1.0.
+- [Live-Hack-CVE/CVE-2022-42044](https://github.com/Live-Hack-CVE/CVE-2022-42044)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42044">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42044">
+
+---
+## CVE-2022-42043 (2022-10-11T22:15:00)
+> The d8s-xml package for Python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-html package. The affected version is 0.1.0.
+- [Live-Hack-CVE/CVE-2022-42043](https://github.com/Live-Hack-CVE/CVE-2022-42043)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42043">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42043">
+
+---
+## CVE-2022-42042 (2022-10-11T22:15:00)
+> The d8s-networking package for Python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-hashes package. The affected version is 0.1.0.
+- [Live-Hack-CVE/CVE-2022-42042](https://github.com/Live-Hack-CVE/CVE-2022-42042)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42042">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42042">
+
+---
+## CVE-2022-42041 (2022-10-11T22:15:00)
+> The d8s-file-system package for Python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-hashes package. The affected version is 0.1.0.
+- [Live-Hack-CVE/CVE-2022-42041](https://github.com/Live-Hack-CVE/CVE-2022-42041)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42041">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42041">
+
+---
+## CVE-2022-42040 (2022-10-11T22:15:00)
+> The d8s-algorithms package for Python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-dicts package. The affected version is 0.1.0.
+- [Live-Hack-CVE/CVE-2022-42040](https://github.com/Live-Hack-CVE/CVE-2022-42040)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42040">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42040">
+
+---
+## CVE-2022-42039 (2022-10-11T22:15:00)
+> The d8s-lists package for Python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-dicts package. The affected version is 0.1.0.
+- [Live-Hack-CVE/CVE-2022-42039](https://github.com/Live-Hack-CVE/CVE-2022-42039)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42039">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42039">
+
+---
+## CVE-2022-42038 (2022-10-11T22:15:00)
+> The d8s-ip-addresses package for Python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-csv package. The affected version is 0.1.0.
+- [Live-Hack-CVE/CVE-2022-42038](https://github.com/Live-Hack-CVE/CVE-2022-42038)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42038">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42038">
+
+---
+## CVE-2022-42037 (2022-10-11T22:15:00)
+> The d8s-asns package for Python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-csv package. The affected version is 0.1.0.
+- [Live-Hack-CVE/CVE-2022-42037](https://github.com/Live-Hack-CVE/CVE-2022-42037)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42037">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42037">
+
+---
+## CVE-2022-42036 (2022-10-11T22:15:00)
+> The d8s-urls package for Python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-csv package. The affected version is 0.1.0.
+- [Live-Hack-CVE/CVE-2022-42036](https://github.com/Live-Hack-CVE/CVE-2022-42036)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42036">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42036">
+
+---
 ## CVE-2022-42029 (2022-10-17T18:15:00)
 > Chamilo 1.11.16 is affected by an authenticated local file inclusion vulnerability which allows authenticated users with access to 'big file uploads' to copy/move files from anywhere in the file system into the web directory.
 - [Live-Hack-CVE/CVE-2022-42029](https://github.com/Live-Hack-CVE/CVE-2022-42029)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42029">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42029">
@@ -6862,6 +6907,11 @@
 - [Live-Hack-CVE/CVE-2022-41395](https://github.com/Live-Hack-CVE/CVE-2022-41395)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41395">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41395">
 
 ---
+## CVE-2022-41387 (2022-10-11T22:15:00)
+> The d8s-pdfs package for Python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-urls package. The affected version is 0.1.0.
+- [Live-Hack-CVE/CVE-2022-41387](https://github.com/Live-Hack-CVE/CVE-2022-41387)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41387">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41387">
+
+---
 ## CVE-2022-41376 (2022-10-11T17:15:00)
 > Metro UI v4.4.0 to v4.5.0 was discovered to contain a reflected cross-site scripting (XSS) vulnerability via the Javascript function.
 - [Live-Hack-CVE/CVE-2022-41376](https://github.com/Live-Hack-CVE/CVE-2022-41376)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41376">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41376">
@@ -7112,9 +7162,29 @@
 - [Live-Hack-CVE/CVE-2022-41214](https://github.com/Live-Hack-CVE/CVE-2022-41214)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41214">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41214">
 
 ---
+## CVE-2022-41210 (2022-10-11T21:15:00)
+> SAP Customer Data Cloud (Gigya mobile app for Android) - version 7.4, uses insecure random number generator program which makes it easy for the attacker to predict future random numbers. This can lead to information disclosure and modification of certain user settings.
+- [Live-Hack-CVE/CVE-2022-41210](https://github.com/Live-Hack-CVE/CVE-2022-41210)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41210">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41210">
+
+---
+## CVE-2022-41209 (2022-10-11T21:15:00)
+> SAP Customer Data Cloud (Gigya mobile app for Android) - version 7.4, uses encryption method which lacks proper diffusion and does not hide the patterns well. This can lead to information disclosure. In certain scenarios, application might also be susceptible to replay attacks.
+- [Live-Hack-CVE/CVE-2022-41209](https://github.com/Live-Hack-CVE/CVE-2022-41209)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41209">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41209">
+
+---
 ## CVE-2022-41208 (2022-11-08T22:15:00)
 > Due to insufficient input validation, SAP Financial Consolidation - version 1010, allows an authenticated attacker with user privileges to alter current user session. On successful exploitation, the attacker can view or modify information, causing a limited impact on confidentiality and integrity of the application.
 - [L34ked/CVE-2022-41208](https://github.com/L34ked/CVE-2022-41208)	<img alt="forks" src="https://img.shields.io/github/forks/L34ked/CVE-2022-41208">	<img alt="stars" src="https://img.shields.io/github/stars/L34ked/CVE-2022-41208">
+
+---
+## CVE-2022-41206 (2022-10-11T21:15:00)
+> SAP BusinessObjects Business Intelligence platform (Analysis for OLAP) - versions 420, 430, allows an authenticated attacker to send user-controlled inputs when OLAP connections are created and edited in the Central Management Console. On successful exploitation, there could be a limited impact on confidentiality and integrity of the application.
+- [Live-Hack-CVE/CVE-2022-41206](https://github.com/Live-Hack-CVE/CVE-2022-41206)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41206">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41206">
+
+---
+## CVE-2022-41204 (2022-10-11T21:15:00)
+> An attacker can change the content of an SAP Commerce - versions 1905, 2005, 2105, 2011, 2205, login page through a manipulated URL. They can inject code that allows them to redirect submissions from the affected login form to their own server. This allows them to steal credentials and hijack accounts. A successful attack could compromise the Confidentiality, Integrity, and Availability of the system.
+- [Live-Hack-CVE/CVE-2022-41204](https://github.com/Live-Hack-CVE/CVE-2022-41204)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41204">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41204">
 
 ---
 ## CVE-2022-4120 (2022-12-26T13:15:00)
@@ -24079,6 +24149,16 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20441](https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20441)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20441">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20441">
 
 ---
+## CVE-2022-20439 (2022-10-11T20:15:00)
+> In Messaging, There has unauthorized provider, this could cause Local Deny of Service.Product: AndroidVersions: Android SoCAndroid ID: A-242266172
+- [Live-Hack-CVE/CVE-2022-20439](https://github.com/Live-Hack-CVE/CVE-2022-20439)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20439">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20439">
+
+---
+## CVE-2022-20438 (2022-10-11T20:15:00)
+> In Messaging, There has unauthorized broadcast, this could cause Local Deny of Service.Product: AndroidVersions: Android SoCAndroid ID: A-242259920
+- [Live-Hack-CVE/CVE-2022-20438](https://github.com/Live-Hack-CVE/CVE-2022-20438)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20438">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20438">
+
+---
 ## CVE-2022-20437 (2022-10-11T20:15:00)
 > In Messaging, There has unauthorized broadcast, this could cause Local Deny of Service.Product: AndroidVersions: Android SoCAndroid ID: A-242258929
 - [Live-Hack-CVE/CVE-2022-20437](https://github.com/Live-Hack-CVE/CVE-2022-20437)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20437">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20437">
@@ -24087,6 +24167,36 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-20436 (2022-10-11T20:15:00)
 > There is an unauthorized service in the system service. Since the component does not have permission check, resulting in Local Elevation of privilege.Product: AndroidVersions: Android SoCAndroid ID: A-242248369
 - [Live-Hack-CVE/CVE-2022-20436](https://github.com/Live-Hack-CVE/CVE-2022-20436)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20436">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20436">
+
+---
+## CVE-2022-20435 (2022-10-11T20:15:00)
+> There is a Unauthorized service in the system service, may cause the system reboot. Since the component does not have permission check and permission protection, resulting in EoP problem.Product: AndroidVersions: Android SoCAndroid ID: A-242248367
+- [Live-Hack-CVE/CVE-2022-20435](https://github.com/Live-Hack-CVE/CVE-2022-20435)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20435">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20435">
+
+---
+## CVE-2022-20434 (2022-10-11T20:15:00)
+> There is an missing authorization issue in the system service. Since the component does not have permission check , resulting in Local Elevation of privilege.Product: AndroidVersions: Android SoCAndroid ID: A-242244028
+- [Live-Hack-CVE/CVE-2022-20434](https://github.com/Live-Hack-CVE/CVE-2022-20434)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20434">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20434">
+
+---
+## CVE-2022-20433 (2022-10-11T20:15:00)
+> There is an missing authorization issue in the system service. Since the component does not have permission check , resulting in Local Elevation of privilege.Product: AndroidVersions: Android SoCAndroid ID: A-242221901
+- [Live-Hack-CVE/CVE-2022-20433](https://github.com/Live-Hack-CVE/CVE-2022-20433)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20433">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20433">
+
+---
+## CVE-2022-20432 (2022-10-11T20:15:00)
+> There is an missing authorization issue in the system service. Since the component does not have permission check and permission protection,, resulting in Local Elevation of privilege.Product: AndroidVersions: Android SoCAndroid ID: A-242221899
+- [Live-Hack-CVE/CVE-2022-20432](https://github.com/Live-Hack-CVE/CVE-2022-20432)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20432">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20432">
+
+---
+## CVE-2022-20431 (2022-10-11T20:15:00)
+> There is an missing authorization issue in the system service. Since the component does not have permission check , resulting in Local Elevation of privilege.Product: AndroidVersions: Android SoCAndroid ID: A-242221238
+- [Live-Hack-CVE/CVE-2022-20431](https://github.com/Live-Hack-CVE/CVE-2022-20431)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20431">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20431">
+
+---
+## CVE-2022-20430 (2022-10-11T20:15:00)
+> There is an missing authorization issue in the system service. Since the component does not have permission check , resulting in Local Elevation of privilege.Product: AndroidVersions: Android SoCAndroid ID: A-242221233
+- [Live-Hack-CVE/CVE-2022-20430](https://github.com/Live-Hack-CVE/CVE-2022-20430)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20430">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20430">
 
 ---
 ## CVE-2022-20429 (2022-10-11T20:15:00)
@@ -24125,14 +24235,39 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-20419](https://github.com/Live-Hack-CVE/CVE-2022-20419)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20419">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20419">
 
 ---
+## CVE-2022-20417 (2022-10-11T20:15:00)
+> In audioTransportsToHal of HidlUtils.cpp, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-12 Android-12L Android-13Android ID: A-237288416
+- [Live-Hack-CVE/CVE-2022-20417](https://github.com/Live-Hack-CVE/CVE-2022-20417)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20417">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20417">
+
+---
+## CVE-2022-20416 (2022-10-11T20:15:00)
+> In audioTransportsToHal of HidlUtils.cpp, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-12 Android-12L Android-13Android ID: A-237717857
+- [Live-Hack-CVE/CVE-2022-20416](https://github.com/Live-Hack-CVE/CVE-2022-20416)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20416">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20416">
+
+---
+## CVE-2022-20412 (2022-10-11T20:15:00)
+> In fdt_next_tag of fdt.c, there is a possible out of bounds read due to an incorrect bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-230794395
+- [Live-Hack-CVE/CVE-2022-20412](https://github.com/Live-Hack-CVE/CVE-2022-20412)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20412">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20412">
+
+---
 ## CVE-2022-20411 (2022-12-13T16:15:00)
 > In avdt_msg_asmbl of avdt_msg.cc, there is a possible out of bounds write due to a missing bounds check. This could lead to remote code execution over Bluetooth with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-232023771
 - [Live-Hack-CVE/CVE-2022-20411](https://github.com/Live-Hack-CVE/CVE-2022-20411)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20411">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20411">
 
 ---
+## CVE-2022-20410 (2022-10-11T20:15:00)
+> In avrc_ctrl_pars_vendor_rsp of avrc_pars_ct.cc, there is a possible out of bounds read due to an integer overflow. This could lead to remote information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-205570663
+- [Live-Hack-CVE/CVE-2022-20410](https://github.com/Live-Hack-CVE/CVE-2022-20410)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20410">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20410">
+
+---
 ## CVE-2022-20409 (2022-10-11T20:15:00)
 > In io_identity_cow of io_uring.c, there is a possible way to corrupt memory due to a use after free. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-238177383References: Upstream kernel
 - [Live-Hack-CVE/CVE-2022-20409](https://github.com/Live-Hack-CVE/CVE-2022-20409)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20409">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20409">
+
+---
+## CVE-2022-20394 (2022-10-11T20:15:00)
+> In getInputMethodWindowVisibleHeight of InputMethodManagerService.java, there is a possible way to determine when another app is showing an IME due to a missing permission check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12LAndroid ID: A-204906124
+- [Live-Hack-CVE/CVE-2022-20394](https://github.com/Live-Hack-CVE/CVE-2022-20394)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20394">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20394">
 
 ---
 ## CVE-2022-20391 (2022-09-13T20:15:00)
