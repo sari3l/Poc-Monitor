@@ -10464,6 +10464,101 @@
 - [Live-Hack-CVE/CVE-2022-39157](https://github.com/Live-Hack-CVE/CVE-2022-39157)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39157">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39157">
 
 ---
+## CVE-2022-39156 (2022-09-13T10:15:00)
+> A vulnerability has been identified in Parasolid V33.1 (All versions < V33.1.262), Parasolid V33.1 (All versions >= V33.1.262 < V33.1.263), Parasolid V34.0 (All versions < V34.0.252), Parasolid V34.1 (All versions < V34.1.242), Parasolid V35.0 (All versions < V35.0.161), Parasolid V35.0 (All versions >= V35.0.161 < V35.0.164), Simcenter Femap V2022.1 (All versions < V2022.1.3), Simcenter Femap V2022.2 (All versions < V2022.2.2). The affected application is vulnerable to out of bounds read past the end of an allocated buffer when parsing X_T files. This could allow an attacker to execute code in the context of the current process. (ZDI-CAN-18196)
+- [Live-Hack-CVE/CVE-2022-39156](https://github.com/Live-Hack-CVE/CVE-2022-39156)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39156">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39156">
+
+---
+## CVE-2022-39155 (2022-09-13T10:15:00)
+> A vulnerability has been identified in Parasolid V33.1 (All versions < V33.1.262), Parasolid V33.1 (All versions >= V33.1.262 < V33.1.263), Parasolid V34.0 (All versions < V34.0.252), Parasolid V34.1 (All versions < V34.1.242), Parasolid V35.0 (All versions < V35.0.161), Parasolid V35.0 (All versions >= V35.0.161 < V35.0.164), Simcenter Femap V2022.1 (All versions < V2022.1.3), Simcenter Femap V2022.2 (All versions < V2022.2.2). The affected application contains an out of bounds write past the end of an allocated buffer while parsing specially crafted X_T files. This could allow an attacker to execute code in the context of the current process. (ZDI-CAN-18192)
+- [Live-Hack-CVE/CVE-2022-39155](https://github.com/Live-Hack-CVE/CVE-2022-39155)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39155">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39155">
+
+---
+## CVE-2022-39154 (2022-09-13T10:15:00)
+> A vulnerability has been identified in Parasolid V33.1 (All versions < V33.1.262), Parasolid V33.1 (All versions >= V33.1.262 < V33.1.263), Parasolid V34.0 (All versions < V34.0.252), Parasolid V34.1 (All versions < V34.1.242), Parasolid V35.0 (All versions < V35.0.161), Parasolid V35.0 (All versions >= V35.0.161 < V35.0.164), Simcenter Femap V2022.1 (All versions < V2022.1.3), Simcenter Femap V2022.2 (All versions < V2022.2.2). The affected application contains an out of bounds write past the end of an allocated buffer while parsing specially crafted X_T files. This could allow an attacker to execute code in the context of the current process. (ZDI-CAN-18188)
+- [Live-Hack-CVE/CVE-2022-39154](https://github.com/Live-Hack-CVE/CVE-2022-39154)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39154">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39154">
+
+---
+## CVE-2022-39153 (2022-09-13T10:15:00)
+> A vulnerability has been identified in Parasolid V33.1 (All versions < V33.1.262), Parasolid V33.1 (All versions >= V33.1.262 < V33.1.263), Parasolid V34.0 (All versions < V34.0.252), Parasolid V34.1 (All versions < V34.1.242), Parasolid V35.0 (All versions < V35.0.161), Parasolid V35.0 (All versions >= V35.0.161 < V35.0.164), Simcenter Femap V2022.1 (All versions < V2022.1.3), Simcenter Femap V2022.2 (All versions < V2022.2.2). The affected application is vulnerable to out of bounds read past the end of an allocated buffer when parsing X_T files. This could allow an attacker to execute code in the context of the current process. (ZDI-CAN-18187)
+- [Live-Hack-CVE/CVE-2022-39153](https://github.com/Live-Hack-CVE/CVE-2022-39153)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39153">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39153">
+
+---
+## CVE-2022-39152 (2022-09-13T10:15:00)
+> A vulnerability has been identified in Parasolid V33.1 (All versions < V33.1.262), Parasolid V33.1 (All versions >= V33.1.262 < V33.1.263), Parasolid V34.0 (All versions < V34.0.252), Parasolid V34.1 (All versions < V34.1.242), Parasolid V35.0 (All versions < V35.0.161), Parasolid V35.0 (All versions >= V35.0.161 < V35.0.164), Simcenter Femap V2022.1 (All versions < V2022.1.3), Simcenter Femap V2022.2 (All versions < V2022.2.2). The affected application contains an out of bounds write past the end of an allocated buffer while parsing specially crafted X_T files. This could allow an attacker to execute code in the context of the current process. (ZDI-CAN-17740)
+- [Live-Hack-CVE/CVE-2022-39152](https://github.com/Live-Hack-CVE/CVE-2022-39152)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39152">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39152">
+
+---
+## CVE-2022-39151 (2022-09-13T10:15:00)
+> A vulnerability has been identified in Parasolid V33.1 (All versions < V33.1.262), Parasolid V33.1 (All versions >= V33.1.262 < V33.1.263), Parasolid V34.0 (All versions < V34.0.252), Parasolid V34.1 (All versions < V34.1.242), Parasolid V35.0 (All versions < V35.0.161), Parasolid V35.0 (All versions >= V35.0.161 < V35.0.164), Simcenter Femap V2022.1 (All versions < V2022.1.3), Simcenter Femap V2022.2 (All versions < V2022.2.2). The affected application contains an out of bounds write past the end of an allocated buffer while parsing specially crafted X_T files. This could allow an attacker to execute code in the context of the current process. (ZDI-CAN-17736)
+- [Live-Hack-CVE/CVE-2022-39151](https://github.com/Live-Hack-CVE/CVE-2022-39151)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39151">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39151">
+
+---
+## CVE-2022-39150 (2022-09-13T10:15:00)
+> A vulnerability has been identified in Parasolid V33.1 (All versions < V33.1.262), Parasolid V33.1 (All versions >= V33.1.262 < V33.1.263), Parasolid V34.0 (All versions < V34.0.252), Parasolid V34.1 (All versions < V34.1.242), Parasolid V35.0 (All versions < V35.0.161), Parasolid V35.0 (All versions >= V35.0.161 < V35.0.164), Simcenter Femap V2022.1 (All versions < V2022.1.3), Simcenter Femap V2022.2 (All versions < V2022.2.2). The affected application contains an out of bounds write past the end of an allocated buffer while parsing specially crafted X_T files. This could allow an attacker to execute code in the context of the current process. (ZDI-CAN-17735)
+- [Live-Hack-CVE/CVE-2022-39150](https://github.com/Live-Hack-CVE/CVE-2022-39150)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39150">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39150">
+
+---
+## CVE-2022-39149 (2022-09-13T10:15:00)
+> A vulnerability has been identified in Parasolid V33.1 (All versions < V33.1.262), Parasolid V33.1 (All versions >= V33.1.262 < V33.1.263), Parasolid V34.0 (All versions < V34.0.252), Parasolid V34.1 (All versions < V34.1.242), Parasolid V35.0 (All versions < V35.0.161), Parasolid V35.0 (All versions >= V35.0.161 < V35.0.164), Simcenter Femap V2022.1 (All versions < V2022.1.3), Simcenter Femap V2022.2 (All versions < V2022.2.2). The affected application contains an out of bounds write past the end of an allocated buffer while parsing specially crafted X_T files. This could allow an attacker to execute code in the context of the current process. (ZDI-CAN-17733)
+- [Live-Hack-CVE/CVE-2022-39149](https://github.com/Live-Hack-CVE/CVE-2022-39149)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39149">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39149">
+
+---
+## CVE-2022-39148 (2022-09-13T10:15:00)
+> A vulnerability has been identified in Parasolid V33.1 (All versions < V33.1.262), Parasolid V33.1 (All versions >= V33.1.262 < V33.1.263), Parasolid V34.0 (All versions < V34.0.252), Parasolid V34.1 (All versions < V34.1.242), Parasolid V35.0 (All versions < V35.0.161), Parasolid V35.0 (All versions >= V35.0.161 < V35.0.164), Simcenter Femap V2022.1 (All versions < V2022.1.3), Simcenter Femap V2022.2 (All versions < V2022.2.2). The affected application contains an out of bounds write past the end of an allocated buffer while parsing specially crafted X_T files. This could allow an attacker to execute code in the context of the current process. (ZDI-CAN-17513)
+- [Live-Hack-CVE/CVE-2022-39148](https://github.com/Live-Hack-CVE/CVE-2022-39148)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39148">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39148">
+
+---
+## CVE-2022-39147 (2022-09-13T10:15:00)
+> A vulnerability has been identified in Parasolid V33.1 (All versions < V33.1.262), Parasolid V33.1 (All versions >= V33.1.262 < V33.1.263), Parasolid V34.0 (All versions < V34.0.252), Parasolid V34.1 (All versions < V34.1.242), Parasolid V35.0 (All versions < V35.0.161), Parasolid V35.0 (All versions >= V35.0.161 < V35.0.164), Simcenter Femap V2022.1 (All versions < V2022.1.3), Simcenter Femap V2022.2 (All versions < V2022.2.2). The affected application is vulnerable to uninitialized pointer access while parsing specially crafted X_T files. An attacker could leverage this vulnerability to execute code in the context of the current process. (ZDI-CAN-17506)
+- [Live-Hack-CVE/CVE-2022-39147](https://github.com/Live-Hack-CVE/CVE-2022-39147)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39147">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39147">
+
+---
+## CVE-2022-39146 (2022-09-13T10:15:00)
+> A vulnerability has been identified in Parasolid V33.1 (All versions < V33.1.262), Parasolid V33.1 (All versions >= V33.1.262 < V33.1.263), Parasolid V34.0 (All versions < V34.0.252), Parasolid V34.1 (All versions < V34.1.242), Parasolid V35.0 (All versions < V35.0.161), Parasolid V35.0 (All versions >= V35.0.161 < V35.0.164), Simcenter Femap V2022.1 (All versions < V2022.1.3), Simcenter Femap V2022.2 (All versions < V2022.2.2). The affected application is vulnerable to uninitialized pointer access while parsing specially crafted X_T files. An attacker could leverage this vulnerability to execute code in the context of the current process. (ZDI-CAN-17502)
+- [Live-Hack-CVE/CVE-2022-39146](https://github.com/Live-Hack-CVE/CVE-2022-39146)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39146">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39146">
+
+---
+## CVE-2022-39145 (2022-09-13T10:15:00)
+> A vulnerability has been identified in Parasolid V33.1 (All versions < V33.1.262), Parasolid V33.1 (All versions >= V33.1.262 < V33.1.263), Parasolid V34.0 (All versions < V34.0.252), Parasolid V34.1 (All versions < V34.1.242), Parasolid V35.0 (All versions < V35.0.161), Parasolid V35.0 (All versions >= V35.0.161 < V35.0.164), Simcenter Femap V2022.1 (All versions < V2022.1.3), Simcenter Femap V2022.2 (All versions < V2022.2.2). The affected application is vulnerable to out of bounds read past the end of an allocated buffer when parsing X_T files. This could allow an attacker to execute code in the context of the current process. (ZDI-CAN-17496)
+- [Live-Hack-CVE/CVE-2022-39145](https://github.com/Live-Hack-CVE/CVE-2022-39145)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39145">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39145">
+
+---
+## CVE-2022-39144 (2022-09-13T10:15:00)
+> A vulnerability has been identified in Parasolid V33.1 (All versions < V33.1.262), Parasolid V33.1 (All versions >= V33.1.262 < V33.1.263), Parasolid V34.0 (All versions < V34.0.252), Parasolid V34.1 (All versions < V34.1.242), Parasolid V35.0 (All versions < V35.0.161), Parasolid V35.0 (All versions >= V35.0.161 < V35.0.164), Simcenter Femap V2022.1 (All versions < V2022.1.3), Simcenter Femap V2022.2 (All versions < V2022.2.2). The affected application contains an out of bounds write past the end of an allocated buffer while parsing specially crafted X_T files. This could allow an attacker to execute code in the context of the current process. (ZDI-CAN-17494)
+- [Live-Hack-CVE/CVE-2022-39144](https://github.com/Live-Hack-CVE/CVE-2022-39144)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39144">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39144">
+
+---
+## CVE-2022-39143 (2022-09-13T10:15:00)
+> A vulnerability has been identified in Parasolid V33.1 (All versions < V33.1.262), Parasolid V33.1 (All versions >= V33.1.262 < V33.1.263), Parasolid V34.0 (All versions < V34.0.252), Parasolid V34.1 (All versions < V34.1.242), Parasolid V35.0 (All versions < V35.0.161), Parasolid V35.0 (All versions >= V35.0.161 < V35.0.164), Simcenter Femap V2022.1 (All versions < V2022.1.3), Simcenter Femap V2022.2 (All versions < V2022.2.2). The affected application contains an out of bounds write past the end of an allocated buffer while parsing specially crafted X_T files. This could allow an attacker to execute code in the context of the current process. (ZDI-CAN-17493)
+- [Live-Hack-CVE/CVE-2022-39143](https://github.com/Live-Hack-CVE/CVE-2022-39143)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39143">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39143">
+
+---
+## CVE-2022-39142 (2022-09-13T10:15:00)
+> A vulnerability has been identified in Parasolid V33.1 (All versions < V33.1.262), Parasolid V33.1 (All versions >= V33.1.262 < V33.1.263), Parasolid V34.0 (All versions < V34.0.252), Parasolid V34.1 (All versions < V34.1.242), Parasolid V35.0 (All versions < V35.0.161), Parasolid V35.0 (All versions >= V35.0.161 < V35.0.164), Simcenter Femap V2022.1 (All versions < V2022.1.3), Simcenter Femap V2022.2 (All versions < V2022.2.2). The affected application contains an out of bounds write past the end of an allocated buffer while parsing specially crafted X_T files. This could allow an attacker to execute code in the context of the current process. (ZDI-CAN-17485)
+- [Live-Hack-CVE/CVE-2022-39142](https://github.com/Live-Hack-CVE/CVE-2022-39142)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39142">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39142">
+
+---
+## CVE-2022-39141 (2022-09-13T10:15:00)
+> A vulnerability has been identified in Parasolid V33.1 (All versions < V33.1.262), Parasolid V34.0 (All versions < V34.0.252), Parasolid V34.1 (All versions < V34.1.242), Parasolid V35.0 (All versions < V35.0.161), Simcenter Femap V2022.1 (All versions < V2022.1.3), Simcenter Femap V2022.2 (All versions < V2022.2.2). The affected application is vulnerable to out of bounds read past the end of an allocated buffer when parsing X_T files. An attacker could leverage this vulnerability to leak information in the context of the current process. (ZDI-CAN-17296)
+- [Live-Hack-CVE/CVE-2022-39141](https://github.com/Live-Hack-CVE/CVE-2022-39141)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39141">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39141">
+
+---
+## CVE-2022-39140 (2022-09-13T10:15:00)
+> A vulnerability has been identified in Parasolid V33.1 (All versions < V33.1.262), Parasolid V34.0 (All versions < V34.0.252), Parasolid V34.1 (All versions < V34.1.242), Parasolid V35.0 (All versions < V35.0.161), Simcenter Femap V2022.1 (All versions < V2022.1.3), Simcenter Femap V2022.2 (All versions < V2022.2.2). The affected application contains an out of bounds write past the end of an allocated buffer while parsing specially crafted X_T files. This could allow an attacker to execute code in the context of the current process. (ZDI-CAN-17292)
+- [Live-Hack-CVE/CVE-2022-39140](https://github.com/Live-Hack-CVE/CVE-2022-39140)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39140">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39140">
+
+---
+## CVE-2022-39139 (2022-09-13T10:15:00)
+> A vulnerability has been identified in Parasolid V33.1 (All versions < V33.1.262), Parasolid V34.0 (All versions < V34.0.252), Parasolid V34.1 (All versions < V34.1.242), Parasolid V35.0 (All versions < V35.0.161), Simcenter Femap V2022.1 (All versions < V2022.1.3), Simcenter Femap V2022.2 (All versions < V2022.2.2). The affected application contains an out of bounds write past the end of an allocated buffer while parsing specially crafted X_T files. This could allow an attacker to execute code in the context of the current process. (ZDI-CAN-17289)
+- [Live-Hack-CVE/CVE-2022-39139](https://github.com/Live-Hack-CVE/CVE-2022-39139)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39139">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39139">
+
+---
+## CVE-2022-39138 (2022-09-13T10:15:00)
+> A vulnerability has been identified in Parasolid V33.1 (All versions < V33.1.262), Parasolid V34.0 (All versions < V34.0.252), Parasolid V34.1 (All versions < V34.1.242), Parasolid V35.0 (All versions < V35.0.161), Simcenter Femap V2022.1 (All versions < V2022.1.3), Simcenter Femap V2022.2 (All versions < V2022.2.2). The affected application contains an out of bounds write past the end of an allocated buffer while parsing specially crafted X_T files. This could allow an attacker to execute code in the context of the current process. (ZDI-CAN-17284)
+- [Live-Hack-CVE/CVE-2022-39138](https://github.com/Live-Hack-CVE/CVE-2022-39138)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39138">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39138">
+
+---
 ## CVE-2022-39136 (2022-11-08T11:15:00)
 > A vulnerability has been identified in JT2Go (All versions < V14.1.0.4), Teamcenter Visualization V13.3 (All versions < V13.3.0.7), Teamcenter Visualization V13.3 (All versions >= V13.3.0.7 < V13.3.0.8), Teamcenter Visualization V14.0 (All versions < V14.0.0.3), Teamcenter Visualization V14.1 (All versions < V14.1.0.4). The affected application is vulnerable to fixed-length heap-based buffer while parsing specially crafted TIF files. An attacker could leverage this vulnerability to execute code in the context of the current process.
 - [Live-Hack-CVE/CVE-2022-39136](https://github.com/Live-Hack-CVE/CVE-2022-39136)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39136">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39136">
@@ -11653,6 +11748,11 @@
 - [Live-Hack-CVE/CVE-2022-38395](https://github.com/Live-Hack-CVE/CVE-2022-38395)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38395">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38395">
 
 ---
+## CVE-2022-38394 (2022-09-08T08:15:00)
+> Use of hard-coded credentials for the telnet server of CentreCOM AR260S V2 firmware versions prior to Ver.3.3.7 allows a remote unauthenticated attacker to execute an arbitrary OS command.
+- [Live-Hack-CVE/CVE-2022-38394](https://github.com/Live-Hack-CVE/CVE-2022-38394)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38394">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38394">
+
+---
 ## CVE-2022-38387 (2022-11-11T19:15:00)
 > IBM Cloud Pak for Security (CP4S) 1.10.0.0 through 1.10.2.0 could allow a remote authenticated attacker to execute arbitrary commands on the system by sending a specially crafted request. IBM X-Force ID: 233786.
 - [Live-Hack-CVE/CVE-2022-38387](https://github.com/Live-Hack-CVE/CVE-2022-38387)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38387">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38387">
@@ -12104,6 +12204,11 @@
 ## CVE-2022-38095 (2022-09-23T14:15:00)
 > Cross-Site Request Forgery (CSRF) vulnerability in AlgolPlus Advanced Dynamic Pricing for WooCommerce plugin <= 4.1.3 at WordPress.
 - [Live-Hack-CVE/CVE-2022-38095](https://github.com/Live-Hack-CVE/CVE-2022-38095)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38095">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38095">
+
+---
+## CVE-2022-38094 (2022-09-08T08:15:00)
+> OS command injection vulnerability in the telnet function of CentreCOM AR260S V2 firmware versions prior to Ver.3.3.7 allows a remote authenticated attacker to execute an arbitrary OS command.
+- [Live-Hack-CVE/CVE-2022-38094](https://github.com/Live-Hack-CVE/CVE-2022-38094)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38094">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38094">
 
 ---
 ## CVE-2022-3809 (2022-11-02T13:15:00)
@@ -13925,6 +14030,11 @@
 ## CVE-2022-3674 (2022-10-26T17:15:00)
 > A vulnerability has been found in SourceCodester Sanitization Management System 1.0 and classified as critical. Affected by this vulnerability is an unknown functionality. The manipulation leads to missing authentication. The attack can be launched remotely. The identifier VDB-212017 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-3674](https://github.com/Live-Hack-CVE/CVE-2022-3674)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3674">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3674">
+
+---
+## CVE-2022-36736 (2022-09-08T13:15:00)
+> ** DISPUTED ** Jitsi-2.10.5550 was discovered to contain a vulnerability in its web UI which allows attackers to perform a clickjacking attack via a crafted HTTP request. NOTE: this is disputed by the vendor.
+- [Live-Hack-CVE/CVE-2022-36736](https://github.com/Live-Hack-CVE/CVE-2022-36736)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36736">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36736">
 
 ---
 ## CVE-2022-3673 (2022-10-26T17:15:00)
@@ -15913,6 +16023,11 @@
 - [Live-Hack-CVE/CVE-2022-35276](https://github.com/Live-Hack-CVE/CVE-2022-35276)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35276">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35276">
 
 ---
+## CVE-2022-35273 (2022-09-08T08:15:00)
+> OS command injection vulnerability in GUI setting page of CentreCOM AR260S V2 firmware versions prior to Ver.3.3.7 allows a remote authenticated attacker to execute an arbitrary OS command.
+- [Live-Hack-CVE/CVE-2022-35273](https://github.com/Live-Hack-CVE/CVE-2022-35273)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35273">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35273">
+
+---
 ## CVE-2022-35270 (2022-10-25T17:15:00)
 > A denial of service vulnerability exists in the web_server hashFirst functionality of Robustel R1510 3.1.16 and 3.3.0. A specially-crafted network request can lead to denial of service. An attacker can send a sequence of requests to trigger this vulnerability.This denial of service is in the `/action/import_wireguard_cert_file/` API.
 - [Live-Hack-CVE/CVE-2022-35270](https://github.com/Live-Hack-CVE/CVE-2022-35270)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35270">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35270">
@@ -16621,6 +16736,11 @@
 ## CVE-2022-34870 (2022-10-25T17:15:00)
 > Apache Geode versions up to 1.15.0 are vulnerable to a Cross-Site Scripting (XSS) via data injection when using Pulse web application to view Region entries.
 - [Live-Hack-CVE/CVE-2022-34870](https://github.com/Live-Hack-CVE/CVE-2022-34870)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34870">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34870">
+
+---
+## CVE-2022-34869 (2022-09-08T08:15:00)
+> Undocumented hidden command that can be executed from the telnet function of CentreCOM AR260S V2 firmware versions prior to Ver.3.3.7 allows a remote authenticated attacker to execute an arbitrary OS command.
+- [Live-Hack-CVE/CVE-2022-34869](https://github.com/Live-Hack-CVE/CVE-2022-34869)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34869">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34869">
 
 ---
 ## CVE-2022-3486 (2022-11-09T23:15:00)
@@ -19743,6 +19863,11 @@
 - [Live-Hack-CVE/CVE-2022-3103](https://github.com/Live-Hack-CVE/CVE-2022-3103)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3103">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3103">
 
 ---
+## CVE-2022-31020 (2022-09-06T17:15:00)
+> Indy Node is the server portion of a distributed ledger purpose-built for decentralized identity. In versions 1.12.4 and prior, the `pool-upgrade` request handler in Indy-Node allows an improperly authenticated attacker to remotely execute code on nodes within the network. The `pool-upgrade` request handler in Indy-Node 1.12.5 has been updated to properly authenticate pool-upgrade transactions before any processing is performed by the request handler. The transactions are further sanitized to prevent remote code execution. As a workaround, endorsers should not create DIDs for untrusted users. A vulnerable ledger should configure `auth_rules` to prevent new DIDs from being written to the ledger until the network can be upgraded.
+- [Live-Hack-CVE/CVE-2022-31020](https://github.com/Live-Hack-CVE/CVE-2022-31020)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31020">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31020">
+
+---
 ## CVE-2022-31007 (2022-05-31T20:15:00)
 > eLabFTW is an electronic lab notebook manager for research teams. Prior to version 4.3.0, a vulnerability allows an authenticated user with an administrator role in a team to assign itself system administrator privileges within the application, or create a new system administrator account. The issue has been corrected in eLabFTW version 4.3.0. In the context of eLabFTW, an administrator is a user account with certain privileges to manage users and content in their assigned team/teams. A system administrator account can manage all accounts, teams and edit system-wide settings within the application. The impact is not deemed as high, as it requires the attacker to have access to an administrator account. Regular user accounts cannot exploit this to gain admin rights. A workaround for one if the issues is removing the ability of administrators to create accounts.
 - [gscharf/CVE-2022-31007-Python-POC](https://github.com/gscharf/CVE-2022-31007-Python-POC)	<img alt="forks" src="https://img.shields.io/github/forks/gscharf/CVE-2022-31007-Python-POC">	<img alt="stars" src="https://img.shields.io/github/stars/gscharf/CVE-2022-31007-Python-POC">
@@ -21854,6 +21979,11 @@
 - [Live-Hack-CVE/CVE-2022-2761](https://github.com/Live-Hack-CVE/CVE-2022-2761)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2761">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2761">
 
 ---
+## CVE-2022-27593 (2022-09-08T11:15:00)
+> An externally controlled reference to a resource vulnerability has been reported to affect QNAP NAS running Photo Station. If exploited, This could allow an attacker to modify system files. We have already fixed the vulnerability in the following versions: QTS 5.0.1: Photo Station 6.1.2 and later QTS 5.0.0/4.5.x: Photo Station 6.0.22 and later QTS 4.3.6: Photo Station 5.7.18 and later QTS 4.3.3: Photo Station 5.4.15 and later QTS 4.2.6: Photo Station 5.2.14 and later
+- [Live-Hack-CVE/CVE-2022-27593](https://github.com/Live-Hack-CVE/CVE-2022-27593)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27593">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27593">
+
+---
 ## CVE-2022-27583 (2022-10-31T20:15:00)
 > A remote unprivileged attacker can interact with the configuration interface of a Flexi-Compact FLX3-CPUC1 or FLX3-CPUC2 running an affected firmware version to potentially impact the availability of the FlexiCompact.
 - [Live-Hack-CVE/CVE-2022-27583](https://github.com/Live-Hack-CVE/CVE-2022-27583)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27583">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27583">
@@ -23079,6 +23209,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [0xvinix/CVE-2022-2546](https://github.com/0xvinix/CVE-2022-2546)	<img alt="forks" src="https://img.shields.io/github/forks/0xvinix/CVE-2022-2546">	<img alt="stars" src="https://img.shields.io/github/stars/0xvinix/CVE-2022-2546">
 
 ---
+## CVE-2022-2540 (2022-09-06T18:15:00)
+> The Link Optimizer Lite plugin for WordPress is vulnerable to Cross-Site Request Forgery to Cross-Site Scripting in versions up to, and including 1.4.5. This is due to missing nonce validation on the admin_page function found in the ~/admin.php file. This makes it possible for unauthenticated attackers to modify the plugin's settings and inject malicious web scripts via a forged request granted they can trick a site administrator into performing an action such as clicking on a link.
+- [Live-Hack-CVE/CVE-2022-2540](https://github.com/Live-Hack-CVE/CVE-2022-2540)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2540">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2540">
+
+---
 ## CVE-2022-25370 (2022-09-02T07:15:00)
 > Apache OFBiz uses the Birt plugin (https://eclipse.github.io/birt-website/) to create data visualizations and reports. In Apache OFBiz release 18.12.05, and earlier versions, by leveraging a vulnerability in Birt (https://bugs.eclipse.org/bugs/show_bug.cgi?id=538142), an unauthenticated malicious user could perform a stored XSS attack in order to inject a malicious payload and execute it using the stored XSS.
 - [Live-Hack-CVE/CVE-2022-25370](https://github.com/Live-Hack-CVE/CVE-2022-25370)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25370">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25370">
@@ -23144,6 +23279,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 > Jenkins Pipeline: Multibranch Plugin 706.vd43c65dec013 and earlier uses the same checkout directories for distinct SCMs for the readTrusted step, allowing attackers with Item/Configure permission to invoke arbitrary OS commands on the controller through crafted SCM contents.
 - [Live-Hack-CVE/CVE-2022-25175](https://github.com/Live-Hack-CVE/CVE-2022-25175)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25175">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25175">
 - [Live-Hack-CVE/CVE-2022-25175](https://github.com/Live-Hack-CVE/CVE-2022-25175)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25175">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25175">
+
+---
+## CVE-2022-2517 (2022-09-06T18:15:00)
+> The Beaver Builder – WordPress Page Builder for WordPress is vulnerable to Stored Cross-Site Scripting via the 'Caption - On Hover' value associated with images in versions up to, and including, 2.5.5.2 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers with access to the Beaver Builder editor to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.
+- [Live-Hack-CVE/CVE-2022-2517](https://github.com/Live-Hack-CVE/CVE-2022-2517)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2517">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2517">
 
 ---
 ## CVE-2022-25169 (2022-05-16T17:15:00)
@@ -23786,6 +23926,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-23708](https://github.com/Live-Hack-CVE/CVE-2022-23708)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23708">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23708">
 
 ---
+## CVE-2022-23678 (2022-09-06T18:15:00)
+> A vulnerability in the Aruba Virtual Intranet Access (VIA) client for Microsoft Windows operating system client communications that could allow for an attacker in a privileged network position to intercept sensitive information in Aruba Virtual Intranet Access (VIA) client for Microsoft Windows operating system versions: 4.3.0 build 2208101 and below. Aruba has released upgrades for Virtual Intranet Access (VIA) Client that address this security vulnerability.
+- [Live-Hack-CVE/CVE-2022-23678](https://github.com/Live-Hack-CVE/CVE-2022-23678)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23678">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23678">
+
+---
 ## CVE-2022-23673 (2022-05-17T18:15:00)
 > A authenticated remote command injection vulnerability was discovered in Aruba ClearPass Policy Manager version(s): 6.10.4 and below, 6.9.9 and below, 6.8.9-HF2 and below, 6.7.x and below. Aruba has released updates to ClearPass Policy Manager that address this security vulnerability.
 - [Live-Hack-CVE/CVE-2022-23673](https://github.com/Live-Hack-CVE/CVE-2022-23673)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23673">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23673">
@@ -23999,6 +24144,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-23461 (2022-09-24T03:15:00)
 > Jodit Editor is a WYSIWYG editor written in pure TypeScript without the use of additional libraries. Jodit Editor is vulnerable to XSS attacks when pasting specially constructed input. This issue has not been fully patched. There are no known workarounds.
 - [Live-Hack-CVE/CVE-2022-23461](https://github.com/Live-Hack-CVE/CVE-2022-23461)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23461">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23461">
+
+---
+## CVE-2022-23451 (2022-09-06T18:15:00)
+> An authorization flaw was found in openstack-barbican. The default policy rules for the secret metadata API allowed any authenticated user to add, modify, or delete metadata from any secret regardless of ownership. This flaw allows an attacker on the network to modify or delete protected data, causing a denial of service by consuming protected resources.
+- [Live-Hack-CVE/CVE-2022-23451](https://github.com/Live-Hack-CVE/CVE-2022-23451)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23451">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23451">
 
 ---
 ## CVE-2022-2338 (2022-08-17T21:15:00)
