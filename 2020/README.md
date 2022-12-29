@@ -273,6 +273,7 @@
 ## CVE-2020-7862 (2021-06-24T11:15:00)
 > A vulnerability in agent program of HelpU remote control solution could allow an authenticated remote attacker to execute arbitrary commands This vulnerability is due to insufficient input santization when communicating customer process.
 - [Live-Hack-CVE/CVE-2020-7862](https://github.com/Live-Hack-CVE/CVE-2020-7862)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7862">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7862">
+- [Live-Hack-CVE/CVE-2020-7862](https://github.com/Live-Hack-CVE/CVE-2020-7862)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7862">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7862">
 
 ---
 ## CVE-2020-7791 (2020-12-11T17:15:00)
@@ -676,6 +677,7 @@
 ## CVE-2020-6099 (2022-04-18T17:15:00)
 > An exploitable code execution vulnerability exists in the file format parsing functionality of Graphisoft BIMx Desktop Viewer 2019.2.2328. A specially crafted file can cause a heap buffer overflow resulting in a code execution. An attacker can provide a malicious file to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2020-6099](https://github.com/Live-Hack-CVE/CVE-2020-6099)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6099">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6099">
+- [Live-Hack-CVE/CVE-2020-6099](https://github.com/Live-Hack-CVE/CVE-2020-6099)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6099">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6099">
 
 ---
 ## CVE-2020-6016 (2020-11-18T15:15:00)
@@ -742,10 +744,18 @@
 ## CVE-2020-5410 (2020-06-02T17:15:00)
 > Spring Cloud Config, versions 2.2.x prior to 2.2.3, versions 2.1.x prior to 2.1.9, and older unsupported versions allow applications to serve arbitrary configuration files through the spring-cloud-config-server module. A malicious user, or attacker, can send a request using a specially crafted URL that can lead to a directory traversal attack.
 - [Live-Hack-CVE/CVE-2020-5410](https://github.com/Live-Hack-CVE/CVE-2020-5410)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5410">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5410">
+- [Live-Hack-CVE/CVE-2020-5410](https://github.com/Live-Hack-CVE/CVE-2020-5410)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5410">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5410">
+- [DSO-Lab/defvul](https://github.com/DSO-Lab/defvul)	<img alt="forks" src="https://img.shields.io/github/forks/DSO-Lab/defvul">	<img alt="stars" src="https://img.shields.io/github/stars/DSO-Lab/defvul">
+- [Corgizz/SpringCloud](https://github.com/Corgizz/SpringCloud)	<img alt="forks" src="https://img.shields.io/github/forks/Corgizz/SpringCloud">	<img alt="stars" src="https://img.shields.io/github/stars/Corgizz/SpringCloud">
+- [thelostworldFree/SpringCloud-Config-CVE-2020-5410](https://github.com/thelostworldFree/SpringCloud-Config-CVE-2020-5410)	<img alt="forks" src="https://img.shields.io/github/forks/thelostworldFree/SpringCloud-Config-CVE-2020-5410">	<img alt="stars" src="https://img.shields.io/github/stars/thelostworldFree/SpringCloud-Config-CVE-2020-5410">
+- [mugisyahid/ki-vuln-cve-2020-5410](https://github.com/mugisyahid/ki-vuln-cve-2020-5410)	<img alt="forks" src="https://img.shields.io/github/forks/mugisyahid/ki-vuln-cve-2020-5410">	<img alt="stars" src="https://img.shields.io/github/stars/mugisyahid/ki-vuln-cve-2020-5410">
+- [osamahamad/CVE-2020-5410-POC](https://github.com/osamahamad/CVE-2020-5410-POC)	<img alt="forks" src="https://img.shields.io/github/forks/osamahamad/CVE-2020-5410-POC">	<img alt="stars" src="https://img.shields.io/github/stars/osamahamad/CVE-2020-5410-POC">
+- [dead5nd/config-demo](https://github.com/dead5nd/config-demo)	<img alt="forks" src="https://img.shields.io/github/forks/dead5nd/config-demo">	<img alt="stars" src="https://img.shields.io/github/stars/dead5nd/config-demo">
 
 ---
 ## CVE-2020-5403 (2020-03-03T19:15:00)
 > Reactor Netty HttpServer, versions 0.9.3 and 0.9.4, is exposed to a URISyntaxException that causes the connection to be closed prematurely instead of producing a 400 response.
+- [Live-Hack-CVE/CVE-2020-5403](https://github.com/Live-Hack-CVE/CVE-2020-5403)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5403">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5403">
 - [Live-Hack-CVE/CVE-2020-5403](https://github.com/Live-Hack-CVE/CVE-2020-5403)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5403">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5403">
 
 ---
@@ -761,6 +771,7 @@
 ---
 ## CVE-2020-5351 (2021-07-28T00:15:00)
 > Dell EMC Data Protection Advisor versions 6.4, 6.5 and 18.1 contain an undocumented account with limited privileges that is protected with a hard-coded password. A remote unauthenticated malicious user with the knowledge of the hard-coded password may login to the system and gain read-only privileges.
+- [Live-Hack-CVE/CVE-2020-5351](https://github.com/Live-Hack-CVE/CVE-2020-5351)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5351">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5351">
 - [Live-Hack-CVE/CVE-2020-5351](https://github.com/Live-Hack-CVE/CVE-2020-5351)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5351">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5351">
 
 ---
