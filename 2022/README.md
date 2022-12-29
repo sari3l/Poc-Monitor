@@ -19305,6 +19305,7 @@
 ## CVE-2022-29429 (2022-05-17T19:15:00)
 > Remote Code Execution (RCE) in Alexander Stokmann's Code Snippets Extended plugin <= 1.4.7 on WordPress via Cross-Site Request Forgery.
 - [Live-Hack-CVE/CVE-2022-29429](https://github.com/Live-Hack-CVE/CVE-2022-29429)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29429">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29429">
+- [Live-Hack-CVE/CVE-2022-29429](https://github.com/Live-Hack-CVE/CVE-2022-29429)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29429">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29429">
 
 ---
 ## CVE-2022-29413 (2022-04-28T17:15:00)

@@ -485,6 +485,7 @@
 ## CVE-2020-7478 (2020-03-23T20:15:00)
 > A CWE-22: Improper Limitation of a Pathname to a Restricted Directory exists in IGSS (Versions 14 and prior using the service: IGSSupdate), which could allow a remote unauthenticated attacker to read arbitrary files from the IGSS server PC on an unrestricted or shared network when the IGSS Update Service is enabled.
 - [Live-Hack-CVE/CVE-2020-7478](https://github.com/Live-Hack-CVE/CVE-2020-7478)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7478">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7478">
+- [Live-Hack-CVE/CVE-2020-7478](https://github.com/Live-Hack-CVE/CVE-2020-7478)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7478">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7478">
 
 ---
 ## CVE-2020-7473 (2020-05-07T14:15:00)
@@ -564,15 +565,18 @@
 ## CVE-2020-6456 (2020-04-13T18:15:00)
 > Insufficient validation of untrusted input in clipboard in Google Chrome prior to 81.0.4044.92 allowed a local attacker to bypass site isolation via crafted clipboard contents.
 - [Live-Hack-CVE/CVE-2020-6456](https://github.com/Live-Hack-CVE/CVE-2020-6456)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6456">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6456">
+- [Live-Hack-CVE/CVE-2020-6456](https://github.com/Live-Hack-CVE/CVE-2020-6456)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6456">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6456">
 
 ---
 ## CVE-2020-6455 (2020-04-13T18:15:00)
 > Out of bounds read in WebSQL in Google Chrome prior to 81.0.4044.92 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
 - [Live-Hack-CVE/CVE-2020-6455](https://github.com/Live-Hack-CVE/CVE-2020-6455)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6455">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6455">
+- [Live-Hack-CVE/CVE-2020-6455](https://github.com/Live-Hack-CVE/CVE-2020-6455)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6455">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6455">
 
 ---
 ## CVE-2020-6452 (2020-04-13T18:15:00)
 > Heap buffer overflow in media in Google Chrome prior to 80.0.3987.162 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2020-6452](https://github.com/Live-Hack-CVE/CVE-2020-6452)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6452">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6452">
 - [Live-Hack-CVE/CVE-2020-6452](https://github.com/Live-Hack-CVE/CVE-2020-6452)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6452">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6452">
 
 ---
@@ -584,15 +588,18 @@
 ## CVE-2020-6445 (2020-04-13T18:15:00)
 > Insufficient policy enforcement in trusted types in Google Chrome prior to 81.0.4044.92 allowed a remote attacker to bypass content security policy via a crafted HTML page.
 - [Live-Hack-CVE/CVE-2020-6445](https://github.com/Live-Hack-CVE/CVE-2020-6445)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6445">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6445">
+- [Live-Hack-CVE/CVE-2020-6445](https://github.com/Live-Hack-CVE/CVE-2020-6445)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6445">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6445">
 
 ---
 ## CVE-2020-6443 (2020-04-13T18:15:00)
 > Insufficient data validation in developer tools in Google Chrome prior to 81.0.4044.92 allowed a remote attacker who had convinced the user to use devtools to execute arbitrary code via a crafted HTML page.
 - [Live-Hack-CVE/CVE-2020-6443](https://github.com/Live-Hack-CVE/CVE-2020-6443)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6443">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6443">
+- [Live-Hack-CVE/CVE-2020-6443](https://github.com/Live-Hack-CVE/CVE-2020-6443)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6443">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6443">
 
 ---
 ## CVE-2020-6442 (2020-04-13T18:15:00)
 > Inappropriate implementation in cache in Google Chrome prior to 81.0.4044.92 allowed a remote attacker to leak cross-origin data via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2020-6442](https://github.com/Live-Hack-CVE/CVE-2020-6442)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6442">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6442">
 - [Live-Hack-CVE/CVE-2020-6442](https://github.com/Live-Hack-CVE/CVE-2020-6442)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6442">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6442">
 
 ---
@@ -2386,10 +2393,12 @@
 ## CVE-2020-1951 (2020-03-23T14:15:00)
 > A carefully crafted or corrupt PSD file can cause an infinite loop in Apache Tika's PSDParser in versions 1.0-1.23.
 - [Live-Hack-CVE/CVE-2020-1951](https://github.com/Live-Hack-CVE/CVE-2020-1951)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1951">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1951">
+- [Live-Hack-CVE/CVE-2020-1951](https://github.com/Live-Hack-CVE/CVE-2020-1951)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1951">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1951">
 
 ---
 ## CVE-2020-1950 (2020-03-23T14:15:00)
 > A carefully crafted or corrupt PSD file can cause excessive memory usage in Apache Tika's PSDParser in versions 1.0-1.23.
+- [Live-Hack-CVE/CVE-2020-1950](https://github.com/Live-Hack-CVE/CVE-2020-1950)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1950">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1950">
 - [Live-Hack-CVE/CVE-2020-1950](https://github.com/Live-Hack-CVE/CVE-2020-1950)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1950">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1950">
 
 ---

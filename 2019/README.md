@@ -44,6 +44,7 @@
 ## CVE-2019-9721 (2019-03-12T09:29:00)
 > A denial of service in the subtitle decoder in FFmpeg 3.2 and 4.1 allows attackers to hog the CPU via a crafted video file in Matroska format, because handle_open_brace in libavcodec/htmlsubtitles.c has a complex format argument to sscanf.
 - [Live-Hack-CVE/CVE-2019-9721](https://github.com/Live-Hack-CVE/CVE-2019-9721)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9721">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9721">
+- [Live-Hack-CVE/CVE-2019-9721](https://github.com/Live-Hack-CVE/CVE-2019-9721)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9721">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9721">
 
 ---
 ## CVE-2019-9718 (2019-03-12T09:29:00)
@@ -1563,6 +1564,7 @@
 ---
 ## CVE-2019-16223 (2019-09-11T14:15:00)
 > WordPress before 5.2.3 allows XSS in post previews by authenticated users.
+- [Live-Hack-CVE/CVE-2019-16223](https://github.com/Live-Hack-CVE/CVE-2019-16223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16223">
 - [Live-Hack-CVE/CVE-2019-16223](https://github.com/Live-Hack-CVE/CVE-2019-16223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16223">
 
 ---

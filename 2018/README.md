@@ -467,6 +467,7 @@
 ## CVE-2018-17825 (2018-10-01T08:29:00)
 > An issue was discovered in AdPlug 2.3.1. There are several double-free vulnerabilities in the CEmuopl class in emuopl.cpp because of a destructor's two OPLDestroy calls, each of which frees TL_TABLE, SIN_TABLE, AMS_TABLE, and VIB_TABLE.
 - [Live-Hack-CVE/CVE-2018-17825](https://github.com/Live-Hack-CVE/CVE-2018-17825)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-17825">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-17825">
+- [Live-Hack-CVE/CVE-2018-17825](https://github.com/Live-Hack-CVE/CVE-2018-17825)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-17825">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-17825">
 
 ---
 ## CVE-2018-17773 (2020-09-09T19:15:00)
@@ -487,6 +488,7 @@
 ---
 ## CVE-2018-16877 (2019-04-18T18:29:00)
 > A flaw was found in the way pacemaker's client-server authentication was implemented in versions up to and including 2.0.0. A local attacker could use this flaw, and combine it with other IPC weaknesses, to achieve local privilege escalation.
+- [Live-Hack-CVE/CVE-2018-16877](https://github.com/Live-Hack-CVE/CVE-2018-16877)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-16877">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-16877">
 - [Live-Hack-CVE/CVE-2018-16877](https://github.com/Live-Hack-CVE/CVE-2018-16877)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-16877">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-16877">
 
 ---
@@ -647,10 +649,12 @@
 ## CVE-2018-13099 (2018-07-03T10:29:00)
 > An issue was discovered in fs/f2fs/inline.c in the Linux kernel through 4.4. A denial of service (out-of-bounds memory access and BUG) can occur for a modified f2fs filesystem image in which an inline inode contains an invalid reserved blkaddr.
 - [Live-Hack-CVE/CVE-2018-13099](https://github.com/Live-Hack-CVE/CVE-2018-13099)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-13099">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-13099">
+- [Live-Hack-CVE/CVE-2018-13099](https://github.com/Live-Hack-CVE/CVE-2018-13099)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-13099">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-13099">
 
 ---
 ## CVE-2018-13096 (2018-07-03T10:29:00)
 > An issue was discovered in fs/f2fs/super.c in the Linux kernel through 4.14. A denial of service (out-of-bounds memory access and BUG) can occur upon encountering an abnormal bitmap size when mounting a crafted f2fs image.
+- [Live-Hack-CVE/CVE-2018-13096](https://github.com/Live-Hack-CVE/CVE-2018-13096)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-13096">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-13096">
 - [Live-Hack-CVE/CVE-2018-13096](https://github.com/Live-Hack-CVE/CVE-2018-13096)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-13096">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-13096">
 
 ---
