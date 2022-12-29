@@ -2289,6 +2289,7 @@
 ## CVE-2021-38483 (2022-04-20T16:15:00)
 > The affected product is vulnerable to misconfigured binaries, allowing users on the target PC with SYSTEM level privileges access to overwrite the binary and modify files to gain privilege escalation.
 - [Live-Hack-CVE/CVE-2021-38483](https://github.com/Live-Hack-CVE/CVE-2021-38483)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38483">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38483">
+- [Live-Hack-CVE/CVE-2021-38483](https://github.com/Live-Hack-CVE/CVE-2021-38483)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38483">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38483">
 
 ---
 ## CVE-2021-38475 (2021-10-22T12:15:00)

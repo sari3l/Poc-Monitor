@@ -5174,6 +5174,7 @@
 ## CVE-2022-42488 (2022-10-14T15:16:00)
 > OpenHarmony-v3.1.2 and prior versions have a Missing permission validation vulnerability in param service of startup subsystem. An malicious application installed on the device could elevate its privileges to the root user, disable security features, or cause DoS by disabling particular services.
 - [Live-Hack-CVE/CVE-2022-42488](https://github.com/Live-Hack-CVE/CVE-2022-42488)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42488">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42488">
+- [Live-Hack-CVE/CVE-2022-42488](https://github.com/Live-Hack-CVE/CVE-2022-42488)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42488">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42488">
 
 ---
 ## CVE-2022-42468 (2022-10-26T16:15:00)
@@ -5193,6 +5194,7 @@
 ---
 ## CVE-2022-42463 (2022-10-14T15:16:00)
 > OpenHarmony-v3.1.2 and prior versions have an authenication bypass vulnerability in a callback handler function of Softbus_server in communication subsystem. Attackers can launch attacks on distributed networks by sending Bluetooth rfcomm packets to any remote device and executing arbitrary commands.
+- [Live-Hack-CVE/CVE-2022-42463](https://github.com/Live-Hack-CVE/CVE-2022-42463)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42463">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42463">
 - [Live-Hack-CVE/CVE-2022-42463](https://github.com/Live-Hack-CVE/CVE-2022-42463)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42463">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42463">
 
 ---
@@ -5432,6 +5434,7 @@
 ## CVE-2022-42234 (2022-10-14T17:15:00)
 > There is a file inclusion vulnerability in the template management module in UCMS 1.6
 - [Live-Hack-CVE/CVE-2022-42234](https://github.com/Live-Hack-CVE/CVE-2022-42234)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42234">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42234">
+- [Live-Hack-CVE/CVE-2022-42234](https://github.com/Live-Hack-CVE/CVE-2022-42234)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42234">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42234">
 
 ---
 ## CVE-2022-42233 (2022-10-20T17:15:00)
@@ -5649,6 +5652,11 @@
 ## CVE-2022-42070 (2022-10-14T15:16:00)
 > Online Birth Certificate Management System version 1.0 is vulnerable to Cross Site Request Forgery (CSRF).
 - [Live-Hack-CVE/CVE-2022-42070](https://github.com/Live-Hack-CVE/CVE-2022-42070)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42070">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42070">
+
+---
+## CVE-2022-42067 (2022-10-14T16:15:00)
+> Online Birth Certificate Management System version 1.0 suffers from an Insecure Direct Object Reference (IDOR) vulnerability
+- [Live-Hack-CVE/CVE-2022-42067](https://github.com/Live-Hack-CVE/CVE-2022-42067)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42067">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42067">
 
 ---
 ## CVE-2022-42055 (2022-10-27T18:15:00)
@@ -6330,6 +6338,7 @@
 ---
 ## CVE-2022-41686 (2022-10-14T15:16:00)
 > OpenHarmony-v3.1.2 and prior versions, 3.0.6 and prior versions have an Out-of-bound memory read and write vulnerability in /dev/mmz_userdev device driver. The impact depends on the privileges of the attacker. The unprivileged process run on the device could read out-of-bound memory leading sensitive to information disclosure. The processes with system user UID run on the device would be able to write out-of-bound memory which could lead to unspecified memory corruption.
+- [Live-Hack-CVE/CVE-2022-41686](https://github.com/Live-Hack-CVE/CVE-2022-41686)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41686">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41686">
 - [Live-Hack-CVE/CVE-2022-41686](https://github.com/Live-Hack-CVE/CVE-2022-41686)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41686">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41686">
 
 ---
@@ -10236,9 +10245,29 @@
 - [Live-Hack-CVE/CVE-2022-38699](https://github.com/Live-Hack-CVE/CVE-2022-38699)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38699">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38699">
 
 ---
+## CVE-2022-38690 (2022-10-14T19:15:00)
+> In camera driver, there is a possible memory corruption due to improper locking. This could lead to local denial of service in kernel.
+- [Live-Hack-CVE/CVE-2022-38690](https://github.com/Live-Hack-CVE/CVE-2022-38690)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38690">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38690">
+
+---
 ## CVE-2022-3869 (2022-11-05T14:15:00)
 > Code Injection in GitHub repository froxlor/froxlor prior to 0.10.38.2.
 - [Live-Hack-CVE/CVE-2022-3869](https://github.com/Live-Hack-CVE/CVE-2022-3869)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3869">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3869">
+
+---
+## CVE-2022-38689 (2022-10-14T19:15:00)
+> In telephony service, there is a missing permission check. This could lead to local information disclosure with no additional execution privileges needed.
+- [Live-Hack-CVE/CVE-2022-38689](https://github.com/Live-Hack-CVE/CVE-2022-38689)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38689">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38689">
+
+---
+## CVE-2022-38688 (2022-10-14T19:15:00)
+> In telephony service, there is a missing permission check. This could lead to local information disclosure with no additional execution privileges needed.
+- [Live-Hack-CVE/CVE-2022-38688](https://github.com/Live-Hack-CVE/CVE-2022-38688)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38688">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38688">
+
+---
+## CVE-2022-38687 (2022-10-14T19:15:00)
+> In messaging service, there is a missing permission check. This could lead to local denial of service in messaging service with no additional execution privileges needed.
+- [Live-Hack-CVE/CVE-2022-38687](https://github.com/Live-Hack-CVE/CVE-2022-38687)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38687">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38687">
 
 ---
 ## CVE-2022-3868 (2022-11-05T09:15:00)
@@ -14655,10 +14684,12 @@
 ## CVE-2022-3505 (2022-10-14T14:15:00)
 > A vulnerability was found in SourceCodester Sanitization Management System. It has been classified as problematic. Affected is an unknown function of the file /php-sms/admin/. The manipulation of the argument page leads to cross site scripting. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-210840.
 - [Live-Hack-CVE/CVE-2022-3505](https://github.com/Live-Hack-CVE/CVE-2022-3505)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3505">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3505">
+- [Live-Hack-CVE/CVE-2022-3505](https://github.com/Live-Hack-CVE/CVE-2022-3505)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3505">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3505">
 
 ---
 ## CVE-2022-3504 (2022-10-14T14:15:00)
 > A vulnerability was found in SourceCodester Sanitization Management System and classified as critical. This issue affects some unknown processing of the file /php-sms/?p=services/view_service. The manipulation of the argument id leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-210839.
+- [Live-Hack-CVE/CVE-2022-3504](https://github.com/Live-Hack-CVE/CVE-2022-3504)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3504">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3504">
 - [Live-Hack-CVE/CVE-2022-3504](https://github.com/Live-Hack-CVE/CVE-2022-3504)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3504">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3504">
 
 ---
@@ -14959,6 +14990,7 @@
 ---
 ## CVE-2022-34796 (2022-06-30T18:15:00)
 > A missing permission check in Jenkins Deployment Dashboard Plugin 1.0.10 and earlier allows attackers with Overall/Read permission to enumerate credentials IDs of credentials stored in Jenkins.
+- [Live-Hack-CVE/CVE-2022-34796](https://github.com/Live-Hack-CVE/CVE-2022-34796)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34796">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34796">
 - [Live-Hack-CVE/CVE-2022-34796](https://github.com/Live-Hack-CVE/CVE-2022-34796)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34796">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34796">
 
 ---
@@ -19228,6 +19260,11 @@
 - [Live-Hack-CVE/CVE-2022-2852](https://github.com/Live-Hack-CVE/CVE-2022-2852)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2852">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2852">
 
 ---
+## CVE-2022-2850 (2022-10-14T18:15:00)
+> A flaw was found In 389-ds-base. When the Content Synchronization plugin is enabled, an authenticated user can reach a NULL pointer dereference using a specially crafted query. This flaw allows an authenticated attacker to cause a denial of service. This CVE is assigned against an incomplete fix of CVE-2021-3514.
+- [Live-Hack-CVE/CVE-2022-2850](https://github.com/Live-Hack-CVE/CVE-2022-2850)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2850">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2850">
+
+---
 ## CVE-2022-28487 (2022-05-04T15:15:00)
 > Tcpreplay version 4.4.1 contains a memory leakage flaw in fix_ipv6_checksums() function. The highest threat from this vulnerability is to data confidentiality.
 - [Live-Hack-CVE/CVE-2022-28487](https://github.com/Live-Hack-CVE/CVE-2022-28487)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28487">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28487">
@@ -19358,10 +19395,12 @@
 ## CVE-2022-28147 (2022-03-29T13:15:00)
 > A missing permission check in Jenkins Continuous Integration with Toad Edge Plugin 2.3 and earlier allows attackers with Overall/Read permission to check for the existence of an attacker-specified file path on the Jenkins controller file system.
 - [Live-Hack-CVE/CVE-2022-28147](https://github.com/Live-Hack-CVE/CVE-2022-28147)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28147">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28147">
+- [Live-Hack-CVE/CVE-2022-28147](https://github.com/Live-Hack-CVE/CVE-2022-28147)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28147">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28147">
 
 ---
 ## CVE-2022-28137 (2022-03-29T13:15:00)
 > A missing permission check in Jenkins JiraTestResultReporter Plugin 165.v817928553942 and earlier allows attackers with Overall/Read permission to connect to an attacker-specified URL using attacker-specified credentials.
+- [Live-Hack-CVE/CVE-2022-28137](https://github.com/Live-Hack-CVE/CVE-2022-28137)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28137">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28137">
 - [Live-Hack-CVE/CVE-2022-28137](https://github.com/Live-Hack-CVE/CVE-2022-28137)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28137">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28137">
 
 ---
@@ -19743,10 +19782,17 @@
 ## CVE-2022-27215 (2022-03-15T17:15:00)
 > A missing permission check in Jenkins Release Helper Plugin 1.3.3 and earlier allows attackers with Overall/Read permission to connect to an attacker-specified URL using attacker-specified credentials.
 - [Live-Hack-CVE/CVE-2022-27215](https://github.com/Live-Hack-CVE/CVE-2022-27215)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27215">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27215">
+- [Live-Hack-CVE/CVE-2022-27215](https://github.com/Live-Hack-CVE/CVE-2022-27215)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27215">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27215">
+
+---
+## CVE-2022-27206 (2022-03-15T17:15:00)
+> Jenkins GitLab Authentication Plugin 1.13 and earlier stores the GitLab client secret unencrypted in the global config.xml file on the Jenkins controller where it can be viewed by users with access to the Jenkins controller file system.
+- [Live-Hack-CVE/CVE-2022-27206](https://github.com/Live-Hack-CVE/CVE-2022-27206)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27206">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27206">
 
 ---
 ## CVE-2022-27205 (2022-03-15T17:15:00)
 > A missing permission check in Jenkins Extended Choice Parameter Plugin 346.vd87693c5a_86c and earlier allows attackers with Overall/Read permission to connect to an attacker-specified URL.
+- [Live-Hack-CVE/CVE-2022-27205](https://github.com/Live-Hack-CVE/CVE-2022-27205)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27205">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27205">
 - [Live-Hack-CVE/CVE-2022-27205](https://github.com/Live-Hack-CVE/CVE-2022-27205)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27205">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27205">
 
 ---
@@ -19758,6 +19804,12 @@
 ## CVE-2022-27199 (2022-03-15T17:15:00)
 > A missing permission check in Jenkins CloudBees AWS Credentials Plugin 189.v3551d5642995 and earlier allows attackers with Overall/Read permission to connect to an AWS service using an attacker-specified token.
 - [Live-Hack-CVE/CVE-2022-27199](https://github.com/Live-Hack-CVE/CVE-2022-27199)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27199">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27199">
+- [Live-Hack-CVE/CVE-2022-27199](https://github.com/Live-Hack-CVE/CVE-2022-27199)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27199">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27199">
+
+---
+## CVE-2022-27195 (2022-03-15T17:15:00)
+> Jenkins Parameterized Trigger Plugin 2.43 and earlier captures environment variables passed to builds triggered using Jenkins Parameterized Trigger Plugin, including password parameter values, in their `build.xml` files. These values are stored unencrypted and can be viewed by users with access to the Jenkins controller file system.
+- [Live-Hack-CVE/CVE-2022-27195](https://github.com/Live-Hack-CVE/CVE-2022-27195)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27195">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27195">
 
 ---
 ## CVE-2022-27191 (2022-03-18T07:15:00)
@@ -23134,20 +23186,24 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-20620 (2022-01-12T20:15:00)
 > Missing permission checks in Jenkins SSH Agent Plugin 1.23 and earlier allows attackers with Overall/Read access to enumerate credentials IDs of credentials stored in Jenkins.
 - [Live-Hack-CVE/CVE-2022-20620](https://github.com/Live-Hack-CVE/CVE-2022-20620)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20620">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20620">
+- [Live-Hack-CVE/CVE-2022-20620](https://github.com/Live-Hack-CVE/CVE-2022-20620)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20620">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20620">
 
 ---
 ## CVE-2022-20618 (2022-01-12T20:15:00)
 > A missing permission check in Jenkins Bitbucket Branch Source Plugin 737.vdf9dc06105be and earlier allows attackers with Overall/Read access to enumerate credentials IDs of credentials stored in Jenkins.
+- [Live-Hack-CVE/CVE-2022-20618](https://github.com/Live-Hack-CVE/CVE-2022-20618)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20618">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20618">
 - [Live-Hack-CVE/CVE-2022-20618](https://github.com/Live-Hack-CVE/CVE-2022-20618)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20618">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20618">
 
 ---
 ## CVE-2022-20616 (2022-01-12T20:15:00)
 > Jenkins Credentials Binding Plugin 1.27 and earlier does not perform a permission check in a method implementing form validation, allowing attackers with Overall/Read access to validate if a credential ID refers to a secret file credential and whether it's a zip file.
 - [Live-Hack-CVE/CVE-2022-20616](https://github.com/Live-Hack-CVE/CVE-2022-20616)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20616">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20616">
+- [Live-Hack-CVE/CVE-2022-20616](https://github.com/Live-Hack-CVE/CVE-2022-20616)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20616">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20616">
 
 ---
 ## CVE-2022-20614 (2022-01-12T20:15:00)
 > A missing permission check in Jenkins Mailer Plugin 391.ve4a_38c1b_cf4b_ and earlier allows attackers with Overall/Read access to use the DNS used by the Jenkins instance to resolve an attacker-specified hostname.
+- [Live-Hack-CVE/CVE-2022-20614](https://github.com/Live-Hack-CVE/CVE-2022-20614)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20614">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20614">
 - [Live-Hack-CVE/CVE-2022-20614](https://github.com/Live-Hack-CVE/CVE-2022-20614)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20614">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20614">
 
 ---

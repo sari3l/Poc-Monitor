@@ -1472,15 +1472,18 @@
 ## CVE-2020-2731 (2020-01-15T17:15:00)
 > Vulnerability in the Core RDBMS component of Oracle Database Server. Supported versions that are affected are 12.1.0.2, 12.2.0.1, 18c and 19c. Easily exploitable vulnerability allows low privileged attacker having Local Logon privilege with logon to the infrastructure where Core RDBMS executes to compromise Core RDBMS. Successful attacks require human interaction from a person other than the attacker. Successful attacks of this vulnerability can result in unauthorized update, insert or delete access to some of Core RDBMS accessible data and unauthorized ability to cause a partial denial of service (partial DOS) of Core RDBMS. CVSS 3.0 Base Score 3.9 (Integrity and Availability impacts). CVSS Vector: (CVSS:3.0/AV:L/AC:L/PR:L/UI:R/S:U/C:N/I:L/A:L).
 - [Live-Hack-CVE/CVE-2020-2731](https://github.com/Live-Hack-CVE/CVE-2020-2731)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2731">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2731">
+- [Live-Hack-CVE/CVE-2020-2731](https://github.com/Live-Hack-CVE/CVE-2020-2731)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2731">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2731">
 
 ---
 ## CVE-2020-2729 (2020-01-15T17:15:00)
 > Vulnerability in the Identity Manager product of Oracle Fusion Middleware (component: Advanced Console). Supported versions that are affected are 11.1.2.3.0 and 12.2.1.3.0. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise Identity Manager. Successful attacks of this vulnerability can result in unauthorized update, insert or delete access to some of Identity Manager accessible data as well as unauthorized read access to a subset of Identity Manager accessible data. CVSS 3.0 Base Score 5.4 (Confidentiality and Integrity impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:L/A:N).
 - [Live-Hack-CVE/CVE-2020-2729](https://github.com/Live-Hack-CVE/CVE-2020-2729)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2729">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2729">
+- [Live-Hack-CVE/CVE-2020-2729](https://github.com/Live-Hack-CVE/CVE-2020-2729)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2729">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2729">
 
 ---
 ## CVE-2020-2728 (2020-01-15T17:15:00)
 > Vulnerability in the Identity Manager product of Oracle Fusion Middleware (component: OIM - LDAP user and role Synch). The supported version that is affected is 12.2.1.3.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Identity Manager. Successful attacks of this vulnerability can result in unauthorized access to critical data or complete access to all Identity Manager accessible data. CVSS 3.0 Base Score 7.5 (Confidentiality impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N).
+- [Live-Hack-CVE/CVE-2020-2728](https://github.com/Live-Hack-CVE/CVE-2020-2728)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2728">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2728">
 - [Live-Hack-CVE/CVE-2020-2728](https://github.com/Live-Hack-CVE/CVE-2020-2728)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2728">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2728">
 
 ---
@@ -2183,6 +2186,11 @@
 ## CVE-2020-20951 (2021-05-18T16:15:00)
 > In Pluck-4.7.10-dev2 admin background, a remote command execution vulnerability exists when uploading files.
 - [Live-Hack-CVE/CVE-2020-20951](https://github.com/Live-Hack-CVE/CVE-2020-20951)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-20951">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-20951">
+
+---
+## CVE-2020-2094 (2020-01-15T16:15:00)
+> A missing permission check in Jenkins Health Advisor by CloudBees Plugin 3.0 and earlier allows attackers with Overall/Read permission to send a fixed email to an attacker-specific recipient.
+- [Live-Hack-CVE/CVE-2020-2094](https://github.com/Live-Hack-CVE/CVE-2020-2094)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2094">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2094">
 
 ---
 ## CVE-2020-2091 (2020-01-15T16:15:00)
