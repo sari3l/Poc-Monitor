@@ -11286,6 +11286,16 @@
 - [Live-Hack-CVE/CVE-2022-38617](https://github.com/Live-Hack-CVE/CVE-2022-38617)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38617">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38617">
 
 ---
+## CVE-2022-38615 (2022-09-09T17:15:00)
+> SmartVista SVFE2 v2.2.22 was discovered to contain multiple SQL injection vulnerabilities via the UserForm:j_id88, UserForm:j_id90, and UserForm:j_id92 parameters at /SVFE2/pages/feegroups/service_group.jsf.
+- [Live-Hack-CVE/CVE-2022-38615](https://github.com/Live-Hack-CVE/CVE-2022-38615)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38615">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38615">
+
+---
+## CVE-2022-38614 (2022-09-09T17:15:00)
+> An issue in the IGB Files and OutfileService features of SmartVista Cardgen v3.28.0 allows attackers to list and download arbitrary files via modifying the PATH parameter.
+- [Live-Hack-CVE/CVE-2022-38614](https://github.com/Live-Hack-CVE/CVE-2022-38614)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38614">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38614">
+
+---
 ## CVE-2022-38610 (2022-09-12T21:15:00)
 > Garage Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /garage/editclient.php.
 - [Live-Hack-CVE/CVE-2022-38610](https://github.com/Live-Hack-CVE/CVE-2022-38610)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38610">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38610">
@@ -14064,6 +14074,11 @@
 - [Live-Hack-CVE/CVE-2022-3662](https://github.com/Live-Hack-CVE/CVE-2022-3662)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3662">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3662">
 
 ---
+## CVE-2022-36617 (2022-09-09T16:15:00)
+> Arq Backup 7.19.5.0 and below stores backup encryption passwords using reversible encryption. This issue allows attackers with administrative privileges to recover cleartext passwords.
+- [Live-Hack-CVE/CVE-2022-36617](https://github.com/Live-Hack-CVE/CVE-2022-36617)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36617">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36617">
+
+---
 ## CVE-2022-3661 (2022-11-01T23:15:00)
 > Insufficient data validation in Extensions in Google Chrome prior to 107.0.5304.62 allowed a remote attacker who had compromised the renderer process to leak cross-origin data via a crafted Chrome Extension. (Chromium security severity: Low)
 - [Live-Hack-CVE/CVE-2022-3661](https://github.com/Live-Hack-CVE/CVE-2022-3661)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3661">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3661">
@@ -14781,6 +14796,11 @@
 ## CVE-2022-36096 (2022-09-08T21:15:00)
 > The XWiki Platform Index UI is an Index of all pages, attachments, orphans and deleted pages and attachments for XWiki Platform, a generic wiki platform. Prior to versions 13.10.6 and 14.3, it's possible to store JavaScript which will be executed by anyone viewing the deleted attachments index with an attachment containing javascript in its name. This issue has been patched in XWiki 13.10.6 and 14.3. As a workaround, modify fix the vulnerability by editing the wiki page `XWiki.DeletedAttachments` with the object editor, open the `JavaScriptExtension` object and apply on the content the changes that can be found on the fix commit.
 - [Live-Hack-CVE/CVE-2022-36096](https://github.com/Live-Hack-CVE/CVE-2022-36096)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36096">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36096">
+
+---
+## CVE-2022-36094 (2022-09-08T20:15:00)
+> XWiki Platform Web Parent POM contains Web resources for the XWiki platform, a generic wiki platform. Starting with version 1.0 and prior to versions 13.10.6 and 14.30-rc-1, it's possible to store JavaScript which will be executed by anyone viewing the history of an attachment containing javascript in its name. This issue has been patched in XWiki 13.10.6 and 14.3RC1. As a workaround, it is possible to replace `viewattachrev.vm`, the entry point for this attack, by a patched version from the patch without updating XWiki.
+- [Live-Hack-CVE/CVE-2022-36094](https://github.com/Live-Hack-CVE/CVE-2022-36094)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36094">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36094">
 
 ---
 ## CVE-2022-36091 (2022-09-08T16:15:00)
@@ -18534,6 +18554,21 @@
 ## CVE-2022-32480 (2022-08-22T17:15:00)
 > Dell PowerScale OneFS, versions 9.0.0, up to and including 9.1.0.19, 9.2.1.12, 9.3.0.6, and 9.4.0.2, contain an insecure default initialization of a resource vulnerability. A remote authenticated attacker may potentially exploit this vulnerability, leading to information disclosure.
 - [Live-Hack-CVE/CVE-2022-32480](https://github.com/Live-Hack-CVE/CVE-2022-32480)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32480">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32480">
+
+---
+## CVE-2022-32458 (2022-07-20T02:15:00)
+> Digiwin BPM has a XML External Entity Injection (XXE) vulnerability due to insufficient validation for user input. An unauthenticated remote attacker can perform XML injection attack to access arbitrary system files.
+- [Live-Hack-CVE/CVE-2022-32458](https://github.com/Live-Hack-CVE/CVE-2022-32458)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32458">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32458">
+
+---
+## CVE-2022-32457 (2022-07-20T02:15:00)
+> Digiwin BPM has inadequate filtering for URL parameter. An unauthenticated remote attacker can perform Blind SSRF attack to discover internal network topology base on URL error response.
+- [Live-Hack-CVE/CVE-2022-32457](https://github.com/Live-Hack-CVE/CVE-2022-32457)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32457">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32457">
+
+---
+## CVE-2022-32456 (2022-07-20T02:15:00)
+> Digiwin BPM’s function has insufficient validation for user input. An unauthenticated remote attacker can inject arbitrary SQL command to access, modify, delete database or disrupt service.
+- [Live-Hack-CVE/CVE-2022-32456](https://github.com/Live-Hack-CVE/CVE-2022-32456)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32456">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32456">
 
 ---
 ## CVE-2022-3245 (2022-09-20T14:15:00)

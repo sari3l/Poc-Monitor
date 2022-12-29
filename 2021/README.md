@@ -1845,6 +1845,16 @@
 - [l00neyhacker/CVE-2021-40649](https://github.com/l00neyhacker/CVE-2021-40649)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2021-40649">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2021-40649">
 
 ---
+## CVE-2021-40648 (2022-09-09T18:15:00)
+> In man2html 1.6g, a filename can be created to overwrite the previous size parameter of the next chunk and the fd, bk, fd_nextsize, bk_nextsize of the current chunk. The next chunk is then freed later on, causing a freeing of an arbitrary amount of memory.
+- [Live-Hack-CVE/CVE-2021-40648](https://github.com/Live-Hack-CVE/CVE-2021-40648)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40648">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40648">
+
+---
+## CVE-2021-40647 (2022-09-09T18:15:00)
+> In man2html 1.6g, a specific string being read in from a file will overwrite the size parameter in the top chunk of the heap. This at least causes the program to segmentation abort if the heap size parameter isn't aligned correctly. In version before GLIBC version 2.29 and aligned correctly, it allows arbitrary write anywhere in the programs memory.
+- [Live-Hack-CVE/CVE-2021-40647](https://github.com/Live-Hack-CVE/CVE-2021-40647)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40647">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40647">
+
+---
 ## CVE-2021-4063 (2021-12-23T01:15:00)
 > Use after free in developer tools in Google Chrome prior to 96.0.4664.93 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
 - [Live-Hack-CVE/CVE-2021-4063](https://github.com/Live-Hack-CVE/CVE-2021-4063)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4063">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4063">
@@ -2538,6 +2548,11 @@
 - [Live-Hack-CVE/CVE-2021-38714](https://github.com/Live-Hack-CVE/CVE-2021-38714)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38714">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38714">
 
 ---
+## CVE-2021-38698 (2021-09-07T12:15:00)
+> HashiCorp Consul and Consul Enterprise 1.10.1 Txn.Apply endpoint allowed services to register proxies for other services, enabling access to service traffic. Fixed in 1.8.15, 1.9.9 and 1.10.2.
+- [Live-Hack-CVE/CVE-2021-38698](https://github.com/Live-Hack-CVE/CVE-2021-38698)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38698">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38698">
+
+---
 ## CVE-2021-38647 (2021-09-15T12:15:00)
 > Open Management Infrastructure Remote Code Execution Vulnerability
 - [Vulnmachines/OMIGOD_cve-2021-38647](https://github.com/Vulnmachines/OMIGOD_cve-2021-38647)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/OMIGOD_cve-2021-38647">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/OMIGOD_cve-2021-38647">
@@ -3213,6 +3228,16 @@
 ## CVE-2021-3623 (2022-03-02T23:15:00)
 > A flaw was found in libtpms. The flaw can be triggered by specially-crafted TPM 2 command packets containing illegal values and may lead to an out-of-bounds access when the volatile state of the TPM 2 is marshalled/written or unmarshalled/read. The highest threat from this vulnerability is to system availability.
 - [Live-Hack-CVE/CVE-2021-3623](https://github.com/Live-Hack-CVE/CVE-2021-3623)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3623">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3623">
+
+---
+## CVE-2021-36221 (2021-08-08T06:15:00)
+> Go before 1.15.15 and 1.16.x before 1.16.7 has a race condition that can lead to a net/http/httputil ReverseProxy panic upon an ErrAbortHandler abort.
+- [Live-Hack-CVE/CVE-2021-36221](https://github.com/Live-Hack-CVE/CVE-2021-36221)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36221">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36221">
+
+---
+## CVE-2021-36213 (2021-07-17T18:15:00)
+> HashiCorp Consul and Consul Enterprise 1.9.0 through 1.10.0 default deny policy with a single L7 application-aware intention deny action cancels out, causing the intention to incorrectly fail open, allowing L4 traffic. Fixed in 1.9.8 and 1.10.1.
+- [Live-Hack-CVE/CVE-2021-36213](https://github.com/Live-Hack-CVE/CVE-2021-36213)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36213">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36213">
 
 ---
 ## CVE-2021-3621 (2021-12-23T21:15:00)
@@ -4150,9 +4175,24 @@
 - [Live-Hack-CVE/CVE-2021-33235](https://github.com/Live-Hack-CVE/CVE-2021-33235)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33235">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33235">
 
 ---
+## CVE-2021-33198 (2021-08-02T19:15:00)
+> In Go before 1.15.13 and 1.16.x before 1.16.5, there can be a panic for a large exponent to the math/big.Rat SetString or UnmarshalText method.
+- [Live-Hack-CVE/CVE-2021-33198](https://github.com/Live-Hack-CVE/CVE-2021-33198)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33198">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33198">
+
+---
+## CVE-2021-33197 (2021-08-02T19:15:00)
+> In Go before 1.15.13 and 1.16.x before 1.16.5, some configurations of ReverseProxy (from net/http/httputil) result in a situation where an attacker is able to drop arbitrary headers.
+- [Live-Hack-CVE/CVE-2021-33197](https://github.com/Live-Hack-CVE/CVE-2021-33197)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33197">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33197">
+
+---
 ## CVE-2021-33196 (2021-08-02T19:15:00)
 > In archive/zip in Go before 1.15.13 and 1.16.x before 1.16.5, a crafted file count (in an archive's header) can cause a NewReader or OpenReader panic.
 - [Live-Hack-CVE/CVE-2021-33196](https://github.com/Live-Hack-CVE/CVE-2021-33196)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33196">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33196">
+
+---
+## CVE-2021-33195 (2021-08-02T19:15:00)
+> Go before 1.15.13 and 1.16.x before 1.16.5 has functions for DNS lookups that do not validate replies from DNS servers, and thus a return value may contain an unsafe injection (e.g., XSS) that does not conform to the RFC1035 format.
+- [Live-Hack-CVE/CVE-2021-33195](https://github.com/Live-Hack-CVE/CVE-2021-33195)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33195">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33195">
 
 ---
 ## CVE-2021-33193 (2021-08-16T08:15:00)
@@ -4613,6 +4653,17 @@
 - [Live-Hack-CVE/CVE-2021-31162](https://github.com/Live-Hack-CVE/CVE-2021-31162)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31162">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31162">
 
 ---
+## CVE-2021-3115 (2021-01-26T18:16:00)
+> Go before 1.14.14 and 1.15.x before 1.15.7 on Windows is vulnerable to Command Injection and remote code execution when using the "go get" command to fetch modules that make use of cgo (for example, cgo can execute a gcc program from an untrusted download).
+- [Live-Hack-CVE/CVE-2021-3115](https://github.com/Live-Hack-CVE/CVE-2021-3115)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3115">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3115">
+- [ricardojoserf/CVE-2021-31159](https://github.com/ricardojoserf/CVE-2021-31159)	<img alt="forks" src="https://img.shields.io/github/forks/ricardojoserf/CVE-2021-31159">	<img alt="stars" src="https://img.shields.io/github/stars/ricardojoserf/CVE-2021-31159">
+
+---
+## CVE-2021-3114 (2021-01-26T18:16:00)
+> In Go before 1.14.14 and 1.15.x before 1.15.7, crypto/elliptic/p224.go can generate incorrect outputs, related to an underflow of the lowest limb during the final complete reduction in the P-224 field.
+- [Live-Hack-CVE/CVE-2021-3114](https://github.com/Live-Hack-CVE/CVE-2021-3114)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3114">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3114">
+
+---
 ## CVE-2021-3100 (2022-04-19T23:15:00)
 > The Apache Log4j hotpatch package before log4j-cve-2021-44228-hotpatch-1.1-13 didn’t mimic the permissions of the JVM being patched, allowing it to escalate privileges.
 - [Live-Hack-CVE/CVE-2021-3100](https://github.com/Live-Hack-CVE/CVE-2021-3100)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3100">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3100">
@@ -4735,6 +4786,11 @@
 - [daedalus/CVE-2021-30461](https://github.com/daedalus/CVE-2021-30461)	<img alt="forks" src="https://img.shields.io/github/forks/daedalus/CVE-2021-30461">	<img alt="stars" src="https://img.shields.io/github/stars/daedalus/CVE-2021-30461">
 
 ---
+## CVE-2021-3024 (2021-02-01T16:15:00)
+> HashiCorp Vault and Vault Enterprise disclosed the internal IP address of the Vault node when responding to some invalid, unauthenticated HTTP requests. Fixed in 1.6.2 & 1.5.7.
+- [Live-Hack-CVE/CVE-2021-3024](https://github.com/Live-Hack-CVE/CVE-2021-3024)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3024">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3024">
+
+---
 ## CVE-2021-3020 (2022-08-26T00:15:00)
 > An issue was discovered in ClusterLabs Hawk (aka HA Web Konsole) through 2.3.0-15. It ships the binary hawk_invoke (built from tools/hawk_invoke.c), intended to be used as a setuid program. This allows the hacluster user to invoke certain commands as root (with an attempt to limit this to safe combinations). This user is able to execute an interactive "shell" that isn't limited to the commands specified in hawk_invoke, allowing escalation to root.
 - [Live-Hack-CVE/CVE-2021-3020](https://github.com/Live-Hack-CVE/CVE-2021-3020)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3020">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3020">
@@ -4796,6 +4852,11 @@
 > If Thunderbird was configured to use STARTTLS for an IMAP connection, and an attacker injected IMAP server responses prior to the completion of the STARTTLS handshake, then Thunderbird didn't ignore the injected data. This could have resulted in Thunderbird showing incorrect information, for example the attacker could have tricked Thunderbird to show folders that didn't exist on the IMAP server. This vulnerability affects Thunderbird < 78.12.
 - [Live-Hack-CVE/CVE-2021-29969](https://github.com/Live-Hack-CVE/CVE-2021-29969)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29969">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29969">
 - [Live-Hack-CVE/CVE-2021-29969](https://github.com/Live-Hack-CVE/CVE-2021-29969)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29969">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29969">
+
+---
+## CVE-2021-29923 (2021-08-07T17:15:00)
+> Go before 1.17 does not properly consider extraneous zero characters at the beginning of an IP address octet, which (in some situations) allows attackers to bypass access control that is based on IP addresses, because of unexpected octal interpretation. This affects net.ParseIP and net.ParseCIDR.
+- [Live-Hack-CVE/CVE-2021-29923](https://github.com/Live-Hack-CVE/CVE-2021-29923)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29923">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29923">
 
 ---
 ## CVE-2021-29768 (2022-06-24T16:15:00)

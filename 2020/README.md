@@ -1998,6 +1998,11 @@
 - [Live-Hack-CVE/CVE-2020-25596](https://github.com/Live-Hack-CVE/CVE-2020-25596)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25596">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25596">
 
 ---
+## CVE-2020-25594 (2021-02-01T16:15:00)
+> HashiCorp Vault and Vault Enterprise allowed for enumeration of Secrets Engine mount paths via unauthenticated HTTP requests. Fixed in 1.6.2 & 1.5.7.
+- [Live-Hack-CVE/CVE-2020-25594](https://github.com/Live-Hack-CVE/CVE-2020-25594)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25594">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25594">
+
+---
 ## CVE-2020-2559 (2020-01-15T17:15:00)
 > Vulnerability in the Siebel UI Framework product of Oracle Siebel CRM (component: UIF Open UI). Supported versions that are affected are 19.7 and prior. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Siebel UI Framework. Successful attacks of this vulnerability can result in unauthorized read access to a subset of Siebel UI Framework accessible data. CVSS 3.0 Base Score 5.3 (Confidentiality impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N).
 - [Live-Hack-CVE/CVE-2020-2559](https://github.com/Live-Hack-CVE/CVE-2020-2559)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2559">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2559">
@@ -2436,6 +2441,21 @@
 - [Live-Hack-CVE/CVE-2020-21675](https://github.com/Live-Hack-CVE/CVE-2020-21675)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-21675">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-21675">
 
 ---
+## CVE-2020-21652 (2021-10-06T22:15:00)
+> Myucms v2.2.1 contains a remote code execution (RCE) vulnerability in the component \controller\Config.php, which can be exploited via the addqq() method.
+- [Live-Hack-CVE/CVE-2020-21652](https://github.com/Live-Hack-CVE/CVE-2020-21652)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-21652">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-21652">
+
+---
+## CVE-2020-21651 (2021-10-06T22:15:00)
+> Myucms v2.2.1 contains a remote code execution (RCE) vulnerability in the component \controller\point.php, which can be exploited via the add() method.
+- [Live-Hack-CVE/CVE-2020-21651](https://github.com/Live-Hack-CVE/CVE-2020-21651)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-21651">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-21651">
+
+---
+## CVE-2020-21650 (2021-10-06T22:15:00)
+> Myucms v2.2.1 contains a remote code execution (RCE) vulnerability in the component \controller\Config.php, which can be exploited via the add() method.
+- [Live-Hack-CVE/CVE-2020-21650](https://github.com/Live-Hack-CVE/CVE-2020-21650)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-21650">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-21650">
+
+---
 ## CVE-2020-21599 (2021-09-16T22:15:00)
 > libde265 v1.0.4 contains a heap buffer overflow in the de265_image::available_zscan function, which can be exploited via a crafted a file.
 - [Live-Hack-CVE/CVE-2020-21599](https://github.com/Live-Hack-CVE/CVE-2020-21599)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-21599">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-21599">
@@ -2492,6 +2512,16 @@
 - [Live-Hack-CVE/CVE-2020-20907](https://github.com/Live-Hack-CVE/CVE-2020-20907)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-20907">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-20907">
 
 ---
+## CVE-2020-20746 (2021-09-30T21:15:00)
+> A stack-based buffer overflow in the httpd server on Tenda AC9 V15.03.06.60_EN allows remote attackers to execute arbitrary code or cause a denial of service (DoS) via a crafted POST request to /goform/SetStaticRouteCfg.
+- [Live-Hack-CVE/CVE-2020-20746](https://github.com/Live-Hack-CVE/CVE-2020-20746)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-20746">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-20746">
+
+---
+## CVE-2020-20665 (2021-09-30T17:15:00)
+> rudp v0.6 was discovered to contain a memory leak in the component main.c.
+- [Live-Hack-CVE/CVE-2020-20665](https://github.com/Live-Hack-CVE/CVE-2020-20665)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-20665">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-20665">
+
+---
 ## CVE-2020-20589 (2022-12-15T19:15:00)
 > Cross Site Scripting (XSS) vulnerability in FeehiCMS 2.0.8 allows remote attackers to run arbitrary code via tha lang attribute of an html tag.
 - [Live-Hack-CVE/CVE-2020-20589](https://github.com/Live-Hack-CVE/CVE-2020-20589)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-20589">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-20589">
@@ -2541,6 +2571,11 @@
 > Mikrotik RouterOs 6.44.5 (long-term tree) suffers from an stack exhaustion vulnerability in the /nova/bin/net process. An authenticated remote attacker can cause a Denial of Service due to overloading the systems CPU.
 - [Live-Hack-CVE/CVE-2020-20213](https://github.com/Live-Hack-CVE/CVE-2020-20213)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-20213">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-20213">
 - [Live-Hack-CVE/CVE-2020-20213](https://github.com/Live-Hack-CVE/CVE-2020-20213)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-20213">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-20213">
+
+---
+## CVE-2020-20124 (2021-09-28T23:15:00)
+> Wuzhi CMS v4.1.0 contains a remote code execution (RCE) vulnerability in \attachment\admin\index.php.
+- [Live-Hack-CVE/CVE-2020-20124](https://github.com/Live-Hack-CVE/CVE-2020-20124)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-20124">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-20124">
 
 ---
 ## CVE-2020-19907 (2021-07-12T20:15:00)
@@ -2638,6 +2673,11 @@
 ## CVE-2020-19111 (2021-05-06T13:15:00)
 > Incorrect Access Control vulnerability in Online Book Store v1.0 via admin_verify.php, which could let a remote mailicious user bypass authentication and obtain sensitive information.
 - [Live-Hack-CVE/CVE-2020-19111](https://github.com/Live-Hack-CVE/CVE-2020-19111)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-19111">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-19111">
+
+---
+## CVE-2020-19003 (2021-10-06T13:15:00)
+> An issue in Gate One 1.2.0 allows attackers to bypass to the verification check done by the origins list and connect to Gate One instances used by hosts not on the origins list.
+- [Live-Hack-CVE/CVE-2020-19003](https://github.com/Live-Hack-CVE/CVE-2020-19003)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-19003">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-19003">
 
 ---
 ## CVE-2020-18731 (2021-08-23T21:15:00)
