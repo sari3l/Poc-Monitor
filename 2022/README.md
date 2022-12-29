@@ -11225,6 +11225,11 @@
 - [Live-Hack-CVE/CVE-2022-3878](https://github.com/Live-Hack-CVE/CVE-2022-3878)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3878">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3878">
 
 ---
+## CVE-2022-38772 (2022-08-29T21:15:00)
+> Zoho ManageEngine OpManager, OpManager Plus, OpManager MSP, Network Configuration Manager, NetFlow Analyzer, and OpUtils before 125658, 126003, 126105, and 126120 allow authenticated users to make database changes that lead to remote code execution in the NMAP feature.
+- [Live-Hack-CVE/CVE-2022-38772](https://github.com/Live-Hack-CVE/CVE-2022-38772)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38772">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38772">
+
+---
 ## CVE-2022-38771 (2022-09-13T23:15:00)
 > The mobile application in Transtek Mojodat FAM (Fixed Asset Management) 2.4.6 allows remote attackers to send SCRIPT tags as injected input to the API request.
 - [Live-Hack-CVE/CVE-2022-38771](https://github.com/Live-Hack-CVE/CVE-2022-38771)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38771">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38771">
@@ -11434,6 +11439,11 @@
 > Hospital Management System v1.0 was discovered to contain multiple SQL injection vulnerabilities via the Username and Password parameters on the Login page.
 - [Live-Hack-CVE/CVE-2022-38637](https://github.com/Live-Hack-CVE/CVE-2022-38637)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38637">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38637">
 - [Live-Hack-CVE/CVE-2022-38637](https://github.com/Live-Hack-CVE/CVE-2022-38637)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38637">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38637">
+
+---
+## CVE-2022-38625 (2022-08-29T23:15:00)
+> ** DISPUTED ** Patlite NH-FB v1.46 and below was discovered to contain insufficient firmware validation during the upgrade firmware file upload process. This vulnerability allows authenticated attackers to create and upload their own custom-built firmware and inject malicious code. NOTE: the vendor's position is that this is a design choice, not a vulnerability.
+- [Live-Hack-CVE/CVE-2022-38625](https://github.com/Live-Hack-CVE/CVE-2022-38625)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38625">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38625">
 
 ---
 ## CVE-2022-38621 (2022-09-16T19:15:00)
@@ -14447,6 +14457,21 @@
 - [Live-Hack-CVE/CVE-2022-36678](https://github.com/Live-Hack-CVE/CVE-2022-36678)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36678">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36678">
 
 ---
+## CVE-2022-36676 (2022-09-01T03:15:00)
+> Simple Task Scheduling System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /categories/view_category.php.
+- [Live-Hack-CVE/CVE-2022-36676](https://github.com/Live-Hack-CVE/CVE-2022-36676)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36676">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36676">
+
+---
+## CVE-2022-36675 (2022-09-01T03:15:00)
+> Simple Task Scheduling System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /schedules/manage_schedule.php.
+- [Live-Hack-CVE/CVE-2022-36675](https://github.com/Live-Hack-CVE/CVE-2022-36675)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36675">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36675">
+
+---
+## CVE-2022-36674 (2022-09-01T03:15:00)
+> Simple Task Scheduling System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /schedules/view_schedule.php.
+- [Live-Hack-CVE/CVE-2022-36674](https://github.com/Live-Hack-CVE/CVE-2022-36674)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36674">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36674">
+
+---
 ## CVE-2022-36672 (2022-09-01T03:15:00)
 > Novel-Plus v3.6.2 was discovered to contain a hard-coded JWT key located in the project config file. This vulnerability allows attackers to create a custom user session.
 - [Live-Hack-CVE/CVE-2022-36672](https://github.com/Live-Hack-CVE/CVE-2022-36672)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36672">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36672">
@@ -14687,10 +14712,40 @@
 - [Live-Hack-CVE/CVE-2022-36564](https://github.com/Live-Hack-CVE/CVE-2022-36564)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36564">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36564">
 
 ---
+## CVE-2022-36560 (2022-08-29T23:15:00)
+> Seiko SkyBridge MB-A200 v01.00.04 and below was discovered to contain multiple hard-coded passcodes for root. Attackers are able to access the passcodes at /etc/srapi/config/system.conf and /usr/sbin/ssol-sshd.sh.
+- [Live-Hack-CVE/CVE-2022-36560](https://github.com/Live-Hack-CVE/CVE-2022-36560)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36560">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36560">
+
+---
 ## CVE-2022-3656 (2022-11-01T23:15:00)
 > Insufficient data validation in File System in Google Chrome prior to 107.0.5304.62 allowed a remote attacker to bypass file system restrictions via a crafted HTML page. (Chromium security severity: Medium)
 - [Live-Hack-CVE/CVE-2022-3656](https://github.com/Live-Hack-CVE/CVE-2022-3656)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3656">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3656">
 - [Live-Hack-CVE/CVE-2022-3656](https://github.com/Live-Hack-CVE/CVE-2022-3656)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3656">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3656">
+
+---
+## CVE-2022-36559 (2022-08-29T23:15:00)
+> Seiko SkyBridge MB-A200 v01.00.04 and below was discovered to contain a command injection vulnerability via the Ping parameter at ping_exec.cgi.
+- [Live-Hack-CVE/CVE-2022-36559](https://github.com/Live-Hack-CVE/CVE-2022-36559)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36559">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36559">
+
+---
+## CVE-2022-36558 (2022-08-29T23:15:00)
+> Seiko SkyBridge MB-A100/A110 v4.2.0 and below implements a hard-coded passcode for the root account. Attackers are able to access the passcord via the file /etc/ciel.cfg.
+- [Live-Hack-CVE/CVE-2022-36558](https://github.com/Live-Hack-CVE/CVE-2022-36558)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36558">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36558">
+
+---
+## CVE-2022-36557 (2022-08-29T23:15:00)
+> Seiko SkyBridge MB-A100/A110 v4.2.0 and below was discovered to contain an arbitrary file upload vulnerability via the restore backup function. This vulnerability allows attackers to execute arbitrary code via a crafted html file.
+- [Live-Hack-CVE/CVE-2022-36557](https://github.com/Live-Hack-CVE/CVE-2022-36557)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36557">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36557">
+
+---
+## CVE-2022-36556 (2022-08-29T23:15:00)
+> Seiko SkyBridge MB-A100/A110 v4.2.0 and below was discovered to contain a command injection vulnerability via the ipAddress parameter at 07system08execute_ping_01.
+- [Live-Hack-CVE/CVE-2022-36556](https://github.com/Live-Hack-CVE/CVE-2022-36556)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36556">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36556">
+
+---
+## CVE-2022-36553 (2022-08-29T23:15:00)
+> Hytec Inter HWL-2511-SS v1.05 and below was discovered to contain a command injection vulnerability via the component /www/cgi-bin/popen.cgi.
+- [Live-Hack-CVE/CVE-2022-36553](https://github.com/Live-Hack-CVE/CVE-2022-36553)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36553">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36553">
 
 ---
 ## CVE-2022-3655 (2022-11-01T23:15:00)
@@ -15227,6 +15282,7 @@
 ## CVE-2022-36200 (2022-08-29T15:15:00)
 > In FiberHome VDSL2 Modem HG150-Ub_V3.0, Credentials of Admin are submitted in URL, which can be logged/sniffed.
 - [afaq1337/CVE-2022-36200](https://github.com/afaq1337/CVE-2022-36200)	<img alt="forks" src="https://img.shields.io/github/forks/afaq1337/CVE-2022-36200">	<img alt="stars" src="https://img.shields.io/github/stars/afaq1337/CVE-2022-36200">
+- [Live-Hack-CVE/CVE-2022-36200](https://github.com/Live-Hack-CVE/CVE-2022-36200)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36200">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36200">
 
 ---
 ## CVE-2022-3619 (2022-10-20T20:15:00)
@@ -15344,6 +15400,16 @@
 ## CVE-2022-36122 (2022-10-21T12:15:00)
 > The Automox Agent before 40 on Windows incorrectly sets permissions on key files.
 - [Live-Hack-CVE/CVE-2022-36122](https://github.com/Live-Hack-CVE/CVE-2022-36122)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36122">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36122">
+
+---
+## CVE-2022-36116 (2022-08-25T23:15:00)
+> An issue was discovered in Blue Prism Enterprise 6.0 through 7.01. In a misconfigured environment that exposes the Blue Prism Application server, it is possible for an authenticated user to reverse engineer the Blue Prism software and circumvent access controls for the setValidationInfo administrative function. Removing the validation applied to newly designed processes increases the chance of successfully hiding malicious code that could be executed in a production environment.
+- [Live-Hack-CVE/CVE-2022-36116](https://github.com/Live-Hack-CVE/CVE-2022-36116)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36116">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36116">
+
+---
+## CVE-2022-36115 (2022-08-25T23:15:00)
+> An issue was discovered in Blue Prism Enterprise 6.0 through 7.01. In a misconfigured environment that exposes the Blue Prism Application server, it is possible for an authenticated user to reverse engineer the Blue Prism software and circumvent access controls for unintended functionality. An attacker can abuse the CreateProcessAutosave() method to inject their own functionality into a development process. If (upon a warning) a user decides to recover unsaved work by using the last saved version, the malicious code could enter the workflow. Should the process action stages not be fully reviewed before publishing, this could result in the malicious code being run in a production environment.
+- [Live-Hack-CVE/CVE-2022-36115](https://github.com/Live-Hack-CVE/CVE-2022-36115)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36115">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36115">
 
 ---
 ## CVE-2022-36111 (2022-11-23T18:15:00)
@@ -17657,6 +17723,11 @@
 - [Live-Hack-CVE/CVE-2022-34378](https://github.com/Live-Hack-CVE/CVE-2022-34378)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34378">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34378">
 
 ---
+## CVE-2022-34374 (2022-08-30T21:15:00)
+> Dell Container Storage Modules 1.2 contains an OS command injection in goiscsi and gobrick libraries. A remote authenticated malicious user with low privileges could exploit this vulnerability leading to to execute arbitrary OS commands on the affected system.
+- [Live-Hack-CVE/CVE-2022-34374](https://github.com/Live-Hack-CVE/CVE-2022-34374)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34374">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34374">
+
+---
 ## CVE-2022-34372 (2022-09-01T19:15:00)
 > Dell PowerProtect Cyber Recovery versions before 19.11.0.2 contain an authentication bypass vulnerability. A remote unauthenticated attacker may potentially access and interact with the docker registry API leading to an authentication bypass. The attacker may potentially alter the docker images leading to a loss of integrity and confidentiality
 - [Live-Hack-CVE/CVE-2022-34372](https://github.com/Live-Hack-CVE/CVE-2022-34372)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34372">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34372">
@@ -19720,6 +19791,7 @@
 ## CVE-2022-31798 (2022-08-25T23:15:00)
 > Nortek Linear eMerge E3-Series 0.32-07p devices are vulnerable to /card_scan.php?CardFormatNo= XSS with session fixation (via PHPSESSID) when they are chained together. This would allow an attacker to take over an admin account or a user account.
 - [omarhashem123/CVE-2022-31798](https://github.com/omarhashem123/CVE-2022-31798)	<img alt="forks" src="https://img.shields.io/github/forks/omarhashem123/CVE-2022-31798">	<img alt="stars" src="https://img.shields.io/github/stars/omarhashem123/CVE-2022-31798">
+- [Live-Hack-CVE/CVE-2022-31798](https://github.com/Live-Hack-CVE/CVE-2022-31798)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31798">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31798">
 
 ---
 ## CVE-2022-31793 (2022-08-04T22:15:00)
@@ -20018,6 +20090,7 @@
 ## CVE-2022-31499 (2022-08-25T23:15:00)
 > Nortek Linear eMerge E3-Series devices before 0.32-08f allow an unauthenticated attacker to inject OS commands via ReaderNo. NOTE: this issue exists because of an incomplete fix for CVE-2019-7256.
 - [omarhashem123/CVE-2022-31499](https://github.com/omarhashem123/CVE-2022-31499)	<img alt="forks" src="https://img.shields.io/github/forks/omarhashem123/CVE-2022-31499">	<img alt="stars" src="https://img.shields.io/github/stars/omarhashem123/CVE-2022-31499">
+- [Live-Hack-CVE/CVE-2022-31499](https://github.com/Live-Hack-CVE/CVE-2022-31499)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31499">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31499">
 
 ---
 ## CVE-2022-3149 (2022-10-17T12:15:00)
@@ -20151,6 +20224,7 @@
 > Nortek Linear eMerge E3-Series devices through 0.32-09c place admin credentials in /test.txt that allow an attacker to open a building's doors. (This occurs in situations where the CVE-2019-7271 default credentials have been changed.)
 - [Henry4E36/CVE-2022-31269](https://github.com/Henry4E36/CVE-2022-31269)	<img alt="forks" src="https://img.shields.io/github/forks/Henry4E36/CVE-2022-31269">	<img alt="stars" src="https://img.shields.io/github/stars/Henry4E36/CVE-2022-31269">
 - [omarhashem123/CVE-2022-31269](https://github.com/omarhashem123/CVE-2022-31269)	<img alt="forks" src="https://img.shields.io/github/forks/omarhashem123/CVE-2022-31269">	<img alt="stars" src="https://img.shields.io/github/stars/omarhashem123/CVE-2022-31269">
+- [Live-Hack-CVE/CVE-2022-31269](https://github.com/Live-Hack-CVE/CVE-2022-31269)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31269">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31269">
 
 ---
 ## CVE-2022-31262 (2022-08-17T15:15:00)
@@ -20673,6 +20747,11 @@
 ## CVE-2022-3073 (2022-12-14T09:15:00)
 > Quanos "SCHEMA ST4" example web templates in version Bootstrap 2019 v2/2021 v1/2022 v1/2022 SP1 v1 or below are prone to JavaScript injection allowing a remote attacker to hijack existing sessions to e.g. other web services in the same environment or execute scripts in the users browser environment. The affected script is '*-schema.js'.
 - [Live-Hack-CVE/CVE-2022-3073](https://github.com/Live-Hack-CVE/CVE-2022-3073)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3073">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3073">
+
+---
+## CVE-2022-3072 (2022-09-01T08:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository francoisjacquet/rosariosis prior to 8.9.3.
+- [Live-Hack-CVE/CVE-2022-3072](https://github.com/Live-Hack-CVE/CVE-2022-3072)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3072">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3072">
 
 ---
 ## CVE-2022-3071 (2022-09-26T16:15:00)
@@ -21507,6 +21586,15 @@
 ## CVE-2022-29612 (2022-06-14T17:15:00)
 > SAP NetWeaver, ABAP Platform and SAP Host Agent - versions KERNEL 7.22, 7.49, 7.53, 7.77, 7.81, 7.85, 7.86, 7.87, 7.88, 8.04, KRNL64NUC 7.22, 7.22EXT, 7.49, KRNL64UC 7.22, 7.22EXT, 7.49, 7.53, 8.04, SAPHOSTAGENT 7.22, allows an authenticated user to misuse a function of sapcontrol webfunctionality(startservice) in Kernel which enables malicious users to retrieve information. On successful exploitation, an attacker can obtain technical information like system number or physical address, which is otherwise restricted, causing a limited impact on the confidentiality of the application.
 - [Live-Hack-CVE/CVE-2022-29612](https://github.com/Live-Hack-CVE/CVE-2022-29612)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29612">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29612">
+
+---
+## CVE-2022-2961 (2022-08-29T15:15:00)
+> A use-after-free flaw was found in the Linux kernel’s PLP Rose functionality in the way a user triggers a race condition by calling bind while simultaneously triggering the rose_bind() function. This flaw allows a local user to crash or potentially escalate their privileges on the system.
+- [Live-Hack-CVE/CVE-2022-2961](https://github.com/Live-Hack-CVE/CVE-2022-2961)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2961">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2961">
+- [Live-Hack-CVE/CVE-2022-29617](https://github.com/Live-Hack-CVE/CVE-2022-29617)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29617">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29617">
+- [Live-Hack-CVE/CVE-2022-29611](https://github.com/Live-Hack-CVE/CVE-2022-29611)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29611">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29611">
+- [Live-Hack-CVE/CVE-2022-29612](https://github.com/Live-Hack-CVE/CVE-2022-29612)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29612">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29612">
+- [Live-Hack-CVE/CVE-2022-29614](https://github.com/Live-Hack-CVE/CVE-2022-29614)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29614">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29614">
 
 ---
 ## CVE-2022-29599 (2022-05-23T11:16:00)
@@ -23136,6 +23224,21 @@
 ## CVE-2022-2655 (2022-09-16T09:15:00)
 > The Classified Listing Pro WordPress plugin before 2.0.20 does not escape a generated URL before outputting it back in an attribute in an admin page, leading to a Reflected Cross-Site Scripting
 - [Live-Hack-CVE/CVE-2022-2655](https://github.com/Live-Hack-CVE/CVE-2022-2655)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2655">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2655">
+
+---
+## CVE-2022-26529 (2022-08-30T05:15:00)
+> Realtek Linux/Android Bluetooth Mesh SDK has a buffer overflow vulnerability due to insufficient validation for segmented packets’ link parameter. An unauthenticated attacker in the adjacent network can exploit this vulnerability to cause buffer overflow and disrupt service.
+- [Live-Hack-CVE/CVE-2022-26529](https://github.com/Live-Hack-CVE/CVE-2022-26529)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26529">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26529">
+
+---
+## CVE-2022-26528 (2022-08-30T05:15:00)
+> Realtek Linux/Android Bluetooth Mesh SDK has a buffer overflow vulnerability due to insufficient validation for the length of segmented packets’ shift parameter. An unauthenticated attacker in the adjacent network can exploit this vulnerability to cause buffer overflow and disrupt service.
+- [Live-Hack-CVE/CVE-2022-26528](https://github.com/Live-Hack-CVE/CVE-2022-26528)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26528">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26528">
+
+---
+## CVE-2022-26527 (2022-08-30T05:15:00)
+> Realtek Linux/Android Bluetooth Mesh SDK has a buffer overflow vulnerability due to insufficient validation for the size of segmented packets’ reference parameter. An unauthenticated attacker in the adjacent network can exploit this vulnerability to cause buffer overflow and disrupt service.
+- [Live-Hack-CVE/CVE-2022-26527](https://github.com/Live-Hack-CVE/CVE-2022-26527)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26527">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26527">
 
 ---
 ## CVE-2022-26520 (2022-03-10T17:47:00)
@@ -28410,6 +28513,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1232 (2022-07-25T14:15:00)
 > Type confusion in V8 in Google Chrome prior to 100.0.4896.75 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
 - [Live-Hack-CVE/CVE-2022-1232](https://github.com/Live-Hack-CVE/CVE-2022-1232)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1232">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1232">
+
+---
+## CVE-2022-1204 (2022-08-29T15:15:00)
+> A use-after-free flaw was found in the Linux kernel’s Amateur Radio AX.25 protocol functionality in the way a user connects with the protocol. This flaw allows a local user to crash the system.
+- [Live-Hack-CVE/CVE-2022-1204](https://github.com/Live-Hack-CVE/CVE-2022-1204)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1204">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1204">
 
 ---
 ## CVE-2022-1198 (2022-08-29T15:15:00)

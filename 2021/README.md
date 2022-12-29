@@ -2531,6 +2531,11 @@
 - [Live-Hack-CVE/CVE-2021-38946](https://github.com/Live-Hack-CVE/CVE-2021-38946)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38946">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38946">
 
 ---
+## CVE-2021-38934 (2022-08-29T21:15:00)
+> IBM Engineering Test Management 7.0, 7.0.1, and 7.0.2 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 210671.
+- [Live-Hack-CVE/CVE-2021-38934](https://github.com/Live-Hack-CVE/CVE-2021-38934)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38934">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38934">
+
+---
 ## CVE-2021-38924 (2022-09-14T17:15:00)
 > IBM Maximo Asset Management 7.6.1.1 and 7.6.1.2 could allow a remote attacker to obtain sensitive information when a detailed technical error message is returned in the browser. This information could be used in further attacks against the system. IBM X-Force ID: 210163.
 - [Live-Hack-CVE/CVE-2021-38924](https://github.com/Live-Hack-CVE/CVE-2021-38924)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38924">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38924">
@@ -3230,6 +3235,11 @@
 ## CVE-2021-36278 (2021-08-16T22:15:00)
 > Dell EMC PowerScale OneFS versions 8.2.x, 9.1.0.x, and 9.1.1.1 contain a sensitive information exposure vulnerability in log files. A local malicious user with ISI_PRIV_LOGIN_SSH, ISI_PRIV_LOGIN_CONSOLE, or ISI_PRIV_SYS_SUPPORT privileges may exploit this vulnerability to access sensitive information. If any third-party consumes those logs, the same sensitive information is available to those systems as well.
 - [Live-Hack-CVE/CVE-2021-36278](https://github.com/Live-Hack-CVE/CVE-2021-36278)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36278">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36278">
+
+---
+## CVE-2021-36277 (2021-08-09T21:15:00)
+> Dell Command | Update, Dell Update, and Alienware Update versions before 4.3 contains an Improper Verification of Cryptographic Signature Vulnerability. A local authenticated malicious user may exploit this vulnerability by executing arbitrary code on the system.
+- [Live-Hack-CVE/CVE-2021-36277](https://github.com/Live-Hack-CVE/CVE-2021-36277)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36277">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36277">
 
 ---
 ## CVE-2021-36260 (2021-09-22T13:15:00)
@@ -4882,6 +4892,11 @@
 ## CVE-2021-29923 (2021-08-07T17:15:00)
 > Go before 1.17 does not properly consider extraneous zero characters at the beginning of an IP address octet, which (in some situations) allows attackers to bypass access control that is based on IP addresses, because of unexpected octal interpretation. This affects net.ParseIP and net.ParseCIDR.
 - [Live-Hack-CVE/CVE-2021-29923](https://github.com/Live-Hack-CVE/CVE-2021-29923)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29923">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29923">
+
+---
+## CVE-2021-29864 (2022-08-30T19:15:00)
+> IBM Security Identity Manager 6.0 and 6.0.2 could allow a remote attacker to conduct phishing attacks, using an open redirect attack. By persuading a victim to visit a specially crafted Web site, a remote attacker could exploit this vulnerability to spoof the URL displayed to redirect a user to a malicious Web site that would appear to be trusted. This could allow the attacker to obtain highly sensitive information or conduct further attacks against the victim. IBM X-Force ID: 206089
+- [Live-Hack-CVE/CVE-2021-29864](https://github.com/Live-Hack-CVE/CVE-2021-29864)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29864">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29864">
 
 ---
 ## CVE-2021-29768 (2022-06-24T16:15:00)
