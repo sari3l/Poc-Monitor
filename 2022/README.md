@@ -4995,6 +4995,11 @@
 - [Live-Hack-CVE/CVE-2022-42716](https://github.com/Live-Hack-CVE/CVE-2022-42716)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42716">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42716">
 
 ---
+## CVE-2022-42715 (2022-10-12T13:15:00)
+> A reflected XSS vulnerability exists in REDCap before 12.04.18 in the Alerts & Notifications upload feature. A crafted CSV file will, when uploaded, trigger arbitrary JavaScript code execution.
+- [Live-Hack-CVE/CVE-2022-42715](https://github.com/Live-Hack-CVE/CVE-2022-42715)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42715">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42715">
+
+---
 ## CVE-2022-42711 (2022-10-12T01:15:00)
 > In Progress WhatsUp Gold before 22.1.0, an SNMP MIB Walker application endpoint failed to adequately sanitize malicious input. This could allow an unauthenticated attacker to execute arbitrary code in a victim's browser.
 - [Live-Hack-CVE/CVE-2022-42711](https://github.com/Live-Hack-CVE/CVE-2022-42711)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42711">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42711">
@@ -6773,6 +6778,11 @@
 - [Live-Hack-CVE/CVE-2022-41481](https://github.com/Live-Hack-CVE/CVE-2022-41481)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41481">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41481">
 
 ---
+## CVE-2022-41473 (2022-10-13T14:15:00)
+> RPCMS v3.0.2 was discovered to contain a reflected cross-site scripting (XSS) vulnerability in the Search function.
+- [Live-Hack-CVE/CVE-2022-41473](https://github.com/Live-Hack-CVE/CVE-2022-41473)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41473">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41473">
+
+---
 ## CVE-2022-41472 (2022-10-17T14:15:00)
 > 74cmsSE v3.12.0 was discovered to contain a cross-site scripting (XSS) vulnerability via the component /apiadmin/notice/add. This vulnerability allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Title field.
 - [Live-Hack-CVE/CVE-2022-41472](https://github.com/Live-Hack-CVE/CVE-2022-41472)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41472">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41472">
@@ -8138,6 +8148,11 @@
 - [Live-Hack-CVE/CVE-2022-40632](https://github.com/Live-Hack-CVE/CVE-2022-40632)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40632">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40632">
 
 ---
+## CVE-2022-40631 (2022-10-11T11:15:00)
+> A vulnerability has been identified in SCALANCE X200-4P IRT (All versions < V5.5.0), SCALANCE X201-3P IRT (All versions < V5.5.0), SCALANCE X201-3P IRT PRO (All versions < V5.5.0), SCALANCE X202-2IRT (All versions < V5.5.0), SCALANCE X202-2P IRT (All versions < V5.5.0), SCALANCE X202-2P IRT PRO (All versions < V5.5.0), SCALANCE X204-2 (All versions < V5.2.5), SCALANCE X204-2FM (All versions < V5.2.5), SCALANCE X204-2LD (All versions < V5.2.5), SCALANCE X204-2LD TS (All versions < V5.2.5), SCALANCE X204-2TS (All versions < V5.2.5), SCALANCE X204IRT (All versions < V5.5.0), SCALANCE X204IRT PRO (All versions < V5.5.0), SCALANCE X206-1 (All versions < V5.2.5), SCALANCE X206-1LD (All versions < V5.2.5), SCALANCE X208 (All versions < V5.2.5), SCALANCE X208PRO (All versions < V5.2.5), SCALANCE X212-2 (All versions < V5.2.5), SCALANCE X212-2LD (All versions < V5.2.5), SCALANCE X216 (All versions < V5.2.5), SCALANCE X224 (All versions < V5.2.5), SCALANCE XF201-3P IRT (All versions < V5.5.0), SCALANCE XF202-2P IRT (All versions < V5.5.0), SCALANCE XF204 (All versions < V5.2.5), SCALANCE XF204-2 (All versions < V5.2.5), SCALANCE XF204-2BA IRT (All versions < V5.5.0), SCALANCE XF204IRT (All versions < V5.5.0), SCALANCE XF206-1 (All versions < V5.2.5), SCALANCE XF208 (All versions < V5.2.5), SIPLUS NET SCALANCE X202-2P IRT (All versions < V5.5.0). There is a cross-site scripting vulnerability on the affected devices, that if used by a threat actor, it could result in session hijacking.
+- [Live-Hack-CVE/CVE-2022-40631](https://github.com/Live-Hack-CVE/CVE-2022-40631)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40631">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40631">
+
+---
 ## CVE-2022-40630 (2022-09-23T19:15:00)
 > This vulnerability exists in Tacitine Firewall, all versions of EN6200-PRIME QUAD-35 and EN6200-PRIME QUAD-100 between 19.1.1 to 22.20.1 (inclusive), due to improper session management in the Tacitine Firewall web-based management interface. An unauthenticated remote attacker could exploit this vulnerability by sending a specially crafted http request on the targeted device. Successful exploitation of this vulnerability could allow an unauthenticated remote attacker to perform session fixation on the targeted device.
 - [Live-Hack-CVE/CVE-2022-40630](https://github.com/Live-Hack-CVE/CVE-2022-40630)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40630">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40630">
@@ -8462,6 +8477,11 @@
 ## CVE-2022-40233 (2022-12-23T19:15:00)
 > IBM AIX 7.1, 7.2, 7.3, and VIOS 3.1 could allow a non-privileged local user to exploit a vulnerability in the AIX TCP/IP kernel extension to cause a denial of service. IBM X-Force ID: 235599.
 - [Live-Hack-CVE/CVE-2022-40233](https://github.com/Live-Hack-CVE/CVE-2022-40233)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40233">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40233">
+
+---
+## CVE-2022-40227 (2022-10-11T11:15:00)
+> A vulnerability has been identified in SIMATIC HMI Comfort Panels (incl. SIPLUS variants) (All versions < V17 Update 4), SIMATIC HMI KTP Mobile Panels (All versions < V17 Update 4), SIMATIC HMI KTP1200 Basic (All versions < V17 Update 5), SIMATIC HMI KTP400 Basic (All versions < V17 Update 5), SIMATIC HMI KTP700 Basic (All versions < V17 Update 5), SIMATIC HMI KTP900 Basic (All versions < V17 Update 5), SIPLUS HMI KTP1200 BASIC (All versions < V17 Update 5), SIPLUS HMI KTP400 BASIC (All versions < V17 Update 5), SIPLUS HMI KTP700 BASIC (All versions < V17 Update 5), SIPLUS HMI KTP900 BASIC (All versions < V17 Update 5). Affected devices do not properly validate input sent to certain services over TCP. This could allow an unauthenticated remote attacker to cause a permanent denial of service condition (requiring a device reboot) by sending specially crafted TCP packets.
+- [Live-Hack-CVE/CVE-2022-40227](https://github.com/Live-Hack-CVE/CVE-2022-40227)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40227">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40227">
 
 ---
 ## CVE-2022-40226 (2022-10-11T11:15:00)
@@ -14691,6 +14711,11 @@
 - [Live-Hack-CVE/CVE-2022-35085](https://github.com/Live-Hack-CVE/CVE-2022-35085)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35085">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35085">
 
 ---
+## CVE-2022-35081 (2022-10-13T12:15:00)
+> SWFTools commit 772e55a2 was discovered to contain a heap-buffer overflow via png_read_header at /src/png2swf.c.
+- [Live-Hack-CVE/CVE-2022-35081](https://github.com/Live-Hack-CVE/CVE-2022-35081)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35081">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35081">
+
+---
 ## CVE-2022-35080 (2022-10-13T12:15:00)
 > SWFTools commit 772e55a2 was discovered to contain a heap-buffer overflow via png_load at /lib/png.c.
 - [Live-Hack-CVE/CVE-2022-35080](https://github.com/Live-Hack-CVE/CVE-2022-35080)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35080">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35080">
@@ -15258,6 +15283,11 @@
 ## CVE-2022-34648 (2022-08-23T16:15:00)
 > Authenticated (author+) Stored Cross-Site Scripting (XSS) vulnerability in dmitrylitvinov Uploading SVG, WEBP and ICO files plugin <= 1.0.1 at WordPress.
 - [Live-Hack-CVE/CVE-2022-34648](https://github.com/Live-Hack-CVE/CVE-2022-34648)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34648">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34648">
+
+---
+## CVE-2022-3464 (2022-10-12T10:15:00)
+> A vulnerability classified as problematic has been found in puppyCMS up to 5.1. This affects an unknown part of the file /admin/settings.php. The manipulation of the argument site_name leads to cross site scripting. It is possible to initiate the attack remotely. The associated identifier of this vulnerability is VDB-210699.
+- [Live-Hack-CVE/CVE-2022-3464](https://github.com/Live-Hack-CVE/CVE-2022-3464)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3464">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3464">
 
 ---
 ## CVE-2022-3463 (2022-11-07T10:15:00)
@@ -17249,6 +17279,11 @@
 ## CVE-2022-31773 (2022-08-26T18:15:00)
 > IBM DataPower Gateway V10CD, 10.0.1, and 2018.4.1 is vulnerable to cross-site request forgery which could allow an attacker to execute malicious and unauthorized actions transmitted from a user that the website trusts. IBM X-Force ID: 228357.
 - [Live-Hack-CVE/CVE-2022-31773](https://github.com/Live-Hack-CVE/CVE-2022-31773)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31773">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31773">
+
+---
+## CVE-2022-31766 (2022-10-11T11:15:00)
+> A vulnerability has been identified in RUGGEDCOM RM1224 LTE(4G) EU (All versions < V7.1.2), RUGGEDCOM RM1224 LTE(4G) NAM (All versions < V7.1.2), SCALANCE M804PB (All versions < V7.1.2), SCALANCE M812-1 ADSL-Router (Annex A) (All versions < V7.1.2), SCALANCE M812-1 ADSL-Router (Annex B) (All versions < V7.1.2), SCALANCE M816-1 ADSL-Router (Annex A) (All versions < V7.1.2), SCALANCE M816-1 ADSL-Router (Annex B) (All versions < V7.1.2), SCALANCE M826-2 SHDSL-Router (All versions < V7.1.2), SCALANCE M874-2 (All versions < V7.1.2), SCALANCE M874-3 (All versions < V7.1.2), SCALANCE M876-3 (EVDO) (All versions < V7.1.2), SCALANCE M876-3 (ROK) (All versions < V7.1.2), SCALANCE M876-4 (EU) (All versions < V7.1.2), SCALANCE M876-4 (NAM) (All versions < V7.1.2), SCALANCE MUM853-1 (EU) (All versions < V7.1.2), SCALANCE MUM856-1 (EU) (All versions < V7.1.2), SCALANCE MUM856-1 (RoW) (All versions < V7.1.2), SCALANCE S615 (All versions < V7.1.2), SCALANCE WAM763-1 (All versions >= V1.1.0), SCALANCE WAM766-1 (All versions >= V1.1.0), SCALANCE WAM766-1 (All versions >= V1.1.0), SCALANCE WAM766-1 6GHz (All versions >= V1.1.0), SCALANCE WAM766-1 EEC (All versions >= V1.1.0), SCALANCE WAM766-1 EEC (All versions >= V1.1.0), SCALANCE WAM766-1 EEC 6GHz (All versions >= V1.1.0), SCALANCE WUM763-1 (All versions >= V1.1.0), SCALANCE WUM763-1 (All versions >= V1.1.0), SCALANCE WUM766-1 (All versions >= V1.1.0), SCALANCE WUM766-1 (All versions >= V1.1.0), SCALANCE WUM766-1 6GHz (All versions >= V1.1.0). Affected devices with TCP Event service enabled do not properly handle malformed packets. This could allow an unauthenticated remote attacker to cause a denial of service and reboot the device thus possibly affecting other network resources.
+- [Live-Hack-CVE/CVE-2022-31766](https://github.com/Live-Hack-CVE/CVE-2022-31766)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31766">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31766">
 
 ---
 ## CVE-2022-31765 (2022-10-11T11:15:00)
@@ -19919,6 +19954,11 @@
 ## CVE-2022-27201 (2022-03-15T17:15:00)
 > Jenkins Semantic Versioning Plugin 1.13 and earlier does not restrict execution of an controller/agent message to agents, and implements no limitations about the file path that can be parsed, allowing attackers able to control agent processes to have Jenkins parse a crafted file that uses external entities for extraction of secrets from the Jenkins controller or server-side request forgery.
 - [Live-Hack-CVE/CVE-2022-27201](https://github.com/Live-Hack-CVE/CVE-2022-27201)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27201">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27201">
+
+---
+## CVE-2022-2720 (2022-10-12T07:15:00)
+> In affected versions of Octopus Server it was identified that when a sensitive value is a substring of another value, sensitive value masking will only partially work.
+- [Live-Hack-CVE/CVE-2022-2720](https://github.com/Live-Hack-CVE/CVE-2022-2720)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2720">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2720">
 
 ---
 ## CVE-2022-27199 (2022-03-15T17:15:00)

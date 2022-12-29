@@ -1560,6 +1560,66 @@
 - [Live-Hack-CVE/CVE-2019-13990](https://github.com/Live-Hack-CVE/CVE-2019-13990)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13990">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13990">
 
 ---
+## CVE-2019-13716 (2019-11-25T15:15:00)
+> Insufficient policy enforcement in service workers in Google Chrome prior to 78.0.3904.70 allowed a remote attacker to bypass navigation restrictions via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2019-13716](https://github.com/Live-Hack-CVE/CVE-2019-13716)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13716">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13716">
+
+---
+## CVE-2019-13715 (2019-11-25T15:15:00)
+> Insufficient validation of untrusted input in Omnibox in Google Chrome prior to 78.0.3904.70 allowed a remote attacker to perform domain spoofing via IDN homographs via a crafted domain name.
+- [Live-Hack-CVE/CVE-2019-13715](https://github.com/Live-Hack-CVE/CVE-2019-13715)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13715">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13715">
+
+---
+## CVE-2019-13714 (2019-11-25T15:15:00)
+> Insufficient validation of untrusted input in Color Enhancer extension in Google Chrome prior to 78.0.3904.70 allowed a remote attacker to inject CSS into an HTML page via a crafted URL.
+- [Live-Hack-CVE/CVE-2019-13714](https://github.com/Live-Hack-CVE/CVE-2019-13714)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13714">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13714">
+
+---
+## CVE-2019-13710 (2019-11-25T15:15:00)
+> Insufficient validation of untrusted input in downloads in Google Chrome prior to 78.0.3904.70 allowed a remote attacker to bypass download restrictions via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2019-13710](https://github.com/Live-Hack-CVE/CVE-2019-13710)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13710">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13710">
+
+---
+## CVE-2019-13709 (2019-11-25T15:15:00)
+> Insufficient policy enforcement in downloads in Google Chrome prior to 78.0.3904.70 allowed a remote attacker to bypass download restrictions via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2019-13709](https://github.com/Live-Hack-CVE/CVE-2019-13709)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13709">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13709">
+
+---
+## CVE-2019-13708 (2019-11-25T15:15:00)
+> Inappropriate implementation in navigation in Google Chrome on iOS prior to 78.0.3904.70 allowed a remote attacker to spoof the contents of the Omnibox (URL bar) via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2019-13708](https://github.com/Live-Hack-CVE/CVE-2019-13708)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13708">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13708">
+
+---
+## CVE-2019-13706 (2019-11-25T15:15:00)
+> Out of bounds memory access in PDFium in Google Chrome prior to 78.0.3904.70 allowed a remote attacker to potentially exploit heap corruption via a crafted PDF file.
+- [Live-Hack-CVE/CVE-2019-13706](https://github.com/Live-Hack-CVE/CVE-2019-13706)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13706">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13706">
+
+---
+## CVE-2019-13704 (2019-11-25T15:15:00)
+> Insufficient policy enforcement in navigation in Google Chrome prior to 78.0.3904.70 allowed a remote attacker to bypass content security policy via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2019-13704](https://github.com/Live-Hack-CVE/CVE-2019-13704)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13704">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13704">
+
+---
+## CVE-2019-13703 (2019-11-25T15:15:00)
+> Insufficient policy enforcement in the Omnibox in Google Chrome on Android prior to 78.0.3904.70 allowed a remote attacker to spoof the contents of the Omnibox (URL bar) via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2019-13703](https://github.com/Live-Hack-CVE/CVE-2019-13703)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13703">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13703">
+
+---
+## CVE-2019-13701 (2019-11-25T15:15:00)
+> Incorrect implementation in navigation in Google Chrome prior to 78.0.3904.70 allowed a remote attacker to spoof the contents of the Omnibox (URL bar) via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2019-13701](https://github.com/Live-Hack-CVE/CVE-2019-13701)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13701">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13701">
+
+---
+## CVE-2019-13700 (2019-11-25T15:15:00)
+> Out of bounds memory access in the gamepad API in Google Chrome prior to 78.0.3904.70 allowed a remote attacker who had compromised the renderer process to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2019-13700](https://github.com/Live-Hack-CVE/CVE-2019-13700)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13700">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13700">
+
+---
+## CVE-2019-13699 (2019-11-25T15:15:00)
+> Use after free in media in Google Chrome prior to 78.0.3904.70 allowed a remote attacker who had compromised the renderer process to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2019-13699](https://github.com/Live-Hack-CVE/CVE-2019-13699)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13699">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13699">
+
+---
 ## CVE-2019-13120 (2019-10-07T22:15:00)
 > Amazon FreeRTOS up to and including v1.4.8 lacks length checking in prvProcessReceivedPublish, resulting in untargetable leakage of arbitrary memory contents on a device to an attacker. If an attacker has the authorization to send a malformed MQTT publish packet to an Amazon IoT Thing, which interacts with an associated vulnerable MQTT message in the application, specific circumstances could trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2019-13120](https://github.com/Live-Hack-CVE/CVE-2019-13120)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13120">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13120">

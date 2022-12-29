@@ -4135,6 +4135,11 @@
 - [Live-Hack-CVE/CVE-2021-30498](https://github.com/Live-Hack-CVE/CVE-2021-30498)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30498">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30498">
 
 ---
+## CVE-2021-30496 (2021-04-20T16:15:00)
+> ** DISPUTED ** The Telegram app 7.6.2 for iOS allows remote authenticated users to cause a denial of service (application crash) if the victim pastes an attacker-supplied message (e.g., in the Persian language) into a channel or group. The crash occurs in MtProtoKitFramework. NOTE: the vendor's perspective is that "this behavior can't be considered a vulnerability."
+- [Live-Hack-CVE/CVE-2021-30496](https://github.com/Live-Hack-CVE/CVE-2021-30496)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30496">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30496">
+
+---
 ## CVE-2021-30472 (2021-05-26T22:15:00)
 > A flaw was found in PoDoFo 0.9.7. A stack-based buffer overflow in PdfEncryptMD5Base::ComputeOwnerKey function in PdfEncrypt.cpp is possible because of a improper check of the keyLength value.
 - [Live-Hack-CVE/CVE-2021-30472](https://github.com/Live-Hack-CVE/CVE-2021-30472)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30472">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30472">
@@ -6037,6 +6042,21 @@
 ## CVE-2021-20698 (2021-06-07T14:15:00)
 > Sharp NEC Displays (UN462A R1.300 and prior to it, UN462VA R1.300 and prior to it, UN492S R1.300 and prior to it, UN492VS R1.300 and prior to it, UN552A R1.300 and prior to it, UN552S R1.300 and prior to it, UN552VS R1.300 and prior to it, UN552 R1.300 and prior to it, UN552V R1.300 and prior to it, UX552S R1.300 and prior to it, UX552 R1.300 and prior to it, V864Q R2.000 and prior to it, C861Q R2.000 and prior to it, P754Q R2.000 and prior to it, V754Q R2.000 and prior to it, C751Q R2.000 and prior to it, V984Q R2.000 and prior to it, C981Q R2.000 and prior to it, P654Q R2.000 and prior to it, V654Q R2.000 and prior to it, C651Q R2.000 and prior to it, V554Q R2.000 and prior to it, P404 R3.200 and prior to it, P484 R3.200 and prior to it, P554 R3.200 and prior to it, V404 R3.200 and prior to it, V484 R3.200 and prior to it, V554 R3.200 and prior to it, V404-T R3.200 and prior to it, V484-T R3.200 and prior to it, V554-T R3.200 and prior to it, C501 R2.000 and prior to it, C551 R2.000 and prior to it, C431 R2.000 and prior to it) allows an attacker to obtain root privileges and execute remote code by sending unintended parameters that contain specific characters in http request.
 - [Live-Hack-CVE/CVE-2021-20698](https://github.com/Live-Hack-CVE/CVE-2021-20698)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20698">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20698">
+
+---
+## CVE-2021-20599 (2021-10-14T15:15:00)
+> Cleartext transmission of sensitive information vulnerability in MELSEC iQ-R series Safety CPU R08/16/32/120SFCPU firmware versions "26" and prior and MELSEC iQ-R series SIL2 Process CPU R08/16/32/120PSFCPU all versions allows a remote unauthenticated attacker to login to a target CPU module by obtaining credentials other than password.
+- [Live-Hack-CVE/CVE-2021-20599](https://github.com/Live-Hack-CVE/CVE-2021-20599)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20599">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20599">
+
+---
+## CVE-2021-20597 (2021-08-06T17:15:00)
+> Insufficiently Protected Credentials vulnerability in Mitsubishi Electric MELSEC iQ-R series Safety CPU modules R08/16/32/120SFCPU firmware versions "26" and prior and Mitsubishi Electric MELSEC iQ-R series SIL2 Process CPU modules R08/16/32/120PSFCPU all versions allows a remote unauthenticated attacker to login to the target unauthorizedly by sniffing network traffic and obtaining credentials when registering user information in the target or changing a password.
+- [Live-Hack-CVE/CVE-2021-20597](https://github.com/Live-Hack-CVE/CVE-2021-20597)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20597">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20597">
+
+---
+## CVE-2021-20594 (2021-08-06T17:15:00)
+> Exposure of Sensitive Information to an Unauthorized Actor vulnerability in Mitsubishi Electric MELSEC iQ-R series Safety CPU modules R08/16/32/120SFCPU firmware versions "26" and prior and Mitsubishi Electric MELSEC iQ-R series SIL2 Process CPU modules R08/16/32/120PSFCPU all versions allows a remote unauthenticated attacker to acquire legitimate user names registered in the module via brute-force attack on user names.
+- [Live-Hack-CVE/CVE-2021-20594](https://github.com/Live-Hack-CVE/CVE-2021-20594)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20594">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20594">
 
 ---
 ## CVE-2021-20323 (2022-03-25T19:15:00)

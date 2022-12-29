@@ -1058,6 +1058,11 @@
 - [Live-Hack-CVE/CVE-2020-29651](https://github.com/Live-Hack-CVE/CVE-2020-29651)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-29651">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-29651">
 
 ---
+## CVE-2020-2963 (2020-04-15T14:15:00)
+> Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Web Services). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0 and 12.2.1.4.0. Easily exploitable vulnerability allows high privileged attacker with network access via IIOP, T3 to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.0 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).
+- [Live-Hack-CVE/CVE-2020-2963](https://github.com/Live-Hack-CVE/CVE-2020-2963)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2963">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2963">
+
+---
 ## CVE-2020-29508 (2022-07-11T20:15:00)
 > Dell BSAFE Crypto-C Micro Edition, versions before 4.1.5, and Dell BSAFE Micro Edition Suite, versions before 4.6, contain an Improper Input Validation Vulnerability.
 - [Live-Hack-CVE/CVE-2020-29508](https://github.com/Live-Hack-CVE/CVE-2020-29508)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-29508">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-29508">
@@ -1097,6 +1102,11 @@
 - [Live-Hack-CVE/CVE-2020-2922](https://github.com/Live-Hack-CVE/CVE-2020-2922)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2922">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2922">
 
 ---
+## CVE-2020-2915 (2020-04-15T14:15:00)
+> Vulnerability in the Oracle Coherence product of Oracle Fusion Middleware (component: Caching, CacheStore, Invocation). Supported versions that are affected are 3.7.1.0, 12.1.3.0.0, 12.2.1.3.0 and 12.2.1.4.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via IIOP, T3 to compromise Oracle Coherence. Successful attacks of this vulnerability can result in takeover of Oracle Coherence. CVSS 3.0 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).
+- [Live-Hack-CVE/CVE-2020-2915](https://github.com/Live-Hack-CVE/CVE-2020-2915)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2915">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2915">
+
+---
 ## CVE-2020-29134 (2021-03-05T16:15:00)
 > The TOTVS Fluig platform allows path traversal through the parameter "file = .. /" encoded in base64. This affects all versions Fluig Lake 1.7.0, Fluig 1.6.5 and Fluig 1.6.4
 - [Ls4ss/CVE-2020-29134](https://github.com/Ls4ss/CVE-2020-29134)	<img alt="forks" src="https://img.shields.io/github/forks/Ls4ss/CVE-2020-29134">	<img alt="stars" src="https://img.shields.io/github/stars/Ls4ss/CVE-2020-29134">
@@ -1122,6 +1132,12 @@
 ## CVE-2020-28935 (2020-12-07T22:15:00)
 > NLnet Labs Unbound, up to and including version 1.12.0, and NLnet Labs NSD, up to and including version 4.3.3, contain a local vulnerability that would allow for a local symlink attack. When writing the PID file, Unbound and NSD create the file if it is not there, or open an existing file for writing. In case the file was already present, they would follow symlinks if the file happened to be a symlink instead of a regular file. An additional chown of the file would then take place after it was written, making the user Unbound/NSD is supposed to run as the new owner of the file. If an attacker has local access to the user Unbound/NSD runs as, she could create a symlink in place of the PID file pointing to a file that she would like to erase. If then Unbound/NSD is killed and the PID file is not cleared, upon restarting with root privileges, Unbound/NSD will rewrite any file pointed at by the symlink. This is a local vulnerability that could create a Denial of Service of the system Unbound/NSD is running on. It requires an attacker having access to the limited permission user Unbound/NSD runs as and point through the symlink to a critical file on the system.
 - [Live-Hack-CVE/CVE-2020-28935](https://github.com/Live-Hack-CVE/CVE-2020-28935)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28935">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28935">
+
+---
+## CVE-2020-2884 (2020-04-15T14:15:00)
+> Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0 and 12.2.1.4.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via IIOP, T3 to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.0 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).
+- [Live-Hack-CVE/CVE-2020-2884](https://github.com/Live-Hack-CVE/CVE-2020-2884)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2884">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2884">
+- [hktalent/CVE_2020_2546](https://github.com/hktalent/CVE_2020_2546)	<img alt="forks" src="https://img.shields.io/github/forks/hktalent/CVE_2020_2546">	<img alt="stars" src="https://img.shields.io/github/stars/hktalent/CVE_2020_2546">
 
 ---
 ## CVE-2020-28648 (2020-11-16T03:15:00)
@@ -1309,6 +1325,11 @@
 - [Live-Hack-CVE/CVE-2020-28367](https://github.com/Live-Hack-CVE/CVE-2020-28367)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28367">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28367">
 
 ---
+## CVE-2020-2828 (2020-04-15T14:15:00)
+> Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: WLS Web Services). The supported version that is affected is 10.3.6.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via IIOP, T3 to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in unauthorized access to critical data or complete access to all Oracle WebLogic Server accessible data. CVSS 3.0 Base Score 7.5 (Confidentiality impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N).
+- [Live-Hack-CVE/CVE-2020-2828](https://github.com/Live-Hack-CVE/CVE-2020-2828)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2828">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2828">
+
+---
 ## CVE-2020-28271 (2020-11-12T18:15:00)
 > Prototype pollution vulnerability in 'deephas' versions 1.0.0 through 1.0.5 allows attacker to cause a denial of service and may lead to remote code execution.
 - [Live-Hack-CVE/CVE-2020-28271](https://github.com/Live-Hack-CVE/CVE-2020-28271)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28271">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28271">
@@ -1345,6 +1366,11 @@
 - [Live-Hack-CVE/CVE-2020-2800](https://github.com/Live-Hack-CVE/CVE-2020-2800)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2800">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2800">
 
 ---
+## CVE-2020-2798 (2020-04-15T14:15:00)
+> Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: WLS Web Services). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0 and 12.2.1.4.0. Easily exploitable vulnerability allows high privileged attacker with network access via IIOP, T3 to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.0 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).
+- [Live-Hack-CVE/CVE-2020-2798](https://github.com/Live-Hack-CVE/CVE-2020-2798)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2798">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2798">
+
+---
 ## CVE-2020-27955 (2020-11-05T15:15:00)
 > Git LFS 2.12.0 allows Remote Code Execution.
 - [z50913/CVE-2020-27955](https://github.com/z50913/CVE-2020-27955)	<img alt="forks" src="https://img.shields.io/github/forks/z50913/CVE-2020-27955">	<img alt="stars" src="https://img.shields.io/github/stars/z50913/CVE-2020-27955">
@@ -1370,6 +1396,11 @@
 ## CVE-2020-27909 (2020-12-08T21:15:00)
 > An out-of-bounds read was addressed with improved input validation. This issue is fixed in iOS 14.2 and iPadOS 14.2, tvOS 14.2, watchOS 7.1. Processing a maliciously crafted audio file may lead to arbitrary code execution.
 - [Live-Hack-CVE/CVE-2020-27909](https://github.com/Live-Hack-CVE/CVE-2020-27909)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27909">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27909">
+
+---
+## CVE-2020-2787 (2020-04-15T14:15:00)
+> Vulnerability in the Oracle Outside In Technology product of Oracle Fusion Middleware (component: Outside In Filters). Supported versions that is affected is 8.5.4. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Outside In Technology. Successful attacks of this vulnerability can result in unauthorized update, insert or delete access to some of Oracle Outside In Technology accessible data as well as unauthorized read access to a subset of Oracle Outside In Technology accessible data and unauthorized ability to cause a partial denial of service (partial DOS) of Oracle Outside In Technology. Note: Outside In Technology is a suite of software development kits (SDKs). The protocol and CVSS score depend on the software that uses the Outside In Technology code. The CVSS score assumes that the software passes data received over a network directly to Outside In Technology code, but if data is not received over a network the CVSS score may be lower. CVSS 3.0 Base Score 7.3 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:L).
+- [Live-Hack-CVE/CVE-2020-2787](https://github.com/Live-Hack-CVE/CVE-2020-2787)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2787">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2787">
 
 ---
 ## CVE-2020-27845 (2021-01-05T18:15:00)
