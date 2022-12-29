@@ -15948,6 +15948,7 @@
 ## CVE-2022-35948 (2022-08-15T11:21:00)
 > undici is an HTTP/1.1 client, written from scratch for Node.js.`=< undici@5.8.0` users are vulnerable to _CRLF Injection_ on headers when using unsanitized input as request headers, more specifically, inside the `content-type` header. Example: ``` import { request } from 'undici' const unsanitizedContentTypeInput = 'application/json\r\n\r\nGET /foo2 HTTP/1.1' await request('http://localhost:3000, { method: 'GET', headers: { 'content-type': unsanitizedContentTypeInput }, }) ``` The above snippet will perform two requests in a single `request` API call: 1) `http://localhost:3000/` 2) `http://localhost:3000/foo2` This issue was patched in Undici v5.8.1. Sanitize input when sending content-type headers using user input as a workaround.
 - [Live-Hack-CVE/CVE-2022-35948](https://github.com/Live-Hack-CVE/CVE-2022-35948)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35948">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35948">
+- [Live-Hack-CVE/CVE-2022-35948](https://github.com/Live-Hack-CVE/CVE-2022-35948)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35948">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35948">
 
 ---
 ## CVE-2022-35947 (2022-09-14T18:15:00)
@@ -16775,6 +16776,7 @@
 ---
 ## CVE-2022-35192 (2022-08-26T00:15:00)
 > D-Link Wireless AC1200 Dual Band VDSL ADSL Modem Router DSL-3782 Firmware v1.01 allows unauthenticated attackers to cause a Denial of Service (DoS) via the User parameter or Pwd parameter to Login.asp.
+- [Live-Hack-CVE/CVE-2022-35192](https://github.com/Live-Hack-CVE/CVE-2022-35192)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35192">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35192">
 - [Live-Hack-CVE/CVE-2022-35192](https://github.com/Live-Hack-CVE/CVE-2022-35192)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35192">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35192">
 
 ---
@@ -20531,6 +20533,7 @@
 ---
 ## CVE-2022-30984 (2022-08-26T00:15:00)
 > A buffer overflow vulnerability in the Rubrik Backup Service (RBS) Agent for Linux or Unix-based systems in Rubrik CDM 7.0.1, 7.0.1-p1, 7.0.1-p2 or 7.0.1-p3 before CDM 7.0.2-p2 could allow a local attacker to obtain root privileges by sending a crafted message to the RBS agent.
+- [Live-Hack-CVE/CVE-2022-30984](https://github.com/Live-Hack-CVE/CVE-2022-30984)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30984">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30984">
 - [Live-Hack-CVE/CVE-2022-30984](https://github.com/Live-Hack-CVE/CVE-2022-30984)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30984">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30984">
 
 ---

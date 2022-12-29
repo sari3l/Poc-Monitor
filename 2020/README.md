@@ -284,6 +284,7 @@
 ## CVE-2020-7791 (2020-12-11T17:15:00)
 > This affects the package i18n before 2.1.15. Vulnerability arises out of insufficient handling of erroneous language tags in src/i18n/Concrete/TextLocalizer.cs and src/i18n/LocalizedApplication.cs.
 - [Live-Hack-CVE/CVE-2020-7791](https://github.com/Live-Hack-CVE/CVE-2020-7791)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7791">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7791">
+- [Live-Hack-CVE/CVE-2020-7791](https://github.com/Live-Hack-CVE/CVE-2020-7791)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7791">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7791">
 
 ---
 ## CVE-2020-7788 (2020-12-11T11:15:00)
@@ -936,35 +937,42 @@
 ## CVE-2020-36187 (2021-01-06T23:15:00)
 > FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to org.apache.tomcat.dbcp.dbcp.datasources.SharedPoolDataSource.
 - [Live-Hack-CVE/CVE-2020-36187](https://github.com/Live-Hack-CVE/CVE-2020-36187)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36187">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36187">
+- [Live-Hack-CVE/CVE-2020-36187](https://github.com/Live-Hack-CVE/CVE-2020-36187)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36187">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36187">
 
 ---
 ## CVE-2020-36186 (2021-01-06T23:15:00)
 > FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to org.apache.tomcat.dbcp.dbcp.datasources.PerUserPoolDataSource.
+- [Live-Hack-CVE/CVE-2020-36186](https://github.com/Live-Hack-CVE/CVE-2020-36186)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36186">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36186">
 - [Live-Hack-CVE/CVE-2020-36186](https://github.com/Live-Hack-CVE/CVE-2020-36186)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36186">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36186">
 
 ---
 ## CVE-2020-36185 (2021-01-06T23:15:00)
 > FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to org.apache.tomcat.dbcp.dbcp2.datasources.SharedPoolDataSource.
 - [Live-Hack-CVE/CVE-2020-36185](https://github.com/Live-Hack-CVE/CVE-2020-36185)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36185">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36185">
+- [Live-Hack-CVE/CVE-2020-36185](https://github.com/Live-Hack-CVE/CVE-2020-36185)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36185">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36185">
 
 ---
 ## CVE-2020-36184 (2021-01-06T23:15:00)
 > FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to org.apache.tomcat.dbcp.dbcp2.datasources.PerUserPoolDataSource.
+- [Live-Hack-CVE/CVE-2020-36184](https://github.com/Live-Hack-CVE/CVE-2020-36184)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36184">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36184">
 - [Live-Hack-CVE/CVE-2020-36184](https://github.com/Live-Hack-CVE/CVE-2020-36184)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36184">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36184">
 
 ---
 ## CVE-2020-36183 (2021-01-07T00:15:00)
 > FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to org.docx4j.org.apache.xalan.lib.sql.JNDIConnectionPool.
 - [Live-Hack-CVE/CVE-2020-36183](https://github.com/Live-Hack-CVE/CVE-2020-36183)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36183">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36183">
+- [Live-Hack-CVE/CVE-2020-36183](https://github.com/Live-Hack-CVE/CVE-2020-36183)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36183">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36183">
 
 ---
 ## CVE-2020-36182 (2021-01-07T00:15:00)
 > FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to org.apache.tomcat.dbcp.dbcp2.cpdsadapter.DriverAdapterCPDS.
 - [Live-Hack-CVE/CVE-2020-36182](https://github.com/Live-Hack-CVE/CVE-2020-36182)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36182">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36182">
+- [Live-Hack-CVE/CVE-2020-36182](https://github.com/Live-Hack-CVE/CVE-2020-36182)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36182">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36182">
 
 ---
 ## CVE-2020-36181 (2021-01-06T23:15:00)
 > FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to org.apache.tomcat.dbcp.dbcp.cpdsadapter.DriverAdapterCPDS.
+- [Live-Hack-CVE/CVE-2020-36181](https://github.com/Live-Hack-CVE/CVE-2020-36181)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36181">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36181">
 - [Live-Hack-CVE/CVE-2020-36181](https://github.com/Live-Hack-CVE/CVE-2020-36181)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36181">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36181">
 
 ---
@@ -1011,6 +1019,7 @@
 ---
 ## CVE-2020-35728 (2020-12-27T05:15:00)
 > FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to com.oracle.wls.shaded.org.apache.xalan.lib.sql.JNDIConnectionPool (aka embedded Xalan in org.glassfish.web/javax.servlet.jsp.jstl).
+- [Live-Hack-CVE/CVE-2020-35728](https://github.com/Live-Hack-CVE/CVE-2020-35728)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35728">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35728">
 - [Live-Hack-CVE/CVE-2020-35728](https://github.com/Live-Hack-CVE/CVE-2020-35728)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35728">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35728">
 
 ---
@@ -1846,6 +1855,7 @@
 ## CVE-2020-26420 (2020-12-11T19:15:00)
 > Memory leak in RTPS protocol dissector in Wireshark 3.4.0 and 3.2.0 to 3.2.8 allows denial of service via packet injection or crafted capture file.
 - [Live-Hack-CVE/CVE-2020-26420](https://github.com/Live-Hack-CVE/CVE-2020-26420)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-26420">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-26420">
+- [Live-Hack-CVE/CVE-2020-26420](https://github.com/Live-Hack-CVE/CVE-2020-26420)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-26420">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-26420">
 
 ---
 ## CVE-2020-2642 (2020-01-15T17:15:00)
@@ -2222,6 +2232,7 @@
 ---
 ## CVE-2020-25020 (2020-08-29T19:15:00)
 > MPXJ through 8.1.3 allows XXE attacks. This affects the GanttProjectReader and PhoenixReader components.
+- [Live-Hack-CVE/CVE-2020-25020](https://github.com/Live-Hack-CVE/CVE-2020-25020)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25020">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25020">
 - [Live-Hack-CVE/CVE-2020-25020](https://github.com/Live-Hack-CVE/CVE-2020-25020)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25020">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25020">
 
 ---
@@ -2771,6 +2782,7 @@
 ## CVE-2020-17498 (2020-08-13T16:15:00)
 > In Wireshark 3.2.0 to 3.2.5, the Kafka protocol dissector could crash. This was addressed in epan/dissectors/packet-kafka.c by avoiding a double free during LZ4 decompression.
 - [Live-Hack-CVE/CVE-2020-17498](https://github.com/Live-Hack-CVE/CVE-2020-17498)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-17498">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-17498">
+- [Live-Hack-CVE/CVE-2020-17498](https://github.com/Live-Hack-CVE/CVE-2020-17498)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-17498">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-17498">
 
 ---
 ## CVE-2020-17463 (2020-08-13T13:15:00)
@@ -3055,6 +3067,7 @@
 ## CVE-2020-15025 (2020-06-24T19:15:00)
 > ntpd in ntp 4.2.8 before 4.2.8p15 and 4.3.x before 4.3.101 allows remote attackers to cause a denial of service (memory consumption) by sending packets, because memory is not freed in situations where a CMAC key is used and associated with a CMAC algorithm in the ntp.keys file.
 - [Live-Hack-CVE/CVE-2020-15025](https://github.com/Live-Hack-CVE/CVE-2020-15025)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15025">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15025">
+- [Live-Hack-CVE/CVE-2020-15025](https://github.com/Live-Hack-CVE/CVE-2020-15025)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15025">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15025">
 
 ---
 ## CVE-2020-1472 (2020-08-17T19:15:00)
@@ -3137,6 +3150,7 @@
 ---
 ## CVE-2020-1456 (2020-07-14T23:15:00)
 > A cross-site-scripting (XSS) vulnerability exists when Microsoft SharePoint Server does not properly sanitize a specially crafted web request to an affected SharePoint server, aka 'Microsoft Office SharePoint XSS Vulnerability'. This CVE ID is unique from CVE-2020-1450, CVE-2020-1451.
+- [Live-Hack-CVE/CVE-2020-1456](https://github.com/Live-Hack-CVE/CVE-2020-1456)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1456">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1456">
 - [Live-Hack-CVE/CVE-2020-1456](https://github.com/Live-Hack-CVE/CVE-2020-1456)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1456">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1456">
 
 ---
@@ -3287,6 +3301,7 @@
 ---
 ## CVE-2020-13596 (2020-06-03T14:15:00)
 > An issue was discovered in Django 2.2 before 2.2.13 and 3.0 before 3.0.7. Query parameters generated by the Django admin ForeignKeyRawIdWidget were not properly URL encoded, leading to a possibility of an XSS attack.
+- [Live-Hack-CVE/CVE-2020-13596](https://github.com/Live-Hack-CVE/CVE-2020-13596)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13596">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13596">
 - [Live-Hack-CVE/CVE-2020-13596](https://github.com/Live-Hack-CVE/CVE-2020-13596)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13596">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13596">
 
 ---
@@ -3698,6 +3713,7 @@
 ---
 ## CVE-2020-10492 (2020-03-12T14:15:00)
 > CSRF in admin/manage-templates.php in Chadha PHPKB Standard Multi-Language 9 allows attackers to delete an article template via a crafted request.
+- [Live-Hack-CVE/CVE-2020-10492](https://github.com/Live-Hack-CVE/CVE-2020-10492)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10492">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10492">
 - [Live-Hack-CVE/CVE-2020-10492](https://github.com/Live-Hack-CVE/CVE-2020-10492)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10492">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10492">
 
 ---
