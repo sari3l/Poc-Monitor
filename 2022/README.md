@@ -7715,6 +7715,11 @@
 - [Live-Hack-CVE/CVE-2022-40979](https://github.com/Live-Hack-CVE/CVE-2022-40979)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40979">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40979">
 
 ---
+## CVE-2022-40978 (2022-09-19T16:15:00)
+> The installer of JetBrains IntelliJ IDEA before 2022.2.2 was vulnerable to EXE search order hijacking
+- [Live-Hack-CVE/CVE-2022-40978](https://github.com/Live-Hack-CVE/CVE-2022-40978)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40978">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40978">
+
+---
 ## CVE-2022-4097 (2022-12-12T18:15:00)
 > The All-In-One Security (AIOS) WordPress plugin before 5.0.8 is susceptible to IP Spoofing attacks, which can lead to bypassed security features (like IP blocks, rate limiting, brute force protection, and more).
 - [Live-Hack-CVE/CVE-2022-4097](https://github.com/Live-Hack-CVE/CVE-2022-4097)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4097">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4097">
@@ -8037,9 +8042,24 @@
 - [Live-Hack-CVE/CVE-2022-40816](https://github.com/Live-Hack-CVE/CVE-2022-40816)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40816">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40816">
 
 ---
+## CVE-2022-40812 (2022-09-19T16:15:00)
+> The d8s-pdfs for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-file-system package. The affected version is 0.1.0.
+- [Live-Hack-CVE/CVE-2022-40812](https://github.com/Live-Hack-CVE/CVE-2022-40812)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40812">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40812">
+
+---
 ## CVE-2022-40811 (2022-09-19T15:15:00)
 > The d8s-urls for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-file-system package. The affected version is 0.1.0.
 - [Live-Hack-CVE/CVE-2022-40811](https://github.com/Live-Hack-CVE/CVE-2022-40811)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40811">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40811">
+
+---
+## CVE-2022-40810 (2022-09-19T16:15:00)
+> The d8s-ip-addresses for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-hypothesis package. The affected version is 0.1.0
+- [Live-Hack-CVE/CVE-2022-40810](https://github.com/Live-Hack-CVE/CVE-2022-40810)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40810">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40810">
+
+---
+## CVE-2022-40809 (2022-09-19T16:15:00)
+> The d8s-dicts for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-hypothesis package. The affected version is 0.1.0
+- [Live-Hack-CVE/CVE-2022-40809](https://github.com/Live-Hack-CVE/CVE-2022-40809)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40809">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40809">
 
 ---
 ## CVE-2022-40808 (2022-09-19T15:15:00)
@@ -8554,9 +8574,34 @@
 - [Live-Hack-CVE/CVE-2022-40431](https://github.com/Live-Hack-CVE/CVE-2022-40431)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40431">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40431">
 
 ---
+## CVE-2022-40430 (2022-09-19T16:15:00)
+> The d8s-utility for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-networking package. The affected version is 0.1.0.
+- [Live-Hack-CVE/CVE-2022-40430](https://github.com/Live-Hack-CVE/CVE-2022-40430)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40430">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40430">
+
+---
+## CVE-2022-40429 (2022-09-19T16:15:00)
+> The d8s-ip-addresses for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-networking package. The affected version is 0.1.0.
+- [Live-Hack-CVE/CVE-2022-40429](https://github.com/Live-Hack-CVE/CVE-2022-40429)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40429">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40429">
+
+---
+## CVE-2022-40428 (2022-09-19T16:15:00)
+> The d8s-mpeg for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-networking package. The affected version is 0.1.0.
+- [Live-Hack-CVE/CVE-2022-40428](https://github.com/Live-Hack-CVE/CVE-2022-40428)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40428">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40428">
+
+---
 ## CVE-2022-40427 (2022-09-19T15:15:00)
 > The d8s-domains for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-networking package. The affected version is 0.1.0
 - [Live-Hack-CVE/CVE-2022-40427](https://github.com/Live-Hack-CVE/CVE-2022-40427)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40427">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40427">
+
+---
+## CVE-2022-40426 (2022-09-19T16:15:00)
+> The d8s-asns for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-networking package. The affected version is 0.1.0.
+- [Live-Hack-CVE/CVE-2022-40426](https://github.com/Live-Hack-CVE/CVE-2022-40426)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40426">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40426">
+
+---
+## CVE-2022-40425 (2022-09-19T16:15:00)
+> The d8s-html for python, as distributed on PyPI, included a potential code-execution backdoor inserted by a third party. The backdoor is the democritus-networking package. The affected version is 0.1.0.
+- [Live-Hack-CVE/CVE-2022-40425](https://github.com/Live-Hack-CVE/CVE-2022-40425)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40425">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40425">
 
 ---
 ## CVE-2022-40424 (2022-09-19T15:15:00)
@@ -10893,6 +10938,7 @@
 ## CVE-2022-38619 (2022-09-21T00:15:00)
 > SmartVista SVFE2 v2.2.22 was discovered to contain a SQL injection vulnerability via the UserForm:j_id90 parameter at /SVFE2/pages/feegroups/mcc_group.jsf.
 - [Live-Hack-CVE/CVE-2022-38619](https://github.com/Live-Hack-CVE/CVE-2022-38619)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38619">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38619">
+- [Live-Hack-CVE/CVE-2022-38619](https://github.com/Live-Hack-CVE/CVE-2022-38619)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38619">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38619">
 
 ---
 ## CVE-2022-38610 (2022-09-12T21:15:00)
@@ -12535,6 +12581,7 @@
 ## CVE-2022-37395 (2022-09-20T20:15:00)
 > A Huawei device has an input verification vulnerability. Successful exploitation of this vulnerability may lead to DoS attacks.Affected product versions include:CV81-WDM FW versions 01.70.49.29.46.
 - [Live-Hack-CVE/CVE-2022-37395](https://github.com/Live-Hack-CVE/CVE-2022-37395)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37395">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37395">
+- [Live-Hack-CVE/CVE-2022-37395](https://github.com/Live-Hack-CVE/CVE-2022-37395)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37395">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37395">
 
 ---
 ## CVE-2022-37392 (2022-12-19T11:15:00)
@@ -12712,6 +12759,7 @@
 ## CVE-2022-37205 (2022-09-20T18:15:00)
 > JFinal CMS 5.1.0 is affected by: SQL Injection. These interfaces do not use the same component, nor do they have filters, but each uses its own SQL concatenation method, resulting in SQL injection.
 - [AgainstTheLight/CVE-2022-37205](https://github.com/AgainstTheLight/CVE-2022-37205)	<img alt="forks" src="https://img.shields.io/github/forks/AgainstTheLight/CVE-2022-37205">	<img alt="stars" src="https://img.shields.io/github/stars/AgainstTheLight/CVE-2022-37205">
+- [Live-Hack-CVE/CVE-2022-37205](https://github.com/Live-Hack-CVE/CVE-2022-37205)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37205">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37205">
 - [Live-Hack-CVE/CVE-2022-37205](https://github.com/Live-Hack-CVE/CVE-2022-37205)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37205">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37205">
 
 ---
@@ -15294,10 +15342,12 @@
 ## CVE-2022-35090 (2022-09-21T00:15:00)
 > SWFTools commit 772e55a2 was discovered to contain a heap-buffer overflow via __asan_memcpy at /asan/asan_interceptors_memintrinsics.cpp:.
 - [Live-Hack-CVE/CVE-2022-35090](https://github.com/Live-Hack-CVE/CVE-2022-35090)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35090">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35090">
+- [Live-Hack-CVE/CVE-2022-35090](https://github.com/Live-Hack-CVE/CVE-2022-35090)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35090">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35090">
 
 ---
 ## CVE-2022-35089 (2022-09-21T00:15:00)
 > SWFTools commit 772e55a2 was discovered to contain a heap-buffer-overflow via getTransparentColor at /home/bupt/Desktop/swftools/src/gif2swf.
+- [Live-Hack-CVE/CVE-2022-35089](https://github.com/Live-Hack-CVE/CVE-2022-35089)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35089">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35089">
 - [Live-Hack-CVE/CVE-2022-35089](https://github.com/Live-Hack-CVE/CVE-2022-35089)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35089">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35089">
 
 ---
@@ -15309,15 +15359,18 @@
 ## CVE-2022-35087 (2022-09-21T00:15:00)
 > SWFTools commit 772e55a2 was discovered to contain a segmentation violation via MovieAddFrame at /src/gif2swf.c.
 - [Live-Hack-CVE/CVE-2022-35087](https://github.com/Live-Hack-CVE/CVE-2022-35087)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35087">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35087">
+- [Live-Hack-CVE/CVE-2022-35087](https://github.com/Live-Hack-CVE/CVE-2022-35087)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35087">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35087">
 
 ---
 ## CVE-2022-35086 (2022-09-21T00:15:00)
 > SWFTools commit 772e55a2 was discovered to contain a segmentation violation via /multiarch/memmove-vec-unaligned-erms.S.
 - [Live-Hack-CVE/CVE-2022-35086](https://github.com/Live-Hack-CVE/CVE-2022-35086)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35086">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35086">
+- [Live-Hack-CVE/CVE-2022-35086](https://github.com/Live-Hack-CVE/CVE-2022-35086)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35086">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35086">
 
 ---
 ## CVE-2022-35085 (2022-09-21T00:15:00)
 > SWFTools commit 772e55a2 was discovered to contain a memory leak via /lib/mem.c.
+- [Live-Hack-CVE/CVE-2022-35085](https://github.com/Live-Hack-CVE/CVE-2022-35085)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35085">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35085">
 - [Live-Hack-CVE/CVE-2022-35085](https://github.com/Live-Hack-CVE/CVE-2022-35085)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35085">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35085">
 
 ---
@@ -15339,6 +15392,7 @@
 ## CVE-2022-35069 (2022-09-19T22:15:00)
 > OTFCC commit 617837b was discovered to contain a heap buffer overflow via /release-x64/otfccdump+0x6b544e.
 - [Live-Hack-CVE/CVE-2022-35069](https://github.com/Live-Hack-CVE/CVE-2022-35069)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35069">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35069">
+- [Live-Hack-CVE/CVE-2022-35069](https://github.com/Live-Hack-CVE/CVE-2022-35069)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35069">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35069">
 
 ---
 ## CVE-2022-35068 (2022-09-19T22:15:00)
@@ -15349,25 +15403,30 @@
 ## CVE-2022-35067 (2022-09-19T22:15:00)
 > OTFCC commit 617837b was discovered to contain a heap buffer overflow via /release-x64/otfccdump+0x6e41b0.
 - [Live-Hack-CVE/CVE-2022-35067](https://github.com/Live-Hack-CVE/CVE-2022-35067)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35067">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35067">
+- [Live-Hack-CVE/CVE-2022-35067](https://github.com/Live-Hack-CVE/CVE-2022-35067)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35067">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35067">
 
 ---
 ## CVE-2022-35066 (2022-09-19T22:15:00)
 > OTFCC commit 617837b was discovered to contain a heap buffer overflow via /release-x64/otfccdump+0x6e41b8.
+- [Live-Hack-CVE/CVE-2022-35066](https://github.com/Live-Hack-CVE/CVE-2022-35066)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35066">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35066">
 - [Live-Hack-CVE/CVE-2022-35066](https://github.com/Live-Hack-CVE/CVE-2022-35066)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35066">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35066">
 
 ---
 ## CVE-2022-35065 (2022-09-19T22:15:00)
 > OTFCC commit 617837b was discovered to contain a segmentation violation via /release-x64/otfccdump+0x65f724.
 - [Live-Hack-CVE/CVE-2022-35065](https://github.com/Live-Hack-CVE/CVE-2022-35065)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35065">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35065">
+- [Live-Hack-CVE/CVE-2022-35065](https://github.com/Live-Hack-CVE/CVE-2022-35065)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35065">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35065">
 
 ---
 ## CVE-2022-35064 (2022-09-19T22:15:00)
 > OTFCC commit 617837b was discovered to contain a heap buffer overflow via /release-x64/otfccdump+0x4adcdb in __asan_memset.
 - [Live-Hack-CVE/CVE-2022-35064](https://github.com/Live-Hack-CVE/CVE-2022-35064)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35064">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35064">
+- [Live-Hack-CVE/CVE-2022-35064](https://github.com/Live-Hack-CVE/CVE-2022-35064)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35064">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35064">
 
 ---
 ## CVE-2022-35063 (2022-09-19T22:15:00)
 > OTFCC commit 617837b was discovered to contain a heap buffer overflow via /release-x64/otfccdump+0x6e41a8.
+- [Live-Hack-CVE/CVE-2022-35063](https://github.com/Live-Hack-CVE/CVE-2022-35063)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35063">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35063">
 - [Live-Hack-CVE/CVE-2022-35063](https://github.com/Live-Hack-CVE/CVE-2022-35063)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35063">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35063">
 
 ---
@@ -15790,6 +15849,11 @@
 > The tagDiv Composer WordPress plugin before 3.5, required by the Newspaper WordPress theme before 12.1 and Newsmag WordPress theme before 5.2.2, does not properly implement the Facebook login feature, allowing unauthenticated attackers to login as any user by just knowing their email address
 - [Live-Hack-CVE/CVE-2022-3477](https://github.com/Live-Hack-CVE/CVE-2022-3477)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3477">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3477">
 - [Live-Hack-CVE/CVE-2022-3477](https://github.com/Live-Hack-CVE/CVE-2022-3477)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3477">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3477">
+
+---
+## CVE-2022-34746 (2022-09-20T02:15:00)
+> An insufficient entropy vulnerability caused by the improper use of randomness sources with low entropy for RSA key pair generation was found in Zyxel GS1900 series firmware versions prior to V2.70. This vulnerability could allow an unauthenticated attacker to retrieve a private key by factoring the RSA modulus N in the certificate of the web administration interface.
+- [Live-Hack-CVE/CVE-2022-34746](https://github.com/Live-Hack-CVE/CVE-2022-34746)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34746">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34746">
 
 ---
 ## CVE-2022-34733 (2022-09-13T19:15:00)
@@ -16509,6 +16573,7 @@
 ---
 ## CVE-2022-33735 (2022-09-20T20:15:00)
 > There is a password verification vulnerability in WS7200-10 11.0.2.13. Attackers on the LAN may use brute force cracking to obtain passwords, which may cause sensitive system information to be disclosed.
+- [Live-Hack-CVE/CVE-2022-33735](https://github.com/Live-Hack-CVE/CVE-2022-33735)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33735">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33735">
 - [Live-Hack-CVE/CVE-2022-33735](https://github.com/Live-Hack-CVE/CVE-2022-33735)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33735">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33735">
 
 ---
@@ -17626,6 +17691,7 @@
 ---
 ## CVE-2022-3245 (2022-09-20T14:15:00)
 > HTML injection attack is closely related to Cross-site Scripting (XSS). HTML injection uses HTML to deface the page. XSS, as the name implies, injects JavaScript into the page. Both attacks exploit insufficient validation of user input.
+- [Live-Hack-CVE/CVE-2022-3245](https://github.com/Live-Hack-CVE/CVE-2022-3245)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3245">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3245">
 - [Live-Hack-CVE/CVE-2022-3245](https://github.com/Live-Hack-CVE/CVE-2022-3245)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3245">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3245">
 
 ---
@@ -19398,6 +19464,7 @@
 ---
 ## CVE-2022-3008 (2022-09-05T09:15:00)
 > The tinygltf library uses the C library function wordexp() to perform file path expansion on untrusted paths that are provided from the input file. This function allows for command injection by using backticks. An attacker could craft an untrusted path input that would result in a path expansion. We recommend upgrading to 2.6.0 or past commit 52ff00a38447f06a17eab1caa2cf0730a119c751
+- [Live-Hack-CVE/CVE-2022-3008](https://github.com/Live-Hack-CVE/CVE-2022-3008)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3008">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3008">
 - [Live-Hack-CVE/CVE-2022-3008](https://github.com/Live-Hack-CVE/CVE-2022-3008)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3008">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3008">
 
 ---
