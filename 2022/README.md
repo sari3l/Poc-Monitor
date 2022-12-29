@@ -18194,6 +18194,13 @@
 ## CVE-2022-3217 (2022-09-16T22:15:00)
 > When logging in to a VBASE runtime project via Web-Remote, the product uses XOR with a static initial key to obfuscate login messages. An unauthenticated remote attacker with the ability to capture a login session can obtain the login credentials.
 - [Live-Hack-CVE/CVE-2022-3217](https://github.com/Live-Hack-CVE/CVE-2022-3217)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3217">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3217">
+- [Live-Hack-CVE/CVE-2022-32170](https://github.com/Live-Hack-CVE/CVE-2022-32170)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32170">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32170">
+- [Live-Hack-CVE/CVE-2022-32174](https://github.com/Live-Hack-CVE/CVE-2022-32174)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32174">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32174">
+- [Live-Hack-CVE/CVE-2022-32175](https://github.com/Live-Hack-CVE/CVE-2022-32175)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32175">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32175">
+- [Live-Hack-CVE/CVE-2022-32176](https://github.com/Live-Hack-CVE/CVE-2022-32176)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32176">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32176">
+- [Live-Hack-CVE/CVE-2022-32171](https://github.com/Live-Hack-CVE/CVE-2022-32171)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32171">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32171">
+- [Live-Hack-CVE/CVE-2022-32172](https://github.com/Live-Hack-CVE/CVE-2022-32172)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32172">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32172">
+- [Live-Hack-CVE/CVE-2022-32177](https://github.com/Live-Hack-CVE/CVE-2022-32177)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32177">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32177">
 
 ---
 ## CVE-2022-32169 (2022-09-28T10:15:00)
@@ -18220,6 +18227,7 @@
 ## CVE-2022-3214 (2022-09-16T19:15:00)
 > Delta Industrial Automation's DIAEnergy, an industrial energy management system, is vulnerable to CWE-798, Use of Hard-coded Credentials. Version 1.8.0 and prior have this vulnerability. Executable files could be uploaded to certain directories using hard-coded bearer authorization, allowing remote code execution.
 - [Live-Hack-CVE/CVE-2022-3214](https://github.com/Live-Hack-CVE/CVE-2022-3214)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3214">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3214">
+- [Live-Hack-CVE/CVE-2022-32149](https://github.com/Live-Hack-CVE/CVE-2022-32149)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32149">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32149">
 
 ---
 ## CVE-2022-3213 (2022-09-19T18:15:00)
