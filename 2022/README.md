@@ -8409,6 +8409,11 @@
 - [Live-Hack-CVE/CVE-2022-40626](https://github.com/Live-Hack-CVE/CVE-2022-40626)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40626">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40626">
 
 ---
+## CVE-2022-40616 (2022-09-21T17:15:00)
+> IBM Maximo Asset Management 7.6.1.1, 7.6.1.2, and 7.6.1.3 could allow a user to bypass authentication and obtain sensitive information or perform tasks they should not have access to. IBM X-Force ID: 236311.
+- [Live-Hack-CVE/CVE-2022-40616](https://github.com/Live-Hack-CVE/CVE-2022-40616)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40616">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40616">
+
+---
 ## CVE-2022-40607 (2022-12-19T20:15:00)
 > IBM Spectrum Scale 5.1 could allow users with permissions to create pod, persistent volume and persistent volume claim to access files and directories outside of the volume, including on the host filesystem. IBM X-Force ID: 235740.
 - [Live-Hack-CVE/CVE-2022-40607](https://github.com/Live-Hack-CVE/CVE-2022-40607)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40607">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40607">
@@ -16563,6 +16568,9 @@
 ## CVE-2022-33658 (2022-07-12T23:15:00)
 > Azure Site Recovery Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-30181, CVE-2022-33641, CVE-2022-33642, CVE-2022-33643, CVE-2022-33650, CVE-2022-33651, CVE-2022-33652, CVE-2022-33653, CVE-2022-33654, CVE-2022-33655, CVE-2022-33656, CVE-2022-33657, CVE-2022-33659, CVE-2022-33660, CVE-2022-33661, CVE-2022-33662, CVE-2022-33663, CVE-2022-33664, CVE-2022-33665, CVE-2022-33666, CVE-2022-33667, CVE-2022-33668, CVE-2022-33669, CVE-2022-33671, CVE-2022-33672, CVE-2022-33673, CVE-2022-33674, CVE-2022-33675, CVE-2022-33677.
 - [Live-Hack-CVE/CVE-2022-33658](https://github.com/Live-Hack-CVE/CVE-2022-33658)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33658">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33658">
+- [Live-Hack-CVE/CVE-2022-33658](https://github.com/Live-Hack-CVE/CVE-2022-33658)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33658">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33658">
+- [Live-Hack-CVE/CVE-2022-33652](https://github.com/Live-Hack-CVE/CVE-2022-33652)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33652">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33652">
+- [Live-Hack-CVE/CVE-2022-33642](https://github.com/Live-Hack-CVE/CVE-2022-33642)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33642">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33642">
 
 ---
 ## CVE-2022-33652 (2022-07-12T23:15:00)
@@ -19345,6 +19353,7 @@
 ---
 ## CVE-2022-30150 (2022-06-15T22:15:00)
 > Windows Defender Remote Credential Guard Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2022-30150](https://github.com/Live-Hack-CVE/CVE-2022-30150)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30150">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30150">
 - [Live-Hack-CVE/CVE-2022-30150](https://github.com/Live-Hack-CVE/CVE-2022-30150)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30150">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30150">
 
 ---
@@ -23678,6 +23687,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-22049](https://github.com/Live-Hack-CVE/CVE-2022-22049)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22049">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22049">
 
 ---
+## CVE-2022-22041 (2022-07-12T23:15:00)
+> Windows Print Spooler Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-22022, CVE-2022-30206, CVE-2022-30226.
+- [Live-Hack-CVE/CVE-2022-22041](https://github.com/Live-Hack-CVE/CVE-2022-22041)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22041">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22041">
+
+---
 ## CVE-2022-22035 (2022-10-11T19:15:00)
 > Windows Point-to-Point Tunneling Protocol Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-24504, CVE-2022-30198, CVE-2022-33634, CVE-2022-38000, CVE-2022-38047, CVE-2022-41081.
 - [Live-Hack-CVE/CVE-2022-22035](https://github.com/Live-Hack-CVE/CVE-2022-22035)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22035">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22035">
@@ -23699,8 +23713,14 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-22021](https://github.com/Live-Hack-CVE/CVE-2022-22021)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22021">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22021">
 
 ---
+## CVE-2022-21980 (2022-08-09T20:15:00)
+> Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-24477, CVE-2022-24516.
+- [Live-Hack-CVE/CVE-2022-21980](https://github.com/Live-Hack-CVE/CVE-2022-21980)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21980">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21980">
+
+---
 ## CVE-2022-21979 (2022-08-09T20:15:00)
 > Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-30134, CVE-2022-34692.
+- [Live-Hack-CVE/CVE-2022-21979](https://github.com/Live-Hack-CVE/CVE-2022-21979)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21979">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21979">
 - [Live-Hack-CVE/CVE-2022-21979](https://github.com/Live-Hack-CVE/CVE-2022-21979)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21979">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21979">
 
 ---
@@ -26716,6 +26736,8 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 > A flaw was found in Unzip. The vulnerability occurs during the conversion of a wide string to a local string that leads to a heap of out-of-bound write. This flaw allows an attacker to input a specially crafted zip file, leading to a crash or code execution.
 - [Live-Hack-CVE/CVE-2022-0529](https://github.com/Live-Hack-CVE/CVE-2022-0529)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0529">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0529">
 - [Live-Hack-CVE/CVE-2022-0529](https://github.com/Live-Hack-CVE/CVE-2022-0529)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0529">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0529">
+- [ByteHackr/unzip_poc](https://github.com/ByteHackr/unzip_poc)	<img alt="forks" src="https://img.shields.io/github/forks/ByteHackr/unzip_poc">	<img alt="stars" src="https://img.shields.io/github/stars/ByteHackr/unzip_poc">
+- [nanaao/unzip_poc](https://github.com/nanaao/unzip_poc)	<img alt="forks" src="https://img.shields.io/github/forks/nanaao/unzip_poc">	<img alt="stars" src="https://img.shields.io/github/stars/nanaao/unzip_poc">
 
 ---
 ## CVE-2022-0511 (2022-12-22T20:15:00)
