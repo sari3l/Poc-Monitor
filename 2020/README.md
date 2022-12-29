@@ -2456,6 +2456,11 @@
 - [woaiqiukui/CVE-2020-1938TomcatAjpScanner](https://github.com/woaiqiukui/CVE-2020-1938TomcatAjpScanner)	<img alt="forks" src="https://img.shields.io/github/forks/woaiqiukui/CVE-2020-1938TomcatAjpScanner">	<img alt="stars" src="https://img.shields.io/github/stars/woaiqiukui/CVE-2020-1938TomcatAjpScanner">
 
 ---
+## CVE-2020-1920 (2021-06-01T14:15:00)
+> A regular expression denial of service (ReDoS) vulnerability in the validateBaseUrl function can cause the application to use excessive resources, become unresponsive, or crash. This was introduced in react-native version 0.59.0 and fixed in version 0.64.1.
+- [Live-Hack-CVE/CVE-2020-1920](https://github.com/Live-Hack-CVE/CVE-2020-1920)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1920">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1920">
+
+---
 ## CVE-2020-19111 (2021-05-06T13:15:00)
 > Incorrect Access Control vulnerability in Online Book Store v1.0 via admin_verify.php, which could let a remote mailicious user bypass authentication and obtain sensitive information.
 - [Live-Hack-CVE/CVE-2020-19111](https://github.com/Live-Hack-CVE/CVE-2020-19111)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-19111">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-19111">

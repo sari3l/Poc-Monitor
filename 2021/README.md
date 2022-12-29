@@ -291,6 +291,40 @@
 - [hacksysteam/CVE-2021-45067](https://github.com/hacksysteam/CVE-2021-45067)	<img alt="forks" src="https://img.shields.io/github/forks/hacksysteam/CVE-2021-45067">	<img alt="stars" src="https://img.shields.io/github/stars/hacksysteam/CVE-2021-45067">
 
 ---
+## CVE-2021-45046 (2021-12-14T19:15:00)
+> It was found that the fix to address CVE-2021-44228 in Apache Log4j 2.15.0 was incomplete in certain non-default configurations. This could allows attackers with control over Thread Context Map (MDC) input data when the logging configuration uses a non-default Pattern Layout with either a Context Lookup (for example, $${ctx:loginId}) or a Thread Context Map pattern (%X, %mdc, or %MDC) to craft malicious input data using a JNDI Lookup pattern resulting in an information leak and remote code execution in some environments and local code execution in all environments. Log4j 2.16.0 (Java 8) and 2.12.2 (Java 7) fix this issue by removing support for message lookup patterns and disabling JNDI functionality by default.
+- [Live-Hack-CVE/CVE-2021-45046](https://github.com/Live-Hack-CVE/CVE-2021-45046)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45046">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45046">
+- [alexbakker/log4shell-tools](https://github.com/alexbakker/log4shell-tools)	<img alt="forks" src="https://img.shields.io/github/forks/alexbakker/log4shell-tools">	<img alt="stars" src="https://img.shields.io/github/stars/alexbakker/log4shell-tools">
+- [cisagov/log4j-scanner](https://github.com/cisagov/log4j-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/cisagov/log4j-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/cisagov/log4j-scanner">
+- [Afrouper/MavenDependencyCVE-Scanner](https://github.com/Afrouper/MavenDependencyCVE-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Afrouper/MavenDependencyCVE-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Afrouper/MavenDependencyCVE-Scanner">
+- [yannart/log4shell-scanner-rs](https://github.com/yannart/log4shell-scanner-rs)	<img alt="forks" src="https://img.shields.io/github/forks/yannart/log4shell-scanner-rs">	<img alt="stars" src="https://img.shields.io/github/stars/yannart/log4shell-scanner-rs">
+- [NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell)	<img alt="forks" src="https://img.shields.io/github/forks/NCSC-NL/log4shell">	<img alt="stars" src="https://img.shields.io/github/stars/NCSC-NL/log4shell">
+- [r3kind1e/Log4Shell-obfuscated-payloads-generator](https://github.com/r3kind1e/Log4Shell-obfuscated-payloads-generator)	<img alt="forks" src="https://img.shields.io/github/forks/r3kind1e/Log4Shell-obfuscated-payloads-generator">	<img alt="stars" src="https://img.shields.io/github/stars/r3kind1e/Log4Shell-obfuscated-payloads-generator">
+- [manishkanyal/log4j-scanner](https://github.com/manishkanyal/log4j-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/manishkanyal/log4j-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/manishkanyal/log4j-scanner">
+- [BobTheShoplifter/CVE-2021-45046-Info](https://github.com/BobTheShoplifter/CVE-2021-45046-Info)	<img alt="forks" src="https://img.shields.io/github/forks/BobTheShoplifter/CVE-2021-45046-Info">	<img alt="stars" src="https://img.shields.io/github/stars/BobTheShoplifter/CVE-2021-45046-Info">
+- [logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/logpresso/CVE-2021-44228-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/logpresso/CVE-2021-44228-Scanner">
+- [Qualys/log4jscanwin](https://github.com/Qualys/log4jscanwin)	<img alt="forks" src="https://img.shields.io/github/forks/Qualys/log4jscanwin">	<img alt="stars" src="https://img.shields.io/github/stars/Qualys/log4jscanwin">
+- [DANSI/PowerShell-Log4J-Scanner](https://github.com/DANSI/PowerShell-Log4J-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/DANSI/PowerShell-Log4J-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/DANSI/PowerShell-Log4J-Scanner">
+- [mergebase/log4j-detector](https://github.com/mergebase/log4j-detector)	<img alt="forks" src="https://img.shields.io/github/forks/mergebase/log4j-detector">	<img alt="stars" src="https://img.shields.io/github/stars/mergebase/log4j-detector">
+- [andalik/log4j-filescan](https://github.com/andalik/log4j-filescan)	<img alt="forks" src="https://img.shields.io/github/forks/andalik/log4j-filescan">	<img alt="stars" src="https://img.shields.io/github/stars/andalik/log4j-filescan">
+- [pfichtner/log4shell-hunter](https://github.com/pfichtner/log4shell-hunter)	<img alt="forks" src="https://img.shields.io/github/forks/pfichtner/log4shell-hunter">	<img alt="stars" src="https://img.shields.io/github/stars/pfichtner/log4shell-hunter">
+- [HynekPetrak/log4shell-finder](https://github.com/HynekPetrak/log4shell-finder)	<img alt="forks" src="https://img.shields.io/github/forks/HynekPetrak/log4shell-finder">	<img alt="stars" src="https://img.shields.io/github/stars/HynekPetrak/log4shell-finder">
+- [hupe1980/scan4log4shell](https://github.com/hupe1980/scan4log4shell)	<img alt="forks" src="https://img.shields.io/github/forks/hupe1980/scan4log4shell">	<img alt="stars" src="https://img.shields.io/github/stars/hupe1980/scan4log4shell">
+- [thl-cmk/CVE-log4j-check_mk-plugin](https://github.com/thl-cmk/CVE-log4j-check_mk-plugin)	<img alt="forks" src="https://img.shields.io/github/forks/thl-cmk/CVE-log4j-check_mk-plugin">	<img alt="stars" src="https://img.shields.io/github/stars/thl-cmk/CVE-log4j-check_mk-plugin">
+- [fox-it/log4j-finder](https://github.com/fox-it/log4j-finder)	<img alt="forks" src="https://img.shields.io/github/forks/fox-it/log4j-finder">	<img alt="stars" src="https://img.shields.io/github/stars/fox-it/log4j-finder">
+- [Puliczek/CVE-2021-44228-PoC-log4j-bypass-words](https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words)	<img alt="forks" src="https://img.shields.io/github/forks/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words">	<img alt="stars" src="https://img.shields.io/github/stars/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words">
+- [0xsyr0/Log4Shell](https://github.com/0xsyr0/Log4Shell)	<img alt="forks" src="https://img.shields.io/github/forks/0xsyr0/Log4Shell">	<img alt="stars" src="https://img.shields.io/github/stars/0xsyr0/Log4Shell">
+- [taise-hub/log4j-poc](https://github.com/taise-hub/log4j-poc)	<img alt="forks" src="https://img.shields.io/github/forks/taise-hub/log4j-poc">	<img alt="stars" src="https://img.shields.io/github/stars/taise-hub/log4j-poc">
+- [1lann/log4shelldetect](https://github.com/1lann/log4shelldetect)	<img alt="forks" src="https://img.shields.io/github/forks/1lann/log4shelldetect">	<img alt="stars" src="https://img.shields.io/github/stars/1lann/log4shelldetect">
+- [lukepasek/log4jjndilookupremove](https://github.com/lukepasek/log4jjndilookupremove)	<img alt="forks" src="https://img.shields.io/github/forks/lukepasek/log4jjndilookupremove">	<img alt="stars" src="https://img.shields.io/github/stars/lukepasek/log4jjndilookupremove">
+- [thedevappsecguy/Log4J-Mitigation-CVE-2021-44228--CVE-2021-45046--CVE-2021-45105--CVE-2021-44832](https://github.com/thedevappsecguy/Log4J-Mitigation-CVE-2021-44228--CVE-2021-45046--CVE-2021-45105--CVE-2021-44832)	<img alt="forks" src="https://img.shields.io/github/forks/thedevappsecguy/Log4J-Mitigation-CVE-2021-44228--CVE-2021-45046--CVE-2021-45105--CVE-2021-44832">	<img alt="stars" src="https://img.shields.io/github/stars/thedevappsecguy/Log4J-Mitigation-CVE-2021-44228--CVE-2021-45046--CVE-2021-45105--CVE-2021-44832">
+- [mergebase/log4j-samples](https://github.com/mergebase/log4j-samples)	<img alt="forks" src="https://img.shields.io/github/forks/mergebase/log4j-samples">	<img alt="stars" src="https://img.shields.io/github/stars/mergebase/log4j-samples">
+- [dtact/divd-2021-00038--log4j-scanner](https://github.com/dtact/divd-2021-00038--log4j-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/dtact/divd-2021-00038--log4j-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/dtact/divd-2021-00038--log4j-scanner">
+- [nagten/JndiLookupRemoval](https://github.com/nagten/JndiLookupRemoval)	<img alt="forks" src="https://img.shields.io/github/forks/nagten/JndiLookupRemoval">	<img alt="stars" src="https://img.shields.io/github/stars/nagten/JndiLookupRemoval">
+- [richardbischof/log4j-detector-to-csv](https://github.com/richardbischof/log4j-detector-to-csv)	<img alt="forks" src="https://img.shields.io/github/forks/richardbischof/log4j-detector-to-csv">	<img alt="stars" src="https://img.shields.io/github/stars/richardbischof/log4j-detector-to-csv">
+- [CaptanMoss/Log4Shell-Sandbox-Signature](https://github.com/CaptanMoss/Log4Shell-Sandbox-Signature)	<img alt="forks" src="https://img.shields.io/github/forks/CaptanMoss/Log4Shell-Sandbox-Signature">	<img alt="stars" src="https://img.shields.io/github/stars/CaptanMoss/Log4Shell-Sandbox-Signature">
+
+---
 ## CVE-2021-45036 (2022-11-28T16:15:00)
 > Velneo vClient on its 28.1.3 version, could allow an attacker with knowledge of the victims's username and hashed password to spoof the victim's id against the server.
 - [Live-Hack-CVE/CVE-2021-45036](https://github.com/Live-Hack-CVE/CVE-2021-45036)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45036">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45036">
@@ -336,6 +370,11 @@
 ## CVE-2021-44693 (2022-12-13T16:15:00)
 > A vulnerability has been identified in SIMATIC Drive Controller family (All versions < V3.0.1), SIMATIC ET 200SP Open Controller CPU 1515SP PC2 (incl. SIPLUS variants) (All versions), SIMATIC S7-1200 CPU family (incl. SIPLUS variants) (All versions < V4.6.0), SIMATIC S7-1500 CPU family (incl. related ET200 CPUs and SIPLUS variants) (All versions < V3.0.1), SIMATIC S7-1500 Software Controller (All versions), SIMATIC S7-PLCSIM Advanced (All versions < V5.0), SIPLUS TIM 1531 IRC (All versions), TIM 1531 IRC (All versions). Affected devices don't process correctly certain special crafted packets sent to port 102/tcp, which could allow an attacker to cause a denial-of-service in the device.
 - [Live-Hack-CVE/CVE-2021-44693](https://github.com/Live-Hack-CVE/CVE-2021-44693)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44693">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44693">
+
+---
+## CVE-2021-44533 (2022-02-24T19:15:00)
+> Node.js < 12.22.9, < 14.18.3, < 16.13.2, and < 17.3.1 did not handle multi-value Relative Distinguished Names correctly. Attackers could craft certificate subjects containing a single-value Relative Distinguished Name that would be interpreted as a multi-value Relative Distinguished Name, for example, in order to inject a Common Name that would allow bypassing the certificate subject verification.Affected versions of Node.js that do not accept multi-value Relative Distinguished Names and are thus not vulnerable to such attacks themselves. However, third-party code that uses node's ambiguous presentation of certificate subjects may be vulnerable.
+- [Live-Hack-CVE/CVE-2021-44533](https://github.com/Live-Hack-CVE/CVE-2021-44533)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44533">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44533">
 
 ---
 ## CVE-2021-44521 (2022-02-11T13:15:00)
@@ -1164,6 +1203,11 @@
 ## CVE-2021-4203 (2022-03-25T19:15:00)
 > A use-after-free read flaw was found in sock_getsockopt() in net/core/sock.c due to SO_PEERCRED and SO_PEERGROUPS race with listen() (and connect()) in the Linux kernel. In this flaw, an attacker with a user privileges may crash the system or leak internal kernel information.
 - [Live-Hack-CVE/CVE-2021-4203](https://github.com/Live-Hack-CVE/CVE-2021-4203)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4203">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4203">
+
+---
+## CVE-2021-4202 (2022-03-25T19:15:00)
+> A use-after-free flaw was found in nci_request in net/nfc/nci/core.c in NFC Controller Interface (NCI) in the Linux kernel. This flaw could allow a local attacker with user privileges to cause a data race problem while the device is getting removed, leading to a privilege escalation problem.
+- [Live-Hack-CVE/CVE-2021-4202](https://github.com/Live-Hack-CVE/CVE-2021-4202)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4202">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4202">
 
 ---
 ## CVE-2021-42013 (2021-10-07T16:15:00)
@@ -2476,6 +2520,11 @@
 ## CVE-2021-38163 (2021-09-14T12:15:00)
 > SAP NetWeaver (Visual Composer 7.0 RT) versions - 7.30, 7.31, 7.40, 7.50, without restriction, an attacker authenticated as a non-administrative user can upload a malicious file over a network and trigger its processing, which is capable of running operating system commands with the privilege of the Java Server process. These commands can be used to read or modify any information on the server or shut the server down making it unavailable.
 - [core1impact/CVE-2021-38163](https://github.com/core1impact/CVE-2021-38163)	<img alt="forks" src="https://img.shields.io/github/forks/core1impact/CVE-2021-38163">	<img alt="stars" src="https://img.shields.io/github/stars/core1impact/CVE-2021-38163">
+
+---
+## CVE-2021-38162 (2021-09-14T12:15:00)
+> SAP Web Dispatcher versions - 7.49, 7.53, 7.77, 7.81, KRNL64NUC - 7.22, 7.22EXT, 7.49, KRNL64UC -7.22, 7.22EXT, 7.49, 7.53, KERNEL - 7.22, 7.49, 7.53, 7.77, 7.81, 7.83 processes allow an unauthenticated attacker to submit a malicious crafted request over a network to a front-end server which may, over several attempts, result in a back-end server confusing the boundaries of malicious and legitimate messages. This can result in the back-end server executing a malicious payload which can be used to read or modify any information on the server or consume server resources making it temporarily unavailable.
+- [Live-Hack-CVE/CVE-2021-38162](https://github.com/Live-Hack-CVE/CVE-2021-38162)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38162">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38162">
 
 ---
 ## CVE-2021-38161 (2021-11-03T16:15:00)
@@ -6331,6 +6380,11 @@
 > A locking protection bypass flaw was found in some versions of gnome-shell as shipped within CentOS Stream 8, when the "Application menu" or "Window list" GNOME extensions are enabled. This flaw allows a physical attacker who has access to a locked system to kill existing applications and start new ones as the locked user, even if the session is still locked.
 - [Live-Hack-CVE/CVE-2021-20315](https://github.com/Live-Hack-CVE/CVE-2021-20315)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20315">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20315">
 - [Live-Hack-CVE/CVE-2021-20315](https://github.com/Live-Hack-CVE/CVE-2021-20315)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20315">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20315">
+
+---
+## CVE-2021-20295 (2022-04-01T23:15:00)
+> It was discovered that the update for the virt:rhel module in the RHSA-2020:4676 (https://access.redhat.com/errata/RHSA-2020:4676) erratum released as part of Red Hat Enterprise Linux 8.3 failed to include the fix for the qemu-kvm component issue CVE-2020-10756, which was previously corrected in virt:rhel/qemu-kvm via erratum RHSA-2020:4059 (https://access.redhat.com/errata/RHSA-2020:4059). CVE-2021-20295 was assigned to that Red Hat specific security regression. For more details about the original security issue CVE-2020-10756, refer to bug 1835986 or the CVE page: https://access.redhat.com/security/cve/CVE-2020-10756.
+- [Live-Hack-CVE/CVE-2021-20295](https://github.com/Live-Hack-CVE/CVE-2021-20295)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20295">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20295">
 
 ---
 ## CVE-2021-20294 (2021-04-29T16:15:00)

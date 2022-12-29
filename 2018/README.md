@@ -193,6 +193,11 @@
 - [reswitched/rcm-modchips](https://github.com/reswitched/rcm-modchips)	<img alt="forks" src="https://img.shields.io/github/forks/reswitched/rcm-modchips">	<img alt="stars" src="https://img.shields.io/github/stars/reswitched/rcm-modchips">
 
 ---
+## CVE-2018-5747 (2018-01-17T19:29:00)
+> In Long Range Zip (aka lrzip) 0.631, there is a use-after-free in the ucompthread function (stream.c). Remote attackers could leverage this vulnerability to cause a denial of service via a crafted lrz file.
+- [Live-Hack-CVE/CVE-2018-5747](https://github.com/Live-Hack-CVE/CVE-2018-5747)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-5747">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-5747">
+
+---
 ## CVE-2018-5332 (2018-01-11T07:29:00)
 > In the Linux kernel through 3.2, the rds_message_alloc_sgs() function does not validate a value that is used during DMA page allocation, leading to a heap-based out-of-bounds write (related to the rds_rdma_extra_size function in net/rds/rdma.c).
 - [Live-Hack-CVE/CVE-2018-5332](https://github.com/Live-Hack-CVE/CVE-2018-5332)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-5332">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-5332">
@@ -699,6 +704,11 @@
 ## CVE-2018-12116 (2018-11-28T17:29:00)
 > Node.js: All versions prior to Node.js 6.15.0 and 8.14.0: HTTP request splitting: If Node.js can be convinced to use unsanitized user-provided Unicode data for the `path` option of an HTTP request, then data can be provided which will trigger a second, unexpected, and user-defined HTTP request to made to the same server.
 - [Live-Hack-CVE/CVE-2018-12116](https://github.com/Live-Hack-CVE/CVE-2018-12116)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-12116">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-12116">
+
+---
+## CVE-2018-11496 (2018-05-26T20:29:00)
+> In Long Range Zip (aka lrzip) 0.631, there is a use-after-free in read_stream in stream.c, because decompress_file in lrzip.c lacks certain size validation.
+- [Live-Hack-CVE/CVE-2018-11496](https://github.com/Live-Hack-CVE/CVE-2018-11496)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-11496">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-11496">
 
 ---
 ## CVE-2018-11321 (2018-05-22T15:29:00)

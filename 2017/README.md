@@ -86,6 +86,11 @@
 - [Live-Hack-CVE/CVE-2017-8879](https://github.com/Live-Hack-CVE/CVE-2017-8879)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-8879">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-8879">
 
 ---
+## CVE-2017-8842 (2017-05-08T14:29:00)
+> The bufRead::get() function in libzpaq/libzpaq.h in liblrzip.so in lrzip 0.631 allows remote attackers to cause a denial of service (divide-by-zero error and application crash) via a crafted archive.
+- [Live-Hack-CVE/CVE-2017-8842](https://github.com/Live-Hack-CVE/CVE-2017-8842)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-8842">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-8842">
+
+---
 ## CVE-2017-8529 (2017-06-15T01:29:00)
 > Internet Explorer in Microsoft Windows 7 SP1, Windows Server 2008 R2 SP1, Windows 8.1 and Windows RT 8.1, and Windows Server 2012 and R2 allow an attacker to detect specific files on the user's computer when affected Microsoft scripting engines do not properly handle objects in memory, aka "Microsoft Browser Information Disclosure Vulnerability".
 - [Live-Hack-CVE/CVE-2017-8529](https://github.com/Live-Hack-CVE/CVE-2017-8529)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-8529">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-8529">

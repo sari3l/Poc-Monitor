@@ -1794,6 +1794,14 @@
 - [Live-Hack-CVE/CVE-2019-13990](https://github.com/Live-Hack-CVE/CVE-2019-13990)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13990">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13990">
 
 ---
+## CVE-2019-13720 (2019-11-25T15:15:00)
+> Use after free in WebAudio in Google Chrome prior to 78.0.3904.87 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2019-13720](https://github.com/Live-Hack-CVE/CVE-2019-13720)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13720">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13720">
+- [forrest-orr/WizardOpium](https://github.com/forrest-orr/WizardOpium)	<img alt="forks" src="https://img.shields.io/github/forks/forrest-orr/WizardOpium">	<img alt="stars" src="https://img.shields.io/github/stars/forrest-orr/WizardOpium">
+- [ChoKyuWon/CVE-2019-13720](https://github.com/ChoKyuWon/CVE-2019-13720)	<img alt="forks" src="https://img.shields.io/github/forks/ChoKyuWon/CVE-2019-13720">	<img alt="stars" src="https://img.shields.io/github/stars/ChoKyuWon/CVE-2019-13720">
+- [cve-2019-13720/cve-2019-13720](https://github.com/cve-2019-13720/cve-2019-13720)	<img alt="forks" src="https://img.shields.io/github/forks/cve-2019-13720/cve-2019-13720">	<img alt="stars" src="https://img.shields.io/github/stars/cve-2019-13720/cve-2019-13720">
+
+---
 ## CVE-2019-13719 (2019-11-25T15:15:00)
 > Incorrect security UI in full screen mode in Google Chrome prior to 78.0.3904.70 allowed a remote attacker to hide security UI via a crafted HTML page.
 - [Live-Hack-CVE/CVE-2019-13719](https://github.com/Live-Hack-CVE/CVE-2019-13719)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13719">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13719">
