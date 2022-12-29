@@ -6858,6 +6858,7 @@
 ## CVE-2022-41442 (2022-10-07T22:15:00)
 > PicUploader v2.6.3 was discovered to contain cross-site scripting (XSS) vulnerability via the setStorageParams function in SettingController.php.
 - [Live-Hack-CVE/CVE-2022-41442](https://github.com/Live-Hack-CVE/CVE-2022-41442)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41442">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41442">
+- [efchatz/easy-exploits](https://github.com/efchatz/easy-exploits)	<img alt="forks" src="https://img.shields.io/github/forks/efchatz/easy-exploits">	<img alt="stars" src="https://img.shields.io/github/stars/efchatz/easy-exploits">
 
 ---
 ## CVE-2022-4144 (2022-11-29T18:15:00)
@@ -15617,6 +15618,9 @@
 ## CVE-2022-3442 (2022-10-10T14:15:00)
 > A vulnerability was found in Crealogix EBICS 7.0. It has been rated as problematic. Affected by this issue is some unknown functionality of the file /ebics-server/ebics.aspx. The manipulation leads to cross site scripting. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. Upgrading to version 7.1 is able to address this issue. It is recommended to upgrade the affected component. VDB-210374 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-3442](https://github.com/Live-Hack-CVE/CVE-2022-3442)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3442">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3442">
+- [Live-Hack-CVE/CVE-2022-34425](https://github.com/Live-Hack-CVE/CVE-2022-34425)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34425">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34425">
+- [Live-Hack-CVE/CVE-2022-34427](https://github.com/Live-Hack-CVE/CVE-2022-34427)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34427">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34427">
+- [Live-Hack-CVE/CVE-2022-34426](https://github.com/Live-Hack-CVE/CVE-2022-34426)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34426">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34426">
 
 ---
 ## CVE-2022-3441 (2022-10-31T16:15:00)
