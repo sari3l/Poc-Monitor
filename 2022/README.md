@@ -21447,6 +21447,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 > Combodo iTop is a web based IT Service Management tool. In versions prior to 2.7.6 and 3.0.0, users of the iTop user portal can send TWIG code to the server by forging specific http queries, and execute arbitrary code on the server using http server user privileges. This issue is fixed in versions 2.7.6 and 3.0.0. There are currently no known workarounds.
 - [Acceis/exploit-CVE-2022-24780](https://github.com/Acceis/exploit-CVE-2022-24780)	<img alt="forks" src="https://img.shields.io/github/forks/Acceis/exploit-CVE-2022-24780">	<img alt="stars" src="https://img.shields.io/github/stars/Acceis/exploit-CVE-2022-24780">
 - [Live-Hack-CVE/CVE-2022-24780](https://github.com/Live-Hack-CVE/CVE-2022-24780)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24780">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24780">
+- [Live-Hack-CVE/CVE-2022-24780](https://github.com/Live-Hack-CVE/CVE-2022-24780)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24780">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24780">
 
 ---
 ## CVE-2022-24765 (2022-04-12T18:15:00)
@@ -21938,6 +21939,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-23632 (2022-02-17T15:15:00)
 > Traefik is an HTTP reverse proxy and load balancer. Prior to version 2.6.1, Traefik skips the router transport layer security (TLS) configuration when the host header is a fully qualified domain name (FQDN). For a request, the TLS configuration choice can be different than the router choice, which implies the use of a wrong TLS configuration. When sending a request using FQDN handled by a router configured with a dedicated TLS configuration, the TLS configuration falls back to the default configuration that might not correspond to the configured one. If the CNAME flattening is enabled, the selected TLS configuration is the SNI one and the routing uses the CNAME value, so this can skip the expected TLS configuration. Version 2.6.1 contains a patch for this issue. As a workaround, one may add the FDQN to the host rule. However, there is no workaround if the CNAME flattening is enabled.
 - [Live-Hack-CVE/CVE-2022-23632](https://github.com/Live-Hack-CVE/CVE-2022-23632)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23632">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23632">
+
+---
+## CVE-2022-23626 (2022-02-08T22:15:00)
+> m1k1o/blog is a lightweight self-hosted facebook-styled PHP blog. Errors from functions `imagecreatefrom*` and `image*` have not been checked properly. Although PHP issued warnings and the upload function returned `false`, the original file (that could contain a malicious payload) was kept on the disk. Users are advised to upgrade as soon as possible. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-23626](https://github.com/Live-Hack-CVE/CVE-2022-23626)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23626">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23626">
 
 ---
 ## CVE-2022-23614 (2022-02-04T23:15:00)
@@ -22534,6 +22540,16 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-22807 (2022-02-09T23:15:00)
 > A CWE-1021 Improper Restriction of Rendered UI Layers or Frames vulnerability exists that could cause unintended modifications of the product settings or user accounts when deceiving the user to use the web interface rendered within iframes. Affected Product: EcoStruxure EV Charging Expert (formerly known as EVlink Load Management System): (HMIBSCEA53D1EDB, HMIBSCEA53D1EDS, HMIBSCEA53D1EDM, HMIBSCEA53D1EDL, HMIBSCEA53D1ESS, HMIBSCEA53D1ESM, HMIBSCEA53D1EML) (All Versions prior to SP8 (Version 01) V4.0.0.13)
 - [Live-Hack-CVE/CVE-2022-22807](https://github.com/Live-Hack-CVE/CVE-2022-22807)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22807">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22807">
+
+---
+## CVE-2022-22794 (2022-02-24T17:15:00)
+> Cybonet - PineApp Mail Relay Unauthenticated Sql Injection. Attacker can send a request to: /manage/emailrichment/userlist.php?CUSTOMER_ID_INNER=1 /admin/emailrichment/userlist.php?CUSTOMER_ID_INNER=1 /manage/emailrichment/usersunlist.php?CUSTOMER_ID_INNER=1 /admin/emailrichment/usersunlist.php?CUSTOMER_ID_INNER=1 and by doing that, the attacker can run Remote Code Execution in one liner.
+- [Live-Hack-CVE/CVE-2022-22794](https://github.com/Live-Hack-CVE/CVE-2022-22794)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22794">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22794">
+
+---
+## CVE-2022-22793 (2022-02-24T17:15:00)
+> Cybonet - PineApp Mail Relay Local File Inclusion. Attacker can send a request to : /manage/mailpolicymtm/log/eml_viewer/email.content.body.php?filesystem_path=ENCDODED PATH and by doing that, the attacker can read Local Files inside the server.
+- [Live-Hack-CVE/CVE-2022-22793](https://github.com/Live-Hack-CVE/CVE-2022-22793)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22793">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22793">
 
 ---
 ## CVE-2022-22763 (2022-12-22T20:15:00)
@@ -23668,6 +23684,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-20651 (2022-06-22T14:15:00)
 > A vulnerability in the logging component of Cisco Adaptive Security Device Manager (ASDM) could allow an authenticated, local attacker to view sensitive information in clear text on an affected system. Cisco ADSM must be deployed in a shared workstation environment for this issue to be exploited. This vulnerability is due to the storage of unencrypted credentials in certain logs. An attacker could exploit this vulnerability by accessing the logs on an affected system. A successful exploit could allow the attacker to view the credentials of other users of the shared device.
 - [Live-Hack-CVE/CVE-2022-20651](https://github.com/Live-Hack-CVE/CVE-2022-20651)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20651">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20651">
+
+---
+## CVE-2022-20625 (2022-02-23T18:15:00)
+> A vulnerability in the Cisco Discovery Protocol service of Cisco FXOS Software and Cisco NX-OS Software could allow an unauthenticated, adjacent attacker to cause the service to restart, resulting in a denial of service (DoS) condition. This vulnerability is due to improper handling of Cisco Discovery Protocol messages that are processed by the Cisco Discovery Protocol service. An attacker could exploit this vulnerability by sending a series of malicious Cisco Discovery Protocol messages to an affected device. A successful exploit could allow the attacker to cause the Cisco Discovery Protocol service to fail and restart. In rare conditions, repeated failures of the process could occur, which could cause the entire device to restart.
+- [Live-Hack-CVE/CVE-2022-20625](https://github.com/Live-Hack-CVE/CVE-2022-20625)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20625">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20625">
 
 ---
 ## CVE-2022-20620 (2022-01-12T20:15:00)

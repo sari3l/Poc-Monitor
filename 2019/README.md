@@ -46,6 +46,11 @@
 - [Live-Hack-CVE/CVE-2019-9721](https://github.com/Live-Hack-CVE/CVE-2019-9721)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9721">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9721">
 
 ---
+## CVE-2019-9718 (2019-03-12T09:29:00)
+> In FFmpeg 3.2 and 4.1, a denial of service in the subtitle decoder allows attackers to hog the CPU via a crafted video file in Matroska format, because ff_htmlmarkup_to_ass in libavcodec/htmlsubtitles.c has a complex format argument to sscanf.
+- [Live-Hack-CVE/CVE-2019-9718](https://github.com/Live-Hack-CVE/CVE-2019-9718)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9718">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9718">
+
+---
 ## CVE-2019-9634 (2019-03-08T15:29:00)
 > Go through 1.12 on Windows misuses certain LoadLibrary functionality, leading to DLL injection.
 - [Live-Hack-CVE/CVE-2019-9634](https://github.com/Live-Hack-CVE/CVE-2019-9634)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9634">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9634">

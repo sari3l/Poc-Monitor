@@ -85,6 +85,11 @@
 - [r0lh/CVE-2018-7600](https://github.com/r0lh/CVE-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/r0lh/CVE-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/r0lh/CVE-2018-7600">
 
 ---
+## CVE-2018-7557 (2018-02-28T07:29:00)
+> The decode_init function in libavcodec/utvideodec.c in FFmpeg 2.8 through 3.4.2 allows remote attackers to cause a denial of service (Out of array read) via an AVI file with crafted dimensions within chroma subsampling data.
+- [Live-Hack-CVE/CVE-2018-7557](https://github.com/Live-Hack-CVE/CVE-2018-7557)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-7557">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-7557">
+
+---
 ## CVE-2018-7422 (2018-03-19T14:29:00)
 > A Local File Inclusion vulnerability in the Site Editor plugin through 1.1.1 for WordPress allows remote attackers to retrieve arbitrary files via the ajax_path parameter to editor/extensions/pagebuilder/includes/ajax_shortcode_pattern.php, aka absolute path traversal.
 - [JacobEbben/CVE-2018-7422](https://github.com/JacobEbben/CVE-2018-7422)	<img alt="forks" src="https://img.shields.io/github/forks/JacobEbben/CVE-2018-7422">	<img alt="stars" src="https://img.shields.io/github/stars/JacobEbben/CVE-2018-7422">
@@ -186,6 +191,11 @@
 - [austinhartzheim/fusee-gelee](https://github.com/austinhartzheim/fusee-gelee)	<img alt="forks" src="https://img.shields.io/github/forks/austinhartzheim/fusee-gelee">	<img alt="stars" src="https://img.shields.io/github/stars/austinhartzheim/fusee-gelee">
 - [DavidBuchanan314/NXLoader](https://github.com/DavidBuchanan314/NXLoader)	<img alt="forks" src="https://img.shields.io/github/forks/DavidBuchanan314/NXLoader">	<img alt="stars" src="https://img.shields.io/github/stars/DavidBuchanan314/NXLoader">
 - [reswitched/rcm-modchips](https://github.com/reswitched/rcm-modchips)	<img alt="forks" src="https://img.shields.io/github/forks/reswitched/rcm-modchips">	<img alt="stars" src="https://img.shields.io/github/stars/reswitched/rcm-modchips">
+
+---
+## CVE-2018-5332 (2018-01-11T07:29:00)
+> In the Linux kernel through 3.2, the rds_message_alloc_sgs() function does not validate a value that is used during DMA page allocation, leading to a heap-based out-of-bounds write (related to the rds_rdma_extra_size function in net/rds/rdma.c).
+- [Live-Hack-CVE/CVE-2018-5332](https://github.com/Live-Hack-CVE/CVE-2018-5332)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-5332">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-5332">
 
 ---
 ## CVE-2018-4937 (2018-05-19T17:29:00)
@@ -459,6 +469,11 @@
 - [Live-Hack-CVE/CVE-2018-17825](https://github.com/Live-Hack-CVE/CVE-2018-17825)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-17825">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-17825">
 
 ---
+## CVE-2018-17773 (2020-09-09T19:15:00)
+> Ingenico Telium 2 POS terminals have a buffer overflow via SOCKET_TASK in the NTPT3 protocol. This is fixed in Telium 2 SDK v9.32.03 patch N.
+- [Live-Hack-CVE/CVE-2018-17773](https://github.com/Live-Hack-CVE/CVE-2018-17773)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-17773">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-17773">
+
+---
 ## CVE-2018-16881 (2019-01-25T18:29:00)
 > A denial of service vulnerability was found in rsyslog in the imptcp module. An attacker could send a specially crafted message to the imptcp socket, which would cause rsyslog to crash. Versions before 8.27.0 are vulnerable.
 - [Live-Hack-CVE/CVE-2018-16881](https://github.com/Live-Hack-CVE/CVE-2018-16881)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-16881">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-16881">
@@ -466,6 +481,7 @@
 ---
 ## CVE-2018-16878 (2019-04-18T18:29:00)
 > A flaw was found in pacemaker up to and including version 2.0.1. An insufficient verification inflicted preference of uncontrolled processes can lead to DoS
+- [Live-Hack-CVE/CVE-2018-16878](https://github.com/Live-Hack-CVE/CVE-2018-16878)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-16878">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-16878">
 - [Live-Hack-CVE/CVE-2018-16878](https://github.com/Live-Hack-CVE/CVE-2018-16878)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-16878">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-16878">
 
 ---
@@ -531,6 +547,11 @@
 ## CVE-2018-15856 (2018-08-25T21:29:00)
 > An infinite loop when reaching EOL unexpectedly in compose/parser.c (aka the keymap parser) in xkbcommon before 0.8.1 could be used by local attackers to cause a denial of service during parsing of crafted keymap files.
 - [ahaShiyu/CVE-2018-15856](https://github.com/ahaShiyu/CVE-2018-15856)	<img alt="forks" src="https://img.shields.io/github/forks/ahaShiyu/CVE-2018-15856">	<img alt="stars" src="https://img.shields.io/github/stars/ahaShiyu/CVE-2018-15856">
+
+---
+## CVE-2018-15822 (2018-08-23T23:29:00)
+> The flv_write_packet function in libavformat/flvenc.c in FFmpeg through 2.8 does not check for an empty audio packet, leading to an assertion failure.
+- [Live-Hack-CVE/CVE-2018-15822](https://github.com/Live-Hack-CVE/CVE-2018-15822)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-15822">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-15822">
 
 ---
 ## CVE-2018-15708 (2018-11-14T18:29:00)

@@ -1369,6 +1369,11 @@
 - [Live-Hack-CVE/CVE-2021-41771](https://github.com/Live-Hack-CVE/CVE-2021-41771)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41771">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41771">
 
 ---
+## CVE-2021-41657 (2022-03-10T17:44:00)
+> SmartBear CodeCollaborator v6.1.6102 was discovered to contain a vulnerability in the web UI which would allow an attacker to conduct a clickjacking attack.
+- [Live-Hack-CVE/CVE-2021-41657](https://github.com/Live-Hack-CVE/CVE-2021-41657)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41657">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41657">
+
+---
 ## CVE-2021-41652 (2022-03-01T23:15:00)
 > Insecure permissions in the file database.sdb of BatFlat CMS v1.3.6 allows attackers to dump the entire database.
 - [deathflash1411/CVE-2021-41652](https://github.com/deathflash1411/CVE-2021-41652)	<img alt="forks" src="https://img.shields.io/github/forks/deathflash1411/CVE-2021-41652">	<img alt="stars" src="https://img.shields.io/github/stars/deathflash1411/CVE-2021-41652">
@@ -2559,6 +2564,11 @@
 ## CVE-2021-37533 (2022-12-03T15:15:00)
 > Prior to Apache Commons Net 3.9.0, Net's FTP client trusts the host from PASV response by default. A malicious server can redirect the Commons Net code to use a different host, but the user has to connect to the malicious server in the first place. This may lead to leakage of information about services running on the private network of the client. The default in version 3.9.0 is now false to ignore such hosts, as cURL does. See https://issues.apache.org/jira/browse/NET-711.
 - [Live-Hack-CVE/CVE-2021-37533](https://github.com/Live-Hack-CVE/CVE-2021-37533)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37533">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37533">
+
+---
+## CVE-2021-3749 (2021-08-31T11:15:00)
+> axios is vulnerable to Inefficient Regular Expression Complexity
+- [Live-Hack-CVE/CVE-2021-3749](https://github.com/Live-Hack-CVE/CVE-2021-3749)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3749">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3749">
 
 ---
 ## CVE-2021-3748 (2022-03-23T20:15:00)
@@ -3987,6 +3997,7 @@
 ## CVE-2021-32503 (2022-04-01T23:15:00)
 > Unauthenticated users can access sensitive web URLs through GET request, which should be restricted to maintenance users only. A malicious attacker could use this sensitive information’s to launch further attacks on the system.
 - [Live-Hack-CVE/CVE-2021-32503](https://github.com/Live-Hack-CVE/CVE-2021-32503)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32503">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32503">
+- [Live-Hack-CVE/CVE-2021-32503](https://github.com/Live-Hack-CVE/CVE-2021-32503)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32503">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32503">
 
 ---
 ## CVE-2021-32415 (2022-12-13T15:15:00)
@@ -4060,6 +4071,11 @@
 ## CVE-2021-31650 (2022-12-16T22:15:00)
 > A SQL injection vulnerability in Sourcecodester Online Grading System 1.0 allows remote attackers to execute arbitrary SQL commands via the uname parameter.
 - [Live-Hack-CVE/CVE-2021-31650](https://github.com/Live-Hack-CVE/CVE-2021-31650)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31650">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31650">
+
+---
+## CVE-2021-31583 (2021-04-23T21:15:00)
+> Sipwise C5 NGCP WWW Admin version 3.6.7 up to and including platform version NGCP CE 3.0 has multiple authenticated stored and reflected XSS vulnerabilities when input passed via several parameters to several scripts is not properly sanitized before being returned to the user: Stored XSS in callforward/time/set/save (POST tsetname); Reflected XSS in addressbook (GET filter); Stored XSS in addressbook/save (POST firstname, lastname, company); and Reflected XSS in statistics/versions (GET lang).
+- [Live-Hack-CVE/CVE-2021-31583](https://github.com/Live-Hack-CVE/CVE-2021-31583)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31583">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31583">
 
 ---
 ## CVE-2021-31566 (2022-08-23T16:15:00)
@@ -5506,9 +5522,19 @@
 - [Live-Hack-CVE/CVE-2021-23159](https://github.com/Live-Hack-CVE/CVE-2021-23159)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23159">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23159">
 
 ---
+## CVE-2021-23146 (2021-11-18T18:15:00)
+> An Incomplete Comparison with Missing Factors vulnerability in the Gallagher Controller allows an attacker to bypass PIV verification. This issue affects: Gallagher Command Centre 8.40 versions prior to 8.40.1888 (MR3); 8.30 versions prior to 8.30.1359 (MR3); 8.20 versions prior to 8.20.1259 (MR5); 8.10 versions prior to 8.10.1284 (MR7); version 8.00 and prior versions.
+- [Live-Hack-CVE/CVE-2021-23146](https://github.com/Live-Hack-CVE/CVE-2021-23146)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23146">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23146">
+
+---
 ## CVE-2021-23135 (2021-05-12T23:15:00)
 > Exposure of System Data to an Unauthorized Control Sphere vulnerability in web UI of Argo CD allows attacker to cause leaked secret data into web UI error messages and logs. This issue affects Argo CD 1.8 versions prior to 1.8.7; 1.7 versions prior to 1.7.14.
 - [Live-Hack-CVE/CVE-2021-23135](https://github.com/Live-Hack-CVE/CVE-2021-23135)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23135">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23135">
+
+---
+## CVE-2021-23133 (2021-04-22T18:15:00)
+> A race condition in Linux kernel SCTP sockets (net/sctp/socket.c) before 5.12-rc8 can lead to kernel privilege escalation from the context of a network service or an unprivileged process. If sctp_destroy_sock is called without sock_net(sk)->sctp.addr_wq_lock then an element is removed from the auto_asconf_splist list without any proper locking. This can be exploited by an attacker with network service privileges to escalate to root or from the context of an unprivileged user directly if a BPF_CGROUP_INET_SOCK_CREATE is attached which denies creation of some SCTP socket.
+- [Live-Hack-CVE/CVE-2021-23133](https://github.com/Live-Hack-CVE/CVE-2021-23133)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23133">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23133">
 
 ---
 ## CVE-2021-2312 (2021-04-22T22:15:00)
@@ -6224,6 +6250,16 @@
 ## CVE-2021-20294 (2021-04-29T16:15:00)
 > A flaw was found in binutils readelf 2.35 program. An attacker who is able to convince a victim using readelf to read a crafted file could trigger a stack buffer overflow, out-of-bounds write of arbitrary data supplied by the attacker. The highest impact of this flaw is to confidentiality, integrity, and availability.
 - [Live-Hack-CVE/CVE-2021-20294](https://github.com/Live-Hack-CVE/CVE-2021-20294)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20294">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20294">
+
+---
+## CVE-2021-20269 (2022-03-10T17:41:00)
+> A flaw was found in the permissions of a log file created by kexec-tools. This flaw allows a local unprivileged user to read this file and leak kernel internal information from a previous panic. The highest threat from this vulnerability is to confidentiality. This flaw affects kexec-tools shipped by Fedora versions prior to 2.0.21-8 and RHEL versions prior to 2.0.20-47.
+- [Live-Hack-CVE/CVE-2021-20269](https://github.com/Live-Hack-CVE/CVE-2021-20269)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20269">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20269">
+
+---
+## CVE-2021-20267 (2021-05-28T19:15:00)
+> A flaw was found in openstack-neutron's default Open vSwitch firewall rules. By sending carefully crafted packets, anyone in control of a server instance connected to the virtual switch can impersonate the IPv6 addresses of other systems on the network, resulting in denial of service or in some cases possibly interception of traffic intended for other destinations. Only deployments using the Open vSwitch driver are affected. Source: OpenStack project. Versions before openstack-neutron 15.3.3, openstack-neutron 16.3.1 and openstack-neutron 17.1.1 are affected.
+- [Live-Hack-CVE/CVE-2021-20267](https://github.com/Live-Hack-CVE/CVE-2021-20267)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20267">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20267">
 
 ---
 ## CVE-2021-20227 (2021-03-23T17:15:00)
