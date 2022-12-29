@@ -8176,6 +8176,11 @@
 - [Live-Hack-CVE/CVE-2022-40741](https://github.com/Live-Hack-CVE/CVE-2022-40741)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40741">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40741">
 
 ---
+## CVE-2022-40736 (2022-09-15T04:15:00)
+> An issue was discovered in Bento4 1.6.0-639. There ie excessive memory consumption in AP4_CttsAtom::Create in Core/Ap4CttsAtom.cpp.
+- [Live-Hack-CVE/CVE-2022-40736](https://github.com/Live-Hack-CVE/CVE-2022-40736)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40736">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40736">
+
+---
 ## CVE-2022-40735 (2022-11-14T23:15:00)
 > The Diffie-Hellman Key Agreement Protocol allows use of long exponents that arguably make certain calculations unnecessarily expensive, because the 1996 van Oorschot and Wiener paper found that "(appropriately) short exponents" can be used when there are adequate subgroup constraints, and these short exponents can lead to less expensive calculations than for long exponents. This issue is different from CVE-2002-20001 because it is based on an observation about exponent size, rather than an observation about numbers that are not public keys. The specific situations in which calculation expense would constitute a server-side vulnerability depend on the protocol (e.g., TLS, SSH, or IKE) and the DHE implementation details. In general, there might be an availability concern because of server-side resource consumption from DHE modular-exponentiation calculations. Finally, it is possible for an attacker to exploit this vulnerability and CVE-2002-20001 together.
 - [Live-Hack-CVE/CVE-2022-40735](https://github.com/Live-Hack-CVE/CVE-2022-40735)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40735">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40735">
@@ -8391,6 +8396,7 @@
 ## CVE-2022-40660 (2022-09-15T16:15:00)
 > This vulnerability allows remote attackers to execute arbitrary code on affected installations of NIKON NIS-Elements Viewer 1.2100.1483.0. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of PSD images. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a heap-based buffer. An attacker can leverage this vulnerability to execute code in the context of the current process. Was ZDI-CAN-15135.
 - [Live-Hack-CVE/CVE-2022-40660](https://github.com/Live-Hack-CVE/CVE-2022-40660)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40660">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40660">
+- [Live-Hack-CVE/CVE-2022-40660](https://github.com/Live-Hack-CVE/CVE-2022-40660)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40660">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40660">
 
 ---
 ## CVE-2022-4066 (2022-11-19T19:15:00)
@@ -8401,6 +8407,7 @@
 ---
 ## CVE-2022-40659 (2022-09-15T16:15:00)
 > This vulnerability allows remote attackers to execute arbitrary code on affected installations of NIKON NIS-Elements Viewer 1.2100.1483.0. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of TIF images. Crafted data in a TIF file can trigger a write past the end of an allocated buffer. An attacker can leverage this vulnerability to execute code in the context of the current process. Was ZDI-CAN-15214.
+- [Live-Hack-CVE/CVE-2022-40659](https://github.com/Live-Hack-CVE/CVE-2022-40659)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40659">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40659">
 - [Live-Hack-CVE/CVE-2022-40659](https://github.com/Live-Hack-CVE/CVE-2022-40659)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40659">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40659">
 
 ---
@@ -8457,6 +8464,22 @@
 ## CVE-2022-40626 (2022-09-14T11:15:00)
 > An unauthenticated user can create a link with reflected Javascript code inside the backurl parameter and send it to other authenticated users in order to create a fake account with predefined login, password and role in Zabbix Frontend.
 - [Live-Hack-CVE/CVE-2022-40626](https://github.com/Live-Hack-CVE/CVE-2022-40626)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40626">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40626">
+- [Live-Hack-CVE/CVE-2022-40626](https://github.com/Live-Hack-CVE/CVE-2022-40626)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40626">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40626">
+
+---
+## CVE-2022-40623 (2022-09-13T21:15:00)
+> The WAVLINK Quantum D4G (WN531G3) running firmware version M31G3.V5030.200325 does not utilize anti-CSRF tokens, which, when combined with other issues (such as CVE-2022-35518), can lead to remote, unauthenticated command execution.
+- [Live-Hack-CVE/CVE-2022-40623](https://github.com/Live-Hack-CVE/CVE-2022-40623)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40623">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40623">
+
+---
+## CVE-2022-40622 (2022-09-13T21:15:00)
+> The WAVLINK Quantum D4G (WN531G3) running firmware version M31G3.V5030.200325 uses IP addresses to hold sessions and does not not use session tokens. Therefore, if an attacker changes their IP address to match the logged-in administrator's, or is behind the same NAT as the logged in administrator, session takeover is possible.
+- [Live-Hack-CVE/CVE-2022-40622](https://github.com/Live-Hack-CVE/CVE-2022-40622)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40622">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40622">
+
+---
+## CVE-2022-40621 (2022-09-13T21:15:00)
+> Because the WAVLINK Quantum D4G (WN531G3) running firmware version M31G3.V5030.200325 and earlier communicates over HTTP and not HTTPS, and because the hashing mechanism does not rely on a server-supplied key, it is possible for an attacker with sufficient network access to capture the hashed password of a logged on user and use it in a classic Pass-the-Hash style attack.
+- [Live-Hack-CVE/CVE-2022-40621](https://github.com/Live-Hack-CVE/CVE-2022-40621)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40621">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40621">
 
 ---
 ## CVE-2022-40616 (2022-09-21T17:15:00)
@@ -10667,10 +10690,12 @@
 ## CVE-2022-38997 (2022-09-16T18:15:00)
 > The secure OS module has configuration defects. Successful exploitation of this vulnerability may affect data confidentiality.
 - [Live-Hack-CVE/CVE-2022-38997](https://github.com/Live-Hack-CVE/CVE-2022-38997)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38997">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38997">
+- [Live-Hack-CVE/CVE-2022-38997](https://github.com/Live-Hack-CVE/CVE-2022-38997)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38997">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38997">
 
 ---
 ## CVE-2022-38996 (2022-09-16T18:15:00)
 > The secure OS module has configuration defects. Successful exploitation of this vulnerability may affect system availability.
+- [Live-Hack-CVE/CVE-2022-38996](https://github.com/Live-Hack-CVE/CVE-2022-38996)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38996">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38996">
 - [Live-Hack-CVE/CVE-2022-38996](https://github.com/Live-Hack-CVE/CVE-2022-38996)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38996">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38996">
 
 ---
@@ -10681,6 +10706,7 @@
 ---
 ## CVE-2022-38991 (2022-09-16T18:15:00)
 > The secure OS module has configuration defects. Successful exploitation of this vulnerability may affect data confidentiality.
+- [Live-Hack-CVE/CVE-2022-38991](https://github.com/Live-Hack-CVE/CVE-2022-38991)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38991">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38991">
 - [Live-Hack-CVE/CVE-2022-38991](https://github.com/Live-Hack-CVE/CVE-2022-38991)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38991">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38991">
 
 ---
@@ -10697,10 +10723,12 @@
 ## CVE-2022-38988 (2022-09-16T18:15:00)
 > The secure OS module has configuration defects. Successful exploitation of this vulnerability may affect data confidentiality.
 - [Live-Hack-CVE/CVE-2022-38988](https://github.com/Live-Hack-CVE/CVE-2022-38988)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38988">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38988">
+- [Live-Hack-CVE/CVE-2022-38988](https://github.com/Live-Hack-CVE/CVE-2022-38988)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38988">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38988">
 
 ---
 ## CVE-2022-38987 (2022-09-16T18:15:00)
 > The secure OS module has configuration defects. Successful exploitation of this vulnerability may affect system availability.
+- [Live-Hack-CVE/CVE-2022-38987](https://github.com/Live-Hack-CVE/CVE-2022-38987)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38987">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38987">
 - [Live-Hack-CVE/CVE-2022-38987](https://github.com/Live-Hack-CVE/CVE-2022-38987)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38987">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38987">
 
 ---
@@ -10736,6 +10764,7 @@
 ---
 ## CVE-2022-38978 (2022-09-16T18:15:00)
 > The secure OS module has configuration defects. Successful exploitation of this vulnerability may affect data confidentiality.
+- [Live-Hack-CVE/CVE-2022-38978](https://github.com/Live-Hack-CVE/CVE-2022-38978)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38978">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38978">
 - [Live-Hack-CVE/CVE-2022-38978](https://github.com/Live-Hack-CVE/CVE-2022-38978)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38978">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38978">
 
 ---
@@ -10851,10 +10880,12 @@
 ## CVE-2022-38878 (2022-09-16T16:15:00)
 > School Activity Updates with SMS Notification v1.0 is vulnerable to SQL Injection via /activity/admin/modules/event/index.php?view=edit&id=.
 - [Live-Hack-CVE/CVE-2022-38878](https://github.com/Live-Hack-CVE/CVE-2022-38878)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38878">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38878">
+- [Live-Hack-CVE/CVE-2022-38878](https://github.com/Live-Hack-CVE/CVE-2022-38878)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38878">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38878">
 
 ---
 ## CVE-2022-38877 (2022-09-16T16:15:00)
 > Garage Management System v1.0 is vulnerable to Arbitrary code execution via ip/garage/php_action/editProductImage.php?id=1.
+- [Live-Hack-CVE/CVE-2022-38877](https://github.com/Live-Hack-CVE/CVE-2022-38877)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38877">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38877">
 - [Live-Hack-CVE/CVE-2022-38877](https://github.com/Live-Hack-CVE/CVE-2022-38877)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38877">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38877">
 
 ---
@@ -11265,6 +11296,7 @@
 ## CVE-2022-38496 (2022-09-13T21:15:00)
 > LIEF commit 365a16a was discovered to contain a reachable assertion abort via the component BinaryStream.hpp.
 - [Live-Hack-CVE/CVE-2022-38496](https://github.com/Live-Hack-CVE/CVE-2022-38496)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38496">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38496">
+- [Live-Hack-CVE/CVE-2022-38496](https://github.com/Live-Hack-CVE/CVE-2022-38496)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38496">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38496">
 
 ---
 ## CVE-2022-38488 (2022-12-14T21:15:00)
@@ -11551,6 +11583,7 @@
 ---
 ## CVE-2022-38307 (2022-09-13T21:15:00)
 > LIEF commit 5d1d643 was discovered to contain a segmentation violation via the function LIEF::MachO::SegmentCommand::file_offset() at /MachO/SegmentCommand.cpp.
+- [Live-Hack-CVE/CVE-2022-38307](https://github.com/Live-Hack-CVE/CVE-2022-38307)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38307">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38307">
 - [Live-Hack-CVE/CVE-2022-38307](https://github.com/Live-Hack-CVE/CVE-2022-38307)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38307">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38307">
 
 ---
@@ -13091,6 +13124,7 @@
 ## CVE-2022-37207 (2022-09-15T15:15:00)
 > JFinal CMS 5.1.0 is affected by: SQL Injection. These interfaces do not use the same component, nor do they have filters, but each uses its own SQL concatenation method, resulting in SQL injection
 - [AgainstTheLight/CVE-2022-37207](https://github.com/AgainstTheLight/CVE-2022-37207)	<img alt="forks" src="https://img.shields.io/github/forks/AgainstTheLight/CVE-2022-37207">	<img alt="stars" src="https://img.shields.io/github/stars/AgainstTheLight/CVE-2022-37207">
+- [Live-Hack-CVE/CVE-2022-37207](https://github.com/Live-Hack-CVE/CVE-2022-37207)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37207">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37207">
 - [Live-Hack-CVE/CVE-2022-37207](https://github.com/Live-Hack-CVE/CVE-2022-37207)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37207">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37207">
 
 ---
@@ -14996,6 +15030,21 @@
 - [Live-Hack-CVE/CVE-2022-35948](https://github.com/Live-Hack-CVE/CVE-2022-35948)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35948">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35948">
 
 ---
+## CVE-2022-35947 (2022-09-14T18:15:00)
+> GLPI stands for Gestionnaire Libre de Parc Informatique and is a Free Asset and IT Management Software package, that provides ITIL Service Desk features, licenses tracking and software auditing. Affected versions have been found to be vulnerable to a SQL injection attack which an attacker could leverage to simulate an arbitrary user login. Users are advised to upgrade to version 10.0.3. Users unable to upgrade should disable the `Enable login with external token` API configuration.
+- [Live-Hack-CVE/CVE-2022-35947](https://github.com/Live-Hack-CVE/CVE-2022-35947)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35947">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35947">
+
+---
+## CVE-2022-35946 (2022-09-14T18:15:00)
+> GLPI stands for Gestionnaire Libre de Parc Informatique and is a Free Asset and IT Management Software package, that provides ITIL Service Desk features, licenses tracking and software auditing. In affected versions request input is not properly validated in the plugin controller and can be used to access low-level API of Plugin class. An attacker can, for instance, alter database data. Attacker must have "General setup" update rights to be able to perform this attack. Users are advised to upgrade to version 10.0.3. Users unable to upgrade should remove the `front/plugin.form.php` script.
+- [Live-Hack-CVE/CVE-2022-35946](https://github.com/Live-Hack-CVE/CVE-2022-35946)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35946">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35946">
+
+---
+## CVE-2022-35945 (2022-09-14T18:15:00)
+> GLPI stands for Gestionnaire Libre de Parc Informatique and is a Free Asset and IT Management Software package, that provides ITIL Service Desk features, licenses tracking and software auditing. Information associated to registration key are not properly escaped in registration key configuration page. They can be used to steal a GLPI administrator cookie. Users are advised to upgrade to 10.0.3. There are no known workarounds for this issue. ### Workarounds Do not use a registration key created by an untrusted person.
+- [Live-Hack-CVE/CVE-2022-35945](https://github.com/Live-Hack-CVE/CVE-2022-35945)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35945">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35945">
+
+---
 ## CVE-2022-35941 (2022-09-16T20:15:00)
 > TensorFlow is an open source platform for machine learning. The `AvgPoolOp` function takes an argument `ksize` that must be positive but is not checked. A negative `ksize` can trigger a `CHECK` failure and crash the program. We have patched the issue in GitHub commit 3a6ac52664c6c095aa2b114e742b0aa17fdce78f. The fix will be included in TensorFlow 2.10.0. We will also cherrypick this commit on TensorFlow 2.9.1, TensorFlow 2.8.1, and TensorFlow 2.7.2, as these are also affected and still in supported range. There are no known workarounds to this issue.
 - [Live-Hack-CVE/CVE-2022-35941](https://github.com/Live-Hack-CVE/CVE-2022-35941)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35941">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35941">
@@ -16881,10 +16930,12 @@
 ## CVE-2022-34102 (2022-09-13T22:15:00)
 > Insufficient access control vulnerability was discovered in the Crestron AirMedia Windows Application, version 4.3.1.39, in which a user can pause the uninstallation of an executable to gain a SYSTEM level command prompt.
 - [Live-Hack-CVE/CVE-2022-34102](https://github.com/Live-Hack-CVE/CVE-2022-34102)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34102">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34102">
+- [Live-Hack-CVE/CVE-2022-34102](https://github.com/Live-Hack-CVE/CVE-2022-34102)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34102">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34102">
 
 ---
 ## CVE-2022-34101 (2022-09-13T22:15:00)
 > A vulnerability was discovered in the Crestron AirMedia Windows Application, version 4.3.1.39, in which a user can place a malicious DLL in a certain path to execute code and preform a privilege escalation attack.
+- [Live-Hack-CVE/CVE-2022-34101](https://github.com/Live-Hack-CVE/CVE-2022-34101)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34101">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34101">
 - [Live-Hack-CVE/CVE-2022-34101](https://github.com/Live-Hack-CVE/CVE-2022-34101)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34101">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34101">
 
 ---
@@ -18334,6 +18385,7 @@
 ## CVE-2022-3225 (2022-09-16T17:15:00)
 > Improper Access Control in GitHub repository budibase/budibase prior to 1.3.20.
 - [Live-Hack-CVE/CVE-2022-3225](https://github.com/Live-Hack-CVE/CVE-2022-3225)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3225">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3225">
+- [Live-Hack-CVE/CVE-2022-3225](https://github.com/Live-Hack-CVE/CVE-2022-3225)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3225">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3225">
 
 ---
 ## CVE-2022-32244 (2022-09-13T20:15:00)
@@ -18413,6 +18465,7 @@
 ---
 ## CVE-2022-3221 (2022-09-15T09:15:00)
 > Cross-Site Request Forgery (CSRF) in GitHub repository ikus060/rdiffweb prior to 2.4.3.
+- [Live-Hack-CVE/CVE-2022-3221](https://github.com/Live-Hack-CVE/CVE-2022-3221)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3221">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3221">
 - [Live-Hack-CVE/CVE-2022-3221](https://github.com/Live-Hack-CVE/CVE-2022-3221)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3221">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3221">
 
 ---
@@ -18520,6 +18573,7 @@
 - [trhacknon/CVE-2022-32119](https://github.com/trhacknon/CVE-2022-32119)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-32119">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-32119">
 - [JC175/CVE-2022-32119](https://github.com/JC175/CVE-2022-32119)	<img alt="forks" src="https://img.shields.io/github/forks/JC175/CVE-2022-32119">	<img alt="stars" src="https://img.shields.io/github/stars/JC175/CVE-2022-32119">
 - [JC175/CVE-2022-32118](https://github.com/JC175/CVE-2022-32118)	<img alt="forks" src="https://img.shields.io/github/forks/JC175/CVE-2022-32118">	<img alt="stars" src="https://img.shields.io/github/stars/JC175/CVE-2022-32118">
+- [Live-Hack-CVE/CVE-2022-3211](https://github.com/Live-Hack-CVE/CVE-2022-3211)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3211">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3211">
 
 ---
 ## CVE-2022-32089 (2022-07-01T20:15:00)
@@ -19004,6 +19058,7 @@
 ## CVE-2022-31324 (2022-09-13T22:15:00)
 > An arbitrary file download vulnerability in the downloadAction() function of Penta Security Systems Inc WAPPLES v6.0 r3 4.10-hotfix1 allows attackers to download arbitrary files via a crafted POST request.
 - [Live-Hack-CVE/CVE-2022-31324](https://github.com/Live-Hack-CVE/CVE-2022-31324)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31324">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31324">
+- [Live-Hack-CVE/CVE-2022-31324](https://github.com/Live-Hack-CVE/CVE-2022-31324)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31324">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31324">
 
 ---
 ## CVE-2022-3132 (2022-10-03T14:15:00)
@@ -19135,6 +19190,11 @@
 - [emirpolatt/CVE-2022-31188](https://github.com/emirpolatt/CVE-2022-31188)	<img alt="forks" src="https://img.shields.io/github/forks/emirpolatt/CVE-2022-31188">	<img alt="stars" src="https://img.shields.io/github/stars/emirpolatt/CVE-2022-31188">
 
 ---
+## CVE-2022-31187 (2022-09-14T18:15:00)
+> GLPI stands for Gestionnaire Libre de Parc Informatique and is a Free Asset and IT Management Software package, that provides ITIL Service Desk features, licenses tracking and software auditing. Affected versions were found to not properly neutralize HTML tags in the global search context. Users are advised to upgrade to version 10.0.3 to resolve this issue. Users unable to upgrade should disable global search.
+- [Live-Hack-CVE/CVE-2022-31187](https://github.com/Live-Hack-CVE/CVE-2022-31187)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31187">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31187">
+
+---
 ## CVE-2022-31176 (2022-09-02T21:15:00)
 > Grafana Image Renderer is a Grafana backend plugin that handles rendering of panels & dashboards to PNGs using a headless browser (Chromium/Chrome). An internal security review identified an unauthorized file disclosure vulnerability. It is possible for a malicious user to retrieve unauthorized files under some network conditions or via a fake datasource (if user has admin permissions in Grafana). All Grafana installations should be upgraded to version 3.6.1 as soon as possible. As a workaround it is possible to [disable HTTP remote rendering](https://grafana.com/docs/grafana/latest/setup-grafana/configure-grafana/#plugingrafana-image-renderer).
 - [Live-Hack-CVE/CVE-2022-31176](https://github.com/Live-Hack-CVE/CVE-2022-31176)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31176">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31176">
@@ -19150,6 +19210,11 @@
 > An issue was discovered in the Linux kernel through 5.16-rc6. malidp_crtc_reset in drivers/gpu/drm/arm/malidp_crtc.c lacks check of the return value of kzalloc() and will cause the null pointer dereference.
 - [Live-Hack-CVE/CVE-2022-3115](https://github.com/Live-Hack-CVE/CVE-2022-3115)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3115">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3115">
 - [Live-Hack-CVE/CVE-2022-3115](https://github.com/Live-Hack-CVE/CVE-2022-3115)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3115">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3115">
+
+---
+## CVE-2022-31143 (2022-09-14T18:15:00)
+> GLPI stands for Gestionnaire Libre de Parc Informatique and is a Free Asset and IT Management Software package, that provides ITIL Service Desk features, licenses tracking and software auditing. It was found that in affected versions there is an exposure of private information defined in setup of GLPI (like smtp or cas hosts). Note that passwords are not exposed. Users are advised to upgrade to version 10.0.3. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-31143](https://github.com/Live-Hack-CVE/CVE-2022-31143)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31143">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31143">
 
 ---
 ## CVE-2022-3114 (2022-12-14T21:15:00)
@@ -20346,6 +20411,7 @@
 ---
 ## CVE-2022-29649 (2022-09-15T15:15:00)
 > Qsmart Next v4.1.2 was discovered to contain a cross-site scripting (XSS) vulnerability.
+- [Live-Hack-CVE/CVE-2022-29649](https://github.com/Live-Hack-CVE/CVE-2022-29649)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29649">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29649">
 - [Live-Hack-CVE/CVE-2022-29649](https://github.com/Live-Hack-CVE/CVE-2022-29649)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29649">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29649">
 
 ---
