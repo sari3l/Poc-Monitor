@@ -6,6 +6,16 @@
 - [sbani/CVE-2014-8731-PoC](https://github.com/sbani/CVE-2014-8731-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sbani/CVE-2014-8731-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sbani/CVE-2014-8731-PoC">
 
 ---
+## CVE-2014-6568 (2015-01-21T15:28:00)
+> Unspecified vulnerability in Oracle MySQL Server 5.5.40 and earlier, and 5.6.21 and earlier, allows remote authenticated users to affect availability via vectors related to Server : InnoDB : DML.
+- [Live-Hack-CVE/CVE-2014-6568](https://github.com/Live-Hack-CVE/CVE-2014-6568)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-6568">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-6568">
+
+---
+## CVE-2014-6474 (2014-10-15T15:55:00)
+> Unspecified vulnerability in Oracle MySQL Server 5.6.19 and earlier allows remote authenticated users to affect availability via vectors related to SERVER:MEMCACHED.
+- [Live-Hack-CVE/CVE-2014-6474](https://github.com/Live-Hack-CVE/CVE-2014-6474)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-6474">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-6474">
+
+---
 ## CVE-2014-6271 (2014-09-24T18:48:00)
 > GNU Bash through 4.3 processes trailing strings after function definitions in the values of environment variables, which allows remote attackers to execute arbitrary code via a crafted environment, as demonstrated by vectors involving the ForceCommand feature in OpenSSH sshd, the mod_cgi and mod_cgid modules in the Apache HTTP Server, scripts executed by unspecified DHCP clients, and other situations in which setting the environment occurs across a privilege boundary from Bash execution, aka "ShellShock."  NOTE: the original fix for this issue was incorrect; CVE-2014-7169 has been assigned to cover the vulnerability that is still present after the incorrect fix.
 - [FilipStudeny/-CVE-2014-6271-Shellshock-Remote-Command-Injection-](https://github.com/FilipStudeny/-CVE-2014-6271-Shellshock-Remote-Command-Injection-)	<img alt="forks" src="https://img.shields.io/github/forks/FilipStudeny/-CVE-2014-6271-Shellshock-Remote-Command-Injection-">	<img alt="stars" src="https://img.shields.io/github/stars/FilipStudeny/-CVE-2014-6271-Shellshock-Remote-Command-Injection-">
@@ -84,9 +94,19 @@
 - [Live-Hack-CVE/CVE-2014-2497](https://github.com/Live-Hack-CVE/CVE-2014-2497)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-2497">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-2497">
 
 ---
+## CVE-2014-2438 (2014-04-16T02:55:00)
+> Unspecified vulnerability in Oracle MySQL Server 5.5.35 and earlier and 5.6.15 and earlier allows remote authenticated users to affect availability via unknown vectors related to Replication.
+- [Live-Hack-CVE/CVE-2014-2438](https://github.com/Live-Hack-CVE/CVE-2014-2438)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-2438">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-2438">
+
+---
 ## CVE-2014-2431 (2014-04-16T02:55:00)
 > Unspecified vulnerability in Oracle MySQL Server 5.5.36 and earlier and 5.6.16 and earlier allows remote attackers to affect availability via unknown vectors related to Options.
 - [Live-Hack-CVE/CVE-2014-2431](https://github.com/Live-Hack-CVE/CVE-2014-2431)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-2431">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-2431">
+
+---
+## CVE-2014-2430 (2014-04-16T02:55:00)
+> Unspecified vulnerability in Oracle MySQL Server 5.5.36 and earlier and 5.6.16 and earlier allows remote authenticated users to affect availability via unknown vectors related to Performance Schema.
+- [Live-Hack-CVE/CVE-2014-2430](https://github.com/Live-Hack-CVE/CVE-2014-2430)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-2430">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-2430">
 
 ---
 ## CVE-2014-2265 (2014-03-14T10:55:00)
@@ -147,6 +167,11 @@
 ## CVE-2014-1705 (2014-03-16T14:06:00)
 > Google V8, as used in Google Chrome before 33.0.1750.152 on OS X and Linux and before 33.0.1750.154 on Windows, allows remote attackers to cause a denial of service (memory corruption) or possibly have unspecified other impact via unknown vectors.
 - [Live-Hack-CVE/CVE-2014-1705](https://github.com/Live-Hack-CVE/CVE-2014-1705)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-1705">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-1705">
+
+---
+## CVE-2014-0437 (2014-01-15T16:08:00)
+> Unspecified vulnerability in the MySQL Server component in Oracle MySQL 5.1.72 and earlier, 5.5.34 and earlier, and 5.6.14 and earlier allows remote authenticated users to affect availability via unknown vectors related to Optimizer.
+- [Live-Hack-CVE/CVE-2014-0437](https://github.com/Live-Hack-CVE/CVE-2014-0437)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-0437">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-0437">
 
 ---
 ## CVE-2014-0239 (2014-05-28T04:58:00)

@@ -11676,6 +11676,11 @@
 - [Live-Hack-CVE/CVE-2022-38333](https://github.com/Live-Hack-CVE/CVE-2022-38333)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38333">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38333">
 
 ---
+## CVE-2022-38329 (2022-09-13T21:15:00)
+> An issue was discovered in Shopxian CMS 3.0.0. There is a CSRF vulnerability that can delete the specified column via index.php/contents-admin_cat-finderdel-model-ContentsCat.html?id=17.
+- [Live-Hack-CVE/CVE-2022-38329](https://github.com/Live-Hack-CVE/CVE-2022-38329)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38329">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38329">
+
+---
 ## CVE-2022-38307 (2022-09-13T21:15:00)
 > LIEF commit 5d1d643 was discovered to contain a segmentation violation via the function LIEF::MachO::SegmentCommand::file_offset() at /MachO/SegmentCommand.cpp.
 - [Live-Hack-CVE/CVE-2022-38307](https://github.com/Live-Hack-CVE/CVE-2022-38307)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38307">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38307">
@@ -12358,6 +12363,11 @@
 - [Live-Hack-CVE/CVE-2022-37970](https://github.com/Live-Hack-CVE/CVE-2022-37970)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37970">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37970">
 
 ---
+## CVE-2022-37969 (2022-09-13T19:15:00)
+> Windows Common Log File System Driver Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-35803.
+- [Live-Hack-CVE/CVE-2022-37969](https://github.com/Live-Hack-CVE/CVE-2022-37969)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37969">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37969">
+
+---
 ## CVE-2022-37968 (2022-10-11T19:15:00)
 > Azure Arc-enabled Kubernetes cluster Connect Elevation of Privilege Vulnerability.
 - [Live-Hack-CVE/CVE-2022-37968](https://github.com/Live-Hack-CVE/CVE-2022-37968)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37968">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37968">
@@ -12419,6 +12429,11 @@
 ## CVE-2022-37955 (2022-09-13T19:15:00)
 > Windows Group Policy Elevation of Privilege Vulnerability.
 - [Live-Hack-CVE/CVE-2022-37955](https://github.com/Live-Hack-CVE/CVE-2022-37955)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37955">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37955">
+
+---
+## CVE-2022-37954 (2022-09-13T19:15:00)
+> DirectX Graphics Kernel Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2022-37954](https://github.com/Live-Hack-CVE/CVE-2022-37954)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37954">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37954">
 
 ---
 ## CVE-2022-37932 (2022-12-12T13:15:00)
@@ -15195,6 +15210,11 @@
 - [Live-Hack-CVE/CVE-2022-35914](https://github.com/Live-Hack-CVE/CVE-2022-35914)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35914">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35914">
 
 ---
+## CVE-2022-35913 (2022-09-06T23:15:00)
+> Samourai Wallet Stonewallx2 0.99.98e allows a denial of service via a P2P coinjoin. The attacker and victim must follow each other's paynym. Then, the victim must try to collaborate with the attacker for a Stonewallx2 transaction. Next, the attacker broadcasts a tx, spending the inputs used in Stonewallx2 before the victim can broadcast the collaborative transaction. The attacker does not signal opt in RBF, and uses the lowest fee rate. This would result in the victim being unable to perform Stonewallx2. (Note that the attacker could use multiple paynyms.)
+- [Live-Hack-CVE/CVE-2022-35913](https://github.com/Live-Hack-CVE/CVE-2022-35913)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35913">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35913">
+
+---
 ## CVE-2022-35911 (2022-07-27T21:15:00)
 > ** DISPUTED ** On Patlite NH-FB series devices through 1.46, remote attackers can cause a denial of service by omitting the query string. NOTE: the vendor's perspective is that "omitting the query string does not cause a denial of service and the indicated event can not be reproduced."
 - [Live-Hack-CVE/CVE-2022-35911](https://github.com/Live-Hack-CVE/CVE-2022-35911)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35911">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35911">
@@ -15292,6 +15312,11 @@
 - [Live-Hack-CVE/CVE-2022-35838](https://github.com/Live-Hack-CVE/CVE-2022-35838)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35838">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35838">
 
 ---
+## CVE-2022-35836 (2022-09-13T19:15:00)
+> Microsoft OLE DB Provider for SQL Server Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-34731, CVE-2022-34733, CVE-2022-35834, CVE-2022-35835, CVE-2022-35840.
+- [Live-Hack-CVE/CVE-2022-35836](https://github.com/Live-Hack-CVE/CVE-2022-35836)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35836">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35836">
+
+---
 ## CVE-2022-35835 (2022-09-13T19:15:00)
 > Microsoft OLE DB Provider for SQL Server Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-34731, CVE-2022-34733, CVE-2022-35834, CVE-2022-35836, CVE-2022-35840.
 - [Live-Hack-CVE/CVE-2022-35835](https://github.com/Live-Hack-CVE/CVE-2022-35835)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35835">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35835">
@@ -15352,6 +15377,11 @@
 - [Live-Hack-CVE/CVE-2022-3578](https://github.com/Live-Hack-CVE/CVE-2022-3578)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3578">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3578">
 
 ---
+## CVE-2022-35771 (2022-08-09T20:15:00)
+> Windows Defender Credential Guard Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-34705.
+- [Live-Hack-CVE/CVE-2022-35771](https://github.com/Live-Hack-CVE/CVE-2022-35771)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35771">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35771">
+
+---
 ## CVE-2022-35770 (2022-10-11T19:15:00)
 > Windows NTLM Spoofing Vulnerability.
 - [Live-Hack-CVE/CVE-2022-35770](https://github.com/Live-Hack-CVE/CVE-2022-35770)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35770">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35770">
@@ -15361,6 +15391,13 @@
 ## CVE-2022-3577 (2022-10-20T17:15:00)
 > An out-of-bounds memory write flaw was found in the Linux kernel’s Kid-friendly Wired Controller driver. This flaw allows a local user to crash or potentially escalate their privileges on the system. It is in bigben_probe of drivers/hid/hid-bigbenff.c. The reason is incorrect assumption - bigben devices all have inputs. However, malicious devices can break this assumption, leaking to out-of-bound write.
 - [Live-Hack-CVE/CVE-2022-3577](https://github.com/Live-Hack-CVE/CVE-2022-3577)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3577">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3577">
+
+---
+## CVE-2022-35768 (2022-08-09T20:15:00)
+> Windows Kernel Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-34707, CVE-2022-35761.
+- [Live-Hack-CVE/CVE-2022-35768](https://github.com/Live-Hack-CVE/CVE-2022-35768)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35768">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35768">
+- [Live-Hack-CVE/CVE-2022-34707](https://github.com/Live-Hack-CVE/CVE-2022-34707)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34707">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34707">
+- [Live-Hack-CVE/CVE-2022-35761](https://github.com/Live-Hack-CVE/CVE-2022-35761)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35761">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35761">
 
 ---
 ## CVE-2022-3576 (2022-10-20T06:15:00)
@@ -16609,9 +16646,41 @@
 - [SecLabResearchBV/CVE-2022-34718-PoC](https://github.com/SecLabResearchBV/CVE-2022-34718-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/SecLabResearchBV/CVE-2022-34718-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/SecLabResearchBV/CVE-2022-34718-PoC">
 
 ---
+## CVE-2022-34716 (2022-08-09T20:15:00)
+> .NET Spoofing Vulnerability.
+- [Live-Hack-CVE/CVE-2022-34716](https://github.com/Live-Hack-CVE/CVE-2022-34716)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34716">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34716">
+
+---
 ## CVE-2022-34715 (2022-08-09T20:15:00)
 > Windows Network File System Remote Code Execution Vulnerability.
 - [Starssgo/CVE-2022-34715-POC](https://github.com/Starssgo/CVE-2022-34715-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Starssgo/CVE-2022-34715-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Starssgo/CVE-2022-34715-POC">
+
+---
+## CVE-2022-34712 (2022-08-09T20:15:00)
+> Windows Defender Credential Guard Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-34704, CVE-2022-34710.
+- [Live-Hack-CVE/CVE-2022-34712](https://github.com/Live-Hack-CVE/CVE-2022-34712)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34712">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34712">
+
+---
+## CVE-2022-34710 (2022-08-09T20:15:00)
+> Windows Defender Credential Guard Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-34704, CVE-2022-34712.
+- [Live-Hack-CVE/CVE-2022-34710](https://github.com/Live-Hack-CVE/CVE-2022-34710)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34710">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34710">
+- [Live-Hack-CVE/CVE-2022-34712](https://github.com/Live-Hack-CVE/CVE-2022-34712)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34712">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34712">
+- [Live-Hack-CVE/CVE-2022-34704](https://github.com/Live-Hack-CVE/CVE-2022-34704)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34704">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34704">
+
+---
+## CVE-2022-34708 (2022-08-09T20:15:00)
+> Windows Kernel Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-30197.
+- [Live-Hack-CVE/CVE-2022-34708](https://github.com/Live-Hack-CVE/CVE-2022-34708)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34708">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34708">
+
+---
+## CVE-2022-34707 (2022-08-09T20:15:00)
+> Windows Kernel Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-35761, CVE-2022-35768.
+- [Live-Hack-CVE/CVE-2022-34707](https://github.com/Live-Hack-CVE/CVE-2022-34707)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34707">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34707">
+
+---
+## CVE-2022-34705 (2022-08-09T20:15:00)
+> Windows Defender Credential Guard Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-35771.
+- [Live-Hack-CVE/CVE-2022-34705](https://github.com/Live-Hack-CVE/CVE-2022-34705)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34705">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34705">
 
 ---
 ## CVE-2022-34704 (2022-08-09T20:15:00)
@@ -18010,6 +18079,11 @@
 - [Live-Hack-CVE/CVE-2022-32796](https://github.com/Live-Hack-CVE/CVE-2022-32796)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32796">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32796">
 
 ---
+## CVE-2022-32793 (2022-08-24T20:15:00)
+> Multiple out-of-bounds write issues were addressed with improved bounds checking. This issue is fixed in macOS Monterey 12.5, watchOS 8.7, tvOS 15.6, iOS 15.6 and iPadOS 15.6. An app may be able to disclose kernel memory.
+- [Live-Hack-CVE/CVE-2022-32793](https://github.com/Live-Hack-CVE/CVE-2022-32793)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32793">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32793">
+
+---
 ## CVE-2022-32792 (2022-09-23T19:15:00)
 > An out-of-bounds write issue was addressed with improved input validation. This issue is fixed in iOS 15.6 and iPadOS 15.6, watchOS 8.7, tvOS 15.6, macOS Monterey 12.5, Safari 15.6. Processing maliciously crafted web content may lead to arbitrary code execution.
 - [Live-Hack-CVE/CVE-2022-32792](https://github.com/Live-Hack-CVE/CVE-2022-32792)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32792">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32792">
@@ -18289,6 +18363,11 @@
 > Improper buffer restrictions in BIOS firmware for some Intel(R) NUC M15 Laptop Kits before version BCTGL357.0074 may allow a privileged user to potentially enable escalation of privilege via local access.
 - [Live-Hack-CVE/CVE-2022-32569](https://github.com/Live-Hack-CVE/CVE-2022-32569)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32569">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32569">
 - [Live-Hack-CVE/CVE-2022-32569](https://github.com/Live-Hack-CVE/CVE-2022-32569)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32569">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32569">
+
+---
+## CVE-2022-32555 (2022-09-13T20:15:00)
+> Unisys Data Exchange Management Studio before 6.0.IC2 and 7.x before 7.0.IC1 doesn't have an Anti-CSRF token to authenticate the POST request. Thus, a cross-site request forgery attack could occur.
+- [Live-Hack-CVE/CVE-2022-32555](https://github.com/Live-Hack-CVE/CVE-2022-32555)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32555">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32555">
 
 ---
 ## CVE-2022-32548 (2022-08-29T06:15:00)
@@ -18728,6 +18807,11 @@
 ## CVE-2022-3206 (2022-10-17T12:15:00)
 > The Passster WordPress plugin before 3.5.5.5.2 stores the password inside a cookie named "passster" using base64 encoding method which is easy to decode. This puts the password at risk in case the cookies get leaked.
 - [Live-Hack-CVE/CVE-2022-3206](https://github.com/Live-Hack-CVE/CVE-2022-3206)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3206">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3206">
+
+---
+## CVE-2022-3205 (2022-09-13T20:15:00)
+> An XSS exists in automation controller UI where the project name is susceptible to XSS injection
+- [Live-Hack-CVE/CVE-2022-3205](https://github.com/Live-Hack-CVE/CVE-2022-3205)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3205">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3205">
 
 ---
 ## CVE-2022-3204 (2022-09-26T14:15:00)
@@ -26202,9 +26286,34 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-20409](https://github.com/Live-Hack-CVE/CVE-2022-20409)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20409">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20409">
 
 ---
+## CVE-2022-20399 (2022-09-13T20:15:00)
+> In the SEPolicy configuration of system apps, there is a possible access to the 'ip' utility due to an insecure default value. This could lead to local information disclosure of network data with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-219808546References: Upstream kernel
+- [Live-Hack-CVE/CVE-2022-20399](https://github.com/Live-Hack-CVE/CVE-2022-20399)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20399">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20399">
+
+---
+## CVE-2022-20396 (2022-09-13T20:15:00)
+> In SettingsActivity.java, there is a possible way to make a device discoverable over Bluetooth, without permission or user interaction, due to a permissions bypass. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-12L Android-13Android ID: A-234440688
+- [Live-Hack-CVE/CVE-2022-20396](https://github.com/Live-Hack-CVE/CVE-2022-20396)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20396">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20396">
+
+---
+## CVE-2022-20395 (2022-09-13T20:15:00)
+> In checkAccess of MediaProvider.java, there is a possible file deletion due to a path traversal error. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-11 Android-12 Android-12L Android-13Android ID: A-221855295
+- [Live-Hack-CVE/CVE-2022-20395](https://github.com/Live-Hack-CVE/CVE-2022-20395)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20395">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20395">
+
+---
 ## CVE-2022-20394 (2022-10-11T20:15:00)
 > In getInputMethodWindowVisibleHeight of InputMethodManagerService.java, there is a possible way to determine when another app is showing an IME due to a missing permission check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12LAndroid ID: A-204906124
 - [Live-Hack-CVE/CVE-2022-20394](https://github.com/Live-Hack-CVE/CVE-2022-20394)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20394">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20394">
+
+---
+## CVE-2022-20393 (2022-09-13T20:15:00)
+> In extract3GPPGlobalDescriptions of TextDescriptions.cpp, there is a possible out of bounds read due to an integer overflow. This could lead to local information disclosure from the media server with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-11 Android-12 Android-12LAndroid ID: A-233735886
+- [Live-Hack-CVE/CVE-2022-20393](https://github.com/Live-Hack-CVE/CVE-2022-20393)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20393">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20393">
+
+---
+## CVE-2022-20392 (2022-09-13T20:15:00)
+> In declareDuplicatePermission of ParsedPermissionUtils.java, there is a possible way to obtain a dangerous permission without user consent due to improper input validation. This could lead to local escalation of privilege during app installation or upgrade with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12LAndroid ID: A-213323615
+- [Live-Hack-CVE/CVE-2022-20392](https://github.com/Live-Hack-CVE/CVE-2022-20392)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20392">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20392">
 
 ---
 ## CVE-2022-20391 (2022-09-13T20:15:00)

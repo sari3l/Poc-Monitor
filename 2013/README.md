@@ -87,6 +87,11 @@
 - [Live-Hack-CVE/CVE-2013-3900](https://github.com/Live-Hack-CVE/CVE-2013-3900)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-3900">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-3900">
 
 ---
+## CVE-2013-3812 (2013-07-17T13:41:00)
+> Unspecified vulnerability in the MySQL Server component in Oracle MySQL 5.5.31 and earlier and 5.6.11 and earlier allows remote authenticated users to affect availability via unknown vectors related to Server Replication.
+- [Live-Hack-CVE/CVE-2013-3812](https://github.com/Live-Hack-CVE/CVE-2013-3812)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-3812">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-3812">
+
+---
 ## CVE-2013-2882 (2013-07-31T13:20:00)
 > Google V8, as used in Google Chrome before 28.0.1500.95, allows remote attackers to cause a denial of service or possibly have unspecified other impact via vectors that leverage "type confusion."
 - [Live-Hack-CVE/CVE-2013-2882](https://github.com/Live-Hack-CVE/CVE-2013-2882)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-2882">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-2882">
@@ -111,6 +116,11 @@
 ## CVE-2013-1824 (2013-09-16T13:02:00)
 > The SOAP parser in PHP before 5.3.22 and 5.4.x before 5.4.12 allows remote attackers to read arbitrary files via a SOAP WSDL file containing an XML external entity declaration in conjunction with an entity reference, related to an XML External Entity (XXE) issue in the soap_xmlParseFile and soap_xmlParseMemory functions.
 - [Live-Hack-CVE/CVE-2013-1824](https://github.com/Live-Hack-CVE/CVE-2013-1824)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-1824">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-1824">
+
+---
+## CVE-2013-1511 (2013-04-17T12:14:00)
+> Unspecified vulnerability in Oracle MySQL 5.5.30 and earlier and 5.6.10 and earlier allows remote authenticated users to affect availability via unknown vectors related to InnoDB.
+- [Live-Hack-CVE/CVE-2013-1511](https://github.com/Live-Hack-CVE/CVE-2013-1511)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-1511">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-1511">
 
 ---
 ## CVE-2013-0900 (2013-02-23T21:55:00)
