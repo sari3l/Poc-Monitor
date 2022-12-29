@@ -9990,6 +9990,11 @@
 - [Live-Hack-CVE/CVE-2022-39028](https://github.com/Live-Hack-CVE/CVE-2022-39028)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39028">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39028">
 
 ---
+## CVE-2022-39015 (2022-10-11T21:15:00)
+> Under certain conditions, BOE AdminTools/ BOE SDK allows an attacker to access information which would otherwise be restricted.
+- [Live-Hack-CVE/CVE-2022-39015](https://github.com/Live-Hack-CVE/CVE-2022-39015)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39015">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39015">
+
+---
 ## CVE-2022-39002 (2022-09-16T18:15:00)
 > Double free vulnerability in the storage module. Successful exploitation of this vulnerability will cause the memory to be freed twice.
 - [Live-Hack-CVE/CVE-2022-39002](https://github.com/Live-Hack-CVE/CVE-2022-39002)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39002">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39002">
@@ -11916,6 +11921,11 @@
 ## CVE-2022-3762 (2022-11-21T11:15:00)
 > The Booster for WooCommerce WordPress plugin before 5.6.7, Booster Plus for WooCommerce WordPress plugin before 5.6.5, Booster Elite for WooCommerce WordPress plugin before 1.1.7 do not validate files to download in some of its modules, which could allow ShopManager and Admin to download arbitrary files from the server even when they are not supposed to be able to (for example in multisite)
 - [Live-Hack-CVE/CVE-2022-3762](https://github.com/Live-Hack-CVE/CVE-2022-3762)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3762">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3762">
+
+---
+## CVE-2022-37611 (2022-10-12T01:15:00)
+> Prototype pollution vulnerability in tschaub gh-pages 3.1.0 via the partial variable in util.js.
+- [Live-Hack-CVE/CVE-2022-37611](https://github.com/Live-Hack-CVE/CVE-2022-37611)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37611">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37611">
 
 ---
 ## CVE-2022-3753 (2022-11-21T11:15:00)
@@ -19490,6 +19500,22 @@
 > By using a link with <code>rel="localization"</code> a use-after-free could have been triggered by destroying an object during JavaScript execution and then referencing the object through a freed pointer, leading to a potential exploitable crash. This vulnerability affects Thunderbird < 91.8, Firefox < 99, and Firefox ESR < 91.8.
 - [Pwnrin/CVE-2022-28282](https://github.com/Pwnrin/CVE-2022-28282)	<img alt="forks" src="https://img.shields.io/github/forks/Pwnrin/CVE-2022-28282">	<img alt="stars" src="https://img.shields.io/github/stars/Pwnrin/CVE-2022-28282">
 - [Live-Hack-CVE/CVE-2022-28282](https://github.com/Live-Hack-CVE/CVE-2022-28282)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28282">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28282">
+
+---
+## CVE-2022-2828 (2022-10-13T05:15:00)
+> In affected versions of Octopus Server it is possible to reveal information about teams via the API due to an Insecure Direct Object Reference (IDOR) vulnerability
+- [Live-Hack-CVE/CVE-2022-2828](https://github.com/Live-Hack-CVE/CVE-2022-2828)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2828">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2828">
+- [Live-Hack-CVE/CVE-2022-28288](https://github.com/Live-Hack-CVE/CVE-2022-28288)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28288">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28288">
+- [Live-Hack-CVE/CVE-2022-28285](https://github.com/Live-Hack-CVE/CVE-2022-28285)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28285">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28285">
+- [Live-Hack-CVE/CVE-2022-28282](https://github.com/Live-Hack-CVE/CVE-2022-28282)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28282">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28282">
+- [Live-Hack-CVE/CVE-2022-28289](https://github.com/Live-Hack-CVE/CVE-2022-28289)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28289">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28289">
+- [Live-Hack-CVE/CVE-2022-28286](https://github.com/Live-Hack-CVE/CVE-2022-28286)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28286">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28286">
+- [Live-Hack-CVE/CVE-2022-28283](https://github.com/Live-Hack-CVE/CVE-2022-28283)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28283">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28283">
+- [Live-Hack-CVE/CVE-2022-28281](https://github.com/Live-Hack-CVE/CVE-2022-28281)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28281">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28281">
+- [Live-Hack-CVE/CVE-2022-28287](https://github.com/Live-Hack-CVE/CVE-2022-28287)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28287">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28287">
+- [Live-Hack-CVE/CVE-2022-28284](https://github.com/Live-Hack-CVE/CVE-2022-28284)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28284">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28284">
+- [Pwnrin/CVE-2022-28282](https://github.com/Pwnrin/CVE-2022-28282)	<img alt="forks" src="https://img.shields.io/github/forks/Pwnrin/CVE-2022-28282">	<img alt="stars" src="https://img.shields.io/github/stars/Pwnrin/CVE-2022-28282">
+- [0vercl0k/CVE-2022-28281](https://github.com/0vercl0k/CVE-2022-28281)	<img alt="forks" src="https://img.shields.io/github/forks/0vercl0k/CVE-2022-28281">	<img alt="stars" src="https://img.shields.io/github/stars/0vercl0k/CVE-2022-28281">
 
 ---
 ## CVE-2022-2827 (2022-12-05T22:15:00)

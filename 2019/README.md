@@ -1560,6 +1560,21 @@
 - [Live-Hack-CVE/CVE-2019-13990](https://github.com/Live-Hack-CVE/CVE-2019-13990)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13990">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13990">
 
 ---
+## CVE-2019-13719 (2019-11-25T15:15:00)
+> Incorrect security UI in full screen mode in Google Chrome prior to 78.0.3904.70 allowed a remote attacker to hide security UI via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2019-13719](https://github.com/Live-Hack-CVE/CVE-2019-13719)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13719">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13719">
+
+---
+## CVE-2019-13718 (2019-11-25T15:15:00)
+> Insufficient data validation in Omnibox in Google Chrome prior to 78.0.3904.70 allowed a remote attacker to perform domain spoofing via IDN homographs via a crafted domain name.
+- [Live-Hack-CVE/CVE-2019-13718](https://github.com/Live-Hack-CVE/CVE-2019-13718)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13718">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13718">
+
+---
+## CVE-2019-13717 (2019-11-25T15:15:00)
+> Incorrect security UI in full screen mode in Google Chrome prior to 78.0.3904.70 allowed a remote attacker to hide security UI via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2019-13717](https://github.com/Live-Hack-CVE/CVE-2019-13717)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13717">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13717">
+
+---
 ## CVE-2019-13716 (2019-11-25T15:15:00)
 > Insufficient policy enforcement in service workers in Google Chrome prior to 78.0.3904.70 allowed a remote attacker to bypass navigation restrictions via a crafted HTML page.
 - [Live-Hack-CVE/CVE-2019-13716](https://github.com/Live-Hack-CVE/CVE-2019-13716)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13716">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13716">
@@ -1603,6 +1618,11 @@
 ## CVE-2019-13703 (2019-11-25T15:15:00)
 > Insufficient policy enforcement in the Omnibox in Google Chrome on Android prior to 78.0.3904.70 allowed a remote attacker to spoof the contents of the Omnibox (URL bar) via a crafted HTML page.
 - [Live-Hack-CVE/CVE-2019-13703](https://github.com/Live-Hack-CVE/CVE-2019-13703)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13703">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13703">
+
+---
+## CVE-2019-13702 (2019-11-25T15:15:00)
+> Inappropriate implementation in installer in Google Chrome on Windows prior to 78.0.3904.70 allowed a local attacker to perform privilege escalation via a crafted executable.
+- [Live-Hack-CVE/CVE-2019-13702](https://github.com/Live-Hack-CVE/CVE-2019-13702)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13702">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13702">
 
 ---
 ## CVE-2019-13701 (2019-11-25T15:15:00)

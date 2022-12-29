@@ -6104,6 +6104,11 @@
 - [MaX0dexpoit/CVE-2021-20038](https://github.com/MaX0dexpoit/CVE-2021-20038)	<img alt="forks" src="https://img.shields.io/github/forks/MaX0dexpoit/CVE-2021-20038">	<img alt="stars" src="https://img.shields.io/github/stars/MaX0dexpoit/CVE-2021-20038">
 
 ---
+## CVE-2021-20030 (2022-10-13T11:15:00)
+> SonicWall GMS is vulnerable to file path manipulation resulting that an unauthenticated attacker can gain access to web directory containing application's binaries and configuration files.
+- [Live-Hack-CVE/CVE-2021-20030](https://github.com/Live-Hack-CVE/CVE-2021-20030)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20030">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20030">
+
+---
 ## CVE-2021-1732 (2021-02-25T23:15:00)
 > Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.
 - [ratw/CVE-2021-1732](https://github.com/ratw/CVE-2021-1732)	<img alt="forks" src="https://img.shields.io/github/forks/ratw/CVE-2021-1732">	<img alt="stars" src="https://img.shields.io/github/stars/ratw/CVE-2021-1732">
