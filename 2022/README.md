@@ -7192,6 +7192,41 @@
 - [Live-Hack-CVE/CVE-2022-4120](https://github.com/Live-Hack-CVE/CVE-2022-4120)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4120">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4120">
 
 ---
+## CVE-2022-41199 (2022-10-11T21:15:00)
+> Due to lack of proper memory management, when a victim opens a manipulated Open Inventor File (.iv, vrml.x3d) file received from untrusted sources in SAP 3D Visual Enterprise Viewer - version 9, it is possible that a Remote Code Execution can be triggered when payload forces a stack-based overflow or a re-use of dangling pointer which refers to overwritten space in memory.
+- [Live-Hack-CVE/CVE-2022-41199](https://github.com/Live-Hack-CVE/CVE-2022-41199)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41199">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41199">
+
+---
+## CVE-2022-41195 (2022-10-11T21:15:00)
+> Due to lack of proper memory management, when a victim opens a manipulated EAAmiga Interchange File Format (.iff, 2d.x3d) file received from untrusted sources in SAP 3D Visual Enterprise Viewer - version 9, it is possible that a Remote Code Execution can be triggered when payload forces a stack-based overflow or a re-use of dangling pointer which refers to overwritten space in memory.
+- [Live-Hack-CVE/CVE-2022-41195](https://github.com/Live-Hack-CVE/CVE-2022-41195)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41195">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41195">
+
+---
+## CVE-2022-41192 (2022-10-11T21:15:00)
+> Due to lack of proper memory management, when a victim opens manipulated Jupiter Tesselation (.jt, JTReader.x3d) file received from untrusted sources in SAP 3D Visual Enterprise Viewer - version 9, it is possible for the application to crash and becomes temporarily unavailable to the user until restart of the application.
+- [Live-Hack-CVE/CVE-2022-41192](https://github.com/Live-Hack-CVE/CVE-2022-41192)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41192">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41192">
+
+---
+## CVE-2022-41191 (2022-10-11T21:15:00)
+> Due to lack of proper memory management, when a victim opens a manipulated Jupiter Tesselation (.jt, JTReader.x3d) file received from untrusted sources in SAP 3D Visual Enterprise Viewer - version 9, it is possible that a Remote Code Execution can be triggered when payload forces a stack-based overflow or a re-use of dangling pointer which refers to overwritten space in memory.
+- [Live-Hack-CVE/CVE-2022-41191](https://github.com/Live-Hack-CVE/CVE-2022-41191)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41191">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41191">
+
+---
+## CVE-2022-41190 (2022-10-11T21:15:00)
+> Due to lack of proper memory management, when a victim opens a manipulated AutoCAD (.dxf, TeighaTranslator.exe) file received from untrusted sources in SAP 3D Visual Enterprise Viewer - version 9, it is possible that a Remote Code Execution can be triggered when payload forces a stack-based overflow or a re-use of dangling pointer which refers to overwritten space in memory.
+- [Live-Hack-CVE/CVE-2022-41190](https://github.com/Live-Hack-CVE/CVE-2022-41190)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41190">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41190">
+
+---
+## CVE-2022-41188 (2022-10-11T21:15:00)
+> Due to lack of proper memory management, when a victim opens manipulated Wavefront Object (.obj, ObjTranslator.exe) file received from untrusted sources in SAP 3D Visual Enterprise Viewer - version 9, it is possible for the application to crash and becomes temporarily unavailable to the user until restart of the application.
+- [Live-Hack-CVE/CVE-2022-41188](https://github.com/Live-Hack-CVE/CVE-2022-41188)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41188">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41188">
+
+---
+## CVE-2022-41187 (2022-10-11T21:15:00)
+> Due to lack of proper memory management, when a victim opens a manipulated Wavefront Object (.obj, ObjTranslator.exe) file received from untrusted sources in SAP 3D Visual Enterprise Viewer - version 9, it is possible that a Remote Code Execution can be triggered when payload forces a stack-based overflow or a re-use of dangling pointer which refers to overwritten space in memory.
+- [Live-Hack-CVE/CVE-2022-41187](https://github.com/Live-Hack-CVE/CVE-2022-41187)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41187">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41187">
+
+---
 ## CVE-2022-4117 (2022-12-26T13:15:00)
 > The IWS WordPress plugin through 1.0 does not properly escape a parameter before using it in a SQL statement via an AJAX action available to unauthenticated users, leading to an unauthenticated SQL injection.
 - [Live-Hack-CVE/CVE-2022-4117](https://github.com/Live-Hack-CVE/CVE-2022-4117)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4117">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4117">
