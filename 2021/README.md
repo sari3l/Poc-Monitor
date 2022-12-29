@@ -3473,6 +3473,11 @@
 - [Live-Hack-CVE/CVE-2021-35234](https://github.com/Live-Hack-CVE/CVE-2021-35234)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35234">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35234">
 
 ---
+## CVE-2021-3522 (2021-06-02T15:15:00)
+> GStreamer before 1.18.4 may perform an out-of-bounds read when handling certain ID3v2 tags.
+- [Live-Hack-CVE/CVE-2021-3522](https://github.com/Live-Hack-CVE/CVE-2021-3522)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3522">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3522">
+
+---
 ## CVE-2021-3521 (2022-08-22T15:15:00)
 > There is a flaw in RPM's signature functionality. OpenPGP subkeys are associated with a primary key via a "binding signature." RPM does not check the binding signature of subkeys prior to importing them. If an attacker is able to add or socially engineer another party to add a malicious subkey to a legitimate public key, RPM could wrongly trust a malicious signature. The greatest impact of this flaw is to data integrity. To exploit this flaw, an attacker must either compromise an RPM repository or convince an administrator to install an untrusted RPM or public key. It is strongly recommended to only use RPMs and public keys from trusted sources.
 - [Live-Hack-CVE/CVE-2021-3521](https://github.com/Live-Hack-CVE/CVE-2021-3521)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3521">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3521">
@@ -3519,6 +3524,11 @@
 ## CVE-2021-3498 (2021-04-19T21:15:00)
 > GStreamer before 1.18.4 might cause heap corruption when parsing certain malformed Matroska files.
 - [Live-Hack-CVE/CVE-2021-3498](https://github.com/Live-Hack-CVE/CVE-2021-3498)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3498">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3498">
+
+---
+## CVE-2021-3497 (2021-04-19T21:15:00)
+> GStreamer before 1.18.4 might access already-freed memory in error code paths when demuxing certain malformed Matroska files.
+- [Live-Hack-CVE/CVE-2021-3497](https://github.com/Live-Hack-CVE/CVE-2021-3497)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3497">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3497">
 
 ---
 ## CVE-2021-3496 (2021-04-22T19:15:00)
@@ -4843,6 +4853,16 @@
 > xen/arm: No memory limit for dom0less domUs The dom0less feature allows an administrator to create multiple unprivileged domains directly from Xen. Unfortunately, the memory limit from them is not set. This allow a domain to allocate memory beyond what an administrator originally configured.
 - [Live-Hack-CVE/CVE-2021-28700](https://github.com/Live-Hack-CVE/CVE-2021-28700)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28700">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28700">
 - [Live-Hack-CVE/CVE-2021-28700](https://github.com/Live-Hack-CVE/CVE-2021-28700)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28700">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28700">
+
+---
+## CVE-2021-28695 (2021-08-27T19:15:00)
+> IOMMU page mapping issues on x86 T[his CNA information record relates to multiple CVEs; the text explains which aspects/vulnerabilities correspond to which CVE.] Both AMD and Intel allow ACPI tables to specify regions of memory which should be left untranslated, which typically means these addresses should pass the translation phase unaltered. While these are typically device specific ACPI properties, they can also be specified to apply to a range of devices, or even all devices. On all systems with such regions Xen failed to prevent guests from undoing/replacing such mappings (CVE-2021-28694). On AMD systems, where a discontinuous range is specified by firmware, the supposedly-excluded middle range will also be identity-mapped (CVE-2021-28695). Further, on AMD systems, upon de-assigment of a physical device from a guest, the identity mappings would be left in place, allowing a guest continued access to ranges of memory which it shouldn't have access to anymore (CVE-2021-28696).
+- [Live-Hack-CVE/CVE-2021-28695](https://github.com/Live-Hack-CVE/CVE-2021-28695)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28695">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28695">
+
+---
+## CVE-2021-28694 (2021-08-27T19:15:00)
+> IOMMU page mapping issues on x86 T[his CNA information record relates to multiple CVEs; the text explains which aspects/vulnerabilities correspond to which CVE.] Both AMD and Intel allow ACPI tables to specify regions of memory which should be left untranslated, which typically means these addresses should pass the translation phase unaltered. While these are typically device specific ACPI properties, they can also be specified to apply to a range of devices, or even all devices. On all systems with such regions Xen failed to prevent guests from undoing/replacing such mappings (CVE-2021-28694). On AMD systems, where a discontinuous range is specified by firmware, the supposedly-excluded middle range will also be identity-mapped (CVE-2021-28695). Further, on AMD systems, upon de-assigment of a physical device from a guest, the identity mappings would be left in place, allowing a guest continued access to ranges of memory which it shouldn't have access to anymore (CVE-2021-28696).
+- [Live-Hack-CVE/CVE-2021-28694](https://github.com/Live-Hack-CVE/CVE-2021-28694)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28694">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28694">
 
 ---
 ## CVE-2021-28664 (2021-05-10T15:15:00)

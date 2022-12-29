@@ -23363,6 +23363,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-22059](https://github.com/Live-Hack-CVE/CVE-2022-22059)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22059">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22059">
 
 ---
+## CVE-2022-22049 (2022-07-12T23:15:00)
+> Windows CSRSS Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-22026, CVE-2022-22047.
+- [Live-Hack-CVE/CVE-2022-22049](https://github.com/Live-Hack-CVE/CVE-2022-22049)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22049">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22049">
+
+---
 ## CVE-2022-22035 (2022-10-11T19:15:00)
 > Windows Point-to-Point Tunneling Protocol Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-24504, CVE-2022-30198, CVE-2022-33634, CVE-2022-38000, CVE-2022-38047, CVE-2022-41081.
 - [Live-Hack-CVE/CVE-2022-22035](https://github.com/Live-Hack-CVE/CVE-2022-22035)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22035">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22035">
@@ -23371,6 +23376,12 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-22029 (2022-07-12T23:15:00)
 > Windows Network File System Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-22039.
 - [mchoudhary15/CVE-2022-22029-NFS-Server-](https://github.com/mchoudhary15/CVE-2022-22029-NFS-Server-)	<img alt="forks" src="https://img.shields.io/github/forks/mchoudhary15/CVE-2022-22029-NFS-Server-">	<img alt="stars" src="https://img.shields.io/github/stars/mchoudhary15/CVE-2022-22029-NFS-Server-">
+
+---
+## CVE-2022-22026 (2022-07-12T23:15:00)
+> Windows CSRSS Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-22047, CVE-2022-22049.
+- [Live-Hack-CVE/CVE-2022-22026](https://github.com/Live-Hack-CVE/CVE-2022-22026)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22026">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22026">
+- [Live-Hack-CVE/CVE-2022-22049](https://github.com/Live-Hack-CVE/CVE-2022-22049)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22049">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22049">
 
 ---
 ## CVE-2022-22021 (2022-06-15T22:15:00)
@@ -23765,9 +23776,19 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-21509](https://github.com/Live-Hack-CVE/CVE-2022-21509)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21509">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21509">
 
 ---
+## CVE-2022-21504 (2022-06-14T18:15:00)
+> The code in UEK6 U3 was missing an appropiate file descriptor count to be missing. This resulted in a use count error that allowed a file descriptor to a socket to be closed and freed while it was still in use by another portion of the kernel. An attack with local access can operate on the socket, and cause a denial of service. CVSS 3.1 Base Score 5.5 (Availability impacts). CVSS Vector: (CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H).
+- [Live-Hack-CVE/CVE-2022-21504](https://github.com/Live-Hack-CVE/CVE-2022-21504)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21504">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21504">
+
+---
 ## CVE-2022-21500 (2022-05-20T00:15:00)
 > Vulnerability in Oracle E-Business Suite (component: Manage Proxies). The supported version that is affected is 12.2. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle E-Business Suite. Successful attacks of this vulnerability can result in unauthorized access to critical data or complete access to all Oracle E-Business Suite accessible data. Note: Authentication is required for successful attack, however the user may be self-registered. <br> <br>Oracle E-Business Suite 12.1 is not impacted by this vulnerability. Customers should refer to the Patch Availability Document for details. CVSS 3.1 Base Score 7.5 (Confidentiality impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N).
 - [Live-Hack-CVE/CVE-2022-21500](https://github.com/Live-Hack-CVE/CVE-2022-21500)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21500">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21500">
+
+---
+## CVE-2022-21499 (2022-06-09T21:15:00)
+> KGDB and KDB allow read and write access to kernel memory, and thus should be restricted during lockdown. An attacker with access to a serial port could trigger the debugger so it is important that the debugger respect the lockdown mode when/if it is triggered. CVSS 3.1 Base Score 6.7 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).
+- [Live-Hack-CVE/CVE-2022-21499](https://github.com/Live-Hack-CVE/CVE-2022-21499)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21499">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21499">
 
 ---
 ## CVE-2022-21496 (2022-04-19T21:15:00)
