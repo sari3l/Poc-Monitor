@@ -3113,6 +3113,7 @@
 ## CVE-2021-3549 (2021-05-26T21:15:00)
 > An out of bounds flaw was found in GNU binutils objdump utility version 2.36. An attacker could use this flaw and pass a large section to avr_elf32_load_records_from_section() probably resulting in a crash or in some cases memory corruption. The highest threat from this vulnerability is to integrity as well as system availability.
 - [Live-Hack-CVE/CVE-2021-3549](https://github.com/Live-Hack-CVE/CVE-2021-3549)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3549">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3549">
+- [N4nj0/CVE-2021-35492](https://github.com/N4nj0/CVE-2021-35492)	<img alt="forks" src="https://img.shields.io/github/forks/N4nj0/CVE-2021-35492">	<img alt="stars" src="https://img.shields.io/github/stars/N4nj0/CVE-2021-35492">
 
 ---
 ## CVE-2021-35475 (2021-06-25T11:15:00)
