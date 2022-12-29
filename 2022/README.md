@@ -6485,6 +6485,26 @@
 - [Live-Hack-CVE/CVE-2022-41604](https://github.com/Live-Hack-CVE/CVE-2022-41604)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41604">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41604">
 
 ---
+## CVE-2022-41603 (2022-10-14T16:15:00)
+> The phones have the heap overflow, out-of-bounds read, and null pointer vulnerabilities in the fingerprint trusted application (TA).Successful exploitation of this vulnerability may affect the fingerprint service.
+- [Live-Hack-CVE/CVE-2022-41603](https://github.com/Live-Hack-CVE/CVE-2022-41603)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41603">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41603">
+
+---
+## CVE-2022-41602 (2022-10-14T16:15:00)
+> The phones have the heap overflow, out-of-bounds read, and null pointer vulnerabilities in the fingerprint trusted application (TA).Successful exploitation of this vulnerability may affect the fingerprint service.
+- [Live-Hack-CVE/CVE-2022-41602](https://github.com/Live-Hack-CVE/CVE-2022-41602)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41602">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41602">
+
+---
+## CVE-2022-41601 (2022-10-14T16:15:00)
+> The phones have the heap overflow, out-of-bounds read, and null pointer vulnerabilities in the fingerprint trusted application (TA).Successful exploitation of this vulnerability may affect the fingerprint service.
+- [Live-Hack-CVE/CVE-2022-41601](https://github.com/Live-Hack-CVE/CVE-2022-41601)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41601">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41601">
+
+---
+## CVE-2022-41600 (2022-10-14T16:15:00)
+> The phones have the heap overflow, out-of-bounds read, and null pointer vulnerabilities in the fingerprint trusted application (TA).Successful exploitation of this vulnerability may affect the fingerprint service.
+- [Live-Hack-CVE/CVE-2022-41600](https://github.com/Live-Hack-CVE/CVE-2022-41600)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41600">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41600">
+
+---
 ## CVE-2022-4160 (2022-12-26T13:15:00)
 > The Contest Gallery WordPress plugin before 19.1.5.1, Contest Gallery Pro WordPress plugin before 19.1.5.1 do not escape the cg_copy_id POST parameter before concatenating it to an SQL query in cg-copy-comments.php and cg-copy-rating.php. This may allow malicious users with at least author privilege to leak sensitive information from the site's database.
 - [Live-Hack-CVE/CVE-2022-4160](https://github.com/Live-Hack-CVE/CVE-2022-4160)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4160">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4160">
@@ -6495,9 +6515,39 @@
 - [Live-Hack-CVE/CVE-2022-41599](https://github.com/Live-Hack-CVE/CVE-2022-41599)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41599">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41599">
 
 ---
+## CVE-2022-41598 (2022-10-14T16:15:00)
+> The phones have the heap overflow, out-of-bounds read, and null pointer vulnerabilities in the fingerprint trusted application (TA).Successful exploitation of this vulnerability may affect the fingerprint service.
+- [Live-Hack-CVE/CVE-2022-41598](https://github.com/Live-Hack-CVE/CVE-2022-41598)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41598">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41598">
+
+---
+## CVE-2022-41597 (2022-10-14T16:15:00)
+> The phones have the heap overflow, out-of-bounds read, and null pointer vulnerabilities in the fingerprint trusted application (TA).Successful exploitation of this vulnerability may affect the fingerprint service.
+- [Live-Hack-CVE/CVE-2022-41597](https://github.com/Live-Hack-CVE/CVE-2022-41597)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41597">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41597">
+
+---
 ## CVE-2022-41596 (2022-12-20T21:15:00)
 > The system tool has inconsistent serialization and deserialization. Successful exploitation of this vulnerability will cause unauthorized startup of components.
 - [Live-Hack-CVE/CVE-2022-41596](https://github.com/Live-Hack-CVE/CVE-2022-41596)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41596">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41596">
+
+---
+## CVE-2022-41595 (2022-10-14T16:15:00)
+> The phones have the heap overflow, out-of-bounds read, and null pointer vulnerabilities in the fingerprint trusted application (TA).Successful exploitation of this vulnerability may affect the fingerprint service.
+- [Live-Hack-CVE/CVE-2022-41595](https://github.com/Live-Hack-CVE/CVE-2022-41595)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41595">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41595">
+
+---
+## CVE-2022-41594 (2022-10-14T16:15:00)
+> The phones have the heap overflow, out-of-bounds read, and null pointer vulnerabilities in the fingerprint trusted application (TA).Successful exploitation of this vulnerability may affect the fingerprint service.
+- [Live-Hack-CVE/CVE-2022-41594](https://github.com/Live-Hack-CVE/CVE-2022-41594)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41594">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41594">
+
+---
+## CVE-2022-41593 (2022-10-14T16:15:00)
+> The phones have the heap overflow, out-of-bounds read, and null pointer vulnerabilities in the fingerprint trusted application (TA).Successful exploitation of this vulnerability may affect the fingerprint service.
+- [Live-Hack-CVE/CVE-2022-41593](https://github.com/Live-Hack-CVE/CVE-2022-41593)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41593">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41593">
+
+---
+## CVE-2022-41592 (2022-10-14T16:15:00)
+> The phones have the heap overflow, out-of-bounds read, and null pointer vulnerabilities in the fingerprint trusted application (TA).Successful exploitation of this vulnerability may affect the fingerprint service.
+- [Live-Hack-CVE/CVE-2022-41592](https://github.com/Live-Hack-CVE/CVE-2022-41592)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41592">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41592">
 
 ---
 ## CVE-2022-41591 (2022-12-20T21:15:00)
@@ -6569,6 +6619,16 @@
 > The MPTCP module has an out-of-bounds write vulnerability.Successful exploitation of this vulnerability may cause root privilege escalation attacks implemented by modifying program information.
 - [Live-Hack-CVE/CVE-2022-41578](https://github.com/Live-Hack-CVE/CVE-2022-41578)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41578">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41578">
 - [Live-Hack-CVE/CVE-2022-41578](https://github.com/Live-Hack-CVE/CVE-2022-41578)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41578">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41578">
+
+---
+## CVE-2022-41577 (2022-10-14T16:15:00)
+> The kernel server has a vulnerability of not verifying the length of the data transferred in the user space.Successful exploitation of this vulnerability may cause out-of-bounds read in the kernel, which affects the device confidentiality and availability.
+- [Live-Hack-CVE/CVE-2022-41577](https://github.com/Live-Hack-CVE/CVE-2022-41577)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41577">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41577">
+
+---
+## CVE-2022-41576 (2022-10-14T16:15:00)
+> The rphone module has a script that can be maliciously modified.Successful exploitation of this vulnerability may cause irreversible programs to be implanted on user devices.
+- [Live-Hack-CVE/CVE-2022-41576](https://github.com/Live-Hack-CVE/CVE-2022-41576)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41576">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41576">
 
 ---
 ## CVE-2022-41575 (2022-10-21T12:15:00)
@@ -14681,10 +14741,70 @@
 - [Live-Hack-CVE/CVE-2022-3506](https://github.com/Live-Hack-CVE/CVE-2022-3506)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3506">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3506">
 
 ---
+## CVE-2022-35059 (2022-10-14T12:15:00)
+> OTFCC commit 617837b was discovered to contain a heap buffer overflow via /release-x64/otfccdump+0x6c0414.
+- [Live-Hack-CVE/CVE-2022-35059](https://github.com/Live-Hack-CVE/CVE-2022-35059)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35059">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35059">
+
+---
+## CVE-2022-35058 (2022-10-14T12:15:00)
+> OTFCC commit 617837b was discovered to contain a heap buffer overflow via /release-x64/otfccdump+0x6b05ce.
+- [Live-Hack-CVE/CVE-2022-35058](https://github.com/Live-Hack-CVE/CVE-2022-35058)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35058">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35058">
+
+---
+## CVE-2022-35056 (2022-10-14T12:15:00)
+> OTFCC commit 617837b was discovered to contain a heap buffer overflow via /release-x64/otfccdump+0x6b0478.
+- [Live-Hack-CVE/CVE-2022-35056](https://github.com/Live-Hack-CVE/CVE-2022-35056)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35056">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35056">
+
+---
+## CVE-2022-35055 (2022-10-14T12:15:00)
+> OTFCC commit 617837b was discovered to contain a heap buffer overflow via /release-x64/otfccdump+0x6c0473.
+- [Live-Hack-CVE/CVE-2022-35055](https://github.com/Live-Hack-CVE/CVE-2022-35055)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35055">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35055">
+
+---
+## CVE-2022-35054 (2022-10-14T12:15:00)
+> OTFCC commit 617837b was discovered to contain a heap buffer overflow via /release-x64/otfccdump+0x6171b2.
+- [Live-Hack-CVE/CVE-2022-35054](https://github.com/Live-Hack-CVE/CVE-2022-35054)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35054">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35054">
+
+---
 ## CVE-2022-3505 (2022-10-14T14:15:00)
 > A vulnerability was found in SourceCodester Sanitization Management System. It has been classified as problematic. Affected is an unknown function of the file /php-sms/admin/. The manipulation of the argument page leads to cross site scripting. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-210840.
 - [Live-Hack-CVE/CVE-2022-3505](https://github.com/Live-Hack-CVE/CVE-2022-3505)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3505">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3505">
 - [Live-Hack-CVE/CVE-2022-3505](https://github.com/Live-Hack-CVE/CVE-2022-3505)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3505">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3505">
+
+---
+## CVE-2022-35046 (2022-10-14T12:15:00)
+> OTFCC commit 617837b was discovered to contain a heap buffer overflow via /release-x64/otfccdump+0x6b0466.
+- [Live-Hack-CVE/CVE-2022-35046](https://github.com/Live-Hack-CVE/CVE-2022-35046)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35046">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35046">
+
+---
+## CVE-2022-35045 (2022-10-14T12:15:00)
+> OTFCC commit 617837b was discovered to contain a heap buffer overflow via /release-x64/otfccdump+0x6b0d63.
+- [Live-Hack-CVE/CVE-2022-35045](https://github.com/Live-Hack-CVE/CVE-2022-35045)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35045">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35045">
+
+---
+## CVE-2022-35044 (2022-10-14T12:15:00)
+> OTFCC commit 617837b was discovered to contain a heap buffer overflow via /release-x64/otfccdump+0x617087.
+- [Live-Hack-CVE/CVE-2022-35044](https://github.com/Live-Hack-CVE/CVE-2022-35044)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35044">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35044">
+
+---
+## CVE-2022-35043 (2022-10-14T12:15:00)
+> OTFCC commit 617837b was discovered to contain a heap buffer overflow via /release-x64/otfccdump+0x6c08a6.
+- [Live-Hack-CVE/CVE-2022-35043](https://github.com/Live-Hack-CVE/CVE-2022-35043)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35043">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35043">
+
+---
+## CVE-2022-35042 (2022-10-14T12:15:00)
+> OTFCC commit 617837b was discovered to contain a heap buffer overflow via /release-x64/otfccdump+0x4adb11.
+- [Live-Hack-CVE/CVE-2022-35042](https://github.com/Live-Hack-CVE/CVE-2022-35042)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35042">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35042">
+
+---
+## CVE-2022-35041 (2022-10-14T12:15:00)
+> OTFCC commit 617837b was discovered to contain a heap buffer overflow via /release-x64/otfccdump+0x6b558f.
+- [Live-Hack-CVE/CVE-2022-35041](https://github.com/Live-Hack-CVE/CVE-2022-35041)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35041">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35041">
+
+---
+## CVE-2022-35040 (2022-10-14T12:15:00)
+> OTFCC commit 617837b was discovered to contain a heap buffer overflow via /release-x64/otfccdump+0x6b5567.
+- [Live-Hack-CVE/CVE-2022-35040](https://github.com/Live-Hack-CVE/CVE-2022-35040)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35040">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35040">
 
 ---
 ## CVE-2022-3504 (2022-10-14T14:15:00)

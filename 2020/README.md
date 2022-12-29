@@ -530,6 +530,11 @@
 - [Live-Hack-CVE/CVE-2020-6624](https://github.com/Live-Hack-CVE/CVE-2020-6624)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6624">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6624">
 
 ---
+## CVE-2020-6498 (2020-06-03T23:15:00)
+> Incorrect implementation in user interface in Google Chrome on iOS prior to 83.0.4103.88 allowed a remote attacker to perform domain spoofing via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2020-6498](https://github.com/Live-Hack-CVE/CVE-2020-6498)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6498">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6498">
+
+---
 ## CVE-2020-6497 (2020-06-03T23:15:00)
 > Insufficient policy enforcement in Omnibox in Google Chrome on iOS prior to 83.0.4103.88 allowed a remote attacker to perform domain spoofing via a crafted URI.
 - [Live-Hack-CVE/CVE-2020-6497](https://github.com/Live-Hack-CVE/CVE-2020-6497)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6497">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6497">
@@ -538,6 +543,11 @@
 ## CVE-2020-6495 (2020-06-03T23:15:00)
 > Insufficient policy enforcement in developer tools in Google Chrome prior to 83.0.4103.97 allowed an attacker who convinced a user to install a malicious extension to potentially perform a sandbox escape via a crafted Chrome Extension.
 - [Live-Hack-CVE/CVE-2020-6495](https://github.com/Live-Hack-CVE/CVE-2020-6495)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6495">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6495">
+
+---
+## CVE-2020-6493 (2020-06-03T23:15:00)
+> Use after free in WebAuthentication in Google Chrome prior to 83.0.4103.97 allowed a remote attacker who had compromised the renderer process to potentially perform a sandbox escape via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2020-6493](https://github.com/Live-Hack-CVE/CVE-2020-6493)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6493">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6493">
 
 ---
 ## CVE-2020-6468 (2020-05-21T04:15:00)
@@ -2548,6 +2558,21 @@
 ## CVE-2020-16211 (2020-08-06T19:15:00)
 > Advantech WebAccess HMI Designer, Versions 2.1.9.31 and prior. An out-of-bounds read vulnerability may be exploited by processing specially crafted project files, which may allow an attacker to read information.
 - [Live-Hack-CVE/CVE-2020-16211](https://github.com/Live-Hack-CVE/CVE-2020-16211)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-16211">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-16211">
+
+---
+## CVE-2020-16210 (2020-09-01T21:15:00)
+> The affected product is vulnerable to reflected cross-site scripting, which may allow an attacker to remotely execute arbitrary code and perform actions in the context of an attacked user on the N-Tron 702-W / 702M12-W (all versions).
+- [Live-Hack-CVE/CVE-2020-16210](https://github.com/Live-Hack-CVE/CVE-2020-16210)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-16210">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-16210">
+
+---
+## CVE-2020-16206 (2020-09-01T21:15:00)
+> The affected product is vulnerable to stored cross-site scripting, which may allow an attacker to remotely execute arbitrary code to gain access to sensitive data on the N-Tron 702-W / 702M12-W (all versions).
+- [Live-Hack-CVE/CVE-2020-16206](https://github.com/Live-Hack-CVE/CVE-2020-16206)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-16206">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-16206">
+
+---
+## CVE-2020-16204 (2020-09-01T21:15:00)
+> The affected product is vulnerable due to an undocumented interface found on the device, which may allow an attacker to execute commands as root on the device on the N-Tron 702-W / 702M12-W (all versions).
+- [Live-Hack-CVE/CVE-2020-16204](https://github.com/Live-Hack-CVE/CVE-2020-16204)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-16204">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-16204">
 
 ---
 ## CVE-2020-16164 (2020-07-30T16:15:00)
