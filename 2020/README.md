@@ -606,6 +606,11 @@
 - [gquere/CVE-2020-6364](https://github.com/gquere/CVE-2020-6364)	<img alt="forks" src="https://img.shields.io/github/forks/gquere/CVE-2020-6364">	<img alt="stars" src="https://img.shields.io/github/stars/gquere/CVE-2020-6364">
 
 ---
+## CVE-2020-6267 (2020-07-14T13:15:00)
+> Some sensitive cookies in SAP Disclosure Management, version 10.1, are missing HttpOnly flag, leading to sensitive cookie without Http Only flag.
+- [Live-Hack-CVE/CVE-2020-6267](https://github.com/Live-Hack-CVE/CVE-2020-6267)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6267">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6267">
+
+---
 ## CVE-2020-6099 (2022-04-18T17:15:00)
 > An exploitable code execution vulnerability exists in the file format parsing functionality of Graphisoft BIMx Desktop Viewer 2019.2.2328. A specially crafted file can cause a heap buffer overflow resulting in a code execution. An attacker can provide a malicious file to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2020-6099](https://github.com/Live-Hack-CVE/CVE-2020-6099)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6099">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6099">
@@ -1393,9 +1398,19 @@
 - [ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955-Go](https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955-Go)	<img alt="forks" src="https://img.shields.io/github/forks/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955-Go">	<img alt="stars" src="https://img.shields.io/github/stars/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955-Go">
 
 ---
+## CVE-2020-27918 (2020-12-08T22:15:00)
+> A use after free issue was addressed with improved memory management. This issue is fixed in macOS Big Sur 11.0.1, watchOS 7.1, iOS 14.2 and iPadOS 14.2, iCloud for Windows 11.5, Safari 14.0.1, tvOS 14.2, iTunes 12.11 for Windows. Processing maliciously crafted web content may lead to arbitrary code execution.
+- [Live-Hack-CVE/CVE-2020-27918](https://github.com/Live-Hack-CVE/CVE-2020-27918)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27918">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27918">
+
+---
 ## CVE-2020-27909 (2020-12-08T21:15:00)
 > An out-of-bounds read was addressed with improved input validation. This issue is fixed in iOS 14.2 and iPadOS 14.2, tvOS 14.2, watchOS 7.1. Processing a maliciously crafted audio file may lead to arbitrary code execution.
 - [Live-Hack-CVE/CVE-2020-27909](https://github.com/Live-Hack-CVE/CVE-2020-27909)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27909">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27909">
+
+---
+## CVE-2020-27896 (2020-12-08T22:15:00)
+> A path handling issue was addressed with improved validation. This issue is fixed in macOS Big Sur 11.0.1. A remote attacker may be able to modify the file system.
+- [Live-Hack-CVE/CVE-2020-27896](https://github.com/Live-Hack-CVE/CVE-2020-27896)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27896">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27896">
 
 ---
 ## CVE-2020-2787 (2020-04-15T14:15:00)

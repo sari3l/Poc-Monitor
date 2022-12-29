@@ -8707,6 +8707,16 @@
 - [Live-Hack-CVE/CVE-2022-40183](https://github.com/Live-Hack-CVE/CVE-2022-40183)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40183">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40183">
 
 ---
+## CVE-2022-40182 (2022-10-11T11:15:00)
+> A vulnerability has been identified in Desigo PXM30-1 (All versions < V02.20.126.11-41), Desigo PXM30.E (All versions < V02.20.126.11-41), Desigo PXM40-1 (All versions < V02.20.126.11-41), Desigo PXM40.E (All versions < V02.20.126.11-41), Desigo PXM50-1 (All versions < V02.20.126.11-41), Desigo PXM50.E (All versions < V02.20.126.11-41), PXG3.W100-1 (All versions < V02.20.126.11-37), PXG3.W100-2 (All versions < V02.20.126.11-41), PXG3.W200-1 (All versions < V02.20.126.11-37), PXG3.W200-2 (All versions < V02.20.126.11-41). The device embedded Chromium-based browser is launched as root with the “--no-sandbox” option. Attackers can add arbitrary JavaScript code inside “Operation” graphics and successfully exploit any number of publicly known vulnerabilities against the version of the embedded Chromium-based browser.
+- [Live-Hack-CVE/CVE-2022-40182](https://github.com/Live-Hack-CVE/CVE-2022-40182)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40182">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40182">
+
+---
+## CVE-2022-40181 (2022-10-11T11:15:00)
+> A vulnerability has been identified in Desigo PXM30-1 (All versions < V02.20.126.11-41), Desigo PXM30.E (All versions < V02.20.126.11-41), Desigo PXM40-1 (All versions < V02.20.126.11-41), Desigo PXM40.E (All versions < V02.20.126.11-41), Desigo PXM50-1 (All versions < V02.20.126.11-41), Desigo PXM50.E (All versions < V02.20.126.11-41), PXG3.W100-1 (All versions < V02.20.126.11-37), PXG3.W100-2 (All versions < V02.20.126.11-41), PXG3.W200-1 (All versions < V02.20.126.11-37), PXG3.W200-2 (All versions < V02.20.126.11-41). The device embedded browser does not prevent interaction with alternative URI schemes when redirected to corresponding resources by web application code. By setting the homepage URI, the favorite URIs, or redirecting embedded browser users via JavaScript code to alternative scheme resources, a remote low privileged attacker can perform a range of attacks against the device, such as read arbitrary files on the filesystem, execute arbitrary JavaScript code in order to steal or manipulate the information on the screen, or trigger denial of service conditions.
+- [Live-Hack-CVE/CVE-2022-40181](https://github.com/Live-Hack-CVE/CVE-2022-40181)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40181">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40181">
+
+---
 ## CVE-2022-4018 (2022-11-16T13:15:00)
 > Missing Authentication for Critical Function in GitHub repository ikus060/rdiffweb prior to 2.5.0a6.
 - [Live-Hack-CVE/CVE-2022-4018](https://github.com/Live-Hack-CVE/CVE-2022-4018)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4018">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4018">
@@ -11417,6 +11427,7 @@
 ## CVE-2022-37993 (2022-10-11T19:15:00)
 > Windows Group Policy Preference Client Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-37994, CVE-2022-37999.
 - [Live-Hack-CVE/CVE-2022-37993](https://github.com/Live-Hack-CVE/CVE-2022-37993)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37993">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37993">
+- [Live-Hack-CVE/CVE-2022-37993](https://github.com/Live-Hack-CVE/CVE-2022-37993)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37993">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37993">
 
 ---
 ## CVE-2022-37991 (2022-10-11T19:15:00)
@@ -11437,8 +11448,14 @@
 - [Live-Hack-CVE/CVE-2022-37991](https://github.com/Live-Hack-CVE/CVE-2022-37991)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37991">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37991">
 
 ---
+## CVE-2022-37989 (2022-10-11T19:15:00)
+> Windows Client Server Run-time Subsystem (CSRSS) Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-37987.
+- [Live-Hack-CVE/CVE-2022-37989](https://github.com/Live-Hack-CVE/CVE-2022-37989)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37989">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37989">
+
+---
 ## CVE-2022-37987 (2022-10-11T19:15:00)
 > Windows Client Server Run-time Subsystem (CSRSS) Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-37989.
+- [Live-Hack-CVE/CVE-2022-37987](https://github.com/Live-Hack-CVE/CVE-2022-37987)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37987">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37987">
 - [Live-Hack-CVE/CVE-2022-37987](https://github.com/Live-Hack-CVE/CVE-2022-37987)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37987">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37987">
 
 ---
@@ -11479,8 +11496,19 @@
 - [Live-Hack-CVE/CVE-2022-37977](https://github.com/Live-Hack-CVE/CVE-2022-37977)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37977">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37977">
 
 ---
+## CVE-2022-37971 (2022-10-11T19:15:00)
+> Microsoft Windows Defender Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2022-37971](https://github.com/Live-Hack-CVE/CVE-2022-37971)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37971">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37971">
+
+---
+## CVE-2022-37970 (2022-10-11T19:15:00)
+> Windows DWM Core Library Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2022-37970](https://github.com/Live-Hack-CVE/CVE-2022-37970)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37970">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37970">
+
+---
 ## CVE-2022-37968 (2022-10-11T19:15:00)
 > Azure Arc-enabled Kubernetes cluster Connect Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2022-37968](https://github.com/Live-Hack-CVE/CVE-2022-37968)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37968">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37968">
 - [Live-Hack-CVE/CVE-2022-37968](https://github.com/Live-Hack-CVE/CVE-2022-37968)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37968">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37968">
 
 ---
@@ -11496,6 +11524,7 @@
 ---
 ## CVE-2022-37965 (2022-10-11T19:15:00)
 > Windows Point-to-Point Tunneling Protocol Denial of Service Vulnerability.
+- [Live-Hack-CVE/CVE-2022-37965](https://github.com/Live-Hack-CVE/CVE-2022-37965)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37965">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37965">
 - [Live-Hack-CVE/CVE-2022-37965](https://github.com/Live-Hack-CVE/CVE-2022-37965)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37965">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37965">
 
 ---
@@ -14157,6 +14186,7 @@
 ---
 ## CVE-2022-35770 (2022-10-11T19:15:00)
 > Windows NTLM Spoofing Vulnerability.
+- [Live-Hack-CVE/CVE-2022-35770](https://github.com/Live-Hack-CVE/CVE-2022-35770)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35770">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35770">
 - [Live-Hack-CVE/CVE-2022-35770](https://github.com/Live-Hack-CVE/CVE-2022-35770)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35770">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35770">
 
 ---
@@ -18189,6 +18219,11 @@
 > nfs_lookup_reply in net/nfs.c in Das U-Boot through 2022.04 (and through 2022.07-rc2) has an unbounded memcpy with a failed length check, leading to a buffer overflow. NOTE: this issue exists because of an incorrect fix for CVE-2019-14196.
 - [Live-Hack-CVE/CVE-2022-30767](https://github.com/Live-Hack-CVE/CVE-2022-30767)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30767">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30767">
 - [Live-Hack-CVE/CVE-2022-30767](https://github.com/Live-Hack-CVE/CVE-2022-30767)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30767">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30767">
+
+---
+## CVE-2022-30763 (2022-05-16T03:15:00)
+> Janet before 1.22.0 mishandles arrays.
+- [Live-Hack-CVE/CVE-2022-30763](https://github.com/Live-Hack-CVE/CVE-2022-30763)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30763">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30763">
 
 ---
 ## CVE-2022-3076 (2022-09-26T13:15:00)
