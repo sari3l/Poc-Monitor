@@ -12258,6 +12258,11 @@
 - [Live-Hack-CVE/CVE-2022-3807](https://github.com/Live-Hack-CVE/CVE-2022-3807)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3807">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3807">
 
 ---
+## CVE-2022-38068 (2022-09-09T15:15:00)
+> Authenticated (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Apasionados Export Post Info plugin <= 1.1.0 at WordPress.
+- [Live-Hack-CVE/CVE-2022-38068](https://github.com/Live-Hack-CVE/CVE-2022-38068)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38068">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38068">
+
+---
 ## CVE-2022-38064 (2022-09-09T15:15:00)
 > OpenHarmony-v3.1.2 and prior versions have a permission bypass vulnerability. Local attackers can bypass permission control and get sensitive information.
 - [Live-Hack-CVE/CVE-2022-38064](https://github.com/Live-Hack-CVE/CVE-2022-38064)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38064">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38064">
@@ -12266,6 +12271,16 @@
 ## CVE-2022-38061 (2022-09-23T15:15:00)
 > Authenticated (author+) CSV Injection vulnerability in Export Post Info plugin <= 1.2.0 at WordPress.
 - [Live-Hack-CVE/CVE-2022-38061](https://github.com/Live-Hack-CVE/CVE-2022-38061)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38061">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38061">
+
+---
+## CVE-2022-38059 (2022-09-09T15:15:00)
+> Cross-Site Request Forgery (CSRF) vulnerability in Alexey Trofimov's Access Code Feeder plugin <= 1.0.3 at WordPress.
+- [Live-Hack-CVE/CVE-2022-38059](https://github.com/Live-Hack-CVE/CVE-2022-38059)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38059">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38059">
+
+---
+## CVE-2022-38058 (2022-09-09T15:15:00)
+> Authenticated (subscriber+) Plugin Setting change vulnerability in WP Shamsi plugin <= 4.1.1 at WordPress.
+- [Live-Hack-CVE/CVE-2022-38058](https://github.com/Live-Hack-CVE/CVE-2022-38058)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38058">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38058">
 
 ---
 ## CVE-2022-38046 (2022-10-11T19:15:00)
@@ -13221,14 +13236,39 @@
 - [Live-Hack-CVE/CVE-2022-37418](https://github.com/Live-Hack-CVE/CVE-2022-37418)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37418">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37418">
 
 ---
+## CVE-2022-37412 (2022-09-09T15:15:00)
+> Authenticated (admin+) Reflected Cross-Site Scripting (XSS) vulnerability in Galerio & Urda's Better Delete Revision plugin <= 1.6.1 at WordPress.
+- [Live-Hack-CVE/CVE-2022-37412](https://github.com/Live-Hack-CVE/CVE-2022-37412)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37412">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37412">
+
+---
 ## CVE-2022-3741 (2022-10-28T13:15:00)
 > Impact varies for each individual vulnerability in the application. For generation of accounts, it may be possible, depending on the amount of system resources available, to create a DoS event in the server. These accounts still need to be activated; however, it is possible to identify the output Status Code to separate accounts that are generated and waiting for email verification. \n\nFor the sign in directories, it is possible to brute force login attempts to either login portal, which could lead to account compromise.
 - [Live-Hack-CVE/CVE-2022-3741](https://github.com/Live-Hack-CVE/CVE-2022-3741)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3741">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3741">
 
 ---
+## CVE-2022-37407 (2022-09-09T15:15:00)
+> Multiple Authenticated Stored Cross-Site Scripting (XSS) vulnerabilities in WPChill Gallery PhotoBlocks plugin <= 1.2.6 at WordPress.
+- [Live-Hack-CVE/CVE-2022-37407](https://github.com/Live-Hack-CVE/CVE-2022-37407)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37407">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37407">
+
+---
 ## CVE-2022-37406 (2022-12-07T04:15:00)
 > Cross-site scripting vulnerability in Aficio SP 4210N firmware versions prior to Web Support 1.05 allows a remote authenticated attacker with an administrative privilege to inject an arbitrary script.
 - [Live-Hack-CVE/CVE-2022-37406](https://github.com/Live-Hack-CVE/CVE-2022-37406)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37406">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37406">
+
+---
+## CVE-2022-37405 (2022-09-09T15:15:00)
+> Cross-Site Request Forgery (CSRF) vulnerability in Mickey Kay's Better Font Awesome plugin <= 2.0.1 at WordPress.
+- [Live-Hack-CVE/CVE-2022-37405](https://github.com/Live-Hack-CVE/CVE-2022-37405)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37405">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37405">
+
+---
+## CVE-2022-37404 (2022-09-09T15:15:00)
+> Authenticated (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Christian Salazar's add2fav plugin <= 1.0 at WordPress.
+- [Live-Hack-CVE/CVE-2022-37404](https://github.com/Live-Hack-CVE/CVE-2022-37404)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37404">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37404">
+
+---
+## CVE-2022-37403 (2022-09-09T15:15:00)
+> Authenticated (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Nikhil Vaghela's Add User Role plugin <= 0.0.1 at WordPress.
+- [Live-Hack-CVE/CVE-2022-37403](https://github.com/Live-Hack-CVE/CVE-2022-37403)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37403">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37403">
 
 ---
 ## CVE-2022-37401 (2022-08-15T11:21:00)
@@ -13272,6 +13312,11 @@
 ## CVE-2022-37338 (2022-09-23T14:15:00)
 > Multiple Authenticated (contributor+) Stored Cross-Site Scripting (XSS) vulnerabilities in Blossom Recipe Maker plugin <= 1.0.7 at WordPress.
 - [Live-Hack-CVE/CVE-2022-37338](https://github.com/Live-Hack-CVE/CVE-2022-37338)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37338">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37338">
+
+---
+## CVE-2022-37335 (2022-09-09T15:15:00)
+> Authenticated (author+) Stored Cross-Site Scripting (XSS) vulnerability in WHA's Word Search Puzzles game plugin <= 2.0.1 at WordPress.
+- [Live-Hack-CVE/CVE-2022-37335](https://github.com/Live-Hack-CVE/CVE-2022-37335)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37335">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37335">
 
 ---
 ## CVE-2022-37333 (2022-08-24T09:15:00)
@@ -13326,6 +13371,11 @@
 ## CVE-2022-37305 (2022-08-24T06:15:00)
 > The Remote Keyless Entry (RKE) receiving unit on certain Honda vehicles through 2018 allows remote attackers to perform unlock operations and force a resynchronization after capturing five consecutive valid RKE signals over the radio, aka a RollBack attack. The attacker retains the ability to unlock indefinitely.
 - [Live-Hack-CVE/CVE-2022-37305](https://github.com/Live-Hack-CVE/CVE-2022-37305)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37305">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37305">
+
+---
+## CVE-2022-37299 (2022-09-09T15:15:00)
+> An issue was discovered in Shirne CMS 1.2.0. There is a Path Traversal vulnerability which could cause arbitrary file read via /static/ueditor/php/controller.php
+- [Live-Hack-CVE/CVE-2022-37299](https://github.com/Live-Hack-CVE/CVE-2022-37299)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37299">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37299">
 
 ---
 ## CVE-2022-37298 (2022-10-20T11:15:00)
@@ -13915,14 +13965,104 @@
 - [Live-Hack-CVE/CVE-2022-36864](https://github.com/Live-Hack-CVE/CVE-2022-36864)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36864">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36864">
 
 ---
+## CVE-2022-36863 (2022-09-09T15:15:00)
+> A heap-based overflow vulnerability in GetCorrectDbLanguageTypeEsPKc function in libSDKRecognitionText.spensdk.samsung.so library prior to SMR Sep-2022 Release 1 allows attacker to cause memory access fault.
+- [Live-Hack-CVE/CVE-2022-36863](https://github.com/Live-Hack-CVE/CVE-2022-36863)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36863">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36863">
+
+---
+## CVE-2022-36861 (2022-09-09T15:15:00)
+> Custom permission misuse vulnerability in SystemUI prior to SMR Sep-2022 Release 1 allows attacker to use some protected functions with SystemUI privilege.
+- [Live-Hack-CVE/CVE-2022-36861](https://github.com/Live-Hack-CVE/CVE-2022-36861)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36861">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36861">
+
+---
+## CVE-2022-36860 (2022-09-09T15:15:00)
+> A heap-based overflow vulnerability in LoadEnvironment function in libSDKRecognitionText.spensdk.samsung.so library prior to SMR Sep-2022 Release 1 allows attacker to cause memory access fault.
+- [Live-Hack-CVE/CVE-2022-36860](https://github.com/Live-Hack-CVE/CVE-2022-36860)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36860">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36860">
+
+---
 ## CVE-2022-36859 (2022-09-09T15:15:00)
 > Improper input validation vulnerability in SmartTagPlugin prior to version 1.2.21-6 allows privileged attackers to trigger a XSS on a victim&#39;s devices.
 - [Live-Hack-CVE/CVE-2022-36859](https://github.com/Live-Hack-CVE/CVE-2022-36859)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36859">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36859">
 
 ---
+## CVE-2022-36858 (2022-09-09T15:15:00)
+> A heap-based overflow vulnerability in GetCorrectDbLanguageTypeEsPKc() function in libSDKRecognitionText.spensdk.samsung.so library prior to SMR Sep-2022 Release 1 allows attacker to cause memory access fault.
+- [Live-Hack-CVE/CVE-2022-36858](https://github.com/Live-Hack-CVE/CVE-2022-36858)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36858">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36858">
+
+---
+## CVE-2022-36857 (2022-09-09T15:15:00)
+> Improper Authorization vulnerability in Photo Editor prior to SMR Sep-2022 Release 1 allows physical attackers to read internal application data.
+- [Live-Hack-CVE/CVE-2022-36857](https://github.com/Live-Hack-CVE/CVE-2022-36857)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36857">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36857">
+
+---
+## CVE-2022-36856 (2022-09-09T15:15:00)
+> Improper access control vulnerability in Telecom application prior to SMR Sep-2022 Release 1 allows attacker to start emergency calls via undefined permission.
+- [Live-Hack-CVE/CVE-2022-36856](https://github.com/Live-Hack-CVE/CVE-2022-36856)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36856">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36856">
+
+---
+## CVE-2022-36855 (2022-09-09T15:15:00)
+> A use after free vulnerability in iva_ctl driver prior to SMR Sep-2022 Release 1 allows attacker to cause memory access fault.
+- [Live-Hack-CVE/CVE-2022-36855](https://github.com/Live-Hack-CVE/CVE-2022-36855)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36855">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36855">
+
+---
+## CVE-2022-36854 (2022-09-09T15:15:00)
+> Out of bound read in libapexjni.media.samsung.so prior to SMR Sep-2022 Release 1 allows attacker access unauthorized information.
+- [Live-Hack-CVE/CVE-2022-36854](https://github.com/Live-Hack-CVE/CVE-2022-36854)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36854">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36854">
+
+---
+## CVE-2022-36853 (2022-09-09T15:15:00)
+> Intent redirection in Photo Editor prior to SMR Sep-2022 Release 1 allows attacker to get sensitive information.
+- [Live-Hack-CVE/CVE-2022-36853](https://github.com/Live-Hack-CVE/CVE-2022-36853)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36853">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36853">
+
+---
+## CVE-2022-36852 (2022-09-09T15:15:00)
+> Improper Authorization vulnerability in Video Editor prior to SMR Sep-2022 Release 1 allows local attacker to access internal application data.
+- [Live-Hack-CVE/CVE-2022-36852](https://github.com/Live-Hack-CVE/CVE-2022-36852)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36852">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36852">
+
+---
 ## CVE-2022-36851 (2022-09-09T15:15:00)
 > Improper access control vulnerability in Samsung pass prior to version 4.0.03.1 allow physical attackers to access data of Samsung pass on a certain state of an unlocked device.
 - [Live-Hack-CVE/CVE-2022-36851](https://github.com/Live-Hack-CVE/CVE-2022-36851)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36851">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36851">
+
+---
+## CVE-2022-36850 (2022-09-09T15:15:00)
+> Path traversal vulnerability in CallBGProvider prior to SMR Sep-2022 Release 1 allows attacker to overwrite arbitrary file with phone uid.
+- [Live-Hack-CVE/CVE-2022-36850](https://github.com/Live-Hack-CVE/CVE-2022-36850)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36850">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36850">
+
+---
+## CVE-2022-36849 (2022-09-09T15:15:00)
+> Use after free vulnerability in sdp_mm_set_process_sensitive function of sdpmm driver prior to SMR Sep-2022 Release 1 allows attackers to perform malicious actions.
+- [Live-Hack-CVE/CVE-2022-36849](https://github.com/Live-Hack-CVE/CVE-2022-36849)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36849">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36849">
+
+---
+## CVE-2022-36848 (2022-09-09T15:15:00)
+> Improper Authorization vulnerability in setDualDARPolicyCmd prior to SMR Sep-2022 Release 1 allows local attackers to cause local permanent denial of service.
+- [Live-Hack-CVE/CVE-2022-36848](https://github.com/Live-Hack-CVE/CVE-2022-36848)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36848">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36848">
+
+---
+## CVE-2022-36847 (2022-09-09T15:15:00)
+> Use after free vulnerability in mtp_send_signal function of MTP driver prior to SMR Sep-2022 Release 1 allows attackers to perform malicious actions.
+- [Live-Hack-CVE/CVE-2022-36847](https://github.com/Live-Hack-CVE/CVE-2022-36847)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36847">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36847">
+
+---
+## CVE-2022-36846 (2022-09-09T15:15:00)
+> A heap-based overflow vulnerability in ConstructDictionary function in libSDKRecognitionText.spensdk.samsung.so library prior to SMR Sep-2022 Release 1 allows attacker to cause memory access fault.
+- [Live-Hack-CVE/CVE-2022-36846](https://github.com/Live-Hack-CVE/CVE-2022-36846)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36846">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36846">
+
+---
+## CVE-2022-36845 (2022-09-09T15:15:00)
+> A heap-based overflow vulnerability in MHW_RECOG_LIB_INFO function in libSDKRecognitionText.spensdk.samsung.so library prior to SMR Sep-2022 Release 1 allows attacker to cause memory access fault.
+- [Live-Hack-CVE/CVE-2022-36845](https://github.com/Live-Hack-CVE/CVE-2022-36845)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36845">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36845">
+
+---
+## CVE-2022-36844 (2022-09-09T15:15:00)
+> A heap-based overflow vulnerability in HWR::EngJudgeModel::Construct() in libSDKRecognitionText.spensdk.samsung.so library prior to SMR Sep-2022 Release 1 allows attacker to cause memory access fault.
+- [Live-Hack-CVE/CVE-2022-36844](https://github.com/Live-Hack-CVE/CVE-2022-36844)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36844">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36844">
+
+---
+## CVE-2022-36843 (2022-09-09T15:15:00)
+> A heap-based overflow vulnerability in MHW_RECOG_LIB_INFO function in libSDKRecognitionText.spensdk.samsung.so library prior to SMR Sep-2022 Release 1 allows attacker to cause memory access fault.
+- [Live-Hack-CVE/CVE-2022-36843](https://github.com/Live-Hack-CVE/CVE-2022-36843)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36843">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36843">
 
 ---
 ## CVE-2022-36804 (2022-08-25T06:15:00)
@@ -13958,6 +14098,11 @@
 ## CVE-2022-36798 (2022-09-23T14:15:00)
 > Cross-Site Request Forgery (CSRF) vulnerability in Topdigitaltrends Mega Addons For WPBakery Page Builder plugin <= 4.2.7 at WordPress.
 - [Live-Hack-CVE/CVE-2022-36798](https://github.com/Live-Hack-CVE/CVE-2022-36798)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36798">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36798">
+
+---
+## CVE-2022-36793 (2022-09-09T15:15:00)
+> Unauthenticated Plugin Settings Change & Data Deletion vulnerabilities in WP Shop plugin <= 3.9.6 at WordPress.
+- [Live-Hack-CVE/CVE-2022-36793](https://github.com/Live-Hack-CVE/CVE-2022-36793)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36793">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36793">
 
 ---
 ## CVE-2022-36791 (2022-09-23T15:15:00)
@@ -14528,6 +14673,11 @@
 ## CVE-2022-36423 (2022-09-09T15:15:00)
 > OpenHarmony-v3.1.2 and prior versions have an incorrect configuration of the cJSON library, which leads a Stack overflow vulnerability during recursive parsing. LAN attackers can lead a DoS attack to all network devices.
 - [Live-Hack-CVE/CVE-2022-36423](https://github.com/Live-Hack-CVE/CVE-2022-36423)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36423">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36423">
+
+---
+## CVE-2022-36422 (2022-09-09T15:15:00)
+> Rating increase/decrease via race condition in Lester 'GaMerZ' Chan WP-PostRatings plugin <= 1.89 at WordPress.
+- [Live-Hack-CVE/CVE-2022-36422](https://github.com/Live-Hack-CVE/CVE-2022-36422)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36422">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36422">
 
 ---
 ## CVE-2022-36402 (2022-09-16T17:15:00)
