@@ -1114,6 +1114,11 @@
 - [Live-Hack-CVE/CVE-2020-28935](https://github.com/Live-Hack-CVE/CVE-2020-28935)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28935">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28935">
 
 ---
+## CVE-2020-28648 (2020-11-16T03:15:00)
+> Improper input validation in the Auto-Discovery component of Nagios XI before 5.7.5 allows an authenticated attacker to execute remote code.
+- [Live-Hack-CVE/CVE-2020-28648](https://github.com/Live-Hack-CVE/CVE-2020-28648)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28648">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28648">
+
+---
 ## CVE-2020-28647 (2020-11-17T14:15:00)
 > In Progress MOVEit Transfer before 2020.1, a malicious user could craft and store a payload within the application. If a victim within the MOVEit Transfer instance interacts with the stored payload, it could invoke and execute arbitrary code within the context of the victim's browser (XSS).
 - [Live-Hack-CVE/CVE-2020-28647](https://github.com/Live-Hack-CVE/CVE-2020-28647)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28647">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28647">
@@ -2238,6 +2243,11 @@
 - [Live-Hack-CVE/CVE-2020-20213](https://github.com/Live-Hack-CVE/CVE-2020-20213)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-20213">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-20213">
 
 ---
+## CVE-2020-19907 (2021-07-12T20:15:00)
+> A command injection vulnerability in the sandcat plugin of Caldera 2.3.1 and earlier allows authenticated attackers to execute any command or service.
+- [Live-Hack-CVE/CVE-2020-19907](https://github.com/Live-Hack-CVE/CVE-2020-19907)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-19907">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-19907">
+
+---
 ## CVE-2020-19778 (2021-04-14T14:15:00)
 > Incorrect Access Control in Shopxo v1.4.0 and v1.5.0 allows remote attackers to gain privileges in "/index.php" by manipulating the parameter "user_id" in the HTML request.
 - [Live-Hack-CVE/CVE-2020-19778](https://github.com/Live-Hack-CVE/CVE-2020-19778)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-19778">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-19778">
@@ -2596,6 +2606,11 @@
 ## CVE-2020-15366 (2020-07-15T20:15:00)
 > An issue was discovered in ajv.validate() in Ajv (aka Another JSON Schema Validator) 6.12.2. A carefully crafted JSON schema could be provided that allows execution of other code by prototype pollution. (While untrusted schemas are recommended against, the worst case of an untrusted schema should be a denial of service, not execution of code.)
 - [Live-Hack-CVE/CVE-2020-15366](https://github.com/Live-Hack-CVE/CVE-2020-15366)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15366">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15366">
+
+---
+## CVE-2020-15275 (2020-11-11T16:15:00)
+> MoinMoin is a wiki engine. In MoinMoin before version 1.9.11, an attacker with write permissions can upload an SVG file that contains malicious javascript. This javascript will be executed in a user's browser when the user is viewing that SVG file on the wiki. Users are strongly advised to upgrade to a patched version. MoinMoin Wiki 1.9.11 has the necessary fixes and also contains other important fixes.
+- [Live-Hack-CVE/CVE-2020-15275](https://github.com/Live-Hack-CVE/CVE-2020-15275)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15275">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15275">
 
 ---
 ## CVE-2020-15229 (2020-10-14T19:15:00)

@@ -2169,6 +2169,11 @@
 - [Live-Hack-CVE/CVE-2021-38997](https://github.com/Live-Hack-CVE/CVE-2021-38997)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38997">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38997">
 
 ---
+## CVE-2021-38946 (2022-04-22T17:15:00)
+> IBM Cognos Analytics 11.1.7, 11.2.0, and 11.1.7 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 211240.
+- [Live-Hack-CVE/CVE-2021-38946](https://github.com/Live-Hack-CVE/CVE-2021-38946)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38946">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38946">
+
+---
 ## CVE-2021-38828 (2022-11-14T02:15:00)
 > Xiongmai Camera XM-JPR2-LX V4.02.R12.A6420987.10002.147502.00000 is vulnerable to plain-text traffic sniffing.
 - [Live-Hack-CVE/CVE-2021-38828](https://github.com/Live-Hack-CVE/CVE-2021-38828)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38828">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38828">
@@ -2363,6 +2368,11 @@
 - [phrantom/cve-2021-38314](https://github.com/phrantom/cve-2021-38314)	<img alt="forks" src="https://img.shields.io/github/forks/phrantom/cve-2021-38314">	<img alt="stars" src="https://img.shields.io/github/stars/phrantom/cve-2021-38314">
 - [orangmuda/CVE-2021-38314](https://github.com/orangmuda/CVE-2021-38314)	<img alt="forks" src="https://img.shields.io/github/forks/orangmuda/CVE-2021-38314">	<img alt="stars" src="https://img.shields.io/github/stars/orangmuda/CVE-2021-38314">
 - [akhilkoradiya/CVE-2021-38314](https://github.com/akhilkoradiya/CVE-2021-38314)	<img alt="forks" src="https://img.shields.io/github/forks/akhilkoradiya/CVE-2021-38314">	<img alt="stars" src="https://img.shields.io/github/stars/akhilkoradiya/CVE-2021-38314">
+
+---
+## CVE-2021-38294 (2021-10-25T13:15:00)
+> A Command Injection vulnerability exists in the getTopologyHistory service of the Apache Storm 2.x prior to 2.2.1 and Apache Storm 1.x prior to 1.2.4. A specially crafted thrift request to the Nimbus server allows Remote Code Execution (RCE) prior to authentication.
+- [Live-Hack-CVE/CVE-2021-38294](https://github.com/Live-Hack-CVE/CVE-2021-38294)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38294">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38294">
 
 ---
 ## CVE-2021-3827 (2022-08-23T16:15:00)
@@ -2847,6 +2857,11 @@
 - [Live-Hack-CVE/CVE-2021-36206](https://github.com/Live-Hack-CVE/CVE-2021-36206)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36206">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36206">
 
 ---
+## CVE-2021-36160 (2021-09-16T15:15:00)
+> A carefully crafted request uri-path can cause mod_proxy_uwsgi to read above the allocated memory and crash (DoS). This issue affects Apache HTTP Server versions 2.4.30 to 2.4.48 (inclusive).
+- [Live-Hack-CVE/CVE-2021-36160](https://github.com/Live-Hack-CVE/CVE-2021-36160)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36160">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36160">
+
+---
 ## CVE-2021-3609 (2022-03-03T19:15:00)
 > .A flaw was found in the CAN BCM networking protocol in the Linux kernel, where a local attacker can abuse a flaw in the CAN subsystem to corrupt memory, crash the system or escalate privileges. This race condition in net/can/bcm.c in the Linux kernel allows for local privilege escalation to root.
 - [Live-Hack-CVE/CVE-2021-3609](https://github.com/Live-Hack-CVE/CVE-2021-3609)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3609">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3609">
@@ -2933,6 +2948,11 @@
 ## CVE-2021-35938 (2022-08-25T20:15:00)
 > A symbolic link issue was found in rpm. It occurs when rpm sets the desired permissions and credentials after installing a file. A local unprivileged user could use this flaw to exchange the original file with a symbolic link to a security-critical file and escalate their privileges on the system. The highest threat from this vulnerability is to data confidentiality and integrity as well as system availability.
 - [Live-Hack-CVE/CVE-2021-35938](https://github.com/Live-Hack-CVE/CVE-2021-35938)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35938">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35938">
+
+---
+## CVE-2021-3578 (2022-02-16T19:15:00)
+> A flaw was found in mbsync before v1.3.6 and v1.4.2, where an unchecked pointer cast allows a malicious or compromised server to write an arbitrary integer value past the end of a heap-allocated structure by issuing an unexpected APPENDUID response. This could be plausibly exploited for remote code execution on the client.
+- [Live-Hack-CVE/CVE-2021-3578](https://github.com/Live-Hack-CVE/CVE-2021-3578)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3578">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3578">
 
 ---
 ## CVE-2021-3563 (2022-08-26T16:15:00)
@@ -3598,6 +3618,11 @@
 - [Live-Hack-CVE/CVE-2021-33196](https://github.com/Live-Hack-CVE/CVE-2021-33196)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33196">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33196">
 
 ---
+## CVE-2021-33193 (2021-08-16T08:15:00)
+> A crafted method sent through HTTP/2 will bypass validation and be forwarded by mod_proxy, which can lead to request splitting or cache poisoning. This issue affects Apache HTTP Server 2.4.17 to 2.4.48.
+- [Live-Hack-CVE/CVE-2021-33193](https://github.com/Live-Hack-CVE/CVE-2021-33193)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33193">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33193">
+
+---
 ## CVE-2021-33128 (2022-08-18T20:15:00)
 > Improper access control in the firmware for some Intel(R) E810 Ethernet Controllers before version 1.6.0.6 may allow a privileged user to potentially enable denial of service via local access.
 - [Live-Hack-CVE/CVE-2021-33128](https://github.com/Live-Hack-CVE/CVE-2021-33128)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33128">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33128">
@@ -4208,6 +4233,11 @@
 - [Live-Hack-CVE/CVE-2021-29474](https://github.com/Live-Hack-CVE/CVE-2021-29474)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29474">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29474">
 
 ---
+## CVE-2021-29465 (2021-04-22T01:15:00)
+> Discord-Recon is a bot for the Discord chat service. Versions of Discord-Recon 0.0.3 and prior contain a vulnerability in which a remote attacker is able to overwrite any file on the system with the command results. This can result in remote code execution when the user overwrite important files on the system. As a workaround, bot maintainers can edit their `setting.py` file then add `<` and `>` into the `RCE` variable inside of it to fix the issue without an update. The vulnerability is patched in version 0.0.4.
+- [Live-Hack-CVE/CVE-2021-29465](https://github.com/Live-Hack-CVE/CVE-2021-29465)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29465">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29465">
+
+---
 ## CVE-2021-29454 (2022-01-10T20:15:00)
 > Smarty is a template engine for PHP, facilitating the separation of presentation (HTML/CSS) from application logic. Prior to versions 3.1.42 and 4.0.2, template authors could run arbitrary PHP code by crafting a malicious math string. If a math string was passed through as user provided data to the math function, external users could run arbitrary PHP code by crafting a malicious math string. Users should upgrade to version 3.1.42 or 4.0.2 to receive a patch.
 - [Live-Hack-CVE/CVE-2021-29454](https://github.com/Live-Hack-CVE/CVE-2021-29454)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29454">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29454">
@@ -4276,6 +4306,26 @@
 - [Live-Hack-CVE/CVE-2021-28874](https://github.com/Live-Hack-CVE/CVE-2021-28874)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28874">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28874">
 
 ---
+## CVE-2021-28814 (2021-06-11T07:15:00)
+> An improper access control vulnerability has been reported to affect QNAP NAS. If exploited, this vulnerability allows remote attackers to compromise the security of the software. This issue affects: QNAP Systems Inc. Helpdesk versions prior to 3.0.4.
+- [Live-Hack-CVE/CVE-2021-28814](https://github.com/Live-Hack-CVE/CVE-2021-28814)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28814">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28814">
+
+---
+## CVE-2021-28812 (2021-06-03T03:15:00)
+> A command injection vulnerability has been reported to affect certain versions of Video Station. If exploited, this vulnerability allows remote attackers to execute arbitrary commands. This issue affects: QNAP Systems Inc. Video Station versions prior to 5.5.4 on QTS 4.5.2; versions prior to 5.5.4 on QuTS hero h4.5.2; versions prior to 5.5.4 on QuTScloud c4.5.4. This issue does not affect: QNAP Systems Inc. Video Station on QTS 4.3.6; on QTS 4.3.3.
+- [Live-Hack-CVE/CVE-2021-28812](https://github.com/Live-Hack-CVE/CVE-2021-28812)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28812">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28812">
+
+---
+## CVE-2021-28805 (2021-06-11T07:15:00)
+> Inclusion of sensitive information in the source code has been reported to affect certain QNAP switches running QSS. If exploited, this vulnerability allows attackers to read application data. This issue affects: QNAP Systems Inc. QSS versions prior to 1.0.3 build 20210505 on QSW-M2108-2C; versions prior to 1.0.3 build 20210505 on QSW-M2108-2S; versions prior to 1.0.3 build 20210505 on QSW-M2108R-2C; versions prior to 1.0.12 build 20210506 on QSW-M408.
+- [Live-Hack-CVE/CVE-2021-28805](https://github.com/Live-Hack-CVE/CVE-2021-28805)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28805">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28805">
+
+---
+## CVE-2021-28798 (2021-05-21T03:15:00)
+> A relative path traversal vulnerability has been reported to affect QNAP NAS running QTS and QuTS hero. If exploited, this vulnerability allows attackers to modify files that impact system integrity. QNAP have already fixed this vulnerability in the following versions: QTS 4.5.2.1630 Build 20210406 and later QTS 4.3.6.1663 Build 20210504 and later QTS 4.3.3.1624 Build 20210416 and later QuTS hero h4.5.2.1638 Build 20210414 and later QNAP NAS running QTS 4.5.3 are not affected.
+- [Live-Hack-CVE/CVE-2021-28798](https://github.com/Live-Hack-CVE/CVE-2021-28798)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28798">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28798">
+
+---
 ## CVE-2021-28710 (2021-11-21T15:15:00)
 > certain VT-d IOMMUs may not work in shared page table mode For efficiency reasons, address translation control structures (page tables) may (and, on suitable hardware, by default will) be shared between CPUs, for second-level translation (EPT), and IOMMUs. These page tables are presently set up to always be 4 levels deep. However, an IOMMU may require the use of just 3 page table levels. In such a configuration the lop level table needs to be stripped before inserting the root table's address into the hardware pagetable base register. When sharing page tables, Xen erroneously skipped this stripping. Consequently, the guest is able to write to leaf page table entries.
 - [Live-Hack-CVE/CVE-2021-28710](https://github.com/Live-Hack-CVE/CVE-2021-28710)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28710">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28710">
@@ -4304,9 +4354,19 @@
 - [Live-Hack-CVE/CVE-2021-28655](https://github.com/Live-Hack-CVE/CVE-2021-28655)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28655">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28655">
 
 ---
+## CVE-2021-28597 (2021-06-28T15:15:00)
+> Adobe Photoshop Elements version 5.2 (and earlier) is affected by an insecure temporary file creation vulnerability. An unauthenticated attacker could leverage this vulnerability to call functions against the installer to perform high privileged actions. Exploitation of this issue does not require user interaction.
+- [Live-Hack-CVE/CVE-2021-28597](https://github.com/Live-Hack-CVE/CVE-2021-28597)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28597">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28597">
+
+---
 ## CVE-2021-28579 (2021-06-28T15:15:00)
 > Adobe Connect version 11.2.1 (and earlier) is affected by an Improper access control vulnerability that can lead to the elevation of privileges. An attacker with 'Learner' permissions can leverage this scenario to access the list of event participants.
 - [Live-Hack-CVE/CVE-2021-28579](https://github.com/Live-Hack-CVE/CVE-2021-28579)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28579">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28579">
+
+---
+## CVE-2021-28566 (2021-09-08T17:15:00)
+> Magento versions 2.4.2 (and earlier), 2.4.1-p1 (and earlier) and 2.3.6-p1 (and earlier) are vulnerable to an Information Disclosure vulnerability when uploading a modified png file to a product image. Successful exploitation could lead to the disclosure of document root path by an unauthenticated attacker. Access to the admin console is required for successful exploitation.
+- [Live-Hack-CVE/CVE-2021-28566](https://github.com/Live-Hack-CVE/CVE-2021-28566)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28566">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28566">
 
 ---
 ## CVE-2021-28500 (2022-01-14T20:15:00)

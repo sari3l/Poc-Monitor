@@ -6605,6 +6605,11 @@
 - [Live-Hack-CVE/CVE-2022-4155](https://github.com/Live-Hack-CVE/CVE-2022-4155)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4155">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4155">
 
 ---
+## CVE-2022-41544 (2022-10-18T15:15:00)
+> GetSimple CMS v3.3.16 was discovered to contain a remote code execution (RCE) vulnerability via the edited_file parameter in admin/theme-edit.php.
+- [Live-Hack-CVE/CVE-2022-41544](https://github.com/Live-Hack-CVE/CVE-2022-41544)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41544">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41544">
+
+---
 ## CVE-2022-4154 (2022-12-26T13:15:00)
 > The Contest Gallery Pro WordPress plugin before 19.1.5 does not escape the wp_user_id GET parameter before concatenating it to an SQL query in management-show-user.php. This may allow malicious users with at administrator privileges (i.e. on multisite WordPress configurations) to leak sensitive information from the site's database.
 - [Live-Hack-CVE/CVE-2022-4154](https://github.com/Live-Hack-CVE/CVE-2022-4154)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4154">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4154">
@@ -6613,6 +6618,11 @@
 ## CVE-2022-41539 (2022-10-14T05:15:00)
 > Wedding Planner v1.0 was discovered to contain an arbitrary file upload vulnerability in the component /admin/users_add.php. This vulnerability allows attackers to execute arbitrary code via a crafted PHP file.
 - [Live-Hack-CVE/CVE-2022-41539](https://github.com/Live-Hack-CVE/CVE-2022-41539)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41539">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41539">
+
+---
+## CVE-2022-41537 (2022-10-18T15:15:00)
+> Online Tours & Travels Management System v1.0 was discovered to contain an arbitrary file upload vulnerability via the component /user_operations/profile.php. This vulnerability allows attackers to execute arbitrary code via a crafted PHP file.
+- [Live-Hack-CVE/CVE-2022-41537](https://github.com/Live-Hack-CVE/CVE-2022-41537)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41537">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41537">
 
 ---
 ## CVE-2022-41534 (2022-10-13T21:15:00)
@@ -6643,6 +6653,11 @@
 ## CVE-2022-4151 (2022-12-26T13:15:00)
 > The Contest Gallery WordPress plugin before 19.1.5.1, Contest Gallery Pro WordPress plugin before 19.1.5.1 do not escape the option_id GET parameter before concatenating it to an SQL query in export-images-data.php. This may allow malicious users with at least author privilege to leak sensitive information from the site's database.
 - [Live-Hack-CVE/CVE-2022-4151](https://github.com/Live-Hack-CVE/CVE-2022-4151)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4151">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4151">
+
+---
+## CVE-2022-41504 (2022-10-18T14:15:00)
+> An arbitrary file upload vulnerability in the component /php_action/editProductImage.php of Billing System Project v1.0 allows attackers to execute arbitrary code via a crafted PHP file.
+- [Live-Hack-CVE/CVE-2022-41504](https://github.com/Live-Hack-CVE/CVE-2022-41504)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41504">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41504">
 
 ---
 ## CVE-2022-4150 (2022-12-26T13:15:00)
@@ -7565,6 +7580,11 @@
 ## CVE-2022-40890 (2022-09-29T13:15:00)
 > A vulnerability in /src/amf/amf-context.c in Open5GS 2.4.10 and earlier leads to AMF denial of service.
 - [Live-Hack-CVE/CVE-2022-40890](https://github.com/Live-Hack-CVE/CVE-2022-40890)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40890">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40890">
+
+---
+## CVE-2022-40889 (2022-10-18T11:15:00)
+> Phpok 6.1 has a deserialization vulnerability via framework/phpok_call.php.
+- [Live-Hack-CVE/CVE-2022-40889](https://github.com/Live-Hack-CVE/CVE-2022-40889)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40889">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40889">
 
 ---
 ## CVE-2022-40885 (2022-10-19T18:15:00)
@@ -13789,6 +13809,11 @@
 - [Live-Hack-CVE/CVE-2022-35860](https://github.com/Live-Hack-CVE/CVE-2022-35860)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35860">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35860">
 
 ---
+## CVE-2022-3585 (2022-10-18T11:15:00)
+> A vulnerability classified as problematic has been found in SourceCodester Simple Cold Storage Management System 1.0. Affected is an unknown function of the file /csms/?page=contact_us of the component Contact Us. The manipulation leads to cross-site request forgery. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. VDB-211194 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-3585](https://github.com/Live-Hack-CVE/CVE-2022-3585)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3585">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3585">
+
+---
 ## CVE-2022-35843 (2022-12-06T17:15:00)
 > An authentication bypass by assumed-immutable data vulnerability [CWE-302] in the FortiOS SSH login component 7.2.0, 7.0.0 through 7.0.7, 6.4.0 through 6.4.9, 6.2 all versions, 6.0 all versions and FortiProxy SSH login component 7.0.0 through 7.0.5, 2.0.0 through 2.0.10, 1.2.0 all versions may allow a remote and unauthenticated attacker to login into the device via sending specially crafted Access-Challenge response from the Radius server.
 - [Live-Hack-CVE/CVE-2022-35843](https://github.com/Live-Hack-CVE/CVE-2022-35843)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35843">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35843">
@@ -13802,6 +13827,11 @@
 ## CVE-2022-35840 (2022-09-13T19:15:00)
 > Microsoft OLE DB Provider for SQL Server Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-34731, CVE-2022-34733, CVE-2022-35834, CVE-2022-35835, CVE-2022-35836.
 - [Live-Hack-CVE/CVE-2022-35840](https://github.com/Live-Hack-CVE/CVE-2022-35840)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35840">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35840">
+
+---
+## CVE-2022-3584 (2022-10-18T11:15:00)
+> A vulnerability was found in SourceCodester Canteen Management System 1.0. It has been rated as critical. This issue affects some unknown processing of the file edituser.php. The manipulation of the argument id leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-211193 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-3584](https://github.com/Live-Hack-CVE/CVE-2022-3584)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3584">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3584">
 
 ---
 ## CVE-2022-35838 (2022-09-13T19:15:00)
@@ -13824,9 +13854,19 @@
 - [Live-Hack-CVE/CVE-2022-35833](https://github.com/Live-Hack-CVE/CVE-2022-35833)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35833">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35833">
 
 ---
+## CVE-2022-3583 (2022-10-18T11:15:00)
+> A vulnerability was found in SourceCodester Canteen Management System 1.0. It has been declared as critical. This vulnerability affects unknown code of the file login.php. The manipulation of the argument business leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-211192.
+- [Live-Hack-CVE/CVE-2022-3583](https://github.com/Live-Hack-CVE/CVE-2022-3583)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3583">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3583">
+
+---
 ## CVE-2022-35821 (2022-08-09T20:15:00)
 > Azure Sphere Information Disclosure Vulnerability.
 - [Live-Hack-CVE/CVE-2022-35821](https://github.com/Live-Hack-CVE/CVE-2022-35821)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35821">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35821">
+
+---
+## CVE-2022-3582 (2022-10-18T11:15:00)
+> A vulnerability has been found in SourceCodester Simple Cold Storage Management System 1.0 and classified as problematic. Affected by this vulnerability is an unknown functionality. The manipulation of the argument change password leads to cross-site request forgery. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-211189 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-3582](https://github.com/Live-Hack-CVE/CVE-2022-3582)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3582">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3582">
 
 ---
 ## CVE-2022-35812 (2022-08-09T20:15:00)
@@ -13834,9 +13874,24 @@
 - [Live-Hack-CVE/CVE-2022-35812](https://github.com/Live-Hack-CVE/CVE-2022-35812)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35812">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35812">
 
 ---
+## CVE-2022-3581 (2022-10-18T11:15:00)
+> A vulnerability, which was classified as problematic, was found in SourceCodester Cashier Queuing System 1.0. Affected is an unknown function of the component Cashiers Tab. The manipulation of the argument Name leads to cross site scripting. It is possible to launch the attack remotely. The identifier of this vulnerability is VDB-211188.
+- [Live-Hack-CVE/CVE-2022-3581](https://github.com/Live-Hack-CVE/CVE-2022-3581)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3581">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3581">
+
+---
 ## CVE-2022-35805 (2022-09-13T19:15:00)
 > Microsoft Dynamics CRM (on-premises) Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-34700.
 - [Live-Hack-CVE/CVE-2022-35805](https://github.com/Live-Hack-CVE/CVE-2022-35805)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35805">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35805">
+
+---
+## CVE-2022-3580 (2022-10-18T11:15:00)
+> A vulnerability, which was classified as problematic, has been found in SourceCodester Cashier Queuing System 1.0.1. This issue affects some unknown processing of the component User Creation Handler. The manipulation leads to cross site scripting. The attack may be initiated remotely. The associated identifier of this vulnerability is VDB-211187.
+- [Live-Hack-CVE/CVE-2022-3580](https://github.com/Live-Hack-CVE/CVE-2022-3580)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3580">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3580">
+
+---
+## CVE-2022-3579 (2022-10-18T11:15:00)
+> A vulnerability classified as critical was found in SourceCodester Cashier Queuing System 1.0. This vulnerability affects unknown code of the file /queuing/login.php of the component Login Page. The manipulation of the argument username/password leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB-211186 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-3579](https://github.com/Live-Hack-CVE/CVE-2022-3579)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3579">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3579">
 
 ---
 ## CVE-2022-3578 (2022-11-14T15:15:00)
@@ -14044,6 +14099,11 @@
 - [Live-Hack-CVE/CVE-2022-3548](https://github.com/Live-Hack-CVE/CVE-2022-3548)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3548">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3548">
 
 ---
+## CVE-2022-3547 (2022-10-17T12:15:00)
+> A vulnerability was found in SourceCodester Simple Cold Storage Management System 1.0. It has been classified as problematic. This affects an unknown part of the file /csms/admin/?page=system_info of the component Setting Handler. The manipulation of the argument System Name/System Short Name leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-211047.
+- [Live-Hack-CVE/CVE-2022-3547](https://github.com/Live-Hack-CVE/CVE-2022-3547)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3547">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3547">
+
+---
 ## CVE-2022-35464 (2022-08-16T21:15:00)
 > OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x6171b2.
 - [Live-Hack-CVE/CVE-2022-35464](https://github.com/Live-Hack-CVE/CVE-2022-35464)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35464">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35464">
@@ -14072,6 +14132,7 @@
 ## CVE-2022-3546 (2022-10-17T12:15:00)
 > A vulnerability was found in SourceCodester Simple Cold Storage Management System 1.0 and classified as problematic. Affected by this issue is some unknown functionality of the file /csms/admin/?page=user/list of the component Create User Handler. The manipulation of the argument First Name/Last Name leads to cross site scripting. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. VDB-211046 is the identifier assigned to this vulnerability.
 - [thehackingverse/CVE-2022-3546](https://github.com/thehackingverse/CVE-2022-3546)	<img alt="forks" src="https://img.shields.io/github/forks/thehackingverse/CVE-2022-3546">	<img alt="stars" src="https://img.shields.io/github/stars/thehackingverse/CVE-2022-3546">
+- [Live-Hack-CVE/CVE-2022-3546](https://github.com/Live-Hack-CVE/CVE-2022-3546)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3546">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3546">
 
 ---
 ## CVE-2022-35459 (2022-08-16T21:15:00)
@@ -15855,6 +15916,11 @@
 ## CVE-2022-33174 (2022-06-13T18:15:00)
 > Power Distribution Units running on Powertek firmware (multiple brands) before 3.30.30 allows remote authorization bypass in the web interface. To exploit the vulnerability, an attacker must send an HTTP packet to the data retrieval interface (/cgi/get_param.cgi) with the tmpToken cookie set to an empty string followed by a semicolon. This bypasses an active session authorization check. This can be then used to fetch the values of protected sys.passwd and sys.su.name fields that contain the username and password in cleartext.
 - [Henry4E36/CVE-2022-33174](https://github.com/Henry4E36/CVE-2022-33174)	<img alt="forks" src="https://img.shields.io/github/forks/Henry4E36/CVE-2022-33174">	<img alt="stars" src="https://img.shields.io/github/stars/Henry4E36/CVE-2022-33174">
+
+---
+## CVE-2022-33171 (2022-07-04T16:15:00)
+> ** DISPUTED ** The findOne function in TypeORM before 0.3.0 can either be supplied with a string or a FindOneOptions object. When input to the function is a user-controlled parsed JSON object, supplying a crafted FindOneOptions instead of an id string leads to SQL injection. NOTE: the vendor's position is that the user's application is responsible for input validation.
+- [Live-Hack-CVE/CVE-2022-33171](https://github.com/Live-Hack-CVE/CVE-2022-33171)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33171">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33171">
 
 ---
 ## CVE-2022-3317 (2022-11-01T20:15:00)
@@ -18843,6 +18909,11 @@
 ## CVE-2022-29181 (2022-05-20T19:15:00)
 > Nokogiri is an open source XML and HTML library for Ruby. Nokogiri prior to version 1.13.6 does not type-check all inputs into the XML and HTML4 SAX parsers, allowing specially crafted untrusted inputs to cause illegal memory access errors (segfault) or reads from unrelated memory. Version 1.13.6 contains a patch for this issue. As a workaround, ensure the untrusted input is a `String` by calling `#to_s` or equivalent.
 - [Live-Hack-CVE/CVE-2022-29181](https://github.com/Live-Hack-CVE/CVE-2022-29181)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29181">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29181">
+
+---
+## CVE-2022-29156 (2022-04-13T07:15:00)
+> drivers/infiniband/ulp/rtrs/rtrs-clt.c in the Linux kernel before 5.16.12 has a double free related to rtrs_clt_dev_release.
+- [Live-Hack-CVE/CVE-2022-29156](https://github.com/Live-Hack-CVE/CVE-2022-29156)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29156">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29156">
 
 ---
 ## CVE-2022-29155 (2022-05-04T20:15:00)
