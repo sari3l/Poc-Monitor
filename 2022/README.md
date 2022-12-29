@@ -8729,6 +8729,11 @@
 - [Live-Hack-CVE/CVE-2022-4034](https://github.com/Live-Hack-CVE/CVE-2022-4034)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4034">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4034">
 
 ---
+## CVE-2022-40337 (2022-09-16T16:15:00)
+> OASES (aka Open Aviation Strategic Engineering System) 8.8.0.2 allows attackers to execute arbitrary code via the Open Print Folder menu.
+- [Live-Hack-CVE/CVE-2022-40337](https://github.com/Live-Hack-CVE/CVE-2022-40337)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40337">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40337">
+
+---
 ## CVE-2022-4033 (2022-11-29T21:15:00)
 > The Quiz and Survey Master plugin for WordPress is vulnerable to input validation bypass via the 'question[id]' parameter in versions up to, and including, 8.0.4 due to insufficient input validation that allows attackers to inject content other than the specified value (i.e. a number, file path, etc..). This makes it possible attackers to submit values other than the intended input type.
 - [Live-Hack-CVE/CVE-2022-4033](https://github.com/Live-Hack-CVE/CVE-2022-4033)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4033">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4033">
@@ -9020,6 +9025,21 @@
 ## CVE-2022-4016 (2022-12-12T18:15:00)
 > The Booster for WooCommerce WordPress plugin before 5.6.7, Booster Plus for WooCommerce WordPress plugin before 5.6.6, Booster Elite for WooCommerce WordPress plugin before 1.1.8 does not properly check for CSRF when creating and deleting Customer roles, allowing attackers to make logged admins create and delete arbitrary custom roles via CSRF attacks
 - [Live-Hack-CVE/CVE-2022-4016](https://github.com/Live-Hack-CVE/CVE-2022-4016)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4016">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4016">
+
+---
+## CVE-2022-40153 (2022-09-16T10:15:00)
+> Those using Xstream to seralize XML data may be vulnerable to Denial of Service attacks (DOS). If the parser is running on user supplied input, an attacker may supply content that causes the parser to crash by stackoverflow. This effect may support a denial of service attack.
+- [Live-Hack-CVE/CVE-2022-40153](https://github.com/Live-Hack-CVE/CVE-2022-40153)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40153">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40153">
+
+---
+## CVE-2022-40151 (2022-09-16T10:15:00)
+> Those using Xstream to seralize XML data may be vulnerable to Denial of Service attacks (DOS). If the parser is running on user supplied input, an attacker may supply content that causes the parser to crash by stackoverflow. This effect may support a denial of service attack.
+- [Live-Hack-CVE/CVE-2022-40151](https://github.com/Live-Hack-CVE/CVE-2022-40151)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40151">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40151">
+
+---
+## CVE-2022-40150 (2022-09-16T10:15:00)
+> Those using Jettison to parse untrusted XML or JSON data may be vulnerable to Denial of Service attacks (DOS). If the parser is running on user supplied input, an attacker may supply content that causes the parser to crash by Out of memory. This effect may support a denial of service attack.
+- [Live-Hack-CVE/CVE-2022-40150](https://github.com/Live-Hack-CVE/CVE-2022-40150)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40150">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40150">
 
 ---
 ## CVE-2022-40147 (2022-10-11T11:15:00)
@@ -10851,6 +10871,11 @@
 - [Live-Hack-CVE/CVE-2022-38873](https://github.com/Live-Hack-CVE/CVE-2022-38873)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38873">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38873">
 
 ---
+## CVE-2022-38861 (2022-09-15T15:15:00)
+> The MPlayer Project mplayer SVN-r38374-13.0.1 is vulnerable to memory corruption via function free_mp_image() of libmpcodecs/mp_image.c.
+- [Live-Hack-CVE/CVE-2022-38861](https://github.com/Live-Hack-CVE/CVE-2022-38861)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38861">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38861">
+
+---
 ## CVE-2022-3886 (2022-11-09T04:15:00)
 > Use after free in Speech Recognition in Google Chrome prior to 107.0.5304.106 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [Live-Hack-CVE/CVE-2022-3886](https://github.com/Live-Hack-CVE/CVE-2022-3886)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3886">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3886">
@@ -11334,6 +11359,21 @@
 - [Live-Hack-CVE/CVE-2022-38429](https://github.com/Live-Hack-CVE/CVE-2022-38429)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38429">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38429">
 
 ---
+## CVE-2022-38428 (2022-09-16T18:15:00)
+> Adobe Photoshop versions 22.5.8 (and earlier) and 23.4.2 (and earlier) are affected by a Use After Free vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2022-38428](https://github.com/Live-Hack-CVE/CVE-2022-38428)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38428">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38428">
+
+---
+## CVE-2022-38427 (2022-09-16T18:15:00)
+> Adobe Photoshop versions 22.5.8 (and earlier) and 23.4.2 (and earlier) are affected by an Access of Uninitialized Pointer vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2022-38427](https://github.com/Live-Hack-CVE/CVE-2022-38427)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38427">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38427">
+
+---
+## CVE-2022-38426 (2022-09-16T18:15:00)
+> Adobe Photoshop versions 22.5.8 (and earlier) and 23.4.2 (and earlier) are affected by an Access of Uninitialized Pointer vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2022-38426](https://github.com/Live-Hack-CVE/CVE-2022-38426)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38426">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38426">
+
+---
 ## CVE-2022-38421 (2022-10-14T20:15:00)
 > Adobe ColdFusion versions Update 14 (and earlier) and Update 4 (and earlier) are affected by an Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue does not require user interaction, but does require administrator privileges.
 - [Live-Hack-CVE/CVE-2022-38421](https://github.com/Live-Hack-CVE/CVE-2022-38421)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38421">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38421">
@@ -11352,6 +11392,51 @@
 ## CVE-2022-38418 (2022-10-14T20:15:00)
 > Adobe ColdFusion versions Update 14 (and earlier) and Update 4 (and earlier) are affected by an Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue does not require user interaction.
 - [Live-Hack-CVE/CVE-2022-38418](https://github.com/Live-Hack-CVE/CVE-2022-38418)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38418">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38418">
+
+---
+## CVE-2022-38411 (2022-09-16T17:15:00)
+> Adobe Animate version 21.0.11 (and earlier) and 22.0.7 (and earlier) are affected by a Heap-based Buffer Overflow vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2022-38411](https://github.com/Live-Hack-CVE/CVE-2022-38411)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38411">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38411">
+
+---
+## CVE-2022-38410 (2022-09-16T17:15:00)
+> Adobe Illustrator versions 26.4 (and earlier) and 25.4.7 (and earlier) are affected by an out-of-bounds read vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2022-38410](https://github.com/Live-Hack-CVE/CVE-2022-38410)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38410">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38410">
+
+---
+## CVE-2022-38409 (2022-09-16T17:15:00)
+> Adobe Illustrator versions 26.4 (and earlier) and 25.4.7 (and earlier) are affected by an out-of-bounds read vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2022-38409](https://github.com/Live-Hack-CVE/CVE-2022-38409)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38409">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38409">
+
+---
+## CVE-2022-38408 (2022-09-16T17:15:00)
+> Adobe Illustrator versions 26.4 (and earlier) and 25.4.7 (and earlier) are affected by an Improper Input Validation vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file. requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2022-38408](https://github.com/Live-Hack-CVE/CVE-2022-38408)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38408">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38408">
+
+---
+## CVE-2022-38407 (2022-09-16T18:15:00)
+> Adobe InCopy version 17.3 (and earlier) and 16.4.2 (and earlier) are affected by an out-of-bounds read vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2022-38407](https://github.com/Live-Hack-CVE/CVE-2022-38407)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38407">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38407">
+
+---
+## CVE-2022-38406 (2022-09-16T18:15:00)
+> Adobe InCopy version 17.3 (and earlier) and 16.4.2 (and earlier) are affected by an out-of-bounds read vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2022-38406](https://github.com/Live-Hack-CVE/CVE-2022-38406)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38406">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38406">
+
+---
+## CVE-2022-38405 (2022-09-16T18:15:00)
+> Adobe InCopy version 17.3 (and earlier) and 16.4.2 (and earlier) are affected by a Heap-based Buffer Overflow vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2022-38405](https://github.com/Live-Hack-CVE/CVE-2022-38405)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38405">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38405">
+
+---
+## CVE-2022-38404 (2022-09-16T18:15:00)
+> Adobe InCopy version 17.3 (and earlier) and 16.4.2 (and earlier) are affected by a Heap-based Buffer Overflow vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2022-38404](https://github.com/Live-Hack-CVE/CVE-2022-38404)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38404">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38404">
+
+---
+## CVE-2022-38403 (2022-09-16T18:15:00)
+> Adobe InCopy version 17.3 (and earlier) and 16.4.2 (and earlier) are affected by a Heap-based Buffer Overflow vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2022-38403](https://github.com/Live-Hack-CVE/CVE-2022-38403)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38403">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38403">
 
 ---
 ## CVE-2022-3840 (2022-12-26T13:15:00)
@@ -12594,6 +12679,11 @@
 ## CVE-2022-37781 (2022-08-16T21:15:00)
 > fdkaac v1.0.3 was discovered to contain a heap buffer overflow via __interceptor_memcpy.part.46 at /sanitizer_common/sanitizer_common_interceptors.inc.
 - [Live-Hack-CVE/CVE-2022-37781](https://github.com/Live-Hack-CVE/CVE-2022-37781)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37781">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37781">
+
+---
+## CVE-2022-37775 (2022-09-16T17:15:00)
+> Genesys PureConnect Interaction Web Tools Chat Service (up to at least 26- September- 2019) allows XSS within the Printable Chat History via the participant -> name JSON POST parameter.
+- [Live-Hack-CVE/CVE-2022-37775](https://github.com/Live-Hack-CVE/CVE-2022-37775)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37775">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37775">
 
 ---
 ## CVE-2022-37772 (2022-11-23T02:15:00)
@@ -14058,6 +14148,11 @@
 - [Live-Hack-CVE/CVE-2022-36423](https://github.com/Live-Hack-CVE/CVE-2022-36423)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36423">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36423">
 
 ---
+## CVE-2022-36402 (2022-09-16T17:15:00)
+> An integer overflow vulnerability was found in vmwgfx driver in drivers/gpu/vmxgfx/vmxgfx_execbuf.c in GPU component of Linux kernel with device file '/dev/dri/renderD128 (or Dxxx)'. This flaw allows a local attacker with a user account on the system to gain privilege, causing a denial of service(DoS).
+- [Live-Hack-CVE/CVE-2022-36402](https://github.com/Live-Hack-CVE/CVE-2022-36402)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36402">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36402">
+
+---
 ## CVE-2022-36400 (2022-11-11T16:15:00)
 > Path traversal in the installer software for some Intel(r) NUC Kit Wireless Adapter drivers for Windows 10 before version 22.40 may allow an authenticated user to potentially enable escalation of privilege via local access.
 - [Live-Hack-CVE/CVE-2022-36400](https://github.com/Live-Hack-CVE/CVE-2022-36400)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36400">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36400">
@@ -14759,6 +14854,11 @@
 - [Live-Hack-CVE/CVE-2022-35957](https://github.com/Live-Hack-CVE/CVE-2022-35957)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35957">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35957">
 
 ---
+## CVE-2022-35952 (2022-09-16T20:15:00)
+> TensorFlow is an open source platform for machine learning. The `UnbatchGradOp` function takes an argument `id` that is assumed to be a scalar. A nonscalar `id` can trigger a `CHECK` failure and crash the program. It also requires its argument `batch_index` to contain three times the number of elements as indicated in its `batch_index.dim_size(0)`. An incorrect `batch_index` can trigger a `CHECK` failure and crash the program. We have patched the issue in GitHub commit 5f945fc6409a3c1e90d6970c9292f805f6e6ddf2. The fix will be included in TensorFlow 2.10.0. We will also cherrypick this commit on TensorFlow 2.9.1, TensorFlow 2.8.1, and TensorFlow 2.7.2, as these are also affected and still in supported range. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-35952](https://github.com/Live-Hack-CVE/CVE-2022-35952)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35952">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35952">
+
+---
 ## CVE-2022-35951 (2022-09-23T04:15:00)
 > Redis is an in-memory database that persists on disk. Versions 7.0.0 and above, prior to 7.0.5 are vulnerable to an Integer Overflow. Executing an `XAUTOCLAIM` command on a stream key in a specific state, with a specially crafted `COUNT` argument may cause an integer overflow, a subsequent heap overflow, and potentially lead to remote code execution. This has been patched in Redis version 7.0.5. No known workarounds exist.
 - [Live-Hack-CVE/CVE-2022-35951](https://github.com/Live-Hack-CVE/CVE-2022-35951)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35951">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35951">
@@ -14767,6 +14867,16 @@
 ## CVE-2022-35948 (2022-08-15T11:21:00)
 > undici is an HTTP/1.1 client, written from scratch for Node.js.`=< undici@5.8.0` users are vulnerable to _CRLF Injection_ on headers when using unsanitized input as request headers, more specifically, inside the `content-type` header. Example: ``` import { request } from 'undici' const unsanitizedContentTypeInput = 'application/json\r\n\r\nGET /foo2 HTTP/1.1' await request('http://localhost:3000, { method: 'GET', headers: { 'content-type': unsanitizedContentTypeInput }, }) ``` The above snippet will perform two requests in a single `request` API call: 1) `http://localhost:3000/` 2) `http://localhost:3000/foo2` This issue was patched in Undici v5.8.1. Sanitize input when sending content-type headers using user input as a workaround.
 - [Live-Hack-CVE/CVE-2022-35948](https://github.com/Live-Hack-CVE/CVE-2022-35948)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35948">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35948">
+
+---
+## CVE-2022-35941 (2022-09-16T20:15:00)
+> TensorFlow is an open source platform for machine learning. The `AvgPoolOp` function takes an argument `ksize` that must be positive but is not checked. A negative `ksize` can trigger a `CHECK` failure and crash the program. We have patched the issue in GitHub commit 3a6ac52664c6c095aa2b114e742b0aa17fdce78f. The fix will be included in TensorFlow 2.10.0. We will also cherrypick this commit on TensorFlow 2.9.1, TensorFlow 2.8.1, and TensorFlow 2.7.2, as these are also affected and still in supported range. There are no known workarounds to this issue.
+- [Live-Hack-CVE/CVE-2022-35941](https://github.com/Live-Hack-CVE/CVE-2022-35941)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35941">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35941">
+
+---
+## CVE-2022-35940 (2022-09-16T20:15:00)
+> TensorFlow is an open source platform for machine learning. The `RaggedRangOp` function takes an argument `limits` that is eventually used to construct a `TensorShape` as an `int64`. If `limits` is a very large float, it can overflow when converted to an `int64`. This triggers an `InvalidArgument` but also throws an abort signal that crashes the program. We have patched the issue in GitHub commit 37cefa91bee4eace55715eeef43720b958a01192. The fix will be included in TensorFlow 2.10.0. We will also cherrypick this commit on TensorFlow 2.9.1, TensorFlow 2.8.1, and TensorFlow 2.7.2, as these are also affected and still in supported range. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-35940](https://github.com/Live-Hack-CVE/CVE-2022-35940)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35940">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35940">
 
 ---
 ## CVE-2022-3594 (2022-10-18T20:15:00)
@@ -18109,6 +18219,11 @@
 - [Live-Hack-CVE/CVE-2022-32234](https://github.com/Live-Hack-CVE/CVE-2022-32234)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32234">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32234">
 
 ---
+## CVE-2022-3223 (2022-09-16T11:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository jgraph/drawio prior to 20.3.1.
+- [Live-Hack-CVE/CVE-2022-3223](https://github.com/Live-Hack-CVE/CVE-2022-3223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3223">
+
+---
 ## CVE-2022-32226 (2022-09-23T19:15:00)
 > An improper access control vulnerability exists in Rocket.Chat <v5, <v4.8.2 and <v4.7.5 due to input data in the getUsersOfRoom Meteor server method is not type validated, so that MongoDB query operator objects are accepted by the server, so that instead of a matching rid String a$regex query can be executed, bypassing the room access permission check for every but the first matching room.
 - [Live-Hack-CVE/CVE-2022-32226](https://github.com/Live-Hack-CVE/CVE-2022-32226)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32226">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32226">
@@ -20698,6 +20813,11 @@
 ## CVE-2022-2852 (2022-09-26T16:15:00)
 > Use after free in FedCM in Google Chrome prior to 104.0.5112.101 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
 - [Live-Hack-CVE/CVE-2022-2852](https://github.com/Live-Hack-CVE/CVE-2022-2852)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2852">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2852">
+
+---
+## CVE-2022-28506 (2022-04-25T13:15:00)
+> There is a heap-buffer-overflow in GIFLIB 5.2.1 function DumpScreen2RGB() in gif2rgb.c:298:45.
+- [Live-Hack-CVE/CVE-2022-28506](https://github.com/Live-Hack-CVE/CVE-2022-28506)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28506">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28506">
 
 ---
 ## CVE-2022-2850 (2022-10-14T18:15:00)

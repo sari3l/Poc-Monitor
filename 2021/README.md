@@ -1036,6 +1036,11 @@
 - [Live-Hack-CVE/CVE-2021-4264](https://github.com/Live-Hack-CVE/CVE-2021-4264)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4264">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4264">
 
 ---
+## CVE-2021-42597 (2022-09-16T17:15:00)
+> A Cross Site Scripting (XSS) vulnerability exists in Sourcecodester Storage Unit Rental Management System PHP 8.0.10 , Apache 2.4.14, SURMS V 1.0 via the Add New Tenant List Rent List form.
+- [Live-Hack-CVE/CVE-2021-42597](https://github.com/Live-Hack-CVE/CVE-2021-42597)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42597">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42597">
+
+---
 ## CVE-2021-4257 (2022-12-18T22:15:00)
 > A vulnerability was found in ctrlo lenio. It has been declared as problematic. This vulnerability affects unknown code of the file views/task.tt of the component Task Handler. The manipulation of the argument site.org.name/check.name/task.tasktype.name/task.name leads to cross site scripting. The attack can be initiated remotely. The name of the patch is 698c5fa465169d6f23c6a41ca4b1fc9a7869013a. It is recommended to apply a patch to fix this issue. VDB-216214 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2021-4257](https://github.com/Live-Hack-CVE/CVE-2021-4257)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4257">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4257">
@@ -1496,6 +1501,11 @@
 ## CVE-2021-41771 (2021-11-08T06:15:00)
 > ImportedSymbols in debug/macho (for Open or OpenFat) in Go before 1.16.10 and 1.17.x before 1.17.3 Accesses a Memory Location After the End of a Buffer, aka an out-of-bounds slice situation.
 - [Live-Hack-CVE/CVE-2021-41771](https://github.com/Live-Hack-CVE/CVE-2021-41771)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41771">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41771">
+
+---
+## CVE-2021-41731 (2022-09-16T17:15:00)
+> Cross Site Scripting (XSS vulnerability exists in )Sourcecodester News247 News Magazine (CMS) PHP 5.6 or higher and MySQL 5.7 or higher via the blog category name field
+- [Live-Hack-CVE/CVE-2021-41731](https://github.com/Live-Hack-CVE/CVE-2021-41731)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41731">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41731">
 
 ---
 ## CVE-2021-41657 (2022-03-10T17:44:00)
@@ -2119,6 +2129,11 @@
 ## CVE-2021-40023 (2022-09-16T18:15:00)
 > Configuration defects in the secure OS module. Successful exploitation of this vulnerability will affect confidentiality.
 - [Live-Hack-CVE/CVE-2021-40023](https://github.com/Live-Hack-CVE/CVE-2021-40023)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40023">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40023">
+
+---
+## CVE-2021-40019 (2022-09-16T18:15:00)
+> Out-of-bounds heap read vulnerability in the HW_KEYMASTER module. Successful exploitation of this vulnerability may cause out-of-bounds access.
+- [Live-Hack-CVE/CVE-2021-40019](https://github.com/Live-Hack-CVE/CVE-2021-40019)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40019">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40019">
 
 ---
 ## CVE-2021-40017 (2022-09-16T18:15:00)

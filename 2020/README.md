@@ -234,6 +234,11 @@
 - [Live-Hack-CVE/CVE-2020-8195](https://github.com/Live-Hack-CVE/CVE-2020-8195)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8195">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8195">
 
 ---
+## CVE-2020-8193 (2020-07-10T16:15:00)
+> Improper access control in Citrix ADC and Citrix Gateway versions before 13.0-58.30, 12.1-57.18, 12.0-63.21, 11.1-64.14 and 10.5-70.18 and Citrix SDWAN WAN-OP versions before 11.1.1a, 11.0.3d and 10.2.7 allows unauthenticated access to certain URL endpoints.
+- [Live-Hack-CVE/CVE-2020-8193](https://github.com/Live-Hack-CVE/CVE-2020-8193)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8193">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8193">
+
+---
 ## CVE-2020-8163 (2020-07-02T19:15:00)
 > The is a code injection vulnerability in versions of Rails prior to 5.0.1 that wouldallow an attacker who controlled the `locals` argument of a `render` call to perform a RCE.
 - [lucasallan/CVE-2020-8163](https://github.com/lucasallan/CVE-2020-8163)	<img alt="forks" src="https://img.shields.io/github/forks/lucasallan/CVE-2020-8163">	<img alt="stars" src="https://img.shields.io/github/stars/lucasallan/CVE-2020-8163">
@@ -885,6 +890,16 @@
 > There is an out-of-bounds read and write vulnerability in some headset products. An unauthenticated attacker gets the device physically and crafts malformed message with specific parameter and sends the message to the affected products. Due to insufficient validation of message, which may be exploited to cause out-of-bounds read and write.
 - [Live-Hack-CVE/CVE-2020-36602](https://github.com/Live-Hack-CVE/CVE-2020-36602)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36602">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36602">
 - [Live-Hack-CVE/CVE-2020-36602](https://github.com/Live-Hack-CVE/CVE-2020-36602)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36602">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36602">
+
+---
+## CVE-2020-36601 (2022-09-16T18:15:00)
+> Out-of-bounds write vulnerability in the kernel modules. Successful exploitation of this vulnerability may cause a panic reboot.
+- [Live-Hack-CVE/CVE-2020-36601](https://github.com/Live-Hack-CVE/CVE-2020-36601)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36601">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36601">
+
+---
+## CVE-2020-36600 (2022-09-16T18:15:00)
+> Out-of-bounds write vulnerability in the power consumption module. Successful exploitation of this vulnerability may cause the system to restart.
+- [Live-Hack-CVE/CVE-2020-36600](https://github.com/Live-Hack-CVE/CVE-2020-36600)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36600">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36600">
 
 ---
 ## CVE-2020-36521 (2022-09-23T19:15:00)
