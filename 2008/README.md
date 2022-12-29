@@ -11,6 +11,11 @@
 - [Live-Hack-CVE/CVE-2008-4609](https://github.com/Live-Hack-CVE/CVE-2008-4609)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2008-4609">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2008-4609">
 
 ---
+## CVE-2008-2364 (2008-06-13T18:41:00)
+> The ap_proxy_http_process_response function in mod_proxy_http.c in the mod_proxy module in the Apache HTTP Server 2.0.63 and 2.2.8 does not limit the number of forwarded interim responses, which allows remote HTTP servers to cause a denial of service (memory consumption) via a large number of interim responses.
+- [Live-Hack-CVE/CVE-2008-2364](https://github.com/Live-Hack-CVE/CVE-2008-2364)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2008-2364">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2008-2364">
+
+---
 ## CVE-2008-1105 (2008-05-29T16:32:00)
 > Heap-based buffer overflow in the receive_smb_raw function in util/sock.c in Samba 3.0.0 through 3.0.29 allows remote attackers to execute arbitrary code via a crafted SMB response.
 - [Live-Hack-CVE/CVE-2008-1105](https://github.com/Live-Hack-CVE/CVE-2008-1105)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2008-1105">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2008-1105">

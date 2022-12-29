@@ -1528,6 +1528,11 @@
 - [Live-Hack-CVE/CVE-2021-4159](https://github.com/Live-Hack-CVE/CVE-2021-4159)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4159">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4159">
 
 ---
+## CVE-2021-4158 (2022-08-24T16:15:00)
+> A NULL pointer dereference issue was found in the ACPI code of QEMU. A malicious, privileged user within the guest could use this flaw to crash the QEMU process on the host, resulting in a denial of service condition.
+- [Live-Hack-CVE/CVE-2021-4158](https://github.com/Live-Hack-CVE/CVE-2021-4158)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4158">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4158">
+
+---
 ## CVE-2021-4155 (2022-08-24T16:15:00)
 > A data leak flaw was found in the way XFS_IOC_ALLOCSP IOCTL in the XFS filesystem allowed for size increase of files with unaligned size. A local attacker could use this flaw to leak data on the XFS filesystem otherwise not accessible to them.
 - [Live-Hack-CVE/CVE-2021-4155](https://github.com/Live-Hack-CVE/CVE-2021-4155)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4155">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4155">

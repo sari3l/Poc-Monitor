@@ -92,6 +92,11 @@ Any Unreal3.2.8.1.tar.gz downloaded BEFORE November 10 2009 should be safe, but 
 - [Live-Hack-CVE/CVE-2010-1281](https://github.com/Live-Hack-CVE/CVE-2010-1281)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-1281">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-1281">
 
 ---
+## CVE-2010-0434 (2010-03-05T19:30:00)
+> The ap_read_request function in server/protocol.c in the Apache HTTP Server 2.2.x before 2.2.15, when a multithreaded MPM is used, does not properly handle headers in subrequests in certain circumstances involving a parent request that has a body, which might allow remote attackers to obtain sensitive information via a crafted request that triggers access to memory locations associated with an earlier request.
+- [Live-Hack-CVE/CVE-2010-0434](https://github.com/Live-Hack-CVE/CVE-2010-0434)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-0434">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-0434">
+
+---
 ## CVE-2010-0215 (2011-01-07T23:00:00)
 > ActiveCollab before 2.3.2 allows remote authenticated users to bypass intended access restrictions, and (1) delete an attachment or (2) subscribe to an object, via a crafted URL.
 - [Live-Hack-CVE/CVE-2010-0215](https://github.com/Live-Hack-CVE/CVE-2010-0215)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-0215">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-0215">

@@ -6,6 +6,16 @@
 - [Live-Hack-CVE/CVE-2011-4566](https://github.com/Live-Hack-CVE/CVE-2011-4566)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-4566">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-4566">
 
 ---
+## CVE-2011-3348 (2011-09-20T05:55:00)
+> The mod_proxy_ajp module in the Apache HTTP Server before 2.2.21, when used with mod_proxy_balancer in certain configurations, allows remote attackers to cause a denial of service (temporary "error state" in the backend server) via a malformed HTTP request.
+- [Live-Hack-CVE/CVE-2011-3348](https://github.com/Live-Hack-CVE/CVE-2011-3348)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-3348">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-3348">
+
+---
+## CVE-2011-3192 (2011-08-29T15:55:00)
+> The byterange filter in the Apache HTTP Server 1.3.x, 2.0.x through 2.0.64, and 2.2.x through 2.2.19 allows remote attackers to cause a denial of service (memory and CPU consumption) via a Range header that expresses multiple overlapping ranges, as exploited in the wild in August 2011, a different vulnerability than CVE-2007-0086.
+- [Live-Hack-CVE/CVE-2011-3192](https://github.com/Live-Hack-CVE/CVE-2011-3192)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-3192">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-3192">
+
+---
 ## CVE-2011-2523 (2019-11-27T21:15:00)
 > vsftpd 2.3.4 downloaded between 20110630 and 20110703 contains a backdoor which opens a shell on port 6200/tcp.
 - [padsalatushal/CVE-2011-2523](https://github.com/padsalatushal/CVE-2011-2523)	<img alt="forks" src="https://img.shields.io/github/forks/padsalatushal/CVE-2011-2523">	<img alt="stars" src="https://img.shields.io/github/stars/padsalatushal/CVE-2011-2523">
@@ -23,6 +33,11 @@
 ## CVE-2011-2522 (2011-07-29T20:55:00)
 > Multiple cross-site request forgery (CSRF) vulnerabilities in the Samba Web Administration Tool (SWAT) in Samba 3.x before 3.5.10 allow remote attackers to hijack the authentication of administrators for requests that (1) shut down daemons, (2) start daemons, (3) add shares, (4) remove shares, (5) add printers, (6) remove printers, (7) add user accounts, or (8) remove user accounts, as demonstrated by certain start, stop, and restart parameters to the status program.
 - [Live-Hack-CVE/CVE-2011-2522](https://github.com/Live-Hack-CVE/CVE-2011-2522)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-2522">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-2522">
+
+---
+## CVE-2011-0419 (2011-05-16T17:55:00)
+> Stack consumption vulnerability in the fnmatch implementation in apr_fnmatch.c in the Apache Portable Runtime (APR) library before 1.4.3 and the Apache HTTP Server before 2.2.18, and in fnmatch.c in libc in NetBSD 5.1, OpenBSD 4.8, FreeBSD, Apple Mac OS X 10.6, Oracle Solaris 10, and Android, allows context-dependent attackers to cause a denial of service (CPU and memory consumption) via *? sequences in the first argument, as demonstrated by attacks against mod_autoindex in httpd.
+- [Live-Hack-CVE/CVE-2011-0419](https://github.com/Live-Hack-CVE/CVE-2011-0419)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-0419">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-0419">
 
 ---
 ## CVE-2011-0104 (2011-04-13T18:55:00)
