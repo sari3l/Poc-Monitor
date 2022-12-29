@@ -11457,6 +11457,7 @@
 > Windows Client Server Run-time Subsystem (CSRSS) Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-37989.
 - [Live-Hack-CVE/CVE-2022-37987](https://github.com/Live-Hack-CVE/CVE-2022-37987)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37987">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37987">
 - [Live-Hack-CVE/CVE-2022-37987](https://github.com/Live-Hack-CVE/CVE-2022-37987)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37987">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37987">
+- [Live-Hack-CVE/CVE-2022-37989](https://github.com/Live-Hack-CVE/CVE-2022-37989)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37989">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37989">
 
 ---
 ## CVE-2022-37982 (2022-10-11T19:15:00)
