@@ -25084,6 +25084,9 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-2271 (2022-09-05T13:15:00)
 > The WP Database Backup WordPress plugin before 5.9 does not escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks when the unfiltered_html capability is disallowed (for example in multisite setup)
 - [Live-Hack-CVE/CVE-2022-2271](https://github.com/Live-Hack-CVE/CVE-2022-2271)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2271">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2271">
+- [Live-Hack-CVE/CVE-2022-22711](https://github.com/Live-Hack-CVE/CVE-2022-22711)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22711">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22711">
+- [Live-Hack-CVE/CVE-2022-22719](https://github.com/Live-Hack-CVE/CVE-2022-22719)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22719">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22719">
+- [ahmetfurkans/CVE-2022-22718](https://github.com/ahmetfurkans/CVE-2022-22718)	<img alt="forks" src="https://img.shields.io/github/forks/ahmetfurkans/CVE-2022-22718">	<img alt="stars" src="https://img.shields.io/github/stars/ahmetfurkans/CVE-2022-22718">
 
 ---
 ## CVE-2022-2268 (2022-07-04T13:15:00)
