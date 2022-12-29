@@ -1039,6 +1039,11 @@
 - [Live-Hack-CVE/CVE-2020-35538](https://github.com/Live-Hack-CVE/CVE-2020-35538)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35538">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35538">
 
 ---
+## CVE-2020-35533 (2022-09-01T18:15:00)
+> In LibRaw, an out-of-bounds read vulnerability exists within the "LibRaw::adobe_copy_pixel()" function (libraw\src\decoders\dng.cpp) when reading data from the image file.
+- [Live-Hack-CVE/CVE-2020-35533](https://github.com/Live-Hack-CVE/CVE-2020-35533)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35533">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35533">
+
+---
 ## CVE-2020-35527 (2022-09-01T18:15:00)
 > In SQLite 3.31.1, there is an out of bounds access problem through ALTER TABLE for views that have a nested FROM clause.
 - [Live-Hack-CVE/CVE-2020-35527](https://github.com/Live-Hack-CVE/CVE-2020-35527)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35527">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35527">

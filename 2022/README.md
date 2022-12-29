@@ -9465,6 +9465,21 @@
 - [Live-Hack-CVE/CVE-2022-39847](https://github.com/Live-Hack-CVE/CVE-2022-39847)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39847">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39847">
 
 ---
+## CVE-2022-39846 (2022-09-09T15:15:00)
+> DLL hijacking vulnerability in Smart Switch PC prior to version 4.3.22083_3 allows attacker to execute arbitrary code.
+- [Live-Hack-CVE/CVE-2022-39846](https://github.com/Live-Hack-CVE/CVE-2022-39846)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39846">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39846">
+
+---
+## CVE-2022-39845 (2022-09-09T15:15:00)
+> Improper validation of integrity check vulnerability in Samsung Kies prior to version 2.6.4.22074 allows local attackers to delete arbitrary directory using directory junction.
+- [Live-Hack-CVE/CVE-2022-39845](https://github.com/Live-Hack-CVE/CVE-2022-39845)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39845">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39845">
+
+---
+## CVE-2022-39844 (2022-09-09T15:15:00)
+> Improper validation of integrity check vulnerability in Smart Switch PC prior to version 4.3.22083 allows local attackers to delete arbitrary directory using directory junction.
+- [Live-Hack-CVE/CVE-2022-39844](https://github.com/Live-Hack-CVE/CVE-2022-39844)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39844">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39844">
+
+---
 ## CVE-2022-39842 (2022-09-05T07:15:00)
 > ** DISPUTED ** An issue was discovered in the Linux kernel before 5.19. In pxa3xx_gcu_write in drivers/video/fbdev/pxa3xx-gcu.c, the count parameter has a type conflict of size_t versus int, causing an integer overflow and bypassing the size check. After that, because it is used as the third argument to copy_from_user(), a heap overflow may occur. NOTE: the original discoverer disputes that the overflow can actually happen.
 - [Live-Hack-CVE/CVE-2022-39842](https://github.com/Live-Hack-CVE/CVE-2022-39842)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39842">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39842">
@@ -11256,6 +11271,11 @@
 - [Live-Hack-CVE/CVE-2022-38335](https://github.com/Live-Hack-CVE/CVE-2022-38335)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38335">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38335">
 
 ---
+## CVE-2022-38333 (2022-09-19T17:15:00)
+> Openwrt before v21.02.3 and Openwrt v22.03.0-rc6 were discovered to contain two skip loops in the function header_value(). This vulnerability allows attackers to access sensitive information via a crafted HTTP request.
+- [Live-Hack-CVE/CVE-2022-38333](https://github.com/Live-Hack-CVE/CVE-2022-38333)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38333">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38333">
+
+---
 ## CVE-2022-38307 (2022-09-13T21:15:00)
 > LIEF commit 5d1d643 was discovered to contain a segmentation violation via the function LIEF::MachO::SegmentCommand::file_offset() at /MachO/SegmentCommand.cpp.
 - [Live-Hack-CVE/CVE-2022-38307](https://github.com/Live-Hack-CVE/CVE-2022-38307)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38307">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38307">
@@ -12196,6 +12216,41 @@
 > There are buffer overflow vulnerabilities in multiple underlying services that could lead to unauthenticated remote code execution by sending specially crafted packets destined to the PAPI (Aruba Networks AP management protocol) UDP port (8211). Successful exploitation of these vulnerabilities results in the ability to execute arbitrary code as a privileged user on the underlying operating system of Aruba InstantOS 6.4.x: 6.4.4.8-4.2.4.20 and below; Aruba InstantOS 6.5.x: 6.5.4.23 and below; Aruba InstantOS 8.6.x: 8.6.0.18 and below; Aruba InstantOS 8.7.x: 8.7.1.9 and below; Aruba InstantOS 8.10.x: 8.10.0.1 and below; ArubaOS 10.3.x: 10.3.1.0 and below; Aruba has released upgrades for Aruba InnstantOS that address these security vulnerabilities.
 - [Live-Hack-CVE/CVE-2022-37887](https://github.com/Live-Hack-CVE/CVE-2022-37887)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37887">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37887">
 - [Live-Hack-CVE/CVE-2022-37887](https://github.com/Live-Hack-CVE/CVE-2022-37887)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37887">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37887">
+
+---
+## CVE-2022-37883 (2022-09-20T20:15:00)
+> Vulnerabilities in the ClearPass Policy Manager web-based management interface allow remote authenticated users to run arbitrary commands on the underlying host. A successful exploit could allow an attacker to execute arbitrary commands as root on the underlying operating system leading to complete system compromise in Aruba ClearPass Policy Manager version(s): 6.10.x: 6.10.6 and below; 6.9.x: 6.9.11 and below. Aruba has released upgrades for Aruba ClearPass Policy Manager that address these security vulnerabilities.
+- [Live-Hack-CVE/CVE-2022-37883](https://github.com/Live-Hack-CVE/CVE-2022-37883)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37883">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37883">
+
+---
+## CVE-2022-37882 (2022-09-20T20:15:00)
+> Vulnerabilities in the ClearPass Policy Manager web-based management interface allow remote authenticated users to run arbitrary commands on the underlying host. A successful exploit could allow an attacker to execute arbitrary commands as root on the underlying operating system leading to complete system compromise in Aruba ClearPass Policy Manager version(s): 6.10.x: 6.10.6 and below; 6.9.x: 6.9.11 and below. Aruba has released upgrades for Aruba ClearPass Policy Manager that address these security vulnerabilities.
+- [Live-Hack-CVE/CVE-2022-37882](https://github.com/Live-Hack-CVE/CVE-2022-37882)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37882">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37882">
+
+---
+## CVE-2022-37881 (2022-09-20T20:15:00)
+> Vulnerabilities in the ClearPass Policy Manager web-based management interface allow remote authenticated users to run arbitrary commands on the underlying host. A successful exploit could allow an attacker to execute arbitrary commands as root on the underlying operating system leading to complete system compromise in Aruba ClearPass Policy Manager version(s): 6.10.x: 6.10.6 and below; 6.9.x: 6.9.11 and below. Aruba has released upgrades for Aruba ClearPass Policy Manager that address these security vulnerabilities.
+- [Live-Hack-CVE/CVE-2022-37881](https://github.com/Live-Hack-CVE/CVE-2022-37881)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37881">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37881">
+
+---
+## CVE-2022-37880 (2022-09-20T20:15:00)
+> Vulnerabilities in the ClearPass Policy Manager web-based management interface allow remote authenticated users to run arbitrary commands on the underlying host. A successful exploit could allow an attacker to execute arbitrary commands as root on the underlying operating system leading to complete system compromise in Aruba ClearPass Policy Manager version(s): 6.10.x: 6.10.6 and below; 6.9.x: 6.9.11 and below. Aruba has released upgrades for Aruba ClearPass Policy Manager that address these security vulnerabilities.
+- [Live-Hack-CVE/CVE-2022-37880](https://github.com/Live-Hack-CVE/CVE-2022-37880)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37880">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37880">
+
+---
+## CVE-2022-37879 (2022-09-20T20:15:00)
+> Vulnerabilities in the ClearPass Policy Manager web-based management interface allow remote authenticated users to run arbitrary commands on the underlying host. A successful exploit could allow an attacker to execute arbitrary commands as root on the underlying operating system leading to complete system compromise in Aruba ClearPass Policy Manager version(s): 6.10.x: 6.10.6 and below; 6.9.x: 6.9.11 and below. Aruba has released upgrades for Aruba ClearPass Policy Manager that address these security vulnerabilities.
+- [Live-Hack-CVE/CVE-2022-37879](https://github.com/Live-Hack-CVE/CVE-2022-37879)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37879">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37879">
+
+---
+## CVE-2022-37878 (2022-09-20T20:15:00)
+> Vulnerabilities in the ClearPass Policy Manager web-based management interface allow remote authenticated users to run arbitrary commands on the underlying host. A successful exploit could allow an attacker to execute arbitrary commands as root on the underlying operating system leading to complete system compromise in Aruba ClearPass Policy Manager version(s): 6.10.x: 6.10.6 and below; 6.9.x: 6.9.11 and below. Aruba has released upgrades for Aruba ClearPass Policy Manager that address these security vulnerabilities.
+- [Live-Hack-CVE/CVE-2022-37878](https://github.com/Live-Hack-CVE/CVE-2022-37878)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37878">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37878">
+
+---
+## CVE-2022-37877 (2022-09-20T20:15:00)
+> A vulnerability in the ClearPass OnGuard macOS agent could allow malicious users on a macOS instance to elevate their user privileges. A successful exploit could allow these users to execute arbitrary code with root level privileges on the macOS instance in Aruba ClearPass Policy Manager version(s): 6.10.x: 6.10.6 and below; 6.9.x: 6.9.11 and below. Aruba has released upgrades for Aruba ClearPass Policy Manager that address this security vulnerability.
+- [Live-Hack-CVE/CVE-2022-37877](https://github.com/Live-Hack-CVE/CVE-2022-37877)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37877">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37877">
 
 ---
 ## CVE-2022-37865 (2022-11-07T11:15:00)
@@ -13170,6 +13225,36 @@
 - [Live-Hack-CVE/CVE-2022-3688](https://github.com/Live-Hack-CVE/CVE-2022-3688)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3688">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3688">
 
 ---
+## CVE-2022-36878 (2022-09-09T15:15:00)
+> Exposure of Sensitive Information in Find My Mobile prior to version 7.2.25.14 allows local attacker to access IMEI via log.
+- [Live-Hack-CVE/CVE-2022-36878](https://github.com/Live-Hack-CVE/CVE-2022-36878)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36878">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36878">
+
+---
+## CVE-2022-36877 (2022-09-09T15:15:00)
+> Exposure of Sensitive Information in FaqSymptomCardViewModel in Samsung Members prior to versions 4.3.00.11 in Global and 14.0.02.4 in China allows local attackers to access device identification via log.
+- [Live-Hack-CVE/CVE-2022-36877](https://github.com/Live-Hack-CVE/CVE-2022-36877)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36877">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36877">
+
+---
+## CVE-2022-36876 (2022-09-09T15:15:00)
+> Improper authorization in UPI payment in Samsung Pass prior to version 4.0.04.10 allows physical attackers to access account list without authentication.
+- [Live-Hack-CVE/CVE-2022-36876](https://github.com/Live-Hack-CVE/CVE-2022-36876)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36876">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36876">
+
+---
+## CVE-2022-36875 (2022-09-09T15:15:00)
+> Improper restriction of broadcasting Intent in SaWebViewRelayActivity of?Waterplugin prior to version 2.2.11.22081151 allows attacker to access the file without permission.
+- [Live-Hack-CVE/CVE-2022-36875](https://github.com/Live-Hack-CVE/CVE-2022-36875)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36875">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36875">
+
+---
+## CVE-2022-36874 (2022-09-09T15:15:00)
+> Improper Handling of Insufficient Permissions or Privileges vulnerability in Waterplugin prior to 2.2.11.22040751 allows attacker to access device IMEI and Serial number.
+- [Live-Hack-CVE/CVE-2022-36874](https://github.com/Live-Hack-CVE/CVE-2022-36874)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36874">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36874">
+
+---
+## CVE-2022-36873 (2022-09-09T15:15:00)
+> Improper restriction of broadcasting Intent in GalaxyStoreBridgePageLinker of?Waterplugin prior to version 2.2.11.22081151 leaks MAC address of the connected Bluetooth device.
+- [Live-Hack-CVE/CVE-2022-36873](https://github.com/Live-Hack-CVE/CVE-2022-36873)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36873">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36873">
+
+---
 ## CVE-2022-36872 (2022-09-09T15:15:00)
 > Pending Intent hijacking vulnerability in SpayNotification in Samsung Pay prior to version 5.0.63 for KR and 5.1.47 for Global allows attackers to access files without permission via implicit Intent.
 - [Live-Hack-CVE/CVE-2022-36872](https://github.com/Live-Hack-CVE/CVE-2022-36872)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36872">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36872">
@@ -13198,6 +13283,31 @@
 ## CVE-2022-36867 (2022-09-09T15:15:00)
 > Improper access control vulnerability in Editor Lite prior to version 4.0.40.14 allows attackers to access sensitive information.
 - [Live-Hack-CVE/CVE-2022-36867](https://github.com/Live-Hack-CVE/CVE-2022-36867)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36867">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36867">
+
+---
+## CVE-2022-36866 (2022-09-09T15:15:00)
+> Improper access control vulnerability in Broadcaster in Group Sharing prior to versions 13.0.6.15 in Android S(12), 13.0.6.14 in Android R(11) and below allows attackers to identify the device.
+- [Live-Hack-CVE/CVE-2022-36866](https://github.com/Live-Hack-CVE/CVE-2022-36866)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36866">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36866">
+
+---
+## CVE-2022-36865 (2022-09-09T15:15:00)
+> Improper access control in Group Sharing prior to versions 13.0.6.15 in Android S(12), 13.0.6.14 in Android R(11) and below allows attackers to access device information.
+- [Live-Hack-CVE/CVE-2022-36865](https://github.com/Live-Hack-CVE/CVE-2022-36865)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36865">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36865">
+
+---
+## CVE-2022-36864 (2022-09-09T15:15:00)
+> Improper access control and intent redirection in Samsung Email prior to 6.1.70.20 allows attacker to access specific formatted file and execute privileged behavior.
+- [Live-Hack-CVE/CVE-2022-36864](https://github.com/Live-Hack-CVE/CVE-2022-36864)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36864">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36864">
+
+---
+## CVE-2022-36859 (2022-09-09T15:15:00)
+> Improper input validation vulnerability in SmartTagPlugin prior to version 1.2.21-6 allows privileged attackers to trigger a XSS on a victim&#39;s devices.
+- [Live-Hack-CVE/CVE-2022-36859](https://github.com/Live-Hack-CVE/CVE-2022-36859)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36859">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36859">
+
+---
+## CVE-2022-36851 (2022-09-09T15:15:00)
+> Improper access control vulnerability in Samsung pass prior to version 4.0.03.1 allow physical attackers to access data of Samsung pass on a certain state of an unlocked device.
+- [Live-Hack-CVE/CVE-2022-36851](https://github.com/Live-Hack-CVE/CVE-2022-36851)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36851">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36851">
 
 ---
 ## CVE-2022-36804 (2022-08-25T06:15:00)
@@ -17411,6 +17521,11 @@
 ## CVE-2022-32746 (2022-08-25T18:15:00)
 > A flaw was found in the Samba AD LDAP server. The AD DC database audit logging module can access LDAP message values freed by a preceding database module, resulting in a use-after-free issue. This issue is only possible when modifying certain privileged attributes, such as userAccountControl.
 - [Live-Hack-CVE/CVE-2022-32746](https://github.com/Live-Hack-CVE/CVE-2022-32746)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32746">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32746">
+
+---
+## CVE-2022-32743 (2022-09-01T21:15:00)
+> Samba does not validate the Validated-DNS-Host-Name right for the dNSHostName attribute which could permit unprivileged users to write it.
+- [Live-Hack-CVE/CVE-2022-32743](https://github.com/Live-Hack-CVE/CVE-2022-32743)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32743">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32743">
 
 ---
 ## CVE-2022-32742 (2022-08-25T18:15:00)
@@ -25924,6 +26039,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1616 (2022-05-07T19:15:00)
 > Use after free in append_command in GitHub repository vim/vim prior to 8.2.4895. This vulnerability is capable of crashing software, Bypass Protection Mechanism, Modify Memory, and possible remote execution
 - [Live-Hack-CVE/CVE-2022-1616](https://github.com/Live-Hack-CVE/CVE-2022-1616)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1616">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1616">
+
+---
+## CVE-2022-1615 (2022-09-01T21:15:00)
+> In Samba, GnuTLS gnutls_rnd() can fail and give predictable random values.
+- [Live-Hack-CVE/CVE-2022-1615](https://github.com/Live-Hack-CVE/CVE-2022-1615)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1615">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1615">
 
 ---
 ## CVE-2022-1609 ()
