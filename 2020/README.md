@@ -901,6 +901,11 @@
 - [Live-Hack-CVE/CVE-2020-36179](https://github.com/Live-Hack-CVE/CVE-2020-36179)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36179">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36179">
 
 ---
+## CVE-2020-36002 (2021-02-17T15:15:00)
+> Seat-Reservation-System 1.0 has a SQL injection vulnerability in index.php in the id parameter where attackers can obtain sensitive database information.
+- [Live-Hack-CVE/CVE-2020-36002](https://github.com/Live-Hack-CVE/CVE-2020-36002)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36002">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36002">
+
+---
 ## CVE-2020-35896 (2020-12-31T10:15:00)
 > An issue was discovered in the ws crate through 2020-09-25 for Rust. The outgoing buffer is not properly limited, leading to a remote memory-consumption attack.
 - [Live-Hack-CVE/CVE-2020-35896](https://github.com/Live-Hack-CVE/CVE-2020-35896)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35896">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35896">
@@ -3034,6 +3039,11 @@
 ## CVE-2020-13554 (2021-03-03T17:15:00)
 > An exploitable local privilege elevation vulnerability exists in the file system permissions of Advantech WebAccess/SCADA 9.0.1 installation. In webvrpcs Run Key Privilege Escalation in installation folder of WebAccess, an attacker can either replace binary or loaded modules to execute code with NT SYSTEM privilege.
 - [Live-Hack-CVE/CVE-2020-13554](https://github.com/Live-Hack-CVE/CVE-2020-13554)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13554">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13554">
+
+---
+## CVE-2020-13549 (2021-02-19T17:15:00)
+> An exploitable local privilege elevation vulnerability exists in the file system permissions of Sytech XL Reporter v14.0.1 install directory. Depending on the vector chosen, an attacker can overwrite service executables and execute arbitrary code with privileges of user set to run the service or replace other files within the installation folder, which would allow for local privilege escalation.
+- [Live-Hack-CVE/CVE-2020-13549](https://github.com/Live-Hack-CVE/CVE-2020-13549)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13549">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13549">
 
 ---
 ## CVE-2020-13529 (2021-05-10T16:15:00)
