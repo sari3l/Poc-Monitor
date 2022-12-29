@@ -170,3 +170,18 @@
 ## CVE-2014-0185 (2014-05-06T10:44:00)
 > sapi/fpm/fpm/fpm_unix.c in the FastCGI Process Manager (FPM) in PHP before 5.4.28 and 5.5.x before 5.5.12 uses 0666 permissions for the UNIX socket, which allows local users to gain privileges via a crafted FastCGI client.
 - [Live-Hack-CVE/CVE-2014-0185](https://github.com/Live-Hack-CVE/CVE-2014-0185)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-0185">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-0185">
+
+---
+## CVE-2014-0148 (2022-09-29T03:15:00)
+> Qemu before 2.0 block driver for Hyper-V VHDX Images is vulnerable to infinite loops and other potential issues when calculating BAT entries, due to missing bounds checks for block_size and logical_sector_size variables. These are used to derive other fields like 'sectors_per_block' etc. A user able to alter the Qemu disk image could ise this flaw to crash the Qemu instance resulting in DoS.
+- [Live-Hack-CVE/CVE-2014-0148](https://github.com/Live-Hack-CVE/CVE-2014-0148)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-0148">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-0148">
+
+---
+## CVE-2014-0147 (2022-09-29T03:15:00)
+> Qemu before 1.6.2 block diver for the various disk image formats used by Bochs and for the QCOW version 2 format, are vulnerable to a possible crash caused by signed data types or a logic error while creating QCOW2 snapshots, which leads to incorrectly calling update_refcount() routine.
+- [Live-Hack-CVE/CVE-2014-0147](https://github.com/Live-Hack-CVE/CVE-2014-0147)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-0147">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-0147">
+
+---
+## CVE-2014-0144 (2022-09-29T03:15:00)
+> QEMU before 2.0.0 block drivers for CLOOP, QCOW2 version 2 and various other image formats are vulnerable to potential memory corruptions, integer/buffer overflows or crash caused by missing input validations which could allow a remote user to execute arbitrary code on the host with the privileges of the QEMU process.
+- [Live-Hack-CVE/CVE-2014-0144](https://github.com/Live-Hack-CVE/CVE-2014-0144)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-0144">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-0144">

@@ -987,8 +987,14 @@
 - [Live-Hack-CVE/CVE-2020-35728](https://github.com/Live-Hack-CVE/CVE-2020-35728)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35728">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35728">
 
 ---
+## CVE-2020-35675 (2022-09-29T03:15:00)
+> BigProf Online Invoicing System before 3.0 offers a functionality that allows an administrator to move the records of members across groups. The applicable endpoint (admin/pageTransferOwnership.php) lacks CSRF protection, resulting in an attacker being able to escalate their privileges to Administrator and effectively taking over the application.
+- [Live-Hack-CVE/CVE-2020-35675](https://github.com/Live-Hack-CVE/CVE-2020-35675)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35675">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35675">
+
+---
 ## CVE-2020-35674 (2022-09-29T03:15:00)
 > BigProf Online Invoicing System before 2.9 suffers from an unauthenticated SQL Injection found in /membership_passwordReset.php (the endpoint that is responsible for issuing self-service password resets). An unauthenticated attacker is able to send a request containing a crafted payload that can result in sensitive information being extracted from the database, eventually leading into an application takeover. This vulnerability was introduced as a result of the developer trying to roll their own sanitization implementation in order to allow the application to be used in legacy environments.
+- [Live-Hack-CVE/CVE-2020-35674](https://github.com/Live-Hack-CVE/CVE-2020-35674)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35674">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35674">
 - [Live-Hack-CVE/CVE-2020-35674](https://github.com/Live-Hack-CVE/CVE-2020-35674)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35674">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35674">
 
 ---
@@ -1610,6 +1616,16 @@
 ## CVE-2020-27618 (2021-02-26T23:15:00)
 > The iconv function in the GNU C Library (aka glibc or libc6) 2.32 and earlier, when processing invalid multi-byte input sequences in IBM1364, IBM1371, IBM1388, IBM1390, and IBM1399 encodings, fails to advance the input state, which could lead to an infinite loop in applications, resulting in a denial of service, a different vulnerability from CVE-2016-10228.
 - [Live-Hack-CVE/CVE-2020-27618](https://github.com/Live-Hack-CVE/CVE-2020-27618)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27618">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27618">
+
+---
+## CVE-2020-27602 (2022-09-29T03:15:00)
+> BigBlueButton before 2.2.7 does not have a protection mechanism for separator injection in meetingId, userId, and authToken.
+- [Live-Hack-CVE/CVE-2020-27602](https://github.com/Live-Hack-CVE/CVE-2020-27602)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27602">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27602">
+
+---
+## CVE-2020-27601 (2022-09-29T03:15:00)
+> In BigBlueButton before 2.2.7, lockSettingsProps.disablePrivateChat does not apply to already opened chats. This occurs in bigbluebutton-html5/imports/ui/components/chat/service.js.
+- [Live-Hack-CVE/CVE-2020-27601](https://github.com/Live-Hack-CVE/CVE-2020-27601)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27601">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27601">
 
 ---
 ## CVE-2020-2757 (2020-04-15T14:15:00)

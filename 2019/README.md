@@ -1888,6 +1888,31 @@
 - [Live-Hack-CVE/CVE-2019-13120](https://github.com/Live-Hack-CVE/CVE-2019-13120)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13120">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13120">
 
 ---
+## CVE-2019-13049 (2019-06-29T15:15:00)
+> An integer wrap in kernel/sys/syscall.c in ToaruOS 1.10.10 allows users to map arbitrary kernel pages into userland process space via TOARU_SYS_FUNC_MMAP, leading to escalation of privileges.
+- [Live-Hack-CVE/CVE-2019-13049](https://github.com/Live-Hack-CVE/CVE-2019-13049)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13049">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13049">
+
+---
+## CVE-2019-13048 (2019-06-29T15:15:00)
+> kernel/sys/syscall.c in ToaruOS through 1.10.9 allows a denial of service upon a critical error in certain sys_sbrk allocation patterns (involving PAGE_SIZE, and a value less than PAGE_SIZE).
+- [Live-Hack-CVE/CVE-2019-13048](https://github.com/Live-Hack-CVE/CVE-2019-13048)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13048">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13048">
+
+---
+## CVE-2019-13047 (2019-06-29T15:15:00)
+> kernel/sys/syscall.c in ToaruOS through 1.10.9 has incorrect access control in sys_sysfunc case 9 for TOARU_SYS_FUNC_SETHEAP, allowing arbitrary kernel pages to be mapped into user land, leading to root access.
+- [Live-Hack-CVE/CVE-2019-13047](https://github.com/Live-Hack-CVE/CVE-2019-13047)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13047">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13047">
+
+---
+## CVE-2019-13046 (2019-06-29T15:15:00)
+> linker/linker.c in ToaruOS through 1.10.9 has insecure LD_LIBRARY_PATH handling in setuid applications.
+- [Live-Hack-CVE/CVE-2019-13046](https://github.com/Live-Hack-CVE/CVE-2019-13046)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13046">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13046">
+
+---
+## CVE-2019-12937 (2019-06-23T23:15:00)
+> apps/gsudo.c in gsudo in ToaruOS through 1.10.9 has a buffer overflow allowing local privilege escalation to the root user via the DISPLAY environment variable.
+- [Live-Hack-CVE/CVE-2019-12937](https://github.com/Live-Hack-CVE/CVE-2019-12937)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-12937">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-12937">
+
+---
 ## CVE-2019-12874 (2019-06-18T18:15:00)
 > An issue was discovered in zlib_decompress_extra in modules/demux/mkv/util.cpp in VideoLAN VLC media player 3.x through 3.0.7. The Matroska demuxer, while parsing a malformed MKV file type, has a double free.
 - [ahaShiyu/CVE-2019-12874](https://github.com/ahaShiyu/CVE-2019-12874)	<img alt="forks" src="https://img.shields.io/github/forks/ahaShiyu/CVE-2019-12874">	<img alt="stars" src="https://img.shields.io/github/stars/ahaShiyu/CVE-2019-12874">

@@ -181,14 +181,29 @@
 - [Live-Hack-CVE/CVE-2021-45844](https://github.com/Live-Hack-CVE/CVE-2021-45844)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45844">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45844">
 
 ---
+## CVE-2021-45843 (2022-09-29T03:15:00)
+> glFusion CMS v1.7.9 is affected by a reflected Cross Site Scripting (XSS) vulnerability. The value of the title request parameter is copied into the value of an HTML tag attribute which is encapsulated in double quotation marks. This input was echoed unmodified in the application's response.
+- [Live-Hack-CVE/CVE-2021-45843](https://github.com/Live-Hack-CVE/CVE-2021-45843)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45843">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45843">
+
+---
 ## CVE-2021-45809 (2022-03-22T11:15:00)
 > GlobalProtect-openconnect versions prior to 1.4.3 are affected by incorrect access control in GPService through DBUS, GUI Application. The way GlobalProtect-Openconnect is set up enables arbitrary users to execute commands as root by submitting the `--script=<script>` parameter.
 - [Live-Hack-CVE/CVE-2021-45809](https://github.com/Live-Hack-CVE/CVE-2021-45809)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45809">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45809">
 
 ---
+## CVE-2021-45790 (2022-09-29T03:15:00)
+> An arbitrary file upload vulnerability was found in Metersphere v1.15.4. Unauthenticated users can upload any file to arbitrary directory, where attackers can write a cron job to execute commands.
+- [Live-Hack-CVE/CVE-2021-45790](https://github.com/Live-Hack-CVE/CVE-2021-45790)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45790">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45790">
+
+---
 ## CVE-2021-45789 (2022-09-29T03:15:00)
 > An arbitrary file read vulnerability was found in Metersphere v1.15.4, where authenticated users can read any file on the server via the file download function.
 - [Live-Hack-CVE/CVE-2021-45789](https://github.com/Live-Hack-CVE/CVE-2021-45789)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45789">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45789">
+
+---
+## CVE-2021-45788 (2022-09-29T03:15:00)
+> Time-based SQL Injection vulnerabilities were found in Metersphere v1.15.4 via the "orders" parameter.
+- [Live-Hack-CVE/CVE-2021-45788](https://github.com/Live-Hack-CVE/CVE-2021-45788)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45788">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45788">
 
 ---
 ## CVE-2021-45710 (2021-12-27T00:15:00)
@@ -1190,14 +1205,29 @@
 - [Live-Hack-CVE/CVE-2021-42067](https://github.com/Live-Hack-CVE/CVE-2021-42067)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42067">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42067">
 
 ---
+## CVE-2021-42049 (2022-09-29T03:15:00)
+> An issue was discovered in the Translate extension in MediaWiki through 1.36.2. Oversighters cannot undo revisions or oversight on pages where they suppressed information (such as PII). This allows oversighters to whitewash revisions.
+- [Live-Hack-CVE/CVE-2021-42049](https://github.com/Live-Hack-CVE/CVE-2021-42049)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42049">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42049">
+
+---
 ## CVE-2021-42048 (2022-09-29T03:15:00)
 > An issue was discovered in the Growth extension in MediaWiki through 1.36.2. Any admin can add arbitrary JavaScript code to the Newcomer home page footer, which can be executed by viewers with zero edits.
 - [Live-Hack-CVE/CVE-2021-42048](https://github.com/Live-Hack-CVE/CVE-2021-42048)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42048">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42048">
 
 ---
+## CVE-2021-42047 (2022-09-29T03:15:00)
+> An issue was discovered in the Growth extension in MediaWiki through 1.36.2. On any Wiki with the Mentor Dashboard feature enabled, users can login with a mentor account and trigger an XSS payload (such as alert) via Growthexperiments-mentor-dashboard-mentee-overview-no-js-fallback.
+- [Live-Hack-CVE/CVE-2021-42047](https://github.com/Live-Hack-CVE/CVE-2021-42047)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42047">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42047">
+
+---
 ## CVE-2021-42046 (2022-09-29T03:15:00)
 > An issue was discovered in the GlobalWatchlist extension in MediaWiki through 1.36.2. The rev-deleted-user and ntimes messages were not properly escaped and allowed for users to inject HTML and JavaScript.
 - [Live-Hack-CVE/CVE-2021-42046](https://github.com/Live-Hack-CVE/CVE-2021-42046)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42046">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42046">
+
+---
+## CVE-2021-42045 (2022-09-29T03:15:00)
+> An issue was discovered in SecurePoll in the Growth extension in MediaWiki through 1.36.2. Simple polls allow users to create alerts by changing their User-Agent HTTP header and submitting a vote.
+- [Live-Hack-CVE/CVE-2021-42045](https://github.com/Live-Hack-CVE/CVE-2021-42045)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42045">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42045">
 
 ---
 ## CVE-2021-4204 (2022-08-24T16:15:00)
@@ -1500,6 +1530,11 @@
 - [efchatz/easy-exploits](https://github.com/efchatz/easy-exploits)	<img alt="forks" src="https://img.shields.io/github/forks/efchatz/easy-exploits">	<img alt="stars" src="https://img.shields.io/github/stars/efchatz/easy-exploits">
 
 ---
+## CVE-2021-41434 (2022-09-28T17:15:00)
+> A stored Cross-Site Scripting (XSS) vulnerability exists in version 1.0 of the Expense Management System application that allows for arbitrary execution of JavaScript commands through index.php.
+- [Live-Hack-CVE/CVE-2021-41434](https://github.com/Live-Hack-CVE/CVE-2021-41434)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41434">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41434">
+
+---
 ## CVE-2021-4140 (2022-12-22T20:15:00)
 > It was possible to construct specific XSLT markup that would be able to bypass an iframe sandbox. This vulnerability affects Firefox ESR < 91.5, Firefox < 96, and Thunderbird < 91.5.
 - [Live-Hack-CVE/CVE-2021-4140](https://github.com/Live-Hack-CVE/CVE-2021-4140)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4140">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4140">
@@ -1698,13 +1733,25 @@
 - [Live-Hack-CVE/CVE-2021-40695](https://github.com/Live-Hack-CVE/CVE-2021-40695)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40695">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40695">
 
 ---
+## CVE-2021-40694 (2022-09-29T03:15:00)
+> Insufficient escaping of the LaTeX preamble made it possible for site administrators to read files available to the HTTP server system account.
+- [Live-Hack-CVE/CVE-2021-40694](https://github.com/Live-Hack-CVE/CVE-2021-40694)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40694">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40694">
+
+---
 ## CVE-2021-40693 (2022-09-29T03:15:00)
 > An authentication bypass risk was identified in the external database authentication functionality, due to a type juggling vulnerability.
 - [Live-Hack-CVE/CVE-2021-40693](https://github.com/Live-Hack-CVE/CVE-2021-40693)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40693">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40693">
+- [Live-Hack-CVE/CVE-2021-40693](https://github.com/Live-Hack-CVE/CVE-2021-40693)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40693">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40693">
+
+---
+## CVE-2021-40692 (2022-09-29T03:15:00)
+> Insufficient capability checks made it possible for teachers to download users outside of their courses.
+- [Live-Hack-CVE/CVE-2021-40692](https://github.com/Live-Hack-CVE/CVE-2021-40692)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40692">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40692">
 
 ---
 ## CVE-2021-40691 (2022-09-29T03:15:00)
 > A session hijack risk was identified in the Shibboleth authentication plugin.
+- [Live-Hack-CVE/CVE-2021-40691](https://github.com/Live-Hack-CVE/CVE-2021-40691)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40691">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40691">
 - [Live-Hack-CVE/CVE-2021-40691](https://github.com/Live-Hack-CVE/CVE-2021-40691)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40691">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40691">
 
 ---

@@ -8660,6 +8660,11 @@
 - [Live-Hack-CVE/CVE-2022-40279](https://github.com/Live-Hack-CVE/CVE-2022-40279)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40279">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40279">
 
 ---
+## CVE-2022-40278 (2022-09-29T03:15:00)
+> An issue was discovered in Samsung TizenRT through 3.0_GBM (and 3.1_PRE). createDB in security/provisioning/src/provisioningdatabasemanager.c has a missing sqlite3_free after sqlite3_exec, leading to a denial of service.
+- [Live-Hack-CVE/CVE-2022-40278](https://github.com/Live-Hack-CVE/CVE-2022-40278)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40278">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40278">
+
+---
 ## CVE-2022-40276 (2022-11-03T20:15:00)
 > Zettlr version 2.3.0 allows an external attacker to remotely obtain arbitrary local files on any client that attempts to view a malicious markdown file through Zettlr. This is possible because the application does not have a CSP policy (or at least not strict enough) and/or does not properly validate the contents of markdown files before rendering them.
 - [Live-Hack-CVE/CVE-2022-40276](https://github.com/Live-Hack-CVE/CVE-2022-40276)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40276">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40276">
@@ -9033,6 +9038,16 @@
 ## CVE-2022-40084 (2022-10-20T14:15:00)
 > OpenCRX before v5.2.2 was discovered to be vulnerable to password enumeration due to the difference in error messages received during a password reset which could enable an attacker to determine if a username, email or ID is valid.
 - [Live-Hack-CVE/CVE-2022-40084](https://github.com/Live-Hack-CVE/CVE-2022-40084)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40084">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40084">
+
+---
+## CVE-2022-40083 (2022-09-28T14:15:00)
+> Labstack Echo v4.8.0 was discovered to contain an open redirect vulnerability via the Static Handler component. This vulnerability can be leveraged by attackers to cause a Server-Side Request Forgery (SSRF).
+- [Live-Hack-CVE/CVE-2022-40083](https://github.com/Live-Hack-CVE/CVE-2022-40083)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40083">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40083">
+
+---
+## CVE-2022-40082 (2022-09-28T14:15:00)
+> Hertz v0.3.0 ws discovered to contain a path traversal vulnerability via the normalizePath function.
+- [Live-Hack-CVE/CVE-2022-40082](https://github.com/Live-Hack-CVE/CVE-2022-40082)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40082">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40082">
 
 ---
 ## CVE-2022-40076 (2022-09-19T15:15:00)
@@ -9846,6 +9861,11 @@
 - [Live-Hack-CVE/CVE-2022-39259](https://github.com/Live-Hack-CVE/CVE-2022-39259)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39259">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39259">
 
 ---
+## CVE-2022-39258 (2022-09-27T15:15:00)
+> mailcow is a mailserver suite. A vulnerability innversions prior to 2022-09 allows an attacker to craft a custom Swagger API template to spoof Authorize links. This could redirect a victim to an attacker controller place to steal Swagger authorization credentials or create a phishing page to steal other information. The issue has been fixed with the 2022-09 mailcow Mootember Update. As a workaround, one may delete the Swapper API Documentation from their e-mail server.
+- [Live-Hack-CVE/CVE-2022-39258](https://github.com/Live-Hack-CVE/CVE-2022-39258)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39258">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39258">
+
+---
 ## CVE-2022-39256 (2022-09-27T15:15:00)
 > Orckestra C1 CMS is a .NET based Web Content Management System. A vulnerability in versions prior to 6.13 allows remote attackers to execute arbitrary code on affected installations of Orckestra C1 CMS. Authentication is required to exploit this vulnerability. The authenticated user may perform the actions unknowingly by visiting a specially crafted site. This issue is patched in C1 CMS v6.13. There are no known workarounds.
 - [Live-Hack-CVE/CVE-2022-39256](https://github.com/Live-Hack-CVE/CVE-2022-39256)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39256">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39256">
@@ -10407,6 +10427,11 @@
 ## CVE-2022-38936 (2022-09-23T11:15:00)
 > An issue has been found in PBC through 2022-8-27. A SEGV issue detected in the function pbc_wmessage_integer in src/wmessage.c:137.
 - [Live-Hack-CVE/CVE-2022-38936](https://github.com/Live-Hack-CVE/CVE-2022-38936)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38936">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38936">
+
+---
+## CVE-2022-38934 (2022-09-28T17:15:00)
+> readelf in ToaruOS 2.0.1 has some arbitrary address read vulnerabilities when parsing a crafted ELF file.
+- [Live-Hack-CVE/CVE-2022-38934](https://github.com/Live-Hack-CVE/CVE-2022-38934)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38934">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38934">
 
 ---
 ## CVE-2022-38932 (2022-09-27T23:15:00)
@@ -19373,6 +19398,11 @@
 - [Live-Hack-CVE/CVE-2022-29520](https://github.com/Live-Hack-CVE/CVE-2022-29520)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29520">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29520">
 
 ---
+## CVE-2022-29503 (2022-09-29T17:15:00)
+> A memory corruption vulnerability exists in the libpthread linuxthreads functionality of uClibC 0.9.33.2 and uClibC-ng 1.0.40. Thread allocation can lead to memory corruption. An attacker can create threads to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-29503](https://github.com/Live-Hack-CVE/CVE-2022-29503)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29503">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29503">
+
+---
 ## CVE-2022-2949 (2022-12-13T21:15:00)
 > Altair HyperView Player versions 2021.1.0.27 and prior are vulnerable to the use of uninitialized memory vulnerability during parsing of H3D files. A DWORD is extracted from an uninitialized buffer and, after sign extension, is used as an index into a stack variable to increment a counter leading to memory corruption.
 - [Live-Hack-CVE/CVE-2022-2949](https://github.com/Live-Hack-CVE/CVE-2022-2949)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2949">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2949">
@@ -25304,6 +25334,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1719 (2022-09-29T03:15:00)
 > Reflected XSS on ticket filter function in GitHub repository polonel/trudesk prior to 1.2.2. This vulnerability is capable of executing a malicious javascript code in web page
 - [Live-Hack-CVE/CVE-2022-1719](https://github.com/Live-Hack-CVE/CVE-2022-1719)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1719">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1719">
+
+---
+## CVE-2022-1718 (2022-09-29T03:15:00)
+> The trudesk application allows large characters to insert in the input field "Full Name" on the signup field which can allow attackers to cause a Denial of Service (DoS) via a crafted HTTP request in GitHub repository polonel/trudesk prior to 1.2.2. This can lead to Denial of service.
+- [Live-Hack-CVE/CVE-2022-1718](https://github.com/Live-Hack-CVE/CVE-2022-1718)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1718">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1718">
 
 ---
 ## CVE-2022-1705 (2022-08-10T20:15:00)
