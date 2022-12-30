@@ -9,6 +9,7 @@
 ## CVE-2003-0769 (2003-09-22T04:00:00)
 > Cross-site scripting (XSS) vulnerability in the ICQ Web Front guestbook (guestbook.html) allows remote attackers to insert arbitrary web script and HTML via the message field.
 - [Live-Hack-CVE/CVE-2003-0769](https://github.com/Live-Hack-CVE/CVE-2003-0769)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2003-0769">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2003-0769">
+- [Live-Hack-CVE/CVE-2003-0769](https://github.com/Live-Hack-CVE/CVE-2003-0769)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2003-0769">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2003-0769">
 
 ---
 ## CVE-2003-0742 (2003-10-06T04:00:00)

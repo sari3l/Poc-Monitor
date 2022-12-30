@@ -9,6 +9,7 @@
 ## CVE-2000-0182 (2000-02-23T05:00:00)
 > iPlanet Web Server 4.1 allows remote attackers to cause a denial of service via a large number of GET commands, which consumes memory and causes a kernel panic.
 - [Live-Hack-CVE/CVE-2000-0182](https://github.com/Live-Hack-CVE/CVE-2000-0182)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2000-0182">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2000-0182">
+- [Live-Hack-CVE/CVE-2000-0182](https://github.com/Live-Hack-CVE/CVE-2000-0182)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2000-0182">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2000-0182">
 
 ---
 ## CVE-2000-0145 (2000-02-05T05:00:00)
@@ -30,6 +31,7 @@
 ---
 ## CVE-2000-0137 (2000-02-01T05:00:00)
 > The CartIt shopping cart application allows remote users to modify sensitive purchase information via hidden form fields.
+- [Live-Hack-CVE/CVE-2000-0137](https://github.com/Live-Hack-CVE/CVE-2000-0137)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2000-0137">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2000-0137">
 - [Live-Hack-CVE/CVE-2000-0137](https://github.com/Live-Hack-CVE/CVE-2000-0137)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2000-0137">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2000-0137">
 
 ---
@@ -159,6 +161,7 @@
 ## CVE-2000-0066 (2000-01-13T05:00:00)
 > WebSite Pro allows remote attackers to determine the real pathname of webdirectories via a malformed URL request.
 - [Live-Hack-CVE/CVE-2000-0066](https://github.com/Live-Hack-CVE/CVE-2000-0066)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2000-0066">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2000-0066">
+- [Live-Hack-CVE/CVE-2000-0066](https://github.com/Live-Hack-CVE/CVE-2000-0066)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2000-0066">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2000-0066">
 
 ---
 ## CVE-2000-0065 (2000-01-17T05:00:00)
@@ -168,6 +171,7 @@
 ---
 ## CVE-2000-0047 (1999-10-01T04:00:00)
 > Buffer overflow in Yahoo Pager/Messenger client allows remote attackers to cause a denial of service via a long URL within a message.
+- [Live-Hack-CVE/CVE-2000-0047](https://github.com/Live-Hack-CVE/CVE-2000-0047)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2000-0047">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2000-0047">
 - [Live-Hack-CVE/CVE-2000-0047](https://github.com/Live-Hack-CVE/CVE-2000-0047)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2000-0047">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2000-0047">
 
 ---
@@ -179,6 +183,7 @@
 ## CVE-2000-0038 (1999-12-23T05:00:00)
 > glFtpD includes a default glftpd user account with a default password and a UID of 0.
 - [Live-Hack-CVE/CVE-2000-0038](https://github.com/Live-Hack-CVE/CVE-2000-0038)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2000-0038">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2000-0038">
+- [Live-Hack-CVE/CVE-2000-0038](https://github.com/Live-Hack-CVE/CVE-2000-0038)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2000-0038">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2000-0038">
 
 ---
 ## CVE-2000-0034 (1999-12-22T05:00:00)
@@ -188,6 +193,7 @@
 ---
 ## CVE-2000-0031 (2000-10-20T04:00:00)
 > The initscripts package in Red Hat Linux allows local users to gain privileges via a symlink attack.
+- [Live-Hack-CVE/CVE-2000-0031](https://github.com/Live-Hack-CVE/CVE-2000-0031)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2000-0031">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2000-0031">
 - [Live-Hack-CVE/CVE-2000-0031](https://github.com/Live-Hack-CVE/CVE-2000-0031)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2000-0031">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2000-0031">
 
 ---
