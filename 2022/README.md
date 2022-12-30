@@ -12237,6 +12237,11 @@
 - [Live-Hack-CVE/CVE-2022-38138](https://github.com/Live-Hack-CVE/CVE-2022-38138)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38138">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38138">
 
 ---
+## CVE-2022-38132 (2022-08-24T00:15:00)
+> Command injection vulnerability in Linksys MR8300 router while Registration to DDNS Service. By specifying username and password, an attacker connected to the router's web interface can execute arbitrary OS commands. The username and password fields are not sanitized correctly and are used as URL construction arguments, allowing URL redirection to an arbitrary server, downloading an arbitrary script file, and eventually executing the file in the device. This issue affects: Linksys MR8300 Router 1.0.
+- [Live-Hack-CVE/CVE-2022-38132](https://github.com/Live-Hack-CVE/CVE-2022-38132)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38132">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38132">
+
+---
 ## CVE-2022-38124 (2022-12-13T14:15:00)
 > Debug tool in Secomea SiteManager allows logged-in administrator to modify system state in an unintended manner.
 - [Live-Hack-CVE/CVE-2022-38124](https://github.com/Live-Hack-CVE/CVE-2022-38124)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38124">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38124">
@@ -13439,6 +13444,11 @@
 - [Live-Hack-CVE/CVE-2022-37328](https://github.com/Live-Hack-CVE/CVE-2022-37328)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37328">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37328">
 
 ---
+## CVE-2022-37318 (2022-08-25T23:15:00)
+> Archer Platform 6.9 SP2 P2 before 6.11 P3 (6.11.0.3) contain a reflected XSS vulnerability. A remote unauthenticated malicious Archer user could potentially exploit this vulnerability by tricking a victim application user into supplying malicious JavaScript code to the vulnerable web application. This code is then reflected to the victim and gets executed by the web browser in the context of the vulnerable web application. 6.10 P4 (6.10.0.4) and 6.11 P2 HF4 (6.11.0.2.4) are also fixed releases.
+- [Live-Hack-CVE/CVE-2022-37318](https://github.com/Live-Hack-CVE/CVE-2022-37318)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37318">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37318">
+
+---
 ## CVE-2022-37317 (2022-08-25T23:15:00)
 > Archer Platform 6.x before 6.11 P3 contain an HTML injection vulnerability. An authenticated remote attacker could potentially exploit this vulnerability by tricking a victim application user to execute malicious code in the context of the web application. 6.10 P4 (6.10.0.4) and 6.11 P2 HF4 (6.11.0.2.4) are also fixed releases.
 - [Live-Hack-CVE/CVE-2022-37317](https://github.com/Live-Hack-CVE/CVE-2022-37317)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37317">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37317">
@@ -13528,6 +13538,21 @@
 ## CVE-2022-37247 (2022-09-16T22:15:00)
 > Craft CMS 4.2.0.1 is vulnerable to stored a cross-site scripting (XSS) via /admin/settings/fields page.
 - [Live-Hack-CVE/CVE-2022-37247](https://github.com/Live-Hack-CVE/CVE-2022-37247)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37247">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37247">
+
+---
+## CVE-2022-37244 (2022-08-25T15:15:00)
+> MDaemon Technologies SecurityGateway for Email Servers 8.5.2 is vulnerable to IFRAME Injectionvia the currentRequest parameter. after login leads to inject malicious tag leads to IFRAME injection.
+- [Live-Hack-CVE/CVE-2022-37244](https://github.com/Live-Hack-CVE/CVE-2022-37244)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37244">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37244">
+
+---
+## CVE-2022-37242 (2022-08-25T15:15:00)
+> MDaemon Technologies SecurityGateway for Email Servers 8.5.2, is vulnerable to HTTP Response splitting via the data parameter.
+- [Live-Hack-CVE/CVE-2022-37242](https://github.com/Live-Hack-CVE/CVE-2022-37242)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37242">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37242">
+
+---
+## CVE-2022-37240 (2022-08-25T15:15:00)
+> MDaemon Technologies SecurityGateway for Email Servers 8.5.2 is vulnerable to HTTP Response splitting via the format parameter.
+- [Live-Hack-CVE/CVE-2022-37240](https://github.com/Live-Hack-CVE/CVE-2022-37240)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37240">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37240">
 
 ---
 ## CVE-2022-37234 (2022-09-22T20:15:00)
@@ -13850,6 +13875,16 @@
 ## CVE-2022-37077 (2022-08-25T15:15:00)
 > TOTOLINK A7000R V9.1.0u.6115_B20201022 was discovered to contain a stack overflow via the pppoeUser parameter.
 - [Live-Hack-CVE/CVE-2022-37077](https://github.com/Live-Hack-CVE/CVE-2022-37077)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37077">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37077">
+
+---
+## CVE-2022-37067 (2022-08-25T14:15:00)
+> H3C GR-1200W MiniGRW1A0V100R006 was discovered to contain a stack overflow via the function UpdateWanParamsMulti.
+- [Live-Hack-CVE/CVE-2022-37067](https://github.com/Live-Hack-CVE/CVE-2022-37067)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37067">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37067">
+
+---
+## CVE-2022-37066 (2022-08-25T14:15:00)
+> H3C GR-1200W MiniGRW1A0V100R006 was discovered to contain a stack overflow via the function UpdateDDNS.
+- [Live-Hack-CVE/CVE-2022-37066](https://github.com/Live-Hack-CVE/CVE-2022-37066)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37066">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37066">
 
 ---
 ## CVE-2022-37063 (2022-08-18T18:15:00)
@@ -14783,6 +14818,21 @@
 - [Live-Hack-CVE/CVE-2022-3655](https://github.com/Live-Hack-CVE/CVE-2022-3655)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3655">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3655">
 
 ---
+## CVE-2022-36548 (2022-08-26T21:15:00)
+> Edoc-doctor-appointment-system v1.0.1 was discovered to contain a stored cross-site scripting (XSS) vulnerability at /patient/settings.php. This vulnerability allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Name text field.
+- [Live-Hack-CVE/CVE-2022-36548](https://github.com/Live-Hack-CVE/CVE-2022-36548)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36548">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36548">
+
+---
+## CVE-2022-36547 (2022-08-26T21:15:00)
+> Edoc-doctor-appointment-system v1.0.1 was discovered to contain a reflected cross-site scripting (XSS) vulnerability at /patient/index.php. This vulnerability allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Search field.
+- [Live-Hack-CVE/CVE-2022-36547](https://github.com/Live-Hack-CVE/CVE-2022-36547)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36547">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36547">
+
+---
+## CVE-2022-36546 (2022-08-26T21:15:00)
+> Edoc-doctor-appointment-system v1.0.1 was discovered to contain a Cross-Site Request Forgery (CSRF) via /patient/settings.php.
+- [Live-Hack-CVE/CVE-2022-36546](https://github.com/Live-Hack-CVE/CVE-2022-36546)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36546">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36546">
+
+---
 ## CVE-2022-36545 (2022-08-26T21:15:00)
 > Edoc-doctor-appointment-system v1.0.1 was discovered to contain a SQL injection vulnerability via the id parameter at /patient/settings.php.
 - [Live-Hack-CVE/CVE-2022-36545](https://github.com/Live-Hack-CVE/CVE-2022-36545)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36545">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36545">
@@ -14861,9 +14911,54 @@
 - [Live-Hack-CVE/CVE-2022-36521](https://github.com/Live-Hack-CVE/CVE-2022-36521)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36521">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36521">
 
 ---
+## CVE-2022-36520 (2022-08-25T14:15:00)
+> H3C GR-1200W MiniGRW1A0V100R006 was discovered to contain a stack overflow via the function DEleteusergroup.
+- [Live-Hack-CVE/CVE-2022-36520](https://github.com/Live-Hack-CVE/CVE-2022-36520)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36520">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36520">
+
+---
 ## CVE-2022-3652 (2022-11-01T23:15:00)
 > Type confusion in V8 in Google Chrome prior to 107.0.5304.62 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [Live-Hack-CVE/CVE-2022-3652](https://github.com/Live-Hack-CVE/CVE-2022-3652)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3652">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3652">
+
+---
+## CVE-2022-36519 (2022-08-25T14:15:00)
+> H3C GR-1200W MiniGRW1A0V100R006 was discovered to contain a stack overflow via the function AddWlanMacList.
+- [Live-Hack-CVE/CVE-2022-36519](https://github.com/Live-Hack-CVE/CVE-2022-36519)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36519">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36519">
+
+---
+## CVE-2022-36518 (2022-08-25T14:15:00)
+> H3C GR-1200W MiniGRW1A0V100R006 was discovered to contain a stack overflow via the function EditWlanMacList.
+- [Live-Hack-CVE/CVE-2022-36518](https://github.com/Live-Hack-CVE/CVE-2022-36518)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36518">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36518">
+
+---
+## CVE-2022-36517 (2022-08-25T14:15:00)
+> H3C GR-1200W MiniGRW1A0V100R006 was discovered to contain a stack overflow via the function debug_wlan_advance.
+- [Live-Hack-CVE/CVE-2022-36517](https://github.com/Live-Hack-CVE/CVE-2022-36517)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36517">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36517">
+
+---
+## CVE-2022-36516 (2022-08-25T14:15:00)
+> H3C GR-1200W MiniGRW1A0V100R006 was discovered to contain a stack overflow via the function ap_version_check.
+- [Live-Hack-CVE/CVE-2022-36516](https://github.com/Live-Hack-CVE/CVE-2022-36516)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36516">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36516">
+
+---
+## CVE-2022-36515 (2022-08-25T14:15:00)
+> H3C GR-1200W MiniGRW1A0V100R006 was discovered to contain a stack overflow via the function addactionlist.
+- [Live-Hack-CVE/CVE-2022-36515](https://github.com/Live-Hack-CVE/CVE-2022-36515)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36515">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36515">
+
+---
+## CVE-2022-36514 (2022-08-25T14:15:00)
+> H3C GR-1200W MiniGRW1A0V100R006 was discovered to contain a stack overflow via the function WanModeSetMultiWan.
+- [Live-Hack-CVE/CVE-2022-36514](https://github.com/Live-Hack-CVE/CVE-2022-36514)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36514">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36514">
+
+---
+## CVE-2022-36513 (2022-08-25T14:15:00)
+> H3C GR-1200W MiniGRW1A0V100R006 was discovered to contain a stack overflow via the function edditactionlist.
+- [Live-Hack-CVE/CVE-2022-36513](https://github.com/Live-Hack-CVE/CVE-2022-36513)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36513">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36513">
+
+---
+## CVE-2022-36511 (2022-08-25T14:15:00)
+> H3C GR-1200W MiniGRW1A0V100R006 was discovered to contain a stack overflow via the function EditApAdvanceInfo.
+- [Live-Hack-CVE/CVE-2022-36511](https://github.com/Live-Hack-CVE/CVE-2022-36511)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36511">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36511">
 
 ---
 ## CVE-2022-36510 (2022-08-25T14:15:00)
@@ -18554,6 +18649,11 @@
 - [Henry4E36/CVE-2022-33174](https://github.com/Henry4E36/CVE-2022-33174)	<img alt="forks" src="https://img.shields.io/github/forks/Henry4E36/CVE-2022-33174">	<img alt="stars" src="https://img.shields.io/github/stars/Henry4E36/CVE-2022-33174">
 
 ---
+## CVE-2022-33172 (2022-08-24T12:15:00)
+> de.fac2 1.34 allows bypassing the User Presence protection mechanism when there is malware on the victim's PC.
+- [Live-Hack-CVE/CVE-2022-33172](https://github.com/Live-Hack-CVE/CVE-2022-33172)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33172">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33172">
+
+---
 ## CVE-2022-33171 (2022-07-04T16:15:00)
 > ** DISPUTED ** The findOne function in TypeORM before 0.3.0 can either be supplied with a string or a FindOneOptions object. When input to the function is a user-controlled parsed JSON object, supplying a crafted FindOneOptions instead of an id string leads to SQL injection. NOTE: the vendor's position is that the user's application is responsible for input validation.
 - [Live-Hack-CVE/CVE-2022-33171](https://github.com/Live-Hack-CVE/CVE-2022-33171)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33171">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33171">
@@ -18884,6 +18984,11 @@
 ## CVE-2022-32848 (2022-09-23T19:15:00)
 > A logic issue was addressed with improved checks. This issue is fixed in macOS Big Sur 11.6.8, macOS Monterey 12.5. An app may be able to capture a user’s screen.
 - [Live-Hack-CVE/CVE-2022-32848](https://github.com/Live-Hack-CVE/CVE-2022-32848)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32848">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32848">
+
+---
+## CVE-2022-32840 (2022-08-24T20:15:00)
+> This issue was addressed with improved checks. This issue is fixed in macOS Monterey 12.5, watchOS 8.7, iOS 15.6 and iPadOS 15.6. An app may be able to execute arbitrary code with kernel privileges.
+- [Live-Hack-CVE/CVE-2022-32840](https://github.com/Live-Hack-CVE/CVE-2022-32840)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32840">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32840">
 
 ---
 ## CVE-2022-32837 (2022-08-24T20:15:00)
@@ -21690,6 +21795,11 @@
 ## CVE-2022-29580 (2022-12-13T15:15:00)
 > There exists a path traversal vulnerability in the Android Google Search app. This is caused by the incorrect usage of uri.getLastPathSegment. A symbolic encoded string can bypass the path logic to get access to unintended directories. An attacker can manipulate paths that could lead to code execution on the device. We recommend upgrading beyond version 13.41
 - [Live-Hack-CVE/CVE-2022-29580](https://github.com/Live-Hack-CVE/CVE-2022-29580)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29580">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29580">
+
+---
+## CVE-2022-2957 (2022-08-25T06:15:00)
+> A vulnerability classified as critical was found in SourceCodester Simple and Nice Shopping Cart Script. Affected by this vulnerability is an unknown functionality of the file /mkshop/Men/profile.php. The manipulation of the argument mem_id leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-207001 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-2957](https://github.com/Live-Hack-CVE/CVE-2022-2957)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2957">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2957">
 
 ---
 ## CVE-2022-29554 ()
@@ -26613,6 +26723,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 > Multiple vulnerabilities in the Server Message Block Version 2 (SMB2) processor of the Snort detection engine on multiple Cisco products could allow an unauthenticated, remote attacker to bypass the configured policies or cause a denial of service (DoS) condition on an affected device. These vulnerabilities are due to improper management of system resources when the Snort detection engine is processing SMB2 traffic. An attacker could exploit these vulnerabilities by sending a high rate of certain types of SMB2 packets through an affected device. A successful exploit could allow the attacker to trigger a reload of the Snort process, resulting in a DoS condition. Note: When the snort preserve-connection option is enabled for the Snort detection engine, a successful exploit could also allow the attacker to bypass the configured policies and deliver a malicious payload to the protected network. The snort preserve-connection setting is enabled by default. See the Details ["#details"] section of this advisory for more information. Note: Only products that have Snort 3 configured are affected. Products that are configured with Snort 2 are not affected.
 - [Live-Hack-CVE/CVE-2022-20922](https://github.com/Live-Hack-CVE/CVE-2022-20922)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20922">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20922">
 - [Live-Hack-CVE/CVE-2022-20922](https://github.com/Live-Hack-CVE/CVE-2022-20922)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20922">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20922">
+
+---
+## CVE-2022-20921 (2022-08-25T19:15:00)
+> A vulnerability in the API implementation of Cisco ACI Multi-Site Orchestrator (MSO) could allow an authenticated, remote attacker to elevate privileges on an affected device. This vulnerability is due to improper authorization on specific APIs. An attacker could exploit this vulnerability by sending crafted HTTP requests. A successful exploit could allow an attacker who is authenticated with non-Administrator privileges to elevate to Administrator privileges on an affected device.
+- [Live-Hack-CVE/CVE-2022-20921](https://github.com/Live-Hack-CVE/CVE-2022-20921)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20921">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20921">
 
 ---
 ## CVE-2022-20918 (2022-11-15T21:15:00)

@@ -1616,6 +1616,11 @@
 - [Live-Hack-CVE/CVE-2021-41433](https://github.com/Live-Hack-CVE/CVE-2021-41433)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41433">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41433">
 
 ---
+## CVE-2021-4142 (2022-08-24T16:15:00)
+> The Candlepin component of Red Hat Satellite was affected by an improper authentication flaw. Few factors could allow an attacker to use the SCA (simple content access) certificate for authentication with Candlepin.
+- [Live-Hack-CVE/CVE-2021-4142](https://github.com/Live-Hack-CVE/CVE-2021-4142)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4142">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4142">
+
+---
 ## CVE-2021-4140 (2022-12-22T20:15:00)
 > It was possible to construct specific XSLT markup that would be able to bypass an iframe sandbox. This vulnerability affects Firefox ESR < 91.5, Firefox < 96, and Thunderbird < 91.5.
 - [Live-Hack-CVE/CVE-2021-4140](https://github.com/Live-Hack-CVE/CVE-2021-4140)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4140">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4140">
@@ -1685,9 +1690,19 @@
 - [Live-Hack-CVE/CVE-2021-41253](https://github.com/Live-Hack-CVE/CVE-2021-41253)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41253">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41253">
 
 ---
+## CVE-2021-4125 (2022-08-24T16:15:00)
+> It was found that the original fix for log4j CVE-2021-44228 and CVE-2021-45046 in the OpenShift metering hive containers was incomplete, as not all JndiLookup.class files were removed. This CVE only applies to the OpenShift Metering hive container images, shipped in OpenShift 4.8, 4.7 and 4.6.
+- [Live-Hack-CVE/CVE-2021-4125](https://github.com/Live-Hack-CVE/CVE-2021-4125)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4125">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4125">
+
+---
 ## CVE-2021-41228 (2021-11-05T23:15:00)
 > TensorFlow is an open source platform for machine learning. In affected versions TensorFlow's `saved_model_cli` tool is vulnerable to a code injection as it calls `eval` on user supplied strings. This can be used by attackers to run arbitrary code on the plaform where the CLI tool runs. However, given that the tool is always run manually, the impact of this is not severe. We have patched this by adding a `safe` flag which defaults to `True` and an explicit warning for users. The fix will be included in TensorFlow 2.7.0. We will also cherrypick this commit on TensorFlow 2.6.1, TensorFlow 2.5.2, and TensorFlow 2.4.4, as these are also affected and still in supported range.
 - [Live-Hack-CVE/CVE-2021-41228](https://github.com/Live-Hack-CVE/CVE-2021-41228)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41228">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41228">
+
+---
+## CVE-2021-4122 (2022-08-24T16:15:00)
+> It was found that a specially crafted LUKS header could trick cryptsetup into disabling encryption during the recovery of the device. An attacker with physical access to the medium, such as a flash disk, could use this flaw to force a user into permanently disabling the encryption layer of that medium.
+- [Live-Hack-CVE/CVE-2021-4122](https://github.com/Live-Hack-CVE/CVE-2021-4122)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4122">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4122">
 
 ---
 ## CVE-2021-41213 (2021-11-05T23:15:00)
@@ -2007,8 +2022,19 @@
 - [Live-Hack-CVE/CVE-2021-40416](https://github.com/Live-Hack-CVE/CVE-2021-40416)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40416">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40416">
 
 ---
+## CVE-2021-4041 (2022-08-24T16:15:00)
+> A flaw was found in ansible-runner. An improper escaping of the shell command, while calling the ansible_runner.interface.run_command, can lead to parameters getting executed as host's shell command. A developer could unintentionally write code that gets executed in the host rather than the virtual environment.
+- [Live-Hack-CVE/CVE-2021-4041](https://github.com/Live-Hack-CVE/CVE-2021-4041)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4041">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4041">
+
+---
 ## CVE-2021-40406 (2022-01-28T20:15:00)
 > A denial of service vulnerability exists in the cgiserver.cgi session creation functionality of reolink RLC-410W v3.0.0.136_20121102. A specially-crafted HTTP request can lead to prevent users from logging in. An attacker can send an HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-40406](https://github.com/Live-Hack-CVE/CVE-2021-40406)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40406">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40406">
+
+---
+## CVE-2021-4040 (2022-08-24T16:15:00)
+> A flaw was found in AMQ Broker. This issue can cause a partial interruption to the availability of AMQ Broker via an Out of memory (OOM) condition. This flaw allows an attacker to partially disrupt availability to the broker through a sustained attack of maliciously crafted messages. The highest threat from this vulnerability is system availability.
+- [Live-Hack-CVE/CVE-2021-4040](https://github.com/Live-Hack-CVE/CVE-2021-4040)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4040">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4040">
 - [Live-Hack-CVE/CVE-2021-40406](https://github.com/Live-Hack-CVE/CVE-2021-40406)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40406">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40406">
 
 ---
@@ -3143,6 +3169,11 @@
 ## CVE-2021-36690 (2021-08-24T14:15:00)
 > ** DISPUTED ** A segmentation fault can occur in the sqlite3.exe command-line component of SQLite 3.36.0 via the idxGetTableInfo function when there is a crafted SQL query. NOTE: the vendor disputes the relevance of this report because a sqlite3.exe user already has full privileges (e.g., is intentionally allowed to execute commands). This report does NOT imply any problem in the SQLite library.
 - [Live-Hack-CVE/CVE-2021-36690](https://github.com/Live-Hack-CVE/CVE-2021-36690)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36690">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36690">
+
+---
+## CVE-2021-3669 (2022-08-26T16:15:00)
+> A flaw was found in the Linux kernel. Measuring usage of the shared memory does not scale with large shared memory segment counts which could lead to resource exhaustion and DoS.
+- [Live-Hack-CVE/CVE-2021-3669](https://github.com/Live-Hack-CVE/CVE-2021-3669)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3669">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3669">
 
 ---
 ## CVE-2021-3667 (2022-03-02T23:15:00)
@@ -6915,6 +6946,11 @@
 > A flaw was found in SQLite's SELECT query functionality (src/select.c). This flaw allows an attacker who is capable of running SQL queries locally on the SQLite database to cause a denial of service or possible code execution by triggering a use-after-free. The highest threat from this vulnerability is to system availability.
 - [Live-Hack-CVE/CVE-2021-20227](https://github.com/Live-Hack-CVE/CVE-2021-20227)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20227">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20227">
 - [Live-Hack-CVE/CVE-2021-20227](https://github.com/Live-Hack-CVE/CVE-2021-20227)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20227">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20227">
+
+---
+## CVE-2021-20224 (2022-08-25T20:15:00)
+> An integer overflow issue was discovered in ImageMagick's ExportIndexQuantum() function in MagickCore/quantum-export.c. Function calls to GetPixelIndex() could result in values outside the range of representable for the 'unsigned char'. When ImageMagick processes a crafted pdf file, this could lead to an undefined behaviour or a crash.
+- [Live-Hack-CVE/CVE-2021-20224](https://github.com/Live-Hack-CVE/CVE-2021-20224)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20224">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20224">
 
 ---
 ## CVE-2021-20138 (2021-12-09T16:15:00)
