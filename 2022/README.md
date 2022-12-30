@@ -25151,6 +25151,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-2343 (2022-07-08T18:15:00)
 > Heap-based Buffer Overflow in GitHub repository vim/vim prior to 9.0.0044.
 - [Live-Hack-CVE/CVE-2022-2343](https://github.com/Live-Hack-CVE/CVE-2022-2343)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2343">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2343">
+- [Live-Hack-CVE/CVE-2022-23437](https://github.com/Live-Hack-CVE/CVE-2022-23437)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23437">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23437">
 
 ---
 ## CVE-2022-2338 (2022-08-17T21:15:00)

@@ -2481,6 +2481,11 @@
 > A flaw was found in the coreos-installer, where it writes the Ignition config to the target system with world-readable access permissions. This flaw allows a local attacker to have read access to potentially sensitive data. The highest threat from this vulnerability is to confidentiality.
 - [Live-Hack-CVE/CVE-2021-3917](https://github.com/Live-Hack-CVE/CVE-2021-3917)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3917">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3917">
 - [Live-Hack-CVE/CVE-2021-3917](https://github.com/Live-Hack-CVE/CVE-2021-3917)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3917">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3917">
+- [Live-Hack-CVE/CVE-2021-39175](https://github.com/Live-Hack-CVE/CVE-2021-39175)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39175">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39175">
+- [Live-Hack-CVE/CVE-2021-39172](https://github.com/Live-Hack-CVE/CVE-2021-39172)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39172">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39172">
+- [Live-Hack-CVE/CVE-2021-39173](https://github.com/Live-Hack-CVE/CVE-2021-39173)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39173">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39173">
+- [W1ngLess/CVE-2021-39172-RCE](https://github.com/W1ngLess/CVE-2021-39172-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/W1ngLess/CVE-2021-39172-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/W1ngLess/CVE-2021-39172-RCE">
+- [n0kovo/CVE-2021-39174-PoC](https://github.com/n0kovo/CVE-2021-39174-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/n0kovo/CVE-2021-39174-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/n0kovo/CVE-2021-39174-PoC">
 
 ---
 ## CVE-2021-39165 (2021-08-26T21:15:00)
