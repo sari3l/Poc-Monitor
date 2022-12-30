@@ -686,6 +686,11 @@
 - [Live-Hack-CVE/CVE-2020-6099](https://github.com/Live-Hack-CVE/CVE-2020-6099)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6099">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6099">
 
 ---
+## CVE-2020-6088 (2021-02-04T07:15:00)
+> An exploitable denial of service vulnerability exists in the ENIP Request Path Network Segment functionality of Allen-Bradley Flex IO 1794-AENT/B 4.003. A specially crafted network request can cause a loss of communications with the device resulting in denial-of-service. An attacker can send a malicious packet to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2020-6088](https://github.com/Live-Hack-CVE/CVE-2020-6088)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6088">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6088">
+
+---
 ## CVE-2020-6016 (2020-11-18T15:15:00)
 > Valve's Game Networking Sockets prior to version v1.2.0 improperly handles unreliable segments with negative offsets in function SNP_ReceiveUnreliableSegment(), leading to a Heap-Based Buffer Underflow and a free() of memory not from the heap, resulting in a memory corruption and probably even a remote code execution.
 - [Live-Hack-CVE/CVE-2020-6016](https://github.com/Live-Hack-CVE/CVE-2020-6016)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6016">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6016">
@@ -1109,6 +1114,11 @@
 - [Live-Hack-CVE/CVE-2020-35511](https://github.com/Live-Hack-CVE/CVE-2020-35511)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35511">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35511">
 
 ---
+## CVE-2020-35506 (2021-05-28T11:15:00)
+> A use-after-free vulnerability was found in the am53c974 SCSI host bus adapter emulation of QEMU in versions before 6.0.0 during the handling of the 'Information Transfer' command (CMD_TI). This flaw allows a privileged guest user to crash the QEMU process on the host, resulting in a denial of service or potential code execution with the privileges of the QEMU process.
+- [Live-Hack-CVE/CVE-2020-35506](https://github.com/Live-Hack-CVE/CVE-2020-35506)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35506">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35506">
+
+---
 ## CVE-2020-35505 (2021-05-28T11:15:00)
 > A NULL pointer dereference flaw was found in the am53c974 SCSI host bus adapter emulation of QEMU in versions before 6.0.0. This issue occurs while handling the 'Information Transfer' command. This flaw allows a privileged guest user to crash the QEMU process on the host, resulting in a denial of service. The highest threat from this vulnerability is to system availability.
 - [Live-Hack-CVE/CVE-2020-35505](https://github.com/Live-Hack-CVE/CVE-2020-35505)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35505">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35505">
@@ -1454,6 +1464,16 @@
 - [Live-Hack-CVE/CVE-2020-28598](https://github.com/Live-Hack-CVE/CVE-2020-28598)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28598">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28598">
 
 ---
+## CVE-2020-28594 (2021-08-17T20:15:00)
+> A use-after-free vulnerability exists in the _3MF_Importer::_handle_end_model() functionality of Prusa Research PrusaSlicer 2.2.0 and Master (commit 4b040b856). A specially crafted 3MF file can lead to code execution. An attacker can provide a malicious file to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2020-28594](https://github.com/Live-Hack-CVE/CVE-2020-28594)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28594">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28594">
+
+---
+## CVE-2020-28593 (2021-04-15T14:15:00)
+> A unauthenticated backdoor exists in the configuration server functionality of Cosori Smart 5.8-Quart Air Fryer CS158-AF 1.1.0. A specially crafted JSON object can lead to code execution. An attacker can send a malicious packet to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2020-28593](https://github.com/Live-Hack-CVE/CVE-2020-28593)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28593">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28593">
+
+---
 ## CVE-2020-28592 (2021-04-15T14:15:00)
 > A heap-based buffer overflow vulnerability exists in the configuration server functionality of the Cosori Smart 5.8-Quart Air Fryer CS158-AF 1.1.0. A specially crafted JSON object can lead to remote code execution. An attacker can send a malicious packet to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2020-28592](https://github.com/Live-Hack-CVE/CVE-2020-28592)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28592">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28592">
@@ -1462,6 +1482,11 @@
 ## CVE-2020-28590 (2021-04-13T19:15:00)
 > An out-of-bounds read vulnerability exists in the Obj File TriangleMesh::TriangleMesh() functionality of Slic3r libslic3r 1.3.0 and Master Commit 92abbc42. A specially crafted obj file could lead to information disclosure. An attacker can provide a malicious file to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2020-28590](https://github.com/Live-Hack-CVE/CVE-2020-28590)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28590">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28590">
+
+---
+## CVE-2020-28589 (2021-08-11T13:15:00)
+> An improper array index validation vulnerability exists in the LoadObj functionality of tinyobjloader v2.0-rc1 and tinyobjloader development commit 79d4421. A specially crafted file could lead to code execution. An attacker can provide a malicious file to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2020-28589](https://github.com/Live-Hack-CVE/CVE-2020-28589)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28589">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28589">
 
 ---
 ## CVE-2020-28587 (2021-02-23T19:15:00)

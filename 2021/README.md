@@ -249,6 +249,11 @@
 - [Live-Hack-CVE/CVE-2021-45444](https://github.com/Live-Hack-CVE/CVE-2021-45444)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45444">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45444">
 
 ---
+## CVE-2021-45389 (2022-01-04T16:15:00)
+> A flaw was found with the JWT token. A self-signed JWT token could be injected into the update manager and bypass the authentication process, thus could escalate privileges. This affects StarWind SAN and NAS build 1578 and StarWind Command Center build 6864.
+- [Live-Hack-CVE/CVE-2021-45389](https://github.com/Live-Hack-CVE/CVE-2021-45389)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45389">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45389">
+
+---
 ## CVE-2021-45387 (2022-02-11T17:15:00)
 > tcpreplay 4.3.4 has a Reachable Assertion in add_tree_ipv4() at tree.c.
 - [Live-Hack-CVE/CVE-2021-45387](https://github.com/Live-Hack-CVE/CVE-2021-45387)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45387">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45387">
@@ -1232,6 +1237,11 @@
 - [Live-Hack-CVE/CVE-2021-4218](https://github.com/Live-Hack-CVE/CVE-2021-4218)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4218">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4218">
 
 ---
+## CVE-2021-4216 (2022-08-26T16:15:00)
+> A Floating point exception (division-by-zero) flaw was found in Mupdf for zero width pages in muraster.c. It is fixed in Mupdf-1.20.0-rc1 upstream.
+- [Live-Hack-CVE/CVE-2021-4216](https://github.com/Live-Hack-CVE/CVE-2021-4216)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4216">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4216">
+
+---
 ## CVE-2021-4214 (2022-08-24T16:15:00)
 > A heap overflow flaw was found in libpngs' pngimage.c program. This flaw allows an attacker with local network access to pass a specially crafted PNG file to the pngimage utility, causing an application to crash, leading to a denial of service.
 - [Live-Hack-CVE/CVE-2021-4214](https://github.com/Live-Hack-CVE/CVE-2021-4214)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4214">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4214">
@@ -2120,6 +2130,11 @@
 > mm-wki v0.2.1 is vulnerable to Cross Site Scripting (XSS).
 - [Live-Hack-CVE/CVE-2021-40289](https://github.com/Live-Hack-CVE/CVE-2021-40289)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40289">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40289">
 - [Live-Hack-CVE/CVE-2021-40289](https://github.com/Live-Hack-CVE/CVE-2021-40289)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40289">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40289">
+
+---
+## CVE-2021-40285 (2022-08-26T13:15:00)
+> htmly v2.8.1 was discovered to contain an arbitrary file deletion vulnerability via the component \views\backup.html.php.
+- [Live-Hack-CVE/CVE-2021-40285](https://github.com/Live-Hack-CVE/CVE-2021-40285)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40285">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40285">
 
 ---
 ## CVE-2021-40272 (2022-11-14T16:15:00)
@@ -3042,6 +3057,11 @@
 - [Live-Hack-CVE/CVE-2021-36909](https://github.com/Live-Hack-CVE/CVE-2021-36909)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36909">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36909">
 
 ---
+## CVE-2021-3688 (2022-08-26T16:15:00)
+> A flaw was found in Red Hat JBoss Core Services HTTP Server in all versions, where it does not properly normalize the path component of a request URL contains dot-dot-semicolon(s). This flaw could allow an attacker to access unauthorized information or possibly conduct further attacks. The highest threat from this vulnerability is to data confidentiality and integrity.
+- [Live-Hack-CVE/CVE-2021-3688](https://github.com/Live-Hack-CVE/CVE-2021-3688)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3688">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3688">
+
+---
 ## CVE-2021-36833 (2022-05-20T20:15:00)
 > Authenticated (admin or higher user role) Stored Cross-Site Scripting (XSS) vulnerability in ibericode's MC4WP plugin <= 4.8.6 at WordPress.
 - [Live-Hack-CVE/CVE-2021-36833](https://github.com/Live-Hack-CVE/CVE-2021-36833)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36833">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36833">
@@ -3158,6 +3178,11 @@
 ## CVE-2021-3655 (2021-08-05T21:15:00)
 > A vulnerability was found in the Linux kernel in versions prior to v5.14-rc1. Missing size validations on inbound SCTP packets may allow the kernel to read uninitialized memory.
 - [Live-Hack-CVE/CVE-2021-3655](https://github.com/Live-Hack-CVE/CVE-2021-3655)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3655">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3655">
+
+---
+## CVE-2021-3644 (2022-08-26T16:15:00)
+> A flaw was found in wildfly-core in all versions. If a vault expression is in the form of a single attribute that contains multiple expressions, a user who was granted access to the management interface can potentially access a vault expression they should not be able to access and possibly retrieve the item which was stored in the vault. The highest threat from this vulnerability is data confidentiality and integrity.
+- [Live-Hack-CVE/CVE-2021-3644](https://github.com/Live-Hack-CVE/CVE-2021-3644)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3644">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3644">
 
 ---
 ## CVE-2021-36411 (2022-01-10T23:15:00)
@@ -6479,6 +6504,11 @@
 ## CVE-2021-21912 (2021-12-22T19:15:00)
 > A privilege escalation vulnerability exists in the Windows version of installation for Advantech R-SeeNet Advantech R-SeeNet 2.4.15 (30.07.2021). A specially-crafted file can be replaced in the system to escalate privileges to NT SYSTEM authority. An attacker can provide a malicious file to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2021-21912](https://github.com/Live-Hack-CVE/CVE-2021-21912)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21912">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21912">
+
+---
+## CVE-2021-21898 (2021-11-19T20:15:00)
+> A code execution vulnerability exists in the dwgCompressor::decompress18() functionality of LibreCad libdxfrw 2.2.0-rc2-19-ge02f3580. A specially-crafted .dwg file can lead to an out-of-bounds write. An attacker can provide a malicious file to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2021-21898](https://github.com/Live-Hack-CVE/CVE-2021-21898)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21898">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21898">
 
 ---
 ## CVE-2021-21897 (2021-09-08T16:15:00)
