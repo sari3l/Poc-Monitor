@@ -13012,6 +13012,11 @@
 - [Live-Hack-CVE/CVE-2022-37832](https://github.com/Live-Hack-CVE/CVE-2022-37832)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37832">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37832">
 
 ---
+## CVE-2022-37816 (2022-08-25T15:15:00)
+> Tenda AC1206 V15.03.06.23 was discovered to contain a stack overflow via the function fromSetIpMacBind.
+- [Live-Hack-CVE/CVE-2022-37816](https://github.com/Live-Hack-CVE/CVE-2022-37816)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37816">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37816">
+
+---
 ## CVE-2022-37815 (2022-08-25T15:15:00)
 > Tenda AC1206 V15.03.06.23 was discovered to contain a stack overflow via the PPPOEPassword parameter in the function formQuickIndex.
 - [Live-Hack-CVE/CVE-2022-37815](https://github.com/Live-Hack-CVE/CVE-2022-37815)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37815">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37815">
@@ -13542,9 +13547,19 @@
 - [Live-Hack-CVE/CVE-2022-37247](https://github.com/Live-Hack-CVE/CVE-2022-37247)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37247">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37247">
 
 ---
+## CVE-2022-37245 (2022-08-25T15:15:00)
+> MDaemon Technologies SecurityGateway for Email Servers 8.5.2 is vulnerable to Cross Site Scripting (XSS) via the Blacklist endpoint.
+- [Live-Hack-CVE/CVE-2022-37245](https://github.com/Live-Hack-CVE/CVE-2022-37245)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37245">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37245">
+
+---
 ## CVE-2022-37244 (2022-08-25T15:15:00)
 > MDaemon Technologies SecurityGateway for Email Servers 8.5.2 is vulnerable to IFRAME Injectionvia the currentRequest parameter. after login leads to inject malicious tag leads to IFRAME injection.
 - [Live-Hack-CVE/CVE-2022-37244](https://github.com/Live-Hack-CVE/CVE-2022-37244)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37244">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37244">
+
+---
+## CVE-2022-37243 (2022-08-25T15:15:00)
+> MDaemon Technologies SecurityGateway for Email Servers 8.5.2 is vulnerable to Cross Site Scripting (XSS) via the whitelist endpoint.
+- [Live-Hack-CVE/CVE-2022-37243](https://github.com/Live-Hack-CVE/CVE-2022-37243)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37243">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37243">
 
 ---
 ## CVE-2022-37242 (2022-08-25T15:15:00)
@@ -13552,9 +13567,19 @@
 - [Live-Hack-CVE/CVE-2022-37242](https://github.com/Live-Hack-CVE/CVE-2022-37242)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37242">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37242">
 
 ---
+## CVE-2022-37241 (2022-08-25T15:15:00)
+> MDaemon Technologies SecurityGateway for Email Servers 8.5.2 is vulnerable to Cross Site Scripting (XSS) via the data_leak_list_ajax endpoint.
+- [Live-Hack-CVE/CVE-2022-37241](https://github.com/Live-Hack-CVE/CVE-2022-37241)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37241">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37241">
+
+---
 ## CVE-2022-37240 (2022-08-25T15:15:00)
 > MDaemon Technologies SecurityGateway for Email Servers 8.5.2 is vulnerable to HTTP Response splitting via the format parameter.
 - [Live-Hack-CVE/CVE-2022-37240](https://github.com/Live-Hack-CVE/CVE-2022-37240)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37240">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37240">
+
+---
+## CVE-2022-37239 (2022-08-25T15:15:00)
+> MDaemon Technologies SecurityGateway for Email Servers 8.5.2 is vulnerable to Cross Site Scripting (XSS) via the rulles_list_ajax endpoint.
+- [Live-Hack-CVE/CVE-2022-37239](https://github.com/Live-Hack-CVE/CVE-2022-37239)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37239">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37239">
 
 ---
 ## CVE-2022-37234 (2022-09-22T20:15:00)
@@ -13720,6 +13745,7 @@
 > An issue was discovered in Artica Proxy 4.30.000000. There is a XSS vulnerability via the password parameter in /fw.login.php.
 - [Fjowel/CVE-2022-37153](https://github.com/Fjowel/CVE-2022-37153)	<img alt="forks" src="https://img.shields.io/github/forks/Fjowel/CVE-2022-37153">	<img alt="stars" src="https://img.shields.io/github/stars/Fjowel/CVE-2022-37153">
 - [5l1v3r1/CVE-2022-37153](https://github.com/5l1v3r1/CVE-2022-37153)	<img alt="forks" src="https://img.shields.io/github/forks/5l1v3r1/CVE-2022-37153">	<img alt="stars" src="https://img.shields.io/github/stars/5l1v3r1/CVE-2022-37153">
+- [Live-Hack-CVE/CVE-2022-37153](https://github.com/Live-Hack-CVE/CVE-2022-37153)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37153">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37153">
 
 ---
 ## CVE-2022-37152 (2022-08-26T13:15:00)
@@ -15154,6 +15180,11 @@
 - [Live-Hack-CVE/CVE-2022-36422](https://github.com/Live-Hack-CVE/CVE-2022-36422)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36422">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36422">
 
 ---
+## CVE-2022-36405 (2022-08-23T16:15:00)
+> Authenticated (contributor+) Stored Cross-Site Scripting (XSS) vulnerability in amCharts: Charts and Maps plugin <= 1.4 at WordPress.
+- [Live-Hack-CVE/CVE-2022-36405](https://github.com/Live-Hack-CVE/CVE-2022-36405)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36405">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36405">
+
+---
 ## CVE-2022-36402 (2022-09-16T17:15:00)
 > An integer overflow vulnerability was found in vmwgfx driver in drivers/gpu/vmxgfx/vmxgfx_execbuf.c in GPU component of Linux kernel with device file '/dev/dri/renderD128 (or Dxxx)'. This flaw allows a local attacker with a user account on the system to gain privilege, causing a denial of service(DoS).
 - [Live-Hack-CVE/CVE-2022-36402](https://github.com/Live-Hack-CVE/CVE-2022-36402)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36402">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36402">
@@ -15263,6 +15294,11 @@
 - [Live-Hack-CVE/CVE-2022-36349](https://github.com/Live-Hack-CVE/CVE-2022-36349)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36349">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36349">
 
 ---
+## CVE-2022-36347 (2022-08-23T16:15:00)
+> Authenticated (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Alpine Press Alpine PhotoTile for Pinterest plugin <= 1.3.1 at WordPress.
+- [Live-Hack-CVE/CVE-2022-36347](https://github.com/Live-Hack-CVE/CVE-2022-36347)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36347">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36347">
+
+---
 ## CVE-2022-36341 (2022-08-23T16:15:00)
 > Authenticated (subscriber+) plugin settings change leading to Stored Cross-Site Scripting (XSS) vulnerability in Akash soni's AS – Create Pinterest Pinboard Pages plugin <= 1.0 at WordPress.
 - [Live-Hack-CVE/CVE-2022-36341](https://github.com/Live-Hack-CVE/CVE-2022-36341)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36341">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36341">
@@ -15322,6 +15358,16 @@
 ## CVE-2022-36288 (2022-08-23T16:15:00)
 > Multiple Cross-Site Request Forgery (CSRF) vulnerabilities in W3 Eden Download Manager plugin <= 3.2.48 at WordPress.
 - [Live-Hack-CVE/CVE-2022-36288](https://github.com/Live-Hack-CVE/CVE-2022-36288)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36288">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36288">
+
+---
+## CVE-2022-36285 (2022-08-23T16:15:00)
+> Authenticated Arbitrary File Upload vulnerability in dmitrylitvinov Uploading SVG, WEBP and ICO files plugin <= 1.0.1 at WordPress.
+- [Live-Hack-CVE/CVE-2022-36285](https://github.com/Live-Hack-CVE/CVE-2022-36285)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36285">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36285">
+
+---
+## CVE-2022-36282 (2022-08-23T16:15:00)
+> Authenticated (editor+) Stored Cross-Site Scripting (XSS) vulnerability in Roman Pronskiy's Search Exclude plugin <= 1.2.6 at WordPress.
+- [Live-Hack-CVE/CVE-2022-36282](https://github.com/Live-Hack-CVE/CVE-2022-36282)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36282">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36282">
 
 ---
 ## CVE-2022-36271 (2022-09-07T14:15:00)
@@ -15886,6 +15932,11 @@
 - [Live-Hack-CVE/CVE-2022-36011](https://github.com/Live-Hack-CVE/CVE-2022-36011)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36011">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36011">
 
 ---
+## CVE-2022-36008 (2022-08-19T21:15:00)
+> Frontier is Substrate's Ethereum compatibility layer. A security issue was discovered affecting parsing of the RPC result of the exit reason in case of EVM reversion. In release build, this would cause the exit reason being incorrectly parsed and returned by RPC. In debug build, this would cause an overflow panic. No action is needed unless you have a bridge node that needs to distinguish different reversion exit reasons and you used RPC for this. There are currently no known workarounds.
+- [Live-Hack-CVE/CVE-2022-36008](https://github.com/Live-Hack-CVE/CVE-2022-36008)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36008">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36008">
+
+---
 ## CVE-2022-36005 (2022-09-16T23:15:00)
 > TensorFlow is an open source platform for machine learning. When `tf.quantization.fake_quant_with_min_max_vars_gradient` receives input `min` or `max` that is nonscalar, it gives a `CHECK` fail that can trigger a denial of service attack. We have patched the issue in GitHub commit f3cf67ac5705f4f04721d15e485e192bb319feed. The fix will be included in TensorFlow 2.10.0. We will also cherrypick this commit on TensorFlow 2.9.1, TensorFlow 2.8.1, and TensorFlow 2.7.2, as these are also affected and still in supported range. There are no known workarounds for this issue.
 - [Live-Hack-CVE/CVE-2022-36005](https://github.com/Live-Hack-CVE/CVE-2022-36005)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36005">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36005">
@@ -16367,6 +16418,11 @@
 ## CVE-2022-35730 (2022-12-04T23:15:00)
 > Cross-Site Request Forgery (CSRF) vulnerability in Oceanwp sticky header plugin <= 1.0.8 on WordPress.
 - [Live-Hack-CVE/CVE-2022-35730](https://github.com/Live-Hack-CVE/CVE-2022-35730)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35730">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35730">
+
+---
+## CVE-2022-35726 (2022-08-23T16:15:00)
+> Broken Authentication vulnerability in yotuwp Video Gallery plugin <= 1.3.4.5 at WordPress.
+- [Live-Hack-CVE/CVE-2022-35726](https://github.com/Live-Hack-CVE/CVE-2022-35726)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35726">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35726">
 
 ---
 ## CVE-2022-35721 (2022-09-23T18:15:00)
@@ -16869,6 +16925,11 @@
 ## CVE-2022-3524 (2022-10-16T10:15:00)
 > A vulnerability was found in Linux Kernel. It has been declared as problematic. Affected by this vulnerability is the function ipv6_renew_options of the component IPv6 Handler. The manipulation leads to memory leak. The attack can be launched remotely. It is recommended to apply a patch to fix this issue. The identifier VDB-211021 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-3524](https://github.com/Live-Hack-CVE/CVE-2022-3524)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3524">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3524">
+
+---
+## CVE-2022-35235 (2022-08-23T16:15:00)
+> Authenticated (admin+) Arbitrary File Read vulnerability in XplodedThemes WPide plugin <= 2.6 at WordPress.
+- [Live-Hack-CVE/CVE-2022-35235](https://github.com/Live-Hack-CVE/CVE-2022-35235)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35235">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35235">
 
 ---
 ## CVE-2022-35226 (2022-10-11T21:15:00)
@@ -17406,6 +17467,12 @@
 ## CVE-2022-34960 (2022-08-25T02:15:00)
 > The container package in MikroTik RouterOS 7.4beta4 allows an attacker to create mount points pointing to symbolic links, which resolve to locations on the host device. This allows the attacker to mount any arbitrary file to any location on the host.
 - [Live-Hack-CVE/CVE-2022-34960](https://github.com/Live-Hack-CVE/CVE-2022-34960)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34960">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34960">
+
+---
+## CVE-2022-34919 (2022-08-23T01:15:00)
+> The file upload wizard in Zengenti Contensis Classic before 15.2.1.79 does not correctly check that a user has authenticated. By uploading a crafted aspx file, it is possible to execute arbitrary commands.
+- [Live-Hack-CVE/CVE-2022-34919](https://github.com/Live-Hack-CVE/CVE-2022-34919)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34919">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34919">
+- [ahajnik/CVE-2022-34919](https://github.com/ahajnik/CVE-2022-34919)	<img alt="forks" src="https://img.shields.io/github/forks/ahajnik/CVE-2022-34919">	<img alt="stars" src="https://img.shields.io/github/stars/ahajnik/CVE-2022-34919">
 
 ---
 ## CVE-2022-34918 (2022-07-04T21:15:00)
@@ -18230,6 +18297,7 @@
 ---
 ## CVE-2022-33916 (2022-08-23T01:15:00)
 > OPC UA .NET Standard Reference Server 1.04.368 allows a remote attacker to cause the application to access sensitive information.
+- [Live-Hack-CVE/CVE-2022-33916](https://github.com/Live-Hack-CVE/CVE-2022-33916)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33916">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33916">
 - [Live-Hack-CVE/CVE-2022-33916](https://github.com/Live-Hack-CVE/CVE-2022-33916)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33916">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33916">
 
 ---
@@ -22366,9 +22434,34 @@
 - [Live-Hack-CVE/CVE-2022-28712](https://github.com/Live-Hack-CVE/CVE-2022-28712)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28712">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28712">
 
 ---
+## CVE-2022-28681 (2022-07-18T19:15:00)
+> This vulnerability allows remote attackers to disclose sensitive information on affected installations of Foxit PDF Reader 11.2.1.53537. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the deletePages method. By performing actions in JavaScript, an attacker can trigger a read past the end of an allocated object. An attacker can leverage this in conjunction with other vulnerabilities to execute arbitrary code in the context of the current process. Was ZDI-CAN-16825.
+- [Live-Hack-CVE/CVE-2022-28681](https://github.com/Live-Hack-CVE/CVE-2022-28681)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28681">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28681">
+
+---
+## CVE-2022-28680 (2022-07-18T19:15:00)
+> This vulnerability allows remote attackers to execute arbitrary code on affected installations of Foxit PDF Reader 11.2.1.53537. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the handling of Annotation objects. The issue results from the lack of validating the existence of an object prior to performing operations on the object. An attacker can leverage this vulnerability to execute code in the context of the current process. Was ZDI-CAN-16821.
+- [Live-Hack-CVE/CVE-2022-28680](https://github.com/Live-Hack-CVE/CVE-2022-28680)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28680">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28680">
+
+---
+## CVE-2022-28679 (2022-07-18T19:15:00)
+> This vulnerability allows remote attackers to execute arbitrary code on affected installations of Foxit PDF Reader 11.2.1.53537. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the handling of Annotation objects. The issue results from the lack of validating the existence of an object prior to performing operations on the object. An attacker can leverage this vulnerability to execute code in the context of the current process. Was ZDI-CAN-16861.
+- [Live-Hack-CVE/CVE-2022-28679](https://github.com/Live-Hack-CVE/CVE-2022-28679)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28679">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28679">
+
+---
+## CVE-2022-28678 (2022-07-18T19:15:00)
+> This vulnerability allows remote attackers to execute arbitrary code on affected installations of Foxit PDF Reader 11.2.1.53537. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the handling of Doc objects. The issue results from the lack of validating the existence of an object prior to performing operations on the object. An attacker can leverage this vulnerability to execute code in the context of the current process. Was ZDI-CAN-16805.
+- [Live-Hack-CVE/CVE-2022-28678](https://github.com/Live-Hack-CVE/CVE-2022-28678)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28678">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28678">
+
+---
 ## CVE-2022-28672 (2022-07-18T19:15:00)
 > This vulnerability allows remote attackers to execute arbitrary code on affected installations of Foxit PDF Reader 11.2.1.53537. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the handling of Doc objects. The issue results from the lack of validating the existence of an object prior to performing operations on the object. An attacker can leverage this vulnerability to execute code in the context of the current process. Was ZDI-CAN-16640.
 - [hacksysteam/CVE-2022-28672](https://github.com/hacksysteam/CVE-2022-28672)	<img alt="forks" src="https://img.shields.io/github/forks/hacksysteam/CVE-2022-28672">	<img alt="stars" src="https://img.shields.io/github/stars/hacksysteam/CVE-2022-28672">
+
+---
+## CVE-2022-28670 (2022-07-18T19:15:00)
+> This vulnerability allows remote attackers to disclose sensitive information on affected installations of Foxit PDF Reader 11.2.1.53537. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the processing of AcroForms. Crafted data in an AcroForm can trigger a read past the end of an allocated buffer. An attacker can leverage this in conjunction with other vulnerabilities to execute arbitrary code in the context of the current process. Was ZDI-CAN-16523.
+- [Live-Hack-CVE/CVE-2022-28670](https://github.com/Live-Hack-CVE/CVE-2022-28670)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28670">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28670">
 
 ---
 ## CVE-2022-28664 (2022-08-05T22:15:00)
@@ -23772,6 +23865,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-25912](https://github.com/Live-Hack-CVE/CVE-2022-25912)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25912">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25912">
 
 ---
+## CVE-2022-25903 (2022-08-24T05:15:00)
+> The package opcua from 0.0.0 are vulnerable to Denial of Service (DoS) via the ExtensionObjects and Variants objects, when it allows unlimited nesting levels, which could result in a stack overflow even if the message size is less than the maximum allowed.
+- [Live-Hack-CVE/CVE-2022-25903](https://github.com/Live-Hack-CVE/CVE-2022-25903)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25903">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25903">
+
+---
 ## CVE-2022-2590 (2022-08-31T16:15:00)
 > A race condition was found in the way the Linux kernel's memory subsystem handled the copy-on-write (COW) breakage of private read-only shared memory mappings. This flaw allows an unprivileged, local user to gain write access to read-only memory mappings, increasing their privileges on the system.
 - [Live-Hack-CVE/CVE-2022-2590](https://github.com/Live-Hack-CVE/CVE-2022-2590)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2590">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2590">
@@ -23786,6 +23884,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-25892 (2022-11-01T05:15:00)
 > The package muhammara before 2.6.1, from 3.0.0 and before 3.1.1; all versions of package hummus are vulnerable to Denial of Service (DoS) when supplied with a maliciously crafted PDF file to be parsed.
 - [Live-Hack-CVE/CVE-2022-25892](https://github.com/Live-Hack-CVE/CVE-2022-25892)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25892">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25892">
+
+---
+## CVE-2022-25888 (2022-08-23T05:15:00)
+> The package opcua from 0.0.0 are vulnerable to Denial of Service (DoS) due to a missing limitation on the number of received chunks - per single session or in total for all concurrent sessions. An attacker can exploit this vulnerability by sending an unlimited number of huge chunks (e.g. 2GB each) without sending the Final closing chunk.
+- [Live-Hack-CVE/CVE-2022-25888](https://github.com/Live-Hack-CVE/CVE-2022-25888)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25888">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25888">
 
 ---
 ## CVE-2022-2588 ()
@@ -23858,6 +23961,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [CyberArchitect1/CVE-2022-25765-pdfkit-Exploit-Reverse-Shell](https://github.com/CyberArchitect1/CVE-2022-25765-pdfkit-Exploit-Reverse-Shell)	<img alt="forks" src="https://img.shields.io/github/forks/CyberArchitect1/CVE-2022-25765-pdfkit-Exploit-Reverse-Shell">	<img alt="stars" src="https://img.shields.io/github/stars/CyberArchitect1/CVE-2022-25765-pdfkit-Exploit-Reverse-Shell">
 - [Atsukoro1/PDFKitExploit](https://github.com/Atsukoro1/PDFKitExploit)	<img alt="forks" src="https://img.shields.io/github/forks/Atsukoro1/PDFKitExploit">	<img alt="stars" src="https://img.shields.io/github/stars/Atsukoro1/PDFKitExploit">
 - [LordRNA/CVE-2022-25765](https://github.com/LordRNA/CVE-2022-25765)	<img alt="forks" src="https://img.shields.io/github/forks/LordRNA/CVE-2022-25765">	<img alt="stars" src="https://img.shields.io/github/stars/LordRNA/CVE-2022-25765">
+
+---
+## CVE-2022-25761 (2022-08-23T05:15:00)
+> The package open62541/open62541 before 1.2.5, from 1.3-rc1 and before 1.3.1 are vulnerable to Denial of Service (DoS) due to a missing limitation on the number of received chunks - per single session or in total for all concurrent sessions. An attacker can exploit this vulnerability by sending an unlimited number of huge chunks (e.g. 2GB each) without sending the Final closing chunk.
+- [Live-Hack-CVE/CVE-2022-25761](https://github.com/Live-Hack-CVE/CVE-2022-25761)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25761">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25761">
 
 ---
 ## CVE-2022-25750 (2022-10-19T11:15:00)
@@ -24593,6 +24701,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-24409 (2022-02-23T22:15:00)
 > Dell BSAFE SSL-J contains remediation for a covert timing channel vulnerability that may be exploited by malicious users to compromise the affected system. Only customers with active BSAFE maintenance contracts can receive details about this vulnerability. Public disclosure of the vulnerability details will be shared at a later date.
 - [Live-Hack-CVE/CVE-2022-24409](https://github.com/Live-Hack-CVE/CVE-2022-24409)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24409">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24409">
+
+---
+## CVE-2022-24381 (2022-08-23T05:15:00)
+> All versions of package asneg/opcuastack are vulnerable to Denial of Service (DoS) due to a missing limitation on the number of received chunks - per single session or in total for all concurrent sessions. An attacker can exploit this vulnerability by sending an unlimited number of huge chunks (e.g. 2GB each) without sending the Final closing chunk.
+- [Live-Hack-CVE/CVE-2022-24381](https://github.com/Live-Hack-CVE/CVE-2022-24381)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24381">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24381">
 
 ---
 ## CVE-2022-24377 (2022-12-14T05:15:00)
@@ -28129,6 +28242,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1937 (2022-07-11T13:15:00)
 > The Awin Data Feed WordPress plugin before 1.8 does not sanitise and escape a parameter before outputting it back via an AJAX action (available to both unauthenticated and authenticated users), leading to a Reflected Cross-Site Scripting
 - [Live-Hack-CVE/CVE-2022-1937](https://github.com/Live-Hack-CVE/CVE-2022-1937)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1937">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1937">
+
+---
+## CVE-2022-1930 (2022-08-22T19:15:00)
+> An exponential ReDoS (Regular Expression Denial of Service) can be triggered in the eth-account PyPI package, when an attacker is able to supply arbitrary input to the encode_structured_data method
+- [Live-Hack-CVE/CVE-2022-1930](https://github.com/Live-Hack-CVE/CVE-2022-1930)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1930">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1930">
 
 ---
 ## CVE-2022-1927 (2022-05-29T14:15:00)

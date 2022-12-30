@@ -996,6 +996,11 @@
 - [Live-Hack-CVE/CVE-2020-36002](https://github.com/Live-Hack-CVE/CVE-2020-36002)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36002">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36002">
 
 ---
+## CVE-2020-35992 (2022-08-23T02:15:00)
+> Fiserv Prologue through 2020-12-16 does not properly protect the database password. If an attacker were to gain access to the configuration file (specifically, the LogPassword attribute within appconfig.ini), they would be able to decrypt the password stored within the configuration file. This would yield cleartext credentials for the database (to gain access to financial records of customers stored within the database), and in some cases would allow remote login to the database.
+- [Live-Hack-CVE/CVE-2020-35992](https://github.com/Live-Hack-CVE/CVE-2020-35992)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35992">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35992">
+
+---
 ## CVE-2020-35896 (2020-12-31T10:15:00)
 > An issue was discovered in the ws crate through 2020-09-25 for Rust. The outgoing buffer is not properly limited, leading to a remote memory-consumption attack.
 - [Live-Hack-CVE/CVE-2020-35896](https://github.com/Live-Hack-CVE/CVE-2020-35896)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35896">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35896">

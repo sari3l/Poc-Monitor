@@ -1210,6 +1210,11 @@
 - [Live-Hack-CVE/CVE-2019-25084](https://github.com/Live-Hack-CVE/CVE-2019-25084)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25084">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25084">
 
 ---
+## CVE-2019-25075 (2022-08-23T01:15:00)
+> HTML injection combined with path traversal in the Email service in Gravitee API Management before 1.25.3 allows anonymous users to read arbitrary files via a /management/users/register request.
+- [Live-Hack-CVE/CVE-2019-25075](https://github.com/Live-Hack-CVE/CVE-2019-25075)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25075">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25075">
+
+---
 ## CVE-2019-25013 (2021-01-04T18:15:00)
 > The iconv feature in the GNU C Library (aka glibc or libc6) through 2.32, when processing invalid multi-byte input sequences in the EUC-KR encoding, may have a buffer over-read.
 - [Live-Hack-CVE/CVE-2019-25013](https://github.com/Live-Hack-CVE/CVE-2019-25013)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25013">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25013">

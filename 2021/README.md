@@ -1223,6 +1223,11 @@
 - [ItsIgnacioPortal/CVE-2021-42237](https://github.com/ItsIgnacioPortal/CVE-2021-42237)	<img alt="forks" src="https://img.shields.io/github/forks/ItsIgnacioPortal/CVE-2021-42237">	<img alt="stars" src="https://img.shields.io/github/stars/ItsIgnacioPortal/CVE-2021-42237">
 
 ---
+## CVE-2021-42232 (2022-08-23T01:15:00)
+> TP-Link Archer A7 Archer A7(US)_V5_210519 is affected by a command injection vulnerability in /usr/bin/tddp. The vulnerability is caused by the program taking part of the received data packet as part of the command. This will cause an attacker to execute arbitrary commands on the router.
+- [Live-Hack-CVE/CVE-2021-42232](https://github.com/Live-Hack-CVE/CVE-2021-42232)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42232">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42232">
+
+---
 ## CVE-2021-42205 (2022-11-07T16:15:00)
 > ELAN Miniport touchpad Windows driver before 24.21.51.2, as used in PC hardware from multiple manufacturers, allows local users to cause a system crash by sending a certain IOCTL request, because that request is handled twice.
 - [Live-Hack-CVE/CVE-2021-42205](https://github.com/Live-Hack-CVE/CVE-2021-42205)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42205">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42205">
@@ -2998,6 +3003,11 @@
 ## CVE-2021-3747 (2021-10-01T03:15:00)
 > The MacOS version of Multipass, version 1.7.0, fixed in 1.7.2, accidentally installed the application directory with incorrect owner.
 - [Live-Hack-CVE/CVE-2021-3747](https://github.com/Live-Hack-CVE/CVE-2021-3747)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3747">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3747">
+
+---
+## CVE-2021-37412 (2021-09-15T17:15:00)
+> The TechRadar app 1.1 for Confluence Server allows XSS via the Title field of a Radar.
+- [Live-Hack-CVE/CVE-2021-37412](https://github.com/Live-Hack-CVE/CVE-2021-37412)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37412">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37412">
 
 ---
 ## CVE-2021-37404 (2022-06-13T07:15:00)
@@ -4983,6 +4993,11 @@
 ## CVE-2021-29923 (2021-08-07T17:15:00)
 > Go before 1.17 does not properly consider extraneous zero characters at the beginning of an IP address octet, which (in some situations) allows attackers to bypass access control that is based on IP addresses, because of unexpected octal interpretation. This affects net.ParseIP and net.ParseCIDR.
 - [Live-Hack-CVE/CVE-2021-29923](https://github.com/Live-Hack-CVE/CVE-2021-29923)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29923">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29923">
+
+---
+## CVE-2021-29891 (2022-08-22T20:15:00)
+> IBM OPENBMC OP910 and OP940 could allow a privileged user to upload an improper site identity certificate that may cause it to lose network services. IBM X-Force ID: 207221.
+- [Live-Hack-CVE/CVE-2021-29891](https://github.com/Live-Hack-CVE/CVE-2021-29891)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29891">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29891">
 
 ---
 ## CVE-2021-29864 (2022-08-30T19:15:00)
