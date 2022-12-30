@@ -22896,6 +22896,10 @@
 ## CVE-2022-2789 (2022-08-19T23:15:00)
 > Emerson Electric's Proficy Machine Edition Version 9.00 and prior is vulnerable to CWE-345 Insufficient Verification of Data Authenticity, and can display logic that is different than the compiled logic.
 - [Live-Hack-CVE/CVE-2022-2789](https://github.com/Live-Hack-CVE/CVE-2022-2789)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2789">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2789">
+- [Live-Hack-CVE/CVE-2022-27894](https://github.com/Live-Hack-CVE/CVE-2022-27894)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27894">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27894">
+- [Live-Hack-CVE/CVE-2022-27893](https://github.com/Live-Hack-CVE/CVE-2022-27893)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27893">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27893">
+- [Live-Hack-CVE/CVE-2022-27896](https://github.com/Live-Hack-CVE/CVE-2022-27896)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27896">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27896">
+- [Live-Hack-CVE/CVE-2022-27895](https://github.com/Live-Hack-CVE/CVE-2022-27895)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27895">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27895">
 
 ---
 ## CVE-2022-2788 (2022-08-19T21:15:00)
@@ -24311,6 +24315,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-2557 (2022-08-22T15:15:00)
 > The Team WordPress plugin before 4.1.2 contains a file which could allow any authenticated users to download arbitrary files from the server via a path traversal vector. Furthermore, the file will also be deleted after its content is returned to the user
 - [Live-Hack-CVE/CVE-2022-2557](https://github.com/Live-Hack-CVE/CVE-2022-2557)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2557">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2557">
+- [Live-Hack-CVE/CVE-2022-25574](https://github.com/Live-Hack-CVE/CVE-2022-25574)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25574">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25574">
 
 ---
 ## CVE-2022-2555 (2022-08-22T15:15:00)
