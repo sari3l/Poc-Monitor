@@ -19,6 +19,7 @@
 ## CVE-2003-0658 (2003-10-20T04:00:00)
 > Docview before 1.1-18 in Caldera OpenLinux 3.1.1, SCO Linux 4.0, OpenServer 5.0.7, configures the Apache web server in a way that allows remote attackers to read arbitrary publicly readable files via a certain URL, possibly related to rewrite rules.
 - [Live-Hack-CVE/CVE-2003-0658](https://github.com/Live-Hack-CVE/CVE-2003-0658)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2003-0658">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2003-0658">
+- [Live-Hack-CVE/CVE-2003-0658](https://github.com/Live-Hack-CVE/CVE-2003-0658)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2003-0658">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2003-0658">
 
 ---
 ## CVE-2003-0358 (2003-06-09T04:00:00)
