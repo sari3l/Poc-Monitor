@@ -13148,6 +13148,11 @@
 - [Live-Hack-CVE/CVE-2022-37772](https://github.com/Live-Hack-CVE/CVE-2022-37772)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37772">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37772">
 
 ---
+## CVE-2022-37768 (2022-08-18T20:15:00)
+> libjpeg commit 281daa9 was discovered to contain an infinite loop via the component Frame::ParseTrailer.
+- [Live-Hack-CVE/CVE-2022-37768](https://github.com/Live-Hack-CVE/CVE-2022-37768)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37768">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37768">
+
+---
 ## CVE-2022-37767 (2022-09-12T14:15:00)
 > ** DISPUTED ** Pebble Templates 3.1.5 allows attackers to bypass a protection mechanism and implement arbitrary code execution with springbok. NOTE: the vendor disputes this because input to the Pebble templating engine is intended to include arbitrary Java code, and thus either the input should not arrive from an untrusted source, or else the application using the engine should apply restrictions to the input. The engine is not responsible for validating the input.
 - [Live-Hack-CVE/CVE-2022-37767](https://github.com/Live-Hack-CVE/CVE-2022-37767)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37767">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37767">
@@ -13341,6 +13346,11 @@
 > Files or Directories Accessible to External Parties vulnerability in OpenNebula on Linux allows File Discovery.
 - [Live-Hack-CVE/CVE-2022-37424](https://github.com/Live-Hack-CVE/CVE-2022-37424)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37424">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37424">
 - [Live-Hack-CVE/CVE-2022-37424](https://github.com/Live-Hack-CVE/CVE-2022-37424)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37424">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37424">
+
+---
+## CVE-2022-37422 (2022-08-18T19:15:00)
+> Payara through 5.2022.2 allows directory traversal without authentication. This affects Payara Server, Payara Micro, and Payara Server Embedded.
+- [Live-Hack-CVE/CVE-2022-37422](https://github.com/Live-Hack-CVE/CVE-2022-37422)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37422">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37422">
 
 ---
 ## CVE-2022-37421 (2022-11-23T03:15:00)
@@ -24564,6 +24574,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-2497](https://github.com/Live-Hack-CVE/CVE-2022-2497)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2497">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2497">
 
 ---
+## CVE-2022-24946 (2022-06-15T21:15:00)
+> Improper Resource Locking vulnerability in Mitsubishi Electric MELSEC iQ-R Series R12CCPU-V firmware versions "16" and prior, Mitsubishi Electric MELSEC-Q Series Q03UDECPU the first 5 digits of serial No. "24061" and prior, Mitsubishi Electric MELSEC-Q Series Q04/06/10/13/20/26/50/100UDEHCPU the first 5 digits of serial No. "24061" and prior, Mitsubishi Electric MELSEC-Q Series Q03/04/06/13/26UDVCPU the first 5 digits of serial number "24051" and prior, Mitsubishi Electric MELSEC-Q Series Q04/06/13/26UDPVCPU the first 5 digits of serial number "24051" and prior, Mitsubishi Electric MELSEC-Q Series Q12DCCPU-V all versions, Mitsubishi Electric MELSEC-Q Series Q24DHCCPU-V(G) all versions, Mitsubishi Electric MELSEC-Q Series Q24/26DHCCPU-LS all versions, Mitsubishi Electric MELSEC-L series L02/06/26CPU(-P) the first 5 digits of serial number "24051" and prior, Mitsubishi Electric MELSEC-L series L26CPU-(P)BT the first 5 digits of serial number "24051" and prior and Mitsubishi Electric MELIPC Series MI5122-VW firmware versions "05" and prior allows a remote unauthenticated attacker to cause a denial of service (DoS) condition in Ethernet communications by sending specially crafted packets. A system reset of the products is required for recovery.
+- [Live-Hack-CVE/CVE-2022-24946](https://github.com/Live-Hack-CVE/CVE-2022-24946)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24946">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24946">
+
+---
 ## CVE-2022-24939 (2022-11-18T00:15:00)
 > A malformed packet containing an invalid destination address, causes a stack overflow in the Ember ZNet stack. This causes an assert which leads to a reset, immediately clearing the error.
 - [Live-Hack-CVE/CVE-2022-24939](https://github.com/Live-Hack-CVE/CVE-2022-24939)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24939">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24939">
@@ -27138,6 +27153,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 > Multiple vulnerabilities in the CLI of Cisco SD-WAN Software could allow an authenticated, local attacker to gain elevated privileges. These vulnerabilities are due to improper access controls on commands within the application CLI. An attacker could exploit these vulnerabilities by running a malicious command on the application CLI. A successful exploit could allow the attacker to execute arbitrary commands as the root user.
 - [Live-Hack-CVE/CVE-2022-20775](https://github.com/Live-Hack-CVE/CVE-2022-20775)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20775">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20775">
 - [Live-Hack-CVE/CVE-2022-20775](https://github.com/Live-Hack-CVE/CVE-2022-20775)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20775">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20775">
+
+---
+## CVE-2022-2074 (2022-08-19T09:15:00)
+> In affected versions of Octopus Deploy it is possible to perform a Regex Denial of Service using the Variable Project Template.
+- [Live-Hack-CVE/CVE-2022-2074](https://github.com/Live-Hack-CVE/CVE-2022-2074)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2074">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2074">
 
 ---
 ## CVE-2022-2069 (2022-10-20T17:15:00)
