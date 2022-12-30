@@ -13532,6 +13532,11 @@
 - [Live-Hack-CVE/CVE-2022-37258](https://github.com/Live-Hack-CVE/CVE-2022-37258)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37258">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37258">
 
 ---
+## CVE-2022-37254 (2022-08-19T17:15:00)
+> DolphinPHP 1.5.1 is vulnerable to Cross Site Scripting (XSS) via Background - > System - > system function - > configuration management.
+- [Live-Hack-CVE/CVE-2022-37254](https://github.com/Live-Hack-CVE/CVE-2022-37254)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37254">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37254">
+
+---
 ## CVE-2022-37251 (2022-09-16T22:15:00)
 > Craft CMS 4.2.0.1 is vulnerable to Cross Site Scripting (XSS) via Drafts.
 - [Live-Hack-CVE/CVE-2022-37251](https://github.com/Live-Hack-CVE/CVE-2022-37251)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37251">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37251">
@@ -14775,6 +14780,16 @@
 - [Live-Hack-CVE/CVE-2022-3658](https://github.com/Live-Hack-CVE/CVE-2022-3658)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3658">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3658">
 
 ---
+## CVE-2022-36579 (2022-08-19T17:15:00)
+> Wellcms 2.2.0 is vulnerable to Cross Site Request Forgery (CSRF).
+- [Live-Hack-CVE/CVE-2022-36579](https://github.com/Live-Hack-CVE/CVE-2022-36579)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36579">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36579">
+
+---
+## CVE-2022-36577 (2022-08-19T17:15:00)
+> An issue was discovered in jizhicms v2.3.1. There is a CSRF vulnerability that can add a admin.
+- [Live-Hack-CVE/CVE-2022-36577](https://github.com/Live-Hack-CVE/CVE-2022-36577)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36577">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36577">
+
+---
 ## CVE-2022-36573 (2022-08-29T00:15:00)
 > A cross-site scripting (XSS) vulnerability in Pagekit CMS v1.0.18 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Markdown text box under /blog/post/edit.
 - [Live-Hack-CVE/CVE-2022-36573](https://github.com/Live-Hack-CVE/CVE-2022-36573)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36573">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36573">
@@ -15314,6 +15329,11 @@
 - [Live-Hack-CVE/CVE-2022-36347](https://github.com/Live-Hack-CVE/CVE-2022-36347)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36347">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36347">
 
 ---
+## CVE-2022-36344 (2022-08-16T08:15:00)
+> An unquoted search path vulnerability exists in 'JustSystems JUST Online Update for J-License' bundled with multiple products for corporate users as in Ichitaro through Pro5 and others. Since the affected product starts another program with an unquoted file path, a malicious file may be executed with the privilege of the Windows service if it is placed in a certain path. Affected products are bundled with the following product series: Office and Office Integrated Software, ATOK, Hanako, JUST PDF, Shuriken, Homepage Builder, JUST School, JUST Smile Class, JUST Smile, JUST Frontier, JUST Jump, and Tri-De DetaProtect.
+- [Live-Hack-CVE/CVE-2022-36344](https://github.com/Live-Hack-CVE/CVE-2022-36344)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36344">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36344">
+
+---
 ## CVE-2022-36341 (2022-08-23T16:15:00)
 > Authenticated (subscriber+) plugin settings change leading to Stored Cross-Site Scripting (XSS) vulnerability in Akash soni's AS – Create Pinterest Pinboard Pages plugin <= 1.0 at WordPress.
 - [Live-Hack-CVE/CVE-2022-36341](https://github.com/Live-Hack-CVE/CVE-2022-36341)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36341">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36341">
@@ -15395,6 +15415,11 @@
 - [Live-Hack-CVE/CVE-2022-3627](https://github.com/Live-Hack-CVE/CVE-2022-3627)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3627">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3627">
 
 ---
+## CVE-2022-36263 (2022-08-19T15:15:00)
+> StreamLabs Desktop Application 1.9.0 is vulnerable to Incorrect Access Control via obs64.exe. An attacker can execute arbitrary code via a crafted .exe file.
+- [Live-Hack-CVE/CVE-2022-36263](https://github.com/Live-Hack-CVE/CVE-2022-36263)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36263">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36263">
+
+---
 ## CVE-2022-3626 (2022-10-21T16:15:00)
 > LibTIFF 4.4.0 has an out-of-bounds write in _TIFFmemset in libtiff/tif_unix.c:340 when called from processCropSelections, tools/tiffcrop.c:7619, allowing attackers to cause a denial-of-service via a crafted tiff file. For users that compile libtiff from sources, the fix is available with commit 236b7191.
 - [Live-Hack-CVE/CVE-2022-3626](https://github.com/Live-Hack-CVE/CVE-2022-3626)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3626">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3626">
@@ -15446,8 +15471,14 @@
 - [Live-Hack-CVE/CVE-2022-36226](https://github.com/Live-Hack-CVE/CVE-2022-36226)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36226">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36226">
 
 ---
+## CVE-2022-36225 (2022-08-19T17:15:00)
+> EyouCMS V1.5.8-UTF8-SP1 is vulnerable to Cross Site Request Forgery (CSRF) via the background, column management function and add.
+- [Live-Hack-CVE/CVE-2022-36225](https://github.com/Live-Hack-CVE/CVE-2022-36225)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36225">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36225">
+
+---
 ## CVE-2022-36224 (2022-08-19T17:15:00)
 > XunRuiCMS V4.5.6 is vulnerable to Cross Site Request Forgery (CSRF).
+- [Live-Hack-CVE/CVE-2022-36224](https://github.com/Live-Hack-CVE/CVE-2022-36224)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36224">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36224">
 - [Live-Hack-CVE/CVE-2022-36224](https://github.com/Live-Hack-CVE/CVE-2022-36224)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36224">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36224">
 
 ---
@@ -15455,6 +15486,11 @@
 > In Emby Server 4.6.7.0, the playlist name field is vulnerable to XSS stored where it is possible to steal the administrator access token and flip or steal the media server administrator account.
 - [Live-Hack-CVE/CVE-2022-36223](https://github.com/Live-Hack-CVE/CVE-2022-36223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36223">
 - [Live-Hack-CVE/CVE-2022-36223](https://github.com/Live-Hack-CVE/CVE-2022-36223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36223">
+
+---
+## CVE-2022-36220 (2022-08-19T13:15:00)
+> Kiosk breakout (without quit password) in Safe Exam Browser (Windows) <3.4.0, which allows an attacker to achieve code execution via the browsers' print dialog.
+- [Live-Hack-CVE/CVE-2022-36220](https://github.com/Live-Hack-CVE/CVE-2022-36220)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36220">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36220">
 
 ---
 ## CVE-2022-3621 (2022-10-20T20:15:00)
@@ -15517,6 +15553,7 @@
 ---
 ## CVE-2022-36171 (2022-08-19T22:15:00)
 > MapGIS IGServer 10.5.6.11 is vulnerable to Arbitrary file deletion.
+- [Live-Hack-CVE/CVE-2022-36171](https://github.com/Live-Hack-CVE/CVE-2022-36171)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36171">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36171">
 - [Live-Hack-CVE/CVE-2022-36171](https://github.com/Live-Hack-CVE/CVE-2022-36171)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36171">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36171">
 
 ---
@@ -16102,8 +16139,14 @@
 - [Live-Hack-CVE/CVE-2022-35979](https://github.com/Live-Hack-CVE/CVE-2022-35979)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35979">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35979">
 
 ---
+## CVE-2022-35976 (2022-08-18T19:15:00)
+> The GitOps Tools Extension for VSCode relies on kubeconfigs in order to communicate with Kubernetes clusters. A specially crafted kubeconfig leads to arbitrary code execution on behalf of the user running VSCode. Users relying on kubeconfigs that are generated or altered by other processes or users are affected by this issue. Please note that the vulnerability is specific to this extension, and the same kubeconfig would not result in arbitrary code execution when used with kubectl. Using only trust-worthy kubeconfigs is a safe mitigation. However, updating to the latest version of the extension is still highly recommended.
+- [Live-Hack-CVE/CVE-2022-35976](https://github.com/Live-Hack-CVE/CVE-2022-35976)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35976">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35976">
+
+---
 ## CVE-2022-35975 (2022-08-18T18:15:00)
 > The GitOps Tools Extension for VSCode can make it easier to manage Flux objects. A specially crafted Flux object may allow for remote code execution in the machine running the extension, in the context of the user that is running VSCode. Users using the VSCode extension to manage clusters that are shared amongst other users are affected by this issue. The only safe mitigation is to update to the latest version of the extension.
+- [Live-Hack-CVE/CVE-2022-35975](https://github.com/Live-Hack-CVE/CVE-2022-35975)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35975">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35975">
 - [Live-Hack-CVE/CVE-2022-35975](https://github.com/Live-Hack-CVE/CVE-2022-35975)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35975">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35975">
 
 ---
@@ -16955,6 +16998,7 @@
 ## CVE-2022-35213 (2022-08-18T20:15:00)
 > Ecommerce-CodeIgniter-Bootstrap before commit 56465f was discovered to contain a cross-site scripting (XSS) vulnerability via the function base_url() at /blog/blogpublish.php.
 - [Live-Hack-CVE/CVE-2022-35213](https://github.com/Live-Hack-CVE/CVE-2022-35213)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35213">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35213">
+- [Live-Hack-CVE/CVE-2022-35213](https://github.com/Live-Hack-CVE/CVE-2022-35213)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35213">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35213">
 
 ---
 ## CVE-2022-35212 (2022-08-18T20:15:00)
@@ -17391,35 +17435,42 @@
 ## CVE-2022-35013 (2022-08-16T21:15:00)
 > PNGDec commit 8abf6be was discovered to contain a FPE via SaveBMP at /linux/main.cpp.
 - [Live-Hack-CVE/CVE-2022-35013](https://github.com/Live-Hack-CVE/CVE-2022-35013)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35013">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35013">
+- [Live-Hack-CVE/CVE-2022-35013](https://github.com/Live-Hack-CVE/CVE-2022-35013)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35013">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35013">
 
 ---
 ## CVE-2022-35012 (2022-08-16T21:15:00)
 > PNGDec commit 8abf6be was discovered to contain a heap buffer overflow via SaveBMP at /linux/main.cpp.
+- [Live-Hack-CVE/CVE-2022-35012](https://github.com/Live-Hack-CVE/CVE-2022-35012)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35012">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35012">
 - [Live-Hack-CVE/CVE-2022-35012](https://github.com/Live-Hack-CVE/CVE-2022-35012)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35012">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35012">
 
 ---
 ## CVE-2022-35011 (2022-08-16T21:15:00)
 > PNGDec commit 8abf6be was discovered to contain a global buffer overflow via inflate_fast at /src/inffast.c.
 - [Live-Hack-CVE/CVE-2022-35011](https://github.com/Live-Hack-CVE/CVE-2022-35011)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35011">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35011">
+- [Live-Hack-CVE/CVE-2022-35011](https://github.com/Live-Hack-CVE/CVE-2022-35011)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35011">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35011">
 
 ---
 ## CVE-2022-35010 (2022-08-16T21:15:00)
 > PNGDec commit 8abf6be was discovered to contain a heap buffer overflow via asan_interceptors_memintrinsics.cpp.
+- [Live-Hack-CVE/CVE-2022-35010](https://github.com/Live-Hack-CVE/CVE-2022-35010)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35010">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35010">
 - [Live-Hack-CVE/CVE-2022-35010](https://github.com/Live-Hack-CVE/CVE-2022-35010)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35010">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35010">
 
 ---
 ## CVE-2022-35009 (2022-08-16T21:15:00)
 > PNGDec commit 8abf6be was discovered to contain a memory allocation problem via asan_malloc_linux.cpp.
 - [Live-Hack-CVE/CVE-2022-35009](https://github.com/Live-Hack-CVE/CVE-2022-35009)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35009">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35009">
+- [Live-Hack-CVE/CVE-2022-35009](https://github.com/Live-Hack-CVE/CVE-2022-35009)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35009">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35009">
 
 ---
 ## CVE-2022-35008 (2022-08-16T21:15:00)
 > PNGDec commit 8abf6be was discovered to contain a stack overflow via /linux/main.cpp.
 - [Live-Hack-CVE/CVE-2022-35008](https://github.com/Live-Hack-CVE/CVE-2022-35008)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35008">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35008">
+- [Live-Hack-CVE/CVE-2022-35008](https://github.com/Live-Hack-CVE/CVE-2022-35008)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35008">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35008">
 
 ---
 ## CVE-2022-35007 (2022-08-16T21:15:00)
 > PNGDec commit 8abf6be was discovered to contain a heap buffer overflow via __interceptor_fwrite.part.57 at sanitizer_common_interceptors.inc.
+- [Live-Hack-CVE/CVE-2022-35007](https://github.com/Live-Hack-CVE/CVE-2022-35007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35007">
 - [Live-Hack-CVE/CVE-2022-35007](https://github.com/Live-Hack-CVE/CVE-2022-35007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35007">
 
 ---
@@ -22476,6 +22527,11 @@
 - [Live-Hack-CVE/CVE-2022-28709](https://github.com/Live-Hack-CVE/CVE-2022-28709)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28709">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28709">
 
 ---
+## CVE-2022-28696 (2022-08-18T20:15:00)
+> Uncontrolled search path in the Intel(R) Distribution for Python before version 2022.0.3 may allow an authenticated user to potentially enable escalation of privilege via local access.
+- [Live-Hack-CVE/CVE-2022-28696](https://github.com/Live-Hack-CVE/CVE-2022-28696)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28696">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28696">
+
+---
 ## CVE-2022-28681 (2022-07-18T19:15:00)
 > This vulnerability allows remote attackers to disclose sensitive information on affected installations of Foxit PDF Reader 11.2.1.53537. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the deletePages method. By performing actions in JavaScript, an attacker can trigger a read past the end of an allocated object. An attacker can leverage this in conjunction with other vulnerabilities to execute arbitrary code in the context of the current process. Was ZDI-CAN-16825.
 - [Live-Hack-CVE/CVE-2022-28681](https://github.com/Live-Hack-CVE/CVE-2022-28681)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28681">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28681">
@@ -23112,6 +23168,7 @@
 ## CVE-2022-27500 (2022-08-18T20:15:00)
 > Incorrect default permissions for the Intel(R) Support Android application before 21.07.40 may allow an authenticated user to potentially enable information disclosure via local access.
 - [Live-Hack-CVE/CVE-2022-27500](https://github.com/Live-Hack-CVE/CVE-2022-27500)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27500">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27500">
+- [Live-Hack-CVE/CVE-2022-27500](https://github.com/Live-Hack-CVE/CVE-2022-27500)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27500">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27500">
 
 ---
 ## CVE-2022-27494 (2022-10-21T16:15:00)
@@ -23692,6 +23749,7 @@
 ## CVE-2022-26374 (2022-08-18T20:15:00)
 > Uncontrolled search path in the installation binaries for Intel(R) SEAPI all versions may allow an authenticated user to potentially enable escalation of privilege via local access.
 - [Live-Hack-CVE/CVE-2022-26374](https://github.com/Live-Hack-CVE/CVE-2022-26374)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26374">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26374">
+- [Live-Hack-CVE/CVE-2022-26374](https://github.com/Live-Hack-CVE/CVE-2022-26374)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26374">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26374">
 
 ---
 ## CVE-2022-2637 (2022-10-06T18:15:00)
@@ -23722,6 +23780,11 @@
 ## CVE-2022-26353 (2022-03-16T15:15:00)
 > A flaw was found in the virtio-net device of QEMU. This flaw was inadvertently introduced with the fix for CVE-2021-3748, which forgot to unmap the cached virtqueue elements on error, leading to memory leakage and other unexpected results. Affected QEMU version: 6.2.0.
 - [Live-Hack-CVE/CVE-2022-26353](https://github.com/Live-Hack-CVE/CVE-2022-26353)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26353">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26353">
+
+---
+## CVE-2022-26344 (2022-08-18T20:15:00)
+> Incorrect default permissions in the installation binaries for Intel(R) SEAPI all versions may allow an authenticated user to potentially enable escalation of privilege via local access.
+- [Live-Hack-CVE/CVE-2022-26344](https://github.com/Live-Hack-CVE/CVE-2022-26344)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26344">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26344">
 
 ---
 ## CVE-2022-26291 (2022-03-28T22:15:00)
@@ -26482,6 +26545,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-21814 (2022-02-07T20:15:00)
 > NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel driver package, where improper handling of insufficient permissions or privileges may allow an unprivileged local user limited write access to protected memory, which can lead to denial of service.
 - [Live-Hack-CVE/CVE-2022-21814](https://github.com/Live-Hack-CVE/CVE-2022-21814)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21814">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21814">
+
+---
+## CVE-2022-21807 (2022-08-18T20:15:00)
+> Uncontrolled search path elements in the Intel(R) VTune(TM) Profiler software before version 2022.2.0 may allow an authenticated user to potentially enable escalation of privilege via local access.
+- [Live-Hack-CVE/CVE-2022-21807](https://github.com/Live-Hack-CVE/CVE-2022-21807)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21807">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21807">
 
 ---
 ## CVE-2022-21797 (2022-09-26T05:15:00)
@@ -29581,6 +29649,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [z92g/CVE-2022-0543](https://github.com/z92g/CVE-2022-0543)	<img alt="forks" src="https://img.shields.io/github/forks/z92g/CVE-2022-0543">	<img alt="stars" src="https://img.shields.io/github/stars/z92g/CVE-2022-0543">
 - [aodsec/CVE-2022-0543](https://github.com/aodsec/CVE-2022-0543)	<img alt="forks" src="https://img.shields.io/github/forks/aodsec/CVE-2022-0543">	<img alt="stars" src="https://img.shields.io/github/stars/aodsec/CVE-2022-0543">
 - [JacobEbben/CVE-2022-0543](https://github.com/JacobEbben/CVE-2022-0543)	<img alt="forks" src="https://img.shields.io/github/forks/JacobEbben/CVE-2022-0543">	<img alt="stars" src="https://img.shields.io/github/stars/JacobEbben/CVE-2022-0543">
+
+---
+## CVE-2022-0542 (2022-08-19T18:15:00)
+> Cross-site Scripting (XSS) - DOM in GitHub repository chatwoot/chatwoot prior to 2.7.0.
+- [Live-Hack-CVE/CVE-2022-0542](https://github.com/Live-Hack-CVE/CVE-2022-0542)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0542">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0542">
 
 ---
 ## CVE-2022-0530 (2022-02-09T23:15:00)
