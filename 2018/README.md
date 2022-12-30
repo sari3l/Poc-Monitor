@@ -272,6 +272,11 @@
 - [Live-Hack-CVE/CVE-2018-3174](https://github.com/Live-Hack-CVE/CVE-2018-3174)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3174">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3174">
 
 ---
+## CVE-2018-3162 (2018-10-17T01:31:00)
+> Vulnerability in the MySQL Server component of Oracle MySQL (subcomponent: InnoDB). Supported versions that are affected are 5.7.23 and prior and 8.0.12 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.0 Base Score 4.9 (Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).
+- [Live-Hack-CVE/CVE-2018-3162](https://github.com/Live-Hack-CVE/CVE-2018-3162)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3162">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3162">
+
+---
 ## CVE-2018-2952 (2018-07-18T13:29:00)
 > Vulnerability in the Java SE, Java SE Embedded, JRockit component of Oracle Java SE (subcomponent: Concurrency). Supported versions that are affected are Java SE: 6u191, 7u181, 8u172 and 10.0.1; Java SE Embedded: 8u171; JRockit: R28.3.18. Difficult to exploit vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise Java SE, Java SE Embedded, JRockit. Successful attacks of this vulnerability can result in unauthorized ability to cause a partial denial of service (partial DOS) of Java SE, Java SE Embedded, JRockit. Note: Applies to client and server deployment of Java. This vulnerability can be exploited through sandboxed Java Web Start applications and sandboxed Java applets. It can also be exploited by supplying data to APIs in the specified Component without using sandboxed Java Web Start applications or sandboxed Java applets, such as through a web service. CVSS 3.0 Base Score 3.7 (Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:L).
 - [Live-Hack-CVE/CVE-2018-2952](https://github.com/Live-Hack-CVE/CVE-2018-2952)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-2952">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-2952">
@@ -297,10 +302,25 @@
 - [Live-Hack-CVE/CVE-2018-2783](https://github.com/Live-Hack-CVE/CVE-2018-2783)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-2783">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-2783">
 
 ---
+## CVE-2018-2781 (2018-04-19T02:29:00)
+> Vulnerability in the MySQL Server component of Oracle MySQL (subcomponent: Server: Optimizer). Supported versions that are affected are 5.5.59 and prior, 5.6.39 and prior and 5.7.21 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.0 Base Score 4.9 (Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).
+- [Live-Hack-CVE/CVE-2018-2781](https://github.com/Live-Hack-CVE/CVE-2018-2781)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-2781">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-2781">
+
+---
+## CVE-2018-2777 (2018-04-19T02:29:00)
+> Vulnerability in the MySQL Server component of Oracle MySQL (subcomponent: InnoDB). Supported versions that are affected are 5.7.21 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.0 Base Score 4.9 (Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).
+- [Live-Hack-CVE/CVE-2018-2777](https://github.com/Live-Hack-CVE/CVE-2018-2777)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-2777">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-2777">
+
+---
 ## CVE-2018-2771 (2018-04-19T02:29:00)
 > Vulnerability in the MySQL Server component of Oracle MySQL (subcomponent: Server: Locking). Supported versions that are affected are 5.5.59 and prior, 5.6.39 and prior and 5.7.21 and prior. Difficult to exploit vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.0 Base Score 4.4 (Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:H/PR:H/UI:N/S:U/C:N/I:N/A:H).
 - [Live-Hack-CVE/CVE-2018-2771](https://github.com/Live-Hack-CVE/CVE-2018-2771)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-2771">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-2771">
 - [Live-Hack-CVE/CVE-2018-2771](https://github.com/Live-Hack-CVE/CVE-2018-2771)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-2771">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-2771">
+
+---
+## CVE-2018-2759 (2018-04-19T02:29:00)
+> Vulnerability in the MySQL Server component of Oracle MySQL (subcomponent: InnoDB). Supported versions that are affected are 5.7.21 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.0 Base Score 4.9 (Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).
+- [Live-Hack-CVE/CVE-2018-2759](https://github.com/Live-Hack-CVE/CVE-2018-2759)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-2759">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-2759">
 
 ---
 ## CVE-2018-2628 (2018-04-19T02:29:00)

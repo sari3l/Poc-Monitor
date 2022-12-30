@@ -2321,6 +2321,11 @@
 - [Live-Hack-CVE/CVE-2020-24445](https://github.com/Live-Hack-CVE/CVE-2020-24445)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24445">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24445">
 
 ---
+## CVE-2020-24402 (2020-11-09T01:15:00)
+> Magento version 2.4.0 and 2.3.5p1 (and earlier) are affected by an incorrect permissions vulnerability in the Integrations component. This vulnerability could be abused by authenticated users with permissions to the Resource Access API to delete customer details via the REST API without authorization.
+- [Live-Hack-CVE/CVE-2020-24402](https://github.com/Live-Hack-CVE/CVE-2020-24402)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24402">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24402">
+
+---
 ## CVE-2020-24396 (2021-05-20T14:15:00)
 > homee Brain Cube v2 (2.28.2 and 2.28.4) devices have sensitive SSH keys within downloadable and unencrypted firmware images. This allows remote attackers to use the support server as a SOCKS proxy.
 - [Live-Hack-CVE/CVE-2020-24396](https://github.com/Live-Hack-CVE/CVE-2020-24396)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24396">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24396">

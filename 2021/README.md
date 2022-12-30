@@ -308,6 +308,21 @@
 - [cckuailong/Log4j_dos_CVE-2021-45105](https://github.com/cckuailong/Log4j_dos_CVE-2021-45105)	<img alt="forks" src="https://img.shields.io/github/forks/cckuailong/Log4j_dos_CVE-2021-45105">	<img alt="stars" src="https://img.shields.io/github/stars/cckuailong/Log4j_dos_CVE-2021-45105">
 
 ---
+## CVE-2021-45088 (2021-12-16T03:15:00)
+> XSS can occur in GNOME Web (aka Epiphany) before 40.4 and 41.x before 41.1 via an error page.
+- [Live-Hack-CVE/CVE-2021-45088](https://github.com/Live-Hack-CVE/CVE-2021-45088)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45088">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45088">
+
+---
+## CVE-2021-45087 (2021-12-16T03:15:00)
+> XSS can occur in GNOME Web (aka Epiphany) before 40.4 and 41.x before 41.1 when View Source mode or Reader mode is used, as demonstrated by a a page title.
+- [Live-Hack-CVE/CVE-2021-45087](https://github.com/Live-Hack-CVE/CVE-2021-45087)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45087">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45087">
+
+---
+## CVE-2021-45085 (2021-12-16T03:15:00)
+> XSS can occur in GNOME Web (aka Epiphany) before 40.4 and 41.x before 41.1 via an about: page, as demonstrated by ephy-about:overview when a user visits an XSS payload page often enough to place that page on the Most Visited list.
+- [Live-Hack-CVE/CVE-2021-45085](https://github.com/Live-Hack-CVE/CVE-2021-45085)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45085">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45085">
+
+---
 ## CVE-2021-45067 (2022-01-14T20:15:00)
 > Acrobat Reader DC version 21.007.20099 (and earlier), 20.004.30017 (and earlier) and 17.011.30204 (and earlier) are affected by an Access of Memory Location After End of Buffer vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
 - [hacksysteam/CVE-2021-45067](https://github.com/hacksysteam/CVE-2021-45067)	<img alt="forks" src="https://img.shields.io/github/forks/hacksysteam/CVE-2021-45067">	<img alt="stars" src="https://img.shields.io/github/stars/hacksysteam/CVE-2021-45067">
@@ -6928,6 +6943,41 @@
 - [Live-Hack-CVE/CVE-2021-21063](https://github.com/Live-Hack-CVE/CVE-2021-21063)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21063">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21063">
 
 ---
+## CVE-2021-21062 (2021-02-11T21:15:00)
+> Acrobat Reader DC versions versions 2020.013.20074 (and earlier), 2020.001.30018 (and earlier) and 2017.011.30188 (and earlier) are affected by a Memory corruption vulnerability when parsing a specially crafted PDF file. An unauthenticated attacker could leverage this vulnerability to achieve arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2021-21062](https://github.com/Live-Hack-CVE/CVE-2021-21062)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21062">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21062">
+
+---
+## CVE-2021-21059 (2021-02-11T21:15:00)
+> Acrobat Reader DC versions versions 2020.013.20074 (and earlier), 2020.001.30018 (and earlier) and 2017.011.30188 (and earlier) are affected by a Memory corruption vulnerability when parsing a specially crafted PDF file. An unauthenticated attacker could leverage this vulnerability to achieve arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2021-21059](https://github.com/Live-Hack-CVE/CVE-2021-21059)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21059">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21059">
+
+---
+## CVE-2021-21058 (2021-02-11T21:15:00)
+> Acrobat Reader DC versions versions 2020.013.20074 (and earlier), 2020.001.30018 (and earlier) and 2017.011.30188 (and earlier) are affected by a Memory corruption vulnerability when parsing a specially crafted PDF file. An unauthenticated attacker could leverage this vulnerability to achieve arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2021-21058](https://github.com/Live-Hack-CVE/CVE-2021-21058)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21058">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21058">
+
+---
+## CVE-2021-21048 (2021-02-11T21:15:00)
+> Adobe Photoshop versions 21.2.4 (and earlier) and 22.1.1 (and earlier) are affected by a Memory Corruption vulnerability when parsing a specially crafted file. An unauthenticated attacker could leverage this vulnerability to achieve arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file
+- [Live-Hack-CVE/CVE-2021-21048](https://github.com/Live-Hack-CVE/CVE-2021-21048)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21048">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21048">
+
+---
+## CVE-2021-21046 (2021-02-11T20:15:00)
+> Acrobat Reader DC versions versions 2020.013.20074 (and earlier), 2020.001.30018 (and earlier) and 2017.011.30188 (and earlier) are affected by an memory corruption vulnerability. An unauthenticated attacker could leverage this vulnerability to cause an application denial-of-service. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2021-21046](https://github.com/Live-Hack-CVE/CVE-2021-21046)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21046">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21046">
+
+---
+## CVE-2021-21022 (2021-02-11T20:15:00)
+> Magento versions 2.4.1 (and earlier), 2.4.0-p1 (and earlier) and 2.3.6 (and earlier) are vulnerable to an insecure direct object reference (IDOR) in the product module. Successful exploitation could lead to unauthorized access to restricted resources.
+- [Live-Hack-CVE/CVE-2021-21022](https://github.com/Live-Hack-CVE/CVE-2021-21022)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21022">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21022">
+
+---
+## CVE-2021-21012 (2021-01-13T23:15:00)
+> Magento versions 2.4.1 (and earlier), 2.4.0-p1 (and earlier) and 2.3.6 (and earlier) are vulnerable to an insecure direct object vulnerability (IDOR) in the checkout module. Successful exploitation could lead to sensitive information disclosure.
+- [Live-Hack-CVE/CVE-2021-21012](https://github.com/Live-Hack-CVE/CVE-2021-21012)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21012">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21012">
+
+---
 ## CVE-2021-20699 (2021-06-07T14:15:00)
 > Sharp NEC Displays ((UN462A R1.300 and prior to it, UN462VA R1.300 and prior to it, UN492S R1.300 and prior to it, UN492VS R1.300 and prior to it, UN552A R1.300 and prior to it, UN552S R1.300 and prior to it, UN552VS R1.300 and prior to it, UN552 R1.300 and prior to it, UN552V R1.300 and prior to it, UX552S R1.300 and prior to it, UX552 R1.300 and prior to it, V864Q R2.000 and prior to it, C861Q R2.000 and prior to it, P754Q R2.000 and prior to it, V754Q R2.000 and prior to it, C751Q R2.000 and prior to it, V984Q R2.000 and prior to it, C981Q R2.000 and prior to it, P654Q R2.000 and prior to it, V654Q R2.000 and prior to it, C651Q R2.000 and prior to it, V554Q R2.000 and prior to it, P404 R3.200 and prior to it, P484 R3.200 and prior to it, P554 R3.200 and prior to it, V404 R3.200 and prior to it, V484 R3.200 and prior to it, V554 R3.200 and prior to it, V404-T R3.200 and prior to it, V484-T R3.200 and prior to it, V554-T R3.200 and prior to it, C501 R2.000 and prior to it, C551 R2.000 and prior to it, C431 R2.000 and prior to it) allows an attacker a buffer overflow and to execute remote code by sending long parameters that contains specific characters in http request.
 - [Live-Hack-CVE/CVE-2021-20699](https://github.com/Live-Hack-CVE/CVE-2021-20699)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20699">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20699">
@@ -7084,6 +7134,11 @@
 ## CVE-2021-1589 (2021-09-23T03:15:00)
 > A vulnerability in the disaster recovery feature of Cisco SD-WAN vManage Software could allow an authenticated, remote attacker to gain unauthorized access to user credentials. This vulnerability exists because access to API endpoints is not properly restricted. An attacker could exploit this vulnerability by sending a request to an API endpoint. A successful exploit could allow the attacker to gain unauthorized access to administrative credentials that could be used in further attacks.
 - [Live-Hack-CVE/CVE-2021-1589](https://github.com/Live-Hack-CVE/CVE-2021-1589)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-1589">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-1589">
+
+---
+## CVE-2021-1585 (2021-07-08T19:15:00)
+> A vulnerability in the Cisco Adaptive Security Device Manager (ASDM) Launcher could allow an unauthenticated, remote attacker to execute arbitrary code on a user's operating system. This vulnerability is due to a lack of proper signature verification for specific code exchanged between the ASDM and the Launcher. An attacker could exploit this vulnerability by leveraging a man-in-the-middle position on the network to intercept the traffic between the Launcher and the ASDM and then inject arbitrary code. A successful exploit could allow the attacker to execute arbitrary code on the user's operating system with the level of privileges assigned to the ASDM Launcher. A successful exploit may require the attacker to perform a social engineering attack to persuade the user to initiate communication from the Launcher to the ASDM.
+- [Live-Hack-CVE/CVE-2021-1585](https://github.com/Live-Hack-CVE/CVE-2021-1585)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-1585">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-1585">
 
 ---
 ## CVE-2021-1583 (2021-08-25T20:15:00)
@@ -7288,6 +7343,21 @@
 ## CVE-2021-0204 (2021-01-15T18:15:00)
 > A sensitive information disclosure vulnerability in delta-export configuration utility (dexp) of Juniper Networks Junos OS may allow a locally authenticated shell user the ability to create and read database files generated by the dexp utility, including password hashes of local users. Since dexp is shipped with setuid permissions enabled and is owned by the root user, this vulnerability may allow a local privileged user the ability to run dexp with root privileges and access sensitive information in the dexp database. This issue affects Juniper Networks Junos OS: 15.1 versions prior to 15.1R7-S8; 15.1X49 versions prior to 15.1X49-D230; 17.3 versions prior to 17.3R3-S9; 17.4 versions prior to 17.4R2-S12, 17.4R3-S3; 18.1 versions prior to 18.1R3-S11; 18.2 versions prior to 18.2R3-S6; 18.2X75 versions prior to 18.2X75-D34; 18.3 versions prior to 18.3R3-S4; 18.4 versions prior to 18.4R2-S7, 18.4R3-S6; 19.1 versions prior to 19.1R1-S6, 19.1R2-S2, 19.1R3-S3; 19.2 versions prior to 19.2R1-S5, 19.2R3-S1; 19.3 versions prior to 19.3R2-S5, 19.3R3-S1; 19.4 versions prior to 19.4R1-S3, 19.4R2-S2, 19.4R3-S1; 20.1 versions prior to 20.1R1-S4, 20.1R2; 20.2 versions prior to 20.2R1-S2, 20.2R2.
 - [Live-Hack-CVE/CVE-2021-0204](https://github.com/Live-Hack-CVE/CVE-2021-0204)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-0204">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-0204">
+
+---
+## CVE-2021-0189 (2022-05-12T17:15:00)
+> Use of out-of-range pointer offset in the BIOS firmware for some Intel(R) Processors may allow a privileged user to potentially enable aescalation of privilege via local access.
+- [Live-Hack-CVE/CVE-2021-0189](https://github.com/Live-Hack-CVE/CVE-2021-0189)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-0189">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-0189">
+
+---
+## CVE-2021-0159 (2022-05-12T17:15:00)
+> Improper input validation in the BIOS authenticated code module for some Intel(R) Processors may allow a privileged user to potentially enable aescalation of privilege via local access.
+- [Live-Hack-CVE/CVE-2021-0159](https://github.com/Live-Hack-CVE/CVE-2021-0159)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-0159">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-0159">
+
+---
+## CVE-2021-0155 (2022-05-12T17:15:00)
+> Unchecked return value in the BIOS firmware for some Intel(R) Processors may allow a privileged user to potentially enable information disclosure via local access.
+- [Live-Hack-CVE/CVE-2021-0155](https://github.com/Live-Hack-CVE/CVE-2021-0155)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-0155">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-0155">
 
 ---
 ## CVE-2021-0154 (2022-05-12T17:15:00)

@@ -24529,6 +24529,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-25090](https://github.com/Live-Hack-CVE/CVE-2022-25090)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25090">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25090">
 
 ---
+## CVE-2022-2509 (2022-08-01T14:15:00)
+> A vulnerability found in gnutls. This security flaw happens because of a double free error occurs during verification of pkcs7 signatures in gnutls_pkcs7_verify function.
+- [Live-Hack-CVE/CVE-2022-2509](https://github.com/Live-Hack-CVE/CVE-2022-2509)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2509">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2509">
+
+---
 ## CVE-2022-25089 (2022-03-03T00:15:00)
 > Printix Secure Cloud Print Management through 1.3.1106.0 incorrectly uses Privileged APIs to modify values in HKEY_LOCAL_MACHINE via UITasks.PersistentRegistryData.
 - [Live-Hack-CVE/CVE-2022-25089](https://github.com/Live-Hack-CVE/CVE-2022-25089)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25089">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25089">
@@ -24915,6 +24920,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 > Access to external entities when parsing XML documents can lead to XML external entity (XXE) attacks. This flaw allows a remote attacker to potentially retrieve the content of arbitrary files by sending specially crafted HTTP requests.
 - [superhac/CVE-2022-2414-POC](https://github.com/superhac/CVE-2022-2414-POC)	<img alt="forks" src="https://img.shields.io/github/forks/superhac/CVE-2022-2414-POC">	<img alt="stars" src="https://img.shields.io/github/stars/superhac/CVE-2022-2414-POC">
 - [amitlttwo/CVE-2022-2414-Proof-Of-Concept](https://github.com/amitlttwo/CVE-2022-2414-Proof-Of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/amitlttwo/CVE-2022-2414-Proof-Of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/amitlttwo/CVE-2022-2414-Proof-Of-Concept">
+
+---
+## CVE-2022-24130 (2022-01-31T05:15:00)
+> xterm through Patch 370, when Sixel support is enabled, allows attackers to trigger a buffer overflow in set_sixel in graphics_sixel.c via crafted text.
+- [Live-Hack-CVE/CVE-2022-24130](https://github.com/Live-Hack-CVE/CVE-2022-24130)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24130">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24130">
 
 ---
 ## CVE-2022-24124 (2022-01-29T23:15:00)
@@ -25585,6 +25595,21 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-23036 (2022-03-10T20:15:00)
 > Linux PV device frontends vulnerable to attacks by backends T[his CNA information record relates to multiple CVEs; the text explains which aspects/vulnerabilities correspond to which CVE.] Several Linux PV device frontends are using the grant table interfaces for removing access rights of the backends in ways being subject to race conditions, resulting in potential data leaks, data corruption by malicious backends, and denial of service triggered by malicious backends: blkfront, netfront, scsifront and the gntalloc driver are testing whether a grant reference is still in use. If this is not the case, they assume that a following removal of the granted access will always succeed, which is not true in case the backend has mapped the granted page between those two operations. As a result the backend can keep access to the memory page of the guest no matter how the page will be used after the frontend I/O has finished. The xenbus driver has a similar problem, as it doesn't check the success of removing the granted access of a shared ring buffer. blkfront: CVE-2022-23036 netfront: CVE-2022-23037 scsifront: CVE-2022-23038 gntalloc: CVE-2022-23039 xenbus: CVE-2022-23040 blkfront, netfront, scsifront, usbfront, dmabuf, xenbus, 9p, kbdfront, and pvcalls are using a functionality to delay freeing a grant reference until it is no longer in use, but the freeing of the related data page is not synchronized with dropping the granted access. As a result the backend can keep access to the memory page even after it has been freed and then re-used for a different purpose. CVE-2022-23041 netfront will fail a BUG_ON() assertion if it fails to revoke access in the rx path. This will result in a Denial of Service (DoS) situation of the guest which can be triggered by the backend. CVE-2022-23042
 - [Live-Hack-CVE/CVE-2022-23036](https://github.com/Live-Hack-CVE/CVE-2022-23036)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23036">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23036">
+
+---
+## CVE-2022-23035 (2022-01-25T14:15:00)
+> Insufficient cleanup of passed-through device IRQs The management of IRQs associated with physical devices exposed to x86 HVM guests involves an iterative operation in particular when cleaning up after the guest's use of the device. In the case where an interrupt is not quiescent yet at the time this cleanup gets invoked, the cleanup attempt may be scheduled to be retried. When multiple interrupts are involved, this scheduling of a retry may get erroneously skipped. At the same time pointers may get cleared (resulting in a de-reference of NULL) and freed (resulting in a use-after-free), while other code would continue to assume them to be valid.
+- [Live-Hack-CVE/CVE-2022-23035](https://github.com/Live-Hack-CVE/CVE-2022-23035)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23035">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23035">
+
+---
+## CVE-2022-23034 (2022-01-25T14:15:00)
+> A PV guest could DoS Xen while unmapping a grant To address XSA-380, reference counting was introduced for grant mappings for the case where a PV guest would have the IOMMU enabled. PV guests can request two forms of mappings. When both are in use for any individual mapping, unmapping of such a mapping can be requested in two steps. The reference count for such a mapping would then mistakenly be decremented twice. Underflow of the counters gets detected, resulting in the triggering of a hypervisor bug check.
+- [Live-Hack-CVE/CVE-2022-23034](https://github.com/Live-Hack-CVE/CVE-2022-23034)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23034">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23034">
+
+---
+## CVE-2022-23033 (2022-01-25T14:15:00)
+> arm: guest_physmap_remove_page not removing the p2m mappings The functions to remove one or more entries from a guest p2m pagetable on Arm (p2m_remove_mapping, guest_physmap_remove_page, and p2m_set_entry with mfn set to INVALID_MFN) do not actually clear the pagetable entry if the entry doesn't have the valid bit set. It is possible to have a valid pagetable entry without the valid bit set when a guest operating system uses set/way cache maintenance instructions. For instance, a guest issuing a set/way cache maintenance instruction, then calling the XENMEM_decrease_reservation hypercall to give back memory pages to Xen, might be able to retain access to those pages even after Xen started reusing them for other purposes.
+- [Live-Hack-CVE/CVE-2022-23033](https://github.com/Live-Hack-CVE/CVE-2022-23033)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23033">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23033">
 
 ---
 ## CVE-2022-23006 (2022-09-27T23:15:00)
@@ -26512,6 +26537,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-21881 (2022-01-11T21:15:00)
 > Windows Kernel Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-21879.
 - [theabysslabs/CVE-2022-21881](https://github.com/theabysslabs/CVE-2022-21881)	<img alt="forks" src="https://img.shields.io/github/forks/theabysslabs/CVE-2022-21881">	<img alt="stars" src="https://img.shields.io/github/stars/theabysslabs/CVE-2022-21881">
+- [Live-Hack-CVE/CVE-2022-21881](https://github.com/Live-Hack-CVE/CVE-2022-21881)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21881">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21881">
 
 ---
 ## CVE-2022-2188 (2022-11-07T12:15:00)
@@ -26663,6 +26689,16 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [APTIRAN/CVE-2022-21661](https://github.com/APTIRAN/CVE-2022-21661)	<img alt="forks" src="https://img.shields.io/github/forks/APTIRAN/CVE-2022-21661">	<img alt="stars" src="https://img.shields.io/github/stars/APTIRAN/CVE-2022-21661">
 
 ---
+## CVE-2022-2165 (2022-07-28T01:15:00)
+> Insufficient data validation in URL formatting in Google Chrome prior to 103.0.5060.53 allowed a remote attacker to perform domain spoofing via IDN homographs via a crafted domain name.
+- [Live-Hack-CVE/CVE-2022-2165](https://github.com/Live-Hack-CVE/CVE-2022-2165)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2165">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2165">
+
+---
+## CVE-2022-2164 (2022-07-28T01:15:00)
+> Inappropriate implementation in Extensions API in Google Chrome prior to 103.0.5060.53 allowed an attacker who convinced a user to install a malicious extension to bypass discretionary access control via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-2164](https://github.com/Live-Hack-CVE/CVE-2022-2164)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2164">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2164">
+
+---
 ## CVE-2022-21639 (2022-10-18T21:15:00)
 > Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Elastic Search Integration). Supported versions that are affected are 8.59 and 8.60. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise PeopleSoft Enterprise PeopleTools. Successful attacks require human interaction from a person other than the attacker and while the vulnerability is in PeopleSoft Enterprise PeopleTools, attacks may significantly impact additional products (scope change). Successful attacks of this vulnerability can result in unauthorized update, insert or delete access to some of PeopleSoft Enterprise PeopleTools accessible data as well as unauthorized read access to a subset of PeopleSoft Enterprise PeopleTools accessible data. CVSS 3.1 Base Score 6.1 (Confidentiality and Integrity impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N).
 - [Live-Hack-CVE/CVE-2022-21639](https://github.com/Live-Hack-CVE/CVE-2022-21639)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21639">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21639">
@@ -26720,6 +26756,21 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ---
 ## CVE-2022-21620 (2022-10-18T21:15:00)
 > Vulnerability in the Oracle VM VirtualBox product of Oracle Virtualization (component: Core). Supported versions that are affected are Prior to 6.1.40. Difficult to exploit vulnerability allows high privileged attacker with logon to the infrastructure where Oracle VM VirtualBox executes to compromise Oracle VM VirtualBox. While the vulnerability is in Oracle VM VirtualBox, attacks may significantly impact additional products (scope change). Successful attacks of this vulnerability can result in takeover of Oracle VM VirtualBox. CVSS 3.1 Base Score 7.5 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:L/AC:H/PR:H/UI:N/S:C/C:H/I:H/A:H).
+- [Live-Hack-CVE/CVE-2022-21620](https://github.com/Live-Hack-CVE/CVE-2022-21620)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21620">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21620">
+
+---
+## CVE-2022-2162 (2022-07-28T01:15:00)
+> Insufficient policy enforcement in File System API in Google Chrome on Windows prior to 103.0.5060.53 allowed a remote attacker to bypass file system access via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2022-2162](https://github.com/Live-Hack-CVE/CVE-2022-2162)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2162">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2162">
+- [Live-Hack-CVE/CVE-2022-21629](https://github.com/Live-Hack-CVE/CVE-2022-21629)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21629">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21629">
+- [Live-Hack-CVE/CVE-2022-21622](https://github.com/Live-Hack-CVE/CVE-2022-21622)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21622">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21622">
+- [Live-Hack-CVE/CVE-2022-21623](https://github.com/Live-Hack-CVE/CVE-2022-21623)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21623">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21623">
+- [Live-Hack-CVE/CVE-2022-21625](https://github.com/Live-Hack-CVE/CVE-2022-21625)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21625">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21625">
+- [Live-Hack-CVE/CVE-2022-21628](https://github.com/Live-Hack-CVE/CVE-2022-21628)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21628">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21628">
+- [Live-Hack-CVE/CVE-2022-21626](https://github.com/Live-Hack-CVE/CVE-2022-21626)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21626">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21626">
+- [Live-Hack-CVE/CVE-2022-21624](https://github.com/Live-Hack-CVE/CVE-2022-21624)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21624">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21624">
+- [Live-Hack-CVE/CVE-2022-21627](https://github.com/Live-Hack-CVE/CVE-2022-21627)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21627">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21627">
+- [Live-Hack-CVE/CVE-2022-21621](https://github.com/Live-Hack-CVE/CVE-2022-21621)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21621">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21621">
 - [Live-Hack-CVE/CVE-2022-21620](https://github.com/Live-Hack-CVE/CVE-2022-21620)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21620">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21620">
 
 ---

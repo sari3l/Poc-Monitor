@@ -1666,6 +1666,11 @@
 - [Live-Hack-CVE/CVE-2019-15604](https://github.com/Live-Hack-CVE/CVE-2019-15604)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-15604">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-15604">
 
 ---
+## CVE-2019-1559 (2019-02-27T23:29:00)
+> If an application encounters a fatal protocol error and then calls SSL_shutdown() twice (once to send a close_notify, and once to receive one) then OpenSSL can respond differently to the calling application if a 0 byte record is received with invalid padding compared to if a 0 byte record is received with an invalid MAC. If the application then behaves differently based on that in a way that is detectable to the remote peer, then this amounts to a padding oracle that could be used to decrypt data. In order for this to be exploitable "non-stitched" ciphersuites must be in use. Stitched ciphersuites are optimised implementations of certain commonly used ciphersuites. Also the application must call SSL_shutdown() twice even if a protocol error has occurred (applications should not do this but some do anyway). Fixed in OpenSSL 1.0.2r (Affected 1.0.2-1.0.2q).
+- [Live-Hack-CVE/CVE-2019-1559](https://github.com/Live-Hack-CVE/CVE-2019-1559)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-1559">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-1559">
+
+---
 ## CVE-2019-15514 (2019-08-23T13:15:00)
 > The Privacy > Phone Number feature in the Telegram app 5.10 for Android and iOS provides an incorrect indication that the access level is Nobody, because attackers can find these numbers via the Group Info feature, e.g., by adding a significant fraction of a region's assigned phone numbers.
 - [graysuit/CVE-2019-15514](https://github.com/graysuit/CVE-2019-15514)	<img alt="forks" src="https://img.shields.io/github/forks/graysuit/CVE-2019-15514">	<img alt="stars" src="https://img.shields.io/github/stars/graysuit/CVE-2019-15514">
