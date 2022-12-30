@@ -11634,6 +11634,7 @@
 ## CVE-2022-38463 (2022-08-23T19:15:00)
 > ServiceNow through San Diego Patch 4b and Patch 6 allows reflected XSS in the logout functionality.
 - [Live-Hack-CVE/CVE-2022-38463](https://github.com/Live-Hack-CVE/CVE-2022-38463)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38463">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38463">
+- [Live-Hack-CVE/CVE-2022-38463](https://github.com/Live-Hack-CVE/CVE-2022-38463)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38463">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38463">
 
 ---
 ## CVE-2022-38460 (2022-09-23T15:15:00)
@@ -12150,6 +12151,7 @@
 ---
 ## CVE-2022-38172 (2022-08-23T19:15:00)
 > ServiceNow through San Diego Patch 3 allows XSS via the name field during creation of a new dashboard for the Performance Analytics dashboard.
+- [Live-Hack-CVE/CVE-2022-38172](https://github.com/Live-Hack-CVE/CVE-2022-38172)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38172">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38172">
 - [Live-Hack-CVE/CVE-2022-38172](https://github.com/Live-Hack-CVE/CVE-2022-38172)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38172">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38172">
 
 ---
@@ -21121,6 +21123,11 @@
 - [Live-Hack-CVE/CVE-2022-30550](https://github.com/Live-Hack-CVE/CVE-2022-30550)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30550">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30550">
 
 ---
+## CVE-2022-30547 (2022-08-22T19:15:00)
+> A directory traversal vulnerability exists in the unzipDirectory functionality of WWBN AVideo 11.6 and dev master commit 3f7c0364. A specially-crafted HTTP request can lead to arbitrary command execution. An attacker can send an HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2022-30547](https://github.com/Live-Hack-CVE/CVE-2022-30547)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30547">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30547">
+
+---
 ## CVE-2022-30545 (2022-11-08T19:15:00)
 > Auth. Reflected Cross-Site Scripting (XSS) vulnerability in 5 Anker Connect plugin <= 1.2.6 on WordPress.
 - [Live-Hack-CVE/CVE-2022-30545](https://github.com/Live-Hack-CVE/CVE-2022-30545)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30545">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30545">
@@ -21728,6 +21735,7 @@
 ## CVE-2022-2965 (2022-08-23T16:15:00)
 > Improper Restriction of Rendered UI Layers or Frames in GitHub repository notrinos/notrinoserp prior to 0.7.
 - [Live-Hack-CVE/CVE-2022-2965](https://github.com/Live-Hack-CVE/CVE-2022-2965)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2965">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2965">
+- [Live-Hack-CVE/CVE-2022-2965](https://github.com/Live-Hack-CVE/CVE-2022-2965)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2965">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2965">
 
 ---
 ## CVE-2022-29649 (2022-09-15T15:15:00)
@@ -21800,6 +21808,11 @@
 ## CVE-2022-2957 (2022-08-25T06:15:00)
 > A vulnerability classified as critical was found in SourceCodester Simple and Nice Shopping Cart Script. Affected by this vulnerability is an unknown functionality of the file /mkshop/Men/profile.php. The manipulation of the argument mem_id leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-207001 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-2957](https://github.com/Live-Hack-CVE/CVE-2022-2957)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2957">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2957">
+
+---
+## CVE-2022-2956 (2022-08-23T11:15:00)
+> A vulnerability classified as problematic has been found in ConsoleTVs Noxen. Affected is an unknown function of the file /Noxen-master/users.php. The manipulation of the argument create_user_username with the input "><script>alert(/xss/)</script> leads to cross site scripting. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-207000.
+- [Live-Hack-CVE/CVE-2022-2956](https://github.com/Live-Hack-CVE/CVE-2022-2956)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2956">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2956">
 
 ---
 ## CVE-2022-29554 ()
@@ -25126,6 +25139,20 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-23451](https://github.com/Live-Hack-CVE/CVE-2022-23451)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23451">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23451">
 
 ---
+## CVE-2022-2345 (2022-07-08T22:15:00)
+> Use After Free in GitHub repository vim/vim prior to 9.0.0046.
+- [Live-Hack-CVE/CVE-2022-2345](https://github.com/Live-Hack-CVE/CVE-2022-2345)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2345">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2345">
+- [Live-Hack-CVE/CVE-2022-23452](https://github.com/Live-Hack-CVE/CVE-2022-23452)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23452">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23452">
+- [Live-Hack-CVE/CVE-2022-23451](https://github.com/Live-Hack-CVE/CVE-2022-23451)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23451">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23451">
+- [Live-Hack-CVE/CVE-2022-23458](https://github.com/Live-Hack-CVE/CVE-2022-23458)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23458">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23458">
+- [Live-Hack-CVE/CVE-2022-23457](https://github.com/Live-Hack-CVE/CVE-2022-23457)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23457">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23457">
+
+---
+## CVE-2022-2343 (2022-07-08T18:15:00)
+> Heap-based Buffer Overflow in GitHub repository vim/vim prior to 9.0.0044.
+- [Live-Hack-CVE/CVE-2022-2343](https://github.com/Live-Hack-CVE/CVE-2022-2343)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2343">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2343">
+
+---
 ## CVE-2022-2338 (2022-08-17T21:15:00)
 > Softing Secure Integration Server V1.22 is vulnerable to authentication bypass via a machine-in-the-middle attack. The default the administration interface is accessible via plaintext HTTP protocol, facilitating the attack. The HTTP request may contain the session cookie in the request, which may be captured for use in authenticating to the server.
 - [Live-Hack-CVE/CVE-2022-2338](https://github.com/Live-Hack-CVE/CVE-2022-2338)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2338">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2338">
@@ -25163,6 +25190,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-23277 (2022-03-09T17:15:00)
 > Microsoft Exchange Server Remote Code Execution Vulnerability.
 - [7BitsTeam/CVE-2022-23277](https://github.com/7BitsTeam/CVE-2022-23277)	<img alt="forks" src="https://img.shields.io/github/forks/7BitsTeam/CVE-2022-23277">	<img alt="stars" src="https://img.shields.io/github/stars/7BitsTeam/CVE-2022-23277">
+- [Live-Hack-CVE/CVE-2022-23277](https://github.com/Live-Hack-CVE/CVE-2022-23277)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23277">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23277">
 - [Live-Hack-CVE/CVE-2022-23277](https://github.com/Live-Hack-CVE/CVE-2022-23277)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23277">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23277">
 
 ---
@@ -25492,6 +25520,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-2287](https://github.com/Live-Hack-CVE/CVE-2022-2287)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2287">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2287">
 
 ---
+## CVE-2022-2286 (2022-07-02T19:15:00)
+> Out-of-bounds Read in GitHub repository vim/vim prior to 9.0.
+- [Live-Hack-CVE/CVE-2022-2286](https://github.com/Live-Hack-CVE/CVE-2022-2286)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2286">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2286">
+
+---
 ## CVE-2022-2285 (2022-07-02T16:15:00)
 > Integer Overflow or Wraparound in GitHub repository vim/vim prior to 9.0.
 - [Live-Hack-CVE/CVE-2022-2285](https://github.com/Live-Hack-CVE/CVE-2022-2285)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2285">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2285">
@@ -25501,6 +25534,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 > LibTIFF 4.3.0 has an out-of-bounds read in _TIFFmemcpy in tif_unix.c in certain situations involving a custom tag and 0x0200 as the second word of the DE field.
 - [Live-Hack-CVE/CVE-2022-22844](https://github.com/Live-Hack-CVE/CVE-2022-22844)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22844">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22844">
 - [Live-Hack-CVE/CVE-2022-22844](https://github.com/Live-Hack-CVE/CVE-2022-22844)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22844">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22844">
+
+---
+## CVE-2022-2284 (2022-07-02T15:15:00)
+> Heap-based Buffer Overflow in GitHub repository vim/vim prior to 9.0.
+- [Live-Hack-CVE/CVE-2022-2284](https://github.com/Live-Hack-CVE/CVE-2022-2284)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2284">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2284">
 
 ---
 ## CVE-2022-22835 (2022-03-10T17:45:00)
@@ -25749,6 +25787,13 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-22577 (2022-05-26T17:15:00)
 > An XSS Vulnerability in Action Pack >= 5.2.0 and < 5.2.0 that could allow an attacker to bypass CSP for non HTML like responses.
 - [Live-Hack-CVE/CVE-2022-22577](https://github.com/Live-Hack-CVE/CVE-2022-22577)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22577">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22577">
+
+---
+## CVE-2022-2257 (2022-06-30T21:15:00)
+> Out-of-bounds Read in GitHub repository vim/vim prior to 9.0.
+- [Live-Hack-CVE/CVE-2022-2257](https://github.com/Live-Hack-CVE/CVE-2022-2257)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2257">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2257">
+- [Live-Hack-CVE/CVE-2022-22577](https://github.com/Live-Hack-CVE/CVE-2022-22577)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22577">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22577">
+- [Live-Hack-CVE/CVE-2022-22576](https://github.com/Live-Hack-CVE/CVE-2022-22576)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22576">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22576">
 
 ---
 ## CVE-2022-2255 (2022-08-25T18:15:00)
@@ -26029,6 +26074,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-2208 (2022-06-27T13:15:00)
 > NULL Pointer Dereference in GitHub repository vim/vim prior to 8.2.5163.
 - [Live-Hack-CVE/CVE-2022-2208](https://github.com/Live-Hack-CVE/CVE-2022-2208)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2208">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2208">
+- [Live-Hack-CVE/CVE-2022-2208](https://github.com/Live-Hack-CVE/CVE-2022-2208)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2208">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2208">
 
 ---
 ## CVE-2022-22078 (2022-10-19T11:15:00)
@@ -26074,6 +26120,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-22061 (2022-09-02T12:15:00)
 > Out of bounds writing is possible while verifying device IDs due to improper length check before copying the data in Snapdragon Compute, Snapdragon Connectivity, Snapdragon Mobile
 - [Live-Hack-CVE/CVE-2022-22061](https://github.com/Live-Hack-CVE/CVE-2022-22061)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22061">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22061">
+
+---
+## CVE-2022-2206 (2022-06-26T19:15:00)
+> Out-of-bounds Read in GitHub repository vim/vim prior to 8.2.
+- [Live-Hack-CVE/CVE-2022-2206](https://github.com/Live-Hack-CVE/CVE-2022-2206)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2206">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2206">
 
 ---
 ## CVE-2022-22059 (2022-09-02T12:15:00)
@@ -26219,6 +26270,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-21824](https://github.com/Live-Hack-CVE/CVE-2022-21824)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21824">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21824">
 
 ---
+## CVE-2022-2182 (2022-06-23T18:15:00)
+> Heap-based Buffer Overflow in GitHub repository vim/vim prior to 8.2.
+- [Live-Hack-CVE/CVE-2022-2182](https://github.com/Live-Hack-CVE/CVE-2022-2182)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2182">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2182">
+
+---
 ## CVE-2022-21814 (2022-02-07T20:15:00)
 > NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel driver package, where improper handling of insufficient permissions or privileges may allow an unprivileged local user limited write access to protected memory, which can lead to denial of service.
 - [Live-Hack-CVE/CVE-2022-21814](https://github.com/Live-Hack-CVE/CVE-2022-21814)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21814">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21814">
@@ -26242,6 +26298,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ---
 ## CVE-2022-2175 (2022-06-23T13:15:00)
 > Buffer Over-read in GitHub repository vim/vim prior to 8.2.
+- [Live-Hack-CVE/CVE-2022-2175](https://github.com/Live-Hack-CVE/CVE-2022-2175)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2175">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2175">
 - [Live-Hack-CVE/CVE-2022-2175](https://github.com/Live-Hack-CVE/CVE-2022-2175)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2175">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2175">
 
 ---
@@ -28193,6 +28250,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1796 (2022-05-19T16:15:00)
 > Use After Free in GitHub repository vim/vim prior to 8.2.4979.
 - [Live-Hack-CVE/CVE-2022-1796](https://github.com/Live-Hack-CVE/CVE-2022-1796)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1796">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1796">
+- [Live-Hack-CVE/CVE-2022-1796](https://github.com/Live-Hack-CVE/CVE-2022-1796)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1796">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1796">
 
 ---
 ## CVE-2022-1794 (2022-07-11T11:15:00)
@@ -28204,6 +28262,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 > A use-after-free flaw was found in the Linux kernel’s io_uring subsystem in the way a user sets up a ring with IORING_SETUP_IOPOLL with more than one task completing submissions on this ring. This flaw allows a local user to crash or escalate their privileges on the system.
 - [Live-Hack-CVE/CVE-2022-1786](https://github.com/Live-Hack-CVE/CVE-2022-1786)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1786">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1786">
 - [Live-Hack-CVE/CVE-2022-1786](https://github.com/Live-Hack-CVE/CVE-2022-1786)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1786">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1786">
+
+---
+## CVE-2022-1771 (2022-05-18T20:15:00)
+> Uncontrolled Recursion in GitHub repository vim/vim prior to 8.2.4975.
+- [Live-Hack-CVE/CVE-2022-1771](https://github.com/Live-Hack-CVE/CVE-2022-1771)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1771">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1771">
 
 ---
 ## CVE-2022-1769 (2022-05-17T17:15:00)
@@ -28764,6 +28827,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ---
 ## CVE-2022-1160 (2022-03-30T19:15:00)
 > heap buffer overflow in get_one_sourceline in GitHub repository vim/vim prior to 8.2.4647.
+- [Live-Hack-CVE/CVE-2022-1160](https://github.com/Live-Hack-CVE/CVE-2022-1160)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1160">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1160">
 - [Live-Hack-CVE/CVE-2022-1160](https://github.com/Live-Hack-CVE/CVE-2022-1160)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1160">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1160">
 
 ---

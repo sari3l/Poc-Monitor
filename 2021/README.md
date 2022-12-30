@@ -660,6 +660,7 @@
 - [srcporter/CVE-2021-44228](https://github.com/srcporter/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/srcporter/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/srcporter/CVE-2021-44228">
 - [trhacknon/CVE-2021-44228-Scanner](https://github.com/trhacknon/CVE-2021-44228-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2021-44228-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2021-44228-Scanner">
 - [TPower2112/Writing-Sample-1](https://github.com/TPower2112/Writing-Sample-1)	<img alt="forks" src="https://img.shields.io/github/forks/TPower2112/Writing-Sample-1">	<img alt="stars" src="https://img.shields.io/github/stars/TPower2112/Writing-Sample-1">
+- [Nexolanta/log4j2-CVE-2021-44228-](https://github.com/Nexolanta/log4j2-CVE-2021-44228-)	<img alt="forks" src="https://img.shields.io/github/forks/Nexolanta/log4j2-CVE-2021-44228-">	<img alt="stars" src="https://img.shields.io/github/stars/Nexolanta/log4j2-CVE-2021-44228-">
 
 ---
 ## CVE-2021-44158 (2022-01-03T10:15:00)
@@ -2478,6 +2479,7 @@
 ## CVE-2021-3917 (2022-08-23T20:15:00)
 > A flaw was found in the coreos-installer, where it writes the Ignition config to the target system with world-readable access permissions. This flaw allows a local attacker to have read access to potentially sensitive data. The highest threat from this vulnerability is to confidentiality.
 - [Live-Hack-CVE/CVE-2021-3917](https://github.com/Live-Hack-CVE/CVE-2021-3917)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3917">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3917">
+- [Live-Hack-CVE/CVE-2021-3917](https://github.com/Live-Hack-CVE/CVE-2021-3917)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3917">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3917">
 
 ---
 ## CVE-2021-39165 (2021-08-26T21:15:00)
@@ -2619,6 +2621,7 @@
 ---
 ## CVE-2021-3875 (2021-10-15T14:15:00)
 > vim is vulnerable to Heap-based Buffer Overflow
+- [Live-Hack-CVE/CVE-2021-3875](https://github.com/Live-Hack-CVE/CVE-2021-3875)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3875">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3875">
 - [Live-Hack-CVE/CVE-2021-3875](https://github.com/Live-Hack-CVE/CVE-2021-3875)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3875">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3875">
 
 ---
@@ -2776,6 +2779,7 @@
 ---
 ## CVE-2021-3839 (2022-08-23T16:15:00)
 > A flaw was found in the vhost library in DPDK. Function vhost_user_set_inflight_fd() does not validate `msg->payload.inflight.num_queues`, possibly causing out-of-bounds memory read/write. Any software using DPDK vhost library may crash as a result of this vulnerability.
+- [Live-Hack-CVE/CVE-2021-3839](https://github.com/Live-Hack-CVE/CVE-2021-3839)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3839">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3839">
 - [Live-Hack-CVE/CVE-2021-3839](https://github.com/Live-Hack-CVE/CVE-2021-3839)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3839">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3839">
 
 ---
@@ -3033,6 +3037,11 @@
 > D-Link router DSL-2750U with firmware vME1.16 or prior versions is vulnerable to unauthorized configuration modification. An unauthenticated attacker on the local network may exploit this, with CVE-2021-3708, to execute any OS commands on the vulnerable device.
 - [Live-Hack-CVE/CVE-2021-3707](https://github.com/Live-Hack-CVE/CVE-2021-3707)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3707">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3707">
 - [HadiMed/DSL-2750U-Full-chain](https://github.com/HadiMed/DSL-2750U-Full-chain)	<img alt="forks" src="https://img.shields.io/github/forks/HadiMed/DSL-2750U-Full-chain">	<img alt="stars" src="https://img.shields.io/github/stars/HadiMed/DSL-2750U-Full-chain">
+
+---
+## CVE-2021-3701 (2022-08-23T16:15:00)
+> A flaw was found in ansible-runner where the default temporary files configuration in ansible-2.0.0 are written to world R/W locations. This flaw allows an attacker to pre-create the directory, resulting in reading private information or forcing ansible-runner to write files as the legitimate user in a place they did not expect. The highest threat from this vulnerability is to confidentiality and integrity.
+- [Live-Hack-CVE/CVE-2021-3701](https://github.com/Live-Hack-CVE/CVE-2021-3701)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3701">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3701">
 
 ---
 ## CVE-2021-36981 (2021-08-31T04:15:00)
@@ -6914,6 +6923,11 @@
 ## CVE-2021-20323 (2022-03-25T19:15:00)
 > A POST based reflected Cross Site Scripting vulnerability on has been identified in Keycloak.
 - [ndmalc/CVE-2021-20323](https://github.com/ndmalc/CVE-2021-20323)	<img alt="forks" src="https://img.shields.io/github/forks/ndmalc/CVE-2021-20323">	<img alt="stars" src="https://img.shields.io/github/stars/ndmalc/CVE-2021-20323">
+
+---
+## CVE-2021-20316 (2022-08-23T16:15:00)
+> A flaw was found in the way Samba handled file/directory metadata. This flaw allows an authenticated attacker with permissions to read or modify share metadata, to perform this operation outside of the share.
+- [Live-Hack-CVE/CVE-2021-20316](https://github.com/Live-Hack-CVE/CVE-2021-20316)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20316">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20316">
 
 ---
 ## CVE-2021-20315 (2022-02-18T18:15:00)
