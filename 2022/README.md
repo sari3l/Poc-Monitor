@@ -29894,6 +29894,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Turzum/ps-lab-cve-2022-0847](https://github.com/Turzum/ps-lab-cve-2022-0847)	<img alt="forks" src="https://img.shields.io/github/forks/Turzum/ps-lab-cve-2022-0847">	<img alt="stars" src="https://img.shields.io/github/stars/Turzum/ps-lab-cve-2022-0847">
 - [qwert419/linux-](https://github.com/qwert419/linux-)	<img alt="forks" src="https://img.shields.io/github/forks/qwert419/linux-">	<img alt="stars" src="https://img.shields.io/github/stars/qwert419/linux-">
 - [DataFox/CVE-2022-0847](https://github.com/DataFox/CVE-2022-0847)	<img alt="forks" src="https://img.shields.io/github/forks/DataFox/CVE-2022-0847">	<img alt="stars" src="https://img.shields.io/github/stars/DataFox/CVE-2022-0847">
+- [pmihsan/-Dirty-Pipe-CVE-2022-0847](https://github.com/pmihsan/-Dirty-Pipe-CVE-2022-0847)	<img alt="forks" src="https://img.shields.io/github/forks/pmihsan/-Dirty-Pipe-CVE-2022-0847">	<img alt="stars" src="https://img.shields.io/github/stars/pmihsan/-Dirty-Pipe-CVE-2022-0847">
 
 ---
 ## CVE-2022-0836 (2022-05-09T17:15:00)
