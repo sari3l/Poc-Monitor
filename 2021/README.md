@@ -661,6 +661,7 @@
 - [trhacknon/CVE-2021-44228-Scanner](https://github.com/trhacknon/CVE-2021-44228-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2021-44228-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2021-44228-Scanner">
 - [TPower2112/Writing-Sample-1](https://github.com/TPower2112/Writing-Sample-1)	<img alt="forks" src="https://img.shields.io/github/forks/TPower2112/Writing-Sample-1">	<img alt="stars" src="https://img.shields.io/github/stars/TPower2112/Writing-Sample-1">
 - [Nexolanta/log4j2-CVE-2021-44228-](https://github.com/Nexolanta/log4j2-CVE-2021-44228-)	<img alt="forks" src="https://img.shields.io/github/forks/Nexolanta/log4j2-CVE-2021-44228-">	<img alt="stars" src="https://img.shields.io/github/stars/Nexolanta/log4j2-CVE-2021-44228-">
+- [Nexolanta/log4j2_CVE-2021-44228](https://github.com/Nexolanta/log4j2_CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/Nexolanta/log4j2_CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/Nexolanta/log4j2_CVE-2021-44228">
 
 ---
 ## CVE-2021-44158 (2022-01-03T10:15:00)
@@ -2781,6 +2782,12 @@
 > A flaw was found in the vhost library in DPDK. Function vhost_user_set_inflight_fd() does not validate `msg->payload.inflight.num_queues`, possibly causing out-of-bounds memory read/write. Any software using DPDK vhost library may crash as a result of this vulnerability.
 - [Live-Hack-CVE/CVE-2021-3839](https://github.com/Live-Hack-CVE/CVE-2021-3839)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3839">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3839">
 - [Live-Hack-CVE/CVE-2021-3839](https://github.com/Live-Hack-CVE/CVE-2021-3839)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3839">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3839">
+- [Live-Hack-CVE/CVE-2021-38398](https://github.com/Live-Hack-CVE/CVE-2021-38398)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38398">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38398">
+- [Live-Hack-CVE/CVE-2021-38396](https://github.com/Live-Hack-CVE/CVE-2021-38396)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38396">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38396">
+- [Live-Hack-CVE/CVE-2021-38392](https://github.com/Live-Hack-CVE/CVE-2021-38392)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38392">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38392">
+- [Live-Hack-CVE/CVE-2021-38399](https://github.com/Live-Hack-CVE/CVE-2021-38399)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38399">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38399">
+- [Live-Hack-CVE/CVE-2021-38397](https://github.com/Live-Hack-CVE/CVE-2021-38397)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38397">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38397">
+- [Live-Hack-CVE/CVE-2021-38395](https://github.com/Live-Hack-CVE/CVE-2021-38395)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38395">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38395">
 
 ---
 ## CVE-2021-38374 (2021-11-22T09:15:00)

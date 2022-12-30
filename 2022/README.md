@@ -26075,6 +26075,9 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 > NULL Pointer Dereference in GitHub repository vim/vim prior to 8.2.5163.
 - [Live-Hack-CVE/CVE-2022-2208](https://github.com/Live-Hack-CVE/CVE-2022-2208)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2208">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2208">
 - [Live-Hack-CVE/CVE-2022-2208](https://github.com/Live-Hack-CVE/CVE-2022-2208)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2208">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2208">
+- [Live-Hack-CVE/CVE-2022-22080](https://github.com/Live-Hack-CVE/CVE-2022-22080)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22080">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22080">
+- [Live-Hack-CVE/CVE-2022-22081](https://github.com/Live-Hack-CVE/CVE-2022-22081)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22081">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22081">
+- [Live-Hack-CVE/CVE-2022-22089](https://github.com/Live-Hack-CVE/CVE-2022-22089)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22089">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22089">
 
 ---
 ## CVE-2022-22078 (2022-10-19T11:15:00)
@@ -26273,6 +26276,8 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-2182 (2022-06-23T18:15:00)
 > Heap-based Buffer Overflow in GitHub repository vim/vim prior to 8.2.
 - [Live-Hack-CVE/CVE-2022-2182](https://github.com/Live-Hack-CVE/CVE-2022-2182)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2182">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2182">
+- [Live-Hack-CVE/CVE-2022-21820](https://github.com/Live-Hack-CVE/CVE-2022-21820)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21820">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21820">
+- [Live-Hack-CVE/CVE-2022-21824](https://github.com/Live-Hack-CVE/CVE-2022-21824)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21824">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21824">
 
 ---
 ## CVE-2022-21814 (2022-02-07T20:15:00)
