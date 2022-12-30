@@ -2789,6 +2789,16 @@
 - [Live-Hack-CVE/CVE-2020-18127](https://github.com/Live-Hack-CVE/CVE-2020-18127)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-18127">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-18127">
 
 ---
+## CVE-2020-1756 (2022-08-16T21:15:00)
+> In Moodle before 3.8.2, 3.7.5, 3.6.9 and 3.5.11, insufficient input escaping was applied to the PHP unit webrunner admin tool.
+- [Live-Hack-CVE/CVE-2020-1756](https://github.com/Live-Hack-CVE/CVE-2020-1756)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1756">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1756">
+
+---
+## CVE-2020-1755 (2022-08-16T21:15:00)
+> In Moodle before 3.8.2, 3.7.5, 3.6.9 and 3.5.11, X-Forwarded-For headers could be used to spoof a user's IP, in order to bypass remote address checks.
+- [Live-Hack-CVE/CVE-2020-1755](https://github.com/Live-Hack-CVE/CVE-2020-1755)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1755">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1755">
+
+---
 ## CVE-2020-17541 (2021-06-01T15:15:00)
 > Libjpeg-turbo all version have a stack-based buffer overflow in the "transform" component. A remote attacker can send a malformed jpeg file to the service and cause arbitrary code execution or denial of service of the target service.
 - [Live-Hack-CVE/CVE-2020-17541](https://github.com/Live-Hack-CVE/CVE-2020-17541)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-17541">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-17541">
@@ -3223,6 +3233,11 @@
 - [Live-Hack-CVE/CVE-2020-14385](https://github.com/Live-Hack-CVE/CVE-2020-14385)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14385">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14385">
 
 ---
+## CVE-2020-14379 (2022-08-16T21:15:00)
+> A flaw was found in Red Hat AMQ Broker in a way that a XEE attack can be done via Broker's configuration files, leading to denial of service and information disclosure.
+- [Live-Hack-CVE/CVE-2020-14379](https://github.com/Live-Hack-CVE/CVE-2020-14379)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14379">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14379">
+
+---
 ## CVE-2020-14374 (2020-09-30T20:15:00)
 > A flaw was found in dpdk in versions before 18.11.10 and before 19.11.5. A flawed bounds checking in the copy_data function leads to a buffer overflow allowing an attacker in a virtual machine to write arbitrary data to any address in the vhost_crypto application. The highest threat from this vulnerability is to data confidentiality and integrity as well as system availability.
 - [Live-Hack-CVE/CVE-2020-14374](https://github.com/Live-Hack-CVE/CVE-2020-14374)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14374">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14374">
@@ -3262,6 +3277,12 @@
 > A flaw was found in Red Hat Satellite 6 which allows privileged attacker to read cache files. These cache credentials could help attacker to gain complete control of the Satellite instance.
 - [Live-Hack-CVE/CVE-2020-14334](https://github.com/Live-Hack-CVE/CVE-2020-14334)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14334">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14334">
 - [Live-Hack-CVE/CVE-2020-14334](https://github.com/Live-Hack-CVE/CVE-2020-14334)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14334">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14334">
+
+---
+## CVE-2020-14320 (2022-08-16T21:15:00)
+> In Moodle before 3.9.1, 3.8.4 and 3.7.7, the filter in the admin task log required extra sanitizing to prevent a reflected XSS risk.
+- [Live-Hack-CVE/CVE-2020-14320](https://github.com/Live-Hack-CVE/CVE-2020-14320)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14320">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14320">
+- [3mrgnc3/Moodle_3.9_RCE_AutoPwn](https://github.com/3mrgnc3/Moodle_3.9_RCE_AutoPwn)	<img alt="forks" src="https://img.shields.io/github/forks/3mrgnc3/Moodle_3.9_RCE_AutoPwn">	<img alt="stars" src="https://img.shields.io/github/stars/3mrgnc3/Moodle_3.9_RCE_AutoPwn">
 
 ---
 ## CVE-2020-14307 (2020-07-24T16:15:00)
@@ -3681,6 +3702,11 @@
 ## CVE-2020-10732 (2020-06-12T14:15:00)
 > A flaw was found in the Linux kernel's implementation of Userspace core dumps. This flaw allows an attacker with a local account to crash a trivial program and exfiltrate private kernel data.
 - [Live-Hack-CVE/CVE-2020-10732](https://github.com/Live-Hack-CVE/CVE-2020-10732)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10732">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10732">
+
+---
+## CVE-2020-10728 (2022-08-16T21:15:00)
+> A flaw was found in automationbroker/apb container in versions up to and including 2.0.4-1. This container grants all users sudoer permissions allowing an unauthorized user with access to the running container the ability to escalate their own privileges. The highest threat from this vulnerability is to data confidentiality and integrity as well as system availability.
+- [Live-Hack-CVE/CVE-2020-10728](https://github.com/Live-Hack-CVE/CVE-2020-10728)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10728">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10728">
 
 ---
 ## CVE-2020-10726 (2020-05-20T14:15:00)

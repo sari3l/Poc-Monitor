@@ -15592,6 +15592,36 @@
 - [MaherAzzouzi/CVE-2022-36162](https://github.com/MaherAzzouzi/CVE-2022-36162)	<img alt="forks" src="https://img.shields.io/github/forks/MaherAzzouzi/CVE-2022-36162">	<img alt="stars" src="https://img.shields.io/github/stars/MaherAzzouzi/CVE-2022-36162">
 
 ---
+## CVE-2022-36155 (2022-08-16T21:15:00)
+> tifig v0.2.2 was discovered to contain a resource allocation issue via operator new(unsigned long) at asan_new_delete.cpp.
+- [Live-Hack-CVE/CVE-2022-36155](https://github.com/Live-Hack-CVE/CVE-2022-36155)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36155">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36155">
+
+---
+## CVE-2022-36153 (2022-08-16T21:15:00)
+> tifig v0.2.2 was discovered to contain a segmentation violation via std::vector<unsigned int, std::allocator<unsigned int> >::size() const at /bits/stl_vector.h.
+- [Live-Hack-CVE/CVE-2022-36153](https://github.com/Live-Hack-CVE/CVE-2022-36153)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36153">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36153">
+
+---
+## CVE-2022-36152 (2022-08-16T21:15:00)
+> tifig v0.2.2 was discovered to contain a memory leak via operator new[](unsigned long) at /asan/asan_new_delete.cpp.
+- [Live-Hack-CVE/CVE-2022-36152](https://github.com/Live-Hack-CVE/CVE-2022-36152)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36152">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36152">
+
+---
+## CVE-2022-36151 (2022-08-16T21:15:00)
+> tifig v0.2.2 was discovered to contain a segmentation violation via getType() at /common/bbox.cpp.
+- [Live-Hack-CVE/CVE-2022-36151](https://github.com/Live-Hack-CVE/CVE-2022-36151)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36151">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36151">
+
+---
+## CVE-2022-36150 (2022-08-16T21:15:00)
+> tifig v0.2.2 was discovered to contain a heap-buffer overflow via __asan_memmove at /asan/asan_interceptors_memintrinsics.cpp.
+- [Live-Hack-CVE/CVE-2022-36150](https://github.com/Live-Hack-CVE/CVE-2022-36150)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36150">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36150">
+
+---
+## CVE-2022-36149 (2022-08-16T21:15:00)
+> tifig v0.2.2 was discovered to contain a heap-use-after-free via temInfoEntry().
+- [Live-Hack-CVE/CVE-2022-36149](https://github.com/Live-Hack-CVE/CVE-2022-36149)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36149">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36149">
+
+---
 ## CVE-2022-36148 (2022-08-16T21:15:00)
 > fdkaac commit 53fe239 was discovered to contain a floating point exception (FPE) via wav_open at /src/wav_reader.c.
 - [Live-Hack-CVE/CVE-2022-36148](https://github.com/Live-Hack-CVE/CVE-2022-36148)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36148">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36148">
@@ -16669,9 +16699,59 @@
 - [Live-Hack-CVE/CVE-2022-3549](https://github.com/Live-Hack-CVE/CVE-2022-3549)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3549">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3549">
 
 ---
+## CVE-2022-35486 (2022-08-16T21:15:00)
+> OTFCC v0.10.4 was discovered to contain a segmentation violation via /release-x64/otfccdump+0x6badae.
+- [Live-Hack-CVE/CVE-2022-35486](https://github.com/Live-Hack-CVE/CVE-2022-35486)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35486">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35486">
+
+---
+## CVE-2022-35485 (2022-08-16T21:15:00)
+> OTFCC v0.10.4 was discovered to contain a segmentation violation via /release-x64/otfccdump+0x703969.
+- [Live-Hack-CVE/CVE-2022-35485](https://github.com/Live-Hack-CVE/CVE-2022-35485)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35485">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35485">
+
+---
+## CVE-2022-35484 (2022-08-16T21:15:00)
+> OTFCC v0.10.4 was discovered to contain a segmentation violation via /release-x64/otfccdump+0x6b6a8f.
+- [Live-Hack-CVE/CVE-2022-35484](https://github.com/Live-Hack-CVE/CVE-2022-35484)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35484">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35484">
+
+---
+## CVE-2022-35483 (2022-08-16T21:15:00)
+> OTFCC v0.10.4 was discovered to contain a segmentation violation via /release-x64/otfccdump+0x5266a8.
+- [Live-Hack-CVE/CVE-2022-35483](https://github.com/Live-Hack-CVE/CVE-2022-35483)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35483">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35483">
+
+---
+## CVE-2022-35482 (2022-08-16T21:15:00)
+> OTFCC v0.10.4 was discovered to contain a segmentation violation via /release-x64/otfccdump+0x65f724.
+- [Live-Hack-CVE/CVE-2022-35482](https://github.com/Live-Hack-CVE/CVE-2022-35482)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35482">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35482">
+
+---
+## CVE-2022-35481 (2022-08-16T21:15:00)
+> OTFCC v0.10.4 was discovered to contain a segmentation violation via /multiarch/memmove-vec-unaligned-erms.S.
+- [Live-Hack-CVE/CVE-2022-35481](https://github.com/Live-Hack-CVE/CVE-2022-35481)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35481">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35481">
+
+---
 ## CVE-2022-3548 (2022-10-17T12:15:00)
 > A vulnerability was found in SourceCodester Simple Cold Storage Management System 1.0. It has been declared as problematic. This vulnerability affects unknown code of the component Add New Storage Handler. The manipulation of the argument Name leads to cross site scripting. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-211048.
 - [Live-Hack-CVE/CVE-2022-3548](https://github.com/Live-Hack-CVE/CVE-2022-3548)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3548">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3548">
+
+---
+## CVE-2022-35479 (2022-08-16T21:15:00)
+> OTFCC v0.10.4 was discovered to contain a segmentation violation via /release-x64/otfccdump+0x4fbbb6.
+- [Live-Hack-CVE/CVE-2022-35479](https://github.com/Live-Hack-CVE/CVE-2022-35479)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35479">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35479">
+
+---
+## CVE-2022-35478 (2022-08-16T21:15:00)
+> OTFCC v0.10.4 was discovered to contain a segmentation violation via /release-x64/otfccdump+0x6babea.
+- [Live-Hack-CVE/CVE-2022-35478](https://github.com/Live-Hack-CVE/CVE-2022-35478)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35478">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35478">
+
+---
+## CVE-2022-35477 (2022-08-16T21:15:00)
+> OTFCC v0.10.4 was discovered to contain a segmentation violation via /release-x64/otfccdump+0x4fe954.
+- [Live-Hack-CVE/CVE-2022-35477](https://github.com/Live-Hack-CVE/CVE-2022-35477)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35477">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35477">
+
+---
+## CVE-2022-35476 (2022-08-16T21:15:00)
+> OTFCC v0.10.4 was discovered to contain a segmentation violation via /release-x64/otfccdump+0x4fbc0b.
+- [Live-Hack-CVE/CVE-2022-35476](https://github.com/Live-Hack-CVE/CVE-2022-35476)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35476">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35476">
 
 ---
 ## CVE-2022-3547 (2022-10-17T12:15:00)
@@ -17110,6 +17190,21 @@
 ## CVE-2022-35115 (2022-08-23T18:15:00)
 > IceWarp WebClient DC2 - Update 2 Build 9 (13.0.2.9) was discovered to contain a SQL injection vulnerability via the search parameter at /webmail/server/webmail.php.
 - [Live-Hack-CVE/CVE-2022-35115](https://github.com/Live-Hack-CVE/CVE-2022-35115)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35115">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35115">
+
+---
+## CVE-2022-35114 (2022-08-16T21:15:00)
+> SWFTools commit 772e55a2 was discovered to contain a segmentation violation via extractFrame at /readers/swf.c.
+- [Live-Hack-CVE/CVE-2022-35114](https://github.com/Live-Hack-CVE/CVE-2022-35114)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35114">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35114">
+
+---
+## CVE-2022-35113 (2022-08-16T21:15:00)
+> SWFTools commit 772e55a2 was discovered to contain a heap-buffer overflow via swf_DefineLosslessBitsTagToImage at /modules/swfbits.c.
+- [Live-Hack-CVE/CVE-2022-35113](https://github.com/Live-Hack-CVE/CVE-2022-35113)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35113">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35113">
+
+---
+## CVE-2022-35100 (2022-08-16T21:15:00)
+> SWFTools commit 772e55a2 was discovered to contain a segmentation violation via gfxline_getbbox at /lib/gfxtools.c.
+- [Live-Hack-CVE/CVE-2022-35100](https://github.com/Live-Hack-CVE/CVE-2022-35100)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35100">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35100">
 
 ---
 ## CVE-2022-35099 (2022-09-23T18:15:00)
@@ -18230,6 +18325,11 @@
 - [Live-Hack-CVE/CVE-2022-34165](https://github.com/Live-Hack-CVE/CVE-2022-34165)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34165">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34165">
 
 ---
+## CVE-2022-34156 (2022-08-16T08:15:00)
+> 'Hulu / ????' App for iOS versions prior to 3.0.81 improperly verifies server certificates, which may allow an attacker to eavesdrop on an encrypted communication via a man-in-the-middle attack.
+- [Live-Hack-CVE/CVE-2022-34156](https://github.com/Live-Hack-CVE/CVE-2022-34156)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34156">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34156">
+
+---
 ## CVE-2022-34152 (2022-11-11T16:15:00)
 > Improper input validation in BIOS firmware for some Intel(R) NUC Boards, Intel(R) NUC Kits before version TY0070 may allow a privileged user to potentially enable escalation of privilege via local access.
 - [Live-Hack-CVE/CVE-2022-34152](https://github.com/Live-Hack-CVE/CVE-2022-34152)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34152">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34152">
@@ -18364,6 +18464,11 @@
 ## CVE-2022-33973 (2022-11-11T16:15:00)
 > Improper access control in the Intel(R) WAPI Security software for Windows 10/11 before version 22.2150.0.1 may allow an authenticated user to potentially enable information disclosure via local access.
 - [Live-Hack-CVE/CVE-2022-33973](https://github.com/Live-Hack-CVE/CVE-2022-33973)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33973">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33973">
+
+---
+## CVE-2022-33939 (2022-08-16T08:15:00)
+> CENTUM VP / CS 3000 controller FCS (CP31, CP33, CP345, CP401, and CP451) contains an issue in processing communication packets, which may lead to resource consumption. If this vulnerability is exploited, an attacker may cause a denial of service (DoS) condition in ADL communication by sending a specially crafted packet to the affected product.
+- [Live-Hack-CVE/CVE-2022-33939](https://github.com/Live-Hack-CVE/CVE-2022-33939)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33939">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33939">
 
 ---
 ## CVE-2022-33938 (2022-10-25T17:15:00)
@@ -21303,6 +21408,11 @@
 - [Live-Hack-CVE/CVE-2022-30577](https://github.com/Live-Hack-CVE/CVE-2022-30577)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30577">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30577">
 
 ---
+## CVE-2022-30575 (2022-08-16T18:15:00)
+> The Web Console component of TIBCO Software Inc.'s TIBCO Data Science - Workbench, TIBCO Statistica, TIBCO Statistica - Estore Edition, and TIBCO Statistica Trial contains easily exploitable Reflected Cross Site Scripting (XSS) vulnerabilities that allow a low privileged attacker with network access to execute scripts targeting the affected system or the victim's local system. Affected releases are TIBCO Software Inc.'s TIBCO Data Science - Workbench: versions 14.0.0 and below, TIBCO Statistica: versions 14.0.0 and below, TIBCO Statistica - Estore Edition: versions 14.0.0 and below, and TIBCO Statistica Trial: versions 14.0.0 and below.
+- [Live-Hack-CVE/CVE-2022-30575](https://github.com/Live-Hack-CVE/CVE-2022-30575)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30575">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30575">
+
+---
 ## CVE-2022-3057 (2022-09-26T16:15:00)
 > Inappropriate implementation in iframe Sandbox in Google Chrome prior to 105.0.5195.52 allowed a remote attacker to leak cross-origin data via a crafted HTML page.
 - [Live-Hack-CVE/CVE-2022-3057](https://github.com/Live-Hack-CVE/CVE-2022-3057)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3057">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3057">
@@ -22746,6 +22856,11 @@
 - [Live-Hack-CVE/CVE-2022-28487](https://github.com/Live-Hack-CVE/CVE-2022-28487)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28487">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28487">
 
 ---
+## CVE-2022-2847 (2022-08-16T19:15:00)
+> A vulnerability, which was classified as critical, has been found in SourceCodester Guest Management System. This issue affects some unknown processing of the file /guestmanagement/front.php. The manipulation of the argument rid leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-206489 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-2847](https://github.com/Live-Hack-CVE/CVE-2022-2847)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2847">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2847">
+
+---
 ## CVE-2022-2846 (2022-08-16T19:15:00)
 > The Calendar Event Multi View WordPress plugin before 1.4.07 does not have any authorisation and CSRF checks in place when creating an event, and is also lacking sanitisation as well as escaping in some of the event fields. This could allow unauthenticated attackers to create arbitrary events and put Cross-Site Scripting payloads in it.
 - [Live-Hack-CVE/CVE-2022-2846](https://github.com/Live-Hack-CVE/CVE-2022-2846)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2846">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2846">
@@ -23677,6 +23792,12 @@
 > An issue was found in the Linux kernel in nf_conntrack_irc where the message handling can be confused and incorrectly matches the message. A firewall may be able to be bypassed when users are using unencrypted IRC with nf_conntrack_irc configured.
 - [Live-Hack-CVE/CVE-2022-2663](https://github.com/Live-Hack-CVE/CVE-2022-2663)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2663">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2663">
 - [Cyb3rR3ap3r/CVE-2022-26631](https://github.com/Cyb3rR3ap3r/CVE-2022-26631)	<img alt="forks" src="https://img.shields.io/github/forks/Cyb3rR3ap3r/CVE-2022-26631">	<img alt="stars" src="https://img.shields.io/github/stars/Cyb3rR3ap3r/CVE-2022-26631">
+
+---
+## CVE-2022-2661 (2022-08-16T21:15:00)
+> Sequi PortBloque S has an improper authorization vulnerability, which may allow a low-privileged user to perform administrative functions using specifically crafted requests.
+- [Live-Hack-CVE/CVE-2022-2661](https://github.com/Live-Hack-CVE/CVE-2022-2661)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2661">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2661">
+- [Live-Hack-CVE/CVE-2022-26612](https://github.com/Live-Hack-CVE/CVE-2022-26612)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26612">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26612">
 
 ---
 ## CVE-2022-26582 (2022-12-16T22:15:00)
@@ -28259,6 +28380,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-2034 (2022-08-29T18:15:00)
 > The Sensei LMS WordPress plugin before 4.5.0 does not have proper permissions set in one of its REST endpoint, allowing unauthenticated users to access private messages sent to teachers
 - [Live-Hack-CVE/CVE-2022-2034](https://github.com/Live-Hack-CVE/CVE-2022-2034)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2034">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2034">
+
+---
+## CVE-2022-20331 (2022-08-12T15:15:00)
+> In the Framework, there is a possible way to enable a work profile without user consent due to a tapjacking/overlay attack. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-181785557
+- [Live-Hack-CVE/CVE-2022-20331](https://github.com/Live-Hack-CVE/CVE-2022-20331)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20331">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20331">
 
 ---
 ## CVE-2022-20330 (2022-08-12T15:15:00)
