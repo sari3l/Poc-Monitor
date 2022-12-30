@@ -15503,6 +15503,16 @@
 - [Live-Hack-CVE/CVE-2022-36220](https://github.com/Live-Hack-CVE/CVE-2022-36220)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36220">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36220">
 
 ---
+## CVE-2022-36216 (2022-08-17T20:15:00)
+> DedeCMS v5.7.94 - v5.7.97 was discovered to contain a remote code execution vulnerability in member_toadmin.php.
+- [Live-Hack-CVE/CVE-2022-36216](https://github.com/Live-Hack-CVE/CVE-2022-36216)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36216">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36216">
+
+---
+## CVE-2022-36215 (2022-08-17T20:15:00)
+> DedeBIZ v6 was discovered to contain a remote code execution vulnerability in sys_info.php.
+- [Live-Hack-CVE/CVE-2022-36215](https://github.com/Live-Hack-CVE/CVE-2022-36215)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36215">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36215">
+
+---
 ## CVE-2022-3621 (2022-10-20T20:15:00)
 > A vulnerability was found in Linux Kernel. It has been classified as problematic. Affected is the function nilfs_bmap_lookup_at_level of the file fs/nilfs2/inode.c of the component nilfs2. The manipulation leads to null pointer dereference. It is possible to launch the attack remotely. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-211920.
 - [Live-Hack-CVE/CVE-2022-3621](https://github.com/Live-Hack-CVE/CVE-2022-3621)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3621">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3621">
@@ -16620,6 +16630,11 @@
 > A vulnerability, which was classified as problematic, was found in X.org Server. This affects an unknown part of the file hw/xquartz/X11Controller.m of the component xquartz. The manipulation leads to denial of service. It is recommended to apply a patch to fix this issue. The identifier VDB-211053 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-3553](https://github.com/Live-Hack-CVE/CVE-2022-3553)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3553">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3553">
 - [Live-Hack-CVE/CVE-2022-3553](https://github.com/Live-Hack-CVE/CVE-2022-3553)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3553">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3553">
+
+---
+## CVE-2022-35516 (2022-08-17T20:15:00)
+> DedeCMS v5.7.93 - v5.7.96 was discovered to contain a remote code execution vulnerability in login.php.
+- [Live-Hack-CVE/CVE-2022-35516](https://github.com/Live-Hack-CVE/CVE-2022-35516)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35516">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35516">
 
 ---
 ## CVE-2022-35513 (2022-09-07T14:15:00)
@@ -18684,6 +18699,11 @@
 - [Live-Hack-CVE/CVE-2022-33321](https://github.com/Live-Hack-CVE/CVE-2022-33321)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33321">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33321">
 
 ---
+## CVE-2022-33311 (2022-08-18T08:15:00)
+> Browse restriction bypass vulnerability in Address Book of Cybozu Office 10.0.0 to 10.8.5 allows a remote authenticated attacker to obtain the data of Address Book via unspecified vectors.
+- [Live-Hack-CVE/CVE-2022-33311](https://github.com/Live-Hack-CVE/CVE-2022-33311)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33311">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33311">
+
+---
 ## CVE-2022-33268 (2022-12-13T16:15:00)
 > Information disclosure due to buffer over-read in Bluetooth HOST while pairing and connecting A2DP. in Snapdragon Auto, Snapdragon Compute, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables
 - [Live-Hack-CVE/CVE-2022-33268](https://github.com/Live-Hack-CVE/CVE-2022-33268)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33268">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33268">
@@ -18812,6 +18832,11 @@
 - [Live-Hack-CVE/CVE-2022-3317](https://github.com/Live-Hack-CVE/CVE-2022-3317)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3317">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3317">
 - [Henry4E36/CVE-2022-33174](https://github.com/Henry4E36/CVE-2022-33174)	<img alt="forks" src="https://img.shields.io/github/forks/Henry4E36/CVE-2022-33174">	<img alt="stars" src="https://img.shields.io/github/stars/Henry4E36/CVE-2022-33174">
 - [Live-Hack-CVE/CVE-2022-3317](https://github.com/Live-Hack-CVE/CVE-2022-3317)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3317">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3317">
+
+---
+## CVE-2022-33151 (2022-08-18T08:15:00)
+> Cross-site scripting vulnerability in the specific parameters of Cybozu Office 10.0.0 to 10.8.5 allows remote attackers to inject an arbitrary script via unspecified vectors.
+- [Live-Hack-CVE/CVE-2022-33151](https://github.com/Live-Hack-CVE/CVE-2022-33151)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-33151">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-33151">
 
 ---
 ## CVE-2022-33150 (2022-10-25T17:15:00)
@@ -19524,6 +19549,11 @@
 - [Live-Hack-CVE/CVE-2022-32586](https://github.com/Live-Hack-CVE/CVE-2022-32586)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32586">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32586">
 
 ---
+## CVE-2022-32583 (2022-08-18T08:15:00)
+> Operation restriction bypass vulnerability in Scheduler of Cybozu Office 10.0.0 to 10.8.5 allows a remote authenticated attacker to alter the data of Scheduler via unspecified vectors.
+- [Live-Hack-CVE/CVE-2022-32583](https://github.com/Live-Hack-CVE/CVE-2022-32583)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32583">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32583">
+
+---
 ## CVE-2022-32574 (2022-10-25T17:15:00)
 > A double-free vulnerability exists in the web interface /action/ipcamSetParamPost functionality of Abode Systems, Inc. iota All-In-One Security Kit 6.9X and 6.9Z. A specially-crafted HTTP request can lead to memory corruption. An attacker can make an authenticated HTTP request to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2022-32574](https://github.com/Live-Hack-CVE/CVE-2022-32574)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32574">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32574">
@@ -19563,6 +19593,11 @@
 - [uisvit/CVE-2022-32548-RCE-MASS](https://github.com/uisvit/CVE-2022-32548-RCE-MASS)	<img alt="forks" src="https://img.shields.io/github/forks/uisvit/CVE-2022-32548-RCE-MASS">	<img alt="stars" src="https://img.shields.io/github/stars/uisvit/CVE-2022-32548-RCE-MASS">
 - [HarleyDoo/CVE-2022-32548-RCE-POC](https://github.com/HarleyDoo/CVE-2022-32548-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/HarleyDoo/CVE-2022-32548-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/HarleyDoo/CVE-2022-32548-RCE-POC">
 - [n4rmex/CVE-2022-32548-RCE-POC](https://github.com/n4rmex/CVE-2022-32548-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/n4rmex/CVE-2022-32548-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/n4rmex/CVE-2022-32548-RCE-POC">
+
+---
+## CVE-2022-32544 (2022-08-18T08:15:00)
+> Operation restriction bypass vulnerability in Project of Cybozu Office 10.0.0 to 10.8.5 allows a remote authenticated attacker to alter the data of Project via unspecified vectors.
+- [Live-Hack-CVE/CVE-2022-32544](https://github.com/Live-Hack-CVE/CVE-2022-32544)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32544">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32544">
 
 ---
 ## CVE-2022-3254 (2022-10-31T16:15:00)
@@ -19673,6 +19708,11 @@
 - [Live-Hack-CVE/CVE-2022-32456](https://github.com/Live-Hack-CVE/CVE-2022-32456)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32456">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32456">
 
 ---
+## CVE-2022-32453 (2022-08-18T08:15:00)
+> HTTP header injection vulnerability in Cybozu Office 10.0.0 to 10.8.5 may allow a remote attacker to obtain and/or alter the data of the product via unspecified vectors.
+- [Live-Hack-CVE/CVE-2022-32453](https://github.com/Live-Hack-CVE/CVE-2022-32453)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32453">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32453">
+
+---
 ## CVE-2022-3245 (2022-09-20T14:15:00)
 > HTML injection attack is closely related to Cross-site Scripting (XSS). HTML injection uses HTML to deface the page. XSS, as the name implies, injects JavaScript into the page. Both attacks exploit insufficient validation of user input.
 - [Live-Hack-CVE/CVE-2022-3245](https://github.com/Live-Hack-CVE/CVE-2022-3245)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3245">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3245">
@@ -19744,6 +19784,11 @@
 > YoudianCMS v9.5.0 was discovered to contain a SQL injection vulnerability via the id parameter at /App/Lib/Action/Admin/SiteAction.class.php.
 - [Live-Hack-CVE/CVE-2022-32299](https://github.com/Live-Hack-CVE/CVE-2022-32299)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32299">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32299">
 - [Live-Hack-CVE/CVE-2022-32299](https://github.com/Live-Hack-CVE/CVE-2022-32299)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32299">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32299">
+
+---
+## CVE-2022-32283 (2022-08-18T08:15:00)
+> Browse restriction bypass vulnerability in Cabinet of Cybozu Office 10.0.0 to 10.8.5 allows a remote authenticated attacker to obtain the data of Cabinet via unspecified vectors.
+- [Live-Hack-CVE/CVE-2022-32283](https://github.com/Live-Hack-CVE/CVE-2022-32283)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32283">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32283">
 
 ---
 ## CVE-2022-32268 (2022-06-03T06:15:00)
@@ -21095,6 +21140,11 @@
 - [Live-Hack-CVE/CVE-2022-30694](https://github.com/Live-Hack-CVE/CVE-2022-30694)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30694">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30694">
 
 ---
+## CVE-2022-30693 (2022-08-18T08:15:00)
+> Information disclosure vulnerability in the system configuration of Cybozu Office 10.0.0 to 10.8.5 allows a remote attacker to obtain the data of the product via unspecified vectors.
+- [Live-Hack-CVE/CVE-2022-30693](https://github.com/Live-Hack-CVE/CVE-2022-30693)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30693">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30693">
+
+---
 ## CVE-2022-3069 (2022-09-26T13:15:00)
 > The WordLift WordPress plugin before 3.37.2 does not sanitise and escape its settings, allowing high privilege users such as admin to perform cross-Site Scripting attacks even when the unfiltered_html capability is disallowed.
 - [Live-Hack-CVE/CVE-2022-3069](https://github.com/Live-Hack-CVE/CVE-2022-3069)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3069">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3069">
@@ -21203,6 +21253,11 @@
 ## CVE-2022-30605 (2022-08-22T19:15:00)
 > A privilege escalation vulnerability exists in the session id functionality of WWBN AVideo 11.6 and dev master commit 3f7c0364. A specially-crafted HTTP request can lead to increased privileges. An attacker can get an authenticated user to send a crafted HTTP request to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2022-30605](https://github.com/Live-Hack-CVE/CVE-2022-30605)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30605">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30605">
+
+---
+## CVE-2022-30604 (2022-08-18T08:15:00)
+> Cross-site scripting vulnerability in the specific parameters of Cybozu Office 10.0.0 to 10.8.5 allows a remote attacker to inject an arbitrary script via unspecified vectors.
+- [Live-Hack-CVE/CVE-2022-30604](https://github.com/Live-Hack-CVE/CVE-2022-30604)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30604">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30604">
 
 ---
 ## CVE-2022-30601 (2022-08-18T21:15:00)
@@ -21793,6 +21848,11 @@
 - [Live-Hack-CVE/CVE-2022-29901](https://github.com/Live-Hack-CVE/CVE-2022-29901)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29901">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29901">
 
 ---
+## CVE-2022-29891 (2022-08-18T08:15:00)
+> Browse restriction bypass vulnerability in Custom Ap of Cybozu Office 10.0.0 to 10.8.5 allows a remote authenticated attacker to obtain the data of Custom App via unspecified vectors.
+- [Live-Hack-CVE/CVE-2022-29891](https://github.com/Live-Hack-CVE/CVE-2022-29891)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29891">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29891">
+
+---
 ## CVE-2022-29889 (2022-10-25T17:15:00)
 > A hard-coded password vulnerability exists in the telnet functionality of Abode Systems, Inc. iota All-In-One Security Kit 6.9Z. Use of a hard-coded root password can lead to arbitrary command execution. An attacker can authenticate with hard-coded credentials to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2022-29889](https://github.com/Live-Hack-CVE/CVE-2022-29889)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29889">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29889">
@@ -22035,6 +22095,11 @@
 ## CVE-2022-29489 (2022-09-16T22:15:00)
 > Cross-Site Request Forgery (CSRF) vulnerability in Sucuri Security plugin <= 1.8.33 at WordPress leading to Event log entry creation.
 - [Live-Hack-CVE/CVE-2022-29489](https://github.com/Live-Hack-CVE/CVE-2022-29489)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29489">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29489">
+
+---
+## CVE-2022-29487 (2022-08-18T08:15:00)
+> Cross-site scripting vulnerability in Cybozu Office 10.0.0 to 10.8.5 allows a remote attacker to inject an arbitrary script via unspecified vectors.
+- [Live-Hack-CVE/CVE-2022-29487](https://github.com/Live-Hack-CVE/CVE-2022-29487)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29487">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29487">
 
 ---
 ## CVE-2022-29476 (2022-08-23T16:15:00)
@@ -22468,6 +22533,18 @@
 - [Live-Hack-CVE/CVE-2022-28762](https://github.com/Live-Hack-CVE/CVE-2022-28762)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28762">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28762">
 
 ---
+## CVE-2022-2876 (2022-08-18T08:15:00)
+> A vulnerability, which was classified as critical, was found in SourceCodester Student Management System. Affected is an unknown function of the file index.php. The manipulation of the argument id leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. VDB-206634 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-2876](https://github.com/Live-Hack-CVE/CVE-2022-2876)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2876">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2876">
+- [Live-Hack-CVE/CVE-2022-28762](https://github.com/Live-Hack-CVE/CVE-2022-28762)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28762">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28762">
+- [Live-Hack-CVE/CVE-2022-28760](https://github.com/Live-Hack-CVE/CVE-2022-28760)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28760">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28760">
+- [Live-Hack-CVE/CVE-2022-28761](https://github.com/Live-Hack-CVE/CVE-2022-28761)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28761">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28761">
+- [Live-Hack-CVE/CVE-2022-28763](https://github.com/Live-Hack-CVE/CVE-2022-28763)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28763">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28763">
+- [Live-Hack-CVE/CVE-2022-28764](https://github.com/Live-Hack-CVE/CVE-2022-28764)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28764">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28764">
+- [Live-Hack-CVE/CVE-2022-28766](https://github.com/Live-Hack-CVE/CVE-2022-28766)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28766">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28766">
+- [Live-Hack-CVE/CVE-2022-28768](https://github.com/Live-Hack-CVE/CVE-2022-28768)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28768">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28768">
+
+---
 ## CVE-2022-28758 (2022-09-16T22:15:00)
 > Zoom On-Premise Meeting Connector MMR before version 4.8.20220815.130 contains an improper access control vulnerability. As a result, a malicious actor could obtain the audio and video feed of a meeting they were not authorized to join and cause other meeting disruptions.
 - [Live-Hack-CVE/CVE-2022-28758](https://github.com/Live-Hack-CVE/CVE-2022-28758)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28758">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28758">
@@ -22520,6 +22597,11 @@
 - [Live-Hack-CVE/CVE-2022-2872](https://github.com/Live-Hack-CVE/CVE-2022-2872)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2872">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2872">
 - [Live-Hack-CVE/CVE-2022-28721](https://github.com/Live-Hack-CVE/CVE-2022-28721)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28721">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28721">
 - [Live-Hack-CVE/CVE-2022-28722](https://github.com/Live-Hack-CVE/CVE-2022-28722)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28722">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28722">
+
+---
+## CVE-2022-28715 (2022-08-18T08:15:00)
+> Cross-site scripting vulnerability in the specific parameters of Cybozu Office 10.0.0 to 10.8.5 allows a remote attacker to inject an arbitrary script via unspecified vectors.
+- [Live-Hack-CVE/CVE-2022-28715](https://github.com/Live-Hack-CVE/CVE-2022-28715)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28715">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28715">
 
 ---
 ## CVE-2022-28712 (2022-08-22T19:15:00)
@@ -22667,6 +22749,11 @@
 ## CVE-2022-2846 (2022-08-16T19:15:00)
 > The Calendar Event Multi View WordPress plugin before 1.4.07 does not have any authorisation and CSRF checks in place when creating an event, and is also lacking sanitisation as well as escaping in some of the event fields. This could allow unauthenticated attackers to create arbitrary events and put Cross-Site Scripting payloads in it.
 - [Live-Hack-CVE/CVE-2022-2846](https://github.com/Live-Hack-CVE/CVE-2022-2846)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2846">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2846">
+
+---
+## CVE-2022-2844 (2022-08-16T19:15:00)
+> A vulnerability classified as problematic has been found in MotoPress Timetable and Event Schedule up to 1.4.06. This affects an unknown part of the file /wp/?cpmvc_id=1&cpmvc_do_action=mvparse&f=datafeed&calid=1&month_index=1&method=adddetails&id=2 of the component Calendar Handler. The manipulation of the argument Subject/Location/Description leads to cross site scripting. It is possible to initiate the attack remotely. The associated identifier of this vulnerability is VDB-206487.
+- [Live-Hack-CVE/CVE-2022-2844](https://github.com/Live-Hack-CVE/CVE-2022-2844)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2844">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2844">
 
 ---
 ## CVE-2022-2842 (2022-08-22T19:15:00)
@@ -23962,6 +24049,11 @@
 ## CVE-2022-25999 (2022-08-18T20:15:00)
 > Uncontrolled search path element in the Intel(R) Enpirion(R) Digital Power Configurator GUI software, all versions may allow an authenticated user to potentially enable escalation of privilege via local access.
 - [Live-Hack-CVE/CVE-2022-25999](https://github.com/Live-Hack-CVE/CVE-2022-25999)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25999">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25999">
+
+---
+## CVE-2022-25986 (2022-08-18T08:15:00)
+> Browse restriction bypass vulnerability in Scheduler of Cybozu Office 10.0.0 to 10.8.5 allows a remote authenticated attacker to obtain the data of Scheduler.
+- [Live-Hack-CVE/CVE-2022-25986](https://github.com/Live-Hack-CVE/CVE-2022-25986)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25986">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25986">
 
 ---
 ## CVE-2022-2598 (2022-08-01T15:15:00)
