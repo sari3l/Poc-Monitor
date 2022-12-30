@@ -11840,6 +11840,16 @@
 - [Live-Hack-CVE/CVE-2022-38367](https://github.com/Live-Hack-CVE/CVE-2022-38367)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38367">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38367">
 
 ---
+## CVE-2022-38359 (2022-08-15T23:15:00)
+> Cross-site request forgery attacks can be carried out against the Eyes of Network web application, due to an absence of adequate protections. An attacker can, for instance, delete the admin user by directing an authenticated user to the URL https://<target-address>/module/admin_user/index.php?DataTables_Table_0_length=10&user_selected%5B%5D=1&user_mgt_list=delete_user&action=submit by means of a crafted link.
+- [Live-Hack-CVE/CVE-2022-38359](https://github.com/Live-Hack-CVE/CVE-2022-38359)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38359">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38359">
+
+---
+## CVE-2022-38358 (2022-08-15T23:15:00)
+> Improper neutralization of input during web page generation leaves the Eyes of Network web application vulnerable to cross-site scripting attacks at /module/admin_notifiers/rules.php and /module/report_event/indext.php via the parameters rule_notification, rule_name, and rule_name_old, and at /module/admin_user/add_modify_user.php via the parameters user_name and user_email.
+- [Live-Hack-CVE/CVE-2022-38358](https://github.com/Live-Hack-CVE/CVE-2022-38358)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38358">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38358">
+
+---
 ## CVE-2022-38355 (2022-12-13T22:15:00)
 > Daikin SVMPC1 version 2.1.22 and prior and SVMPC2 version 1.2.3 and prior are vulnerable to attackers with access to the local area network (LAN) to disclose sensitive information stored by the affected product without requiring authentication.
 - [Live-Hack-CVE/CVE-2022-38355](https://github.com/Live-Hack-CVE/CVE-2022-38355)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38355">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38355">
@@ -12089,6 +12099,16 @@
 > There is a use-after-free issue in JBIG2Stream::close() located in JBIG2Stream.cc in Xpdf 4.04. It can be triggered by sending a crafted PDF file to (for example) the pdfimages binary. It allows an attacker to cause Denial of Service or possibly have unspecified other impact.
 - [Live-Hack-CVE/CVE-2022-38222](https://github.com/Live-Hack-CVE/CVE-2022-38222)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38222">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38222">
 - [Live-Hack-CVE/CVE-2022-38222](https://github.com/Live-Hack-CVE/CVE-2022-38222)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38222">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38222">
+
+---
+## CVE-2022-38221 (2022-08-15T11:21:00)
+> A buffer overflow in the FTcpListener thread in The Isle Evrima (the dedicated server on Windows and Linux) 0.9.88.07 before 2022-08-12 allows a remote attacker to crash any server with an accessible RCON port, or possibly execute arbitrary code.
+- [Live-Hack-CVE/CVE-2022-38221](https://github.com/Live-Hack-CVE/CVE-2022-38221)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38221">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38221">
+
+---
+## CVE-2022-38216 (2022-08-16T01:15:00)
+> An integer overflow exists in Mapbox's closed source gl-native library prior to version 10.6.1, which is bundled with multiple Mapbox products including open source libraries. The overflow is caused by large image height and width values when creating a new Image and allows for out of bounds writes, potentially crashing the Mapbox process.
+- [Live-Hack-CVE/CVE-2022-38216](https://github.com/Live-Hack-CVE/CVE-2022-38216)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38216">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38216">
 
 ---
 ## CVE-2022-38200 (2022-10-25T17:15:00)
@@ -15390,6 +15410,41 @@
 - [Live-Hack-CVE/CVE-2022-36317](https://github.com/Live-Hack-CVE/CVE-2022-36317)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36317">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36317">
 
 ---
+## CVE-2022-36312 (2022-08-16T01:15:00)
+> Airspan AirVelocity 1500 software version 15.18.00.2511 lacks CSRF protections in the eNodeB's web management UI. This issue may affect other AirVelocity and AirSpeed models.
+- [Live-Hack-CVE/CVE-2022-36312](https://github.com/Live-Hack-CVE/CVE-2022-36312)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36312">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36312">
+
+---
+## CVE-2022-36311 (2022-08-16T01:15:00)
+> Airspan AirVelocity 1500 prior to software version 15.18.00.2511 is vulnerable to injection leading to XSS in the SNMP community field in the eNodeB's web management UI. This issue may affect other AirVelocity and AirSpeed models.
+- [Live-Hack-CVE/CVE-2022-36311](https://github.com/Live-Hack-CVE/CVE-2022-36311)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36311">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36311">
+
+---
+## CVE-2022-36310 (2022-08-16T01:15:00)
+> Airspan AirVelocity 1500 software prior to version 15.18.00.2511 had NET-SNMP-EXTEND-MIB enabled on its snmpd service, enabling an attacker with SNMP write abilities to execute commands as root on the eNodeB. This issue may affect other AirVelocity and AirSpeed models.
+- [Live-Hack-CVE/CVE-2022-36310](https://github.com/Live-Hack-CVE/CVE-2022-36310)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36310">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36310">
+
+---
+## CVE-2022-36309 (2022-08-16T01:15:00)
+> Airspan AirVelocity 1500 software versions prior to 15.18.00.2511 have a root command injection vulnerability in the ActiveBank parameter of the recoverySubmit.cgi script running on the eNodeB's web management UI. This issue may affect other AirVelocity and AirSpeed models.
+- [Live-Hack-CVE/CVE-2022-36309](https://github.com/Live-Hack-CVE/CVE-2022-36309)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36309">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36309">
+
+---
+## CVE-2022-36308 (2022-08-16T01:15:00)
+> Airspan AirVelocity 1500 web management UI displays SNMP credentials in plaintext on software versions older than 15.18.00.2511, and stores SNMPv3 credentials unhashed on the filesystem, enabling anyone with web access to use these credentials to manipulate the eNodeB over SNMP. This issue may affect other AirVelocity and AirSpeed models.
+- [Live-Hack-CVE/CVE-2022-36308](https://github.com/Live-Hack-CVE/CVE-2022-36308)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36308">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36308">
+
+---
+## CVE-2022-36307 (2022-08-16T01:15:00)
+> The AirVelocity 1500 prints SNMP credentials on its physically accessible serial port during boot. This was fixed in AirVelocity 1500 software version 15.18.00.2511 and may affect other AirVelocity and AirSpeed models.
+- [Live-Hack-CVE/CVE-2022-36307](https://github.com/Live-Hack-CVE/CVE-2022-36307)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36307">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36307">
+
+---
+## CVE-2022-36306 (2022-08-16T01:15:00)
+> An authenticated attacker can enumerate and download sensitive files, including the eNodeB's web management UI's TLS private key, the web server binary, and the web server configuration file. These vulnerabilities were found in AirVelocity 1500 running software version 9.3.0.01249, were still present in 15.18.00.2511, and may affect other AirVelocity and AirSpeed models.
+- [Live-Hack-CVE/CVE-2022-36306](https://github.com/Live-Hack-CVE/CVE-2022-36306)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36306">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36306">
+
+---
 ## CVE-2022-3630 (2022-10-21T06:15:00)
 > A vulnerability was found in Linux Kernel. It has been rated as problematic. This issue affects some unknown processing of the file fs/fscache/cookie.c of the component IPsec. The manipulation leads to memory leak. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-211931.
 - [Live-Hack-CVE/CVE-2022-3630](https://github.com/Live-Hack-CVE/CVE-2022-3630)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3630">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3630">
@@ -16189,6 +16244,11 @@
 - [Live-Hack-CVE/CVE-2022-35979](https://github.com/Live-Hack-CVE/CVE-2022-35979)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35979">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35979">
 
 ---
+## CVE-2022-35978 (2022-08-15T19:15:00)
+> Minetest is a free open-source voxel game engine with easy modding and game creation. In **single player**, a mod can set a global setting that controls the Lua script loaded to display the main menu. The script is then loaded as soon as the game session is exited. The Lua environment the menu runs in is not sandboxed and can directly interfere with the user's system. There are currently no known workarounds.
+- [Live-Hack-CVE/CVE-2022-35978](https://github.com/Live-Hack-CVE/CVE-2022-35978)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35978">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35978">
+
+---
 ## CVE-2022-35976 (2022-08-18T19:15:00)
 > The GitOps Tools Extension for VSCode relies on kubeconfigs in order to communicate with Kubernetes clusters. A specially crafted kubeconfig leads to arbitrary code execution on behalf of the user running VSCode. Users relying on kubeconfigs that are generated or altered by other processes or users are affected by this issue. Please note that the vulnerability is specific to this extension, and the same kubeconfig would not result in arbitrary code execution when used with kubectl. Using only trust-worthy kubeconfigs is a safe mitigation. However, updating to the latest version of the extension is still highly recommended.
 - [Live-Hack-CVE/CVE-2022-35976](https://github.com/Live-Hack-CVE/CVE-2022-35976)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35976">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35976">
@@ -16626,6 +16686,11 @@
 - [Live-Hack-CVE/CVE-2022-35637](https://github.com/Live-Hack-CVE/CVE-2022-35637)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35637">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35637">
 
 ---
+## CVE-2022-35624 (2022-08-15T17:15:00)
+> In Nordic nRF5 SDK for Mesh 5.0, a heap overflow vulnerability can be triggered by sending a series of segmented packets with SegO > SegN
+- [Live-Hack-CVE/CVE-2022-35624](https://github.com/Live-Hack-CVE/CVE-2022-35624)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35624">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35624">
+
+---
 ## CVE-2022-35623 (2022-08-15T17:15:00)
 > In Nordic nRF5 SDK for Mesh 5.0, a heap overflow vulnerability can be triggered by sending a series of segmented control packets and access packets with the same SeqAuth
 - [Live-Hack-CVE/CVE-2022-35623](https://github.com/Live-Hack-CVE/CVE-2022-35623)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35623">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35623">
@@ -16754,9 +16819,59 @@
 - [Live-Hack-CVE/CVE-2022-35476](https://github.com/Live-Hack-CVE/CVE-2022-35476)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35476">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35476">
 
 ---
+## CVE-2022-35475 (2022-08-16T21:15:00)
+> OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x6e41a8.
+- [Live-Hack-CVE/CVE-2022-35475](https://github.com/Live-Hack-CVE/CVE-2022-35475)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35475">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35475">
+
+---
+## CVE-2022-35473 (2022-08-16T21:15:00)
+> OTFCC v0.10.4 was discovered to contain a segmentation violation via /release-x64/otfccdump+0x4fe9a7.
+- [Live-Hack-CVE/CVE-2022-35473](https://github.com/Live-Hack-CVE/CVE-2022-35473)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35473">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35473">
+
+---
+## CVE-2022-35472 (2022-08-16T21:15:00)
+> OTFCC v0.10.4 was discovered to contain a global overflow via /release-x64/otfccdump+0x718693.
+- [Live-Hack-CVE/CVE-2022-35472](https://github.com/Live-Hack-CVE/CVE-2022-35472)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35472">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35472">
+
+---
+## CVE-2022-35471 (2022-08-16T21:15:00)
+> OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x6e41b0.
+- [Live-Hack-CVE/CVE-2022-35471](https://github.com/Live-Hack-CVE/CVE-2022-35471)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35471">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35471">
+
+---
+## CVE-2022-35470 (2022-08-16T21:15:00)
+> OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x65fc97.
+- [Live-Hack-CVE/CVE-2022-35470](https://github.com/Live-Hack-CVE/CVE-2022-35470)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35470">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35470">
+
+---
 ## CVE-2022-3547 (2022-10-17T12:15:00)
 > A vulnerability was found in SourceCodester Simple Cold Storage Management System 1.0. It has been classified as problematic. This affects an unknown part of the file /csms/admin/?page=system_info of the component Setting Handler. The manipulation of the argument System Name/System Short Name leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-211047.
 - [Live-Hack-CVE/CVE-2022-3547](https://github.com/Live-Hack-CVE/CVE-2022-3547)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3547">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3547">
+
+---
+## CVE-2022-35469 (2022-08-16T21:15:00)
+> OTFCC v0.10.4 was discovered to contain a segmentation violation via /x86_64-linux-gnu/libc.so.6+0xbb384.
+- [Live-Hack-CVE/CVE-2022-35469](https://github.com/Live-Hack-CVE/CVE-2022-35469)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35469">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35469">
+
+---
+## CVE-2022-35468 (2022-08-16T21:15:00)
+> OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x6e420d.
+- [Live-Hack-CVE/CVE-2022-35468](https://github.com/Live-Hack-CVE/CVE-2022-35468)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35468">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35468">
+
+---
+## CVE-2022-35467 (2022-08-16T21:15:00)
+> OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x6e41b8.
+- [Live-Hack-CVE/CVE-2022-35467](https://github.com/Live-Hack-CVE/CVE-2022-35467)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35467">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35467">
+
+---
+## CVE-2022-35466 (2022-08-16T21:15:00)
+> OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x6c0473.
+- [Live-Hack-CVE/CVE-2022-35466](https://github.com/Live-Hack-CVE/CVE-2022-35466)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35466">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35466">
+
+---
+## CVE-2022-35465 (2022-08-16T21:15:00)
+> OTFCC v0.10.4 was discovered to contain a heap-buffer overflow via /release-x64/otfccdump+0x6c0414.
+- [Live-Hack-CVE/CVE-2022-35465](https://github.com/Live-Hack-CVE/CVE-2022-35465)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35465">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35465">
 
 ---
 ## CVE-2022-35464 (2022-08-16T21:15:00)
@@ -24767,6 +24882,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-25047](https://github.com/Live-Hack-CVE/CVE-2022-25047)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25047">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25047">
 
 ---
+## CVE-2022-2503 (2022-08-12T11:15:00)
+> Dm-verity is used for extending root-of-trust to root filesystems. LoadPin builds on this property to restrict module/firmware loads to just the trusted root filesystem. Device-mapper table reloads currently allow users with root privileges to switch out the target with an equivalent dm-linear target and bypass verification till reboot. This allows root to bypass LoadPin and can be used to load untrusted and unverified kernel modules and firmware, which implies arbitrary kernel execution and persistence for peripherals that do not verify firmware updates. We recommend upgrading past commit 4caae58406f8ceb741603eee460d79bacca9b1b5
+- [Live-Hack-CVE/CVE-2022-2503](https://github.com/Live-Hack-CVE/CVE-2022-2503)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2503">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2503">
+
+---
 ## CVE-2022-24999 (2022-11-26T22:15:00)
 > qs before 6.10.3, as used in Express before 4.17.3 and other products, allows attackers to cause a Node process hang for an Express application because an __ proto__ key can be used. In many typical Express use cases, an unauthenticated remote attacker can place the attack payload in the query string of the URL that is used to visit the application, such as a[__proto__]=b&a[__proto__]&a[length]=100000000. The fix was backported to qs 6.9.7, 6.8.3, 6.7.3, 6.6.1, 6.5.3, 6.4.1, 6.3.3, and 6.2.4 (and therefore Express 4.17.3, which has "deps: qs@6.9.7" in its release description, is not vulnerable).
 - [n8tz/CVE-2022-24999](https://github.com/n8tz/CVE-2022-24999)	<img alt="forks" src="https://img.shields.io/github/forks/n8tz/CVE-2022-24999">	<img alt="stars" src="https://img.shields.io/github/stars/n8tz/CVE-2022-24999">
@@ -24790,6 +24910,26 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-2497 (2022-08-05T16:15:00)
 > An issue has been discovered in GitLab CE/EE affecting all versions starting from 12.6 before 15.0.5, all versions starting from 15.1 before 15.1.4, all versions starting from 15.2 before 15.2.1. A malicious developer could exfiltrate an integration's access token by modifying the integration URL such that authenticated requests are sent to an attacker controlled server.
 - [Live-Hack-CVE/CVE-2022-2497](https://github.com/Live-Hack-CVE/CVE-2022-2497)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2497">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2497">
+
+---
+## CVE-2022-24952 (2022-08-16T01:15:00)
+> Several denial of service vulnerabilities exist in Eternal Terminal prior to version 6.2.0, including a DoS triggered remotely by an invalid sequence number and a local bug triggered by invalid input sent directly to the IPC socket.
+- [Live-Hack-CVE/CVE-2022-24952](https://github.com/Live-Hack-CVE/CVE-2022-24952)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24952">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24952">
+
+---
+## CVE-2022-24951 (2022-08-16T01:15:00)
+> A race condition exists in Eternal Terminal prior to version 6.2.0 which allows a local attacker to hijack Eternal Terminal's IPC socket, enabling access to Eternal Terminal clients which attempt to connect in the future.
+- [Live-Hack-CVE/CVE-2022-24951](https://github.com/Live-Hack-CVE/CVE-2022-24951)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24951">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24951">
+
+---
+## CVE-2022-24950 (2022-08-16T01:15:00)
+> A race condition exists in Eternal Terminal prior to version 6.2.0 that allows an authenticated attacker to hijack other users' SSH authorization socket, enabling the attacker to login to other systems as the targeted users. The bug is in UserTerminalRouter::getInfoForId().
+- [Live-Hack-CVE/CVE-2022-24950](https://github.com/Live-Hack-CVE/CVE-2022-24950)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24950">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24950">
+
+---
+## CVE-2022-24949 (2022-08-16T01:15:00)
+> A privilege escalation to root exists in Eternal Terminal prior to version 6.2.0. This is due to the combination of a race condition, buffer overflow, and logic bug all in PipeSocketHandler::listen().
+- [Live-Hack-CVE/CVE-2022-24949](https://github.com/Live-Hack-CVE/CVE-2022-24949)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24949">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24949">
 
 ---
 ## CVE-2022-24946 (2022-06-15T21:15:00)
@@ -25241,6 +25381,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-2392 (2022-08-22T15:15:00)
 > The Lana Downloads Manager WordPress plugin before 1.8.0 is affected by an arbitrary file download vulnerability that can be exploited by users with "Contributor" permissions or higher.
 - [Live-Hack-CVE/CVE-2022-2392](https://github.com/Live-Hack-CVE/CVE-2022-2392)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2392">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2392">
+
+---
+## CVE-2022-2390 (2022-08-12T11:15:00)
+> Apps developed with Google Play Services SDK incorrectly had the mutability flag set to PendingIntents that were passed to the Notification service. As Google Play services SDK is so widely used, this bug affects many applications. For an application affected, this bug will let the attacker, gain the access to all non-exported providers and/or gain the access to other providers the victim has permissions. We recommend upgrading to version 18.0.2 of the Play Service SDK as well as rebuilding and redeploying apps.
+- [Live-Hack-CVE/CVE-2022-2390](https://github.com/Live-Hack-CVE/CVE-2022-2390)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2390">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2390">
 
 ---
 ## CVE-2022-2389 (2022-08-22T15:15:00)
@@ -26391,6 +26536,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-22456 (2022-12-22T22:15:00)
 > IBM Security Verify Governance, Identity Manager 10.0.1 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 225004.
 - [Live-Hack-CVE/CVE-2022-22456](https://github.com/Live-Hack-CVE/CVE-2022-22456)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22456">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22456">
+
+---
+## CVE-2022-22411 (2022-08-10T17:15:00)
+> IBM Spectrum Scale Data Access Services (DAS) 5.1.3.1 could allow an authenticated user to insert code which could allow the attacker to manipulate cluster resources due to excessive permissions. IBM X-Force ID: 223016.
+- [Live-Hack-CVE/CVE-2022-22411](https://github.com/Live-Hack-CVE/CVE-2022-22411)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22411">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22411">
 
 ---
 ## CVE-2022-2234 (2022-08-24T16:15:00)
