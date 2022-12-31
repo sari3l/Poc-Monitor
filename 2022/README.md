@@ -73,6 +73,11 @@
 - [Live-Hack-CVE/CVE-2022-48195](https://github.com/Live-Hack-CVE/CVE-2022-48195)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-48195">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-48195">
 
 ---
+## CVE-2022-47952 ()
+> 
+- [MaherAzzouzi/CVE-2022-47952](https://github.com/MaherAzzouzi/CVE-2022-47952)	<img alt="forks" src="https://img.shields.io/github/forks/MaherAzzouzi/CVE-2022-47952">	<img alt="stars" src="https://img.shields.io/github/stars/MaherAzzouzi/CVE-2022-47952">
+
+---
 ## CVE-2022-47943 (2022-12-23T17:15:00)
 > An issue was discovered in ksmbd in the Linux kernel 5.15 through 5.19 before 5.19.2. There is an out-of-bounds read and OOPS for SMB2_WRITE, when there is a large length in the zero DataOffset case.
 - [Live-Hack-CVE/CVE-2022-47943](https://github.com/Live-Hack-CVE/CVE-2022-47943)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47943">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47943">
