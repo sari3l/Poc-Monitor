@@ -26890,6 +26890,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [ZZ-SOCMAP/CVE-2022-21907](https://github.com/ZZ-SOCMAP/CVE-2022-21907)	<img alt="forks" src="https://img.shields.io/github/forks/ZZ-SOCMAP/CVE-2022-21907">	<img alt="stars" src="https://img.shields.io/github/stars/ZZ-SOCMAP/CVE-2022-21907">
 - [xiska62314/CVE-2022-21907](https://github.com/xiska62314/CVE-2022-21907)	<img alt="forks" src="https://img.shields.io/github/forks/xiska62314/CVE-2022-21907">	<img alt="stars" src="https://img.shields.io/github/stars/xiska62314/CVE-2022-21907">
 - [0xmaximus/Home-Demolisher](https://github.com/0xmaximus/Home-Demolisher)	<img alt="forks" src="https://img.shields.io/github/forks/0xmaximus/Home-Demolisher">	<img alt="stars" src="https://img.shields.io/github/stars/0xmaximus/Home-Demolisher">
+- [Vicki568/CVE-2022-21907](https://github.com/Vicki568/CVE-2022-21907)	<img alt="forks" src="https://img.shields.io/github/forks/Vicki568/CVE-2022-21907">	<img alt="stars" src="https://img.shields.io/github/stars/Vicki568/CVE-2022-21907">
 
 ---
 ## CVE-2022-21906 (2022-01-11T21:15:00)
