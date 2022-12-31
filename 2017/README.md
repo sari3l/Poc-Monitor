@@ -435,6 +435,11 @@
 - [Live-Hack-CVE/CVE-2017-2599](https://github.com/Live-Hack-CVE/CVE-2017-2599)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-2599">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-2599">
 
 ---
+## CVE-2017-20160 (2022-12-31T20:15:00)
+> A vulnerability was found in flitto express-param up to 0.x. It has been classified as critical. This affects an unknown part of the file lib/fetchParams.js. The manipulation leads to improper handling of extra parameters. It is possible to initiate the attack remotely. Upgrading to version 1.0.0 is able to address this issue. The name of the patch is db94f7391ad0a16dcfcba8b9be1af385b25c42db. It is recommended to upgrade the affected component. The identifier VDB-217149 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2017-20160](https://github.com/Live-Hack-CVE/CVE-2017-20160)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20160">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20160">
+
+---
 ## CVE-2017-20159 (2022-12-31T11:15:00)
 > A vulnerability was found in rf Keynote up to 0.x. It has been rated as problematic. Affected by this issue is some unknown functionality of the file lib/keynote/rumble.rb. The manipulation of the argument value leads to cross site scripting. The attack may be launched remotely. Upgrading to version 1.0.0 is able to address this issue. The name of the patch is 05be4356b0a6ca7de48da926a9b997beb5ffeb4a. It is recommended to upgrade the affected component. VDB-217142 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2017-20159](https://github.com/Live-Hack-CVE/CVE-2017-20159)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20159">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20159">

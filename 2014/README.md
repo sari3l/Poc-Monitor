@@ -169,6 +169,11 @@
 - [Live-Hack-CVE/CVE-2014-1705](https://github.com/Live-Hack-CVE/CVE-2014-1705)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-1705">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-1705">
 
 ---
+## CVE-2014-125028 (2022-12-31T20:15:00)
+> A vulnerability was found in valtech IDP Test Client and classified as problematic. Affected by this issue is some unknown functionality of the file python-flask/main.py. The manipulation leads to cross-site request forgery. The attack may be launched remotely. The name of the patch is f1e7b3d431c8681ec46445557125890c14fa295f. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-217148.
+- [Live-Hack-CVE/CVE-2014-125028](https://github.com/Live-Hack-CVE/CVE-2014-125028)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125028">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125028">
+
+---
 ## CVE-2014-125027 (2022-12-31T16:15:00)
 > A vulnerability has been found in Yuna Scatari TBDev up to 2.1.17 and classified as problematic. Affected by this vulnerability is the function get_user_icons of the file usersearch.php. The manipulation of the argument n/r/r2/em/ip/co/ma/d/d2/ul/ul2/ls/ls2/dl/dl2 leads to cross site scripting. The attack can be launched remotely. Upgrading to version 2.1.18 is able to address this issue. The name of the patch is 0ba3fd4be29dd48fa4455c236a9403b3149a4fd4. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-217147.
 - [Live-Hack-CVE/CVE-2014-125027](https://github.com/Live-Hack-CVE/CVE-2014-125027)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125027">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125027">
