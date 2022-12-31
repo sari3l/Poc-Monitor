@@ -48,6 +48,31 @@
 - [Cedric1314/CVE-2022-48870](https://github.com/Cedric1314/CVE-2022-48870)	<img alt="forks" src="https://img.shields.io/github/forks/Cedric1314/CVE-2022-48870">	<img alt="stars" src="https://img.shields.io/github/stars/Cedric1314/CVE-2022-48870">
 
 ---
+## CVE-2022-4868 (2022-12-31T10:15:00)
+> Improper Authorization in GitHub repository froxlor/froxlor prior to 2.0.0-beta1.
+- [Live-Hack-CVE/CVE-2022-4868](https://github.com/Live-Hack-CVE/CVE-2022-4868)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4868">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4868">
+
+---
+## CVE-2022-4867 (2022-12-31T09:15:00)
+> Cross-Site Request Forgery (CSRF) in GitHub repository froxlor/froxlor prior to 2.0.0-beta1.
+- [Live-Hack-CVE/CVE-2022-4867](https://github.com/Live-Hack-CVE/CVE-2022-4867)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4867">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4867">
+
+---
+## CVE-2022-4866 (2022-12-31T09:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository usememos/memos prior to 0.9.1.
+- [Live-Hack-CVE/CVE-2022-4866](https://github.com/Live-Hack-CVE/CVE-2022-4866)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4866">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4866">
+
+---
+## CVE-2022-4865 (2022-12-31T09:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository usememos/memos prior to 0.9.1.
+- [Live-Hack-CVE/CVE-2022-4865](https://github.com/Live-Hack-CVE/CVE-2022-4865)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4865">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4865">
+
+---
+## CVE-2022-48195 (2022-12-31T01:15:00)
+> An issue was discovered in Mellium mellium.im/sasl before 0.3.1. When performing SCRAM-based SASL authentication, if the remote end advertises support for channel binding, no random nonce is generated (instead, the nonce is empty). This causes authentication to fail in the best case, but (if paired with a remote end that does not validate the length of the nonce) could lead to insufficient randomness being used during authentication.
+- [Live-Hack-CVE/CVE-2022-48195](https://github.com/Live-Hack-CVE/CVE-2022-48195)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-48195">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-48195">
+
+---
 ## CVE-2022-47943 (2022-12-23T17:15:00)
 > An issue was discovered in ksmbd in the Linux kernel 5.15 through 5.19 before 5.19.2. There is an out-of-bounds read and OOPS for SMB2_WRITE, when there is a large length in the zero DataOffset case.
 - [Live-Hack-CVE/CVE-2022-47943](https://github.com/Live-Hack-CVE/CVE-2022-47943)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47943">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47943">
@@ -18039,9 +18064,59 @@
 - [Live-Hack-CVE/CVE-2022-34689](https://github.com/Live-Hack-CVE/CVE-2022-34689)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34689">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34689">
 
 ---
+## CVE-2022-34678 (2022-12-30T23:15:00)
+> NVIDIA GPU Display Driver for Windows and Linux contains a vulnerability in the kernel mode layer, where an unprivileged user can cause a null-pointer dereference, which may lead to denial of service.
+- [Live-Hack-CVE/CVE-2022-34678](https://github.com/Live-Hack-CVE/CVE-2022-34678)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34678">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34678">
+
+---
+## CVE-2022-34677 (2022-12-30T23:15:00)
+> NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer handler, where an unprivileged regular user can cause an integer to be truncated, which may lead to denial of service or data tampering.
+- [Live-Hack-CVE/CVE-2022-34677](https://github.com/Live-Hack-CVE/CVE-2022-34677)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34677">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34677">
+
+---
+## CVE-2022-34676 (2022-12-30T23:15:00)
+> NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer handler, where an out-of-bounds read may lead to denial of service, information disclosure, or data tampering.
+- [Live-Hack-CVE/CVE-2022-34676](https://github.com/Live-Hack-CVE/CVE-2022-34676)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34676">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34676">
+
+---
+## CVE-2022-34675 (2022-12-30T23:15:00)
+> NVIDIA Display Driver for Linux contains a vulnerability in the Virtual GPU Manager, where it does not check the return value from a null-pointer dereference, which may lead to denial of service.
+- [Live-Hack-CVE/CVE-2022-34675](https://github.com/Live-Hack-CVE/CVE-2022-34675)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34675">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34675">
+
+---
+## CVE-2022-34674 (2022-12-30T23:15:00)
+> NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer handler, where a helper function maps more physical pages than were requested, which may lead to undefined behavior or an information leak.
+- [Live-Hack-CVE/CVE-2022-34674](https://github.com/Live-Hack-CVE/CVE-2022-34674)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34674">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34674">
+
+---
+## CVE-2022-34673 (2022-12-30T23:15:00)
+> NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer (nvidia.ko), where an out-of-bounds array access may lead to denial of service, information disclosure, or data tampering.
+- [Live-Hack-CVE/CVE-2022-34673](https://github.com/Live-Hack-CVE/CVE-2022-34673)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34673">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34673">
+
+---
+## CVE-2022-34672 (2022-12-30T23:15:00)
+> NVIDIA Control Panel for Windows contains a vulnerability where an unauthorized user or an unprivileged regular user can compromise the security of the software by gaining privileges, reading sensitive information, or executing commands.
+- [Live-Hack-CVE/CVE-2022-34672](https://github.com/Live-Hack-CVE/CVE-2022-34672)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34672">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34672">
+
+---
+## CVE-2022-34671 (2022-12-30T23:15:00)
+> NVIDIA GPU Display Driver for Windows contains a vulnerability in the user mode layer, where an unprivileged regular user can cause an out-of-bounds write, which may lead to code execution, denial of service, escalation of privileges, information disclosure, or data tampering.
+- [Live-Hack-CVE/CVE-2022-34671](https://github.com/Live-Hack-CVE/CVE-2022-34671)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34671">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34671">
+
+---
+## CVE-2022-34670 (2022-12-30T23:15:00)
+> NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer handler, where an unprivileged regular user can cause truncation errors when casting a primitive to a primitive of smaller size causes data to be lost in the conversion, which may lead to denial of service or information disclosure.
+- [Live-Hack-CVE/CVE-2022-34670](https://github.com/Live-Hack-CVE/CVE-2022-34670)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34670">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34670">
+
+---
 ## CVE-2022-3467 (2022-10-12T15:15:00)
 > A vulnerability classified as critical was found in Jiusi OA. Affected by this vulnerability is an unknown functionality of the file /jsoa/hntdCustomDesktopActionContent. The manipulation of the argument inforid leads to sql injection. The exploit has been disclosed to the public and may be used. The identifier VDB-210709 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-3467](https://github.com/Live-Hack-CVE/CVE-2022-3467)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3467">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3467">
+
+---
+## CVE-2022-34669 (2022-12-30T23:15:00)
+> NVIDIA GPU Display Driver for Windows contains a vulnerability in the user mode layer, where an unprivileged regular user can access or modify system files or other files that are critical to the application, which may lead to code execution, denial of service, escalation of privileges, information disclosure, or data tampering.
+- [Live-Hack-CVE/CVE-2022-34669](https://github.com/Live-Hack-CVE/CVE-2022-34669)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34669">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34669">
 
 ---
 ## CVE-2022-34666 (2022-11-10T16:15:00)

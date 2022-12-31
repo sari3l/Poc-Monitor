@@ -435,6 +435,31 @@
 - [Live-Hack-CVE/CVE-2017-2599](https://github.com/Live-Hack-CVE/CVE-2017-2599)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-2599">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-2599">
 
 ---
+## CVE-2017-20159 (2022-12-31T11:15:00)
+> A vulnerability was found in rf Keynote up to 0.x. It has been rated as problematic. Affected by this issue is some unknown functionality of the file lib/keynote/rumble.rb. The manipulation of the argument value leads to cross site scripting. The attack may be launched remotely. Upgrading to version 1.0.0 is able to address this issue. The name of the patch is 05be4356b0a6ca7de48da926a9b997beb5ffeb4a. It is recommended to upgrade the affected component. VDB-217142 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2017-20159](https://github.com/Live-Hack-CVE/CVE-2017-20159)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20159">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20159">
+
+---
+## CVE-2017-20158 (2022-12-31T11:15:00)
+> ** UNSUPPPORTED WHEN ASSIGNED **** UNSUPPORTED WHEN ASSIGNED ** A vulnerability was found in vova07 Yii2 FileAPI Widget up to 0.1.8. It has been declared as problematic. Affected by this vulnerability is the function run of the file actions/UploadAction.php. The manipulation of the argument file leads to cross site scripting. The attack can be launched remotely. Upgrading to version 0.1.9 is able to address this issue. The name of the patch is c00d1e4fc912257fca1fce66d7a163bdbb4c8222. It is recommended to upgrade the affected component. The identifier VDB-217141 was assigned to this vulnerability. NOTE: This vulnerability only affects products that are no longer supported by the maintainer.
+- [Live-Hack-CVE/CVE-2017-20158](https://github.com/Live-Hack-CVE/CVE-2017-20158)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20158">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20158">
+
+---
+## CVE-2017-20157 (2022-12-31T10:15:00)
+> A vulnerability was found in Ariadne Component Library up to 2.x. It has been classified as critical. Affected is an unknown function of the file src/url/Url.php. The manipulation leads to server-side request forgery. Upgrading to version 3.0 is able to address this issue. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-217140.
+- [Live-Hack-CVE/CVE-2017-20157](https://github.com/Live-Hack-CVE/CVE-2017-20157)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20157">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20157">
+
+---
+## CVE-2017-20156 (2022-12-31T10:15:00)
+> A vulnerability was found in Exciting Printer and classified as critical. This issue affects some unknown processing of the file lib/printer/jobs/prepare_page.rb of the component Argument Handler. The manipulation of the argument URL leads to command injection. The name of the patch is 5f8c715d6e2cc000f621a6833f0a86a673462136. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-217139.
+- [Live-Hack-CVE/CVE-2017-20156](https://github.com/Live-Hack-CVE/CVE-2017-20156)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20156">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20156">
+
+---
+## CVE-2017-20155 (2022-12-30T23:15:00)
+> A vulnerability was found in Sterc Google Analytics Dashboard for MODX up to 1.0.5. It has been declared as problematic. Affected by this vulnerability is an unknown functionality of the file core/components/analyticsdashboardwidget/elements/tpl/widget.analytics.tpl of the component Internal Search. The manipulation leads to cross site scripting. The attack can be launched remotely. Upgrading to version 1.0.6 is able to address this issue. The name of the patch is 855d9560d3782c105568eedf9b22a769fbf29cc0. It is recommended to upgrade the affected component. The identifier VDB-217069 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2017-20155](https://github.com/Live-Hack-CVE/CVE-2017-20155)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20155">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20155">
+
+---
 ## CVE-2017-20144 (2022-07-24T20:15:00)
 > A vulnerability has been found in Anvsoft PDFMate PDF Converter Pro 1.7.5.0 and classified as critical. The manipulation leads to memory corruption. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.
 - [Live-Hack-CVE/CVE-2017-20144](https://github.com/Live-Hack-CVE/CVE-2017-20144)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20144">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20144">

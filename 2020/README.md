@@ -156,6 +156,16 @@
 - [hacky1997/CVE-2020-8825](https://github.com/hacky1997/CVE-2020-8825)	<img alt="forks" src="https://img.shields.io/github/forks/hacky1997/CVE-2020-8825">	<img alt="stars" src="https://img.shields.io/github/stars/hacky1997/CVE-2020-8825">
 
 ---
+## CVE-2020-8813 (2020-02-22T02:15:00)
+> graph_realtime.php in Cacti 1.2.8 allows remote attackers to execute arbitrary OS commands via shell metacharacters in a cookie, if a guest user has the graph real-time privilege.
+- [Live-Hack-CVE/CVE-2020-8813](https://github.com/Live-Hack-CVE/CVE-2020-8813)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8813">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8813">
+- [p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime](https://github.com/p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime)	<img alt="forks" src="https://img.shields.io/github/forks/p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime">	<img alt="stars" src="https://img.shields.io/github/stars/p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime">
+- [cocomelonc/vulnexipy](https://github.com/cocomelonc/vulnexipy)	<img alt="forks" src="https://img.shields.io/github/forks/cocomelonc/vulnexipy">	<img alt="stars" src="https://img.shields.io/github/stars/cocomelonc/vulnexipy">
+- [hexcowboy/CVE-2020-8813](https://github.com/hexcowboy/CVE-2020-8813)	<img alt="forks" src="https://img.shields.io/github/forks/hexcowboy/CVE-2020-8813">	<img alt="stars" src="https://img.shields.io/github/stars/hexcowboy/CVE-2020-8813">
+- [m4udSec/Cacti-CVE-2020-8813](https://github.com/m4udSec/Cacti-CVE-2020-8813)	<img alt="forks" src="https://img.shields.io/github/forks/m4udSec/Cacti-CVE-2020-8813">	<img alt="stars" src="https://img.shields.io/github/stars/m4udSec/Cacti-CVE-2020-8813">
+- [mhaskar/CVE-2020-8813](https://github.com/mhaskar/CVE-2020-8813)	<img alt="forks" src="https://img.shields.io/github/forks/mhaskar/CVE-2020-8813">	<img alt="stars" src="https://img.shields.io/github/stars/mhaskar/CVE-2020-8813">
+
+---
 ## CVE-2020-8794 (2020-02-25T17:15:00)
 > OpenSMTPD before 6.6.4 allows remote code execution because of an out-of-bounds read in mta_io in mta_session.c for multi-line replies. Although this vulnerability affects the client side of OpenSMTPD, it is possible to attack a server because the server code launches the client code during bounce handling.
 - [Live-Hack-CVE/CVE-2020-8794](https://github.com/Live-Hack-CVE/CVE-2020-8794)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8794">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8794">
@@ -2031,6 +2041,11 @@
 - [Live-Hack-CVE/CVE-2020-25708](https://github.com/Live-Hack-CVE/CVE-2020-25708)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25708">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25708">
 
 ---
+## CVE-2020-25706 (2020-11-12T14:15:00)
+> A cross-site scripting (XSS) vulnerability exists in templates_import.php (Cacti 1.2.13) due to Improper escaping of error message during template import preview in the xml_path field
+- [Live-Hack-CVE/CVE-2020-25706](https://github.com/Live-Hack-CVE/CVE-2020-25706)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25706">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25706">
+
+---
 ## CVE-2020-25692 (2020-12-08T01:15:00)
 > A NULL pointer dereference was found in OpenLDAP server and was fixed in openldap 2.4.55, during a request for renaming RDNs. An unauthenticated attacker could remotely crash the slapd process by sending a specially crafted request, causing a Denial of Service.
 - [Live-Hack-CVE/CVE-2020-25692](https://github.com/Live-Hack-CVE/CVE-2020-25692)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25692">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25692">
@@ -2421,6 +2436,11 @@
 ## CVE-2020-23466 (2022-08-19T02:15:00)
 > Cross Site Scripting (XSS) vulnerability exists in the phpgurukul Online Marriage Registration System 1.0 allows attackers to run arbitrary code via the wzipcode field.
 - [Live-Hack-CVE/CVE-2020-23466](https://github.com/Live-Hack-CVE/CVE-2020-23466)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-23466">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-23466">
+
+---
+## CVE-2020-23226 (2021-08-27T18:15:00)
+> Multiple Cross Site Scripting (XSS) vulneratiblities exist in Cacti 1.2.12 in (1) reports_admin.php, (2) data_queries.php, (3) data_input.php, (4) graph_templates.php, (5) graphs.php, (6) reports_admin.php, and (7) data_input.php.
+- [Live-Hack-CVE/CVE-2020-23226](https://github.com/Live-Hack-CVE/CVE-2020-23226)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-23226">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-23226">
 
 ---
 ## CVE-2020-23050 (2021-10-22T20:15:00)
