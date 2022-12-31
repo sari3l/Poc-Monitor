@@ -26429,6 +26429,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-22737](https://github.com/Live-Hack-CVE/CVE-2022-22737)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22737">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22737">
 
 ---
+## CVE-2022-22728 (2022-08-25T15:15:00)
+> A flaw in Apache libapreq2 versions 2.16 and earlier could cause a buffer overflow while processing multipart form uploads. A remote attacker could send a request causing a process crash which could lead to a denial of service attack.
+- [Live-Hack-CVE/CVE-2022-22728](https://github.com/Live-Hack-CVE/CVE-2022-22728)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22728">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22728">
+
+---
 ## CVE-2022-22727 (2022-02-04T23:15:00)
 > A CWE-20: Improper Input Validation vulnerability exists that could allow an unauthenticated attacker to view data, change settings, impact availability of the software, or potentially impact a user?s local machine when the user clicks a specially crafted link. Affected Product: EcoStruxure Power Monitoring Expert (Versions 2020 and prior)
 - [Live-Hack-CVE/CVE-2022-22727](https://github.com/Live-Hack-CVE/CVE-2022-22727)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22727">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22727">

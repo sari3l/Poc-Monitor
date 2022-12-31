@@ -169,6 +169,11 @@
 - [Live-Hack-CVE/CVE-2014-1705](https://github.com/Live-Hack-CVE/CVE-2014-1705)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-1705">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-1705">
 
 ---
+## CVE-2014-125027 (2022-12-31T16:15:00)
+> A vulnerability has been found in Yuna Scatari TBDev up to 2.1.17 and classified as problematic. Affected by this vulnerability is the function get_user_icons of the file usersearch.php. The manipulation of the argument n/r/r2/em/ip/co/ma/d/d2/ul/ul2/ls/ls2/dl/dl2 leads to cross site scripting. The attack can be launched remotely. Upgrading to version 2.1.18 is able to address this issue. The name of the patch is 0ba3fd4be29dd48fa4455c236a9403b3149a4fd4. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-217147.
+- [Live-Hack-CVE/CVE-2014-125027](https://github.com/Live-Hack-CVE/CVE-2014-125027)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125027">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125027">
+
+---
 ## CVE-2014-0437 (2014-01-15T16:08:00)
 > Unspecified vulnerability in the MySQL Server component in Oracle MySQL 5.1.72 and earlier, 5.5.34 and earlier, and 5.6.14 and earlier allows remote authenticated users to affect availability via unknown vectors related to Optimizer.
 - [Live-Hack-CVE/CVE-2014-0437](https://github.com/Live-Hack-CVE/CVE-2014-0437)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-0437">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-0437">
