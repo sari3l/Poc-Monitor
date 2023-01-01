@@ -684,6 +684,7 @@
 - [gbonacini/opensshenum](https://github.com/gbonacini/opensshenum)	<img alt="forks" src="https://img.shields.io/github/forks/gbonacini/opensshenum">	<img alt="stars" src="https://img.shields.io/github/stars/gbonacini/opensshenum">
 - [W-GOULD/ssh-user-enumeration](https://github.com/W-GOULD/ssh-user-enumeration)	<img alt="forks" src="https://img.shields.io/github/forks/W-GOULD/ssh-user-enumeration">	<img alt="stars" src="https://img.shields.io/github/stars/W-GOULD/ssh-user-enumeration">
 - [gbonacini/openssh_password_logger](https://github.com/gbonacini/openssh_password_logger)	<img alt="forks" src="https://img.shields.io/github/forks/gbonacini/openssh_password_logger">	<img alt="stars" src="https://img.shields.io/github/stars/gbonacini/openssh_password_logger">
+- [philippedixon/CVE-2018-15473](https://github.com/philippedixon/CVE-2018-15473)	<img alt="forks" src="https://img.shields.io/github/forks/philippedixon/CVE-2018-15473">	<img alt="stars" src="https://img.shields.io/github/stars/philippedixon/CVE-2018-15473">
 
 ---
 ## CVE-2018-14847 (2018-08-02T07:29:00)
