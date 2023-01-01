@@ -1436,6 +1436,11 @@
 - [Live-Hack-CVE/CVE-2021-4183](https://github.com/Live-Hack-CVE/CVE-2021-4183)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4183">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4183">
 
 ---
+## CVE-2021-41823 (2023-01-01T06:15:00)
+> The Web Application Firewall (WAF) in Kemp LoadMaster 7.2.54.1 allows certain uses of onmouseover to bypass an XSS protection mechanism.
+- [Live-Hack-CVE/CVE-2021-41823](https://github.com/Live-Hack-CVE/CVE-2021-41823)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41823">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41823">
+
+---
 ## CVE-2021-4182 (2021-12-30T22:15:00)
 > Crash in the RFC 7468 dissector in Wireshark 3.6.0 and 3.4.0 to 3.4.10 allows denial of service via packet injection or crafted capture file
 - [Live-Hack-CVE/CVE-2021-4182](https://github.com/Live-Hack-CVE/CVE-2021-4182)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4182">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4182">

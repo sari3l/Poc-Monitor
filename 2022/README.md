@@ -68,6 +68,11 @@
 - [Live-Hack-CVE/CVE-2022-4865](https://github.com/Live-Hack-CVE/CVE-2022-4865)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4865">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4865">
 
 ---
+## CVE-2022-48198 (2023-01-01T07:15:00)
+> The ntpd_driver component before 1.3.0 and 2.x before 2.2.0 for Robot Operating System (ROS) allows attackers, who control the source code of a different node in the same ROS application, to change a robot's behavior. This occurs because a topic name depends on the attacker-controlled time_ref_topic parameter.
+- [Live-Hack-CVE/CVE-2022-48198](https://github.com/Live-Hack-CVE/CVE-2022-48198)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-48198">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-48198">
+
+---
 ## CVE-2022-48195 (2022-12-31T01:15:00)
 > An issue was discovered in Mellium mellium.im/sasl before 0.3.1. When performing SCRAM-based SASL authentication, if the remote end advertises support for channel binding, no random nonce is generated (instead, the nonce is empty). This causes authentication to fail in the best case, but (if paired with a remote end that does not validate the length of the nonce) could lead to insufficient randomness being used during authentication.
 - [Live-Hack-CVE/CVE-2022-48195](https://github.com/Live-Hack-CVE/CVE-2022-48195)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-48195">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-48195">
@@ -76,6 +81,7 @@
 ## CVE-2022-47952 (2023-01-01T06:15:00)
 > lxc-user-nic in lxc through 5.0.1 is installed setuid root, and may allow local users to infer whether any file exists, even within a protected directory tree, because "Failed to open" often indicates that a file does not exist, whereas "does not refer to a network namespace path" often indicates that a file exists. NOTE: this is different from CVE-2018-6556 because the CVE-2018-6556 fix design was based on the premise that "we will report back to the user that the open() failed but the user has no way of knowing why it failed"; however, in many realistic cases, there are no plausible reasons for failing except that the file does not exist.
 - [MaherAzzouzi/CVE-2022-47952](https://github.com/MaherAzzouzi/CVE-2022-47952)	<img alt="forks" src="https://img.shields.io/github/forks/MaherAzzouzi/CVE-2022-47952">	<img alt="stars" src="https://img.shields.io/github/stars/MaherAzzouzi/CVE-2022-47952">
+- [Live-Hack-CVE/CVE-2022-47952](https://github.com/Live-Hack-CVE/CVE-2022-47952)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47952">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47952">
 
 ---
 ## CVE-2022-47943 (2022-12-23T17:15:00)
@@ -126,6 +132,11 @@
 ## CVE-2022-47895 (2022-12-22T11:15:00)
 > In JetBrains IntelliJ IDEA before 2022.3.1 the "Validate JSP File" action used the HTTP protocol to download required JAR files.
 - [Live-Hack-CVE/CVE-2022-47895](https://github.com/Live-Hack-CVE/CVE-2022-47895)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47895">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47895">
+
+---
+## CVE-2022-47634 (2023-01-01T08:15:00)
+> M-Link Archive Server in Isode M-Link R16.2v1 through R17.0 before R17.0v24 allows non-administrative users to access and manipulate archive data via certain HTTP endpoints, aka LINK-2867.
+- [Live-Hack-CVE/CVE-2022-47634](https://github.com/Live-Hack-CVE/CVE-2022-47634)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47634">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47634">
 
 ---
 ## CVE-2022-47629 (2022-12-20T23:15:00)
@@ -1969,6 +1980,11 @@
 - [Live-Hack-CVE/CVE-2022-45215](https://github.com/Live-Hack-CVE/CVE-2022-45215)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45215">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45215">
 
 ---
+## CVE-2022-45213 (2023-01-01T08:15:00)
+> perfSONAR before 4.4.6 inadvertently supports the parse option for a file:// URL.
+- [Live-Hack-CVE/CVE-2022-45213](https://github.com/Live-Hack-CVE/CVE-2022-45213)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45213">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45213">
+
+---
 ## CVE-2022-4521 (2022-12-15T21:15:00)
 > A vulnerability classified as problematic has been found in WSO2 carbon-registry up to 4.8.7. This affects an unknown part of the component Request Parameter Handler. The manipulation of the argument parentPath/path/username/path/profile_menu leads to cross site scripting. It is possible to initiate the attack remotely. Upgrading to version 4.8.12 is able to address this issue. The name of the patch is 9f967abfde9317bee2cda469dbc09b57d539f2cc. It is recommended to upgrade the affected component. The identifier VDB-215901 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-4521](https://github.com/Live-Hack-CVE/CVE-2022-4521)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4521">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4521">
@@ -2120,6 +2136,11 @@
 ## CVE-2022-45028 (2022-12-13T18:15:00)
 > A cross-site scripting (XSS) vulnerability in Arris NVG443B 9.3.0h3d36 allows attackers to execute arbitrary web scripts or HTML via a crafted POST request sent to /cgi-bin/logs.ha.
 - [Live-Hack-CVE/CVE-2022-45028](https://github.com/Live-Hack-CVE/CVE-2022-45028)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45028">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45028">
+
+---
+## CVE-2022-45027 (2023-01-01T08:15:00)
+> perfSONAR before 4.4.6, when performing participant discovery, incorrectly uses an HTTP request header value to determine a local address.
+- [Live-Hack-CVE/CVE-2022-45027](https://github.com/Live-Hack-CVE/CVE-2022-45027)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45027">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45027">
 
 ---
 ## CVE-2022-45026 (2022-12-07T02:15:00)
@@ -8363,6 +8384,11 @@
 - [Live-Hack-CVE/CVE-2022-40712](https://github.com/Live-Hack-CVE/CVE-2022-40712)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40712">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40712">
 
 ---
+## CVE-2022-40711 (2023-01-01T08:15:00)
+> PrimeKey EJBCA 7.9.0.2 Community allows stored XSS in the End Entity section. A user with the RA Administrator role can inject an XSS payload to target higher-privilege users.
+- [Live-Hack-CVE/CVE-2022-40711](https://github.com/Live-Hack-CVE/CVE-2022-40711)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40711">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40711">
+
+---
 ## CVE-2022-40710 (2022-09-28T21:15:00)
 > A link following vulnerability in Trend Micro Deep Security 20 and Cloud One - Workload Security Agent for Windows could allow a local attacker to escalate privileges on affected installations. Please note: an attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability.
 - [Live-Hack-CVE/CVE-2022-40710](https://github.com/Live-Hack-CVE/CVE-2022-40710)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40710">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40710">
@@ -12240,6 +12266,11 @@
 - [Live-Hack-CVE/CVE-2022-38227](https://github.com/Live-Hack-CVE/CVE-2022-38227)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38227">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38227">
 
 ---
+## CVE-2022-38223 (2022-08-15T11:21:00)
+> There is an out-of-bounds write in checkType located in etc.c in w3m 0.5.3. It can be triggered by sending a crafted HTML file to the w3m binary. It allows an attacker to cause Denial of Service or possibly have unspecified other impact.
+- [Live-Hack-CVE/CVE-2022-38223](https://github.com/Live-Hack-CVE/CVE-2022-38223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38223">
+
+---
 ## CVE-2022-38222 (2022-09-29T03:15:00)
 > There is a use-after-free issue in JBIG2Stream::close() located in JBIG2Stream.cc in Xpdf 4.04. It can be triggered by sending a crafted PDF file to (for example) the pdfimages binary. It allows an attacker to cause Denial of Service or possibly have unspecified other impact.
 - [Live-Hack-CVE/CVE-2022-38222](https://github.com/Live-Hack-CVE/CVE-2022-38222)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38222">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38222">
@@ -13290,6 +13321,11 @@
 ## CVE-2022-37794 (2022-09-12T00:15:00)
 > In Library Management System 1.0 the /card/in-card.php file id_no parameters are vulnerable to SQL injection.
 - [Live-Hack-CVE/CVE-2022-37794](https://github.com/Live-Hack-CVE/CVE-2022-37794)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37794">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37794">
+
+---
+## CVE-2022-37787 (2023-01-01T08:15:00)
+> An issue was discovered in WeCube platform 3.2.2. A DOM XSS vulnerability has been found on the plugin database execution page.
+- [Live-Hack-CVE/CVE-2022-37787](https://github.com/Live-Hack-CVE/CVE-2022-37787)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37787">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37787">
 
 ---
 ## CVE-2022-37786 (2023-01-01T08:15:00)
