@@ -3405,6 +3405,121 @@
 - [Live-Hack-CVE/CVE-2022-43867](https://github.com/Live-Hack-CVE/CVE-2022-43867)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43867">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43867">
 
 ---
+## CVE-2022-43805 (2023-01-01T01:15:00)
+> To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used.
+- [Live-Hack-CVE/CVE-2022-43805](https://github.com/Live-Hack-CVE/CVE-2022-43805)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43805">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43805">
+
+---
+## CVE-2022-43804 (2023-01-01T01:15:00)
+> To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used.
+- [Live-Hack-CVE/CVE-2022-43804](https://github.com/Live-Hack-CVE/CVE-2022-43804)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43804">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43804">
+
+---
+## CVE-2022-43803 (2023-01-01T01:15:00)
+> To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used.
+- [Live-Hack-CVE/CVE-2022-43803](https://github.com/Live-Hack-CVE/CVE-2022-43803)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43803">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43803">
+
+---
+## CVE-2022-43802 (2023-01-01T01:15:00)
+> To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used.
+- [Live-Hack-CVE/CVE-2022-43802](https://github.com/Live-Hack-CVE/CVE-2022-43802)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43802">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43802">
+
+---
+## CVE-2022-43801 (2023-01-01T01:15:00)
+> To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used.
+- [Live-Hack-CVE/CVE-2022-43801](https://github.com/Live-Hack-CVE/CVE-2022-43801)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43801">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43801">
+
+---
+## CVE-2022-43800 (2023-01-01T01:15:00)
+> To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used.
+- [Live-Hack-CVE/CVE-2022-43800](https://github.com/Live-Hack-CVE/CVE-2022-43800)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43800">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43800">
+
+---
+## CVE-2022-43799 (2023-01-01T01:15:00)
+> To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used.
+- [Live-Hack-CVE/CVE-2022-43799](https://github.com/Live-Hack-CVE/CVE-2022-43799)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43799">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43799">
+
+---
+## CVE-2022-43798 (2023-01-01T01:15:00)
+> To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used.
+- [Live-Hack-CVE/CVE-2022-43798](https://github.com/Live-Hack-CVE/CVE-2022-43798)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43798">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43798">
+
+---
+## CVE-2022-43797 (2023-01-01T01:15:00)
+> To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used.
+- [Live-Hack-CVE/CVE-2022-43797](https://github.com/Live-Hack-CVE/CVE-2022-43797)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43797">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43797">
+
+---
+## CVE-2022-43796 (2023-01-01T01:15:00)
+> To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used.
+- [Live-Hack-CVE/CVE-2022-43796](https://github.com/Live-Hack-CVE/CVE-2022-43796)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43796">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43796">
+
+---
+## CVE-2022-43795 (2023-01-01T01:15:00)
+> To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used.
+- [Live-Hack-CVE/CVE-2022-43795](https://github.com/Live-Hack-CVE/CVE-2022-43795)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43795">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43795">
+
+---
+## CVE-2022-43794 (2023-01-01T01:15:00)
+> To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used.
+- [Live-Hack-CVE/CVE-2022-43794](https://github.com/Live-Hack-CVE/CVE-2022-43794)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43794">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43794">
+
+---
+## CVE-2022-43793 (2023-01-01T01:15:00)
+> To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used.
+- [Live-Hack-CVE/CVE-2022-43793](https://github.com/Live-Hack-CVE/CVE-2022-43793)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43793">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43793">
+
+---
+## CVE-2022-43792 (2023-01-01T01:15:00)
+> To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used.
+- [Live-Hack-CVE/CVE-2022-43792](https://github.com/Live-Hack-CVE/CVE-2022-43792)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43792">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43792">
+
+---
+## CVE-2022-43791 (2023-01-01T01:15:00)
+> To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used.
+- [Live-Hack-CVE/CVE-2022-43791](https://github.com/Live-Hack-CVE/CVE-2022-43791)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43791">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43791">
+
+---
+## CVE-2022-43790 (2023-01-01T01:15:00)
+> To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used.
+- [Live-Hack-CVE/CVE-2022-43790](https://github.com/Live-Hack-CVE/CVE-2022-43790)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43790">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43790">
+
+---
+## CVE-2022-43789 (2023-01-01T01:15:00)
+> To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used.
+- [Live-Hack-CVE/CVE-2022-43789](https://github.com/Live-Hack-CVE/CVE-2022-43789)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43789">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43789">
+
+---
+## CVE-2022-43788 (2023-01-01T01:15:00)
+> To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used.
+- [Live-Hack-CVE/CVE-2022-43788](https://github.com/Live-Hack-CVE/CVE-2022-43788)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43788">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43788">
+
+---
+## CVE-2022-43787 (2023-01-01T01:15:00)
+> To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used.
+- [Live-Hack-CVE/CVE-2022-43787](https://github.com/Live-Hack-CVE/CVE-2022-43787)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43787">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43787">
+
+---
+## CVE-2022-43786 (2023-01-01T01:15:00)
+> To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used.
+- [Live-Hack-CVE/CVE-2022-43786](https://github.com/Live-Hack-CVE/CVE-2022-43786)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43786">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43786">
+
+---
+## CVE-2022-43785 (2023-01-01T01:15:00)
+> To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used.
+- [Live-Hack-CVE/CVE-2022-43785](https://github.com/Live-Hack-CVE/CVE-2022-43785)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43785">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43785">
+
+---
+## CVE-2022-43784 (2023-01-01T01:15:00)
+> To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used.
+- [Live-Hack-CVE/CVE-2022-43784](https://github.com/Live-Hack-CVE/CVE-2022-43784)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43784">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43784">
+
+---
+## CVE-2022-43783 (2023-01-01T01:15:00)
+> To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used.
+- [Live-Hack-CVE/CVE-2022-43783](https://github.com/Live-Hack-CVE/CVE-2022-43783)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43783">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43783">
+
+---
 ## CVE-2022-43776 (2022-10-26T18:15:00)
 > The url parameter of the /api/geojson endpoint in Metabase versions <44.5 can be used to perform Server Side Request Forgery attacks. Previously implemented blacklists could be circumvented by leveraging 301 and 302 redirects.
 - [Live-Hack-CVE/CVE-2022-43776](https://github.com/Live-Hack-CVE/CVE-2022-43776)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43776">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43776">
@@ -14358,6 +14473,16 @@
 ## CVE-2022-36843 (2022-09-09T15:15:00)
 > A heap-based overflow vulnerability in MHW_RECOG_LIB_INFO function in libSDKRecognitionText.spensdk.samsung.so library prior to SMR Sep-2022 Release 1 allows attacker to cause memory access fault.
 - [Live-Hack-CVE/CVE-2022-36843](https://github.com/Live-Hack-CVE/CVE-2022-36843)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36843">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36843">
+
+---
+## CVE-2022-36827 (2023-01-01T01:15:00)
+> To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used.
+- [Live-Hack-CVE/CVE-2022-36827](https://github.com/Live-Hack-CVE/CVE-2022-36827)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36827">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36827">
+
+---
+## CVE-2022-36816 (2023-01-01T01:15:00)
+> To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used.
+- [Live-Hack-CVE/CVE-2022-36816](https://github.com/Live-Hack-CVE/CVE-2022-36816)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36816">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36816">
 
 ---
 ## CVE-2022-36804 (2022-08-25T06:15:00)
