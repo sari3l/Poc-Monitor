@@ -73,8 +73,8 @@
 - [Live-Hack-CVE/CVE-2022-48195](https://github.com/Live-Hack-CVE/CVE-2022-48195)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-48195">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-48195">
 
 ---
-## CVE-2022-47952 ()
-> 
+## CVE-2022-47952 (2023-01-01T06:15:00)
+> lxc-user-nic in lxc through 5.0.1 is installed setuid root, and may allow local users to infer whether any file exists, even within a protected directory tree, because "Failed to open" often indicates that a file does not exist, whereas "does not refer to a network namespace path" often indicates that a file exists. NOTE: this is different from CVE-2018-6556 because the CVE-2018-6556 fix design was based on the premise that "we will report back to the user that the open() failed but the user has no way of knowing why it failed"; however, in many realistic cases, there are no plausible reasons for failing except that the file does not exist.
 - [MaherAzzouzi/CVE-2022-47952](https://github.com/MaherAzzouzi/CVE-2022-47952)	<img alt="forks" src="https://img.shields.io/github/forks/MaherAzzouzi/CVE-2022-47952">	<img alt="stars" src="https://img.shields.io/github/stars/MaherAzzouzi/CVE-2022-47952">
 
 ---
@@ -13292,6 +13292,16 @@
 - [Live-Hack-CVE/CVE-2022-37794](https://github.com/Live-Hack-CVE/CVE-2022-37794)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37794">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37794">
 
 ---
+## CVE-2022-37786 (2023-01-01T08:15:00)
+> An issue was discovered in WeCube Platform 3.2.2. There are multiple CSV injection issues: the [Home / Admin / Resources] page, the [Home / Admin / System Params] page, and the [Home / Design / Basekey Configuration] page.
+- [Live-Hack-CVE/CVE-2022-37786](https://github.com/Live-Hack-CVE/CVE-2022-37786)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37786">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37786">
+
+---
+## CVE-2022-37785 (2023-01-01T08:15:00)
+> An issue was discovered in WeCube Platform 3.2.2. Cleartext passwords are displayed in the configuration for terminal plugins.
+- [Live-Hack-CVE/CVE-2022-37785](https://github.com/Live-Hack-CVE/CVE-2022-37785)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37785">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37785">
+
+---
 ## CVE-2022-37783 (2022-12-05T21:15:00)
 > All Craft CMS versions between 3.0.0 and 3.7.32 disclose password hashes of users who authenticate using their E-Mail address or username in Anti-CSRF-Tokens. Craft CMS uses a cookie called CRAFT_CSRF_TOKEN and a HTML hidden field called CRAFT_CSRF_TOKEN to avoid Cross Site Request Forgery attacks. The CRAFT_CSRF_TOKEN cookie discloses the password hash in without encoding it whereas the corresponding HTML hidden field discloses the users' password hash in a masked manner, which can be decoded by using public functions of the YII framework.
 - [Live-Hack-CVE/CVE-2022-37783](https://github.com/Live-Hack-CVE/CVE-2022-37783)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-37783">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-37783">
@@ -18507,6 +18517,21 @@
 ## CVE-2022-34329 (2022-11-14T18:15:00)
 > IBM CICS TX 11.7 could allow an attacker to obtain sensitive information from HTTP response headers. IBM X-Force ID: 229467.
 - [Live-Hack-CVE/CVE-2022-34329](https://github.com/Live-Hack-CVE/CVE-2022-34329)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34329">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34329">
+
+---
+## CVE-2022-34324 (2023-01-01T08:15:00)
+> Multiple SQL injections in Sage XRT Business Exchange 12.4.302 allow an authenticated attacker to inject malicious data in SQL queries: Add Currencies, Payment Order, and Transfer History.
+- [Live-Hack-CVE/CVE-2022-34324](https://github.com/Live-Hack-CVE/CVE-2022-34324)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34324">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34324">
+
+---
+## CVE-2022-34323 (2023-01-01T08:15:00)
+> Multiple XSS issues were discovered in Sage XRT Business Exchange 12.4.302 that allow an attacker to execute JavaScript code in the context of other users' browsers. The attacker needs to be authenticated to reach the vulnerable features. An issue is present in the Filters and Display model features (OnlineBanking > Web Monitoring > Settings > Filters / Display models). The name of a filter or a display model is interpreted as HTML and can thus embed JavaScript code, which is executed when displayed. This is a stored XSS. Another issue is present in the Notification feature (OnlineBanking > Configuration > Notifications and alerts > Alerts *). The name of an alert is interpreted as HTML, and can thus embed JavaScript code, which is executed when displayed. This is a stored XSS. (Also, an issue is present in the File download feature, accessible via /OnlineBanking/cgi/isapi.dll/DOWNLOADFRS. When requesting to show the list of downloadable files, the contents of three form fields are embedded in the JavaScript code without prior sanitization. This is essentially a self-XSS.)
+- [Live-Hack-CVE/CVE-2022-34323](https://github.com/Live-Hack-CVE/CVE-2022-34323)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34323">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34323">
+
+---
+## CVE-2022-34322 (2023-01-01T08:15:00)
+> Multiple XSS issues were discovered in Sage Enterprise Intelligence 2021 R1.1 that allow an attacker to execute JavaScript code in the context of users' browsers. The attacker needs to be authenticated to reach the vulnerable features. An issue is present in the Notify Users About Modification menu and the Notifications feature. A user can send malicious notifications and execute JavaScript code in the browser of every user who has enabled notifications. This is a stored XSS, and can lead to privilege escalation in the context of the application. (Another issue is present in the Favorites tab. The name of a favorite or a folder of favorites is interpreted as HTML, and can thus embed JavaScript code, which is executed when displayed. This is a self-XSS.)
+- [Live-Hack-CVE/CVE-2022-34322](https://github.com/Live-Hack-CVE/CVE-2022-34322)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34322">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34322">
 
 ---
 ## CVE-2022-34319 (2022-11-14T18:15:00)

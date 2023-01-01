@@ -169,6 +169,11 @@
 - [Live-Hack-CVE/CVE-2014-1705](https://github.com/Live-Hack-CVE/CVE-2014-1705)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-1705">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-1705">
 
 ---
+## CVE-2014-125030 (2023-01-01T09:15:00)
+> A vulnerability, which was classified as critical, has been found in taoeffect Empress. Affected by this issue is some unknown functionality. The manipulation leads to use of hard-coded password. The name of the patch is 557e177d8a309d6f0f26de46efb38d43e000852d. It is recommended to apply a patch to fix this issue. VDB-217154 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2014-125030](https://github.com/Live-Hack-CVE/CVE-2014-125030)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125030">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125030">
+
+---
 ## CVE-2014-125028 (2022-12-31T20:15:00)
 > A vulnerability was found in valtech IDP Test Client and classified as problematic. Affected by this issue is some unknown functionality of the file python-flask/main.py. The manipulation leads to cross-site request forgery. The attack may be launched remotely. The name of the patch is f1e7b3d431c8681ec46445557125890c14fa295f. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-217148.
 - [Live-Hack-CVE/CVE-2014-125028](https://github.com/Live-Hack-CVE/CVE-2014-125028)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125028">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125028">

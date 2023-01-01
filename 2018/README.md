@@ -375,6 +375,16 @@
 - [forlin/CVE-2018-2628](https://github.com/forlin/CVE-2018-2628)	<img alt="forks" src="https://img.shields.io/github/forks/forlin/CVE-2018-2628">	<img alt="stars" src="https://img.shields.io/github/stars/forlin/CVE-2018-2628">
 
 ---
+## CVE-2018-25063 (2023-01-01T09:15:00)
+> A vulnerability classified as problematic was found in Zenoss Dashboard up to 1.3.4. Affected by this vulnerability is an unknown functionality of the file ZenPacks/zenoss/Dashboard/browser/resources/js/defaultportlets.js. The manipulation of the argument HTMLString leads to cross site scripting. The attack can be launched remotely. Upgrading to version 1.3.5 is able to address this issue. The name of the patch is f462285a0a2d7e1a9255b0820240b94a43b00a44. It is recommended to upgrade the affected component. The identifier VDB-217153 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2018-25063](https://github.com/Live-Hack-CVE/CVE-2018-25063)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-25063">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-25063">
+
+---
+## CVE-2018-25062 (2023-01-01T09:15:00)
+> A vulnerability classified as problematic has been found in flar2 ElementalX up to 6.x. Affected is the function xfrm_dump_policy_done of the file net/xfrm/xfrm_user.c of the component ipsec. The manipulation leads to denial of service. Upgrading to version 7.00 is able to address this issue. The name of the patch is 1df72c9f0f61304437f4f1037df03b5fb36d5a79. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-217152.
+- [Live-Hack-CVE/CVE-2018-25062](https://github.com/Live-Hack-CVE/CVE-2018-25062)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-25062">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-25062">
+
+---
 ## CVE-2018-25061 (2022-12-31T20:15:00)
 > A vulnerability was found in rgb2hex up to 0.1.5. It has been rated as problematic. This issue affects some unknown processing. The manipulation leads to inefficient regular expression complexity. The attack may be initiated remotely. Upgrading to version 0.1.6 is able to address this issue. The name of the patch is 9e0c38594432edfa64136fdf7bb651835e17c34f. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-217151.
 - [Live-Hack-CVE/CVE-2018-25061](https://github.com/Live-Hack-CVE/CVE-2018-25061)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-25061">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-25061">
