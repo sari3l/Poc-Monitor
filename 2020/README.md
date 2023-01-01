@@ -2877,6 +2877,7 @@
 > The MSI AmbientLink MsIo64 driver 1.0.0.8 has a Buffer Overflow (0x80102040, 0x80102044, 0x80102050,and 0x80102054).
 - [Exploitables/CVE-2020-17382](https://github.com/Exploitables/CVE-2020-17382)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2020-17382">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2020-17382">
 - [uf0o/CVE-2020-17382](https://github.com/uf0o/CVE-2020-17382)	<img alt="forks" src="https://img.shields.io/github/forks/uf0o/CVE-2020-17382">	<img alt="stars" src="https://img.shields.io/github/stars/uf0o/CVE-2020-17382">
+- [houseofxyz/CVE-2020-17382](https://github.com/houseofxyz/CVE-2020-17382)	<img alt="forks" src="https://img.shields.io/github/forks/houseofxyz/CVE-2020-17382">	<img alt="stars" src="https://img.shields.io/github/stars/houseofxyz/CVE-2020-17382">
 
 ---
 ## CVE-2020-17380 (2021-01-30T06:15:00)
