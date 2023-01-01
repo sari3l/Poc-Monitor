@@ -143,6 +143,11 @@
 - [Live-Hack-CVE/CVE-2013-1511](https://github.com/Live-Hack-CVE/CVE-2013-1511)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-1511">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-1511">
 
 ---
+## CVE-2013-10006 (2023-01-01T17:15:00)
+> A vulnerability classified as problematic was found in Ziftr primecoin up to 0.8.4rc1. Affected by this vulnerability is the function HTTPAuthorized of the file src/bitcoinrpc.cpp. The manipulation of the argument strUserPass/strRPCUserColonPass leads to observable timing discrepancy. Upgrading to version 0.8.4rc2 is able to address this issue. The name of the patch is cdb3441b5cd2c1bae49fae671dc4a496f7c96322. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-217171.
+- [Live-Hack-CVE/CVE-2013-10006](https://github.com/Live-Hack-CVE/CVE-2013-10006)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-10006">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-10006">
+
+---
 ## CVE-2013-0900 (2013-02-23T21:55:00)
 > Race condition in the International Components for Unicode (ICU) functionality in Google Chrome before 25.0.1364.97 on Windows and Linux, and before 25.0.1364.99 on Mac OS X, allows remote attackers to cause a denial of service or possibly have unspecified other impact via unknown vectors.
 - [Live-Hack-CVE/CVE-2013-0900](https://github.com/Live-Hack-CVE/CVE-2013-0900)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-0900">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-0900">
