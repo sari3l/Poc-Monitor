@@ -73,6 +73,11 @@
 - [Live-Hack-CVE/CVE-2022-48198](https://github.com/Live-Hack-CVE/CVE-2022-48198)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-48198">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-48198">
 
 ---
+## CVE-2022-48197 ()
+> 
+- [ryan412/CVE-2022-48197](https://github.com/ryan412/CVE-2022-48197)	<img alt="forks" src="https://img.shields.io/github/forks/ryan412/CVE-2022-48197">	<img alt="stars" src="https://img.shields.io/github/stars/ryan412/CVE-2022-48197">
+
+---
 ## CVE-2022-48195 (2022-12-31T01:15:00)
 > An issue was discovered in Mellium mellium.im/sasl before 0.3.1. When performing SCRAM-based SASL authentication, if the remote end advertises support for channel binding, no random nonce is generated (instead, the nonce is empty). This causes authentication to fail in the best case, but (if paired with a remote end that does not validate the length of the nonce) could lead to insufficient randomness being used during authentication.
 - [Live-Hack-CVE/CVE-2022-48195](https://github.com/Live-Hack-CVE/CVE-2022-48195)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-48195">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-48195">
