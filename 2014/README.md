@@ -169,6 +169,16 @@
 - [Live-Hack-CVE/CVE-2014-1705](https://github.com/Live-Hack-CVE/CVE-2014-1705)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-1705">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-1705">
 
 ---
+## CVE-2014-125038 (2023-01-02T18:15:00)
+> A vulnerability has been found in IS_Projecto2 and classified as critical. This vulnerability affects unknown code of the file Cnn-EJB/ejbModule/ejbs/NewsBean.java. The manipulation of the argument date leads to sql injection. The name of the patch is aa128b2c9c9fdcbbf5ecd82c1e92103573017fe0. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-217192.
+- [Live-Hack-CVE/CVE-2014-125038](https://github.com/Live-Hack-CVE/CVE-2014-125038)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125038">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125038">
+
+---
+## CVE-2014-125037 (2023-01-02T18:15:00)
+> A vulnerability, which was classified as critical, was found in License to Kill. This affects an unknown part of the file models/injury.rb. The manipulation of the argument name leads to sql injection. The name of the patch is cd11cf174f361c98e9b1b4c281aa7b77f46b5078. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-217191.
+- [Live-Hack-CVE/CVE-2014-125037](https://github.com/Live-Hack-CVE/CVE-2014-125037)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125037">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125037">
+
+---
 ## CVE-2014-125035 (2023-01-02T16:15:00)
 > A vulnerability classified as problematic was found in Jobs-Plugin. Affected by this vulnerability is an unknown functionality. The manipulation leads to cross site scripting. The attack can be launched remotely. The name of the patch is b8a56718b1d42834c6ec51d9c489c5dc20471d7b. It is recommended to apply a patch to fix this issue. The identifier VDB-217189 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2014-125035](https://github.com/Live-Hack-CVE/CVE-2014-125035)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125035">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125035">

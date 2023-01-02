@@ -3620,6 +3620,12 @@
 - [swapravo/polkadots](https://github.com/swapravo/polkadots)	<img alt="forks" src="https://img.shields.io/github/forks/swapravo/polkadots">	<img alt="stars" src="https://img.shields.io/github/stars/swapravo/polkadots">
 
 ---
+## CVE-2021-35576 (2021-10-20T11:16:00)
+> Vulnerability in the Oracle Database Enterprise Edition Unified Audit component of Oracle Database Server. Supported versions that are affected are 12.1.0.2, 12.2.0.1 and 19c. Easily exploitable vulnerability allows high privileged attacker having Local Logon privilege with network access via Oracle Net to compromise Oracle Database Enterprise Edition Unified Audit. Successful attacks of this vulnerability can result in unauthorized update, insert or delete access to some of Oracle Database Enterprise Edition Unified Audit accessible data. CVSS 3.1 Base Score 2.7 (Integrity impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:L/A:N).
+- [Live-Hack-CVE/CVE-2021-35576](https://github.com/Live-Hack-CVE/CVE-2021-35576)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35576">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35576">
+- [emad-almousa/CVE-2021-35576](https://github.com/emad-almousa/CVE-2021-35576)	<img alt="forks" src="https://img.shields.io/github/forks/emad-almousa/CVE-2021-35576">	<img alt="stars" src="https://img.shields.io/github/stars/emad-almousa/CVE-2021-35576">
+
+---
 ## CVE-2021-35542 (2021-10-20T11:16:00)
 > Vulnerability in the Oracle VM VirtualBox product of Oracle Virtualization (component: Core). The supported version that is affected is Prior to 6.1.28. Easily exploitable vulnerability allows high privileged attacker with logon to the infrastructure where Oracle VM VirtualBox executes to compromise Oracle VM VirtualBox. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of Oracle VM VirtualBox. CVSS 3.1 Base Score 4.4 (Availability impacts). CVSS Vector: (CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).
 - [Live-Hack-CVE/CVE-2021-35542](https://github.com/Live-Hack-CVE/CVE-2021-35542)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35542">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35542">
