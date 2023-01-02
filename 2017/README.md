@@ -435,6 +435,11 @@
 - [Live-Hack-CVE/CVE-2017-2599](https://github.com/Live-Hack-CVE/CVE-2017-2599)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-2599">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-2599">
 
 ---
+## CVE-2017-20161 (2023-01-02T16:15:00)
+> A vulnerability classified as problematic has been found in rofl0r MacGeiger. Affected is the function dump_wlan_at of the file macgeiger.c of the component ESSID Handler. The manipulation leads to injection. Access to the local network is required for this attack to succeed. The name of the patch is 57f1dd50a4821b8c8e676e8020006ae4bfd3c9cb. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-217188.
+- [Live-Hack-CVE/CVE-2017-20161](https://github.com/Live-Hack-CVE/CVE-2017-20161)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20161">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20161">
+
+---
 ## CVE-2017-20160 (2022-12-31T20:15:00)
 > A vulnerability was found in flitto express-param up to 0.x. It has been classified as critical. This affects an unknown part of the file lib/fetchParams.js. The manipulation leads to improper handling of extra parameters. It is possible to initiate the attack remotely. Upgrading to version 1.0.0 is able to address this issue. The name of the patch is db94f7391ad0a16dcfcba8b9be1af385b25c42db. It is recommended to upgrade the affected component. The identifier VDB-217149 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2017-20160](https://github.com/Live-Hack-CVE/CVE-2017-20160)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20160">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20160">

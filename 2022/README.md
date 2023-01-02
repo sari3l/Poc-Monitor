@@ -73,9 +73,10 @@
 - [Live-Hack-CVE/CVE-2022-48198](https://github.com/Live-Hack-CVE/CVE-2022-48198)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-48198">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-48198">
 
 ---
-## CVE-2022-48197 ()
-> 
+## CVE-2022-48197 (2023-01-02T16:15:00)
+> ** UNSUPPORTED WHEN ASSIGNED ** Reflected cross-site scripting (XSS) exists in the TreeView of YUI2 through 2800: up.php sam.php renderhidden.php removechildren.php removeall.php readd.php overflow.php newnode2.php newnode.php. NOTE: This vulnerability only affects products that are no longer supported by the maintainer.
 - [ryan412/CVE-2022-48197](https://github.com/ryan412/CVE-2022-48197)	<img alt="forks" src="https://img.shields.io/github/forks/ryan412/CVE-2022-48197">	<img alt="stars" src="https://img.shields.io/github/stars/ryan412/CVE-2022-48197">
+- [Live-Hack-CVE/CVE-2022-48197](https://github.com/Live-Hack-CVE/CVE-2022-48197)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-48197">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-48197">
 
 ---
 ## CVE-2022-48195 (2022-12-31T01:15:00)
