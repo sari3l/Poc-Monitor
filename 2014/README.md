@@ -179,6 +179,11 @@
 - [Live-Hack-CVE/CVE-2014-125037](https://github.com/Live-Hack-CVE/CVE-2014-125037)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125037">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125037">
 
 ---
+## CVE-2014-125036 (2023-01-02T19:15:00)
+> A vulnerability, which was classified as problematic, has been found in drybjed ansible-ntp. Affected by this issue is some unknown functionality of the file meta/main.yml. The manipulation leads to insufficient control of network message volume. The attack can only be done within the local network. The name of the patch is ed4ca2cf012677973c220cdba36b5c60bfa0260b. It is recommended to apply a patch to fix this issue. VDB-217190 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2014-125036](https://github.com/Live-Hack-CVE/CVE-2014-125036)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125036">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125036">
+
+---
 ## CVE-2014-125035 (2023-01-02T16:15:00)
 > A vulnerability classified as problematic was found in Jobs-Plugin. Affected by this vulnerability is an unknown functionality. The manipulation leads to cross site scripting. The attack can be launched remotely. The name of the patch is b8a56718b1d42834c6ec51d9c489c5dc20471d7b. It is recommended to apply a patch to fix this issue. The identifier VDB-217189 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2014-125035](https://github.com/Live-Hack-CVE/CVE-2014-125035)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125035">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125035">
