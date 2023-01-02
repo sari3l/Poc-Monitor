@@ -169,6 +169,11 @@
 - [Live-Hack-CVE/CVE-2014-1705](https://github.com/Live-Hack-CVE/CVE-2014-1705)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-1705">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-1705">
 
 ---
+## CVE-2014-125034 (2023-01-02T11:15:00)
+> A vulnerability has been found in stiiv contact_app and classified as problematic. Affected by this vulnerability is the function render of the file libs/View.php. The manipulation of the argument var leads to cross site scripting. The attack can be launched remotely. The name of the patch is 67bec33f559da9d41a1b45eb9e992bd8683a7f8c. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-217183.
+- [Live-Hack-CVE/CVE-2014-125034](https://github.com/Live-Hack-CVE/CVE-2014-125034)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125034">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125034">
+
+---
 ## CVE-2014-125033 (2023-01-02T08:15:00)
 > A vulnerability was found in rails-cv-app. It has been rated as problematic. Affected by this issue is some unknown functionality of the file app/controllers/uploaded_files_controller.rb. The manipulation with the input ../../../etc/passwd leads to path traversal: '../filedir'. The exploit has been disclosed to the public and may be used. The name of the patch is 0d20362af0a5f8a126f67c77833868908484a863. It is recommended to apply a patch to fix this issue. VDB-217178 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2014-125033](https://github.com/Live-Hack-CVE/CVE-2014-125033)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125033">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125033">

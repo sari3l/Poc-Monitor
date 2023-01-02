@@ -1184,6 +1184,11 @@
 - [Live-Hack-CVE/CVE-2019-2614](https://github.com/Live-Hack-CVE/CVE-2019-2614)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-2614">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-2614">
 
 ---
+## CVE-2019-25093 (2023-01-02T11:15:00)
+> A vulnerability, which was classified as problematic, was found in dragonexpert Recent Threads on Index. Affected is the function recentthread_list_threads of the file inc/plugins/recentthreads/hooks.php of the component Setting Handler. The manipulation of the argument recentthread_forumskip leads to cross site scripting. It is possible to launch the attack remotely. The name of the patch is 051465d807a8fcc6a8b0f4bcbb19299672399f48. It is recommended to apply a patch to fix this issue. VDB-217182 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2019-25093](https://github.com/Live-Hack-CVE/CVE-2019-25093)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25093">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25093">
+
+---
 ## CVE-2019-25089 (2022-12-27T12:15:00)
 > A vulnerability has been found in Morgawr Muon 0.1.1 and classified as problematic. Affected by this vulnerability is an unknown functionality of the file src/muon/handler.clj. The manipulation leads to insufficiently random values. The attack can be launched remotely. Upgrading to version 0.2.0-indev is able to address this issue. The name of the patch is c09ed972c020f759110c707b06ca2644f0bacd7f. It is recommended to upgrade the affected component. The identifier VDB-216877 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2019-25089](https://github.com/Live-Hack-CVE/CVE-2019-25089)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25089">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25089">

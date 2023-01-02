@@ -261,6 +261,16 @@
 - [poxicity/CVE-2015-1328](https://github.com/poxicity/CVE-2015-1328)	<img alt="forks" src="https://img.shields.io/github/forks/poxicity/CVE-2015-1328">	<img alt="stars" src="https://img.shields.io/github/stars/poxicity/CVE-2015-1328">
 
 ---
+## CVE-2015-10008 (2023-01-02T11:15:00)
+> ** UNSUPPPORTED WHEN ASSIGNED **** UNSUPPORTED WHEN ASSIGNED ** A vulnerability was found in 82Flex WEIPDCRM. It has been classified as critical. This affects an unknown part. The manipulation leads to sql injection. It is possible to initiate the attack remotely. The name of the patch is 43bad79392332fa39e31b95268e76fbda9fec3a4. It is recommended to apply a patch to fix this issue. The identifier VDB-217185 was assigned to this vulnerability. NOTE: This vulnerability only affects products that are no longer supported by the maintainer.
+- [Live-Hack-CVE/CVE-2015-10008](https://github.com/Live-Hack-CVE/CVE-2015-10008)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-10008">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-10008">
+
+---
+## CVE-2015-10007 (2023-01-02T11:15:00)
+> ** UNSUPPPORTED WHEN ASSIGNED **** UNSUPPORTED WHEN ASSIGNED ** A vulnerability was found in 82Flex WEIPDCRM and classified as problematic. Affected by this issue is some unknown functionality. The manipulation leads to cross site scripting. The attack may be launched remotely. The name of the patch is 43bad79392332fa39e31b95268e76fbda9fec3a4. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-217184. NOTE: This vulnerability only affects products that are no longer supported by the maintainer.
+- [Live-Hack-CVE/CVE-2015-10007](https://github.com/Live-Hack-CVE/CVE-2015-10007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-10007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-10007">
+
+---
 ## CVE-2015-10006 (2023-01-01T17:15:00)
 > A vulnerability, which was classified as problematic, has been found in admont28 Ingnovarq. Affected by this issue is some unknown functionality of the file app/controller/insertarSliderAjax.php. The manipulation of the argument imagetitle leads to cross site scripting. The attack may be launched remotely. The name of the patch is 9d18a39944d79dfedacd754a742df38f99d3c0e2. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-217172.
 - [Live-Hack-CVE/CVE-2015-10006](https://github.com/Live-Hack-CVE/CVE-2015-10006)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-10006">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-10006">
