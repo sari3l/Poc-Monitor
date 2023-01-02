@@ -1095,6 +1095,7 @@
 - [0xf4n9x/CVE-2022-46169](https://github.com/0xf4n9x/CVE-2022-46169)	<img alt="forks" src="https://img.shields.io/github/forks/0xf4n9x/CVE-2022-46169">	<img alt="stars" src="https://img.shields.io/github/stars/0xf4n9x/CVE-2022-46169">
 - [rb-x/CVE-2022-46169](https://github.com/rb-x/CVE-2022-46169)	<img alt="forks" src="https://img.shields.io/github/forks/rb-x/CVE-2022-46169">	<img alt="stars" src="https://img.shields.io/github/stars/rb-x/CVE-2022-46169">
 - [Live-Hack-CVE/CVE-2022-46169](https://github.com/Live-Hack-CVE/CVE-2022-46169)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46169">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46169">
+- [Inplex-sys/CVE-2022-46169](https://github.com/Inplex-sys/CVE-2022-46169)	<img alt="forks" src="https://img.shields.io/github/forks/Inplex-sys/CVE-2022-46169">	<img alt="stars" src="https://img.shields.io/github/stars/Inplex-sys/CVE-2022-46169">
 
 ---
 ## CVE-2022-46167 (2022-12-02T19:15:00)
