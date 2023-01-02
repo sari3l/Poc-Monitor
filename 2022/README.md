@@ -5358,6 +5358,11 @@
 - [Live-Hack-CVE/CVE-2022-42488](https://github.com/Live-Hack-CVE/CVE-2022-42488)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42488">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42488">
 
 ---
+## CVE-2022-42475 (2023-01-02T09:15:00)
+> A heap-based buffer overflow vulnerability [CWE-122] in FortiOS SSL-VPN 7.2.0 through 7.2.2, 7.0.0 through 7.0.8, 6.4.0 through 6.4.10, 6.2.0 through 6.2.11, 6.0.15 and earlier and FortiProxy SSL-VPN 7.2.0 through 7.2.1, 7.0.7 and earlier may allow a remote unauthenticated attacker to execute arbitrary code or commands via specifically crafted requests.
+- [Live-Hack-CVE/CVE-2022-42475](https://github.com/Live-Hack-CVE/CVE-2022-42475)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42475">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42475">
+
+---
 ## CVE-2022-42468 (2022-10-26T16:15:00)
 > Apache Flume versions 1.4.0 through 1.10.1 are vulnerable to a remote code execution (RCE) attack when a configuration uses a JMS Source with an unsafe providerURL. This issue is fixed by limiting JNDI to allow only the use of the java protocol or no protocol.
 - [Live-Hack-CVE/CVE-2022-42468](https://github.com/Live-Hack-CVE/CVE-2022-42468)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42468">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42468">

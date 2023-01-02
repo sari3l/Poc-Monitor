@@ -169,6 +169,21 @@
 - [Live-Hack-CVE/CVE-2014-1705](https://github.com/Live-Hack-CVE/CVE-2014-1705)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-1705">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-1705">
 
 ---
+## CVE-2014-125033 (2023-01-02T08:15:00)
+> A vulnerability was found in rails-cv-app. It has been rated as problematic. Affected by this issue is some unknown functionality of the file app/controllers/uploaded_files_controller.rb. The manipulation with the input ../../../etc/passwd leads to path traversal: '../filedir'. The exploit has been disclosed to the public and may be used. The name of the patch is 0d20362af0a5f8a126f67c77833868908484a863. It is recommended to apply a patch to fix this issue. VDB-217178 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2014-125033](https://github.com/Live-Hack-CVE/CVE-2014-125033)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125033">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125033">
+
+---
+## CVE-2014-125032 (2023-01-02T08:15:00)
+> A vulnerability was found in porpeeranut go-with-me. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the file module/frontend/add.php. The manipulation leads to sql injection. The name of the patch is b92451e4f9e85e26cf493c95ea0a69e354c35df9. It is recommended to apply a patch to fix this issue. The identifier VDB-217177 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2014-125032](https://github.com/Live-Hack-CVE/CVE-2014-125032)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125032">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125032">
+
+---
+## CVE-2014-125031 (2023-01-02T08:15:00)
+> A vulnerability was found in kirill2485 TekNet. It has been classified as problematic. Affected is an unknown function of the file pages/loggedin.php. The manipulation of the argument statusentery leads to cross site scripting. It is possible to launch the attack remotely. The name of the patch is 1c575340539f983333aa43fc58ecd76eb53e1816. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-217176.
+- [Live-Hack-CVE/CVE-2014-125031](https://github.com/Live-Hack-CVE/CVE-2014-125031)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125031">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125031">
+
+---
 ## CVE-2014-125030 (2023-01-01T09:15:00)
 > A vulnerability, which was classified as critical, has been found in taoeffect Empress. Affected by this issue is some unknown functionality. The manipulation leads to use of hard-coded password. The name of the patch is 557e177d8a309d6f0f26de46efb38d43e000852d. It is recommended to apply a patch to fix this issue. VDB-217154 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2014-125030](https://github.com/Live-Hack-CVE/CVE-2014-125030)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125030">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125030">

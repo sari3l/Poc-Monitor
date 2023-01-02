@@ -973,6 +973,16 @@
 - [Live-Hack-CVE/CVE-2021-43019](https://github.com/Live-Hack-CVE/CVE-2021-43019)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43019">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43019">
 
 ---
+## CVE-2021-4299 (2023-01-02T08:15:00)
+> A vulnerability classified as problematic was found in cronvel string-kit up to 0.12.7. This vulnerability affects the function naturalSort of the file lib/naturalSort.js. The manipulation leads to inefficient regular expression complexity. The attack can be initiated remotely. Upgrading to version 0.12.8 is able to address this issue. The name of the patch is 9cac4c298ee92c1695b0695951f1488884a7ca73. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-217180.
+- [Live-Hack-CVE/CVE-2021-4299](https://github.com/Live-Hack-CVE/CVE-2021-4299)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4299">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4299">
+
+---
+## CVE-2021-4298 (2023-01-02T08:15:00)
+> A vulnerability classified as critical has been found in Hesburgh Libraries of Notre Dame Sipity. This affects the function SearchCriteriaForWorksParameter of the file app/parameters/sipity/parameters/search_criteria_for_works_parameter.rb. The manipulation leads to sql injection. Upgrading to version 2021.8 is able to address this issue. The name of the patch is d1704c7363b899ffce65be03a796a0ee5fdbfbdc. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-217179.
+- [Live-Hack-CVE/CVE-2021-4298](https://github.com/Live-Hack-CVE/CVE-2021-4298)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4298">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4298">
+
+---
 ## CVE-2021-4297 (2023-01-01T19:15:00)
 > A vulnerability has been found in trampgeek jobe up to 1.6.4 and classified as problematic. This vulnerability affects the function runs_post of the file application/controllers/Restapi.php. The manipulation of the argument sourcefilename leads to an unknown weakness. Upgrading to version 1.6.5 is able to address this issue. The name of the patch is 694da5013dbecc8d30dd83e2a83e78faadf93771. It is recommended to upgrade the affected component. VDB-217174 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2021-4297](https://github.com/Live-Hack-CVE/CVE-2021-4297)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4297">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4297">
