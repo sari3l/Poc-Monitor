@@ -1848,6 +1848,12 @@
 - [Live-Hack-CVE/CVE-2019-13990](https://github.com/Live-Hack-CVE/CVE-2019-13990)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13990">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13990">
 
 ---
+## CVE-2019-13768 (2023-01-02T23:15:00)
+> Use after free in FileAPI in Google Chrome prior to 72.0.3626.81 allowed a remote attacker to potentially perform a sandbox escape via a crafted HTML page. (Chrome security severity: High)
+- [Live-Hack-CVE/CVE-2019-13768](https://github.com/Live-Hack-CVE/CVE-2019-13768)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13768">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13768">
+- [ZwCreatePhoton/CVE-2019-5782_CVE-2019-13768](https://github.com/ZwCreatePhoton/CVE-2019-5782_CVE-2019-13768)	<img alt="forks" src="https://img.shields.io/github/forks/ZwCreatePhoton/CVE-2019-5782_CVE-2019-13768">	<img alt="stars" src="https://img.shields.io/github/stars/ZwCreatePhoton/CVE-2019-5782_CVE-2019-13768">
+
+---
 ## CVE-2019-13720 (2019-11-25T15:15:00)
 > Use after free in WebAudio in Google Chrome prior to 78.0.3904.87 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
 - [Live-Hack-CVE/CVE-2019-13720](https://github.com/Live-Hack-CVE/CVE-2019-13720)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13720">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13720">

@@ -4943,6 +4943,11 @@
 - [Live-Hack-CVE/CVE-2021-30560](https://github.com/Live-Hack-CVE/CVE-2021-30560)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30560">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30560">
 
 ---
+## CVE-2021-30558 (2023-01-02T23:15:00)
+> Insufficient policy enforcement in content security policy in Google Chrome prior to 91.0.4472.77 allowed a remote attacker to bypass content security policy via a crafted HTML page. (Chrome security severity: Medium)
+- [Live-Hack-CVE/CVE-2021-30558](https://github.com/Live-Hack-CVE/CVE-2021-30558)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30558">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30558">
+
+---
 ## CVE-2021-30499 (2021-05-27T00:15:00)
 > A flaw was found in libcaca. A buffer overflow of export.c in function export_troff might lead to memory corruption and other potential consequences.
 - [Live-Hack-CVE/CVE-2021-30499](https://github.com/Live-Hack-CVE/CVE-2021-30499)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30499">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30499">
@@ -6956,6 +6961,11 @@
 ## CVE-2021-21235 (2021-01-06T02:15:00)
 > kamadak-exif is an exif parsing library written in pure Rust. In kamadak-exif version 0.5.2, there is an infinite loop in parsing crafted PNG files. Specifically, reader::read_from_container can cause an infinite loop when a crafted PNG file is given. This is fixed in version 0.5.3. No workaround is available. Applications that do not pass files with the PNG signature to Reader::read_from_container are not affected.
 - [Live-Hack-CVE/CVE-2021-21235](https://github.com/Live-Hack-CVE/CVE-2021-21235)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21235">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21235">
+
+---
+## CVE-2021-21200 (2023-01-02T23:15:00)
+> Out of bounds read in WebUI Settings in Google Chrome prior to 89.0.4389.72 allowed a remote attacker to perform an out of bounds memory read via a crafted HTML page. (Chrome security severity: Low)
+- [Live-Hack-CVE/CVE-2021-21200](https://github.com/Live-Hack-CVE/CVE-2021-21200)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21200">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21200">
 
 ---
 ## CVE-2021-2109 (2021-01-20T15:15:00)

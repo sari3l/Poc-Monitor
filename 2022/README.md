@@ -4173,6 +4173,14 @@
 ## CVE-2022-4324 (2023-01-02T22:15:00)
 > The Custom Field Template WordPress plugin before 2.5.8 unserialises the content of an imported file, which could lead to PHP object injections issues when a high privilege user import (intentionally or not) a malicious Customizer Styling file and a suitable gadget chain is present on the blog.
 - [Live-Hack-CVE/CVE-2022-4324](https://github.com/Live-Hack-CVE/CVE-2022-4324)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4324">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4324">
+- [Live-Hack-CVE/CVE-2022-43241](https://github.com/Live-Hack-CVE/CVE-2022-43241)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43241">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43241">
+- [Live-Hack-CVE/CVE-2022-43240](https://github.com/Live-Hack-CVE/CVE-2022-43240)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43240">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43240">
+- [Live-Hack-CVE/CVE-2022-43249](https://github.com/Live-Hack-CVE/CVE-2022-43249)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43249">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43249">
+- [Live-Hack-CVE/CVE-2022-43248](https://github.com/Live-Hack-CVE/CVE-2022-43248)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43248">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43248">
+- [Live-Hack-CVE/CVE-2022-43245](https://github.com/Live-Hack-CVE/CVE-2022-43245)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43245">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43245">
+- [Live-Hack-CVE/CVE-2022-43244](https://github.com/Live-Hack-CVE/CVE-2022-43244)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43244">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43244">
+- [Live-Hack-CVE/CVE-2022-43243](https://github.com/Live-Hack-CVE/CVE-2022-43243)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43243">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43243">
+- [Live-Hack-CVE/CVE-2022-43242](https://github.com/Live-Hack-CVE/CVE-2022-43242)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43242">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43242">
 
 ---
 ## CVE-2022-43234 (2022-11-16T15:15:00)
@@ -7211,6 +7219,11 @@
 ## CVE-2022-4140 (2023-01-02T22:15:00)
 > The Welcart e-Commerce WordPress plugin before 2.8.5 does not validate user input before using it to output the content of a file, which could allow unauthenticated attacker to read arbitrary files on the server
 - [Live-Hack-CVE/CVE-2022-4140](https://github.com/Live-Hack-CVE/CVE-2022-4140)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4140">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4140">
+- [Live-Hack-CVE/CVE-2022-41408](https://github.com/Live-Hack-CVE/CVE-2022-41408)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41408">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41408">
+- [Live-Hack-CVE/CVE-2022-41407](https://github.com/Live-Hack-CVE/CVE-2022-41407)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41407">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41407">
+- [Live-Hack-CVE/CVE-2022-41406](https://github.com/Live-Hack-CVE/CVE-2022-41406)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41406">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41406">
+- [Live-Hack-CVE/CVE-2022-41403](https://github.com/Live-Hack-CVE/CVE-2022-41403)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41403">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41403">
+- [Live-Hack-CVE/CVE-2022-41404](https://github.com/Live-Hack-CVE/CVE-2022-41404)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41404">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41404">
 
 ---
 ## CVE-2022-41396 (2022-11-15T03:15:00)
@@ -9224,6 +9237,11 @@
 ## CVE-2022-40259 (2022-12-05T22:15:00)
 > AMI MegaRAC Redfish Arbitrary Code Execution
 - [Live-Hack-CVE/CVE-2022-40259](https://github.com/Live-Hack-CVE/CVE-2022-40259)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40259">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40259">
+
+---
+## CVE-2022-4025 (2023-01-02T23:15:00)
+> Inappropriate implementation in Paint in Google Chrome prior to 98.0.4758.80 allowed a remote attacker to leak cross-origin data outside an iframe via a crafted HTML page. (Chrome security severity: Low)
+- [Live-Hack-CVE/CVE-2022-4025](https://github.com/Live-Hack-CVE/CVE-2022-4025)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4025">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4025">
 
 ---
 ## CVE-2022-40238 (2022-10-26T16:15:00)
@@ -11776,6 +11794,15 @@
 - [Live-Hack-CVE/CVE-2022-38637](https://github.com/Live-Hack-CVE/CVE-2022-38637)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38637">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38637">
 
 ---
+## CVE-2022-3863 (2023-01-02T23:15:00)
+> Use after free in Browser History in Google Chrome prior to 100.0.4896.75 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chrome security severity: High)
+- [Live-Hack-CVE/CVE-2022-3863](https://github.com/Live-Hack-CVE/CVE-2022-3863)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3863">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3863">
+- [Live-Hack-CVE/CVE-2022-38639](https://github.com/Live-Hack-CVE/CVE-2022-38639)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38639">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38639">
+- [Live-Hack-CVE/CVE-2022-38638](https://github.com/Live-Hack-CVE/CVE-2022-38638)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38638">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38638">
+- [Live-Hack-CVE/CVE-2022-38637](https://github.com/Live-Hack-CVE/CVE-2022-38637)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38637">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38637">
+- [Live-Hack-CVE/CVE-2022-38633](https://github.com/Live-Hack-CVE/CVE-2022-38633)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38633">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38633">
+
+---
 ## CVE-2022-38625 (2022-08-29T23:15:00)
 > ** DISPUTED ** Patlite NH-FB v1.46 and below was discovered to contain insufficient firmware validation during the upgrade firmware file upload process. This vulnerability allows authenticated attackers to create and upload their own custom-built firmware and inject malicious code. NOTE: the vendor's position is that this is a design choice, not a vulnerability.
 - [Live-Hack-CVE/CVE-2022-38625](https://github.com/Live-Hack-CVE/CVE-2022-38625)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38625">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38625">
@@ -12072,6 +12099,11 @@
 ## CVE-2022-38420 (2022-10-14T20:15:00)
 > Adobe ColdFusion versions Update 14 (and earlier) and Update 4 (and earlier) are affected by a Use of Hard-coded Credentials vulnerability that could result in application denial-of-service by gaining access to start/stop arbitrary services. Exploitation of this issue does not require user interaction.
 - [Live-Hack-CVE/CVE-2022-38420](https://github.com/Live-Hack-CVE/CVE-2022-38420)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38420">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38420">
+
+---
+## CVE-2022-3842 (2023-01-02T23:15:00)
+> Use after free in Passwords in Google Chrome prior to 105.0.5195.125 allowed a remote attacker who had compromised the renderer process to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
+- [Live-Hack-CVE/CVE-2022-3842](https://github.com/Live-Hack-CVE/CVE-2022-3842)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3842">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3842">
 
 ---
 ## CVE-2022-38419 (2022-10-14T20:15:00)
@@ -18511,6 +18543,11 @@
 - [Live-Hack-CVE/CVE-2022-34612](https://github.com/Live-Hack-CVE/CVE-2022-34612)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34612">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34612">
 
 ---
+## CVE-2022-3460 (2023-01-03T00:15:00)
+> In affected versions of Octopus Deploy it is possible for certain types of sensitive variables to inadvertently become unmasked when viewed in variable preview.
+- [Live-Hack-CVE/CVE-2022-3460](https://github.com/Live-Hack-CVE/CVE-2022-3460)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3460">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3460">
+
+---
 ## CVE-2022-3458 (2022-10-12T07:15:00)
 > A vulnerability has been found in SourceCodester Human Resource Management System 1.0 and classified as critical. Affected by this vulnerability is an unknown functionality of the file /employeeview.php of the component Image File Handler. The manipulation leads to unrestricted upload. The attack can be launched remotely. The associated identifier of this vulnerability is VDB-210559.
 - [Live-Hack-CVE/CVE-2022-3458](https://github.com/Live-Hack-CVE/CVE-2022-3458)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3458">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3458">
@@ -23984,6 +24021,16 @@
 > Caphyon Ltd Advanced Installer 19.3 and earlier and many products that use the updater from Advanced Installer (Advanced Updater) are affected by a remote code execution vulnerability via the CustomDetection parameter in the update check function. To exploit this vulnerability, a user must start an affected installation to trigger the update check.
 - [gerr-re/cve-2022-27438](https://github.com/gerr-re/cve-2022-27438)	<img alt="forks" src="https://img.shields.io/github/forks/gerr-re/cve-2022-27438">	<img alt="stars" src="https://img.shields.io/github/stars/gerr-re/cve-2022-27438">
 - [Live-Hack-CVE/CVE-2022-27438](https://github.com/Live-Hack-CVE/CVE-2022-27438)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27438">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27438">
+
+---
+## CVE-2022-2743 (2023-01-02T23:15:00)
+> Integer overflow in Window Manager in Google Chrome on Chrome OS and Lacros prior to 104.0.5112.79 allowed a remote attacker who convinced a user to engage in specific UI interactions to perform an out of bounds memory write via crafted UI interactions. (Chrome security severity: High)
+- [Live-Hack-CVE/CVE-2022-2743](https://github.com/Live-Hack-CVE/CVE-2022-2743)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2743">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2743">
+
+---
+## CVE-2022-2742 (2023-01-02T23:15:00)
+> Use after free in Exosphere in Google Chrome on Chrome OS and Lacros prior to 104.0.5112.79 allowed a remote attacker who convinced a user to engage in specific UI interactions to potentially exploit heap corruption via crafted UI interactions. (Chrome security severity: High)
+- [Live-Hack-CVE/CVE-2022-2742](https://github.com/Live-Hack-CVE/CVE-2022-2742)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2742">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2742">
 
 ---
 ## CVE-2022-27418 (2022-04-12T20:15:00)
@@ -30403,6 +30450,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-0802](https://github.com/Live-Hack-CVE/CVE-2022-0802)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0802">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0802">
 
 ---
+## CVE-2022-0801 (2023-01-02T23:15:00)
+> Inappropriate implementation in HTML parser in Google Chrome prior to 99.0.4844.51 allowed a remote attacker to bypass XSS preventions via a crafted HTML page. (Chrome security severity: Medium)
+- [Live-Hack-CVE/CVE-2022-0801](https://github.com/Live-Hack-CVE/CVE-2022-0801)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0801">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0801">
+
+---
 ## CVE-2022-0799 (2022-04-05T01:15:00)
 > Insufficient policy enforcement in Installer in Google Chrome on Windows prior to 99.0.4844.51 allowed a remote attacker to perform local privilege escalation via a crafted offline installer file.
 - [Live-Hack-CVE/CVE-2022-0799](https://github.com/Live-Hack-CVE/CVE-2022-0799)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0799">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0799">
@@ -30649,9 +30701,10 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-0351](https://github.com/Live-Hack-CVE/CVE-2022-0351)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0351">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0351">
 
 ---
-## CVE-2022-0337 ()
-> 
+## CVE-2022-0337 (2023-01-02T23:15:00)
+> Inappropriate implementation in File System API in Google Chrome on Windows prior to 97.0.4692.71 allowed a remote attacker to obtain potentially sensitive information via a crafted HTML page. (Chrome security severity: High)
 - [Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera](https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera)	<img alt="forks" src="https://img.shields.io/github/forks/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera">	<img alt="stars" src="https://img.shields.io/github/stars/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera">
+- [Live-Hack-CVE/CVE-2022-0337](https://github.com/Live-Hack-CVE/CVE-2022-0337)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0337">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0337">
 
 ---
 ## CVE-2022-0319 (2022-01-21T14:15:00)
