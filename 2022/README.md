@@ -16256,6 +16256,15 @@
 ## CVE-2022-3614 (2023-01-03T02:15:00)
 > In affected versions of Octopus Deploy users of certain browsers using AD to sign-in to Octopus Server were able to bypass authentication checks and be redirected to the configured redirect url without any validation.
 - [Live-Hack-CVE/CVE-2022-3614](https://github.com/Live-Hack-CVE/CVE-2022-3614)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3614">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3614">
+- [Live-Hack-CVE/CVE-2022-36149](https://github.com/Live-Hack-CVE/CVE-2022-36149)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36149">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36149">
+- [Live-Hack-CVE/CVE-2022-36148](https://github.com/Live-Hack-CVE/CVE-2022-36148)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36148">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36148">
+- [Live-Hack-CVE/CVE-2022-36146](https://github.com/Live-Hack-CVE/CVE-2022-36146)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36146">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36146">
+- [Live-Hack-CVE/CVE-2022-36145](https://github.com/Live-Hack-CVE/CVE-2022-36145)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36145">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36145">
+- [Live-Hack-CVE/CVE-2022-36144](https://github.com/Live-Hack-CVE/CVE-2022-36144)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36144">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36144">
+- [Live-Hack-CVE/CVE-2022-36143](https://github.com/Live-Hack-CVE/CVE-2022-36143)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36143">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36143">
+- [Live-Hack-CVE/CVE-2022-36142](https://github.com/Live-Hack-CVE/CVE-2022-36142)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36142">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36142">
+- [Live-Hack-CVE/CVE-2022-36141](https://github.com/Live-Hack-CVE/CVE-2022-36141)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36141">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36141">
+- [Live-Hack-CVE/CVE-2022-36140](https://github.com/Live-Hack-CVE/CVE-2022-36140)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36140">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36140">
 
 ---
 ## CVE-2022-36139 (2022-08-16T21:15:00)
