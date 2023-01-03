@@ -11739,9 +11739,10 @@
 - [Live-Hack-CVE/CVE-2022-38768](https://github.com/Live-Hack-CVE/CVE-2022-38768)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38768">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38768">
 
 ---
-## CVE-2022-38766 ()
-> 
+## CVE-2022-38766 (2023-01-03T15:15:00)
+> The remote keyless system on Renault ZOE 2021 vehicles sends 433.92 MHz RF signals from the same Rolling Codes set for each door-open request, which allows for a replay attack.
 - [AUTOCRYPT-IVS-VnV/CVE-2022-38766](https://github.com/AUTOCRYPT-IVS-VnV/CVE-2022-38766)	<img alt="forks" src="https://img.shields.io/github/forks/AUTOCRYPT-IVS-VnV/CVE-2022-38766">	<img alt="stars" src="https://img.shields.io/github/stars/AUTOCRYPT-IVS-VnV/CVE-2022-38766">
+- [Live-Hack-CVE/CVE-2022-38766](https://github.com/Live-Hack-CVE/CVE-2022-38766)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38766">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38766">
 
 ---
 ## CVE-2022-38764 (2022-09-19T18:15:00)
@@ -23643,6 +23644,11 @@
 ## CVE-2022-2840 (2022-09-19T14:15:00)
 > The Zephyr Project Manager WordPress plugin before 3.2.5 does not sanitise and escape various parameters before using them in SQL statements via various AJAX actions available to both unauthenticated and authenticated users, leading to SQL injections
 - [Live-Hack-CVE/CVE-2022-2840](https://github.com/Live-Hack-CVE/CVE-2022-2840)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2840">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2840">
+
+---
+## CVE-2022-28388 (2022-04-03T21:15:00)
+> usb_8dev_start_xmit in drivers/net/can/usb/usb_8dev.c in the Linux kernel through 5.17.1 has a double free.
+- [Live-Hack-CVE/CVE-2022-28388](https://github.com/Live-Hack-CVE/CVE-2022-28388)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-28388">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-28388">
 
 ---
 ## CVE-2022-28386 (2022-06-08T17:15:00)
