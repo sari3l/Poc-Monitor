@@ -636,6 +636,13 @@
 - [Live-Hack-CVE/CVE-2022-46631](https://github.com/Live-Hack-CVE/CVE-2022-46631)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46631">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46631">
 
 ---
+## CVE-2022-4663 (2023-01-03T14:15:00)
+> The Members Import plugin for WordPress is vulnerable to Self Cross-Site Scripting via the user_login parameter in an imported CSV file in versions up to, and including, 1.4.2 due to insufficient input sanitization and output escaping. This makes it possible for attackers to inject arbitrary web scripts in pages that execute if they can successfully trick a site's administrator into uploading a CSV file with the malicious payload.
+- [Live-Hack-CVE/CVE-2022-4663](https://github.com/Live-Hack-CVE/CVE-2022-4663)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4663">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4663">
+- [Live-Hack-CVE/CVE-2022-46631](https://github.com/Live-Hack-CVE/CVE-2022-46631)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46631">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46631">
+- [Live-Hack-CVE/CVE-2022-46634](https://github.com/Live-Hack-CVE/CVE-2022-46634)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46634">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46634">
+
+---
 ## CVE-2022-4662 (2022-12-22T22:15:00)
 > A flaw incorrect access control in the Linux kernel USB core subsystem was found in the way user attaches usb device. A local user could use this flaw to crash the system.
 - [Live-Hack-CVE/CVE-2022-4662](https://github.com/Live-Hack-CVE/CVE-2022-4662)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4662">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4662">
