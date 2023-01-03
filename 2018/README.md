@@ -618,6 +618,7 @@
 - [ecebotarosh/CVE-2018-16763-exploit](https://github.com/ecebotarosh/CVE-2018-16763-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ecebotarosh/CVE-2018-16763-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ecebotarosh/CVE-2018-16763-exploit">
 - [SalimAlk/CVE-2018-16763-](https://github.com/SalimAlk/CVE-2018-16763-)	<img alt="forks" src="https://img.shields.io/github/forks/SalimAlk/CVE-2018-16763-">	<img alt="stars" src="https://img.shields.io/github/stars/SalimAlk/CVE-2018-16763-">
 - [dinhbaouit/CVE-2018-16763](https://github.com/dinhbaouit/CVE-2018-16763)	<img alt="forks" src="https://img.shields.io/github/forks/dinhbaouit/CVE-2018-16763">	<img alt="stars" src="https://img.shields.io/github/stars/dinhbaouit/CVE-2018-16763">
+- [not1cyyy/CVE-2018-16763](https://github.com/not1cyyy/CVE-2018-16763)	<img alt="forks" src="https://img.shields.io/github/forks/not1cyyy/CVE-2018-16763">	<img alt="stars" src="https://img.shields.io/github/stars/not1cyyy/CVE-2018-16763">
 
 ---
 ## CVE-2018-16530 (2019-04-09T19:29:00)
