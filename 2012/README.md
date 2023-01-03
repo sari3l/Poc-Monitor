@@ -71,6 +71,11 @@
 - [Live-Hack-CVE/CVE-2012-1688](https://github.com/Live-Hack-CVE/CVE-2012-1688)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-1688">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-1688">
 
 ---
+## CVE-2012-10003 (2023-01-03T12:15:00)
+> A vulnerability, which was classified as problematic, has been found in ahmyi RivetTracker. This issue affects some unknown processing. The manipulation of the argument $_SERVER['PHP_SELF'] leads to cross site scripting. The attack may be initiated remotely. The name of the patch is f053c5cc2bc44269b0496b5f275e349928a92ef9. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-217271.
+- [Live-Hack-CVE/CVE-2012-10003](https://github.com/Live-Hack-CVE/CVE-2012-10003)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-10003">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-10003">
+
+---
 ## CVE-2012-10002 (2023-01-03T09:15:00)
 > A vulnerability was found in ahmyi RivetTracker. It has been declared as problematic. Affected by this vulnerability is the function changeColor of the file css.php. The manipulation of the argument set_css leads to cross site scripting. The attack can be launched remotely. The name of the patch is 45a0f33876d58cb7e4a0f17da149e58fc893b858. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-217267.
 - [Live-Hack-CVE/CVE-2012-10002](https://github.com/Live-Hack-CVE/CVE-2012-10002)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-10002">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-10002">
