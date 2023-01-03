@@ -71,6 +71,11 @@
 - [Live-Hack-CVE/CVE-2012-1688](https://github.com/Live-Hack-CVE/CVE-2012-1688)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-1688">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-1688">
 
 ---
+## CVE-2012-10002 (2023-01-03T09:15:00)
+> A vulnerability was found in ahmyi RivetTracker. It has been declared as problematic. Affected by this vulnerability is the function changeColor of the file css.php. The manipulation of the argument set_css leads to cross site scripting. The attack can be launched remotely. The name of the patch is 45a0f33876d58cb7e4a0f17da149e58fc893b858. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-217267.
+- [Live-Hack-CVE/CVE-2012-10002](https://github.com/Live-Hack-CVE/CVE-2012-10002)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-10002">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-10002">
+
+---
 ## CVE-2012-0883 (2012-04-18T10:33:00)
 > envvars (aka envvars-std) in the Apache HTTP Server before 2.4.2 places a zero-length directory name in the LD_LIBRARY_PATH, which allows local users to gain privileges via a Trojan horse DSO in the current working directory during execution of apachectl.
 - [Live-Hack-CVE/CVE-2012-0883](https://github.com/Live-Hack-CVE/CVE-2012-0883)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-0883">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-0883">
