@@ -2386,6 +2386,11 @@
 - [Live-Hack-CVE/CVE-2022-44874](https://github.com/Live-Hack-CVE/CVE-2022-44874)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44874">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44874">
 
 ---
+## CVE-2022-44870 ()
+> 
+- [Cedric1314/CVE-2022-44870](https://github.com/Cedric1314/CVE-2022-44870)	<img alt="forks" src="https://img.shields.io/github/forks/Cedric1314/CVE-2022-44870">	<img alt="stars" src="https://img.shields.io/github/stars/Cedric1314/CVE-2022-44870">
+
+---
 ## CVE-2022-44832 (2022-12-14T15:15:00)
 > D-Link DIR-3040 device with firmware 120B03 was discovered to contain a command injection vulnerability via the SetTriggerLEDBlink function.
 - [Live-Hack-CVE/CVE-2022-44832](https://github.com/Live-Hack-CVE/CVE-2022-44832)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44832">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44832">
