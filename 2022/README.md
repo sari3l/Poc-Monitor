@@ -7181,6 +7181,13 @@
 ## CVE-2022-4142 (2023-01-02T22:15:00)
 > The WordPress Filter Gallery Plugin WordPress plugin before 0.1.6 does not properly escape the filters passed in the ufg_gallery_filters ajax action before outputting them on the page, allowing a high privileged user such as an administrator to inject HTML or javascript to the plugin settings page, even when the unfiltered_html capability is disabled.
 - [Live-Hack-CVE/CVE-2022-4142](https://github.com/Live-Hack-CVE/CVE-2022-4142)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4142">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4142">
+- [Live-Hack-CVE/CVE-2022-41420](https://github.com/Live-Hack-CVE/CVE-2022-41420)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41420">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41420">
+- [Live-Hack-CVE/CVE-2022-41423](https://github.com/Live-Hack-CVE/CVE-2022-41423)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41423">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41423">
+- [Live-Hack-CVE/CVE-2022-41424](https://github.com/Live-Hack-CVE/CVE-2022-41424)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41424">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41424">
+- [Live-Hack-CVE/CVE-2022-41425](https://github.com/Live-Hack-CVE/CVE-2022-41425)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41425">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41425">
+- [Live-Hack-CVE/CVE-2022-41426](https://github.com/Live-Hack-CVE/CVE-2022-41426)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41426">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41426">
+- [Live-Hack-CVE/CVE-2022-41427](https://github.com/Live-Hack-CVE/CVE-2022-41427)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41427">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41427">
+- [Live-Hack-CVE/CVE-2022-41428](https://github.com/Live-Hack-CVE/CVE-2022-41428)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41428">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41428">
 
 ---
 ## CVE-2022-41419 (2022-10-03T14:15:00)
