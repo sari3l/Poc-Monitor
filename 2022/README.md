@@ -9254,6 +9254,9 @@
 ## CVE-2022-4025 (2023-01-02T23:15:00)
 > Inappropriate implementation in Paint in Google Chrome prior to 98.0.4758.80 allowed a remote attacker to leak cross-origin data outside an iframe via a crafted HTML page. (Chrome security severity: Low)
 - [Live-Hack-CVE/CVE-2022-4025](https://github.com/Live-Hack-CVE/CVE-2022-4025)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4025">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4025">
+- [Live-Hack-CVE/CVE-2022-40250](https://github.com/Live-Hack-CVE/CVE-2022-40250)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40250">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40250">
+- [Live-Hack-CVE/CVE-2022-40257](https://github.com/Live-Hack-CVE/CVE-2022-40257)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40257">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40257">
+- [Live-Hack-CVE/CVE-2022-40259](https://github.com/Live-Hack-CVE/CVE-2022-40259)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40259">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40259">
 
 ---
 ## CVE-2022-40238 (2022-10-26T16:15:00)
