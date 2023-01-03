@@ -24026,6 +24026,9 @@
 ## CVE-2022-2743 (2023-01-02T23:15:00)
 > Integer overflow in Window Manager in Google Chrome on Chrome OS and Lacros prior to 104.0.5112.79 allowed a remote attacker who convinced a user to engage in specific UI interactions to perform an out of bounds memory write via crafted UI interactions. (Chrome security severity: High)
 - [Live-Hack-CVE/CVE-2022-2743](https://github.com/Live-Hack-CVE/CVE-2022-2743)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2743">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2743">
+- [Live-Hack-CVE/CVE-2022-27438](https://github.com/Live-Hack-CVE/CVE-2022-27438)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-27438">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-27438">
+- [gerr-re/cve-2022-27438](https://github.com/gerr-re/cve-2022-27438)	<img alt="forks" src="https://img.shields.io/github/forks/gerr-re/cve-2022-27438">	<img alt="stars" src="https://img.shields.io/github/stars/gerr-re/cve-2022-27438">
+- [LongWayHomie/CVE-2022-27434](https://github.com/LongWayHomie/CVE-2022-27434)	<img alt="forks" src="https://img.shields.io/github/forks/LongWayHomie/CVE-2022-27434">	<img alt="stars" src="https://img.shields.io/github/stars/LongWayHomie/CVE-2022-27434">
 
 ---
 ## CVE-2022-2742 (2023-01-02T23:15:00)
