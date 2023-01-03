@@ -4563,6 +4563,9 @@
 ## CVE-2022-4297 (2023-01-02T22:15:00)
 > The WP AutoComplete Search WordPress plugin through 1.0.4 does not sanitise and escape a parameter before using it in a SQL statement via an AJAX available to unauthenticated users, leading to an unauthenticated SQL injection
 - [Live-Hack-CVE/CVE-2022-4297](https://github.com/Live-Hack-CVE/CVE-2022-4297)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4297">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4297">
+- [Live-Hack-CVE/CVE-2022-42975](https://github.com/Live-Hack-CVE/CVE-2022-42975)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42975">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42975">
+- [Live-Hack-CVE/CVE-2022-42977](https://github.com/Live-Hack-CVE/CVE-2022-42977)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42977">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42977">
+- [Live-Hack-CVE/CVE-2022-42978](https://github.com/Live-Hack-CVE/CVE-2022-42978)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42978">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42978">
 
 ---
 ## CVE-2022-42968 (2022-10-16T04:15:00)
