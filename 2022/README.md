@@ -130,6 +130,11 @@
 - [Live-Hack-CVE/CVE-2022-47928](https://github.com/Live-Hack-CVE/CVE-2022-47928)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47928">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47928">
 
 ---
+## CVE-2022-47908 (2023-01-03T03:15:00)
+> Stack-based buffer overflow vulnerability in V-Server v4.0.12.0 and earlier allows a local attacker to obtain the information and/or execute arbitrary code by having a user to open a specially crafted project file.
+- [Live-Hack-CVE/CVE-2022-47908](https://github.com/Live-Hack-CVE/CVE-2022-47908)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47908">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47908">
+
+---
 ## CVE-2022-47896 (2022-12-22T11:15:00)
 > In JetBrains IntelliJ IDEA before 2022.3.1 code Templates were vulnerable to SSTI attacks.
 - [Live-Hack-CVE/CVE-2022-47896](https://github.com/Live-Hack-CVE/CVE-2022-47896)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47896">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47896">
@@ -148,6 +153,11 @@
 ## CVE-2022-47629 (2022-12-20T23:15:00)
 > Libksba before 1.6.3 is prone to an integer overflow vulnerability in the CRL signature parser.
 - [Live-Hack-CVE/CVE-2022-47629](https://github.com/Live-Hack-CVE/CVE-2022-47629)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47629">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47629">
+
+---
+## CVE-2022-47618 (2023-01-03T03:15:00)
+> Merit LILIN AH55B04 & AH55B08 DVR firm has hard-coded administrator credentials. An unauthenticated remote attacker can use these credentials to log in administrator page, to manipulate system or disrupt service.
+- [Live-Hack-CVE/CVE-2022-47618](https://github.com/Live-Hack-CVE/CVE-2022-47618)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47618">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47618">
 
 ---
 ## CVE-2022-47581 (2022-12-21T17:15:00)
@@ -314,6 +324,11 @@
 > A vulnerability classified as problematic was found in asrashley dash-live. This vulnerability affects the function ready of the file static/js/media.js of the component DOM Node Handler. The manipulation leads to cross site scripting. The attack can be initiated remotely. The name of the patch is 24d01757a5319cc14c4aa1d8b53d1ab24d48e451. It is recommended to apply a patch to fix this issue. VDB-216766 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-4735](https://github.com/Live-Hack-CVE/CVE-2022-4735)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4735">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4735">
 - [Live-Hack-CVE/CVE-2022-4735](https://github.com/Live-Hack-CVE/CVE-2022-4735)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4735">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4735">
+
+---
+## CVE-2022-47317 (2023-01-03T03:15:00)
+> Out-of-bounds write vulnerability in V-Server v4.0.12.0 and earlier allows a local attacker to obtain the information and/or execute arbitrary code by having a user to open a specially crafted project file.
+- [Live-Hack-CVE/CVE-2022-47317](https://github.com/Live-Hack-CVE/CVE-2022-47317)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47317">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47317">
 
 ---
 ## CVE-2022-4731 (2022-12-25T11:15:00)
@@ -865,6 +880,11 @@
 - [Live-Hack-CVE/CVE-2022-46363](https://github.com/Live-Hack-CVE/CVE-2022-46363)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46363">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46363">
 
 ---
+## CVE-2022-46360 (2023-01-03T03:15:00)
+> Out-of-bounds read vulnerability in V-SFT v6.1.7.0 and earlier and TELLUS v4.0.12.0 and earlier allows a local attacker to obtain the information and/or execute arbitrary code by having a user to open a specially crafted image file.
+- [Live-Hack-CVE/CVE-2022-46360](https://github.com/Live-Hack-CVE/CVE-2022-46360)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46360">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46360">
+
+---
 ## CVE-2022-46351 (2022-12-13T16:15:00)
 > A vulnerability has been identified in SCALANCE X204RNA (HSR) (All versions < V3.2.7), SCALANCE X204RNA (PRP) (All versions < V3.2.7), SCALANCE X204RNA EEC (HSR) (All versions < V3.2.7), SCALANCE X204RNA EEC (PRP) (All versions < V3.2.7), SCALANCE X204RNA EEC (PRP/HSR) (All versions < V3.2.7). Specially crafted PROFINET DCP packets could cause a denial of service condition of affected products on a local Ethernet segment (Layer 2).
 - [Live-Hack-CVE/CVE-2022-46351](https://github.com/Live-Hack-CVE/CVE-2022-46351)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46351">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46351">
@@ -1050,6 +1070,26 @@
 ## CVE-2022-4631 (2022-12-21T19:15:00)
 > A vulnerability, which was classified as problematic, was found in WP-Ban. Affected is an unknown function of the file ban-options.php. The manipulation leads to cross site scripting. It is possible to launch the attack remotely. The name of the patch is 22b925449c84faa9b7496abe4f8f5661cb5eb3bf. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-216480.
 - [Live-Hack-CVE/CVE-2022-4631](https://github.com/Live-Hack-CVE/CVE-2022-4631)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4631">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4631">
+
+---
+## CVE-2022-46309 (2023-01-03T03:15:00)
+> Vitals ESP upload function has a path traversal vulnerability. A remote attacker with general user privilege can exploit this vulnerability to access arbitrary system files.
+- [Live-Hack-CVE/CVE-2022-46309](https://github.com/Live-Hack-CVE/CVE-2022-46309)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46309">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46309">
+
+---
+## CVE-2022-46306 (2023-01-03T03:15:00)
+> ChangingTec ServiSign component has a path traversal vulnerability due to insufficient filtering for special characters in the DLL file path. An unauthenticated remote attacker can host a malicious website for the component user to access, which triggers the component to load malicious DLL files under arbitrary file path and allows the attacker to perform arbitrary system operation and disrupt of service.
+- [Live-Hack-CVE/CVE-2022-46306](https://github.com/Live-Hack-CVE/CVE-2022-46306)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46306">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46306">
+
+---
+## CVE-2022-46305 (2023-01-03T03:15:00)
+> ChangingTec ServiSign component has a path traversal vulnerability. An unauthenticated LAN attacker can exploit this vulnerability to bypass authentication and access arbitrary system files.
+- [Live-Hack-CVE/CVE-2022-46305](https://github.com/Live-Hack-CVE/CVE-2022-46305)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46305">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46305">
+
+---
+## CVE-2022-46304 (2023-01-03T03:15:00)
+> ChangingTec ServiSign component has insufficient filtering for special characters in the connection response parameter. An unauthenticated remote attacker can host a malicious website for the component user to access, which triggers command injection and allows the attacker to execute arbitrary system command to perform arbitrary system operation or disrupt service.
+- [Live-Hack-CVE/CVE-2022-46304](https://github.com/Live-Hack-CVE/CVE-2022-46304)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46304">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46304">
 
 ---
 ## CVE-2022-4630 (2022-12-21T18:15:00)
@@ -3908,6 +3948,11 @@
 > OpenHarmony-v3.1.2 and prior versions had an Arbitrary file read vulnerability via download_server. Local attackers can install an malicious application on the device and reveal any file from the filesystem that is accessible to download_server service which run with UID 1000.
 - [Live-Hack-CVE/CVE-2022-43449](https://github.com/Live-Hack-CVE/CVE-2022-43449)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43449">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43449">
 - [Live-Hack-CVE/CVE-2022-43449](https://github.com/Live-Hack-CVE/CVE-2022-43449)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43449">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43449">
+
+---
+## CVE-2022-43448 (2023-01-03T03:15:00)
+> Out-of-bounds write vulnerability in V-SFT v6.1.7.0 and earlier and TELLUS v4.0.12.0 and earlier allows a local attacker to obtain the information and/or execute arbitrary code by having a user to open a specially crafted image file.
+- [Live-Hack-CVE/CVE-2022-43448](https://github.com/Live-Hack-CVE/CVE-2022-43448)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43448">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43448">
 
 ---
 ## CVE-2022-43438 (2023-01-03T03:15:00)
@@ -16200,6 +16245,11 @@
 ## CVE-2022-36140 (2022-08-16T21:15:00)
 > SWFMill commit 53d7690 was discovered to contain a segmentation violation via SWF::DeclareFunction2::write(SWF::Writer*, SWF::Context*).
 - [Live-Hack-CVE/CVE-2022-36140](https://github.com/Live-Hack-CVE/CVE-2022-36140)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36140">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36140">
+
+---
+## CVE-2022-3614 (2023-01-03T02:15:00)
+> In affected versions of Octopus Deploy users of certain browsers using AD to sign-in to Octopus Server were able to bypass authentication checks and be redirected to the configured redirect url without any validation.
+- [Live-Hack-CVE/CVE-2022-3614](https://github.com/Live-Hack-CVE/CVE-2022-3614)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3614">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3614">
 
 ---
 ## CVE-2022-36139 (2022-08-16T21:15:00)
