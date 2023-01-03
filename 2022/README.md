@@ -6001,6 +6001,10 @@
 ## CVE-2022-4200 (2023-01-02T22:15:00)
 > The Login with Cognito WordPress plugin through 1.4.8 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup).
 - [Live-Hack-CVE/CVE-2022-4200](https://github.com/Live-Hack-CVE/CVE-2022-4200)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4200">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4200">
+- [Live-Hack-CVE/CVE-2022-42000](https://github.com/Live-Hack-CVE/CVE-2022-42000)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42000">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42000">
+- [Live-Hack-CVE/CVE-2022-42001](https://github.com/Live-Hack-CVE/CVE-2022-42001)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42001">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42001">
+- [Live-Hack-CVE/CVE-2022-42004](https://github.com/Live-Hack-CVE/CVE-2022-42004)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42004">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42004">
+- [Live-Hack-CVE/CVE-2022-42003](https://github.com/Live-Hack-CVE/CVE-2022-42003)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42003">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42003">
 
 ---
 ## CVE-2022-41999 (2022-12-22T22:15:00)
@@ -6052,6 +6056,11 @@
 ## CVE-2022-4198 (2023-01-02T22:15:00)
 > The WP Social Sharing WordPress plugin through 2.2 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup).
 - [Live-Hack-CVE/CVE-2022-4198](https://github.com/Live-Hack-CVE/CVE-2022-4198)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4198">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4198">
+- [Live-Hack-CVE/CVE-2022-41983](https://github.com/Live-Hack-CVE/CVE-2022-41983)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41983">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41983">
+- [Live-Hack-CVE/CVE-2022-41986](https://github.com/Live-Hack-CVE/CVE-2022-41986)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41986">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41986">
+- [Live-Hack-CVE/CVE-2022-41980](https://github.com/Live-Hack-CVE/CVE-2022-41980)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41980">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41980">
+- [Live-Hack-CVE/CVE-2022-41988](https://github.com/Live-Hack-CVE/CVE-2022-41988)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41988">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41988">
+- [Live-Hack-CVE/CVE-2022-41981](https://github.com/Live-Hack-CVE/CVE-2022-41981)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41981">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41981">
 
 ---
 ## CVE-2022-41978 (2022-11-09T16:15:00)
