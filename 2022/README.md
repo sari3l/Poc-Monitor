@@ -3400,6 +3400,11 @@
 - [Live-Hack-CVE/CVE-2022-43945](https://github.com/Live-Hack-CVE/CVE-2022-43945)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43945">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43945">
 
 ---
+## CVE-2022-43931 (2023-01-03T04:15:00)
+> Out-of-bounds write vulnerability in Remote Desktop Functionality in Synology VPN Plus Server before 1.4.3-0534 and 1.4.4-0635 allows remote attackers to execute arbitrary commands via unspecified vectors.
+- [Live-Hack-CVE/CVE-2022-43931](https://github.com/Live-Hack-CVE/CVE-2022-43931)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43931">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43931">
+
+---
 ## CVE-2022-43901 (2022-12-01T19:15:00)
 > IBM WebSphere Automation for IBM Cloud Pak for Watson AIOps 1.4.3 could disclose sensitive information. An authenticated local attacker could exploit this vulnerability to possibly gain information to other IBM WebSphere Automation for IBM Cloud Pak for Watson AIOps components. IBM X-Force ID: 240829.
 - [Live-Hack-CVE/CVE-2022-43901](https://github.com/Live-Hack-CVE/CVE-2022-43901)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43901">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43901">
@@ -3903,6 +3908,21 @@
 > OpenHarmony-v3.1.2 and prior versions had an Arbitrary file read vulnerability via download_server. Local attackers can install an malicious application on the device and reveal any file from the filesystem that is accessible to download_server service which run with UID 1000.
 - [Live-Hack-CVE/CVE-2022-43449](https://github.com/Live-Hack-CVE/CVE-2022-43449)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43449">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43449">
 - [Live-Hack-CVE/CVE-2022-43449](https://github.com/Live-Hack-CVE/CVE-2022-43449)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43449">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43449">
+
+---
+## CVE-2022-43438 (2023-01-03T03:15:00)
+> The Administrator function of EasyTest has an Incorrect Authorization vulnerability. A remote attacker authenticated as a general user can exploit this vulnerability to bypass the intended access restrictions, to make API functions calls, manipulate system and terminate service.
+- [Live-Hack-CVE/CVE-2022-43438](https://github.com/Live-Hack-CVE/CVE-2022-43438)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43438">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43438">
+
+---
+## CVE-2022-43437 (2023-01-03T03:15:00)
+> The Download function’s parameter of EasyTest has insufficient validation for user input. A remote attacker authenticated as a general user can inject arbitrary SQL command to access, modify or delete database.
+- [Live-Hack-CVE/CVE-2022-43437](https://github.com/Live-Hack-CVE/CVE-2022-43437)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43437">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43437">
+
+---
+## CVE-2022-43436 (2023-01-03T03:15:00)
+> The File Upload function of EasyTest has insufficient filtering for special characters and file type. A remote attacker authenticated as a general user can upload and execute arbitrary files, to manipulate system or disrupt service.
+- [Live-Hack-CVE/CVE-2022-43436](https://github.com/Live-Hack-CVE/CVE-2022-43436)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43436">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43436">
 
 ---
 ## CVE-2022-43435 (2022-10-19T16:15:00)
@@ -6759,6 +6779,11 @@
 - [Live-Hack-CVE/CVE-2022-41649](https://github.com/Live-Hack-CVE/CVE-2022-41649)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41649">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41649">
 
 ---
+## CVE-2022-41645 (2023-01-03T03:15:00)
+> Out-of-bounds read vulnerability in V-Server v4.0.12.0 and earlier allows a local attacker to obtain the information and/or execute arbitrary code by having a user to open a specially crafted project file.
+- [Live-Hack-CVE/CVE-2022-41645](https://github.com/Live-Hack-CVE/CVE-2022-41645)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41645">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41645">
+
+---
 ## CVE-2022-41642 (2022-12-05T04:15:00)
 > OS command injection vulnerability in Nadesiko3 (PC Version) v3.3.61 and earlier allows a remote attacker to execute an arbitrary OS command when processing compression and decompression on the product.
 - [Live-Hack-CVE/CVE-2022-41642](https://github.com/Live-Hack-CVE/CVE-2022-41642)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41642">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41642">
@@ -8507,6 +8532,11 @@
 ## CVE-2022-40741 (2022-10-31T07:15:00)
 > Mail SQR Expert’s specific function has insufficient filtering for special characters. An unauthenticated remote attacker can exploit this vulnerability to perform arbitrary system command and disrupt service.
 - [Live-Hack-CVE/CVE-2022-40741](https://github.com/Live-Hack-CVE/CVE-2022-40741)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40741">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40741">
+
+---
+## CVE-2022-40740 (2023-01-03T03:15:00)
+> Realtek GPON router has insufficient filtering for special characters. A remote attacker authenticated as an administrator can exploit this vulnerability to perform command injection attacks, to execute arbitrary system command, manipulate system or disrupt service.
+- [Live-Hack-CVE/CVE-2022-40740](https://github.com/Live-Hack-CVE/CVE-2022-40740)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40740">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40740">
 
 ---
 ## CVE-2022-40736 (2022-09-15T04:15:00)
@@ -11157,6 +11187,26 @@
 ## CVE-2022-39046 (2022-08-31T06:15:00)
 > An issue was discovered in the GNU C Library (glibc) 2.36. When the syslog function is passed a crafted input string larger than 1024 bytes, it reads uninitialized memory from the heap and prints it to the target log file, potentially revealing a portion of the contents of the heap.
 - [Live-Hack-CVE/CVE-2022-39046](https://github.com/Live-Hack-CVE/CVE-2022-39046)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39046">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39046">
+
+---
+## CVE-2022-39042 (2023-01-03T03:15:00)
+> aEnrich a+HRD has improper validation for login function. An unauthenticated remote attacker can exploit this vulnerability to bypass authentication and access API function to perform arbitrary system command or disrupt service.
+- [Live-Hack-CVE/CVE-2022-39042](https://github.com/Live-Hack-CVE/CVE-2022-39042)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39042">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39042">
+
+---
+## CVE-2022-39041 (2023-01-03T03:15:00)
+> aEnrich a+HRD has insufficient user input validation for specific API parameter. An unauthenticated remote attacker can exploit this vulnerability to inject arbitrary SQL commands to access, modify and delete database.
+- [Live-Hack-CVE/CVE-2022-39041](https://github.com/Live-Hack-CVE/CVE-2022-39041)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39041">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39041">
+
+---
+## CVE-2022-39040 (2023-01-03T03:15:00)
+> aEnrich a+HRD log read function has a path traversal vulnerability. An unauthenticated remote attacker can exploit this vulnerability to bypass authentication and download arbitrary system files.
+- [Live-Hack-CVE/CVE-2022-39040](https://github.com/Live-Hack-CVE/CVE-2022-39040)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39040">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39040">
+
+---
+## CVE-2022-39039 (2023-01-03T03:15:00)
+> aEnrich’s a+HRD has inadequate filtering for specific URL parameter. An unauthenticated remote attacker can exploit this vulnerability to send arbitrary HTTP(s) request to launch Server-Side Request Forgery (SSRF) attack, to perform arbitrary system command or disrupt service.
+- [Live-Hack-CVE/CVE-2022-39039](https://github.com/Live-Hack-CVE/CVE-2022-39039)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39039">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39039">
 
 ---
 ## CVE-2022-39038 (2022-11-10T15:15:00)
