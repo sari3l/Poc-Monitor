@@ -1481,6 +1481,11 @@
 - [Live-Hack-CVE/CVE-2022-45869](https://github.com/Live-Hack-CVE/CVE-2022-45869)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45869">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45869">
 
 ---
+## CVE-2022-45867 (2023-01-03T20:15:00)
+> MyBB before 1.8.33 allows Directory Traversal. The Admin CP Languages module allows remote authenticated users, with high privileges, to achieve local file inclusion and execution.
+- [Live-Hack-CVE/CVE-2022-45867](https://github.com/Live-Hack-CVE/CVE-2022-45867)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45867">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45867">
+
+---
 ## CVE-2022-4586 (2022-12-17T13:15:00)
 > A vulnerability classified as problematic was found in Opencaching Deutschland oc-server3. This vulnerability affects unknown code of the file htdocs/templates2/ocstyle/cachelists.tpl of the component Cachelist Handler. The manipulation of the argument name_filter/by_filter leads to cross site scripting. The attack can be initiated remotely. The name of the patch is a9f79c7da78cd24a7ef1d298e6bc86006972ea73. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-216172.
 - [Live-Hack-CVE/CVE-2022-4586](https://github.com/Live-Hack-CVE/CVE-2022-4586)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4586">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4586">
@@ -2107,6 +2112,11 @@
 ## CVE-2022-45146 (2022-11-21T10:15:00)
 > An issue was discovered in the FIPS Java API of Bouncy Castle BC-FJA before 1.0.2.4. Changes to the JVM garbage collector in Java 13 and later trigger an issue in the BC-FJA FIPS modules where it is possible for temporary keys used by the module to be zeroed out while still in use by the module, resulting in errors or potential information loss. NOTE: FIPS compliant users are unaffected because the FIPS certification is only for Java 7, 8, and 11.
 - [Live-Hack-CVE/CVE-2022-45146](https://github.com/Live-Hack-CVE/CVE-2022-45146)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45146">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45146">
+
+---
+## CVE-2022-45143 (2023-01-03T19:15:00)
+> The JsonErrorReportValve in Apache Tomcat 8.5.83, 9.0.40 to 9.0.68 and 10.1.0-M1 to 10.1.1 did not escape the type, message or description values. In some circumstances these are constructed from user provided data and it was therefore possible for users to supply values that invalidated or manipulated the JSON output.
+- [Live-Hack-CVE/CVE-2022-45143](https://github.com/Live-Hack-CVE/CVE-2022-45143)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45143">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45143">
 
 ---
 ## CVE-2022-4514 (2022-12-15T20:15:00)
