@@ -12119,6 +12119,16 @@
 ## CVE-2022-3842 (2023-01-02T23:15:00)
 > Use after free in Passwords in Google Chrome prior to 105.0.5195.125 allowed a remote attacker who had compromised the renderer process to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [Live-Hack-CVE/CVE-2022-3842](https://github.com/Live-Hack-CVE/CVE-2022-3842)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3842">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3842">
+- [Live-Hack-CVE/CVE-2022-38426](https://github.com/Live-Hack-CVE/CVE-2022-38426)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38426">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38426">
+- [Live-Hack-CVE/CVE-2022-38427](https://github.com/Live-Hack-CVE/CVE-2022-38427)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38427">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38427">
+- [Live-Hack-CVE/CVE-2022-38428](https://github.com/Live-Hack-CVE/CVE-2022-38428)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38428">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38428">
+- [Live-Hack-CVE/CVE-2022-38429](https://github.com/Live-Hack-CVE/CVE-2022-38429)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38429">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38429">
+- [Live-Hack-CVE/CVE-2022-38425](https://github.com/Live-Hack-CVE/CVE-2022-38425)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38425">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38425">
+- [Live-Hack-CVE/CVE-2022-38424](https://github.com/Live-Hack-CVE/CVE-2022-38424)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38424">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38424">
+- [Live-Hack-CVE/CVE-2022-38423](https://github.com/Live-Hack-CVE/CVE-2022-38423)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38423">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38423">
+- [Live-Hack-CVE/CVE-2022-38422](https://github.com/Live-Hack-CVE/CVE-2022-38422)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38422">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38422">
+- [Live-Hack-CVE/CVE-2022-38420](https://github.com/Live-Hack-CVE/CVE-2022-38420)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38420">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38420">
+- [Live-Hack-CVE/CVE-2022-38421](https://github.com/Live-Hack-CVE/CVE-2022-38421)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38421">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38421">
 
 ---
 ## CVE-2022-38419 (2022-10-14T20:15:00)
