@@ -868,6 +868,7 @@
 > ** UNSUPPORTED WHEN ASSIGNED ** Apache Tapestry 3.x allows deserialization of untrusted data, leading to remote code execution. This issue is similar to but distinct from CVE-2020-17531, which applies the the (also unsupported) 4.x version line. NOTE: This vulnerability only affects Apache Tapestry version line 3.x, which is no longer supported by the maintainer. Users are recommended to upgrade to a supported version line of Apache Tapestry.
 - [Live-Hack-CVE/CVE-2022-46366](https://github.com/Live-Hack-CVE/CVE-2022-46366)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46366">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46366">
 - [wh-gov/CVE-2022-46366](https://github.com/wh-gov/CVE-2022-46366)	<img alt="forks" src="https://img.shields.io/github/forks/wh-gov/CVE-2022-46366">	<img alt="stars" src="https://img.shields.io/github/stars/wh-gov/CVE-2022-46366">
+- [Live-Hack-CVE/CVE-2022-46366](https://github.com/Live-Hack-CVE/CVE-2022-46366)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46366">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46366">
 
 ---
 ## CVE-2022-46364 (2022-12-13T17:15:00)
