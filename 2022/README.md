@@ -5506,6 +5506,11 @@
 - [Live-Hack-CVE/CVE-2022-42475](https://github.com/Live-Hack-CVE/CVE-2022-42475)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42475">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42475">
 
 ---
+## CVE-2022-42471 (2023-01-03T17:15:00)
+> An improper neutralization of CRLF sequences in HTTP headers ('HTTP Response Splitting') vulnerability [CWE-113] In FortiWeb version 7.0.0 through 7.0.2, FortiWeb version 6.4.0 through 6.4.2, FortiWeb version 6.3.6 through 6.3.20 may allow an authenticated and remote attacker to inject arbitrary headers.
+- [Live-Hack-CVE/CVE-2022-42471](https://github.com/Live-Hack-CVE/CVE-2022-42471)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42471">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42471">
+
+---
 ## CVE-2022-42468 (2022-10-26T16:15:00)
 > Apache Flume versions 1.4.0 through 1.10.1 are vulnerable to a remote code execution (RCE) attack when a configuration uses a JMS Source with an unsafe providerURL. This issue is fixed by limiting JNDI to allow only the use of the java protocol or no protocol.
 - [Live-Hack-CVE/CVE-2022-42468](https://github.com/Live-Hack-CVE/CVE-2022-42468)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42468">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42468">
@@ -7391,6 +7396,11 @@
 ## CVE-2022-4135 (2022-11-25T01:15:00)
 > Heap buffer overflow in GPU in Google Chrome prior to 107.0.5304.121 allowed a remote attacker who had compromised the renderer process to potentially perform a sandbox escape via a crafted HTML page. (Chromium security severity: High)
 - [Live-Hack-CVE/CVE-2022-4135](https://github.com/Live-Hack-CVE/CVE-2022-4135)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4135">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4135">
+
+---
+## CVE-2022-41336 (2023-01-03T17:15:00)
+> An improper neutralization of input during web page generation vulnerability [CWE-79] in FortiPortal versions 6.0.0 through 6.0.11 and all versions of 5.3, 5.2, 5.1, 5.0 management interface may allow a remote authenticated attacker to perform a stored cross site scripting (XSS) attack via sending request with specially crafted columnindex parameter.
+- [Live-Hack-CVE/CVE-2022-41336](https://github.com/Live-Hack-CVE/CVE-2022-41336)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41336">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41336">
 
 ---
 ## CVE-2022-41325 (2022-12-06T16:15:00)
@@ -9901,6 +9911,11 @@
 ## CVE-2022-39949 (2022-11-02T12:15:00)
 > An improper control of a resource through its lifetime vulnerability [CWE-664] in FortiEDR CollectorWindows 4.0.0 through 4.1, 5.0.0 through 5.0.3.751, 5.1.0 may allow a privileged user to terminate the FortiEDR processes with special tools and bypass the EDR protection.
 - [Live-Hack-CVE/CVE-2022-39949](https://github.com/Live-Hack-CVE/CVE-2022-39949)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39949">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39949">
+
+---
+## CVE-2022-39947 (2023-01-03T17:15:00)
+> A improper neutralization of special elements used in an os command ('os command injection') in Fortinet FortiADC version 7.0.0 through 7.0.2, FortiADC version 6.2.0 through 6.2.3, FortiADC version version 6.1.0 through 6.1.6, FortiADC version 6.0.0 through 6.0.4, FortiADC version 5.4.0 through 5.4.5 may allow an attacker to execute unauthorized code or commands via specifically crafted HTTP requests.
+- [Live-Hack-CVE/CVE-2022-39947](https://github.com/Live-Hack-CVE/CVE-2022-39947)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39947">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39947">
 
 ---
 ## CVE-2022-39944 (2022-10-26T16:15:00)
@@ -17000,6 +17015,11 @@
 ## CVE-2022-3585 (2022-10-18T11:15:00)
 > A vulnerability classified as problematic has been found in SourceCodester Simple Cold Storage Management System 1.0. Affected is an unknown function of the file /csms/?page=contact_us of the component Contact Us. The manipulation leads to cross-site request forgery. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. VDB-211194 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-3585](https://github.com/Live-Hack-CVE/CVE-2022-3585)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3585">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3585">
+
+---
+## CVE-2022-35845 (2023-01-03T17:15:00)
+> Multiple improper neutralization of special elements used in an OS Command ('OS Command Injection') vulnerabilities [CWE-78] in FortiTester 7.1.0, 7.0 all versions, 4.0.0 through 4.2.0, 2.3.0 through 3.9.1 may allow an authenticated attacker to execute arbitrary commands in the underlying shell.
+- [Live-Hack-CVE/CVE-2022-35845](https://github.com/Live-Hack-CVE/CVE-2022-35845)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35845">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35845">
 
 ---
 ## CVE-2022-35843 (2022-12-06T17:15:00)

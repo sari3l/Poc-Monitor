@@ -4458,9 +4458,19 @@
 - [Live-Hack-CVE/CVE-2021-32829](https://github.com/Live-Hack-CVE/CVE-2021-32829)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32829">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32829">
 
 ---
+## CVE-2021-32824 (2023-01-03T18:15:00)
+> Apache Dubbo is a java based, open source RPC framework. Versions prior to 2.6.10 and 2.7.10 are vulnerable to pre-auth remote code execution via arbitrary bean manipulation in the Telnet handler. The Dubbo main service port can be used to access a Telnet Handler which offers some basic methods to collect information about the providers and methods exposed by the service and it can even allow to shutdown the service. This endpoint is unprotected. Additionally, a provider method can be invoked using the `invoke` handler. This handler uses a safe version of FastJson to process the call arguments. However, the resulting list is later processed with `PojoUtils.realize` which can be used to instantiate arbitrary classes and invoke its setters. Even though FastJson is properly protected with a default blocklist, `PojoUtils.realize` is not, and an attacker can leverage that to achieve remote code execution. Versions 2.6.10 and 2.7.10 contain fixes for this issue.
+- [Live-Hack-CVE/CVE-2021-32824](https://github.com/Live-Hack-CVE/CVE-2021-32824)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32824">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32824">
+
+---
 ## CVE-2021-32823 (2021-06-24T00:15:00)
 > In the bindata RubyGem before version 2.4.10 there is a potential denial-of-service vulnerability. In affected versions it is very slow for certain classes in BinData to be created. For example BinData::Bit100000, BinData::Bit100001, BinData::Bit100002, BinData::Bit<N>. In combination with <user_input>.constantize there is a potential for a CPU-based DoS. In version 2.4.10 bindata improved the creation time of Bits and Integers.
 - [Live-Hack-CVE/CVE-2021-32823](https://github.com/Live-Hack-CVE/CVE-2021-32823)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32823">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32823">
+
+---
+## CVE-2021-32821 (2023-01-03T17:15:00)
+> MooTools is a collection of JavaScript utilities for JavaScript developers. All known versions include a CSS selector parser that is vulnerable to Regular Expression Denial of Service (ReDoS). An attack requires that an attacker can inject a string into a CSS selector at runtime, which is quite common with e.g. jQuery CSS selectors. No patches are available for this issue.
+- [Live-Hack-CVE/CVE-2021-32821](https://github.com/Live-Hack-CVE/CVE-2021-32821)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32821">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32821">
 
 ---
 ## CVE-2021-3282 (2021-02-01T16:15:00)
