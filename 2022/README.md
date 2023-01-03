@@ -852,6 +852,7 @@
 ## CVE-2022-46366 (2022-12-02T14:15:00)
 > ** UNSUPPORTED WHEN ASSIGNED ** Apache Tapestry 3.x allows deserialization of untrusted data, leading to remote code execution. This issue is similar to but distinct from CVE-2020-17531, which applies the the (also unsupported) 4.x version line. NOTE: This vulnerability only affects Apache Tapestry version line 3.x, which is no longer supported by the maintainer. Users are recommended to upgrade to a supported version line of Apache Tapestry.
 - [Live-Hack-CVE/CVE-2022-46366](https://github.com/Live-Hack-CVE/CVE-2022-46366)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46366">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46366">
+- [wh-gov/CVE-2022-46366](https://github.com/wh-gov/CVE-2022-46366)	<img alt="forks" src="https://img.shields.io/github/forks/wh-gov/CVE-2022-46366">	<img alt="stars" src="https://img.shields.io/github/stars/wh-gov/CVE-2022-46366">
 
 ---
 ## CVE-2022-46364 (2022-12-13T17:15:00)
@@ -28790,6 +28791,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-20470 (2022-12-13T16:15:00)
 > In bindRemoteViewsService of AppWidgetServiceImpl.java, there is a possible way to bypass background activity launch due to improper input validation. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-234013191
 - [Live-Hack-CVE/CVE-2022-20470](https://github.com/Live-Hack-CVE/CVE-2022-20470)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-20470">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-20470">
+- [Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20470](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20470)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20470">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20470">
 - [Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20470](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20470)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20470">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20470">
 
 ---
