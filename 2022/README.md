@@ -11822,6 +11822,11 @@
 - [Live-Hack-CVE/CVE-2022-38724](https://github.com/Live-Hack-CVE/CVE-2022-38724)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38724">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38724">
 
 ---
+## CVE-2022-38723 (2023-01-03T22:15:00)
+> Gravitee API Management before 3.15.13 allows path traversal through HTML injection.
+- [Live-Hack-CVE/CVE-2022-38723](https://github.com/Live-Hack-CVE/CVE-2022-38723)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38723">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38723">
+
+---
 ## CVE-2022-3872 (2022-11-07T21:15:00)
 > An off-by-one read/write issue was found in the SDHCI device of QEMU. It occurs when reading/writing the Buffer Data Port Register in sdhci_read_dataport and sdhci_write_dataport, respectively, if data_count == block_size. A malicious guest could use this flaw to crash the QEMU process on the host, resulting in a denial of service condition.
 - [Live-Hack-CVE/CVE-2022-3872](https://github.com/Live-Hack-CVE/CVE-2022-3872)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3872">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3872">
@@ -20328,9 +20333,94 @@
 - [Live-Hack-CVE/CVE-2022-3266](https://github.com/Live-Hack-CVE/CVE-2022-3266)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3266">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3266">
 
 ---
+## CVE-2022-32653 (2023-01-03T21:15:00)
+> In mtk-aie, there is a possible use after free due to a logic error. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07262518; Issue ID: ALPS07262518.
+- [Live-Hack-CVE/CVE-2022-32653](https://github.com/Live-Hack-CVE/CVE-2022-32653)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32653">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32653">
+
+---
+## CVE-2022-32652 (2023-01-03T21:15:00)
+> In mtk-aie, there is a possible use after free due to a logic error. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07262617; Issue ID: ALPS07262617.
+- [Live-Hack-CVE/CVE-2022-32652](https://github.com/Live-Hack-CVE/CVE-2022-32652)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32652">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32652">
+
+---
+## CVE-2022-32651 (2023-01-03T21:15:00)
+> In mtk-aie, there is a possible use after free due to a logic error. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07225857; Issue ID: ALPS07225857.
+- [Live-Hack-CVE/CVE-2022-32651](https://github.com/Live-Hack-CVE/CVE-2022-32651)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32651">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32651">
+
+---
+## CVE-2022-32650 (2023-01-03T21:15:00)
+> In mtk-isp, there is a possible use after free due to a logic error. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07225853; Issue ID: ALPS07225853.
+- [Live-Hack-CVE/CVE-2022-32650](https://github.com/Live-Hack-CVE/CVE-2022-32650)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32650">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32650">
+
+---
 ## CVE-2022-3265 (2022-11-09T23:15:00)
 > A cross-site scripting issue has been discovered in GitLab CE/EE affecting all versions prior to 15.3.5, 15.4 prior to 15.4.4, and 15.5 prior to 15.5.2. It was possible to exploit a vulnerability in setting the labels colour feature which could lead to a stored XSS that allowed attackers to perform arbitrary actions on behalf of victims at client side.
 - [Live-Hack-CVE/CVE-2022-3265](https://github.com/Live-Hack-CVE/CVE-2022-3265)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3265">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3265">
+
+---
+## CVE-2022-32649 (2023-01-03T21:15:00)
+> In jpeg, there is a possible use after free due to a logic error. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07225840; Issue ID: ALPS07225840.
+- [Live-Hack-CVE/CVE-2022-32649](https://github.com/Live-Hack-CVE/CVE-2022-32649)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32649">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32649">
+
+---
+## CVE-2022-32648 (2023-01-03T21:15:00)
+> In disp, there is a possible use after free due to a race condition. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS06535964; Issue ID: ALPS06535964.
+- [Live-Hack-CVE/CVE-2022-32648](https://github.com/Live-Hack-CVE/CVE-2022-32648)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32648">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32648">
+
+---
+## CVE-2022-32647 (2023-01-03T21:15:00)
+> In ccu, there is a possible out of bounds write due to improper input validation. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07554646; Issue ID: ALPS07554646.
+- [Live-Hack-CVE/CVE-2022-32647](https://github.com/Live-Hack-CVE/CVE-2022-32647)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32647">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32647">
+
+---
+## CVE-2022-32646 (2023-01-03T21:15:00)
+> In gpu drm, there is a possible stack overflow due to a missing bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07363501; Issue ID: ALPS07363501.
+- [Live-Hack-CVE/CVE-2022-32646](https://github.com/Live-Hack-CVE/CVE-2022-32646)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32646">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32646">
+
+---
+## CVE-2022-32645 (2023-01-03T21:15:00)
+> In vow, there is a possible information disclosure due to a race condition. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07494477; Issue ID: ALPS07494477.
+- [Live-Hack-CVE/CVE-2022-32645](https://github.com/Live-Hack-CVE/CVE-2022-32645)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32645">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32645">
+
+---
+## CVE-2022-32644 (2023-01-03T21:15:00)
+> In vow, there is a possible use after free due to a race condition. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07494473; Issue ID: ALPS07494473.
+- [Live-Hack-CVE/CVE-2022-32644](https://github.com/Live-Hack-CVE/CVE-2022-32644)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32644">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32644">
+
+---
+## CVE-2022-32641 (2023-01-03T21:15:00)
+> In meta wifi, there is a possible out of bounds read due to a missing bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07453594; Issue ID: ALPS07453594.
+- [Live-Hack-CVE/CVE-2022-32641](https://github.com/Live-Hack-CVE/CVE-2022-32641)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32641">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32641">
+
+---
+## CVE-2022-32640 (2023-01-03T21:15:00)
+> In meta wifi, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07441652; Issue ID: ALPS07441652.
+- [Live-Hack-CVE/CVE-2022-32640](https://github.com/Live-Hack-CVE/CVE-2022-32640)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32640">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32640">
+
+---
+## CVE-2022-32639 (2023-01-03T21:15:00)
+> In watchdog, there is a possible out of bounds read due to a missing bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07494487; Issue ID: ALPS07494487.
+- [Live-Hack-CVE/CVE-2022-32639](https://github.com/Live-Hack-CVE/CVE-2022-32639)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32639">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32639">
+
+---
+## CVE-2022-32638 (2023-01-03T21:15:00)
+> In isp, there is a possible out of bounds write due to a race condition. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07494449; Issue ID: ALPS07494449.
+- [Live-Hack-CVE/CVE-2022-32638](https://github.com/Live-Hack-CVE/CVE-2022-32638)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32638">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32638">
+
+---
+## CVE-2022-32637 (2023-01-03T21:15:00)
+> In hevc decoder, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07491374; Issue ID: ALPS07491374.
+- [Live-Hack-CVE/CVE-2022-32637](https://github.com/Live-Hack-CVE/CVE-2022-32637)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32637">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32637">
+
+---
+## CVE-2022-32636 (2023-01-03T21:15:00)
+> In keyinstall, there is a possible out of bounds write due to an integer overflow. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07510064; Issue ID: ALPS07510064.
+- [Live-Hack-CVE/CVE-2022-32636](https://github.com/Live-Hack-CVE/CVE-2022-32636)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32636">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32636">
+
+---
+## CVE-2022-32635 (2023-01-03T21:15:00)
+> In gps, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07573237; Issue ID: ALPS07573237.
+- [Live-Hack-CVE/CVE-2022-32635](https://github.com/Live-Hack-CVE/CVE-2022-32635)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32635">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32635">
 
 ---
 ## CVE-2022-32634 (2022-12-05T15:15:00)
@@ -20371,6 +20461,11 @@
 ## CVE-2022-32624 (2022-12-05T15:15:00)
 > In throttling, there is a possible out of bounds write due to an incorrect calculation of buffer size. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07405923; Issue ID: ALPS07405923.
 - [Live-Hack-CVE/CVE-2022-32624](https://github.com/Live-Hack-CVE/CVE-2022-32624)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32624">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32624">
+
+---
+## CVE-2022-32623 (2023-01-03T21:15:00)
+> In mdp, there is a possible out of bounds write due to incorrect error handling. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07342114; Issue ID: ALPS07342114.
+- [Live-Hack-CVE/CVE-2022-32623](https://github.com/Live-Hack-CVE/CVE-2022-32623)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-32623">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-32623">
 
 ---
 ## CVE-2022-32622 (2022-12-05T15:15:00)
@@ -22843,6 +22938,11 @@
 > Delta Industrial Automation DIALink versions prior to v1.5.0.0 Beta 4 uses an external input to construct a pathname intended to identify a file or directory located underneath a restricted parent directory. However, the software does not properly neutralize special elements within the pathname, which can cause the pathname to resolve to a location outside of the restricted directory.
 - [Live-Hack-CVE/CVE-2022-2969](https://github.com/Live-Hack-CVE/CVE-2022-2969)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2969">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2969">
 - [Live-Hack-CVE/CVE-2022-2969](https://github.com/Live-Hack-CVE/CVE-2022-2969)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2969">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2969">
+
+---
+## CVE-2022-2967 (2023-01-03T22:15:00)
+> Prosys OPC UA Simulation Server version prior to v5.3.0-64 and UA Modbus Server versions 1.4.18-5 and prior do not sufficiently protect credentials, which could allow an attacker to obtain user credentials and gain access to system data.
+- [Live-Hack-CVE/CVE-2022-2967](https://github.com/Live-Hack-CVE/CVE-2022-2967)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2967">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2967">
 
 ---
 ## CVE-2022-2966 (2022-12-16T20:15:00)
@@ -26390,6 +26490,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-2351 (2022-09-16T09:15:00)
 > The Post SMTP Mailer/Email Log WordPress plugin before 2.1.4 does not escape some of its settings before outputting them in the admins dashboard, allowing high privilege users to perform Cross-Site Scripting attacks against other users even when the unfiltered_html capability is disallowed.
 - [Live-Hack-CVE/CVE-2022-2351](https://github.com/Live-Hack-CVE/CVE-2022-2351)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2351">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2351">
+
+---
+## CVE-2022-23506 (2023-01-03T21:15:00)
+> Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes, and Spinnaker's Rosco microservice produces machine images. Rosco prior to versions 1.29.2, 1.28.4, and 1.27.3 does not property mask secrets generated via packer builds. This can lead to exposure of sensitive AWS credentials in packer log files. Versions 1.29.2, 1.28.4, and 1.27.3 of Rosco contain fixes for this issue. A workaround is available. It's recommended to use short lived credentials via role assumption and IAM profiles. Additionally, credentials can be set in `/home/spinnaker/.aws/credentials` and `/home/spinnaker/.aws/config` as a volume mount for Rosco pods vs. setting credentials in roscos bake config properties. Last even with those it's recommend to use IAM Roles vs. long lived credentials. This drastically mitigates the risk of credentials exposure. If users have used static credentials, it's recommended to purge any bake logs for AWS, evaluate whether AWS_ACCESS_KEY, SECRET_KEY and/or other sensitive data has been introduced in log files and bake job logs. Then, rotate these credentials and evaluate potential improper use of those credentials.
+- [Live-Hack-CVE/CVE-2022-23506](https://github.com/Live-Hack-CVE/CVE-2022-23506)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23506">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23506">
 
 ---
 ## CVE-2022-23505 (2022-12-13T08:15:00)
