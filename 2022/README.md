@@ -1277,6 +1277,11 @@
 - [Live-Hack-CVE/CVE-2022-4609](https://github.com/Live-Hack-CVE/CVE-2022-4609)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4609">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4609">
 
 ---
+## CVE-2022-46081 (2023-01-04T04:15:00)
+> In Garmin Connect 4.61, terminating a LiveTrack session wouldn't prevent the LiveTrack API from continued exposure of private personal information.
+- [Live-Hack-CVE/CVE-2022-46081](https://github.com/Live-Hack-CVE/CVE-2022-46081)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46081">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46081">
+
+---
 ## CVE-2022-46076 (2022-12-20T17:15:00)
 > D-Link DIR-869 DIR869Ax_FW102B15 is vulnerable to Authentication Bypass via phpcgi.
 - [Live-Hack-CVE/CVE-2022-46076](https://github.com/Live-Hack-CVE/CVE-2022-46076)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46076">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46076">
