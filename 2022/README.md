@@ -73,6 +73,11 @@
 - [Live-Hack-CVE/CVE-2022-4865](https://github.com/Live-Hack-CVE/CVE-2022-4865)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4865">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4865">
 
 ---
+## CVE-2022-48216 (2023-01-04T16:15:00)
+> Uniswap Universal Router before 1.1.0 mishandles reentrancy. This would have allowed theft of funds.
+- [Live-Hack-CVE/CVE-2022-48216](https://github.com/Live-Hack-CVE/CVE-2022-48216)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-48216">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-48216">
+
+---
 ## CVE-2022-48198 (2023-01-01T07:15:00)
 > The ntpd_driver component before 1.3.0 and 2.x before 2.2.0 for Robot Operating System (ROS) allows attackers, who control the source code of a different node in the same ROS application, to change a robot's behavior. This occurs because a topic name depends on the attacker-controlled time_ref_topic parameter.
 - [Live-Hack-CVE/CVE-2022-48198](https://github.com/Live-Hack-CVE/CVE-2022-48198)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-48198">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-48198">
@@ -365,6 +370,11 @@
 - [Live-Hack-CVE/CVE-2022-47208](https://github.com/Live-Hack-CVE/CVE-2022-47208)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47208">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47208">
 
 ---
+## CVE-2022-47102 ()
+> 
+- [sudoninja-noob/CVE-2022-47102](https://github.com/sudoninja-noob/CVE-2022-47102)	<img alt="forks" src="https://img.shields.io/github/forks/sudoninja-noob/CVE-2022-47102">	<img alt="stars" src="https://img.shields.io/github/stars/sudoninja-noob/CVE-2022-47102">
+
+---
 ## CVE-2022-46997 (2022-12-14T15:15:00)
 > Passhunt commit 54eb987d30ead2b8ebbf1f0b880aa14249323867 was discovered to contain a code execution backdoor via the request package. This vulnerability allows attackers to access sensitive user information and digital currency keys, as well as escalate privileges.
 - [Live-Hack-CVE/CVE-2022-46997](https://github.com/Live-Hack-CVE/CVE-2022-46997)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46997">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46997">
@@ -641,6 +651,16 @@
 - [Live-Hack-CVE/CVE-2022-4663](https://github.com/Live-Hack-CVE/CVE-2022-4663)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4663">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4663">
 - [Live-Hack-CVE/CVE-2022-46631](https://github.com/Live-Hack-CVE/CVE-2022-46631)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46631">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46631">
 - [Live-Hack-CVE/CVE-2022-46634](https://github.com/Live-Hack-CVE/CVE-2022-46634)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46634">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46634">
+
+---
+## CVE-2022-46623 ()
+> 
+- [sudoninja-noob/CVE-2022-46623](https://github.com/sudoninja-noob/CVE-2022-46623)	<img alt="forks" src="https://img.shields.io/github/forks/sudoninja-noob/CVE-2022-46623">	<img alt="stars" src="https://img.shields.io/github/stars/sudoninja-noob/CVE-2022-46623">
+
+---
+## CVE-2022-46622 ()
+> 
+- [sudoninja-noob/CVE-2022-46622](https://github.com/sudoninja-noob/CVE-2022-46622)	<img alt="forks" src="https://img.shields.io/github/forks/sudoninja-noob/CVE-2022-46622">	<img alt="stars" src="https://img.shields.io/github/stars/sudoninja-noob/CVE-2022-46622">
 
 ---
 ## CVE-2022-4662 (2022-12-22T22:15:00)
@@ -1594,6 +1614,11 @@
 > SENS v1.0 is vulnerable to Incorrect Access Control vulnerability.
 - [Live-Hack-CVE/CVE-2022-45760](https://github.com/Live-Hack-CVE/CVE-2022-45760)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45760">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45760">
 - [Live-Hack-CVE/CVE-2022-45760](https://github.com/Live-Hack-CVE/CVE-2022-45760)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45760">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45760">
+
+---
+## CVE-2022-45729 ()
+> 
+- [sudoninja-noob/CVE-2022-45729](https://github.com/sudoninja-noob/CVE-2022-45729)	<img alt="forks" src="https://img.shields.io/github/forks/sudoninja-noob/CVE-2022-45729">	<img alt="stars" src="https://img.shields.io/github/stars/sudoninja-noob/CVE-2022-45729">
 
 ---
 ## CVE-2022-45728 ()
