@@ -1596,6 +1596,11 @@
 - [Live-Hack-CVE/CVE-2022-45760](https://github.com/Live-Hack-CVE/CVE-2022-45760)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45760">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45760">
 
 ---
+## CVE-2022-45728 ()
+> 
+- [sudoninja-noob/CVE-2022-45728](https://github.com/sudoninja-noob/CVE-2022-45728)	<img alt="forks" src="https://img.shields.io/github/forks/sudoninja-noob/CVE-2022-45728">	<img alt="stars" src="https://img.shields.io/github/stars/sudoninja-noob/CVE-2022-45728">
+
+---
 ## CVE-2022-4572 (2022-12-17T02:15:00)
 > A vulnerability, which was classified as problematic, has been found in UBI Reader up to 0.8.0. Affected by this issue is the function ubireader_extract_files of the file ubireader/ubifs/output.py of the component UBIFS File Handler. The manipulation leads to path traversal. The attack may be launched remotely. Upgrading to version 0.8.5 is able to address this issue. The name of the patch is d5d68e6b1b9f7070c29df5f67fc060f579ae9139. It is recommended to upgrade the affected component. VDB-216146 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-4572](https://github.com/Live-Hack-CVE/CVE-2022-4572)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4572">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4572">
