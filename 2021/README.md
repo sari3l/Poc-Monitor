@@ -968,9 +968,19 @@
 - [Citizen13X/CVE-2021-43229](https://github.com/Citizen13X/CVE-2021-43229)	<img alt="forks" src="https://img.shields.io/github/forks/Citizen13X/CVE-2021-43229">	<img alt="stars" src="https://img.shields.io/github/stars/Citizen13X/CVE-2021-43229">
 
 ---
+## CVE-2021-4302 (2023-01-04T22:15:00)
+> A vulnerability was found in slackero phpwcms up to 1.9.26. It has been classified as problematic. This affects an unknown part of the component SVG File Handler. The manipulation leads to cross site scripting. It is possible to initiate the attack remotely. Upgrading to version 1.9.27 is able to address this issue. The name of the patch is b39db9c7ad3800f319195ff0e26a0981395b1c54. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-217419.
+- [Live-Hack-CVE/CVE-2021-4302](https://github.com/Live-Hack-CVE/CVE-2021-4302)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4302">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4302">
+
+---
 ## CVE-2021-43019 (2021-11-23T19:15:00)
 > Adobe Creative Cloud version 5.5 (and earlier) are affected by a privilege escalation vulnerability in the resources leveraged by the Setup.exe service. An unauthenticated attacker could leverage this vulnerability to remove files and escalate privileges under the context of SYSTEM . An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability on the product installer. User interaction is required before product installation to abuse this vulnerability.
 - [Live-Hack-CVE/CVE-2021-43019](https://github.com/Live-Hack-CVE/CVE-2021-43019)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43019">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43019">
+
+---
+## CVE-2021-4300 (2023-01-04T22:15:00)
+> A vulnerability has been found in ghostlander Halcyon and classified as critical. Affected by this vulnerability is the function CBlock::AddToBlockIndex of the file src/main.cpp of the component Block Verification. The manipulation leads to improper access controls. The attack can be launched remotely. Upgrading to version 1.1.1.0-hal is able to address this issue. The name of the patch is 0675b25ae9cc10b5fdc8ea3a32c642979762d45e. It is recommended to upgrade the affected component. The identifier VDB-217417 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2021-4300](https://github.com/Live-Hack-CVE/CVE-2021-4300)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4300">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4300">
 
 ---
 ## CVE-2021-4299 (2023-01-02T08:15:00)
