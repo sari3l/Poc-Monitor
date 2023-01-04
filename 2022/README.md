@@ -1162,6 +1162,7 @@
 > NodeBB is an open source Node.js based forum software. Due to a plain object with a prototype being used in socket.io message handling a specially crafted payload can be used to impersonate other users and takeover accounts. This vulnerability has been patched in version 2.6.1. Users are advised to upgrade. Users unable to upgrade may cherry-pick commit `48d143921753914da45926cca6370a92ed0c46b8` into their codebase to patch the exploit.
 - [Live-Hack-CVE/CVE-2022-46164](https://github.com/Live-Hack-CVE/CVE-2022-46164)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46164">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46164">
 - [Live-Hack-CVE/CVE-2022-46164](https://github.com/Live-Hack-CVE/CVE-2022-46164)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46164">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46164">
+- [stephenbradshaw/CVE-2022-46164-poc](https://github.com/stephenbradshaw/CVE-2022-46164-poc)	<img alt="forks" src="https://img.shields.io/github/forks/stephenbradshaw/CVE-2022-46164-poc">	<img alt="stars" src="https://img.shields.io/github/stars/stephenbradshaw/CVE-2022-46164-poc">
 
 ---
 ## CVE-2022-46161 (2022-12-06T19:15:00)
