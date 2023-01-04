@@ -1401,6 +1401,51 @@
 - [Live-Hack-CVE/CVE-2021-41992](https://github.com/Live-Hack-CVE/CVE-2021-41992)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41992">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41992">
 
 ---
+## CVE-2021-41985 (2023-01-04T14:15:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2021. Notes: none.
+- [Live-Hack-CVE/CVE-2021-41985](https://github.com/Live-Hack-CVE/CVE-2021-41985)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41985">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41985">
+
+---
+## CVE-2021-41984 (2023-01-04T14:15:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2021. Notes: none.
+- [Live-Hack-CVE/CVE-2021-41984](https://github.com/Live-Hack-CVE/CVE-2021-41984)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41984">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41984">
+
+---
+## CVE-2021-41983 (2023-01-04T14:15:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2021. Notes: none.
+- [Live-Hack-CVE/CVE-2021-41983](https://github.com/Live-Hack-CVE/CVE-2021-41983)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41983">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41983">
+
+---
+## CVE-2021-41982 (2023-01-04T14:15:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2021. Notes: none.
+- [Live-Hack-CVE/CVE-2021-41982](https://github.com/Live-Hack-CVE/CVE-2021-41982)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41982">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41982">
+
+---
+## CVE-2021-41981 (2023-01-04T14:15:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2021. Notes: none.
+- [Live-Hack-CVE/CVE-2021-41981](https://github.com/Live-Hack-CVE/CVE-2021-41981)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41981">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41981">
+
+---
+## CVE-2021-41980 (2023-01-04T14:15:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2021. Notes: none.
+- [Live-Hack-CVE/CVE-2021-41980](https://github.com/Live-Hack-CVE/CVE-2021-41980)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41980">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41980">
+
+---
+## CVE-2021-41979 (2023-01-04T14:15:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2021. Notes: none.
+- [Live-Hack-CVE/CVE-2021-41979](https://github.com/Live-Hack-CVE/CVE-2021-41979)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41979">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41979">
+
+---
+## CVE-2021-41978 (2023-01-04T14:15:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2021. Notes: none.
+- [Live-Hack-CVE/CVE-2021-41978](https://github.com/Live-Hack-CVE/CVE-2021-41978)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41978">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41978">
+
+---
+## CVE-2021-41977 (2023-01-04T14:15:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2021. Notes: none.
+- [Live-Hack-CVE/CVE-2021-41977](https://github.com/Live-Hack-CVE/CVE-2021-41977)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41977">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41977">
+
+---
 ## CVE-2021-4197 (2022-03-23T20:15:00)
 > An unprivileged write to the file handler flaw in the Linux kernel's control groups and namespaces subsystem was found in the way users have access to some less privileged process that are controlled by cgroups and have higher privileged parent process. It is actually both for cgroup2 and cgroup1 versions of control groups. A local user could use this flaw to crash the system or escalate their privileges on the system.
 - [Live-Hack-CVE/CVE-2021-4197](https://github.com/Live-Hack-CVE/CVE-2021-4197)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4197">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4197">
