@@ -97,6 +97,11 @@ Any Unreal3.2.8.1.tar.gz downloaded BEFORE November 10 2009 should be safe, but 
 - [Live-Hack-CVE/CVE-2010-1281](https://github.com/Live-Hack-CVE/CVE-2010-1281)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-1281">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-1281">
 
 ---
+## CVE-2010-10003 (2023-01-04T10:15:00)
+> A vulnerability classified as critical was found in gesellix titlelink. Affected by this vulnerability is an unknown functionality of the file plugin_content_title.php. The manipulation of the argument phrase leads to sql injection. The name of the patch is b4604e523853965fa981a4e79aef4b554a535db0. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-217351.
+- [Live-Hack-CVE/CVE-2010-10003](https://github.com/Live-Hack-CVE/CVE-2010-10003)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-10003">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-10003">
+
+---
 ## CVE-2010-10002 (2023-01-01T17:15:00)
 > ** UNSUPPPORTED WHEN ASSIGNED **** UNSUPPORTED WHEN ASSIGNED ** A vulnerability classified as problematic has been found in SimpleSAMLphp simplesamlphp-module-openid. Affected is an unknown function of the file templates/consumer.php of the component OpenID Handler. The manipulation of the argument AuthState leads to cross site scripting. It is possible to launch the attack remotely. Upgrading to version 1.0 is able to address this issue. The name of the patch is d652d41ccaf8c45d5707e741c0c5d82a2365a9a3. It is recommended to upgrade the affected component. VDB-217170 is the identifier assigned to this vulnerability. NOTE: This vulnerability only affects products that are no longer supported by the maintainer.
 - [Live-Hack-CVE/CVE-2010-10002](https://github.com/Live-Hack-CVE/CVE-2010-10002)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-10002">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-10002">

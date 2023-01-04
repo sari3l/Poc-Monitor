@@ -2881,6 +2881,31 @@
 - [Live-Hack-CVE/CVE-2022-44449](https://github.com/Live-Hack-CVE/CVE-2022-44449)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44449">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44449">
 
 ---
+## CVE-2022-44426 (2023-01-04T10:15:00)
+> In wlan driver, there is a possible missing bounds check. This could lead to local denial of service in wlan services.
+- [Live-Hack-CVE/CVE-2022-44426](https://github.com/Live-Hack-CVE/CVE-2022-44426)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44426">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44426">
+
+---
+## CVE-2022-44425 (2023-01-04T10:15:00)
+> In wlan driver, there is a possible missing bounds check. This could lead to local denial of service in wlan services.
+- [Live-Hack-CVE/CVE-2022-44425](https://github.com/Live-Hack-CVE/CVE-2022-44425)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44425">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44425">
+
+---
+## CVE-2022-44424 (2023-01-04T10:15:00)
+> In music service, there is a missing permission check. This could lead to local denial of service in contacts service with no additional execution privileges needed.
+- [Live-Hack-CVE/CVE-2022-44424](https://github.com/Live-Hack-CVE/CVE-2022-44424)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44424">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44424">
+
+---
+## CVE-2022-44423 (2023-01-04T10:15:00)
+> In music service, there is a missing permission check. This could lead to local denial of service in contacts service with no additional execution privileges needed.
+- [Live-Hack-CVE/CVE-2022-44423](https://github.com/Live-Hack-CVE/CVE-2022-44423)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44423">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44423">
+
+---
+## CVE-2022-44422 (2023-01-04T10:15:00)
+> In music service, there is a missing permission check. This could lead to local denial of service in contacts service with no additional execution privileges needed.
+- [Live-Hack-CVE/CVE-2022-44422](https://github.com/Live-Hack-CVE/CVE-2022-44422)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44422">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44422">
+
+---
 ## CVE-2022-44415 (2022-11-18T19:15:00)
 > Automotive Shop Management System v1.0 is vulnerable to SQL Injection via /asms/admin/mechanics/view_mechanic.php?id=.
 - [Live-Hack-CVE/CVE-2022-44415](https://github.com/Live-Hack-CVE/CVE-2022-44415)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44415">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44415">
@@ -11161,6 +11186,16 @@
 - [Live-Hack-CVE/CVE-2022-39119](https://github.com/Live-Hack-CVE/CVE-2022-39119)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39119">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39119">
 
 ---
+## CVE-2022-39118 (2023-01-04T10:15:00)
+> In sprd_sysdump driver, there is a possible out of bounds write due to a missing bounds check. This could lead to local denial of service in kernel.
+- [Live-Hack-CVE/CVE-2022-39118](https://github.com/Live-Hack-CVE/CVE-2022-39118)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39118">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39118">
+
+---
+## CVE-2022-39116 (2023-01-04T10:15:00)
+> In sprd_sysdump driver, there is a possible out of bounds write due to a missing bounds check. This could lead to local denial of service in kernel.
+- [Live-Hack-CVE/CVE-2022-39116](https://github.com/Live-Hack-CVE/CVE-2022-39116)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39116">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39116">
+
+---
 ## CVE-2022-3911 (2023-01-02T22:15:00)
 > The iubenda | All-in-one Compliance for GDPR / CCPA Cookie Consent + more WordPress plugin before 3.3.3 does does not have authorisation and CSRF in an AJAX action, and does not ensure that the options to be updated belong to the plugin as long as they are arrays. As a result, any authenticated users, such as subscriber can grant themselves any privileges, such as edit_plugins etc
 - [Live-Hack-CVE/CVE-2022-3911](https://github.com/Live-Hack-CVE/CVE-2022-3911)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3911">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3911">
@@ -11169,6 +11204,11 @@
 ## CVE-2022-39106 (2022-12-06T07:15:00)
 > In sensor driver, there is a possible out of bounds write due to a missing bounds check. This could lead to local denial of service in kernel.
 - [Live-Hack-CVE/CVE-2022-39106](https://github.com/Live-Hack-CVE/CVE-2022-39106)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39106">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39106">
+
+---
+## CVE-2022-39104 (2023-01-04T10:15:00)
+> In contacts service, there is a missing permission check. This could lead to local denial of service in Contacts service with no additional execution privileges needed.
+- [Live-Hack-CVE/CVE-2022-39104](https://github.com/Live-Hack-CVE/CVE-2022-39104)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39104">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39104">
 
 ---
 ## CVE-2022-39102 (2022-12-06T07:15:00)
@@ -11249,6 +11289,46 @@
 - [Live-Hack-CVE/CVE-2022-39097](https://github.com/Live-Hack-CVE/CVE-2022-39097)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39097">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39097">
 - [Live-Hack-CVE/CVE-2022-39098](https://github.com/Live-Hack-CVE/CVE-2022-39098)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39098">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39098">
 - [Live-Hack-CVE/CVE-2022-39099](https://github.com/Live-Hack-CVE/CVE-2022-39099)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39099">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39099">
+
+---
+## CVE-2022-39088 (2023-01-04T10:15:00)
+> In network service, there is a missing permission check. This could lead to local escalation of privilege with System execution privileges needed.
+- [Live-Hack-CVE/CVE-2022-39088](https://github.com/Live-Hack-CVE/CVE-2022-39088)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39088">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39088">
+
+---
+## CVE-2022-39087 (2023-01-04T10:15:00)
+> In network service, there is a missing permission check. This could lead to local escalation of privilege with System execution privileges needed.
+- [Live-Hack-CVE/CVE-2022-39087](https://github.com/Live-Hack-CVE/CVE-2022-39087)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39087">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39087">
+
+---
+## CVE-2022-39086 (2023-01-04T10:15:00)
+> In network service, there is a missing permission check. This could lead to local escalation of privilege with System execution privileges needed.
+- [Live-Hack-CVE/CVE-2022-39086](https://github.com/Live-Hack-CVE/CVE-2022-39086)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39086">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39086">
+
+---
+## CVE-2022-39085 (2023-01-04T10:15:00)
+> In network service, there is a missing permission check. This could lead to local escalation of privilege with System execution privileges needed.
+- [Live-Hack-CVE/CVE-2022-39085](https://github.com/Live-Hack-CVE/CVE-2022-39085)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39085">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39085">
+
+---
+## CVE-2022-39084 (2023-01-04T10:15:00)
+> In network service, there is a missing permission check. This could lead to local escalation of privilege with System execution privileges needed.
+- [Live-Hack-CVE/CVE-2022-39084](https://github.com/Live-Hack-CVE/CVE-2022-39084)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39084">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39084">
+
+---
+## CVE-2022-39083 (2023-01-04T10:15:00)
+> In network service, there is a missing permission check. This could lead to local escalation of privilege with System execution privileges needed.
+- [Live-Hack-CVE/CVE-2022-39083](https://github.com/Live-Hack-CVE/CVE-2022-39083)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39083">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39083">
+
+---
+## CVE-2022-39082 (2023-01-04T10:15:00)
+> In network service, there is a missing permission check. This could lead to local escalation of privilege with System execution privileges needed.
+- [Live-Hack-CVE/CVE-2022-39082](https://github.com/Live-Hack-CVE/CVE-2022-39082)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39082">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39082">
+
+---
+## CVE-2022-39081 (2023-01-04T10:15:00)
+> In network service, there is a missing permission check. This could lead to local escalation of privilege with System execution privileges needed.
+- [Live-Hack-CVE/CVE-2022-39081](https://github.com/Live-Hack-CVE/CVE-2022-39081)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39081">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39081">
 
 ---
 ## CVE-2022-39067 (2022-11-22T17:15:00)
@@ -11903,9 +11983,29 @@
 - [Live-Hack-CVE/CVE-2022-38687](https://github.com/Live-Hack-CVE/CVE-2022-38687)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38687">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38687">
 
 ---
+## CVE-2022-38684 (2023-01-04T10:15:00)
+> In contacts service, there is a missing permission check. This could lead to local denial of service in contacts service with no additional execution privileges needed.
+- [Live-Hack-CVE/CVE-2022-38684](https://github.com/Live-Hack-CVE/CVE-2022-38684)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38684">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38684">
+
+---
+## CVE-2022-38683 (2023-01-04T10:15:00)
+> In contacts service, there is a missing permission check. This could lead to local denial of service in contacts service with no additional execution privileges needed.
+- [Live-Hack-CVE/CVE-2022-38683](https://github.com/Live-Hack-CVE/CVE-2022-38683)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38683">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38683">
+
+---
+## CVE-2022-38682 (2023-01-04T10:15:00)
+> In contacts service, there is a missing permission check. This could lead to local denial of service in contacts service with no additional execution privileges needed.
+- [Live-Hack-CVE/CVE-2022-38682](https://github.com/Live-Hack-CVE/CVE-2022-38682)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38682">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38682">
+
+---
 ## CVE-2022-3868 (2022-11-05T09:15:00)
 > A vulnerability classified as critical has been found in SourceCodester Sanitization Management System. Affected is an unknown function of the file /php-sms/classes/Master.php?f=save_quote. The manipulation of the argument id leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-213012.
 - [Live-Hack-CVE/CVE-2022-3868](https://github.com/Live-Hack-CVE/CVE-2022-3868)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3868">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3868">
+
+---
+## CVE-2022-38678 (2023-01-04T10:15:00)
+> In contacts service, there is a missing permission check. This could lead to local denial of service in contacts service with no additional execution privileges needed.
+- [Live-Hack-CVE/CVE-2022-38678](https://github.com/Live-Hack-CVE/CVE-2022-38678)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38678">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38678">
 
 ---
 ## CVE-2022-3867 (2022-11-10T06:15:00)
@@ -30725,6 +30825,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [DataFox/CVE-2022-0847](https://github.com/DataFox/CVE-2022-0847)	<img alt="forks" src="https://img.shields.io/github/forks/DataFox/CVE-2022-0847">	<img alt="stars" src="https://img.shields.io/github/stars/DataFox/CVE-2022-0847">
 - [pmihsan/-Dirty-Pipe-CVE-2022-0847](https://github.com/pmihsan/-Dirty-Pipe-CVE-2022-0847)	<img alt="forks" src="https://img.shields.io/github/forks/pmihsan/-Dirty-Pipe-CVE-2022-0847">	<img alt="stars" src="https://img.shields.io/github/stars/pmihsan/-Dirty-Pipe-CVE-2022-0847">
 - [Live-Hack-CVE/CVE-2022-0847](https://github.com/Live-Hack-CVE/CVE-2022-0847)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0847">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0847">
+- [ajith737/Dirty-Pipe-CVE-2022-0847-POCs](https://github.com/ajith737/Dirty-Pipe-CVE-2022-0847-POCs)	<img alt="forks" src="https://img.shields.io/github/forks/ajith737/Dirty-Pipe-CVE-2022-0847-POCs">	<img alt="stars" src="https://img.shields.io/github/stars/ajith737/Dirty-Pipe-CVE-2022-0847-POCs">
 
 ---
 ## CVE-2022-0836 (2022-05-09T17:15:00)

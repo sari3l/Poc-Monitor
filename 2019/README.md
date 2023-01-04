@@ -1216,6 +1216,11 @@
 - [Live-Hack-CVE/CVE-2019-2614](https://github.com/Live-Hack-CVE/CVE-2019-2614)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-2614">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-2614">
 
 ---
+## CVE-2019-25094 (2023-01-04T10:15:00)
+> A vulnerability, which was classified as problematic, was found in innologi appointments Extension up to 2.0.5. This affects an unknown part of the component Appointment Handler. The manipulation of the argument formfield leads to cross site scripting. It is possible to initiate the attack remotely. Upgrading to version 2.0.6 is able to address this issue. The name of the patch is 986d3cb34e5e086c6f04e061f600ffc5837abe7f. It is recommended to upgrade the affected component. The identifier VDB-217353 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2019-25094](https://github.com/Live-Hack-CVE/CVE-2019-25094)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25094">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25094">
+
+---
 ## CVE-2019-25093 (2023-01-02T11:15:00)
 > A vulnerability, which was classified as problematic, was found in dragonexpert Recent Threads on Index. Affected is the function recentthread_list_threads of the file inc/plugins/recentthreads/hooks.php of the component Setting Handler. The manipulation of the argument recentthread_forumskip leads to cross site scripting. It is possible to launch the attack remotely. The name of the patch is 051465d807a8fcc6a8b0f4bcbb19299672399f48. It is recommended to apply a patch to fix this issue. VDB-217182 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2019-25093](https://github.com/Live-Hack-CVE/CVE-2019-25093)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25093">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25093">

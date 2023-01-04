@@ -696,6 +696,11 @@
 - [Live-Hack-CVE/CVE-2016-1669](https://github.com/Live-Hack-CVE/CVE-2016-1669)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-1669">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-1669">
 
 ---
+## CVE-2016-15008 (2023-01-04T10:15:00)
+> A vulnerability was found in oxguy3 coebot-www and classified as problematic. This issue affects the function displayChannelCommands/displayChannelQuotes/displayChannelAutoreplies/showChannelHighlights/showChannelBoir of the file js/channel.js. The manipulation leads to cross site scripting. The attack may be initiated remotely. The name of the patch is c1a6c44092585da4236237e0e7da94ee2996a0ca. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-217355.
+- [Live-Hack-CVE/CVE-2016-15008](https://github.com/Live-Hack-CVE/CVE-2016-15008)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-15008">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-15008">
+
+---
 ## CVE-2016-15007 (2023-01-02T19:15:00)
 > A vulnerability was found in Centralized-Salesforce-Dev-Framework. It has been declared as problematic. Affected by this vulnerability is the function SObjectService of the file src/classes/SObjectService.cls of the component SOQL Handler. The manipulation of the argument orderDirection leads to injection. The name of the patch is db03ac5b8a9d830095991b529c067a030a0ccf7b. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-217195.
 - [Live-Hack-CVE/CVE-2016-15007](https://github.com/Live-Hack-CVE/CVE-2016-15007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-15007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-15007">
