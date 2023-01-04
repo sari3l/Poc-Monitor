@@ -748,6 +748,11 @@
 - [Live-Hack-CVE/CVE-2022-4646](https://github.com/Live-Hack-CVE/CVE-2022-4646)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4646">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4646">
 
 ---
+## CVE-2022-46456 (2023-01-04T18:15:00)
+> NASM v2.16 was discovered to contain a global buffer overflow in the component dbgdbg_typevalue at /output/outdbg.c.
+- [Live-Hack-CVE/CVE-2022-46456](https://github.com/Live-Hack-CVE/CVE-2022-46456)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46456">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46456">
+
+---
 ## CVE-2022-46443 (2022-12-14T18:15:00)
 > mesinkasir Bangresto 1.0 is vulnberable to SQL Injection via the itemqty%5B%5D parameter.
 - [Live-Hack-CVE/CVE-2022-46443](https://github.com/Live-Hack-CVE/CVE-2022-46443)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46443">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46443">
@@ -3537,6 +3542,11 @@
 ## CVE-2022-43931 (2023-01-03T04:15:00)
 > Out-of-bounds write vulnerability in Remote Desktop Functionality in Synology VPN Plus Server before 1.4.3-0534 and 1.4.4-0635 allows remote attackers to execute arbitrary commands via unspecified vectors.
 - [Live-Hack-CVE/CVE-2022-43931](https://github.com/Live-Hack-CVE/CVE-2022-43931)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43931">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43931">
+
+---
+## CVE-2022-43920 (2023-01-04T18:15:00)
+> IBM Sterling B2B Integrator Standard Edition 6.0.0.0 through 6.1.2.1 could allow an authenticated user to gain privileges in a different group due to an access control vulnerability in the Sftp server adapter. IBM X-Force ID: 241362.
+- [Live-Hack-CVE/CVE-2022-43920](https://github.com/Live-Hack-CVE/CVE-2022-43920)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43920">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43920">
 
 ---
 ## CVE-2022-43901 (2022-12-01T19:15:00)
@@ -25273,6 +25283,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-25932](https://github.com/Live-Hack-CVE/CVE-2022-25932)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25932">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25932">
 
 ---
+## CVE-2022-25926 (2023-01-04T18:15:00)
+> Versions of the package window-control before 1.4.5 are vulnerable to Command Injection via the sendKeys function, due to improper input sanitization.
+- [Live-Hack-CVE/CVE-2022-25926](https://github.com/Live-Hack-CVE/CVE-2022-25926)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25926">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25926">
+
+---
 ## CVE-2022-2592 (2022-10-17T16:15:00)
 > A lack of length validation in Snippet descriptions in GitLab CE/EE affecting all versions prior to 15.1.6, 15.2 prior to 15.2.4 and 15.3 prior to 15.3.2 allows an authenticated attacker to create a maliciously large Snippet which when requested with or without authentication places excessive load on the server, potential leading to Denial of Service.
 - [Live-Hack-CVE/CVE-2022-2592](https://github.com/Live-Hack-CVE/CVE-2022-2592)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2592">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2592">
@@ -27513,9 +27528,19 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-22411](https://github.com/Live-Hack-CVE/CVE-2022-22411)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22411">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22411">
 
 ---
+## CVE-2022-22352 (2023-01-04T18:15:00)
+> IBM Sterling B2B Integrator Standard Edition 6.0.0.0 through 6.1.2.1 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 220398.
+- [Live-Hack-CVE/CVE-2022-22352](https://github.com/Live-Hack-CVE/CVE-2022-22352)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22352">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22352">
+
+---
 ## CVE-2022-2234 (2022-08-24T16:15:00)
 > An authenticated mySCADA myPRO 8.26.0 user may be able to modify parameters to run commands directly in the operating system.
 - [Live-Hack-CVE/CVE-2022-2234](https://github.com/Live-Hack-CVE/CVE-2022-2234)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2234">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2234">
+
+---
+## CVE-2022-22338 (2023-01-04T18:15:00)
+> IBM Sterling B2B Integrator Standard Edition 6.0.0.0 through 6.1.2.1 is vulnerable to SQL injection. A remote attacker could send specially crafted SQL statements, which could allow the attacker to view, add, modify or delete information in the back-end database. IBM X-Force ID: 219510.
+- [Live-Hack-CVE/CVE-2022-22338](https://github.com/Live-Hack-CVE/CVE-2022-22338)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22338">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22338">
 
 ---
 ## CVE-2022-22337 (2023-01-04T18:15:00)
