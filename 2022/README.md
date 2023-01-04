@@ -27518,6 +27518,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-2234](https://github.com/Live-Hack-CVE/CVE-2022-2234)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2234">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2234">
 
 ---
+## CVE-2022-22337 (2023-01-04T18:15:00)
+> IBM Sterling B2B Integrator Standard Edition 6.0.0.0 through 6.1.2.1 could disclose sensitive information to an authenticated user. IBM X-Force ID: 219507.
+- [Live-Hack-CVE/CVE-2022-22337](https://github.com/Live-Hack-CVE/CVE-2022-22337)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22337">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22337">
+
+---
 ## CVE-2022-22330 (2022-09-13T21:15:00)
 > IBM Control Desk 7.6.1 could allow a remote attacker to obtain sensitive information, caused by the failure to set the HTTPOnly flag. A remote attacker could exploit this vulnerability to obtain sensitive information from the cookie. IBM X-Force ID: 219126.
 - [Live-Hack-CVE/CVE-2022-22330](https://github.com/Live-Hack-CVE/CVE-2022-22330)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22330">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22330">

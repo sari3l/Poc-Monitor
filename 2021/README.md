@@ -2689,6 +2689,11 @@
 - [Live-Hack-CVE/CVE-2021-38934](https://github.com/Live-Hack-CVE/CVE-2021-38934)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38934">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38934">
 
 ---
+## CVE-2021-38928 (2023-01-04T18:15:00)
+> IBM Sterling B2B Integrator Standard Edition 6.0.0.0 through 6.1.2.1 uses Cross-Origin Resource Sharing (CORS) which could allow an attacker to carry out privileged actions and retrieve sensitive information as the domain name is not being limited to only trusted domains. IBM X-Force ID: 210323.
+- [Live-Hack-CVE/CVE-2021-38928](https://github.com/Live-Hack-CVE/CVE-2021-38928)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38928">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38928">
+
+---
 ## CVE-2021-38924 (2022-09-14T17:15:00)
 > IBM Maximo Asset Management 7.6.1.1 and 7.6.1.2 could allow a remote attacker to obtain sensitive information when a detailed technical error message is returned in the browser. This information could be used in further attacks against the system. IBM X-Force ID: 210163.
 - [Live-Hack-CVE/CVE-2021-38924](https://github.com/Live-Hack-CVE/CVE-2021-38924)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38924">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38924">
