@@ -21,6 +21,11 @@
 - [Live-Hack-CVE/CVE-2023-22451](https://github.com/Live-Hack-CVE/CVE-2023-22451)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22451">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22451">
 
 ---
+## CVE-2023-0048 (2023-01-04T14:15:00)
+>  Code Injection in GitHub repository lirantal/daloradius prior to master-branch.
+- [Live-Hack-CVE/CVE-2023-0048](https://github.com/Live-Hack-CVE/CVE-2023-0048)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0048">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0048">
+
+---
 ## CVE-2023-0046 (2023-01-04T12:15:00)
 > Improper Restriction of Names for Files and Other Resources in GitHub repository lirantal/daloradius prior to master-branch.
 - [Live-Hack-CVE/CVE-2023-0046](https://github.com/Live-Hack-CVE/CVE-2023-0046)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0046">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0046">

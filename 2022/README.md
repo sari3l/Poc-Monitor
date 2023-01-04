@@ -22968,6 +22968,11 @@
 - [Live-Hack-CVE/CVE-2022-29901](https://github.com/Live-Hack-CVE/CVE-2022-29901)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29901">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29901">
 
 ---
+## CVE-2022-29899 (2023-01-04T14:15:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2022. Notes: none.
+- [Live-Hack-CVE/CVE-2022-29899](https://github.com/Live-Hack-CVE/CVE-2022-29899)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29899">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29899">
+
+---
 ## CVE-2022-29891 (2022-08-18T08:15:00)
 > Browse restriction bypass vulnerability in Custom Ap of Cybozu Office 10.0.0 to 10.8.5 allows a remote authenticated attacker to obtain the data of Custom App via unspecified vectors.
 - [Live-Hack-CVE/CVE-2022-29891](https://github.com/Live-Hack-CVE/CVE-2022-29891)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29891">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29891">
@@ -31151,6 +31156,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-0261 (2022-01-18T16:15:00)
 > Heap-based Buffer Overflow in GitHub repository vim/vim prior to 8.2.
 - [Live-Hack-CVE/CVE-2022-0261](https://github.com/Live-Hack-CVE/CVE-2022-0261)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0261">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0261">
+
+---
+## CVE-2022-0259 (2023-01-04T14:15:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2022. Notes: none.
+- [Live-Hack-CVE/CVE-2022-0259](https://github.com/Live-Hack-CVE/CVE-2022-0259)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0259">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0259">
 
 ---
 ## CVE-2022-0224 (2022-01-14T18:15:00)

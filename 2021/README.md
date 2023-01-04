@@ -1401,6 +1401,11 @@
 - [Live-Hack-CVE/CVE-2021-41992](https://github.com/Live-Hack-CVE/CVE-2021-41992)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41992">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41992">
 
 ---
+## CVE-2021-41986 (2023-01-04T14:15:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2021. Notes: none.
+- [Live-Hack-CVE/CVE-2021-41986](https://github.com/Live-Hack-CVE/CVE-2021-41986)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41986">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41986">
+
+---
 ## CVE-2021-41985 (2023-01-04T14:15:00)
 > ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2021. Notes: none.
 - [Live-Hack-CVE/CVE-2021-41985](https://github.com/Live-Hack-CVE/CVE-2021-41985)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41985">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41985">
