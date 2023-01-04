@@ -3376,6 +3376,11 @@
 - [Live-Hack-CVE/CVE-2022-44038](https://github.com/Live-Hack-CVE/CVE-2022-44038)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44038">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44038">
 
 ---
+## CVE-2022-44036 (2023-01-03T21:15:00)
+> ** DISPUTED ** In b2evolution 7.2.5, if configured with admins_can_manipulate_sensitive_files, arbitrary file upload is allowed for admins, leading to command execution. NOTE: the vendor's position is that this is "very obviously a feature not an issue and if you don't like that feature it is very obvious how to disable it."
+- [Live-Hack-CVE/CVE-2022-44036](https://github.com/Live-Hack-CVE/CVE-2022-44036)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44036">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44036">
+
+---
 ## CVE-2022-44034 (2022-10-30T01:15:00)
 > An issue was discovered in the Linux kernel through 6.0.6. drivers/char/pcmcia/scr24x_cs.c has a race condition and resultant use-after-free if a physically proximate attacker removes a PCMCIA device while calling open(), aka a race condition between scr24x_open() and scr24x_remove().
 - [Live-Hack-CVE/CVE-2022-44034](https://github.com/Live-Hack-CVE/CVE-2022-44034)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44034">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44034">
@@ -5324,6 +5329,11 @@
 - [Live-Hack-CVE/CVE-2022-42711](https://github.com/Live-Hack-CVE/CVE-2022-42711)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42711">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42711">
 
 ---
+## CVE-2022-42710 (2023-01-03T23:15:00)
+> Nice (formerly Nortek) Linear eMerge E3-Series 0.32-08f, 0.32-07p, 0.32-07e, 0.32-09c, 0.32-09b, 0.32-09a, and 0.32-08e devices are vulnerable to Stored Cross-Site Scripting (XSS).
+- [Live-Hack-CVE/CVE-2022-42710](https://github.com/Live-Hack-CVE/CVE-2022-42710)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42710">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42710">
+
+---
 ## CVE-2022-4270 (2022-12-02T13:15:00)
 > Incorrect privilege assignment issue in M-Files Web in M-Files Web versions before 22.5.11436.1 could have changed permissions accidentally.
 - [Live-Hack-CVE/CVE-2022-4270](https://github.com/Live-Hack-CVE/CVE-2022-4270)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4270">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4270">
@@ -5556,6 +5566,11 @@
 ## CVE-2022-42446 (2022-12-12T13:15:00)
 > Starting with Sametime 12, anonymous users are enabled by default. After logging in as an anonymous user, one has the ability to browse the User Directory and potentially create chats with internal users.
 - [Live-Hack-CVE/CVE-2022-42446](https://github.com/Live-Hack-CVE/CVE-2022-42446)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42446">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42446">
+
+---
+## CVE-2022-42435 (2023-01-04T00:15:00)
+> IBM Business Automation Workflow 18.0.0, 18.0.1, 18.0.2, 19.0.1, 19.0.2, 19.0.3, 20.0.1, 20.0.2, 20.0.3, 21.0.1, 21.0.2, 21.0.3, and 22.0.1 is vulnerable to cross-site request forgery which could allow an attacker to execute malicious and unauthorized actions transmitted from a user that the website trusts. IBM X-Force ID: 238054.
+- [Live-Hack-CVE/CVE-2022-42435](https://github.com/Live-Hack-CVE/CVE-2022-42435)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42435">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42435">
 
 ---
 ## CVE-2022-4243 (2022-12-26T13:15:00)
