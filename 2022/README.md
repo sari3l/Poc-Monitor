@@ -1311,6 +1311,11 @@
 - [Live-Hack-CVE/CVE-2022-46178](https://github.com/Live-Hack-CVE/CVE-2022-46178)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46178">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46178">
 
 ---
+## CVE-2022-46177 (2023-01-05T20:15:00)
+> Discourse is an option source discussion platform. Prior to version 2.8.14 on the `stable` branch and version 3.0.0.beta16 on the `beta` and `tests-passed` branches, when a user requests for a password reset link email, then changes their primary email, the old reset email is still valid. When the old reset email is used to reset the password, the Discourse account's primary email would be re-linked to the old email. If the old email address is compromised or has transferred ownership, this leads to an account takeover. This is however mitigated by the SiteSetting `email_token_valid_hours` which is currently 48 hours. Users should upgrade to versions 2.8.14 or 3.0.0.beta15 to receive a patch. As a workaround, lower `email_token_valid_hours ` as needed.
+- [Live-Hack-CVE/CVE-2022-46177](https://github.com/Live-Hack-CVE/CVE-2022-46177)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46177">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46177">
+
+---
 ## CVE-2022-46171 (2022-12-23T14:15:00)
 > Tauri is a framework for building binaries for all major desktop platforms. The filesystem glob pattern wildcards `*`, `?`, and `[...]` match file path literals and leading dots by default, which unintentionally exposes sub folder content of allowed paths. Scopes without the wildcards are not affected. As `**` allows for sub directories the behavior there is also as expected. The issue has been patched in the latest release and was backported into the currently supported 1.x branches. There are no known workarounds at the time of publication.
 - [Live-Hack-CVE/CVE-2022-46171](https://github.com/Live-Hack-CVE/CVE-2022-46171)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46171">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46171">
