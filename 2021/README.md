@@ -4745,6 +4745,11 @@
 - [Live-Hack-CVE/CVE-2021-32607](https://github.com/Live-Hack-CVE/CVE-2021-32607)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32607">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32607">
 
 ---
+## CVE-2021-32563 (2021-05-11T05:15:00)
+> An issue was discovered in Thunar before 4.16.7 and 4.17.x before 4.17.2. When called with a regular file as a command-line argument, it delegates to a different program (based on the file type) without user confirmation. This could be used to achieve code execution.
+- [Live-Hack-CVE/CVE-2021-32563](https://github.com/Live-Hack-CVE/CVE-2021-32563)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32563">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32563">
+
+---
 ## CVE-2021-32503 (2022-04-01T23:15:00)
 > Unauthenticated users can access sensitive web URLs through GET request, which should be restricted to maintenance users only. A malicious attacker could use this sensitive information’s to launch further attacks on the system.
 - [Live-Hack-CVE/CVE-2021-32503](https://github.com/Live-Hack-CVE/CVE-2021-32503)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32503">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32503">

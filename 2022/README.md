@@ -180,6 +180,61 @@
 - [Live-Hack-CVE/CVE-2022-47895](https://github.com/Live-Hack-CVE/CVE-2022-47895)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47895">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47895">
 
 ---
+## CVE-2022-47663 (2023-01-05T16:15:00)
+> GPAC MP4box 2.1-DEV-rev649-ga8f438d20 is vulnerable to buffer overflow in h263dmx_process filters/reframe_h263.c:609
+- [Live-Hack-CVE/CVE-2022-47663](https://github.com/Live-Hack-CVE/CVE-2022-47663)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47663">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47663">
+
+---
+## CVE-2022-47662 (2023-01-05T16:15:00)
+> GPAC MP4Box 2.1-DEV-rev649-ga8f438d20 has a segment fault (/stack overflow) due to infinite recursion in Media_GetSample isomedia/media.c:662
+- [Live-Hack-CVE/CVE-2022-47662](https://github.com/Live-Hack-CVE/CVE-2022-47662)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47662">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47662">
+
+---
+## CVE-2022-47661 (2023-01-05T16:15:00)
+> GPAC MP4Box 2.1-DEV-rev649-ga8f438d20 is vulnerable to Buffer Overflow via media_tools/av_parsers.c:4988 in gf_media_nalu_add_emulation_bytes
+- [Live-Hack-CVE/CVE-2022-47661](https://github.com/Live-Hack-CVE/CVE-2022-47661)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47661">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47661">
+
+---
+## CVE-2022-47660 (2023-01-05T16:15:00)
+> GPAC MP4Box 2.1-DEV-rev644-g5c4df2a67 is has an integer overflow in isomedia/isom_write.c
+- [Live-Hack-CVE/CVE-2022-47660](https://github.com/Live-Hack-CVE/CVE-2022-47660)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47660">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47660">
+
+---
+## CVE-2022-47659 (2023-01-05T16:15:00)
+> GPAC MP4box 2.1-DEV-rev644-g5c4df2a67 is vulnerable to Buffer Overflow in gf_bs_read_data
+- [Live-Hack-CVE/CVE-2022-47659](https://github.com/Live-Hack-CVE/CVE-2022-47659)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47659">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47659">
+
+---
+## CVE-2022-47658 (2023-01-05T16:15:00)
+> GPAC MP4Box 2.1-DEV-rev644-g5c4df2a67 is vulnerable to buffer overflow in function gf_hevc_read_vps_bs_internal of media_tools/av_parsers.c:8039
+- [Live-Hack-CVE/CVE-2022-47658](https://github.com/Live-Hack-CVE/CVE-2022-47658)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47658">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47658">
+
+---
+## CVE-2022-47657 (2023-01-05T16:15:00)
+> GPAC MP4Box 2.1-DEV-rev644-g5c4df2a67 is vulnerable to buffer overflow in function hevc_parse_vps_extension of media_tools/av_parsers.c:7662
+- [Live-Hack-CVE/CVE-2022-47657](https://github.com/Live-Hack-CVE/CVE-2022-47657)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47657">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47657">
+
+---
+## CVE-2022-47656 (2023-01-05T16:15:00)
+> GPAC MP4box 2.1-DEV-rev617-g85ce76efd is vulnerable to Buffer Overflow in gf_hevc_read_sps_bs_internal function of media_tools/av_parsers.c:8273
+- [Live-Hack-CVE/CVE-2022-47656](https://github.com/Live-Hack-CVE/CVE-2022-47656)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47656">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47656">
+
+---
+## CVE-2022-47655 (2023-01-05T16:15:00)
+> Libde265 1.0.9 is vulnerable to Buffer Overflow in function void put_qpel_fallback<unsigned short>
+- [Live-Hack-CVE/CVE-2022-47655](https://github.com/Live-Hack-CVE/CVE-2022-47655)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47655">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47655">
+
+---
+## CVE-2022-47654 (2023-01-05T16:15:00)
+> GPAC MP4box 2.1-DEV-rev593-g007bf61a0 is vulnerable to Buffer Overflow in gf_hevc_read_sps_bs_internal function of media_tools/av_parsers.c:8261
+- [Live-Hack-CVE/CVE-2022-47654](https://github.com/Live-Hack-CVE/CVE-2022-47654)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47654">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47654">
+
+---
+## CVE-2022-47653 (2023-01-05T16:15:00)
+> GPAC MP4box 2.1-DEV-rev593-g007bf61a0 is vulnerable to Buffer Overflow in eac3_update_channels function of media_tools/av_parsers.c:9113
+- [Live-Hack-CVE/CVE-2022-47653](https://github.com/Live-Hack-CVE/CVE-2022-47653)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47653">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47653">
+
+---
 ## CVE-2022-47634 (2023-01-01T08:15:00)
 > M-Link Archive Server in Isode M-Link R16.2v1 through R17.0 before R17.0v24 allows non-administrative users to access and manipulate archive data via certain HTTP endpoints, aka LINK-2867.
 - [Live-Hack-CVE/CVE-2022-47634](https://github.com/Live-Hack-CVE/CVE-2022-47634)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47634">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47634">
@@ -364,6 +419,11 @@
 > A vulnerability classified as problematic was found in asrashley dash-live. This vulnerability affects the function ready of the file static/js/media.js of the component DOM Node Handler. The manipulation leads to cross site scripting. The attack can be initiated remotely. The name of the patch is 24d01757a5319cc14c4aa1d8b53d1ab24d48e451. It is recommended to apply a patch to fix this issue. VDB-216766 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-4735](https://github.com/Live-Hack-CVE/CVE-2022-4735)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4735">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4735">
 - [Live-Hack-CVE/CVE-2022-4735](https://github.com/Live-Hack-CVE/CVE-2022-4735)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4735">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4735">
+
+---
+## CVE-2022-4733 (2022-12-27T15:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository openemr/openemr prior to 7.0.0.2.
+- [Live-Hack-CVE/CVE-2022-4733](https://github.com/Live-Hack-CVE/CVE-2022-4733)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4733">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4733">
 
 ---
 ## CVE-2022-47317 (2023-01-03T03:15:00)
@@ -3882,6 +3942,21 @@
 ## CVE-2022-43783 (2023-01-01T01:15:00)
 > To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used.
 - [Live-Hack-CVE/CVE-2022-43783](https://github.com/Live-Hack-CVE/CVE-2022-43783)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43783">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43783">
+
+---
+## CVE-2022-4378 (2023-01-05T16:15:00)
+> A stack overflow flaw was found in the Linux kernel's SYSCTL subsystem in how a user changes certain kernel parameters and variables. This flaw allows a local user to crash or potentially escalate their privileges on the system.
+- [Live-Hack-CVE/CVE-2022-4378](https://github.com/Live-Hack-CVE/CVE-2022-4378)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4378">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4378">
+- [Live-Hack-CVE/CVE-2022-43789](https://github.com/Live-Hack-CVE/CVE-2022-43789)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43789">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43789">
+- [Live-Hack-CVE/CVE-2022-43788](https://github.com/Live-Hack-CVE/CVE-2022-43788)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43788">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43788">
+- [Live-Hack-CVE/CVE-2022-43787](https://github.com/Live-Hack-CVE/CVE-2022-43787)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43787">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43787">
+- [Live-Hack-CVE/CVE-2022-43786](https://github.com/Live-Hack-CVE/CVE-2022-43786)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43786">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43786">
+- [Live-Hack-CVE/CVE-2022-43785](https://github.com/Live-Hack-CVE/CVE-2022-43785)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43785">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43785">
+- [Live-Hack-CVE/CVE-2022-43784](https://github.com/Live-Hack-CVE/CVE-2022-43784)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43784">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43784">
+- [Live-Hack-CVE/CVE-2022-43783](https://github.com/Live-Hack-CVE/CVE-2022-43783)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43783">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43783">
+- [Live-Hack-CVE/CVE-2022-43782](https://github.com/Live-Hack-CVE/CVE-2022-43782)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43782">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43782">
+- [Live-Hack-CVE/CVE-2022-43781](https://github.com/Live-Hack-CVE/CVE-2022-43781)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43781">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43781">
+- [Live-Hack-CVE/CVE-2022-43780](https://github.com/Live-Hack-CVE/CVE-2022-43780)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43780">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43780">
 
 ---
 ## CVE-2022-43776 (2022-10-26T18:15:00)
