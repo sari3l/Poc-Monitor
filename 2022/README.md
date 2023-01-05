@@ -2614,6 +2614,11 @@
 - [Live-Hack-CVE/CVE-2022-44898](https://github.com/Live-Hack-CVE/CVE-2022-44898)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44898">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44898">
 
 ---
+## CVE-2022-44877 ()
+> 
+- [numanturle/CVE-2022-44877](https://github.com/numanturle/CVE-2022-44877)	<img alt="forks" src="https://img.shields.io/github/forks/numanturle/CVE-2022-44877">	<img alt="stars" src="https://img.shields.io/github/stars/numanturle/CVE-2022-44877">
+
+---
 ## CVE-2022-44874 (2022-12-13T23:15:00)
 > wasm3 commit 7890a2097569fde845881e0b352d813573e371f9 was discovered to contain a segmentation fault via the component op_CallIndirect at /m3_exec.h.
 - [Live-Hack-CVE/CVE-2022-44874](https://github.com/Live-Hack-CVE/CVE-2022-44874)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44874">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44874">
