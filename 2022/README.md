@@ -48,6 +48,11 @@
 - [Cedric1314/CVE-2022-48870](https://github.com/Cedric1314/CVE-2022-48870)	<img alt="forks" src="https://img.shields.io/github/forks/Cedric1314/CVE-2022-48870">	<img alt="stars" src="https://img.shields.io/github/stars/Cedric1314/CVE-2022-48870">
 
 ---
+## CVE-2022-4877 (2023-01-05T10:15:00)
+> A vulnerability has been found in snoyberg keter up to 1.8.1 and classified as problematic. This vulnerability affects unknown code of the file Keter/Proxy.hs. The manipulation of the argument host leads to cross site scripting. The attack can be initiated remotely. Upgrading to version 1.8.2 is able to address this issue. The name of the patch is d41f3697926b231782a3ad8050f5af1ce5cc40b7. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-217444.
+- [Live-Hack-CVE/CVE-2022-4877](https://github.com/Live-Hack-CVE/CVE-2022-4877)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4877">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4877">
+
+---
 ## CVE-2022-4876 (2023-01-04T23:15:00)
 > A vulnerability was found in Kaltura mwEmbed up to 2.96.rc1 and classified as problematic. This issue affects some unknown processing of the file includes/DefaultSettings.php. The manipulation of the argument HTTP_X_FORWARDED_HOST leads to cross site scripting. The attack may be initiated remotely. Upgrading to version 2.96.rc2 is able to address this issue. The name of the patch is 13b8812ebc8c9fa034eed91ab35ba8423a528c0b. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-217427.
 - [Live-Hack-CVE/CVE-2022-4876](https://github.com/Live-Hack-CVE/CVE-2022-4876)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4876">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4876">
@@ -61,6 +66,11 @@
 ## CVE-2022-4871 (2023-01-03T12:15:00)
 > A vulnerability classified as problematic was found in ummmmm nflpick-em.com up to 2.2.x. This vulnerability affects the function _Load_Users of the file html/includes/runtime/admin/JSON/LoadUsers.php. The manipulation of the argument sort leads to sql injection. The attack can be initiated remotely. The name of the patch is dd77a35942f527ea0beef5e0ec62b92e8b93211e. It is recommended to apply a patch to fix this issue. VDB-217270 is the identifier assigned to this vulnerability. NOTE: JSON entrypoint is only accessible via an admin account
 - [Live-Hack-CVE/CVE-2022-4871](https://github.com/Live-Hack-CVE/CVE-2022-4871)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4871">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4871">
+
+---
+## CVE-2022-4869 (2023-01-05T09:15:00)
+> A vulnerability was found in Evolution Events Artaxerxes. It has been declared as problematic. This vulnerability affects unknown code of the file arta/common/middleware.py of the component POST Parameter Handler. The manipulation of the argument password leads to information disclosure. The attack can be initiated remotely. The name of the patch is 022111407d34815c16c6eada2de69ca34084dc0d. It is recommended to apply a patch to fix this issue. VDB-217438 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4869](https://github.com/Live-Hack-CVE/CVE-2022-4869)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4869">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4869">
 
 ---
 ## CVE-2022-4868 (2022-12-31T10:15:00)
@@ -214,6 +224,11 @@
 ## CVE-2022-47524 (2022-12-23T14:15:00)
 > F-Secure SAFE Browser 19.1 before 19.2 for Android allows an IDN homograph attack.
 - [Live-Hack-CVE/CVE-2022-47524](https://github.com/Live-Hack-CVE/CVE-2022-47524)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47524">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47524">
+
+---
+## CVE-2022-47523 (2023-01-05T08:15:00)
+> Zoho ManageEngine Access Manager Plus before 4309, Password Manager Pro before 12210, and PAM360 before 5801 are vulnerable to SQL Injection.
+- [Live-Hack-CVE/CVE-2022-47523](https://github.com/Live-Hack-CVE/CVE-2022-47523)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47523">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47523">
 
 ---
 ## CVE-2022-47521 (2022-12-18T06:15:00)
@@ -3637,6 +3652,11 @@
 ## CVE-2022-43945 (2022-11-04T19:15:00)
 > The Linux kernel NFSD implementation prior to versions 5.19.17 and 6.0.2 are vulnerable to buffer overflow. NFSD tracks the number of pages held by each NFSD thread by combining the receive and send buffers of a remote procedure call (RPC) into a single array of pages. A client can force the send buffer to shrink by sending an RPC message over TCP with garbage data added at the end of the message. The RPC message with garbage data is still correctly formed according to the specification and is passed forward to handlers. Vulnerable code in NFSD is not expecting the oversized request and writes beyond the allocated buffer space. CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H
 - [Live-Hack-CVE/CVE-2022-43945](https://github.com/Live-Hack-CVE/CVE-2022-43945)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43945">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43945">
+
+---
+## CVE-2022-43932 (2023-01-05T10:15:00)
+> Improper neutralization of special elements in output used by a downstream component ('Injection') vulnerability in CGI component in Synology Router Manager (SRM) before 1.2.5-8227-6 and 1.3.1-9346-3 allows remote attackers to read arbitrary files via unspecified vectors.
+- [Live-Hack-CVE/CVE-2022-43932](https://github.com/Live-Hack-CVE/CVE-2022-43932)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43932">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43932">
 
 ---
 ## CVE-2022-43931 (2023-01-03T04:15:00)
