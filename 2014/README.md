@@ -169,6 +169,11 @@
 - [Live-Hack-CVE/CVE-2014-1705](https://github.com/Live-Hack-CVE/CVE-2014-1705)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-1705">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-1705">
 
 ---
+## CVE-2014-125045 (2023-01-05T22:15:00)
+> A vulnerability has been found in meol1 and classified as critical. Affected by this vulnerability is the function GetAnimal of the file opdracht4/index.php. The manipulation of the argument where leads to sql injection. The name of the patch is 82441e413f87920d1e8f866e8ef9d7f353a7c583. It is recommended to apply a patch to fix this issue. The identifier VDB-217525 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2014-125045](https://github.com/Live-Hack-CVE/CVE-2014-125045)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125045">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125045">
+
+---
 ## CVE-2014-125044 (2023-01-05T20:15:00)
 > A vulnerability, which was classified as critical, was found in soshtolsus wing-tight. This affects an unknown part of the file index.php. The manipulation of the argument p leads to file inclusion. It is possible to initiate the attack remotely. Upgrading to version 1.0.0 is able to address this issue. The name of the patch is 567bc33e6ed82b0d0179c9add707ac2b257aeaf2. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-217515.
 - [Live-Hack-CVE/CVE-2014-125044](https://github.com/Live-Hack-CVE/CVE-2014-125044)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125044">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125044">

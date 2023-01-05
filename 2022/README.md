@@ -119,6 +119,16 @@
 - [Live-Hack-CVE/CVE-2022-48195](https://github.com/Live-Hack-CVE/CVE-2022-48195)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-48195">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-48195">
 
 ---
+## CVE-2022-4803 (2022-12-28T14:15:00)
+> Improper Access Control in GitHub repository usememos/memos prior to 0.9.1.
+- [Live-Hack-CVE/CVE-2022-4803](https://github.com/Live-Hack-CVE/CVE-2022-4803)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4803">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4803">
+
+---
+## CVE-2022-4802 (2022-12-28T14:15:00)
+> Improper Authorization in GitHub repository usememos/memos prior to 0.9.1.
+- [Live-Hack-CVE/CVE-2022-4802](https://github.com/Live-Hack-CVE/CVE-2022-4802)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4802">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4802">
+
+---
 ## CVE-2022-47952 (2023-01-01T06:15:00)
 > lxc-user-nic in lxc through 5.0.1 is installed setuid root, and may allow local users to infer whether any file exists, even within a protected directory tree, because "Failed to open" often indicates that a file does not exist, whereas "does not refer to a network namespace path" often indicates that a file exists. NOTE: this is different from CVE-2018-6556 because the CVE-2018-6556 fix design was based on the premise that "we will report back to the user that the open() failed but the user has no way of knowing why it failed"; however, in many realistic cases, there are no plausible reasons for failing except that the file does not exist.
 - [MaherAzzouzi/CVE-2022-47952](https://github.com/MaherAzzouzi/CVE-2022-47952)	<img alt="forks" src="https://img.shields.io/github/forks/MaherAzzouzi/CVE-2022-47952">	<img alt="stars" src="https://img.shields.io/github/stars/MaherAzzouzi/CVE-2022-47952">
@@ -6191,6 +6201,21 @@
 - [Live-Hack-CVE/CVE-2022-4226](https://github.com/Live-Hack-CVE/CVE-2022-4226)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4226">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4226">
 
 ---
+## CVE-2022-42259 (2022-12-30T23:15:00)
+> NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer (nvidia.ko), where an integer overflow may lead to denial of service.
+- [Live-Hack-CVE/CVE-2022-42259](https://github.com/Live-Hack-CVE/CVE-2022-42259)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42259">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42259">
+
+---
+## CVE-2022-42258 (2022-12-30T23:15:00)
+> NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer (nvidia.ko), where an integer overflow may lead to denial of service, data tampering, or information disclosure.
+- [Live-Hack-CVE/CVE-2022-42258](https://github.com/Live-Hack-CVE/CVE-2022-42258)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42258">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42258">
+
+---
+## CVE-2022-42257 (2022-12-30T23:15:00)
+> NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer (nvidia.ko), where an integer overflow may lead to information disclosure, data tampering or denial of service.
+- [Live-Hack-CVE/CVE-2022-42257](https://github.com/Live-Hack-CVE/CVE-2022-42257)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42257">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42257">
+
+---
 ## CVE-2022-42252 (2022-11-01T09:15:00)
 > If Apache Tomcat 8.5.0 to 8.5.82, 9.0.0-M1 to 9.0.67, 10.0.0-M1 to 10.0.26 or 10.1.0-M1 to 10.1.0 was configured to ignore invalid HTTP headers via setting rejectIllegalHeader to false (the default for 8.5.x only), Tomcat did not reject a request containing an invalid Content-Length header making a request smuggling attack possible if Tomcat was located behind a reverse proxy that also failed to reject the request with the invalid header.
 - [Live-Hack-CVE/CVE-2022-42252](https://github.com/Live-Hack-CVE/CVE-2022-42252)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42252">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42252">
@@ -11085,6 +11110,11 @@
 - [Live-Hack-CVE/CVE-2022-39290](https://github.com/Live-Hack-CVE/CVE-2022-39290)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39290">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39290">
 
 ---
+## CVE-2022-3929 (2023-01-05T22:15:00)
+> Communication between the client and the server application of the affected products is partially done using CORBA (Common Object Request Broker Architecture) over TCP/IP. This protocol is not encrypted and allows tracing of internal messages. This issue affects * FOXMAN-UN product: FOXMAN-UN R15B, FOXMAN-UN R15A, FOXMAN-UN R14B, FOXMAN-UN R14A, FOXMAN-UN R11B, FOXMAN-UN R11A, FOXMAN-UN R10C, FOXMAN-UN R9C; * UNEM product: UNEM R15B, UNEM R15A, UNEM R14B, UNEM R14A, UNEM R11B, UNEM R11A, UNEM R10C, UNEM R9C. List of CPEs: * cpe:2.3:a:hitachienergy:foxman-un:R15B:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:foxman-un:R15A:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:foxman-un:R14B:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:foxman-un:R14A:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:foxman-un:R11B:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:foxman-un:R11A:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:foxman-un:R10C:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:foxman-un:R9C:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R15B:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R15A:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R14B:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R14A:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R11B:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R11A:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R10C:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R9C:*:*:*:*:*:*:*
+- [Live-Hack-CVE/CVE-2022-3929](https://github.com/Live-Hack-CVE/CVE-2022-3929)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3929">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3929">
+
+---
 ## CVE-2022-39284 (2022-10-06T20:15:00)
 > CodeIgniter is a PHP full-stack web framework. In versions prior to 4.2.7 setting `$secure` or `$httponly` value to `true` in `Config\Cookie` is not reflected in `set_cookie()` or `Response::setCookie()`. As a result cookie values are erroneously exposed to scripts. It should be noted that this vulnerability does not affect session cookies. Users are advised to upgrade to v4.2.7 or later. Users unable to upgrade are advised to manually construct their cookies either by setting the options in code or by constructing Cookie objects. Examples of each workaround are available in the linked GHSA.
 - [Live-Hack-CVE/CVE-2022-39284](https://github.com/Live-Hack-CVE/CVE-2022-39284)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39284">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39284">
@@ -11105,6 +11135,11 @@
 - [Live-Hack-CVE/CVE-2022-39280](https://github.com/Live-Hack-CVE/CVE-2022-39280)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39280">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39280">
 
 ---
+## CVE-2022-3928 (2023-01-05T22:15:00)
+> Hardcoded credential is found in affected products' message queue. An attacker that manages to exploit this vulnerability will be able to access data to the internal message queue. This issue affects * FOXMAN-UN product: FOXMAN-UN R15B, FOXMAN-UN R15A, FOXMAN-UN R14B, FOXMAN-UN R14A, FOXMAN-UN R11B, FOXMAN-UN R11A, FOXMAN-UN R10C, FOXMAN-UN R9C; * UNEM product: UNEM R15B, UNEM R15A, UNEM R14B, UNEM R14A, UNEM R11B, UNEM R11A, UNEM R10C, UNEM R9C. List of CPEs: * cpe:2.3:a:hitachienergy:foxman-un:R15B:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:foxman-un:R15A:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:foxman-un:R14B:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:foxman-un:R14A:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:foxman-un:R11B:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:foxman-un:R11A:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:foxman-un:R10C:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:foxman-un:R9C:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R15B:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R15A:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R14B:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R14A:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R11B:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R11A:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R10C:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R9C:*:*:*:*:*:*:*
+- [Live-Hack-CVE/CVE-2022-3928](https://github.com/Live-Hack-CVE/CVE-2022-3928)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3928">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3928">
+
+---
 ## CVE-2022-39275 (2022-10-06T18:16:00)
 > Saleor is a headless, GraphQL commerce platform. In affected versions some GraphQL mutations were not properly checking the ID type input which allowed to access database objects that the authenticated user may not be allowed to access. This vulnerability can be used to expose the following information: Estimating database row counts from tables with a sequential primary key or Exposing staff user and customer email addresses and full name through the `assignNavigation()` mutation. This issue has been patched in main and backported to multiple releases (3.7.17, 3.6.18, 3.5.23, 3.4.24, 3.3.26, 3.2.14, 3.1.24). Users are advised to upgrade. There are no known workarounds for this issue.
 - [Live-Hack-CVE/CVE-2022-39275](https://github.com/Live-Hack-CVE/CVE-2022-39275)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39275">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39275">
@@ -11123,6 +11158,11 @@
 ## CVE-2022-39270 (2022-10-06T18:16:00)
 > DiscoTOC is a Discourse theme component that generates a table of contents for topics. Users that can create topics in TOC-enabled categories (and have sufficient trust level - configured in component's settings) are able to inject arbitrary HTML on that topic's page. The issue has been fixed on the `main` branch. Admins can update the theme component through the admin UI (Customize -> Themes -> Components -> DiscoTOC -> Check for Updates). Alternatively, admins can temporarily disable the DiscoTOC theme component.
 - [Live-Hack-CVE/CVE-2022-39270](https://github.com/Live-Hack-CVE/CVE-2022-39270)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39270">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39270">
+
+---
+## CVE-2022-3927 (2023-01-05T22:15:00)
+> The affected products store both public and private key that are used to sign and protect Custom Parameter Set (CPS) file from modification. An attacker that manages to exploit this vulnerability will be able to change the CPS file, sign it so that it is trusted as the legitimate CPS file. This issue affects * FOXMAN-UN product: FOXMAN-UN R15B, FOXMAN-UN R15A, FOXMAN-UN R14B, FOXMAN-UN R14A, FOXMAN-UN R11B, FOXMAN-UN R11A, FOXMAN-UN R10C, FOXMAN-UN R9C; * UNEM product: UNEM R15B, UNEM R15A, UNEM R14B, UNEM R14A, UNEM R11B, UNEM R11A, UNEM R10C, UNEM R9C. List of CPEs: * cpe:2.3:a:hitachienergy:foxman-un:R15B:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:foxman-un:R15A:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:foxman-un:R14B:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:foxman-un:R14A:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:foxman-un:R11B:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:foxman-un:R11A:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:foxman-un:R10C:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:foxman-un:R9C:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R15B:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R15A:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R14B:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R14A:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R11B:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R11A:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R10C:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R9C:*:*:*:*:*:*:*
+- [Live-Hack-CVE/CVE-2022-3927](https://github.com/Live-Hack-CVE/CVE-2022-3927)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3927">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3927">
 
 ---
 ## CVE-2022-39269 (2022-10-06T18:16:00)
@@ -13168,6 +13208,31 @@
 ## CVE-2022-38216 (2022-08-16T01:15:00)
 > An integer overflow exists in Mapbox's closed source gl-native library prior to version 10.6.1, which is bundled with multiple Mapbox products including open source libraries. The overflow is caused by large image height and width values when creating a new Image and allows for out of bounds writes, potentially crashing the Mapbox process.
 - [Live-Hack-CVE/CVE-2022-38216](https://github.com/Live-Hack-CVE/CVE-2022-38216)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38216">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38216">
+
+---
+## CVE-2022-38209 (2022-12-29T20:15:00)
+> There is a reflected XSS vulnerability in Esri Portal for ArcGIS versions 10.9.1 and below which may allow a remote, unauthenticated attacker to create a crafted link which when clicked could execute arbitrary JavaScript code in the victim’s browser.
+- [Live-Hack-CVE/CVE-2022-38209](https://github.com/Live-Hack-CVE/CVE-2022-38209)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38209">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38209">
+
+---
+## CVE-2022-38207 (2022-12-29T20:15:00)
+> There is a reflected XSS vulnerability in Esri Portal for ArcGIS versions 10.8.1 and 10.7.1 which may allow a remote remote, unauthenticated attacker to create a crafted link which when clicked which could execute arbitrary JavaScript code in the victim’s browser.
+- [Live-Hack-CVE/CVE-2022-38207](https://github.com/Live-Hack-CVE/CVE-2022-38207)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38207">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38207">
+
+---
+## CVE-2022-38206 (2022-12-29T20:15:00)
+> There is a reflected XSS vulnerability in Esri Portal for ArcGIS versions 10.9.1 and below which may allow a remote remote, unauthenticated attacker to create a crafted link which when clicked could execute arbitrary JavaScript code in the victim’s browser.
+- [Live-Hack-CVE/CVE-2022-38206](https://github.com/Live-Hack-CVE/CVE-2022-38206)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38206">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38206">
+
+---
+## CVE-2022-38205 (2022-12-29T20:15:00)
+> In some non-default installations of Esri Portal for ArcGIS versions 10.9.1 and below, a directory traversal issue may allow a remote, unauthenticated attacker to traverse the file system and lead to the disclosure of sensitive data (not customer-published content).
+- [Live-Hack-CVE/CVE-2022-38205](https://github.com/Live-Hack-CVE/CVE-2022-38205)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38205">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38205">
+
+---
+## CVE-2022-38204 (2022-12-29T20:15:00)
+> There is a reflected XSS vulnerability in Esri Portal for ArcGIS versions 10.8.1 and 10.7.1 which may allow a remote, unauthenticated attacker to create a crafted link which when clicked could potentially execute arbitrary JavaScript code in the victim’s browser.
+- [Live-Hack-CVE/CVE-2022-38204](https://github.com/Live-Hack-CVE/CVE-2022-38204)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38204">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38204">
 
 ---
 ## CVE-2022-38200 (2022-10-25T17:15:00)
@@ -19140,6 +19205,11 @@
 ## CVE-2022-34689 (2022-10-11T19:15:00)
 > Windows CryptoAPI Spoofing Vulnerability.
 - [Live-Hack-CVE/CVE-2022-34689](https://github.com/Live-Hack-CVE/CVE-2022-34689)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34689">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34689">
+
+---
+## CVE-2022-34680 (2022-12-30T23:15:00)
+> NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer handler, where an integer truncation can lead to an out-of-bounds read, which may lead to denial of service.
+- [Live-Hack-CVE/CVE-2022-34680](https://github.com/Live-Hack-CVE/CVE-2022-34680)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34680">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34680">
 
 ---
 ## CVE-2022-34678 (2022-12-30T23:15:00)

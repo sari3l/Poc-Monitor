@@ -1948,6 +1948,31 @@
 - [cckuailong/log4shell_1.x](https://github.com/cckuailong/log4shell_1.x)	<img alt="forks" src="https://img.shields.io/github/forks/cckuailong/log4shell_1.x">	<img alt="stars" src="https://img.shields.io/github/stars/cckuailong/log4shell_1.x">
 
 ---
+## CVE-2021-41010 (2023-01-05T22:15:00)
+> CVE was unused by HPE.
+- [Live-Hack-CVE/CVE-2021-41010](https://github.com/Live-Hack-CVE/CVE-2021-41010)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41010">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41010">
+
+---
+## CVE-2021-41009 (2023-01-05T22:15:00)
+> CVE was unused by HPE.
+- [Live-Hack-CVE/CVE-2021-41009](https://github.com/Live-Hack-CVE/CVE-2021-41009)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41009">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41009">
+
+---
+## CVE-2021-41008 (2023-01-05T22:15:00)
+> CVE was unused by HPE.
+- [Live-Hack-CVE/CVE-2021-41008](https://github.com/Live-Hack-CVE/CVE-2021-41008)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41008">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41008">
+
+---
+## CVE-2021-41007 (2023-01-05T22:15:00)
+> CVE was unused by HPE.
+- [Live-Hack-CVE/CVE-2021-41007](https://github.com/Live-Hack-CVE/CVE-2021-41007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41007">
+
+---
+## CVE-2021-41006 (2023-01-05T22:15:00)
+> CVE was unused by HPE.
+- [Live-Hack-CVE/CVE-2021-41006](https://github.com/Live-Hack-CVE/CVE-2021-41006)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41006">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41006">
+
+---
 ## CVE-2021-40978 (2021-10-07T14:15:00)
 > ** DISPUTED ** The mkdocs 1.2.2 built-in dev-server allows directory traversal using the port 8000, enabling remote exploitation to obtain :sensitive information. NOTE: the vendor has disputed this as described in https://github.com/mkdocs/mkdocs/issues/2601.] and https://github.com/nisdn/CVE-2021-40978/issues/1.
 - [nisdn/CVE-2021-40978](https://github.com/nisdn/CVE-2021-40978)	<img alt="forks" src="https://img.shields.io/github/forks/nisdn/CVE-2021-40978">	<img alt="stars" src="https://img.shields.io/github/stars/nisdn/CVE-2021-40978">
@@ -2227,6 +2252,16 @@
 > An issue was discovered in Nagios XI 5.8.5. In the Manage Dashlets section of the Admin panel, an administrator can upload ZIP files. A command injection (within the name of the first file in the archive) allows an attacker to execute system commands.
 - [Live-Hack-CVE/CVE-2021-40345](https://github.com/Live-Hack-CVE/CVE-2021-40345)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40345">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40345">
 - [Live-Hack-CVE/CVE-2021-40345](https://github.com/Live-Hack-CVE/CVE-2021-40345)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40345">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40345">
+
+---
+## CVE-2021-40342 (2023-01-05T22:15:00)
+> In the DES implementation, the affected product versions use a default key for encryption. Successful exploitation allows an attacker to obtain sensitive information and gain access to the network elements that are managed by the affected products versions. This issue affects * FOXMAN-UN product: FOXMAN-UN R16A, FOXMAN-UN R15B, FOXMAN-UN R15A, FOXMAN-UN R14B, FOXMAN-UN R14A, FOXMAN-UN R11B, FOXMAN-UN R11A, FOXMAN-UN R10C, FOXMAN-UN R9C; * UNEM product: UNEM R16A, UNEM R15B, UNEM R15A, UNEM R14B, UNEM R14A, UNEM R11B, UNEM R11A, UNEM R10C, UNEM R9C. List of CPEs: * cpe:2.3:a:hitachienergy:foxman-un:R16A:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:foxman-un:R15B:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:foxman-un:R15A:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:foxman-un:R14B:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:foxman-un:R14A:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:foxman-un:R11B:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:foxman-un:R11A:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:foxman-un:R10C:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:foxman-un:R9C:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R16A:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R15B:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R15A:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R14B:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R14A:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R11B:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R11A:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R10C:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R9C:*:*:*:*:*:*:*
+- [Live-Hack-CVE/CVE-2021-40342](https://github.com/Live-Hack-CVE/CVE-2021-40342)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40342">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40342">
+
+---
+## CVE-2021-40341 (2023-01-05T22:15:00)
+> DES cipher, which has inadequate encryption strength, is used Hitachi Energy FOXMAN-UN to encrypt user credentials used to access the Network Elements. Successful exploitation allows sensitive information to be decrypted easily. This issue affects * FOXMAN-UN product: FOXMAN-UN R16A, FOXMAN-UN R15B, FOXMAN-UN R15A, FOXMAN-UN R14B, FOXMAN-UN R14A, FOXMAN-UN R11B, FOXMAN-UN R11A, FOXMAN-UN R10C, FOXMAN-UN R9C; * UNEM product: UNEM R16A, UNEM R15B, UNEM R15A, UNEM R14B, UNEM R14A, UNEM R11B, UNEM R11A, UNEM R10C, UNEM R9C. List of CPEs: * cpe:2.3:a:hitachienergy:foxman-un:R16A:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:foxman-un:R15B:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:foxman-un:R15A:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:foxman-un:R14B:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:foxman-un:R14A:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:foxman-un:R11B:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:foxman-un:R11A:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:foxman-un:R10C:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:foxman-un:R9C:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R16A:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R15B:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R15A:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R14B:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R14A:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R11B:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R11A:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R10C:*:*:*:*:*:*:* * cpe:2.3:a:hitachienergy:unem:R9C:*:*:*:*:*:*:*
+- [Live-Hack-CVE/CVE-2021-40341](https://github.com/Live-Hack-CVE/CVE-2021-40341)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40341">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40341">
 
 ---
 ## CVE-2021-4034 (2022-01-28T20:15:00)
