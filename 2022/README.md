@@ -436,6 +436,11 @@
 - [Live-Hack-CVE/CVE-2022-4731](https://github.com/Live-Hack-CVE/CVE-2022-4731)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4731">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4731">
 
 ---
+## CVE-2022-4730 (2022-12-27T15:15:00)
+> A vulnerability was found in Graphite Web. It has been classified as problematic. Affected is an unknown function of the component Absolute Time Range Handler. The manipulation leads to cross site scripting. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The name of the patch is 2f178f490e10efc03cd1d27c72f64ecab224eb23. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-216744.
+- [Live-Hack-CVE/CVE-2022-4730](https://github.com/Live-Hack-CVE/CVE-2022-4730)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4730">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4730">
+
+---
 ## CVE-2022-4723 (2022-12-27T15:15:00)
 > Allocation of Resources Without Limits or Throttling in GitHub repository ikus060/rdiffweb prior to 2.5.5.
 - [Live-Hack-CVE/CVE-2022-4723](https://github.com/Live-Hack-CVE/CVE-2022-4723)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4723">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4723">
@@ -1321,6 +1326,11 @@
 - [Inplex-sys/CVE-2022-46169](https://github.com/Inplex-sys/CVE-2022-46169)	<img alt="forks" src="https://img.shields.io/github/forks/Inplex-sys/CVE-2022-46169">	<img alt="stars" src="https://img.shields.io/github/stars/Inplex-sys/CVE-2022-46169">
 - [Live-Hack-CVE/CVE-2022-46169](https://github.com/Live-Hack-CVE/CVE-2022-46169)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46169">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46169">
 - [sAsPeCt488/CVE-2022-46169-PoC](https://github.com/sAsPeCt488/CVE-2022-46169-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sAsPeCt488/CVE-2022-46169-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sAsPeCt488/CVE-2022-46169-PoC">
+
+---
+## CVE-2022-46168 (2023-01-05T18:15:00)
+> Discourse is an option source discussion platform. Prior to version 2.8.14 on the `stable` branch and version 2.9.0.beta15 on the `beta` and `tests-passed` branches, recipients of a group SMTP email could see the email addresses of all other users inside the group SMTP topic. Most of the time this is not an issue as they are likely already familiar with one another's email addresses. This issue is patched in versions 2.8.14 and 2.9.0.beta15. The fix is that someone sending emails out via group SMTP to non-staged users masks those emails with blind carbon copy (BCC). Staged users are ones that have likely only interacted with the group via email, and will likely include other people who were CC'd on the original email to the group. As a workaround, disable group SMTP for any groups that have it enabled.
+- [Live-Hack-CVE/CVE-2022-46168](https://github.com/Live-Hack-CVE/CVE-2022-46168)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46168">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46168">
 
 ---
 ## CVE-2022-46167 (2022-12-02T19:15:00)
@@ -3274,9 +3284,29 @@
 - [Live-Hack-CVE/CVE-2022-44351](https://github.com/Live-Hack-CVE/CVE-2022-44351)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44351">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44351">
 
 ---
+## CVE-2022-4435 (2023-01-05T18:15:00)
+> A buffer over-read vulnerability was reported in the ThinkPadX13s BIOS LenovoRemoteConfigUpdateDxe driver that could allow a local attacker with elevated privileges to cause information disclosure.
+- [Live-Hack-CVE/CVE-2022-4435](https://github.com/Live-Hack-CVE/CVE-2022-4435)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4435">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4435">
+
+---
+## CVE-2022-4434 (2023-01-05T18:15:00)
+> A buffer over-read vulnerability was reported in the ThinkPadX13s BIOS driver that could allow a local attacker with elevated privileges to cause information disclosure.
+- [Live-Hack-CVE/CVE-2022-4434](https://github.com/Live-Hack-CVE/CVE-2022-4434)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4434">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4434">
+
+---
+## CVE-2022-4433 (2023-01-05T18:15:00)
+> A buffer over-read vulnerability was reported in the ThinkPadX13s BIOS LenovoSetupConfigDxe driver that could allow a local attacker with elevated privileges to cause information disclosure.
+- [Live-Hack-CVE/CVE-2022-4433](https://github.com/Live-Hack-CVE/CVE-2022-4433)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4433">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4433">
+
+---
 ## CVE-2022-44321 (2022-11-08T15:15:00)
 > PicoC Version 3.2.2 was discovered to contain a heap buffer overflow in the LexSkipComment function in lex.c when called from LexScanGetToken.
 - [Live-Hack-CVE/CVE-2022-44321](https://github.com/Live-Hack-CVE/CVE-2022-44321)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44321">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44321">
+
+---
+## CVE-2022-4432 (2023-01-05T18:15:00)
+> A buffer over-read vulnerability was reported in the ThinkPadX13s BIOS PersistenceConfigDxe driver that could allow a local attacker with elevated privileges to cause information disclosure.
+- [Live-Hack-CVE/CVE-2022-4432](https://github.com/Live-Hack-CVE/CVE-2022-4432)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4432">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4432">
 
 ---
 ## CVE-2022-44319 (2022-11-08T15:15:00)
@@ -3829,6 +3859,11 @@
 - [Live-Hack-CVE/CVE-2022-43867](https://github.com/Live-Hack-CVE/CVE-2022-43867)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43867">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43867">
 
 ---
+## CVE-2022-43844 (2023-01-05T18:15:00)
+> IBM Robotic Process Automation for Cloud Pak 20.12 through 21.0.3 is vulnerable to broken access control. A user is not correctly redirected to the platform log out screen when logging out of IBM RPA for Cloud Pak. IBM X-Force ID: 239081.
+- [Live-Hack-CVE/CVE-2022-43844](https://github.com/Live-Hack-CVE/CVE-2022-43844)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43844">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43844">
+
+---
 ## CVE-2022-43805 (2023-01-01T01:15:00)
 > To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used.
 - [Live-Hack-CVE/CVE-2022-43805](https://github.com/Live-Hack-CVE/CVE-2022-43805)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43805">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43805">
@@ -4140,6 +4175,11 @@
 ## CVE-2022-43581 (2022-12-07T18:15:00)
 > IBM Content Navigator 3.0.0, 3.0.1, 3.0.2, 3.0.3, 3.0.4, 3.0.5, 3.0.6, 3.0.7, 3.0.8, 3.0.9, 3.0.10, 3.0.11, and 3.0.12 is vulnerable to missing authorization and could allow an authenticated user to load external plugins and execute code. IBM X-Force ID: 238805.
 - [Live-Hack-CVE/CVE-2022-43581](https://github.com/Live-Hack-CVE/CVE-2022-43581)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43581">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43581">
+
+---
+## CVE-2022-43573 (2023-01-05T18:15:00)
+> IBM Robotic Process Automation 20.12 through 21.0.6 is vulnerable to exposure of the name and email for the creator/modifier of platform level objects. IBM X-Force ID: 238678.
+- [Live-Hack-CVE/CVE-2022-43573](https://github.com/Live-Hack-CVE/CVE-2022-43573)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43573">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43573">
 
 ---
 ## CVE-2022-43572 (2022-11-04T23:15:00)
@@ -7058,6 +7098,11 @@
 > NGINX Open Source before versions 1.23.2 and 1.22.1, NGINX Open Source Subscription before versions R2 P1 and R1 P1, and NGINX Plus before versions R27 P1 and R26 P1 have a vulnerability in the module ngx_http_mp4_module that might allow a local attacker to corrupt NGINX worker memory, resulting in its termination or potential other impact using a specially crafted audio or video file. The issue affects only NGINX products that are built with the ngx_http_mp4_module, when the mp4 directive is used in the configuration file. Further, the attack is possible only if an attacker can trigger processing of a specially crafted audio or video file with the module ngx_http_mp4_module.
 - [Live-Hack-CVE/CVE-2022-41741](https://github.com/Live-Hack-CVE/CVE-2022-41741)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41741">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41741">
 - [Live-Hack-CVE/CVE-2022-41741](https://github.com/Live-Hack-CVE/CVE-2022-41741)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41741">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41741">
+
+---
+## CVE-2022-41740 (2023-01-05T18:15:00)
+> IBM Robotic Process Automation 20.12 through 21.0.6 could allow an attacker with physical access to the system to obtain highly sensitive information from system memory. IBM X-Force ID: 238053.
+- [Live-Hack-CVE/CVE-2022-41740](https://github.com/Live-Hack-CVE/CVE-2022-41740)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41740">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41740">
 
 ---
 ## CVE-2022-4174 (2022-11-30T00:15:00)
