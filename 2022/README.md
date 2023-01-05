@@ -441,6 +441,11 @@
 - [Live-Hack-CVE/CVE-2022-4730](https://github.com/Live-Hack-CVE/CVE-2022-4730)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4730">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4730">
 
 ---
+## CVE-2022-4724 (2022-12-27T15:15:00)
+> Improper Access Control in GitHub repository ikus060/rdiffweb prior to 2.5.5.
+- [Live-Hack-CVE/CVE-2022-4724](https://github.com/Live-Hack-CVE/CVE-2022-4724)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4724">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4724">
+
+---
 ## CVE-2022-4723 (2022-12-27T15:15:00)
 > Allocation of Resources Without Limits or Throttling in GitHub repository ikus060/rdiffweb prior to 2.5.5.
 - [Live-Hack-CVE/CVE-2022-4723](https://github.com/Live-Hack-CVE/CVE-2022-4723)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4723">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4723">
@@ -26915,6 +26920,21 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-23556 (2022-12-22T19:15:00)
 > CodeIgniter is a PHP full-stack web framework. This vulnerability may allow attackers to spoof their IP address when the server is behind a reverse proxy. This issue has been patched, please upgrade to version 4.2.11 or later, and configure `Config\App::$proxyIPs`. As a workaround, do not use `$request->getIPAddress()`.
 - [Live-Hack-CVE/CVE-2022-23556](https://github.com/Live-Hack-CVE/CVE-2022-23556)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23556">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23556">
+
+---
+## CVE-2022-23549 (2023-01-05T19:15:00)
+> Discourse is an option source discussion platform. Prior to version 2.8.14 on the `stable` branch and version 2.9.0.beta15 on the `beta` and `tests-passed` branches, users can create posts with raw body longer than the `max_length` site setting by including html comments that are not counted toward the character limit. This issue is patched in versions 2.8.14 and 2.9.0.beta16. There are no known workarounds.
+- [Live-Hack-CVE/CVE-2022-23549](https://github.com/Live-Hack-CVE/CVE-2022-23549)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23549">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23549">
+
+---
+## CVE-2022-23548 (2023-01-05T19:15:00)
+> Discourse is an option source discussion platform. Prior to version 2.8.14 on the `stable` branch and version 2.9.0.beta16 on the `beta` and `tests-passed` branches, parsing posts can be susceptible to XSS attacks. This issue is patched in versions 2.8.14 and 2.9.0.beta16. There are no known workarounds.
+- [Live-Hack-CVE/CVE-2022-23548](https://github.com/Live-Hack-CVE/CVE-2022-23548)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23548">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23548">
+
+---
+## CVE-2022-23546 (2023-01-05T19:15:00)
+> In version 2.9.0.beta14 of Discourse, an open-source discussion platform, maliciously embedded urls can leak an admin's digest of recent topics, possibly exposing private information. A patch is available for version 2.9.0.beta15. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2022-23546](https://github.com/Live-Hack-CVE/CVE-2022-23546)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23546">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23546">
 
 ---
 ## CVE-2022-23544 (2022-12-28T00:15:00)
