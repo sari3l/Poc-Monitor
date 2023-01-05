@@ -3307,6 +3307,8 @@
 ## CVE-2022-4432 (2023-01-05T18:15:00)
 > A buffer over-read vulnerability was reported in the ThinkPadX13s BIOS PersistenceConfigDxe driver that could allow a local attacker with elevated privileges to cause information disclosure.
 - [Live-Hack-CVE/CVE-2022-4432](https://github.com/Live-Hack-CVE/CVE-2022-4432)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4432">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4432">
+- [Live-Hack-CVE/CVE-2022-44321](https://github.com/Live-Hack-CVE/CVE-2022-44321)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44321">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44321">
+- [Live-Hack-CVE/CVE-2022-44320](https://github.com/Live-Hack-CVE/CVE-2022-44320)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44320">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44320">
 
 ---
 ## CVE-2022-44319 (2022-11-08T15:15:00)
