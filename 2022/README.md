@@ -25488,6 +25488,8 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-2583 (2022-12-27T22:15:00)
 > A race condition can cause incorrect HTTP request routing.
 - [Live-Hack-CVE/CVE-2022-2583](https://github.com/Live-Hack-CVE/CVE-2022-2583)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2583">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2583">
+- [Live-Hack-CVE/CVE-2022-25836](https://github.com/Live-Hack-CVE/CVE-2022-25836)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25836">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25836">
+- [Live-Hack-CVE/CVE-2022-25837](https://github.com/Live-Hack-CVE/CVE-2022-25837)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25837">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25837">
 
 ---
 ## CVE-2022-2582 (2022-12-27T22:15:00)
