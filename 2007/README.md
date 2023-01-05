@@ -58,3 +58,8 @@
 ## CVE-2007-20001 (2022-02-06T21:15:00)
 > A flaw was found in StarWind iSCSI target. An attacker could script standard iSCSI Initiator operation(s) to exhaust the StarWind service socket, which could lead to denial of service. This affects iSCSI SAN (Windows Native) Version 3.2.2 build 2007-02-20.
 - [Live-Hack-CVE/CVE-2007-20001](https://github.com/Live-Hack-CVE/CVE-2007-20001)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2007-20001">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2007-20001">
+
+---
+## CVE-2007-10001 (2023-01-05T12:15:00)
+> A vulnerability classified as problematic has been found in web-cyradm. This affects an unknown part of the file search.php. The manipulation of the argument searchstring leads to sql injection. It is recommended to apply a patch to fix this issue. The identifier VDB-217449 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2007-10001](https://github.com/Live-Hack-CVE/CVE-2007-10001)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2007-10001">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2007-10001">

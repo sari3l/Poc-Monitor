@@ -844,6 +844,11 @@
 - [jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041](https://github.com/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041)	<img alt="forks" src="https://img.shields.io/github/forks/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041">	<img alt="stars" src="https://img.shields.io/github/stars/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041">
 
 ---
+## CVE-2020-36641 (2023-01-05T12:15:00)
+> A vulnerability classified as problematic was found in gturri aXMLRPC up to 1.12.0. This vulnerability affects the function ResponseParser of the file src/main/java/de/timroes/axmlrpc/ResponseParser.java. The manipulation leads to xml external entity reference. Upgrading to version 1.12.1 is able to address this issue. The name of the patch is ad6615b3ec41353e614f6ea5fdd5b046442a832b. It is recommended to upgrade the affected component. VDB-217450 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2020-36641](https://github.com/Live-Hack-CVE/CVE-2020-36641)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36641">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36641">
+
+---
 ## CVE-2020-36640 (2023-01-05T10:15:00)
 > A vulnerability, which was classified as problematic, was found in bonitasoft bonita-connector-webservice up to 1.3.0. This affects the function TransformerConfigurationException of the file src/main/java/org/bonitasoft/connectors/ws/SecureWSConnector.java. The manipulation leads to xml external entity reference. Upgrading to version 1.3.1 is able to address this issue. The name of the patch is a12ad691c05af19e9061d7949b6b828ce48815d5. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-217443.
 - [Live-Hack-CVE/CVE-2020-36640](https://github.com/Live-Hack-CVE/CVE-2020-36640)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36640">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36640">

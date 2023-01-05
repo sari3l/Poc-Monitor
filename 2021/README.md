@@ -968,6 +968,11 @@
 - [Citizen13X/CVE-2021-43229](https://github.com/Citizen13X/CVE-2021-43229)	<img alt="forks" src="https://img.shields.io/github/forks/Citizen13X/CVE-2021-43229">	<img alt="stars" src="https://img.shields.io/github/stars/Citizen13X/CVE-2021-43229">
 
 ---
+## CVE-2021-4305 (2023-01-05T11:15:00)
+> A vulnerability was found in Woorank robots-txt-guard. It has been rated as problematic. Affected by this issue is the function makePathPattern of the file lib/patterns.js. The manipulation of the argument pattern leads to inefficient regular expression complexity. The exploit has been disclosed to the public and may be used. The name of the patch is c03827cd2f9933619c23894ce7c98401ea824020. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-217448.
+- [Live-Hack-CVE/CVE-2021-4305](https://github.com/Live-Hack-CVE/CVE-2021-4305)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4305">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4305">
+
+---
 ## CVE-2021-4304 (2023-01-05T10:15:00)
 > A vulnerability was found in eprintsug ulcc-core. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the file cgi/toolbox/toolbox. The manipulation of the argument password leads to command injection. The attack can be launched remotely. The name of the patch is 811edaae81eb044891594f00062a828f51b22cb1. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-217447.
 - [Live-Hack-CVE/CVE-2021-4304](https://github.com/Live-Hack-CVE/CVE-2021-4304)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4304">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4304">

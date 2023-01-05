@@ -435,6 +435,11 @@
 - [Live-Hack-CVE/CVE-2017-2599](https://github.com/Live-Hack-CVE/CVE-2017-2599)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-2599">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-2599">
 
 ---
+## CVE-2017-20162 (2023-01-05T12:15:00)
+> A vulnerability, which was classified as problematic, has been found in vercel ms up to 1.x. This issue affects the function parse of the file index.js. The manipulation of the argument str leads to inefficient regular expression complexity. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. Upgrading to version 2.0.0 is able to address this issue. The name of the patch is caae2988ba2a37765d055c4eee63d383320ee662. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-217451.
+- [Live-Hack-CVE/CVE-2017-20162](https://github.com/Live-Hack-CVE/CVE-2017-20162)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20162">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20162">
+
+---
 ## CVE-2017-20161 (2023-01-02T16:15:00)
 > A vulnerability classified as problematic has been found in rofl0r MacGeiger. Affected is the function dump_wlan_at of the file macgeiger.c of the component ESSID Handler. The manipulation leads to injection. Access to the local network is required for this attack to succeed. The name of the patch is 57f1dd50a4821b8c8e676e8020006ae4bfd3c9cb. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-217188.
 - [Live-Hack-CVE/CVE-2017-20161](https://github.com/Live-Hack-CVE/CVE-2017-20161)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20161">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20161">
