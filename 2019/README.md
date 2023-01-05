@@ -1216,6 +1216,11 @@
 - [Live-Hack-CVE/CVE-2019-2614](https://github.com/Live-Hack-CVE/CVE-2019-2614)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-2614">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-2614">
 
 ---
+## CVE-2019-25098 (2023-01-05T08:15:00)
+> A vulnerability was found in soerennb eXtplorer up to 2.1.12. It has been classified as critical. This affects an unknown part of the file include/archive.php of the component Archive Handler. The manipulation leads to path traversal. Upgrading to version 2.1.13 is able to address this issue. The name of the patch is b8fcb888f4ff5e171c16797a4b075c6c6f50bf46. It is recommended to upgrade the affected component. The identifier VDB-217437 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2019-25098](https://github.com/Live-Hack-CVE/CVE-2019-25098)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25098">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25098">
+
+---
 ## CVE-2019-25097 (2023-01-05T08:15:00)
 > A vulnerability was found in soerennb eXtplorer up to 2.1.12 and classified as critical. Affected by this issue is some unknown functionality of the component Directory Content Handler. The manipulation leads to path traversal. Upgrading to version 2.1.13 is able to address this issue. The name of the patch is b8fcb888f4ff5e171c16797a4b075c6c6f50bf46. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-217436.
 - [Live-Hack-CVE/CVE-2019-25097](https://github.com/Live-Hack-CVE/CVE-2019-25097)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25097">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25097">
@@ -1224,6 +1229,11 @@
 ## CVE-2019-25096 (2023-01-05T08:15:00)
 > A vulnerability has been found in soerennb eXtplorer up to 2.1.12 and classified as problematic. Affected by this vulnerability is an unknown functionality. The manipulation leads to cross site scripting. The attack can be launched remotely. Upgrading to version 2.1.13 is able to address this issue. The name of the patch is b8fcb888f4ff5e171c16797a4b075c6c6f50bf46. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-217435.
 - [Live-Hack-CVE/CVE-2019-25096](https://github.com/Live-Hack-CVE/CVE-2019-25096)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25096">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25096">
+
+---
+## CVE-2019-25095 (2023-01-05T08:15:00)
+> A vulnerability, which was classified as problematic, was found in kakwa LdapCherry up to 0.x. Affected is an unknown function of the component URL Handler. The manipulation leads to cross site scripting. It is possible to launch the attack remotely. Upgrading to version 1.0.0 is able to address this issue. The name of the patch is 6f98076281e9452fdb1adcd1bcbb70a6f968ade9. It is recommended to upgrade the affected component. VDB-217434 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2019-25095](https://github.com/Live-Hack-CVE/CVE-2019-25095)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25095">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25095">
 
 ---
 ## CVE-2019-25094 (2023-01-04T10:15:00)

@@ -1561,6 +1561,11 @@
 - [Live-Hack-CVE/CVE-2022-4586](https://github.com/Live-Hack-CVE/CVE-2022-4586)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4586">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4586">
 
 ---
+## CVE-2022-45857 (2023-01-05T08:15:00)
+> An incorrect user management vulnerability [CWE-286] in the FortiManager version 6.4.6 and below VDOM creation component may allow an attacker to access a FortiGate without a password via newly created VDOMs after the super_admin account is deleted.
+- [Live-Hack-CVE/CVE-2022-45857](https://github.com/Live-Hack-CVE/CVE-2022-45857)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45857">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45857">
+
+---
 ## CVE-2022-4585 (2022-12-17T13:15:00)
 > A vulnerability classified as problematic has been found in Opencaching Deutschland oc-server3. This affects an unknown part of the file htdocs/templates2/ocstyle/start.tpl of the component Cookie Handler. The manipulation of the argument usercountryCode leads to cross site scripting. It is possible to initiate the attack remotely. The name of the patch is c720f2777a452186c67ef30db3679dd409556544. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-216171.
 - [Live-Hack-CVE/CVE-2022-4585](https://github.com/Live-Hack-CVE/CVE-2022-4585)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4585">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4585">
@@ -4061,9 +4066,24 @@
 - [Live-Hack-CVE/CVE-2022-43541](https://github.com/Live-Hack-CVE/CVE-2022-43541)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43541">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43541">
 
 ---
+## CVE-2022-43532 (2023-01-05T07:15:00)
+> A vulnerability in the web-based management interface of ClearPass Policy Manager could allow an authenticated remote attacker to conduct a stored cross-site scripting (XSS) attack against an administrative user of the interface. A successful exploit allows an attacker to execute arbitrary script code in a victim's browser in the context of the affected interface in Aruba ClearPass Policy Manager version(s): ClearPass Policy Manager 6.10.x: 6.10.7 and below and ClearPass Policy Manager 6.9.x: 6.9.12 and below.
+- [Live-Hack-CVE/CVE-2022-43532](https://github.com/Live-Hack-CVE/CVE-2022-43532)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43532">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43532">
+
+---
 ## CVE-2022-4353 (2022-12-08T10:15:00)
 > A vulnerability has been found in LinZhaoguan pb-cms 2.0 and classified as problematic. Affected by this vulnerability is the function IpUtil.getIpAddr. The manipulation leads to cross site scripting. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-215113 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-4353](https://github.com/Live-Hack-CVE/CVE-2022-4353)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4353">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4353">
+
+---
+## CVE-2022-43529 (2023-01-05T07:15:00)
+> A vulnerability in the web-based management interface of Aruba EdgeConnect Enterprise Orchestrator could allow an remote attacker to persist a session after a password reset or similar session clearing event. Successful exploitation of this vulnerability could allow an authenticated attacker to remain on the system with the permissions of their current session after the session should be invalidated in Aruba EdgeConnect Enterprise Orchestration Software version(s): Aruba EdgeConnect Enterprise Orchestrator (on-premises), Aruba EdgeConnect Enterprise Orchestrator-as-a-Service, Aruba EdgeConnect Enterprise Orchestrator-SP and Aruba EdgeConnect Enterprise Orchestrator Global Enterprise Tenant Orchestrators - Orchestrator 9.2.1.40179 and below, - Orchestrator 9.1.4.40436 and below, - Orchestrator 9.0.7.40110 and below, - Orchestrator 8.10.23.40015 and below, - Any older branches of Orchestrator not specifically mentioned.
+- [Live-Hack-CVE/CVE-2022-43529](https://github.com/Live-Hack-CVE/CVE-2022-43529)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43529">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43529">
+
+---
+## CVE-2022-43522 (2023-01-05T07:15:00)
+> Multiple vulnerabilities in the web-based management interface of Aruba EdgeConnect Enterprise Orchestrator could allow an authenticated remote attacker to conduct SQL injection attacks against the Aruba EdgeConnect Enterprise Orchestrator instance. An attacker could exploit these vulnerabilities to obtain and modify sensitive information in the underlying database potentially leading to complete compromise of the Aruba EdgeConnect Enterprise Orchestrator host in Aruba EdgeConnect Enterprise Orchestration Software version(s): Aruba EdgeConnect Enterprise Orchestrator (on-premises), Aruba EdgeConnect Enterprise Orchestrator-as-a-Service, Aruba EdgeConnect Enterprise Orchestrator-SP and Aruba EdgeConnect Enterprise Orchestrator Global Enterprise Tenant Orchestrators - Orchestrator 9.2.1.40179 and below, - Orchestrator 9.1.4.40436 and below, - Orchestrator 9.0.7.40110 and below, - Orchestrator 8.10.23.40015 and below, - Any older branches of Orchestrator not specifically mentioned.
+- [Live-Hack-CVE/CVE-2022-43522](https://github.com/Live-Hack-CVE/CVE-2022-43522)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43522">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43522">
 
 ---
 ## CVE-2022-43518 (2022-12-12T13:15:00)
@@ -27663,6 +27683,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-22411 (2022-08-10T17:15:00)
 > IBM Spectrum Scale Data Access Services (DAS) 5.1.3.1 could allow an authenticated user to insert code which could allow the attacker to manipulate cluster resources due to excessive permissions. IBM X-Force ID: 223016.
 - [Live-Hack-CVE/CVE-2022-22411](https://github.com/Live-Hack-CVE/CVE-2022-22411)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22411">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22411">
+
+---
+## CVE-2022-22371 (2023-01-05T07:15:00)
+> IBM Sterling B2B Integrator Standard Edition 6.0.0.0 through 6.1.2.1 does not invalidate session after a password change which could allow an authenticated user to impersonate another user on the system. IBM X-Force ID: 221195.
+- [Live-Hack-CVE/CVE-2022-22371](https://github.com/Live-Hack-CVE/CVE-2022-22371)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22371">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22371">
 
 ---
 ## CVE-2022-22352 (2023-01-04T18:15:00)

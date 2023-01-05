@@ -5887,6 +5887,16 @@
 - [Live-Hack-CVE/CVE-2021-25314](https://github.com/Live-Hack-CVE/CVE-2021-25314)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25314">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25314">
 
 ---
+## CVE-2021-25223 (2023-01-05T07:15:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate is unused by its CNA. Notes: none.
+- [Live-Hack-CVE/CVE-2021-25223](https://github.com/Live-Hack-CVE/CVE-2021-25223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25223">
+
+---
+## CVE-2021-25222 (2023-01-05T07:15:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate is unused by its CNA. Notes: none.
+- [Live-Hack-CVE/CVE-2021-25222](https://github.com/Live-Hack-CVE/CVE-2021-25222)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25222">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25222">
+
+---
 ## CVE-2021-25219 (2021-10-27T21:15:00)
 > In BIND 9.3.0 -> 9.11.35, 9.12.0 -> 9.16.21, and versions 9.9.3-S1 -> 9.11.35-S1 and 9.16.8-S1 -> 9.16.21-S1 of BIND Supported Preview Edition, as well as release versions 9.17.0 -> 9.17.18 of the BIND 9.17 development branch, exploitation of broken authoritative servers using a flaw in response processing can cause degradation in BIND resolver performance. The way the lame cache is currently designed makes it possible for its internal data structures to grow almost infinitely, which may cause significant delays in client query processing.
 - [Live-Hack-CVE/CVE-2021-25219](https://github.com/Live-Hack-CVE/CVE-2021-25219)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25219">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25219">
