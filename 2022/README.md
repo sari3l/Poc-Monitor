@@ -48,6 +48,11 @@
 - [Cedric1314/CVE-2022-48870](https://github.com/Cedric1314/CVE-2022-48870)	<img alt="forks" src="https://img.shields.io/github/forks/Cedric1314/CVE-2022-48870">	<img alt="stars" src="https://img.shields.io/github/stars/Cedric1314/CVE-2022-48870">
 
 ---
+## CVE-2022-4876 (2023-01-04T23:15:00)
+> A vulnerability was found in Kaltura mwEmbed up to 2.96.rc1 and classified as problematic. This issue affects some unknown processing of the file includes/DefaultSettings.php. The manipulation of the argument HTTP_X_FORWARDED_HOST leads to cross site scripting. The attack may be initiated remotely. Upgrading to version 2.96.rc2 is able to address this issue. The name of the patch is 13b8812ebc8c9fa034eed91ab35ba8423a528c0b. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-217427.
+- [Live-Hack-CVE/CVE-2022-4876](https://github.com/Live-Hack-CVE/CVE-2022-4876)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4876">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4876">
+
+---
 ## CVE-2022-4875 (2023-01-04T22:15:00)
 > A vulnerability has been found in fossology and classified as problematic. This vulnerability affects unknown code. The manipulation of the argument sql/VarValue leads to cross site scripting. The attack can be initiated remotely. The name of the patch is 8e0eba001662c7eb35f045b70dd458a4643b4553. It is recommended to apply a patch to fix this issue. VDB-217426 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-4875](https://github.com/Live-Hack-CVE/CVE-2022-4875)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4875">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4875">
