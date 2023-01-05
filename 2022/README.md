@@ -401,6 +401,10 @@
 ## CVE-2022-4721 (2022-12-27T15:15:00)
 > Failure to Sanitize Special Elements into a Different Plane (Special Element Injection) in GitHub repository ikus060/rdiffweb prior to 2.5.5.
 - [Live-Hack-CVE/CVE-2022-4721](https://github.com/Live-Hack-CVE/CVE-2022-4721)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4721">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4721">
+- [Live-Hack-CVE/CVE-2022-47213](https://github.com/Live-Hack-CVE/CVE-2022-47213)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47213">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47213">
+- [Live-Hack-CVE/CVE-2022-47212](https://github.com/Live-Hack-CVE/CVE-2022-47212)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47212">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47212">
+- [Live-Hack-CVE/CVE-2022-47211](https://github.com/Live-Hack-CVE/CVE-2022-47211)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47211">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47211">
+- [Live-Hack-CVE/CVE-2022-47210](https://github.com/Live-Hack-CVE/CVE-2022-47210)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47210">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47210">
 
 ---
 ## CVE-2022-47209 (2022-12-16T20:15:00)
