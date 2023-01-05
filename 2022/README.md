@@ -482,6 +482,9 @@
 ## CVE-2022-4691 (2022-12-27T15:15:00)
 > Cross-site Scripting (XSS) - Stored in GitHub repository usememos/memos prior to 0.9.0.
 - [Live-Hack-CVE/CVE-2022-4691](https://github.com/Live-Hack-CVE/CVE-2022-4691)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4691">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4691">
+- [Live-Hack-CVE/CVE-2022-46914](https://github.com/Live-Hack-CVE/CVE-2022-46914)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46914">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46914">
+- [Live-Hack-CVE/CVE-2022-46912](https://github.com/Live-Hack-CVE/CVE-2022-46912)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46912">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46912">
+- [Live-Hack-CVE/CVE-2022-46910](https://github.com/Live-Hack-CVE/CVE-2022-46910)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46910">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46910">
 
 ---
 ## CVE-2022-46908 (2022-12-12T06:15:00)
@@ -1257,6 +1260,7 @@
 - [Live-Hack-CVE/CVE-2022-46169](https://github.com/Live-Hack-CVE/CVE-2022-46169)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46169">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46169">
 - [Inplex-sys/CVE-2022-46169](https://github.com/Inplex-sys/CVE-2022-46169)	<img alt="forks" src="https://img.shields.io/github/forks/Inplex-sys/CVE-2022-46169">	<img alt="stars" src="https://img.shields.io/github/stars/Inplex-sys/CVE-2022-46169">
 - [Live-Hack-CVE/CVE-2022-46169](https://github.com/Live-Hack-CVE/CVE-2022-46169)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46169">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46169">
+- [sAsPeCt488/CVE-2022-46169-PoC](https://github.com/sAsPeCt488/CVE-2022-46169-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sAsPeCt488/CVE-2022-46169-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sAsPeCt488/CVE-2022-46169-PoC">
 
 ---
 ## CVE-2022-46167 (2022-12-02T19:15:00)
