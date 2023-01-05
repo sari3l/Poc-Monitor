@@ -422,6 +422,8 @@
 ## CVE-2022-4720 (2022-12-27T15:15:00)
 > Open Redirect in GitHub repository ikus060/rdiffweb prior to 2.5.5.
 - [Live-Hack-CVE/CVE-2022-4720](https://github.com/Live-Hack-CVE/CVE-2022-4720)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4720">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4720">
+- [Live-Hack-CVE/CVE-2022-47209](https://github.com/Live-Hack-CVE/CVE-2022-47209)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47209">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47209">
+- [Live-Hack-CVE/CVE-2022-47208](https://github.com/Live-Hack-CVE/CVE-2022-47208)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47208">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47208">
 
 ---
 ## CVE-2022-4719 (2022-12-27T15:15:00)
