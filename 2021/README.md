@@ -971,6 +971,11 @@
 ## CVE-2021-4304 (2023-01-05T10:15:00)
 > A vulnerability was found in eprintsug ulcc-core. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the file cgi/toolbox/toolbox. The manipulation of the argument password leads to command injection. The attack can be launched remotely. The name of the patch is 811edaae81eb044891594f00062a828f51b22cb1. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-217447.
 - [Live-Hack-CVE/CVE-2021-4304](https://github.com/Live-Hack-CVE/CVE-2021-4304)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4304">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4304">
+- [Live-Hack-CVE/CVE-2021-43044](https://github.com/Live-Hack-CVE/CVE-2021-43044)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43044">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43044">
+- [Live-Hack-CVE/CVE-2021-43043](https://github.com/Live-Hack-CVE/CVE-2021-43043)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43043">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43043">
+- [Live-Hack-CVE/CVE-2021-43042](https://github.com/Live-Hack-CVE/CVE-2021-43042)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43042">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43042">
+- [Live-Hack-CVE/CVE-2021-43041](https://github.com/Live-Hack-CVE/CVE-2021-43041)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43041">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43041">
+- [Live-Hack-CVE/CVE-2021-43040](https://github.com/Live-Hack-CVE/CVE-2021-43040)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43040">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43040">
 
 ---
 ## CVE-2021-4303 (2023-01-05T09:15:00)
