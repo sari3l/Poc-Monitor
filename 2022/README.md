@@ -3306,6 +3306,9 @@
 ## CVE-2022-4434 (2023-01-05T18:15:00)
 > A buffer over-read vulnerability was reported in the ThinkPadX13s BIOS driver that could allow a local attacker with elevated privileges to cause information disclosure.
 - [Live-Hack-CVE/CVE-2022-4434](https://github.com/Live-Hack-CVE/CVE-2022-4434)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4434">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4434">
+- [Live-Hack-CVE/CVE-2022-44348](https://github.com/Live-Hack-CVE/CVE-2022-44348)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44348">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44348">
+- [Live-Hack-CVE/CVE-2022-44347](https://github.com/Live-Hack-CVE/CVE-2022-44347)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44347">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44347">
+- [Live-Hack-CVE/CVE-2022-44345](https://github.com/Live-Hack-CVE/CVE-2022-44345)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44345">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44345">
 
 ---
 ## CVE-2022-4433 (2023-01-05T18:15:00)
