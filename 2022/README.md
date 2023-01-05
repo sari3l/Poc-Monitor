@@ -1172,6 +1172,11 @@
 - [Live-Hack-CVE/CVE-2022-4619](https://github.com/Live-Hack-CVE/CVE-2022-4619)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4619">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4619">
 
 ---
+## CVE-2022-46178 (2022-12-29T19:15:00)
+> MeterSphere is a one-stop open source continuous testing platform, covering test management, interface testing, UI testing and performance testing. Versions prior to 2.5.1 allow users to upload a file, but do not validate the file name, which may lead to upload file to any path. The vulnerability has been fixed in v2.5.1. There are no workarounds.
+- [Live-Hack-CVE/CVE-2022-46178](https://github.com/Live-Hack-CVE/CVE-2022-46178)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46178">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46178">
+
+---
 ## CVE-2022-46171 (2022-12-23T14:15:00)
 > Tauri is a framework for building binaries for all major desktop platforms. The filesystem glob pattern wildcards `*`, `?`, and `[...]` match file path literals and leading dots by default, which unintentionally exposes sub folder content of allowed paths. Scopes without the wildcards are not affected. As `**` allows for sub directories the behavior there is also as expected. The issue has been patched in the latest release and was backported into the currently supported 1.x branches. There are no known workarounds at the time of publication.
 - [Live-Hack-CVE/CVE-2022-46171](https://github.com/Live-Hack-CVE/CVE-2022-46171)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46171">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46171">
@@ -1619,6 +1624,11 @@
 - [Live-Hack-CVE/CVE-2022-45796](https://github.com/Live-Hack-CVE/CVE-2022-45796)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45796">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45796">
 
 ---
+## CVE-2022-45778 (2022-12-27T22:15:00)
+> https://www.hillstonenet.com.cn/ Hillstone Firewall SG-6000 <= 5.0.4.0 is vulnerable to Incorrect Access Control. There is a permission bypass vulnerability in the Hillstone WEB application firewall. An attacker can enter the background of the firewall with super administrator privileges through a configuration error in report.m.
+- [Live-Hack-CVE/CVE-2022-45778](https://github.com/Live-Hack-CVE/CVE-2022-45778)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45778">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45778">
+
+---
 ## CVE-2022-45771 (2022-12-05T20:15:00)
 > An issue in the /api/audits component of Pwndoc v0.5.3 allows attackers to escalate privileges and execute arbitrary code via uploading a crafted audit file.
 - [p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE](https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE">
@@ -1829,6 +1839,61 @@
 ## CVE-2022-45451 ()
 > 
 - [alfarom256/CVE-2022-45451](https://github.com/alfarom256/CVE-2022-45451)	<img alt="forks" src="https://img.shields.io/github/forks/alfarom256/CVE-2022-45451">	<img alt="stars" src="https://img.shields.io/github/stars/alfarom256/CVE-2022-45451">
+
+---
+## CVE-2022-45434 (2022-12-27T18:15:00)
+> Some Dahua software products have a vulnerability of unauthenticated un-throttled ICMP requests on remote DSS Server. After bypassing the firewall access control policy, by sending a specific crafted packet to the vulnerable interface, an attacker could exploit the victim server to launch ICMP request attack to the designated target host.
+- [Live-Hack-CVE/CVE-2022-45434](https://github.com/Live-Hack-CVE/CVE-2022-45434)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45434">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45434">
+
+---
+## CVE-2022-45433 (2022-12-27T18:15:00)
+> Some Dahua software products have a vulnerability of unauthenticated traceroute host from remote DSS Server. After bypassing the firewall access control policy, by sending a specific crafted packet to the vulnerable interface, an attacker could get the traceroute results.
+- [Live-Hack-CVE/CVE-2022-45433](https://github.com/Live-Hack-CVE/CVE-2022-45433)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45433">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45433">
+
+---
+## CVE-2022-45432 (2022-12-27T18:15:00)
+> Some Dahua software products have a vulnerability of unauthenticated search for devices. After bypassing the firewall access control policy, by sending a specific crafted packet to the vulnerable interface, an attacker could unauthenticated search for devices in range of IPs from remote DSS Server.
+- [Live-Hack-CVE/CVE-2022-45432](https://github.com/Live-Hack-CVE/CVE-2022-45432)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45432">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45432">
+
+---
+## CVE-2022-45431 (2022-12-27T18:15:00)
+> Some Dahua software products have a vulnerability of unauthenticated restart of remote DSS Server. After bypassing the firewall access control policy, by sending a specific crafted packet to the vulnerable interface, an attacker could unauthenticated restart of remote DSS Server.
+- [Live-Hack-CVE/CVE-2022-45431](https://github.com/Live-Hack-CVE/CVE-2022-45431)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45431">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45431">
+
+---
+## CVE-2022-45430 (2022-12-27T18:15:00)
+> Some Dahua software products have a vulnerability of unauthenticated enable or disable SSHD service. After bypassing the firewall access control policy, by sending a specific crafted packet to the vulnerable interface, an attacker could enable or disable the SSHD service.
+- [Live-Hack-CVE/CVE-2022-45430](https://github.com/Live-Hack-CVE/CVE-2022-45430)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45430">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45430">
+
+---
+## CVE-2022-45429 (2022-12-27T18:15:00)
+> Some Dahua software products have a vulnerability of server-side request forgery (SSRF). An Attacker can access internal resources by concatenating links (URL) that conform to specific rules.
+- [Live-Hack-CVE/CVE-2022-45429](https://github.com/Live-Hack-CVE/CVE-2022-45429)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45429">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45429">
+
+---
+## CVE-2022-45428 (2022-12-27T18:15:00)
+> Some Dahua software products have a vulnerability of sensitive information leakage. After obtaining the permissions of administrators, by sending a specific crafted packet to the vulnerable interface, an attacker can obtain the debugging information.
+- [Live-Hack-CVE/CVE-2022-45428](https://github.com/Live-Hack-CVE/CVE-2022-45428)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45428">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45428">
+
+---
+## CVE-2022-45427 (2022-12-27T18:15:00)
+> Some Dahua software products have a vulnerability of unrestricted upload of file. After obtaining the permissions of administrators, by sending a specific crafted packet to the vulnerable interface, an attacker can upload arbitrary files.
+- [Live-Hack-CVE/CVE-2022-45427](https://github.com/Live-Hack-CVE/CVE-2022-45427)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45427">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45427">
+
+---
+## CVE-2022-45425 (2022-12-27T18:15:00)
+> Some Dahua software products have a vulnerability of using of hard-coded cryptographic key. An attacker can obtain the AES crypto key by exploiting this vulnerability.
+- [Live-Hack-CVE/CVE-2022-45425](https://github.com/Live-Hack-CVE/CVE-2022-45425)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45425">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45425">
+
+---
+## CVE-2022-45424 (2022-12-27T18:15:00)
+> Some Dahua software products have a vulnerability of unauthenticated request of AES crypto key. An attacker can obtain the AES crypto key by sending a specific crafted packet to the vulnerable interface.
+- [Live-Hack-CVE/CVE-2022-45424](https://github.com/Live-Hack-CVE/CVE-2022-45424)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45424">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45424">
+
+---
+## CVE-2022-45423 (2022-12-27T18:15:00)
+> Some Dahua software products have a vulnerability of unauthenticated request of MQTT credentials. An attacker can obtain encrypted MQTT credentials by sending a specific crafted packet to the vulnerable interface (the credentials cannot be directly exploited).
+- [Live-Hack-CVE/CVE-2022-45423](https://github.com/Live-Hack-CVE/CVE-2022-45423)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45423">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45423">
 
 ---
 ## CVE-2022-45422 (2022-11-21T17:15:00)
@@ -3372,6 +3437,11 @@
 > Rapid Software LLC Rapid SCADA 5.8.4 is vulnerable to Cross Site Scripting (XSS).
 - [Live-Hack-CVE/CVE-2022-44153](https://github.com/Live-Hack-CVE/CVE-2022-44153)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44153">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44153">
 - [Live-Hack-CVE/CVE-2022-44153](https://github.com/Live-Hack-CVE/CVE-2022-44153)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44153">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44153">
+
+---
+## CVE-2022-44137 (2022-12-30T01:15:00)
+> SourceCodester Sanitization Management System 1.0 is vulnerable to SQL Injection.
+- [Live-Hack-CVE/CVE-2022-44137](https://github.com/Live-Hack-CVE/CVE-2022-44137)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44137">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44137">
 
 ---
 ## CVE-2022-44109 (2022-12-19T23:15:00)
@@ -25415,6 +25485,16 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-25836](https://github.com/Live-Hack-CVE/CVE-2022-25836)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25836">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25836">
 
 ---
+## CVE-2022-2583 (2022-12-27T22:15:00)
+> A race condition can cause incorrect HTTP request routing.
+- [Live-Hack-CVE/CVE-2022-2583](https://github.com/Live-Hack-CVE/CVE-2022-2583)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2583">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2583">
+
+---
+## CVE-2022-2582 (2022-12-27T22:15:00)
+> The AWS S3 Crypto SDK sends an unencrypted hash of the plaintext alongside the ciphertext as a metadata field. This hash can be used to brute force the plaintext, if the hash is readable to the attacker. AWS now blocks this metadata field, but older SDK versions still send it.
+- [Live-Hack-CVE/CVE-2022-2582](https://github.com/Live-Hack-CVE/CVE-2022-2582)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2582">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2582">
+
+---
 ## CVE-2022-25813 (2022-09-02T07:15:00)
 > In Apache OFBiz, versions 18.12.05 and earlier, an attacker acting as an anonymous user of the ecommerce plugin, can insert a malicious content in a message “Subject” field from the "Contact us" page. Then a party manager needs to list the communications in the party component to activate the SSTI. A RCE is then possible.
 - [Live-Hack-CVE/CVE-2022-25813](https://github.com/Live-Hack-CVE/CVE-2022-25813)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25813">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25813">
@@ -26601,6 +26681,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-23556 (2022-12-22T19:15:00)
 > CodeIgniter is a PHP full-stack web framework. This vulnerability may allow attackers to spoof their IP address when the server is behind a reverse proxy. This issue has been patched, please upgrade to version 4.2.11 or later, and configure `Config\App::$proxyIPs`. As a workaround, do not use `$request->getIPAddress()`.
 - [Live-Hack-CVE/CVE-2022-23556](https://github.com/Live-Hack-CVE/CVE-2022-23556)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23556">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23556">
+
+---
+## CVE-2022-23544 (2022-12-28T00:15:00)
+> MeterSphere is a one-stop open source continuous testing platform, covering test management, interface testing, UI testing and performance testing. Versions prior to 2.5.0 are subject to a Server-Side Request Forgery that leads to Cross-Site Scripting. A Server-Side request forgery in `IssueProxyResourceService::getMdImageByUrl` allows an attacker to access internal resources, as well as executing JavaScript code in the context of Metersphere's origin by a victim of a reflected XSS. This vulnerability has been fixed in v2.5.0. There are no known workarounds.
+- [Live-Hack-CVE/CVE-2022-23544](https://github.com/Live-Hack-CVE/CVE-2022-23544)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23544">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23544">
 
 ---
 ## CVE-2022-23543 (2022-12-19T22:15:00)
