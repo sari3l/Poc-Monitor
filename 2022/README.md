@@ -376,6 +376,16 @@
 - [Live-Hack-CVE/CVE-2022-4731](https://github.com/Live-Hack-CVE/CVE-2022-4731)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4731">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4731">
 
 ---
+## CVE-2022-4723 (2022-12-27T15:15:00)
+> Allocation of Resources Without Limits or Throttling in GitHub repository ikus060/rdiffweb prior to 2.5.5.
+- [Live-Hack-CVE/CVE-2022-4723](https://github.com/Live-Hack-CVE/CVE-2022-4723)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4723">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4723">
+
+---
+## CVE-2022-4722 (2022-12-27T15:15:00)
+> Authentication Bypass by Primary Weakness in GitHub repository ikus060/rdiffweb prior to 2.5.5.
+- [Live-Hack-CVE/CVE-2022-4722](https://github.com/Live-Hack-CVE/CVE-2022-4722)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4722">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4722">
+
+---
 ## CVE-2022-47211 (2022-12-13T19:15:00)
 > Microsoft Office Graphics Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2022-26804, CVE-2022-26805, CVE-2022-26806, CVE-2022-44692, CVE-2022-47212, CVE-2022-47213.
 - [Live-Hack-CVE/CVE-2022-47211](https://github.com/Live-Hack-CVE/CVE-2022-47211)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47211">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47211">
@@ -388,6 +398,11 @@
 - [Live-Hack-CVE/CVE-2022-47210](https://github.com/Live-Hack-CVE/CVE-2022-47210)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47210">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47210">
 
 ---
+## CVE-2022-4721 (2022-12-27T15:15:00)
+> Failure to Sanitize Special Elements into a Different Plane (Special Element Injection) in GitHub repository ikus060/rdiffweb prior to 2.5.5.
+- [Live-Hack-CVE/CVE-2022-4721](https://github.com/Live-Hack-CVE/CVE-2022-4721)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4721">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4721">
+
+---
 ## CVE-2022-47209 (2022-12-16T20:15:00)
 > A support user exists on the device and appears to be a backdoor for Technical Support staff. The default password for this account is “support” and cannot be changed by a user via any normally accessible means.
 - [Live-Hack-CVE/CVE-2022-47209](https://github.com/Live-Hack-CVE/CVE-2022-47209)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47209">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47209">
@@ -398,6 +413,16 @@
 > The “puhttpsniff” service, which runs by default, is susceptible to command injection due to improperly sanitized user input. An unauthenticated attacker on the same network segment as the router can execute arbitrary commands on the device without authentication.
 - [Live-Hack-CVE/CVE-2022-47208](https://github.com/Live-Hack-CVE/CVE-2022-47208)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47208">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47208">
 - [Live-Hack-CVE/CVE-2022-47208](https://github.com/Live-Hack-CVE/CVE-2022-47208)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47208">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47208">
+
+---
+## CVE-2022-4720 (2022-12-27T15:15:00)
+> Open Redirect in GitHub repository ikus060/rdiffweb prior to 2.5.5.
+- [Live-Hack-CVE/CVE-2022-4720](https://github.com/Live-Hack-CVE/CVE-2022-4720)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4720">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4720">
+
+---
+## CVE-2022-4719 (2022-12-27T15:15:00)
+> Business Logic Errors in GitHub repository ikus060/rdiffweb prior to 2.5.5.
+- [Live-Hack-CVE/CVE-2022-4719](https://github.com/Live-Hack-CVE/CVE-2022-4719)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4719">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4719">
 
 ---
 ## CVE-2022-47102 ()
@@ -420,6 +445,16 @@
 - [Live-Hack-CVE/CVE-2022-4697](https://github.com/Live-Hack-CVE/CVE-2022-4697)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4697">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4697">
 
 ---
+## CVE-2022-4695 (2022-12-27T15:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository usememos/memos prior to 0.9.0.
+- [Live-Hack-CVE/CVE-2022-4695](https://github.com/Live-Hack-CVE/CVE-2022-4695)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4695">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4695">
+
+---
+## CVE-2022-4694 (2022-12-27T15:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository usememos/memos prior to 0.9.0.
+- [Live-Hack-CVE/CVE-2022-4694](https://github.com/Live-Hack-CVE/CVE-2022-4694)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4694">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4694">
+
+---
 ## CVE-2022-46914 (2022-12-20T20:15:00)
 > An issue in the firmware update process of TP-LINK TL-WA801N / TL-WA801ND V1 v3.12.16 and earlier allows attackers to execute arbitrary code or cause a Denial of Service (DoS) via uploading a crafted firmware image.
 - [Live-Hack-CVE/CVE-2022-46914](https://github.com/Live-Hack-CVE/CVE-2022-46914)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46914">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46914">
@@ -436,6 +471,11 @@
 > An issue in the firmware update process of TP-Link TL-WA901ND V1 up to v3.11.2 and TL-WA901N V2 up to v3.12.16 allows attackers to execute arbitrary code or cause a Denial of Service (DoS) via uploading a crafted firmware image.
 - [Live-Hack-CVE/CVE-2022-46910](https://github.com/Live-Hack-CVE/CVE-2022-46910)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46910">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46910">
 - [Live-Hack-CVE/CVE-2022-46910](https://github.com/Live-Hack-CVE/CVE-2022-46910)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46910">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46910">
+
+---
+## CVE-2022-4691 (2022-12-27T15:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository usememos/memos prior to 0.9.0.
+- [Live-Hack-CVE/CVE-2022-4691](https://github.com/Live-Hack-CVE/CVE-2022-4691)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4691">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4691">
 
 ---
 ## CVE-2022-46908 (2022-12-12T06:15:00)
@@ -1417,6 +1457,11 @@
 ## CVE-2022-4600 (2022-12-18T11:15:00)
 > A vulnerability was found in Shoplazza LifeStyle 1.1. It has been classified as problematic. This affects an unknown part of the file /admin/api/theme-edit/ of the component Product Carousel Handler. The manipulation of the argument Heading/Description leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-216195.
 - [Live-Hack-CVE/CVE-2022-4600](https://github.com/Live-Hack-CVE/CVE-2022-4600)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4600">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4600">
+
+---
+## CVE-2022-45995 (2023-01-05T14:15:00)
+> There is an unauthorized buffer overflow vulnerability in Tenda AX12 v22.03.01.21 _ cn. This vulnerability can cause the web service not to restart or even execute arbitrary code. It is a different vulnerability from CVE-2022-2414.
+- [Live-Hack-CVE/CVE-2022-45995](https://github.com/Live-Hack-CVE/CVE-2022-45995)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45995">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45995">
 
 ---
 ## CVE-2022-45990 (2022-12-05T23:15:00)
@@ -4064,6 +4109,11 @@
 ## CVE-2022-43541 (2022-12-12T13:15:00)
 > Vulnerabilities in the Aruba EdgeConnect Enterprise command line interface allow remote authenticated users to run arbitrary commands on the underlying host. A successful exploit could allow an attacker to execute arbitrary commands as root on the underlying operating system leading to complete system compromise in Aruba EdgeConnect Enterprise Software version(s): ECOS 9.2.1.0 and below; ECOS 9.1.3.0 and below; ECOS 9.0.7.0 and below; ECOS 8.3.7.1 and below.
 - [Live-Hack-CVE/CVE-2022-43541](https://github.com/Live-Hack-CVE/CVE-2022-43541)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43541">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43541">
+
+---
+## CVE-2022-43533 (2023-01-05T07:15:00)
+> A vulnerability in the ClearPass OnGuard macOS agent could allow malicious users on a macOS instance to elevate their user privileges. A successful exploit could allow these users to execute arbitrary code with root level privileges on the macOS instance in Aruba ClearPass Policy Manager version(s): ClearPass Policy Manager 6.10.x: 6.10.7 and below and ClearPass Policy Manager 6.9.x: 6.9.12 and below.
+- [Live-Hack-CVE/CVE-2022-43533](https://github.com/Live-Hack-CVE/CVE-2022-43533)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43533">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43533">
 
 ---
 ## CVE-2022-43532 (2023-01-05T07:15:00)
