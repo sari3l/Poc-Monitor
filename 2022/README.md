@@ -119,6 +119,56 @@
 - [Live-Hack-CVE/CVE-2022-48195](https://github.com/Live-Hack-CVE/CVE-2022-48195)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-48195">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-48195">
 
 ---
+## CVE-2022-4814 (2022-12-28T14:15:00)
+> Improper Access Control in GitHub repository usememos/memos prior to 0.9.1.
+- [Live-Hack-CVE/CVE-2022-4814](https://github.com/Live-Hack-CVE/CVE-2022-4814)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4814">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4814">
+
+---
+## CVE-2022-4813 (2022-12-28T14:15:00)
+> Insufficient Granularity of Access Control in GitHub repository usememos/memos prior to 0.9.1.
+- [Live-Hack-CVE/CVE-2022-4813](https://github.com/Live-Hack-CVE/CVE-2022-4813)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4813">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4813">
+
+---
+## CVE-2022-4812 (2022-12-28T14:15:00)
+> Comparison of Object References Instead of Object Contents in GitHub repository usememos/memos prior to 0.9.1.
+- [Live-Hack-CVE/CVE-2022-4812](https://github.com/Live-Hack-CVE/CVE-2022-4812)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4812">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4812">
+
+---
+## CVE-2022-4811 (2022-12-28T14:15:00)
+> Improper Authorization in GitHub repository usememos/memos prior to 0.9.1.
+- [Live-Hack-CVE/CVE-2022-4811](https://github.com/Live-Hack-CVE/CVE-2022-4811)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4811">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4811">
+
+---
+## CVE-2022-4810 (2022-12-28T14:15:00)
+> Improper Access Control in GitHub repository usememos/memos prior to 0.9.1.
+- [Live-Hack-CVE/CVE-2022-4810](https://github.com/Live-Hack-CVE/CVE-2022-4810)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4810">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4810">
+
+---
+## CVE-2022-4809 (2022-12-28T14:15:00)
+> Improper Access Control in GitHub repository usememos/memos prior to 0.9.1.
+- [Live-Hack-CVE/CVE-2022-4809](https://github.com/Live-Hack-CVE/CVE-2022-4809)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4809">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4809">
+
+---
+## CVE-2022-4808 (2022-12-28T14:15:00)
+> Improper Privilege Management in GitHub repository usememos/memos prior to 0.9.1.
+- [Live-Hack-CVE/CVE-2022-4808](https://github.com/Live-Hack-CVE/CVE-2022-4808)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4808">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4808">
+
+---
+## CVE-2022-4807 (2022-12-28T14:15:00)
+> Improper Access Control in GitHub repository usememos/memos prior to 0.9.1.
+- [Live-Hack-CVE/CVE-2022-4807](https://github.com/Live-Hack-CVE/CVE-2022-4807)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4807">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4807">
+
+---
+## CVE-2022-4806 (2022-12-28T14:15:00)
+> Improper Access Control in GitHub repository usememos/memos prior to 0.9.1.
+- [Live-Hack-CVE/CVE-2022-4806](https://github.com/Live-Hack-CVE/CVE-2022-4806)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4806">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4806">
+
+---
+## CVE-2022-4805 (2022-12-28T14:15:00)
+> Incorrect Use of Privileged APIs in GitHub repository usememos/memos prior to 0.9.1.
+- [Live-Hack-CVE/CVE-2022-4805](https://github.com/Live-Hack-CVE/CVE-2022-4805)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4805">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4805">
+
+---
 ## CVE-2022-4803 (2022-12-28T14:15:00)
 > Improper Access Control in GitHub repository usememos/memos prior to 0.9.1.
 - [Live-Hack-CVE/CVE-2022-4803](https://github.com/Live-Hack-CVE/CVE-2022-4803)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4803">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4803">
@@ -127,6 +177,16 @@
 ## CVE-2022-4802 (2022-12-28T14:15:00)
 > Improper Authorization in GitHub repository usememos/memos prior to 0.9.1.
 - [Live-Hack-CVE/CVE-2022-4802](https://github.com/Live-Hack-CVE/CVE-2022-4802)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4802">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4802">
+
+---
+## CVE-2022-4801 (2022-12-28T14:15:00)
+> Insufficient Granularity of Access Control in GitHub repository usememos/memos prior to 0.9.1.
+- [Live-Hack-CVE/CVE-2022-4801](https://github.com/Live-Hack-CVE/CVE-2022-4801)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4801">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4801">
+
+---
+## CVE-2022-4800 (2022-12-28T14:15:00)
+> Improper Verification of Source of a Communication Channel in GitHub repository usememos/memos prior to 0.9.1.
+- [Live-Hack-CVE/CVE-2022-4800](https://github.com/Live-Hack-CVE/CVE-2022-4800)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4800">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4800">
 
 ---
 ## CVE-2022-47952 (2023-01-01T06:15:00)
@@ -732,6 +792,11 @@
 ## CVE-2022-46741 (2022-12-07T08:15:00)
 > Out-of-bounds read in gather_tree in PaddlePaddle before 2.4.
 - [Live-Hack-CVE/CVE-2022-46741](https://github.com/Live-Hack-CVE/CVE-2022-46741)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46741">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46741">
+
+---
+## CVE-2022-46740 (2022-12-28T18:15:00)
+> There is a denial of service vulnerability in the Wi-Fi module of the HUAWEI WS7100-20 Smart WiFi Router.Successful exploit could cause a denial of service (DoS) condition.
+- [Live-Hack-CVE/CVE-2022-46740](https://github.com/Live-Hack-CVE/CVE-2022-46740)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46740">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46740">
 
 ---
 ## CVE-2022-46701 (2022-12-15T19:15:00)
@@ -1345,7 +1410,7 @@
 - [Live-Hack-CVE/CVE-2022-46169](https://github.com/Live-Hack-CVE/CVE-2022-46169)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46169">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46169">
 - [Inplex-sys/CVE-2022-46169](https://github.com/Inplex-sys/CVE-2022-46169)	<img alt="forks" src="https://img.shields.io/github/forks/Inplex-sys/CVE-2022-46169">	<img alt="stars" src="https://img.shields.io/github/stars/Inplex-sys/CVE-2022-46169">
 - [Live-Hack-CVE/CVE-2022-46169](https://github.com/Live-Hack-CVE/CVE-2022-46169)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46169">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46169">
-- [sAsPeCt488/CVE-2022-46169-PoC](https://github.com/sAsPeCt488/CVE-2022-46169-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sAsPeCt488/CVE-2022-46169-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sAsPeCt488/CVE-2022-46169-PoC">
+- [sAsPeCt488/CVE-2022-46169](https://github.com/sAsPeCt488/CVE-2022-46169)	<img alt="forks" src="https://img.shields.io/github/forks/sAsPeCt488/CVE-2022-46169">	<img alt="stars" src="https://img.shields.io/github/stars/sAsPeCt488/CVE-2022-46169">
 
 ---
 ## CVE-2022-46168 (2023-01-05T18:15:00)
@@ -1670,6 +1735,11 @@
 - [Live-Hack-CVE/CVE-2022-45917](https://github.com/Live-Hack-CVE/CVE-2022-45917)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45917">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45917">
 - [Live-Hack-CVE/CVE-2022-45915](https://github.com/Live-Hack-CVE/CVE-2022-45915)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45915">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45915">
 - [Live-Hack-CVE/CVE-2022-45910](https://github.com/Live-Hack-CVE/CVE-2022-45910)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45910">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45910">
+
+---
+## CVE-2022-45874 (2022-12-28T18:15:00)
+> Huawei Aslan Children's Watch has an improper authorization vulnerability. Successful exploit could allow the attacker to access certain file.
+- [Live-Hack-CVE/CVE-2022-45874](https://github.com/Live-Hack-CVE/CVE-2022-45874)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45874">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45874">
 
 ---
 ## CVE-2022-45871 (2022-12-13T15:15:00)
@@ -2704,9 +2774,10 @@
 - [Live-Hack-CVE/CVE-2022-44898](https://github.com/Live-Hack-CVE/CVE-2022-44898)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44898">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44898">
 
 ---
-## CVE-2022-44877 ()
-> 
+## CVE-2022-44877 (2023-01-05T23:15:00)
+> RESERVED An issue in the /login/index.php component of Centos Web Panel 7 before v0.9.8.1147 allows unauthenticated attackers to execute arbitrary system commands via crafted HTTP requests.
 - [numanturle/CVE-2022-44877](https://github.com/numanturle/CVE-2022-44877)	<img alt="forks" src="https://img.shields.io/github/forks/numanturle/CVE-2022-44877">	<img alt="stars" src="https://img.shields.io/github/stars/numanturle/CVE-2022-44877">
+- [Live-Hack-CVE/CVE-2022-44877](https://github.com/Live-Hack-CVE/CVE-2022-44877)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44877">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44877">
 
 ---
 ## CVE-2022-44874 (2022-12-13T23:15:00)
@@ -3045,6 +3116,11 @@
 - [Live-Hack-CVE/CVE-2022-44567](https://github.com/Live-Hack-CVE/CVE-2022-44567)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44567">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44567">
 
 ---
+## CVE-2022-44564 (2022-12-28T18:15:00)
+> Huawei Aslan Children's Watch has a path traversal vulnerability. Successful exploitation may allow attackers to access or modify protected system resources.
+- [Live-Hack-CVE/CVE-2022-44564](https://github.com/Live-Hack-CVE/CVE-2022-44564)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44564">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44564">
+
+---
 ## CVE-2022-44562 (2022-11-09T21:15:00)
 > The system framework layer has a vulnerability of serialization/deserialization mismatch. Successful exploitation of this vulnerability may cause privilege escalation.
 - [Live-Hack-CVE/CVE-2022-44562](https://github.com/Live-Hack-CVE/CVE-2022-44562)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44562">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44562">
@@ -3103,6 +3179,36 @@
 ## CVE-2022-44549 (2022-11-09T21:15:00)
 > The LBS module has a vulnerability in geofencing API access. Successful exploitation of this vulnerability may cause third-party apps to access the geofencing APIs without authorization, affecting user confidentiality.
 - [Live-Hack-CVE/CVE-2022-44549](https://github.com/Live-Hack-CVE/CVE-2022-44549)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44549">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44549">
+
+---
+## CVE-2022-44541 (2023-01-06T00:15:00)
+> CVE was unused by HPE.
+- [Live-Hack-CVE/CVE-2022-44541](https://github.com/Live-Hack-CVE/CVE-2022-44541)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44541">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44541">
+
+---
+## CVE-2022-44540 (2023-01-06T00:15:00)
+> CVE was unused by HPE.
+- [Live-Hack-CVE/CVE-2022-44540](https://github.com/Live-Hack-CVE/CVE-2022-44540)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44540">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44540">
+
+---
+## CVE-2022-44539 (2023-01-06T00:15:00)
+> CVE was unused by HPE.
+- [Live-Hack-CVE/CVE-2022-44539](https://github.com/Live-Hack-CVE/CVE-2022-44539)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44539">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44539">
+
+---
+## CVE-2022-44538 (2023-01-06T00:15:00)
+> CVE was unused by HPE.
+- [Live-Hack-CVE/CVE-2022-44538](https://github.com/Live-Hack-CVE/CVE-2022-44538)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44538">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44538">
+
+---
+## CVE-2022-44537 (2023-01-06T00:15:00)
+> CVE was unused by HPE.
+- [Live-Hack-CVE/CVE-2022-44537](https://github.com/Live-Hack-CVE/CVE-2022-44537)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44537">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44537">
+
+---
+## CVE-2022-44536 (2023-01-06T00:15:00)
+> CVE was unused by HPE.
+- [Live-Hack-CVE/CVE-2022-44536](https://github.com/Live-Hack-CVE/CVE-2022-44536)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44536">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44536">
 
 ---
 ## CVE-2022-44488 (2022-12-19T20:15:00)
@@ -7504,6 +7610,11 @@
 - [Live-Hack-CVE/CVE-2022-4158](https://github.com/Live-Hack-CVE/CVE-2022-4158)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4158">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4158">
 
 ---
+## CVE-2022-41579 (2022-12-28T18:15:00)
+> There is an insufficient authentication vulnerability in some Huawei band products. Successful exploit could allow the attacker to spoof then connect to the band.
+- [Live-Hack-CVE/CVE-2022-41579](https://github.com/Live-Hack-CVE/CVE-2022-41579)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41579">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41579">
+
+---
 ## CVE-2022-41578 (2022-10-14T16:15:00)
 > The MPTCP module has an out-of-bounds write vulnerability.Successful exploitation of this vulnerability may cause root privilege escalation attacks implemented by modifying program information.
 - [Live-Hack-CVE/CVE-2022-41578](https://github.com/Live-Hack-CVE/CVE-2022-41578)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41578">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41578">
@@ -11867,6 +11978,11 @@
 ## CVE-2022-39015 (2022-10-11T21:15:00)
 > Under certain conditions, BOE AdminTools/ BOE SDK allows an attacker to access information which would otherwise be restricted.
 - [Live-Hack-CVE/CVE-2022-39015](https://github.com/Live-Hack-CVE/CVE-2022-39015)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39015">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39015">
+
+---
+## CVE-2022-39012 (2022-12-28T18:15:00)
+> Huawei Aslan Children's Watch has an improper input validation vulnerability. Successful exploitation may cause the watch's application service abnormal.
+- [Live-Hack-CVE/CVE-2022-39012](https://github.com/Live-Hack-CVE/CVE-2022-39012)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39012">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39012">
 
 ---
 ## CVE-2022-39010 (2022-09-16T18:15:00)

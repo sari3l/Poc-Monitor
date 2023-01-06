@@ -4601,6 +4601,11 @@
 - [Live-Hack-CVE/CVE-2021-32829](https://github.com/Live-Hack-CVE/CVE-2021-32829)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32829">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32829">
 
 ---
+## CVE-2021-32828 (2023-01-05T23:15:00)
+> The Nuxeo Platform is an open source content management platform for building business applications. In version 11.5.109, the `oauth2` REST API is vulnerable to Reflected Cross-Site Scripting (XSS). This XSS can be escalated to Remote Code Execution (RCE) by levering the automation API.
+- [Live-Hack-CVE/CVE-2021-32828](https://github.com/Live-Hack-CVE/CVE-2021-32828)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32828">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32828">
+
+---
 ## CVE-2021-32824 (2023-01-03T18:15:00)
 > Apache Dubbo is a java based, open source RPC framework. Versions prior to 2.6.10 and 2.7.10 are vulnerable to pre-auth remote code execution via arbitrary bean manipulation in the Telnet handler. The Dubbo main service port can be used to access a Telnet Handler which offers some basic methods to collect information about the providers and methods exposed by the service and it can even allow to shutdown the service. This endpoint is unprotected. Additionally, a provider method can be invoked using the `invoke` handler. This handler uses a safe version of FastJson to process the call arguments. However, the resulting list is later processed with `PojoUtils.realize` which can be used to instantiate arbitrary classes and invoke its setters. Even though FastJson is properly protected with a default blocklist, `PojoUtils.realize` is not, and an attacker can leverage that to achieve remote code execution. Versions 2.6.10 and 2.7.10 contain fixes for this issue.
 - [Live-Hack-CVE/CVE-2021-32824](https://github.com/Live-Hack-CVE/CVE-2021-32824)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32824">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32824">
