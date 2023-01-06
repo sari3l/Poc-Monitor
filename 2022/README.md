@@ -22185,6 +22185,11 @@
 - [Live-Hack-CVE/CVE-2022-3157](https://github.com/Live-Hack-CVE/CVE-2022-3157)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3157">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3157">
 
 ---
+## CVE-2022-3156 (2022-12-27T19:15:00)
+> A remote code execution vulnerability exists in Rockwell Automation Studio 5000 Logix Emulate software. Users are granted elevated permissions on certain product services when the software is installed. Due to this misconfiguration, a malicious user could potentially achieve remote code execution on the targeted software.
+- [Live-Hack-CVE/CVE-2022-3156](https://github.com/Live-Hack-CVE/CVE-2022-3156)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3156">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3156">
+
+---
 ## CVE-2022-3155 (2022-12-22T20:15:00)
 > When saving or opening an email attachment on macOS, Thunderbird did not set attribute com.apple.quarantine on the received file. If the received file was an application and the user attempted to open it, then the application was started immediately without asking the user to confirm. This vulnerability affects Thunderbird < 102.3.
 - [Live-Hack-CVE/CVE-2022-3155](https://github.com/Live-Hack-CVE/CVE-2022-3155)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3155">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3155">

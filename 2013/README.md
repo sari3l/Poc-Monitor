@@ -153,6 +153,11 @@
 - [Live-Hack-CVE/CVE-2013-10006](https://github.com/Live-Hack-CVE/CVE-2013-10006)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-10006">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-10006">
 
 ---
+## CVE-2013-10005 (2022-12-27T22:15:00)
+> The RemoteAddr and LocalAddr methods on the returned net.Conn may call themselves, leading to an infinite loop which will crash the program due to a stack overflow.
+- [Live-Hack-CVE/CVE-2013-10005](https://github.com/Live-Hack-CVE/CVE-2013-10005)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-10005">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-10005">
+
+---
 ## CVE-2013-0900 (2013-02-23T21:55:00)
 > Race condition in the International Components for Unicode (ICU) functionality in Google Chrome before 25.0.1364.97 on Windows and Linux, and before 25.0.1364.99 on Mac OS X, allows remote attackers to cause a denial of service or possibly have unspecified other impact via unknown vectors.
 - [Live-Hack-CVE/CVE-2013-0900](https://github.com/Live-Hack-CVE/CVE-2013-0900)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-0900">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-0900">

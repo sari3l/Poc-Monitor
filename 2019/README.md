@@ -1216,6 +1216,11 @@
 - [Live-Hack-CVE/CVE-2019-2614](https://github.com/Live-Hack-CVE/CVE-2019-2614)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-2614">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-2614">
 
 ---
+## CVE-2019-25099 (2023-01-06T13:15:00)
+> A vulnerability classified as critical was found in Arthmoor QSF-Portal. This vulnerability affects unknown code of the file index.php. The manipulation of the argument a leads to path traversal. The name of the patch is ea4f61e23ecb83247d174bc2e2cbab521c751a7d. It is recommended to apply a patch to fix this issue. VDB-217558 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2019-25099](https://github.com/Live-Hack-CVE/CVE-2019-25099)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25099">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25099">
+
+---
 ## CVE-2019-25098 (2023-01-05T08:15:00)
 > A vulnerability was found in soerennb eXtplorer up to 2.1.12. It has been classified as critical. This affects an unknown part of the file include/archive.php of the component Archive Handler. The manipulation leads to path traversal. Upgrading to version 2.1.13 is able to address this issue. The name of the patch is b8fcb888f4ff5e171c16797a4b075c6c6f50bf46. It is recommended to upgrade the affected component. The identifier VDB-217437 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2019-25098](https://github.com/Live-Hack-CVE/CVE-2019-25098)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25098">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25098">
