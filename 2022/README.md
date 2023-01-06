@@ -137,6 +137,10 @@
 ## CVE-2022-4819 (2022-12-28T21:15:00)
 > A vulnerability was found in HotCRP. It has been rated as problematic. Affected by this issue is some unknown functionality. The manipulation leads to cross site scripting. The attack may be launched remotely. The name of the patch is d4ffdb0ef806453c54ddca7fdda3e5c60356285c. It is recommended to apply a patch to fix this issue. VDB-216998 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-4819](https://github.com/Live-Hack-CVE/CVE-2022-4819)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4819">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4819">
+- [Live-Hack-CVE/CVE-2022-48197](https://github.com/Live-Hack-CVE/CVE-2022-48197)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-48197">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-48197">
+- [ryan412/CVE-2022-48197](https://github.com/ryan412/CVE-2022-48197)	<img alt="forks" src="https://img.shields.io/github/forks/ryan412/CVE-2022-48197">	<img alt="stars" src="https://img.shields.io/github/stars/ryan412/CVE-2022-48197">
+- [Live-Hack-CVE/CVE-2022-48198](https://github.com/Live-Hack-CVE/CVE-2022-48198)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-48198">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-48198">
+- [Live-Hack-CVE/CVE-2022-48195](https://github.com/Live-Hack-CVE/CVE-2022-48195)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-48195">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-48195">
 
 ---
 ## CVE-2022-4814 (2022-12-28T14:15:00)
