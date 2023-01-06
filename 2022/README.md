@@ -111,6 +111,8 @@
 ## CVE-2022-4821 (2022-12-28T21:15:00)
 > A vulnerability classified as problematic was found in FlatPress. This vulnerability affects the function onupload of the file admin/panels/uploader/admin.uploader.php of the component XML File Handler/MD File Handler. The manipulation leads to cross site scripting. The attack can be initiated remotely. The name of the patch is 3cc223dec5260e533a84b5cf5780d3a4fbf21241. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-217000.
 - [Live-Hack-CVE/CVE-2022-4821](https://github.com/Live-Hack-CVE/CVE-2022-4821)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4821">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4821">
+- [Live-Hack-CVE/CVE-2022-48217](https://github.com/Live-Hack-CVE/CVE-2022-48217)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-48217">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-48217">
+- [Live-Hack-CVE/CVE-2022-48216](https://github.com/Live-Hack-CVE/CVE-2022-48216)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-48216">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-48216">
 
 ---
 ## CVE-2022-4820 (2022-12-28T21:15:00)
