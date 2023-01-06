@@ -410,6 +410,11 @@
 - [Live-Hack-CVE/CVE-2018-25057](https://github.com/Live-Hack-CVE/CVE-2018-25057)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-25057">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-25057">
 
 ---
+## CVE-2018-25054 (2022-12-28T12:15:00)
+> A vulnerability was found in shred cilla. It has been classified as problematic. Affected is an unknown function of the file cilla-xample/src/main/webapp/WEB-INF/jsp/view/search.jsp of the component Search Handler. The manipulation of the argument details leads to cross site scripting. It is possible to launch the attack remotely. The name of the patch is d345e6bc7798bd717a583ec7f545ca387819d5c7. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-216960.
+- [Live-Hack-CVE/CVE-2018-25054](https://github.com/Live-Hack-CVE/CVE-2018-25054)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-25054">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-25054">
+
+---
 ## CVE-2018-25050 (2022-12-28T10:15:00)
 > A vulnerability, which was classified as problematic, has been found in Harvest Chosen up to 1.8.6. Affected by this issue is the function AbstractChosen of the file coffee/lib/abstract-chosen.coffee. The manipulation of the argument group_label leads to cross site scripting. The attack may be launched remotely. Upgrading to version 1.8.7 is able to address this issue. The name of the patch is 77fd031d541e77510268d1041ed37798fdd1017e. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-216956.
 - [Live-Hack-CVE/CVE-2018-25050](https://github.com/Live-Hack-CVE/CVE-2018-25050)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-25050">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-25050">

@@ -169,6 +169,16 @@
 - [Live-Hack-CVE/CVE-2014-1705](https://github.com/Live-Hack-CVE/CVE-2014-1705)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-1705">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-1705">
 
 ---
+## CVE-2014-125051 (2023-01-06T17:15:00)
+> A vulnerability was found in himiklab yii2-jqgrid-widget up to 1.0.7. It has been declared as critical. This vulnerability affects the function addSearchOptionsRecursively of the file JqGridAction.php. The manipulation leads to sql injection. Upgrading to version 1.0.8 is able to address this issue. The name of the patch is a117e0f2df729e3ff726968794d9a5ac40e660b9. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-217564.
+- [Live-Hack-CVE/CVE-2014-125051](https://github.com/Live-Hack-CVE/CVE-2014-125051)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125051">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125051">
+
+---
+## CVE-2014-125050 (2023-01-06T17:15:00)
+> A vulnerability was found in ScottTZhang voter-js and classified as critical. Affected by this issue is some unknown functionality of the file main.js. The manipulation leads to sql injection. The name of the patch is 6317c67a56061aeeaeed3cf9ec665fd9983d8044. It is recommended to apply a patch to fix this issue. VDB-217562 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2014-125050](https://github.com/Live-Hack-CVE/CVE-2014-125050)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125050">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125050">
+
+---
 ## CVE-2014-125049 (2023-01-06T13:15:00)
 > ** UNSUPPPORTED WHEN ASSIGNED **** UNSUPPORTED WHEN ASSIGNED ** A vulnerability, which was classified as critical, was found in typcn Blogile. Affected is the function getNav of the file server.js. The manipulation of the argument query leads to sql injection. The name of the patch is cfec31043b562ffefe29fe01af6d3c5ed1bf8f7d. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-217560. NOTE: This vulnerability only affects products that are no longer supported by the maintainer.
 - [Live-Hack-CVE/CVE-2014-125049](https://github.com/Live-Hack-CVE/CVE-2014-125049)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125049">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125049">

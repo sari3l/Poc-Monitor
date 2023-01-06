@@ -1266,6 +1266,11 @@
 - [Live-Hack-CVE/CVE-2019-25093](https://github.com/Live-Hack-CVE/CVE-2019-25093)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25093">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25093">
 
 ---
+## CVE-2019-25092 (2022-12-28T09:15:00)
+> A vulnerability classified as problematic was found in Nakiami Mellivora up to 2.1.x. Affected by this vulnerability is the function print_user_ip_log of the file include/layout/user.inc.php of the component Admin Panel. The manipulation of the argument $entry['ip'] leads to cross site scripting. The attack can be launched remotely. Upgrading to version 2.2.0 is able to address this issue. The name of the patch is e0b6965f8dde608a3d2621617c05695eb406cbb9. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-216955.
+- [Live-Hack-CVE/CVE-2019-25092](https://github.com/Live-Hack-CVE/CVE-2019-25092)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25092">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25092">
+
+---
 ## CVE-2019-25091 (2022-12-27T23:15:00)
 > A vulnerability classified as problematic has been found in nsupdate.info. This affects an unknown part of the file src/nsupdate/settings/base.py of the component CSRF Cookie Handler. The manipulation of the argument CSRF_COOKIE_HTTPONLY leads to cookie without 'httponly' flag. It is possible to initiate the attack remotely. The name of the patch is 60a3fe559c453bc36b0ec3e5dd39c1303640a59a. It is recommended to apply a patch to fix this issue. The identifier VDB-216909 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2019-25091](https://github.com/Live-Hack-CVE/CVE-2019-25091)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25091">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25091">

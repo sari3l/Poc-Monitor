@@ -113,6 +113,11 @@
 - [Live-Hack-CVE/CVE-2022-4860](https://github.com/Live-Hack-CVE/CVE-2022-4860)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4860">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4860">
 
 ---
+## CVE-2022-4823 (2022-12-28T21:15:00)
+> A vulnerability, which was classified as problematic, was found in InSTEDD Nuntium. Affected is an unknown function of the file app/controllers/geopoll_controller.rb. The manipulation of the argument signature leads to observable timing discrepancy. It is possible to launch the attack remotely. The name of the patch is 77236f7fd71a0e2eefeea07f9866b069d612cf0d. It is recommended to apply a patch to fix this issue. VDB-217002 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4823](https://github.com/Live-Hack-CVE/CVE-2022-4823)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4823">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4823">
+
+---
 ## CVE-2022-4822 (2022-12-28T21:15:00)
 > A vulnerability, which was classified as problematic, has been found in FlatPress. This issue affects some unknown processing of the file setup/lib/main.lib.php of the component Setup. The manipulation leads to cross site scripting. The attack may be initiated remotely. The name of the patch is 5f23b4c2eac294cc0ba5e541f83a6f8a26f9fed1. It is recommended to apply a patch to fix this issue. The identifier VDB-217001 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-4822](https://github.com/Live-Hack-CVE/CVE-2022-4822)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4822">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4822">
@@ -163,6 +168,11 @@
 - [ryan412/CVE-2022-48197](https://github.com/ryan412/CVE-2022-48197)	<img alt="forks" src="https://img.shields.io/github/forks/ryan412/CVE-2022-48197">	<img alt="stars" src="https://img.shields.io/github/stars/ryan412/CVE-2022-48197">
 - [Live-Hack-CVE/CVE-2022-48198](https://github.com/Live-Hack-CVE/CVE-2022-48198)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-48198">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-48198">
 - [Live-Hack-CVE/CVE-2022-48195](https://github.com/Live-Hack-CVE/CVE-2022-48195)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-48195">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-48195">
+
+---
+## CVE-2022-4817 (2022-12-28T19:15:00)
+> A vulnerability was found in centic9 jgit-cookbook. It has been declared as problematic. This vulnerability affects unknown code. The manipulation leads to insecure temporary file. The attack can be initiated remotely. The name of the patch is b8cb29b43dc704708d598c60ac1881db7cf8e9c3. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-216988.
+- [Live-Hack-CVE/CVE-2022-4817](https://github.com/Live-Hack-CVE/CVE-2022-4817)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4817">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4817">
 
 ---
 ## CVE-2022-4814 (2022-12-28T14:15:00)
@@ -294,6 +304,21 @@
 ## CVE-2022-47895 (2022-12-22T11:15:00)
 > In JetBrains IntelliJ IDEA before 2022.3.1 the "Validate JSP File" action used the HTTP protocol to download required JAR files.
 - [Live-Hack-CVE/CVE-2022-47895](https://github.com/Live-Hack-CVE/CVE-2022-47895)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47895">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47895">
+
+---
+## CVE-2022-4779 (2022-12-29T00:15:00)
+> StreamX applications from versions 6.02.01 to 6.04.34 are affected by a logic bug that allows to bypass the implemented authentication scheme. StreamX applications using StreamView HTML component with the public web server feature activated are affected.
+- [Live-Hack-CVE/CVE-2022-4779](https://github.com/Live-Hack-CVE/CVE-2022-4779)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4779">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4779">
+
+---
+## CVE-2022-4778 (2022-12-29T00:15:00)
+> StreamX applications from versions 6.02.01 to 6.04.34 are affected by a path traversal vulnerability that allows authenticated users to get unauthorized access to files on the server's filesystem. StreamX applications using StreamView HTML component with the public web server feature activated are affected.
+- [Live-Hack-CVE/CVE-2022-4778](https://github.com/Live-Hack-CVE/CVE-2022-4778)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4778">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4778">
+
+---
+## CVE-2022-4773 (2022-12-28T00:15:00)
+> ** UNSUPPPORTED WHEN ASSIGNED **** UNSUPPORTED WHEN ASSIGNED ** A vulnerability classified as problematic was found in cloudsync. Affected by this vulnerability is the function getItem of the file src/main/java/cloudsync/connector/LocalFilesystemConnector.java. The manipulation leads to path traversal. It is possible to launch the attack on the local host. The name of the patch is 3ad796833398af257c28e0ebeade68518e0e612a. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-216919. NOTE: This vulnerability only affects products that are no longer supported by the maintainer.
+- [Live-Hack-CVE/CVE-2022-4773](https://github.com/Live-Hack-CVE/CVE-2022-4773)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4773">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4773">
 
 ---
 ## CVE-2022-47663 (2023-01-05T16:15:00)
@@ -1449,6 +1474,11 @@
 ## CVE-2022-46177 (2023-01-05T20:15:00)
 > Discourse is an option source discussion platform. Prior to version 2.8.14 on the `stable` branch and version 3.0.0.beta16 on the `beta` and `tests-passed` branches, when a user requests for a password reset link email, then changes their primary email, the old reset email is still valid. When the old reset email is used to reset the password, the Discourse account's primary email would be re-linked to the old email. If the old email address is compromised or has transferred ownership, this leads to an account takeover. This is however mitigated by the SiteSetting `email_token_valid_hours` which is currently 48 hours. Users should upgrade to versions 2.8.14 or 3.0.0.beta15 to receive a patch. As a workaround, lower `email_token_valid_hours ` as needed.
 - [Live-Hack-CVE/CVE-2022-46177](https://github.com/Live-Hack-CVE/CVE-2022-46177)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46177">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46177">
+
+---
+## CVE-2022-46172 (2022-12-28T07:15:00)
+> authentik is an open-source Identity provider focused on flexibility and versatility. In versions prior to 2022.10.4, and 2022.11.4, any authenticated user can create an arbitrary number of accounts through the default flows. This would circumvent any policy in a situation where it is undesirable for users to create new accounts by themselves. This may also affect other applications as these new basic accounts would exist throughout the SSO infrastructure. By default the newly created accounts cannot be logged into as no password reset exists by default. However password resets are likely to be enabled by most installations. This vulnerability pertains to the user context used in the default-user-settings-flow, /api/v3/flows/instances/default-user-settings-flow/execute/. This issue has been fixed in versions 2022.10.4 and 2022.11.4.
+- [Live-Hack-CVE/CVE-2022-46172](https://github.com/Live-Hack-CVE/CVE-2022-46172)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46172">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46172">
 
 ---
 ## CVE-2022-46171 (2022-12-23T14:15:00)
@@ -3814,6 +3844,11 @@
 > Rapid Software LLC Rapid SCADA 5.8.4 is vulnerable to Cross Site Scripting (XSS).
 - [Live-Hack-CVE/CVE-2022-44153](https://github.com/Live-Hack-CVE/CVE-2022-44153)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44153">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44153">
 - [Live-Hack-CVE/CVE-2022-44153](https://github.com/Live-Hack-CVE/CVE-2022-44153)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44153">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44153">
+
+---
+## CVE-2022-44149 (2023-01-06T17:15:00)
+> The web service on Nexxt Amp300 ARN02304U8 42.103.1.5095 devices allows remote OS command execution by placing &telnetd in the JSON host field to the ping feature of the goform/sysTools component. Authentication is required.
+- [Live-Hack-CVE/CVE-2022-44149](https://github.com/Live-Hack-CVE/CVE-2022-44149)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44149">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44149">
 
 ---
 ## CVE-2022-44137 (2022-12-30T01:15:00)
@@ -6844,9 +6879,15 @@
 - [Live-Hack-CVE/CVE-2022-41968](https://github.com/Live-Hack-CVE/CVE-2022-41968)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41968">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41968">
 
 ---
+## CVE-2022-41967 (2022-12-28T00:15:00)
+> Dragonfly is a Java runtime dependency management library. Dragonfly v0.3.0-SNAPSHOT does not configure DocumentBuilderFactory to prevent XML external entity (XXE) attacks. This issue is patched in 0.3.1-SNAPSHOT. As a workaround, since Dragonfly only parses XML `SNAPSHOT` versions are being resolved, this vulnerability may be avoided by not trying to resolve `SNAPSHOT` versions.
+- [Live-Hack-CVE/CVE-2022-41967](https://github.com/Live-Hack-CVE/CVE-2022-41967)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41967">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41967">
+
+---
 ## CVE-2022-41966 (2022-12-28T00:15:00)
 > XStream serializes Java objects to XML and back again. Versions prior to 1.4.20 may allow a remote attacker to terminate the application with a stack overflow error, resulting in a denial of service only via manipulation the processed input stream. The attack uses the hash code implementation for collections and maps to force recursive hash calculation causing a stack overflow. This issue is patched in version 1.4.20 which handles the stack overflow and raises an InputManipulationException instead. A potential workaround for users who only use HashMap or HashSet and whose XML refers these only as default map or set, is to change the default implementation of java.util.Map and java.util per the code example in the referenced advisory. However, this implies that your application does not care about the implementation of the map and all elements are comparable.
 - [111ddea/Xstream_cve-2022-41966](https://github.com/111ddea/Xstream_cve-2022-41966)	<img alt="forks" src="https://img.shields.io/github/forks/111ddea/Xstream_cve-2022-41966">	<img alt="stars" src="https://img.shields.io/github/stars/111ddea/Xstream_cve-2022-41966">
+- [Live-Hack-CVE/CVE-2022-41966](https://github.com/Live-Hack-CVE/CVE-2022-41966)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41966">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41966">
 
 ---
 ## CVE-2022-41964 (2022-12-16T18:15:00)
@@ -27221,6 +27262,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-23556 (2022-12-22T19:15:00)
 > CodeIgniter is a PHP full-stack web framework. This vulnerability may allow attackers to spoof their IP address when the server is behind a reverse proxy. This issue has been patched, please upgrade to version 4.2.11 or later, and configure `Config\App::$proxyIPs`. As a workaround, do not use `$request->getIPAddress()`.
 - [Live-Hack-CVE/CVE-2022-23556](https://github.com/Live-Hack-CVE/CVE-2022-23556)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23556">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23556">
+
+---
+## CVE-2022-23555 (2022-12-28T01:15:00)
+> authentik is an open-source Identity Provider focused on flexibility and versatility. Versions prior to 2022.11.4 and 2022.10.4 are vulnerable to Improper Authentication. Token reuse in invitation URLs leads to access control bypass via the use of a different enrollment flow than in the one provided. The vulnerability allows an attacker that knows different invitation flows names (e.g. `enrollment-invitation-test` and `enrollment-invitation-admin`) via either different invite links or via brute forcing to signup via a single invitation url for any valid invite link received (it can even be a url for a third flow as long as it's a valid invite) as the token used in the `Invitations` section of the Admin interface does NOT change when a different `enrollment flow` is selected via the interface and it is NOT bound to the selected flow, so it will be valid for any flow when used. This issue is patched in authentik 2022.11.4,2022.10.4 and 2022.12.0. Only configurations that use invitations and have multiple enrollment flows with invitation stages that grant different permissions are affected. The default configuration is not vulnerable, and neither are configurations with a single enrollment flow. As a workaround, fixed data can be added to invitations which can be checked in the flow to deny requests. Alternatively, an identifier with high entropy (like a UUID) can be used as flow slug, mitigating the attack vector by exponentially decreasing the possibility of discovering other flows.
+- [Live-Hack-CVE/CVE-2022-23555](https://github.com/Live-Hack-CVE/CVE-2022-23555)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23555">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23555">
 
 ---
 ## CVE-2022-23549 (2023-01-05T19:15:00)

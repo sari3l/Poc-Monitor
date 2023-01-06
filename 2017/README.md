@@ -480,6 +480,11 @@
 - [Live-Hack-CVE/CVE-2017-20155](https://github.com/Live-Hack-CVE/CVE-2017-20155)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20155">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20155">
 
 ---
+## CVE-2017-20150 (2022-12-28T19:15:00)
+> A vulnerability was found in challenge website. It has been rated as critical. This issue affects some unknown processing. The manipulation leads to sql injection. The name of the patch is f1644b1d3502e5aa5284f31ea80d2623817f4d42. It is recommended to apply a patch to fix this issue. The identifier VDB-216989 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2017-20150](https://github.com/Live-Hack-CVE/CVE-2017-20150)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20150">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20150">
+
+---
 ## CVE-2017-20146 (2022-12-27T22:15:00)
 > Usage of the CORS handler may apply improper CORS headers, allowing the requester to explicitly control the value of the Access-Control-Allow-Origin header, which bypasses the expected behavior of the Same Origin Policy.
 - [Live-Hack-CVE/CVE-2017-20146](https://github.com/Live-Hack-CVE/CVE-2017-20146)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20146">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20146">

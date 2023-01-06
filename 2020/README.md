@@ -854,6 +854,11 @@
 - [jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041](https://github.com/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041)	<img alt="forks" src="https://img.shields.io/github/forks/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041">	<img alt="stars" src="https://img.shields.io/github/stars/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041">
 
 ---
+## CVE-2020-36643 (2023-01-06T17:15:00)
+> A vulnerability was found in intgr uqm-wasm. It has been classified as critical. This affects the function log_displayBox in the library sc2/src/libs/log/msgbox_macosx.m. The manipulation leads to format string. The name of the patch is 1d5cbf3350a02c423ad6bef6dfd5300d38aa828f. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-217563.
+- [Live-Hack-CVE/CVE-2020-36643](https://github.com/Live-Hack-CVE/CVE-2020-36643)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36643">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36643">
+
+---
 ## CVE-2020-36642 (2023-01-06T11:15:00)
 > A vulnerability was found in trampgeek jobe up to 1.6.x and classified as critical. This issue affects the function run_in_sandbox of the file application/libraries/LanguageTask.php. The manipulation leads to command injection. Upgrading to version 1.7.0 is able to address this issue. The name of the patch is 8f43daf50c943b98eaf0c542da901a4a16e85b02. It is recommended to upgrade the affected component. The identifier VDB-217553 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2020-36642](https://github.com/Live-Hack-CVE/CVE-2020-36642)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36642">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36642">
@@ -976,6 +981,16 @@
 ## CVE-2020-36564 (2022-12-27T22:15:00)
 > Due to improper validation of caller input, validation is silently disabled if the provided expected token is malformed, causing any user supplied token to be considered valid.
 - [Live-Hack-CVE/CVE-2020-36564](https://github.com/Live-Hack-CVE/CVE-2020-36564)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36564">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36564">
+
+---
+## CVE-2020-36563 (2022-12-28T03:15:00)
+> XML Digital Signatures generated and validated using this package use SHA-1, which may allow an attacker to craft inputs which cause hash collisions depending on their control over the input.
+- [Live-Hack-CVE/CVE-2020-36563](https://github.com/Live-Hack-CVE/CVE-2020-36563)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36563">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36563">
+
+---
+## CVE-2020-36562 (2022-12-28T03:15:00)
+> Due to unchecked type assertions, maliciously crafted messages can cause panics, which may be used as a denial of service vector.
+- [Live-Hack-CVE/CVE-2020-36562](https://github.com/Live-Hack-CVE/CVE-2020-36562)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36562">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36562">
 
 ---
 ## CVE-2020-36561 (2022-12-27T22:15:00)
