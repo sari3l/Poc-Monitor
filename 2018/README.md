@@ -425,6 +425,7 @@
 ## CVE-2018-25031 (2022-03-11T07:15:00)
 > Swagger UI before 4.1.3 could allow a remote attacker to conduct spoofing attacks. By persuading a victim to open a crafted URL, an attacker could exploit this vulnerability to display remote OpenAPI definitions.
 - [afine-com/CVE-2018-25031](https://github.com/afine-com/CVE-2018-25031)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2018-25031">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2018-25031">
+- [kriso4os/CVE-2018-25031](https://github.com/kriso4os/CVE-2018-25031)	<img alt="forks" src="https://img.shields.io/github/forks/kriso4os/CVE-2018-25031">	<img alt="stars" src="https://img.shields.io/github/stars/kriso4os/CVE-2018-25031">
 
 ---
 ## CVE-2018-21010 (2019-09-05T13:15:00)
