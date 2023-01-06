@@ -6767,6 +6767,11 @@
 - [Live-Hack-CVE/CVE-2022-41968](https://github.com/Live-Hack-CVE/CVE-2022-41968)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41968">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41968">
 
 ---
+## CVE-2022-41966 (2022-12-28T00:15:00)
+> XStream serializes Java objects to XML and back again. Versions prior to 1.4.20 may allow a remote attacker to terminate the application with a stack overflow error, resulting in a denial of service only via manipulation the processed input stream. The attack uses the hash code implementation for collections and maps to force recursive hash calculation causing a stack overflow. This issue is patched in version 1.4.20 which handles the stack overflow and raises an InputManipulationException instead. A potential workaround for users who only use HashMap or HashSet and whose XML refers these only as default map or set, is to change the default implementation of java.util.Map and java.util per the code example in the referenced advisory. However, this implies that your application does not care about the implementation of the map and all elements are comparable.
+- [111ddea/Xstream_cve-2022-41966](https://github.com/111ddea/Xstream_cve-2022-41966)	<img alt="forks" src="https://img.shields.io/github/forks/111ddea/Xstream_cve-2022-41966">	<img alt="stars" src="https://img.shields.io/github/stars/111ddea/Xstream_cve-2022-41966">
+
+---
 ## CVE-2022-41964 (2022-12-16T18:15:00)
 > BigBlueButton is an open source web conferencing system. This vulnerability only affects release candidates of BigBlueButton 2.4. The attacker can start a subscription for poll results before starting an anonymous poll, and use this subscription to see individual responses in the anonymous poll. The attacker had to be a meeting presenter. This issue is patched in version 2.4.0. There are no workarounds.
 - [Live-Hack-CVE/CVE-2022-41964](https://github.com/Live-Hack-CVE/CVE-2022-41964)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41964">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41964">
