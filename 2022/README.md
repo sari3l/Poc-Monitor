@@ -93,6 +93,11 @@
 - [Live-Hack-CVE/CVE-2022-4865](https://github.com/Live-Hack-CVE/CVE-2022-4865)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4865">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4865">
 
 ---
+## CVE-2022-4822 (2022-12-28T21:15:00)
+> A vulnerability, which was classified as problematic, has been found in FlatPress. This issue affects some unknown processing of the file setup/lib/main.lib.php of the component Setup. The manipulation leads to cross site scripting. The attack may be initiated remotely. The name of the patch is 5f23b4c2eac294cc0ba5e541f83a6f8a26f9fed1. It is recommended to apply a patch to fix this issue. The identifier VDB-217001 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4822](https://github.com/Live-Hack-CVE/CVE-2022-4822)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4822">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4822">
+
+---
 ## CVE-2022-48217 (2023-01-04T19:15:00)
 > ** DISPUTED ** The tf_remapper_node component 1.1.1 for Robot Operating System (ROS) allows attackers, who control the source code of a different node in the same ROS application, to change a robot's behavior. This occurs because a topic name depends on the attacker-controlled old_tf_topic_name and/or new_tf_topic_name parameter. NOTE: the vendor's position is "it is the responsibility of the programmer to make sure that only known and required parameters are set and unexpected parameters are not."
 - [Live-Hack-CVE/CVE-2022-48217](https://github.com/Live-Hack-CVE/CVE-2022-48217)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-48217">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-48217">
@@ -101,6 +106,16 @@
 ## CVE-2022-48216 (2023-01-04T16:15:00)
 > Uniswap Universal Router before 1.1.0 mishandles reentrancy. This would have allowed theft of funds.
 - [Live-Hack-CVE/CVE-2022-48216](https://github.com/Live-Hack-CVE/CVE-2022-48216)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-48216">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-48216">
+
+---
+## CVE-2022-4821 (2022-12-28T21:15:00)
+> A vulnerability classified as problematic was found in FlatPress. This vulnerability affects the function onupload of the file admin/panels/uploader/admin.uploader.php of the component XML File Handler/MD File Handler. The manipulation leads to cross site scripting. The attack can be initiated remotely. The name of the patch is 3cc223dec5260e533a84b5cf5780d3a4fbf21241. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-217000.
+- [Live-Hack-CVE/CVE-2022-4821](https://github.com/Live-Hack-CVE/CVE-2022-4821)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4821">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4821">
+
+---
+## CVE-2022-4820 (2022-12-28T21:15:00)
+> A vulnerability classified as problematic has been found in FlatPress. This affects an unknown part of the file admin/panels/entry/admin.entry.list.php of the component Admin Area. The manipulation leads to cross site scripting. It is possible to initiate the attack remotely. The name of the patch is 229752b51025e678370298284d42f8ebb231f67f. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-216999.
+- [Live-Hack-CVE/CVE-2022-4820](https://github.com/Live-Hack-CVE/CVE-2022-4820)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4820">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4820">
 
 ---
 ## CVE-2022-48198 (2023-01-01T07:15:00)
@@ -117,6 +132,11 @@
 ## CVE-2022-48195 (2022-12-31T01:15:00)
 > An issue was discovered in Mellium mellium.im/sasl before 0.3.1. When performing SCRAM-based SASL authentication, if the remote end advertises support for channel binding, no random nonce is generated (instead, the nonce is empty). This causes authentication to fail in the best case, but (if paired with a remote end that does not validate the length of the nonce) could lead to insufficient randomness being used during authentication.
 - [Live-Hack-CVE/CVE-2022-48195](https://github.com/Live-Hack-CVE/CVE-2022-48195)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-48195">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-48195">
+
+---
+## CVE-2022-4819 (2022-12-28T21:15:00)
+> A vulnerability was found in HotCRP. It has been rated as problematic. Affected by this issue is some unknown functionality. The manipulation leads to cross site scripting. The attack may be launched remotely. The name of the patch is d4ffdb0ef806453c54ddca7fdda3e5c60356285c. It is recommended to apply a patch to fix this issue. VDB-216998 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4819](https://github.com/Live-Hack-CVE/CVE-2022-4819)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4819">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4819">
 
 ---
 ## CVE-2022-4814 (2022-12-28T14:15:00)
@@ -981,6 +1001,11 @@
 > mesinkasir Bangresto 1.0 is vulnberable to SQL Injection via the itemqty%5B%5D parameter.
 - [Live-Hack-CVE/CVE-2022-46443](https://github.com/Live-Hack-CVE/CVE-2022-46443)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46443">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46443">
 - [Live-Hack-CVE/CVE-2022-46443](https://github.com/Live-Hack-CVE/CVE-2022-46443)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46443">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46443">
+
+---
+## CVE-2022-46442 (2022-12-27T22:15:00)
+> dedecms <=V5.7.102 is vulnerable to SQL Injection. In sys_ sql_ n query.php there are no restrictions on the sql query.
+- [Live-Hack-CVE/CVE-2022-46442](https://github.com/Live-Hack-CVE/CVE-2022-46442)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46442">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46442">
 
 ---
 ## CVE-2022-4644 (2022-12-22T01:15:00)
@@ -2786,9 +2811,10 @@
 - [Live-Hack-CVE/CVE-2022-44874](https://github.com/Live-Hack-CVE/CVE-2022-44874)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44874">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44874">
 
 ---
-## CVE-2022-44870 ()
-> 
+## CVE-2022-44870 (2023-01-06T03:15:00)
+> A reflected cross-site scripting (XSS) vulnerability in maccms10 v2022.1000.3032 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Name parameter under the AD Management module.
 - [Cedric1314/CVE-2022-44870](https://github.com/Cedric1314/CVE-2022-44870)	<img alt="forks" src="https://img.shields.io/github/forks/Cedric1314/CVE-2022-44870">	<img alt="stars" src="https://img.shields.io/github/stars/Cedric1314/CVE-2022-44870">
+- [Live-Hack-CVE/CVE-2022-44870](https://github.com/Live-Hack-CVE/CVE-2022-44870)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44870">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44870">
 
 ---
 ## CVE-2022-44832 (2022-12-14T15:15:00)
@@ -5178,6 +5204,11 @@
 - [Live-Hack-CVE/CVE-2022-42985](https://github.com/Live-Hack-CVE/CVE-2022-42985)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42985">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42985">
 - [Live-Hack-CVE/CVE-2022-42982](https://github.com/Live-Hack-CVE/CVE-2022-42982)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42982">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42982">
 - [Live-Hack-CVE/CVE-2022-42989](https://github.com/Live-Hack-CVE/CVE-2022-42989)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42989">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42989">
+
+---
+## CVE-2022-42979 (2023-01-06T04:15:00)
+> Information disclosure due to an insecure hostname validation in the RYDE application 5.8.43 for Android and iOS allows attackers to take over an account via a deep link.
+- [Live-Hack-CVE/CVE-2022-42979](https://github.com/Live-Hack-CVE/CVE-2022-42979)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42979">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42979">
 
 ---
 ## CVE-2022-42977 (2022-11-15T01:15:00)
@@ -10424,6 +10455,11 @@
 ## CVE-2022-4005 (2022-12-12T18:15:00)
 > The Donation Button WordPress plugin through 4.0.0 does not sanitize and escapes some parameters, which could allow users with a role as low as Contributor to perform Cross-Site Scripting attacks.
 - [Live-Hack-CVE/CVE-2022-4005](https://github.com/Live-Hack-CVE/CVE-2022-4005)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4005">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4005">
+
+---
+## CVE-2022-40049 (2023-01-06T03:15:00)
+> SQL injection vulnerability in sourcecodester Theme Park Ticketing System 1.0 allows remote attackers to view sensitive information via the id parameter to the /tpts/manage_user.php page.
+- [Live-Hack-CVE/CVE-2022-40049](https://github.com/Live-Hack-CVE/CVE-2022-40049)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40049">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40049">
 
 ---
 ## CVE-2022-4004 (2022-12-12T18:15:00)
@@ -25832,6 +25868,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-25926 (2023-01-04T18:15:00)
 > Versions of the package window-control before 1.4.5 are vulnerable to Command Injection via the sendKeys function, due to improper input sanitization.
 - [Live-Hack-CVE/CVE-2022-25926](https://github.com/Live-Hack-CVE/CVE-2022-25926)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25926">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25926">
+
+---
+## CVE-2022-25923 (2023-01-06T05:15:00)
+> Versions of the package exec-local-bin before 1.2.0 are vulnerable to Command Injection via the theProcess() functionality due to improper user-input sanitization.
+- [Live-Hack-CVE/CVE-2022-25923](https://github.com/Live-Hack-CVE/CVE-2022-25923)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25923">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25923">
 
 ---
 ## CVE-2022-2592 (2022-10-17T16:15:00)

@@ -1037,6 +1037,11 @@
 - [Live-Hack-CVE/CVE-2021-42948](https://github.com/Live-Hack-CVE/CVE-2021-42948)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42948">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42948">
 
 ---
+## CVE-2021-4291 (2022-12-27T23:15:00)
+> A vulnerability was found in OpenMRS Admin UI Module up to 1.5.x. It has been declared as problematic. This vulnerability affects unknown code of the file omod/src/main/webapp/pages/metadata/locations/location.gsp. The manipulation leads to cross site scripting. The attack can be initiated remotely. Upgrading to version 1.6.0 is able to address this issue. The name of the patch is a7eefb5f69f6c50a3bffcb138bb8ea57cb41a9b6. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-216916.
+- [Live-Hack-CVE/CVE-2021-4291](https://github.com/Live-Hack-CVE/CVE-2021-4291)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4291">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4291">
+
+---
 ## CVE-2021-4287 (2022-12-27T11:15:00)
 > A vulnerability, which was classified as problematic, was found in ReFirm Labs binwalk up to 2.3.2. Affected is an unknown function of the file src/binwalk/modules/extractor.py of the component Archive Extraction Handler. The manipulation leads to symlink following. It is possible to launch the attack remotely. Upgrading to version 2.3.3 is able to address this issue. The name of the patch is fa0c0bd59b8588814756942fe4cb5452e76c1dcd. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-216876.
 - [Live-Hack-CVE/CVE-2021-4287](https://github.com/Live-Hack-CVE/CVE-2021-4287)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4287">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4287">
@@ -1253,6 +1258,13 @@
 - [Live-Hack-CVE/CVE-2021-42392](https://github.com/Live-Hack-CVE/CVE-2021-42392)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42392">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42392">
 
 ---
+## CVE-2021-4239 (2022-12-27T22:15:00)
+> The Noise protocol implementation suffers from weakened cryptographic security after encrypting 2^64 messages, and a potential denial of service attack. After 2^64 (~18.4 quintillion) messages are encrypted with the Encrypt function, the nonce counter will wrap around, causing multiple messages to be encrypted with the same key and nonce. In a separate issue, the Decrypt function increments the nonce state even when it fails to decrypt a message. If an attacker can provide an invalid input to the Decrypt function, this will cause the nonce state to desynchronize between the peers, resulting in a failure to encrypt all subsequent messages.
+- [Live-Hack-CVE/CVE-2021-4239](https://github.com/Live-Hack-CVE/CVE-2021-4239)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4239">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4239">
+- [Live-Hack-CVE/CVE-2021-42392](https://github.com/Live-Hack-CVE/CVE-2021-42392)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42392">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42392">
+- [cybersecurityworks553/CVE-2021-42392-Detect](https://github.com/cybersecurityworks553/CVE-2021-42392-Detect)	<img alt="forks" src="https://img.shields.io/github/forks/cybersecurityworks553/CVE-2021-42392-Detect">	<img alt="stars" src="https://img.shields.io/github/stars/cybersecurityworks553/CVE-2021-42392-Detect">
+
+---
 ## CVE-2021-42387 (2022-03-14T23:15:00)
 > Heap out-of-bounds read in Clickhouse's LZ4 compression codec when parsing a malicious query. As part of the LZ4::decompressImpl() loop, a 16-bit unsigned user-supplied value ('offset') is read from the compressed data. The offset is later used in the length of a copy operation, without checking the upper bounds of the source of the copy operation.
 - [Live-Hack-CVE/CVE-2021-42387](https://github.com/Live-Hack-CVE/CVE-2021-42387)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42387">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42387">
@@ -1279,6 +1291,11 @@
 > Web Sockets do not execute any AuthenticateMethod methods which may be set, leading to a nil pointer dereference if the returned UserData pointer is assumed to be non-nil, or authentication bypass. This issue only affects WebSockets with an AuthenticateMethod hook. Request handlers that do not explicitly use WebSockets are not vulnerable.
 - [Live-Hack-CVE/CVE-2021-4236](https://github.com/Live-Hack-CVE/CVE-2021-4236)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4236">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4236">
 - [simonecris/CVE-2021-42362-PoC](https://github.com/simonecris/CVE-2021-42362-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/simonecris/CVE-2021-42362-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/simonecris/CVE-2021-42362-PoC">
+
+---
+## CVE-2021-4235 (2022-12-27T22:15:00)
+> Due to unbounded alias chasing, a maliciously crafted YAML file can cause the system to consume significant system resources. If parsing user input, this may be used as a denial of service vector.
+- [Live-Hack-CVE/CVE-2021-4235](https://github.com/Live-Hack-CVE/CVE-2021-4235)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4235">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4235">
 
 ---
 ## CVE-2021-42340 (2021-10-14T20:15:00)

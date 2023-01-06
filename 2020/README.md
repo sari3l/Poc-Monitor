@@ -859,6 +859,11 @@
 - [Live-Hack-CVE/CVE-2020-36639](https://github.com/Live-Hack-CVE/CVE-2020-36639)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36639">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36639">
 
 ---
+## CVE-2020-36636 (2022-12-27T23:15:00)
+> A vulnerability classified as problematic has been found in OpenMRS Admin UI Module up to 1.4.x. Affected is the function sendErrorMessage of the file omod/src/main/java/org/openmrs/module/adminui/page/controller/systemadmin/accounts/AccountPageController.java of the component Account Setup Handler. The manipulation leads to cross site scripting. It is possible to launch the attack remotely. Upgrading to version 1.5.0 is able to address this issue. The name of the patch is 702fbfdac7c4418f23bb5f6452482b4a88020061. It is recommended to upgrade the affected component. VDB-216918 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2020-36636](https://github.com/Live-Hack-CVE/CVE-2020-36636)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36636">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36636">
+
+---
 ## CVE-2020-36632 (2022-12-25T20:15:00)
 > A vulnerability, which was classified as critical, was found in hughsk flat up to 5.0.0. This affects the function unflatten of the file index.js. The manipulation leads to improperly controlled modification of object prototype attributes ('prototype pollution'). It is possible to initiate the attack remotely. Upgrading to version 5.0.1 is able to address this issue. The name of the patch is 20ef0ef55dfa028caddaedbcb33efbdb04d18e13. It is recommended to upgrade the affected component. The identifier VDB-216777 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2020-36632](https://github.com/Live-Hack-CVE/CVE-2020-36632)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36632">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36632">
@@ -931,6 +936,21 @@
 ## CVE-2020-36600 (2022-09-16T18:15:00)
 > Out-of-bounds write vulnerability in the power consumption module. Successful exploitation of this vulnerability may cause the system to restart.
 - [Live-Hack-CVE/CVE-2020-36600](https://github.com/Live-Hack-CVE/CVE-2020-36600)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36600">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36600">
+
+---
+## CVE-2020-36569 (2022-12-27T22:15:00)
+> Authentication is globally bypassed in github.com/nanobox-io/golang-nanoauth between v0.0.0-20160722212129-ac0cc4484ad4 and v0.0.0-20200131131040-063a3fb69896 if ListenAndServe is called with an empty token.
+- [Live-Hack-CVE/CVE-2020-36569](https://github.com/Live-Hack-CVE/CVE-2020-36569)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36569">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36569">
+
+---
+## CVE-2020-36564 (2022-12-27T22:15:00)
+> Due to improper validation of caller input, validation is silently disabled if the provided expected token is malformed, causing any user supplied token to be considered valid.
+- [Live-Hack-CVE/CVE-2020-36564](https://github.com/Live-Hack-CVE/CVE-2020-36564)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36564">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36564">
+
+---
+## CVE-2020-36561 (2022-12-27T22:15:00)
+> Due to improper path santization, archives containing relative file paths can cause files to be written (or overwritten) outside of the target directory.
+- [Live-Hack-CVE/CVE-2020-36561](https://github.com/Live-Hack-CVE/CVE-2020-36561)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36561">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36561">
 
 ---
 ## CVE-2020-36521 (2022-09-23T19:15:00)
