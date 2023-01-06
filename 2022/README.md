@@ -103,6 +103,16 @@
 - [Live-Hack-CVE/CVE-2022-4865](https://github.com/Live-Hack-CVE/CVE-2022-4865)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4865">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4865">
 
 ---
+## CVE-2022-4861 (2022-12-30T14:15:00)
+> Incorrect implementation in authentication protocol in M-Files Client before 22.5.11356.0 allows high privileged user to get other users tokens to another resource.
+- [Live-Hack-CVE/CVE-2022-4861](https://github.com/Live-Hack-CVE/CVE-2022-4861)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4861">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4861">
+
+---
+## CVE-2022-4860 (2022-12-30T12:15:00)
+> A vulnerability was found in KBase Metrics. It has been classified as critical. This affects the function upload_user_data of the file source/daily_cron_jobs/methods_upload_user_stats.py. The manipulation leads to sql injection. The name of the patch is 959dfb6b05991e30b0fa972a1ecdcaae8e1dae6d. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-217059.
+- [Live-Hack-CVE/CVE-2022-4860](https://github.com/Live-Hack-CVE/CVE-2022-4860)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4860">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4860">
+
+---
 ## CVE-2022-4822 (2022-12-28T21:15:00)
 > A vulnerability, which was classified as problematic, has been found in FlatPress. This issue affects some unknown processing of the file setup/lib/main.lib.php of the component Setup. The manipulation leads to cross site scripting. The attack may be initiated remotely. The name of the patch is 5f23b4c2eac294cc0ba5e541f83a6f8a26f9fed1. It is recommended to apply a patch to fix this issue. The identifier VDB-217001 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-4822](https://github.com/Live-Hack-CVE/CVE-2022-4822)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4822">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4822">
@@ -31681,6 +31691,8 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Chris01s/CVE-2022-0739](https://github.com/Chris01s/CVE-2022-0739)	<img alt="forks" src="https://img.shields.io/github/forks/Chris01s/CVE-2022-0739">	<img alt="stars" src="https://img.shields.io/github/stars/Chris01s/CVE-2022-0739">
 - [BKreisel/CVE-2022-0739](https://github.com/BKreisel/CVE-2022-0739)	<img alt="forks" src="https://img.shields.io/github/forks/BKreisel/CVE-2022-0739">	<img alt="stars" src="https://img.shields.io/github/stars/BKreisel/CVE-2022-0739">
 - [Ki11i0n4ir3/CVE-2022-0739](https://github.com/Ki11i0n4ir3/CVE-2022-0739)	<img alt="forks" src="https://img.shields.io/github/forks/Ki11i0n4ir3/CVE-2022-0739">	<img alt="stars" src="https://img.shields.io/github/stars/Ki11i0n4ir3/CVE-2022-0739">
+- [viardant/CVE-2022-0739](https://github.com/viardant/CVE-2022-0739)	<img alt="forks" src="https://img.shields.io/github/forks/viardant/CVE-2022-0739">	<img alt="stars" src="https://img.shields.io/github/stars/viardant/CVE-2022-0739">
+- [hadrian3689/wp_bookingpress_1.0.11](https://github.com/hadrian3689/wp_bookingpress_1.0.11)	<img alt="forks" src="https://img.shields.io/github/forks/hadrian3689/wp_bookingpress_1.0.11">	<img alt="stars" src="https://img.shields.io/github/stars/hadrian3689/wp_bookingpress_1.0.11">
 
 ---
 ## CVE-2022-0731 (2022-02-23T19:15:00)
