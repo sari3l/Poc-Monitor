@@ -2838,6 +2838,7 @@
 > RESERVED An issue in the /login/index.php component of Centos Web Panel 7 before v0.9.8.1147 allows unauthenticated attackers to execute arbitrary system commands via crafted HTTP requests.
 - [numanturle/CVE-2022-44877](https://github.com/numanturle/CVE-2022-44877)	<img alt="forks" src="https://img.shields.io/github/forks/numanturle/CVE-2022-44877">	<img alt="stars" src="https://img.shields.io/github/stars/numanturle/CVE-2022-44877">
 - [Live-Hack-CVE/CVE-2022-44877](https://github.com/Live-Hack-CVE/CVE-2022-44877)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44877">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44877">
+- [komomon/CVE-2022-44877-RCE](https://github.com/komomon/CVE-2022-44877-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/komomon/CVE-2022-44877-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/komomon/CVE-2022-44877-RCE">
 
 ---
 ## CVE-2022-44874 (2022-12-13T23:15:00)
