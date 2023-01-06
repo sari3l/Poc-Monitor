@@ -375,6 +375,11 @@
 - [forlin/CVE-2018-2628](https://github.com/forlin/CVE-2018-2628)	<img alt="forks" src="https://img.shields.io/github/forks/forlin/CVE-2018-2628">	<img alt="stars" src="https://img.shields.io/github/stars/forlin/CVE-2018-2628">
 
 ---
+## CVE-2018-25066 (2023-01-06T11:15:00)
+> A vulnerability was found in PeterMu nodebatis up to 2.1.x. It has been classified as critical. Affected is an unknown function. The manipulation leads to sql injection. Upgrading to version 2.2.0 is able to address this issue. The name of the patch is 6629ff5b7e3d62ad8319007a54589ec1f62c7c35. It is recommended to upgrade the affected component. VDB-217554 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2018-25066](https://github.com/Live-Hack-CVE/CVE-2018-25066)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-25066">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-25066">
+
+---
 ## CVE-2018-25065 (2023-01-05T10:15:00)
 > A vulnerability was found in Wikimedia mediawiki-extensions-I18nTags and classified as problematic. This issue affects some unknown processing of the file I18nTags_body.php of the component Unlike Parser. The manipulation leads to cross site scripting. The attack may be initiated remotely. The name of the patch is b4bc3cbbb099eab50cf2b544cf577116f1867b94. It is recommended to apply a patch to fix this issue. The identifier VDB-217445 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2018-25065](https://github.com/Live-Hack-CVE/CVE-2018-25065)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-25065">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-25065">

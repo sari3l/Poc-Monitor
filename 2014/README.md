@@ -169,6 +169,11 @@
 - [Live-Hack-CVE/CVE-2014-1705](https://github.com/Live-Hack-CVE/CVE-2014-1705)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-1705">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-1705">
 
 ---
+## CVE-2014-125047 (2023-01-06T12:15:00)
+> A vulnerability classified as critical has been found in tbezman school-store. This affects an unknown part. The manipulation leads to sql injection. The name of the patch is 2957fc97054216d3a393f1775efd01ae2b072001. It is recommended to apply a patch to fix this issue. The identifier VDB-217557 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2014-125047](https://github.com/Live-Hack-CVE/CVE-2014-125047)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125047">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125047">
+
+---
 ## CVE-2014-125046 (2023-01-06T10:15:00)
 > A vulnerability, which was classified as critical, was found in Seiji42 cub-scout-tracker. This affects an unknown part of the file databaseAccessFunctions.js. The manipulation leads to sql injection. The name of the patch is b4bc1a328b1f59437db159f9d136d9ed15707e31. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-217551.
 - [Live-Hack-CVE/CVE-2014-125046](https://github.com/Live-Hack-CVE/CVE-2014-125046)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125046">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125046">

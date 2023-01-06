@@ -266,6 +266,11 @@
 - [poxicity/CVE-2015-1328](https://github.com/poxicity/CVE-2015-1328)	<img alt="forks" src="https://img.shields.io/github/forks/poxicity/CVE-2015-1328">	<img alt="stars" src="https://img.shields.io/github/stars/poxicity/CVE-2015-1328">
 
 ---
+## CVE-2015-10017 (2023-01-06T11:15:00)
+> A vulnerability has been found in HPI-Information-Systems ProLOD and classified as critical. This vulnerability affects unknown code. The manipulation of the argument this leads to sql injection. The name of the patch is 3f710905458d49c77530bd3cbcd8960457566b73. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-217552.
+- [Live-Hack-CVE/CVE-2015-10017](https://github.com/Live-Hack-CVE/CVE-2015-10017)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-10017">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-10017">
+
+---
 ## CVE-2015-10016 (2023-01-06T10:15:00)
 > A vulnerability, which was classified as critical, has been found in jeff-kelley opensim-utils. Affected by this issue is the function DatabaseForRegion of the file regionscrits.php. The manipulation of the argument region leads to sql injection. The name of the patch is c29e5c729a833a29dbf5b1e505a0553fe154575e. It is recommended to apply a patch to fix this issue. VDB-217550 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2015-10016](https://github.com/Live-Hack-CVE/CVE-2015-10016)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-10016">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-10016">

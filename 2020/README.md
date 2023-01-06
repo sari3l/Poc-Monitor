@@ -844,6 +844,11 @@
 - [jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041](https://github.com/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041)	<img alt="forks" src="https://img.shields.io/github/forks/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041">	<img alt="stars" src="https://img.shields.io/github/stars/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041">
 
 ---
+## CVE-2020-36642 (2023-01-06T11:15:00)
+> A vulnerability was found in trampgeek jobe up to 1.6.x and classified as critical. This issue affects the function run_in_sandbox of the file application/libraries/LanguageTask.php. The manipulation leads to command injection. Upgrading to version 1.7.0 is able to address this issue. The name of the patch is 8f43daf50c943b98eaf0c542da901a4a16e85b02. It is recommended to upgrade the affected component. The identifier VDB-217553 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2020-36642](https://github.com/Live-Hack-CVE/CVE-2020-36642)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36642">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36642">
+
+---
 ## CVE-2020-36641 (2023-01-05T12:15:00)
 > A vulnerability classified as problematic was found in gturri aXMLRPC up to 1.12.0. This vulnerability affects the function ResponseParser of the file src/main/java/de/timroes/axmlrpc/ResponseParser.java. The manipulation leads to xml external entity reference. Upgrading to version 1.12.1 is able to address this issue. The name of the patch is ad6615b3ec41353e614f6ea5fdd5b046442a832b. It is recommended to upgrade the affected component. VDB-217450 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2020-36641](https://github.com/Live-Hack-CVE/CVE-2020-36641)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36641">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36641">

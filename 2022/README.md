@@ -48,6 +48,11 @@
 - [Cedric1314/CVE-2022-48870](https://github.com/Cedric1314/CVE-2022-48870)	<img alt="forks" src="https://img.shields.io/github/forks/Cedric1314/CVE-2022-48870">	<img alt="stars" src="https://img.shields.io/github/stars/Cedric1314/CVE-2022-48870">
 
 ---
+## CVE-2022-4879 (2023-01-06T11:15:00)
+> A vulnerability was found in Forged Alliance Forever up to 3746. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the component Vote Handler. The manipulation leads to improper authorization. Upgrading to version 3747 is able to address this issue. The name of the patch is 6880971bd3d73d942384aff62d53058c206ce644. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-217555.
+- [Live-Hack-CVE/CVE-2022-4879](https://github.com/Live-Hack-CVE/CVE-2022-4879)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4879">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4879">
+
+---
 ## CVE-2022-4878 (2023-01-06T10:15:00)
 > A vulnerability classified as critical has been found in JATOS. Affected is the function ZipUtil of the file modules/common/app/utils/common/ZipUtil.java of the component ZIP Handler. The manipulation leads to path traversal. Upgrading to version 3.7.5-alpha is able to address this issue. The name of the patch is 2b42519f309d8164e8811392770ce604cdabb5da. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-217548.
 - [Live-Hack-CVE/CVE-2022-4878](https://github.com/Live-Hack-CVE/CVE-2022-4878)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4878">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4878">
