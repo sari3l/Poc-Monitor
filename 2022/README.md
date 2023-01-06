@@ -48,6 +48,11 @@
 - [Cedric1314/CVE-2022-48870](https://github.com/Cedric1314/CVE-2022-48870)	<img alt="forks" src="https://img.shields.io/github/forks/Cedric1314/CVE-2022-48870">	<img alt="stars" src="https://img.shields.io/github/stars/Cedric1314/CVE-2022-48870">
 
 ---
+## CVE-2022-4878 (2023-01-06T10:15:00)
+> A vulnerability classified as critical has been found in JATOS. Affected is the function ZipUtil of the file modules/common/app/utils/common/ZipUtil.java of the component ZIP Handler. The manipulation leads to path traversal. Upgrading to version 3.7.5-alpha is able to address this issue. The name of the patch is 2b42519f309d8164e8811392770ce604cdabb5da. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-217548.
+- [Live-Hack-CVE/CVE-2022-4878](https://github.com/Live-Hack-CVE/CVE-2022-4878)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4878">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4878">
+
+---
 ## CVE-2022-4877 (2023-01-05T10:15:00)
 > A vulnerability has been found in snoyberg keter up to 1.8.1 and classified as problematic. This vulnerability affects unknown code of the file Keter/Proxy.hs. The manipulation of the argument host leads to cross site scripting. The attack can be initiated remotely. Upgrading to version 1.8.2 is able to address this issue. The name of the patch is d41f3697926b231782a3ad8050f5af1ce5cc40b7. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-217444.
 - [Live-Hack-CVE/CVE-2022-4877](https://github.com/Live-Hack-CVE/CVE-2022-4877)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4877">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4877">
@@ -293,6 +298,15 @@
 ---
 ## CVE-2022-47660 (2023-01-05T16:15:00)
 > GPAC MP4Box 2.1-DEV-rev644-g5c4df2a67 is has an integer overflow in isomedia/isom_write.c
+- [Live-Hack-CVE/CVE-2022-47660](https://github.com/Live-Hack-CVE/CVE-2022-47660)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47660">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47660">
+
+---
+## CVE-2022-4766 (2022-12-27T13:15:00)
+> A vulnerability was found in dolibarr_project_timesheet up to 4.5.5. It has been declared as problematic. This vulnerability affects unknown code of the component Form Handler. The manipulation leads to cross-site request forgery. The attack can be initiated remotely. Upgrading to version 4.5.6.a is able to address this issue. The name of the patch is 082282e9dab43963e6c8f03cfaddd7921de377f4. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-216880.
+- [Live-Hack-CVE/CVE-2022-4766](https://github.com/Live-Hack-CVE/CVE-2022-4766)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4766">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4766">
+- [Live-Hack-CVE/CVE-2022-47663](https://github.com/Live-Hack-CVE/CVE-2022-47663)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47663">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47663">
+- [Live-Hack-CVE/CVE-2022-47662](https://github.com/Live-Hack-CVE/CVE-2022-47662)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47662">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47662">
+- [Live-Hack-CVE/CVE-2022-47661](https://github.com/Live-Hack-CVE/CVE-2022-47661)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47661">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47661">
 - [Live-Hack-CVE/CVE-2022-47660](https://github.com/Live-Hack-CVE/CVE-2022-47660)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47660">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47660">
 
 ---
@@ -1706,6 +1720,11 @@
 - [Live-Hack-CVE/CVE-2022-45936](https://github.com/Live-Hack-CVE/CVE-2022-45936)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45936">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45936">
 
 ---
+## CVE-2022-45935 (2023-01-06T10:15:00)
+> Usage of temporary files with insecure permissions by the Apache James server allows an attacker with local access to access private user data in transit. Vulnerable components includes the SMTP stack and IMAP APPEND command. This issue affects Apache James server version 3.7.2 and prior versions.
+- [Live-Hack-CVE/CVE-2022-45935](https://github.com/Live-Hack-CVE/CVE-2022-45935)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45935">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45935">
+
+---
 ## CVE-2022-4593 (2022-12-18T08:15:00)
 > A vulnerability was found in retra-system. It has been classified as problematic. Affected is an unknown function. The manipulation leads to cross site scripting. It is possible to launch the attack remotely. The name of the patch is a6d94ab88f4a6f631a14c59b72461140fb57ae1f. It is recommended to apply a patch to fix this issue. VDB-216186 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-4593](https://github.com/Live-Hack-CVE/CVE-2022-4593)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4593">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4593">
@@ -1888,6 +1907,11 @@
 > Command injection vulnerability in nw_interface.html in SHARP multifunction printers (MFPs)'s Digital Full-color Multifunctional System 202 or earlier, 120 or earlier, 600 or earlier, 121 or earlier, 500 or earlier, 402 or earlier, 790 or earlier, and Digital Multifunctional System (Monochrome) 200 or earlier, 211 or earlier, 102 or earlier, 453 or earlier, 400 or earlier, 202 or earlier, 602 or earlier, 500 or earlier, 401 or earlier allows remote attackers to execute arbitrary commands via unspecified vectors.
 - [Live-Hack-CVE/CVE-2022-45796](https://github.com/Live-Hack-CVE/CVE-2022-45796)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45796">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45796">
 - [Live-Hack-CVE/CVE-2022-45796](https://github.com/Live-Hack-CVE/CVE-2022-45796)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45796">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45796">
+
+---
+## CVE-2022-45787 (2023-01-06T10:15:00)
+> Unproper laxist permissions on the temporary files used by MIME4J TempFileStorageProvider may lead to information disclosure to other local users. This issue affects Apache James MIME4J version 0.8.8 and prior versions. We recommend users to upgrade to MIME4j version 0.8.9 or later.
+- [Live-Hack-CVE/CVE-2022-45787](https://github.com/Live-Hack-CVE/CVE-2022-45787)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45787">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45787">
 
 ---
 ## CVE-2022-45778 (2022-12-27T22:15:00)

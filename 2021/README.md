@@ -1043,6 +1043,16 @@
 - [kernel-cyber/CVE-2021-42913](https://github.com/kernel-cyber/CVE-2021-42913)	<img alt="forks" src="https://img.shields.io/github/forks/kernel-cyber/CVE-2021-42913">	<img alt="stars" src="https://img.shields.io/github/stars/kernel-cyber/CVE-2021-42913">
 
 ---
+## CVE-2021-4289 (2022-12-27T13:15:00)
+> A vulnerability classified as problematic was found in OpenMRS openmrs-module-referenceapplication up to 2.11.x. Affected by this vulnerability is the function post of the file omod/src/main/java/org/openmrs/module/referenceapplication/page/controller/UserAppPageController.java of the component User App Page. The manipulation of the argument AppId leads to cross site scripting. The attack can be launched remotely. Upgrading to version 2.12.0 is able to address this issue. The name of the patch is 0410c091d46eed3c132fe0fcafe5964182659f74. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-216883.
+- [Live-Hack-CVE/CVE-2021-4289](https://github.com/Live-Hack-CVE/CVE-2021-4289)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4289">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4289">
+
+---
+## CVE-2021-4288 (2022-12-27T13:15:00)
+> A vulnerability was found in OpenMRS openmrs-module-referenceapplication up to 2.11.x. It has been rated as problematic. This issue affects some unknown processing of the file omod/src/main/webapp/pages/userApp.gsp. The manipulation leads to cross site scripting. The attack may be initiated remotely. Upgrading to version 2.12.0 is able to address this issue. The name of the patch is 35f81901a4cb925747a9615b8706f5079d2196a1. It is recommended to upgrade the affected component. The identifier VDB-216881 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2021-4288](https://github.com/Live-Hack-CVE/CVE-2021-4288)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4288">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4288">
+
+---
 ## CVE-2021-4287 (2022-12-27T11:15:00)
 > A vulnerability, which was classified as problematic, was found in ReFirm Labs binwalk up to 2.3.2. Affected is an unknown function of the file src/binwalk/modules/extractor.py of the component Archive Extraction Handler. The manipulation leads to symlink following. It is possible to launch the attack remotely. Upgrading to version 2.3.3 is able to address this issue. The name of the patch is fa0c0bd59b8588814756942fe4cb5452e76c1dcd. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-216876.
 - [Live-Hack-CVE/CVE-2021-4287](https://github.com/Live-Hack-CVE/CVE-2021-4287)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4287">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4287">
