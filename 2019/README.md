@@ -674,6 +674,21 @@
 - [omarkurt/CVE-2019-5418](https://github.com/omarkurt/CVE-2019-5418)	<img alt="forks" src="https://img.shields.io/github/forks/omarkurt/CVE-2019-5418">	<img alt="stars" src="https://img.shields.io/github/stars/omarkurt/CVE-2019-5418">
 
 ---
+## CVE-2019-5325 (2023-01-06T16:15:00)
+> CVE was unused by HPE.
+- [Live-Hack-CVE/CVE-2019-5325](https://github.com/Live-Hack-CVE/CVE-2019-5325)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5325">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5325">
+
+---
+## CVE-2019-5316 (2023-01-06T16:15:00)
+> CVE was unused by HPE.
+- [Live-Hack-CVE/CVE-2019-5316](https://github.com/Live-Hack-CVE/CVE-2019-5316)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5316">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5316">
+
+---
+## CVE-2019-5313 (2023-01-06T16:15:00)
+> CVE was unused by HPE.
+- [Live-Hack-CVE/CVE-2019-5313](https://github.com/Live-Hack-CVE/CVE-2019-5313)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5313">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5313">
+
+---
 ## CVE-2019-5114 (2019-10-25T18:15:00)
 > An exploitable SQL injection vulnerability exists in the authenticated portion of YouPHPTube 7.6. Specially crafted web requests can cause SQL injections. An attacker can send a web request with parameters containing SQL injection attacks to trigger this vulnerability, potentially allowing exfiltration of the database, user credentials and,in certain configuration, access the underlying operating system.
 - [Live-Hack-CVE/CVE-2019-5114](https://github.com/Live-Hack-CVE/CVE-2019-5114)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5114">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5114">
@@ -1251,6 +1266,11 @@
 - [Live-Hack-CVE/CVE-2019-25093](https://github.com/Live-Hack-CVE/CVE-2019-25093)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25093">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25093">
 
 ---
+## CVE-2019-25091 (2022-12-27T23:15:00)
+> A vulnerability classified as problematic has been found in nsupdate.info. This affects an unknown part of the file src/nsupdate/settings/base.py of the component CSRF Cookie Handler. The manipulation of the argument CSRF_COOKIE_HTTPONLY leads to cookie without 'httponly' flag. It is possible to initiate the attack remotely. The name of the patch is 60a3fe559c453bc36b0ec3e5dd39c1303640a59a. It is recommended to apply a patch to fix this issue. The identifier VDB-216909 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2019-25091](https://github.com/Live-Hack-CVE/CVE-2019-25091)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25091">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25091">
+
+---
 ## CVE-2019-25090 (2022-12-27T13:15:00)
 > A vulnerability was found in FreePBX arimanager up to 13.0.5.3 and classified as problematic. Affected by this issue is some unknown functionality of the component Views Handler. The manipulation of the argument dataurl leads to cross site scripting. The attack may be launched remotely. Upgrading to version 13.0.5.4 is able to address this issue. The name of the patch is 199dea7cc7020d3c469a86a39fbd80f5edd3c5ab. It is recommended to upgrade the affected component. VDB-216878 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2019-25090](https://github.com/Live-Hack-CVE/CVE-2019-25090)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25090">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25090">
@@ -1285,6 +1305,16 @@
 ## CVE-2019-25075 (2022-08-23T01:15:00)
 > HTML injection combined with path traversal in the Email service in Gravitee API Management before 1.25.3 allows anonymous users to read arbitrary files via a /management/users/register request.
 - [Live-Hack-CVE/CVE-2019-25075](https://github.com/Live-Hack-CVE/CVE-2019-25075)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25075">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25075">
+
+---
+## CVE-2019-25073 (2022-12-27T22:15:00)
+> Improper path santiziation in github.com/goadesign/goa before v3.0.9, v2.0.10, or v1.4.3 allow remote attackers to read files outside of the intended directory.
+- [Live-Hack-CVE/CVE-2019-25073](https://github.com/Live-Hack-CVE/CVE-2019-25073)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25073">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25073">
+
+---
+## CVE-2019-25072 (2022-12-27T22:15:00)
+> Due to support of Gzip compression in request bodies, as well as a lack of limiting response body sizes, a malicious server can cause a client to consume a significant amount of system resources, which may be used as a denial of service vector.
+- [Live-Hack-CVE/CVE-2019-25072](https://github.com/Live-Hack-CVE/CVE-2019-25072)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25072">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25072">
 
 ---
 ## CVE-2019-25013 (2021-01-04T18:15:00)

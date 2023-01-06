@@ -1027,6 +1027,16 @@
 - [Live-Hack-CVE/CVE-2021-4297](https://github.com/Live-Hack-CVE/CVE-2021-4297)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4297">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4297">
 
 ---
+## CVE-2021-4296 (2022-12-29T09:15:00)
+> A vulnerability, which was classified as problematic, has been found in w3c Unicorn. This issue affects the function ValidatorNuMessage of the file src/org/w3c/unicorn/response/impl/ValidatorNuMessage.java. The manipulation of the argument message leads to cross site scripting. The attack may be initiated remotely. The name of the patch is 51f75c31f7fc33859a9a571311c67ae4e95d9c68. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-217019.
+- [Live-Hack-CVE/CVE-2021-4296](https://github.com/Live-Hack-CVE/CVE-2021-4296)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4296">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4296">
+
+---
+## CVE-2021-4295 (2022-12-29T09:15:00)
+> A vulnerability classified as problematic was found in ONC code-validator-api up to 1.0.30. This vulnerability affects the function vocabularyValidationConfigurations of the file src/main/java/org/sitenv/vocabularies/configuration/CodeValidatorApiConfiguration.java of the component XML Handler. The manipulation leads to xml external entity reference. Upgrading to version 1.0.31 is able to address this issue. The name of the patch is fbd8ea121755a2d3d116b13f235bc8b61d8449af. It is recommended to upgrade the affected component. VDB-217018 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2021-4295](https://github.com/Live-Hack-CVE/CVE-2021-4295)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4295">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4295">
+
+---
 ## CVE-2021-42949 (2022-09-16T15:15:00)
 > The component controlla_login function in HotelDruid Hotel Management Software v3.0.3 generates a predictable session token, allowing attackers to bypass authentication via bruteforce attacks.
 - [Live-Hack-CVE/CVE-2021-42949](https://github.com/Live-Hack-CVE/CVE-2021-42949)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42949">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42949">

@@ -726,6 +726,11 @@
 - [Live-Hack-CVE/CVE-2016-15006](https://github.com/Live-Hack-CVE/CVE-2016-15006)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-15006">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-15006">
 
 ---
+## CVE-2016-15005 (2022-12-27T22:15:00)
+> CSRF tokens are generated using math/rand, which is not a cryptographically secure rander number generation, making predicting their values relatively trivial and allowing an attacker to bypass CSRF protections which relatively few requests.
+- [Live-Hack-CVE/CVE-2016-15005](https://github.com/Live-Hack-CVE/CVE-2016-15005)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-15005">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-15005">
+
+---
 ## CVE-2016-10924 (2019-08-22T14:15:00)
 > The ebook-download plugin before 1.2 for WordPress has directory traversal.
 - [rvizx/CVE-2016-10924](https://github.com/rvizx/CVE-2016-10924)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2016-10924">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2016-10924">

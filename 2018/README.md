@@ -410,6 +410,11 @@
 - [Live-Hack-CVE/CVE-2018-25057](https://github.com/Live-Hack-CVE/CVE-2018-25057)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-25057">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-25057">
 
 ---
+## CVE-2018-25050 (2022-12-28T10:15:00)
+> A vulnerability, which was classified as problematic, has been found in Harvest Chosen up to 1.8.6. Affected by this issue is the function AbstractChosen of the file coffee/lib/abstract-chosen.coffee. The manipulation of the argument group_label leads to cross site scripting. The attack may be launched remotely. Upgrading to version 1.8.7 is able to address this issue. The name of the patch is 77fd031d541e77510268d1041ed37798fdd1017e. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-216956.
+- [Live-Hack-CVE/CVE-2018-25050](https://github.com/Live-Hack-CVE/CVE-2018-25050)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-25050">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-25050">
+
+---
 ## CVE-2018-25049 (2022-12-27T09:15:00)
 > A vulnerability was found in email-existence. It has been rated as problematic. Affected by this issue is some unknown functionality of the file index.js. The manipulation leads to inefficient regular expression complexity. The name of the patch is 0029ba71b6ad0d8ec0baa2ecc6256d038bdd9b56. It is recommended to apply a patch to fix this issue. VDB-216854 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2018-25049](https://github.com/Live-Hack-CVE/CVE-2018-25049)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-25049">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-25049">
@@ -418,6 +423,11 @@
 ## CVE-2018-25047 (2022-09-15T00:15:00)
 > In Smarty before 3.1.47 and 4.x before 4.2.1, libs/plugins/function.mailto.php allows XSS. A web page that uses smarty_function_mailto, and that could be parameterized using GET or POST input parameters, could allow injection of JavaScript code by a user.
 - [Live-Hack-CVE/CVE-2018-25047](https://github.com/Live-Hack-CVE/CVE-2018-25047)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-25047">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-25047">
+
+---
+## CVE-2018-25046 (2022-12-27T22:15:00)
+> Due to improper path santization, archives containing relative file paths can cause files to be written (or overwritten) outside of the target directory.
+- [Live-Hack-CVE/CVE-2018-25046](https://github.com/Live-Hack-CVE/CVE-2018-25046)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-25046">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-25046">
 
 ---
 ## CVE-2018-25034 (2022-06-12T08:15:00)

@@ -480,6 +480,11 @@
 - [Live-Hack-CVE/CVE-2017-20155](https://github.com/Live-Hack-CVE/CVE-2017-20155)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20155">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20155">
 
 ---
+## CVE-2017-20146 (2022-12-27T22:15:00)
+> Usage of the CORS handler may apply improper CORS headers, allowing the requester to explicitly control the value of the Access-Control-Allow-Origin header, which bypasses the expected behavior of the Same Origin Policy.
+- [Live-Hack-CVE/CVE-2017-20146](https://github.com/Live-Hack-CVE/CVE-2017-20146)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20146">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20146">
+
+---
 ## CVE-2017-20144 (2022-07-24T20:15:00)
 > A vulnerability has been found in Anvsoft PDFMate PDF Converter Pro 1.7.5.0 and classified as critical. The manipulation leads to memory corruption. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.
 - [Live-Hack-CVE/CVE-2017-20144](https://github.com/Live-Hack-CVE/CVE-2017-20144)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20144">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20144">

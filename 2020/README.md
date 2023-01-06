@@ -527,6 +527,16 @@
 - [j0hn30n/CVE-2020-7246](https://github.com/j0hn30n/CVE-2020-7246)	<img alt="forks" src="https://img.shields.io/github/forks/j0hn30n/CVE-2020-7246">	<img alt="stars" src="https://img.shields.io/github/stars/j0hn30n/CVE-2020-7246">
 
 ---
+## CVE-2020-7118 (2023-01-06T16:15:00)
+> CVE was unused by HPE.
+- [Live-Hack-CVE/CVE-2020-7118](https://github.com/Live-Hack-CVE/CVE-2020-7118)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7118">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7118">
+
+---
+## CVE-2020-7112 (2023-01-06T16:15:00)
+> CVE was unused by HPE.
+- [Live-Hack-CVE/CVE-2020-7112](https://github.com/Live-Hack-CVE/CVE-2020-7112)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7112">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7112">
+
+---
 ## CVE-2020-7071 (2021-02-15T04:15:00)
 > In PHP versions 7.3.x below 7.3.26, 7.4.x below 7.4.14 and 8.0.0, when validating URL with functions like filter_var($url, FILTER_VALIDATE_URL), PHP will accept an URL with invalid password as valid URL. This may lead to functions that rely on URL being valid to mis-parse the URL and produce wrong data as components of the URL.
 - [Live-Hack-CVE/CVE-2020-7071](https://github.com/Live-Hack-CVE/CVE-2020-7071)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7071">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7071">
@@ -971,6 +981,11 @@
 ## CVE-2020-36561 (2022-12-27T22:15:00)
 > Due to improper path santization, archives containing relative file paths can cause files to be written (or overwritten) outside of the target directory.
 - [Live-Hack-CVE/CVE-2020-36561](https://github.com/Live-Hack-CVE/CVE-2020-36561)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36561">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36561">
+
+---
+## CVE-2020-36559 (2022-12-27T22:15:00)
+> Due to improper santization of user input, HTTPEngine.Handle allows for directory traversal, allowing an attacker to read files outside of the target directory that the server has permission to read.
+- [Live-Hack-CVE/CVE-2020-36559](https://github.com/Live-Hack-CVE/CVE-2020-36559)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36559">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36559">
 
 ---
 ## CVE-2020-36521 (2022-09-23T19:15:00)
@@ -2364,6 +2379,26 @@
 > Incorrect access control in NexusPHP 1.5.beta5.20120707 allows unauthorized attackers to access published content.
 - [Live-Hack-CVE/CVE-2020-24771](https://github.com/Live-Hack-CVE/CVE-2020-24771)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24771">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24771">
 - [Live-Hack-CVE/CVE-2020-24771](https://github.com/Live-Hack-CVE/CVE-2020-24771)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24771">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24771">
+
+---
+## CVE-2020-24645 (2023-01-06T16:15:00)
+> CVE was unused by HPE.
+- [Live-Hack-CVE/CVE-2020-24645](https://github.com/Live-Hack-CVE/CVE-2020-24645)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24645">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24645">
+
+---
+## CVE-2020-24644 (2023-01-06T16:15:00)
+> CVE was unused by HPE.
+- [Live-Hack-CVE/CVE-2020-24644](https://github.com/Live-Hack-CVE/CVE-2020-24644)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24644">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24644">
+
+---
+## CVE-2020-24643 (2023-01-06T16:15:00)
+> CVE was unused by HPE.
+- [Live-Hack-CVE/CVE-2020-24643](https://github.com/Live-Hack-CVE/CVE-2020-24643)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24643">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24643">
+
+---
+## CVE-2020-24642 (2023-01-06T16:15:00)
+> CVE was unused by HPE.
+- [Live-Hack-CVE/CVE-2020-24642](https://github.com/Live-Hack-CVE/CVE-2020-24642)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24642">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24642">
 
 ---
 ## CVE-2020-24609 (2020-08-25T15:15:00)
