@@ -3849,6 +3849,7 @@
 ## CVE-2022-44149 (2023-01-06T17:15:00)
 > The web service on Nexxt Amp300 ARN02304U8 42.103.1.5095 devices allows remote OS command execution by placing &telnetd in the JSON host field to the ping feature of the goform/sysTools component. Authentication is required.
 - [Live-Hack-CVE/CVE-2022-44149](https://github.com/Live-Hack-CVE/CVE-2022-44149)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44149">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44149">
+- [yerodin/CVE-2022-44149](https://github.com/yerodin/CVE-2022-44149)	<img alt="forks" src="https://img.shields.io/github/forks/yerodin/CVE-2022-44149">	<img alt="stars" src="https://img.shields.io/github/stars/yerodin/CVE-2022-44149">
 
 ---
 ## CVE-2022-44137 (2022-12-30T01:15:00)
