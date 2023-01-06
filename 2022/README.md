@@ -2834,6 +2834,11 @@
 - [Live-Hack-CVE/CVE-2022-44940](https://github.com/Live-Hack-CVE/CVE-2022-44940)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44940">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44940">
 
 ---
+## CVE-2022-44939 (2023-01-06T22:15:00)
+> Efs Software Easy Chat Server Version 3.1 was discovered to contain a DLL hijacking vulnerability via the component TextShaping.dll. This vulnerability allows attackers to execute arbitrary code via a crafted DLL.
+- [Live-Hack-CVE/CVE-2022-44939](https://github.com/Live-Hack-CVE/CVE-2022-44939)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44939">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44939">
+
+---
 ## CVE-2022-44938 (2022-12-08T20:15:00)
 > Weak reset token generation in SeedDMS v6.0.20 and v5.1.7 allows attackers to execute a full account takeover via a brute force attack.
 - [Live-Hack-CVE/CVE-2022-44938](https://github.com/Live-Hack-CVE/CVE-2022-44938)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44938">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44938">
@@ -6440,6 +6445,16 @@
 - [Live-Hack-CVE/CVE-2022-42257](https://github.com/Live-Hack-CVE/CVE-2022-42257)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42257">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42257">
 
 ---
+## CVE-2022-42256 (2022-12-30T23:15:00)
+> NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer (nvidia.ko), where an integer overflow in index validation may lead to denial of service, information disclosure, or data tampering.
+- [Live-Hack-CVE/CVE-2022-42256](https://github.com/Live-Hack-CVE/CVE-2022-42256)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42256">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42256">
+
+---
+## CVE-2022-42255 (2022-12-30T23:15:00)
+> NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer (nvidia.ko), where an out-of-bounds array access may lead to denial of service, information disclosure, or data tampering.
+- [Live-Hack-CVE/CVE-2022-42255](https://github.com/Live-Hack-CVE/CVE-2022-42255)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42255">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42255">
+
+---
 ## CVE-2022-42252 (2022-11-01T09:15:00)
 > If Apache Tomcat 8.5.0 to 8.5.82, 9.0.0-M1 to 9.0.67, 10.0.0-M1 to 10.0.26 or 10.1.0-M1 to 10.1.0 was configured to ignore invalid HTTP headers via setting rejectIllegalHeader to false (the default for 8.5.x only), Tomcat did not reject a request containing an invalid Content-Length header making a request smuggling attack possible if Tomcat was located behind a reverse proxy that also failed to reject the request with the invalid header.
 - [Live-Hack-CVE/CVE-2022-42252](https://github.com/Live-Hack-CVE/CVE-2022-42252)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-42252">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-42252">
@@ -7591,6 +7606,11 @@
 ## CVE-2022-41615 (2022-11-18T23:15:00)
 > Cross-Site Scripting (XSS) via Cross-Site Request Forgery (CSRF) vulnerability in Store Locator plugin <= 1.4.5 on WordPress.
 - [Live-Hack-CVE/CVE-2022-41615](https://github.com/Live-Hack-CVE/CVE-2022-41615)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41615">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41615">
+
+---
+## CVE-2022-41613 (2023-01-06T22:15:00)
+> Bentley Systems MicroStation Connect versions 10.17.0.209 and prior are vulnerable to an Out-of-Bounds Read when when parsing DGN files, which may allow an attacker to crash the product, disclose sensitive information, or execute arbitrary code.
+- [Live-Hack-CVE/CVE-2022-41613](https://github.com/Live-Hack-CVE/CVE-2022-41613)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41613">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41613">
 
 ---
 ## CVE-2022-4161 (2022-12-26T13:15:00)
@@ -10151,6 +10171,11 @@
 ## CVE-2022-40204 (2022-12-01T00:15:00)
 > A cross-site scripting (XSS) vulnerability exists in all current versions of Digital Alert Systems DASDEC software via the Host Header in undisclosed pages after login.
 - [Live-Hack-CVE/CVE-2022-40204](https://github.com/Live-Hack-CVE/CVE-2022-40204)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40204">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40204">
+
+---
+## CVE-2022-40201 (2023-01-06T22:15:00)
+> Bentley Systems MicroStation Connect versions 10.17.0.209 and prior are vulnerable to a Stack-Based Buffer Overflow when a malformed design (DGN) file is parsed. This may allow an attacker to execute arbitrary code.
+- [Live-Hack-CVE/CVE-2022-40201](https://github.com/Live-Hack-CVE/CVE-2022-40201)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40201">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40201">
 
 ---
 ## CVE-2022-40200 (2022-11-17T23:15:00)
@@ -19467,6 +19492,21 @@
 - [Live-Hack-CVE/CVE-2022-34689](https://github.com/Live-Hack-CVE/CVE-2022-34689)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34689">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34689">
 
 ---
+## CVE-2022-34683 (2022-12-30T23:15:00)
+> NVIDIA GPU Display Driver for Windows contains a vulnerability in the kernel mode layer (nvlddmkm.sys) handler for DxgkDdiEscape, where a null-pointer dereference occurs, which may lead to denial of service.
+- [Live-Hack-CVE/CVE-2022-34683](https://github.com/Live-Hack-CVE/CVE-2022-34683)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34683">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34683">
+
+---
+## CVE-2022-34682 (2022-12-30T23:15:00)
+> NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer, where an unprivileged regular user can cause a null-pointer dereference, which may lead to denial of service.
+- [Live-Hack-CVE/CVE-2022-34682](https://github.com/Live-Hack-CVE/CVE-2022-34682)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34682">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34682">
+
+---
+## CVE-2022-34681 (2022-12-30T23:15:00)
+> NVIDIA GPU Display Driver for Windows contains a vulnerability in the kernel mode layer (nvlddmkm.sys) handler, where improper input validation of a display-related data structure may lead to denial of service.
+- [Live-Hack-CVE/CVE-2022-34681](https://github.com/Live-Hack-CVE/CVE-2022-34681)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34681">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34681">
+
+---
 ## CVE-2022-34680 (2022-12-30T23:15:00)
 > NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer handler, where an integer truncation can lead to an out-of-bounds read, which may lead to denial of service.
 - [Live-Hack-CVE/CVE-2022-34680](https://github.com/Live-Hack-CVE/CVE-2022-34680)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34680">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34680">
@@ -26638,9 +26678,24 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [secure-77/CVE-2022-24853](https://github.com/secure-77/CVE-2022-24853)	<img alt="forks" src="https://img.shields.io/github/forks/secure-77/CVE-2022-24853">	<img alt="stars" src="https://img.shields.io/github/stars/secure-77/CVE-2022-24853">
 
 ---
+## CVE-2022-2484 (2023-01-06T22:15:00)
+> The signature check in the Nokia ASIK AirScale system module version 474021A.101 can be bypassed allowing an attacker to run modified firmware. This could result in the execution of a malicious kernel, arbitrary programs, or modified Nokia programs.
+- [Live-Hack-CVE/CVE-2022-2484](https://github.com/Live-Hack-CVE/CVE-2022-2484)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2484">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2484">
+
+---
 ## CVE-2022-24836 (2022-04-11T22:15:00)
 > Nokogiri is an open source XML and HTML library for Ruby. Nokogiri `< v1.13.4` contains an inefficient regular expression that is susceptible to excessive backtracking when attempting to detect encoding in HTML documents. Users are advised to upgrade to Nokogiri `>= 1.13.4`. There are no known workarounds for this issue.
 - [Live-Hack-CVE/CVE-2022-24836](https://github.com/Live-Hack-CVE/CVE-2022-24836)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24836">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24836">
+
+---
+## CVE-2022-2483 (2023-01-06T22:15:00)
+> The bootloader in the Nokia ASIK AirScale system module (versions 474021A.101 and 474021A.102) loads public keys for firmware verification signature. If an attacker modifies the flash contents to corrupt the keys, secure boot could be permanently disabled on a given device.
+- [Live-Hack-CVE/CVE-2022-2483](https://github.com/Live-Hack-CVE/CVE-2022-2483)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2483">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2483">
+
+---
+## CVE-2022-2482 (2023-01-06T22:15:00)
+> A vulnerability exists in Nokia’s ASIK AirScale system module (versions 474021A.101 and 474021A.102) that could allow an attacker to place a script on the file system accessible from Linux. A script placed in the appropriate place could allow for arbitrary code execution in the bootloader.
+- [Live-Hack-CVE/CVE-2022-2482](https://github.com/Live-Hack-CVE/CVE-2022-2482)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2482">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2482">
 
 ---
 ## CVE-2022-24793 (2022-04-06T14:15:00)
