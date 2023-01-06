@@ -879,6 +879,16 @@
 - [Live-Hack-CVE/CVE-2020-36639](https://github.com/Live-Hack-CVE/CVE-2020-36639)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36639">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36639">
 
 ---
+## CVE-2020-36638 (2022-12-30T12:15:00)
+> ** UNSUPPPORTED WHEN ASSIGNED **** UNSUPPORTED WHEN ASSIGNED ** A vulnerability was found in Chris92de AdminServ. It has been rated as problematic. This issue affects some unknown processing of the file resources/core/adminserv.php. The manipulation of the argument error leads to cross site scripting. The attack may be initiated remotely. The name of the patch is 9a45087814295de6fb3a3fe38f96293665234da1. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-217043. NOTE: This vulnerability only affects products that are no longer supported by the maintainer.
+- [Live-Hack-CVE/CVE-2020-36638](https://github.com/Live-Hack-CVE/CVE-2020-36638)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36638">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36638">
+
+---
+## CVE-2020-36637 (2022-12-30T12:15:00)
+> ** UNSUPPPORTED WHEN ASSIGNED **** UNSUPPORTED WHEN ASSIGNED ** A vulnerability was found in Chris92de AdminServ. It has been declared as problematic. This vulnerability affects unknown code of the file resources/core/adminserv.php. The manipulation of the argument text leads to cross site scripting. The attack can be initiated remotely. The name of the patch is 3ed17dab3b4d6e8bf1c82ddfbf882314365e9cd7. It is recommended to apply a patch to fix this issue. VDB-217042 is the identifier assigned to this vulnerability. NOTE: This vulnerability only affects products that are no longer supported by the maintainer.
+- [Live-Hack-CVE/CVE-2020-36637](https://github.com/Live-Hack-CVE/CVE-2020-36637)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36637">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36637">
+
+---
 ## CVE-2020-36636 (2022-12-27T23:15:00)
 > A vulnerability classified as problematic has been found in OpenMRS Admin UI Module up to 1.4.x. Affected is the function sendErrorMessage of the file omod/src/main/java/org/openmrs/module/adminui/page/controller/systemadmin/accounts/AccountPageController.java of the component Account Setup Handler. The manipulation leads to cross site scripting. It is possible to launch the attack remotely. Upgrading to version 1.5.0 is able to address this issue. The name of the patch is 702fbfdac7c4418f23bb5f6452482b4a88020061. It is recommended to upgrade the affected component. VDB-216918 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2020-36636](https://github.com/Live-Hack-CVE/CVE-2020-36636)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36636">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36636">

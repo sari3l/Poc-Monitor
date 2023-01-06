@@ -1047,6 +1047,15 @@
 - [Live-Hack-CVE/CVE-2021-42948](https://github.com/Live-Hack-CVE/CVE-2021-42948)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42948">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42948">
 
 ---
+## CVE-2021-4294 (2022-12-28T17:15:00)
+> A vulnerability was found in OpenShift OSIN. It has been classified as problematic. This affects the function ClientSecretMatches/CheckClientSecret. The manipulation of the argument secret leads to observable timing discrepancy. The name of the patch is 8612686d6dda34ae9ef6b5a974e4b7accb4fea29. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-216987.
+- [Live-Hack-CVE/CVE-2021-4294](https://github.com/Live-Hack-CVE/CVE-2021-4294)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4294">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4294">
+- [Live-Hack-CVE/CVE-2021-42948](https://github.com/Live-Hack-CVE/CVE-2021-42948)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42948">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42948">
+- [Live-Hack-CVE/CVE-2021-42949](https://github.com/Live-Hack-CVE/CVE-2021-42949)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42949">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42949">
+- [dhammon/HotelDruid-CVE-2021-42949](https://github.com/dhammon/HotelDruid-CVE-2021-42949)	<img alt="forks" src="https://img.shields.io/github/forks/dhammon/HotelDruid-CVE-2021-42949">	<img alt="stars" src="https://img.shields.io/github/stars/dhammon/HotelDruid-CVE-2021-42949">
+- [dhammon/HotelDruid-CVE-2021-42948](https://github.com/dhammon/HotelDruid-CVE-2021-42948)	<img alt="forks" src="https://img.shields.io/github/forks/dhammon/HotelDruid-CVE-2021-42948">	<img alt="stars" src="https://img.shields.io/github/stars/dhammon/HotelDruid-CVE-2021-42948">
+
+---
 ## CVE-2021-4291 (2022-12-27T23:15:00)
 > A vulnerability was found in OpenMRS Admin UI Module up to 1.5.x. It has been declared as problematic. This vulnerability affects unknown code of the file omod/src/main/webapp/pages/metadata/locations/location.gsp. The manipulation leads to cross site scripting. The attack can be initiated remotely. Upgrading to version 1.6.0 is able to address this issue. The name of the patch is a7eefb5f69f6c50a3bffcb138bb8ea57cb41a9b6. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-216916.
 - [Live-Hack-CVE/CVE-2021-4291](https://github.com/Live-Hack-CVE/CVE-2021-4291)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4291">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4291">

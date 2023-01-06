@@ -113,6 +113,11 @@
 - [Live-Hack-CVE/CVE-2022-4860](https://github.com/Live-Hack-CVE/CVE-2022-4860)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4860">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4860">
 
 ---
+## CVE-2022-4858 (2022-12-30T12:15:00)
+> Insertion of Sensitive Information into Log Files in M-Files Server before 22.10.11846.0 could allow to obtain sensitive tokens from logs, if specific configurations were set.
+- [Live-Hack-CVE/CVE-2022-4858](https://github.com/Live-Hack-CVE/CVE-2022-4858)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4858">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4858">
+
+---
 ## CVE-2022-4823 (2022-12-28T21:15:00)
 > A vulnerability, which was classified as problematic, was found in InSTEDD Nuntium. Affected is an unknown function of the file app/controllers/geopoll_controller.rb. The manipulation of the argument signature leads to observable timing discrepancy. It is possible to launch the attack remotely. The name of the patch is 77236f7fd71a0e2eefeea07f9866b069d612cf0d. It is recommended to apply a patch to fix this issue. VDB-217002 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-4823](https://github.com/Live-Hack-CVE/CVE-2022-4823)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4823">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4823">
@@ -19465,6 +19470,11 @@
 ## CVE-2022-34680 (2022-12-30T23:15:00)
 > NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer handler, where an integer truncation can lead to an out-of-bounds read, which may lead to denial of service.
 - [Live-Hack-CVE/CVE-2022-34680](https://github.com/Live-Hack-CVE/CVE-2022-34680)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34680">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34680">
+
+---
+## CVE-2022-34679 (2022-12-30T23:15:00)
+> NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer handler, where an unhandled return value can lead to a null-pointer dereference, which may lead to denial of service.
+- [Live-Hack-CVE/CVE-2022-34679](https://github.com/Live-Hack-CVE/CVE-2022-34679)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-34679">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-34679">
 
 ---
 ## CVE-2022-34678 (2022-12-30T23:15:00)
