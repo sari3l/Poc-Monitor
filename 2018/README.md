@@ -376,6 +376,16 @@
 - [forlin/CVE-2018-2628](https://github.com/forlin/CVE-2018-2628)	<img alt="forks" src="https://img.shields.io/github/forks/forlin/CVE-2018-2628">	<img alt="stars" src="https://img.shields.io/github/stars/forlin/CVE-2018-2628">
 
 ---
+## CVE-2018-25071 (2023-01-07T12:15:00)
+> A vulnerability was found in roxlukas LMeve up to 0.1.58. It has been rated as critical. Affected by this issue is the function insert_log of the file wwwroot/ccpwgl/proxy.php. The manipulation of the argument fetch leads to sql injection. Upgrading to version 0.1.59-beta is able to address this issue. The name of the patch is c25ff7fe83a2cda1fcb365b182365adc3ffae332. It is recommended to upgrade the affected component. VDB-217610 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2018-25071](https://github.com/Live-Hack-CVE/CVE-2018-25071)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-25071">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-25071">
+
+---
+## CVE-2018-25070 (2023-01-07T11:15:00)
+> A vulnerability has been found in polterguy Phosphorus Five up to 8.2 and classified as critical. This vulnerability affects the function csv.Read of the file plugins/extras/p5.mysql/NonQuery.cs of the component CSV Import. The manipulation leads to sql injection. Upgrading to version 8.3 is able to address this issue. The name of the patch is c179a3d0703db55cfe0cb939b89593f2e7a87246. It is recommended to upgrade the affected component. VDB-217606 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2018-25070](https://github.com/Live-Hack-CVE/CVE-2018-25070)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-25070">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-25070">
+
+---
 ## CVE-2018-25069 (2023-01-07T09:15:00)
 > A vulnerability classified as critical has been found in Netis Netcore Router. This affects an unknown part. The manipulation leads to use of hard-coded password. It is possible to initiate the attack remotely. The identifier VDB-217593 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2018-25069](https://github.com/Live-Hack-CVE/CVE-2018-25069)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-25069">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-25069">

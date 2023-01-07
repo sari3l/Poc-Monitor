@@ -169,6 +169,11 @@
 - [Live-Hack-CVE/CVE-2014-1705](https://github.com/Live-Hack-CVE/CVE-2014-1705)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-1705">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-1705">
 
 ---
+## CVE-2014-125058 (2023-01-07T11:15:00)
+> A vulnerability was found in LearnMeSomeCodes project3 and classified as critical. This issue affects the function search_first_name of the file search.rb. The manipulation leads to sql injection. The name of the patch is d3efa17ae9f6b2fc25a6bbcf165cefed17c7035e. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-217607. NOTE: Maintainer is aware of this issue as remarked in the source code.
+- [Live-Hack-CVE/CVE-2014-125058](https://github.com/Live-Hack-CVE/CVE-2014-125058)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125058">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125058">
+
+---
 ## CVE-2014-125057 (2023-01-07T10:15:00)
 > A vulnerability was found in mrobit robitailletheknot. It has been classified as problematic. This affects an unknown part of the file app/filters.php of the component CSRF Token Handler. The manipulation of the argument _token leads to incorrect comparison. It is possible to initiate the attack remotely. The name of the patch is 6b2813696ccb88d0576dfb305122ee880eb36197. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-217599.
 - [Live-Hack-CVE/CVE-2014-125057](https://github.com/Live-Hack-CVE/CVE-2014-125057)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125057">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125057">

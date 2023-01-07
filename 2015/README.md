@@ -266,6 +266,21 @@
 - [poxicity/CVE-2015-1328](https://github.com/poxicity/CVE-2015-1328)	<img alt="forks" src="https://img.shields.io/github/forks/poxicity/CVE-2015-1328">	<img alt="stars" src="https://img.shields.io/github/stars/poxicity/CVE-2015-1328">
 
 ---
+## CVE-2015-10023 (2023-01-07T12:15:00)
+> A vulnerability classified as critical has been found in Fumon trello-octometric. This affects the function main of the file metrics-ui/server/srv.go. The manipulation of the argument num leads to sql injection. The name of the patch is a1f1754933fbf21e2221fbc671c81a47de6a04ef. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-217611.
+- [Live-Hack-CVE/CVE-2015-10023](https://github.com/Live-Hack-CVE/CVE-2015-10023)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-10023">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-10023">
+
+---
+## CVE-2015-10022 (2023-01-07T12:15:00)
+> A vulnerability was found in IISH nlgis2. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the file scripts/etl/custom_import.pl. The manipulation leads to sql injection. The name of the patch is 8bdb6fcf7209584eaf1232437f0f53e735b2b34c. It is recommended to apply a patch to fix this issue. The identifier VDB-217609 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2015-10022](https://github.com/Live-Hack-CVE/CVE-2015-10022)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-10022">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-10022">
+
+---
+## CVE-2015-10021 (2023-01-07T12:15:00)
+> A vulnerability was found in ritterim definely. It has been classified as problematic. Affected is an unknown function of the file src/database.js. The manipulation leads to cross site scripting. It is possible to launch the attack remotely. The name of the patch is b31a022ba4d8d17148445a13ebb5a42ad593dbaa. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-217608.
+- [Live-Hack-CVE/CVE-2015-10021](https://github.com/Live-Hack-CVE/CVE-2015-10021)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-10021">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-10021">
+
+---
 ## CVE-2015-10019 (2023-01-07T09:15:00)
 > A vulnerability, which was classified as problematic, has been found in foxoverflow MySimplifiedSQL. This issue affects some unknown processing of the file MySimplifiedSQL_Examples.php. The manipulation of the argument FirstName/LastName leads to cross site scripting. The attack may be initiated remotely. The name of the patch is 3b7481c72786f88041b7c2d83bb4f219f77f1293. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-217595.
 - [Live-Hack-CVE/CVE-2015-10019](https://github.com/Live-Hack-CVE/CVE-2015-10019)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-10019">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-10019">
