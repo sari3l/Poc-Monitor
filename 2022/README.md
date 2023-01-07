@@ -12050,6 +12050,11 @@
 - [Live-Hack-CVE/CVE-2022-39081](https://github.com/Live-Hack-CVE/CVE-2022-39081)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39081">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39081">
 
 ---
+## CVE-2022-39073 (2023-01-06T19:15:00)
+> There is a command injection vulnerability in ZTE MF286R, Due to insufficient validation of the input parameters, an attacker could use the vulnerability to execute arbitrary commands.
+- [v0lp3/CVE-2022-39073](https://github.com/v0lp3/CVE-2022-39073)	<img alt="forks" src="https://img.shields.io/github/forks/v0lp3/CVE-2022-39073">	<img alt="stars" src="https://img.shields.io/github/stars/v0lp3/CVE-2022-39073">
+
+---
 ## CVE-2022-39067 (2022-11-22T17:15:00)
 > There is a buffer overflow vulnerability in ZTE MF286R. Due to lack of input validation on parameters of the wifi interface, an authenticated attacker could use the vulnerability to perform a denial of service attack.
 - [Live-Hack-CVE/CVE-2022-39067](https://github.com/Live-Hack-CVE/CVE-2022-39067)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-39067">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-39067">
