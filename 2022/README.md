@@ -27682,6 +27682,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [qq1549176285/CVE-2022-23131](https://github.com/qq1549176285/CVE-2022-23131)	<img alt="forks" src="https://img.shields.io/github/forks/qq1549176285/CVE-2022-23131">	<img alt="stars" src="https://img.shields.io/github/stars/qq1549176285/CVE-2022-23131">
 - [Vulnmachines/Zabbix-CVE-2022-23131](https://github.com/Vulnmachines/Zabbix-CVE-2022-23131)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/Zabbix-CVE-2022-23131">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/Zabbix-CVE-2022-23131">
 - [random-robbie/cve-2022-23131-exp](https://github.com/random-robbie/cve-2022-23131-exp)	<img alt="forks" src="https://img.shields.io/github/forks/random-robbie/cve-2022-23131-exp">	<img alt="stars" src="https://img.shields.io/github/stars/random-robbie/cve-2022-23131-exp">
+- [wr0x00/cve-2022-23131](https://github.com/wr0x00/cve-2022-23131)	<img alt="forks" src="https://img.shields.io/github/forks/wr0x00/cve-2022-23131">	<img alt="stars" src="https://img.shields.io/github/stars/wr0x00/cve-2022-23131">
 
 ---
 ## CVE-2022-2308 (2022-09-01T21:15:00)
