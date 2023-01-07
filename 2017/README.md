@@ -435,6 +435,11 @@
 - [Live-Hack-CVE/CVE-2017-2599](https://github.com/Live-Hack-CVE/CVE-2017-2599)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-2599">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-2599">
 
 ---
+## CVE-2017-20164 (2023-01-07T20:15:00)
+> A vulnerability was found in Symbiote Seed up to 6.0.2. It has been classified as critical. Affected is the function onBeforeSecurityLogin of the file code/extensions/SecurityLoginExtension.php of the component Login. The manipulation of the argument URL leads to open redirect. It is possible to launch the attack remotely. Upgrading to version 6.0.3 is able to address this issue. The name of the patch is b065ebd82da53009d273aa7e989191f701485244. It is recommended to upgrade the affected component. VDB-217626 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2017-20164](https://github.com/Live-Hack-CVE/CVE-2017-20164)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20164">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20164">
+
+---
 ## CVE-2017-20163 (2023-01-05T20:15:00)
 > A vulnerability has been found in Red Snapper NView and classified as critical. This vulnerability affects the function mutate of the file src/Session.php. The manipulation of the argument session leads to sql injection. The name of the patch is cbd255f55d476b29e5680f66f48c73ddb3d416a8. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-217516.
 - [Live-Hack-CVE/CVE-2017-20163](https://github.com/Live-Hack-CVE/CVE-2017-20163)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20163">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20163">

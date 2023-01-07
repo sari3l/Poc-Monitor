@@ -143,6 +143,11 @@
 - [Live-Hack-CVE/CVE-2013-1511](https://github.com/Live-Hack-CVE/CVE-2013-1511)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-1511">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-1511">
 
 ---
+## CVE-2013-10009 (2023-01-07T20:15:00)
+> A vulnerability was found in DrAzraelTod pyChao and classified as critical. Affected by this issue is the function klauen/lesen of the file mod_fun/__init__.py. The manipulation leads to sql injection. The name of the patch is 9d8adbc07c384ba51c2583ce0819c9abb77dc648. It is recommended to apply a patch to fix this issue. VDB-217634 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2013-10009](https://github.com/Live-Hack-CVE/CVE-2013-10009)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-10009">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-10009">
+
+---
 ## CVE-2013-10008 (2023-01-06T22:15:00)
 > A vulnerability was found in sheilazpy eShop. It has been classified as critical. Affected is an unknown function. The manipulation leads to sql injection. The name of the patch is e096c5849c4dc09e1074104531014a62a5413884. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-217572.
 - [Live-Hack-CVE/CVE-2013-10008](https://github.com/Live-Hack-CVE/CVE-2013-10008)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-10008">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-10008">

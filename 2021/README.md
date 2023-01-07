@@ -968,6 +968,11 @@
 - [Citizen13X/CVE-2021-43229](https://github.com/Citizen13X/CVE-2021-43229)	<img alt="forks" src="https://img.shields.io/github/forks/Citizen13X/CVE-2021-43229">	<img alt="stars" src="https://img.shields.io/github/stars/Citizen13X/CVE-2021-43229">
 
 ---
+## CVE-2021-4307 (2023-01-07T20:15:00)
+> A vulnerability was found in Yomguithereal Baobab up to 2.6.0. It has been declared as critical. Affected by this vulnerability is an unknown functionality. The manipulation leads to improperly controlled modification of object prototype attributes ('prototype pollution'). The attack can be launched remotely. Upgrading to version 2.6.1 is able to address this issue. The name of the patch is c56639532a923d9a1600fb863ec7551b188b5d19. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-217627.
+- [Live-Hack-CVE/CVE-2021-4307](https://github.com/Live-Hack-CVE/CVE-2021-4307)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4307">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4307">
+
+---
 ## CVE-2021-4306 (2023-01-07T17:15:00)
 > A vulnerability classified as problematic has been found in cronvel terminal-kit up to 2.1.7. Affected is an unknown function. The manipulation leads to inefficient regular expression complexity. Upgrading to version 2.1.8 is able to address this issue. The name of the patch is a2e446cc3927b559d0281683feb9b821e83b758c. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-217620.
 - [Live-Hack-CVE/CVE-2021-4306](https://github.com/Live-Hack-CVE/CVE-2021-4306)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4306">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4306">

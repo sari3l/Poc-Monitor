@@ -169,6 +169,21 @@
 - [Live-Hack-CVE/CVE-2014-1705](https://github.com/Live-Hack-CVE/CVE-2014-1705)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-1705">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-1705">
 
 ---
+## CVE-2014-125065 (2023-01-07T20:15:00)
+> A vulnerability, which was classified as critical, was found in john5223 bottle-auth. Affected is an unknown function. The manipulation leads to sql injection. The name of the patch is 99cfbcc0c1429096e3479744223ffb4fda276875. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-217632.
+- [Live-Hack-CVE/CVE-2014-125065](https://github.com/Live-Hack-CVE/CVE-2014-125065)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125065">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125065">
+
+---
+## CVE-2014-125064 (2023-01-07T20:15:00)
+> A vulnerability, which was classified as critical, has been found in elgs gosqljson. This issue affects the function QueryDbToArray/QueryDbToMap/ExecDb of the file gosqljson.go. The manipulation of the argument sqlStatement leads to sql injection. The name of the patch is 2740b331546cb88eb61771df4c07d389e9f0363a. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-217631.
+- [Live-Hack-CVE/CVE-2014-125064](https://github.com/Live-Hack-CVE/CVE-2014-125064)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125064">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125064">
+
+---
+## CVE-2014-125063 (2023-01-07T19:15:00)
+> A vulnerability was found in ada-l0velace Bid and classified as critical. This issue affects some unknown processing. The manipulation leads to sql injection. The name of the patch is abd71140b8219fa8741d0d8a57ab27d5bfd34222. It is recommended to apply a patch to fix this issue. The identifier VDB-217625 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2014-125063](https://github.com/Live-Hack-CVE/CVE-2014-125063)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125063">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125063">
+
+---
 ## CVE-2014-125062 (2023-01-07T17:15:00)
 > A vulnerability classified as critical was found in ananich bitstorm. Affected by this vulnerability is an unknown functionality of the file announce.php. The manipulation of the argument event leads to sql injection. The name of the patch is ea8da92f94cdb78ee7831e1f7af6258473ab396a. It is recommended to apply a patch to fix this issue. The identifier VDB-217621 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2014-125062](https://github.com/Live-Hack-CVE/CVE-2014-125062)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125062">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125062">
