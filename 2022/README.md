@@ -1819,9 +1819,19 @@
 - [Live-Hack-CVE/CVE-2022-45914](https://github.com/Live-Hack-CVE/CVE-2022-45914)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45914">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45914">
 
 ---
+## CVE-2022-45913 (2023-01-06T23:15:00)
+> An issue was discovered in Zimbra Collaboration (ZCS) 9.0. XSS can occur via one of attributes in webmail URLs to execute arbitrary JavaScript code, leading to information disclosure.
+- [Live-Hack-CVE/CVE-2022-45913](https://github.com/Live-Hack-CVE/CVE-2022-45913)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45913">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45913">
+
+---
 ## CVE-2022-45912 (2022-12-05T22:15:00)
 > An issue was discovered in Zimbra Collaboration (ZCS) 8.8.15 and 9.0. Remote code execution can occur through ClientUploader by an authenticated admin user. An authenticated admin user can upload files through the ClientUploader utility, and traverse to any other directory for remote code execution.
 - [Live-Hack-CVE/CVE-2022-45912](https://github.com/Live-Hack-CVE/CVE-2022-45912)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45912">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45912">
+
+---
+## CVE-2022-45911 (2023-01-06T23:15:00)
+> An issue was discovered in Zimbra Collaboration (ZCS) 9.0. XSS can occur on the Classic UI login page by injecting arbitrary JavaScript code in the username field. This occurs before the user logs into the system, which means that even if the attacker executes arbitrary JavaScript, they will not get any sensitive information.
+- [Live-Hack-CVE/CVE-2022-45911](https://github.com/Live-Hack-CVE/CVE-2022-45911)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45911">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45911">
 
 ---
 ## CVE-2022-4591 (2022-12-17T19:15:00)
@@ -26696,6 +26706,8 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-2482 (2023-01-06T22:15:00)
 > A vulnerability exists in Nokia’s ASIK AirScale system module (versions 474021A.101 and 474021A.102) that could allow an attacker to place a script on the file system accessible from Linux. A script placed in the appropriate place could allow for arbitrary code execution in the bootloader.
 - [Live-Hack-CVE/CVE-2022-2482](https://github.com/Live-Hack-CVE/CVE-2022-2482)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2482">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2482">
+- [Live-Hack-CVE/CVE-2022-24828](https://github.com/Live-Hack-CVE/CVE-2022-24828)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24828">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24828">
+- [Live-Hack-CVE/CVE-2022-24823](https://github.com/Live-Hack-CVE/CVE-2022-24823)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24823">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24823">
 
 ---
 ## CVE-2022-24793 (2022-04-06T14:15:00)

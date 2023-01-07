@@ -169,6 +169,11 @@
 - [Live-Hack-CVE/CVE-2014-1705](https://github.com/Live-Hack-CVE/CVE-2014-1705)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-1705">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-1705">
 
 ---
+## CVE-2014-125053 (2023-01-06T23:15:00)
+> A vulnerability was found in Piwigo-Guest-Book up to 1.3.0. It has been declared as critical. This vulnerability affects unknown code of the file include/guestbook.inc.php of the component Navigation Bar. The manipulation of the argument start leads to sql injection. Upgrading to version 1.3.1 is able to address this issue. The name of the patch is 0cdd1c388edf15089c3a7541cefe7756e560581d. It is recommended to upgrade the affected component. VDB-217582 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2014-125053](https://github.com/Live-Hack-CVE/CVE-2014-125053)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125053">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125053">
+
+---
 ## CVE-2014-125052 (2023-01-06T21:15:00)
 > A vulnerability was found in JervenBolleman sparql-identifiers and classified as critical. This issue affects some unknown processing of the file src/main/java/org/identifiers/db/RegistryDao.java. The manipulation leads to sql injection. The name of the patch is 44bb0db91c064e305b192fc73521d1dfd25bde52. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-217571.
 - [Live-Hack-CVE/CVE-2014-125052](https://github.com/Live-Hack-CVE/CVE-2014-125052)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125052">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125052">
