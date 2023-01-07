@@ -7034,6 +7034,11 @@
 - [Live-Hack-CVE/CVE-2021-21554](https://github.com/Live-Hack-CVE/CVE-2021-21554)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21554">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21554">
 
 ---
+## CVE-2021-21551 (2021-05-04T16:15:00)
+> Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.
+- [nanabingies/CVE-2021-21551](https://github.com/nanabingies/CVE-2021-21551)	<img alt="forks" src="https://img.shields.io/github/forks/nanabingies/CVE-2021-21551">	<img alt="stars" src="https://img.shields.io/github/stars/nanabingies/CVE-2021-21551">
+
+---
 ## CVE-2021-21540 (2021-04-30T21:15:00)
 > Dell EMC iDRAC9 versions prior to 4.40.00.00 contain a stack-based overflow vulnerability. A remote authenticated attacker could potentially exploit this vulnerability to overwrite configuration information by injecting arbitrarily large payload.
 - [Live-Hack-CVE/CVE-2021-21540](https://github.com/Live-Hack-CVE/CVE-2021-21540)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21540">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21540">

@@ -1727,6 +1727,11 @@
 - [Live-Hack-CVE/CVE-2019-16770](https://github.com/Live-Hack-CVE/CVE-2019-16770)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16770">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16770">
 
 ---
+## CVE-2019-16724 (2019-09-24T21:15:00)
+> File Sharing Wizard 1.5.0 allows a remote attacker to obtain arbitrary code execution by exploiting a Structured Exception Handler (SEH) based buffer overflow in an HTTP POST parameter, a similar issue to CVE-2010-2330 and CVE-2010-2331.
+- [nanabingies/CVE-2019-16724](https://github.com/nanabingies/CVE-2019-16724)	<img alt="forks" src="https://img.shields.io/github/forks/nanabingies/CVE-2019-16724">	<img alt="stars" src="https://img.shields.io/github/stars/nanabingies/CVE-2019-16724">
+
+---
 ## CVE-2019-16688 (2019-09-27T20:15:00)
 > Dolibarr 9.0.5 has stored XSS in an Email Template section to mails_templates.php. A user with no privileges can inject script to attack the admin. (This stored XSS can affect all types of user privilege from Admin to users with no permissions.)
 - [Live-Hack-CVE/CVE-2019-16688](https://github.com/Live-Hack-CVE/CVE-2019-16688)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16688">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16688">
