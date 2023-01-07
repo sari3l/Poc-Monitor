@@ -854,6 +854,11 @@
 - [jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041](https://github.com/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041)	<img alt="forks" src="https://img.shields.io/github/forks/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041">	<img alt="stars" src="https://img.shields.io/github/stars/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041">
 
 ---
+## CVE-2020-36644 (2023-01-07T10:15:00)
+> A vulnerability has been found in jamesmartin Inline SVG up to 1.7.1 and classified as problematic. Affected by this vulnerability is an unknown functionality of the file lib/inline_svg/action_view/helpers.rb of the component URL Parameter Handler. The manipulation of the argument filename leads to cross site scripting. The attack can be launched remotely. Upgrading to version 1.7.2 is able to address this issue. The name of the patch is f5363b351508486021f99e083c92068cf2943621. It is recommended to upgrade the affected component. The identifier VDB-217597 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2020-36644](https://github.com/Live-Hack-CVE/CVE-2020-36644)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36644">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36644">
+
+---
 ## CVE-2020-36643 (2023-01-06T17:15:00)
 > A vulnerability was found in intgr uqm-wasm. It has been classified as critical. This affects the function log_displayBox in the library sc2/src/libs/log/msgbox_macosx.m. The manipulation leads to format string. The name of the patch is 1d5cbf3350a02c423ad6bef6dfd5300d38aa828f. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-217563.
 - [Live-Hack-CVE/CVE-2020-36643](https://github.com/Live-Hack-CVE/CVE-2020-36643)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36643">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36643">

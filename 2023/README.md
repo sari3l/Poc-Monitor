@@ -61,6 +61,16 @@
 - [Live-Hack-CVE/CVE-2023-22451](https://github.com/Live-Hack-CVE/CVE-2023-22451)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22451">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22451">
 
 ---
+## CVE-2023-0114 (2023-01-07T09:15:00)
+> A vulnerability was found in Netis Netcore Router. It has been rated as problematic. Affected by this issue is some unknown functionality of the file param.file.tgz of the component Backup Handler. The manipulation leads to cleartext storage in a file or on disk. Local access is required to approach this attack. The identifier of this vulnerability is VDB-217592.
+- [Live-Hack-CVE/CVE-2023-0114](https://github.com/Live-Hack-CVE/CVE-2023-0114)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0114">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0114">
+
+---
+## CVE-2023-0113 (2023-01-07T09:15:00)
+> A vulnerability was found in Netis Netcore Router. It has been declared as problematic. Affected by this vulnerability is an unknown functionality of the file param.file.tgz of the component Backup Handler. The manipulation leads to information disclosure. The attack can be launched remotely. The associated identifier of this vulnerability is VDB-217591.
+- [Live-Hack-CVE/CVE-2023-0113](https://github.com/Live-Hack-CVE/CVE-2023-0113)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0113">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0113">
+
+---
 ## CVE-2023-0112 (2023-01-07T04:15:00)
 > Cross-site Scripting (XSS) - Stored in GitHub repository usememos/memos prior to 0.10.0.
 - [Live-Hack-CVE/CVE-2023-0112](https://github.com/Live-Hack-CVE/CVE-2023-0112)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0112">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0112">

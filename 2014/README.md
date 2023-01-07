@@ -169,6 +169,26 @@
 - [Live-Hack-CVE/CVE-2014-1705](https://github.com/Live-Hack-CVE/CVE-2014-1705)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-1705">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-1705">
 
 ---
+## CVE-2014-125057 (2023-01-07T10:15:00)
+> A vulnerability was found in mrobit robitailletheknot. It has been classified as problematic. This affects an unknown part of the file app/filters.php of the component CSRF Token Handler. The manipulation of the argument _token leads to incorrect comparison. It is possible to initiate the attack remotely. The name of the patch is 6b2813696ccb88d0576dfb305122ee880eb36197. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-217599.
+- [Live-Hack-CVE/CVE-2014-125057](https://github.com/Live-Hack-CVE/CVE-2014-125057)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125057">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125057">
+
+---
+## CVE-2014-125056 (2023-01-07T10:15:00)
+> A vulnerability was found in Pylons horus and classified as problematic. Affected by this issue is some unknown functionality of the file horus/flows/local/services.py. The manipulation leads to observable timing discrepancy. The name of the patch is fd56ccb62ce3cbdab0484fe4f9c25c4eda6c57ec. It is recommended to apply a patch to fix this issue. VDB-217598 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2014-125056](https://github.com/Live-Hack-CVE/CVE-2014-125056)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125056">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125056">
+
+---
+## CVE-2014-125055 (2023-01-07T09:15:00)
+> A vulnerability, which was classified as problematic, was found in agnivade easy-scrypt. Affected is the function VerifyPassphrase of the file scrypt.go. The manipulation leads to observable timing discrepancy. Upgrading to version 1.0.0 is able to address this issue. The name of the patch is 477c10cf3b144ddf96526aa09f5fdea613f21812. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-217596.
+- [Live-Hack-CVE/CVE-2014-125055](https://github.com/Live-Hack-CVE/CVE-2014-125055)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125055">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125055">
+
+---
+## CVE-2014-125054 (2023-01-07T09:15:00)
+> A vulnerability classified as critical was found in koroket RedditOnRails. This vulnerability affects unknown code of the component Vote Handler. The manipulation leads to improper access controls. The attack can be initiated remotely. The name of the patch is 7f3c7407d95d532fcc342b00d68d0ea09ca71030. It is recommended to apply a patch to fix this issue. VDB-217594 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2014-125054](https://github.com/Live-Hack-CVE/CVE-2014-125054)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125054">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125054">
+
+---
 ## CVE-2014-125053 (2023-01-06T23:15:00)
 > A vulnerability was found in Piwigo-Guest-Book up to 1.3.0. It has been declared as critical. This vulnerability affects unknown code of the file include/guestbook.inc.php of the component Navigation Bar. The manipulation of the argument start leads to sql injection. Upgrading to version 1.3.1 is able to address this issue. The name of the patch is 0cdd1c388edf15089c3a7541cefe7756e560581d. It is recommended to upgrade the affected component. VDB-217582 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2014-125053](https://github.com/Live-Hack-CVE/CVE-2014-125053)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125053">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125053">
