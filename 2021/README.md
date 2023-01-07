@@ -7037,6 +7037,15 @@
 ## CVE-2021-21551 (2021-05-04T16:15:00)
 > Dell dbutil_2_3.sys driver contains an insufficient access control vulnerability which may lead to escalation of privileges, denial of service, or information disclosure. Local authenticated user access is required.
 - [nanabingies/CVE-2021-21551](https://github.com/nanabingies/CVE-2021-21551)	<img alt="forks" src="https://img.shields.io/github/forks/nanabingies/CVE-2021-21551">	<img alt="stars" src="https://img.shields.io/github/stars/nanabingies/CVE-2021-21551">
+- [hfiref0x/KDU](https://github.com/hfiref0x/KDU)	<img alt="forks" src="https://img.shields.io/github/forks/hfiref0x/KDU">	<img alt="stars" src="https://img.shields.io/github/stars/hfiref0x/KDU">
+- [tijme/kernel-mii](https://github.com/tijme/kernel-mii)	<img alt="forks" src="https://img.shields.io/github/forks/tijme/kernel-mii">	<img alt="stars" src="https://img.shields.io/github/stars/tijme/kernel-mii">
+- [ihack4falafel/Dell-Driver-EoP-CVE-2021-21551](https://github.com/ihack4falafel/Dell-Driver-EoP-CVE-2021-21551)	<img alt="forks" src="https://img.shields.io/github/forks/ihack4falafel/Dell-Driver-EoP-CVE-2021-21551">	<img alt="stars" src="https://img.shields.io/github/stars/ihack4falafel/Dell-Driver-EoP-CVE-2021-21551">
+- [mathisvickie/CVE-2021-21551](https://github.com/mathisvickie/CVE-2021-21551)	<img alt="forks" src="https://img.shields.io/github/forks/mathisvickie/CVE-2021-21551">	<img alt="stars" src="https://img.shields.io/github/stars/mathisvickie/CVE-2021-21551">
+- [Kinsiinoo/PoshDellDBUtil](https://github.com/Kinsiinoo/PoshDellDBUtil)	<img alt="forks" src="https://img.shields.io/github/forks/Kinsiinoo/PoshDellDBUtil">	<img alt="stars" src="https://img.shields.io/github/stars/Kinsiinoo/PoshDellDBUtil">
+- [mzakocs/CVE-2021-21551-POC](https://github.com/mzakocs/CVE-2021-21551-POC)	<img alt="forks" src="https://img.shields.io/github/forks/mzakocs/CVE-2021-21551-POC">	<img alt="stars" src="https://img.shields.io/github/stars/mzakocs/CVE-2021-21551-POC">
+- [arnaudluti/PS-CVE-2021-21551](https://github.com/arnaudluti/PS-CVE-2021-21551)	<img alt="forks" src="https://img.shields.io/github/forks/arnaudluti/PS-CVE-2021-21551">	<img alt="stars" src="https://img.shields.io/github/stars/arnaudluti/PS-CVE-2021-21551">
+- [ch3rn0byl/CVE-2021-21551](https://github.com/ch3rn0byl/CVE-2021-21551)	<img alt="forks" src="https://img.shields.io/github/forks/ch3rn0byl/CVE-2021-21551">	<img alt="stars" src="https://img.shields.io/github/stars/ch3rn0byl/CVE-2021-21551">
+- [waldo-irc/CVE-2021-21551](https://github.com/waldo-irc/CVE-2021-21551)	<img alt="forks" src="https://img.shields.io/github/forks/waldo-irc/CVE-2021-21551">	<img alt="stars" src="https://img.shields.io/github/stars/waldo-irc/CVE-2021-21551">
 
 ---
 ## CVE-2021-21540 (2021-04-30T21:15:00)

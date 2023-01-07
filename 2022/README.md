@@ -26701,6 +26701,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-2483 (2023-01-06T22:15:00)
 > The bootloader in the Nokia ASIK AirScale system module (versions 474021A.101 and 474021A.102) loads public keys for firmware verification signature. If an attacker modifies the flash contents to corrupt the keys, secure boot could be permanently disabled on a given device.
 - [Live-Hack-CVE/CVE-2022-2483](https://github.com/Live-Hack-CVE/CVE-2022-2483)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2483">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2483">
+- [Live-Hack-CVE/CVE-2022-24836](https://github.com/Live-Hack-CVE/CVE-2022-24836)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24836">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24836">
 
 ---
 ## CVE-2022-2482 (2023-01-06T22:15:00)
