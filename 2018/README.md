@@ -83,6 +83,7 @@
 - [firefart/CVE-2018-7600](https://github.com/firefart/CVE-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/firefart/CVE-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/firefart/CVE-2018-7600">
 - [trhacknon/CVE-2018-7600](https://github.com/trhacknon/CVE-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2018-7600">
 - [r0lh/CVE-2018-7600](https://github.com/r0lh/CVE-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/r0lh/CVE-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/r0lh/CVE-2018-7600">
+- [demetrius-ford/CVE-2018-7600](https://github.com/demetrius-ford/CVE-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/demetrius-ford/CVE-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/demetrius-ford/CVE-2018-7600">
 
 ---
 ## CVE-2018-7557 (2018-02-28T07:29:00)
