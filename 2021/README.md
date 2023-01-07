@@ -3100,6 +3100,11 @@
 - [Live-Hack-CVE/CVE-2021-3813](https://github.com/Live-Hack-CVE/CVE-2021-3813)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3813">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3813">
 
 ---
+## CVE-2021-38003 (2021-11-23T22:15:00)
+> Inappropriate implementation in V8 in Google Chrome prior to 95.0.4638.69 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003](https://github.com/SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003">
+
+---
 ## CVE-2021-3796 (2021-09-15T13:15:00)
 > vim is vulnerable to Use After Free
 - [Live-Hack-CVE/CVE-2021-3796](https://github.com/Live-Hack-CVE/CVE-2021-3796)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3796">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3796">

@@ -61,6 +61,36 @@
 - [Live-Hack-CVE/CVE-2023-22451](https://github.com/Live-Hack-CVE/CVE-2023-22451)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22451">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22451">
 
 ---
+## CVE-2023-0112 (2023-01-07T04:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository usememos/memos prior to 0.10.0.
+- [Live-Hack-CVE/CVE-2023-0112](https://github.com/Live-Hack-CVE/CVE-2023-0112)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0112">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0112">
+
+---
+## CVE-2023-0111 (2023-01-07T04:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository usememos/memos prior to 0.10.0.
+- [Live-Hack-CVE/CVE-2023-0111](https://github.com/Live-Hack-CVE/CVE-2023-0111)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0111">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0111">
+
+---
+## CVE-2023-0110 (2023-01-07T04:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository usememos/memos prior to 0.10.0.
+- [Live-Hack-CVE/CVE-2023-0110](https://github.com/Live-Hack-CVE/CVE-2023-0110)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0110">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0110">
+
+---
+## CVE-2023-0108 (2023-01-07T04:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository usememos/memos prior to 0.10.0.
+- [Live-Hack-CVE/CVE-2023-0108](https://github.com/Live-Hack-CVE/CVE-2023-0108)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0108">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0108">
+
+---
+## CVE-2023-0107 (2023-01-07T04:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository usememos/memos prior to 0.10.0.
+- [Live-Hack-CVE/CVE-2023-0107](https://github.com/Live-Hack-CVE/CVE-2023-0107)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0107">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0107">
+
+---
+## CVE-2023-0106 (2023-01-07T04:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository usememos/memos prior to 0.10.0.
+- [Live-Hack-CVE/CVE-2023-0106](https://github.com/Live-Hack-CVE/CVE-2023-0106)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0106">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0106">
+
+---
 ## CVE-2023-0088 (2023-01-05T19:15:00)
 > The Swifty Page Manager plugin for WordPress is vulnerable to Cross-Site Request Forgery in versions up to, and including, 3.0.1. This is due to missing or incorrect nonce validation on several AJAX actions handling page creation and deletion among other things. This makes it possible for unauthenticated attackers to invoke those functions, via forged request granted they can trick a site administrator into performing an action such as clicking on a link.
 - [Live-Hack-CVE/CVE-2023-0088](https://github.com/Live-Hack-CVE/CVE-2023-0088)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0088">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0088">
