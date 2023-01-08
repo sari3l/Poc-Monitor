@@ -169,6 +169,16 @@
 - [Live-Hack-CVE/CVE-2014-1705](https://github.com/Live-Hack-CVE/CVE-2014-1705)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-1705">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-1705">
 
 ---
+## CVE-2014-125069 (2023-01-08T11:15:00)
+> A vulnerability was found in saxman maps-js-icoads. It has been classified as problematic. Affected is an unknown function. The manipulation leads to exposure of information through directory listing. It is possible to launch the attack remotely. The name of the patch is 34b8b0cce2807b119f4cffda2ac48fc8f427d69a. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-217644.
+- [Live-Hack-CVE/CVE-2014-125069](https://github.com/Live-Hack-CVE/CVE-2014-125069)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125069">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125069">
+
+---
+## CVE-2014-125068 (2023-01-08T11:15:00)
+> A vulnerability was found in saxman maps-js-icoads and classified as critical. This issue affects some unknown processing of the file http-server.js. The manipulation leads to path traversal. The name of the patch is 34b8b0cce2807b119f4cffda2ac48fc8f427d69a. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-217643.
+- [Live-Hack-CVE/CVE-2014-125068](https://github.com/Live-Hack-CVE/CVE-2014-125068)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125068">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125068">
+
+---
 ## CVE-2014-125067 (2023-01-08T10:15:00)
 > A vulnerability classified as critical was found in corincerami curiosity. Affected by this vulnerability is an unknown functionality of the file app/controllers/image_controller.rb. The manipulation of the argument sol leads to sql injection. The name of the patch is d64fddd74ca72714e73f4efe24259ca05c8190eb. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-217639.
 - [Live-Hack-CVE/CVE-2014-125067](https://github.com/Live-Hack-CVE/CVE-2014-125067)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125067">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125067">
