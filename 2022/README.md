@@ -25603,6 +25603,7 @@
 ## CVE-2022-2666 (2023-01-07T22:15:00)
 > A vulnerability has been found in SourceCodester Loan Management System and classified as critical. This vulnerability affects unknown code of the file login.php. The manipulation of the argument username leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB-205618 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-2666](https://github.com/Live-Hack-CVE/CVE-2022-2666)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2666">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2666">
+- [Live-Hack-CVE/CVE-2022-26665](https://github.com/Live-Hack-CVE/CVE-2022-26665)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26665">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26665">
 
 ---
 ## CVE-2022-26653 (2022-04-16T16:15:00)
