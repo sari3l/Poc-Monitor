@@ -25600,6 +25600,11 @@
 - [Live-Hack-CVE/CVE-2022-26665](https://github.com/Live-Hack-CVE/CVE-2022-26665)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26665">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26665">
 
 ---
+## CVE-2022-2666 (2023-01-07T22:15:00)
+> A vulnerability has been found in SourceCodester Loan Management System and classified as critical. This vulnerability affects unknown code of the file login.php. The manipulation of the argument username leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB-205618 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-2666](https://github.com/Live-Hack-CVE/CVE-2022-2666)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2666">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2666">
+
+---
 ## CVE-2022-26653 (2022-04-16T16:15:00)
 > Zoho ManageEngine Remote Access Plus before 10.1.2137.15 allows guest users to view domain details (such as the username and GUID of an administrator).
 - [Live-Hack-CVE/CVE-2022-26653](https://github.com/Live-Hack-CVE/CVE-2022-26653)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-26653">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-26653">
@@ -31443,6 +31448,16 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 > 
 - [cvegithub/CVE-2022-11111](https://github.com/cvegithub/CVE-2022-11111)	<img alt="forks" src="https://img.shields.io/github/forks/cvegithub/CVE-2022-11111">	<img alt="stars" src="https://img.shields.io/github/stars/cvegithub/CVE-2022-11111">
 - [thelostworldFree/CVE-2022-111111](https://github.com/thelostworldFree/CVE-2022-111111)	<img alt="forks" src="https://img.shields.io/github/forks/thelostworldFree/CVE-2022-111111">	<img alt="stars" src="https://img.shields.io/github/stars/thelostworldFree/CVE-2022-111111">
+
+---
+## CVE-2022-1102 (2023-01-07T22:15:00)
+> A vulnerability classified as problematic has been found in SourceCodester Royale Event Management System 1.0. Affected is an unknown function of the file /royal_event/companyprofile.php. The manipulation of the argument companyname/regno/companyaddress/companyemail leads to cross site scripting. It is possible to launch the attack remotely. VDB-195786 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-1102](https://github.com/Live-Hack-CVE/CVE-2022-1102)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1102">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1102">
+
+---
+## CVE-2022-1101 (2023-01-07T22:15:00)
+> A vulnerability was found in SourceCodester Royale Event Management System 1.0. It has been rated as critical. This issue affects some unknown processing of the file /royal_event/userregister.php. The manipulation leads to improper authentication. The attack may be initiated remotely. The identifier VDB-195785 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-1101](https://github.com/Live-Hack-CVE/CVE-2022-1101)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1101">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1101">
 
 ---
 ## CVE-2022-1097 (2022-12-22T20:15:00)

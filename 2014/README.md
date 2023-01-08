@@ -349,6 +349,11 @@
 - [Live-Hack-CVE/CVE-2014-125030](https://github.com/Live-Hack-CVE/CVE-2014-125030)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125030">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125030">
 
 ---
+## CVE-2014-125029 (2023-01-07T22:15:00)
+> A vulnerability was found in ttskch PaginationServiceProvider up to 0.x. It has been declared as critical. This vulnerability affects unknown code of the file demo/index.php of the component demo. The manipulation of the argument sort/id leads to sql injection. Upgrading to version 1.0.0 is able to address this issue. The name of the patch is 619de478efce17ece1a3b913ab16e40651e1ea7b. It is recommended to upgrade the affected component. VDB-217150 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2014-125029](https://github.com/Live-Hack-CVE/CVE-2014-125029)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125029">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125029">
+
+---
 ## CVE-2014-125028 (2022-12-31T20:15:00)
 > A vulnerability was found in valtech IDP Test Client and classified as problematic. Affected by this issue is some unknown functionality of the file python-flask/main.py. The manipulation leads to cross-site request forgery. The attack may be launched remotely. The name of the patch is f1e7b3d431c8681ec46445557125890c14fa295f. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-217148.
 - [Live-Hack-CVE/CVE-2014-125028](https://github.com/Live-Hack-CVE/CVE-2014-125028)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125028">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125028">
