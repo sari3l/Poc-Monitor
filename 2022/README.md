@@ -48,6 +48,11 @@
 - [Cedric1314/CVE-2022-48870](https://github.com/Cedric1314/CVE-2022-48870)	<img alt="forks" src="https://img.shields.io/github/forks/Cedric1314/CVE-2022-48870">	<img alt="stars" src="https://img.shields.io/github/stars/Cedric1314/CVE-2022-48870">
 
 ---
+## CVE-2022-4881 (2023-01-08T13:15:00)
+> A vulnerability was found in CapsAdmin PAC3. It has been rated as problematic. Affected by this issue is some unknown functionality of the file lua/pac3/core/shared/http.lua. The manipulation of the argument url leads to cross site scripting. The attack may be launched remotely. The name of the patch is 8fc9e12dfa21d757be6eb4194c763e848b299ac0. It is recommended to apply a patch to fix this issue. VDB-217646 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4881](https://github.com/Live-Hack-CVE/CVE-2022-4881)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4881">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4881">
+
+---
 ## CVE-2022-4880 (2023-01-07T13:15:00)
 > A vulnerability was found in stakira OpenUtau. It has been classified as critical. This affects the function VoicebankInstaller of the file OpenUtau.Core/Classic/VoicebankInstaller.cs of the component ZIP Archive Handler. The manipulation leads to path traversal. Upgrading to version 0.0.991 is able to address this issue. The name of the patch is 849a0a6912aac8b1c28cc32aa1132a3140caff4a. It is recommended to upgrade the affected component. The identifier VDB-217617 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-4880](https://github.com/Live-Hack-CVE/CVE-2022-4880)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4880">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4880">

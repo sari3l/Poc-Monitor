@@ -376,6 +376,11 @@
 - [forlin/CVE-2018-2628](https://github.com/forlin/CVE-2018-2628)	<img alt="forks" src="https://img.shields.io/github/forks/forlin/CVE-2018-2628">	<img alt="stars" src="https://img.shields.io/github/stars/forlin/CVE-2018-2628">
 
 ---
+## CVE-2018-25072 (2023-01-08T13:15:00)
+> A vulnerability classified as critical has been found in lojban jbovlaste. This affects an unknown part of the file dict/listing.html. The manipulation leads to sql injection. It is possible to initiate the attack remotely. The name of the patch is 6ff44c2e87b1113eb07d76ea62e1f64193b04d15. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-217647.
+- [Live-Hack-CVE/CVE-2018-25072](https://github.com/Live-Hack-CVE/CVE-2018-25072)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-25072">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-25072">
+
+---
 ## CVE-2018-25071 (2023-01-07T12:15:00)
 > A vulnerability was found in roxlukas LMeve up to 0.1.58. It has been rated as critical. Affected by this issue is the function insert_log of the file wwwroot/ccpwgl/proxy.php. The manipulation of the argument fetch leads to sql injection. Upgrading to version 0.1.59-beta is able to address this issue. The name of the patch is c25ff7fe83a2cda1fcb365b182365adc3ffae332. It is recommended to upgrade the affected component. VDB-217610 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2018-25071](https://github.com/Live-Hack-CVE/CVE-2018-25071)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-25071">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-25071">
