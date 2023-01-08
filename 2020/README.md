@@ -3970,6 +3970,11 @@
 - [LucidUnicorn/CVE-2020-10560-Key-Recovery](https://github.com/LucidUnicorn/CVE-2020-10560-Key-Recovery)	<img alt="forks" src="https://img.shields.io/github/forks/LucidUnicorn/CVE-2020-10560-Key-Recovery">	<img alt="stars" src="https://img.shields.io/github/stars/LucidUnicorn/CVE-2020-10560-Key-Recovery">
 
 ---
+## CVE-2020-10558 (2020-03-20T19:15:00)
+> The driving interface of Tesla Model 3 vehicles in any release before 2020.4.10 allows Denial of Service to occur due to improper process separation, which allows attackers to disable the speedometer, web browser, climate controls, turn signal visual and sounds, navigation, autopilot notifications, along with other miscellaneous functions from the main screen.
+- [nuzzl/CVE-2020-10558](https://github.com/nuzzl/CVE-2020-10558)	<img alt="forks" src="https://img.shields.io/github/forks/nuzzl/CVE-2020-10558">	<img alt="stars" src="https://img.shields.io/github/stars/nuzzl/CVE-2020-10558">
+
+---
 ## CVE-2020-10504 (2020-03-12T14:15:00)
 > CSRF in admin/edit-comments.php in Chadha PHPKB Standard Multi-Language 9 allows attackers to edit a comment, given the id, via a crafted request.
 - [Live-Hack-CVE/CVE-2020-10504](https://github.com/Live-Hack-CVE/CVE-2020-10504)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10504">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10504">

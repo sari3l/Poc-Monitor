@@ -31884,6 +31884,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-0685](https://github.com/Live-Hack-CVE/CVE-2022-0685)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0685">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0685">
 
 ---
+## CVE-2022-0668 (2023-01-08T15:15:00)
+> JFrog Artifactory prior to 7.37.13 is vulnerable to Authentication Bypass, which can lead to Privilege Escalation when a specially crafted request is sent by an unauthenticated user.
+- [Live-Hack-CVE/CVE-2022-0668](https://github.com/Live-Hack-CVE/CVE-2022-0668)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0668">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0668">
+
+---
 ## CVE-2022-0666 (2022-02-18T15:15:00)
 > CRLF Injection leads to Stack Trace Exposure due to lack of filtering at https://demo.microweber.org/ in Packagist microweber/microweber prior to 1.2.11.
 - [d4rkduck/CVE-2022-0666](https://github.com/d4rkduck/CVE-2022-0666)	<img alt="forks" src="https://img.shields.io/github/forks/d4rkduck/CVE-2022-0666">	<img alt="stars" src="https://img.shields.io/github/stars/d4rkduck/CVE-2022-0666">
