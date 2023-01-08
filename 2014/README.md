@@ -169,6 +169,11 @@
 - [Live-Hack-CVE/CVE-2014-1705](https://github.com/Live-Hack-CVE/CVE-2014-1705)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-1705">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-1705">
 
 ---
+## CVE-2014-125070 (2023-01-08T18:15:00)
+> A vulnerability has been found in yanheven console and classified as problematic. Affected by this vulnerability is the function get_zone_hosts/AvailabilityZonesTable of the file openstack_dashboard/dashboards/admin/aggregates/tables.py. The manipulation leads to cross site scripting. The attack can be launched remotely. The name of the patch is ba908ae88d5925f4f6783eb234cc4ea95017472b. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-217651.
+- [Live-Hack-CVE/CVE-2014-125070](https://github.com/Live-Hack-CVE/CVE-2014-125070)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125070">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125070">
+
+---
 ## CVE-2014-125069 (2023-01-08T11:15:00)
 > A vulnerability was found in saxman maps-js-icoads. It has been classified as problematic. Affected is an unknown function. The manipulation leads to exposure of information through directory listing. It is possible to launch the attack remotely. The name of the patch is 34b8b0cce2807b119f4cffda2ac48fc8f427d69a. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-217644.
 - [Live-Hack-CVE/CVE-2014-125069](https://github.com/Live-Hack-CVE/CVE-2014-125069)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125069">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125069">

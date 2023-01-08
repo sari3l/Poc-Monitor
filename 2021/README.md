@@ -968,6 +968,11 @@
 - [Citizen13X/CVE-2021-43229](https://github.com/Citizen13X/CVE-2021-43229)	<img alt="forks" src="https://img.shields.io/github/forks/Citizen13X/CVE-2021-43229">	<img alt="stars" src="https://img.shields.io/github/stars/Citizen13X/CVE-2021-43229">
 
 ---
+## CVE-2021-4309 (2023-01-08T17:15:00)
+> A vulnerability, which was classified as problematic, has been found in 01-Scripts 01ACP. This issue affects some unknown processing. The manipulation of the argument $_SERVER['SCRIPT_NAME'] leads to cross site scripting. The attack may be initiated remotely. The name of the patch is a16eb7da46ed22bc61067c212635394f2571d3c4. It is recommended to apply a patch to fix this issue. The identifier VDB-217649 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2021-4309](https://github.com/Live-Hack-CVE/CVE-2021-4309)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4309">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4309">
+
+---
 ## CVE-2021-4308 (2023-01-08T10:15:00)
 > A vulnerability was found in WebPA up to 3.1.1. It has been rated as critical. This issue affects some unknown processing. The manipulation leads to sql injection. Upgrading to version 3.1.2 is able to address this issue. The name of the patch is 8836c4f549181e885a68e0e7ca561fdbcbd04bf0. It is recommended to upgrade the affected component. The identifier VDB-217637 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2021-4308](https://github.com/Live-Hack-CVE/CVE-2021-4308)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4308">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4308">

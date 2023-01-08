@@ -696,6 +696,16 @@
 - [Live-Hack-CVE/CVE-2016-1669](https://github.com/Live-Hack-CVE/CVE-2016-1669)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-1669">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-1669">
 
 ---
+## CVE-2016-15016 (2023-01-08T18:15:00)
+> A vulnerability was found in mrtnmtth joomla_mod_einsatz_stats up to 0.2. It has been classified as critical. This affects the function getStatsByType of the file helper.php. The manipulation of the argument year leads to sql injection. Upgrading to version 0.3 is able to address this issue. The name of the patch is 27c1b443cff45c81d9d7d926a74c76f8b6ffc6cb. It is recommended to upgrade the affected component. The identifier VDB-217653 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2016-15016](https://github.com/Live-Hack-CVE/CVE-2016-15016)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-15016">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-15016">
+
+---
+## CVE-2016-15015 (2023-01-08T18:15:00)
+> A vulnerability, which was classified as problematic, was found in viafintech Barzahlen Payment Module PHP SDK up to 2.0.0. Affected is the function verify of the file src/Webhook.php. The manipulation leads to observable timing discrepancy. Upgrading to version 2.0.1 is able to address this issue. The name of the patch is 3e7d29dc0ca6c054a6d6e211f32dae89078594c1. It is recommended to upgrade the affected component. VDB-217650 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2016-15015](https://github.com/Live-Hack-CVE/CVE-2016-15015)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-15015">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-15015">
+
+---
 ## CVE-2016-15014 (2023-01-07T20:15:00)
 > A vulnerability has been found in CESNET theme-cesnet up to 1.x and classified as problematic. Affected by this vulnerability is an unknown functionality of the file cesnet/core/lostpassword/templates/resetpassword.php. The manipulation leads to insufficiently protected credentials. Attacking locally is a requirement. Upgrading to version 2.0.0 is able to address this issue. The name of the patch is 2b857f2233ce5083b4d5bc9bfc4152f933c3e4a6. It is recommended to upgrade the affected component. The identifier VDB-217633 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2016-15014](https://github.com/Live-Hack-CVE/CVE-2016-15014)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-15014">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-15014">
