@@ -169,6 +169,16 @@
 - [Live-Hack-CVE/CVE-2014-1705](https://github.com/Live-Hack-CVE/CVE-2014-1705)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-1705">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-1705">
 
 ---
+## CVE-2014-125067 (2023-01-08T10:15:00)
+> A vulnerability classified as critical was found in corincerami curiosity. Affected by this vulnerability is an unknown functionality of the file app/controllers/image_controller.rb. The manipulation of the argument sol leads to sql injection. The name of the patch is d64fddd74ca72714e73f4efe24259ca05c8190eb. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-217639.
+- [Live-Hack-CVE/CVE-2014-125067](https://github.com/Live-Hack-CVE/CVE-2014-125067)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125067">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125067">
+
+---
+## CVE-2014-125066 (2023-01-08T09:15:00)
+> A vulnerability was found in emmflo yuko-bot. It has been declared as problematic. This vulnerability affects unknown code. The manipulation of the argument title leads to denial of service. The attack can be initiated remotely. The name of the patch is e580584b877934a4298d4dd0c497c79e579380d0. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-217636.
+- [Live-Hack-CVE/CVE-2014-125066](https://github.com/Live-Hack-CVE/CVE-2014-125066)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125066">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125066">
+
+---
 ## CVE-2014-125065 (2023-01-07T20:15:00)
 > A vulnerability, which was classified as critical, was found in john5223 bottle-auth. Affected is an unknown function. The manipulation leads to sql injection. The name of the patch is 99cfbcc0c1429096e3479744223ffb4fda276875. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-217632.
 - [Live-Hack-CVE/CVE-2014-125065](https://github.com/Live-Hack-CVE/CVE-2014-125065)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125065">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125065">

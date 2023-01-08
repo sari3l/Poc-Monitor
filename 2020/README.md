@@ -854,6 +854,16 @@
 - [jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041](https://github.com/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041)	<img alt="forks" src="https://img.shields.io/github/forks/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041">	<img alt="stars" src="https://img.shields.io/github/stars/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041">
 
 ---
+## CVE-2020-36648 (2023-01-08T10:15:00)
+> A vulnerability, which was classified as critical, was found in pouetnet pouet 2.0. This affects an unknown part. The manipulation of the argument howmany leads to sql injection. The name of the patch is 11d615931352066fb2f6dcb07428277c2cd99baf. It is recommended to apply a patch to fix this issue. The identifier VDB-217641 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2020-36648](https://github.com/Live-Hack-CVE/CVE-2020-36648)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36648">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36648">
+
+---
+## CVE-2020-36647 (2023-01-08T10:15:00)
+> A vulnerability classified as critical has been found in YunoHost-Apps transmission_ynh. Affected is an unknown function of the file conf/nginx.conf. The manipulation leads to path traversal. The name of the patch is f136dfd44eda128129e5fd2d850a3a3c600e6a4a. It is recommended to apply a patch to fix this issue. VDB-217638 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2020-36647](https://github.com/Live-Hack-CVE/CVE-2020-36647)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36647">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36647">
+
+---
 ## CVE-2020-36646 (2023-01-07T20:15:00)
 > A vulnerability classified as problematic has been found in MediaArea ZenLib up to 0.4.38. This affects the function Ztring::Date_From_Seconds_1970_Local of the file Source/ZenLib/Ztring.cpp. The manipulation of the argument Value leads to unchecked return value to null pointer dereference. Upgrading to version 0.4.39 is able to address this issue. The name of the patch is 6475fcccd37c9cf17e0cfe263b5fe0e2e47a8408. It is recommended to upgrade the affected component. The identifier VDB-217629 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2020-36646](https://github.com/Live-Hack-CVE/CVE-2020-36646)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36646">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36646">

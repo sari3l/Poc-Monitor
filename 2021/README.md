@@ -968,6 +968,12 @@
 - [Citizen13X/CVE-2021-43229](https://github.com/Citizen13X/CVE-2021-43229)	<img alt="forks" src="https://img.shields.io/github/forks/Citizen13X/CVE-2021-43229">	<img alt="stars" src="https://img.shields.io/github/stars/Citizen13X/CVE-2021-43229">
 
 ---
+## CVE-2021-4308 (2023-01-08T10:15:00)
+> A vulnerability was found in WebPA up to 3.1.1. It has been rated as critical. This issue affects some unknown processing. The manipulation leads to sql injection. Upgrading to version 3.1.2 is able to address this issue. The name of the patch is 8836c4f549181e885a68e0e7ca561fdbcbd04bf0. It is recommended to upgrade the affected component. The identifier VDB-217637 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2021-4308](https://github.com/Live-Hack-CVE/CVE-2021-4308)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4308">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4308">
+- [Live-Hack-CVE/CVE-2021-43080](https://github.com/Live-Hack-CVE/CVE-2021-43080)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43080">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43080">
+
+---
 ## CVE-2021-4307 (2023-01-07T20:15:00)
 > A vulnerability was found in Yomguithereal Baobab up to 2.6.0. It has been declared as critical. Affected by this vulnerability is an unknown functionality. The manipulation leads to improperly controlled modification of object prototype attributes ('prototype pollution'). The attack can be launched remotely. Upgrading to version 2.6.1 is able to address this issue. The name of the patch is c56639532a923d9a1600fb863ec7551b188b5d19. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-217627.
 - [Live-Hack-CVE/CVE-2021-4307](https://github.com/Live-Hack-CVE/CVE-2021-4307)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4307">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4307">
