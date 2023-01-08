@@ -31516,6 +31516,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Keith-amateur/cve-2022-1040](https://github.com/Keith-amateur/cve-2022-1040)	<img alt="forks" src="https://img.shields.io/github/forks/Keith-amateur/cve-2022-1040">	<img alt="stars" src="https://img.shields.io/github/stars/Keith-amateur/cve-2022-1040">
 - [jam620/Sophos-Vulnerability](https://github.com/jam620/Sophos-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/jam620/Sophos-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/jam620/Sophos-Vulnerability">
 - [kevinsmith96/CVE-2022-1040](https://github.com/kevinsmith96/CVE-2022-1040)	<img alt="forks" src="https://img.shields.io/github/forks/kevinsmith96/CVE-2022-1040">	<img alt="stars" src="https://img.shields.io/github/stars/kevinsmith96/CVE-2022-1040">
+- [Live-Hack-CVE/CVE-2022-1040](https://github.com/Live-Hack-CVE/CVE-2022-1040)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1040">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1040">
 
 ---
 ## CVE-2022-1038 (2022-12-12T13:15:00)
