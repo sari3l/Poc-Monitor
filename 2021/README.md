@@ -968,6 +968,11 @@
 - [Citizen13X/CVE-2021-43229](https://github.com/Citizen13X/CVE-2021-43229)	<img alt="forks" src="https://img.shields.io/github/forks/Citizen13X/CVE-2021-43229">	<img alt="stars" src="https://img.shields.io/github/stars/Citizen13X/CVE-2021-43229">
 
 ---
+## CVE-2021-4310 (2023-01-09T09:15:00)
+> A vulnerability was found in 01-Scripts 01-Artikelsystem. It has been classified as problematic. Affected is an unknown function of the file 01article.php. The manipulation of the argument $_SERVER['PHP_SELF'] leads to cross site scripting. It is possible to launch the attack remotely. The name of the patch is ae849b347a58c2cb1be38d04bbe56fc883d5d84a. It is recommended to apply a patch to fix this issue. VDB-217662 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2021-4310](https://github.com/Live-Hack-CVE/CVE-2021-4310)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4310">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4310">
+
+---
 ## CVE-2021-4309 (2023-01-08T17:15:00)
 > A vulnerability, which was classified as problematic, has been found in 01-Scripts 01ACP. This issue affects some unknown processing. The manipulation of the argument $_SERVER['SCRIPT_NAME'] leads to cross site scripting. The attack may be initiated remotely. The name of the patch is a16eb7da46ed22bc61067c212635394f2571d3c4. It is recommended to apply a patch to fix this issue. The identifier VDB-217649 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2021-4309](https://github.com/Live-Hack-CVE/CVE-2021-4309)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4309">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4309">
