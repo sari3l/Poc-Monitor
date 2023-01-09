@@ -22122,6 +22122,11 @@
 - [Live-Hack-CVE/CVE-2022-31707](https://github.com/Live-Hack-CVE/CVE-2022-31707)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31707">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31707">
 
 ---
+## CVE-2022-31705 (2022-12-14T19:15:00)
+> VMware ESXi, Workstation, and Fusion contain a heap out-of-bounds write vulnerability in the USB 2.0 controller (EHCI). A malicious actor with local administrative privileges on a virtual machine may exploit this issue to execute code as the virtual machine's VMX process running on the host. On ESXi, the exploitation is contained within the VMX sandbox whereas, on Workstation and Fusion, this may lead to code execution on the machine where Workstation or Fusion is installed.
+- [s0duku/cve-2022-31705](https://github.com/s0duku/cve-2022-31705)	<img alt="forks" src="https://img.shields.io/github/forks/s0duku/cve-2022-31705">	<img alt="stars" src="https://img.shields.io/github/stars/s0duku/cve-2022-31705">
+
+---
 ## CVE-2022-31703 (2022-12-14T19:15:00)
 > vRealize Network Insight (vRNI) directory traversal vulnerability in vRNI REST API. A malicious actor with network access to the vRNI REST API can read arbitrary files from the server.
 - [Live-Hack-CVE/CVE-2022-31703](https://github.com/Live-Hack-CVE/CVE-2022-31703)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31703">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31703">
@@ -27704,6 +27709,8 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Vulnmachines/Zabbix-CVE-2022-23131](https://github.com/Vulnmachines/Zabbix-CVE-2022-23131)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/Zabbix-CVE-2022-23131">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/Zabbix-CVE-2022-23131">
 - [random-robbie/cve-2022-23131-exp](https://github.com/random-robbie/cve-2022-23131-exp)	<img alt="forks" src="https://img.shields.io/github/forks/random-robbie/cve-2022-23131-exp">	<img alt="stars" src="https://img.shields.io/github/stars/random-robbie/cve-2022-23131-exp">
 - [wr0x00/cve-2022-23131](https://github.com/wr0x00/cve-2022-23131)	<img alt="forks" src="https://img.shields.io/github/forks/wr0x00/cve-2022-23131">	<img alt="stars" src="https://img.shields.io/github/stars/wr0x00/cve-2022-23131">
+- [Arrnitage/CVE-2022-23131_exp](https://github.com/Arrnitage/CVE-2022-23131_exp)	<img alt="forks" src="https://img.shields.io/github/forks/Arrnitage/CVE-2022-23131_exp">	<img alt="stars" src="https://img.shields.io/github/stars/Arrnitage/CVE-2022-23131_exp">
+- [peiqiF4ck/AttackWebFrameworkTools-5.1-main](https://github.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/AttackWebFrameworkTools-5.1-main">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/AttackWebFrameworkTools-5.1-main">
 
 ---
 ## CVE-2022-2308 (2022-09-01T21:15:00)
