@@ -2624,6 +2624,11 @@
 - [Live-Hack-CVE/CVE-2022-45129](https://github.com/Live-Hack-CVE/CVE-2022-45129)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45129">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45129">
 
 ---
+## CVE-2022-45126 (2023-01-09T03:15:00)
+> Kernel subsystem within OpenHarmony-v3.1.4 and prior versions in kernel_liteos_a has a kernel stack overflow vulnerability when call SysClockGettime. 4 bytes padding data from kernel stack are copied to user space incorrectly and leaked.
+- [Live-Hack-CVE/CVE-2022-45126](https://github.com/Live-Hack-CVE/CVE-2022-45126)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45126">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45126">
+
+---
 ## CVE-2022-45119 (2022-12-12T16:15:00)
 > This CVE is not valid.
 - [Live-Hack-CVE/CVE-2022-45119](https://github.com/Live-Hack-CVE/CVE-2022-45119)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45119">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45119">
@@ -4368,6 +4373,11 @@
 > Zoho ManageEngine Password Manager Pro before 12122, PAM360 before 5711, and Access Manager Plus before 4306 allow SQL Injection (in a different software component relative to CVE-2022-43671.
 - [Live-Hack-CVE/CVE-2022-43672](https://github.com/Live-Hack-CVE/CVE-2022-43672)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43672">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43672">
 - [Live-Hack-CVE/CVE-2022-43672](https://github.com/Live-Hack-CVE/CVE-2022-43672)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43672">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43672">
+
+---
+## CVE-2022-43662 (2023-01-09T03:15:00)
+> Kernel subsystem within OpenHarmony-v3.1.4 and prior versions in kernel_liteos_a has a kernel stack overflow vulnerability when call SysTimerGettime. 4 bytes padding data from kernel stack are copied to user space incorrectly and leaked.
+- [Live-Hack-CVE/CVE-2022-43662](https://github.com/Live-Hack-CVE/CVE-2022-43662)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43662">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43662">
 
 ---
 ## CVE-2022-43603 (2022-12-22T22:15:00)
@@ -26090,6 +26100,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-25892 (2022-11-01T05:15:00)
 > The package muhammara before 2.6.1, from 3.0.0 and before 3.1.1; all versions of package hummus are vulnerable to Denial of Service (DoS) when supplied with a maliciously crafted PDF file to be parsed.
 - [Live-Hack-CVE/CVE-2022-25892](https://github.com/Live-Hack-CVE/CVE-2022-25892)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25892">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25892">
+
+---
+## CVE-2022-25890 (2023-01-09T05:15:00)
+> All versions of the package wifey are vulnerable to Command Injection via the connect() function due to improper input sanitization.
+- [Live-Hack-CVE/CVE-2022-25890](https://github.com/Live-Hack-CVE/CVE-2022-25890)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25890">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25890">
 
 ---
 ## CVE-2022-25888 (2022-08-23T05:15:00)
