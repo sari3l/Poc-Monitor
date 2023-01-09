@@ -7305,6 +7305,11 @@
 - [Live-Hack-CVE/CVE-2021-21012](https://github.com/Live-Hack-CVE/CVE-2021-21012)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21012">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21012">
 
 ---
+## CVE-2021-20784 (2021-07-14T02:15:00)
+> HTTP header injection vulnerability in Everything all versions except the Lite version may allow a remote attacker to inject an arbitrary script or alter the website that uses the product via unspecified vectors.
+- [Live-Hack-CVE/CVE-2021-20784](https://github.com/Live-Hack-CVE/CVE-2021-20784)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20784">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20784">
+
+---
 ## CVE-2021-20699 (2021-06-07T14:15:00)
 > Sharp NEC Displays ((UN462A R1.300 and prior to it, UN462VA R1.300 and prior to it, UN492S R1.300 and prior to it, UN492VS R1.300 and prior to it, UN552A R1.300 and prior to it, UN552S R1.300 and prior to it, UN552VS R1.300 and prior to it, UN552 R1.300 and prior to it, UN552V R1.300 and prior to it, UX552S R1.300 and prior to it, UX552 R1.300 and prior to it, V864Q R2.000 and prior to it, C861Q R2.000 and prior to it, P754Q R2.000 and prior to it, V754Q R2.000 and prior to it, C751Q R2.000 and prior to it, V984Q R2.000 and prior to it, C981Q R2.000 and prior to it, P654Q R2.000 and prior to it, V654Q R2.000 and prior to it, C651Q R2.000 and prior to it, V554Q R2.000 and prior to it, P404 R3.200 and prior to it, P484 R3.200 and prior to it, P554 R3.200 and prior to it, V404 R3.200 and prior to it, V484 R3.200 and prior to it, V554 R3.200 and prior to it, V404-T R3.200 and prior to it, V484-T R3.200 and prior to it, V554-T R3.200 and prior to it, C501 R2.000 and prior to it, C551 R2.000 and prior to it, C431 R2.000 and prior to it) allows an attacker a buffer overflow and to execute remote code by sending long parameters that contains specific characters in http request.
 - [Live-Hack-CVE/CVE-2021-20699](https://github.com/Live-Hack-CVE/CVE-2021-20699)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20699">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20699">
