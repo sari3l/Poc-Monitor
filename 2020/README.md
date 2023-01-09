@@ -3634,6 +3634,11 @@
 - [Live-Hack-CVE/CVE-2020-13381](https://github.com/Live-Hack-CVE/CVE-2020-13381)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13381">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13381">
 
 ---
+## CVE-2020-13259 (2020-09-16T19:15:00)
+> A vulnerability in the web-based management interface of RAD SecFlow-1v os-image SF_0290_2.3.01.26 could allow an unauthenticated, remote attacker to conduct a cross-site request forgery (CSRF) attack on an affected system. The vulnerability is due to insufficient CSRF protections for the web UI on an affected device. An attacker could exploit this vulnerability by persuading a user of the interface to follow a malicious link. A successful exploit could allow the attacker to perform arbitrary actions with the privilege level of the affected user. This could be exploited in conjunction with CVE-2020-13260.
+- [UrielYochpaz/CVE-2020-13259](https://github.com/UrielYochpaz/CVE-2020-13259)	<img alt="forks" src="https://img.shields.io/github/forks/UrielYochpaz/CVE-2020-13259">	<img alt="stars" src="https://img.shields.io/github/stars/UrielYochpaz/CVE-2020-13259">
+
+---
 ## CVE-2020-13254 (2020-06-03T14:15:00)
 > An issue was discovered in Django 2.2 before 2.2.13 and 3.0 before 3.0.7. In cases where a memcached backend does not perform key validation, passing malformed cache keys could result in a key collision, and potential data leakage.
 - [Live-Hack-CVE/CVE-2020-13254](https://github.com/Live-Hack-CVE/CVE-2020-13254)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13254">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13254">
