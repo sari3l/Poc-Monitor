@@ -31158,6 +31158,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-1471](https://github.com/Live-Hack-CVE/CVE-2022-1471)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1471">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1471">
 
 ---
+## CVE-2022-1444 (2022-04-23T22:15:00)
+> heap-use-after-free in GitHub repository radareorg/radare2 prior to 5.7.0. This vulnerability is capable of inducing denial of service.
+- [KrungSalad/POC-CVE-2022-1444](https://github.com/KrungSalad/POC-CVE-2022-1444)	<img alt="forks" src="https://img.shields.io/github/forks/KrungSalad/POC-CVE-2022-1444">	<img alt="stars" src="https://img.shields.io/github/stars/KrungSalad/POC-CVE-2022-1444">
+
+---
 ## CVE-2022-1421 (2022-06-08T10:15:00)
 > The Discy WordPress theme before 5.2 lacks CSRF checks in some AJAX actions, allowing an attacker to make a logged in admin change arbitrary 's settings including payment methods via a CSRF attack
 - [nb1b3k/CVE-2022-1421](https://github.com/nb1b3k/CVE-2022-1421)	<img alt="forks" src="https://img.shields.io/github/forks/nb1b3k/CVE-2022-1421">	<img alt="stars" src="https://img.shields.io/github/stars/nb1b3k/CVE-2022-1421">
@@ -31508,6 +31513,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-1070 (2022-10-21T16:15:00)
 > Aethon TUG Home Base Server versions prior to version 24 are affected by un unauthenticated attacker who can freely access hashed user credentials.
 - [Live-Hack-CVE/CVE-2022-1070](https://github.com/Live-Hack-CVE/CVE-2022-1070)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1070">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1070">
+
+---
+## CVE-2022-1068 (2022-04-01T23:15:00)
+> Modbus Tools Modbus Slave (versions 7.4.2 and prior) is vulnerable to a stack-based buffer overflow in the registration field. This may cause the program to crash when a long character string is used.
+- [webraybtl/CVE-2022-1068](https://github.com/webraybtl/CVE-2022-1068)	<img alt="forks" src="https://img.shields.io/github/forks/webraybtl/CVE-2022-1068">	<img alt="stars" src="https://img.shields.io/github/stars/webraybtl/CVE-2022-1068">
 
 ---
 ## CVE-2022-1066 (2022-10-21T16:15:00)
