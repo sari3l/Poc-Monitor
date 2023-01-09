@@ -193,6 +193,11 @@
 - [Live-Hack-CVE/CVE-2017-7494](https://github.com/Live-Hack-CVE/CVE-2017-7494)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-7494">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-7494">
 
 ---
+## CVE-2017-7308 (2017-03-29T20:59:00)
+> The packet_set_ring function in net/packet/af_packet.c in the Linux kernel through 4.10.6 does not properly validate certain block-size data, which allows local users to cause a denial of service (integer signedness error and out-of-bounds write), or gain privileges (if the CAP_NET_RAW capability is held), via crafted system calls.
+- [anldori/CVE-2017-7308](https://github.com/anldori/CVE-2017-7308)	<img alt="forks" src="https://img.shields.io/github/forks/anldori/CVE-2017-7308">	<img alt="stars" src="https://img.shields.io/github/stars/anldori/CVE-2017-7308">
+
+---
 ## CVE-2017-7269 (2017-03-27T02:59:00)
 > Buffer overflow in the ScStoragePathFromUrl function in the WebDAV service in Internet Information Services (IIS) 6.0 in Microsoft Windows Server 2003 R2 allows remote attackers to execute arbitrary code via a long header beginning with "If: <http://" in a PROPFIND request, as exploited in the wild in July or August 2016.
 - [denchief1/CVE-2017-7269_Python3](https://github.com/denchief1/CVE-2017-7269_Python3)	<img alt="forks" src="https://img.shields.io/github/forks/denchief1/CVE-2017-7269_Python3">	<img alt="stars" src="https://img.shields.io/github/stars/denchief1/CVE-2017-7269_Python3">
@@ -567,6 +572,7 @@
 - [dangokyo/CVE_2017_16995](https://github.com/dangokyo/CVE_2017_16995)	<img alt="forks" src="https://img.shields.io/github/forks/dangokyo/CVE_2017_16995">	<img alt="stars" src="https://img.shields.io/github/stars/dangokyo/CVE_2017_16995">
 - [C0dak/CVE-2017-16995](https://github.com/C0dak/CVE-2017-16995)	<img alt="forks" src="https://img.shields.io/github/forks/C0dak/CVE-2017-16995">	<img alt="stars" src="https://img.shields.io/github/stars/C0dak/CVE-2017-16995">
 - [fei9747/CVE-2017-16995](https://github.com/fei9747/CVE-2017-16995)	<img alt="forks" src="https://img.shields.io/github/forks/fei9747/CVE-2017-16995">	<img alt="stars" src="https://img.shields.io/github/stars/fei9747/CVE-2017-16995">
+- [anldori/CVE-2017-16995](https://github.com/anldori/CVE-2017-16995)	<img alt="forks" src="https://img.shields.io/github/forks/anldori/CVE-2017-16995">	<img alt="stars" src="https://img.shields.io/github/stars/anldori/CVE-2017-16995">
 
 ---
 ## CVE-2017-16744 (2018-08-20T21:29:00)
