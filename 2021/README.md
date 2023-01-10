@@ -1,6 +1,11 @@
 # 2021 List
 
 ---
+## CVE-2021-46871 (2023-01-10T06:15:00)
+> tag.ex in Phoenix Phoenix.HTML (aka phoenix_html) before 3.0.4 allows XSS in HEEx class attributes.
+- [Live-Hack-CVE/CVE-2021-46871](https://github.com/Live-Hack-CVE/CVE-2021-46871)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46871">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46871">
+
+---
 ## CVE-2021-46856 (2022-12-20T21:15:00)
 > The multi-screen collaboration module has a path traversal vulnerability. Successful exploitation of this vulnerability may affect data confidentiality.
 - [Live-Hack-CVE/CVE-2021-46856](https://github.com/Live-Hack-CVE/CVE-2021-46856)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46856">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46856">
