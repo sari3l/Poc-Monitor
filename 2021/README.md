@@ -712,6 +712,16 @@
 - [Live-Hack-CVE/CVE-2021-44040](https://github.com/Live-Hack-CVE/CVE-2021-44040)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44040">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44040">
 
 ---
+## CVE-2021-44014 (2021-12-14T12:15:00)
+> A vulnerability has been identified in JT Open (All versions < V11.1.1.0), JT Utilities (All versions < V13.1.1.0), Solid Edge (All versions < V2023). The Jt1001.dll contains a use-after-free vulnerability that could be triggered while parsing specially crafted JT files. An attacker could leverage this vulnerability to execute code in the context of the current process. (ZDI-CAN-15057, ZDI-CAN-19081)
+- [Live-Hack-CVE/CVE-2021-44014](https://github.com/Live-Hack-CVE/CVE-2021-44014)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44014">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44014">
+
+---
+## CVE-2021-44002 (2021-12-14T12:15:00)
+> A vulnerability has been identified in JT Open (All versions < V11.1.1.0), JT Utilities (All versions < V13.1.1.0), Solid Edge (All versions < V2023). The Jt1001.dll contains an out of bounds write past the end of an allocated structure while parsing specially crafted JT files. This could allow an attacker to execute code in the context of the current process. (ZDI-CAN-15058, ZDI-CAN-19076, ZDI-CAN-19077)
+- [Live-Hack-CVE/CVE-2021-44002](https://github.com/Live-Hack-CVE/CVE-2021-44002)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44002">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44002">
+
+---
 ## CVE-2021-43990 (2022-04-20T16:15:00)
 > The affected product is vulnerable to a network-based attack by threat actors supplying a crafted, malicious XML payload designed to trigger an external entity reference call.
 - [Live-Hack-CVE/CVE-2021-43990](https://github.com/Live-Hack-CVE/CVE-2021-43990)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43990">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43990">
