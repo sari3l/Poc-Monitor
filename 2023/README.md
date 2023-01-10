@@ -66,6 +66,11 @@
 - [Live-Hack-CVE/CVE-2023-22451](https://github.com/Live-Hack-CVE/CVE-2023-22451)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22451">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22451">
 
 ---
+## CVE-2023-22320 (2023-01-10T04:15:00)
+> OpenAM Web Policy Agent (OpenAM Consortium Edition) provided by OpenAM Consortium parses URLs improperly, leading to a path traversal vulnerability(CWE-22). Furthermore, a crafted URL may be evaluated incorrectly.
+- [Live-Hack-CVE/CVE-2023-22320](https://github.com/Live-Hack-CVE/CVE-2023-22320)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22320">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22320">
+
+---
 ## CVE-2023-0125 (2023-01-09T21:15:00)
 > A vulnerability was found in Control iD Panel. It has been declared as problematic. Affected by this vulnerability is an unknown functionality of the component Web Interface. The manipulation of the argument Nome leads to cross site scripting. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-217717 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2023-0125](https://github.com/Live-Hack-CVE/CVE-2023-0125)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0125">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0125">
@@ -184,3 +189,48 @@
 ## CVE-2023-0028 (2023-01-01T01:15:00)
 > Cross-site Scripting (XSS) - Stored in GitHub repository linagora/twake prior to 2023.Q1.1200+.
 - [Live-Hack-CVE/CVE-2023-0028](https://github.com/Live-Hack-CVE/CVE-2023-0028)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0028">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0028">
+
+---
+## CVE-2023-0023 (2023-01-10T04:15:00)
+> In SAP Bank Account Management (Manage Banks) application, when a user clicks a smart link to navigate to another app, personal data is shown directly in the URL. They might get captured in log files, bookmarks, and so on disclosing sensitive data of the application.
+- [Live-Hack-CVE/CVE-2023-0023](https://github.com/Live-Hack-CVE/CVE-2023-0023)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0023">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0023">
+
+---
+## CVE-2023-0022 (2023-01-10T04:15:00)
+> SAP BusinessObjects Business Intelligence Analysis edition for OLAP allows an authenticated attacker to inject malicious code that can be executed by the application over the network. On successful exploitation, an attacker can perform operations that may completely compromise the application causing a high impact on the confidentiality, integrity, and availability of the application.
+- [Live-Hack-CVE/CVE-2023-0022](https://github.com/Live-Hack-CVE/CVE-2023-0022)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0022">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0022">
+
+---
+## CVE-2023-0018 (2023-01-10T04:15:00)
+> Due to improper input sanitization of user-controlled input in SAP BusinessObjects Business Intelligence Platform CMC application - versions 420, and 430, an attacker with basic user-level privileges can modify/upload crystal reports containing a malicious payload. Once these reports are viewable, anyone who opens those reports would be susceptible to stored XSS attacks. As a result of the attack, information maintained in the victim's web browser can be read, modified, and sent to the attacker.
+- [Live-Hack-CVE/CVE-2023-0018](https://github.com/Live-Hack-CVE/CVE-2023-0018)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0018">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0018">
+
+---
+## CVE-2023-0017 (2023-01-10T04:15:00)
+> An unauthenticated attacker in SAP NetWeaver AS for Java - version 7.50, due to improper access control, can attach to an open interface and make use of an open naming and directory API to access services which can be used to perform unauthorized operations affecting users and data on the current system. This could allow the attacker to have full read access to user data, make modifications to user data, and make services within the system unavailable.
+- [Live-Hack-CVE/CVE-2023-0017](https://github.com/Live-Hack-CVE/CVE-2023-0017)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0017">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0017">
+
+---
+## CVE-2023-0016 (2023-01-10T04:15:00)
+> SAP BPC MS 10.0 - version 810, allows an unauthorized attacker to execute crafted database queries. The exploitation of this issue could lead to SQL injection vulnerability and could allow an attacker to access, modify, and/or delete data from the backend database.
+- [Live-Hack-CVE/CVE-2023-0016](https://github.com/Live-Hack-CVE/CVE-2023-0016)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0016">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0016">
+
+---
+## CVE-2023-0015 (2023-01-10T04:15:00)
+> In SAP BusinessObjects Business Intelligence Platform (Web Intelligence user interface) - version 420, some calls return json with wrong content type in the header of the response. As a result, a custom application that calls directly the jsp of Web Intelligence DHTML may be vulnerable to XSS attacks. On successful exploitation an attacker can cause limited impact on confidentiality and integrity of the application.
+- [Live-Hack-CVE/CVE-2023-0015](https://github.com/Live-Hack-CVE/CVE-2023-0015)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0015">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0015">
+
+---
+## CVE-2023-0014 (2023-01-10T04:15:00)
+> SAP NetWeaver ABAP Server and ABAP Platform - versions SAP_BASIS 700, 701, 702, 710, 711, 730, 731, 740, 750, 751, 752, 753, 754, 755, 756, 757, KERNEL 7.22, 7.53, 7.77, 7.81, 7.85, 7.89, KRNL64UC 7.22, 7.22EXT, 7.53, KRNL64NUC 7.22, 7.22EXT, creates information about system identity in an ambiguous format. This could lead to capture-replay vulnerability and may be exploited by malicious users to obtain illegitimate access to the system.
+- [Live-Hack-CVE/CVE-2023-0014](https://github.com/Live-Hack-CVE/CVE-2023-0014)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0014">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0014">
+
+---
+## CVE-2023-0013 (2023-01-10T03:15:00)
+> The ABAP Keyword Documentation of SAP NetWeaver Application Server - versions 702, 731, 740, 750, 751, 752, 753, 754, 755, 756, 757, for ABAP and ABAP Platform does not sufficiently encode user-controlled inputs, resulting in Cross-Site Scripting (XSS) vulnerability. On successful exploitation an attacker can cause limited impact on confidentiality and integrity of the application.
+- [Live-Hack-CVE/CVE-2023-0013](https://github.com/Live-Hack-CVE/CVE-2023-0013)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0013">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0013">
+
+---
+## CVE-2023-0012 (2023-01-10T03:15:00)
+> In SAP Host Agent (Windows) - versions 7.21, 7.22, an attacker who gains local membership to SAP_LocalAdmin could be able to replace executables with a malicious file that will be started under a privileged account. Note that by default all user members of SAP_LocaAdmin are denied the ability to logon locally by security policy so that this can only occur if the system has already been compromised.
+- [Live-Hack-CVE/CVE-2023-0012](https://github.com/Live-Hack-CVE/CVE-2023-0012)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0012">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0012">
