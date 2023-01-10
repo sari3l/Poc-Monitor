@@ -1947,6 +1947,11 @@
 - [Live-Hack-CVE/CVE-2020-2696](https://github.com/Live-Hack-CVE/CVE-2020-2696)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2696">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2696">
 
 ---
+## CVE-2020-26948 (2020-10-10T21:15:00)
+> Emby Server before 4.5.0 allows SSRF via the Items/RemoteSearch/Image ImageURL parameter.
+- [Live-Hack-CVE/CVE-2020-26948](https://github.com/Live-Hack-CVE/CVE-2020-26948)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-26948">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-26948">
+
+---
 ## CVE-2020-26938 (2022-08-29T21:15:00)
 > In oauth2-server (aka node-oauth2-server) through 3.1.1, the value of the redirect_uri parameter received during the authorization and token request is checked against an incorrect URI pattern ("[a-zA-Z][a-zA-Z0-9+.-]+:") before making a redirection. This allows a malicious client to pass an XSS payload through the redirect_uri parameter while making an authorization request. NOTE: this vulnerability is similar to CVE-2020-7741.
 - [Live-Hack-CVE/CVE-2020-26938](https://github.com/Live-Hack-CVE/CVE-2020-26938)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-26938">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-26938">
