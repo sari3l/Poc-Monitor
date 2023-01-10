@@ -6739,6 +6739,11 @@
 - [Live-Hack-CVE/CVE-2021-22678](https://github.com/Live-Hack-CVE/CVE-2021-22678)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22678">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22678">
 
 ---
+## CVE-2021-22600 (2022-01-26T14:15:00)
+> A double free bug in packet_set_ring() in net/packet/af_packet.c can be exploited by a local user through crafted syscalls to escalate privileges or deny service. We recommend upgrading kernel past the effected versions or rebuilding past ec6af094ea28f0f2dda1a6a33b14cd57e36a9755
+- [Live-Hack-CVE/CVE-2021-22600](https://github.com/Live-Hack-CVE/CVE-2021-22600)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22600">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22600">
+
+---
 ## CVE-2021-22262 (2021-10-05T14:15:00)
 > Missing access control in all GitLab versions starting from 13.12 before 14.0.9, all versions starting from 14.1 before 14.1.4, and all versions starting from 14.2 before 14.2.2 with Jira Cloud integration enabled allows Jira users without administrative privileges to add and remove Jira Connect Namespaces via the GitLab.com for Jira Cloud application configuration page
 - [Live-Hack-CVE/CVE-2021-22262](https://github.com/Live-Hack-CVE/CVE-2021-22262)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22262">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22262">
