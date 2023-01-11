@@ -91,6 +91,97 @@
 - [Live-Hack-CVE/CVE-2023-22320](https://github.com/Live-Hack-CVE/CVE-2023-22320)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22320">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22320">
 
 ---
+## CVE-2023-21765 (2023-01-10T22:15:00)
+> Windows Print Spooler Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21678, CVE-2023-21760.
+- [Live-Hack-CVE/CVE-2023-21765](https://github.com/Live-Hack-CVE/CVE-2023-21765)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21765">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21765">
+
+---
+## CVE-2023-21764 (2023-01-10T22:15:00)
+> Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21763.
+- [Live-Hack-CVE/CVE-2023-21764](https://github.com/Live-Hack-CVE/CVE-2023-21764)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21764">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21764">
+
+---
+## CVE-2023-21755 (2023-01-10T22:15:00)
+> Windows Kernel Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21675, CVE-2023-21747, CVE-2023-21748, CVE-2023-21749, CVE-2023-21750, CVE-2023-21754, CVE-2023-21772, CVE-2023-21773, CVE-2023-21774.
+- [Live-Hack-CVE/CVE-2023-21755](https://github.com/Live-Hack-CVE/CVE-2023-21755)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21755">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21755">
+
+---
+## CVE-2023-21752 (2023-01-10T22:15:00)
+> Windows Backup Service Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2023-21752](https://github.com/Live-Hack-CVE/CVE-2023-21752)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21752">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21752">
+
+---
+## CVE-2023-21726 (2023-01-10T22:15:00)
+> Windows Credential Manager User Interface Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2023-21726](https://github.com/Live-Hack-CVE/CVE-2023-21726)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21726">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21726">
+
+---
+## CVE-2023-21548 (2023-01-10T22:15:00)
+> Windows Secure Socket Tunneling Protocol (SSTP) Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21535.
+- [Live-Hack-CVE/CVE-2023-21548](https://github.com/Live-Hack-CVE/CVE-2023-21548)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21548">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21548">
+
+---
+## CVE-2023-21541 (2023-01-10T22:15:00)
+> Windows Task Scheduler Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2023-21541](https://github.com/Live-Hack-CVE/CVE-2023-21541)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21541">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21541">
+
+---
+## CVE-2023-21540 (2023-01-10T22:15:00)
+> Windows Cryptographic Information Disclosure Vulnerability. This CVE ID is unique from CVE-2023-21550, CVE-2023-21559.
+- [Live-Hack-CVE/CVE-2023-21540](https://github.com/Live-Hack-CVE/CVE-2023-21540)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21540">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21540">
+
+---
+## CVE-2023-21539 (2023-01-10T22:15:00)
+> Windows Authentication Remote Code Execution Vulnerability.
+- [Live-Hack-CVE/CVE-2023-21539](https://github.com/Live-Hack-CVE/CVE-2023-21539)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21539">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21539">
+
+---
+## CVE-2023-21538 (2023-01-10T22:15:00)
+> .NET Denial of Service Vulnerability.
+- [Live-Hack-CVE/CVE-2023-21538](https://github.com/Live-Hack-CVE/CVE-2023-21538)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21538">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21538">
+
+---
+## CVE-2023-21537 (2023-01-10T22:15:00)
+> Microsoft Message Queuing (MSMQ) Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2023-21537](https://github.com/Live-Hack-CVE/CVE-2023-21537)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21537">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21537">
+
+---
+## CVE-2023-21536 (2023-01-10T22:15:00)
+> Event Tracing for Windows Information Disclosure Vulnerability. This CVE ID is unique from CVE-2023-21753.
+- [Live-Hack-CVE/CVE-2023-21536](https://github.com/Live-Hack-CVE/CVE-2023-21536)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21536">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21536">
+
+---
+## CVE-2023-21535 (2023-01-10T22:15:00)
+> Windows Secure Socket Tunneling Protocol (SSTP) Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21548.
+- [Live-Hack-CVE/CVE-2023-21535](https://github.com/Live-Hack-CVE/CVE-2023-21535)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21535">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21535">
+- [Live-Hack-CVE/CVE-2023-21548](https://github.com/Live-Hack-CVE/CVE-2023-21548)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21548">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21548">
+
+---
+## CVE-2023-21532 (2023-01-10T22:15:00)
+> Windows GDI Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21552.
+- [Live-Hack-CVE/CVE-2023-21532](https://github.com/Live-Hack-CVE/CVE-2023-21532)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21532">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21532">
+
+---
+## CVE-2023-21531 (2023-01-10T22:15:00)
+> Azure Service Fabric Container Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2023-21531](https://github.com/Live-Hack-CVE/CVE-2023-21531)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21531">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21531">
+
+---
+## CVE-2023-21527 (2023-01-10T22:15:00)
+> Windows iSCSI Service Denial of Service Vulnerability.
+- [Live-Hack-CVE/CVE-2023-21527](https://github.com/Live-Hack-CVE/CVE-2023-21527)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21527">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21527">
+
+---
+## CVE-2023-21525 (2023-01-10T22:15:00)
+> Remote Procedure Call Runtime Denial of Service Vulnerability.
+- [Live-Hack-CVE/CVE-2023-21525](https://github.com/Live-Hack-CVE/CVE-2023-21525)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21525">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21525">
+
+---
+## CVE-2023-21524 (2023-01-10T22:15:00)
+> Windows Local Security Authority (LSA) Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2023-21524](https://github.com/Live-Hack-CVE/CVE-2023-21524)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21524">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21524">
+
+---
 ## CVE-2023-0162 (2023-01-10T18:15:00)
 > The CPO Companion plugin for WordPress is vulnerable to Stored Cross-Site Scripting via several of its content type settings parameters in versions up to, and including, 1.0.4 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with administrator-level permissions and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.
 - [Live-Hack-CVE/CVE-2023-0162](https://github.com/Live-Hack-CVE/CVE-2023-0162)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0162">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0162">
