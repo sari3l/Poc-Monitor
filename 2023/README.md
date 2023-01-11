@@ -11,6 +11,11 @@
 - [Live-Hack-CVE/CVE-2023-22958](https://github.com/Live-Hack-CVE/CVE-2023-22958)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22958">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22958">
 
 ---
+## CVE-2023-22952 (2023-01-11T09:15:00)
+> In SugarCRM before 12.0. Hotfix 91155, a crafted request can inject custom PHP code through the EmailTemplates because of missing input validation.
+- [Live-Hack-CVE/CVE-2023-22952](https://github.com/Live-Hack-CVE/CVE-2023-22952)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22952">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22952">
+
+---
 ## CVE-2023-22911 (2023-01-10T08:15:00)
 > An issue was discovered in MediaWiki before 1.35.9, 1.36.x through 1.38.x before 1.38.5, and 1.39.x before 1.39.1. E-Widgets does widget replacement in HTML attributes, which can lead to XSS, because widget authors often do not expect that their widget is executed in an HTML attribute context.
 - [Live-Hack-CVE/CVE-2023-22911](https://github.com/Live-Hack-CVE/CVE-2023-22911)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22911">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22911">
@@ -24,6 +29,11 @@
 ## CVE-2023-22903 (2023-01-10T06:15:00)
 > api/views/user.py in LibrePhotos before e19e539 has incorrect access control.
 - [Live-Hack-CVE/CVE-2023-22903](https://github.com/Live-Hack-CVE/CVE-2023-22903)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22903">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22903">
+
+---
+## CVE-2023-22885 (2023-01-11T08:15:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate is unused by its CNA. Notes: none.
+- [Live-Hack-CVE/CVE-2023-22885](https://github.com/Live-Hack-CVE/CVE-2023-22885)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22885">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22885">
 
 ---
 ## CVE-2023-22855 ()
@@ -193,9 +203,54 @@
 - [Live-Hack-CVE/CVE-2023-21524](https://github.com/Live-Hack-CVE/CVE-2023-21524)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21524">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21524">
 
 ---
+## CVE-2023-20532 (2023-01-11T08:15:00)
+> Insufficient input validation in the SMU may allow an attacker to improperly lock resources, potentially resulting in a denial of service.
+- [Live-Hack-CVE/CVE-2023-20532](https://github.com/Live-Hack-CVE/CVE-2023-20532)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20532">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20532">
+
+---
+## CVE-2023-20531 (2023-01-11T08:15:00)
+> Insufficient bound checks in the SMU may allow an attacker to update the SRAM from/to address space to an invalid value potentially resulting in a denial of service.
+- [Live-Hack-CVE/CVE-2023-20531](https://github.com/Live-Hack-CVE/CVE-2023-20531)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20531">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20531">
+
+---
+## CVE-2023-20530 (2023-01-11T08:15:00)
+> Insufficient input validation of BIOS mailbox messages in SMU may result in out-of-bounds memory reads potentially resulting in a denial of service.
+- [Live-Hack-CVE/CVE-2023-20530](https://github.com/Live-Hack-CVE/CVE-2023-20530)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20530">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20530">
+
+---
+## CVE-2023-20529 (2023-01-11T08:15:00)
+> Insufficient bound checks in the SMU may allow an attacker to update the from/to address space to an invalid value potentially resulting in a denial of service.
+- [Live-Hack-CVE/CVE-2023-20529](https://github.com/Live-Hack-CVE/CVE-2023-20529)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20529">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20529">
+
+---
+## CVE-2023-20528 (2023-01-11T08:15:00)
+> Insufficient input validation in the SMU may allow a physical attacker to exfiltrate SMU memory contents over the I2C bus potentially leading to a loss of confidentiality.
+- [Live-Hack-CVE/CVE-2023-20528](https://github.com/Live-Hack-CVE/CVE-2023-20528)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20528">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20528">
+
+---
+## CVE-2023-20527 (2023-01-11T08:15:00)
+> Improper syscall input validation in the ASP Bootloader may allow a privileged attacker to read memory out-of-bounds, potentially leading to a denial-of-service.
+- [Live-Hack-CVE/CVE-2023-20527](https://github.com/Live-Hack-CVE/CVE-2023-20527)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20527">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20527">
+
+---
+## CVE-2023-20525 (2023-01-11T08:15:00)
+> Insufficient syscall input validation in the ASP Bootloader may allow a privileged attacker to read memory outside the bounds of a mapped register potentially leading to a denial of service.
+- [Live-Hack-CVE/CVE-2023-20525](https://github.com/Live-Hack-CVE/CVE-2023-20525)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20525">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20525">
+
+---
+## CVE-2023-20523 (2023-01-11T08:15:00)
+> TOCTOU in the ASP may allow a physical attacker to write beyond the buffer bounds, potentially leading to a loss of integrity or denial of service.
+- [Live-Hack-CVE/CVE-2023-20523](https://github.com/Live-Hack-CVE/CVE-2023-20523)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20523">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20523">
+
+---
 ## CVE-2023-0162 (2023-01-10T18:15:00)
 > The CPO Companion plugin for WordPress is vulnerable to Stored Cross-Site Scripting via several of its content type settings parameters in versions up to, and including, 1.0.4 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with administrator-level permissions and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.
 - [Live-Hack-CVE/CVE-2023-0162](https://github.com/Live-Hack-CVE/CVE-2023-0162)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0162">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0162">
+
+---
+## CVE-2023-0161 (2023-01-11T08:15:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate is unused by its CNA. Notes: none.
+- [Live-Hack-CVE/CVE-2023-0161](https://github.com/Live-Hack-CVE/CVE-2023-0161)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0161">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0161">
 
 ---
 ## CVE-2023-0141 (2023-01-10T20:15:00)

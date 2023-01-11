@@ -66,6 +66,11 @@
 - [Live-Hack-CVE/CVE-2021-46778](https://github.com/Live-Hack-CVE/CVE-2021-46778)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46778">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46778">
 
 ---
+## CVE-2021-46767 (2023-01-11T08:15:00)
+> Insufficient input validation in the ASP may allow an attacker with physical access, unauthorized write access to memory potentially leading to a loss of integrity or denial of service.
+- [Live-Hack-CVE/CVE-2021-46767](https://github.com/Live-Hack-CVE/CVE-2021-46767)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46767">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46767">
+
+---
 ## CVE-2021-46744 (2022-05-11T17:15:00)
 > An attacker with access to a malicious hypervisor may be able to infer data values used in a SEV guest on AMD CPUs by monitoring ciphertext values over time.
 - [Live-Hack-CVE/CVE-2021-46744](https://github.com/Live-Hack-CVE/CVE-2021-46744)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46744">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46744">
@@ -5799,6 +5804,41 @@
 - [Live-Hack-CVE/CVE-2021-26559](https://github.com/Live-Hack-CVE/CVE-2021-26559)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26559">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26559">
 
 ---
+## CVE-2021-26403 (2023-01-11T08:15:00)
+> Insufficient checks in SEV may lead to a malicious hypervisor disclosing the launch secret potentially resulting in compromise of VM confidentiality.
+- [Live-Hack-CVE/CVE-2021-26403](https://github.com/Live-Hack-CVE/CVE-2021-26403)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26403">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26403">
+
+---
+## CVE-2021-26402 (2023-01-11T08:15:00)
+> Insufficient bounds checking in ASP (AMD Secure Processor) firmware while handling BIOS mailbox commands, may allow an attacker to write partially-controlled data out-of-bounds to SMM or SEV-ES regions which may lead to a potential loss of integrity and availability.
+- [Live-Hack-CVE/CVE-2021-26402](https://github.com/Live-Hack-CVE/CVE-2021-26402)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26402">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26402">
+
+---
+## CVE-2021-26398 (2023-01-11T08:15:00)
+> Insufficient input validation in SYS_KEY_DERIVE system call in a compromised user application or ABL may allow an attacker to corrupt ASP (AMD Secure Processor) OS memory which may lead to potential arbitrary code execution.
+- [Live-Hack-CVE/CVE-2021-26398](https://github.com/Live-Hack-CVE/CVE-2021-26398)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26398">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26398">
+
+---
+## CVE-2021-26396 (2023-01-11T08:15:00)
+> Insufficient validation of address mapping to IO in ASP (AMD Secure Processor) may result in a loss of memory integrity in the SNP guest.
+- [Live-Hack-CVE/CVE-2021-26396](https://github.com/Live-Hack-CVE/CVE-2021-26396)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26396">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26396">
+
+---
+## CVE-2021-26355 (2023-01-11T08:15:00)
+> Insufficient fencing and checks in System Management Unit (SMU) may result in access to invalid message port registers that could result in a potential denial-of-service.
+- [Live-Hack-CVE/CVE-2021-26355](https://github.com/Live-Hack-CVE/CVE-2021-26355)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26355">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26355">
+
+---
+## CVE-2021-26346 (2023-01-11T08:15:00)
+> Failure to validate the integer operand in ASP (AMD Secure Processor) bootloader may allow an attacker to introduce an integer overflow in the L2 directory table in SPI flash resulting in a potential denial of service.
+- [Live-Hack-CVE/CVE-2021-26346](https://github.com/Live-Hack-CVE/CVE-2021-26346)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26346">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26346">
+
+---
+## CVE-2021-26343 (2023-01-11T08:15:00)
+> Insufficient validation in ASP BIOS and DRTM commands may allow malicious supervisor x86 software to disclose the contents of sensitive memory which may result in information disclosure.
+- [Live-Hack-CVE/CVE-2021-26343](https://github.com/Live-Hack-CVE/CVE-2021-26343)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26343">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26343">
+
+---
 ## CVE-2021-26338 (2021-11-16T18:15:00)
 > Improper access controls in System Management Unit (SMU) may allow for an attacker to override performance control tables located in DRAM resulting in a potential lack of system resources.
 - [Live-Hack-CVE/CVE-2021-26338](https://github.com/Live-Hack-CVE/CVE-2021-26338)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26338">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26338">
@@ -5812,6 +5852,16 @@
 ## CVE-2021-26336 (2021-11-16T19:15:00)
 > Insufficient bounds checking in System Management Unit (SMU) may cause invalid memory accesses/updates that could result in SMU hang and subsequent failure to service any further requests from other components.
 - [Live-Hack-CVE/CVE-2021-26336](https://github.com/Live-Hack-CVE/CVE-2021-26336)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26336">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26336">
+
+---
+## CVE-2021-26328 (2023-01-11T08:15:00)
+> Failure to verify the mode of CPU execution at the time of SNP_INIT may lead to a potential loss of memory integrity for SNP guests.
+- [Live-Hack-CVE/CVE-2021-26328](https://github.com/Live-Hack-CVE/CVE-2021-26328)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26328">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26328">
+
+---
+## CVE-2021-26316 (2023-01-11T08:15:00)
+> Failure to validate the communication buffer and communication service in the BIOS may allow an attacker to tamper with the buffer resulting in potential SMM (System Management Mode) arbitrary code execution.
+- [Live-Hack-CVE/CVE-2021-26316](https://github.com/Live-Hack-CVE/CVE-2021-26316)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26316">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26316">
 
 ---
 ## CVE-2021-26294 (2021-03-07T04:15:00)
