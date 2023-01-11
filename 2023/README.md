@@ -1,6 +1,16 @@
 # 2023 List
 
 ---
+## CVE-2023-22959 (2023-01-11T04:15:00)
+> WebChess through 0.9.0 and 1.0.0.rc2 allows SQL injection: mainmenu.php, chess.php, and opponentspassword.php (txtFirstName, txtLastName).
+- [Live-Hack-CVE/CVE-2023-22959](https://github.com/Live-Hack-CVE/CVE-2023-22959)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22959">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22959">
+
+---
+## CVE-2023-22958 (2023-01-11T03:15:00)
+> The Syracom Secure Login plugin before 3.1.1.0 for Jira may allow spoofing of 2FA PIN validation via the plugins/servlet/twofactor/public/pinvalidation target parameter.
+- [Live-Hack-CVE/CVE-2023-22958](https://github.com/Live-Hack-CVE/CVE-2023-22958)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22958">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22958">
+
+---
 ## CVE-2023-22911 (2023-01-10T08:15:00)
 > An issue was discovered in MediaWiki before 1.35.9, 1.36.x through 1.38.x before 1.38.5, and 1.39.x before 1.39.1. E-Widgets does widget replacement in HTML attributes, which can lead to XSS, because widget authors often do not expect that their widget is executed in an HTML attribute context.
 - [Live-Hack-CVE/CVE-2023-22911](https://github.com/Live-Hack-CVE/CVE-2023-22911)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22911">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22911">
