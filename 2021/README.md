@@ -2046,6 +2046,8 @@
 ## CVE-2021-41073 (2021-09-19T17:15:00)
 > loop_rw_iter in fs/io_uring.c in the Linux kernel 5.10 through 5.14.6 allows local users to gain privileges by using IORING_OP_PROVIDE_BUFFERS to trigger a free of a kernel buffer, as demonstrated by using /proc/<pid>/maps for exploitation.
 - [Live-Hack-CVE/CVE-2021-41073](https://github.com/Live-Hack-CVE/CVE-2021-41073)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41073">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41073">
+- [abhyanandsharma311099/cve2021-41073](https://github.com/abhyanandsharma311099/cve2021-41073)	<img alt="forks" src="https://img.shields.io/github/forks/abhyanandsharma311099/cve2021-41073">	<img alt="stars" src="https://img.shields.io/github/stars/abhyanandsharma311099/cve2021-41073">
+- [chompie1337/Linux_LPE_io_uring_CVE-2021-41073](https://github.com/chompie1337/Linux_LPE_io_uring_CVE-2021-41073)	<img alt="forks" src="https://img.shields.io/github/forks/chompie1337/Linux_LPE_io_uring_CVE-2021-41073">	<img alt="stars" src="https://img.shields.io/github/stars/chompie1337/Linux_LPE_io_uring_CVE-2021-41073">
 
 ---
 ## CVE-2021-4104 (2021-12-14T12:15:00)
