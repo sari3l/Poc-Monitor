@@ -89,6 +89,7 @@ Any Unreal3.2.8.1.tar.gz downloaded BEFORE November 10 2009 should be safe, but 
 - [HandsomeCat00/Spring-CVE-2010-1622](https://github.com/HandsomeCat00/Spring-CVE-2010-1622)	<img alt="forks" src="https://img.shields.io/github/forks/HandsomeCat00/Spring-CVE-2010-1622">	<img alt="stars" src="https://img.shields.io/github/stars/HandsomeCat00/Spring-CVE-2010-1622">
 - [DDuarte/springshell-rce-poc](https://github.com/DDuarte/springshell-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/DDuarte/springshell-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/DDuarte/springshell-rce-poc">
 - [strainerart/Spring4Shell](https://github.com/strainerart/Spring4Shell)	<img alt="forks" src="https://img.shields.io/github/forks/strainerart/Spring4Shell">	<img alt="stars" src="https://img.shields.io/github/stars/strainerart/Spring4Shell">
+- [E-bounce/cve-2010-1622_learning_environment](https://github.com/E-bounce/cve-2010-1622_learning_environment)	<img alt="forks" src="https://img.shields.io/github/forks/E-bounce/cve-2010-1622_learning_environment">	<img alt="stars" src="https://img.shields.io/github/stars/E-bounce/cve-2010-1622_learning_environment">
 
 ---
 ## CVE-2010-1281 (2010-05-13T17:30:00)
