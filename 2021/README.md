@@ -2043,6 +2043,11 @@
 - [s-index/CVE-2021-41078](https://github.com/s-index/CVE-2021-41078)	<img alt="forks" src="https://img.shields.io/github/forks/s-index/CVE-2021-41078">	<img alt="stars" src="https://img.shields.io/github/stars/s-index/CVE-2021-41078">
 
 ---
+## CVE-2021-41073 (2021-09-19T17:15:00)
+> loop_rw_iter in fs/io_uring.c in the Linux kernel 5.10 through 5.14.6 allows local users to gain privileges by using IORING_OP_PROVIDE_BUFFERS to trigger a free of a kernel buffer, as demonstrated by using /proc/<pid>/maps for exploitation.
+- [Live-Hack-CVE/CVE-2021-41073](https://github.com/Live-Hack-CVE/CVE-2021-41073)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41073">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41073">
+
+---
 ## CVE-2021-4104 (2021-12-14T12:15:00)
 > JMSAppender in Log4j 1.2 is vulnerable to deserialization of untrusted data when the attacker has write access to the Log4j configuration. The attacker can provide TopicBindingName and TopicConnectionFactoryBindingName configurations causing JMSAppender to perform JNDI requests that result in remote code execution in a similar fashion to CVE-2021-44228. Note this issue only affects Log4j 1.2 when specifically configured to use JMSAppender, which is not the default. Apache Log4j 1.2 reached end of life in August 2015. Users should upgrade to Log4j 2 as it addresses numerous other issues from the previous versions.
 - [Live-Hack-CVE/CVE-2021-4104](https://github.com/Live-Hack-CVE/CVE-2021-4104)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4104">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4104">
