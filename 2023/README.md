@@ -159,6 +159,7 @@
 ## CVE-2023-21752 (2023-01-10T22:15:00)
 > Windows Backup Service Elevation of Privilege Vulnerability.
 - [Live-Hack-CVE/CVE-2023-21752](https://github.com/Live-Hack-CVE/CVE-2023-21752)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21752">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21752">
+- [Wh04m1001/CVE-2023-21752](https://github.com/Wh04m1001/CVE-2023-21752)	<img alt="forks" src="https://img.shields.io/github/forks/Wh04m1001/CVE-2023-21752">	<img alt="stars" src="https://img.shields.io/github/stars/Wh04m1001/CVE-2023-21752">
 
 ---
 ## CVE-2023-21726 (2023-01-10T22:15:00)
