@@ -735,6 +735,11 @@
 - [Live-Hack-CVE/CVE-2017-14465](https://github.com/Live-Hack-CVE/CVE-2017-14465)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-14465">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-14465">
 
 ---
+## CVE-2017-14454 (2023-01-12T00:15:00)
+> Multiple exploitable buffer overflow vulnerabilities exists in the PubNub message handler for the "control" channel of Insteon Hub running firmware version 1012. Specially crafted replies received from the PubNub service can cause buffer overflows on a global section overwriting arbitrary data. An attacker should impersonate PubNub and answer an HTTPS GET request to trigger this vulnerability. The `strcpy` at [18] overflows the buffer `insteon_pubnub.channel_al`, which has a size of 16 bytes.
+- [Live-Hack-CVE/CVE-2017-14454](https://github.com/Live-Hack-CVE/CVE-2017-14454)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-14454">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-14454">
+
+---
 ## CVE-2017-14440 (2018-04-24T19:29:00)
 > An exploitable code execution vulnerability exists in the ILBM image rendering functionality of SDL2_image-2.0.2. A specially crafted ILBM image can cause a stack overflow resulting in code execution. An attacker can display a specially crafted image to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2017-14440](https://github.com/Live-Hack-CVE/CVE-2017-14440)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-14440">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-14440">
