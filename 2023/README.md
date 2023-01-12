@@ -86,6 +86,11 @@
 - [Live-Hack-CVE/CVE-2023-22487](https://github.com/Live-Hack-CVE/CVE-2023-22487)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22487">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22487">
 
 ---
+## CVE-2023-22477 (2023-01-09T15:15:00)
+> Mercurius is a GraphQL adapter for Fastify. Any users of Mercurius until version 10.5.0 are subjected to a denial of service attack by sending a malformed packet over WebSocket to `/graphql`. This issue was patched in #940. As a workaround, users can disable subscriptions.
+- [Live-Hack-CVE/CVE-2023-22477](https://github.com/Live-Hack-CVE/CVE-2023-22477)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22477">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22477">
+
+---
 ## CVE-2023-22475 (2023-01-06T15:15:00)
 > Canarytokens is an open source tool which helps track activity and actions on your network. A Cross-Site Scripting vulnerability was identified in the history page of triggered Canarytokens prior to sha-fb61290. An attacker who discovers an HTTP-based Canarytoken (a URL) can use this to execute Javascript in the Canarytoken's trigger history page (domain: canarytokens.org) when the history page is later visited by the Canarytoken's creator. This vulnerability could be used to disable or delete the affected Canarytoken, or view its activation history. It might also be used as a stepping stone towards revealing more information about the Canarytoken's creator to the attacker. For example, an attacker could recover the email address tied to the Canarytoken, or place Javascript on the history page that redirect the creator towards an attacker-controlled Canarytoken to show the creator's network location. This vulnerability is similar to CVE-2022-31113, but affected parameters reported differently from the Canarytoken trigger request. An attacker could only act on the discovered Canarytoken. This issue did not expose other Canarytokens or other Canarytoken creators. Canarytokens Docker images sha-fb61290 and later contain a patch for this issue.
 - [Live-Hack-CVE/CVE-2023-22475](https://github.com/Live-Hack-CVE/CVE-2023-22475)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22475">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22475">
@@ -277,6 +282,21 @@
 ## CVE-2023-20523 (2023-01-11T08:15:00)
 > TOCTOU in the ASP may allow a physical attacker to write beyond the buffer bounds, potentially leading to a loss of integrity or denial of service.
 - [Live-Hack-CVE/CVE-2023-20523](https://github.com/Live-Hack-CVE/CVE-2023-20523)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20523">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20523">
+
+---
+## CVE-2023-0258 (2023-01-12T22:15:00)
+> A vulnerability was found in SourceCodester Online Food Ordering System 2.0. It has been rated as problematic. Affected by this issue is some unknown functionality of the component Category List Handler. The manipulation of the argument Reason with the input "><script>prompt(1)</script> leads to cross site scripting. The attack may be launched remotely. VDB-218186 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2023-0258](https://github.com/Live-Hack-CVE/CVE-2023-0258)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0258">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0258">
+
+---
+## CVE-2023-0257 (2023-01-12T22:15:00)
+> A vulnerability was found in SourceCodester Online Food Ordering System 2.0. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the file /fos/admin/index.php?page=menu of the component Menu Form. The manipulation of the argument Image with the input <?php system($_GET['c']); ?> leads to unrestricted upload. The attack can be launched remotely. The identifier VDB-218185 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2023-0257](https://github.com/Live-Hack-CVE/CVE-2023-0257)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0257">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0257">
+
+---
+## CVE-2023-0256 (2023-01-12T22:15:00)
+> A vulnerability was found in SourceCodester Online Food Ordering System 2.0. It has been classified as critical. Affected is an unknown function of the file /fos/admin/ajax.php?action=login of the component Login Page. The manipulation of the argument Username leads to sql injection. It is possible to launch the attack remotely. The identifier of this vulnerability is VDB-218184.
+- [Live-Hack-CVE/CVE-2023-0256](https://github.com/Live-Hack-CVE/CVE-2023-0256)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0256">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0256">
 
 ---
 ## CVE-2023-0254 (2023-01-12T18:15:00)
