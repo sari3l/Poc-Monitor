@@ -6,6 +6,16 @@
 - [Live-Hack-CVE/CVE-2021-46871](https://github.com/Live-Hack-CVE/CVE-2021-46871)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46871">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46871">
 
 ---
+## CVE-2021-46868 (2023-01-06T20:15:00)
+> The HW_KEYMASTER module has a problem in releasing memory.Successful exploitation of this vulnerability may result in out-of-bounds memory access.
+- [Live-Hack-CVE/CVE-2021-46868](https://github.com/Live-Hack-CVE/CVE-2021-46868)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46868">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46868">
+
+---
+## CVE-2021-46867 (2023-01-06T20:15:00)
+> The HW_KEYMASTER module has a problem in releasing memory.Successful exploitation of this vulnerability may result in out-of-bounds memory access.
+- [Live-Hack-CVE/CVE-2021-46867](https://github.com/Live-Hack-CVE/CVE-2021-46867)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46867">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46867">
+
+---
 ## CVE-2021-46856 (2022-12-20T21:15:00)
 > The multi-screen collaboration module has a path traversal vulnerability. Successful exploitation of this vulnerability may affect data confidentiality.
 - [Live-Hack-CVE/CVE-2021-46856](https://github.com/Live-Hack-CVE/CVE-2021-46856)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46856">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46856">
