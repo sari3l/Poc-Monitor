@@ -815,6 +815,11 @@
 - [trhacknon/exploit-grafana-CVE-2021-43798](https://github.com/trhacknon/exploit-grafana-CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/exploit-grafana-CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/exploit-grafana-CVE-2021-43798">
 
 ---
+## CVE-2021-43797 (2021-12-09T19:15:00)
+> Netty is an asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers & clients. Netty prior to version 4.1.71.Final skips control chars when they are present at the beginning / end of the header name. It should instead fail fast as these are not allowed by the spec and could lead to HTTP request smuggling. Failing to do the validation might cause netty to "sanitize" header names before it forward these to another remote system when used as proxy. This remote system can't see the invalid usage anymore, and therefore does not do the validation itself. Users should upgrade to version 4.1.71.Final.
+- [Live-Hack-CVE/CVE-2021-43797](https://github.com/Live-Hack-CVE/CVE-2021-43797)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43797">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43797">
+
+---
 ## CVE-2021-43788 (2021-11-29T20:15:00)
 > Nodebb is an open source Node.js based forum software. Prior to v1.18.5, a path traversal vulnerability was present that allowed users to access JSON files outside of the expected `languages/` directory. The vulnerability has been patched as of v1.18.5. Users are advised to upgrade as soon as possible.
 - [Live-Hack-CVE/CVE-2021-43788](https://github.com/Live-Hack-CVE/CVE-2021-43788)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43788">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43788">
