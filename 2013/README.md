@@ -143,6 +143,11 @@
 - [Live-Hack-CVE/CVE-2013-1511](https://github.com/Live-Hack-CVE/CVE-2013-1511)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-1511">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-1511">
 
 ---
+## CVE-2013-10011 (2023-01-12T16:15:00)
+> A vulnerability was found in aeharding classroom-engagement-system and classified as critical. Affected by this issue is some unknown functionality. The manipulation leads to sql injection. The attack may be launched remotely. The name of the patch is 096de5815c7b414e7339f3439522a446098fb73a. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-218156.
+- [Live-Hack-CVE/CVE-2013-10011](https://github.com/Live-Hack-CVE/CVE-2013-10011)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-10011">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-10011">
+
+---
 ## CVE-2013-10010 (2023-01-11T16:15:00)
 > A vulnerability classified as problematic has been found in zerochplus. This affects the function PrintResList of the file test/mordor/thread.res.pl. The manipulation leads to cross site scripting. It is possible to initiate the attack remotely. The name of the patch is 9ddf9ecca8565341d8d26a3b2f64540bde4fa273. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-218007.
 - [Live-Hack-CVE/CVE-2013-10010](https://github.com/Live-Hack-CVE/CVE-2013-10010)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-10010">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-10010">
