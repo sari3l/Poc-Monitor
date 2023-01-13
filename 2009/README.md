@@ -46,6 +46,16 @@
 - [Live-Hack-CVE/CVE-2009-1890](https://github.com/Live-Hack-CVE/CVE-2009-1890)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2009-1890">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2009-1890">
 
 ---
+## CVE-2009-10002 (2023-01-13T18:15:00)
+> A vulnerability, which was classified as problematic, has been found in dpup fittr-flickr. This issue affects some unknown processing of the file fittr-flickr/features/easy-exif.js of the component EXIF Preview Handler. The manipulation leads to cross site scripting. The attack may be initiated remotely. The name of the patch is 08875dd8a2e5d0d16568bb0d67cb4328062fccde. It is recommended to apply a patch to fix this issue. The identifier VDB-218297 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2009-10002](https://github.com/Live-Hack-CVE/CVE-2009-10002)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2009-10002">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2009-10002">
+
+---
+## CVE-2009-10001 (2023-01-13T18:15:00)
+> A vulnerability classified as problematic was found in jianlinwei cool-php-captcha up to 0.2. This vulnerability affects unknown code of the file example-form.php. The manipulation of the argument captcha with the input %3Cscript%3Ealert(1)%3C/script%3E leads to cross site scripting. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. Upgrading to version 0.3 is able to address this issue. The name of the patch is c84fb6b153bebaf228feee0cbf50728d27ae3f80. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-218296.
+- [Live-Hack-CVE/CVE-2009-10001](https://github.com/Live-Hack-CVE/CVE-2009-10001)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2009-10001">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2009-10001">
+
+---
 ## CVE-2009-0586 (2009-03-14T18:30:00)
 > Integer overflow in the gst_vorbis_tag_add_coverart function (gst-libs/gst/tag/gstvorbistag.c) in vorbistag in gst-plugins-base (aka gstreamer-plugins-base) before 0.10.23 in GStreamer allows context-dependent attackers to execute arbitrary code via a crafted COVERART tag that is converted from a base64 representation, which triggers a heap-based buffer overflow.
 - [Live-Hack-CVE/CVE-2009-0586](https://github.com/Live-Hack-CVE/CVE-2009-0586)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2009-0586">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2009-0586">

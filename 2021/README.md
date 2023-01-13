@@ -1003,6 +1003,12 @@
 - [Citizen13X/CVE-2021-43229](https://github.com/Citizen13X/CVE-2021-43229)	<img alt="forks" src="https://img.shields.io/github/forks/Citizen13X/CVE-2021-43229">	<img alt="stars" src="https://img.shields.io/github/stars/Citizen13X/CVE-2021-43229">
 
 ---
+## CVE-2021-4312 (2023-01-13T18:15:00)
+> ** UNSUPPPORTED WHEN ASSIGNED **** UNSUPPORTED WHEN ASSIGNED ** A vulnerability classified as problematic has been found in Th3-822 Rapidleech. This affects the function zip_go of the file classes/options/zip.php. The manipulation of the argument archive leads to cross site scripting. It is possible to initiate the attack remotely. The name of the patch is 885a87ea4ee5e14fa95801eca255604fb2e138c6. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-218295. NOTE: This vulnerability only affects products that are no longer supported by the maintainer.
+- [Live-Hack-CVE/CVE-2021-4312](https://github.com/Live-Hack-CVE/CVE-2021-4312)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4312">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4312">
+- [Skotizo/CVE-2021-43129](https://github.com/Skotizo/CVE-2021-43129)	<img alt="forks" src="https://img.shields.io/github/forks/Skotizo/CVE-2021-43129">	<img alt="stars" src="https://img.shields.io/github/stars/Skotizo/CVE-2021-43129">
+
+---
 ## CVE-2021-4311 (2023-01-09T12:15:00)
 > A vulnerability classified as problematic was found in Talend Open Studio for MDM. This vulnerability affects unknown code of the component XML Handler. The manipulation leads to xml external entity reference. The name of the patch is 31d442b9fb1d518128fd18f6e4d54e06c3d67793. It is recommended to apply a patch to fix this issue. VDB-217666 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2021-4311](https://github.com/Live-Hack-CVE/CVE-2021-4311)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4311">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4311">
@@ -2751,6 +2757,31 @@
 ## CVE-2021-39272 (2021-08-30T06:15:00)
 > Fetchmail before 6.4.22 fails to enforce STARTTLS session encryption in some circumstances, such as a certain situation with IMAP and PREAUTH.
 - [Live-Hack-CVE/CVE-2021-39272](https://github.com/Live-Hack-CVE/CVE-2021-39272)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39272">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39272">
+
+---
+## CVE-2021-39263 (2021-09-07T15:15:00)
+> A crafted NTFS image can trigger a heap-based buffer overflow, caused by an unsanitized attribute in ntfs_get_attribute_value, in NTFS-3G < 2021.8.22.
+- [Live-Hack-CVE/CVE-2021-39263](https://github.com/Live-Hack-CVE/CVE-2021-39263)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39263">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39263">
+
+---
+## CVE-2021-39262 (2021-09-07T15:15:00)
+> A crafted NTFS image can cause an out-of-bounds access in ntfs_decompress in NTFS-3G < 2021.8.22.
+- [Live-Hack-CVE/CVE-2021-39262](https://github.com/Live-Hack-CVE/CVE-2021-39262)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39262">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39262">
+
+---
+## CVE-2021-39261 (2021-09-07T15:15:00)
+> A crafted NTFS image can cause a heap-based buffer overflow in ntfs_compressed_pwrite in NTFS-3G < 2021.8.22.
+- [Live-Hack-CVE/CVE-2021-39261](https://github.com/Live-Hack-CVE/CVE-2021-39261)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39261">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39261">
+
+---
+## CVE-2021-39260 (2021-09-07T15:15:00)
+> A crafted NTFS image can cause an out-of-bounds access in ntfs_inode_sync_standard_information in NTFS-3G < 2021.8.22.
+- [Live-Hack-CVE/CVE-2021-39260](https://github.com/Live-Hack-CVE/CVE-2021-39260)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39260">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39260">
+
+---
+## CVE-2021-39259 (2021-09-07T15:15:00)
+> A crafted NTFS image can trigger an out-of-bounds access, caused by an unsanitized attribute length in ntfs_inode_lookup_by_name, in NTFS-3G < 2021.8.22.
+- [Live-Hack-CVE/CVE-2021-39259](https://github.com/Live-Hack-CVE/CVE-2021-39259)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39259">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39259">
 
 ---
 ## CVE-2021-39227 (2021-09-17T14:15:00)
