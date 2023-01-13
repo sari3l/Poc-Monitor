@@ -2040,6 +2040,7 @@
 ## CVE-2019-13504 (2019-07-11T02:15:00)
 > There is an out-of-bounds read in Exiv2::MrwImage::readMetadata in mrwimage.cpp in Exiv2 through 0.27.2.
 - [Live-Hack-CVE/CVE-2019-13504](https://github.com/Live-Hack-CVE/CVE-2019-13504)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13504">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13504">
+- [5l1v3r1/fuzzenv-exiv2](https://github.com/5l1v3r1/fuzzenv-exiv2)	<img alt="forks" src="https://img.shields.io/github/forks/5l1v3r1/fuzzenv-exiv2">	<img alt="stars" src="https://img.shields.io/github/stars/5l1v3r1/fuzzenv-exiv2">
 
 ---
 ## CVE-2019-13120 (2019-10-07T22:15:00)
