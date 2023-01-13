@@ -1690,6 +1690,11 @@
 - [Live-Hack-CVE/CVE-2019-17498](https://github.com/Live-Hack-CVE/CVE-2019-17498)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17498">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17498">
 
 ---
+## CVE-2019-17402 (2019-10-09T19:15:00)
+> Exiv2 0.27.2 allows attackers to trigger a crash in Exiv2::getULong in types.cpp when called from Exiv2::Internal::CiffDirectory::readDirectory in crwimage_int.cpp, because there is no validation of the relationship of the total size to the offset and size.
+- [Live-Hack-CVE/CVE-2019-17402](https://github.com/Live-Hack-CVE/CVE-2019-17402)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17402">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17402">
+
+---
 ## CVE-2019-17223 (2019-10-15T12:15:00)
 > There is HTML Injection in the Note field in Dolibarr ERP/CRM 10.0.2 via user/note.php.
 - [Live-Hack-CVE/CVE-2019-17223](https://github.com/Live-Hack-CVE/CVE-2019-17223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17223">
@@ -1889,6 +1894,16 @@
 - [Live-Hack-CVE/CVE-2019-14433](https://github.com/Live-Hack-CVE/CVE-2019-14433)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14433">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14433">
 
 ---
+## CVE-2019-14370 (2019-07-28T19:15:00)
+> In Exiv2 0.27.99.0, there is an out-of-bounds read in Exiv2::MrwImage::readMetadata() in mrwimage.cpp. It could result in denial of service.
+- [Live-Hack-CVE/CVE-2019-14370](https://github.com/Live-Hack-CVE/CVE-2019-14370)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14370">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14370">
+
+---
+## CVE-2019-14369 (2019-07-28T19:15:00)
+> Exiv2::PngImage::readMetadata() in pngimage.cpp in Exiv2 0.27.99.0 allows attackers to cause a denial of service (heap-based buffer over-read) via a crafted image file.
+- [Live-Hack-CVE/CVE-2019-14369](https://github.com/Live-Hack-CVE/CVE-2019-14369)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14369">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14369">
+
+---
 ## CVE-2019-14287 (2019-10-17T18:15:00)
 > In Sudo before 1.8.28, an attacker with access to a Runas ALL sudoer account can bypass certain policy blacklists and session PAM modules, and can cause incorrect logging, by invoking sudo with a crafted user ID. For example, this allows bypass of !root configuration, and USER= logging, for a "sudo -u \#$((0xffffffff))" command.
 - [MariliaMeira/CVE-2019-14287](https://github.com/MariliaMeira/CVE-2019-14287)	<img alt="forks" src="https://img.shields.io/github/forks/MariliaMeira/CVE-2019-14287">	<img alt="stars" src="https://img.shields.io/github/stars/MariliaMeira/CVE-2019-14287">
@@ -2020,6 +2035,11 @@
 ## CVE-2019-13699 (2019-11-25T15:15:00)
 > Use after free in media in Google Chrome prior to 78.0.3904.70 allowed a remote attacker who had compromised the renderer process to potentially exploit heap corruption via a crafted HTML page.
 - [Live-Hack-CVE/CVE-2019-13699](https://github.com/Live-Hack-CVE/CVE-2019-13699)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13699">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13699">
+
+---
+## CVE-2019-13504 (2019-07-11T02:15:00)
+> There is an out-of-bounds read in Exiv2::MrwImage::readMetadata in mrwimage.cpp in Exiv2 through 0.27.2.
+- [Live-Hack-CVE/CVE-2019-13504](https://github.com/Live-Hack-CVE/CVE-2019-13504)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13504">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13504">
 
 ---
 ## CVE-2019-13120 (2019-10-07T22:15:00)

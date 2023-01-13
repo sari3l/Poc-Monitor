@@ -546,6 +546,11 @@
 - [Live-Hack-CVE/CVE-2017-18926](https://github.com/Live-Hack-CVE/CVE-2017-18926)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-18926">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-18926">
 
 ---
+## CVE-2017-18005 (2017-12-31T19:29:00)
+> Exiv2 0.26 has a Null Pointer Dereference in the Exiv2::DataValue::toLong function in value.cpp, related to crafted metadata in a TIFF file.
+- [Live-Hack-CVE/CVE-2017-18005](https://github.com/Live-Hack-CVE/CVE-2017-18005)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-18005">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-18005">
+
+---
 ## CVE-2017-17898 (2017-12-27T17:08:00)
 > Dolibarr ERP/CRM version 6.0.4 does not block direct requests to *.tpl.php files, which allows remote attackers to obtain sensitive information.
 - [Live-Hack-CVE/CVE-2017-17898](https://github.com/Live-Hack-CVE/CVE-2017-17898)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-17898">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-17898">
@@ -554,6 +559,11 @@
 ## CVE-2017-17736 (2018-03-23T15:29:00)
 > Kentico 9.0 before 9.0.51 and 10.0 before 10.0.48 allows remote attackers to obtain Global Administrator access by visiting CMSInstall/install.aspx and then navigating to the CMS Administration Dashboard.
 - [0xSojalSec/Nuclei-TemplatesNuclei-Templates-CVE-2017-17736](https://github.com/0xSojalSec/Nuclei-TemplatesNuclei-Templates-CVE-2017-17736)	<img alt="forks" src="https://img.shields.io/github/forks/0xSojalSec/Nuclei-TemplatesNuclei-Templates-CVE-2017-17736">	<img alt="stars" src="https://img.shields.io/github/stars/0xSojalSec/Nuclei-TemplatesNuclei-Templates-CVE-2017-17736">
+
+---
+## CVE-2017-17669 (2017-12-13T22:29:00)
+> There is a heap-based buffer over-read in the Exiv2::Internal::PngChunk::keyTXTChunk function of pngchunk_int.cpp in Exiv2 0.26. A crafted PNG file will lead to a remote denial of service attack.
+- [Live-Hack-CVE/CVE-2017-17669](https://github.com/Live-Hack-CVE/CVE-2017-17669)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-17669">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-17669">
 
 ---
 ## CVE-2017-17485 (2018-01-10T18:29:00)
@@ -715,6 +725,16 @@
 - [Live-Hack-CVE/CVE-2017-15108](https://github.com/Live-Hack-CVE/CVE-2017-15108)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-15108">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-15108">
 
 ---
+## CVE-2017-14864 (2017-09-29T01:34:00)
+> An Invalid memory address dereference was discovered in Exiv2::getULong in types.cpp in Exiv2 0.26. The vulnerability causes a segmentation fault and application crash, which leads to denial of service.
+- [Live-Hack-CVE/CVE-2017-14864](https://github.com/Live-Hack-CVE/CVE-2017-14864)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-14864">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-14864">
+
+---
+## CVE-2017-14862 (2017-09-29T01:34:00)
+> An Invalid memory address dereference was discovered in Exiv2::DataValue::read in value.cpp in Exiv2 0.26. The vulnerability causes a segmentation fault and application crash, which leads to denial of service.
+- [Live-Hack-CVE/CVE-2017-14862](https://github.com/Live-Hack-CVE/CVE-2017-14862)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-14862">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-14862">
+
+---
 ## CVE-2017-14746 (2017-11-27T22:29:00)
 > Use-after-free vulnerability in Samba 4.x before 4.7.3 allows remote attackers to execute arbitrary code via a crafted SMB1 request.
 - [Live-Hack-CVE/CVE-2017-14746](https://github.com/Live-Hack-CVE/CVE-2017-14746)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-14746">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-14746">
@@ -872,6 +892,11 @@
 ## CVE-2017-11654 (2017-07-26T14:29:00)
 > An out-of-bounds read and write flaw was found in the way SIPcrack 0.2 processed SIP traffic, because 0x00 termination of a payload array was mishandled. A remote attacker could potentially use this flaw to crash the sipdump process by generating specially crafted SIP traffic.
 - [Live-Hack-CVE/CVE-2017-11654](https://github.com/Live-Hack-CVE/CVE-2017-11654)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-11654">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-11654">
+
+---
+## CVE-2017-11591 (2017-07-24T01:29:00)
+> There is a Floating point exception in the Exiv2::ValueType function in Exiv2 0.26 that will lead to a remote denial of service attack via crafted input.
+- [Live-Hack-CVE/CVE-2017-11591](https://github.com/Live-Hack-CVE/CVE-2017-11591)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-11591">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-11591">
 
 ---
 ## CVE-2017-11317 (2017-08-23T17:29:00)

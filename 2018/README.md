@@ -31,6 +31,11 @@
 - [wildkindcc/CVE-2018-9276](https://github.com/wildkindcc/CVE-2018-9276)	<img alt="forks" src="https://img.shields.io/github/forks/wildkindcc/CVE-2018-9276">	<img alt="stars" src="https://img.shields.io/github/stars/wildkindcc/CVE-2018-9276">
 
 ---
+## CVE-2018-8976 (2018-03-25T03:29:00)
+> In Exiv2 0.26, jpgimage.cpp allows remote attackers to cause a denial of service (image.cpp Exiv2::Internal::stringFormat out-of-bounds read) via a crafted file.
+- [Live-Hack-CVE/CVE-2018-8976](https://github.com/Live-Hack-CVE/CVE-2018-8976)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-8976">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-8976">
+
+---
 ## CVE-2018-8587 (2018-12-12T00:29:00)
 > A remote code execution vulnerability exists in Microsoft Outlook software when it fails to properly handle objects in memory, aka "Microsoft Outlook Remote Code Execution Vulnerability." This affects Office 365 ProPlus, Microsoft Office, Microsoft Outlook.
 - [Sunqiz/CVE-2018-8587-reproduction](https://github.com/Sunqiz/CVE-2018-8587-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Sunqiz/CVE-2018-8587-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Sunqiz/CVE-2018-8587-reproduction">
@@ -514,6 +519,11 @@
 - [ahaShiyu/CVE-2018-20175](https://github.com/ahaShiyu/CVE-2018-20175)	<img alt="forks" src="https://img.shields.io/github/forks/ahaShiyu/CVE-2018-20175">	<img alt="stars" src="https://img.shields.io/github/stars/ahaShiyu/CVE-2018-20175">
 
 ---
+## CVE-2018-20097 (2018-12-12T10:29:00)
+> There is a SEGV in Exiv2::Internal::TiffParserWorker::findPrimaryGroups of tiffimage_int.cpp in Exiv2 0.27-RC3. A crafted input will lead to a remote denial of service attack.
+- [Live-Hack-CVE/CVE-2018-20097](https://github.com/Live-Hack-CVE/CVE-2018-20097)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-20097">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-20097">
+
+---
 ## CVE-2018-20062 (2018-12-11T18:29:00)
 > An issue was discovered in NoneCms V1.3. thinkphp/library/think/App.php allows remote attackers to execute arbitrary PHP code via crafted use of the filter parameter, as demonstrated by the s=index/\think\Request/input&filter=phpinfo&data=1 query string.
 - [yilin1203/CVE-2018-20062](https://github.com/yilin1203/CVE-2018-20062)	<img alt="forks" src="https://img.shields.io/github/forks/yilin1203/CVE-2018-20062">	<img alt="stars" src="https://img.shields.io/github/stars/yilin1203/CVE-2018-20062">
@@ -591,6 +601,11 @@
 - [Live-Hack-CVE/CVE-2018-19615](https://github.com/Live-Hack-CVE/CVE-2018-19615)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-19615">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-19615">
 
 ---
+## CVE-2018-19535 (2018-11-26T02:29:00)
+> In Exiv2 0.26 and previous versions, PngChunk::readRawProfile in pngchunk_int.cpp may cause a denial of service (application crash due to a heap-based buffer over-read) via a crafted PNG file.
+- [Live-Hack-CVE/CVE-2018-19535](https://github.com/Live-Hack-CVE/CVE-2018-19535)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-19535">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-19535">
+
+---
 ## CVE-2018-19497 (2018-11-29T23:29:00)
 > In The Sleuth Kit (TSK) through 4.6.4, hfs_cat_traverse in tsk/fs/hfs.c does not properly determine when a key length is too large, which allows attackers to cause a denial of service (SEGV on unknown address with READ memory access in a tsk_getu16 call in hfs_dir_open_meta_cb in tsk/fs/hfs_dent.c).
 - [Live-Hack-CVE/CVE-2018-19497](https://github.com/Live-Hack-CVE/CVE-2018-19497)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-19497">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-19497">
@@ -611,6 +626,11 @@
 ## CVE-2018-19246 (2018-11-13T09:29:00)
 > PHP-Proxy 5.1.0 allows remote attackers to read local files if the default "pre-installed version" (intended for users who lack shell access to their web server) is used. This occurs because the aeb067ca0aa9a3193dce3a7264c90187 app_key value from the default config.php is in place, and this value can be easily used to calculate the authorization data needed for local file inclusion.
 - [NeoWans/CVE-2018-19246](https://github.com/NeoWans/CVE-2018-19246)	<img alt="forks" src="https://img.shields.io/github/forks/NeoWans/CVE-2018-19246">	<img alt="stars" src="https://img.shields.io/github/stars/NeoWans/CVE-2018-19246">
+
+---
+## CVE-2018-19108 (2018-11-08T08:29:00)
+> In Exiv2 0.26, Exiv2::PsdImage::readMetadata in psdimage.cpp in the PSD image reader may suffer from a denial of service (infinite loop) caused by an integer overflow via a crafted PSD image file.
+- [Live-Hack-CVE/CVE-2018-19108](https://github.com/Live-Hack-CVE/CVE-2018-19108)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-19108">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-19108">
 
 ---
 ## CVE-2018-19052 (2018-11-07T05:29:00)
@@ -647,6 +667,11 @@
 ## CVE-2018-17773 (2020-09-09T19:15:00)
 > Ingenico Telium 2 POS terminals have a buffer overflow via SOCKET_TASK in the NTPT3 protocol. This is fixed in Telium 2 SDK v9.32.03 patch N.
 - [Live-Hack-CVE/CVE-2018-17773](https://github.com/Live-Hack-CVE/CVE-2018-17773)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-17773">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-17773">
+
+---
+## CVE-2018-17581 (2018-09-28T09:29:00)
+> CiffDirectory::readDirectory() at crwimage_int.cpp in Exiv2 0.26 has excessive stack consumption due to a recursive function, leading to Denial of service.
+- [Live-Hack-CVE/CVE-2018-17581](https://github.com/Live-Hack-CVE/CVE-2018-17581)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-17581">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-17581">
 
 ---
 ## CVE-2018-16881 (2019-01-25T18:29:00)
