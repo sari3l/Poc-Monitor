@@ -266,6 +266,16 @@
 - [poxicity/CVE-2015-1328](https://github.com/poxicity/CVE-2015-1328)	<img alt="forks" src="https://img.shields.io/github/forks/poxicity/CVE-2015-1328">	<img alt="stars" src="https://img.shields.io/github/stars/poxicity/CVE-2015-1328">
 
 ---
+## CVE-2015-10041 (2023-01-13T20:15:00)
+> ** UNSUPPPORTED WHEN ASSIGNED **** UNSUPPORTED WHEN ASSIGNED ** A vulnerability classified as critical has been found in Dovgalyuk AIBattle. Affected is the function sendComments of the file site/procedures.php. The manipulation of the argument text leads to sql injection. The name of the patch is e3aa4d0900167641d41cbccf53909229f00381c9. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-218304. NOTE: This vulnerability only affects products that are no longer supported by the maintainer.
+- [Live-Hack-CVE/CVE-2015-10041](https://github.com/Live-Hack-CVE/CVE-2015-10041)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-10041">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-10041">
+
+---
+## CVE-2015-10040 (2023-01-13T20:15:00)
+> A vulnerability was found in gitlearn. It has been declared as problematic. This vulnerability affects the function getGrade/getOutOf of the file scripts/config.sh of the component Escape Sequence Handler. The manipulation leads to injection. The attack can be initiated remotely. The name of the patch is 3faa5deaa509012069afe75cd03c21bda5050a64. It is recommended to apply a patch to fix this issue. VDB-218302 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2015-10040](https://github.com/Live-Hack-CVE/CVE-2015-10040)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-10040">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-10040">
+
+---
 ## CVE-2015-10035 (2023-01-09T21:15:00)
 > A vulnerability was found in gperson angular-test-reporter and classified as critical. This issue affects the function getProjectTables/addTest of the file rest-server/data-server.js. The manipulation leads to sql injection. The name of the patch is a29d8ae121b46ebfa96a55a9106466ab2ef166ae. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-217715.
 - [Live-Hack-CVE/CVE-2015-10035](https://github.com/Live-Hack-CVE/CVE-2015-10035)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-10035">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-10035">

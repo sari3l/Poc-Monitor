@@ -292,6 +292,21 @@
 - [Live-Hack-CVE/CVE-2023-21726](https://github.com/Live-Hack-CVE/CVE-2023-21726)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21726">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21726">
 
 ---
+## CVE-2023-21589 (2023-01-13T20:15:00)
+> Adobe InDesign version 18.0 (and earlier), 17.4 (and earlier) are affected by an out-of-bounds write vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2023-21589](https://github.com/Live-Hack-CVE/CVE-2023-21589)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21589">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21589">
+
+---
+## CVE-2023-21588 (2023-01-13T20:15:00)
+> Adobe InDesign version 18.0 (and earlier), 17.4 (and earlier) are affected by an Improper Input Validation vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2023-21588](https://github.com/Live-Hack-CVE/CVE-2023-21588)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21588">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21588">
+
+---
+## CVE-2023-21587 (2023-01-13T20:15:00)
+> Adobe InDesign version 18.0 (and earlier), 17.4 (and earlier) are affected by a Heap-based Buffer Overflow vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2023-21587](https://github.com/Live-Hack-CVE/CVE-2023-21587)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21587">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21587">
+
+---
 ## CVE-2023-21548 (2023-01-10T22:15:00)
 > Windows Secure Socket Tunneling Protocol (SSTP) Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21535.
 - [Live-Hack-CVE/CVE-2023-21548](https://github.com/Live-Hack-CVE/CVE-2023-21548)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21548">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21548">
@@ -397,6 +412,21 @@
 ## CVE-2023-20523 (2023-01-11T08:15:00)
 > TOCTOU in the ASP may allow a physical attacker to write beyond the buffer bounds, potentially leading to a loss of integrity or denial of service.
 - [Live-Hack-CVE/CVE-2023-20523](https://github.com/Live-Hack-CVE/CVE-2023-20523)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20523">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20523">
+
+---
+## CVE-2023-0295 (2023-01-13T20:15:00)
+> The Launchpad plugin for WordPress is vulnerable to Stored Cross-Site Scripting via several of its settings parameters in versions up to, and including, 1.0.13 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with administrator-level permissions and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page. This only affects multi-site installations and installations where unfiltered_html has been disabled.
+- [Live-Hack-CVE/CVE-2023-0295](https://github.com/Live-Hack-CVE/CVE-2023-0295)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0295">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0295">
+
+---
+## CVE-2023-0294 (2023-01-13T20:15:00)
+> The Mediamatic – Media Library Folders plugin for WordPress is vulnerable to Cross-Site Request Forgery in versions up to, and including, 2.8.1. This is due to missing or incorrect nonce validation on its AJAX actions function. This makes it possible for unauthenticated attackers to change image categories used by the plugin, via forged request granted they can trick a site administrator into performing an action such as clicking on a link.
+- [Live-Hack-CVE/CVE-2023-0294](https://github.com/Live-Hack-CVE/CVE-2023-0294)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0294">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0294">
+
+---
+## CVE-2023-0293 (2023-01-13T20:15:00)
+> The Mediamatic – Media Library Folders plugin for WordPress is vulnerable to authorization bypass due to a missing capability check on its AJAX actions in versions up to, and including, 2.8.1. This makes it possible for authenticated attackers, with subscriber-level permissions and above, to change image categories, which it uses to arrange them in folder views.
+- [Live-Hack-CVE/CVE-2023-0293](https://github.com/Live-Hack-CVE/CVE-2023-0293)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0293">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0293">
 
 ---
 ## CVE-2023-0289 (2023-01-13T16:15:00)
