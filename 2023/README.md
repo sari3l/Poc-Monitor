@@ -696,6 +696,11 @@
 - [Live-Hack-CVE/CVE-2023-20523](https://github.com/Live-Hack-CVE/CVE-2023-20523)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20523">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20523">
 
 ---
+## CVE-2023-0297 ()
+> 
+- [bAuh0lz/CVE-2023-0297_Pre-auth_RCE_in_pyLoad](https://github.com/bAuh0lz/CVE-2023-0297_Pre-auth_RCE_in_pyLoad)	<img alt="forks" src="https://img.shields.io/github/forks/bAuh0lz/CVE-2023-0297_Pre-auth_RCE_in_pyLoad">	<img alt="stars" src="https://img.shields.io/github/stars/bAuh0lz/CVE-2023-0297_Pre-auth_RCE_in_pyLoad">
+
+---
 ## CVE-2023-0295 (2023-01-13T20:15:00)
 > The Launchpad plugin for WordPress is vulnerable to Stored Cross-Site Scripting via several of its settings parameters in versions up to, and including, 1.0.13 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with administrator-level permissions and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page. This only affects multi-site installations and installations where unfiltered_html has been disabled.
 - [Live-Hack-CVE/CVE-2023-0295](https://github.com/Live-Hack-CVE/CVE-2023-0295)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0295">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0295">
