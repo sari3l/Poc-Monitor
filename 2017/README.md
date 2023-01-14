@@ -450,6 +450,11 @@
 - [Live-Hack-CVE/CVE-2017-20169](https://github.com/Live-Hack-CVE/CVE-2017-20169)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20169">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20169">
 
 ---
+## CVE-2017-20167 (2023-01-14T20:15:00)
+> A vulnerability, which was classified as problematic, was found in Minichan. This affects an unknown part of the file reports.php. The manipulation of the argument headline leads to cross site scripting. It is possible to initiate the attack remotely. The name of the patch is fc0e732e58630cba318d6bf49d1388a7aa9d390e. It is recommended to apply a patch to fix this issue. The identifier VDB-217785 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2017-20167](https://github.com/Live-Hack-CVE/CVE-2017-20167)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20167">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20167">
+
+---
 ## CVE-2017-20166 (2023-01-10T06:15:00)
 > Ecto 2.2.0 lacks a certain protection mechanism associated with the interaction between is_nil and raise.
 - [Live-Hack-CVE/CVE-2017-20166](https://github.com/Live-Hack-CVE/CVE-2017-20166)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20166">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20166">
