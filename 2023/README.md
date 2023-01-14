@@ -711,6 +711,11 @@
 - [Live-Hack-CVE/CVE-2023-20523](https://github.com/Live-Hack-CVE/CVE-2023-20523)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20523">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20523">
 
 ---
+## CVE-2023-0299 (2023-01-14T15:15:00)
+> Improper Input Validation in GitHub repository publify/publify prior to 9.2.10.
+- [Live-Hack-CVE/CVE-2023-0299](https://github.com/Live-Hack-CVE/CVE-2023-0299)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0299">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0299">
+
+---
 ## CVE-2023-0298 (2023-01-14T08:15:00)
 > Improper Authorization in GitHub repository firefly-iii/firefly-iii prior to 5.8.0.
 - [Live-Hack-CVE/CVE-2023-0298](https://github.com/Live-Hack-CVE/CVE-2023-0298)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0298">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0298">
