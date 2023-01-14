@@ -71,6 +71,11 @@
 - [Live-Hack-CVE/CVE-2023-22622](https://github.com/Live-Hack-CVE/CVE-2023-22622)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22622">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22622">
 
 ---
+## CVE-2023-22602 (2023-01-14T10:15:00)
+> When using Apache Shiro before 1.11.0 together with Spring Boot 2.6+, a specially crafted HTTP request may cause an authentication bypass. The authentication bypass occurs when Shiro and Spring Boot are using different pattern-matching techniques. Both Shiro and Spring Boot < 2.6 default to Ant style pattern matching. Mitigation: Update to Apache Shiro 1.11.0, or set the following Spring Boot configuration value: `spring.mvc.pathmatch.matching-strategy = ant_path_matcher`
+- [Live-Hack-CVE/CVE-2023-22602](https://github.com/Live-Hack-CVE/CVE-2023-22602)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22602">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22602">
+
+---
 ## CVE-2023-22551 (2023-01-01T18:15:00)
 > The FTP (aka "Implementation of a simple FTP client and server") project through 96c1a35 allows remote attackers to cause a denial of service (memory consumption) by engaging in client activity, such as establishing and then terminating a connection. This occurs because malloc is used but free is not.
 - [Live-Hack-CVE/CVE-2023-22551](https://github.com/Live-Hack-CVE/CVE-2023-22551)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22551">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22551">
@@ -704,6 +709,11 @@
 ## CVE-2023-20523 (2023-01-11T08:15:00)
 > TOCTOU in the ASP may allow a physical attacker to write beyond the buffer bounds, potentially leading to a loss of integrity or denial of service.
 - [Live-Hack-CVE/CVE-2023-20523](https://github.com/Live-Hack-CVE/CVE-2023-20523)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20523">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20523">
+
+---
+## CVE-2023-0298 (2023-01-14T08:15:00)
+> Improper Authorization in GitHub repository firefly-iii/firefly-iii prior to 5.8.0.
+- [Live-Hack-CVE/CVE-2023-0298](https://github.com/Live-Hack-CVE/CVE-2023-0298)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0298">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0298">
 
 ---
 ## CVE-2023-0297 (2023-01-14T03:15:00)
