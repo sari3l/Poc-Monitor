@@ -914,6 +914,8 @@
 ## CVE-2017-10617 (2017-10-13T17:29:00)
 > The ifmap service that comes bundled with Contrail has an XML External Entity (XXE) vulnerability that may allow an attacker to retrieve sensitive system files. Affected releases are Juniper Networks Contrail 2.2 prior to 2.21.4; 3.0 prior to 3.0.3.4; 3.1 prior to 3.1.4.0; 3.2 prior to 3.2.5.0. CVE-2017-10616 and CVE-2017-10617 can be chained together and have a combined CVSSv3 score of 5.8 (AV:N/AC:L/PR:N/UI:N/S:C/C:L/I:N/A:N).
 - [Live-Hack-CVE/CVE-2017-10617](https://github.com/Live-Hack-CVE/CVE-2017-10617)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-10617">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-10617">
+- [Live-Hack-CVE/CVE-2017-10616](https://github.com/Live-Hack-CVE/CVE-2017-10616)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-10616">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-10616">
+- [gteissier/CVE-2017-10617](https://github.com/gteissier/CVE-2017-10617)	<img alt="forks" src="https://img.shields.io/github/forks/gteissier/CVE-2017-10617">	<img alt="stars" src="https://img.shields.io/github/stars/gteissier/CVE-2017-10617">
 
 ---
 ## CVE-2017-10616 (2017-10-13T17:29:00)
