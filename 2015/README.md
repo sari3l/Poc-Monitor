@@ -11,6 +11,11 @@
 - [Live-Hack-CVE/CVE-2015-8873](https://github.com/Live-Hack-CVE/CVE-2015-8873)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-8873">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-8873">
 
 ---
+## CVE-2015-8660 (2015-12-28T11:59:00)
+> The ovl_setattr function in fs/overlayfs/inode.c in the Linux kernel through 4.3.3 attempts to merge distinct setattr operations, which allows local users to bypass intended access restrictions and modify the attributes of arbitrary overlay files via a crafted application.
+- [nhamle2/CVE-2015-8660](https://github.com/nhamle2/CVE-2015-8660)	<img alt="forks" src="https://img.shields.io/github/forks/nhamle2/CVE-2015-8660">	<img alt="stars" src="https://img.shields.io/github/stars/nhamle2/CVE-2015-8660">
+
+---
 ## CVE-2015-8562 (2015-12-16T21:59:00)
 > Joomla! 1.5.x, 2.x, and 3.x before 3.4.6 allow remote attackers to conduct PHP object injection attacks and execute arbitrary PHP code via the HTTP User-Agent header, as exploited in the wild in December 2015.
 - [Caihuar/Joomla-cve-2015-8562](https://github.com/Caihuar/Joomla-cve-2015-8562)	<img alt="forks" src="https://img.shields.io/github/forks/Caihuar/Joomla-cve-2015-8562">	<img alt="stars" src="https://img.shields.io/github/stars/Caihuar/Joomla-cve-2015-8562">
