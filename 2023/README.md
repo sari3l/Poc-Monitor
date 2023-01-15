@@ -1,6 +1,11 @@
 # 2023 List
 
 ---
+## CVE-2023-23590 (2023-01-15T05:15:00)
+> Mercedes-Benz XENTRY Retail Data Storage 7.8.1 allows remote attackers to cause a denial of service (device restart) via an unauthenticated API request. The attacker must be on the same network as the device.
+- [Live-Hack-CVE/CVE-2023-23590](https://github.com/Live-Hack-CVE/CVE-2023-23590)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23590">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23590">
+
+---
 ## CVE-2023-23559 (2023-01-13T01:15:00)
 > In rndis_query_oid in drivers/net/wireless/rndis_wlan.c in the Linux kernel through 6.1.5, there is an integer overflow in an addition.
 - [Live-Hack-CVE/CVE-2023-23559](https://github.com/Live-Hack-CVE/CVE-2023-23559)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23559">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23559">
@@ -709,6 +714,11 @@
 ## CVE-2023-20523 (2023-01-11T08:15:00)
 > TOCTOU in the ASP may allow a physical attacker to write beyond the buffer bounds, potentially leading to a loss of integrity or denial of service.
 - [Live-Hack-CVE/CVE-2023-20523](https://github.com/Live-Hack-CVE/CVE-2023-20523)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20523">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20523">
+
+---
+## CVE-2023-0302 (2023-01-15T01:15:00)
+> Failure to Sanitize Special Elements into a Different Plane (Special Element Injection) in GitHub repository radareorg/radare2 prior to 5.8.2.
+- [Live-Hack-CVE/CVE-2023-0302](https://github.com/Live-Hack-CVE/CVE-2023-0302)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0302">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0302">
 
 ---
 ## CVE-2023-0301 (2023-01-14T18:15:00)
