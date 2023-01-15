@@ -4532,6 +4532,11 @@
 - [Live-Hack-CVE/CVE-2021-3410](https://github.com/Live-Hack-CVE/CVE-2021-3410)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3410">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3410">
 
 ---
+## CVE-2021-33959 ()
+> 
+- [lixiang957/CVE-2021-33959](https://github.com/lixiang957/CVE-2021-33959)	<img alt="forks" src="https://img.shields.io/github/forks/lixiang957/CVE-2021-33959">	<img alt="stars" src="https://img.shields.io/github/stars/lixiang957/CVE-2021-33959">
+
+---
 ## CVE-2021-33909 (2021-07-20T19:15:00)
 > fs/seq_file.c in the Linux kernel 3.16 through 5.13.x before 5.13.4 does not properly restrict seq buffer allocations, leading to an integer overflow, an Out-of-bounds Write, and escalation to root by an unprivileged user, aka CID-8cae8cd89f05.
 - [Live-Hack-CVE/CVE-2021-33909](https://github.com/Live-Hack-CVE/CVE-2021-33909)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33909">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33909">
