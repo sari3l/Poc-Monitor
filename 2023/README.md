@@ -721,6 +721,21 @@
 - [Live-Hack-CVE/CVE-2023-20523](https://github.com/Live-Hack-CVE/CVE-2023-20523)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20523">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20523">
 
 ---
+## CVE-2023-0305 (2023-01-15T12:15:00)
+> A vulnerability classified as critical was found in SourceCodester Online Food Ordering System. This vulnerability affects unknown code of the file admin_class.php of the component Login Module. The manipulation of the argument username leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB-218386 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2023-0305](https://github.com/Live-Hack-CVE/CVE-2023-0305)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0305">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0305">
+
+---
+## CVE-2023-0304 (2023-01-15T12:15:00)
+> A vulnerability classified as critical has been found in SourceCodester Online Food Ordering System. This affects an unknown part of the file admin_class.php of the component Signup Module. The manipulation of the argument email leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-218385 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2023-0304](https://github.com/Live-Hack-CVE/CVE-2023-0304)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0304">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0304">
+
+---
+## CVE-2023-0303 (2023-01-15T12:15:00)
+> A vulnerability was found in SourceCodester Online Food Ordering System. It has been rated as critical. Affected by this issue is some unknown functionality of the file view_prod.php. The manipulation of the argument id leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-218384.
+- [Live-Hack-CVE/CVE-2023-0303](https://github.com/Live-Hack-CVE/CVE-2023-0303)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0303">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0303">
+
+---
 ## CVE-2023-0302 (2023-01-15T01:15:00)
 > Failure to Sanitize Special Elements into a Different Plane (Special Element Injection) in GitHub repository radareorg/radare2 prior to 5.8.2.
 - [Live-Hack-CVE/CVE-2023-0302](https://github.com/Live-Hack-CVE/CVE-2023-0302)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0302">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0302">
