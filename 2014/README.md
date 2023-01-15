@@ -169,6 +169,21 @@
 - [Live-Hack-CVE/CVE-2014-1705](https://github.com/Live-Hack-CVE/CVE-2014-1705)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-1705">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-1705">
 
 ---
+## CVE-2014-125079 (2023-01-15T09:15:00)
+> A vulnerability was found in agy pontifex.http. It has been declared as critical. This vulnerability affects unknown code of the file lib/Http.coffee. The manipulation leads to sql injection. Upgrading to version 0.1.0 is able to address this issue. The name of the patch is e52a758f96861dcef2dabfecb9da191bb2e07761. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-218356.
+- [Live-Hack-CVE/CVE-2014-125079](https://github.com/Live-Hack-CVE/CVE-2014-125079)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125079">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125079">
+
+---
+## CVE-2014-125078 (2023-01-15T09:15:00)
+> A vulnerability was found in yanheven console and classified as problematic. Affected by this issue is some unknown functionality of the file horizon/static/horizon/js/horizon.instances.js. The manipulation leads to cross site scripting. The attack may be launched remotely. The name of the patch is 32a7b713468161282f2ea01d5e2faff980d924cd. It is recommended to apply a patch to fix this issue. VDB-218354 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2014-125078](https://github.com/Live-Hack-CVE/CVE-2014-125078)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125078">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125078">
+
+---
+## CVE-2014-125077 (2023-01-15T09:15:00)
+> A vulnerability, which was classified as critical, has been found in pointhi searx_stats. This issue affects some unknown processing of the file cgi/cron.php. The manipulation leads to sql injection. The name of the patch is 281bd679a4474ddb222d16c1c380f252839cc18f. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-218351.
+- [Live-Hack-CVE/CVE-2014-125077](https://github.com/Live-Hack-CVE/CVE-2014-125077)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125077">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125077">
+
+---
 ## CVE-2014-125076 (2023-01-11T19:15:00)
 > A vulnerability was found in NoxxieNl Criminals. It has been classified as critical. Affected is an unknown function of the file ingame/roulette.php. The manipulation of the argument gambleMoney leads to sql injection. The name of the patch is 0a60b31271d4cbf8babe4be993d2a3a1617f0897. It is recommended to apply a patch to fix this issue. VDB-218022 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2014-125076](https://github.com/Live-Hack-CVE/CVE-2014-125076)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125076">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125076">
