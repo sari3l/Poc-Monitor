@@ -3569,6 +3569,11 @@
 - [Live-Hack-CVE/CVE-2021-36631](https://github.com/Live-Hack-CVE/CVE-2021-36631)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36631">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36631">
 
 ---
+## CVE-2021-36630 ()
+> 
+- [lixiang957/CVE-2021-36630](https://github.com/lixiang957/CVE-2021-36630)	<img alt="forks" src="https://img.shields.io/github/forks/lixiang957/CVE-2021-36630">	<img alt="stars" src="https://img.shields.io/github/stars/lixiang957/CVE-2021-36630">
+
+---
 ## CVE-2021-3661 (2022-12-12T13:15:00)
 > A potential security vulnerability has been identified in certain HP Workstation BIOS (UEFI firmware) which may allow arbitrary code execution. HP is releasing firmware mitigations for the potential vulnerability.
 - [Live-Hack-CVE/CVE-2021-3661](https://github.com/Live-Hack-CVE/CVE-2021-3661)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3661">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3661">
@@ -4534,6 +4539,7 @@
 ---
 ## CVE-2021-33959 ()
 > 
+- [lixiang957/CVE-2021-33959](https://github.com/lixiang957/CVE-2021-33959)	<img alt="forks" src="https://img.shields.io/github/forks/lixiang957/CVE-2021-33959">	<img alt="stars" src="https://img.shields.io/github/stars/lixiang957/CVE-2021-33959">
 - [lixiang957/CVE-2021-33959](https://github.com/lixiang957/CVE-2021-33959)	<img alt="forks" src="https://img.shields.io/github/forks/lixiang957/CVE-2021-33959">	<img alt="stars" src="https://img.shields.io/github/stars/lixiang957/CVE-2021-33959">
 - [lixiang957/CVE-2021-33959](https://github.com/lixiang957/CVE-2021-33959)	<img alt="forks" src="https://img.shields.io/github/forks/lixiang957/CVE-2021-33959">	<img alt="stars" src="https://img.shields.io/github/stars/lixiang957/CVE-2021-33959">
 
