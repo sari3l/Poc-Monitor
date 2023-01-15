@@ -696,6 +696,16 @@
 - [Live-Hack-CVE/CVE-2016-1669](https://github.com/Live-Hack-CVE/CVE-2016-1669)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-1669">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-1669">
 
 ---
+## CVE-2016-15019 (2023-01-15T19:15:00)
+> A vulnerability was found in tombh jekbox. It has been rated as problematic. This issue affects some unknown processing of the file lib/server.rb. The manipulation leads to exposure of information through directory listing. The attack may be initiated remotely. The name of the patch is 64eb2677671018fc08b96718b81e3dbc83693190. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-218375.
+- [Live-Hack-CVE/CVE-2016-15019](https://github.com/Live-Hack-CVE/CVE-2016-15019)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-15019">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-15019">
+
+---
+## CVE-2016-15018 (2023-01-15T19:15:00)
+> A vulnerability was found in krail-jpa up to 0.9.1. It has been classified as critical. This affects an unknown part. The manipulation leads to sql injection. Upgrading to version 0.9.2 is able to address this issue. The name of the patch is c1e848665492e21ef6cc9be443205e36b9a1f6be. It is recommended to upgrade the affected component. The identifier VDB-218373 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2016-15018](https://github.com/Live-Hack-CVE/CVE-2016-15018)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-15018">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-15018">
+
+---
 ## CVE-2016-15017 (2023-01-10T15:15:00)
 > A vulnerability has been found in fabarea media_upload and classified as critical. This vulnerability affects the function getUploadedFileList of the file Classes/Service/UploadFileService.php. The manipulation leads to pathname traversal. Upgrading to version 0.9.0 is able to address this issue. The name of the patch is b25d42a4981072321c1a363311d8ea2a4ac8763a. It is recommended to upgrade the affected component. VDB-217786 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2016-15017](https://github.com/Live-Hack-CVE/CVE-2016-15017)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-15017">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-15017">
