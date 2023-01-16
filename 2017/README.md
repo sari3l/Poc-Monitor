@@ -1241,3 +1241,8 @@
 - [SampatDhakal/Metasploit-Attack-Report](https://github.com/SampatDhakal/Metasploit-Attack-Report)	<img alt="forks" src="https://img.shields.io/github/forks/SampatDhakal/Metasploit-Attack-Report">	<img alt="stars" src="https://img.shields.io/github/stars/SampatDhakal/Metasploit-Attack-Report">
 - [NatteeSetobol/Etern-blue-Windows-7-Checker](https://github.com/NatteeSetobol/Etern-blue-Windows-7-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/NatteeSetobol/Etern-blue-Windows-7-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/NatteeSetobol/Etern-blue-Windows-7-Checker">
 - [valarauco/wannafind](https://github.com/valarauco/wannafind)	<img alt="forks" src="https://img.shields.io/github/forks/valarauco/wannafind">	<img alt="stars" src="https://img.shields.io/github/stars/valarauco/wannafind">
+
+---
+## CVE-2017-0055 (2017-03-17T00:59:00)
+> Microsoft Internet Information Server (IIS) in Windows Vista SP2; Windows Server 2008 SP2 and R2; Windows 7 SP1; Windows 8.1; Windows Server 2012 Gold and R2; Windows RT 8.1; Windows 10 Gold, 1511, and 1607; and Windows Server 2016 allows remote attackers to perform cross-site scripting and run script with local user privileges via a crafted request, aka "Microsoft IIS Server XSS Elevation of Privilege Vulnerability."
+- [NetJBS/CVE-2017-0055-PoC](https://github.com/NetJBS/CVE-2017-0055-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/NetJBS/CVE-2017-0055-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/NetJBS/CVE-2017-0055-PoC">
