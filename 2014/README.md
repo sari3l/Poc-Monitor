@@ -169,6 +169,11 @@
 - [Live-Hack-CVE/CVE-2014-1705](https://github.com/Live-Hack-CVE/CVE-2014-1705)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-1705">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-1705">
 
 ---
+## CVE-2014-125080 (2023-01-16T18:15:00)
+> A vulnerability has been found in frontaccounting faplanet and classified as critical. This vulnerability affects unknown code. The manipulation leads to path traversal. The name of the patch is a5dcd87f46080a624b1a9ad4b0dd035bbd24ac50. It is recommended to apply a patch to fix this issue. VDB-218398 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2014-125080](https://github.com/Live-Hack-CVE/CVE-2014-125080)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125080">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125080">
+
+---
 ## CVE-2014-125079 (2023-01-15T09:15:00)
 > A vulnerability was found in agy pontifex.http. It has been declared as critical. This vulnerability affects unknown code of the file lib/Http.coffee. The manipulation leads to sql injection. Upgrading to version 0.1.0 is able to address this issue. The name of the patch is e52a758f96861dcef2dabfecb9da191bb2e07761. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-218356.
 - [Live-Hack-CVE/CVE-2014-125079](https://github.com/Live-Hack-CVE/CVE-2014-125079)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125079">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125079">
