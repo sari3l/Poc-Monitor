@@ -620,6 +620,11 @@
 - [Live-Hack-CVE/CVE-2023-21535](https://github.com/Live-Hack-CVE/CVE-2023-21535)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21535">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21535">
 
 ---
+## CVE-2023-21542 (2023-01-10T22:15:00)
+> Windows Installer Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2023-21542](https://github.com/Live-Hack-CVE/CVE-2023-21542)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21542">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21542">
+
+---
 ## CVE-2023-21541 (2023-01-10T22:15:00)
 > Windows Task Scheduler Elevation of Privilege Vulnerability.
 - [Live-Hack-CVE/CVE-2023-21541](https://github.com/Live-Hack-CVE/CVE-2023-21541)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21541">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21541">
@@ -719,6 +724,51 @@
 ## CVE-2023-20523 (2023-01-11T08:15:00)
 > TOCTOU in the ASP may allow a physical attacker to write beyond the buffer bounds, potentially leading to a loss of integrity or denial of service.
 - [Live-Hack-CVE/CVE-2023-20523](https://github.com/Live-Hack-CVE/CVE-2023-20523)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20523">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20523">
+
+---
+## CVE-2023-0314 (2023-01-15T22:15:00)
+> Cross-site Scripting (XSS) - Reflected in GitHub repository thorsten/phpmyfaq prior to 3.1.10.
+- [Live-Hack-CVE/CVE-2023-0314](https://github.com/Live-Hack-CVE/CVE-2023-0314)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0314">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0314">
+
+---
+## CVE-2023-0313 (2023-01-15T22:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository thorsten/phpmyfaq prior to 3.1.10.
+- [Live-Hack-CVE/CVE-2023-0313](https://github.com/Live-Hack-CVE/CVE-2023-0313)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0313">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0313">
+
+---
+## CVE-2023-0312 (2023-01-15T22:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository thorsten/phpmyfaq prior to 3.1.10.
+- [Live-Hack-CVE/CVE-2023-0312](https://github.com/Live-Hack-CVE/CVE-2023-0312)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0312">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0312">
+
+---
+## CVE-2023-0311 (2023-01-15T22:15:00)
+> Improper Authentication in GitHub repository thorsten/phpmyfaq prior to 3.1.10.
+- [Live-Hack-CVE/CVE-2023-0311](https://github.com/Live-Hack-CVE/CVE-2023-0311)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0311">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0311">
+
+---
+## CVE-2023-0310 (2023-01-15T22:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository thorsten/phpmyfaq prior to 3.1.10.
+- [Live-Hack-CVE/CVE-2023-0310](https://github.com/Live-Hack-CVE/CVE-2023-0310)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0310">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0310">
+
+---
+## CVE-2023-0309 (2023-01-15T22:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository thorsten/phpmyfaq prior to 3.1.10.
+- [Live-Hack-CVE/CVE-2023-0309](https://github.com/Live-Hack-CVE/CVE-2023-0309)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0309">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0309">
+
+---
+## CVE-2023-0308 (2023-01-15T22:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository thorsten/phpmyfaq prior to 3.1.10.
+- [Live-Hack-CVE/CVE-2023-0308](https://github.com/Live-Hack-CVE/CVE-2023-0308)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0308">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0308">
+
+---
+## CVE-2023-0307 (2023-01-15T22:15:00)
+> Weak Password Requirements in GitHub repository thorsten/phpmyfaq prior to 3.1.10.
+- [Live-Hack-CVE/CVE-2023-0307](https://github.com/Live-Hack-CVE/CVE-2023-0307)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0307">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0307">
+
+---
+## CVE-2023-0306 (2023-01-15T22:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository thorsten/phpmyfaq prior to 3.1.10.
+- [Live-Hack-CVE/CVE-2023-0306](https://github.com/Live-Hack-CVE/CVE-2023-0306)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0306">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0306">
 
 ---
 ## CVE-2023-0305 (2023-01-15T12:15:00)
