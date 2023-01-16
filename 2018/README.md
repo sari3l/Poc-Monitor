@@ -381,6 +381,11 @@
 - [forlin/CVE-2018-2628](https://github.com/forlin/CVE-2018-2628)	<img alt="forks" src="https://img.shields.io/github/forks/forlin/CVE-2018-2628">	<img alt="stars" src="https://img.shields.io/github/stars/forlin/CVE-2018-2628">
 
 ---
+## CVE-2018-25076 (2023-01-16T12:15:00)
+> A vulnerability classified as critical was found in Events Extension. Affected by this vulnerability is the function getRandomFeaturedEventByDate/getUpcomingFeaturedEventsInCategoriesWithSubcategories/recacheEvent/searchResults of the file classes/events.php. The manipulation leads to sql injection. The name of the patch is 11169e48ab1249109485fdb1e0c9fca3d25ba01d. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-218395.
+- [Live-Hack-CVE/CVE-2018-25076](https://github.com/Live-Hack-CVE/CVE-2018-25076)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-25076">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-25076">
+
+---
 ## CVE-2018-25075 (2023-01-15T20:15:00)
 > A vulnerability classified as critical has been found in karsany OBridge up to 1.3. Affected is the function getAllStandaloneProcedureAndFunction of the file obridge-main/src/main/java/org/obridge/dao/ProcedureDao.java. The manipulation leads to sql injection. Upgrading to version 1.4 is able to address this issue. The name of the patch is 52eca4ad05f3c292aed3178b2f58977686ffa376. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-218376.
 - [Live-Hack-CVE/CVE-2018-25075](https://github.com/Live-Hack-CVE/CVE-2018-25075)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-25075">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-25075">

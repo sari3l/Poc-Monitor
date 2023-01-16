@@ -98,6 +98,11 @@ Any Unreal3.2.8.1.tar.gz downloaded BEFORE November 10 2009 should be safe, but 
 - [Live-Hack-CVE/CVE-2010-1281](https://github.com/Live-Hack-CVE/CVE-2010-1281)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-1281">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-1281">
 
 ---
+## CVE-2010-10005 (2023-01-16T11:15:00)
+> A vulnerability was found in msmania poodim. It has been declared as critical. This vulnerability affects unknown code of the component Command Line Argument Handler. The manipulation leads to stack-based buffer overflow. The attack can be initiated remotely. The name of the patch is 6340d5d2c81e55e61522c4b40a6cdd5c39738cc6. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-218392.
+- [Live-Hack-CVE/CVE-2010-10005](https://github.com/Live-Hack-CVE/CVE-2010-10005)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-10005">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-10005">
+
+---
 ## CVE-2010-10003 (2023-01-04T10:15:00)
 > A vulnerability classified as critical was found in gesellix titlelink. Affected by this vulnerability is an unknown functionality of the file plugin_content_title.php. The manipulation of the argument phrase leads to sql injection. The name of the patch is b4604e523853965fa981a4e79aef4b554a535db0. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-217351.
 - [Live-Hack-CVE/CVE-2010-10003](https://github.com/Live-Hack-CVE/CVE-2010-10003)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-10003">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-10003">

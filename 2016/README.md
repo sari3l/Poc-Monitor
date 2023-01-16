@@ -696,6 +696,11 @@
 - [Live-Hack-CVE/CVE-2016-1669](https://github.com/Live-Hack-CVE/CVE-2016-1669)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-1669">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-1669">
 
 ---
+## CVE-2016-15020 (2023-01-16T11:15:00)
+> A vulnerability was found in liftkit database up to 2.13.1. It has been classified as critical. This affects the function processOrderBy of the file src/Query/Query.php. The manipulation leads to sql injection. Upgrading to version 2.13.2 is able to address this issue. The name of the patch is 42ec8f2b22e0b0b98fb5b4444ed451c1b21d125a. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-218391.
+- [Live-Hack-CVE/CVE-2016-15020](https://github.com/Live-Hack-CVE/CVE-2016-15020)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-15020">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-15020">
+
+---
 ## CVE-2016-15019 (2023-01-15T19:15:00)
 > A vulnerability was found in tombh jekbox. It has been rated as problematic. This issue affects some unknown processing of the file lib/server.rb. The manipulation leads to exposure of information through directory listing. The attack may be initiated remotely. The name of the patch is 64eb2677671018fc08b96718b81e3dbc83693190. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-218375.
 - [Live-Hack-CVE/CVE-2016-15019](https://github.com/Live-Hack-CVE/CVE-2016-15019)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-15019">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-15019">
