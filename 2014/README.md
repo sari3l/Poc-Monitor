@@ -56,6 +56,11 @@
 - [Live-Hack-CVE/CVE-2014-6230](https://github.com/Live-Hack-CVE/CVE-2014-6230)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-6230">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-6230">
 
 ---
+## CVE-2014-5460 (2014-09-11T15:55:00)
+> Unrestricted file upload vulnerability in the Tribulant Slideshow Gallery plugin before 1.4.7 for WordPress allows remote authenticated users to execute arbitrary code by uploading a PHP file, then accessing it via a direct request to the file in wp-content/uploads/slideshow-gallery/.
+- [brookeses69/CVE-2014-5460](https://github.com/brookeses69/CVE-2014-5460)	<img alt="forks" src="https://img.shields.io/github/forks/brookeses69/CVE-2014-5460">	<img alt="stars" src="https://img.shields.io/github/stars/brookeses69/CVE-2014-5460">
+
+---
 ## CVE-2014-4717 (2014-07-03T14:55:00)
 > Multiple cross-site request forgery (CSRF) vulnerabilities in the Simple Share Buttons Adder plugin before 4.5 for WordPress allow remote attackers to hijack the authentication of administrators for requests that conduct cross-site scripting (XSS) attacks via the (1) ssba_share_text parameter in a save action to wp-admin/options-general.php, which is not properly handled in the homepage, and unspecified vectors related to (2) Pages, (3) Posts, (4) Category/Archive pages or (5) post Excerpts.
 - [Live-Hack-CVE/CVE-2014-4717](https://github.com/Live-Hack-CVE/CVE-2014-4717)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-4717">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-4717">
