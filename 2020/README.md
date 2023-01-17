@@ -1644,6 +1644,11 @@
 - [Live-Hack-CVE/CVE-2020-28491](https://github.com/Live-Hack-CVE/CVE-2020-28491)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28491">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28491">
 
 ---
+## CVE-2020-28478 (2021-01-19T11:15:00)
+> This affects the package gsap before 3.6.0.
+- [NetJBS/CVE-2020-28478--PoC](https://github.com/NetJBS/CVE-2020-28478--PoC)	<img alt="forks" src="https://img.shields.io/github/forks/NetJBS/CVE-2020-28478--PoC">	<img alt="stars" src="https://img.shields.io/github/stars/NetJBS/CVE-2020-28478--PoC">
+
+---
 ## CVE-2020-28460 (2020-12-22T13:15:00)
 > This affects the package multi-ini before 2.1.2. It is possible to pollute an object's prototype by specifying the constructor.proto object as part of an array. This is a bypass of CVE-2020-28448.
 - [Live-Hack-CVE/CVE-2020-28460](https://github.com/Live-Hack-CVE/CVE-2020-28460)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28460">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28460">
