@@ -1568,6 +1568,7 @@
 - [blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution](https://github.com/blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution">
 - [Live-Hack-CVE/CVE-2021-42013](https://github.com/Live-Hack-CVE/CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42013">
 - [hadrian3689/apache_2.4.50](https://github.com/hadrian3689/apache_2.4.50)	<img alt="forks" src="https://img.shields.io/github/forks/hadrian3689/apache_2.4.50">	<img alt="stars" src="https://img.shields.io/github/stars/hadrian3689/apache_2.4.50">
+- [Turzum/ps-lab-cve-2021-42013](https://github.com/Turzum/ps-lab-cve-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/Turzum/ps-lab-cve-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/Turzum/ps-lab-cve-2021-42013">
 
 ---
 ## CVE-2021-42010 (2022-10-24T14:15:00)
