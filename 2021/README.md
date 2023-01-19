@@ -5054,6 +5054,7 @@
 ## CVE-2021-31800 (2021-05-05T11:15:00)
 > Multiple path traversal vulnerabilities exist in smbserver.py in Impacket through 0.9.22. An attacker that connects to a running smbserver instance can list and write to arbitrary files via ../ directory traversal. This could potentially be abused to achieve arbitrary code execution by replacing /etc/shadow or an SSH authorized key.
 - [Louzogh/CVE-2021-31800](https://github.com/Louzogh/CVE-2021-31800)	<img alt="forks" src="https://img.shields.io/github/forks/Louzogh/CVE-2021-31800">	<img alt="stars" src="https://img.shields.io/github/stars/Louzogh/CVE-2021-31800">
+- [p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write](https://github.com/p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write)	<img alt="forks" src="https://img.shields.io/github/forks/p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write">	<img alt="stars" src="https://img.shields.io/github/stars/p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write">
 
 ---
 ## CVE-2021-3177 (2021-01-19T06:15:00)
