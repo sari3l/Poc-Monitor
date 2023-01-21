@@ -2429,7 +2429,7 @@
 - [rhin0cer0s/CVE-2021-4034](https://github.com/rhin0cer0s/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/rhin0cer0s/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/rhin0cer0s/CVE-2021-4034">
 - [ArkAngeL43/CVE-2021-4034](https://github.com/ArkAngeL43/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/ArkAngeL43/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/ArkAngeL43/CVE-2021-4034">
 - [CYB3RK1D/CVE-2021-4034-POC](https://github.com/CYB3RK1D/CVE-2021-4034-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CYB3RK1D/CVE-2021-4034-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CYB3RK1D/CVE-2021-4034-POC">
-- [hifumi1337/CVE-2021-4034](https://github.com/hifumi1337/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/hifumi1337/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/hifumi1337/CVE-2021-4034">
+- [azazelm3dj3d/CVE-2021-4034](https://github.com/azazelm3dj3d/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/azazelm3dj3d/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/azazelm3dj3d/CVE-2021-4034">
 - [jcatala/f_poc_cve-2021-4034](https://github.com/jcatala/f_poc_cve-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/jcatala/f_poc_cve-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/jcatala/f_poc_cve-2021-4034">
 - [c3c/CVE-2021-4034](https://github.com/c3c/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/c3c/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/c3c/CVE-2021-4034">
 - [Al1ex/LinuxEelvation](https://github.com/Al1ex/LinuxEelvation)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/LinuxEelvation">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/LinuxEelvation">
@@ -2443,7 +2443,7 @@
 - [ITMarcin2211/Polkit-s-Pkexec-CVE-2021-4034](https://github.com/ITMarcin2211/Polkit-s-Pkexec-CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/ITMarcin2211/Polkit-s-Pkexec-CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/ITMarcin2211/Polkit-s-Pkexec-CVE-2021-4034">
 - [rvizx/CVE-2021-4034](https://github.com/rvizx/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2021-4034">
 - [jm33-m0/go-lpe](https://github.com/jm33-m0/go-lpe)	<img alt="forks" src="https://img.shields.io/github/forks/jm33-m0/go-lpe">	<img alt="stars" src="https://img.shields.io/github/stars/jm33-m0/go-lpe">
-- [n0v4mx/cve-2021-4034](https://github.com/n0v4mx/cve-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/n0v4mx/cve-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/n0v4mx/cve-2021-4034">
+- [supportingmx/cve-2021-4034](https://github.com/supportingmx/cve-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/supportingmx/cve-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/supportingmx/cve-2021-4034">
 - [carloscast1llo/CVE-2021-4034](https://github.com/carloscast1llo/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/carloscast1llo/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/carloscast1llo/CVE-2021-4034">
 - [Vulnmachines/HAProxy_CVE-2021-40346](https://github.com/Vulnmachines/HAProxy_CVE-2021-40346)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/HAProxy_CVE-2021-40346">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/HAProxy_CVE-2021-40346">
 - [0xNix/CVE-2021-4034](https://github.com/0xNix/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/0xNix/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/0xNix/CVE-2021-4034">
@@ -2461,6 +2461,9 @@
 - [jehovah2002/CVE-2021-4034-pwnkit](https://github.com/jehovah2002/CVE-2021-4034-pwnkit)	<img alt="forks" src="https://img.shields.io/github/forks/jehovah2002/CVE-2021-4034-pwnkit">	<img alt="stars" src="https://img.shields.io/github/stars/jehovah2002/CVE-2021-4034-pwnkit">
 - [fei9747/CVE-2021-4034](https://github.com/fei9747/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/fei9747/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/fei9747/CVE-2021-4034">
 - [T3slaa/pwnkit-pwn](https://github.com/T3slaa/pwnkit-pwn)	<img alt="forks" src="https://img.shields.io/github/forks/T3slaa/pwnkit-pwn">	<img alt="stars" src="https://img.shields.io/github/stars/T3slaa/pwnkit-pwn">
+- [pyhrr0/pwnkit](https://github.com/pyhrr0/pwnkit)	<img alt="forks" src="https://img.shields.io/github/forks/pyhrr0/pwnkit">	<img alt="stars" src="https://img.shields.io/github/stars/pyhrr0/pwnkit">
+- [tahaafarooq/poppy](https://github.com/tahaafarooq/poppy)	<img alt="forks" src="https://img.shields.io/github/forks/tahaafarooq/poppy">	<img alt="stars" src="https://img.shields.io/github/stars/tahaafarooq/poppy">
+- [HellGateCorp/pwnkit](https://github.com/HellGateCorp/pwnkit)	<img alt="forks" src="https://img.shields.io/github/forks/HellGateCorp/pwnkit">	<img alt="stars" src="https://img.shields.io/github/stars/HellGateCorp/pwnkit">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
