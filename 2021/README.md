@@ -7523,6 +7523,7 @@
 > A flaw was found in binutils readelf 2.35 program. An attacker who is able to convince a victim using readelf to read a crafted file could trigger a stack buffer overflow, out-of-bounds write of arbitrary data supplied by the attacker. The highest impact of this flaw is to confidentiality, integrity, and availability.
 - [Live-Hack-CVE/CVE-2021-20294](https://github.com/Live-Hack-CVE/CVE-2021-20294)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20294">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20294">
 - [tin-z/CVE-2021-20294-POC](https://github.com/tin-z/CVE-2021-20294-POC)	<img alt="forks" src="https://img.shields.io/github/forks/tin-z/CVE-2021-20294-POC">	<img alt="stars" src="https://img.shields.io/github/stars/tin-z/CVE-2021-20294-POC">
+- [tin-z/CVE-2021-20294-POC](https://github.com/tin-z/CVE-2021-20294-POC)	<img alt="forks" src="https://img.shields.io/github/forks/tin-z/CVE-2021-20294-POC">	<img alt="stars" src="https://img.shields.io/github/stars/tin-z/CVE-2021-20294-POC">
 
 ---
 ## CVE-2021-20269 (2022-03-10T17:41:00)
