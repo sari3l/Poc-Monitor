@@ -1136,6 +1136,12 @@
 - [Live-Hack-CVE/CVE-2020-36179](https://github.com/Live-Hack-CVE/CVE-2020-36179)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36179">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36179">
 
 ---
+## CVE-2020-36109 (2021-02-01T14:15:00)
+> ASUS RT-AX86U router firmware below version under 9.0.0.4_386 has a buffer overflow in the blocking_request.cgi function of the httpd module that can cause code execution when an attacker constructs malicious data.
+- [tin-z/CVE-2020-36109-POC](https://github.com/tin-z/CVE-2020-36109-POC)	<img alt="forks" src="https://img.shields.io/github/forks/tin-z/CVE-2020-36109-POC">	<img alt="stars" src="https://img.shields.io/github/stars/tin-z/CVE-2020-36109-POC">
+- [sunn1day/CVE-2020-36109-POC](https://github.com/sunn1day/CVE-2020-36109-POC)	<img alt="forks" src="https://img.shields.io/github/forks/sunn1day/CVE-2020-36109-POC">	<img alt="stars" src="https://img.shields.io/github/stars/sunn1day/CVE-2020-36109-POC">
+
+---
 ## CVE-2020-36002 (2021-02-17T15:15:00)
 > Seat-Reservation-System 1.0 has a SQL injection vulnerability in index.php in the id parameter where attackers can obtain sensitive database information.
 - [Live-Hack-CVE/CVE-2020-36002](https://github.com/Live-Hack-CVE/CVE-2020-36002)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36002">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36002">
@@ -2386,6 +2392,7 @@
 - [Aron-Tn/0day-elFinder-2020](https://github.com/Aron-Tn/0day-elFinder-2020)	<img alt="forks" src="https://img.shields.io/github/forks/Aron-Tn/0day-elFinder-2020">	<img alt="stars" src="https://img.shields.io/github/stars/Aron-Tn/0day-elFinder-2020">
 - [kakamband/WPKiller](https://github.com/kakamband/WPKiller)	<img alt="forks" src="https://img.shields.io/github/forks/kakamband/WPKiller">	<img alt="stars" src="https://img.shields.io/github/stars/kakamband/WPKiller">
 - [mansoorr123/wp-file-manager-CVE-2020-25213](https://github.com/mansoorr123/wp-file-manager-CVE-2020-25213)	<img alt="forks" src="https://img.shields.io/github/forks/mansoorr123/wp-file-manager-CVE-2020-25213">	<img alt="stars" src="https://img.shields.io/github/stars/mansoorr123/wp-file-manager-CVE-2020-25213">
+- [BLY-Coder/Python-exploit-CVE-2020-25213](https://github.com/BLY-Coder/Python-exploit-CVE-2020-25213)	<img alt="forks" src="https://img.shields.io/github/forks/BLY-Coder/Python-exploit-CVE-2020-25213">	<img alt="stars" src="https://img.shields.io/github/stars/BLY-Coder/Python-exploit-CVE-2020-25213">
 
 ---
 ## CVE-2020-25206 (2021-07-20T19:15:00)
