@@ -6959,6 +6959,12 @@
 - [se162xg/CVE-2021-22204](https://github.com/se162xg/CVE-2021-22204)	<img alt="forks" src="https://img.shields.io/github/forks/se162xg/CVE-2021-22204">	<img alt="stars" src="https://img.shields.io/github/stars/se162xg/CVE-2021-22204">
 
 ---
+## CVE-2021-22192 (2021-03-24T17:15:00)
+> An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.
+- [lyy289065406/CVE-2021-22192](https://github.com/lyy289065406/CVE-2021-22192)	<img alt="forks" src="https://img.shields.io/github/forks/lyy289065406/CVE-2021-22192">	<img alt="stars" src="https://img.shields.io/github/stars/lyy289065406/CVE-2021-22192">
+- [PetrusViet/Gitlab-RCE](https://github.com/PetrusViet/Gitlab-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/PetrusViet/Gitlab-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/PetrusViet/Gitlab-RCE">
+
+---
 ## CVE-2021-22134 (2021-03-08T21:15:00)
 > A document disclosure flaw was found in Elasticsearch versions after 7.6.0 and before 7.11.0 when Document or Field Level Security is used. Get requests do not properly apply security permissions when executing a query against a recently updated document. This affects documents that have been updated and not yet refreshed in the index. This could result in the search disclosing the existence of documents and fields the attacker should not be able to view.
 - [Live-Hack-CVE/CVE-2021-22134](https://github.com/Live-Hack-CVE/CVE-2021-22134)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22134">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22134">

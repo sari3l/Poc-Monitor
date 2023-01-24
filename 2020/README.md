@@ -3574,6 +3574,13 @@
 - [yaunsky/CVE-2020-13937](https://github.com/yaunsky/CVE-2020-13937)	<img alt="forks" src="https://img.shields.io/github/forks/yaunsky/CVE-2020-13937">	<img alt="stars" src="https://img.shields.io/github/stars/yaunsky/CVE-2020-13937">
 
 ---
+## CVE-2020-13933 (2020-08-17T21:15:00)
+> Apache Shiro before 1.6.0, when using Apache Shiro, a specially crafted HTTP request may cause an authentication bypass.
+- [lyy289065406/CVE-2020-13933](https://github.com/lyy289065406/CVE-2020-13933)	<img alt="forks" src="https://img.shields.io/github/forks/lyy289065406/CVE-2020-13933">	<img alt="stars" src="https://img.shields.io/github/stars/lyy289065406/CVE-2020-13933">
+- [kunFeng1998/CVE-2020-13933Project](https://github.com/kunFeng1998/CVE-2020-13933Project)	<img alt="forks" src="https://img.shields.io/github/forks/kunFeng1998/CVE-2020-13933Project">	<img alt="stars" src="https://img.shields.io/github/stars/kunFeng1998/CVE-2020-13933Project">
+- [0xkami/cve-2020-13933](https://github.com/0xkami/cve-2020-13933)	<img alt="forks" src="https://img.shields.io/github/forks/0xkami/cve-2020-13933">	<img alt="stars" src="https://img.shields.io/github/stars/0xkami/cve-2020-13933">
+
+---
 ## CVE-2020-13904 (2020-06-07T19:15:00)
 > FFmpeg 2.8 and 4.2.3 has a use-after-free via a crafted EXTINF duration in an m3u8 file because parse_playlist in libavformat/hls.c frees a pointer, and later that pointer is accessed in av_probe_input_format3 in libavformat/format.c.
 - [Live-Hack-CVE/CVE-2020-13904](https://github.com/Live-Hack-CVE/CVE-2020-13904)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13904">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13904">
@@ -3669,6 +3676,11 @@
 ## CVE-2020-13381 (2020-07-01T15:15:00)
 > openSIS through 7.4 allows SQL Injection.
 - [Live-Hack-CVE/CVE-2020-13381](https://github.com/Live-Hack-CVE/CVE-2020-13381)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13381">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13381">
+
+---
+## CVE-2020-13277 (2020-06-19T18:15:00)
+> An authorization issue in the mirroring logic allowed read access to private repositories in GitLab CE/EE 10.6 and later through 13.0.5
+- [lyy289065406/CVE-2020-13277](https://github.com/lyy289065406/CVE-2020-13277)	<img alt="forks" src="https://img.shields.io/github/forks/lyy289065406/CVE-2020-13277">	<img alt="stars" src="https://img.shields.io/github/stars/lyy289065406/CVE-2020-13277">
 
 ---
 ## CVE-2020-13259 (2020-09-16T19:15:00)
