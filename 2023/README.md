@@ -29,6 +29,7 @@
 ## CVE-2023-22960 (2023-01-23T21:15:00)
 > Lexmark products through 2023-01-10 have Improper Control of Interaction Frequency.
 - [t3l3machus/CVE-2023-22960](https://github.com/t3l3machus/CVE-2023-22960)	<img alt="forks" src="https://img.shields.io/github/forks/t3l3machus/CVE-2023-22960">	<img alt="stars" src="https://img.shields.io/github/stars/t3l3machus/CVE-2023-22960">
+- [manas3c/CVE-2023-22960](https://github.com/manas3c/CVE-2023-22960)	<img alt="forks" src="https://img.shields.io/github/forks/manas3c/CVE-2023-22960">	<img alt="stars" src="https://img.shields.io/github/stars/manas3c/CVE-2023-22960">
 
 ---
 ## CVE-2023-22809 (2023-01-18T17:15:00)
