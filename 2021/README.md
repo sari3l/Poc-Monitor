@@ -2464,6 +2464,7 @@
 - [pyhrr0/pwnkit](https://github.com/pyhrr0/pwnkit)	<img alt="forks" src="https://img.shields.io/github/forks/pyhrr0/pwnkit">	<img alt="stars" src="https://img.shields.io/github/stars/pyhrr0/pwnkit">
 - [tahaafarooq/poppy](https://github.com/tahaafarooq/poppy)	<img alt="forks" src="https://img.shields.io/github/forks/tahaafarooq/poppy">	<img alt="stars" src="https://img.shields.io/github/stars/tahaafarooq/poppy">
 - [HellGateCorp/pwnkit](https://github.com/HellGateCorp/pwnkit)	<img alt="forks" src="https://img.shields.io/github/forks/HellGateCorp/pwnkit">	<img alt="stars" src="https://img.shields.io/github/stars/HellGateCorp/pwnkit">
+- [mutur4/CVE-2021-4034](https://github.com/mutur4/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/mutur4/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/mutur4/CVE-2021-4034">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
