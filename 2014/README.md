@@ -117,6 +117,7 @@
 ## CVE-2014-2383 (2014-04-28T14:09:00)
 > dompdf.php in dompdf before 0.6.1, when DOMPDF_ENABLE_PHP is enabled, allows context-dependent attackers to bypass chroot protections and read arbitrary files via a PHP protocol and wrappers in the input_file parameter, as demonstrated by a php://filter/read=convert.base64-encode/resource in the input_file parameter.
 - [Relativ3Pa1n/CVE-2014-2383-Escalation-to-RCE](https://github.com/Relativ3Pa1n/CVE-2014-2383-Escalation-to-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Relativ3Pa1n/CVE-2014-2383-Escalation-to-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Relativ3Pa1n/CVE-2014-2383-Escalation-to-RCE">
+- [Relativ3Pa1n/CVE-2014-2383-LFI-to-RCE-Escalation](https://github.com/Relativ3Pa1n/CVE-2014-2383-LFI-to-RCE-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/Relativ3Pa1n/CVE-2014-2383-LFI-to-RCE-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/Relativ3Pa1n/CVE-2014-2383-LFI-to-RCE-Escalation">
 
 ---
 ## CVE-2014-2265 (2014-03-14T10:55:00)
