@@ -5495,6 +5495,7 @@
 - [Ki11i0n4ir3/CVE-2021-29447](https://github.com/Ki11i0n4ir3/CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/Ki11i0n4ir3/CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/Ki11i0n4ir3/CVE-2021-29447">
 - [viardant/CVE-2021-29447](https://github.com/viardant/CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/viardant/CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/viardant/CVE-2021-29447">
 - [Live-Hack-CVE/CVE-2021-29447](https://github.com/Live-Hack-CVE/CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29447">
+- [0xRar/CVE-2021-29447-PoC](https://github.com/0xRar/CVE-2021-29447-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xRar/CVE-2021-29447-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xRar/CVE-2021-29447-PoC">
 
 ---
 ## CVE-2021-29440 (2021-04-13T20:15:00)
