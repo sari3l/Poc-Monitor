@@ -823,6 +823,11 @@
 - [0bfxgh0st/cve-2021-43798](https://github.com/0bfxgh0st/cve-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/0bfxgh0st/cve-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/0bfxgh0st/cve-2021-43798">
 - [CLincat/vulcat](https://github.com/CLincat/vulcat)	<img alt="forks" src="https://img.shields.io/github/forks/CLincat/vulcat">	<img alt="stars" src="https://img.shields.io/github/stars/CLincat/vulcat">
 - [trhacknon/exploit-grafana-CVE-2021-43798](https://github.com/trhacknon/exploit-grafana-CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/exploit-grafana-CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/exploit-grafana-CVE-2021-43798">
+- [mauricelambert/LabAutomationCVE-2021-43798](https://github.com/mauricelambert/LabAutomationCVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/mauricelambert/LabAutomationCVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/mauricelambert/LabAutomationCVE-2021-43798">
+- [peiqiF4ck/AttackWebFrameworkTools-5.1-main](https://github.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/AttackWebFrameworkTools-5.1-main">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/AttackWebFrameworkTools-5.1-main">
+- [Ki11i0n4ir3/CVE-2021-43798](https://github.com/Ki11i0n4ir3/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/Ki11i0n4ir3/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/Ki11i0n4ir3/CVE-2021-43798">
+- [YourKeeper/SunScope](https://github.com/YourKeeper/SunScope)	<img alt="forks" src="https://img.shields.io/github/forks/YourKeeper/SunScope">	<img alt="stars" src="https://img.shields.io/github/stars/YourKeeper/SunScope">
+- [lalkaltest/CVE-2021-43798](https://github.com/lalkaltest/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/lalkaltest/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/lalkaltest/CVE-2021-43798">
 
 ---
 ## CVE-2021-43797 (2021-12-09T19:15:00)
