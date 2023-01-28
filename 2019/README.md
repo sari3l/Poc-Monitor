@@ -1849,6 +1849,9 @@
 - [TheAlpha19/MiniExploit](https://github.com/TheAlpha19/MiniExploit)	<img alt="forks" src="https://img.shields.io/github/forks/TheAlpha19/MiniExploit">	<img alt="stars" src="https://img.shields.io/github/stars/TheAlpha19/MiniExploit">
 - [jas502n/CVE-2019-15107](https://github.com/jas502n/CVE-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2019-15107">
 - [kh4sh3i/Webmin-CVE](https://github.com/kh4sh3i/Webmin-CVE)	<img alt="forks" src="https://img.shields.io/github/forks/kh4sh3i/Webmin-CVE">	<img alt="stars" src="https://img.shields.io/github/stars/kh4sh3i/Webmin-CVE">
+- [d3b0o/WebMin-1.890-exploit](https://github.com/d3b0o/WebMin-1.890-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/d3b0o/WebMin-1.890-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/d3b0o/WebMin-1.890-exploit">
+- [hadrian3689/webmin_1.920](https://github.com/hadrian3689/webmin_1.920)	<img alt="forks" src="https://img.shields.io/github/forks/hadrian3689/webmin_1.920">	<img alt="stars" src="https://img.shields.io/github/stars/hadrian3689/webmin_1.920">
+- [lolminerxmrig/CVE-2019-15107](https://github.com/lolminerxmrig/CVE-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/lolminerxmrig/CVE-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/lolminerxmrig/CVE-2019-15107">
 
 ---
 ## CVE-2019-14907 (2020-01-21T18:15:00)
