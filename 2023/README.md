@@ -5,6 +5,7 @@
 > ** DISPUTED ** KeePass through 2.53 (in a default installation) allows an attacker, who has write access to the XML configuration file, to obtain the cleartext passwords by adding an export trigger. NOTE: the vendor's position is that the password database is not intended to be secure against an attacker who has that level of access to the local PC.
 - [deetl/CVE-2023-24055](https://github.com/deetl/CVE-2023-24055)	<img alt="forks" src="https://img.shields.io/github/forks/deetl/CVE-2023-24055">	<img alt="stars" src="https://img.shields.io/github/stars/deetl/CVE-2023-24055">
 - [alt3kx/CVE-2023-24055_PoC](https://github.com/alt3kx/CVE-2023-24055_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/alt3kx/CVE-2023-24055_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/alt3kx/CVE-2023-24055_PoC">
+- [Cyb3rtus/keepass_CVE-2023-24055_yara_rule](https://github.com/Cyb3rtus/keepass_CVE-2023-24055_yara_rule)	<img alt="forks" src="https://img.shields.io/github/forks/Cyb3rtus/keepass_CVE-2023-24055_yara_rule">	<img alt="stars" src="https://img.shields.io/github/stars/Cyb3rtus/keepass_CVE-2023-24055_yara_rule">
 
 ---
 ## CVE-2023-23488 (2023-01-20T18:15:00)
