@@ -28,6 +28,36 @@
 - [rahulpatwari/CVE-2023-23161](https://github.com/rahulpatwari/CVE-2023-23161)	<img alt="forks" src="https://img.shields.io/github/forks/rahulpatwari/CVE-2023-23161">	<img alt="stars" src="https://img.shields.io/github/stars/rahulpatwari/CVE-2023-23161">
 
 ---
+## CVE-2023-23132 ()
+> 
+- [l00neyhacker/CVE-2023-23132](https://github.com/l00neyhacker/CVE-2023-23132)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2023-23132">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2023-23132">
+
+---
+## CVE-2023-23131 ()
+> 
+- [l00neyhacker/CVE-2023-23131](https://github.com/l00neyhacker/CVE-2023-23131)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2023-23131">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2023-23131">
+
+---
+## CVE-2023-23130 ()
+> 
+- [l00neyhacker/CVE-2023-23130](https://github.com/l00neyhacker/CVE-2023-23130)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2023-23130">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2023-23130">
+
+---
+## CVE-2023-23128 ()
+> 
+- [l00neyhacker/CVE-2023-23128](https://github.com/l00neyhacker/CVE-2023-23128)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2023-23128">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2023-23128">
+
+---
+## CVE-2023-23127 ()
+> 
+- [l00neyhacker/CVE-2023-23127](https://github.com/l00neyhacker/CVE-2023-23127)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2023-23127">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2023-23127">
+
+---
+## CVE-2023-23126 ()
+> 
+- [l00neyhacker/CVE-2023-23126](https://github.com/l00neyhacker/CVE-2023-23126)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2023-23126">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2023-23126">
+
+---
 ## CVE-2023-22960 (2023-01-23T21:15:00)
 > Lexmark products through 2023-01-10 have Improper Control of Interaction Frequency.
 - [t3l3machus/CVE-2023-22960](https://github.com/t3l3machus/CVE-2023-22960)	<img alt="forks" src="https://img.shields.io/github/forks/t3l3machus/CVE-2023-22960">	<img alt="stars" src="https://img.shields.io/github/stars/t3l3machus/CVE-2023-22960">
