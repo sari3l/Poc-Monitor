@@ -627,7 +627,7 @@
 - [likescam/cve-2019-5736-poc](https://github.com/likescam/cve-2019-5736-poc)	<img alt="forks" src="https://img.shields.io/github/forks/likescam/cve-2019-5736-poc">	<img alt="stars" src="https://img.shields.io/github/stars/likescam/cve-2019-5736-poc">
 - [likescam/CVE-2019-5736](https://github.com/likescam/CVE-2019-5736)	<img alt="forks" src="https://img.shields.io/github/forks/likescam/CVE-2019-5736">	<img alt="stars" src="https://img.shields.io/github/stars/likescam/CVE-2019-5736">
 - [jas502n/CVE-2019-5736](https://github.com/jas502n/CVE-2019-5736)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2019-5736">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2019-5736">
-- [GiovanniCrudo00/Docker-Vulnerabilities-CVE-2019-5736-](https://github.com/GiovanniCrudo00/Docker-Vulnerabilities-CVE-2019-5736-)	<img alt="forks" src="https://img.shields.io/github/forks/GiovanniCrudo00/Docker-Vulnerabilities-CVE-2019-5736-">	<img alt="stars" src="https://img.shields.io/github/stars/GiovanniCrudo00/Docker-Vulnerabilities-CVE-2019-5736-">
+- [GiovanniCrudo00/Docker-Vulnerabilities-CVE-2019-5736](https://github.com/GiovanniCrudo00/Docker-Vulnerabilities-CVE-2019-5736)	<img alt="forks" src="https://img.shields.io/github/forks/GiovanniCrudo00/Docker-Vulnerabilities-CVE-2019-5736">	<img alt="stars" src="https://img.shields.io/github/stars/GiovanniCrudo00/Docker-Vulnerabilities-CVE-2019-5736">
 
 ---
 ## CVE-2019-5477 (2019-08-16T16:15:00)
