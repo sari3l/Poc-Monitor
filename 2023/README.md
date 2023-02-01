@@ -1,8 +1,8 @@
 # 2023 List
 
 ---
-## CVE-2023-24610 ()
-> 
+## CVE-2023-24610 (2023-02-01T14:15:00)
+> NOSH 4a5cfdb allows remote authenticated users to execute PHP arbitrary code via the "practice logo" upload feature. The client-side checks can be bypassed. This may allow attackers to steal Protected Health Information because the product is for health charting.
 - [abbisQQ/CVE-2023-24610](https://github.com/abbisQQ/CVE-2023-24610)	<img alt="forks" src="https://img.shields.io/github/forks/abbisQQ/CVE-2023-24610">	<img alt="stars" src="https://img.shields.io/github/stars/abbisQQ/CVE-2023-24610">
 
 ---
@@ -35,33 +35,33 @@
 - [rahulpatwari/CVE-2023-23161](https://github.com/rahulpatwari/CVE-2023-23161)	<img alt="forks" src="https://img.shields.io/github/forks/rahulpatwari/CVE-2023-23161">	<img alt="stars" src="https://img.shields.io/github/stars/rahulpatwari/CVE-2023-23161">
 
 ---
-## CVE-2023-23132 ()
-> 
+## CVE-2023-23132 (2023-02-01T14:15:00)
+> Selfwealth iOS mobile App 3.3.1 is vulnerable to Sensitive key disclosure. The application reveals hardcoded API keys.
 - [l00neyhacker/CVE-2023-23132](https://github.com/l00neyhacker/CVE-2023-23132)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2023-23132">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2023-23132">
 
 ---
-## CVE-2023-23131 ()
-> 
+## CVE-2023-23131 (2023-02-01T14:15:00)
+> Selfwealth iOS mobile App 3.3.1 is vulnerable to Insecure App Transport Security (ATS) Settings.
 - [l00neyhacker/CVE-2023-23131](https://github.com/l00neyhacker/CVE-2023-23131)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2023-23131">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2023-23131">
 
 ---
-## CVE-2023-23130 ()
-> 
+## CVE-2023-23130 (2023-02-01T14:15:00)
+> Connectwise Automate 2022.11 is vulnerable to Cleartext authentication. Authentication is being done via HTTP (cleartext) with SSL disabled.
 - [l00neyhacker/CVE-2023-23130](https://github.com/l00neyhacker/CVE-2023-23130)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2023-23130">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2023-23130">
 
 ---
-## CVE-2023-23128 ()
-> 
+## CVE-2023-23128 (2023-02-01T14:15:00)
+> Connectwise Control 22.8.10013.8329 is vulnerable to Cross Origin Resource Sharing (CORS).
 - [l00neyhacker/CVE-2023-23128](https://github.com/l00neyhacker/CVE-2023-23128)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2023-23128">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2023-23128">
 
 ---
-## CVE-2023-23127 ()
-> 
+## CVE-2023-23127 (2023-02-01T14:15:00)
+> In Connectwise Control 22.8.10013.8329, the login page does not implement HSTS headers therefore not enforcing HTTPS.
 - [l00neyhacker/CVE-2023-23127](https://github.com/l00neyhacker/CVE-2023-23127)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2023-23127">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2023-23127">
 
 ---
-## CVE-2023-23126 ()
-> 
+## CVE-2023-23126 (2023-02-01T14:15:00)
+> Connectwise Automate 2022.11 is vulnerable to Clickjacking. The login screen can be iframed and used to manipulate users to perform unintended actions.
 - [l00neyhacker/CVE-2023-23126](https://github.com/l00neyhacker/CVE-2023-23126)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2023-23126">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2023-23126">
 
 ---
