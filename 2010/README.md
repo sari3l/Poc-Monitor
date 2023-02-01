@@ -118,6 +118,13 @@ Any Unreal3.2.8.1.tar.gz downloaded BEFORE November 10 2009 should be safe, but 
 - [Live-Hack-CVE/CVE-2010-0434](https://github.com/Live-Hack-CVE/CVE-2010-0434)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-0434">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-0434">
 
 ---
+## CVE-2010-0426 (2010-02-24T18:30:00)
+> sudo 1.6.x before 1.6.9p21 and 1.7.x before 1.7.2p4, when a pseudo-command is enabled, permits a match between the name of the pseudo-command and the name of an executable file in an arbitrary directory, which allows local users to gain privileges via a crafted executable file, as demonstrated by a file named sudoedit in a user's home directory.
+- [g1vi/CVE-2010-0426](https://github.com/g1vi/CVE-2010-0426)	<img alt="forks" src="https://img.shields.io/github/forks/g1vi/CVE-2010-0426">	<img alt="stars" src="https://img.shields.io/github/stars/g1vi/CVE-2010-0426">
+- [cved-sources/cve-2010-0426](https://github.com/cved-sources/cve-2010-0426)	<img alt="forks" src="https://img.shields.io/github/forks/cved-sources/cve-2010-0426">	<img alt="stars" src="https://img.shields.io/github/stars/cved-sources/cve-2010-0426">
+- [t0kx/privesc-CVE-2010-0426](https://github.com/t0kx/privesc-CVE-2010-0426)	<img alt="forks" src="https://img.shields.io/github/forks/t0kx/privesc-CVE-2010-0426">	<img alt="stars" src="https://img.shields.io/github/stars/t0kx/privesc-CVE-2010-0426">
+
+---
 ## CVE-2010-0215 (2011-01-07T23:00:00)
 > ActiveCollab before 2.3.2 allows remote authenticated users to bypass intended access restrictions, and (1) delete an attachment or (2) subscribe to an object, via a crafted URL.
 - [Live-Hack-CVE/CVE-2010-0215](https://github.com/Live-Hack-CVE/CVE-2010-0215)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-0215">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-0215">
