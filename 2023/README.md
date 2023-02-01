@@ -15,6 +15,11 @@
 - [julesbozouklian/PoC_CVE-2023-24055](https://github.com/julesbozouklian/PoC_CVE-2023-24055)	<img alt="forks" src="https://img.shields.io/github/forks/julesbozouklian/PoC_CVE-2023-24055">	<img alt="stars" src="https://img.shields.io/github/stars/julesbozouklian/PoC_CVE-2023-24055">
 
 ---
+## CVE-2023-23924 (2023-02-01T00:15:00)
+> Dompdf is an HTML to PDF converter. The URI validation on dompdf 2.0.1 can be bypassed on SVG parsing by passing `<image>` tags with uppercase letters. This may lead to arbitrary object unserialize on PHP < 8, through the `phar` URL wrapper. An attacker can exploit the vulnerability to call arbitrary URL with arbitrary protocols, if they can provide a SVG file to dompdf. In PHP versions before 8.0.0, it leads to arbitrary unserialize, that will lead to the very least to an arbitrary file deletion and even remote code execution, depending on classes that are available.
+- [motikan2010/CVE-2023-23924](https://github.com/motikan2010/CVE-2023-23924)	<img alt="forks" src="https://img.shields.io/github/forks/motikan2010/CVE-2023-23924">	<img alt="stars" src="https://img.shields.io/github/stars/motikan2010/CVE-2023-23924">
+
+---
 ## CVE-2023-23488 (2023-01-20T18:15:00)
 > The Paid Memberships Pro WordPress Plugin, version < 2.9.8, is affected by an unauthenticated SQL injection vulnerability in the 'code' parameter of the '/pmpro/v1/order' REST route.
 - [r3nt0n/CVE-2023-23488-PoC](https://github.com/r3nt0n/CVE-2023-23488-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/r3nt0n/CVE-2023-23488-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/r3nt0n/CVE-2023-23488-PoC">
