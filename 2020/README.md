@@ -1746,6 +1746,7 @@
 - [r00t4dm/CVE-2020-27955](https://github.com/r00t4dm/CVE-2020-27955)	<img alt="forks" src="https://img.shields.io/github/forks/r00t4dm/CVE-2020-27955">	<img alt="stars" src="https://img.shields.io/github/stars/r00t4dm/CVE-2020-27955">
 - [yhsung/cve-2020-27955-poc](https://github.com/yhsung/cve-2020-27955-poc)	<img alt="forks" src="https://img.shields.io/github/forks/yhsung/cve-2020-27955-poc">	<img alt="stars" src="https://img.shields.io/github/stars/yhsung/cve-2020-27955-poc">
 - [ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955-Go](https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955-Go)	<img alt="forks" src="https://img.shields.io/github/forks/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955-Go">	<img alt="stars" src="https://img.shields.io/github/stars/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955-Go">
+- [Kimorea/CVE-2020-27955-LFS](https://github.com/Kimorea/CVE-2020-27955-LFS)	<img alt="forks" src="https://img.shields.io/github/forks/Kimorea/CVE-2020-27955-LFS">	<img alt="stars" src="https://img.shields.io/github/stars/Kimorea/CVE-2020-27955-LFS">
 
 ---
 ## CVE-2020-27918 (2020-12-08T22:15:00)
