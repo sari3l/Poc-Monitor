@@ -1126,6 +1126,11 @@
 - [Live-Hack-CVE/CVE-2017-1000381](https://github.com/Live-Hack-CVE/CVE-2017-1000381)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-1000381">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-1000381">
 
 ---
+## CVE-2017-1000371 (2017-06-19T16:29:00)
+> The offset2lib patch as used by the Linux Kernel contains a vulnerability, if RLIMIT_STACK is set to RLIM_INFINITY and 1 Gigabyte of memory is allocated (the maximum under the 1/4 restriction) then the stack will be grown down to 0x80000000, and as the PIE binary is mapped above 0x80000000 the minimum distance between the end of the PIE binary's read-write segment and the start of the stack becomes small enough that the stack guard page can be jumped over by an attacker. This affects Linux Kernel version 4.11.5. This is a different issue than CVE-2017-1000370 and CVE-2017-1000365. This issue appears to be limited to i386 based systems.
+- [Trinadh465/linux-4.1.15_CVE-2017-1000371](https://github.com/Trinadh465/linux-4.1.15_CVE-2017-1000371)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux-4.1.15_CVE-2017-1000371">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux-4.1.15_CVE-2017-1000371">
+
+---
 ## CVE-2017-1000353 (2018-01-29T17:29:00)
 > Jenkins versions 2.56 and earlier as well as 2.46.1 LTS and earlier are vulnerable to an unauthenticated remote code execution. An unauthenticated remote code execution vulnerability allowed attackers to transfer a serialized Java `SignedObject` object to the Jenkins CLI, that would be deserialized using a new `ObjectInputStream`, bypassing the existing blacklist-based protection mechanism. We're fixing this issue by adding `SignedObject` to the blacklist. We're also backporting the new HTTP CLI protocol from Jenkins 2.54 to LTS 2.46.2, and deprecating the remoting-based (i.e. Java serialization) CLI protocol, disabling it by default.
 - [r00t4dm/Jenkins-CVE-2017-1000353](https://github.com/r00t4dm/Jenkins-CVE-2017-1000353)	<img alt="forks" src="https://img.shields.io/github/forks/r00t4dm/Jenkins-CVE-2017-1000353">	<img alt="stars" src="https://img.shields.io/github/stars/r00t4dm/Jenkins-CVE-2017-1000353">
