@@ -86,6 +86,11 @@
 - [fakenews2025/CVE-2023-21839](https://github.com/fakenews2025/CVE-2023-21839)	<img alt="forks" src="https://img.shields.io/github/forks/fakenews2025/CVE-2023-21839">	<img alt="stars" src="https://img.shields.io/github/stars/fakenews2025/CVE-2023-21839">
 
 ---
+## CVE-2023-21608 (2023-01-18T19:15:00)
+> Adobe Acrobat Reader versions 22.003.20282 (and earlier), 22.003.20281 (and earlier) and 20.005.30418 (and earlier) are affected by a Use After Free vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [hacksysteam/CVE-2023-21608](https://github.com/hacksysteam/CVE-2023-21608)	<img alt="forks" src="https://img.shields.io/github/forks/hacksysteam/CVE-2023-21608">	<img alt="stars" src="https://img.shields.io/github/stars/hacksysteam/CVE-2023-21608">
+
+---
 ## CVE-2023-0179 ()
 > 
 - [TurtleARM/CVE-2023-0179-PoC](https://github.com/TurtleARM/CVE-2023-0179-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TurtleARM/CVE-2023-0179-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TurtleARM/CVE-2023-0179-PoC">
