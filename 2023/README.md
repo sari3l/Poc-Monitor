@@ -13,6 +13,7 @@
 - [Cyb3rtus/keepass_CVE-2023-24055_yara_rule](https://github.com/Cyb3rtus/keepass_CVE-2023-24055_yara_rule)	<img alt="forks" src="https://img.shields.io/github/forks/Cyb3rtus/keepass_CVE-2023-24055_yara_rule">	<img alt="stars" src="https://img.shields.io/github/stars/Cyb3rtus/keepass_CVE-2023-24055_yara_rule">
 - [julesbozouklian/PoC_CVE-2023-24055](https://github.com/julesbozouklian/PoC_CVE-2023-24055)	<img alt="forks" src="https://img.shields.io/github/forks/julesbozouklian/PoC_CVE-2023-24055">	<img alt="stars" src="https://img.shields.io/github/stars/julesbozouklian/PoC_CVE-2023-24055">
 - [julesbozouklian/PoC_CVE-2023-24055](https://github.com/julesbozouklian/PoC_CVE-2023-24055)	<img alt="forks" src="https://img.shields.io/github/forks/julesbozouklian/PoC_CVE-2023-24055">	<img alt="stars" src="https://img.shields.io/github/stars/julesbozouklian/PoC_CVE-2023-24055">
+- [ATTACKnDEFEND/CVE-2023-24055](https://github.com/ATTACKnDEFEND/CVE-2023-24055)	<img alt="forks" src="https://img.shields.io/github/forks/ATTACKnDEFEND/CVE-2023-24055">	<img alt="stars" src="https://img.shields.io/github/stars/ATTACKnDEFEND/CVE-2023-24055">
 
 ---
 ## CVE-2023-23924 (2023-02-01T00:15:00)
