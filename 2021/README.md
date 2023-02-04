@@ -5849,6 +5849,11 @@
 - [Live-Hack-CVE/CVE-2021-27219](https://github.com/Live-Hack-CVE/CVE-2021-27219)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27219">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27219">
 
 ---
+## CVE-2021-27077 (2021-03-11T16:15:00)
+> Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-26863, CVE-2021-26875, CVE-2021-26900.
+- [peteribi/CVE-2021-27077](https://github.com/peteribi/CVE-2021-27077)	<img alt="forks" src="https://img.shields.io/github/forks/peteribi/CVE-2021-27077">	<img alt="stars" src="https://img.shields.io/github/stars/peteribi/CVE-2021-27077">
+
+---
 ## CVE-2021-26855 (2021-03-03T00:15:00)
 > Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.
 - [raheel0x01/CVE-2021-26855](https://github.com/raheel0x01/CVE-2021-26855)	<img alt="forks" src="https://img.shields.io/github/forks/raheel0x01/CVE-2021-26855">	<img alt="stars" src="https://img.shields.io/github/stars/raheel0x01/CVE-2021-26855">
