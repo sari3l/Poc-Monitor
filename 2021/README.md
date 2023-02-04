@@ -7029,6 +7029,12 @@
 - [1ZRR4H/CVE-2021-22005](https://github.com/1ZRR4H/CVE-2021-22005)	<img alt="forks" src="https://img.shields.io/github/forks/1ZRR4H/CVE-2021-22005">	<img alt="stars" src="https://img.shields.io/github/stars/1ZRR4H/CVE-2021-22005">
 
 ---
+## CVE-2021-21974 (2021-02-24T17:15:00)
+> OpenSLP as used in ESXi (7.0 before ESXi70U1c-17325551, 6.7 before ESXi670-202102401-SG, 6.5 before ESXi650-202102101-SG) has a heap-overflow vulnerability. A malicious actor residing within the same network segment as ESXi who has access to port 427 may be able to trigger the heap-overflow issue in OpenSLP service resulting in remote code execution.
+- [n2x4/Feb2023-CVE-2021-21974-OSINT](https://github.com/n2x4/Feb2023-CVE-2021-21974-OSINT)	<img alt="forks" src="https://img.shields.io/github/forks/n2x4/Feb2023-CVE-2021-21974-OSINT">	<img alt="stars" src="https://img.shields.io/github/stars/n2x4/Feb2023-CVE-2021-21974-OSINT">
+- [Shadow0ps/CVE-2021-21974](https://github.com/Shadow0ps/CVE-2021-21974)	<img alt="forks" src="https://img.shields.io/github/forks/Shadow0ps/CVE-2021-21974">	<img alt="stars" src="https://img.shields.io/github/stars/Shadow0ps/CVE-2021-21974">
+
+---
 ## CVE-2021-21972 (2021-02-24T17:15:00)
 > The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).
 - [trhacknon/CVE-2021-21972-vCenter-6.5-7.0-RCE-POC](https://github.com/trhacknon/CVE-2021-21972-vCenter-6.5-7.0-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2021-21972-vCenter-6.5-7.0-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2021-21972-vCenter-6.5-7.0-RCE-POC">
