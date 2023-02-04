@@ -33,7 +33,7 @@
 - [3t4n/samba-3.0.24-CVE-2007-2447-vunerable-](https://github.com/3t4n/samba-3.0.24-CVE-2007-2447-vunerable-)	<img alt="forks" src="https://img.shields.io/github/forks/3t4n/samba-3.0.24-CVE-2007-2447-vunerable-">	<img alt="stars" src="https://img.shields.io/github/stars/3t4n/samba-3.0.24-CVE-2007-2447-vunerable-">
 - [Alien0ne/CVE-2007-2447](https://github.com/Alien0ne/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/Alien0ne/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/Alien0ne/CVE-2007-2447">
 - [cherrera0001/CVE-2007-2447](https://github.com/cherrera0001/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/cherrera0001/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/cherrera0001/CVE-2007-2447">
-- [Ki11i0n4ir3/Sambaster](https://github.com/Ki11i0n4ir3/Sambaster)	<img alt="forks" src="https://img.shields.io/github/forks/Ki11i0n4ir3/Sambaster">	<img alt="stars" src="https://img.shields.io/github/stars/Ki11i0n4ir3/Sambaster">
+- [Ki11i0n4ir3/CVE-2007-2447](https://github.com/Ki11i0n4ir3/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/Ki11i0n4ir3/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/Ki11i0n4ir3/CVE-2007-2447">
 - [un4gi/CVE-2007-2447](https://github.com/un4gi/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/un4gi/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/un4gi/CVE-2007-2447">
 - [ozuma/CVE-2007-2447](https://github.com/ozuma/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/ozuma/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/ozuma/CVE-2007-2447">
 - [0xKn/CVE-2007-2447](https://github.com/0xKn/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/0xKn/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/0xKn/CVE-2007-2447">
@@ -48,6 +48,7 @@
 - [Aviksaikat/CVE-2007-2447](https://github.com/Aviksaikat/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/Aviksaikat/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/Aviksaikat/CVE-2007-2447">
 - [HerculesRD/PyUsernameMapScriptRCE](https://github.com/HerculesRD/PyUsernameMapScriptRCE)	<img alt="forks" src="https://img.shields.io/github/forks/HerculesRD/PyUsernameMapScriptRCE">	<img alt="stars" src="https://img.shields.io/github/stars/HerculesRD/PyUsernameMapScriptRCE">
 - [k4u5h41/CVE-2007-2447](https://github.com/k4u5h41/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/k4u5h41/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/k4u5h41/CVE-2007-2447">
+- [bdunlap9/CVE-2007-2447_python](https://github.com/bdunlap9/CVE-2007-2447_python)	<img alt="forks" src="https://img.shields.io/github/forks/bdunlap9/CVE-2007-2447_python">	<img alt="stars" src="https://img.shields.io/github/stars/bdunlap9/CVE-2007-2447_python">
 
 ---
 ## CVE-2007-2444 (2007-05-14T21:19:00)
