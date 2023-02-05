@@ -4068,6 +4068,16 @@
 - [afaq1337/CVE-2021-35296](https://github.com/afaq1337/CVE-2021-35296)	<img alt="forks" src="https://img.shields.io/github/forks/afaq1337/CVE-2021-35296">	<img alt="stars" src="https://img.shields.io/github/stars/afaq1337/CVE-2021-35296">
 
 ---
+## CVE-2021-35287 ()
+> 
+- [l00neyhacker/CVE-2021-35287](https://github.com/l00neyhacker/CVE-2021-35287)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2021-35287">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2021-35287">
+
+---
+## CVE-2021-35286 ()
+> 
+- [l00neyhacker/CVE-2021-35286](https://github.com/l00neyhacker/CVE-2021-35286)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2021-35286">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2021-35286">
+
+---
 ## CVE-2021-3528 (2021-05-13T15:15:00)
 > A flaw was found in noobaa-operator in versions before 5.7.0, where internal RPC AuthTokens between the noobaa operator and the noobaa core are leaked into log files. An attacker with access to the log files could use this AuthToken to gain additional access into noobaa deployment and can read/modify system configuration.
 - [Live-Hack-CVE/CVE-2021-3528](https://github.com/Live-Hack-CVE/CVE-2021-3528)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3528">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3528">
