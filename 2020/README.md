@@ -1924,6 +1924,7 @@
 ## CVE-2020-27368 (2021-01-14T16:15:00)
 > Directory Indexing in Login Portal of Login Portal of TOTOLINK-A702R-V1.0.0-B20161227.1023 allows attacker to access /icons/ directories via GET Parameter.
 - [swzhouu/CVE-2020-27368](https://github.com/swzhouu/CVE-2020-27368)	<img alt="forks" src="https://img.shields.io/github/forks/swzhouu/CVE-2020-27368">	<img alt="stars" src="https://img.shields.io/github/stars/swzhouu/CVE-2020-27368">
+- [swzhouu/CVE-2020-27368](https://github.com/swzhouu/CVE-2020-27368)	<img alt="forks" src="https://img.shields.io/github/forks/swzhouu/CVE-2020-27368">	<img alt="stars" src="https://img.shields.io/github/stars/swzhouu/CVE-2020-27368">
 
 ---
 ## CVE-2020-27350 (2020-12-10T04:15:00)
@@ -2032,11 +2033,13 @@
 ## CVE-2020-26733 (2021-01-14T16:15:00)
 > Cross Site Scripting (XSS) in Configuration page in SKYWORTH GN542VF Hardware Version 2.0 and Software Version 2.0.0.16 allows authenticated attacker to inject their own script into the page via DDNS Configuration Section.
 - [swzhouu/CVE-2020-26733-2](https://github.com/swzhouu/CVE-2020-26733-2)	<img alt="forks" src="https://img.shields.io/github/forks/swzhouu/CVE-2020-26733-2">	<img alt="stars" src="https://img.shields.io/github/stars/swzhouu/CVE-2020-26733-2">
+- [swzhouu/CVE-2020-26733](https://github.com/swzhouu/CVE-2020-26733)	<img alt="forks" src="https://img.shields.io/github/forks/swzhouu/CVE-2020-26733">	<img alt="stars" src="https://img.shields.io/github/stars/swzhouu/CVE-2020-26733">
 
 ---
 ## CVE-2020-26732 (2021-01-14T16:15:00)
 > Skyworth GN542VF Boa version 0.94.13 does not set the Secure flag for the session cookie in an HTTPS session, which makes it easier for remote attackers to capture this cookie by intercepting its transmission within an HTTP session.
 - [swzhouu/CVE-2020-26732-2](https://github.com/swzhouu/CVE-2020-26732-2)	<img alt="forks" src="https://img.shields.io/github/forks/swzhouu/CVE-2020-26732-2">	<img alt="stars" src="https://img.shields.io/github/stars/swzhouu/CVE-2020-26732-2">
+- [swzhouu/CVE-2020-26732](https://github.com/swzhouu/CVE-2020-26732)	<img alt="forks" src="https://img.shields.io/github/forks/swzhouu/CVE-2020-26732">	<img alt="stars" src="https://img.shields.io/github/stars/swzhouu/CVE-2020-26732">
 
 ---
 ## CVE-2020-2656 (2020-01-15T17:15:00)
