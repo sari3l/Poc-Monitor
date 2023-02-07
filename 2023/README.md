@@ -31,8 +31,8 @@
 - [r3nt0n/CVE-2023-23488-PoC](https://github.com/r3nt0n/CVE-2023-23488-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/r3nt0n/CVE-2023-23488-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/r3nt0n/CVE-2023-23488-PoC">
 
 ---
-## CVE-2023-23333 ()
-> 
+## CVE-2023-23333 (2023-02-06T22:15:00)
+> There is a command injection vulnerability in SolarView Compact through 6.00, attackers can execute commands by bypassing internal restrictions through downloader.php.
 - [Timorlover/CVE-2023-23333](https://github.com/Timorlover/CVE-2023-23333)	<img alt="forks" src="https://img.shields.io/github/forks/Timorlover/CVE-2023-23333">	<img alt="stars" src="https://img.shields.io/github/stars/Timorlover/CVE-2023-23333">
 
 ---
