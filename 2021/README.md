@@ -6051,6 +6051,9 @@
 - [maskerTUI/CVE-2021-26084](https://github.com/maskerTUI/CVE-2021-26084)	<img alt="forks" src="https://img.shields.io/github/forks/maskerTUI/CVE-2021-26084">	<img alt="stars" src="https://img.shields.io/github/stars/maskerTUI/CVE-2021-26084">
 - [smallpiggy/cve-2021-26084-confluence](https://github.com/smallpiggy/cve-2021-26084-confluence)	<img alt="forks" src="https://img.shields.io/github/forks/smallpiggy/cve-2021-26084-confluence">	<img alt="stars" src="https://img.shields.io/github/stars/smallpiggy/cve-2021-26084-confluence">
 - [crowsec-edtech/CVE-2021-26084](https://github.com/crowsec-edtech/CVE-2021-26084)	<img alt="forks" src="https://img.shields.io/github/forks/crowsec-edtech/CVE-2021-26084">	<img alt="stars" src="https://img.shields.io/github/stars/crowsec-edtech/CVE-2021-26084">
+- [peiqiF4ck/AttackWebFrameworkTools-5.1-main](https://github.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/AttackWebFrameworkTools-5.1-main">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/AttackWebFrameworkTools-5.1-main">
+- [34zY/APT-Backpack](https://github.com/34zY/APT-Backpack)	<img alt="forks" src="https://img.shields.io/github/forks/34zY/APT-Backpack">	<img alt="stars" src="https://img.shields.io/github/stars/34zY/APT-Backpack">
+- [Reclu3a/CVE-2021-26084-Confluence-OGNL](https://github.com/Reclu3a/CVE-2021-26084-Confluence-OGNL)	<img alt="forks" src="https://img.shields.io/github/forks/Reclu3a/CVE-2021-26084-Confluence-OGNL">	<img alt="stars" src="https://img.shields.io/github/stars/Reclu3a/CVE-2021-26084-Confluence-OGNL">
 
 ---
 ## CVE-2021-25956 (2021-08-17T15:15:00)
