@@ -143,6 +143,14 @@
 - [Live-Hack-CVE/CVE-2015-3884](https://github.com/Live-Hack-CVE/CVE-2015-3884)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-3884">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-3884">
 
 ---
+## CVE-2015-3864 (2015-10-01T00:59:00)
+> Integer underflow in the MPEG4Extractor::parseChunk function in MPEG4Extractor.cpp in libstagefright in mediaserver in Android before 5.1.1 LMY48M allows remote attackers to execute arbitrary code via crafted MPEG-4 data, aka internal bug 23034759.  NOTE: this vulnerability exists because of an incomplete fix for CVE-2015-3824.
+- [Bhathiya404/Exploiting-Stagefright-Vulnerability-CVE-2015-3864](https://github.com/Bhathiya404/Exploiting-Stagefright-Vulnerability-CVE-2015-3864)	<img alt="forks" src="https://img.shields.io/github/forks/Bhathiya404/Exploiting-Stagefright-Vulnerability-CVE-2015-3864">	<img alt="stars" src="https://img.shields.io/github/stars/Bhathiya404/Exploiting-Stagefright-Vulnerability-CVE-2015-3864">
+- [HenryVHuang/CVE-2015-3864](https://github.com/HenryVHuang/CVE-2015-3864)	<img alt="forks" src="https://img.shields.io/github/forks/HenryVHuang/CVE-2015-3864">	<img alt="stars" src="https://img.shields.io/github/stars/HenryVHuang/CVE-2015-3864">
+- [eudemonics/scaredycat](https://github.com/eudemonics/scaredycat)	<img alt="forks" src="https://img.shields.io/github/forks/eudemonics/scaredycat">	<img alt="stars" src="https://img.shields.io/github/stars/eudemonics/scaredycat">
+- [pwnaccelerator/stagefright-cve-2015-3864](https://github.com/pwnaccelerator/stagefright-cve-2015-3864)	<img alt="forks" src="https://img.shields.io/github/forks/pwnaccelerator/stagefright-cve-2015-3864">	<img alt="stars" src="https://img.shields.io/github/stars/pwnaccelerator/stagefright-cve-2015-3864">
+
+---
 ## CVE-2015-3416 (2015-04-24T17:59:00)
 > The sqlite3VXPrintf function in printf.c in SQLite before 3.8.9 does not properly handle precision and width values during floating-point conversions, which allows context-dependent attackers to cause a denial of service (integer overflow and stack-based buffer overflow) or possibly have unspecified other impact via large integers in a crafted printf function call in a SELECT statement.
 - [Live-Hack-CVE/CVE-2015-3416](https://github.com/Live-Hack-CVE/CVE-2015-3416)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-3416">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-3416">
