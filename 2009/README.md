@@ -56,6 +56,11 @@
 - [Live-Hack-CVE/CVE-2009-10001](https://github.com/Live-Hack-CVE/CVE-2009-10001)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2009-10001">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2009-10001">
 
 ---
+## CVE-2009-0824 (2009-03-14T18:30:00)
+> Elaborate Bytes ElbyCDIO.sys 6.0.2.0 and earlier, as distributed in SlySoft AnyDVD before 6.5.2.6, Virtual CloneDrive 5.4.2.3 and earlier, CloneDVD 2.9.2.0 and earlier, and CloneCD 5.3.1.3 and earlier, uses the METHOD_NEITHER communication method for IOCTLs and does not properly validate a buffer associated with the Irp object, which allows local users to cause a denial of service (system crash) via a crafted IOCTL call.
+- [Exploitables/CVE-2009-0824](https://github.com/Exploitables/CVE-2009-0824)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2009-0824">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2009-0824">
+
+---
 ## CVE-2009-0586 (2009-03-14T18:30:00)
 > Integer overflow in the gst_vorbis_tag_add_coverart function (gst-libs/gst/tag/gstvorbistag.c) in vorbistag in gst-plugins-base (aka gstreamer-plugins-base) before 0.10.23 in GStreamer allows context-dependent attackers to execute arbitrary code via a crafted COVERART tag that is converted from a base64 representation, which triggers a heap-based buffer overflow.
 - [Live-Hack-CVE/CVE-2009-0586](https://github.com/Live-Hack-CVE/CVE-2009-0586)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2009-0586">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2009-0586">
