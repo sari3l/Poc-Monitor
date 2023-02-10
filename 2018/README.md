@@ -645,6 +645,12 @@
 - [Live-Hack-CVE/CVE-2018-19535](https://github.com/Live-Hack-CVE/CVE-2018-19535)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-19535">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-19535">
 
 ---
+## CVE-2018-19518 (2018-11-25T10:29:00)
+> University of Washington IMAP Toolkit 2007f on UNIX, as used in imap_open() in PHP and other products, launches an rsh command (by means of the imap_rimap function in c-client/imap4r1.c and the tcp_aopen function in osdep/unix/tcp_unix.c) without preventing argument injection, which might allow remote attackers to execute arbitrary OS commands if the IMAP server name is untrusted input (e.g., entered by a user of a web application) and if rsh has been replaced by a program with different argument semantics. For example, if rsh is a link to ssh (as seen on Debian and Ubuntu systems), then the attack can use an IMAP server name containing a "-oProxyCommand" argument.
+- [houquanen/POC_CVE-2018-19518](https://github.com/houquanen/POC_CVE-2018-19518)	<img alt="forks" src="https://img.shields.io/github/forks/houquanen/POC_CVE-2018-19518">	<img alt="stars" src="https://img.shields.io/github/stars/houquanen/POC_CVE-2018-19518">
+- [ensimag-security/CVE-2018-19518](https://github.com/ensimag-security/CVE-2018-19518)	<img alt="forks" src="https://img.shields.io/github/forks/ensimag-security/CVE-2018-19518">	<img alt="stars" src="https://img.shields.io/github/stars/ensimag-security/CVE-2018-19518">
+
+---
 ## CVE-2018-19497 (2018-11-29T23:29:00)
 > In The Sleuth Kit (TSK) through 4.6.4, hfs_cat_traverse in tsk/fs/hfs.c does not properly determine when a key length is too large, which allows attackers to cause a denial of service (SEGV on unknown address with READ memory access in a tsk_getu16 call in hfs_dir_open_meta_cb in tsk/fs/hfs_dent.c).
 - [Live-Hack-CVE/CVE-2018-19497](https://github.com/Live-Hack-CVE/CVE-2018-19497)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-19497">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-19497">
