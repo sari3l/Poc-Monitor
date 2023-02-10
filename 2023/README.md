@@ -120,6 +120,11 @@
 - [PyterSmithDarkGhost/CVE-2023-21608-EXPLOIT](https://github.com/PyterSmithDarkGhost/CVE-2023-21608-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/PyterSmithDarkGhost/CVE-2023-21608-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/PyterSmithDarkGhost/CVE-2023-21608-EXPLOIT">
 
 ---
+## CVE-2023-0748 (2023-02-08T15:15:00)
+> Open Redirect in GitHub repository btcpayserver/btcpayserver prior to 1.7.6.
+- [gonzxph/CVE-2023-0748](https://github.com/gonzxph/CVE-2023-0748)	<img alt="forks" src="https://img.shields.io/github/forks/gonzxph/CVE-2023-0748">	<img alt="stars" src="https://img.shields.io/github/stars/gonzxph/CVE-2023-0748">
+
+---
 ## CVE-2023-0179 ()
 > 
 - [TurtleARM/CVE-2023-0179-PoC](https://github.com/TurtleARM/CVE-2023-0179-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TurtleARM/CVE-2023-0179-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TurtleARM/CVE-2023-0179-PoC">
