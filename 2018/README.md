@@ -949,6 +949,12 @@
 - [Live-Hack-CVE/CVE-2018-12116](https://github.com/Live-Hack-CVE/CVE-2018-12116)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-12116">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-12116">
 
 ---
+## CVE-2018-1207 (2018-03-23T14:29:00)
+> Dell EMC iDRAC7/iDRAC8, versions prior to 2.52.52.52, contain CGI injection vulnerability which could be used to execute remote code. A remote unauthenticated attacker may potentially be able to use CGI variables to execute remote code.
+- [un4gi/CVE-2018-1207](https://github.com/un4gi/CVE-2018-1207)	<img alt="forks" src="https://img.shields.io/github/forks/un4gi/CVE-2018-1207">	<img alt="stars" src="https://img.shields.io/github/stars/un4gi/CVE-2018-1207">
+- [mgargiullo/cve-2018-1207](https://github.com/mgargiullo/cve-2018-1207)	<img alt="forks" src="https://img.shields.io/github/forks/mgargiullo/cve-2018-1207">	<img alt="stars" src="https://img.shields.io/github/stars/mgargiullo/cve-2018-1207">
+
+---
 ## CVE-2018-11496 (2018-05-26T20:29:00)
 > In Long Range Zip (aka lrzip) 0.631, there is a use-after-free in read_stream in stream.c, because decompress_file in lrzip.c lacks certain size validation.
 - [Live-Hack-CVE/CVE-2018-11496](https://github.com/Live-Hack-CVE/CVE-2018-11496)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-11496">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-11496">
