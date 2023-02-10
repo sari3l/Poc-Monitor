@@ -30,6 +30,7 @@
 - [julesbozouklian/PoC_CVE-2023-24055](https://github.com/julesbozouklian/PoC_CVE-2023-24055)	<img alt="forks" src="https://img.shields.io/github/forks/julesbozouklian/PoC_CVE-2023-24055">	<img alt="stars" src="https://img.shields.io/github/stars/julesbozouklian/PoC_CVE-2023-24055">
 - [ATTACKnDEFEND/CVE-2023-24055](https://github.com/ATTACKnDEFEND/CVE-2023-24055)	<img alt="forks" src="https://img.shields.io/github/forks/ATTACKnDEFEND/CVE-2023-24055">	<img alt="stars" src="https://img.shields.io/github/stars/ATTACKnDEFEND/CVE-2023-24055">
 - [digital-dev/KeePass-TriggerLess](https://github.com/digital-dev/KeePass-TriggerLess)	<img alt="forks" src="https://img.shields.io/github/forks/digital-dev/KeePass-TriggerLess">	<img alt="stars" src="https://img.shields.io/github/stars/digital-dev/KeePass-TriggerLess">
+- [PyterSmithDarkGhost/CVE-2023-24055-PoC-KeePass-2.5x-](https://github.com/PyterSmithDarkGhost/CVE-2023-24055-PoC-KeePass-2.5x-)	<img alt="forks" src="https://img.shields.io/github/forks/PyterSmithDarkGhost/CVE-2023-24055-PoC-KeePass-2.5x-">	<img alt="stars" src="https://img.shields.io/github/stars/PyterSmithDarkGhost/CVE-2023-24055-PoC-KeePass-2.5x-">
 
 ---
 ## CVE-2023-23924 (2023-02-01T00:15:00)
