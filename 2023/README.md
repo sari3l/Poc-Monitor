@@ -48,18 +48,18 @@
 - [Timorlover/CVE-2023-23333](https://github.com/Timorlover/CVE-2023-23333)	<img alt="forks" src="https://img.shields.io/github/forks/Timorlover/CVE-2023-23333">	<img alt="stars" src="https://img.shields.io/github/stars/Timorlover/CVE-2023-23333">
 
 ---
-## CVE-2023-23163 ()
-> 
+## CVE-2023-23163 (2023-02-10T20:15:00)
+> Art Gallery Management System Project v1.0 was discovered to contain a SQL injection vulnerability via the editid parameter.
 - [rahulpatwari/CVE-2023-23163](https://github.com/rahulpatwari/CVE-2023-23163)	<img alt="forks" src="https://img.shields.io/github/forks/rahulpatwari/CVE-2023-23163">	<img alt="stars" src="https://img.shields.io/github/stars/rahulpatwari/CVE-2023-23163">
 
 ---
-## CVE-2023-23162 ()
-> 
+## CVE-2023-23162 (2023-02-10T20:15:00)
+> Art Gallery Management System Project v1.0 was discovered to contain a SQL injection vulnerability via the cid parameter at product.php.
 - [rahulpatwari/CVE-2023-23162](https://github.com/rahulpatwari/CVE-2023-23162)	<img alt="forks" src="https://img.shields.io/github/forks/rahulpatwari/CVE-2023-23162">	<img alt="stars" src="https://img.shields.io/github/stars/rahulpatwari/CVE-2023-23162">
 
 ---
-## CVE-2023-23161 ()
-> 
+## CVE-2023-23161 (2023-02-10T20:15:00)
+> A reflected cross-site scripting (XSS) vulnerability in Art Gallery Management System Project v1.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the artname parameter under ART TYPE option in the navigation bar.
 - [rahulpatwari/CVE-2023-23161](https://github.com/rahulpatwari/CVE-2023-23161)	<img alt="forks" src="https://img.shields.io/github/forks/rahulpatwari/CVE-2023-23161">	<img alt="stars" src="https://img.shields.io/github/stars/rahulpatwari/CVE-2023-23161">
 
 ---
