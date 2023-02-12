@@ -216,6 +216,7 @@
 - [dosomder/iovyroot](https://github.com/dosomder/iovyroot)	<img alt="forks" src="https://img.shields.io/github/forks/dosomder/iovyroot">	<img alt="stars" src="https://img.shields.io/github/stars/dosomder/iovyroot">
 - [FloatingGuy/cve-2015-1805](https://github.com/FloatingGuy/cve-2015-1805)	<img alt="forks" src="https://img.shields.io/github/forks/FloatingGuy/cve-2015-1805">	<img alt="stars" src="https://img.shields.io/github/stars/FloatingGuy/cve-2015-1805">
 - [panyu6325/CVE-2015-1805](https://github.com/panyu6325/CVE-2015-1805)	<img alt="forks" src="https://img.shields.io/github/forks/panyu6325/CVE-2015-1805">	<img alt="stars" src="https://img.shields.io/github/stars/panyu6325/CVE-2015-1805">
+- [ireshchaminda1/Android-Privilege-Escalation-Remote-Access-Vulnerability-CVE-2015-1805](https://github.com/ireshchaminda1/Android-Privilege-Escalation-Remote-Access-Vulnerability-CVE-2015-1805)	<img alt="forks" src="https://img.shields.io/github/forks/ireshchaminda1/Android-Privilege-Escalation-Remote-Access-Vulnerability-CVE-2015-1805">	<img alt="stars" src="https://img.shields.io/github/stars/ireshchaminda1/Android-Privilege-Escalation-Remote-Access-Vulnerability-CVE-2015-1805">
 
 ---
 ## CVE-2015-1794 (2015-12-06T20:59:00)
