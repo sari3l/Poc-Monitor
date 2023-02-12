@@ -209,6 +209,15 @@
 - [Live-Hack-CVE/CVE-2015-20107](https://github.com/Live-Hack-CVE/CVE-2015-20107)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-20107">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-20107">
 
 ---
+## CVE-2015-1805 (2015-08-08T10:59:00)
+> The (1) pipe_read and (2) pipe_write implementations in fs/pipe.c in the Linux kernel before 3.16 do not properly consider the side effects of failed __copy_to_user_inatomic and __copy_from_user_inatomic calls, which allows local users to cause a denial of service (system crash) or possibly gain privileges via a crafted application, aka an "I/O vector array overrun."
+- [ireshchaminda1/Android-Privilege-Escalation-Remote-Access-Vulnerability-CVE-2015-1805-May-2022-](https://github.com/ireshchaminda1/Android-Privilege-Escalation-Remote-Access-Vulnerability-CVE-2015-1805-May-2022-)	<img alt="forks" src="https://img.shields.io/github/forks/ireshchaminda1/Android-Privilege-Escalation-Remote-Access-Vulnerability-CVE-2015-1805-May-2022-">	<img alt="stars" src="https://img.shields.io/github/stars/ireshchaminda1/Android-Privilege-Escalation-Remote-Access-Vulnerability-CVE-2015-1805-May-2022-">
+- [mobilelinux/iovy_root_research](https://github.com/mobilelinux/iovy_root_research)	<img alt="forks" src="https://img.shields.io/github/forks/mobilelinux/iovy_root_research">	<img alt="stars" src="https://img.shields.io/github/stars/mobilelinux/iovy_root_research">
+- [dosomder/iovyroot](https://github.com/dosomder/iovyroot)	<img alt="forks" src="https://img.shields.io/github/forks/dosomder/iovyroot">	<img alt="stars" src="https://img.shields.io/github/stars/dosomder/iovyroot">
+- [FloatingGuy/cve-2015-1805](https://github.com/FloatingGuy/cve-2015-1805)	<img alt="forks" src="https://img.shields.io/github/forks/FloatingGuy/cve-2015-1805">	<img alt="stars" src="https://img.shields.io/github/stars/FloatingGuy/cve-2015-1805">
+- [panyu6325/CVE-2015-1805](https://github.com/panyu6325/CVE-2015-1805)	<img alt="forks" src="https://img.shields.io/github/forks/panyu6325/CVE-2015-1805">	<img alt="stars" src="https://img.shields.io/github/stars/panyu6325/CVE-2015-1805">
+
+---
 ## CVE-2015-1794 (2015-12-06T20:59:00)
 > The ssl3_get_key_exchange function in ssl/s3_clnt.c in OpenSSL 1.0.2 before 1.0.2e allows remote servers to cause a denial of service (segmentation fault) via a zero p value in an anonymous Diffie-Hellman (DH) ServerKeyExchange message.
 - [Live-Hack-CVE/CVE-2015-1794](https://github.com/Live-Hack-CVE/CVE-2015-1794)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-1794">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-1794">
