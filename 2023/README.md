@@ -118,6 +118,7 @@
 > Adobe Acrobat Reader versions 22.003.20282 (and earlier), 22.003.20281 (and earlier) and 20.005.30418 (and earlier) are affected by a Use After Free vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
 - [hacksysteam/CVE-2023-21608](https://github.com/hacksysteam/CVE-2023-21608)	<img alt="forks" src="https://img.shields.io/github/forks/hacksysteam/CVE-2023-21608">	<img alt="stars" src="https://img.shields.io/github/stars/hacksysteam/CVE-2023-21608">
 - [PyterSmithDarkGhost/CVE-2023-21608-EXPLOIT](https://github.com/PyterSmithDarkGhost/CVE-2023-21608-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/PyterSmithDarkGhost/CVE-2023-21608-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/PyterSmithDarkGhost/CVE-2023-21608-EXPLOIT">
+- [Malwareman007/CVE-2023-21608](https://github.com/Malwareman007/CVE-2023-21608)	<img alt="forks" src="https://img.shields.io/github/forks/Malwareman007/CVE-2023-21608">	<img alt="stars" src="https://img.shields.io/github/stars/Malwareman007/CVE-2023-21608">
 
 ---
 ## CVE-2023-0748 (2023-02-08T15:15:00)
