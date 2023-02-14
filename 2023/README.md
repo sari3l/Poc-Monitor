@@ -14,6 +14,7 @@
 ## CVE-2023-25136 (2023-02-03T06:15:00)
 > OpenSSH server (sshd) 9.1 introduced a double-free vulnerability during options.kex_algorithms handling. This is fixed in OpenSSH 9.2. The double free can be triggered by an unauthenticated attacker in the default configuration; however, the vulnerability discoverer reports that "exploiting this vulnerability will not be easy."
 - [jfrog/jfrog-CVE-2023-25136-OpenSSH_Double-Free](https://github.com/jfrog/jfrog-CVE-2023-25136-OpenSSH_Double-Free)	<img alt="forks" src="https://img.shields.io/github/forks/jfrog/jfrog-CVE-2023-25136-OpenSSH_Double-Free">	<img alt="stars" src="https://img.shields.io/github/stars/jfrog/jfrog-CVE-2023-25136-OpenSSH_Double-Free">
+- [ticofookfook/CVE-2023-25136](https://github.com/ticofookfook/CVE-2023-25136)	<img alt="forks" src="https://img.shields.io/github/forks/ticofookfook/CVE-2023-25136">	<img alt="stars" src="https://img.shields.io/github/stars/ticofookfook/CVE-2023-25136">
 
 ---
 ## CVE-2023-24610 (2023-02-01T14:15:00)
