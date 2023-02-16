@@ -41,6 +41,11 @@
 - [motikan2010/CVE-2023-23924](https://github.com/motikan2010/CVE-2023-23924)	<img alt="forks" src="https://img.shields.io/github/forks/motikan2010/CVE-2023-23924">	<img alt="stars" src="https://img.shields.io/github/stars/motikan2010/CVE-2023-23924">
 
 ---
+## CVE-2023-23752 (2023-02-16T17:15:00)
+> An issue was discovered in Joomla! 4.0.0 through 4.2.7. An improper access check allows unauthorized access to webservice endpoints.
+- [DanielRuf/CVE-2023-23752](https://github.com/DanielRuf/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/DanielRuf/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/DanielRuf/CVE-2023-23752">
+
+---
 ## CVE-2023-23488 (2023-01-20T18:15:00)
 > The Paid Memberships Pro WordPress Plugin, version < 2.9.8, is affected by an unauthenticated SQL injection vulnerability in the 'code' parameter of the '/pmpro/v1/order' REST route.
 - [r3nt0n/CVE-2023-23488-PoC](https://github.com/r3nt0n/CVE-2023-23488-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/r3nt0n/CVE-2023-23488-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/r3nt0n/CVE-2023-23488-PoC">
