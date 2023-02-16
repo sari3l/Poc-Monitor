@@ -271,6 +271,12 @@
 - [Live-Hack-CVE/CVE-2017-5242](https://github.com/Live-Hack-CVE/CVE-2017-5242)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-5242">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-5242">
 
 ---
+## CVE-2017-5124 (2018-02-07T23:29:00)
+> Incorrect application of sandboxing in Blink in Google Chrome prior to 62.0.3202.62 allowed a remote attacker to inject arbitrary scripts or HTML (UXSS) via a crafted MHTML page.
+- [grandDancer/CVE-2017-5124-RCE-0-Day](https://github.com/grandDancer/CVE-2017-5124-RCE-0-Day)	<img alt="forks" src="https://img.shields.io/github/forks/grandDancer/CVE-2017-5124-RCE-0-Day">	<img alt="stars" src="https://img.shields.io/github/stars/grandDancer/CVE-2017-5124-RCE-0-Day">
+- [Bo0oM/CVE-2017-5124](https://github.com/Bo0oM/CVE-2017-5124)	<img alt="forks" src="https://img.shields.io/github/forks/Bo0oM/CVE-2017-5124">	<img alt="stars" src="https://img.shields.io/github/stars/Bo0oM/CVE-2017-5124">
+
+---
 ## CVE-2017-3738 (2017-12-07T16:29:00)
 > There is an overflow bug in the AVX2 Montgomery multiplication procedure used in exponentiation with 1024-bit moduli. No EC algorithms are affected. Analysis suggests that attacks against RSA and DSA as a result of this defect would be very difficult to perform and are not believed likely. Attacks against DH1024 are considered just feasible, because most of the work necessary to deduce information about a private key may be performed offline. The amount of resources required for such an attack would be significant. However, for an attack on TLS to be meaningful, the server would have to share the DH1024 private key among multiple clients, which is no longer an option since CVE-2016-0701. This only affects processors that support the AVX2 but not ADX extensions like Intel Haswell (4th generation). Note: The impact from this issue is similar to CVE-2017-3736, CVE-2017-3732 and CVE-2015-3193. OpenSSL version 1.0.2-1.0.2m and 1.1.0-1.1.0g are affected. Fixed in OpenSSL 1.0.2n. Due to the low severity of this issue we are not issuing a new release of OpenSSL 1.1.0 at this time. The fix will be included in OpenSSL 1.1.0h when it becomes available. The fix is also available in commit e502cc86d in the OpenSSL git repository.
 - [Live-Hack-CVE/CVE-2017-3738](https://github.com/Live-Hack-CVE/CVE-2017-3738)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-3738">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-3738">
