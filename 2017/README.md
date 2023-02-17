@@ -218,6 +218,7 @@
 - [caicai1355/CVE-2017-7269-exploit](https://github.com/caicai1355/CVE-2017-7269-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/caicai1355/CVE-2017-7269-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/caicai1355/CVE-2017-7269-exploit">
 - [eliuha/webdav_exploit](https://github.com/eliuha/webdav_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/eliuha/webdav_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/eliuha/webdav_exploit">
 - [denchief1/CVE-2017-7269](https://github.com/denchief1/CVE-2017-7269)	<img alt="forks" src="https://img.shields.io/github/forks/denchief1/CVE-2017-7269">	<img alt="stars" src="https://img.shields.io/github/stars/denchief1/CVE-2017-7269">
+- [Therootkitsec/-CVE-2017-7269](https://github.com/Therootkitsec/-CVE-2017-7269)	<img alt="forks" src="https://img.shields.io/github/forks/Therootkitsec/-CVE-2017-7269">	<img alt="stars" src="https://img.shields.io/github/stars/Therootkitsec/-CVE-2017-7269">
 
 ---
 ## CVE-2017-5638 (2017-03-11T02:59:00)
