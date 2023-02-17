@@ -683,6 +683,11 @@
 - [iveresk/cve-2018-19052](https://github.com/iveresk/cve-2018-19052)	<img alt="forks" src="https://img.shields.io/github/forks/iveresk/cve-2018-19052">	<img alt="stars" src="https://img.shields.io/github/stars/iveresk/cve-2018-19052">
 
 ---
+## CVE-2018-18893 (2019-01-03T01:29:00)
+> Jinjava before 2.4.6 does not block the getClass method, related to com/hubspot/jinjava/el/ext/JinjavaBeanELResolver.java.
+- [LycsHub/CVE-2018-18893](https://github.com/LycsHub/CVE-2018-18893)	<img alt="forks" src="https://img.shields.io/github/forks/LycsHub/CVE-2018-18893">	<img alt="stars" src="https://img.shields.io/github/stars/LycsHub/CVE-2018-18893">
+
+---
 ## CVE-2018-18839 (2019-06-18T16:15:00)
 > ** DISPUTED ** An issue was discovered in Netdata 1.10.0. Full Path Disclosure (FPD) exists via api/v1/alarms. NOTE: the vendor says "is intentional."
 - [ahaShiyu/CVE-2018-18839](https://github.com/ahaShiyu/CVE-2018-18839)	<img alt="forks" src="https://img.shields.io/github/forks/ahaShiyu/CVE-2018-18839">	<img alt="stars" src="https://img.shields.io/github/stars/ahaShiyu/CVE-2018-18839">

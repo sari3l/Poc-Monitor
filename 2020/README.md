@@ -819,6 +819,11 @@
 - [Live-Hack-CVE/CVE-2020-5247](https://github.com/Live-Hack-CVE/CVE-2020-5247)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5247">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5247">
 
 ---
+## CVE-2020-5245 (2020-02-24T18:15:00)
+> Dropwizard-Validation before 1.3.19, and 2.0.2 may allow arbitrary code execution on the host system, with the privileges of the Dropwizard service account, by injecting arbitrary Java Expression Language expressions when using the self-validating feature. The issue has been fixed in dropwizard-validation 1.3.19 and 2.0.2.
+- [LycsHub/CVE-2020-5245](https://github.com/LycsHub/CVE-2020-5245)	<img alt="forks" src="https://img.shields.io/github/forks/LycsHub/CVE-2020-5245">	<img alt="stars" src="https://img.shields.io/github/stars/LycsHub/CVE-2020-5245">
+
+---
 ## CVE-2020-5232 (2020-01-31T00:15:00)
 > A user who owns an ENS domain can set a trapdoor, allowing them to transfer ownership to another user, and later regain ownership without the new owners consent or awareness. A new ENS deployment is being rolled out that fixes this vulnerability in the ENS registry.
 - [Live-Hack-CVE/CVE-2020-5232](https://github.com/Live-Hack-CVE/CVE-2020-5232)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5232">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5232">
