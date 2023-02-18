@@ -404,10 +404,11 @@
 - [Shadowshusky/CVE-2018-2628all](https://github.com/Shadowshusky/CVE-2018-2628all)	<img alt="forks" src="https://img.shields.io/github/forks/Shadowshusky/CVE-2018-2628all">	<img alt="stars" src="https://img.shields.io/github/stars/Shadowshusky/CVE-2018-2628all">
 - [9uest/CVE-2018-2628](https://github.com/9uest/CVE-2018-2628)	<img alt="forks" src="https://img.shields.io/github/forks/9uest/CVE-2018-2628">	<img alt="stars" src="https://img.shields.io/github/stars/9uest/CVE-2018-2628">
 - [aedoo/CVE-2018-2628-MultiThreading](https://github.com/aedoo/CVE-2018-2628-MultiThreading)	<img alt="forks" src="https://img.shields.io/github/forks/aedoo/CVE-2018-2628-MultiThreading">	<img alt="stars" src="https://img.shields.io/github/stars/aedoo/CVE-2018-2628-MultiThreading">
-- [hawk-520/CVE-2018-2628](https://github.com/hawk-520/CVE-2018-2628)	<img alt="forks" src="https://img.shields.io/github/forks/hawk-520/CVE-2018-2628">	<img alt="stars" src="https://img.shields.io/github/stars/hawk-520/CVE-2018-2628">
+- [victor0013/CVE-2018-2628](https://github.com/victor0013/CVE-2018-2628)	<img alt="forks" src="https://img.shields.io/github/forks/victor0013/CVE-2018-2628">	<img alt="stars" src="https://img.shields.io/github/stars/victor0013/CVE-2018-2628">
 - [jiansiting/weblogic-cve-2018-2628](https://github.com/jiansiting/weblogic-cve-2018-2628)	<img alt="forks" src="https://img.shields.io/github/forks/jiansiting/weblogic-cve-2018-2628">	<img alt="stars" src="https://img.shields.io/github/stars/jiansiting/weblogic-cve-2018-2628">
 - [skydarker/CVE-2018-2628](https://github.com/skydarker/CVE-2018-2628)	<img alt="forks" src="https://img.shields.io/github/forks/skydarker/CVE-2018-2628">	<img alt="stars" src="https://img.shields.io/github/stars/skydarker/CVE-2018-2628">
 - [forlin/CVE-2018-2628](https://github.com/forlin/CVE-2018-2628)	<img alt="forks" src="https://img.shields.io/github/forks/forlin/CVE-2018-2628">	<img alt="stars" src="https://img.shields.io/github/stars/forlin/CVE-2018-2628">
+- [Serendipity-Lucky/CVE-2018-2628](https://github.com/Serendipity-Lucky/CVE-2018-2628)	<img alt="forks" src="https://img.shields.io/github/forks/Serendipity-Lucky/CVE-2018-2628">	<img alt="stars" src="https://img.shields.io/github/stars/Serendipity-Lucky/CVE-2018-2628">
 
 ---
 ## CVE-2018-25076 (2023-01-16T12:15:00)
