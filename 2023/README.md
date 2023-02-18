@@ -44,6 +44,7 @@
 ## CVE-2023-23752 (2023-02-16T17:15:00)
 > An issue was discovered in Joomla! 4.0.0 through 4.2.7. An improper access check allows unauthorized access to webservice endpoints.
 - [DanielRuf/CVE-2023-23752](https://github.com/DanielRuf/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/DanielRuf/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/DanielRuf/CVE-2023-23752">
+- [YusinoMy/CVE-2023-23752](https://github.com/YusinoMy/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/YusinoMy/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/YusinoMy/CVE-2023-23752">
 
 ---
 ## CVE-2023-23488 (2023-01-20T18:15:00)
