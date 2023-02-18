@@ -187,6 +187,7 @@
 - [mux0x/CVE-2018-6574](https://github.com/mux0x/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/mux0x/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/mux0x/CVE-2018-6574">
 - [cristiandrami/pentesterlab_CVE-2018-6574](https://github.com/cristiandrami/pentesterlab_CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/cristiandrami/pentesterlab_CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/cristiandrami/pentesterlab_CVE-2018-6574">
 - [antunesmpedro/CVE-2018-6574](https://github.com/antunesmpedro/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/antunesmpedro/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/antunesmpedro/CVE-2018-6574">
+- [Yealid/CVE-2018-6574](https://github.com/Yealid/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/Yealid/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/Yealid/CVE-2018-6574">
 
 ---
 ## CVE-2018-6389 (2018-02-06T17:29:00)
