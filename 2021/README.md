@@ -1101,6 +1101,11 @@
 - [Live-Hack-CVE/CVE-2021-43019](https://github.com/Live-Hack-CVE/CVE-2021-43019)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43019">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43019">
 
 ---
+## CVE-2021-43008 (2022-04-05T02:15:00)
+> Improper Access Control in Adminer versions 1.12.0 to 4.6.2 (fixed in version 4.6.3) allows an attacker to achieve Arbitrary File Read on the remote server by requesting the Adminer to connect to a remote MySQL database.
+- [p0dalirius/CVE-2021-43008-AdminerRead](https://github.com/p0dalirius/CVE-2021-43008-AdminerRead)	<img alt="forks" src="https://img.shields.io/github/forks/p0dalirius/CVE-2021-43008-AdminerRead">	<img alt="stars" src="https://img.shields.io/github/stars/p0dalirius/CVE-2021-43008-AdminerRead">
+
+---
 ## CVE-2021-4300 (2023-01-04T22:15:00)
 > A vulnerability has been found in ghostlander Halcyon and classified as critical. Affected by this vulnerability is the function CBlock::AddToBlockIndex of the file src/main.cpp of the component Block Verification. The manipulation leads to improper access controls. The attack can be launched remotely. Upgrading to version 1.1.1.0-hal is able to address this issue. The name of the patch is 0675b25ae9cc10b5fdc8ea3a32c642979762d45e. It is recommended to upgrade the affected component. The identifier VDB-217417 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2021-4300](https://github.com/Live-Hack-CVE/CVE-2021-4300)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4300">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4300">
