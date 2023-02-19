@@ -2490,6 +2490,8 @@
 - [Turzum/ps-lab-cve-2021-4034](https://github.com/Turzum/ps-lab-cve-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/Turzum/ps-lab-cve-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/Turzum/ps-lab-cve-2021-4034">
 - [Turzum/ps-lab-cve-2021-4034](https://github.com/Turzum/ps-lab-cve-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/Turzum/ps-lab-cve-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/Turzum/ps-lab-cve-2021-4034">
 - [dadvlingd/CVE-2021-4034](https://github.com/dadvlingd/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/dadvlingd/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/dadvlingd/CVE-2021-4034">
+- [kuckibf/Popular-CVEs](https://github.com/kuckibf/Popular-CVEs)	<img alt="forks" src="https://img.shields.io/github/forks/kuckibf/Popular-CVEs">	<img alt="stars" src="https://img.shields.io/github/stars/kuckibf/Popular-CVEs">
+- [poppylarrry/firefox-rce-poc](https://github.com/poppylarrry/firefox-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/poppylarrry/firefox-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/poppylarrry/firefox-rce-poc">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
