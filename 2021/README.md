@@ -2564,6 +2564,11 @@
 - [Live-Hack-CVE/CVE-2021-40162](https://github.com/Live-Hack-CVE/CVE-2021-40162)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40162">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40162">
 
 ---
+## CVE-2021-40154 (2021-12-01T15:15:00)
+> NXP LPC55S69 devices before A3 have a buffer over-read via a crafted wlength value in a GET Descriptor Configuration request during use of USB In-System Programming (ISP) mode. This discloses protected flash memory.
+- [Jeromeyoung/CVE-2021-40154](https://github.com/Jeromeyoung/CVE-2021-40154)	<img alt="forks" src="https://img.shields.io/github/forks/Jeromeyoung/CVE-2021-40154">	<img alt="stars" src="https://img.shields.io/github/stars/Jeromeyoung/CVE-2021-40154">
+
+---
 ## CVE-2021-40113 (2021-11-04T16:15:00)
 > Multiple vulnerabilities in the web-based management interface of the Cisco Catalyst Passive Optical Network (PON) Series Switches Optical Network Terminal (ONT) could allow an unauthenticated, remote attacker to perform the following actions: Log in with a default credential if the Telnet protocol is enabled Perform command injection Modify the configuration For more information about these vulnerabilities, see the Details section of this advisory.
 - [Live-Hack-CVE/CVE-2021-40113](https://github.com/Live-Hack-CVE/CVE-2021-40113)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40113">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40113">
