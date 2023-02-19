@@ -120,6 +120,11 @@
 - [n3m1dotsys/CVE-2023-22809-sudoedit-privesc](https://github.com/n3m1dotsys/CVE-2023-22809-sudoedit-privesc)	<img alt="forks" src="https://img.shields.io/github/forks/n3m1dotsys/CVE-2023-22809-sudoedit-privesc">	<img alt="stars" src="https://img.shields.io/github/stars/n3m1dotsys/CVE-2023-22809-sudoedit-privesc">
 
 ---
+## CVE-2023-2232323 ()
+> 
+- [Shmily-ing/CVE-2023-2232323](https://github.com/Shmily-ing/CVE-2023-2232323)	<img alt="forks" src="https://img.shields.io/github/forks/Shmily-ing/CVE-2023-2232323">	<img alt="stars" src="https://img.shields.io/github/stars/Shmily-ing/CVE-2023-2232323">
+
+---
 ## CVE-2023-2222111 ()
 > 
 - [Shmily-ing/CVE-2023-2222111](https://github.com/Shmily-ing/CVE-2023-2222111)	<img alt="forks" src="https://img.shields.io/github/forks/Shmily-ing/CVE-2023-2222111">	<img alt="stars" src="https://img.shields.io/github/stars/Shmily-ing/CVE-2023-2222111">
