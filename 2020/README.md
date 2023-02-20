@@ -513,6 +513,8 @@
 ## CVE-2020-7384 (2020-10-29T15:15:00)
 > Rapid7's Metasploit msfvenom framework handles APK files in a way that allows for a malicious user to craft and publish a file that would execute arbitrary commands on a victim's machine.
 - [0xCarsonS/CVE-2020-7384](https://github.com/0xCarsonS/CVE-2020-7384)	<img alt="forks" src="https://img.shields.io/github/forks/0xCarsonS/CVE-2020-7384">	<img alt="stars" src="https://img.shields.io/github/stars/0xCarsonS/CVE-2020-7384">
+- [cocomelonc/vulnexipy](https://github.com/cocomelonc/vulnexipy)	<img alt="forks" src="https://img.shields.io/github/forks/cocomelonc/vulnexipy">	<img alt="stars" src="https://img.shields.io/github/stars/cocomelonc/vulnexipy">
+- [nikhil1232/CVE-2020-7384](https://github.com/nikhil1232/CVE-2020-7384)	<img alt="forks" src="https://img.shields.io/github/forks/nikhil1232/CVE-2020-7384">	<img alt="stars" src="https://img.shields.io/github/stars/nikhil1232/CVE-2020-7384">
 
 ---
 ## CVE-2020-7346 (2021-03-23T16:15:00)
