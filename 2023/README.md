@@ -116,6 +116,11 @@
 - [manas3c/CVE-2023-22960](https://github.com/manas3c/CVE-2023-22960)	<img alt="forks" src="https://img.shields.io/github/forks/manas3c/CVE-2023-22960">	<img alt="stars" src="https://img.shields.io/github/stars/manas3c/CVE-2023-22960">
 
 ---
+## CVE-2023-22941 (2023-02-14T18:15:00)
+> In Splunk Enterprise versions below 8.1.13, 8.2.10, and 9.0.4, an improperly-formatted ‘INGEST_EVAL’ parameter in a [Field Transformation](https://docs.splunk.com/Documentation/Splunk/latest/Knowledge/Managefieldtransforms) crashes the Splunk daemon (splunkd).
+- [eduardosantos1989/CVE-2023-22941](https://github.com/eduardosantos1989/CVE-2023-22941)	<img alt="forks" src="https://img.shields.io/github/forks/eduardosantos1989/CVE-2023-22941">	<img alt="stars" src="https://img.shields.io/github/stars/eduardosantos1989/CVE-2023-22941">
+
+---
 ## CVE-2023-22855 (2023-02-15T21:15:00)
 > Kardex Mlog MCC 5.7.12+0-a203c2a213-master allows remote code execution. It spawns a web interface listening on port 8088. A user-controllable path is handed to a path-concatenation method (Path.Combine from .NET) without proper sanitisation. This yields the possibility of including local files, as well as remote files on SMB shares. If one provides a file with the extension .t4, it is rendered with the .NET templating engine mono/t4, which can execute code.
 - [patrickhener/CVE-2023-22855](https://github.com/patrickhener/CVE-2023-22855)	<img alt="forks" src="https://img.shields.io/github/forks/patrickhener/CVE-2023-22855">	<img alt="stars" src="https://img.shields.io/github/stars/patrickhener/CVE-2023-22855">
