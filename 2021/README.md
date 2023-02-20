@@ -5255,6 +5255,7 @@
 - [0nion1/CVE-2021-3129](https://github.com/0nion1/CVE-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/0nion1/CVE-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/0nion1/CVE-2021-3129">
 - [0xlilim/CVE-2021-3129](https://github.com/0xlilim/CVE-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/0xlilim/CVE-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/0xlilim/CVE-2021-3129">
 - [MadExploits/Laravel-debug-Checker](https://github.com/MadExploits/Laravel-debug-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/MadExploits/Laravel-debug-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/MadExploits/Laravel-debug-Checker">
+- [aurelien-vilminot/ENSIMAG_EXPLOIT_CVE2_3A](https://github.com/aurelien-vilminot/ENSIMAG_EXPLOIT_CVE2_3A)	<img alt="forks" src="https://img.shields.io/github/forks/aurelien-vilminot/ENSIMAG_EXPLOIT_CVE2_3A">	<img alt="stars" src="https://img.shields.io/github/stars/aurelien-vilminot/ENSIMAG_EXPLOIT_CVE2_3A">
 
 ---
 ## CVE-2021-3122 (2021-02-07T20:15:00)
