@@ -173,6 +173,7 @@
 - [0xf4n9x/CVE-2023-0669](https://github.com/0xf4n9x/CVE-2023-0669)	<img alt="forks" src="https://img.shields.io/github/forks/0xf4n9x/CVE-2023-0669">	<img alt="stars" src="https://img.shields.io/github/stars/0xf4n9x/CVE-2023-0669">
 - [cataiovita/CVE-2023-0669](https://github.com/cataiovita/CVE-2023-0669)	<img alt="forks" src="https://img.shields.io/github/forks/cataiovita/CVE-2023-0669">	<img alt="stars" src="https://img.shields.io/github/stars/cataiovita/CVE-2023-0669">
 - [yosef0x01/CVE-2023-0669](https://github.com/yosef0x01/CVE-2023-0669)	<img alt="forks" src="https://img.shields.io/github/forks/yosef0x01/CVE-2023-0669">	<img alt="stars" src="https://img.shields.io/github/stars/yosef0x01/CVE-2023-0669">
+- [Griffin-01/CVE-2023-0669](https://github.com/Griffin-01/CVE-2023-0669)	<img alt="forks" src="https://img.shields.io/github/forks/Griffin-01/CVE-2023-0669">	<img alt="stars" src="https://img.shields.io/github/stars/Griffin-01/CVE-2023-0669">
 
 ---
 ## CVE-2023-0297 (2023-01-14T03:15:00)
