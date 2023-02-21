@@ -145,6 +145,7 @@
 > Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core).  Supported versions that are affected are 12.2.1.3.0, 12.2.1.4.0 and  14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server.  Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all Oracle WebLogic Server accessible data. CVSS 3.1 Base Score 7.5 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N).
 - [fakenews2025/CVE-2023-21839](https://github.com/fakenews2025/CVE-2023-21839)	<img alt="forks" src="https://img.shields.io/github/forks/fakenews2025/CVE-2023-21839">	<img alt="stars" src="https://img.shields.io/github/stars/fakenews2025/CVE-2023-21839">
 - [Scarehehe/Weblogic-CVE-2023-21839](https://github.com/Scarehehe/Weblogic-CVE-2023-21839)	<img alt="forks" src="https://img.shields.io/github/forks/Scarehehe/Weblogic-CVE-2023-21839">	<img alt="stars" src="https://img.shields.io/github/stars/Scarehehe/Weblogic-CVE-2023-21839">
+- [dream0x01/weblogic-framework](https://github.com/dream0x01/weblogic-framework)	<img alt="forks" src="https://img.shields.io/github/forks/dream0x01/weblogic-framework">	<img alt="stars" src="https://img.shields.io/github/stars/dream0x01/weblogic-framework">
 
 ---
 ## CVE-2023-21753 (2023-01-10T22:15:00)
