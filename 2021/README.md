@@ -703,6 +703,10 @@
 - [Glease/Healer](https://github.com/Glease/Healer)	<img alt="forks" src="https://img.shields.io/github/forks/Glease/Healer">	<img alt="stars" src="https://img.shields.io/github/stars/Glease/Healer">
 - [julian911015/Log4j-Scanner-Exploit](https://github.com/julian911015/Log4j-Scanner-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/julian911015/Log4j-Scanner-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/julian911015/Log4j-Scanner-Exploit">
 - [fox-it/log4j-finder](https://github.com/fox-it/log4j-finder)	<img alt="forks" src="https://img.shields.io/github/forks/fox-it/log4j-finder">	<img alt="stars" src="https://img.shields.io/github/stars/fox-it/log4j-finder">
+- [Sumitpathania03/Cve-2021-44228](https://github.com/Sumitpathania03/Cve-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/Sumitpathania03/Cve-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/Sumitpathania03/Cve-2021-44228">
+- [grandDancer/Chrome-CVE-PoC](https://github.com/grandDancer/Chrome-CVE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/grandDancer/Chrome-CVE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/grandDancer/Chrome-CVE-PoC">
+- [kuckibf/Popular-CVEs](https://github.com/kuckibf/Popular-CVEs)	<img alt="forks" src="https://img.shields.io/github/forks/kuckibf/Popular-CVEs">	<img alt="stars" src="https://img.shields.io/github/stars/kuckibf/Popular-CVEs">
+- [poppylarrry/firefox-rce-poc](https://github.com/poppylarrry/firefox-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/poppylarrry/firefox-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/poppylarrry/firefox-rce-poc">
 
 ---
 ## CVE-2021-44158 (2022-01-03T10:15:00)
