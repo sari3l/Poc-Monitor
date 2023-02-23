@@ -4503,6 +4503,7 @@
 ## CVE-2020-0418 (2020-11-10T13:15:00)
 > In getPermissionInfosForGroup of Utils.java, there is a logic error. This could lead to local escalation of privilege with User execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10Android ID: A-153879813
 - [fernandodruszcz/CVE-2020-0418](https://github.com/fernandodruszcz/CVE-2020-0418)	<img alt="forks" src="https://img.shields.io/github/forks/fernandodruszcz/CVE-2020-0418">	<img alt="stars" src="https://img.shields.io/github/stars/fernandodruszcz/CVE-2020-0418">
+- [Trinadh465/packages_apps_PackageInstaller_AOSP10_r33_CVE-2020-0418](https://github.com/Trinadh465/packages_apps_PackageInstaller_AOSP10_r33_CVE-2020-0418)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/packages_apps_PackageInstaller_AOSP10_r33_CVE-2020-0418">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/packages_apps_PackageInstaller_AOSP10_r33_CVE-2020-0418">
 
 ---
 ## CVE-2020-0416 (2020-10-14T14:15:00)
