@@ -119,6 +119,11 @@
 - [l00neyhacker/CVE-2023-23126](https://github.com/l00neyhacker/CVE-2023-23126)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2023-23126">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2023-23126">
 
 ---
+## CVE-2023-22974 (2023-02-22T21:15:00)
+> A Path Traversal in setup.php in OpenEMR < 7.0.0 allows remote unauthenticated users to read arbitrary files by controlling a connection to an attacker-controlled MySQL server.
+- [gbrsh/CVE-2023-22974](https://github.com/gbrsh/CVE-2023-22974)	<img alt="forks" src="https://img.shields.io/github/forks/gbrsh/CVE-2023-22974">	<img alt="stars" src="https://img.shields.io/github/stars/gbrsh/CVE-2023-22974">
+
+---
 ## CVE-2023-22960 (2023-01-23T21:15:00)
 > Lexmark products through 2023-01-10 have Improper Control of Interaction Frequency.
 - [t3l3machus/CVE-2023-22960](https://github.com/t3l3machus/CVE-2023-22960)	<img alt="forks" src="https://img.shields.io/github/forks/t3l3machus/CVE-2023-22960">	<img alt="stars" src="https://img.shields.io/github/stars/t3l3machus/CVE-2023-22960">
