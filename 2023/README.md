@@ -188,6 +188,7 @@
 > Code Injection in GitHub repository pyload/pyload prior to 0.5.0b3.dev31.
 - [Small-ears/CVE-2023-0297](https://github.com/Small-ears/CVE-2023-0297)	<img alt="forks" src="https://img.shields.io/github/forks/Small-ears/CVE-2023-0297">	<img alt="stars" src="https://img.shields.io/github/stars/Small-ears/CVE-2023-0297">
 - [bAuh0lz/CVE-2023-0297_Pre-auth_RCE_in_pyLoad](https://github.com/bAuh0lz/CVE-2023-0297_Pre-auth_RCE_in_pyLoad)	<img alt="forks" src="https://img.shields.io/github/forks/bAuh0lz/CVE-2023-0297_Pre-auth_RCE_in_pyLoad">	<img alt="stars" src="https://img.shields.io/github/stars/bAuh0lz/CVE-2023-0297_Pre-auth_RCE_in_pyLoad">
+- [b11y/CVE-2023-0297](https://github.com/b11y/CVE-2023-0297)	<img alt="forks" src="https://img.shields.io/github/forks/b11y/CVE-2023-0297">	<img alt="stars" src="https://img.shields.io/github/stars/b11y/CVE-2023-0297">
 
 ---
 ## CVE-2023-0179 ()
