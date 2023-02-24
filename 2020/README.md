@@ -3383,6 +3383,7 @@
 - [ovProphet/CVE-2020-14882-checker](https://github.com/ovProphet/CVE-2020-14882-checker)	<img alt="forks" src="https://img.shields.io/github/forks/ovProphet/CVE-2020-14882-checker">	<img alt="stars" src="https://img.shields.io/github/stars/ovProphet/CVE-2020-14882-checker">
 - [ludy-dev/Weblogic_Unauthorized-bypass-RCE](https://github.com/ludy-dev/Weblogic_Unauthorized-bypass-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/ludy-dev/Weblogic_Unauthorized-bypass-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/ludy-dev/Weblogic_Unauthorized-bypass-RCE">
 - [alexfrancow/CVE-2020-14882](https://github.com/alexfrancow/CVE-2020-14882)	<img alt="forks" src="https://img.shields.io/github/forks/alexfrancow/CVE-2020-14882">	<img alt="stars" src="https://img.shields.io/github/stars/alexfrancow/CVE-2020-14882">
+- [Serendipity-Lucky/CVE-2020-14882_ALL](https://github.com/Serendipity-Lucky/CVE-2020-14882_ALL)	<img alt="forks" src="https://img.shields.io/github/forks/Serendipity-Lucky/CVE-2020-14882_ALL">	<img alt="stars" src="https://img.shields.io/github/stars/Serendipity-Lucky/CVE-2020-14882_ALL">
 
 ---
 ## CVE-2020-1472 (2020-08-17T19:15:00)

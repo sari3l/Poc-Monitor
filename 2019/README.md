@@ -2245,6 +2245,11 @@
 - [tinker-li/CVE-2019-11043](https://github.com/tinker-li/CVE-2019-11043)	<img alt="forks" src="https://img.shields.io/github/forks/tinker-li/CVE-2019-11043">	<img alt="stars" src="https://img.shields.io/github/stars/tinker-li/CVE-2019-11043">
 
 ---
+## CVE-2019-10945 (2019-04-10T19:29:00)
+> An issue was discovered in Joomla! before 3.9.5. The Media Manager component does not properly sanitize the folder parameter, allowing attackers to act outside the media manager root directory.
+- [dpgg101/CVE-2019-10945](https://github.com/dpgg101/CVE-2019-10945)	<img alt="forks" src="https://img.shields.io/github/forks/dpgg101/CVE-2019-10945">	<img alt="stars" src="https://img.shields.io/github/stars/dpgg101/CVE-2019-10945">
+
+---
 ## CVE-2019-10808 (2020-03-11T23:15:00)
 > utilitify prior to 1.0.3 allows modification of object properties. The merge method could be tricked into adding or modifying properties of the Object.prototype.
 - [Live-Hack-CVE/CVE-2019-10808](https://github.com/Live-Hack-CVE/CVE-2019-10808)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10808">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10808">
