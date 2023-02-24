@@ -1,6 +1,16 @@
 # 2023 List
 
 ---
+## CVE-2023-999993 ()
+> 
+- [yrtsec/CVE-2023-999993](https://github.com/yrtsec/CVE-2023-999993)	<img alt="forks" src="https://img.shields.io/github/forks/yrtsec/CVE-2023-999993">	<img alt="stars" src="https://img.shields.io/github/stars/yrtsec/CVE-2023-999993">
+
+---
+## CVE-2023-999992 ()
+> 
+- [yrtsec/CVE-2023-999992](https://github.com/yrtsec/CVE-2023-999992)	<img alt="forks" src="https://img.shields.io/github/forks/yrtsec/CVE-2023-999992">	<img alt="stars" src="https://img.shields.io/github/stars/yrtsec/CVE-2023-999992">
+
+---
 ## CVE-2023-999991 ()
 > 
 - [yrtsec/CVE-2023-999991](https://github.com/yrtsec/CVE-2023-999991)	<img alt="forks" src="https://img.shields.io/github/forks/yrtsec/CVE-2023-999991">	<img alt="stars" src="https://img.shields.io/github/stars/yrtsec/CVE-2023-999991">
@@ -57,6 +67,7 @@
 - [ibaiw/joomla_CVE-2023-23752](https://github.com/ibaiw/joomla_CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/ibaiw/joomla_CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/ibaiw/joomla_CVE-2023-23752">
 - [wangking1/CVE-2023-23752-poc](https://github.com/wangking1/CVE-2023-23752-poc)	<img alt="forks" src="https://img.shields.io/github/forks/wangking1/CVE-2023-23752-poc">	<img alt="stars" src="https://img.shields.io/github/stars/wangking1/CVE-2023-23752-poc">
 - [ifacker/CVE-2023-23752-Joomla](https://github.com/ifacker/CVE-2023-23752-Joomla)	<img alt="forks" src="https://img.shields.io/github/forks/ifacker/CVE-2023-23752-Joomla">	<img alt="stars" src="https://img.shields.io/github/stars/ifacker/CVE-2023-23752-Joomla">
+- [z3n70/CVE-2023-23752](https://github.com/z3n70/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/z3n70/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/z3n70/CVE-2023-23752">
 
 ---
 ## CVE-2023-23488 (2023-01-20T18:15:00)
