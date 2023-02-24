@@ -175,6 +175,7 @@
 - [DXask88MA/Weblogic-CVE-2023-21839](https://github.com/DXask88MA/Weblogic-CVE-2023-21839)	<img alt="forks" src="https://img.shields.io/github/forks/DXask88MA/Weblogic-CVE-2023-21839">	<img alt="stars" src="https://img.shields.io/github/stars/DXask88MA/Weblogic-CVE-2023-21839">
 - [dream0x01/weblogic-framework](https://github.com/dream0x01/weblogic-framework)	<img alt="forks" src="https://img.shields.io/github/forks/dream0x01/weblogic-framework">	<img alt="stars" src="https://img.shields.io/github/stars/dream0x01/weblogic-framework">
 - [hacats/CVE-2023-21839](https://github.com/hacats/CVE-2023-21839)	<img alt="forks" src="https://img.shields.io/github/forks/hacats/CVE-2023-21839">	<img alt="stars" src="https://img.shields.io/github/stars/hacats/CVE-2023-21839">
+- [4ra1n/CVE-2023-21839](https://github.com/4ra1n/CVE-2023-21839)	<img alt="forks" src="https://img.shields.io/github/forks/4ra1n/CVE-2023-21839">	<img alt="stars" src="https://img.shields.io/github/stars/4ra1n/CVE-2023-21839">
 
 ---
 ## CVE-2023-21753 (2023-01-10T22:15:00)
