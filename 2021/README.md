@@ -6673,6 +6673,11 @@
 - [Live-Hack-CVE/CVE-2021-23394](https://github.com/Live-Hack-CVE/CVE-2021-23394)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23394">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23394">
 
 ---
+## CVE-2021-23358 (2021-03-29T14:15:00)
+> The package underscore from 1.13.0-0 and before 1.13.0-2, from 1.3.2 and before 1.12.1 are vulnerable to Arbitrary Code Injection via the template function, particularly when a variable property is passed as an argument as it is not sanitized.
+- [EkamSinghWalia/Detection-script-for-cve-2021-23358](https://github.com/EkamSinghWalia/Detection-script-for-cve-2021-23358)	<img alt="forks" src="https://img.shields.io/github/forks/EkamSinghWalia/Detection-script-for-cve-2021-23358">	<img alt="stars" src="https://img.shields.io/github/stars/EkamSinghWalia/Detection-script-for-cve-2021-23358">
+
+---
 ## CVE-2021-23265 (2022-05-16T17:15:00)
 > A logged-in and authenticated user with a Reviewer Role may lock a content item.
 - [Live-Hack-CVE/CVE-2021-23265](https://github.com/Live-Hack-CVE/CVE-2021-23265)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23265">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23265">
