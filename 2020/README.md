@@ -4457,6 +4457,8 @@
 - [NetJBS/-CVE-2020-0796-RCE](https://github.com/NetJBS/-CVE-2020-0796-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/NetJBS/-CVE-2020-0796-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/NetJBS/-CVE-2020-0796-RCE">
 - [TweatherQ/CVE-2020-0796](https://github.com/TweatherQ/CVE-2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/TweatherQ/CVE-2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/TweatherQ/CVE-2020-0796">
 - [krizzz07/CVE-2020-0796](https://github.com/krizzz07/CVE-2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/krizzz07/CVE-2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/krizzz07/CVE-2020-0796">
+- [bigozzzz/popular-cves-scanner](https://github.com/bigozzzz/popular-cves-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/bigozzzz/popular-cves-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/bigozzzz/popular-cves-scanner">
+- [poppylarrry/firefox-rce-poc](https://github.com/poppylarrry/firefox-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/poppylarrry/firefox-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/poppylarrry/firefox-rce-poc">
 
 ---
 ## CVE-2020-0688 (2020-02-11T22:15:00)
