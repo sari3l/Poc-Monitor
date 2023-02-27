@@ -5075,6 +5075,11 @@
 - [Live-Hack-CVE/CVE-2021-32415](https://github.com/Live-Hack-CVE/CVE-2021-32415)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32415">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32415">
 
 ---
+## CVE-2021-32305 (2021-05-18T17:15:00)
+> WebSVN before 2.6.1 allows remote attackers to execute arbitrary commands via shell metacharacters in the search parameter.
+- [sz-guanx/CVE-2021-32305](https://github.com/sz-guanx/CVE-2021-32305)	<img alt="forks" src="https://img.shields.io/github/forks/sz-guanx/CVE-2021-32305">	<img alt="stars" src="https://img.shields.io/github/stars/sz-guanx/CVE-2021-32305">
+
+---
 ## CVE-2021-32028 (2021-10-11T17:15:00)
 > A flaw was found in postgresql. Using an INSERT ... ON CONFLICT ... DO UPDATE command on a purpose-crafted table, an authenticated database user could read arbitrary bytes of server memory. The highest threat from this vulnerability is to data confidentiality.
 - [Live-Hack-CVE/CVE-2021-32028](https://github.com/Live-Hack-CVE/CVE-2021-32028)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32028">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32028">
