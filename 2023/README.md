@@ -188,6 +188,7 @@
 - [hacksysteam/CVE-2023-21608](https://github.com/hacksysteam/CVE-2023-21608)	<img alt="forks" src="https://img.shields.io/github/forks/hacksysteam/CVE-2023-21608">	<img alt="stars" src="https://img.shields.io/github/stars/hacksysteam/CVE-2023-21608">
 - [PyterSmithDarkGhost/CVE-2023-21608-EXPLOIT](https://github.com/PyterSmithDarkGhost/CVE-2023-21608-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/PyterSmithDarkGhost/CVE-2023-21608-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/PyterSmithDarkGhost/CVE-2023-21608-EXPLOIT">
 - [Malwareman007/CVE-2023-21608](https://github.com/Malwareman007/CVE-2023-21608)	<img alt="forks" src="https://img.shields.io/github/forks/Malwareman007/CVE-2023-21608">	<img alt="stars" src="https://img.shields.io/github/stars/Malwareman007/CVE-2023-21608">
+- [bigozzzz/popular-cves-scanner](https://github.com/bigozzzz/popular-cves-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/bigozzzz/popular-cves-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/bigozzzz/popular-cves-scanner">
 
 ---
 ## CVE-2023-0860 (2023-02-16T10:15:00)
