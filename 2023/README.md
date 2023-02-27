@@ -1,26 +1,6 @@
 # 2023 List
 
 ---
-## CVE-2023-999993 ()
-> 
-- [yrtsec/CVE-2023-999993](https://github.com/yrtsec/CVE-2023-999993)	<img alt="forks" src="https://img.shields.io/github/forks/yrtsec/CVE-2023-999993">	<img alt="stars" src="https://img.shields.io/github/stars/yrtsec/CVE-2023-999993">
-
----
-## CVE-2023-999992 ()
-> 
-- [yrtsec/CVE-2023-999992](https://github.com/yrtsec/CVE-2023-999992)	<img alt="forks" src="https://img.shields.io/github/forks/yrtsec/CVE-2023-999992">	<img alt="stars" src="https://img.shields.io/github/stars/yrtsec/CVE-2023-999992">
-
----
-## CVE-2023-999991 ()
-> 
-- [yrtsec/CVE-2023-999991](https://github.com/yrtsec/CVE-2023-999991)	<img alt="forks" src="https://img.shields.io/github/forks/yrtsec/CVE-2023-999991">	<img alt="stars" src="https://img.shields.io/github/stars/yrtsec/CVE-2023-999991">
-
----
-## CVE-2023-44268 ()
-> 
-- [agathanon/cve-2023-44268](https://github.com/agathanon/cve-2023-44268)	<img alt="forks" src="https://img.shields.io/github/forks/agathanon/cve-2023-44268">	<img alt="stars" src="https://img.shields.io/github/stars/agathanon/cve-2023-44268">
-
----
 ## CVE-2023-25194 (2023-02-07T20:15:00)
 > A possible security vulnerability has been identified in Apache Kafka Connect. This requires access to a Kafka Connect worker, and the ability to create/modify connectors on it with an arbitrary Kafka client SASL JAAS config and a SASL-based security protocol, which has been possible on Kafka Connect clusters since Apache Kafka 2.3.0. When configuring the connector via the Kafka Connect REST API, an authenticated operator can set the `sasl.jaas.config` property for any of the connector's Kafka clients to "com.sun.security.auth.module.JndiLoginModule", which can be done via the `producer.override.sasl.jaas.config`, `consumer.override.sasl.jaas.config`, or `admin.override.sasl.jaas.config` properties. This will allow the server to connect to the attacker's LDAP server and deserialize the LDAP response, which the attacker can use to execute java deserialization gadget chains on the Kafka connect server. Attacker can cause unrestricted deserialization of untrusted data (or) RCE vulnerability when there are gadgets in the classpath. Since Apache Kafka 3.0.0, users are allowed to specify these properties in connector configurations for Kafka Connect clusters running with out-of-the-box configurations. Before Apache Kafka 3.0.0, users may not specify these properties unless the Kafka Connect cluster has been reconfigured with a connector client override policy that permits them. Since Apache Kafka 3.4.0, we have added a system property ("-Dorg.apache.kafka.disallowed.login.modules") to disable the problematic login modules usage in SASL JAAS configuration. Also by default "com.sun.security.auth.module.JndiLoginModule" is disabled in Apache Kafka 3.4.0. We advise the Kafka Connect users to validate connector configurations and only allow trusted JNDI configurations. Also examine connector dependencies for vulnerable versions and either upgrade their connectors, upgrading that specific dependency, or removing the connectors as options for remediation. Finally, in addition to leveraging the "org.apache.kafka.disallowed.login.modules" system property, Kafka Connect users can also implement their own connector client config override policy, which can be used to control which Kafka client properties can be overridden directly in a connector config and which cannot.
 - [ohnonoyesyes/CVE-2023-25194](https://github.com/ohnonoyesyes/CVE-2023-25194)	<img alt="forks" src="https://img.shields.io/github/forks/ohnonoyesyes/CVE-2023-25194">	<img alt="stars" src="https://img.shields.io/github/stars/ohnonoyesyes/CVE-2023-25194">
@@ -78,11 +58,6 @@
 ## CVE-2023-23333 (2023-02-06T22:15:00)
 > There is a command injection vulnerability in SolarView Compact through 6.00, attackers can execute commands by bypassing internal restrictions through downloader.php.
 - [Timorlover/CVE-2023-23333](https://github.com/Timorlover/CVE-2023-23333)	<img alt="forks" src="https://img.shields.io/github/forks/Timorlover/CVE-2023-23333">	<img alt="stars" src="https://img.shields.io/github/stars/Timorlover/CVE-2023-23333">
-
----
-## CVE-2023-232323 ()
-> 
-- [Shmily-ing/CVE-2023-232323](https://github.com/Shmily-ing/CVE-2023-232323)	<img alt="forks" src="https://img.shields.io/github/forks/Shmily-ing/CVE-2023-232323">	<img alt="stars" src="https://img.shields.io/github/stars/Shmily-ing/CVE-2023-232323">
 
 ---
 ## CVE-2023-23163 (2023-02-10T20:15:00)
@@ -157,16 +132,6 @@
 - [kurniawandata/CVE-2023-22809-privilege-escalation](https://github.com/kurniawandata/CVE-2023-22809-privilege-escalation)	<img alt="forks" src="https://img.shields.io/github/forks/kurniawandata/CVE-2023-22809-privilege-escalation">	<img alt="stars" src="https://img.shields.io/github/stars/kurniawandata/CVE-2023-22809-privilege-escalation">
 - [M4fiaB0y/CVE-2023-22809](https://github.com/M4fiaB0y/CVE-2023-22809)	<img alt="forks" src="https://img.shields.io/github/forks/M4fiaB0y/CVE-2023-22809">	<img alt="stars" src="https://img.shields.io/github/stars/M4fiaB0y/CVE-2023-22809">
 - [bigozzzz/popular-cves-scanner](https://github.com/bigozzzz/popular-cves-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/bigozzzz/popular-cves-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/bigozzzz/popular-cves-scanner">
-
----
-## CVE-2023-2232323 ()
-> 
-- [Shmily-ing/CVE-2023-2232323](https://github.com/Shmily-ing/CVE-2023-2232323)	<img alt="forks" src="https://img.shields.io/github/forks/Shmily-ing/CVE-2023-2232323">	<img alt="stars" src="https://img.shields.io/github/stars/Shmily-ing/CVE-2023-2232323">
-
----
-## CVE-2023-2222111 ()
-> 
-- [Shmily-ing/CVE-2023-2222111](https://github.com/Shmily-ing/CVE-2023-2222111)	<img alt="forks" src="https://img.shields.io/github/forks/Shmily-ing/CVE-2023-2222111">	<img alt="stars" src="https://img.shields.io/github/stars/Shmily-ing/CVE-2023-2222111">
 
 ---
 ## CVE-2023-21839 (2023-01-18T00:15:00)
