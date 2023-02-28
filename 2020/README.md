@@ -4459,6 +4459,7 @@
 - [krizzz07/CVE-2020-0796](https://github.com/krizzz07/CVE-2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/krizzz07/CVE-2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/krizzz07/CVE-2020-0796">
 - [bigozzzz/popular-cves-scanner](https://github.com/bigozzzz/popular-cves-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/bigozzzz/popular-cves-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/bigozzzz/popular-cves-scanner">
 - [poppylarrry/firefox-rce-poc](https://github.com/poppylarrry/firefox-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/poppylarrry/firefox-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/poppylarrry/firefox-rce-poc">
+- [OldDream666/cve-2020-0796](https://github.com/OldDream666/cve-2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/OldDream666/cve-2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/OldDream666/cve-2020-0796">
 
 ---
 ## CVE-2020-0688 (2020-02-11T22:15:00)
