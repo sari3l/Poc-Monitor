@@ -258,6 +258,7 @@
 - [Greynad/struts2-jakarta-inject](https://github.com/Greynad/struts2-jakarta-inject)	<img alt="forks" src="https://img.shields.io/github/forks/Greynad/struts2-jakarta-inject">	<img alt="stars" src="https://img.shields.io/github/stars/Greynad/struts2-jakarta-inject">
 - [m3ssap0/struts2_cve-2017-5638](https://github.com/m3ssap0/struts2_cve-2017-5638)	<img alt="forks" src="https://img.shields.io/github/forks/m3ssap0/struts2_cve-2017-5638">	<img alt="stars" src="https://img.shields.io/github/stars/m3ssap0/struts2_cve-2017-5638">
 - [andrewkroh/auditbeat-apache-struts-demo](https://github.com/andrewkroh/auditbeat-apache-struts-demo)	<img alt="forks" src="https://img.shields.io/github/forks/andrewkroh/auditbeat-apache-struts-demo">	<img alt="stars" src="https://img.shields.io/github/stars/andrewkroh/auditbeat-apache-struts-demo">
+- [mritunjay-k/CVE-2017-5638](https://github.com/mritunjay-k/CVE-2017-5638)	<img alt="forks" src="https://img.shields.io/github/forks/mritunjay-k/CVE-2017-5638">	<img alt="stars" src="https://img.shields.io/github/stars/mritunjay-k/CVE-2017-5638">
 
 ---
 ## CVE-2017-5487 (2017-01-15T02:59:00)
