@@ -48,6 +48,7 @@
 - [wangking1/CVE-2023-23752-poc](https://github.com/wangking1/CVE-2023-23752-poc)	<img alt="forks" src="https://img.shields.io/github/forks/wangking1/CVE-2023-23752-poc">	<img alt="stars" src="https://img.shields.io/github/stars/wangking1/CVE-2023-23752-poc">
 - [ifacker/CVE-2023-23752-Joomla](https://github.com/ifacker/CVE-2023-23752-Joomla)	<img alt="forks" src="https://img.shields.io/github/forks/ifacker/CVE-2023-23752-Joomla">	<img alt="stars" src="https://img.shields.io/github/stars/ifacker/CVE-2023-23752-Joomla">
 - [z3n70/CVE-2023-23752](https://github.com/z3n70/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/z3n70/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/z3n70/CVE-2023-23752">
+- [keyuan15/CVE-2023-23752](https://github.com/keyuan15/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/keyuan15/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/keyuan15/CVE-2023-23752">
 
 ---
 ## CVE-2023-23488 (2023-01-20T18:15:00)
