@@ -259,6 +259,8 @@
 - [m3ssap0/struts2_cve-2017-5638](https://github.com/m3ssap0/struts2_cve-2017-5638)	<img alt="forks" src="https://img.shields.io/github/forks/m3ssap0/struts2_cve-2017-5638">	<img alt="stars" src="https://img.shields.io/github/stars/m3ssap0/struts2_cve-2017-5638">
 - [andrewkroh/auditbeat-apache-struts-demo](https://github.com/andrewkroh/auditbeat-apache-struts-demo)	<img alt="forks" src="https://img.shields.io/github/forks/andrewkroh/auditbeat-apache-struts-demo">	<img alt="stars" src="https://img.shields.io/github/stars/andrewkroh/auditbeat-apache-struts-demo">
 - [mritunjay-k/CVE-2017-5638](https://github.com/mritunjay-k/CVE-2017-5638)	<img alt="forks" src="https://img.shields.io/github/forks/mritunjay-k/CVE-2017-5638">	<img alt="stars" src="https://img.shields.io/github/stars/mritunjay-k/CVE-2017-5638">
+- [mritunjay-k/cve-2017-5638](https://github.com/mritunjay-k/cve-2017-5638)	<img alt="forks" src="https://img.shields.io/github/forks/mritunjay-k/cve-2017-5638">	<img alt="stars" src="https://img.shields.io/github/stars/mritunjay-k/cve-2017-5638">
+- [grandDancer/Chrome-CVE-PoC](https://github.com/grandDancer/Chrome-CVE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/grandDancer/Chrome-CVE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/grandDancer/Chrome-CVE-PoC">
 
 ---
 ## CVE-2017-5487 (2017-01-15T02:59:00)
