@@ -202,6 +202,11 @@
 - [TurtleARM/CVE-2023-0179-PoC](https://github.com/TurtleARM/CVE-2023-0179-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TurtleARM/CVE-2023-0179-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TurtleARM/CVE-2023-0179-PoC">
 
 ---
+## CVE-2023-0050 ()
+> 
+- [wh-gov/CVE-2023-0050](https://github.com/wh-gov/CVE-2023-0050)	<img alt="forks" src="https://img.shields.io/github/forks/wh-gov/CVE-2023-0050">	<img alt="stars" src="https://img.shields.io/github/stars/wh-gov/CVE-2023-0050">
+
+---
 ## CVE-2023-0045 ()
 > 
 - [es0j/CVE-2023-0045](https://github.com/es0j/CVE-2023-0045)	<img alt="forks" src="https://img.shields.io/github/forks/es0j/CVE-2023-0045">	<img alt="stars" src="https://img.shields.io/github/stars/es0j/CVE-2023-0045">
