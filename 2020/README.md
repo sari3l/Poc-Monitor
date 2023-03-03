@@ -527,6 +527,21 @@
 - [Live-Hack-CVE/CVE-2020-7248](https://github.com/Live-Hack-CVE/CVE-2020-7248)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7248">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7248">
 
 ---
+## CVE-2020-7247 (2020-01-29T16:15:00)
+> smtp_mailaddr in smtp_session.c in OpenSMTPD 6.6, as used in OpenBSD 6.6 and other products, allows remote attackers to execute arbitrary commands as root via a crafted SMTP session, as demonstrated by shell metacharacters in a MAIL FROM field. This affects the "uncommented" default configuration. The issue exists because of an incorrect return value upon failure of input validation.
+- [gatariee/CVE-2020-7247](https://github.com/gatariee/CVE-2020-7247)	<img alt="forks" src="https://img.shields.io/github/forks/gatariee/CVE-2020-7247">	<img alt="stars" src="https://img.shields.io/github/stars/gatariee/CVE-2020-7247">
+- [aurelien-vilminot/ENSIMAG_EXPLOIT_CVE1_3A](https://github.com/aurelien-vilminot/ENSIMAG_EXPLOIT_CVE1_3A)	<img alt="forks" src="https://img.shields.io/github/forks/aurelien-vilminot/ENSIMAG_EXPLOIT_CVE1_3A">	<img alt="stars" src="https://img.shields.io/github/stars/aurelien-vilminot/ENSIMAG_EXPLOIT_CVE1_3A">
+- [gobysec/GobyVuls](https://github.com/gobysec/GobyVuls)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/GobyVuls">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/GobyVuls">
+- [presentdaypresenttime/shai_hulud](https://github.com/presentdaypresenttime/shai_hulud)	<img alt="forks" src="https://img.shields.io/github/forks/presentdaypresenttime/shai_hulud">	<img alt="stars" src="https://img.shields.io/github/stars/presentdaypresenttime/shai_hulud">
+- [SimonSchoeni/CVE-2020-7247-POC](https://github.com/SimonSchoeni/CVE-2020-7247-POC)	<img alt="forks" src="https://img.shields.io/github/forks/SimonSchoeni/CVE-2020-7247-POC">	<img alt="stars" src="https://img.shields.io/github/stars/SimonSchoeni/CVE-2020-7247-POC">
+- [superzerosec/cve-2020-7247](https://github.com/superzerosec/cve-2020-7247)	<img alt="forks" src="https://img.shields.io/github/forks/superzerosec/cve-2020-7247">	<img alt="stars" src="https://img.shields.io/github/stars/superzerosec/cve-2020-7247">
+- [f4T1H21/CVE-2020-7247](https://github.com/f4T1H21/CVE-2020-7247)	<img alt="forks" src="https://img.shields.io/github/forks/f4T1H21/CVE-2020-7247">	<img alt="stars" src="https://img.shields.io/github/stars/f4T1H21/CVE-2020-7247">
+- [QTranspose/CVE-2020-7247-exploit](https://github.com/QTranspose/CVE-2020-7247-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/QTranspose/CVE-2020-7247-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/QTranspose/CVE-2020-7247-exploit">
+- [bytescrappers/CVE-2020-7247](https://github.com/bytescrappers/CVE-2020-7247)	<img alt="forks" src="https://img.shields.io/github/forks/bytescrappers/CVE-2020-7247">	<img alt="stars" src="https://img.shields.io/github/stars/bytescrappers/CVE-2020-7247">
+- [FiroSolutions/cve-2020-7247-exploit](https://github.com/FiroSolutions/cve-2020-7247-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/FiroSolutions/cve-2020-7247-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/FiroSolutions/cve-2020-7247-exploit">
+- [r0lh/CVE-2020-7247](https://github.com/r0lh/CVE-2020-7247)	<img alt="forks" src="https://img.shields.io/github/forks/r0lh/CVE-2020-7247">	<img alt="stars" src="https://img.shields.io/github/stars/r0lh/CVE-2020-7247">
+
+---
 ## CVE-2020-7246 (2020-01-21T14:15:00)
 > A remote code execution (RCE) vulnerability exists in qdPM 9.1 and earlier. An attacker can upload a malicious PHP code file via the profile photo functionality, by leveraging a path traversal vulnerability in the users['photop_preview'] delete photo feature, allowing bypass of .htaccess protection. NOTE: this issue exists because of an incomplete fix for CVE-2015-3884.
 - [pswalia2u/CVE-2020-7246](https://github.com/pswalia2u/CVE-2020-7246)	<img alt="forks" src="https://img.shields.io/github/forks/pswalia2u/CVE-2020-7246">	<img alt="stars" src="https://img.shields.io/github/stars/pswalia2u/CVE-2020-7246">
