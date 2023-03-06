@@ -82,6 +82,11 @@
 - [rahulpatwari/CVE-2023-23161](https://github.com/rahulpatwari/CVE-2023-23161)	<img alt="forks" src="https://img.shields.io/github/forks/rahulpatwari/CVE-2023-23161">	<img alt="stars" src="https://img.shields.io/github/stars/rahulpatwari/CVE-2023-23161">
 
 ---
+## CVE-2023-23138 ()
+> 
+- [OmarAtallahh/CVE-2023-23138](https://github.com/OmarAtallahh/CVE-2023-23138)	<img alt="forks" src="https://img.shields.io/github/forks/OmarAtallahh/CVE-2023-23138">	<img alt="stars" src="https://img.shields.io/github/stars/OmarAtallahh/CVE-2023-23138">
+
+---
 ## CVE-2023-23132 (2023-02-01T14:15:00)
 > Selfwealth iOS mobile App 3.3.1 is vulnerable to Sensitive key disclosure. The application reveals hardcoded API keys.
 - [l00neyhacker/CVE-2023-23132](https://github.com/l00neyhacker/CVE-2023-23132)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2023-23132">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2023-23132">
