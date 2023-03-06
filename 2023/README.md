@@ -207,6 +207,11 @@
 - [b11y/CVE-2023-0297](https://github.com/b11y/CVE-2023-0297)	<img alt="forks" src="https://img.shields.io/github/forks/b11y/CVE-2023-0297">	<img alt="stars" src="https://img.shields.io/github/stars/b11y/CVE-2023-0297">
 
 ---
+## CVE-2023-0264 ()
+> 
+- [twwd/CVE-2023-0264](https://github.com/twwd/CVE-2023-0264)	<img alt="forks" src="https://img.shields.io/github/forks/twwd/CVE-2023-0264">	<img alt="stars" src="https://img.shields.io/github/stars/twwd/CVE-2023-0264">
+
+---
 ## CVE-2023-0179 ()
 > 
 - [TurtleARM/CVE-2023-0179-PoC](https://github.com/TurtleARM/CVE-2023-0179-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TurtleARM/CVE-2023-0179-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TurtleARM/CVE-2023-0179-PoC">
