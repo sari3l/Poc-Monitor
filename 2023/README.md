@@ -35,6 +35,8 @@
 - [PyterSmithDarkGhost/CVE-2023-24055-PoC-KeePass-2.5x-](https://github.com/PyterSmithDarkGhost/CVE-2023-24055-PoC-KeePass-2.5x-)	<img alt="forks" src="https://img.shields.io/github/forks/PyterSmithDarkGhost/CVE-2023-24055-PoC-KeePass-2.5x-">	<img alt="stars" src="https://img.shields.io/github/stars/PyterSmithDarkGhost/CVE-2023-24055-PoC-KeePass-2.5x-">
 - [zwlsix/KeePass-CVE-2023-24055](https://github.com/zwlsix/KeePass-CVE-2023-24055)	<img alt="forks" src="https://img.shields.io/github/forks/zwlsix/KeePass-CVE-2023-24055">	<img alt="stars" src="https://img.shields.io/github/stars/zwlsix/KeePass-CVE-2023-24055">
 - [zwlsix/KeePass-CVE-2023-24055](https://github.com/zwlsix/KeePass-CVE-2023-24055)	<img alt="forks" src="https://img.shields.io/github/forks/zwlsix/KeePass-CVE-2023-24055">	<img alt="stars" src="https://img.shields.io/github/stars/zwlsix/KeePass-CVE-2023-24055">
+- [bigozzzz/popular-cves-scanner](https://github.com/bigozzzz/popular-cves-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/bigozzzz/popular-cves-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/bigozzzz/popular-cves-scanner">
+- [poppylarrry/firefox-rce-poc](https://github.com/poppylarrry/firefox-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/poppylarrry/firefox-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/poppylarrry/firefox-rce-poc">
 
 ---
 ## CVE-2023-23924 (2023-02-01T00:15:00)
