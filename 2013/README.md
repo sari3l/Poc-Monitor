@@ -138,6 +138,11 @@
 - [Live-Hack-CVE/CVE-2013-1824](https://github.com/Live-Hack-CVE/CVE-2013-1824)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-1824">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-1824">
 
 ---
+## CVE-2013-1763 (2013-02-28T19:55:00)
+> Array index error in the __sock_diag_rcv_msg function in net/core/sock_diag.c in the Linux kernel before 3.7.10 allows local users to gain privileges via a large family value in a Netlink message.
+- [qkrtjsrbs315/CVE-2013-1763](https://github.com/qkrtjsrbs315/CVE-2013-1763)	<img alt="forks" src="https://img.shields.io/github/forks/qkrtjsrbs315/CVE-2013-1763">	<img alt="stars" src="https://img.shields.io/github/stars/qkrtjsrbs315/CVE-2013-1763">
+
+---
 ## CVE-2013-1511 (2013-04-17T12:14:00)
 > Unspecified vulnerability in Oracle MySQL 5.5.30 and earlier and 5.6.10 and earlier allows remote authenticated users to affect availability via unknown vectors related to InnoDB.
 - [Live-Hack-CVE/CVE-2013-1511](https://github.com/Live-Hack-CVE/CVE-2013-1511)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-1511">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-1511">

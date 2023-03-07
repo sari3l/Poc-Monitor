@@ -2302,6 +2302,23 @@
 - [Live-Hack-CVE/CVE-2019-10171](https://github.com/Live-Hack-CVE/CVE-2019-10171)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10171">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10171">
 
 ---
+## CVE-2019-10149 (2019-06-05T14:29:00)
+> A flaw was found in Exim versions 4.87 to 4.91 (inclusive). Improper validation of recipient address in deliver_message() function in /src/deliver.c may lead to remote command execution.
+- [rahmadsandy/EXIM-4.87-CVE-2019-10149](https://github.com/rahmadsandy/EXIM-4.87-CVE-2019-10149)	<img alt="forks" src="https://img.shields.io/github/forks/rahmadsandy/EXIM-4.87-CVE-2019-10149">	<img alt="stars" src="https://img.shields.io/github/stars/rahmadsandy/EXIM-4.87-CVE-2019-10149">
+- [Stick-U235/CVE-2019-10149-Exploit](https://github.com/Stick-U235/CVE-2019-10149-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Stick-U235/CVE-2019-10149-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Stick-U235/CVE-2019-10149-Exploit">
+- [Diefunction/CVE-2019-10149](https://github.com/Diefunction/CVE-2019-10149)	<img alt="forks" src="https://img.shields.io/github/forks/Diefunction/CVE-2019-10149">	<img alt="stars" src="https://img.shields.io/github/stars/Diefunction/CVE-2019-10149">
+- [cloudflare/exim-cve-2019-10149-data](https://github.com/cloudflare/exim-cve-2019-10149-data)	<img alt="forks" src="https://img.shields.io/github/forks/cloudflare/exim-cve-2019-10149-data">	<img alt="stars" src="https://img.shields.io/github/stars/cloudflare/exim-cve-2019-10149-data">
+- [Dilshan-Eranda/CVE-2019-10149](https://github.com/Dilshan-Eranda/CVE-2019-10149)	<img alt="forks" src="https://img.shields.io/github/forks/Dilshan-Eranda/CVE-2019-10149">	<img alt="stars" src="https://img.shields.io/github/stars/Dilshan-Eranda/CVE-2019-10149">
+- [darsigovrustam/CVE-2019-10149](https://github.com/darsigovrustam/CVE-2019-10149)	<img alt="forks" src="https://img.shields.io/github/forks/darsigovrustam/CVE-2019-10149">	<img alt="stars" src="https://img.shields.io/github/stars/darsigovrustam/CVE-2019-10149">
+- [Chris-dev1/exim.exp](https://github.com/Chris-dev1/exim.exp)	<img alt="forks" src="https://img.shields.io/github/forks/Chris-dev1/exim.exp">	<img alt="stars" src="https://img.shields.io/github/stars/Chris-dev1/exim.exp">
+- [Brets0150/StickyExim](https://github.com/Brets0150/StickyExim)	<img alt="forks" src="https://img.shields.io/github/forks/Brets0150/StickyExim">	<img alt="stars" src="https://img.shields.io/github/stars/Brets0150/StickyExim">
+- [cowbe0x004/eximrce-CVE-2019-10149](https://github.com/cowbe0x004/eximrce-CVE-2019-10149)	<img alt="forks" src="https://img.shields.io/github/forks/cowbe0x004/eximrce-CVE-2019-10149">	<img alt="stars" src="https://img.shields.io/github/stars/cowbe0x004/eximrce-CVE-2019-10149">
+- [AzizMea/CVE-2019-10149-privilege-escalation](https://github.com/AzizMea/CVE-2019-10149-privilege-escalation)	<img alt="forks" src="https://img.shields.io/github/forks/AzizMea/CVE-2019-10149-privilege-escalation">	<img alt="stars" src="https://img.shields.io/github/stars/AzizMea/CVE-2019-10149-privilege-escalation">
+- [MNEMO-CERT/PoC--CVE-2019-10149_Exim](https://github.com/MNEMO-CERT/PoC--CVE-2019-10149_Exim)	<img alt="forks" src="https://img.shields.io/github/forks/MNEMO-CERT/PoC--CVE-2019-10149_Exim">	<img alt="stars" src="https://img.shields.io/github/stars/MNEMO-CERT/PoC--CVE-2019-10149_Exim">
+- [aishee/CVE-2019-10149-quick](https://github.com/aishee/CVE-2019-10149-quick)	<img alt="forks" src="https://img.shields.io/github/forks/aishee/CVE-2019-10149-quick">	<img alt="stars" src="https://img.shields.io/github/stars/aishee/CVE-2019-10149-quick">
+- [bananaphones/exim-rce-quickfix](https://github.com/bananaphones/exim-rce-quickfix)	<img alt="forks" src="https://img.shields.io/github/forks/bananaphones/exim-rce-quickfix">	<img alt="stars" src="https://img.shields.io/github/stars/bananaphones/exim-rce-quickfix">
+
+---
 ## CVE-2019-1010319 (2019-07-11T20:15:00)
 > WavPack 5.1.0 and earlier is affected by: CWE-457: Use of Uninitialized Variable. The impact is: Unexpected control flow, crashes, and segfaults. The component is: ParseWave64HeaderConfig (wave64.c:211). The attack vector is: Maliciously crafted .wav file. The fixed version is: After commit https://github.com/dbry/WavPack/commit/33a0025d1d63ccd05d9dbaa6923d52b1446a62fe.
 - [ahaShiyu/CVE-2019-1010319](https://github.com/ahaShiyu/CVE-2019-1010319)	<img alt="forks" src="https://img.shields.io/github/forks/ahaShiyu/CVE-2019-1010319">	<img alt="stars" src="https://img.shields.io/github/stars/ahaShiyu/CVE-2019-1010319">
