@@ -181,6 +181,7 @@
 - [FeatherStark/CVE-2023-21716](https://github.com/FeatherStark/CVE-2023-21716)	<img alt="forks" src="https://img.shields.io/github/forks/FeatherStark/CVE-2023-21716">	<img alt="stars" src="https://img.shields.io/github/stars/FeatherStark/CVE-2023-21716">
 - [Xnuvers007/CVE-2023-21716](https://github.com/Xnuvers007/CVE-2023-21716)	<img alt="forks" src="https://img.shields.io/github/forks/Xnuvers007/CVE-2023-21716">	<img alt="stars" src="https://img.shields.io/github/stars/Xnuvers007/CVE-2023-21716">
 - [gyaansastra/CVE-2023-21716](https://github.com/gyaansastra/CVE-2023-21716)	<img alt="forks" src="https://img.shields.io/github/forks/gyaansastra/CVE-2023-21716">	<img alt="stars" src="https://img.shields.io/github/stars/gyaansastra/CVE-2023-21716">
+- [maldev866/WordExp_CVE_2023_21716](https://github.com/maldev866/WordExp_CVE_2023_21716)	<img alt="forks" src="https://img.shields.io/github/forks/maldev866/WordExp_CVE_2023_21716">	<img alt="stars" src="https://img.shields.io/github/stars/maldev866/WordExp_CVE_2023_21716">
 
 ---
 ## CVE-2023-21608 (2023-01-18T19:15:00)
