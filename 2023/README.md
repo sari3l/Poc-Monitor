@@ -1,6 +1,11 @@
 # 2023 List
 
 ---
+## CVE-2023-999999 ()
+> 
+- [zeroc00I/CVE-2023-999999](https://github.com/zeroc00I/CVE-2023-999999)	<img alt="forks" src="https://img.shields.io/github/forks/zeroc00I/CVE-2023-999999">	<img alt="stars" src="https://img.shields.io/github/stars/zeroc00I/CVE-2023-999999">
+
+---
 ## CVE-2023-26604 (2023-03-03T16:15:00)
 > systemd before 247 does not adequately block local privilege escalation for some Sudo configurations, e.g., plausible sudoers files in which the "systemctl status" command may be executed. Specifically, systemd does not set LESSSECURE to 1, and thus other programs may be launched from the less program. This presents a substantial security risk when running systemctl from Sudo, because less executes as root when the terminal size is too small to show the complete systemctl output.
 - [Zenmovie/CVE-2023-26604](https://github.com/Zenmovie/CVE-2023-26604)	<img alt="forks" src="https://img.shields.io/github/forks/Zenmovie/CVE-2023-26604">	<img alt="stars" src="https://img.shields.io/github/stars/Zenmovie/CVE-2023-26604">
