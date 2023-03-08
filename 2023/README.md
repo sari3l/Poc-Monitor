@@ -171,6 +171,11 @@
 - [deathflash1411/CVE-2023-21839](https://github.com/deathflash1411/CVE-2023-21839)	<img alt="forks" src="https://img.shields.io/github/forks/deathflash1411/CVE-2023-21839">	<img alt="stars" src="https://img.shields.io/github/stars/deathflash1411/CVE-2023-21839">
 
 ---
+## CVE-2023-21768 (2023-01-10T22:15:00)
+> Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability.
+- [chompie1337/Windows_LPE_AFD_CVE-2023-21768](https://github.com/chompie1337/Windows_LPE_AFD_CVE-2023-21768)	<img alt="forks" src="https://img.shields.io/github/forks/chompie1337/Windows_LPE_AFD_CVE-2023-21768">	<img alt="stars" src="https://img.shields.io/github/stars/chompie1337/Windows_LPE_AFD_CVE-2023-21768">
+
+---
 ## CVE-2023-21753 (2023-01-10T22:15:00)
 > Event Tracing for Windows Information Disclosure Vulnerability. This CVE ID is unique from CVE-2023-21536.
 - [timpen432/-Wh0Am1001-CVE-2023-21753](https://github.com/timpen432/-Wh0Am1001-CVE-2023-21753)	<img alt="forks" src="https://img.shields.io/github/forks/timpen432/-Wh0Am1001-CVE-2023-21753">	<img alt="stars" src="https://img.shields.io/github/stars/timpen432/-Wh0Am1001-CVE-2023-21753">
