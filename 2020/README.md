@@ -1342,6 +1342,7 @@
 ## CVE-2020-35391 (2021-01-01T07:15:00)
 > Tenda N300 F3 12.01.01.48 devices allow remote attackers to obtain sensitive information (possibly including an http_passwd line) via a direct request for cgi-bin/DownloadCfg/RouterCfm.cfg, a related issue to CVE-2017-14942. NOTE: the vulnerability report may suggest that either a ? character must be placed after the RouterCfm.cfg filename, or that the HTTP request headers must be unusual, but it is not known why these are relevant to the device's HTTP response behavior.
 - [dumitory-dev/CVE-2020-35391-POC](https://github.com/dumitory-dev/CVE-2020-35391-POC)	<img alt="forks" src="https://img.shields.io/github/forks/dumitory-dev/CVE-2020-35391-POC">	<img alt="stars" src="https://img.shields.io/github/stars/dumitory-dev/CVE-2020-35391-POC">
+- [H454NSec/CVE-2020-35391](https://github.com/H454NSec/CVE-2020-35391)	<img alt="forks" src="https://img.shields.io/github/forks/H454NSec/CVE-2020-35391">	<img alt="stars" src="https://img.shields.io/github/stars/H454NSec/CVE-2020-35391">
 
 ---
 ## CVE-2020-35314 (2021-04-20T20:15:00)
