@@ -268,8 +268,8 @@
 - [TurtleARM/CVE-2023-0179-PoC](https://github.com/TurtleARM/CVE-2023-0179-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TurtleARM/CVE-2023-0179-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TurtleARM/CVE-2023-0179-PoC">
 
 ---
-## CVE-2023-0050 ()
-> 
+## CVE-2023-0050 (2023-03-09T22:15:00)
+> An issue has been discovered in GitLab affecting all versions starting from 13.7 before 15.7.8, all versions starting from 15.8 before 15.8.4, all versions starting from 15.9 before 15.9.2. A specially crafted Kroki diagram could lead to a stored XSS on the client side which allows attackers to perform arbitrary actions on behalf of victims.
 - [wh-gov/CVE-2023-0050](https://github.com/wh-gov/CVE-2023-0050)	<img alt="forks" src="https://img.shields.io/github/forks/wh-gov/CVE-2023-0050">	<img alt="stars" src="https://img.shields.io/github/stars/wh-gov/CVE-2023-0050">
 
 ---
