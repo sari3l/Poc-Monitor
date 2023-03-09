@@ -70,6 +70,7 @@
 - [adriyansyah-mf/CVE-2023-23752](https://github.com/adriyansyah-mf/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/adriyansyah-mf/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/adriyansyah-mf/CVE-2023-23752">
 - [HaxorSec1945/CVE2023-23752](https://github.com/HaxorSec1945/CVE2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/HaxorSec1945/CVE2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/HaxorSec1945/CVE2023-23752">
 - [haxor1337x/Mass-Checker-CVE-2023-23752](https://github.com/haxor1337x/Mass-Checker-CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/haxor1337x/Mass-Checker-CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/haxor1337x/Mass-Checker-CVE-2023-23752">
+- [GhostToKnow/CVE-2023-23752](https://github.com/GhostToKnow/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/GhostToKnow/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/GhostToKnow/CVE-2023-23752">
 
 ---
 ## CVE-2023-23504 (2023-02-27T20:15:00)
