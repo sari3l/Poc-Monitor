@@ -7709,7 +7709,7 @@
 ---
 ## CVE-2021-1732 (2021-02-25T23:15:00)
 > Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.
-- [ratw/CVE-2021-1732](https://github.com/ratw/CVE-2021-1732)	<img alt="forks" src="https://img.shields.io/github/forks/ratw/CVE-2021-1732">	<img alt="stars" src="https://img.shields.io/github/stars/ratw/CVE-2021-1732">
+- [fenalik/CVE-2021-1732](https://github.com/fenalik/CVE-2021-1732)	<img alt="forks" src="https://img.shields.io/github/forks/fenalik/CVE-2021-1732">	<img alt="stars" src="https://img.shields.io/github/stars/fenalik/CVE-2021-1732">
 - [jessica0f0116/cve_2022_21882-cve_2021_1732](https://github.com/jessica0f0116/cve_2022_21882-cve_2021_1732)	<img alt="forks" src="https://img.shields.io/github/forks/jessica0f0116/cve_2022_21882-cve_2021_1732">	<img alt="stars" src="https://img.shields.io/github/stars/jessica0f0116/cve_2022_21882-cve_2021_1732">
 - [Ascotbe/Kernelhub](https://github.com/Ascotbe/Kernelhub)	<img alt="forks" src="https://img.shields.io/github/forks/Ascotbe/Kernelhub">	<img alt="stars" src="https://img.shields.io/github/stars/Ascotbe/Kernelhub">
 - [ExploitCN/CVE-2021-1732-EXP-](https://github.com/ExploitCN/CVE-2021-1732-EXP-)	<img alt="forks" src="https://img.shields.io/github/forks/ExploitCN/CVE-2021-1732-EXP-">	<img alt="stars" src="https://img.shields.io/github/stars/ExploitCN/CVE-2021-1732-EXP-">
@@ -7723,6 +7723,7 @@
 - [oneoy/CVE-2021-1732-Exploit](https://github.com/oneoy/CVE-2021-1732-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/oneoy/CVE-2021-1732-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/oneoy/CVE-2021-1732-Exploit">
 - [k-k-k-k-k/CVE-2021-1732](https://github.com/k-k-k-k-k/CVE-2021-1732)	<img alt="forks" src="https://img.shields.io/github/forks/k-k-k-k-k/CVE-2021-1732">	<img alt="stars" src="https://img.shields.io/github/stars/k-k-k-k-k/CVE-2021-1732">
 - [KaLendsi/CVE-2021-1732-Exploit](https://github.com/KaLendsi/CVE-2021-1732-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/KaLendsi/CVE-2021-1732-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/KaLendsi/CVE-2021-1732-Exploit">
+- [fenasal/CVE-2021-1732](https://github.com/fenasal/CVE-2021-1732)	<img alt="forks" src="https://img.shields.io/github/forks/fenasal/CVE-2021-1732">	<img alt="stars" src="https://img.shields.io/github/stars/fenasal/CVE-2021-1732">
 
 ---
 ## CVE-2021-1675 (2021-06-08T23:15:00)
