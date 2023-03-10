@@ -210,6 +210,7 @@
 - [gyaansastra/CVE-2023-21716](https://github.com/gyaansastra/CVE-2023-21716)	<img alt="forks" src="https://img.shields.io/github/forks/gyaansastra/CVE-2023-21716">	<img alt="stars" src="https://img.shields.io/github/stars/gyaansastra/CVE-2023-21716">
 - [maldev866/WordExp_CVE_2023_21716](https://github.com/maldev866/WordExp_CVE_2023_21716)	<img alt="forks" src="https://img.shields.io/github/forks/maldev866/WordExp_CVE_2023_21716">	<img alt="stars" src="https://img.shields.io/github/stars/maldev866/WordExp_CVE_2023_21716">
 - [mikesxrs/CVE-2023-21716_YARA_Results](https://github.com/mikesxrs/CVE-2023-21716_YARA_Results)	<img alt="forks" src="https://img.shields.io/github/forks/mikesxrs/CVE-2023-21716_YARA_Results">	<img alt="stars" src="https://img.shields.io/github/stars/mikesxrs/CVE-2023-21716_YARA_Results">
+- [CKevens/CVE-2023-21716-POC](https://github.com/CKevens/CVE-2023-21716-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2023-21716-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2023-21716-POC">
 
 ---
 ## CVE-2023-21608 (2023-01-18T19:15:00)
