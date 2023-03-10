@@ -194,6 +194,11 @@
 - [deathflash1411/CVE-2023-21839](https://github.com/deathflash1411/CVE-2023-21839)	<img alt="forks" src="https://img.shields.io/github/forks/deathflash1411/CVE-2023-21839">	<img alt="stars" src="https://img.shields.io/github/stars/deathflash1411/CVE-2023-21839">
 
 ---
+## CVE-2023-21823 (2023-02-14T21:15:00)
+> Windows Graphics Component Remote Code Execution Vulnerability
+- [b11y/CVE-2023-21823](https://github.com/b11y/CVE-2023-21823)	<img alt="forks" src="https://img.shields.io/github/forks/b11y/CVE-2023-21823">	<img alt="stars" src="https://img.shields.io/github/stars/b11y/CVE-2023-21823">
+
+---
 ## CVE-2023-21768 (2023-01-10T22:15:00)
 > Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability.
 - [chompie1337/Windows_LPE_AFD_CVE-2023-21768](https://github.com/chompie1337/Windows_LPE_AFD_CVE-2023-21768)	<img alt="forks" src="https://img.shields.io/github/forks/chompie1337/Windows_LPE_AFD_CVE-2023-21768">	<img alt="stars" src="https://img.shields.io/github/stars/chompie1337/Windows_LPE_AFD_CVE-2023-21768">
