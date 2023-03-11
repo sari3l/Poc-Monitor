@@ -552,6 +552,12 @@
 - [Live-Hack-CVE/CVE-2019-6142](https://github.com/Live-Hack-CVE/CVE-2019-6142)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6142">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6142">
 
 ---
+## CVE-2019-6111 (2019-01-31T18:29:00)
+> An issue was discovered in OpenSSH 7.9. Due to the scp implementation being derived from 1983 rcp, the server chooses which files/directories are sent to the client. However, the scp client only performs cursory validation of the object name returned (only directory traversal attacks are prevented). A malicious scp server (or Man-in-The-Middle attacker) can overwrite arbitrary files in the scp client target directory. If recursive operation (-r) is performed, the server can manipulate subdirectories as well (for example, to overwrite the .ssh/authorized_keys file).
+- [Sigmw/CVE-2019-6111-poc](https://github.com/Sigmw/CVE-2019-6111-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Sigmw/CVE-2019-6111-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Sigmw/CVE-2019-6111-poc">
+- [53n7hu/SNP](https://github.com/53n7hu/SNP)	<img alt="forks" src="https://img.shields.io/github/forks/53n7hu/SNP">	<img alt="stars" src="https://img.shields.io/github/stars/53n7hu/SNP">
+
+---
 ## CVE-2019-6002 (2019-07-26T14:15:00)
 > Cross-site scripting vulnerability in Central Dogma 0.17.0 to 0.40.1 allows remote attackers to inject arbitrary web script or HTML via unspecified vectors.
 - [Live-Hack-CVE/CVE-2019-6002](https://github.com/Live-Hack-CVE/CVE-2019-6002)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6002">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6002">
