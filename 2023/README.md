@@ -192,6 +192,8 @@
 - [hacats/CVE-2023-21839](https://github.com/hacats/CVE-2023-21839)	<img alt="forks" src="https://img.shields.io/github/forks/hacats/CVE-2023-21839">	<img alt="stars" src="https://img.shields.io/github/stars/hacats/CVE-2023-21839">
 - [4ra1n/CVE-2023-21839](https://github.com/4ra1n/CVE-2023-21839)	<img alt="forks" src="https://img.shields.io/github/forks/4ra1n/CVE-2023-21839">	<img alt="stars" src="https://img.shields.io/github/stars/4ra1n/CVE-2023-21839">
 - [deathflash1411/CVE-2023-21839](https://github.com/deathflash1411/CVE-2023-21839)	<img alt="forks" src="https://img.shields.io/github/forks/deathflash1411/CVE-2023-21839">	<img alt="stars" src="https://img.shields.io/github/stars/deathflash1411/CVE-2023-21839">
+- [Firebasky/CVE-2023-21839](https://github.com/Firebasky/CVE-2023-21839)	<img alt="forks" src="https://img.shields.io/github/forks/Firebasky/CVE-2023-21839">	<img alt="stars" src="https://img.shields.io/github/stars/Firebasky/CVE-2023-21839">
+- [poppylarrry/Zero-Days](https://github.com/poppylarrry/Zero-Days)	<img alt="forks" src="https://img.shields.io/github/forks/poppylarrry/Zero-Days">	<img alt="stars" src="https://img.shields.io/github/stars/poppylarrry/Zero-Days">
 
 ---
 ## CVE-2023-21823 (2023-02-14T21:15:00)
