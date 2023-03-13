@@ -401,6 +401,7 @@
 > 
 - [BKreisel/CVE-2021-45010](https://github.com/BKreisel/CVE-2021-45010)	<img alt="forks" src="https://img.shields.io/github/forks/BKreisel/CVE-2021-45010">	<img alt="stars" src="https://img.shields.io/github/stars/BKreisel/CVE-2021-45010">
 - [febinrev/CVE-2021-45010-TinyFileManager-Exploit](https://github.com/febinrev/CVE-2021-45010-TinyFileManager-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/febinrev/CVE-2021-45010-TinyFileManager-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/febinrev/CVE-2021-45010-TinyFileManager-Exploit">
+- [Syd-SydneyJr/CVE-2021-45010](https://github.com/Syd-SydneyJr/CVE-2021-45010)	<img alt="forks" src="https://img.shields.io/github/forks/Syd-SydneyJr/CVE-2021-45010">	<img alt="stars" src="https://img.shields.io/github/stars/Syd-SydneyJr/CVE-2021-45010">
 
 ---
 ## CVE-2021-44852 (2022-01-01T06:15:00)
