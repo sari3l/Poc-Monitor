@@ -1398,6 +1398,11 @@
 - [Live-Hack-CVE/CVE-2020-3499](https://github.com/Live-Hack-CVE/CVE-2020-3499)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-3499">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-3499">
 
 ---
+## CVE-2020-3187 (2020-05-06T17:15:00)
+> A vulnerability in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct directory traversal attacks and obtain read and delete access to sensitive files on a targeted system. The vulnerability is due to a lack of proper input validation of the HTTP URL. An attacker could exploit this vulnerability by sending a crafted HTTP request containing directory traversal character sequences. An exploit could allow the attacker to view or delete arbitrary files on the targeted system. When the device is reloaded after exploitation of this vulnerability, any files that were deleted are restored. The attacker can only view and delete files within the web services file system. This file system is enabled when the affected device is configured with either WebVPN or AnyConnect features. This vulnerability can not be used to obtain access to ASA or FTD system files or underlying operating system (OS) files. Reloading the affected device will restore all files within the web services file system.
+- [sunyyer/CVE-2020-3187-Scanlist](https://github.com/sunyyer/CVE-2020-3187-Scanlist)	<img alt="forks" src="https://img.shields.io/github/forks/sunyyer/CVE-2020-3187-Scanlist">	<img alt="stars" src="https://img.shields.io/github/stars/sunyyer/CVE-2020-3187-Scanlist">
+
+---
 ## CVE-2020-29659 (2020-12-09T17:15:00)
 > A buffer overflow in the web server of Flexense DupScout Enterprise 10.0.18 allows a remote anonymous attacker to execute code as SYSTEM by overflowing the sid parameter via a GET /settings&sid= attack.
 - [Live-Hack-CVE/CVE-2020-29659](https://github.com/Live-Hack-CVE/CVE-2020-29659)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-29659">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-29659">
