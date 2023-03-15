@@ -4799,6 +4799,11 @@
 - [Live-Hack-CVE/CVE-2021-33128](https://github.com/Live-Hack-CVE/CVE-2021-33128)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33128">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33128">
 
 ---
+## CVE-2021-33104 (2023-02-16T21:15:00)
+> Improper access control in the Intel(R) OFU software before version 14.1.28 may allow an authenticated user to potentially enable denial of service via local access.
+- [rjt-gupta/CVE-2021-33104](https://github.com/rjt-gupta/CVE-2021-33104)	<img alt="forks" src="https://img.shields.io/github/forks/rjt-gupta/CVE-2021-33104">	<img alt="stars" src="https://img.shields.io/github/stars/rjt-gupta/CVE-2021-33104">
+
+---
 ## CVE-2021-33083 (2022-05-12T17:15:00)
 > Improper authentication in firmware for some Intel(R) SSD, Intel(R) Optane(TM) SSD, Intel(R) Optane(TM) SSD DC and Intel(R) SSD DC Products may allow an privileged user to potentially enable information disclosure via local access.
 - [Live-Hack-CVE/CVE-2021-33083](https://github.com/Live-Hack-CVE/CVE-2021-33083)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33083">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33083">
