@@ -6,6 +6,11 @@
 - [zeroc00I/CVE-2023-999999](https://github.com/zeroc00I/CVE-2023-999999)	<img alt="forks" src="https://img.shields.io/github/forks/zeroc00I/CVE-2023-999999">	<img alt="stars" src="https://img.shields.io/github/stars/zeroc00I/CVE-2023-999999">
 
 ---
+## CVE-2023-27587 (2023-03-13T22:15:00)
+> ReadtoMyShoe, a web app that lets users upload articles and listen to them later, generates an error message containing sensitive information prior to commit 8533b01. If an error occurs when adding an article, the website shows the user an error message. If the error originates from the Google Cloud TTS request, then it will include the full URL of the request. The request URL contains the Google Cloud API key. This has been patched in commit 8533b01. Upgrading should be accompanied by deleting the current GCP API key and issuing a new one. There are no known workarounds.
+- [sec-fx/CVE-2023-27587-PoC](https://github.com/sec-fx/CVE-2023-27587-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sec-fx/CVE-2023-27587-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sec-fx/CVE-2023-27587-PoC">
+
+---
 ## CVE-2023-26604 (2023-03-03T16:15:00)
 > systemd before 247 does not adequately block local privilege escalation for some Sudo configurations, e.g., plausible sudoers files in which the "systemctl status" command may be executed. Specifically, systemd does not set LESSSECURE to 1, and thus other programs may be launched from the less program. This presents a substantial security risk when running systemctl from Sudo, because less executes as root when the terminal size is too small to show the complete systemctl output.
 - [Zenmovie/CVE-2023-26604](https://github.com/Zenmovie/CVE-2023-26604)	<img alt="forks" src="https://img.shields.io/github/forks/Zenmovie/CVE-2023-26604">	<img alt="stars" src="https://img.shields.io/github/stars/Zenmovie/CVE-2023-26604">
