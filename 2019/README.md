@@ -1970,6 +1970,11 @@
 - [FauxFaux/sudo-cve-2019-14287](https://github.com/FauxFaux/sudo-cve-2019-14287)	<img alt="forks" src="https://img.shields.io/github/forks/FauxFaux/sudo-cve-2019-14287">	<img alt="stars" src="https://img.shields.io/github/stars/FauxFaux/sudo-cve-2019-14287">
 
 ---
+## CVE-2019-14271 (2019-07-29T18:15:00)
+> In Docker 19.03.x before 19.03.1 linked against the GNU C Library (aka glibc), code injection can occur when the nsswitch facility dynamically loads a library inside a chroot that contains the contents of the container.
+- [iridium-soda/CVE-2019-14271_Exploit](https://github.com/iridium-soda/CVE-2019-14271_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/iridium-soda/CVE-2019-14271_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/iridium-soda/CVE-2019-14271_Exploit">
+
+---
 ## CVE-2019-13990 (2019-07-26T19:15:00)
 > initDocumentParser in xml/XMLSchedulingDataProcessor.java in Terracotta Quartz Scheduler through 2.3.0 allows XXE attacks via a job description.
 - [Live-Hack-CVE/CVE-2019-13990](https://github.com/Live-Hack-CVE/CVE-2019-13990)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13990">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13990">

@@ -510,6 +510,11 @@
 - [DimitriNL/CTX-CVE-2020-7473](https://github.com/DimitriNL/CTX-CVE-2020-7473)	<img alt="forks" src="https://img.shields.io/github/forks/DimitriNL/CTX-CVE-2020-7473">	<img alt="stars" src="https://img.shields.io/github/stars/DimitriNL/CTX-CVE-2020-7473">
 
 ---
+## CVE-2020-7388 (2021-07-22T19:15:00)
+> Sage X3 Unauthenticated Remote Command Execution (RCE) as SYSTEM in AdxDSrv.exe component. By editing the client side authentication request, an attacker can bypass credential validation. While exploiting this does require knowledge of the installation path, that information can be learned by exploiting CVE-2020-7387. This issue was fixed in AdxAdmin 93.2.53, which ships with updates for on-premises versions of Sage X3 including Version 9 (components shipped with Syracuse 9.22.7.2 and later), Sage X3 HR & Payroll Version 9 (those components that ship with Syracuse 9.24.1.3), Version 11 (components shipped with Syracuse 11.25.2.6 and later), and Version 12 (components shipped with Syracuse 12.10.2.8 and later) of Sage X3. Other on-premises versions of Sage X3 are unsupported by the vendor.
+- [ac3lives/sagex3-cve-2020-7388-poc](https://github.com/ac3lives/sagex3-cve-2020-7388-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ac3lives/sagex3-cve-2020-7388-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ac3lives/sagex3-cve-2020-7388-poc">
+
+---
 ## CVE-2020-7384 (2020-10-29T15:15:00)
 > Rapid7's Metasploit msfvenom framework handles APK files in a way that allows for a malicious user to craft and publish a file that would execute arbitrary commands on a victim's machine.
 - [0xCarsonS/CVE-2020-7384](https://github.com/0xCarsonS/CVE-2020-7384)	<img alt="forks" src="https://img.shields.io/github/forks/0xCarsonS/CVE-2020-7384">	<img alt="stars" src="https://img.shields.io/github/stars/0xCarsonS/CVE-2020-7384">
