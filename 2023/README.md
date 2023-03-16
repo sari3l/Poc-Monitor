@@ -110,6 +110,7 @@
 - [j0eyv/CVE-2023-23397](https://github.com/j0eyv/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/j0eyv/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/j0eyv/CVE-2023-23397">
 - [alicangnll/CVE-2023-23397](https://github.com/alicangnll/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/alicangnll/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/alicangnll/CVE-2023-23397">
 - [grn-bogo/CVE-2023-23397](https://github.com/grn-bogo/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/grn-bogo/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/grn-bogo/CVE-2023-23397">
+- [ka7ana/CVE-2023-23397](https://github.com/ka7ana/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/ka7ana/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/ka7ana/CVE-2023-23397">
 
 ---
 ## CVE-2023-23396 (2023-03-14T17:15:00)
