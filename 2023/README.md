@@ -112,6 +112,11 @@
 - [grn-bogo/CVE-2023-23397](https://github.com/grn-bogo/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/grn-bogo/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/grn-bogo/CVE-2023-23397">
 
 ---
+## CVE-2023-23396 (2023-03-14T17:15:00)
+> Microsoft Excel Denial of Service Vulnerability
+- [LucaBarile/CVE-2023-23396](https://github.com/LucaBarile/CVE-2023-23396)	<img alt="forks" src="https://img.shields.io/github/forks/LucaBarile/CVE-2023-23396">	<img alt="stars" src="https://img.shields.io/github/stars/LucaBarile/CVE-2023-23396">
+
+---
 ## CVE-2023-23333 (2023-02-06T22:15:00)
 > There is a command injection vulnerability in SolarView Compact through 6.00, attackers can execute commands by bypassing internal restrictions through downloader.php.
 - [Timorlover/CVE-2023-23333](https://github.com/Timorlover/CVE-2023-23333)	<img alt="forks" src="https://img.shields.io/github/forks/Timorlover/CVE-2023-23333">	<img alt="stars" src="https://img.shields.io/github/stars/Timorlover/CVE-2023-23333">
