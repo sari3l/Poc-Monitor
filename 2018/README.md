@@ -534,6 +534,7 @@
 - [Trinadh465/external_zlib_4.4_CVE-2018-25032](https://github.com/Trinadh465/external_zlib_4.4_CVE-2018-25032)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/external_zlib_4.4_CVE-2018-25032">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/external_zlib_4.4_CVE-2018-25032">
 - [Satheesh575555/external_zlib-1.2.7_CVE-2018-25032](https://github.com/Satheesh575555/external_zlib-1.2.7_CVE-2018-25032)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/external_zlib-1.2.7_CVE-2018-25032">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/external_zlib-1.2.7_CVE-2018-25032">
 - [Trinadh465/expat_zlib-4.19.72_CVE-2018-25032](https://github.com/Trinadh465/expat_zlib-4.19.72_CVE-2018-25032)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/expat_zlib-4.19.72_CVE-2018-25032">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/expat_zlib-4.19.72_CVE-2018-25032">
+- [Trinadh465/external_zlib_AOSP10_r33_CVE-2018-25032](https://github.com/Trinadh465/external_zlib_AOSP10_r33_CVE-2018-25032)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/external_zlib_AOSP10_r33_CVE-2018-25032">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/external_zlib_AOSP10_r33_CVE-2018-25032">
 
 ---
 ## CVE-2018-25031 (2022-03-11T07:15:00)
