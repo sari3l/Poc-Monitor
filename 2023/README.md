@@ -103,6 +103,7 @@
 > Microsoft Outlook Elevation of Privilege Vulnerability
 - [sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY](https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY)	<img alt="forks" src="https://img.shields.io/github/forks/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY">	<img alt="stars" src="https://img.shields.io/github/stars/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY">
 - [j0eyv/CVE-2023-23397](https://github.com/j0eyv/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/j0eyv/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/j0eyv/CVE-2023-23397">
+- [alicangnll/CVE-2023-23397](https://github.com/alicangnll/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/alicangnll/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/alicangnll/CVE-2023-23397">
 
 ---
 ## CVE-2023-23333 (2023-02-06T22:15:00)
