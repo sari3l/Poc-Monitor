@@ -138,6 +138,11 @@
 - [Live-Hack-CVE/CVE-2018-7158](https://github.com/Live-Hack-CVE/CVE-2018-7158)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-7158">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-7158">
 
 ---
+## CVE-2018-6789 (2018-02-08T23:29:00)
+> An issue was discovered in the base64d function in the SMTP listener in Exim before 4.90.1. By sending a handcrafted message, a buffer overflow may happen. This can be used to execute code remotely.
+- [martinclauss/exim-rce-cve-2018-6789](https://github.com/martinclauss/exim-rce-cve-2018-6789)	<img alt="forks" src="https://img.shields.io/github/forks/martinclauss/exim-rce-cve-2018-6789">	<img alt="stars" src="https://img.shields.io/github/stars/martinclauss/exim-rce-cve-2018-6789">
+
+---
 ## CVE-2018-6574 (2018-02-07T21:29:00)
 > Go before 1.8.7, Go 1.9.x before 1.9.4, and Go 1.10 pre-releases before Go 1.10rc2 allow "go get" remote command execution during source code build, by leveraging the gcc or clang plugin feature, because -fplugin= and -plugin= arguments were not blocked.
 - [NBAquicknut/CVE-2018-6574](https://github.com/NBAquicknut/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/NBAquicknut/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/NBAquicknut/CVE-2018-6574">
