@@ -279,7 +279,7 @@
 ---
 ## CVE-2023-1415 (2023-03-15T16:15:00)
 > A vulnerability was found in Simple Art Gallery 1.0. It has been declared as critical. This vulnerability affects the function sliderPicSubmit of the file adminHome.php. The manipulation leads to unrestricted upload. The attack can be initiated remotely. VDB-223126 is the identifier assigned to this vulnerability.
-- [0xxtoby/CVE-2023-1415-](https://github.com/0xxtoby/CVE-2023-1415-)	<img alt="forks" src="https://img.shields.io/github/forks/0xxtoby/CVE-2023-1415-">	<img alt="stars" src="https://img.shields.io/github/stars/0xxtoby/CVE-2023-1415-">
+- [0xxtoby/CVE-2023-1415](https://github.com/0xxtoby/CVE-2023-1415)	<img alt="forks" src="https://img.shields.io/github/forks/0xxtoby/CVE-2023-1415">	<img alt="stars" src="https://img.shields.io/github/stars/0xxtoby/CVE-2023-1415">
 
 ---
 ## CVE-2023-123456 ()
