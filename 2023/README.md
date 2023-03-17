@@ -104,6 +104,11 @@
 - [r3nt0n/CVE-2023-23488-PoC](https://github.com/r3nt0n/CVE-2023-23488-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/r3nt0n/CVE-2023-23488-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/r3nt0n/CVE-2023-23488-PoC">
 
 ---
+## CVE-2023-23415 (2023-03-14T17:15:00)
+> Internet Control Message Protocol (ICMP) Remote Code Execution Vulnerability
+- [wh-gov/CVE-2023-23415](https://github.com/wh-gov/CVE-2023-23415)	<img alt="forks" src="https://img.shields.io/github/forks/wh-gov/CVE-2023-23415">	<img alt="stars" src="https://img.shields.io/github/stars/wh-gov/CVE-2023-23415">
+
+---
 ## CVE-2023-23397 (2023-03-14T17:15:00)
 > Microsoft Outlook Elevation of Privilege Vulnerability
 - [sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY](https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY)	<img alt="forks" src="https://img.shields.io/github/forks/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY">	<img alt="stars" src="https://img.shields.io/github/stars/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY">
@@ -114,6 +119,7 @@
 - [api0cradle/CVE-2023-23397-POC-Powershell](https://github.com/api0cradle/CVE-2023-23397-POC-Powershell)	<img alt="forks" src="https://img.shields.io/github/forks/api0cradle/CVE-2023-23397-POC-Powershell">	<img alt="stars" src="https://img.shields.io/github/stars/api0cradle/CVE-2023-23397-POC-Powershell">
 - [im007/CVE-2023-23397](https://github.com/im007/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/im007/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/im007/CVE-2023-23397">
 - [cleverg0d/CVE-2023-23397-PoC-PowerShell](https://github.com/cleverg0d/CVE-2023-23397-PoC-PowerShell)	<img alt="forks" src="https://img.shields.io/github/forks/cleverg0d/CVE-2023-23397-PoC-PowerShell">	<img alt="stars" src="https://img.shields.io/github/stars/cleverg0d/CVE-2023-23397-PoC-PowerShell">
+- [ahmedkhlief/CVE-2023-23397-POC](https://github.com/ahmedkhlief/CVE-2023-23397-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ahmedkhlief/CVE-2023-23397-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ahmedkhlief/CVE-2023-23397-POC">
 
 ---
 ## CVE-2023-23396 (2023-03-14T17:15:00)
