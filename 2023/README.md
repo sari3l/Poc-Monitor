@@ -113,6 +113,7 @@
 - [ka7ana/CVE-2023-23397](https://github.com/ka7ana/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/ka7ana/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/ka7ana/CVE-2023-23397">
 - [api0cradle/CVE-2023-23397-POC-Powershell](https://github.com/api0cradle/CVE-2023-23397-POC-Powershell)	<img alt="forks" src="https://img.shields.io/github/forks/api0cradle/CVE-2023-23397-POC-Powershell">	<img alt="stars" src="https://img.shields.io/github/stars/api0cradle/CVE-2023-23397-POC-Powershell">
 - [im007/CVE-2023-23397](https://github.com/im007/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/im007/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/im007/CVE-2023-23397">
+- [cleverg0d/CVE-2023-23397-PoC-PowerShell](https://github.com/cleverg0d/CVE-2023-23397-PoC-PowerShell)	<img alt="forks" src="https://img.shields.io/github/forks/cleverg0d/CVE-2023-23397-PoC-PowerShell">	<img alt="stars" src="https://img.shields.io/github/stars/cleverg0d/CVE-2023-23397-PoC-PowerShell">
 
 ---
 ## CVE-2023-23396 (2023-03-14T17:15:00)
