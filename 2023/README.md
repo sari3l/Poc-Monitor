@@ -124,6 +124,7 @@
 - [ahmedkhlief/CVE-2023-23397-POC](https://github.com/ahmedkhlief/CVE-2023-23397-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ahmedkhlief/CVE-2023-23397-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ahmedkhlief/CVE-2023-23397-POC">
 - [BillSkiCO/CVE-2023-23397_EXPLOIT](https://github.com/BillSkiCO/CVE-2023-23397_EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/BillSkiCO/CVE-2023-23397_EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/BillSkiCO/CVE-2023-23397_EXPLOIT">
 - [roughentomologyx/Awesome-CVE-2023-23397](https://github.com/roughentomologyx/Awesome-CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/roughentomologyx/Awesome-CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/roughentomologyx/Awesome-CVE-2023-23397">
+- [djackreuter/CVE-2023-23397-PoC](https://github.com/djackreuter/CVE-2023-23397-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/djackreuter/CVE-2023-23397-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/djackreuter/CVE-2023-23397-PoC">
 
 ---
 ## CVE-2023-23396 (2023-03-14T17:15:00)
