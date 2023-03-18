@@ -123,6 +123,7 @@
 - [cleverg0d/CVE-2023-23397-PoC-PowerShell](https://github.com/cleverg0d/CVE-2023-23397-PoC-PowerShell)	<img alt="forks" src="https://img.shields.io/github/forks/cleverg0d/CVE-2023-23397-PoC-PowerShell">	<img alt="stars" src="https://img.shields.io/github/stars/cleverg0d/CVE-2023-23397-PoC-PowerShell">
 - [ahmedkhlief/CVE-2023-23397-POC](https://github.com/ahmedkhlief/CVE-2023-23397-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ahmedkhlief/CVE-2023-23397-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ahmedkhlief/CVE-2023-23397-POC">
 - [BillSkiCO/CVE-2023-23397_EXPLOIT](https://github.com/BillSkiCO/CVE-2023-23397_EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/BillSkiCO/CVE-2023-23397_EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/BillSkiCO/CVE-2023-23397_EXPLOIT">
+- [roughentomologyx/Awesome-CVE-2023-23397](https://github.com/roughentomologyx/Awesome-CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/roughentomologyx/Awesome-CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/roughentomologyx/Awesome-CVE-2023-23397">
 
 ---
 ## CVE-2023-23396 (2023-03-14T17:15:00)
