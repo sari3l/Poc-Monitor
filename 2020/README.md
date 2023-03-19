@@ -2513,7 +2513,7 @@
 ---
 ## CVE-2020-24815 (2020-11-24T17:15:00)
 > A Server-Side Request Forgery (SSRF) affecting the PDF generation in MicroStrategy 10.4, 2019 before Update 6, and 2020 before Update 2 allows authenticated users to access the content of internal network resources or leak files from the local system via HTML containers embedded in a dossier/dashboard document. NOTE: 10.4., no fix will be released as version will reach end-of-life on 31/12/2020.
-- [ziadanbari2021/exploit-CVE-2020-24815.py](https://github.com/ziadanbari2021/exploit-CVE-2020-24815.py)	<img alt="forks" src="https://img.shields.io/github/forks/ziadanbari2021/exploit-CVE-2020-24815.py">	<img alt="stars" src="https://img.shields.io/github/stars/ziadanbari2021/exploit-CVE-2020-24815.py">
+- [ziadanbari2021/exploit-CVE-2020-24815](https://github.com/ziadanbari2021/exploit-CVE-2020-24815)	<img alt="forks" src="https://img.shields.io/github/forks/ziadanbari2021/exploit-CVE-2020-24815">	<img alt="stars" src="https://img.shields.io/github/stars/ziadanbari2021/exploit-CVE-2020-24815">
 
 ---
 ## CVE-2020-24771 (2022-03-30T02:15:00)
