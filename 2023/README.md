@@ -139,6 +139,7 @@
 - [djackreuter/CVE-2023-23397-PoC](https://github.com/djackreuter/CVE-2023-23397-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/djackreuter/CVE-2023-23397-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/djackreuter/CVE-2023-23397-PoC">
 - [ahmedkhlief/CVE-2023-23397-POC-Using-Interop-Outlook](https://github.com/ahmedkhlief/CVE-2023-23397-POC-Using-Interop-Outlook)	<img alt="forks" src="https://img.shields.io/github/forks/ahmedkhlief/CVE-2023-23397-POC-Using-Interop-Outlook">	<img alt="stars" src="https://img.shields.io/github/stars/ahmedkhlief/CVE-2023-23397-POC-Using-Interop-Outlook">
 - [Trackflaw/CVE-2023-23397](https://github.com/Trackflaw/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/Trackflaw/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/Trackflaw/CVE-2023-23397">
+- [SecCTechs/CVE-2023-23397](https://github.com/SecCTechs/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/SecCTechs/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/SecCTechs/CVE-2023-23397">
 
 ---
 ## CVE-2023-23396 (2023-03-14T17:15:00)
