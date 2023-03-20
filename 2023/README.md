@@ -147,6 +147,7 @@
 ## CVE-2023-23192 ()
 > 
 - [pinarsadioglu/CVE-2023-23192](https://github.com/pinarsadioglu/CVE-2023-23192)	<img alt="forks" src="https://img.shields.io/github/forks/pinarsadioglu/CVE-2023-23192">	<img alt="stars" src="https://img.shields.io/github/stars/pinarsadioglu/CVE-2023-23192">
+- [Penkyzduyi/CVE-2023-23192](https://github.com/Penkyzduyi/CVE-2023-23192)	<img alt="forks" src="https://img.shields.io/github/forks/Penkyzduyi/CVE-2023-23192">	<img alt="stars" src="https://img.shields.io/github/stars/Penkyzduyi/CVE-2023-23192">
 
 ---
 ## CVE-2023-23163 (2023-02-10T20:15:00)
@@ -299,6 +300,11 @@
 ## CVE-2023-1415 (2023-03-15T16:15:00)
 > A vulnerability was found in Simple Art Gallery 1.0. It has been declared as critical. This vulnerability affects the function sliderPicSubmit of the file adminHome.php. The manipulation leads to unrestricted upload. The attack can be initiated remotely. VDB-223126 is the identifier assigned to this vulnerability.
 - [0xxtoby/CVE-2023-1415](https://github.com/0xxtoby/CVE-2023-1415)	<img alt="forks" src="https://img.shields.io/github/forks/0xxtoby/CVE-2023-1415">	<img alt="stars" src="https://img.shields.io/github/stars/0xxtoby/CVE-2023-1415">
+
+---
+## CVE-2023-1337 (2023-03-10T20:15:00)
+> The RapidLoad Power-Up for Autoptimize plugin for WordPress is vulnerable to unauthorized data loss due to a missing capability check on the clear_uucss_logs function in versions up to, and including, 1.7.1. This makes it possible for authenticated attackers with subscriber-level access to delete plugin log files.
+- [Penkyzduyi/CVE-2023-1337](https://github.com/Penkyzduyi/CVE-2023-1337)	<img alt="forks" src="https://img.shields.io/github/forks/Penkyzduyi/CVE-2023-1337">	<img alt="stars" src="https://img.shields.io/github/stars/Penkyzduyi/CVE-2023-1337">
 
 ---
 ## CVE-2023-123456 ()
