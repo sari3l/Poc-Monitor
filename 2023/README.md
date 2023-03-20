@@ -146,7 +146,7 @@
 ---
 ## CVE-2023-23192 ()
 > 
-- [pnsad/CVE-2023-23192](https://github.com/pnsad/CVE-2023-23192)	<img alt="forks" src="https://img.shields.io/github/forks/pnsad/CVE-2023-23192">	<img alt="stars" src="https://img.shields.io/github/stars/pnsad/CVE-2023-23192">
+- [pinarsadioglu/CVE-2023-23192](https://github.com/pinarsadioglu/CVE-2023-23192)	<img alt="forks" src="https://img.shields.io/github/forks/pinarsadioglu/CVE-2023-23192">	<img alt="stars" src="https://img.shields.io/github/stars/pinarsadioglu/CVE-2023-23192">
 
 ---
 ## CVE-2023-23163 (2023-02-10T20:15:00)
