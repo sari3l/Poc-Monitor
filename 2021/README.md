@@ -719,6 +719,7 @@
 - [korteke/log4shell-demo](https://github.com/korteke/log4shell-demo)	<img alt="forks" src="https://img.shields.io/github/forks/korteke/log4shell-demo">	<img alt="stars" src="https://img.shields.io/github/stars/korteke/log4shell-demo">
 - [bsigouin/log4shell-vulnerable-app](https://github.com/bsigouin/log4shell-vulnerable-app)	<img alt="forks" src="https://img.shields.io/github/forks/bsigouin/log4shell-vulnerable-app">	<img alt="stars" src="https://img.shields.io/github/stars/bsigouin/log4shell-vulnerable-app">
 - [michaelsanford/Log4Shell-Honeypot](https://github.com/michaelsanford/Log4Shell-Honeypot)	<img alt="forks" src="https://img.shields.io/github/forks/michaelsanford/Log4Shell-Honeypot">	<img alt="stars" src="https://img.shields.io/github/stars/michaelsanford/Log4Shell-Honeypot">
+- [github-kyruuu/log4shell-vulnweb](https://github.com/github-kyruuu/log4shell-vulnweb)	<img alt="forks" src="https://img.shields.io/github/forks/github-kyruuu/log4shell-vulnweb">	<img alt="stars" src="https://img.shields.io/github/stars/github-kyruuu/log4shell-vulnweb">
 
 ---
 ## CVE-2021-44158 (2022-01-03T10:15:00)
