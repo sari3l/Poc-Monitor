@@ -3964,6 +3964,11 @@
 - [Live-Hack-CVE/CVE-2020-11738](https://github.com/Live-Hack-CVE/CVE-2020-11738)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-11738">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-11738">
 
 ---
+## CVE-2020-11651 (2020-04-30T17:15:00)
+> An issue was discovered in SaltStack Salt before 2019.2.4 and 3000 before 3000.2. The salt-master process ClearFuncs class does not properly validate method calls. This allows a remote user to access some methods without authentication. These methods can be used to retrieve user tokens from the salt master and/or run arbitrary commands on salt minions.
+- [heikanet/CVE-2020-11651-CVE-2020-11652-EXP](https://github.com/heikanet/CVE-2020-11651-CVE-2020-11652-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/heikanet/CVE-2020-11651-CVE-2020-11652-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/heikanet/CVE-2020-11651-CVE-2020-11652-EXP">
+
+---
 ## CVE-2020-11066 (2020-05-14T00:15:00)
 > In TYPO3 CMS greater than or equal to 9.0.0 and less than 9.5.17 and greater than or equal to 10.0.0 and less than 10.4.2, calling unserialize() on malicious user-submitted content can lead to modification of dynamically-determined object attributes and result in triggering deletion of an arbitrary directory in the file system, if it is writable for the web server. It can also trigger message submission via email using the identity of the web site (mail relay). Another insecure deserialization vulnerability is required to actually exploit mentioned aspects. This has been fixed in 9.5.17 and 10.4.2.
 - [Live-Hack-CVE/CVE-2020-11066](https://github.com/Live-Hack-CVE/CVE-2020-11066)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-11066">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-11066">
