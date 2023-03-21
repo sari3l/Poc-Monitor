@@ -5404,6 +5404,8 @@
 ## CVE-2021-30632 (2021-10-08T21:15:00)
 > Out of bounds write in V8 in Google Chrome prior to 93.0.4577.82 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
 - [maldev866/ChExp_CVE-2021-30632](https://github.com/maldev866/ChExp_CVE-2021-30632)	<img alt="forks" src="https://img.shields.io/github/forks/maldev866/ChExp_CVE-2021-30632">	<img alt="stars" src="https://img.shields.io/github/stars/maldev866/ChExp_CVE-2021-30632">
+- [CrackerCat/CVE-2021-30632](https://github.com/CrackerCat/CVE-2021-30632)	<img alt="forks" src="https://img.shields.io/github/forks/CrackerCat/CVE-2021-30632">	<img alt="stars" src="https://img.shields.io/github/stars/CrackerCat/CVE-2021-30632">
+- [Phuong39/PoC-CVE-2021-30632](https://github.com/Phuong39/PoC-CVE-2021-30632)	<img alt="forks" src="https://img.shields.io/github/forks/Phuong39/PoC-CVE-2021-30632">	<img alt="stars" src="https://img.shields.io/github/stars/Phuong39/PoC-CVE-2021-30632">
 
 ---
 ## CVE-2021-3060 (2021-11-10T17:15:00)
