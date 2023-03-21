@@ -5401,6 +5401,11 @@
 - [Live-Hack-CVE/CVE-2021-30639](https://github.com/Live-Hack-CVE/CVE-2021-30639)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30639">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30639">
 
 ---
+## CVE-2021-30632 (2021-10-08T21:15:00)
+> Out of bounds write in V8 in Google Chrome prior to 93.0.4577.82 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [maldev866/ChExp_CVE-2021-30632](https://github.com/maldev866/ChExp_CVE-2021-30632)	<img alt="forks" src="https://img.shields.io/github/forks/maldev866/ChExp_CVE-2021-30632">	<img alt="stars" src="https://img.shields.io/github/stars/maldev866/ChExp_CVE-2021-30632">
+
+---
 ## CVE-2021-3060 (2021-11-10T17:15:00)
 > An OS command injection vulnerability in the Simple Certificate Enrollment Protocol (SCEP) feature of PAN-OS software allows an unauthenticated network-based attacker with specific knowledge of the firewall configuration to execute arbitrary code with root user privileges. The attacker must have network access to the GlobalProtect interfaces to exploit this issue. This issue impacts: PAN-OS 8.1 versions earlier than PAN-OS 8.1.20-h1; PAN-OS 9.0 versions earlier than PAN-OS 9.0.14-h3; PAN-OS 9.1 versions earlier than PAN-OS 9.1.11-h2; PAN-OS 10.0 versions earlier than PAN-OS 10.0.8; PAN-OS 10.1 versions earlier than PAN-OS 10.1.3. Prisma Access customers with Prisma Access 2.1 Preferred and Prisma Access 2.1 Innovation firewalls are impacted by this issue.
 - [timb-machine-mirrors/cve-2021-3060.py](https://github.com/timb-machine-mirrors/cve-2021-3060.py)	<img alt="forks" src="https://img.shields.io/github/forks/timb-machine-mirrors/cve-2021-3060.py">	<img alt="stars" src="https://img.shields.io/github/stars/timb-machine-mirrors/cve-2021-3060.py">
