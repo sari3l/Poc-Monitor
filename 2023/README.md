@@ -11,8 +11,8 @@
 - [gobysec/CVE-2023-28343](https://github.com/gobysec/CVE-2023-28343)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/CVE-2023-28343">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/CVE-2023-28343">
 
 ---
-## CVE-2023-27842 ()
-> 
+## CVE-2023-27842 (2023-03-21T15:15:00)
+> Insecure Permissions vulnerability found in Extplorer File manager eXtplorer v.2.1.15 allows a remote attacker to execute arbitrary code via the index.php compenent
 - [tristao-marinho/CVE-2023-27842](https://github.com/tristao-marinho/CVE-2023-27842)	<img alt="forks" src="https://img.shields.io/github/forks/tristao-marinho/CVE-2023-27842">	<img alt="stars" src="https://img.shields.io/github/stars/tristao-marinho/CVE-2023-27842">
 
 ---
