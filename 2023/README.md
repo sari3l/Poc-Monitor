@@ -105,6 +105,11 @@
 - [aliestercrowleymv/CVE-2023-23752-Vulnerability-Scanner](https://github.com/aliestercrowleymv/CVE-2023-23752-Vulnerability-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/aliestercrowleymv/CVE-2023-23752-Vulnerability-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/aliestercrowleymv/CVE-2023-23752-Vulnerability-Scanner">
 
 ---
+## CVE-2023-23638 (2023-03-08T11:15:00)
+> A deserialization vulnerability existed when dubbo generic invoke, which could lead to malicious code execution. This issue affects Apache Dubbo 2.7.x version 2.7.21 and prior versions; Apache Dubbo 3.0.x version 3.0.13 and prior versions; Apache Dubbo 3.1.x version 3.1.5 and prior versions.
+- [X1r0z/CVE-2023-23638](https://github.com/X1r0z/CVE-2023-23638)	<img alt="forks" src="https://img.shields.io/github/forks/X1r0z/CVE-2023-23638">	<img alt="stars" src="https://img.shields.io/github/stars/X1r0z/CVE-2023-23638">
+
+---
 ## CVE-2023-23504 (2023-02-27T20:15:00)
 > The issue was addressed with improved memory handling. This issue is fixed in macOS Ventura 13.2, macOS Monterey 12.6.3, iOS 15.7.3 and iPadOS 15.7.3, tvOS 16.3, watchOS 9.3, iOS 16.3 and iPadOS 16.3. An app may be able to execute arbitrary code with kernel privileges.
 - [zeroc00I/CVE-2023-23504](https://github.com/zeroc00I/CVE-2023-23504)	<img alt="forks" src="https://img.shields.io/github/forks/zeroc00I/CVE-2023-23504">	<img alt="stars" src="https://img.shields.io/github/stars/zeroc00I/CVE-2023-23504">
