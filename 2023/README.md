@@ -151,6 +151,7 @@
 - [Trackflaw/CVE-2023-23397](https://github.com/Trackflaw/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/Trackflaw/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/Trackflaw/CVE-2023-23397">
 - [SecCTechs/CVE-2023-23397](https://github.com/SecCTechs/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/SecCTechs/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/SecCTechs/CVE-2023-23397">
 - [tiepologian/CVE-2023-23397](https://github.com/tiepologian/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/tiepologian/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/tiepologian/CVE-2023-23397">
+- [BronzeBee/cve-2023-23397](https://github.com/BronzeBee/cve-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/BronzeBee/cve-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/BronzeBee/cve-2023-23397">
 
 ---
 ## CVE-2023-23396 (2023-03-14T17:15:00)
