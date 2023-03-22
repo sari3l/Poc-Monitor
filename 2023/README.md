@@ -319,6 +319,11 @@
 - [bigozzzz/popular-cves-scanner](https://github.com/bigozzzz/popular-cves-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/bigozzzz/popular-cves-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/bigozzzz/popular-cves-scanner">
 
 ---
+## CVE-2023-21036 ()
+> 
+- [infobyte/CVE-2023-21036](https://github.com/infobyte/CVE-2023-21036)	<img alt="forks" src="https://img.shields.io/github/forks/infobyte/CVE-2023-21036">	<img alt="stars" src="https://img.shields.io/github/stars/infobyte/CVE-2023-21036">
+
+---
 ## CVE-2023-20921 (2023-01-26T21:18:00)
 > In onPackageRemoved of AccessibilityManagerService.java, there is a possibility to automatically grant accessibility services due to a logic error in the code. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-243378132
 - [nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-20921](https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-20921)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-20921">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-20921">
