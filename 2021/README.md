@@ -721,6 +721,8 @@
 - [bsigouin/log4shell-vulnerable-app](https://github.com/bsigouin/log4shell-vulnerable-app)	<img alt="forks" src="https://img.shields.io/github/forks/bsigouin/log4shell-vulnerable-app">	<img alt="stars" src="https://img.shields.io/github/stars/bsigouin/log4shell-vulnerable-app">
 - [michaelsanford/Log4Shell-Honeypot](https://github.com/michaelsanford/Log4Shell-Honeypot)	<img alt="forks" src="https://img.shields.io/github/forks/michaelsanford/Log4Shell-Honeypot">	<img alt="stars" src="https://img.shields.io/github/stars/michaelsanford/Log4Shell-Honeypot">
 - [github-kyruuu/log4shell-vulnweb](https://github.com/github-kyruuu/log4shell-vulnweb)	<img alt="forks" src="https://img.shields.io/github/forks/github-kyruuu/log4shell-vulnweb">	<img alt="stars" src="https://img.shields.io/github/stars/github-kyruuu/log4shell-vulnweb">
+- [Qualys/log4jscanwin](https://github.com/Qualys/log4jscanwin)	<img alt="forks" src="https://img.shields.io/github/forks/Qualys/log4jscanwin">	<img alt="stars" src="https://img.shields.io/github/stars/Qualys/log4jscanwin">
+- [rejupillai/log4j2-hack-springboot](https://github.com/rejupillai/log4j2-hack-springboot)	<img alt="forks" src="https://img.shields.io/github/forks/rejupillai/log4j2-hack-springboot">	<img alt="stars" src="https://img.shields.io/github/stars/rejupillai/log4j2-hack-springboot">
 
 ---
 ## CVE-2021-44158 (2022-01-03T10:15:00)
