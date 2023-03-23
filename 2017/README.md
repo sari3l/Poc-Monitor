@@ -847,6 +847,11 @@
 - [Live-Hack-CVE/CVE-2017-14432](https://github.com/Live-Hack-CVE/CVE-2017-14432)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-14432">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-14432">
 
 ---
+## CVE-2017-12615 (2017-09-19T13:29:00)
+> When running Apache Tomcat 7.0.0 to 7.0.79 on Windows with HTTP PUTs enabled (e.g. via setting the readonly initialisation parameter of the Default to false) it was possible to upload a JSP file to the server via a specially crafted request. This JSP could then be requested and any code it contained would be executed by the server.
+- [gk0d/CVE-2017-12615-POC-EXP](https://github.com/gk0d/CVE-2017-12615-POC-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/gk0d/CVE-2017-12615-POC-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/gk0d/CVE-2017-12615-POC-EXP">
+
+---
 ## CVE-2017-12561 (2018-02-15T22:29:00)
 > A remote code execution vulnerability in HPE intelligent Management Center (iMC) PLAT version Plat 7.3 E0504P4 and earlier was found.
 - [Everdoh/CVE-2017-12561](https://github.com/Everdoh/CVE-2017-12561)	<img alt="forks" src="https://img.shields.io/github/forks/Everdoh/CVE-2017-12561">	<img alt="stars" src="https://img.shields.io/github/stars/Everdoh/CVE-2017-12561">
