@@ -36,6 +36,7 @@
 ## CVE-2023-27532 (2023-03-10T22:15:00)
 > Vulnerability in Veeam Backup & Replication component allows encrypted credentials stored in the configuration database to be obtained. This may lead to gaining access to the backup infrastructure hosts.
 - [sfewer-r7/CVE-2023-27532](https://github.com/sfewer-r7/CVE-2023-27532)	<img alt="forks" src="https://img.shields.io/github/forks/sfewer-r7/CVE-2023-27532">	<img alt="stars" src="https://img.shields.io/github/stars/sfewer-r7/CVE-2023-27532">
+- [horizon3ai/CVE-2023-27532](https://github.com/horizon3ai/CVE-2023-27532)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2023-27532">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2023-27532">
 
 ---
 ## CVE-2023-27326 ()
