@@ -796,6 +796,11 @@
 - [Live-Hack-CVE/CVE-2016-15005](https://github.com/Live-Hack-CVE/CVE-2016-15005)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-15005">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-15005">
 
 ---
+## CVE-2016-12615 ()
+> 
+- [gk0d/CVE-2016-12615-POC-EXP](https://github.com/gk0d/CVE-2016-12615-POC-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/gk0d/CVE-2016-12615-POC-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/gk0d/CVE-2016-12615-POC-EXP">
+
+---
 ## CVE-2016-10993 (2019-09-17T15:15:00)
 > The ScoreMe theme through 2016-04-01 for WordPress has XSS via the s parameter.
 - [varelsecurity/CVE-2016-10993](https://github.com/varelsecurity/CVE-2016-10993)	<img alt="forks" src="https://img.shields.io/github/forks/varelsecurity/CVE-2016-10993">	<img alt="stars" src="https://img.shields.io/github/stars/varelsecurity/CVE-2016-10993">
