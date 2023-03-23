@@ -3643,7 +3643,7 @@
 ## CVE-2020-13933 (2020-08-17T21:15:00)
 > Apache Shiro before 1.6.0, when using Apache Shiro, a specially crafted HTTP request may cause an authentication bypass.
 - [lyy289065406/CVE-2020-13933](https://github.com/lyy289065406/CVE-2020-13933)	<img alt="forks" src="https://img.shields.io/github/forks/lyy289065406/CVE-2020-13933">	<img alt="stars" src="https://img.shields.io/github/stars/lyy289065406/CVE-2020-13933">
-- [kunFeng1998/CVE-2020-13933Project](https://github.com/kunFeng1998/CVE-2020-13933Project)	<img alt="forks" src="https://img.shields.io/github/forks/kunFeng1998/CVE-2020-13933Project">	<img alt="stars" src="https://img.shields.io/github/stars/kunFeng1998/CVE-2020-13933Project">
+- [KingBangQ/CVE-2020-13933Project](https://github.com/KingBangQ/CVE-2020-13933Project)	<img alt="forks" src="https://img.shields.io/github/forks/KingBangQ/CVE-2020-13933Project">	<img alt="stars" src="https://img.shields.io/github/stars/KingBangQ/CVE-2020-13933Project">
 - [0xkami/cve-2020-13933](https://github.com/0xkami/cve-2020-13933)	<img alt="forks" src="https://img.shields.io/github/forks/0xkami/cve-2020-13933">	<img alt="stars" src="https://img.shields.io/github/stars/0xkami/cve-2020-13933">
 
 ---
