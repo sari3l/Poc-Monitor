@@ -152,6 +152,7 @@
 - [SecCTechs/CVE-2023-23397](https://github.com/SecCTechs/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/SecCTechs/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/SecCTechs/CVE-2023-23397">
 - [tiepologian/CVE-2023-23397](https://github.com/tiepologian/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/tiepologian/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/tiepologian/CVE-2023-23397">
 - [BronzeBee/cve-2023-23397](https://github.com/BronzeBee/cve-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/BronzeBee/cve-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/BronzeBee/cve-2023-23397">
+- [securiteinfo/expl_outlook_cve_2023_23397_securiteinfo.yar](https://github.com/securiteinfo/expl_outlook_cve_2023_23397_securiteinfo.yar)	<img alt="forks" src="https://img.shields.io/github/forks/securiteinfo/expl_outlook_cve_2023_23397_securiteinfo.yar">	<img alt="stars" src="https://img.shields.io/github/stars/securiteinfo/expl_outlook_cve_2023_23397_securiteinfo.yar">
 
 ---
 ## CVE-2023-23396 (2023-03-14T17:15:00)
