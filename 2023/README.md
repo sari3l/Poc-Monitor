@@ -176,6 +176,8 @@
 - [BronzeBee/cve-2023-23397](https://github.com/BronzeBee/cve-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/BronzeBee/cve-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/BronzeBee/cve-2023-23397">
 - [securiteinfo/expl_outlook_cve_2023_23397_securiteinfo.yar](https://github.com/securiteinfo/expl_outlook_cve_2023_23397_securiteinfo.yar)	<img alt="forks" src="https://img.shields.io/github/forks/securiteinfo/expl_outlook_cve_2023_23397_securiteinfo.yar">	<img alt="stars" src="https://img.shields.io/github/stars/securiteinfo/expl_outlook_cve_2023_23397_securiteinfo.yar">
 - [stevesec/CVE-2023-23397](https://github.com/stevesec/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/stevesec/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/stevesec/CVE-2023-23397">
+- [Zeppperoni/CVE-2023-23397-Patch](https://github.com/Zeppperoni/CVE-2023-23397-Patch)	<img alt="forks" src="https://img.shields.io/github/forks/Zeppperoni/CVE-2023-23397-Patch">	<img alt="stars" src="https://img.shields.io/github/stars/Zeppperoni/CVE-2023-23397-Patch">
+- [madelynadams9/CVE-2023-23397-Report](https://github.com/madelynadams9/CVE-2023-23397-Report)	<img alt="forks" src="https://img.shields.io/github/forks/madelynadams9/CVE-2023-23397-Report">	<img alt="stars" src="https://img.shields.io/github/stars/madelynadams9/CVE-2023-23397-Report">
 
 ---
 ## CVE-2023-23396 (2023-03-14T17:15:00)
