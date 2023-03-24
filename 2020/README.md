@@ -146,6 +146,17 @@
 - [Live-Hack-CVE/CVE-2020-8968](https://github.com/Live-Hack-CVE/CVE-2020-8968)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8968">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8968">
 
 ---
+## CVE-2020-8835 (2020-04-02T18:15:00)
+> In the Linux kernel 5.5.0 and newer, the bpf verifier (kernel/bpf/verifier.c) did not properly restrict the register bounds for 32-bit operations, leading to out-of-bounds reads and writes in kernel memory. The vulnerability also affects the Linux 5.4 stable series, starting with v5.4.7, as the introducing commit was backported to that branch. This vulnerability was fixed in 5.6.1, 5.5.14, and 5.4.29. (issue is aka ZDI-CAN-10780)
+- [johnatag/INF8602-CVE-2020-8835](https://github.com/johnatag/INF8602-CVE-2020-8835)	<img alt="forks" src="https://img.shields.io/github/forks/johnatag/INF8602-CVE-2020-8835">	<img alt="stars" src="https://img.shields.io/github/stars/johnatag/INF8602-CVE-2020-8835">
+- [digamma-ai/CVE-2020-8835-verification](https://github.com/digamma-ai/CVE-2020-8835-verification)	<img alt="forks" src="https://img.shields.io/github/forks/digamma-ai/CVE-2020-8835-verification">	<img alt="stars" src="https://img.shields.io/github/stars/digamma-ai/CVE-2020-8835-verification">
+- [SplendidSky/CVE-2020-8835](https://github.com/SplendidSky/CVE-2020-8835)	<img alt="forks" src="https://img.shields.io/github/forks/SplendidSky/CVE-2020-8835">	<img alt="stars" src="https://img.shields.io/github/stars/SplendidSky/CVE-2020-8835">
+- [zilong3033/CVE-2020-8835](https://github.com/zilong3033/CVE-2020-8835)	<img alt="forks" src="https://img.shields.io/github/forks/zilong3033/CVE-2020-8835">	<img alt="stars" src="https://img.shields.io/github/stars/zilong3033/CVE-2020-8835">
+- [snappyJack/Rick_write_exp_CVE-2020-8835](https://github.com/snappyJack/Rick_write_exp_CVE-2020-8835)	<img alt="forks" src="https://img.shields.io/github/forks/snappyJack/Rick_write_exp_CVE-2020-8835">	<img alt="stars" src="https://img.shields.io/github/stars/snappyJack/Rick_write_exp_CVE-2020-8835">
+- [KashaMalaga/cve2020-8835](https://github.com/KashaMalaga/cve2020-8835)	<img alt="forks" src="https://img.shields.io/github/forks/KashaMalaga/cve2020-8835">	<img alt="stars" src="https://img.shields.io/github/stars/KashaMalaga/cve2020-8835">
+- [Prabhashaka/Exploitation-CVE-2020-8835](https://github.com/Prabhashaka/Exploitation-CVE-2020-8835)	<img alt="forks" src="https://img.shields.io/github/forks/Prabhashaka/Exploitation-CVE-2020-8835">	<img alt="stars" src="https://img.shields.io/github/stars/Prabhashaka/Exploitation-CVE-2020-8835">
+
+---
 ## CVE-2020-8832 (2020-04-10T00:15:00)
 > The fix for the Linux kernel in Ubuntu 18.04 LTS for CVE-2019-14615 ("The Linux kernel did not properly clear data structures on context switches for certain Intel graphics processors.") was discovered to be incomplete, meaning that in versions of the kernel before 4.15.0-91.92, an attacker could use this vulnerability to expose sensitive information.
 - [Live-Hack-CVE/CVE-2020-8832](https://github.com/Live-Hack-CVE/CVE-2020-8832)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8832">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8832">
