@@ -344,6 +344,7 @@
 > 
 - [infobyte/CVE-2023-21036](https://github.com/infobyte/CVE-2023-21036)	<img alt="forks" src="https://img.shields.io/github/forks/infobyte/CVE-2023-21036">	<img alt="stars" src="https://img.shields.io/github/stars/infobyte/CVE-2023-21036">
 - [qixils/anticropalypse](https://github.com/qixils/anticropalypse)	<img alt="forks" src="https://img.shields.io/github/forks/qixils/anticropalypse">	<img alt="stars" src="https://img.shields.io/github/stars/qixils/anticropalypse">
+- [maddiethecafebabe/discord-acropolypse-bot](https://github.com/maddiethecafebabe/discord-acropolypse-bot)	<img alt="forks" src="https://img.shields.io/github/forks/maddiethecafebabe/discord-acropolypse-bot">	<img alt="stars" src="https://img.shields.io/github/stars/maddiethecafebabe/discord-acropolypse-bot">
 
 ---
 ## CVE-2023-20921 (2023-01-26T21:18:00)
