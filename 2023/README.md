@@ -15,6 +15,7 @@
 > Minio is a Multi-Cloud Object Storage framework. In a cluster deployment starting with RELEASE.2019-12-17T23-16-33Z and prior to RELEASE.2023-03-20T20-16-18Z, MinIO returns all environment variables, including `MINIO_SECRET_KEY` and `MINIO_ROOT_PASSWORD`, resulting in information disclosure. All users of distributed deployment are impacted. All users are advised to upgrade to RELEASE.2023-03-20T20-16-18Z.
 - [Mr-xn/CVE-2023-28432](https://github.com/Mr-xn/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2023-28432">
 - [gobysec/CVE-2023-28432](https://github.com/gobysec/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/CVE-2023-28432">
+- [Okaytc/minio_unauth_check](https://github.com/Okaytc/minio_unauth_check)	<img alt="forks" src="https://img.shields.io/github/forks/Okaytc/minio_unauth_check">	<img alt="stars" src="https://img.shields.io/github/stars/Okaytc/minio_unauth_check">
 
 ---
 ## CVE-2023-28343 (2023-03-14T20:15:00)
