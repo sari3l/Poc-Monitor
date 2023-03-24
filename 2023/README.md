@@ -352,6 +352,11 @@
 - [nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-20921](https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-20921)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-20921">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-20921">
 
 ---
+## CVE-2023-20860 ()
+> 
+- [limo520/CVE-2023-20860](https://github.com/limo520/CVE-2023-20860)	<img alt="forks" src="https://img.shields.io/github/forks/limo520/CVE-2023-20860">	<img alt="stars" src="https://img.shields.io/github/stars/limo520/CVE-2023-20860">
+
+---
 ## CVE-2023-1454 (2023-03-17T07:15:00)
 > A vulnerability classified as critical has been found in jeecg-boot 3.5.0. This affects an unknown part of the file jmreport/qurestSql. The manipulation of the argument apiSelectId leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-223299.
 - [gobysec/CVE-2023-1454](https://github.com/gobysec/CVE-2023-1454)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/CVE-2023-1454">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/CVE-2023-1454">
