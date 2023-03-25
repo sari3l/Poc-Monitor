@@ -51,6 +51,7 @@
 - [kowshik-sundararajan/CVE-2014-6271](https://github.com/kowshik-sundararajan/CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/kowshik-sundararajan/CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/kowshik-sundararajan/CVE-2014-6271">
 - [mritunjay-k/CVE-2014-6271](https://github.com/mritunjay-k/CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/mritunjay-k/CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/mritunjay-k/CVE-2014-6271">
 - [hadrian3689/shellshock](https://github.com/hadrian3689/shellshock)	<img alt="forks" src="https://img.shields.io/github/forks/hadrian3689/shellshock">	<img alt="stars" src="https://img.shields.io/github/stars/hadrian3689/shellshock">
+- [Brandaoo/CVE-2014-6271](https://github.com/Brandaoo/CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/Brandaoo/CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/Brandaoo/CVE-2014-6271">
 
 ---
 ## CVE-2014-6230 (2014-10-25T00:55:00)
