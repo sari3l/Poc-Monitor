@@ -29,6 +29,7 @@
 ## CVE-2023-27842 (2023-03-21T15:15:00)
 > Insecure Permissions vulnerability found in Extplorer File manager eXtplorer v.2.1.15 allows a remote attacker to execute arbitrary code via the index.php compenent
 - [tristao-marinho/CVE-2023-27842](https://github.com/tristao-marinho/CVE-2023-27842)	<img alt="forks" src="https://img.shields.io/github/forks/tristao-marinho/CVE-2023-27842">	<img alt="stars" src="https://img.shields.io/github/stars/tristao-marinho/CVE-2023-27842">
+- [0xFTW/CVE-2023-27842](https://github.com/0xFTW/CVE-2023-27842)	<img alt="forks" src="https://img.shields.io/github/forks/0xFTW/CVE-2023-27842">	<img alt="stars" src="https://img.shields.io/github/stars/0xFTW/CVE-2023-27842">
 
 ---
 ## CVE-2023-27587 (2023-03-13T22:15:00)
