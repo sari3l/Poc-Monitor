@@ -1782,6 +1782,12 @@
 ## CVE-2019-1653 (2019-01-24T16:29:00)
 > A vulnerability in the web-based management interface of Cisco Small Business RV320 and RV325 Dual Gigabit WAN VPN Routers could allow an unauthenticated, remote attacker to retrieve sensitive information. The vulnerability is due to improper access controls for URLs. An attacker could exploit this vulnerability by connecting to an affected device via HTTP or HTTPS and requesting specific URLs. A successful exploit could allow the attacker to download the router configuration or detailed diagnostic information. Cisco has released firmware updates that address this vulnerability.
 - [ibrahimzx/CVE-2019-1653](https://github.com/ibrahimzx/CVE-2019-1653)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahimzx/CVE-2019-1653">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahimzx/CVE-2019-1653">
+- [helGayhub233/CVE-2019-1653](https://github.com/helGayhub233/CVE-2019-1653)	<img alt="forks" src="https://img.shields.io/github/forks/helGayhub233/CVE-2019-1653">	<img alt="stars" src="https://img.shields.io/github/stars/helGayhub233/CVE-2019-1653">
+- [S3ntinelX/nmap-scripts](https://github.com/S3ntinelX/nmap-scripts)	<img alt="forks" src="https://img.shields.io/github/forks/S3ntinelX/nmap-scripts">	<img alt="stars" src="https://img.shields.io/github/stars/S3ntinelX/nmap-scripts">
+- [k8gege/CiscoExploit](https://github.com/k8gege/CiscoExploit)	<img alt="forks" src="https://img.shields.io/github/forks/k8gege/CiscoExploit">	<img alt="stars" src="https://img.shields.io/github/stars/k8gege/CiscoExploit">
+- [shaheemirza/CiscoSpill](https://github.com/shaheemirza/CiscoSpill)	<img alt="forks" src="https://img.shields.io/github/forks/shaheemirza/CiscoSpill">	<img alt="stars" src="https://img.shields.io/github/stars/shaheemirza/CiscoSpill">
+- [0x27/CiscoRV320Dump](https://github.com/0x27/CiscoRV320Dump)	<img alt="forks" src="https://img.shields.io/github/forks/0x27/CiscoRV320Dump">	<img alt="stars" src="https://img.shields.io/github/stars/0x27/CiscoRV320Dump">
+- [dubfr33/CVE-2019-1653](https://github.com/dubfr33/CVE-2019-1653)	<img alt="forks" src="https://img.shields.io/github/forks/dubfr33/CVE-2019-1653">	<img alt="stars" src="https://img.shields.io/github/stars/dubfr33/CVE-2019-1653">
 
 ---
 ## CVE-2019-1649 (2019-05-13T19:29:00)
