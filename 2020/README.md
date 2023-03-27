@@ -3311,6 +3311,11 @@
 - [Live-Hack-CVE/CVE-2020-15798](https://github.com/Live-Hack-CVE/CVE-2020-15798)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15798">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15798">
 
 ---
+## CVE-2020-15778 (2020-07-24T14:15:00)
+> ** DISPUTED ** scp in OpenSSH through 8.3p1 allows command injection in the scp.c toremote function, as demonstrated by backtick characters in the destination argument. NOTE: the vendor reportedly has stated that they intentionally omit validation of "anomalous argument transfers" because that could "stand a great chance of breaking existing workflows."
+- [cpandya2909/CVE-2020-15778](https://github.com/cpandya2909/CVE-2020-15778)	<img alt="forks" src="https://img.shields.io/github/forks/cpandya2909/CVE-2020-15778">	<img alt="stars" src="https://img.shields.io/github/stars/cpandya2909/CVE-2020-15778">
+
+---
 ## CVE-2020-15685 (2022-12-22T20:15:00)
 > During the plaintext phase of the STARTTLS connection setup, protocol commands could have been injected and evaluated within the encrypted session. This vulnerability affects Thunderbird < 78.7.
 - [Live-Hack-CVE/CVE-2020-15685](https://github.com/Live-Hack-CVE/CVE-2020-15685)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15685">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15685">
