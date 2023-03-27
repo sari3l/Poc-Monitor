@@ -63,8 +63,8 @@
 - [PSIRT-REPO/CVE-2023-25610](https://github.com/PSIRT-REPO/CVE-2023-25610)	<img alt="forks" src="https://img.shields.io/github/forks/PSIRT-REPO/CVE-2023-25610">	<img alt="stars" src="https://img.shields.io/github/stars/PSIRT-REPO/CVE-2023-25610">
 
 ---
-## CVE-2023-25263 ()
-> 
+## CVE-2023-25263 (2023-03-27T21:15:00)
+> In Stimulsoft Designer (Desktop) 2023.1.5, and 2023.1.4, once an attacker decompiles the Stimulsoft.report.dll the attacker is able to decrypt any connectionstring stored in .mrt files since a static secret is used. The secret does not differ between the tested versions and different operating systems.
 - [trustcves/CVE-2023-25263](https://github.com/trustcves/CVE-2023-25263)	<img alt="forks" src="https://img.shields.io/github/forks/trustcves/CVE-2023-25263">	<img alt="stars" src="https://img.shields.io/github/stars/trustcves/CVE-2023-25263">
 
 ---
@@ -73,8 +73,8 @@
 - [trustcves/CVE-2023-25262](https://github.com/trustcves/CVE-2023-25262)	<img alt="forks" src="https://img.shields.io/github/forks/trustcves/CVE-2023-25262">	<img alt="stars" src="https://img.shields.io/github/stars/trustcves/CVE-2023-25262">
 
 ---
-## CVE-2023-25261 ()
-> 
+## CVE-2023-25261 (2023-03-27T21:15:00)
+> Certain Stimulsoft GmbH products are affected by: Remote Code Execution. This affects Stimulsoft Designer (Desktop) 2023.1.4 and Stimulsoft Designer (Web) 2023.1.3 and Stimulsoft Viewer (Web) 2023.1.3. Access to the local file system is not prohibited in any way. Therefore, an attacker may include source code which reads or writes local directories and files. It is also possible for the attacker to prepare a report which has a variable that holds the gathered data and render it in the report.
 - [trustcves/CVE-2023-25261](https://github.com/trustcves/CVE-2023-25261)	<img alt="forks" src="https://img.shields.io/github/forks/trustcves/CVE-2023-25261">	<img alt="stars" src="https://img.shields.io/github/stars/trustcves/CVE-2023-25261">
 
 ---
