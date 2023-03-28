@@ -387,8 +387,8 @@
 - [nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-20921](https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-20921)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-20921">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-20921">
 
 ---
-## CVE-2023-20860 ()
-> 
+## CVE-2023-20860 (2023-03-27T22:15:00)
+> Spring Framework running version 6.0.0 - 6.0.6 or 5.3.0 - 5.3.25 using "**" as a pattern in Spring Security configuration with the mvcRequestMatcher creates a mismatch in pattern matching between Spring Security and Spring MVC, and the potential for a security bypass.
 - [limo520/CVE-2023-20860](https://github.com/limo520/CVE-2023-20860)	<img alt="forks" src="https://img.shields.io/github/forks/limo520/CVE-2023-20860">	<img alt="stars" src="https://img.shields.io/github/stars/limo520/CVE-2023-20860">
 
 ---
@@ -455,8 +455,8 @@
 - [twwd/CVE-2023-0264](https://github.com/twwd/CVE-2023-0264)	<img alt="forks" src="https://img.shields.io/github/forks/twwd/CVE-2023-0264">	<img alt="stars" src="https://img.shields.io/github/stars/twwd/CVE-2023-0264">
 
 ---
-## CVE-2023-0179 ()
-> 
+## CVE-2023-0179 (2023-03-27T22:15:00)
+> A buffer overflow vulnerability was found in the Netfilter subsystem in the Linux Kernel. This issue could allow the leakage of both stack and heap addresses, and potentially allow Local Privilege Escalation to the root user via arbitrary code execution.
 - [TurtleARM/CVE-2023-0179-PoC](https://github.com/TurtleARM/CVE-2023-0179-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TurtleARM/CVE-2023-0179-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TurtleARM/CVE-2023-0179-PoC">
 - [H4K6/CVE-2023-0179-PoC](https://github.com/H4K6/CVE-2023-0179-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/H4K6/CVE-2023-0179-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/H4K6/CVE-2023-0179-PoC">
 
