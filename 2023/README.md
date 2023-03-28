@@ -393,6 +393,11 @@
 - [limo520/CVE-2023-20860](https://github.com/limo520/CVE-2023-20860)	<img alt="forks" src="https://img.shields.io/github/forks/limo520/CVE-2023-20860">	<img alt="stars" src="https://img.shields.io/github/stars/limo520/CVE-2023-20860">
 
 ---
+## CVE-2023-1665 (2023-03-27T22:15:00)
+> Improper Restriction of Excessive Authentication Attempts in GitHub repository linagora/twake prior to 0.0.0.
+- [0xsu3ks/CVE-2023-1665](https://github.com/0xsu3ks/CVE-2023-1665)	<img alt="forks" src="https://img.shields.io/github/forks/0xsu3ks/CVE-2023-1665">	<img alt="stars" src="https://img.shields.io/github/stars/0xsu3ks/CVE-2023-1665">
+
+---
 ## CVE-2023-1454 (2023-03-17T07:15:00)
 > A vulnerability classified as critical has been found in jeecg-boot 3.5.0. This affects an unknown part of the file jmreport/qurestSql. The manipulation of the argument apiSelectId leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-223299.
 - [gobysec/CVE-2023-1454](https://github.com/gobysec/CVE-2023-1454)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/CVE-2023-1454">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/CVE-2023-1454">
