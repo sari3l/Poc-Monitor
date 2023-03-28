@@ -78,8 +78,8 @@
 - [trustcves/CVE-2023-25261](https://github.com/trustcves/CVE-2023-25261)	<img alt="forks" src="https://img.shields.io/github/forks/trustcves/CVE-2023-25261">	<img alt="stars" src="https://img.shields.io/github/stars/trustcves/CVE-2023-25261">
 
 ---
-## CVE-2023-25260 ()
-> 
+## CVE-2023-25260 (2023-03-28T14:15:00)
+> Stimulsoft Designer (Web) 2023.1.3 is vulnerable to Local File Inclusion.
 - [trustcves/CVE-2023-25260](https://github.com/trustcves/CVE-2023-25260)	<img alt="forks" src="https://img.shields.io/github/forks/trustcves/CVE-2023-25260">	<img alt="stars" src="https://img.shields.io/github/stars/trustcves/CVE-2023-25260">
 
 ---
