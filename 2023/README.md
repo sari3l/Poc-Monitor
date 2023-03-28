@@ -68,8 +68,8 @@
 - [trustcves/CVE-2023-25263](https://github.com/trustcves/CVE-2023-25263)	<img alt="forks" src="https://img.shields.io/github/forks/trustcves/CVE-2023-25263">	<img alt="stars" src="https://img.shields.io/github/stars/trustcves/CVE-2023-25263">
 
 ---
-## CVE-2023-25262 ()
-> 
+## CVE-2023-25262 (2023-03-28T01:15:00)
+> Stimulsoft GmbH Stimulsoft Designer (Web) 2023.1.3 is vulnerable to Server Side Request Forgery (SSRF). TThe Reporting Designer (Web) offers the possibility to embed sources from external locations. If the user chooses an external location, the request to that resource is performed by the server rather than the client. Therefore, the server causes outbound traffic and potentially imports data. An attacker may also leverage this behaviour to exfiltrate data of machines on the internal network of the server hosting the Stimulsoft Reporting Designer (Web).
 - [trustcves/CVE-2023-25262](https://github.com/trustcves/CVE-2023-25262)	<img alt="forks" src="https://img.shields.io/github/forks/trustcves/CVE-2023-25262">	<img alt="stars" src="https://img.shields.io/github/stars/trustcves/CVE-2023-25262">
 
 ---
