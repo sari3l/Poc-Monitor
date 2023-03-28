@@ -26,3 +26,8 @@
 ## CVE-2003-0358 (2003-06-09T04:00:00)
 > Buffer overflow in (1) nethack 3.4.0 and earlier, and (2) falconseye 1.9.3 and earlier, which is based on nethack, allows local users to gain privileges via a long -s command line option.
 - [snowcra5h/CVE-2003-0358](https://github.com/snowcra5h/CVE-2003-0358)	<img alt="forks" src="https://img.shields.io/github/forks/snowcra5h/CVE-2003-0358">	<img alt="stars" src="https://img.shields.io/github/stars/snowcra5h/CVE-2003-0358">
+
+---
+## CVE-2003-0172 (2003-04-02T05:00:00)
+> Buffer overflow in openlog function for PHP 4.3.1 on Windows operating system, and possibly other OSes, allows remote attackers to cause a crash and possibly execute arbitrary code via a long filename argument.
+- [cyberdesu/Remote-Buffer-overflow-CVE-2003-0172](https://github.com/cyberdesu/Remote-Buffer-overflow-CVE-2003-0172)	<img alt="forks" src="https://img.shields.io/github/forks/cyberdesu/Remote-Buffer-overflow-CVE-2003-0172">	<img alt="stars" src="https://img.shields.io/github/stars/cyberdesu/Remote-Buffer-overflow-CVE-2003-0172">
