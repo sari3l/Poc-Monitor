@@ -457,6 +457,11 @@
 - [Live-Hack-CVE/CVE-2017-2926](https://github.com/Live-Hack-CVE/CVE-2017-2926)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-2926">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-2926">
 
 ---
+## CVE-2017-2751 (2018-10-03T20:29:00)
+> A BIOS password extraction vulnerability has been reported on certain consumer notebooks with firmware F.22 and others. The BIOS password was stored in CMOS in a way that allowed it to be extracted. This applies to consumer notebooks launched in early 2014.
+- [BaderSZ/CVE-2017-2751](https://github.com/BaderSZ/CVE-2017-2751)	<img alt="forks" src="https://img.shields.io/github/forks/BaderSZ/CVE-2017-2751">	<img alt="stars" src="https://img.shields.io/github/stars/BaderSZ/CVE-2017-2751">
+
+---
 ## CVE-2017-2619 (2018-03-12T15:29:00)
 > Samba before versions 4.6.1, 4.5.7 and 4.4.11 are vulnerable to a malicious client using a symlink race to allow access to areas of the server file system not exported under the share definition.
 - [Live-Hack-CVE/CVE-2017-2619](https://github.com/Live-Hack-CVE/CVE-2017-2619)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-2619">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-2619">
