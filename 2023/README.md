@@ -21,6 +21,7 @@
 - [peiqiF4ck/WebFrameworkTools-5.1-main](https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/WebFrameworkTools-5.1-main">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.1-main">
 - [steponeerror/Cve-2023-28432-](https://github.com/steponeerror/Cve-2023-28432-)	<img alt="forks" src="https://img.shields.io/github/forks/steponeerror/Cve-2023-28432-">	<img alt="stars" src="https://img.shields.io/github/stars/steponeerror/Cve-2023-28432-">
 - [yuyongxr/minio_cve-2023-28432](https://github.com/yuyongxr/minio_cve-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/yuyongxr/minio_cve-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/yuyongxr/minio_cve-2023-28432">
+- [Cuerz/CVE-2023-28432](https://github.com/Cuerz/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/Cuerz/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/Cuerz/CVE-2023-28432">
 
 ---
 ## CVE-2023-28343 (2023-03-14T20:15:00)
@@ -49,6 +50,11 @@
 ## CVE-2023-27326 ()
 > 
 - [Impalabs/CVE-2023-27326](https://github.com/Impalabs/CVE-2023-27326)	<img alt="forks" src="https://img.shields.io/github/forks/Impalabs/CVE-2023-27326">	<img alt="stars" src="https://img.shields.io/github/stars/Impalabs/CVE-2023-27326">
+
+---
+## CVE-2023-26982 ()
+> 
+- [bypazs/CVE-2023-26982](https://github.com/bypazs/CVE-2023-26982)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/CVE-2023-26982">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/CVE-2023-26982">
 
 ---
 ## CVE-2023-26604 (2023-03-03T16:15:00)
@@ -93,6 +99,11 @@
 - [jfrog/jfrog-CVE-2023-25136-OpenSSH_Double-Free](https://github.com/jfrog/jfrog-CVE-2023-25136-OpenSSH_Double-Free)	<img alt="forks" src="https://img.shields.io/github/forks/jfrog/jfrog-CVE-2023-25136-OpenSSH_Double-Free">	<img alt="stars" src="https://img.shields.io/github/stars/jfrog/jfrog-CVE-2023-25136-OpenSSH_Double-Free">
 - [ticofookfook/CVE-2023-25136](https://github.com/ticofookfook/CVE-2023-25136)	<img alt="forks" src="https://img.shields.io/github/forks/ticofookfook/CVE-2023-25136">	<img alt="stars" src="https://img.shields.io/github/stars/ticofookfook/CVE-2023-25136">
 - [Christbowel/CVE-2023-25136](https://github.com/Christbowel/CVE-2023-25136)	<img alt="forks" src="https://img.shields.io/github/forks/Christbowel/CVE-2023-25136">	<img alt="stars" src="https://img.shields.io/github/stars/Christbowel/CVE-2023-25136">
+
+---
+## CVE-2023-24998 (2023-02-20T16:15:00)
+> Apache Commons FileUpload before 1.5 does not limit the number of request parts to be processed resulting in the possibility of an attacker triggering a DoS with a malicious upload or series of uploads. Note that, like all of the file upload limits, the new configuration option (FileUploadBase#setFileCountMax) is not enabled by default and must be explicitly configured.
+- [nice1st/CVE-2023-24998](https://github.com/nice1st/CVE-2023-24998)	<img alt="forks" src="https://img.shields.io/github/forks/nice1st/CVE-2023-24998">	<img alt="stars" src="https://img.shields.io/github/stars/nice1st/CVE-2023-24998">
 
 ---
 ## CVE-2023-24610 (2023-02-01T14:15:00)
@@ -206,6 +217,7 @@
 - [Zeppperoni/CVE-2023-23397-Patch](https://github.com/Zeppperoni/CVE-2023-23397-Patch)	<img alt="forks" src="https://img.shields.io/github/forks/Zeppperoni/CVE-2023-23397-Patch">	<img alt="stars" src="https://img.shields.io/github/stars/Zeppperoni/CVE-2023-23397-Patch">
 - [madelynadams9/CVE-2023-23397-Report](https://github.com/madelynadams9/CVE-2023-23397-Report)	<img alt="forks" src="https://img.shields.io/github/forks/madelynadams9/CVE-2023-23397-Report">	<img alt="stars" src="https://img.shields.io/github/stars/madelynadams9/CVE-2023-23397-Report">
 - [D7-M/CVE-2023-23397-exploit](https://github.com/D7-M/CVE-2023-23397-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/D7-M/CVE-2023-23397-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/D7-M/CVE-2023-23397-exploit">
+- [jacquesquail/CVE-2023-23397](https://github.com/jacquesquail/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/jacquesquail/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/jacquesquail/CVE-2023-23397">
 
 ---
 ## CVE-2023-23396 (2023-03-14T17:15:00)
