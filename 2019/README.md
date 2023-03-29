@@ -637,6 +637,16 @@
 - [GiovanniCrudo00/Docker-Vulnerabilities-CVE-2019-5736](https://github.com/GiovanniCrudo00/Docker-Vulnerabilities-CVE-2019-5736)	<img alt="forks" src="https://img.shields.io/github/forks/GiovanniCrudo00/Docker-Vulnerabilities-CVE-2019-5736">	<img alt="stars" src="https://img.shields.io/github/stars/GiovanniCrudo00/Docker-Vulnerabilities-CVE-2019-5736">
 
 ---
+## CVE-2019-5603 (2019-07-26T01:15:00)
+> In FreeBSD 12.0-STABLE before r350261, 12.0-RELEASE before 12.0-RELEASE-p8, 11.3-STABLE before r350263, 11.3-RELEASE before 11.3-RELEASE-p1, and 11.2-RELEASE before 11.2-RELEASE-p12, system calls operating on file descriptors as part of mqueuefs did not properly release the reference allowing a malicious user to overflow the counter allowing access to files, directories, and sockets opened by processes owned by other users.
+- [raymontag/CVE-2019-5603](https://github.com/raymontag/CVE-2019-5603)	<img alt="forks" src="https://img.shields.io/github/forks/raymontag/CVE-2019-5603">	<img alt="stars" src="https://img.shields.io/github/stars/raymontag/CVE-2019-5603">
+
+---
+## CVE-2019-5596 (2019-02-12T05:29:00)
+> In FreeBSD 11.2-STABLE after r338618 and before r343786, 12.0-STABLE before r343781, and 12.0-RELEASE before 12.0-RELEASE-p3, a bug in the reference count implementation for UNIX domain sockets can cause a file structure to be incorrectly released potentially allowing a malicious local user to gain root privileges or escape from a jail.
+- [raymontag/CVE-2019-5596](https://github.com/raymontag/CVE-2019-5596)	<img alt="forks" src="https://img.shields.io/github/forks/raymontag/CVE-2019-5596">	<img alt="stars" src="https://img.shields.io/github/stars/raymontag/CVE-2019-5596">
+
+---
 ## CVE-2019-5544 (2019-12-06T16:15:00)
 > OpenSLP as used in ESXi and the Horizon DaaS appliances has a heap overwrite issue. VMware has evaluated the severity of this issue to be in the Critical severity range with a maximum CVSSv3 base score of 9.8.
 - [HynekPetrak/CVE-2019-5544_CVE-2020-3992](https://github.com/HynekPetrak/CVE-2019-5544_CVE-2020-3992)	<img alt="forks" src="https://img.shields.io/github/forks/HynekPetrak/CVE-2019-5544_CVE-2020-3992">	<img alt="stars" src="https://img.shields.io/github/stars/HynekPetrak/CVE-2019-5544_CVE-2020-3992">
