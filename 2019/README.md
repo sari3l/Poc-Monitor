@@ -2172,6 +2172,11 @@
 - [razordeveloper/CVE-2019-1205](https://github.com/razordeveloper/CVE-2019-1205)	<img alt="forks" src="https://img.shields.io/github/forks/razordeveloper/CVE-2019-1205">	<img alt="stars" src="https://img.shields.io/github/stars/razordeveloper/CVE-2019-1205">
 
 ---
+## CVE-2019-11932 (2019-10-03T22:15:00)
+> A double free vulnerability in the DDGifSlurp function in decoding.c in the android-gif-drawable library before version 1.2.18, as used in WhatsApp for Android before version 2.19.244 and many other Android applications, allows remote attackers to execute arbitrary code or cause a denial of service when the library is used to parse a specially crafted GIF image.
+- [0759104103/cd-CVE-2019-11932](https://github.com/0759104103/cd-CVE-2019-11932)	<img alt="forks" src="https://img.shields.io/github/forks/0759104103/cd-CVE-2019-11932">	<img alt="stars" src="https://img.shields.io/github/stars/0759104103/cd-CVE-2019-11932">
+
+---
 ## CVE-2019-11823 (2020-05-04T10:15:00)
 > CRLF injection vulnerability in Network Center in Synology Router Manager (SRM) before 1.2.3-8017-2 allows remote attackers to cause a denial of service (out-of-bounds read and application crash) via crafted network traffic.
 - [Live-Hack-CVE/CVE-2019-11823](https://github.com/Live-Hack-CVE/CVE-2019-11823)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11823">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11823">
