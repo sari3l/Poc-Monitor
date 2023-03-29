@@ -52,9 +52,15 @@
 - [Impalabs/CVE-2023-27326](https://github.com/Impalabs/CVE-2023-27326)	<img alt="forks" src="https://img.shields.io/github/forks/Impalabs/CVE-2023-27326">	<img alt="stars" src="https://img.shields.io/github/stars/Impalabs/CVE-2023-27326">
 
 ---
+## CVE-2023-26984 ()
+> 
+- [bypazs/CVE-2023-26984](https://github.com/bypazs/CVE-2023-26984)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/CVE-2023-26984">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/CVE-2023-26984">
+
+---
 ## CVE-2023-26982 ()
 > 
 - [bypazs/CVE-2023-26982](https://github.com/bypazs/CVE-2023-26982)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/CVE-2023-26982">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/CVE-2023-26982">
+- [bypazs/Duplicate-of-CVE-2023-26982](https://github.com/bypazs/Duplicate-of-CVE-2023-26982)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/Duplicate-of-CVE-2023-26982">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/Duplicate-of-CVE-2023-26982">
 
 ---
 ## CVE-2023-26604 (2023-03-03T16:15:00)
