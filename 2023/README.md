@@ -62,8 +62,8 @@
 - [bypazs/CVE-2023-26984](https://github.com/bypazs/CVE-2023-26984)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/CVE-2023-26984">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/CVE-2023-26984">
 
 ---
-## CVE-2023-26982 ()
-> 
+## CVE-2023-26982 (2023-03-29T15:15:00)
+> Trudesk v1.2.6 was discovered to contain a stored cross-site scripting (XSS) vulnerability via the Add Tags parameter under the Create Ticket function.
 - [bypazs/CVE-2023-26982](https://github.com/bypazs/CVE-2023-26982)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/CVE-2023-26982">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/CVE-2023-26982">
 - [bypazs/Duplicate-of-CVE-2023-26982](https://github.com/bypazs/Duplicate-of-CVE-2023-26982)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/Duplicate-of-CVE-2023-26982">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/Duplicate-of-CVE-2023-26982">
 
