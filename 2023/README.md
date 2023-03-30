@@ -57,8 +57,8 @@
 - [Impalabs/CVE-2023-27326](https://github.com/Impalabs/CVE-2023-27326)	<img alt="forks" src="https://img.shields.io/github/forks/Impalabs/CVE-2023-27326">	<img alt="stars" src="https://img.shields.io/github/stars/Impalabs/CVE-2023-27326">
 
 ---
-## CVE-2023-26984 ()
-> 
+## CVE-2023-26984 (2023-03-29T18:15:00)
+> An issue in the password reset function of Peppermint v0.2.4 allows attackers to access the emails and passwords of the Tickets page via a crafted request.
 - [bypazs/CVE-2023-26984](https://github.com/bypazs/CVE-2023-26984)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/CVE-2023-26984">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/CVE-2023-26984">
 
 ---
