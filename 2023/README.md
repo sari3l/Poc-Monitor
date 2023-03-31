@@ -234,6 +234,7 @@
 - [madelynadams9/CVE-2023-23397-Report](https://github.com/madelynadams9/CVE-2023-23397-Report)	<img alt="forks" src="https://img.shields.io/github/forks/madelynadams9/CVE-2023-23397-Report">	<img alt="stars" src="https://img.shields.io/github/stars/madelynadams9/CVE-2023-23397-Report">
 - [D7-M/CVE-2023-23397-exploit](https://github.com/D7-M/CVE-2023-23397-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/D7-M/CVE-2023-23397-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/D7-M/CVE-2023-23397-exploit">
 - [jacquesquail/CVE-2023-23397](https://github.com/jacquesquail/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/jacquesquail/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/jacquesquail/CVE-2023-23397">
+- [CKevens/CVE-2023-23397-POC](https://github.com/CKevens/CVE-2023-23397-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2023-23397-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2023-23397-POC">
 
 ---
 ## CVE-2023-23396 (2023-03-14T17:15:00)
