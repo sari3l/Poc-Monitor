@@ -36,6 +36,11 @@
 - [Live-Hack-CVE/CVE-2010-4295](https://github.com/Live-Hack-CVE/CVE-2010-4295)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-4295">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-4295">
 
 ---
+## CVE-2010-4180 (2010-12-06T21:05:00)
+> OpenSSL before 0.9.8q, and 1.0.x before 1.0.0c, when SSL_OP_NETSCAPE_REUSE_CIPHER_CHANGE_BUG is enabled, does not properly prevent modification of the ciphersuite in the session cache, which allows remote attackers to force the downgrade to an unintended cipher via vectors involving sniffing network traffic to discover a session identifier.
+- [protonnegativo/CVE-2010-4180-by-ChatGPT](https://github.com/protonnegativo/CVE-2010-4180-by-ChatGPT)	<img alt="forks" src="https://img.shields.io/github/forks/protonnegativo/CVE-2010-4180-by-ChatGPT">	<img alt="stars" src="https://img.shields.io/github/stars/protonnegativo/CVE-2010-4180-by-ChatGPT">
+
+---
 ## CVE-2010-3870 (2010-11-12T21:00:00)
 > The utf8_decode function in PHP before 5.3.4 does not properly handle non-shortest form UTF-8 encoding and ill-formed subsequences in UTF-8 data, which makes it easier for remote attackers to bypass cross-site scripting (XSS) and SQL injection protection mechanisms via a crafted string.
 - [Live-Hack-CVE/CVE-2010-3870](https://github.com/Live-Hack-CVE/CVE-2010-3870)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-3870">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-3870">
