@@ -3736,6 +3736,11 @@
 - [Live-Hack-CVE/CVE-2020-13528](https://github.com/Live-Hack-CVE/CVE-2020-13528)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13528">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13528">
 
 ---
+## CVE-2020-1350 (2020-07-14T23:15:00)
+> A remote code execution vulnerability exists in Windows Domain Name System servers when they fail to properly handle requests, aka 'Windows DNS Server Remote Code Execution Vulnerability'.
+- [T13nn3s/CVE-2020-1350](https://github.com/T13nn3s/CVE-2020-1350)	<img alt="forks" src="https://img.shields.io/github/forks/T13nn3s/CVE-2020-1350">	<img alt="stars" src="https://img.shields.io/github/stars/T13nn3s/CVE-2020-1350">
+
+---
 ## CVE-2020-13497 (2020-12-02T18:15:00)
 > An exploitable vulnerability exists in the way Pixar OpenUSD 20.05 handles parses certain encoded types. A specially crafted malformed file can trigger an arbitrary out of bounds memory access in String Type Index. This vulnerability could be used to bypass mitigations and aid further exploitation. To trigger this vulnerability, the victim needs to access an attacker-provided malformed file.
 - [Live-Hack-CVE/CVE-2020-13497](https://github.com/Live-Hack-CVE/CVE-2020-13497)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13497">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13497">
