@@ -6873,6 +6873,7 @@
 - [CsEnox/CVE-2021-22911](https://github.com/CsEnox/CVE-2021-22911)	<img alt="forks" src="https://img.shields.io/github/forks/CsEnox/CVE-2021-22911">	<img alt="stars" src="https://img.shields.io/github/stars/CsEnox/CVE-2021-22911">
 - [jayngng/CVE-2021-22911](https://github.com/jayngng/CVE-2021-22911)	<img alt="forks" src="https://img.shields.io/github/forks/jayngng/CVE-2021-22911">	<img alt="stars" src="https://img.shields.io/github/stars/jayngng/CVE-2021-22911">
 - [optionalCTF/Rocket.Chat-Automated-Account-Takeover-RCE-CVE-2021-22911](https://github.com/optionalCTF/Rocket.Chat-Automated-Account-Takeover-RCE-CVE-2021-22911)	<img alt="forks" src="https://img.shields.io/github/forks/optionalCTF/Rocket.Chat-Automated-Account-Takeover-RCE-CVE-2021-22911">	<img alt="stars" src="https://img.shields.io/github/stars/optionalCTF/Rocket.Chat-Automated-Account-Takeover-RCE-CVE-2021-22911">
+- [ChrisPritchard/CVE-2021-22911-rust](https://github.com/ChrisPritchard/CVE-2021-22911-rust)	<img alt="forks" src="https://img.shields.io/github/forks/ChrisPritchard/CVE-2021-22911-rust">	<img alt="stars" src="https://img.shields.io/github/stars/ChrisPritchard/CVE-2021-22911-rust">
 
 ---
 ## CVE-2021-22910 (2021-08-09T13:15:00)
