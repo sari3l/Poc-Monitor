@@ -69,6 +69,11 @@
 - [bypazs/Duplicate-of-CVE-2023-26982](https://github.com/bypazs/Duplicate-of-CVE-2023-26982)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/Duplicate-of-CVE-2023-26982">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/Duplicate-of-CVE-2023-26982">
 
 ---
+## CVE-2023-26866 ()
+> 
+- [lionelmusonza/CVE-2023-26866](https://github.com/lionelmusonza/CVE-2023-26866)	<img alt="forks" src="https://img.shields.io/github/forks/lionelmusonza/CVE-2023-26866">	<img alt="stars" src="https://img.shields.io/github/stars/lionelmusonza/CVE-2023-26866">
+
+---
 ## CVE-2023-26692 (2023-03-30T20:15:00)
 > ZCBS Zijper Collectie Beheer Systeem (ZCBS), Zijper Publication Management System (ZPBS), and Zijper Image Bank Management System (ZBBS) 4.14k is vulnerable to Cross Site Scripting (XSS).
 - [bigzooooz/CVE-2023-26692](https://github.com/bigzooooz/CVE-2023-26692)	<img alt="forks" src="https://img.shields.io/github/forks/bigzooooz/CVE-2023-26692">	<img alt="stars" src="https://img.shields.io/github/stars/bigzooooz/CVE-2023-26692">
