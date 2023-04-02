@@ -28,6 +28,7 @@
 - [yuyongxr/minio_cve-2023-28432](https://github.com/yuyongxr/minio_cve-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/yuyongxr/minio_cve-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/yuyongxr/minio_cve-2023-28432">
 - [Cuerz/CVE-2023-28432](https://github.com/Cuerz/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/Cuerz/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/Cuerz/CVE-2023-28432">
 - [Majus527/MinIO_CVE-2023-28432](https://github.com/Majus527/MinIO_CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/Majus527/MinIO_CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/Majus527/MinIO_CVE-2023-28432">
+- [7a6163/CVE-2023-28432](https://github.com/7a6163/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/7a6163/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/7a6163/CVE-2023-28432">
 
 ---
 ## CVE-2023-28343 (2023-03-14T20:15:00)
