@@ -3070,6 +3070,11 @@
 - [Live-Hack-CVE/CVE-2020-17541](https://github.com/Live-Hack-CVE/CVE-2020-17541)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-17541">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-17541">
 
 ---
+## CVE-2020-17530 (2020-12-11T02:15:00)
+> Forced OGNL evaluation, when evaluated on raw user input in tag attributes, may lead to remote code execution. Affected software : Apache Struts 2.0.0 - Struts 2.5.25.
+- [keyuan15/CVE-2020-17530](https://github.com/keyuan15/CVE-2020-17530)	<img alt="forks" src="https://img.shields.io/github/forks/keyuan15/CVE-2020-17530">	<img alt="stars" src="https://img.shields.io/github/stars/keyuan15/CVE-2020-17530">
+
+---
 ## CVE-2020-1753 (2020-03-16T15:15:00)
 > A security flaw was found in Ansible Engine, all Ansible 2.7.x versions prior to 2.7.17, all Ansible 2.8.x versions prior to 2.8.11 and all Ansible 2.9.x versions prior to 2.9.7, when managing kubernetes using the k8s module. Sensitive parameters such as passwords and tokens are passed to kubectl from the command line, not using an environment variable or an input configuration file. This will disclose passwords and tokens from process list and no_log directive from debug module would not have any effect making these secrets being disclosed on stdout and log files.
 - [Live-Hack-CVE/CVE-2020-1753](https://github.com/Live-Hack-CVE/CVE-2020-1753)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1753">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1753">
