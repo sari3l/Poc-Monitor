@@ -221,6 +221,18 @@
 - [Live-Hack-CVE/CVE-2019-7654](https://github.com/Live-Hack-CVE/CVE-2019-7654)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7654">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7654">
 
 ---
+## CVE-2019-7609 (2019-03-25T19:29:00)
+> Kibana versions before 5.6.15 and 6.6.1 contain an arbitrary code execution flaw in the Timelion visualizer. An attacker with access to the Timelion application could send a request that will attempt to execute javascript code. This could possibly lead to an attacker executing arbitrary commands with permissions of the Kibana process on the host system.
+- [LandGrey/CVE-2019-7609](https://github.com/LandGrey/CVE-2019-7609)	<img alt="forks" src="https://img.shields.io/github/forks/LandGrey/CVE-2019-7609">	<img alt="stars" src="https://img.shields.io/github/stars/LandGrey/CVE-2019-7609">
+- [Cr4ckC4t/cve-2019-7609](https://github.com/Cr4ckC4t/cve-2019-7609)	<img alt="forks" src="https://img.shields.io/github/forks/Cr4ckC4t/cve-2019-7609">	<img alt="stars" src="https://img.shields.io/github/stars/Cr4ckC4t/cve-2019-7609">
+- [wolf1892/CVE-2019-7609](https://github.com/wolf1892/CVE-2019-7609)	<img alt="forks" src="https://img.shields.io/github/forks/wolf1892/CVE-2019-7609">	<img alt="stars" src="https://img.shields.io/github/stars/wolf1892/CVE-2019-7609">
+- [dnr6419/CVE-2019-7609](https://github.com/dnr6419/CVE-2019-7609)	<img alt="forks" src="https://img.shields.io/github/forks/dnr6419/CVE-2019-7609">	<img alt="stars" src="https://img.shields.io/github/stars/dnr6419/CVE-2019-7609">
+- [rhbb/CVE-2019-7609](https://github.com/rhbb/CVE-2019-7609)	<img alt="forks" src="https://img.shields.io/github/forks/rhbb/CVE-2019-7609">	<img alt="stars" src="https://img.shields.io/github/stars/rhbb/CVE-2019-7609">
+- [mpgn/CVE-2019-7609](https://github.com/mpgn/CVE-2019-7609)	<img alt="forks" src="https://img.shields.io/github/forks/mpgn/CVE-2019-7609">	<img alt="stars" src="https://img.shields.io/github/stars/mpgn/CVE-2019-7609">
+- [hekadan/CVE-2019-7609](https://github.com/hekadan/CVE-2019-7609)	<img alt="forks" src="https://img.shields.io/github/forks/hekadan/CVE-2019-7609">	<img alt="stars" src="https://img.shields.io/github/stars/hekadan/CVE-2019-7609">
+- [jas502n/kibana-RCE](https://github.com/jas502n/kibana-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/kibana-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/kibana-RCE">
+
+---
 ## CVE-2019-7304 (2019-04-23T16:29:00)
 > Canonical snapd before version 2.37.1 incorrectly performed socket owner validation, allowing an attacker to run arbitrary commands as root. This issue affects: Canonical snapd versions prior to 2.37.1.
 - [Live-Hack-CVE/CVE-2019-7304](https://github.com/Live-Hack-CVE/CVE-2019-7304)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7304">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7304">
