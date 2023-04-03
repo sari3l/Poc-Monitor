@@ -420,6 +420,11 @@
 - [schdork/acropolypse-bot](https://github.com/schdork/acropolypse-bot)	<img alt="forks" src="https://img.shields.io/github/forks/schdork/acropolypse-bot">	<img alt="stars" src="https://img.shields.io/github/stars/schdork/acropolypse-bot">
 
 ---
+## CVE-2023-20933 (2023-02-28T17:15:00)
+> In several functions of MediaCodec.cpp, there is a possible way to corrupt memory due to a use after free. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-245860753
+- [Trinadh465/frameworks_av_CVE-2023-20933](https://github.com/Trinadh465/frameworks_av_CVE-2023-20933)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_av_CVE-2023-20933">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_av_CVE-2023-20933">
+
+---
 ## CVE-2023-20921 (2023-01-26T21:18:00)
 > In onPackageRemoved of AccessibilityManagerService.java, there is a possibility to automatically grant accessibility services due to a logic error in the code. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-243378132
 - [nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-20921](https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-20921)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-20921">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-20921">
