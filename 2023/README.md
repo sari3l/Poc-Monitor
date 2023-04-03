@@ -129,6 +129,11 @@
 - [nice1st/CVE-2023-24998](https://github.com/nice1st/CVE-2023-24998)	<img alt="forks" src="https://img.shields.io/github/forks/nice1st/CVE-2023-24998">	<img alt="stars" src="https://img.shields.io/github/stars/nice1st/CVE-2023-24998">
 
 ---
+## CVE-2023-24775 (2023-03-07T18:15:00)
+> Funadmin v3.2.0 was discovered to contain a SQL injection vulnerability via the selectFields parameter at \member\Member.php.
+- [csffs/CVE-2023-24775-and-CVE-2023-24780](https://github.com/csffs/CVE-2023-24775-and-CVE-2023-24780)	<img alt="forks" src="https://img.shields.io/github/forks/csffs/CVE-2023-24775-and-CVE-2023-24780">	<img alt="stars" src="https://img.shields.io/github/stars/csffs/CVE-2023-24775-and-CVE-2023-24780">
+
+---
 ## CVE-2023-24610 (2023-02-01T14:15:00)
 > NOSH 4a5cfdb allows remote authenticated users to execute PHP arbitrary code via the "practice logo" upload feature. The client-side checks can be bypassed. This may allow attackers to steal Protected Health Information because the product is for health charting.
 - [abbisQQ/CVE-2023-24610](https://github.com/abbisQQ/CVE-2023-24610)	<img alt="forks" src="https://img.shields.io/github/forks/abbisQQ/CVE-2023-24610">	<img alt="stars" src="https://img.shields.io/github/stars/abbisQQ/CVE-2023-24610">
