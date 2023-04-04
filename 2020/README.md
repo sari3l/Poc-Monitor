@@ -4650,6 +4650,12 @@
 - [Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2020-0188](https://github.com/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2020-0188)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2020-0188">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2020-0188">
 
 ---
+## CVE-2020-0183 (2020-06-11T15:15:00)
+> In handleMessage of BluetoothManagerService, there is an incomplete reset. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is needed for exploitation.Product: AndroidVersions: Android-10Android ID: A-110181479
+- [hshivhare67/platform_packages_apps_bluetooth_AOSP10_r33_CVE-2020-0183](https://github.com/hshivhare67/platform_packages_apps_bluetooth_AOSP10_r33_CVE-2020-0183)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/platform_packages_apps_bluetooth_AOSP10_r33_CVE-2020-0183">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/platform_packages_apps_bluetooth_AOSP10_r33_CVE-2020-0183">
+- [nanopathi/packages_apps_Bluetooth_AOSP10_r33_CVE-2020-0183](https://github.com/nanopathi/packages_apps_Bluetooth_AOSP10_r33_CVE-2020-0183)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/packages_apps_Bluetooth_AOSP10_r33_CVE-2020-0183">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/packages_apps_Bluetooth_AOSP10_r33_CVE-2020-0183">
+
+---
 ## CVE-2020-0181 (2020-06-11T15:15:00)
 > In exif_data_load_data_thumbnail of exif-data.c, there is a possible denial of service due to an integer overflow. This could lead to remote denial of service with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10Android ID: A-145075076
 - [Live-Hack-CVE/CVE-2020-0181](https://github.com/Live-Hack-CVE/CVE-2020-0181)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-0181">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-0181">
