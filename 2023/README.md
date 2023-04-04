@@ -196,6 +196,7 @@
 - [Acceis/exploit-CVE-2023-23752](https://github.com/Acceis/exploit-CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/Acceis/exploit-CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/Acceis/exploit-CVE-2023-23752">
 - [karthikuj/CVE-2023-23752-Docker](https://github.com/karthikuj/CVE-2023-23752-Docker)	<img alt="forks" src="https://img.shields.io/github/forks/karthikuj/CVE-2023-23752-Docker">	<img alt="stars" src="https://img.shields.io/github/stars/karthikuj/CVE-2023-23752-Docker">
 - [0xNahim/CVE-2023-23752](https://github.com/0xNahim/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/0xNahim/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/0xNahim/CVE-2023-23752">
+- [adhikara13/CVE-2023-23752](https://github.com/adhikara13/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/adhikara13/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/adhikara13/CVE-2023-23752">
 
 ---
 ## CVE-2023-23638 (2023-03-08T11:15:00)
