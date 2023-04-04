@@ -11,6 +11,11 @@
 - [xiahao90/CVE-2023-8888.test](https://github.com/xiahao90/CVE-2023-8888.test)	<img alt="forks" src="https://img.shields.io/github/forks/xiahao90/CVE-2023-8888.test">	<img alt="stars" src="https://img.shields.io/github/stars/xiahao90/CVE-2023-8888.test">
 
 ---
+## CVE-2023-42896 ()
+> 
+- [Trinadh465/linux_4.19.72_CVE-2023-42896](https://github.com/Trinadh465/linux_4.19.72_CVE-2023-42896)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux_4.19.72_CVE-2023-42896">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux_4.19.72_CVE-2023-42896">
+
+---
 ## CVE-2023-28434 (2023-03-22T21:15:00)
 > Minio is a Multi-Cloud Object Storage framework. Prior to RELEASE.2023-03-20T20-16-18Z, an attacker can use crafted requests to bypass metadata bucket name checking and put an object into any bucket while processing `PostPolicyBucket`. To carry out this attack, the attacker requires credentials with `arn:aws:s3:::*` permission, as well as enabled Console API access. This issue has been patched in RELEASE.2023-03-20T20-16-18Z. As a workaround, enable browser API access and turn off `MINIO_BROWSER=off`.
 - [Mr-xn/CVE-2023-28434](https://github.com/Mr-xn/CVE-2023-28434)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2023-28434">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2023-28434">
