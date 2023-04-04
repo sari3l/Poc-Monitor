@@ -71,6 +71,9 @@
 - [clic-kbait/A2SV--SSL-VUL-Scan](https://github.com/clic-kbait/A2SV--SSL-VUL-Scan)	<img alt="forks" src="https://img.shields.io/github/forks/clic-kbait/A2SV--SSL-VUL-Scan">	<img alt="stars" src="https://img.shields.io/github/stars/clic-kbait/A2SV--SSL-VUL-Scan">
 - [cd6629/CVE-2012-2982-Python-PoC](https://github.com/cd6629/CVE-2012-2982-Python-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/cd6629/CVE-2012-2982-Python-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/cd6629/CVE-2012-2982-Python-PoC">
 - [OstojaOfficial/CVE-2012-2982](https://github.com/OstojaOfficial/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/OstojaOfficial/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/OstojaOfficial/CVE-2012-2982">
+- [cyberharsh/PHP_CVE-2012-1823](https://github.com/cyberharsh/PHP_CVE-2012-1823)	<img alt="forks" src="https://img.shields.io/github/forks/cyberharsh/PHP_CVE-2012-1823">	<img alt="stars" src="https://img.shields.io/github/stars/cyberharsh/PHP_CVE-2012-1823">
+- [cyberharsh/Oracle-mysql-CVE-2012-2122](https://github.com/cyberharsh/Oracle-mysql-CVE-2012-2122)	<img alt="forks" src="https://img.shields.io/github/forks/cyberharsh/Oracle-mysql-CVE-2012-2122">	<img alt="stars" src="https://img.shields.io/github/stars/cyberharsh/Oracle-mysql-CVE-2012-2122">
+- [shelld3v/CVE-2012-2688](https://github.com/shelld3v/CVE-2012-2688)	<img alt="forks" src="https://img.shields.io/github/forks/shelld3v/CVE-2012-2688">	<img alt="stars" src="https://img.shields.io/github/stars/shelld3v/CVE-2012-2688">
 
 ---
 ## CVE-2012-1823 (2012-05-11T10:15:00)
