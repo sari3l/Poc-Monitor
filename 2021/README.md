@@ -5426,6 +5426,11 @@
 - [Live-Hack-CVE/CVE-2021-30558](https://github.com/Live-Hack-CVE/CVE-2021-30558)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30558">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30558">
 
 ---
+## CVE-2021-30551 (2021-06-15T22:15:00)
+> Type confusion in V8 in Google Chrome prior to 91.0.4472.101 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
+- [xmzyshypnc/CVE-2021-30551](https://github.com/xmzyshypnc/CVE-2021-30551)	<img alt="forks" src="https://img.shields.io/github/forks/xmzyshypnc/CVE-2021-30551">	<img alt="stars" src="https://img.shields.io/github/stars/xmzyshypnc/CVE-2021-30551">
+
+---
 ## CVE-2021-30499 (2021-05-27T00:15:00)
 > A flaw was found in libcaca. A buffer overflow of export.c in function export_troff might lead to memory corruption and other potential consequences.
 - [Live-Hack-CVE/CVE-2021-30499](https://github.com/Live-Hack-CVE/CVE-2021-30499)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30499">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30499">
