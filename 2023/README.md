@@ -396,6 +396,7 @@
 - [Malwareman007/CVE-2023-21768](https://github.com/Malwareman007/CVE-2023-21768)	<img alt="forks" src="https://img.shields.io/github/forks/Malwareman007/CVE-2023-21768">	<img alt="stars" src="https://img.shields.io/github/stars/Malwareman007/CVE-2023-21768">
 - [HKxiaoli/Windows_AFD_LPE_CVE-2023-21768](https://github.com/HKxiaoli/Windows_AFD_LPE_CVE-2023-21768)	<img alt="forks" src="https://img.shields.io/github/forks/HKxiaoli/Windows_AFD_LPE_CVE-2023-21768">	<img alt="stars" src="https://img.shields.io/github/stars/HKxiaoli/Windows_AFD_LPE_CVE-2023-21768">
 - [CKevens/CVE-2023-21768-POC](https://github.com/CKevens/CVE-2023-21768-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2023-21768-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2023-21768-POC">
+- [h1bAna/CVE-2023-21768](https://github.com/h1bAna/CVE-2023-21768)	<img alt="forks" src="https://img.shields.io/github/forks/h1bAna/CVE-2023-21768">	<img alt="stars" src="https://img.shields.io/github/stars/h1bAna/CVE-2023-21768">
 
 ---
 ## CVE-2023-21753 (2023-01-10T22:15:00)
