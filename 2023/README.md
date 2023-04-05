@@ -447,6 +447,7 @@
 ## CVE-2023-20943 (2023-02-28T17:15:00)
 > In clearApplicationUserData of ActivityManagerService.java, there is a possible way to remove system files due to a path traversal error. This could lead to local escalation of privilege with User execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-240267890
 - [Trinadh465/frameworks_base_CVE-2023-20943](https://github.com/Trinadh465/frameworks_base_CVE-2023-20943)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_base_CVE-2023-20943">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_base_CVE-2023-20943">
+- [hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2023-20943](https://github.com/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2023-20943)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2023-20943">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2023-20943">
 
 ---
 ## CVE-2023-20933 (2023-02-28T17:15:00)
