@@ -5313,6 +5313,7 @@
 - [keyuan15/CVE-2021-3129](https://github.com/keyuan15/CVE-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/keyuan15/CVE-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/keyuan15/CVE-2021-3129">
 - [keyuan15/CVE-2021-3129](https://github.com/keyuan15/CVE-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/keyuan15/CVE-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/keyuan15/CVE-2021-3129">
 - [qaisarafridi/cve-2021-3129](https://github.com/qaisarafridi/cve-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/qaisarafridi/cve-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/qaisarafridi/cve-2021-3129">
+- [qaisarafridi/cve-2021-31290](https://github.com/qaisarafridi/cve-2021-31290)	<img alt="forks" src="https://img.shields.io/github/forks/qaisarafridi/cve-2021-31290">	<img alt="stars" src="https://img.shields.io/github/stars/qaisarafridi/cve-2021-31290">
 
 ---
 ## CVE-2021-3122 (2021-02-07T20:15:00)
