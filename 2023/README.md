@@ -516,6 +516,7 @@
 - [trhacknon/CVE-2023-0669](https://github.com/trhacknon/CVE-2023-0669)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2023-0669">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2023-0669">
 - [yosef0x01/CVE-2023-0669-Analysis](https://github.com/yosef0x01/CVE-2023-0669-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/yosef0x01/CVE-2023-0669-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/yosef0x01/CVE-2023-0669-Analysis">
 - [trhacknon/CVE-2023-0669-bis](https://github.com/trhacknon/CVE-2023-0669-bis)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2023-0669-bis">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2023-0669-bis">
+- [Avento/CVE-2023-0669](https://github.com/Avento/CVE-2023-0669)	<img alt="forks" src="https://img.shields.io/github/forks/Avento/CVE-2023-0669">	<img alt="stars" src="https://img.shields.io/github/stars/Avento/CVE-2023-0669">
 
 ---
 ## CVE-2023-0297 (2023-01-14T03:15:00)
