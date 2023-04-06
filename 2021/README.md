@@ -163,6 +163,7 @@
 - [Live-Hack-CVE/CVE-2021-45960](https://github.com/Live-Hack-CVE/CVE-2021-45960)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45960">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45960">
 - [Trinadh465/external_lib_AOSP10_r33_CVE-2021-45960_CVE-2021-46143-](https://github.com/Trinadh465/external_lib_AOSP10_r33_CVE-2021-45960_CVE-2021-46143-)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/external_lib_AOSP10_r33_CVE-2021-45960_CVE-2021-46143-">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/external_lib_AOSP10_r33_CVE-2021-45960_CVE-2021-46143-">
 - [nanopathi/external_expat_AOSP10_r33_CVE-2021-45960](https://github.com/nanopathi/external_expat_AOSP10_r33_CVE-2021-45960)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/external_expat_AOSP10_r33_CVE-2021-45960">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/external_expat_AOSP10_r33_CVE-2021-45960">
+- [hshivhare67/external_expat_v2.2.6_CVE-2021-45960](https://github.com/hshivhare67/external_expat_v2.2.6_CVE-2021-45960)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/external_expat_v2.2.6_CVE-2021-45960">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/external_expat_v2.2.6_CVE-2021-45960">
 
 ---
 ## CVE-2021-45958 (2022-01-01T00:15:00)
