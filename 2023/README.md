@@ -359,6 +359,7 @@
 - [kurniawandata/CVE-2023-22809-privilege-escalation](https://github.com/kurniawandata/CVE-2023-22809-privilege-escalation)	<img alt="forks" src="https://img.shields.io/github/forks/kurniawandata/CVE-2023-22809-privilege-escalation">	<img alt="stars" src="https://img.shields.io/github/stars/kurniawandata/CVE-2023-22809-privilege-escalation">
 - [M4fiaB0y/CVE-2023-22809](https://github.com/M4fiaB0y/CVE-2023-22809)	<img alt="forks" src="https://img.shields.io/github/forks/M4fiaB0y/CVE-2023-22809">	<img alt="stars" src="https://img.shields.io/github/stars/M4fiaB0y/CVE-2023-22809">
 - [bigozzzz/popular-cves-scanner](https://github.com/bigozzzz/popular-cves-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/bigozzzz/popular-cves-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/bigozzzz/popular-cves-scanner">
+- [CKevens/CVE-2023-22809-sudo-POC](https://github.com/CKevens/CVE-2023-22809-sudo-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2023-22809-sudo-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2023-22809-sudo-POC">
 
 ---
 ## CVE-2023-22551 (2023-01-01T18:15:00)
