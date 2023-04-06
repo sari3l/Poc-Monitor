@@ -39,6 +39,7 @@
 - [Cuerz/CVE-2023-28432](https://github.com/Cuerz/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/Cuerz/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/Cuerz/CVE-2023-28432">
 - [Majus527/MinIO_CVE-2023-28432](https://github.com/Majus527/MinIO_CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/Majus527/MinIO_CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/Majus527/MinIO_CVE-2023-28432">
 - [7a6163/CVE-2023-28432](https://github.com/7a6163/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/7a6163/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/7a6163/CVE-2023-28432">
+- [LHXHL/Minio-CVE-2023-28432](https://github.com/LHXHL/Minio-CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/LHXHL/Minio-CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/LHXHL/Minio-CVE-2023-28432">
 
 ---
 ## CVE-2023-28343 (2023-03-14T20:15:00)
@@ -202,6 +203,7 @@
 - [karthikuj/CVE-2023-23752-Docker](https://github.com/karthikuj/CVE-2023-23752-Docker)	<img alt="forks" src="https://img.shields.io/github/forks/karthikuj/CVE-2023-23752-Docker">	<img alt="stars" src="https://img.shields.io/github/stars/karthikuj/CVE-2023-23752-Docker">
 - [0xNahim/CVE-2023-23752](https://github.com/0xNahim/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/0xNahim/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/0xNahim/CVE-2023-23752">
 - [adhikara13/CVE-2023-23752](https://github.com/adhikara13/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/adhikara13/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/adhikara13/CVE-2023-23752">
+- [AkbarWiraN/Joomla-Scanner](https://github.com/AkbarWiraN/Joomla-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/AkbarWiraN/Joomla-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/AkbarWiraN/Joomla-Scanner">
 
 ---
 ## CVE-2023-23638 (2023-03-08T11:15:00)
