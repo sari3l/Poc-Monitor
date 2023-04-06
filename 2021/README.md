@@ -4251,6 +4251,11 @@
 - [Live-Hack-CVE/CVE-2021-3493](https://github.com/Live-Hack-CVE/CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3493">
 
 ---
+## CVE-2021-3490 (2021-06-04T02:15:00)
+> The eBPF ALU32 bounds tracking for bitwise ops (AND, OR and XOR) in the Linux kernel did not properly update 32-bit bounds, which could be turned into out of bounds reads and writes in the Linux kernel and therefore, arbitrary code execution. This issue was fixed via commit 049c4e13714e ("bpf: Fix alu32 const subreg bound tracking on bitwise operations") (v5.13-rc4) and backported to the stable kernels in v5.12.4, v5.11.21, and v5.10.37. The AND/OR issues were introduced by commit 3f50f132d840 ("bpf: Verifier, do explicit ALU32 bounds tracking") (5.7-rc1) and the XOR variant was introduced by 2921c90d4718 ("bpf:Fix a verifier failure with xor") ( 5.10-rc1).
+- [pivik271/CVE-2021-3490](https://github.com/pivik271/CVE-2021-3490)	<img alt="forks" src="https://img.shields.io/github/forks/pivik271/CVE-2021-3490">	<img alt="stars" src="https://img.shields.io/github/stars/pivik271/CVE-2021-3490">
+
+---
 ## CVE-2021-34865 (2022-01-25T16:15:00)
 > This vulnerability allows network-adjacent attackers to bypass authentication on affected installations of multiple NETGEAR routers. Authentication is not required to exploit this vulnerability. The specific flaw exists within the mini_httpd service, which listens on TCP port 80 by default. The issue results from incorrect string matching logic when accessing protected pages. An attacker can leverage this vulnerability to escalate privileges and execute arbitrary code in the context of root. Was ZDI-CAN-13313.
 - [Live-Hack-CVE/CVE-2021-34865](https://github.com/Live-Hack-CVE/CVE-2021-34865)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34865">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34865">
