@@ -105,7 +105,7 @@
 ---
 ## CVE-2018-7273 (2018-02-21T00:29:00)
 > In the Linux kernel through 4.15.4, the floppy driver reveals the addresses of kernel functions and global variables using printk calls within the function show_floppy in drivers/block/floppy.c. An attacker can read this information from dmesg and use the addresses to find the locations of kernel code and data and bypass kernel security protections such as KASLR.
-- [jedai47/-CVE-2018-7273](https://github.com/jedai47/-CVE-2018-7273)	<img alt="forks" src="https://img.shields.io/github/forks/jedai47/-CVE-2018-7273">	<img alt="stars" src="https://img.shields.io/github/stars/jedai47/-CVE-2018-7273">
+- [jedai47/CVE-2018-7273](https://github.com/jedai47/CVE-2018-7273)	<img alt="forks" src="https://img.shields.io/github/forks/jedai47/CVE-2018-7273">	<img alt="stars" src="https://img.shields.io/github/stars/jedai47/CVE-2018-7273">
 
 ---
 ## CVE-2018-7187 (2018-02-16T17:29:00)
