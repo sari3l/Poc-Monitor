@@ -277,6 +277,7 @@
 - [teambugsbunny/wpUsersScan](https://github.com/teambugsbunny/wpUsersScan)	<img alt="forks" src="https://img.shields.io/github/forks/teambugsbunny/wpUsersScan">	<img alt="stars" src="https://img.shields.io/github/stars/teambugsbunny/wpUsersScan">
 - [Sabotase-Syndicate-Team/CVE-2017-5487.exploit](https://github.com/Sabotase-Syndicate-Team/CVE-2017-5487.exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Sabotase-Syndicate-Team/CVE-2017-5487.exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Sabotase-Syndicate-Team/CVE-2017-5487.exploit">
 - [SeasonLeague/CVE-2017-5487](https://github.com/SeasonLeague/CVE-2017-5487)	<img alt="forks" src="https://img.shields.io/github/forks/SeasonLeague/CVE-2017-5487">	<img alt="stars" src="https://img.shields.io/github/stars/SeasonLeague/CVE-2017-5487">
+- [Ravindu-Priyankara/CVE-2017-5487-vulnerability-on-NSBM](https://github.com/Ravindu-Priyankara/CVE-2017-5487-vulnerability-on-NSBM)	<img alt="forks" src="https://img.shields.io/github/forks/Ravindu-Priyankara/CVE-2017-5487-vulnerability-on-NSBM">	<img alt="stars" src="https://img.shields.io/github/stars/Ravindu-Priyankara/CVE-2017-5487-vulnerability-on-NSBM">
 
 ---
 ## CVE-2017-5242 (2023-01-12T22:15:00)

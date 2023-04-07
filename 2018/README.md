@@ -764,6 +764,11 @@
 - [FachrulRH/jckeditor](https://github.com/FachrulRH/jckeditor)	<img alt="forks" src="https://img.shields.io/github/forks/FachrulRH/jckeditor">	<img alt="stars" src="https://img.shields.io/github/stars/FachrulRH/jckeditor">
 
 ---
+## CVE-2018-17182 (2018-09-19T09:29:00)
+> An issue was discovered in the Linux kernel through 4.18.8. The vmacache_flush_all function in mm/vmacache.c mishandles sequence number overflows. An attacker can trigger a use-after-free (and possibly gain privileges) via certain thread creation, map, unmap, invalidation, and dereference operations.
+- [jedai47/cve-2018-17182](https://github.com/jedai47/cve-2018-17182)	<img alt="forks" src="https://img.shields.io/github/forks/jedai47/cve-2018-17182">	<img alt="stars" src="https://img.shields.io/github/stars/jedai47/cve-2018-17182">
+
+---
 ## CVE-2018-16881 (2019-01-25T18:29:00)
 > A denial of service vulnerability was found in rsyslog in the imptcp module. An attacker could send a specially crafted message to the imptcp socket, which would cause rsyslog to crash. Versions before 8.27.0 are vulnerable.
 - [Live-Hack-CVE/CVE-2018-16881](https://github.com/Live-Hack-CVE/CVE-2018-16881)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-16881">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-16881">
