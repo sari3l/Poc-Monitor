@@ -767,6 +767,10 @@
 ## CVE-2018-17182 (2018-09-19T09:29:00)
 > An issue was discovered in the Linux kernel through 4.18.8. The vmacache_flush_all function in mm/vmacache.c mishandles sequence number overflows. An attacker can trigger a use-after-free (and possibly gain privileges) via certain thread creation, map, unmap, invalidation, and dereference operations.
 - [jedai47/cve-2018-17182](https://github.com/jedai47/cve-2018-17182)	<img alt="forks" src="https://img.shields.io/github/forks/jedai47/cve-2018-17182">	<img alt="stars" src="https://img.shields.io/github/stars/jedai47/cve-2018-17182">
+- [Al1ex/LinuxEelvation](https://github.com/Al1ex/LinuxEelvation)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/LinuxEelvation">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/LinuxEelvation">
+- [jas502n/CVE-2018-17182](https://github.com/jas502n/CVE-2018-17182)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2018-17182">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2018-17182">
+- [likescam/vmacache_CVE-2018-17182](https://github.com/likescam/vmacache_CVE-2018-17182)	<img alt="forks" src="https://img.shields.io/github/forks/likescam/vmacache_CVE-2018-17182">	<img alt="stars" src="https://img.shields.io/github/stars/likescam/vmacache_CVE-2018-17182">
+- [likescam/CVE-2018-17182](https://github.com/likescam/CVE-2018-17182)	<img alt="forks" src="https://img.shields.io/github/forks/likescam/CVE-2018-17182">	<img alt="stars" src="https://img.shields.io/github/stars/likescam/CVE-2018-17182">
 
 ---
 ## CVE-2018-16881 (2019-01-25T18:29:00)
