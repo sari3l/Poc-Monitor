@@ -70,6 +70,11 @@
 - [Impalabs/CVE-2023-27326](https://github.com/Impalabs/CVE-2023-27326)	<img alt="forks" src="https://img.shields.io/github/forks/Impalabs/CVE-2023-27326">	<img alt="stars" src="https://img.shields.io/github/stars/Impalabs/CVE-2023-27326">
 
 ---
+## CVE-2023-27100 (2023-03-22T23:15:00)
+> Improper restriction of excessive authentication attempts in the SSHGuard component of Netgate pfSense Plus software v22.05.1 and pfSense CE software v2.6.0 allows attackers to bypass brute force protection mechanisms via crafted web requests.
+- [DarokNET/CVE-2023-27100](https://github.com/DarokNET/CVE-2023-27100)	<img alt="forks" src="https://img.shields.io/github/forks/DarokNET/CVE-2023-27100">	<img alt="stars" src="https://img.shields.io/github/stars/DarokNET/CVE-2023-27100">
+
+---
 ## CVE-2023-26984 (2023-03-29T18:15:00)
 > An issue in the password reset function of Peppermint v0.2.4 allows attackers to access the emails and passwords of the Tickets page via a crafted request.
 - [bypazs/CVE-2023-26984](https://github.com/bypazs/CVE-2023-26984)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/CVE-2023-26984">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/CVE-2023-26984">
