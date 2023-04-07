@@ -647,6 +647,11 @@
 - [anldori/CVE-2017-16995](https://github.com/anldori/CVE-2017-16995)	<img alt="forks" src="https://img.shields.io/github/forks/anldori/CVE-2017-16995">	<img alt="stars" src="https://img.shields.io/github/stars/anldori/CVE-2017-16995">
 
 ---
+## CVE-2017-16994 (2017-11-27T19:29:00)
+> The walk_hugetlb_range function in mm/pagewalk.c in the Linux kernel before 4.14.2 mishandles holes in hugetlb ranges, which allows local users to obtain sensitive information from uninitialized kernel memory via crafted use of the mincore() system call.
+- [jedai47/CVE-2017-16994](https://github.com/jedai47/CVE-2017-16994)	<img alt="forks" src="https://img.shields.io/github/forks/jedai47/CVE-2017-16994">	<img alt="stars" src="https://img.shields.io/github/stars/jedai47/CVE-2017-16994">
+
+---
 ## CVE-2017-16744 (2018-08-20T21:29:00)
 > A path traversal vulnerability in Tridium Niagara AX Versions 3.8 and prior and Niagara 4 systems Versions 4.4 and prior installed on Microsoft Windows Systems can be exploited by leveraging valid platform (administrator) credentials.
 - [GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara](https://github.com/GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara)	<img alt="forks" src="https://img.shields.io/github/forks/GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara">	<img alt="stars" src="https://img.shields.io/github/stars/GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara">
