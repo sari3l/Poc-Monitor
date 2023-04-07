@@ -427,6 +427,11 @@
 - [timpen432/-Wh0Am1001-CVE-2023-21753](https://github.com/timpen432/-Wh0Am1001-CVE-2023-21753)	<img alt="forks" src="https://img.shields.io/github/forks/timpen432/-Wh0Am1001-CVE-2023-21753">	<img alt="stars" src="https://img.shields.io/github/stars/timpen432/-Wh0Am1001-CVE-2023-21753">
 
 ---
+## CVE-2023-21742 (2023-01-10T22:15:00)
+> Microsoft SharePoint Server Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21744.
+- [ohnonoyesyes/CVE-2023-21742](https://github.com/ohnonoyesyes/CVE-2023-21742)	<img alt="forks" src="https://img.shields.io/github/forks/ohnonoyesyes/CVE-2023-21742">	<img alt="stars" src="https://img.shields.io/github/stars/ohnonoyesyes/CVE-2023-21742">
+
+---
 ## CVE-2023-21716 (2023-02-14T20:15:00)
 > Microsoft Word Remote Code Execution Vulnerability
 - [FeatherStark/CVE-2023-21716](https://github.com/FeatherStark/CVE-2023-21716)	<img alt="forks" src="https://img.shields.io/github/forks/FeatherStark/CVE-2023-21716">	<img alt="stars" src="https://img.shields.io/github/stars/FeatherStark/CVE-2023-21716">
