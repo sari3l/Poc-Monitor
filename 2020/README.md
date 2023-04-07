@@ -713,6 +713,16 @@
 - [Live-Hack-CVE/CVE-2020-6296](https://github.com/Live-Hack-CVE/CVE-2020-6296)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6296">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6296">
 
 ---
+## CVE-2020-6287 (2020-07-14T13:15:00)
+> SAP NetWeaver AS JAVA (LM Configuration Wizard), versions - 7.30, 7.31, 7.40, 7.50, does not perform an authentication check which allows an attacker without prior authentication to execute configuration tasks to perform critical actions against the SAP Java system, including the ability to create an administrative user, and therefore compromising Confidentiality, Integrity and Availability of the system, leading to Missing Authentication Check.
+- [qmakake/SAP_CVE-2020-6287_find_mandat](https://github.com/qmakake/SAP_CVE-2020-6287_find_mandat)	<img alt="forks" src="https://img.shields.io/github/forks/qmakake/SAP_CVE-2020-6287_find_mandat">	<img alt="stars" src="https://img.shields.io/github/stars/qmakake/SAP_CVE-2020-6287_find_mandat">
+- [Onapsis/CVE-2020-6287_RECON-scanner](https://github.com/Onapsis/CVE-2020-6287_RECON-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Onapsis/CVE-2020-6287_RECON-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Onapsis/CVE-2020-6287_RECON-scanner">
+- [chipik/SAP_RECON](https://github.com/chipik/SAP_RECON)	<img alt="forks" src="https://img.shields.io/github/forks/chipik/SAP_RECON">	<img alt="stars" src="https://img.shields.io/github/stars/chipik/SAP_RECON">
+- [murataydemir/CVE-2020-6287](https://github.com/murataydemir/CVE-2020-6287)	<img alt="forks" src="https://img.shields.io/github/forks/murataydemir/CVE-2020-6287">	<img alt="stars" src="https://img.shields.io/github/stars/murataydemir/CVE-2020-6287">
+- [ynsmroztas/CVE-2020-6287-Sap-Add-User](https://github.com/ynsmroztas/CVE-2020-6287-Sap-Add-User)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/CVE-2020-6287-Sap-Add-User">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/CVE-2020-6287-Sap-Add-User">
+- [duc-nt/CVE-2020-6287-exploit](https://github.com/duc-nt/CVE-2020-6287-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/duc-nt/CVE-2020-6287-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/duc-nt/CVE-2020-6287-exploit">
+
+---
 ## CVE-2020-6280 (2020-07-14T13:15:00)
 > SAP NetWeaver (ABAP Server) and ABAP Platform, versions 731, 740, 750, allows an attacker with admin privileges to access certain files which should otherwise be restricted, leading to Information Disclosure.
 - [Live-Hack-CVE/CVE-2020-6280](https://github.com/Live-Hack-CVE/CVE-2020-6280)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6280">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6280">
