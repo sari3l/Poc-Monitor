@@ -101,6 +101,11 @@
 - [Live-Hack-CVE/CVE-2020-9274](https://github.com/Live-Hack-CVE/CVE-2020-9274)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9274">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9274">
 
 ---
+## CVE-2020-9273 (2020-02-20T16:15:00)
+> In ProFTPD 1.3.7, it is possible to corrupt the memory pool by interrupting the data transfer channel. This triggers a use-after-free in alloc_pool in pool.c, and possible remote code execution.
+- [ptef/CVE-2020-9273](https://github.com/ptef/CVE-2020-9273)	<img alt="forks" src="https://img.shields.io/github/forks/ptef/CVE-2020-9273">	<img alt="stars" src="https://img.shields.io/github/stars/ptef/CVE-2020-9273">
+
+---
 ## CVE-2020-9060 (2022-01-10T14:10:00)
 > Z-Wave devices based on Silicon Labs 500 series chipsets using S2, including but likely not limited to the ZooZ ZST10 version 6.04, ZooZ ZEN20 version 5.03, ZooZ ZEN25 version 5.03, Aeon Labs ZW090-A version 3.95, and Fibaro FGWPB-111 version 4.3, are susceptible to denial of service and resource exhaustion via malformed SECURITY NONCE GET, SECURITY NONCE GET 2, NO OPERATION, or NIF REQUEST messages.
 - [Live-Hack-CVE/CVE-2020-9060](https://github.com/Live-Hack-CVE/CVE-2020-9060)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9060">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9060">
