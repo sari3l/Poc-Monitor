@@ -4522,6 +4522,7 @@
 - [JohnHammond/CVE-2021-34527](https://github.com/JohnHammond/CVE-2021-34527)	<img alt="forks" src="https://img.shields.io/github/forks/JohnHammond/CVE-2021-34527">	<img alt="stars" src="https://img.shields.io/github/stars/JohnHammond/CVE-2021-34527">
 - [hackerhouse-opensource/cve-2021-34527](https://github.com/hackerhouse-opensource/cve-2021-34527)	<img alt="forks" src="https://img.shields.io/github/forks/hackerhouse-opensource/cve-2021-34527">	<img alt="stars" src="https://img.shields.io/github/stars/hackerhouse-opensource/cve-2021-34527">
 - [evilashz/CVE-2021-1675-LPE-EXP](https://github.com/evilashz/CVE-2021-1675-LPE-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/evilashz/CVE-2021-1675-LPE-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/evilashz/CVE-2021-1675-LPE-EXP">
+- [fardinbarashi/PsFix-CVE-2021-34527](https://github.com/fardinbarashi/PsFix-CVE-2021-34527)	<img alt="forks" src="https://img.shields.io/github/forks/fardinbarashi/PsFix-CVE-2021-34527">	<img alt="stars" src="https://img.shields.io/github/stars/fardinbarashi/PsFix-CVE-2021-34527">
 
 ---
 ## CVE-2021-3449 (2021-03-25T15:15:00)
