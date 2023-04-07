@@ -103,6 +103,11 @@
 - [0x00-0x00/CVE-2018-7422](https://github.com/0x00-0x00/CVE-2018-7422)	<img alt="forks" src="https://img.shields.io/github/forks/0x00-0x00/CVE-2018-7422">	<img alt="stars" src="https://img.shields.io/github/stars/0x00-0x00/CVE-2018-7422">
 
 ---
+## CVE-2018-7273 (2018-02-21T00:29:00)
+> In the Linux kernel through 4.15.4, the floppy driver reveals the addresses of kernel functions and global variables using printk calls within the function show_floppy in drivers/block/floppy.c. An attacker can read this information from dmesg and use the addresses to find the locations of kernel code and data and bypass kernel security protections such as KASLR.
+- [jedai47/-CVE-2018-7273](https://github.com/jedai47/-CVE-2018-7273)	<img alt="forks" src="https://img.shields.io/github/forks/jedai47/-CVE-2018-7273">	<img alt="stars" src="https://img.shields.io/github/stars/jedai47/-CVE-2018-7273">
+
+---
 ## CVE-2018-7187 (2018-02-16T17:29:00)
 > The "go get" implementation in Go 1.9.4, when the -insecure command-line option is used, does not validate the import path (get/vcs.go only checks for "://" anywhere in the string), which allows remote attackers to execute arbitrary OS commands via a crafted web site.
 - [Live-Hack-CVE/CVE-2018-7187](https://github.com/Live-Hack-CVE/CVE-2018-7187)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-7187">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-7187">
