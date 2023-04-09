@@ -155,6 +155,11 @@
 - [csffs/CVE-2023-24775-and-CVE-2023-24780](https://github.com/csffs/CVE-2023-24775-and-CVE-2023-24780)	<img alt="forks" src="https://img.shields.io/github/forks/csffs/CVE-2023-24775-and-CVE-2023-24780">	<img alt="stars" src="https://img.shields.io/github/stars/csffs/CVE-2023-24775-and-CVE-2023-24780">
 
 ---
+## CVE-2023-24709 (2023-03-21T23:15:00)
+> An issue found in Paradox Security Systems IPR512 allows attackers to cause a denial of service via the login.html and login.xml parameters.
+- [SlashXzerozero/Injection-vulnerability-in-Paradox-Security-Systems-IPR512-CVE-2023-24709-PoC](https://github.com/SlashXzerozero/Injection-vulnerability-in-Paradox-Security-Systems-IPR512-CVE-2023-24709-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/SlashXzerozero/Injection-vulnerability-in-Paradox-Security-Systems-IPR512-CVE-2023-24709-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/SlashXzerozero/Injection-vulnerability-in-Paradox-Security-Systems-IPR512-CVE-2023-24709-PoC">
+
+---
 ## CVE-2023-24610 (2023-02-01T14:15:00)
 > NOSH 4a5cfdb allows remote authenticated users to execute PHP arbitrary code via the "practice logo" upload feature. The client-side checks can be bypassed. This may allow attackers to steal Protected Health Information because the product is for health charting.
 - [abbisQQ/CVE-2023-24610](https://github.com/abbisQQ/CVE-2023-24610)	<img alt="forks" src="https://img.shields.io/github/forks/abbisQQ/CVE-2023-24610">	<img alt="stars" src="https://img.shields.io/github/stars/abbisQQ/CVE-2023-24610">
