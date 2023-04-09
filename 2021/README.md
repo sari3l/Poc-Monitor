@@ -725,6 +725,7 @@
 - [Qualys/log4jscanwin](https://github.com/Qualys/log4jscanwin)	<img alt="forks" src="https://img.shields.io/github/forks/Qualys/log4jscanwin">	<img alt="stars" src="https://img.shields.io/github/stars/Qualys/log4jscanwin">
 - [rejupillai/log4j2-hack-springboot](https://github.com/rejupillai/log4j2-hack-springboot)	<img alt="forks" src="https://img.shields.io/github/forks/rejupillai/log4j2-hack-springboot">	<img alt="stars" src="https://img.shields.io/github/stars/rejupillai/log4j2-hack-springboot">
 - [YuanRuQian/CVE-2021-44228-attack-demo](https://github.com/YuanRuQian/CVE-2021-44228-attack-demo)	<img alt="forks" src="https://img.shields.io/github/forks/YuanRuQian/CVE-2021-44228-attack-demo">	<img alt="stars" src="https://img.shields.io/github/stars/YuanRuQian/CVE-2021-44228-attack-demo">
+- [demonrvm/Log4ShellRemediation](https://github.com/demonrvm/Log4ShellRemediation)	<img alt="forks" src="https://img.shields.io/github/forks/demonrvm/Log4ShellRemediation">	<img alt="stars" src="https://img.shields.io/github/stars/demonrvm/Log4ShellRemediation">
 
 ---
 ## CVE-2021-44158 (2022-01-03T10:15:00)
