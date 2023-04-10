@@ -815,7 +815,7 @@
 - [k4u5h41/CVE-2018-16763](https://github.com/k4u5h41/CVE-2018-16763)	<img alt="forks" src="https://img.shields.io/github/forks/k4u5h41/CVE-2018-16763">	<img alt="stars" src="https://img.shields.io/github/stars/k4u5h41/CVE-2018-16763">
 - [NaturalT314/CVE-2018-16763](https://github.com/NaturalT314/CVE-2018-16763)	<img alt="forks" src="https://img.shields.io/github/forks/NaturalT314/CVE-2018-16763">	<img alt="stars" src="https://img.shields.io/github/stars/NaturalT314/CVE-2018-16763">
 - [BrunoPincho/cve-2018-16763-rust](https://github.com/BrunoPincho/cve-2018-16763-rust)	<img alt="forks" src="https://img.shields.io/github/forks/BrunoPincho/cve-2018-16763-rust">	<img alt="stars" src="https://img.shields.io/github/stars/BrunoPincho/cve-2018-16763-rust">
-- [SlizBinksman/THM-Vulnerability_Capstone-CVE-2018-16763](https://github.com/SlizBinksman/THM-Vulnerability_Capstone-CVE-2018-16763)	<img alt="forks" src="https://img.shields.io/github/forks/SlizBinksman/THM-Vulnerability_Capstone-CVE-2018-16763">	<img alt="stars" src="https://img.shields.io/github/stars/SlizBinksman/THM-Vulnerability_Capstone-CVE-2018-16763">
+- [wizardy0ga/THM-Vulnerability_Capstone-CVE-2018-16763](https://github.com/wizardy0ga/THM-Vulnerability_Capstone-CVE-2018-16763)	<img alt="forks" src="https://img.shields.io/github/forks/wizardy0ga/THM-Vulnerability_Capstone-CVE-2018-16763">	<img alt="stars" src="https://img.shields.io/github/stars/wizardy0ga/THM-Vulnerability_Capstone-CVE-2018-16763">
 - [noraj/fuelcms-rce](https://github.com/noraj/fuelcms-rce)	<img alt="forks" src="https://img.shields.io/github/forks/noraj/fuelcms-rce">	<img alt="stars" src="https://img.shields.io/github/stars/noraj/fuelcms-rce">
 - [padsalatushal/CVE-2018-16763](https://github.com/padsalatushal/CVE-2018-16763)	<img alt="forks" src="https://img.shields.io/github/forks/padsalatushal/CVE-2018-16763">	<img alt="stars" src="https://img.shields.io/github/stars/padsalatushal/CVE-2018-16763">
 - [n3m1dotsys/CVE-2018-16763-Exploit-Python3](https://github.com/n3m1dotsys/CVE-2018-16763-Exploit-Python3)	<img alt="forks" src="https://img.shields.io/github/forks/n3m1dotsys/CVE-2018-16763-Exploit-Python3">	<img alt="stars" src="https://img.shields.io/github/stars/n3m1dotsys/CVE-2018-16763-Exploit-Python3">
@@ -825,6 +825,7 @@
 - [SalimAlk/CVE-2018-16763-](https://github.com/SalimAlk/CVE-2018-16763-)	<img alt="forks" src="https://img.shields.io/github/forks/SalimAlk/CVE-2018-16763-">	<img alt="stars" src="https://img.shields.io/github/stars/SalimAlk/CVE-2018-16763-">
 - [dinhbaouit/CVE-2018-16763](https://github.com/dinhbaouit/CVE-2018-16763)	<img alt="forks" src="https://img.shields.io/github/forks/dinhbaouit/CVE-2018-16763">	<img alt="stars" src="https://img.shields.io/github/stars/dinhbaouit/CVE-2018-16763">
 - [not1cyyy/CVE-2018-16763](https://github.com/not1cyyy/CVE-2018-16763)	<img alt="forks" src="https://img.shields.io/github/forks/not1cyyy/CVE-2018-16763">	<img alt="stars" src="https://img.shields.io/github/stars/not1cyyy/CVE-2018-16763">
+- [k4is3r13/Bash-Script-CVE-2018-16763](https://github.com/k4is3r13/Bash-Script-CVE-2018-16763)	<img alt="forks" src="https://img.shields.io/github/forks/k4is3r13/Bash-Script-CVE-2018-16763">	<img alt="stars" src="https://img.shields.io/github/stars/k4is3r13/Bash-Script-CVE-2018-16763">
 
 ---
 ## CVE-2018-16530 (2019-04-09T19:29:00)
