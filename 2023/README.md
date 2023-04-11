@@ -108,6 +108,11 @@
 - [bypazs/Duplicate-of-CVE-2023-26982](https://github.com/bypazs/Duplicate-of-CVE-2023-26982)	<img alt="forks" src="https://img.shields.io/github/forks/bypazs/Duplicate-of-CVE-2023-26982">	<img alt="stars" src="https://img.shields.io/github/stars/bypazs/Duplicate-of-CVE-2023-26982">
 
 ---
+## CVE-2023-26976 (2023-04-04T02:15:00)
+> Tenda AC6 v15.03.05.09_multi was discovered to contain a stack overflow via the ssid parameter in the form_fast_setting_wifi_set function.
+- [FzBacon/CVE-2023-26976_tenda_AC6_stack_overflow](https://github.com/FzBacon/CVE-2023-26976_tenda_AC6_stack_overflow)	<img alt="forks" src="https://img.shields.io/github/forks/FzBacon/CVE-2023-26976_tenda_AC6_stack_overflow">	<img alt="stars" src="https://img.shields.io/github/stars/FzBacon/CVE-2023-26976_tenda_AC6_stack_overflow">
+
+---
 ## CVE-2023-26866 (2023-04-04T13:15:00)
 > GreenPacket OH736's WR-1200 Indoor Unit, OT-235 with firmware versions M-IDU-1.6.0.3_V1.1 and MH-46360-2.0.3-R5-GP respectively are vulnerable to remote command injection. Commands are executed using pre-login execution and executed with root privileges allowing complete takeover.
 - [lionelmusonza/CVE-2023-26866](https://github.com/lionelmusonza/CVE-2023-26866)	<img alt="forks" src="https://img.shields.io/github/forks/lionelmusonza/CVE-2023-26866">	<img alt="stars" src="https://img.shields.io/github/stars/lionelmusonza/CVE-2023-26866">

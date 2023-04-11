@@ -1638,6 +1638,14 @@
 - [Live-Hack-CVE/CVE-2019-18388](https://github.com/Live-Hack-CVE/CVE-2019-18388)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-18388">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-18388">
 
 ---
+## CVE-2019-18370 (2019-10-23T21:15:00)
+> An issue was discovered on Xiaomi Mi WiFi R3G devices before 2.28.23-stable. The backup file is in tar.gz format. After uploading, the application uses the tar zxf command to decompress, so one can control the contents of the files in the decompressed directory. In addition, the application's sh script for testing upload and download speeds reads a URL list from /tmp/speedtest_urls.xml, and there is a command injection vulnerability, as demonstrated by api/xqnetdetect/netspeed.
+- [FzBacon/CVE-2019-18370_XiaoMi_Mi_WIFI_RCE_analysis](https://github.com/FzBacon/CVE-2019-18370_XiaoMi_Mi_WIFI_RCE_analysis)	<img alt="forks" src="https://img.shields.io/github/forks/FzBacon/CVE-2019-18370_XiaoMi_Mi_WIFI_RCE_analysis">	<img alt="stars" src="https://img.shields.io/github/stars/FzBacon/CVE-2019-18370_XiaoMi_Mi_WIFI_RCE_analysis">
+- [jsnhcuan1997/UltramanGaia](https://github.com/jsnhcuan1997/UltramanGaia)	<img alt="forks" src="https://img.shields.io/github/forks/jsnhcuan1997/UltramanGaia">	<img alt="stars" src="https://img.shields.io/github/stars/jsnhcuan1997/UltramanGaia">
+- [AjayMT6/UltramanGaia](https://github.com/AjayMT6/UltramanGaia)	<img alt="forks" src="https://img.shields.io/github/forks/AjayMT6/UltramanGaia">	<img alt="stars" src="https://img.shields.io/github/stars/AjayMT6/UltramanGaia">
+- [UltramanGaia/Xiaomi_Mi_WiFi_R3G_Vulnerability_POC](https://github.com/UltramanGaia/Xiaomi_Mi_WiFi_R3G_Vulnerability_POC)	<img alt="forks" src="https://img.shields.io/github/forks/UltramanGaia/Xiaomi_Mi_WiFi_R3G_Vulnerability_POC">	<img alt="stars" src="https://img.shields.io/github/stars/UltramanGaia/Xiaomi_Mi_WiFi_R3G_Vulnerability_POC">
+
+---
 ## CVE-2019-18265 (2022-11-30T23:15:00)
 > Digital Alert Systems’ DASDEC software prior to version 4.1 contains a cross-site scripting (XSS) vulnerability that allows remote attackers to inject arbitrary web script or HTML via the SSH username, username field of the login page, or via the HTTP host header. The injected content is stored in logs and rendered when viewed in the web application.
 - [Live-Hack-CVE/CVE-2019-18265](https://github.com/Live-Hack-CVE/CVE-2019-18265)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-18265">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-18265">
