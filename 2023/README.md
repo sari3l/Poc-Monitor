@@ -66,6 +66,11 @@
 - [0xFTW/CVE-2023-27842](https://github.com/0xFTW/CVE-2023-27842)	<img alt="forks" src="https://img.shields.io/github/forks/0xFTW/CVE-2023-27842">	<img alt="stars" src="https://img.shields.io/github/stars/0xFTW/CVE-2023-27842">
 
 ---
+## CVE-2023-27703 ()
+> 
+- [happy0717/CVE-2023-27703](https://github.com/happy0717/CVE-2023-27703)	<img alt="forks" src="https://img.shields.io/github/forks/happy0717/CVE-2023-27703">	<img alt="stars" src="https://img.shields.io/github/stars/happy0717/CVE-2023-27703">
+
+---
 ## CVE-2023-27587 (2023-03-13T22:15:00)
 > ReadtoMyShoe, a web app that lets users upload articles and listen to them later, generates an error message containing sensitive information prior to commit 8533b01. If an error occurs when adding an article, the website shows the user an error message. If the error originates from the Google Cloud TTS request, then it will include the full URL of the request. The request URL contains the Google Cloud API key. This has been patched in commit 8533b01. Upgrading should be accompanied by deleting the current GCP API key and issuing a new one. There are no known workarounds.
 - [sec-fx/CVE-2023-27587-PoC](https://github.com/sec-fx/CVE-2023-27587-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sec-fx/CVE-2023-27587-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sec-fx/CVE-2023-27587-PoC">
