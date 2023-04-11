@@ -66,6 +66,11 @@
 - [0xFTW/CVE-2023-27842](https://github.com/0xFTW/CVE-2023-27842)	<img alt="forks" src="https://img.shields.io/github/forks/0xFTW/CVE-2023-27842">	<img alt="stars" src="https://img.shields.io/github/stars/0xFTW/CVE-2023-27842">
 
 ---
+## CVE-2023-27704 ()
+> 
+- [happy0717/CVE-2023-27704](https://github.com/happy0717/CVE-2023-27704)	<img alt="forks" src="https://img.shields.io/github/forks/happy0717/CVE-2023-27704">	<img alt="stars" src="https://img.shields.io/github/stars/happy0717/CVE-2023-27704">
+
+---
 ## CVE-2023-27703 ()
 > 
 - [happy0717/CVE-2023-27703](https://github.com/happy0717/CVE-2023-27703)	<img alt="forks" src="https://img.shields.io/github/forks/happy0717/CVE-2023-27703">	<img alt="stars" src="https://img.shields.io/github/stars/happy0717/CVE-2023-27703">
