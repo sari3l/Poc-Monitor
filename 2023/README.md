@@ -72,8 +72,8 @@
 - [happy0717/CVE-2023-27704](https://github.com/happy0717/CVE-2023-27704)	<img alt="forks" src="https://img.shields.io/github/forks/happy0717/CVE-2023-27704">	<img alt="stars" src="https://img.shields.io/github/stars/happy0717/CVE-2023-27704">
 
 ---
-## CVE-2023-27703 ()
-> 
+## CVE-2023-27703 (2023-04-12T16:15:00)
+> The Android version of pikpak v1.29.2 was discovered to contain an information leak via the debug interface.
 - [happy0717/CVE-2023-27703](https://github.com/happy0717/CVE-2023-27703)	<img alt="forks" src="https://img.shields.io/github/forks/happy0717/CVE-2023-27703">	<img alt="stars" src="https://img.shields.io/github/stars/happy0717/CVE-2023-27703">
 
 ---
@@ -119,8 +119,8 @@
 - [lionelmusonza/CVE-2023-26866](https://github.com/lionelmusonza/CVE-2023-26866)	<img alt="forks" src="https://img.shields.io/github/forks/lionelmusonza/CVE-2023-26866">	<img alt="stars" src="https://img.shields.io/github/stars/lionelmusonza/CVE-2023-26866">
 
 ---
-## CVE-2023-26852 ()
-> 
+## CVE-2023-26852 (2023-04-12T17:15:00)
+> An arbitrary file upload vulnerability in the upload plugin of Textpattern v4.8.8 and below allows attackers to execute arbitrary code by uploading a crafted PHP file.
 - [leekenghwa/CVE-2023-26852-Textpattern-v4.8.8-and-](https://github.com/leekenghwa/CVE-2023-26852-Textpattern-v4.8.8-and-)	<img alt="forks" src="https://img.shields.io/github/forks/leekenghwa/CVE-2023-26852-Textpattern-v4.8.8-and-">	<img alt="stars" src="https://img.shields.io/github/stars/leekenghwa/CVE-2023-26852-Textpattern-v4.8.8-and-">
 
 ---
@@ -484,6 +484,11 @@
 - [PyterSmithDarkGhost/CVE-2023-21608-EXPLOIT](https://github.com/PyterSmithDarkGhost/CVE-2023-21608-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/PyterSmithDarkGhost/CVE-2023-21608-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/PyterSmithDarkGhost/CVE-2023-21608-EXPLOIT">
 - [Malwareman007/CVE-2023-21608](https://github.com/Malwareman007/CVE-2023-21608)	<img alt="forks" src="https://img.shields.io/github/forks/Malwareman007/CVE-2023-21608">	<img alt="stars" src="https://img.shields.io/github/stars/Malwareman007/CVE-2023-21608">
 - [bigozzzz/popular-cves-scanner](https://github.com/bigozzzz/popular-cves-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/bigozzzz/popular-cves-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/bigozzzz/popular-cves-scanner">
+
+---
+## CVE-2023-21554 (2023-04-11T21:15:00)
+> Microsoft Message Queuing Remote Code Execution Vulnerability
+- [00hashmaker/CVE-2023-21554-0day](https://github.com/00hashmaker/CVE-2023-21554-0day)	<img alt="forks" src="https://img.shields.io/github/forks/00hashmaker/CVE-2023-21554-0day">	<img alt="stars" src="https://img.shields.io/github/stars/00hashmaker/CVE-2023-21554-0day">
 
 ---
 ## CVE-2023-21389 ()
