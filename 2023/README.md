@@ -67,8 +67,8 @@
 - [0xFTW/CVE-2023-27842](https://github.com/0xFTW/CVE-2023-27842)	<img alt="forks" src="https://img.shields.io/github/forks/0xFTW/CVE-2023-27842">	<img alt="stars" src="https://img.shields.io/github/stars/0xFTW/CVE-2023-27842">
 
 ---
-## CVE-2023-27704 ()
-> 
+## CVE-2023-27704 (2023-04-12T14:15:00)
+> Void Tools Everything lower than v1.4.1.1022 was discovered to contain a Regular Expression Denial of Service (ReDoS).
 - [happy0717/CVE-2023-27704](https://github.com/happy0717/CVE-2023-27704)	<img alt="forks" src="https://img.shields.io/github/forks/happy0717/CVE-2023-27704">	<img alt="stars" src="https://img.shields.io/github/stars/happy0717/CVE-2023-27704">
 
 ---

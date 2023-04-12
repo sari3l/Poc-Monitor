@@ -3473,6 +3473,7 @@
 - [Serendipity-Lucky/CVE-2020-14882_ALL](https://github.com/Serendipity-Lucky/CVE-2020-14882_ALL)	<img alt="forks" src="https://img.shields.io/github/forks/Serendipity-Lucky/CVE-2020-14882_ALL">	<img alt="stars" src="https://img.shields.io/github/stars/Serendipity-Lucky/CVE-2020-14882_ALL">
 - [Serendipity-Lucky/CVE-2020-14882_ALL](https://github.com/Serendipity-Lucky/CVE-2020-14882_ALL)	<img alt="forks" src="https://img.shields.io/github/forks/Serendipity-Lucky/CVE-2020-14882_ALL">	<img alt="stars" src="https://img.shields.io/github/stars/Serendipity-Lucky/CVE-2020-14882_ALL">
 - [nik0nz7/CVE-2020-14882](https://github.com/nik0nz7/CVE-2020-14882)	<img alt="forks" src="https://img.shields.io/github/forks/nik0nz7/CVE-2020-14882">	<img alt="stars" src="https://img.shields.io/github/stars/nik0nz7/CVE-2020-14882">
+- [qianniaoge/CVE-2020-14882_Exploit_Gui](https://github.com/qianniaoge/CVE-2020-14882_Exploit_Gui)	<img alt="forks" src="https://img.shields.io/github/forks/qianniaoge/CVE-2020-14882_Exploit_Gui">	<img alt="stars" src="https://img.shields.io/github/stars/qianniaoge/CVE-2020-14882_Exploit_Gui">
 
 ---
 ## CVE-2020-1472 (2020-08-17T19:15:00)
