@@ -802,6 +802,12 @@
 - [yonggui-li/CVE-2021-43890_poc](https://github.com/yonggui-li/CVE-2021-43890_poc)	<img alt="forks" src="https://img.shields.io/github/forks/yonggui-li/CVE-2021-43890_poc">	<img alt="stars" src="https://img.shields.io/github/stars/yonggui-li/CVE-2021-43890_poc">
 
 ---
+## CVE-2021-43858 (2021-12-27T22:15:00)
+> MinIO is a Kubernetes native application for cloud storage. Prior to version `RELEASE.2021-12-27T07-23-18Z`, a malicious client can hand-craft an HTTP API call that allows for updating policy for a user and gaining higher privileges. The patch in version `RELEASE.2021-12-27T07-23-18Z` changes the accepted request body type and removes the ability to apply policy changes through this API. There is a workaround for this vulnerability: Changing passwords can be disabled by adding an explicit `Deny` rule to disable the API for users.
+- [khuntor/CVE-2021-43858-MinIO](https://github.com/khuntor/CVE-2021-43858-MinIO)	<img alt="forks" src="https://img.shields.io/github/forks/khuntor/CVE-2021-43858-MinIO">	<img alt="stars" src="https://img.shields.io/github/stars/khuntor/CVE-2021-43858-MinIO">
+- [0rx1/cve-2021-43858](https://github.com/0rx1/cve-2021-43858)	<img alt="forks" src="https://img.shields.io/github/forks/0rx1/cve-2021-43858">	<img alt="stars" src="https://img.shields.io/github/stars/0rx1/cve-2021-43858">
+
+---
 ## CVE-2021-43845 (2021-12-27T18:15:00)
 > PJSIP is a free and open source multimedia communication library. In version 2.11.1 and prior, if incoming RTCP XR message contain block, the data field is not checked against the received packet size, potentially resulting in an out-of-bound read access. This affects all users that use PJMEDIA and RTCP XR. A malicious actor can send a RTCP XR message with an invalid packet size.
 - [Live-Hack-CVE/CVE-2021-43845](https://github.com/Live-Hack-CVE/CVE-2021-43845)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43845">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43845">
