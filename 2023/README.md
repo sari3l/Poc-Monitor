@@ -489,6 +489,7 @@
 ## CVE-2023-21554 (2023-04-11T21:15:00)
 > Microsoft Message Queuing Remote Code Execution Vulnerability
 - [00hashmaker/CVE-2023-21554-0day](https://github.com/00hashmaker/CVE-2023-21554-0day)	<img alt="forks" src="https://img.shields.io/github/forks/00hashmaker/CVE-2023-21554-0day">	<img alt="stars" src="https://img.shields.io/github/stars/00hashmaker/CVE-2023-21554-0day">
+- [hash0x1/CVE-2023-21554](https://github.com/hash0x1/CVE-2023-21554)	<img alt="forks" src="https://img.shields.io/github/forks/hash0x1/CVE-2023-21554">	<img alt="stars" src="https://img.shields.io/github/stars/hash0x1/CVE-2023-21554">
 
 ---
 ## CVE-2023-21389 ()
