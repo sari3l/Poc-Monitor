@@ -545,6 +545,7 @@
 > A vulnerability classified as critical has been found in jeecg-boot 3.5.0. This affects an unknown part of the file jmreport/qurestSql. The manipulation of the argument apiSelectId leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-223299.
 - [gobysec/CVE-2023-1454](https://github.com/gobysec/CVE-2023-1454)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/CVE-2023-1454">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/CVE-2023-1454">
 - [MzzdToT/CVE-2023-1454](https://github.com/MzzdToT/CVE-2023-1454)	<img alt="forks" src="https://img.shields.io/github/forks/MzzdToT/CVE-2023-1454">	<img alt="stars" src="https://img.shields.io/github/stars/MzzdToT/CVE-2023-1454">
+- [CKevens/CVE-2023-1454-EXP](https://github.com/CKevens/CVE-2023-1454-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2023-1454-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2023-1454-EXP">
 
 ---
 ## CVE-2023-1415 (2023-03-15T16:15:00)
