@@ -562,6 +562,11 @@
 - [emotest1/CVE-2023-123456](https://github.com/emotest1/CVE-2023-123456)	<img alt="forks" src="https://img.shields.io/github/forks/emotest1/CVE-2023-123456">	<img alt="stars" src="https://img.shields.io/github/stars/emotest1/CVE-2023-123456">
 
 ---
+## CVE-2023-1177 (2023-03-24T15:15:00)
+> Path Traversal: '\..\filename' in GitHub repository mlflow/mlflow prior to 2.2.1.
+- [hh-hunter/CVE-2023-1177-Docker](https://github.com/hh-hunter/CVE-2023-1177-Docker)	<img alt="forks" src="https://img.shields.io/github/forks/hh-hunter/CVE-2023-1177-Docker">	<img alt="stars" src="https://img.shields.io/github/stars/hh-hunter/CVE-2023-1177-Docker">
+
+---
 ## CVE-2023-0861 (2023-02-16T09:15:00)
 > NetModule NSRW web administration interface executes an OS command constructed with unsanitized user input. A successful exploit could allow an authenticated user to execute arbitrary commands with elevated privileges. This issue affects NSRW: from 4.3.0.0 before 4.3.0.119, from 4.4.0.0 before 4.4.0.118, from 4.6.0.0 before 4.6.0.105, from 4.7.0.0 before 4.7.0.103.
 - [seifallahhomrani1/CVE-2023-0861-POC](https://github.com/seifallahhomrani1/CVE-2023-0861-POC)	<img alt="forks" src="https://img.shields.io/github/forks/seifallahhomrani1/CVE-2023-0861-POC">	<img alt="stars" src="https://img.shields.io/github/stars/seifallahhomrani1/CVE-2023-0861-POC">
