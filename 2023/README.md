@@ -140,6 +140,7 @@
 - [uicres/CVE-2023-25610-PoC](https://github.com/uicres/CVE-2023-25610-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/uicres/CVE-2023-25610-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/uicres/CVE-2023-25610-PoC">
 - [l1ced/CVE-2023-25610-mass](https://github.com/l1ced/CVE-2023-25610-mass)	<img alt="forks" src="https://img.shields.io/github/forks/l1ced/CVE-2023-25610-mass">	<img alt="stars" src="https://img.shields.io/github/stars/l1ced/CVE-2023-25610-mass">
 - [PSIRT-REPO/CVE-2023-25610](https://github.com/PSIRT-REPO/CVE-2023-25610)	<img alt="forks" src="https://img.shields.io/github/forks/PSIRT-REPO/CVE-2023-25610">	<img alt="stars" src="https://img.shields.io/github/stars/PSIRT-REPO/CVE-2023-25610">
+- [FortiSecurity/CVE-2023-25610](https://github.com/FortiSecurity/CVE-2023-25610)	<img alt="forks" src="https://img.shields.io/github/forks/FortiSecurity/CVE-2023-25610">	<img alt="stars" src="https://img.shields.io/github/stars/FortiSecurity/CVE-2023-25610">
 
 ---
 ## CVE-2023-25263 (2023-03-27T21:15:00)
@@ -492,6 +493,7 @@
 - [00hashmaker/CVE-2023-21554-0day](https://github.com/00hashmaker/CVE-2023-21554-0day)	<img alt="forks" src="https://img.shields.io/github/forks/00hashmaker/CVE-2023-21554-0day">	<img alt="stars" src="https://img.shields.io/github/stars/00hashmaker/CVE-2023-21554-0day">
 - [hash0x1/CVE-2023-21554](https://github.com/hash0x1/CVE-2023-21554)	<img alt="forks" src="https://img.shields.io/github/forks/hash0x1/CVE-2023-21554">	<img alt="stars" src="https://img.shields.io/github/stars/hash0x1/CVE-2023-21554">
 - [select275/CVE-2023-21554-PoC](https://github.com/select275/CVE-2023-21554-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/select275/CVE-2023-21554-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/select275/CVE-2023-21554-PoC">
+- [HshMkr/CVE-2023-21554](https://github.com/HshMkr/CVE-2023-21554)	<img alt="forks" src="https://img.shields.io/github/forks/HshMkr/CVE-2023-21554">	<img alt="stars" src="https://img.shields.io/github/stars/HshMkr/CVE-2023-21554">
 
 ---
 ## CVE-2023-21389 ()
