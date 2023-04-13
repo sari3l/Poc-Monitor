@@ -53,6 +53,7 @@
 - [7a6163/CVE-2023-28432](https://github.com/7a6163/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/7a6163/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/7a6163/CVE-2023-28432">
 - [LHXHL/Minio-CVE-2023-28432](https://github.com/LHXHL/Minio-CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/LHXHL/Minio-CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/LHXHL/Minio-CVE-2023-28432">
 - [h0ng10/CVE-2023-28432_docker](https://github.com/h0ng10/CVE-2023-28432_docker)	<img alt="forks" src="https://img.shields.io/github/forks/h0ng10/CVE-2023-28432_docker">	<img alt="stars" src="https://img.shields.io/github/stars/h0ng10/CVE-2023-28432_docker">
+- [CHINA-china/MinIO_CVE-2023-28432_EXP](https://github.com/CHINA-china/MinIO_CVE-2023-28432_EXP)	<img alt="forks" src="https://img.shields.io/github/forks/CHINA-china/MinIO_CVE-2023-28432_EXP">	<img alt="stars" src="https://img.shields.io/github/stars/CHINA-china/MinIO_CVE-2023-28432_EXP">
 
 ---
 ## CVE-2023-28343 (2023-03-14T20:15:00)
