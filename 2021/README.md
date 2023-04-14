@@ -4146,6 +4146,11 @@
 - [Live-Hack-CVE/CVE-2021-35252](https://github.com/Live-Hack-CVE/CVE-2021-35252)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35252">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35252">
 
 ---
+## CVE-2021-35250 (2022-04-25T20:15:00)
+> A researcher reported a Directory Transversal Vulnerability in Serv-U 15.3. This may allow access to files relating to the Serv-U installation and server files. This issue has been resolved in Serv-U 15.3 Hotfix 1.
+- [rissor41/SolarWinds-CVE-2021-35250](https://github.com/rissor41/SolarWinds-CVE-2021-35250)	<img alt="forks" src="https://img.shields.io/github/forks/rissor41/SolarWinds-CVE-2021-35250">	<img alt="stars" src="https://img.shields.io/github/stars/rissor41/SolarWinds-CVE-2021-35250">
+
+---
 ## CVE-2021-35249 (2022-05-17T20:15:00)
 > This broken access control vulnerability pertains specifically to a domain admin who can access configuration & user data of other domains which they should not have access to. Please note the admin is unable to modify the data (read only operation). This UAC issue leads to a data leak to unauthorized users for a domain, with no log of them accessing the data unless they attempt to modify it. This read-only activity is logged to the original domain and does not specify which domain was accessed.
 - [Live-Hack-CVE/CVE-2021-35249](https://github.com/Live-Hack-CVE/CVE-2021-35249)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35249">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35249">
