@@ -16,8 +16,8 @@
 - [Trinadh465/linux_4.19.72_CVE-2023-42896](https://github.com/Trinadh465/linux_4.19.72_CVE-2023-42896)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux_4.19.72_CVE-2023-42896">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux_4.19.72_CVE-2023-42896">
 
 ---
-## CVE-2023-30459 ()
-> 
+## CVE-2023-30459 (2023-04-14T15:15:00)
+> SmartPTT SCADA 1.1.0.0 allows remote code execution (when the attacker has administrator privileges) by writing a malicious C# script and executing it on the server (via server settings in the administrator control panel on port 8101, by default).
 - [Toxich4/CVE-2023-30459](https://github.com/Toxich4/CVE-2023-30459)	<img alt="forks" src="https://img.shields.io/github/forks/Toxich4/CVE-2023-30459">	<img alt="stars" src="https://img.shields.io/github/stars/Toxich4/CVE-2023-30459">
 - [Toxich4/CVE-2023-30459](https://github.com/Toxich4/CVE-2023-30459)	<img alt="forks" src="https://img.shields.io/github/forks/Toxich4/CVE-2023-30459">	<img alt="stars" src="https://img.shields.io/github/stars/Toxich4/CVE-2023-30459">
 
