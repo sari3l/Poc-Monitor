@@ -28,6 +28,11 @@
 - [Kaneki-hash/CVE-2023-29017-reverse-shell](https://github.com/Kaneki-hash/CVE-2023-29017-reverse-shell)	<img alt="forks" src="https://img.shields.io/github/forks/Kaneki-hash/CVE-2023-29017-reverse-shell">	<img alt="stars" src="https://img.shields.io/github/stars/Kaneki-hash/CVE-2023-29017-reverse-shell">
 
 ---
+## CVE-2023-28615 ()
+> 
+- [YSaxon/CVE-2023-28615](https://github.com/YSaxon/CVE-2023-28615)	<img alt="forks" src="https://img.shields.io/github/forks/YSaxon/CVE-2023-28615">	<img alt="stars" src="https://img.shields.io/github/stars/YSaxon/CVE-2023-28615">
+
+---
 ## CVE-2023-28450 (2023-03-15T21:15:00)
 > An issue was discovered in Dnsmasq before 2.90. The default maximum EDNS.0 UDP packet size was set to 4096 but should be 1232 because of DNS Flag Day 2020.
 - [Satheesh575555/linux-4.19.72_CVE-2023-28450](https://github.com/Satheesh575555/linux-4.19.72_CVE-2023-28450)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/linux-4.19.72_CVE-2023-28450">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/linux-4.19.72_CVE-2023-28450">
