@@ -505,6 +505,7 @@
 - [00hshmakr/CVE-2023-21554](https://github.com/00hshmakr/CVE-2023-21554)	<img alt="forks" src="https://img.shields.io/github/forks/00hshmakr/CVE-2023-21554">	<img alt="stars" src="https://img.shields.io/github/stars/00hshmakr/CVE-2023-21554">
 - [tonarni/CVE-2023-21554-RCE](https://github.com/tonarni/CVE-2023-21554-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/tonarni/CVE-2023-21554-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/tonarni/CVE-2023-21554-RCE">
 - [xhshes/CVE-2023-21554-QueueJumper](https://github.com/xhshes/CVE-2023-21554-QueueJumper)	<img alt="forks" src="https://img.shields.io/github/forks/xhshes/CVE-2023-21554-QueueJumper">	<img alt="stars" src="https://img.shields.io/github/stars/xhshes/CVE-2023-21554-QueueJumper">
+- [durte/CVE-2023-21554-RCE](https://github.com/durte/CVE-2023-21554-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/durte/CVE-2023-21554-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/durte/CVE-2023-21554-RCE">
 
 ---
 ## CVE-2023-21389 ()
