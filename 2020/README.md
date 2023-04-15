@@ -264,6 +264,10 @@
 > Improper access control in Citrix ADC and Citrix Gateway versions before 13.0-58.30, 12.1-57.18, 12.0-63.21, 11.1-64.14 and 10.5-70.18 and Citrix SDWAN WAN-OP versions before 11.1.1a, 11.0.3d and 10.2.7 allows unauthenticated access to certain URL endpoints.
 - [Live-Hack-CVE/CVE-2020-8193](https://github.com/Live-Hack-CVE/CVE-2020-8193)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8193">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8193">
 - [PR3R00T/CVE-2020-8193-Citrix-Scanner](https://github.com/PR3R00T/CVE-2020-8193-Citrix-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/PR3R00T/CVE-2020-8193-Citrix-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/PR3R00T/CVE-2020-8193-Citrix-Scanner">
+- [ctlyz123/CVE-2020-8193](https://github.com/ctlyz123/CVE-2020-8193)	<img alt="forks" src="https://img.shields.io/github/forks/ctlyz123/CVE-2020-8193">	<img alt="stars" src="https://img.shields.io/github/stars/ctlyz123/CVE-2020-8193">
+- [Zeop-CyberSec/citrix_adc_netscaler_lfi](https://github.com/Zeop-CyberSec/citrix_adc_netscaler_lfi)	<img alt="forks" src="https://img.shields.io/github/forks/Zeop-CyberSec/citrix_adc_netscaler_lfi">	<img alt="stars" src="https://img.shields.io/github/stars/Zeop-CyberSec/citrix_adc_netscaler_lfi">
+- [Airboi/Citrix-ADC-RCE-CVE-2020-8193](https://github.com/Airboi/Citrix-ADC-RCE-CVE-2020-8193)	<img alt="forks" src="https://img.shields.io/github/forks/Airboi/Citrix-ADC-RCE-CVE-2020-8193">	<img alt="stars" src="https://img.shields.io/github/stars/Airboi/Citrix-ADC-RCE-CVE-2020-8193">
+- [jas502n/CVE-2020-8193](https://github.com/jas502n/CVE-2020-8193)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2020-8193">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2020-8193">
 
 ---
 ## CVE-2020-8163 (2020-07-02T19:15:00)
