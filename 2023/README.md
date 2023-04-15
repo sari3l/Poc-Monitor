@@ -441,6 +441,7 @@
 - [deathflash1411/CVE-2023-21839](https://github.com/deathflash1411/CVE-2023-21839)	<img alt="forks" src="https://img.shields.io/github/forks/deathflash1411/CVE-2023-21839">	<img alt="stars" src="https://img.shields.io/github/stars/deathflash1411/CVE-2023-21839">
 - [Firebasky/CVE-2023-21839](https://github.com/Firebasky/CVE-2023-21839)	<img alt="forks" src="https://img.shields.io/github/forks/Firebasky/CVE-2023-21839">	<img alt="stars" src="https://img.shields.io/github/stars/Firebasky/CVE-2023-21839">
 - [poppylarrry/Zero-Days](https://github.com/poppylarrry/Zero-Days)	<img alt="forks" src="https://img.shields.io/github/forks/poppylarrry/Zero-Days">	<img alt="stars" src="https://img.shields.io/github/stars/poppylarrry/Zero-Days">
+- [houqe/POC_CVE-2023-21839](https://github.com/houqe/POC_CVE-2023-21839)	<img alt="forks" src="https://img.shields.io/github/forks/houqe/POC_CVE-2023-21839">	<img alt="stars" src="https://img.shields.io/github/stars/houqe/POC_CVE-2023-21839">
 
 ---
 ## CVE-2023-21837 (2023-01-18T00:15:00)
