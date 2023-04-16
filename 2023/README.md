@@ -552,6 +552,11 @@
 - [limo520/CVE-2023-20860](https://github.com/limo520/CVE-2023-20860)	<img alt="forks" src="https://img.shields.io/github/forks/limo520/CVE-2023-20860">	<img alt="stars" src="https://img.shields.io/github/stars/limo520/CVE-2023-20860">
 
 ---
+## CVE-2023-2002 ()
+> 
+- [lrh2000/CVE-2023-2002](https://github.com/lrh2000/CVE-2023-2002)	<img alt="forks" src="https://img.shields.io/github/forks/lrh2000/CVE-2023-2002">	<img alt="stars" src="https://img.shields.io/github/stars/lrh2000/CVE-2023-2002">
+
+---
 ## CVE-2023-1665 (2023-03-27T22:15:00)
 > Improper Restriction of Excessive Authentication Attempts in GitHub repository linagora/twake prior to 0.0.0.
 - [0xsu3ks/CVE-2023-1665](https://github.com/0xsu3ks/CVE-2023-1665)	<img alt="forks" src="https://img.shields.io/github/forks/0xsu3ks/CVE-2023-1665">	<img alt="stars" src="https://img.shields.io/github/stars/0xsu3ks/CVE-2023-1665">
