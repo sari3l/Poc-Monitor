@@ -726,6 +726,7 @@
 - [rejupillai/log4j2-hack-springboot](https://github.com/rejupillai/log4j2-hack-springboot)	<img alt="forks" src="https://img.shields.io/github/forks/rejupillai/log4j2-hack-springboot">	<img alt="stars" src="https://img.shields.io/github/stars/rejupillai/log4j2-hack-springboot">
 - [YuanRuQian/CVE-2021-44228-attack-demo](https://github.com/YuanRuQian/CVE-2021-44228-attack-demo)	<img alt="forks" src="https://img.shields.io/github/forks/YuanRuQian/CVE-2021-44228-attack-demo">	<img alt="stars" src="https://img.shields.io/github/stars/YuanRuQian/CVE-2021-44228-attack-demo">
 - [demonrvm/Log4ShellRemediation](https://github.com/demonrvm/Log4ShellRemediation)	<img alt="forks" src="https://img.shields.io/github/forks/demonrvm/Log4ShellRemediation">	<img alt="stars" src="https://img.shields.io/github/stars/demonrvm/Log4ShellRemediation">
+- [funcid/log4j-exploit-with-fork-bomb](https://github.com/funcid/log4j-exploit-with-fork-bomb)	<img alt="forks" src="https://img.shields.io/github/forks/funcid/log4j-exploit-with-fork-bomb">	<img alt="stars" src="https://img.shields.io/github/stars/funcid/log4j-exploit-with-fork-bomb">
 
 ---
 ## CVE-2021-44158 (2022-01-03T10:15:00)
