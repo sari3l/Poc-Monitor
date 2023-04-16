@@ -485,6 +485,7 @@
 - [mikesxrs/CVE-2023-21716_YARA_Results](https://github.com/mikesxrs/CVE-2023-21716_YARA_Results)	<img alt="forks" src="https://img.shields.io/github/forks/mikesxrs/CVE-2023-21716_YARA_Results">	<img alt="stars" src="https://img.shields.io/github/stars/mikesxrs/CVE-2023-21716_YARA_Results">
 - [CKevens/CVE-2023-21716-POC](https://github.com/CKevens/CVE-2023-21716-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2023-21716-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2023-21716-POC">
 - [hv0l/CVE-2023-21716_exploit](https://github.com/hv0l/CVE-2023-21716_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/hv0l/CVE-2023-21716_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/hv0l/CVE-2023-21716_exploit">
+- [JMousqueton/CVE-2023-21716](https://github.com/JMousqueton/CVE-2023-21716)	<img alt="forks" src="https://img.shields.io/github/forks/JMousqueton/CVE-2023-21716">	<img alt="stars" src="https://img.shields.io/github/stars/JMousqueton/CVE-2023-21716">
 
 ---
 ## CVE-2023-21608 (2023-01-18T19:15:00)
