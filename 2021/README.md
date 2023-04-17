@@ -2742,6 +2742,11 @@
 - [nidhihcl/frameworks_base_AOSP_10_r33_CVE-2021-39696](https://github.com/nidhihcl/frameworks_base_AOSP_10_r33_CVE-2021-39696)	<img alt="forks" src="https://img.shields.io/github/forks/nidhihcl/frameworks_base_AOSP_10_r33_CVE-2021-39696">	<img alt="stars" src="https://img.shields.io/github/stars/nidhihcl/frameworks_base_AOSP_10_r33_CVE-2021-39696">
 
 ---
+## CVE-2021-39692 (2022-03-16T15:15:00)
+> In onCreate of SetupLayoutActivity.java, there is a possible way to setup a work profile bypassing user consent due to a tapjacking/overlay attack. This could lead to local escalation of privilege with User execution privileges needed. User interaction is needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12Android ID: A-209611539
+- [nanopathi/packages_apps_ManagedProvisioning_CVE-2021-39692](https://github.com/nanopathi/packages_apps_ManagedProvisioning_CVE-2021-39692)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/packages_apps_ManagedProvisioning_CVE-2021-39692">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/packages_apps_ManagedProvisioning_CVE-2021-39692">
+
+---
 ## CVE-2021-39674 (2022-02-11T18:15:00)
 > In btm_sec_connected and btm_sec_disconnected of btm_sec.cc file , there is a possible use after free. This could lead to local escalation of privilege with User execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12Android ID: A-201083442
 - [nidhi7598/system_bt_AOSP_10_r33_CVE-2021-39674](https://github.com/nidhi7598/system_bt_AOSP_10_r33_CVE-2021-39674)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/system_bt_AOSP_10_r33_CVE-2021-39674">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/system_bt_AOSP_10_r33_CVE-2021-39674">
@@ -8021,6 +8026,11 @@
 ## CVE-2021-0696 (2022-10-11T20:15:00)
 > In dllist_remove_node of TBD, there is a possible use after free bug due to a race condition. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android SoCAndroid ID: A-242344778
 - [Live-Hack-CVE/CVE-2021-0696](https://github.com/Live-Hack-CVE/CVE-2021-0696)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-0696">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-0696">
+
+---
+## CVE-2021-0586 (2021-07-14T14:15:00)
+> In onCreate of DevicePickerFragment.java, there is a possible way to trick the user to select an unwanted bluetooth device due to a tapjacking/overlay attack. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is needed for exploitation.Product: AndroidVersions: Android-11 Android-8.1 Android-9 Android-10Android ID: A-182584940
+- [nanopathi/packages_apps_Settings_CVE-2021-0586](https://github.com/nanopathi/packages_apps_Settings_CVE-2021-0586)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/packages_apps_Settings_CVE-2021-0586">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/packages_apps_Settings_CVE-2021-0586">
 
 ---
 ## CVE-2021-0561 (2021-06-22T11:15:00)
