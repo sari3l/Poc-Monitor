@@ -553,6 +553,11 @@
 - [limo520/CVE-2023-20860](https://github.com/limo520/CVE-2023-20860)	<img alt="forks" src="https://img.shields.io/github/forks/limo520/CVE-2023-20860">	<img alt="stars" src="https://img.shields.io/github/stars/limo520/CVE-2023-20860">
 
 ---
+## CVE-2023-2033 (2023-04-14T19:15:00)
+> Type confusion in V8 in Google Chrome prior to 112.0.5615.121 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
+- [insoxin/CVE-2023-2033](https://github.com/insoxin/CVE-2023-2033)	<img alt="forks" src="https://img.shields.io/github/forks/insoxin/CVE-2023-2033">	<img alt="stars" src="https://img.shields.io/github/stars/insoxin/CVE-2023-2033">
+
+---
 ## CVE-2023-2002 ()
 > 
 - [lrh2000/CVE-2023-2002](https://github.com/lrh2000/CVE-2023-2002)	<img alt="forks" src="https://img.shields.io/github/forks/lrh2000/CVE-2023-2002">	<img alt="stars" src="https://img.shields.io/github/stars/lrh2000/CVE-2023-2002">
