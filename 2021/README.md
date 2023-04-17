@@ -8031,6 +8031,7 @@
 ## CVE-2021-0586 (2021-07-14T14:15:00)
 > In onCreate of DevicePickerFragment.java, there is a possible way to trick the user to select an unwanted bluetooth device due to a tapjacking/overlay attack. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is needed for exploitation.Product: AndroidVersions: Android-11 Android-8.1 Android-9 Android-10Android ID: A-182584940
 - [nanopathi/packages_apps_Settings_CVE-2021-0586](https://github.com/nanopathi/packages_apps_Settings_CVE-2021-0586)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/packages_apps_Settings_CVE-2021-0586">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/packages_apps_Settings_CVE-2021-0586">
+- [Nate0634034090/bug-free-memory](https://github.com/Nate0634034090/bug-free-memory)	<img alt="forks" src="https://img.shields.io/github/forks/Nate0634034090/bug-free-memory">	<img alt="stars" src="https://img.shields.io/github/stars/Nate0634034090/bug-free-memory">
 
 ---
 ## CVE-2021-0561 (2021-06-22T11:15:00)
