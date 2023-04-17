@@ -22,6 +22,11 @@
 - [Toxich4/CVE-2023-30459](https://github.com/Toxich4/CVE-2023-30459)	<img alt="forks" src="https://img.shields.io/github/forks/Toxich4/CVE-2023-30459">	<img alt="stars" src="https://img.shields.io/github/stars/Toxich4/CVE-2023-30459">
 
 ---
+## CVE-2023-29084 (2023-04-13T19:15:00)
+> Zoho ManageEngine ADManager Plus through 7180 allows for authenticated users to exploit command injection via Proxy settings.
+- [ohnonoyesyes/CVE-2023-29084](https://github.com/ohnonoyesyes/CVE-2023-29084)	<img alt="forks" src="https://img.shields.io/github/forks/ohnonoyesyes/CVE-2023-29084">	<img alt="stars" src="https://img.shields.io/github/stars/ohnonoyesyes/CVE-2023-29084">
+
+---
 ## CVE-2023-29017 (2023-04-06T20:15:00)
 > vm2 is a sandbox that can run untrusted code with whitelisted Node's built-in modules. Prior to version 3.9.15, vm2 was not properly handling host objects passed to `Error.prepareStackTrace` in case of unhandled async errors. A threat actor could bypass the sandbox protections to gain remote code execution rights on the host running the sandbox. This vulnerability was patched in the release of version 3.9.15 of vm2. There are no known workarounds.
 - [timb-machine-mirrors/seongil-wi-CVE-2023-29017](https://github.com/timb-machine-mirrors/seongil-wi-CVE-2023-29017)	<img alt="forks" src="https://img.shields.io/github/forks/timb-machine-mirrors/seongil-wi-CVE-2023-29017">	<img alt="stars" src="https://img.shields.io/github/stars/timb-machine-mirrors/seongil-wi-CVE-2023-29017">
