@@ -520,6 +520,7 @@
 - [10xeye/CVE-2023-21554-POC](https://github.com/10xeye/CVE-2023-21554-POC)	<img alt="forks" src="https://img.shields.io/github/forks/10xeye/CVE-2023-21554-POC">	<img alt="stars" src="https://img.shields.io/github/stars/10xeye/CVE-2023-21554-POC">
 - [C00k3rbkr/CVE-2023-21554-RCE](https://github.com/C00k3rbkr/CVE-2023-21554-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/C00k3rbkr/CVE-2023-21554-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/C00k3rbkr/CVE-2023-21554-RCE">
 - [b4rt0xx/CVE-2023-21554-POC](https://github.com/b4rt0xx/CVE-2023-21554-POC)	<img alt="forks" src="https://img.shields.io/github/forks/b4rt0xx/CVE-2023-21554-POC">	<img alt="stars" src="https://img.shields.io/github/stars/b4rt0xx/CVE-2023-21554-POC">
+- [Hashi0x/PoC-CVE-2023-21554](https://github.com/Hashi0x/PoC-CVE-2023-21554)	<img alt="forks" src="https://img.shields.io/github/forks/Hashi0x/PoC-CVE-2023-21554">	<img alt="stars" src="https://img.shields.io/github/stars/Hashi0x/PoC-CVE-2023-21554">
 
 ---
 ## CVE-2023-21389 ()
