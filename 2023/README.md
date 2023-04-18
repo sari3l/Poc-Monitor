@@ -188,6 +188,7 @@
 - [jfrog/jfrog-CVE-2023-25136-OpenSSH_Double-Free](https://github.com/jfrog/jfrog-CVE-2023-25136-OpenSSH_Double-Free)	<img alt="forks" src="https://img.shields.io/github/forks/jfrog/jfrog-CVE-2023-25136-OpenSSH_Double-Free">	<img alt="stars" src="https://img.shields.io/github/stars/jfrog/jfrog-CVE-2023-25136-OpenSSH_Double-Free">
 - [ticofookfook/CVE-2023-25136](https://github.com/ticofookfook/CVE-2023-25136)	<img alt="forks" src="https://img.shields.io/github/forks/ticofookfook/CVE-2023-25136">	<img alt="stars" src="https://img.shields.io/github/stars/ticofookfook/CVE-2023-25136">
 - [Christbowel/CVE-2023-25136](https://github.com/Christbowel/CVE-2023-25136)	<img alt="forks" src="https://img.shields.io/github/forks/Christbowel/CVE-2023-25136">	<img alt="stars" src="https://img.shields.io/github/stars/Christbowel/CVE-2023-25136">
+- [adhikara13/CVE-2023-25136](https://github.com/adhikara13/CVE-2023-25136)	<img alt="forks" src="https://img.shields.io/github/forks/adhikara13/CVE-2023-25136">	<img alt="stars" src="https://img.shields.io/github/stars/adhikara13/CVE-2023-25136">
 
 ---
 ## CVE-2023-24998 (2023-02-20T16:15:00)
