@@ -519,6 +519,7 @@
 - [durte/CVE-2023-21554-RCE](https://github.com/durte/CVE-2023-21554-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/durte/CVE-2023-21554-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/durte/CVE-2023-21554-RCE">
 - [10xeye/CVE-2023-21554-POC](https://github.com/10xeye/CVE-2023-21554-POC)	<img alt="forks" src="https://img.shields.io/github/forks/10xeye/CVE-2023-21554-POC">	<img alt="stars" src="https://img.shields.io/github/stars/10xeye/CVE-2023-21554-POC">
 - [C00k3rbkr/CVE-2023-21554-RCE](https://github.com/C00k3rbkr/CVE-2023-21554-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/C00k3rbkr/CVE-2023-21554-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/C00k3rbkr/CVE-2023-21554-RCE">
+- [b4rt0xx/CVE-2023-21554-POC](https://github.com/b4rt0xx/CVE-2023-21554-POC)	<img alt="forks" src="https://img.shields.io/github/forks/b4rt0xx/CVE-2023-21554-POC">	<img alt="stars" src="https://img.shields.io/github/stars/b4rt0xx/CVE-2023-21554-POC">
 
 ---
 ## CVE-2023-21389 ()
