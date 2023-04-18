@@ -6507,6 +6507,11 @@
 - [Live-Hack-CVE/CVE-2021-24752](https://github.com/Live-Hack-CVE/CVE-2021-24752)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24752">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24752">
 
 ---
+## CVE-2021-24741 (2021-09-20T10:15:00)
+> The Support Board WordPress plugin before 3.3.4 does not escape multiple POST parameters (such as status_code, department, user_id, conversation_id, conversation_status_code, and recipient_id) before using them in SQL statements, leading to SQL injections which are exploitable by unauthenticated users.
+- [itsjeffersonli/CVE-2021-24741](https://github.com/itsjeffersonli/CVE-2021-24741)	<img alt="forks" src="https://img.shields.io/github/forks/itsjeffersonli/CVE-2021-24741">	<img alt="stars" src="https://img.shields.io/github/stars/itsjeffersonli/CVE-2021-24741">
+
+---
 ## CVE-2021-24739 (2021-12-21T09:15:00)
 > The Logo Carousel WordPress plugin before 3.4.2 allows users with a role as low as Contributor to duplicate and view arbitrary private posts made by other users via the Carousel Duplication feature
 - [Live-Hack-CVE/CVE-2021-24739](https://github.com/Live-Hack-CVE/CVE-2021-24739)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24739">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24739">
