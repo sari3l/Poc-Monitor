@@ -454,6 +454,7 @@
 - [poppylarrry/Zero-Days](https://github.com/poppylarrry/Zero-Days)	<img alt="forks" src="https://img.shields.io/github/forks/poppylarrry/Zero-Days">	<img alt="stars" src="https://img.shields.io/github/stars/poppylarrry/Zero-Days">
 - [houqe/POC_CVE-2023-21839](https://github.com/houqe/POC_CVE-2023-21839)	<img alt="forks" src="https://img.shields.io/github/forks/houqe/POC_CVE-2023-21839">	<img alt="stars" src="https://img.shields.io/github/stars/houqe/POC_CVE-2023-21839">
 - [houqe/POC_CVE-2023-21839](https://github.com/houqe/POC_CVE-2023-21839)	<img alt="forks" src="https://img.shields.io/github/forks/houqe/POC_CVE-2023-21839">	<img alt="stars" src="https://img.shields.io/github/stars/houqe/POC_CVE-2023-21839">
+- [gobysec/Weblogic](https://github.com/gobysec/Weblogic)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/Weblogic">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/Weblogic">
 
 ---
 ## CVE-2023-21837 (2023-01-18T00:15:00)
