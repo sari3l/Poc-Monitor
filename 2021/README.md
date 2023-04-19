@@ -5200,6 +5200,11 @@
 - [Live-Hack-CVE/CVE-2021-31650](https://github.com/Live-Hack-CVE/CVE-2021-31650)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31650">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31650">
 
 ---
+## CVE-2021-31589 (2022-01-05T12:15:00)
+> A cross-site scripting (XSS) vulnerability has been reported and confirmed for BeyondTrust Secure Remote Access Base Software version 6.0.1 and older, which allows the injection of unauthenticated, specially-crafted web requests without proper sanitization.
+- [karthi-the-hacker/CVE-2021-31589](https://github.com/karthi-the-hacker/CVE-2021-31589)	<img alt="forks" src="https://img.shields.io/github/forks/karthi-the-hacker/CVE-2021-31589">	<img alt="stars" src="https://img.shields.io/github/stars/karthi-the-hacker/CVE-2021-31589">
+
+---
 ## CVE-2021-31583 (2021-04-23T21:15:00)
 > Sipwise C5 NGCP WWW Admin version 3.6.7 up to and including platform version NGCP CE 3.0 has multiple authenticated stored and reflected XSS vulnerabilities when input passed via several parameters to several scripts is not properly sanitized before being returned to the user: Stored XSS in callforward/time/set/save (POST tsetname); Reflected XSS in addressbook (GET filter); Stored XSS in addressbook/save (POST firstname, lastname, company); and Reflected XSS in statistics/versions (GET lang).
 - [Live-Hack-CVE/CVE-2021-31583](https://github.com/Live-Hack-CVE/CVE-2021-31583)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31583">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31583">
