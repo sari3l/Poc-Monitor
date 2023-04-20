@@ -531,6 +531,7 @@
 - [b4rt0xx/CVE-2023-21554-POC](https://github.com/b4rt0xx/CVE-2023-21554-POC)	<img alt="forks" src="https://img.shields.io/github/forks/b4rt0xx/CVE-2023-21554-POC">	<img alt="stars" src="https://img.shields.io/github/stars/b4rt0xx/CVE-2023-21554-POC">
 - [Hashi0x/PoC-CVE-2023-21554](https://github.com/Hashi0x/PoC-CVE-2023-21554)	<img alt="forks" src="https://img.shields.io/github/forks/Hashi0x/PoC-CVE-2023-21554">	<img alt="stars" src="https://img.shields.io/github/stars/Hashi0x/PoC-CVE-2023-21554">
 - [C3r7/CVE-2023-21554-RCE](https://github.com/C3r7/CVE-2023-21554-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/C3r7/CVE-2023-21554-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/C3r7/CVE-2023-21554-RCE">
+- [g1x-r/CVE-2023-21554-PoC](https://github.com/g1x-r/CVE-2023-21554-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/g1x-r/CVE-2023-21554-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/g1x-r/CVE-2023-21554-PoC">
 
 ---
 ## CVE-2023-21389 ()
@@ -587,8 +588,8 @@
 - [lrh2000/CVE-2023-2002](https://github.com/lrh2000/CVE-2023-2002)	<img alt="forks" src="https://img.shields.io/github/forks/lrh2000/CVE-2023-2002">	<img alt="stars" src="https://img.shields.io/github/stars/lrh2000/CVE-2023-2002">
 
 ---
-## CVE-2023-1767 ()
-> 
+## CVE-2023-1767 (2023-04-20T10:15:00)
+> The Snyk Advisor website (https://snyk.io/advisor/) was vulnerable to a stored XSS prior to 28th March 2023. A feature of Snyk Advisor is to display the contents of a scanned package's Readme on its package health page. An attacker could create a package in NPM with an associated markdown README file containing XSS-able HTML tags. Upon Snyk Advisor importing the package, the XSS would run each time an end user browsed to the package's page on Snyk Advisor.
 - [weizman/CVE-2023-1767](https://github.com/weizman/CVE-2023-1767)	<img alt="forks" src="https://img.shields.io/github/forks/weizman/CVE-2023-1767">	<img alt="stars" src="https://img.shields.io/github/stars/weizman/CVE-2023-1767">
 
 ---
