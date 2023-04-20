@@ -3150,6 +3150,12 @@
 - [Live-Hack-CVE/CVE-2020-17463](https://github.com/Live-Hack-CVE/CVE-2020-17463)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-17463">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-17463">
 
 ---
+## CVE-2020-17453 (2021-04-05T22:15:00)
+> WSO2 Management Console through 5.10 allows XSS via the carbon/admin/login.jsp msgId parameter.
+- [karthi-the-hacker/CVE-2020-17453](https://github.com/karthi-the-hacker/CVE-2020-17453)	<img alt="forks" src="https://img.shields.io/github/forks/karthi-the-hacker/CVE-2020-17453">	<img alt="stars" src="https://img.shields.io/github/stars/karthi-the-hacker/CVE-2020-17453">
+- [ydycjz6j/CVE-2020-17453-PoC](https://github.com/ydycjz6j/CVE-2020-17453-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ydycjz6j/CVE-2020-17453-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ydycjz6j/CVE-2020-17453-PoC">
+
+---
 ## CVE-2020-1744 (2020-03-24T14:15:00)
 > A flaw was found in keycloak before version 9.0.1. When configuring an Conditional OTP Authentication Flow as a post login flow of an IDP, the failure login events for OTP are not being sent to the brute force protection event queue. So BruteForceProtector does not handle this events.
 - [Live-Hack-CVE/CVE-2020-1744](https://github.com/Live-Hack-CVE/CVE-2020-1744)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1744">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1744">
