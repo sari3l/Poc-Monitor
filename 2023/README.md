@@ -532,6 +532,7 @@
 - [Hashi0x/PoC-CVE-2023-21554](https://github.com/Hashi0x/PoC-CVE-2023-21554)	<img alt="forks" src="https://img.shields.io/github/forks/Hashi0x/PoC-CVE-2023-21554">	<img alt="stars" src="https://img.shields.io/github/stars/Hashi0x/PoC-CVE-2023-21554">
 - [C3r7/CVE-2023-21554-RCE](https://github.com/C3r7/CVE-2023-21554-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/C3r7/CVE-2023-21554-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/C3r7/CVE-2023-21554-RCE">
 - [g1x-r/CVE-2023-21554-PoC](https://github.com/g1x-r/CVE-2023-21554-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/g1x-r/CVE-2023-21554-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/g1x-r/CVE-2023-21554-PoC">
+- [g3tS3rvic3s/CVE-2023-21554-RCE-POC](https://github.com/g3tS3rvic3s/CVE-2023-21554-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/g3tS3rvic3s/CVE-2023-21554-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/g3tS3rvic3s/CVE-2023-21554-RCE-POC">
 
 ---
 ## CVE-2023-21389 ()
