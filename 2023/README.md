@@ -470,6 +470,7 @@
 ## CVE-2023-21823 (2023-02-14T21:15:00)
 > Windows Graphics Component Remote Code Execution Vulnerability
 - [b11y/CVE-2023-21823](https://github.com/b11y/CVE-2023-21823)	<img alt="forks" src="https://img.shields.io/github/forks/b11y/CVE-2023-21823">	<img alt="stars" src="https://img.shields.io/github/stars/b11y/CVE-2023-21823">
+- [Elizarfish/CVE-2023-21823](https://github.com/Elizarfish/CVE-2023-21823)	<img alt="forks" src="https://img.shields.io/github/forks/Elizarfish/CVE-2023-21823">	<img alt="stars" src="https://img.shields.io/github/stars/Elizarfish/CVE-2023-21823">
 
 ---
 ## CVE-2023-21768 (2023-01-10T22:15:00)
