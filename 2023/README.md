@@ -107,6 +107,7 @@
 ## CVE-2023-27350 (2023-04-20T16:15:00)
 > This vulnerability allows remote attackers to bypass authentication on affected installations of PaperCut NG 22.0.5 (Build 63914). Authentication is not required to exploit this vulnerability. The specific flaw exists within the SetupCompleted class. The issue results from improper access control. An attacker can leverage this vulnerability to bypass authentication and execute arbitrary code in the context of SYSTEM. Was ZDI-CAN-18987.
 - [MaanVader/CVE-2023-27350-POC](https://github.com/MaanVader/CVE-2023-27350-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MaanVader/CVE-2023-27350-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MaanVader/CVE-2023-27350-POC">
+- [TamingSariMY/CVE-2023-27350-POC](https://github.com/TamingSariMY/CVE-2023-27350-POC)	<img alt="forks" src="https://img.shields.io/github/forks/TamingSariMY/CVE-2023-27350-POC">	<img alt="stars" src="https://img.shields.io/github/stars/TamingSariMY/CVE-2023-27350-POC">
 
 ---
 ## CVE-2023-27326 ()
