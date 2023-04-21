@@ -72,6 +72,11 @@
 - [superzerosec/CVE-2023-28343](https://github.com/superzerosec/CVE-2023-28343)	<img alt="forks" src="https://img.shields.io/github/forks/superzerosec/CVE-2023-28343">	<img alt="stars" src="https://img.shields.io/github/stars/superzerosec/CVE-2023-28343">
 
 ---
+## CVE-2023-28206 (2023-04-10T19:15:00)
+> An out-of-bounds write issue was addressed with improved input validation. This issue is fixed in iOS 15.7.5 and iPadOS 15.7.5, macOS Monterey 12.6.5, iOS 16.4.1 and iPadOS 16.4.1, macOS Big Sur 11.7.6, macOS Ventura 13.3.1. An app may be able to execute arbitrary code with kernel privileges. Apple is aware of a report that this issue may have been actively exploited.
+- [ZZY3312/CVE-2023-28206](https://github.com/ZZY3312/CVE-2023-28206)	<img alt="forks" src="https://img.shields.io/github/forks/ZZY3312/CVE-2023-28206">	<img alt="stars" src="https://img.shields.io/github/stars/ZZY3312/CVE-2023-28206">
+
+---
 ## CVE-2023-27842 (2023-03-21T15:15:00)
 > Insecure Permissions vulnerability found in Extplorer File manager eXtplorer v.2.1.15 allows a remote attacker to execute arbitrary code via the index.php compenent
 - [tristao-marinho/CVE-2023-27842](https://github.com/tristao-marinho/CVE-2023-27842)	<img alt="forks" src="https://img.shields.io/github/forks/tristao-marinho/CVE-2023-27842">	<img alt="stars" src="https://img.shields.io/github/stars/tristao-marinho/CVE-2023-27842">
