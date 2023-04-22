@@ -22,6 +22,11 @@
 - [Toxich4/CVE-2023-30459](https://github.com/Toxich4/CVE-2023-30459)	<img alt="forks" src="https://img.shields.io/github/forks/Toxich4/CVE-2023-30459">	<img alt="stars" src="https://img.shields.io/github/stars/Toxich4/CVE-2023-30459">
 
 ---
+## CVE-2023-30458 ()
+> 
+- [d34dun1c02n/CVE-2023-30458](https://github.com/d34dun1c02n/CVE-2023-30458)	<img alt="forks" src="https://img.shields.io/github/forks/d34dun1c02n/CVE-2023-30458">	<img alt="stars" src="https://img.shields.io/github/stars/d34dun1c02n/CVE-2023-30458">
+
+---
 ## CVE-2023-29084 (2023-04-13T19:15:00)
 > Zoho ManageEngine ADManager Plus through 7180 allows for authenticated users to exploit command injection via Proxy settings.
 - [ohnonoyesyes/CVE-2023-29084](https://github.com/ohnonoyesyes/CVE-2023-29084)	<img alt="forks" src="https://img.shields.io/github/forks/ohnonoyesyes/CVE-2023-29084">	<img alt="stars" src="https://img.shields.io/github/stars/ohnonoyesyes/CVE-2023-29084">
