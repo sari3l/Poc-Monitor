@@ -281,7 +281,7 @@
 - [0xNahim/CVE-2023-23752](https://github.com/0xNahim/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/0xNahim/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/0xNahim/CVE-2023-23752">
 - [adhikara13/CVE-2023-23752](https://github.com/adhikara13/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/adhikara13/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/adhikara13/CVE-2023-23752">
 - [AkbarWiraN/Joomla-Scanner](https://github.com/AkbarWiraN/Joomla-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/AkbarWiraN/Joomla-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/AkbarWiraN/Joomla-Scanner">
-- [Pari-Malam/DorkerW-CVE-2023-23752](https://github.com/Pari-Malam/DorkerW-CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/Pari-Malam/DorkerW-CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/Pari-Malam/DorkerW-CVE-2023-23752">
+- [Pari-Malam/CVE-2023-23752](https://github.com/Pari-Malam/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/Pari-Malam/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/Pari-Malam/CVE-2023-23752">
 - [equationsoftworks/Radiance](https://github.com/equationsoftworks/Radiance)	<img alt="forks" src="https://img.shields.io/github/forks/equationsoftworks/Radiance">	<img alt="stars" src="https://img.shields.io/github/stars/equationsoftworks/Radiance">
 
 ---
