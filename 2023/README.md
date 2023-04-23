@@ -610,6 +610,11 @@
 - [weizman/CVE-2023-1767](https://github.com/weizman/CVE-2023-1767)	<img alt="forks" src="https://img.shields.io/github/forks/weizman/CVE-2023-1767">	<img alt="stars" src="https://img.shields.io/github/stars/weizman/CVE-2023-1767">
 
 ---
+## CVE-2023-1671 (2023-04-04T10:15:00)
+> A pre-auth command injection vulnerability in the warn-proceed handler of Sophos Web Appliance older than version 4.3.10.4 allows execution of arbitrary code.
+- [ohnonoyesyes/CVE-2023-1671](https://github.com/ohnonoyesyes/CVE-2023-1671)	<img alt="forks" src="https://img.shields.io/github/forks/ohnonoyesyes/CVE-2023-1671">	<img alt="stars" src="https://img.shields.io/github/stars/ohnonoyesyes/CVE-2023-1671">
+
+---
 ## CVE-2023-1665 (2023-03-27T22:15:00)
 > Improper Restriction of Excessive Authentication Attempts in GitHub repository linagora/twake prior to 0.0.0.
 - [0xsu3ks/CVE-2023-1665](https://github.com/0xsu3ks/CVE-2023-1665)	<img alt="forks" src="https://img.shields.io/github/forks/0xsu3ks/CVE-2023-1665">	<img alt="stars" src="https://img.shields.io/github/stars/0xsu3ks/CVE-2023-1665">
