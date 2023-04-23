@@ -204,6 +204,7 @@
 ## CVE-2017-7308 (2017-03-29T20:59:00)
 > The packet_set_ring function in net/packet/af_packet.c in the Linux kernel through 4.10.6 does not properly validate certain block-size data, which allows local users to cause a denial of service (integer signedness error and out-of-bounds write), or gain privileges (if the CAP_NET_RAW capability is held), via crafted system calls.
 - [anldori/CVE-2017-7308](https://github.com/anldori/CVE-2017-7308)	<img alt="forks" src="https://img.shields.io/github/forks/anldori/CVE-2017-7308">	<img alt="stars" src="https://img.shields.io/github/stars/anldori/CVE-2017-7308">
+- [NigmaZ/CVE-2017-7308](https://github.com/NigmaZ/CVE-2017-7308)	<img alt="forks" src="https://img.shields.io/github/forks/NigmaZ/CVE-2017-7308">	<img alt="stars" src="https://img.shields.io/github/stars/NigmaZ/CVE-2017-7308">
 
 ---
 ## CVE-2017-7269 (2017-03-27T02:59:00)
