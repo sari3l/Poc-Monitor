@@ -22,8 +22,8 @@
 - [Toxich4/CVE-2023-30459](https://github.com/Toxich4/CVE-2023-30459)	<img alt="forks" src="https://img.shields.io/github/forks/Toxich4/CVE-2023-30459">	<img alt="stars" src="https://img.shields.io/github/stars/Toxich4/CVE-2023-30459">
 
 ---
-## CVE-2023-30458 ()
-> 
+## CVE-2023-30458 (2023-04-24T08:15:00)
+> A username enumeration issue was discovered in Medicine Tracker System 1.0. The login functionality allows a malicious user to guess a valid username due to a different response time from invalid usernames. When one enters a valid username, the response time increases depending on the length of the supplied password.
 - [d34dun1c02n/CVE-2023-30458](https://github.com/d34dun1c02n/CVE-2023-30458)	<img alt="forks" src="https://img.shields.io/github/forks/d34dun1c02n/CVE-2023-30458">	<img alt="stars" src="https://img.shields.io/github/stars/d34dun1c02n/CVE-2023-30458">
 
 ---
