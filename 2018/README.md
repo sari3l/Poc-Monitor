@@ -957,6 +957,15 @@
 - [nidhi7598/linux-3.0.35_CVE-2018-13405](https://github.com/nidhi7598/linux-3.0.35_CVE-2018-13405)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-3.0.35_CVE-2018-13405">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-3.0.35_CVE-2018-13405">
 
 ---
+## CVE-2018-1335 (2018-04-25T21:29:00)
+> From Apache Tika versions 1.7 to 1.17, clients could send carefully crafted headers to tika-server that could be used to inject commands into the command line of the server running tika-server. This vulnerability only affects those running tika-server on a server that is open to untrusted clients. The mitigation is to upgrade to Tika 1.18.
+- [Zebra64/CVE-2018-1335](https://github.com/Zebra64/CVE-2018-1335)	<img alt="forks" src="https://img.shields.io/github/forks/Zebra64/CVE-2018-1335">	<img alt="stars" src="https://img.shields.io/github/stars/Zebra64/CVE-2018-1335">
+- [siramk/CVE-2018-1335](https://github.com/siramk/CVE-2018-1335)	<img alt="forks" src="https://img.shields.io/github/forks/siramk/CVE-2018-1335">	<img alt="stars" src="https://img.shields.io/github/stars/siramk/CVE-2018-1335">
+- [canumay/cve-2018-1335](https://github.com/canumay/cve-2018-1335)	<img alt="forks" src="https://img.shields.io/github/forks/canumay/cve-2018-1335">	<img alt="stars" src="https://img.shields.io/github/stars/canumay/cve-2018-1335">
+- [N0b1e6/CVE-2018-1335-Python3](https://github.com/N0b1e6/CVE-2018-1335-Python3)	<img alt="forks" src="https://img.shields.io/github/forks/N0b1e6/CVE-2018-1335-Python3">	<img alt="stars" src="https://img.shields.io/github/stars/N0b1e6/CVE-2018-1335-Python3">
+- [SkyBlueEternal/CVE-2018-1335-EXP-GUI](https://github.com/SkyBlueEternal/CVE-2018-1335-EXP-GUI)	<img alt="forks" src="https://img.shields.io/github/forks/SkyBlueEternal/CVE-2018-1335-EXP-GUI">	<img alt="stars" src="https://img.shields.io/github/stars/SkyBlueEternal/CVE-2018-1335-EXP-GUI">
+
+---
 ## CVE-2018-13099 (2018-07-03T10:29:00)
 > An issue was discovered in fs/f2fs/inline.c in the Linux kernel through 4.4. A denial of service (out-of-bounds memory access and BUG) can occur for a modified f2fs filesystem image in which an inline inode contains an invalid reserved blkaddr.
 - [Live-Hack-CVE/CVE-2018-13099](https://github.com/Live-Hack-CVE/CVE-2018-13099)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-13099">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-13099">
