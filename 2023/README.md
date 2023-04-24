@@ -677,6 +677,11 @@
 - [Avento/CVE-2023-0669](https://github.com/Avento/CVE-2023-0669)	<img alt="forks" src="https://img.shields.io/github/forks/Avento/CVE-2023-0669">	<img alt="stars" src="https://img.shields.io/github/stars/Avento/CVE-2023-0669">
 
 ---
+## CVE-2023-0464 (2023-03-22T17:15:00)
+> A security vulnerability has been identified in all supported versions of OpenSSL related to the verification of X.509 certificate chains that include policy constraints. Attackers may be able to exploit this vulnerability by creating a malicious certificate chain that triggers exponential use of computational resources, leading to a denial-of-service (DoS) attack on affected systems. Policy processing is disabled by default but can be enabled by passing the `-policy' argument to the command line utilities or by calling the `X509_VERIFY_PARAM_set1_policies()' function.
+- [Trinadh465/Openssl_1.1.1g_CVE-2023-0464](https://github.com/Trinadh465/Openssl_1.1.1g_CVE-2023-0464)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/Openssl_1.1.1g_CVE-2023-0464">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/Openssl_1.1.1g_CVE-2023-0464">
+
+---
 ## CVE-2023-0297 (2023-01-14T03:15:00)
 > Code Injection in GitHub repository pyload/pyload prior to 0.5.0b3.dev31.
 - [Small-ears/CVE-2023-0297](https://github.com/Small-ears/CVE-2023-0297)	<img alt="forks" src="https://img.shields.io/github/forks/Small-ears/CVE-2023-0297">	<img alt="stars" src="https://img.shields.io/github/stars/Small-ears/CVE-2023-0297">
