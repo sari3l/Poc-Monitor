@@ -119,6 +119,7 @@
 - [MaanVader/CVE-2023-27350-POC](https://github.com/MaanVader/CVE-2023-27350-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MaanVader/CVE-2023-27350-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MaanVader/CVE-2023-27350-POC">
 - [TamingSariMY/CVE-2023-27350-POC](https://github.com/TamingSariMY/CVE-2023-27350-POC)	<img alt="forks" src="https://img.shields.io/github/forks/TamingSariMY/CVE-2023-27350-POC">	<img alt="stars" src="https://img.shields.io/github/stars/TamingSariMY/CVE-2023-27350-POC">
 - [horizon3ai/CVE-2023-27350](https://github.com/horizon3ai/CVE-2023-27350)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2023-27350">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2023-27350">
+- [adhikara13/CVE-2023-27350](https://github.com/adhikara13/CVE-2023-27350)	<img alt="forks" src="https://img.shields.io/github/forks/adhikara13/CVE-2023-27350">	<img alt="stars" src="https://img.shields.io/github/stars/adhikara13/CVE-2023-27350">
 
 ---
 ## CVE-2023-27326 ()
