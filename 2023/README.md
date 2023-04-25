@@ -109,6 +109,11 @@
 - [horizon3ai/CVE-2023-27532](https://github.com/horizon3ai/CVE-2023-27532)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2023-27532">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2023-27532">
 
 ---
+## CVE-2023-27524 (2023-04-24T16:15:00)
+> Session Validation attacks in Apache Superset versions up to and including 2.0.1. Installations that have not altered the default configured SECRET_KEY according to installation instructions allow for an attacker to authenticate and access unauthorized resources. This does not affect Superset administrators who have changed the default value for SECRET_KEY config.
+- [horizon3ai/CVE-2023-27524](https://github.com/horizon3ai/CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2023-27524">
+
+---
 ## CVE-2023-27350 (2023-04-20T16:15:00)
 > This vulnerability allows remote attackers to bypass authentication on affected installations of PaperCut NG 22.0.5 (Build 63914). Authentication is not required to exploit this vulnerability. The specific flaw exists within the SetupCompleted class. The issue results from improper access control. An attacker can leverage this vulnerability to bypass authentication and execute arbitrary code in the context of SYSTEM. Was ZDI-CAN-18987.
 - [MaanVader/CVE-2023-27350-POC](https://github.com/MaanVader/CVE-2023-27350-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MaanVader/CVE-2023-27350-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MaanVader/CVE-2023-27350-POC">
