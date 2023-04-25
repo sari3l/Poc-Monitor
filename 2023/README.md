@@ -627,6 +627,7 @@
 > A pre-auth command injection vulnerability in the warn-proceed handler of Sophos Web Appliance older than version 4.3.10.4 allows execution of arbitrary code.
 - [ohnonoyesyes/CVE-2023-1671](https://github.com/ohnonoyesyes/CVE-2023-1671)	<img alt="forks" src="https://img.shields.io/github/forks/ohnonoyesyes/CVE-2023-1671">	<img alt="stars" src="https://img.shields.io/github/stars/ohnonoyesyes/CVE-2023-1671">
 - [W01fh4cker/CVE-2023-1671-POC](https://github.com/W01fh4cker/CVE-2023-1671-POC)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/CVE-2023-1671-POC">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/CVE-2023-1671-POC">
+- [behnamvanda/CVE-2023-1671](https://github.com/behnamvanda/CVE-2023-1671)	<img alt="forks" src="https://img.shields.io/github/forks/behnamvanda/CVE-2023-1671">	<img alt="stars" src="https://img.shields.io/github/stars/behnamvanda/CVE-2023-1671">
 
 ---
 ## CVE-2023-1665 (2023-03-27T22:15:00)
