@@ -180,6 +180,11 @@
 - [FortiSecurity/CVE-2023-25610](https://github.com/FortiSecurity/CVE-2023-25610)	<img alt="forks" src="https://img.shields.io/github/forks/FortiSecurity/CVE-2023-25610">	<img alt="stars" src="https://img.shields.io/github/stars/FortiSecurity/CVE-2023-25610">
 
 ---
+## CVE-2023-25292 ()
+> 
+- [brainkok/CVE-2023-25292](https://github.com/brainkok/CVE-2023-25292)	<img alt="forks" src="https://img.shields.io/github/forks/brainkok/CVE-2023-25292">	<img alt="stars" src="https://img.shields.io/github/stars/brainkok/CVE-2023-25292">
+
+---
 ## CVE-2023-25263 (2023-03-27T21:15:00)
 > In Stimulsoft Designer (Desktop) 2023.1.5, and 2023.1.4, once an attacker decompiles the Stimulsoft.report.dll the attacker is able to decrypt any connectionstring stored in .mrt files since a static secret is used. The secret does not differ between the tested versions and different operating systems.
 - [trustcves/CVE-2023-25263](https://github.com/trustcves/CVE-2023-25263)	<img alt="forks" src="https://img.shields.io/github/forks/trustcves/CVE-2023-25263">	<img alt="stars" src="https://img.shields.io/github/stars/trustcves/CVE-2023-25263">
