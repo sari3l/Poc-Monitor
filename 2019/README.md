@@ -124,6 +124,8 @@
 ## CVE-2019-9081 (2019-02-24T17:29:00)
 > ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was withdrawn by its CNA. Further investigation showed that it was not a security issue. Notes: none.
 - [qafdevsec/CVE-2019-9081_PoC](https://github.com/qafdevsec/CVE-2019-9081_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/qafdevsec/CVE-2019-9081_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/qafdevsec/CVE-2019-9081_PoC">
+- [scopion/cve-2019-9081](https://github.com/scopion/cve-2019-9081)	<img alt="forks" src="https://img.shields.io/github/forks/scopion/cve-2019-9081">	<img alt="stars" src="https://img.shields.io/github/stars/scopion/cve-2019-9081">
+- [nth347/CVE-2019-9081_PoC](https://github.com/nth347/CVE-2019-9081_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/nth347/CVE-2019-9081_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/nth347/CVE-2019-9081_PoC">
 
 ---
 ## CVE-2019-9053 (2019-03-26T17:29:00)
