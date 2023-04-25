@@ -121,6 +121,11 @@
 - [Live-Hack-CVE/CVE-2019-9139](https://github.com/Live-Hack-CVE/CVE-2019-9139)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9139">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9139">
 
 ---
+## CVE-2019-9081 (2019-02-24T17:29:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was withdrawn by its CNA. Further investigation showed that it was not a security issue. Notes: none.
+- [qafdevsec/CVE-2019-9081_PoC](https://github.com/qafdevsec/CVE-2019-9081_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/qafdevsec/CVE-2019-9081_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/qafdevsec/CVE-2019-9081_PoC">
+
+---
 ## CVE-2019-9053 (2019-03-26T17:29:00)
 > An issue was discovered in CMS Made Simple 2.2.8. It is possible with the News module, through a crafted URL, to achieve unauthenticated blind time-based SQL injection via the m1_idlist parameter.
 - [ELIZEUOPAIN/CVE-2019-9053-CMS-Made-Simple-2.2.10---SQL-Injection-Exploit](https://github.com/ELIZEUOPAIN/CVE-2019-9053-CMS-Made-Simple-2.2.10---SQL-Injection-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ELIZEUOPAIN/CVE-2019-9053-CMS-Made-Simple-2.2.10---SQL-Injection-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ELIZEUOPAIN/CVE-2019-9053-CMS-Made-Simple-2.2.10---SQL-Injection-Exploit">
