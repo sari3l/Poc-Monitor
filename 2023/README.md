@@ -460,6 +460,11 @@
 - [CKevens/CVE-2023-22809-sudo-POC](https://github.com/CKevens/CVE-2023-22809-sudo-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2023-22809-sudo-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2023-22809-sudo-POC">
 
 ---
+## CVE-2023-22621 (2023-04-19T16:15:00)
+> Strapi through 4.5.5 allows authenticated Server-Side Template Injection (SSTI) that can be exploited to execute arbitrary code on the server. A remote attacker with access to the Strapi admin panel can inject a crafted payload that executes code on the server into an email template that bypasses the validation checks that should prevent code execution.
+- [sofianeelhor/CVE-2023-22621-POC](https://github.com/sofianeelhor/CVE-2023-22621-POC)	<img alt="forks" src="https://img.shields.io/github/forks/sofianeelhor/CVE-2023-22621-POC">	<img alt="stars" src="https://img.shields.io/github/stars/sofianeelhor/CVE-2023-22621-POC">
+
+---
 ## CVE-2023-22551 (2023-01-01T18:15:00)
 > The FTP (aka "Implementation of a simple FTP client and server") project through 96c1a35 allows remote attackers to cause a denial of service (memory consumption) by engaging in client activity, such as establishing and then terminating a connection. This occurs because malloc is used but free is not.
 - [viswagb/CVE-2023-22551](https://github.com/viswagb/CVE-2023-22551)	<img alt="forks" src="https://img.shields.io/github/forks/viswagb/CVE-2023-22551">	<img alt="stars" src="https://img.shields.io/github/stars/viswagb/CVE-2023-22551">
