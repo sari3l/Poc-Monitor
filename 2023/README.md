@@ -38,6 +38,11 @@
 - [Kaneki-hash/CVE-2023-29017-reverse-shell](https://github.com/Kaneki-hash/CVE-2023-29017-reverse-shell)	<img alt="forks" src="https://img.shields.io/github/forks/Kaneki-hash/CVE-2023-29017-reverse-shell">	<img alt="stars" src="https://img.shields.io/github/stars/Kaneki-hash/CVE-2023-29017-reverse-shell">
 
 ---
+## CVE-2023-29007 (2023-04-25T21:15:00)
+> Git is a revision control system. Prior to versions 2.30.9, 2.31.8, 2.32.7, 2.33.8, 2.34.8, 2.35.8, 2.36.6, 2.37.7, 2.38.5, 2.39.3, and 2.40.1, a specially crafted `.gitmodules` file with submodule URLs that are longer than 1024 characters can used to exploit a bug in `config.c::git_config_copy_or_rename_section_in_file()`. This bug can be used to inject arbitrary configuration into a user's `$GIT_DIR/config` when attempting to remove the configuration section associated with that submodule. When the attacker injects configuration values which specify executables to run (such as `core.pager`, `core.editor`, `core.sshCommand`, etc.) this can lead to a remote code execution. A fix A fix is available in versions 2.30.9, 2.31.8, 2.32.7, 2.33.8, 2.34.8, 2.35.8, 2.36.6, 2.37.7, 2.38.5, 2.39.3, and 2.40.1. As a workaround, avoid running `git submodule deinit` on untrusted repositories or without prior inspection of any submodule sections in `$GIT_DIR/config`.
+- [ethiack/CVE-2023-29007](https://github.com/ethiack/CVE-2023-29007)	<img alt="forks" src="https://img.shields.io/github/forks/ethiack/CVE-2023-29007">	<img alt="stars" src="https://img.shields.io/github/stars/ethiack/CVE-2023-29007">
+
+---
 ## CVE-2023-28615 ()
 > 
 - [YSaxon/CVE-2023-28615](https://github.com/YSaxon/CVE-2023-28615)	<img alt="forks" src="https://img.shields.io/github/forks/YSaxon/CVE-2023-28615">	<img alt="stars" src="https://img.shields.io/github/stars/YSaxon/CVE-2023-28615">
