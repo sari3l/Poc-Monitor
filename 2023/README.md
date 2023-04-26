@@ -627,6 +627,7 @@
 ## CVE-2023-2033 (2023-04-14T19:15:00)
 > Type confusion in V8 in Google Chrome prior to 112.0.5615.121 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [insoxin/CVE-2023-2033](https://github.com/insoxin/CVE-2023-2033)	<img alt="forks" src="https://img.shields.io/github/forks/insoxin/CVE-2023-2033">	<img alt="stars" src="https://img.shields.io/github/stars/insoxin/CVE-2023-2033">
+- [sandumjacob/CVE-2023-2033-Analysis](https://github.com/sandumjacob/CVE-2023-2033-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/sandumjacob/CVE-2023-2033-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/sandumjacob/CVE-2023-2033-Analysis">
 
 ---
 ## CVE-2023-2002 ()
