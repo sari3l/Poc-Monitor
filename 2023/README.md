@@ -742,8 +742,12 @@
 - [wh-gov/CVE-2023-0050](https://github.com/wh-gov/CVE-2023-0050)	<img alt="forks" src="https://img.shields.io/github/forks/wh-gov/CVE-2023-0050">	<img alt="stars" src="https://img.shields.io/github/stars/wh-gov/CVE-2023-0050">
 
 ---
-## CVE-2023-0045 ()
-> 
+## CVE-2023-0045 (2023-04-25T23:15:00)
+> The current implementation of the prctl syscall does not issue an IBPB immediately during the syscall. The ib_prctl_set  function updates the Thread Information Flags (TIFs) for the task and updates the SPEC_CTRL MSR on the function __speculation_ctrl_update, but the IBPB is only issued on the next schedule, when the TIF bits are checked. This leaves the victim vulnerable to values already injected on the BTB, prior to the prctl syscall.  The patch that added the support for the conditional mitigation via prctl (ib_prctl_set) dates back to the kernel 4.9.176.
+
+We recommend upgrading past commit a664ec9158eeddd75121d39c9a0758016097fa96
+
+
 - [es0j/CVE-2023-0045](https://github.com/es0j/CVE-2023-0045)	<img alt="forks" src="https://img.shields.io/github/forks/es0j/CVE-2023-0045">	<img alt="stars" src="https://img.shields.io/github/stars/es0j/CVE-2023-0045">
 - [es0j/CVE-2023-0045](https://github.com/es0j/CVE-2023-0045)	<img alt="forks" src="https://img.shields.io/github/forks/es0j/CVE-2023-0045">	<img alt="stars" src="https://img.shields.io/github/stars/es0j/CVE-2023-0045">
 - [missyes/CVE-2023-0045](https://github.com/missyes/CVE-2023-0045)	<img alt="forks" src="https://img.shields.io/github/forks/missyes/CVE-2023-0045">	<img alt="stars" src="https://img.shields.io/github/stars/missyes/CVE-2023-0045">
