@@ -16,6 +16,11 @@
 - [Trinadh465/linux_4.19.72_CVE-2023-42896](https://github.com/Trinadh465/linux_4.19.72_CVE-2023-42896)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux_4.19.72_CVE-2023-42896">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux_4.19.72_CVE-2023-42896">
 
 ---
+## CVE-2023-30839 (2023-04-25T19:15:00)
+> PrestaShop is an Open Source e-commerce web application. Versions prior to 8.0.4 and 1.7.8.9 contain a SQL filtering vulnerability. A BO user can write, update, and delete in the database, even without having specific rights. PrestaShop 8.0.4 and 1.7.8.9 contain a patch for this issue. There are no known workarounds.
+- [drkbcn/https-nvd.nist.gov-vuln-detail-CVE-2023-30839](https://github.com/drkbcn/https-nvd.nist.gov-vuln-detail-CVE-2023-30839)	<img alt="forks" src="https://img.shields.io/github/forks/drkbcn/https-nvd.nist.gov-vuln-detail-CVE-2023-30839">	<img alt="stars" src="https://img.shields.io/github/stars/drkbcn/https-nvd.nist.gov-vuln-detail-CVE-2023-30839">
+
+---
 ## CVE-2023-30459 (2023-04-14T15:15:00)
 > SmartPTT SCADA 1.1.0.0 allows remote code execution (when the attacker has administrator privileges) by writing a malicious C# script and executing it on the server (via server settings in the administrator control panel on port 8101, by default).
 - [Toxich4/CVE-2023-30459](https://github.com/Toxich4/CVE-2023-30459)	<img alt="forks" src="https://img.shields.io/github/forks/Toxich4/CVE-2023-30459">	<img alt="stars" src="https://img.shields.io/github/stars/Toxich4/CVE-2023-30459">
