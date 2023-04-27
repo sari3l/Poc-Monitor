@@ -1915,6 +1915,7 @@
 ## CVE-2020-27786 (2020-12-11T05:15:00)
 > A flaw was found in the Linux kernel’s implementation of MIDI, where an attacker with a local account and the permissions to issue ioctl commands to midi devices could trigger a use-after-free issue. A write to this specific memory while freed and before use causes the flow of execution to change and possibly allow for memory corruption or privilege escalation. The highest threat from this vulnerability is to confidentiality, integrity, as well as system availability.
 - [kiks7/CVE-2020-27786-Kernel-Exploit](https://github.com/kiks7/CVE-2020-27786-Kernel-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/kiks7/CVE-2020-27786-Kernel-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/kiks7/CVE-2020-27786-Kernel-Exploit">
+- [elbiazo/CVE-2020-27786](https://github.com/elbiazo/CVE-2020-27786)	<img alt="forks" src="https://img.shields.io/github/forks/elbiazo/CVE-2020-27786">	<img alt="stars" src="https://img.shields.io/github/stars/elbiazo/CVE-2020-27786">
 
 ---
 ## CVE-2020-27784 (2022-09-01T18:15:00)
