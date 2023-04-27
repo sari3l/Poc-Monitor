@@ -35,6 +35,7 @@
 ## CVE-2023-29489 ()
 > 
 - [learnerboy88/CVE-2023-29489](https://github.com/learnerboy88/CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/learnerboy88/CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/learnerboy88/CVE-2023-29489">
+- [xKore123/cPanel-CVE-2023-29489](https://github.com/xKore123/cPanel-CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/xKore123/cPanel-CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/xKore123/cPanel-CVE-2023-29489">
 
 ---
 ## CVE-2023-29084 (2023-04-13T19:15:00)
