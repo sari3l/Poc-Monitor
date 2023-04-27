@@ -123,6 +123,7 @@
 > Session Validation attacks in Apache Superset versions up to and including 2.0.1. Installations that have not altered the default configured SECRET_KEY according to installation instructions allow for an attacker to authenticate and access unauthorized resources. This does not affect Superset administrators who have changed the default value for SECRET_KEY config.
 - [horizon3ai/CVE-2023-27524](https://github.com/horizon3ai/CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2023-27524">
 - [Okaytc/Superset_auth_bypass_check](https://github.com/Okaytc/Superset_auth_bypass_check)	<img alt="forks" src="https://img.shields.io/github/forks/Okaytc/Superset_auth_bypass_check">	<img alt="stars" src="https://img.shields.io/github/stars/Okaytc/Superset_auth_bypass_check">
+- [antx-code/CVE-2023-27524](https://github.com/antx-code/CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/antx-code/CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/antx-code/CVE-2023-27524">
 
 ---
 ## CVE-2023-27350 (2023-04-20T16:15:00)
