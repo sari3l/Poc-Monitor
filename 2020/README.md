@@ -1355,6 +1355,11 @@
 - [Live-Hack-CVE/CVE-2020-35501](https://github.com/Live-Hack-CVE/CVE-2020-35501)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35501">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35501">
 
 ---
+## CVE-2020-35489 (2020-12-17T19:15:00)
+> The contact-form-7 (aka Contact Form 7) plugin before 5.3.2 for WordPress allows Unrestricted File Upload and remote code execution because a filename may contain special characters.
+- [bod4k/CVE-2020-35489](https://github.com/bod4k/CVE-2020-35489)	<img alt="forks" src="https://img.shields.io/github/forks/bod4k/CVE-2020-35489">	<img alt="stars" src="https://img.shields.io/github/stars/bod4k/CVE-2020-35489">
+
+---
 ## CVE-2020-35479 (2020-12-18T08:15:00)
 > MediaWiki before 1.35.1 allows XSS via BlockLogFormatter.php. Language::translateBlockExpiry itself does not escape in all code paths. For example, the return of Language::userTimeAndDate is is always unsafe for HTML in a month value. This affects MediaWiki 1.12.0 and later.
 - [Live-Hack-CVE/CVE-2020-35479](https://github.com/Live-Hack-CVE/CVE-2020-35479)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35479">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35479">
