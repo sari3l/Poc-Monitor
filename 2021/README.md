@@ -3258,6 +3258,7 @@
 - [phrantom/cve-2021-38314](https://github.com/phrantom/cve-2021-38314)	<img alt="forks" src="https://img.shields.io/github/forks/phrantom/cve-2021-38314">	<img alt="stars" src="https://img.shields.io/github/stars/phrantom/cve-2021-38314">
 - [orangmuda/CVE-2021-38314](https://github.com/orangmuda/CVE-2021-38314)	<img alt="forks" src="https://img.shields.io/github/forks/orangmuda/CVE-2021-38314">	<img alt="stars" src="https://img.shields.io/github/stars/orangmuda/CVE-2021-38314">
 - [akhilkoradiya/CVE-2021-38314](https://github.com/akhilkoradiya/CVE-2021-38314)	<img alt="forks" src="https://img.shields.io/github/forks/akhilkoradiya/CVE-2021-38314">	<img alt="stars" src="https://img.shields.io/github/stars/akhilkoradiya/CVE-2021-38314">
+- [0xGabe/CVE-2021-38314](https://github.com/0xGabe/CVE-2021-38314)	<img alt="forks" src="https://img.shields.io/github/forks/0xGabe/CVE-2021-38314">	<img alt="stars" src="https://img.shields.io/github/stars/0xGabe/CVE-2021-38314">
 
 ---
 ## CVE-2021-38294 (2021-10-25T13:15:00)
