@@ -52,6 +52,8 @@
 - [learnerboy88/CVE-2023-29489](https://github.com/learnerboy88/CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/learnerboy88/CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/learnerboy88/CVE-2023-29489">
 - [xKore123/cPanel-CVE-2023-29489](https://github.com/xKore123/cPanel-CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/xKore123/cPanel-CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/xKore123/cPanel-CVE-2023-29489">
 - [ipk1/CVE-2023-29489.py](https://github.com/ipk1/CVE-2023-29489.py)	<img alt="forks" src="https://img.shields.io/github/forks/ipk1/CVE-2023-29489.py">	<img alt="stars" src="https://img.shields.io/github/stars/ipk1/CVE-2023-29489.py">
+- [Mostafa-Elguerdawi/CVE-2023-29489](https://github.com/Mostafa-Elguerdawi/CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/Mostafa-Elguerdawi/CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/Mostafa-Elguerdawi/CVE-2023-29489">
+- [Mostafa-Elguerdawi/CVE-2023-29489.yaml](https://github.com/Mostafa-Elguerdawi/CVE-2023-29489.yaml)	<img alt="forks" src="https://img.shields.io/github/forks/Mostafa-Elguerdawi/CVE-2023-29489.yaml">	<img alt="stars" src="https://img.shields.io/github/stars/Mostafa-Elguerdawi/CVE-2023-29489.yaml">
 
 ---
 ## CVE-2023-29084 (2023-04-13T19:15:00)
