@@ -491,6 +491,11 @@
 - [Live-Hack-CVE/CVE-2014-0185](https://github.com/Live-Hack-CVE/CVE-2014-0185)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-0185">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-0185">
 
 ---
+## CVE-2014-0160 (2014-04-07T22:55:00)
+> The (1) TLS and (2) DTLS implementations in OpenSSL 1.0.1 before 1.0.1g do not properly handle Heartbeat Extension packets, which allows remote attackers to obtain sensitive information from process memory via crafted packets that trigger a buffer over-read, as demonstrated by reading private keys, related to d1_both.c and t1_lib.c, aka the Heartbleed bug.
+- [MrE-Fog/CVE-2014-0160-Chrome-Plugin](https://github.com/MrE-Fog/CVE-2014-0160-Chrome-Plugin)	<img alt="forks" src="https://img.shields.io/github/forks/MrE-Fog/CVE-2014-0160-Chrome-Plugin">	<img alt="stars" src="https://img.shields.io/github/stars/MrE-Fog/CVE-2014-0160-Chrome-Plugin">
+
+---
 ## CVE-2014-0148 (2022-09-29T03:15:00)
 > Qemu before 2.0 block driver for Hyper-V VHDX Images is vulnerable to infinite loops and other potential issues when calculating BAT entries, due to missing bounds checks for block_size and logical_sector_size variables. These are used to derive other fields like 'sectors_per_block' etc. A user able to alter the Qemu disk image could ise this flaw to crash the Qemu instance resulting in DoS.
 - [Live-Hack-CVE/CVE-2014-0148](https://github.com/Live-Hack-CVE/CVE-2014-0148)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-0148">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-0148">
