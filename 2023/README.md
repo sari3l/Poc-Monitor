@@ -52,6 +52,11 @@
 - [zPrototype/CVE-2023-29983](https://github.com/zPrototype/CVE-2023-29983)	<img alt="forks" src="https://img.shields.io/github/forks/zPrototype/CVE-2023-29983">	<img alt="stars" src="https://img.shields.io/github/stars/zPrototype/CVE-2023-29983">
 
 ---
+## CVE-2023-29809 ()
+> 
+- [zPrototype/CVE-2023-29809](https://github.com/zPrototype/CVE-2023-29809)	<img alt="forks" src="https://img.shields.io/github/forks/zPrototype/CVE-2023-29809">	<img alt="stars" src="https://img.shields.io/github/stars/zPrototype/CVE-2023-29809">
+
+---
 ## CVE-2023-29489 (2023-04-27T21:15:00)
 > An issue was discovered in cPanel before 11.109.9999.116. XSS can occur on the cpsrvd error page via an invalid webcall ID, aka SEC-669. The fixed versions are 11.109.9999.116, 11.108.0.13, 11.106.0.18, and 11.102.0.31.
 - [learnerboy88/CVE-2023-29489](https://github.com/learnerboy88/CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/learnerboy88/CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/learnerboy88/CVE-2023-29489">
