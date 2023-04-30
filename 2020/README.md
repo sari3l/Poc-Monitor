@@ -3539,6 +3539,10 @@
 - [sv3nbeast/CVE-2020-1472](https://github.com/sv3nbeast/CVE-2020-1472)	<img alt="forks" src="https://img.shields.io/github/forks/sv3nbeast/CVE-2020-1472">	<img alt="stars" src="https://img.shields.io/github/stars/sv3nbeast/CVE-2020-1472">
 - [RicYaben/CVE-2020-1472-LAB](https://github.com/RicYaben/CVE-2020-1472-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/RicYaben/CVE-2020-1472-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/RicYaben/CVE-2020-1472-LAB">
 - [Akash7350/CVE-2020-1472](https://github.com/Akash7350/CVE-2020-1472)	<img alt="forks" src="https://img.shields.io/github/forks/Akash7350/CVE-2020-1472">	<img alt="stars" src="https://img.shields.io/github/stars/Akash7350/CVE-2020-1472">
+- [bb00/zer0dump](https://github.com/bb00/zer0dump)	<img alt="forks" src="https://img.shields.io/github/forks/bb00/zer0dump">	<img alt="stars" src="https://img.shields.io/github/stars/bb00/zer0dump">
+- [n3rada/zero-effort](https://github.com/n3rada/zero-effort)	<img alt="forks" src="https://img.shields.io/github/forks/n3rada/zero-effort">	<img alt="stars" src="https://img.shields.io/github/stars/n3rada/zero-effort">
+- [likeww/MassZeroLogon](https://github.com/likeww/MassZeroLogon)	<img alt="forks" src="https://img.shields.io/github/forks/likeww/MassZeroLogon">	<img alt="stars" src="https://img.shields.io/github/stars/likeww/MassZeroLogon">
+- [carlos55ml/zerologon](https://github.com/carlos55ml/zerologon)	<img alt="forks" src="https://img.shields.io/github/forks/carlos55ml/zerologon">	<img alt="stars" src="https://img.shields.io/github/stars/carlos55ml/zerologon">
 
 ---
 ## CVE-2020-14664 (2020-07-15T18:15:00)
