@@ -440,6 +440,11 @@
 - [Penkyzduyi/CVE-2023-23192](https://github.com/Penkyzduyi/CVE-2023-23192)	<img alt="forks" src="https://img.shields.io/github/forks/Penkyzduyi/CVE-2023-23192">	<img alt="stars" src="https://img.shields.io/github/stars/Penkyzduyi/CVE-2023-23192">
 
 ---
+## CVE-2023-23169 ()
+> 
+- [S4nshine/CVE-2023-23169](https://github.com/S4nshine/CVE-2023-23169)	<img alt="forks" src="https://img.shields.io/github/forks/S4nshine/CVE-2023-23169">	<img alt="stars" src="https://img.shields.io/github/stars/S4nshine/CVE-2023-23169">
+
+---
 ## CVE-2023-23163 (2023-02-10T20:15:00)
 > Art Gallery Management System Project v1.0 was discovered to contain a SQL injection vulnerability via the editid parameter.
 - [rahulpatwari/CVE-2023-23163](https://github.com/rahulpatwari/CVE-2023-23163)	<img alt="forks" src="https://img.shields.io/github/forks/rahulpatwari/CVE-2023-23163">	<img alt="stars" src="https://img.shields.io/github/stars/rahulpatwari/CVE-2023-23163">
