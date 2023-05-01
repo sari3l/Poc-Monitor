@@ -125,6 +125,12 @@
 ## CVE-2017-8464 (2017-06-15T01:29:00)
 > Windows Shell in Microsoft Windows Server 2008 SP2 and R2 SP1, Windows 7 SP1, Windows 8, Windows 8.1, Windows Server 2012 Gold and R2, Windows RT 8.1, Windows 10 Gold, 1511, 1607, 1703, and Windows Server 2016 allows local users or remote attackers to execute arbitrary code via a crafted .LNK file, which is not properly handled during icon display in Windows Explorer or any other application that parses the icon of the shortcut. aka "LNK Remote Code Execution Vulnerability."
 - [tuankiethkt020/Phat-hien-CVE-2017-8464](https://github.com/tuankiethkt020/Phat-hien-CVE-2017-8464)	<img alt="forks" src="https://img.shields.io/github/forks/tuankiethkt020/Phat-hien-CVE-2017-8464">	<img alt="stars" src="https://img.shields.io/github/stars/tuankiethkt020/Phat-hien-CVE-2017-8464">
+- [TrG-1999/DetectPacket-CVE-2017-8464](https://github.com/TrG-1999/DetectPacket-CVE-2017-8464)	<img alt="forks" src="https://img.shields.io/github/forks/TrG-1999/DetectPacket-CVE-2017-8464">	<img alt="stars" src="https://img.shields.io/github/stars/TrG-1999/DetectPacket-CVE-2017-8464">
+- [3gstudent/CVE-2017-8464-EXP](https://github.com/3gstudent/CVE-2017-8464-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/3gstudent/CVE-2017-8464-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/3gstudent/CVE-2017-8464-EXP">
+- [X-Vector/usbhijacking](https://github.com/X-Vector/usbhijacking)	<img alt="forks" src="https://img.shields.io/github/forks/X-Vector/usbhijacking">	<img alt="stars" src="https://img.shields.io/github/stars/X-Vector/usbhijacking">
+- [xssfile/CVE-2017-8464-EXP](https://github.com/xssfile/CVE-2017-8464-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/xssfile/CVE-2017-8464-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/xssfile/CVE-2017-8464-EXP">
+- [Elm0D/CVE-2017-8464](https://github.com/Elm0D/CVE-2017-8464)	<img alt="forks" src="https://img.shields.io/github/forks/Elm0D/CVE-2017-8464">	<img alt="stars" src="https://img.shields.io/github/stars/Elm0D/CVE-2017-8464">
+- [doudouhala/CVE-2017-8464-exp-generator](https://github.com/doudouhala/CVE-2017-8464-exp-generator)	<img alt="forks" src="https://img.shields.io/github/forks/doudouhala/CVE-2017-8464-exp-generator">	<img alt="stars" src="https://img.shields.io/github/stars/doudouhala/CVE-2017-8464-exp-generator">
 
 ---
 ## CVE-2017-7921 (2017-05-06T00:29:00)
