@@ -26,6 +26,21 @@
 - [MaherAzzouzi/CVE-2023-31443](https://github.com/MaherAzzouzi/CVE-2023-31443)	<img alt="forks" src="https://img.shields.io/github/forks/MaherAzzouzi/CVE-2023-31443">	<img alt="stars" src="https://img.shields.io/github/stars/MaherAzzouzi/CVE-2023-31443">
 
 ---
+## CVE-2023-31435 ()
+> 
+- [trustcves/CVE-2023-31435](https://github.com/trustcves/CVE-2023-31435)	<img alt="forks" src="https://img.shields.io/github/forks/trustcves/CVE-2023-31435">	<img alt="stars" src="https://img.shields.io/github/stars/trustcves/CVE-2023-31435">
+
+---
+## CVE-2023-31434 ()
+> 
+- [trustcves/CVE-2023-31434](https://github.com/trustcves/CVE-2023-31434)	<img alt="forks" src="https://img.shields.io/github/forks/trustcves/CVE-2023-31434">	<img alt="stars" src="https://img.shields.io/github/stars/trustcves/CVE-2023-31434">
+
+---
+## CVE-2023-31433 ()
+> 
+- [trustcves/CVE-2023-31433](https://github.com/trustcves/CVE-2023-31433)	<img alt="forks" src="https://img.shields.io/github/forks/trustcves/CVE-2023-31433">	<img alt="stars" src="https://img.shields.io/github/stars/trustcves/CVE-2023-31433">
+
+---
 ## CVE-2023-30854 (2023-04-28T16:15:00)
 > AVideo is an open source video platform. Prior to version 12.4, an OS Command Injection vulnerability in an authenticated endpoint `/plugin/CloneSite/cloneClient.json.php` allows attackers to achieve Remote Code Execution. This issue is fixed in version 12.4.
 - [jmrcsnchz/CVE-2023-30854](https://github.com/jmrcsnchz/CVE-2023-30854)	<img alt="forks" src="https://img.shields.io/github/forks/jmrcsnchz/CVE-2023-30854">	<img alt="stars" src="https://img.shields.io/github/stars/jmrcsnchz/CVE-2023-30854">
