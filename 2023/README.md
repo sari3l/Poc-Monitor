@@ -190,8 +190,8 @@
 - [DarokNET/CVE-2023-27100](https://github.com/DarokNET/CVE-2023-27100)	<img alt="forks" src="https://img.shields.io/github/forks/DarokNET/CVE-2023-27100">	<img alt="stars" src="https://img.shields.io/github/stars/DarokNET/CVE-2023-27100">
 
 ---
-## CVE-2023-27035 ()
-> 
+## CVE-2023-27035 (2023-05-01T22:15:00)
+> An issue discovered in Obsidian Canvas 1.1.9 allows remote attackers to send desktop notifications, record user audio and other unspecified impacts via embedded website on the canvas page.
 - [fivex3/CVE-2023-27035](https://github.com/fivex3/CVE-2023-27035)	<img alt="forks" src="https://img.shields.io/github/forks/fivex3/CVE-2023-27035">	<img alt="stars" src="https://img.shields.io/github/stars/fivex3/CVE-2023-27035">
 
 ---
