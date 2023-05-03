@@ -60,6 +60,14 @@
 - [Live-Hack-CVE/CVE-2013-5829](https://github.com/Live-Hack-CVE/CVE-2013-5829)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-5829">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-5829">
 
 ---
+## CVE-2013-5211 (2014-01-02T14:59:00)
+> The monlist feature in ntp_request.c in ntpd in NTP before 4.2.7p26 allows remote attackers to cause a denial of service (traffic amplification) via forged (1) REQ_MON_GETLIST or (2) REQ_MON_GETLIST_1 requests, as exploited in the wild in December 2013.
+- [0xhav0c/CVE-2013-5211](https://github.com/0xhav0c/CVE-2013-5211)	<img alt="forks" src="https://img.shields.io/github/forks/0xhav0c/CVE-2013-5211">	<img alt="stars" src="https://img.shields.io/github/stars/0xhav0c/CVE-2013-5211">
+- [sepehrdaddev/ntpdos](https://github.com/sepehrdaddev/ntpdos)	<img alt="forks" src="https://img.shields.io/github/forks/sepehrdaddev/ntpdos">	<img alt="stars" src="https://img.shields.io/github/stars/sepehrdaddev/ntpdos">
+- [suedadam/ntpscanner](https://github.com/suedadam/ntpscanner)	<img alt="forks" src="https://img.shields.io/github/forks/suedadam/ntpscanner">	<img alt="stars" src="https://img.shields.io/github/stars/suedadam/ntpscanner">
+- [dani87/ntpscanner](https://github.com/dani87/ntpscanner)	<img alt="forks" src="https://img.shields.io/github/forks/dani87/ntpscanner">	<img alt="stars" src="https://img.shields.io/github/stars/dani87/ntpscanner">
+
+---
 ## CVE-2013-4496 (2014-03-14T10:55:00)
 > Samba 3.x before 3.6.23, 4.0.x before 4.0.16, and 4.1.x before 4.1.6 does not enforce the password-guessing protection mechanism for all interfaces, which makes it easier for remote attackers to obtain access via brute-force ChangePasswordUser2 (1) SAMR or (2) RAP attempts.
 - [Live-Hack-CVE/CVE-2013-4496](https://github.com/Live-Hack-CVE/CVE-2013-4496)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-4496">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-4496">
