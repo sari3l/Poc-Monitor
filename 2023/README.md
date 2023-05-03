@@ -67,8 +67,8 @@
 - [zPrototype/CVE-2023-29983](https://github.com/zPrototype/CVE-2023-29983)	<img alt="forks" src="https://img.shields.io/github/forks/zPrototype/CVE-2023-29983">	<img alt="stars" src="https://img.shields.io/github/stars/zPrototype/CVE-2023-29983">
 
 ---
-## CVE-2023-29839 ()
-> 
+## CVE-2023-29839 (2023-05-03T03:15:00)
+> A Stored Cross Site Scripting (XSS) vulnerability exists in multiple pages of Hotel Druid version 3.0.4, which allows arbitrary execution of commands. The vulnerable fields are Surname, Name, and Nickname in the Document function.
 - [jichngan/CVE-2023-29839](https://github.com/jichngan/CVE-2023-29839)	<img alt="forks" src="https://img.shields.io/github/forks/jichngan/CVE-2023-29839">	<img alt="stars" src="https://img.shields.io/github/stars/jichngan/CVE-2023-29839">
 
 ---
