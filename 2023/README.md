@@ -77,6 +77,11 @@
 - [zPrototype/CVE-2023-29809](https://github.com/zPrototype/CVE-2023-29809)	<img alt="forks" src="https://img.shields.io/github/forks/zPrototype/CVE-2023-29809">	<img alt="stars" src="https://img.shields.io/github/stars/zPrototype/CVE-2023-29809">
 
 ---
+## CVE-2023-29808 ()
+> 
+- [zPrototype/CVE-2023-29808](https://github.com/zPrototype/CVE-2023-29808)	<img alt="forks" src="https://img.shields.io/github/forks/zPrototype/CVE-2023-29808">	<img alt="stars" src="https://img.shields.io/github/stars/zPrototype/CVE-2023-29808">
+
+---
 ## CVE-2023-29489 (2023-04-27T21:15:00)
 > An issue was discovered in cPanel before 11.109.9999.116. XSS can occur on the cpsrvd error page via an invalid webcall ID, aka SEC-669. The fixed versions are 11.109.9999.116, 11.108.0.13, 11.106.0.18, and 11.102.0.31.
 - [learnerboy88/CVE-2023-29489](https://github.com/learnerboy88/CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/learnerboy88/CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/learnerboy88/CVE-2023-29489">
@@ -195,6 +200,7 @@
 - [TamingSariMY/CVE-2023-27350-POC](https://github.com/TamingSariMY/CVE-2023-27350-POC)	<img alt="forks" src="https://img.shields.io/github/forks/TamingSariMY/CVE-2023-27350-POC">	<img alt="stars" src="https://img.shields.io/github/stars/TamingSariMY/CVE-2023-27350-POC">
 - [horizon3ai/CVE-2023-27350](https://github.com/horizon3ai/CVE-2023-27350)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2023-27350">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2023-27350">
 - [adhikara13/CVE-2023-27350](https://github.com/adhikara13/CVE-2023-27350)	<img alt="forks" src="https://img.shields.io/github/forks/adhikara13/CVE-2023-27350">	<img alt="stars" src="https://img.shields.io/github/stars/adhikara13/CVE-2023-27350">
+- [darthvander20/whatsapp-zero-day-exploit](https://github.com/darthvander20/whatsapp-zero-day-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/darthvander20/whatsapp-zero-day-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/darthvander20/whatsapp-zero-day-exploit">
 
 ---
 ## CVE-2023-27326 ()
