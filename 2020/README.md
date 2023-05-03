@@ -3351,6 +3351,11 @@
 - [Live-Hack-CVE/CVE-2020-16122](https://github.com/Live-Hack-CVE/CVE-2020-16122)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-16122">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-16122">
 
 ---
+## CVE-2020-15848 ()
+> 
+- [faklad/CVE-2020-15848](https://github.com/faklad/CVE-2020-15848)	<img alt="forks" src="https://img.shields.io/github/forks/faklad/CVE-2020-15848">	<img alt="stars" src="https://img.shields.io/github/stars/faklad/CVE-2020-15848">
+
+---
 ## CVE-2020-15802 (2020-09-11T14:15:00)
 > Devices supporting Bluetooth before 5.1 may allow man-in-the-middle attacks, aka BLURtooth. Cross Transport Key Derivation in Bluetooth Core Specification v4.2 and v5.0 may permit an unauthenticated user to establish a bonding with one transport, either LE or BR/EDR, and replace a bonding already established on the opposing transport, BR/EDR or LE, potentially overwriting an authenticated key with an unauthenticated key, or a key with greater entropy with one with less.
 - [Live-Hack-CVE/CVE-2020-15802](https://github.com/Live-Hack-CVE/CVE-2020-15802)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15802">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15802">
