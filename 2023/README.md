@@ -26,18 +26,18 @@
 - [MaherAzzouzi/CVE-2023-31443](https://github.com/MaherAzzouzi/CVE-2023-31443)	<img alt="forks" src="https://img.shields.io/github/forks/MaherAzzouzi/CVE-2023-31443">	<img alt="stars" src="https://img.shields.io/github/stars/MaherAzzouzi/CVE-2023-31443">
 
 ---
-## CVE-2023-31435 ()
-> 
+## CVE-2023-31435 (2023-05-02T20:15:00)
+> Multiple components (such as Onlinetemplate-Verwaltung, Liste aller Teilbereiche, Umfragen anzeigen, and questionnaire previews) in evasys before 8.2 Build 2286 and 9.x before 9.0 Build 2401 allow authenticated attackers to read and write to unauthorized data by accessing functions directly.
 - [trustcves/CVE-2023-31435](https://github.com/trustcves/CVE-2023-31435)	<img alt="forks" src="https://img.shields.io/github/forks/trustcves/CVE-2023-31435">	<img alt="stars" src="https://img.shields.io/github/stars/trustcves/CVE-2023-31435">
 
 ---
-## CVE-2023-31434 ()
-> 
+## CVE-2023-31434 (2023-05-02T20:15:00)
+> The parameters nutzer_titel, nutzer_vn, and nutzer_nn in the user profile, and langID and ONLINEID in direct links, in evasys before 8.2 Build 2286 and 9.x before 9.0 Build 2401 do not validate input, which allows authenticated attackers to inject HTML Code and XSS payloads in multiple locations.
 - [trustcves/CVE-2023-31434](https://github.com/trustcves/CVE-2023-31434)	<img alt="forks" src="https://img.shields.io/github/forks/trustcves/CVE-2023-31434">	<img alt="stars" src="https://img.shields.io/github/stars/trustcves/CVE-2023-31434">
 
 ---
-## CVE-2023-31433 ()
-> 
+## CVE-2023-31433 (2023-05-02T20:15:00)
+> A SQL injection issue in Logbuch in evasys before 8.2 Build 2286 and 9.x before 9.0 Build 2401 allows authenticated attackers to execute SQL statements via the welche parameter.
 - [trustcves/CVE-2023-31433](https://github.com/trustcves/CVE-2023-31433)	<img alt="forks" src="https://img.shields.io/github/forks/trustcves/CVE-2023-31433">	<img alt="stars" src="https://img.shields.io/github/stars/trustcves/CVE-2023-31433">
 
 ---
@@ -97,6 +97,7 @@
 ## CVE-2023-29007 (2023-04-25T21:15:00)
 > Git is a revision control system. Prior to versions 2.30.9, 2.31.8, 2.32.7, 2.33.8, 2.34.8, 2.35.8, 2.36.6, 2.37.7, 2.38.5, 2.39.3, and 2.40.1, a specially crafted `.gitmodules` file with submodule URLs that are longer than 1024 characters can used to exploit a bug in `config.c::git_config_copy_or_rename_section_in_file()`. This bug can be used to inject arbitrary configuration into a user's `$GIT_DIR/config` when attempting to remove the configuration section associated with that submodule. When the attacker injects configuration values which specify executables to run (such as `core.pager`, `core.editor`, `core.sshCommand`, etc.) this can lead to a remote code execution. A fix A fix is available in versions 2.30.9, 2.31.8, 2.32.7, 2.33.8, 2.34.8, 2.35.8, 2.36.6, 2.37.7, 2.38.5, 2.39.3, and 2.40.1. As a workaround, avoid running `git submodule deinit` on untrusted repositories or without prior inspection of any submodule sections in `$GIT_DIR/config`.
 - [ethiack/CVE-2023-29007](https://github.com/ethiack/CVE-2023-29007)	<img alt="forks" src="https://img.shields.io/github/forks/ethiack/CVE-2023-29007">	<img alt="stars" src="https://img.shields.io/github/stars/ethiack/CVE-2023-29007">
+- [omespino/CVE-2023-29007](https://github.com/omespino/CVE-2023-29007)	<img alt="forks" src="https://img.shields.io/github/forks/omespino/CVE-2023-29007">	<img alt="stars" src="https://img.shields.io/github/stars/omespino/CVE-2023-29007">
 
 ---
 ## CVE-2023-28615 ()
