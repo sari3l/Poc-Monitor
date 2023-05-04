@@ -193,6 +193,7 @@
 - [Okaytc/Superset_auth_bypass_check](https://github.com/Okaytc/Superset_auth_bypass_check)	<img alt="forks" src="https://img.shields.io/github/forks/Okaytc/Superset_auth_bypass_check">	<img alt="stars" src="https://img.shields.io/github/stars/Okaytc/Superset_auth_bypass_check">
 - [antx-code/CVE-2023-27524](https://github.com/antx-code/CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/antx-code/CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/antx-code/CVE-2023-27524">
 - [researchkendra91/telegram-0day-exploit-poc](https://github.com/researchkendra91/telegram-0day-exploit-poc)	<img alt="forks" src="https://img.shields.io/github/forks/researchkendra91/telegram-0day-exploit-poc">	<img alt="stars" src="https://img.shields.io/github/stars/researchkendra91/telegram-0day-exploit-poc">
+- [MaanVader/CVE-2023-27524-POC](https://github.com/MaanVader/CVE-2023-27524-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MaanVader/CVE-2023-27524-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MaanVader/CVE-2023-27524-POC">
 
 ---
 ## CVE-2023-27350 (2023-04-20T16:15:00)
