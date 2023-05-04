@@ -1,6 +1,11 @@
 # 2008 List
 
 ---
+## CVE-2008-6806 (2009-05-12T16:30:00)
+> Unrestricted file upload vulnerability in includes/imageupload.php in 7Shop 1.1 and earlier allows remote attackers to execute arbitrary code by uploading a file with an executable extension, then accessing it via a direct request to the file in images/artikel/.
+- [threatcode/CVE-2008-6806](https://github.com/threatcode/CVE-2008-6806)	<img alt="forks" src="https://img.shields.io/github/forks/threatcode/CVE-2008-6806">	<img alt="stars" src="https://img.shields.io/github/stars/threatcode/CVE-2008-6806">
+
+---
 ## CVE-2008-4687 (2008-10-22T18:00:00)
 > manage_proj_page.php in Mantis before 1.1.4 allows remote authenticated users to execute arbitrary code via a sort parameter containing PHP sequences, which are processed by create_function within the multi_sort function in core/utility_api.php.
 - [nmurilo/CVE-2008-4687-exploit](https://github.com/nmurilo/CVE-2008-4687-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/nmurilo/CVE-2008-4687-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/nmurilo/CVE-2008-4687-exploit">
