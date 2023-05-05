@@ -156,6 +156,11 @@
 - [superzerosec/CVE-2023-28343](https://github.com/superzerosec/CVE-2023-28343)	<img alt="forks" src="https://img.shields.io/github/forks/superzerosec/CVE-2023-28343">	<img alt="stars" src="https://img.shields.io/github/stars/superzerosec/CVE-2023-28343">
 
 ---
+## CVE-2023-28231 (2023-04-11T21:15:00)
+> DHCP Server Service Remote Code Execution Vulnerability
+- [glavstroy/CVE-2023-28231](https://github.com/glavstroy/CVE-2023-28231)	<img alt="forks" src="https://img.shields.io/github/forks/glavstroy/CVE-2023-28231">	<img alt="stars" src="https://img.shields.io/github/stars/glavstroy/CVE-2023-28231">
+
+---
 ## CVE-2023-28206 (2023-04-10T19:15:00)
 > An out-of-bounds write issue was addressed with improved input validation. This issue is fixed in iOS 15.7.5 and iPadOS 15.7.5, macOS Monterey 12.6.5, iOS 16.4.1 and iPadOS 16.4.1, macOS Big Sur 11.7.6, macOS Ventura 13.3.1. An app may be able to execute arbitrary code with kernel privileges. Apple is aware of a report that this issue may have been actively exploited.
 - [ZZY3312/CVE-2023-28206](https://github.com/ZZY3312/CVE-2023-28206)	<img alt="forks" src="https://img.shields.io/github/forks/ZZY3312/CVE-2023-28206">	<img alt="stars" src="https://img.shields.io/github/stars/ZZY3312/CVE-2023-28206">
