@@ -96,6 +96,7 @@
 - [Mostafa-Elguerdawi/CVE-2023-29489.yaml](https://github.com/Mostafa-Elguerdawi/CVE-2023-29489.yaml)	<img alt="forks" src="https://img.shields.io/github/forks/Mostafa-Elguerdawi/CVE-2023-29489.yaml">	<img alt="stars" src="https://img.shields.io/github/stars/Mostafa-Elguerdawi/CVE-2023-29489.yaml">
 - [haxor1337x/Scanner-CVE-2023-29489](https://github.com/haxor1337x/Scanner-CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/haxor1337x/Scanner-CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/haxor1337x/Scanner-CVE-2023-29489">
 - [whalebone7/EagleEye](https://github.com/whalebone7/EagleEye)	<img alt="forks" src="https://img.shields.io/github/forks/whalebone7/EagleEye">	<img alt="stars" src="https://img.shields.io/github/stars/whalebone7/EagleEye">
+- [1337r0j4n/CVE-2023-29489](https://github.com/1337r0j4n/CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/1337r0j4n/CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/1337r0j4n/CVE-2023-29489">
 
 ---
 ## CVE-2023-29084 (2023-04-13T19:15:00)

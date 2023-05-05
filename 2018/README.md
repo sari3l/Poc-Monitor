@@ -96,6 +96,11 @@
 - [Live-Hack-CVE/CVE-2018-7557](https://github.com/Live-Hack-CVE/CVE-2018-7557)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-7557">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-7557">
 
 ---
+## CVE-2018-7449 (2018-03-04T01:29:00)
+> SEGGER FTP Server for Windows before 3.22a allows remote attackers to cause a denial of service (daemon crash) via an invalid LIST, STOR, or RETR command.
+- [antogit-sys/CVE-2018-7449](https://github.com/antogit-sys/CVE-2018-7449)	<img alt="forks" src="https://img.shields.io/github/forks/antogit-sys/CVE-2018-7449">	<img alt="stars" src="https://img.shields.io/github/stars/antogit-sys/CVE-2018-7449">
+
+---
 ## CVE-2018-7422 (2018-03-19T14:29:00)
 > A Local File Inclusion vulnerability in the Site Editor plugin through 1.1.1 for WordPress allows remote attackers to retrieve arbitrary files via the ajax_path parameter to editor/extensions/pagebuilder/includes/ajax_shortcode_pattern.php, aka absolute path traversal.
 - [JacobEbben/CVE-2018-7422](https://github.com/JacobEbben/CVE-2018-7422)	<img alt="forks" src="https://img.shields.io/github/forks/JacobEbben/CVE-2018-7422">	<img alt="stars" src="https://img.shields.io/github/stars/JacobEbben/CVE-2018-7422">
