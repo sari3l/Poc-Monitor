@@ -1885,6 +1885,7 @@
 - [Live-Hack-CVE/CVE-2021-42013](https://github.com/Live-Hack-CVE/CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42013">
 - [MatanelGordon/docker-cve-2021-41773](https://github.com/MatanelGordon/docker-cve-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/MatanelGordon/docker-cve-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/MatanelGordon/docker-cve-2021-41773">
 - [retrymp3/apache2.4.49VulnerableLabSetup](https://github.com/retrymp3/apache2.4.49VulnerableLabSetup)	<img alt="forks" src="https://img.shields.io/github/forks/retrymp3/apache2.4.49VulnerableLabSetup">	<img alt="stars" src="https://img.shields.io/github/stars/retrymp3/apache2.4.49VulnerableLabSetup">
+- [K3ysTr0K3R/CVE-2021-41773-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2021-41773-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2021-41773-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2021-41773-EXPLOIT">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
