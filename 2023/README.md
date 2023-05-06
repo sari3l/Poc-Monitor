@@ -115,6 +115,7 @@
 - [ethiack/CVE-2023-29007](https://github.com/ethiack/CVE-2023-29007)	<img alt="forks" src="https://img.shields.io/github/forks/ethiack/CVE-2023-29007">	<img alt="stars" src="https://img.shields.io/github/stars/ethiack/CVE-2023-29007">
 - [omespino/CVE-2023-29007](https://github.com/omespino/CVE-2023-29007)	<img alt="forks" src="https://img.shields.io/github/forks/omespino/CVE-2023-29007">	<img alt="stars" src="https://img.shields.io/github/stars/omespino/CVE-2023-29007">
 - [x-Defender/git_for_windows-CVE-2023-29007](https://github.com/x-Defender/git_for_windows-CVE-2023-29007)	<img alt="forks" src="https://img.shields.io/github/forks/x-Defender/git_for_windows-CVE-2023-29007">	<img alt="stars" src="https://img.shields.io/github/stars/x-Defender/git_for_windows-CVE-2023-29007">
+- [x-Defender/CVE-2023-29007_win-git](https://github.com/x-Defender/CVE-2023-29007_win-git)	<img alt="forks" src="https://img.shields.io/github/forks/x-Defender/CVE-2023-29007_win-git">	<img alt="stars" src="https://img.shields.io/github/stars/x-Defender/CVE-2023-29007_win-git">
 
 ---
 ## CVE-2023-28615 ()
