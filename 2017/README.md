@@ -243,6 +243,14 @@
 ## CVE-2017-5689 (2017-05-02T14:59:00)
 > An unprivileged network attacker could gain system privileges to provisioned Intel manageability SKUs: Intel Active Management Technology (AMT) and Intel Standard Manageability (ISM). An unprivileged local attacker could provision manageability features gaining unprivileged network or local system privileges on Intel manageability SKUs: Intel Active Management Technology (AMT), Intel Standard Manageability (ISM), and Intel Small Business Technology (SBT).
 - [odx686/CVE-2017-5689](https://github.com/odx686/CVE-2017-5689)	<img alt="forks" src="https://img.shields.io/github/forks/odx686/CVE-2017-5689">	<img alt="stars" src="https://img.shields.io/github/stars/odx686/CVE-2017-5689">
+- [odx686/CVE-2017-5689](https://github.com/odx686/CVE-2017-5689)	<img alt="forks" src="https://img.shields.io/github/forks/odx686/CVE-2017-5689">	<img alt="stars" src="https://img.shields.io/github/stars/odx686/CVE-2017-5689">
+- [TheWay-hue/CVE-2017-5689-Checker](https://github.com/TheWay-hue/CVE-2017-5689-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/TheWay-hue/CVE-2017-5689-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/TheWay-hue/CVE-2017-5689-Checker">
+- [x1sec/amthoneypot](https://github.com/x1sec/amthoneypot)	<img alt="forks" src="https://img.shields.io/github/forks/x1sec/amthoneypot">	<img alt="stars" src="https://img.shields.io/github/stars/x1sec/amthoneypot">
+- [embedi/amt_auth_bypass_poc](https://github.com/embedi/amt_auth_bypass_poc)	<img alt="forks" src="https://img.shields.io/github/forks/embedi/amt_auth_bypass_poc">	<img alt="stars" src="https://img.shields.io/github/stars/embedi/amt_auth_bypass_poc">
+- [bartblaze/Disable-Intel-AMT](https://github.com/bartblaze/Disable-Intel-AMT)	<img alt="forks" src="https://img.shields.io/github/forks/bartblaze/Disable-Intel-AMT">	<img alt="stars" src="https://img.shields.io/github/stars/bartblaze/Disable-Intel-AMT">
+- [baonq-me/cve2017-5689](https://github.com/baonq-me/cve2017-5689)	<img alt="forks" src="https://img.shields.io/github/forks/baonq-me/cve2017-5689">	<img alt="stars" src="https://img.shields.io/github/stars/baonq-me/cve2017-5689">
+- [Bijaye/intel_amt_bypass](https://github.com/Bijaye/intel_amt_bypass)	<img alt="forks" src="https://img.shields.io/github/forks/Bijaye/intel_amt_bypass">	<img alt="stars" src="https://img.shields.io/github/stars/Bijaye/intel_amt_bypass">
+- [CerberusSecurity/CVE-2017-5689](https://github.com/CerberusSecurity/CVE-2017-5689)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusSecurity/CVE-2017-5689">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusSecurity/CVE-2017-5689">
 
 ---
 ## CVE-2017-5638 (2017-03-11T02:59:00)
