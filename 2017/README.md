@@ -240,6 +240,11 @@
 - [Therootkitsec/-CVE-2017-7269](https://github.com/Therootkitsec/-CVE-2017-7269)	<img alt="forks" src="https://img.shields.io/github/forks/Therootkitsec/-CVE-2017-7269">	<img alt="stars" src="https://img.shields.io/github/stars/Therootkitsec/-CVE-2017-7269">
 
 ---
+## CVE-2017-5689 (2017-05-02T14:59:00)
+> An unprivileged network attacker could gain system privileges to provisioned Intel manageability SKUs: Intel Active Management Technology (AMT) and Intel Standard Manageability (ISM). An unprivileged local attacker could provision manageability features gaining unprivileged network or local system privileges on Intel manageability SKUs: Intel Active Management Technology (AMT), Intel Standard Manageability (ISM), and Intel Small Business Technology (SBT).
+- [odx686/CVE-2017-5689](https://github.com/odx686/CVE-2017-5689)	<img alt="forks" src="https://img.shields.io/github/forks/odx686/CVE-2017-5689">	<img alt="stars" src="https://img.shields.io/github/stars/odx686/CVE-2017-5689">
+
+---
 ## CVE-2017-5638 (2017-03-11T02:59:00)
 > The Jakarta Multipart parser in Apache Struts 2 2.3.x before 2.3.32 and 2.5.x before 2.5.10.1 has incorrect exception handling and error-message generation during file-upload attempts, which allows remote attackers to execute arbitrary commands via a crafted Content-Type, Content-Disposition, or Content-Length HTTP header, as exploited in the wild in March 2017 with a Content-Type header containing a #cmd= string.
 - [mfdev-solution/Exploit-CVE-2017-5638](https://github.com/mfdev-solution/Exploit-CVE-2017-5638)	<img alt="forks" src="https://img.shields.io/github/forks/mfdev-solution/Exploit-CVE-2017-5638">	<img alt="stars" src="https://img.shields.io/github/stars/mfdev-solution/Exploit-CVE-2017-5638">
