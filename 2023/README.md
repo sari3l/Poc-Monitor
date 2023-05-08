@@ -337,6 +337,11 @@
 - [nhakobyan685/CVE-2023-25136](https://github.com/nhakobyan685/CVE-2023-25136)	<img alt="forks" src="https://img.shields.io/github/forks/nhakobyan685/CVE-2023-25136">	<img alt="stars" src="https://img.shields.io/github/stars/nhakobyan685/CVE-2023-25136">
 
 ---
+## CVE-2023-25002 ()
+> 
+- [nokn0wthing/CVE-2023-25002](https://github.com/nokn0wthing/CVE-2023-25002)	<img alt="forks" src="https://img.shields.io/github/forks/nokn0wthing/CVE-2023-25002">	<img alt="stars" src="https://img.shields.io/github/stars/nokn0wthing/CVE-2023-25002">
+
+---
 ## CVE-2023-24998 (2023-02-20T16:15:00)
 > Apache Commons FileUpload before 1.5 does not limit the number of request parts to be processed resulting in the possibility of an attacker triggering a DoS with a malicious upload or series of uploads. Note that, like all of the file upload limits, the new configuration option (FileUploadBase#setFileCountMax) is not enabled by default and must be explicitly configured.
 - [nice1st/CVE-2023-24998](https://github.com/nice1st/CVE-2023-24998)	<img alt="forks" src="https://img.shields.io/github/forks/nice1st/CVE-2023-24998">	<img alt="stars" src="https://img.shields.io/github/stars/nice1st/CVE-2023-24998">
