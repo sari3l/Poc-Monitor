@@ -2930,6 +2930,11 @@
 - [Live-Hack-CVE/CVE-2020-20248](https://github.com/Live-Hack-CVE/CVE-2020-20248)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-20248">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-20248">
 
 ---
+## CVE-2020-2023 (2020-06-10T18:15:00)
+> Kata Containers doesn't restrict containers from accessing the guest's root filesystem device. Malicious containers can exploit this to gain code execution on the guest and masquerade as the kata-agent. This issue affects Kata Containers 1.11 versions earlier than 1.11.1; Kata Containers 1.10 versions earlier than 1.10.5; and Kata Containers 1.9 and earlier versions.
+- [ssst0n3/kata-cve-2020-2023-poc](https://github.com/ssst0n3/kata-cve-2020-2023-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ssst0n3/kata-cve-2020-2023-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ssst0n3/kata-cve-2020-2023-poc">
+
+---
 ## CVE-2020-20217 (2021-07-08T12:15:00)
 > Mikrotik RouterOs before 6.47 (stable tree) suffers from an uncontrolled resource consumption vulnerability in the /nova/bin/route process. An authenticated remote attacker can cause a Denial of Service due to overloading the systems CPU.
 - [Live-Hack-CVE/CVE-2020-20217](https://github.com/Live-Hack-CVE/CVE-2020-20217)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-20217">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-20217">
