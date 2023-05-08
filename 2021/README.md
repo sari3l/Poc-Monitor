@@ -3334,6 +3334,8 @@
 ## CVE-2021-38001 (2021-11-23T22:15:00)
 > Type confusion in V8 in Google Chrome prior to 95.0.4638.69 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
 - [glavstroy/CVE-2021-38001](https://github.com/glavstroy/CVE-2021-38001)	<img alt="forks" src="https://img.shields.io/github/forks/glavstroy/CVE-2021-38001">	<img alt="stars" src="https://img.shields.io/github/stars/glavstroy/CVE-2021-38001">
+- [maldiohead/TFC-Chrome-v8-bug-CVE-2021-38001-poc](https://github.com/maldiohead/TFC-Chrome-v8-bug-CVE-2021-38001-poc)	<img alt="forks" src="https://img.shields.io/github/forks/maldiohead/TFC-Chrome-v8-bug-CVE-2021-38001-poc">	<img alt="stars" src="https://img.shields.io/github/stars/maldiohead/TFC-Chrome-v8-bug-CVE-2021-38001-poc">
+- [Peterpan0927/TFC-Chrome-v8-bug-CVE-2021-38001-poc](https://github.com/Peterpan0927/TFC-Chrome-v8-bug-CVE-2021-38001-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Peterpan0927/TFC-Chrome-v8-bug-CVE-2021-38001-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Peterpan0927/TFC-Chrome-v8-bug-CVE-2021-38001-poc">
 
 ---
 ## CVE-2021-3796 (2021-09-15T13:15:00)
