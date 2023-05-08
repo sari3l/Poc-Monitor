@@ -413,6 +413,7 @@
 - [Pari-Malam/CVE-2023-23752](https://github.com/Pari-Malam/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/Pari-Malam/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/Pari-Malam/CVE-2023-23752">
 - [equationsoftworks/Radiance](https://github.com/equationsoftworks/Radiance)	<img alt="forks" src="https://img.shields.io/github/forks/equationsoftworks/Radiance">	<img alt="stars" src="https://img.shields.io/github/stars/equationsoftworks/Radiance">
 - [octosec45/ms-word-rce-0day-poc-2023](https://github.com/octosec45/ms-word-rce-0day-poc-2023)	<img alt="forks" src="https://img.shields.io/github/forks/octosec45/ms-word-rce-0day-poc-2023">	<img alt="stars" src="https://img.shields.io/github/stars/octosec45/ms-word-rce-0day-poc-2023">
+- [wibuheker/Joomla-CVE-2023-23752](https://github.com/wibuheker/Joomla-CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/wibuheker/Joomla-CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/wibuheker/Joomla-CVE-2023-23752">
 
 ---
 ## CVE-2023-23638 (2023-03-08T11:15:00)
