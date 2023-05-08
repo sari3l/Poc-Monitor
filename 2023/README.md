@@ -67,8 +67,8 @@
 - [c7w1n/CVE-2023-30185](https://github.com/c7w1n/CVE-2023-30185)	<img alt="forks" src="https://img.shields.io/github/forks/c7w1n/CVE-2023-30185">	<img alt="stars" src="https://img.shields.io/github/stars/c7w1n/CVE-2023-30185">
 
 ---
-## CVE-2023-30092 ()
-> 
+## CVE-2023-30092 (2023-05-08T15:15:00)
+> SourceCodester Online Pizza Ordering System v1.0 is vulnerable to SQL Injection via the QTY parameter.
 - [nawed20002/CVE-2023-30092](https://github.com/nawed20002/CVE-2023-30092)	<img alt="forks" src="https://img.shields.io/github/forks/nawed20002/CVE-2023-30092">	<img alt="stars" src="https://img.shields.io/github/stars/nawed20002/CVE-2023-30092">
 
 ---
