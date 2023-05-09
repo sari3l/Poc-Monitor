@@ -1027,6 +1027,11 @@
 - [mgargiullo/cve-2018-1207](https://github.com/mgargiullo/cve-2018-1207)	<img alt="forks" src="https://img.shields.io/github/forks/mgargiullo/cve-2018-1207">	<img alt="stars" src="https://img.shields.io/github/stars/mgargiullo/cve-2018-1207">
 
 ---
+## CVE-2018-1160 (2018-12-20T21:29:00)
+> Netatalk before 3.1.12 is vulnerable to an out of bounds write in dsi_opensess.c. This is due to lack of bounds checking on attacker controlled data. A remote unauthenticated attacker can leverage this vulnerability to achieve arbitrary code execution.
+- [Nigmaz/CVE-2018-1160](https://github.com/Nigmaz/CVE-2018-1160)	<img alt="forks" src="https://img.shields.io/github/forks/Nigmaz/CVE-2018-1160">	<img alt="stars" src="https://img.shields.io/github/stars/Nigmaz/CVE-2018-1160">
+
+---
 ## CVE-2018-11496 (2018-05-26T20:29:00)
 > In Long Range Zip (aka lrzip) 0.631, there is a use-after-free in read_stream in stream.c, because decompress_file in lrzip.c lacks certain size validation.
 - [Live-Hack-CVE/CVE-2018-11496](https://github.com/Live-Hack-CVE/CVE-2018-11496)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-11496">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-11496">
