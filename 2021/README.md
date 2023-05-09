@@ -6172,6 +6172,11 @@
 - [Live-Hack-CVE/CVE-2021-26119](https://github.com/Live-Hack-CVE/CVE-2021-26119)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26119">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26119">
 
 ---
+## CVE-2021-26088 (2021-07-12T14:15:00)
+> An improper authentication vulnerability in FSSO Collector version 5.0.295 and below may allow an unauthenticated user to bypass a FSSO firewall policy and access the protected network via sending specifically crafted UDP login notification packets.
+- [theogobinet/CVE-2021-26088](https://github.com/theogobinet/CVE-2021-26088)	<img alt="forks" src="https://img.shields.io/github/forks/theogobinet/CVE-2021-26088">	<img alt="stars" src="https://img.shields.io/github/stars/theogobinet/CVE-2021-26088">
+
+---
 ## CVE-2021-26084 (2021-08-30T07:15:00)
 > In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. The affected versions are before version 6.13.23, from version 6.14.0 before 7.4.11, from version 7.5.0 before 7.11.6, and from version 7.12.0 before 7.12.5.
 - [Vulnmachines/Confluence_CVE-2021-26084](https://github.com/Vulnmachines/Confluence_CVE-2021-26084)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/Confluence_CVE-2021-26084">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/Confluence_CVE-2021-26084">
@@ -7219,6 +7224,7 @@
 ## CVE-2021-22015 (2021-09-23T13:15:00)
 > The vCenter Server contains multiple local privilege escalation vulnerabilities due to improper permissions of files and directories. An authenticated local user with non-administrative privilege may exploit these issues to elevate their privileges to root on vCenter Server Appliance.
 - [Live-Hack-CVE/CVE-2021-22015](https://github.com/Live-Hack-CVE/CVE-2021-22015)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22015">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22015">
+- [PenteraIO/vScalation-CVE-2021-22015](https://github.com/PenteraIO/vScalation-CVE-2021-22015)	<img alt="forks" src="https://img.shields.io/github/forks/PenteraIO/vScalation-CVE-2021-22015">	<img alt="stars" src="https://img.shields.io/github/stars/PenteraIO/vScalation-CVE-2021-22015">
 
 ---
 ## CVE-2021-22005 (2021-09-23T12:15:00)
