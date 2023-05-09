@@ -836,6 +836,19 @@
 - [Trinadh465/Openssl_1.1.1g_CVE-2023-0464](https://github.com/Trinadh465/Openssl_1.1.1g_CVE-2023-0464)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/Openssl_1.1.1g_CVE-2023-0464">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/Openssl_1.1.1g_CVE-2023-0464">
 
 ---
+## CVE-2023-0461 (2023-02-28T15:15:00)
+> There is a use-after-free vulnerability in the Linux Kernel which can be exploited to achieve local privilege escalation. To reach the vulnerability kernel configuration flag CONFIG_TLS or CONFIG_XFRM_ESPINTCP has to be configured, but the operation does not require any privilege.
+
+There is a use-after-free bug of icsk_ulp_data of a struct inet_connection_sock.
+
+When CONFIG_TLS is enabled, user can install a tls context (struct tls_context) on a connected tcp socket. The context is not cleared if this socket is disconnected and reused as a listener. If a new socket is created from the listener, the context is inherited and vulnerable.
+
+The setsockopt TCP_ULP operation does not require any privilege.
+
+We recommend upgrading past commit 2c02d41d71f90a5168391b6a5f2954112ba2307c
+- [hshivhare67/kernel_v4.19.72_CVE-2023-0461](https://github.com/hshivhare67/kernel_v4.19.72_CVE-2023-0461)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/kernel_v4.19.72_CVE-2023-0461">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/kernel_v4.19.72_CVE-2023-0461">
+
+---
 ## CVE-2023-0386 (2023-03-22T21:15:00)
 > A flaw was found in the Linux kernel, where unauthorized access to the execution of the setuid file with capabilities was found in the Linux kernel’s OverlayFS subsystem in how a user copies a capable file from a nosuid mount into another mount. This uid mapping bug allows a local user to escalate their privileges on the system.
 - [Satheesh575555/linux-4.19.72_CVE-2023-0386](https://github.com/Satheesh575555/linux-4.19.72_CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/linux-4.19.72_CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/linux-4.19.72_CVE-2023-0386">
