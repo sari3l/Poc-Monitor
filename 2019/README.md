@@ -1570,6 +1570,11 @@
 - [Live-Hack-CVE/CVE-2019-19206](https://github.com/Live-Hack-CVE/CVE-2019-19206)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19206">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19206">
 
 ---
+## CVE-2019-19194 (2020-02-12T15:15:00)
+> The Bluetooth Low Energy Secure Manager Protocol (SMP) implementation on Telink Semiconductor BLE SDK versions before November 2019 for TLSR8x5x through 3.4.0, TLSR823x through 1.3.0, and TLSR826x through 3.3 devices installs a zero long term key (LTK) if an out-of-order link-layer encryption request is received during Secure Connections pairing. An attacker in radio range can have arbitrary read/write access to protected GATT service data, cause a device crash, or possibly control a device's function by establishing an encrypted session with the zero LTK.
+- [louisabricot/writeup-cve-2019-19194](https://github.com/louisabricot/writeup-cve-2019-19194)	<img alt="forks" src="https://img.shields.io/github/forks/louisabricot/writeup-cve-2019-19194">	<img alt="stars" src="https://img.shields.io/github/stars/louisabricot/writeup-cve-2019-19194">
+
+---
 ## CVE-2019-19126 (2019-11-19T22:15:00)
 > On the x86-64 architecture, the GNU C Library (aka glibc) before 2.31 fails to ignore the LD_PREFER_MAP_32BIT_EXEC environment variable during program execution after a security transition, allowing local attackers to restrict the possible mapping addresses for loaded libraries and thus bypass ASLR for a setuid program.
 - [Live-Hack-CVE/CVE-2019-19126](https://github.com/Live-Hack-CVE/CVE-2019-19126)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19126">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19126">
