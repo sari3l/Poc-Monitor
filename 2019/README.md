@@ -1277,6 +1277,11 @@
 - [black-mirror/Weblogic](https://github.com/black-mirror/Weblogic)	<img alt="forks" src="https://img.shields.io/github/forks/black-mirror/Weblogic">	<img alt="stars" src="https://img.shields.io/github/stars/black-mirror/Weblogic">
 
 ---
+## CVE-2019-2725 (2019-04-26T19:29:00)
+> Vulnerability in the Oracle WebLogic Server component of Oracle Fusion Middleware (subcomponent: Web Services). Supported versions that are affected are 10.3.6.0.0 and 12.1.3.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.0 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).
+- [lufeirider/CVE-2019-2725](https://github.com/lufeirider/CVE-2019-2725)	<img alt="forks" src="https://img.shields.io/github/forks/lufeirider/CVE-2019-2725">	<img alt="stars" src="https://img.shields.io/github/stars/lufeirider/CVE-2019-2725">
+
+---
 ## CVE-2019-2614 (2019-04-23T19:32:00)
 > Vulnerability in the MySQL Server component of Oracle MySQL (subcomponent: Server: Replication). Supported versions that are affected are 5.6.43 and prior, 5.7.25 and prior and 8.0.15 and prior. Difficult to exploit vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.0 Base Score 4.4 (Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:H/PR:H/UI:N/S:U/C:N/I:N/A:H).
 - [Live-Hack-CVE/CVE-2019-2614](https://github.com/Live-Hack-CVE/CVE-2019-2614)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-2614">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-2614">
