@@ -6175,6 +6175,7 @@
 ## CVE-2021-26088 (2021-07-12T14:15:00)
 > An improper authentication vulnerability in FSSO Collector version 5.0.295 and below may allow an unauthenticated user to bypass a FSSO firewall policy and access the protected network via sending specifically crafted UDP login notification packets.
 - [theogobinet/CVE-2021-26088](https://github.com/theogobinet/CVE-2021-26088)	<img alt="forks" src="https://img.shields.io/github/forks/theogobinet/CVE-2021-26088">	<img alt="stars" src="https://img.shields.io/github/stars/theogobinet/CVE-2021-26088">
+- [theogobinet/CVE-2021-26088](https://github.com/theogobinet/CVE-2021-26088)	<img alt="forks" src="https://img.shields.io/github/forks/theogobinet/CVE-2021-26088">	<img alt="stars" src="https://img.shields.io/github/stars/theogobinet/CVE-2021-26088">
 
 ---
 ## CVE-2021-26084 (2021-08-30T07:15:00)
