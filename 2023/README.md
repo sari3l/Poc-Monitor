@@ -295,6 +295,11 @@
 - [Zenmovie/CVE-2023-26604](https://github.com/Zenmovie/CVE-2023-26604)	<img alt="forks" src="https://img.shields.io/github/forks/Zenmovie/CVE-2023-26604">	<img alt="stars" src="https://img.shields.io/github/stars/Zenmovie/CVE-2023-26604">
 
 ---
+## CVE-2023-2594 (2023-05-09T13:15:00)
+> A vulnerability, which was classified as critical, was found in SourceCodester Food Ordering Management System 1.0. Affected is an unknown function of the component Registration. The manipulation of the argument username leads to sql injection. It is possible to launch the attack remotely. The identifier of this vulnerability is VDB-228396.
+- [thehackingverse/CVE-2023-2594](https://github.com/thehackingverse/CVE-2023-2594)	<img alt="forks" src="https://img.shields.io/github/forks/thehackingverse/CVE-2023-2594">	<img alt="stars" src="https://img.shields.io/github/stars/thehackingverse/CVE-2023-2594">
+
+---
 ## CVE-2023-25610 ()
 > 
 - [uicres/CVE-2023-25610-PoC](https://github.com/uicres/CVE-2023-25610-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/uicres/CVE-2023-25610-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/uicres/CVE-2023-25610-PoC">
