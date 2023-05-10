@@ -240,6 +240,12 @@
 - [Therootkitsec/-CVE-2017-7269](https://github.com/Therootkitsec/-CVE-2017-7269)	<img alt="forks" src="https://img.shields.io/github/forks/Therootkitsec/-CVE-2017-7269">	<img alt="stars" src="https://img.shields.io/github/stars/Therootkitsec/-CVE-2017-7269">
 
 ---
+## CVE-2017-5941 (2017-02-09T19:59:00)
+> An issue was discovered in the node-serialize package 0.0.4 for Node.js. Untrusted data passed into the unserialize() function can be exploited to achieve arbitrary code execution by passing a JavaScript Object with an Immediately Invoked Function Expression (IIFE).
+- [Cr4zyD14m0nd137/Lab-for-CVE-2017-5941](https://github.com/Cr4zyD14m0nd137/Lab-for-CVE-2017-5941)	<img alt="forks" src="https://img.shields.io/github/forks/Cr4zyD14m0nd137/Lab-for-CVE-2017-5941">	<img alt="stars" src="https://img.shields.io/github/stars/Cr4zyD14m0nd137/Lab-for-CVE-2017-5941">
+- [Frivolous-scholar/CVE-2017-5941-NodeJS-RCE](https://github.com/Frivolous-scholar/CVE-2017-5941-NodeJS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Frivolous-scholar/CVE-2017-5941-NodeJS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Frivolous-scholar/CVE-2017-5941-NodeJS-RCE">
+
+---
 ## CVE-2017-5689 (2017-05-02T14:59:00)
 > An unprivileged network attacker could gain system privileges to provisioned Intel manageability SKUs: Intel Active Management Technology (AMT) and Intel Standard Manageability (ISM). An unprivileged local attacker could provision manageability features gaining unprivileged network or local system privileges on Intel manageability SKUs: Intel Active Management Technology (AMT), Intel Standard Manageability (ISM), and Intel Small Business Technology (SBT).
 - [odx686/CVE-2017-5689](https://github.com/odx686/CVE-2017-5689)	<img alt="forks" src="https://img.shields.io/github/forks/odx686/CVE-2017-5689">	<img alt="stars" src="https://img.shields.io/github/stars/odx686/CVE-2017-5689">
