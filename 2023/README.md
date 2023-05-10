@@ -867,6 +867,10 @@ We recommend upgrading past commit 2c02d41d71f90a5168391b6a5f2954112ba2307c
 - [chenaotian/CVE-2023-0386](https://github.com/chenaotian/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/chenaotian/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/chenaotian/CVE-2023-0386">
 - [CKevens/CVE-2023-0386](https://github.com/CKevens/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2023-0386">
 - [hshivhare67/kernel_v4.19.72_CVE-2023-0386](https://github.com/hshivhare67/kernel_v4.19.72_CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/kernel_v4.19.72_CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/kernel_v4.19.72_CVE-2023-0386">
+- [securitydan284/tinder-zero-day-exploit](https://github.com/securitydan284/tinder-zero-day-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/securitydan284/tinder-zero-day-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/securitydan284/tinder-zero-day-exploit">
+- [securitydan284/wordpress-zero-day-exploit-poc](https://github.com/securitydan284/wordpress-zero-day-exploit-poc)	<img alt="forks" src="https://img.shields.io/github/forks/securitydan284/wordpress-zero-day-exploit-poc">	<img alt="stars" src="https://img.shields.io/github/stars/securitydan284/wordpress-zero-day-exploit-poc">
+- [securitymike2310/telegram-zero-day-rce-poc](https://github.com/securitymike2310/telegram-zero-day-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/securitymike2310/telegram-zero-day-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/securitymike2310/telegram-zero-day-rce-poc">
+- [securitymike2310/ms-word-zero-day-rce-poc](https://github.com/securitymike2310/ms-word-zero-day-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/securitymike2310/ms-word-zero-day-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/securitymike2310/ms-word-zero-day-rce-poc">
 
 ---
 ## CVE-2023-0297 (2023-01-14T03:15:00)
