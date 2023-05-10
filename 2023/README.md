@@ -129,6 +129,11 @@
 - [x-Defender/CVE-2023-29007_win-version](https://github.com/x-Defender/CVE-2023-29007_win-version)	<img alt="forks" src="https://img.shields.io/github/forks/x-Defender/CVE-2023-29007_win-version">	<img alt="stars" src="https://img.shields.io/github/stars/x-Defender/CVE-2023-29007_win-version">
 
 ---
+## CVE-2023-28772 (2023-03-23T15:15:00)
+> An issue was discovered in the Linux kernel before 5.13.3. lib/seq_buf.c has a seq_buf_putmem_hex buffer overflow.
+- [nidhi7598/linux-4.19.72_CVE-2023-28772](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-28772)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.19.72_CVE-2023-28772">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.19.72_CVE-2023-28772">
+
+---
 ## CVE-2023-28615 ()
 > 
 - [YSaxon/CVE-2023-28615](https://github.com/YSaxon/CVE-2023-28615)	<img alt="forks" src="https://img.shields.io/github/forks/YSaxon/CVE-2023-28615">	<img alt="stars" src="https://img.shields.io/github/stars/YSaxon/CVE-2023-28615">
