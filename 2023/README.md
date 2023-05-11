@@ -864,6 +864,8 @@ The setsockopt TCP_ULP operation does not require any privilege.
 We recommend upgrading past commit 2c02d41d71f90a5168391b6a5f2954112ba2307c
 - [hshivhare67/kernel_v4.19.72_CVE-2023-0461](https://github.com/hshivhare67/kernel_v4.19.72_CVE-2023-0461)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/kernel_v4.19.72_CVE-2023-0461">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/kernel_v4.19.72_CVE-2023-0461">
 - [nidhi7598/linux-4.19.72_CVE-2023-0461](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-0461)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.19.72_CVE-2023-0461">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.19.72_CVE-2023-0461">
+- [nidhi7598/linux-4.19.72_CVE-2023-0461](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-0461)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.19.72_CVE-2023-0461">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.19.72_CVE-2023-0461">
+- [hheeyywweellccoommee/linux-4.19.72_CVE-2023-0461-ycnbd](https://github.com/hheeyywweellccoommee/linux-4.19.72_CVE-2023-0461-ycnbd)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/linux-4.19.72_CVE-2023-0461-ycnbd">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/linux-4.19.72_CVE-2023-0461-ycnbd">
 
 ---
 ## CVE-2023-0386 (2023-03-22T21:15:00)
