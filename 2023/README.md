@@ -133,6 +133,8 @@
 > An issue was discovered in the Linux kernel before 5.13.3. lib/seq_buf.c has a seq_buf_putmem_hex buffer overflow.
 - [nidhi7598/linux-4.19.72_CVE-2023-28772](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-28772)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.19.72_CVE-2023-28772">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.19.72_CVE-2023-28772">
 - [Trinadh465/linux-4.1.15_CVE-2023-28772](https://github.com/Trinadh465/linux-4.1.15_CVE-2023-28772)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux-4.1.15_CVE-2023-28772">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux-4.1.15_CVE-2023-28772">
+- [Trinadh465/linux-4.1.15_CVE-2023-28772](https://github.com/Trinadh465/linux-4.1.15_CVE-2023-28772)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux-4.1.15_CVE-2023-28772">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux-4.1.15_CVE-2023-28772">
+- [hheeyywweellccoommee/linux-4.1.15_CVE-2023-28772-ipchu](https://github.com/hheeyywweellccoommee/linux-4.1.15_CVE-2023-28772-ipchu)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/linux-4.1.15_CVE-2023-28772-ipchu">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/linux-4.1.15_CVE-2023-28772-ipchu">
 
 ---
 ## CVE-2023-28615 ()
@@ -441,6 +443,7 @@
 ## CVE-2023-23638 (2023-03-08T11:15:00)
 > A deserialization vulnerability existed when dubbo generic invoke, which could lead to malicious code execution. This issue affects Apache Dubbo 2.7.x version 2.7.21 and prior versions; Apache Dubbo 3.0.x version 3.0.13 and prior versions; Apache Dubbo 3.1.x version 3.1.5 and prior versions.
 - [X1r0z/CVE-2023-23638](https://github.com/X1r0z/CVE-2023-23638)	<img alt="forks" src="https://img.shields.io/github/forks/X1r0z/CVE-2023-23638">	<img alt="stars" src="https://img.shields.io/github/stars/X1r0z/CVE-2023-23638">
+- [YYHYlh/Apache-Dubbo-CVE-2023-23638-exp](https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp)	<img alt="forks" src="https://img.shields.io/github/forks/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp">	<img alt="stars" src="https://img.shields.io/github/stars/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp">
 - [YYHYlh/Apache-Dubbo-CVE-2023-23638-exp](https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp)	<img alt="forks" src="https://img.shields.io/github/forks/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp">	<img alt="stars" src="https://img.shields.io/github/stars/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp">
 
 ---
