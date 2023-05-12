@@ -87,13 +87,13 @@
 - [jichngan/CVE-2023-29839](https://github.com/jichngan/CVE-2023-29839)	<img alt="forks" src="https://img.shields.io/github/forks/jichngan/CVE-2023-29839">	<img alt="stars" src="https://img.shields.io/github/stars/jichngan/CVE-2023-29839">
 
 ---
-## CVE-2023-29809 ()
-> 
+## CVE-2023-29809 (2023-05-12T01:15:00)
+> SQL injection vulnerability found in Maximilian Vogt companymaps (cmaps) v.8.0 allows a remote attacker to execute arbitrary code via a crafted script in the request.
 - [zPrototype/CVE-2023-29809](https://github.com/zPrototype/CVE-2023-29809)	<img alt="forks" src="https://img.shields.io/github/forks/zPrototype/CVE-2023-29809">	<img alt="stars" src="https://img.shields.io/github/stars/zPrototype/CVE-2023-29809">
 
 ---
-## CVE-2023-29808 ()
-> 
+## CVE-2023-29808 (2023-05-12T01:15:00)
+> Cross Site Scripting (XSS) vulnerability in vogtmh cmaps (companymaps) 8.0 allows attackers to execute arbitrary code.
 - [zPrototype/CVE-2023-29808](https://github.com/zPrototype/CVE-2023-29808)	<img alt="forks" src="https://img.shields.io/github/forks/zPrototype/CVE-2023-29808">	<img alt="stars" src="https://img.shields.io/github/stars/zPrototype/CVE-2023-29808">
 
 ---
@@ -136,6 +136,7 @@
 - [Trinadh465/linux-4.1.15_CVE-2023-28772](https://github.com/Trinadh465/linux-4.1.15_CVE-2023-28772)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux-4.1.15_CVE-2023-28772">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux-4.1.15_CVE-2023-28772">
 - [hheeyywweellccoommee/linux-4.1.15_CVE-2023-28772-ipchu](https://github.com/hheeyywweellccoommee/linux-4.1.15_CVE-2023-28772-ipchu)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/linux-4.1.15_CVE-2023-28772-ipchu">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/linux-4.1.15_CVE-2023-28772-ipchu">
 - [Satheesh575555/linux-4.1.15_CVE-2023-28772](https://github.com/Satheesh575555/linux-4.1.15_CVE-2023-28772)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/linux-4.1.15_CVE-2023-28772">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/linux-4.1.15_CVE-2023-28772">
+- [hshivhare67/kernel_v4.1.15_CVE-2023-28772](https://github.com/hshivhare67/kernel_v4.1.15_CVE-2023-28772)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/kernel_v4.1.15_CVE-2023-28772">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/kernel_v4.1.15_CVE-2023-28772">
 
 ---
 ## CVE-2023-28615 ()
