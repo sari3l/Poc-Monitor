@@ -77,8 +77,8 @@
 - [nawed20002/CVE-2023-30092](https://github.com/nawed20002/CVE-2023-30092)	<img alt="forks" src="https://img.shields.io/github/forks/nawed20002/CVE-2023-30092">	<img alt="stars" src="https://img.shields.io/github/stars/nawed20002/CVE-2023-30092">
 
 ---
-## CVE-2023-29983 ()
-> 
+## CVE-2023-29983 (2023-05-12T11:15:00)
+> Cross Site Scripting vulnerability found in Maximilian Vogt cmaps v.8.0 allows a remote attacker to execute arbitrary code via the auditlog tab in the admin panel.
 - [zPrototype/CVE-2023-29983](https://github.com/zPrototype/CVE-2023-29983)	<img alt="forks" src="https://img.shields.io/github/forks/zPrototype/CVE-2023-29983">	<img alt="stars" src="https://img.shields.io/github/stars/zPrototype/CVE-2023-29983">
 
 ---
@@ -523,8 +523,8 @@
 - [Penkyzduyi/CVE-2023-23192](https://github.com/Penkyzduyi/CVE-2023-23192)	<img alt="forks" src="https://img.shields.io/github/forks/Penkyzduyi/CVE-2023-23192">	<img alt="stars" src="https://img.shields.io/github/stars/Penkyzduyi/CVE-2023-23192">
 
 ---
-## CVE-2023-23169 ()
-> 
+## CVE-2023-23169 (2023-05-12T11:15:00)
+> Synapsoft pdfocus 1.17 is vulnerable to local file inclusion and server-side request forgery Directory Traversal.
 - [S4nshine/CVE-2023-23169](https://github.com/S4nshine/CVE-2023-23169)	<img alt="forks" src="https://img.shields.io/github/forks/S4nshine/CVE-2023-23169">	<img alt="stars" src="https://img.shields.io/github/stars/S4nshine/CVE-2023-23169">
 
 ---
