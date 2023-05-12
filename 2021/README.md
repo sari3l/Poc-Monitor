@@ -4066,6 +4066,7 @@
 ## CVE-2021-35587 (2022-01-19T12:15:00)
 > Vulnerability in the Oracle Access Manager product of Oracle Fusion Middleware (component: OpenSSO Agent). Supported versions that are affected are 11.1.2.3.0, 12.2.1.3.0 and 12.2.1.4.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Access Manager. Successful attacks of this vulnerability can result in takeover of Oracle Access Manager. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).
 - [1s1ldur/CVE-2021-35587-Vulnerability-Check](https://github.com/1s1ldur/CVE-2021-35587-Vulnerability-Check)	<img alt="forks" src="https://img.shields.io/github/forks/1s1ldur/CVE-2021-35587-Vulnerability-Check">	<img alt="stars" src="https://img.shields.io/github/stars/1s1ldur/CVE-2021-35587-Vulnerability-Check">
+- [antx-code/CVE-2021-35587](https://github.com/antx-code/CVE-2021-35587)	<img alt="forks" src="https://img.shields.io/github/forks/antx-code/CVE-2021-35587">	<img alt="stars" src="https://img.shields.io/github/stars/antx-code/CVE-2021-35587">
 
 ---
 ## CVE-2021-35576 (2021-10-20T11:16:00)
