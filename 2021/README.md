@@ -4063,6 +4063,11 @@
 - [swapravo/polkadots](https://github.com/swapravo/polkadots)	<img alt="forks" src="https://img.shields.io/github/forks/swapravo/polkadots">	<img alt="stars" src="https://img.shields.io/github/stars/swapravo/polkadots">
 
 ---
+## CVE-2021-35587 (2022-01-19T12:15:00)
+> Vulnerability in the Oracle Access Manager product of Oracle Fusion Middleware (component: OpenSSO Agent). Supported versions that are affected are 11.1.2.3.0, 12.2.1.3.0 and 12.2.1.4.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Access Manager. Successful attacks of this vulnerability can result in takeover of Oracle Access Manager. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).
+- [1s1ldur/CVE-2021-35587-Vulnerability-Check](https://github.com/1s1ldur/CVE-2021-35587-Vulnerability-Check)	<img alt="forks" src="https://img.shields.io/github/forks/1s1ldur/CVE-2021-35587-Vulnerability-Check">	<img alt="stars" src="https://img.shields.io/github/stars/1s1ldur/CVE-2021-35587-Vulnerability-Check">
+
+---
 ## CVE-2021-35576 (2021-10-20T11:16:00)
 > Vulnerability in the Oracle Database Enterprise Edition Unified Audit component of Oracle Database Server. Supported versions that are affected are 12.1.0.2, 12.2.0.1 and 19c. Easily exploitable vulnerability allows high privileged attacker having Local Logon privilege with network access via Oracle Net to compromise Oracle Database Enterprise Edition Unified Audit. Successful attacks of this vulnerability can result in unauthorized update, insert or delete access to some of Oracle Database Enterprise Edition Unified Audit accessible data. CVSS 3.1 Base Score 2.7 (Integrity impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:L/A:N).
 - [Live-Hack-CVE/CVE-2021-35576](https://github.com/Live-Hack-CVE/CVE-2021-35576)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35576">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35576">
