@@ -16,6 +16,11 @@
 - [Trinadh465/linux_4.19.72_CVE-2023-42896](https://github.com/Trinadh465/linux_4.19.72_CVE-2023-42896)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux_4.19.72_CVE-2023-42896">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux_4.19.72_CVE-2023-42896">
 
 ---
+## CVE-2023-32243 (2023-05-12T08:15:00)
+> Improper Authentication vulnerability in WPDeveloper Essential Addons for Elementor allows Privilege Escalation. This issue affects Essential Addons for Elementor: from 5.4.0 through 5.7.1.
+- [little44n1o/cve-2023-32243](https://github.com/little44n1o/cve-2023-32243)	<img alt="forks" src="https://img.shields.io/github/forks/little44n1o/cve-2023-32243">	<img alt="stars" src="https://img.shields.io/github/stars/little44n1o/cve-2023-32243">
+
+---
 ## CVE-2023-31503 ()
 > 
 - [ViCrack/CVE-2023-31503](https://github.com/ViCrack/CVE-2023-31503)	<img alt="forks" src="https://img.shields.io/github/forks/ViCrack/CVE-2023-31503">	<img alt="stars" src="https://img.shields.io/github/stars/ViCrack/CVE-2023-31503">
@@ -112,6 +117,11 @@
 - [haxor1337x/Scanner-CVE-2023-29489](https://github.com/haxor1337x/Scanner-CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/haxor1337x/Scanner-CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/haxor1337x/Scanner-CVE-2023-29489">
 - [whalebone7/EagleEye](https://github.com/whalebone7/EagleEye)	<img alt="forks" src="https://img.shields.io/github/forks/whalebone7/EagleEye">	<img alt="stars" src="https://img.shields.io/github/stars/whalebone7/EagleEye">
 - [1337r0j4n/CVE-2023-29489](https://github.com/1337r0j4n/CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/1337r0j4n/CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/1337r0j4n/CVE-2023-29489">
+
+---
+## CVE-2023-29324 (2023-05-09T18:15:00)
+> Windows MSHTML Platform Security Feature Bypass Vulnerability
+- [OLeDouxEt/CVE-2023-29324_Patch_Deploy](https://github.com/OLeDouxEt/CVE-2023-29324_Patch_Deploy)	<img alt="forks" src="https://img.shields.io/github/forks/OLeDouxEt/CVE-2023-29324_Patch_Deploy">	<img alt="stars" src="https://img.shields.io/github/stars/OLeDouxEt/CVE-2023-29324_Patch_Deploy">
 
 ---
 ## CVE-2023-29084 (2023-04-13T19:15:00)
