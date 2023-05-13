@@ -3206,6 +3206,15 @@
 - [Live-Hack-CVE/CVE-2020-1709](https://github.com/Live-Hack-CVE/CVE-2020-1709)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1709">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1709">
 
 ---
+## CVE-2020-17087 (2020-11-11T07:15:00)
+> Windows Kernel Local Elevation of Privilege Vulnerability
+- [raiden757/CVE-2020-17087](https://github.com/raiden757/CVE-2020-17087)	<img alt="forks" src="https://img.shields.io/github/forks/raiden757/CVE-2020-17087">	<img alt="stars" src="https://img.shields.io/github/stars/raiden757/CVE-2020-17087">
+- [vp777/Windows-Non-Paged-Pool-Overflow-Exploitation](https://github.com/vp777/Windows-Non-Paged-Pool-Overflow-Exploitation)	<img alt="forks" src="https://img.shields.io/github/forks/vp777/Windows-Non-Paged-Pool-Overflow-Exploitation">	<img alt="stars" src="https://img.shields.io/github/stars/vp777/Windows-Non-Paged-Pool-Overflow-Exploitation">
+- [ykg88/OHTS_IE6052-CVE-2020-17087](https://github.com/ykg88/OHTS_IE6052-CVE-2020-17087)	<img alt="forks" src="https://img.shields.io/github/forks/ykg88/OHTS_IE6052-CVE-2020-17087">	<img alt="stars" src="https://img.shields.io/github/stars/ykg88/OHTS_IE6052-CVE-2020-17087">
+- [revengsh/CVE-2020-17087](https://github.com/revengsh/CVE-2020-17087)	<img alt="forks" src="https://img.shields.io/github/forks/revengsh/CVE-2020-17087">	<img alt="stars" src="https://img.shields.io/github/stars/revengsh/CVE-2020-17087">
+- [TinToSer/CVE2020-17087](https://github.com/TinToSer/CVE2020-17087)	<img alt="forks" src="https://img.shields.io/github/forks/TinToSer/CVE2020-17087">	<img alt="stars" src="https://img.shields.io/github/stars/TinToSer/CVE2020-17087">
+
+---
 ## CVE-2020-1707 (2020-03-20T15:15:00)
 > A vulnerability was found in all openshift/postgresql-apb 4.x.x versions prior to 4.3.0, where an insecure modification vulnerability in the /etc/passwd file was found in the container openshift/postgresql-apb. An attacker with access to the container could use this flaw to modify /etc/passwd and escalate their privileges.
 - [Live-Hack-CVE/CVE-2020-1707](https://github.com/Live-Hack-CVE/CVE-2020-1707)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1707">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1707">
