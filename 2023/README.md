@@ -20,6 +20,7 @@
 > Improper Authentication vulnerability in WPDeveloper Essential Addons for Elementor allows Privilege Escalation. This issue affects Essential Addons for Elementor: from 5.4.0 through 5.7.1.
 - [little44n1o/cve-2023-32243](https://github.com/little44n1o/cve-2023-32243)	<img alt="forks" src="https://img.shields.io/github/forks/little44n1o/cve-2023-32243">	<img alt="stars" src="https://img.shields.io/github/stars/little44n1o/cve-2023-32243">
 - [gbrsh/CVE-2023-32243](https://github.com/gbrsh/CVE-2023-32243)	<img alt="forks" src="https://img.shields.io/github/forks/gbrsh/CVE-2023-32243">	<img alt="stars" src="https://img.shields.io/github/stars/gbrsh/CVE-2023-32243">
+- [RandomRobbieBF/CVE-2023-32243.](https://github.com/RandomRobbieBF/CVE-2023-32243.)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-32243.">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-32243.">
 
 ---
 ## CVE-2023-31503 ()
