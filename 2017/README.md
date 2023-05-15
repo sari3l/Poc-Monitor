@@ -982,6 +982,7 @@
 - [Grey-Li/CVE-2017-11882](https://github.com/Grey-Li/CVE-2017-11882)	<img alt="forks" src="https://img.shields.io/github/forks/Grey-Li/CVE-2017-11882">	<img alt="stars" src="https://img.shields.io/github/stars/Grey-Li/CVE-2017-11882">
 - [HZachev/ABC](https://github.com/HZachev/ABC)	<img alt="forks" src="https://img.shields.io/github/forks/HZachev/ABC">	<img alt="stars" src="https://img.shields.io/github/stars/HZachev/ABC">
 - [0x09AL/CVE-2017-11882-metasploit](https://github.com/0x09AL/CVE-2017-11882-metasploit)	<img alt="forks" src="https://img.shields.io/github/forks/0x09AL/CVE-2017-11882-metasploit">	<img alt="stars" src="https://img.shields.io/github/stars/0x09AL/CVE-2017-11882-metasploit">
+- [n18dcat053-luuvannga/DetectPacket-CVE-2017-11882](https://github.com/n18dcat053-luuvannga/DetectPacket-CVE-2017-11882)	<img alt="forks" src="https://img.shields.io/github/forks/n18dcat053-luuvannga/DetectPacket-CVE-2017-11882">	<img alt="stars" src="https://img.shields.io/github/stars/n18dcat053-luuvannga/DetectPacket-CVE-2017-11882">
 
 ---
 ## CVE-2017-11683 (2017-07-27T06:29:00)
