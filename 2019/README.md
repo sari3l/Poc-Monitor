@@ -1976,6 +1976,7 @@
 - [wenruoya/CVE-2019-15107](https://github.com/wenruoya/CVE-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/wenruoya/CVE-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/wenruoya/CVE-2019-15107">
 - [g1vi/CVE-2019-15107](https://github.com/g1vi/CVE-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/g1vi/CVE-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/g1vi/CVE-2019-15107">
 - [K3ysTr0K3R/CVE-2019-15107-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2019-15107-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2019-15107-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2019-15107-EXPLOIT">
+- [gozn/detect-CVE-2019-15107-by-pyshark](https://github.com/gozn/detect-CVE-2019-15107-by-pyshark)	<img alt="forks" src="https://img.shields.io/github/forks/gozn/detect-CVE-2019-15107-by-pyshark">	<img alt="stars" src="https://img.shields.io/github/stars/gozn/detect-CVE-2019-15107-by-pyshark">
 
 ---
 ## CVE-2019-14907 (2020-01-21T18:15:00)
