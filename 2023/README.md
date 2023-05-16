@@ -26,6 +26,7 @@
 ## CVE-2023-32233 (2023-05-08T20:15:00)
 > In the Linux kernel through 6.3.1, a use-after-free in Netfilter nf_tables when processing batch requests can be abused to perform arbitrary read and write operations on kernel memory. Unprivileged local users can obtain root privileges. This occurs because anonymous sets are mishandled.
 - [PIDAN-HEIDASHUAI/CVE-2023-32233](https://github.com/PIDAN-HEIDASHUAI/CVE-2023-32233)	<img alt="forks" src="https://img.shields.io/github/forks/PIDAN-HEIDASHUAI/CVE-2023-32233">	<img alt="stars" src="https://img.shields.io/github/stars/PIDAN-HEIDASHUAI/CVE-2023-32233">
+- [Liuk3r/CVE-2023-32233](https://github.com/Liuk3r/CVE-2023-32233)	<img alt="forks" src="https://img.shields.io/github/forks/Liuk3r/CVE-2023-32233">	<img alt="stars" src="https://img.shields.io/github/stars/Liuk3r/CVE-2023-32233">
 
 ---
 ## CVE-2023-32073 (2023-05-12T14:15:00)
