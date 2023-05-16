@@ -915,6 +915,7 @@ We recommend upgrading past commit 2c02d41d71f90a5168391b6a5f2954112ba2307c
 - [securitydan284/wordpress-zero-day-exploit-poc](https://github.com/securitydan284/wordpress-zero-day-exploit-poc)	<img alt="forks" src="https://img.shields.io/github/forks/securitydan284/wordpress-zero-day-exploit-poc">	<img alt="stars" src="https://img.shields.io/github/stars/securitydan284/wordpress-zero-day-exploit-poc">
 - [securitymike2310/telegram-zero-day-rce-poc](https://github.com/securitymike2310/telegram-zero-day-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/securitymike2310/telegram-zero-day-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/securitymike2310/telegram-zero-day-rce-poc">
 - [securitymike2310/ms-word-zero-day-rce-poc](https://github.com/securitymike2310/ms-word-zero-day-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/securitymike2310/ms-word-zero-day-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/securitymike2310/ms-word-zero-day-rce-poc">
+- [sxlmnwb/CVE-2023-0386](https://github.com/sxlmnwb/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/sxlmnwb/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/sxlmnwb/CVE-2023-0386">
 
 ---
 ## CVE-2023-0297 (2023-01-14T03:15:00)
