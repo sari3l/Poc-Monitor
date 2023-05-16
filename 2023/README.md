@@ -230,8 +230,8 @@
 - [0xFTW/CVE-2023-27842](https://github.com/0xFTW/CVE-2023-27842)	<img alt="forks" src="https://img.shields.io/github/forks/0xFTW/CVE-2023-27842">	<img alt="stars" src="https://img.shields.io/github/stars/0xFTW/CVE-2023-27842">
 
 ---
-## CVE-2023-27742 ()
-> 
+## CVE-2023-27742 (2023-05-16T20:15:00)
+> IDURAR ERP/CRM v1 was discovered to contain a SQL injection vulnerability via the component /api/login.
 - [G37SYS73M/CVE-2023-27742](https://github.com/G37SYS73M/CVE-2023-27742)	<img alt="forks" src="https://img.shields.io/github/forks/G37SYS73M/CVE-2023-27742">	<img alt="stars" src="https://img.shields.io/github/stars/G37SYS73M/CVE-2023-27742">
 
 ---
