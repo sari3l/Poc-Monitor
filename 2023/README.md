@@ -35,6 +35,11 @@
 - [jmrcsnchz/CVE-2023-32073](https://github.com/jmrcsnchz/CVE-2023-32073)	<img alt="forks" src="https://img.shields.io/github/forks/jmrcsnchz/CVE-2023-32073">	<img alt="stars" src="https://img.shields.io/github/stars/jmrcsnchz/CVE-2023-32073">
 
 ---
+## CVE-2023-31703 ()
+> 
+- [sahiloj/CVE-2023-31703](https://github.com/sahiloj/CVE-2023-31703)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-31703">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-31703">
+
+---
 ## CVE-2023-31702 ()
 > 
 - [sahiloj/CVE-2023-31702](https://github.com/sahiloj/CVE-2023-31702)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-31702">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-31702">
