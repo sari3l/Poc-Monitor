@@ -16,6 +16,11 @@
 - [Trinadh465/linux_4.19.72_CVE-2023-42896](https://github.com/Trinadh465/linux_4.19.72_CVE-2023-42896)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux_4.19.72_CVE-2023-42896">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux_4.19.72_CVE-2023-42896">
 
 ---
+## CVE-2023-32784 (2023-05-15T06:15:00)
+> In KeePass 2.x before 2.54, it is possible to recover the cleartext master password from a memory dump, even when a workspace is locked or no longer running. The memory dump can be a KeePass process dump, swap file (pagefile.sys), hibernation file (hiberfil.sys), or RAM dump of the entire system. The first character cannot be recovered. In 2.54, there is different API usage and/or random string insertion for mitigation.
+- [CTM1/CVE-2023-32784-keepass-linux](https://github.com/CTM1/CVE-2023-32784-keepass-linux)	<img alt="forks" src="https://img.shields.io/github/forks/CTM1/CVE-2023-32784-keepass-linux">	<img alt="stars" src="https://img.shields.io/github/stars/CTM1/CVE-2023-32784-keepass-linux">
+
+---
 ## CVE-2023-32243 (2023-05-12T08:15:00)
 > Improper Authentication vulnerability in WPDeveloper Essential Addons for Elementor allows Privilege Escalation. This issue affects Essential Addons for Elementor: from 5.4.0 through 5.7.1.
 - [little44n1o/cve-2023-32243](https://github.com/little44n1o/cve-2023-32243)	<img alt="forks" src="https://img.shields.io/github/forks/little44n1o/cve-2023-32243">	<img alt="stars" src="https://img.shields.io/github/stars/little44n1o/cve-2023-32243">
@@ -43,6 +48,11 @@
 ## CVE-2023-31702 (2023-05-17T13:15:00)
 > SQL injection in the View User Profile in MicroWorld eScan Management Console 14.0.1400.2281 allows remote attacker to dump entire database and gain windows XP command shell to perform code execution on database server via GetUserCurrentPwd?UsrId=1.
 - [sahiloj/CVE-2023-31702](https://github.com/sahiloj/CVE-2023-31702)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-31702">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-31702">
+
+---
+## CVE-2023-31584 ()
+> 
+- [rootd4ddy/CVE-2023-31584](https://github.com/rootd4ddy/CVE-2023-31584)	<img alt="forks" src="https://img.shields.io/github/forks/rootd4ddy/CVE-2023-31584">	<img alt="stars" src="https://img.shields.io/github/stars/rootd4ddy/CVE-2023-31584">
 
 ---
 ## CVE-2023-31503 ()

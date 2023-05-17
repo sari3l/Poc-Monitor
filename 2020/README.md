@@ -86,6 +86,11 @@
 - [Live-Hack-CVE/CVE-2020-9383](https://github.com/Live-Hack-CVE/CVE-2020-9383)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9383">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9383">
 
 ---
+## CVE-2020-9380 (2020-03-05T13:15:00)
+> IPTV Smarters WEB TV PLAYER through 2020-02-22 allows attackers to execute OS commands by uploading a script.
+- [migueltarga/CVE-2020-9380](https://github.com/migueltarga/CVE-2020-9380)	<img alt="forks" src="https://img.shields.io/github/forks/migueltarga/CVE-2020-9380">	<img alt="stars" src="https://img.shields.io/github/stars/migueltarga/CVE-2020-9380">
+
+---
 ## CVE-2020-9296 (2020-06-16T14:15:00)
 > Netflix Titus uses Java Bean Validation (JSR 380) custom constraint validators. When building custom constraint violation error messages, different types of interpolation are supported, including Java EL expressions. If an attacker can inject arbitrary data in the error message template being passed to ConstraintValidatorContext.buildConstraintViolationWithTemplate() argument, they will be able to run arbitrary Java code.
 - [Live-Hack-CVE/CVE-2020-9296](https://github.com/Live-Hack-CVE/CVE-2020-9296)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9296">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9296">
