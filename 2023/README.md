@@ -35,13 +35,13 @@
 - [jmrcsnchz/CVE-2023-32073](https://github.com/jmrcsnchz/CVE-2023-32073)	<img alt="forks" src="https://img.shields.io/github/forks/jmrcsnchz/CVE-2023-32073">	<img alt="stars" src="https://img.shields.io/github/stars/jmrcsnchz/CVE-2023-32073">
 
 ---
-## CVE-2023-31703 ()
-> 
+## CVE-2023-31703 (2023-05-17T13:15:00)
+> Cross Site Scripting (XSS) in the edit user form in Microworld Technologies eScan management console 14.0.1400.2281 allows remote attacker to inject arbitrary code via the from parameter.
 - [sahiloj/CVE-2023-31703](https://github.com/sahiloj/CVE-2023-31703)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-31703">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-31703">
 
 ---
-## CVE-2023-31702 ()
-> 
+## CVE-2023-31702 (2023-05-17T13:15:00)
+> SQL injection in the View User Profile in MicroWorld eScan Management Console 14.0.1400.2281 allows remote attacker to dump entire database and gain windows XP command shell to perform code execution on database server via GetUserCurrentPwd?UsrId=1.
 - [sahiloj/CVE-2023-31702](https://github.com/sahiloj/CVE-2023-31702)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-31702">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-31702">
 
 ---
