@@ -7935,6 +7935,7 @@
 - [edsonjt81/CVE-2021-1675](https://github.com/edsonjt81/CVE-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/edsonjt81/CVE-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/edsonjt81/CVE-2021-1675">
 - [calebstewart/CVE-2021-1675](https://github.com/calebstewart/CVE-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/calebstewart/CVE-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/calebstewart/CVE-2021-1675">
 - [sai-reddy2021/CVE-2021-1675-LPE](https://github.com/sai-reddy2021/CVE-2021-1675-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/sai-reddy2021/CVE-2021-1675-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/sai-reddy2021/CVE-2021-1675-LPE">
+- [r1skkam/PrintNightmare](https://github.com/r1skkam/PrintNightmare)	<img alt="forks" src="https://img.shields.io/github/forks/r1skkam/PrintNightmare">	<img alt="stars" src="https://img.shields.io/github/stars/r1skkam/PrintNightmare">
 
 ---
 ## CVE-2021-1589 (2021-09-23T03:15:00)
