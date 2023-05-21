@@ -968,6 +968,7 @@ We recommend upgrading past commit 2c02d41d71f90a5168391b6a5f2954112ba2307c
 - [Small-ears/CVE-2023-0297](https://github.com/Small-ears/CVE-2023-0297)	<img alt="forks" src="https://img.shields.io/github/forks/Small-ears/CVE-2023-0297">	<img alt="stars" src="https://img.shields.io/github/stars/Small-ears/CVE-2023-0297">
 - [bAuh0lz/CVE-2023-0297_Pre-auth_RCE_in_pyLoad](https://github.com/bAuh0lz/CVE-2023-0297_Pre-auth_RCE_in_pyLoad)	<img alt="forks" src="https://img.shields.io/github/forks/bAuh0lz/CVE-2023-0297_Pre-auth_RCE_in_pyLoad">	<img alt="stars" src="https://img.shields.io/github/stars/bAuh0lz/CVE-2023-0297_Pre-auth_RCE_in_pyLoad">
 - [b11y/CVE-2023-0297](https://github.com/b11y/CVE-2023-0297)	<img alt="forks" src="https://img.shields.io/github/forks/b11y/CVE-2023-0297">	<img alt="stars" src="https://img.shields.io/github/stars/b11y/CVE-2023-0297">
+- [JacobEbben/CVE-2023-0297](https://github.com/JacobEbben/CVE-2023-0297)	<img alt="forks" src="https://img.shields.io/github/forks/JacobEbben/CVE-2023-0297">	<img alt="stars" src="https://img.shields.io/github/stars/JacobEbben/CVE-2023-0297">
 
 ---
 ## CVE-2023-0286 (2023-02-08T20:15:00)
