@@ -4629,6 +4629,7 @@
 ## CVE-2021-3438 (2021-05-20T14:15:00)
 > A potential buffer overflow in the software drivers for certain HP LaserJet products and Samsung product printers could lead to an escalation of privilege.
 - [Exploitables/CVE-2021-3438](https://github.com/Exploitables/CVE-2021-3438)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2021-3438">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2021-3438">
+- [TobiasS1402/CVE-2021-3438](https://github.com/TobiasS1402/CVE-2021-3438)	<img alt="forks" src="https://img.shields.io/github/forks/TobiasS1402/CVE-2021-3438">	<img alt="stars" src="https://img.shields.io/github/stars/TobiasS1402/CVE-2021-3438">
 
 ---
 ## CVE-2021-3437 (2022-12-12T13:15:00)
