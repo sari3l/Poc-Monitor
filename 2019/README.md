@@ -1309,6 +1309,11 @@
 - [Live-Hack-CVE/CVE-2019-2614](https://github.com/Live-Hack-CVE/CVE-2019-2614)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-2614">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-2614">
 
 ---
+## CVE-2019-25137 (2023-05-18T07:15:00)
+> Umbraco CMS 7.12.4 allows Remote Code Execution by authenticated administrators via msxsl:script in an xsltSelection to developer/Xslt/xsltVisualize.aspx.
+- [Ickarah/CVE-2019-25137-Version-Research](https://github.com/Ickarah/CVE-2019-25137-Version-Research)	<img alt="forks" src="https://img.shields.io/github/forks/Ickarah/CVE-2019-25137-Version-Research">	<img alt="stars" src="https://img.shields.io/github/stars/Ickarah/CVE-2019-25137-Version-Research">
+
+---
 ## CVE-2019-25100 (2023-01-08T11:15:00)
 > A vulnerability was found in happyman twmap. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the file twmap3/data/ajaxCRUD/pointdata2.php. The manipulation of the argument id leads to sql injection. Upgrading to version v2.9_v4.31 is able to address this issue. The name of the patch is babbec79b3fa4efb3bd581ea68af0528d11bba0c. It is recommended to upgrade the affected component. The identifier VDB-217645 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2019-25100](https://github.com/Live-Hack-CVE/CVE-2019-25100)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25100">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25100">
