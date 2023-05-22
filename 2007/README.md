@@ -6,6 +6,11 @@
 - [Live-Hack-CVE/CVE-2007-6755](https://github.com/Live-Hack-CVE/CVE-2007-6755)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2007-6755">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2007-6755">
 
 ---
+## CVE-2007-5962 (2008-05-22T13:09:00)
+> Memory leak in a certain Red Hat patch, applied to vsftpd 2.0.5 on Red Hat Enterprise Linux (RHEL) 5 and Fedora 6 through 8, and on Foresight Linux and rPath appliances, allows remote attackers to cause a denial of service (memory consumption) via a large number of CWD commands, as demonstrated by an attack on a daemon with the deny_file configuration option.
+- [antogit-sys/CVE-2007-5962](https://github.com/antogit-sys/CVE-2007-5962)	<img alt="forks" src="https://img.shields.io/github/forks/antogit-sys/CVE-2007-5962">	<img alt="stars" src="https://img.shields.io/github/stars/antogit-sys/CVE-2007-5962">
+
+---
 ## CVE-2007-5536 (2007-10-18T00:17:00)
 > Unspecified vulnerability in OpenSSL before A.00.09.07l on HP-UX B.11.11, B.11.23, and B.11.31 allows local users to cause a denial of service via unspecified vectors.
 - [Live-Hack-CVE/CVE-2007-5536](https://github.com/Live-Hack-CVE/CVE-2007-5536)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2007-5536">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2007-5536">
