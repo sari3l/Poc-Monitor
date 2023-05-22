@@ -383,6 +383,33 @@
 - [thehackingverse/CVE-2023-2594](https://github.com/thehackingverse/CVE-2023-2594)	<img alt="forks" src="https://img.shields.io/github/forks/thehackingverse/CVE-2023-2594">	<img alt="stars" src="https://img.shields.io/github/stars/thehackingverse/CVE-2023-2594">
 
 ---
+## CVE-2023-25690 (2023-03-07T16:15:00)
+> Some mod_proxy configurations on Apache HTTP Server versions 2.4.0 through 2.4.55 allow a HTTP Request Smuggling attack.
+
+
+
+
+Configurations are affected when mod_proxy is enabled along with some form of RewriteRule
+ or ProxyPassMatch in which a non-specific pattern matches
+ some portion of the user-supplied request-target (URL) data and is then
+ re-inserted into the proxied request-target using variable 
+substitution. For example, something like:
+
+
+
+
+RewriteEngine on
+RewriteRule "^/here/(.*)" "http://example.com:8080/elsewhere?$1"; [P]
+ProxyPassReverse /here/ http://example.com:8080/
+
+
+Request splitting/smuggling could result in bypass of access controls in the proxy server, proxying unintended URLs to existing origin servers, and cache poisoning. Users are recommended to update to at least version 2.4.56 of Apache HTTP Server.
+
+
+
+- [dhmosfunk/CVE-2023-25690-POC](https://github.com/dhmosfunk/CVE-2023-25690-POC)	<img alt="forks" src="https://img.shields.io/github/forks/dhmosfunk/CVE-2023-25690-POC">	<img alt="stars" src="https://img.shields.io/github/stars/dhmosfunk/CVE-2023-25690-POC">
+
+---
 ## CVE-2023-25610 ()
 > 
 - [uicres/CVE-2023-25610-PoC](https://github.com/uicres/CVE-2023-25610-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/uicres/CVE-2023-25610-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/uicres/CVE-2023-25610-PoC">
