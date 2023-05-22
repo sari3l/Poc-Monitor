@@ -64,8 +64,8 @@
 - [XC9409/CVE-2023-31634](https://github.com/XC9409/CVE-2023-31634)	<img alt="forks" src="https://img.shields.io/github/forks/XC9409/CVE-2023-31634">	<img alt="stars" src="https://img.shields.io/github/stars/XC9409/CVE-2023-31634">
 
 ---
-## CVE-2023-31584 ()
-> 
+## CVE-2023-31584 (2023-05-22T19:15:00)
+> GitHub repository cu/silicon commit a9ef36 was discovered to contain a reflected cross-site scripting (XSS) vulnerability via the User Input field.
 - [rootd4ddy/CVE-2023-31584](https://github.com/rootd4ddy/CVE-2023-31584)	<img alt="forks" src="https://img.shields.io/github/forks/rootd4ddy/CVE-2023-31584">	<img alt="stars" src="https://img.shields.io/github/stars/rootd4ddy/CVE-2023-31584">
 
 ---
