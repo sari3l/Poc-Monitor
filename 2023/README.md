@@ -59,8 +59,8 @@
 - [2019000102494/CVE-2023-31702](https://github.com/2019000102494/CVE-2023-31702)	<img alt="forks" src="https://img.shields.io/github/forks/2019000102494/CVE-2023-31702">	<img alt="stars" src="https://img.shields.io/github/stars/2019000102494/CVE-2023-31702">
 
 ---
-## CVE-2023-31664 ()
-> 
+## CVE-2023-31664 (2023-05-23T01:15:00)
+> A reflected cross-site scripting (XSS) vulnerability in /authenticationendpoint/login.do of WSO2 API Manager before 4.2.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the tenantDomain parameter.
 - [adilkhan7/CVE-2023-31664](https://github.com/adilkhan7/CVE-2023-31664)	<img alt="forks" src="https://img.shields.io/github/forks/adilkhan7/CVE-2023-31664">	<img alt="stars" src="https://img.shields.io/github/stars/adilkhan7/CVE-2023-31664">
 
 ---
@@ -150,8 +150,13 @@
 - [zPrototype/CVE-2023-29983](https://github.com/zPrototype/CVE-2023-29983)	<img alt="forks" src="https://img.shields.io/github/forks/zPrototype/CVE-2023-29983">	<img alt="stars" src="https://img.shields.io/github/stars/zPrototype/CVE-2023-29983">
 
 ---
-## CVE-2023-29919 ()
-> 
+## CVE-2023-29923 (2023-04-19T14:15:00)
+> PowerJob V4.3.1 is vulnerable to Insecure Permissions. via the list job interface.
+- [1820112015/CVE-2023-29923](https://github.com/1820112015/CVE-2023-29923)	<img alt="forks" src="https://img.shields.io/github/forks/1820112015/CVE-2023-29923">	<img alt="stars" src="https://img.shields.io/github/stars/1820112015/CVE-2023-29923">
+
+---
+## CVE-2023-29919 (2023-05-23T01:15:00)
+> SolarView Compact <= 6.0 is vulnerable to Insecure Permissions. Any file on the server can be read or modified because texteditor.php is not restricted.
 - [xiaosed/CVE-2023-29919](https://github.com/xiaosed/CVE-2023-29919)	<img alt="forks" src="https://img.shields.io/github/forks/xiaosed/CVE-2023-29919">	<img alt="stars" src="https://img.shields.io/github/stars/xiaosed/CVE-2023-29919">
 
 ---
