@@ -1569,6 +1569,7 @@
 ## CVE-2019-19492 (2019-12-02T02:15:00)
 > FreeSWITCH 1.6.10 through 1.10.1 has a default password in event_socket.conf.xml.
 - [Chocapikk/CVE-2019-19492](https://github.com/Chocapikk/CVE-2019-19492)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2019-19492">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2019-19492">
+- [tucommenceapousser/CVE-2019-19492](https://github.com/tucommenceapousser/CVE-2019-19492)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2019-19492">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2019-19492">
 
 ---
 ## CVE-2019-19221 (2019-11-21T23:15:00)
