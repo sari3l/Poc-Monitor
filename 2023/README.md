@@ -43,6 +43,11 @@
 - [jmrcsnchz/CVE-2023-32073](https://github.com/jmrcsnchz/CVE-2023-32073)	<img alt="forks" src="https://img.shields.io/github/forks/jmrcsnchz/CVE-2023-32073">	<img alt="stars" src="https://img.shields.io/github/stars/jmrcsnchz/CVE-2023-32073">
 
 ---
+## CVE-2023-31779 (2023-05-22T13:15:00)
+> Wekan v6.84 and earlier is vulnerable to Cross Site Scripting (XSS). An attacker with user privilege on kanban board can insert JavaScript code in in "Reaction to comment" feature.
+- [jet-pentest/CVE-2023-31779](https://github.com/jet-pentest/CVE-2023-31779)	<img alt="forks" src="https://img.shields.io/github/forks/jet-pentest/CVE-2023-31779">	<img alt="stars" src="https://img.shields.io/github/stars/jet-pentest/CVE-2023-31779">
+
+---
 ## CVE-2023-31726 ()
 > 
 - [J6451/CVE-2023-31726](https://github.com/J6451/CVE-2023-31726)	<img alt="forks" src="https://img.shields.io/github/forks/J6451/CVE-2023-31726">	<img alt="stars" src="https://img.shields.io/github/stars/J6451/CVE-2023-31726">
