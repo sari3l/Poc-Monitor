@@ -212,6 +212,11 @@
 - [hshivhare67/kernel_v4.1.15_CVE-2023-28772](https://github.com/hshivhare67/kernel_v4.1.15_CVE-2023-28772)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/kernel_v4.1.15_CVE-2023-28772">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/kernel_v4.1.15_CVE-2023-28772">
 
 ---
+## CVE-2023-28771 (2023-04-25T02:15:00)
+> Improper error message handling in Zyxel ZyWALL/USG series firmware versions 4.60 through 4.73, VPN series firmware versions 4.60 through 5.35, USG FLEX series firmware versions 4.60 through 5.35, and ATP series firmware versions 4.60 through 5.35, which could allow an unauthenticated attacker to execute some OS commands remotely by sending crafted packets to an affected device.
+- [BenHays142/CVE-2023-28771-PoC](https://github.com/BenHays142/CVE-2023-28771-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BenHays142/CVE-2023-28771-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BenHays142/CVE-2023-28771-PoC">
+
+---
 ## CVE-2023-28615 ()
 > 
 - [YSaxon/CVE-2023-28615](https://github.com/YSaxon/CVE-2023-28615)	<img alt="forks" src="https://img.shields.io/github/forks/YSaxon/CVE-2023-28615">	<img alt="stars" src="https://img.shields.io/github/stars/YSaxon/CVE-2023-28615">
