@@ -29,6 +29,7 @@
 - [little44n1o/cve-2023-32243](https://github.com/little44n1o/cve-2023-32243)	<img alt="forks" src="https://img.shields.io/github/forks/little44n1o/cve-2023-32243">	<img alt="stars" src="https://img.shields.io/github/stars/little44n1o/cve-2023-32243">
 - [gbrsh/CVE-2023-32243](https://github.com/gbrsh/CVE-2023-32243)	<img alt="forks" src="https://img.shields.io/github/forks/gbrsh/CVE-2023-32243">	<img alt="stars" src="https://img.shields.io/github/stars/gbrsh/CVE-2023-32243">
 - [RandomRobbieBF/CVE-2023-32243](https://github.com/RandomRobbieBF/CVE-2023-32243)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-32243">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-32243">
+- [domainhigh/Mass-CVE-2023-32243](https://github.com/domainhigh/Mass-CVE-2023-32243)	<img alt="forks" src="https://img.shields.io/github/forks/domainhigh/Mass-CVE-2023-32243">	<img alt="stars" src="https://img.shields.io/github/stars/domainhigh/Mass-CVE-2023-32243">
 
 ---
 ## CVE-2023-32233 (2023-05-08T20:15:00)
