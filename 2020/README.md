@@ -4786,6 +4786,17 @@
 - [Live-Hack-CVE/CVE-2020-0093](https://github.com/Live-Hack-CVE/CVE-2020-0093)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-0093">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-0093">
 
 ---
+## CVE-2020-0022 (2020-02-13T15:15:00)
+> In reassemble_and_dispatch of packet_fragmenter.cc, there is possible out of bounds write due to an incorrect bounds calculation. This could lead to remote code execution over Bluetooth with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-8.0 Android-8.1 Android-9 Android-10Android ID: A-143894715
+- [k3vinlusec/Bluefrag_CVE-2020-0022](https://github.com/k3vinlusec/Bluefrag_CVE-2020-0022)	<img alt="forks" src="https://img.shields.io/github/forks/k3vinlusec/Bluefrag_CVE-2020-0022">	<img alt="stars" src="https://img.shields.io/github/stars/k3vinlusec/Bluefrag_CVE-2020-0022">
+- [devdanqtuan/poc-for-cve-2020-0022](https://github.com/devdanqtuan/poc-for-cve-2020-0022)	<img alt="forks" src="https://img.shields.io/github/forks/devdanqtuan/poc-for-cve-2020-0022">	<img alt="stars" src="https://img.shields.io/github/stars/devdanqtuan/poc-for-cve-2020-0022">
+- [Polo35/CVE-2020-0022](https://github.com/Polo35/CVE-2020-0022)	<img alt="forks" src="https://img.shields.io/github/forks/Polo35/CVE-2020-0022">	<img alt="stars" src="https://img.shields.io/github/stars/Polo35/CVE-2020-0022">
+- [lsw29475/CVE-2020-0022](https://github.com/lsw29475/CVE-2020-0022)	<img alt="forks" src="https://img.shields.io/github/forks/lsw29475/CVE-2020-0022">	<img alt="stars" src="https://img.shields.io/github/stars/lsw29475/CVE-2020-0022">
+- [5k1l/cve-2020-0022](https://github.com/5k1l/cve-2020-0022)	<img alt="forks" src="https://img.shields.io/github/forks/5k1l/cve-2020-0022">	<img alt="stars" src="https://img.shields.io/github/stars/5k1l/cve-2020-0022">
+- [leommxj/cve-2020-0022](https://github.com/leommxj/cve-2020-0022)	<img alt="forks" src="https://img.shields.io/github/forks/leommxj/cve-2020-0022">	<img alt="stars" src="https://img.shields.io/github/stars/leommxj/cve-2020-0022">
+- [marcinguy/CVE-2020-0022](https://github.com/marcinguy/CVE-2020-0022)	<img alt="forks" src="https://img.shields.io/github/forks/marcinguy/CVE-2020-0022">	<img alt="stars" src="https://img.shields.io/github/stars/marcinguy/CVE-2020-0022">
+
+---
 ## CVE-2020-0009 (2020-01-08T16:15:00)
 > In calc_vm_may_flags of ashmem.c, there is a possible arbitrary write to shared memory due to a permissions bypass. This could lead to local escalation of privilege by corrupting memory shared between processes, with no additional execution privileges needed. User interaction is not needed for exploitation. Product: Android Versions: Android kernel Android ID: A-142938932
 - [Live-Hack-CVE/CVE-2020-0009](https://github.com/Live-Hack-CVE/CVE-2020-0009)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-0009">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-0009">
