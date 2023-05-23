@@ -1566,6 +1566,11 @@
 - [Live-Hack-CVE/CVE-2019-19725](https://github.com/Live-Hack-CVE/CVE-2019-19725)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19725">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19725">
 
 ---
+## CVE-2019-19492 (2019-12-02T02:15:00)
+> FreeSWITCH 1.6.10 through 1.10.1 has a default password in event_socket.conf.xml.
+- [Chocapikk/CVE-2019-19492](https://github.com/Chocapikk/CVE-2019-19492)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2019-19492">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2019-19492">
+
+---
 ## CVE-2019-19221 (2019-11-21T23:15:00)
 > In Libarchive 3.4.0, archive_wstring_append_from_mbs in archive_string.c has an out-of-bounds read because of an incorrect mbrtowc or mbtowc call. For example, bsdtar crashes via a crafted archive.
 - [Live-Hack-CVE/CVE-2019-19221](https://github.com/Live-Hack-CVE/CVE-2019-19221)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19221">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19221">
