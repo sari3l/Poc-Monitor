@@ -30,6 +30,8 @@
 - [gbrsh/CVE-2023-32243](https://github.com/gbrsh/CVE-2023-32243)	<img alt="forks" src="https://img.shields.io/github/forks/gbrsh/CVE-2023-32243">	<img alt="stars" src="https://img.shields.io/github/stars/gbrsh/CVE-2023-32243">
 - [RandomRobbieBF/CVE-2023-32243](https://github.com/RandomRobbieBF/CVE-2023-32243)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-32243">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-32243">
 - [domainhigh/Mass-CVE-2023-32243](https://github.com/domainhigh/Mass-CVE-2023-32243)	<img alt="forks" src="https://img.shields.io/github/forks/domainhigh/Mass-CVE-2023-32243">	<img alt="stars" src="https://img.shields.io/github/stars/domainhigh/Mass-CVE-2023-32243">
+- [manavvedawala/CVE-2023-32243-proof-of-concept](https://github.com/manavvedawala/CVE-2023-32243-proof-of-concept)	<img alt="forks" src="https://img.shields.io/github/forks/manavvedawala/CVE-2023-32243-proof-of-concept">	<img alt="stars" src="https://img.shields.io/github/stars/manavvedawala/CVE-2023-32243-proof-of-concept">
+- [manavvedawala/CVE-2023-32243-POC](https://github.com/manavvedawala/CVE-2023-32243-POC)	<img alt="forks" src="https://img.shields.io/github/forks/manavvedawala/CVE-2023-32243-POC">	<img alt="stars" src="https://img.shields.io/github/stars/manavvedawala/CVE-2023-32243-POC">
 
 ---
 ## CVE-2023-32233 (2023-05-08T20:15:00)
