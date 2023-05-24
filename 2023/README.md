@@ -80,6 +80,11 @@
 - [XC9409/CVE-2023-31634](https://github.com/XC9409/CVE-2023-31634)	<img alt="forks" src="https://img.shields.io/github/forks/XC9409/CVE-2023-31634">	<img alt="stars" src="https://img.shields.io/github/stars/XC9409/CVE-2023-31634">
 
 ---
+## CVE-2023-31595 ()
+> 
+- [Yozarseef95/CVE-2023-31595](https://github.com/Yozarseef95/CVE-2023-31595)	<img alt="forks" src="https://img.shields.io/github/forks/Yozarseef95/CVE-2023-31595">	<img alt="stars" src="https://img.shields.io/github/stars/Yozarseef95/CVE-2023-31595">
+
+---
 ## CVE-2023-31594 ()
 > 
 - [Yozarseef95/CVE-2023-31594](https://github.com/Yozarseef95/CVE-2023-31594)	<img alt="forks" src="https://img.shields.io/github/forks/Yozarseef95/CVE-2023-31594">	<img alt="stars" src="https://img.shields.io/github/stars/Yozarseef95/CVE-2023-31594">
