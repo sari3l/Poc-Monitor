@@ -253,6 +253,11 @@
 - [YSaxon/CVE-2023-28615](https://github.com/YSaxon/CVE-2023-28615)	<img alt="forks" src="https://img.shields.io/github/forks/YSaxon/CVE-2023-28615">	<img alt="stars" src="https://img.shields.io/github/stars/YSaxon/CVE-2023-28615">
 
 ---
+## CVE-2023-2859 (2023-05-24T08:15:00)
+> Code Injection in GitHub repository nilsteampassnet/teampass prior to 3.0.9.
+- [mnqazi/CVE-2023-2859](https://github.com/mnqazi/CVE-2023-2859)	<img alt="forks" src="https://img.shields.io/github/forks/mnqazi/CVE-2023-2859">	<img alt="stars" src="https://img.shields.io/github/stars/mnqazi/CVE-2023-2859">
+
+---
 ## CVE-2023-28450 (2023-03-15T21:15:00)
 > An issue was discovered in Dnsmasq before 2.90. The default maximum EDNS.0 UDP packet size was set to 4096 but should be 1232 because of DNS Flag Day 2020.
 - [Satheesh575555/linux-4.19.72_CVE-2023-28450](https://github.com/Satheesh575555/linux-4.19.72_CVE-2023-28450)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/linux-4.19.72_CVE-2023-28450">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/linux-4.19.72_CVE-2023-28450">
@@ -419,6 +424,11 @@
 - [thehackingverse/CVE-2023-2594](https://github.com/thehackingverse/CVE-2023-2594)	<img alt="forks" src="https://img.shields.io/github/forks/thehackingverse/CVE-2023-2594">	<img alt="stars" src="https://img.shields.io/github/stars/thehackingverse/CVE-2023-2594">
 
 ---
+## CVE-2023-2591 (2023-05-09T10:15:00)
+> Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') in GitHub repository nilsteampassnet/teampass prior to 3.0.7.
+- [mnqazi/CVE-2023-2591](https://github.com/mnqazi/CVE-2023-2591)	<img alt="forks" src="https://img.shields.io/github/forks/mnqazi/CVE-2023-2591">	<img alt="stars" src="https://img.shields.io/github/stars/mnqazi/CVE-2023-2591">
+
+---
 ## CVE-2023-25690 (2023-03-07T16:15:00)
 > Some mod_proxy configurations on Apache HTTP Server versions 2.4.0 through 2.4.55 allow a HTTP Request Smuggling attack.
 
@@ -488,6 +498,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 ## CVE-2023-25194 (2023-02-07T20:15:00)
 > A possible security vulnerability has been identified in Apache Kafka Connect. This requires access to a Kafka Connect worker, and the ability to create/modify connectors on it with an arbitrary Kafka client SASL JAAS config and a SASL-based security protocol, which has been possible on Kafka Connect clusters since Apache Kafka 2.3.0. When configuring the connector via the Kafka Connect REST API, an authenticated operator can set the `sasl.jaas.config` property for any of the connector's Kafka clients to "com.sun.security.auth.module.JndiLoginModule", which can be done via the `producer.override.sasl.jaas.config`, `consumer.override.sasl.jaas.config`, or `admin.override.sasl.jaas.config` properties. This will allow the server to connect to the attacker's LDAP server and deserialize the LDAP response, which the attacker can use to execute java deserialization gadget chains on the Kafka connect server. Attacker can cause unrestricted deserialization of untrusted data (or) RCE vulnerability when there are gadgets in the classpath. Since Apache Kafka 3.0.0, users are allowed to specify these properties in connector configurations for Kafka Connect clusters running with out-of-the-box configurations. Before Apache Kafka 3.0.0, users may not specify these properties unless the Kafka Connect cluster has been reconfigured with a connector client override policy that permits them. Since Apache Kafka 3.4.0, we have added a system property ("-Dorg.apache.kafka.disallowed.login.modules") to disable the problematic login modules usage in SASL JAAS configuration. Also by default "com.sun.security.auth.module.JndiLoginModule" is disabled in Apache Kafka 3.4.0. We advise the Kafka Connect users to validate connector configurations and only allow trusted JNDI configurations. Also examine connector dependencies for vulnerable versions and either upgrade their connectors, upgrading that specific dependency, or removing the connectors as options for remediation. Finally, in addition to leveraging the "org.apache.kafka.disallowed.login.modules" system property, Kafka Connect users can also implement their own connector client config override policy, which can be used to control which Kafka client properties can be overridden directly in a connector config and which cannot.
 - [ohnonoyesyes/CVE-2023-25194](https://github.com/ohnonoyesyes/CVE-2023-25194)	<img alt="forks" src="https://img.shields.io/github/forks/ohnonoyesyes/CVE-2023-25194">	<img alt="stars" src="https://img.shields.io/github/stars/ohnonoyesyes/CVE-2023-25194">
+
+---
+## CVE-2023-2516 (2023-05-05T19:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository nilsteampassnet/teampass prior to 3.0.7.
+- [mnqazi/CVE-2023-2516](https://github.com/mnqazi/CVE-2023-2516)	<img alt="forks" src="https://img.shields.io/github/forks/mnqazi/CVE-2023-2516">	<img alt="stars" src="https://img.shields.io/github/stars/mnqazi/CVE-2023-2516">
 
 ---
 ## CVE-2023-25136 (2023-02-03T06:15:00)
