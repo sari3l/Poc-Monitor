@@ -52,6 +52,11 @@
 - [jet-pentest/CVE-2023-31779](https://github.com/jet-pentest/CVE-2023-31779)	<img alt="forks" src="https://img.shields.io/github/forks/jet-pentest/CVE-2023-31779">	<img alt="stars" src="https://img.shields.io/github/stars/jet-pentest/CVE-2023-31779">
 
 ---
+## CVE-2023-31747 (2023-05-23T23:15:00)
+> Wondershare Filmora 12 (Build 12.2.1.2088) was discovered to contain an unquoted service path vulnerability via the component NativePushService. This vulnerability allows attackers to launch processes with elevated privileges.
+- [msd0pe-1/CVE-2023-31747_filmora-unquoted](https://github.com/msd0pe-1/CVE-2023-31747_filmora-unquoted)	<img alt="forks" src="https://img.shields.io/github/forks/msd0pe-1/CVE-2023-31747_filmora-unquoted">	<img alt="stars" src="https://img.shields.io/github/stars/msd0pe-1/CVE-2023-31747_filmora-unquoted">
+
+---
 ## CVE-2023-31726 (2023-05-23T22:15:00)
 > AList 3.15.1 is vulnerable to Incorrect Access Control, which can be exploited by attackers to obtain sensitive information.
 - [J6451/CVE-2023-31726](https://github.com/J6451/CVE-2023-31726)	<img alt="forks" src="https://img.shields.io/github/forks/J6451/CVE-2023-31726">	<img alt="stars" src="https://img.shields.io/github/stars/J6451/CVE-2023-31726">
