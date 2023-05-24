@@ -52,8 +52,8 @@
 - [jet-pentest/CVE-2023-31779](https://github.com/jet-pentest/CVE-2023-31779)	<img alt="forks" src="https://img.shields.io/github/forks/jet-pentest/CVE-2023-31779">	<img alt="stars" src="https://img.shields.io/github/stars/jet-pentest/CVE-2023-31779">
 
 ---
-## CVE-2023-31726 ()
-> 
+## CVE-2023-31726 (2023-05-23T22:15:00)
+> AList 3.15.1 is vulnerable to Incorrect Access Control, which can be exploited by attackers to obtain sensitive information.
 - [J6451/CVE-2023-31726](https://github.com/J6451/CVE-2023-31726)	<img alt="forks" src="https://img.shields.io/github/forks/J6451/CVE-2023-31726">	<img alt="stars" src="https://img.shields.io/github/stars/J6451/CVE-2023-31726">
 - [J6451/CVE-2023-31726](https://github.com/J6451/CVE-2023-31726)	<img alt="forks" src="https://img.shields.io/github/forks/J6451/CVE-2023-31726">	<img alt="stars" src="https://img.shields.io/github/stars/J6451/CVE-2023-31726">
 - [J6451/CVE-2023-31726](https://github.com/J6451/CVE-2023-31726)	<img alt="forks" src="https://img.shields.io/github/forks/J6451/CVE-2023-31726">	<img alt="stars" src="https://img.shields.io/github/stars/J6451/CVE-2023-31726">
