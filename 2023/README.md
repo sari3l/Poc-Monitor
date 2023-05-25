@@ -16,6 +16,11 @@
 - [Trinadh465/linux_4.19.72_CVE-2023-42896](https://github.com/Trinadh465/linux_4.19.72_CVE-2023-42896)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux_4.19.72_CVE-2023-42896">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux_4.19.72_CVE-2023-42896">
 
 ---
+## CVE-2023-33829 (2023-05-24T21:15:00)
+> A stored cross-site scripting (XSS) vulnerability in Cloudogu GmbH SCM Manager v1.2 to v1.60 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Description text field.
+- [n3gox/CVE-2023-33829-Stored-XSS-on-SCM-Manager-1.60](https://github.com/n3gox/CVE-2023-33829-Stored-XSS-on-SCM-Manager-1.60)	<img alt="forks" src="https://img.shields.io/github/forks/n3gox/CVE-2023-33829-Stored-XSS-on-SCM-Manager-1.60">	<img alt="stars" src="https://img.shields.io/github/stars/n3gox/CVE-2023-33829-Stored-XSS-on-SCM-Manager-1.60">
+
+---
 ## CVE-2023-32784 (2023-05-15T06:15:00)
 > In KeePass 2.x before 2.54, it is possible to recover the cleartext master password from a memory dump, even when a workspace is locked or no longer running. The memory dump can be a KeePass process dump, swap file (pagefile.sys), hibernation file (hiberfil.sys), or RAM dump of the entire system. The first character cannot be recovered. In 2.54, there is different API usage and/or random string insertion for mitigation.
 - [CTM1/CVE-2023-32784-keepass-linux](https://github.com/CTM1/CVE-2023-32784-keepass-linux)	<img alt="forks" src="https://img.shields.io/github/forks/CTM1/CVE-2023-32784-keepass-linux">	<img alt="stars" src="https://img.shields.io/github/stars/CTM1/CVE-2023-32784-keepass-linux">
