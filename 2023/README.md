@@ -180,7 +180,7 @@
 ---
 ## CVE-2023-30145 ()
 > 
-- [paragbagul111/CVE-2023-30145.](https://github.com/paragbagul111/CVE-2023-30145.)	<img alt="forks" src="https://img.shields.io/github/forks/paragbagul111/CVE-2023-30145.">	<img alt="stars" src="https://img.shields.io/github/stars/paragbagul111/CVE-2023-30145.">
+- [paragbagul111/CVE-2023-30145](https://github.com/paragbagul111/CVE-2023-30145)	<img alt="forks" src="https://img.shields.io/github/forks/paragbagul111/CVE-2023-30145">	<img alt="stars" src="https://img.shields.io/github/stars/paragbagul111/CVE-2023-30145">
 
 ---
 ## CVE-2023-30092 (2023-05-08T15:15:00)
