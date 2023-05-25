@@ -508,6 +508,7 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 ## CVE-2023-25292 (2023-04-27T01:15:00)
 > Reflected Cross Site Scripting (XSS) in Intermesh BV Group-Office version 6.6.145, allows attackers to gain escalated privileges and gain sensitive information via the GO_LANGUAGE cookie.
 - [brainkok/CVE-2023-25292](https://github.com/brainkok/CVE-2023-25292)	<img alt="forks" src="https://img.shields.io/github/forks/brainkok/CVE-2023-25292">	<img alt="stars" src="https://img.shields.io/github/stars/brainkok/CVE-2023-25292">
+- [tucommenceapousser/CVE-2023-25292](https://github.com/tucommenceapousser/CVE-2023-25292)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2023-25292">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2023-25292">
 
 ---
 ## CVE-2023-25263 (2023-03-27T21:15:00)
