@@ -192,6 +192,11 @@
 - [zPrototype/CVE-2023-29983](https://github.com/zPrototype/CVE-2023-29983)	<img alt="forks" src="https://img.shields.io/github/forks/zPrototype/CVE-2023-29983">	<img alt="stars" src="https://img.shields.io/github/stars/zPrototype/CVE-2023-29983">
 
 ---
+## CVE-2023-29929 ()
+> 
+- [YSaxon/CVE-2023-29929](https://github.com/YSaxon/CVE-2023-29929)	<img alt="forks" src="https://img.shields.io/github/forks/YSaxon/CVE-2023-29929">	<img alt="stars" src="https://img.shields.io/github/stars/YSaxon/CVE-2023-29929">
+
+---
 ## CVE-2023-29923 (2023-04-19T14:15:00)
 > PowerJob V4.3.1 is vulnerable to Insecure Permissions. via the list job interface.
 - [1820112015/CVE-2023-29923](https://github.com/1820112015/CVE-2023-29923)	<img alt="forks" src="https://img.shields.io/github/forks/1820112015/CVE-2023-29923">	<img alt="stars" src="https://img.shields.io/github/stars/1820112015/CVE-2023-29923">
