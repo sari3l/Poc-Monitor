@@ -4647,6 +4647,7 @@
 - [OldDream666/cve-2020-0796](https://github.com/OldDream666/cve-2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/OldDream666/cve-2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/OldDream666/cve-2020-0796">
 - [heeloo123/CVE-2020-0796](https://github.com/heeloo123/CVE-2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/heeloo123/CVE-2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/heeloo123/CVE-2020-0796">
 - [T13nn3s/CVE-2020-0796](https://github.com/T13nn3s/CVE-2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/T13nn3s/CVE-2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/T13nn3s/CVE-2020-0796">
+- [Ajomix/CVE-2020-0796-VCS](https://github.com/Ajomix/CVE-2020-0796-VCS)	<img alt="forks" src="https://img.shields.io/github/forks/Ajomix/CVE-2020-0796-VCS">	<img alt="stars" src="https://img.shields.io/github/stars/Ajomix/CVE-2020-0796-VCS">
 
 ---
 ## CVE-2020-0688 (2020-02-11T22:15:00)
