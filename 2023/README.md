@@ -91,8 +91,8 @@
 - [Yozarseef95/CVE-2023-31595](https://github.com/Yozarseef95/CVE-2023-31595)	<img alt="forks" src="https://img.shields.io/github/forks/Yozarseef95/CVE-2023-31595">	<img alt="stars" src="https://img.shields.io/github/stars/Yozarseef95/CVE-2023-31595">
 
 ---
-## CVE-2023-31594 ()
-> 
+## CVE-2023-31594 (2023-05-25T01:15:00)
+> IC Realtime ICIP-P2012T 2.420 is vulnerable to Incorrect Access Control via an exposed HTTP channel using VLC network.
 - [Yozarseef95/CVE-2023-31594](https://github.com/Yozarseef95/CVE-2023-31594)	<img alt="forks" src="https://img.shields.io/github/forks/Yozarseef95/CVE-2023-31594">	<img alt="stars" src="https://img.shields.io/github/stars/Yozarseef95/CVE-2023-31594">
 
 ---
