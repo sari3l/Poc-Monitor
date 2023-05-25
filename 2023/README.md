@@ -309,6 +309,11 @@
 - [superzerosec/CVE-2023-28343](https://github.com/superzerosec/CVE-2023-28343)	<img alt="forks" src="https://img.shields.io/github/forks/superzerosec/CVE-2023-28343">	<img alt="stars" src="https://img.shields.io/github/stars/superzerosec/CVE-2023-28343">
 
 ---
+## CVE-2023-2825 ()
+> 
+- [Occamsec/CVE-2023-2825](https://github.com/Occamsec/CVE-2023-2825)	<img alt="forks" src="https://img.shields.io/github/forks/Occamsec/CVE-2023-2825">	<img alt="stars" src="https://img.shields.io/github/stars/Occamsec/CVE-2023-2825">
+
+---
 ## CVE-2023-28231 (2023-04-11T21:15:00)
 > DHCP Server Service Remote Code Execution Vulnerability
 - [glavstroy/CVE-2023-28231](https://github.com/glavstroy/CVE-2023-28231)	<img alt="forks" src="https://img.shields.io/github/forks/glavstroy/CVE-2023-28231">	<img alt="stars" src="https://img.shields.io/github/stars/glavstroy/CVE-2023-28231">
