@@ -167,6 +167,11 @@
 - [ahrixia/CVE-2023-30256](https://github.com/ahrixia/CVE-2023-30256)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-30256">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-30256">
 
 ---
+## CVE-2023-30212 (2023-04-26T17:15:00)
+> OURPHP <= 7.2.0 is vulnerale to Cross Site Scripting (XSS) via /client/manage/ourphp_out.php.
+- [kuttappu123/CVE-2023-30212-LAB](https://github.com/kuttappu123/CVE-2023-30212-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/kuttappu123/CVE-2023-30212-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/kuttappu123/CVE-2023-30212-LAB">
+
+---
 ## CVE-2023-30185 (2023-05-08T01:15:00)
 > CRMEB v4.4 to v4.6 was discovered to contain an arbitrary file upload vulnerability via the component \attachment\SystemAttachmentServices.php.
 - [c7w1n/CVE-2023-30185](https://github.com/c7w1n/CVE-2023-30185)	<img alt="forks" src="https://img.shields.io/github/forks/c7w1n/CVE-2023-30185">	<img alt="stars" src="https://img.shields.io/github/stars/c7w1n/CVE-2023-30185">
