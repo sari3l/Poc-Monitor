@@ -1856,6 +1856,11 @@
 - [Live-Hack-CVE/CVE-2019-16770](https://github.com/Live-Hack-CVE/CVE-2019-16770)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16770">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16770">
 
 ---
+## CVE-2019-16759 (2019-09-24T22:15:00)
+> vBulletin 5.x through 5.5.4 allows remote command execution via the widgetConfig[code] parameter in an ajax/render/widget_php routestring request.
+- [M0sterHxck/CVE-2019-16759-Vbulletin-rce-exploit](https://github.com/M0sterHxck/CVE-2019-16759-Vbulletin-rce-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/M0sterHxck/CVE-2019-16759-Vbulletin-rce-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/M0sterHxck/CVE-2019-16759-Vbulletin-rce-exploit">
+
+---
 ## CVE-2019-16724 (2019-09-24T21:15:00)
 > File Sharing Wizard 1.5.0 allows a remote attacker to obtain arbitrary code execution by exploiting a Structured Exception Handler (SEH) based buffer overflow in an HTTP POST parameter, a similar issue to CVE-2010-2330 and CVE-2010-2331.
 - [nanabingies/CVE-2019-16724](https://github.com/nanabingies/CVE-2019-16724)	<img alt="forks" src="https://img.shields.io/github/forks/nanabingies/CVE-2019-16724">	<img alt="stars" src="https://img.shields.io/github/stars/nanabingies/CVE-2019-16724">
