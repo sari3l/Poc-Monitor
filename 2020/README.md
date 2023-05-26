@@ -4650,6 +4650,7 @@
 - [Ajomix/CVE-2020-0796-VCS](https://github.com/Ajomix/CVE-2020-0796-VCS)	<img alt="forks" src="https://img.shields.io/github/forks/Ajomix/CVE-2020-0796-VCS">	<img alt="stars" src="https://img.shields.io/github/stars/Ajomix/CVE-2020-0796-VCS">
 - [Ajomix/CVE-2020-0796-BSoD](https://github.com/Ajomix/CVE-2020-0796-BSoD)	<img alt="forks" src="https://img.shields.io/github/forks/Ajomix/CVE-2020-0796-BSoD">	<img alt="stars" src="https://img.shields.io/github/stars/Ajomix/CVE-2020-0796-BSoD">
 - [hheeyywweellccoommee/CVE-2020-0796-VCS-mzecv](https://github.com/hheeyywweellccoommee/CVE-2020-0796-VCS-mzecv)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2020-0796-VCS-mzecv">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2020-0796-VCS-mzecv">
+- [Ajomix/CVE-2020-0796-POC](https://github.com/Ajomix/CVE-2020-0796-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Ajomix/CVE-2020-0796-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Ajomix/CVE-2020-0796-POC">
 
 ---
 ## CVE-2020-0688 (2020-02-11T22:15:00)
