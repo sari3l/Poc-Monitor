@@ -974,8 +974,8 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [gretchenfrage/CVE-2023-2033-analysis](https://github.com/gretchenfrage/CVE-2023-2033-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/gretchenfrage/CVE-2023-2033-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/gretchenfrage/CVE-2023-2033-analysis">
 
 ---
-## CVE-2023-2002 ()
-> 
+## CVE-2023-2002 (2023-05-26T17:15:00)
+> A vulnerability was found in the HCI sockets implementation due to a missing capability check in net/bluetooth/hci_sock.c in the Linux Kernel. This flaw allows an attacker to unauthorized execution of management commands, compromising the confidentiality, integrity, and availability of Bluetooth communication.
 - [lrh2000/CVE-2023-2002](https://github.com/lrh2000/CVE-2023-2002)	<img alt="forks" src="https://img.shields.io/github/forks/lrh2000/CVE-2023-2002">	<img alt="stars" src="https://img.shields.io/github/stars/lrh2000/CVE-2023-2002">
 
 ---
