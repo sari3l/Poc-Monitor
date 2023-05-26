@@ -1859,6 +1859,18 @@
 ## CVE-2019-16759 (2019-09-24T22:15:00)
 > vBulletin 5.x through 5.5.4 allows remote command execution via the widgetConfig[code] parameter in an ajax/render/widget_php routestring request.
 - [M0sterHxck/CVE-2019-16759-Vbulletin-rce-exploit](https://github.com/M0sterHxck/CVE-2019-16759-Vbulletin-rce-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/M0sterHxck/CVE-2019-16759-Vbulletin-rce-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/M0sterHxck/CVE-2019-16759-Vbulletin-rce-exploit">
+- [ludy-dev/vBulletin_Routestring-RCE](https://github.com/ludy-dev/vBulletin_Routestring-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/ludy-dev/vBulletin_Routestring-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/ludy-dev/vBulletin_Routestring-RCE">
+- [andripwn/pwn-vbulletin](https://github.com/andripwn/pwn-vbulletin)	<img alt="forks" src="https://img.shields.io/github/forks/andripwn/pwn-vbulletin">	<img alt="stars" src="https://img.shields.io/github/stars/andripwn/pwn-vbulletin">
+- [fxp0-4tx/CVE-2019-16759](https://github.com/fxp0-4tx/CVE-2019-16759)	<img alt="forks" src="https://img.shields.io/github/forks/fxp0-4tx/CVE-2019-16759">	<img alt="stars" src="https://img.shields.io/github/stars/fxp0-4tx/CVE-2019-16759">
+- [nako48/CVE-2019-16759](https://github.com/nako48/CVE-2019-16759)	<img alt="forks" src="https://img.shields.io/github/forks/nako48/CVE-2019-16759">	<img alt="stars" src="https://img.shields.io/github/stars/nako48/CVE-2019-16759">
+- [sunian19/CVE-2019-16759](https://github.com/sunian19/CVE-2019-16759)	<img alt="forks" src="https://img.shields.io/github/forks/sunian19/CVE-2019-16759">	<img alt="stars" src="https://img.shields.io/github/stars/sunian19/CVE-2019-16759">
+- [mas1337/CVE-2019-16759](https://github.com/mas1337/CVE-2019-16759)	<img alt="forks" src="https://img.shields.io/github/forks/mas1337/CVE-2019-16759">	<img alt="stars" src="https://img.shields.io/github/stars/mas1337/CVE-2019-16759">
+- [polar1s7/CVE-2019-16759-bypass](https://github.com/polar1s7/CVE-2019-16759-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/polar1s7/CVE-2019-16759-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/polar1s7/CVE-2019-16759-bypass">
+- [theLSA/vbulletin5-rce](https://github.com/theLSA/vbulletin5-rce)	<img alt="forks" src="https://img.shields.io/github/forks/theLSA/vbulletin5-rce">	<img alt="stars" src="https://img.shields.io/github/stars/theLSA/vbulletin5-rce">
+- [psychoxploit/vbull](https://github.com/psychoxploit/vbull)	<img alt="forks" src="https://img.shields.io/github/forks/psychoxploit/vbull">	<img alt="stars" src="https://img.shields.io/github/stars/psychoxploit/vbull">
+- [FarjaalAhmad/CVE-2019-16759](https://github.com/FarjaalAhmad/CVE-2019-16759)	<img alt="forks" src="https://img.shields.io/github/forks/FarjaalAhmad/CVE-2019-16759">	<img alt="stars" src="https://img.shields.io/github/stars/FarjaalAhmad/CVE-2019-16759">
+- [jas502n/CVE-2019-16759](https://github.com/jas502n/CVE-2019-16759)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2019-16759">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2019-16759">
+- [r00tpgp/http-vuln-CVE-2019-16759](https://github.com/r00tpgp/http-vuln-CVE-2019-16759)	<img alt="forks" src="https://img.shields.io/github/forks/r00tpgp/http-vuln-CVE-2019-16759">	<img alt="stars" src="https://img.shields.io/github/stars/r00tpgp/http-vuln-CVE-2019-16759">
 
 ---
 ## CVE-2019-16724 (2019-09-24T21:15:00)
