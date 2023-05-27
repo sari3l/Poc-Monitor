@@ -1420,6 +1420,11 @@
 - [Live-Hack-CVE/CVE-2019-2481](https://github.com/Live-Hack-CVE/CVE-2019-2481)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-2481">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-2481">
 
 ---
+## CVE-2019-2215 (2019-10-11T19:15:00)
+> A use-after-free in binder.c allows an elevation of privilege from an application to the Linux Kernel. No user interaction is required to exploit this vulnerability, however exploitation does require either the installation of a malicious local application or a separate vulnerability in a network facing application.Product: AndroidAndroid ID: A-141720095
+- [elbiazo/CVE-2019-2215](https://github.com/elbiazo/CVE-2019-2215)	<img alt="forks" src="https://img.shields.io/github/forks/elbiazo/CVE-2019-2215">	<img alt="stars" src="https://img.shields.io/github/stars/elbiazo/CVE-2019-2215">
+
+---
 ## CVE-2019-20892 (2020-06-25T10:15:00)
 > net-snmp before 5.8.1.pre1 has a double free in usm_free_usmStateReference in snmplib/snmpusm.c via an SNMPv3 GetBulk request. NOTE: this affects net-snmp packages shipped to end users by multiple Linux distributions, but might not affect an upstream release.
 - [Live-Hack-CVE/CVE-2019-20892](https://github.com/Live-Hack-CVE/CVE-2019-20892)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20892">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20892">
