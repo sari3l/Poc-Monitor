@@ -411,6 +411,7 @@
 - [adhikara13/CVE-2023-27350](https://github.com/adhikara13/CVE-2023-27350)	<img alt="forks" src="https://img.shields.io/github/forks/adhikara13/CVE-2023-27350">	<img alt="stars" src="https://img.shields.io/github/stars/adhikara13/CVE-2023-27350">
 - [darthvander20/whatsapp-zero-day-exploit](https://github.com/darthvander20/whatsapp-zero-day-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/darthvander20/whatsapp-zero-day-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/darthvander20/whatsapp-zero-day-exploit">
 - [darthvander20/discord-zero-day-exploit](https://github.com/darthvander20/discord-zero-day-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/darthvander20/discord-zero-day-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/darthvander20/discord-zero-day-exploit">
+- [Pari-Malam/CVE-2023-27350](https://github.com/Pari-Malam/CVE-2023-27350)	<img alt="forks" src="https://img.shields.io/github/forks/Pari-Malam/CVE-2023-27350">	<img alt="stars" src="https://img.shields.io/github/stars/Pari-Malam/CVE-2023-27350">
 
 ---
 ## CVE-2023-27326 ()
