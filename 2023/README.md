@@ -189,6 +189,7 @@
 - [libasmon/Exploite-CVE-2023-30212-Vulnerability](https://github.com/libasmon/Exploite-CVE-2023-30212-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/libasmon/Exploite-CVE-2023-30212-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/libasmon/Exploite-CVE-2023-30212-Vulnerability">
 - [libas7994/Exploit-the-CVE-2023-30212-vulnerability](https://github.com/libas7994/Exploit-the-CVE-2023-30212-vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/libas7994/Exploit-the-CVE-2023-30212-vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/libas7994/Exploit-the-CVE-2023-30212-vulnerability">
 - [libasv/Exploite-CVE-2023-30212-vulnerability](https://github.com/libasv/Exploite-CVE-2023-30212-vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/libasv/Exploite-CVE-2023-30212-vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/libasv/Exploite-CVE-2023-30212-vulnerability">
+- [kai-iszz/CVE-2023-30212](https://github.com/kai-iszz/CVE-2023-30212)	<img alt="forks" src="https://img.shields.io/github/forks/kai-iszz/CVE-2023-30212">	<img alt="stars" src="https://img.shields.io/github/stars/kai-iszz/CVE-2023-30212">
 
 ---
 ## CVE-2023-30185 (2023-05-08T01:15:00)
