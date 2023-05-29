@@ -5396,6 +5396,11 @@
 - [Zoo1sondv/CVE-2021-3129](https://github.com/Zoo1sondv/CVE-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/Zoo1sondv/CVE-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/Zoo1sondv/CVE-2021-3129">
 
 ---
+## CVE-2021-31233 ()
+> 
+- [gabesolomon/CVE-2021-31233](https://github.com/gabesolomon/CVE-2021-31233)	<img alt="forks" src="https://img.shields.io/github/forks/gabesolomon/CVE-2021-31233">	<img alt="stars" src="https://img.shields.io/github/stars/gabesolomon/CVE-2021-31233">
+
+---
 ## CVE-2021-3122 (2021-02-07T20:15:00)
 > CMCAgent in NCR Command Center Agent 16.3 on Aloha POS/BOH servers permits the submission of a runCommand parameter (within an XML document sent to port 8089) that enables the remote, unauthenticated execution of an arbitrary command as SYSTEM, as exploited in the wild in 2020 and/or 2021. NOTE: the vendor's position is that exploitation occurs only on devices with a certain "misconfiguration."
 - [acquiredsecurity/CVE-2021-3122-Details](https://github.com/acquiredsecurity/CVE-2021-3122-Details)	<img alt="forks" src="https://img.shields.io/github/forks/acquiredsecurity/CVE-2021-3122-Details">	<img alt="stars" src="https://img.shields.io/github/stars/acquiredsecurity/CVE-2021-3122-Details">
