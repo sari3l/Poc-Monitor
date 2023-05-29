@@ -221,6 +221,7 @@
 - [1820112015/CVE-2023-29923](https://github.com/1820112015/CVE-2023-29923)	<img alt="forks" src="https://img.shields.io/github/forks/1820112015/CVE-2023-29923">	<img alt="stars" src="https://img.shields.io/github/stars/1820112015/CVE-2023-29923">
 - [CKevens/CVE-2023-29923-Scan](https://github.com/CKevens/CVE-2023-29923-Scan)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2023-29923-Scan">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2023-29923-Scan">
 - [Le1a/CVE-2023-29923](https://github.com/Le1a/CVE-2023-29923)	<img alt="forks" src="https://img.shields.io/github/forks/Le1a/CVE-2023-29923">	<img alt="stars" src="https://img.shields.io/github/stars/Le1a/CVE-2023-29923">
+- [Le1a/CVE-2023-29923](https://github.com/Le1a/CVE-2023-29923)	<img alt="forks" src="https://img.shields.io/github/forks/Le1a/CVE-2023-29923">	<img alt="stars" src="https://img.shields.io/github/stars/Le1a/CVE-2023-29923">
 
 ---
 ## CVE-2023-29919 (2023-05-23T01:15:00)
