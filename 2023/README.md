@@ -21,6 +21,11 @@
 - [n3gox/CVE-2023-33829](https://github.com/n3gox/CVE-2023-33829)	<img alt="forks" src="https://img.shields.io/github/forks/n3gox/CVE-2023-33829">	<img alt="stars" src="https://img.shields.io/github/stars/n3gox/CVE-2023-33829">
 
 ---
+## CVE-2023-33730 ()
+> 
+- [sahiloj/CVE-2023-33730](https://github.com/sahiloj/CVE-2023-33730)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-33730">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-33730">
+
+---
 ## CVE-2023-33617 (2023-05-23T15:15:00)
 > An OS Command Injection vulnerability in Parks Fiberlink 210 firmware version V2.1.14_X000 was found via the /boaform/admin/formPing target_addr parameter.
 - [tucommenceapousser/CVE-2023-33617](https://github.com/tucommenceapousser/CVE-2023-33617)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2023-33617">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2023-33617">
