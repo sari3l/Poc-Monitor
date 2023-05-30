@@ -24,6 +24,7 @@
 ## CVE-2023-33733 ()
 > 
 - [sahiloj/CVE-2023-33733](https://github.com/sahiloj/CVE-2023-33733)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-33733">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-33733">
+- [c53elyas/CVE-2023-33733](https://github.com/c53elyas/CVE-2023-33733)	<img alt="forks" src="https://img.shields.io/github/forks/c53elyas/CVE-2023-33733">	<img alt="stars" src="https://img.shields.io/github/stars/c53elyas/CVE-2023-33733">
 
 ---
 ## CVE-2023-33731 ()
