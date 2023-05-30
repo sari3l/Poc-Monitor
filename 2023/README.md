@@ -367,6 +367,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 > An issue has been discovered in GitLab CE/EE affecting only version 16.0.0. An unauthenticated malicious user can use a path traversal vulnerability to read arbitrary files on the server when an attachment exists in a public project nested within at least five groups.
 - [Occamsec/CVE-2023-2825](https://github.com/Occamsec/CVE-2023-2825)	<img alt="forks" src="https://img.shields.io/github/forks/Occamsec/CVE-2023-2825">	<img alt="stars" src="https://img.shields.io/github/stars/Occamsec/CVE-2023-2825">
 - [yuimarudev/CVE-2023-2825](https://github.com/yuimarudev/CVE-2023-2825)	<img alt="forks" src="https://img.shields.io/github/forks/yuimarudev/CVE-2023-2825">	<img alt="stars" src="https://img.shields.io/github/stars/yuimarudev/CVE-2023-2825">
+- [Tornad0007/CVE-2023-2825-Gitlab](https://github.com/Tornad0007/CVE-2023-2825-Gitlab)	<img alt="forks" src="https://img.shields.io/github/forks/Tornad0007/CVE-2023-2825-Gitlab">	<img alt="stars" src="https://img.shields.io/github/stars/Tornad0007/CVE-2023-2825-Gitlab">
 
 ---
 ## CVE-2023-28231 (2023-04-11T21:15:00)
