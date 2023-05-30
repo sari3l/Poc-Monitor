@@ -27,6 +27,27 @@
 - [Chocapikk/CVE-2023-33617](https://github.com/Chocapikk/CVE-2023-33617)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-33617">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-33617">
 
 ---
+## CVE-2023-33246 (2023-05-24T15:15:00)
+> For RocketMQ versions 5.1.0 and below, under certain conditions, there is a risk of remote command execution. 
+
+Several components of RocketMQ, including NameServer, Broker, and Controller, are leaked on the extranet and lack permission verification, an attacker can exploit this vulnerability by using the update configuration function to execute commands as the system users that RocketMQ is running as. Additionally, an attacker can achieve the same effect by forging the RocketMQ protocol content. 
+
+To prevent these attacks, users are recommended to upgrade to version 5.1.1 or above for using RocketMQ 5.x or 4.9.6 or above for using RocketMQ 4.x .
+
+
+
+
+
+
+
+
+
+
+
+
+- [I5N0rth/CVE-2023-33246](https://github.com/I5N0rth/CVE-2023-33246)	<img alt="forks" src="https://img.shields.io/github/forks/I5N0rth/CVE-2023-33246">	<img alt="stars" src="https://img.shields.io/github/stars/I5N0rth/CVE-2023-33246">
+
+---
 ## CVE-2023-32784 (2023-05-15T06:15:00)
 > In KeePass 2.x before 2.54, it is possible to recover the cleartext master password from a memory dump, even when a workspace is locked or no longer running. The memory dump can be a KeePass process dump, swap file (pagefile.sys), hibernation file (hiberfil.sys), or RAM dump of the entire system. The first character cannot be recovered. In 2.54, there is different API usage and/or random string insertion for mitigation.
 - [CTM1/CVE-2023-32784-keepass-linux](https://github.com/CTM1/CVE-2023-32784-keepass-linux)	<img alt="forks" src="https://img.shields.io/github/forks/CTM1/CVE-2023-32784-keepass-linux">	<img alt="stars" src="https://img.shields.io/github/stars/CTM1/CVE-2023-32784-keepass-linux">
