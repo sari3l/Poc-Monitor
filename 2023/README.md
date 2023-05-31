@@ -62,6 +62,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 
 
 - [I5N0rth/CVE-2023-33246](https://github.com/I5N0rth/CVE-2023-33246)	<img alt="forks" src="https://img.shields.io/github/forks/I5N0rth/CVE-2023-33246">	<img alt="stars" src="https://img.shields.io/github/stars/I5N0rth/CVE-2023-33246">
+- [yizhimanpadewoniu/CVE-2023-33246-Copy](https://github.com/yizhimanpadewoniu/CVE-2023-33246-Copy)	<img alt="forks" src="https://img.shields.io/github/forks/yizhimanpadewoniu/CVE-2023-33246-Copy">	<img alt="stars" src="https://img.shields.io/github/stars/yizhimanpadewoniu/CVE-2023-33246-Copy">
 
 ---
 ## CVE-2023-32784 (2023-05-15T06:15:00)
