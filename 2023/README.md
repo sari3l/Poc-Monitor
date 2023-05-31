@@ -404,6 +404,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [ZZY3312/CVE-2023-28206](https://github.com/ZZY3312/CVE-2023-28206)	<img alt="forks" src="https://img.shields.io/github/forks/ZZY3312/CVE-2023-28206">	<img alt="stars" src="https://img.shields.io/github/stars/ZZY3312/CVE-2023-28206">
 
 ---
+## CVE-2023-28121 (2023-04-12T21:15:00)
+> An issue in WooCommerce Payments plugin for WordPress (versions 5.6.1 and lower) allows an unauthenticated attacker to send requests on behalf of an elevated user, like administrator. This allows a remote, unauthenticated attacker to gain admin access on a site that has the affected version of the plugin activated.
+- [gbrsh/CVE-2023-28121](https://github.com/gbrsh/CVE-2023-28121)	<img alt="forks" src="https://img.shields.io/github/forks/gbrsh/CVE-2023-28121">	<img alt="stars" src="https://img.shields.io/github/stars/gbrsh/CVE-2023-28121">
+
+---
 ## CVE-2023-27842 (2023-03-21T15:15:00)
 > Insecure Permissions vulnerability found in Extplorer File manager eXtplorer v.2.1.15 allows a remote attacker to execute arbitrary code via the index.php compenent
 - [tristao-marinho/CVE-2023-27842](https://github.com/tristao-marinho/CVE-2023-27842)	<img alt="forks" src="https://img.shields.io/github/forks/tristao-marinho/CVE-2023-27842">	<img alt="stars" src="https://img.shields.io/github/stars/tristao-marinho/CVE-2023-27842">
