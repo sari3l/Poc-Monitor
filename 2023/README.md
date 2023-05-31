@@ -32,8 +32,8 @@
 - [sahiloj/CVE-2023-33731](https://github.com/sahiloj/CVE-2023-33731)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-33731">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-33731">
 
 ---
-## CVE-2023-33730 ()
-> 
+## CVE-2023-33730 (2023-05-31T20:15:00)
+> Privilege Escalation in the "GetUserCurrentPwd" function in Microworld Technologies eScan Management Console 14.0.1400.2281 allows any remote attacker to retrieve password of any admin or normal user in plain text format.
 - [sahiloj/CVE-2023-33730](https://github.com/sahiloj/CVE-2023-33730)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-33730">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-33730">
 
 ---
