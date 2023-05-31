@@ -116,6 +116,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [J6451/CVE-2023-31726](https://github.com/J6451/CVE-2023-31726)	<img alt="forks" src="https://img.shields.io/github/forks/J6451/CVE-2023-31726">	<img alt="stars" src="https://img.shields.io/github/stars/J6451/CVE-2023-31726">
 
 ---
+## CVE-2023-31711 ()
+> 
+- [HritikThapa7/CVE-2023-31711](https://github.com/HritikThapa7/CVE-2023-31711)	<img alt="forks" src="https://img.shields.io/github/forks/HritikThapa7/CVE-2023-31711">	<img alt="stars" src="https://img.shields.io/github/stars/HritikThapa7/CVE-2023-31711">
+
+---
 ## CVE-2023-31703 (2023-05-17T13:15:00)
 > Cross Site Scripting (XSS) in the edit user form in Microworld Technologies eScan management console 14.0.1400.2281 allows remote attacker to inject arbitrary code via the from parameter.
 - [sahiloj/CVE-2023-31703](https://github.com/sahiloj/CVE-2023-31703)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-31703">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-31703">
@@ -244,6 +249,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 ## CVE-2023-30092 (2023-05-08T15:15:00)
 > SourceCodester Online Pizza Ordering System v1.0 is vulnerable to SQL Injection via the QTY parameter.
 - [nawed20002/CVE-2023-30092](https://github.com/nawed20002/CVE-2023-30092)	<img alt="forks" src="https://img.shields.io/github/forks/nawed20002/CVE-2023-30092">	<img alt="stars" src="https://img.shields.io/github/stars/nawed20002/CVE-2023-30092">
+
+---
+## CVE-2023-3009 (2023-05-31T13:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository nilsteampassnet/teampass prior to 3.0.9.
+- [mnqazi/CVE-2023-3009](https://github.com/mnqazi/CVE-2023-3009)	<img alt="forks" src="https://img.shields.io/github/forks/mnqazi/CVE-2023-3009">	<img alt="stars" src="https://img.shields.io/github/stars/mnqazi/CVE-2023-3009">
 
 ---
 ## CVE-2023-29983 (2023-05-12T11:15:00)
