@@ -1365,6 +1365,7 @@
 - [bod4k/CVE-2020-35489](https://github.com/bod4k/CVE-2020-35489)	<img alt="forks" src="https://img.shields.io/github/forks/bod4k/CVE-2020-35489">	<img alt="stars" src="https://img.shields.io/github/stars/bod4k/CVE-2020-35489">
 - [X0UCYB3R/Check-WP-CVE-2020-35489](https://github.com/X0UCYB3R/Check-WP-CVE-2020-35489)	<img alt="forks" src="https://img.shields.io/github/forks/X0UCYB3R/Check-WP-CVE-2020-35489">	<img alt="stars" src="https://img.shields.io/github/stars/X0UCYB3R/Check-WP-CVE-2020-35489">
 - [dn9uy3n/Check-WP-CVE-2020-35489](https://github.com/dn9uy3n/Check-WP-CVE-2020-35489)	<img alt="forks" src="https://img.shields.io/github/forks/dn9uy3n/Check-WP-CVE-2020-35489">	<img alt="stars" src="https://img.shields.io/github/stars/dn9uy3n/Check-WP-CVE-2020-35489">
+- [reneoliveirajr/wp_CVE-2020-35489_checker](https://github.com/reneoliveirajr/wp_CVE-2020-35489_checker)	<img alt="forks" src="https://img.shields.io/github/forks/reneoliveirajr/wp_CVE-2020-35489_checker">	<img alt="stars" src="https://img.shields.io/github/stars/reneoliveirajr/wp_CVE-2020-35489_checker">
 
 ---
 ## CVE-2020-35479 (2020-12-18T08:15:00)
@@ -3727,6 +3728,11 @@
 ## CVE-2020-14005 (2020-06-24T14:15:00)
 > Solarwinds Orion (with Web Console WPM 2019.4.1, and Orion Platform HF4 or NPM HF2 2019.4) allows remote attackers to execute arbitrary code via a defined event.
 - [Live-Hack-CVE/CVE-2020-14005](https://github.com/Live-Hack-CVE/CVE-2020-14005)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14005">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14005">
+
+---
+## CVE-2020-13995 (2020-09-25T13:15:00)
+> U.S. Air Force Sensor Data Management System extract75 has a buffer overflow that leads to code execution. An overflow in a global variable (sBuffer) leads to a Write-What-Where outcome. Writing beyond sBuffer will clobber most global variables until reaching a pointer such as DES_info or image_info. By controlling that pointer, one achieves an arbitrary write when its fields are assigned. The data written is from a potentially untrusted NITF file in the form of an integer. The attacker can gain control of the instruction pointer.
+- [dbrumley/extract75-cve-2020-13995](https://github.com/dbrumley/extract75-cve-2020-13995)	<img alt="forks" src="https://img.shields.io/github/forks/dbrumley/extract75-cve-2020-13995">	<img alt="stars" src="https://img.shields.io/github/stars/dbrumley/extract75-cve-2020-13995">
 
 ---
 ## CVE-2020-13963 (2021-03-21T21:15:00)
