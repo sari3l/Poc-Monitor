@@ -254,6 +254,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 ## CVE-2023-3009 (2023-05-31T13:15:00)
 > Cross-site Scripting (XSS) - Stored in GitHub repository nilsteampassnet/teampass prior to 3.0.9.
 - [mnqazi/CVE-2023-3009](https://github.com/mnqazi/CVE-2023-3009)	<img alt="forks" src="https://img.shields.io/github/forks/mnqazi/CVE-2023-3009">	<img alt="stars" src="https://img.shields.io/github/stars/mnqazi/CVE-2023-3009">
+- [nawed20002/CVE-2023-30092](https://github.com/nawed20002/CVE-2023-30092)	<img alt="forks" src="https://img.shields.io/github/forks/nawed20002/CVE-2023-30092">	<img alt="stars" src="https://img.shields.io/github/stars/nawed20002/CVE-2023-30092">
 
 ---
 ## CVE-2023-29983 (2023-05-12T11:15:00)
