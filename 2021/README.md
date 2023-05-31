@@ -5396,8 +5396,8 @@
 - [Zoo1sondv/CVE-2021-3129](https://github.com/Zoo1sondv/CVE-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/Zoo1sondv/CVE-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/Zoo1sondv/CVE-2021-3129">
 
 ---
-## CVE-2021-31233 ()
-> 
+## CVE-2021-31233 (2023-05-31T01:15:00)
+> SQL Injection vulnerability found in Fighting Cock Information System v.1.0 allows a remote attacker to obtain sensitive information via the edit_breed.php parameter.
 - [gabesolomon/CVE-2021-31233](https://github.com/gabesolomon/CVE-2021-31233)	<img alt="forks" src="https://img.shields.io/github/forks/gabesolomon/CVE-2021-31233">	<img alt="stars" src="https://img.shields.io/github/stars/gabesolomon/CVE-2021-31233">
 
 ---
