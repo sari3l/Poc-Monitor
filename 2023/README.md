@@ -399,6 +399,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [Tornad0007/CVE-2023-2825-Gitlab](https://github.com/Tornad0007/CVE-2023-2825-Gitlab)	<img alt="forks" src="https://img.shields.io/github/forks/Tornad0007/CVE-2023-2825-Gitlab">	<img alt="stars" src="https://img.shields.io/github/stars/Tornad0007/CVE-2023-2825-Gitlab">
 
 ---
+## CVE-2023-28244 (2023-04-11T21:15:00)
+> Windows Kerberos Elevation of Privilege Vulnerability
+- [sk3w/cve-2023-28244](https://github.com/sk3w/cve-2023-28244)	<img alt="forks" src="https://img.shields.io/github/forks/sk3w/cve-2023-28244">	<img alt="stars" src="https://img.shields.io/github/stars/sk3w/cve-2023-28244">
+
+---
 ## CVE-2023-28231 (2023-04-11T21:15:00)
 > DHCP Server Service Remote Code Execution Vulnerability
 - [glavstroy/CVE-2023-28231](https://github.com/glavstroy/CVE-2023-28231)	<img alt="forks" src="https://img.shields.io/github/forks/glavstroy/CVE-2023-28231">	<img alt="stars" src="https://img.shields.io/github/stars/glavstroy/CVE-2023-28231">
