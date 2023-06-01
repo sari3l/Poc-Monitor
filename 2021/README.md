@@ -4758,6 +4758,11 @@
 - [Live-Hack-CVE/CVE-2021-33713](https://github.com/Live-Hack-CVE/CVE-2021-33713)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33713">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33713">
 
 ---
+## CVE-2021-33690 (2021-09-15T19:15:00)
+> Server-Side Request Forgery (SSRF) vulnerability has been detected in the SAP NetWeaver Development Infrastructure Component Build Service versions - 7.11, 7.20, 7.30, 7.31, 7.40, 7.50The SAP NetWeaver Development Infrastructure Component Build Service allows a threat actor who has access to the server to perform proxy attacks on server by sending crafted queries. Due to this, the threat actor could completely compromise sensitive data residing on the Server and impact its availability.Note: The impact of this vulnerability depends on whether SAP NetWeaver Development Infrastructure (NWDI) runs on the intranet or internet. The CVSS score reflects the impact considering the worst-case scenario that it runs on the internet.
+- [redrays-io/CVE-2021-33690](https://github.com/redrays-io/CVE-2021-33690)	<img alt="forks" src="https://img.shields.io/github/forks/redrays-io/CVE-2021-33690">	<img alt="stars" src="https://img.shields.io/github/stars/redrays-io/CVE-2021-33690">
+
+---
 ## CVE-2021-33678 (2021-07-14T12:15:00)
 > A function module of SAP NetWeaver AS ABAP (Reconciliation Framework), versions - 700, 701, 702, 710, 711, 730, 731, 740, 750, 751, 752, 75A, 75B, 75B, 75C, 75D, 75E, 75F, allows a high privileged attacker to inject code that can be executed by the application. An attacker could thereby delete some critical information and could make the SAP system completely unavailable.
 - [Live-Hack-CVE/CVE-2021-33678](https://github.com/Live-Hack-CVE/CVE-2021-33678)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33678">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33678">
@@ -7355,6 +7360,8 @@
 - [renini/CVE-2021-21972](https://github.com/renini/CVE-2021-21972)	<img alt="forks" src="https://img.shields.io/github/forks/renini/CVE-2021-21972">	<img alt="stars" src="https://img.shields.io/github/stars/renini/CVE-2021-21972">
 - [B1anda0/CVE-2021-21972](https://github.com/B1anda0/CVE-2021-21972)	<img alt="forks" src="https://img.shields.io/github/forks/B1anda0/CVE-2021-21972">	<img alt="stars" src="https://img.shields.io/github/stars/B1anda0/CVE-2021-21972">
 - [conjojo/VMware_vCenter_UNAuthorized_RCE_CVE-2021-21972](https://github.com/conjojo/VMware_vCenter_UNAuthorized_RCE_CVE-2021-21972)	<img alt="forks" src="https://img.shields.io/github/forks/conjojo/VMware_vCenter_UNAuthorized_RCE_CVE-2021-21972">	<img alt="stars" src="https://img.shields.io/github/stars/conjojo/VMware_vCenter_UNAuthorized_RCE_CVE-2021-21972">
+- [alt3kx/CVE-2021-21972](https://github.com/alt3kx/CVE-2021-21972)	<img alt="forks" src="https://img.shields.io/github/forks/alt3kx/CVE-2021-21972">	<img alt="stars" src="https://img.shields.io/github/stars/alt3kx/CVE-2021-21972">
+- [Udyz/CVE-2021-21972](https://github.com/Udyz/CVE-2021-21972)	<img alt="forks" src="https://img.shields.io/github/forks/Udyz/CVE-2021-21972">	<img alt="stars" src="https://img.shields.io/github/stars/Udyz/CVE-2021-21972">
 
 ---
 ## CVE-2021-21964 (2022-02-04T23:15:00)
