@@ -27,6 +27,11 @@
 - [c53elyas/CVE-2023-33733](https://github.com/c53elyas/CVE-2023-33733)	<img alt="forks" src="https://img.shields.io/github/forks/c53elyas/CVE-2023-33733">	<img alt="stars" src="https://img.shields.io/github/stars/c53elyas/CVE-2023-33733">
 
 ---
+## CVE-2023-33732 (2023-05-31T20:15:00)
+> Cross Site Scripting (XSS) in the New Policy form in Microworld Technologies eScan management console 14.0.1400.2281 allows a remote attacker to inject arbitrary code via the vulnerable parameters type, txtPolicyType, and Deletefileval.
+- [sahiloj/CVE-2023-33732](https://github.com/sahiloj/CVE-2023-33732)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-33732">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-33732">
+
+---
 ## CVE-2023-33731 ()
 > 
 - [sahiloj/CVE-2023-33731](https://github.com/sahiloj/CVE-2023-33731)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-33731">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-33731">
