@@ -962,6 +962,7 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [gobysec/Weblogic](https://github.com/gobysec/Weblogic)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/Weblogic">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/Weblogic">
 - [octosec45/ms-word-rce-0day-poc-2023](https://github.com/octosec45/ms-word-rce-0day-poc-2023)	<img alt="forks" src="https://img.shields.io/github/forks/octosec45/ms-word-rce-0day-poc-2023">	<img alt="stars" src="https://img.shields.io/github/stars/octosec45/ms-word-rce-0day-poc-2023">
 - [kw3h4/CVE-2023-21839-metasploit-scanner](https://github.com/kw3h4/CVE-2023-21839-metasploit-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/kw3h4/CVE-2023-21839-metasploit-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/kw3h4/CVE-2023-21839-metasploit-scanner">
+- [AKuzmanHSCS/Microsoft-Exchange-RCE](https://github.com/AKuzmanHSCS/Microsoft-Exchange-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/AKuzmanHSCS/Microsoft-Exchange-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/AKuzmanHSCS/Microsoft-Exchange-RCE">
 
 ---
 ## CVE-2023-21837 (2023-01-18T00:15:00)
