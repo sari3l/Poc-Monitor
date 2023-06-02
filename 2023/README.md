@@ -55,7 +55,7 @@
 ---
 ## CVE-2023-33409 ()
 > 
-- [Thirukrishnan/CVE-2023-33409.](https://github.com/Thirukrishnan/CVE-2023-33409.)	<img alt="forks" src="https://img.shields.io/github/forks/Thirukrishnan/CVE-2023-33409.">	<img alt="stars" src="https://img.shields.io/github/stars/Thirukrishnan/CVE-2023-33409.">
+- [Thirukrishnan/CVE-2023-33409](https://github.com/Thirukrishnan/CVE-2023-33409)	<img alt="forks" src="https://img.shields.io/github/forks/Thirukrishnan/CVE-2023-33409">	<img alt="stars" src="https://img.shields.io/github/stars/Thirukrishnan/CVE-2023-33409">
 
 ---
 ## CVE-2023-33408 ()
