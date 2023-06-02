@@ -48,6 +48,11 @@
 - [Chocapikk/CVE-2023-33617](https://github.com/Chocapikk/CVE-2023-33617)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-33617">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-33617">
 
 ---
+## CVE-2023-33408 ()
+> 
+- [Thirukrishnan/CVE-2023-33408](https://github.com/Thirukrishnan/CVE-2023-33408)	<img alt="forks" src="https://img.shields.io/github/forks/Thirukrishnan/CVE-2023-33408">	<img alt="stars" src="https://img.shields.io/github/stars/Thirukrishnan/CVE-2023-33408">
+
+---
 ## CVE-2023-33381 ()
 > 
 - [duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC](https://github.com/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC)	<img alt="forks" src="https://img.shields.io/github/forks/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC">	<img alt="stars" src="https://img.shields.io/github/stars/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC">
