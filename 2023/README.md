@@ -32,8 +32,8 @@
 - [sahiloj/CVE-2023-33732](https://github.com/sahiloj/CVE-2023-33732)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-33732">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-33732">
 
 ---
-## CVE-2023-33731 ()
-> 
+## CVE-2023-33731 (2023-06-02T12:15:00)
+> Reflected Cross Site Scripting (XSS) in the view dashboard detail feature in Microworld Technologies eScan management console 14.0.1400.2281 allows remote attacker to inject arbitrary code via the URL directly.
 - [sahiloj/CVE-2023-33731](https://github.com/sahiloj/CVE-2023-33731)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-33731">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-33731">
 
 ---
