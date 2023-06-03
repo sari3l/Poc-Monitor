@@ -26,6 +26,11 @@
 - [s0tr/CVE-2023-33782](https://github.com/s0tr/CVE-2023-33782)	<img alt="forks" src="https://img.shields.io/github/forks/s0tr/CVE-2023-33782">	<img alt="stars" src="https://img.shields.io/github/stars/s0tr/CVE-2023-33782">
 
 ---
+## CVE-2023-33781 ()
+> 
+- [s0tr/CVE-2023-33781](https://github.com/s0tr/CVE-2023-33781)	<img alt="forks" src="https://img.shields.io/github/forks/s0tr/CVE-2023-33781">	<img alt="stars" src="https://img.shields.io/github/stars/s0tr/CVE-2023-33781">
+
+---
 ## CVE-2023-33733 ()
 > 
 - [sahiloj/CVE-2023-33733](https://github.com/sahiloj/CVE-2023-33733)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-33733">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-33733">
@@ -674,6 +679,7 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [Christbowel/CVE-2023-25136](https://github.com/Christbowel/CVE-2023-25136)	<img alt="forks" src="https://img.shields.io/github/forks/Christbowel/CVE-2023-25136">	<img alt="stars" src="https://img.shields.io/github/stars/Christbowel/CVE-2023-25136">
 - [adhikara13/CVE-2023-25136](https://github.com/adhikara13/CVE-2023-25136)	<img alt="forks" src="https://img.shields.io/github/forks/adhikara13/CVE-2023-25136">	<img alt="stars" src="https://img.shields.io/github/stars/adhikara13/CVE-2023-25136">
 - [nhakobyan685/CVE-2023-25136](https://github.com/nhakobyan685/CVE-2023-25136)	<img alt="forks" src="https://img.shields.io/github/forks/nhakobyan685/CVE-2023-25136">	<img alt="stars" src="https://img.shields.io/github/stars/nhakobyan685/CVE-2023-25136">
+- [axylisdead/CVE-2023-25136_POC](https://github.com/axylisdead/CVE-2023-25136_POC)	<img alt="forks" src="https://img.shields.io/github/forks/axylisdead/CVE-2023-25136_POC">	<img alt="stars" src="https://img.shields.io/github/stars/axylisdead/CVE-2023-25136_POC">
 
 ---
 ## CVE-2023-25002 ()
