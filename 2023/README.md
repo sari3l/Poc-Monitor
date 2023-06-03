@@ -21,6 +21,11 @@
 - [n3gox/CVE-2023-33829](https://github.com/n3gox/CVE-2023-33829)	<img alt="forks" src="https://img.shields.io/github/forks/n3gox/CVE-2023-33829">	<img alt="stars" src="https://img.shields.io/github/stars/n3gox/CVE-2023-33829">
 
 ---
+## CVE-2023-33782 ()
+> 
+- [s0tr/CVE-2023-33782](https://github.com/s0tr/CVE-2023-33782)	<img alt="forks" src="https://img.shields.io/github/forks/s0tr/CVE-2023-33782">	<img alt="stars" src="https://img.shields.io/github/stars/s0tr/CVE-2023-33782">
+
+---
 ## CVE-2023-33733 ()
 > 
 - [sahiloj/CVE-2023-33733](https://github.com/sahiloj/CVE-2023-33733)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-33733">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-33733">
