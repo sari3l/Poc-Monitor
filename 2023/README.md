@@ -181,6 +181,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [XC9409/CVE-2023-31634](https://github.com/XC9409/CVE-2023-31634)	<img alt="forks" src="https://img.shields.io/github/forks/XC9409/CVE-2023-31634">	<img alt="stars" src="https://img.shields.io/github/stars/XC9409/CVE-2023-31634">
 
 ---
+## CVE-2023-31606 ()
+> 
+- [e23e/CVE-2023-31606](https://github.com/e23e/CVE-2023-31606)	<img alt="forks" src="https://img.shields.io/github/forks/e23e/CVE-2023-31606">	<img alt="stars" src="https://img.shields.io/github/stars/e23e/CVE-2023-31606">
+
+---
 ## CVE-2023-31595 (2023-05-24T20:15:00)
 > IC Realtime ICIP-P2012T 2.420 is vulnerable to Incorrect Access Control via unauthenticated port access.
 - [Yozarseef95/CVE-2023-31595](https://github.com/Yozarseef95/CVE-2023-31595)	<img alt="forks" src="https://img.shields.io/github/forks/Yozarseef95/CVE-2023-31595">	<img alt="stars" src="https://img.shields.io/github/stars/Yozarseef95/CVE-2023-31595">
