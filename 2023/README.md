@@ -390,6 +390,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 ## CVE-2023-28771 (2023-04-25T02:15:00)
 > Improper error message handling in Zyxel ZyWALL/USG series firmware versions 4.60 through 4.73, VPN series firmware versions 4.60 through 5.35, USG FLEX series firmware versions 4.60 through 5.35, and ATP series firmware versions 4.60 through 5.35, which could allow an unauthenticated attacker to execute some OS commands remotely by sending crafted packets to an affected device.
 - [BenHays142/CVE-2023-28771-PoC](https://github.com/BenHays142/CVE-2023-28771-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BenHays142/CVE-2023-28771-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BenHays142/CVE-2023-28771-PoC">
+- [WhiteOwl-Pub/PoC-CVE-2023-28771](https://github.com/WhiteOwl-Pub/PoC-CVE-2023-28771)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteOwl-Pub/PoC-CVE-2023-28771">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteOwl-Pub/PoC-CVE-2023-28771">
 
 ---
 ## CVE-2023-28615 ()
