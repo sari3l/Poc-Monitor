@@ -4660,6 +4660,7 @@
 - [Ajomix/CVE-2020-0796](https://github.com/Ajomix/CVE-2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/Ajomix/CVE-2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/Ajomix/CVE-2020-0796">
 - [hheeyywweellccoommee/CVE-2020-0796-POC-dmglv](https://github.com/hheeyywweellccoommee/CVE-2020-0796-POC-dmglv)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2020-0796-POC-dmglv">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2020-0796-POC-dmglv">
 - [Ajomix/CVE-2020-0796](https://github.com/Ajomix/CVE-2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/Ajomix/CVE-2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/Ajomix/CVE-2020-0796">
+- [DLandonHSCS/Discord-RCE](https://github.com/DLandonHSCS/Discord-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/DLandonHSCS/Discord-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/DLandonHSCS/Discord-RCE">
 
 ---
 ## CVE-2020-0688 (2020-02-11T22:15:00)
