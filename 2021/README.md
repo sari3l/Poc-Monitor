@@ -5211,6 +5211,8 @@
 > Windows NTFS Elevation of Privilege Vulnerability
 - [Y3A/CVE-2021-31956](https://github.com/Y3A/CVE-2021-31956)	<img alt="forks" src="https://img.shields.io/github/forks/Y3A/CVE-2021-31956">	<img alt="stars" src="https://img.shields.io/github/stars/Y3A/CVE-2021-31956">
 - [aazhuliang/CVE-2021-31956-EXP](https://github.com/aazhuliang/CVE-2021-31956-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/aazhuliang/CVE-2021-31956-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/aazhuliang/CVE-2021-31956-EXP">
+- [hoangprod/CVE-2021-31956](https://github.com/hoangprod/CVE-2021-31956)	<img alt="forks" src="https://img.shields.io/github/forks/hoangprod/CVE-2021-31956">	<img alt="stars" src="https://img.shields.io/github/stars/hoangprod/CVE-2021-31956">
+- [hzshang/CVE-2021-31956](https://github.com/hzshang/CVE-2021-31956)	<img alt="forks" src="https://img.shields.io/github/forks/hzshang/CVE-2021-31956">	<img alt="stars" src="https://img.shields.io/github/stars/hzshang/CVE-2021-31956">
 
 ---
 ## CVE-2021-31875 (2021-04-29T02:15:00)
