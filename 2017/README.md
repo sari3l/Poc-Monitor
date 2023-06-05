@@ -82,6 +82,12 @@
 ## CVE-2017-9248 (2017-07-03T19:29:00)
 > Telerik.Web.UI.dll in Progress Telerik UI for ASP.NET AJAX before R2 2017 SP1 and Sitefinity before 10.0.6412.0 does not properly protect Telerik.Web.UI.DialogParametersEncryptionKey or the MachineKey, which makes it easier for remote attackers to defeat cryptographic protection mechanisms, leading to a MachineKey leak, arbitrary file uploads or downloads, XSS, or ASP.NET ViewState compromise.
 - [cehamod/UI_CVE-2017-9248](https://github.com/cehamod/UI_CVE-2017-9248)	<img alt="forks" src="https://img.shields.io/github/forks/cehamod/UI_CVE-2017-9248">	<img alt="stars" src="https://img.shields.io/github/stars/cehamod/UI_CVE-2017-9248">
+- [blacklanternsecurity/dp_cryptomg](https://github.com/blacklanternsecurity/dp_cryptomg)	<img alt="forks" src="https://img.shields.io/github/forks/blacklanternsecurity/dp_cryptomg">	<img alt="stars" src="https://img.shields.io/github/stars/blacklanternsecurity/dp_cryptomg">
+- [ZhenwarX/Telerik-CVE-2017-9248-PoC](https://github.com/ZhenwarX/Telerik-CVE-2017-9248-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ZhenwarX/Telerik-CVE-2017-9248-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ZhenwarX/Telerik-CVE-2017-9248-PoC">
+- [bao7uo/dp_crypto](https://github.com/bao7uo/dp_crypto)	<img alt="forks" src="https://img.shields.io/github/forks/bao7uo/dp_crypto">	<img alt="stars" src="https://img.shields.io/github/stars/bao7uo/dp_crypto">
+- [oldboy-snt/dp](https://github.com/oldboy-snt/dp)	<img alt="forks" src="https://img.shields.io/github/forks/oldboy-snt/dp">	<img alt="stars" src="https://img.shields.io/github/stars/oldboy-snt/dp">
+- [ictnamanh/CVE-2017-9248](https://github.com/ictnamanh/CVE-2017-9248)	<img alt="forks" src="https://img.shields.io/github/forks/ictnamanh/CVE-2017-9248">	<img alt="stars" src="https://img.shields.io/github/stars/ictnamanh/CVE-2017-9248">
+- [capt-meelo/Telewreck](https://github.com/capt-meelo/Telewreck)	<img alt="forks" src="https://img.shields.io/github/forks/capt-meelo/Telewreck">	<img alt="stars" src="https://img.shields.io/github/stars/capt-meelo/Telewreck">
 
 ---
 ## CVE-2017-8917 (2017-05-17T23:29:00)
