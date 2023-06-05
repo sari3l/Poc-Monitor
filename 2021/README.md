@@ -5213,6 +5213,7 @@
 - [aazhuliang/CVE-2021-31956-EXP](https://github.com/aazhuliang/CVE-2021-31956-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/aazhuliang/CVE-2021-31956-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/aazhuliang/CVE-2021-31956-EXP">
 - [hoangprod/CVE-2021-31956](https://github.com/hoangprod/CVE-2021-31956)	<img alt="forks" src="https://img.shields.io/github/forks/hoangprod/CVE-2021-31956">	<img alt="stars" src="https://img.shields.io/github/stars/hoangprod/CVE-2021-31956">
 - [hzshang/CVE-2021-31956](https://github.com/hzshang/CVE-2021-31956)	<img alt="forks" src="https://img.shields.io/github/forks/hzshang/CVE-2021-31956">	<img alt="stars" src="https://img.shields.io/github/stars/hzshang/CVE-2021-31956">
+- [hoangprod/CVE-2021-31956-POC](https://github.com/hoangprod/CVE-2021-31956-POC)	<img alt="forks" src="https://img.shields.io/github/forks/hoangprod/CVE-2021-31956-POC">	<img alt="stars" src="https://img.shields.io/github/stars/hoangprod/CVE-2021-31956-POC">
 
 ---
 ## CVE-2021-31875 (2021-04-29T02:15:00)
