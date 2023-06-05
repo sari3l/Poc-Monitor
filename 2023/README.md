@@ -603,6 +603,59 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [Zenmovie/CVE-2023-26604](https://github.com/Zenmovie/CVE-2023-26604)	<img alt="forks" src="https://img.shields.io/github/forks/Zenmovie/CVE-2023-26604">	<img alt="stars" src="https://img.shields.io/github/stars/Zenmovie/CVE-2023-26604">
 
 ---
+## CVE-2023-2650 (2023-05-30T14:15:00)
+> Issue summary: Processing some specially crafted ASN.1 object identifiers or
+data containing them may be very slow.
+
+Impact summary: Applications that use OBJ_obj2txt() directly, or use any of
+the OpenSSL subsystems OCSP, PKCS7/SMIME, CMS, CMP/CRMF or TS with no message
+size limit may experience notable to very long delays when processing those
+messages, which may lead to a Denial of Service.
+
+An OBJECT IDENTIFIER is composed of a series of numbers - sub-identifiers -
+most of which have no size limit.  OBJ_obj2txt() may be used to translate
+an ASN.1 OBJECT IDENTIFIER given in DER encoding form (using the OpenSSL
+type ASN1_OBJECT) to its canonical numeric text form, which are the
+sub-identifiers of the OBJECT IDENTIFIER in decimal form, separated by
+periods.
+
+When one of the sub-identifiers in the OBJECT IDENTIFIER is very large
+(these are sizes that are seen as absurdly large, taking up tens or hundreds
+of KiBs), the translation to a decimal number in text may take a very long
+time.  The time complexity is O(n^2) with 'n' being the size of the
+sub-identifiers in bytes (*).
+
+With OpenSSL 3.0, support to fetch cryptographic algorithms using names /
+identifiers in string form was introduced.  This includes using OBJECT
+IDENTIFIERs in canonical numeric text form as identifiers for fetching
+algorithms.
+
+Such OBJECT IDENTIFIERs may be received through the ASN.1 structure
+AlgorithmIdentifier, which is commonly used in multiple protocols to specify
+what cryptographic algorithm should be used to sign or verify, encrypt or
+decrypt, or digest passed data.
+
+Applications that call OBJ_obj2txt() directly with untrusted data are
+affected, with any version of OpenSSL.  If the use is for the mere purpose
+of display, the severity is considered low.
+
+In OpenSSL 3.0 and newer, this affects the subsystems OCSP, PKCS7/SMIME,
+CMS, CMP/CRMF or TS.  It also impacts anything that processes X.509
+certificates, including simple things like verifying its signature.
+
+The impact on TLS is relatively low, because all versions of OpenSSL have a
+100KiB limit on the peer's certificate chain.  Additionally, this only
+impacts clients, or servers that have explicitly enabled client
+authentication.
+
+In OpenSSL 1.1.1 and 1.0.2, this only affects displaying diverse objects,
+such as X.509 certificates.  This is assumed to not happen in such a way
+that it would cause a Denial of Service, so these versions are considered
+not affected by this issue in such a way that it would be cause for concern,
+and the severity is therefore considered low.
+- [hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650](https://github.com/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650">
+
+---
 ## CVE-2023-2594 (2023-05-09T13:15:00)
 > A vulnerability, which was classified as critical, was found in SourceCodester Food Ordering Management System 1.0. Affected is an unknown function of the component Registration. The manipulation of the argument username leads to sql injection. It is possible to launch the attack remotely. The identifier of this vulnerability is VDB-228396.
 - [thehackingverse/CVE-2023-2594](https://github.com/thehackingverse/CVE-2023-2594)	<img alt="forks" src="https://img.shields.io/github/forks/thehackingverse/CVE-2023-2594">	<img alt="stars" src="https://img.shields.io/github/stars/thehackingverse/CVE-2023-2594">
