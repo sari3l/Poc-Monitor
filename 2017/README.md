@@ -79,6 +79,11 @@
 - [Live-Hack-CVE/CVE-2017-9338](https://github.com/Live-Hack-CVE/CVE-2017-9338)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-9338">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-9338">
 
 ---
+## CVE-2017-9248 (2017-07-03T19:29:00)
+> Telerik.Web.UI.dll in Progress Telerik UI for ASP.NET AJAX before R2 2017 SP1 and Sitefinity before 10.0.6412.0 does not properly protect Telerik.Web.UI.DialogParametersEncryptionKey or the MachineKey, which makes it easier for remote attackers to defeat cryptographic protection mechanisms, leading to a MachineKey leak, arbitrary file uploads or downloads, XSS, or ASP.NET ViewState compromise.
+- [cehamod/UI_CVE-2017-9248](https://github.com/cehamod/UI_CVE-2017-9248)	<img alt="forks" src="https://img.shields.io/github/forks/cehamod/UI_CVE-2017-9248">	<img alt="stars" src="https://img.shields.io/github/stars/cehamod/UI_CVE-2017-9248">
+
+---
 ## CVE-2017-8917 (2017-05-17T23:29:00)
 > SQL injection vulnerability in Joomla! 3.7.x before 3.7.1 allows attackers to execute arbitrary SQL commands via unspecified vectors.
 - [Siopy/CVE-2017-8917](https://github.com/Siopy/CVE-2017-8917)	<img alt="forks" src="https://img.shields.io/github/forks/Siopy/CVE-2017-8917">	<img alt="stars" src="https://img.shields.io/github/stars/Siopy/CVE-2017-8917">
