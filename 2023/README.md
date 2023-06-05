@@ -31,8 +31,8 @@
 - [s0tr/CVE-2023-33781](https://github.com/s0tr/CVE-2023-33781)	<img alt="forks" src="https://img.shields.io/github/forks/s0tr/CVE-2023-33781">	<img alt="stars" src="https://img.shields.io/github/stars/s0tr/CVE-2023-33781">
 
 ---
-## CVE-2023-33733 ()
-> 
+## CVE-2023-33733 (2023-06-05T16:15:00)
+> Reportlab up to v3.6.12 allows attackers to execute arbitrary code via supplying a crafted PDF file.
 - [sahiloj/CVE-2023-33733](https://github.com/sahiloj/CVE-2023-33733)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-33733">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-33733">
 - [c53elyas/CVE-2023-33733](https://github.com/c53elyas/CVE-2023-33733)	<img alt="forks" src="https://img.shields.io/github/forks/c53elyas/CVE-2023-33733">	<img alt="stars" src="https://img.shields.io/github/stars/c53elyas/CVE-2023-33733">
 
@@ -455,6 +455,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [Occamsec/CVE-2023-2825](https://github.com/Occamsec/CVE-2023-2825)	<img alt="forks" src="https://img.shields.io/github/forks/Occamsec/CVE-2023-2825">	<img alt="stars" src="https://img.shields.io/github/stars/Occamsec/CVE-2023-2825">
 - [yuimarudev/CVE-2023-2825](https://github.com/yuimarudev/CVE-2023-2825)	<img alt="forks" src="https://img.shields.io/github/forks/yuimarudev/CVE-2023-2825">	<img alt="stars" src="https://img.shields.io/github/stars/yuimarudev/CVE-2023-2825">
 - [Tornad0007/CVE-2023-2825-Gitlab](https://github.com/Tornad0007/CVE-2023-2825-Gitlab)	<img alt="forks" src="https://img.shields.io/github/forks/Tornad0007/CVE-2023-2825-Gitlab">	<img alt="stars" src="https://img.shields.io/github/stars/Tornad0007/CVE-2023-2825-Gitlab">
+- [EmmanuelCruzL/CVE-2023-2825](https://github.com/EmmanuelCruzL/CVE-2023-2825)	<img alt="forks" src="https://img.shields.io/github/forks/EmmanuelCruzL/CVE-2023-2825">	<img alt="stars" src="https://img.shields.io/github/stars/EmmanuelCruzL/CVE-2023-2825">
 
 ---
 ## CVE-2023-28244 (2023-04-11T21:15:00)
