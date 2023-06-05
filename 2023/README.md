@@ -1070,6 +1070,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [sxsuperxuan/Weblogic_CVE-2023-21389](https://github.com/sxsuperxuan/Weblogic_CVE-2023-21389)	<img alt="forks" src="https://img.shields.io/github/forks/sxsuperxuan/Weblogic_CVE-2023-21389">	<img alt="stars" src="https://img.shields.io/github/stars/sxsuperxuan/Weblogic_CVE-2023-21389">
 
 ---
+## CVE-2023-2114 (2023-05-08T14:15:00)
+> The NEX-Forms WordPress plugin before 8.4 does not properly escape the `table` parameter, which is populated with user input, before concatenating it to an SQL query.
+- [SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114](https://github.com/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114)	<img alt="forks" src="https://img.shields.io/github/forks/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114">	<img alt="stars" src="https://img.shields.io/github/stars/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114">
+
+---
 ## CVE-2023-21036 (2023-03-24T20:15:00)
 > In BitmapExport.java, there is a possible failure to truncate images due to a logic error in the code.Product: AndroidVersions: Android kernelAndroid ID: A-264261868References: N/A
 - [infobyte/CVE-2023-21036](https://github.com/infobyte/CVE-2023-21036)	<img alt="forks" src="https://img.shields.io/github/forks/infobyte/CVE-2023-21036">	<img alt="stars" src="https://img.shields.io/github/stars/infobyte/CVE-2023-21036">
