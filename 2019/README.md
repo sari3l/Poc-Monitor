@@ -1816,6 +1816,11 @@
 - [Live-Hack-CVE/CVE-2019-17559](https://github.com/Live-Hack-CVE/CVE-2019-17559)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17559">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17559">
 
 ---
+## CVE-2019-17558 (2019-12-30T17:15:00)
+> Apache Solr 5.0.0 to Apache Solr 8.3.1 are vulnerable to a Remote Code Execution through the VelocityResponseWriter. A Velocity template can be provided through Velocity templates in a configset `velocity/` directory or as a parameter. A user defined configset could contain renderable, potentially malicious, templates. Parameter provided templates are disabled by default, but can be enabled by setting `params.resource.loader.enabled` by defining a response writer with that setting set to `true`. Defining a response writer requires configuration API access. Solr 8.4 removed the params resource loader entirely, and only enables the configset-provided template rendering when the configset is `trusted` (has been uploaded by an authenticated user).
+- [narrowinxt/CVE-2019-17558](https://github.com/narrowinxt/CVE-2019-17558)	<img alt="forks" src="https://img.shields.io/github/forks/narrowinxt/CVE-2019-17558">	<img alt="stars" src="https://img.shields.io/github/stars/narrowinxt/CVE-2019-17558">
+
+---
 ## CVE-2019-17531 (2019-10-12T21:15:00)
 > A Polymorphic Typing issue was discovered in FasterXML jackson-databind 2.0.0 through 2.9.10. When Default Typing is enabled (either globally or for a specific property) for an externally exposed JSON endpoint and the service has the apache-log4j-extra (version 1.2.x) jar in the classpath, and an attacker can provide a JNDI service to access, it is possible to make the service execute a malicious payload.
 - [Live-Hack-CVE/CVE-2019-17531](https://github.com/Live-Hack-CVE/CVE-2019-17531)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17531">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17531">
