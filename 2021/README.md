@@ -2370,6 +2370,7 @@
 - [metehangenel/MSHTML-CVE-2021-40444](https://github.com/metehangenel/MSHTML-CVE-2021-40444)	<img alt="forks" src="https://img.shields.io/github/forks/metehangenel/MSHTML-CVE-2021-40444">	<img alt="stars" src="https://img.shields.io/github/stars/metehangenel/MSHTML-CVE-2021-40444">
 - [mansk1es/Caboom](https://github.com/mansk1es/Caboom)	<img alt="forks" src="https://img.shields.io/github/forks/mansk1es/Caboom">	<img alt="stars" src="https://img.shields.io/github/stars/mansk1es/Caboom">
 - [Udyz/CVE-2021-40444-Sample](https://github.com/Udyz/CVE-2021-40444-Sample)	<img alt="forks" src="https://img.shields.io/github/forks/Udyz/CVE-2021-40444-Sample">	<img alt="stars" src="https://img.shields.io/github/stars/Udyz/CVE-2021-40444-Sample">
+- [hqdat809/CVE-2021-40444](https://github.com/hqdat809/CVE-2021-40444)	<img alt="forks" src="https://img.shields.io/github/forks/hqdat809/CVE-2021-40444">	<img alt="stars" src="https://img.shields.io/github/stars/hqdat809/CVE-2021-40444">
 
 ---
 ## CVE-2021-4044 (2021-12-14T19:15:00)
