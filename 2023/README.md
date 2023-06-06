@@ -107,6 +107,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [SuperZero/CVE-2023-33246](https://github.com/SuperZero/CVE-2023-33246)	<img alt="forks" src="https://img.shields.io/github/forks/SuperZero/CVE-2023-33246">	<img alt="stars" src="https://img.shields.io/github/stars/SuperZero/CVE-2023-33246">
 - [Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT](https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT">
 - [CKevens/CVE-2023-33246](https://github.com/CKevens/CVE-2023-33246)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2023-33246">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2023-33246">
+- [Serendipity-Lucky/CVE-2023-33246](https://github.com/Serendipity-Lucky/CVE-2023-33246)	<img alt="forks" src="https://img.shields.io/github/forks/Serendipity-Lucky/CVE-2023-33246">	<img alt="stars" src="https://img.shields.io/github/stars/Serendipity-Lucky/CVE-2023-33246">
 
 ---
 ## CVE-2023-33243 ()
