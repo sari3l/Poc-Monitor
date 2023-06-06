@@ -491,6 +491,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [ZZY3312/CVE-2023-28206](https://github.com/ZZY3312/CVE-2023-28206)	<img alt="forks" src="https://img.shields.io/github/forks/ZZY3312/CVE-2023-28206">	<img alt="stars" src="https://img.shields.io/github/stars/ZZY3312/CVE-2023-28206">
 
 ---
+## CVE-2023-28178 (2023-05-08T20:15:00)
+> A logic issue was addressed with improved validation. This issue is fixed in macOS Monterey 12.6.4, iOS 16.4 and iPadOS 16.4, macOS Ventura 13.3. An app may be able to bypass Privacy preferences
+- [ahickmansec/CVE-2023-28178-patch](https://github.com/ahickmansec/CVE-2023-28178-patch)	<img alt="forks" src="https://img.shields.io/github/forks/ahickmansec/CVE-2023-28178-patch">	<img alt="stars" src="https://img.shields.io/github/stars/ahickmansec/CVE-2023-28178-patch">
+
+---
 ## CVE-2023-28121 (2023-04-12T21:15:00)
 > An issue in WooCommerce Payments plugin for WordPress (versions 5.6.1 and lower) allows an unauthenticated attacker to send requests on behalf of an elevated user, like administrator. This allows a remote, unauthenticated attacker to gain admin access on a site that has the affected version of the plugin activated.
 - [gbrsh/CVE-2023-28121](https://github.com/gbrsh/CVE-2023-28121)	<img alt="forks" src="https://img.shields.io/github/forks/gbrsh/CVE-2023-28121">	<img alt="stars" src="https://img.shields.io/github/stars/gbrsh/CVE-2023-28121">
