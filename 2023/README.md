@@ -493,7 +493,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 ---
 ## CVE-2023-28178 (2023-05-08T20:15:00)
 > A logic issue was addressed with improved validation. This issue is fixed in macOS Monterey 12.6.4, iOS 16.4 and iPadOS 16.4, macOS Ventura 13.3. An app may be able to bypass Privacy preferences
-- [ahickmansec/CVE-2023-28178-patch](https://github.com/ahickmansec/CVE-2023-28178-patch)	<img alt="forks" src="https://img.shields.io/github/forks/ahickmansec/CVE-2023-28178-patch">	<img alt="stars" src="https://img.shields.io/github/stars/ahickmansec/CVE-2023-28178-patch">
+- [MacCVEResearch/CVE-2023-28178-patch](https://github.com/MacCVEResearch/CVE-2023-28178-patch)	<img alt="forks" src="https://img.shields.io/github/forks/MacCVEResearch/CVE-2023-28178-patch">	<img alt="stars" src="https://img.shields.io/github/stars/MacCVEResearch/CVE-2023-28178-patch">
 
 ---
 ## CVE-2023-28121 (2023-04-12T21:15:00)
