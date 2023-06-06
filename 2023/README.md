@@ -63,18 +63,18 @@
 - [Skr11lex/CVE-2023-33477](https://github.com/Skr11lex/CVE-2023-33477)	<img alt="forks" src="https://img.shields.io/github/forks/Skr11lex/CVE-2023-33477">	<img alt="stars" src="https://img.shields.io/github/stars/Skr11lex/CVE-2023-33477">
 
 ---
-## CVE-2023-33410 ()
-> 
+## CVE-2023-33410 (2023-06-05T21:15:00)
+> Minical 1.0.0 and earlier contains a CSV injection vulnerability which allows an attacker to execute remote code. The vulnerability exists due to insufficient input validation on the Customer Name field in the Accounting module that is used to construct a CSV file.
 - [Thirukrishnan/CVE-2023-33410](https://github.com/Thirukrishnan/CVE-2023-33410)	<img alt="forks" src="https://img.shields.io/github/forks/Thirukrishnan/CVE-2023-33410">	<img alt="stars" src="https://img.shields.io/github/stars/Thirukrishnan/CVE-2023-33410">
 
 ---
-## CVE-2023-33409 ()
-> 
+## CVE-2023-33409 (2023-06-05T21:15:00)
+> Minical 1.0.0 is vulnerable to Cross Site Request Forgery (CSRF) via minical/public/application/controllers/settings/company.php.
 - [Thirukrishnan/CVE-2023-33409](https://github.com/Thirukrishnan/CVE-2023-33409)	<img alt="forks" src="https://img.shields.io/github/forks/Thirukrishnan/CVE-2023-33409">	<img alt="stars" src="https://img.shields.io/github/stars/Thirukrishnan/CVE-2023-33409">
 
 ---
-## CVE-2023-33408 ()
-> 
+## CVE-2023-33408 (2023-06-05T21:15:00)
+> Minical 1.0.0 is vulnerable to Cross Site Scripting (XSS). The vulnerability exists due to insufficient input validation in the application's user input handling in the security_helper.php file.
 - [Thirukrishnan/CVE-2023-33408](https://github.com/Thirukrishnan/CVE-2023-33408)	<img alt="forks" src="https://img.shields.io/github/forks/Thirukrishnan/CVE-2023-33408">	<img alt="stars" src="https://img.shields.io/github/stars/Thirukrishnan/CVE-2023-33408">
 
 ---
