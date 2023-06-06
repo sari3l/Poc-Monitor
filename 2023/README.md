@@ -16,6 +16,11 @@
 - [Trinadh465/linux_4.19.72_CVE-2023-42896](https://github.com/Trinadh465/linux_4.19.72_CVE-2023-42896)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux_4.19.72_CVE-2023-42896">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux_4.19.72_CVE-2023-42896">
 
 ---
+## CVE-2023-33977 ()
+> 
+- [mnqazi/CVE-2023-33977](https://github.com/mnqazi/CVE-2023-33977)	<img alt="forks" src="https://img.shields.io/github/forks/mnqazi/CVE-2023-33977">	<img alt="stars" src="https://img.shields.io/github/stars/mnqazi/CVE-2023-33977">
+
+---
 ## CVE-2023-33829 (2023-05-24T21:15:00)
 > A stored cross-site scripting (XSS) vulnerability in Cloudogu GmbH SCM Manager v1.2 to v1.60 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Description text field.
 - [n3gox/CVE-2023-33829](https://github.com/n3gox/CVE-2023-33829)	<img alt="forks" src="https://img.shields.io/github/forks/n3gox/CVE-2023-33829">	<img alt="stars" src="https://img.shields.io/github/stars/n3gox/CVE-2023-33829">
