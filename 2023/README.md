@@ -1278,6 +1278,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [hh-hunter/ml-CVE-2023-1177](https://github.com/hh-hunter/ml-CVE-2023-1177)	<img alt="forks" src="https://img.shields.io/github/forks/hh-hunter/ml-CVE-2023-1177">	<img alt="stars" src="https://img.shields.io/github/stars/hh-hunter/ml-CVE-2023-1177">
 
 ---
+## CVE-2023-10608 ()
+> 
+- [b35363/cve-2023-10608-PoC](https://github.com/b35363/cve-2023-10608-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/b35363/cve-2023-10608-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/b35363/cve-2023-10608-PoC">
+
+---
 ## CVE-2023-0861 (2023-02-16T09:15:00)
 > NetModule NSRW web administration interface executes an OS command constructed with unsanitized user input. A successful exploit could allow an authenticated user to execute arbitrary commands with elevated privileges. This issue affects NSRW: from 4.3.0.0 before 4.3.0.119, from 4.4.0.0 before 4.4.0.118, from 4.6.0.0 before 4.6.0.105, from 4.7.0.0 before 4.7.0.103.
 - [seifallahhomrani1/CVE-2023-0861-POC](https://github.com/seifallahhomrani1/CVE-2023-0861-POC)	<img alt="forks" src="https://img.shields.io/github/forks/seifallahhomrani1/CVE-2023-0861-POC">	<img alt="stars" src="https://img.shields.io/github/stars/seifallahhomrani1/CVE-2023-0861-POC">
