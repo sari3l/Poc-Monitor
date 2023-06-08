@@ -1052,6 +1052,7 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [M4fiaB0y/CVE-2023-22809](https://github.com/M4fiaB0y/CVE-2023-22809)	<img alt="forks" src="https://img.shields.io/github/forks/M4fiaB0y/CVE-2023-22809">	<img alt="stars" src="https://img.shields.io/github/stars/M4fiaB0y/CVE-2023-22809">
 - [bigozzzz/popular-cves-scanner](https://github.com/bigozzzz/popular-cves-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/bigozzzz/popular-cves-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/bigozzzz/popular-cves-scanner">
 - [CKevens/CVE-2023-22809-sudo-POC](https://github.com/CKevens/CVE-2023-22809-sudo-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2023-22809-sudo-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2023-22809-sudo-POC">
+- [hello4r1end/patch_CVE-2023-22809](https://github.com/hello4r1end/patch_CVE-2023-22809)	<img alt="forks" src="https://img.shields.io/github/forks/hello4r1end/patch_CVE-2023-22809">	<img alt="stars" src="https://img.shields.io/github/stars/hello4r1end/patch_CVE-2023-22809">
 
 ---
 ## CVE-2023-22621 (2023-04-19T16:15:00)
