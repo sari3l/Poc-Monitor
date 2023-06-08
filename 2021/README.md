@@ -936,6 +936,7 @@
 > Laravel Framework through 8.70.2 does not sufficiently block the upload of executable PHP content because Illuminate/Validation/Concerns/ValidatesAttributes.php lacks a check for .phar files, which are handled as application/x-httpd-php on systems based on Debian. NOTE: this CVE Record is for Laravel Framework, and is unrelated to any reports concerning incorrectly written user applications for image upload.
 - [aweiiy/CVE-2021-43617](https://github.com/aweiiy/CVE-2021-43617)	<img alt="forks" src="https://img.shields.io/github/forks/aweiiy/CVE-2021-43617">	<img alt="stars" src="https://img.shields.io/github/stars/aweiiy/CVE-2021-43617">
 - [kombat1/CVE-2021-43617](https://github.com/kombat1/CVE-2021-43617)	<img alt="forks" src="https://img.shields.io/github/forks/kombat1/CVE-2021-43617">	<img alt="stars" src="https://img.shields.io/github/stars/kombat1/CVE-2021-43617">
+- [Sybelle03/CVE-2021-43617](https://github.com/Sybelle03/CVE-2021-43617)	<img alt="forks" src="https://img.shields.io/github/forks/Sybelle03/CVE-2021-43617">	<img alt="stars" src="https://img.shields.io/github/stars/Sybelle03/CVE-2021-43617">
 
 ---
 ## CVE-2021-43616 (2021-11-13T18:15:00)
