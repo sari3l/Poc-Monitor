@@ -101,6 +101,11 @@
 - [duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC](https://github.com/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC)	<img alt="forks" src="https://img.shields.io/github/forks/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC">	<img alt="stars" src="https://img.shields.io/github/stars/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC">
 
 ---
+## CVE-2023-33253 ()
+> 
+- [Toxich4/CVE-2023-33253](https://github.com/Toxich4/CVE-2023-33253)	<img alt="forks" src="https://img.shields.io/github/forks/Toxich4/CVE-2023-33253">	<img alt="stars" src="https://img.shields.io/github/stars/Toxich4/CVE-2023-33253">
+
+---
 ## CVE-2023-33246 (2023-05-24T15:15:00)
 > For RocketMQ versions 5.1.0 and below, under certain conditions, there is a risk of remote command execution. 
 
