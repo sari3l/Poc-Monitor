@@ -108,6 +108,11 @@
 - [Live-Hack-CVE/CVE-2012-1688](https://github.com/Live-Hack-CVE/CVE-2012-1688)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-1688">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-1688">
 
 ---
+## CVE-2012-1495 (2020-01-27T15:15:00)
+> install/index.php in WebCalendar before 1.2.5 allows remote attackers to execute arbitrary code via the form_single_user_login parameter.
+- [axelbankole/CVE-2012-1495-Webcalendar-](https://github.com/axelbankole/CVE-2012-1495-Webcalendar-)	<img alt="forks" src="https://img.shields.io/github/forks/axelbankole/CVE-2012-1495-Webcalendar-">	<img alt="stars" src="https://img.shields.io/github/stars/axelbankole/CVE-2012-1495-Webcalendar-">
+
+---
 ## CVE-2012-10005 (2023-01-12T16:15:00)
 > A vulnerability has been found in manikandan170890 php-form-builder-class and classified as problematic. Affected by this vulnerability is an unknown functionality of the file PFBC/Element/Textarea.php of the component Textarea Handler. The manipulation of the argument value leads to cross site scripting. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The name of the patch is 74897993818d826595fd5857038e6703456a594a. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-218155.
 - [Live-Hack-CVE/CVE-2012-10005](https://github.com/Live-Hack-CVE/CVE-2012-10005)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-10005">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-10005">
