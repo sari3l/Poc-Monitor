@@ -451,6 +451,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [DLandonHSCS/Discord-RCE](https://github.com/DLandonHSCS/Discord-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/DLandonHSCS/Discord-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/DLandonHSCS/Discord-RCE">
 
 ---
+## CVE-2023-2868 (2023-05-24T19:15:00)
+> A remote command injection vulnerability exists in the Barracuda Email Security Gateway (appliance form factor only) product effecting versions 5.1.3.001-9.2.0.006. The vulnerability arises out of a failure to comprehensively sanitize the processing of .tar file (tape archives). The vulnerability stems from incomplete input validation of a user-supplied .tar file as it pertains to the names of the files contained within the archive. As a consequence, a remote attacker can specifically format these file names in a particular manner that will result in remotely executing a system command through Perl's qx operator with the privileges of the Email Security Gateway product. This issue was fixed as part of BNSF-36456 patch. This patch was automatically applied to all customer appliances.
+- [T13nn3s/CVE-2023-2868](https://github.com/T13nn3s/CVE-2023-2868)	<img alt="forks" src="https://img.shields.io/github/forks/T13nn3s/CVE-2023-2868">	<img alt="stars" src="https://img.shields.io/github/stars/T13nn3s/CVE-2023-2868">
+
+---
 ## CVE-2023-28615 ()
 > 
 - [YSaxon/CVE-2023-28615](https://github.com/YSaxon/CVE-2023-28615)	<img alt="forks" src="https://img.shields.io/github/forks/YSaxon/CVE-2023-28615">	<img alt="stars" src="https://img.shields.io/github/stars/YSaxon/CVE-2023-28615">
