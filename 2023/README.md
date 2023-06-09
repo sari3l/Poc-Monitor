@@ -232,6 +232,12 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [XC9409/CVE-2023-31634](https://github.com/XC9409/CVE-2023-31634)	<img alt="forks" src="https://img.shields.io/github/forks/XC9409/CVE-2023-31634">	<img alt="stars" src="https://img.shields.io/github/stars/XC9409/CVE-2023-31634">
 
 ---
+## CVE-2023-3163 (2023-06-08T14:15:00)
+> A vulnerability was found in y_project RuoYi up to 4.7.7. It has been classified as problematic. Affected is the function filterKeyword. The manipulation of the argument value leads to resource consumption. VDB-231090 is the identifier assigned to this vulnerability.
+- [George0Papasotiriou/CVE-2023-3163-SQL-Injection-Prevention](https://github.com/George0Papasotiriou/CVE-2023-3163-SQL-Injection-Prevention)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2023-3163-SQL-Injection-Prevention">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2023-3163-SQL-Injection-Prevention">
+- [XC9409/CVE-2023-31634](https://github.com/XC9409/CVE-2023-31634)	<img alt="forks" src="https://img.shields.io/github/forks/XC9409/CVE-2023-31634">	<img alt="stars" src="https://img.shields.io/github/stars/XC9409/CVE-2023-31634">
+
+---
 ## CVE-2023-31606 (2023-06-06T17:15:00)
 > A Regular Expression Denial of Service (ReDoS) issue was discovered in the sanitize_html function of redcloth gem v4.0.0. This vulnerability allows attackers to cause a Denial of Service (DoS) via supplying a crafted payload.
 - [e23e/CVE-2023-31606](https://github.com/e23e/CVE-2023-31606)	<img alt="forks" src="https://img.shields.io/github/forks/e23e/CVE-2023-31606">	<img alt="stars" src="https://img.shields.io/github/stars/e23e/CVE-2023-31606">
