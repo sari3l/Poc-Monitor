@@ -417,6 +417,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [whalebone7/EagleEye](https://github.com/whalebone7/EagleEye)	<img alt="forks" src="https://img.shields.io/github/forks/whalebone7/EagleEye">	<img alt="stars" src="https://img.shields.io/github/stars/whalebone7/EagleEye">
 - [1337r0j4n/CVE-2023-29489](https://github.com/1337r0j4n/CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/1337r0j4n/CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/1337r0j4n/CVE-2023-29489">
 - [Abdullah7-ma/CVE-2023-29489](https://github.com/Abdullah7-ma/CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/Abdullah7-ma/CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/Abdullah7-ma/CVE-2023-29489">
+- [tucommenceapousser/CVE-2023-29489](https://github.com/tucommenceapousser/CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2023-29489">
 
 ---
 ## CVE-2023-29336 (2023-05-09T18:15:00)
