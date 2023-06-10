@@ -258,6 +258,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [rootd4ddy/CVE-2023-31584](https://github.com/rootd4ddy/CVE-2023-31584)	<img alt="forks" src="https://img.shields.io/github/forks/rootd4ddy/CVE-2023-31584">	<img alt="stars" src="https://img.shields.io/github/stars/rootd4ddy/CVE-2023-31584">
 
 ---
+## CVE-2023-31541 ()
+> 
+- [DreamD2v/CVE-2023-31541](https://github.com/DreamD2v/CVE-2023-31541)	<img alt="forks" src="https://img.shields.io/github/forks/DreamD2v/CVE-2023-31541">	<img alt="stars" src="https://img.shields.io/github/stars/DreamD2v/CVE-2023-31541">
+
+---
 ## CVE-2023-31503 ()
 > 
 - [ViCrack/CVE-2023-31503](https://github.com/ViCrack/CVE-2023-31503)	<img alt="forks" src="https://img.shields.io/github/forks/ViCrack/CVE-2023-31503">	<img alt="stars" src="https://img.shields.io/github/stars/ViCrack/CVE-2023-31503">
