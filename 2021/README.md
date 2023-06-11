@@ -1941,6 +1941,7 @@
 ## CVE-2021-41652 (2022-03-01T23:15:00)
 > Insecure permissions in the file database.sdb of BatFlat CMS v1.3.6 allows attackers to dump the entire database.
 - [deathflash1411/CVE-2021-41652](https://github.com/deathflash1411/CVE-2021-41652)	<img alt="forks" src="https://img.shields.io/github/forks/deathflash1411/CVE-2021-41652">	<img alt="stars" src="https://img.shields.io/github/stars/deathflash1411/CVE-2021-41652">
+- [deathflash1411/cve-2021-41652](https://github.com/deathflash1411/cve-2021-41652)	<img alt="forks" src="https://img.shields.io/github/forks/deathflash1411/cve-2021-41652">	<img alt="stars" src="https://img.shields.io/github/stars/deathflash1411/cve-2021-41652">
 
 ---
 ## CVE-2021-4160 (2022-01-28T22:15:00)
@@ -4164,6 +4165,7 @@
 ## CVE-2021-35448 (2021-06-24T20:15:00)
 > Emote Interactive Remote Mouse 3.008 on Windows allows attackers to execute arbitrary programs as Administrator by using the Image Transfer Folder feature to navigate to cmd.exe. It binds to local ports to listen for incoming connections.
 - [deathflash1411/CVE-2021-35448](https://github.com/deathflash1411/CVE-2021-35448)	<img alt="forks" src="https://img.shields.io/github/forks/deathflash1411/CVE-2021-35448">	<img alt="stars" src="https://img.shields.io/github/stars/deathflash1411/CVE-2021-35448">
+- [deathflash1411/cve-2021-35448](https://github.com/deathflash1411/cve-2021-35448)	<img alt="forks" src="https://img.shields.io/github/forks/deathflash1411/cve-2021-35448">	<img alt="stars" src="https://img.shields.io/github/stars/deathflash1411/cve-2021-35448">
 
 ---
 ## CVE-2021-35368 (2021-11-05T18:15:00)
