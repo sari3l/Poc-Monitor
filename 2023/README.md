@@ -830,6 +830,7 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [win3zz/CVE-2023-25157](https://github.com/win3zz/CVE-2023-25157)	<img alt="forks" src="https://img.shields.io/github/forks/win3zz/CVE-2023-25157">	<img alt="stars" src="https://img.shields.io/github/stars/win3zz/CVE-2023-25157">
 - [0x2458bughunt/CVE-2023-25157](https://github.com/0x2458bughunt/CVE-2023-25157)	<img alt="forks" src="https://img.shields.io/github/forks/0x2458bughunt/CVE-2023-25157">	<img alt="stars" src="https://img.shields.io/github/stars/0x2458bughunt/CVE-2023-25157">
 - [drfabiocastro/geoserver](https://github.com/drfabiocastro/geoserver)	<img alt="forks" src="https://img.shields.io/github/forks/drfabiocastro/geoserver">	<img alt="stars" src="https://img.shields.io/github/stars/drfabiocastro/geoserver">
+- [murataydemir/CVE-2023-25157-and-CVE-2023-25158](https://github.com/murataydemir/CVE-2023-25157-and-CVE-2023-25158)	<img alt="forks" src="https://img.shields.io/github/forks/murataydemir/CVE-2023-25157-and-CVE-2023-25158">	<img alt="stars" src="https://img.shields.io/github/stars/murataydemir/CVE-2023-25157-and-CVE-2023-25158">
 
 ---
 ## CVE-2023-25136 (2023-02-03T06:15:00)
