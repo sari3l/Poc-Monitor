@@ -31,6 +31,7 @@
 - [deepinstinct/MOVEit_CVE-2023-34362_IOCs](https://github.com/deepinstinct/MOVEit_CVE-2023-34362_IOCs)	<img alt="forks" src="https://img.shields.io/github/forks/deepinstinct/MOVEit_CVE-2023-34362_IOCs">	<img alt="stars" src="https://img.shields.io/github/stars/deepinstinct/MOVEit_CVE-2023-34362_IOCs">
 - [a3cipher/CVE-2023-34362](https://github.com/a3cipher/CVE-2023-34362)	<img alt="forks" src="https://img.shields.io/github/forks/a3cipher/CVE-2023-34362">	<img alt="stars" src="https://img.shields.io/github/stars/a3cipher/CVE-2023-34362">
 - [hheeyywweellccoommee/CVE-2023-34362-nhjxn](https://github.com/hheeyywweellccoommee/CVE-2023-34362-nhjxn)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-34362-nhjxn">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-34362-nhjxn">
+- [lithuanian-g/cve-2023-34362-iocs](https://github.com/lithuanian-g/cve-2023-34362-iocs)	<img alt="forks" src="https://img.shields.io/github/forks/lithuanian-g/cve-2023-34362-iocs">	<img alt="stars" src="https://img.shields.io/github/stars/lithuanian-g/cve-2023-34362-iocs">
 
 ---
 ## CVE-2023-34096 (2023-06-08T19:15:00)
@@ -1309,6 +1310,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [CKevens/CVE-2023-1454-EXP](https://github.com/CKevens/CVE-2023-1454-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2023-1454-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2023-1454-EXP">
 - [BugFor-Pings/CVE-2023-1454](https://github.com/BugFor-Pings/CVE-2023-1454)	<img alt="forks" src="https://img.shields.io/github/forks/BugFor-Pings/CVE-2023-1454">	<img alt="stars" src="https://img.shields.io/github/stars/BugFor-Pings/CVE-2023-1454">
 - [padbergpete47/CVE-2023-1454](https://github.com/padbergpete47/CVE-2023-1454)	<img alt="forks" src="https://img.shields.io/github/forks/padbergpete47/CVE-2023-1454">	<img alt="stars" src="https://img.shields.io/github/stars/padbergpete47/CVE-2023-1454">
+
+---
+## CVE-2023-1430 (2023-06-09T06:15:00)
+> The FluentCRM - Marketing Automation For WordPress  plugin for WordPress is vulnerable to unauthorized modification of data in versions up to, and including, 2.7.40 due to the use of an MD5 hash without a salt to control subscriptions. This makes it possible for unauthenticated attackers to unsubscribe users from lists and manage subscriptions, granted they gain access to any targeted subscribers email address.
+- [karlemilnikka/CVE-2023-1430](https://github.com/karlemilnikka/CVE-2023-1430)	<img alt="forks" src="https://img.shields.io/github/forks/karlemilnikka/CVE-2023-1430">	<img alt="stars" src="https://img.shields.io/github/stars/karlemilnikka/CVE-2023-1430">
 
 ---
 ## CVE-2023-1415 (2023-03-15T16:15:00)
