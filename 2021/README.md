@@ -7704,6 +7704,7 @@
 ## CVE-2021-21311 ()
 > 
 - [omoknooni/CVE-2021-21311](https://github.com/omoknooni/CVE-2021-21311)	<img alt="forks" src="https://img.shields.io/github/forks/omoknooni/CVE-2021-21311">	<img alt="stars" src="https://img.shields.io/github/stars/omoknooni/CVE-2021-21311">
+- [llhala/CVE-2021-21311](https://github.com/llhala/CVE-2021-21311)	<img alt="forks" src="https://img.shields.io/github/forks/llhala/CVE-2021-21311">	<img alt="stars" src="https://img.shields.io/github/stars/llhala/CVE-2021-21311">
 
 ---
 ## CVE-2021-21304 (2021-02-08T18:15:00)
