@@ -839,6 +839,7 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [0x2458bughunt/CVE-2023-25157](https://github.com/0x2458bughunt/CVE-2023-25157)	<img alt="forks" src="https://img.shields.io/github/forks/0x2458bughunt/CVE-2023-25157">	<img alt="stars" src="https://img.shields.io/github/stars/0x2458bughunt/CVE-2023-25157">
 - [drfabiocastro/geoserver](https://github.com/drfabiocastro/geoserver)	<img alt="forks" src="https://img.shields.io/github/forks/drfabiocastro/geoserver">	<img alt="stars" src="https://img.shields.io/github/stars/drfabiocastro/geoserver">
 - [murataydemir/CVE-2023-25157-and-CVE-2023-25158](https://github.com/murataydemir/CVE-2023-25157-and-CVE-2023-25158)	<img alt="forks" src="https://img.shields.io/github/forks/murataydemir/CVE-2023-25157-and-CVE-2023-25158">	<img alt="stars" src="https://img.shields.io/github/stars/murataydemir/CVE-2023-25157-and-CVE-2023-25158">
+- [7imbitz/CVE-2023-25157-checker](https://github.com/7imbitz/CVE-2023-25157-checker)	<img alt="forks" src="https://img.shields.io/github/forks/7imbitz/CVE-2023-25157-checker">	<img alt="stars" src="https://img.shields.io/github/stars/7imbitz/CVE-2023-25157-checker">
 
 ---
 ## CVE-2023-25136 (2023-02-03T06:15:00)
@@ -1284,6 +1285,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [sandumjacob/CVE-2023-2033-Analysis](https://github.com/sandumjacob/CVE-2023-2033-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/sandumjacob/CVE-2023-2033-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/sandumjacob/CVE-2023-2033-Analysis">
 - [gretchenfrage/CVE-2023-2033-analysis](https://github.com/gretchenfrage/CVE-2023-2033-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/gretchenfrage/CVE-2023-2033-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/gretchenfrage/CVE-2023-2033-analysis">
 - [WalccDev/CVE-2023-2033](https://github.com/WalccDev/CVE-2023-2033)	<img alt="forks" src="https://img.shields.io/github/forks/WalccDev/CVE-2023-2033">	<img alt="stars" src="https://img.shields.io/github/stars/WalccDev/CVE-2023-2033">
+
+---
+## CVE-2023-2008 ()
+> 
+- [bluefrostsecurity/CVE-2023-2008](https://github.com/bluefrostsecurity/CVE-2023-2008)	<img alt="forks" src="https://img.shields.io/github/forks/bluefrostsecurity/CVE-2023-2008">	<img alt="stars" src="https://img.shields.io/github/stars/bluefrostsecurity/CVE-2023-2008">
 
 ---
 ## CVE-2023-2002 (2023-05-26T17:15:00)
