@@ -32,6 +32,7 @@
 - [a3cipher/CVE-2023-34362](https://github.com/a3cipher/CVE-2023-34362)	<img alt="forks" src="https://img.shields.io/github/forks/a3cipher/CVE-2023-34362">	<img alt="stars" src="https://img.shields.io/github/stars/a3cipher/CVE-2023-34362">
 - [hheeyywweellccoommee/CVE-2023-34362-nhjxn](https://github.com/hheeyywweellccoommee/CVE-2023-34362-nhjxn)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-34362-nhjxn">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-34362-nhjxn">
 - [lithuanian-g/cve-2023-34362-iocs](https://github.com/lithuanian-g/cve-2023-34362-iocs)	<img alt="forks" src="https://img.shields.io/github/forks/lithuanian-g/cve-2023-34362-iocs">	<img alt="stars" src="https://img.shields.io/github/stars/lithuanian-g/cve-2023-34362-iocs">
+- [horizon3ai/CVE-2023-34362](https://github.com/horizon3ai/CVE-2023-34362)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2023-34362">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2023-34362">
 
 ---
 ## CVE-2023-34096 (2023-06-08T19:15:00)
