@@ -21,6 +21,11 @@
 - [Trinadh465/linux_4.19.72_CVE-2023-42896](https://github.com/Trinadh465/linux_4.19.72_CVE-2023-42896)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux_4.19.72_CVE-2023-42896">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux_4.19.72_CVE-2023-42896">
 
 ---
+## CVE-2023-34965 ()
+> 
+- [AgentY0/CVE-2023-34965](https://github.com/AgentY0/CVE-2023-34965)	<img alt="forks" src="https://img.shields.io/github/forks/AgentY0/CVE-2023-34965">	<img alt="stars" src="https://img.shields.io/github/stars/AgentY0/CVE-2023-34965">
+
+---
 ## CVE-2023-34960 ()
 > 
 - [Aituglo/CVE-2023-34960](https://github.com/Aituglo/CVE-2023-34960)	<img alt="forks" src="https://img.shields.io/github/forks/Aituglo/CVE-2023-34960">	<img alt="stars" src="https://img.shields.io/github/stars/Aituglo/CVE-2023-34960">
@@ -33,6 +38,7 @@
 - [hheeyywweellccoommee/CVE-2023-34362-nhjxn](https://github.com/hheeyywweellccoommee/CVE-2023-34362-nhjxn)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-34362-nhjxn">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-34362-nhjxn">
 - [lithuanian-g/cve-2023-34362-iocs](https://github.com/lithuanian-g/cve-2023-34362-iocs)	<img alt="forks" src="https://img.shields.io/github/forks/lithuanian-g/cve-2023-34362-iocs">	<img alt="stars" src="https://img.shields.io/github/stars/lithuanian-g/cve-2023-34362-iocs">
 - [horizon3ai/CVE-2023-34362](https://github.com/horizon3ai/CVE-2023-34362)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2023-34362">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2023-34362">
+- [sfewer-r7/CVE-2023-34362](https://github.com/sfewer-r7/CVE-2023-34362)	<img alt="forks" src="https://img.shields.io/github/forks/sfewer-r7/CVE-2023-34362">	<img alt="stars" src="https://img.shields.io/github/stars/sfewer-r7/CVE-2023-34362">
 
 ---
 ## CVE-2023-34096 (2023-06-08T19:15:00)
