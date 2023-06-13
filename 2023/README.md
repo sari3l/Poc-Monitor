@@ -57,6 +57,11 @@
 - [CKevens/CVE-2023-33829-POC](https://github.com/CKevens/CVE-2023-33829-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2023-33829-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2023-33829-POC">
 
 ---
+## CVE-2023-33817 ()
+> 
+- [leekenghwa/CVE-2023-33817---SQL-Injection-found-in-HotelDruid-3.0.5](https://github.com/leekenghwa/CVE-2023-33817---SQL-Injection-found-in-HotelDruid-3.0.5)	<img alt="forks" src="https://img.shields.io/github/forks/leekenghwa/CVE-2023-33817---SQL-Injection-found-in-HotelDruid-3.0.5">	<img alt="stars" src="https://img.shields.io/github/stars/leekenghwa/CVE-2023-33817---SQL-Injection-found-in-HotelDruid-3.0.5">
+
+---
 ## CVE-2023-33782 (2023-06-07T01:15:00)
 > D-Link DIR-842V2 v1.0.3 was discovered to contain a command injection vulnerability via the iperf3 diagnostics function.
 - [s0tr/CVE-2023-33782](https://github.com/s0tr/CVE-2023-33782)	<img alt="forks" src="https://img.shields.io/github/forks/s0tr/CVE-2023-33782">	<img alt="stars" src="https://img.shields.io/github/stars/s0tr/CVE-2023-33782">
