@@ -7701,8 +7701,8 @@
 - [Live-Hack-CVE/CVE-2021-21313](https://github.com/Live-Hack-CVE/CVE-2021-21313)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21313">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21313">
 
 ---
-## CVE-2021-21311 ()
-> 
+## CVE-2021-21311 (2021-02-11T21:15:00)
+> Adminer is an open-source database management in a single PHP file. In adminer from version 4.0.0 and before 4.7.9 there is a server-side request forgery vulnerability. Users of Adminer versions bundling all drivers (e.g. `adminer.php`) are affected. This is fixed in version 4.7.9.
 - [omoknooni/CVE-2021-21311](https://github.com/omoknooni/CVE-2021-21311)	<img alt="forks" src="https://img.shields.io/github/forks/omoknooni/CVE-2021-21311">	<img alt="stars" src="https://img.shields.io/github/stars/omoknooni/CVE-2021-21311">
 - [llhala/CVE-2021-21311](https://github.com/llhala/CVE-2021-21311)	<img alt="forks" src="https://img.shields.io/github/forks/llhala/CVE-2021-21311">	<img alt="stars" src="https://img.shields.io/github/stars/llhala/CVE-2021-21311">
 
