@@ -4536,6 +4536,7 @@
 - [magicming200/CVE-2020-10199_CVE-2020-10204](https://github.com/magicming200/CVE-2020-10199_CVE-2020-10204)	<img alt="forks" src="https://img.shields.io/github/forks/magicming200/CVE-2020-10199_CVE-2020-10204">	<img alt="stars" src="https://img.shields.io/github/stars/magicming200/CVE-2020-10199_CVE-2020-10204">
 - [jas502n/CVE-2020-10199](https://github.com/jas502n/CVE-2020-10199)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2020-10199">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2020-10199">
 - [wsfengfan/CVE-2020-10199-10204](https://github.com/wsfengfan/CVE-2020-10199-10204)	<img alt="forks" src="https://img.shields.io/github/forks/wsfengfan/CVE-2020-10199-10204">	<img alt="stars" src="https://img.shields.io/github/stars/wsfengfan/CVE-2020-10199-10204">
+- [hugosg97/-CVE-2020-10199-Nexus-3.21.1-](https://github.com/hugosg97/-CVE-2020-10199-Nexus-3.21.1-)	<img alt="forks" src="https://img.shields.io/github/forks/hugosg97/-CVE-2020-10199-Nexus-3.21.1-">	<img alt="stars" src="https://img.shields.io/github/stars/hugosg97/-CVE-2020-10199-Nexus-3.21.1-">
 
 ---
 ## CVE-2020-10189 (2020-03-06T17:15:00)
