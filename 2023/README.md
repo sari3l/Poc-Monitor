@@ -151,6 +151,8 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [Serendipity-Lucky/CVE-2023-33246](https://github.com/Serendipity-Lucky/CVE-2023-33246)	<img alt="forks" src="https://img.shields.io/github/forks/Serendipity-Lucky/CVE-2023-33246">	<img alt="stars" src="https://img.shields.io/github/stars/Serendipity-Lucky/CVE-2023-33246">
 - [hheeyywweellccoommee/CVE-2023-33246-rnkku](https://github.com/hheeyywweellccoommee/CVE-2023-33246-rnkku)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-33246-rnkku">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-33246-rnkku">
 - [v0ita/rocketMq_RCE](https://github.com/v0ita/rocketMq_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/v0ita/rocketMq_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/v0ita/rocketMq_RCE">
+- [Devil0ll/CVE-2023-33246](https://github.com/Devil0ll/CVE-2023-33246)	<img alt="forks" src="https://img.shields.io/github/forks/Devil0ll/CVE-2023-33246">	<img alt="stars" src="https://img.shields.io/github/stars/Devil0ll/CVE-2023-33246">
+- [hheeyywweellccoommee/CVE-2023-33246-dgjfd](https://github.com/hheeyywweellccoommee/CVE-2023-33246-dgjfd)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-33246-dgjfd">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-33246-dgjfd">
 
 ---
 ## CVE-2023-33243 ()
