@@ -586,8 +586,8 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [gbrsh/CVE-2023-28121](https://github.com/gbrsh/CVE-2023-28121)	<img alt="forks" src="https://img.shields.io/github/forks/gbrsh/CVE-2023-28121">	<img alt="stars" src="https://img.shields.io/github/stars/gbrsh/CVE-2023-28121">
 
 ---
-## CVE-2023-27997 ()
-> 
+## CVE-2023-27997 (2023-06-13T09:15:00)
+> A heap-based buffer overflow vulnerability [CWE-122] in FortiOS version 7.2.4 and below, version 7.0.11 and below, version 6.4.12 and below, version 6.0.16 and below and FortiProxy version 7.2.3 and below, version 7.0.9 and below, version 2.0.12 and below, version 1.2 all versions, version 1.1 all versions SSL-VPN may allow a remote attacker to execute arbitrary code or commands via specifically crafted requests.
 - [Socra69/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability](https://github.com/Socra69/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Socra69/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Socra69/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability">
 
 ---
