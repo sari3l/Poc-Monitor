@@ -1842,6 +1842,11 @@
 - [Live-Hack-CVE/CVE-2019-17498](https://github.com/Live-Hack-CVE/CVE-2019-17498)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17498">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17498">
 
 ---
+## CVE-2019-17495 (2019-10-10T22:15:00)
+> A Cascading Style Sheets (CSS) injection vulnerability in Swagger UI before 3.23.11 allows attackers to use the Relative Path Overwrite (RPO) technique to perform CSS-based input field value exfiltration, such as exfiltration of a CSRF token value. In other words, this product intentionally allows the embedding of untrusted JSON data from remote servers, but it was not previously known that <style>@import within the JSON data was a functional attack method.
+- [Yh4r3DvR0/CVE-2019-17495](https://github.com/Yh4r3DvR0/CVE-2019-17495)	<img alt="forks" src="https://img.shields.io/github/forks/Yh4r3DvR0/CVE-2019-17495">	<img alt="stars" src="https://img.shields.io/github/stars/Yh4r3DvR0/CVE-2019-17495">
+
+---
 ## CVE-2019-17402 (2019-10-09T19:15:00)
 > Exiv2 0.27.2 allows attackers to trigger a crash in Exiv2::getULong in types.cpp when called from Exiv2::Internal::CiffDirectory::readDirectory in crwimage_int.cpp, because there is no validation of the relationship of the total size to the offset and size.
 - [Live-Hack-CVE/CVE-2019-17402](https://github.com/Live-Hack-CVE/CVE-2019-17402)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17402">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17402">
