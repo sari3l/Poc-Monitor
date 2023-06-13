@@ -36,8 +36,8 @@
 - [Aituglo/CVE-2023-34960](https://github.com/Aituglo/CVE-2023-34960)	<img alt="forks" src="https://img.shields.io/github/forks/Aituglo/CVE-2023-34960">	<img alt="stars" src="https://img.shields.io/github/stars/Aituglo/CVE-2023-34960">
 
 ---
-## CVE-2023-34537 ()
-> 
+## CVE-2023-34537 (2023-06-13T21:15:00)
+> A Reflected XSS was discovered in HotelDruid version 3.0.5, an attacker can issue malicious code/command on affected webpage's parameter to trick user on browser and/or exfiltrate data.
 - [leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5](https://github.com/leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5)	<img alt="forks" src="https://img.shields.io/github/forks/leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5">	<img alt="stars" src="https://img.shields.io/github/stars/leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5">
 - [leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5](https://github.com/leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5)	<img alt="forks" src="https://img.shields.io/github/forks/leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5">	<img alt="stars" src="https://img.shields.io/github/stars/leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5">
 
@@ -68,8 +68,8 @@
 - [CKevens/CVE-2023-33829-POC](https://github.com/CKevens/CVE-2023-33829-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2023-33829-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2023-33829-POC">
 
 ---
-## CVE-2023-33817 ()
-> 
+## CVE-2023-33817 (2023-06-13T21:15:00)
+> hoteldruid v3.0.5 was discovered to contain a SQL injection vulnerability.
 - [leekenghwa/CVE-2023-33817---SQL-Injection-found-in-HotelDruid-3.0.5](https://github.com/leekenghwa/CVE-2023-33817---SQL-Injection-found-in-HotelDruid-3.0.5)	<img alt="forks" src="https://img.shields.io/github/forks/leekenghwa/CVE-2023-33817---SQL-Injection-found-in-HotelDruid-3.0.5">	<img alt="stars" src="https://img.shields.io/github/stars/leekenghwa/CVE-2023-33817---SQL-Injection-found-in-HotelDruid-3.0.5">
 
 ---
@@ -650,6 +650,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [darthvander20/whatsapp-zero-day-exploit](https://github.com/darthvander20/whatsapp-zero-day-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/darthvander20/whatsapp-zero-day-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/darthvander20/whatsapp-zero-day-exploit">
 - [darthvander20/discord-zero-day-exploit](https://github.com/darthvander20/discord-zero-day-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/darthvander20/discord-zero-day-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/darthvander20/discord-zero-day-exploit">
 - [Pari-Malam/CVE-2023-27350](https://github.com/Pari-Malam/CVE-2023-27350)	<img alt="forks" src="https://img.shields.io/github/forks/Pari-Malam/CVE-2023-27350">	<img alt="stars" src="https://img.shields.io/github/stars/Pari-Malam/CVE-2023-27350">
+- [Jenderal92/CVE-2023-27350](https://github.com/Jenderal92/CVE-2023-27350)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2023-27350">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2023-27350">
 
 ---
 ## CVE-2023-27326 ()
