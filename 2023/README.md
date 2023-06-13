@@ -119,8 +119,8 @@
 - [duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC](https://github.com/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC)	<img alt="forks" src="https://img.shields.io/github/forks/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC">	<img alt="stars" src="https://img.shields.io/github/stars/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC">
 
 ---
-## CVE-2023-33253 ()
-> 
+## CVE-2023-33253 (2023-06-12T13:15:00)
+> LabCollector 6.0 though 6.15 allows remote code execution. An authenticated remote low-privileged user can upload an executable PHP file and execute system commands. The vulnerability is in the message function, and is due to insufficient validation of the file (such as shell.jpg.php.shell) being sent.
 - [Toxich4/CVE-2023-33253](https://github.com/Toxich4/CVE-2023-33253)	<img alt="forks" src="https://img.shields.io/github/forks/Toxich4/CVE-2023-33253">	<img alt="stars" src="https://img.shields.io/github/stars/Toxich4/CVE-2023-33253">
 
 ---
