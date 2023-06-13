@@ -26,8 +26,8 @@
 - [Trinadh465/linux_4.19.72_CVE-2023-42896](https://github.com/Trinadh465/linux_4.19.72_CVE-2023-42896)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux_4.19.72_CVE-2023-42896">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux_4.19.72_CVE-2023-42896">
 
 ---
-## CVE-2023-34965 ()
-> 
+## CVE-2023-34965 (2023-06-13T19:15:00)
+> SSPanel-Uim 2023.3 does not restrict access to the /link/ interface which can lead to a leak of user information.
 - [AgentY0/CVE-2023-34965](https://github.com/AgentY0/CVE-2023-34965)	<img alt="forks" src="https://img.shields.io/github/forks/AgentY0/CVE-2023-34965">	<img alt="stars" src="https://img.shields.io/github/stars/AgentY0/CVE-2023-34965">
 
 ---
