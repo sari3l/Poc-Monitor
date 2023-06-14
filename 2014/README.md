@@ -549,3 +549,8 @@
 ## CVE-2014-0098 (2014-03-18T05:18:00)
 > The log_cookie function in mod_log_config.c in the mod_log_config module in the Apache HTTP Server before 2.4.8 allows remote attackers to cause a denial of service (segmentation fault and daemon crash) via a crafted cookie that is not properly handled during truncation.
 - [Live-Hack-CVE/CVE-2014-0098](https://github.com/Live-Hack-CVE/CVE-2014-0098)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-0098">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-0098">
+
+---
+## CVE-2014-0094 (2014-03-11T13:00:00)
+> The ParametersInterceptor in Apache Struts before 2.3.16.2 allows remote attackers to "manipulate" the ClassLoader via the class parameter, which is passed to the getClass method.
+- [y0d3n/CVE-2014-0094](https://github.com/y0d3n/CVE-2014-0094)	<img alt="forks" src="https://img.shields.io/github/forks/y0d3n/CVE-2014-0094">	<img alt="stars" src="https://img.shields.io/github/stars/y0d3n/CVE-2014-0094">
