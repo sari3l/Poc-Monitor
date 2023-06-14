@@ -195,6 +195,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [86x/CVE-2023-32353-PoC](https://github.com/86x/CVE-2023-32353-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/86x/CVE-2023-32353-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/86x/CVE-2023-32353-PoC">
 
 ---
+## CVE-2023-32315 (2023-05-26T23:15:00)
+> Openfire is an XMPP server licensed under the Open Source Apache License. Openfire's administrative console, a web-based application, was found to be vulnerable to a path traversal attack via the setup environment. This permitted an unauthenticated user to use the unauthenticated Openfire Setup Environment in an already configured Openfire environment to access restricted pages in the Openfire Admin Console reserved for administrative users. This vulnerability affects all versions of Openfire that have been released since April 2015, starting with version 3.10.0. The problem has been patched in Openfire release 4.7.5 and 4.6.8, and further improvements will be included in the yet-to-be released first version on the 4.8 branch (which is expected to be version 4.8.0). Users are advised to upgrade. If an Openfire upgrade isn’t available for a specific release, or isn’t quickly actionable, users may see the linked github advisory (GHSA-gw42-f939-fhvm) for mitigation advice.
+- [ohnonoyesyes/CVE-2023-32315](https://github.com/ohnonoyesyes/CVE-2023-32315)	<img alt="forks" src="https://img.shields.io/github/forks/ohnonoyesyes/CVE-2023-32315">	<img alt="stars" src="https://img.shields.io/github/stars/ohnonoyesyes/CVE-2023-32315">
+
+---
 ## CVE-2023-32243 (2023-05-12T08:15:00)
 > Improper Authentication vulnerability in WPDeveloper Essential Addons for Elementor allows Privilege Escalation. This issue affects Essential Addons for Elementor: from 5.4.0 through 5.7.1.
 - [little44n1o/cve-2023-32243](https://github.com/little44n1o/cve-2023-32243)	<img alt="forks" src="https://img.shields.io/github/forks/little44n1o/cve-2023-32243">	<img alt="stars" src="https://img.shields.io/github/stars/little44n1o/cve-2023-32243">
