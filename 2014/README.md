@@ -554,3 +554,4 @@
 ## CVE-2014-0094 (2014-03-11T13:00:00)
 > The ParametersInterceptor in Apache Struts before 2.3.16.2 allows remote attackers to "manipulate" the ClassLoader via the class parameter, which is passed to the getClass method.
 - [y0d3n/CVE-2014-0094](https://github.com/y0d3n/CVE-2014-0094)	<img alt="forks" src="https://img.shields.io/github/forks/y0d3n/CVE-2014-0094">	<img alt="stars" src="https://img.shields.io/github/stars/y0d3n/CVE-2014-0094">
+- [HasegawaTadamitsu/CVE-2014-0094-test-program-for-struts1](https://github.com/HasegawaTadamitsu/CVE-2014-0094-test-program-for-struts1)	<img alt="forks" src="https://img.shields.io/github/forks/HasegawaTadamitsu/CVE-2014-0094-test-program-for-struts1">	<img alt="stars" src="https://img.shields.io/github/stars/HasegawaTadamitsu/CVE-2014-0094-test-program-for-struts1">
