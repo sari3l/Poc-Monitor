@@ -2582,6 +2582,7 @@
 - [arthepsy/CVE-2021-4034](https://github.com/arthepsy/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/arthepsy/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/arthepsy/CVE-2021-4034">
 - [A1vinSmith/CVE-2021-4034](https://github.com/A1vinSmith/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/A1vinSmith/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/A1vinSmith/CVE-2021-4034">
 - [zxc2007/CVE-2021-4034](https://github.com/zxc2007/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/zxc2007/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/zxc2007/CVE-2021-4034">
+- [TheSermux/CVE-2021-4034](https://github.com/TheSermux/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/TheSermux/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/TheSermux/CVE-2021-4034">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
