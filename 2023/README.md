@@ -198,6 +198,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 ## CVE-2023-32315 (2023-05-26T23:15:00)
 > Openfire is an XMPP server licensed under the Open Source Apache License. Openfire's administrative console, a web-based application, was found to be vulnerable to a path traversal attack via the setup environment. This permitted an unauthenticated user to use the unauthenticated Openfire Setup Environment in an already configured Openfire environment to access restricted pages in the Openfire Admin Console reserved for administrative users. This vulnerability affects all versions of Openfire that have been released since April 2015, starting with version 3.10.0. The problem has been patched in Openfire release 4.7.5 and 4.6.8, and further improvements will be included in the yet-to-be released first version on the 4.8 branch (which is expected to be version 4.8.0). Users are advised to upgrade. If an Openfire upgrade isn’t available for a specific release, or isn’t quickly actionable, users may see the linked github advisory (GHSA-gw42-f939-fhvm) for mitigation advice.
 - [ohnonoyesyes/CVE-2023-32315](https://github.com/ohnonoyesyes/CVE-2023-32315)	<img alt="forks" src="https://img.shields.io/github/forks/ohnonoyesyes/CVE-2023-32315">	<img alt="stars" src="https://img.shields.io/github/stars/ohnonoyesyes/CVE-2023-32315">
+- [tangxiaofeng7/CVE-2023-32315-openfire-idor](https://github.com/tangxiaofeng7/CVE-2023-32315-openfire-idor)	<img alt="forks" src="https://img.shields.io/github/forks/tangxiaofeng7/CVE-2023-32315-openfire-idor">	<img alt="stars" src="https://img.shields.io/github/stars/tangxiaofeng7/CVE-2023-32315-openfire-idor">
 
 ---
 ## CVE-2023-32243 (2023-05-12T08:15:00)
@@ -560,6 +561,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 > OS command injection affects Altenergy Power Control Software C1.2.5 via shell metacharacters in the index.php/management/set_timezone timezone parameter, because of set_timezone in models/management_model.php.
 - [gobysec/CVE-2023-28343](https://github.com/gobysec/CVE-2023-28343)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/CVE-2023-28343">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/CVE-2023-28343">
 - [superzerosec/CVE-2023-28343](https://github.com/superzerosec/CVE-2023-28343)	<img alt="forks" src="https://img.shields.io/github/forks/superzerosec/CVE-2023-28343">	<img alt="stars" src="https://img.shields.io/github/stars/superzerosec/CVE-2023-28343">
+
+---
+## CVE-2023-28310 ()
+> 
+- [wh-gov/cve-2023-28310](https://github.com/wh-gov/cve-2023-28310)	<img alt="forks" src="https://img.shields.io/github/forks/wh-gov/cve-2023-28310">	<img alt="stars" src="https://img.shields.io/github/stars/wh-gov/cve-2023-28310">
 
 ---
 ## CVE-2023-2825 (2023-05-26T21:15:00)
