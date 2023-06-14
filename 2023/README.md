@@ -26,6 +26,11 @@
 - [Trinadh465/linux_4.19.72_CVE-2023-42896](https://github.com/Trinadh465/linux_4.19.72_CVE-2023-42896)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux_4.19.72_CVE-2023-42896">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux_4.19.72_CVE-2023-42896">
 
 ---
+## CVE-2023-36544 ()
+> 
+- [KOwloid/cve-2023-36544](https://github.com/KOwloid/cve-2023-36544)	<img alt="forks" src="https://img.shields.io/github/forks/KOwloid/cve-2023-36544">	<img alt="stars" src="https://img.shields.io/github/stars/KOwloid/cve-2023-36544">
+
+---
 ## CVE-2023-34965 (2023-06-13T19:15:00)
 > SSPanel-Uim 2023.3 does not restrict access to the /link/ interface which can lead to a leak of user information.
 - [AgentY0/CVE-2023-34965](https://github.com/AgentY0/CVE-2023-34965)	<img alt="forks" src="https://img.shields.io/github/forks/AgentY0/CVE-2023-34965">	<img alt="stars" src="https://img.shields.io/github/stars/AgentY0/CVE-2023-34965">
@@ -639,6 +644,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [MaanVader/CVE-2023-27524-POC](https://github.com/MaanVader/CVE-2023-27524-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MaanVader/CVE-2023-27524-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MaanVader/CVE-2023-27524-POC">
 - [Pari-Malam/CVE-2023-27524](https://github.com/Pari-Malam/CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/Pari-Malam/CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/Pari-Malam/CVE-2023-27524">
 - [TardC/CVE-2023-27524](https://github.com/TardC/CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/TardC/CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/TardC/CVE-2023-27524">
+
+---
+## CVE-2023-27363 ()
+> 
+- [webraybtl/CVE-2023-27363](https://github.com/webraybtl/CVE-2023-27363)	<img alt="forks" src="https://img.shields.io/github/forks/webraybtl/CVE-2023-27363">	<img alt="stars" src="https://img.shields.io/github/stars/webraybtl/CVE-2023-27363">
 
 ---
 ## CVE-2023-27350 (2023-04-20T16:15:00)
