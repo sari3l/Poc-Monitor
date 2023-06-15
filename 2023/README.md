@@ -46,8 +46,8 @@
 - [ChrisL0tus/CVE-2023-34924](https://github.com/ChrisL0tus/CVE-2023-34924)	<img alt="forks" src="https://img.shields.io/github/forks/ChrisL0tus/CVE-2023-34924">	<img alt="stars" src="https://img.shields.io/github/stars/ChrisL0tus/CVE-2023-34924">
 
 ---
-## CVE-2023-34852 ()
-> 
+## CVE-2023-34852 (2023-06-15T20:15:00)
+> PublicCMS <=V4.0.202302 is vulnerable to Insecure Permissions.
 - [funny-kill/CVE-2023-34852](https://github.com/funny-kill/CVE-2023-34852)	<img alt="forks" src="https://img.shields.io/github/forks/funny-kill/CVE-2023-34852">	<img alt="stars" src="https://img.shields.io/github/stars/funny-kill/CVE-2023-34852">
 
 ---
@@ -187,8 +187,8 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [hheeyywweellccoommee/CVE-2023-33246-dgjfd](https://github.com/hheeyywweellccoommee/CVE-2023-33246-dgjfd)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-33246-dgjfd">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-33246-dgjfd">
 
 ---
-## CVE-2023-33243 ()
-> 
+## CVE-2023-33243 (2023-06-15T20:15:00)
+> RedTeam Pentesting discovered that the web interface of STARFACE as well as its REST API allows authentication using the SHA512 hash of the password instead of the cleartext password. While storing password hashes instead of cleartext passwords in an application's database generally has become best practice to protect users' passwords in case of a database compromise, this is rendered ineffective when allowing to authenticate using the password hash.
 - [RedTeamPentesting/CVE-2023-33243](https://github.com/RedTeamPentesting/CVE-2023-33243)	<img alt="forks" src="https://img.shields.io/github/forks/RedTeamPentesting/CVE-2023-33243">	<img alt="stars" src="https://img.shields.io/github/stars/RedTeamPentesting/CVE-2023-33243">
 
 ---
