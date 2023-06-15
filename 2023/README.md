@@ -41,6 +41,11 @@
 - [Aituglo/CVE-2023-34960](https://github.com/Aituglo/CVE-2023-34960)	<img alt="forks" src="https://img.shields.io/github/forks/Aituglo/CVE-2023-34960">	<img alt="stars" src="https://img.shields.io/github/stars/Aituglo/CVE-2023-34960">
 
 ---
+## CVE-2023-34924 ()
+> 
+- [ChrisL0tus/CVE-2023-34924](https://github.com/ChrisL0tus/CVE-2023-34924)	<img alt="forks" src="https://img.shields.io/github/forks/ChrisL0tus/CVE-2023-34924">	<img alt="stars" src="https://img.shields.io/github/stars/ChrisL0tus/CVE-2023-34924">
+
+---
 ## CVE-2023-34852 ()
 > 
 - [funny-kill/CVE-2023-34852](https://github.com/funny-kill/CVE-2023-34852)	<img alt="forks" src="https://img.shields.io/github/forks/funny-kill/CVE-2023-34852">	<img alt="stars" src="https://img.shields.io/github/stars/funny-kill/CVE-2023-34852">
