@@ -41,6 +41,11 @@
 - [Aituglo/CVE-2023-34960](https://github.com/Aituglo/CVE-2023-34960)	<img alt="forks" src="https://img.shields.io/github/forks/Aituglo/CVE-2023-34960">	<img alt="stars" src="https://img.shields.io/github/stars/Aituglo/CVE-2023-34960">
 
 ---
+## CVE-2023-34852 ()
+> 
+- [funny-kill/CVE-2023-34852](https://github.com/funny-kill/CVE-2023-34852)	<img alt="forks" src="https://img.shields.io/github/forks/funny-kill/CVE-2023-34852">	<img alt="stars" src="https://img.shields.io/github/stars/funny-kill/CVE-2023-34852">
+
+---
 ## CVE-2023-34537 (2023-06-13T21:15:00)
 > A Reflected XSS was discovered in HotelDruid version 3.0.5, an attacker can issue malicious code/command on affected webpage's parameter to trick user on browser and/or exfiltrate data.
 - [leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5](https://github.com/leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5)	<img alt="forks" src="https://img.shields.io/github/forks/leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5">	<img alt="stars" src="https://img.shields.io/github/stars/leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5">
@@ -200,6 +205,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [ohnonoyesyes/CVE-2023-32315](https://github.com/ohnonoyesyes/CVE-2023-32315)	<img alt="forks" src="https://img.shields.io/github/forks/ohnonoyesyes/CVE-2023-32315">	<img alt="stars" src="https://img.shields.io/github/stars/ohnonoyesyes/CVE-2023-32315">
 - [tangxiaofeng7/CVE-2023-32315-openfire-idor](https://github.com/tangxiaofeng7/CVE-2023-32315-openfire-idor)	<img alt="forks" src="https://img.shields.io/github/forks/tangxiaofeng7/CVE-2023-32315-openfire-idor">	<img alt="stars" src="https://img.shields.io/github/stars/tangxiaofeng7/CVE-2023-32315-openfire-idor">
 - [tangxiaofeng7/CVE-2023-32315-Openfire-Bypass](https://github.com/tangxiaofeng7/CVE-2023-32315-Openfire-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/tangxiaofeng7/CVE-2023-32315-Openfire-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/tangxiaofeng7/CVE-2023-32315-Openfire-Bypass">
+- [5rGJ5aCh5oCq5YW9/CVE-2023-32315exp](https://github.com/5rGJ5aCh5oCq5YW9/CVE-2023-32315exp)	<img alt="forks" src="https://img.shields.io/github/forks/5rGJ5aCh5oCq5YW9/CVE-2023-32315exp">	<img alt="stars" src="https://img.shields.io/github/stars/5rGJ5aCh5oCq5YW9/CVE-2023-32315exp">
 
 ---
 ## CVE-2023-32243 (2023-05-12T08:15:00)
