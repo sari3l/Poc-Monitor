@@ -6681,6 +6681,11 @@
 - [Live-Hack-CVE/CVE-2021-24649](https://github.com/Live-Hack-CVE/CVE-2021-24649)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24649">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24649">
 
 ---
+## CVE-2021-24647 (2021-11-08T18:15:00)
+> The Registration Forms â€“ User profile, Content Restriction, Spam Protection, Payment Gateways, Invitation Codes WordPress plugin before 3.1.7.6 has a flaw in the social login implementation, allowing unauthenticated attacker to login as any user on the site by only knowing their user ID or username
+- [RandomRobbieBF/CVE-2021-24647](https://github.com/RandomRobbieBF/CVE-2021-24647)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2021-24647">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2021-24647">
+
+---
 ## CVE-2021-24642 (2021-10-18T14:15:00)
 > The Scroll Baner WordPress plugin through 1.0 does not have CSRF check in place when saving its settings, nor perform any sanitisation, escaping or validation on them. This could allow attackers to make logged in admin change them and could lead to RCE (via a file upload) as well as XSS
 - [Live-Hack-CVE/CVE-2021-24642](https://github.com/Live-Hack-CVE/CVE-2021-24642)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24642">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24642">
