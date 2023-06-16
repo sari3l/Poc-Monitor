@@ -627,6 +627,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [Socra69/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability](https://github.com/Socra69/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Socra69/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Socra69/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability">
 - [hheeyywweellccoommee/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability-ssijz](https://github.com/hheeyywweellccoommee/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability-ssijz)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability-ssijz">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability-ssijz">
 - [Pik-sec/cve-2023-27997](https://github.com/Pik-sec/cve-2023-27997)	<img alt="forks" src="https://img.shields.io/github/forks/Pik-sec/cve-2023-27997">	<img alt="stars" src="https://img.shields.io/github/stars/Pik-sec/cve-2023-27997">
+- [rio128128/CVE-2023-27997-POC](https://github.com/rio128128/CVE-2023-27997-POC)	<img alt="forks" src="https://img.shields.io/github/forks/rio128128/CVE-2023-27997-POC">	<img alt="stars" src="https://img.shields.io/github/stars/rio128128/CVE-2023-27997-POC">
 
 ---
 ## CVE-2023-27842 (2023-03-21T15:15:00)
