@@ -860,6 +860,7 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [l1ced/CVE-2023-25610-mass](https://github.com/l1ced/CVE-2023-25610-mass)	<img alt="forks" src="https://img.shields.io/github/forks/l1ced/CVE-2023-25610-mass">	<img alt="stars" src="https://img.shields.io/github/stars/l1ced/CVE-2023-25610-mass">
 - [PSIRT-REPO/CVE-2023-25610](https://github.com/PSIRT-REPO/CVE-2023-25610)	<img alt="forks" src="https://img.shields.io/github/forks/PSIRT-REPO/CVE-2023-25610">	<img alt="stars" src="https://img.shields.io/github/stars/PSIRT-REPO/CVE-2023-25610">
 - [FortiSecurity/CVE-2023-25610](https://github.com/FortiSecurity/CVE-2023-25610)	<img alt="forks" src="https://img.shields.io/github/forks/FortiSecurity/CVE-2023-25610">	<img alt="stars" src="https://img.shields.io/github/stars/FortiSecurity/CVE-2023-25610">
+- [qi4L/CVE-2023-25610](https://github.com/qi4L/CVE-2023-25610)	<img alt="forks" src="https://img.shields.io/github/forks/qi4L/CVE-2023-25610">	<img alt="stars" src="https://img.shields.io/github/stars/qi4L/CVE-2023-25610">
 
 ---
 ## CVE-2023-25292 (2023-04-27T01:15:00)
