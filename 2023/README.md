@@ -366,6 +366,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [drkbcn/https-nvd.nist.gov-vuln-detail-CVE-2023-30839](https://github.com/drkbcn/https-nvd.nist.gov-vuln-detail-CVE-2023-30839)	<img alt="forks" src="https://img.shields.io/github/forks/drkbcn/https-nvd.nist.gov-vuln-detail-CVE-2023-30839">	<img alt="stars" src="https://img.shields.io/github/stars/drkbcn/https-nvd.nist.gov-vuln-detail-CVE-2023-30839">
 
 ---
+## CVE-2023-30777 (2023-05-10T06:15:00)
+> Unauth. Reflected Cross-Site Scripting (XSS) vulnerability in WP Engine Advanced Custom Fields Pro, WP Engine Advanced Custom Fields plugins <= 6.1.5 versions.
+- [Alucard0x1/CVE-2023-30777](https://github.com/Alucard0x1/CVE-2023-30777)	<img alt="forks" src="https://img.shields.io/github/forks/Alucard0x1/CVE-2023-30777">	<img alt="stars" src="https://img.shields.io/github/stars/Alucard0x1/CVE-2023-30777">
+
+---
 ## CVE-2023-30459 (2023-04-14T15:15:00)
 > SmartPTT SCADA 1.1.0.0 allows remote code execution (when the attacker has administrator privileges) by writing a malicious C# script and executing it on the server (via server settings in the administrator control panel on port 8101, by default).
 - [Toxich4/CVE-2023-30459](https://github.com/Toxich4/CVE-2023-30459)	<img alt="forks" src="https://img.shields.io/github/forks/Toxich4/CVE-2023-30459">	<img alt="stars" src="https://img.shields.io/github/stars/Toxich4/CVE-2023-30459">
