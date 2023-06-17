@@ -952,6 +952,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [angelopioamirante/CVE-2023-24317](https://github.com/angelopioamirante/CVE-2023-24317)	<img alt="forks" src="https://img.shields.io/github/forks/angelopioamirante/CVE-2023-24317">	<img alt="stars" src="https://img.shields.io/github/stars/angelopioamirante/CVE-2023-24317">
 
 ---
+## CVE-2023-24078 (2023-02-17T07:15:00)
+> Real Time Logic FuguHub v8.1 and earlier was discovered to contain a remote code execution (RCE) vulnerability via the component /FuguHub/cmsdocs/.
+- [overgrowncarrot1/CVE-2023-24078](https://github.com/overgrowncarrot1/CVE-2023-24078)	<img alt="forks" src="https://img.shields.io/github/forks/overgrowncarrot1/CVE-2023-24078">	<img alt="stars" src="https://img.shields.io/github/stars/overgrowncarrot1/CVE-2023-24078">
+
+---
 ## CVE-2023-24055 (2023-01-22T04:15:00)
 > ** DISPUTED ** KeePass through 2.53 (in a default installation) allows an attacker, who has write access to the XML configuration file, to obtain the cleartext passwords by adding an export trigger. NOTE: the vendor's position is that the password database is not intended to be secure against an attacker who has that level of access to the local PC.
 - [deetl/CVE-2023-24055](https://github.com/deetl/CVE-2023-24055)	<img alt="forks" src="https://img.shields.io/github/forks/deetl/CVE-2023-24055">	<img alt="stars" src="https://img.shields.io/github/stars/deetl/CVE-2023-24055">
