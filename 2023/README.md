@@ -956,6 +956,7 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 ## CVE-2023-24078 (2023-02-17T07:15:00)
 > Real Time Logic FuguHub v8.1 and earlier was discovered to contain a remote code execution (RCE) vulnerability via the component /FuguHub/cmsdocs/.
 - [overgrowncarrot1/CVE-2023-24078](https://github.com/overgrowncarrot1/CVE-2023-24078)	<img alt="forks" src="https://img.shields.io/github/forks/overgrowncarrot1/CVE-2023-24078">	<img alt="stars" src="https://img.shields.io/github/stars/overgrowncarrot1/CVE-2023-24078">
+- [rio128128/CVE-2023-24078](https://github.com/rio128128/CVE-2023-24078)	<img alt="forks" src="https://img.shields.io/github/forks/rio128128/CVE-2023-24078">	<img alt="stars" src="https://img.shields.io/github/stars/rio128128/CVE-2023-24078">
 
 ---
 ## CVE-2023-24055 (2023-01-22T04:15:00)
