@@ -5611,6 +5611,11 @@
 - [daedalus/CVE-2021-30461](https://github.com/daedalus/CVE-2021-30461)	<img alt="forks" src="https://img.shields.io/github/forks/daedalus/CVE-2021-30461">	<img alt="stars" src="https://img.shields.io/github/stars/daedalus/CVE-2021-30461">
 
 ---
+## CVE-2021-30357 (2021-06-08T14:15:00)
+> SSL Network Extender Client for Linux before build 800008302 reveals part of the contents of the configuration file supplied, which allows partially disclosing files to which the user did not have access.
+- [joaovarelas/CVE-2021-30357_CheckPoint_SNX_VPN_PoC](https://github.com/joaovarelas/CVE-2021-30357_CheckPoint_SNX_VPN_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/joaovarelas/CVE-2021-30357_CheckPoint_SNX_VPN_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/joaovarelas/CVE-2021-30357_CheckPoint_SNX_VPN_PoC">
+
+---
 ## CVE-2021-3024 (2021-02-01T16:15:00)
 > HashiCorp Vault and Vault Enterprise disclosed the internal IP address of the Vault node when responding to some invalid, unauthenticated HTTP requests. Fixed in 1.6.2 & 1.5.7.
 - [Live-Hack-CVE/CVE-2021-3024](https://github.com/Live-Hack-CVE/CVE-2021-3024)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3024">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3024">
