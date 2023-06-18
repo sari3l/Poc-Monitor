@@ -1391,6 +1391,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [WalccDev/CVE-2023-2033](https://github.com/WalccDev/CVE-2023-2033)	<img alt="forks" src="https://img.shields.io/github/forks/WalccDev/CVE-2023-2033">	<img alt="stars" src="https://img.shields.io/github/stars/WalccDev/CVE-2023-2033">
 
 ---
+## CVE-2023-20178 ()
+> 
+- [Wh04m1001/CVE-2023-20178](https://github.com/Wh04m1001/CVE-2023-20178)	<img alt="forks" src="https://img.shields.io/github/forks/Wh04m1001/CVE-2023-20178">	<img alt="stars" src="https://img.shields.io/github/stars/Wh04m1001/CVE-2023-20178">
+
+---
 ## CVE-2023-2008 (2023-04-14T21:15:00)
 > A flaw was found in the Linux kernel's udmabuf device driver. The specific flaw exists within a fault handler. The issue results from the lack of proper validation of user-supplied data, which can result in a memory access past the end of an array. An attacker can leverage this vulnerability to escalate privileges and execute arbitrary code in the context of the kernel.
 - [bluefrostsecurity/CVE-2023-2008](https://github.com/bluefrostsecurity/CVE-2023-2008)	<img alt="forks" src="https://img.shields.io/github/forks/bluefrostsecurity/CVE-2023-2008">	<img alt="stars" src="https://img.shields.io/github/stars/bluefrostsecurity/CVE-2023-2008">
