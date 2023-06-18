@@ -3478,6 +3478,11 @@
 - [Live-Hack-CVE/CVE-2021-3759](https://github.com/Live-Hack-CVE/CVE-2021-3759)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3759">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3759">
 
 ---
+## CVE-2021-37580 (2021-11-16T10:15:00)
+> A flaw was found in Apache ShenYu Admin. The incorrect use of JWT in ShenyuAdminBootstrap allows an attacker to bypass authentication. This issue affected Apache ShenYu 2.3.0 and 2.4.0
+- [fengwenhua/CVE-2021-37580](https://github.com/fengwenhua/CVE-2021-37580)	<img alt="forks" src="https://img.shields.io/github/forks/fengwenhua/CVE-2021-37580">	<img alt="stars" src="https://img.shields.io/github/stars/fengwenhua/CVE-2021-37580">
+
+---
 ## CVE-2021-3757 (2021-09-02T12:15:00)
 > immer is vulnerable to Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution')
 - [Live-Hack-CVE/CVE-2021-3757](https://github.com/Live-Hack-CVE/CVE-2021-3757)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3757">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3757">
