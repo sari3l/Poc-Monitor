@@ -507,6 +507,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 ## CVE-2023-29325 (2023-05-09T18:15:00)
 > Windows OLE Remote Code Execution Vulnerability
 - [a-bazi/test-CVE-2023-29325](https://github.com/a-bazi/test-CVE-2023-29325)	<img alt="forks" src="https://img.shields.io/github/forks/a-bazi/test-CVE-2023-29325">	<img alt="stars" src="https://img.shields.io/github/stars/a-bazi/test-CVE-2023-29325">
+- [a-bazi/test2-CVE-2023-29325](https://github.com/a-bazi/test2-CVE-2023-29325)	<img alt="forks" src="https://img.shields.io/github/forks/a-bazi/test2-CVE-2023-29325">	<img alt="stars" src="https://img.shields.io/github/stars/a-bazi/test2-CVE-2023-29325">
 
 ---
 ## CVE-2023-29324 (2023-05-09T18:15:00)
