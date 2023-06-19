@@ -31,6 +31,11 @@
 - [KOwloid/cve-2023-36544](https://github.com/KOwloid/cve-2023-36544)	<img alt="forks" src="https://img.shields.io/github/forks/KOwloid/cve-2023-36544">	<img alt="stars" src="https://img.shields.io/github/stars/KOwloid/cve-2023-36544">
 
 ---
+## CVE-2023-35854 ()
+> 
+- [970198175/cve-2023-35854](https://github.com/970198175/cve-2023-35854)	<img alt="forks" src="https://img.shields.io/github/forks/970198175/cve-2023-35854">	<img alt="stars" src="https://img.shields.io/github/stars/970198175/cve-2023-35854">
+
+---
 ## CVE-2023-34965 (2023-06-13T19:15:00)
 > SSPanel-Uim 2023.3 does not restrict access to the /link/ interface which can lead to a leak of user information.
 - [AgentY0/CVE-2023-34965](https://github.com/AgentY0/CVE-2023-34965)	<img alt="forks" src="https://img.shields.io/github/forks/AgentY0/CVE-2023-34965">	<img alt="stars" src="https://img.shields.io/github/stars/AgentY0/CVE-2023-34965">
