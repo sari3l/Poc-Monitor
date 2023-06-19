@@ -705,6 +705,15 @@
 - [nanabingies/CVE-2018-19321](https://github.com/nanabingies/CVE-2018-19321)	<img alt="forks" src="https://img.shields.io/github/forks/nanabingies/CVE-2018-19321">	<img alt="stars" src="https://img.shields.io/github/stars/nanabingies/CVE-2018-19321">
 
 ---
+## CVE-2018-19320 (2018-12-21T23:29:00)
+> The GDrv low-level driver in GIGABYTE APP Center v1.05.21 and earlier, AORUS GRAPHICS ENGINE before 1.57, XTREME GAMING ENGINE before 1.26, and OC GURU II v2.08 exposes ring0 memcpy-like functionality that could allow a local attacker to take complete control of the affected system.
+- [hmnthabit/CVE-2018-19320-LPE](https://github.com/hmnthabit/CVE-2018-19320-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/hmnthabit/CVE-2018-19320-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/hmnthabit/CVE-2018-19320-LPE">
+- [hfiref0x/KDU](https://github.com/hfiref0x/KDU)	<img alt="forks" src="https://img.shields.io/github/forks/hfiref0x/KDU">	<img alt="stars" src="https://img.shields.io/github/stars/hfiref0x/KDU">
+- [zer0condition/GDRVLoader](https://github.com/zer0condition/GDRVLoader)	<img alt="forks" src="https://img.shields.io/github/forks/zer0condition/GDRVLoader">	<img alt="stars" src="https://img.shields.io/github/stars/zer0condition/GDRVLoader">
+- [houseofxyz/CVE-2018-19320](https://github.com/houseofxyz/CVE-2018-19320)	<img alt="forks" src="https://img.shields.io/github/forks/houseofxyz/CVE-2018-19320">	<img alt="stars" src="https://img.shields.io/github/stars/houseofxyz/CVE-2018-19320">
+- [ASkyeye/CVE-2018-19320](https://github.com/ASkyeye/CVE-2018-19320)	<img alt="forks" src="https://img.shields.io/github/forks/ASkyeye/CVE-2018-19320">	<img alt="stars" src="https://img.shields.io/github/stars/ASkyeye/CVE-2018-19320">
+
+---
 ## CVE-2018-1932 (2019-01-08T16:29:00)
 > IBM API Connect 5.0.0.0 through 5.0.8.4 is affected by a vulnerability in the role-based access control in the management server that could allow an authenticated user to obtain highly sensitive information. IBM X-Force ID: 153175.
 - [BKreisel/CVE-2018-1932X](https://github.com/BKreisel/CVE-2018-1932X)	<img alt="forks" src="https://img.shields.io/github/forks/BKreisel/CVE-2018-1932X">	<img alt="stars" src="https://img.shields.io/github/stars/BKreisel/CVE-2018-1932X">
