@@ -656,6 +656,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [hheeyywweellccoommee/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability-ssijz](https://github.com/hheeyywweellccoommee/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability-ssijz)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability-ssijz">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability-ssijz">
 - [Pik-sec/cve-2023-27997](https://github.com/Pik-sec/cve-2023-27997)	<img alt="forks" src="https://img.shields.io/github/forks/Pik-sec/cve-2023-27997">	<img alt="stars" src="https://img.shields.io/github/stars/Pik-sec/cve-2023-27997">
 - [rio128128/CVE-2023-27997-POC](https://github.com/rio128128/CVE-2023-27997-POC)	<img alt="forks" src="https://img.shields.io/github/forks/rio128128/CVE-2023-27997-POC">	<img alt="stars" src="https://img.shields.io/github/stars/rio128128/CVE-2023-27997-POC">
+- [BishopFox/CVE-2023-27997-check](https://github.com/BishopFox/CVE-2023-27997-check)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/CVE-2023-27997-check">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/CVE-2023-27997-check">
 
 ---
 ## CVE-2023-27842 (2023-03-21T15:15:00)
