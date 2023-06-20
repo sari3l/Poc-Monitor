@@ -1459,6 +1459,7 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [CKevens/CVE-2023-1454-EXP](https://github.com/CKevens/CVE-2023-1454-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2023-1454-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2023-1454-EXP">
 - [BugFor-Pings/CVE-2023-1454](https://github.com/BugFor-Pings/CVE-2023-1454)	<img alt="forks" src="https://img.shields.io/github/forks/BugFor-Pings/CVE-2023-1454">	<img alt="stars" src="https://img.shields.io/github/stars/BugFor-Pings/CVE-2023-1454">
 - [padbergpete47/CVE-2023-1454](https://github.com/padbergpete47/CVE-2023-1454)	<img alt="forks" src="https://img.shields.io/github/forks/padbergpete47/CVE-2023-1454">	<img alt="stars" src="https://img.shields.io/github/stars/padbergpete47/CVE-2023-1454">
+- [Sweelg/Sweelg-CVE-2023-1454-Jeecg-Boot-qurestSql-SQLvuln](https://github.com/Sweelg/Sweelg-CVE-2023-1454-Jeecg-Boot-qurestSql-SQLvuln)	<img alt="forks" src="https://img.shields.io/github/forks/Sweelg/Sweelg-CVE-2023-1454-Jeecg-Boot-qurestSql-SQLvuln">	<img alt="stars" src="https://img.shields.io/github/stars/Sweelg/Sweelg-CVE-2023-1454-Jeecg-Boot-qurestSql-SQLvuln">
 
 ---
 ## CVE-2023-1430 (2023-06-09T06:15:00)
