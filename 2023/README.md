@@ -31,8 +31,8 @@
 - [KOwloid/cve-2023-36544](https://github.com/KOwloid/cve-2023-36544)	<img alt="forks" src="https://img.shields.io/github/forks/KOwloid/cve-2023-36544">	<img alt="stars" src="https://img.shields.io/github/stars/KOwloid/cve-2023-36544">
 
 ---
-## CVE-2023-35854 ()
-> 
+## CVE-2023-35854 (2023-06-20T12:15:00)
+> Zoho ManageEngine ADSelfService Plus through 6113 has an authentication bypass that can be exploited to steal the domain controller session token for identity spoofing, thereby achieving the privileges of the domain controller administrator.
 - [970198175/cve-2023-35854](https://github.com/970198175/cve-2023-35854)	<img alt="forks" src="https://img.shields.io/github/forks/970198175/cve-2023-35854">	<img alt="stars" src="https://img.shields.io/github/stars/970198175/cve-2023-35854">
 
 ---
