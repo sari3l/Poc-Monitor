@@ -164,6 +164,16 @@
 - [Thirukrishnan/CVE-2023-33408](https://github.com/Thirukrishnan/CVE-2023-33408)	<img alt="forks" src="https://img.shields.io/github/forks/Thirukrishnan/CVE-2023-33408">	<img alt="stars" src="https://img.shields.io/github/stars/Thirukrishnan/CVE-2023-33408">
 
 ---
+## CVE-2023-33405 ()
+> 
+- [hacip/CVE-2023-33405](https://github.com/hacip/CVE-2023-33405)	<img alt="forks" src="https://img.shields.io/github/forks/hacip/CVE-2023-33405">	<img alt="stars" src="https://img.shields.io/github/stars/hacip/CVE-2023-33405">
+
+---
+## CVE-2023-33404 ()
+> 
+- [hacip/CVE-2023-33404](https://github.com/hacip/CVE-2023-33404)	<img alt="forks" src="https://img.shields.io/github/forks/hacip/CVE-2023-33404">	<img alt="stars" src="https://img.shields.io/github/stars/hacip/CVE-2023-33404">
+
+---
 ## CVE-2023-33381 (2023-06-06T12:15:00)
 > A command injection vulnerability was found in the ping functionality of the MitraStar GPT-2741GNAC router (firmware version AR_g5.8_110WVN0b7_2). The vulnerability allows an authenticated user to execute arbitrary OS commands by sending specially crafted input to the router via the ping function.
 - [duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC](https://github.com/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC)	<img alt="forks" src="https://img.shields.io/github/forks/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC">	<img alt="stars" src="https://img.shields.io/github/stars/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC">
