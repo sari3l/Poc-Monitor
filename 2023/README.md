@@ -144,6 +144,11 @@
 - [Skr11lex/CVE-2023-33477](https://github.com/Skr11lex/CVE-2023-33477)	<img alt="forks" src="https://img.shields.io/github/forks/Skr11lex/CVE-2023-33477">	<img alt="stars" src="https://img.shields.io/github/stars/Skr11lex/CVE-2023-33477">
 
 ---
+## CVE-2023-33476 (2023-06-02T14:15:00)
+> ReadyMedia (MiniDLNA) versions from 1.1.15 up to 1.3.2 is vulnerable to Buffer Overflow. The vulnerability is caused by incorrect validation logic when handling HTTP requests using chunked transport encoding. This results in other code later using attacker-controlled chunk values that exceed the length of the allocated buffer, resulting in out-of-bounds read/write.
+- [mellow-hype/cve-2023-33476](https://github.com/mellow-hype/cve-2023-33476)	<img alt="forks" src="https://img.shields.io/github/forks/mellow-hype/cve-2023-33476">	<img alt="stars" src="https://img.shields.io/github/stars/mellow-hype/cve-2023-33476">
+
+---
 ## CVE-2023-33410 (2023-06-05T21:15:00)
 > Minical 1.0.0 and earlier contains a CSV injection vulnerability which allows an attacker to execute remote code. The vulnerability exists due to insufficient input validation on the Customer Name field in the Accounting module that is used to construct a CSV file.
 - [Thirukrishnan/CVE-2023-33410](https://github.com/Thirukrishnan/CVE-2023-33410)	<img alt="forks" src="https://img.shields.io/github/forks/Thirukrishnan/CVE-2023-33410">	<img alt="stars" src="https://img.shields.io/github/stars/Thirukrishnan/CVE-2023-33410">
