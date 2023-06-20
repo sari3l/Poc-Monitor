@@ -62,6 +62,11 @@
 - [leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below](https://github.com/leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below)	<img alt="forks" src="https://img.shields.io/github/forks/leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below">	<img alt="stars" src="https://img.shields.io/github/stars/leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below">
 
 ---
+## CVE-2023-34584 ()
+> 
+- [fu2x2000/-CVE-2023-34584](https://github.com/fu2x2000/-CVE-2023-34584)	<img alt="forks" src="https://img.shields.io/github/forks/fu2x2000/-CVE-2023-34584">	<img alt="stars" src="https://img.shields.io/github/stars/fu2x2000/-CVE-2023-34584">
+
+---
 ## CVE-2023-34537 (2023-06-13T21:15:00)
 > A Reflected XSS was discovered in HotelDruid version 3.0.5, an attacker can issue malicious code/command on affected webpage's parameter to trick user on browser and/or exfiltrate data.
 - [leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5](https://github.com/leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5)	<img alt="forks" src="https://img.shields.io/github/forks/leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5">	<img alt="stars" src="https://img.shields.io/github/stars/leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5">
