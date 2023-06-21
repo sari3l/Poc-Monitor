@@ -169,8 +169,8 @@
 - [Thirukrishnan/CVE-2023-33408](https://github.com/Thirukrishnan/CVE-2023-33408)	<img alt="forks" src="https://img.shields.io/github/forks/Thirukrishnan/CVE-2023-33408">	<img alt="stars" src="https://img.shields.io/github/stars/Thirukrishnan/CVE-2023-33408">
 
 ---
-## CVE-2023-33405 ()
-> 
+## CVE-2023-33405 (2023-06-21T21:15:00)
+> Blogengine.net 3.3.8.0 and earlier is vulnerable to Open Redirect.
 - [hacip/CVE-2023-33405](https://github.com/hacip/CVE-2023-33405)	<img alt="forks" src="https://img.shields.io/github/forks/hacip/CVE-2023-33405">	<img alt="stars" src="https://img.shields.io/github/stars/hacip/CVE-2023-33405">
 
 ---
