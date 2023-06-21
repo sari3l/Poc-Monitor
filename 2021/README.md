@@ -86,6 +86,11 @@
 - [Live-Hack-CVE/CVE-2021-46744](https://github.com/Live-Hack-CVE/CVE-2021-46744)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46744">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46744">
 
 ---
+## CVE-2021-46704 (2022-03-06T07:15:00)
+> In GenieACS 1.2.x before 1.2.8, the UI interface API is vulnerable to unauthenticated OS command injection via the ping host argument (lib/ui/api.ts and lib/ping.ts). The vulnerability arises from insufficient input validation combined with a missing authorization check.
+- [MithatGuner/CVE-2021-46704-POC](https://github.com/MithatGuner/CVE-2021-46704-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MithatGuner/CVE-2021-46704-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MithatGuner/CVE-2021-46704-POC">
+
+---
 ## CVE-2021-46703 (2022-03-06T06:15:00)
 > ** UNSUPPORTED WHEN ASSIGNED ** In the IsolatedRazorEngine component of Antaris RazorEngine through 4.5.1-alpha001, an attacker can execute arbitrary .NET code in a sandboxed environment (if users can externally control template contents). NOTE: This vulnerability only affects products that are no longer supported by the maintainer.
 - [BenEdridge/CVE-2021-46703](https://github.com/BenEdridge/CVE-2021-46703)	<img alt="forks" src="https://img.shields.io/github/forks/BenEdridge/CVE-2021-46703">	<img alt="stars" src="https://img.shields.io/github/stars/BenEdridge/CVE-2021-46703">
