@@ -1054,6 +1054,11 @@
 - [mgargiullo/cve-2018-1207](https://github.com/mgargiullo/cve-2018-1207)	<img alt="forks" src="https://img.shields.io/github/forks/mgargiullo/cve-2018-1207">	<img alt="stars" src="https://img.shields.io/github/stars/mgargiullo/cve-2018-1207">
 
 ---
+## CVE-2018-11776 (2018-08-22T13:29:00)
+> Apache Struts versions 2.3 to 2.3.34 and 2.5 to 2.5.16 suffer from possible Remote Code Execution when alwaysSelectFullNamespace is true (either by user or a plugin like Convention Plugin) and then: results are used with no namespace and in same time, its upper package have no or wildcard namespace and similar to results, same possibility when using url tag which doesn't have value and action set and in same time, its upper package have no or wildcard namespace.
+- [tsong0ku/CVE-2018-11776-FIS](https://github.com/tsong0ku/CVE-2018-11776-FIS)	<img alt="forks" src="https://img.shields.io/github/forks/tsong0ku/CVE-2018-11776-FIS">	<img alt="stars" src="https://img.shields.io/github/stars/tsong0ku/CVE-2018-11776-FIS">
+
+---
 ## CVE-2018-1160 (2018-12-20T21:29:00)
 > Netatalk before 3.1.12 is vulnerable to an out of bounds write in dsi_opensess.c. This is due to lack of bounds checking on attacker controlled data. A remote unauthenticated attacker can leverage this vulnerability to achieve arbitrary code execution.
 - [Nigmaz/CVE-2018-1160](https://github.com/Nigmaz/CVE-2018-1160)	<img alt="forks" src="https://img.shields.io/github/forks/Nigmaz/CVE-2018-1160">	<img alt="stars" src="https://img.shields.io/github/stars/Nigmaz/CVE-2018-1160">
