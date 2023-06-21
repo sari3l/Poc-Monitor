@@ -4609,6 +4609,11 @@
 - [Live-Hack-CVE/CVE-2020-0951](https://github.com/Live-Hack-CVE/CVE-2020-0951)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-0951">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-0951">
 
 ---
+## CVE-2020-0917 (2020-04-15T15:15:00)
+> An elevation of privilege vulnerability exists when Windows Hyper-V on a host server fails to properly handle objects in memory, aka 'Windows Hyper-V Elevation of Privilege Vulnerability'. This CVE ID is unique from CVE-2020-0918.
+- [L0ch/CVE-2020-0917_Exploit](https://github.com/L0ch/CVE-2020-0917_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/L0ch/CVE-2020-0917_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/L0ch/CVE-2020-0917_Exploit">
+
+---
 ## CVE-2020-0796 (2020-03-12T16:15:00)
 > A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka 'Windows SMBv3 Client/Server Remote Code Execution Vulnerability'.
 - [ran-sama/CVE-2020-0796](https://github.com/ran-sama/CVE-2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/ran-sama/CVE-2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/ran-sama/CVE-2020-0796">
