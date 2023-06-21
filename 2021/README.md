@@ -758,6 +758,11 @@
 - [funcid/log4j-exploit-fork-bomb](https://github.com/funcid/log4j-exploit-fork-bomb)	<img alt="forks" src="https://img.shields.io/github/forks/funcid/log4j-exploit-fork-bomb">	<img alt="stars" src="https://img.shields.io/github/stars/funcid/log4j-exploit-fork-bomb">
 
 ---
+## CVE-2021-44186 (2021-12-07T14:15:00)
+> Adobe Bridge version 11.1.2 (and earlier) and version 12.0 (and earlier) are affected by an out-of-bounds read vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must open a malicious SGI file.
+- [0xhaggis/CVE-2021-44186](https://github.com/0xhaggis/CVE-2021-44186)	<img alt="forks" src="https://img.shields.io/github/forks/0xhaggis/CVE-2021-44186">	<img alt="stars" src="https://img.shields.io/github/stars/0xhaggis/CVE-2021-44186">
+
+---
 ## CVE-2021-44158 (2022-01-03T10:15:00)
 > ASUS RT-AX56U Wi-Fi Router is vulnerable to stack-based buffer overflow due to improper validation for httpd parameter length. An authenticated local area network attacker can launch arbitrary code execution to control the system or disrupt service.
 - [Expl0desploit/CVE-2021-44158](https://github.com/Expl0desploit/CVE-2021-44158)	<img alt="forks" src="https://img.shields.io/github/forks/Expl0desploit/CVE-2021-44158">	<img alt="stars" src="https://img.shields.io/github/stars/Expl0desploit/CVE-2021-44158">
@@ -5552,6 +5557,11 @@
 ## CVE-2021-30640 (2021-07-12T15:15:00)
 > A vulnerability in the JNDI Realm of Apache Tomcat allows an attacker to authenticate using variations of a valid user name and/or to bypass some of the protection provided by the LockOut Realm. This issue affects Apache Tomcat 10.0.0-M1 to 10.0.5; 9.0.0.M1 to 9.0.45; 8.5.0 to 8.5.65.
 - [Live-Hack-CVE/CVE-2021-30640](https://github.com/Live-Hack-CVE/CVE-2021-30640)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30640">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30640">
+
+---
+## CVE-2021-3064 (2021-11-10T17:15:00)
+> A memory corruption vulnerability exists in Palo Alto Networks GlobalProtect portal and gateway interfaces that enables an unauthenticated network-based attacker to disrupt system processes and potentially execute arbitrary code with root privileges. The attacker must have network access to the GlobalProtect interface to exploit this issue. This issue impacts PAN-OS 8.1 versions earlier than PAN-OS 8.1.17. Prisma Access customers are not impacted by this issue.
+- [0xhaggis/CVE-2021-3064](https://github.com/0xhaggis/CVE-2021-3064)	<img alt="forks" src="https://img.shields.io/github/forks/0xhaggis/CVE-2021-3064">	<img alt="stars" src="https://img.shields.io/github/stars/0xhaggis/CVE-2021-3064">
 
 ---
 ## CVE-2021-30639 (2021-07-12T15:15:00)
