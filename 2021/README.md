@@ -5562,6 +5562,7 @@
 ## CVE-2021-3064 (2021-11-10T17:15:00)
 > A memory corruption vulnerability exists in Palo Alto Networks GlobalProtect portal and gateway interfaces that enables an unauthenticated network-based attacker to disrupt system processes and potentially execute arbitrary code with root privileges. The attacker must have network access to the GlobalProtect interface to exploit this issue. This issue impacts PAN-OS 8.1 versions earlier than PAN-OS 8.1.17. Prisma Access customers are not impacted by this issue.
 - [0xhaggis/CVE-2021-3064](https://github.com/0xhaggis/CVE-2021-3064)	<img alt="forks" src="https://img.shields.io/github/forks/0xhaggis/CVE-2021-3064">	<img alt="stars" src="https://img.shields.io/github/stars/0xhaggis/CVE-2021-3064">
+- [dja2TaqkGEEfA45/CVE-2021-30641](https://github.com/dja2TaqkGEEfA45/CVE-2021-30641)	<img alt="forks" src="https://img.shields.io/github/forks/dja2TaqkGEEfA45/CVE-2021-30641">	<img alt="stars" src="https://img.shields.io/github/stars/dja2TaqkGEEfA45/CVE-2021-30641">
 
 ---
 ## CVE-2021-30639 (2021-07-12T15:15:00)
