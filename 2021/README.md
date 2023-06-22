@@ -1558,6 +1558,11 @@
 - [Live-Hack-CVE/CVE-2021-4218](https://github.com/Live-Hack-CVE/CVE-2021-4218)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4218">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4218">
 
 ---
+## CVE-2021-42171 (2022-03-14T15:15:00)
+> Zenario CMS 9.0.54156 is vulnerable to File Upload. The web server can be compromised by uploading and executing a web-shell which can run commands, browse system files, browse local resources, attack other servers, and exploit the local vulnerabilities, and so forth.
+- [minhnq22/CVE-2021-42171](https://github.com/minhnq22/CVE-2021-42171)	<img alt="forks" src="https://img.shields.io/github/forks/minhnq22/CVE-2021-42171">	<img alt="stars" src="https://img.shields.io/github/stars/minhnq22/CVE-2021-42171">
+
+---
 ## CVE-2021-4216 (2022-08-26T16:15:00)
 > A Floating point exception (division-by-zero) flaw was found in Mupdf for zero width pages in muraster.c. It is fixed in Mupdf-1.20.0-rc1 upstream.
 - [Live-Hack-CVE/CVE-2021-4216](https://github.com/Live-Hack-CVE/CVE-2021-4216)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4216">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4216">
