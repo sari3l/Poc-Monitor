@@ -212,7 +212,8 @@
 - [Guest-user1/CVE-2018-6574](https://github.com/Guest-user1/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/Guest-user1/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/Guest-user1/CVE-2018-6574">
 - [idealphase/pentesterlab-CVE-2018-6574](https://github.com/idealphase/pentesterlab-CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/idealphase/pentesterlab-CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/idealphase/pentesterlab-CVE-2018-6574">
 - [Zeeshan-1234/CVE-2018-6574](https://github.com/Zeeshan-1234/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/Zeeshan-1234/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/Zeeshan-1234/CVE-2018-6574">
-- [Zeeshan-1234/CVE-2018-6574](https://github.com/Zeeshan-1234/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/Zeeshan-1234/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/Zeeshan-1234/CVE-2018-6574">
+- [Zeeshan12340/CVE-2018-6574](https://github.com/Zeeshan12340/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/Zeeshan12340/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/Zeeshan12340/CVE-2018-6574">
+- [antoniolch/cve-2018-6574](https://github.com/antoniolch/cve-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/antoniolch/cve-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/antoniolch/cve-2018-6574">
 
 ---
 ## CVE-2018-6389 (2018-02-06T17:29:00)
