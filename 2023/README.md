@@ -149,6 +149,16 @@
 - [Chocapikk/CVE-2023-33617](https://github.com/Chocapikk/CVE-2023-33617)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-33617">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-33617">
 
 ---
+## CVE-2023-33567 ()
+> 
+- [16yashpatel/CVE-2023-33567](https://github.com/16yashpatel/CVE-2023-33567)	<img alt="forks" src="https://img.shields.io/github/forks/16yashpatel/CVE-2023-33567">	<img alt="stars" src="https://img.shields.io/github/stars/16yashpatel/CVE-2023-33567">
+
+---
+## CVE-2023-33566 ()
+> 
+- [16yashpatel/CVE-2023-33566](https://github.com/16yashpatel/CVE-2023-33566)	<img alt="forks" src="https://img.shields.io/github/forks/16yashpatel/CVE-2023-33566">	<img alt="stars" src="https://img.shields.io/github/stars/16yashpatel/CVE-2023-33566">
+
+---
 ## CVE-2023-33565 ()
 > 
 - [16yashpatel/CVE-2023-33565](https://github.com/16yashpatel/CVE-2023-33565)	<img alt="forks" src="https://img.shields.io/github/forks/16yashpatel/CVE-2023-33565">	<img alt="stars" src="https://img.shields.io/github/stars/16yashpatel/CVE-2023-33565">
