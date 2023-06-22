@@ -89,6 +89,7 @@
 ## CVE-2021-46704 (2022-03-06T07:15:00)
 > In GenieACS 1.2.x before 1.2.8, the UI interface API is vulnerable to unauthenticated OS command injection via the ping host argument (lib/ui/api.ts and lib/ping.ts). The vulnerability arises from insufficient input validation combined with a missing authorization check.
 - [MithatGuner/CVE-2021-46704-POC](https://github.com/MithatGuner/CVE-2021-46704-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MithatGuner/CVE-2021-46704-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MithatGuner/CVE-2021-46704-POC">
+- [Erenlancaster/CVE-2021-46704](https://github.com/Erenlancaster/CVE-2021-46704)	<img alt="forks" src="https://img.shields.io/github/forks/Erenlancaster/CVE-2021-46704">	<img alt="stars" src="https://img.shields.io/github/stars/Erenlancaster/CVE-2021-46704">
 
 ---
 ## CVE-2021-46703 (2022-03-06T06:15:00)
