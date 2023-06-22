@@ -151,7 +151,7 @@
 ---
 ## CVE-2023-33565 ()
 > 
-- [16yashpatel/CVE-ID-CVE-2023-33565](https://github.com/16yashpatel/CVE-ID-CVE-2023-33565)	<img alt="forks" src="https://img.shields.io/github/forks/16yashpatel/CVE-ID-CVE-2023-33565">	<img alt="stars" src="https://img.shields.io/github/stars/16yashpatel/CVE-ID-CVE-2023-33565">
+- [16yashpatel/CVE-2023-33565](https://github.com/16yashpatel/CVE-2023-33565)	<img alt="forks" src="https://img.shields.io/github/forks/16yashpatel/CVE-2023-33565">	<img alt="stars" src="https://img.shields.io/github/stars/16yashpatel/CVE-2023-33565">
 
 ---
 ## CVE-2023-33477 (2023-06-06T20:15:00)
