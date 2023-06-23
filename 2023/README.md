@@ -137,6 +137,11 @@
 - [s0tr/CVE-2023-33781](https://github.com/s0tr/CVE-2023-33781)	<img alt="forks" src="https://img.shields.io/github/forks/s0tr/CVE-2023-33781">	<img alt="stars" src="https://img.shields.io/github/stars/s0tr/CVE-2023-33781">
 
 ---
+## CVE-2023-33768 ()
+> 
+- [purseclab/CVE-2023-33768](https://github.com/purseclab/CVE-2023-33768)	<img alt="forks" src="https://img.shields.io/github/forks/purseclab/CVE-2023-33768">	<img alt="stars" src="https://img.shields.io/github/stars/purseclab/CVE-2023-33768">
+
+---
 ## CVE-2023-33733 (2023-06-05T16:15:00)
 > Reportlab up to v3.6.12 allows attackers to execute arbitrary code via supplying a crafted PDF file.
 - [sahiloj/CVE-2023-33733](https://github.com/sahiloj/CVE-2023-33733)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-33733">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-33733">
