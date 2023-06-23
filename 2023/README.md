@@ -189,8 +189,8 @@
 - [16yashpatel/CVE-2023-33566](https://github.com/16yashpatel/CVE-2023-33566)	<img alt="forks" src="https://img.shields.io/github/forks/16yashpatel/CVE-2023-33566">	<img alt="stars" src="https://img.shields.io/github/stars/16yashpatel/CVE-2023-33566">
 
 ---
-## CVE-2023-33565 ()
-> 
+## CVE-2023-33565 (2023-06-23T19:15:00)
+> ROS2 (Robot Operating System 2) Foxy Fitzroy ROS_VERSION=2 and ROS_PYTHON_VERSION=3 are vulnerable to Denial-of-Service (DoS) attacks. A malicious user potentially exploited the vulnerability remotely and crashed the ROS2 nodes.
 - [16yashpatel/CVE-2023-33565](https://github.com/16yashpatel/CVE-2023-33565)	<img alt="forks" src="https://img.shields.io/github/forks/16yashpatel/CVE-2023-33565">	<img alt="stars" src="https://img.shields.io/github/stars/16yashpatel/CVE-2023-33565">
 
 ---
@@ -285,8 +285,8 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [hau-zy/KeePass-dump-py](https://github.com/hau-zy/KeePass-dump-py)	<img alt="forks" src="https://img.shields.io/github/forks/hau-zy/KeePass-dump-py">	<img alt="stars" src="https://img.shields.io/github/stars/hau-zy/KeePass-dump-py">
 
 ---
-## CVE-2023-32353 ()
-> 
+## CVE-2023-32353 (2023-06-23T18:15:00)
+> A logic issue was addressed with improved checks. This issue is fixed in iTunes 12.12.9 for Windows. An app may be able to elevate privileges
 - [86x/CVE-2023-32353-PoC](https://github.com/86x/CVE-2023-32353-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/86x/CVE-2023-32353-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/86x/CVE-2023-32353-PoC">
 
 ---
