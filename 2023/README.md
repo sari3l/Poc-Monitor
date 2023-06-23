@@ -729,6 +729,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [rio128128/CVE-2023-27997-POC](https://github.com/rio128128/CVE-2023-27997-POC)	<img alt="forks" src="https://img.shields.io/github/forks/rio128128/CVE-2023-27997-POC">	<img alt="stars" src="https://img.shields.io/github/stars/rio128128/CVE-2023-27997-POC">
 - [BishopFox/CVE-2023-27997-check](https://github.com/BishopFox/CVE-2023-27997-check)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/CVE-2023-27997-check">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/CVE-2023-27997-check">
 - [imbas007/CVE-2023-27997-Check](https://github.com/imbas007/CVE-2023-27997-Check)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2023-27997-Check">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2023-27997-Check">
+- [puckiestyle/cve-2023-27997](https://github.com/puckiestyle/cve-2023-27997)	<img alt="forks" src="https://img.shields.io/github/forks/puckiestyle/cve-2023-27997">	<img alt="stars" src="https://img.shields.io/github/stars/puckiestyle/cve-2023-27997">
 
 ---
 ## CVE-2023-27842 (2023-03-21T15:15:00)
