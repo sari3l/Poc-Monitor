@@ -76,6 +76,16 @@
 - [funny-kill/CVE-2023-34852](https://github.com/funny-kill/CVE-2023-34852)	<img alt="forks" src="https://img.shields.io/github/forks/funny-kill/CVE-2023-34852">	<img alt="stars" src="https://img.shields.io/github/stars/funny-kill/CVE-2023-34852">
 
 ---
+## CVE-2023-34839 ()
+> 
+- [sahiloj/CVE-2023-34839](https://github.com/sahiloj/CVE-2023-34839)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-34839">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-34839">
+
+---
+## CVE-2023-34838 ()
+> 
+- [sahiloj/CVE-2023-34838](https://github.com/sahiloj/CVE-2023-34838)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-34838">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-34838">
+
+---
 ## CVE-2023-34837 ()
 > 
 - [sahiloj/CVE-2023-34837](https://github.com/sahiloj/CVE-2023-34837)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-34837">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-34837">
