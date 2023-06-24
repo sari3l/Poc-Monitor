@@ -76,6 +76,21 @@
 - [funny-kill/CVE-2023-34852](https://github.com/funny-kill/CVE-2023-34852)	<img alt="forks" src="https://img.shields.io/github/forks/funny-kill/CVE-2023-34852">	<img alt="stars" src="https://img.shields.io/github/stars/funny-kill/CVE-2023-34852">
 
 ---
+## CVE-2023-34837 ()
+> 
+- [sahiloj/CVE-2023-34837](https://github.com/sahiloj/CVE-2023-34837)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-34837">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-34837">
+
+---
+## CVE-2023-34836 ()
+> 
+- [sahiloj/CVE-2023-34836](https://github.com/sahiloj/CVE-2023-34836)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-34836">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-34836">
+
+---
+## CVE-2023-34835 ()
+> 
+- [sahiloj/CVE-2023-34835](https://github.com/sahiloj/CVE-2023-34835)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-34835">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-34835">
+
+---
 ## CVE-2023-34830 ()
 > 
 - [leekenghwa/CVE-2023-34830---XSS-Reflected-found-in-I-doit-open-v24-and-Bekiw](https://github.com/leekenghwa/CVE-2023-34830---XSS-Reflected-found-in-I-doit-open-v24-and-Bekiw)	<img alt="forks" src="https://img.shields.io/github/forks/leekenghwa/CVE-2023-34830---XSS-Reflected-found-in-I-doit-open-v24-and-Bekiw">	<img alt="stars" src="https://img.shields.io/github/stars/leekenghwa/CVE-2023-34830---XSS-Reflected-found-in-I-doit-open-v24-and-Bekiw">
