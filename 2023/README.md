@@ -818,6 +818,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 ## CVE-2023-27372 (2023-02-28T20:15:00)
 > SPIP before 4.2.1 allows Remote Code Execution via form values in the public area because serialization is mishandled. The fixed versions are 3.2.18, 4.0.10, 4.1.8, and 4.2.1.
 - [nuts7/CVE-2023-27372](https://github.com/nuts7/CVE-2023-27372)	<img alt="forks" src="https://img.shields.io/github/forks/nuts7/CVE-2023-27372">	<img alt="stars" src="https://img.shields.io/github/stars/nuts7/CVE-2023-27372">
+- [Chocapikk/CVE-2023-27372](https://github.com/Chocapikk/CVE-2023-27372)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-27372">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-27372">
 
 ---
 ## CVE-2023-27363 ()
