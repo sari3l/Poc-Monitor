@@ -34,6 +34,7 @@
 - [cyber-niz/CVE-2020-9496](https://github.com/cyber-niz/CVE-2020-9496)	<img alt="forks" src="https://img.shields.io/github/forks/cyber-niz/CVE-2020-9496">	<img alt="stars" src="https://img.shields.io/github/stars/cyber-niz/CVE-2020-9496">
 - [g33xter/CVE-2020-9496](https://github.com/g33xter/CVE-2020-9496)	<img alt="forks" src="https://img.shields.io/github/forks/g33xter/CVE-2020-9496">	<img alt="stars" src="https://img.shields.io/github/stars/g33xter/CVE-2020-9496">
 - [dwisiswant0/CVE-2020-9496](https://github.com/dwisiswant0/CVE-2020-9496)	<img alt="forks" src="https://img.shields.io/github/forks/dwisiswant0/CVE-2020-9496">	<img alt="stars" src="https://img.shields.io/github/stars/dwisiswant0/CVE-2020-9496">
+- [birdlinux/CVE-2020-9496](https://github.com/birdlinux/CVE-2020-9496)	<img alt="forks" src="https://img.shields.io/github/forks/birdlinux/CVE-2020-9496">	<img alt="stars" src="https://img.shields.io/github/stars/birdlinux/CVE-2020-9496">
 
 ---
 ## CVE-2020-9492 (2021-01-26T18:16:00)
