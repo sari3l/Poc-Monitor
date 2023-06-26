@@ -100,6 +100,14 @@
 - [cakuzo/CVE-2015-7547](https://github.com/cakuzo/CVE-2015-7547)	<img alt="forks" src="https://img.shields.io/github/forks/cakuzo/CVE-2015-7547">	<img alt="stars" src="https://img.shields.io/github/stars/cakuzo/CVE-2015-7547">
 
 ---
+## CVE-2015-6967 (2015-09-16T14:59:00)
+> Unrestricted file upload vulnerability in the My Image plugin in Nibbleblog before 4.0.5 allows remote administrators to execute arbitrary code by uploading a file with an executable extension, then accessing it via a direct request to the file in content/private/plugins/my_image/image.php. <a href="http://cwe.mitre.org/data/definitions/434.html">CWE-434: Unrestricted Upload of File with Dangerous Type</a>
+- [FredBrave/CVE-2015-6967](https://github.com/FredBrave/CVE-2015-6967)	<img alt="forks" src="https://img.shields.io/github/forks/FredBrave/CVE-2015-6967">	<img alt="stars" src="https://img.shields.io/github/stars/FredBrave/CVE-2015-6967">
+- [hadrian3689/nibbleblog_4.0.3](https://github.com/hadrian3689/nibbleblog_4.0.3)	<img alt="forks" src="https://img.shields.io/github/forks/hadrian3689/nibbleblog_4.0.3">	<img alt="stars" src="https://img.shields.io/github/stars/hadrian3689/nibbleblog_4.0.3">
+- [0xkasra/CVE-2015-6967](https://github.com/0xkasra/CVE-2015-6967)	<img alt="forks" src="https://img.shields.io/github/forks/0xkasra/CVE-2015-6967">	<img alt="stars" src="https://img.shields.io/github/stars/0xkasra/CVE-2015-6967">
+- [dix0nym/CVE-2015-6967](https://github.com/dix0nym/CVE-2015-6967)	<img alt="forks" src="https://img.shields.io/github/forks/dix0nym/CVE-2015-6967">	<img alt="stars" src="https://img.shields.io/github/stars/dix0nym/CVE-2015-6967">
+
+---
 ## CVE-2015-6764 (2015-12-06T01:59:00)
 > The BasicJsonStringifier::SerializeJSArray function in json-stringifier.h in the JSON stringifier in Google V8, as used in Google Chrome before 47.0.2526.73, improperly loads array elements, which allows remote attackers to cause a denial of service (out-of-bounds memory access) or possibly have unspecified other impact via crafted JavaScript code.
 - [Live-Hack-CVE/CVE-2015-6764](https://github.com/Live-Hack-CVE/CVE-2015-6764)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-6764">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-6764">
