@@ -71,8 +71,8 @@
 - [Aituglo/CVE-2023-34960](https://github.com/Aituglo/CVE-2023-34960)	<img alt="forks" src="https://img.shields.io/github/forks/Aituglo/CVE-2023-34960">	<img alt="stars" src="https://img.shields.io/github/stars/Aituglo/CVE-2023-34960">
 
 ---
-## CVE-2023-34924 ()
-> 
+## CVE-2023-34924 (2023-06-26T21:15:00)
+> H3C Magic B1STW B1STV100R012 was discovered to contain a stack overflow via the function SetAPInfoById. This vulnerability allows attackers to cause a Denial of Service (DoS) via a crafted POST request.
 - [ChrisL0tus/CVE-2023-34924](https://github.com/ChrisL0tus/CVE-2023-34924)	<img alt="forks" src="https://img.shields.io/github/forks/ChrisL0tus/CVE-2023-34924">	<img alt="stars" src="https://img.shields.io/github/stars/ChrisL0tus/CVE-2023-34924">
 
 ---
@@ -256,8 +256,8 @@
 - [hacip/CVE-2023-33405](https://github.com/hacip/CVE-2023-33405)	<img alt="forks" src="https://img.shields.io/github/forks/hacip/CVE-2023-33405">	<img alt="stars" src="https://img.shields.io/github/stars/hacip/CVE-2023-33405">
 
 ---
-## CVE-2023-33404 ()
-> 
+## CVE-2023-33404 (2023-06-26T20:15:00)
+> An Unrestricted Upload vulnerability, due to insufficient validation on UploadControlled.cs file, in BlogEngine.Net version 3.3.8.0 and earlier allows remote attackers to execute remote code.
 - [hacip/CVE-2023-33404](https://github.com/hacip/CVE-2023-33404)	<img alt="forks" src="https://img.shields.io/github/forks/hacip/CVE-2023-33404">	<img alt="stars" src="https://img.shields.io/github/stars/hacip/CVE-2023-33404">
 
 ---
