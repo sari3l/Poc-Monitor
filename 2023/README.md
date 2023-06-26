@@ -120,6 +120,7 @@
 ## CVE-2023-34598 ()
 > 
 - [maddsec/CVE-2023-34598](https://github.com/maddsec/CVE-2023-34598)	<img alt="forks" src="https://img.shields.io/github/forks/maddsec/CVE-2023-34598">	<img alt="stars" src="https://img.shields.io/github/stars/maddsec/CVE-2023-34598">
+- [Szlein/CVE-2023-34598](https://github.com/Szlein/CVE-2023-34598)	<img alt="forks" src="https://img.shields.io/github/forks/Szlein/CVE-2023-34598">	<img alt="stars" src="https://img.shields.io/github/stars/Szlein/CVE-2023-34598">
 
 ---
 ## CVE-2023-34584 ()
