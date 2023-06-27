@@ -2596,11 +2596,12 @@
 - [dadvlingd/CVE-2021-4034](https://github.com/dadvlingd/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/dadvlingd/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/dadvlingd/CVE-2021-4034">
 - [kuckibf/Popular-CVEs](https://github.com/kuckibf/Popular-CVEs)	<img alt="forks" src="https://img.shields.io/github/forks/kuckibf/Popular-CVEs">	<img alt="stars" src="https://img.shields.io/github/stars/kuckibf/Popular-CVEs">
 - [poppylarrry/firefox-rce-poc](https://github.com/poppylarrry/firefox-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/poppylarrry/firefox-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/poppylarrry/firefox-rce-poc">
-- [c1ph3rm4st3r/CVE-2021-4034_Python3](https://github.com/c1ph3rm4st3r/CVE-2021-4034_Python3)	<img alt="forks" src="https://img.shields.io/github/forks/c1ph3rm4st3r/CVE-2021-4034_Python3">	<img alt="stars" src="https://img.shields.io/github/stars/c1ph3rm4st3r/CVE-2021-4034_Python3">
+- [crypticdante/CVE-2021-4034_Python3](https://github.com/crypticdante/CVE-2021-4034_Python3)	<img alt="forks" src="https://img.shields.io/github/forks/crypticdante/CVE-2021-4034_Python3">	<img alt="stars" src="https://img.shields.io/github/stars/crypticdante/CVE-2021-4034_Python3">
 - [arthepsy/CVE-2021-4034](https://github.com/arthepsy/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/arthepsy/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/arthepsy/CVE-2021-4034">
 - [A1vinSmith/CVE-2021-4034](https://github.com/A1vinSmith/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/A1vinSmith/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/A1vinSmith/CVE-2021-4034">
 - [zxc2007/CVE-2021-4034](https://github.com/zxc2007/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/zxc2007/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/zxc2007/CVE-2021-4034">
 - [TheSermux/CVE-2021-4034](https://github.com/TheSermux/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/TheSermux/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/TheSermux/CVE-2021-4034">
+- [ps-interactive/lab_cve-2021-4034-polkit-emulation-and-detection](https://github.com/ps-interactive/lab_cve-2021-4034-polkit-emulation-and-detection)	<img alt="forks" src="https://img.shields.io/github/forks/ps-interactive/lab_cve-2021-4034-polkit-emulation-and-detection">	<img alt="stars" src="https://img.shields.io/github/stars/ps-interactive/lab_cve-2021-4034-polkit-emulation-and-detection">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
