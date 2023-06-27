@@ -96,28 +96,28 @@
 - [Xh4H/CVE-2023-34840](https://github.com/Xh4H/CVE-2023-34840)	<img alt="forks" src="https://img.shields.io/github/forks/Xh4H/CVE-2023-34840">	<img alt="stars" src="https://img.shields.io/github/stars/Xh4H/CVE-2023-34840">
 
 ---
-## CVE-2023-34839 ()
-> 
+## CVE-2023-34839 (2023-06-27T18:15:00)
+> A Cross Site Request Forgery (CSRF) vulnerability in Issabel issabel-pbx v.4.0.0-6 allows a remote attacker to gain privileges via a Custom CSRF exploit to create new user function in the application.
 - [sahiloj/CVE-2023-34839](https://github.com/sahiloj/CVE-2023-34839)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-34839">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-34839">
 
 ---
-## CVE-2023-34838 ()
-> 
+## CVE-2023-34838 (2023-06-27T18:15:00)
+> A Cross Site Scripting vulnerability in Microworld Technologies eScan Management console v.14.0.1400.2281 allows a remote attacker to execute arbitrary code via a crafted script to the Description parameter.
 - [sahiloj/CVE-2023-34838](https://github.com/sahiloj/CVE-2023-34838)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-34838">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-34838">
 
 ---
-## CVE-2023-34837 ()
-> 
+## CVE-2023-34837 (2023-06-27T18:15:00)
+> A Cross Site Scripting vulnerability in Microworld Technologies eScan Management console v.14.0.1400.2281 allows a remote attacker to execute arbitrary code via a vulnerable parameter GrpPath.
 - [sahiloj/CVE-2023-34837](https://github.com/sahiloj/CVE-2023-34837)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-34837">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-34837">
 
 ---
-## CVE-2023-34836 ()
-> 
+## CVE-2023-34836 (2023-06-27T18:15:00)
+> A Cross Site Scripting vulnerability in Microworld Technologies eScan Management console v.14.0.1400.2281 allows a remote attacker to execute arbitrary code via a crafted script to the Dtltyp and ListName parameters.
 - [sahiloj/CVE-2023-34836](https://github.com/sahiloj/CVE-2023-34836)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-34836">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-34836">
 
 ---
-## CVE-2023-34835 ()
-> 
+## CVE-2023-34835 (2023-06-27T18:15:00)
+> A Cross Site Scripting vulnerability in Microworld Technologies eScan Management console v.14.0.1400.2281 allows a remote attacker to execute arbitrary JavaScript code via a vulnerable delete_file parameter.
 - [sahiloj/CVE-2023-34835](https://github.com/sahiloj/CVE-2023-34835)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-34835">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-34835">
 
 ---
@@ -226,13 +226,13 @@
 - [Chocapikk/CVE-2023-33617](https://github.com/Chocapikk/CVE-2023-33617)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-33617">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-33617">
 
 ---
-## CVE-2023-33567 ()
-> 
+## CVE-2023-33567 (2023-06-27T18:15:00)
+> An unauthorized access vulnerability has been discovered in ROS2 Foxy Fitzroy versions where ROS_VERSION is 2 and ROS_PYTHON_VERSION is 3. This vulnerability could potentially allow a malicious user to gain unauthorized access to multiple ROS2 nodes remotely. Unauthorized access to these nodes could result in compromised system integrity, the execution of arbitrary commands, and disclosure of sensitive information.
 - [16yashpatel/CVE-2023-33567](https://github.com/16yashpatel/CVE-2023-33567)	<img alt="forks" src="https://img.shields.io/github/forks/16yashpatel/CVE-2023-33567">	<img alt="stars" src="https://img.shields.io/github/stars/16yashpatel/CVE-2023-33567">
 
 ---
-## CVE-2023-33566 ()
-> 
+## CVE-2023-33566 (2023-06-27T18:15:00)
+> An unauthorized node injection vulnerability has been identified in ROS2 Foxy Fitzroy versions where ROS_VERSION is 2 and ROS_PYTHON_VERSION is 3. This vulnerability could allow a malicious user to inject malicious ROS2 nodes into the system remotely. Once injected, these nodes could disrupt the normal operations of the system or cause other potentially harmful behavior.
 - [16yashpatel/CVE-2023-33566](https://github.com/16yashpatel/CVE-2023-33566)	<img alt="forks" src="https://img.shields.io/github/forks/16yashpatel/CVE-2023-33566">	<img alt="stars" src="https://img.shields.io/github/stars/16yashpatel/CVE-2023-33566">
 
 ---
