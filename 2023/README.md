@@ -86,6 +86,11 @@
 - [funny-kill/CVE-2023-34852](https://github.com/funny-kill/CVE-2023-34852)	<img alt="forks" src="https://img.shields.io/github/forks/funny-kill/CVE-2023-34852">	<img alt="stars" src="https://img.shields.io/github/stars/funny-kill/CVE-2023-34852">
 
 ---
+## CVE-2023-34843 ()
+> 
+- [rootd4ddy/CVE-2023-34843](https://github.com/rootd4ddy/CVE-2023-34843)	<img alt="forks" src="https://img.shields.io/github/forks/rootd4ddy/CVE-2023-34843">	<img alt="stars" src="https://img.shields.io/github/stars/rootd4ddy/CVE-2023-34843">
+
+---
 ## CVE-2023-34840 ()
 > 
 - [Xh4H/CVE-2023-34840](https://github.com/Xh4H/CVE-2023-34840)	<img alt="forks" src="https://img.shields.io/github/forks/Xh4H/CVE-2023-34840">	<img alt="stars" src="https://img.shields.io/github/stars/Xh4H/CVE-2023-34840">
@@ -116,8 +121,8 @@
 - [sahiloj/CVE-2023-34835](https://github.com/sahiloj/CVE-2023-34835)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-34835">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-34835">
 
 ---
-## CVE-2023-34830 ()
-> 
+## CVE-2023-34830 (2023-06-27T17:15:00)
+> i-doit Open v24 was discovered to contain a reflected cross-site scripting (XSS) vulnerability via the timeout parameter on the login page.
 - [leekenghwa/CVE-2023-34830---XSS-Reflected-found-in-I-doit-open-v24-and-Bekiw](https://github.com/leekenghwa/CVE-2023-34830---XSS-Reflected-found-in-I-doit-open-v24-and-Bekiw)	<img alt="forks" src="https://img.shields.io/github/forks/leekenghwa/CVE-2023-34830---XSS-Reflected-found-in-I-doit-open-v24-and-Bekiw">	<img alt="stars" src="https://img.shields.io/github/stars/leekenghwa/CVE-2023-34830---XSS-Reflected-found-in-I-doit-open-v24-and-Bekiw">
 - [leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below](https://github.com/leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below)	<img alt="forks" src="https://img.shields.io/github/forks/leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below">	<img alt="stars" src="https://img.shields.io/github/stars/leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below">
 
