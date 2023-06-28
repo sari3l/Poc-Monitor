@@ -999,6 +999,11 @@ and the severity is therefore considered low.
 - [hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650](https://github.com/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650">
 
 ---
+## CVE-2023-26258 ()
+> 
+- [mdsecactivebreach/CVE-2023-26258-ArcServe](https://github.com/mdsecactivebreach/CVE-2023-26258-ArcServe)	<img alt="forks" src="https://img.shields.io/github/forks/mdsecactivebreach/CVE-2023-26258-ArcServe">	<img alt="stars" src="https://img.shields.io/github/stars/mdsecactivebreach/CVE-2023-26258-ArcServe">
+
+---
 ## CVE-2023-2594 (2023-05-09T13:15:00)
 > A vulnerability, which was classified as critical, was found in SourceCodester Food Ordering Management System 1.0. Affected is an unknown function of the component Registration. The manipulation of the argument username leads to sql injection. It is possible to launch the attack remotely. The identifier of this vulnerability is VDB-228396.
 - [thehackingverse/CVE-2023-2594](https://github.com/thehackingverse/CVE-2023-2594)	<img alt="forks" src="https://img.shields.io/github/forks/thehackingverse/CVE-2023-2594">	<img alt="stars" src="https://img.shields.io/github/stars/thehackingverse/CVE-2023-2594">
