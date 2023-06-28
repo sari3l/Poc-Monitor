@@ -587,6 +587,7 @@
 - [afine-com/CVE-2018-25031](https://github.com/afine-com/CVE-2018-25031)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2018-25031">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2018-25031">
 - [kriso4os/CVE-2018-25031](https://github.com/kriso4os/CVE-2018-25031)	<img alt="forks" src="https://img.shields.io/github/forks/kriso4os/CVE-2018-25031">	<img alt="stars" src="https://img.shields.io/github/stars/kriso4os/CVE-2018-25031">
 - [rafaelcintralopes/SwaggerUI-CVE-2018-25031](https://github.com/rafaelcintralopes/SwaggerUI-CVE-2018-25031)	<img alt="forks" src="https://img.shields.io/github/forks/rafaelcintralopes/SwaggerUI-CVE-2018-25031">	<img alt="stars" src="https://img.shields.io/github/stars/rafaelcintralopes/SwaggerUI-CVE-2018-25031">
+- [mathis2001/CVE-2018-25031](https://github.com/mathis2001/CVE-2018-25031)	<img alt="forks" src="https://img.shields.io/github/forks/mathis2001/CVE-2018-25031">	<img alt="stars" src="https://img.shields.io/github/stars/mathis2001/CVE-2018-25031">
 
 ---
 ## CVE-2018-21010 (2019-09-05T13:15:00)
