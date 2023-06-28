@@ -1570,8 +1570,8 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [WalccDev/CVE-2023-2033](https://github.com/WalccDev/CVE-2023-2033)	<img alt="forks" src="https://img.shields.io/github/forks/WalccDev/CVE-2023-2033">	<img alt="stars" src="https://img.shields.io/github/stars/WalccDev/CVE-2023-2033">
 
 ---
-## CVE-2023-20178 ()
-> 
+## CVE-2023-20178 (2023-06-28T15:15:00)
+> A vulnerability in the client update process of Cisco AnyConnect Secure Mobility Client Software for Windows and Cisco Secure Client Software for Windows could allow a low-privileged, authenticated, local attacker to elevate privileges to those of SYSTEM. The client update process is executed after a successful VPN connection is established. This vulnerability exists because improper permissions are assigned to a temporary directory that is created during the update process. An attacker could exploit this vulnerability by abusing a specific function of the Windows installer process. A successful exploit could allow the attacker to execute code with SYSTEM privileges.
 - [Wh04m1001/CVE-2023-20178](https://github.com/Wh04m1001/CVE-2023-20178)	<img alt="forks" src="https://img.shields.io/github/forks/Wh04m1001/CVE-2023-20178">	<img alt="stars" src="https://img.shields.io/github/stars/Wh04m1001/CVE-2023-20178">
 
 ---
