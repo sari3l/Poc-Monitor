@@ -1669,6 +1669,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [0xsu3ks/CVE-2023-0860](https://github.com/0xsu3ks/CVE-2023-0860)	<img alt="forks" src="https://img.shields.io/github/forks/0xsu3ks/CVE-2023-0860">	<img alt="stars" src="https://img.shields.io/github/stars/0xsu3ks/CVE-2023-0860">
 
 ---
+## CVE-2023-0830 (2023-02-14T17:15:00)
+> A vulnerability classified as critical has been found in EasyNAS 1.1.0. Affected is the function system of the file /backup.pl. The manipulation leads to os command injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. It is recommended to upgrade the affected component. VDB-220950 is the identifier assigned to this vulnerability.
+- [xbz0n/CVE-2023-0830](https://github.com/xbz0n/CVE-2023-0830)	<img alt="forks" src="https://img.shields.io/github/forks/xbz0n/CVE-2023-0830">	<img alt="stars" src="https://img.shields.io/github/stars/xbz0n/CVE-2023-0830">
+
+---
 ## CVE-2023-0748 (2023-02-08T15:15:00)
 > Open Redirect in GitHub repository btcpayserver/btcpayserver prior to 1.7.6.
 - [gonzxph/CVE-2023-0748](https://github.com/gonzxph/CVE-2023-0748)	<img alt="forks" src="https://img.shields.io/github/forks/gonzxph/CVE-2023-0748">	<img alt="stars" src="https://img.shields.io/github/stars/gonzxph/CVE-2023-0748">
