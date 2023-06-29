@@ -8010,6 +8010,7 @@
 - [k-k-k-k-k/CVE-2021-1732](https://github.com/k-k-k-k-k/CVE-2021-1732)	<img alt="forks" src="https://img.shields.io/github/forks/k-k-k-k-k/CVE-2021-1732">	<img alt="stars" src="https://img.shields.io/github/stars/k-k-k-k-k/CVE-2021-1732">
 - [KaLendsi/CVE-2021-1732-Exploit](https://github.com/KaLendsi/CVE-2021-1732-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/KaLendsi/CVE-2021-1732-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/KaLendsi/CVE-2021-1732-Exploit">
 - [fenasal/CVE-2021-1732](https://github.com/fenasal/CVE-2021-1732)	<img alt="forks" src="https://img.shields.io/github/forks/fenasal/CVE-2021-1732">	<img alt="stars" src="https://img.shields.io/github/stars/fenasal/CVE-2021-1732">
+- [yangshifan-git/CVE-2021-1732](https://github.com/yangshifan-git/CVE-2021-1732)	<img alt="forks" src="https://img.shields.io/github/forks/yangshifan-git/CVE-2021-1732">	<img alt="stars" src="https://img.shields.io/github/stars/yangshifan-git/CVE-2021-1732">
 
 ---
 ## CVE-2021-1675 (2021-06-08T23:15:00)
