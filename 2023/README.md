@@ -605,6 +605,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [jichngan/CVE-2023-29839](https://github.com/jichngan/CVE-2023-29839)	<img alt="forks" src="https://img.shields.io/github/forks/jichngan/CVE-2023-29839">	<img alt="stars" src="https://img.shields.io/github/stars/jichngan/CVE-2023-29839">
 
 ---
+## CVE-2023-2982 (2023-06-29T02:15:00)
+> The WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) plugin for WordPress is vulnerable to authentication bypass in versions up to, and including, 7.6.4. This is due to insufficient encryption on the user being supplied during a login validated through the plugin. This makes it possible for unauthenticated attackers to log in as any existing user on the site, such as an administrator, if they know the email address associated with that user. This was partially patched in version 7.6.4 and fully patched in version 7.6.5.
+- [RandomRobbieBF/CVE-2023-2982](https://github.com/RandomRobbieBF/CVE-2023-2982)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-2982">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-2982">
+
+---
 ## CVE-2023-29809 (2023-05-12T01:15:00)
 > SQL injection vulnerability found in Maximilian Vogt companymaps (cmaps) v.8.0 allows a remote attacker to execute arbitrary code via a crafted script in the request.
 - [zPrototype/CVE-2023-29809](https://github.com/zPrototype/CVE-2023-29809)	<img alt="forks" src="https://img.shields.io/github/forks/zPrototype/CVE-2023-29809">	<img alt="stars" src="https://img.shields.io/github/stars/zPrototype/CVE-2023-29809">
