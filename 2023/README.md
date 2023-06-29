@@ -284,6 +284,7 @@
 ## CVE-2023-3338 ()
 > 
 - [TurtleARM/CVE-2023-3338](https://github.com/TurtleARM/CVE-2023-3338)	<img alt="forks" src="https://img.shields.io/github/forks/TurtleARM/CVE-2023-3338">	<img alt="stars" src="https://img.shields.io/github/stars/TurtleARM/CVE-2023-3338">
+- [TurtleARM/CVE-2023-3338](https://github.com/TurtleARM/CVE-2023-3338)	<img alt="forks" src="https://img.shields.io/github/forks/TurtleARM/CVE-2023-3338">	<img alt="stars" src="https://img.shields.io/github/stars/TurtleARM/CVE-2023-3338">
 
 ---
 ## CVE-2023-33253 (2023-06-12T13:15:00)
