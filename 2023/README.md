@@ -86,8 +86,8 @@
 - [funny-kill/CVE-2023-34852](https://github.com/funny-kill/CVE-2023-34852)	<img alt="forks" src="https://img.shields.io/github/forks/funny-kill/CVE-2023-34852">	<img alt="stars" src="https://img.shields.io/github/stars/funny-kill/CVE-2023-34852">
 
 ---
-## CVE-2023-34843 ()
-> 
+## CVE-2023-34843 (2023-06-29T00:15:00)
+> Traggo Server 0.3.0 is vulnerable to directory traversal via a crafted GET request.
 - [rootd4ddy/CVE-2023-34843](https://github.com/rootd4ddy/CVE-2023-34843)	<img alt="forks" src="https://img.shields.io/github/forks/rootd4ddy/CVE-2023-34843">	<img alt="stars" src="https://img.shields.io/github/stars/rootd4ddy/CVE-2023-34843">
 
 ---
