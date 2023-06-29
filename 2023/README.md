@@ -285,6 +285,7 @@
 > 
 - [TurtleARM/CVE-2023-3338](https://github.com/TurtleARM/CVE-2023-3338)	<img alt="forks" src="https://img.shields.io/github/forks/TurtleARM/CVE-2023-3338">	<img alt="stars" src="https://img.shields.io/github/stars/TurtleARM/CVE-2023-3338">
 - [TurtleARM/CVE-2023-3338](https://github.com/TurtleARM/CVE-2023-3338)	<img alt="forks" src="https://img.shields.io/github/forks/TurtleARM/CVE-2023-3338">	<img alt="stars" src="https://img.shields.io/github/stars/TurtleARM/CVE-2023-3338">
+- [duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC](https://github.com/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC)	<img alt="forks" src="https://img.shields.io/github/forks/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC">	<img alt="stars" src="https://img.shields.io/github/stars/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC">
 
 ---
 ## CVE-2023-33253 (2023-06-12T13:15:00)
