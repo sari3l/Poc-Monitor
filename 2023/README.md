@@ -127,13 +127,13 @@
 - [leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below](https://github.com/leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below)	<img alt="forks" src="https://img.shields.io/github/forks/leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below">	<img alt="stars" src="https://img.shields.io/github/stars/leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below">
 
 ---
-## CVE-2023-34599 ()
-> 
+## CVE-2023-34599 (2023-06-29T15:15:00)
+> Multiple Cross-Site Scripting (XSS) vulnerabilities have been identified in Gibbon v25.0.0, which enable attackers to execute arbitrary Javascript code.
 - [maddsec/CVE-2023-34599](https://github.com/maddsec/CVE-2023-34599)	<img alt="forks" src="https://img.shields.io/github/forks/maddsec/CVE-2023-34599">	<img alt="stars" src="https://img.shields.io/github/stars/maddsec/CVE-2023-34599">
 
 ---
-## CVE-2023-34598 ()
-> 
+## CVE-2023-34598 (2023-06-29T15:15:00)
+> Gibbon v25.0.0 is vulnerable to a Local File Inclusion (LFI) where it's possible to include the content of several files present in the installation folder in the server's response.
 - [maddsec/CVE-2023-34598](https://github.com/maddsec/CVE-2023-34598)	<img alt="forks" src="https://img.shields.io/github/forks/maddsec/CVE-2023-34598">	<img alt="stars" src="https://img.shields.io/github/stars/maddsec/CVE-2023-34598">
 - [Szlein/CVE-2023-34598](https://github.com/Szlein/CVE-2023-34598)	<img alt="forks" src="https://img.shields.io/github/forks/Szlein/CVE-2023-34598">	<img alt="stars" src="https://img.shields.io/github/stars/Szlein/CVE-2023-34598">
 - [Szlein/CVE-2023-34598](https://github.com/Szlein/CVE-2023-34598)	<img alt="forks" src="https://img.shields.io/github/forks/Szlein/CVE-2023-34598">	<img alt="stars" src="https://img.shields.io/github/stars/Szlein/CVE-2023-34598">
