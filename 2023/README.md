@@ -91,8 +91,8 @@
 - [rootd4ddy/CVE-2023-34843](https://github.com/rootd4ddy/CVE-2023-34843)	<img alt="forks" src="https://img.shields.io/github/forks/rootd4ddy/CVE-2023-34843">	<img alt="stars" src="https://img.shields.io/github/stars/rootd4ddy/CVE-2023-34843">
 
 ---
-## CVE-2023-34840 ()
-> 
+## CVE-2023-34840 (2023-06-30T16:15:00)
+> angular-ui-notification v0.1.0, v0.2.0, and v0.3.6 was discovered to contain a cross-site scripting (XSS) vulnerability.
 - [Xh4H/CVE-2023-34840](https://github.com/Xh4H/CVE-2023-34840)	<img alt="forks" src="https://img.shields.io/github/forks/Xh4H/CVE-2023-34840">	<img alt="stars" src="https://img.shields.io/github/stars/Xh4H/CVE-2023-34840">
 
 ---
