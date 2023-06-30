@@ -31,8 +31,8 @@
 - [KOwloid/cve-2023-36544](https://github.com/KOwloid/cve-2023-36544)	<img alt="forks" src="https://img.shields.io/github/forks/KOwloid/cve-2023-36544">	<img alt="stars" src="https://img.shields.io/github/stars/KOwloid/cve-2023-36544">
 
 ---
-## CVE-2023-36146 ()
-> 
+## CVE-2023-36146 (2023-06-30T01:15:00)
+> A Stored Cross-Site Scripting (XSS) vulnerability was found in Multilaser RE 170 using firmware 2.2.6733.
 - [leonardobg/CVE-2023-36146](https://github.com/leonardobg/CVE-2023-36146)	<img alt="forks" src="https://img.shields.io/github/forks/leonardobg/CVE-2023-36146">	<img alt="stars" src="https://img.shields.io/github/stars/leonardobg/CVE-2023-36146">
 
 ---
@@ -41,8 +41,8 @@
 - [leonardobg/CVE-2023-36144](https://github.com/leonardobg/CVE-2023-36144)	<img alt="forks" src="https://img.shields.io/github/forks/leonardobg/CVE-2023-36144">	<img alt="stars" src="https://img.shields.io/github/stars/leonardobg/CVE-2023-36144">
 
 ---
-## CVE-2023-36143 ()
-> 
+## CVE-2023-36143 (2023-06-30T01:15:00)
+> Maxprint Maxlink 1200G v3.4.11E has an OS command injection vulnerability in the "Diagnostic tool" functionality of the device.
 - [leonardobg/CVE-2023-36143](https://github.com/leonardobg/CVE-2023-36143)	<img alt="forks" src="https://img.shields.io/github/forks/leonardobg/CVE-2023-36143">	<img alt="stars" src="https://img.shields.io/github/stars/leonardobg/CVE-2023-36143">
 
 ---
