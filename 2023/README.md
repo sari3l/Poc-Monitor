@@ -1472,6 +1472,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [zoemurmure/CVE-2023-21768-AFD-for-WinSock-EoP-exploit](https://github.com/zoemurmure/CVE-2023-21768-AFD-for-WinSock-EoP-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/zoemurmure/CVE-2023-21768-AFD-for-WinSock-EoP-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/zoemurmure/CVE-2023-21768-AFD-for-WinSock-EoP-exploit">
 
 ---
+## CVE-2023-21766 (2023-01-10T22:15:00)
+> Windows Overlay Filter Information Disclosure Vulnerability
+- [Y3A/cve-2023-21766](https://github.com/Y3A/cve-2023-21766)	<img alt="forks" src="https://img.shields.io/github/forks/Y3A/cve-2023-21766">	<img alt="stars" src="https://img.shields.io/github/stars/Y3A/cve-2023-21766">
+
+---
 ## CVE-2023-21753 (2023-01-10T22:15:00)
 > Event Tracing for Windows Information Disclosure Vulnerability. This CVE ID is unique from CVE-2023-21536.
 - [timpen432/-Wh0Am1001-CVE-2023-21753](https://github.com/timpen432/-Wh0Am1001-CVE-2023-21753)	<img alt="forks" src="https://img.shields.io/github/forks/timpen432/-Wh0Am1001-CVE-2023-21753">	<img alt="stars" src="https://img.shields.io/github/stars/timpen432/-Wh0Am1001-CVE-2023-21753">
