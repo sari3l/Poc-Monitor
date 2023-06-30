@@ -97,6 +97,11 @@
 - [Live-Hack-CVE/CVE-2020-9296](https://github.com/Live-Hack-CVE/CVE-2020-9296)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9296">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9296">
 
 ---
+## CVE-2020-9289 (2020-06-16T21:15:00)
+> Use of a hard-coded cryptographic key to encrypt password data in CLI configuration in FortiManager 6.2.3 and below, FortiAnalyzer 6.2.3 and below may allow an attacker with access to the CLI configuration or the CLI backup file to decrypt the sensitive data, via knowledge of the hard-coded key.
+- [synacktiv/CVE-2020-9289](https://github.com/synacktiv/CVE-2020-9289)	<img alt="forks" src="https://img.shields.io/github/forks/synacktiv/CVE-2020-9289">	<img alt="stars" src="https://img.shields.io/github/stars/synacktiv/CVE-2020-9289">
+
+---
 ## CVE-2020-9285 (2022-10-20T17:15:00)
 > Some versions of Sonos One (1st and 2nd generation) allow partial or full memory access via attacker controlled hardware that can be attached to the Mini-PCI Express slot on the motherboard that hosts the WiFi card on the device.
 - [Live-Hack-CVE/CVE-2020-9285](https://github.com/Live-Hack-CVE/CVE-2020-9285)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9285">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9285">
