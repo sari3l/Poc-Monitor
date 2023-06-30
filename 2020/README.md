@@ -4278,6 +4278,11 @@
 - [Live-Hack-CVE/CVE-2020-10492](https://github.com/Live-Hack-CVE/CVE-2020-10492)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10492">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10492">
 
 ---
+## CVE-2020-1048 (2020-05-21T23:15:00)
+> An elevation of privilege vulnerability exists when the Windows Print Spooler service improperly allows arbitrary writing to the file system, aka 'Windows Print Spooler Elevation of Privilege Vulnerability'. This CVE ID is unique from CVE-2020-1070.
+- [Y3A/cve-2020-1048](https://github.com/Y3A/cve-2020-1048)	<img alt="forks" src="https://img.shields.io/github/forks/Y3A/cve-2020-1048">	<img alt="stars" src="https://img.shields.io/github/stars/Y3A/cve-2020-1048">
+
+---
 ## CVE-2020-10457 (2020-03-12T14:15:00)
 > Path Traversal in admin/imagepaster/image-renaming.php in Chadha PHPKB Standard Multi-Language 9 allows attackers to rename any file on the webserver using a dot-dot-slash sequence (../) via the POST parameter imgName (for the new name) and imgUrl (for the current file to be renamed).
 - [Live-Hack-CVE/CVE-2020-10457](https://github.com/Live-Hack-CVE/CVE-2020-10457)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10457">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10457">
