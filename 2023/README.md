@@ -1502,6 +1502,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [Lord-of-the-IoT/CVE-2023-21716](https://github.com/Lord-of-the-IoT/CVE-2023-21716)	<img alt="forks" src="https://img.shields.io/github/forks/Lord-of-the-IoT/CVE-2023-21716">	<img alt="stars" src="https://img.shields.io/github/stars/Lord-of-the-IoT/CVE-2023-21716">
 
 ---
+## CVE-2023-21707 (2023-02-14T20:15:00)
+> Microsoft Exchange Server Remote Code Execution Vulnerability
+- [N1k0la-T/CVE-2023-21707](https://github.com/N1k0la-T/CVE-2023-21707)	<img alt="forks" src="https://img.shields.io/github/forks/N1k0la-T/CVE-2023-21707">	<img alt="stars" src="https://img.shields.io/github/stars/N1k0la-T/CVE-2023-21707">
+
+---
 ## CVE-2023-21608 (2023-01-18T19:15:00)
 > Adobe Acrobat Reader versions 22.003.20282 (and earlier), 22.003.20281 (and earlier) and 20.005.30418 (and earlier) are affected by a Use After Free vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
 - [hacksysteam/CVE-2023-21608](https://github.com/hacksysteam/CVE-2023-21608)	<img alt="forks" src="https://img.shields.io/github/forks/hacksysteam/CVE-2023-21608">	<img alt="stars" src="https://img.shields.io/github/stars/hacksysteam/CVE-2023-21608">
