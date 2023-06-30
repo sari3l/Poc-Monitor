@@ -770,7 +770,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 ---
 ## CVE-2023-28252 (2023-04-11T21:15:00)
 > Windows Common Log File System Driver Elevation of Privilege Vulnerability
-- [fortra/CVE-2023-28252-](https://github.com/fortra/CVE-2023-28252-)	<img alt="forks" src="https://img.shields.io/github/forks/fortra/CVE-2023-28252-">	<img alt="stars" src="https://img.shields.io/github/stars/fortra/CVE-2023-28252-">
+- [fortra/CVE-2023-28252](https://github.com/fortra/CVE-2023-28252)	<img alt="forks" src="https://img.shields.io/github/forks/fortra/CVE-2023-28252">	<img alt="stars" src="https://img.shields.io/github/stars/fortra/CVE-2023-28252">
 
 ---
 ## CVE-2023-2825 (2023-05-26T21:15:00)
