@@ -4281,6 +4281,12 @@
 ## CVE-2020-1048 (2020-05-21T23:15:00)
 > An elevation of privilege vulnerability exists when the Windows Print Spooler service improperly allows arbitrary writing to the file system, aka 'Windows Print Spooler Elevation of Privilege Vulnerability'. This CVE ID is unique from CVE-2020-1070.
 - [Y3A/cve-2020-1048](https://github.com/Y3A/cve-2020-1048)	<img alt="forks" src="https://img.shields.io/github/forks/Y3A/cve-2020-1048">	<img alt="stars" src="https://img.shields.io/github/stars/Y3A/cve-2020-1048">
+- [Ken-Abruzzi/CVE-2020-1048](https://github.com/Ken-Abruzzi/CVE-2020-1048)	<img alt="forks" src="https://img.shields.io/github/forks/Ken-Abruzzi/CVE-2020-1048">	<img alt="stars" src="https://img.shields.io/github/stars/Ken-Abruzzi/CVE-2020-1048">
+- [neofito/CVE-2020-1337](https://github.com/neofito/CVE-2020-1337)	<img alt="forks" src="https://img.shields.io/github/forks/neofito/CVE-2020-1337">	<img alt="stars" src="https://img.shields.io/github/stars/neofito/CVE-2020-1337">
+- [VoidSec/CVE-2020-1337](https://github.com/VoidSec/CVE-2020-1337)	<img alt="forks" src="https://img.shields.io/github/forks/VoidSec/CVE-2020-1337">	<img alt="stars" src="https://img.shields.io/github/stars/VoidSec/CVE-2020-1337">
+- [shubham0d/CVE-2020-1048](https://github.com/shubham0d/CVE-2020-1048)	<img alt="forks" src="https://img.shields.io/github/forks/shubham0d/CVE-2020-1048">	<img alt="stars" src="https://img.shields.io/github/stars/shubham0d/CVE-2020-1048">
+- [zveriu/CVE-2009-0229-PoC](https://github.com/zveriu/CVE-2009-0229-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/zveriu/CVE-2009-0229-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/zveriu/CVE-2009-0229-PoC">
+- [doggycheng/CNVD-2020-10487](https://github.com/doggycheng/CNVD-2020-10487)	<img alt="forks" src="https://img.shields.io/github/forks/doggycheng/CNVD-2020-10487">	<img alt="stars" src="https://img.shields.io/github/stars/doggycheng/CNVD-2020-10487">
 
 ---
 ## CVE-2020-10457 (2020-03-12T14:15:00)
