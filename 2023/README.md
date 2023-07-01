@@ -131,6 +131,7 @@
 ## CVE-2023-34599 (2023-06-29T15:15:00)
 > Multiple Cross-Site Scripting (XSS) vulnerabilities have been identified in Gibbon v25.0.0, which enable attackers to execute arbitrary Javascript code.
 - [maddsec/CVE-2023-34599](https://github.com/maddsec/CVE-2023-34599)	<img alt="forks" src="https://img.shields.io/github/forks/maddsec/CVE-2023-34599">	<img alt="stars" src="https://img.shields.io/github/stars/maddsec/CVE-2023-34599">
+- [Imahian/CVE-2023-34599](https://github.com/Imahian/CVE-2023-34599)	<img alt="forks" src="https://img.shields.io/github/forks/Imahian/CVE-2023-34599">	<img alt="stars" src="https://img.shields.io/github/stars/Imahian/CVE-2023-34599">
 
 ---
 ## CVE-2023-34598 (2023-06-29T15:15:00)
@@ -138,6 +139,7 @@
 - [maddsec/CVE-2023-34598](https://github.com/maddsec/CVE-2023-34598)	<img alt="forks" src="https://img.shields.io/github/forks/maddsec/CVE-2023-34598">	<img alt="stars" src="https://img.shields.io/github/stars/maddsec/CVE-2023-34598">
 - [Szlein/CVE-2023-34598](https://github.com/Szlein/CVE-2023-34598)	<img alt="forks" src="https://img.shields.io/github/forks/Szlein/CVE-2023-34598">	<img alt="stars" src="https://img.shields.io/github/stars/Szlein/CVE-2023-34598">
 - [Szlein/CVE-2023-34598](https://github.com/Szlein/CVE-2023-34598)	<img alt="forks" src="https://img.shields.io/github/forks/Szlein/CVE-2023-34598">	<img alt="stars" src="https://img.shields.io/github/stars/Szlein/CVE-2023-34598">
+- [Imahian/CVE-2023-34598](https://github.com/Imahian/CVE-2023-34598)	<img alt="forks" src="https://img.shields.io/github/forks/Imahian/CVE-2023-34598">	<img alt="stars" src="https://img.shields.io/github/stars/Imahian/CVE-2023-34598">
 
 ---
 ## CVE-2023-34584 ()
@@ -1022,6 +1024,7 @@ and the severity is therefore considered low.
 ## CVE-2023-26258 ()
 > 
 - [mdsecactivebreach/CVE-2023-26258-ArcServe](https://github.com/mdsecactivebreach/CVE-2023-26258-ArcServe)	<img alt="forks" src="https://img.shields.io/github/forks/mdsecactivebreach/CVE-2023-26258-ArcServe">	<img alt="stars" src="https://img.shields.io/github/stars/mdsecactivebreach/CVE-2023-26258-ArcServe">
+- [Imahian/CVE-2023-26258](https://github.com/Imahian/CVE-2023-26258)	<img alt="forks" src="https://img.shields.io/github/forks/Imahian/CVE-2023-26258">	<img alt="stars" src="https://img.shields.io/github/stars/Imahian/CVE-2023-26258">
 
 ---
 ## CVE-2023-2594 (2023-05-09T13:15:00)
