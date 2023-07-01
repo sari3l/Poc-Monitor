@@ -1160,6 +1160,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [abbisQQ/CVE-2023-24610](https://github.com/abbisQQ/CVE-2023-24610)	<img alt="forks" src="https://img.shields.io/github/forks/abbisQQ/CVE-2023-24610">	<img alt="stars" src="https://img.shields.io/github/stars/abbisQQ/CVE-2023-24610">
 
 ---
+## CVE-2023-24488 ()
+> 
+- [SirBugs/CVE-2023-24488-PoC](https://github.com/SirBugs/CVE-2023-24488-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/SirBugs/CVE-2023-24488-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/SirBugs/CVE-2023-24488-PoC">
+
+---
 ## CVE-2023-24317 (2023-02-23T20:15:00)
 > Judging Management System 1.0 was discovered to contain an arbitrary file upload vulnerability via the component edit_organizer.php.
 - [angelopioamirante/CVE-2023-24317](https://github.com/angelopioamirante/CVE-2023-24317)	<img alt="forks" src="https://img.shields.io/github/forks/angelopioamirante/CVE-2023-24317">	<img alt="stars" src="https://img.shields.io/github/stars/angelopioamirante/CVE-2023-24317">
