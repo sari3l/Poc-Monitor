@@ -26,6 +26,11 @@
 - [Trinadh465/linux_4.19.72_CVE-2023-42896](https://github.com/Trinadh465/linux_4.19.72_CVE-2023-42896)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux_4.19.72_CVE-2023-42896">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux_4.19.72_CVE-2023-42896">
 
 ---
+## CVE-2023-37250 ()
+> 
+- [ewilded/CVE-2023-37250](https://github.com/ewilded/CVE-2023-37250)	<img alt="forks" src="https://img.shields.io/github/forks/ewilded/CVE-2023-37250">	<img alt="stars" src="https://img.shields.io/github/stars/ewilded/CVE-2023-37250">
+
+---
 ## CVE-2023-36544 ()
 > 
 - [KOwloid/cve-2023-36544](https://github.com/KOwloid/cve-2023-36544)	<img alt="forks" src="https://img.shields.io/github/forks/KOwloid/cve-2023-36544">	<img alt="stars" src="https://img.shields.io/github/stars/KOwloid/cve-2023-36544">
