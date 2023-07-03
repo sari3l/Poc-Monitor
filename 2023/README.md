@@ -71,6 +71,11 @@
 - [afine-com/CVE-2023-35840](https://github.com/afine-com/CVE-2023-35840)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2023-35840">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2023-35840">
 
 ---
+## CVE-2023-35829 (2023-06-18T22:15:00)
+> An issue was discovered in the Linux kernel before 6.3.2. A use-after-free was found in rkvdec_remove in drivers/staging/media/rkvdec/rkvdec.c.
+- [ChriSanders22/CVE-2023-35829-poc](https://github.com/ChriSanders22/CVE-2023-35829-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ChriSanders22/CVE-2023-35829-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ChriSanders22/CVE-2023-35829-poc">
+
+---
 ## CVE-2023-34965 (2023-06-13T19:15:00)
 > SSPanel-Uim 2023.3 does not restrict access to the /link/ interface which can lead to a leak of user information.
 - [AgentY0/CVE-2023-34965](https://github.com/AgentY0/CVE-2023-34965)	<img alt="forks" src="https://img.shields.io/github/forks/AgentY0/CVE-2023-34965">	<img alt="stars" src="https://img.shields.io/github/stars/AgentY0/CVE-2023-34965">
