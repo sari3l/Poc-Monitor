@@ -374,6 +374,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [hheeyywweellccoommee/Mass-CVE-2023-32243-kcpqa](https://github.com/hheeyywweellccoommee/Mass-CVE-2023-32243-kcpqa)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/Mass-CVE-2023-32243-kcpqa">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/Mass-CVE-2023-32243-kcpqa">
 - [thatonesecguy/Wordpress-Vulnerability-Identification-Scripts](https://github.com/thatonesecguy/Wordpress-Vulnerability-Identification-Scripts)	<img alt="forks" src="https://img.shields.io/github/forks/thatonesecguy/Wordpress-Vulnerability-Identification-Scripts">	<img alt="stars" src="https://img.shields.io/github/stars/thatonesecguy/Wordpress-Vulnerability-Identification-Scripts">
 - [manavvedawala/CVE-2023-32243-proof-of-concept](https://github.com/manavvedawala/CVE-2023-32243-proof-of-concept)	<img alt="forks" src="https://img.shields.io/github/forks/manavvedawala/CVE-2023-32243-proof-of-concept">	<img alt="stars" src="https://img.shields.io/github/stars/manavvedawala/CVE-2023-32243-proof-of-concept">
+- [Jenderal92/WP-CVE-2023-32243](https://github.com/Jenderal92/WP-CVE-2023-32243)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/WP-CVE-2023-32243">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/WP-CVE-2023-32243">
 
 ---
 ## CVE-2023-32233 (2023-05-08T20:15:00)
