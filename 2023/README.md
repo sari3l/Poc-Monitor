@@ -1611,6 +1611,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [miko550/CVE-2023-20887](https://github.com/miko550/CVE-2023-20887)	<img alt="forks" src="https://img.shields.io/github/forks/miko550/CVE-2023-20887">	<img alt="stars" src="https://img.shields.io/github/stars/miko550/CVE-2023-20887">
 
 ---
+## CVE-2023-20871 (2023-04-25T21:15:00)
+> VMware Fusion contains a local privilege escalation vulnerability. A malicious actor with read/write access to the host operating system can elevate privileges to gain root access to the host operating system.
+- [ChriSanders22/CVE-2023-20871-poc](https://github.com/ChriSanders22/CVE-2023-20871-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ChriSanders22/CVE-2023-20871-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ChriSanders22/CVE-2023-20871-poc">
+
+---
 ## CVE-2023-20860 (2023-03-27T22:15:00)
 > Spring Framework running version 6.0.0 - 6.0.6 or 5.3.0 - 5.3.25 using "**" as a pattern in Spring Security configuration with the mvcRequestMatcher creates a mismatch in pattern matching between Spring Security and Spring MVC, and the potential for a security bypass.
 - [limo520/CVE-2023-20860](https://github.com/limo520/CVE-2023-20860)	<img alt="forks" src="https://img.shields.io/github/forks/limo520/CVE-2023-20860">	<img alt="stars" src="https://img.shields.io/github/stars/limo520/CVE-2023-20860">
