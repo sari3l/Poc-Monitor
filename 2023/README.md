@@ -79,6 +79,7 @@
 ## CVE-2023-34960 ()
 > 
 - [Aituglo/CVE-2023-34960](https://github.com/Aituglo/CVE-2023-34960)	<img alt="forks" src="https://img.shields.io/github/forks/Aituglo/CVE-2023-34960">	<img alt="stars" src="https://img.shields.io/github/stars/Aituglo/CVE-2023-34960">
+- [Jenderal92/CHAMILO-CVE-2023-34960](https://github.com/Jenderal92/CHAMILO-CVE-2023-34960)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CHAMILO-CVE-2023-34960">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CHAMILO-CVE-2023-34960">
 
 ---
 ## CVE-2023-34924 (2023-06-26T21:15:00)
