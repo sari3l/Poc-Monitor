@@ -767,6 +767,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 > OS command injection affects Altenergy Power Control Software C1.2.5 via shell metacharacters in the index.php/management/set_timezone timezone parameter, because of set_timezone in models/management_model.php.
 - [gobysec/CVE-2023-28343](https://github.com/gobysec/CVE-2023-28343)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/CVE-2023-28343">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/CVE-2023-28343">
 - [superzerosec/CVE-2023-28343](https://github.com/superzerosec/CVE-2023-28343)	<img alt="forks" src="https://img.shields.io/github/forks/superzerosec/CVE-2023-28343">	<img alt="stars" src="https://img.shields.io/github/stars/superzerosec/CVE-2023-28343">
+- [hba343434/CVE-2023-28343](https://github.com/hba343434/CVE-2023-28343)	<img alt="forks" src="https://img.shields.io/github/forks/hba343434/CVE-2023-28343">	<img alt="stars" src="https://img.shields.io/github/stars/hba343434/CVE-2023-28343">
 
 ---
 ## CVE-2023-2833 (2023-06-06T10:15:00)
