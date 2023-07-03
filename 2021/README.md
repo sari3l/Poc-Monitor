@@ -6330,6 +6330,7 @@
 - [peiqiF4ck/WebFrameworkTools-5.1-main](https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/WebFrameworkTools-5.1-main">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.1-main">
 - [34zY/APT-Backpack](https://github.com/34zY/APT-Backpack)	<img alt="forks" src="https://img.shields.io/github/forks/34zY/APT-Backpack">	<img alt="stars" src="https://img.shields.io/github/stars/34zY/APT-Backpack">
 - [Reclu3a/CVE-2021-26084-Confluence-OGNL](https://github.com/Reclu3a/CVE-2021-26084-Confluence-OGNL)	<img alt="forks" src="https://img.shields.io/github/forks/Reclu3a/CVE-2021-26084-Confluence-OGNL">	<img alt="stars" src="https://img.shields.io/github/stars/Reclu3a/CVE-2021-26084-Confluence-OGNL">
+- [R0OtAdm1n/CVE-2021-26084-EXP](https://github.com/R0OtAdm1n/CVE-2021-26084-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/R0OtAdm1n/CVE-2021-26084-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/R0OtAdm1n/CVE-2021-26084-EXP">
 
 ---
 ## CVE-2021-25956 (2021-08-17T15:15:00)
