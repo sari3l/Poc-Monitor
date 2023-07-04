@@ -143,6 +143,7 @@
 - [Mahamedm/CVE-2019-9053-Exploit-Python-3](https://github.com/Mahamedm/CVE-2019-9053-Exploit-Python-3)	<img alt="forks" src="https://img.shields.io/github/forks/Mahamedm/CVE-2019-9053-Exploit-Python-3">	<img alt="stars" src="https://img.shields.io/github/stars/Mahamedm/CVE-2019-9053-Exploit-Python-3">
 - [AppyAppy/super-octo-carnival](https://github.com/AppyAppy/super-octo-carnival)	<img alt="forks" src="https://img.shields.io/github/forks/AppyAppy/super-octo-carnival">	<img alt="stars" src="https://img.shields.io/github/stars/AppyAppy/super-octo-carnival">
 - [Sp4ceDogy/CVE-2019-9053.python3](https://github.com/Sp4ceDogy/CVE-2019-9053.python3)	<img alt="forks" src="https://img.shields.io/github/forks/Sp4ceDogy/CVE-2019-9053.python3">	<img alt="stars" src="https://img.shields.io/github/stars/Sp4ceDogy/CVE-2019-9053.python3">
+- [im-suman-roy/CVE-2019-9053](https://github.com/im-suman-roy/CVE-2019-9053)	<img alt="forks" src="https://img.shields.io/github/forks/im-suman-roy/CVE-2019-9053">	<img alt="stars" src="https://img.shields.io/github/stars/im-suman-roy/CVE-2019-9053">
 
 ---
 ## CVE-2019-8985 (2019-02-21T19:29:00)
