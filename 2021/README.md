@@ -758,6 +758,8 @@
 - [YuanRuQian/CVE-2021-44228-attack-demo](https://github.com/YuanRuQian/CVE-2021-44228-attack-demo)	<img alt="forks" src="https://img.shields.io/github/forks/YuanRuQian/CVE-2021-44228-attack-demo">	<img alt="stars" src="https://img.shields.io/github/stars/YuanRuQian/CVE-2021-44228-attack-demo">
 - [demonrvm/Log4ShellRemediation](https://github.com/demonrvm/Log4ShellRemediation)	<img alt="forks" src="https://img.shields.io/github/forks/demonrvm/Log4ShellRemediation">	<img alt="stars" src="https://img.shields.io/github/stars/demonrvm/Log4ShellRemediation">
 - [funcid/log4j-exploit-fork-bomb](https://github.com/funcid/log4j-exploit-fork-bomb)	<img alt="forks" src="https://img.shields.io/github/forks/funcid/log4j-exploit-fork-bomb">	<img alt="stars" src="https://img.shields.io/github/stars/funcid/log4j-exploit-fork-bomb">
+- [MrHarshvardhan/PY-Log4j-RCE-Scanner](https://github.com/MrHarshvardhan/PY-Log4j-RCE-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/MrHarshvardhan/PY-Log4j-RCE-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/MrHarshvardhan/PY-Log4j-RCE-Scanner">
+- [HynekPetrak/log4shell-finder](https://github.com/HynekPetrak/log4shell-finder)	<img alt="forks" src="https://img.shields.io/github/forks/HynekPetrak/log4shell-finder">	<img alt="stars" src="https://img.shields.io/github/stars/HynekPetrak/log4shell-finder">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
