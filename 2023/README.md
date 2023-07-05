@@ -74,6 +74,7 @@
 ## CVE-2023-35829 (2023-06-18T22:15:00)
 > An issue was discovered in the Linux kernel before 6.3.2. A use-after-free was found in rkvdec_remove in drivers/staging/media/rkvdec/rkvdec.c.
 - [ChriSanders22/CVE-2023-35829-poc](https://github.com/ChriSanders22/CVE-2023-35829-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ChriSanders22/CVE-2023-35829-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ChriSanders22/CVE-2023-35829-poc">
+- [apkc/CVE-2023-35829-poc](https://github.com/apkc/CVE-2023-35829-poc)	<img alt="forks" src="https://img.shields.io/github/forks/apkc/CVE-2023-35829-poc">	<img alt="stars" src="https://img.shields.io/github/stars/apkc/CVE-2023-35829-poc">
 
 ---
 ## CVE-2023-34965 (2023-06-13T19:15:00)
@@ -1622,6 +1623,7 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 ## CVE-2023-20871 (2023-04-25T21:15:00)
 > VMware Fusion contains a local privilege escalation vulnerability. A malicious actor with read/write access to the host operating system can elevate privileges to gain root access to the host operating system.
 - [ChriSanders22/CVE-2023-20871-poc](https://github.com/ChriSanders22/CVE-2023-20871-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ChriSanders22/CVE-2023-20871-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ChriSanders22/CVE-2023-20871-poc">
+- [hheeyywweellccoommee/CVE-2023-20871-poc-jbwbi](https://github.com/hheeyywweellccoommee/CVE-2023-20871-poc-jbwbi)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-20871-poc-jbwbi">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-20871-poc-jbwbi">
 
 ---
 ## CVE-2023-20860 (2023-03-27T22:15:00)
