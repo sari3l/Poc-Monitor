@@ -655,6 +655,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [tucommenceapousser/CVE-2023-29489.py](https://github.com/tucommenceapousser/CVE-2023-29489.py)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2023-29489.py">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2023-29489.py">
 
 ---
+## CVE-2023-29439 (2023-05-16T15:15:00)
+> Unauth. Reflected Cross-Site Scripting (XSS) vulnerability in FooPlugins FooGallery plugin <= 2.2.35 versions.
+- [LOURC0D3/CVE-2023-29439](https://github.com/LOURC0D3/CVE-2023-29439)	<img alt="forks" src="https://img.shields.io/github/forks/LOURC0D3/CVE-2023-29439">	<img alt="stars" src="https://img.shields.io/github/stars/LOURC0D3/CVE-2023-29439">
+
+---
 ## CVE-2023-29343 (2023-05-09T18:15:00)
 > SysInternals Sysmon for Windows Elevation of Privilege Vulnerability
 - [Wh04m1001/CVE-2023-29343](https://github.com/Wh04m1001/CVE-2023-29343)	<img alt="forks" src="https://img.shields.io/github/forks/Wh04m1001/CVE-2023-29343">	<img alt="stars" src="https://img.shields.io/github/stars/Wh04m1001/CVE-2023-29343">
