@@ -141,6 +141,11 @@
 - [leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below](https://github.com/leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below)	<img alt="forks" src="https://img.shields.io/github/forks/leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below">	<img alt="stars" src="https://img.shields.io/github/stars/leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below">
 
 ---
+## CVE-2023-3460 (2023-07-04T08:15:00)
+> The Ultimate Member WordPress plugin before 2.6.7 does not prevent visitors from creating user accounts with arbitrary capabilities, effectively allowing attackers to create administrator accounts at will. This is actively being exploited in the wild.
+- [gbrsh/CVE-2023-3460](https://github.com/gbrsh/CVE-2023-3460)	<img alt="forks" src="https://img.shields.io/github/forks/gbrsh/CVE-2023-3460">	<img alt="stars" src="https://img.shields.io/github/stars/gbrsh/CVE-2023-3460">
+
+---
 ## CVE-2023-34599 (2023-06-29T15:15:00)
 > Multiple Cross-Site Scripting (XSS) vulnerabilities have been identified in Gibbon v25.0.0, which enable attackers to execute arbitrary Javascript code.
 - [maddsec/CVE-2023-34599](https://github.com/maddsec/CVE-2023-34599)	<img alt="forks" src="https://img.shields.io/github/forks/maddsec/CVE-2023-34599">	<img alt="stars" src="https://img.shields.io/github/stars/maddsec/CVE-2023-34599">
