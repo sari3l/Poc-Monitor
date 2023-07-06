@@ -305,7 +305,7 @@
 ## CVE-2023-3338 (2023-06-30T22:15:00)
 > A flaw null pointer dereference in the Linux kernel DECnet networking protocol was found. A remote user could use this flaw to crash the system.
 - [TurtleARM/CVE-2023-3338](https://github.com/TurtleARM/CVE-2023-3338)	<img alt="forks" src="https://img.shields.io/github/forks/TurtleARM/CVE-2023-3338">	<img alt="stars" src="https://img.shields.io/github/stars/TurtleARM/CVE-2023-3338">
-- [TurtleARM/CVE-2023-3338](https://github.com/TurtleARM/CVE-2023-3338)	<img alt="forks" src="https://img.shields.io/github/forks/TurtleARM/CVE-2023-3338">	<img alt="stars" src="https://img.shields.io/github/stars/TurtleARM/CVE-2023-3338">
+- [TurtleARM/CVE-2023-3338-DECPwn](https://github.com/TurtleARM/CVE-2023-3338-DECPwn)	<img alt="forks" src="https://img.shields.io/github/forks/TurtleARM/CVE-2023-3338-DECPwn">	<img alt="stars" src="https://img.shields.io/github/stars/TurtleARM/CVE-2023-3338-DECPwn">
 - [duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC](https://github.com/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC)	<img alt="forks" src="https://img.shields.io/github/forks/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC">	<img alt="stars" src="https://img.shields.io/github/stars/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC">
 
 ---
