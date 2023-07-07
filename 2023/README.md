@@ -646,6 +646,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [RandomRobbieBF/CVE-2023-2982](https://github.com/RandomRobbieBF/CVE-2023-2982)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-2982">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-2982">
 - [H4K6/CVE-2023-2982-POC](https://github.com/H4K6/CVE-2023-2982-POC)	<img alt="forks" src="https://img.shields.io/github/forks/H4K6/CVE-2023-2982-POC">	<img alt="stars" src="https://img.shields.io/github/stars/H4K6/CVE-2023-2982-POC">
 - [LoaiEsam37/CVE-2023-2982](https://github.com/LoaiEsam37/CVE-2023-2982)	<img alt="forks" src="https://img.shields.io/github/forks/LoaiEsam37/CVE-2023-2982">	<img alt="stars" src="https://img.shields.io/github/stars/LoaiEsam37/CVE-2023-2982">
+- [hheeyywweellccoommee/CVE-2023-2982-ugdqh](https://github.com/hheeyywweellccoommee/CVE-2023-2982-ugdqh)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-2982-ugdqh">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-2982-ugdqh">
 
 ---
 ## CVE-2023-29809 (2023-05-12T01:15:00)
