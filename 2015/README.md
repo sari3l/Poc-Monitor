@@ -276,6 +276,11 @@
 - [Live-Hack-CVE/CVE-2015-1787](https://github.com/Live-Hack-CVE/CVE-2015-1787)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-1787">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-1787">
 
 ---
+## CVE-2015-1578 (2015-02-11T19:59:00)
+> Multiple open redirect vulnerabilities in u5CMS before 3.9.4 allow remote attackers to redirect users to arbitrary web sites and conduct phishing attacks via a URL in the (1) pidvesa cookie to u5admin/pidvesa.php or (2) uri parameter to u5admin/meta2.php. <a href="http://cwe.mitre.org/data/definitions/601.html">CWE-601: URL Redirection to Untrusted Site ('Open Redirect')</a>
+- [Zeppperoni/CVE-2015-1578](https://github.com/Zeppperoni/CVE-2015-1578)	<img alt="forks" src="https://img.shields.io/github/forks/Zeppperoni/CVE-2015-1578">	<img alt="stars" src="https://img.shields.io/github/stars/Zeppperoni/CVE-2015-1578">
+
+---
 ## CVE-2015-1427 (2015-02-17T15:59:00)
 > The Groovy scripting engine in Elasticsearch before 1.3.8 and 1.4.x before 1.4.3 allows remote attackers to bypass the sandbox protection mechanism and execute arbitrary shell commands via a crafted script.
 - [xpgdgit/CVE-2015-1427](https://github.com/xpgdgit/CVE-2015-1427)	<img alt="forks" src="https://img.shields.io/github/forks/xpgdgit/CVE-2015-1427">	<img alt="stars" src="https://img.shields.io/github/stars/xpgdgit/CVE-2015-1427">
