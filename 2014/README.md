@@ -54,6 +54,7 @@
 - [Brandaoo/CVE-2014-6271](https://github.com/Brandaoo/CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/Brandaoo/CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/Brandaoo/CVE-2014-6271">
 - [opsxcq/exploit-CVE-2014-6271](https://github.com/opsxcq/exploit-CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/opsxcq/exploit-CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/opsxcq/exploit-CVE-2014-6271">
 - [Darkrai-404/CVE-2014-6271-Shellshock-Vulnerability](https://github.com/Darkrai-404/CVE-2014-6271-Shellshock-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Darkrai-404/CVE-2014-6271-Shellshock-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Darkrai-404/CVE-2014-6271-Shellshock-Vulnerability">
+- [JoaoPedroMoreira02/CVE-2014-6271](https://github.com/JoaoPedroMoreira02/CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/JoaoPedroMoreira02/CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/JoaoPedroMoreira02/CVE-2014-6271">
 
 ---
 ## CVE-2014-6230 (2014-10-25T00:55:00)
