@@ -56,6 +56,26 @@
 - [RandomRobbieBF/CVE-2023-36531](https://github.com/RandomRobbieBF/CVE-2023-36531)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-36531">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-36531">
 
 ---
+## CVE-2023-36167 ()
+> 
+- [TraiLeR2/CVE-2023-36167](https://github.com/TraiLeR2/CVE-2023-36167)	<img alt="forks" src="https://img.shields.io/github/forks/TraiLeR2/CVE-2023-36167">	<img alt="stars" src="https://img.shields.io/github/stars/TraiLeR2/CVE-2023-36167">
+
+---
+## CVE-2023-36166 ()
+> 
+- [TraiLeR2/CVE-2023-36166](https://github.com/TraiLeR2/CVE-2023-36166)	<img alt="forks" src="https://img.shields.io/github/forks/TraiLeR2/CVE-2023-36166">	<img alt="stars" src="https://img.shields.io/github/stars/TraiLeR2/CVE-2023-36166">
+
+---
+## CVE-2023-36165 ()
+> 
+- [TraiLeR2/CVE-2023-36165](https://github.com/TraiLeR2/CVE-2023-36165)	<img alt="forks" src="https://img.shields.io/github/forks/TraiLeR2/CVE-2023-36165">	<img alt="stars" src="https://img.shields.io/github/stars/TraiLeR2/CVE-2023-36165">
+
+---
+## CVE-2023-36164 ()
+> 
+- [TraiLeR2/CVE-2023-36164](https://github.com/TraiLeR2/CVE-2023-36164)	<img alt="forks" src="https://img.shields.io/github/forks/TraiLeR2/CVE-2023-36164">	<img alt="stars" src="https://img.shields.io/github/stars/TraiLeR2/CVE-2023-36164">
+
+---
 ## CVE-2023-36163 ()
 > 
 - [TraiLeR2/CVE-2023-36163](https://github.com/TraiLeR2/CVE-2023-36163)	<img alt="forks" src="https://img.shields.io/github/forks/TraiLeR2/CVE-2023-36163">	<img alt="stars" src="https://img.shields.io/github/stars/TraiLeR2/CVE-2023-36163">
