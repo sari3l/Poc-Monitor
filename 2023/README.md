@@ -133,6 +133,7 @@
 - [Aituglo/CVE-2023-34960](https://github.com/Aituglo/CVE-2023-34960)	<img alt="forks" src="https://img.shields.io/github/forks/Aituglo/CVE-2023-34960">	<img alt="stars" src="https://img.shields.io/github/stars/Aituglo/CVE-2023-34960">
 - [Jenderal92/CHAMILO-CVE-2023-34960](https://github.com/Jenderal92/CHAMILO-CVE-2023-34960)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CHAMILO-CVE-2023-34960">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CHAMILO-CVE-2023-34960">
 - [peiqiF4ck/WebFrameworkTools-5.1-main](https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/WebFrameworkTools-5.1-main">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.1-main">
+- [YongYe-Security/Chamilo_CVE-2023-34960-EXP](https://github.com/YongYe-Security/Chamilo_CVE-2023-34960-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/YongYe-Security/Chamilo_CVE-2023-34960-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/YongYe-Security/Chamilo_CVE-2023-34960-EXP">
 
 ---
 ## CVE-2023-34924 (2023-06-26T21:15:00)
