@@ -452,6 +452,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [Jenderal92/WP-CVE-2023-32243](https://github.com/Jenderal92/WP-CVE-2023-32243)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/WP-CVE-2023-32243">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/WP-CVE-2023-32243">
 
 ---
+## CVE-2023-32235 (2023-05-05T05:15:00)
+> Ghost before 5.42.1 allows remote attackers to read arbitrary files within the active theme's folder via /assets/built%2F..%2F..%2F/ directory traversal. This occurs in frontend/web/middleware/static-theme.js.
+- [VEEXH/Ghost-Path-Traversal-CVE-2023-32235-](https://github.com/VEEXH/Ghost-Path-Traversal-CVE-2023-32235-)	<img alt="forks" src="https://img.shields.io/github/forks/VEEXH/Ghost-Path-Traversal-CVE-2023-32235-">	<img alt="stars" src="https://img.shields.io/github/stars/VEEXH/Ghost-Path-Traversal-CVE-2023-32235-">
+
+---
 ## CVE-2023-32233 (2023-05-08T20:15:00)
 > In the Linux kernel through 6.3.1, a use-after-free in Netfilter nf_tables when processing batch requests can be abused to perform arbitrary read and write operations on kernel memory. Unprivileged local users can obtain root privileges. This occurs because anonymous sets are mishandled.
 - [PIDAN-HEIDASHUAI/CVE-2023-32233](https://github.com/PIDAN-HEIDASHUAI/CVE-2023-32233)	<img alt="forks" src="https://img.shields.io/github/forks/PIDAN-HEIDASHUAI/CVE-2023-32233">	<img alt="stars" src="https://img.shields.io/github/stars/PIDAN-HEIDASHUAI/CVE-2023-32233">
