@@ -231,6 +231,7 @@
 - [sickthecat/CVE-2023-34362](https://github.com/sickthecat/CVE-2023-34362)	<img alt="forks" src="https://img.shields.io/github/forks/sickthecat/CVE-2023-34362">	<img alt="stars" src="https://img.shields.io/github/stars/sickthecat/CVE-2023-34362">
 - [kenbuckler/MOVEit-CVE-2023-34362](https://github.com/kenbuckler/MOVEit-CVE-2023-34362)	<img alt="forks" src="https://img.shields.io/github/forks/kenbuckler/MOVEit-CVE-2023-34362">	<img alt="stars" src="https://img.shields.io/github/stars/kenbuckler/MOVEit-CVE-2023-34362">
 - [hheeyywweellccoommee/CVE-2023-34362-zcial](https://github.com/hheeyywweellccoommee/CVE-2023-34362-zcial)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-34362-zcial">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-34362-zcial">
+- [Malwareman007/CVE-2023-34362](https://github.com/Malwareman007/CVE-2023-34362)	<img alt="forks" src="https://img.shields.io/github/forks/Malwareman007/CVE-2023-34362">	<img alt="stars" src="https://img.shields.io/github/stars/Malwareman007/CVE-2023-34362">
 
 ---
 ## CVE-2023-34096 (2023-06-08T19:15:00)
