@@ -109,6 +109,7 @@
 ## CVE-2023-35843 (2023-06-19T18:15:00)
 > NocoDB through 0.106.0 (or 0.109.1) has a path traversal vulnerability that allows an unauthenticated attacker to access arbitrary files on the server by manipulating the path parameter of the /download route. This vulnerability could allow an attacker to access sensitive files and data on the server, including configuration files, source code, and other sensitive information.
 - [Szlein/CVE-2023-35843](https://github.com/Szlein/CVE-2023-35843)	<img alt="forks" src="https://img.shields.io/github/forks/Szlein/CVE-2023-35843">	<img alt="stars" src="https://img.shields.io/github/stars/Szlein/CVE-2023-35843">
+- [b3nguang/CVE-2023-35843](https://github.com/b3nguang/CVE-2023-35843)	<img alt="forks" src="https://img.shields.io/github/forks/b3nguang/CVE-2023-35843">	<img alt="stars" src="https://img.shields.io/github/stars/b3nguang/CVE-2023-35843">
 
 ---
 ## CVE-2023-35840 (2023-06-19T01:15:00)
