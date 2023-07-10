@@ -26,6 +26,26 @@
 - [Trinadh465/linux_4.19.72_CVE-2023-42896](https://github.com/Trinadh465/linux_4.19.72_CVE-2023-42896)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux_4.19.72_CVE-2023-42896">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux_4.19.72_CVE-2023-42896">
 
 ---
+## CVE-2023-37599 ()
+> 
+- [sahiloj/CVE-2023-37599](https://github.com/sahiloj/CVE-2023-37599)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-37599">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-37599">
+
+---
+## CVE-2023-37598 ()
+> 
+- [sahiloj/CVE-2023-37598](https://github.com/sahiloj/CVE-2023-37598)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-37598">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-37598">
+
+---
+## CVE-2023-37597 ()
+> 
+- [sahiloj/CVE-2023-37597](https://github.com/sahiloj/CVE-2023-37597)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-37597">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-37597">
+
+---
+## CVE-2023-37596 ()
+> 
+- [sahiloj/CVE-2023-37596](https://github.com/sahiloj/CVE-2023-37596)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-37596">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-37596">
+
+---
 ## CVE-2023-37250 ()
 > 
 - [ewilded/CVE-2023-37250](https://github.com/ewilded/CVE-2023-37250)	<img alt="forks" src="https://img.shields.io/github/forks/ewilded/CVE-2023-37250">	<img alt="stars" src="https://img.shields.io/github/stars/ewilded/CVE-2023-37250">
