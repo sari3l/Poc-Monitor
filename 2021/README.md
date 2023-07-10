@@ -2606,6 +2606,7 @@
 - [zxc2007/CVE-2021-4034](https://github.com/zxc2007/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/zxc2007/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/zxc2007/CVE-2021-4034">
 - [TheSermux/CVE-2021-4034](https://github.com/TheSermux/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/TheSermux/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/TheSermux/CVE-2021-4034">
 - [ps-interactive/lab_cve-2021-4034-polkit-emulation-and-detection](https://github.com/ps-interactive/lab_cve-2021-4034-polkit-emulation-and-detection)	<img alt="forks" src="https://img.shields.io/github/forks/ps-interactive/lab_cve-2021-4034-polkit-emulation-and-detection">	<img alt="stars" src="https://img.shields.io/github/stars/ps-interactive/lab_cve-2021-4034-polkit-emulation-and-detection">
+- [asepsaepdin/CVE-2021-4034](https://github.com/asepsaepdin/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/asepsaepdin/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/asepsaepdin/CVE-2021-4034">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
