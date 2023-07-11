@@ -213,6 +213,7 @@
 - [gbrsh/CVE-2023-3460](https://github.com/gbrsh/CVE-2023-3460)	<img alt="forks" src="https://img.shields.io/github/forks/gbrsh/CVE-2023-3460">	<img alt="stars" src="https://img.shields.io/github/stars/gbrsh/CVE-2023-3460">
 - [rizqimaulanaa/CVE-2023-3460](https://github.com/rizqimaulanaa/CVE-2023-3460)	<img alt="forks" src="https://img.shields.io/github/forks/rizqimaulanaa/CVE-2023-3460">	<img alt="stars" src="https://img.shields.io/github/stars/rizqimaulanaa/CVE-2023-3460">
 - [yon3zu/Mass-CVE-2023-3460](https://github.com/yon3zu/Mass-CVE-2023-3460)	<img alt="forks" src="https://img.shields.io/github/forks/yon3zu/Mass-CVE-2023-3460">	<img alt="stars" src="https://img.shields.io/github/stars/yon3zu/Mass-CVE-2023-3460">
+- [Fire-Null/CVE-2023-3460](https://github.com/Fire-Null/CVE-2023-3460)	<img alt="forks" src="https://img.shields.io/github/forks/Fire-Null/CVE-2023-3460">	<img alt="stars" src="https://img.shields.io/github/stars/Fire-Null/CVE-2023-3460">
 
 ---
 ## CVE-2023-34599 (2023-06-29T15:15:00)
