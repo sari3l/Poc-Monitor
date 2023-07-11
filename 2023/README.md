@@ -1048,6 +1048,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [FzBacon/CVE-2023-27216_D-Link_DSL-3782_Router_command_injection](https://github.com/FzBacon/CVE-2023-27216_D-Link_DSL-3782_Router_command_injection)	<img alt="forks" src="https://img.shields.io/github/forks/FzBacon/CVE-2023-27216_D-Link_DSL-3782_Router_command_injection">	<img alt="stars" src="https://img.shields.io/github/stars/FzBacon/CVE-2023-27216_D-Link_DSL-3782_Router_command_injection">
 
 ---
+## CVE-2023-27163 (2023-03-31T20:15:00)
+> request-baskets up to v1.2.1 was discovered to contain a Server-Side Request Forgery (SSRF) via the component /api/baskets/{name}. This vulnerability allows attackers to access network resources and sensitive information via a crafted API request.
+- [entr0pie/CVE-2023-27163](https://github.com/entr0pie/CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/entr0pie/CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/entr0pie/CVE-2023-27163">
+
+---
 ## CVE-2023-27100 (2023-03-22T23:15:00)
 > Improper restriction of excessive authentication attempts in the SSHGuard component of Netgate pfSense Plus software v22.05.1 and pfSense CE software v2.6.0 allows attackers to bypass brute force protection mechanisms via crafted web requests.
 - [DarokNET/CVE-2023-27100](https://github.com/DarokNET/CVE-2023-27100)	<img alt="forks" src="https://img.shields.io/github/forks/DarokNET/CVE-2023-27100">	<img alt="stars" src="https://img.shields.io/github/stars/DarokNET/CVE-2023-27100">
