@@ -51,18 +51,18 @@
 - [ewilded/CVE-2023-37250](https://github.com/ewilded/CVE-2023-37250)	<img alt="forks" src="https://img.shields.io/github/forks/ewilded/CVE-2023-37250">	<img alt="stars" src="https://img.shields.io/github/stars/ewilded/CVE-2023-37250">
 
 ---
-## CVE-2023-37191 ()
-> 
+## CVE-2023-37191 (2023-07-11T01:15:00)
+> A stored cross-site scripting (XSS) vulnerability in Issabel issabel-pbx v.4.0.0-6 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Group and Description parameters.
 - [sahiloj/CVE-2023-37191](https://github.com/sahiloj/CVE-2023-37191)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-37191">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-37191">
 
 ---
-## CVE-2023-37190 ()
-> 
+## CVE-2023-37190 (2023-07-11T02:15:00)
+> A stored cross-site scripting (XSS) vulnerability in Issabel issabel-pbx v.4.0.0-6 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Virtual Fax Name and Caller ID Name parameters under the New Virtual Fax feature.
 - [sahiloj/CVE-2023-37190](https://github.com/sahiloj/CVE-2023-37190)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-37190">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-37190">
 
 ---
-## CVE-2023-37189 ()
-> 
+## CVE-2023-37189 (2023-07-11T02:15:00)
+> A stored cross site scripting (XSS) vulnerability in index.php?menu=billing_rates of Issabel PBX version 4 allows attackers to execute arbitrary web scripts or HTML via a crafted payload entered into the Name or Prefix fields under the Create New Rate module.
 - [sahiloj/CVE-2023-37189](https://github.com/sahiloj/CVE-2023-37189)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-37189">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-37189">
 
 ---
