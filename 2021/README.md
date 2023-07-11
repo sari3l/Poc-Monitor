@@ -8016,8 +8016,9 @@
 - [oneoy/CVE-2021-1732-Exploit](https://github.com/oneoy/CVE-2021-1732-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/oneoy/CVE-2021-1732-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/oneoy/CVE-2021-1732-Exploit">
 - [k-k-k-k-k/CVE-2021-1732](https://github.com/k-k-k-k-k/CVE-2021-1732)	<img alt="forks" src="https://img.shields.io/github/forks/k-k-k-k-k/CVE-2021-1732">	<img alt="stars" src="https://img.shields.io/github/stars/k-k-k-k-k/CVE-2021-1732">
 - [KaLendsi/CVE-2021-1732-Exploit](https://github.com/KaLendsi/CVE-2021-1732-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/KaLendsi/CVE-2021-1732-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/KaLendsi/CVE-2021-1732-Exploit">
-- [r2bet/CVE-2021-1732](https://github.com/r2bet/CVE-2021-1732)	<img alt="forks" src="https://img.shields.io/github/forks/r2bet/CVE-2021-1732">	<img alt="stars" src="https://img.shields.io/github/stars/r2bet/CVE-2021-1732">
+- [4dp/CVE-2021-1732](https://github.com/4dp/CVE-2021-1732)	<img alt="forks" src="https://img.shields.io/github/forks/4dp/CVE-2021-1732">	<img alt="stars" src="https://img.shields.io/github/stars/4dp/CVE-2021-1732">
 - [yangshifan-git/CVE-2021-1732](https://github.com/yangshifan-git/CVE-2021-1732)	<img alt="forks" src="https://img.shields.io/github/forks/yangshifan-git/CVE-2021-1732">	<img alt="stars" src="https://img.shields.io/github/stars/yangshifan-git/CVE-2021-1732">
+- [asepsaepdin/CVE-2021-1732](https://github.com/asepsaepdin/CVE-2021-1732)	<img alt="forks" src="https://img.shields.io/github/forks/asepsaepdin/CVE-2021-1732">	<img alt="stars" src="https://img.shields.io/github/stars/asepsaepdin/CVE-2021-1732">
 
 ---
 ## CVE-2021-1675 (2021-06-08T23:15:00)
