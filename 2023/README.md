@@ -36,13 +36,13 @@
 - [sahiloj/CVE-2023-37598](https://github.com/sahiloj/CVE-2023-37598)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-37598">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-37598">
 
 ---
-## CVE-2023-37597 ()
-> 
+## CVE-2023-37597 (2023-07-11T17:15:00)
+> Cross Site Request Forgery (CSRF) vulnerability in issabel-pbx v.4.0.0-6 allows a remote attacker to cause a denial of service via the delete user grouplist function.
 - [sahiloj/CVE-2023-37597](https://github.com/sahiloj/CVE-2023-37597)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-37597">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-37597">
 
 ---
-## CVE-2023-37596 ()
-> 
+## CVE-2023-37596 (2023-07-11T17:15:00)
+> Cross Site Request Forgery (CSRF) vulnerability in issabel-pbx v.4.0.0-6 allows a remote attacker to cause a denial of service via a crafted script to the deleteuser function.
 - [sahiloj/CVE-2023-37596](https://github.com/sahiloj/CVE-2023-37596)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-37596">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-37596">
 
 ---
