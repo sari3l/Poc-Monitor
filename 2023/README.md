@@ -148,6 +148,11 @@
 - [lachlan2k/CVE-2023-35803](https://github.com/lachlan2k/CVE-2023-35803)	<img alt="forks" src="https://img.shields.io/github/forks/lachlan2k/CVE-2023-35803">	<img alt="stars" src="https://img.shields.io/github/stars/lachlan2k/CVE-2023-35803">
 
 ---
+## CVE-2023-35744 ()
+> 
+- [ADSSA-IT/CVE-2023-35744](https://github.com/ADSSA-IT/CVE-2023-35744)	<img alt="forks" src="https://img.shields.io/github/forks/ADSSA-IT/CVE-2023-35744">	<img alt="stars" src="https://img.shields.io/github/stars/ADSSA-IT/CVE-2023-35744">
+
+---
 ## CVE-2023-34965 (2023-06-13T19:15:00)
 > SSPanel-Uim 2023.3 does not restrict access to the /link/ interface which can lead to a leak of user information.
 - [AgentY0/CVE-2023-34965](https://github.com/AgentY0/CVE-2023-34965)	<img alt="forks" src="https://img.shields.io/github/forks/AgentY0/CVE-2023-34965">	<img alt="stars" src="https://img.shields.io/github/stars/AgentY0/CVE-2023-34965">
