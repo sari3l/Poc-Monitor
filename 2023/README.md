@@ -1133,8 +1133,8 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [Zenmovie/CVE-2023-26604](https://github.com/Zenmovie/CVE-2023-26604)	<img alt="forks" src="https://img.shields.io/github/forks/Zenmovie/CVE-2023-26604">	<img alt="stars" src="https://img.shields.io/github/stars/Zenmovie/CVE-2023-26604">
 
 ---
-## CVE-2023-26563 ()
-> 
+## CVE-2023-26563 (2023-07-12T21:15:00)
+> The Syncfusion EJ2 Node File Provider 0102271 is vulnerable to filesystem-server.js directory traversal. As a result, an unauthenticated attacker can: - On Windows, list files in any directory, read any file, delete any file, upload any file to any directory accessible by the web server. - On Linux, read any file, download any directory, delete any file, upload any file to any directory accessible by the web server.
 - [RupturaInfoSec/CVE-2023-26563-26564-26565](https://github.com/RupturaInfoSec/CVE-2023-26563-26564-26565)	<img alt="forks" src="https://img.shields.io/github/forks/RupturaInfoSec/CVE-2023-26563-26564-26565">	<img alt="stars" src="https://img.shields.io/github/stars/RupturaInfoSec/CVE-2023-26563-26564-26565">
 
 ---
