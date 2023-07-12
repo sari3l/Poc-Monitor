@@ -246,6 +246,7 @@ This CVE will be updated with new information and links to security updates when
 - [Fire-Null/CVE-2023-3460](https://github.com/Fire-Null/CVE-2023-3460)	<img alt="forks" src="https://img.shields.io/github/forks/Fire-Null/CVE-2023-3460">	<img alt="stars" src="https://img.shields.io/github/stars/Fire-Null/CVE-2023-3460">
 - [hheeyywweellccoommee/CVE-2023-3460-obgen](https://github.com/hheeyywweellccoommee/CVE-2023-3460-obgen)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-3460-obgen">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-3460-obgen">
 - [Fire-Null/CVE-2023-3460](https://github.com/Fire-Null/CVE-2023-3460)	<img alt="forks" src="https://img.shields.io/github/forks/Fire-Null/CVE-2023-3460">	<img alt="stars" src="https://img.shields.io/github/stars/Fire-Null/CVE-2023-3460">
+- [diego-tella/CVE-2023-3460](https://github.com/diego-tella/CVE-2023-3460)	<img alt="forks" src="https://img.shields.io/github/forks/diego-tella/CVE-2023-3460">	<img alt="stars" src="https://img.shields.io/github/stars/diego-tella/CVE-2023-3460">
 
 ---
 ## CVE-2023-34599 (2023-06-29T15:15:00)
