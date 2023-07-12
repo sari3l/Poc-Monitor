@@ -93,7 +93,7 @@ This CVE will be updated with new information and links to security updates when
 ---
 ## CVE-2023-3640 ()
 > 
-- [pray77/SCTF2023_kernelpwn-CVE-2023-3640](https://github.com/pray77/SCTF2023_kernelpwn-CVE-2023-3640)	<img alt="forks" src="https://img.shields.io/github/forks/pray77/SCTF2023_kernelpwn-CVE-2023-3640">	<img alt="stars" src="https://img.shields.io/github/stars/pray77/SCTF2023_kernelpwn-CVE-2023-3640">
+- [pray77/CVE-2023-3640](https://github.com/pray77/CVE-2023-3640)	<img alt="forks" src="https://img.shields.io/github/forks/pray77/CVE-2023-3640">	<img alt="stars" src="https://img.shields.io/github/stars/pray77/CVE-2023-3640">
 
 ---
 ## CVE-2023-36167 (2023-07-11T14:15:00)
