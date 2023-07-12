@@ -66,6 +66,21 @@
 - [sahiloj/CVE-2023-37189](https://github.com/sahiloj/CVE-2023-37189)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-37189">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-37189">
 
 ---
+## CVE-2023-36884 (2023-07-11T19:15:00)
+> Microsoft is investigating reports of a series of remote code execution vulnerabilities impacting Windows and Office products. Microsoft is aware of targeted attacks that attempt to exploit these vulnerabilities by using specially-crafted Microsoft Office documents.
+
+An attacker could create a specially crafted Microsoft Office document that enables them to perform remote code execution in the context of the victim. However, an attacker would have to convince the victim to open the malicious file.
+
+Upon completion of this investigation, Microsoft will take the appropriate action to help protect our customers. This might include providing a security update through our monthly release process or providing an out-of-cycle security update, depending on customer needs.
+
+Please see the Microsoft Threat Intelligence  Blog https://aka.ms/Storm-0978  Entry for important information about steps you can take to protect your system from this vulnerability.
+
+This CVE will be updated with new information and links to security updates when they become available.
+
+
+- [Maxwitat/CVE-2023-36884-Scripts-for-Intune-Remediation-SCCM-Compliance-Baseline](https://github.com/Maxwitat/CVE-2023-36884-Scripts-for-Intune-Remediation-SCCM-Compliance-Baseline)	<img alt="forks" src="https://img.shields.io/github/forks/Maxwitat/CVE-2023-36884-Scripts-for-Intune-Remediation-SCCM-Compliance-Baseline">	<img alt="stars" src="https://img.shields.io/github/stars/Maxwitat/CVE-2023-36884-Scripts-for-Intune-Remediation-SCCM-Compliance-Baseline">
+
+---
 ## CVE-2023-36544 ()
 > 
 - [KOwloid/cve-2023-36544](https://github.com/KOwloid/cve-2023-36544)	<img alt="forks" src="https://img.shields.io/github/forks/KOwloid/cve-2023-36544">	<img alt="stars" src="https://img.shields.io/github/stars/KOwloid/cve-2023-36544">
@@ -324,8 +339,8 @@
 - [sahiloj/CVE-2023-33730](https://github.com/sahiloj/CVE-2023-33730)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-33730">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-33730">
 
 ---
-## CVE-2023-33668 ()
-> 
+## CVE-2023-33668 (2023-07-12T13:15:00)
+> DigiExam up to v14.0.2 lacks integrity checks for native modules, allowing attackers to access PII and takeover accounts on shared computers.
 - [lodi-g/CVE-2023-33668](https://github.com/lodi-g/CVE-2023-33668)	<img alt="forks" src="https://img.shields.io/github/forks/lodi-g/CVE-2023-33668">	<img alt="stars" src="https://img.shields.io/github/stars/lodi-g/CVE-2023-33668">
 
 ---
