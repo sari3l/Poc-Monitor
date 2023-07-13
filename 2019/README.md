@@ -2278,6 +2278,11 @@
 - [5l1v3r1/fuzzenv-exiv2](https://github.com/5l1v3r1/fuzzenv-exiv2)	<img alt="forks" src="https://img.shields.io/github/forks/5l1v3r1/fuzzenv-exiv2">	<img alt="stars" src="https://img.shields.io/github/stars/5l1v3r1/fuzzenv-exiv2">
 
 ---
+## CVE-2019-13292 (2019-07-04T22:15:00)
+> A SQL Injection issue was discovered in webERP 4.15. Payments.php accepts payment data in base64 format. After this is decoded, it is deserialized. Then, this deserialized data goes directly into a SQL query, with no sanitizing checks.
+- [gustanini/CVE-2019-13292-WebERP_4.15](https://github.com/gustanini/CVE-2019-13292-WebERP_4.15)	<img alt="forks" src="https://img.shields.io/github/forks/gustanini/CVE-2019-13292-WebERP_4.15">	<img alt="stars" src="https://img.shields.io/github/stars/gustanini/CVE-2019-13292-WebERP_4.15">
+
+---
 ## CVE-2019-13120 (2019-10-07T22:15:00)
 > Amazon FreeRTOS up to and including v1.4.8 lacks length checking in prvProcessReceivedPublish, resulting in untargetable leakage of arbitrary memory contents on a device to an attacker. If an attacker has the authorization to send a malformed MQTT publish packet to an Amazon IoT Thing, which interacts with an associated vulnerable MQTT message in the application, specific circumstances could trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2019-13120](https://github.com/Live-Hack-CVE/CVE-2019-13120)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13120">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13120">
