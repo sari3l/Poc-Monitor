@@ -320,8 +320,8 @@ This CVE will be updated with new information and links to security updates when
 - [s0tr/CVE-2023-33781](https://github.com/s0tr/CVE-2023-33781)	<img alt="forks" src="https://img.shields.io/github/forks/s0tr/CVE-2023-33781">	<img alt="stars" src="https://img.shields.io/github/stars/s0tr/CVE-2023-33781">
 
 ---
-## CVE-2023-33768 ()
-> 
+## CVE-2023-33768 (2023-07-13T16:15:00)
+> Incorrect signature verification of the firmware during the Device Firmware Update process of Belkin Wemo Smart Plug WSP080 v1.2 allows attackers to cause a Denial of Service (DoS) via a crafted firmware file.
 - [purseclab/CVE-2023-33768](https://github.com/purseclab/CVE-2023-33768)	<img alt="forks" src="https://img.shields.io/github/forks/purseclab/CVE-2023-33768">	<img alt="stars" src="https://img.shields.io/github/stars/purseclab/CVE-2023-33768">
 
 ---
@@ -546,13 +546,13 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [HritikThapa7/CVE-2023-31711](https://github.com/HritikThapa7/CVE-2023-31711)	<img alt="forks" src="https://img.shields.io/github/forks/HritikThapa7/CVE-2023-31711">	<img alt="stars" src="https://img.shields.io/github/stars/HritikThapa7/CVE-2023-31711">
 
 ---
-## CVE-2023-31705 ()
-> 
+## CVE-2023-31705 (2023-07-13T15:15:00)
+> A Reflected Cross-site scripting (XSS) vulnerability in Sourcecodester Task Reminder System 1.0 allows an authenticated user to inject malicious javascript into the page parameter.
 - [d34dun1c02n/CVE-2023-31705](https://github.com/d34dun1c02n/CVE-2023-31705)	<img alt="forks" src="https://img.shields.io/github/forks/d34dun1c02n/CVE-2023-31705">	<img alt="stars" src="https://img.shields.io/github/stars/d34dun1c02n/CVE-2023-31705">
 
 ---
-## CVE-2023-31704 ()
-> 
+## CVE-2023-31704 (2023-07-13T15:15:00)
+> Sourcecodester Online Computer and Laptop Store 1.0 is vulnerable to Incorrect Access Control, which allows remote attackers to elevate privileges to the administrator's role.
 - [d34dun1c02n/CVE-2023-31704](https://github.com/d34dun1c02n/CVE-2023-31704)	<img alt="forks" src="https://img.shields.io/github/forks/d34dun1c02n/CVE-2023-31704">	<img alt="stars" src="https://img.shields.io/github/stars/d34dun1c02n/CVE-2023-31704">
 
 ---
