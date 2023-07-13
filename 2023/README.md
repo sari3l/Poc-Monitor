@@ -31,8 +31,8 @@
 - [sahiloj/CVE-2023-37599](https://github.com/sahiloj/CVE-2023-37599)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-37599">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-37599">
 
 ---
-## CVE-2023-37598 ()
-> 
+## CVE-2023-37598 (2023-07-13T21:15:00)
+> A Cross Site Request Forgery (CSRF) vulnerability in issabel-pbx v.4.0.0-6 allows a remote attacker to cause a denial of service via the delete new virtual fax function.
 - [sahiloj/CVE-2023-37598](https://github.com/sahiloj/CVE-2023-37598)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-37598">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-37598">
 
 ---
