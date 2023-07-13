@@ -79,6 +79,7 @@ This CVE will be updated with new information and links to security updates when
 
 
 - [Maxwitat/CVE-2023-36884-Scripts-for-Intune-Remediation-SCCM-Compliance-Baseline](https://github.com/Maxwitat/CVE-2023-36884-Scripts-for-Intune-Remediation-SCCM-Compliance-Baseline)	<img alt="forks" src="https://img.shields.io/github/forks/Maxwitat/CVE-2023-36884-Scripts-for-Intune-Remediation-SCCM-Compliance-Baseline">	<img alt="stars" src="https://img.shields.io/github/stars/Maxwitat/CVE-2023-36884-Scripts-for-Intune-Remediation-SCCM-Compliance-Baseline">
+- [deepinstinct/Storm0978-RomCom-Campaign](https://github.com/deepinstinct/Storm0978-RomCom-Campaign)	<img alt="forks" src="https://img.shields.io/github/forks/deepinstinct/Storm0978-RomCom-Campaign">	<img alt="stars" src="https://img.shields.io/github/stars/deepinstinct/Storm0978-RomCom-Campaign">
 
 ---
 ## CVE-2023-36544 ()
