@@ -357,6 +357,11 @@ This CVE will be updated with new information and links to security updates when
 - [Chocapikk/CVE-2023-33617](https://github.com/Chocapikk/CVE-2023-33617)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-33617">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-33617">
 
 ---
+## CVE-2023-33592 (2023-06-28T20:15:00)
+> Lost and Found Information System v1.0 was discovered to contain a SQL injection vulnerability via the component /php-lfis/admin/?page=system_info/contact_information.
+- [Acous7icwav3/CVE-2023-33592](https://github.com/Acous7icwav3/CVE-2023-33592)	<img alt="forks" src="https://img.shields.io/github/forks/Acous7icwav3/CVE-2023-33592">	<img alt="stars" src="https://img.shields.io/github/stars/Acous7icwav3/CVE-2023-33592">
+
+---
 ## CVE-2023-33567 (2023-06-27T18:15:00)
 > An unauthorized access vulnerability has been discovered in ROS2 Foxy Fitzroy versions where ROS_VERSION is 2 and ROS_PYTHON_VERSION is 3. This vulnerability could potentially allow a malicious user to gain unauthorized access to multiple ROS2 nodes remotely. Unauthorized access to these nodes could result in compromised system integrity, the execution of arbitrary commands, and disclosure of sensitive information.
 - [16yashpatel/CVE-2023-33567](https://github.com/16yashpatel/CVE-2023-33567)	<img alt="forks" src="https://img.shields.io/github/forks/16yashpatel/CVE-2023-33567">	<img alt="stars" src="https://img.shields.io/github/stars/16yashpatel/CVE-2023-33567">
