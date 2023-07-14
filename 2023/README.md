@@ -529,6 +529,21 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [jmrcsnchz/CVE-2023-32073](https://github.com/jmrcsnchz/CVE-2023-32073)	<img alt="forks" src="https://img.shields.io/github/forks/jmrcsnchz/CVE-2023-32073">	<img alt="stars" src="https://img.shields.io/github/stars/jmrcsnchz/CVE-2023-32073">
 
 ---
+## CVE-2023-31853 ()
+> 
+- [CalfCrusher/CVE-2023-31853](https://github.com/CalfCrusher/CVE-2023-31853)	<img alt="forks" src="https://img.shields.io/github/forks/CalfCrusher/CVE-2023-31853">	<img alt="stars" src="https://img.shields.io/github/stars/CalfCrusher/CVE-2023-31853">
+
+---
+## CVE-2023-31852 ()
+> 
+- [CalfCrusher/CVE-2023-31852](https://github.com/CalfCrusher/CVE-2023-31852)	<img alt="forks" src="https://img.shields.io/github/forks/CalfCrusher/CVE-2023-31852">	<img alt="stars" src="https://img.shields.io/github/stars/CalfCrusher/CVE-2023-31852">
+
+---
+## CVE-2023-31851 ()
+> 
+- [CalfCrusher/CVE-2023-31851](https://github.com/CalfCrusher/CVE-2023-31851)	<img alt="forks" src="https://img.shields.io/github/forks/CalfCrusher/CVE-2023-31851">	<img alt="stars" src="https://img.shields.io/github/stars/CalfCrusher/CVE-2023-31851">
+
+---
 ## CVE-2023-31779 (2023-05-22T13:15:00)
 > Wekan v6.84 and earlier is vulnerable to Cross Site Scripting (XSS). An attacker with user privilege on kanban board can insert JavaScript code in in "Reaction to comment" feature.
 - [jet-pentest/CVE-2023-31779](https://github.com/jet-pentest/CVE-2023-31779)	<img alt="forks" src="https://img.shields.io/github/forks/jet-pentest/CVE-2023-31779">	<img alt="stars" src="https://img.shields.io/github/stars/jet-pentest/CVE-2023-31779">
