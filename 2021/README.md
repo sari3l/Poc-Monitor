@@ -1944,6 +1944,8 @@
 - [MatanelGordon/docker-cve-2021-41773](https://github.com/MatanelGordon/docker-cve-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/MatanelGordon/docker-cve-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/MatanelGordon/docker-cve-2021-41773">
 - [retrymp3/apache2.4.49VulnerableLabSetup](https://github.com/retrymp3/apache2.4.49VulnerableLabSetup)	<img alt="forks" src="https://img.shields.io/github/forks/retrymp3/apache2.4.49VulnerableLabSetup">	<img alt="stars" src="https://img.shields.io/github/stars/retrymp3/apache2.4.49VulnerableLabSetup">
 - [K3ysTr0K3R/CVE-2021-41773-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2021-41773-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2021-41773-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2021-41773-EXPLOIT">
+- [sergiovks/LFI-RCE-Unauthenticated-Apache-2.4.49-2.4.50](https://github.com/sergiovks/LFI-RCE-Unauthenticated-Apache-2.4.49-2.4.50)	<img alt="forks" src="https://img.shields.io/github/forks/sergiovks/LFI-RCE-Unauthenticated-Apache-2.4.49-2.4.50">	<img alt="stars" src="https://img.shields.io/github/stars/sergiovks/LFI-RCE-Unauthenticated-Apache-2.4.49-2.4.50">
+- [0xGabe/Apache-CVEs](https://github.com/0xGabe/Apache-CVEs)	<img alt="forks" src="https://img.shields.io/github/forks/0xGabe/Apache-CVEs">	<img alt="stars" src="https://img.shields.io/github/stars/0xGabe/Apache-CVEs">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
