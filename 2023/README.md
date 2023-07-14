@@ -26,8 +26,8 @@
 - [Trinadh465/linux_4.19.72_CVE-2023-42896](https://github.com/Trinadh465/linux_4.19.72_CVE-2023-42896)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux_4.19.72_CVE-2023-42896">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux_4.19.72_CVE-2023-42896">
 
 ---
-## CVE-2023-37599 ()
-> 
+## CVE-2023-37599 (2023-07-13T22:15:00)
+> An issue in issabel-pbx v.4.0.0-6 allows a remote attacker to obtain sensitive information via the modules directory
 - [sahiloj/CVE-2023-37599](https://github.com/sahiloj/CVE-2023-37599)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-37599">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-37599">
 
 ---
@@ -946,6 +946,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 > Windows Common Log File System Driver Elevation of Privilege Vulnerability
 - [fortra/CVE-2023-28252](https://github.com/fortra/CVE-2023-28252)	<img alt="forks" src="https://img.shields.io/github/forks/fortra/CVE-2023-28252">	<img alt="stars" src="https://img.shields.io/github/stars/fortra/CVE-2023-28252">
 - [Malwareman007/CVE-2023-28252](https://github.com/Malwareman007/CVE-2023-28252)	<img alt="forks" src="https://img.shields.io/github/forks/Malwareman007/CVE-2023-28252">	<img alt="stars" src="https://img.shields.io/github/stars/Malwareman007/CVE-2023-28252">
+- [hheeyywweellccoommee/CVE-2023-28252-vseik](https://github.com/hheeyywweellccoommee/CVE-2023-28252-vseik)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-28252-vseik">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-28252-vseik">
 
 ---
 ## CVE-2023-2825 (2023-05-26T21:15:00)
