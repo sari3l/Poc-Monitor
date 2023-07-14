@@ -1516,6 +1516,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [CKevens/CVE-2023-23397-POC](https://github.com/CKevens/CVE-2023-23397-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2023-23397-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2023-23397-POC">
 - [moneertv/CVE-2023-23397](https://github.com/moneertv/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/moneertv/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/moneertv/CVE-2023-23397">
 - [vlad-a-man/CVE-2023-23397](https://github.com/vlad-a-man/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/vlad-a-man/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/vlad-a-man/CVE-2023-23397">
+- [Muhammad-Ali007/OutlookNTLM_CVE-2023-23397](https://github.com/Muhammad-Ali007/OutlookNTLM_CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/Muhammad-Ali007/OutlookNTLM_CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/Muhammad-Ali007/OutlookNTLM_CVE-2023-23397">
 
 ---
 ## CVE-2023-23396 (2023-03-14T17:15:00)
