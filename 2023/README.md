@@ -46,6 +46,16 @@
 - [sahiloj/CVE-2023-37596](https://github.com/sahiloj/CVE-2023-37596)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-37596">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-37596">
 
 ---
+## CVE-2023-37582 (2023-07-12T10:15:00)
+> The RocketMQ NameServer component still has a remote command execution vulnerability as the CVE-2023-33246 issue was not completely fixed in version 5.1.1. 
+
+When NameServer address are leaked on the extranet and lack permission verification, an attacker can exploit this vulnerability by using the update configuration function on the NameServer component to execute commands as the system users that RocketMQ is running as. 
+
+It is recommended for users to upgrade their NameServer version to 5.1.2 or above for RocketMQ 5.x or 4.9.7 or above for RocketMQ 4.x to prevent these attacks.
+
+- [Malayke/CVE-2023-37582_EXPLOIT](https://github.com/Malayke/CVE-2023-37582_EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/Malayke/CVE-2023-37582_EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/Malayke/CVE-2023-37582_EXPLOIT">
+
+---
 ## CVE-2023-37250 ()
 > 
 - [ewilded/CVE-2023-37250](https://github.com/ewilded/CVE-2023-37250)	<img alt="forks" src="https://img.shields.io/github/forks/ewilded/CVE-2023-37250">	<img alt="stars" src="https://img.shields.io/github/stars/ewilded/CVE-2023-37250">
