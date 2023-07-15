@@ -2386,6 +2386,11 @@
 - [Live-Hack-CVE/CVE-2021-4045](https://github.com/Live-Hack-CVE/CVE-2021-4045)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4045">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4045">
 
 ---
+## CVE-2021-40449 (2021-10-13T01:15:00)
+> Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-40450, CVE-2021-41357.
+- [toanthang1842002/CVE-2021-40449](https://github.com/toanthang1842002/CVE-2021-40449)	<img alt="forks" src="https://img.shields.io/github/forks/toanthang1842002/CVE-2021-40449">	<img alt="stars" src="https://img.shields.io/github/stars/toanthang1842002/CVE-2021-40449">
+
+---
 ## CVE-2021-40444 (2021-09-15T12:15:00)
 > Microsoft MSHTML Remote Code Execution Vulnerability
 - [klezVirus/CVE-2021-40444](https://github.com/klezVirus/CVE-2021-40444)	<img alt="forks" src="https://img.shields.io/github/forks/klezVirus/CVE-2021-40444">	<img alt="stars" src="https://img.shields.io/github/stars/klezVirus/CVE-2021-40444">
