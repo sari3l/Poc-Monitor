@@ -2389,6 +2389,14 @@
 ## CVE-2021-40449 (2021-10-13T01:15:00)
 > Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-40450, CVE-2021-41357.
 - [toanthang1842002/CVE-2021-40449](https://github.com/toanthang1842002/CVE-2021-40449)	<img alt="forks" src="https://img.shields.io/github/forks/toanthang1842002/CVE-2021-40449">	<img alt="stars" src="https://img.shields.io/github/stars/toanthang1842002/CVE-2021-40449">
+- [Ascotbe/Kernelhub](https://github.com/Ascotbe/Kernelhub)	<img alt="forks" src="https://img.shields.io/github/forks/Ascotbe/Kernelhub">	<img alt="stars" src="https://img.shields.io/github/stars/Ascotbe/Kernelhub">
+- [SamuelTulach/voidmap](https://github.com/SamuelTulach/voidmap)	<img alt="forks" src="https://img.shields.io/github/forks/SamuelTulach/voidmap">	<img alt="stars" src="https://img.shields.io/github/stars/SamuelTulach/voidmap">
+- [BL0odz/CVE-2021-40449-NtGdiResetDC-UAF](https://github.com/BL0odz/CVE-2021-40449-NtGdiResetDC-UAF)	<img alt="forks" src="https://img.shields.io/github/forks/BL0odz/CVE-2021-40449-NtGdiResetDC-UAF">	<img alt="stars" src="https://img.shields.io/github/stars/BL0odz/CVE-2021-40449-NtGdiResetDC-UAF">
+- [CppXL/cve-2021-40449-poc](https://github.com/CppXL/cve-2021-40449-poc)	<img alt="forks" src="https://img.shields.io/github/forks/CppXL/cve-2021-40449-poc">	<img alt="stars" src="https://img.shields.io/github/stars/CppXL/cve-2021-40449-poc">
+- [ly4k/CallbackHell](https://github.com/ly4k/CallbackHell)	<img alt="forks" src="https://img.shields.io/github/forks/ly4k/CallbackHell">	<img alt="stars" src="https://img.shields.io/github/stars/ly4k/CallbackHell">
+- [Kristal-g/CVE-2021-40449_poc](https://github.com/Kristal-g/CVE-2021-40449_poc)	<img alt="forks" src="https://img.shields.io/github/forks/Kristal-g/CVE-2021-40449_poc">	<img alt="stars" src="https://img.shields.io/github/stars/Kristal-g/CVE-2021-40449_poc">
+- [hakivvi/CVE-2021-40449](https://github.com/hakivvi/CVE-2021-40449)	<img alt="forks" src="https://img.shields.io/github/forks/hakivvi/CVE-2021-40449">	<img alt="stars" src="https://img.shields.io/github/stars/hakivvi/CVE-2021-40449">
+- [KaLendsi/CVE-2021-40449-Exploit](https://github.com/KaLendsi/CVE-2021-40449-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/KaLendsi/CVE-2021-40449-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/KaLendsi/CVE-2021-40449-Exploit">
 
 ---
 ## CVE-2021-40444 (2021-09-15T12:15:00)
