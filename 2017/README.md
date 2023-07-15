@@ -255,6 +255,7 @@
 ## CVE-2017-6074 (2017-02-18T21:59:00)
 > The dccp_rcv_state_process function in net/dccp/input.c in the Linux kernel through 4.9.11 mishandles DCCP_PKT_REQUEST packet data structures in the LISTEN state, which allows local users to obtain root privileges or cause a denial of service (double free) via an application that makes an IPV6_RECVPKTINFO setsockopt system call.
 - [toanthang1842002/CVE-2017-6074](https://github.com/toanthang1842002/CVE-2017-6074)	<img alt="forks" src="https://img.shields.io/github/forks/toanthang1842002/CVE-2017-6074">	<img alt="stars" src="https://img.shields.io/github/stars/toanthang1842002/CVE-2017-6074">
+- [toanthang1842002/CVE-2017-6074](https://github.com/toanthang1842002/CVE-2017-6074)	<img alt="forks" src="https://img.shields.io/github/forks/toanthang1842002/CVE-2017-6074">	<img alt="stars" src="https://img.shields.io/github/stars/toanthang1842002/CVE-2017-6074">
 
 ---
 ## CVE-2017-5941 (2017-02-09T19:59:00)
