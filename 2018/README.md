@@ -856,6 +856,7 @@
 - [not1cyyy/CVE-2018-16763](https://github.com/not1cyyy/CVE-2018-16763)	<img alt="forks" src="https://img.shields.io/github/forks/not1cyyy/CVE-2018-16763">	<img alt="stars" src="https://img.shields.io/github/stars/not1cyyy/CVE-2018-16763">
 - [k4is3r13/Bash-Script-CVE-2018-16763](https://github.com/k4is3r13/Bash-Script-CVE-2018-16763)	<img alt="forks" src="https://img.shields.io/github/forks/k4is3r13/Bash-Script-CVE-2018-16763">	<img alt="stars" src="https://img.shields.io/github/stars/k4is3r13/Bash-Script-CVE-2018-16763">
 - [antisecc/CVE-2018-16763](https://github.com/antisecc/CVE-2018-16763)	<img alt="forks" src="https://img.shields.io/github/forks/antisecc/CVE-2018-16763">	<img alt="stars" src="https://img.shields.io/github/stars/antisecc/CVE-2018-16763">
+- [VitoBonetti/CVE-2018-16763-](https://github.com/VitoBonetti/CVE-2018-16763-)	<img alt="forks" src="https://img.shields.io/github/forks/VitoBonetti/CVE-2018-16763-">	<img alt="stars" src="https://img.shields.io/github/stars/VitoBonetti/CVE-2018-16763-">
 
 ---
 ## CVE-2018-16530 (2019-04-09T19:29:00)
