@@ -113,13 +113,13 @@ This CVE will be updated with new information and links to security updates when
 - [TraiLeR2/CVE-2023-36167](https://github.com/TraiLeR2/CVE-2023-36167)	<img alt="forks" src="https://img.shields.io/github/forks/TraiLeR2/CVE-2023-36167">	<img alt="stars" src="https://img.shields.io/github/stars/TraiLeR2/CVE-2023-36167">
 
 ---
-## CVE-2023-36166 ()
-> 
+## CVE-2023-36166 (2023-07-15T22:15:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was withdrawn by its CNA. Further investigation showed that it was not a security issue. Notes: none.
 - [TraiLeR2/CVE-2023-36166](https://github.com/TraiLeR2/CVE-2023-36166)	<img alt="forks" src="https://img.shields.io/github/forks/TraiLeR2/CVE-2023-36166">	<img alt="stars" src="https://img.shields.io/github/stars/TraiLeR2/CVE-2023-36166">
 
 ---
-## CVE-2023-36165 ()
-> 
+## CVE-2023-36165 (2023-07-15T22:15:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was withdrawn by its CNA. Further investigation showed that it was not a security issue. Notes: none.
 - [TraiLeR2/CVE-2023-36165](https://github.com/TraiLeR2/CVE-2023-36165)	<img alt="forks" src="https://img.shields.io/github/forks/TraiLeR2/CVE-2023-36165">	<img alt="stars" src="https://img.shields.io/github/stars/TraiLeR2/CVE-2023-36165">
 
 ---
