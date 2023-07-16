@@ -1736,6 +1736,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [timpen432/-Wh0Am1001-CVE-2023-21753](https://github.com/timpen432/-Wh0Am1001-CVE-2023-21753)	<img alt="forks" src="https://img.shields.io/github/forks/timpen432/-Wh0Am1001-CVE-2023-21753">	<img alt="stars" src="https://img.shields.io/github/stars/timpen432/-Wh0Am1001-CVE-2023-21753">
 
 ---
+## CVE-2023-21746 (2023-01-10T22:15:00)
+> Windows NTLM Elevation of Privilege Vulnerability
+- [Muhammad-Ali007/LocalPotato_CVE-2023-21746](https://github.com/Muhammad-Ali007/LocalPotato_CVE-2023-21746)	<img alt="forks" src="https://img.shields.io/github/forks/Muhammad-Ali007/LocalPotato_CVE-2023-21746">	<img alt="stars" src="https://img.shields.io/github/stars/Muhammad-Ali007/LocalPotato_CVE-2023-21746">
+
+---
 ## CVE-2023-21742 (2023-01-10T22:15:00)
 > Microsoft SharePoint Server Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21744.
 - [ohnonoyesyes/CVE-2023-21742](https://github.com/ohnonoyesyes/CVE-2023-21742)	<img alt="forks" src="https://img.shields.io/github/forks/ohnonoyesyes/CVE-2023-21742">	<img alt="stars" src="https://img.shields.io/github/stars/ohnonoyesyes/CVE-2023-21742">
