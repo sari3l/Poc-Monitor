@@ -1863,6 +1863,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [Wh04m1001/CVE-2023-20178](https://github.com/Wh04m1001/CVE-2023-20178)	<img alt="forks" src="https://img.shields.io/github/forks/Wh04m1001/CVE-2023-20178">	<img alt="stars" src="https://img.shields.io/github/stars/Wh04m1001/CVE-2023-20178">
 
 ---
+## CVE-2023-20110 (2023-05-18T03:15:00)
+> A vulnerability in the web-based management interface of Cisco Smart Software Manager On-Prem (SSM On-Prem) could allow an authenticated, remote attacker to conduct SQL injection attacks on an affected system. This vulnerability exists because the web-based management interface inadequately validates user input. An attacker could exploit this vulnerability by authenticating to the application as a low-privileged user and sending crafted SQL queries to an affected system. A successful exploit could allow the attacker to read sensitive data on the underlying database.
+- [redfr0g/CVE-2023-20110](https://github.com/redfr0g/CVE-2023-20110)	<img alt="forks" src="https://img.shields.io/github/forks/redfr0g/CVE-2023-20110">	<img alt="stars" src="https://img.shields.io/github/stars/redfr0g/CVE-2023-20110">
+
+---
 ## CVE-2023-2008 (2023-04-14T21:15:00)
 > A flaw was found in the Linux kernel's udmabuf device driver. The specific flaw exists within a fault handler. The issue results from the lack of proper validation of user-supplied data, which can result in a memory access past the end of an array. An attacker can leverage this vulnerability to escalate privileges and execute arbitrary code in the context of the kernel.
 - [bluefrostsecurity/CVE-2023-2008](https://github.com/bluefrostsecurity/CVE-2023-2008)	<img alt="forks" src="https://img.shields.io/github/forks/bluefrostsecurity/CVE-2023-2008">	<img alt="stars" src="https://img.shields.io/github/stars/bluefrostsecurity/CVE-2023-2008">
