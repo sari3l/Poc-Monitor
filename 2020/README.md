@@ -3531,6 +3531,7 @@
 - [nik0nz7/CVE-2020-14882](https://github.com/nik0nz7/CVE-2020-14882)	<img alt="forks" src="https://img.shields.io/github/forks/nik0nz7/CVE-2020-14882">	<img alt="stars" src="https://img.shields.io/github/stars/nik0nz7/CVE-2020-14882">
 - [qianniaoge/CVE-2020-14882_Exploit_Gui](https://github.com/qianniaoge/CVE-2020-14882_Exploit_Gui)	<img alt="forks" src="https://img.shields.io/github/forks/qianniaoge/CVE-2020-14882_Exploit_Gui">	<img alt="stars" src="https://img.shields.io/github/stars/qianniaoge/CVE-2020-14882_Exploit_Gui">
 - [H4shByte/CVE-2020-14882](https://github.com/H4shByte/CVE-2020-14882)	<img alt="forks" src="https://img.shields.io/github/forks/H4shByte/CVE-2020-14882">	<img alt="stars" src="https://img.shields.io/github/stars/H4shByte/CVE-2020-14882">
+- [Danny-LLi/CVE-2020-14882](https://github.com/Danny-LLi/CVE-2020-14882)	<img alt="forks" src="https://img.shields.io/github/forks/Danny-LLi/CVE-2020-14882">	<img alt="stars" src="https://img.shields.io/github/stars/Danny-LLi/CVE-2020-14882">
 
 ---
 ## CVE-2020-1472 (2020-08-17T19:15:00)
