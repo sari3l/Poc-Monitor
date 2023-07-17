@@ -244,6 +244,7 @@
 - [mpgn/CVE-2019-7609](https://github.com/mpgn/CVE-2019-7609)	<img alt="forks" src="https://img.shields.io/github/forks/mpgn/CVE-2019-7609">	<img alt="stars" src="https://img.shields.io/github/stars/mpgn/CVE-2019-7609">
 - [hekadan/CVE-2019-7609](https://github.com/hekadan/CVE-2019-7609)	<img alt="forks" src="https://img.shields.io/github/forks/hekadan/CVE-2019-7609">	<img alt="stars" src="https://img.shields.io/github/stars/hekadan/CVE-2019-7609">
 - [jas502n/kibana-RCE](https://github.com/jas502n/kibana-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/kibana-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/kibana-RCE">
+- [OliveiraaX/cve-2019-7609-modified.py](https://github.com/OliveiraaX/cve-2019-7609-modified.py)	<img alt="forks" src="https://img.shields.io/github/forks/OliveiraaX/cve-2019-7609-modified.py">	<img alt="stars" src="https://img.shields.io/github/stars/OliveiraaX/cve-2019-7609-modified.py">
 
 ---
 ## CVE-2019-7304 (2019-04-23T16:29:00)
