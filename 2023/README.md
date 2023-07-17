@@ -535,6 +535,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [oferchen/POC-CVE-2023-32233](https://github.com/oferchen/POC-CVE-2023-32233)	<img alt="forks" src="https://img.shields.io/github/forks/oferchen/POC-CVE-2023-32233">	<img alt="stars" src="https://img.shields.io/github/stars/oferchen/POC-CVE-2023-32233">
 
 ---
+## CVE-2023-32117 ()
+> 
+- [RandomRobbieBF/CVE-2023-32117](https://github.com/RandomRobbieBF/CVE-2023-32117)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-32117">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-32117">
+
+---
 ## CVE-2023-32073 (2023-05-12T14:15:00)
 > WWBN AVideo is an open source video platform. In versions 12.4 and prior, a command injection vulnerability exists at `plugin/CloneSite/cloneClient.json.php` which allows Remote Code Execution if you CloneSite Plugin. This is a bypass to the fix for CVE-2023-30854, which affects WWBN AVideo up to version 12.3. This issue is patched in commit 1df4af01f80d56ff2c4c43b89d0bac151e7fb6e3.
 - [jmrcsnchz/CVE-2023-32073](https://github.com/jmrcsnchz/CVE-2023-32073)	<img alt="forks" src="https://img.shields.io/github/forks/jmrcsnchz/CVE-2023-32073">	<img alt="stars" src="https://img.shields.io/github/stars/jmrcsnchz/CVE-2023-32073">
