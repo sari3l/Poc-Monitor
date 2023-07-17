@@ -546,18 +546,18 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [jmrcsnchz/CVE-2023-32073](https://github.com/jmrcsnchz/CVE-2023-32073)	<img alt="forks" src="https://img.shields.io/github/forks/jmrcsnchz/CVE-2023-32073">	<img alt="stars" src="https://img.shields.io/github/stars/jmrcsnchz/CVE-2023-32073">
 
 ---
-## CVE-2023-31853 ()
-> 
+## CVE-2023-31853 (2023-07-17T15:15:00)
+> Cudy LT400 1.13.4 is vulnerable Cross Site Scripting (XSS) in /cgi-bin/luci/admin/network/bandwidth via the icon parameter.
 - [CalfCrusher/CVE-2023-31853](https://github.com/CalfCrusher/CVE-2023-31853)	<img alt="forks" src="https://img.shields.io/github/forks/CalfCrusher/CVE-2023-31853">	<img alt="stars" src="https://img.shields.io/github/stars/CalfCrusher/CVE-2023-31853">
 
 ---
-## CVE-2023-31852 ()
-> 
+## CVE-2023-31852 (2023-07-17T14:15:00)
+> Cudy LT400 1.13.4 is vulnerable to Cross Site Scripting (XSS) in cgi-bin/luci/admin/network/wireless/config via the iface parameter.
 - [CalfCrusher/CVE-2023-31852](https://github.com/CalfCrusher/CVE-2023-31852)	<img alt="forks" src="https://img.shields.io/github/forks/CalfCrusher/CVE-2023-31852">	<img alt="stars" src="https://img.shields.io/github/stars/CalfCrusher/CVE-2023-31852">
 
 ---
-## CVE-2023-31851 ()
-> 
+## CVE-2023-31851 (2023-07-17T15:15:00)
+> Cudy LT400 1.13.4 is has a cross-site scripting (XSS) vulnerability in /cgi-bin/luci/admin/network/wireless/status via the iface parameter.
 - [CalfCrusher/CVE-2023-31851](https://github.com/CalfCrusher/CVE-2023-31851)	<img alt="forks" src="https://img.shields.io/github/forks/CalfCrusher/CVE-2023-31851">	<img alt="stars" src="https://img.shields.io/github/stars/CalfCrusher/CVE-2023-31851">
 
 ---
