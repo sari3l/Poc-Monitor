@@ -2397,6 +2397,8 @@
 - [Kristal-g/CVE-2021-40449_poc](https://github.com/Kristal-g/CVE-2021-40449_poc)	<img alt="forks" src="https://img.shields.io/github/forks/Kristal-g/CVE-2021-40449_poc">	<img alt="stars" src="https://img.shields.io/github/stars/Kristal-g/CVE-2021-40449_poc">
 - [hakivvi/CVE-2021-40449](https://github.com/hakivvi/CVE-2021-40449)	<img alt="forks" src="https://img.shields.io/github/forks/hakivvi/CVE-2021-40449">	<img alt="stars" src="https://img.shields.io/github/stars/hakivvi/CVE-2021-40449">
 - [KaLendsi/CVE-2021-40449-Exploit](https://github.com/KaLendsi/CVE-2021-40449-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/KaLendsi/CVE-2021-40449-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/KaLendsi/CVE-2021-40449-Exploit">
+- [toanthang1842002/CVE-2021-40449](https://github.com/toanthang1842002/CVE-2021-40449)	<img alt="forks" src="https://img.shields.io/github/forks/toanthang1842002/CVE-2021-40449">	<img alt="stars" src="https://img.shields.io/github/stars/toanthang1842002/CVE-2021-40449">
+- [hheeyywweellccoommee/CVE-2021-40449-xarrd](https://github.com/hheeyywweellccoommee/CVE-2021-40449-xarrd)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2021-40449-xarrd">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2021-40449-xarrd">
 
 ---
 ## CVE-2021-40444 (2021-09-15T12:15:00)
