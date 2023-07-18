@@ -92,6 +92,7 @@ This CVE will be updated with new information and links to security updates when
 - [deepinstinct/Storm0978-RomCom-Campaign](https://github.com/deepinstinct/Storm0978-RomCom-Campaign)	<img alt="forks" src="https://img.shields.io/github/forks/deepinstinct/Storm0978-RomCom-Campaign">	<img alt="stars" src="https://img.shields.io/github/stars/deepinstinct/Storm0978-RomCom-Campaign">
 - [zerosorai/CVE-2023-36884](https://github.com/zerosorai/CVE-2023-36884)	<img alt="forks" src="https://img.shields.io/github/forks/zerosorai/CVE-2023-36884">	<img alt="stars" src="https://img.shields.io/github/stars/zerosorai/CVE-2023-36884">
 - [tarraschk/CVE-2023-36884-Checker](https://github.com/tarraschk/CVE-2023-36884-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/tarraschk/CVE-2023-36884-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/tarraschk/CVE-2023-36884-Checker">
+- [or2me/CVE-2023-36884_patcher](https://github.com/or2me/CVE-2023-36884_patcher)	<img alt="forks" src="https://img.shields.io/github/forks/or2me/CVE-2023-36884_patcher">	<img alt="stars" src="https://img.shields.io/github/stars/or2me/CVE-2023-36884_patcher">
 
 ---
 ## CVE-2023-36544 ()
