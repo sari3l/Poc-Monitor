@@ -26,6 +26,11 @@
 - [Trinadh465/linux_4.19.72_CVE-2023-42896](https://github.com/Trinadh465/linux_4.19.72_CVE-2023-42896)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux_4.19.72_CVE-2023-42896">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux_4.19.72_CVE-2023-42896">
 
 ---
+## CVE-2023-38434 (2023-07-18T03:15:00)
+> xHTTP 72f812d has a double free in close_connection in xhttp.c via a malformed HTTP request method.
+- [Halcy0nic/CVE-2023-38434](https://github.com/Halcy0nic/CVE-2023-38434)	<img alt="forks" src="https://img.shields.io/github/forks/Halcy0nic/CVE-2023-38434">	<img alt="stars" src="https://img.shields.io/github/stars/Halcy0nic/CVE-2023-38434">
+
+---
 ## CVE-2023-37599 (2023-07-13T22:15:00)
 > An issue in issabel-pbx v.4.0.0-6 allows a remote attacker to obtain sensitive information via the modules directory
 - [sahiloj/CVE-2023-37599](https://github.com/sahiloj/CVE-2023-37599)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-37599">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-37599">
@@ -301,6 +306,7 @@ This CVE will be updated with new information and links to security updates when
 - [kenbuckler/MOVEit-CVE-2023-34362](https://github.com/kenbuckler/MOVEit-CVE-2023-34362)	<img alt="forks" src="https://img.shields.io/github/forks/kenbuckler/MOVEit-CVE-2023-34362">	<img alt="stars" src="https://img.shields.io/github/stars/kenbuckler/MOVEit-CVE-2023-34362">
 - [hheeyywweellccoommee/CVE-2023-34362-zcial](https://github.com/hheeyywweellccoommee/CVE-2023-34362-zcial)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-34362-zcial">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-34362-zcial">
 - [Malwareman007/CVE-2023-34362](https://github.com/Malwareman007/CVE-2023-34362)	<img alt="forks" src="https://img.shields.io/github/forks/Malwareman007/CVE-2023-34362">	<img alt="stars" src="https://img.shields.io/github/stars/Malwareman007/CVE-2023-34362">
+- [toorandom/moveit-payload-decrypt-CVE-2023-34362](https://github.com/toorandom/moveit-payload-decrypt-CVE-2023-34362)	<img alt="forks" src="https://img.shields.io/github/forks/toorandom/moveit-payload-decrypt-CVE-2023-34362">	<img alt="stars" src="https://img.shields.io/github/stars/toorandom/moveit-payload-decrypt-CVE-2023-34362">
 
 ---
 ## CVE-2023-34096 (2023-06-08T19:15:00)

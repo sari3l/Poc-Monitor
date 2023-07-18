@@ -786,6 +786,17 @@
 - [Live-Hack-CVE/CVE-2018-17581](https://github.com/Live-Hack-CVE/CVE-2018-17581)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-17581">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-17581">
 
 ---
+## CVE-2018-17456 (2018-10-06T14:29:00)
+> Git before 2.14.5, 2.15.x before 2.15.3, 2.16.x before 2.16.5, 2.17.x before 2.17.2, 2.18.x before 2.18.1, and 2.19.x before 2.19.1 allows remote code execution during processing of a recursive "git clone" of a superproject if a .gitmodules file has a URL field beginning with a '-' character.
+- [nkwejj/CVE-2018-17456](https://github.com/nkwejj/CVE-2018-17456)	<img alt="forks" src="https://img.shields.io/github/forks/nkwejj/CVE-2018-17456">	<img alt="stars" src="https://img.shields.io/github/stars/nkwejj/CVE-2018-17456">
+- [jiahuiLeee/test](https://github.com/jiahuiLeee/test)	<img alt="forks" src="https://img.shields.io/github/forks/jiahuiLeee/test">	<img alt="stars" src="https://img.shields.io/github/stars/jiahuiLeee/test">
+- [AnonymKing/CVE-2018-17456](https://github.com/AnonymKing/CVE-2018-17456)	<img alt="forks" src="https://img.shields.io/github/forks/AnonymKing/CVE-2018-17456">	<img alt="stars" src="https://img.shields.io/github/stars/AnonymKing/CVE-2018-17456">
+- [799600966/CVE-2018-17456](https://github.com/799600966/CVE-2018-17456)	<img alt="forks" src="https://img.shields.io/github/forks/799600966/CVE-2018-17456">	<img alt="stars" src="https://img.shields.io/github/stars/799600966/CVE-2018-17456">
+- [matlink/CVE-2018-17456](https://github.com/matlink/CVE-2018-17456)	<img alt="forks" src="https://img.shields.io/github/forks/matlink/CVE-2018-17456">	<img alt="stars" src="https://img.shields.io/github/stars/matlink/CVE-2018-17456">
+- [shpik-kr/CVE-2018-17456](https://github.com/shpik-kr/CVE-2018-17456)	<img alt="forks" src="https://img.shields.io/github/forks/shpik-kr/CVE-2018-17456">	<img alt="stars" src="https://img.shields.io/github/stars/shpik-kr/CVE-2018-17456">
+- [back2zero/GIT_CVE_2018_17456](https://github.com/back2zero/GIT_CVE_2018_17456)	<img alt="forks" src="https://img.shields.io/github/forks/back2zero/GIT_CVE_2018_17456">	<img alt="stars" src="https://img.shields.io/github/stars/back2zero/GIT_CVE_2018_17456">
+
+---
 ## CVE-2018-17254 (2018-09-20T14:29:00)
 > The JCK Editor component 6.4.4 for Joomla! allows SQL Injection via the jtreelink/dialogs/links.php parent parameter.
 - [MataKucing-OFC/CVE-2018-17254](https://github.com/MataKucing-OFC/CVE-2018-17254)	<img alt="forks" src="https://img.shields.io/github/forks/MataKucing-OFC/CVE-2018-17254">	<img alt="stars" src="https://img.shields.io/github/stars/MataKucing-OFC/CVE-2018-17254">
