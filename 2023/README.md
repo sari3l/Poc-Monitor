@@ -31,6 +31,11 @@
 - [Halcy0nic/CVE-2023-38434](https://github.com/Halcy0nic/CVE-2023-38434)	<img alt="forks" src="https://img.shields.io/github/forks/Halcy0nic/CVE-2023-38434">	<img alt="stars" src="https://img.shields.io/github/stars/Halcy0nic/CVE-2023-38434">
 
 ---
+## CVE-2023-37771 ()
+> 
+- [anky-123/CVE-2023-37771](https://github.com/anky-123/CVE-2023-37771)	<img alt="forks" src="https://img.shields.io/github/forks/anky-123/CVE-2023-37771">	<img alt="stars" src="https://img.shields.io/github/stars/anky-123/CVE-2023-37771">
+
+---
 ## CVE-2023-37599 (2023-07-13T22:15:00)
 > An issue in issabel-pbx v.4.0.0-6 allows a remote attacker to obtain sensitive information via the modules directory
 - [sahiloj/CVE-2023-37599](https://github.com/sahiloj/CVE-2023-37599)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-37599">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-37599">
@@ -701,6 +706,14 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 ## CVE-2023-30777 (2023-05-10T06:15:00)
 > Unauth. Reflected Cross-Site Scripting (XSS) vulnerability in WP Engine Advanced Custom Fields Pro, WP Engine Advanced Custom Fields plugins <= 6.1.5 versions.
 - [Alucard0x1/CVE-2023-30777](https://github.com/Alucard0x1/CVE-2023-30777)	<img alt="forks" src="https://img.shields.io/github/forks/Alucard0x1/CVE-2023-30777">	<img alt="stars" src="https://img.shields.io/github/stars/Alucard0x1/CVE-2023-30777">
+
+---
+## CVE-2023-30765 (2023-07-10T20:15:00)
+> 
+?Delta Electronics InfraSuite Device Master versions prior to 1.0.7 contain improper access controls that could allow an attacker to alter privilege management configurations, resulting in privilege escalation.
+
+
+- [0xfml/CVE-2023-30765](https://github.com/0xfml/CVE-2023-30765)	<img alt="forks" src="https://img.shields.io/github/forks/0xfml/CVE-2023-30765">	<img alt="stars" src="https://img.shields.io/github/stars/0xfml/CVE-2023-30765">
 
 ---
 ## CVE-2023-30459 (2023-04-14T15:15:00)
