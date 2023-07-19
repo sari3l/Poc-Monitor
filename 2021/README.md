@@ -4,6 +4,7 @@
 ## CVE-2021-521 ()
 > 
 - [NagendraPittu/CVE-2021-521](https://github.com/NagendraPittu/CVE-2021-521)	<img alt="forks" src="https://img.shields.io/github/forks/NagendraPittu/CVE-2021-521">	<img alt="stars" src="https://img.shields.io/github/stars/NagendraPittu/CVE-2021-521">
+- [NagendraPittu/CVE-2021-521-Exploit](https://github.com/NagendraPittu/CVE-2021-521-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/NagendraPittu/CVE-2021-521-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/NagendraPittu/CVE-2021-521-Exploit">
 
 ---
 ## CVE-2021-46871 (2023-01-10T06:15:00)
