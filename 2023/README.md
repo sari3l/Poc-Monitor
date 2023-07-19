@@ -1148,6 +1148,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 ## CVE-2023-27163 (2023-03-31T20:15:00)
 > request-baskets up to v1.2.1 was discovered to contain a Server-Side Request Forgery (SSRF) via the component /api/baskets/{name}. This vulnerability allows attackers to access network resources and sensitive information via a crafted API request.
 - [entr0pie/CVE-2023-27163](https://github.com/entr0pie/CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/entr0pie/CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/entr0pie/CVE-2023-27163">
+- [seanrdev/cve-2023-27163](https://github.com/seanrdev/cve-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/seanrdev/cve-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/seanrdev/cve-2023-27163">
 
 ---
 ## CVE-2023-27100 (2023-03-22T23:15:00)
