@@ -903,6 +903,7 @@
 - [Ki11i0n4ir3/CVE-2021-43798](https://github.com/Ki11i0n4ir3/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/Ki11i0n4ir3/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/Ki11i0n4ir3/CVE-2021-43798">
 - [YourKeeper/SunScope](https://github.com/YourKeeper/SunScope)	<img alt="forks" src="https://img.shields.io/github/forks/YourKeeper/SunScope">	<img alt="stars" src="https://img.shields.io/github/stars/YourKeeper/SunScope">
 - [lalkaltest/CVE-2021-43798](https://github.com/lalkaltest/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/lalkaltest/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/lalkaltest/CVE-2021-43798">
+- [nuker/CVE-2021-43798](https://github.com/nuker/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/nuker/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/nuker/CVE-2021-43798">
 
 ---
 ## CVE-2021-43797 (2021-12-09T19:15:00)
