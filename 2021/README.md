@@ -1,6 +1,11 @@
 # 2021 List
 
 ---
+## CVE-2021-521 ()
+> 
+- [NagendraPittu/CVE-2021-521](https://github.com/NagendraPittu/CVE-2021-521)	<img alt="forks" src="https://img.shields.io/github/forks/NagendraPittu/CVE-2021-521">	<img alt="stars" src="https://img.shields.io/github/stars/NagendraPittu/CVE-2021-521">
+
+---
 ## CVE-2021-46871 (2023-01-10T06:15:00)
 > tag.ex in Phoenix Phoenix.HTML (aka phoenix_html) before 3.0.4 allows XSS in HEEx class attributes.
 - [Live-Hack-CVE/CVE-2021-46871](https://github.com/Live-Hack-CVE/CVE-2021-46871)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46871">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46871">
