@@ -1058,6 +1058,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [gbrsh/CVE-2023-28121](https://github.com/gbrsh/CVE-2023-28121)	<img alt="forks" src="https://img.shields.io/github/forks/gbrsh/CVE-2023-28121">	<img alt="stars" src="https://img.shields.io/github/stars/gbrsh/CVE-2023-28121">
 - [im-hanzou/Mass-CVE-2023-28121](https://github.com/im-hanzou/Mass-CVE-2023-28121)	<img alt="forks" src="https://img.shields.io/github/forks/im-hanzou/Mass-CVE-2023-28121">	<img alt="stars" src="https://img.shields.io/github/stars/im-hanzou/Mass-CVE-2023-28121">
 - [rio128128/Mass-CVE-2023-28121-kdoec](https://github.com/rio128128/Mass-CVE-2023-28121-kdoec)	<img alt="forks" src="https://img.shields.io/github/forks/rio128128/Mass-CVE-2023-28121-kdoec">	<img alt="stars" src="https://img.shields.io/github/stars/rio128128/Mass-CVE-2023-28121-kdoec">
+- [Jenderal92/CVE-2023-28121](https://github.com/Jenderal92/CVE-2023-28121)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2023-28121">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2023-28121">
 
 ---
 ## CVE-2023-27997 (2023-06-13T09:15:00)
