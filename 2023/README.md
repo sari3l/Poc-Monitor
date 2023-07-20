@@ -584,6 +584,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [jet-pentest/CVE-2023-31779](https://github.com/jet-pentest/CVE-2023-31779)	<img alt="forks" src="https://img.shields.io/github/forks/jet-pentest/CVE-2023-31779">	<img alt="stars" src="https://img.shields.io/github/stars/jet-pentest/CVE-2023-31779">
 
 ---
+## CVE-2023-31753 ()
+> 
+- [khmk2k/CVE-2023-31753](https://github.com/khmk2k/CVE-2023-31753)	<img alt="forks" src="https://img.shields.io/github/forks/khmk2k/CVE-2023-31753">	<img alt="stars" src="https://img.shields.io/github/stars/khmk2k/CVE-2023-31753">
+
+---
 ## CVE-2023-31747 (2023-05-23T23:15:00)
 > Wondershare Filmora 12 (Build 12.2.1.2088) was discovered to contain an unquoted service path vulnerability via the component NativePushService. This vulnerability allows attackers to launch processes with elevated privileges.
 - [msd0pe-1/CVE-2023-31747_filmora-unquoted](https://github.com/msd0pe-1/CVE-2023-31747_filmora-unquoted)	<img alt="forks" src="https://img.shields.io/github/forks/msd0pe-1/CVE-2023-31747_filmora-unquoted">	<img alt="stars" src="https://img.shields.io/github/stars/msd0pe-1/CVE-2023-31747_filmora-unquoted">
