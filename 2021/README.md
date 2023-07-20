@@ -453,6 +453,11 @@
 - [Live-Hack-CVE/CVE-2021-44759](https://github.com/Live-Hack-CVE/CVE-2021-44759)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44759">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44759">
 
 ---
+## CVE-2021-44735 (2022-01-20T17:15:00)
+> Embedded web server command injection vulnerability in Lexmark devices through 2021-12-07.
+- [defensor/CVE-2021-44735](https://github.com/defensor/CVE-2021-44735)	<img alt="forks" src="https://img.shields.io/github/forks/defensor/CVE-2021-44735">	<img alt="stars" src="https://img.shields.io/github/stars/defensor/CVE-2021-44735">
+
+---
 ## CVE-2021-44731 (2022-02-17T23:15:00)
 > A race condition existed in the snapd 2.54.2 snap-confine binary when preparing a private mount namespace for a snap. This could allow a local attacker to gain root privileges by bind-mounting their own contents inside the snap's private mount namespace and causing snap-confine to execute arbitrary code and hence gain privilege escalation. Fixed in snapd versions 2.54.3+18.04, 2.54.3+20.04 and 2.54.3+21.10.1
 - [Live-Hack-CVE/CVE-2021-44731](https://github.com/Live-Hack-CVE/CVE-2021-44731)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44731">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44731">
