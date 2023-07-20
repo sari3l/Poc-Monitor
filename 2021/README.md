@@ -7071,6 +7071,7 @@
 - [M507/CVE-2021-23017-PoC](https://github.com/M507/CVE-2021-23017-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/M507/CVE-2021-23017-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/M507/CVE-2021-23017-PoC">
 - [niandy/nginx-patch](https://github.com/niandy/nginx-patch)	<img alt="forks" src="https://img.shields.io/github/forks/niandy/nginx-patch">	<img alt="stars" src="https://img.shields.io/github/stars/niandy/nginx-patch">
 - [Live-Hack-CVE/CVE-2021-23017](https://github.com/Live-Hack-CVE/CVE-2021-23017)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23017">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23017">
+- [lakshit1212/CVE-2021-23017-PoC](https://github.com/lakshit1212/CVE-2021-23017-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/lakshit1212/CVE-2021-23017-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/lakshit1212/CVE-2021-23017-PoC">
 
 ---
 ## CVE-2021-22986 (2021-03-31T15:15:00)
