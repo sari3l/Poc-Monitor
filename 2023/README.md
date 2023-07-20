@@ -160,6 +160,11 @@ This CVE will be updated with new information and links to security updates when
 - [leonardobg/CVE-2023-36143](https://github.com/leonardobg/CVE-2023-36143)	<img alt="forks" src="https://img.shields.io/github/forks/leonardobg/CVE-2023-36143">	<img alt="stars" src="https://img.shields.io/github/stars/leonardobg/CVE-2023-36143">
 
 ---
+## CVE-2023-35885 (2023-06-20T20:15:00)
+> CloudPanel 2 before 2.3.1 has insecure file-manager cookie authentication.
+- [datackmy/FallingSkies-CVE-2023-35885](https://github.com/datackmy/FallingSkies-CVE-2023-35885)	<img alt="forks" src="https://img.shields.io/github/forks/datackmy/FallingSkies-CVE-2023-35885">	<img alt="stars" src="https://img.shields.io/github/stars/datackmy/FallingSkies-CVE-2023-35885">
+
+---
 ## CVE-2023-35854 (2023-06-20T12:15:00)
 > Zoho ManageEngine ADSelfService Plus through 6113 has an authentication bypass that can be exploited to steal the domain controller session token for identity spoofing, thereby achieving the privileges of the domain controller administrator.
 - [970198175/cve-2023-35854](https://github.com/970198175/cve-2023-35854)	<img alt="forks" src="https://img.shields.io/github/forks/970198175/cve-2023-35854">	<img alt="stars" src="https://img.shields.io/github/stars/970198175/cve-2023-35854">
