@@ -202,6 +202,12 @@ This CVE will be updated with new information and links to security updates when
 - [ADSSA-IT/CVE-2023-35744](https://github.com/ADSSA-IT/CVE-2023-35744)	<img alt="forks" src="https://img.shields.io/github/forks/ADSSA-IT/CVE-2023-35744">	<img alt="stars" src="https://img.shields.io/github/stars/ADSSA-IT/CVE-2023-35744">
 
 ---
+## CVE-2023-3519 (2023-07-19T18:15:00)
+> Unauthenticated remote code execution
+
+- [telekom-security/cve-2023-3519-citrix-scanner](https://github.com/telekom-security/cve-2023-3519-citrix-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/telekom-security/cve-2023-3519-citrix-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/telekom-security/cve-2023-3519-citrix-scanner">
+
+---
 ## CVE-2023-34965 (2023-06-13T19:15:00)
 > SSPanel-Uim 2023.3 does not restrict access to the /link/ interface which can lead to a leak of user information.
 - [AgentY0/CVE-2023-34965](https://github.com/AgentY0/CVE-2023-34965)	<img alt="forks" src="https://img.shields.io/github/forks/AgentY0/CVE-2023-34965">	<img alt="stars" src="https://img.shields.io/github/stars/AgentY0/CVE-2023-34965">
