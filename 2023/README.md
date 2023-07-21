@@ -221,6 +221,7 @@ This CVE will be updated with new information and links to security updates when
 - [mr-r3b00t/CVE-2023-3519](https://github.com/mr-r3b00t/CVE-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/mr-r3b00t/CVE-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/mr-r3b00t/CVE-2023-3519">
 - [d0rb/CVE-2023-3519](https://github.com/d0rb/CVE-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2023-3519">
 - [dorkerdevil/CitrixFall](https://github.com/dorkerdevil/CitrixFall)	<img alt="forks" src="https://img.shields.io/github/forks/dorkerdevil/CitrixFall">	<img alt="stars" src="https://img.shields.io/github/stars/dorkerdevil/CitrixFall">
+- [SalehLardhi/CVE-2023-3519](https://github.com/SalehLardhi/CVE-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/SalehLardhi/CVE-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/SalehLardhi/CVE-2023-3519">
 
 ---
 ## CVE-2023-34965 (2023-06-13T19:15:00)
