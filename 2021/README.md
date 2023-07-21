@@ -773,6 +773,7 @@
 - [MrHarshvardhan/PY-Log4j-RCE-Scanner](https://github.com/MrHarshvardhan/PY-Log4j-RCE-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/MrHarshvardhan/PY-Log4j-RCE-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/MrHarshvardhan/PY-Log4j-RCE-Scanner">
 - [HynekPetrak/log4shell-finder](https://github.com/HynekPetrak/log4shell-finder)	<img alt="forks" src="https://img.shields.io/github/forks/HynekPetrak/log4shell-finder">	<img alt="stars" src="https://img.shields.io/github/stars/HynekPetrak/log4shell-finder">
 - [Muhammad-Ali007/Log4j_CVE-2021-44228](https://github.com/Muhammad-Ali007/Log4j_CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/Muhammad-Ali007/Log4j_CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/Muhammad-Ali007/Log4j_CVE-2021-44228">
+- [khulnasoft-labs/awesome-security](https://github.com/khulnasoft-labs/awesome-security)	<img alt="forks" src="https://img.shields.io/github/forks/khulnasoft-labs/awesome-security">	<img alt="stars" src="https://img.shields.io/github/stars/khulnasoft-labs/awesome-security">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
