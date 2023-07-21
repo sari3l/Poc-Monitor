@@ -2639,6 +2639,7 @@
 - [ps-interactive/lab_cve-2021-4034-polkit-emulation-and-detection](https://github.com/ps-interactive/lab_cve-2021-4034-polkit-emulation-and-detection)	<img alt="forks" src="https://img.shields.io/github/forks/ps-interactive/lab_cve-2021-4034-polkit-emulation-and-detection">	<img alt="stars" src="https://img.shields.io/github/stars/ps-interactive/lab_cve-2021-4034-polkit-emulation-and-detection">
 - [asepsaepdin/CVE-2021-4034](https://github.com/asepsaepdin/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/asepsaepdin/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/asepsaepdin/CVE-2021-4034">
 - [Y3A/CVE-2021-4034](https://github.com/Y3A/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/Y3A/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/Y3A/CVE-2021-4034">
+- [khulnasoft-labs/awesome-security](https://github.com/khulnasoft-labs/awesome-security)	<img alt="forks" src="https://img.shields.io/github/forks/khulnasoft-labs/awesome-security">	<img alt="stars" src="https://img.shields.io/github/stars/khulnasoft-labs/awesome-security">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
