@@ -31,6 +31,11 @@
 - [Halcy0nic/CVE-2023-38434](https://github.com/Halcy0nic/CVE-2023-38434)	<img alt="forks" src="https://img.shields.io/github/forks/Halcy0nic/CVE-2023-38434">	<img alt="stars" src="https://img.shields.io/github/stars/Halcy0nic/CVE-2023-38434">
 
 ---
+## CVE-2023-38408 (2023-07-20T03:15:00)
+> The PKCS#11 feature in ssh-agent in OpenSSH before 9.3p2 has an insufficiently trustworthy search path, leading to remote code execution if an agent is forwarded to an attacker-controlled system. (Code in /usr/lib is not necessarily safe for loading into ssh-agent.) NOTE: this issue exists because of an incomplete fix for CVE-2016-10009.
+- [snowcra5h/CVE-2023-38408](https://github.com/snowcra5h/CVE-2023-38408)	<img alt="forks" src="https://img.shields.io/github/forks/snowcra5h/CVE-2023-38408">	<img alt="stars" src="https://img.shields.io/github/stars/snowcra5h/CVE-2023-38408">
+
+---
 ## CVE-2023-37771 ()
 > 
 - [anky-123/CVE-2023-37771](https://github.com/anky-123/CVE-2023-37771)	<img alt="forks" src="https://img.shields.io/github/forks/anky-123/CVE-2023-37771">	<img alt="stars" src="https://img.shields.io/github/stars/anky-123/CVE-2023-37771">
