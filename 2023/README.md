@@ -26,6 +26,11 @@
 - [Trinadh465/linux_4.19.72_CVE-2023-42896](https://github.com/Trinadh465/linux_4.19.72_CVE-2023-42896)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux_4.19.72_CVE-2023-42896">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux_4.19.72_CVE-2023-42896">
 
 ---
+## CVE-2023-38632 ()
+> 
+- [Halcy0nic/CVE-2023-38632](https://github.com/Halcy0nic/CVE-2023-38632)	<img alt="forks" src="https://img.shields.io/github/forks/Halcy0nic/CVE-2023-38632">	<img alt="stars" src="https://img.shields.io/github/stars/Halcy0nic/CVE-2023-38632">
+
+---
 ## CVE-2023-38434 (2023-07-18T03:15:00)
 > xHTTP 72f812d has a double free in close_connection in xhttp.c via a malformed HTTP request method.
 - [Halcy0nic/CVE-2023-38434](https://github.com/Halcy0nic/CVE-2023-38434)	<img alt="forks" src="https://img.shields.io/github/forks/Halcy0nic/CVE-2023-38434">	<img alt="stars" src="https://img.shields.io/github/stars/Halcy0nic/CVE-2023-38434">
