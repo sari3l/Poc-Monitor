@@ -224,6 +224,7 @@ This CVE will be updated with new information and links to security updates when
 - [SalehLardhi/CVE-2023-3519](https://github.com/SalehLardhi/CVE-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/SalehLardhi/CVE-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/SalehLardhi/CVE-2023-3519">
 - [KR0N-SECURITY/CVE-2023-3519](https://github.com/KR0N-SECURITY/CVE-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/KR0N-SECURITY/CVE-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/KR0N-SECURITY/CVE-2023-3519">
 - [exph7/CVE-2023-3519](https://github.com/exph7/CVE-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/exph7/CVE-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/exph7/CVE-2023-3519">
+- [D3s7R0/CVE-2023-3519-POC](https://github.com/D3s7R0/CVE-2023-3519-POC)	<img alt="forks" src="https://img.shields.io/github/forks/D3s7R0/CVE-2023-3519-POC">	<img alt="stars" src="https://img.shields.io/github/stars/D3s7R0/CVE-2023-3519-POC">
 
 ---
 ## CVE-2023-34965 (2023-06-13T19:15:00)
