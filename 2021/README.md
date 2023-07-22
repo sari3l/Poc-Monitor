@@ -1799,6 +1799,7 @@
 ## CVE-2021-4191 (2022-03-28T19:15:00)
 > An issue has been discovered in GitLab CE/EE affecting versions 13.0 to 14.6.5, 14.7 to 14.7.4, and 14.8 to 14.8.2. Private GitLab instances with restricted sign-ups may be vulnerable to user enumeration to unauthenticated users through the GraphQL API.
 - [Adelittle/CVE-2021-4191_Exploits](https://github.com/Adelittle/CVE-2021-4191_Exploits)	<img alt="forks" src="https://img.shields.io/github/forks/Adelittle/CVE-2021-4191_Exploits">	<img alt="stars" src="https://img.shields.io/github/stars/Adelittle/CVE-2021-4191_Exploits">
+- [K3ysTr0K3R/CVE-2021-4191-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2021-4191-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2021-4191-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2021-4191-EXPLOIT">
 
 ---
 ## CVE-2021-4190 (2021-12-30T22:15:00)
