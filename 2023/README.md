@@ -1002,6 +1002,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [mnqazi/CVE-2023-2859](https://github.com/mnqazi/CVE-2023-2859)	<img alt="forks" src="https://img.shields.io/github/forks/mnqazi/CVE-2023-2859">	<img alt="stars" src="https://img.shields.io/github/stars/mnqazi/CVE-2023-2859">
 
 ---
+## CVE-2023-28467 (2023-05-22T19:15:00)
+> In MyBB before 1.8.34, there is XSS in the User CP module via the user email field.
+- [ahmetaltuntas/CVE-2023-28467](https://github.com/ahmetaltuntas/CVE-2023-28467)	<img alt="forks" src="https://img.shields.io/github/forks/ahmetaltuntas/CVE-2023-28467">	<img alt="stars" src="https://img.shields.io/github/stars/ahmetaltuntas/CVE-2023-28467">
+
+---
 ## CVE-2023-28450 (2023-03-15T21:15:00)
 > An issue was discovered in Dnsmasq before 2.90. The default maximum EDNS.0 UDP packet size was set to 4096 but should be 1232 because of DNS Flag Day 2020.
 - [Satheesh575555/linux-4.19.72_CVE-2023-28450](https://github.com/Satheesh575555/linux-4.19.72_CVE-2023-28450)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/linux-4.19.72_CVE-2023-28450">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/linux-4.19.72_CVE-2023-28450">
