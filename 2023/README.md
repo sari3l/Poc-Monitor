@@ -535,6 +535,13 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [hau-zy/KeePass-dump-py](https://github.com/hau-zy/KeePass-dump-py)	<img alt="forks" src="https://img.shields.io/github/forks/hau-zy/KeePass-dump-py">	<img alt="stars" src="https://img.shields.io/github/stars/hau-zy/KeePass-dump-py">
 
 ---
+## CVE-2023-32681 (2023-05-26T18:15:00)
+> Requests is a HTTP library. Since Requests 2.3.0, Requests has been leaking Proxy-Authorization headers to destination servers when redirected to an HTTPS endpoint. This is a product of how we use `rebuild_proxies` to reattach the `Proxy-Authorization` header to requests. For HTTP connections sent through the tunnel, the proxy will identify the header in the request itself and remove it prior to forwarding to the destination server. However when sent over HTTPS, the `Proxy-Authorization` header must be sent in the CONNECT request as the proxy has no visibility into the tunneled request. This results in Requests forwarding proxy credentials to the destination server unintentionally, allowing a malicious actor to potentially exfiltrate sensitive information. This issue has been patched in version 2.31.0.
+
+
+- [hardikmodha/POC-CVE-2023-32681](https://github.com/hardikmodha/POC-CVE-2023-32681)	<img alt="forks" src="https://img.shields.io/github/forks/hardikmodha/POC-CVE-2023-32681">	<img alt="stars" src="https://img.shields.io/github/stars/hardikmodha/POC-CVE-2023-32681">
+
+---
 ## CVE-2023-32353 (2023-06-23T18:15:00)
 > A logic issue was addressed with improved checks. This issue is fixed in iTunes 12.12.9 for Windows. An app may be able to elevate privileges
 - [86x/CVE-2023-32353-PoC](https://github.com/86x/CVE-2023-32353-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/86x/CVE-2023-32353-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/86x/CVE-2023-32353-PoC">
