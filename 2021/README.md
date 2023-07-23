@@ -458,6 +458,11 @@
 - [Live-Hack-CVE/CVE-2021-44759](https://github.com/Live-Hack-CVE/CVE-2021-44759)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44759">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44759">
 
 ---
+## CVE-2021-44736 (2022-01-20T17:15:00)
+> The initial admin account setup wizard on Lexmark devices allow unauthenticated access to the “out of service erase” feature.
+- [defensor/CVE-2021-44736](https://github.com/defensor/CVE-2021-44736)	<img alt="forks" src="https://img.shields.io/github/forks/defensor/CVE-2021-44736">	<img alt="stars" src="https://img.shields.io/github/stars/defensor/CVE-2021-44736">
+
+---
 ## CVE-2021-44735 (2022-01-20T17:15:00)
 > Embedded web server command injection vulnerability in Lexmark devices through 2021-12-07.
 - [defensor/CVE-2021-44735](https://github.com/defensor/CVE-2021-44735)	<img alt="forks" src="https://img.shields.io/github/forks/defensor/CVE-2021-44735">	<img alt="stars" src="https://img.shields.io/github/stars/defensor/CVE-2021-44735">
