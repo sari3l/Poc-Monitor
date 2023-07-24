@@ -131,8 +131,8 @@ This CVE will be updated with new information and links to security updates when
 - [RandomRobbieBF/CVE-2023-36531](https://github.com/RandomRobbieBF/CVE-2023-36531)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-36531">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-36531">
 
 ---
-## CVE-2023-3640 ()
-> 
+## CVE-2023-3640 (2023-07-24T16:15:00)
+> A possible unauthorized memory access flaw was found in the Linux kernel's cpu_entry_area mapping of X86 CPU data to memory, where a user may guess the location of exception stacks or other important data. Based on the previous CVE-2023-0597, the 'Randomize per-cpu entry area' feature was implemented in /arch/x86/mm/cpu_entry_area.c, which works through the init_cea_offsets() function when KASLR is enabled. However, despite this feature, there is still a risk of per-cpu entry area leaks. This issue could allow a local user to gain access to some important data with memory in an expected location and potentially escalate their privileges on the system.
 - [pray77/CVE-2023-3640](https://github.com/pray77/CVE-2023-3640)	<img alt="forks" src="https://img.shields.io/github/forks/pray77/CVE-2023-3640">	<img alt="stars" src="https://img.shields.io/github/stars/pray77/CVE-2023-3640">
 
 ---
