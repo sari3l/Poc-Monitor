@@ -180,6 +180,7 @@ This CVE will be updated with new information and links to security updates when
 > CloudPanel 2 before 2.3.1 has insecure file-manager cookie authentication.
 - [datackmy/FallingSkies-CVE-2023-35885](https://github.com/datackmy/FallingSkies-CVE-2023-35885)	<img alt="forks" src="https://img.shields.io/github/forks/datackmy/FallingSkies-CVE-2023-35885">	<img alt="stars" src="https://img.shields.io/github/stars/datackmy/FallingSkies-CVE-2023-35885">
 - [passwa11/FallingSkies-CVE-2023-35885](https://github.com/passwa11/FallingSkies-CVE-2023-35885)	<img alt="forks" src="https://img.shields.io/github/forks/passwa11/FallingSkies-CVE-2023-35885">	<img alt="stars" src="https://img.shields.io/github/stars/passwa11/FallingSkies-CVE-2023-35885">
+- [imbas007/CVE-2023-35885](https://github.com/imbas007/CVE-2023-35885)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2023-35885">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2023-35885">
 
 ---
 ## CVE-2023-35854 (2023-06-20T12:15:00)
