@@ -249,6 +249,7 @@ This CVE will be updated with new information and links to security updates when
 - [YongYe-Security/Chamilo_CVE-2023-34960-EXP](https://github.com/YongYe-Security/Chamilo_CVE-2023-34960-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/YongYe-Security/Chamilo_CVE-2023-34960-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/YongYe-Security/Chamilo_CVE-2023-34960-EXP">
 - [MzzdToT/Chamilo__CVE-2023-34960_RCE](https://github.com/MzzdToT/Chamilo__CVE-2023-34960_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/MzzdToT/Chamilo__CVE-2023-34960_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/MzzdToT/Chamilo__CVE-2023-34960_RCE">
 - [Pari-Malam/CVE-2023-34960](https://github.com/Pari-Malam/CVE-2023-34960)	<img alt="forks" src="https://img.shields.io/github/forks/Pari-Malam/CVE-2023-34960">	<img alt="stars" src="https://img.shields.io/github/stars/Pari-Malam/CVE-2023-34960">
+- [Mantodkaz/CVE-2023-34960](https://github.com/Mantodkaz/CVE-2023-34960)	<img alt="forks" src="https://img.shields.io/github/forks/Mantodkaz/CVE-2023-34960">	<img alt="stars" src="https://img.shields.io/github/stars/Mantodkaz/CVE-2023-34960">
 
 ---
 ## CVE-2023-34924 (2023-06-26T21:15:00)
