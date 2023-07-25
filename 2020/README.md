@@ -203,6 +203,11 @@
 - [Live-Hack-CVE/CVE-2020-8745](https://github.com/Live-Hack-CVE/CVE-2020-8745)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8745">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8745">
 
 ---
+## CVE-2020-8644 (2020-02-05T22:15:00)
+> PlaySMS before 1.4.3 does not sanitize inputs from a malicious string.
+- [Dalbukerk/CVE-2020-8644-PlaySMS-1.4](https://github.com/Dalbukerk/CVE-2020-8644-PlaySMS-1.4)	<img alt="forks" src="https://img.shields.io/github/forks/Dalbukerk/CVE-2020-8644-PlaySMS-1.4">	<img alt="stars" src="https://img.shields.io/github/stars/Dalbukerk/CVE-2020-8644-PlaySMS-1.4">
+
+---
 ## CVE-2020-8618 (2020-06-17T22:15:00)
 > An attacker who is permitted to send zone data to a server via zone transfer can exploit this to intentionally trigger the assertion failure with a specially constructed zone, denying service to clients.
 - [Live-Hack-CVE/CVE-2020-8618](https://github.com/Live-Hack-CVE/CVE-2020-8618)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8618">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8618">
