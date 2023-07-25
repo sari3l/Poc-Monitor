@@ -236,6 +236,16 @@ This CVE will be updated with new information and links to security updates when
 - [binbz/CVE-2023-3519](https://github.com/binbz/CVE-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/binbz/CVE-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/binbz/CVE-2023-3519">
 
 ---
+## CVE-2023-35086 (2023-07-21T07:15:00)
+> 
+It is identified a format string vulnerability in ASUS RT-AX56U V2 & RT-AC86U. This vulnerability is caused by directly using input as a format string when calling syslog in logmessage_normal function, in the do_detwan_cgi module of httpd. An unauthenticated remote attacker without privilege can exploit this vulnerability to perform remote arbitrary code execution, arbitrary system operation or disrupt service.
+
+This issue affects RT-AX56U V2: 3.0.0.4.386_50460; RT-AC86U: 3.0.0.4_386_51529.
+
+
+- [tin-z/CVE-2023-35086-POC](https://github.com/tin-z/CVE-2023-35086-POC)	<img alt="forks" src="https://img.shields.io/github/forks/tin-z/CVE-2023-35086-POC">	<img alt="stars" src="https://img.shields.io/github/stars/tin-z/CVE-2023-35086-POC">
+
+---
 ## CVE-2023-34965 (2023-06-13T19:15:00)
 > SSPanel-Uim 2023.3 does not restrict access to the /link/ interface which can lead to a leak of user information.
 - [AgentY0/CVE-2023-34965](https://github.com/AgentY0/CVE-2023-34965)	<img alt="forks" src="https://img.shields.io/github/forks/AgentY0/CVE-2023-34965">	<img alt="stars" src="https://img.shields.io/github/stars/AgentY0/CVE-2023-34965">
