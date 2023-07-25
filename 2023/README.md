@@ -215,6 +215,11 @@ This CVE will be updated with new information and links to security updates when
 - [lachlan2k/CVE-2023-35803](https://github.com/lachlan2k/CVE-2023-35803)	<img alt="forks" src="https://img.shields.io/github/forks/lachlan2k/CVE-2023-35803">	<img alt="stars" src="https://img.shields.io/github/stars/lachlan2k/CVE-2023-35803">
 
 ---
+## CVE-2023-35801 (2023-06-23T06:15:00)
+> A directory traversal vulnerability in Safe Software FME Server before 2022.2.5 allows an attacker to bypass validation when editing a network-based resource connection, resulting in the unauthorized reading and writing of arbitrary files. Successful exploitation requires an attacker to have access to a user account with write privileges. FME Flow 2023.0 is also a fixed version.
+- [trustcves/CVE-2023-35801](https://github.com/trustcves/CVE-2023-35801)	<img alt="forks" src="https://img.shields.io/github/forks/trustcves/CVE-2023-35801">	<img alt="stars" src="https://img.shields.io/github/stars/trustcves/CVE-2023-35801">
+
+---
 ## CVE-2023-35744 ()
 > 
 - [ADSSA-IT/CVE-2023-35744](https://github.com/ADSSA-IT/CVE-2023-35744)	<img alt="forks" src="https://img.shields.io/github/forks/ADSSA-IT/CVE-2023-35744">	<img alt="stars" src="https://img.shields.io/github/stars/ADSSA-IT/CVE-2023-35744">
