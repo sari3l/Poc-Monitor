@@ -260,6 +260,7 @@ This issue affects RT-AX56U V2: 3.0.0.4.386_50460; RT-AC86U: 3.0.0.4_386_51529.
 - [MzzdToT/Chamilo__CVE-2023-34960_RCE](https://github.com/MzzdToT/Chamilo__CVE-2023-34960_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/MzzdToT/Chamilo__CVE-2023-34960_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/MzzdToT/Chamilo__CVE-2023-34960_RCE">
 - [Pari-Malam/CVE-2023-34960](https://github.com/Pari-Malam/CVE-2023-34960)	<img alt="forks" src="https://img.shields.io/github/forks/Pari-Malam/CVE-2023-34960">	<img alt="stars" src="https://img.shields.io/github/stars/Pari-Malam/CVE-2023-34960">
 - [Mantodkaz/CVE-2023-34960](https://github.com/Mantodkaz/CVE-2023-34960)	<img alt="forks" src="https://img.shields.io/github/forks/Mantodkaz/CVE-2023-34960">	<img alt="stars" src="https://img.shields.io/github/stars/Mantodkaz/CVE-2023-34960">
+- [hheeyywweellccoommee/Chamilo__CVE-2023-34960_RCE-ouvuu](https://github.com/hheeyywweellccoommee/Chamilo__CVE-2023-34960_RCE-ouvuu)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/Chamilo__CVE-2023-34960_RCE-ouvuu">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/Chamilo__CVE-2023-34960_RCE-ouvuu">
 
 ---
 ## CVE-2023-34924 (2023-06-26T21:15:00)
