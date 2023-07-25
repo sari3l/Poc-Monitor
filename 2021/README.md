@@ -1972,6 +1972,7 @@
 - [K3ysTr0K3R/CVE-2021-41773-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2021-41773-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2021-41773-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2021-41773-EXPLOIT">
 - [sergiovks/LFI-RCE-Unauthenticated-Apache-2.4.49-2.4.50](https://github.com/sergiovks/LFI-RCE-Unauthenticated-Apache-2.4.49-2.4.50)	<img alt="forks" src="https://img.shields.io/github/forks/sergiovks/LFI-RCE-Unauthenticated-Apache-2.4.49-2.4.50">	<img alt="stars" src="https://img.shields.io/github/stars/sergiovks/LFI-RCE-Unauthenticated-Apache-2.4.49-2.4.50">
 - [0xGabe/Apache-CVEs](https://github.com/0xGabe/Apache-CVEs)	<img alt="forks" src="https://img.shields.io/github/forks/0xGabe/Apache-CVEs">	<img alt="stars" src="https://img.shields.io/github/stars/0xGabe/Apache-CVEs">
+- [khulnasoft-labs/awesome-security](https://github.com/khulnasoft-labs/awesome-security)	<img alt="forks" src="https://img.shields.io/github/forks/khulnasoft-labs/awesome-security">	<img alt="stars" src="https://img.shields.io/github/stars/khulnasoft-labs/awesome-security">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
