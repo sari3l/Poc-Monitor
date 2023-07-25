@@ -205,7 +205,7 @@
 ---
 ## CVE-2020-8644 (2020-02-05T22:15:00)
 > PlaySMS before 1.4.3 does not sanitize inputs from a malicious string.
-- [Dalbukerk/CVE-2020-8644-PlaySMS-1.4](https://github.com/Dalbukerk/CVE-2020-8644-PlaySMS-1.4)	<img alt="forks" src="https://img.shields.io/github/forks/Dalbukerk/CVE-2020-8644-PlaySMS-1.4">	<img alt="stars" src="https://img.shields.io/github/stars/Dalbukerk/CVE-2020-8644-PlaySMS-1.4">
+- [H3rm1tR3b0rn/CVE-2020-8644-PlaySMS-1.4](https://github.com/H3rm1tR3b0rn/CVE-2020-8644-PlaySMS-1.4)	<img alt="forks" src="https://img.shields.io/github/forks/H3rm1tR3b0rn/CVE-2020-8644-PlaySMS-1.4">	<img alt="stars" src="https://img.shields.io/github/stars/H3rm1tR3b0rn/CVE-2020-8644-PlaySMS-1.4">
 
 ---
 ## CVE-2020-8618 (2020-06-17T22:15:00)
