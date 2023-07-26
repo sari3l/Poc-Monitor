@@ -51,6 +51,16 @@
 - [anky-123/CVE-2023-37771](https://github.com/anky-123/CVE-2023-37771)	<img alt="forks" src="https://img.shields.io/github/forks/anky-123/CVE-2023-37771">	<img alt="stars" src="https://img.shields.io/github/stars/anky-123/CVE-2023-37771">
 
 ---
+## CVE-2023-37624 ()
+> 
+- [benjaminpsinclair/Netdisco-CVE-2023-37624](https://github.com/benjaminpsinclair/Netdisco-CVE-2023-37624)	<img alt="forks" src="https://img.shields.io/github/forks/benjaminpsinclair/Netdisco-CVE-2023-37624">	<img alt="stars" src="https://img.shields.io/github/stars/benjaminpsinclair/Netdisco-CVE-2023-37624">
+
+---
+## CVE-2023-37623 ()
+> 
+- [benjaminpsinclair/Netdisco-CVE-2023-37623](https://github.com/benjaminpsinclair/Netdisco-CVE-2023-37623)	<img alt="forks" src="https://img.shields.io/github/forks/benjaminpsinclair/Netdisco-CVE-2023-37623">	<img alt="stars" src="https://img.shields.io/github/stars/benjaminpsinclair/Netdisco-CVE-2023-37623">
+
+---
 ## CVE-2023-37599 (2023-07-13T22:15:00)
 > An issue in issabel-pbx v.4.0.0-6 allows a remote attacker to obtain sensitive information via the modules directory
 - [sahiloj/CVE-2023-37599](https://github.com/sahiloj/CVE-2023-37599)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-37599">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-37599">
