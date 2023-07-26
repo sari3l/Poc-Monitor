@@ -51,13 +51,13 @@
 - [anky-123/CVE-2023-37771](https://github.com/anky-123/CVE-2023-37771)	<img alt="forks" src="https://img.shields.io/github/forks/anky-123/CVE-2023-37771">	<img alt="stars" src="https://img.shields.io/github/stars/anky-123/CVE-2023-37771">
 
 ---
-## CVE-2023-37624 ()
-> 
+## CVE-2023-37624 (2023-07-26T20:15:00)
+> Netdisco before v2.063000 was discovered to contain an open redirect vulnerability. An attacker may exploit this vulnerability to redirect users to arbitrary web URLs by tricking the victim users to click on crafted links.
 - [benjaminpsinclair/Netdisco-CVE-2023-37624](https://github.com/benjaminpsinclair/Netdisco-CVE-2023-37624)	<img alt="forks" src="https://img.shields.io/github/forks/benjaminpsinclair/Netdisco-CVE-2023-37624">	<img alt="stars" src="https://img.shields.io/github/stars/benjaminpsinclair/Netdisco-CVE-2023-37624">
 
 ---
-## CVE-2023-37623 ()
-> 
+## CVE-2023-37623 (2023-07-26T20:15:00)
+> Netdisco before v2.063000 was discovered to contain a cross-site scripting (XSS) vulnerability via the component /Web/TypeAhead.pm.
 - [benjaminpsinclair/Netdisco-CVE-2023-37623](https://github.com/benjaminpsinclair/Netdisco-CVE-2023-37623)	<img alt="forks" src="https://img.shields.io/github/forks/benjaminpsinclair/Netdisco-CVE-2023-37623">	<img alt="stars" src="https://img.shields.io/github/stars/benjaminpsinclair/Netdisco-CVE-2023-37623">
 
 ---
@@ -402,8 +402,8 @@ This issue affects RT-AX56U V2: 3.0.0.4.386_50460; RT-AC86U: 3.0.0.4_386_51529.
 - [leekenghwa/CVE-2023-33817---SQL-Injection-found-in-HotelDruid-3.0.5](https://github.com/leekenghwa/CVE-2023-33817---SQL-Injection-found-in-HotelDruid-3.0.5)	<img alt="forks" src="https://img.shields.io/github/forks/leekenghwa/CVE-2023-33817---SQL-Injection-found-in-HotelDruid-3.0.5">	<img alt="stars" src="https://img.shields.io/github/stars/leekenghwa/CVE-2023-33817---SQL-Injection-found-in-HotelDruid-3.0.5">
 
 ---
-## CVE-2023-33802 ()
-> 
+## CVE-2023-33802 (2023-07-26T20:15:00)
+> A buffer overflow in SumatraPDF Reader v3.4.6 allows attackers to cause a Denial of Service (DoS) via a crafted text file.
 - [CDACesec/CVE-2023-33802](https://github.com/CDACesec/CVE-2023-33802)	<img alt="forks" src="https://img.shields.io/github/forks/CDACesec/CVE-2023-33802">	<img alt="stars" src="https://img.shields.io/github/stars/CDACesec/CVE-2023-33802">
 
 ---
@@ -816,8 +816,8 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [a2ure123/CVE-2023-30383](https://github.com/a2ure123/CVE-2023-30383)	<img alt="forks" src="https://img.shields.io/github/forks/a2ure123/CVE-2023-30383">	<img alt="stars" src="https://img.shields.io/github/stars/a2ure123/CVE-2023-30383">
 
 ---
-## CVE-2023-30367 ()
-> 
+## CVE-2023-30367 (2023-07-26T21:15:00)
+> mRemoteNG configuration files can be stored in an encrypted state on disk. mRemoteNG version <= v1.76.20 and <= 1.77.3-dev loads configuration files in plain text into memory at application start-up, even if no connection has been established yet. This allows attackers to access contents of configuration files in plain text through a memory dump and thus compromise user credentials when no custom password encryption key has been set. This also bypasses the connection configuration file encryption setting by dumping already decrypted configurations from memory.
 - [S1lkys/CVE-2023-30367-mRemoteNG-password-dumper](https://github.com/S1lkys/CVE-2023-30367-mRemoteNG-password-dumper)	<img alt="forks" src="https://img.shields.io/github/forks/S1lkys/CVE-2023-30367-mRemoteNG-password-dumper">	<img alt="stars" src="https://img.shields.io/github/stars/S1lkys/CVE-2023-30367-mRemoteNG-password-dumper">
 
 ---
