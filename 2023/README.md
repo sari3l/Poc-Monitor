@@ -1498,7 +1498,7 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 > 
 A vulnerability has been discovered in the customer-managed ShareFile storage zones controller which, if exploited, could allow an unauthenticated attacker to remotely compromise the customer-managed ShareFile storage zones controller.
 - [adhikara13/CVE-2023-24489-ShareFile](https://github.com/adhikara13/CVE-2023-24489-ShareFile)	<img alt="forks" src="https://img.shields.io/github/forks/adhikara13/CVE-2023-24489-ShareFile">	<img alt="stars" src="https://img.shields.io/github/stars/adhikara13/CVE-2023-24489-ShareFile">
-- [codeb0ss/CVE-2023-24489-Poc](https://github.com/codeb0ss/CVE-2023-24489-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-24489-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-24489-Poc">
+- [codeb0ss/CVE-2023-24489-PoC](https://github.com/codeb0ss/CVE-2023-24489-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-24489-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-24489-PoC">
 
 ---
 ## CVE-2023-24488 (2023-07-10T21:15:00)
