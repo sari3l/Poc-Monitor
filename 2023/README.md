@@ -1355,6 +1355,11 @@ and the severity is therefore considered low.
 - [hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650](https://github.com/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650">
 
 ---
+## CVE-2023-2636 (2023-07-17T14:15:00)
+> The AN_GradeBook WordPress plugin through 5.0.1 does not properly sanitise and escape a parameter before using it in a SQL statement, leading to a SQL injection exploitable by users with a role as low as subscriber
+- [lukinneberg/CVE-2023-2636](https://github.com/lukinneberg/CVE-2023-2636)	<img alt="forks" src="https://img.shields.io/github/forks/lukinneberg/CVE-2023-2636">	<img alt="stars" src="https://img.shields.io/github/stars/lukinneberg/CVE-2023-2636">
+
+---
 ## CVE-2023-26258 (2023-07-03T15:15:00)
 > Arcserve UDP through 9.0.6034 allows authentication bypass. The method getVersionInfo at WebServiceImpl/services/FlashServiceImpl leaks the AuthUUID token. This token can be used at /WebServiceImpl/services/VirtualStandbyServiceImpl to obtain a valid session. This session can be used to execute any task as administrator.
 - [mdsecactivebreach/CVE-2023-26258-ArcServe](https://github.com/mdsecactivebreach/CVE-2023-26258-ArcServe)	<img alt="forks" src="https://img.shields.io/github/forks/mdsecactivebreach/CVE-2023-26258-ArcServe">	<img alt="stars" src="https://img.shields.io/github/stars/mdsecactivebreach/CVE-2023-26258-ArcServe">
