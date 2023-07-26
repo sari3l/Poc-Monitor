@@ -1581,6 +1581,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [octosec45/ms-word-rce-0day-poc-2023](https://github.com/octosec45/ms-word-rce-0day-poc-2023)	<img alt="forks" src="https://img.shields.io/github/forks/octosec45/ms-word-rce-0day-poc-2023">	<img alt="stars" src="https://img.shields.io/github/stars/octosec45/ms-word-rce-0day-poc-2023">
 - [wibuheker/Joomla-CVE-2023-23752](https://github.com/wibuheker/Joomla-CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/wibuheker/Joomla-CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/wibuheker/Joomla-CVE-2023-23752">
 - [Sweelg/CVE-2023-23752](https://github.com/Sweelg/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/Sweelg/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/Sweelg/CVE-2023-23752">
+- [MrP4nda1337/CVE-2023-23752](https://github.com/MrP4nda1337/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/MrP4nda1337/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/MrP4nda1337/CVE-2023-23752">
 
 ---
 ## CVE-2023-23638 (2023-03-08T11:15:00)
