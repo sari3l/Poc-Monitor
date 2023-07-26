@@ -1260,6 +1260,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [seanrdev/cve-2023-27163](https://github.com/seanrdev/cve-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/seanrdev/cve-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/seanrdev/cve-2023-27163">
 - [overgrowncarrot1/CVE-2023-27163](https://github.com/overgrowncarrot1/CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/overgrowncarrot1/CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/overgrowncarrot1/CVE-2023-27163">
 - [ThickCoco/CVE-2023-27163-POC](https://github.com/ThickCoco/CVE-2023-27163-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ThickCoco/CVE-2023-27163-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ThickCoco/CVE-2023-27163-POC">
+- [davuXVI/CVE-2023-27163](https://github.com/davuXVI/CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/davuXVI/CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/davuXVI/CVE-2023-27163">
 
 ---
 ## CVE-2023-27100 (2023-03-22T23:15:00)
