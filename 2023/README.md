@@ -56,6 +56,11 @@
 - [anky-123/CVE-2023-37771](https://github.com/anky-123/CVE-2023-37771)	<img alt="forks" src="https://img.shields.io/github/forks/anky-123/CVE-2023-37771">	<img alt="stars" src="https://img.shields.io/github/stars/anky-123/CVE-2023-37771">
 
 ---
+## CVE-2023-37625 ()
+> 
+- [benjaminpsinclair/Netbox-CVE-2023-37625](https://github.com/benjaminpsinclair/Netbox-CVE-2023-37625)	<img alt="forks" src="https://img.shields.io/github/forks/benjaminpsinclair/Netbox-CVE-2023-37625">	<img alt="stars" src="https://img.shields.io/github/stars/benjaminpsinclair/Netbox-CVE-2023-37625">
+
+---
 ## CVE-2023-37624 (2023-07-26T20:15:00)
 > Netdisco before v2.063000 was discovered to contain an open redirect vulnerability. An attacker may exploit this vulnerability to redirect users to arbitrary web URLs by tricking the victim users to click on crafted links.
 - [benjaminpsinclair/Netdisco-CVE-2023-37624](https://github.com/benjaminpsinclair/Netdisco-CVE-2023-37624)	<img alt="forks" src="https://img.shields.io/github/forks/benjaminpsinclair/Netdisco-CVE-2023-37624">	<img alt="stars" src="https://img.shields.io/github/stars/benjaminpsinclair/Netdisco-CVE-2023-37624">
