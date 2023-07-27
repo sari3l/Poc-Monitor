@@ -59,6 +59,7 @@
 ## CVE-2023-37624 (2023-07-26T20:15:00)
 > Netdisco before v2.063000 was discovered to contain an open redirect vulnerability. An attacker may exploit this vulnerability to redirect users to arbitrary web URLs by tricking the victim users to click on crafted links.
 - [benjaminpsinclair/Netdisco-CVE-2023-37624](https://github.com/benjaminpsinclair/Netdisco-CVE-2023-37624)	<img alt="forks" src="https://img.shields.io/github/forks/benjaminpsinclair/Netdisco-CVE-2023-37624">	<img alt="stars" src="https://img.shields.io/github/stars/benjaminpsinclair/Netdisco-CVE-2023-37624">
+- [hheeyywweellccoommee/Netdisco-CVE-2023-37624-jawzz](https://github.com/hheeyywweellccoommee/Netdisco-CVE-2023-37624-jawzz)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/Netdisco-CVE-2023-37624-jawzz">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/Netdisco-CVE-2023-37624-jawzz">
 
 ---
 ## CVE-2023-37623 (2023-07-26T20:15:00)
