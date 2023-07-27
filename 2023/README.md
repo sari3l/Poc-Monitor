@@ -41,6 +41,11 @@
 - [snowcra5h/CVE-2023-38408](https://github.com/snowcra5h/CVE-2023-38408)	<img alt="forks" src="https://img.shields.io/github/forks/snowcra5h/CVE-2023-38408">	<img alt="stars" src="https://img.shields.io/github/stars/snowcra5h/CVE-2023-38408">
 
 ---
+## CVE-2023-37847 ()
+> 
+- [KingBangQ/CVE-2023-37847](https://github.com/KingBangQ/CVE-2023-37847)	<img alt="forks" src="https://img.shields.io/github/forks/KingBangQ/CVE-2023-37847">	<img alt="stars" src="https://img.shields.io/github/stars/KingBangQ/CVE-2023-37847">
+
+---
 ## CVE-2023-37786 (2023-07-13T17:15:00)
 > Multiple cross-site scripting (XSS) vulnerabilities in Geeklog v2.2.2 allow attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Mail Settings[backend], Mail Settings[host], Mail Settings[port] and Mail Settings[auth] parameters of the /admin/configuration.php.
 - [Phamchie/CVE-2023-37786](https://github.com/Phamchie/CVE-2023-37786)	<img alt="forks" src="https://img.shields.io/github/forks/Phamchie/CVE-2023-37786">	<img alt="stars" src="https://img.shields.io/github/stars/Phamchie/CVE-2023-37786">
