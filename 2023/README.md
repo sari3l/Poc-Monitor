@@ -102,6 +102,11 @@ It is recommended for users to upgrade their NameServer version to 5.1.2 or abov
 - [Malayke/CVE-2023-37582_EXPLOIT](https://github.com/Malayke/CVE-2023-37582_EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/Malayke/CVE-2023-37582_EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/Malayke/CVE-2023-37582_EXPLOIT">
 
 ---
+## CVE-2023-37474 (2023-07-14T20:15:00)
+> Copyparty is a portable file server. Versions prior to 1.8.2 are subject to a path traversal vulnerability detected in the `.cpr` subfolder. The Path Traversal attack technique allows an attacker access to files, directories, and commands that reside outside the web document root directory. This issue has been addressed in commit `043e3c7d` which has been included in release 1.8.2. Users are advised to upgrade. There are no known workarounds for this vulnerability.
+- [ilqarli27/CVE-2023-37474.yaml](https://github.com/ilqarli27/CVE-2023-37474.yaml)	<img alt="forks" src="https://img.shields.io/github/forks/ilqarli27/CVE-2023-37474.yaml">	<img alt="stars" src="https://img.shields.io/github/stars/ilqarli27/CVE-2023-37474.yaml">
+
+---
 ## CVE-2023-37250 ()
 > 
 - [ewilded/CVE-2023-37250](https://github.com/ewilded/CVE-2023-37250)	<img alt="forks" src="https://img.shields.io/github/forks/ewilded/CVE-2023-37250">	<img alt="stars" src="https://img.shields.io/github/stars/ewilded/CVE-2023-37250">
