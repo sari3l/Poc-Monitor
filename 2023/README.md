@@ -36,6 +36,7 @@
 - [adriyansyah-mf/CVE-2023-38646--Metabase-](https://github.com/adriyansyah-mf/CVE-2023-38646--Metabase-)	<img alt="forks" src="https://img.shields.io/github/forks/adriyansyah-mf/CVE-2023-38646--Metabase-">	<img alt="stars" src="https://img.shields.io/github/stars/adriyansyah-mf/CVE-2023-38646--Metabase-">
 - [Pumpkin-Garden/POC_Metabase_CVE-2023-38646](https://github.com/Pumpkin-Garden/POC_Metabase_CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/Pumpkin-Garden/POC_Metabase_CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/Pumpkin-Garden/POC_Metabase_CVE-2023-38646">
 - [Zenmovie/CVE-2023-38646](https://github.com/Zenmovie/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/Zenmovie/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/Zenmovie/CVE-2023-38646">
+- [Traumatism/CVE-2023-38646](https://github.com/Traumatism/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/Traumatism/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/Traumatism/CVE-2023-38646">
 
 ---
 ## CVE-2023-38632 (2023-07-21T02:15:00)
