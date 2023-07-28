@@ -2094,6 +2094,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [0xxtoby/CVE-2023-1415](https://github.com/0xxtoby/CVE-2023-1415)	<img alt="forks" src="https://img.shields.io/github/forks/0xxtoby/CVE-2023-1415">	<img alt="stars" src="https://img.shields.io/github/stars/0xxtoby/CVE-2023-1415">
 
 ---
+## CVE-2023-1389 (2023-03-15T23:15:00)
+> TP-Link Archer AX21 (AX1800) firmware versions before 1.1.4 Build 20230219 contained a command injection vulnerability in the country form of the /cgi-bin/luci;stok=/locale endpoint on the web management interface. Specifically, the country parameter of the write operation was not sanitized before being used in a call to popen(), allowing an unauthenticated attacker to inject commands, which would be run as root, with a simple POST request.
+- [Voyag3r-Security/CVE-2023-1389](https://github.com/Voyag3r-Security/CVE-2023-1389)	<img alt="forks" src="https://img.shields.io/github/forks/Voyag3r-Security/CVE-2023-1389">	<img alt="stars" src="https://img.shields.io/github/stars/Voyag3r-Security/CVE-2023-1389">
+
+---
 ## CVE-2023-1337 (2023-03-10T20:15:00)
 > The RapidLoad Power-Up for Autoptimize plugin for WordPress is vulnerable to unauthorized data loss due to a missing capability check on the clear_uucss_logs function in versions up to, and including, 1.7.1. This makes it possible for authenticated attackers with subscriber-level access to delete plugin log files.
 - [Penkyzduyi/CVE-2023-1337](https://github.com/Penkyzduyi/CVE-2023-1337)	<img alt="forks" src="https://img.shields.io/github/forks/Penkyzduyi/CVE-2023-1337">	<img alt="stars" src="https://img.shields.io/github/stars/Penkyzduyi/CVE-2023-1337">
