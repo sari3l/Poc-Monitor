@@ -1925,6 +1925,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [timpen432/-Wh0Am1001-CVE-2023-21753](https://github.com/timpen432/-Wh0Am1001-CVE-2023-21753)	<img alt="forks" src="https://img.shields.io/github/forks/timpen432/-Wh0Am1001-CVE-2023-21753">	<img alt="stars" src="https://img.shields.io/github/stars/timpen432/-Wh0Am1001-CVE-2023-21753">
 
 ---
+## CVE-2023-21752 (2023-01-10T22:15:00)
+> Windows Backup Service Elevation of Privilege Vulnerability
+- [yosef0x01/CVE-2023-21752](https://github.com/yosef0x01/CVE-2023-21752)	<img alt="forks" src="https://img.shields.io/github/forks/yosef0x01/CVE-2023-21752">	<img alt="stars" src="https://img.shields.io/github/stars/yosef0x01/CVE-2023-21752">
+
+---
 ## CVE-2023-21746 (2023-01-10T22:15:00)
 > Windows NTLM Elevation of Privilege Vulnerability
 - [Muhammad-Ali007/LocalPotato_CVE-2023-21746](https://github.com/Muhammad-Ali007/LocalPotato_CVE-2023-21746)	<img alt="forks" src="https://img.shields.io/github/forks/Muhammad-Ali007/LocalPotato_CVE-2023-21746">	<img alt="stars" src="https://img.shields.io/github/stars/Muhammad-Ali007/LocalPotato_CVE-2023-21746">
