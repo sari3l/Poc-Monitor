@@ -1618,6 +1618,11 @@
 - [Live-Hack-CVE/CVE-2021-42067](https://github.com/Live-Hack-CVE/CVE-2021-42067)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42067">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42067">
 
 ---
+## CVE-2021-42056 (2022-06-24T17:15:00)
+> Thales Safenet Authentication Client (SAC) for Linux and Windows through 10.7.7 creates insecure temporary hid and lock files allowing a local attacker, through a symlink attack, to overwrite arbitrary files, and potentially achieve arbitrary command execution with high privileges.
+- [z00z00z00/Safenet_SAC_CVE-2021-42056](https://github.com/z00z00z00/Safenet_SAC_CVE-2021-42056)	<img alt="forks" src="https://img.shields.io/github/forks/z00z00z00/Safenet_SAC_CVE-2021-42056">	<img alt="stars" src="https://img.shields.io/github/stars/z00z00z00/Safenet_SAC_CVE-2021-42056">
+
+---
 ## CVE-2021-42049 (2022-09-29T03:15:00)
 > An issue was discovered in the Translate extension in MediaWiki through 1.36.2. Oversighters cannot undo revisions or oversight on pages where they suppressed information (such as PII). This allows oversighters to whitewash revisions.
 - [Live-Hack-CVE/CVE-2021-42049](https://github.com/Live-Hack-CVE/CVE-2021-42049)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42049">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42049">
