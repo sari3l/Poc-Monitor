@@ -68,6 +68,11 @@
 - [Phamchie/CVE-2023-37786](https://github.com/Phamchie/CVE-2023-37786)	<img alt="forks" src="https://img.shields.io/github/forks/Phamchie/CVE-2023-37786">	<img alt="stars" src="https://img.shields.io/github/stars/Phamchie/CVE-2023-37786">
 
 ---
+## CVE-2023-37779 ()
+> 
+- [jyoti818680/CVE-2023-37779](https://github.com/jyoti818680/CVE-2023-37779)	<img alt="forks" src="https://img.shields.io/github/forks/jyoti818680/CVE-2023-37779">	<img alt="stars" src="https://img.shields.io/github/stars/jyoti818680/CVE-2023-37779">
+
+---
 ## CVE-2023-37778 ()
 > 
 - [jyoti818680/CVE-2023-37778](https://github.com/jyoti818680/CVE-2023-37778)	<img alt="forks" src="https://img.shields.io/github/forks/jyoti818680/CVE-2023-37778">	<img alt="stars" src="https://img.shields.io/github/stars/jyoti818680/CVE-2023-37778">
