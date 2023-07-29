@@ -472,6 +472,7 @@ This issue affects RT-AX56U V2: 3.0.0.4.386_50460; RT-AC86U: 3.0.0.4_386_51529.
 ## CVE-2023-33768 (2023-07-13T16:15:00)
 > Incorrect signature verification of the firmware during the Device Firmware Update process of Belkin Wemo Smart Plug WSP080 v1.2 allows attackers to cause a Denial of Service (DoS) via a crafted firmware file.
 - [purseclab/CVE-2023-33768](https://github.com/purseclab/CVE-2023-33768)	<img alt="forks" src="https://img.shields.io/github/forks/purseclab/CVE-2023-33768">	<img alt="stars" src="https://img.shields.io/github/stars/purseclab/CVE-2023-33768">
+- [Fr0stM0urne/CVE-2023-33768](https://github.com/Fr0stM0urne/CVE-2023-33768)	<img alt="forks" src="https://img.shields.io/github/forks/Fr0stM0urne/CVE-2023-33768">	<img alt="stars" src="https://img.shields.io/github/stars/Fr0stM0urne/CVE-2023-33768">
 
 ---
 ## CVE-2023-33733 (2023-06-05T16:15:00)
