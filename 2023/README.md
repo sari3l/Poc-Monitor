@@ -1827,6 +1827,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [Saboor-Hakimi/CVE-2023-22894](https://github.com/Saboor-Hakimi/CVE-2023-22894)	<img alt="forks" src="https://img.shields.io/github/forks/Saboor-Hakimi/CVE-2023-22894">	<img alt="stars" src="https://img.shields.io/github/stars/Saboor-Hakimi/CVE-2023-22894">
 
 ---
+## CVE-2023-22884 (2023-01-21T14:15:00)
+> Improper Neutralization of Special Elements used in a Command ('Command Injection') vulnerability in Apache Software Foundation Apache Airflow, Apache Software Foundation Apache Airflow MySQL Provider.This issue affects Apache Airflow: before 2.5.1; Apache Airflow MySQL Provider: before 4.0.0.
+- [jakabakos/CVE-2023-22884](https://github.com/jakabakos/CVE-2023-22884)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2023-22884">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2023-22884">
+
+---
 ## CVE-2023-22855 (2023-02-15T21:15:00)
 > Kardex Mlog MCC 5.7.12+0-a203c2a213-master allows remote code execution. It spawns a web interface listening on port 8088. A user-controllable path is handed to a path-concatenation method (Path.Combine from .NET) without proper sanitisation. This yields the possibility of including local files, as well as remote files on SMB shares. If one provides a file with the extension .t4, it is rendered with the .NET templating engine mono/t4, which can execute code.
 - [patrickhener/CVE-2023-22855](https://github.com/patrickhener/CVE-2023-22855)	<img alt="forks" src="https://img.shields.io/github/forks/patrickhener/CVE-2023-22855">	<img alt="stars" src="https://img.shields.io/github/stars/patrickhener/CVE-2023-22855">
