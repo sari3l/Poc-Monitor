@@ -162,6 +162,11 @@ It is recommended for users to upgrade their NameServer version to 5.1.2 or abov
 - [sahiloj/CVE-2023-37189](https://github.com/sahiloj/CVE-2023-37189)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-37189">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-37189">
 
 ---
+## CVE-2023-37164 (2023-07-20T19:15:00)
+> Diafan CMS v6.0 was discovered to contain a reflected cross-site scripting via the cat_id parameter at /shop/?module=shop&action=search.
+- [ilqarli27/CVE-2023-37164](https://github.com/ilqarli27/CVE-2023-37164)	<img alt="forks" src="https://img.shields.io/github/forks/ilqarli27/CVE-2023-37164">	<img alt="stars" src="https://img.shields.io/github/stars/ilqarli27/CVE-2023-37164">
+
+---
 ## CVE-2023-36884 (2023-07-11T19:15:00)
 > Microsoft is investigating reports of a series of remote code execution vulnerabilities impacting Windows and Office products. Microsoft is aware of targeted attacks that attempt to exploit these vulnerabilities by using specially-crafted Microsoft Office documents.
 
