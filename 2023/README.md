@@ -312,6 +312,12 @@ This issue affects RT-AX56U V2: 3.0.0.4.386_50460; RT-AC86U: 3.0.0.4_386_51529.
 - [tin-z/CVE-2023-35086-POC](https://github.com/tin-z/CVE-2023-35086-POC)	<img alt="forks" src="https://img.shields.io/github/forks/tin-z/CVE-2023-35086-POC">	<img alt="stars" src="https://img.shields.io/github/stars/tin-z/CVE-2023-35086-POC">
 
 ---
+## CVE-2023-35078 (2023-07-25T07:15:00)
+> 
+Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 allows remote attackers to obtain PII, add an administrative account, and change the configuration because of an authentication bypass, as exploited in the wild in July 2023. A patch is available.
+- [vchan-in/CVE-2023-35078-Exploit-POC](https://github.com/vchan-in/CVE-2023-35078-Exploit-POC)	<img alt="forks" src="https://img.shields.io/github/forks/vchan-in/CVE-2023-35078-Exploit-POC">	<img alt="stars" src="https://img.shields.io/github/stars/vchan-in/CVE-2023-35078-Exploit-POC">
+
+---
 ## CVE-2023-34965 (2023-06-13T19:15:00)
 > SSPanel-Uim 2023.3 does not restrict access to the /link/ interface which can lead to a leak of user information.
 - [AgentY0/CVE-2023-34965](https://github.com/AgentY0/CVE-2023-34965)	<img alt="forks" src="https://img.shields.io/github/forks/AgentY0/CVE-2023-34965">	<img alt="stars" src="https://img.shields.io/github/stars/AgentY0/CVE-2023-34965">
