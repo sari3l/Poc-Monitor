@@ -43,6 +43,7 @@
 - [tucommenceapousser/CVE-2023-38646-exp](https://github.com/tucommenceapousser/CVE-2023-38646-exp)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2023-38646-exp">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2023-38646-exp">
 - [Xuxfff/CVE-2023-38646-Poc](https://github.com/Xuxfff/CVE-2023-38646-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/Xuxfff/CVE-2023-38646-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/Xuxfff/CVE-2023-38646-Poc">
 - [securezeron/CVE-2023-38646](https://github.com/securezeron/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/securezeron/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/securezeron/CVE-2023-38646">
+- [hheeyywweellccoommee/CVE-2023-38646-glwax](https://github.com/hheeyywweellccoommee/CVE-2023-38646-glwax)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-38646-glwax">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-38646-glwax">
 
 ---
 ## CVE-2023-38632 (2023-07-21T02:15:00)
