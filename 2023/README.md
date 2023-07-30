@@ -456,6 +456,28 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 - [galoget/Thruk-CVE-2023-34096](https://github.com/galoget/Thruk-CVE-2023-34096)	<img alt="forks" src="https://img.shields.io/github/forks/galoget/Thruk-CVE-2023-34096">	<img alt="stars" src="https://img.shields.io/github/stars/galoget/Thruk-CVE-2023-34096">
 
 ---
+## CVE-2023-34035 (2023-07-18T16:15:00)
+> Spring Security versions 5.8 prior to 5.8.5, 6.0 prior to 6.0.5, and 6.1 prior to 6.1.2 could be susceptible to authorization rule misconfiguration if the application uses requestMatchers(String) and multiple servlets, one of them being Spring MVC’s DispatcherServlet. (DispatcherServlet is a Spring MVC component that maps HTTP endpoints to methods on @Controller-annotated classes.)
+
+Specifically, an application is vulnerable when all of the following are true:
+
+  *  Spring MVC is on the classpath
+  *  Spring Security is securing more than one servlet in a single application (one of them being Spring MVC’s DispatcherServlet)
+  *  The application uses requestMatchers(String) to refer to endpoints that are not Spring MVC endpoints
+
+
+An application is not vulnerable if any of the following is true:
+
+  *  The application does not have Spring MVC on the classpath
+  *  The application secures no servlets other than Spring MVC’s DispatcherServlet
+  *  The application uses requestMatchers(String) only for Spring MVC endpoints
+
+
+
+
+- [mouadk/CVE-2023-34035-Poc](https://github.com/mouadk/CVE-2023-34035-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/mouadk/CVE-2023-34035-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/mouadk/CVE-2023-34035-Poc">
+
+---
 ## CVE-2023-33977 (2023-06-06T19:15:00)
 > Kiwi TCMS is an open source test management system for both manual and automated testing. Kiwi TCMS allows users to upload attachments to test plans, test cases, etc. Earlier versions of Kiwi TCMS had introduced upload validators in order to prevent potentially dangerous files from being uploaded and Content-Security-Policy definition to prevent cross-site-scripting attacks. The upload validation checks were not 100% robust which left the possibility to circumvent them and upload a potentially dangerous file which allows execution of arbitrary JavaScript in the browser. Additionally we've discovered that Nginx's `proxy_pass` directive will strip some headers negating protections built into Kiwi TCMS when served behind a reverse proxy. This issue has been addressed in version 12.4. Users are advised to upgrade. Users unable to upgrade who are serving Kiwi TCMS behind a reverse proxy should make sure that additional header values are still passed to the client browser. If they aren't redefining them inside the proxy configuration.
 - [mnqazi/CVE-2023-33977](https://github.com/mnqazi/CVE-2023-33977)	<img alt="forks" src="https://img.shields.io/github/forks/mnqazi/CVE-2023-33977">	<img alt="stars" src="https://img.shields.io/github/stars/mnqazi/CVE-2023-33977">
