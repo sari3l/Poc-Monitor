@@ -94,8 +94,8 @@
 - [anky-123/CVE-2023-37772](https://github.com/anky-123/CVE-2023-37772)	<img alt="forks" src="https://img.shields.io/github/forks/anky-123/CVE-2023-37772">	<img alt="stars" src="https://img.shields.io/github/stars/anky-123/CVE-2023-37772">
 
 ---
-## CVE-2023-37771 ()
-> 
+## CVE-2023-37771 (2023-07-31T16:15:00)
+> Art Gallery Management System v1.0 contains a SQL injection vulnerability via the cid parameter at /agms/product.php.
 - [anky-123/CVE-2023-37771](https://github.com/anky-123/CVE-2023-37771)	<img alt="forks" src="https://img.shields.io/github/forks/anky-123/CVE-2023-37771">	<img alt="stars" src="https://img.shields.io/github/stars/anky-123/CVE-2023-37771">
 
 ---
@@ -1661,6 +1661,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [zwlsix/KeePass-CVE-2023-24055](https://github.com/zwlsix/KeePass-CVE-2023-24055)	<img alt="forks" src="https://img.shields.io/github/forks/zwlsix/KeePass-CVE-2023-24055">	<img alt="stars" src="https://img.shields.io/github/stars/zwlsix/KeePass-CVE-2023-24055">
 - [bigozzzz/popular-cves-scanner](https://github.com/bigozzzz/popular-cves-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/bigozzzz/popular-cves-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/bigozzzz/popular-cves-scanner">
 - [poppylarrry/firefox-rce-poc](https://github.com/poppylarrry/firefox-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/poppylarrry/firefox-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/poppylarrry/firefox-rce-poc">
+
+---
+## CVE-2023-23946 (2023-02-14T20:15:00)
+> Git, a revision control system, is vulnerable to path traversal prior to versions 2.39.2, 2.38.4, 2.37.6, 2.36.5, 2.35.7, 2.34.7, 2.33.7, 2.32.6, 2.31.7, and 2.30.8. By feeding a crafted input to `git apply`, a path outside the working tree can be overwritten as the user who is running `git apply`. A fix has been prepared and will appear in v2.39.2, v2.38.4, v2.37.6, v2.36.5, v2.35.7, v2.34.7, v2.33.7, v2.32.6, v2.31.7, and v2.30.8. As a workaround, use `git apply --stat` to inspect a patch before applying; avoid applying one that creates a symbolic link and then creates a file beyond the symbolic link.
+- [thomsoe/Test_CVE-2023-23946](https://github.com/thomsoe/Test_CVE-2023-23946)	<img alt="forks" src="https://img.shields.io/github/forks/thomsoe/Test_CVE-2023-23946">	<img alt="stars" src="https://img.shields.io/github/stars/thomsoe/Test_CVE-2023-23946">
 
 ---
 ## CVE-2023-23924 (2023-02-01T00:15:00)
