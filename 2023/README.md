@@ -1632,6 +1632,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [securitycipher/CVE-2023-24488](https://github.com/securitycipher/CVE-2023-24488)	<img alt="forks" src="https://img.shields.io/github/forks/securitycipher/CVE-2023-24488">	<img alt="stars" src="https://img.shields.io/github/stars/securitycipher/CVE-2023-24488">
 - [codeb0ss/cve-2023-24488](https://github.com/codeb0ss/cve-2023-24488)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/cve-2023-24488">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/cve-2023-24488">
 - [NSTCyber/CVE-2023-24488-SIEM-Sigma-Rule](https://github.com/NSTCyber/CVE-2023-24488-SIEM-Sigma-Rule)	<img alt="forks" src="https://img.shields.io/github/forks/NSTCyber/CVE-2023-24488-SIEM-Sigma-Rule">	<img alt="stars" src="https://img.shields.io/github/stars/NSTCyber/CVE-2023-24488-SIEM-Sigma-Rule">
+- [LazyySec/CVE-2023-24488](https://github.com/LazyySec/CVE-2023-24488)	<img alt="forks" src="https://img.shields.io/github/forks/LazyySec/CVE-2023-24488">	<img alt="stars" src="https://img.shields.io/github/stars/LazyySec/CVE-2023-24488">
 
 ---
 ## CVE-2023-24317 (2023-02-23T20:15:00)
