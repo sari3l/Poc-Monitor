@@ -45,6 +45,7 @@
 - [securezeron/CVE-2023-38646](https://github.com/securezeron/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/securezeron/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/securezeron/CVE-2023-38646">
 - [hheeyywweellccoommee/CVE-2023-38646-glwax](https://github.com/hheeyywweellccoommee/CVE-2023-38646-glwax)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-38646-glwax">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-38646-glwax">
 - [LazyySec/CVE-2023-38646](https://github.com/LazyySec/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/LazyySec/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/LazyySec/CVE-2023-38646">
+- [hheeyywweellccoommee/CVE-2023-38646-hmoje](https://github.com/hheeyywweellccoommee/CVE-2023-38646-hmoje)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-38646-hmoje">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-38646-hmoje">
 
 ---
 ## CVE-2023-38632 (2023-07-21T02:15:00)
