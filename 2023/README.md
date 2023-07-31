@@ -1575,6 +1575,7 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [drfabiocastro/geoserver](https://github.com/drfabiocastro/geoserver)	<img alt="forks" src="https://img.shields.io/github/forks/drfabiocastro/geoserver">	<img alt="stars" src="https://img.shields.io/github/stars/drfabiocastro/geoserver">
 - [murataydemir/CVE-2023-25157-and-CVE-2023-25158](https://github.com/murataydemir/CVE-2023-25157-and-CVE-2023-25158)	<img alt="forks" src="https://img.shields.io/github/forks/murataydemir/CVE-2023-25157-and-CVE-2023-25158">	<img alt="stars" src="https://img.shields.io/github/stars/murataydemir/CVE-2023-25157-and-CVE-2023-25158">
 - [7imbitz/CVE-2023-25157-checker](https://github.com/7imbitz/CVE-2023-25157-checker)	<img alt="forks" src="https://img.shields.io/github/forks/7imbitz/CVE-2023-25157-checker">	<img alt="stars" src="https://img.shields.io/github/stars/7imbitz/CVE-2023-25157-checker">
+- [EmmanuelCruzL/CVE-2023-25157](https://github.com/EmmanuelCruzL/CVE-2023-25157)	<img alt="forks" src="https://img.shields.io/github/forks/EmmanuelCruzL/CVE-2023-25157">	<img alt="stars" src="https://img.shields.io/github/stars/EmmanuelCruzL/CVE-2023-25157">
 
 ---
 ## CVE-2023-25136 (2023-02-03T06:15:00)
