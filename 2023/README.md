@@ -44,7 +44,7 @@
 - [Xuxfff/CVE-2023-38646-Poc](https://github.com/Xuxfff/CVE-2023-38646-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/Xuxfff/CVE-2023-38646-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/Xuxfff/CVE-2023-38646-Poc">
 - [securezeron/CVE-2023-38646](https://github.com/securezeron/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/securezeron/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/securezeron/CVE-2023-38646">
 - [hheeyywweellccoommee/CVE-2023-38646-glwax](https://github.com/hheeyywweellccoommee/CVE-2023-38646-glwax)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-38646-glwax">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-38646-glwax">
-- [peller-crot/Poc-Metabase-Preauth-CVE-2023-38646](https://github.com/peller-crot/Poc-Metabase-Preauth-CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/peller-crot/Poc-Metabase-Preauth-CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/peller-crot/Poc-Metabase-Preauth-CVE-2023-38646">
+- [LazyySec/Poc-Metabase-Preauth-CVE-2023-38646](https://github.com/LazyySec/Poc-Metabase-Preauth-CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/LazyySec/Poc-Metabase-Preauth-CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/LazyySec/Poc-Metabase-Preauth-CVE-2023-38646">
 
 ---
 ## CVE-2023-38632 (2023-07-21T02:15:00)
@@ -330,7 +330,7 @@ This issue affects RT-AX56U V2: 3.0.0.4.386_50460; RT-AC86U: 3.0.0.4_386_51529.
 Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 allows remote attackers to obtain PII, add an administrative account, and change the configuration because of an authentication bypass, as exploited in the wild in July 2023. A patch is available.
 - [vchan-in/CVE-2023-35078-Exploit-POC](https://github.com/vchan-in/CVE-2023-35078-Exploit-POC)	<img alt="forks" src="https://img.shields.io/github/forks/vchan-in/CVE-2023-35078-Exploit-POC">	<img alt="stars" src="https://img.shields.io/github/stars/vchan-in/CVE-2023-35078-Exploit-POC">
 - [lager1/CVE-2023-35078](https://github.com/lager1/CVE-2023-35078)	<img alt="forks" src="https://img.shields.io/github/forks/lager1/CVE-2023-35078">	<img alt="stars" src="https://img.shields.io/github/stars/lager1/CVE-2023-35078">
-- [peller-crot/CVE-2023-35078-Poc-Exploit](https://github.com/peller-crot/CVE-2023-35078-Poc-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/peller-crot/CVE-2023-35078-Poc-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/peller-crot/CVE-2023-35078-Poc-Exploit">
+- [LazyySec/CVE-2023-35078-Poc-Exploit](https://github.com/LazyySec/CVE-2023-35078-Poc-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/LazyySec/CVE-2023-35078-Poc-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/LazyySec/CVE-2023-35078-Poc-Exploit">
 
 ---
 ## CVE-2023-34965 (2023-06-13T19:15:00)
