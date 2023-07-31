@@ -329,6 +329,7 @@ This issue affects RT-AX56U V2: 3.0.0.4.386_50460; RT-AC86U: 3.0.0.4_386_51529.
 Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 allows remote attackers to obtain PII, add an administrative account, and change the configuration because of an authentication bypass, as exploited in the wild in July 2023. A patch is available.
 - [vchan-in/CVE-2023-35078-Exploit-POC](https://github.com/vchan-in/CVE-2023-35078-Exploit-POC)	<img alt="forks" src="https://img.shields.io/github/forks/vchan-in/CVE-2023-35078-Exploit-POC">	<img alt="stars" src="https://img.shields.io/github/stars/vchan-in/CVE-2023-35078-Exploit-POC">
 - [lager1/CVE-2023-35078](https://github.com/lager1/CVE-2023-35078)	<img alt="forks" src="https://img.shields.io/github/forks/lager1/CVE-2023-35078">	<img alt="stars" src="https://img.shields.io/github/stars/lager1/CVE-2023-35078">
+- [peller-crot/CVE-2023-35078-Poc-Exploit](https://github.com/peller-crot/CVE-2023-35078-Poc-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/peller-crot/CVE-2023-35078-Poc-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/peller-crot/CVE-2023-35078-Poc-Exploit">
 
 ---
 ## CVE-2023-34965 (2023-06-13T19:15:00)
