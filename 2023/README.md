@@ -2206,6 +2206,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 ## CVE-2023-1112 (2023-03-01T10:15:00)
 > A vulnerability was found in Drag and Drop Multiple File Upload Contact Form 7 5.0.6.1. It has been classified as critical. Affected is an unknown function of the file admin-ajax.php. The manipulation of the argument upload_name leads to relative path traversal. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-222072.
 - [codeb0ss/CVE-2023-1112-EXP](https://github.com/codeb0ss/CVE-2023-1112-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-1112-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-1112-EXP">
+- [Nickguitar/Drag-and-Drop-Multiple-File-Uploader-PRO-Path-Traversal](https://github.com/Nickguitar/Drag-and-Drop-Multiple-File-Uploader-PRO-Path-Traversal)	<img alt="forks" src="https://img.shields.io/github/forks/Nickguitar/Drag-and-Drop-Multiple-File-Uploader-PRO-Path-Traversal">	<img alt="stars" src="https://img.shields.io/github/stars/Nickguitar/Drag-and-Drop-Multiple-File-Uploader-PRO-Path-Traversal">
 
 ---
 ## CVE-2023-10608 ()
