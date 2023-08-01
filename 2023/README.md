@@ -89,8 +89,8 @@
 - [jyoti818680/CVE-2023-37778](https://github.com/jyoti818680/CVE-2023-37778)	<img alt="forks" src="https://img.shields.io/github/forks/jyoti818680/CVE-2023-37778">	<img alt="stars" src="https://img.shields.io/github/stars/jyoti818680/CVE-2023-37778">
 
 ---
-## CVE-2023-37772 ()
-> 
+## CVE-2023-37772 (2023-08-01T01:15:00)
+> Online Shopping Portal Project v3.1 was discovered to contain a SQL injection vulnerability via the Email parameter at /shopping/login.php.
 - [anky-123/CVE-2023-37772](https://github.com/anky-123/CVE-2023-37772)	<img alt="forks" src="https://img.shields.io/github/forks/anky-123/CVE-2023-37772">	<img alt="stars" src="https://img.shields.io/github/stars/anky-123/CVE-2023-37772">
 
 ---
@@ -341,8 +341,8 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 - [AgentY0/CVE-2023-34965](https://github.com/AgentY0/CVE-2023-34965)	<img alt="forks" src="https://img.shields.io/github/forks/AgentY0/CVE-2023-34965">	<img alt="stars" src="https://img.shields.io/github/stars/AgentY0/CVE-2023-34965">
 
 ---
-## CVE-2023-34960 ()
-> 
+## CVE-2023-34960 (2023-08-01T02:15:00)
+> A command injection vulnerability in the wsConvertPpt component of Chamilo v1.11.* up to v1.11.18 allows attackers to execute arbitrary commands via a SOAP API call with a crafted PowerPoint name.
 - [Aituglo/CVE-2023-34960](https://github.com/Aituglo/CVE-2023-34960)	<img alt="forks" src="https://img.shields.io/github/forks/Aituglo/CVE-2023-34960">	<img alt="stars" src="https://img.shields.io/github/stars/Aituglo/CVE-2023-34960">
 - [Jenderal92/CHAMILO-CVE-2023-34960](https://github.com/Jenderal92/CHAMILO-CVE-2023-34960)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CHAMILO-CVE-2023-34960">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CHAMILO-CVE-2023-34960">
 - [peiqiF4ck/WebFrameworkTools-5.1-main](https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/WebFrameworkTools-5.1-main">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.1-main">
