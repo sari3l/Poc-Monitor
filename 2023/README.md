@@ -496,6 +496,7 @@ An application is not vulnerable if any of the following is true:
 
 
 - [mouadk/CVE-2023-34035-Poc](https://github.com/mouadk/CVE-2023-34035-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/mouadk/CVE-2023-34035-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/mouadk/CVE-2023-34035-Poc">
+- [jzheaux/cve-2023-34035-mitigations](https://github.com/jzheaux/cve-2023-34035-mitigations)	<img alt="forks" src="https://img.shields.io/github/forks/jzheaux/cve-2023-34035-mitigations">	<img alt="stars" src="https://img.shields.io/github/stars/jzheaux/cve-2023-34035-mitigations">
 
 ---
 ## CVE-2023-33977 (2023-06-06T19:15:00)
