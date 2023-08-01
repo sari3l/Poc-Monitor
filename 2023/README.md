@@ -69,6 +69,11 @@
 - [ilqarli27/CVE-2023-38286](https://github.com/ilqarli27/CVE-2023-38286)	<img alt="forks" src="https://img.shields.io/github/forks/ilqarli27/CVE-2023-38286">	<img alt="stars" src="https://img.shields.io/github/stars/ilqarli27/CVE-2023-38286">
 
 ---
+## CVE-2023-37979 (2023-07-27T15:15:00)
+> Unauth. Reflected Cross-Site Scripting (XSS) vulnerability in Saturday Drive Ninja Forms Contact Form plugin <= 3.6.25 versions.
+- [Mehran-Seifalinia/CVE-2023-37979-](https://github.com/Mehran-Seifalinia/CVE-2023-37979-)	<img alt="forks" src="https://img.shields.io/github/forks/Mehran-Seifalinia/CVE-2023-37979-">	<img alt="stars" src="https://img.shields.io/github/stars/Mehran-Seifalinia/CVE-2023-37979-">
+
+---
 ## CVE-2023-37847 ()
 > 
 - [KingBangQ/CVE-2023-37847](https://github.com/KingBangQ/CVE-2023-37847)	<img alt="forks" src="https://img.shields.io/github/forks/KingBangQ/CVE-2023-37847">	<img alt="stars" src="https://img.shields.io/github/stars/KingBangQ/CVE-2023-37847">
