@@ -1905,6 +1905,11 @@
 - [Live-Hack-CVE/CVE-2020-27825](https://github.com/Live-Hack-CVE/CVE-2020-27825)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27825">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27825">
 
 ---
+## CVE-2020-27815 (2021-05-26T13:15:00)
+> A flaw was found in the JFS filesystem code in the Linux Kernel which allows a local attacker with the ability to set extended attributes to panic the system, causing memory corruption or escalating privileges. The highest threat from this vulnerability is to confidentiality, integrity, as well as system availability.
+- [Trinadh465/linux-4.19.72_CVE-2020-27815](https://github.com/Trinadh465/linux-4.19.72_CVE-2020-27815)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux-4.19.72_CVE-2020-27815">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux-4.19.72_CVE-2020-27815">
+
+---
 ## CVE-2020-27814 (2021-01-26T18:15:00)
 > A heap-buffer overflow was found in the way openjpeg2 handled certain PNG format files. An attacker could use this flaw to cause an application crash or in some cases execute arbitrary code with the permission of the user running such an application.
 - [Live-Hack-CVE/CVE-2020-27814](https://github.com/Live-Hack-CVE/CVE-2020-27814)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27814">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27814">

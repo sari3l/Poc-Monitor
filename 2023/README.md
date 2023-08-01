@@ -1892,7 +1892,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 ---
 ## CVE-2023-22884 (2023-01-21T14:15:00)
 > Improper Neutralization of Special Elements used in a Command ('Command Injection') vulnerability in Apache Software Foundation Apache Airflow, Apache Software Foundation Apache Airflow MySQL Provider.This issue affects Apache Airflow: before 2.5.1; Apache Airflow MySQL Provider: before 4.0.0.
-- [jakabakos/CVE-2023-22884](https://github.com/jakabakos/CVE-2023-22884)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2023-22884">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2023-22884">
+- [jakabakos/CVE-2023-22884-Airflow-SQLi](https://github.com/jakabakos/CVE-2023-22884-Airflow-SQLi)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2023-22884-Airflow-SQLi">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2023-22884-Airflow-SQLi">
 
 ---
 ## CVE-2023-22855 (2023-02-15T21:15:00)
