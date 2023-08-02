@@ -110,6 +110,11 @@ Any Unreal3.2.8.1.tar.gz downloaded BEFORE November 10 2009 should be safe, but 
 - [Live-Hack-CVE/CVE-2010-1281](https://github.com/Live-Hack-CVE/CVE-2010-1281)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-1281">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-1281">
 
 ---
+## CVE-2010-1240 (2010-04-05T15:30:00)
+> Adobe Reader and Acrobat 9.x before 9.3.3, and 8.x before 8.2.3 on Windows and Mac OS X, do not restrict the contents of one text field in the Launch File warning dialog, which makes it easier for remote attackers to trick users into executing an arbitrary local program that was specified in a PDF document, as demonstrated by a text field that claims that the Open button will enable the user to read an encrypted message.
+- [asepsaepdin/CVE-2010-1240](https://github.com/asepsaepdin/CVE-2010-1240)	<img alt="forks" src="https://img.shields.io/github/forks/asepsaepdin/CVE-2010-1240">	<img alt="stars" src="https://img.shields.io/github/stars/asepsaepdin/CVE-2010-1240">
+
+---
 ## CVE-2010-10005 (2023-01-16T11:15:00)
 > A vulnerability was found in msmania poodim. It has been declared as critical. This vulnerability affects unknown code of the component Command Line Argument Handler. The manipulation leads to stack-based buffer overflow. The attack can be initiated remotely. The name of the patch is 6340d5d2c81e55e61522c4b40a6cdd5c39738cc6. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-218392.
 - [Live-Hack-CVE/CVE-2010-10005](https://github.com/Live-Hack-CVE/CVE-2010-10005)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-10005">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-10005">

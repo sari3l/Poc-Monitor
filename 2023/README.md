@@ -47,6 +47,7 @@
 - [LazyySec/CVE-2023-38646](https://github.com/LazyySec/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/LazyySec/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/LazyySec/CVE-2023-38646">
 - [hheeyywweellccoommee/CVE-2023-38646-hmoje](https://github.com/hheeyywweellccoommee/CVE-2023-38646-hmoje)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-38646-hmoje">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-38646-hmoje">
 - [Zenmovie/CVE-2023-38646](https://github.com/Zenmovie/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/Zenmovie/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/Zenmovie/CVE-2023-38646">
+- [shamo0/CVE-2023-38646-PoC](https://github.com/shamo0/CVE-2023-38646-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/shamo0/CVE-2023-38646-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/shamo0/CVE-2023-38646-PoC">
 
 ---
 ## CVE-2023-38632 (2023-07-21T02:15:00)
@@ -1236,6 +1237,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [Malwareman007/CVE-2023-28252](https://github.com/Malwareman007/CVE-2023-28252)	<img alt="forks" src="https://img.shields.io/github/forks/Malwareman007/CVE-2023-28252">	<img alt="stars" src="https://img.shields.io/github/stars/Malwareman007/CVE-2023-28252">
 - [hheeyywweellccoommee/CVE-2023-28252-vseik](https://github.com/hheeyywweellccoommee/CVE-2023-28252-vseik)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-28252-vseik">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-28252-vseik">
 - [726232111/CVE-2023-28252](https://github.com/726232111/CVE-2023-28252)	<img alt="forks" src="https://img.shields.io/github/forks/726232111/CVE-2023-28252">	<img alt="stars" src="https://img.shields.io/github/stars/726232111/CVE-2023-28252">
+- [hheeyywweellccoommee/CVE-2023-28252-djtiu](https://github.com/hheeyywweellccoommee/CVE-2023-28252-djtiu)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-28252-djtiu">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-28252-djtiu">
 
 ---
 ## CVE-2023-2825 (2023-05-26T21:15:00)
