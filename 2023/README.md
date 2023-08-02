@@ -1804,6 +1804,10 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 ## CVE-2023-2333 (2023-07-04T08:15:00)
 > The Ninja Forms Google Sheet Connector WordPress plugin before 1.2.7, gsheetconnector-ninja-forms-pro WordPress plugin through 1.2.7 does not escape a parameter before outputting it back in an attribute, leading to a Reflected Cross-Site Scripting which could be used against high privilege users such as admin
 - [codeb0ss/CVE-2023-2333-EXP](https://github.com/codeb0ss/CVE-2023-2333-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-2333-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-2333-EXP">
+- [emanueldosreis/nmap-CVE-2023-23333-exploit](https://github.com/emanueldosreis/nmap-CVE-2023-23333-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/emanueldosreis/nmap-CVE-2023-23333-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/emanueldosreis/nmap-CVE-2023-23333-exploit">
+- [WhiteOwl-Pub/PoC-SolarView-Compact-CVE-2023-23333](https://github.com/WhiteOwl-Pub/PoC-SolarView-Compact-CVE-2023-23333)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteOwl-Pub/PoC-SolarView-Compact-CVE-2023-23333">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteOwl-Pub/PoC-SolarView-Compact-CVE-2023-23333">
+- [Mr-xn/CVE-2023-23333](https://github.com/Mr-xn/CVE-2023-23333)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2023-23333">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2023-23333">
+- [Timorlover/CVE-2023-23333](https://github.com/Timorlover/CVE-2023-23333)	<img alt="forks" src="https://img.shields.io/github/forks/Timorlover/CVE-2023-23333">	<img alt="stars" src="https://img.shields.io/github/stars/Timorlover/CVE-2023-23333">
 
 ---
 ## CVE-2023-23279 (2023-02-17T19:15:00)
