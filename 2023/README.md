@@ -243,6 +243,11 @@ This CVE will be updated with new information and links to security updates when
 - [TraiLeR2/CVE-2023-36163](https://github.com/TraiLeR2/CVE-2023-36163)	<img alt="forks" src="https://img.shields.io/github/forks/TraiLeR2/CVE-2023-36163">	<img alt="stars" src="https://img.shields.io/github/stars/TraiLeR2/CVE-2023-36163">
 
 ---
+## CVE-2023-36159 ()
+> 
+- [unknown00759/CVE-2023-36159](https://github.com/unknown00759/CVE-2023-36159)	<img alt="forks" src="https://img.shields.io/github/forks/unknown00759/CVE-2023-36159">	<img alt="stars" src="https://img.shields.io/github/stars/unknown00759/CVE-2023-36159">
+
+---
 ## CVE-2023-36158 ()
 > 
 - [unknown00759/CVE-2023-36158](https://github.com/unknown00759/CVE-2023-36158)	<img alt="forks" src="https://img.shields.io/github/forks/unknown00759/CVE-2023-36158">	<img alt="stars" src="https://img.shields.io/github/stars/unknown00759/CVE-2023-36158">
