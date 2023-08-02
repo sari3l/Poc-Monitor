@@ -4726,6 +4726,7 @@
 - [Yt1g3r/CVE-2020-0688_EXP](https://github.com/Yt1g3r/CVE-2020-0688_EXP)	<img alt="forks" src="https://img.shields.io/github/forks/Yt1g3r/CVE-2020-0688_EXP">	<img alt="stars" src="https://img.shields.io/github/stars/Yt1g3r/CVE-2020-0688_EXP">
 - [Jumbo-WJB/CVE-2020-0688](https://github.com/Jumbo-WJB/CVE-2020-0688)	<img alt="forks" src="https://img.shields.io/github/forks/Jumbo-WJB/CVE-2020-0688">	<img alt="stars" src="https://img.shields.io/github/stars/Jumbo-WJB/CVE-2020-0688">
 - [random-robbie/cve-2020-0688](https://github.com/random-robbie/cve-2020-0688)	<img alt="forks" src="https://img.shields.io/github/forks/random-robbie/cve-2020-0688">	<img alt="stars" src="https://img.shields.io/github/stars/random-robbie/cve-2020-0688">
+- [chudamax/CVE-2020-0688-Exchange2010](https://github.com/chudamax/CVE-2020-0688-Exchange2010)	<img alt="forks" src="https://img.shields.io/github/forks/chudamax/CVE-2020-0688-Exchange2010">	<img alt="stars" src="https://img.shields.io/github/stars/chudamax/CVE-2020-0688-Exchange2010">
 
 ---
 ## CVE-2020-0601 (2020-01-14T23:15:00)
