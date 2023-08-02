@@ -2516,6 +2516,7 @@
 - [kakamband/WPKiller](https://github.com/kakamband/WPKiller)	<img alt="forks" src="https://img.shields.io/github/forks/kakamband/WPKiller">	<img alt="stars" src="https://img.shields.io/github/stars/kakamband/WPKiller">
 - [mansoorr123/wp-file-manager-CVE-2020-25213](https://github.com/mansoorr123/wp-file-manager-CVE-2020-25213)	<img alt="forks" src="https://img.shields.io/github/forks/mansoorr123/wp-file-manager-CVE-2020-25213">	<img alt="stars" src="https://img.shields.io/github/stars/mansoorr123/wp-file-manager-CVE-2020-25213">
 - [BLY-Coder/Python-exploit-CVE-2020-25213](https://github.com/BLY-Coder/Python-exploit-CVE-2020-25213)	<img alt="forks" src="https://img.shields.io/github/forks/BLY-Coder/Python-exploit-CVE-2020-25213">	<img alt="stars" src="https://img.shields.io/github/stars/BLY-Coder/Python-exploit-CVE-2020-25213">
+- [E1tex/Python-CVE-2020-25213](https://github.com/E1tex/Python-CVE-2020-25213)	<img alt="forks" src="https://img.shields.io/github/forks/E1tex/Python-CVE-2020-25213">	<img alt="stars" src="https://img.shields.io/github/stars/E1tex/Python-CVE-2020-25213">
 
 ---
 ## CVE-2020-25206 (2021-07-20T19:15:00)
