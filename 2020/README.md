@@ -3391,6 +3391,11 @@
 - [Live-Hack-CVE/CVE-2020-16164](https://github.com/Live-Hack-CVE/CVE-2020-16164)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-16164">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-16164">
 
 ---
+## CVE-2020-16125 (2020-11-10T05:15:00)
+> gdm3 versions before 3.36.2 or 3.38.2 would start gnome-initial-setup if gdm3 can't contact the accountservice service via dbus in a timely manner; on Ubuntu (and potentially derivatives) this could be be chained with an additional issue that could allow a local user to create a new privileged account.
+- [za970120604/CVE-2020-16125-Reproduction](https://github.com/za970120604/CVE-2020-16125-Reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/za970120604/CVE-2020-16125-Reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/za970120604/CVE-2020-16125-Reproduction">
+
+---
 ## CVE-2020-16122 (2020-11-07T04:15:00)
 > PackageKit's apt backend mistakenly treated all local debs as trusted. The apt security model is based on repository trust and not on the contents of individual files. On sites with configured PolicyKit rules this may allow users to install malicious packages.
 - [Live-Hack-CVE/CVE-2020-16122](https://github.com/Live-Hack-CVE/CVE-2020-16122)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-16122">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-16122">
