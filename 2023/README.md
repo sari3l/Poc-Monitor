@@ -1014,6 +1014,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [c7w1n/CVE-2023-30185](https://github.com/c7w1n/CVE-2023-30185)	<img alt="forks" src="https://img.shields.io/github/forks/c7w1n/CVE-2023-30185">	<img alt="stars" src="https://img.shields.io/github/stars/c7w1n/CVE-2023-30185">
 
 ---
+## CVE-2023-30146 ()
+> 
+- [L1-0/CVE-2023-30146](https://github.com/L1-0/CVE-2023-30146)	<img alt="forks" src="https://img.shields.io/github/forks/L1-0/CVE-2023-30146">	<img alt="stars" src="https://img.shields.io/github/stars/L1-0/CVE-2023-30146">
+
+---
 ## CVE-2023-30145 (2023-05-26T15:15:00)
 > Camaleon CMS v2.7.0 was discovered to contain a Server-Side Template Injection (SSTI) vulnerability via the formats parameter.
 - [paragbagul111/CVE-2023-30145](https://github.com/paragbagul111/CVE-2023-30145)	<img alt="forks" src="https://img.shields.io/github/forks/paragbagul111/CVE-2023-30145">	<img alt="stars" src="https://img.shields.io/github/stars/paragbagul111/CVE-2023-30145">
