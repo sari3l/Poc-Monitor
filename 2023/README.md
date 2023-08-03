@@ -918,6 +918,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [bugprove/cve-2023-31070](https://github.com/bugprove/cve-2023-31070)	<img alt="forks" src="https://img.shields.io/github/forks/bugprove/cve-2023-31070">	<img alt="stars" src="https://img.shields.io/github/stars/bugprove/cve-2023-31070">
 
 ---
+## CVE-2023-3106 (2023-07-12T09:15:00)
+> A NULL pointer dereference vulnerability was found in netlink_dump. This issue can occur when the Netlink socket receives the message(sendmsg) for the XFRM_MSG_GETSA, XFRM_MSG_GETPOLICY type message, and the DUMP flag is set and can cause a denial of service or possibly another unspecified impact. Due to the nature of the flaw, privilege escalation cannot be fully ruled out, although it is unlikely.
+- [nidhi7598/linux-4.1.15_CVE-2023-3106](https://github.com/nidhi7598/linux-4.1.15_CVE-2023-3106)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.1.15_CVE-2023-3106">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.1.15_CVE-2023-3106">
+
+---
 ## CVE-2023-30854 (2023-04-28T16:15:00)
 > AVideo is an open source video platform. Prior to version 12.4, an OS Command Injection vulnerability in an authenticated endpoint `/plugin/CloneSite/cloneClient.json.php` allows attackers to achieve Remote Code Execution. This issue is fixed in version 12.4.
 - [jmrcsnchz/CVE-2023-30854](https://github.com/jmrcsnchz/CVE-2023-30854)	<img alt="forks" src="https://img.shields.io/github/forks/jmrcsnchz/CVE-2023-30854">	<img alt="stars" src="https://img.shields.io/github/stars/jmrcsnchz/CVE-2023-30854">
