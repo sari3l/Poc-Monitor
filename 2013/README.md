@@ -110,6 +110,11 @@
 - [Live-Hack-CVE/CVE-2013-2882](https://github.com/Live-Hack-CVE/CVE-2013-2882)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-2882">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-2882">
 
 ---
+## CVE-2013-2251 (2013-07-20T03:37:00)
+> Apache Struts 2.0.0 through 2.3.15 allows remote attackers to execute arbitrary OGNL expressions via a parameter with a crafted (1) action:, (2) redirect:, or (3) redirectAction: prefix.
+- [nth347/CVE-2013-2251](https://github.com/nth347/CVE-2013-2251)	<img alt="forks" src="https://img.shields.io/github/forks/nth347/CVE-2013-2251">	<img alt="stars" src="https://img.shields.io/github/stars/nth347/CVE-2013-2251">
+
+---
 ## CVE-2013-2249 (2013-07-23T17:20:00)
 > mod_session_dbd.c in the mod_session_dbd module in the Apache HTTP Server before 2.4.5 proceeds with save operations for a session without considering the dirty flag and the requirement for a new session ID, which has unspecified impact and remote attack vectors.
 - [Live-Hack-CVE/CVE-2013-2249](https://github.com/Live-Hack-CVE/CVE-2013-2249)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-2249">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-2249">
