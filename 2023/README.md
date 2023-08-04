@@ -1103,6 +1103,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [Abdullah7-ma/CVE-2023-29489](https://github.com/Abdullah7-ma/CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/Abdullah7-ma/CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/Abdullah7-ma/CVE-2023-29489">
 - [tucommenceapousser/CVE-2023-29489](https://github.com/tucommenceapousser/CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2023-29489">
 - [tucommenceapousser/CVE-2023-29489.py](https://github.com/tucommenceapousser/CVE-2023-29489.py)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2023-29489.py">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2023-29489.py">
+- [ViperM4sk/xss-cpanel-CVE-2023-29489-](https://github.com/ViperM4sk/xss-cpanel-CVE-2023-29489-)	<img alt="forks" src="https://img.shields.io/github/forks/ViperM4sk/xss-cpanel-CVE-2023-29489-">	<img alt="stars" src="https://img.shields.io/github/stars/ViperM4sk/xss-cpanel-CVE-2023-29489-">
 
 ---
 ## CVE-2023-29439 (2023-05-16T15:15:00)
