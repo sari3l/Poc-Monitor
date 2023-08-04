@@ -370,6 +370,7 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 - [LazyySec/CVE-2023-35078](https://github.com/LazyySec/CVE-2023-35078)	<img alt="forks" src="https://img.shields.io/github/forks/LazyySec/CVE-2023-35078">	<img alt="stars" src="https://img.shields.io/github/stars/LazyySec/CVE-2023-35078">
 - [synfinner/CVE-2023-35078](https://github.com/synfinner/CVE-2023-35078)	<img alt="forks" src="https://img.shields.io/github/forks/synfinner/CVE-2023-35078">	<img alt="stars" src="https://img.shields.io/github/stars/synfinner/CVE-2023-35078">
 - [emanueldosreis/nmap-CVE-2023-35078-Exploit](https://github.com/emanueldosreis/nmap-CVE-2023-35078-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/emanueldosreis/nmap-CVE-2023-35078-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/emanueldosreis/nmap-CVE-2023-35078-Exploit">
+- [getdrive/CVE-2023-35078](https://github.com/getdrive/CVE-2023-35078)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/CVE-2023-35078">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/CVE-2023-35078">
 
 ---
 ## CVE-2023-34965 (2023-06-13T19:15:00)
