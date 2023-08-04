@@ -255,13 +255,13 @@ This CVE will be updated with new information and links to security updates when
 - [TraiLeR2/CVE-2023-36163](https://github.com/TraiLeR2/CVE-2023-36163)	<img alt="forks" src="https://img.shields.io/github/forks/TraiLeR2/CVE-2023-36163">	<img alt="stars" src="https://img.shields.io/github/stars/TraiLeR2/CVE-2023-36163">
 
 ---
-## CVE-2023-36159 ()
-> 
+## CVE-2023-36159 (2023-08-04T00:15:00)
+> Cross Site Scripting (XSS) vulnerability in sourcecodester Lost and Found Information System 1.0 allows remote attackers to run arbitrary code via the First Name, Middle Name and Last Name fields on the Create User page.
 - [unknown00759/CVE-2023-36159](https://github.com/unknown00759/CVE-2023-36159)	<img alt="forks" src="https://img.shields.io/github/forks/unknown00759/CVE-2023-36159">	<img alt="stars" src="https://img.shields.io/github/stars/unknown00759/CVE-2023-36159">
 
 ---
-## CVE-2023-36158 ()
-> 
+## CVE-2023-36158 (2023-08-04T00:15:00)
+> Cross Site Scripting (XSS) vulnerability in sourcecodester Toll Tax Management System 1.0 allows remote attackers to run arbitrary code via the First Name and Last Name fields on the My Account page.
 - [unknown00759/CVE-2023-36158](https://github.com/unknown00759/CVE-2023-36158)	<img alt="forks" src="https://img.shields.io/github/forks/unknown00759/CVE-2023-36158">	<img alt="stars" src="https://img.shields.io/github/stars/unknown00759/CVE-2023-36158">
 
 ---
@@ -1015,8 +1015,8 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [c7w1n/CVE-2023-30185](https://github.com/c7w1n/CVE-2023-30185)	<img alt="forks" src="https://img.shields.io/github/forks/c7w1n/CVE-2023-30185">	<img alt="stars" src="https://img.shields.io/github/stars/c7w1n/CVE-2023-30185">
 
 ---
-## CVE-2023-30146 ()
-> 
+## CVE-2023-30146 (2023-08-04T01:15:00)
+> Assmann Digitus Plug&View IP Camera family allows unauthenticated attackers to download a copy of the camera's settings and the administrator credentials.
 - [L1-0/CVE-2023-30146](https://github.com/L1-0/CVE-2023-30146)	<img alt="forks" src="https://img.shields.io/github/forks/L1-0/CVE-2023-30146">	<img alt="stars" src="https://img.shields.io/github/stars/L1-0/CVE-2023-30146">
 
 ---
