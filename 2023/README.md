@@ -2366,8 +2366,8 @@ We recommend upgrading past commit 2c02d41d71f90a5168391b6a5f2954112ba2307c
 - [nidhi7598/OPENSSL_1.1.11g_G3_CVE-2023-0286](https://github.com/nidhi7598/OPENSSL_1.1.11g_G3_CVE-2023-0286)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/OPENSSL_1.1.11g_G3_CVE-2023-0286">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/OPENSSL_1.1.11g_G3_CVE-2023-0286">
 
 ---
-## CVE-2023-0264 ()
-> 
+## CVE-2023-0264 (2023-08-04T18:15:00)
+> A flaw was found in Keycloaks OpenID Connect user authentication, which may incorrectly authenticate requests. An authenticated attacker who could obtain information from a user request within the same realm could use that data to impersonate the victim and generate new session tokens. This issue could impact confidentiality, integrity, and availability.
 - [twwd/CVE-2023-0264](https://github.com/twwd/CVE-2023-0264)	<img alt="forks" src="https://img.shields.io/github/forks/twwd/CVE-2023-0264">	<img alt="stars" src="https://img.shields.io/github/stars/twwd/CVE-2023-0264">
 
 ---
