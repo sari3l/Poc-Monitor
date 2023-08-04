@@ -318,6 +318,7 @@ This CVE will be updated with new information and links to security updates when
 > An issue was discovered in the Linux kernel before 6.3.2. A use-after-free was found in renesas_usb3_remove in drivers/usb/gadget/udc/renesas_usb3.c.
 - [Trinadh465/linux-4.19.72_CVE-2023-35828](https://github.com/Trinadh465/linux-4.19.72_CVE-2023-35828)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux-4.19.72_CVE-2023-35828">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux-4.19.72_CVE-2023-35828">
 - [Trinadh465/linux-4.19.72_CVE-2023-35828](https://github.com/Trinadh465/linux-4.19.72_CVE-2023-35828)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux-4.19.72_CVE-2023-35828">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux-4.19.72_CVE-2023-35828">
+- [nidhi7598/linux-4.19.72_CVE-2023-35828](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-35828)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.19.72_CVE-2023-35828">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.19.72_CVE-2023-35828">
 
 ---
 ## CVE-2023-35803 ()
