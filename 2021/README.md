@@ -5352,10 +5352,11 @@
 - [aeyesec/CVE-2021-31805](https://github.com/aeyesec/CVE-2021-31805)	<img alt="forks" src="https://img.shields.io/github/forks/aeyesec/CVE-2021-31805">	<img alt="stars" src="https://img.shields.io/github/stars/aeyesec/CVE-2021-31805">
 - [Axx8/Struts2_S2-062_CVE-2021-31805](https://github.com/Axx8/Struts2_S2-062_CVE-2021-31805)	<img alt="forks" src="https://img.shields.io/github/forks/Axx8/Struts2_S2-062_CVE-2021-31805">	<img alt="stars" src="https://img.shields.io/github/stars/Axx8/Struts2_S2-062_CVE-2021-31805">
 - [3SsFuck/CVE-2021-31805-POC](https://github.com/3SsFuck/CVE-2021-31805-POC)	<img alt="forks" src="https://img.shields.io/github/forks/3SsFuck/CVE-2021-31805-POC">	<img alt="stars" src="https://img.shields.io/github/stars/3SsFuck/CVE-2021-31805-POC">
-- [YanMu2020/s2-062](https://github.com/YanMu2020/s2-062)	<img alt="forks" src="https://img.shields.io/github/forks/YanMu2020/s2-062">	<img alt="stars" src="https://img.shields.io/github/stars/YanMu2020/s2-062">
+- [pyroxenites/s2-062](https://github.com/pyroxenites/s2-062)	<img alt="forks" src="https://img.shields.io/github/forks/pyroxenites/s2-062">	<img alt="stars" src="https://img.shields.io/github/stars/pyroxenites/s2-062">
 - [jax7sec/S2-062](https://github.com/jax7sec/S2-062)	<img alt="forks" src="https://img.shields.io/github/forks/jax7sec/S2-062">	<img alt="stars" src="https://img.shields.io/github/stars/jax7sec/S2-062">
 - [Wrin9/CVE-2021-31805](https://github.com/Wrin9/CVE-2021-31805)	<img alt="forks" src="https://img.shields.io/github/forks/Wrin9/CVE-2021-31805">	<img alt="stars" src="https://img.shields.io/github/stars/Wrin9/CVE-2021-31805">
 - [nth347/CVE-2021-31805](https://github.com/nth347/CVE-2021-31805)	<img alt="forks" src="https://img.shields.io/github/forks/nth347/CVE-2021-31805">	<img alt="stars" src="https://img.shields.io/github/stars/nth347/CVE-2021-31805">
+- [fleabane1/CVE-2021-31805-POC](https://github.com/fleabane1/CVE-2021-31805-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fleabane1/CVE-2021-31805-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fleabane1/CVE-2021-31805-POC">
 
 ---
 ## CVE-2021-31800 (2021-05-05T11:15:00)
