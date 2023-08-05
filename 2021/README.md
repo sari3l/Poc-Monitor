@@ -7313,6 +7313,12 @@
 ## CVE-2021-22555 (2021-07-07T12:15:00)
 > A heap out-of-bounds write affecting Linux since v2.6.19-rc1 was discovered in net/netfilter/x_tables.c. This allows an attacker to gain privileges or cause a DoS (via heap memory corruption) through user name space
 - [tukru/CVE-2021-22555](https://github.com/tukru/CVE-2021-22555)	<img alt="forks" src="https://img.shields.io/github/forks/tukru/CVE-2021-22555">	<img alt="stars" src="https://img.shields.io/github/stars/tukru/CVE-2021-22555">
+- [masjohncook/netsec-project](https://github.com/masjohncook/netsec-project)	<img alt="forks" src="https://img.shields.io/github/forks/masjohncook/netsec-project">	<img alt="stars" src="https://img.shields.io/github/stars/masjohncook/netsec-project">
+- [xyjl-ly/CVE-2021-22555-Exploit](https://github.com/xyjl-ly/CVE-2021-22555-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/xyjl-ly/CVE-2021-22555-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/xyjl-ly/CVE-2021-22555-Exploit">
+- [veritas501/CVE-2021-22555-PipeVersion](https://github.com/veritas501/CVE-2021-22555-PipeVersion)	<img alt="forks" src="https://img.shields.io/github/forks/veritas501/CVE-2021-22555-PipeVersion">	<img alt="stars" src="https://img.shields.io/github/stars/veritas501/CVE-2021-22555-PipeVersion">
+- [daletoniris/CVE-2021-22555-esc-priv](https://github.com/daletoniris/CVE-2021-22555-esc-priv)	<img alt="forks" src="https://img.shields.io/github/forks/daletoniris/CVE-2021-22555-esc-priv">	<img alt="stars" src="https://img.shields.io/github/stars/daletoniris/CVE-2021-22555-esc-priv">
+- [cgwalters/container-cve-2021-22555](https://github.com/cgwalters/container-cve-2021-22555)	<img alt="forks" src="https://img.shields.io/github/forks/cgwalters/container-cve-2021-22555">	<img alt="stars" src="https://img.shields.io/github/stars/cgwalters/container-cve-2021-22555">
+- [JoneyJunior/cve-2021-22555](https://github.com/JoneyJunior/cve-2021-22555)	<img alt="forks" src="https://img.shields.io/github/forks/JoneyJunior/cve-2021-22555">	<img alt="stars" src="https://img.shields.io/github/stars/JoneyJunior/cve-2021-22555">
 
 ---
 ## CVE-2021-22262 (2021-10-05T14:15:00)
