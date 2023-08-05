@@ -241,6 +241,11 @@ This CVE will be updated with new information and links to security updates when
 - [pray77/CVE-2023-3640](https://github.com/pray77/CVE-2023-3640)	<img alt="forks" src="https://img.shields.io/github/forks/pray77/CVE-2023-3640">	<img alt="stars" src="https://img.shields.io/github/stars/pray77/CVE-2023-3640">
 
 ---
+## CVE-2023-36169 (2023-07-15T22:15:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was withdrawn by its CNA. Further investigation showed that it was not a security issue. Notes: none.
+- [TraiLeR2/CVE-2023-36169](https://github.com/TraiLeR2/CVE-2023-36169)	<img alt="forks" src="https://img.shields.io/github/forks/TraiLeR2/CVE-2023-36169">	<img alt="stars" src="https://img.shields.io/github/stars/TraiLeR2/CVE-2023-36169">
+
+---
 ## CVE-2023-36168 (2023-07-15T22:15:00)
 > ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was withdrawn by its CNA. Further investigation showed that it was not a security issue. Notes: none.
 - [TraiLeR2/CVE-2023-36168](https://github.com/TraiLeR2/CVE-2023-36168)	<img alt="forks" src="https://img.shields.io/github/forks/TraiLeR2/CVE-2023-36168">	<img alt="stars" src="https://img.shields.io/github/stars/TraiLeR2/CVE-2023-36168">
