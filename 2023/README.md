@@ -41,6 +41,11 @@
 - [TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821](https://github.com/TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821)	<img alt="forks" src="https://img.shields.io/github/forks/TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821">	<img alt="stars" src="https://img.shields.io/github/stars/TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821">
 
 ---
+## CVE-2023-38820 ()
+> 
+- [TraiLeR2/DLL-Planting-Slack-4.33.73-CVE-2023-38820](https://github.com/TraiLeR2/DLL-Planting-Slack-4.33.73-CVE-2023-38820)	<img alt="forks" src="https://img.shields.io/github/forks/TraiLeR2/DLL-Planting-Slack-4.33.73-CVE-2023-38820">	<img alt="stars" src="https://img.shields.io/github/stars/TraiLeR2/DLL-Planting-Slack-4.33.73-CVE-2023-38820">
+
+---
 ## CVE-2023-38646 (2023-07-21T15:15:00)
 > Metabase open source before 0.46.6.1 and Metabase Enterprise before 1.46.6.1 allow attackers to execute arbitrary commands on the server, at the server's privilege level. Authentication is not required for exploitation. The other fixed versions are 0.45.4.1, 1.45.4.1, 0.44.7.1, 1.44.7.1, 0.43.7.2, and 1.43.7.2.
 - [adriyansyah-mf/CVE-2023-38646--Metabase-](https://github.com/adriyansyah-mf/CVE-2023-38646--Metabase-)	<img alt="forks" src="https://img.shields.io/github/forks/adriyansyah-mf/CVE-2023-38646--Metabase-">	<img alt="stars" src="https://img.shields.io/github/stars/adriyansyah-mf/CVE-2023-38646--Metabase-">
