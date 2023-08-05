@@ -2414,6 +2414,11 @@
 - [Live-Hack-CVE/CVE-2019-11498](https://github.com/Live-Hack-CVE/CVE-2019-11498)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11498">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11498">
 
 ---
+## CVE-2019-11358 (2019-04-20T00:29:00)
+> jQuery before 3.4.0, as used in Drupal, Backdrop CMS, and other products, mishandles jQuery.extend(true, {}, ...) because of Object.prototype pollution. If an unsanitized source object contained an enumerable __proto__ property, it could extend the native Object.prototype.
+- [isacaya/CVE-2019-11358](https://github.com/isacaya/CVE-2019-11358)	<img alt="forks" src="https://img.shields.io/github/forks/isacaya/CVE-2019-11358">	<img alt="stars" src="https://img.shields.io/github/stars/isacaya/CVE-2019-11358">
+
+---
 ## CVE-2019-11113 (2019-11-14T20:15:00)
 > Buffer overflow in Kernel Mode module for Intel(R) Graphics Driver before version 25.20.100.6618 (DCH) or 21.20.x.5077 (aka15.45.5077) may allow a privileged user to potentially enable information disclosure via local access.
 - [Live-Hack-CVE/CVE-2019-11113](https://github.com/Live-Hack-CVE/CVE-2019-11113)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11113">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11113">
