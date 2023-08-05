@@ -100,6 +100,11 @@
 - [Live-Hack-CVE/CVE-2013-3900](https://github.com/Live-Hack-CVE/CVE-2013-3900)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-3900">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-3900">
 
 ---
+## CVE-2013-3827 (2013-10-16T15:55:00)
+> Unspecified vulnerability in the Oracle GlassFish Server component in Oracle Fusion Middleware 2.1.1, 3.0.1, and 3.1.2; the Oracle JDeveloper component in Oracle Fusion Middleware 11.1.2.3.0, 11.1.2.4.0, and 12.1.2.0.0; and the Oracle WebLogic Server component in Oracle Fusion Middleware 10.3.6.0 and 12.1.1 allows remote attackers to affect confidentiality via unknown vectors related to Java Server Faces or Web Container.
+- [thistehneisen/CVE-2013-3827](https://github.com/thistehneisen/CVE-2013-3827)	<img alt="forks" src="https://img.shields.io/github/forks/thistehneisen/CVE-2013-3827">	<img alt="stars" src="https://img.shields.io/github/stars/thistehneisen/CVE-2013-3827">
+
+---
 ## CVE-2013-3812 (2013-07-17T13:41:00)
 > Unspecified vulnerability in the MySQL Server component in Oracle MySQL 5.5.31 and earlier and 5.6.11 and earlier allows remote authenticated users to affect availability via unknown vectors related to Server Replication.
 - [Live-Hack-CVE/CVE-2013-3812](https://github.com/Live-Hack-CVE/CVE-2013-3812)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-3812">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-3812">
