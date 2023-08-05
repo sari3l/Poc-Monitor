@@ -2417,6 +2417,12 @@
 ## CVE-2019-11358 (2019-04-20T00:29:00)
 > jQuery before 3.4.0, as used in Drupal, Backdrop CMS, and other products, mishandles jQuery.extend(true, {}, ...) because of Object.prototype pollution. If an unsanitized source object contained an enumerable __proto__ property, it could extend the native Object.prototype.
 - [isacaya/CVE-2019-11358](https://github.com/isacaya/CVE-2019-11358)	<img alt="forks" src="https://img.shields.io/github/forks/isacaya/CVE-2019-11358">	<img alt="stars" src="https://img.shields.io/github/stars/isacaya/CVE-2019-11358">
+- [chrisneagu/FTC-Skystone-Dark-Angels-Romania-2020](https://github.com/chrisneagu/FTC-Skystone-Dark-Angels-Romania-2020)	<img alt="forks" src="https://img.shields.io/github/forks/chrisneagu/FTC-Skystone-Dark-Angels-Romania-2020">	<img alt="stars" src="https://img.shields.io/github/stars/chrisneagu/FTC-Skystone-Dark-Angels-Romania-2020">
+- [DanielRuf/snyk-js-jquery-174006](https://github.com/DanielRuf/snyk-js-jquery-174006)	<img alt="forks" src="https://img.shields.io/github/forks/DanielRuf/snyk-js-jquery-174006">	<img alt="stars" src="https://img.shields.io/github/stars/DanielRuf/snyk-js-jquery-174006">
+- [DanielRuf/snyk-js-jquery-565129](https://github.com/DanielRuf/snyk-js-jquery-565129)	<img alt="forks" src="https://img.shields.io/github/forks/DanielRuf/snyk-js-jquery-565129">	<img alt="stars" src="https://img.shields.io/github/stars/DanielRuf/snyk-js-jquery-565129">
+- [Snorlyd/https-nj.gov---CVE-2019-11358](https://github.com/Snorlyd/https-nj.gov---CVE-2019-11358)	<img alt="forks" src="https://img.shields.io/github/forks/Snorlyd/https-nj.gov---CVE-2019-11358">	<img alt="stars" src="https://img.shields.io/github/stars/Snorlyd/https-nj.gov---CVE-2019-11358">
+- [ossf-cve-benchmark/CVE-2019-11358](https://github.com/ossf-cve-benchmark/CVE-2019-11358)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2019-11358">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2019-11358">
+- [bitnesswise/jquery-prototype-pollution-fix](https://github.com/bitnesswise/jquery-prototype-pollution-fix)	<img alt="forks" src="https://img.shields.io/github/forks/bitnesswise/jquery-prototype-pollution-fix">	<img alt="stars" src="https://img.shields.io/github/stars/bitnesswise/jquery-prototype-pollution-fix">
 
 ---
 ## CVE-2019-11113 (2019-11-14T20:15:00)
