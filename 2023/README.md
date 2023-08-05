@@ -1409,6 +1409,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [Impalabs/CVE-2023-27326](https://github.com/Impalabs/CVE-2023-27326)	<img alt="forks" src="https://img.shields.io/github/forks/Impalabs/CVE-2023-27326">	<img alt="stars" src="https://img.shields.io/github/stars/Impalabs/CVE-2023-27326">
 - [domainhigh/CVE-2023-2732-Mass](https://github.com/domainhigh/CVE-2023-2732-Mass)	<img alt="forks" src="https://img.shields.io/github/forks/domainhigh/CVE-2023-2732-Mass">	<img alt="stars" src="https://img.shields.io/github/stars/domainhigh/CVE-2023-2732-Mass">
 - [Jenderal92/WP-CVE-2023-2732](https://github.com/Jenderal92/WP-CVE-2023-2732)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/WP-CVE-2023-2732">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/WP-CVE-2023-2732">
+- [Pari-Malam/CVE-2023-2732](https://github.com/Pari-Malam/CVE-2023-2732)	<img alt="forks" src="https://img.shields.io/github/forks/Pari-Malam/CVE-2023-2732">	<img alt="stars" src="https://img.shields.io/github/stars/Pari-Malam/CVE-2023-2732">
 
 ---
 ## CVE-2023-27216 (2023-04-12T17:15:00)
