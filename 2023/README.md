@@ -519,6 +519,12 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 - [toorandom/moveit-payload-decrypt-CVE-2023-34362](https://github.com/toorandom/moveit-payload-decrypt-CVE-2023-34362)	<img alt="forks" src="https://img.shields.io/github/forks/toorandom/moveit-payload-decrypt-CVE-2023-34362">	<img alt="stars" src="https://img.shields.io/github/stars/toorandom/moveit-payload-decrypt-CVE-2023-34362">
 
 ---
+## CVE-2023-34312 (2023-06-01T03:15:00)
+> In Tencent QQ through 9.7.8.29039 and TIM through 3.4.7.22084, QQProtect.exe and QQProtectEngine.dll do not validate pointers from inter-process communication, which leads to a write-what-where condition.
+- [lan1oc/CVE-2023-34312-exp](https://github.com/lan1oc/CVE-2023-34312-exp)	<img alt="forks" src="https://img.shields.io/github/forks/lan1oc/CVE-2023-34312-exp">	<img alt="stars" src="https://img.shields.io/github/stars/lan1oc/CVE-2023-34312-exp">
+- [vi3t1/qq-tim-elevation](https://github.com/vi3t1/qq-tim-elevation)	<img alt="forks" src="https://img.shields.io/github/forks/vi3t1/qq-tim-elevation">	<img alt="stars" src="https://img.shields.io/github/stars/vi3t1/qq-tim-elevation">
+
+---
 ## CVE-2023-34096 (2023-06-08T19:15:00)
 > Thruk is a multibackend monitoring webinterface which currently supports Naemon, Icinga, Shinken and Nagios as backends. In versions 3.06 and prior, the file `panorama.pm` is vulnerable to a Path Traversal vulnerability which allows an attacker to upload a file to any folder which has write permissions on the affected system. The parameter location is not filtered, validated or sanitized and it accepts any kind of characters. For a path traversal attack, the only characters required were the dot (`.`) and the slash (`/`). A fix is available in version 3.06.2.
 - [galoget/Thruk-CVE-2023-34096](https://github.com/galoget/Thruk-CVE-2023-34096)	<img alt="forks" src="https://img.shields.io/github/forks/galoget/Thruk-CVE-2023-34096">	<img alt="stars" src="https://img.shields.io/github/stars/galoget/Thruk-CVE-2023-34096">
