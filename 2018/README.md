@@ -307,6 +307,11 @@
 - [Live-Hack-CVE/CVE-2018-4832](https://github.com/Live-Hack-CVE/CVE-2018-4832)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-4832">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-4832">
 
 ---
+## CVE-2018-4416 (2019-04-03T18:29:00)
+> Multiple memory corruption issues were addressed with improved memory handling. This issue affected versions prior to iOS 12.1, tvOS 12.1, watchOS 5.1, Safari 12.0.1, iTunes 12.9.1, iCloud for Windows 7.8.
+- [erupmi/CVE-2018-4416](https://github.com/erupmi/CVE-2018-4416)	<img alt="forks" src="https://img.shields.io/github/forks/erupmi/CVE-2018-4416">	<img alt="stars" src="https://img.shields.io/github/stars/erupmi/CVE-2018-4416">
+
+---
 ## CVE-2018-3990 (2019-02-05T23:29:00)
 > An exploitable pool corruption vulnerability exists in the 0x8200E804 IOCTL handler functionality of WIBU-SYSTEMS WibuKey.sys Version 6.40 (Build 2400). A specially crafted IRP request can cause a buffer overflow, resulting in kernel memory corruption and, potentially, privilege escalation. An attacker can send an IRP request to trigger this vulnerability.
 - [Exploitables/CVE-2018-3990-TALOS-2018-0658](https://github.com/Exploitables/CVE-2018-3990-TALOS-2018-0658)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2018-3990-TALOS-2018-0658">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2018-3990-TALOS-2018-0658">
