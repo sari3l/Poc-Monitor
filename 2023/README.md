@@ -217,8 +217,8 @@ It is recommended for users to upgrade their NameServer version to 5.1.2 or abov
 - [ilqarli27/CVE-2023-37164](https://github.com/ilqarli27/CVE-2023-37164)	<img alt="forks" src="https://img.shields.io/github/forks/ilqarli27/CVE-2023-37164">	<img alt="stars" src="https://img.shields.io/github/stars/ilqarli27/CVE-2023-37164">
 
 ---
-## CVE-2023-37068 ()
-> 
+## CVE-2023-37068 (2023-08-09T20:15:00)
+> Code-Projects Gym Management System V1.0 allows remote attackers to execute arbitrary SQL commands via the login form, leading to unauthorized access and potential data manipulation. This vulnerability arises due to insufficient validation of user-supplied input in the username and password fields, enabling SQL Injection attacks.
 - [Mr-Secure-Code/CVE-2023-37068-Exploit](https://github.com/Mr-Secure-Code/CVE-2023-37068-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-Secure-Code/CVE-2023-37068-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-Secure-Code/CVE-2023-37068-Exploit">
 
 ---
