@@ -6900,6 +6900,11 @@
 - [Live-Hack-CVE/CVE-2021-24359](https://github.com/Live-Hack-CVE/CVE-2021-24359)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24359">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24359">
 
 ---
+## CVE-2021-24356 (2021-06-14T14:15:00)
+> In the Simple 301 Redirects by BetterLinks WordPress plugin before 2.0.4, a lack of capability checks and insufficient nonce check on the AJAX action, simple301redirects/admin/activate_plugin, made it possible for authenticated users to activate arbitrary plugins installed on vulnerable sites.
+- [RandomRobbieBF/CVE-2021-24356](https://github.com/RandomRobbieBF/CVE-2021-24356)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2021-24356">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2021-24356">
+
+---
 ## CVE-2021-24349 (2021-06-14T14:15:00)
 > This Gallery from files WordPress plugin through 1.6.0 gives the functionality of uploading images to the server. But filenames are not properly sanitized before being output in an error message when they have an invalid extension, leading to a reflected Cross-Site Scripting issue. Due to the lack of CSRF check, the attack could also be performed via such vector.
 - [Live-Hack-CVE/CVE-2021-24349](https://github.com/Live-Hack-CVE/CVE-2021-24349)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24349">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24349">
