@@ -6640,6 +6640,11 @@
 - [Live-Hack-CVE/CVE-2021-25049](https://github.com/Live-Hack-CVE/CVE-2021-25049)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25049">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25049">
 
 ---
+## CVE-2021-25032 (2022-01-10T16:15:00)
+> The PublishPress Capabilities WordPress plugin before 2.3.1, PublishPress Capabilities Pro WordPress plugin before 2.3.1 does not have authorisation and CSRF checks when updating the plugin's settings via the init hook, and does not ensure that the options to be updated belong to the plugin. As a result, unauthenticated attackers could update arbitrary blog options, such as the default role and make any new registered user with an administrator role.
+- [RandomRobbieBF/CVE-2021-25032](https://github.com/RandomRobbieBF/CVE-2021-25032)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2021-25032">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2021-25032">
+
+---
 ## CVE-2021-25003 (2022-03-14T15:15:00)
 > The WPCargo Track & Trace WordPress plugin before 6.9.0 contains a file which could allow unauthenticated attackers to write a PHP file anywhere on the web server, leading to RCE
 - [biulove0x/CVE-2021-25003](https://github.com/biulove0x/CVE-2021-25003)	<img alt="forks" src="https://img.shields.io/github/forks/biulove0x/CVE-2021-25003">	<img alt="stars" src="https://img.shields.io/github/stars/biulove0x/CVE-2021-25003">
