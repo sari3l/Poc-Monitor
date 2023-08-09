@@ -4584,6 +4584,11 @@
 - [Live-Hack-CVE/CVE-2021-34622](https://github.com/Live-Hack-CVE/CVE-2021-34622)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34622">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34622">
 
 ---
+## CVE-2021-34621 (2021-07-07T13:15:00)
+> A vulnerability in the user registration component found in the ~/src/Classes/RegistrationAuth.php file of the ProfilePress WordPress plugin made it possible for users to register on sites as an administrator. This issue affects versions 3.0.0 - 3.1.3. .
+- [RandomRobbieBF/CVE-2021-34621](https://github.com/RandomRobbieBF/CVE-2021-34621)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2021-34621">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2021-34621">
+
+---
 ## CVE-2021-34600 (2022-01-20T12:15:00)
 > Telenot CompasX versions prior to 32.0 use a weak seed for random number generation leading to predictable AES keys used in the NFC tags used for local authorization of users. This may lead to total loss of trustworthiness of the installation.
 - [Live-Hack-CVE/CVE-2021-34600](https://github.com/Live-Hack-CVE/CVE-2021-34600)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34600">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34600">
