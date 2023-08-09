@@ -69,6 +69,7 @@
 - [Zenmovie/CVE-2023-38646](https://github.com/Zenmovie/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/Zenmovie/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/Zenmovie/CVE-2023-38646">
 - [shamo0/CVE-2023-38646-PoC](https://github.com/shamo0/CVE-2023-38646-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/shamo0/CVE-2023-38646-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/shamo0/CVE-2023-38646-PoC">
 - [fidjiw/CVE-2023-38646-POC](https://github.com/fidjiw/CVE-2023-38646-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fidjiw/CVE-2023-38646-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fidjiw/CVE-2023-38646-POC">
+- [Any3ite/cve-2023-38646-metabase-ReverseShell](https://github.com/Any3ite/cve-2023-38646-metabase-ReverseShell)	<img alt="forks" src="https://img.shields.io/github/forks/Any3ite/cve-2023-38646-metabase-ReverseShell">	<img alt="stars" src="https://img.shields.io/github/stars/Any3ite/cve-2023-38646-metabase-ReverseShell">
 
 ---
 ## CVE-2023-38632 (2023-07-21T02:15:00)
@@ -207,6 +208,11 @@ It is recommended for users to upgrade their NameServer version to 5.1.2 or abov
 ## CVE-2023-37164 (2023-07-20T19:15:00)
 > Diafan CMS v6.0 was discovered to contain a reflected cross-site scripting via the cat_id parameter at /shop/?module=shop&action=search.
 - [ilqarli27/CVE-2023-37164](https://github.com/ilqarli27/CVE-2023-37164)	<img alt="forks" src="https://img.shields.io/github/forks/ilqarli27/CVE-2023-37164">	<img alt="stars" src="https://img.shields.io/github/stars/ilqarli27/CVE-2023-37164">
+
+---
+## CVE-2023-37068 ()
+> 
+- [Mr-Secure-Code/CVE-2023-37068-Exploit](https://github.com/Mr-Secure-Code/CVE-2023-37068-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-Secure-Code/CVE-2023-37068-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-Secure-Code/CVE-2023-37068-Exploit">
 
 ---
 ## CVE-2023-36884 (2023-07-11T19:15:00)
