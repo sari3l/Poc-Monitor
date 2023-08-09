@@ -78,6 +78,11 @@
 - [Halcy0nic/CVE-2023-38632](https://github.com/Halcy0nic/CVE-2023-38632)	<img alt="forks" src="https://img.shields.io/github/forks/Halcy0nic/CVE-2023-38632">	<img alt="stars" src="https://img.shields.io/github/stars/Halcy0nic/CVE-2023-38632">
 
 ---
+## CVE-2023-38498 (2023-07-28T16:15:00)
+> Discourse is an open source discussion platform. Prior to version 3.0.6 of the `stable` branch and version 3.1.0.beta7 of the `beta` and `tests-passed` branches, a malicious user can prevent the defer queue from proceeding promptly on sites hosted in the same multisite installation. The issue is patched in version 3.0.6 of the `stable` branch and version 3.1.0.beta7 of the `beta` and `tests-passed` branches. There are no known workarounds for this vulnerability. Users of multisite configurations should upgrade.
+- [kali-mx/CVE-2023-38498](https://github.com/kali-mx/CVE-2023-38498)	<img alt="forks" src="https://img.shields.io/github/forks/kali-mx/CVE-2023-38498">	<img alt="stars" src="https://img.shields.io/github/stars/kali-mx/CVE-2023-38498">
+
+---
 ## CVE-2023-38434 (2023-07-18T03:15:00)
 > xHTTP 72f812d has a double free in close_connection in xhttp.c via a malformed HTTP request method.
 - [Halcy0nic/CVE-2023-38434](https://github.com/Halcy0nic/CVE-2023-38434)	<img alt="forks" src="https://img.shields.io/github/forks/Halcy0nic/CVE-2023-38434">	<img alt="stars" src="https://img.shields.io/github/stars/Halcy0nic/CVE-2023-38434">
