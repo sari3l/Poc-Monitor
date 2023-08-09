@@ -64,6 +64,11 @@
 - [hahwul/struts2-rce-cve-2017-9805-ruby](https://github.com/hahwul/struts2-rce-cve-2017-9805-ruby)	<img alt="forks" src="https://img.shields.io/github/forks/hahwul/struts2-rce-cve-2017-9805-ruby">	<img alt="stars" src="https://img.shields.io/github/stars/hahwul/struts2-rce-cve-2017-9805-ruby">
 
 ---
+## CVE-2017-9443 (2017-06-05T19:29:00)
+> ** DISPUTED ** BigTree CMS through 4.2.18 allows remote authenticated users to conduct SQL injection attacks via a crafted tables object in manifest.json in an uploaded package. This issue exists in core\admin\modules\developer\extensions\install\process.php and core\admin\modules\developer\packages\install\process.php. NOTE: the vendor states "You must implicitly trust any package or extension you install as they all have the ability to write PHP files."
+- [superlink996/cve-2017-9443-payload](https://github.com/superlink996/cve-2017-9443-payload)	<img alt="forks" src="https://img.shields.io/github/forks/superlink996/cve-2017-9443-payload">	<img alt="stars" src="https://img.shields.io/github/stars/superlink996/cve-2017-9443-payload">
+
+---
 ## CVE-2017-9340 (2017-07-17T21:29:00)
 > An attacker is logged in as a normal user and can somehow make admin to delete shared folders in ownCloud Server before 10.0.2.
 - [Live-Hack-CVE/CVE-2017-9340](https://github.com/Live-Hack-CVE/CVE-2017-9340)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-9340">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-9340">
