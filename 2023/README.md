@@ -1596,6 +1596,11 @@ and the severity is therefore considered low.
 - [Imahian/CVE-2023-26258](https://github.com/Imahian/CVE-2023-26258)	<img alt="forks" src="https://img.shields.io/github/forks/Imahian/CVE-2023-26258">	<img alt="stars" src="https://img.shields.io/github/stars/Imahian/CVE-2023-26258">
 
 ---
+## CVE-2023-26067 (2023-04-10T20:15:00)
+> Certain Lexmark devices through 2023-02-19 mishandle Input Validation (issue 1 of 4).
+- [horizon3ai/CVE-2023-26067](https://github.com/horizon3ai/CVE-2023-26067)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2023-26067">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2023-26067">
+
+---
 ## CVE-2023-2594 (2023-05-09T13:15:00)
 > A vulnerability, which was classified as critical, was found in SourceCodester Food Ordering Management System 1.0. Affected is an unknown function of the component Registration. The manipulation of the argument username leads to sql injection. It is possible to launch the attack remotely. The identifier of this vulnerability is VDB-228396.
 - [thehackingverse/CVE-2023-2594](https://github.com/thehackingverse/CVE-2023-2594)	<img alt="forks" src="https://img.shields.io/github/forks/thehackingverse/CVE-2023-2594">	<img alt="stars" src="https://img.shields.io/github/stars/thehackingverse/CVE-2023-2594">
