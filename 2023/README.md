@@ -142,8 +142,8 @@
 - [anky-123/CVE-2023-37771](https://github.com/anky-123/CVE-2023-37771)	<img alt="forks" src="https://img.shields.io/github/forks/anky-123/CVE-2023-37771">	<img alt="stars" src="https://img.shields.io/github/stars/anky-123/CVE-2023-37771">
 
 ---
-## CVE-2023-37625 ()
-> 
+## CVE-2023-37625 (2023-08-10T20:15:00)
+> A stored cross-site scripting (XSS) vulnerability in Netbox v3.4.7 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Custom Link templates.
 - [benjaminpsinclair/Netbox-CVE-2023-37625](https://github.com/benjaminpsinclair/Netbox-CVE-2023-37625)	<img alt="forks" src="https://img.shields.io/github/forks/benjaminpsinclair/Netbox-CVE-2023-37625">	<img alt="stars" src="https://img.shields.io/github/stars/benjaminpsinclair/Netbox-CVE-2023-37625">
 
 ---
