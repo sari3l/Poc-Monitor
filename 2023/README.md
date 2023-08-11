@@ -785,6 +785,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [hardikmodha/POC-CVE-2023-32681](https://github.com/hardikmodha/POC-CVE-2023-32681)	<img alt="forks" src="https://img.shields.io/github/forks/hardikmodha/POC-CVE-2023-32681">	<img alt="stars" src="https://img.shields.io/github/stars/hardikmodha/POC-CVE-2023-32681">
 
 ---
+## CVE-2023-32629 (2023-07-26T02:15:00)
+> Local privilege escalation vulnerability in Ubuntu Kernels overlayfs ovl_copy_up_meta_inode_data skip permission checks when calling ovl_do_setxattr on Ubuntu kernels
+- [kaotickj/Check-for-CVE-2023-32629-GameOver-lay](https://github.com/kaotickj/Check-for-CVE-2023-32629-GameOver-lay)	<img alt="forks" src="https://img.shields.io/github/forks/kaotickj/Check-for-CVE-2023-32629-GameOver-lay">	<img alt="stars" src="https://img.shields.io/github/stars/kaotickj/Check-for-CVE-2023-32629-GameOver-lay">
+
+---
 ## CVE-2023-32434 (2023-06-23T18:15:00)
 > An integer overflow was addressed with improved input validation. This issue is fixed in watchOS 9.5.2, macOS Big Sur 11.7.8, iOS 15.7.7 and iPadOS 15.7.7, macOS Monterey 12.6.7, watchOS 8.8.1, iOS 16.5.1 and iPadOS 16.5.1, macOS Ventura 13.4.1. An app may be able to execute arbitrary code with kernel privileges. Apple is aware of a report that this issue may have been actively exploited against versions of iOS released before iOS 15.7.
 - [ZZY3312/CVE-2023-32434](https://github.com/ZZY3312/CVE-2023-32434)	<img alt="forks" src="https://img.shields.io/github/forks/ZZY3312/CVE-2023-32434">	<img alt="stars" src="https://img.shields.io/github/stars/ZZY3312/CVE-2023-32434">
