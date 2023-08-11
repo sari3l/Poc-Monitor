@@ -228,6 +228,11 @@ It is recommended for users to upgrade their NameServer version to 5.1.2 or abov
 - [Mr-Secure-Code/CVE-2023-37068-Exploit](https://github.com/Mr-Secure-Code/CVE-2023-37068-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-Secure-Code/CVE-2023-37068-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-Secure-Code/CVE-2023-37068-Exploit">
 
 ---
+## CVE-2023-36899 (2023-08-08T19:15:00)
+> ASP.NET Elevation of Privilege Vulnerability
+- [d0rb/CVE-2023-36899](https://github.com/d0rb/CVE-2023-36899)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2023-36899">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2023-36899">
+
+---
 ## CVE-2023-36884 (2023-07-11T19:15:00)
 > Microsoft is investigating reports of a series of remote code execution vulnerabilities impacting Windows and Office products. Microsoft is aware of targeted attacks that attempt to exploit these vulnerabilities by using specially-crafted Microsoft Office documents.
 
