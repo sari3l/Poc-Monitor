@@ -788,6 +788,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 ## CVE-2023-32629 (2023-07-26T02:15:00)
 > Local privilege escalation vulnerability in Ubuntu Kernels overlayfs ovl_copy_up_meta_inode_data skip permission checks when calling ovl_do_setxattr on Ubuntu kernels
 - [kaotickj/Check-for-CVE-2023-32629-GameOver-lay](https://github.com/kaotickj/Check-for-CVE-2023-32629-GameOver-lay)	<img alt="forks" src="https://img.shields.io/github/forks/kaotickj/Check-for-CVE-2023-32629-GameOver-lay">	<img alt="stars" src="https://img.shields.io/github/stars/kaotickj/Check-for-CVE-2023-32629-GameOver-lay">
+- [johnlettman/juju-patch-gameoverlay](https://github.com/johnlettman/juju-patch-gameoverlay)	<img alt="forks" src="https://img.shields.io/github/forks/johnlettman/juju-patch-gameoverlay">	<img alt="stars" src="https://img.shields.io/github/stars/johnlettman/juju-patch-gameoverlay">
 
 ---
 ## CVE-2023-32434 (2023-06-23T18:15:00)
