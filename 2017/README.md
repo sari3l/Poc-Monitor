@@ -399,6 +399,11 @@
 - [Live-Hack-CVE/CVE-2017-3243](https://github.com/Live-Hack-CVE/CVE-2017-3243)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-3243">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-3243">
 
 ---
+## CVE-2017-3164 (2019-03-08T21:29:00)
+> Server Side Request Forgery in Apache Solr, versions 1.3 until 7.6 (inclusive). Since the "shards" parameter does not have a corresponding whitelist mechanism, a remote attacker with access to the server could make Solr perform an HTTP GET request to any reachable URL.
+- [tdwyer/PoC_CVE-2017-3164_CVE-2017-1262](https://github.com/tdwyer/PoC_CVE-2017-3164_CVE-2017-1262)	<img alt="forks" src="https://img.shields.io/github/forks/tdwyer/PoC_CVE-2017-3164_CVE-2017-1262">	<img alt="stars" src="https://img.shields.io/github/stars/tdwyer/PoC_CVE-2017-3164_CVE-2017-1262">
+
+---
 ## CVE-2017-3106 (2017-08-11T19:29:00)
 > Adobe Flash Player versions 26.0.0.137 and earlier have an exploitable type confusion vulnerability when parsing SWF files. Successful exploitation could lead to arbitrary code execution.
 - [Live-Hack-CVE/CVE-2017-3106](https://github.com/Live-Hack-CVE/CVE-2017-3106)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-3106">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-3106">
