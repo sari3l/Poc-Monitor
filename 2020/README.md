@@ -4586,6 +4586,26 @@
 - [Live-Hack-CVE/CVE-2020-10148](https://github.com/Live-Hack-CVE/CVE-2020-10148)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10148">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10148">
 
 ---
+## CVE-2020-10132 ()
+> 
+- [InfoSec4Fun/CVE-2020-10132](https://github.com/InfoSec4Fun/CVE-2020-10132)	<img alt="forks" src="https://img.shields.io/github/forks/InfoSec4Fun/CVE-2020-10132">	<img alt="stars" src="https://img.shields.io/github/stars/InfoSec4Fun/CVE-2020-10132">
+
+---
+## CVE-2020-10131 ()
+> 
+- [InfoSec4Fun/CVE-2020-10131](https://github.com/InfoSec4Fun/CVE-2020-10131)	<img alt="forks" src="https://img.shields.io/github/forks/InfoSec4Fun/CVE-2020-10131">	<img alt="stars" src="https://img.shields.io/github/stars/InfoSec4Fun/CVE-2020-10131">
+
+---
+## CVE-2020-10130 ()
+> 
+- [InfoSec4Fun/CVE-2020-10130](https://github.com/InfoSec4Fun/CVE-2020-10130)	<img alt="forks" src="https://img.shields.io/github/forks/InfoSec4Fun/CVE-2020-10130">	<img alt="stars" src="https://img.shields.io/github/stars/InfoSec4Fun/CVE-2020-10130">
+
+---
+## CVE-2020-10129 ()
+> 
+- [InfoSec4Fun/CVE-2020-10129](https://github.com/InfoSec4Fun/CVE-2020-10129)	<img alt="forks" src="https://img.shields.io/github/forks/InfoSec4Fun/CVE-2020-10129">	<img alt="stars" src="https://img.shields.io/github/stars/InfoSec4Fun/CVE-2020-10129">
+
+---
 ## CVE-2020-10128 ()
 > 
 - [InfoSec4Fun/CVE-2020-10128](https://github.com/InfoSec4Fun/CVE-2020-10128)	<img alt="forks" src="https://img.shields.io/github/forks/InfoSec4Fun/CVE-2020-10128">	<img alt="stars" src="https://img.shields.io/github/stars/InfoSec4Fun/CVE-2020-10128">
