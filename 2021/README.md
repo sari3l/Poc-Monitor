@@ -4588,6 +4588,7 @@
 ## CVE-2021-34621 (2021-07-07T13:15:00)
 > A vulnerability in the user registration component found in the ~/src/Classes/RegistrationAuth.php file of the ProfilePress WordPress plugin made it possible for users to register on sites as an administrator. This issue affects versions 3.0.0 - 3.1.3. .
 - [RandomRobbieBF/CVE-2021-34621](https://github.com/RandomRobbieBF/CVE-2021-34621)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2021-34621">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2021-34621">
+- [K3ysTr0K3R/CVE-2021-34621-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2021-34621-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2021-34621-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2021-34621-EXPLOIT">
 
 ---
 ## CVE-2021-34600 (2022-01-20T12:15:00)
