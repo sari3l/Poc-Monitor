@@ -255,6 +255,11 @@ This CVE will be updated with new information and links to security updates when
 - [raresteak/CVE-2023-36884](https://github.com/raresteak/CVE-2023-36884)	<img alt="forks" src="https://img.shields.io/github/forks/raresteak/CVE-2023-36884">	<img alt="stars" src="https://img.shields.io/github/stars/raresteak/CVE-2023-36884">
 
 ---
+## CVE-2023-36664 (2023-06-25T22:15:00)
+> Artifex Ghostscript through 10.01.2 mishandles permission validation for pipe devices (with the %pipe% prefix or the | pipe character prefix).
+- [jakabakos/CVE-2023-36664-Ghostscript-command-injection](https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2023-36664-Ghostscript-command-injection">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2023-36664-Ghostscript-command-injection">
+
+---
 ## CVE-2023-36544 ()
 > 
 - [KOwloid/cve-2023-36544](https://github.com/KOwloid/cve-2023-36544)	<img alt="forks" src="https://img.shields.io/github/forks/KOwloid/cve-2023-36544">	<img alt="stars" src="https://img.shields.io/github/stars/KOwloid/cve-2023-36544">
