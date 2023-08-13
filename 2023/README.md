@@ -1503,6 +1503,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [HusenjanDev/CVE-2023-27163-AND-Mailtrail-v0.53](https://github.com/HusenjanDev/CVE-2023-27163-AND-Mailtrail-v0.53)	<img alt="forks" src="https://img.shields.io/github/forks/HusenjanDev/CVE-2023-27163-AND-Mailtrail-v0.53">	<img alt="stars" src="https://img.shields.io/github/stars/HusenjanDev/CVE-2023-27163-AND-Mailtrail-v0.53">
 - [rvizx/CVE-2023-27163](https://github.com/rvizx/CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2023-27163">
 - [thomas-osgood/CVE-2023-27163](https://github.com/thomas-osgood/CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/thomas-osgood/CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/thomas-osgood/CVE-2023-27163">
+- [0xFTW/CVE-2023-27163](https://github.com/0xFTW/CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/0xFTW/CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/0xFTW/CVE-2023-27163">
 
 ---
 ## CVE-2023-27100 (2023-03-22T23:15:00)
