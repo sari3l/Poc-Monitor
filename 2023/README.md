@@ -2204,6 +2204,13 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [zoemurmure/CVE-2023-21554-PoC](https://github.com/zoemurmure/CVE-2023-21554-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/zoemurmure/CVE-2023-21554-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/zoemurmure/CVE-2023-21554-PoC">
 
 ---
+## CVE-2023-21400 (2023-07-13T00:15:00)
+> In multiple functions  of io_uring.c, there is a possible kernel memory corruption due to improper locking. This could lead to local escalation of privilege in the kernel with System execution privileges needed. User interaction is not needed for exploitation.
+
+
+- [yanglingxi1993/CVE-2023-21400](https://github.com/yanglingxi1993/CVE-2023-21400)	<img alt="forks" src="https://img.shields.io/github/forks/yanglingxi1993/CVE-2023-21400">	<img alt="stars" src="https://img.shields.io/github/stars/yanglingxi1993/CVE-2023-21400">
+
+---
 ## CVE-2023-21389 ()
 > 
 - [sxsuperxuan/Weblogic_CVE-2023-21389](https://github.com/sxsuperxuan/Weblogic_CVE-2023-21389)	<img alt="forks" src="https://img.shields.io/github/forks/sxsuperxuan/Weblogic_CVE-2023-21389">	<img alt="stars" src="https://img.shields.io/github/stars/sxsuperxuan/Weblogic_CVE-2023-21389">
