@@ -1458,6 +1458,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 ## CVE-2023-27363 ()
 > 
 - [webraybtl/CVE-2023-27363](https://github.com/webraybtl/CVE-2023-27363)	<img alt="forks" src="https://img.shields.io/github/forks/webraybtl/CVE-2023-27363">	<img alt="stars" src="https://img.shields.io/github/stars/webraybtl/CVE-2023-27363">
+- [qwqdanchun/CVE-2023-27363](https://github.com/qwqdanchun/CVE-2023-27363)	<img alt="forks" src="https://img.shields.io/github/forks/qwqdanchun/CVE-2023-27363">	<img alt="stars" src="https://img.shields.io/github/stars/qwqdanchun/CVE-2023-27363">
 
 ---
 ## CVE-2023-27350 (2023-04-20T16:15:00)
