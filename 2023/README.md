@@ -31,6 +31,11 @@
 - [d0rb/CVE-2023-4174](https://github.com/d0rb/CVE-2023-4174)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2023-4174">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2023-4174">
 
 ---
+## CVE-2023-40297 ()
+> 
+- [sahar042/CVE-2023-40297](https://github.com/sahar042/CVE-2023-40297)	<img alt="forks" src="https://img.shields.io/github/forks/sahar042/CVE-2023-40297">	<img alt="stars" src="https://img.shields.io/github/stars/sahar042/CVE-2023-40297">
+
+---
 ## CVE-2023-40296 (2023-08-14T04:15:00)
 > async-sockets-cpp through 0.3.1 has a stack-based buffer overflow in ReceiveFrom and Receive in udpsocket.hpp when processing malformed UDP packets.
 - [Halcy0nic/CVE-2023-40296](https://github.com/Halcy0nic/CVE-2023-40296)	<img alt="forks" src="https://img.shields.io/github/forks/Halcy0nic/CVE-2023-40296">	<img alt="stars" src="https://img.shields.io/github/stars/Halcy0nic/CVE-2023-40296">
