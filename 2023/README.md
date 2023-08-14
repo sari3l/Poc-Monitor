@@ -127,8 +127,8 @@
 - [d0rb/CVE-2023-37979](https://github.com/d0rb/CVE-2023-37979)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2023-37979">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2023-37979">
 
 ---
-## CVE-2023-37847 ()
-> 
+## CVE-2023-37847 (2023-08-14T12:15:00)
+> novel-plus v3.6.2 was discovered to contain a SQL injection vulnerability.
 - [KingBangQ/CVE-2023-37847](https://github.com/KingBangQ/CVE-2023-37847)	<img alt="forks" src="https://img.shields.io/github/forks/KingBangQ/CVE-2023-37847">	<img alt="stars" src="https://img.shields.io/github/stars/KingBangQ/CVE-2023-37847">
 
 ---
