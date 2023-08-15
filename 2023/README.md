@@ -425,6 +425,7 @@ This CVE will be updated with new information and links to security updates when
 - [rwincey/cve-2023-3519](https://github.com/rwincey/cve-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/rwincey/cve-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/rwincey/cve-2023-3519">
 - [getdrive/PoC](https://github.com/getdrive/PoC)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/PoC">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/PoC">
 - [mandiant/citrix-ioc-scanner-cve-2023-3519](https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/mandiant/citrix-ioc-scanner-cve-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/mandiant/citrix-ioc-scanner-cve-2023-3519">
+- [fox-it/citrix-netscaler-triage](https://github.com/fox-it/citrix-netscaler-triage)	<img alt="forks" src="https://img.shields.io/github/forks/fox-it/citrix-netscaler-triage">	<img alt="stars" src="https://img.shields.io/github/stars/fox-it/citrix-netscaler-triage">
 
 ---
 ## CVE-2023-35086 (2023-07-21T07:15:00)
