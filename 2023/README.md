@@ -246,6 +246,7 @@ It is recommended for users to upgrade their NameServer version to 5.1.2 or abov
 ## CVE-2023-36899 (2023-08-08T19:15:00)
 > ASP.NET Elevation of Privilege Vulnerability
 - [d0rb/CVE-2023-36899](https://github.com/d0rb/CVE-2023-36899)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2023-36899">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2023-36899">
+- [midisec/CVE-2023-36899](https://github.com/midisec/CVE-2023-36899)	<img alt="forks" src="https://img.shields.io/github/forks/midisec/CVE-2023-36899">	<img alt="stars" src="https://img.shields.io/github/stars/midisec/CVE-2023-36899">
 
 ---
 ## CVE-2023-36884 (2023-07-11T19:15:00)
