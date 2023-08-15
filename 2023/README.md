@@ -785,6 +785,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [RedTeamPentesting/CVE-2023-33243](https://github.com/RedTeamPentesting/CVE-2023-33243)	<img alt="forks" src="https://img.shields.io/github/forks/RedTeamPentesting/CVE-2023-33243">	<img alt="stars" src="https://img.shields.io/github/stars/RedTeamPentesting/CVE-2023-33243">
 
 ---
+## CVE-2023-33242 (2023-08-09T22:15:00)
+> Crypto wallets implementing the Lindell17 TSS protocol might allow an attacker to extract the full ECDSA private key by exfiltrating a single bit in every signature attempt (256 in total) because of not adhering to the paper's security proof's assumption regarding handling aborts after a failed signature.
+- [d0rb/CVE-2023-33242](https://github.com/d0rb/CVE-2023-33242)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2023-33242">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2023-33242">
+
+---
 ## CVE-2023-32961 (2023-06-12T15:15:00)
 > Unauth. Reflected Cross-Site Scripting (XSS) vulnerability in Katie Seaborn Zotpress plugin <= 7.3.3 versions.
 - [LOURC0D3/CVE-2023-32961](https://github.com/LOURC0D3/CVE-2023-32961)	<img alt="forks" src="https://img.shields.io/github/forks/LOURC0D3/CVE-2023-32961">	<img alt="stars" src="https://img.shields.io/github/stars/LOURC0D3/CVE-2023-32961">
