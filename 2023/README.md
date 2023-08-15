@@ -1236,6 +1236,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [OLeDouxEt/CVE-2023-29324_Patch_Deploy](https://github.com/OLeDouxEt/CVE-2023-29324_Patch_Deploy)	<img alt="forks" src="https://img.shields.io/github/forks/OLeDouxEt/CVE-2023-29324_Patch_Deploy">	<img alt="stars" src="https://img.shields.io/github/stars/OLeDouxEt/CVE-2023-29324_Patch_Deploy">
 
 ---
+## CVE-2023-2916 (2023-08-15T09:15:00)
+> The InfiniteWP Client plugin for WordPress is vulnerable to Sensitive Information Exposure in versions up to, and including, 1.11.1 via the 'admin_notice' function. This can allow authenticated attackers with subscriber-level permissions or above to extract sensitive data including configuration. It can only be exploited if the plugin has not been configured yet. If combined with another arbitrary plugin installation and activation vulnerability, it may be possible to connect a site to InfiniteWP which would make remote management possible and allow for elevation of privileges.
+- [d0rb/CVE-2023-2916](https://github.com/d0rb/CVE-2023-2916)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2023-2916">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2023-2916">
+
+---
 ## CVE-2023-29084 (2023-04-13T19:15:00)
 > Zoho ManageEngine ADManager Plus through 7180 allows for authenticated users to exploit command injection via Proxy settings.
 - [ohnonoyesyes/CVE-2023-29084](https://github.com/ohnonoyesyes/CVE-2023-29084)	<img alt="forks" src="https://img.shields.io/github/forks/ohnonoyesyes/CVE-2023-29084">	<img alt="stars" src="https://img.shields.io/github/stars/ohnonoyesyes/CVE-2023-29084">
