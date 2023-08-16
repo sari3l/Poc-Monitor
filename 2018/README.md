@@ -268,6 +268,7 @@
 > An issue was discovered in the __ns_get_path function in fs/nsfs.c in the Linux kernel before 4.11. Due to a race condition when accessing files, a Use After Free condition can occur. This also affects all Android releases from CAF using the Linux kernel (Android for MSM, Firefox OS for MSM, QRD Android) before security patch level 2018-07-05.
 - [Trinadh465/linux-4.1.15_CVE-2018-5873](https://github.com/Trinadh465/linux-4.1.15_CVE-2018-5873)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux-4.1.15_CVE-2018-5873">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux-4.1.15_CVE-2018-5873">
 - [nidhi7598/linux-4.1.15_CVE-2018-5873](https://github.com/nidhi7598/linux-4.1.15_CVE-2018-5873)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.1.15_CVE-2018-5873">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.1.15_CVE-2018-5873">
+- [Trinadh465/linux-4.1.15_CVE-2018-5873](https://github.com/Trinadh465/linux-4.1.15_CVE-2018-5873)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux-4.1.15_CVE-2018-5873">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux-4.1.15_CVE-2018-5873">
 
 ---
 ## CVE-2018-5747 (2018-01-17T19:29:00)
