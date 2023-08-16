@@ -51,8 +51,8 @@
 - [cduram/CVE-2023-39144](https://github.com/cduram/CVE-2023-39144)	<img alt="forks" src="https://img.shields.io/github/forks/cduram/CVE-2023-39144">	<img alt="stars" src="https://img.shields.io/github/stars/cduram/CVE-2023-39144">
 
 ---
-## CVE-2023-39115 ()
-> 
+## CVE-2023-39115 (2023-08-16T15:15:00)
+> install/aiz-uploader/upload in Campcodes Online Matrimonial Website System Script 3.3 allows XSS via a crafted SVG document.
 - [Raj789-sec/CVE-2023-39115](https://github.com/Raj789-sec/CVE-2023-39115)	<img alt="forks" src="https://img.shields.io/github/forks/Raj789-sec/CVE-2023-39115">	<img alt="stars" src="https://img.shields.io/github/stars/Raj789-sec/CVE-2023-39115">
 
 ---
