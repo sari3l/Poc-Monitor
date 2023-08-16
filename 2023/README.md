@@ -56,6 +56,11 @@
 - [Raj789-sec/CVE-2023-39115](https://github.com/Raj789-sec/CVE-2023-39115)	<img alt="forks" src="https://img.shields.io/github/forks/Raj789-sec/CVE-2023-39115">	<img alt="stars" src="https://img.shields.io/github/stars/Raj789-sec/CVE-2023-39115">
 
 ---
+## CVE-2023-38836 ()
+> 
+- [1337kid/CVE-2023-38836](https://github.com/1337kid/CVE-2023-38836)	<img alt="forks" src="https://img.shields.io/github/forks/1337kid/CVE-2023-38836">	<img alt="stars" src="https://img.shields.io/github/stars/1337kid/CVE-2023-38836">
+
+---
 ## CVE-2023-38822 ()
 > 
 - [TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822](https://github.com/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822)	<img alt="forks" src="https://img.shields.io/github/forks/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822">	<img alt="stars" src="https://img.shields.io/github/stars/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822">
