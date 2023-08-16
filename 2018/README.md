@@ -264,6 +264,12 @@
 - [b0bac/GitStackRCE](https://github.com/b0bac/GitStackRCE)	<img alt="forks" src="https://img.shields.io/github/forks/b0bac/GitStackRCE">	<img alt="stars" src="https://img.shields.io/github/stars/b0bac/GitStackRCE">
 
 ---
+## CVE-2018-5873 (2018-07-06T19:29:00)
+> An issue was discovered in the __ns_get_path function in fs/nsfs.c in the Linux kernel before 4.11. Due to a race condition when accessing files, a Use After Free condition can occur. This also affects all Android releases from CAF using the Linux kernel (Android for MSM, Firefox OS for MSM, QRD Android) before security patch level 2018-07-05.
+- [Trinadh465/linux-4.1.15_CVE-2018-5873](https://github.com/Trinadh465/linux-4.1.15_CVE-2018-5873)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux-4.1.15_CVE-2018-5873">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux-4.1.15_CVE-2018-5873">
+- [nidhi7598/linux-4.1.15_CVE-2018-5873](https://github.com/nidhi7598/linux-4.1.15_CVE-2018-5873)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.1.15_CVE-2018-5873">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.1.15_CVE-2018-5873">
+
+---
 ## CVE-2018-5747 (2018-01-17T19:29:00)
 > In Long Range Zip (aka lrzip) 0.631, there is a use-after-free in the ucompthread function (stream.c). Remote attackers could leverage this vulnerability to cause a denial of service via a crafted lrz file.
 - [Live-Hack-CVE/CVE-2018-5747](https://github.com/Live-Hack-CVE/CVE-2018-5747)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-5747">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-5747">
