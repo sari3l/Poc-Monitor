@@ -52,6 +52,11 @@
 - [cduram/CVE-2023-39144](https://github.com/cduram/CVE-2023-39144)	<img alt="forks" src="https://img.shields.io/github/forks/cduram/CVE-2023-39144">	<img alt="stars" src="https://img.shields.io/github/stars/cduram/CVE-2023-39144">
 
 ---
+## CVE-2023-39143 (2023-08-04T17:15:00)
+> PaperCut NG and PaperCut MF before 22.1.3 on Windows allow path traversal, enabling attackers to upload, read, or delete arbitrary files. This leads to remote code execution when external device integration is enabled (a very common configuration).
+- [codeb0ss/CVE-2023-39143](https://github.com/codeb0ss/CVE-2023-39143)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-39143">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-39143">
+
+---
 ## CVE-2023-39115 (2023-08-16T15:15:00)
 > install/aiz-uploader/upload in Campcodes Online Matrimonial Website System Script 3.3 allows XSS via a crafted SVG document.
 - [Raj789-sec/CVE-2023-39115](https://github.com/Raj789-sec/CVE-2023-39115)	<img alt="forks" src="https://img.shields.io/github/forks/Raj789-sec/CVE-2023-39115">	<img alt="stars" src="https://img.shields.io/github/stars/Raj789-sec/CVE-2023-39115">
