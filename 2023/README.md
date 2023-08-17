@@ -29,6 +29,7 @@
 ## CVE-2023-4174 (2023-08-06T01:15:00)
 > A vulnerability has been found in mooSocial mooStore 3.1.6 and classified as problematic. Affected by this vulnerability is an unknown functionality. The manipulation leads to cross site scripting. The attack can be launched remotely. The identifier VDB-236209 was assigned to this vulnerability.
 - [d0rb/CVE-2023-4174](https://github.com/d0rb/CVE-2023-4174)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2023-4174">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2023-4174">
+- [codeb0ss/CVE-2023-4174](https://github.com/codeb0ss/CVE-2023-4174)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-4174">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-4174">
 
 ---
 ## CVE-2023-40297 ()
@@ -2323,6 +2324,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [gretchenfrage/CVE-2023-2033-analysis](https://github.com/gretchenfrage/CVE-2023-2033-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/gretchenfrage/CVE-2023-2033-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/gretchenfrage/CVE-2023-2033-analysis">
 - [WalccDev/CVE-2023-2033](https://github.com/WalccDev/CVE-2023-2033)	<img alt="forks" src="https://img.shields.io/github/forks/WalccDev/CVE-2023-2033">	<img alt="stars" src="https://img.shields.io/github/stars/WalccDev/CVE-2023-2033">
 - [mistymntncop/CVE-2023-2033](https://github.com/mistymntncop/CVE-2023-2033)	<img alt="forks" src="https://img.shields.io/github/forks/mistymntncop/CVE-2023-2033">	<img alt="stars" src="https://img.shields.io/github/stars/mistymntncop/CVE-2023-2033">
+- [tianstcht/CVE-2023-2033](https://github.com/tianstcht/CVE-2023-2033)	<img alt="forks" src="https://img.shields.io/github/forks/tianstcht/CVE-2023-2033">	<img alt="stars" src="https://img.shields.io/github/stars/tianstcht/CVE-2023-2033">
 
 ---
 ## CVE-2023-20178 (2023-06-28T15:15:00)
