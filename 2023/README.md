@@ -543,6 +543,11 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 - [leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below](https://github.com/leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below)	<img alt="forks" src="https://img.shields.io/github/forks/leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below">	<img alt="stars" src="https://img.shields.io/github/stars/leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below">
 
 ---
+## CVE-2023-34634 (2023-08-01T14:15:00)
+> Greenshot 1.2.10 and below allows arbitrary code execution because .NET content is insecurely deserialized when a .greenshot file is opened.
+- [radman404/CVE-2023-34634](https://github.com/radman404/CVE-2023-34634)	<img alt="forks" src="https://img.shields.io/github/forks/radman404/CVE-2023-34634">	<img alt="stars" src="https://img.shields.io/github/stars/radman404/CVE-2023-34634">
+
+---
 ## CVE-2023-3460 (2023-07-04T08:15:00)
 > The Ultimate Member WordPress plugin before 2.6.7 does not prevent visitors from creating user accounts with arbitrary capabilities, effectively allowing attackers to create administrator accounts at will. This is actively being exploited in the wild.
 - [gbrsh/CVE-2023-3460](https://github.com/gbrsh/CVE-2023-3460)	<img alt="forks" src="https://img.shields.io/github/forks/gbrsh/CVE-2023-3460">	<img alt="stars" src="https://img.shields.io/github/stars/gbrsh/CVE-2023-3460">
