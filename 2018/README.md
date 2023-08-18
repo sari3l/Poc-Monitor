@@ -22,6 +22,7 @@
 - [shacojx/cve-2018-9995](https://github.com/shacojx/cve-2018-9995)	<img alt="forks" src="https://img.shields.io/github/forks/shacojx/cve-2018-9995">	<img alt="stars" src="https://img.shields.io/github/stars/shacojx/cve-2018-9995">
 - [gwolfs/CVE-2018-9995-ModifiedByGwolfs](https://github.com/gwolfs/CVE-2018-9995-ModifiedByGwolfs)	<img alt="forks" src="https://img.shields.io/github/forks/gwolfs/CVE-2018-9995-ModifiedByGwolfs">	<img alt="stars" src="https://img.shields.io/github/stars/gwolfs/CVE-2018-9995-ModifiedByGwolfs">
 - [Huangkey/CVE-2018-9995_check](https://github.com/Huangkey/CVE-2018-9995_check)	<img alt="forks" src="https://img.shields.io/github/forks/Huangkey/CVE-2018-9995_check">	<img alt="stars" src="https://img.shields.io/github/stars/Huangkey/CVE-2018-9995_check">
+- [K3ysTr0K3R/CVE-2018-9995-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2018-9995-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2018-9995-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2018-9995-EXPLOIT">
 
 ---
 ## CVE-2018-9276 (2018-07-02T16:29:00)
