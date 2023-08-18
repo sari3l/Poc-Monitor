@@ -2357,6 +2357,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [bluefrostsecurity/CVE-2023-2008](https://github.com/bluefrostsecurity/CVE-2023-2008)	<img alt="forks" src="https://img.shields.io/github/forks/bluefrostsecurity/CVE-2023-2008">	<img alt="stars" src="https://img.shields.io/github/stars/bluefrostsecurity/CVE-2023-2008">
 
 ---
+## CVE-2023-20073 (2023-04-05T16:15:00)
+> A vulnerability in the web-based management interface of Cisco RV340, RV340W, RV345, and RV345P Dual WAN Gigabit VPN Routers could allow an unauthenticated, remote attacker to upload arbitrary files to an affected device. This vulnerability is due to insufficient authorization enforcement mechanisms in the context of file uploads. An attacker could exploit this vulnerability by sending a crafted HTTP request to an affected device. A successful exploit could allow the attacker to upload arbitrary files to the affected device.
+- [RegularITCat/CVE-2023-20073](https://github.com/RegularITCat/CVE-2023-20073)	<img alt="forks" src="https://img.shields.io/github/forks/RegularITCat/CVE-2023-20073">	<img alt="stars" src="https://img.shields.io/github/stars/RegularITCat/CVE-2023-20073">
+
+---
 ## CVE-2023-2002 (2023-05-26T17:15:00)
 > A vulnerability was found in the HCI sockets implementation due to a missing capability check in net/bluetooth/hci_sock.c in the Linux Kernel. This flaw allows an attacker to unauthorized execution of management commands, compromising the confidentiality, integrity, and availability of Bluetooth communication.
 - [lrh2000/CVE-2023-2002](https://github.com/lrh2000/CVE-2023-2002)	<img alt="forks" src="https://img.shields.io/github/forks/lrh2000/CVE-2023-2002">	<img alt="stars" src="https://img.shields.io/github/stars/lrh2000/CVE-2023-2002">
