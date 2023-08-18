@@ -486,6 +486,11 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 - [ChrisL0tus/CVE-2023-34924](https://github.com/ChrisL0tus/CVE-2023-34924)	<img alt="forks" src="https://img.shields.io/github/forks/ChrisL0tus/CVE-2023-34924">	<img alt="stars" src="https://img.shields.io/github/stars/ChrisL0tus/CVE-2023-34924">
 
 ---
+## CVE-2023-34853 ()
+> 
+- [risuxx/CVE-2023-34853](https://github.com/risuxx/CVE-2023-34853)	<img alt="forks" src="https://img.shields.io/github/forks/risuxx/CVE-2023-34853">	<img alt="stars" src="https://img.shields.io/github/stars/risuxx/CVE-2023-34853">
+
+---
 ## CVE-2023-34852 (2023-06-15T20:15:00)
 > PublicCMS <=V4.0.202302 is vulnerable to Insecure Permissions.
 - [funny-kill/CVE-2023-34852](https://github.com/funny-kill/CVE-2023-34852)	<img alt="forks" src="https://img.shields.io/github/forks/funny-kill/CVE-2023-34852">	<img alt="stars" src="https://img.shields.io/github/stars/funny-kill/CVE-2023-34852">
