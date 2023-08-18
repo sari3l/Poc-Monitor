@@ -463,6 +463,11 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 - [getdrive/PoC](https://github.com/getdrive/PoC)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/PoC">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/PoC">
 
 ---
+## CVE-2023-3499 ()
+> 
+- [Priece001/cve-2023-3499](https://github.com/Priece001/cve-2023-3499)	<img alt="forks" src="https://img.shields.io/github/forks/Priece001/cve-2023-3499">	<img alt="stars" src="https://img.shields.io/github/stars/Priece001/cve-2023-3499">
+
+---
 ## CVE-2023-34965 (2023-06-13T19:15:00)
 > SSPanel-Uim 2023.3 does not restrict access to the /link/ interface which can lead to a leak of user information.
 - [AgentY0/CVE-2023-34965](https://github.com/AgentY0/CVE-2023-34965)	<img alt="forks" src="https://img.shields.io/github/forks/AgentY0/CVE-2023-34965">	<img alt="stars" src="https://img.shields.io/github/stars/AgentY0/CVE-2023-34965">
