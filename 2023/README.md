@@ -72,6 +72,11 @@
 - [Arajawat007/CVE-2023-39709](https://github.com/Arajawat007/CVE-2023-39709)	<img alt="forks" src="https://img.shields.io/github/forks/Arajawat007/CVE-2023-39709">	<img alt="stars" src="https://img.shields.io/github/stars/Arajawat007/CVE-2023-39709">
 
 ---
+## CVE-2023-39708 ()
+> 
+- [Arajawat007/CVE-2023-39708](https://github.com/Arajawat007/CVE-2023-39708)	<img alt="forks" src="https://img.shields.io/github/forks/Arajawat007/CVE-2023-39708">	<img alt="stars" src="https://img.shields.io/github/stars/Arajawat007/CVE-2023-39708">
+
+---
 ## CVE-2023-39707 ()
 > 
 - [Arajawat007/CVE-2023-39707](https://github.com/Arajawat007/CVE-2023-39707)	<img alt="forks" src="https://img.shields.io/github/forks/Arajawat007/CVE-2023-39707">	<img alt="stars" src="https://img.shields.io/github/stars/Arajawat007/CVE-2023-39707">
