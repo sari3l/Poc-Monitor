@@ -47,6 +47,16 @@
 - [Halcy0nic/CVE-2023-40294-and-CVE-2023-40295](https://github.com/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295)	<img alt="forks" src="https://img.shields.io/github/forks/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295">	<img alt="stars" src="https://img.shields.io/github/stars/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295">
 
 ---
+## CVE-2023-39714 ()
+> 
+- [Arajawat007/CVE-2023-39714](https://github.com/Arajawat007/CVE-2023-39714)	<img alt="forks" src="https://img.shields.io/github/forks/Arajawat007/CVE-2023-39714">	<img alt="stars" src="https://img.shields.io/github/stars/Arajawat007/CVE-2023-39714">
+
+---
+## CVE-2023-39712 ()
+> 
+- [Arajawat007/CVE-2023-39712](https://github.com/Arajawat007/CVE-2023-39712)	<img alt="forks" src="https://img.shields.io/github/forks/Arajawat007/CVE-2023-39712">	<img alt="stars" src="https://img.shields.io/github/stars/Arajawat007/CVE-2023-39712">
+
+---
 ## CVE-2023-39711 ()
 > 
 - [Arajawat007/CVE-2023-39711](https://github.com/Arajawat007/CVE-2023-39711)	<img alt="forks" src="https://img.shields.io/github/forks/Arajawat007/CVE-2023-39711">	<img alt="stars" src="https://img.shields.io/github/stars/Arajawat007/CVE-2023-39711">
@@ -55,6 +65,11 @@
 ## CVE-2023-39710 ()
 > 
 - [Arajawat007/CVE-2023-39710](https://github.com/Arajawat007/CVE-2023-39710)	<img alt="forks" src="https://img.shields.io/github/forks/Arajawat007/CVE-2023-39710">	<img alt="stars" src="https://img.shields.io/github/stars/Arajawat007/CVE-2023-39710">
+
+---
+## CVE-2023-39709 ()
+> 
+- [Arajawat007/CVE-2023-39709](https://github.com/Arajawat007/CVE-2023-39709)	<img alt="forks" src="https://img.shields.io/github/forks/Arajawat007/CVE-2023-39709">	<img alt="stars" src="https://img.shields.io/github/stars/Arajawat007/CVE-2023-39709">
 
 ---
 ## CVE-2023-39707 ()
