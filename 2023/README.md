@@ -47,6 +47,11 @@
 - [Halcy0nic/CVE-2023-40294-and-CVE-2023-40295](https://github.com/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295)	<img alt="forks" src="https://img.shields.io/github/forks/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295">	<img alt="stars" src="https://img.shields.io/github/stars/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295">
 
 ---
+## CVE-2023-39707 ()
+> 
+- [Arajawat007/CVE-2023-39707](https://github.com/Arajawat007/CVE-2023-39707)	<img alt="forks" src="https://img.shields.io/github/forks/Arajawat007/CVE-2023-39707">	<img alt="stars" src="https://img.shields.io/github/stars/Arajawat007/CVE-2023-39707">
+
+---
 ## CVE-2023-39144 (2023-08-03T03:15:00)
 > Element55 KnowMore appliances version 21 and older was discovered to store passwords in plaintext.
 - [cduram/CVE-2023-39144](https://github.com/cduram/CVE-2023-39144)	<img alt="forks" src="https://img.shields.io/github/forks/cduram/CVE-2023-39144">	<img alt="stars" src="https://img.shields.io/github/stars/cduram/CVE-2023-39144">
