@@ -9,6 +9,7 @@
 - [mpgn/CVE-2019-9978](https://github.com/mpgn/CVE-2019-9978)	<img alt="forks" src="https://img.shields.io/github/forks/mpgn/CVE-2019-9978">	<img alt="stars" src="https://img.shields.io/github/stars/mpgn/CVE-2019-9978">
 - [KTN1990/CVE-2019-9978](https://github.com/KTN1990/CVE-2019-9978)	<img alt="forks" src="https://img.shields.io/github/forks/KTN1990/CVE-2019-9978">	<img alt="stars" src="https://img.shields.io/github/stars/KTN1990/CVE-2019-9978">
 - [grimlockx/CVE-2019-9978](https://github.com/grimlockx/CVE-2019-9978)	<img alt="forks" src="https://img.shields.io/github/forks/grimlockx/CVE-2019-9978">	<img alt="stars" src="https://img.shields.io/github/stars/grimlockx/CVE-2019-9978">
+- [h8handles/CVE-2019-9978-Python3](https://github.com/h8handles/CVE-2019-9978-Python3)	<img alt="forks" src="https://img.shields.io/github/forks/h8handles/CVE-2019-9978-Python3">	<img alt="stars" src="https://img.shields.io/github/stars/h8handles/CVE-2019-9978-Python3">
 
 ---
 ## CVE-2019-9947 (2019-03-23T18:29:00)
