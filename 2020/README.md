@@ -2652,6 +2652,16 @@
 - [Live-Hack-CVE/CVE-2020-24223](https://github.com/Live-Hack-CVE/CVE-2020-24223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24223">
 
 ---
+## CVE-2020-24089 ()
+> 
+- [rjt-gupta/CVE-2020-24089](https://github.com/rjt-gupta/CVE-2020-24089)	<img alt="forks" src="https://img.shields.io/github/forks/rjt-gupta/CVE-2020-24089">	<img alt="stars" src="https://img.shields.io/github/stars/rjt-gupta/CVE-2020-24089">
+
+---
+## CVE-2020-24088 ()
+> 
+- [rjt-gupta/CVE-2020-24088](https://github.com/rjt-gupta/CVE-2020-24088)	<img alt="forks" src="https://img.shields.io/github/forks/rjt-gupta/CVE-2020-24088">	<img alt="stars" src="https://img.shields.io/github/stars/rjt-gupta/CVE-2020-24088">
+
+---
 ## CVE-2020-24032 (2020-08-18T21:15:00)
 > tz.pl on XoruX LPAR2RRD and STOR2RRD 2.70 virtual appliances allows cmd=set&tz=OS command injection via shell metacharacters in a timezone.
 - [Live-Hack-CVE/CVE-2020-24032](https://github.com/Live-Hack-CVE/CVE-2020-24032)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24032">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24032">
