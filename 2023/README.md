@@ -271,8 +271,8 @@ It is recommended for users to upgrade their NameServer version to 5.1.2 or abov
 - [ilqarli27/CVE-2023-37474](https://github.com/ilqarli27/CVE-2023-37474)	<img alt="forks" src="https://img.shields.io/github/forks/ilqarli27/CVE-2023-37474">	<img alt="stars" src="https://img.shields.io/github/stars/ilqarli27/CVE-2023-37474">
 
 ---
-## CVE-2023-37250 ()
-> 
+## CVE-2023-37250 (2023-08-20T08:15:00)
+> Unity Parsec before 8 has a TOCTOU race condition that permits local attackers to escalate privileges to SYSTEM if Parsec was installed in "Per User" mode. The application intentionally launches DLLs from a user-owned directory but intended to always perform integrity verification of those DLLs.
 - [ewilded/CVE-2023-37250](https://github.com/ewilded/CVE-2023-37250)	<img alt="forks" src="https://img.shields.io/github/forks/ewilded/CVE-2023-37250">	<img alt="stars" src="https://img.shields.io/github/stars/ewilded/CVE-2023-37250">
 
 ---
