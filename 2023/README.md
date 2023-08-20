@@ -329,6 +329,11 @@ This CVE will be updated with new information and links to security updates when
 - [raresteak/CVE-2023-36884](https://github.com/raresteak/CVE-2023-36884)	<img alt="forks" src="https://img.shields.io/github/forks/raresteak/CVE-2023-36884">	<img alt="stars" src="https://img.shields.io/github/stars/raresteak/CVE-2023-36884">
 
 ---
+## CVE-2023-36874 (2023-07-11T18:15:00)
+> Windows Error Reporting Service Elevation of Privilege Vulnerability
+- [d0rb/CVE-2023-36874](https://github.com/d0rb/CVE-2023-36874)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2023-36874">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2023-36874">
+
+---
 ## CVE-2023-36664 (2023-06-25T22:15:00)
 > Artifex Ghostscript through 10.01.2 mishandles permission validation for pipe devices (with the %pipe% prefix or the | pipe character prefix).
 - [jakabakos/CVE-2023-36664-Ghostscript-command-injection](https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2023-36664-Ghostscript-command-injection">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2023-36664-Ghostscript-command-injection">
