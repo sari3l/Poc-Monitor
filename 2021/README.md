@@ -7341,6 +7341,7 @@
 - [daletoniris/CVE-2021-22555-esc-priv](https://github.com/daletoniris/CVE-2021-22555-esc-priv)	<img alt="forks" src="https://img.shields.io/github/forks/daletoniris/CVE-2021-22555-esc-priv">	<img alt="stars" src="https://img.shields.io/github/stars/daletoniris/CVE-2021-22555-esc-priv">
 - [cgwalters/container-cve-2021-22555](https://github.com/cgwalters/container-cve-2021-22555)	<img alt="forks" src="https://img.shields.io/github/forks/cgwalters/container-cve-2021-22555">	<img alt="stars" src="https://img.shields.io/github/stars/cgwalters/container-cve-2021-22555">
 - [JoneyJunior/cve-2021-22555](https://github.com/JoneyJunior/cve-2021-22555)	<img alt="forks" src="https://img.shields.io/github/forks/JoneyJunior/cve-2021-22555">	<img alt="stars" src="https://img.shields.io/github/stars/JoneyJunior/cve-2021-22555">
+- [pashayogi/CVE-2021-22555](https://github.com/pashayogi/CVE-2021-22555)	<img alt="forks" src="https://img.shields.io/github/forks/pashayogi/CVE-2021-22555">	<img alt="stars" src="https://img.shields.io/github/stars/pashayogi/CVE-2021-22555">
 
 ---
 ## CVE-2021-22262 (2021-10-05T14:15:00)
