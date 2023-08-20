@@ -4184,6 +4184,7 @@
 - [curtishoughton/CVE-2021-3560](https://github.com/curtishoughton/CVE-2021-3560)	<img alt="forks" src="https://img.shields.io/github/forks/curtishoughton/CVE-2021-3560">	<img alt="stars" src="https://img.shields.io/github/stars/curtishoughton/CVE-2021-3560">
 - [swapravo/polkadots](https://github.com/swapravo/polkadots)	<img alt="forks" src="https://img.shields.io/github/forks/swapravo/polkadots">	<img alt="stars" src="https://img.shields.io/github/stars/swapravo/polkadots">
 - [asepsaepdin/CVE-2021-3560](https://github.com/asepsaepdin/CVE-2021-3560)	<img alt="forks" src="https://img.shields.io/github/forks/asepsaepdin/CVE-2021-3560">	<img alt="stars" src="https://img.shields.io/github/stars/asepsaepdin/CVE-2021-3560">
+- [pashayogi/ROOT-CVE-2021-3560](https://github.com/pashayogi/ROOT-CVE-2021-3560)	<img alt="forks" src="https://img.shields.io/github/forks/pashayogi/ROOT-CVE-2021-3560">	<img alt="stars" src="https://img.shields.io/github/stars/pashayogi/ROOT-CVE-2021-3560">
 
 ---
 ## CVE-2021-35587 (2022-01-19T12:15:00)
