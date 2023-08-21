@@ -113,8 +113,8 @@
 - [akshadjoshi/CVE-2023-38890](https://github.com/akshadjoshi/CVE-2023-38890)	<img alt="forks" src="https://img.shields.io/github/forks/akshadjoshi/CVE-2023-38890">	<img alt="stars" src="https://img.shields.io/github/stars/akshadjoshi/CVE-2023-38890">
 
 ---
-## CVE-2023-38836 ()
-> 
+## CVE-2023-38836 (2023-08-21T17:15:00)
+> File Upload vulnerability in BoidCMS v.2.0.0 allows a remote attacker to execute arbitrary code via the GIF header component.
 - [1337kid/CVE-2023-38836](https://github.com/1337kid/CVE-2023-38836)	<img alt="forks" src="https://img.shields.io/github/forks/1337kid/CVE-2023-38836">	<img alt="stars" src="https://img.shields.io/github/stars/1337kid/CVE-2023-38836">
 
 ---
