@@ -2419,6 +2419,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 
 
 - [zeze-zeze/HITCON-2023-Demo-CVE-2023-20562](https://github.com/zeze-zeze/HITCON-2023-Demo-CVE-2023-20562)	<img alt="forks" src="https://img.shields.io/github/forks/zeze-zeze/HITCON-2023-Demo-CVE-2023-20562">	<img alt="stars" src="https://img.shields.io/github/stars/zeze-zeze/HITCON-2023-Demo-CVE-2023-20562">
+- [passwa11/HITCON-2023-Demo-CVE-2023-20562](https://github.com/passwa11/HITCON-2023-Demo-CVE-2023-20562)	<img alt="forks" src="https://img.shields.io/github/forks/passwa11/HITCON-2023-Demo-CVE-2023-20562">	<img alt="stars" src="https://img.shields.io/github/stars/passwa11/HITCON-2023-Demo-CVE-2023-20562">
 
 ---
 ## CVE-2023-2033 (2023-04-14T19:15:00)
