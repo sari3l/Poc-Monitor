@@ -1307,6 +1307,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [LOURC0D3/CVE-2023-29439](https://github.com/LOURC0D3/CVE-2023-29439)	<img alt="forks" src="https://img.shields.io/github/forks/LOURC0D3/CVE-2023-29439">	<img alt="stars" src="https://img.shields.io/github/stars/LOURC0D3/CVE-2023-29439">
 
 ---
+## CVE-2023-29409 (2023-08-02T20:15:00)
+> Extremely large RSA keys in certificate chains can cause a client/server to expend significant CPU time verifying signatures. With fix, the size of RSA keys transmitted during handshakes is restricted to <= 8192 bits. Based on a survey of publicly trusted RSA keys, there are currently only three certificates in circulation with keys larger than this, and all three appear to be test certificates that are not actively deployed. It is possible there are larger keys in use in private PKIs, but we target the web PKI, so causing breakage here in the interests of increasing the default safety of users of crypto/tls seems reasonable.
+- [mateusz834/CVE-2023-29409](https://github.com/mateusz834/CVE-2023-29409)	<img alt="forks" src="https://img.shields.io/github/forks/mateusz834/CVE-2023-29409">	<img alt="stars" src="https://img.shields.io/github/stars/mateusz834/CVE-2023-29409">
+
+---
 ## CVE-2023-29343 (2023-05-09T18:15:00)
 > SysInternals Sysmon for Windows Elevation of Privilege Vulnerability
 - [Wh04m1001/CVE-2023-29343](https://github.com/Wh04m1001/CVE-2023-29343)	<img alt="forks" src="https://img.shields.io/github/forks/Wh04m1001/CVE-2023-29343">	<img alt="stars" src="https://img.shields.io/github/stars/Wh04m1001/CVE-2023-29343">
