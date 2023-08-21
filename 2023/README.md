@@ -2340,6 +2340,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [g1x-r/CVE-2023-21554-PoC](https://github.com/g1x-r/CVE-2023-21554-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/g1x-r/CVE-2023-21554-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/g1x-r/CVE-2023-21554-PoC">
 - [g3tS3rvic3s/CVE-2023-21554-RCE-POC](https://github.com/g3tS3rvic3s/CVE-2023-21554-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/g3tS3rvic3s/CVE-2023-21554-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/g3tS3rvic3s/CVE-2023-21554-RCE-POC">
 - [zoemurmure/CVE-2023-21554-PoC](https://github.com/zoemurmure/CVE-2023-21554-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/zoemurmure/CVE-2023-21554-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/zoemurmure/CVE-2023-21554-PoC">
+- [3tternp/CVE-2023-21554](https://github.com/3tternp/CVE-2023-21554)	<img alt="forks" src="https://img.shields.io/github/forks/3tternp/CVE-2023-21554">	<img alt="stars" src="https://img.shields.io/github/stars/3tternp/CVE-2023-21554">
 
 ---
 ## CVE-2023-21400 (2023-07-13T00:15:00)
