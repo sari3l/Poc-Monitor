@@ -1601,9 +1601,10 @@
 - [zenturacp/cve-2019-19781-web](https://github.com/zenturacp/cve-2019-19781-web)	<img alt="forks" src="https://img.shields.io/github/forks/zenturacp/cve-2019-19781-web">	<img alt="stars" src="https://img.shields.io/github/stars/zenturacp/cve-2019-19781-web">
 - [r4ulcl/CVE-2019-19781](https://github.com/r4ulcl/CVE-2019-19781)	<img alt="forks" src="https://img.shields.io/github/forks/r4ulcl/CVE-2019-19781">	<img alt="stars" src="https://img.shields.io/github/stars/r4ulcl/CVE-2019-19781">
 - [Azeemering/CVE-2019-19781-DFIR-Notes](https://github.com/Azeemering/CVE-2019-19781-DFIR-Notes)	<img alt="forks" src="https://img.shields.io/github/forks/Azeemering/CVE-2019-19781-DFIR-Notes">	<img alt="stars" src="https://img.shields.io/github/stars/Azeemering/CVE-2019-19781-DFIR-Notes">
-- [x1sec/citrix-honeypot](https://github.com/x1sec/citrix-honeypot)	<img alt="forks" src="https://img.shields.io/github/forks/x1sec/citrix-honeypot">	<img alt="stars" src="https://img.shields.io/github/stars/x1sec/citrix-honeypot">
+- [haxrob/citrix-honeypot](https://github.com/haxrob/citrix-honeypot)	<img alt="forks" src="https://img.shields.io/github/forks/haxrob/citrix-honeypot">	<img alt="stars" src="https://img.shields.io/github/stars/haxrob/citrix-honeypot">
 - [trhacknon/CVE-2019-19781](https://github.com/trhacknon/CVE-2019-19781)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2019-19781">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2019-19781">
 - [34zY/APT-Backpack](https://github.com/34zY/APT-Backpack)	<img alt="forks" src="https://img.shields.io/github/forks/34zY/APT-Backpack">	<img alt="stars" src="https://img.shields.io/github/stars/34zY/APT-Backpack">
+- [trustedsec/cve-2019-19781](https://github.com/trustedsec/cve-2019-19781)	<img alt="forks" src="https://img.shields.io/github/forks/trustedsec/cve-2019-19781">	<img alt="stars" src="https://img.shields.io/github/stars/trustedsec/cve-2019-19781">
 
 ---
 ## CVE-2019-19725 (2019-12-11T18:16:00)
