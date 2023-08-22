@@ -888,6 +888,16 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [d0rb/CVE-2023-33242](https://github.com/d0rb/CVE-2023-33242)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2023-33242">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2023-33242">
 
 ---
+## CVE-2023-33160 (2023-07-11T18:15:00)
+> Microsoft SharePoint Server Remote Code Execution Vulnerability
+- [hipnesspatten/CVE-2023-33160](https://github.com/hipnesspatten/CVE-2023-33160)	<img alt="forks" src="https://img.shields.io/github/forks/hipnesspatten/CVE-2023-33160">	<img alt="stars" src="https://img.shields.io/github/stars/hipnesspatten/CVE-2023-33160">
+
+---
+## CVE-2023-33157 (2023-07-11T18:15:00)
+> Microsoft SharePoint Remote Code Execution Vulnerability
+- [hipnesspatten/CVE-2023-33157](https://github.com/hipnesspatten/CVE-2023-33157)	<img alt="forks" src="https://img.shields.io/github/forks/hipnesspatten/CVE-2023-33157">	<img alt="stars" src="https://img.shields.io/github/stars/hipnesspatten/CVE-2023-33157">
+
+---
 ## CVE-2023-32961 (2023-06-12T15:15:00)
 > Unauth. Reflected Cross-Site Scripting (XSS) vulnerability in Katie Seaborn Zotpress plugin <= 7.3.3 versions.
 - [LOURC0D3/CVE-2023-32961](https://github.com/LOURC0D3/CVE-2023-32961)	<img alt="forks" src="https://img.shields.io/github/forks/LOURC0D3/CVE-2023-32961">	<img alt="stars" src="https://img.shields.io/github/stars/LOURC0D3/CVE-2023-32961">
