@@ -43,6 +43,11 @@
 - [codeb0ss/CVE-2023-4174](https://github.com/codeb0ss/CVE-2023-4174)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-4174">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-4174">
 
 ---
+## CVE-2023-40477 ()
+> 
+- [whalersplonk/CVE-2023-40477](https://github.com/whalersplonk/CVE-2023-40477)	<img alt="forks" src="https://img.shields.io/github/forks/whalersplonk/CVE-2023-40477">	<img alt="stars" src="https://img.shields.io/github/stars/whalersplonk/CVE-2023-40477">
+
+---
 ## CVE-2023-40297 ()
 > 
 - [sahar042/CVE-2023-40297](https://github.com/sahar042/CVE-2023-40297)	<img alt="forks" src="https://img.shields.io/github/forks/sahar042/CVE-2023-40297">	<img alt="stars" src="https://img.shields.io/github/stars/sahar042/CVE-2023-40297">
@@ -502,6 +507,7 @@ This CVE will be updated with new information and links to security updates when
 - [getdrive/PoC](https://github.com/getdrive/PoC)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/PoC">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/PoC">
 - [mandiant/citrix-ioc-scanner-cve-2023-3519](https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/mandiant/citrix-ioc-scanner-cve-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/mandiant/citrix-ioc-scanner-cve-2023-3519">
 - [fox-it/citrix-netscaler-triage](https://github.com/fox-it/citrix-netscaler-triage)	<img alt="forks" src="https://img.shields.io/github/forks/fox-it/citrix-netscaler-triage">	<img alt="stars" src="https://img.shields.io/github/stars/fox-it/citrix-netscaler-triage">
+- [knitteruntil0s/CVE-2023-3519](https://github.com/knitteruntil0s/CVE-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/knitteruntil0s/CVE-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/knitteruntil0s/CVE-2023-3519">
 
 ---
 ## CVE-2023-35086 (2023-07-21T07:15:00)
