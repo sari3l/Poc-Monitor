@@ -351,6 +351,7 @@ This CVE will be updated with new information and links to security updates when
 - [c4m3l-security/CVE-2023-36874](https://github.com/c4m3l-security/CVE-2023-36874)	<img alt="forks" src="https://img.shields.io/github/forks/c4m3l-security/CVE-2023-36874">	<img alt="stars" src="https://img.shields.io/github/stars/c4m3l-security/CVE-2023-36874">
 - [Wh04m1001/CVE-2023-36874](https://github.com/Wh04m1001/CVE-2023-36874)	<img alt="forks" src="https://img.shields.io/github/forks/Wh04m1001/CVE-2023-36874">	<img alt="stars" src="https://img.shields.io/github/stars/Wh04m1001/CVE-2023-36874">
 - [Wh04m1001/CVE-2023-36874](https://github.com/Wh04m1001/CVE-2023-36874)	<img alt="forks" src="https://img.shields.io/github/forks/Wh04m1001/CVE-2023-36874">	<img alt="stars" src="https://img.shields.io/github/stars/Wh04m1001/CVE-2023-36874">
+- [crisprss/CVE-2023-36874](https://github.com/crisprss/CVE-2023-36874)	<img alt="forks" src="https://img.shields.io/github/forks/crisprss/CVE-2023-36874">	<img alt="stars" src="https://img.shields.io/github/stars/crisprss/CVE-2023-36874">
 
 ---
 ## CVE-2023-36664 (2023-06-25T22:15:00)
