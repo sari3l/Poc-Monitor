@@ -560,8 +560,8 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 - [ChrisL0tus/CVE-2023-34924](https://github.com/ChrisL0tus/CVE-2023-34924)	<img alt="forks" src="https://img.shields.io/github/forks/ChrisL0tus/CVE-2023-34924">	<img alt="stars" src="https://img.shields.io/github/stars/ChrisL0tus/CVE-2023-34924">
 
 ---
-## CVE-2023-34853 ()
-> 
+## CVE-2023-34853 (2023-08-22T19:16:00)
+> Buffer Overflow vulnerability in Supermicro motherboard X12DPG-QR 1.4b allows local attackers to hijack control flow via manipulation of SmcSecurityEraseSetupVar variable.
 - [risuxx/CVE-2023-34853](https://github.com/risuxx/CVE-2023-34853)	<img alt="forks" src="https://img.shields.io/github/forks/risuxx/CVE-2023-34853">	<img alt="stars" src="https://img.shields.io/github/stars/risuxx/CVE-2023-34853">
 
 ---
