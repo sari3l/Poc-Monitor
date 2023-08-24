@@ -368,6 +368,7 @@ This CVE will be updated with new information and links to security updates when
 - [Wh04m1001/CVE-2023-36874](https://github.com/Wh04m1001/CVE-2023-36874)	<img alt="forks" src="https://img.shields.io/github/forks/Wh04m1001/CVE-2023-36874">	<img alt="stars" src="https://img.shields.io/github/stars/Wh04m1001/CVE-2023-36874">
 - [Wh04m1001/CVE-2023-36874](https://github.com/Wh04m1001/CVE-2023-36874)	<img alt="forks" src="https://img.shields.io/github/forks/Wh04m1001/CVE-2023-36874">	<img alt="stars" src="https://img.shields.io/github/stars/Wh04m1001/CVE-2023-36874">
 - [crisprss/CVE-2023-36874](https://github.com/crisprss/CVE-2023-36874)	<img alt="forks" src="https://img.shields.io/github/forks/crisprss/CVE-2023-36874">	<img alt="stars" src="https://img.shields.io/github/stars/crisprss/CVE-2023-36874">
+- [Octoberfest7/CVE-2023-36874_BOF](https://github.com/Octoberfest7/CVE-2023-36874_BOF)	<img alt="forks" src="https://img.shields.io/github/forks/Octoberfest7/CVE-2023-36874_BOF">	<img alt="stars" src="https://img.shields.io/github/stars/Octoberfest7/CVE-2023-36874_BOF">
 
 ---
 ## CVE-2023-36664 (2023-06-25T22:15:00)
