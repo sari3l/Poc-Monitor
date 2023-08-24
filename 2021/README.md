@@ -8352,6 +8352,8 @@
 ## CVE-2021-0315 (2021-01-11T22:15:00)
 > In onCreate of GrantCredentialsPermissionActivity.java, there is a possible way to convince the user to grant an app access to an account due to a tapjacking/overlay attack. This could lead to local escalation of privilege with User execution privileges needed. User interaction is needed for exploitation. Product: Android; Versions: Android-8.1, Android-9, Android-10, Android-11, Android-8.0; Android ID: A-169763814.
 - [nanopathi/frameworks_base1_CVE-2021-0315](https://github.com/nanopathi/frameworks_base1_CVE-2021-0315)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/frameworks_base1_CVE-2021-0315">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/frameworks_base1_CVE-2021-0315">
+- [pazhanivel07/frameworks_base_Aosp10_r33_CVE-2021-0315](https://github.com/pazhanivel07/frameworks_base_Aosp10_r33_CVE-2021-0315)	<img alt="forks" src="https://img.shields.io/github/forks/pazhanivel07/frameworks_base_Aosp10_r33_CVE-2021-0315">	<img alt="stars" src="https://img.shields.io/github/stars/pazhanivel07/frameworks_base_Aosp10_r33_CVE-2021-0315">
+- [nanopathi/framework_base_AOSP10_r33_CVE-2021-0315](https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0315)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/framework_base_AOSP10_r33_CVE-2021-0315">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/framework_base_AOSP10_r33_CVE-2021-0315">
 
 ---
 ## CVE-2021-0284 (2021-08-17T23:15:00)
