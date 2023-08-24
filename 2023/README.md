@@ -206,6 +206,7 @@
 ## CVE-2023-38035 (2023-08-21T17:15:00)
 > A security vulnerability in MICS Admin Portal in Ivanti MobileIron Sentry versions 9.18.0 and below, which may allow an attacker to bypass authentication controls on the administrative interface due to an insufficiently restrictive Apache HTTPD configuration. 
 - [horizon3ai/CVE-2023-38035](https://github.com/horizon3ai/CVE-2023-38035)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2023-38035">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2023-38035">
+- [LeakIX/sentryexploit](https://github.com/LeakIX/sentryexploit)	<img alt="forks" src="https://img.shields.io/github/forks/LeakIX/sentryexploit">	<img alt="stars" src="https://img.shields.io/github/stars/LeakIX/sentryexploit">
 
 ---
 ## CVE-2023-37979 (2023-07-27T15:15:00)
