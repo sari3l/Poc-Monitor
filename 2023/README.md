@@ -1486,6 +1486,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [cfielding-r7/poc-cve-2023-2868](https://github.com/cfielding-r7/poc-cve-2023-2868)	<img alt="forks" src="https://img.shields.io/github/forks/cfielding-r7/poc-cve-2023-2868">	<img alt="stars" src="https://img.shields.io/github/stars/cfielding-r7/poc-cve-2023-2868">
 - [cashapp323232/CVE-2023-2868CVE-2023-2868](https://github.com/cashapp323232/CVE-2023-2868CVE-2023-2868)	<img alt="forks" src="https://img.shields.io/github/forks/cashapp323232/CVE-2023-2868CVE-2023-2868">	<img alt="stars" src="https://img.shields.io/github/stars/cashapp323232/CVE-2023-2868CVE-2023-2868">
 - [getdrive/PoC](https://github.com/getdrive/PoC)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/PoC">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/PoC">
+- [krmxd/CVE-2023-2868](https://github.com/krmxd/CVE-2023-2868)	<img alt="forks" src="https://img.shields.io/github/forks/krmxd/CVE-2023-2868">	<img alt="stars" src="https://img.shields.io/github/stars/krmxd/CVE-2023-2868">
 
 ---
 ## CVE-2023-28615 ()
