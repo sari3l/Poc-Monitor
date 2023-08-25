@@ -136,6 +136,7 @@
 ## CVE-2023-38831 (2023-08-23T17:15:00)
 > RARLabs WinRAR before 6.23 allows attackers to execute arbitrary code when a user attempts to view a benign file within a ZIP archive. The issue occurs because a ZIP archive may include a benign file (such as an ordinary .JPG file) and also a folder that has the same name as the benign file, and the contents of the folder (which may include executable content) are processed during an attempt to access only the benign file. This was exploited in the wild in April through August 2023.
 - [BoredHackerBlog/winrar_CVE-2023-38831_lazy_poc](https://github.com/BoredHackerBlog/winrar_CVE-2023-38831_lazy_poc)	<img alt="forks" src="https://img.shields.io/github/forks/BoredHackerBlog/winrar_CVE-2023-38831_lazy_poc">	<img alt="stars" src="https://img.shields.io/github/stars/BoredHackerBlog/winrar_CVE-2023-38831_lazy_poc">
+- [b1tg/CVE-2023-38831-winrar-exploit](https://github.com/b1tg/CVE-2023-38831-winrar-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/b1tg/CVE-2023-38831-winrar-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/b1tg/CVE-2023-38831-winrar-exploit">
 
 ---
 ## CVE-2023-38822 ()
