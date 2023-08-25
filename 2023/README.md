@@ -93,8 +93,8 @@
 - [Arajawat007/CVE-2023-39708](https://github.com/Arajawat007/CVE-2023-39708)	<img alt="forks" src="https://img.shields.io/github/forks/Arajawat007/CVE-2023-39708">	<img alt="stars" src="https://img.shields.io/github/stars/Arajawat007/CVE-2023-39708">
 
 ---
-## CVE-2023-39707 ()
-> 
+## CVE-2023-39707 (2023-08-25T20:15:00)
+> A stored cross-site scripting (XSS) vulnerability in Free and Open Source Inventory Management System v1.0 allows attackers to execute arbitrary web scripts or HTML via injecting a crafted payload into the Add Expense parameter under the Expense section.
 - [Arajawat007/CVE-2023-39707](https://github.com/Arajawat007/CVE-2023-39707)	<img alt="forks" src="https://img.shields.io/github/forks/Arajawat007/CVE-2023-39707">	<img alt="stars" src="https://img.shields.io/github/stars/Arajawat007/CVE-2023-39707">
 
 ---
