@@ -1849,6 +1849,11 @@ and the severity is therefore considered low.
 - [aodsec/CVE-2023-26256](https://github.com/aodsec/CVE-2023-26256)	<img alt="forks" src="https://img.shields.io/github/forks/aodsec/CVE-2023-26256">	<img alt="stars" src="https://img.shields.io/github/stars/aodsec/CVE-2023-26256">
 
 ---
+## CVE-2023-26255 (2023-02-28T16:15:00)
+> An unauthenticated path traversal vulnerability affects the "STAGIL Navigation for Jira - Menu & Themes" plugin before 2.0.52 for Jira. By modifying the fileName parameter to the snjCustomDesignConfig endpoint, it is possible to traverse and read the file system.
+- [tucommenceapousser/CVE-2023-26255-Exp](https://github.com/tucommenceapousser/CVE-2023-26255-Exp)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2023-26255-Exp">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2023-26255-Exp">
+
+---
 ## CVE-2023-26067 (2023-04-10T20:15:00)
 > Certain Lexmark devices through 2023-02-19 mishandle Input Validation (issue 1 of 4).
 - [horizon3ai/CVE-2023-26067](https://github.com/horizon3ai/CVE-2023-26067)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2023-26067">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2023-26067">
