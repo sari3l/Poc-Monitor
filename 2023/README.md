@@ -113,6 +113,11 @@
 - [Raj789-sec/CVE-2023-39115](https://github.com/Raj789-sec/CVE-2023-39115)	<img alt="forks" src="https://img.shields.io/github/forks/Raj789-sec/CVE-2023-39115">	<img alt="stars" src="https://img.shields.io/github/stars/Raj789-sec/CVE-2023-39115">
 
 ---
+## CVE-2023-39063 ()
+> 
+- [AndreGNogueira/CVE-2023-39063](https://github.com/AndreGNogueira/CVE-2023-39063)	<img alt="forks" src="https://img.shields.io/github/forks/AndreGNogueira/CVE-2023-39063">	<img alt="stars" src="https://img.shields.io/github/stars/AndreGNogueira/CVE-2023-39063">
+
+---
 ## CVE-2023-39062 ()
 > 
 - [afine-com/CVE-2023-39062](https://github.com/afine-com/CVE-2023-39062)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2023-39062">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2023-39062">
