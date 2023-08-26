@@ -1952,6 +1952,7 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 ## CVE-2023-2523 (2023-05-04T18:15:00)
 > A vulnerability was found in Weaver E-Office 9.5. It has been rated as critical. Affected by this issue is some unknown functionality of the file App/Ajax/ajax.php?action=mobile_upload_save. The manipulation of the argument upload_quwan leads to unrestricted upload. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. VDB-228014 is the identifier assigned to this vulnerability. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
 - [bingtangbanli/cve-2023-2523-and-cve-2023-2648](https://github.com/bingtangbanli/cve-2023-2523-and-cve-2023-2648)	<img alt="forks" src="https://img.shields.io/github/forks/bingtangbanli/cve-2023-2523-and-cve-2023-2648">	<img alt="stars" src="https://img.shields.io/github/stars/bingtangbanli/cve-2023-2523-and-cve-2023-2648">
+- [FzBacon/CVE-2023-25234_Tenda_AC6_stack_overflow](https://github.com/FzBacon/CVE-2023-25234_Tenda_AC6_stack_overflow)	<img alt="forks" src="https://img.shields.io/github/forks/FzBacon/CVE-2023-25234_Tenda_AC6_stack_overflow">	<img alt="stars" src="https://img.shields.io/github/stars/FzBacon/CVE-2023-25234_Tenda_AC6_stack_overflow">
 
 ---
 ## CVE-2023-25194 (2023-02-07T20:15:00)
