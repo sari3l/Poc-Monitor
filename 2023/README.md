@@ -199,6 +199,11 @@
 - [kali-mx/CVE-2023-38408](https://github.com/kali-mx/CVE-2023-38408)	<img alt="forks" src="https://img.shields.io/github/forks/kali-mx/CVE-2023-38408">	<img alt="stars" src="https://img.shields.io/github/stars/kali-mx/CVE-2023-38408">
 
 ---
+## CVE-2023-38388 ()
+> 
+- [codeb0ss/CVE-2023-38388](https://github.com/codeb0ss/CVE-2023-38388)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-38388">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-38388">
+
+---
 ## CVE-2023-3836 (2023-07-22T18:15:00)
 > A vulnerability classified as critical was found in Dahua Smart Park Management up to 20230713. This vulnerability affects unknown code of the file /emap/devicePoint_addImgIco?hasSubsystem=true. The manipulation of the argument upload leads to unrestricted upload. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB-235162 is the identifier assigned to this vulnerability. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
 - [codeb0ss/CVE-2023-3836](https://github.com/codeb0ss/CVE-2023-3836)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-3836">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-3836">
