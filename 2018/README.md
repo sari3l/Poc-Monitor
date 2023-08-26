@@ -860,6 +860,7 @@
 - [bantu2301/CVE-2018-16858](https://github.com/bantu2301/CVE-2018-16858)	<img alt="forks" src="https://img.shields.io/github/forks/bantu2301/CVE-2018-16858">	<img alt="stars" src="https://img.shields.io/github/stars/bantu2301/CVE-2018-16858">
 - [phongld97/detect-cve-2018-16858](https://github.com/phongld97/detect-cve-2018-16858)	<img alt="forks" src="https://img.shields.io/github/forks/phongld97/detect-cve-2018-16858">	<img alt="stars" src="https://img.shields.io/github/stars/phongld97/detect-cve-2018-16858">
 - [4nimanegra/libreofficeExploit1](https://github.com/4nimanegra/libreofficeExploit1)	<img alt="forks" src="https://img.shields.io/github/forks/4nimanegra/libreofficeExploit1">	<img alt="stars" src="https://img.shields.io/github/stars/4nimanegra/libreofficeExploit1">
+- [Henryisnotavailable/CVE-2018-16858-Python](https://github.com/Henryisnotavailable/CVE-2018-16858-Python)	<img alt="forks" src="https://img.shields.io/github/forks/Henryisnotavailable/CVE-2018-16858-Python">	<img alt="stars" src="https://img.shields.io/github/stars/Henryisnotavailable/CVE-2018-16858-Python">
 
 ---
 ## CVE-2018-16841 (2018-11-28T14:29:00)
