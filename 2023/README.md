@@ -43,6 +43,13 @@
 - [codeb0ss/CVE-2023-4174](https://github.com/codeb0ss/CVE-2023-4174)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-4174">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-4174">
 
 ---
+## CVE-2023-41080 (2023-08-25T21:15:00)
+> URL Redirection to Untrusted Site ('Open Redirect') vulnerability in FORM authentication feature Apache Tomcat.This issue affects Apache Tomcat: from 11.0.0-M1 through 11.0.0-M10, from 10.1.0-M1 through 10.0.12, from 9.0.0-M1 through 9.0.79 and from 8.5.0 through 8.5.92.
+
+The vulnerability is limited to the ROOT (default) web application.
+- [shiomiyan/CVE-2023-41080](https://github.com/shiomiyan/CVE-2023-41080)	<img alt="forks" src="https://img.shields.io/github/forks/shiomiyan/CVE-2023-41080">	<img alt="stars" src="https://img.shields.io/github/stars/shiomiyan/CVE-2023-41080">
+
+---
 ## CVE-2023-40477 ()
 > 
 - [whalersplonk/CVE-2023-40477](https://github.com/whalersplonk/CVE-2023-40477)	<img alt="forks" src="https://img.shields.io/github/forks/whalersplonk/CVE-2023-40477">	<img alt="stars" src="https://img.shields.io/github/stars/whalersplonk/CVE-2023-40477">
