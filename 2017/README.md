@@ -163,6 +163,7 @@
 - [idssgmcc/--CVE-2017-7921](https://github.com/idssgmcc/--CVE-2017-7921)	<img alt="forks" src="https://img.shields.io/github/forks/idssgmcc/--CVE-2017-7921">	<img alt="stars" src="https://img.shields.io/github/stars/idssgmcc/--CVE-2017-7921">
 - [K3ysTr0K3R/CVE-2017-7921-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2017-7921-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2017-7921-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2017-7921-EXPLOIT">
 - [krypton612/hikivision](https://github.com/krypton612/hikivision)	<img alt="forks" src="https://img.shields.io/github/forks/krypton612/hikivision">	<img alt="stars" src="https://img.shields.io/github/stars/krypton612/hikivision">
+- [fracergu/CVE-2017-7921](https://github.com/fracergu/CVE-2017-7921)	<img alt="forks" src="https://img.shields.io/github/forks/fracergu/CVE-2017-7921">	<img alt="stars" src="https://img.shields.io/github/stars/fracergu/CVE-2017-7921">
 
 ---
 ## CVE-2017-7888 (2017-05-10T14:29:00)
