@@ -146,6 +146,7 @@ The vulnerability is limited to the ROOT (default) web application.
 - [b1tg/CVE-2023-38831-winrar-exploit](https://github.com/b1tg/CVE-2023-38831-winrar-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/b1tg/CVE-2023-38831-winrar-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/b1tg/CVE-2023-38831-winrar-exploit">
 - [IR-HuntGuardians/CVE-2023-38831-HUNT](https://github.com/IR-HuntGuardians/CVE-2023-38831-HUNT)	<img alt="forks" src="https://img.shields.io/github/forks/IR-HuntGuardians/CVE-2023-38831-HUNT">	<img alt="stars" src="https://img.shields.io/github/stars/IR-HuntGuardians/CVE-2023-38831-HUNT">
 - [Garck3h/cve-2023-38831](https://github.com/Garck3h/cve-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/Garck3h/cve-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/Garck3h/cve-2023-38831">
+- [ignis-sec/CVE-2023-38831-RaRCE](https://github.com/ignis-sec/CVE-2023-38831-RaRCE)	<img alt="forks" src="https://img.shields.io/github/forks/ignis-sec/CVE-2023-38831-RaRCE">	<img alt="stars" src="https://img.shields.io/github/stars/ignis-sec/CVE-2023-38831-RaRCE">
 
 ---
 ## CVE-2023-38822 ()
