@@ -206,6 +206,11 @@ The vulnerability is limited to the ROOT (default) web application.
 - [kali-mx/CVE-2023-38408](https://github.com/kali-mx/CVE-2023-38408)	<img alt="forks" src="https://img.shields.io/github/forks/kali-mx/CVE-2023-38408">	<img alt="stars" src="https://img.shields.io/github/stars/kali-mx/CVE-2023-38408">
 
 ---
+## CVE-2023-38389 ()
+> 
+- [codeb0ss/CVE-2023-38389-PoC](https://github.com/codeb0ss/CVE-2023-38389-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-38389-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-38389-PoC">
+
+---
 ## CVE-2023-38388 ()
 > 
 - [codeb0ss/CVE-2023-38388](https://github.com/codeb0ss/CVE-2023-38388)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-38388">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-38388">
