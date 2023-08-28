@@ -2224,6 +2224,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [Penkyzduyi/CVE-2023-23192](https://github.com/Penkyzduyi/CVE-2023-23192)	<img alt="forks" src="https://img.shields.io/github/forks/Penkyzduyi/CVE-2023-23192">	<img alt="stars" src="https://img.shields.io/github/stars/Penkyzduyi/CVE-2023-23192">
 
 ---
+## CVE-2023-2317 (2023-08-19T06:15:00)
+> DOM-based XSS in updater/update.html in Typora before 1.6.7 on Windows and Linux allows a crafted markdown file to run arbitrary JavaScript code in the context of Typora main window via loading typora://app/typemark/updater/update.html in <embed> tag. This vulnerability can be exploited if a user opens a malicious markdown file in Typora, or copies text from a malicious webpage and paste it into Typora.
+- [spwpun/CVE-2023-2317-poc](https://github.com/spwpun/CVE-2023-2317-poc)	<img alt="forks" src="https://img.shields.io/github/forks/spwpun/CVE-2023-2317-poc">	<img alt="stars" src="https://img.shields.io/github/stars/spwpun/CVE-2023-2317-poc">
+
+---
 ## CVE-2023-23169 (2023-05-12T11:15:00)
 > Synapsoft pdfocus 1.17 is vulnerable to local file inclusion and server-side request forgery Directory Traversal.
 - [S4nshine/CVE-2023-23169](https://github.com/S4nshine/CVE-2023-23169)	<img alt="forks" src="https://img.shields.io/github/forks/S4nshine/CVE-2023-23169">	<img alt="stars" src="https://img.shields.io/github/stars/S4nshine/CVE-2023-23169">
