@@ -90,8 +90,8 @@ The vulnerability is limited to the ROOT (default) web application.
 - [Arajawat007/CVE-2023-39710](https://github.com/Arajawat007/CVE-2023-39710)	<img alt="forks" src="https://img.shields.io/github/forks/Arajawat007/CVE-2023-39710">	<img alt="stars" src="https://img.shields.io/github/stars/Arajawat007/CVE-2023-39710">
 
 ---
-## CVE-2023-39709 ()
-> 
+## CVE-2023-39709 (2023-08-28T19:15:00)
+> Multiple cross-site scripting (XSS) vulnerabilities in Free and Open Source Inventory Management System v1.0 allows attackers to execute arbitrary web scripts or HTML via injecting a crafted payload into the Name, Address, and Company parameters under the Add Member section.
 - [Arajawat007/CVE-2023-39709](https://github.com/Arajawat007/CVE-2023-39709)	<img alt="forks" src="https://img.shields.io/github/forks/Arajawat007/CVE-2023-39709">	<img alt="stars" src="https://img.shields.io/github/stars/Arajawat007/CVE-2023-39709">
 
 ---
@@ -125,8 +125,8 @@ The vulnerability is limited to the ROOT (default) web application.
 - [AndreGNogueira/CVE-2023-39063](https://github.com/AndreGNogueira/CVE-2023-39063)	<img alt="forks" src="https://img.shields.io/github/forks/AndreGNogueira/CVE-2023-39063">	<img alt="stars" src="https://img.shields.io/github/stars/AndreGNogueira/CVE-2023-39063">
 
 ---
-## CVE-2023-39062 ()
-> 
+## CVE-2023-39062 (2023-08-28T18:15:00)
+> Cross Site Scripting vulnerability in Spipu HTML2PDF before v.5.2.8 allows a remote attacker to execute arbitrary code via a crafted script to the forms.php.
 - [afine-com/CVE-2023-39062](https://github.com/afine-com/CVE-2023-39062)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2023-39062">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2023-39062">
 
 ---
