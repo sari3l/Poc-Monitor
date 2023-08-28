@@ -150,6 +150,8 @@ The vulnerability is limited to the ROOT (default) web application.
 - [HDCE-inc/CVE-2023-38831](https://github.com/HDCE-inc/CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/HDCE-inc/CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/HDCE-inc/CVE-2023-38831">
 - [PascalAsch/CVE-2023-38831-KQL](https://github.com/PascalAsch/CVE-2023-38831-KQL)	<img alt="forks" src="https://img.shields.io/github/forks/PascalAsch/CVE-2023-38831-KQL">	<img alt="stars" src="https://img.shields.io/github/stars/PascalAsch/CVE-2023-38831-KQL">
 - [Maalfer/CVE-2023-38831_ReverseShell_Winrar-RCE](https://github.com/Maalfer/CVE-2023-38831_ReverseShell_Winrar-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Maalfer/CVE-2023-38831_ReverseShell_Winrar-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Maalfer/CVE-2023-38831_ReverseShell_Winrar-RCE">
+- [akhomlyuk/cve-2023-38831](https://github.com/akhomlyuk/cve-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/akhomlyuk/cve-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/akhomlyuk/cve-2023-38831">
+- [knight0x07/WinRAR-Code-Execution-Vulnerability-CVE-2023-38831](https://github.com/knight0x07/WinRAR-Code-Execution-Vulnerability-CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/knight0x07/WinRAR-Code-Execution-Vulnerability-CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/knight0x07/WinRAR-Code-Execution-Vulnerability-CVE-2023-38831">
 
 ---
 ## CVE-2023-38822 ()
