@@ -147,6 +147,7 @@ The vulnerability is limited to the ROOT (default) web application.
 - [IR-HuntGuardians/CVE-2023-38831-HUNT](https://github.com/IR-HuntGuardians/CVE-2023-38831-HUNT)	<img alt="forks" src="https://img.shields.io/github/forks/IR-HuntGuardians/CVE-2023-38831-HUNT">	<img alt="stars" src="https://img.shields.io/github/stars/IR-HuntGuardians/CVE-2023-38831-HUNT">
 - [Garck3h/cve-2023-38831](https://github.com/Garck3h/cve-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/Garck3h/cve-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/Garck3h/cve-2023-38831">
 - [ignis-sec/CVE-2023-38831-RaRCE](https://github.com/ignis-sec/CVE-2023-38831-RaRCE)	<img alt="forks" src="https://img.shields.io/github/forks/ignis-sec/CVE-2023-38831-RaRCE">	<img alt="stars" src="https://img.shields.io/github/stars/ignis-sec/CVE-2023-38831-RaRCE">
+- [HDCE-inc/CVE-2023-38831](https://github.com/HDCE-inc/CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/HDCE-inc/CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/HDCE-inc/CVE-2023-38831">
 
 ---
 ## CVE-2023-38822 ()
