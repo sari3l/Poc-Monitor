@@ -3480,6 +3480,7 @@
 > Use-after-free vulnerability in fs/block_dev.c in the Linux kernel before 5.8 allows local users to gain privileges or cause a denial of service by leveraging improper access to a certain error field.
 - [Trinadh465/linux-4.1.15_CVE-2020-15436](https://github.com/Trinadh465/linux-4.1.15_CVE-2020-15436)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux-4.1.15_CVE-2020-15436">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux-4.1.15_CVE-2020-15436">
 - [Trinadh465/linux-4.1.15_CVE-2020-15436](https://github.com/Trinadh465/linux-4.1.15_CVE-2020-15436)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux-4.1.15_CVE-2020-15436">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux-4.1.15_CVE-2020-15436">
+- [Trinadh465/linux-4.19.72_CVE-2020-15436](https://github.com/Trinadh465/linux-4.19.72_CVE-2020-15436)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux-4.19.72_CVE-2020-15436">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux-4.19.72_CVE-2020-15436">
 
 ---
 ## CVE-2020-15366 (2020-07-15T20:15:00)
