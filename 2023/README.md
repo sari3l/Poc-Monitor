@@ -157,7 +157,7 @@ The vulnerability is limited to the ROOT (default) web application.
 - [PascalAsch/CVE-2023-38831-KQL](https://github.com/PascalAsch/CVE-2023-38831-KQL)	<img alt="forks" src="https://img.shields.io/github/forks/PascalAsch/CVE-2023-38831-KQL">	<img alt="stars" src="https://img.shields.io/github/stars/PascalAsch/CVE-2023-38831-KQL">
 - [my-elliot/CVE-2023-38831-winrar-expoit-simple-Poc](https://github.com/my-elliot/CVE-2023-38831-winrar-expoit-simple-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/my-elliot/CVE-2023-38831-winrar-expoit-simple-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/my-elliot/CVE-2023-38831-winrar-expoit-simple-Poc">
 - [thegr1ffyn/CVE-2023-38831](https://github.com/thegr1ffyn/CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/thegr1ffyn/CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/thegr1ffyn/CVE-2023-38831">
-- [Mourtadah/CVE-2023-38831-Exploit-and-Detection](https://github.com/Mourtadah/CVE-2023-38831-Exploit-and-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/Mourtadah/CVE-2023-38831-Exploit-and-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/Mourtadah/CVE-2023-38831-Exploit-and-Detection">
+- [MortySecurity/CVE-2023-38831-Exploit-and-Detection](https://github.com/MortySecurity/CVE-2023-38831-Exploit-and-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/MortySecurity/CVE-2023-38831-Exploit-and-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/MortySecurity/CVE-2023-38831-Exploit-and-Detection">
 
 ---
 ## CVE-2023-38822 ()
