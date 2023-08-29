@@ -154,6 +154,7 @@ The vulnerability is limited to the ROOT (default) web application.
 - [knight0x07/WinRAR-Code-Execution-Vulnerability-CVE-2023-38831](https://github.com/knight0x07/WinRAR-Code-Execution-Vulnerability-CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/knight0x07/WinRAR-Code-Execution-Vulnerability-CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/knight0x07/WinRAR-Code-Execution-Vulnerability-CVE-2023-38831">
 - [PascalAsch/CVE-2023-38831-KQL](https://github.com/PascalAsch/CVE-2023-38831-KQL)	<img alt="forks" src="https://img.shields.io/github/forks/PascalAsch/CVE-2023-38831-KQL">	<img alt="stars" src="https://img.shields.io/github/stars/PascalAsch/CVE-2023-38831-KQL">
 - [my-elliot/CVE-2023-38831-winrar-expoit-simple-Poc](https://github.com/my-elliot/CVE-2023-38831-winrar-expoit-simple-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/my-elliot/CVE-2023-38831-winrar-expoit-simple-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/my-elliot/CVE-2023-38831-winrar-expoit-simple-Poc">
+- [thegr1ffyn/CVE-2023-38831](https://github.com/thegr1ffyn/CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/thegr1ffyn/CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/thegr1ffyn/CVE-2023-38831">
 
 ---
 ## CVE-2023-38822 ()
