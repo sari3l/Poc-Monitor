@@ -1756,6 +1756,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [thomas-osgood/CVE-2023-27163](https://github.com/thomas-osgood/CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/thomas-osgood/CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/thomas-osgood/CVE-2023-27163">
 - [0xFTW/CVE-2023-27163](https://github.com/0xFTW/CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/0xFTW/CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/0xFTW/CVE-2023-27163">
 - [samh4cks/CVE-2023-27163-InternalProber](https://github.com/samh4cks/CVE-2023-27163-InternalProber)	<img alt="forks" src="https://img.shields.io/github/forks/samh4cks/CVE-2023-27163-InternalProber">	<img alt="stars" src="https://img.shields.io/github/stars/samh4cks/CVE-2023-27163-InternalProber">
+- [josephberger/CVE-2023-27163](https://github.com/josephberger/CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/josephberger/CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/josephberger/CVE-2023-27163">
 
 ---
 ## CVE-2023-27100 (2023-03-22T23:15:00)
