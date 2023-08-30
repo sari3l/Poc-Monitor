@@ -1726,6 +1726,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [MaanVader/CVE-2023-27524-POC](https://github.com/MaanVader/CVE-2023-27524-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MaanVader/CVE-2023-27524-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MaanVader/CVE-2023-27524-POC">
 - [Pari-Malam/CVE-2023-27524](https://github.com/Pari-Malam/CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/Pari-Malam/CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/Pari-Malam/CVE-2023-27524">
 - [TardC/CVE-2023-27524](https://github.com/TardC/CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/TardC/CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/TardC/CVE-2023-27524">
+- [necroteddy/CVE-2023-27524](https://github.com/necroteddy/CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/necroteddy/CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/necroteddy/CVE-2023-27524">
 
 ---
 ## CVE-2023-27372 (2023-02-28T20:15:00)
