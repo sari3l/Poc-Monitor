@@ -4169,6 +4169,7 @@
 ## CVE-2020-11060 (2020-05-12T20:15:00)
 > In GLPI before 9.4.6, an attacker can execute system commands by abusing the backup functionality. Theoretically, this vulnerability can be exploited by an attacker without a valid account by using a CSRF. Due to the difficulty of the exploitation, the attack is only conceivable by an account having Maintenance privileges and the right to add WIFI networks. This is fixed in version 9.4.6.
 - [0xdreadnaught/cve-2020-11060-poc](https://github.com/0xdreadnaught/cve-2020-11060-poc)	<img alt="forks" src="https://img.shields.io/github/forks/0xdreadnaught/cve-2020-11060-poc">	<img alt="stars" src="https://img.shields.io/github/stars/0xdreadnaught/cve-2020-11060-poc">
+- [zeromirror/cve_2020-11060](https://github.com/zeromirror/cve_2020-11060)	<img alt="forks" src="https://img.shields.io/github/forks/zeromirror/cve_2020-11060">	<img alt="stars" src="https://img.shields.io/github/stars/zeromirror/cve_2020-11060">
 
 ---
 ## CVE-2020-11022 (2020-04-29T22:15:00)

@@ -166,6 +166,7 @@ The vulnerability is limited to the ROOT (default) web application.
 - [nhman-python/CVE-2023-38831](https://github.com/nhman-python/CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/nhman-python/CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/nhman-python/CVE-2023-38831">
 - [Ahmed1Al/CVE-2023-38831-winrar-exploit](https://github.com/Ahmed1Al/CVE-2023-38831-winrar-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Ahmed1Al/CVE-2023-38831-winrar-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Ahmed1Al/CVE-2023-38831-winrar-exploit">
 - [SugiB3o/Keylog_CVE2023-38831](https://github.com/SugiB3o/Keylog_CVE2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/SugiB3o/Keylog_CVE2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/SugiB3o/Keylog_CVE2023-38831">
+- [z3r0sw0rd/CVE-2023-38831-PoC](https://github.com/z3r0sw0rd/CVE-2023-38831-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/z3r0sw0rd/CVE-2023-38831-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/z3r0sw0rd/CVE-2023-38831-PoC">
 
 ---
 ## CVE-2023-38822 ()
