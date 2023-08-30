@@ -6645,6 +6645,7 @@
 - [xdx57/CVE-2021-25094](https://github.com/xdx57/CVE-2021-25094)	<img alt="forks" src="https://img.shields.io/github/forks/xdx57/CVE-2021-25094">	<img alt="stars" src="https://img.shields.io/github/stars/xdx57/CVE-2021-25094">
 - [TUANB4DUT/typehub-exploiter](https://github.com/TUANB4DUT/typehub-exploiter)	<img alt="forks" src="https://img.shields.io/github/forks/TUANB4DUT/typehub-exploiter">	<img alt="stars" src="https://img.shields.io/github/stars/TUANB4DUT/typehub-exploiter">
 - [darkpills/CVE-2021-25094-tatsu-preauth-rce](https://github.com/darkpills/CVE-2021-25094-tatsu-preauth-rce)	<img alt="forks" src="https://img.shields.io/github/forks/darkpills/CVE-2021-25094-tatsu-preauth-rce">	<img alt="stars" src="https://img.shields.io/github/stars/darkpills/CVE-2021-25094-tatsu-preauth-rce">
+- [experimentalcrow1/TypeHub-Exploiter](https://github.com/experimentalcrow1/TypeHub-Exploiter)	<img alt="forks" src="https://img.shields.io/github/forks/experimentalcrow1/TypeHub-Exploiter">	<img alt="stars" src="https://img.shields.io/github/stars/experimentalcrow1/TypeHub-Exploiter">
 
 ---
 ## CVE-2021-25086 (2022-05-02T16:15:00)
