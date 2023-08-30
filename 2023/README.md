@@ -1914,6 +1914,7 @@ and the severity is therefore considered low.
 > An unauthenticated path traversal vulnerability affects the "STAGIL Navigation for Jira - Menu & Themes" plugin before 2.0.52 for Jira. By modifying the fileName parameter to the snjFooterNavigationConfig endpoint, it is possible to traverse and read the file system.
 - [aodsec/CVE-2023-26256](https://github.com/aodsec/CVE-2023-26256)	<img alt="forks" src="https://img.shields.io/github/forks/aodsec/CVE-2023-26256">	<img alt="stars" src="https://img.shields.io/github/stars/aodsec/CVE-2023-26256">
 - [xhs-d/CVE-2023-26256](https://github.com/xhs-d/CVE-2023-26256)	<img alt="forks" src="https://img.shields.io/github/forks/xhs-d/CVE-2023-26256">	<img alt="stars" src="https://img.shields.io/github/stars/xhs-d/CVE-2023-26256">
+- [qs119/CVE-2023-26256](https://github.com/qs119/CVE-2023-26256)	<img alt="forks" src="https://img.shields.io/github/forks/qs119/CVE-2023-26256">	<img alt="stars" src="https://img.shields.io/github/stars/qs119/CVE-2023-26256">
 
 ---
 ## CVE-2023-26255 (2023-02-28T16:15:00)
