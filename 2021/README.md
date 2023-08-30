@@ -786,6 +786,8 @@
 - [khulnasoft-lab/awesome-security](https://github.com/khulnasoft-lab/awesome-security)	<img alt="forks" src="https://img.shields.io/github/forks/khulnasoft-lab/awesome-security">	<img alt="stars" src="https://img.shields.io/github/stars/khulnasoft-lab/awesome-security">
 - [racoon-rac/CVE-2021-44228](https://github.com/racoon-rac/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/racoon-rac/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/racoon-rac/CVE-2021-44228">
 - [stripe/log4j-remediation-tools](https://github.com/stripe/log4j-remediation-tools)	<img alt="forks" src="https://img.shields.io/github/forks/stripe/log4j-remediation-tools">	<img alt="stars" src="https://img.shields.io/github/stars/stripe/log4j-remediation-tools">
+- [NothingNgga/Hta-Exploit-Downloader-Malware-Builder](https://github.com/NothingNgga/Hta-Exploit-Downloader-Malware-Builder)	<img alt="forks" src="https://img.shields.io/github/forks/NothingNgga/Hta-Exploit-Downloader-Malware-Builder">	<img alt="stars" src="https://img.shields.io/github/stars/NothingNgga/Hta-Exploit-Downloader-Malware-Builder">
+- [NothingNgga/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022](https://github.com/NothingNgga/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022)	<img alt="forks" src="https://img.shields.io/github/forks/NothingNgga/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022">	<img alt="stars" src="https://img.shields.io/github/stars/NothingNgga/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
