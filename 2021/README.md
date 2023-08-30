@@ -5737,6 +5737,13 @@
 ## CVE-2021-3019 (2021-01-05T05:15:00)
 > ffay lanproxy 0.1 allows Directory Traversal to read /../conf/config.properties to obtain credentials for a connection to the intranet.
 - [a1665454764/CVE-2021-3019](https://github.com/a1665454764/CVE-2021-3019)	<img alt="forks" src="https://img.shields.io/github/forks/a1665454764/CVE-2021-3019">	<img alt="stars" src="https://img.shields.io/github/stars/a1665454764/CVE-2021-3019">
+- [qiezi-maozi/CVE-2021-3019-Lanproxy](https://github.com/qiezi-maozi/CVE-2021-3019-Lanproxy)	<img alt="forks" src="https://img.shields.io/github/forks/qiezi-maozi/CVE-2021-3019-Lanproxy">	<img alt="stars" src="https://img.shields.io/github/stars/qiezi-maozi/CVE-2021-3019-Lanproxy">
+- [givemefivw/CVE-2021-3019](https://github.com/givemefivw/CVE-2021-3019)	<img alt="forks" src="https://img.shields.io/github/forks/givemefivw/CVE-2021-3019">	<img alt="stars" src="https://img.shields.io/github/stars/givemefivw/CVE-2021-3019">
+- [Aoyuh/cve-2021-3019](https://github.com/Aoyuh/cve-2021-3019)	<img alt="forks" src="https://img.shields.io/github/forks/Aoyuh/cve-2021-3019">	<img alt="stars" src="https://img.shields.io/github/stars/Aoyuh/cve-2021-3019">
+- [0xf4n9x/CVE-2021-3019](https://github.com/0xf4n9x/CVE-2021-3019)	<img alt="forks" src="https://img.shields.io/github/forks/0xf4n9x/CVE-2021-3019">	<img alt="stars" src="https://img.shields.io/github/stars/0xf4n9x/CVE-2021-3019">
+- [murataydemir/CVE-2021-3019](https://github.com/murataydemir/CVE-2021-3019)	<img alt="forks" src="https://img.shields.io/github/forks/murataydemir/CVE-2021-3019">	<img alt="stars" src="https://img.shields.io/github/stars/murataydemir/CVE-2021-3019">
+- [Maksim-venus/CVE-2021-3019](https://github.com/Maksim-venus/CVE-2021-3019)	<img alt="forks" src="https://img.shields.io/github/forks/Maksim-venus/CVE-2021-3019">	<img alt="stars" src="https://img.shields.io/github/stars/Maksim-venus/CVE-2021-3019">
+- [B1anda0/CVE-2021-3019](https://github.com/B1anda0/CVE-2021-3019)	<img alt="forks" src="https://img.shields.io/github/forks/B1anda0/CVE-2021-3019">	<img alt="stars" src="https://img.shields.io/github/stars/B1anda0/CVE-2021-3019">
 
 ---
 ## CVE-2021-30140 (2021-04-06T16:15:00)
