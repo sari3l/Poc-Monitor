@@ -1825,6 +1825,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [leekenghwa/CVE-2023-26852-Textpattern-v4.8.8-and-](https://github.com/leekenghwa/CVE-2023-26852-Textpattern-v4.8.8-and-)	<img alt="forks" src="https://img.shields.io/github/forks/leekenghwa/CVE-2023-26852-Textpattern-v4.8.8-and-">	<img alt="stars" src="https://img.shields.io/github/stars/leekenghwa/CVE-2023-26852-Textpattern-v4.8.8-and-">
 
 ---
+## CVE-2023-26818 (2023-05-19T12:15:00)
+> Telegram 9.3.1 and 9.4.0 allows attackers to access restricted files, microphone ,or video recording via the DYLD_INSERT_LIBRARIES flag.
+- [Zeyad-Azima/CVE-2023-26818](https://github.com/Zeyad-Azima/CVE-2023-26818)	<img alt="forks" src="https://img.shields.io/github/forks/Zeyad-Azima/CVE-2023-26818">	<img alt="stars" src="https://img.shields.io/github/stars/Zeyad-Azima/CVE-2023-26818">
+
+---
 ## CVE-2023-26692 (2023-03-30T20:15:00)
 > ZCBS Zijper Collectie Beheer Systeem (ZCBS), Zijper Publication Management System (ZPBS), and Zijper Image Bank Management System (ZBBS) 4.14k is vulnerable to Cross Site Scripting (XSS).
 - [bigzooooz/CVE-2023-26692](https://github.com/bigzooooz/CVE-2023-26692)	<img alt="forks" src="https://img.shields.io/github/forks/bigzooooz/CVE-2023-26692">	<img alt="stars" src="https://img.shields.io/github/stars/bigzooooz/CVE-2023-26692">
