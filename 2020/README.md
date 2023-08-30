@@ -4166,6 +4166,11 @@
 - [Live-Hack-CVE/CVE-2020-11066](https://github.com/Live-Hack-CVE/CVE-2020-11066)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-11066">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-11066">
 
 ---
+## CVE-2020-11060 (2020-05-12T20:15:00)
+> In GLPI before 9.4.6, an attacker can execute system commands by abusing the backup functionality. Theoretically, this vulnerability can be exploited by an attacker without a valid account by using a CSRF. Due to the difficulty of the exploitation, the attack is only conceivable by an account having Maintenance privileges and the right to add WIFI networks. This is fixed in version 9.4.6.
+- [0xdreadnaught/cve-2020-11060-poc](https://github.com/0xdreadnaught/cve-2020-11060-poc)	<img alt="forks" src="https://img.shields.io/github/forks/0xdreadnaught/cve-2020-11060-poc">	<img alt="stars" src="https://img.shields.io/github/stars/0xdreadnaught/cve-2020-11060-poc">
+
+---
 ## CVE-2020-11022 (2020-04-29T22:15:00)
 > In jQuery versions greater than or equal to 1.2 and before 3.5.0, passing HTML from untrusted sources - even after sanitizing it - to one of jQuery's DOM manipulation methods (i.e. .html(), .append(), and others) may execute untrusted code. This problem is patched in jQuery 3.5.0.
 - [0xAJ2K/CVE-2020-11022-CVE-2020-11023](https://github.com/0xAJ2K/CVE-2020-11022-CVE-2020-11023)	<img alt="forks" src="https://img.shields.io/github/forks/0xAJ2K/CVE-2020-11022-CVE-2020-11023">	<img alt="stars" src="https://img.shields.io/github/stars/0xAJ2K/CVE-2020-11022-CVE-2020-11023">
