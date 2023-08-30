@@ -117,6 +117,11 @@ The vulnerability is limited to the ROOT (default) web application.
 - [codeb0ss/CVE-2023-39143](https://github.com/codeb0ss/CVE-2023-39143)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-39143">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-39143">
 
 ---
+## CVE-2023-39141 (2023-08-22T19:16:00)
+> webui-aria2 commit 4fe2e was discovered to contain a path traversal vulnerability.
+- [codeb0ss/CVE-2023-39141-PoC](https://github.com/codeb0ss/CVE-2023-39141-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-39141-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-39141-PoC">
+
+---
 ## CVE-2023-39115 (2023-08-16T15:15:00)
 > install/aiz-uploader/upload in Campcodes Online Matrimonial Website System Script 3.3 allows XSS via a crafted SVG document.
 - [Raj789-sec/CVE-2023-39115](https://github.com/Raj789-sec/CVE-2023-39115)	<img alt="forks" src="https://img.shields.io/github/forks/Raj789-sec/CVE-2023-39115">	<img alt="stars" src="https://img.shields.io/github/stars/Raj789-sec/CVE-2023-39115">
@@ -635,6 +640,7 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 - [emanueldosreis/nmap-CVE-2023-35078-Exploit](https://github.com/emanueldosreis/nmap-CVE-2023-35078-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/emanueldosreis/nmap-CVE-2023-35078-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/emanueldosreis/nmap-CVE-2023-35078-Exploit">
 - [getdrive/CVE-2023-35078](https://github.com/getdrive/CVE-2023-35078)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/CVE-2023-35078">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/CVE-2023-35078">
 - [getdrive/PoC](https://github.com/getdrive/PoC)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/PoC">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/PoC">
+- [Blue-number/CVE-2023-35078](https://github.com/Blue-number/CVE-2023-35078)	<img alt="forks" src="https://img.shields.io/github/forks/Blue-number/CVE-2023-35078">	<img alt="stars" src="https://img.shields.io/github/stars/Blue-number/CVE-2023-35078">
 
 ---
 ## CVE-2023-3499 ()
