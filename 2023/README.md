@@ -167,6 +167,8 @@ The vulnerability is limited to the ROOT (default) web application.
 - [Ahmed1Al/CVE-2023-38831-winrar-exploit](https://github.com/Ahmed1Al/CVE-2023-38831-winrar-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Ahmed1Al/CVE-2023-38831-winrar-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Ahmed1Al/CVE-2023-38831-winrar-exploit">
 - [SugiB3o/Keylog_CVE2023-38831](https://github.com/SugiB3o/Keylog_CVE2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/SugiB3o/Keylog_CVE2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/SugiB3o/Keylog_CVE2023-38831">
 - [z3r0sw0rd/CVE-2023-38831-PoC](https://github.com/z3r0sw0rd/CVE-2023-38831-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/z3r0sw0rd/CVE-2023-38831-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/z3r0sw0rd/CVE-2023-38831-PoC">
+- [MorDavid/CVE-2023-38831-Winrar-Exploit-Generator-POC](https://github.com/MorDavid/CVE-2023-38831-Winrar-Exploit-Generator-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MorDavid/CVE-2023-38831-Winrar-Exploit-Generator-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MorDavid/CVE-2023-38831-Winrar-Exploit-Generator-POC">
+- [BeniBeastt/CVE-2023-38831_ReverseShell_Winrar](https://github.com/BeniBeastt/CVE-2023-38831_ReverseShell_Winrar)	<img alt="forks" src="https://img.shields.io/github/forks/BeniBeastt/CVE-2023-38831_ReverseShell_Winrar">	<img alt="stars" src="https://img.shields.io/github/stars/BeniBeastt/CVE-2023-38831_ReverseShell_Winrar">
 
 ---
 ## CVE-2023-38822 ()
