@@ -164,6 +164,7 @@ The vulnerability is limited to the ROOT (default) web application.
 - [thegr1ffyn/CVE-2023-38831](https://github.com/thegr1ffyn/CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/thegr1ffyn/CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/thegr1ffyn/CVE-2023-38831">
 - [MortySecurity/CVE-2023-38831-Exploit-and-Detection](https://github.com/MortySecurity/CVE-2023-38831-Exploit-and-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/MortySecurity/CVE-2023-38831-Exploit-and-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/MortySecurity/CVE-2023-38831-Exploit-and-Detection">
 - [nhman-python/CVE-2023-38831](https://github.com/nhman-python/CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/nhman-python/CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/nhman-python/CVE-2023-38831">
+- [Ahmed1Al/CVE-2023-38831-winrar-exploit](https://github.com/Ahmed1Al/CVE-2023-38831-winrar-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Ahmed1Al/CVE-2023-38831-winrar-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Ahmed1Al/CVE-2023-38831-winrar-exploit">
 
 ---
 ## CVE-2023-38822 ()
