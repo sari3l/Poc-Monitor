@@ -241,6 +241,7 @@ The vulnerability is limited to the ROOT (default) web application.
 ## CVE-2023-3836 (2023-07-22T18:15:00)
 > A vulnerability classified as critical was found in Dahua Smart Park Management up to 20230713. This vulnerability affects unknown code of the file /emap/devicePoint_addImgIco?hasSubsystem=true. The manipulation of the argument upload leads to unrestricted upload. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB-235162 is the identifier assigned to this vulnerability. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
 - [codeb0ss/CVE-2023-3836](https://github.com/codeb0ss/CVE-2023-3836)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-3836">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-3836">
+- [zh-byte/CVE-2023-3836](https://github.com/zh-byte/CVE-2023-3836)	<img alt="forks" src="https://img.shields.io/github/forks/zh-byte/CVE-2023-3836">	<img alt="stars" src="https://img.shields.io/github/stars/zh-byte/CVE-2023-3836">
 
 ---
 ## CVE-2023-38286 (2023-07-14T05:15:00)
@@ -793,6 +794,23 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 ## CVE-2023-34096 (2023-06-08T19:15:00)
 > Thruk is a multibackend monitoring webinterface which currently supports Naemon, Icinga, Shinken and Nagios as backends. In versions 3.06 and prior, the file `panorama.pm` is vulnerable to a Path Traversal vulnerability which allows an attacker to upload a file to any folder which has write permissions on the affected system. The parameter location is not filtered, validated or sanitized and it accepts any kind of characters. For a path traversal attack, the only characters required were the dot (`.`) and the slash (`/`). A fix is available in version 3.06.2.
 - [galoget/Thruk-CVE-2023-34096](https://github.com/galoget/Thruk-CVE-2023-34096)	<img alt="forks" src="https://img.shields.io/github/forks/galoget/Thruk-CVE-2023-34096">	<img alt="stars" src="https://img.shields.io/github/stars/galoget/Thruk-CVE-2023-34096">
+
+---
+## CVE-2023-34040 (2023-08-24T13:15:00)
+> In Spring for Apache Kafka 3.0.9 and earlier and versions 2.9.10 and earlier, a possible deserialization attack vector existed, but only if unusual configuration was applied. An attacker would have to construct a malicious serialized object in one of the deserialization exception record headers.
+
+Specifically, an application is vulnerable when all of the following are true:
+
+  *  The user does not configure an ErrorHandlingDeserializer for the key and/or value of the record
+  *  The user explicitly sets container properties checkDeserExWhenKeyNull and/or checkDeserExWhenValueNull container properties to true.
+  *  The user allows untrusted sources to publish to a Kafka topic
+
+
+By default, these properties are false, and the container only attempts to deserialize the headers if an ErrorHandlingDeserializer is configured. The ErrorHandlingDeserializer prevents the vulnerability by removing any such malicious headers before processing the record.
+
+
+
+- [Contrast-Security-OSS/Spring-Kafka-POC-CVE-2023-34040](https://github.com/Contrast-Security-OSS/Spring-Kafka-POC-CVE-2023-34040)	<img alt="forks" src="https://img.shields.io/github/forks/Contrast-Security-OSS/Spring-Kafka-POC-CVE-2023-34040">	<img alt="stars" src="https://img.shields.io/github/stars/Contrast-Security-OSS/Spring-Kafka-POC-CVE-2023-34040">
 
 ---
 ## CVE-2023-34035 (2023-07-18T16:15:00)
