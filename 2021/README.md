@@ -5734,6 +5734,11 @@
 - [Live-Hack-CVE/CVE-2021-3020](https://github.com/Live-Hack-CVE/CVE-2021-3020)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3020">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3020">
 
 ---
+## CVE-2021-3019 (2021-01-05T05:15:00)
+> ffay lanproxy 0.1 allows Directory Traversal to read /../conf/config.properties to obtain credentials for a connection to the intranet.
+- [a1665454764/CVE-2021-3019](https://github.com/a1665454764/CVE-2021-3019)	<img alt="forks" src="https://img.shields.io/github/forks/a1665454764/CVE-2021-3019">	<img alt="stars" src="https://img.shields.io/github/stars/a1665454764/CVE-2021-3019">
+
+---
 ## CVE-2021-30140 (2021-04-06T16:15:00)
 > LiquidFiles 3.4.15 has stored XSS through the "send email" functionality when sending a file via email to an administrator. When a file has no extension and contains malicious HTML / JavaScript content (such as SVG with HTML content), the payload is executed upon a click. This is fixed in 3.5.
 - [Live-Hack-CVE/CVE-2021-30140](https://github.com/Live-Hack-CVE/CVE-2021-30140)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30140">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30140">
