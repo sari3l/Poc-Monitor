@@ -1932,6 +1932,7 @@ and the severity is therefore considered low.
 - [tucommenceapousser/CVE-2023-26255-Exp](https://github.com/tucommenceapousser/CVE-2023-26255-Exp)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2023-26255-Exp">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2023-26255-Exp">
 - [tucommenceapousser/CVE-2023-26255-Exp](https://github.com/tucommenceapousser/CVE-2023-26255-Exp)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2023-26255-Exp">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2023-26255-Exp">
 - [aodsec/CVE-2023-26256](https://github.com/aodsec/CVE-2023-26256)	<img alt="forks" src="https://img.shields.io/github/forks/aodsec/CVE-2023-26256">	<img alt="stars" src="https://img.shields.io/github/stars/aodsec/CVE-2023-26256">
+- [Nian-Stars/CVE-2023-26255-6](https://github.com/Nian-Stars/CVE-2023-26255-6)	<img alt="forks" src="https://img.shields.io/github/forks/Nian-Stars/CVE-2023-26255-6">	<img alt="stars" src="https://img.shields.io/github/stars/Nian-Stars/CVE-2023-26255-6">
 
 ---
 ## CVE-2023-26067 (2023-04-10T20:15:00)
