@@ -8380,6 +8380,7 @@
 ## CVE-2021-0394 (2021-03-10T16:15:00)
 > In android_os_Parcel_readString8 of android_os_Parcel.cpp, there is a possible out of bounds read due to a missing bounds check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-11 Android-8.1 Android-9 Android-10Android ID: A-172655291
 - [Trinadh465/platform_art_CVE-2021-0394](https://github.com/Trinadh465/platform_art_CVE-2021-0394)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/platform_art_CVE-2021-0394">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/platform_art_CVE-2021-0394">
+- [nanopathi/packages_apps_Settings_CVE-2021-0394](https://github.com/nanopathi/packages_apps_Settings_CVE-2021-0394)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/packages_apps_Settings_CVE-2021-0394">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/packages_apps_Settings_CVE-2021-0394">
 
 ---
 ## CVE-2021-0325 (2021-02-10T17:15:00)
