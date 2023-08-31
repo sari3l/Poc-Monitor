@@ -48,6 +48,11 @@
 - [codeb0ss/CVE-2023-4174](https://github.com/codeb0ss/CVE-2023-4174)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-4174">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-4174">
 
 ---
+## CVE-2023-41717 ()
+> 
+- [federella/CVE-2023-41717](https://github.com/federella/CVE-2023-41717)	<img alt="forks" src="https://img.shields.io/github/forks/federella/CVE-2023-41717">	<img alt="stars" src="https://img.shields.io/github/stars/federella/CVE-2023-41717">
+
+---
 ## CVE-2023-41080 (2023-08-25T21:15:00)
 > URL Redirection to Untrusted Site ('Open Redirect') vulnerability in FORM authentication feature Apache Tomcat.This issue affects Apache Tomcat: from 11.0.0-M1 through 11.0.0-M10, from 10.1.0-M1 through 10.0.12, from 9.0.0-M1 through 9.0.79 and from 8.5.0 through 8.5.92.
 
@@ -630,6 +635,7 @@ prior to
 - [mandiant/citrix-ioc-scanner-cve-2023-3519](https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/mandiant/citrix-ioc-scanner-cve-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/mandiant/citrix-ioc-scanner-cve-2023-3519">
 - [fox-it/citrix-netscaler-triage](https://github.com/fox-it/citrix-netscaler-triage)	<img alt="forks" src="https://img.shields.io/github/forks/fox-it/citrix-netscaler-triage">	<img alt="stars" src="https://img.shields.io/github/stars/fox-it/citrix-netscaler-triage">
 - [knitteruntil0s/CVE-2023-3519](https://github.com/knitteruntil0s/CVE-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/knitteruntil0s/CVE-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/knitteruntil0s/CVE-2023-3519">
+- [JonaNeidhart/CVE-2023-3519-BackdoorCheck](https://github.com/JonaNeidhart/CVE-2023-3519-BackdoorCheck)	<img alt="forks" src="https://img.shields.io/github/forks/JonaNeidhart/CVE-2023-3519-BackdoorCheck">	<img alt="stars" src="https://img.shields.io/github/stars/JonaNeidhart/CVE-2023-3519-BackdoorCheck">
 
 ---
 ## CVE-2023-35086 (2023-07-21T07:15:00)
