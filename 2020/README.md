@@ -3086,6 +3086,7 @@
 ## CVE-2020-19360 (2021-01-20T01:15:00)
 > Local file inclusion in FHEM 6.0 allows in fhem/FileLog_logWrapper file parameter can allow an attacker to include a file, which can lead to sensitive information disclosure.
 - [a1665454764/CVE-2020-19360](https://github.com/a1665454764/CVE-2020-19360)	<img alt="forks" src="https://img.shields.io/github/forks/a1665454764/CVE-2020-19360">	<img alt="stars" src="https://img.shields.io/github/stars/a1665454764/CVE-2020-19360">
+- [EmreOvunc/FHEM-6.0-Local-File-Inclusion-LFI-Vulnerability](https://github.com/EmreOvunc/FHEM-6.0-Local-File-Inclusion-LFI-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/EmreOvunc/FHEM-6.0-Local-File-Inclusion-LFI-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/EmreOvunc/FHEM-6.0-Local-File-Inclusion-LFI-Vulnerability">
 
 ---
 ## CVE-2020-1920 (2021-06-01T14:15:00)
