@@ -1094,6 +1094,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [Pari-Malam/CVE-2023-32315](https://github.com/Pari-Malam/CVE-2023-32315)	<img alt="forks" src="https://img.shields.io/github/forks/Pari-Malam/CVE-2023-32315">	<img alt="stars" src="https://img.shields.io/github/stars/Pari-Malam/CVE-2023-32315">
 - [izzz0/CVE-2023-32315-POC](https://github.com/izzz0/CVE-2023-32315-POC)	<img alt="forks" src="https://img.shields.io/github/forks/izzz0/CVE-2023-32315-POC">	<img alt="stars" src="https://img.shields.io/github/stars/izzz0/CVE-2023-32315-POC">
 - [gibran-abdillah/CVE-2023-32315](https://github.com/gibran-abdillah/CVE-2023-32315)	<img alt="forks" src="https://img.shields.io/github/forks/gibran-abdillah/CVE-2023-32315">	<img alt="stars" src="https://img.shields.io/github/stars/gibran-abdillah/CVE-2023-32315">
+- [bingtangbanli/VulnerabilityTools](https://github.com/bingtangbanli/VulnerabilityTools)	<img alt="forks" src="https://img.shields.io/github/forks/bingtangbanli/VulnerabilityTools">	<img alt="stars" src="https://img.shields.io/github/stars/bingtangbanli/VulnerabilityTools">
 
 ---
 ## CVE-2023-32243 (2023-05-12T08:15:00)
