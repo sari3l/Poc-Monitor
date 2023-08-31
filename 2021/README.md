@@ -7458,6 +7458,11 @@
 - [PetrusViet/Gitlab-RCE](https://github.com/PetrusViet/Gitlab-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/PetrusViet/Gitlab-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/PetrusViet/Gitlab-RCE">
 
 ---
+## CVE-2021-22145 (2021-07-21T15:15:00)
+> A memory disclosure vulnerability was identified in Elasticsearch 7.10.0 to 7.13.3 error reporting. A user with the ability to submit arbitrary queries to Elasticsearch could submit a malformed query that would result in an error message returned containing previously used portions of a data buffer. This buffer could contain sensitive information such as Elasticsearch documents or authentication details.
+- [niceeeeeeee/CVE-2021-22145-poc](https://github.com/niceeeeeeee/CVE-2021-22145-poc)	<img alt="forks" src="https://img.shields.io/github/forks/niceeeeeeee/CVE-2021-22145-poc">	<img alt="stars" src="https://img.shields.io/github/stars/niceeeeeeee/CVE-2021-22145-poc">
+
+---
 ## CVE-2021-22134 (2021-03-08T21:15:00)
 > A document disclosure flaw was found in Elasticsearch versions after 7.6.0 and before 7.11.0 when Document or Field Level Security is used. Get requests do not properly apply security permissions when executing a query against a recently updated document. This affects documents that have been updated and not yet refreshed in the index. This could result in the search disclosing the existence of documents and fields the attacker should not be able to view.
 - [Live-Hack-CVE/CVE-2021-22134](https://github.com/Live-Hack-CVE/CVE-2021-22134)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22134">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22134">
