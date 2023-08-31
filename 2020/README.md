@@ -3083,6 +3083,11 @@
 - [woaiqiukui/CVE-2020-1938TomcatAjpScanner](https://github.com/woaiqiukui/CVE-2020-1938TomcatAjpScanner)	<img alt="forks" src="https://img.shields.io/github/forks/woaiqiukui/CVE-2020-1938TomcatAjpScanner">	<img alt="stars" src="https://img.shields.io/github/stars/woaiqiukui/CVE-2020-1938TomcatAjpScanner">
 
 ---
+## CVE-2020-19360 (2021-01-20T01:15:00)
+> Local file inclusion in FHEM 6.0 allows in fhem/FileLog_logWrapper file parameter can allow an attacker to include a file, which can lead to sensitive information disclosure.
+- [a1665454764/CVE-2020-19360](https://github.com/a1665454764/CVE-2020-19360)	<img alt="forks" src="https://img.shields.io/github/forks/a1665454764/CVE-2020-19360">	<img alt="stars" src="https://img.shields.io/github/stars/a1665454764/CVE-2020-19360">
+
+---
 ## CVE-2020-1920 (2021-06-01T14:15:00)
 > A regular expression denial of service (ReDoS) vulnerability in the validateBaseUrl function can cause the application to use excessive resources, become unresponsive, or crash. This was introduced in react-native version 0.59.0 and fixed in version 0.64.1.
 - [Live-Hack-CVE/CVE-2020-1920](https://github.com/Live-Hack-CVE/CVE-2020-1920)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1920">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1920">
