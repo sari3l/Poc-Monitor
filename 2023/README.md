@@ -1271,6 +1271,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [nidhi7598/linux-4.1.15_CVE-2023-3106](https://github.com/nidhi7598/linux-4.1.15_CVE-2023-3106)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.1.15_CVE-2023-3106">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.1.15_CVE-2023-3106">
 
 ---
+## CVE-2023-30943 (2023-05-02T20:15:00)
+> The vulnerability was found Moodle which exists because the application allows a user to control path of the older to create in TinyMCE loaders. A remote user can send a specially crafted HTTP request and create arbitrary folders on the system.
+- [d0rb/CVE-2023-30943](https://github.com/d0rb/CVE-2023-30943)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2023-30943">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2023-30943">
+
+---
 ## CVE-2023-30854 (2023-04-28T16:15:00)
 > AVideo is an open source video platform. Prior to version 12.4, an OS Command Injection vulnerability in an authenticated endpoint `/plugin/CloneSite/cloneClient.json.php` allows attackers to achieve Remote Code Execution. This issue is fixed in version 12.4.
 - [jmrcsnchz/CVE-2023-30854](https://github.com/jmrcsnchz/CVE-2023-30854)	<img alt="forks" src="https://img.shields.io/github/forks/jmrcsnchz/CVE-2023-30854">	<img alt="stars" src="https://img.shields.io/github/stars/jmrcsnchz/CVE-2023-30854">
