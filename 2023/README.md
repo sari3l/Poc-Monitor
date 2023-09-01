@@ -32,6 +32,11 @@
 - [Sybelle03/CVE-2023-51504](https://github.com/Sybelle03/CVE-2023-51504)	<img alt="forks" src="https://img.shields.io/github/forks/Sybelle03/CVE-2023-51504">	<img alt="stars" src="https://img.shields.io/github/stars/Sybelle03/CVE-2023-51504">
 
 ---
+## CVE-2023-4696 ()
+> 
+- [mnqazi/CVE-2023-4696](https://github.com/mnqazi/CVE-2023-4696)	<img alt="forks" src="https://img.shields.io/github/forks/mnqazi/CVE-2023-4696">	<img alt="stars" src="https://img.shields.io/github/stars/mnqazi/CVE-2023-4696">
+
+---
 ## CVE-2023-4596 ()
 > 
 - [E1A/CVE-2023-4596](https://github.com/E1A/CVE-2023-4596)	<img alt="forks" src="https://img.shields.io/github/forks/E1A/CVE-2023-4596">	<img alt="stars" src="https://img.shields.io/github/stars/E1A/CVE-2023-4596">
