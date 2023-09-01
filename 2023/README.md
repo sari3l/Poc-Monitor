@@ -69,6 +69,11 @@
 - [mvpyyds/CVE-2023-4165](https://github.com/mvpyyds/CVE-2023-4165)	<img alt="forks" src="https://img.shields.io/github/forks/mvpyyds/CVE-2023-4165">	<img alt="stars" src="https://img.shields.io/github/stars/mvpyyds/CVE-2023-4165">
 
 ---
+## CVE-2023-41646 ()
+> 
+- [tristao-marinho/CVE-2023-41646](https://github.com/tristao-marinho/CVE-2023-41646)	<img alt="forks" src="https://img.shields.io/github/forks/tristao-marinho/CVE-2023-41646">	<img alt="stars" src="https://img.shields.io/github/stars/tristao-marinho/CVE-2023-41646">
+
+---
 ## CVE-2023-41080 (2023-08-25T21:15:00)
 > URL Redirection to Untrusted Site ('Open Redirect') vulnerability in FORM authentication feature Apache Tomcat.This issue affects Apache Tomcat: from 11.0.0-M1 through 11.0.0-M10, from 10.1.0-M1 through 10.0.12, from 9.0.0-M1 through 9.0.79 and from 8.5.0 through 8.5.92.
 
@@ -195,6 +200,7 @@ The vulnerability is limited to the ROOT (default) web application.
 - [z3r0sw0rd/CVE-2023-38831-PoC](https://github.com/z3r0sw0rd/CVE-2023-38831-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/z3r0sw0rd/CVE-2023-38831-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/z3r0sw0rd/CVE-2023-38831-PoC">
 - [MorDavid/CVE-2023-38831-Winrar-Exploit-Generator-POC](https://github.com/MorDavid/CVE-2023-38831-Winrar-Exploit-Generator-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MorDavid/CVE-2023-38831-Winrar-Exploit-Generator-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MorDavid/CVE-2023-38831-Winrar-Exploit-Generator-POC">
 - [BeniBeastt/CVE-2023-38831_ReverseShell_Winrar](https://github.com/BeniBeastt/CVE-2023-38831_ReverseShell_Winrar)	<img alt="forks" src="https://img.shields.io/github/forks/BeniBeastt/CVE-2023-38831_ReverseShell_Winrar">	<img alt="stars" src="https://img.shields.io/github/stars/BeniBeastt/CVE-2023-38831_ReverseShell_Winrar">
+- [Mich-ele/CVE-2023-38831-winrar](https://github.com/Mich-ele/CVE-2023-38831-winrar)	<img alt="forks" src="https://img.shields.io/github/forks/Mich-ele/CVE-2023-38831-winrar">	<img alt="stars" src="https://img.shields.io/github/stars/Mich-ele/CVE-2023-38831-winrar">
 - [Mich-ele/CVE-2023-38831-winrar](https://github.com/Mich-ele/CVE-2023-38831-winrar)	<img alt="forks" src="https://img.shields.io/github/forks/Mich-ele/CVE-2023-38831-winrar">	<img alt="stars" src="https://img.shields.io/github/stars/Mich-ele/CVE-2023-38831-winrar">
 
 ---
@@ -873,6 +879,11 @@ By default, these properties are false, and the container only attempts to deser
 
 
 - [Contrast-Security-OSS/Spring-Kafka-POC-CVE-2023-34040](https://github.com/Contrast-Security-OSS/Spring-Kafka-POC-CVE-2023-34040)	<img alt="forks" src="https://img.shields.io/github/forks/Contrast-Security-OSS/Spring-Kafka-POC-CVE-2023-34040">	<img alt="stars" src="https://img.shields.io/github/stars/Contrast-Security-OSS/Spring-Kafka-POC-CVE-2023-34040">
+
+---
+## CVE-2023-34039 (2023-08-29T18:15:00)
+> Aria Operations for Networks contains an Authentication Bypass vulnerability due to a lack of unique cryptographic key generation. A malicious actor with network access to Aria Operations for Networks could bypass SSH authentication to gain access to the Aria Operations for Networks CLI.
+- [sinsinology/CVE-2023-34039](https://github.com/sinsinology/CVE-2023-34039)	<img alt="forks" src="https://img.shields.io/github/forks/sinsinology/CVE-2023-34039">	<img alt="stars" src="https://img.shields.io/github/stars/sinsinology/CVE-2023-34039">
 
 ---
 ## CVE-2023-34035 (2023-07-18T16:15:00)
