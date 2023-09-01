@@ -579,6 +579,17 @@ prior to
 - [leonardobg/CVE-2023-36143](https://github.com/leonardobg/CVE-2023-36143)	<img alt="forks" src="https://img.shields.io/github/forks/leonardobg/CVE-2023-36143">	<img alt="stars" src="https://img.shields.io/github/stars/leonardobg/CVE-2023-36143">
 
 ---
+## CVE-2023-3609 (2023-07-21T21:15:00)
+> A use-after-free vulnerability in the Linux kernel's net/sched: cls_u32 component can be exploited to achieve local privilege escalation.
+
+If tcf_change_indev() fails, u32_set_parms() will immediately return an error after incrementing or decrementing the reference counter in tcf_bind_filter(). If an attacker can control the reference counter and set it to zero, they can cause the reference to be freed, leading to a use-after-free vulnerability.
+
+We recommend upgrading past commit 04c55383fa5689357bcdd2c8036725a55ed632bc.
+
+
+- [nidhi7598/linux-4.19.72_CVE-2023-3609](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3609)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.19.72_CVE-2023-3609">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.19.72_CVE-2023-3609">
+
+---
 ## CVE-2023-35885 (2023-06-20T20:15:00)
 > CloudPanel 2 before 2.3.1 has insecure file-manager cookie authentication.
 - [datackmy/FallingSkies-CVE-2023-35885](https://github.com/datackmy/FallingSkies-CVE-2023-35885)	<img alt="forks" src="https://img.shields.io/github/forks/datackmy/FallingSkies-CVE-2023-35885">	<img alt="stars" src="https://img.shields.io/github/stars/datackmy/FallingSkies-CVE-2023-35885">
