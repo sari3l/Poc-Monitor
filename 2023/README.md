@@ -1971,6 +1971,7 @@ and the severity is therefore considered low.
 ## CVE-2023-26469 (2023-08-17T19:15:00)
 > In Jorani 1.0.0, an attacker could leverage path traversal to access files and execute code on the server.
 - [d0rb/CVE-2023-26469](https://github.com/d0rb/CVE-2023-26469)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2023-26469">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2023-26469">
+- [getdrive/PoC](https://github.com/getdrive/PoC)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/PoC">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/PoC">
 
 ---
 ## CVE-2023-2636 (2023-07-17T14:15:00)
