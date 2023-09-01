@@ -2000,6 +2000,11 @@
 - [Live-Hack-CVE/CVE-2019-16167](https://github.com/Live-Hack-CVE/CVE-2019-16167)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16167">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16167">
 
 ---
+## CVE-2019-16098 (2019-09-11T17:15:00)
+> The driver in Micro-Star MSI Afterburner 4.6.2.15658 (aka RTCore64.sys and RTCore32.sys) allows any authenticated user to read and write to arbitrary memory, I/O ports, and MSRs. This can be exploited for privilege escalation, code execution under high privileges, and information disclosure. These signed drivers can also be used to bypass the Microsoft driver-signing policy to deploy malicious code.
+- [0xDivyanshu-new/CVE-2019-16098](https://github.com/0xDivyanshu-new/CVE-2019-16098)	<img alt="forks" src="https://img.shields.io/github/forks/0xDivyanshu-new/CVE-2019-16098">	<img alt="stars" src="https://img.shields.io/github/stars/0xDivyanshu-new/CVE-2019-16098">
+
+---
 ## CVE-2019-15961 (2020-01-15T19:15:00)
 > A vulnerability in the email parsing module Clam AntiVirus (ClamAV) Software versions 0.102.0, 0.101.4 and prior could allow an unauthenticated, remote attacker to cause a denial of service condition on an affected device. The vulnerability is due to inefficient MIME parsing routines that result in extremely long scan times of specially formatted email files. An attacker could exploit this vulnerability by sending a crafted email file to an affected device. An exploit could allow the attacker to cause the ClamAV scanning process to scan the crafted email file indefinitely, resulting in a denial of service condition.
 - [Live-Hack-CVE/CVE-2019-15961](https://github.com/Live-Hack-CVE/CVE-2019-15961)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-15961">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-15961">
