@@ -1949,6 +1949,7 @@ and the severity is therefore considered low.
 - [xhs-d/CVE-2023-26256](https://github.com/xhs-d/CVE-2023-26256)	<img alt="forks" src="https://img.shields.io/github/forks/xhs-d/CVE-2023-26256">	<img alt="stars" src="https://img.shields.io/github/stars/xhs-d/CVE-2023-26256">
 - [qs119/CVE-2023-26256](https://github.com/qs119/CVE-2023-26256)	<img alt="forks" src="https://img.shields.io/github/forks/qs119/CVE-2023-26256">	<img alt="stars" src="https://img.shields.io/github/stars/qs119/CVE-2023-26256">
 - [qs119/CVE-2023-26256](https://github.com/qs119/CVE-2023-26256)	<img alt="forks" src="https://img.shields.io/github/forks/qs119/CVE-2023-26256">	<img alt="stars" src="https://img.shields.io/github/stars/qs119/CVE-2023-26256">
+- [jcad123/CVE-2023-26256](https://github.com/jcad123/CVE-2023-26256)	<img alt="forks" src="https://img.shields.io/github/forks/jcad123/CVE-2023-26256">	<img alt="stars" src="https://img.shields.io/github/stars/jcad123/CVE-2023-26256">
 
 ---
 ## CVE-2023-26255 (2023-02-28T16:15:00)
