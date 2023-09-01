@@ -54,6 +54,11 @@
 - [federella/CVE-2023-41717](https://github.com/federella/CVE-2023-41717)	<img alt="forks" src="https://img.shields.io/github/forks/federella/CVE-2023-41717">	<img alt="stars" src="https://img.shields.io/github/stars/federella/CVE-2023-41717">
 
 ---
+## CVE-2023-4165 (2023-08-05T14:15:00)
+> A vulnerability, which was classified as critical, was found in Tongda OA. This affects an unknown part of the file general/system/seal_manage/iweboffice/delete_seal.php. The manipulation of the argument DELETE_STR leads to sql injection. The exploit has been disclosed to the public and may be used. Upgrading to version 11.10 is able to address this issue. It is recommended to upgrade the affected component. The identifier VDB-236181 was assigned to this vulnerability. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
+- [mvpyyds/CVE-2023-4165](https://github.com/mvpyyds/CVE-2023-4165)	<img alt="forks" src="https://img.shields.io/github/forks/mvpyyds/CVE-2023-4165">	<img alt="stars" src="https://img.shields.io/github/stars/mvpyyds/CVE-2023-4165">
+
+---
 ## CVE-2023-41080 (2023-08-25T21:15:00)
 > URL Redirection to Untrusted Site ('Open Redirect') vulnerability in FORM authentication feature Apache Tomcat.This issue affects Apache Tomcat: from 11.0.0-M1 through 11.0.0-M10, from 10.1.0-M1 through 10.0.12, from 9.0.0-M1 through 9.0.79 and from 8.5.0 through 8.5.92.
 
