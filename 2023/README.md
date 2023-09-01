@@ -682,6 +682,11 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 - [Blue-number/CVE-2023-35078](https://github.com/Blue-number/CVE-2023-35078)	<img alt="forks" src="https://img.shields.io/github/forks/Blue-number/CVE-2023-35078">	<img alt="stars" src="https://img.shields.io/github/stars/Blue-number/CVE-2023-35078">
 
 ---
+## CVE-2023-35001 (2023-07-05T19:15:00)
+> Linux Kernel nftables Out-Of-Bounds Read/Write Vulnerability; nft_byteorder poorly handled vm register contents when CAP_NET_ADMIN is in any user or network namespace
+- [synacktiv/CVE-2023-35001](https://github.com/synacktiv/CVE-2023-35001)	<img alt="forks" src="https://img.shields.io/github/forks/synacktiv/CVE-2023-35001">	<img alt="stars" src="https://img.shields.io/github/stars/synacktiv/CVE-2023-35001">
+
+---
 ## CVE-2023-3499 ()
 > 
 - [Priece001/cve-2023-3499](https://github.com/Priece001/cve-2023-3499)	<img alt="forks" src="https://img.shields.io/github/forks/Priece001/cve-2023-3499">	<img alt="stars" src="https://img.shields.io/github/stars/Priece001/cve-2023-3499">
