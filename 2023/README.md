@@ -1957,6 +1957,11 @@ and the severity is therefore considered low.
 - [hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650](https://github.com/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650">
 
 ---
+## CVE-2023-26469 (2023-08-17T19:15:00)
+> In Jorani 1.0.0, an attacker could leverage path traversal to access files and execute code on the server.
+- [d0rb/CVE-2023-26469](https://github.com/d0rb/CVE-2023-26469)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2023-26469">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2023-26469">
+
+---
 ## CVE-2023-2636 (2023-07-17T14:15:00)
 > The AN_GradeBook WordPress plugin through 5.0.1 does not properly sanitise and escape a parameter before using it in a SQL statement, leading to a SQL injection exploitable by users with a role as low as subscriber
 - [lukinneberg/CVE-2023-2636](https://github.com/lukinneberg/CVE-2023-2636)	<img alt="forks" src="https://img.shields.io/github/forks/lukinneberg/CVE-2023-2636">	<img alt="stars" src="https://img.shields.io/github/stars/lukinneberg/CVE-2023-2636">
