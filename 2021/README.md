@@ -2916,6 +2916,7 @@
 > Saibamen HotelManager v1.2 is vulnerable to Cross Site Scripting (XSS) due to improper sanitization of comment and contact fields.
 - [Live-Hack-CVE/CVE-2021-39473](https://github.com/Live-Hack-CVE/CVE-2021-39473)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39473">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39473">
 - [Live-Hack-CVE/CVE-2021-39473](https://github.com/Live-Hack-CVE/CVE-2021-39473)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39473">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39473">
+- [BrunoTeixeira1996/CVE-2021-39473](https://github.com/BrunoTeixeira1996/CVE-2021-39473)	<img alt="forks" src="https://img.shields.io/github/forks/BrunoTeixeira1996/CVE-2021-39473">	<img alt="stars" src="https://img.shields.io/github/stars/BrunoTeixeira1996/CVE-2021-39473">
 
 ---
 ## CVE-2021-39434 (2022-12-06T00:15:00)
