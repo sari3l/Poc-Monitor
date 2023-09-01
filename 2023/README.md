@@ -54,6 +54,11 @@
 - [federella/CVE-2023-41717](https://github.com/federella/CVE-2023-41717)	<img alt="forks" src="https://img.shields.io/github/forks/federella/CVE-2023-41717">	<img alt="stars" src="https://img.shields.io/github/stars/federella/CVE-2023-41717">
 
 ---
+## CVE-2023-4166 (2023-08-05T16:15:00)
+> A vulnerability has been found in Tongda OA and classified as critical. This vulnerability affects unknown code of the file general/system/seal_manage/dianju/delete_log.php. The manipulation of the argument DELETE_STR leads to sql injection. The exploit has been disclosed to the public and may be used. Upgrading to version 11.10 is able to address this issue. It is recommended to upgrade the affected component. VDB-236182 is the identifier assigned to this vulnerability. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
+- [mvpyyds/CVE-2023-4166](https://github.com/mvpyyds/CVE-2023-4166)	<img alt="forks" src="https://img.shields.io/github/forks/mvpyyds/CVE-2023-4166">	<img alt="stars" src="https://img.shields.io/github/stars/mvpyyds/CVE-2023-4166">
+
+---
 ## CVE-2023-4165 (2023-08-05T14:15:00)
 > A vulnerability, which was classified as critical, was found in Tongda OA. This affects an unknown part of the file general/system/seal_manage/iweboffice/delete_seal.php. The manipulation of the argument DELETE_STR leads to sql injection. The exploit has been disclosed to the public and may be used. Upgrading to version 11.10 is able to address this issue. It is recommended to upgrade the affected component. The identifier VDB-236181 was assigned to this vulnerability. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
 - [mvpyyds/CVE-2023-4165](https://github.com/mvpyyds/CVE-2023-4165)	<img alt="forks" src="https://img.shields.io/github/forks/mvpyyds/CVE-2023-4165">	<img alt="stars" src="https://img.shields.io/github/stars/mvpyyds/CVE-2023-4165">
