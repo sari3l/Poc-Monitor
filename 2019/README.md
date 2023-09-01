@@ -2003,6 +2003,8 @@
 ## CVE-2019-16098 (2019-09-11T17:15:00)
 > The driver in Micro-Star MSI Afterburner 4.6.2.15658 (aka RTCore64.sys and RTCore32.sys) allows any authenticated user to read and write to arbitrary memory, I/O ports, and MSRs. This can be exploited for privilege escalation, code execution under high privileges, and information disclosure. These signed drivers can also be used to bypass the Microsoft driver-signing policy to deploy malicious code.
 - [0xDivyanshu-new/CVE-2019-16098](https://github.com/0xDivyanshu-new/CVE-2019-16098)	<img alt="forks" src="https://img.shields.io/github/forks/0xDivyanshu-new/CVE-2019-16098">	<img alt="stars" src="https://img.shields.io/github/stars/0xDivyanshu-new/CVE-2019-16098">
+- [hfiref0x/KDU](https://github.com/hfiref0x/KDU)	<img alt="forks" src="https://img.shields.io/github/forks/hfiref0x/KDU">	<img alt="stars" src="https://img.shields.io/github/stars/hfiref0x/KDU">
+- [Barakat/CVE-2019-16098](https://github.com/Barakat/CVE-2019-16098)	<img alt="forks" src="https://img.shields.io/github/forks/Barakat/CVE-2019-16098">	<img alt="stars" src="https://img.shields.io/github/stars/Barakat/CVE-2019-16098">
 
 ---
 ## CVE-2019-15961 (2020-01-15T19:15:00)
