@@ -526,6 +526,11 @@ prior to
 - [tagomaru/CVE-2023-36281](https://github.com/tagomaru/CVE-2023-36281)	<img alt="forks" src="https://img.shields.io/github/forks/tagomaru/CVE-2023-36281">	<img alt="stars" src="https://img.shields.io/github/stars/tagomaru/CVE-2023-36281">
 
 ---
+## CVE-2023-36250 ()
+> 
+- [BrunoTeixeira1996/CVE-2023-36250](https://github.com/BrunoTeixeira1996/CVE-2023-36250)	<img alt="forks" src="https://img.shields.io/github/forks/BrunoTeixeira1996/CVE-2023-36250">	<img alt="stars" src="https://img.shields.io/github/stars/BrunoTeixeira1996/CVE-2023-36250">
+
+---
 ## CVE-2023-36169 (2023-07-15T22:15:00)
 > ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was withdrawn by its CNA. Further investigation showed that it was not a security issue. Notes: none.
 - [TraiLeR2/CVE-2023-36169](https://github.com/TraiLeR2/CVE-2023-36169)	<img alt="forks" src="https://img.shields.io/github/forks/TraiLeR2/CVE-2023-36169">	<img alt="stars" src="https://img.shields.io/github/stars/TraiLeR2/CVE-2023-36169">
