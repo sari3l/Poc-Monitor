@@ -630,6 +630,11 @@ prior to
 - [ADSSA-IT/CVE-2023-35744](https://github.com/ADSSA-IT/CVE-2023-35744)	<img alt="forks" src="https://img.shields.io/github/forks/ADSSA-IT/CVE-2023-35744">	<img alt="stars" src="https://img.shields.io/github/stars/ADSSA-IT/CVE-2023-35744">
 
 ---
+## CVE-2023-3567 (2023-07-24T16:15:00)
+> A use-after-free flaw was found in vcs_read in drivers/tty/vt/vc_screen.c in vc_screen in the Linux Kernel. This flaw allows an attacker with local user access to cause a system crash or leak internal kernel information.
+- [nidhi7598/linux-4.1.15_CVE-2023-3567](https://github.com/nidhi7598/linux-4.1.15_CVE-2023-3567)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.1.15_CVE-2023-3567">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.1.15_CVE-2023-3567">
+
+---
 ## CVE-2023-3519 (2023-07-19T18:15:00)
 > Unauthenticated remote code execution
 
