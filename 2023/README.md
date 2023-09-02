@@ -113,6 +113,11 @@ The vulnerability is limited to the ROOT (default) web application.
 - [Halcy0nic/CVE-2023-40294-and-CVE-2023-40295](https://github.com/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295)	<img alt="forks" src="https://img.shields.io/github/forks/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295">	<img alt="stars" src="https://img.shields.io/github/stars/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295">
 
 ---
+## CVE-2023-39725 ()
+> 
+- [anky-123/CVE-2023-39725](https://github.com/anky-123/CVE-2023-39725)	<img alt="forks" src="https://img.shields.io/github/forks/anky-123/CVE-2023-39725">	<img alt="stars" src="https://img.shields.io/github/stars/anky-123/CVE-2023-39725">
+
+---
 ## CVE-2023-39714 ()
 > 
 - [Arajawat007/CVE-2023-39714](https://github.com/Arajawat007/CVE-2023-39714)	<img alt="forks" src="https://img.shields.io/github/forks/Arajawat007/CVE-2023-39714">	<img alt="stars" src="https://img.shields.io/github/stars/Arajawat007/CVE-2023-39714">

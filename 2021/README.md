@@ -4731,6 +4731,15 @@
 - [khulnasoft-lab/awesome-security](https://github.com/khulnasoft-lab/awesome-security)	<img alt="forks" src="https://img.shields.io/github/forks/khulnasoft-lab/awesome-security">	<img alt="stars" src="https://img.shields.io/github/stars/khulnasoft-lab/awesome-security">
 
 ---
+## CVE-2021-34523 (2021-07-14T18:15:00)
+> Microsoft Exchange Server Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-33768, CVE-2021-34470.
+- [SUPRAAA-1337/CVE-2021-34523](https://github.com/SUPRAAA-1337/CVE-2021-34523)	<img alt="forks" src="https://img.shields.io/github/forks/SUPRAAA-1337/CVE-2021-34523">	<img alt="stars" src="https://img.shields.io/github/stars/SUPRAAA-1337/CVE-2021-34523">
+- [horizon3ai/proxyshell](https://github.com/horizon3ai/proxyshell)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/proxyshell">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/proxyshell">
+- [hosch3n/ProxyVulns](https://github.com/hosch3n/ProxyVulns)	<img alt="forks" src="https://img.shields.io/github/forks/hosch3n/ProxyVulns">	<img alt="stars" src="https://img.shields.io/github/stars/hosch3n/ProxyVulns">
+- [mithridates1313/ProxyShell_POC](https://github.com/mithridates1313/ProxyShell_POC)	<img alt="forks" src="https://img.shields.io/github/forks/mithridates1313/ProxyShell_POC">	<img alt="stars" src="https://img.shields.io/github/stars/mithridates1313/ProxyShell_POC">
+- [Udyz/proxyshell-auto](https://github.com/Udyz/proxyshell-auto)	<img alt="forks" src="https://img.shields.io/github/forks/Udyz/proxyshell-auto">	<img alt="stars" src="https://img.shields.io/github/stars/Udyz/proxyshell-auto">
+
+---
 ## CVE-2021-3449 (2021-03-25T15:15:00)
 > An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).
 - [Live-Hack-CVE/CVE-2021-3449](https://github.com/Live-Hack-CVE/CVE-2021-3449)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3449">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3449">
