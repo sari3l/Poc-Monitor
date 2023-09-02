@@ -899,6 +899,7 @@ By default, these properties are false, and the container only attempts to deser
 ## CVE-2023-34039 (2023-08-29T18:15:00)
 > Aria Operations for Networks contains an Authentication Bypass vulnerability due to a lack of unique cryptographic key generation. A malicious actor with network access to Aria Operations for Networks could bypass SSH authentication to gain access to the Aria Operations for Networks CLI.
 - [sinsinology/CVE-2023-34039](https://github.com/sinsinology/CVE-2023-34039)	<img alt="forks" src="https://img.shields.io/github/forks/sinsinology/CVE-2023-34039">	<img alt="stars" src="https://img.shields.io/github/stars/sinsinology/CVE-2023-34039">
+- [CharonDefalt/CVE-2023-34039](https://github.com/CharonDefalt/CVE-2023-34039)	<img alt="forks" src="https://img.shields.io/github/forks/CharonDefalt/CVE-2023-34039">	<img alt="stars" src="https://img.shields.io/github/stars/CharonDefalt/CVE-2023-34039">
 
 ---
 ## CVE-2023-34035 (2023-07-18T16:15:00)
