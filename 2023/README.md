@@ -214,6 +214,11 @@ The vulnerability is limited to the ROOT (default) web application.
 - [Mich-ele/CVE-2023-38831-winrar](https://github.com/Mich-ele/CVE-2023-38831-winrar)	<img alt="forks" src="https://img.shields.io/github/forks/Mich-ele/CVE-2023-38831-winrar">	<img alt="stars" src="https://img.shields.io/github/stars/Mich-ele/CVE-2023-38831-winrar">
 
 ---
+## CVE-2023-38829 ()
+> 
+- [adhikara13/CVE-2023-38829-NETIS-WF2409E](https://github.com/adhikara13/CVE-2023-38829-NETIS-WF2409E)	<img alt="forks" src="https://img.shields.io/github/forks/adhikara13/CVE-2023-38829-NETIS-WF2409E">	<img alt="stars" src="https://img.shields.io/github/stars/adhikara13/CVE-2023-38829-NETIS-WF2409E">
+
+---
 ## CVE-2023-38822 ()
 > 
 - [TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822](https://github.com/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822)	<img alt="forks" src="https://img.shields.io/github/forks/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822">	<img alt="stars" src="https://img.shields.io/github/stars/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822">
