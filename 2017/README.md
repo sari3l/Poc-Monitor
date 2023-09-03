@@ -840,6 +840,11 @@
 - [Live-Hack-CVE/CVE-2017-15896](https://github.com/Live-Hack-CVE/CVE-2017-15896)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-15896">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-15896">
 
 ---
+## CVE-2017-15361 (2017-10-16T17:29:00)
+> The Infineon RSA library 1.02.013 in Infineon Trusted Platform Module (TPM) firmware, such as versions before 0000000000000422 - 4.34, before 000000000000062b - 6.43, and before 0000000000008521 - 133.33, mishandles RSA key generation, which makes it easier for attackers to defeat various cryptographic protection mechanisms via targeted attacks, aka ROCA. Examples of affected technologies include BitLocker with TPM 1.2, YubiKey 4 (before 4.3.5) PGP key generation, and the Cached User Data encryption feature in Chrome OS.
+- [Elbarbons/ROCA-attack-on-vulnerability-CVE-2017-15361](https://github.com/Elbarbons/ROCA-attack-on-vulnerability-CVE-2017-15361)	<img alt="forks" src="https://img.shields.io/github/forks/Elbarbons/ROCA-attack-on-vulnerability-CVE-2017-15361">	<img alt="stars" src="https://img.shields.io/github/stars/Elbarbons/ROCA-attack-on-vulnerability-CVE-2017-15361">
+
+---
 ## CVE-2017-15108 (2018-01-20T00:29:00)
 > spice-vdagent up to and including 0.17.0 does not properly escape save directory before passing to shell, allowing local attacker with access to the session the agent runs in to inject arbitrary commands to be executed.
 - [Live-Hack-CVE/CVE-2017-15108](https://github.com/Live-Hack-CVE/CVE-2017-15108)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-15108">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-15108">
