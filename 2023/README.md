@@ -944,6 +944,11 @@ An application is not vulnerable if any of the following is true:
 - [mnqazi/CVE-2023-33977](https://github.com/mnqazi/CVE-2023-33977)	<img alt="forks" src="https://img.shields.io/github/forks/mnqazi/CVE-2023-33977">	<img alt="stars" src="https://img.shields.io/github/stars/mnqazi/CVE-2023-33977">
 
 ---
+## CVE-2023-33831 ()
+> 
+- [rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831](https://github.com/rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831)	<img alt="forks" src="https://img.shields.io/github/forks/rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831">	<img alt="stars" src="https://img.shields.io/github/stars/rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831">
+
+---
 ## CVE-2023-33829 (2023-05-24T21:15:00)
 > A stored cross-site scripting (XSS) vulnerability in Cloudogu GmbH SCM Manager v1.2 to v1.60 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Description text field.
 - [n3gox/CVE-2023-33829](https://github.com/n3gox/CVE-2023-33829)	<img alt="forks" src="https://img.shields.io/github/forks/n3gox/CVE-2023-33829">	<img alt="stars" src="https://img.shields.io/github/stars/n3gox/CVE-2023-33829">
