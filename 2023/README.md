@@ -217,6 +217,7 @@ The vulnerability is limited to the ROOT (default) web application.
 - [BeniBeastt/CVE-2023-38831_ReverseShell_Winrar](https://github.com/BeniBeastt/CVE-2023-38831_ReverseShell_Winrar)	<img alt="forks" src="https://img.shields.io/github/forks/BeniBeastt/CVE-2023-38831_ReverseShell_Winrar">	<img alt="stars" src="https://img.shields.io/github/stars/BeniBeastt/CVE-2023-38831_ReverseShell_Winrar">
 - [Mich-ele/CVE-2023-38831-winrar](https://github.com/Mich-ele/CVE-2023-38831-winrar)	<img alt="forks" src="https://img.shields.io/github/forks/Mich-ele/CVE-2023-38831-winrar">	<img alt="stars" src="https://img.shields.io/github/stars/Mich-ele/CVE-2023-38831-winrar">
 - [Mich-ele/CVE-2023-38831-winrar](https://github.com/Mich-ele/CVE-2023-38831-winrar)	<img alt="forks" src="https://img.shields.io/github/forks/Mich-ele/CVE-2023-38831-winrar">	<img alt="stars" src="https://img.shields.io/github/stars/Mich-ele/CVE-2023-38831-winrar">
+- [asepsaepdin/CVE-2023-38831](https://github.com/asepsaepdin/CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/asepsaepdin/CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/asepsaepdin/CVE-2023-38831">
 
 ---
 ## CVE-2023-38829 ()
