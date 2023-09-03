@@ -843,6 +843,13 @@
 ## CVE-2017-15361 (2017-10-16T17:29:00)
 > The Infineon RSA library 1.02.013 in Infineon Trusted Platform Module (TPM) firmware, such as versions before 0000000000000422 - 4.34, before 000000000000062b - 6.43, and before 0000000000008521 - 133.33, mishandles RSA key generation, which makes it easier for attackers to defeat various cryptographic protection mechanisms via targeted attacks, aka ROCA. Examples of affected technologies include BitLocker with TPM 1.2, YubiKey 4 (before 4.3.5) PGP key generation, and the Cached User Data encryption feature in Chrome OS.
 - [Elbarbons/ROCA-attack-on-vulnerability-CVE-2017-15361](https://github.com/Elbarbons/ROCA-attack-on-vulnerability-CVE-2017-15361)	<img alt="forks" src="https://img.shields.io/github/forks/Elbarbons/ROCA-attack-on-vulnerability-CVE-2017-15361">	<img alt="stars" src="https://img.shields.io/github/stars/Elbarbons/ROCA-attack-on-vulnerability-CVE-2017-15361">
+- [brunoproduit/roca](https://github.com/brunoproduit/roca)	<img alt="forks" src="https://img.shields.io/github/forks/brunoproduit/roca">	<img alt="stars" src="https://img.shields.io/github/stars/brunoproduit/roca">
+- [0xxon/zeek-plugin-roca](https://github.com/0xxon/zeek-plugin-roca)	<img alt="forks" src="https://img.shields.io/github/forks/0xxon/zeek-plugin-roca">	<img alt="stars" src="https://img.shields.io/github/stars/0xxon/zeek-plugin-roca">
+- [nsacyber/Detect-CVE-2017-15361-TPM](https://github.com/nsacyber/Detect-CVE-2017-15361-TPM)	<img alt="forks" src="https://img.shields.io/github/forks/nsacyber/Detect-CVE-2017-15361-TPM">	<img alt="stars" src="https://img.shields.io/github/stars/nsacyber/Detect-CVE-2017-15361-TPM">
+- [0xxon/roca](https://github.com/0xxon/roca)	<img alt="forks" src="https://img.shields.io/github/forks/0xxon/roca">	<img alt="stars" src="https://img.shields.io/github/stars/0xxon/roca">
+- [titanous/rocacheck](https://github.com/titanous/rocacheck)	<img alt="forks" src="https://img.shields.io/github/forks/titanous/rocacheck">	<img alt="stars" src="https://img.shields.io/github/stars/titanous/rocacheck">
+- [jnpuskar/RocaCmTest](https://github.com/jnpuskar/RocaCmTest)	<img alt="forks" src="https://img.shields.io/github/forks/jnpuskar/RocaCmTest">	<img alt="stars" src="https://img.shields.io/github/stars/jnpuskar/RocaCmTest">
+- [lva/Infineon-CVE-2017-15361](https://github.com/lva/Infineon-CVE-2017-15361)	<img alt="forks" src="https://img.shields.io/github/forks/lva/Infineon-CVE-2017-15361">	<img alt="stars" src="https://img.shields.io/github/stars/lva/Infineon-CVE-2017-15361">
 
 ---
 ## CVE-2017-15108 (2018-01-20T00:29:00)
