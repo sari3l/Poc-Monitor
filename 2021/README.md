@@ -936,6 +936,7 @@
 - [nuker/CVE-2021-43798](https://github.com/nuker/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/nuker/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/nuker/CVE-2021-43798">
 - [FAOG99/GrafanaDirectoryScanner](https://github.com/FAOG99/GrafanaDirectoryScanner)	<img alt="forks" src="https://img.shields.io/github/forks/FAOG99/GrafanaDirectoryScanner">	<img alt="stars" src="https://img.shields.io/github/stars/FAOG99/GrafanaDirectoryScanner">
 - [victorhorowitz/grafana-exploit-CVE-2021-43798](https://github.com/victorhorowitz/grafana-exploit-CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/victorhorowitz/grafana-exploit-CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/victorhorowitz/grafana-exploit-CVE-2021-43798">
+- [victorhorowitz/grafana-exploit-CVE-2021-43798](https://github.com/victorhorowitz/grafana-exploit-CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/victorhorowitz/grafana-exploit-CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/victorhorowitz/grafana-exploit-CVE-2021-43798">
 
 ---
 ## CVE-2021-43797 (2021-12-09T19:15:00)
