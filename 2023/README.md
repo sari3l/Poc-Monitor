@@ -220,6 +220,8 @@ The vulnerability is limited to the ROOT (default) web application.
 - [asepsaepdin/CVE-2023-38831](https://github.com/asepsaepdin/CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/asepsaepdin/CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/asepsaepdin/CVE-2023-38831">
 - [K3rnel-Dev/WinrarExploit](https://github.com/K3rnel-Dev/WinrarExploit)	<img alt="forks" src="https://img.shields.io/github/forks/K3rnel-Dev/WinrarExploit">	<img alt="stars" src="https://img.shields.io/github/stars/K3rnel-Dev/WinrarExploit">
 - [Fa1c0n35/CVE-2023-38831-winrar-exploit](https://github.com/Fa1c0n35/CVE-2023-38831-winrar-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Fa1c0n35/CVE-2023-38831-winrar-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Fa1c0n35/CVE-2023-38831-winrar-exploit">
+- [LuxCodeDev/CVE-2023-38831_WinRAR](https://github.com/LuxCodeDev/CVE-2023-38831_WinRAR)	<img alt="forks" src="https://img.shields.io/github/forks/LuxCodeDev/CVE-2023-38831_WinRAR">	<img alt="stars" src="https://img.shields.io/github/stars/LuxCodeDev/CVE-2023-38831_WinRAR">
+- [xaitax/WinRAR-CVE-2023-38831](https://github.com/xaitax/WinRAR-CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/xaitax/WinRAR-CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/xaitax/WinRAR-CVE-2023-38831">
 
 ---
 ## CVE-2023-38829 ()
