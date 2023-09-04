@@ -32,6 +32,11 @@
 - [Sybelle03/CVE-2023-51504](https://github.com/Sybelle03/CVE-2023-51504)	<img alt="forks" src="https://img.shields.io/github/forks/Sybelle03/CVE-2023-51504">	<img alt="stars" src="https://img.shields.io/github/stars/Sybelle03/CVE-2023-51504">
 
 ---
+## CVE-2023-4698 ()
+> 
+- [mnqazi/CVE-2023-4698](https://github.com/mnqazi/CVE-2023-4698)	<img alt="forks" src="https://img.shields.io/github/forks/mnqazi/CVE-2023-4698">	<img alt="stars" src="https://img.shields.io/github/stars/mnqazi/CVE-2023-4698">
+
+---
 ## CVE-2023-4696 ()
 > 
 - [mnqazi/CVE-2023-4696](https://github.com/mnqazi/CVE-2023-4696)	<img alt="forks" src="https://img.shields.io/github/forks/mnqazi/CVE-2023-4696">	<img alt="stars" src="https://img.shields.io/github/stars/mnqazi/CVE-2023-4696">
@@ -373,6 +378,11 @@ The vulnerability is limited to the ROOT (default) web application.
 ## CVE-2023-37623 (2023-07-26T20:15:00)
 > Netdisco before v2.063000 was discovered to contain a cross-site scripting (XSS) vulnerability via the component /Web/TypeAhead.pm.
 - [benjaminpsinclair/Netdisco-CVE-2023-37623](https://github.com/benjaminpsinclair/Netdisco-CVE-2023-37623)	<img alt="forks" src="https://img.shields.io/github/forks/benjaminpsinclair/Netdisco-CVE-2023-37623">	<img alt="stars" src="https://img.shields.io/github/stars/benjaminpsinclair/Netdisco-CVE-2023-37623">
+
+---
+## CVE-2023-37621 ()
+> 
+- [MY0723/CNVD-2022-27366__CVE-2023-37621](https://github.com/MY0723/CNVD-2022-27366__CVE-2023-37621)	<img alt="forks" src="https://img.shields.io/github/forks/MY0723/CNVD-2022-27366__CVE-2023-37621">	<img alt="stars" src="https://img.shields.io/github/stars/MY0723/CNVD-2022-27366__CVE-2023-37621">
 
 ---
 ## CVE-2023-37599 (2023-07-13T22:15:00)
