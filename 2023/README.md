@@ -1776,6 +1776,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [glencooper872/tightvnc-zeroday-exploit-auth-bypass](https://github.com/glencooper872/tightvnc-zeroday-exploit-auth-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/glencooper872/tightvnc-zeroday-exploit-auth-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/glencooper872/tightvnc-zeroday-exploit-auth-bypass">
 
 ---
+## CVE-2023-28229 (2023-04-11T21:15:00)
+> Windows CNG Key Isolation Service Elevation of Privilege Vulnerability
+- [Y3A/CVE-2023-28229](https://github.com/Y3A/CVE-2023-28229)	<img alt="forks" src="https://img.shields.io/github/forks/Y3A/CVE-2023-28229">	<img alt="stars" src="https://img.shields.io/github/stars/Y3A/CVE-2023-28229">
+
+---
 ## CVE-2023-2822 (2023-05-20T07:15:00)
 > A vulnerability was found in Ellucian Ethos Identity up to 5.10.5. It has been classified as problematic. Affected is an unknown function of the file /cas/logout. The manipulation of the argument url leads to cross site scripting. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. Upgrading to version 5.10.6 is able to address this issue. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-229596.
 - [cberman/CVE-2023-2822-demo](https://github.com/cberman/CVE-2023-2822-demo)	<img alt="forks" src="https://img.shields.io/github/forks/cberman/CVE-2023-2822-demo">	<img alt="stars" src="https://img.shields.io/github/stars/cberman/CVE-2023-2822-demo">
