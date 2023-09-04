@@ -614,6 +614,7 @@ prior to
 ## CVE-2023-36143 (2023-06-30T01:15:00)
 > Maxprint Maxlink 1200G v3.4.11E has an OS command injection vulnerability in the "Diagnostic tool" functionality of the device.
 - [leonardobg/CVE-2023-36143](https://github.com/leonardobg/CVE-2023-36143)	<img alt="forks" src="https://img.shields.io/github/forks/leonardobg/CVE-2023-36143">	<img alt="stars" src="https://img.shields.io/github/stars/leonardobg/CVE-2023-36143">
+- [RobinTrigon/CVE-2023-36143](https://github.com/RobinTrigon/CVE-2023-36143)	<img alt="forks" src="https://img.shields.io/github/forks/RobinTrigon/CVE-2023-36143">	<img alt="stars" src="https://img.shields.io/github/stars/RobinTrigon/CVE-2023-36143">
 
 ---
 ## CVE-2023-3609 (2023-07-21T21:15:00)
