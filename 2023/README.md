@@ -738,6 +738,7 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 ## CVE-2023-35001 (2023-07-05T19:15:00)
 > Linux Kernel nftables Out-Of-Bounds Read/Write Vulnerability; nft_byteorder poorly handled vm register contents when CAP_NET_ADMIN is in any user or network namespace
 - [synacktiv/CVE-2023-35001](https://github.com/synacktiv/CVE-2023-35001)	<img alt="forks" src="https://img.shields.io/github/forks/synacktiv/CVE-2023-35001">	<img alt="stars" src="https://img.shields.io/github/stars/synacktiv/CVE-2023-35001">
+- [syedhafiz1234/nftables-oob-read-write-exploit-CVE-2023-35001-](https://github.com/syedhafiz1234/nftables-oob-read-write-exploit-CVE-2023-35001-)	<img alt="forks" src="https://img.shields.io/github/forks/syedhafiz1234/nftables-oob-read-write-exploit-CVE-2023-35001-">	<img alt="stars" src="https://img.shields.io/github/stars/syedhafiz1234/nftables-oob-read-write-exploit-CVE-2023-35001-">
 
 ---
 ## CVE-2023-3499 ()
@@ -916,6 +917,7 @@ By default, these properties are false, and the container only attempts to deser
 - [sinsinology/CVE-2023-34039](https://github.com/sinsinology/CVE-2023-34039)	<img alt="forks" src="https://img.shields.io/github/forks/sinsinology/CVE-2023-34039">	<img alt="stars" src="https://img.shields.io/github/stars/sinsinology/CVE-2023-34039">
 - [CharonDefalt/CVE-2023-34039](https://github.com/CharonDefalt/CVE-2023-34039)	<img alt="forks" src="https://img.shields.io/github/forks/CharonDefalt/CVE-2023-34039">	<img alt="stars" src="https://img.shields.io/github/stars/CharonDefalt/CVE-2023-34039">
 - [Cyb3rEnthusiast/CVE-2023-34039](https://github.com/Cyb3rEnthusiast/CVE-2023-34039)	<img alt="forks" src="https://img.shields.io/github/forks/Cyb3rEnthusiast/CVE-2023-34039">	<img alt="stars" src="https://img.shields.io/github/stars/Cyb3rEnthusiast/CVE-2023-34039">
+- [syedhafiz1234/CVE-2023-34039](https://github.com/syedhafiz1234/CVE-2023-34039)	<img alt="forks" src="https://img.shields.io/github/forks/syedhafiz1234/CVE-2023-34039">	<img alt="stars" src="https://img.shields.io/github/stars/syedhafiz1234/CVE-2023-34039">
 
 ---
 ## CVE-2023-34035 (2023-07-18T16:15:00)
