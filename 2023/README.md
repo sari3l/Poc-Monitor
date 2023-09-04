@@ -53,6 +53,11 @@
 - [Trinadh465/linux_4.19.72_CVE-2023-42896](https://github.com/Trinadh465/linux_4.19.72_CVE-2023-42896)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux_4.19.72_CVE-2023-42896">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux_4.19.72_CVE-2023-42896">
 
 ---
+## CVE-2023-4278 ()
+> 
+- [revan-ar/CVE-2023-4278](https://github.com/revan-ar/CVE-2023-4278)	<img alt="forks" src="https://img.shields.io/github/forks/revan-ar/CVE-2023-4278">	<img alt="stars" src="https://img.shields.io/github/stars/revan-ar/CVE-2023-4278">
+
+---
 ## CVE-2023-4174 (2023-08-06T01:15:00)
 > A vulnerability has been found in mooSocial mooStore 3.1.6 and classified as problematic. Affected by this vulnerability is an unknown functionality. The manipulation leads to cross site scripting. The attack can be launched remotely. The identifier VDB-236209 was assigned to this vulnerability.
 - [d0rb/CVE-2023-4174](https://github.com/d0rb/CVE-2023-4174)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2023-4174">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2023-4174">
