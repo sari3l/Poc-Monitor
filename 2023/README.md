@@ -2684,6 +2684,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [hv0l/CVE-2023-21716_exploit](https://github.com/hv0l/CVE-2023-21716_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/hv0l/CVE-2023-21716_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/hv0l/CVE-2023-21716_exploit">
 - [JMousqueton/CVE-2023-21716](https://github.com/JMousqueton/CVE-2023-21716)	<img alt="forks" src="https://img.shields.io/github/forks/JMousqueton/CVE-2023-21716">	<img alt="stars" src="https://img.shields.io/github/stars/JMousqueton/CVE-2023-21716">
 - [Lord-of-the-IoT/CVE-2023-21716](https://github.com/Lord-of-the-IoT/CVE-2023-21716)	<img alt="forks" src="https://img.shields.io/github/forks/Lord-of-the-IoT/CVE-2023-21716">	<img alt="stars" src="https://img.shields.io/github/stars/Lord-of-the-IoT/CVE-2023-21716">
+- [Jaslayer/CVE-2023-21716-overview](https://github.com/Jaslayer/CVE-2023-21716-overview)	<img alt="forks" src="https://img.shields.io/github/forks/Jaslayer/CVE-2023-21716-overview">	<img alt="stars" src="https://img.shields.io/github/stars/Jaslayer/CVE-2023-21716-overview">
 
 ---
 ## CVE-2023-21707 (2023-02-14T20:15:00)
