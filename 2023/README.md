@@ -84,6 +84,16 @@
 - [tristao-marinho/CVE-2023-41646](https://github.com/tristao-marinho/CVE-2023-41646)	<img alt="forks" src="https://img.shields.io/github/forks/tristao-marinho/CVE-2023-41646">	<img alt="stars" src="https://img.shields.io/github/stars/tristao-marinho/CVE-2023-41646">
 
 ---
+## CVE-2023-41508 ()
+> 
+- [redblueteam/CVE-2023-41508](https://github.com/redblueteam/CVE-2023-41508)	<img alt="forks" src="https://img.shields.io/github/forks/redblueteam/CVE-2023-41508">	<img alt="stars" src="https://img.shields.io/github/stars/redblueteam/CVE-2023-41508">
+
+---
+## CVE-2023-41507 ()
+> 
+- [redblueteam/CVE-2023-41507](https://github.com/redblueteam/CVE-2023-41507)	<img alt="forks" src="https://img.shields.io/github/forks/redblueteam/CVE-2023-41507">	<img alt="stars" src="https://img.shields.io/github/stars/redblueteam/CVE-2023-41507">
+
+---
 ## CVE-2023-41080 (2023-08-25T21:15:00)
 > URL Redirection to Untrusted Site ('Open Redirect') vulnerability in FORM authentication feature Apache Tomcat.This issue affects Apache Tomcat: from 11.0.0-M1 through 11.0.0-M10, from 10.1.0-M1 through 10.0.12, from 9.0.0-M1 through 9.0.79 and from 8.5.0 through 8.5.92.
 
