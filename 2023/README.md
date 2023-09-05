@@ -89,6 +89,11 @@
 - [tristao-marinho/CVE-2023-41646](https://github.com/tristao-marinho/CVE-2023-41646)	<img alt="forks" src="https://img.shields.io/github/forks/tristao-marinho/CVE-2023-41646">	<img alt="stars" src="https://img.shields.io/github/stars/tristao-marinho/CVE-2023-41646">
 
 ---
+## CVE-2023-41538 ()
+> 
+- [codeb0ss/CVE-2023-41538-PoC](https://github.com/codeb0ss/CVE-2023-41538-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-41538-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-41538-PoC">
+
+---
 ## CVE-2023-41508 ()
 > 
 - [redblueteam/CVE-2023-41508](https://github.com/redblueteam/CVE-2023-41508)	<img alt="forks" src="https://img.shields.io/github/forks/redblueteam/CVE-2023-41508">	<img alt="stars" src="https://img.shields.io/github/stars/redblueteam/CVE-2023-41508">
@@ -851,6 +856,11 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 > i-doit Open v24 was discovered to contain a reflected cross-site scripting (XSS) vulnerability via the timeout parameter on the login page.
 - [leekenghwa/CVE-2023-34830---XSS-Reflected-found-in-I-doit-open-v24-and-Bekiw](https://github.com/leekenghwa/CVE-2023-34830---XSS-Reflected-found-in-I-doit-open-v24-and-Bekiw)	<img alt="forks" src="https://img.shields.io/github/forks/leekenghwa/CVE-2023-34830---XSS-Reflected-found-in-I-doit-open-v24-and-Bekiw">	<img alt="stars" src="https://img.shields.io/github/stars/leekenghwa/CVE-2023-34830---XSS-Reflected-found-in-I-doit-open-v24-and-Bekiw">
 - [leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below](https://github.com/leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below)	<img alt="forks" src="https://img.shields.io/github/forks/leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below">	<img alt="stars" src="https://img.shields.io/github/stars/leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below">
+
+---
+## CVE-2023-34747 (2023-06-14T14:15:00)
+> File upload vulnerability in ujcms 6.0.2 via /api/backend/core/web-file-upload/upload.
+- [codeb0ss/CVE-2023-34747-PoC](https://github.com/codeb0ss/CVE-2023-34747-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-34747-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-34747-PoC">
 
 ---
 ## CVE-2023-34634 (2023-08-01T14:15:00)
@@ -1955,6 +1965,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 ## CVE-2023-27035 (2023-05-01T22:15:00)
 > An issue discovered in Obsidian Canvas 1.1.9 allows remote attackers to send desktop notifications, record user audio and other unspecified impacts via embedded website on the canvas page.
 - [fivex3/CVE-2023-27035](https://github.com/fivex3/CVE-2023-27035)	<img alt="forks" src="https://img.shields.io/github/forks/fivex3/CVE-2023-27035">	<img alt="stars" src="https://img.shields.io/github/stars/fivex3/CVE-2023-27035">
+
+---
+## CVE-2023-27034 (2023-03-23T22:15:00)
+> PrestaShop jmsblog 2.5.5 was discovered to contain a SQL injection vulnerability.
+- [codeb0ss/CVE-2023-27034-Exploit](https://github.com/codeb0ss/CVE-2023-27034-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-27034-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-27034-Exploit">
 
 ---
 ## CVE-2023-26984 (2023-03-29T18:15:00)
