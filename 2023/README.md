@@ -114,6 +114,7 @@
 
 The vulnerability is limited to the ROOT (default) web application.
 - [shiomiyan/CVE-2023-41080](https://github.com/shiomiyan/CVE-2023-41080)	<img alt="forks" src="https://img.shields.io/github/forks/shiomiyan/CVE-2023-41080">	<img alt="stars" src="https://img.shields.io/github/stars/shiomiyan/CVE-2023-41080">
+- [thperchi/CVE-2023-41080](https://github.com/thperchi/CVE-2023-41080)	<img alt="forks" src="https://img.shields.io/github/forks/thperchi/CVE-2023-41080">	<img alt="stars" src="https://img.shields.io/github/stars/thperchi/CVE-2023-41080">
 
 ---
 ## CVE-2023-40869 ()
