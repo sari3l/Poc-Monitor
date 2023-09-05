@@ -2184,6 +2184,7 @@
 - [gurneesh/CVE-2019-14287-write-up](https://github.com/gurneesh/CVE-2019-14287-write-up)	<img alt="forks" src="https://img.shields.io/github/forks/gurneesh/CVE-2019-14287-write-up">	<img alt="stars" src="https://img.shields.io/github/stars/gurneesh/CVE-2019-14287-write-up">
 - [n0w4n/CVE-2019-14287](https://github.com/n0w4n/CVE-2019-14287)	<img alt="forks" src="https://img.shields.io/github/forks/n0w4n/CVE-2019-14287">	<img alt="stars" src="https://img.shields.io/github/stars/n0w4n/CVE-2019-14287">
 - [FauxFaux/sudo-cve-2019-14287](https://github.com/FauxFaux/sudo-cve-2019-14287)	<img alt="forks" src="https://img.shields.io/github/forks/FauxFaux/sudo-cve-2019-14287">	<img alt="stars" src="https://img.shields.io/github/stars/FauxFaux/sudo-cve-2019-14287">
+- [Ijinleife/CVE-2019-14287](https://github.com/Ijinleife/CVE-2019-14287)	<img alt="forks" src="https://img.shields.io/github/forks/Ijinleife/CVE-2019-14287">	<img alt="stars" src="https://img.shields.io/github/stars/Ijinleife/CVE-2019-14287">
 
 ---
 ## CVE-2019-14271 (2019-07-29T18:15:00)
@@ -2630,6 +2631,18 @@
 > A remote code execution vulnerability exists when the IOleCvt interface renders ASP webpage content, aka 'Windows IOleCvt Interface Remote Code Execution Vulnerability'.
 - [Live-Hack-CVE/CVE-2019-0845](https://github.com/Live-Hack-CVE/CVE-2019-0845)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-0845">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-0845">
 - [Live-Hack-CVE/CVE-2019-0845](https://github.com/Live-Hack-CVE/CVE-2019-0845)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-0845">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-0845">
+
+---
+## CVE-2019-0604 (2019-03-05T23:29:00)
+> A remote code execution vulnerability exists in Microsoft SharePoint when the software fails to check the source markup of an application package, aka 'Microsoft SharePoint Remote Code Execution Vulnerability'. This CVE ID is unique from CVE-2019-0594.
+- [davidlebr1/cve-2019-0604-SP2010-netv3.5](https://github.com/davidlebr1/cve-2019-0604-SP2010-netv3.5)	<img alt="forks" src="https://img.shields.io/github/forks/davidlebr1/cve-2019-0604-SP2010-netv3.5">	<img alt="stars" src="https://img.shields.io/github/stars/davidlebr1/cve-2019-0604-SP2010-netv3.5">
+- [MayankPandey01/Sparty-2.0](https://github.com/MayankPandey01/Sparty-2.0)	<img alt="forks" src="https://img.shields.io/github/forks/MayankPandey01/Sparty-2.0">	<img alt="stars" src="https://img.shields.io/github/stars/MayankPandey01/Sparty-2.0">
+- [boxhg/CVE-2019-0604](https://github.com/boxhg/CVE-2019-0604)	<img alt="forks" src="https://img.shields.io/github/forks/boxhg/CVE-2019-0604">	<img alt="stars" src="https://img.shields.io/github/stars/boxhg/CVE-2019-0604">
+- [Gh0st0ne/weaponized-0604](https://github.com/Gh0st0ne/weaponized-0604)	<img alt="forks" src="https://img.shields.io/github/forks/Gh0st0ne/weaponized-0604">	<img alt="stars" src="https://img.shields.io/github/stars/Gh0st0ne/weaponized-0604">
+- [k8gege/CVE-2019-0604](https://github.com/k8gege/CVE-2019-0604)	<img alt="forks" src="https://img.shields.io/github/forks/k8gege/CVE-2019-0604">	<img alt="stars" src="https://img.shields.io/github/stars/k8gege/CVE-2019-0604">
+- [m5050/CVE-2019-0604](https://github.com/m5050/CVE-2019-0604)	<img alt="forks" src="https://img.shields.io/github/forks/m5050/CVE-2019-0604">	<img alt="stars" src="https://img.shields.io/github/stars/m5050/CVE-2019-0604">
+- [likescam/CVE-2019-0604_sharepoint_CVE](https://github.com/likescam/CVE-2019-0604_sharepoint_CVE)	<img alt="forks" src="https://img.shields.io/github/forks/likescam/CVE-2019-0604_sharepoint_CVE">	<img alt="stars" src="https://img.shields.io/github/stars/likescam/CVE-2019-0604_sharepoint_CVE">
+- [linhlhq/CVE-2019-0604](https://github.com/linhlhq/CVE-2019-0604)	<img alt="forks" src="https://img.shields.io/github/forks/linhlhq/CVE-2019-0604">	<img alt="stars" src="https://img.shields.io/github/stars/linhlhq/CVE-2019-0604">
 
 ---
 ## CVE-2019-0257 (2019-02-15T18:29:00)
