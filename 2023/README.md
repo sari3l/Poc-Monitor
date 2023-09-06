@@ -47,8 +47,8 @@
 - [mnqazi/CVE-2023-4696](https://github.com/mnqazi/CVE-2023-4696)	<img alt="forks" src="https://img.shields.io/github/forks/mnqazi/CVE-2023-4696">	<img alt="stars" src="https://img.shields.io/github/stars/mnqazi/CVE-2023-4696">
 
 ---
-## CVE-2023-4634 ()
-> 
+## CVE-2023-4634 (2023-09-06T09:15:00)
+> The Media Library Assistant plugin for WordPress is vulnerable to Local File Inclusion and Remote Code Execution in versions up to, and including, 3.09. This is due to insufficient controls on file paths being supplied to the 'mla_stream_file' parameter from the ~/includes/mla-stream-image.php file, where images are processed via Imagick(). This makes it possible for unauthenticated attackers to supply files via FTP that will make directory lists, local file inclusion, and remote code execution possible.
 - [Patrowl/CVE-2023-4634](https://github.com/Patrowl/CVE-2023-4634)	<img alt="forks" src="https://img.shields.io/github/forks/Patrowl/CVE-2023-4634">	<img alt="stars" src="https://img.shields.io/github/stars/Patrowl/CVE-2023-4634">
 
 ---
@@ -733,6 +733,7 @@ We recommend upgrading past commit 04c55383fa5689357bcdd2c8036725a55ed632bc.
 ## CVE-2023-3567 (2023-07-24T16:15:00)
 > A use-after-free flaw was found in vcs_read in drivers/tty/vt/vc_screen.c in vc_screen in the Linux Kernel. This flaw allows an attacker with local user access to cause a system crash or leak internal kernel information.
 - [nidhi7598/linux-4.1.15_CVE-2023-3567](https://github.com/nidhi7598/linux-4.1.15_CVE-2023-3567)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.1.15_CVE-2023-3567">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.1.15_CVE-2023-3567">
+- [nidhi7598/linux-4.19.72_CVE-2023-3567](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3567)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.19.72_CVE-2023-3567">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.19.72_CVE-2023-3567">
 - [nidhi7598/linux-4.19.72_CVE-2023-3567](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3567)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.19.72_CVE-2023-3567">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.19.72_CVE-2023-3567">
 
 ---
