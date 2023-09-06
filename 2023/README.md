@@ -346,6 +346,11 @@ The vulnerability is limited to the ROOT (default) web application.
 - [ilqarli27/CVE-2023-38286](https://github.com/ilqarli27/CVE-2023-38286)	<img alt="forks" src="https://img.shields.io/github/forks/ilqarli27/CVE-2023-38286">	<img alt="stars" src="https://img.shields.io/github/stars/ilqarli27/CVE-2023-38286">
 
 ---
+## CVE-2023-3812 (2023-07-24T16:15:00)
+> An out-of-bounds memory access flaw was found in the Linux kernel’s TUN/TAP device driver functionality in how a user generates a malicious (too big) networking packet when napi frags is enabled. This flaw allows a local user to crash or potentially escalate their privileges on the system.
+- [nidhi7598/linux-4.19.72_CVE-2023-3812](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3812)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.19.72_CVE-2023-3812">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.19.72_CVE-2023-3812">
+
+---
 ## CVE-2023-38035 (2023-08-21T17:15:00)
 > A security vulnerability in MICS Admin Portal in Ivanti MobileIron Sentry versions 9.18.0 and below, which may allow an attacker to bypass authentication controls on the administrative interface due to an insufficiently restrictive Apache HTTPD configuration. 
 - [horizon3ai/CVE-2023-38035](https://github.com/horizon3ai/CVE-2023-38035)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2023-38035">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2023-38035">
