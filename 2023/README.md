@@ -32,18 +32,18 @@
 - [Sybelle03/CVE-2023-51504](https://github.com/Sybelle03/CVE-2023-51504)	<img alt="forks" src="https://img.shields.io/github/forks/Sybelle03/CVE-2023-51504">	<img alt="stars" src="https://img.shields.io/github/stars/Sybelle03/CVE-2023-51504">
 
 ---
-## CVE-2023-4741 ()
-> 
+## CVE-2023-4741 (2023-09-03T23:15:00)
+> A vulnerability has been found in IBOS OA 4.5.5 and classified as critical. This vulnerability affects unknown code of the file ?r=diary/default/del of the component Delete Logs Handler. The manipulation leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB-238630 is the identifier assigned to this vulnerability. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
 - [wudidike/CVE-2023-4741](https://github.com/wudidike/CVE-2023-4741)	<img alt="forks" src="https://img.shields.io/github/forks/wudidike/CVE-2023-4741">	<img alt="stars" src="https://img.shields.io/github/stars/wudidike/CVE-2023-4741">
 
 ---
-## CVE-2023-4698 ()
-> 
+## CVE-2023-4698 (2023-09-01T01:15:00)
+> Improper Input Validation in GitHub repository usememos/memos prior to 0.13.2.
 - [mnqazi/CVE-2023-4698](https://github.com/mnqazi/CVE-2023-4698)	<img alt="forks" src="https://img.shields.io/github/forks/mnqazi/CVE-2023-4698">	<img alt="stars" src="https://img.shields.io/github/stars/mnqazi/CVE-2023-4698">
 
 ---
-## CVE-2023-4696 ()
-> 
+## CVE-2023-4696 (2023-09-01T01:15:00)
+> Improper Access Control in GitHub repository usememos/memos prior to 0.13.2.
 - [mnqazi/CVE-2023-4696](https://github.com/mnqazi/CVE-2023-4696)	<img alt="forks" src="https://img.shields.io/github/forks/mnqazi/CVE-2023-4696">	<img alt="stars" src="https://img.shields.io/github/stars/mnqazi/CVE-2023-4696">
 
 ---
@@ -52,8 +52,8 @@
 - [Patrowl/CVE-2023-4634](https://github.com/Patrowl/CVE-2023-4634)	<img alt="forks" src="https://img.shields.io/github/forks/Patrowl/CVE-2023-4634">	<img alt="stars" src="https://img.shields.io/github/stars/Patrowl/CVE-2023-4634">
 
 ---
-## CVE-2023-4596 ()
-> 
+## CVE-2023-4596 (2023-08-30T02:15:00)
+> The Forminator plugin for WordPress is vulnerable to arbitrary file uploads due to file type validation occurring after a file has been uploaded to the server in the upload_post_image() function in versions up to, and including, 1.24.6. This makes it possible for unauthenticated attackers to upload arbitrary files on the affected site's server which may make remote code execution possible.
 - [E1A/CVE-2023-4596](https://github.com/E1A/CVE-2023-4596)	<img alt="forks" src="https://img.shields.io/github/forks/E1A/CVE-2023-4596">	<img alt="stars" src="https://img.shields.io/github/stars/E1A/CVE-2023-4596">
 - [getdrive/PoC](https://github.com/getdrive/PoC)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/PoC">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/PoC">
 
@@ -74,8 +74,8 @@
 - [codeb0ss/CVE-2023-4174](https://github.com/codeb0ss/CVE-2023-4174)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-4174">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-4174">
 
 ---
-## CVE-2023-41717 ()
-> 
+## CVE-2023-41717 (2023-08-31T16:15:00)
+> Inappropriate file type control in Zscaler Proxy versions 3.6.1.25 and prior allows local attackers to bypass file download/upload restrictions.
 - [federella/CVE-2023-41717](https://github.com/federella/CVE-2023-41717)	<img alt="forks" src="https://img.shields.io/github/forks/federella/CVE-2023-41717">	<img alt="stars" src="https://img.shields.io/github/stars/federella/CVE-2023-41717">
 
 ---
@@ -94,18 +94,18 @@
 - [tristao-marinho/CVE-2023-41646](https://github.com/tristao-marinho/CVE-2023-41646)	<img alt="forks" src="https://img.shields.io/github/forks/tristao-marinho/CVE-2023-41646">	<img alt="stars" src="https://img.shields.io/github/stars/tristao-marinho/CVE-2023-41646">
 
 ---
-## CVE-2023-41538 ()
-> 
+## CVE-2023-41538 (2023-08-30T14:15:00)
+> phpjabbers PHP Forum Script 3.0 is vulnerable to Cross Site Scripting (XSS) via the keyword parameter.
 - [codeb0ss/CVE-2023-41538-PoC](https://github.com/codeb0ss/CVE-2023-41538-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-41538-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-41538-PoC">
 
 ---
-## CVE-2023-41508 ()
-> 
+## CVE-2023-41508 (2023-09-05T21:15:00)
+> A hard coded password in Super Store Finder v3.6 allows attackers to access the administration panel.
 - [redblueteam/CVE-2023-41508](https://github.com/redblueteam/CVE-2023-41508)	<img alt="forks" src="https://img.shields.io/github/forks/redblueteam/CVE-2023-41508">	<img alt="stars" src="https://img.shields.io/github/stars/redblueteam/CVE-2023-41508">
 
 ---
-## CVE-2023-41507 ()
-> 
+## CVE-2023-41507 (2023-09-05T22:15:00)
+> Super Store Finder v3.6 was discovered to contain multiple SQL injection vulnerabilities in the store locator component via the products, distance, lat, and lng parameters.
 - [redblueteam/CVE-2023-41507](https://github.com/redblueteam/CVE-2023-41507)	<img alt="forks" src="https://img.shields.io/github/forks/redblueteam/CVE-2023-41507">	<img alt="stars" src="https://img.shields.io/github/stars/redblueteam/CVE-2023-41507">
 
 ---
@@ -154,8 +154,8 @@ The vulnerability is limited to the ROOT (default) web application.
 - [anky-123/CVE-2023-39725](https://github.com/anky-123/CVE-2023-39725)	<img alt="forks" src="https://img.shields.io/github/forks/anky-123/CVE-2023-39725">	<img alt="stars" src="https://img.shields.io/github/stars/anky-123/CVE-2023-39725">
 
 ---
-## CVE-2023-39714 ()
-> 
+## CVE-2023-39714 (2023-09-01T18:15:00)
+> Multiple cross-site scripting (XSS) vulnerabilities in Free and Open Source Inventory Management System v1.0 allows attackers to execute arbitrary web scripts or HTML via injecting a crafted payload into the Name, Address, and Company parameters under the Add New Member section.
 - [Arajawat007/CVE-2023-39714](https://github.com/Arajawat007/CVE-2023-39714)	<img alt="forks" src="https://img.shields.io/github/forks/Arajawat007/CVE-2023-39714">	<img alt="stars" src="https://img.shields.io/github/stars/Arajawat007/CVE-2023-39714">
 
 ---
@@ -169,8 +169,8 @@ The vulnerability is limited to the ROOT (default) web application.
 - [Arajawat007/CVE-2023-39711](https://github.com/Arajawat007/CVE-2023-39711)	<img alt="forks" src="https://img.shields.io/github/forks/Arajawat007/CVE-2023-39711">	<img alt="stars" src="https://img.shields.io/github/stars/Arajawat007/CVE-2023-39711">
 
 ---
-## CVE-2023-39710 ()
-> 
+## CVE-2023-39710 (2023-09-01T14:15:00)
+> Multiple cross-site scripting (XSS) vulnerabilities in Free and Open Source Inventory Management System v1.0 allows attackers to execute arbitrary web scripts or HTML via injecting a crafted payload into the Name, Address, and Company parameters under the Add Customer section.
 - [Arajawat007/CVE-2023-39710](https://github.com/Arajawat007/CVE-2023-39710)	<img alt="forks" src="https://img.shields.io/github/forks/Arajawat007/CVE-2023-39710">	<img alt="stars" src="https://img.shields.io/github/stars/Arajawat007/CVE-2023-39710">
 
 ---
@@ -789,8 +789,8 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 - [syedhafiz1234/nftables-oob-read-write-exploit-CVE-2023-35001-](https://github.com/syedhafiz1234/nftables-oob-read-write-exploit-CVE-2023-35001-)	<img alt="forks" src="https://img.shields.io/github/forks/syedhafiz1234/nftables-oob-read-write-exploit-CVE-2023-35001-">	<img alt="stars" src="https://img.shields.io/github/stars/syedhafiz1234/nftables-oob-read-write-exploit-CVE-2023-35001-">
 
 ---
-## CVE-2023-3499 ()
-> 
+## CVE-2023-3499 (2023-09-04T12:15:00)
+> The Photo Gallery, Images, Slider in Rbs Image Gallery WordPress plugin before 3.2.16 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup)
 - [Priece001/cve-2023-3499](https://github.com/Priece001/cve-2023-3499)	<img alt="forks" src="https://img.shields.io/github/forks/Priece001/cve-2023-3499">	<img alt="stars" src="https://img.shields.io/github/stars/Priece001/cve-2023-3499">
 
 ---

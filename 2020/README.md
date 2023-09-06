@@ -4636,8 +4636,8 @@
 - [InfoSec4Fun/CVE-2020-10129](https://github.com/InfoSec4Fun/CVE-2020-10129)	<img alt="forks" src="https://img.shields.io/github/forks/InfoSec4Fun/CVE-2020-10129">	<img alt="stars" src="https://img.shields.io/github/stars/InfoSec4Fun/CVE-2020-10129">
 
 ---
-## CVE-2020-10128 ()
-> 
+## CVE-2020-10128 (2023-09-05T20:15:00)
+> SearchBlox product with version before 9.2.1 is vulnerable to stored cross-site scripting at multiple user input parameters. In SearchBlox products multiple parameters are not sanitized/validate properly which allows an attacker to inject malicious JavaScript.
 - [InfoSec4Fun/CVE-2020-10128](https://github.com/InfoSec4Fun/CVE-2020-10128)	<img alt="forks" src="https://img.shields.io/github/forks/InfoSec4Fun/CVE-2020-10128">	<img alt="stars" src="https://img.shields.io/github/stars/InfoSec4Fun/CVE-2020-10128">
 
 ---
