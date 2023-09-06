@@ -4616,23 +4616,23 @@
 - [Live-Hack-CVE/CVE-2020-10148](https://github.com/Live-Hack-CVE/CVE-2020-10148)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10148">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10148">
 
 ---
-## CVE-2020-10132 ()
-> 
+## CVE-2020-10132 (2023-09-06T19:15:00)
+> SearchBlox before Version 9.1 is vulnerable to cross-origin resource sharing misconfiguration.
 - [InfoSec4Fun/CVE-2020-10132](https://github.com/InfoSec4Fun/CVE-2020-10132)	<img alt="forks" src="https://img.shields.io/github/forks/InfoSec4Fun/CVE-2020-10132">	<img alt="stars" src="https://img.shields.io/github/stars/InfoSec4Fun/CVE-2020-10132">
 
 ---
-## CVE-2020-10131 ()
-> 
+## CVE-2020-10131 (2023-09-06T19:15:00)
+> SearchBlox before Version 9.2.1 is vulnerable to CSV macro injection in "Featured Results" parameter.
 - [InfoSec4Fun/CVE-2020-10131](https://github.com/InfoSec4Fun/CVE-2020-10131)	<img alt="forks" src="https://img.shields.io/github/forks/InfoSec4Fun/CVE-2020-10131">	<img alt="stars" src="https://img.shields.io/github/stars/InfoSec4Fun/CVE-2020-10131">
 
 ---
-## CVE-2020-10130 ()
-> 
+## CVE-2020-10130 (2023-09-06T19:15:00)
+> SearchBlox before Version 9.1 is vulnerable to business logic bypass where the user is able to create multiple super admin users in the system.
 - [InfoSec4Fun/CVE-2020-10130](https://github.com/InfoSec4Fun/CVE-2020-10130)	<img alt="forks" src="https://img.shields.io/github/forks/InfoSec4Fun/CVE-2020-10130">	<img alt="stars" src="https://img.shields.io/github/stars/InfoSec4Fun/CVE-2020-10130">
 
 ---
-## CVE-2020-10129 ()
-> 
+## CVE-2020-10129 (2023-09-06T19:15:00)
+> SearchBlox before Version 9.2.1 is vulnerable to Privileged Escalation-Lower user is able to access Admin functionality.
 - [InfoSec4Fun/CVE-2020-10129](https://github.com/InfoSec4Fun/CVE-2020-10129)	<img alt="forks" src="https://img.shields.io/github/forks/InfoSec4Fun/CVE-2020-10129">	<img alt="stars" src="https://img.shields.io/github/stars/InfoSec4Fun/CVE-2020-10129">
 
 ---
