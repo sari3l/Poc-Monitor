@@ -258,6 +258,7 @@ The vulnerability is limited to the ROOT (default) web application.
 - [Fa1c0n35/CVE-2023-38831-winrar-exploit](https://github.com/Fa1c0n35/CVE-2023-38831-winrar-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Fa1c0n35/CVE-2023-38831-winrar-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Fa1c0n35/CVE-2023-38831-winrar-exploit">
 - [LuxCodeDev/CVE-2023-38831_WinRAR](https://github.com/LuxCodeDev/CVE-2023-38831_WinRAR)	<img alt="forks" src="https://img.shields.io/github/forks/LuxCodeDev/CVE-2023-38831_WinRAR">	<img alt="stars" src="https://img.shields.io/github/stars/LuxCodeDev/CVE-2023-38831_WinRAR">
 - [xaitax/WinRAR-CVE-2023-38831](https://github.com/xaitax/WinRAR-CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/xaitax/WinRAR-CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/xaitax/WinRAR-CVE-2023-38831">
+- [GOTonyGO/CVE-2023-38831-winrar](https://github.com/GOTonyGO/CVE-2023-38831-winrar)	<img alt="forks" src="https://img.shields.io/github/forks/GOTonyGO/CVE-2023-38831-winrar">	<img alt="stars" src="https://img.shields.io/github/stars/GOTonyGO/CVE-2023-38831-winrar">
 
 ---
 ## CVE-2023-38829 ()
