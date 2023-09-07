@@ -132,6 +132,11 @@ The vulnerability is limited to the ROOT (default) web application.
 - [thperchi/CVE-2023-41080](https://github.com/thperchi/CVE-2023-41080)	<img alt="forks" src="https://img.shields.io/github/forks/thperchi/CVE-2023-41080">	<img alt="stars" src="https://img.shields.io/github/stars/thperchi/CVE-2023-41080">
 
 ---
+## CVE-2023-40930 ()
+> 
+- [NSnidie/-CVE-2023-40930](https://github.com/NSnidie/-CVE-2023-40930)	<img alt="forks" src="https://img.shields.io/github/forks/NSnidie/-CVE-2023-40930">	<img alt="stars" src="https://img.shields.io/github/stars/NSnidie/-CVE-2023-40930">
+
+---
 ## CVE-2023-40869 ()
 > 
 - [MinoTauro2020/CVE-2023-40869](https://github.com/MinoTauro2020/CVE-2023-40869)	<img alt="forks" src="https://img.shields.io/github/forks/MinoTauro2020/CVE-2023-40869">	<img alt="stars" src="https://img.shields.io/github/stars/MinoTauro2020/CVE-2023-40869">
