@@ -3584,8 +3584,8 @@
 - [Live-Hack-CVE/CVE-2021-3757](https://github.com/Live-Hack-CVE/CVE-2021-3757)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3757">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3757">
 
 ---
-## CVE-2021-3754 ()
-> 
+## CVE-2021-3754 (2022-08-26T16:15:00)
+> A flaw was found in keycloak where an attacker is able to register himself with the username same as the email ID of any existing user. This may cause trouble in getting password recovery email in case the user forgets the password.
 - [7Ragnarok7/CVE-2021-3754](https://github.com/7Ragnarok7/CVE-2021-3754)	<img alt="forks" src="https://img.shields.io/github/forks/7Ragnarok7/CVE-2021-3754">	<img alt="stars" src="https://img.shields.io/github/stars/7Ragnarok7/CVE-2021-3754">
 
 ---
