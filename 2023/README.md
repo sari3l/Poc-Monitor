@@ -1463,6 +1463,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 ## CVE-2023-30943 (2023-05-02T20:15:00)
 > The vulnerability was found Moodle which exists because the application allows a user to control path of the older to create in TinyMCE loaders. A remote user can send a specially crafted HTTP request and create arbitrary folders on the system.
 - [d0rb/CVE-2023-30943](https://github.com/d0rb/CVE-2023-30943)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2023-30943">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2023-30943">
+- [Chocapikk/CVE-2023-30943](https://github.com/Chocapikk/CVE-2023-30943)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-30943">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-30943">
 
 ---
 ## CVE-2023-30854 (2023-04-28T16:15:00)
