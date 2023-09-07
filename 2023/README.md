@@ -576,6 +576,7 @@ prior to
 ## CVE-2023-36664 (2023-06-25T22:15:00)
 > Artifex Ghostscript through 10.01.2 mishandles permission validation for pipe devices (with the %pipe% prefix or the | pipe character prefix).
 - [jakabakos/CVE-2023-36664-Ghostscript-command-injection](https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2023-36664-Ghostscript-command-injection">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2023-36664-Ghostscript-command-injection">
+- [winkler-winsen/Scan_GhostScript](https://github.com/winkler-winsen/Scan_GhostScript)	<img alt="forks" src="https://img.shields.io/github/forks/winkler-winsen/Scan_GhostScript">	<img alt="stars" src="https://img.shields.io/github/stars/winkler-winsen/Scan_GhostScript">
 
 ---
 ## CVE-2023-36544 ()
@@ -2338,6 +2339,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 ## CVE-2023-23946 (2023-02-14T20:15:00)
 > Git, a revision control system, is vulnerable to path traversal prior to versions 2.39.2, 2.38.4, 2.37.6, 2.36.5, 2.35.7, 2.34.7, 2.33.7, 2.32.6, 2.31.7, and 2.30.8. By feeding a crafted input to `git apply`, a path outside the working tree can be overwritten as the user who is running `git apply`. A fix has been prepared and will appear in v2.39.2, v2.38.4, v2.37.6, v2.36.5, v2.35.7, v2.34.7, v2.33.7, v2.32.6, v2.31.7, and v2.30.8. As a workaround, use `git apply --stat` to inspect a patch before applying; avoid applying one that creates a symbolic link and then creates a file beyond the symbolic link.
 - [thomsoe/Test_CVE-2023-23946](https://github.com/thomsoe/Test_CVE-2023-23946)	<img alt="forks" src="https://img.shields.io/github/forks/thomsoe/Test_CVE-2023-23946">	<img alt="stars" src="https://img.shields.io/github/stars/thomsoe/Test_CVE-2023-23946">
+- [bruno-1337/CVE-2023-23946-POC](https://github.com/bruno-1337/CVE-2023-23946-POC)	<img alt="forks" src="https://img.shields.io/github/forks/bruno-1337/CVE-2023-23946-POC">	<img alt="stars" src="https://img.shields.io/github/stars/bruno-1337/CVE-2023-23946-POC">
 
 ---
 ## CVE-2023-23924 (2023-02-01T00:15:00)
