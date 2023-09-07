@@ -8153,6 +8153,11 @@
 - [Live-Hack-CVE/CVE-2021-20030](https://github.com/Live-Hack-CVE/CVE-2021-20030)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20030">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20030">
 
 ---
+## CVE-2021-20021 (2021-04-09T18:15:00)
+> A vulnerability in the SonicWall Email Security version 10.0.9.x allows an attacker to create an administrative account by sending a crafted HTTP request to the remote host.
+- [SUPRAAA-1337/CVE-2021-20021](https://github.com/SUPRAAA-1337/CVE-2021-20021)	<img alt="forks" src="https://img.shields.io/github/forks/SUPRAAA-1337/CVE-2021-20021">	<img alt="stars" src="https://img.shields.io/github/stars/SUPRAAA-1337/CVE-2021-20021">
+
+---
 ## CVE-2021-1732 (2021-02-25T23:15:00)
 > Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.
 - [fenalik/CVE-2021-1732](https://github.com/fenalik/CVE-2021-1732)	<img alt="forks" src="https://img.shields.io/github/forks/fenalik/CVE-2021-1732">	<img alt="stars" src="https://img.shields.io/github/stars/fenalik/CVE-2021-1732">

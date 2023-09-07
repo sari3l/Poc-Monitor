@@ -179,8 +179,8 @@ The vulnerability is limited to the ROOT (default) web application.
 - [Arajawat007/CVE-2023-39712](https://github.com/Arajawat007/CVE-2023-39712)	<img alt="forks" src="https://img.shields.io/github/forks/Arajawat007/CVE-2023-39712">	<img alt="stars" src="https://img.shields.io/github/stars/Arajawat007/CVE-2023-39712">
 
 ---
-## CVE-2023-39711 ()
-> 
+## CVE-2023-39711 (2023-09-07T15:15:00)
+> Multiple cross-site scripting (XSS) vulnerabilities in Free and Open Source Inventory Management System v1.0 allows attackers to execute arbitrary web scripts or HTML via injecting a crafted payload into the Subtotal and Paidbill parameters under the Add New Put section.
 - [Arajawat007/CVE-2023-39711](https://github.com/Arajawat007/CVE-2023-39711)	<img alt="forks" src="https://img.shields.io/github/forks/Arajawat007/CVE-2023-39711">	<img alt="stars" src="https://img.shields.io/github/stars/Arajawat007/CVE-2023-39711">
 
 ---
@@ -1943,6 +1943,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [izzz0/CVE-2023-27372-POC](https://github.com/izzz0/CVE-2023-27372-POC)	<img alt="forks" src="https://img.shields.io/github/forks/izzz0/CVE-2023-27372-POC">	<img alt="stars" src="https://img.shields.io/github/stars/izzz0/CVE-2023-27372-POC">
 - [peiqiF4ck/WebFrameworkTools-5.1-main](https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/WebFrameworkTools-5.1-main">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.1-main">
 - [Pari-Malam/CVE-2023-27372](https://github.com/Pari-Malam/CVE-2023-27372)	<img alt="forks" src="https://img.shields.io/github/forks/Pari-Malam/CVE-2023-27372">	<img alt="stars" src="https://img.shields.io/github/stars/Pari-Malam/CVE-2023-27372">
+- [redboltsec/CVE-2023-27372-PoC](https://github.com/redboltsec/CVE-2023-27372-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/redboltsec/CVE-2023-27372-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/redboltsec/CVE-2023-27372-PoC">
 
 ---
 ## CVE-2023-27363 ()
