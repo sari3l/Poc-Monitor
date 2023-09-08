@@ -169,6 +169,11 @@ The vulnerability is limited to the ROOT (default) web application.
 - [Halcy0nic/CVE-2023-40294-and-CVE-2023-40295](https://github.com/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295)	<img alt="forks" src="https://img.shields.io/github/forks/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295">	<img alt="stars" src="https://img.shields.io/github/stars/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295">
 
 ---
+## CVE-2023-40031 (2023-08-25T20:15:00)
+> Notepad++ is a free and open-source source code editor. Versions 8.5.6 and prior are vulnerable to heap buffer write overflow in `Utf8_16_Read::convert`. This issue may lead to arbitrary code execution. As of time of publication, no known patches are available in existing versions of Notepad++.
+- [webraybtl/CVE-2023-40031](https://github.com/webraybtl/CVE-2023-40031)	<img alt="forks" src="https://img.shields.io/github/forks/webraybtl/CVE-2023-40031">	<img alt="stars" src="https://img.shields.io/github/stars/webraybtl/CVE-2023-40031">
+
+---
 ## CVE-2023-39725 ()
 > 
 - [anky-123/CVE-2023-39725](https://github.com/anky-123/CVE-2023-39725)	<img alt="forks" src="https://img.shields.io/github/forks/anky-123/CVE-2023-39725">	<img alt="stars" src="https://img.shields.io/github/stars/anky-123/CVE-2023-39725">
