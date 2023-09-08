@@ -7456,6 +7456,7 @@
 - [34zY/APT-Backpack](https://github.com/34zY/APT-Backpack)	<img alt="forks" src="https://img.shields.io/github/forks/34zY/APT-Backpack">	<img alt="stars" src="https://img.shields.io/github/stars/34zY/APT-Backpack">
 - [sei-fish/CVE-2021-22205](https://github.com/sei-fish/CVE-2021-22205)	<img alt="forks" src="https://img.shields.io/github/forks/sei-fish/CVE-2021-22205">	<img alt="stars" src="https://img.shields.io/github/stars/sei-fish/CVE-2021-22205">
 - [overgrowncarrot1/DejaVu-CVE-2021-22205](https://github.com/overgrowncarrot1/DejaVu-CVE-2021-22205)	<img alt="forks" src="https://img.shields.io/github/forks/overgrowncarrot1/DejaVu-CVE-2021-22205">	<img alt="stars" src="https://img.shields.io/github/stars/overgrowncarrot1/DejaVu-CVE-2021-22205">
+- [Hikikan/CVE-2021-22205](https://github.com/Hikikan/CVE-2021-22205)	<img alt="forks" src="https://img.shields.io/github/forks/Hikikan/CVE-2021-22205">	<img alt="stars" src="https://img.shields.io/github/stars/Hikikan/CVE-2021-22205">
 
 ---
 ## CVE-2021-22204 (2021-04-23T18:15:00)

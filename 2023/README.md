@@ -184,8 +184,8 @@ The vulnerability is limited to the ROOT (default) web application.
 - [Arajawat007/CVE-2023-39714](https://github.com/Arajawat007/CVE-2023-39714)	<img alt="forks" src="https://img.shields.io/github/forks/Arajawat007/CVE-2023-39714">	<img alt="stars" src="https://img.shields.io/github/stars/Arajawat007/CVE-2023-39714">
 
 ---
-## CVE-2023-39712 ()
-> 
+## CVE-2023-39712 (2023-09-08T18:15:00)
+> Multiple cross-site scripting (XSS) vulnerabilities in Free and Open Source Inventory Management System v1.0 allows attackers to execute arbitrary web scripts or HTML via injecting a crafted payload into the Name, Address, and Company parameters under the Add New Put section.
 - [Arajawat007/CVE-2023-39712](https://github.com/Arajawat007/CVE-2023-39712)	<img alt="forks" src="https://img.shields.io/github/forks/Arajawat007/CVE-2023-39712">	<img alt="stars" src="https://img.shields.io/github/stars/Arajawat007/CVE-2023-39712">
 
 ---
