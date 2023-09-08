@@ -153,6 +153,7 @@
 ## CVE-2017-8225 (2017-04-25T20:59:00)
 > On Wireless IP Camera (P2P) WIFICAM devices, access to .ini files (containing credentials) is not correctly checked. An attacker can bypass authentication by providing an empty loginuse parameter and an empty loginpas parameter in the URI.
 - [K3ysTr0K3R/CVE-2017-8225-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2017-8225-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2017-8225-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2017-8225-EXPLOIT">
+- [kienquoc102/CVE-2017-8225](https://github.com/kienquoc102/CVE-2017-8225)	<img alt="forks" src="https://img.shields.io/github/forks/kienquoc102/CVE-2017-8225">	<img alt="stars" src="https://img.shields.io/github/stars/kienquoc102/CVE-2017-8225">
 
 ---
 ## CVE-2017-7921 (2017-05-06T00:29:00)
