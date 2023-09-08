@@ -7032,6 +7032,7 @@
 - [Satheesh575555/Openssl_1_1_0_CVE-2021-23841](https://github.com/Satheesh575555/Openssl_1_1_0_CVE-2021-23841)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/Openssl_1_1_0_CVE-2021-23841">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/Openssl_1_1_0_CVE-2021-23841">
 - [Satheesh575555/Openssl_1_1_0_CVE-2021-23841](https://github.com/Satheesh575555/Openssl_1_1_0_CVE-2021-23841)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/Openssl_1_1_0_CVE-2021-23841">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/Openssl_1_1_0_CVE-2021-23841">
 - [nidhi7598/OPENSSL_1.1.1g_CVE-2021-23841](https://github.com/nidhi7598/OPENSSL_1.1.1g_CVE-2021-23841)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/OPENSSL_1.1.1g_CVE-2021-23841">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/OPENSSL_1.1.1g_CVE-2021-23841">
+- [Trinadh465/external_boringssl_openssl_1.1.0g_CVE-2021-23841](https://github.com/Trinadh465/external_boringssl_openssl_1.1.0g_CVE-2021-23841)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/external_boringssl_openssl_1.1.0g_CVE-2021-23841">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/external_boringssl_openssl_1.1.0g_CVE-2021-23841">
 
 ---
 ## CVE-2021-23840 (2021-02-16T17:15:00)
