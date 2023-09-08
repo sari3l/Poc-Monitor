@@ -89,8 +89,8 @@
 - [mvpyyds/CVE-2023-4165](https://github.com/mvpyyds/CVE-2023-4165)	<img alt="forks" src="https://img.shields.io/github/forks/mvpyyds/CVE-2023-4165">	<img alt="stars" src="https://img.shields.io/github/stars/mvpyyds/CVE-2023-4165">
 
 ---
-## CVE-2023-41646 ()
-> 
+## CVE-2023-41646 (2023-09-07T22:15:00)
+> Buttercup v2.20.3 allows attackers to obtain the hash of the master password for the password manager via accessing the file /vaults.json/
 - [tristao-marinho/CVE-2023-41646](https://github.com/tristao-marinho/CVE-2023-41646)	<img alt="forks" src="https://img.shields.io/github/forks/tristao-marinho/CVE-2023-41646">	<img alt="stars" src="https://img.shields.io/github/stars/tristao-marinho/CVE-2023-41646">
 
 ---
