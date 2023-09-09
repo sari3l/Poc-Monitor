@@ -192,6 +192,8 @@
 ## CVE-2019-8331 (2019-02-20T16:29:00)
 > In Bootstrap before 3.4.1 and 4.3.x before 4.3.1, XSS is possible in the tooltip or popover data-template attribute.
 - [Thampakon/CVE-2019-8331](https://github.com/Thampakon/CVE-2019-8331)	<img alt="forks" src="https://img.shields.io/github/forks/Thampakon/CVE-2019-8331">	<img alt="stars" src="https://img.shields.io/github/stars/Thampakon/CVE-2019-8331">
+- [Snorlyd/https-nj.gov---CVE-2019-8331](https://github.com/Snorlyd/https-nj.gov---CVE-2019-8331)	<img alt="forks" src="https://img.shields.io/github/forks/Snorlyd/https-nj.gov---CVE-2019-8331">	<img alt="stars" src="https://img.shields.io/github/stars/Snorlyd/https-nj.gov---CVE-2019-8331">
+- [ossf-cve-benchmark/CVE-2019-8331](https://github.com/ossf-cve-benchmark/CVE-2019-8331)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2019-8331">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2019-8331">
 
 ---
 ## CVE-2019-8292 (2019-10-01T20:15:00)
