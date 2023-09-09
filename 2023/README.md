@@ -2957,6 +2957,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 ## CVE-2023-1389 (2023-03-15T23:15:00)
 > TP-Link Archer AX21 (AX1800) firmware versions before 1.1.4 Build 20230219 contained a command injection vulnerability in the country form of the /cgi-bin/luci;stok=/locale endpoint on the web management interface. Specifically, the country parameter of the write operation was not sanitized before being used in a call to popen(), allowing an unauthenticated attacker to inject commands, which would be run as root, with a simple POST request.
 - [Voyag3r-Security/CVE-2023-1389](https://github.com/Voyag3r-Security/CVE-2023-1389)	<img alt="forks" src="https://img.shields.io/github/forks/Voyag3r-Security/CVE-2023-1389">	<img alt="stars" src="https://img.shields.io/github/stars/Voyag3r-Security/CVE-2023-1389">
+- [Terminal1337/CVE-2023-1389](https://github.com/Terminal1337/CVE-2023-1389)	<img alt="forks" src="https://img.shields.io/github/forks/Terminal1337/CVE-2023-1389">	<img alt="stars" src="https://img.shields.io/github/stars/Terminal1337/CVE-2023-1389">
 
 ---
 ## CVE-2023-1337 (2023-03-10T20:15:00)
