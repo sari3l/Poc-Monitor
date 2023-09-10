@@ -16,6 +16,13 @@
 - [Live-Hack-CVE/CVE-2007-5536](https://github.com/Live-Hack-CVE/CVE-2007-5536)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2007-5536">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2007-5536">
 
 ---
+## CVE-2007-4559 (2007-08-28T01:17:00)
+> Directory traversal vulnerability in the (1) extract and (2) extractall functions in the tarfile module in Python allows user-assisted remote attackers to overwrite arbitrary files via a .. (dot dot) sequence in filenames in a TAR archive, a related issue to CVE-2001-1267.
+- [davidholiday/CVE-2007-4559](https://github.com/davidholiday/CVE-2007-4559)	<img alt="forks" src="https://img.shields.io/github/forks/davidholiday/CVE-2007-4559">	<img alt="stars" src="https://img.shields.io/github/stars/davidholiday/CVE-2007-4559">
+- [Ooscaar/MALW](https://github.com/Ooscaar/MALW)	<img alt="forks" src="https://img.shields.io/github/forks/Ooscaar/MALW">	<img alt="stars" src="https://img.shields.io/github/stars/Ooscaar/MALW">
+- [advanced-threat-research/Creosote](https://github.com/advanced-threat-research/Creosote)	<img alt="forks" src="https://img.shields.io/github/forks/advanced-threat-research/Creosote">	<img alt="stars" src="https://img.shields.io/github/stars/advanced-threat-research/Creosote">
+
+---
 ## CVE-2007-3847 (2007-08-23T22:17:00)
 > The date handling code in modules/proxy/proxy_util.c (mod_proxy) in Apache 2.3.0, when using a threaded MPM, allows remote origin servers to cause a denial of service (caching forward proxy process crash) via crafted date headers that trigger a buffer over-read.
 - [Live-Hack-CVE/CVE-2007-3847](https://github.com/Live-Hack-CVE/CVE-2007-3847)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2007-3847">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2007-3847">
