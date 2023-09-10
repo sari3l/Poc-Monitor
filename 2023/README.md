@@ -1866,6 +1866,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [EmmanuelCruzL/CVE-2023-2825](https://github.com/EmmanuelCruzL/CVE-2023-2825)	<img alt="forks" src="https://img.shields.io/github/forks/EmmanuelCruzL/CVE-2023-2825">	<img alt="stars" src="https://img.shields.io/github/stars/EmmanuelCruzL/CVE-2023-2825">
 - [hheeyywweellccoommee/CVE-2023-2825-zaskh](https://github.com/hheeyywweellccoommee/CVE-2023-2825-zaskh)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-2825-zaskh">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-2825-zaskh">
 - [caopengyan/CVE-2023-2825](https://github.com/caopengyan/CVE-2023-2825)	<img alt="forks" src="https://img.shields.io/github/forks/caopengyan/CVE-2023-2825">	<img alt="stars" src="https://img.shields.io/github/stars/caopengyan/CVE-2023-2825">
+- [fortra/CVE-2023-28252](https://github.com/fortra/CVE-2023-28252)	<img alt="forks" src="https://img.shields.io/github/forks/fortra/CVE-2023-28252">	<img alt="stars" src="https://img.shields.io/github/stars/fortra/CVE-2023-28252">
 
 ---
 ## CVE-2023-28244 (2023-04-11T21:15:00)
