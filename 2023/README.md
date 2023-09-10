@@ -1919,6 +1919,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [blachart/CVE-2023-27997](https://github.com/blachart/CVE-2023-27997)	<img alt="forks" src="https://img.shields.io/github/forks/blachart/CVE-2023-27997">	<img alt="stars" src="https://img.shields.io/github/stars/blachart/CVE-2023-27997">
 - [gysf666/CVE-2023-27997-test](https://github.com/gysf666/CVE-2023-27997-test)	<img alt="forks" src="https://img.shields.io/github/forks/gysf666/CVE-2023-27997-test">	<img alt="stars" src="https://img.shields.io/github/stars/gysf666/CVE-2023-27997-test">
 - [Cyb3rEnthusiast/CVE-2023-27997](https://github.com/Cyb3rEnthusiast/CVE-2023-27997)	<img alt="forks" src="https://img.shields.io/github/forks/Cyb3rEnthusiast/CVE-2023-27997">	<img alt="stars" src="https://img.shields.io/github/stars/Cyb3rEnthusiast/CVE-2023-27997">
+- [TechinsightsPro/ShodanFortiOS](https://github.com/TechinsightsPro/ShodanFortiOS)	<img alt="forks" src="https://img.shields.io/github/forks/TechinsightsPro/ShodanFortiOS">	<img alt="stars" src="https://img.shields.io/github/stars/TechinsightsPro/ShodanFortiOS">
 
 ---
 ## CVE-2023-27842 (2023-03-21T15:15:00)

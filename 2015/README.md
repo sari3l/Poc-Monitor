@@ -1,6 +1,12 @@
 # 2015 List
 
 ---
+## CVE-2015-9235 (2018-05-29T20:29:00)
+> In jsonwebtoken node module before 4.2.2 it is possible for an attacker to bypass verification when a token digitally signed with an asymmetric key (RS/ES family) of algorithms but instead the attacker send a token digitally signed with a symmetric algorithm (HS* family).
+- [WinDyAlphA/CVE-2015-9235_JWT_key_confusion](https://github.com/WinDyAlphA/CVE-2015-9235_JWT_key_confusion)	<img alt="forks" src="https://img.shields.io/github/forks/WinDyAlphA/CVE-2015-9235_JWT_key_confusion">	<img alt="stars" src="https://img.shields.io/github/stars/WinDyAlphA/CVE-2015-9235_JWT_key_confusion">
+- [aalex954/jwt-key-confusion-poc](https://github.com/aalex954/jwt-key-confusion-poc)	<img alt="forks" src="https://img.shields.io/github/forks/aalex954/jwt-key-confusion-poc">	<img alt="stars" src="https://img.shields.io/github/stars/aalex954/jwt-key-confusion-poc">
+
+---
 ## CVE-2015-8994 (2017-03-02T06:59:00)
 > An issue was discovered in PHP 5.x and 7.x, when the configuration uses apache2handler/mod_php or php-fpm with OpCache enabled. With 5.x after 5.6.28 or 7.x after 7.0.13, the issue is resolved in a non-default configuration with the opcache.validate_permission=1 setting. The vulnerability details are as follows. In PHP SAPIs where PHP interpreters share a common parent process, Zend OpCache creates a shared memory object owned by the common parent during initialization. Child PHP processes inherit the SHM descriptor, using it to cache and retrieve compiled script bytecode ("opcode" in PHP jargon). Cache keys vary depending on configuration, but filename is a central key component, and compiled opcode can generally be run if a script's filename is known or can be guessed. Many common shared-hosting configurations change EUID in child processes to enforce privilege separation among hosted users (for example using mod_ruid2 for the Apache HTTP Server, or php-fpm user settings). In these scenarios, the default Zend OpCache behavior defeats script file permissions by sharing a single SHM cache among all child PHP processes. PHP scripts often contain sensitive information: Think of CMS configurations where reading or running another user's script usually means gaining privileges to the CMS database.
 - [Live-Hack-CVE/CVE-2015-8994](https://github.com/Live-Hack-CVE/CVE-2015-8994)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-8994">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-8994">
