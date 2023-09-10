@@ -974,6 +974,7 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 ## CVE-2023-3450 (2023-06-28T18:15:00)
 > A vulnerability was found in Ruijie RG-BCR860 2.5.13 and classified as critical. This issue affects some unknown processing of the component Network Diagnostic Page. The manipulation leads to os command injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-232547. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
 - [yuanjinyuyuyu/CVE-2023-3450](https://github.com/yuanjinyuyuyu/CVE-2023-3450)	<img alt="forks" src="https://img.shields.io/github/forks/yuanjinyuyuyu/CVE-2023-3450">	<img alt="stars" src="https://img.shields.io/github/stars/yuanjinyuyuyu/CVE-2023-3450">
+- [caopengyan/CVE-2023-3450](https://github.com/caopengyan/CVE-2023-3450)	<img alt="forks" src="https://img.shields.io/github/forks/caopengyan/CVE-2023-3450">	<img alt="stars" src="https://img.shields.io/github/stars/caopengyan/CVE-2023-3450">
 
 ---
 ## CVE-2023-34362 (2023-06-02T14:15:00)
