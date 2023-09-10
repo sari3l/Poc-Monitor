@@ -2924,6 +2924,12 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [codeb0ss/CVE-2023-20073-](https://github.com/codeb0ss/CVE-2023-20073-)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-20073-">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-20073-">
 
 ---
+## CVE-2023-20052 (2023-03-01T08:15:00)
+> On Feb 15, 2023, the following vulnerability in the ClamAV scanning library was disclosed: A vulnerability in the DMG file parser of ClamAV versions 1.0.0 and earlier, 0.105.1 and earlier, and 0.103.7 and earlier could allow an unauthenticated, remote attacker to access sensitive information on an affected device. This vulnerability is due to enabling XML entity substitution that may result in XML external entity injection. An attacker could exploit this vulnerability by submitting a crafted DMG file to be scanned by ClamAV on an affected device. A successful exploit could allow the attacker to leak bytes from any file that may be read by the ClamAV scanning process.
+- [cY83rR0H1t/CVE-2023-20052](https://github.com/cY83rR0H1t/CVE-2023-20052)	<img alt="forks" src="https://img.shields.io/github/forks/cY83rR0H1t/CVE-2023-20052">	<img alt="stars" src="https://img.shields.io/github/stars/cY83rR0H1t/CVE-2023-20052">
+- [nokn0wthing/CVE-2023-20052](https://github.com/nokn0wthing/CVE-2023-20052)	<img alt="forks" src="https://img.shields.io/github/forks/nokn0wthing/CVE-2023-20052">	<img alt="stars" src="https://img.shields.io/github/stars/nokn0wthing/CVE-2023-20052">
+
+---
 ## CVE-2023-2002 (2023-05-26T17:15:00)
 > A vulnerability was found in the HCI sockets implementation due to a missing capability check in net/bluetooth/hci_sock.c in the Linux Kernel. This flaw allows an attacker to unauthorized execution of management commands, compromising the confidentiality, integrity, and availability of Bluetooth communication.
 - [lrh2000/CVE-2023-2002](https://github.com/lrh2000/CVE-2023-2002)	<img alt="forks" src="https://img.shields.io/github/forks/lrh2000/CVE-2023-2002">	<img alt="stars" src="https://img.shields.io/github/stars/lrh2000/CVE-2023-2002">
