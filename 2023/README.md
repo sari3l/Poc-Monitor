@@ -2919,6 +2919,11 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [weizman/CVE-2023-1767](https://github.com/weizman/CVE-2023-1767)	<img alt="forks" src="https://img.shields.io/github/forks/weizman/CVE-2023-1767">	<img alt="stars" src="https://img.shields.io/github/stars/weizman/CVE-2023-1767">
 
 ---
+## CVE-2023-1698 (2023-05-15T09:15:00)
+> In multiple products of WAGO a vulnerability allows an unauthenticated, remote attacker to create new users and change the device configuration which can result in unintended behaviour, Denial of Service and full system compromise.
+- [codeb0ss/CVE-2023-1698-PoC](https://github.com/codeb0ss/CVE-2023-1698-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-1698-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-1698-PoC">
+
+---
 ## CVE-2023-1671 (2023-04-04T10:15:00)
 > A pre-auth command injection vulnerability in the warn-proceed handler of Sophos Web Appliance older than version 4.3.10.4 allows execution of arbitrary code.
 - [ohnonoyesyes/CVE-2023-1671](https://github.com/ohnonoyesyes/CVE-2023-1671)	<img alt="forks" src="https://img.shields.io/github/forks/ohnonoyesyes/CVE-2023-1671">	<img alt="stars" src="https://img.shields.io/github/stars/ohnonoyesyes/CVE-2023-1671">
