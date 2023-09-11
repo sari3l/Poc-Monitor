@@ -145,6 +145,11 @@ Any Unreal3.2.8.1.tar.gz downloaded BEFORE November 10 2009 should be safe, but 
 - [t0kx/privesc-CVE-2010-0426](https://github.com/t0kx/privesc-CVE-2010-0426)	<img alt="forks" src="https://img.shields.io/github/forks/t0kx/privesc-CVE-2010-0426">	<img alt="stars" src="https://img.shields.io/github/stars/t0kx/privesc-CVE-2010-0426">
 
 ---
+## CVE-2010-0232 (2010-01-21T19:30:00)
+> The kernel in Microsoft Windows NT 3.1 through Windows 7, including Windows 2000 SP4, Windows XP SP2 and SP3, Windows Server 2003 SP2, Windows Vista Gold, SP1, and SP2, and Windows Server 2008 Gold and SP2, when access to 16-bit applications is enabled on a 32-bit x86 platform, does not properly validate certain BIOS calls, which allows local users to gain privileges by crafting a VDM_TIB data structure in the Thread Environment Block (TEB), and then calling the NtVdmControl function to start the Windows Virtual DOS Machine (aka NTVDM) subsystem, leading to improperly handled exceptions involving the #GP trap handler (nt!KiTrap0D), aka "Windows Kernel Exception Handler Vulnerability."
+- [azorfus/CVE-2010-0232](https://github.com/azorfus/CVE-2010-0232)	<img alt="forks" src="https://img.shields.io/github/forks/azorfus/CVE-2010-0232">	<img alt="stars" src="https://img.shields.io/github/stars/azorfus/CVE-2010-0232">
+
+---
 ## CVE-2010-0215 (2011-01-07T23:00:00)
 > ActiveCollab before 2.3.2 allows remote authenticated users to bypass intended access restrictions, and (1) delete an attachment or (2) subscribe to an object, via a crafted URL.
 - [Live-Hack-CVE/CVE-2010-0215](https://github.com/Live-Hack-CVE/CVE-2010-0215)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-0215">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-0215">
