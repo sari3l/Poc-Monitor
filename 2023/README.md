@@ -1985,8 +1985,8 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE](https://github.com/jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE">
 
 ---
-## CVE-2023-27470 ()
-> 
+## CVE-2023-27470 (2023-09-11T15:15:00)
+> BASupSrvcUpdater.exe in N-able Take Control Agent through 7.0.41.1141 before 7.0.43 has a TOCTOU Race Condition via a pseudo-symlink at %PROGRAMDATA%\GetSupportService_N-Central\PushUpdates, leading to arbitrary file deletion.
 - [3lp4tr0n/CVE-2023-27470_Exercise](https://github.com/3lp4tr0n/CVE-2023-27470_Exercise)	<img alt="forks" src="https://img.shields.io/github/forks/3lp4tr0n/CVE-2023-27470_Exercise">	<img alt="stars" src="https://img.shields.io/github/stars/3lp4tr0n/CVE-2023-27470_Exercise">
 
 ---

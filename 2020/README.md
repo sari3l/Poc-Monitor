@@ -2657,8 +2657,8 @@
 - [rjt-gupta/CVE-2020-24089](https://github.com/rjt-gupta/CVE-2020-24089)	<img alt="forks" src="https://img.shields.io/github/forks/rjt-gupta/CVE-2020-24089">	<img alt="stars" src="https://img.shields.io/github/stars/rjt-gupta/CVE-2020-24089">
 
 ---
-## CVE-2020-24088 ()
-> 
+## CVE-2020-24088 (2023-09-11T15:15:00)
+> An issue was discovered in MmMapIoSpace routine in Foxconn Live Update Utility 2.1.6.26, allows local attackers to escalate privileges.
 - [rjt-gupta/CVE-2020-24088](https://github.com/rjt-gupta/CVE-2020-24088)	<img alt="forks" src="https://img.shields.io/github/forks/rjt-gupta/CVE-2020-24088">	<img alt="stars" src="https://img.shields.io/github/stars/rjt-gupta/CVE-2020-24088">
 
 ---
