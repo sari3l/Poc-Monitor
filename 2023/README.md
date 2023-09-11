@@ -68,8 +68,8 @@
 - [Trinadh465/linux_4.19.72_CVE-2023-42896](https://github.com/Trinadh465/linux_4.19.72_CVE-2023-42896)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux_4.19.72_CVE-2023-42896">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux_4.19.72_CVE-2023-42896">
 
 ---
-## CVE-2023-4278 ()
-> 
+## CVE-2023-4278 (2023-09-11T20:15:00)
+> The MasterStudy LMS WordPress Plugin WordPress plugin before 3.0.18 does not have proper checks in place during registration allowing anyone to register on the site as an instructor. They can then add courses and/or posts.
 - [revan-ar/CVE-2023-4278](https://github.com/revan-ar/CVE-2023-4278)	<img alt="forks" src="https://img.shields.io/github/forks/revan-ar/CVE-2023-4278">	<img alt="stars" src="https://img.shields.io/github/stars/revan-ar/CVE-2023-4278">
 
 ---
@@ -249,8 +249,8 @@ The vulnerability is limited to the ROOT (default) web application.
 - [Raj789-sec/CVE-2023-39115](https://github.com/Raj789-sec/CVE-2023-39115)	<img alt="forks" src="https://img.shields.io/github/forks/Raj789-sec/CVE-2023-39115">	<img alt="stars" src="https://img.shields.io/github/stars/Raj789-sec/CVE-2023-39115">
 
 ---
-## CVE-2023-39063 ()
-> 
+## CVE-2023-39063 (2023-09-11T19:15:00)
+> Buffer Overflow vulnerability in RaidenFTPD 2.4.4005 allows a local attacker to execute arbitrary code via the Server name field of the Step by step setup wizard.
 - [AndreGNogueira/CVE-2023-39063](https://github.com/AndreGNogueira/CVE-2023-39063)	<img alt="forks" src="https://img.shields.io/github/forks/AndreGNogueira/CVE-2023-39063">	<img alt="stars" src="https://img.shields.io/github/stars/AndreGNogueira/CVE-2023-39063">
 
 ---
@@ -301,8 +301,8 @@ The vulnerability is limited to the ROOT (default) web application.
 - [GOTonyGO/CVE-2023-38831-winrar](https://github.com/GOTonyGO/CVE-2023-38831-winrar)	<img alt="forks" src="https://img.shields.io/github/forks/GOTonyGO/CVE-2023-38831-winrar">	<img alt="stars" src="https://img.shields.io/github/stars/GOTonyGO/CVE-2023-38831-winrar">
 
 ---
-## CVE-2023-38829 ()
-> 
+## CVE-2023-38829 (2023-09-11T19:15:00)
+> An issue in NETIS SYSTEMS WF2409E v.3.6.42541 allows a remote attacker to execute arbitrary code via the ping and traceroute functions of the diagnostic tools component in the admin management interface.
 - [adhikara13/CVE-2023-38829-NETIS-WF2409E](https://github.com/adhikara13/CVE-2023-38829-NETIS-WF2409E)	<img alt="forks" src="https://img.shields.io/github/forks/adhikara13/CVE-2023-38829-NETIS-WF2409E">	<img alt="stars" src="https://img.shields.io/github/stars/adhikara13/CVE-2023-38829-NETIS-WF2409E">
 
 ---
@@ -792,8 +792,8 @@ We recommend upgrading past commit 04c55383fa5689357bcdd2c8036725a55ed632bc.
 - [ADSSA-IT/CVE-2023-35744](https://github.com/ADSSA-IT/CVE-2023-35744)	<img alt="forks" src="https://img.shields.io/github/forks/ADSSA-IT/CVE-2023-35744">	<img alt="stars" src="https://img.shields.io/github/stars/ADSSA-IT/CVE-2023-35744">
 
 ---
-## CVE-2023-35674 ()
-> 
+## CVE-2023-35674 (2023-09-11T21:15:00)
+> In onCreate of WindowState.java, there is a possible way to launch a background activity due to a logic error in the code. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.
 - [Thampakon/CVE-2023-35674](https://github.com/Thampakon/CVE-2023-35674)	<img alt="forks" src="https://img.shields.io/github/forks/Thampakon/CVE-2023-35674">	<img alt="stars" src="https://img.shields.io/github/stars/Thampakon/CVE-2023-35674">
 
 ---
