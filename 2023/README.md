@@ -782,6 +782,11 @@ We recommend upgrading past commit 04c55383fa5689357bcdd2c8036725a55ed632bc.
 - [ADSSA-IT/CVE-2023-35744](https://github.com/ADSSA-IT/CVE-2023-35744)	<img alt="forks" src="https://img.shields.io/github/forks/ADSSA-IT/CVE-2023-35744">	<img alt="stars" src="https://img.shields.io/github/stars/ADSSA-IT/CVE-2023-35744">
 
 ---
+## CVE-2023-35674 ()
+> 
+- [Thampakon/CVE-2023-35674](https://github.com/Thampakon/CVE-2023-35674)	<img alt="forks" src="https://img.shields.io/github/forks/Thampakon/CVE-2023-35674">	<img alt="stars" src="https://img.shields.io/github/stars/Thampakon/CVE-2023-35674">
+
+---
 ## CVE-2023-3567 (2023-07-24T16:15:00)
 > A use-after-free flaw was found in vcs_read in drivers/tty/vt/vc_screen.c in vc_screen in the Linux Kernel. This flaw allows an attacker with local user access to cause a system crash or leak internal kernel information.
 - [nidhi7598/linux-4.1.15_CVE-2023-3567](https://github.com/nidhi7598/linux-4.1.15_CVE-2023-3567)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.1.15_CVE-2023-3567">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.1.15_CVE-2023-3567">
