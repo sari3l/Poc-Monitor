@@ -124,6 +124,11 @@
 - [redblueteam/CVE-2023-41507](https://github.com/redblueteam/CVE-2023-41507)	<img alt="forks" src="https://img.shields.io/github/forks/redblueteam/CVE-2023-41507">	<img alt="stars" src="https://img.shields.io/github/stars/redblueteam/CVE-2023-41507">
 
 ---
+## CVE-2023-41362 (2023-08-29T16:15:00)
+> MyBB before 1.8.36 allows Code Injection by users with certain high privileges. Templates in Admin CP intentionally use eval, and there was some validation of the input to eval, but type juggling interfered with this when using PCRE within PHP.
+- [SorceryIE/CVE-2023-41362_MyBB_ACP_RCE](https://github.com/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE">
+
+---
 ## CVE-2023-41080 (2023-08-25T21:15:00)
 > URL Redirection to Untrusted Site ('Open Redirect') vulnerability in FORM authentication feature Apache Tomcat.This issue affects Apache Tomcat: from 11.0.0-M1 through 11.0.0-M10, from 10.1.0-M1 through 10.0.12, from 9.0.0-M1 through 9.0.79 and from 8.5.0 through 8.5.92.
 
@@ -1973,6 +1978,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [TardC/CVE-2023-27524](https://github.com/TardC/CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/TardC/CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/TardC/CVE-2023-27524">
 - [necroteddy/CVE-2023-27524](https://github.com/necroteddy/CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/necroteddy/CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/necroteddy/CVE-2023-27524">
 - [jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE](https://github.com/jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE">
+
+---
+## CVE-2023-27470 ()
+> 
+- [3lp4tr0n/CVE-2023-27470_Exercise](https://github.com/3lp4tr0n/CVE-2023-27470_Exercise)	<img alt="forks" src="https://img.shields.io/github/forks/3lp4tr0n/CVE-2023-27470_Exercise">	<img alt="stars" src="https://img.shields.io/github/stars/3lp4tr0n/CVE-2023-27470_Exercise">
 
 ---
 ## CVE-2023-27372 (2023-02-28T20:15:00)
