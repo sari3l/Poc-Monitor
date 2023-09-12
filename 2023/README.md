@@ -73,6 +73,11 @@
 - [revan-ar/CVE-2023-4278](https://github.com/revan-ar/CVE-2023-4278)	<img alt="forks" src="https://img.shields.io/github/forks/revan-ar/CVE-2023-4278">	<img alt="stars" src="https://img.shields.io/github/stars/revan-ar/CVE-2023-4278">
 
 ---
+## CVE-2023-4238 ()
+> 
+- [codeb0ss/CVE-2023-4238-PoC](https://github.com/codeb0ss/CVE-2023-4238-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-4238-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-4238-PoC">
+
+---
 ## CVE-2023-4174 (2023-08-06T01:15:00)
 > A vulnerability has been found in mooSocial mooStore 3.1.6 and classified as problematic. Affected by this vulnerability is an unknown functionality. The manipulation leads to cross site scripting. The attack can be launched remotely. The identifier VDB-236209 was assigned to this vulnerability.
 - [d0rb/CVE-2023-4174](https://github.com/d0rb/CVE-2023-4174)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2023-4174">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2023-4174">
@@ -3014,6 +3019,11 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 ## CVE-2023-1337 (2023-03-10T20:15:00)
 > The RapidLoad Power-Up for Autoptimize plugin for WordPress is vulnerable to unauthorized data loss due to a missing capability check on the clear_uucss_logs function in versions up to, and including, 1.7.1. This makes it possible for authenticated attackers with subscriber-level access to delete plugin log files.
 - [Penkyzduyi/CVE-2023-1337](https://github.com/Penkyzduyi/CVE-2023-1337)	<img alt="forks" src="https://img.shields.io/github/forks/Penkyzduyi/CVE-2023-1337">	<img alt="stars" src="https://img.shields.io/github/stars/Penkyzduyi/CVE-2023-1337">
+
+---
+## CVE-2023-1273 (2023-07-04T08:15:00)
+> The ND Shortcodes WordPress plugin before 7.0 does not validate some shortcode attributes before using them to generate paths passed to include function/s, allowing any authenticated users such as subscriber to perform LFI attacks
+- [codeb0ss/CVE-2023-1273-PoC](https://github.com/codeb0ss/CVE-2023-1273-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-1273-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-1273-PoC">
 
 ---
 ## CVE-2023-123456 ()
