@@ -304,6 +304,7 @@ The vulnerability is limited to the ROOT (default) web application.
 - [LuxCodeDev/CVE-2023-38831_WinRAR](https://github.com/LuxCodeDev/CVE-2023-38831_WinRAR)	<img alt="forks" src="https://img.shields.io/github/forks/LuxCodeDev/CVE-2023-38831_WinRAR">	<img alt="stars" src="https://img.shields.io/github/stars/LuxCodeDev/CVE-2023-38831_WinRAR">
 - [xaitax/WinRAR-CVE-2023-38831](https://github.com/xaitax/WinRAR-CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/xaitax/WinRAR-CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/xaitax/WinRAR-CVE-2023-38831">
 - [GOTonyGO/CVE-2023-38831-winrar](https://github.com/GOTonyGO/CVE-2023-38831-winrar)	<img alt="forks" src="https://img.shields.io/github/forks/GOTonyGO/CVE-2023-38831-winrar">	<img alt="stars" src="https://img.shields.io/github/stars/GOTonyGO/CVE-2023-38831-winrar">
+- [Malwareman007/CVE-2023-38831](https://github.com/Malwareman007/CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/Malwareman007/CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/Malwareman007/CVE-2023-38831">
 
 ---
 ## CVE-2023-38829 (2023-09-11T19:15:00)
