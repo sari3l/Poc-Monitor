@@ -264,6 +264,11 @@ The vulnerability is limited to the ROOT (default) web application.
 - [afine-com/CVE-2023-39062](https://github.com/afine-com/CVE-2023-39062)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2023-39062">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2023-39062">
 
 ---
+## CVE-2023-38891 ()
+> 
+- [jselliott/CVE-2023-38891](https://github.com/jselliott/CVE-2023-38891)	<img alt="forks" src="https://img.shields.io/github/forks/jselliott/CVE-2023-38891">	<img alt="stars" src="https://img.shields.io/github/stars/jselliott/CVE-2023-38891">
+
+---
 ## CVE-2023-38890 (2023-08-18T19:15:00)
 > Online Shopping Portal Project 3.1 allows remote attackers to execute arbitrary SQL commands/queries via the login form, leading to unauthorized access and potential data manipulation. This vulnerability arises due to insufficient validation of user-supplied input in the username field, enabling SQL Injection attacks.
 - [akshadjoshi/CVE-2023-38890](https://github.com/akshadjoshi/CVE-2023-38890)	<img alt="forks" src="https://img.shields.io/github/forks/akshadjoshi/CVE-2023-38890">	<img alt="stars" src="https://img.shields.io/github/stars/akshadjoshi/CVE-2023-38890">
