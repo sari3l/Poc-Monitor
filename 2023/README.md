@@ -802,6 +802,11 @@ We recommend upgrading past commit 04c55383fa5689357bcdd2c8036725a55ed632bc.
 - [Thampakon/CVE-2023-35674](https://github.com/Thampakon/CVE-2023-35674)	<img alt="forks" src="https://img.shields.io/github/forks/Thampakon/CVE-2023-35674">	<img alt="stars" src="https://img.shields.io/github/stars/Thampakon/CVE-2023-35674">
 
 ---
+## CVE-2023-35671 (2023-09-11T21:15:00)
+> In onHostEmulationData of HostEmulationManager.java, there is a possible way for a general purpose NFC reader to read the full card number and expiry details when the device is in locked screen mode due to a logic error in the code. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.
+- [MrTiz/CVE-2023-35671](https://github.com/MrTiz/CVE-2023-35671)	<img alt="forks" src="https://img.shields.io/github/forks/MrTiz/CVE-2023-35671">	<img alt="stars" src="https://img.shields.io/github/stars/MrTiz/CVE-2023-35671">
+
+---
 ## CVE-2023-3567 (2023-07-24T16:15:00)
 > A use-after-free flaw was found in vcs_read in drivers/tty/vt/vc_screen.c in vc_screen in the Linux Kernel. This flaw allows an attacker with local user access to cause a system crash or leak internal kernel information.
 - [nidhi7598/linux-4.1.15_CVE-2023-3567](https://github.com/nidhi7598/linux-4.1.15_CVE-2023-3567)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.1.15_CVE-2023-3567">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.1.15_CVE-2023-3567">
